@@ -66,7 +66,7 @@ CC is an experimental AI productivity agent and can make mistakes, so double-che
 
  Top of mind 
  
-    15 min  Decide on the hybrid meeting format for the Living Mindfully club [View email](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873633550186929844) [✉️  Reply ](mailto:willspirit@icloud.com?subject=Re%3A%20club&body=Hi%20Will%2C%20thanks%20for%20reaching%20out.%20Regarding%20the%20hybrid%20meeting%20format%20for%20the%20Living%20Mindfully%20club%2C%20I%27ve%20been%20considering%20using%20a%20laptop%20with%20a%20second%20camera%20for%20the%20Kentfield%20meetings.%20Do%20you%20think%20this%20setup%20will%20be%20sufficient%20for%20our%20promotional%20materials%2C%20or%20should%20we%20look%20into%20something%20more%20robust%3F).
+    15 min  Decide on the hybrid meeting format for the Living Mindfully club [🔗  View email ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873633550186929844) [✉️  Reply ](mailto:willspirit@icloud.com?subject=Re%3A%20club&body=Hi%20Will%2C%20thanks%20for%20reaching%20out.%20Regarding%20the%20hybrid%20meeting%20format%20for%20the%20Living%20Mindfully%20club%2C%20I%27ve%20been%20considering%20using%20a%20laptop%20with%20a%20second%20camera%20for%20the%20Kentfield%20meetings.%20Do%20you%20think%20this%20setup%20will%20be%20sufficient%20for%20our%20promotional%20materials%2C%20or%20should%20we%20look%20into%20something%20more%20robust%3F).
    
      Will Meecham inquired on Sat, Aug 15 if the club will be hybrid in-person and online. 
      Consider if your proposed setup—using a laptop and a second camera for Kentfield meetings—is sufficient for promotional materials.  Suggestion:  [🔗  View setup guide ](https://medium.com/@drmaxlwilson/a-low-budget-hybrid-guide-for-small-conferences-5819b8aae1b8) 
@@ -76,34 +76,34 @@ CC is an experimental AI productivity agent and can make mistakes, so double-che
    
       Suggestion:  Read a recent [🔗  review ](https://www.eastwesticism.org/spiritual-meditation-books/) of Todd's work. 
     
-   Today • 9:30 AM •  9:30 AM Meeting  (1h) [View event](https://www.google.com/calendar/event?eid=YzhyajJvOWs2aGkzOGJiMWNvc21hYjlrNzFoNjhiOW82OHJtY2I5bDYwczM0ZDM0Y2dxajRvaGc2c18yMDI2MDgxNlQxNjMwMDBaIHNwYXJreWZsYXNocmVib2JAbQ&ctz=America/Los_Angeles). 
-   Today • 5:00 PM •  Living Mindfully Meditation Group Meeting  (1.5h) via [Google Meet](https://meet.google.com/oxf-rdfm-kmn) [View event](https://www.google.com/calendar/event?eid=cTZtMnZzb2UwaDNoY2wza2R0czQ3cW5scmxfMjAyNjA4MTdUMDAwMDAwWiBzcGFya3lmbGFzamVib2JAbQ&ctz=America/Los_Angeles).
+   Today • 9:30 AM •  9:30 AM Meeting  (1h) [📅  View event ](https://www.google.com/calendar/event?eid=YzhyajJvOWs2aGkzOGJiMWNvc21hYjlrNzFoNjhiOW82OHJtY2I5bDYwczM0ZDM0Y2dxajRvaGc2c18yMDI2MDgxNlQxNjMwMDBaIHNwYXJreWZsYXNocmVib2JAbQ&ctz=America/Los_Angeles). 
+   Today • 5:00 PM •  Living Mindfully Meditation Group Meeting  (1.5h) via [✨  Google Meet ](https://meet.google.com/oxf-rdfm-kmn) [📅  View event ](https://www.google.com/calendar/event?eid=cTZtMnZzb2UwaDNoY2wza2R0czQ3cW5scmxfMjAyNjA4MTdUMDAwMDAwWiBzcGFya3lmbGFzamVib2JAbQ&ctz=America/Los_Angeles).
    
      Theme: Examining internal dialogue and how commentary on experience often serves as the root of suffering. 
      Key topics: The Reactive Mind, Projection of Judgment, and Deep Inner Listening. 
      Join link: [✨  https://meet.google.com/oxf-rdfm-kmn ](https://meet.google.com/oxf-rdfm-kmn) 
     
-   Today •  Lanterns Premiere on HBO  (All day) [View event](https://www.google.com/calendar/event?eid=NXJma2U4aXNmdmtmaWtpM2NuZWYzZzZxbnQgc3Bhcmt5Zmxhc2hyZWJvYkBt&ctz=America/Los_Angeles).
+   Today •  Lanterns Premiere on HBO  (All day) [📅  View event ](https://www.google.com/calendar/event?eid=NXJma2U4aXNmdmtmaWtpM2NuZWYzZzZxbnQgc3Bhcmt5Zmxhc2hyZWJvYkBt&ctz=America/Los_Angeles).
    
      Scheduled viewing for the series premiere; invitation accepted by Andrea Axtell. 
     
    Today •  Raiders Training Camp  (Ongoing through Sun, Aug 30) [📅  View details ](https://www.google.com/calendar/event?eid=MTJrNHNnMXMyZ2VrcWthMnU3cmw3djE4N3Ygc3Bhcmt5Zmxhc2hyZWJvYkBt&ctz=America/Los_Angeles). 
-   Your Amazon order #111-7477466-8437811 ($173.71) is estimated to arrive in Larkspur today, Sunday, Aug 16 [View order](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873650996275727657) [Map](https://www.google.com/maps/search/?api=1&query=326+Larkspur+Plaza+Dr%2C+Larkspur%2C+CA). 
+   Your Amazon order #111-7477466-8437811 ($173.71) is estimated to arrive in Larkspur today, Sunday, Aug 16 [🔗  View order ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873650996275727657) [🔗  Map ](https://www.google.com/maps/search/?api=1&query=326+Larkspur+Plaza+Dr%2C+Larkspur%2C+CA). 
  
 
  FYI 
  
-    5 min  Pay any remaining balance for the Spirit Rock Labor Day Insight Retreat by Wed, Aug 19 [View details](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873365599884191342) [📅  Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Remind+Me%3A+Pay+Spirit+Rock+balance&dates=20260819T090000%2F20260819T100000&ctz=America%2FLos_Angeles&details=Pay+any+remaining+balance+for+the+Spirit+Rock+Labor+Day+Insight+Retreat.+Reference%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19ff88166b88a66e&location=&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com).
+    5 min  Pay any remaining balance for the Spirit Rock Labor Day Insight Retreat by Wed, Aug 19 [🔗  View details ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873365599884191342) [📅  Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Remind+Me%3A+Pay+Spirit+Rock+balance&dates=20260819T090000%2F20260819T100000&ctz=America%2FLos_Angeles&details=Pay+any+remaining+balance+for+the+Spirit+Rock+Labor+Day+Insight+Retreat.+Reference%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19ff88166b88a66e&location=&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com).
    
      You previously fully paid the registration balance on Jul 14, but check for any additional unpaid fees. 
      The silent retreat runs from Wed, Sep 2 to Mon, Sep 7. 
     
-   T-Mobile AutoPay is scheduled to process a payment of $71.93 on Wed, Aug 19, using your Visa ending in 6681 [View bill](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872363421720905066). 
-   Thu, Aug 27 •  Living Mindfully Club ESCOM Council Review  [View email](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873633550186929844) [Add Event](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Living+Mindfully+Club+ESCOM+Council+Review&dates=20260827T090000%2F20260827T100000&ctz=America%2FLos_Angeles&details=ESCOM+Council+will+review+the+proposal+for+the+Living+Mindfully+Club.+Approval+expected.+Reference%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F1a007bc976255eb4&location=&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com).
+   T-Mobile AutoPay is scheduled to process a payment of $71.93 on Wed, Aug 19, using your Visa ending in 6681 [🔗  View bill ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872363421720905066). 
+   Thu, Aug 27 •  Living Mindfully Club ESCOM Council Review  [🔗  View email ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873633550186929844) [📅  Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Living+Mindfully+Club+ESCOM+Council+Review&dates=20260827T090000%2F20260827T100000&ctz=America%2FLos_Angeles&details=ESCOM+Council+will+review+the+proposal+for+the+Living+Mindfully+Club.+Approval+expected.+Reference%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F1a007bc976255eb4&location=&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com).
    
      Will Meecham confirmed the council will review your proposal on this date. Approval is expected, with meetings potentially starting the first week of Sep. 
     
-   Wed, Sep 2 • 2:30 PM •  Labor Day Insight Retreat (Spirit Rock)  starts in Woodacre, CA [🔗  View retreat info ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873365599884191342) [Add Event](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Labor+Day+Insight+Retreat+%28Spirit+Rock%29&dates=20260902T143000%2F20260907T110000&ctz=America%2FLos_Angeles&details=Labor+Day+Insight+Retreat+at+Spirit+Rock.+Check-in+2%3A30+PM+-+4%3A30+PM+in+the+Dining+Hall.+Silent+retreat+guidelines+apply.+Reference%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19ff88166b88a66e&location=Spirit+Rock+Meditation+Center%2C+Woodacre%2C+CA&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com).
+   Wed, Sep 2 • 2:30 PM •  Labor Day Insight Retreat (Spirit Rock)  starts in Woodacre, CA [🔗  View retreat info ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873365599884191342) [📅  Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Labor+Day+Insight+Retreat+%28Spirit+Rock%29&dates=20260902T143000%2F20260907T110000&ctz=America%2FLos_Angeles&details=Labor+Day+Insight+Retreat+at+Spirit+Rock.+Check-in+2%3A30+PM+-+4%3A30+PM+in+the+Dining+Hall.+Silent+retreat+guidelines+apply.+Reference%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19ff88166b88a66e&location=Spirit+Rock+Meditation+Center%2C+Woodacre%2C+CA&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com).
    
      Check-in is from 2:30 PM to 4:30 PM in the Dining Hall; dinner is served. You must arrive by 4:30 PM. 
      The retreat ends at 11:00 AM on Mon, Sep 7. 
@@ -119,7 +119,7 @@ CC is an experimental AI productivity agent and can make mistakes, so double-che
 
  CC Calendar Updates 
  
-   Updated:  Living Transmission of Love from the Other Side  — August 15, 2026 11:30am PT · [Source email](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873614985992522535) · [View event](https://www.google.com/calendar/event?eid=b3VoMWZxYm5rdDdsYmxqOWMyODBramgyM28gOWNlMWM5MDAyM2U4ZjI5MmZjMTEwNzRlNzZkOTQ3MWYzZmJlOWQxNDVjYjk0OWQ4MDY0NWM2ZDYwZjBlOGQyNUBn)
+   Updated:  Living Transmission of Love from the Other Side  — August 15, 2026 11:30am PT · [🔗  Source email ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873614985992522535) · [📅  View event ](https://www.google.com/calendar/event?eid=b3VoMWZxYm5rdDdsYmxqOWMyODBramgyM28gOWNlMWM5MDAyM2U4ZjI5MmZjMTEwNzRlNzZkOTQ3MWYzZmJlOWQxNDVjYjk0OWQ4MDY0NWM2ZDYwZjBlOGQyNUBn)
    
      New location: https://app.acuityscheduling.com/schedule.php?owner=12569473&action=zoom&uniqueID=2c7d9813bd2115c2998d94866dc3e591&ownerID=12569473 
      Event details updated 

@@ -60,7 +60,7 @@ CC is an experimental AI productivity agent and can make mistakes, so double-che
 
  Top of mind 
  
-    15 min  Pick up your prescription for SIM at the Kaiser San Rafael Downtown Medical Offices Pharmacy today, Friday, Aug 14. This is the final pickup deadline before it is returned to stock [View details](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873149001460447967) [Map](https://www.google.com/maps/search/?api=1&query=1033+Third+Street%2C+San+Rafael%2C+CA+94901) [📅  Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Pick+up+SIM+prescription+at+Kaiser&dates=20260814T170000%2F20260814T180000&ctz=America%2FLos_Angeles&details=Final+deadline+for+SIM+prescription+pickup+before+return+to+stock.+Ref%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19fec317ab6d7adf&location=1033+Third+Street%2C+San+Rafael%2C+CA+94901&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com).
+    15 min  Pick up your prescription for SIM at the Kaiser San Rafael Downtown Medical Offices Pharmacy today, Friday, Aug 14. This is the final pickup deadline before it is returned to stock [🔗  View details ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873149001460447967) [🔗  Map ](https://www.google.com/maps/search/?api=1&query=1033+Third+Street%2C+San+Rafael%2C+CA+94901) [📅  Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Pick+up+SIM+prescription+at+Kaiser&dates=20260814T170000%2F20260814T180000&ctz=America%2FLos_Angeles&details=Final+deadline+for+SIM+prescription+pickup+before+return+to+stock.+Ref%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19fec317ab6d7adf&location=1033+Third+Street%2C+San+Rafael%2C+CA+94901&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com).
    
      Note: Prescriptions for LEV, LOS, and MON had a deadline of Aug 13 and may have already been returned to stock. 
     
@@ -68,14 +68,14 @@ CC is an experimental AI productivity agent and can make mistakes, so double-che
    
      Payment is being made from your SparkyBank account ending in 0372. 
     
-   Your Substack post 'Talking to Yourself' has received 11 views and 1 reaction as of yesterday [View stats](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873444494678156866).
+   Your Substack post 'Talking to Yourself' has received 11 views and 1 reaction as of yesterday [🔗  View stats ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873444494678156866).
    
      The majority of traffic (11 views) came directly from email subscribers. 
     
    Today • 1:00 PM •  The Lost and the Found: Homelessness and Hope in SF  (1h) with Kevin Fagen [📅  See event ](https://www.google.com/calendar/event?eid=NDk5Z2oyYzc3dHQwMXJvYzl2aDJyZzMxaTMgc3Bhcmt5Zmxhc2hyZWJvYkBt&ctz=America/Los_Angeles). 
    Today • 2:45 PM •  TT Drop In Clinic!  (3h 30m) at 300 Tamal Vista Blvd suite 220 room 4, Corte Madera, CA 94925 [📅  See event ](https://www.google.com/calendar/event?eid=NnBoNmNwYjM2MHNqOGJiNTY0c21jYjlrNjhyNmFiOW9jcGhtOGI5bWM4cjY2ZTFwNjlqNjZjcjQ2NCBzcGFya3lmbGFzaHJlYm9iQG0&ctz=America/Los_Angeles) [🔗  Directions ](https://www.google.com/maps/search/?api=1&query=300+Tamal+Vista+Blvd+suite+220+room+4%2C+Corte+Madera%2C+CA+94925%2C+USA).
    
-     Organized by Andrea Axtell; includes a virtual option via [Google Meet](https://meet.google.com/cba-nsxe-mwg). 
+     Organized by Andrea Axtell; includes a virtual option via [✨  Google Meet ](https://meet.google.com/cba-nsxe-mwg). 
     
  
 
@@ -95,7 +95,7 @@ CC is an experimental AI productivity agent and can make mistakes, so double-che
      Meeting link: [🔗  Join Zoom ](https://app.acuityscheduling.com/schedule.php?owner=12569473&action=zoom&uniqueID=2c7d9813bd2115c2998d94866dc3e591&ownerID=12569473). 
     
    Sat, Aug 15 • 7:00 PM •  Saturday Night Puja  (2h) [📅  See event ](https://www.google.com/calendar/event?eid=NjVpamNvcGc2Y3BqZWI5ZzcwcG1hYjlrNzRwajRiYjFjNWdtNGI5Z2NwaTYyZTMxY2NwNjJjMW1jZ18yMDI2MDgxNlQwMjAwMDBaIHNwYXJreWZsYXNocmVib2JAbQ&ctz=America/Los_Angeles). 
-   A monthly State Farm insurance payment of $275.02 is scheduled for Sat, Aug 15 [View bill](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873434683643479102) [📅  Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=State+Farm+Payment+%28%24275.02%29&dates=20260815T100000%2F20260815T110000&ctz=America%2FLos_Angeles&details=Monthly+insurance+payment+of+%24275.02+from+debit+card+ending+in+6681.+Ref%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19ffc6eb3c77443e&location=&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com).
+   A monthly State Farm insurance payment of $275.02 is scheduled for Sat, Aug 15 [🔗  View bill ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873434683643479102) [📅  Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=State+Farm+Payment+%28%24275.02%29&dates=20260815T100000%2F20260815T110000&ctz=America%2FLos_Angeles&details=Monthly+insurance+payment+of+%24275.02+from+debit+card+ending+in+6681.+Ref%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19ffc6eb3c77443e&location=&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com).
    
      The withdrawal will be made from your debit card ending in 6681. 
     

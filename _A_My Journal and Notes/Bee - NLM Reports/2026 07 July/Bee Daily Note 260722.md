@@ -62,24 +62,24 @@ CC is an experimental AI productivity agent and can make mistakes, so double-che
 
  Top of mind 
  
-    5 min  Download your Krisp meeting data export before the link expires today, Wednesday, July 22nd [View email](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870801397541808319) [Add Reminder](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Remind%3A+Download+Krisp+meeting+data+export&dates=20260722T090000%2F20260722T100000&ctz=America%2FLos_Angeles&details=Link+expires+today.+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19f66bf589c8a8bf&location=&add=).
+    5 min  Download your Krisp meeting data export before the link expires today, Wednesday, July 22nd [🔗  View email ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870801397541808319) [📅  Remind Me ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Remind%3A+Download+Krisp+meeting+data+export&dates=20260722T090000%2F20260722T100000&ctz=America%2FLos_Angeles&details=Link+expires+today.+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19f66bf589c8a8bf&location=&add=).
    
      The file 'Krisp_meetings_2026-07-15_17-05-11-476.zip' is ready for download. 
     
    Two Amazon orders are scheduled for delivery today, Wednesday, July 22nd.
    
-      Bedding & Drugstore:  Order #112-6172160-2080245 ($36.69) [View order](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871380666490518212) 
-      Lighting & Fans:  Order #111-6615958-6110640 ($31.14) [View order](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871365266104875885) 
+      Bedding & Drugstore:  Order #112-6172160-2080245 ($36.69) [🔗  View order ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871380666490518212) 
+      Lighting & Fans:  Order #111-6615958-6110640 ($31.14) [🔗  View order ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871365266104875885) 
     
-   Today •  Tony's Birthday (1937)  (All day) [View event](https://www.google.com/calendar/event?eid=OHY4ZmNuZmg0N2VpYnFobW92NWpjOGM3Y2lfMjAyNjA3MjIgc3Bhcmt5Zmxhc2hyZWJvYkBt). 
+   Today •  Tony's Birthday (1937)  (All day) [📅  View event ](https://www.google.com/calendar/event?eid=OHY4ZmNuZmg0N2VpYnFobW92NWpjOGM3Y2lfMjAyNjA3MjIgc3Bhcmt5Zmxhc2hyZWJvYkBt). 
    Today • 7:00 AM •  Morning Practice Zoom w/ Ed Brown  (1h 15m) [✨  Join Zoom ](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09).
    
      Password: beyond 
      Schedule: Free writing at 7:00, brief talk at 7:15, sitting at 7:30, and visiting at 7:55. 
     
-   Today • 2:10 PM •  Go to class  (20m) [View event](https://www.google.com/calendar/event?eid=N2QwanA1NG5iMTkzMDdvMDluanYycTdubmNfMjAyNjA3MjJUMjExMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0). 
-   Today • 2:30 PM •  Tai Chi  (1h) at Corte Madera Community Center, 498 Tamalpais Dr, Corte Madera, CA 94925 [View event](https://www.google.com/calendar/event?eid=NzZpdXJnaXY2MWM4bGo4aGNjMm9vYmVhM2ZfMjAyNjA3MjJUMjEzMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0) [Map](https://www.google.com/maps/search/?api=1&query=Corte+Madera+Community+Center%2C+498+Tamalpais+Dr%2C+Corte+Madera%2C+CA+94925%2C+USA). 
-   Today • 6:30 PM •  Larkspur Isle HOA Board Meeting  (1h+) via Zoom [View details](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870710632786265529) [Add Event](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Larkspur+Isle+HOA+Board+Meeting&dates=20260722T183000%2F20260722T193000&ctz=America%2FLos_Angeles&details=Agenda+includes+management+transition+to+OMNI%2C+lawn+replacement%2C+and+storm+drain+repairs.+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19f61968b8c585b9&location=Zoom&add=).
+   Today • 2:10 PM •  Go to class  (20m) [📅  View event ](https://www.google.com/calendar/event?eid=N2QwanA1NG5iMTkzMDdvMDluanYycTdubmNfMjAyNjA3MjJUMjExMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0). 
+   Today • 2:30 PM •  Tai Chi  (1h) at Corte Madera Community Center, 498 Tamalpais Dr, Corte Madera, CA 94925 [📅  View event ](https://www.google.com/calendar/event?eid=NzZpdXJnaXY2MWM4bGo4aGNjMm9vYmVhM2ZfMjAyNjA3MjJUMjEzMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0) [🔗  Map ](https://www.google.com/maps/search/?api=1&query=Corte+Madera+Community+Center%2C+498+Tamalpais+Dr%2C+Corte+Madera%2C+CA+94925%2C+USA). 
+   Today • 6:30 PM •  Larkspur Isle HOA Board Meeting  (1h+) via Zoom [🔗  View details ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870710632786265529) [📅  Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Larkspur+Isle+HOA+Board+Meeting&dates=20260722T183000%2F20260722T193000&ctz=America%2FLos_Angeles&details=Agenda+includes+management+transition+to+OMNI%2C+lawn+replacement%2C+and+storm+drain+repairs.+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19f61968b8c585b9&location=Zoom&add=).
    
      Agenda includes the management transition to OMNI effective Aug 1, lawn replacement projects, and storm drain repairs. 
     
@@ -89,26 +89,26 @@ CC is an experimental AI productivity agent and can make mistakes, so double-che
  
    Several events and birthdays are scheduled for Thu, Jul 23rd.
    
-      William (Sean) Teters (1948):  Birthday (All day) [View event](https://www.google.com/calendar/event?eid=MGptbG9sNGtzmTVnOGZnbDlncmQzanBrZzhfMjAyNjA3MjMgc3Bhcmt5Zmxhc2hyZWJvYkBt) 
-      Sam Shiver:  Birthday (All day) [View event](https://www.google.com/calendar/event?eid=aWFhM2JpaGQ5ZDgwcDQ3NWxlbGZwb3YxNmdfMjAyNjA3MjMgc3Bhcmt5Zmxhc2hyZWJvYkBt) 
-      Raiders Training Camp:  Starts today and runs through Aug 30 [View event](https://www.google.com/calendar/event?eid=MTJrNHNnMXMyZ2VrcWthMnU3cmw3djE4N3Ygc3Bhcmt5Zmxhc2hyZWJvYkBt) 
+      William (Sean) Teters (1948):  Birthday (All day) [📅  View event ](https://www.google.com/calendar/event?eid=MGptbG9sNGtzmTVnOGZnbDlncmQzanBrZzhfMjAyNjA3MjMgc3Bhcmt5Zmxhc2hyZWJvYkBt) 
+      Sam Shiver:  Birthday (All day) [📅  View event ](https://www.google.com/calendar/event?eid=aWFhM2JpaGQ5ZDgwcDQ3NWxlbGZwb3YxNmdfMjAyNjA3MjMgc3Bhcmt5Zmxhc2hyZWJvYkBt) 
+      Raiders Training Camp:  Starts today and runs through Aug 30 [📅  View event ](https://www.google.com/calendar/event?eid=MTJrNHNnMXMyZ2VrcWthMnU3cmw3djE4N3Ygc3Bhcmt5Zmxhc2hyZWJvYkBt) 
       Morning Practice Zoom:  7:00 AM – 8:15 AM with Ed Brown. Includes a guided chakra meditation [✨  Join Zoom ](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09) 
     
    A busy social schedule is planned for Sat, Jul 25th.
    
-      Brunch with Kiera:  10:30 AM – 2:30 PM in Larkspur. Organized by Andrea Axtell [View invite](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871088121830360375) [✨  Virtual option ](https://meet.google.com/sht-bytc-kca) 
-      Council Potluck:  5:30 PM – 9:00 PM at 1721 Pine Ave, Petaluma, CA 94954 [Map](https://www.google.com/maps/search/?api=1&query=1721+Pine+Ave%2C+Petaluma%2C+CA+94954) [✨  Virtual option ](https://meet.google.com/fxr-ftth-xhu) 
-      Maria Muldaur Concert:  Consider attending the Jazzabelle Quintet performance at 7:30 PM at 549 Magnolia Ave, Larkspur, CA 94939 [Map](https://www.google.com/maps/search/?api=1&query=549+Magnolia+Ave%2C+Larkspur%2C+CA+94939) [🔗  Buy Tickets ](https://larktheater.net/movie-category/special-events/marin-jazz-and-the-lark-2/) 
+      Brunch with Kiera:  10:30 AM – 2:30 PM in Larkspur. Organized by Andrea Axtell [🔗  View invite ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871088121830360375) [✨  Virtual option ](https://meet.google.com/sht-bytc-kca) 
+      Council Potluck:  5:30 PM – 9:00 PM at 1721 Pine Ave, Petaluma, CA 94954 [🔗  Map ](https://www.google.com/maps/search/?api=1&query=1721+Pine+Ave%2C+Petaluma%2C+CA+94954) [✨  Virtual option ](https://meet.google.com/fxr-ftth-xhu) 
+      Maria Muldaur Concert:  Consider attending the Jazzabelle Quintet performance at 7:30 PM at 549 Magnolia Ave, Larkspur, CA 94939 [🔗  Map ](https://www.google.com/maps/search/?api=1&query=549+Magnolia+Ave%2C+Larkspur%2C+CA+94939) [🔗  Buy Tickets ](https://larktheater.net/movie-category/special-events/marin-jazz-and-the-lark-2/) 
     
-   Andrea's Earth Funeral welcome pack, including five membership cards, is expected to arrive by Wed, Jul 29 [🔗  View status ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871147898847175753) [Add Reminder](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Remind%3A+Earth+Funeral+welcome+pack+arrival&dates=20260729T090000%2F20260729T100000&ctz=America%2FLos_Angeles&details=Expected+arrival+of+welcome+pack+with+five+membership+cards.+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19f7a719a9012449&location=&add=).
+   Andrea's Earth Funeral welcome pack, including five membership cards, is expected to arrive by Wed, Jul 29 [🔗  View status ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871147898847175753) [📅  Remind Me ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Remind%3A+Earth+Funeral+welcome+pack+arrival&dates=20260729T090000%2F20260729T100000&ctz=America%2FLos_Angeles&details=Expected+arrival+of+welcome+pack+with+five+membership+cards.+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19f7a719a9012449&location=&add=).
    
      It is recommended to keep one card on your person and share the others with family. 
     
-    15 min  Consider checking your DSA membership status and dues payment at [🔗  proof.dsausa.org ](https://proof.dsausa.org) to avoid a lapse before the new policy takes effect on Tue, Aug 4 [🔗  View policy update ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871377510283841584) [Add Reminder](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Remind%3A+Check+DSA+membership+status&dates=20260803T090000%2F20260803T100000&ctz=America%2FLos_Angeles&details=Deadline+to+avoid+lapse+and+maintain+Discussion+Board+access.+https%3A%2F%2Fproof.dsausa.org&location=&add=).
+    15 min  Consider checking your DSA membership status and dues payment at [🔗  proof.dsausa.org ](https://proof.dsausa.org) to avoid a lapse before the new policy takes effect on Tue, Aug 4 [🔗  View policy update ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871377510283841584) [📅  Remind Me ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Remind%3A+Check+DSA+membership+status&dates=20260803T090000%2F20260803T100000&ctz=America%2FLos_Angeles&details=Deadline+to+avoid+lapse+and+maintain+Discussion+Board+access.+https%3A%2F%2Fproof.dsausa.org&location=&add=).
    
      Status must be updated by Mon, Aug 3 to maintain Discussion Board access. 
     
-    10 min  Drop off your 'hooga Circadian Rhythm' LED return at any Whole Foods by Thu, Aug 20 [🔗  View return instructions ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871341256008724731) [Add Reminder](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Remind%3A+Drop+off+%27hooga%27+LED+return&dates=20260820T090000%2F20260820T100000&ctz=America%2FLos_Angeles&details=Deadline+for+%2432.76+refund.+Show+QR+code+at+Whole+Foods.+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19f856f521eef0fb&location=Whole+Foods&add=).
+    10 min  Drop off your 'hooga Circadian Rhythm' LED return at any Whole Foods by Thu, Aug 20 [🔗  View return instructions ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871341256008724731) [📅  Remind Me ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Remind%3A+Drop+off+%27hooga%27+LED+return&dates=20260820T090000%2F20260820T100000&ctz=America%2FLos_Angeles&details=Deadline+for+%2432.76+refund.+Show+QR+code+at+Whole+Foods.+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19f856f521eef0fb&location=Whole+Foods&add=).
    
      No shipping box is required; just show the QR code to a store associate for a $32.76 refund. 
     
@@ -116,7 +116,7 @@ CC is an experimental AI productivity agent and can make mistakes, so double-che
    
       Dragonfly Lodge:  The website launch received positive feedback from Jon and Keith Axtell on Tue, Jul 21, confirming it looks great on both mobile and desktop [🔗  View thread ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870793313446589179) 
       Obsidian Command Center:  You saved a note on Tue, Jul 21 regarding an article on turning Obsidian into a personal command center [🔗  View note ](https://share.google/yz6c8fRm7M0JMaTz1) 
-      Amazon Skincare:  Order #112-1564847-9504205 is expected to arrive between Tue, Jul 28 and Mon, Aug 3 [View order](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871375578408725412) [Add Reminder](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Remind%3A+Amazon+Skincare+delivery+window+starts&dates=20260728T090000%2F20260728T100000&ctz=America%2FLos_Angeles&details=Order+%23112-1564847-9504205+expected+arrival+window+starts+today.&location=&add=) 
+      Amazon Skincare:  Order #112-1564847-9504205 is expected to arrive between Tue, Jul 28 and Mon, Aug 3 [🔗  View order ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871375578408725412) [📅  Remind Me ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Remind%3A+Amazon+Skincare+delivery+window+starts&dates=20260728T090000%2F20260728T100000&ctz=America%2FLos_Angeles&details=Order+%23112-1564847-9504205+expected+arrival+window+starts+today.&location=&add=) 
     
  
 

@@ -50,11 +50,11 @@ CC is an experimental AI productivity agent and can make mistakes, so double-che
 
  Top of mind 
  
-   Today • 7:00 AM •  Morning Practice Zoom w/ Ed Brown  (1h 15m) [✨  Join Zoom ](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09) [View event](https://www.google.com/calendar/event?eid=M3Z1bW84dnE4aHVwdnYwMWwxN2Eyc2FrM2tfMjAyNjA3MjFUMTQwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0).
+   Today • 7:00 AM •  Morning Practice Zoom w/ Ed Brown  (1h 15m) [✨  Join Zoom ](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09) [📅  View event ](https://www.google.com/calendar/event?eid=M3Z1bW84dnE4aHVwdnYwMWwxN2Eyc2FrM2tfMjAyNjA3MjFUMTQwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0).
    
      Password: beyond. Schedule: 7:00 free writing, 7:15 brief talk, 7:30 sitting, 7:55 visiting. 
     
-   Today • 11:00 AM •  MINDFULNESS MEDITATION CLUB  (1h 30m) at Building 10, College of Marin – Indian Valley Campus, 1800 Ignacio Blvd, Novato, CA [View event](https://www.google.com/calendar/event?eid=NzRjZ2ZybDYwNGsyZzJlcjZtMXFtNm41NjZfMjAyNjA3MjFUMTgwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0) [🔗  Directions ](https://www.google.com/maps/search/?api=1&query=Building+10%2C+College+of+Marin+%E2%80%93+Indian+Valley+Campus%2C+1800+Ignacio+Blvd%2C+Novato%2C+CA).
+   Today • 11:00 AM •  MINDFULNESS MEDITATION CLUB  (1h 30m) at Building 10, College of Marin – Indian Valley Campus, 1800 Ignacio Blvd, Novato, CA [📅  View event ](https://www.google.com/calendar/event?eid=NzRjZ2ZybDYwNGsyZzJlcjZtMXFtNm41NjZfMjAyNjA3MjFUMTgwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0) [🔗  Directions ](https://www.google.com/maps/search/?api=1&query=Building+10%2C+College+of+Marin+%E2%80%93+Indian+Valley+Campus%2C+1800+Ignacio+Blvd%2C+Novato%2C+CA).
    
      Parking is $4 in Lot P2 or Lot 3. Use the [🔗  online system ](https://marin.thepermitstore.com/purchase.php) or kiosks. 
      Building 10 is accessible via the footbridge from Lot P2. 
@@ -63,33 +63,33 @@ CC is an experimental AI productivity agent and can make mistakes, so double-che
 
  On your calendar 
  
-   Today • 7:00 AM •  Morning Practice Zoom w/ Ed Brown  (1h 15m) [✨  Join Zoom ](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09) [View event](https://www.google.com/calendar/event?eid=M3Z1bW84dnE4aHVwdnYwMWwxN2Eyc2FrM2tfMjAyNjA3MjFUMTQwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0).
+   Today • 7:00 AM •  Morning Practice Zoom w/ Ed Brown  (1h 15m) [✨  Join Zoom ](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09) [📅  View event ](https://www.google.com/calendar/event?eid=M3Z1bW84dnE4aHVwdnYwMWwxN2Eyc2FrM2tfMjAyNjA3MjFUMTQwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0).
    
      Password: beyond. Schedule: 7:00 free writing, 7:15 brief talk, 7:30 sitting, 7:55 visiting. 
     
-   Today • 11:00 AM •  MINDFULNESS MEDITATION CLUB  (1h 30m) at Building 10, College of Marin – Indian Valley Campus, 1800 Ignacio Blvd, Novato, CA [View event](https://www.google.com/calendar/event?eid=NzRjZ2ZybDYwNGsyZzJlcjZtMXFtNm41NjZfMjAyNjA3MjFUMTgwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0) [🔗  Directions ](https://www.google.com/maps/search/?api=1&query=Building+10%2C+College+of+Marin+%E2%80%93+Indian+Valley+Campus%2C+1800+Ignacio+Blvd%2C+Novato%2C+CA).
+   Today • 11:00 AM •  MINDFULNESS MEDITATION CLUB  (1h 30m) at Building 10, College of Marin – Indian Valley Campus, 1800 Ignacio Blvd, Novato, CA [📅  View event ](https://www.google.com/calendar/event?eid=NzRjZ2ZybDYwNGsyZzJlcjZtMXFtNm41NjZfMjAyNjA3MjFUMTgwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0) [🔗  Directions ](https://www.google.com/maps/search/?api=1&query=Building+10%2C+College+of+Marin+%E2%80%93+Indian+Valley+Campus%2C+1800+Ignacio+Blvd%2C+Novato%2C+CA).
    
      Parking is $4 in Lot P2 or Lot 3. Use the [🔗  online system ](https://marin.thepermitstore.com/purchase.php) or kiosks. 
      Building 10 is accessible via the footbridge from Lot P2. 
     
-   Wed, Jul 22 •  Tony's Birthday  (All day) [View event](https://www.google.com/calendar/event?eid=OHY4ZmNuZmg0N2VpYnFobW92NWpjOGM3Y2lfMjAyNjA3MjIgc3Bhcmt5Zmxhc2hyZWJvYkBt). 
-   Wed, Jul 22 • 7:00 AM •  Morning Practice Zoom w/ Ed Brown  (1h 15m) [✨  Join Zoom ](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09) [View event](https://www.google.com/calendar/event?eid=M3Z1bW84dnE4aHVwdnYwMWwxN2Eyc2FrM2tfMjAyNjA3MjJUMTQwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0). 
-   Wed, Jul 22 • 2:10 PM •  Go to class  (20m) [View event](https://www.google.com/calendar/event?eid=N2QwanA1NG5iMTkzMDdvMDluanYycTdubmNfMjAyNjA3MjJUMjExMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0). 
-   Wed, Jul 22 • 2:30 PM •  Tai Chi  (1h) at Corte Madera Community Center, 498 Tamalpais Dr, Corte Madera, CA 94925 [View event](https://www.google.com/calendar/event?eid=NzZpdXJnaXY2MWM4bGo4aGNjMm9vYmVhM2ZfMjAyNjA3MjJUMjEzMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0) [🔗  Directions ](https://www.google.com/maps/search/?api=1&query=Corte+Madera+Community+Center%2C+498+Tamalpais+Dr%2C+Corte+Madera%2C+CA+94925). 
+   Wed, Jul 22 •  Tony's Birthday  (All day) [📅  View event ](https://www.google.com/calendar/event?eid=OHY4ZmNuZmg0N2VpYnFobW92NWpjOGM3Y2lfMjAyNjA3MjIgc3Bhcmt5Zmxhc2hyZWJvYkBt). 
+   Wed, Jul 22 • 7:00 AM •  Morning Practice Zoom w/ Ed Brown  (1h 15m) [✨  Join Zoom ](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09) [📅  View event ](https://www.google.com/calendar/event?eid=M3Z1bW84dnE4aHVwdnYwMWwxN2Eyc2FrM2tfMjAyNjA3MjJUMTQwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0). 
+   Wed, Jul 22 • 2:10 PM •  Go to class  (20m) [📅  View event ](https://www.google.com/calendar/event?eid=N2QwanA1NG5iMTkzMDdvMDluanYycTdubmNfMjAyNjA3MjJUMjExMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0). 
+   Wed, Jul 22 • 2:30 PM •  Tai Chi  (1h) at Corte Madera Community Center, 498 Tamalpais Dr, Corte Madera, CA 94925 [📅  View event ](https://www.google.com/calendar/event?eid=NzZpdXJnaXY2MWM4bGo4aGNjMm9vYmVhM2ZfMjAyNjA3MjJUMjEzMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0) [🔗  Directions ](https://www.google.com/maps/search/?api=1&query=Corte+Madera+Community+Center%2C+498+Tamalpais+Dr%2C+Corte+Madera%2C+CA+94925). 
  
 
  FYI 
  
    You have several events scheduled for Wed, Jul 22.
    
-      Tony's Birthday:  All day [View event](https://www.google.com/calendar/event?eid=OHY4ZmNuZmg0N2VpYnFobW92NWpjOGM3Y2lfMjAyNjA3MjIgc3Bhcmt5Zmxhc2hyZWJvYkBt) 
+      Tony's Birthday:  All day [📅  View event ](https://www.google.com/calendar/event?eid=OHY4ZmNuZmg0N2VpYnFobW92NWpjOGM3Y2lfMjAyNjA3MjIgc3Bhcmt5Zmxhc2hyZWJvYkBt) 
       Suggestion:  Birthday dinner at The Boardroom in Novato [🔗  View ](https://theboardroomnovato.com/) 
       Suggestion:  Italian dinner at Aurora Ristorante [🔗  View ](https://auroranovato.com/) 
       Morning Practice Zoom:  7:00 AM - 8:15 AM [✨  Join Zoom ](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09) 
-      Go to class:  2:10 PM - 2:30 PM [View event](https://www.google.com/calendar/event?eid=N2QwanA1NG5iMTkzMDdvMDluanYycTdubmNfMjAyNjA3MjJUMjExMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0) 
-      Tai Chi:  2:30 PM - 3:30 PM at Corte Madera Community Center [View event](https://www.google.com/calendar/event?eid=NzZpdXJnaXY2MWM4bGo4aGNjMm9vYmVhM2ZfMjAyNjA3MjJUMjEzMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0) [🔗  Directions ](https://www.google.com/maps/search/?api=1&query=Corte+Madera+Community+Center%2C+498+Tamalpais+Dr%2C+Corte+Madera%2C+CA+94925) 
+      Go to class:  2:10 PM - 2:30 PM [📅  View event ](https://www.google.com/calendar/event?eid=N2QwanA1NG5iMTkzMDdvMDluanYycTdubmNfMjAyNjA3MjJUMjExMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0) 
+      Tai Chi:  2:30 PM - 3:30 PM at Corte Madera Community Center [📅  View event ](https://www.google.com/calendar/event?eid=NzZpdXJnaXY2MWM4bGo4aGNjMm9vYmVhM2ZfMjAyNjA3MjJUMjEzMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0) [🔗  Directions ](https://www.google.com/maps/search/?api=1&query=Corte+Madera+Community+Center%2C+498+Tamalpais+Dr%2C+Corte+Madera%2C+CA+94925) 
     
-   Your Earth Funeral welcome pack is expected to arrive by Fri, Jul 24 [View details](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870362527398373514) [📅  Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Check+for+Earth+Funeral+welcome+pack&dates=20260724T090000%2F20260724T093000&ctz=America%2FLos_Angeles&details=Check+for+the+arrival+of+the+Earth+Funeral+welcome+pack+%285+membership+cards+and+insurance+policy+confirmation%29.&location=&add=).
+   Your Earth Funeral welcome pack is expected to arrive by Fri, Jul 24 [🔗  View details ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870362527398373514) [📅  Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Check+for+Earth+Funeral+welcome+pack&dates=20260724T090000%2F20260724T093000&ctz=America%2FLos_Angeles&details=Check+for+the+arrival+of+the+Earth+Funeral+welcome+pack+%285+membership+cards+and+insurance+policy+confirmation%29.&location=&add=).
    
      The pack includes 5 membership cards. Insurance policy confirmation from Homesteaders Life Company is also pending [✉️  Reply ](mailto:planahead@earthfuneral.com?subject=Re%3A%20Prearrangement%20Approved&body=Hi%20Nicole%2C%20I%27m%20checking%20in%20on%20the%20status%20of%20the%20insurance%20policy%20confirmation%20from%20Homesteaders%20Life%20Company.%20Thanks%2C%20Andy). 
      For updates, contact Nicole Smith or the Care Team at [🔗  877-327-4109 ](tel:8773274109). 

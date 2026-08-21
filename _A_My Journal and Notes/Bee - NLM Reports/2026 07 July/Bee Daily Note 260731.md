@@ -72,7 +72,7 @@ CC is an experimental AI productivity agent and can make mistakes, so double-che
    
      Funds are scheduled for withdrawal from your Bank of America account ending in DRIVE. 
     
-   Today • All Day •  Raiders Training Camp  [View event](https://www.google.com/calendar/event?eid=MTJrNHNnMXMyZ2VrcWthMnU3cmw3djE4N3Ygc3Bhcmt5Zmxhc2hyZWJvYkBt).
+   Today • All Day •  Raiders Training Camp  [📅  View event ](https://www.google.com/calendar/event?eid=MTJrNHNnMXMyZ2VrcWthMnU3cmw3djE4N3Ygc3Bhcmt5Zmxhc2hyZWJvYkBt).
    
       Fan Info:  Official training camp updates and FAQs [🔗  View ](https://www.raiders.com/training-camp/) 
     
@@ -89,8 +89,8 @@ CC is an experimental AI productivity agent and can make mistakes, so double-che
 
  FYI 
  
-   Sat, Aug 1 • 7:00 PM •  Saturday Night Puja  (2h) [View event](https://www.google.com/calendar/event?eid=NjVpamNvcGc2Y3BqZWI5ZzcwcG1hYjlrNzRwajRiYjFjNWdtNGI5Z2NwaTYyZTMxY2NwNjJjMW1jZ18yMDI2MDgwMlQwMjAwMDBaIHNwYXJreWZsYXNocmVib2JAbQ). 
-   Sun, Aug 2 • 5:00 PM •  Living Mindfully: Finding Stability  (1.5h) via [Google Meet](https://meet.google.com/dhf-mnbc-qkn) [🔗  view details ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872161325332248676) [📅  View Event ](https://www.google.com/calendar/event?eid=cTZtMnZzb2UwaDNoY2wza2R0czQ3cW5scmxfMjAyNjA4MDNUMDAwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0).
+   Sat, Aug 1 • 7:00 PM •  Saturday Night Puja  (2h) [📅  View event ](https://www.google.com/calendar/event?eid=NjVpamNvcGc2Y3BqZWI5ZzcwcG1hYjlrNzRwajRiYjFjNWdtNGI5Z2NwaTYyZTMxY2NwNjJjMW1jZ18yMDI2MDgwMlQwMjAwMDBaIHNwYXJreWZsYXNocmVib2JAbQ). 
+   Sun, Aug 2 • 5:00 PM •  Living Mindfully: Finding Stability  (1.5h) via [✨  Google Meet ](https://meet.google.com/dhf-mnbc-qkn) [🔗  view details ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872161325332248676) [📅  View Event ](https://www.google.com/calendar/event?eid=cTZtMnZzb2UwaDNoY2wza2R0czQ3cW5scmxfMjAyNjA4MDNUMDAwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0).
    
      The gathering will focus on exploring stability through daily life practice, featuring Ajahn Chah's teachings and the scriptural story of the 'dog-duty and ox-duty ascetics'. 
     
@@ -111,7 +111,7 @@ CC is an experimental AI productivity agent and can make mistakes, so double-che
 
  CC Calendar Updates 
  
-   New:  Living Mindfully Gathering  — August 2, 2026 5:00pm PT · [Source email](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872161325332248676) · [View event](https://www.google.com/calendar/event?eid=YjJwMm9hc2liNDVqaHRlajJudmRwNG84MTggOWNlMWM5MDAyM2U4ZjI5MmZjMTEwNzRlNzZkOTQ3MWYzZmJlOWQxNDVjYjk0OWQ4MDY0NWM2ZDYwZjBlOGQyNUBn) 
+   New:  Living Mindfully Gathering  — August 2, 2026 5:00pm PT · [🔗  Source email ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872161325332248676) · [📅  View event ](https://www.google.com/calendar/event?eid=YjJwMm9hc2liNDVqaHRlajJudmRwNG84MTggOWNlMWM5MDAyM2U4ZjI5MmZjMTEwNzRlNzZkOTQ3MWYzZmJlOWQxNDVjYjk0OWQ4MDY0NWM2ZDYwZjBlOGQyNUBn) 
    💡 We've added a new setting to keep your calendar clean! You can now turn on Skip duplicates at labs.google.com/cc/settings so CC won't create events that are already on your primary calendar moving forward. Note: With this setting on, CC will ignore events already on your primary calendar—it won't sync or update them on your CC calendar. 
  
 

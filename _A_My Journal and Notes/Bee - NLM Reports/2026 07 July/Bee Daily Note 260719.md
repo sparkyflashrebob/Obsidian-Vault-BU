@@ -66,17 +66,17 @@ CC is an experimental AI productivity agent and can make mistakes, so double-che
    
      A separate verification is also required for your anonymous support request [🔗  Verify Support ](https://support.ujam.com/verification/anonymous_request/kSRNo03TNwIl6J5dGaTaCB0wn?locale=1). 
     
-    10 min  Follow up with Nicole Skibola regarding your Marin DSA fee waiver request to ensure your membership remains active [View email](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871079756389411387) [✉️  Reply ](mailto:sparkyflashrebob@gmail.com?subject=Re%3A%20Marin%20DSA%20-%20Urgent%20Membership%20Billing%20Issue%20for%20Monthly%20Dues&body=Hi%20Nicole%2C%20thank%20you%20for%20looking%20into%20the%20fee%20waiver%20process%20for%20me.%20Please%20let%20me%20know%20what%20the%20next%20steps%20are%20for%20re-applying.%20Best%2C%20Andy).
+    10 min  Follow up with Nicole Skibola regarding your Marin DSA fee waiver request to ensure your membership remains active [🔗  View email ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871079756389411387) [✉️  Reply ](mailto:sparkyflashrebob@gmail.com?subject=Re%3A%20Marin%20DSA%20-%20Urgent%20Membership%20Billing%20Issue%20for%20Monthly%20Dues&body=Hi%20Nicole%2C%20thank%20you%20for%20looking%20into%20the%20fee%20waiver%20process%20for%20me.%20Please%20let%20me%20know%20what%20the%20next%20steps%20are%20for%20re-applying.%20Best%2C%20Andy).
    
      Nicole is investigating the process for re-applying with a waiver due to your fixed income status. 
     
-   T-Mobile AutoPay of $71.92 for account ending in 0801 is scheduled to process today using your Visa ending in 6681 [View bill](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1869623372726038681). 
+   T-Mobile AutoPay of $71.92 for account ending in 0801 is scheduled to process today using your Visa ending in 6681 [🔗  View bill ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1869623372726038681). 
    Your $300.00 mobile check deposit for the Bank of America account ending in 0372 is expected to post on Mon, Jul 20 [🔗  View confirmation ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871092588688760757). 
    Consider your 5:00 PM schedule today, as you have three overlapping commitments and interests.
    
       DSA Call:  Socialism and the Black Radical Tradition featuring Cori Bush [✨  Join Zoom ](https://dsausa.zoom.us/w/83208101017?tk=qa_TlVhoD7QjZV_G6Z_uZroEDymMM35hvFVuBQsjwEs.DQkAAAATX5bcmRZwanNRcDhVbVRveWhDTlJmSVZlVy13AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&uuid=WN_eLadiCqjSCuxpfJYWMa6Ew) [📅  View Event ](https://www.google.com/calendar/event?eid=X2M4c2plcXJsZDhzbXVkajNlMHBqMHA5aGQwcjMwcnJhNjFoamlyajVjaG5qY2NqamQ5aDZjZGJhNnBubXVvamFjZ29uMGRqMWR0bDZjb3BwNjByNmFzajI2NWkzYXI5aWVkbm40cGo0ZGMgc3Bhcmt5Zmxhc2hyZWJvYkBt) 
       Meditation:  Weekly Living Mindfully Council Meeting [✨  Join Meet ](https://meet.google.com/oxf-rdfm-kmn?hs=224) [📅  View Event ](https://www.google.com/calendar/event?eid=cTZtMnZzb2UwaDNoY2wza2R0czQ3cW5scmxfMjAyNjA3MjdUMDAwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0) 
-      Concert:  The Westones performing at Corte Madera Town Park [View details](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870918013705802430) [Add Event](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Concert%3A+The+Westones&dates=20260719T170000%2F20260719T190000&ctz=America%2FLos_Angeles&details=The+Westones+performing+at+Corte+Madera+Town+Park.&location=Corte+Madera+Town+Park%2C+CA&add=) 
+      Concert:  The Westones performing at Corte Madera Town Park [🔗  View details ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870918013705802430) [📅  Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Concert%3A+The+Westones&dates=20260719T170000%2F20260719T190000&ctz=America%2FLos_Angeles&details=The+Westones+performing+at+Corte+Madera+Town+Park.&location=Corte+Madera+Town+Park%2C+CA&add=) 
     
  
 
@@ -86,16 +86,16 @@ CC is an experimental AI productivity agent and can make mistakes, so double-che
    
      Sunday schedule includes a sitting at 7:00 AM, lecture at 7:10 AM, and visiting at 7:55 AM. Use password 'beyond'. 
     
-   Today • 10:00 AM •  SAN RAFAEL Good Trouble Lives On  (1h 30m) at Marin County Civic Center, 3501 Civic Center Dr, San Rafael, CA 94903 [View details](https://www.mobilize.us/john-lewis-actions/event/988292/) [🔗  Directions ](https://www.google.com/maps/search/?api=1&query=Marin+County+Civic+Center%2C+3501+Civic+Center+Dr%2C+San+Rafael%2C+CA%2C+94903).
+   Today • 10:00 AM •  SAN RAFAEL Good Trouble Lives On  (1h 30m) at Marin County Civic Center, 3501 Civic Center Dr, San Rafael, CA 94903 [🔗  View details ](https://www.mobilize.us/john-lewis-actions/event/988292/) [🔗  Directions ](https://www.google.com/maps/search/?api=1&query=Marin+County+Civic+Center%2C+3501+Civic+Center+Dr%2C+San+Rafael%2C+CA%2C+94903).
    
      Gather at the free speech area near the first entrance to the farmers market. The event includes music and a 30-minute march through the grounds. 
     
-   Today • 12:00 PM •  World Cup FINAL  (3h) [View event](https://www.google.com/calendar/event?eid=MnY1Z2hjZzlkMjVtMjRjN2l1ODFvbWhyaWogc3Bhcmt5Zmxhc2hyZWJvYkBt). 
+   Today • 12:00 PM •  World Cup FINAL  (3h) [📅  View event ](https://www.google.com/calendar/event?eid=MnY1Z2hjZzlkMjVtMjRjN2l1ODFvbWhyaWogc3Bhcmt5Zmxhc2hyZWJvYkBt). 
    Today • 5:00 PM •  Socialism and the Black Radical Tradition  (1h 30m) featuring Cori Bush and Chris Rabb [✨  Join Zoom ](https://dsausa.zoom.us/w/83208101017?tk=qa_TlVhoD7QjZV_G6Z_uZroEDymMM35hvFVuBQsjwEs.DQkAAAATX5bcmRZwanNRcDhVbVRveWhDTlJmSVZlVy13AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&uuid=WN_eLadiCqjSCuxpfJYWMa6Ew).
    
      Webinar ID: 832 0810 1017. Dial-in available at [🔗  +1 507 473 4847 ](tel:+15074734847). 
     
-   Mon, Jul 20 •  Capri's Birthday  [View event](https://www.google.com/calendar/event?eid=NjhxM2NvcG82b3JtYWJiNmNjbzZhYjlrY2RpamliOXA2Y3M2NGI5aTcwcjMwZTFuNjRyMzBwOWo2OF8yMDI2MDcyMCBzcGFya3lmbGFzaHJlYm9iQG0). 
+   Mon, Jul 20 •  Capri's Birthday  [📅  View event ](https://www.google.com/calendar/event?eid=NjhxM2NvcG82b3JtYWJiNmNjbzZhYjlrY2RpamliOXA2Y3M2NGI5aTcwcjMwZTFuNjRyMzBwOWo2OF8yMDI2MDcyMCBzcGFya3lmbGFzaHJlYm9iQG0). 
    Mon, Jul 20 • 7:00 AM •  Morning Practice Zoom w/ Ed Brown  (1h 15m) [✨  Join Zoom ](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09).
    
      Monday schedule includes free writing at 7:00 AM, a brief talk at 7:15 AM, and sitting at 7:30 AM. 
@@ -106,10 +106,10 @@ CC is an experimental AI productivity agent and can make mistakes, so double-che
  
    Upcoming community and social events for the week ahead.
    
-      HOA Meeting:  The Larkspur Isle Open Board Meeting is scheduled for Wed, Jul 22 at 6:30 PM via Zoom. [🔗  View update ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870710632786265529) [Add Event](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Larkspur+Isle+HOA+Open+Board+Meeting&dates=20260722T183000%2F20260722T200000&ctz=America%2FLos_Angeles&details=Open+Board+Meeting+via+Zoom.&location=Zoom&add=) 
-      Brunch with Kiera:  Social visit and brunch with Kiera McGuire in Larkspur on Sat, Jul 25 from 10:30 AM to 2:30 PM. [View invite](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871088121830360375) [📅  View Event ](https://www.google.com/calendar/event?eid=YzRvNjJjOWk2a29tYWJiMWM1aW02YjlrNmdvamViOXA2a3MzNGI5bjYxaTM0ZWIzY2dyajhwMXA2cyBzcGFya3lmbGFzaHJlYm9iQG0) 
+      HOA Meeting:  The Larkspur Isle Open Board Meeting is scheduled for Wed, Jul 22 at 6:30 PM via Zoom. [🔗  View update ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870710632786265529) [📅  Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Larkspur+Isle+HOA+Open+Board+Meeting&dates=20260722T183000%2F20260722T200000&ctz=America%2FLos_Angeles&details=Open+Board+Meeting+via+Zoom.&location=Zoom&add=) 
+      Brunch with Kiera:  Social visit and brunch with Kiera McGuire in Larkspur on Sat, Jul 25 from 10:30 AM to 2:30 PM. [🔗  View invite ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871088121830360375) [📅  View Event ](https://www.google.com/calendar/event?eid=YzRvNjJjOWk2a29tYWJiMWM1aW02YjlrNmdvamViOXA2a3MzNGI5bjYxaTM0ZWIzY2dyajhwMXA2cyBzcGFya3lmbGFzaHJlYm9iQG0) 
       Pariyatti Presentation:  'Beyond Day Ten' virtual session with Cori Bilyayev on Sun, Jul 26 at 8:00 AM. [✨  Join Zoom ](https://us06web.zoom.us/w/86826085307?tk=1hvks2sXUxMTYYwlA325NB6YhFl0NmGEhOSZaXDzJuk.DQkAAAAUNzzruxZ5RU82elFkTlJrV0gzSjdPVjU5V2FnAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&pwd=ge95vv1mJQXQ2YD0lLerdUNzhBJ4af.1) [📅  View Event ](https://www.google.com/calendar/event?eid=MjB1M2RxZHEyZ3ZnbXZxOGlxNm5iNzZhcGggc3Bhcmt5Zmxhc2hyZWJvYkBt) 
-      Summer Concert:  'lucky break' performs at Corte Madera Town Park on Sun, Jul 26 at 5:00 PM. [🔗  View flyer ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870918013705802430) [Add Event](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Summer+Concert%3A+lucky+break&dates=20260726T170000%2F20260726T190000&ctz=America%2FLos_Angeles&details=%27lucky+break%27+performs+at+Corte+Madera+Town+Park.&location=Corte+Madera+Town+Park%2C+CA&add=) 
+      Summer Concert:  'lucky break' performs at Corte Madera Town Park on Sun, Jul 26 at 5:00 PM. [🔗  View flyer ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870918013705802430) [📅  Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Summer+Concert%3A+lucky+break&dates=20260726T170000%2F20260726T190000&ctz=America%2FLos_Angeles&details=%27lucky+break%27+performs+at+Corte+Madera+Town+Park.&location=Corte+Madera+Town+Park%2C+CA&add=) 
     
  
 

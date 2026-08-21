@@ -56,13 +56,13 @@ CC is an experimental AI productivity agent and can make mistakes, so double-che
 
  Top of mind 
  
-    15 min  Prepare for your volunteer call with John O'Connor (Audio Lead) and Lish Dorosin (Volunteer Manager) from the Insight Retreat Center (IRC). You agreed to connect this weekend (Sat, Aug 8 or Sun, Aug 9) to discuss recording and editing details for retreat talks [View email](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872727749439993466) [✉️  Reply ](mailto:sparkyflashrebob@gmail.com?subject=Re%3A%20Voluntering&body=Hi%20John%20and%20Lish%2C%20I%27m%20looking%20forward%20to%20connecting%20this%20weekend%20to%20discuss%20the%20recording%20and%20editing%20details%20for%20the%20retreat%20talks.%20Would%20Saturday%20or%20Sunday%20afternoon%20work%20for%20a%20brief%20call%3F).
+    15 min  Prepare for your volunteer call with John O'Connor (Audio Lead) and Lish Dorosin (Volunteer Manager) from the Insight Retreat Center (IRC). You agreed to connect this weekend (Sat, Aug 8 or Sun, Aug 9) to discuss recording and editing details for retreat talks [🔗  View email ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872727749439993466) [✉️  Reply ](mailto:sparkyflashrebob@gmail.com?subject=Re%3A%20Voluntering&body=Hi%20John%20and%20Lish%2C%20I%27m%20looking%20forward%20to%20connecting%20this%20weekend%20to%20discuss%20the%20recording%20and%20editing%20details%20for%20the%20retreat%20talks.%20Would%20Saturday%20or%20Sunday%20afternoon%20work%20for%20a%20brief%20call%3F).
    
      Note that you will be on retreat leading up to Labor Day and out the following week. 
     
-   Today • All Day •  Raiders Training Camp  (Ends Sun, Aug 30) [View event](https://www.google.com/calendar/event?eid=MTJrNHNnMXMyZ2VrcWthMnU3cmw3djE4N3Ygc3Bhcmt5Zmxhc2hyZWJvYkBt). 
-   Today • All Day •  King Tides  (Ends Thu, Aug 13) [View event](https://www.google.com/calendar/event?eid=NnNvajBlOW02a3NtYWJiMjZvcWphYjlrNzByNmFiOXBjOWk2YWI5bjY5Z2ppY3BpY3BpMzJwMWljOCBzcGFya3lmbGFzaHJlYm9iQG0). 
-   Today • 7:30 PM •  ⚠️ High Tide Alert (>6.5') - Corte Madera Creek  (30m) [View event](https://www.google.com/calendar/event?eid=cG01azUzczQ4dGRxYmhqNm84Nm05bjJoZ2cgc3Bhcmt5Zmxhc2hyZWJvYkBt).
+   Today • All Day •  Raiders Training Camp  (Ends Sun, Aug 30) [📅  View event ](https://www.google.com/calendar/event?eid=MTJrNHNnMXMyZ2VrcWthMnU3cmw3djE4N3Ygc3Bhcmt5Zmxhc2hyZWJvYkBt). 
+   Today • All Day •  King Tides  (Ends Thu, Aug 13) [📅  View event ](https://www.google.com/calendar/event?eid=NnNvajBlOW02a3NtYWJiMjZvcWphYjlrNzByNmFiOXBjOWk2YWI5bjY5Z2ppY3BpY3BpMzJwMWljOCBzcGFya3lmbGFzaHJlYm9iQG0). 
+   Today • 7:30 PM •  ⚠️ High Tide Alert (>6.5') - Corte Madera Creek  (30m) [📅  View event ](https://www.google.com/calendar/event?eid=cG01azUzczQ4dGRxYmhqNm84Nm05bjJoZ2cgc3Bhcmt5Zmxhc2hyZWJvYkBt).
    
      Predicted Peak: 6.511 feet at Station: Corte Madera Creek (ID: 9414874). 
     
@@ -70,26 +70,26 @@ CC is an experimental AI productivity agent and can make mistakes, so double-che
 
  FYI 
  
-   Sat, Aug 8 • 1:00 PM •  Shawn's Celebration of Life  (2h) at 1736 Kerry Ln, Santa Rosa, CA 95403, USA [View event](https://www.google.com/calendar/event?eid=NnNxajRkOXA2cGltMmI5amNncTMyYjlrNjRxNmNiYjI2OWhtY2JiMjcwcm1hb2IzNjhyM2NjcjJjZyBzcGFya3lmbGFzaHJlYm9iQG0) [Map](https://www.google.com/maps/search/?api=1&query=1736+Kerry+Ln%2C+Santa+Rosa%2C+CA+95403%2C+USA). 
-   Sat, Aug 8 • 7:00 PM •  Saturday Night Puja  (2h) [View event](https://www.google.com/calendar/event?eid=NjVpamNvcGc2Y3BqZWI5ZzcwcG1hYjlrNzRwajRiYjFjNWdtNGI5Z2NwaTYyZTMxY2NwNjJjMW1jZ18yMDI2MDgwOVQwMjAwMDBaIHNwYXJreWZsYXNocmVib2JAbQ). 
-   Sat, Aug 8 • 8:33 PM •  ⚠️ High Tide Alert (>6.5') - Corte Madera Creek  (30m) [View event](https://www.google.com/calendar/event?eid=M25xdnB2MDNyaWFzaDVtYWFmYjFsMmk5Yzggc3Bhcmt5Zmxhc2hyZWJvYkBt).
+   Sat, Aug 8 • 1:00 PM •  Shawn's Celebration of Life  (2h) at 1736 Kerry Ln, Santa Rosa, CA 95403, USA [📅  View event ](https://www.google.com/calendar/event?eid=NnNxajRkOXA2cGltMmI5amNncTMyYjlrNjRxNmNiYjI2OWhtY2JiMjcwcm1hb2IzNjhyM2NjcjJjZyBzcGFya3lmbGFzaHJlYm9iQG0) [🔗  Map ](https://www.google.com/maps/search/?api=1&query=1736+Kerry+Ln%2C+Santa+Rosa%2C+CA+95403%2C+USA). 
+   Sat, Aug 8 • 7:00 PM •  Saturday Night Puja  (2h) [📅  View event ](https://www.google.com/calendar/event?eid=NjVpamNvcGc2Y3BqZWI5ZzcwcG1hYjlrNzRwajRiYjFjNWdtNGI5Z2NwaTYyZTMxY2NwNjJjMW1jZ18yMDI2MDgwOVQwMjAwMDBaIHNwYXJreWZsYXNocmVib2JAbQ). 
+   Sat, Aug 8 • 8:33 PM •  ⚠️ High Tide Alert (>6.5') - Corte Madera Creek  (30m) [📅  View event ](https://www.google.com/calendar/event?eid=M25xdnB2MDNyaWFzaDVtYWFmYjFsMmk5Yzggc3Bhcmt5Zmxhc2hyZWJvYkBt).
    
      Predicted Peak: 6.725 feet. 
     
-   Sun, Aug 9 • 5:00 PM •  Living Mindfully: Melting the Armor  (1.5h). Community meditation and discussion on emotional armor and kinship, facilitated by you [✨  Join Meet ](https://meet.google.com/dhf-mnbc-qkn) [View details](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872804935364636869) [📅  View Event ](https://www.google.com/calendar/event?eid=cTZtMnZzb2UwaDNoY2wza2R0czQ3cW5scmxfMjAyNjA4MTBUMDAwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0).
+   Sun, Aug 9 • 5:00 PM •  Living Mindfully: Melting the Armor  (1.5h). Community meditation and discussion on emotional armor and kinship, facilitated by you [✨  Join Meet ](https://meet.google.com/dhf-mnbc-qkn) [🔗  View details ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872804935364636869) [📅  View Event ](https://www.google.com/calendar/event?eid=cTZtMnZzb2UwaDNoY2wza2R0czQ3cW5scmxfMjAyNjA4MTBUMDAwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0).
    
      Invitations were sent on Thu, Aug 6 to your contact list, including Andrea Axtell, Debra Jensen-Unger, and others. 
     
    Fri, Aug 14 •  Upcoming payments and appointments. 
    
-      PG&E:  Automatic payment of $130.43 for account ending in 7562 is scheduled from SparkyBank (...0372). Confirmation: YW47VSRTTX [View bill](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872158528494837117) [📅  Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Remind%3A+PG%26E+Payment+%28%24130.43%29&dates=20260814T090000%2F20260814T100000&ctz=America%2FLos_Angeles&details=Automatic+payment+of+%24130.43+for+account+ending+in+7562+is+scheduled+from+SparkyBank+%28...0372%29.+Confirmation%3A+YW47VSRTTX&location=&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com). 
-      TT Drop In Clinic:  Therapeutic Touch clinic from 2:45 PM to 6:15 PM at SIMA SPACE, 300 Tamal Plaza, Suite 220, Room 4, Corte Madera, CA 94925 [✨  Join Meet ](https://meet.google.com/cba-nsxe-mwg) [Map](https://www.google.com/maps/search/?api=1&query=300+Tamal+Plaza%2C+Corte+Madera%2C+CA+94925) [📅  View Event ](https://www.google.com/calendar/event?eid=NnBoNmNwYjM2MHNqOGJiNTY0c21jYjlrNjhyNmFiOW9jcGhtOGI5bWM4cjY2ZTFwNjlqNjZjcjQ2NCBzcGFya3lmbGFzaHJlYm9iQG0). 
+      PG&E:  Automatic payment of $130.43 for account ending in 7562 is scheduled from SparkyBank (...0372). Confirmation: YW47VSRTTX [🔗  View bill ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872158528494837117) [📅  Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Remind%3A+PG%26E+Payment+%28%24130.43%29&dates=20260814T090000%2F20260814T100000&ctz=America%2FLos_Angeles&details=Automatic+payment+of+%24130.43+for+account+ending+in+7562+is+scheduled+from+SparkyBank+%28...0372%29.+Confirmation%3A+YW47VSRTTX&location=&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com). 
+      TT Drop In Clinic:  Therapeutic Touch clinic from 2:45 PM to 6:15 PM at SIMA SPACE, 300 Tamal Plaza, Suite 220, Room 4, Corte Madera, CA 94925 [✨  Join Meet ](https://meet.google.com/cba-nsxe-mwg) [🔗  Map ](https://www.google.com/maps/search/?api=1&query=300+Tamal+Plaza%2C+Corte+Madera%2C+CA+94925) [📅  View Event ](https://www.google.com/calendar/event?eid=NnBoNmNwYjM2MHNqOGJiNTY0c21jYjlrNjhyNmFiOW9jcGhtOGI5bWM4cjY2ZTFwNjlqNjZjcjQ2NCBzcGFya3lmbGFzaHJlYm9iQG0). 
     
    Sep 2 - Sep 7 •  Labor Day Insight Retreat  at Spirit Rock Meditation Center. Silent retreat led by James Baraz and Howie [🔗  View confirmation ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870708372233567392) [📅  View Event ](https://www.google.com/calendar/event?eid=MXNpOXY5djV1M2R1bzJhZGMxcG92cnQxbGYgc3Bhcmt5Zmxhc2hyZWJvYkBt).
    
      You completed the required practitioner questionnaire on Thu, Aug 6. 
     
-   Oct 25 - Oct 29 •  Insight Meditation Retreat: Hidden Villa  in Los Altos Hills, CA [View details](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872792057568651215) [📅  View Event ](https://www.google.com/calendar/event?eid=MmJsODg3M2phbWhnNjg4YzNxM2kydGhzZ2sgc3Bhcmt5Zmxhc2hyZWJvYkBt).
+   Oct 25 - Oct 29 •  Insight Meditation Retreat: Hidden Villa  in Los Altos Hills, CA [🔗  View details ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872792057568651215) [📅  View Event ](https://www.google.com/calendar/event?eid=MmJsODg3M2phbWhnNjg4YzNxM2kydGhzZ2sgc3Bhcmt5Zmxhc2hyZWJvYkBt).
    
      Check-in is Sun, Oct 25 from 1:00 PM to 3:00 PM. Andrea Axtell tentatively accepted the invitation on Thu, Aug 6. 
     
@@ -97,13 +97,13 @@ CC is an experimental AI productivity agent and can make mistakes, so double-che
    
       Kaiser Permanente:  General X-ray and mammography services at the Novato site are now permanently closed. Imaging remains available in San Rafael and Petaluma [🔗  View notice ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872792417102872486) [🔗  Learn More ](https://healthy.kaiserpermanente.org/northern-california/facilities/san-rafael-medical-center-100327/departments/diagnostic-imaging-radiology-dlp-103594). 
       Substack:  Nick Franklin liked your posts 'Beyond the Broken Story' and 'Finding Your Ground' on Thu, Aug 6 [🔗  View activity ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872807412296354336). 
-      Temu:  Your order #PO-211-17507820867193132 was delivered to 326 Larkspur Plaza Dr on Sun, Aug 2 [Track order](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872446195359727319). 
+      Temu:  Your order #PO-211-17507820867193132 was delivered to 326 Larkspur Plaza Dr on Sun, Aug 2 [🔗  Track order ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872446195359727319). 
     
  
 
  CC Calendar Updates 
  
-   New:  Living Mindfully Meeting  — August 9, 2026 5:00pm PT · [Source email](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872804935364636869) · [View event](https://www.google.com/calendar/event?eid=YnVrNWM0cDl1ZDFrcXVoamRqODZhdW83NmsgOWNlMWM5MDAyM2U4ZjI5MmZjMTEwNzRlNzZkOTQ3MWYzZmJlOWQxNDVjYjk0OWQ4MDY0NWM2ZDYwZjBlOGQyNUBn) 
+   New:  Living Mindfully Meeting  — August 9, 2026 5:00pm PT · [🔗  Source email ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872804935364636869) · [📅  View event ](https://www.google.com/calendar/event?eid=YnVrNWM0cDl1ZDFrcXVoamRqODZhdW83NmsgOWNlMWM5MDAyM2U4ZjI5MmZjMTEwNzRlNzZkOTQ3MWYzZmJlOWQxNDVjYjk0OWQ4MDY0NWM2ZDYwZjBlOGQyNUBn) 
  
 
  Have a wonderful day! 

@@ -84,7 +84,7 @@ CC is an experimental AI productivity agent and can make mistakes, so double-che
      Password: beyond 
      Schedule: 7:00 free writing, 7:15 brief talk, 7:30 sitting, 7:55 visiting 
     
-   Mon, Jul 6 • 8:00 AM •  Landlord Property Inspection  (9h) at 326 Larkspur Plaza Drive [🔗  View Invite ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1869722805479480548) [Map](https://www.google.com/maps/search/?api=1&query=326+Larkspur+Plaza+Drive).
+   Mon, Jul 6 • 8:00 AM •  Landlord Property Inspection  (9h) at 326 Larkspur Plaza Drive [🔗  View Invite ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1869722805479480548) [🔗  Map ](https://www.google.com/maps/search/?api=1&query=326+Larkspur+Plaza+Drive).
    
      This inspection is for Irah, Bodhi, and Koda's residence and is scheduled to conclude by 5:00 PM. 
     

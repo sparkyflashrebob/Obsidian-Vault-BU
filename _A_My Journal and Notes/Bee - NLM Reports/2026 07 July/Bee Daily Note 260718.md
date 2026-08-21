@@ -53,11 +53,11 @@ CC is an experimental AI productivity agent and can make mistakes, so double-che
 
  Top of mind 
  
-   Health Alert: A parasitic outbreak (cyclosporiasis) has been linked to shredded iceberg lettuce from a California supplier, affecting Taco Bell chains in several states [View alert](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871000076576919884).
+   Health Alert: A parasitic outbreak (cyclosporiasis) has been linked to shredded iceberg lettuce from a California supplier, affecting Taco Bell chains in several states [🔗  View alert ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871000076576919884).
    
      The FDA confirmed the outbreak originated from a California supplier. 
     
-    5 min  Consider attending the Good Trouble street protest in Point Reyes Station today, Saturday, July 18th from 11:30 AM to 1:00 PM [View email](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870810931550230629) [Add Event](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Good+Trouble+Street+Protest&dates=20260718T113000%2F20260718T130000&ctz=America%2FLos_Angeles&details=Music+and+singing+as+part+of+the+John+Lewis+Weekend+of+Action.+Source%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19f674a158f81865&location=Point+Reyes+Station%2C+CA&add=).
+    5 min  Consider attending the Good Trouble street protest in Point Reyes Station today, Saturday, July 18th from 11:30 AM to 1:00 PM [🔗  View email ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870810931550230629) [📅  Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Good+Trouble+Street+Protest&dates=20260718T113000%2F20260718T130000&ctz=America%2FLos_Angeles&details=Music+and+singing+as+part+of+the+John+Lewis+Weekend+of+Action.+Source%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19f674a158f81865&location=Point+Reyes+Station%2C+CA&add=).
    
      The event features music and singing as part of the John Lewis Weekend of Action. 
     
@@ -65,27 +65,27 @@ CC is an experimental AI productivity agent and can make mistakes, so double-che
    
      Note: The 'Good Trouble Lives On' event at the San Rafael farmer's market on Sun, Jul 19th is still on your calendar. 
     
-   Today • 12:00 PM •  World Cup 3rd Place Game  (3h) [View event](https://www.google.com/calendar/event?eid=N2ppbTczMXZydXMwOWhpMzc4bTNscWFhamsgc3Bhcmt5Zmxhc2hyZWJvYkBt). 
-   Today • 5:30 PM •  Warriors vs Lakers Summer League  (2h) [View event](https://www.google.com/calendar/event?eid=NWNwbDR0dmYzdnNvM2V2bjNuc2dhcG9sZGogc3Bhcmt5Zmxhc2hyZWJvYkBt). 
-   Today • 7:00 PM •  Saturday Night Puja  (2h) [View event](https://www.google.com/calendar/event?eid=NjVpamNvcGc2Y3BqZWI5ZzcwcG1hYjlrNzRwajRiYjFjNWdtNGI5Z2NwaTYyZTMxY2NwNjJjMW1jZ18yMDI2MDcxOVQwMjAwMDBaIHNwYXJreWZsYXNocmVib2JAbQ). 
+   Today • 12:00 PM •  World Cup 3rd Place Game  (3h) [📅  View event ](https://www.google.com/calendar/event?eid=N2ppbTczMXZydXMwOWhpMzc4bTNscWFhamsgc3Bhcmt5Zmxhc2hyZWJvYkBt). 
+   Today • 5:30 PM •  Warriors vs Lakers Summer League  (2h) [📅  View event ](https://www.google.com/calendar/event?eid=NWNwbDR0dmYzdnNvM2V2bjNuc2dhcG9sZGogc3Bhcmt5Zmxhc2hyZWJvYkBt). 
+   Today • 7:00 PM •  Saturday Night Puja  (2h) [📅  View event ](https://www.google.com/calendar/event?eid=NjVpamNvcGc2Y3BqZWI5ZzcwcG1hYjlrNzRwajRiYjFjNWdtNGI5Z2NwaTYyZTMxY2NwNjJjMW1jZ18yMDI2MDcxOVQwMjAwMDBaIHNwYXJreWZsYXNocmVib2JAbQ). 
  
 
  On your calendar 
  
-   Today • 12:00 PM •  World Cup 3rd Place Game  (3h) [View event](https://www.google.com/calendar/event?eid=N2ppbTczMXZydXMwOWhpMzc4bTNscWFhamsgc3Bhcmt5Zmxhc2hyZWJvYkBt). 
-   Today • 5:30 PM •  Warriors vs Lakers Summer League  (2h) [View event](https://www.google.com/calendar/event?eid=NWNwbDR0dmYzdnNvM2V2bjNuc2dhcG9sZGogc3Bhcmt5Zmxhc2hyZWJvYkBt). 
-   Today • 7:00 PM •  Saturday Night Puja  (2h) [View event](https://www.google.com/calendar/event?eid=NjVpamNvcGc2Y3BqZWI5ZzcwcG1hYjlrNzRwajRiYjFjNWdtNGI5Z2NwaTYyZTMxY2NwNjJjMW1jZ18yMDI2MDcyNlQwMjAwMDBaIHNwYXJreWZsYXNocmVib2JAbQ). 
-   Sun, Jul 19 • 7:00 AM •  Morning Practice Zoom w/ Ed Brown  (1h 15m) [View event](https://www.google.com/calendar/event?eid=M3Z1bW84dnE4aHVwdnYwMWwxN2Eyc2FrM2tfMjAyNjA3MTlUMTQwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0).
+   Today • 12:00 PM •  World Cup 3rd Place Game  (3h) [📅  View event ](https://www.google.com/calendar/event?eid=N2ppbTczMXZydXMwOWhpMzc4bTNscWFhamsgc3Bhcmt5Zmxhc2hyZWJvYkBt). 
+   Today • 5:30 PM •  Warriors vs Lakers Summer League  (2h) [📅  View event ](https://www.google.com/calendar/event?eid=NWNwbDR0dmYzdnNvM2V2bjNuc2dhcG9sZGogc3Bhcmt5Zmxhc2hyZWJvYkBt). 
+   Today • 7:00 PM •  Saturday Night Puja  (2h) [📅  View event ](https://www.google.com/calendar/event?eid=NjVpamNvcGc2Y3BqZWI5ZzcwcG1hYjlrNzRwajRiYjFjNWdtNGI5Z2NwaTYyZTMxY2NwNjJjMW1jZ18yMDI2MDcyNlQwMjAwMDBaIHNwYXJreWZsYXNocmVib2JAbQ). 
+   Sun, Jul 19 • 7:00 AM •  Morning Practice Zoom w/ Ed Brown  (1h 15m) [📅  View event ](https://www.google.com/calendar/event?eid=M3Z1bW84dnE4aHVwdnYwMWwxN2Eyc2FrM2tfMjAyNjA3MTlUMTQwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0).
    
      Join via [✨  Zoom ](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09) (Password: beyond). 
     
-   Sun, Jul 19 • 9:30 AM •  930AM Meeting  (1h) [View event](https://www.google.com/calendar/event?eid=YzhyajJvOWs2aGkzOGJiMWNvc21hYjlrNzFoNjhiOW82OHJtY2I5bDYwczM0ZDM0Y2dxajRvaGc2c18yMDI2MDcxOVQxNjMwMDBaIHNwYXJreWZsYXNocmVib2JAbQ). 
-   Sun, Jul 19 • 10:00 AM •  SAN RAFAEL Good Trouble Lives On  (1h 30m) at Marin County Civic Center, 3501 Civic Center Dr, San Rafael, CA 94903 [View event](https://www.google.com/calendar/event?eid=MjhmMzZsNG9sbGxkNTIzdmZ1ZDExbHVub2kgc3Bhcmt5Zmxhc2hyZWJvYkBt) [🔗  Directions ](https://www.google.com/maps/search/?api=1&query=Marin+County+Civic+Center%2C+3501+Civic+Center+Dr%2C+San+Rafael%2C+CA%2C+94903).
+   Sun, Jul 19 • 9:30 AM •  930AM Meeting  (1h) [📅  View event ](https://www.google.com/calendar/event?eid=YzhyajJvOWs2aGkzOGJiMWNvc21hYjlrNzFoNjhiOW82OHJtY2I5bDYwczM0ZDM0Y2dxajRvaGc2c18yMDI2MDcxOVQxNjMwMDBaIHNwYXJreWZsYXNocmVib2JAbQ). 
+   Sun, Jul 19 • 10:00 AM •  SAN RAFAEL Good Trouble Lives On  (1h 30m) at Marin County Civic Center, 3501 Civic Center Dr, San Rafael, CA 94903 [📅  View event ](https://www.google.com/calendar/event?eid=MjhmMzZsNG9sbGxkNTIzdmZ1ZDExbHVub2kgc3Bhcmt5Zmxhc2hyZWJvYkBt) [🔗  Directions ](https://www.google.com/maps/search/?api=1&query=Marin+County+Civic+Center%2C+3501+Civic+Center+Dr%2C+San+Rafael%2C+CA%2C+94903).
    
      Meet at the free speech area at the first entrance to the farmers market closest to the Civic Center. 
     
-   Sun, Jul 19 • 12:00 PM •  World Cup FINAL  (3h) [View event](https://www.google.com/calendar/event?eid=MnY1Z2hjZzlkMjVtMjRjN2l1ODFvbWhyaWogc3Bhcmt5Zmxhc2hyZWJvYkBt). 
-   Sun, Jul 19 • 5:00 PM •  Socialism and the Black Radical Tradition  (1h 30m) [View event](https://www.google.com/calendar/event?eid=X2M4c2plcXJsZDhzbXVkajNlMHBqMHA5aGQwcjMwcnJhNjFoamlyajVjaG5qY2NqamQ5aDZjZGJhNnBubXVvamFjZ29uMGRqMWR0bDZjb3BwNjByNmFzajI2NWkzYXI5aWVkbm40cGo0ZGMgc3Bhcmt5Zmxhc2hyZWJvYkBt).
+   Sun, Jul 19 • 12:00 PM •  World Cup FINAL  (3h) [📅  View event ](https://www.google.com/calendar/event?eid=MnY1Z2hjZzlkMjVtMjRjN2l1ODFvbWhyaWogc3Bhcmt5Zmxhc2hyZWJvYkBt). 
+   Sun, Jul 19 • 5:00 PM •  Socialism and the Black Radical Tradition  (1h 30m) [📅  View event ](https://www.google.com/calendar/event?eid=X2M4c2plcXJsZDhzbXVkajNlMHBqMHA5aGQwcjMwcnJhNjFoamlyajVjaG5qY2NqamQ5aDZjZGJhNnBubXVvamFjZ29uMGRqMWR0bDZjb3BwNjByNmFzajI2NWkzYXI5aWVkbm40cGo0ZGMgc3Bhcmt5Zmxhc2hyZWJvYkBt).
    
      Featuring Cori Bush and Chris Rabb. Join via [✨  Zoom ](https://dsausa.zoom.us/w/83208101017?tk=qa_TlVhoD7QjZV_G6Z_uZroEDymMM35hvFVuBQsjwEs.DQkAAAATX5bcmRZwanNRcDhVbVRveWhDTlJmSVZlVy13AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&uuid=WN_eLadiCqjSCuxpfJYWMa6Ew). 
     
@@ -93,15 +93,15 @@ CC is an experimental AI productivity agent and can make mistakes, so double-che
 
  FYI 
  
-    10 min  Prepare for the AASF Marin Teleservice Business Meeting on Mon, Jul 20th [View email](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871003643015144951) [Add Event](https://calendar.google.com/calendar/render?action=TEMPLATE&text=AASF+Marin+Teleservice+Business+Meeting&dates=20260720T180000%2F20260720T200000&ctz=America%2FLos_Angeles&details=Orientation+at+6%3A00+PM.+Meeting+at+6%3A45+PM.+Zoom%3A+https%3A%2F%2Fus02web.zoom.us%2Fj%2F84707673404+%28ID%3A+847+0767+3404%2C+PW%3A+1821%29.+Source%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19f723e67b6125f7&location=https%3A%2F%2Fus02web.zoom.us%2Fj%2F84707673404&add=).
+    10 min  Prepare for the AASF Marin Teleservice Business Meeting on Mon, Jul 20th [🔗  View email ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871003643015144951) [📅  Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=AASF+Marin+Teleservice+Business+Meeting&dates=20260720T180000%2F20260720T200000&ctz=America%2FLos_Angeles&details=Orientation+at+6%3A00+PM.+Meeting+at+6%3A45+PM.+Zoom%3A+https%3A%2F%2Fus02web.zoom.us%2Fj%2F84707673404+%28ID%3A+847+0767+3404%2C+PW%3A+1821%29.+Source%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19f723e67b6125f7&location=https%3A%2F%2Fus02web.zoom.us%2Fj%2F84707673404&add=).
    
      Orientation starts at 6:00 PM, followed by the meeting at 6:45 PM via [✨  Zoom ](https://us02web.zoom.us/j/84707673404) (ID: 847 0767 3404, PW: 1821). 
      Reply to Brian at [✉️  teleservice@aasfmarin.org ](mailto:teleservice@aasfmarin.org) with any agenda items [✉️  Reply ](mailto:telecomms@aasfmarin.org?subject=Re%3A%20Teleservice%20Business%20Meeting%2C%20Mon%20July%2020th&body=Hi%20Brian%2C%0A%0AI%27m%20planning%20to%20attend%20the%20Teleservice%20Business%20Meeting%20on%20Monday.%20Here%20are%20a%20few%20agenda%20items%20I%27d%20like%20to%20discuss%3A%20%0A%0A%5BInsert%20Items%5D%0A%0AThanks%2C%0AAndy). 
     
    Upcoming community and social events on Sat, Jul 25th.
    
-      Council Potluck:  Gathering from 5:30 PM to 9:00 PM at 1721 Pine Ave, Petaluma, CA 94954 [View details](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870356188618275932) [Map](https://www.google.com/maps/search/?api=1&query=1721+Pine+Ave%2C+Petaluma%2C+CA+94954) [📅  View Event ](https://www.google.com/calendar/event?eid=YzlpM2dvcGw2ZGkzY2JiMmM4cDZjYjlrNmdvbTZiYjJjOWkzMmJiM2M0cG1jZWI0NjFoMzhlMW1jZyBzcGFya3lmbGFzaHJlYm9iQG0). 
-      ⏱️ 5m • Maria Muldaur Concert:  Consider attending the Jazzabelle Quintet performance at 7:30 PM at 549 Magnolia Ave, Larkspur, CA 94939 [🔗  View flyer ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870918013705802430) [Map](https://www.google.com/maps/search/?api=1&query=549+Magnolia+Ave%2C+Larkspur%2C+CA+94939) [Add Event](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Maria+Muldaur+Concert+%28Jazzabelle+Quintet%29&dates=20260725T193000%2F20260725T213000&ctz=America%2FLos_Angeles&details=Performance+at+7%3A30+PM.+Source%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19f6d6055ad052be&location=549+Magnolia+Ave%2C+Larkspur%2C+CA+94939&add=). 
+      Council Potluck:  Gathering from 5:30 PM to 9:00 PM at 1721 Pine Ave, Petaluma, CA 94954 [🔗  View details ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870356188618275932) [🔗  Map ](https://www.google.com/maps/search/?api=1&query=1721+Pine+Ave%2C+Petaluma%2C+CA+94954) [📅  View Event ](https://www.google.com/calendar/event?eid=YzlpM2dvcGw2ZGkzY2JiMmM4cDZjYjlrNmdvbTZiYjJjOWkzMmJiM2M0cG1jZWI0NjFoMzhlMW1jZyBzcGFya3lmbGFzaHJlYm9iQG0). 
+      ⏱️ 5m • Maria Muldaur Concert:  Consider attending the Jazzabelle Quintet performance at 7:30 PM at 549 Magnolia Ave, Larkspur, CA 94939 [🔗  View flyer ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870918013705802430) [🔗  Map ](https://www.google.com/maps/search/?api=1&query=549+Magnolia+Ave%2C+Larkspur%2C+CA+94939) [📅  Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Maria+Muldaur+Concert+%28Jazzabelle+Quintet%29&dates=20260725T193000%2F20260725T213000&ctz=America%2FLos_Angeles&details=Performance+at+7%3A30+PM.+Source%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19f6d6055ad052be&location=549+Magnolia+Ave%2C+Larkspur%2C+CA+94939&add=). 
     
    Administrative and account updates.
    

@@ -85,7 +85,7 @@ CC is an experimental AI productivity agent and can make mistakes, so double-che
 
  Top of mind 
  
-    5 min  Review your Kaiser monthly health plan premium bill, which is now available online for Ronald McGuire [View bill](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870709431177795318) [📅  Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Pay+Kaiser+bill&dates=20260715T100000%2F20260715T101500&ctz=America%2FLos_Angeles&details=Review+and+pay+Kaiser+monthly+health+plan+premium+bill+for+Ronald+McGuire.&location=&add=).
+    5 min  Review your Kaiser monthly health plan premium bill, which is now available online for Ronald McGuire [🔗  View bill ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870709431177795318) [📅  Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Pay+Kaiser+bill&dates=20260715T100000%2F20260715T101500&ctz=America%2FLos_Angeles&details=Review+and+pay+Kaiser+monthly+health+plan+premium+bill+for+Ronald+McGuire.&location=&add=).
    
      AutoPay settings can be managed at kp.org. 
     
@@ -101,12 +101,12 @@ CC is an experimental AI productivity agent and can make mistakes, so double-che
 
  On your calendar 
  
-   Today •  World Cup  (All day) [View event](https://www.google.com/calendar/event?eid=NXZldnVrOTBic21oNjlvaGNnMzdoZWkyMHQgc3Bhcmt5Zmxhc2hyZWJvYkBt).
+   Today •  World Cup  (All day) [📅  View event ](https://www.google.com/calendar/event?eid=NXZldnVrOTBic21oNjlvaGNnMzdoZWkyMHQgc3Bhcmt5Zmxhc2hyZWJvYkBt).
    
      Ongoing tournament through Mon, Jul 20. 
     
-   Today •  1st Regular SSI Payment $3027  (All day) [View event](https://www.google.com/calendar/event?eid=MjRsdDNndmFkdDFtNWt0cWVpbTRtOGYyNzIgc3Bhcmt5Zmxhc2hyZWJvYkBt). 
-   Today •  Giorgio Harris  (All day) [View event](https://www.google.com/calendar/event?eid=MnJna3AxNmE5cGhscWdxaDV2anJzdTYzN2dfMjAyNjA3MTUgc3Bhcmt5Zmxhc2hyZWJvYkBt). 
+   Today •  1st Regular SSI Payment $3027  (All day) [📅  View event ](https://www.google.com/calendar/event?eid=MjRsdDNndmFkdDFtNWt0cWVpbTRtOGYyNzIgc3Bhcmt5Zmxhc2hyZWJvYkBt). 
+   Today •  Giorgio Harris  (All day) [📅  View event ](https://www.google.com/calendar/event?eid=MnJna3AxNmE5cGhscWdxaDV2anJzdTYzN2dfMjAyNjA3MTUgc3Bhcmt5Zmxhc2hyZWJvYkBt). 
    Today • 7:00 AM •  Morning Practice Zoom w/ Ed Brown  (1h 15m) [✨  Join Zoom ](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09).
    
      Schedule: Free writing (7:00), brief talk (7:15), sitting (7:30), and visiting (7:55). Password: beyond. 
@@ -115,13 +115,13 @@ CC is an experimental AI productivity agent and can make mistakes, so double-che
    
      Fidelity virtual event covering market charts and fundamentals. 
     
-   Today • 12:00 PM •  England vs Argentina  (2h 30m) [View event](https://www.google.com/calendar/event?eid=NDExNnFtNjJkcjdsMzAyaTY5ZTczdjc2bmQgc3Bhcmt5Zmxhc2hyZWJvYkBt). 
-   Today • 2:10 PM •  Go to class  (20m) [View event](https://www.google.com/calendar/event?eid=N2QwanA1NG5iMTkzMDdvMDluanYycTdubmNfMjAyNjA3MTVUMjExMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0). 
-   Today • 2:30 PM •  Tai Chi  (1h) at Corte Madera Community Center, 498 Tamalpais Dr, Corte Madera, CA 94925 [View event](https://www.google.com/calendar/event?eid=NzZpdXJnaXY2MWM4bGo4aGNjMm9vYmVhM2ZfMjAyNjA3MTVUMjEzMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0) [🔗  Directions ](https://www.google.com/maps/search/?api=1&query=Corte+Madera+Community+Center%2C+498+Tamalpais+Dr%2C+Corte+Madera%2C+CA+94925%2C+USA).
+   Today • 12:00 PM •  England vs Argentina  (2h 30m) [📅  View event ](https://www.google.com/calendar/event?eid=NDExNnFtNjJkcjdsMzAyaTY5ZTczdjc2bmQgc3Bhcmt5Zmxhc2hyZWJvYkBt). 
+   Today • 2:10 PM •  Go to class  (20m) [📅  View event ](https://www.google.com/calendar/event?eid=N2QwanA1NG5iMTkzMDdvMDluanYycTdubmNfMjAyNjA3MTVUMjExMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0). 
+   Today • 2:30 PM •  Tai Chi  (1h) at Corte Madera Community Center, 498 Tamalpais Dr, Corte Madera, CA 94925 [📅  View event ](https://www.google.com/calendar/event?eid=NzZpdXJnaXY2MWM4bGo4aGNjMm9vYmVhM2ZfMjAyNjA3MTVUMjEzMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0) [🔗  Directions ](https://www.google.com/maps/search/?api=1&query=Corte+Madera+Community+Center%2C+498+Tamalpais+Dr%2C+Corte+Madera%2C+CA+94925%2C+USA).
    
      Regular weekly session. 
     
-   Today • 5:00 PM •  Watch England vs Argentina  (1h) with Andrea Axtell [View event](https://www.google.com/calendar/event?eid=NTEyY2k4bHE2ZWZoMmhodG5kbXJrMDIzMzEgc3Bhcmt5Zmxhc2hyZWJvYkBt).
+   Today • 5:00 PM •  Watch England vs Argentina  (1h) with Andrea Axtell [📅  View event ](https://www.google.com/calendar/event?eid=NTEyY2k4bHE2ZWZoMmhodG5kbXJrMDIzMzEgc3Bhcmt5Zmxhc2hyZWJvYkBt).
    
      Soccer viewing event confirmed with Andrea on Mon, Jul 13. 
     
@@ -131,16 +131,16 @@ CC is an experimental AI productivity agent and can make mistakes, so double-che
  
    Fidelity is hosting additional educational webinars this week [🔗  Register ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1869978508637051485).
    
-      High Net Worth Bond Desk:  Today, Wed, Jul 15, from 11:00 AM to 12:00 PM PT (2:00 PM ET) [Add Event](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fidelity%3A+High+Net+Worth+Bond+Desk&dates=20260715T110000%2F20260715T120000&ctz=America%2FLos_Angeles&details=Educational+webinar+covering+market+charts+and+fundamentals.&location=Virtual&add=). 
-      Starting Small (Investing Basics):  Thu, Jul 16, from 9:00 AM to 10:00 AM PT (Noon ET) [Add Event](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fidelity%3A+Starting+Small+%28Investing+Basics%29&dates=20260716T090000%2F20260716T100000&ctz=America%2FLos_Angeles&details=Educational+webinar+on+investing+basics.&location=Virtual&add=). 
+      High Net Worth Bond Desk:  Today, Wed, Jul 15, from 11:00 AM to 12:00 PM PT (2:00 PM ET) [📅  Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fidelity%3A+High+Net+Worth+Bond+Desk&dates=20260715T110000%2F20260715T120000&ctz=America%2FLos_Angeles&details=Educational+webinar+covering+market+charts+and+fundamentals.&location=Virtual&add=). 
+      Starting Small (Investing Basics):  Thu, Jul 16, from 9:00 AM to 10:00 AM PT (Noon ET) [📅  Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fidelity%3A+Starting+Small+%28Investing+Basics%29&dates=20260716T090000%2F20260716T100000&ctz=America%2FLos_Angeles&details=Educational+webinar+on+investing+basics.&location=Virtual&add=). 
     
    Updates from the Larkspur Isle HOA Board of Directors as of Tue, Jul 14 [🔗  View updates ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870710632786265529).
    
       Management Transition:  Moving to OMNI Community Management effective Sat, Aug 1. 
-      Board Meeting:  The next Open Board Meeting is on Wed, Jul 22, at 6:30 PM via Zoom [Add Event](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Larkspur+Isle+HOA+Open+Board+Meeting&dates=20260722T183000%2F20260722T193000&ctz=America%2FLos_Angeles&details=Open+Board+Meeting+via+Zoom.&location=Zoom&add=). 
+      Board Meeting:  The next Open Board Meeting is on Wed, Jul 22, at 6:30 PM via Zoom [📅  Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Larkspur+Isle+HOA+Open+Board+Meeting&dates=20260722T183000%2F20260722T193000&ctz=America%2FLos_Angeles&details=Open+Board+Meeting+via+Zoom.&location=Zoom&add=). 
       Projects:  Lawn replacement and storm drain repairs are scheduled for summer 2026. 
     
-   You are confirmed and fully paid for the silent Labor Day Insight Retreat at Spirit Rock from Wed, Sep 2, to Mon, Sep 7 [🔗  View confirmation ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870708372233567392) [Add Event](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Spirit+Rock%3A+Silent+Labor+Day+Insight+Retreat&dates=20260902T000000%2F20260907T235959&ctz=America%2FLos_Angeles&details=Silent+Labor+Day+Insight+Retreat+at+Spirit+Rock.+Confirmed+and+fully+paid.&location=Spirit+Rock+Insight+Meditation+Center&add=).
+   You are confirmed and fully paid for the silent Labor Day Insight Retreat at Spirit Rock from Wed, Sep 2, to Mon, Sep 7 [🔗  View confirmation ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870708372233567392) [📅  Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Spirit+Rock%3A+Silent+Labor+Day+Insight+Retreat&dates=20260902T000000%2F20260907T235959&ctz=America%2FLos_Angeles&details=Silent+Labor+Day+Insight+Retreat+at+Spirit+Rock.+Confirmed+and+fully+paid.&location=Spirit+Rock+Insight+Meditation+Center&add=).
    
      Total cost of $1,850.00 was covered by a $1,375.00 scholarship and a final payment of $475.00 made on Tue, Jul 14. 
     

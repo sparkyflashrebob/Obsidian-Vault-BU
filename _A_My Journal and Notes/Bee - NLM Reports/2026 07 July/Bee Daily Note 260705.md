@@ -52,11 +52,11 @@ CC is an experimental AI productivity agent and can make mistakes, so double-che
 
  Top of mind 
  
-    15 min  Review June 2026 Fidelity investment statements for accounts ending in 1490, 3435, 1128, and 2492 [View notification](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1869788651236646339) [Add Reminder](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Review+Fidelity+investment+statements&dates=20260705T100000%2F20260705T101500&ctz=America%2FLos_Angeles&details=Review+accounts+ending+in+1490%2C+3435%2C+1128%2C+and+2492.&location=&add=).
+    15 min  Review June 2026 Fidelity investment statements for accounts ending in 1490, 3435, 1128, and 2492 [🔗  View notification ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1869788651236646339) [📅  Remind Me ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Review+Fidelity+investment+statements&dates=20260705T100000%2F20260705T101500&ctz=America%2FLos_Angeles&details=Review+accounts+ending+in+1490%2C+3435%2C+1128%2C+and+2492.&location=&add=).
    
      Statements and regulatory disclosures were made available on July 4 for the period ending June 30, 2026. 
     
-    15 min  Complete the OneCal account setup by connecting your calendars to synchronize availability and prevent scheduling conflicts [🔗  View reminder ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1869738895144129112) [Add Reminder](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Complete+OneCal+account+setup&dates=20260705T110000%2F20260705T111500&ctz=America%2FLos_Angeles&details=Connect+calendars+to+synchronize+availability.&location=&add=). 
+    15 min  Complete the OneCal account setup by connecting your calendars to synchronize availability and prevent scheduling conflicts [🔗  View reminder ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1869738895144129112) [📅  Remind Me ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Complete+OneCal+account+setup&dates=20260705T110000%2F20260705T111500&ctz=America%2FLos_Angeles&details=Connect+calendars+to+synchronize+availability.&location=&add=). 
     30 min  Review new career and housing opportunities identified on July 4.
    
       Career:  Event Operations Supervisor (Encore, Napa) [🔗  View Job ](https://jobs.encoreglobal.com/en/job/napa/event-operations-supervisor-audio-visual-stanly-ranch/6228/96323267056) and Senior AV Automation Engineer (Salesforce, San Francisco) [🔗  View Job ](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Senior-AV-Automation-Engineer_JR345569). 
@@ -66,19 +66,19 @@ CC is an experimental AI productivity agent and can make mistakes, so double-che
 
  On your calendar 
  
-   Sun, Jul 5 • 7:00 AM •  Morning Practice Zoom w/ Ed Brown  (1h 15m) [✨  Join Zoom ](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09) [View event](https://www.google.com/calendar/event?eid=M3Z1bW84dnE4aHVwdnYwMWwxN2Eyc2FrM2tfMjAyNjA3MDVUMTQwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0).
+   Sun, Jul 5 • 7:00 AM •  Morning Practice Zoom w/ Ed Brown  (1h 15m) [✨  Join Zoom ](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09) [📅  View event ](https://www.google.com/calendar/event?eid=M3Z1bW84dnE4aHVwdnYwMWwxN2Eyc2FrM2tfMjAyNjA3MDVUMTQwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0).
    
      Sunday schedule: 7:00 sitting, 7:10 lecture, 7:55 visiting. Use password 'beyond' to join. 
     
-   Sun, Jul 5 • 7:30 AM •  LOTTERY FOR AL GREEN @ STERNGROVE  (1h) [View event](https://www.google.com/calendar/event?eid=Mmc5ajEwdjN2aTQxdmw1dWVydmV1NTZjczUgc3Bhcmt5Zmxhc2hyZWJvYkBt). 
-   Sun, Jul 5 • 9:30 AM •  930AM Meeting  (1h) [View event](https://www.google.com/calendar/event?eid=YzhyajJvOWs2aGkzOGJiMWNvc21hYjlrNzFoNjhiOW82OHJtY2I5bDYwczM0ZDM0Y2dxajRvaGc2c18yMDI2MDcwNVQxNjMwMDBaIHNwYXJreWZsYXNocmVib2JAbQ). 
-   Mon, Jul 6 • 8:00 AM •  Landlord property inspection  (9h) [✨  Join Meet ](https://meet.google.com/bes-vwvt-zhs) [View event](https://www.google.com/calendar/event?eid=Y2hpajhwaG1jY3BtMmJiNGNncDMyYjlrNjFpM2NiOXBjbGgzMmJiNmNwZ204cGhnY2NxMzJvOWc2MCBzcGFya3lmbGFzaHJlYm9iQG0). 
-   Mon, Jul 6 • 5:00 PM •  USA vs Belgium  (2h 30m) [View event](https://www.google.com/calendar/event?eid=NnBoamNjMWo2Y3JtMmI5cDY1aDY2YjlrY2NxMzhiOXA3MHNqZ2I5amNrcjNlYzMyY2hoM2VlMzE2ZyBzcGFya3lmbGFzaHJlYm9iQG0). 
-   Mon, Jul 6 • 6:30 PM •  Audel & Andy SDRT  (1h) [✨  Join Meet ](https://meet.google.com/ytq-jeoq-umi) [View event](https://www.google.com/calendar/event?eid=aGNhZ3A5cHIyZGZhZjlrNGl2cXU5cDhyajZfMjAyNjA3MDdUMDEzMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0).
+   Sun, Jul 5 • 7:30 AM •  LOTTERY FOR AL GREEN @ STERNGROVE  (1h) [📅  View event ](https://www.google.com/calendar/event?eid=Mmc5ajEwdjN2aTQxdmw1dWVydmV1NTZjczUgc3Bhcmt5Zmxhc2hyZWJvYkBt). 
+   Sun, Jul 5 • 9:30 AM •  930AM Meeting  (1h) [📅  View event ](https://www.google.com/calendar/event?eid=YzhyajJvOWs2aGkzOGJiMWNvc21hYjlrNzFoNjhiOW82OHJtY2I5bDYwczM0ZDM0Y2dxajRvaGc2c18yMDI2MDcwNVQxNjMwMDBaIHNwYXJreWZsYXNocmVib2JAbQ). 
+   Mon, Jul 6 • 8:00 AM •  Landlord property inspection  (9h) [✨  Join Meet ](https://meet.google.com/bes-vwvt-zhs) [📅  View event ](https://www.google.com/calendar/event?eid=Y2hpajhwaG1jY3BtMmJiNGNncDMyYjlrNjFpM2NiOXBjbGgzMmJiNmNwZ204cGhnY2NxMzJvOWc2MCBzcGFya3lmbGFzaHJlYm9iQG0). 
+   Mon, Jul 6 • 5:00 PM •  USA vs Belgium  (2h 30m) [📅  View event ](https://www.google.com/calendar/event?eid=NnBoamNjMWo2Y3JtMmI5cDY1aDY2YjlrY2NxMzhiOXA3MHNqZ2I5amNrcjNlYzMyY2hoM2VlMzE2ZyBzcGFya3lmbGFzaHJlYm9iQG0). 
+   Mon, Jul 6 • 6:30 PM •  Audel & Andy SDRT  (1h) [✨  Join Meet ](https://meet.google.com/ytq-jeoq-umi) [📅  View event ](https://www.google.com/calendar/event?eid=aGNhZ3A5cHIyZGZhZjlrNGl2cXU5cDhyajZfMjAyNjA3MDdUMDEzMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0).
    
      Note: Meeting is via Google Meet from here on. 
     
-   Fri, Jul 10 • 3:30 PM •  SimaSpace Virtual Meet & Greet  (30m) [View invite](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1869804186823543377) [Add Event](https://calendar.google.com/calendar/render?action=TEMPLATE&text=SimaSpace+Virtual+Meet+%26+Greet&dates=20260710T153000%2F20260710T160000&ctz=America%2FLos_Angeles&details=Rescheduled+session+with+the+SimaSpace+team+via+Zoom.&location=Zoom&add=).
+   Fri, Jul 10 • 3:30 PM •  SimaSpace Virtual Meet & Greet  (30m) [🔗  View invite ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1869804186823543377) [📅  Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=SimaSpace+Virtual+Meet+%26+Greet&dates=20260710T153000%2F20260710T160000&ctz=America%2FLos_Angeles&details=Rescheduled+session+with+the+SimaSpace+team+via+Zoom.&location=Zoom&add=).
    
      Rescheduled session with the SimaSpace team via Zoom. 
     

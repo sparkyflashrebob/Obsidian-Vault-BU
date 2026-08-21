@@ -58,8 +58,8 @@ CC is an experimental AI productivity agent and can make mistakes, so double-che
     5 min  Verify your 'Send to Kindle' request for sparkyflashrebob@kindle.com. Amazon received this request on Friday, August 14th, and you must click the verification link within 48 hours to ensure delivery [🔗  Verify request ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873536465563454309) [📅  Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Reminder%3A+Kindle+Verification+Deadline&dates=20260816T100000%2F20260816T110000&ctz=America%2FLos_Angeles&details=Verify+your+%27Send+to+Kindle%27+request+for+sparkyflashrebob%40kindle.com.+Amazon+received+this+request+on+Friday%2C+August+14th.&location=Online&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com). 
     15 min  Renew your Zoom paid subscription to prevent the permanent deletion of your Cloud Recordings on Saturday, August 22nd. The subscription expired on July 23rd [🔗  Renew subscription ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871491449104332815) [📅  Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Reminder%3A+Renew+Zoom+Subscription&dates=20260822T090000%2F20260822T100000&ctz=America%2FLos_Angeles&details=Renew+your+Zoom+paid+subscription+to+prevent+the+permanent+deletion+of+your+Cloud+Recordings.&location=Online&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com). 
     15 min  View and reply to a new secure message from your Kaiser Permanente care team received on Friday, August 14th [🔗  Kaiser Portal ](https://kp.org/newmessage). 
-   Today •  Arlo Valencia-McGuire's birthday  (All day) [View event](https://www.google.com/calendar/event?eid=Y29xM2NjaG02b3BqZWJiMmNoaWpjYjlrNjRxM2liYjFja3FqMGJiNDY5aDY4cGI2NmdvNjhlMzU2OF8yMDI2MDgxNSBzcGFya3lmbGFzaHJlYm9iQG0&ctz=America/Los_Angeles). 
-   Today •  Raiders Training Camp  (All day) [View event](https://www.google.com/calendar/event?eid=MTJrNHNnMXMyZ2VrcWthMnU3cmw3djE4N3Ygc3Bhcmt5Zmxhc2hyZWJvYkBt&ctz=America/Los_Angeles).
+   Today •  Arlo Valencia-McGuire's birthday  (All day) [📅  View event ](https://www.google.com/calendar/event?eid=Y29xM2NjaG02b3BqZWJiMmNoaWpjYjlrNjRxM2liYjFja3FqMGJiNDY5aDY4cGI2NmdvNjhlMzU2OF8yMDI2MDgxNSBzcGFya3lmbGFzaHJlYm9iQG0&ctz=America/Los_Angeles). 
+   Today •  Raiders Training Camp  (All day) [📅  View event ](https://www.google.com/calendar/event?eid=MTJrNHNnMXMyZ2VrcWthMnU3cmw3djE4N3Ygc3Bhcmt5Zmxhc2hyZWJvYkBt&ctz=America/Los_Angeles).
    
      Ongoing through Sunday, August 30th. 
     
@@ -67,7 +67,7 @@ CC is an experimental AI productivity agent and can make mistakes, so double-che
    
      Registration for the retreat is now open. 
     
-   Today • 9:30 AM •  Consider: Spirit Rock Poetry Day  (7h) at Spirit Rock Meditation Center, 5000 Sir Francis Drake Blvd, Woodacre, CA 94973 [🔗  Register ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871544828640250331) [Map](https://www.google.com/maps/search/?api=1&query=5000+Sir+Francis+Drake+Blvd%2C+Woodacre%2C+CA+94973) [Add Event](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Spirit+Rock+Poetry+Day&dates=20260815T093000%2F20260815T163000&ctz=America%2FLos_Angeles&details=Theme%3A+%27The+Harshness+and+Softness+of+the+World%27%2C+led+by+Phillip+Moffitt.+Participants+will+read+selected+poems+to+each+other+as+part+of+the+meditation+practice.&location=5000+Sir+Francis+Drake+Blvd%2C+Woodacre%2C+CA+94973&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com).
+   Today • 9:30 AM •  Consider: Spirit Rock Poetry Day  (7h) at Spirit Rock Meditation Center, 5000 Sir Francis Drake Blvd, Woodacre, CA 94973 [🔗  Register ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871544828640250331) [🔗  Map ](https://www.google.com/maps/search/?api=1&query=5000+Sir+Francis+Drake+Blvd%2C+Woodacre%2C+CA+94973) [📅  Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Spirit+Rock+Poetry+Day&dates=20260815T093000%2F20260815T163000&ctz=America%2FLos_Angeles&details=Theme%3A+%27The+Harshness+and+Softness+of+the+World%27%2C+led+by+Phillip+Moffitt.+Participants+will+read+selected+poems+to+each+other+as+part+of+the+meditation+practice.&location=5000+Sir+Francis+Drake+Blvd%2C+Woodacre%2C+CA+94973&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com).
    
      Theme: 'The Harshness and Softness of the World', led by Phillip Moffitt. Participants will read selected poems to each other as part of the meditation practice. 
     
@@ -76,7 +76,7 @@ CC is an experimental AI productivity agent and can make mistakes, so double-che
      Preparation: Create a quiet space with a blanket, pillow, and eye covering for the 30-minute meditation portion. 
      Facilitated by Robin Aisha Landsong. Donations are welcome. 
     
-   Today • 7:00 PM •  Saturday Night Puja  (2h) [View event](https://www.google.com/calendar/event?eid=NjVpamNvcGc2Y3BqZWI5ZzcwcG1hYjlrNzRwajRiYjFjNWdtNDY5Z2NwaTYyZTMxY2NwNjJjMW1jZ18yMDI2MDgxNlQwMjAwMDBaIHNwYXJreWZsYXNocmVib2JAbQ&ctz=America/Los_Angeles). 
+   Today • 7:00 PM •  Saturday Night Puja  (2h) [📅  View event ](https://www.google.com/calendar/event?eid=NjVpamNvcGc2Y3BqZWI5ZzcwcG1hYjlrNzRwajRiYjFjNWdtNDY5Z2NwaTYyZTMxY2NwNjJjMW1jZ18yMDI2MDgxNlQwMjAwMDBaIHNwYXJreWZsYXNocmVib2JAbQ&ctz=America/Los_Angeles). 
    The second anniversary of #BeBraveDay is today, Saturday August 15th [🔗  See details ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872424803496189828).
    
      Community groups organized by Visibility Brigade will converge on bridges and overpasses across the nation to show solidarity. 
@@ -84,10 +84,10 @@ CC is an experimental AI productivity agent and can make mistakes, so double-che
     
    Updates on recent orders and payments from Friday, August 14th.
    
-      Pacific Catch:  Payment of $65.02 processed for Order #199 at the Corte Madera location [🔗  View receipt ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873553296574795778) [Map](https://www.google.com/maps/search/?api=1&query=Pacific+Catch%2C+Corte+Madera%2C+CA). 
+      Pacific Catch:  Payment of $65.02 processed for Order #199 at the Corte Madera location [🔗  View receipt ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873553296574795778) [🔗  Map ](https://www.google.com/maps/search/?api=1&query=Pacific+Catch%2C+Corte+Madera%2C+CA). 
       Ugift 529:  A gift request is currently processing. Funds will post to the account within five business days once received [🔗  Check status ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873532426100737689). 
-      Amazon:  Order #D01-0237656-2499411 placed for the Kindle edition of 'The Terrible Paradox of Self-Awareness' [View order](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873569702348144897). 
-      MilitaryKart:  Order #50527 placed for a Solar-USB Dual Charger ($40.98), shipping to your Larkspur home [🔗  View confirmation ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873551144265779223) [Map](https://www.google.com/maps/search/?api=1&query=326+Larkspur+Plaza+Dr%2C+Larkspur%2C+CA+94939). 
+      Amazon:  Order #D01-0237656-2499411 placed for the Kindle edition of 'The Terrible Paradox of Self-Awareness' [🔗  View order ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873569702348144897). 
+      MilitaryKart:  Order #50527 placed for a Solar-USB Dual Charger ($40.98), shipping to your Larkspur home [🔗  View confirmation ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873551144265779223) [🔗  Map ](https://www.google.com/maps/search/?api=1&query=326+Larkspur+Plaza+Dr%2C+Larkspur%2C+CA+94939). 
     
    Summary of research and articles shared on Friday, August 14th.
    
@@ -100,8 +100,8 @@ CC is an experimental AI productivity agent and can make mistakes, so double-che
 
  FYI 
  
-   Sun, Aug 16 •  Lanterns Premiere on HBO  (All day) [View event](https://www.google.com/calendar/event?eid=NXJma2U4aXNmdmtmaWtpM2NuZWYzZzZxbnQgc3Bhcmt5Zmxhc2hyZWJvYkBt&ctz=America/Los_Angeles). 
-   Sun, Aug 16 • 9:30 AM •  930AM Meeting  (1h) [View event](https://www.google.com/calendar/event?eid=YzhyajJvOWs2aGkzOGJiMWNvc21hYjlrNzFoNjhiOW82OHJtY2I5bDYwczM0ZDM0Y2dxajRvaGc2c18yMDI2MDgxNlQxNjMwMDBaIHNwYXJreWZsYXNocmVib2JAbQ&ctz=America/Los_Angeles). 
+   Sun, Aug 16 •  Lanterns Premiere on HBO  (All day) [📅  View event ](https://www.google.com/calendar/event?eid=NXJma2U4aXNmdmtmaWtpM2NuZWYzZzZxbnQgc3Bhcmt5Zmxhc2hyZWJvYkBt&ctz=America/Los_Angeles). 
+   Sun, Aug 16 • 9:30 AM •  930AM Meeting  (1h) [📅  View event ](https://www.google.com/calendar/event?eid=YzhyajJvOWs2aGkzOGJiMWNvc21hYjlrNzFoNjhiOW82OHJtY2I5bDYwczM0ZDM0Y2dxajRvaGc2c18yMDI2MDgxNlQxNjMwMDBaIHNwYXJreWZsYXNocmVib2JAbQ&ctz=America/Los_Angeles). 
    Sun, Aug 16 • 5:00 PM •  Living Mindfully Meditation Group Meeting  (1h 30m) [✨  Join meeting ](https://meet.google.com/oxf-rdfm-kmn).
    
      Theme: Examining internal dialogue and how commentary on experience often serves as the root of suffering. Facilitated online via Google Meet. 
@@ -112,7 +112,7 @@ CC is an experimental AI productivity agent and can make mistakes, so double-che
       Wed, Aug 19:  Final deadline for any remaining unpaid balances [🔗  View retreat info ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873365599884191342) [📅  Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Reminder%3A+Spirit+Rock+Retreat+Balance+Due&dates=20260819T090000%2F20260819T100000&ctz=America%2FLos_Angeles&details=Final+deadline+for+any+remaining+unpaid+balances+for+the+Spirit+Rock+Labor+Day+Insight+Retreat.&location=Online&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com). 
      Note: Your required questionnaire and headshot were successfully completed on August 6th. 
     
-   Sat, Aug 22 • 5:00 PM •  First VQ Prep Meeting  (1h 30m) at the Larkspur Plaza home [✨  Join online ](https://meet.google.com/nqh-jmxe-iev) [Map](https://www.google.com/maps/search/?api=1&query=326+Larkspur+Plaza+Dr%2C+Larkspur%2C+CA+94939).
+   Sat, Aug 22 • 5:00 PM •  First VQ Prep Meeting  (1h 30m) at the Larkspur Plaza home [✨  Join online ](https://meet.google.com/nqh-jmxe-iev) [🔗  Map ](https://www.google.com/maps/search/?api=1&query=326+Larkspur+Plaza+Dr%2C+Larkspur%2C+CA+94939).
    
      Organized by Andrea Axtell for retreat preparation. 
     
@@ -120,7 +120,7 @@ CC is an experimental AI productivity agent and can make mistakes, so double-che
 
  CC Calendar Updates 
  
-   Updated:  Living Transmission of Love from the Other Side  — August 15, 2026 11:30am PT · [Source email](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873548266048147672) · [View event](https://www.google.com/calendar/event?eid=b3VoMWZxYm5rdDdsYmxqOWMyODBramgyM28gOWNlMWM5MDAyM2U4ZjI5MmZjMTEwNzRlNzZkOTQ3MWYzZmJlOWQxNDVjYjk0OWQ4MDY0NWM2ZDYwZjBlOGQyNUBn)
+   Updated:  Living Transmission of Love from the Other Side  — August 15, 2026 11:30am PT · [🔗  Source email ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873548266048147672) · [📅  View event ](https://www.google.com/calendar/event?eid=b3VoMWZxYm5rdDdsYmxqOWMyODBramgyM28gOWNlMWM5MDAyM2U4ZjI5MmZjMTEwNzRlNzZkOTQ3MWYzZmJlOWQxNDVjYjk0OWQ4MDY0NWM2ZDYwZjBlOGQyNUBn)
    
      New location: Online via Zoom 
      Event details updated 

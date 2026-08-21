@@ -54,28 +54,28 @@ CC is an experimental AI productivity agent and can make mistakes, so double-che
    
      Account was created on Sun, Jul 19. Verification is required to enable all publishing features. 
     
-   Today •  Capri's Birthday  (All day) [View event](https://www.google.com/calendar/event?eid=NjhxM2NvcG82b3JtYWJiNmNjbzZhYjlrY2RpamliOXA2Y3M2NGI5aTcwcjMwZTFuNjRyMzBwOWo2OF8yMDI2MDcyMCBzcGFya3lmbGFzaHJlYm9iQG0).
+   Today •  Capri's Birthday  (All day) [📅  View event ](https://www.google.com/calendar/event?eid=NjhxM2NvcG82b3JtYWJiNmNjbzZhYjlrY2RpamliOXA2Y3M2NGI5aTcwcjMwZTFuNjRyMzBwOWo2OF8yMDI2MDcyMCBzcGFya3lmbGFzaHJlYm9iQG0).
    
      This is an all-day event on your calendar. 
       Gift Idea:  'Double Digits' Birthday Shirt [🔗  View ](https://www.etsy.com/market/10_yo_girl_gifts) 
       Gift Idea:  Wash Away Hair Chalk Kit [🔗  View ](https://www.uncommongoods.com/sets/gifts-for-10-year-old-girls) 
       Gift Idea:  Wireless Karaoke Machine [🔗  View ](https://nationaltoday.com/gift-guides/gifts-for-10-year-olds/) 
     
-   Today • 7:00 AM •  Morning Practice Zoom w/ Ed Brown  (1h 15m) [✨  Join Zoom ](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09) [View event](https://www.google.com/calendar/event?eid=M3Z1bW84dnE4aHVwdnYwMWwxN2Eyc2FrM2tfMjAyNjA3MjBUMTQwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0).
+   Today • 7:00 AM •  Morning Practice Zoom w/ Ed Brown  (1h 15m) [✨  Join Zoom ](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09) [📅  View event ](https://www.google.com/calendar/event?eid=M3Z1bW84dnE4aHVwdnYwMWwxN2Eyc2FrM2tfMjAyNjA3MjBUMTQwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0).
    
      Schedule: 7:00 free writing, 7:15 brief talk, 7:30 sitting, 7:55 visiting. Use password 'beyond' to join. 
     
-   ⏱️ 1h 30m • Attend the AASF Marin Teleservice Monthly Business Meeting via Zoom starting at 6:00 PM today [✨  Join Meeting ](https://us02web.zoom.us/j/84707673404) [Add Event](https://calendar.google.com/calendar/render?action=TEMPLATE&text=AASF+Marin+Teleservice+Monthly+Business+Meeting&dates=20260720T180000%2F20260720T193000&ctz=America%2FLos_Angeles&details=Orientation+for+new+volunteers+at+6%3A00+PM.+Business+meeting+begins+at+6%3A45+PM+%28ID%3A+847+0767+3404%2C+PW%3A+1821%29.+Zoom%3A+https%3A%2F%2Fus02web.zoom.us%2Fj%2F84707673404&location=https%3A%2F%2Fus02web.zoom.us%2Fj%2F84707673404&add=).
+   ⏱️ 1h 30m • Attend the AASF Marin Teleservice Monthly Business Meeting via Zoom starting at 6:00 PM today [✨  Join Meeting ](https://us02web.zoom.us/j/84707673404) [📅  Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=AASF+Marin+Teleservice+Monthly+Business+Meeting&dates=20260720T180000%2F20260720T193000&ctz=America%2FLos_Angeles&details=Orientation+for+new+volunteers+at+6%3A00+PM.+Business+meeting+begins+at+6%3A45+PM+%28ID%3A+847+0767+3404%2C+PW%3A+1821%29.+Zoom%3A+https%3A%2F%2Fus02web.zoom.us%2Fj%2F84707673404&location=https%3A%2F%2Fus02web.zoom.us%2Fj%2F84707673404&add=).
    
       6:00 PM:  Orientation for new volunteers. 
       6:45 PM:  Business meeting begins (ID: 847 0767 3404, PW: 1821). 
-     The committee is currently looking for a Sunday Daily Coordinator. [View email](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871003643015144951) 
+     The committee is currently looking for a Sunday Daily Coordinator. [🔗  View email ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871003643015144951) 
     
    Status: A mobile check deposit of $300.00 is expected to post to your Advantage Plus Banking account ending in 0372 today [🔗  View deposit ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871092588688760757).
    
      Confirmation #3685147821. The deposit was initiated on Sat, Jul 18. 
     
-   Status: Your Amazon household order ($60.28) is scheduled for delivery today [Track order](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871166572888147249).
+   Status: Your Amazon household order ($60.28) is scheduled for delivery today [🔗  Track order ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871166572888147249).
    
      Order #111-7808588-2853838 includes Bedding and Lighting & Fans items. 
     
@@ -83,16 +83,16 @@ CC is an experimental AI productivity agent and can make mistakes, so double-che
 
  On your calendar 
  
-   Today •  Capri's Birthday  (All day) [View event](https://www.google.com/calendar/event?eid=NjhxM2NvcG82b3JtYWJiNmNjbzZhYjlrY2RpamliOXA2Y3M2NGI5aTcwcjMwZTFuNjRyMzBwOWo2OF8yMDI2MDcyMCBzcGFya3lmbGFzaHJlYm9iQG0). 
-   Today • 7:00 AM •  Morning Practice Zoom w/ Ed Brown  (1h 15m) [✨  Join Zoom ](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09) [View event](https://www.google.com/calendar/event?eid=M3Z1bW84dnE4aHVwdnYwMWwxN2Eyc2FrM2tfMjAyNjA3MjBUMTQwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0).
+   Today •  Capri's Birthday  (All day) [📅  View event ](https://www.google.com/calendar/event?eid=NjhxM2NvcG82b3JtYWJiNmNjbzZhYjlrY2RpamliOXA2Y3M2NGI5aTcwcjMwZTFuNjRyMzBwOWo2OF8yMDI2MDcyMCBzcGFya3lmbGFzaHJlYm9iQG0). 
+   Today • 7:00 AM •  Morning Practice Zoom w/ Ed Brown  (1h 15m) [✨  Join Zoom ](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09) [📅  View event ](https://www.google.com/calendar/event?eid=M3Z1bW84dnE4aHVwdnYwMWwxN2Eyc2FrM2tfMjAyNjA3MjBUMTQwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0).
    
      Password: beyond 
     
-   Tue, Jul 21 • 7:00 AM •  Morning Practice Zoom w/ Ed Brown  (1h 15m) [✨  Join Zoom ](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09) [View event](https://www.google.com/calendar/event?eid=M3Z1bW84dnE4aHVwdnYwMWwxN2Eyc2FrM2tfMjAyNjA3MjFUMTgwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0).
+   Tue, Jul 21 • 7:00 AM •  Morning Practice Zoom w/ Ed Brown  (1h 15m) [✨  Join Zoom ](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09) [📅  View event ](https://www.google.com/calendar/event?eid=M3Z1bW84dnE4aHVwdnYwMWwxN2Eyc2FrM2tfMjAyNjA3MjFUMTgwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0).
    
      Password: beyond 
     
-   Tue, Jul 21 • 11:00 AM •  MINDFULNESS MEDITATION CLUB  (1h 30m) at Building 10, College of Marin – Indian Valley Campus, 1800 Ignacio Blvd, Novato, CA [View event](https://www.google.com/calendar/event?eid=NzRjZ2ZybDYwNGsyZzJlcjZtMXFtNm41NjZfMjAyNjA3MjFUMTgwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0) [🔗  Directions ](https://www.google.com/maps/search/?api=1&query=Building+10%2C+College+of+Marin+%E2%80%93+Indian+Valley+Campus%2C+1800+Ignacio+Blvd%2C+Novato%2C+CA).
+   Tue, Jul 21 • 11:00 AM •  MINDFULNESS MEDITATION CLUB  (1h 30m) at Building 10, College of Marin – Indian Valley Campus, 1800 Ignacio Blvd, Novato, CA [📅  View event ](https://www.google.com/calendar/event?eid=NzRjZ2ZybDYwNGsyZzJlcjZtMXFtNm41NjZfMjAyNjA3MjFUMTgwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0) [🔗  Directions ](https://www.google.com/maps/search/?api=1&query=Building+10%2C+College+of+Marin+%E2%80%93+Indian+Valley+Campus%2C+1800+Ignacio+Blvd%2C+Novato%2C+CA).
    
      Parking costs $4 in Lot P2. Accessible parking is available in Lot 3 near the small bridge. 
     
@@ -104,15 +104,15 @@ CC is an experimental AI productivity agent and can make mistakes, so double-che
    
       Tue, Jul 21:  Morning Practice Zoom at 7:00 AM and Mindfulness Meditation Club at 11:00 AM. 
       Sun, Jul 26:  Your Krisp meeting data export link expires. [🔗  Download zip ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871203371556748382) [📅  Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Reminder%3A+Krisp+meeting+data+export+link+expires&dates=20260726T090000%2F20260726T091500&ctz=America%2FLos_Angeles&details=Download+zip+from+email%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19f7d98d68273c5e&location=Online&add=) 
-      Wed, Jul 29:  Expected arrival of Andrea Axtell's Earth Funeral welcome pack, including 5 membership cards. [View details](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871147898847175753) 
-      Sat, Aug 8:  Shawn's Celebration of Life memorial service from 1:00 PM to 3:00 PM at 1736 Kerry Ln, Santa Rosa, CA 95403 [View email](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871156792762465161) [🔗  Directions ](https://www.google.com/maps/search/?api=1&query=1736+Kerry+Ln%2C+Santa+Rosa%2C+CA+95403) [📅  View Event ](https://www.google.com/calendar/event?eid=NnNxajRkOXA2cGltMmI5amNncTMyYjlrNjRxNmNiYjI2OWhtY2JiMjcwcm1hb2IzNjhyM2NjcjJjZyBzcGFya3lmbGFzaHJlYm9iQG0). 
+      Wed, Jul 29:  Expected arrival of Andrea Axtell's Earth Funeral welcome pack, including 5 membership cards. [🔗  View details ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871147898847175753) 
+      Sat, Aug 8:  Shawn's Celebration of Life memorial service from 1:00 PM to 3:00 PM at 1736 Kerry Ln, Santa Rosa, CA 95403 [🔗  View email ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871156792762465161) [🔗  Directions ](https://www.google.com/maps/search/?api=1&query=1736+Kerry+Ln%2C+Santa+Rosa%2C+CA+95403) [📅  View Event ](https://www.google.com/calendar/event?eid=NnNxajRkOXA2cGltMmI5amNncTMyYjlrNjRxNmNiYjI2OWhtY2JiMjcwcm1hb2IzNjhyM2NjcjJjZyBzcGFya3lmbGFzaHJlYm9iQG0). 
     
    Recent activity and updates from Sun, Jul 19.
    
       Substack:  Published 'The Personal Toll' and 'The Pillars of Truth' to Head & Heart Together. [🔗  View posts ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871171426178855132) 
       Shopping:  Purchased three coaching Kindle books and 'Just Be A Good Human' gear from TeePublic ($36.05). [🔗  Amazon order ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871210280256702116) [🔗  TeePublic order ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871202578709527451) 
       Groceries:  Total of $213.02 spent at Whole Foods Market - San Rafael. [🔗  View receipt ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871178269928283059) 
-      Home:  Andrea noted that Lori recently used a baking soda and vinegar hack to successfully clear a bathroom drain. [View email](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871167418147028197) 
+      Home:  Andrea noted that Lori recently used a baking soda and vinegar hack to successfully clear a bathroom drain. [🔗  View email ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871167418147028197) 
       Tools:  Web Highlights now supports direct PDF uploads, and UJAM confirmed receipt of your support request. [🔗  Web Highlights ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871182302050405515) [🔗  UJAM ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871186875127478311) 
     
  
