@@ -36,7 +36,6 @@ tags:
 
 # 📖 Activity Details
 
-# ☀️ Daily Activity Details & Discussions
 ## 🕒 Daily Timeline & Activities
 * **Morning:** Waking routine, morning priorities, domestic interactions, and personal reflections.
 * **Afternoon:** Community sit-ins/meetings, errands, household tasks, and project work.

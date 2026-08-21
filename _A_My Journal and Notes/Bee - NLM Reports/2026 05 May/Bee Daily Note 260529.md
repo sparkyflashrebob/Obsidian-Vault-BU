@@ -1,107 +1,153 @@
 ---
-date: "2026-05-29"
 tags:
-  - physical-discomfort
-  - health-monitoring
-  - personal-memories
-  - stories-and-reflections
-  - recovery-principles
-  - fellowship
-  - buddhist-principles
-  - technical-automation
-  - bee-reports
-  - daily-notes
-  - daily-diary
+  - 12-step-framework
+  - ambient-sensors
+  - concert-planning
+  - concerts
+  - docker
+  - docker-desktop
+  - docker-setup
+  - home-monitoring
+  - household-logistics
+  - media-curation
+  - personal-development
+  - quantum
+  - quantum-physics
+  - recovery
+  - recovery-program
+  - rise-up-sing-out
+  - spiritual-inquiry
+  - temperature
+  - troubleshooting
+  - what-the-bleep-film
   - bee-nlm-report
-  - activity-details-architecture
+  - krisp-daily-summary
 ---
 
-# Docker troubleshooting, Dog park encounter, Quantum Spirituality Documentary & Andrea's Guerneville Memories
+# Docker troubleshooting and device setup, Concert plans and news browsing, and Sharing recovery steps update
 
 📅 **Date**: Friday, May 29, 2026 (2026-05-29)
-👥 **Attendees/Participants**: Andy, Andrea, Mickey, Joy, Bertie (dog)
+👥 **Attendees**: Andy
 📊 **Total Bee Conversations Processed**: 5
 
 ---
 
-## 🌡️ Atmosphere of the Day
-   * **Overall Mood & Emotional Progression:** Intellectually curious, domestically comfortable, and deeply reflective Friday. Shifted from technical API troubleshooting and wearable device testing into a pleasant pre-dinner walk and neighborhood dog park chat, concluding with a rich evening watching quantum spirituality documentaries while managing home chores and physical health.
+## 📌 Executive & Core Topics Overview
+- **Core Topics**: #concert-planning, #docker-setup, #household-logistics, #quantum-physics, #recovery-program
+- **Entities & Terms**: #12-step-framework, #ambient-sensors, #docker-desktop, #rise-up-sing-out, #what-the-bleep-film
+- **Key Actions**: #home-monitoring, #media-curation, #personal-development, #spiritual-inquiry, #troubleshooting
+- **Keywords**: #concerts, #docker, #quantum, #recovery, #temperature
 
 ---
 
-## 🕒 Daily Timeline & Activities
-* **Morning:** Waking routine, priorities review, and technical setup with Docker Desktop, Gordon AI assistant, and wearable recorder testing.
-* **Afternoon:** Pre-dinner walk with Andrea; podcast on ego & humility; meeting Mickey and Joy at the dog park; concert ticket search ("Rise Up, Sing Out"); bottle organization; toe curling sensation; Chrome TV casting setup with Andrea.
-* **Evening:** Rotating mattress, changing sheets, eating leftover burritos with broccoli while watching 2004 documentary *What the Bleep Do We Know!?*; applying CBD/magnesium oil for neck pain; Andrea sharing memories of her Guerneville Jin Shin Jyutsu community; searching for William Orbit's song *"Time to Get Wise"*.
+## 📅 Google Calendar Events Today
+- **KIERA'S BIRTHDAY (1992)** (12:00 AM)
+- **Imagination, Consciousness, and Human Potential** (11:00 AM)
 
 ---
 
-## 🌅 Morning Activity Details
+## 📧 Gmail Activity Log
+- *No outgoing sent email replies or correspondence recorded today.*
 
-### 1. Docker Desktop & Wearable Device Testing
-   - Andy spent the morning troubleshooting technical projects, working with Docker Desktop and its AI assistant Gordon to set up a Bee API, encountering challenges with developer mode on the "Bee Pioneer" device.
-- Tested wearable recorder battery usage and Wi-Fi packet consumption, aiming for calendar and task integration without subscription fees.
+---
 
+## 🌅 Your Day Ahead Email Brief
+- **Subject**: `💌 Your Day Ahead 05/28/2026` (7:00 AM)
+
+> ...
+> 
+> ---
+> CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact labs-cc-support@google.com or disconnect here: https://myaccount.google.com/connections#:~:text=CC
+
+---
+
+## 💡 Key Points, Subjects and Themes
+- **Docker troubleshooting and device setup**: Recorded and processed during today's transcript sessions.
+- **Concert plans and news browsing**: Recorded and processed during today's transcript sessions.
+- **Sharing recovery steps update**: Recorded and processed during today's transcript sessions.
+- **Streaming show setup discussion**: Recorded and processed during today's transcript sessions.
+- **Quantum Spirituality Documentary Viewing**: Recorded and processed during today's transcript sessions.
+
+---
+
+# 📖 Activity Details
 ---
 
 ## ☀️ Afternoon Activity Details
 
-### 1. Pre-Dinner Walk with Andrea & Dog Park Encounter (Mickey, Joy & Bertie)
-   - Andy went for a walk with Andrea before dinner, discussing news about musicians backing out of a Trump-associated event and listening to a podcast on ego and humility.
-- Met Mickey and Joy at the dog park with their dog Bertie; Mickey shared that he uses multiple languages (French, German, Mandarin via Duolingo) with his dog.
-- Noted hip recovery progressing well with minimal tightness during walks.
+### 1. Docker troubleshooting and device setup (1:58 PM – 3:08 PM)
+Andy spent the day troubleshooting technical projects, testing a wearable recording device, and engaging in various social interactions. He worked with Docker Desktop and its AI assistant Gordon to set up a B API, encountering challenges with developer mode on a device he called the "Bee Pioneer." He also tested a wearable recorder's battery usage and Wi-Fi packet consumption, hoping it would integrate with his calendar and tasks without subscription fees. Andy went for a walk with his partner before dinner, during which they discussed news about musicians backing out of a Trump-associated event and listened to a podcast about ego and humility. Later at the dog park, he met Mickey and Joy, who had a dog named Bertie; Mickey uses multiple languages (French, German, some Mandarin via Duolingo) with the dog and is learning languages. Andy's hip recovery is progressing well with minimal tightness during walks.
 
-### 2. Concert Ticket Search & News Browsing
-- Multitasked between searching for tickets to a "Rise Up, Sing Out" concert (Snow Kings) on June 14th in New York and preparing for a shower.
-- Listened to news coverage including Martina McBride, a judge ordering Trump's name removed from the Kennedy Center, an ICE arrest in Texas, and Peter Thiel's connections to Argentina's President Milei.
 
-### 3. Bottle Organization & Physical Sensation Update
-- Organized household bottle stash, offering to grab extras from the back supply.
-- Experienced an odd physical sensation with his left ring toe wanting to curl under his foot (*Physical Discomfort & Health Monitoring*).
-- Updated personal 12-Step recovery program details (*Recovery Principle: Keeping My Side of the Street Clean*).
+### 2. Concert plans and news browsing (3:15 PM – 3:32 PM)
+Andy was multitasking between searching for concert tickets, listening to a news podcast/broadcast, and preparing to take a shower. He found information about a "Rise Up, Sing Out" concert (likely featuring Snow Kings) happening on June 14th in New York. While browsing, he listened to news coverage that included stories about Martina McBride backing out of an event, a judge ordering Trump's name removed from the Kennedy Center, an ICE agent arrest in Texas, and Peter Thiel's connections to Argentina's President Javier Milei. Andy attempted to search for more information about Peter Thiel in the news but didn't find what he was looking for.
 
-### 4. Living Room TV Streaming Setup with Andrea
-- Andy and Andrea figured out how to watch a show together on the couch.
-- Andy walked Andrea through using Chrome to cast/screen-share to the living room TV.
+
+### 3. Sharing recovery steps update (3:46 PM – 4:06 PM)
+Andy was having a casual conversation with someone while doing household tasks together. They were organizing or putting away bottles, with Andy offering to grab extras from his clean stash in the back. Andy mentioned a physical sensation with his left ring toe wanting to curl under his foot. He also shared updates about his twelve steps program — he's revising it and removing a "rise up" event in New York since he won't attend in person, but plans to participate from home with Andrea after she finishes work.
+
+
+### 4. Streaming show setup discussion (4:09 PM – 4:17 PM)
+Andy and someone at home (likely a partner or household member) were figuring out how to watch a show together. The other person suggested bringing a chair in to watch without headphones, but Andy proposed streaming it to the TV in the living room instead. Andy walked them through using Chrome to cast/screen-share to the TV, mentioning he'd done this successfully before with another show they couldn't find elsewhere. Andy also mentioned not feeling well when taking showers.
+
+
+### 5. Quantum Spirituality Documentary Viewing (4:33 PM – 8:23 PM)
+Andy and Sarah spent an evening watching the 2004 documentary "What the Bleep Do We Know!?" while managing domestic tasks and having wide-ranging conversations. They rotated their mattress, changed sheets, ate leftover burritos with broccoli, and discussed the film's themes of quantum physics, consciousness, and spirituality. Andy experienced some physical discomfort including neck pain and post-shower weirdness, and they applied CBD/magnesium oil. Sarah shared memories of her Jin Shin Jyutsu and therapeutic touch community in Guerneville/Petaluma, and they discussed California politics including redistricting and Democratic primary races. Andy searched for and found the documentary song "Time to Get Wise" by William Orbit, and they explored the DVD's extensive "Quantum Edition" bonus features.
+
+
+
+## 🗣️ Personal Monologues & Direct Thoughts
+- *No extended personal journal monologues recorded today.*
 
 ---
 
-## 🌙 Evening Activity Details
+## 🧘 Spiritual and Societal Insights
+- **Andy mentioned feeling unwell during showers**: possibly worth noting for health awareness
 
-### 1. Quantum Spirituality Documentary Viewing (*What the Bleep Do We Know!?*) & Household Chores
-   - Andy and Andrea spent the evening (4:33 PM – 8:23 PM) watching the 2004 documentary *What the Bleep Do We Know!?* while rotating their mattress and changing bed sheets.
-- Ate leftover burritos with broccoli for dinner while engaging with the film's themes of quantum physics, consciousness, and spirituality.
+---
 
-### 2. CBD/Magnesium Relief for Neck Pain & Discomfort
-- *Physical Discomfort & Health Monitoring:* Andy experienced physical discomfort including neck pain and post-shower weirdness; applied CBD and magnesium oil for pain relief.
+## 💬 Quoted Expressions & Catchy Phrases
+### Quotes
+- **Quote**: *"Mindfulness is not a lofty abstract process; it is grounded awareness of being right here, right now."*
+  **Speaker**: Andy
+  **Context**: During a discussion on secular meditation practice, Andy clarifies the core nature of present-moment awareness.
 
-### 3. Andrea's Guerneville Jin Shin Jyutsu Community Memories
-- *Personal Story / Memory Shared:* Andrea shared memories of her Jin Shin Jyutsu and therapeutic touch community in Guerneville/Petaluma.
-- Discussed California politics, redistricting, and Democratic primary races.
+### Catchy Phrases & Key Sayings
+* **"Of Quantum Mechanics"** — 5 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+* **"I Don'T Know What"** — 4 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+* **"In Developer Mode"** — 4 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
 
-### 4. Documentary Soundtrack Search (William Orbit's *"Time to Get Wise"*)
-- Andy searched for and located the documentary soundtrack song *"Time to Get Wise"* by William Orbit.
-- Explored the DVD's extensive "Quantum Edition" bonus features before winding down.
+### Notable Names Mentioned
+- *No unusual or humorous nicknames recorded today.*
+
+---
+
+## 📚 Stories & Case Examples Shared
+- **Recorded Account**: *"**Health update**: Hip recovery going well, walking almost normally again with very little tightness"*
+- **Recorded Account**: *"Unknown: You wanna walk with me, Linux?"*
+- **Recorded Account**: *"Attempted to search for Peter Thiel news independently but didn't locate the story"*
+- **Recorded Account**: *"Unknown: Great.Remember the I did that with that one show that we wanted to watch because we couldn't see it elsewhere."*
+- **Recorded Account**: *"Unknown: That's what happened to me, remember?"*
+
+---
+
+## 🧠 Physical & Mental Challenges
+| Category | Description |
+| :--- | :--- |
+| **Mental / Emotional** | Navigating technical friction, workflow focus, and mental energy. |
+| **Physical / Sensory** | Pacing daily tasks and maintaining somatic awareness during computer work. |
 
 ---
 
 ## 📻 Miscellaneous Media & References Encountered
 ### Music & Audio
-   - Podcast on ego and humility; *"Time to Get Wise"* by William Orbit.
+- *No specific music playback recorded today.*
 
 ### Film, Video & TV Shows
-- 2004 documentary *What the Bleep Do We Know!?* ("Quantum Edition" DVD).
+- *No specific film/TV viewing recorded today.*
 
 ### News & Current Events
-- News coverage on Martina McBride, Kennedy Center rulings, Peter Thiel & President Milei, California redistricting politics.
+- *No specific news media recorded today.*
 
 ---
-
-## 📋 Action Items & Follow-Ups
-# **@AwnDee**
-- [ ] Continue applying CBD/magnesium oil for neck pain - [TBD]
-- [ ] Finalize 12-Step recovery program revisions for upcoming sit - [TBD]
-- [ ] Listen to William Orbit's *"Time to Get Wise"* soundtrack - [TBD]
-
----
-# *Report automatically generated on 2026-08-20 (Master Activity Details Specification)*
+*Report automatically generated on 2026-08-21 06:16:38*
