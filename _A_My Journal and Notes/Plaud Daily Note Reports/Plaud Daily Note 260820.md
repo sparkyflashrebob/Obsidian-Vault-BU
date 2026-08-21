@@ -67,33 +67,39 @@ tags:
 ---
 
 # 📖 Activity Details
----
 
 ## 🌅 Morning Activity Details
+### 1. System Prompt & Technical Reference Alignment (8:50 AM – 9:37 AM)
+- **Atmosphere**: Serious, intellectually rigorous, collaborative
+- **Key Details**: Andy and Andrea discussed aligning the daily report automation system prompt and technical reference with explicit user directives. Evaluated how daily timeline entries, story highlights, and Buddhist/12-Step concept tagging are extracted and structured.
+- **Participant Attribution**: Andy & Andrea
 
-### 1. Morning Session (7:00 AM – 12:00 PM)
-- **Plaud NotePin Setup & Morning Activation**: 
-  Andy initiated the morning archiving loop. System captured initial ambient audio and task planning notes.
-- **Technical Projects & Workflow Review**:
-  Review of local python automations, transcript processing pipelines, and DriveSync folder synchronization.
-
+### 2. Sakkāyadiddhi, Ego, & Punting vs Wise Relinquishment Discussion (10:27 AM – 11:42 AM)
+- **Atmosphere**: Deeply introspective, reflective, humorous
+- **Key Details**: Andy established the crucial distinction between Wise Relinquishment (*Paṭinissagga* - skillful letting go through wisdom) and "Punting" (setting an unskillful habit like late-night snacking aside without creating extra stress/guilt). Discussed creating a dedicated journal report on Sakkāyadiddhi, Ego, and Identity View.
+- **Participant Attribution**: Andy & Andrea
 
 ## ☀️ Afternoon Activity Details
+### 1. Daily Report Formatting Audit & Workflow Review (2:52 PM – 3:02 PM)
+- **Atmosphere**: Focused, practical
+- **Key Details**: Reviewing vault-wide master specifications, location-based participant attribution rules (Andy/Andrea at home), and multi-part heading consolidation.
+- **Participant Attribution**: Andy
 
-### 1. Afternoon Session (12:01 PM – 5:00 PM)
-- **Focused Computer & Household Operations**:
-  Andy engaged in routine technical work, documentation updates, and physical movement breaks.
-- **Interpersonal & Community Discussions**:
-  Casual dialogue recorded during afternoon walk and domestic activities.
-
+### 2. Sports Analysis & Evening Commentary (4:18 PM – 5:00 PM)
+- **Atmosphere**: Relaxed, domestic
+- **Key Details**: Intermittent conversations between Andy and Andrea during sports broadcasts, discussing team development and evening meal planning.
+- **Participant Attribution**: Andy & Andrea
 
 ## 🌙 Evening Activity Details
+### 1. Media Commentary & Politics (7:26 PM – 8:17 PM)
+- **Atmosphere**: Engaged, critical
+- **Key Details**: Discussions on current events, political legal analysis, and ethical principles. Active intermittent dialogue between Andy and Andrea prioritized over background audio.
+- **Participant Attribution**: Andy & Andrea
 
-### 1. Evening Session (5:01 PM – 11:00 PM)
-- **Evening Reflections & Media Notes**:
-  Summary of evening discussions, documentary/media viewing, and preparation for night Plaud export.
-
-
+### 2. Troubleshooting Obsidian GitHub Backup & Vault Sync (9:04 PM – 9:33 PM)
+- **Atmosphere**: Technical, collaborative
+- **Key Details**: Troubleshooting the Obsidian Git community plugin, resolving large file push limitations (excluding Copilot index files), and verifying remote synchronization to GitHub.
+- **Participant Attribution**: Andy
 
 ## 🗣️ Personal Monologues & Direct Thoughts
 - *No extended personal journal monologues recorded today.*
