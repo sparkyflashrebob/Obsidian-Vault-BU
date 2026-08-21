@@ -49,19 +49,19 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Health concerns and circulation advice**: Recorded and processed during today's transcript sessions.
-- **Senior ride and storage planning**: Recorded and processed during today's transcript sessions.
-- **Marriage licensing, witnesses, lockdown, retirement**: Recorded and processed during today's transcript sessions.
-- **Safety planning for trail adventure**: Recorded and processed during today's transcript sessions.
-- **House cleanup and organizing session**: Recorded and processed during today's transcript sessions.
-- **Confusion over previous tenant meeting**: Recorded and processed during today's transcript sessions.
-- **AI features exploration**: Recorded and processed during today's transcript sessions.
-- **Council schedule confusion**: Recorded and processed during today's transcript sessions.
-- **Laundry organization assistance**: Recorded and processed during today's transcript sessions.
-- **Meditation and World Cup football**: Recorded and processed during today's transcript sessions.
-- **Andy Tracks FBI Witness**: Recorded and processed during today's transcript sessions.
-- **Golf Tournament Competitive Strategy**: Recorded and processed during today's transcript sessions.
-- **Street Drain Overflow Monitoring**: Recorded and processed during today's transcript sessions.
+- **Health concerns and circulation advice**
+- **Senior ride and storage planning**
+- **Marriage licensing, witnesses, lockdown, retirement**
+- **Safety planning for trail adventure**
+- **House cleanup and organizing session**
+- **Confusion over previous tenant meeting**
+- **AI features exploration**
+- **Council schedule confusion**
+- **Laundry organization assistance**
+- **Meditation and World Cup football**
+- **Andy Tracks FBI Witness**
+- **Golf Tournament Competitive Strategy**
+- **Street Drain Overflow Monitoring**
 
 ---
 

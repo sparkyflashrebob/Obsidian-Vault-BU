@@ -49,13 +49,13 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Managing Physical Limitations and Exercise Plans**: Recorded and processed during today's transcript sessions.
-- **Exploring universal constraints and boundaries**: Recorded and processed during today's transcript sessions.
-- **Palestinian Mental Health Therapy Discussion**: Recorded and processed during today's transcript sessions.
-- **Geological Threat Discussion**: Recorded and processed during today's transcript sessions.
-- **Failed mind map discussion**: Recorded and processed during today's transcript sessions.
-- **Harry Potter, Back Pain, Quidditch**: Recorded and processed during today's transcript sessions.
-- **Harry Potter, Football, and Politics**: Recorded and processed during today's transcript sessions.
+- **Managing Physical Limitations and Exercise Plans**
+- **Exploring universal constraints and boundaries**
+- **Palestinian Mental Health Therapy Discussion**
+- **Geological Threat Discussion**
+- **Failed mind map discussion**
+- **Harry Potter, Back Pain, Quidditch**
+- **Harry Potter, Football, and Politics**
 
 ---
 

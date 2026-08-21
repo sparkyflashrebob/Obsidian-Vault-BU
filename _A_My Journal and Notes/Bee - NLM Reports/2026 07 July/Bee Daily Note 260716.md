@@ -59,14 +59,14 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Teaching Material Compilation Process**: Recorded and processed during today's transcript sessions.
-- **Trauma-informed health teaching for society**: Recorded and processed during today's transcript sessions.
-- **Returning to meditation teaching**: Recorded and processed during today's transcript sessions.
-- **Online meditation session setup**: Recorded and processed during today's transcript sessions.
-- **Meditation Group Self-Honesty Teaching Session**: Recorded and processed during today's transcript sessions.
-- **Buddhist teaching preparation and business planning**: Recorded and processed during today's transcript sessions.
-- **Andy's speculation about Silo secrets**: Recorded and processed during today's transcript sessions.
-- **Web page update and spam**: Recorded and processed during today's transcript sessions.
+- **Teaching Material Compilation Process**
+- **Trauma-informed health teaching for society**
+- **Returning to meditation teaching**
+- **Online meditation session setup**
+- **Meditation Group Self-Honesty Teaching Session**
+- **Buddhist teaching preparation and business planning**
+- **Andy's speculation about Silo secrets**
+- **Web page update and spam**
 
 ---
 

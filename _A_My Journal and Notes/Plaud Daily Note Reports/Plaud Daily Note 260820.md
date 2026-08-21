@@ -60,9 +60,16 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Daily Voice Archiving & Session Notes**: Recorded continuously via Plaud NotePin.
-- **Workflow & Task Operations**: Tracked and diarized with timestamp offsets.
-
+- **AI accuracy issues in interaction tracking**
+- **System Prompt & Technical Reference Alignment**
+- **Report Generation and Timeline Issues**
+- **Fixing daily report formatting errors**
+- **Discussions on Identity and Ego (Sakkāyadiddhi, Ego, & Punting vs Wise Relinquishment)**
+- **Last Day Transition Planning**
+- **Raider fan sports analysis & Team Commentary**
+- **Player Interview About Development**
+- **Trump lawyer conflict of interest**
+- **Troubleshooting Obsidian GitHub Backup & Vault Sync**
 
 ---
 

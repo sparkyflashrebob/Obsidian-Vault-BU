@@ -51,12 +51,12 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Authentic Living and Practical Matters**: Recorded and processed during today's transcript sessions.
-- **Meditation techniques and spiritual devotion**: Recorded and processed during today's transcript sessions.
-- **Shoulder rehab, honesty talk, game**: Recorded and processed during today's transcript sessions.
-- **Document review and paperwork organization**: Recorded and processed during today's transcript sessions.
-- **Summer League Basketball Madness**: Recorded and processed during today's transcript sessions.
-- **Lock screen accessibility options explained**: Recorded and processed during today's transcript sessions.
+- **Authentic Living and Practical Matters**
+- **Meditation techniques and spiritual devotion**
+- **Shoulder rehab, honesty talk, game**
+- **Document review and paperwork organization**
+- **Summer League Basketball Madness**
+- **Lock screen accessibility options explained**
 
 ---
 

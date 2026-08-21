@@ -83,18 +83,18 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Personal AI assistant meditation check-in**: Recorded and processed during today's transcript sessions.
-- **Daily Reports and Spiritual Summaries**: Recorded and processed during today's transcript sessions.
-- **Daily Report Creation Workflow**: Recorded and processed during today's transcript sessions.
-- **Fixed income investment strategy discussion**: Recorded and processed during today's transcript sessions.
-- **Investing in Bonds and Yields**: Recorded and processed during today's transcript sessions.
-- **Fixed Income Investment Advisory Session**: Recorded and processed during today's transcript sessions.
-- **Demand Solutions for Political Change**: Recorded and processed during today's transcript sessions.
-- **Mindfulness club formation assistance**: Recorded and processed during today's transcript sessions.
-- **Mindful Self-Honesty Meditation Session**: Recorded and processed during today's transcript sessions.
-- **The Nature of Honesty**: Recorded and processed during today's transcript sessions.
-- **Mental Health Recovery Group Planning**: Recorded and processed during today's transcript sessions.
-- **Meditation Group Formation at College**: Recorded and processed during today's transcript sessions.
+- **Personal AI assistant meditation check-in**
+- **Daily Reports and Spiritual Summaries**
+- **Daily Report Creation Workflow**
+- **Fixed income investment strategy discussion**
+- **Investing in Bonds and Yields**
+- **Fixed Income Investment Advisory Session**
+- **Demand Solutions for Political Change**
+- **Mindfulness club formation assistance**
+- **Mindful Self-Honesty Meditation Session**
+- **The Nature of Honesty**
+- **Mental Health Recovery Group Planning**
+- **Meditation Group Formation at College**
 
 ---
 

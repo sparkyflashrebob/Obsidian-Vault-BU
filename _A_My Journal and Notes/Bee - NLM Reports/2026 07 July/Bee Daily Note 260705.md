@@ -50,20 +50,20 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Memory dreams broadcasting planning session**: Recorded and processed during today's transcript sessions.
-- **Exploring Buddhist Precepts and Ethics**: Recorded and processed during today's transcript sessions.
-- **Buddhist teachings on generosity and speech**: Recorded and processed during today's transcript sessions.
-- **Political expression in hostile climate**: Recorded and processed during today's transcript sessions.
-- **Andy Dharma: Effort vs Non-Effort**: Recorded and processed during today's transcript sessions.
-- **Protecting American Liberty from Trump**: Recorded and processed during today's transcript sessions.
-- **Ending political discussion session**: Recorded and processed during today's transcript sessions.
-- **Grocery shopping and product discussion**: Recorded and processed during today's transcript sessions.
-- **Thank you for the advice**: Recorded and processed during today's transcript sessions.
-- **World Cup Football Commentary**: Recorded and processed during today's transcript sessions.
-- **Meal prep service discovery**: Recorded and processed during today's transcript sessions.
-- **Basketball Game Analysis Discussion**: Recorded and processed during today's transcript sessions.
-- **Sports Watch and Commentary**: Recorded and processed during today's transcript sessions.
-- **Power outage affects entire area**: Recorded and processed during today's transcript sessions.
+- **Memory dreams broadcasting planning session**
+- **Exploring Buddhist Precepts and Ethics**
+- **Buddhist teachings on generosity and speech**
+- **Political expression in hostile climate**
+- **Andy Dharma: Effort vs Non-Effort**
+- **Protecting American Liberty from Trump**
+- **Ending political discussion session**
+- **Grocery shopping and product discussion**
+- **Thank you for the advice**
+- **World Cup Football Commentary**
+- **Meal prep service discovery**
+- **Basketball Game Analysis Discussion**
+- **Sports Watch and Commentary**
+- **Power outage affects entire area**
 
 ---
 

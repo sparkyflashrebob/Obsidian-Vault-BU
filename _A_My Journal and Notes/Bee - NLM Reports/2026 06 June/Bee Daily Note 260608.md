@@ -43,9 +43,9 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Morning routine and health check**: Recorded and processed during today's transcript sessions.
-- **House sale and moving plans**: Recorded and processed during today's transcript sessions.
-- **Watching basketball game highlights together**: Recorded and processed during today's transcript sessions.
+- **Morning routine and health check**
+- **House sale and moving plans**
+- **Watching basketball game highlights together**
 
 ---
 

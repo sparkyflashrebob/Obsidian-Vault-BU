@@ -48,21 +48,21 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Toxic Chemical Safety Campaign**: Recorded and processed during today's transcript sessions.
-- **Audio system troubleshooting session**: Recorded and processed during today's transcript sessions.
-- **Human-Centered Daily Report Mindfulness Reflection**: Recorded and processed during today's transcript sessions.
-- **Setting up preferred communication methods**: Recorded and processed during today's transcript sessions.
-- **Closing loose ends via texts**: Recorded and processed during today's transcript sessions.
-- **My Enrollment In Consciousness Mapping**: Recorded and processed during today's transcript sessions.
-- **Editor auto-replace tag troubleshooting**: Recorded and processed during today's transcript sessions.
-- **Understanding emptiness in cognition**: Recorded and processed during today's transcript sessions.
-- **Secular Buddhist content creation consultation**: Recorded and processed during today's transcript sessions.
-- **Personal Ethics and Societal Action**: Recorded and processed during today's transcript sessions.
-- **Changing Car Tire Blog Tutorial**: Recorded and processed during today's transcript sessions.
-- **Prompt to mimic Andy's language**: Recorded and processed during today's transcript sessions.
-- **Finding joy in simple entertainment**: Recorded and processed during today's transcript sessions.
-- **Debugging session**: Recorded and processed during today's transcript sessions.
-- **Meditation Audio Training Challenges**: Recorded and processed during today's transcript sessions.
+- **Toxic Chemical Safety Campaign**
+- **Audio system troubleshooting session**
+- **Human-Centered Daily Report Mindfulness Reflection**
+- **Setting up preferred communication methods**
+- **Closing loose ends via texts**
+- **My Enrollment In Consciousness Mapping**
+- **Editor auto-replace tag troubleshooting**
+- **Understanding emptiness in cognition**
+- **Secular Buddhist content creation consultation**
+- **Personal Ethics and Societal Action**
+- **Changing Car Tire Blog Tutorial**
+- **Prompt to mimic Andy's language**
+- **Finding joy in simple entertainment**
+- **Debugging session**
+- **Meditation Audio Training Challenges**
 
 ---
 

@@ -62,19 +62,19 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Documenting recurring health patterns**: Recorded and processed during today's transcript sessions.
-- **AI-Powered Information Management System**: Recorded and processed during today's transcript sessions.
-- **Making burial arrangements**: Recorded and processed during today's transcript sessions.
-- **Ecological Death Planning and Family Considerations**: Recorded and processed during today's transcript sessions.
-- **Smoke detector troubleshooting and replacement**: Recorded and processed during today's transcript sessions.
-- **Coordinating avatar implementation**: Recorded and processed during today's transcript sessions.
-- **Stove Installation Planning**: Recorded and processed during today's transcript sessions.
-- **Coordinating kitchen appliance repair work**: Recorded and processed during today's transcript sessions.
-- **Ecological cremation service inquiry**: Recorded and processed during today's transcript sessions.
-- **Gas oven installation and testing**: Recorded and processed during today's transcript sessions.
-- **Exploring Healing Practice Space Options**: Recorded and processed during today's transcript sessions.
-- **Online Council Session: Tech Troubles and Planning**: Recorded and processed during today's transcript sessions.
-- **Personal health wellness journey**: Recorded and processed during today's transcript sessions.
+- **Documenting recurring health patterns**
+- **AI-Powered Information Management System**
+- **Making burial arrangements**
+- **Ecological Death Planning and Family Considerations**
+- **Smoke detector troubleshooting and replacement**
+- **Coordinating avatar implementation**
+- **Stove Installation Planning**
+- **Coordinating kitchen appliance repair work**
+- **Ecological cremation service inquiry**
+- **Gas oven installation and testing**
+- **Exploring Healing Practice Space Options**
+- **Online Council Session: Tech Troubles and Planning**
+- **Personal health wellness journey**
 
 ---
 

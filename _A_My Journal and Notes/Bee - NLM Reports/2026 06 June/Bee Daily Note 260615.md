@@ -56,15 +56,15 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Family conflict and health concerns**: Recorded and processed during today's transcript sessions.
-- **Discussing judgment and wisdom**: Recorded and processed during today's transcript sessions.
-- **House Hunting in Sonoma**: Recorded and processed during today's transcript sessions.
-- **Medical experience and casual chat**: Recorded and processed during today's transcript sessions.
-- **House Hunting Discussion**: Recorded and processed during today's transcript sessions.
-- **House hunting and tech trends**: Recorded and processed during today's transcript sessions.
-- **World Cup and Wellness Chat**: Recorded and processed during today's transcript sessions.
-- **Thyroid results and deer encounter**: Recorded and processed during today's transcript sessions.
-- **Jin Shin Thyroid Healing Session**: Recorded and processed during today's transcript sessions.
+- **Family conflict and health concerns**
+- **Discussing judgment and wisdom**
+- **House Hunting in Sonoma**
+- **Medical experience and casual chat**
+- **House Hunting Discussion**
+- **House hunting and tech trends**
+- **World Cup and Wellness Chat**
+- **Thyroid results and deer encounter**
+- **Jin Shin Thyroid Healing Session**
 
 ---
 

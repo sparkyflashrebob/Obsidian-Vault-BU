@@ -64,18 +64,18 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Handling Sports Disappointment Through Mindfulness**: Recorded and processed during today's transcript sessions.
-- **Investment strategy consultation**: Recorded and processed during today's transcript sessions.
-- **Philosophical Discussion on Krishnamurti's Teachings**: Recorded and processed during today's transcript sessions.
-- **Andy Monitors Breaking News Summary**: Recorded and processed during today's transcript sessions.
-- **Schedule discount consultation call**: Recorded and processed during today's transcript sessions.
-- **Funeral pre-payment vs insurance planning**: Recorded and processed during today's transcript sessions.
-- **Penalty Shootout**: Recorded and processed during today's transcript sessions.
-- **Space rental and end-of-life planning**: Recorded and processed during today's transcript sessions.
-- **Funeral Options and Budget Discussion**: Recorded and processed during today's transcript sessions.
-- **Financial seminar learning discussion**: Recorded and processed during today's transcript sessions.
-- **Home repairs meet quantum theory**: Recorded and processed during today's transcript sessions.
-- **Mount Hood Educational Presentation**: Recorded and processed during today's transcript sessions.
+- **Handling Sports Disappointment Through Mindfulness**
+- **Investment strategy consultation**
+- **Philosophical Discussion on Krishnamurti's Teachings**
+- **Andy Monitors Breaking News Summary**
+- **Schedule discount consultation call**
+- **Funeral pre-payment vs insurance planning**
+- **Penalty Shootout**
+- **Space rental and end-of-life planning**
+- **Funeral Options and Budget Discussion**
+- **Financial seminar learning discussion**
+- **Home repairs meet quantum theory**
+- **Mount Hood Educational Presentation**
 
 ---
 

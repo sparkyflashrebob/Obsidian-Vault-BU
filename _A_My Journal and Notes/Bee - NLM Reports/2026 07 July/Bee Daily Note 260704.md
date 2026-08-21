@@ -50,21 +50,21 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **AI tutoring, politics, July critique**: Recorded and processed during today's transcript sessions.
-- **Parade preparation gear selection**: Recorded and processed during today's transcript sessions.
-- **Preparation, Social Issues, and Politics**: Recorded and processed during today's transcript sessions.
-- **Digital marketing strategy implementation discussion**: Recorded and processed during today's transcript sessions.
-- **Political commentary and medication discussion**: Recorded and processed during today's transcript sessions.
-- **Standing Tree Meditation Learning Session**: Recorded and processed during today's transcript sessions.
-- **Wrong number cab company call**: Recorded and processed during today's transcript sessions.
-- **Elderly Care Discussion with Andy**: Recorded and processed during today's transcript sessions.
-- **Defending Constitutional Oath Through Action**: Recorded and processed during today's transcript sessions.
-- **Krakatoa volcano eruption effects**: Recorded and processed during today's transcript sessions.
-- **Movie night viewing**: Recorded and processed during today's transcript sessions.
-- **James and Henry Story Creation Session**: Recorded and processed during today's transcript sessions.
-- **Night Discussion Under Stars**: Recorded and processed during today's transcript sessions.
-- **Film Industry Career Discussion**: Recorded and processed during today's transcript sessions.
-- **Mixed Media Commentary and Politics**: Recorded and processed during today's transcript sessions.
+- **AI tutoring, politics, July critique**
+- **Parade preparation gear selection**
+- **Preparation, Social Issues, and Politics**
+- **Digital marketing strategy implementation discussion**
+- **Political commentary and medication discussion**
+- **Standing Tree Meditation Learning Session**
+- **Wrong number cab company call**
+- **Elderly Care Discussion with Andy**
+- **Defending Constitutional Oath Through Action**
+- **Krakatoa volcano eruption effects**
+- **Movie night viewing**
+- **James and Henry Story Creation Session**
+- **Night Discussion Under Stars**
+- **Film Industry Career Discussion**
+- **Mixed Media Commentary and Politics**
 
 ---
 

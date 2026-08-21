@@ -60,20 +60,20 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Morning walk after medication routine**: Recorded and processed during today's transcript sessions.
-- **Pronunciation practice for Jianzhuang**: Recorded and processed during today's transcript sessions.
-- **Mindful Living Group Planning Discussion Format**: Recorded and processed during today's transcript sessions.
-- **Meditation Group Grounding Techniques Planning**: Recorded and processed during today's transcript sessions.
-- **Leading group on grounding techniques refinement**: Recorded and processed during today's transcript sessions.
-- **Andy Requests Ajahn Chah Story**: Recorded and processed during today's transcript sessions.
-- **Meditation Training Material Review Session**: Recorded and processed during today's transcript sessions.
-- **ADHD acceptance and mindful writing**: Recorded and processed during today's transcript sessions.
-- **Personal health and lifestyle discussion**: Recorded and processed during today's transcript sessions.
-- **Grounding Practices Lead to Support**: Recorded and processed during today's transcript sessions.
-- **Saturday plans and daughter visit**: Recorded and processed during today's transcript sessions.
-- **Technical help with wellness check**: Recorded and processed during today's transcript sessions.
-- **Casual conversation with Andy**: Recorded and processed during today's transcript sessions.
-- **Prince's Unexpected Basketball Skills**: Recorded and processed during today's transcript sessions.
+- **Morning walk after medication routine**
+- **Pronunciation practice for Jianzhuang**
+- **Mindful Living Group Planning Discussion Format**
+- **Meditation Group Grounding Techniques Planning**
+- **Leading group on grounding techniques refinement**
+- **Andy Requests Ajahn Chah Story**
+- **Meditation Training Material Review Session**
+- **ADHD acceptance and mindful writing**
+- **Personal health and lifestyle discussion**
+- **Grounding Practices Lead to Support**
+- **Saturday plans and daughter visit**
+- **Technical help with wellness check**
+- **Casual conversation with Andy**
+- **Prince's Unexpected Basketball Skills**
 
 ---
 

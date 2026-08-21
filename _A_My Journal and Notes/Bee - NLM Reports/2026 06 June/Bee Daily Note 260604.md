@@ -59,20 +59,20 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **AI transcription errors discussion**: Recorded and processed during today's transcript sessions.
-- **Restaurant inquiry and casual chat**: Recorded and processed during today's transcript sessions.
-- **Oakland baseball series discussion**: Recorded and processed during today's transcript sessions.
-- **Errands and casual conversation**: Recorded and processed during today's transcript sessions.
-- **Relaxing by the pool**: Recorded and processed during today's transcript sessions.
-- **Pool hot tub photo day**: Recorded and processed during today's transcript sessions.
-- **Political Discussions and Music Production**: Recorded and processed during today's transcript sessions.
-- **Krishnamurti spiritual reflections and insights**: Recorded and processed during today's transcript sessions.
-- **Testing avatar video generation**: Recorded and processed during today's transcript sessions.
-- **TV package pricing discrepancy explained**: Recorded and processed during today's transcript sessions.
-- **Joshua Tree trip planning**: Recorded and processed during today's transcript sessions.
-- **Bad food and hair mystery**: Recorded and processed during today's transcript sessions.
-- **Scattered conversation about work**: Recorded and processed during today's transcript sessions.
-- **Troubleshooting outlet and light wiring**: Recorded and processed during today's transcript sessions.
+- **AI transcription errors discussion**
+- **Restaurant inquiry and casual chat**
+- **Oakland baseball series discussion**
+- **Errands and casual conversation**
+- **Relaxing by the pool**
+- **Pool hot tub photo day**
+- **Political Discussions and Music Production**
+- **Krishnamurti spiritual reflections and insights**
+- **Testing avatar video generation**
+- **TV package pricing discrepancy explained**
+- **Joshua Tree trip planning**
+- **Bad food and hair mystery**
+- **Scattered conversation about work**
+- **Troubleshooting outlet and light wiring**
 
 ---
 

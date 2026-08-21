@@ -51,14 +51,14 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Medical results and housing plans**: Recorded and processed during today's transcript sessions.
-- **DJ mixing techniques tutorial**: Recorded and processed during today's transcript sessions.
-- **Explaining custom DJ software setup**: Recorded and processed during today's transcript sessions.
-- **Unclear phone conversation**: Recorded and processed during today's transcript sessions.
-- **Mass surveillance backlash grows**: Recorded and processed during today's transcript sessions.
-- **Watching World Cup with others**: Recorded and processed during today's transcript sessions.
-- **Watching World Cup with friends**: Recorded and processed during today's transcript sessions.
-- **Thyroid test results discussion**: Recorded and processed during today's transcript sessions.
+- **Medical results and housing plans**
+- **DJ mixing techniques tutorial**
+- **Explaining custom DJ software setup**
+- **Unclear phone conversation**
+- **Mass surveillance backlash grows**
+- **Watching World Cup with others**
+- **Watching World Cup with friends**
+- **Thyroid test results discussion**
 
 ---
 

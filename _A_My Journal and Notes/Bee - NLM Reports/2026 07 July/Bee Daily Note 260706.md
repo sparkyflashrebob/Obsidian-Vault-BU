@@ -60,18 +60,18 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Facing Motivation and Effort Challenges**: Recorded and processed during today's transcript sessions.
-- **Concerns over micro reactor safety**: Recorded and processed during today's transcript sessions.
-- **Facilitator returns to group work**: Recorded and processed during today's transcript sessions.
-- **Bristol Dubstep Pioneer Debut Album**: Recorded and processed during today's transcript sessions.
-- **Tired Andy Asks for ID**: Recorded and processed during today's transcript sessions.
-- **Consciousness Quantum Reality Testimony**: Recorded and processed during today's transcript sessions.
-- **Maintenance and metaphysical overload**: Recorded and processed during today's transcript sessions.
-- **Virtual meeting on lounge smoking**: Recorded and processed during today's transcript sessions.
-- **Workplace meeting discusses rent increases**: Recorded and processed during today's transcript sessions.
-- **World Cup Soccer Match Commentary**: Recorded and processed during today's transcript sessions.
-- **Search and rescue operation**: Recorded and processed during today's transcript sessions.
-- **Political news and allegations discussion**: Recorded and processed during today's transcript sessions.
+- **Facing Motivation and Effort Challenges**
+- **Concerns over micro reactor safety**
+- **Facilitator returns to group work**
+- **Bristol Dubstep Pioneer Debut Album**
+- **Tired Andy Asks for ID**
+- **Consciousness Quantum Reality Testimony**
+- **Maintenance and metaphysical overload**
+- **Virtual meeting on lounge smoking**
+- **Workplace meeting discusses rent increases**
+- **World Cup Soccer Match Commentary**
+- **Search and rescue operation**
+- **Political news and allegations discussion**
 
 ---
 

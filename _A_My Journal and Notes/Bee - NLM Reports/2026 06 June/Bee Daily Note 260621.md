@@ -55,13 +55,13 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Parliamentary debate on Israel Palestine conflict**: Recorded and processed during today's transcript sessions.
-- **Florida python invasion ecology discussion**: Recorded and processed during today's transcript sessions.
-- **Comparing prices and family chat**: Recorded and processed during today's transcript sessions.
-- **Political discussion and genocide history**: Recorded and processed during today's transcript sessions.
-- **Apartment hunting and movies**: Recorded and processed during today's transcript sessions.
-- **Watching soccer while doing laundry**: Recorded and processed during today's transcript sessions.
-- **Moving plans and movie night**: Recorded and processed during today's transcript sessions.
+- **Parliamentary debate on Israel Palestine conflict**
+- **Florida python invasion ecology discussion**
+- **Comparing prices and family chat**
+- **Political discussion and genocide history**
+- **Apartment hunting and movies**
+- **Watching soccer while doing laundry**
+- **Moving plans and movie night**
 
 ---
 

@@ -55,22 +55,22 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Planning move and daily routines**: Recorded and processed during today's transcript sessions.
-- **Discussing apartment hunting and finances**: Recorded and processed during today's transcript sessions.
-- **Organizing and labeling rooms**: Recorded and processed during today's transcript sessions.
-- **Moving to new apartment together**: Recorded and processed during today's transcript sessions.
-- **Receipt app and parking directions**: Recorded and processed during today's transcript sessions.
-- **Exploring Sonoma town together**: Recorded and processed during today's transcript sessions.
-- **House hunting with Cynthia**: Recorded and processed during today's transcript sessions.
-- **Searching for new home together**: Recorded and processed during today's transcript sessions.
-- **Searching for new home**: Recorded and processed during today's transcript sessions.
-- **Discussing class participation concerns**: Recorded and processed during today's transcript sessions.
-- **Helping with tech and photos**: Recorded and processed during today's transcript sessions.
-- **Weight loss and furniture discussion**: Recorded and processed during today's transcript sessions.
-- **Driving and dining with friends**: Recorded and processed during today's transcript sessions.
-- **House Hunting and Health Concerns**: Recorded and processed during today's transcript sessions.
-- **Watching Obama Center opening**: Recorded and processed during today's transcript sessions.
-- **Watching soccer game highlights**: Recorded and processed during today's transcript sessions.
+- **Planning move and daily routines**
+- **Discussing apartment hunting and finances**
+- **Organizing and labeling rooms**
+- **Moving to new apartment together**
+- **Receipt app and parking directions**
+- **Exploring Sonoma town together**
+- **House hunting with Cynthia**
+- **Searching for new home together**
+- **Searching for new home**
+- **Discussing class participation concerns**
+- **Helping with tech and photos**
+- **Weight loss and furniture discussion**
+- **Driving and dining with friends**
+- **House Hunting and Health Concerns**
+- **Watching Obama Center opening**
+- **Watching soccer game highlights**
 
 ---
 

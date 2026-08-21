@@ -62,24 +62,24 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Andy's health struggles and meditation**: Recorded and processed during today's transcript sessions.
-- **Returning borrowed office equipment**: Recorded and processed during today's transcript sessions.
-- **Family catch-up and updates**: Recorded and processed during today's transcript sessions.
-- **Food order preferences discussion**: Recorded and processed during today's transcript sessions.
-- **Smart light control setup**: Recorded and processed during today's transcript sessions.
-- **Troubleshooting Smart Light Device Control**: Recorded and processed during today's transcript sessions.
-- **Andy gives analog alarm clock**: Recorded and processed during today's transcript sessions.
-- **Dealing with AI trauma content filters**: Recorded and processed during today's transcript sessions.
-- **Mindfulness Practice and Grounding Techniques**: Recorded and processed during today's transcript sessions.
-- **Meal Planning with Vegetarian Options**: Recorded and processed during today's transcript sessions.
-- **Physical nourishment for spiritual grounding**: Recorded and processed during today's transcript sessions.
-- **Estate Trust Lunch Meeting**: Recorded and processed during today's transcript sessions.
-- **Self-hosted PDF Docker setup**: Recorded and processed during today's transcript sessions.
-- **AI Agents Break Into Hugging Face**: Recorded and processed during today's transcript sessions.
-- **Technical Failures and Social Complications**: Recorded and processed during today's transcript sessions.
-- **Bedroom Light Voice Command Adjustments**: Recorded and processed during today's transcript sessions.
-- **Creating virtual meeting background**: Recorded and processed during today's transcript sessions.
-- **Grounding Loops and Mindfulness Guidance**: Recorded and processed during today's transcript sessions.
+- **Andy's health struggles and meditation**
+- **Returning borrowed office equipment**
+- **Family catch-up and updates**
+- **Food order preferences discussion**
+- **Smart light control setup**
+- **Troubleshooting Smart Light Device Control**
+- **Andy gives analog alarm clock**
+- **Dealing with AI trauma content filters**
+- **Mindfulness Practice and Grounding Techniques**
+- **Meal Planning with Vegetarian Options**
+- **Physical nourishment for spiritual grounding**
+- **Estate Trust Lunch Meeting**
+- **Self-hosted PDF Docker setup**
+- **AI Agents Break Into Hugging Face**
+- **Technical Failures and Social Complications**
+- **Bedroom Light Voice Command Adjustments**
+- **Creating virtual meeting background**
+- **Grounding Loops and Mindfulness Guidance**
 
 ---
 

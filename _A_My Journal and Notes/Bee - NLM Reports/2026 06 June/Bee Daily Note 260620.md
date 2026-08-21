@@ -55,25 +55,25 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Discussing TV show plot twists**: Recorded and processed during today's transcript sessions.
-- **Apartment hunting with Andrea**: Recorded and processed during today's transcript sessions.
-- **Ordering items discussing police shooting**: Recorded and processed during today's transcript sessions.
-- **Financial freedom and life changes**: Recorded and processed during today's transcript sessions.
-- **Concerns about surveillance technology**: Recorded and processed during today's transcript sessions.
-- **Office space availability inquiry**: Recorded and processed during today's transcript sessions.
-- **Investigating Youth Voyeurism Crime Surge**: Recorded and processed during today's transcript sessions.
-- **Healthcare login and billing issues**: Recorded and processed during today's transcript sessions.
-- **Property viewing and financial planning**: Recorded and processed during today's transcript sessions.
-- **Planning wellness treatment visit**: Recorded and processed during today's transcript sessions.
-- **Catching up with friend**: Recorded and processed during today's transcript sessions.
-- **Apartment hunting tour**: Recorded and processed during today's transcript sessions.
-- **Club visit and Sonoma plans**: Recorded and processed during today's transcript sessions.
-- **Casual gathering with friends**: Recorded and processed during today's transcript sessions.
-- **Family updates and new home search**: Recorded and processed during today's transcript sessions.
-- **House hunting and environmental concerns**: Recorded and processed during today's transcript sessions.
-- **Group sharing personal life experiences**: Recorded and processed during today's transcript sessions.
-- **Retirement and recovery reflections**: Recorded and processed during today's transcript sessions.
-- **Watching science show together**: Recorded and processed during today's transcript sessions.
+- **Discussing TV show plot twists**
+- **Apartment hunting with Andrea**
+- **Ordering items discussing police shooting**
+- **Financial freedom and life changes**
+- **Concerns about surveillance technology**
+- **Office space availability inquiry**
+- **Investigating Youth Voyeurism Crime Surge**
+- **Healthcare login and billing issues**
+- **Property viewing and financial planning**
+- **Planning wellness treatment visit**
+- **Catching up with friend**
+- **Apartment hunting tour**
+- **Club visit and Sonoma plans**
+- **Casual gathering with friends**
+- **Family updates and new home search**
+- **House hunting and environmental concerns**
+- **Group sharing personal life experiences**
+- **Retirement and recovery reflections**
+- **Watching science show together**
 
 ---
 

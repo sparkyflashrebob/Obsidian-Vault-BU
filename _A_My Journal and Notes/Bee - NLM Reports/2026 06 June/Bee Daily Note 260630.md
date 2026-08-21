@@ -46,12 +46,12 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Andy's First Mindfulness Group Experience**: Recorded and processed during today's transcript sessions.
-- **Mindfulness Practice and Body Awareness**: Recorded and processed during today's transcript sessions.
-- **Retired Teacher Returns to Meditation**: Recorded and processed during today's transcript sessions.
-- **NBA trade rumors discussion**: Recorded and processed during today's transcript sessions.
-- **Democratic socialist victory amid personal adversity**: Recorded and processed during today's transcript sessions.
-- **Congressional oversight OMB hearing accountability**: Recorded and processed during today's transcript sessions.
+- **Andy's First Mindfulness Group Experience**
+- **Mindfulness Practice and Body Awareness**
+- **Retired Teacher Returns to Meditation**
+- **NBA trade rumors discussion**
+- **Democratic socialist victory amid personal adversity**
+- **Congressional oversight OMB hearing accountability**
 
 ---
 

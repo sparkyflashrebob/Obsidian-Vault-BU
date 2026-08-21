@@ -54,17 +54,17 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **AI accuracy issues in interaction tracking**: Recorded and processed during today's transcript sessions.
-- **Report Generation and Timeline Issues**: Recorded and processed during today's transcript sessions.
-- **Fixing daily report formatting errors**: Recorded and processed during today's transcript sessions.
-- **Discussions on Identity and Ego**: Recorded and processed during today's transcript sessions.
-- **Last Day Transition Planning**: Recorded and processed during today's transcript sessions.
-- **Raider fan sports analysis**: Recorded and processed during today's transcript sessions.
-- **Football teams performance analysis discussion**: Recorded and processed during today's transcript sessions.
-- **Player Interview About Development**: Recorded and processed during today's transcript sessions.
-- **Trump lawyer conflict of interest**: Recorded and processed during today's transcript sessions.
-- **Troubleshooting Obsidian GitHub Backup**: Recorded and processed during today's transcript sessions.
-- **Uploading Obsidian Vault Troubleshoot Session**: Recorded and processed during today's transcript sessions.
+- **AI accuracy issues in interaction tracking**
+- **Report Generation and Timeline Issues**
+- **Fixing daily report formatting errors**
+- **Discussions on Identity and Ego**
+- **Last Day Transition Planning**
+- **Raider fan sports analysis**
+- **Football teams performance analysis discussion**
+- **Player Interview About Development**
+- **Trump lawyer conflict of interest**
+- **Troubleshooting Obsidian GitHub Backup**
+- **Uploading Obsidian Vault Troubleshoot Session**
 
 ---
 

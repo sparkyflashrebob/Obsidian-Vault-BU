@@ -48,17 +48,17 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Balancing worldly desires with inner peace**: Recorded and processed during today's transcript sessions.
-- **DEI Policy Hearing Debate**: Recorded and processed during today's transcript sessions.
-- **Logo design for Head and Heart**: Recorded and processed during today's transcript sessions.
-- **Logo design modifications and requests**: Recorded and processed during today's transcript sessions.
-- **GIMP transparency troubleshooting session**: Recorded and processed during today's transcript sessions.
-- **El Fuego volcano and birthday**: Recorded and processed during today's transcript sessions.
-- **Logo Creation Amid AI Frustrations**: Recorded and processed during today's transcript sessions.
-- **Technical troubleshooting session**: Recorded and processed during today's transcript sessions.
-- **Website Header Logo and GitHub Update**: Recorded and processed during today's transcript sessions.
-- **Server Issues and Comedy Discussion**: Recorded and processed during today's transcript sessions.
-- **Journeyman's Open Market Return**: Recorded and processed during today's transcript sessions.
+- **Balancing worldly desires with inner peace**
+- **DEI Policy Hearing Debate**
+- **Logo design for Head and Heart**
+- **Logo design modifications and requests**
+- **GIMP transparency troubleshooting session**
+- **El Fuego volcano and birthday**
+- **Logo Creation Amid AI Frustrations**
+- **Technical troubleshooting session**
+- **Website Header Logo and GitHub Update**
+- **Server Issues and Comedy Discussion**
+- **Journeyman's Open Market Return**
 
 ---
 

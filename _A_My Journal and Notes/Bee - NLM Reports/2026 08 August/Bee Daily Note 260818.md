@@ -54,20 +54,20 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Photography and Phone Interaction**: Recorded and processed during today's transcript sessions.
-- **Daily Note AI Workflow Concerns**: Recorded and processed during today's transcript sessions.
-- **App lockup troubleshooting session**: Recorded and processed during today's transcript sessions.
-- **Research gathering for future teaching**: Recorded and processed during today's transcript sessions.
-- **Mind complicates simple Buddhist teachings**: Recorded and processed during today's transcript sessions.
-- **File automation for Google Drive**: Recorded and processed during today's transcript sessions.
-- **Technical workflow troubleshooting**: Recorded and processed during today's transcript sessions.
-- **Frustration with transcription system failure**: Recorded and processed during today's transcript sessions.
-- **Testing files on mobile device**: Recorded and processed during today's transcript sessions.
-- **Troubleshooting transcription and reporting workflow**: Recorded and processed during today's transcript sessions.
-- **Audio Recording Silence Verification**: Recorded and processed during today's transcript sessions.
-- **Financial data service comparison decision**: Recorded and processed during today's transcript sessions.
-- **Personal Life Reflection and Updates**: Recorded and processed during today's transcript sessions.
-- **Casual conversation recording session**: Recorded and processed during today's transcript sessions.
+- **Photography and Phone Interaction**
+- **Daily Note AI Workflow Concerns**
+- **App lockup troubleshooting session**
+- **Research gathering for future teaching**
+- **Mind complicates simple Buddhist teachings**
+- **File automation for Google Drive**
+- **Technical workflow troubleshooting**
+- **Frustration with transcription system failure**
+- **Testing files on mobile device**
+- **Troubleshooting transcription and reporting workflow**
+- **Audio Recording Silence Verification**
+- **Financial data service comparison decision**
+- **Personal Life Reflection and Updates**
+- **Casual conversation recording session**
 
 ---
 

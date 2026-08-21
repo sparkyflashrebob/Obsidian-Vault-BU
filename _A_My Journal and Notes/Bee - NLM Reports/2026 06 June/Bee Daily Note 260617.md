@@ -52,14 +52,14 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Weight loss and daily check-in**: Recorded and processed during today's transcript sessions.
-- **Scheduling meeting and sharing credit info**: Recorded and processed during today's transcript sessions.
-- **Catching up with old friend**: Recorded and processed during today's transcript sessions.
-- **Scheduling AAA radiology screening**: Recorded and processed during today's transcript sessions.
-- **Scheduling medical imaging appointment**: Recorded and processed during today's transcript sessions.
-- **Career alignment platform pitch**: Recorded and processed during today's transcript sessions.
-- **Feeling sick after club**: Recorded and processed during today's transcript sessions.
-- **Comedy show ticket prices**: Recorded and processed during today's transcript sessions.
+- **Weight loss and daily check-in**
+- **Scheduling meeting and sharing credit info**
+- **Catching up with old friend**
+- **Scheduling AAA radiology screening**
+- **Scheduling medical imaging appointment**
+- **Career alignment platform pitch**
+- **Feeling sick after club**
+- **Comedy show ticket prices**
 
 ---
 

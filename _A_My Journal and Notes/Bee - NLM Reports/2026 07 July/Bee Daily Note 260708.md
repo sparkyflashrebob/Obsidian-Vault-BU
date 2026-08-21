@@ -54,14 +54,14 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Guided breathing and posture practice**: Recorded and processed during today's transcript sessions.
-- **Acupuncture Therapy Experience with Dr. Lou**: Recorded and processed during today's transcript sessions.
-- **Mutual funds outperforming ETFs question**: Recorded and processed during today's transcript sessions.
-- **Head and Heart Community Revival**: Recorded and processed during today's transcript sessions.
-- **Rent payment verification and reference**: Recorded and processed during today's transcript sessions.
-- **Rent Payment Check Issue Resolution**: Recorded and processed during today's transcript sessions.
-- **Tai Chi Cramping: Waitlist Hopeful**: Recorded and processed during today's transcript sessions.
-- **Daily Life Conversations and Activities**: Recorded and processed during today's transcript sessions.
+- **Guided breathing and posture practice**
+- **Acupuncture Therapy Experience with Dr. Lou**
+- **Mutual funds outperforming ETFs question**
+- **Head and Heart Community Revival**
+- **Rent payment verification and reference**
+- **Rent Payment Check Issue Resolution**
+- **Tai Chi Cramping: Waitlist Hopeful**
+- **Daily Life Conversations and Activities**
 
 ---
 

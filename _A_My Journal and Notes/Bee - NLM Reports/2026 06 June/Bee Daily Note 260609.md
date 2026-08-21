@@ -45,14 +45,14 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Planning morning routine and activities**: Recorded and processed during today's transcript sessions.
-- **Andy turns off political TV**: Recorded and processed during today's transcript sessions.
-- **Locating someone through windows**: Recorded and processed during today's transcript sessions.
-- **Trump election fraud claims debunked**: Recorded and processed during today's transcript sessions.
-- **Golf game conversation**: Recorded and processed during today's transcript sessions.
-- **Labor Contract Legislation Debate**: Recorded and processed during today's transcript sessions.
-- **Discussing media bias and errands**: Recorded and processed during today's transcript sessions.
-- **Movie plans and daily life**: Recorded and processed during today's transcript sessions.
+- **Planning morning routine and activities**
+- **Andy turns off political TV**
+- **Locating someone through windows**
+- **Trump election fraud claims debunked**
+- **Golf game conversation**
+- **Labor Contract Legislation Debate**
+- **Discussing media bias and errands**
+- **Movie plans and daily life**
 
 ---
 

@@ -58,20 +58,20 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Dragonfly Healing Arts consultation session**: Recorded and processed during today's transcript sessions.
-- **Data consolidation and reporting strategy**: Recorded and processed during today's transcript sessions.
-- **Kaiser questionnaire upcoming doctor appointment**: Recorded and processed during today's transcript sessions.
-- **Past Tense Manifestation Philosophy**: Recorded and processed during today's transcript sessions.
-- **Inner Dialogue Communication Techniques**: Recorded and processed during today's transcript sessions.
-- **Internal Committee in Dharma Practice**: Recorded and processed during today's transcript sessions.
-- **External Capital Transforms Lakers Ownership**: Recorded and processed during today's transcript sessions.
-- **Meditation and teaching insights**: Recorded and processed during today's transcript sessions.
-- **Suffering, acceptance, meditation retreat planning**: Recorded and processed during today's transcript sessions.
-- **Self-Improvement Reading Session**: Recorded and processed during today's transcript sessions.
-- **Andy Introduces Himself to Stranger**: Recorded and processed during today's transcript sessions.
-- **Sports Viewing and Wellness Discussion**: Recorded and processed during today's transcript sessions.
-- **Business and video production discussion**: Recorded and processed during today's transcript sessions.
-- **Work stress and health issues**: Recorded and processed during today's transcript sessions.
+- **Dragonfly Healing Arts consultation session**
+- **Data consolidation and reporting strategy**
+- **Kaiser questionnaire upcoming doctor appointment**
+- **Past Tense Manifestation Philosophy**
+- **Inner Dialogue Communication Techniques**
+- **Internal Committee in Dharma Practice**
+- **External Capital Transforms Lakers Ownership**
+- **Meditation and teaching insights**
+- **Suffering, acceptance, meditation retreat planning**
+- **Self-Improvement Reading Session**
+- **Andy Introduces Himself to Stranger**
+- **Sports Viewing and Wellness Discussion**
+- **Business and video production discussion**
+- **Work stress and health issues**
 
 ---
 

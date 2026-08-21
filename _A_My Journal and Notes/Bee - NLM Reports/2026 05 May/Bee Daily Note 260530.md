@@ -54,12 +54,12 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Spiritual conversation with friend**: Recorded and processed during today's transcript sessions.
-- **Reflecting on Buddhist teachings**: Recorded and processed during today's transcript sessions.
-- **Mindfulness and Awareness Discussion**: Recorded and processed during today's transcript sessions.
-- **Monastic novice status confusion**: Recorded and processed during today's transcript sessions.
-- **Birthday Baby and Proposal News**: Recorded and processed during today's transcript sessions.
-- **Buddhist gathering and travel plans**: Recorded and processed during today's transcript sessions.
+- **Spiritual conversation with friend**
+- **Reflecting on Buddhist teachings**
+- **Mindfulness and Awareness Discussion**
+- **Monastic novice status confusion**
+- **Birthday Baby and Proposal News**
+- **Buddhist gathering and travel plans**
 
 ---
 

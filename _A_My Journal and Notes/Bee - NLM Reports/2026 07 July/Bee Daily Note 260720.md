@@ -48,20 +48,20 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Standing Up Against Injustice**: Recorded and processed during today's transcript sessions.
-- **Understanding Self-Honesty Through Perceptual Bias**: Recorded and processed during today's transcript sessions.
-- **Plugin version compatibility troubleshooting**: Recorded and processed during today's transcript sessions.
-- **Podcast intro video development**: Recorded and processed during today's transcript sessions.
-- **Logo replacement for video branding**: Recorded and processed during today's transcript sessions.
-- **Video Playback Control Technical Support**: Recorded and processed during today's transcript sessions.
-- **Troubleshooting OBS video editing issues**: Recorded and processed during today's transcript sessions.
-- **Gemini Logo Replacement Quota Exhausted**: Recorded and processed during today's transcript sessions.
-- **Video Editing Logo Replacement Problems**: Recorded and processed during today's transcript sessions.
-- **College Football, Food, Immigration, Equity**: Recorded and processed during today's transcript sessions.
-- **Creating YouTube video template**: Recorded and processed during today's transcript sessions.
-- **Therapeutic session and tech learning**: Recorded and processed during today's transcript sessions.
-- **AI Image Editing Session**: Recorded and processed during today's transcript sessions.
-- **Andy's reaction to news events**: Recorded and processed during today's transcript sessions.
+- **Standing Up Against Injustice**
+- **Understanding Self-Honesty Through Perceptual Bias**
+- **Plugin version compatibility troubleshooting**
+- **Podcast intro video development**
+- **Logo replacement for video branding**
+- **Video Playback Control Technical Support**
+- **Troubleshooting OBS video editing issues**
+- **Gemini Logo Replacement Quota Exhausted**
+- **Video Editing Logo Replacement Problems**
+- **College Football, Food, Immigration, Equity**
+- **Creating YouTube video template**
+- **Therapeutic session and tech learning**
+- **AI Image Editing Session**
+- **Andy's reaction to news events**
 
 ---
 

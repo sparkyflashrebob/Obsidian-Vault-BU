@@ -55,18 +55,18 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Motivation, Social Connection, and Recovery**: Recorded and processed during today's transcript sessions.
-- **Philosophical discussion with nature observations**: Recorded and processed during today's transcript sessions.
-- **Testing Reflection and Memory Interface**: Recorded and processed during today's transcript sessions.
-- **Office docs and PDF editor**: Recorded and processed during today's transcript sessions.
-- **Testing Affinity for Logo Removal**: Recorded and processed during today's transcript sessions.
-- **Affinity and AI Logo Removal**: Recorded and processed during today's transcript sessions.
-- **GIMP vs Affinity plugin installation**: Recorded and processed during today's transcript sessions.
-- **AI temporal context issues**: Recorded and processed during today's transcript sessions.
-- **Expanding general topics documentation**: Recorded and processed during today's transcript sessions.
-- **Allergy, Pain, and Scheduling Session**: Recorded and processed during today's transcript sessions.
-- **Birthday Reunion with Tech Discussion**: Recorded and processed during today's transcript sessions.
-- **Smart home dinner conversation**: Recorded and processed during today's transcript sessions.
+- **Motivation, Social Connection, and Recovery**
+- **Philosophical discussion with nature observations**
+- **Testing Reflection and Memory Interface**
+- **Office docs and PDF editor**
+- **Testing Affinity for Logo Removal**
+- **Affinity and AI Logo Removal**
+- **GIMP vs Affinity plugin installation**
+- **AI temporal context issues**
+- **Expanding general topics documentation**
+- **Allergy, Pain, and Scheduling Session**
+- **Birthday Reunion with Tech Discussion**
+- **Smart home dinner conversation**
 
 ---
 

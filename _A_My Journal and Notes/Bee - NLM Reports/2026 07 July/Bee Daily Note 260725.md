@@ -62,22 +62,22 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Meditation Philosophy and Practical Application**: Recorded and processed during today's transcript sessions.
-- **Light control and Elisa delays**: Recorded and processed during today's transcript sessions.
-- **Keyboard vs Voice Input Confusion**: Recorded and processed during today's transcript sessions.
-- **Natural living toxin advice**: Recorded and processed during today's transcript sessions.
-- **Life Updates and Family Challenges**: Recorded and processed during today's transcript sessions.
-- **Fidelity Account Setup and HSA**: Recorded and processed during today's transcript sessions.
-- **Andy teaches Google Gemini features**: Recorded and processed during today's transcript sessions.
-- **Satellite Trucks, Buddhist Teachings, Ontario**: Recorded and processed during today's transcript sessions.
-- **Conversation covering multiple topics**: Recorded and processed during today's transcript sessions.
-- **Moving and therapy discussion**: Recorded and processed during today's transcript sessions.
-- **Emergency preparedness and response discussion**: Recorded and processed during today's transcript sessions.
-- **Community adventure planning session**: Recorded and processed during today's transcript sessions.
-- **Driving and Visiting Andy**: Recorded and processed during today's transcript sessions.
-- **Setting Up Home Weather Station**: Recorded and processed during today's transcript sessions.
-- **Home Control, Distance, and Flirt**: Recorded and processed during today's transcript sessions.
-- **House cooling system adjustment**: Recorded and processed during today's transcript sessions.
+- **Meditation Philosophy and Practical Application**
+- **Light control and Elisa delays**
+- **Keyboard vs Voice Input Confusion**
+- **Natural living toxin advice**
+- **Life Updates and Family Challenges**
+- **Fidelity Account Setup and HSA**
+- **Andy teaches Google Gemini features**
+- **Satellite Trucks, Buddhist Teachings, Ontario**
+- **Conversation covering multiple topics**
+- **Moving and therapy discussion**
+- **Emergency preparedness and response discussion**
+- **Community adventure planning session**
+- **Driving and Visiting Andy**
+- **Setting Up Home Weather Station**
+- **Home Control, Distance, and Flirt**
+- **House cooling system adjustment**
 
 ---
 

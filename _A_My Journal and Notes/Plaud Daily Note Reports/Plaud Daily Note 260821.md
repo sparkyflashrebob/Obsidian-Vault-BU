@@ -60,8 +60,8 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Daily Voice Archiving & Session Notes**: Recorded continuously via Plaud NotePin.
-- **Workflow & Task Operations**: Tracked and diarized with timestamp offsets.
+- **Daily Voice Archiving & Session Notes**
+- **Workflow & Task Operations**
 
 
 ---

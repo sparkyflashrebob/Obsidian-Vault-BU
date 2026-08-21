@@ -60,14 +60,14 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **All Dressed Up Not Going**: Recorded and processed during today's transcript sessions.
-- **Government Corporate Accountability Reform**: Recorded and processed during today's transcript sessions.
-- **Soccer Teams Argentina Spain Analysis**: Recorded and processed during today's transcript sessions.
-- **Andy's Meditation Coaching, Gerrymandering, Massage**: Recorded and processed during today's transcript sessions.
-- **Washing Produce Techniques Discussion**: Recorded and processed during today's transcript sessions.
-- **Using Google for office lighting**: Recorded and processed during today's transcript sessions.
-- **DSA Electoral Organizing Call**: Recorded and processed during today's transcript sessions.
-- **Sports political personal conversation**: Recorded and processed during today's transcript sessions.
+- **All Dressed Up Not Going**
+- **Government Corporate Accountability Reform**
+- **Soccer Teams Argentina Spain Analysis**
+- **Andy's Meditation Coaching, Gerrymandering, Massage**
+- **Washing Produce Techniques Discussion**
+- **Using Google for office lighting**
+- **DSA Electoral Organizing Call**
+- **Sports political personal conversation**
 
 ---
 

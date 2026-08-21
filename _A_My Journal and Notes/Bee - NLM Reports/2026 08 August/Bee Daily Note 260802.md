@@ -54,17 +54,17 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Meditation and app performance issues**: Recorded and processed during today's transcript sessions.
-- **Budgeting, errands, and groceries**: Recorded and processed during today's transcript sessions.
-- **Animal realm Buddhist teachings summary**: Recorded and processed during today's transcript sessions.
-- **Donation bag collection for charity**: Recorded and processed during today's transcript sessions.
-- **Therapeutic Touch Implementation with Wisdom**: Recorded and processed during today's transcript sessions.
-- **Medication schedule, supplement use, cooking**: Recorded and processed during today's transcript sessions.
-- **Audio Testing Session**: Recorded and processed during today's transcript sessions.
-- **Technical troubleshooting during video call**: Recorded and processed during today's transcript sessions.
-- **Technical Difficulties During Spiritual Gathering**: Recorded and processed during today's transcript sessions.
-- **Spiritual Practice Wisdom Over Extremes**: Recorded and processed during today's transcript sessions.
-- **Technical troubleshooting discussion**: Recorded and processed during today's transcript sessions.
+- **Meditation and app performance issues**
+- **Budgeting, errands, and groceries**
+- **Animal realm Buddhist teachings summary**
+- **Donation bag collection for charity**
+- **Therapeutic Touch Implementation with Wisdom**
+- **Medication schedule, supplement use, cooking**
+- **Audio Testing Session**
+- **Technical troubleshooting during video call**
+- **Technical Difficulties During Spiritual Gathering**
+- **Spiritual Practice Wisdom Over Extremes**
+- **Technical troubleshooting discussion**
 
 ---
 

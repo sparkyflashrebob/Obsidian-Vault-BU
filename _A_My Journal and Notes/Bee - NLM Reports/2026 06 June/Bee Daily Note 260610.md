@@ -53,18 +53,18 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Kaiser billing frustration and app feedback**: Recorded and processed during today's transcript sessions.
-- **Kaiser Frustrations and Vivalon Exploration**: Recorded and processed during today's transcript sessions.
-- **Social Security Benefits Application Follow-up**: Recorded and processed during today's transcript sessions.
-- **Political debates and family calls**: Recorded and processed during today's transcript sessions.
-- **Oil market discussion**: Recorded and processed during today's transcript sessions.
-- **Morning work song lyrics**: Recorded and processed during today's transcript sessions.
-- **Road Rage Incident Description**: Recorded and processed during today's transcript sessions.
-- **Andy prepares roast chicken**: Recorded and processed during today's transcript sessions.
-- **Cooking and World Cup Chat**: Recorded and processed during today's transcript sessions.
-- **Workplace gossip and chicken prices**: Recorded and processed during today's transcript sessions.
-- **Spider-Man movie discussion**: Recorded and processed during today's transcript sessions.
-- **Office Space Search Discussion**: Recorded and processed during today's transcript sessions.
+- **Kaiser billing frustration and app feedback**
+- **Kaiser Frustrations and Vivalon Exploration**
+- **Social Security Benefits Application Follow-up**
+- **Political debates and family calls**
+- **Oil market discussion**
+- **Morning work song lyrics**
+- **Road Rage Incident Description**
+- **Andy prepares roast chicken**
+- **Cooking and World Cup Chat**
+- **Workplace gossip and chicken prices**
+- **Spider-Man movie discussion**
+- **Office Space Search Discussion**
 
 ---
 

@@ -59,15 +59,15 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Searching for new apartment**: Recorded and processed during today's transcript sessions.
-- **Tree Service and Mango Yogurt**: Recorded and processed during today's transcript sessions.
-- **Massage business pricing advice**: Recorded and processed during today's transcript sessions.
-- **Exploring Studio Rental Opportunity**: Recorded and processed during today's transcript sessions.
-- **Planning open house event logistics**: Recorded and processed during today's transcript sessions.
-- **Baby gender reveal call**: Recorded and processed during today's transcript sessions.
-- **Apartment hunting in Petaluma**: Recorded and processed during today's transcript sessions.
-- **Scheduling appointment locations planning**: Recorded and processed during today's transcript sessions.
-- **Watching USA soccer game**: Recorded and processed during today's transcript sessions.
+- **Searching for new apartment**
+- **Tree Service and Mango Yogurt**
+- **Massage business pricing advice**
+- **Exploring Studio Rental Opportunity**
+- **Planning open house event logistics**
+- **Baby gender reveal call**
+- **Apartment hunting in Petaluma**
+- **Scheduling appointment locations planning**
+- **Watching USA soccer game**
 
 ---
 

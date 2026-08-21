@@ -73,18 +73,18 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Cultivating Shared Leadership Within Teams**: Recorded and processed during today's transcript sessions.
-- **Speech recognition mislabels personal names**: Recorded and processed during today's transcript sessions.
-- **Running CRISPR analysis with disruption**: Recorded and processed during today's transcript sessions.
-- **Music Production Recording Session**: Recorded and processed during today's transcript sessions.
-- **Discussing music and folder creation**: Recorded and processed during today's transcript sessions.
-- **Equipment troubleshooting and content revision**: Recorded and processed during today's transcript sessions.
-- **Structuring educational document content**: Recorded and processed during today's transcript sessions.
-- **Preparing Talk and Personal Check-In**: Recorded and processed during today's transcript sessions.
-- **Google Drive Loop, Buddhist Guidance**: Recorded and processed during today's transcript sessions.
-- **Technical troubleshooting before leaving**: Recorded and processed during today's transcript sessions.
-- **Voice Light Control and Sync**: Recorded and processed during today's transcript sessions.
-- **Canopy streaming library service discovery**: Recorded and processed during today's transcript sessions.
+- **Cultivating Shared Leadership Within Teams**
+- **Speech recognition mislabels personal names**
+- **Running CRISPR analysis with disruption**
+- **Music Production Recording Session**
+- **Discussing music and folder creation**
+- **Equipment troubleshooting and content revision**
+- **Structuring educational document content**
+- **Preparing Talk and Personal Check-In**
+- **Google Drive Loop, Buddhist Guidance**
+- **Technical troubleshooting before leaving**
+- **Voice Light Control and Sync**
+- **Canopy streaming library service discovery**
 
 ---
 

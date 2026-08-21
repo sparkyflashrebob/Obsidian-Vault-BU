@@ -44,11 +44,11 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Recording setup and technical consultation**: Recorded and processed during today's transcript sessions.
-- **Testing recording and voice control**: Recorded and processed during today's transcript sessions.
-- **Test Broadcast Interrupted by Andy**: Recorded and processed during today's transcript sessions.
-- **Root Access Responsibility During Vacation**: Recorded and processed during today's transcript sessions.
-- **World Cup Soccer Discussion**: Recorded and processed during today's transcript sessions.
+- **Recording setup and technical consultation**
+- **Testing recording and voice control**
+- **Test Broadcast Interrupted by Andy**
+- **Root Access Responsibility During Vacation**
+- **World Cup Soccer Discussion**
 
 ---
 

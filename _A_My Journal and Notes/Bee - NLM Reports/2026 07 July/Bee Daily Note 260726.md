@@ -58,19 +58,19 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Morning routine with multiple tasks**: Recorded and processed during today's transcript sessions.
-- **Science, Politics, and Home Automation**: Recorded and processed during today's transcript sessions.
-- **Choosing a custom family meal**: Recorded and processed during today's transcript sessions.
-- **Erratic driver safety concern**: Recorded and processed during today's transcript sessions.
-- **Windows 11 Logo Eliminator Planning**: Recorded and processed during today's transcript sessions.
-- **Medication procurement assistance**: Recorded and processed during today's transcript sessions.
-- **Mindfulness Meditation and Therapeutic Applications**: Recorded and processed during today's transcript sessions.
-- **Testing DIY Cooling Solutions Together**: Recorded and processed during today's transcript sessions.
-- **Mindfulness for Human Threat Overthinking**: Recorded and processed during today's transcript sessions.
-- **Debugging session**: Recorded and processed during today's transcript sessions.
-- **Meditation group grounding and refuge**: Recorded and processed during today's transcript sessions.
-- **Mindfulness & Grounding Practices**: Recorded and processed during today's transcript sessions.
-- **Meditation Group Practice Session**: Recorded and processed during today's transcript sessions.
+- **Morning routine with multiple tasks**
+- **Science, Politics, and Home Automation**
+- **Choosing a custom family meal**
+- **Erratic driver safety concern**
+- **Windows 11 Logo Eliminator Planning**
+- **Medication procurement assistance**
+- **Mindfulness Meditation and Therapeutic Applications**
+- **Testing DIY Cooling Solutions Together**
+- **Mindfulness for Human Threat Overthinking**
+- **Debugging session**
+- **Meditation group grounding and refuge**
+- **Mindfulness & Grounding Practices**
+- **Meditation Group Practice Session**
 
 ---
 

@@ -54,19 +54,19 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Follow-up decision and meditation**: Recorded and processed during today's transcript sessions.
-- **Meditation Practice and Reflection Session**: Recorded and processed during today's transcript sessions.
-- **General conversation about app and current events**: Recorded and processed during today's transcript sessions.
-- **Mindful Walk Session for Wellness**: Recorded and processed during today's transcript sessions.
-- **Journal Entry Classification System Update**: Recorded and processed during today's transcript sessions.
-- **B and CRIFS data integration**: Recorded and processed during today's transcript sessions.
-- **Configuring AI email digest settings**: Recorded and processed during today's transcript sessions.
-- **Computer Cleanup, Minimalism, Spiritual Path**: Recorded and processed during today's transcript sessions.
-- **Casual dinner with Silo talk**: Recorded and processed during today's transcript sessions.
-- **Energy Device Pain Relief Discussion**: Recorded and processed during today's transcript sessions.
-- **Andy checks tide conditions**: Recorded and processed during today's transcript sessions.
-- **Tide Report and Car Swap**: Recorded and processed during today's transcript sessions.
-- **Walking Routine Progress Check**: Recorded and processed during today's transcript sessions.
+- **Follow-up decision and meditation**
+- **Meditation Practice and Reflection Session**
+- **General conversation about app and current events**
+- **Mindful Walk Session for Wellness**
+- **Journal Entry Classification System Update**
+- **B and CRIFS data integration**
+- **Configuring AI email digest settings**
+- **Computer Cleanup, Minimalism, Spiritual Path**
+- **Casual dinner with Silo talk**
+- **Energy Device Pain Relief Discussion**
+- **Andy checks tide conditions**
+- **Tide Report and Car Swap**
+- **Walking Routine Progress Check**
 
 ---
 

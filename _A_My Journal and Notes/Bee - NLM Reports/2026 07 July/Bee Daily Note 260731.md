@@ -66,25 +66,25 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Welcome group meditation teaching discussion**: Recorded and processed during today's transcript sessions.
-- **Exploring Name Meaning Bellaboo**: Recorded and processed during today's transcript sessions.
-- **Buddhist Teachings on Awakening**: Recorded and processed during today's transcript sessions.
-- **Anti-Gravity App Development Integration**: Recorded and processed during today's transcript sessions.
-- **Facebook page creation with spiritual focus**: Recorded and processed during today's transcript sessions.
-- **Calendar next event preview**: Recorded and processed during today's transcript sessions.
-- **Calendar technical issues troubleshooting session**: Recorded and processed during today's transcript sessions.
-- **Email forwarding troubleshooting**: Recorded and processed during today's transcript sessions.
-- **Email Integration Update via Zapier**: Recorded and processed during today's transcript sessions.
-- **Zapier Email Configuration Troubleshooting**: Recorded and processed during today's transcript sessions.
-- **Email forwarding button problems**: Recorded and processed during today's transcript sessions.
-- **Device troubleshooting and meal planning**: Recorded and processed during today's transcript sessions.
-- **Lecture, order, and spicy test**: Recorded and processed during today's transcript sessions.
-- **Memory Artifacts and Silo Conspiracy**: Recorded and processed during today's transcript sessions.
-- **Facebook Page Navigation Troubleshooting**: Recorded and processed during today's transcript sessions.
-- **Securing spot at meditation retreat**: Recorded and processed during today's transcript sessions.
-- **Understanding Self Through Introspection Dialogue**: Recorded and processed during today's transcript sessions.
-- **Response rate under one percent**: Recorded and processed during today's transcript sessions.
-- **Social media follower count conversation**: Recorded and processed during today's transcript sessions.
+- **Welcome group meditation teaching discussion**
+- **Exploring Name Meaning Bellaboo**
+- **Buddhist Teachings on Awakening**
+- **Anti-Gravity App Development Integration**
+- **Facebook page creation with spiritual focus**
+- **Calendar next event preview**
+- **Calendar technical issues troubleshooting session**
+- **Email forwarding troubleshooting**
+- **Email Integration Update via Zapier**
+- **Zapier Email Configuration Troubleshooting**
+- **Email forwarding button problems**
+- **Device troubleshooting and meal planning**
+- **Lecture, order, and spicy test**
+- **Memory Artifacts and Silo Conspiracy**
+- **Facebook Page Navigation Troubleshooting**
+- **Securing spot at meditation retreat**
+- **Understanding Self Through Introspection Dialogue**
+- **Response rate under one percent**
+- **Social media follower count conversation**
 
 ---
 

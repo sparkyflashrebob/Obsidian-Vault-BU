@@ -53,19 +53,19 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Recovery Meeting on Fear**: Recorded and processed during today's transcript sessions.
-- **Joshua Tree vacation stories shared**: Recorded and processed during today's transcript sessions.
-- **Recovery meeting and daily errands**: Recorded and processed during today's transcript sessions.
-- **White House Secret Recordings Leaked**: Recorded and processed during today's transcript sessions.
-- **Netherlands Japan World Cup Match**: Recorded and processed during today's transcript sessions.
-- **World Cup Match Commentary**: Recorded and processed during today's transcript sessions.
-- **Watching Netherlands Japan Soccer Game**: Recorded and processed during today's transcript sessions.
-- **Andy discovers reggae group**: Recorded and processed during today's transcript sessions.
-- **First Amendment benefit concert**: Recorded and processed during today's transcript sessions.
-- **Watching shows and discussing politics**: Recorded and processed during today's transcript sessions.
-- **TV show and flooding discussion**: Recorded and processed during today's transcript sessions.
-- **Flood Concerns and Moving Plans**: Recorded and processed during today's transcript sessions.
-- **NOAA flood alert automation script**: Recorded and processed during today's transcript sessions.
+- **Recovery Meeting on Fear**
+- **Joshua Tree vacation stories shared**
+- **Recovery meeting and daily errands**
+- **White House Secret Recordings Leaked**
+- **Netherlands Japan World Cup Match**
+- **World Cup Match Commentary**
+- **Watching Netherlands Japan Soccer Game**
+- **Andy discovers reggae group**
+- **First Amendment benefit concert**
+- **Watching shows and discussing politics**
+- **TV show and flooding discussion**
+- **Flood Concerns and Moving Plans**
+- **NOAA flood alert automation script**
 
 ---
 

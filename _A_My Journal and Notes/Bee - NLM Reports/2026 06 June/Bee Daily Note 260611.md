@@ -57,19 +57,19 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Checking community center classes**: Recorded and processed during today's transcript sessions.
-- **Registering for resilience conference**: Recorded and processed during today's transcript sessions.
-- **Grocery shopping and nut research**: Recorded and processed during today's transcript sessions.
-- **Olive Oil and Daily Life**: Recorded and processed during today's transcript sessions.
-- **Meditation and mindfulness practice discussion**: Recorded and processed during today's transcript sessions.
-- **Confronting Recovery and Boundaries**: Recorded and processed during today's transcript sessions.
-- **Exploring coding and space options**: Recorded and processed during today's transcript sessions.
-- **Career transition and emotional support**: Recorded and processed during today's transcript sessions.
-- **Google Drive integration troubleshooting**: Recorded and processed during today's transcript sessions.
-- **Mexico Wins World Cup Opener**: Recorded and processed during today's transcript sessions.
-- **Chaotic dinner party ejection**: Recorded and processed during today's transcript sessions.
-- **Riddick's Survival and Identity Crisis**: Recorded and processed during today's transcript sessions.
-- **Riddick sci-fi action movie**: Recorded and processed during today's transcript sessions.
+- **Checking community center classes**
+- **Registering for resilience conference**
+- **Grocery shopping and nut research**
+- **Olive Oil and Daily Life**
+- **Meditation and mindfulness practice discussion**
+- **Confronting Recovery and Boundaries**
+- **Exploring coding and space options**
+- **Career transition and emotional support**
+- **Google Drive integration troubleshooting**
+- **Mexico Wins World Cup Opener**
+- **Chaotic dinner party ejection**
+- **Riddick's Survival and Identity Crisis**
+- **Riddick sci-fi action movie**
 
 ---
 

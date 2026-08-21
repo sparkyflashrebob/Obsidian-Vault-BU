@@ -67,17 +67,17 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Property dispute and financial stress**: Recorded and processed during today's transcript sessions.
-- **ETF dividend and AI discussion**: Recorded and processed during today's transcript sessions.
-- **ETF Investment Education Webinar**: Recorded and processed during today's transcript sessions.
-- **ETF Investment Strategies Webinar**: Recorded and processed during today's transcript sessions.
-- **Planning concerts and calendar events**: Recorded and processed during today's transcript sessions.
-- **Conflict resolution masterclass discussion**: Recorded and processed during today's transcript sessions.
-- **Discussing politics immigration and economy**: Recorded and processed during today's transcript sessions.
-- **Fire aftermath with GPS navigation**: Recorded and processed during today's transcript sessions.
-- **Theme park ride safety briefing**: Recorded and processed during today's transcript sessions.
-- **California earthquake fault discovery discussion**: Recorded and processed during today's transcript sessions.
-- **Sports Results and Trump's Scouting**: Recorded and processed during today's transcript sessions.
+- **Property dispute and financial stress**
+- **ETF dividend and AI discussion**
+- **ETF Investment Education Webinar**
+- **ETF Investment Strategies Webinar**
+- **Planning concerts and calendar events**
+- **Conflict resolution masterclass discussion**
+- **Discussing politics immigration and economy**
+- **Fire aftermath with GPS navigation**
+- **Theme park ride safety briefing**
+- **California earthquake fault discovery discussion**
+- **Sports Results and Trump's Scouting**
 
 ---
 

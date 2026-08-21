@@ -54,14 +54,14 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Reflecting on letting go**: Recorded and processed during today's transcript sessions.
-- **Discussing sinus health and dinner**: Recorded and processed during today's transcript sessions.
-- **Family recovery discussion**: Recorded and processed during today's transcript sessions.
-- **Joshua Tree Trip Planning**: Recorded and processed during today's transcript sessions.
-- **Shopping for graphic t-shirts**: Recorded and processed during today's transcript sessions.
-- **Dinner reservation and trip planning**: Recorded and processed during today's transcript sessions.
-- **Watching sports and news videos**: Recorded and processed during today's transcript sessions.
-- **Sports Commentary Compilation**: Recorded and processed during today's transcript sessions.
+- **Reflecting on letting go**
+- **Discussing sinus health and dinner**
+- **Family recovery discussion**
+- **Joshua Tree Trip Planning**
+- **Shopping for graphic t-shirts**
+- **Dinner reservation and trip planning**
+- **Watching sports and news videos**
+- **Sports Commentary Compilation**
 
 ---
 

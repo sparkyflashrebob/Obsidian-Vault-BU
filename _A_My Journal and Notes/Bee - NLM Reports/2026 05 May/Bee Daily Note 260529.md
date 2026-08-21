@@ -62,11 +62,11 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Docker troubleshooting and device setup**: Recorded and processed during today's transcript sessions.
-- **Concert plans and news browsing**: Recorded and processed during today's transcript sessions.
-- **Sharing recovery steps update**: Recorded and processed during today's transcript sessions.
-- **Streaming show setup discussion**: Recorded and processed during today's transcript sessions.
-- **Quantum Spirituality Documentary Viewing**: Recorded and processed during today's transcript sessions.
+- **Docker troubleshooting and device setup**
+- **Concert plans and news browsing**
+- **Sharing recovery steps update**
+- **Streaming show setup discussion**
+- **Quantum Spirituality Documentary Viewing**
 
 ---
 

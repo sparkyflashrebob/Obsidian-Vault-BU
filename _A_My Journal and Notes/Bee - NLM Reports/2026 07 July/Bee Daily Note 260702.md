@@ -53,19 +53,19 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Monthly council meeting planning discussion**: Recorded and processed during today's transcript sessions.
-- **Guided meditation and mindfulness practice session**: Recorded and processed during today's transcript sessions.
-- **Eco-friendly burial research meeting**: Recorded and processed during today's transcript sessions.
-- **Financial planning and budget discussion**: Recorded and processed during today's transcript sessions.
-- **Therapy session with tech tools**: Recorded and processed during today's transcript sessions.
-- **Organizing daily notes into Gemini**: Recorded and processed during today's transcript sessions.
-- **Notebook LM Book Creation Demo**: Recorded and processed during today's transcript sessions.
-- **Organizing duplicate Buddhist books**: Recorded and processed during today's transcript sessions.
-- **Family news and baby updates**: Recorded and processed during today's transcript sessions.
-- **Phone call about application issues**: Recorded and processed during today's transcript sessions.
-- **Trauma Healing Through Meditation Discussion**: Recorded and processed during today's transcript sessions.
-- **Confirming address after missing email**: Recorded and processed during today's transcript sessions.
-- **Rule of Law Discussion**: Recorded and processed during today's transcript sessions.
+- **Monthly council meeting planning discussion**
+- **Guided meditation and mindfulness practice session**
+- **Eco-friendly burial research meeting**
+- **Financial planning and budget discussion**
+- **Therapy session with tech tools**
+- **Organizing daily notes into Gemini**
+- **Notebook LM Book Creation Demo**
+- **Organizing duplicate Buddhist books**
+- **Family news and baby updates**
+- **Phone call about application issues**
+- **Trauma Healing Through Meditation Discussion**
+- **Confirming address after missing email**
+- **Rule of Law Discussion**
 
 ---
 

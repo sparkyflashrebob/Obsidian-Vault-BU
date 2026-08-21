@@ -93,22 +93,22 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Mindfulness and ethical contemplation**: Recorded and processed during today's transcript sessions.
-- **Electronic bill setup technical difficulties**: Recorded and processed during today's transcript sessions.
-- **Audit new automation data reports**: Recorded and processed during today's transcript sessions.
-- **Digital life organization review**: Recorded and processed during today's transcript sessions.
-- **Cleaning device, Kindle highlights problem**: Recorded and processed during today's transcript sessions.
-- **Can't sync Kindle notes to Obsidian**: Recorded and processed during today's transcript sessions.
-- **Kindle sync automation broken by HTM error**: Recorded and processed during today's transcript sessions.
-- **Processing concerns with mine question**: Recorded and processed during today's transcript sessions.
-- **Symbolic alarm settings confusion**: Recorded and processed during today's transcript sessions.
-- **Device demonstration and voice profile discussion**: Recorded and processed during today's transcript sessions.
-- **Food ordering decision with error**: Recorded and processed during today's transcript sessions.
-- **Technical configuration troubleshooting**: Recorded and processed during today's transcript sessions.
-- **COVID concert etiquette discussion**: Recorded and processed during today's transcript sessions.
-- **Planning Multiple Weekend Meetings**: Recorded and processed during today's transcript sessions.
-- **Setting up voice recognition device**: Recorded and processed during today's transcript sessions.
-- **Popcorn and Clone Movie Discussion**: Recorded and processed during today's transcript sessions.
+- **Mindfulness and ethical contemplation**
+- **Electronic bill setup technical difficulties**
+- **Audit new automation data reports**
+- **Digital life organization review**
+- **Cleaning device, Kindle highlights problem**
+- **Can't sync Kindle notes to Obsidian**
+- **Kindle sync automation broken by HTM error**
+- **Processing concerns with mine question**
+- **Symbolic alarm settings confusion**
+- **Device demonstration and voice profile discussion**
+- **Food ordering decision with error**
+- **Technical configuration troubleshooting**
+- **COVID concert etiquette discussion**
+- **Planning Multiple Weekend Meetings**
+- **Setting up voice recognition device**
+- **Popcorn and Clone Movie Discussion**
 
 ---
 

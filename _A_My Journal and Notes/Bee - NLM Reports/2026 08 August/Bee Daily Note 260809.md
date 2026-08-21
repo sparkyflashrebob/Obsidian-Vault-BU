@@ -60,20 +60,20 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **All-Day Audio Capture with Wearables**: Recorded and processed during today's transcript sessions.
-- **Voice‑ambient separation for watch recordings**: Recorded and processed during today's transcript sessions.
-- **Testing watch audio recording**: Recorded and processed during today's transcript sessions.
-- **Wear OS voice sync challenge**: Recorded and processed during today's transcript sessions.
-- **Restaurant food ordering conversation**: Recorded and processed during today's transcript sessions.
-- **Setting up automated audio recording**: Recorded and processed during today's transcript sessions.
-- **Watch 7 Setup Troubleshooting Session**: Recorded and processed during today's transcript sessions.
-- **Tasker Project Import Error Fix**: Recorded and processed during today's transcript sessions.
-- **Resolving Tasker light version error**: Recorded and processed during today's transcript sessions.
-- **Cognitive Armor and Mindfulness Practices**: Recorded and processed during today's transcript sessions.
-- **Automatic Transcription Watch Development**: Recorded and processed during today's transcript sessions.
-- **Audio system troubleshooting session**: Recorded and processed during today's transcript sessions.
-- **Meditation meeting on impermanence and change**: Recorded and processed during today's transcript sessions.
-- **Mindfulness teaching session**: Recorded and processed during today's transcript sessions.
+- **All-Day Audio Capture with Wearables**
+- **Voice‑ambient separation for watch recordings**
+- **Testing watch audio recording**
+- **Wear OS voice sync challenge**
+- **Restaurant food ordering conversation**
+- **Setting up automated audio recording**
+- **Watch 7 Setup Troubleshooting Session**
+- **Tasker Project Import Error Fix**
+- **Resolving Tasker light version error**
+- **Cognitive Armor and Mindfulness Practices**
+- **Automatic Transcription Watch Development**
+- **Audio system troubleshooting session**
+- **Meditation meeting on impermanence and change**
+- **Mindfulness teaching session**
 
 ---
 

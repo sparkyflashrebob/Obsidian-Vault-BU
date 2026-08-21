@@ -65,23 +65,23 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Casual spontaneous chat**: Recorded and processed during today's transcript sessions.
-- **Parking space argument over keys**: Recorded and processed during today's transcript sessions.
-- **Meditation and Delays**: Recorded and processed during today's transcript sessions.
-- **Coyote population control debate**: Recorded and processed during today's transcript sessions.
-- **Supplements causing digestive issues discussion**: Recorded and processed during today's transcript sessions.
-- **Dealing with manipulative person takeover**: Recorded and processed during today's transcript sessions.
-- **Medical Procedure Support**: Recorded and processed during today's transcript sessions.
-- **Kevin Newsome's posts, women's acceptance**: Recorded and processed during today's transcript sessions.
-- **Near-miss leads to safety planning**: Recorded and processed during today's transcript sessions.
-- **Community healing and tech discussion**: Recorded and processed during today's transcript sessions.
-- **Remembering Dead Friends, Writing, Dogs**: Recorded and processed during today's transcript sessions.
-- **Post-incident medical consultation**: Recorded and processed during today's transcript sessions.
-- **Medical recovery and work stress**: Recorded and processed during today's transcript sessions.
-- **Technology and privacy discussion**: Recorded and processed during today's transcript sessions.
-- **Flood alert automation creation request**: Recorded and processed during today's transcript sessions.
-- **Troubleshooting Missing Notifications Issue**: Recorded and processed during today's transcript sessions.
-- **Missing scheduled event investigation**: Recorded and processed during today's transcript sessions.
+- **Casual spontaneous chat**
+- **Parking space argument over keys**
+- **Meditation and Delays**
+- **Coyote population control debate**
+- **Supplements causing digestive issues discussion**
+- **Dealing with manipulative person takeover**
+- **Medical Procedure Support**
+- **Kevin Newsome's posts, women's acceptance**
+- **Near-miss leads to safety planning**
+- **Community healing and tech discussion**
+- **Remembering Dead Friends, Writing, Dogs**
+- **Post-incident medical consultation**
+- **Medical recovery and work stress**
+- **Technology and privacy discussion**
+- **Flood alert automation creation request**
+- **Troubleshooting Missing Notifications Issue**
+- **Missing scheduled event investigation**
 
 ---
 

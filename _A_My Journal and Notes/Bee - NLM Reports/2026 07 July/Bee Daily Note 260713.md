@@ -45,15 +45,15 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Bias, Truth, and Radical Honesty**: Recorded and processed during today's transcript sessions.
-- **Understanding Mind's Spiritual Function**: Recorded and processed during today's transcript sessions.
-- **Honesty vs. self-deception, societal persuasion**: Recorded and processed during today's transcript sessions.
-- **Welcome to virtual support group**: Recorded and processed during today's transcript sessions.
-- **Meditation Group Launch and Practice**: Recorded and processed during today's transcript sessions.
-- **Consulting Offer, Script, Meal Planning**: Recorded and processed during today's transcript sessions.
-- **Website development and public exposure**: Recorded and processed during today's transcript sessions.
-- **Website Support and Technical Troubleshooting**: Recorded and processed during today's transcript sessions.
-- **Lake retreat walk with geese**: Recorded and processed during today's transcript sessions.
+- **Bias, Truth, and Radical Honesty**
+- **Understanding Mind's Spiritual Function**
+- **Honesty vs. self-deception, societal persuasion**
+- **Welcome to virtual support group**
+- **Meditation Group Launch and Practice**
+- **Consulting Offer, Script, Meal Planning**
+- **Website development and public exposure**
+- **Website Support and Technical Troubleshooting**
+- **Lake retreat walk with geese**
 
 ---
 

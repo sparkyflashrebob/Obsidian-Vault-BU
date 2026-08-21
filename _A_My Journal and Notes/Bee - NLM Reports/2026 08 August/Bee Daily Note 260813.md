@@ -48,26 +48,26 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Casual conversation about daily life**: Recorded and processed during today's transcript sessions.
-- **Daily reflection journal template design**: Recorded and processed during today's transcript sessions.
-- **Troubleshooting Obsidian Template Issues**: Recorded and processed during today's transcript sessions.
-- **Report Review and Feedback Session**: Recorded and processed during today's transcript sessions.
-- **Daily Report System Feedback Session**: Recorded and processed during today's transcript sessions.
-- **Audio Recording Troubleshooting Session**: Recorded and processed during today's transcript sessions.
-- **Personal reflections on teaching identity**: Recorded and processed during today's transcript sessions.
-- **Facebook ad discovery and quick exit**: Recorded and processed during today's transcript sessions.
-- **Research extraction and business promotion**: Recorded and processed during today's transcript sessions.
-- **Recording test with AI concerns**: Recorded and processed during today's transcript sessions.
-- **Audio testing before football game**: Recorded and processed during today's transcript sessions.
-- **Audio recorder troubleshooting on watch**: Recorded and processed during today's transcript sessions.
-- **Setting up hourly recording schedule**: Recorded and processed during today's transcript sessions.
-- **Customizing AI writing style conversation**: Recorded and processed during today's transcript sessions.
-- **Content search: broken story reference**: Recorded and processed during today's transcript sessions.
-- **Creative development session**: Recorded and processed during today's transcript sessions.
-- **Playing with pet Fluffy**: Recorded and processed during today's transcript sessions.
-- **I hear weird noises again**: Recorded and processed during today's transcript sessions.
-- **Questioning Mental Factors and Vocal Expression**: Recorded and processed during today's transcript sessions.
-- **Spiritual breakthrough and noble silence**: Recorded and processed during today's transcript sessions.
+- **Casual conversation about daily life**
+- **Daily reflection journal template design**
+- **Troubleshooting Obsidian Template Issues**
+- **Report Review and Feedback Session**
+- **Daily Report System Feedback Session**
+- **Audio Recording Troubleshooting Session**
+- **Personal reflections on teaching identity**
+- **Facebook ad discovery and quick exit**
+- **Research extraction and business promotion**
+- **Recording test with AI concerns**
+- **Audio testing before football game**
+- **Audio recorder troubleshooting on watch**
+- **Setting up hourly recording schedule**
+- **Customizing AI writing style conversation**
+- **Content search: broken story reference**
+- **Creative development session**
+- **Playing with pet Fluffy**
+- **I hear weird noises again**
+- **Questioning Mental Factors and Vocal Expression**
+- **Spiritual breakthrough and noble silence**
 
 ---
 

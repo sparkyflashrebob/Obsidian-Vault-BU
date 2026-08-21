@@ -58,16 +58,16 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Receiving Trauma Healing Feedback**: Recorded and processed during today's transcript sessions.
-- **Desert trip conversations**: Recorded and processed during today's transcript sessions.
-- **Retirement relief from corporate pressure**: Recorded and processed during today's transcript sessions.
-- **Stoic and Buddhist Virtues Discussion**: Recorded and processed during today's transcript sessions.
-- **Exploring Amor Fati Philosophy**: Recorded and processed during today's transcript sessions.
-- **Human Common Ancestry Discussion**: Recorded and processed during today's transcript sessions.
-- **Emergency Response Training Scenario**: Recorded and processed during today's transcript sessions.
-- **Philippines earthquake and tsunami alert**: Recorded and processed during today's transcript sessions.
-- **Group gathering with diverse conversations**: Recorded and processed during today's transcript sessions.
-- **Netflix profile mishap morning**: Recorded and processed during today's transcript sessions.
+- **Receiving Trauma Healing Feedback**
+- **Desert trip conversations**
+- **Retirement relief from corporate pressure**
+- **Stoic and Buddhist Virtues Discussion**
+- **Exploring Amor Fati Philosophy**
+- **Human Common Ancestry Discussion**
+- **Emergency Response Training Scenario**
+- **Philippines earthquake and tsunami alert**
+- **Group gathering with diverse conversations**
+- **Netflix profile mishap morning**
 
 ---
 

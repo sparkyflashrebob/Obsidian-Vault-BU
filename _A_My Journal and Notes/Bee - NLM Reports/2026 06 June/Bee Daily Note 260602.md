@@ -46,10 +46,10 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Road trip preparation and packing**: Recorded and processed during today's transcript sessions.
-- **Checking heater at Snake Bite Roadhouse**: Recorded and processed during today's transcript sessions.
-- **Hotel check-in conversation**: Recorded and processed during today's transcript sessions.
-- **Movie plot discussion**: Recorded and processed during today's transcript sessions.
+- **Road trip preparation and packing**
+- **Checking heater at Snake Bite Roadhouse**
+- **Hotel check-in conversation**
+- **Movie plot discussion**
 
 ---
 

@@ -56,16 +56,16 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Website creation customer service call**: Recorded and processed during today's transcript sessions.
-- **Finding free web hosting alternatives**: Recorded and processed during today's transcript sessions.
-- **Website setup and food cleanup**: Recorded and processed during today's transcript sessions.
-- **Website Development Session**: Recorded and processed during today's transcript sessions.
-- **Website deployment troubleshooting using GitHub**: Recorded and processed during today's transcript sessions.
-- **Website design and updates session**: Recorded and processed during today's transcript sessions.
-- **Technical blog setup session**: Recorded and processed during today's transcript sessions.
-- **Remove blogs, update FAQ info**: Recorded and processed during today's transcript sessions.
-- **Argentina vs. Switzerland Commentary**: Recorded and processed during today's transcript sessions.
-- **Technical work loss recovery**: Recorded and processed during today's transcript sessions.
+- **Website creation customer service call**
+- **Finding free web hosting alternatives**
+- **Website setup and food cleanup**
+- **Website Development Session**
+- **Website deployment troubleshooting using GitHub**
+- **Website design and updates session**
+- **Technical blog setup session**
+- **Remove blogs, update FAQ info**
+- **Argentina vs. Switzerland Commentary**
+- **Technical work loss recovery**
 
 ---
 

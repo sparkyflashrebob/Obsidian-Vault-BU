@@ -57,19 +57,19 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Car Wi‑Fi Device Masking Identity**: Recorded and processed during today's transcript sessions.
-- **National Mobile TV Engineering Reflections**: Recorded and processed during today's transcript sessions.
-- **Verifying note locations in folders**: Recorded and processed during today's transcript sessions.
-- **AI Ethics Boundaries Discussion**: Recorded and processed during today's transcript sessions.
-- **Self-talk and societal neglect**: Recorded and processed during today's transcript sessions.
-- **Self-reflection versus outward projection**: Recorded and processed during today's transcript sessions.
-- **Meeting cancellation and content creation**: Recorded and processed during today's transcript sessions.
-- **Coaching session on Dharma talk**: Recorded and processed during today's transcript sessions.
-- **Should focus on treating animals**: Recorded and processed during today's transcript sessions.
-- **Personal life updates**: Recorded and processed during today's transcript sessions.
-- **Learning about Don Nelson's death**: Recorded and processed during today's transcript sessions.
-- **Friends chatting about everything**: Recorded and processed during today's transcript sessions.
-- **Mixed Dialogue: Fight, Firearms, Parenting**: Recorded and processed during today's transcript sessions.
+- **Car Wi‑Fi Device Masking Identity**
+- **National Mobile TV Engineering Reflections**
+- **Verifying note locations in folders**
+- **AI Ethics Boundaries Discussion**
+- **Self-talk and societal neglect**
+- **Self-reflection versus outward projection**
+- **Meeting cancellation and content creation**
+- **Coaching session on Dharma talk**
+- **Should focus on treating animals**
+- **Personal life updates**
+- **Learning about Don Nelson's death**
+- **Friends chatting about everything**
+- **Mixed Dialogue: Fight, Firearms, Parenting**
 
 ---
 

@@ -70,20 +70,20 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Hospital pickup and ultrasound appointment**: Recorded and processed during today's transcript sessions.
-- **Apartment hunting with fireplace concerns**: Recorded and processed during today's transcript sessions.
-- **Apartment hunting with Maya**: Recorded and processed during today's transcript sessions.
-- **XM25 Anti-Drone Weapon Discussion**: Recorded and processed during today's transcript sessions.
-- **AutoCAD Trace Feature Overview**: Recorded and processed during today's transcript sessions.
-- **Giants Pride Night Bible Verse Controversy**: Recorded and processed during today's transcript sessions.
-- **House hunting and flood concerns**: Recorded and processed during today's transcript sessions.
-- **Apartment hunting and property tours**: Recorded and processed during today's transcript sessions.
-- **Apartment Hunting with Partner**: Recorded and processed during today's transcript sessions.
-- **Financial struggles and home repairs**: Recorded and processed during today's transcript sessions.
-- **Apartment hunting and space planning**: Recorded and processed during today's transcript sessions.
-- **Decluttering books before moving**: Recorded and processed during today's transcript sessions.
-- **Finding car registration documents**: Recorded and processed during today's transcript sessions.
-- **Moving finances and new bed**: Recorded and processed during today's transcript sessions.
+- **Hospital pickup and ultrasound appointment**
+- **Apartment hunting with fireplace concerns**
+- **Apartment hunting with Maya**
+- **XM25 Anti-Drone Weapon Discussion**
+- **AutoCAD Trace Feature Overview**
+- **Giants Pride Night Bible Verse Controversy**
+- **House hunting and flood concerns**
+- **Apartment hunting and property tours**
+- **Apartment Hunting with Partner**
+- **Financial struggles and home repairs**
+- **Apartment hunting and space planning**
+- **Decluttering books before moving**
+- **Finding car registration documents**
+- **Moving finances and new bed**
 
 ---
 

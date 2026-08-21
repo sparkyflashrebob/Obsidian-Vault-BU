@@ -60,15 +60,15 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Market Analysis on Iran Negotiations**: Recorded and processed during today's transcript sessions.
-- **Emotional breakup conversation**: Recorded and processed during today's transcript sessions.
-- **Dropping off donated books**: Recorded and processed during today's transcript sessions.
-- **Calendar access and hallucinated call**: Recorded and processed during today's transcript sessions.
-- **Moving day with back pain**: Recorded and processed during today's transcript sessions.
-- **Meal kit subscription stress**: Recorded and processed during today's transcript sessions.
-- **Watching sports and news**: Recorded and processed during today's transcript sessions.
-- **Adjustable bed delivery setup**: Recorded and processed during today's transcript sessions.
-- **Helping stranger at hospital**: Recorded and processed during today's transcript sessions.
+- **Market Analysis on Iran Negotiations**
+- **Emotional breakup conversation**
+- **Dropping off donated books**
+- **Calendar access and hallucinated call**
+- **Moving day with back pain**
+- **Meal kit subscription stress**
+- **Watching sports and news**
+- **Adjustable bed delivery setup**
+- **Helping stranger at hospital**
 
 ---
 

@@ -52,20 +52,20 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Health management and daily routines**: Recorded and processed during today's transcript sessions.
-- **Assistant helps Andy: errands, maps**: Recorded and processed during today's transcript sessions.
-- **Medical appointment medication coverage issues**: Recorded and processed during today's transcript sessions.
-- **Driving observations and attention patterns**: Recorded and processed during today's transcript sessions.
-- **Cherished friendship lost forever**: Recorded and processed during today's transcript sessions.
-- **Medication refill and continuation concerns**: Recorded and processed during today's transcript sessions.
-- **Monthly food expense tracking**: Recorded and processed during today's transcript sessions.
-- **Watch recording app troubleshooting**: Recorded and processed during today's transcript sessions.
-- **Audio App Not Working Properly**: Recorded and processed during today's transcript sessions.
-- **Audio Recorder command null troubleshooting**: Recorded and processed during today's transcript sessions.
-- **Information sharing and discussion**: Recorded and processed during today's transcript sessions.
-- **Sharing AI Logo Creation Project**: Recorded and processed during today's transcript sessions.
-- **Meditation Practice and Retreat Planning**: Recorded and processed during today's transcript sessions.
-- **Medical follow-up appointment progress check**: Recorded and processed during today's transcript sessions.
+- **Health management and daily routines**
+- **Assistant helps Andy: errands, maps**
+- **Medical appointment medication coverage issues**
+- **Driving observations and attention patterns**
+- **Cherished friendship lost forever**
+- **Medication refill and continuation concerns**
+- **Monthly food expense tracking**
+- **Watch recording app troubleshooting**
+- **Audio App Not Working Properly**
+- **Audio Recorder command null troubleshooting**
+- **Information sharing and discussion**
+- **Sharing AI Logo Creation Project**
+- **Meditation Practice and Retreat Planning**
+- **Medical follow-up appointment progress check**
 
 ---
 

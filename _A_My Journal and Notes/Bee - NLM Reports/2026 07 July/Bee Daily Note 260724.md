@@ -50,19 +50,19 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Digital Age Focus Guidance**: Recorded and processed during today's transcript sessions.
-- **I direct boogie, handle heat**: Recorded and processed during today's transcript sessions.
-- **Insurance Coverage Work Health Tension**: Recorded and processed during today's transcript sessions.
-- **Short meeting no business meditation**: Recorded and processed during today's transcript sessions.
-- **Omelet Cooking Skills Practice Tips**: Recorded and processed during today's transcript sessions.
-- **Daily household conversation topics**: Recorded and processed during today's transcript sessions.
-- **Configuring Windows 11 folder locations**: Recorded and processed during today's transcript sessions.
-- **Political Interview on Contemporary Issues**: Recorded and processed during today's transcript sessions.
-- **Food Politics Medicine Social Chat**: Recorded and processed during today's transcript sessions.
-- **Sci‑Fi, Elon, Volcanoes, Cooking, Home**: Recorded and processed during today's transcript sessions.
-- **Smart Lights Setup**: Recorded and processed during today's transcript sessions.
-- **Setting up smart home rooms**: Recorded and processed during today's transcript sessions.
-- **Smart Home Setup with Google**: Recorded and processed during today's transcript sessions.
+- **Digital Age Focus Guidance**
+- **I direct boogie, handle heat**
+- **Insurance Coverage Work Health Tension**
+- **Short meeting no business meditation**
+- **Omelet Cooking Skills Practice Tips**
+- **Daily household conversation topics**
+- **Configuring Windows 11 folder locations**
+- **Political Interview on Contemporary Issues**
+- **Food Politics Medicine Social Chat**
+- **Sci‑Fi, Elon, Volcanoes, Cooking, Home**
+- **Smart Lights Setup**
+- **Setting up smart home rooms**
+- **Smart Home Setup with Google**
 
 ---
 

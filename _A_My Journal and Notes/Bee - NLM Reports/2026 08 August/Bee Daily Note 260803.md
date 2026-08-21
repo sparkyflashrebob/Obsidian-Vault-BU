@@ -55,19 +55,19 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Anti-Gravity Platform Security Guidance**: Recorded and processed during today's transcript sessions.
-- **Preparing for Agravity 2.0 Upgrade**: Recorded and processed during today's transcript sessions.
-- **Anti-Gravity 2.0 Setup Troubles**: Recorded and processed during today's transcript sessions.
-- **Anti-gravity testing, migration, and integrations**: Recorded and processed during today's transcript sessions.
-- **Technical troubleshooting and web design**: Recorded and processed during today's transcript sessions.
-- **Daily conversation note automation setup**: Recorded and processed during today's transcript sessions.
-- **Technical Automation Setup and Troubleshooting**: Recorded and processed during today's transcript sessions.
-- **Entrepreneur explores wellness and technology**: Recorded and processed during today's transcript sessions.
-- **Testing multimedia content access**: Recorded and processed during today's transcript sessions.
-- **Song Discussion: Apollo 440 Power**: Recorded and processed during today's transcript sessions.
-- **Clothing confusion and temperature adjustments**: Recorded and processed during today's transcript sessions.
-- **Recipe measurements for unusual drink**: Recorded and processed during today's transcript sessions.
-- **Transferring notebooks between Gemini and Obsidian**: Recorded and processed during today's transcript sessions.
+- **Anti-Gravity Platform Security Guidance**
+- **Preparing for Agravity 2.0 Upgrade**
+- **Anti-Gravity 2.0 Setup Troubles**
+- **Anti-gravity testing, migration, and integrations**
+- **Technical troubleshooting and web design**
+- **Daily conversation note automation setup**
+- **Technical Automation Setup and Troubleshooting**
+- **Entrepreneur explores wellness and technology**
+- **Testing multimedia content access**
+- **Song Discussion: Apollo 440 Power**
+- **Clothing confusion and temperature adjustments**
+- **Recipe measurements for unusual drink**
+- **Transferring notebooks between Gemini and Obsidian**
 
 ---
 

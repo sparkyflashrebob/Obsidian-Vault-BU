@@ -54,17 +54,17 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Constipation, meditation, and social commentary**: Recorded and processed during today's transcript sessions.
-- **Mindfulness Meditation Knowledge Sharing Session**: Recorded and processed during today's transcript sessions.
-- **Deep friendship conversation about life**: Recorded and processed during today's transcript sessions.
-- **Searching for GitHub project file**: Recorded and processed during today's transcript sessions.
-- **Moving Projects, AI Setup, Ableton**: Recorded and processed during today's transcript sessions.
-- **Open Web UI Performance Issues**: Recorded and processed during today's transcript sessions.
-- **Unable to open project file**: Recorded and processed during today's transcript sessions.
-- **MCP Obsidian Server Disconnection**: Recorded and processed during today's transcript sessions.
-- **AI Tool Integration Troubleshooting for Mindfulness**: Recorded and processed during today's transcript sessions.
-- **Backtrack after fix attempt failure**: Recorded and processed during today's transcript sessions.
-- **Childhood trauma and family memories**: Recorded and processed during today's transcript sessions.
+- **Constipation, meditation, and social commentary**
+- **Mindfulness Meditation Knowledge Sharing Session**
+- **Deep friendship conversation about life**
+- **Searching for GitHub project file**
+- **Moving Projects, AI Setup, Ableton**
+- **Open Web UI Performance Issues**
+- **Unable to open project file**
+- **MCP Obsidian Server Disconnection**
+- **AI Tool Integration Troubleshooting for Mindfulness**
+- **Backtrack after fix attempt failure**
+- **Childhood trauma and family memories**
 
 ---
 

@@ -58,18 +58,18 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Sleep struggles and pillow troubles**: Recorded and processed during today's transcript sessions.
-- **Acrobat Job vs Consciousness Defense**: Recorded and processed during today's transcript sessions.
-- **Medical consultation with game theory**: Recorded and processed during today's transcript sessions.
-- **File Explorer Search Troubleshooting**: Recorded and processed during today's transcript sessions.
-- **Listening skills meditation training session**: Recorded and processed during today's transcript sessions.
-- **MediaMonkey CD ripping failure**: Recorded and processed during today's transcript sessions.
-- **Spiritual Reminder to Do Good**: Recorded and processed during today's transcript sessions.
-- **My search for photography parts**: Recorded and processed during today's transcript sessions.
-- **Media Organization and Digitization Session**: Recorded and processed during today's transcript sessions.
-- **Planning thoughtful storage container solutions**: Recorded and processed during today's transcript sessions.
-- **Exploring Extended Ed Self-Help Class**: Recorded and processed during today's transcript sessions.
-- **World Cup Soccer Watch Party**: Recorded and processed during today's transcript sessions.
+- **Sleep struggles and pillow troubles**
+- **Acrobat Job vs Consciousness Defense**
+- **Medical consultation with game theory**
+- **File Explorer Search Troubleshooting**
+- **Listening skills meditation training session**
+- **MediaMonkey CD ripping failure**
+- **Spiritual Reminder to Do Good**
+- **My search for photography parts**
+- **Media Organization and Digitization Session**
+- **Planning thoughtful storage container solutions**
+- **Exploring Extended Ed Self-Help Class**
+- **World Cup Soccer Watch Party**
 
 ---
 

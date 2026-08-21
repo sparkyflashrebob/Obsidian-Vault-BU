@@ -50,13 +50,13 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **AA Meeting on Humility and Recovery**: Recorded and processed during today's transcript sessions.
-- **Preparing Joshua Tree Trip**: Recorded and processed during today's transcript sessions.
-- **Exploring Plaud wearable options**: Recorded and processed during today's transcript sessions.
-- **Testing Bee app transcription features**: Recorded and processed during today's transcript sessions.
-- **Keys, oregano, and tech troubleshooting**: Recorded and processed during today's transcript sessions.
-- **Recovery meeting reflections and observations**: Recorded and processed during today's transcript sessions.
-- **Watching movies and political commentary**: Recorded and processed during today's transcript sessions.
+- **AA Meeting on Humility and Recovery**
+- **Preparing Joshua Tree Trip**
+- **Exploring Plaud wearable options**
+- **Testing Bee app transcription features**
+- **Keys, oregano, and tech troubleshooting**
+- **Recovery meeting reflections and observations**
+- **Watching movies and political commentary**
 
 ---
 

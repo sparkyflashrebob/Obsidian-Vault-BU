@@ -51,16 +51,16 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Supporting Ryan's recovery journey**: Recorded and processed during today's transcript sessions.
-- **Rehab discussion and household errands**: Recorded and processed during today's transcript sessions.
-- **Fixing door and discussing politics**: Recorded and processed during today's transcript sessions.
-- **House tour and safety concerns**: Recorded and processed during today's transcript sessions.
-- **60 Minutes Legacy Announcement**: Recorded and processed during today's transcript sessions.
-- **Reflecting on books and mindfulness**: Recorded and processed during today's transcript sessions.
-- **IRS Commissioner Congressional Hearing Testimony**: Recorded and processed during today's transcript sessions.
-- **Discussing health and daily activities**: Recorded and processed during today's transcript sessions.
-- **Water Cooler Chat**: Recorded and processed during today's transcript sessions.
-- **Desert road trip conversation**: Recorded and processed during today's transcript sessions.
+- **Supporting Ryan's recovery journey**
+- **Rehab discussion and household errands**
+- **Fixing door and discussing politics**
+- **House tour and safety concerns**
+- **60 Minutes Legacy Announcement**
+- **Reflecting on books and mindfulness**
+- **IRS Commissioner Congressional Hearing Testimony**
+- **Discussing health and daily activities**
+- **Water Cooler Chat**
+- **Desert road trip conversation**
 
 ---
 

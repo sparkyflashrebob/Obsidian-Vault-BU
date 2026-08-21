@@ -51,21 +51,21 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Farted During Giants, Car Stolen**: Recorded and processed during today's transcript sessions.
-- **Checking flood impact on vehicles**: Recorded and processed during today's transcript sessions.
-- **Device automation setup struggles**: Recorded and processed during today's transcript sessions.
-- **Phone automation permission troubleshooting**: Recorded and processed during today's transcript sessions.
-- **Audio Recording Setup Troubleshooting**: Recorded and processed during today's transcript sessions.
-- **Recording system testing session**: Recorded and processed during today's transcript sessions.
-- **Automated recording system setup**: Recorded and processed during today's transcript sessions.
-- **Meeting clarification and tide documentation**: Recorded and processed during today's transcript sessions.
-- **Documentation Management During System Transition**: Recorded and processed during today's transcript sessions.
-- **Listening to reporter deception story**: Recorded and processed during today's transcript sessions.
-- **Sharing struggles and technical troubles**: Recorded and processed during today's transcript sessions.
-- **Data collection and reporting requirements**: Recorded and processed during today's transcript sessions.
-- **Separating transcriptions from daily reports**: Recorded and processed during today's transcript sessions.
-- **Technical drive sync troubleshooting**: Recorded and processed during today's transcript sessions.
-- **Flood control strategy**: Recorded and processed during today's transcript sessions.
+- **Farted During Giants, Car Stolen**
+- **Checking flood impact on vehicles**
+- **Device automation setup struggles**
+- **Phone automation permission troubleshooting**
+- **Audio Recording Setup Troubleshooting**
+- **Recording system testing session**
+- **Automated recording system setup**
+- **Meeting clarification and tide documentation**
+- **Documentation Management During System Transition**
+- **Listening to reporter deception story**
+- **Sharing struggles and technical troubles**
+- **Data collection and reporting requirements**
+- **Separating transcriptions from daily reports**
+- **Technical drive sync troubleshooting**
+- **Flood control strategy**
 
 ---
 

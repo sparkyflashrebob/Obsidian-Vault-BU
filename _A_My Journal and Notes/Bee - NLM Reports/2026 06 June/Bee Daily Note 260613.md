@@ -50,16 +50,16 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Qigong breathing foundations lesson**: Recorded and processed during today's transcript sessions.
-- **Testing Gemini Live journaling workflow**: Recorded and processed during today's transcript sessions.
-- **Andy asks about custom phone alerts**: Recorded and processed during today's transcript sessions.
-- **Window Shopping Disappointment**: Recorded and processed during today's transcript sessions.
-- **Buddhist Study on Wholesome Desire**: Recorded and processed during today's transcript sessions.
-- **Body awareness meditation practice**: Recorded and processed during today's transcript sessions.
-- **Heating and plant mold discussion**: Recorded and processed during today's transcript sessions.
-- **Kindle issues and dinner planning**: Recorded and processed during today's transcript sessions.
-- **Knicks Championship and Soccer**: Recorded and processed during today's transcript sessions.
-- **Flooded Parking Lot Car Rescue**: Recorded and processed during today's transcript sessions.
+- **Qigong breathing foundations lesson**
+- **Testing Gemini Live journaling workflow**
+- **Andy asks about custom phone alerts**
+- **Window Shopping Disappointment**
+- **Buddhist Study on Wholesome Desire**
+- **Body awareness meditation practice**
+- **Heating and plant mold discussion**
+- **Kindle issues and dinner planning**
+- **Knicks Championship and Soccer**
+- **Flooded Parking Lot Car Rescue**
 
 ---
 

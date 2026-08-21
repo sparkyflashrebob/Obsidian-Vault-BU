@@ -64,19 +64,19 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Technical troubleshooting and transcription status check**: Recorded and processed during today's transcript sessions.
-- **Overload, memory, health, civilization reflections**: Recorded and processed during today's transcript sessions.
-- **Content creation and business setup**: Recorded and processed during today's transcript sessions.
-- **Deposit letter, email list, alarm**: Recorded and processed during today's transcript sessions.
-- **Wildfire Betting Should Be Outlawed**: Recorded and processed during today's transcript sessions.
-- **Creating December 27th Meeting Event**: Recorded and processed during today's transcript sessions.
-- **Right Speech Within**: Recorded and processed during today's transcript sessions.
-- **Event planning, tech, family prep**: Recorded and processed during today's transcript sessions.
-- **Testing braille headphones for meeting**: Recorded and processed during today's transcript sessions.
-- **Living Mindfully: Internal Dialogue Practice**: Recorded and processed during today's transcript sessions.
-- **Buddhist Approach to Right Speech**: Recorded and processed during today's transcript sessions.
-- **Talk preparation and delivery reflection**: Recorded and processed during today's transcript sessions.
-- **Impermanence, Mindfulness, Joy**: Recorded and processed during today's transcript sessions.
+- **Technical troubleshooting and transcription status check**
+- **Overload, memory, health, civilization reflections**
+- **Content creation and business setup**
+- **Deposit letter, email list, alarm**
+- **Wildfire Betting Should Be Outlawed**
+- **Creating December 27th Meeting Event**
+- **Right Speech Within**
+- **Event planning, tech, family prep**
+- **Testing braille headphones for meeting**
+- **Living Mindfully: Internal Dialogue Practice**
+- **Buddhist Approach to Right Speech**
+- **Talk preparation and delivery reflection**
+- **Impermanence, Mindfulness, Joy**
 
 ---
 

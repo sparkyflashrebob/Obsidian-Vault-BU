@@ -50,14 +50,14 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Organizing Thursday Meditation Group Sessions**: Recorded and processed during today's transcript sessions.
-- **Pages CMS Blog Implementation Challenges**: Recorded and processed during today's transcript sessions.
-- **CMS blog publishing layout index**: Recorded and processed during today's transcript sessions.
-- **Header, Footer, and Link Updates**: Recorded and processed during today's transcript sessions.
-- **Website Development and Script Creation**: Recorded and processed during today's transcript sessions.
-- **Meditation Retreat Planning Discussion**: Recorded and processed during today's transcript sessions.
-- **Warriors vs Thunder Game Commentary**: Recorded and processed during today's transcript sessions.
-- **Third eye and consciousness explained**: Recorded and processed during today's transcript sessions.
+- **Organizing Thursday Meditation Group Sessions**
+- **Pages CMS Blog Implementation Challenges**
+- **CMS blog publishing layout index**
+- **Header, Footer, and Link Updates**
+- **Website Development and Script Creation**
+- **Meditation Retreat Planning Discussion**
+- **Warriors vs Thunder Game Commentary**
+- **Third eye and consciousness explained**
 
 ---
 

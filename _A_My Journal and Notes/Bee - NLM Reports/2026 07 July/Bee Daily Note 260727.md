@@ -58,19 +58,19 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Desire vs Security**: Recorded and processed during today's transcript sessions.
-- **Walking, Unconcerned to Cash Concern**: Recorded and processed during today's transcript sessions.
-- **Branding and logo design consultation**: Recorded and processed during today's transcript sessions.
-- **Finding Samsung monitor firmware support**: Recorded and processed during today's transcript sessions.
-- **Recall service scheduling with Toyota**: Recorded and processed during today's transcript sessions.
-- **Revising Grounding Techniques Blog Post**: Recorded and processed during today's transcript sessions.
-- **New access to Martinez center**: Recorded and processed during today's transcript sessions.
-- **Long Time Family Reconnection Call**: Recorded and processed during today's transcript sessions.
-- **Engaged Dialogue on Diverse Topics**: Recorded and processed during today's transcript sessions.
-- **Digital creativity and mindfulness journey**: Recorded and processed during today's transcript sessions.
-- **Andy's Daily Practice and Retreat Prep**: Recorded and processed during today's transcript sessions.
-- **Meditation Seating Adjustments Progress Check-in**: Recorded and processed during today's transcript sessions.
-- **Tide alert triggers commute check**: Recorded and processed during today's transcript sessions.
+- **Desire vs Security**
+- **Walking, Unconcerned to Cash Concern**
+- **Branding and logo design consultation**
+- **Finding Samsung monitor firmware support**
+- **Recall service scheduling with Toyota**
+- **Revising Grounding Techniques Blog Post**
+- **New access to Martinez center**
+- **Long Time Family Reconnection Call**
+- **Engaged Dialogue on Diverse Topics**
+- **Digital creativity and mindfulness journey**
+- **Andy's Daily Practice and Retreat Prep**
+- **Meditation Seating Adjustments Progress Check-in**
+- **Tide alert triggers commute check**
 
 ---
 

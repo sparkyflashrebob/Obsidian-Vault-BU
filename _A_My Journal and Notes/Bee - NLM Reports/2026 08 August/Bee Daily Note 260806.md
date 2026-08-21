@@ -70,25 +70,25 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Morning Exercise, Health, Appointments, Compliments**: Recorded and processed during today's transcript sessions.
-- **Earth-Based Spirituality Discussion**: Recorded and processed during today's transcript sessions.
-- **Google Drive system freeze troubleshooting**: Recorded and processed during today's transcript sessions.
-- **Editing blog post for authenticity**: Recorded and processed during today's transcript sessions.
-- **Mail merge script for Gmail**: Recorded and processed during today's transcript sessions.
-- **Mail Merge script approval troubleshooting**: Recorded and processed during today's transcript sessions.
-- **Google App Script Mail Merge Debugging**: Recorded and processed during today's transcript sessions.
-- **Apps Script mail merge troubleshooting**: Recorded and processed during today's transcript sessions.
-- **App script error troubleshooting session**: Recorded and processed during today's transcript sessions.
-- **Thai sync, Gmail merge issues**: Recorded and processed during today's transcript sessions.
-- **Troubleshooting Hubbot Calendar Sync**: Recorded and processed during today's transcript sessions.
-- **Spiritual practice and retreat experiences**: Recorded and processed during today's transcript sessions.
-- **Birthday, blog post, eye issues**: Recorded and processed during today's transcript sessions.
-- **Report Automation Template Customization Discussion**: Recorded and processed during today's transcript sessions.
-- **Obsidian Dharma Talk Template Update**: Recorded and processed during today's transcript sessions.
-- **Improving report template using transcript**: Recorded and processed during today's transcript sessions.
-- **Tomato report with bandwidth check**: Recorded and processed during today's transcript sessions.
-- **Random sports commentary chat**: Recorded and processed during today's transcript sessions.
-- **Feeling unwell conversation**: Recorded and processed during today's transcript sessions.
+- **Morning Exercise, Health, Appointments, Compliments**
+- **Earth-Based Spirituality Discussion**
+- **Google Drive system freeze troubleshooting**
+- **Editing blog post for authenticity**
+- **Mail merge script for Gmail**
+- **Mail Merge script approval troubleshooting**
+- **Google App Script Mail Merge Debugging**
+- **Apps Script mail merge troubleshooting**
+- **App script error troubleshooting session**
+- **Thai sync, Gmail merge issues**
+- **Troubleshooting Hubbot Calendar Sync**
+- **Spiritual practice and retreat experiences**
+- **Birthday, blog post, eye issues**
+- **Report Automation Template Customization Discussion**
+- **Obsidian Dharma Talk Template Update**
+- **Improving report template using transcript**
+- **Tomato report with bandwidth check**
+- **Random sports commentary chat**
+- **Feeling unwell conversation**
 
 ---
 

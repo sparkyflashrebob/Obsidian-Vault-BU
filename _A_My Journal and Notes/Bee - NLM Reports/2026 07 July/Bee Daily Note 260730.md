@@ -69,21 +69,21 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Spiritual meditation and book preparation**: Recorded and processed during today's transcript sessions.
-- **Preparing Zen Teaching Session**: Recorded and processed during today's transcript sessions.
-- **Email signature image not appearing**: Recorded and processed during today's transcript sessions.
-- **Ending pen pal conversation**: Recorded and processed during today's transcript sessions.
-- **Website SEO and Search Optimization**: Recorded and processed during today's transcript sessions.
-- **Website backup and SEO optimization**: Recorded and processed during today's transcript sessions.
-- **Spiritual Practice in Difficult Times**: Recorded and processed during today's transcript sessions.
-- **Optimizing Gem for Speech Writing**: Recorded and processed during today's transcript sessions.
-- **Modern Buddhist Practice Script Development**: Recorded and processed during today's transcript sessions.
-- **Somatic Mindfulness Workshop Development**: Recorded and processed during today's transcript sessions.
-- **Advertising agency AI discussion**: Recorded and processed during today's transcript sessions.
-- **Lost notebooks technical issue**: Recorded and processed during today's transcript sessions.
-- **Google Gemini Spark subscription management**: Recorded and processed during today's transcript sessions.
-- **Green bean portion dispute**: Recorded and processed during today's transcript sessions.
-- **Retirement, Healing, Family, Skepticism, Finances**: Recorded and processed during today's transcript sessions.
+- **Spiritual meditation and book preparation**
+- **Preparing Zen Teaching Session**
+- **Email signature image not appearing**
+- **Ending pen pal conversation**
+- **Website SEO and Search Optimization**
+- **Website backup and SEO optimization**
+- **Spiritual Practice in Difficult Times**
+- **Optimizing Gem for Speech Writing**
+- **Modern Buddhist Practice Script Development**
+- **Somatic Mindfulness Workshop Development**
+- **Advertising agency AI discussion**
+- **Lost notebooks technical issue**
+- **Google Gemini Spark subscription management**
+- **Green bean portion dispute**
+- **Retirement, Healing, Family, Skepticism, Finances**
 
 ---
 

@@ -45,16 +45,16 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Identity, Ethics, Politics, and Technology**: Recorded and processed during today's transcript sessions.
-- **YouTube streaming setup troubleshooting**: Recorded and processed during today's transcript sessions.
-- **Live streaming technical problems troubleshooting**: Recorded and processed during today's transcript sessions.
-- **Budgeting three days of meals**: Recorded and processed during today's transcript sessions.
-- **Music creation and mixing session**: Recorded and processed during today's transcript sessions.
-- **World Cup Penalty Shootout Discussion**: Recorded and processed during today's transcript sessions.
-- **World Cup Football Match Review**: Recorded and processed during today's transcript sessions.
-- **NBA trade rumors and weather analysis**: Recorded and processed during today's transcript sessions.
-- **NFL Al Davis Raiders Talk**: Recorded and processed during today's transcript sessions.
-- **Renaissance roleplay gaming session**: Recorded and processed during today's transcript sessions.
+- **Identity, Ethics, Politics, and Technology**
+- **YouTube streaming setup troubleshooting**
+- **Live streaming technical problems troubleshooting**
+- **Budgeting three days of meals**
+- **Music creation and mixing session**
+- **World Cup Penalty Shootout Discussion**
+- **World Cup Football Match Review**
+- **NBA trade rumors and weather analysis**
+- **NFL Al Davis Raiders Talk**
+- **Renaissance roleplay gaming session**
 
 ---
 

@@ -51,11 +51,11 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Defining personal spiritual framework**: Recorded and processed during today's transcript sessions.
-- **First day office parking discussion**: Recorded and processed during today's transcript sessions.
-- **Testing Voice Transcription App**: Recorded and processed during today's transcript sessions.
-- **Spiritual guidance on suffering**: Recorded and processed during today's transcript sessions.
-- **Discussing perception and consciousness**: Recorded and processed during today's transcript sessions.
+- **Defining personal spiritual framework**
+- **First day office parking discussion**
+- **Testing Voice Transcription App**
+- **Spiritual guidance on suffering**
+- **Discussing perception and consciousness**
 
 ---
 

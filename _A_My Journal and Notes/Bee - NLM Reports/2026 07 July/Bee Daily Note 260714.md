@@ -69,15 +69,15 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Online meeting setup assistance**: Recorded and processed during today's transcript sessions.
-- **New meditation group member introduction**: Recorded and processed during today's transcript sessions.
-- **Loving Kindness Meditation Practice**: Recorded and processed during today's transcript sessions.
-- **Meditation Group Launch with Retreats**: Recorded and processed during today's transcript sessions.
-- **Website Updates and Gmail Import**: Recorded and processed during today's transcript sessions.
-- **Content Creation and Automation Setup**: Recorded and processed during today's transcript sessions.
-- **Neighborhood nostalgia, web dev, pricing**: Recorded and processed during today's transcript sessions.
-- **Starting Living Mindfully meditation group**: Recorded and processed during today's transcript sessions.
-- **Customer sedation confusion discussion**: Recorded and processed during today's transcript sessions.
+- **Online meeting setup assistance**
+- **New meditation group member introduction**
+- **Loving Kindness Meditation Practice**
+- **Meditation Group Launch with Retreats**
+- **Website Updates and Gmail Import**
+- **Content Creation and Automation Setup**
+- **Neighborhood nostalgia, web dev, pricing**
+- **Starting Living Mindfully meditation group**
+- **Customer sedation confusion discussion**
 
 ---
 

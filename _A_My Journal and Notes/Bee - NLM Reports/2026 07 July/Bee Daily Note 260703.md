@@ -47,18 +47,18 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Casual hangout with friends**: Recorded and processed during today's transcript sessions.
-- **Lout Definition in Song Lyrics**: Recorded and processed during today's transcript sessions.
-- **Tidal scheduling challenges**: Recorded and processed during today's transcript sessions.
-- **Mindfulness book writing with AI**: Recorded and processed during today's transcript sessions.
-- **Therapy Room Rental Discussion**: Recorded and processed during today's transcript sessions.
-- **Workplace stress and mental health**: Recorded and processed during today's transcript sessions.
-- **Vehicle System Settings Troubleshooting**: Recorded and processed during today's transcript sessions.
-- **Wellness practice space viewing**: Recorded and processed during today's transcript sessions.
-- **Building healing arts business website**: Recorded and processed during today's transcript sessions.
-- **Hosting cost worries business decisions**: Recorded and processed during today's transcript sessions.
-- **Interface customization tutorial**: Recorded and processed during today's transcript sessions.
-- **Sports watching and commentary**: Recorded and processed during today's transcript sessions.
+- **Casual hangout with friends**
+- **Lout Definition in Song Lyrics**
+- **Tidal scheduling challenges**
+- **Mindfulness book writing with AI**
+- **Therapy Room Rental Discussion**
+- **Workplace stress and mental health**
+- **Vehicle System Settings Troubleshooting**
+- **Wellness practice space viewing**
+- **Building healing arts business website**
+- **Hosting cost worries business decisions**
+- **Interface customization tutorial**
+- **Sports watching and commentary**
 
 ---
 

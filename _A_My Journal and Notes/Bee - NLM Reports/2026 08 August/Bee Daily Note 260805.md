@@ -59,18 +59,18 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Tech issues and writing help**: Recorded and processed during today's transcript sessions.
-- **Weather talk before going out**: Recorded and processed during today's transcript sessions.
-- **Museum Meetup Traffic Delay Plan**: Recorded and processed during today's transcript sessions.
-- **Custom App Frustrations and San Francisco Tour**: Recorded and processed during today's transcript sessions.
-- **Driving directions to Geary restaurant**: Recorded and processed during today's transcript sessions.
-- **Andy's Horse Care Stories**: Recorded and processed during today's transcript sessions.
-- **Family museum, budget, retreat planning**: Recorded and processed during today's transcript sessions.
-- **Life update across multiple domains**: Recorded and processed during today's transcript sessions.
-- **Creating Structured Daily Report Workflow**: Recorded and processed during today's transcript sessions.
-- **Water quality report analysis session**: Recorded and processed during today's transcript sessions.
-- **Reporting woman near New Bridge**: Recorded and processed during today's transcript sessions.
-- **Emergency Call for Street Safety**: Recorded and processed during today's transcript sessions.
+- **Tech issues and writing help**
+- **Weather talk before going out**
+- **Museum Meetup Traffic Delay Plan**
+- **Custom App Frustrations and San Francisco Tour**
+- **Driving directions to Geary restaurant**
+- **Andy's Horse Care Stories**
+- **Family museum, budget, retreat planning**
+- **Life update across multiple domains**
+- **Creating Structured Daily Report Workflow**
+- **Water quality report analysis session**
+- **Reporting woman near New Bridge**
+- **Emergency Call for Street Safety**
 
 ---
 

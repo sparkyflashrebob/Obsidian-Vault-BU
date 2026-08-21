@@ -63,18 +63,18 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Voters of Tomorrow Organizing**: Recorded and processed during today's transcript sessions.
-- **Personal Story and Community Support**: Recorded and processed during today's transcript sessions.
-- **Honest attempts at relationship repair**: Recorded and processed during today's transcript sessions.
-- **Fitness adaptation strategies**: Recorded and processed during today's transcript sessions.
-- **Configuring Obsidian vault web access**: Recorded and processed during today's transcript sessions.
-- **Android Data Sync Developer Setup**: Recorded and processed during today's transcript sessions.
-- **Using AI for Programming Assistance**: Recorded and processed during today's transcript sessions.
-- **Parking tight arrival farewell**: Recorded and processed during today's transcript sessions.
-- **Technical troubleshooting session**: Recorded and processed during today's transcript sessions.
-- **Meditation and Deep Breathing**: Recorded and processed during today's transcript sessions.
-- **Vision quest group planning discussion**: Recorded and processed during today's transcript sessions.
-- **Andy's Search for Presidential Misconduct**: Recorded and processed during today's transcript sessions.
+- **Voters of Tomorrow Organizing**
+- **Personal Story and Community Support**
+- **Honest attempts at relationship repair**
+- **Fitness adaptation strategies**
+- **Configuring Obsidian vault web access**
+- **Android Data Sync Developer Setup**
+- **Using AI for Programming Assistance**
+- **Parking tight arrival farewell**
+- **Technical troubleshooting session**
+- **Meditation and Deep Breathing**
+- **Vision quest group planning discussion**
+- **Andy's Search for Presidential Misconduct**
 
 ---
 

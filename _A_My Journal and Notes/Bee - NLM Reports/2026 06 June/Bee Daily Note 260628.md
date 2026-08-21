@@ -50,14 +50,14 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Community college mindfulness opportunity**: Recorded and processed during today's transcript sessions.
-- **User asks abbreviations, preserving pre-collision**: Recorded and processed during today's transcript sessions.
-- **Therapy Space and Mindfulness Planning**: Recorded and processed during today's transcript sessions.
-- **Spiritual musings and practical struggles**: Recorded and processed during today's transcript sessions.
-- **Democratic party political discourse**: Recorded and processed during today's transcript sessions.
-- **US-Canada rivalry frustrations**: Recorded and processed during today's transcript sessions.
-- **Personal Memories and Harry Potter Lore**: Recorded and processed during today's transcript sessions.
-- **Random topics discussion**: Recorded and processed during today's transcript sessions.
+- **Community college mindfulness opportunity**
+- **User asks abbreviations, preserving pre-collision**
+- **Therapy Space and Mindfulness Planning**
+- **Spiritual musings and practical struggles**
+- **Democratic party political discourse**
+- **US-Canada rivalry frustrations**
+- **Personal Memories and Harry Potter Lore**
+- **Random topics discussion**
 
 ---
 

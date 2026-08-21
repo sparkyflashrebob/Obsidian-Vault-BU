@@ -50,14 +50,14 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Home tour for 1440 Ramona**: Recorded and processed during today's transcript sessions.
-- **Mattress Shopping with Spouse**: Recorded and processed during today's transcript sessions.
-- **Organizing documents and supporting daughter**: Recorded and processed during today's transcript sessions.
-- **Moving plans and housing search**: Recorded and processed during today's transcript sessions.
-- **Moving and life changes discussion**: Recorded and processed during today's transcript sessions.
-- **House hunting and childhood trauma**: Recorded and processed during today's transcript sessions.
-- **Housing Search Stress Discussion**: Recorded and processed during today's transcript sessions.
-- **House hunting with partner**: Recorded and processed during today's transcript sessions.
+- **Home tour for 1440 Ramona**
+- **Mattress Shopping with Spouse**
+- **Organizing documents and supporting daughter**
+- **Moving plans and housing search**
+- **Moving and life changes discussion**
+- **House hunting and childhood trauma**
+- **Housing Search Stress Discussion**
+- **House hunting with partner**
 
 ---
 

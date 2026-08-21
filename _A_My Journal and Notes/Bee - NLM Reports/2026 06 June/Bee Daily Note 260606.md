@@ -54,20 +54,20 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Energy healing class reflections**: Recorded and processed during today's transcript sessions.
-- **Helping with Notebook LM setup**: Recorded and processed during today's transcript sessions.
-- **Dinner planning miscommunication**: Recorded and processed during today's transcript sessions.
-- **Ordering breakfast at restaurant**: Recorded and processed during today's transcript sessions.
-- **Restaurant reservation and body scan meditation**: Recorded and processed during today's transcript sessions.
-- **Stoic principles and spiritual practice**: Recorded and processed during today's transcript sessions.
-- **Stoic Virtue and Mindfulness**: Recorded and processed during today's transcript sessions.
-- **Political News Briefing**: Recorded and processed during today's transcript sessions.
-- **Busy Saturday Breakfast Observations**: Recorded and processed during today's transcript sessions.
-- **Reflecting on political transformation videos**: Recorded and processed during today's transcript sessions.
-- **Discussing government conspiracy theories**: Recorded and processed during today's transcript sessions.
-- **Video discussion with Andy**: Recorded and processed during today's transcript sessions.
-- **Discussing LA and Bay Area**: Recorded and processed during today's transcript sessions.
-- **Watching crime show together**: Recorded and processed during today's transcript sessions.
+- **Energy healing class reflections**
+- **Helping with Notebook LM setup**
+- **Dinner planning miscommunication**
+- **Ordering breakfast at restaurant**
+- **Restaurant reservation and body scan meditation**
+- **Stoic principles and spiritual practice**
+- **Stoic Virtue and Mindfulness**
+- **Political News Briefing**
+- **Busy Saturday Breakfast Observations**
+- **Reflecting on political transformation videos**
+- **Discussing government conspiracy theories**
+- **Video discussion with Andy**
+- **Discussing LA and Bay Area**
+- **Watching crime show together**
 
 ---
 
