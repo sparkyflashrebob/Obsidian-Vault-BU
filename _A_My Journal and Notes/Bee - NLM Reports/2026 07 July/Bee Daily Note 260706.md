@@ -62,47 +62,47 @@ CC is an experimental AI productivity agent and can make mistakes, so double-che
 
  Top of mind 
  
-    5 min  Verify the security of your Google account and review the recent access granted to Duplicati to ensure the authorization was intentional [🔗&nbsp; Security Alert ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1869899115890630956) [📅&nbsp; Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Verify+Google+account+security+%28Duplicati%29&dates=20260706T090000%2F20260706T091500&ctz=America%2FLos_Angeles&details=Review+recent+access+granted+to+Duplicati+to+ensure+the+authorization+was+intentional.&location=&add=).
+    5 min  Verify the security of your Google account and review the recent access granted to Duplicati to ensure the authorization was intentional [🔗  Security Alert ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1869899115890630956) [📅  Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Verify+Google+account+security+%28Duplicati%29&dates=20260706T090000%2F20260706T091500&ctz=America%2FLos_Angeles&details=Review+recent+access+granted+to+Duplicati+to+ensure+the+authorization+was+intentional.&location=&add=).
    
      This alert was triggered for your sparkyflashrebob@gmail.com account on Sunday evening. 
     
-    10 min  Respond to three unread Instagram direct messages from Katie Mc Guire, Eric Miga, and John Mazetronic [🔗&nbsp; Instagram Notification ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1869905239709329458) [📅&nbsp; Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Respond+to+Instagram+DMs&dates=20260706T100000%2F20260706T101500&ctz=America%2FLos_Angeles&details=Reply+to+Katie+Mc+Guire%2C+Eric+Miga%2C+and+John+Mazetronic.&location=&add=).
+    10 min  Respond to three unread Instagram direct messages from Katie Mc Guire, Eric Miga, and John Mazetronic [🔗  Instagram Notification ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1869905239709329458) [📅  Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Respond+to+Instagram+DMs&dates=20260706T100000%2F20260706T101500&ctz=America%2FLos_Angeles&details=Reply+to+Katie+Mc+Guire%2C+Eric+Miga%2C+and+John+Mazetronic.&location=&add=).
    
      These messages have been pending since Sunday evening. 
     
-    15 min  Review new 2BR apartment leads in Pinole and Oakland provided by Apartment List for your ongoing residential search [🔗&nbsp; View Matches ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1869907740086259202).
+    15 min  Review new 2BR apartment leads in Pinole and Oakland provided by Apartment List for your ongoing residential search [🔗  View Matches ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1869907740086259202).
    
-      The Villas at Harbor Pointe (Pinole):  Units starting at $2,244 [🔗&nbsp; View Reviews ](https://www.apartmentratings.com/ca/pinole/villas-at-harbor-pointe_510724876194564/) 
-      Orion (Oakland):  Units starting at $3,174 [🔗&nbsp; View Reviews ](https://www.apartmentratings.com/ca/oakland/orion_9199332346275184950/) 
+      The Villas at Harbor Pointe (Pinole):  Units starting at $2,244 [🔗  View Reviews ](https://www.apartmentratings.com/ca/pinole/villas-at-harbor-pointe_510724876194564/) 
+      Orion (Oakland):  Units starting at $3,174 [🔗  View Reviews ](https://www.apartmentratings.com/ca/oakland/orion_9199332346275184950/) 
     
  
 
  On your calendar 
  
-   Mon, Jul 6 • 7:00 AM •  Morning Practice Zoom w/ Ed Brown  (1h 15m) [✨&nbsp; Join Zoom ](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09).
+   Mon, Jul 6 • 7:00 AM •  Morning Practice Zoom w/ Ed Brown  (1h 15m) [✨  Join Zoom ](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09).
    
      Password: beyond 
      Schedule: 7:00 free writing, 7:15 brief talk, 7:30 sitting, 7:55 visiting 
     
-   Mon, Jul 6 • 8:00 AM •  Landlord Property Inspection  (9h) at 326 Larkspur Plaza Drive [🔗&nbsp; View Invite ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1869722805479480548) [🔗&nbsp; Map ](https://www.google.com/maps/search/?api=1&query=326+Larkspur+Plaza+Drive).
+   Mon, Jul 6 • 8:00 AM •  Landlord Property Inspection  (9h) at 326 Larkspur Plaza Drive [🔗  View Invite ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1869722805479480548) [Map](https://www.google.com/maps/search/?api=1&query=326+Larkspur+Plaza+Drive).
    
      This inspection is for Irah, Bodhi, and Koda's residence and is scheduled to conclude by 5:00 PM. 
     
-   Mon, Jul 6 • 5:00 PM •  USA vs Belgium  (2h 30m) [📅&nbsp; View Event ](https://www.google.com/calendar/event?eid=NnBoamNjMWo2Y3JtMmI5cDY1aDY2YjlrY2NxMzhiOXA3MHNqZ2I5amNrcjNlYzMyY2hoM2VlMzE2ZyBzcGFya3lmbGFzaHJlYm9iQG0). 
-   Tue, Jul 7 • 7:00 AM •  Morning Practice Zoom w/ Ed Brown  (1h 15m) [✨&nbsp; Join Zoom ](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09).
+   Mon, Jul 6 • 5:00 PM •  USA vs Belgium  (2h 30m) [📅  View Event ](https://www.google.com/calendar/event?eid=NnBoamNjMWo2Y3JtMmI5cDY1aDY2YjlrY2NxMzhiOXA3MHNqZ2I5amNrcjNlYzMyY2hoM2VlMzE2ZyBzcGFya3lmbGFzaHJlYm9iQG0). 
+   Tue, Jul 7 • 7:00 AM •  Morning Practice Zoom w/ Ed Brown  (1h 15m) [✨  Join Zoom ](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09).
    
      Password: beyond 
     
-   Tue, Jul 7 • 9:00 AM •  Fidelity Webinar: What are the charts telling us?  (1h) [🔗&nbsp; Attend Event ](http://Fidelityevents.com/charts070726/virtual?guest-access-hash=NDU5MzAxNDU1fDg3NjE3MDkxM3wxNzgyNzY1MTg0O2Y3NjIxMTgyMWM2NjQ3ODIyZjQ2YzRhMzk2MWUxNzRiZDM2OTM1MWRmZjc1NGE4MDU1ODQxNDMxZjNhNzk1ZTY%3D).
+   Tue, Jul 7 • 9:00 AM •  Fidelity Webinar: What are the charts telling us?  (1h) [🔗  Attend Event ](http://Fidelityevents.com/charts070726/virtual?guest-access-hash=NDU5MzAxNDU1fDg3NjE3MDkxM3wxNzgyNzY1MTg0O2Y3NjIxMTgyMWM2NjQ3ODIyZjQ2YzRhMzk2MWUxNzRiZDM2OTM1MWRmZjc1NGE4MDU1ODQxNDMxZjNhNzk1ZTY%3D).
    
      Recommended to join via desktop for the best experience. 
     
-   Tue, Jul 7 • 12:00 PM •  Earth Funeral Webinar  (1h) [🔗&nbsp; View Link ](https://u23564772.ct.sendgrid.net/ls/click?upn=u001.-2FaHWX6WARnCX2mnJvgByjx1o2wtOzUHWrLQkvcAjdyZfonAmbm1YftXxqBLZdDaXBvxlBeVQOLpTG5ii5O96rjti8RIe-2B1SqsfXiI10nJg5ZzNqybx1dhuj5Z2gVASV-2FHZ8o3wZDVGGnCLUOpejcbeJLox2MoxVjf0dRcCyDe-2F1R7F-2BXs-2BWwuGPl053agrXW7a6eq621Zv294VbUbd3wBnCffa6zf-2FdYn0vj62PQ3aCekjvmFUgJ9VSzHxn7cBHDiRMgP8HeOUBkigoCECqxlxYM6N8SPm0d0vnYxOOlBb8-3DyIaF_MJCYLwyT2nXaA8C4dlYQwnlxhVFAhWqH77RYJ6HtkghVytmpaXWkrv6YEqjnNXQ6fryx7HoNHBEhAnWGewB0LQz90QDV9-2BuufQ-2F6rysBogHs9G4VgfknQrRuPLieSkeVLGeMWdHoqBvxNwM92aLCe9E-2FahGfWfWUNyG9GFpt5r-2B2rAlL8g5GhpFIbg-2FhkbkhJVtdew5Z7rEEZ5yTyOrExvYh0OdxsqJU8DWE6nLwHPnC-2F6i3ntsgzjTMUr4yRQJ6MZM0Gsan1RwHRlREK-2FR6vTlRK4M4C0Sx36sxgGhfWG2p72puPjpay8-2FoEyhaaKRMNs0SmUf5OjLnVqsXa4towU-2BmJezNvwz6nXvlEYzI5-2FBhdoz0Xs4PmoU2kgCZjpj0KmZHpVvi4A5YtZAU3WNfMnSwgAF-2Bbp40BxOyriJh7Bs-3D). 
+   Tue, Jul 7 • 12:00 PM •  Earth Funeral Webinar  (1h) [🔗  View Link ](https://u23564772.ct.sendgrid.net/ls/click?upn=u001.-2FaHWX6WARnCX2mnJvgByjx1o2wtOzUHWrLQkvcAjdyZfonAmbm1YftXxqBLZdDaXBvxlBeVQOLpTG5ii5O96rjti8RIe-2B1SqsfXiI10nJg5ZzNqybx1dhuj5Z2gVASV-2FHZ8o3wZDVGGnCLUOpejcbeJLox2MoxVjf0dRcCyDe-2F1R7F-2BXs-2BWwuGPl053agrXW7a6eq621Zv294VbUbd3wBnCffa6zf-2FdYn0vj62PQ3aCekjvmFUgJ9VSzHxn7cBHDiRMgP8HeOUBkigoCECqxlxYM6N8SPm0d0vnYxOOlBb8-3DyIaF_MJCYLwyT2nXaA8C4dlYQwnlxhVFAhWqH77RYJ6HtkghVytmpaXWkrv6YEqjnNXQ6fryx7HoNHBEhAnWGewB0LQz90QDV9-2BuufQ-2F6rysBogHs9G4VgfknQrRuPLieSkeVLGeMWdHoqBvxNwM92aLCe9E-2FahGfWfWUNyG9GFpt5r-2B2rAlL8g5GhpFIbg-2FhkbkhJVtdew5Z7rEEZ5yTyOrExvYh0OdxsqJU8DWE6nLwHPnC-2F6i3ntsgzjTMUr4yRQJ6MZM0Gsan1RwHRlREK-2FR6vTlRK4M4C0Sx36sxgGhfWG2p72puPjpay8-2FoEyhaaKRMNs0SmUf5OjLnVqsXa4towU-2BmJezNvwz6nXvlEYzI5-2FBhdoz0Xs4PmoU2kgCZjpj0KmZHpVvi4A5YtZAU3WNfMnSwgAF-2Bbp40BxOyriJh7Bs-3D). 
    Ongoing Events & Reminders:
    
-      World Cup:  Ongoing through Jul 20 [📅&nbsp; View Event ](https://www.google.com/calendar/event?eid=NXZldnVrOTBic21oNjlvaGNnMzdoZWkyMHQgc3Bhcmt5Zmxhc2hyZWJvYkBt) 
-      Coursiv Subscription:  Active today and tomorrow [📅&nbsp; View Event ](https://www.google.com/calendar/event?eid=MnNkMzBjMmdwazg2YmVjNTEzbDR0czJyb21fMjAyNjA3MDYgc3Bhcmt5Zmxhc2hyZWJvYkBt) 
-      Victoria Gentle Memorial:  Tue, Jul 7 (Anniversary of passing in 2019) [📅&nbsp; View Event ](https://www.google.com/calendar/event?eid=NmdzbTRlOWxjZGltYWJiNTcwcGoyYjlrYzVoNjhiYjE2bGltNGI5aTZsaTZjb2I2NnBnbTJwMzQ2MF8yMDI2MDcwNyBzcGFya3lmbGFzaHJlYm9iQG0) 
+      World Cup:  Ongoing through Jul 20 [📅  View Event ](https://www.google.com/calendar/event?eid=NXZldnVrOTBic21oNjlvaGNnMzdoZWkyMHQgc3Bhcmt5Zmxhc2hyZWJvYkBt) 
+      Coursiv Subscription:  Active today and tomorrow [📅  View Event ](https://www.google.com/calendar/event?eid=MnNkMzBjMmdwazg2YmVjNTEzbDR0czJyb21fMjAyNjA3MDYgc3Bhcmt5Zmxhc2hyZWJvYkBt) 
+      Victoria Gentle Memorial:  Tue, Jul 7 (Anniversary of passing in 2019) [📅  View Event ](https://www.google.com/calendar/event?eid=NmdzbTRlOWxjZGltYWJiNTcwcGoyYjlrYzVoNjhiYjE2bGltNGI5aTZsaTZjb2I2NnBnbTJwMzQ2MF8yMDI2MDcwNyBzcGFya3lmbGFzaHJlYm9iQG0) 
     
  
 
@@ -110,9 +110,9 @@ CC is an experimental AI productivity agent and can make mistakes, so double-che
  
    Track your incoming shipments and community updates.
    
-      Amazon Delivery:  Your Linenspa Memory Foam Mattress Topper is expected to arrive at the Larkspur address tomorrow, Tue, Jul 7 [🔗&nbsp; Tracking Info ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1869901336111571249) 
-      Insta360 Shipment:  The Link 2C Standard Bundle has been shipped to the Larkspur Plaza Dr address [🔗&nbsp; Shipment Notification ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1869872915596404192) 
-      Buddhist Studies:  Review the latest update on the Temple Construction project and fundraising efforts by David Roylance for the Chiang Mai community [🔗&nbsp; Temple Update ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1869865656911214957) 
+      Amazon Delivery:  Your Linenspa Memory Foam Mattress Topper is expected to arrive at the Larkspur address tomorrow, Tue, Jul 7 [🔗  Tracking Info ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1869901336111571249) 
+      Insta360 Shipment:  The Link 2C Standard Bundle has been shipped to the Larkspur Plaza Dr address [🔗  Shipment Notification ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1869872915596404192) 
+      Buddhist Studies:  Review the latest update on the Temple Construction project and fundraising efforts by David Roylance for the Chiang Mai community [🔗  Temple Update ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1869865656911214957) 
     
  
 
@@ -142,8 +142,8 @@ CC is an experimental AI productivity agent and can make mistakes, so double-che
    
      💬 What do you think about this email? 
      
-      [ 👍 ](https://docs.google.com/forms/d/e/1FAIpQLSc1bdcDhGCWZQ131lTfvHGeyv76Zlcz6sXLV30gBtQbCzHyIQ/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8D+Useful)
-      [ 👎 ](https://docs.google.com/forms/d/e/1FAIpQLSc1bdcDhGCWZQ131lTfvHGeyv76Zlcz6sXLV30gBtQbCzHyIQ/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8E+Not+useful)
+      [👍 ](https://docs.google.com/forms/d/e/1FAIpQLSc1bdcDhGCWZQ131lTfvHGeyv76Zlcz6sXLV30gBtQbCzHyIQ/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8D+Useful)
+      [👎 ](https://docs.google.com/forms/d/e/1FAIpQLSc1bdcDhGCWZQ131lTfvHGeyv76Zlcz6sXLV30gBtQbCzHyIQ/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8E+Not+useful)
      
      
       🔬 Want to help improve CC further? [Sign up for user research opportunities](https://forms.gle/mSZLnsScUpa9i42b7).

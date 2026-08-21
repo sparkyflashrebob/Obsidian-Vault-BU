@@ -21,9 +21,9 @@ This day served as a critical nexus between the ongoing technical requirements f
 \*   \*\*Insurance Integration:\*\* Finalized the transition to Medicare and Kaiser. The cost breakdown is meticulously documented: \*\*Medicare Part B ($200)\*\* and the \*\*Kaiser Supplement ($90)\*\*, totaling $290 monthly. Coverage is confirmed to initiate on May 1st.
 
 ### Action Items
-- \[ \] \*\*Brad/Nick:\*\* Verify if standalone display timers can be set for automatic power-cycling in the Reception area.
-- \[ \] \*\*Technical Lead:\*\* Finalize the reply to the Cabin 2 change order email.
-- \[ \] \*\*Admin:\*\* Process the initial Medicare Part B enrollment confirmation.
+- \[\] \*\*Brad/Nick:\*\* Verify if standalone display timers can be set for automatic power-cycling in the Reception area.
+- \[\] \*\*Technical Lead:\*\* Finalize the reply to the Cabin 2 change order email.
+- \[\] \*\*Admin:\*\* Process the initial Medicare Part B enrollment confirmation.
 
 > \*\*Connective Tissue:\*\* With the infrastructure logic simplified in the drawings, the following day focused on resolving critical spatial constraints identified during the hardware specification phase.
 
@@ -46,9 +46,9 @@ The strategic challenge for the "Reception" area involves a significant spatial 
 \*   \*\*Cable Schedule:\*\* Modified the pull list to include two Cat cables for the Reception extender to support the HDBaseT path back to the main switch.
 
 ### Action Items
-- \[ \] \*\*Mick:\*\* Process the ICO for the HDBaseT wall-plate units and Windy City cables.
-- \[ \] \*\*Mick:\*\* Update functional drawings to reflect the BrightSign player relocation to the Canteen rack.
-- \[ \] \*\*Engineering:\*\* Confirm final cable routing for the 110" display back to the Canteen switch.
+- \[\] \*\*Mick:\*\* Process the ICO for the HDBaseT wall-plate units and Windy City cables.
+- \[\] \*\*Mick:\*\* Update functional drawings to reflect the BrightSign player relocation to the Canteen rack.
+- \[\] \*\*Engineering:\*\* Confirm final cable routing for the 110" display back to the Canteen switch.
 
 > \*\*Connective Tissue:\*\* Resolving the spatial constraints of the players allowed the team to pivot toward the final structural RFIs required for the LED wall installation.
 
@@ -77,9 +77,9 @@ Securing the structural integrity of the site before departure is paramount. Tod
 \*   \*\*Communication Protocols:\*\* Finalized the transfer of Zoom and Slack contact protocols to the remaining team.
 
 ### Action Items
-- \[ \] \*\*Mick:\*\* Issue RFI #4 in Procore regarding LED wall backing and ventilation.
-- \[ \] \*\*Mick:\*\* Confirm receipt of the ABDG Final CAD plot styles.
-- \[ \] \*\*Justin/Britney:\*\* Correct and resubmit the Medicare verification forms.
+- \[\] \*\*Mick:\*\* Issue RFI #4 in Procore regarding LED wall backing and ventilation.
+- \[\] \*\*Mick:\*\* Confirm receipt of the ABDG Final CAD plot styles.
+- \[\] \*\*Justin/Britney:\*\* Correct and resubmit the Medicare verification forms.
 
 > \*\*Connective Tissue:\*\* With technical RFIs and commissioning warnings documented, the focus shifted to a final, comprehensive file migration.
 
@@ -99,8 +99,8 @@ Ensuring "Absolute Data Integrity" is the final professional obligation of this 
 \*   \*\*Reflection on Workflow:\*\* The professional environment has become characterized by constant "second-guessing" and consultant friction. This "toxic" atmosphere validated the strategic decision to retire, shifting my focus toward health management and family advocacy.
 
 ### Action Items
-- \[ \] Verify the final sync of the ABDG "Final" folder.
-- \[ \] Coordinate final dental appointment regarding bone mass and partials.
+- \[\] Verify the final sync of the ABDG "Final" folder.
+- \[\] Coordinate final dental appointment regarding bone mass and partials.
 
 > \*\*Connective Tissue:\*\* The completion of file migration marked the end of the professional chapter, leading into a weekend of personal recovery and financial planning.
 
@@ -126,8 +126,8 @@ Retirement requires a shift from engineering AV systems to engineering a sustain
 \*   \*\*Principal Protection:\*\* Evaluated short-term annuities (3-5 year) offering \*\*4.6% interest\*\*. These provide principal protection while allowing for a \*\*10% annual withdrawal\*\* if necessary to cover the $1,800–$2,000 monthly distribution goal.
 
 ### Action Items
-- \[ \] Initiate the IRA rollover to Fidelity.
-- \[ \] Confirm the 24-month CD ladder for Bucket 2.
+- \[\] Initiate the IRA rollover to Fidelity.
+- \[\] Confirm the 24-month CD ladder for Bucket 2.
 
 > \*\*Connective Tissue:\*\* With the financial roadmap established, the final day of the period focused on regulatory compliance and family crisis management.
 
@@ -152,8 +152,8 @@ The final day of this log involved navigating the Social Security "Earnings Test
 \*   \*\*Family Support:\*\* Managed house packing and childcare for Capri (with Duncan and Julia). Asserted firm boundaries to ensure "James" is excluded from the recovery environment.
 
 ### Action Items
-- \[ \] Submit the formal Social Security earnings contest/Special Monthly Test form.
-- \[ \] Finalize the childcare and school rotation for Capri.
+- \[\] Submit the formal Social Security earnings contest/Special Monthly Test form.
+- \[\] Finalize the childcare and school rotation for Capri.
 
 > \*\*Connective Tissue:\*\* This concludes the period, marking a definitive transition into a life of personal advocacy and community health.
 

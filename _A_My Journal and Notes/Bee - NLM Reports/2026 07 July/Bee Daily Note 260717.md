@@ -52,21 +52,21 @@ CC is an experimental AI productivity agent and can make mistakes, so double-che
 
  Top of mind 
  
-   Health Alert: A parasitic outbreak (cyclosporiasis) has been linked to shredded iceberg lettuce in the Larkspur-Corte Madera area as of Jul 16. Consumers are advised to check lettuce sources due to severe gastrointestinal risks [🔗&nbsp; view alert ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870925164900657477).
+   Health Alert: A parasitic outbreak (cyclosporiasis) has been linked to shredded iceberg lettuce in the Larkspur-Corte Madera area as of Jul 16. Consumers are advised to check lettuce sources due to severe gastrointestinal risks [🔗  view alert ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870925164900657477).
    
      The outbreak has affected nearly 7,000 people across 30 states. 
     
-    5 min  Consider using the $500 Earth Funeral discount code FAMILY500 at checkout; this special offer expires today, Friday, July 17th [🔗&nbsp; view offer ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870101626207521593) [📅&nbsp; Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Reminder%3A+Earth+Funeral+Discount+Expires+Today&dates=20260717T090000%2F20260717T100000&ctz=America%2FLos_Angeles&details=Use+discount+code+FAMILY500+at+checkout.+Offer+expires+today.&location=&add=).
+    5 min  Consider using the $500 Earth Funeral discount code FAMILY500 at checkout; this special offer expires today, Friday, July 17th [🔗  view offer ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870101626207521593) [📅  Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Reminder%3A+Earth+Funeral+Discount+Expires+Today&dates=20260717T090000%2F20260717T100000&ctz=America%2FLos_Angeles&details=Use+discount+code+FAMILY500+at+checkout.+Offer+expires+today.&location=&add=).
    
      The code can be applied on the quote page at checkout. 
     
-   Today •  World Cup  (Ongoing) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=NXZldnVrOTBic21oNjlvaGNnMzdoZWkyMHQgc3Bhcmt5Zmxhc2hyZWJvYkBt). 
-   Today •  Quit Smoking Anniversary  [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=NTB0czVnYml2M2xwcXVzM3FocXBtbXQ5Y2NfMjAyNjA3MTcgc3Bhcmt5Zmxhc2hyZWJvYkBt). 
-   Today • 12:00 PM •  Water Shut-off for Apt 324  (5h) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=N2tyZ2ozNm1tYjRuOGxtYTJzdDdsMnVtMzMgc3Bhcmt5Zmxhc2hyZWJvYkBt).
+   Today •  World Cup  (Ongoing) [View event](https://www.google.com/calendar/event?eid=NXZldnVrOTBic21oNjlvaGNnMzdoZWkyMHQgc3Bhcmt5Zmxhc2hyZWJvYkBt). 
+   Today •  Quit Smoking Anniversary  [View event](https://www.google.com/calendar/event?eid=NTB0czVnYml2M2xwcXVzM3FocXBtbXQ5Y2NfMjAyNjA3MTcgc3Bhcmt5Zmxhc2hyZWJvYkBt). 
+   Today • 12:00 PM •  Water Shut-off for Apt 324  (5h) [View event](https://www.google.com/calendar/event?eid=N2tyZ2ozNm1tYjRuOGxtYTJzdDdsMnVtMzMgc3Bhcmt5Zmxhc2hyZWJvYkBt).
    
      Andrea Axtell noted the timing aligns well with your planned movie outing. 
     
-   Today • 2:20 PM •  The Odyssey in Premium Large Format  (1h) at CinemaWest Fairfax Theatre, 9 Broadway, Fairfax, CA 94930 [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=YWJzMWttNDNydmZvcThtMzVsY2szcmczNTAgc3Bhcmt5Zmxhc2hyZWJvYkBt) [🔗&nbsp; Map ](https://www.google.com/maps/search/?api=1&query=CinemaWest+Fairfax+Theatre+%26+Giant+Screen%2C+9+Broadway%2C+Fairfax%2C+CA%2C+94930).
+   Today • 2:20 PM •  The Odyssey in Premium Large Format  (1h) at CinemaWest Fairfax Theatre, 9 Broadway, Fairfax, CA 94930 [View event](https://www.google.com/calendar/event?eid=YWJzMWttNDNydmZvcThtMzVsY2szcmczNTAgc3Bhcmt5Zmxhc2hyZWJvYkBt) [Map](https://www.google.com/maps/search/?api=1&query=CinemaWest+Fairfax+Theatre+%26+Giant+Screen%2C+9+Broadway%2C+Fairfax%2C+CA%2C+94930).
    
      Andrea Axtell confirmed the timing is perfect to be out during the scheduled water shut-off. 
     
@@ -74,31 +74,31 @@ CC is an experimental AI productivity agent and can make mistakes, so double-che
 
  On your calendar 
  
-   Today •  World Cup  (Ongoing) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=NXZldnVrOTBic21oNjlvaGNnMzdoZWkyMHQgc3Bhcmt5Zmxhc2hyZWJvYkBt). 
-   Today •  Quit Smoking Anniversary  [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=NTB0czVnYml2M2xwcXVzM3FocXBtbXQ5Y2NfMjAyNjA3MTcgc3Bhcmt5Zmxhc2hyZWJvYkBt). 
-   Today • 12:00 PM •  Water Shut-off for Apt 324  (5h) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=N2tyZ2ozNm1tYjRuOGxtYTJzdDdsMnVtMzMgc3Bhcmt5Zmxhc2hyZWJvYkBt). 
-   Today • 2:20 PM •  The Odyssey in Premium Large Format  (1h) at CinemaWest Fairfax Theatre, 9 Broadway, Fairfax, CA 94930 [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=YWJzMWttNDNydmZvcThtMzVsY2szcmczNTAgc3Bhcmt5Zmxhc2hyZWJvYkBt) [🔗&nbsp; Map ](https://www.google.com/maps/search/?api=1&query=CinemaWest+Fairfax+Theatre+%26+Giant+Screen%2C+9+Broadway%2C+Fairfax%2C+CA%2C+94930). 
-   Sat, Jul 18 • 12:00 PM •  World Cup 3rd Place Game  (3h) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=N2ppbTczMXZydXMwOWhpMzc4bTNscWFhamsgc3Bhcmt5Zmxhc2hyZWJvYkBt). 
-   Sat, Jul 18 • 7:00 PM •  Saturday Night Puja  (2h) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=NjVpamNvcGc2Y3BqZWI5ZzcwcG1hYjlrNzRwajRiYjFjNWdtNGI5Z2NwaTYyZTMxY2NwNjJjMW1jZ18yMDI2MDcxOVQwMjAwMDBaIHNwYXJreWZsYXNocmVib2JAbQ). 
+   Today •  World Cup  (Ongoing) [View event](https://www.google.com/calendar/event?eid=NXZldnVrOTBic21oNjlvaGNnMzdoZWkyMHQgc3Bhcmt5Zmxhc2hyZWJvYkBt). 
+   Today •  Quit Smoking Anniversary  [View event](https://www.google.com/calendar/event?eid=NTB0czVnYml2M2xwcXVzM3FocXBtbXQ5Y2NfMjAyNjA3MTcgc3Bhcmt5Zmxhc2hyZWJvYkBt). 
+   Today • 12:00 PM •  Water Shut-off for Apt 324  (5h) [View event](https://www.google.com/calendar/event?eid=N2tyZ2ozNm1tYjRuOGxtYTJzdDdsMnVtMzMgc3Bhcmt5Zmxhc2hyZWJvYkBt). 
+   Today • 2:20 PM •  The Odyssey in Premium Large Format  (1h) at CinemaWest Fairfax Theatre, 9 Broadway, Fairfax, CA 94930 [View event](https://www.google.com/calendar/event?eid=YWJzMWttNDNydmZvcThtMzVsY2szcmczNTAgc3Bhcmt5Zmxhc2hyZWJvYkBt) [Map](https://www.google.com/maps/search/?api=1&query=CinemaWest+Fairfax+Theatre+%26+Giant+Screen%2C+9+Broadway%2C+Fairfax%2C+CA%2C+94930). 
+   Sat, Jul 18 • 12:00 PM •  World Cup 3rd Place Game  (3h) [View event](https://www.google.com/calendar/event?eid=N2ppbTczMXZydXMwOWhpMzc4bTNscWFhamsgc3Bhcmt5Zmxhc2hyZWJvYkBt). 
+   Sat, Jul 18 • 7:00 PM •  Saturday Night Puja  (2h) [View event](https://www.google.com/calendar/event?eid=NjVpamNvcGc2Y3BqZWI5ZzcwcG1hYjlrNzRwajRiYjFjNWdtNGI5Z2NwaTYyZTMxY2NwNjJjMW1jZ18yMDI2MDcxOVQwMjAwMDBaIHNwYXJreWZsYXNocmVib2JAbQ). 
  
 
  FYI 
  
-   Sat, Jul 18 • 12:00 PM •  World Cup 3rd Place Game  (3h) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=N2ppbTczMXZydXMwOWhpMzc4bTNscWFhamsgc3Bhcmt5Zmxhc2hyZWJvYkBt). 
-   Sat, Jul 18 • 7:00 PM •  Saturday Night Puja  (2h) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=NjVpamNvcGc2Y3BqZWI5ZzcwcG1hYjlrNzRwajRiYjFjNWdtNGI5Z2NwaTYyZTMxY2NwNjJjMW1jZ18yMDI2MDcxOVQwMjAwMDBaIHNwYXJreWZsYXNocmVib2JAbQ). 
+   Sat, Jul 18 • 12:00 PM •  World Cup 3rd Place Game  (3h) [View event](https://www.google.com/calendar/event?eid=N2ppbTczMXZydXMwOWhpMzc4bTNscWFhamsgc3Bhcmt5Zmxhc2hyZWJvYkBt). 
+   Sat, Jul 18 • 7:00 PM •  Saturday Night Puja  (2h) [View event](https://www.google.com/calendar/event?eid=NjVpamNvcGc2Y3BqZWI5ZzcwcG1hYjlrNzRwajRiYjFjNWdtNGI5Z2NwaTYyZTMxY2NwNjJjMW1jZ18yMDI2MDcxOVQwMjAwMDBaIHNwYXJreWZsYXNocmVib2JAbQ). 
    Upcoming social and community events in the area.
    
-      Corte Madera Concert:  The Westones perform on Sun, Jul 19 at 5:00 PM at Corte Madera Town Park, 498 Tamalpais Dr [🔗&nbsp; view details ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870918013705802430) [🔗&nbsp; Map ](https://www.google.com/maps/search/?api=1&query=Corte+Madera+Town+Park%2C+498+Tamalpais+Dr%2C+Corte+Madera%2C+CA+94925) [📅&nbsp; Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Corte+Madera+Concert%3A+The+Westones&dates=20260719T170000%2F20260719T190000&ctz=America%2FLos_Angeles&details=The+Westones+perform+at+Corte+Madera+Town+Park.&location=Corte+Madera+Town+Park%2C+498+Tamalpais+Dr%2C+Corte+Madera%2C+CA+94925&add=). 
-      Living Mindfully:  Weekly meditation and council meeting on Sun, Jul 19 from 5:00 PM to 6:30 PM via [✨&nbsp; Google Meet ](https://meet.google.com/oxf-rdfm-kmn?hs=224) [🔗&nbsp; view details ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870922805526533010) [📅&nbsp; Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Living+Mindfully+Meditation+%26+Council+Meeting&dates=20260719T170000%2F20260719T183000&ctz=America%2FLos_Angeles&details=Weekly+meditation+and+council+meeting.+Join+via+Google+Meet%3A+https%3A%2F%2Fmeet.google.com%2Foxf-rdfm-kmn%3Fhs%3D224&location=Online+via+Google+Meet&add=). 
-      Maria Muldaur:  Jazz concert on Sat, Jul 25 at 7:30 PM at 549 Magnolia Ave, Larkspur [🔗&nbsp; view details ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870918013705802430) [🔗&nbsp; Map ](https://www.google.com/maps/search/?api=1&query=549+Magnolia+Ave%2C+Larkspur%2C+CA+94939) [📅&nbsp; Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Maria+Muldaur+Jazz+Concert&dates=20260725T193000%2F20260725T213000&ctz=America%2FLos_Angeles&details=Jazz+concert+at+549+Magnolia+Ave%2C+Larkspur.&location=549+Magnolia+Ave%2C+Larkspur%2C+CA+94939&add=). 
-      Dictator Tots:  Performing at Mac's 19 Broadway, Fairfax on Sat, Aug 29 from 8:30 PM to 10:30 PM [🔗&nbsp; view details ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870888756469171433) [🔗&nbsp; Map ](https://www.google.com/maps/search/?api=1&query=Mac%27s+19+Broadway%2C+Fairfax%2C+CA) [📅&nbsp; View Event ](https://www.google.com/calendar/event?eid=Nm9yajZkaGxjbGhqZ2JiMTZvcDMyYjlrNnNwM2NiOXA2NHBtOGI5aTc1aWppcGhpNjRxM2dwMXBjNCBzcGFya3lmbGFzaHJlYm9iQG0). 
+      Corte Madera Concert:  The Westones perform on Sun, Jul 19 at 5:00 PM at Corte Madera Town Park, 498 Tamalpais Dr [🔗  view details ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870918013705802430) [Map](https://www.google.com/maps/search/?api=1&query=Corte+Madera+Town+Park%2C+498+Tamalpais+Dr%2C+Corte+Madera%2C+CA+94925) [Add Event](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Corte+Madera+Concert%3A+The+Westones&dates=20260719T170000%2F20260719T190000&ctz=America%2FLos_Angeles&details=The+Westones+perform+at+Corte+Madera+Town+Park.&location=Corte+Madera+Town+Park%2C+498+Tamalpais+Dr%2C+Corte+Madera%2C+CA+94925&add=). 
+      Living Mindfully:  Weekly meditation and council meeting on Sun, Jul 19 from 5:00 PM to 6:30 PM via [Google Meet](https://meet.google.com/oxf-rdfm-kmn?hs=224) [🔗  view details ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870922805526533010) [Add Event](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Living+Mindfully+Meditation+%26+Council+Meeting&dates=20260719T170000%2F20260719T183000&ctz=America%2FLos_Angeles&details=Weekly+meditation+and+council+meeting.+Join+via+Google+Meet%3A+https%3A%2F%2Fmeet.google.com%2Foxf-rdfm-kmn%3Fhs%3D224&location=Online+via+Google+Meet&add=). 
+      Maria Muldaur:  Jazz concert on Sat, Jul 25 at 7:30 PM at 549 Magnolia Ave, Larkspur [🔗  view details ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870918013705802430) [Map](https://www.google.com/maps/search/?api=1&query=549+Magnolia+Ave%2C+Larkspur%2C+CA+94939) [Add Event](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Maria+Muldaur+Jazz+Concert&dates=20260725T193000%2F20260725T213000&ctz=America%2FLos_Angeles&details=Jazz+concert+at+549+Magnolia+Ave%2C+Larkspur.&location=549+Magnolia+Ave%2C+Larkspur%2C+CA+94939&add=). 
+      Dictator Tots:  Performing at Mac's 19 Broadway, Fairfax on Sat, Aug 29 from 8:30 PM to 10:30 PM [🔗  view details ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870888756469171433) [Map](https://www.google.com/maps/search/?api=1&query=Mac%27s+19+Broadway%2C+Fairfax%2C+CA) [📅  View Event ](https://www.google.com/calendar/event?eid=Nm9yajZkaGxjbGhqZ2JiMTZvcDMyYjlrNnNwM2NiOXA2NHBtOGI5aTc1aWppcGhpNjRxM2dwMXBjNCBzcGFya3lmbGFzaHJlYm9iQG0). 
     
    Recent financial and administrative updates.
    
-      Earth Funeral:  Welcome pack (including 5 membership cards) expected by Fri, Jul 24 [🔗&nbsp; view status ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870362527398373514) [📅&nbsp; Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Reminder%3A+Earth+Funeral+Welcome+Pack+Expected&dates=20260724T090000%2F20260724T100000&ctz=America%2FLos_Angeles&details=Welcome+pack+including+5+membership+cards+expected+today.&location=&add=). 
-      Bank of America:  Statement available for card ending 6263; $0.00 balance due [🔗&nbsp; view statement ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870885074657869002). 
-      Fidelity:  Trade confirmations for money market and treasury bonds processed on Jul 16 [🔗&nbsp; view trades ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870865417722762977). 
-      Ugift:  529 gift processing initiated on Jul 16; funds expected to post within five business days [🔗&nbsp; view status ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870903911066609254). 
+      Earth Funeral:  Welcome pack (including 5 membership cards) expected by Fri, Jul 24 [🔗  view status ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870362527398373514) [📅  Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Reminder%3A+Earth+Funeral+Welcome+Pack+Expected&dates=20260724T090000%2F20260724T100000&ctz=America%2FLos_Angeles&details=Welcome+pack+including+5+membership+cards+expected+today.&location=&add=). 
+      Bank of America:  Statement available for card ending 6263; $0.00 balance due [🔗  view statement ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870885074657869002). 
+      Fidelity:  Trade confirmations for money market and treasury bonds processed on Jul 16 [🔗  view trades ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870865417722762977). 
+      Ugift:  529 gift processing initiated on Jul 16; funds expected to post within five business days [🔗  view status ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870903911066609254). 
     
  
 
@@ -128,8 +128,8 @@ CC is an experimental AI productivity agent and can make mistakes, so double-che
    
      💬 What do you think about this email? 
      
-      [ 👍 ](https://docs.google.com/forms/d/e/1FAIpQLSc1bdcDhGCWZQ131lTfvHGeyv76Zlcz6sXLV30gBtQbCzHyIQ/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8D+Useful)
-      [ 👎 ](https://docs.google.com/forms/d/e/1FAIpQLSc1bdcDhGCWZQ131lTfvHGeyv76Zlcz6sXLV30gBtQbCzHyIQ/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8E+Not+useful)
+      [👍 ](https://docs.google.com/forms/d/e/1FAIpQLSc1bdcDhGCWZQ131lTfvHGeyv76Zlcz6sXLV30gBtQbCzHyIQ/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8D+Useful)
+      [👎 ](https://docs.google.com/forms/d/e/1FAIpQLSc1bdcDhGCWZQ131lTfvHGeyv76Zlcz6sXLV30gBtQbCzHyIQ/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8E+Not+useful)
      
      
       🔬 Want to help improve CC further? [Sign up for user research opportunities](https://forms.gle/mSZLnsScUpa9i42b7).

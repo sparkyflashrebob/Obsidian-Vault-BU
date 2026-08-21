@@ -222,8 +222,8 @@ On Fri, Aug 21, 2026 at 9:08 AM sparkyflashrebob@gmail.com wrote:
    
      💬 What do you think about this email? 
      
-      [ 👍 ](https://docs.google.com/forms/d/e/1FAIpQLSfGPGkFp-YwBA_vcSLpUqSo9glbxn-0rKy8i3O2hUhl9IS_Xg/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8D+Useful)
-      [ 👎 ](https://docs.google.com/forms/d/e/1FAIpQLSfGPGkFp-YwBA_vcSLpUqSo9glbxn-0rKy8i3O2hUhl9IS_Xg/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8E+Not+useful)
+      [👍 ](https://docs.google.com/forms/d/e/1FAIpQLSfGPGkFp-YwBA_vcSLpUqSo9glbxn-0rKy8i3O2hUhl9IS_Xg/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8D+Useful)
+      [👎 ](https://docs.google.com/forms/d/e/1FAIpQLSfGPGkFp-YwBA_vcSLpUqSo9glbxn-0rKy8i3O2hUhl9IS_Xg/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8E+Not+useful)
      
      
       🔬 Want to help improve CC further? [Sign up for user research opportunities](https://forms.gle/mSZLnsScUpa9i42b7).

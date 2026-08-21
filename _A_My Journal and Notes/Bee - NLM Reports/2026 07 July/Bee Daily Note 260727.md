@@ -60,62 +60,62 @@ CC is an experimental AI productivity agent and can make mistakes, so double-che
 
  Top of mind 
  
-    15 min  Pick up prescriptions for Ronald McGuire at CVS Greenbrae (330 Bon Air Shopping Ctr, Greenbrae, CA 94904). Prescriptions beginning with LOS ($26.89) and LEV are ready. Pharmacy hours today are 7:00 AM - 10:00 PM [🔗&nbsp; View details ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871819503766869019) [🔗&nbsp; Directions ](https://www.google.com/maps/search/?api=1&query=330+Bon+Air+Shopping+Ctr%2C+Greenbrae%2C+CA+94904) [📅&nbsp; Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Pick+up+prescriptions+at+CVS+Greenbrae&dates=20260727T170000%2F20260727T171500&ctz=America%2FLos_Angeles&details=Prescriptions+for+Ronald+McGuire+%28LOS+and+LEV%29+are+ready+at+CVS+Greenbrae+%28330+Bon+Air+Shopping+Ctr%2C+Greenbrae%2C+CA+94904%29.+Pharmacy+hours%3A+7%3A00+AM+-+10%3A00+PM.&location=330+Bon+Air+Shopping+Ctr%2C+Greenbrae%2C+CA+94904&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com).
+    15 min  Pick up prescriptions for Ronald McGuire at CVS Greenbrae (330 Bon Air Shopping Ctr, Greenbrae, CA 94904). Prescriptions beginning with LOS ($26.89) and LEV are ready. Pharmacy hours today are 7:00 AM - 10:00 PM [View details](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871819503766869019) [🔗  Directions ](https://www.google.com/maps/search/?api=1&query=330+Bon+Air+Shopping+Ctr%2C+Greenbrae%2C+CA+94904) [📅  Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Pick+up+prescriptions+at+CVS+Greenbrae&dates=20260727T170000%2F20260727T171500&ctz=America%2FLos_Angeles&details=Prescriptions+for+Ronald+McGuire+%28LOS+and+LEV%29+are+ready+at+CVS+Greenbrae+%28330+Bon+Air+Shopping+Ctr%2C+Greenbrae%2C+CA+94904%29.+Pharmacy+hours%3A+7%3A00+AM+-+10%3A00+PM.&location=330+Bon+Air+Shopping+Ctr%2C+Greenbrae%2C+CA+94904&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com).
    
      Prescriptions were ready as of Sun, Jul 26 
     
-   Today • 7:00 AM •  Morning Practice Zoom w/ Ed Brown  (1h 15m) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=M3Z1bW84dnE4aHVwdnYwMWwxN2Eyc2FrM2tfMjAyNjA3MjdUMTQwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0).
+   Today • 7:00 AM •  Morning Practice Zoom w/ Ed Brown  (1h 15m) [View event](https://www.google.com/calendar/event?eid=M3Z1bW84dnE4aHVwdnYwMWwxN2Eyc2FrM2tfMjAyNjA3MjdUMTQwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0).
    
-     Join via [✨&nbsp; Zoom ](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09) (password: beyond) 
+     Join via [✨  Zoom ](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09) (password: beyond) 
     
-   Today •  Raiders Training Camp  (All day) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=MTJrNHNnMXMyZ2VrcWthMnU3cmw3djE4N3Ygc3Bhcmt5Zmxhc2hyZWJvYkBt).
+   Today •  Raiders Training Camp  (All day) [View event](https://www.google.com/calendar/event?eid=MTJrNHNnMXMyZ2VrcWthMnU3cmw3djE4N3Ygc3Bhcmt5Zmxhc2hyZWJvYkBt).
    
      Ongoing through Sun, Aug 30 
     
-   Today • 6:30 PM •  Audel & Andy SDRT  (1h) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=aGNhZ3A5cHIyZGZhZjlrNGl2cXU5cDhyajZfMjAyNjA3MjhUMDEzMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0).
+   Today • 6:30 PM •  Audel & Andy SDRT  (1h) [View event](https://www.google.com/calendar/event?eid=aGNhZ3A5cHIyZGZhZjlrNGl2cXU5cDhyajZfMjAyNjA3MjhUMDEzMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0).
    
-     Join via [✨&nbsp; Google Meet ](https://meet.google.com/ytq-jeoq-umi) 
+     Join via [Google Meet](https://meet.google.com/ytq-jeoq-umi) 
     
    Recent updates and activity from yesterday, Sun, Jul 26.
    
-      Amazon Refund:  A refund of $32.76 for the 'hooga Circadian Rhythm LED' is expected to credit your account balance today [🔗&nbsp; View order ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871816309047110427) 
-      TeePublic Delivery:  Your 'Just Be A Good Human' t-shirt and sticker were delivered to Larkspur [🔗&nbsp; View order ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871812726485837763) 
-      Krisp Export:  Meeting data is ready for download; the link expires on Sun, Aug 2 [🔗&nbsp; View export ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871831495691559380) 
-      Research Notes:  You compiled notes on Therapeutic Touch self-care, AI logo eliminator tools, and body-oriented therapy modalities [🔗&nbsp; View TT notes ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871555130028478717) [🔗&nbsp; View AI research ](https://share.google/aimode/snh9lmGO0itT6sHbB) 
-      Suggestion:  Top-rated AI logo generator for 2026 [🔗&nbsp; View ](https://magnt.com/blog/best-ai-logo-makers-2026) 
-      Suggestion:  Therapeutic Touch self-care practice for beginners [🔗&nbsp; Learn More ](https://www.youtube.com/watch?v=HzDLB5AXMbs) 
-      Whole Foods:  A payment of $211.49 was made at the San Rafael location using the debit card ending in 3572 [🔗&nbsp; View receipt ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871809302437232205) 
+      Amazon Refund:  A refund of $32.76 for the 'hooga Circadian Rhythm LED' is expected to credit your account balance today [View order](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871816309047110427) 
+      TeePublic Delivery:  Your 'Just Be A Good Human' t-shirt and sticker were delivered to Larkspur [View order](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871812726485837763) 
+      Krisp Export:  Meeting data is ready for download; the link expires on Sun, Aug 2 [🔗  View export ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871831495691559380) 
+      Research Notes:  You compiled notes on Therapeutic Touch self-care, AI logo eliminator tools, and body-oriented therapy modalities [🔗  View TT notes ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871555130028478717) [🔗  View AI research ](https://share.google/aimode/snh9lmGO0itT6sHbB) 
+      Suggestion:  Top-rated AI logo generator for 2026 [🔗  View ](https://magnt.com/blog/best-ai-logo-makers-2026) 
+      Suggestion:  Therapeutic Touch self-care practice for beginners [🔗  Learn More ](https://www.youtube.com/watch?v=HzDLB5AXMbs) 
+      Whole Foods:  A payment of $211.49 was made at the San Rafael location using the debit card ending in 3572 [🔗  View receipt ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871809302437232205) 
     
  
 
  FYI 
  
-   Tue, Jul 28 • 7:00 AM •  Morning Practice Zoom w/ Ed Brown  (1h 15m) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=M3Z1bW84dnE4aHVwdnYwMWwxN2Eyc2FrM2tfMjAyNjA3MjhUMTQwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0).
+   Tue, Jul 28 • 7:00 AM •  Morning Practice Zoom w/ Ed Brown  (1h 15m) [View event](https://www.google.com/calendar/event?eid=M3Z1bW84dnE4aHVwdnYwMWwxN2Eyc2FrM2tfMjAyNjA3MjhUMTQwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0).
    
-     Join via [✨&nbsp; Zoom ](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09) (password: beyond) 
+     Join via [✨  Zoom ](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09) (password: beyond) 
     
-   Tue, Jul 28 • 11:00 AM •  MINDFULNESS MEDITATION CLUB  (1h 30m) at Rm 11, Elizabeth Deedy Hall, College of Marin, 835 College Ave, Kentfield, CA [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=NGZjN244N241NThvdXR2bzVjN2hiMGxoNW1fMjAyNjA3MjhUMTgwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0) [🔗&nbsp; Directions ](https://www.google.com/maps/search/?api=1&query=835+College+Ave%2C+Kentfield%2C+CA).
+   Tue, Jul 28 • 11:00 AM •  MINDFULNESS MEDITATION CLUB  (1h 30m) at Rm 11, Elizabeth Deedy Hall, College of Marin, 835 College Ave, Kentfield, CA [View event](https://www.google.com/calendar/event?eid=NGZjN244N241NThvdXR2bzVjN2hiMGxoNW1fMjAyNjA3MjhUMTgwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0) [🔗  Directions ](https://www.google.com/maps/search/?api=1&query=835+College+Ave%2C+Kentfield%2C+CA).
    
      Parking is $4 in most campus lots; Lot P13 is free but a half-mile walk 
     
    Upcoming Amazon deliveries for Larkspur.
    
-      Baking Item:  Estimated to arrive on Tue, Jul 28 [🔗&nbsp; View order ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871846462942205894) 
-      Skincare Item:  Estimated to arrive between Tue, Jul 28 and Mon, Aug 3 [🔗&nbsp; View order ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871375578408725412) 
+      Baking Item:  Estimated to arrive on Tue, Jul 28 [View order](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871846462942205894) 
+      Skincare Item:  Estimated to arrive between Tue, Jul 28 and Mon, Aug 3 [View order](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871375578408725412) 
     
-    15 min  Consider checking your Marin County DSA membership status before the policy update takes effect on Tue, Aug 4. To maintain Discussion Board access, status must be updated by Mon, Aug 3 [🔗&nbsp; View email ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871377510283841584) [📅&nbsp; Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Update+Marin+County+DSA+membership+status&dates=20260803T090000%2F20260803T091500&ctz=America%2FLos_Angeles&details=Update+status+at+proof.dsausa.org+using+membership+email+and+Discussion+Board+password+to+maintain+access.&location=&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com).
+    15 min  Consider checking your Marin County DSA membership status before the policy update takes effect on Tue, Aug 4. To maintain Discussion Board access, status must be updated by Mon, Aug 3 [View email](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871377510283841584) [📅  Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Update+Marin+County+DSA+membership+status&dates=20260803T090000%2F20260803T091500&ctz=America%2FLos_Angeles&details=Update+status+at+proof.dsausa.org+using+membership+email+and+Discussion+Board+password+to+maintain+access.&location=&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com).
    
-     Check status at [🔗&nbsp; proof.dsausa.org ](https://proof.dsausa.org) using your membership email and Discussion Board password 
+     Check status at [🔗  proof.dsausa.org ](https://proof.dsausa.org) using your membership email and Discussion Board password 
     
-   Fri, Aug 14 • 2:45 PM •  SimaSpace Room Booking  (2h 30m) for Room 4, Suite 220 at 300 Tamal Plaza, Corte Madera, CA 94925 [🔗&nbsp; View booking ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871802378241498866) [🔗&nbsp; Directions ](https://www.google.com/maps/search/?api=1&query=300+Tamal+Plaza%2C+Corte+Madera%2C+CA+94925) [📅&nbsp; View Event ](https://www.google.com/calendar/event?eid=Y2hoM2FkMXBja3BtMmJiNTZncDNlYjlrY29vNmFiYjFjbGdqMGI5cDY5aDZjZTFuYzloamVwMWdjZyBzcGFya3lmbGFzaHJlYm9iQG0).
+   Fri, Aug 14 • 2:45 PM •  SimaSpace Room Booking  (2h 30m) for Room 4, Suite 220 at 300 Tamal Plaza, Corte Madera, CA 94925 [🔗  View booking ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871802378241498866) [🔗  Directions ](https://www.google.com/maps/search/?api=1&query=300+Tamal+Plaza%2C+Corte+Madera%2C+CA+94925) [📅  View Event ](https://www.google.com/calendar/event?eid=Y2hoM2FkMXBja3BtMmJiNTZncDNlYjlrY29vNmFiYjFjbGdqMGI5cDY5aDZjZTFuYzloamVwMWdjZyBzcGFya3lmbGFzaHJlYm9iQG0).
    
-     Organized by Andrea Axtell; join via [✨&nbsp; Google Meet ](https://meet.google.com/vro-ohfn-yjx) 
+     Organized by Andrea Axtell; join via [Google Meet](https://meet.google.com/vro-ohfn-yjx) 
     
  
 
  CC Calendar Updates 
  
-   New:  SIMA SPACE: Suite 220 - Room 4  — August 14, 2026 2:45pm PT · [🔗&nbsp; Source email ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871802378241498866) · [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=bG5va28zcjcxbG1zYTVnZnA4MzhiOXZvanMgOWNlMWM5MDAyM2U4ZjI5MmZjMTEwNzRlNzZkOTQ3MWYzZmJlOWQxNDVjYjk0OWQ4MDY0NWM2ZDYwZjBlOGQyNUBn) 
+   New:  SIMA SPACE: Suite 220 - Room 4  — August 14, 2026 2:45pm PT · [Source email](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871802378241498866) · [View event](https://www.google.com/calendar/event?eid=bG5va28zcjcxbG1zYTVnZnA4MzhiOXZvanMgOWNlMWM5MDAyM2U4ZjI5MmZjMTEwNzRlNzZkOTQ3MWYzZmJlOWQxNDVjYjk0OWQ4MDY0NWM2ZDYwZjBlOGQyNUBn) 
  
 
  Have a wonderful day! 
@@ -144,8 +144,8 @@ CC is an experimental AI productivity agent and can make mistakes, so double-che
    
      💬 What do you think about this email? 
      
-      [ 👍 ](https://docs.google.com/forms/d/e/1FAIpQLSfGPGkFp-YwBA_vcSLpUqSo9glbxn-0rKy8i3O2hUhl9IS_Xg/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8D+Useful)
-      [ 👎 ](https://docs.google.com/forms/d/e/1FAIpQLSfGPGkFp-YwBA_vcSLpUqSo9glbxn-0rKy8i3O2hUhl9IS_Xg/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8E+Not+useful)
+      [👍 ](https://docs.google.com/forms/d/e/1FAIpQLSfGPGkFp-YwBA_vcSLpUqSo9glbxn-0rKy8i3O2hUhl9IS_Xg/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8D+Useful)
+      [👎 ](https://docs.google.com/forms/d/e/1FAIpQLSfGPGkFp-YwBA_vcSLpUqSo9glbxn-0rKy8i3O2hUhl9IS_Xg/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8E+Not+useful)
      
      
       🔬 Want to help improve CC further? [Sign up for user research opportunities](https://forms.gle/mSZLnsScUpa9i42b7).

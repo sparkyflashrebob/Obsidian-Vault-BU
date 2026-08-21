@@ -71,60 +71,60 @@ CC is an experimental AI productivity agent and can make mistakes, so double-che
 
  Top of mind 
  
-    15 min  Verify your Amazon Seller identity to reactivate your account and listings. Your account was placed in inactive status on 2026-07-29 due to extended inactivity [🔗&nbsp; View email ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872106158538556321) [📅&nbsp; Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Verify+Amazon+Seller+Identity&dates=20260730T090000%2F20260730T091500&ctz=America%2FLos_Angeles&details=Verify+Amazon+Seller+identity+to+reactivate+account.+%5BView+email%5D%28https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19fb0ea1e18303a1%29&location=Seller+Central&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com).
+    15 min  Verify your Amazon Seller identity to reactivate your account and listings. Your account was placed in inactive status on 2026-07-29 due to extended inactivity [View email](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872106158538556321) [📅  Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Verify+Amazon+Seller+Identity&dates=20260730T090000%2F20260730T091500&ctz=America%2FLos_Angeles&details=Verify+Amazon+Seller+identity+to+reactivate+account.+%5BView+email%5D%28https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19fb0ea1e18303a1%29&location=Seller+Central&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com).
    
      Log in to Seller Central to complete the verification process. This action is store-specific and does not impact your Account Health Rating. 
     
    Several significant financial updates were processed on 2026-07-29.
    
-      Fidelity EFT:  A transfer of $2,250.00 to your Bank of America account was successfully processed [🔗&nbsp; View confirmation ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872087577382225998). 
-      Zelle Payment:  Received $150.00 from Andrea Axtell for August 2026 car insurance [🔗&nbsp; View receipt ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872054358790911498) [✉️&nbsp; Reply ](mailto:?subject=Zelle%20Payment%20Received&body=Hi%20Andrea%2C%0A%0AI%20received%20the%20%24150.00%20for%20the%20August%20car%20insurance.%20Thank%20you%21%0A%0ABest%2C%0AAndy). 
-      Fidelity Trade:  Sold Fidelity Treasury Only Money Market Fund in account ending in 1490 [🔗&nbsp; View trade ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872039751923198372). 
+      Fidelity EFT:  A transfer of $2,250.00 to your Bank of America account was successfully processed [🔗  View confirmation ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872087577382225998). 
+      Zelle Payment:  Received $150.00 from Andrea Axtell for August 2026 car insurance [🔗  View receipt ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872054358790911498) [✉️  Reply ](mailto:?subject=Zelle%20Payment%20Received&body=Hi%20Andrea%2C%0A%0AI%20received%20the%20%24150.00%20for%20the%20August%20car%20insurance.%20Thank%20you%21%0A%0ABest%2C%0AAndy). 
+      Fidelity Trade:  Sold Fidelity Treasury Only Money Market Fund in account ending in 1490 [🔗  View trade ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872039751923198372). 
     
-   Today •  Raiders Training Camp  (All day) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=MTJrNHNnMXMyZ2VrcWthMnU3cmw3djE4N3Ygc3Bhcmt5Zmxhc2hyZWJvYkBt).
+   Today •  Raiders Training Camp  (All day) [View event](https://www.google.com/calendar/event?eid=MTJrNHNnMXMyZ2VrcWthMnU3cmw3djE4N3Ygc3Bhcmt5Zmxhc2hyZWJvYkBt).
    
      This is a recurring event through Sun, Aug 30. 
     
-   Today • 7:00 AM •  Morning Practice Zoom w/ Ed Brown  (1h 15m) [✨&nbsp; Join Zoom ](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=M3Z1bW84dnE4aHVwdnYwMWwxN2Eyc2FrM2tfMjAyNjA3MzBUMTQwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0).
+   Today • 7:00 AM •  Morning Practice Zoom w/ Ed Brown  (1h 15m) [✨  Join Zoom ](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09) [View event](https://www.google.com/calendar/event?eid=M3Z1bW84dnE4aHVwdnYwMWwxN2Eyc2FrM2tfMjAyNjA3MzBUMTQwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0).
    
      Today's session includes a guided 'chakra' meditation in addition to basic practices. 
     
-   Today • 5:00 PM •  Living Mindfully Meditation  (1h) [✨&nbsp; Join Meet ](https://meet.google.com/dhf-mnbc-qkn) [🔗&nbsp; View details ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870530893822212187) [📅&nbsp; Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Living+Mindfully+Meditation&dates=20260730T170000%2F20260730T180000&ctz=America%2FLos_Angeles&details=Weekly+group+meditation+and+council+meeting.+%5BView+details%5D%28https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19f575effbaab85b%29&location=https%3A%2F%2Fmeet.google.com%2Fdhf-mnbc-qkn&add=headandhearttogether%40gmail.com&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com).
+   Today • 5:00 PM •  Living Mindfully Meditation  (1h) [✨  Join Meet ](https://meet.google.com/dhf-mnbc-qkn) [View details](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870530893822212187) [Add Event](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Living+Mindfully+Meditation&dates=20260730T170000%2F20260730T180000&ctz=America%2FLos_Angeles&details=Weekly+group+meditation+and+council+meeting.+%5BView+details%5D%28https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19f575effbaab85b%29&location=https%3A%2F%2Fmeet.google.com%2Fdhf-mnbc-qkn&add=headandhearttogether%40gmail.com&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com).
    
      Weekly group meditation and council meeting facilitated by you. 
     
    Recent delivery updates for your Larkspur home.
    
-      Amazon:  Wireless accessories are arriving today, Thursday July 30 [🔗&nbsp; Track order ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872120968406402733). 
-      Blueair:  Two replacement filters were delivered on 2026-07-29 [🔗&nbsp; View order ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872076738861946840). 
+      Amazon:  Wireless accessories are arriving today, Thursday July 30 [Track order](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872120968406402733). 
+      Blueair:  Two replacement filters were delivered on 2026-07-29 [View order](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872076738861946840). 
     
  
 
  FYI 
  
-   Sun, Aug 2 • 10:00 AM •  Sunday Sangha  with guest teacher Donald Rothberg. Visit [🔗&nbsp; Marin Sangha ](http://www.MarinSangha.org) for join links and program details [🔗&nbsp; View email ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871524457693539140) [📅&nbsp; Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sunday+Sangha+w%2F+Donald+Rothberg&dates=20260802T100000%2F20260802T113000&ctz=America%2FLos_Angeles&details=Sunday+Sangha+with+guest+teacher+Donald+Rothberg.+Visit+http%3A%2F%2Fwww.MarinSangha.org+for+join+links.&location=Online+%2F+Marin+Sangha&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com).
+   Sun, Aug 2 • 10:00 AM •  Sunday Sangha  with guest teacher Donald Rothberg. Visit [🔗  Marin Sangha ](http://www.MarinSangha.org) for join links and program details [View email](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871524457693539140) [Add Event](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sunday+Sangha+w%2F+Donald+Rothberg&dates=20260802T100000%2F20260802T113000&ctz=America%2FLos_Angeles&details=Sunday+Sangha+with+guest+teacher+Donald+Rothberg.+Visit+http%3A%2F%2Fwww.MarinSangha.org+for+join+links.&location=Online+%2F+Marin+Sangha&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com).
    
-     Download your Krisp meeting data export before the link expires on Sun, Aug 2 [🔗&nbsp; Download zip ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871831495691559380) [📅&nbsp; Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Download+Krisp+meeting+data+export&dates=20260801T100000%2F20260801T101500&ctz=America%2FLos_Angeles&details=Download+your+Krisp+meeting+data+export+before+the+link+expires.+%5BDownload+zip%5D%28https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19fa14d3f41561d4%29&location=&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com). 
+     Download your Krisp meeting data export before the link expires on Sun, Aug 2 [🔗  Download zip ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871831495691559380) [📅  Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Download+Krisp+meeting+data+export&dates=20260801T100000%2F20260801T101500&ctz=America%2FLos_Angeles&details=Download+your+Krisp+meeting+data+export+before+the+link+expires.+%5BDownload+zip%5D%28https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19fa14d3f41561d4%29&location=&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com). 
     
-   Mon, Aug 3 •  Amazon Delivery Estimate  for your skincare order placed on 2026-07-21 [🔗&nbsp; Track order ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871375578408725412).
+   Mon, Aug 3 •  Amazon Delivery Estimate  for your skincare order placed on 2026-07-21 [Track order](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871375578408725412).
    
      The estimated arrival window is between 2026-07-28 and Mon, Aug 3. 
     
-   Sat, Aug 22 • 5:00 PM •  First VQ Prep Meeting  (1h 30m) at your Larkspur home [🔗&nbsp; View email ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872068747352868194) [🔗&nbsp; Directions ](https://www.google.com/maps/search/?api=1&query=326+Larkspur+Plaza+Dr%2C+Larkspur%2C+CA) [📅&nbsp; View Event ](https://www.google.com/calendar/event?eid=NzBzbWNjYjVjbGdqaWJiM2NvczY2YjlrNjBwNmFiOW82c3MzY2I5bWNvbzNpZWI2NmtvNjZwaGg2NCBzcGFya3lmbGFzaHJlYm9iQG0).
+   Sat, Aug 22 • 5:00 PM •  First VQ Prep Meeting  (1h 30m) at your Larkspur home [View email](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872068747352868194) [🔗  Directions ](https://www.google.com/maps/search/?api=1&query=326+Larkspur+Plaza+Dr%2C+Larkspur%2C+CA) [📅  View Event ](https://www.google.com/calendar/event?eid=NzBzbWNjYjVjbGdqaWJiM2NvczY2YjlrNjBwNmFiOW82c3MzY2I5bWNvbzNpZWI2NmtvNjZwaGg2NCBzcGFya3lmbGFzaHJlYm9iQG0).
    
-     Organized by Andrea Axtell. A virtual option is available via [✨&nbsp; Google Meet ](https://meet.google.com/nqh-jmxe-iev). 
+     Organized by Andrea Axtell. A virtual option is available via [Google Meet](https://meet.google.com/nqh-jmxe-iev). 
     
    Weekend events in the Larkspur area.
    
-      Roller Disco Daze:  Friday, July 31 at Marin Center [📅&nbsp; View ](https://www.visitmarin.org/event-calendar/2026/july-2026/) 
-      Night Kayak Tour:  Guided bioluminescent tour on Sunday, August 2 [📅&nbsp; View ](https://www.visitmarin.org/event-calendar/2026/august-2026/) 
+      Roller Disco Daze:  Friday, July 31 at Marin Center [📅  View ](https://www.visitmarin.org/event-calendar/2026/july-2026/) 
+      Night Kayak Tour:  Guided bioluminescent tour on Sunday, August 2 [📅  View ](https://www.visitmarin.org/event-calendar/2026/august-2026/) 
     
    Summary of recent personal and household activity.
    
-      Substack:  You published 'Beyond the Broken Story' on 2026-07-29, exploring personal history and mindfulness [🔗&nbsp; View post ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872111971368819954). 
-      Blueair:  Your filter subscription was successfully canceled on 2026-07-29 [🔗&nbsp; View confirmation ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872091371696537617). 
-      Temu:  An order for $15.95 was placed on 2026-07-29 using PayPal [🔗&nbsp; View receipt ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872087545206382338). 
-      Fidelity:  You confirmed a third-party connection agreement on 2026-07-29 [🔗&nbsp; View agreement ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872115860537470883). 
+      Substack:  You published 'Beyond the Broken Story' on 2026-07-29, exploring personal history and mindfulness [🔗  View post ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872111971368819954). 
+      Blueair:  Your filter subscription was successfully canceled on 2026-07-29 [🔗  View confirmation ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872091371696537617). 
+      Temu:  An order for $15.95 was placed on 2026-07-29 using PayPal [🔗  View receipt ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872087545206382338). 
+      Fidelity:  You confirmed a third-party connection agreement on 2026-07-29 [🔗  View agreement ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872115860537470883). 
     
  
 
@@ -159,8 +159,8 @@ CC is an experimental AI productivity agent and can make mistakes, so double-che
    
      💬 What do you think about this email? 
      
-      [ 👍 ](https://docs.google.com/forms/d/e/1FAIpQLSfGPGkFp-YwBA_vcSLpUqSo9glbxn-0rKy8i3O2hUhl9IS_Xg/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8D+Useful)
-      [ 👎 ](https://docs.google.com/forms/d/e/1FAIpQLSfGPGkFp-YwBA_vcSLpUqSo9glbxn-0rKy8i3O2hUhl9IS_Xg/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8E+Not+useful)
+      [👍 ](https://docs.google.com/forms/d/e/1FAIpQLSfGPGkFp-YwBA_vcSLpUqSo9glbxn-0rKy8i3O2hUhl9IS_Xg/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8D+Useful)
+      [👎 ](https://docs.google.com/forms/d/e/1FAIpQLSfGPGkFp-YwBA_vcSLpUqSo9glbxn-0rKy8i3O2hUhl9IS_Xg/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8E+Not+useful)
      
      
       🔬 Want to help improve CC further? [Sign up for user research opportunities](https://forms.gle/mSZLnsScUpa9i42b7).

@@ -38,103 +38,37 @@ tags:
 ---
 
 ## 🌅 Your Day Ahead Email Brief
-- **Subject**: `💌 Your Day Ahead 08/19/2026`
+- **Subject**: `💌 Your Day Ahead 08/19/2026` (7:00 AM)
 
-...
+Happy Wednesday, Andy! Here's your daily brief.  
+*Reply for updates or corrections*
 
----
-CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact labs-cc-support@google.com or disconnect here: https://myaccount.google.com/connections#:~:text=CC
- 
- 👋 Enjoy your Wednesday, Andy! Here's your daily brief. 
- ✉️ Reply for updates or corrections 
+### Top of Mind
+* **5 min** • Ensure AutoPay processes for T-Mobile account ending in 0801. A payment of $71.93 is scheduled for today, Wednesday, Aug 19 using the Visa debit card ending in 6681 [View bill](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872363421720905066) [Add Reminder](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Check+T-Mobile+AutoPay&dates=20260819T090000%2F20260819T100000&ctz=America%2FLos_Angeles&details=Ensure+AutoPay+processes+for+T-Mobile+account+ending+in+0801.+Payment+of+%2471.93+scheduled.+Visa+debit+card+ending+in+6681.).
+* **15 min** • Address administrative requests for the Insight Retreat Center (IRC):
+  * **Mail Forwarding**: Confirm the request to allow `andy@insightretreatcenter.org` to forward mail to `sparkyflashrebob@gmail.com` [Confirm request](https://mail-settings.google.com/mail/vf-%5BANGjdJ-PYJyiu-2Un-NEe-iw4hKwfNduJQ69tbFUJ9y3SKDD2ocz4vbQAhLibNcz_shp5d-G_6zr9fEtyhg3ue9GLzevDn5NaqnnqJtAJw%5D-Rs2AAgUCmAq7_3SBGH6Z5sxIFi0).
+  * **Recording Request**: Respond to John O'Connor regarding his request for you to edit a retreat recording. You expressed interest but noted login issues with your workspace account [View email](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873859183421990400).
 
- Top of mind 
- 
-    5 min   Ensure AutoPay processes for T-Mobile account ending in 0801.  A payment of $71.93 is scheduled for today, Wednesday, Aug 19 using the Visa debit card ending in 6681 [🔗&nbsp; View bill ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872363421720905066) [📅&nbsp; Remind Me ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Check+T-Mobile+AutoPay&dates=20260819T090000%2F20260819T100000&ctz=America%2FLos_Angeles&details=Ensure+AutoPay+processes+for+T-Mobile+account+ending+in+0801.+Payment+of+%2471.93+scheduled.+Visa+debit+card+ending+in+6681.&location=&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com). 
-    15 min   Address administrative requests for the Insight Retreat Center (IRC). 
-   
-      Mail Forwarding:  Confirm the request to allow [✉️&nbsp; andy@insightretreatcenter.org ](mailto:andy@insightretreatcenter.org) to forward mail to [✉️&nbsp; sparkyflashrebob@gmail.com ](mailto:sparkyflashrebob@gmail.com) [🔗&nbsp; Confirm request ](https://mail-settings.google.com/mail/vf-%5BANGjdJ-PYJyiu-2Un-NEe-iw4hKwfNduJQ69tbFUJ9y3SKDD2ocz4vbQAhLibNcz_shp5d-G_6zr9fEtyhg3ue9GLzevDn5NaqnnqJtAJw%5D-Rs2AAgUCmAq7_3SBGH6Z5sxIFi0). 
-      Recording Request:  Respond to John O'Connor regarding his request for you to edit a retreat recording. You expressed interest but noted login issues with your workspace account [🔗&nbsp; View email ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873810874919587462) [✉️&nbsp; Reply ](mailto:john@insightretreatcenter.org?subject=Re%3A%20IRC%20recordings&body=Hi%20John%2C%20I%27m%20interested%20in%20editing%20the%20retreat%20recording.%20I%27m%20currently%20having%20some%20login%20issues%20with%20my%20workspace%20account%2C%20but%20I%27ll%20let%20you%20know%20once%20that%27s%20resolved.). 
-    
-    A package for Kiera McGuire (electronics, $46.68) is arriving today, Wednesday, Aug 19  at the San Francisco address [🔗&nbsp; View order ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873906313723577812) [📅&nbsp; Remind Me ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Kiera%27s+package+arrival&dates=20260819T170000%2F20260819T180000&ctz=America%2FLos_Angeles&details=Package+for+Kiera+McGuire+%28electronics%2C+%2446.68%29+arriving+today+at+SF+address.&location=San+Francisco%2C+CA&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com). 
-    Monitor the ESCOM Council meeting for the 'Living Mindfully' club application.  Today, Wednesday, Aug 19, is the scheduled meeting for approval. Approval is required before a start date can be set for the club at the College of Marin [🔗&nbsp; View details ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870812586257874023) [📅&nbsp; Remind Me ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Monitor+ESCOM+Council+Meeting&dates=20260819T110000%2F20260819T120000&ctz=America%2FLos_Angeles&details=Monitor+the+ESCOM+Council+meeting+for+the+%27Living+Mindfully%27+club+application+approval.&location=College+of+Marin&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com). 
-   Today •  Raiders Training Camp  (All Day) through Aug 30 [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=MTJrNHNnMXMyZ2VrcWthMnU3cmw3djE4N3Ygc3Bhcmt5Zmxhc2hyZWJvYkBt&ctz=America/Los_Angeles). 
-   Today • 2:10 PM •  Go to class  (20m) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=N2QwanA1NG5iMTkzMDdvMDluanYycTdubmNfMjAyNjA4MTlUMjExMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0&ctz=America/Los_Angeles). 
-   Today • 2:30 PM •  Tai Chi  (1h) at Corte Madera Community Center, 498 Tamalpais Dr, Corte Madera, CA 94925 [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=NzZpdXJnaXY2MWM4bGo4aGNjMm9vYmVhM2ZfMjAyNjA4MTlUMjEzMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0&ctz=America/Los_Angeles) [🔗&nbsp; Map ](https://www.google.com/maps/search/?api=1&query=Corte+Madera+Community+Center%2C+498+Tamalpais+Dr%2C+Corte+Madera%2C+CA+94925%2C+USA). 
-   Today • 5:00 PM •  Travel to Oakland  (1h) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=M240YjcwbDJmdmE3MWxtcTF2czdhbmViamUgc3Bhcmt5Zmxhc2hyZWJvYkBt&ctz=America/Los_Angeles). 
-   Today • 6:00 PM •  Oakland Democracy Reform Town Hall  (2h) at Oakland Grove, 499 37th Street, Oakland, CA 94609 [🔗&nbsp; View registration ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873821093231631588) [🔗&nbsp; Map ](https://www.google.com/maps/search/?api=1&query=499+37th+St%2C+Oakland%2C+CA+94609) [📅&nbsp; View Event ](https://www.google.com/calendar/event?eid=b2djbTNtMGRkYjgwM2NuM2I4ZGttaTg3cDQgc3Bhcmt5Zmxhc2hyZWJvYkBt&ctz=America/Los_Angeles).
-   
-     Plan to arrive by 5:30 PM; doors open early for food and networking. 
-     Remember to bring your phone and invite a friend. 
-     Street parking is available at the venue, or use the MacArthur BART parking garage two blocks away. 
-    
-   Today • 8:00 PM •  Travel from Oakland  (1h) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=NHI0cDNmNWJpNnRzcmF0YjE2M2p2ZXA2M3Egc3Bhcmt5Zmxhc2hyZWJvYkBt&ctz=America/Los_Angeles). 
- 
+### Today's Schedule & Events
+* **Today • 5:00 PM** • Travel to Oakland (1h) [View event](https://www.google.com/calendar/event?eid=M240YjcwbDJmdmE3MWxtcTF2czdhbmViamUgc3Bhcmt5Zmxhc2hyZWJvYkBt&ctz=America/Los_Angeles).
+* **Today • 6:00 PM** • Oakland Democracy Reform Town Hall (2h) at Oakland Grove, 499 37th Street, Oakland, CA 94609 [View registration](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873821093231631588) [Map](https://www.google.com/maps/search/?api=1&query=499+37th+St%2C+Oakland%2C+CA+94609) [View Event](https://www.google.com/calendar/event?eid=b2djbTNtMGRkYjgwM2NuM2I4ZGttaTg3cDQgc3Bhcmt5Zmxhc2hyZWJvYkBt&ctz=America/Los_Angeles). Plan to arrive by 5:30 PM; doors open early for food and networking. Remember to bring your phone and invite a friend. Street parking is available at the venue, or use the MacArthur BART parking garage two blocks away.
+* **Today • 8:00 PM** • Travel from Oakland (1h) [View event](https://www.google.com/calendar/event?eid=NHI0cDNmNWJpNnRzcmF0YjE2M2p2ZXA2M3Egc3Bhcmt5Zmxhc2hyZWJvYkBt&ctz=America/Los_Angeles).
 
- FYI 
- 
-   Thu, Aug 20 • 2:00 AM •  MEDICARE BILLING  (1h) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=NDdtMnFqcW5hYWdkMTFzMG9oc3JrZDdqdGlfMjAyNjA4MjBUMDkwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0&ctz=America/Los_Angeles). 
-    15 min   Consider renewing your Zoom subscription to save recordings.  Your paid subscription expired on Jul 23, and Cloud Recordings will be deleted on Sat, Aug 22 unless you renew. You previously indicated intent to use a College of Marin license instead [🔗&nbsp; View alert ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871491449104332815) [📅&nbsp; Remind Me ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Zoom+Subscription+Renewal%2FCleanup+Deadline&dates=20260822T090000%2F20260822T100000&ctz=America%2FLos_Angeles&details=Paid+Zoom+subscription+expired.+Cloud+Recordings+will+be+deleted+today+unless+renewed.+%28Previously+considered+using+College+of+Marin+license%29.&location=&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com). 
-   Sat, Aug 22 • 5:00 PM •  VQ Prep Meeting  (1.5h) with Andrea Axtell at your Larkspur home [🔗&nbsp; View invite ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872068747352868194) [🔗&nbsp; Map ](https://www.google.com/maps/search/?api=1&query=326+Larkspur+Plaza+Dr%2C+Larkspur%2C+CA) [📅&nbsp; View Event ](https://www.google.com/calendar/event?eid=NzBzbWNjYjVjbGdqaWJiM2NvczY2YjlrNjBwNmFiOW82c3MzY2I5bWNvbzNpZWI2NmtvNjZwaGg2NCBzcGFya3lmbGFzaHJlYm9iQG0&ctz=America/Los_Angeles).
-   
-     A virtual option is available: [✨&nbsp; Google Meet ](https://meet.google.com/nqh-jmxe-iev). 
-    
-   Consider attending the tribute to Robert Chandler on Tue, Aug 25 from 11:00 AM to 12:30 PM at the Kentfield ESCOM room [🔗&nbsp; View details ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873865654139794440) [📅&nbsp; Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Robert+Chandler+Tribute&dates=20260825T110000%2F20260825T123000&ctz=America%2FLos_Angeles&details=Tribute+to+Robert+Chandler.&location=Kentfield+ESCOM+room%2C+College+of+Marin&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com). 
-   Consider attending the PG&E Virtual Town Hall for North Coast/Marin residents on Wed, Aug 26 from 5:30 PM to 6:30 PM [🔗&nbsp; View invitation ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873551006704544836) [📅&nbsp; Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=PG%26E+Virtual+Town+Hall&dates=20260826T173000%2F20260826T183000&ctz=America%2FLos_Angeles&details=PG%26E+Virtual+Town+Hall+for+North+Coast%2FMarin+residents.+Call+888-282-0413+and+enter+ID%3A+5364616.&location=Virtual&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com).
-   
-     To join, call 888-282-0413 and enter ID: 5364616. 
-    
-    5 min   Cancel Plaud AI annual plan before Wed, Aug 26 to avoid a $239.99 charge.  Your free trial ends that day, and the Visa ending in 6681 will be billed automatically if not cancelled [🔗&nbsp; View notification ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873897874195369589) [📅&nbsp; Remind Me ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Cancel+Plaud+AI+Trial&dates=20260826T090000%2F20260826T100000&ctz=America%2FLos_Angeles&details=Cancel+Plaud+AI+annual+plan+before+the+free+trial+ends+to+avoid+%24239.99+charge.+Visa+ending+in+6681.&location=&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com). 
-   Shipping and account updates for your records.
-   
-      MilitaryKart:  Your Solar-USB Dual Charger was shipped on Aug 18. Tracking: GFUS01067724312961 [🔗&nbsp; View order ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873882778292923540) [🔗&nbsp; Track order ](https://militarykart.com/apps/parcelpanel). 
-      Substack:  Your post 'Who Is Listening When You Speak to Yourself?' has received 8 views from email as of Aug 18 [🔗&nbsp; View stats ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873912311436109266). 
-      Security:  Access to your Google Account data was allowed for PayPal on Aug 18 [🔗&nbsp; View alert ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873918550971534488). 
-    
- 
+### FYI & Upcoming Appointments
+* **Thu, Aug 20 • 2:00 AM** • MEDICARE BILLING (1h) [View event](https://www.google.com/calendar/event?eid=NDdtMnFqcW5hYWdkMTFzMG9oc3JrZDdqdGlfMjAyNjA4MjBUMDkwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0&ctz=America/Los_Angeles).
+* **15 min** • Consider renewing your Zoom subscription to save recordings. Your paid subscription expired on Jul 23, and Cloud Recordings will be deleted on Sat, Aug 22 unless you renew. You previously indicated intent to use a College of Marin license instead [View alert](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871491449104332815) [Remind Me](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Zoom+Subscription+Renewal%2FCleanup+Deadline&dates=20260822T090000%2F20260822T100000&ctz=America%2FLos_Angeles&details=Paid+Zoom+subscription+expired.+Cloud+Recordings+will+be+deleted+today+unless+renewed.+%28Previously+considered+using+College+of+Marin+license%29.&location=&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com).
+* **Sat, Aug 22 • 5:00 PM** • VQ Prep Meeting (1.5h) with Andrea Axtell at your Larkspur home [View invite](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872068747352868194) [Map](https://www.google.com/maps/search/?api=1&query=326+Larkspur+Plaza+Dr%2C+Larkspur%2C+CA) [View Event](https://www.google.com/calendar/event?eid=NzBzbWNjYjVjbGdqaWJiM3NvczY2YjlrNjBwNmFiOW82c3MzY2I5bWNvbzNpZWI2NmtvNjZwaGg2NCBzcGFya3lmbGFzaHJlYm9iQG0&ctz=America/Los_Angeles). A virtual option is available: [Google Meet](https://meet.google.com/nqh-jmxe-iev).
+* **Tue, Aug 25 • 11:00 AM – 12:30 PM** • Consider attending the tribute to Robert Chandler at the Kentfield ESCOM room [View details](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873865654139794440) [Add Event](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Robert+Chandler+Tribute&dates=20260825T110000%2F20260825T123000&ctz=America%2FLos_Angeles&details=Tribute+to+Robert+Chandler.&location=Kentfield+ESCOM+room%2C+College+of+Marin&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com).
+* **Wed, Aug 26 • 5:30 PM – 6:30 PM** • Consider attending the PG&E Virtual Town Hall for North Coast/Marin residents [View invitation](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873551006704544836) [Add Event](https://calendar.google.com/calendar/render?action=TEMPLATE&text=PG%26E+Virtual+Town+Hall&dates=20260826T173000%2F20260826T183000&ctz=America%2FLos_Angeles&details=PG%26E+Virtual+Town+Hall+for+North+Coast%2FMarin+residents.+Call+888-282-0413+and+enter+ID%3A+5364616.&location=Virtual&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com). To join, call 888-282-0413 and enter ID: 5364616.
+* **5 min** • Cancel Plaud AI annual plan before Wed, Aug 26 to avoid a $239.99 charge. Your free trial ends that day, and the Visa ending in 6681 will be billed automatically if not cancelled [View notification](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873897874195369589) [Add Reminder](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Cancel+Plaud+AI+Trial&dates=20260826T090000%2F20260826T100000&ctz=America%2FLos_Angeles&details=Cancel+Plaud+AI+annual+plan+before+the+free+trial+ends+to+avoid+%24239.99+charge.+Visa+ending+in+6681.&location=&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com).
 
- CC Calendar Updates 
- 
-   New:  Dinner & Visit with the Folks  — August 21, 2026 5:30pm PT · [🔗&nbsp; Source email ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873894981510906716) · [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=ODBtN2k3amtiMjNocGQ5MWtrdmRiY20za2sgOWNlMWM5MDAyM2U4ZjI5MmZjMTEwNzRlNzZkOTQ3MWYzZmJlOWQxNDVjYjk0OWQ4MDY0NWM2ZDYwZjBlOGQyNUBn) 
- 
+### Engagement, Security & Shipping Updates
+* **MilitaryKart**: Solar-USB Dual Charger shipped on Aug 18. Tracking: GFUS01067724312961 [View order](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873882778292923540) [Track order](https://militarykart.com/apps/parcelpanel).
+* **Substack**: Post 'Who Is Listening When You Speak to Yourself?' received 8 views from email as of Aug 18 [View stats](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873912311436109266).
+* **Security**: Access to Google Account data was allowed for PayPal on Aug 18 [View alert](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873918550971534488).
 
- Make it count! 
-
-
-
-
-
-  
-     
-     
-     
-       
-         
-       
-       
-         CC - Google Labs 
-         
-          [sparkyflashrebob+cc@gmail.com](mailto:sparkyflashrebob+cc@gmail.com)
-         
-       
-     
-   
-  
-   
-   
-     💬 What do you think about this email? 
-     
-      [ 👍 ](https://docs.google.com/forms/d/e/1FAIpQLSfGPGkFp-YwBA_vcSLpUqSo9glbxn-0rKy8i3O2hUhl9IS_Xg/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8D+Useful)
-      [ 👎 ](https://docs.google.com/forms/d/e/1FAIpQLSfGPGkFp-YwBA_vcSLpUqSo9glbxn-0rKy8i3O2hUhl9IS_Xg/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8E+Not+useful)
-     
-     
-      🔬 Want to help improve CC further? [Sign up for user research opportunities](https://forms.gle/mSZLnsScUpa9i42b7).
-     
-   
-  
-   
-   
-    CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact [labs-cc-support@google.com](mailto:labs-cc-support@google.com) or disconnect [here](https://myaccount.google.com/connections#:~:text=CC).  Known issue: 🔗 source links do not always work on mobile.
+### CC Calendar Updates
+* **New**: Dinner & Visit with the Folks — August 21, 2026 5:30pm PT · [Source email](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873894981510906716) · [View event](https://www.google.com/calendar/event?eid=ODBtN2k3amtiMjNocGQ5MWtrdmRiY20za2sgOWNlMWM5MDAyM2U4ZjI5MmZjMTEwNzRlNzZkOTQ3MWYzZmJlOWQxNDVjYjk0OWQ4MDY0NWM2ZDYwZjBlOGQyNUBn)
 
 ---
 

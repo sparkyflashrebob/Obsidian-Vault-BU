@@ -66,9 +66,9 @@ The following sequence synthesizes the administrative and experiential data from
 ## 5. Technical and Financial Status Tracker
 
 ### Financial To-Do List
-\*   \[ \] \*\*401k Verification:\*\* Confirm if Wells Fargo has successfully sent the final 401k deposit to Fidelity. Currently, the amount is listed on the final payout but is not reflected in the Fidelity balance.
-\*   \[ \] \*\*IRA Rollover:\*\* Initiate the internal transfer to the Fidelity IRA once the Wells Fargo deposit is verified.
-\*   \[ \] \*\*Tax Strategy:\*\* Monitor withdrawals to ensure total taxable income remains strictly within the 12% bracket.
+\*   \[\] \*\*401k Verification:\*\* Confirm if Wells Fargo has successfully sent the final 401k deposit to Fidelity. Currently, the amount is listed on the final payout but is not reflected in the Fidelity balance.
+\*   \[\] \*\*IRA Rollover:\*\* Initiate the internal transfer to the Fidelity IRA once the Wells Fargo deposit is verified.
+\*   \[\] \*\*Tax Strategy:\*\* Monitor withdrawals to ensure total taxable income remains strictly within the 12% bracket.
 
 ### Budgetary Analysis
 \*   \*\*Monthly Surplus:\*\* Analysis confirms a "plus $400/month" margin in the household budget.

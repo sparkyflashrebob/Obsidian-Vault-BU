@@ -65,65 +65,65 @@ CC is an experimental AI productivity agent and can make mistakes, so double-che
 
  Top of mind 
  
-    5 min  View your new secure message from the Kaiser care team received on Mon, Jul 27 [🔗&nbsp; View message ](https://kp.org/newmessage).
+    5 min  View your new secure message from the Kaiser care team received on Mon, Jul 27 [🔗  View message ](https://kp.org/newmessage).
    
-     Related to your health insurance and medical services provider [🔗&nbsp; View email ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871892699395513312) 
+     Related to your health insurance and medical services provider [View email](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871892699395513312) 
     
-    5 min  Download your exported Krisp meeting data. The file 'Krisp_meetings_2026-07-28_03-16-11-422.zip' was generated on Mon, Jul 27 and the download link expires on Mon, Aug 3 [🔗&nbsp; View email ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871925555744456838) [📅&nbsp; Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Download+Krisp+meeting+data+%28Expires+today%29&dates=20260803T090000%2F20260803T100000&ctz=America%2FLos_Angeles&details=Download+link+for+Krisp+meeting+data+expires+today.+See+email%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19fa6a60041fc086&location=&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com).
+    5 min  Download your exported Krisp meeting data. The file 'Krisp_meetings_2026-07-28_03-16-11-422.zip' was generated on Mon, Jul 27 and the download link expires on Mon, Aug 3 [View email](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871925555744456838) [📅  Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Download+Krisp+meeting+data+%28Expires+today%29&dates=20260803T090000%2F20260803T100000&ctz=America%2FLos_Angeles&details=Download+link+for+Krisp+meeting+data+expires+today.+See+email%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19fa6a60041fc086&location=&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com).
    
      Krisp provides AI-powered noise cancellation for your meetings 
     
-   Your latest Substack post 'Waking Up and Finding Your Ground' was published on Mon, Jul 27, and new promotional assets are ready for sharing [🔗&nbsp; View post ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871898777403376948).
+   Your latest Substack post 'Waking Up and Finding Your Ground' was published on Mon, Jul 27, and new promotional assets are ready for sharing [🔗  View post ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871898777403376948).
    
      The post explores mindfulness as an anchor and introduces grounding techniques like 'Guarding the Sense Doors' 
-     Custom promotional videos and images utilizing your publication's theme colors were generated on Mon, Jul 27 [🔗&nbsp; View assets ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871898762835723451) 
-      Suggestion:  Engage with others' notes and engage on Reddit to grow your audience [🔗&nbsp; Learn More ](https://on.substack.com/p/grow-4) 
+     Custom promotional videos and images utilizing your publication's theme colors were generated on Mon, Jul 27 [🔗  View assets ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871898762835723451) 
+      Suggestion:  Engage with others' notes and engage on Reddit to grow your audience [🔗  Learn More ](https://on.substack.com/p/grow-4) 
     
    Three Amazon orders are scheduled for delivery today to Larkspur, CA.
    
-      Baking Item:  Order #112-2792325-5871468 ($14.99) [🔗&nbsp; View order ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871894390896248387) 
-      Bedding:  Order #111-7225719-1041018 ($0.00) [🔗&nbsp; View order ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871907045803505058) 
-      Skincare Item:  Order #112-1564847-9504205 ($8.71) [🔗&nbsp; View order ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871375578408725412) 
+      Baking Item:  Order #112-2792325-5871468 ($14.99) [View order](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871894390896248387) 
+      Bedding:  Order #111-7225719-1041018 ($0.00) [View order](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871907045803505058) 
+      Skincare Item:  Order #112-1564847-9504205 ($8.71) [View order](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871375578408725412) 
     
-   Today •  Raiders Training Camp  (All day) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=MTJrNHNnMXMyZ2VrcWthMnU3cmw3djE4N3Ygc3Bhcmt5Zmxhc2hyZWJvYkBt).
+   Today •  Raiders Training Camp  (All day) [View event](https://www.google.com/calendar/event?eid=MTJrNHNnMXMyZ2VrcWthMnU3cmw3djE4N3Ygc3Bhcmt5Zmxhc2hyZWJvYkBt).
    
      Ongoing through Sun, Aug 30 
     
-   Today • 7:00 AM •  Morning Practice Zoom w/ Ed Brown  (1h 15m) [✨&nbsp; Join Zoom ](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09).
+   Today • 7:00 AM •  Morning Practice Zoom w/ Ed Brown  (1h 15m) [✨  Join Zoom ](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09).
    
      Password: beyond 
-     Schedule: 7:00 free writing, 7:15 brief talk, 7:30 sitting, 7:55 visiting [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=M3Z1bW84dnE4aHVwdnYwMWwxN2Eyc2FrM2tfMjAyNjA3MjhUMTQwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0) 
+     Schedule: 7:00 free writing, 7:15 brief talk, 7:30 sitting, 7:55 visiting [View event](https://www.google.com/calendar/event?eid=M3Z1bW84dnE4aHVwdnYwMWwxN2Eyc2FrM2tfMjAyNjA3MjhUMTQwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0) 
     
-   Today • 11:00 AM •  MINDFULNESS MEDITATION CLUB  (1h 30m) at Rm 11, Elizabeth Deedy Hall, College of Marin, 835 College Ave, Kentfield, CA [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=NGZjN244N241NThvdXR2bzVjN2hiMGxoNW1fMjAyNjA3MjhUMTgwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0) [🔗&nbsp; Directions ](https://www.google.com/maps/search/?api=1&query=835+College+Ave%2C+Kentfield%2C+CA).
+   Today • 11:00 AM •  MINDFULNESS MEDITATION CLUB  (1h 30m) at Rm 11, Elizabeth Deedy Hall, College of Marin, 835 College Ave, Kentfield, CA [View event](https://www.google.com/calendar/event?eid=NGZjN244N241NThvdXR2bzVjN2hiMGxoNW1fMjAyNjA3MjhUMTgwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0) [🔗  Directions ](https://www.google.com/maps/search/?api=1&query=835+College+Ave%2C+Kentfield%2C+CA).
    
-     Parking is $4 in most lots; payment is required via kiosks or the [🔗&nbsp; online system ](https://marin.thepermitstore.com/purchase.php) 
+     Parking is $4 in most lots; payment is required via kiosks or the [🔗  online system ](https://marin.thepermitstore.com/purchase.php) 
      Free parking is available in Lot P13, approximately a half-mile walk from the ESCOM Center 
-      Suggestion:  Grab a coffee at Pink Owl Cafe or Half Day Cafe across from campus [🔗&nbsp; View ](https://pinkowlcoffee.com/) 
+      Suggestion:  Grab a coffee at Pink Owl Cafe or Half Day Cafe across from campus [🔗  View ](https://pinkowlcoffee.com/) 
     
  
 
  FYI 
  
-   Wed, Jul 29 • 7:00 AM •  Morning Practice Zoom w/ Ed Brown  (1h 15m) [✨&nbsp; Join Zoom ](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=M3Z1bW84dnE4aHVwdnYwMWwxN2Eyc2FrM2tfMjAyNjA3MjlUMTQwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0).
+   Wed, Jul 29 • 7:00 AM •  Morning Practice Zoom w/ Ed Brown  (1h 15m) [✨  Join Zoom ](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09) [View event](https://www.google.com/calendar/event?eid=M3Z1bW84dnE4aHVwdnYwMWwxN2Eyc2FrM2tfMjAyNjA3MjlUMTQwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0).
    
      Password: beyond 
     
-   Wed, Jul 29 • 2:10 PM •  Go to class  (20m) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=N2QwanA1NG5iMTkzMDdvMDluanYycTdubmNfMjAyNjA3MjlUMjExMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0). 
-   Wed, Jul 29 • 2:30 PM •  Tai Chi  (1h) at Corte Madera Community Center, 498 Tamalpais Dr, Corte Madera, CA 94925 [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=NzZpdXJnaXY2MWM4bGo4aGNjMm9vYmVhM2ZfMjAyNjA3MjlUMjEzMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0) [🔗&nbsp; Directions ](https://www.google.com/maps/search/?api=1&query=498+Tamalpais+Dr%2C+Corte+Madera%2C+CA+94925). 
-   Fri, Jul 31 •  Larkspur Isle Rent Payment  ($2,705.00) is scheduled for delivery [🔗&nbsp; View details ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871856687614211673).
+   Wed, Jul 29 • 2:10 PM •  Go to class  (20m) [View event](https://www.google.com/calendar/event?eid=N2QwanA1NG5iMTkzMDdvMDluanYycTdubmNfMjAyNjA3MjlUMjExMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0). 
+   Wed, Jul 29 • 2:30 PM •  Tai Chi  (1h) at Corte Madera Community Center, 498 Tamalpais Dr, Corte Madera, CA 94925 [View event](https://www.google.com/calendar/event?eid=NzZpdXJnaXY2MWM4bGo4aGNjMm9vYmVhM2ZfMjAyNjA3MjlUMjEzMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0) [🔗  Directions ](https://www.google.com/maps/search/?api=1&query=498+Tamalpais+Dr%2C+Corte+Madera%2C+CA+94925). 
+   Fri, Jul 31 •  Larkspur Isle Rent Payment  ($2,705.00) is scheduled for delivery [View details](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871856687614211673).
    
      Payment was initiated on Mon, Jul 27 via your Bank of America account ending in DRIVE 
     
-   Mon, Aug 3 • ⏱️ 10m •  Check DSA Dues & Membership Status  to avoid lapsing under the new policy taking effect on Tue, Aug 4 [🔗&nbsp; Check status ](https://proof.dsausa.org) [🔗&nbsp; View policy ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871377510283841584) [📅&nbsp; Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Check+DSA+Dues+%26+Membership+Status&dates=20260803T100000%2F20260803T110000&ctz=America%2FLos_Angeles&details=Check+DSA+dues+and+membership+status+to+avoid+lapsing+under+the+new+policy.+Check+status%3A+https%3A%2F%2Fproof.dsausa.org.+View+policy%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19f877ee3d1f9030&location=&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com).
+   Mon, Aug 3 • ⏱️ 10m •  Check DSA Dues & Membership Status  to avoid lapsing under the new policy taking effect on Tue, Aug 4 [🔗  Check status ](https://proof.dsausa.org) [🔗  View policy ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871377510283841584) [📅  Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Check+DSA+Dues+%26+Membership+Status&dates=20260803T100000%2F20260803T110000&ctz=America%2FLos_Angeles&details=Check+DSA+dues+and+membership+status+to+avoid+lapsing+under+the+new+policy.+Check+status%3A+https%3A%2F%2Fproof.dsausa.org.+View+policy%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19f877ee3d1f9030&location=&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com).
    
      Action is required by Mon, Aug 3 to maintain Discussion Board access 
      If monthly dues were not paid within the last month, you must restart payments or request a waiver 
     
-   Sat, Aug 15 • 11:30 AM •  Living Transmission of Love Session  (1h 30m) with Robin Landsong via Zoom [🔗&nbsp; Join session ](https://app.acuityscheduling.com/schedule.php?owner=12569473&action=zoom&uniqueID=2c7d9813bd2115c2998d94866dc3e591&ownerID=12569473) [🔗&nbsp; View confirmation ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871918297686165526) [📅&nbsp; View Event ](https://www.google.com/calendar/event?eid=Y2dvNjJvcG43MG9qMGJiMmM5Z202YjlrY2hpNmFiOW9jNWg2OGI5amNkaTNjb2I0NjByajZjcGs2byBzcGFya3lmbGFzaHJlYm9iQG0).
+   Sat, Aug 15 • 11:30 AM •  Living Transmission of Love Session  (1h 30m) with Robin Landsong via Zoom [🔗  Join session ](https://app.acuityscheduling.com/schedule.php?owner=12569473&action=zoom&uniqueID=2c7d9813bd2115c2998d94866dc3e591&ownerID=12569473) [🔗  View confirmation ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871918297686165526) [📅  View Event ](https://www.google.com/calendar/event?eid=Y2dvNjJvcG43MG9qMGJiMmM5Z202YjlrY2hpNmFiOW9jNWg2OGI5amNkaTNjb2I0NjByajZjcGs2byBzcGFya3lmbGFzaHJlYm9iQG0).
    
      This 90-minute session was successfully scheduled and confirmed on Mon, Jul 27 
     
-   Your Blueair replacement filters (Order #BA2741449) shipped on Mon, Jul 27 [🔗&nbsp; Track order ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871918171624114786).
+   Your Blueair replacement filters (Order #BA2741449) shipped on Mon, Jul 27 [Track order](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871918171624114786).
    
      Order includes two Blue Pure 411i Max, 411a Max Allergenblock Filters ($83.57) 
     
@@ -131,7 +131,7 @@ CC is an experimental AI productivity agent and can make mistakes, so double-che
 
  CC Calendar Updates 
  
-   New:  Living Transmission of Love from the Other Side  — August 15, 2026 11:30am PT · [🔗&nbsp; Source email ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871918297686165526) · [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=b3VoMWZxYm5rdDdsYmxqOWMyODBramgyM28gOWNlMWM5MDAyM2U4ZjI5MmZjMTEwNzRlNzZkOTQ3MWYzZmJlOWQxNDVjYjk0OWQ4MDY0NWM2ZDYwZjBlOGQyNUBn) 
+   New:  Living Transmission of Love from the Other Side  — August 15, 2026 11:30am PT · [Source email](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871918297686165526) · [View event](https://www.google.com/calendar/event?eid=b3VoMWZxYm5rdDdsYmxqOWMyODBramgyM28gOWNlMWM5MDAyM2U4ZjI5MmZjMTEwNzRlNzZkOTQ3MWYzZmJlOWQxNDVjYjk0OWQ4MDY0NWM2ZDYwZjBlOGQyNUBn) 
  
 
  Have a wonderful day! 
@@ -160,8 +160,8 @@ CC is an experimental AI productivity agent and can make mistakes, so double-che
    
      💬 What do you think about this email? 
      
-      [ 👍 ](https://docs.google.com/forms/d/e/1FAIpQLSfGPGkFp-YwBA_vcSLpUqSo9glbxn-0rKy8i3O2hUhl9IS_Xg/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8D+Useful)
-      [ 👎 ](https://docs.google.com/forms/d/e/1FAIpQLSfGPGkFp-YwBA_vcSLpUqSo9glbxn-0rKy8i3O2hUhl9IS_Xg/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8E+Not+useful)
+      [👍 ](https://docs.google.com/forms/d/e/1FAIpQLSfGPGkFp-YwBA_vcSLpUqSo9glbxn-0rKy8i3O2hUhl9IS_Xg/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8D+Useful)
+      [👎 ](https://docs.google.com/forms/d/e/1FAIpQLSfGPGkFp-YwBA_vcSLpUqSo9glbxn-0rKy8i3O2hUhl9IS_Xg/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8E+Not+useful)
      
      
       🔬 Want to help improve CC further? [Sign up for user research opportunities](https://forms.gle/mSZLnsScUpa9i42b7).
