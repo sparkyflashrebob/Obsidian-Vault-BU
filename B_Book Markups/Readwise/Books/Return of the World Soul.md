@@ -1,0 +1,168 @@
+# Return of the World Soul
+
+![rw-book-cover](https://m.media-amazon.com/images/I/71pvQ92F0KL._SY160.jpg)
+
+## Metadata
+- Author: [[Remo F. Roth]]
+- Full Title: Return of the World Soul
+- Category: #books
+
+## Highlights
+- It is a surprising fact that Pauli’s most famous proposal—the existence of a mass-less and charge-less elementary particle, the antineutrino—has exactly this property in that it penetrates all mass of the universe with almost no interaction. ([Location 135](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=135))
+    - Tags: [[blue]] 
+- concept of symmetry ([Location 144](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=144))
+- Pauli was convinced that their notion of the complementarity between the outside and the inside was the result of their striving for wholeness, which he looked at as being a new form of mysticism growing out of natural science[6]. ([Location 153](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=153))
+    - Tags: [[orange]] 
+- psychophysical reality ([Location 156](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=156))
+    - Tags: [[pink]] 
+- unus mundus ([Location 156](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=156))
+    - Tags: [[blue]] 
+- (the one world). ([Location 156](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=156))
+- This could open the door to further evolution not only of consciousness but within matter itself. ([Location 159](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=159))
+- Alexipharmakum, ([Location 160](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=160))
+    - Tags: [[orange]] 
+- It means that in every energetic process the amount of energy before and after the physical event is equal. No energy can disappear; it can only be transformed into other known forms of energy. (Of course in Einstein’s theory of relativity matter and energy become mutually convertible and the law of the conservation of energy becomes replaced by one of the conservation of matter-energy.) ([Location 235](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=235))
+    - Tags: [[blue]] 
+- antineutrino[12], ([Location 246](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=246))
+- ‘psychophysical reality’ ([Location 271](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=271))
+    - Tags: [[orange]] 
+- Beyond, ([Location 274](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=274))
+    - Tags: [[blue]] 
+- double triadic star, ([Location 274](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=274))
+    - Tags: [[pink]] 
+- Seal of Solomon ([Location 274](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=274))
+- exclusion principle, ([Location 278](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=278))
+- It tells us that the physical world is split into two completely different types of particles: bosons and fermions. ([Location 279](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=279))
+- Bosons are the carriers of the four physical forces; the so-called strong nuclear force, which holds the atoms together, the electromagnetic force, gravitation, and the weak nuclear force responsible for radioactivity. ([Location 280](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=280))
+    - Tags: [[orange]] 
+- Bosons can all occupy the same quantum state, thus many of them can be concentrated in one point. ([Location 281](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=281))
+    - Tags: [[pink]] 
+- Fermions, however, cannot occupy the same quantum state and are the particles that make up the physical structure of matter. ([Location 282](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=282))
+    - Tags: [[blue]] 
+- photon, ([Location 283](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=283))
+- is a boson; ([Location 283](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=283))
+- protons, neutrons and electrons, ([Location 284](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=284))
+    - Tags: [[orange]] 
+- are fermions. ([Location 284](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=284))
+    - Tags: [[orange]] 
+- particles of force, are active and thus on an archetypal level masculine, ([Location 285](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=285))
+    - Tags: [[blue]] 
+- fermions, matter particles, are passive and thus female. ([Location 285](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=285))
+- In this way, in 1925 Wolfgang Pauli unconsciously defined a principle, which fitted perfectly into the worldview at the beginning of the 20th and the preceding centuries: the man is active, the woman is passive. ([Location 286](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=286))
+    - Tags: [[orange]] 
+- anima mundi, ([Location 288](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=288))
+    - Tags: [[orange]] 
+- the world soul, ([Location 288](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=288))
+    - Tags: [[pink]] 
+- spontaneously creating and thus active feminine principle, which had been repressed at the beginning of the 17th century, when mathematics entered into natural philosophy and modern science was born. ([Location 288](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=288))
+    - Tags: [[blue]] 
+- Wolfgang Pauli became more and more aware of his unconscious Neoplatonic prejudices, ([Location 295](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=295))
+    - Tags: [[blue]] 
+- monistic world ([Location 296](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=296))
+- spin[26] ([Location 302](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=302))
+    - Tags: [[blue]] 
+- Generally it is described as a form of internal angular momentum of every atom, elementary particle or quark, although actually it is an attribute which is only describable in mathematical terms and cannot be concretized. ([Location 303](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=303))
+- The spin of bosons, carriers of the four forces, is a whole number, the spin of fermions, of matter, is half-integer. ([Location 304](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=304))
+    - Tags: [[orange]] 
+- red tincture and the quintessence. ([Location 323](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=323))
+    - Tags: [[orange]] 
+- personal unconscious is structured around exactly such complexes. ([Location 344](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=344))
+    - Tags: [[blue]] 
+- Freud’s discovery of the subconscious. ([Location 345](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=345))
+- world of complexes the personal unconscious. ([Location 346](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=346))
+    - Tags: [[orange]] 
+- complexes react always in a similar way to input from the outside. ([Location 346](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=346))
+    - Tags: [[pink]] 
+- collective unconscious, ([Location 351](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=351))
+    - Tags: [[blue]] 
+- archetypes. ([Location 352](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=352))
+- Animus. ([Location 355](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=355))
+    - Tags: [[orange]] 
+- ‘synchronicity.’ ([Location 363](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=363))
+    - Tags: [[blue]] 
+- For example we dream of a person and the next day we meet them in town. ([Location 364](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=364))
+- According to Jung it is important for one’s psychic development to discover the meaning of such synchronicities. Only in this way can they lead us to a future life of higher meaning. If we, however, do not understand the meaning of such synchronicities, they will prevail unconsciously, that is to say, mostly destructively. ([Location 369](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=369))
+# Return of the World Soul
+
+![rw-book-cover](https://m.media-amazon.com/images/I/71pvQ92F0KL._SY160.jpg)
+
+## Metadata
+- Author: [[Remo F. Roth]]
+- Full Title: Return of the World Soul
+- Category: #books
+
+## Highlights
+- It is a surprising fact that Pauli’s most famous proposal—the existence of a mass-less and charge-less elementary particle, the antineutrino—has exactly this property in that it penetrates all mass of the universe with almost no interaction. ([Location 135](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=135))
+    - Tags: [[blue]] 
+- concept of symmetry ([Location 144](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=144))
+- Pauli was convinced that their notion of the complementarity between the outside and the inside was the result of their striving for wholeness, which he looked at as being a new form of mysticism growing out of natural science[6]. ([Location 153](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=153))
+    - Tags: [[orange]] 
+- psychophysical reality ([Location 156](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=156))
+    - Tags: [[pink]] 
+- unus mundus ([Location 156](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=156))
+    - Tags: [[blue]] 
+- (the one world). ([Location 156](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=156))
+- This could open the door to further evolution not only of consciousness but within matter itself. ([Location 159](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=159))
+- Alexipharmakum, ([Location 160](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=160))
+    - Tags: [[orange]] 
+- It means that in every energetic process the amount of energy before and after the physical event is equal. No energy can disappear; it can only be transformed into other known forms of energy. (Of course in Einstein’s theory of relativity matter and energy become mutually convertible and the law of the conservation of energy becomes replaced by one of the conservation of matter-energy.) ([Location 235](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=235))
+    - Tags: [[blue]] 
+- antineutrino[12], ([Location 246](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=246))
+- ‘psychophysical reality’ ([Location 271](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=271))
+    - Tags: [[orange]] 
+- Beyond, ([Location 274](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=274))
+    - Tags: [[blue]] 
+- double triadic star, ([Location 274](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=274))
+    - Tags: [[pink]] 
+- Seal of Solomon ([Location 274](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=274))
+- exclusion principle, ([Location 278](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=278))
+- It tells us that the physical world is split into two completely different types of particles: bosons and fermions. ([Location 279](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=279))
+- Bosons are the carriers of the four physical forces; the so-called strong nuclear force, which holds the atoms together, the electromagnetic force, gravitation, and the weak nuclear force responsible for radioactivity. ([Location 280](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=280))
+    - Tags: [[orange]] 
+- Bosons can all occupy the same quantum state, thus many of them can be concentrated in one point. ([Location 281](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=281))
+    - Tags: [[pink]] 
+- Fermions, however, cannot occupy the same quantum state and are the particles that make up the physical structure of matter. ([Location 282](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=282))
+    - Tags: [[blue]] 
+- photon, ([Location 283](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=283))
+- is a boson; ([Location 283](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=283))
+- protons, neutrons and electrons, ([Location 284](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=284))
+    - Tags: [[orange]] 
+- are fermions. ([Location 284](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=284))
+    - Tags: [[orange]] 
+- particles of force, are active and thus on an archetypal level masculine, ([Location 285](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=285))
+    - Tags: [[blue]] 
+- fermions, matter particles, are passive and thus female. ([Location 285](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=285))
+- In this way, in 1925 Wolfgang Pauli unconsciously defined a principle, which fitted perfectly into the worldview at the beginning of the 20th and the preceding centuries: the man is active, the woman is passive. ([Location 286](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=286))
+    - Tags: [[orange]] 
+- anima mundi, ([Location 288](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=288))
+    - Tags: [[orange]] 
+- the world soul, ([Location 288](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=288))
+    - Tags: [[pink]] 
+- spontaneously creating and thus active feminine principle, which had been repressed at the beginning of the 17th century, when mathematics entered into natural philosophy and modern science was born. ([Location 288](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=288))
+    - Tags: [[blue]] 
+- Wolfgang Pauli became more and more aware of his unconscious Neoplatonic prejudices, ([Location 295](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=295))
+    - Tags: [[blue]] 
+- monistic world ([Location 296](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=296))
+- spin[26] ([Location 302](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=302))
+    - Tags: [[blue]] 
+- Generally it is described as a form of internal angular momentum of every atom, elementary particle or quark, although actually it is an attribute which is only describable in mathematical terms and cannot be concretized. ([Location 303](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=303))
+- The spin of bosons, carriers of the four forces, is a whole number, the spin of fermions, of matter, is half-integer. ([Location 304](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=304))
+    - Tags: [[orange]] 
+- red tincture and the quintessence. ([Location 323](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=323))
+    - Tags: [[orange]] 
+- personal unconscious is structured around exactly such complexes. ([Location 344](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=344))
+    - Tags: [[blue]] 
+- Freud’s discovery of the subconscious. ([Location 345](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=345))
+- world of complexes the personal unconscious. ([Location 346](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=346))
+    - Tags: [[orange]] 
+- complexes react always in a similar way to input from the outside. ([Location 346](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=346))
+    - Tags: [[pink]] 
+- collective unconscious, ([Location 351](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=351))
+    - Tags: [[blue]] 
+- archetypes. ([Location 352](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=352))
+- Animus. ([Location 355](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=355))
+    - Tags: [[orange]] 
+- ‘synchronicity.’ ([Location 363](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=363))
+    - Tags: [[blue]] 
+- For example we dream of a person and the next day we meet them in town. ([Location 364](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=364))
+- According to Jung it is important for one’s psychic development to discover the meaning of such synchronicities. Only in this way can they lead us to a future life of higher meaning. If we, however, do not understand the meaning of such synchronicities, they will prevail unconsciously, that is to say, mostly destructively. ([Location 369](https://readwise.io/to_kindle?action=open&asin=B00A2WRXDS&location=369))

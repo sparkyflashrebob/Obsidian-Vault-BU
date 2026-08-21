@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">058d9ca7-3cc3-4074-9e02-591c17345a63</dc:identifier>
+        <dc:title>Meditations 2: Dhamma Talks</dc:title>
+        <dc:creator opf:file-as="Bhikkhu, Thanissaro" opf:role="aut">Thanissaro Bhikkhu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.9.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-12-27T02:40:08+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;A collection of transcribed Dhamma talks given by Thanissaro Bhikkhu on Buddhist meditation and practice.&lt;/p&gt;</dc:description>
+        <dc:publisher>Metta Forest Monastery</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Dharma</dc:subject>
+        <dc:subject>Buddhism</dc:subject>
+        <dc:subject>Meditation</dc:subject>
+        <dc:subject>Dhamma</dc:subject>
+        <dc:subject>Theravada</dc:subject>
+        <meta content="{&quot;Thanissaro Bhikkhu&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Meditations" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="2020-01-29T04:01:39.790000+00:00" name="calibre:timestamp"/>
+        <meta content="Meditations 2: Dhamma Talks" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

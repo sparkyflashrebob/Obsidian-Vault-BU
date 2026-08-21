@@ -1,0 +1,25 @@
+While the majority of the transcripts feature the teacher, Andy, delivering instruction and sharing his own anecdotes (such as his suicide attempt at 40, his experience with "panic syndrome," and the bird with the broken leg), various participants share significant personal stories and insights regarding their addiction, past trauma, and experiences during meditation.
+
+**Stories of Addiction and Relapse**
+Participants frequently offer specific narratives about their struggles with substance abuse and the cycle of relapse:
+*   **The "Airbnb" Relapse:** One participant shares a detailed story about a relapse where he had achieved 60 days of sobriety but stopped working the steps. He attempted an Intensive Outpatient Program (IOP) but skipped days and lied to his counselor. He eventually bought two bottles of vodka and rented an Airbnb specifically to drink without supervision, resulting in hospitalization,.
+*   **Law School and Performance:** A participant shares a pessimistic view of their sobriety based on past experience. During their first semester of law school, they stayed sober but made "horrible grades." This triggered a relapse, and they subsequently achieved much better grades while taking exams drunk, creating a fear that sobriety hinders their performance.
+*   **The "Ativan" Incident:** A participant shares a recent conflict involving her husband. She ordered Ativan (a benzodiazepine) intending to consult with a psychiatrist about it, not realizing it was a "no-no" in rehab. Her husband saw the order, accused her of being a liar and a drug addict, and threatened to not let her come home, asserting she hadn't learned anything in rehab,.
+*   **Suboxone Dependence:** A participant describes being on Suboxone for two years and feeling that they were "falling apart worse on that than I ever was on heroin," despite it being a legally prescribed treatment they obtained at their "wife's parents' house",.
+
+**Meditation and Spiritual Experiences**
+Participants share specific, sometimes visceral, experiences that occurred during or prior to the sessions:
+*   **"My Soul Touched My Finger":** A participant describes a powerful moment of connection with their body. While forcing themselves to vomit to feel better, they felt as though their soul "touched my finger" as they were pulling their hand out of their throat. They interpreted this physiological sensation as their body telling them, "I'm here. Take care",.
+*   **The Haircut:** A participant relates a story about learning to meditate to escape a chatty barber. While getting a haircut from a man who spoke poor English but wouldn't stop talking, the participant closed their eyes and successfully "went right by" the situation, disassociating until the haircut was over.
+*   **Energy Displacement:** A participant recounts witnessing "energy displacement" in a previous course. They watched a teacher remove negative energy from a "250 pound football player" and transfer it to a small girl, who then "locked up" physically until they mentally built the football player back up,.
+*   **Visualizations:** One participant describes a meditation experience where they felt their "crown chakra" spinning clockwise and saw white light starting to pour over them. Another describes a "body scan" meditation where they successfully moved their focus from their toes to their arms without their mind wandering back to "me".
+
+**Stories of Loss and Trauma**
+Several participants offer glimpses into their personal history and relationships:
+*   **Destruction of Sacred Items:** A participant shares a memory of a partner destroying items they held sacred—rocks, books, and photographs—about five years prior. Through the session, they realized those objects were just "things" and that the stories associated with them remained intact,.
+*   **Isolation and War:** A participant compares their addiction isolation to a book they read about World War I prisoners of war. They realized that even POWs were allowed more social interaction and family contact than the participant allowed themselves during their depression and addiction, essentially putting themselves in "solitary confinement",.
+*   **The Lightning Bolt:** A participant shares a story about leaving a previous session early because they were cold. However, they credit the teacher's influence for an intuitive moment—described as getting "hit by a lightning bolt"—that helped them decide to volunteer in a field of interest rather than just working for cash, mentioning a son-in-law in the context of this decision,.
+
+**Reflections on Identity**
+*   **Name Change:** A participant shares that they were always called "Cindy" growing up, but as part of their recovery and becoming an adult, they now want to be called "Cynthia".
+*   **Cross-Addiction:** One participant, Chris, mentions that during morning check-ins, they identify as "cross-addicted," explaining that they are addicted to many life issues and difficulties, not just drugs.

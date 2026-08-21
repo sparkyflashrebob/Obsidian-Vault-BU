@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"4b730fd31ce07a9c","type":"group","x":-600,"y":680,"width":592,"height":243,"label":"Serenity Prayer"},
+		{"id":"fa735b1d0823ef66","x":105,"y":973,"width":250,"height":60,"type":"text","text":""},
+		{"id":"c2e0730c849d3381","type":"text","text":"Conditions","x":-179,"y":-125,"width":159,"height":60},
+		{"id":"112688c00c7d6b40","type":"text","text":"Depressed","x":-179,"y":-20,"width":175,"height":60},
+		{"id":"195e16f5e3876cca","type":"text","text":"ride the wave","x":-265,"y":120,"width":173,"height":60},
+		{"id":"03cc0fefb5a75816","type":"text","text":"Observation","x":-80,"y":120,"width":181,"height":60},
+		{"id":"ae794eece8c1d653","type":"text","text":"Doesn't have to be great all the time","x":-194,"y":220,"width":206,"height":60},
+		{"id":"469d08381549e563","type":"text","text":"1st Noble Truth","x":-85,"y":300,"width":191,"height":60},
+		{"id":"043cc2a55dbb87aa","type":"text","text":"Understanding","x":-87,"y":400,"width":185,"height":60},
+		{"id":"abcd7b1b5dbe802c","type":"text","text":"knowing not holding on","x":12,"y":480,"width":250,"height":60},
+		{"id":"5d0b95163a49ab91","type":"text","text":"Knowing holding on","x":-158,"y":480,"width":156,"height":60},
+		{"id":"e87d9d6325010fcf","type":"text","text":"wisdom","x":-153,"y":840,"width":125,"height":60},
+		{"id":"9f5d5ccee4695c1e","type":"text","text":"acceptance","x":-580,"y":840,"width":180,"height":60},
+		{"id":"aabbd9b8cedcbabf","type":"text","text":"Serenity Prayer\n","x":-570,"y":700,"width":160,"height":60},
+		{"id":"c3c570d25dbb1d5f","type":"text","text":"courage","x":-347,"y":837,"width":132,"height":66},
+		{"id":"a84ee74bbc606774","type":"text","text":"skillful and unskillful","x":300,"y":400,"width":233,"height":60},
+		{"id":"6e7a1f2d23ff390c","x":300,"y":617,"width":148,"height":83,"type":"text","text":"what am I adding"},
+		{"id":"586708befef36919","x":464,"y":740,"width":136,"height":50,"type":"text","text":"avoiding"},
+		{"id":"3833c58f697550aa","x":300,"y":740,"width":134,"height":50,"type":"text","text":"resisting"},
+		{"id":"05cc77b570b2f1ef","x":323,"y":840,"width":250,"height":60,"type":"text","text":"banging your head"},
+		{"id":"e18e24e8f58963f1","x":620,"y":838,"width":218,"height":62,"type":"text","text":"sense fulfilment"}
+	],
+	"edges":[
+		{"id":"27ab80443a6b14dc","fromNode":"aabbd9b8cedcbabf","fromSide":"bottom","toNode":"9f5d5ccee4695c1e","toSide":"top"},
+		{"id":"a4bc2e159e984a6f","fromNode":"9f5d5ccee4695c1e","fromSide":"right","toNode":"c3c570d25dbb1d5f","toSide":"left"},
+		{"id":"5bd153e02d923218","fromNode":"c3c570d25dbb1d5f","fromSide":"right","toNode":"e87d9d6325010fcf","toSide":"left"}
+	]
+}

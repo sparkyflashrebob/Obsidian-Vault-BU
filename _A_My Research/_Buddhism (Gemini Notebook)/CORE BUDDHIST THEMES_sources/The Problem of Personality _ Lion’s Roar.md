@@ -1,0 +1,226 @@
+# The Problem of Personality | Lion’s Roar
+
+https://www.lionsroar.com/the-problem-of-personality/#:~:text=In%20Pali%2C%20that%20is%20called,as%20making%20up%20our%20identity.
+
+Our Mission
+
+The Problem of Personality
+
+We believe deeply in ourselves as personalities, says Ajahn Sumedho, each committed to the reality of our own personal history and distinctive traits.
+
+Ajahn Sumedho
+
+https://www.lionsroar.com/author/ajahn-sumedho/
+
+Photo by Redd Angelo
+
+Buddhadharma
+
+https://www.lionsroar.com/buddhadharma/
+
+Most of us are very committed to ourselves as personalities. The habit of viewing ourselves as a person is deeply ingrained in us. In Pali, that is called
+
+sakkaya-ditthi
+
+, which can be translated as “personality-view” or “the ego.” It means that we regard the five
+
+(groups)—body, feelings, perceptions, conceptions, and consciousness—as belonging to
+
+person, as making up
+
+identity. In investigating the personality-view, we do not grasp on to the perception of “no person” either. It is possible to take the concept of
+
+(no self) and grasp that, and say, “There’s no self because the Buddha said there’s
+
+!” But in that case we’re still grasping a perception. Grasping a perception of yourself as a nonself gets to be a bit ridiculous.
+
+If you grasp on to the conditions you create, you will end up in the same place every time—suffering. But don’t simply believe me; explore it for yourself.
+
+It is so easy for us to conceive the conditions we attach to. Yet with
+
+(discriminating alertness) and
+
+sati-sampajañña
+
+(awareness), we begin to awaken ourselves to the way it is, rather than being committed to the conventional realities. I want to emphasize that this awareness is there before you become something. This point cannot be repeated often enough, because even though cultivating awareness might appear very simple on the face of it, our mindset is definitely geared to believing in the personality-view as our fundamental reality. If you grasp on to the conditions you create, you will end up in the same place every time—suffering. But don’t simply believe me; explore it for yourself.
+
+Instead of starting with a perception or a conception of anything, the Buddha established a way based on awareness, or awakened attention. This is an immanent act in the present. It is
+
+sati-sampajañña
+
+, an intuitive awareness that allows the consciousness to be with the present moment. With this attention, you begin to explore
+
+sakkaya-ditthi
+
+(personality-view) in terms of the perceptions you attach to as yourself.
+
+So that one can truly explore the development of
+
+sakkaya-ditthi
+
+, I suggest deliberately conceiving of yourself as a certain person: “I’m this person who has got to practice in order to become enlightened.” Then consider what you might say to yourself: “I’m an unenlightened person who has come to a center to practice meditation so that I will become an enlightened person in the future.” You can have endless comments about this and form further perceptions about these perceptions, but that’s not the point. Simply deliberately think, “I am an unenlightened person.” Say that to yourself with attention, listening. This deliberate thinking allows you to listen to yourself as you think.
+
+When you are caught in the wandering mind, you lose yourself; you just go from one thought to another. One thought connects to another and you just get carried away. But deliberate thinking is not like that. It’s intentional, for you are choosing what you are going to think. The important thing is not the thought, or even the quality of the thought—whether it’s stupid or intelligent, right or wrong—it’s the attention, the ability to listen to your deliberate thinking. When I do this, being aware of thinking in this way allows something to happen to me (and I assume will happen also to you, but I don’t know, maybe I’m just an unusual case). Before I start thinking, “I am an unenlightened person,” there is a space. There is an empty pause before I deliberately think.
+
+When you do this kind of deliberate thinking, notice the pause before the full-blown thought. That is just the way it is; there is no perception in that space, but there is attention to it. There is awareness. You are certainly aware before “I am an unenlightened person” arises. Thinking in this way is not wandering thinking; it’s not judging or analyzing, but just noticing “It’s like
+
+” When you deliberately think, you can use thought to keep pointing to
+
+, noticing the way it is.
+
+Explore. Investigate. By investigating you are actually getting to notice the way it is, the Dhamma.
+
+If you listen to the pronoun “I” in a sentence such as “I am an unenlightened person” and the words that follow, you will realize that you are creating this consciousness of yourself through the words you are deliberately thinking. That which is aware of your thinking—what is that? Is that a person? Is it a person that is aware? Or is it pure awareness? Is this awareness personal, or does the person arise
+
+Explore. Investigate. By investigating you are actually getting to notice the way it is, the Dhamma. You come to recognize that there is actually no person who is being aware. Nevertheless, awareness will include what seems personal.
+
+When one says, “I am an unenlightened person who needs to practice meditation in order to become an enlightened person in the future,” one assumes that “I am this body. I have this history. I am so many years old, born in such and such a place. I’ve done all these things and so I have a history to prove that this person exists.” I have a passport and a birth certificate, and people even want me to have a website. But in fact, there doesn’t seem to be any person in the awareness.
+
+I find that the more I am aware, the more my personal story seems utterly unimportant and of no interest whatsoever. It doesn’t mean anything. It’s just a few memories I can churn up. Yet if I adopt the personal view, if I get caught up in myself, thinking about myself as a real personality, then suddenly I find my past tremendously important. An identity gives me the sense that I am a person. “I
+
+somebody. I am somebody important, somebody that may not be
+
+important, but at least I feel connected to something in the past. I have a home, I have a heritage.” People talk about losing a sense of their identity, perhaps because they’re refugees, their parents are dead, they’re of mixed race, or they lack any clear identity of themselves as belonging to something in the past. The sense of a personality depends very much on proving that you are somebody. You have your education, your race, your accomplishments or lack of accomplishments; whether you are an interesting or uninteresting person, important or unimportant, a Very Important Person or a Very Unimportant Person!
+
+This simple exercise of saying “I am an unenlightened person” is quite deliberate. You could also say, “I am an enlightened person!” You can choose which you would like to be, enlightened or unenlightened.
+
+In meditation we are not trying to deny personality. We are not trying to convince ourselves that we are non-people, grasping ideas such as “I have no nationality. I have no sex. I have no class. I have no race. The pure Dhamma is my true identity.” That kind of thinking is still another identity, isn’t it? That’s not it. Our practice is not about grasping the concepts of no-self. It is in realizing, in noting through awakened attention, the way things really are.
+
+This simple exercise of saying “I am an unenlightened person” is quite deliberate. You could also say, “I am an enlightened person!” You can choose which you would like to be, enlightened or unenlightened. Most of us don’t dare to go around saying we are enlightened. It’s safer to go around saying, “I am an unenlightened person,” because if you say, “I am an enlightened person,” someone is going to challenge you. They will say, “You don’t look very enlightened to me!” Whatever you say—“I am an unenlightened person” or “I am an enlightened person” or “I am an enlightened non-person” or “I am an unenlightened non-person”—the words are not really important. It’s the attention that matters.
+
+I have found this exercise very revealing. When I did it, it became very clear what awareness, apperception,
+
+sati-sampajañña
+
+, is. Then the thinking, the perceptions, arose. Deliberately thinking, “I am an unenlightened person,” arises within the awareness. The awareness is not a perception, is it? It’s an apperception; it includes perception. Perceptions arise and cease. It’s not personal; it doesn’t have any Ajahn-Sumedho-quality to it. It’s not male or female,
+
+(nun), or anything like that. It has no quality on the conventional, conditioned level. It is nothing. There is awareness, then “I am an unenlightened person,” and then nothing. There’s no person. You are exploring, you are investigating these gaps before “I” and after “I.” You say “I” and there’s
+
+sati-sampajañña
+
+. There’s the sound of silence, isn’t there?
+
+“I am” arises in this awareness, this consciousness. As you investigate it, you can question what this is about. Awareness is not a creation, is it? I am creating the “I am…” What is more real than “I am an unenlightened person” is the awareness. That is what is continuous, what sustains, while the sense of yourself as a person can go any which way. As you think about yourself—who you are, who you should be, who you would like to be, who you do not want to be, how good or bad, wonderful or horrible you are—all this whirls around and goes all over the place. One moment you can feel, “I am a really wonderful person.” The next moment you can feel, “I am an absolutely hopeless, horrible person.” But if you take refuge in awareness, whatever you are thinking does not make much difference, because your refuge is in awareness rather than in the gyrations and fluctuations of the self-view, of your
+
+sakkaya-ditthi
+
+Just notice how being a person is like a yo-yo: it goes up and down all the time. When praised, you feel you’re wonderful; you
+
+wonderful. Then, you’re a hopeless case, depressed, a hopeless victim of circumstances. You win the lottery and you’re elated; then somebody steals all the money and you’re suicidal. The personality is like that; it’s completely dependent. You can be hurt terribly on a personal level, or you can be exhilarated. People find you just the most wonderful, thrilling, exciting personality, and you feel happy. When I was a young monk, I used to pride myself on how well I kept the Vinaya discipline, that I was really, really good with the Vinaya. I really understood it and I was very strict. Then I stayed for a while on this island called Ko Sichang, off the coast of Siraja, with another monk. Later on this monk told somebody else that I didn’t keep very good vinaya. I wanted to murder him!
+
+Even Vinaya can be another form of the self-view: I ask myself, “How good a monk am I?” And somebody says, “Oh, Ajahn Sumedho is exemplary, a top-notch monk!” and that’s wonderful. Then, suddenly, I hear, “He’s a hopeless case, doesn’t keep good vinaya,” and I want to commit murder. This is how untrustworthy the self is. We can rise to great altruism and then sink to the most depraved depths in just a second. It’s a totally untrustworthy state to put your refuge in, being a person of any kind. Even holding the view that “I am a good monk” is a pretty dodgy refuge. If that is all you know, then when someone says you are not a very good monk, you’re angry, you’re hurt, you’re offended.
+
+Sati-sampajañña
+
+, in the midst of all the fluctuations, is constant. It is a refuge. As you recognize it, realize it, know it, and appreciate it, you come to know it as a refuge, because a genuine refuge is not dependent on praise and blame, success or failure.
+
+There are various methods of training ourselves to stop the thinking mind. One kind, for example, is a Zen koan or self-inquiry practice such as asking “Who am I?” These techniques or expedient means that we find in Zen and Advaita Vedanta stop the thinking mind so that we begin to notice the pure state of attention, where we are not caught in thinking and the assumptions of a self, where there is just pure awareness. When you hear the sound of silence, because your mind is just in that state of attention, of pure awareness, there’s no self. You understand, “It’s like
+
+.” Then you can learn to relax into that, to trust it, and not try to hold onto it. It’s tempting to grasp on to the idea: “I’ve got to get the sound of silence and I’ve got to relax into it.” That’s the dodgy part of any kind of technique or instruction.
+
+(meditation or cultivation) isn’t grasping ideas or coming from any position. Rather, in this
+
+, this practice, we recognize and realize through awakened awareness, through direct knowing. When the self starts to break up, some people find it very frightening. Everything you have regarded as solid and real starts falling apart. I remember years ago—long before I was a Buddhist—feeling threatened by certain radical ideas that tended to challenge the security of the world I lived in. At times such as those, it seems that somebody is threatening or challenging something that you depend upon for your sense that everything is all right. You can get very angry and even violent, because they are threatening
+
+You can see why conservative people feel very threatened by foreigners, radical ideas, or anything that comes in and challenges the status quo, because one is depending on that world to make one feel secure. When you are threatened, you panic. Reading about the tragic earthquake in India \[the Gujarat earthquake of January, 2001\], I was struck with how tenuous our security actually is. The quake just happened out of nowhere. In a town in Gujarat, some schoolgirls were practicing marching on the school ground for a parade, and the merchants were placing their wares out in their shops. Just an average, normal day. Then suddenly, within five minutes the girls were all dead, killed by falling masonry. The whole town of twenty-five thousand people was completely demolished within five minutes. Think what that would do to your mind! It’s frightening to think what a dodgy realm we live in. It seems like a solid and safe environment, then suddenly out of nowhere there’s an earthquake and the whole lot collapses on top of them. Even without earthquakes, we can recognize how easily we can have a heart attack, a brain hemorrhage, be hit by a car, or struck by a plane crashing into our monastery.
+
+We are asked to explore the nature of the conditioned realm in all the dimensions in which we experience it: the physical, the emotional, and the mental.
+
+The conditioned realm that we perceive, create, and hold on to is a very unstable, uncertain, undependable, and changing condition in itself. That’s just the way it is. The Buddha pointed to the instability of conditioned phenomena, to their impermanence. This is not just a philosophy that he was expecting us to go along with. We are asked to explore the nature of the conditioned realm in all the dimensions in which we experience it: the physical, the emotional, and the mental. We take that which is aware of the conditioned realm,
+
+sati-sampajañña
+
+, awakened awareness, as our refuge, rather than trying to find or create a condition that will give us a false sense of security. We are not trying to fool ourselves, to create a sense of security through positive thinking. Our refuge is awakening to reality, because the unconditioned
+
+reality. Awareness, awakeness, is the gate to the unconditioned. The conditions are whatever they are—strong or weak, pleasant or painful, whatever.
+
+“I am an unenlightened person who has to practice meditation
+
+. I must really work at it, get rid of my defilements, and become an enlightened person some time in the future. I hope to attain stream-entry before I die, but if I don’t, I hope that I will be reborn in a better realm.” We go on like that, creating more and more complications. People ask me, “Can I attain stream-entry? Are there any arahants?” Because we still think of stream entry and arahantship as a personal quality, don’t we? We look at somebody and say, “That monk over there is an arahant!” We think that person is an arahant or stream-enterer. That’s just the way the conditioned mind operates. It can’t help it. It can’t do anything other than that. You can’t trust it. You can’t take refuge in your thoughts or your perceptions. You can only take refuge in awareness. Of course, awareness doesn’t seem like anything, it’s seems like nothing—but it’s everything. All the problems are resolved right there.
+
+Trust in the simple act of attention. Then explore and have confidence in your ability to use wisdom.
+
+Your conditioned mind thinks, “Awareness is nothing; it doesn’t amount to anything. It’s not worth anything. You couldn’t sell it!” This is the point at which we learn to trust in the ability to awaken, because if we think about it, we’ll start doubting it all the time: “Am I really awake? Am I awake enough? Maybe I need to be asleep longer so that I can be awake later on. Maybe if I keep practicing with ignorance I’ll get so fed up that I’ll give it up.” If you start with ignorance, how could you ever end up with wisdom? That doesn’t make any sense. It’s like hitting your head against a wall—after a while you might give it up if you haven’t damaged your brain. It does feel good when you stop, doesn’t it?
+
+Instead of looking at it in that way, trust in the simple act of attention. Then explore and have confidence in your ability to use wisdom. Many of you may think, “Oh, I don’t have any wisdom. I’m nobody. I haven’t had any real insight.” You convince yourself you can’t do this. On the personal level, maybe you don’t feel you have anything to offer, but that’s simply another creation. That’s the same as saying, “I am an unenlightened person.” Whatever you think you are—whether the best or the worst—it’s still a creation.
+
+Whatever assumptions you have about yourself, no matter how reasonable they might be, they are still a creation in the present. By believing in them, by thinking and holding to them, you’re continually creating yourself as a personality. Awakeness is not a creation. It’s the immanent act of attention in the present. That is why deliberately thinking “I am an unenlightened person” is just a skillful means to notice more carefully and continuously what it’s like to be mindful, to have pure awareness at the same time as you are creating yourself as a person. You get the sense that your self-view is a mental object, something that comes and goes. You can’t sustain “I am an unenlightened person.” How do you sustain that? By thinking it all the time? If you went around saying “I am an unenlightened person” all the time, they would send you to a mental hospital. It arises and ceases, but the awareness is sustainable. The awareness is not created, it is not personal, but it
+
+We can also recognize the ending. When “I am an unenlightened person who has got to practice meditation in order to become an enlightened person some time in the future” stops, there is ringing silence, awareness. Conditions always arise and cease
+
+in the present. The cessation is
+
+. The ending of the condition is
+
+. The end of the world is
+
+. The end of self is
+
+. The end of suffering is
+
+. You can see the arising, “I am…,” then the ending. And what remains when something has begun and ended is awareness. It’s like
+
+. It’s bright. It’s clear. It’s pure. It’s alive. It’s not like a trance. It’s not dull. It’s not stupid.
+
+This is just an encouragement—an “empowerment,” according to modern jargon. Do it! Go for it! Don’t just hang around on the edges thinking, “I am an unenlightened person who has to practice really hard in order to become an enlightened person,” and then after a while start grumbling, “Oh, I need more time!” and go into the usual plans and plots, views and opinions. If you start with ignorance, you will end up with suffering.
+
+Avijjapaccaya
+
+is the term found in the teachings on dependent origination
+
+(paticcasamuppada). Avijja
+
+is ignorance, and that conditions
+
+(mental formations), which then affect everything and you end up with grief, sorrow, despair, and anguish (
+
+soka-parideva-dukkha-domanassupayasa
+
+as a result.
+
+I encourage you to start not from
+
+, but from awareness (
+
+) and wisdom (
+
+). Be that wisdom itself, rather than a person who isn’t wise trying to become wise. As long as you hold to the view that “I’m not wise yet, but I hope to become wise,” you’ll end up with grief, sorrow, despair, and anguish. It’s that direct. It’s learning to trust in being the wisdom
+
+, being awake—even though you may feel emotionally inadequate, doubtful or uncertain, frightened or terrified of it.
+
+Emotions are like that. Be the awareness of the emotions: “Emotion is like
+
+” Emotionally we are conditioned for ignorance. I am emotionally conditioned to be a person. I am emotionally conditioned to be Ajahn Sumedho.
+
+“Ajahn Sumedho, you are wonderful!”
+
+And the emotions go, “Oh?”
+
+“Ajahn Sumedho, you are a horrible monk with terrible Vinaya!”
+
+And the emotions go, “Grrrrr!!”
+
+Emotions are like that. If my security depends on being praised and loved, respected and appreciated, being successful and healthy, everything going nicely and everyone around me being in harmony, the world around me being so utterly sensitive to my needs, I will feel all right when everything seems all right. But then it goes the other way—the earthquakes, the persecution, the abuse, the disrobing, the blame, the criticism—and then I think, “Ugh! Life is horrible. I can’t stand it anymore! I’m so hurt, so wounded. I’ve tried so hard and nobody appreciates me. Nobody loves me.” That’s the emotional dependency of the person. That’s personal conditioning.
+
+Awareness includes those emotions as mental objects (
+
+), rather than as subjects. If you don’t know this, you tend to identify with your emotions and your emotions become yourself. You become this emotional thing that has become terribly upset because the world is not respecting you enough. Our refuge is in the deathless reality rather than the transient and unstable conditions. If you trust in awareness, then the self and the emotions about oneself, whatever they might be, can be seen in terms of what they are—not judged, not made into a problem, but just noticed: “It’s like
+
+This teaching is adapted from Ajahn Sumedho’s book,
+
+Intuitive Awareness
+
+, published by Amaravati Publications and available online at www.amaravati.org.
+
+Ajahn Sumedho
+
+Ajahn Sumedho is abbot of the Amaravati Buddhist Monastery in Hemel Hempstead, England. Born in Seattle, he went to Thailand in 1966 to practice meditation, where he became a student of the late Ajahn Chah.
+
+Our Mission
+
+Terms of Service
+
+Privacy Policy
+
+Copyright © 2020 Lion’s Roar Foundation. All Rights Reserved.
+

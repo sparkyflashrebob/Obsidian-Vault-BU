@@ -1,0 +1,158 @@
+# Healing and Recovery
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/31MJ6CRVMxL._SL200_.jpg)
+
+## Metadata
+- Author: [[David R. Hawkins]]
+- Full Title: Healing and Recovery
+- Category: #books
+
+## Highlights
+- healing is the result of not ([Location 84](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=84))
+    - Tags: [[pink]] 
+- just clinical processes but also of overall biological potentialities that often do not materialize without the unseen power of spiritual alignment. ([Location 84](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=84))
+    - Tags: [[pink]] 
+- spiritual dimensions of intentionality of consciousness ([Location 86](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=86))
+    - Tags: [[blue]] 
+- The average person (if they calibrate over 200) can verify these numbers by using the simple system of muscle testing (fully described in Appendix B). Someone can test you by pressing down on your arm while they say, “Fear is over 50? Over 60? Over 70? Over 80? Over 90? Over 100?"At 100, the arm will go weak. ([Location 137](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=137))
+    - Tags: [[pink]] 
+- For many people on the planet, death comes as a matter of passive suicide because of unconscious guilt and self-hatred. ([Location 144](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=144))
+    - Tags: [[orange]] 
+- Suicide can take the forms of not caring for oneself, not getting out of the way of the bus, rolling the car over, an accidental drug overdose, high-risk behaviors, and more. ([Location 146](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=146))
+- Apathy calibrates at 50 and also has a negative energy field. The emotions of Apathy are hopelessness, despair, despondency, and depression, which are the result of the loss of energy. Apathy leads to viewing the world as hopeless, and the God of a hopeless condition of mankind would be dead or nonexistent. ([Location 147](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=147))
+    - Tags: [[blue]] 
+- The woman rocking back and forth has also had adverse changes occur in her brain. ([Location 155](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=155))
+    - Tags: [[pink]] 
+- We could add a column to the Map that says ‘Brain Chemistry’ because this energy field of Apathy results in a shift of neurotransmitters, creating a clinical state called ‘hopelessness’. ([Location 155](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=155))
+    - Tags: [[orange]] 
+- The lower states on the Map actually represent the failure to face the energy field above them. ([Location 169](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=169))
+    - Tags: [[pink]] 
+- All these levels below Courage have a negative energy field stemming from the same thought—that happiness comes from outside oneself. ([Location 170](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=170))
+- Putting one’s survival on something outside oneself therefore results in states of powerlessness, victimhood, and weakness by virtue of having projected the source of one’s power outside of oneself. ([Location 171](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=171))
+    - Tags: [[blue]] 
+- ‘wanting’. ([Location 177](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=177))
+    - Tags: [[orange]] 
+- entrapment. ([Location 178](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=178))
+- to acquire whatever one thinks is going to bring happiness, ([Location 182](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=182))
+    - Tags: [[pink]] 
+- Wantingness and cravingness are often insatiable as they originate from an energy field that can never really be satisfied. ([Location 182](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=182))
+    - Tags: [[blue]] 
+- the energy field can be used positively as motivation and intention towards fulfillment of potential and inner goals. ([Location 184](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=184))
+    - Tags: [[pink]] 
+- anger can be utilized to energize resolve and determination. ([Location 189](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=189))
+- pride is a very vulnerable position ([Location 196](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=196))
+    - Tags: [[orange]] 
+- constantly on the defensive for being ‘right’, so the world must be wrong. ([Location 200](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=200))
+- Once the person faces the fear, they can let go of pride. ([Location 201](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=201))
+    - Tags: [[blue]] 
+- Transcending the Levels of Consciousness. ([Location 205](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=205))
+- Courage, ([Location 207](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=207))
+    - Tags: [[blue]] 
+- energy field is now positive because the person values truth rather than falsehood, and integrity instead of temporary gain. ([Location 210](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=210))
+    - Tags: [[blue]] 
+- At level 200, energy goes positive, so the field stops pulling negativity from the universe to itself. ([Location 214](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=214))
+    - Tags: [[orange]] 
+- be appropriate. ([Location 215](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=215))
+- empowerment. ([Location 217](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=217))
+    - Tags: [[blue]] 
+- A person becomes re-empowered by telling the truth. ([Location 217](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=217))
+- This is obviously critical in the recovery from all illnesses. It is very visibly so in the millions of recoveries of members of Alcoholics Anonymous, where Step 1 and all the basic steps are admissions of the truth. ([Location 217](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=217))
+    - Tags: [[pink]] 
+- Neutral ([Location 224](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=224))
+    - Tags: [[blue]] 
+- energy field is positive and even more aligned with Truth. ([Location 224](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=224))
+- self-trust. ([Location 224](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=224))
+    - Tags: [[blue]] 
+- detachment. ([Location 225](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=225))
+- okayness of life; ([Location 227](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=227))
+    - Tags: [[pink]] 
+- one has let go of resisting things ([Location 229](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=229))
+    - Tags: [[blue]] 
+- one has to introduce a new energy to move up to the next level of Willingness. ([Location 229](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=229))
+- ‘yes’, ([Location 231](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=231))
+    - Tags: [[blue]] 
+- saying yes to life, to join, to agree, to commit, and to align with because there is now the introduction of intention. ([Location 231](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=231))
+- Real power begins with Willingness because one has let go of resistance. ([Location 235](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=235))
+    - Tags: [[pink]] 
+- Acceptance, ([Location 236](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=236))
+    - Tags: [[orange]] 
+- There is the beginning of transformation in consciousness. ([Location 237](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=237))
+    - Tags: [[blue]] 
+- Transformation has to do with the person’s re-owning that they are the source of their own happiness, and that the power is within them. ([Location 237](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=237))
+- They are not dominated by pride, which means denial, so they can allow for their weaknesses and shortcomings. ([Location 239](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=239))
+    - Tags: [[pink]] 
+- The executive can indicate where he is limited, accept how the world works, avoid getting into ‘right and wrong’ about it, and therefore deal with it effectively. The transformation comes from re-owning one’s power. A ([Location 241](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=241))
+- The Purpose Driven Life ([Location 244](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=244))
+- being easygoing, ([Location 246](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=246))
+    - Tags: [[orange]] 
+- do not ruffle easily. ([Location 246](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=246))
+- Constant re-owning of one’s power and recycling the energy back into the universe (e.g., through selfless service) moves a person up to the energy field of Reason at 400. ([Location 246](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=246))
+    - Tags: [[blue]] 
+- reason is of the mind (the brain), whereas Love is of the being (the heart). ([Location 265](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=265))
+    - Tags: [[pink]] 
+- love ([Location 266](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=266))
+    - Tags: [[orange]] 
+- Unconditional Love at calibration level 540 is the energy field of healing and also that of the twelve-step groups. ([Location 270](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=270))
+    - Tags: [[blue]] 
+- rocklike and ever present. ([Location 285](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=285))
+- inner serenity, and the opening of compassion. ([Location 286](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=286))
+    - Tags: [[pink]] 
+- Ecstasy— ([Location 286](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=286))
+- way of being. ([Location 293](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=293))
+    - Tags: [[pink]] 
+- Bliss, ([Location 299](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=299))
+    - Tags: [[orange]] 
+- the field transforms a person’s life. ([Location 299](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=299))
+    - Tags: [[pink]] 
+- We often hear that this is really just a world of mirrors, and that all we experience is our own energy field reflected back upon us as perception and experiencing. ([Location 311](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=311))
+- It is important to know that the body has no capacity to experience itself; it is insentient. ([Location 453](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=453))
+    - Tags: [[pink]] 
+- The experience of the sensations and what they report about the body is actually experienced within the mind. ([Location 456](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=456))
+    - Tags: [[orange]] 
+- The principle is that each thing is experienced from an energy field that is less restricted and less limited; each is always experienced in something that is greater. Therefore, mind is experienced because of the energy field of consciousness itself. Consciousness is formless, infinite, and analogous to a movie screen upon which we experience the movement of the movie. It is because of consciousness that we experience what is in mind. ([Location 459](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=459))
+    - Tags: [[blue]] 
+- That is the basis of anesthesia in that when we remove consciousness, there is no experience of either the mind or the body. ([Location 462](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=462))
+- Consciousness itself is experienced in the infinite energy field called awareness. Because of awareness, we know what is going on in consciousness. Because of consciousness, we know what is going on in mind. Because of mind, we know what the senses are reporting about the body. Thus, we can see that what we really are is several levels removed from the body, making it rather clear that we are not the body. We are that which is aware within that infinite field of consciousness. This is very important to realize, and in meditation, it is relatively simple to verify the truth that one is that which is aware of all these levels of reality. ([Location 463](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=463))
+    - Tags: [[orange]] 
+- We will also focus on the basic principles, such as how the source of illness is often unconscious guilt plus a specific belief system that is aggravated by suppressed emotions. ([Location 468](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=468))
+    - Tags: [[pink]] 
+- we will see how illness is also a result of programming via the collective consciousness (and how not to buy into it), and how it comes about as a result of belief systems. ([Location 471](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=471))
+    - Tags: [[blue]] 
+- Science and psychiatry are studying the clinical condition of multiple personalities with increasing interest because it explains so many different phenomena. In this condition, more than one personality expresses itself through the body. ([Location 476](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=476))
+    - Tags: [[pink]] 
+- A basic principle of recovery is that we are subject to what we hold in mind, which may, however, be unconscious (out of awareness). ([Location 480](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=480))
+    - Tags: [[pink]] 
+- “Expectancies: What You See Is What They Give You.” ([Location 488](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=488))
+    - Tags: [[pink]] 
+- self-fulfilling prophecy ([Location 489](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=489))
+- We will proceed from the premise that all phenomena are experienced in consciousness and address the level of consciousness itself and its expression in mind. ([Location 491](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=491))
+- level of cause ([Location 493](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=493))
+    - Tags: [[blue]] 
+- If we want to know what we are holding in mind, all we have to do is look at what is going on in the body and observe its behavior, which tells us what we believe. ([Location 493](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=493))
+- We are subject to what we hold in mind, so what does that mean? What is the nature of illness itself? We see, first of all, it is that of pain and suffering. Consequently, it is obvious and merely common sense that illness is an expression of pain and suffering. ([Location 503](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=503))
+    - Tags: [[blue]] 
+- The thought patterns in the mind are belief systems. ([Location 508](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=508))
+    - Tags: [[pink]] 
+- That then brings in the whole energy field and thought system of being a victim. ([Location 518](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=518))
+    - Tags: [[blue]] 
+- As a sick person, we view ourself as a victim of the disease. ([Location 519](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=519))
+- Therefore, it is important to realize that there is the illness, and there is the person who has the illness. We then understand that the person who has that illness needs to change in order for it to disappear. ([Location 519](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=519))
+    - Tags: [[orange]] 
+- Once we get above the level of Courage, a level that we cross by telling the truth about things, we become detached, which opens a space for us to become a willing, accepting, and loving person. ([Location 523](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=523))
+    - Tags: [[orange]] 
+- unconditional love, ([Location 526](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=526))
+- We have to begin by letting go of resisting the sensations that we are experiencing and stop labeling them. ([Location 531](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=531))
+    - Tags: [[orange]] 
+- We go into the inner experience of the exact sensations and let go of resisting them. ([Location 534](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=534))
+    - Tags: [[blue]] 
+- In effect, we will eventually disappear them through aligning with them by welcoming the inner experiences of the sensations. ([Location 534](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=534))
+- At the same time, within mind we cancel any labels. We stop calling it an ‘ulcer’ and instead go into the inner sensation of it. ([Location 535](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=535))
+    - Tags: [[pink]] 
+- We cancel those and again go into the core, the absolute essential, ([Location 537](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=537))
+    - Tags: [[pink]] 
+- of what we are physically experiencing, and then let go of resisting that experience. ([Location 538](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=538))
+    - Tags: [[pink]] 
+- we begin to cancel the mental label and replace it with the truth. ([Location 540](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=540))
+    - Tags: [[orange]] 
+- “I no longer believe in that. I am an infinite being, and I am not subject to that. I am only subject to what I hold in mind.” ([Location 540](https://readwise.io/to_kindle?action=open&asin=B00M1P0HEQ&location=540))
+    - Tags: [[pink]] 

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">645</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d16450a2-a99d-4435-8160-af3ea8cf5e9b</dc:identifier>
+        <dc:title>The Sigalovada in Pictures</dc:title>
+        <dc:creator opf:file-as="Dhammasiri, Compiled by Ven. K." opf:role="aut">Compiled by Ven. K. Dhammasiri</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.9.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-09-09T11:21:48+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <dc:subject>The Buddha's advice to Sigala</dc:subject>
+        <dc:subject>Buddhist teachings</dc:subject>
+        <dc:subject>Sutta.</dc:subject>
+        <meta content="{&quot;Compiled by Ven. K. Dhammasiri&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-01-29T04:31:24.500000+00:00" name="calibre:timestamp"/>
+        <meta content="Sigalovada in Pictures, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

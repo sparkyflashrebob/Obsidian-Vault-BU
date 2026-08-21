@@ -1,0 +1,774 @@
+# wh351_Gunaratana_Jhanas-In-Theravada-Meditation.pdf
+
+The	Jhānas In	Theravada	Buddhist
+
+Henepola	Gunaratana	Mahāthera
+
+Buddhist	Publication	Society Kandy	•	Sri	Lanka
+
+The	Wheel	Publication	No.	351–3
+
+First	Published:	1988
+
+Second	newly	typeset	edition:	2006
+
+Copyright	©	1988	by	Henepola	Gunaratana
+
+This	book	is	an	abridged	version	of	the	author’s	The	Path	of Serenity	and	Insight:	An	Explanation	of	the	Buddhist	Jhānas, copyright	©	1985	Motilal	Banarsidass,	New	Delhi,	and	is published	in	the	Wheel	series	by	arrangement	with	that publisher.
+
+Digital	Transcription	Source:	Buddhist	Publication	Society
+
+For	free	distribution.	This	work	may	be	republished, reformatted,	reprinted	and	redistributed	in	any	medium. However,	any	such	republication	and	redistribution	is	to	be made	available	to	the	public	on	a	free	and	unrestricted	basis and	translations	and	other	derivative	works	are	to	be	clearly marked	as	such	and	the	Buddhist	Publication	Society	is	to be	acknowledged	as	the	original	publisher.
+
+List	of	Abbreviations Introduction
+
+The	Doctrinal	Context	of	Jhāna Etymology	of	Jhāna Jhāna	and	Samādhi The	Preparation	for	Jhāna The	Moral	Foundation	for	Jhāna The	Good	Friend	and	the	Subject	of	Meditation Choosing	a	Suitable	Dwelling
+
+The	First	Jhāna	and	its	Factors The	Abandoning	of	the	Hindrances The	Factors	of	the	First	Jhāna Applied	Thought	(vitakka) Sustained	Thought	(vicāra) Rapture	(pīti) Happiness	(sukha) One-pointedness	(ekaggatā) Perfecting	the	First	Jhāna
+
+The	Higher	Jhānas The	Higher	Fine-material	Jhānas The	Immaterial	Jhānas The	Jhānas	and	Rebirth
+
+Jhānas	and	the	Supramundane The	Way	of	Wisdom The	Two	Vehicles Supramundane	Jhāna The	Jhānic	Level	of	the	Path	and	Fruit
+
+Seven	Types	of	Disciples Jhāna	and	the	Arahant
+
+About	the	Author
+
+List	of	Abbreviations
+
+Pali	Text	Society	edition
+
+Burmese	Buddhasāsana	Samiti	edition
+
+Aṅguttara	Nikāya	(PTS)
+
+Dīgha	Nikāya	(PTS)
+
+Dhammasaṅgaṇi	(BBS)
+
+Dhammasaṅgaṇi	Aṭṭhakathā	=	Atthasālinī (BBS)
+
+Majjhima	Nikāya	(PTS)
+
+Majjhima	Nikāya	Aṭṭhakathā	(BBS)
+
+Milindapañhā	(PTS)
+
+Path	of	Purification	(translation	of	Vism,	by Bhikkhu	Ñāṇamoli;	Kandy:	BPS,	1975)
+
+Saṃyutta	Nikāya	(PTS)
+
+Saṃyutta	Nikāya	Aṭṭhakathā	(BBS)
+
+Saṃyutta	Nikāya	Ṭīkā	(BBS)
+
+Vibhaṅga	(PTS)
+
+Vinaya	Aṭṭhakathā	(BBS)
+
+Visuddhimagga	(PTS)
+
+Visuddhimagga	Ṭīkā	(BBS)
+
+Introduction
+
+The	Doctrinal	Context	of	Jhāna
+
+The	Buddha	says	that	just	as	in	the	great	ocean	there	is	but one	taste,	the	taste	of	salt,	so	in	his	doctrine	and	discipline there	is	but	one	taste,	the	taste	of	freedom.	The	taste	of freedom	that	pervades	the	Buddha’s	teaching	is	the	taste	of spiritual	freedom,	which	from	the	Buddhist	perspective means	freedom	from	suffering.	In	the	process	leading	to deliverance	from	suffering,	meditation	is	the	means	of generating	the	inner	awakening	required	for	liberation.	The methods	of	meditation	taught	in	the	Theravada	Buddhist tradition	are	based	on	the	Buddha’s	own	experience,	forged by	him	in	the	course	of	his	own	quest	for	enlightenment. They	are	designed	to	re-create	in	the	disciple	who	practises them	the	same	essential	enlightenment	that	the	Buddha himself	attained	when	he	sat	beneath	the	Bodhi	tree,	the awakening	to	the	Four	Noble	Truths.
+
+The	various	subjects	and	methods	of	meditation	expounded in	the	Theravada	Buddhist	scriptures—the	Pali	Canon	and its	commentaries—divide	into	two	inter-related	systems. One	is	called	the	development	of	serenity	(samathabhāvanā),
+
+the	other	the	development	of	insight	(vipassanabhāvanā).	The former	also	goes	under	the	name	of	development	of concentration	(samādhibhāvanā),	the	latter	the	development of	wisdom	(paññābhāvanā).	The	practice	of	serenity meditation	aims	at	developing	a	calm,	concentrated,	unified mind	as	a	means	of	experiencing	inner	peace	and	as	a	basis for	wisdom.	The	practice	of	insight	meditation	aims	at gaining	a	direct	understanding	of	the	real	nature	of phenomena.	Of	the	two,	the	development	of	insight	is regarded	by	Buddhism	as	the	essential	key	to	liberation,	the direct	antidote	to	the	ignorance	underlying	bondage	and suffering.	Whereas	serenity	meditation	is	recognised	as common	to	both	Buddhist	and	non-Buddhist	contemplative disciplines,	insight	meditation	is	held	to	be	the	unique discovery	of	the	Buddha	and	an	unparalleled	feature	of	his path.	However,	because	the	growth	of	insight	presupposes	a certain	degree	of	concentration,	and	serenity	meditation helps	to	achieve	this,	the	development	of	serenity	also claims	an	incontestable	place	in	the	Buddhist	meditative process.	Together	the	two	types	of	meditation	work	to	make the	mind	a	fit	instrument	for	enlightenment.	With	his	mind unified	by	means	of	the	development	of	serenity,	made sharp	and	bright	by	the	development	of	insight,	the meditator	can	proceed	unobstructed	to	reach	the	end	of suffering,	Nibbāna.
+
+Pivotal	to	both	systems	of	meditation,	though	belonging inherently	to	the	side	of	serenity,	is	a	set	of	meditative attainments	called	the	jhānas.	Though	translators	have
+
+offered	various	renderings	of	this	word,	ranging	from	the feeble	“musing”	to	the	misleading	“trance”	and	the ambiguous	“meditation,”	we	prefer	to	leave	the	word untranslated	and	to	let	its	meaning	emerge	from	its contextual	usages.	From	these	it	is	clear	that	the	jhānas	are states	of	deep	mental	unification	which	result	from	the centering	of	the	mind	upon	a	single	object	with	such	power of	attention	that	a	total	immersion	in	the	object	takes	place. The	early	suttas	speak	of	four	jhānas,	named	simply	after their	numerical	position	in	the	series:	the	first	jhāna,	the second	jhāna,	the	third	jhāna	and	the	forth	jhāna.	In	the suttas	the	four	repeatedly	appear	each	described	by	a standard	formula	which	we	will	examine	later	in	detail.
+
+The	importance	of	the	jhānas	in	the	Buddhist	path	can readily	be	gauged	from	the	frequency	with	which	they	are mentioned	throughout	the	suttas.	The	jhānas	figure prominently	both	in	the	Buddha’s	own	experience	and	in his	exhortation	to	disciples.	In	his	childhood,	while attending	an	annual	ploughing	festival,	the	future	Buddha spontaneously	entered	the	first	jhāna.	It	was	the	memory	of this	childhood	incident,	many	years	later	after	his	futile pursuit	of	austerities,	that	revealed	to	him	the	way	to enlightenment	during	his	period	of	deepest	despondency (M	I	246–47).	After	taking	his	seat	beneath	the	Bodhi	tree, the	Buddha	entered	the	four	jhānas	immediately	before direction	his	mind	to	the	threefold	knowledge	that	issued	in his	enlightenment	(M	I	247–49).	Throughout	his	active career	the	four	jhānas	remained	“his	heavenly	dwelling”	(D
+
+III	220)	to	which	he	resorted	in	order	to	live	happily	here and	now.	His	understanding	of	the	corruption,	purification and	emergence	in	the	jhānas	and	other	meditative attainments	is	one	of	the	Tathāgata’s	ten	powers	which enable	him	to	turn	the	matchless	wheel	of	the	Dhamma	(M	I 70).	Just	before	his	passing	away	the	Buddha	entered	the jhānas	in	direct	and	reverse	order,	and	the	passing	away itself	took	place	directly	from	the	fourth	jhāna	(D	II	156).
+
+The	Buddha	is	constantly	seen	in	the	suttas	encouraging	his disciples	to	develop	jhāna.	The	four	jhānas	are	invariably included	in	the	complete	course	of	training	laid	down	for disciples.	\[1\]	They	figure	in	the	training	as	the	discipline	of higher	consciousness	(adhicittasikkhā),	right	concentration (sammāsamādhi)	of	the	Noble	Eightfold	Path,	and	the	faculty and	power	of	concentration	(samādhindriya,	samādhibala). Though	a	vehicle	of	dry	insight	can	be	found,	indications are	that	this	path	is	not	an	easy	one,	lacking	the	aid	of	the powerful	serenity	available	to	the	practitioner	of	jhāna.	The way	of	the	jhāna	attainer	seems	by	comparison	smoother and	more	pleasurable	(AN	II	150–52).	The	Buddha	even refers	to	the	four	jhānas	figuratively	as	a	kind	of	Nibbāna: he	calls	them	immediately	visible	Nibbāna,	factorial Nibbāna,	Nibbāna	here	and	now	(AN	IV	453–54).
+
+To	attain	the	jhānas,	the	meditator	must	begin	by eliminating	the	unwholesome	mental	states	obstructing inner	collectedness,	generally	grouped	together	as	the	five hindrances	(pañcanīvaraṇā):	sensual	desire,	ill	will,	sloth	and torpor,	restlessness	and	worry	and	doubt.	\[2\]	The	mind’s
+
+absorption	on	its	object	is	brought	about	by	five	opposing mental	states—applied	thought,	sustained	thought,	rapture, happiness	and	one	pointedness	\[3\]	—called	the	jhāna	factors (jhānaṅgāni)	because	they	lift	the	mind	to	the	level	of	the first	jhāna	and	remain	there	as	its	defining	components.
+
+After	reaching	the	first	jhāna	the	ardent	meditator	can	go	on to	reach	the	higher	jhānas,	which	is	done	by	eliminating	the coarser	factors	in	each	jhāna.	Beyond	the	four	jhānas	lies another	fourfold	set	of	higher	meditative	states	which deepen	still	further	the	element	of	serenity.	These attainments	(āruppa),	are	the	base	of	boundless	space,	the base	of	boundless	consciousness,	the	base	of	nothingness, and	the	base	of	neither-perception-nor-non-perception.	\[4\]	In the	Pali	commentaries	these	come	to	be	called	the	four immaterial	jhānas	(arūpajhāna),	the	four	preceding	states being	renamed	for	the	sake	of	clarity,	the	four	fine-material jhānas	(rūpajhāna).	Often	the	two	sets	are	joined	together under	the	collective	title	of	the	eight	jhānas	or	the	eight attainments	(aṭṭha-samāpattiyo).
+
+The	four	jhānas	and	the	four	immaterial	attainments	appear initially	as	mundane	states	of	deep	serenity	pertaining	to	the preliminary	stage	of	the	Buddhist	path,	and	on	this	level they	help	provide	the	base	of	concentration	needed	for wisdom	to	arise.	But	the	four	jhānas	again	reappear	in	a later	stage	in	the	development	of	the	path,	in	direct association	with	liberating	wisdom,	and	they	are	then designated	the	supramundane	(lokuttara)	jhānas.	These supramundane	jhānas	are	the	levels	of	concentration
+
+pertaining	to	the	four	degrees	of	enlightenment	experience called	the	supramundane	paths	(magga)	and	the	stages	of liberation	resulting	from	them,	the	four	fruits	(phala).
+
+Finally,	even	after	full	liberation	is	achieved,	the	mundane jhānas	can	still	remain	as	attainments	available	to	the	fully liberated	person,	part	of	his	untrammelled	contemplative experience.
+
+Etymology	of	Jhāna
+
+The	great	Buddhist	commentator	Buddhaghosa	traces	the Pali	word	“jhāna”	(Skt.	dhyāna)	to	two	verbal	forms.	One, the	etymologically	correct	derivation,	is	the	verb	jhāyati, meaning	to	think	or	meditate;	the	other	is	a	more	playful derivation,	intended	to	illuminate	its	function	rather	than	its verbal	source,	from	the	verb	jhāpeti	meaning	to	burn	up.	He explains:	“It	burns	up	opposing	states,	thus	it	is	jhāna”	(Vin-a	I	116),	the	purport	being	that	jhāna	“burns	up”	or	destroys the	mental	defilements	preventing	the	developing	the development	of	serenity	and	insight.
+
+In	the	same	passage	Buddhaghosa	says	that	jhāna	has	the characteristic	mark	of	contemplation	(upanijjhāna). Contemplation,	he	states,	is	twofold:	the	contemplation	of the	object	and	the	contemplation	of	the	characteristics	of phenomena.	The	former	is	exercised	by	the	eight attainments	of	serenity	together	with	their	access,	since
+
+these	contemplate	the	object	used	as	the	basis	for developing	concentration;	for	this	reason	these	attainments are	given	the	name	“jhāna”	in	the	mainstream	of	Pali meditative	exposition.	However,	Buddhaghosa	also	allows that	the	term	“jhāna”	can	be	extended	loosely	to	insight (vipassanā),	the	paths	and	the	fruits	on	the	ground	that	these perform	the	work	of	contemplating	the	characteristics	of things	the	three	marks	of	impermanence,	suffering	and	non-self	in	the	case	of	insight,	Nibbāna	in	the	case	of	the	paths and	fruits.
+
+In	brief	the	twofold	meaning	of	jhāna	as	“contemplation” and	“burning	up”	can	be	brought	into	connection	with	the meditative	process	as	follows.	By	fixing	his	mind	on	the object	the	meditator	reduces	and	eliminates	the	lower mental	qualities	such	as	the	five	hindrances	and	promotes the	growth	of	the	higher	qualities	such	as	the	jhāna	factors, which	lead	the	mind	to	complete	absorption	in	the	object. Then	by	contemplating	the	characteristics	of	phenomena with	insight,	the	meditator	eventually	reaches	the supramundane	jhāna	of	the	four	paths,	and	with	this	jhāna he	burns	up	the	defilements	and	attains	the	liberating experience	of	the	fruits.
+
+Jhāna	and	Samādhi
+
+In	the	vocabulary	of	Buddhist	meditation	the	word	“jhāna”
+
+is	closely	connected	with	another	word,	“samādhi”	generally rendered	by	“concentration.”	Samādhi	derives	from	the prefixed	verbal	root	sam	+	ā	+	√dhā,	meaning	to	collect	or	to bring	together,	thus	suggesting	the	concentration	or unification	of	the	mind.	The	word	“samādhi”	is	almost interchangeable	with	the	word	“samatha,”	serenity,	though the	latter	comes	from	a	different	root,	√sam,	meaning	to become	calm.
+
+In	the	suttas	samādhi	is	defined	as	mental	one-pointedness, (cittassekaggatā	M	I	301)	and	this	definition	is	followed through	rigorously	in	the	Abhidhamma.	The	Abhidhamma treats	one-pointedness	as	a	distinct	mental	factor	present	in every	state	of	consciousness,	exercising	the	function	of unifying	the	mind	on	its	object.	From	this	strict psychological	standpoint	samādhi	can	be	present	in unwholesome	states	of	consciousness	as	well	as	in wholesome	an	neutral	states.	In	its	unwholesome	forms	it	is called	“wrong	concentration”	(micchāsamādhi),	In	its wholesome	forms	“right	concentration”	(sammāsamādhi).
+
+In	expositions	on	the	practice	of	meditation,	however, samādhi	is	limited	to	one-pointedness	of	mind	(Vism	84–85; PP	84–85),	and	even	here	we	can	understand	from	the context	that	the	word	means	only	the	wholesome	one-pointedness	involved	in	the	deliberate	transmutation	of	the mind	to	a	heightened	level	of	calm.	Thus	Buddhaghosa explains	samādhi	etymologically	as	“the	centering	of consciousness	and	consciousness	concomitants	evenly	and rightly	on	a	single	object…	the	state	in	virtue	of	which
+
+consciousness	and	its	concomitants	remain	evenly	and rightly	on	a	single	object,	undistracted	and	unscattered” (Vism	84–85;	PP	85).
+
+However,	despite	the	commentator’s	bid	for	consistency, the	word	samādhi	is	used	in	the	Pali	literature	on meditation	with	varying	degrees	of	specificity	of	meaning. In	the	narrowest	sense,	as	defined	by	Buddhaghosa,	it denotes	the	particular	mental	factor	responsible	for	the concentrating	of	the	mind,	namely,	one-pointedness.	In	a wider	sense	it	can	signify	the	states	of	unified	consciousness that	result	from	the	strengthening	of	concentration,	i.e.,	the meditative	attainments	of	serenity	and	the	stages	leading	up to	them.	And	in	a	still	wider	sense	the	word	samādhi	can	be applied	to	the	method	of	practice	used	to	produce	and cultivate	these	refined	states	of	concentration,	here	being equivalent	to	the	development	of	serenity.
+
+It	is	in	the	second	sense	that	samādhi	and	jhāna	come	closest in	meaning.	The	Buddha	explains	right	concentration	as	the four	jhānas	(D	II	313),	and	in	doing	so	allows	concentration to	encompass	the	meditative	attainments	signified	by	the jhānas.	However,	even	though	jhāna	and	samādhi	can overlap	in	denotation,	certain	differences	in	their	suggested and	contextual	meanings	prevent	unqualified	identification of	the	two	terms.	First	behind	the	Buddha’s	use	of	the	jhāna formula	to	explain	right	concentration	lies	a	more	technical understanding	of	the	terms.	According	to	this understanding	samādhi	can	be	narrowed	down	in	range	to signify	only	one	mental	factor,	the	most	prominent	in	the
+
+jhāna,	namely,	one-pointedness,	while	the	word	“jhāna” itself	must	be	seen	as	encompassing	the	state	of consciousness	in	its	entirety,	or	at	least	the	whole	group	of mental	factors	individuating	that	meditative	state	as	a	jhāna.
+
+In	the	second	place,	when	samādhi	is	considered	in	its broader	meaning	it	involves	a	wider	range	of	reference	than jhāna.	The	Pali	exegetical	tradition	recognises	three	levels	of samādhi:	preliminary	concentration	(parikammasamādhi), which	is	produced	as	a	result	of	the	meditator’s	initial efforts	to	focus	his	mind	on	his	meditation	subject;	access concentration	(upacārasamādhi),	marked	by	the	suppression of	the	five	hindrances,	the	manifestation	of	the	jhāna	factors, and	the	appearance	of	a	luminous	mental	replica	of	the meditation	object	called	the	counterpart	sign (paṭibhāganimitta);	and	absorption	concentration (appanāsamādhi),	the	complete	immersion	of	the	mind	in	its object	effected	by	the	full	maturation	of	the	jhāna	factors.	\[5\] Absorption	concentration	comprises	the	eight	attainments, the	four	immaterial	attainments,	and	to	this	extent	jhāna and	samādhi	coincide.	However,	samādhi	still	has	a	broader scope	than	jhāna,	since	it	includes	not	only	the	jhānas themselves	but	also	the	two	preparatory	degrees	of concentration	leading	up	to	them.	Further,	samādhi	also covers	a	still	different	type	of	concentration	called momentary	concentration	(khaṇikasamādhi),	the	mobile mental	stabilisation	produced	in	the	course	of	insight contemplation	of	the	passing	flow	of	phenomena.
+
+The	Preparation	for	Jhāna
+
+The	jhānas	do	not	arise	out	of	a	void	but	in	dependence	on the	right	conditions.	They	come	to	growth	only	when provided	with	the	nutriments	conductive	to	their development.	Therefore,	prior	to	beginning	meditation,	the aspirant	to	the	jhānas	must	prepare	a	groundwork	for	his practice	by	fulfilling	certain	preliminary	requirements.	He first	must	endeavour	to	purify	his	moral	virtue,	sever	the outer	impediments	to	practise,	and	place	himself	under	a qualified	teacher	who	will	assign	him	a	suitable	meditation subject	and	explain	to	him	the	methods	of	developing	it. After	learning	these,	the	disciple	must	then	seek	out	a congenial	dwelling	and	diligently	strive	for	success.	In	this chapter	we	will	examine	in	order	each	of	the	preparatory steps	that	have	to	be	fulfilled	before	commencing	to	develop jhāna.
+
+The	Moral	Foundation	for	Jhāna
+
+A	disciple	aspiring	to	the	jhānas	first	has	to	lay	a	solid foundation	of	moral	discipline.	Moral	purity	is indispensable	to	meditative	progress	for	several	deeply psychological	reasons.	It	is	needed	first,	in	order	to safeguard	against	the	danger	of	remorse,	the	nagging	sense
+
+of	guilt	that	arises	when	the	basic	principles	of	morality	are ignored	or	deliberately	violated.	Scrupulous	conformity	to virtuous	rules	of	conduct	protects	the	meditator	from	this danger	disruptive	to	inner	calm,	and	brings	joy	and happiness	when	the	meditator	reflects	upon	the	purity	of his	conduct	(see	AN	V	1–7).
+
+A	second	reason	a	moral	foundation	is	needed	for meditation	follows	from	an	understanding	of	the	purpose	of concentration.	Concentration,	in	the	Buddhist	discipline, aims	at	providing	a	base	for	wisdom	by	cleansing	the	mind of	the	dispersive	influence	of	the	defilements.	But	in	order for	the	concentration	exercises	to	effectively	combat	the defilements,	the	coarser	expressions	of	the	latter	through bodily	and	verbal	action	first	have	to	be	checked.	Moral transgressions	being	invariably	motivated	by	defilements— by	greed,	hatred	and	delusion—when	a	person	acts	in violation	of	the	precepts	of	morality	he	excites	and reinforces	the	very	same	mental	factors	his	practice	of meditation	is	intended	to	eliminate.	This	involves	him	in	a crossfire	of	incompatible	aims	which	renders	his	attempts	at mental	purification	ineffective.	The	only	way	he	can	avoid frustration	in	his	endeavour	to	purify	the	mind	of	its	subtler defilements	is	to	prevent	the	unwholesome	inner	impulses from	breathing	out	in	the	coarser	form	of	unwholesome bodily	and	verbal	deeds.	Only	when	he	establishes	control over	the	outer	expression	of	the	defilements	can	he	turn	to deal	with	them	inwardly	as	mental	obsessions	that	appear in	the	process	of	meditation.
+
+The	practice	of	moral	discipline	consists	negatively	in abstinence	from	immoral	actions	of	body	and	speech	and positively	in	the	observance	of	ethical	principles	promoting peace	within	oneself	and	harmony	in	one’s	relations	with others.	The	basic	code	of	moral	discipline	taught	by	the Buddha	for	the	guidance	of	his	lay	followers	is	the	five precepts:	abstinence	from	taking	life,	from	stealing,	from sexual	misconduct,	from	false	speech,	and	from	intoxicating drugs	and	drinks.	These	principles	are	bindings	as	minimal ethical	obligations	for	all	practitioners	of	the	Buddhist	path, and	within	their	bounds	considerable	progress	in meditation	can	be	made.	However,	those	aspiring	to	reach the	higher	levels	of	jhānas	and	to	pursue	the	path	further	to the	stages	of	liberation,	are	encouraged	to	take	up	the	more complete	moral	discipline	pertaining	to	the	life	of renunciation.	Early	Buddhism	is	unambiguous	in	its emphasis	on	the	limitations	of	household	life	for	following the	path	in	its	fullness	and	perfection.	Time	and	again	the texts	say	that	the	household	life	is	confining,	a	“path	for	the dust	of	passion,”	while	the	life	of	homelessness	is	like	open space.	Thus	a	disciple	who	is	fully	intent	upon	making rapid	progress	towards	Nibbāna	will	when	outer	conditions allow	for	it,	“shave	off	his	hair	and	beard,	put	on	the	yellow robe,	and	go	forth	from	the	home	life	into	homelessness”	(M I	179).
+
+The	moral	training	for	the	bhikkhus	or	monks	has	been arranged	into	a	system	called	the	fourfold	purification	of morality	(catupārisuddhisīla).	\[6\]	The	first	component	of	this
+
+scheme,	its	backbone,	consists	in	the	morality	of	restraint according	to	the	Pātimokkha,	the	code	of	227	training	precepts promulgated	by	the	Buddha	to	regulate	the	conduct	of	the Sangha	or	monastic	order.	Each	of	these	rules	is	in	some way	intended	to	facilitate	control	over	the	defilements	and to	induce	a	mode	of	living	marked	by	harmlessness, contentment	and	simplicity.	The	second	aspect	of	the monk’s	moral	discipline	is	restraint	of	the	senses,	by	which the	monk	maintains	close	watchfulness	over	his	mind	as	he engages	in	sense	contacts	so	that	he	does	not	give	rise	to desire	for	pleasurable	objects	and	aversion	towards repulsive	ones.	Third,	the	monk	is	to	live	by	a	purified livelihood,	obtaining	his	basic	requisites	such	as	robes	food, lodgings	and	medicines	in	ways	consistent	with	his vocation.	The	fourth	factor	of	the	moral	training	is	proper	use of	the	requisites,	which	means	that	the	monk	should	reflect upon	the	purposes	for	which	he	makes	use	of	his	requisites and	should	employ	them	only	for	maintaining	his	health and	comfort,	not	for	luxury	and	enjoyment.
+
+After	establishing	a	foundation	of	purified	morality,	the aspirant	to	meditation	is	advised	to	cut	off	any	outer impediments	(paḷibodha)	that	may	hinder	his	efforts	to	lead	a contemplative	life.	These	impediments	are	numbered	as	ten: a	dwelling,	which	becomes	an	impediment	for	those	who allow	their	minds	to	become	preoccupied	with	its	upkeep	or with	its	appurtenances;	a	family	of	relatives	or	supporters with	whom	the	aspirant	may	become	emotionally	involved in	ways	that	hinder	his	progress;	gains,	which	may	bind	the
+
+monk	by	obligation	to	those	who	offer	them;	a	class	of students	who	must	be	instructed;	building	work,	which demands	time	and	attention;	travel;	kin,	meaning	parents, teachers,	pupils	or	close	friends;	illness;	the	study	of scriptures;	and	supernormal	powers,	which	are	an impediment	to	insight	(Vism	90–97;	PP	91–98).
+
+The	Good	Friend	and	the	Subject	of Meditation
+
+The	path	of	practice	leading	to	the	jhānas	is	an	arduous course	involving	precise	techniques	and	skillfulness	is needed	in	dealing	with	the	pitfalls	that	lie	along	the	way. The	knowledge	of	how	to	attain	the	jhānas	has	been transmitted	through	a	lineage	of	teachers	going	back	to	the time	of	the	Buddha	himself.	A	prospective	meditator	is advised	to	avail	himself	of	the	living	heritage	of accumulated	knowledge	and	experience	by	placing	himself under	the	care	of	a	qualified	teacher,	described	as	a	“good friend”	(kalyāṇamitta),	one	who	gives	guidance	and	wise advice	rooted	in	his	own	practice	and	experience.	On	the basis	of	either	of	the	power	of	penetrating	others	minds,	or by	personal	observation,	or	by	questioning,	the	teacher	will size	up	the	temperament	of	his	new	pupil	and	then	select	a meditation	subject	for	him	appropriate	to	his	temperament.
+
+The	various	meditation	subjects	that	the	Buddha	prescribed
+
+for	the	development	of	serenity	have	been	collected	in	the commentaries	into	a	set	called	the	forty	kammaṭṭhāna.	This word	means	literally	a	place	of	work,	and	is	applied	to	the subject	of	meditation	as	the	place	where	the	meditator undertakes	the	work	of	meditation.	The	forty	meditation subjects	are	distributed	into	seven	categories,	enumerated	in the	Visuddhimagga	as	follows:	ten	kasiṇas,	ten	kinds	of foulness,	ten	recollections,	four	divine	abidings,	four immaterial	states,	one	perception,	and	one	defining.	\[7\]
+
+A	kasiṇa	is	a	device	representing	a	particular	quality	used	as a	support	for	concentration.	The	ten	kasiṇas	are	those	of earth,	water,	fire	and	air;	four	colour	kasiṇas—blue,	yellow, red	and	white;	the	light	kasiṇa	and	the	limited	space	kasiṇa. The	kasiṇa	can	be	either	a	naturally	occurring	form	of	the element	or	colour	chosen,	or	an	artificially	produced	device such	as	a	disc	that	the	meditator	can	use	at	his	convenience in	his	meditation	quarters.
+
+The	ten	kinds	of	foulness	are	ten	stages	in	the decomposition	of	a	corpse:	the	bloated,	the	livid,	the festering,	the	cut-up,	the	gnawed,	the	scattered,	the	hacked and	scattered,	the	bleeding,	the	worm-infested	and	a skeleton.	The	primary	purpose	of	these	meditations	is	to reduce	sensual	lust	by	gaining	a	clear	perception	of	the repulsiveness	of	the	body.
+
+The	ten	recollections	are	the	recollections	of	the	Buddha,	the Dhamma,	the	Sangha,	morality,	generosity	and	the	deities, mindfulness	of	death,	mindfulness	of	the	body,	mindfulness
+
+of	breathing,	and	the	recollection	of	peace.	The	first	three are	devotional	contemplations	on	the	sublime	qualities	of the	“Three	Jewels,”	the	primary	objects	of	Buddhist	virtues and	on	the	deities	inhabiting	the	heavenly	worlds,	intended principally	for	those	still	intent	on	a	higher	rebirth. Mindfulness	of	death	is	reflection	on	the	inevitably	of	death, a	constant	spur	to	spiritual	exertion.	Mindfulness	of	the body	involves	the	mental	dissection	of	the	body	into	thirty-two	parts,	undertaken	with	a	view	to	perceiving	its unattractiveness.	Mindfulness	of	breathing	is	awareness	of the	in-and-out	movement	of	the	breath,	perhaps	the	most fundamental	of	all	Buddhist	meditation	subjects.	And	the recollection	of	peace	is	reflection	on	the	qualities	of Nibbāna.
+
+The	four	divine	abidings	(brahmavihārā)	are	the	development of	boundless	loving	kindness,	compassion,	sympathetic	joy and	equanimity.	These	meditations	are	also	called	the “immeasurables”	(appamaññā)	because	they	are	to	be developed	towards	all	sentient	beings	without	qualification or	exclusiveness.
+
+The	four	immaterial	states	are	the	base	of	boundless	space, the	base	of	boundless	consciousness,	the	base	of nothingness,	and	the	base	of	neither-perception-nor-non-perception.	These	are	the	objects	leading	to	the corresponding	meditative	attainments,	the	immaterial jhānas.
+
+The	one	perception	is	the	perception	of	the	repulsiveness	of
+
+food.	The	one	defining	is	the	defining	of	the	four	elements, that	is,	the	analysis	of	the	physical	body	into	the	elemental modes	of	solidity,	fluidity,	heat	and	oscillation.
+
+The	forty	meditation	subjects	are	treated	in	the commentarial	texts	from	two	important	angles—one	their ability	to	induce	different	levels	of	concentration,	the	other their	suitability	for	differing	temperaments.	Not	all meditation	subjects	are	equally	effective	in	inducing	the deeper	levels	of	concentration.	They	are	first	distinguished on	the	basis	of	their	capacity	for	inducing	only	access concentration	or	for	inducing	full	absorption;	those	capable of	inducing	absorption	are	then	distinguished	further according	to	their	ability	to	induce	the	different	levels	of jhāna.
+
+Of	the	forty	subjects,	ten	are	capable	of	leading	only	to access	concentration:	eight	recollections—i.e.,	all	except mindfulness	of	the	body	and	mindfulness	of	breathing— plus	the	perception	of	repulsiveness	in	nutriment	and	the defining	of	the	four	elements.	These,	because	they	are occupied	with	a	diversity	of	qualities	and	involve	and	active application	of	discursive	thought,	cannot	lead	beyond access.	The	other	thirty	subjects	can	all	lead	to	absorption.
+
+The	ten	kasiṇas	and	mindfulness	of	breathing,	owing	to their	simplicity	and	freedom	from	thought	construction,	can lead	to	all	four	jhānas.	The	ten	kinds	of	foulness	and mindfulness	of	the	body	lead	only	to	the	first	jhāna,	being limited	because	the	mind	can	only	hold	onto	them	with	the
+
+aid	of	applied	thought	(vitakka)	which	is	absent	in	the second	and	higher	jhānas.	The	first	three	divine	abidings can	induce	the	lower	three	jhānas	but	the	fourth,	since	they arise	in	association	with	pleasant	feeling,	while	the	divine abiding	of	equanimity	occurs	only	at	the	level	of	the	fourth jhāna,	where	neutral	feeling	gains	ascendency.	The	four immaterial	states	conduce	to	the	respective	immaterial jhānas	corresponding	to	their	names.
+
+The	forty	subjects	are	also	differentiated	according	to	their appropriateness	for	different	character	types.	Six	main character	types	are	recognised—the	greedy,	the	hating,	the deluded,	the	faithful,	the	intelligent	and	the	speculative— this	oversimplified	typology	being	taken	only	as	a pragmatic	guideline	which	in	practice	admits	various shades	and	combinations.	The	ten	kind	of	foulness	and mindfulness	of	the	body,	clearly	intended	to	attenuate sensual	desire,	are	suitable	for	those	of	greedy temperament.	Eight	subjects—the	four	divine	abidings	and four	colour	kasiṇas—are	appropriate	for	the	hating temperament.	Mindfulness	of	breathing	is	suitable	for	those of	the	deluded	and	the	speculative	temperament.	The	first six	recollections	are	appropriate	for	the	faithful temperament.	Four	subjects—mindfulness	of	death,	the recollection	of	peace,	the	defining	of	the	four	elements,	and the	perception	of	the	repulsiveness	in	nutriment—are especially	effective	for	those	of	intelligent	temperament.	The remaining	six	kasiṇas	and	the	immaterial	states	are	suitable for	all	kinds	of	temperaments.	But	the	kasiṇas	should	be
+
+limited	in	size	for	one	of	speculative	temperament	and	large in	size	for	one	of	deluded	temperament.
+
+Immediately	after	giving	this	breakdown	Buddhaghosa adds	a	proviso	to	prevent	misunderstanding.	He	states	that this	division	by	way	of	temperament	is	made	on	the	basis	of direct	opposition	and	complete	suitability,	but	actually	there is	no	wholesome	form	of	meditation	that	does	not	suppress the	defilements	and	strengthen	the	virtuous	mental	factors. Thus	an	individual	meditator	may	be	advised	to	meditate on	foulness	to	abandon	lust,	on	loving	kindness	to	abandon hatred,	on	breathing	to	cut	off	discursive	thought,	and	on impermanence	to	eliminate	the	conceit	“I	am”	(AN	IV	358).
+
+Choosing	a	Suitable	Dwelling
+
+The	teacher	assigns	a	meditation	subject	to	his	pupil appropriate	to	his	character	and	explains	the	methods	of developing	it.	He	can	teach	it	gradually	to	a	pupil	who	is going	to	remain	in	close	proximity	to	him,	or	in	detail	to	one who	will	go	to	practise	it	elsewhere.	If	the	disciple	is	not going	to	stay	with	his	teacher	he	must	be	careful	to	select	a suitable	place	for	meditation.	The	texts	mention	eighteen kinds	of	monasteries	unfavourable	to	the	development	of jhāna:	a	large	monastery,	a	new	one,	a	dilapidated	one,	one near	a	road,	one	with	a	pond,	leaves,	flowers	or	fruits,	one sought	after	by	many	people,	one	in	cities,	among	timber	of
+
+fields,	where	people	quarrel,	in	a	port,	in	border	lands,	on	a frontier,	a	haunted	place,	and	one	without	access	to	a spiritual	teacher	(Vism	118–121;	PP122–125).
+
+The	factors	which	make	a	dwelling	favourable	to	meditation are	mentioned	by	the	Buddha	himself.	If	should	not	be	too far	from	or	too	near	a	village	that	can	be	relied	on	as	an	alms resort,	and	should	have	a	clear	path:	it	should	be	quiet	and secluded;	it	should	be	free	from	rough	weather	and	from harmful	insects	and	animals;	one	should	be	able	to	obtain one’s	physical	requisites	while	dwelling	there;	and	the dwelling	should	provide	ready	access	to	learned	elders	and spiritual	friends	who	can	be	consulted	when	problems	arise in	meditation	(AN	V	15).	The	types	of	dwelling	places commended	by	the	Buddha	most	frequently	in	the	suttas	as conductive	to	the	jhānas	are	a	secluded	dwelling	in	the forest,	at	the	foot	of	a	tree,	on	a	mountain,	in	a	cleft,	in	a cave,	in	a	cemetery,	on	a	wooded	flatland,	in	the	open	air,	or on	a	heap	of	straw	(M	I	181).	Having	found	a	suitable dwelling	and	settled	there,	the	disciple	should	maintain scrupulous	observance	of	the	rules	of	discipline,	He	should be	content	with	his	simple	requisites,	exercise	control	over his	sense	faculties,	be	mindful	and	discerning	in	all activities,	and	practise	meditation	diligently	as	he	was instructed.	It	is	at	this	point	that	he	meets	the	first	great challenge	of	his	contemplative	life,	the	battle	with	the	five hindrances.
+
+The	First	Jhāna	and	its	Factors
+
+The	attainment	of	any	jhāna	comes	about	through	a	twofold process	of	development.	On	one	side	the	states	obstructive to	it,	called	its	factors	of	abandonment,	have	to	be eliminated,	on	the	other	the	states	composing	it,	called	its factors	of	possession,	have	to	be	acquired.	In	the	case	of	the first	jhāna	the	factors	of	abandonment	are	the	five hindrances	and	the	factors	of	possession	the	five	basic	jhāna factors.	Both	are	alluded	to	in	the	standard	formula	for	the first	jhāna,	the	opening	phrase	referring	to	the	abandonment of	the	hindrances	and	the	subsequent	portion	enumerating the	jhāna	factors:
+
+Quite	secluded	from	sense	pleasures,	secluded	from unwholesome	states	of	mind,	he	enters	and	dwells	in the	first	jhāna,	which	is	accompanied	by	applied thought	and	sustained	thought	with	rapture	and happiness	born	of	seclusion.	(M	I	1818;	Vibh	245)
+
+In	this	chapter	we	will	first	discuss	the	five	hindrances	and their	abandonment,	then	we	will	investigate	the	jhāna factors	both	individually	and	by	way	of	their	combined contribution	to	the	attainment	of	the	first	jhāna.	We	will close	the	chapter	with	some	remarks	on	the	ways	of perfecting	the	first	jhāna,	a	necessary	preparation	for	the further	development	of	concentration.
+
+The	Abandoning	of	the	Hindrances
+
+The	five	hindrances	(pañcanīvaraṇa)	are	sensual	desire,	ill will,	sloth	and	torpor,	restlessness	and	worry,	and	doubt. This	group,	the	principal	classification	the	Buddha	uses	for the	obstacles	to	meditation,	receives	its	name	because	its five	members	hinder	and	envelop	the	mind,	preventing meditative	development	in	the	two	spheres	of	serenity	and insight.	Hence	the	Buddha	calls	them	“obstructions, hindrances,	corruptions	of	the	mind	which	weaken wisdom”(S	V	94).
+
+The	hindrance	of	sensual	desire	(kāmacchanda)	is	explained as	desire	for	the	“five	strands	of	sense	pleasure,”	that	is,	for pleasant	forms,	sounds,	smells,	tastes	and	tangibles.	It ranges	from	subtle	liking	to	powerful	lust.	The	hindrance	of ill	will	(byāpāda)	signifies	aversion	directed	towards disagreeable	persons	or	things.	It	can	vary	in	range	from mild	annoyance	to	overpowering	hatred.	Thus	the	first	two hindrances	correspond	to	the	first	two	root	defilements, greed	and	hate.	The	third	root	defilement,	delusion,	is	not enumerated	separately	among	the	hindrances	but	can	be found	underlying	the	remaining	three.
+
+Sloth	and	torpor	is	a	compound	hindrance	made	up	of	two components:	sloth	(thīna),	which	is	dullness,	inertia	or mental	stiffness;	and	torpor	(middha),	which	is	indolence	or drowsiness.	Restlessness	and	worry	is	another	double hindrance,	restlessness	(uddhacca)	being	explained	as
+
+excitement,	agitation	or	disquietude,	worry	(kukkucca)	as	the sense	of	guilt	aroused	by	moral	transgressions.	Finally,	the hindrance	of	doubt	(vicikicchā)	is	explained	as	uncertainty with	regard	to	the	Buddha,	the	Dhamma,	the	Sangha	and the	training.
+
+The	Buddha	offers	two	sets	of	similes	to	illustrate	the detrimental	effect	of	the	hindrances.	The	first	compares	the five	hindrances	to	five	types	of	calamity:	sensual	desire	is like	a	debt,	ill	will	like	a	disease,	sloth	and	torpor	like imprisonment,	restless	and	worry	like	slavery,	and	doubt like	being	lost	on	a	desert	road.	Release	from	the	hindrances is	to	be	seen	as	freedom	from	debt,	good	health,	release from	prison,	emancipation	from	slavery,	and	arriving	at	a place	of	safety	(D	I	71–73).	The	second	set	of	similes compares	the	hindrances	to	five	kinds	of	impurities affecting	a	bowl	of	water,	preventing	a	keen-sighted	man from	seeing	his	own	reflection	as	it	really	is.	Sensual	desire is	like	a	bowl	of	water	mixed	with	brightly	coloured	paints, ill	will	like	a	bowl	of	boiling	water,	sloth	and	torpor	like water	covered	by	mossy	plants,	restlessness	and	worry	like water	blown	into	ripples	by	the	wind,	and	doubt	like muddy	water.	Just	as	the	keen-eyed	man	would	not	be	able to	see	his	reflection	in	these	five	kinds	of	water,	so	one whose	mind	is	obsessed	by	the	five	hindrances	does	not know	and	see	as	it	is	his	own	good,	the	good	of	others	or	the good	of	both	(S	V	121–24).	Although	there	are	numerous defilements	opposed	to	the	first	jhāna	the	five	hindrances alone	are	called	its	factors	of	abandoning.	One	reason
+
+according	to	the	Visuddhimagga,	is	that	the	hindrances	are specifically	obstructive	to	jhāna,	each	hindrance	impeding in	its	own	way	the	mind’s	capacity	for	concentration.
+
+The	mind	affected	through	lust	by	greed	for	varied	objective fields	does	not	become	concentrated	on	an	object	consisting in	unity,	or	being	overwhelmed	by	lust,	it	does	not	enter	on the	way	to	abandoning	the	sense-desire	element.	When pestered	by	ill	will	towards	an	object,	it	does	not	occur uninterruptedly.	When	overcome	by	stiffness	and	torpor,	it is	unwieldy.	When	seized	by	agitation	and	worry,	it	is unquiet	and	buzzes	about.	When	stricken	by	uncertainty,	it fails	to	mount	the	way	to	accomplish	the	attainment	of jhāna.	So	it	is	these	only	that	are	called	factors	of abandonment	because	they	are	specifically	obstructive	to jhāna.(Vism	146:	PP	152)
+
+A	second	reason	for	confining	the	first	jhāna’s	factors	of abandoning	to	the	five	hindrances	is	to	permit	a	direct alignment	to	be	made	between	the	hindrances	and	the jhānic	factors.	Buddhaghosa	states	that	the	abandonment	of the	five	hindrances	alone	is	mentioned	in	connection	with jhāna	because	the	hindrances	are	the	direct	enemies	of	the five	jhāna	factors,	which	the	latter	must	eliminate	and abolish.	To	support	his	point	the	commentator	cites	a passage	demonstrating	a	one-to-one	correspondence between	the	jhāna	factors	and	the	hindrances:	one-pointedness	is	opposed	to	sensual	desire,	rapture	to	ill	will, applied	thought	to	sloth	and	torpor,	happiness	to restlessness	and	worry,	and	sustained	thought	to	doubt
+
+(Vism	141;	PP	147).	\[8\]	Thus	each	jhāna	factor	is	seen	as having	the	specific	task	of	eliminating	a	particular obstruction	to	the	jhāna	and	to	correlate	these	obstructions with	the	five	jhāna	factors	they	are	collected	into	a	scheme of	five	hindrances.
+
+The	standard	passage	describing	the	attainment	of	the	first jhāna	says	that	the	jhāna	is	entered	upon	by	one	who	is “secluded	from	sense	pleasures,	secluded	from unwholesome	states	of	mind.”	The	Visuddhimagga	explains that	there	are	three	kinds	of	seclusion	relevant	to	the	present context—namely,	bodily	seclusion	(kāyaviveka),	mental seclusion	(cittaviveka),	and	seclusion	by	suppression (vikkhambhanaviveka)	(Vism	140;	PP	145).	These	three	terms allude	to	two	distinct	sets	of	exegetical	categories.	The	first two	belong	to	a	threefold	arrangement	made	up	of	bodily seclusion,	mental	seclusion,	and	“seclusion	from	the substance”	(upadhiviveka).	The	first	means	physical withdrawal	from	active	social	engagement	into	a	condition of	solitude	for	the	purpose	of	devoting	time	and	energy	to spiritual	development.	The	second,	which	generally presupposes	the	first,	means	the	seclusion	of	the	mind	from its	entanglement	in	defilements;	it	is	in	effect	equivalent	to concentration	of	at	least	the	access	level.	The	third, “seclusion	from	the	substance,”	is	Nibbāna,	liberation	from the	elements	of	phenomenal	existence.	The	achievement	of the	first	jhāna	does	not	depend	on	the	third,	which	is	its outcome	rather	than	prerequisite,	but	it	does	require physical	solitude	and	the	separation	of	the	mind	from
+
+defilements,	hence	bodily	and	mental	seclusion.	The	third type	of	seclusion	pertinent	to	the	context,	seclusion	by suppression,	belongs	to	a	different	scheme	generally discussed	under	the	heading	of	“abandonment”	(pahāna) rather	than	“seclusion.”	The	type	of	abandonment	required for	the	attainment	of	jhāna	is	abandonment	by	suppression, which	means	the	removal	of	the	hindrances	by	force	of concentration	similar	to	the	pressing	down	of	weeds	in	a pond	by	means	of	a	porous	pot.	\[9\]
+
+The	work	of	overcoming	the	five	hindrances	is accomplished	through	the	gradual	training	(anupubbasikkhā) which	the	Buddha	has	laid	down	so	often	in	the	suttas,	such as	the	Sāmaññaphala	Sutta	and	the	Cullahatthipadopama Sutta.	The	gradual	training	is	a	step-by-step	process designed	to	lead	the	practitioner	gradually	to	liberation.	The training	begins	with	moral	discipline,	the	undertaking	and observance	of	specific	rules	of	conduct	which	enable	the disciple	to	control	the	coarser	modes	of	bodily	and	verbal misconduct	through	which	the	hindrances	find	an	outlet. With	moral	discipline	as	a	basis,	the	disciple	practises	the restraint	of	the	senses.	He	does	not	seize	upon	the	general appearances	of	the	beguiling	features	of	things,	but	guards and	masters	his	sense	faculties	so	that	sensual	attractive	and repugnant	objects	no	longer	become	grounds	for	desire	and aversion.	Then,	endowed	with	the	self-restraint,	he	develops mindfulness	and	discernment	(sati-sampajañña)	in	all	his activities	and	postures,	examining	everything	he	does	with clear	awareness	as	to	its	purpose	and	suitability.	He	also
+
+cultivates	contentment	with	a	minimum	of	robes,	food, shelter	and	other	requisites.
+
+Once	he	has	fulfilled	these	preliminaries	the	disciple	is prepared	to	go	into	solitude	to	develop	the	jhānas,	and	it	is here	that	he	directly	confronts	the	five	hindrances.	The elimination	of	the	hindrances	requires	that	the	meditator honestly	appraises	his	own	mind.	When	sensuality,	ill	will and	the	other	hindrances	are	present,	he	must	recognise	that they	are	present	and	he	must	investigate	the	conditions	that lead	to	their	arising:	the	latter	he	must	scrupulously	avoid. The	meditator	must	also	understand	the	appropriate antidotes	for	each	of	the	five	hindrances.	The	Buddha	says that	all	the	hindrances	arise	through	unwise	consideration (ayoniso	manasikāra)	and	that	they	can	be	eliminated	by	wise consideration	(yoniso	manasikāra).	Each	hindrance,	however, has	its	own	specific	antidote.	Thus	wise	consideration	of	the repulsive	feature	of	things	is	the	antidote	to	sensual	desire; wise	consideration	of	loving	kindness	counteracts	ill	will; wise	consideration	of	the	elements	of	effort,	exertion	and striving	opposes	sloth	and	torpor;	wise	consideration	of tranquillity	of	mind	removes	restlessness	and	worry;	and wise	consideration	of	the	real	qualities	of	things	eliminates doubt	(S	V	105–106).
+
+Having	given	up	covetousness	\[i.e.,	sensual	desire\]	with regard	to	the	world,	he	dwells	with	a	heart	free	of covetousness;	he	cleanses	his	mind	from	covetousness. Having	given	up	the	blemish	of	ill	will,	he	dwells	without	ill will;	friendly	and	compassionate	towards	all	living	beings,
+
+he	cleanses	his	mind	from	the	blemishes	of	ill	will.	Having given	up	sloth	and	torpor,	he	dwells	free	from	sloth	and torpor,	in	the	perception	of	light;	mindful	and	clearly comprehending,	he	cleanses	his	mind	from	sloth	and	torpor. Having	given	up	restlessness	and	worry,	he	dwells	without restlessness;	his	mind	being	calmed	within,	he	cleanses	it from	restlessness	and	worry.	Having	given	up	doubt,	he dwells	as	one	who	has	passed	beyond	doubt;	being	free from	uncertainty	about	wholesome	things,	he	cleanses	his mind	from	doubt…
+
+And	when	he	sees	himself	free	of	these	five	hindrances,	joy arises;	in	him	who	is	joyful,	rapture	arises;	in	him	whose mind	is	enraptured,	the	body	is	stilled;	the	body	being stilled,	he	feels	happiness;	and	a	happy	mind	finds concentration.	Then,	quite	secluded	from	sense	pleasures, secluded	from	unwholesome	states	of	mind,	he	enters	and dwells	in	the	first	jhāna,	which	is	accompanied	by	applied thought	and	sustained	thought,	with	rapture	and	happiness born	of	seclusion.	(D	I	73–74)	\[10\]
+
+The	Factors	of	the	First	Jhāna
+
+The	first	jhāna	possesses	five	component	factors:	applied thought,	sustained	thought,	rapture,	happiness	and	one-pointedness	of	mind.	Four	of	these	are	explicitly	mentioned in	the	formula	for	the	jhāna;	the	fifth,	one-pointedness,	is
+
+mentioned	elsewhere	in	the	suttas	but	is	already	suggested by	the	notion	of	jhāna	itself.	These	five	states	receive	their name,	first	because	they	lead	the	mind	from	the	level	of ordinary	consciousness	to	the	jhānic	level,	and	second because	they	constitute	the	first	jhāna	and	give	it	its	distinct definition.
+
+The	jhāna	factors	are	first	aroused	by	the	meditator’s	initial efforts	to	concentrate	upon	one	of	the	prescribed	objects	for developing	jhāna.	As	he	fixes	his	mind	on	the	preliminary object,	such	as	a	kasiṇa	disc,	a	point	is	eventually	reached where	he	can	perceive	the	object	as	clearly	with	his	eyes closed	as	with	them	open.	This	visualised	object	is	called	the learning	sign	(uggahanimitta).	As	he	concentrates	on	the learning	sign,	his	efforts	call	into	play	the	embryonic	jhāna factors,	which	grow	in	force,	duration	and	prominence	as	a result	of	the	meditative	exertion.	These	factors,	being incompatible	with	the	hindrances,	attenuate	them,	exclude them,	and	hold	them	at	bay.	With	continued	practice	the learning	sign	gives	rise	to	a	purified	luminous	replica	of itself	called	the	counterpart	sign	(paṭibhāganimitta),	the manifestation	of	which	marks	the	complete	suppression	of the	hindrances	and	the	attainment	of	access	concentration (upacārasamādhi).	All	three	events-the	suppression	of	the hindrances,	the	arising	of	the	counterpart	sign,	and	the attainment	of	access	concentration—take	place	at	precisely the	same	moment,	without	interval	(Vism	126;	PP	131).	And though	previously	the	process	of	mental	cultivation	may have	required	the	elimination	of	different	hindrances	at
+
+different	times,	when	access	is	achieved	they	all	subside together:
+
+Simultaneously	with	his	acquiring	the	counterpart	sign	his lust	is	abandoned	by	suppression	owing	to	his	giving	no attention	externally	to	sense	desires	(as	object).	And	owing to	his	abandoning	of	approval,	ill	will	is	abandoned	too,	as pus	is	with	the	abandoning	of	blood.	Likewise	stiffness	and torpor	is	abandoned	through	exertion	of	energy,	agitation and	worry	is	abandoned	through	devotion	to	peaceful things	that	cause	no	remorse;	and	uncertainty	about	the Master	who	teaches	the	way,	about	the	way,	and	about	the fruit	of	the	way,	about	the	way,	and	about	the	fruit	of	the way,	is	abandoned	through	the	actual	experience	of	the distinction	attained.	So	the	five	hindrances	are	abandoned. (Vism	189;	PP	196)
+
+Though	the	mental	factors	determinative	of	the	first	jhāna are	present	in	access	concentration,	they	do	not	as	yet possess	sufficient	strength	to	constitute	the	jhāna,	but	are strong	enough	only	to	exclude	the	hindrances.	With continued	practice,	however,	the	nascent	jhāna	factors	grow in	strength	until	they	are	capable	of	issuing	in	jhāna. Because	of	the	instrumental	role	these	factors	play	both	in the	attainment	and	constitution	of	the	first	jhāna	they	are deserving	of	closer	individual	scrutiny.
+
+Applied	Thought	(vitakka)
+
+The	word	vitakka	frequently	appears	in	the	texts	in conjunction	with	the	word	vicāra.	The	pair	signify	two interconnected	but	distinct	aspects	of	the	thought	process, and	to	bring	out	the	difference	between	them	(as	well	as their	common	character),	we	translate	the	one	as	applied thought	and	the	other	as	sustained	thought.
+
+In	both	the	suttas	and	the	Abhidhamma	applied	thought	is defined	as	the	application	of	the	mind	to	its	object	(cetaso abhiniropana),	a	function	which	the	Atthasālinī	illustrates thus:	“Just	as	someone	ascends	the	king’s	palace	in dependence	on	a	relative	of	friend	dear	to	the	king,	so	the mind	ascends	the	object	in	dependence	on	applied	thought” (Dhs-a	157).	This	function	of	applying	the	mind	to	the	object is	common	to	the	wide	variety	of	modes	in	which	the mental	factor	of	applied	thought	occurs,	ranging	from	sense discrimination	to	imagination,	reasoning	and	deliberation and	to	the	practice	of	concentration	culminating	in	the	first jhāna.	Applied	thought	can	be	unwholesome	as	in	thoughts of	sensual	pleasure,	ill	will	and	cruelty,	or	wholesome	as	in thoughts	of	renunciation,	benevolence	and	compassion	(M	I 116).
+
+In	jhāna	applied	through	is	invariably	wholesome	and	its function	of	directing	the	mind	upon	its	object	stands	forth with	special	clarity.	To	convey	this	the	Visuddhimagga explains	that	in	jhāna	the	function	of	applied	thought	is	“to strike	at	and	thresh—for	the	meditator	is	said,	in	virtue	of	it, to	have	the	object	struck	at	by	applied	thought,	threshed	by applied	thought”	(Vism	142;	PP148).	The	Milindapañhā
+
+makes	the	same	point	by	defining	applied	thought	as absorption	(appanā):	“Just	as	a	carpenter	drives	a	well-fashioned	piece	of	wood	into	a	joint,	so	applied	thought	has the	characteristic	of	absorption”	(Mil	62).
+
+The	object	of	jhāna	into	which	vitakka	drives	the	mind	and its	concomitant	states	is	the	counterpart	sign,	which emerges	from	the	learning	sign	as	the	hindrances	are suppressed	and	the	mind	enters	access	concentration.	The Visuddhimagga	explains	the	difference	between	the	two	signs thus:
+
+In	the	learning	sign	any	fault	in	the	kasiṇa	is	apparent.	But the	counterpart	sign	appears	as	if	breaking	out	from	the learning	sign,	and	a	hundred	times,	a	thousand	times	more purified,	like	a	looking-glass	disc	drawn	from	its	case,	like	a mother-of-pearl	dish	well	washed,	like	the	moon’s	disc coming	out	from	behind	a	cloud,	like	cranes	against	a thunder	cloud.	But	it	has	neither	colour	nor	shape;	for	if	it had,	it	would	be	cognizable	by	the	eye,	gross,	susceptible	of comprehension	(by	insight)	and	stamped	with	the	three characteristics.	But	it	is	not	like	that.	For	it	is	born	only	of perception	in	one	who	has	obtained	concentration,	being	a mere	mode	of	appearance	(Vism	125–26;	PP	130)
+
+The	counterpart	sign	is	the	object	of	both	access concentration	and	jhāna,	which	differ	neither	in	their	object nor	in	the	removal	of	the	hindrances	but	in	the	strength	of their	respective	jhāna	factors.	In	the	former	the	factors	are still	weak,	not	yet	fully	developed,	while	in	the	jhāna	they
+
+are	strong	enough	to	make	the	mind	fully	absorbed	in	the object.	In	this	process	applied	thought	is	the	factor	primarily responsible	for	directing	the	mind	towards	the	counterpart sign	and	thrusting	it	in	with	the	force	of	full	absorption.
+
+Sustained	Thought	(vicāra)
+
+Vicāra	seems	to	represent	a	more	developed	phase	of	the thought	process	than	vitakka.	The	commentaries	explain	that it	has	the	characteristic	of	“continued	pressure”	on	the object	(Vim.	142;	PP	148).	Applied	thought	is	described	as the	first	impact	of	the	mind	on	the	object,	the	gross	inceptive phase	of	thought;	sustained	thought	is	described	as	the	act of	anchoring	the	mind	on	the	object,	the	subtle	phase	of continued	mental	pressure.	Buddhaghosa	illustrates	the difference	between	the	two	with	a	series	of	similes.	Applied thought	is	like	striking	a	bell,	sustained	thought	like	the ringing;	applied	thought	is	like	a	bee’s	flying	towards	a flower,	sustained	thought	like	its	buzzing	around	the flower;	applied	thought	is	like	a	compass	pin	that	stays fixed	to	the	centre	of	a	circle,	sustained	thought	like	the	pin that	revolves	around	(Vism	142–43;	PP	148–49).
+
+These	similes	make	it	clear	that	applied	thought	and sustained	thought	functionally	associated,	perform	different tasks.	Applied	thought	brings	the	mind	to	the	object, sustained	thought	fixes	and	anchors	it	there.	Applied
+
+thought	focuses	the	mind	on	the	object,	sustained	thought examines	and	inspects	what	is	focused	on.	Applied	thought brings	a	deepening	of	concentration	by	again	and	again leading	the	mind	back	to	the	same	object,	sustained	thought sustains	the	concentration	achieved	by	keeping	the	mind anchored	on	that	object.
+
+Rapture	(pīti)
+
+The	third	factor	present	in	the	first	jhāna	is	pīti,	usually translated	as	joy	or	rapture.	\[11\]	In	the	suttas	pīti	is sometimes	said	to	arise	from	another	quality	called	pāmojja, translated	as	joy	or	gladness,	which	springs	up	with	the abandonment	of	the	five	hindrances.	When	the	disciple	sees the	five	hindrances	abandoned	in	himself	“gladness	arises within	him;	thus	gladdened,	rapture	arises	in	him;	and when	he	is	rapturous	his	body	becomes	tranquil”	(D	I	73). Tranquillity	in	turn	leads	to	happiness,	on	the	basis	of which	the	mind	becomes	concentrated.	Thus	rapture precedes	the	actual	arising	of	the	first	jhāna,	but	persists through	the	remaining	stages	up	to	the	third	jhāna.
+
+The	Vibhaṅga	defines	pīti	as	“gladness,	joy,	joyfulness, mirth,	merriment,	exultation,	exhilaration,	and	satisfaction of	mind”	(Vibh	257).	The	commentaries	ascribe	to	it	the characteristic	of	endearing,	the	function	of	refreshing	the body	and	mind	or	pervading	with	rapture,	and	the
+
+manifestation	as	elation	(Vism	143;	PP	149).	Shwe	Zan	Aung explains	that	“pīti	abstracted	means	interest	of	varying degrees	of	intensity,	in	an	object	felt	as	desirable	or	as calculated	to	bring	happiness.”	\[12\]
+
+When	defined	in	terms	of	agency,	pīti	is	that	which	creates interest	in	the	object;	when	defined	in	terms	of	its	nature	it is	the	interest	in	the	object.	Because	it	creates	a	positive interest	in	the	object,	the	jhāna	factor	of	rapture	is	able	to counter	and	suppress	the	hindrance	of	ill	will,	a	state	of aversion	implying	a	negative	evaluation	of	the	object.
+
+Rapture	is	graded	into	five	categories:	minor	rapture, momentary	rapture,	showering	rapture,	uplifting	rapture and	pervading	rapture.	\[13\]	Minor	rapture	is	generally	the first	to	appear	in	the	progressive	development	of meditation;	it	is	capable	of	causing	the	hairs	of	the	body	to rise.	Momentary	rapture,	which	is	like	lightning,	comes	next but	cannot	be	sustained	for	long.	Showering	rapture	runs through	the	body	in	waves,	producing	a	thrill	but	without leaving	a	lasting	impact.	Uplifting	rapture,	which	can	cause levitation,	is	more	sustained	but	still	tends	to	disturb concentration.	The	form	of	rapture	most	conductive	to	the attainment	of	jhāna	is	all-pervading	rapture,	which	is	said	to suffuse	the	whole	body	so	that	it	becomes	like	a	full	bladder or	like	a	mountain	cavern	inundated	with	a	mighty	flood	of water.	The	Visuddhimagga	states	that	what	is	intended	by	the jhāna	factor	of	rapture	is	this	all-pervading	rapture	“which is	the	root	of	absorption	and	comes	by	growth	into association	with	absorption”	(Vism	144;	PP	151)
+
+Happiness	(sukha)
+
+As	a	factor	of	the	first	jhāna,	sukha	signifies	pleasant	feeling. The	word	is	explicitly	defined	in	the	sense	by	the	Vibhaṅga in	its	analysis	of	the	first	jhāna:	“Therein,	what	is	happiness? Mental	pleasure	and	happiness	born	of	mind-contact,	the felt	pleasure	and	happiness	born	of	mind-contact, pleasurable	and	happy	feeling	born	of	mind	contact—this	is called	’happiness’”	(Vibh	257).	The	Visuddhimagga	explains that	happiness	in	the	first	jhāna	has	the	characteristic	of gratifying,	the	function	of	intensifying	associated	states,	and as	manifestation,	the	rendering	of	aid	to	its	associated	states (Vism	145;	PP	151).
+
+Rapture	and	happiness	link	together	in	a	very	close relationship,	but	though	the	two	are	difficult	to	distinguish, they	are	not	identical.	Happiness	is	a	feeling	(vedanā); rapture	a	mental	formation	(saṅkhāra).	Happiness	always accompanies	rapture,	so	that	when	rapture	is	present happiness	must	always	be	present;	but	rapture	does	not always	accompany	happiness,	for	in	the	third	jhāna,	as	we will	see,	there	is	happiness	but	no	rapture.	The	Atthasālinī, which	explains	rapture	as	“delight	in	the	attaining	of	the desired	object”	and	happiness	as	“the	enjoyment	of	the	taste of	what	is	required,”	illustrates	the	difference	by	means	of	a simile:
+
+Rapture	is	like	a	weary	traveller	in	the	desert	in	summer, who	hears	of,	or	sees	water	of	a	shady	wood.	Ease
+
+\[happiness\]	is	like	his	enjoying	the	water	of	entering	the forest	shade.	For	a	man	who,	travelling	along	the	path through	a	great	desert	and	overcome	by	the	heat,	is	thirsty and	desirous	of	drink,	if	he	saw	a	man	on	the	way,	would ask	’Where	is	water?’	The	other	would	say,	’Beyond	the wood	is	a	dense	forest	with	a	natural	lake.	Go	there,	and you	will	get	some.’	He,	hearing	these	words,	would	be	glad and	delighted	and	as	he	went	would	see	lotus	leaves,	etc., fallen	on	the	ground	and	become	more	glad	and	delighted. Going	onwards,	he	would	see	men	with	wet	clothes	and hair,	hear	the	sounds	of	wild	fowl	and	pea-fowl,	etc.,	see	the dense	forest	of	green	like	a	net	of	jewels	growing	by	the edge	of	the	natural	lake,	he	would	see	the	water	lily,	the lotus,	the	white	lily,	etc.,	growing	in	the	lake,	he	would	see the	clear	transparent	water,	he	would	be	all	the	more	glad and	delighted,	would	descend	into	the	natural	lake,	bathe and	drink	at	pleasure	and,	his	oppression	being	allayed,	he would	eat	the	fibres	and	stalks	of	the	lilies,	adorn	himself with	the	blue	lotus,	carry	on	his	shoulders	the	roots	of	the mandalaka,	ascend	from	the	lake,	put	on	his	clothes,	dry	the bathing	cloth	in	the	sun,	and	in	the	cool	shade	where	the breeze	blew	ever	so	gently	lay	himself	down	and	saw:	’O bliss!	O	bliss!’	Thus	should	this	illustration	be	applied.	The time	of	gladness	and	delight	from	when	he	heard	of	the natural	lake	and	the	dense	forest	till	he	say	the	water	is	like rapture	having	the	manner	of	gladness	and	delight	at	the object	in	view.	The	time	when,	after	his	bath	and	dried	he laid	himself	down	in	the	cool	shade,	saying,	’O	bliss!	O
+
+bliss!’	etc.,	is	the	sense	of	ease	\[happiness\]	grown	strong, established	in	that	mode	of	enjoying	the	taste	of	the object.	\[14\]
+
+Since	rapture	and	happiness	co-exist	in	the	first	jhāna,	this simile	should	not	be	taken	to	imply	that	they	are	mutually exclusive.	Its	purport	is	to	suggest	that	rapture	gains prominence	before	happiness,	for	which	it	helps	provide	a causal	foundation.
+
+In	the	description	of	the	first	jhāna,	rapture	and	happiness are	said	to	be	“born	of	seclusion”	and	to	suffuse	the	whole body	of	the	meditator	in	such	a	way	that	there	is	no	part	of his	body	which	remains	unaffected	by	them:
+
+Monks,	secluded	from	sense	pleasure…	a	monk enters	and	dwells	in	the	first	jhāna.	He	steeps, drenches,	fills	and	suffuses	his	body	with	the	rapture and	happiness	born	of	seclusion,	so	that	there	is	no part	of	his	entire	body	that	is	not	suffused	with	this rapture	and	happiness.	Just	as	a	skilled	bath-attendant	or	his	apprentice	might	strew	bathing powder	in	a	copper	basin,	sprinkle	it	again	and	again with	water,	and	knead	it	together	so	that	the	mass	of bathing	soap	would	be	pervaded,	suffused,	and saturated	with	moisture	inside	and	out	yet	would	not ooze	moisture,	so	a	monk	steeps,	drenches,	fills	and suffuses	his	body	with	the	rapture	and	happiness born	of	seclusion,	so	that,	there	is	no	part	of	his	entire body	that	is	not	suffused	with	this	rapture	and
+
+happiness	born	of	seclusion.	(D	I	74)
+
+One-pointedness	(ekaggatā)
+
+Unlike	the	previous	four	jhāna	factors,	one-pointedness	is not	specifically	mentioned	in	the	standard	formula	for	the first	jhāna,	but	it	is	included	among	the	jhāna	factors	by	the Mahāvedalla	Sutta	(M	I	294)	as	well	as	in	the	Abhidhamma and	the	commentaries.	One-pointedness	is	a	universal mental	concomitant,	the	factor	by	virtue	of	which	the	mind is	centred	upon	its	object.	It	brings	the	mind	to	a	single point,	the	point	occupied	by	the	object.
+
+One-pointedness	is	used	in	the	text	as	a	synonym	for concentration	(samādhi)	which	has	the	characteristic	of	non-distraction,	the	function	of	eliminating	distractions,	non-wavering	as	its	manifestation,	and	happiness	as	its proximate	cause	(Vism	85;	PP	85).	As	a	jhāna	factor	one-pointedness	is	always	directed	to	a	wholesome	object	and wards	off	unwholesome	influences,	in	particular	the hindrance	of	sensual	desire.	As	the	hindrances	are	absent	in jhāna	one-pointedness	acquires	special	strength,	based	on the	previous	sustained	effort	of	concentration.
+
+Besides	the	five	jhāna	factors,	the	first	jhāna	contains	a	great number	of	other	mental	factors	functioning	in	unison	as coordinate	members	of	a	single	state	of	consciousness. Already	the	Anupada	Sutta	lists	such	additional
+
+components	of	the	first	jhāna	as	contact,	feeling,	perception, volition,	consciousness,	desire,	decision,	energy, mindfulness,	equanimity	and	attention	(M	III	25).	In	the Abhidhamma	literature	this	is	extended	still	further	up	to thirty-three	indispensable	components.	Nevertheless,	only five	states	are	called	the	factors	of	the	first	jhāna,	for	only these	have	the	functions	of	inhibiting	the	five	hindrances and	fixing	the	mind	in	absorption.	For	the	jhāna	to	arise	all these	five	factors	must	be	present	simultaneously,	exercising their	special	operations:
+
+But	applied	thought	directs	the	mind	onto	the	object; sustained	thought	keeps	it	anchored	there.	Happiness \[rapture\]	produced	by	the	success	of	the	effort	refreshes	the mind	whose	effort	has	succeeded	through	not	being distracted	by	those	hindrances;	and	bliss	\[happiness\] intensifies	it	for	the	same	reason.	Then	unification	aided	by this	directing	onto,	this	anchoring,	this	refreshing	and	this intensifying,	evenly	and	rightly	centres	the	mind	with	its remaining	associated	states	on	the	object	consisting	in	unity. Consequently	possession	of	five	factors	should	be understood	as	the	arising	of	these	five,	namely,	applied thought,	sustained	thought,	happiness	\[rapture\],	bliss \[happiness\],	and	unification	of	mind.	For	it	is	when	these are	arisen	that	jhāna	is	said	to	be	arisen,	which	is	why	they are	called	the	five	factors	of	possession.	(Vism	146;	PP	152)
+
+Each	jhāna	factor	serves	as	support	for	the	one	which succeeds	it.	Applied	thought	must	direct	the	mind	to	its object	in	order	for	sustained	thought	to	anchor	it	there.	Only
+
+when	the	mind	is	anchored	can	the	interest	develop	which will	culminate	in	rapture.	As	rapture	develops	it	brings happiness	to	maturity,	and	this	spiritual	happiness,	by providing	an	alternative	to	the	fickle	pleasures	of	the	senses, aids	the	growth	of	one-pointedness.	In	this	way,	as Nāgasena	explains,	all	the	other	wholesome	states	lead	to concentration,	which	stands	at	their	head	like	the	apex	on the	roof	of	a	house	(Mil	38–39).
+
+Perfecting	the	First	Jhāna
+
+The	difference	between	access	and	absorption concentration,	as	we	have	said,	does	not	lie	in	the	absence	of the	hindrances,	which	is	common	to	both,	but	in	the	relative strength	of	the	jhāna	factors.	In	access	the	factors	are	weak so	that	concentration	is	fragile,	comparable	to	a	child	who walks	a	few	steps	and	then	falls	down.	But	in	absorption	the jhāna	factors	are	strong	and	well	developed	so	that	the mind	can	remain	continuously	in	concentration	just	as	a healthy	man	can	remain	standing	on	his	feet	for	a	whole day	and	night	(Vism	126;	PP	131).
+
+Because	full	absorption	offers	the	benefit	of	strengthened concentration,	a	meditator	who	gains	access	is	encouraged to	strive	for	the	attainment	of	jhāna.	To	develop	his	practice several	important	measures	are	recommended.	\[15\]	The meditator	should	live	in	a	suitable	dwelling,	rely	upon	a
+
+suitable	alms	resort,	avoid	profitless	talk,	associate	only with	spiritually-minded	companions,	make	use	only	of suitable	food,	live	in	a	congenial	climate,	and	maintain	his practice	in	a	suitable	posture.	He	should	also	cultivate	the ten	kinds	of	skill	in	absorption.	He	should	clean	his	lodging and	his	physical	body	so	that	they	conduce	to	clear meditation,	balance	his	spiritual	faculties	by	seeing	that faith	is	balanced	with	wisdom	and	energy	with concentration,	and	he	must	be	skilful	in	producing	and developing	the	sign	of	concentration	(1–3).	He	should	exert the	mind	when	it	is	slack,	restrain	it	when	it	is	agitated, encourage	it	when	it	is	restless	or	dejected,	and	look	at	the mind	with	equanimity	when	all	is	proceeding	well	(4–7). The	meditator	should	avoid	distracting	persons,	should approach	people	experienced	in	concentration,	and	should be	firm	in	his	resolution	to	attain	jhāna	(8–10).
+
+After	attaining	the	first	jhāna	a	few	times	the	meditator	is not	advised	to	set	out	immediately	striving	for	the	second jhāna.	This	would	be	a	foolish	and	profitless	spiritual ambition.	Before	he	is	prepared	to	make	the	second	jhāna the	goal	of	his	endeavour	he	must	first	bring	the	first	jhāna to	perfection.	If	he	is	too	eager	to	reach	the	second	jhāna before	he	has	perfected	the	first,	he	is	likely	to	fail	to	gain the	second	and	find	himself	unable	to	regain	the	first.	The Buddha	compares	such	a	meditator	to	a	foolish	cow	who, while	still	unfamiliar	with	her	own	pasture,	sets	out	for	new pastures	and	gets	lost	in	the	mountains:	she	fails	to	find food	or	drink	and	is	unable	to	find	her	way	home	(AN	IV
+
+The	perfecting	of	the	first	jhāna	involves	two	steps:	the extension	of	the	sign	and	the	achievement	of	the	five masteries.	The	extension	of	the	sign	means	extending	the size	of	the	counterpart	sign,	the	object	of	the	jhāna. Beginning	with	a	small	area,	the	size	of	one	or	two	fingers, the	meditator	gradually	learns	to	broaden	the	sign	until	the mental	image	can	be	made	to	cover	the	world-sphere	or even	beyond	(Vism	152–53;	PP	158–59).
+
+Following	this	the	meditator	should	try	to	acquire	five	kinds of	mastery	over	the	jhāna:	mastery	in	adverting,	in attaining,	in	resolving,	in	emerging	and	in	reviewing.	\[16\] Mastery	in	adverting	is	the	ability	to	advert	to	the	jhāna factors	one	by	one	after	emerging	from	the	jhāna,	wherever he	wants,	whenever	he	wants,	and	for	as	long	as	he	wants. Mastery	in	attaining	is	the	ability	to	enter	upon	jhāna quickly,	mastery	in	resolving	the	ability	to	remain	in	the jhāna	for	exactly	the	pre-determined	length	of	time,	mastery in	emerging	the	ability	to	emerge	from	jhāna	quickly without	difficulty,	and	mastery	in	reviewing	the	ability	to review	the	jhāna	and	its	factors	with	retrospective knowledge	immediately	after	adverting	to	them.	When	the meditator	has	achieved	this	fivefold	mastery,	then	he	is ready	to	strive	for	the	second	jhāna.
+
+The	Higher	Jhānas
+
+In	this	chapter	we	will	survey	the	higher	states	of	jhāna. First	we	will	discuss	the	remaining	three	jhānas	of	the	fine-material	sphere,	using	the	descriptive	formulas	of	the	suttas as	our	starting	point	and	the	later	literature	as	our	source	for the	methods	of	practice	that	lead	to	these	attainments. Following	this	we	will	consider	the	four	meditative	states that	pertain	to	the	immaterial	sphere,	which	come	to	be called	the	immaterial	jhānas.	Our	examination	will	bring	out the	dynamic	character	of	the	process	by	which	the	jhānas are	successively	achieved.	The	attainment	of	the	higher jhānas	of	the	fine-material	sphere,	we	will	see,	involves	the successive	elimination	of	the	grosser	factors	and	the bringing	to	prominence	of	the	subtler	ones,	the	attainment of	the	formless	jhānas	the	replacement	of	grosser	objects with	successively	more	refined	objects.	From	our	study	it will	become	clear	that	the	jhānas	link	together	in	a	graded sequence	of	development	in	which	the	lower	serves	as	basis for	the	higher	and	the	higher	intensifies	and	purifies	states already	present	in	the	lower.	We	will	end	the	chapter	with	a brief	look	at	the	connection	between	the	jhānas	and	the Buddhist	teaching	of	rebirth.
+
+The	Higher	Fine-material	Jhānas
+
+#### The	formula	for	the	attainment	of	the	second	jhāna	runs	as follows:
+
+With	the	subsiding	of	applied	thought	and	sustained thought	he	enters	and	dwells	in	the	second	jhāna, which	has	internal	confidence	and	unification	of mind,	is	without	applied	thought	and	sustained thought,	and	is	filled	with	rapture	and	happiness born	of	concentration	(M	I	181;	Vibh	245)
+
+The	second	jhāna,	like	the	first,	is	attained	by	eliminating the	factors	to	be	abandoned	and	by	developing	the	factors	of possession.	In	this	case	however,	the	factors	to	be abandoned	are	the	two	initial	factors	of	the	first	jhāna	itself, applied	thought	and	sustained	thought;	the	factors	of possession	are	the	three	remaining	jhāna	factors,	rapture, happiness	and	one-pointedness.	Hence	the	formula	begins “with	the	subsiding	of	applied	thought	and	sustained thought,”	and	then	mentions	the	jhāna’s	positive endowments.
+
+After	achieving	the	five	kinds	of	mastery	over	the	first jhāna,	a	meditator	who	wishes	to	reach	the	second	jhāna should	enter	the	first	jhāna	and	contemplate	its	defects. These	are	twofold:	one,	which	might	be	called	the	defect	of proximate	corruption,	is	the	nearness	of	the	five	hindrances, against	which	the	first	jhāna	provides	only	a	relatively	mild safeguard;	the	other	defect,	inherent	to	the	first	jhāna,	is	its inclusion	of	applied	and	sustained	thought,	which	now appear	as	gross,	even	as	impediments	needing	to	be
+
+eliminated	to	attain	the	more	peaceful	and	subtle	second jhāna.
+
+By	reflecting	upon	the	second	jhāna	as	more	tranquil	and sublime	than	the	first,	the	meditator	ends	his	attachment	to the	first	jhāna	and	engages	in	renewed	striving	with	the	aim of	reaching	the	higher	stage.	He	directs	his	mind	to	his meditation	subject—which	must	be	one	capable	of	inducing the	higher	jhānas	such	as	a	kasiṇa	or	the	breath—and resolves	to	overcome	applied	and	sustained	thought.	When his	practice	comes	to	maturity	the	two	kinds	of	thought subside	and	the	second	jhāna	arises.	In	the	second	jhāna only	three	of	the	original	five	jhāna	factors	remain—rapture, happiness,	and	one-pointedness.	Moreover,	with	the elimination	of	the	two	grosser	factors	these	have	acquired	a subtler	and	more	peaceful	tone.	\[17\]
+
+Besides	the	main	jhāna	factors,	the	canonical	formula includes	several	other	states	in	its	description	of	the	second jhāna.	“Internal	confidence”	(ajjhattaṃ	sampasādanaṃ), conveys	the	twofold	meaning	of	faith	and	tranquillity.	In	the first	jhāna	the	meditator’s	faith	lacked	full	clarity	and serenity	due	to	“the	disturbance	created	by	applied	and sustained	thought,	like	water	ruffled	by	ripples	and wavelets”	(Vism	157;	PP	163).	But	when	applied	and sustained	thought	subside,	the	mind	becomes	very	peaceful and	the	meditator’s	faith	acquires	fuller	confidence.
+
+The	formula	also	mentions	unification	of	mind	(cetaso ekodibhāvaṃ),	which	is	identified	with	one-pointedness	or
+
+concentration.	Though	present	in	the	first	jhāna, concentration	only	gains	special	mention	in	connection	with the	second	jhāna	since	it	is	here	that	it	acquires	eminence.	In the	first	jhāna	concentration	was	still	imperfect,	being subject	to	the	disturbing	influence	of	applied	and	sustained thought.	For	the	same	reason	this	jhāna,	along	with	its constituent	rapture	and	happiness,	is	said	to	be	born	of concentration	(samādhija):	“It	is	only	this	concentration	that is	quite	worthy	to	be	called	’concentration’	because	of	its complete	confidence	and	extreme	immobility	due	to absence	of	disturbance	by	applied	and	sustained	thought” (Vism	158;	PP	164).
+
+To	attain	the	third	jhāna	the	meditator	must	use	the	same method	he	used	to	ascend	from	the	first	jhāna	to	the	second. He	must	master	the	second	jhāna	in	the	five	ways,	enter	and emerge	from	it,	and	reflect	upon	its	defects.	In	this	case	the defect	of	proximate	corruption	is	the	nearness	of	applied and	sustained	thought,	which	threaten	to	disrupt	the serenity	of	the	second	jhāna;	its	inherent	defect	is	the presence	of	rapture,	which	now	appears	as	a	gross	factor that	should	be	discarded.	Aware	of	the	imperfections	in	the second	jhāna,	the	meditator	cultivates	indifference	towards it	and	aspires	instead	for	the	peace	and	sublimity	of	the third	jhāna,	towards	the	attainment	of	which	he	now	directs his	efforts.	When	his	practice	matures	he	enters	the	third jhāna,	which	has	the	two	jhāna	factors	that	remain	when	the rapture	disappears,	happiness	and	one-pointedness,	and which	the	suttas	describe	as	follows:
+
+“With	the	fading	away	of	rapture,	he	dwells	in equanimity,	mindful	and	discerning;	and	he experiences	in	his	own	person	that	happiness	of which	the	noble	ones	say:	’Happily	lives	he	who	is equanimous	and	mindful’—thus	he	enters	and dwells	in	the	third	jhāna.”	(M	I	182;	Vibh	245)
+
+The	formula	indicates	that	the	third	jhāna	contains,	besides its	two	defining	factors,	three	additional	components	not included	among	the	jhāna	factors:	equanimity,	mindfulness and	discernment.	Equanimity	is	mentioned	twice.	The	Pali word	for	equanimity,	upekkhā,	occurs	in	the	texts	with	a wide	range	of	meanings,	the	most	important	being	neutral feeling—that	is,	feeling	which	is	neither	painful	nor	pleasant —and	the	mental	quality	of	inner	balance	or	equipoise called	“specific	neutrality”	(tatramajjhattatā—see	Vism	161; PP	167).	The	equanimity	referred	to	in	the	formula	is	a	mode of	specific	neutrality	which	belongs	to	the	aggregate	of mental	formations	(saṅkhārakkhandha)	and	thus	should	not be	confused	with	equanimity	as	neutral	feeling.	Though	the two	are	often	associated,	each	can	exist	independently	of	the other,	and	in	the	third	jhāna	equanimity	as	specific neutrality	co-exists	with	happiness	or	pleasant	feeling.
+
+The	meditator	in	third	jhāna	is	also	said	to	be	mindful	and discerning,	which	points	to	another	pair	of	frequently conjoined	mental	functions.	Mindfulness	(sati),	in	this context,	means	the	remembrance	of	the	meditation	object, the	constant	bearing	of	the	object	in	mind	without	allowing
+
+it	to	float	away.	Discernment	(sampajañña)	is	an	aspect	of wisdom	or	understanding	which	scrutinises	the	object	and grasps	its	nature	free	from	delusion.	Though	these	two factors	were	already	present	even	in	the	first	two	jhānas, they	are	first	mentioned	only	in	connection	with	the	third since	it	is	here	that	their	efficacy	becomes	manifest.	The	two are	needed	particularly	to	avoid	a	return	to	rapture.	Just	as	a suckling	calf,	removed	from	its	mother	and	left	unguarded, again	approaches	the	mother,	so	the	happiness	of	jhāna tends	to	veer	towards	rapture,	its	natural	partner,	if unguarded	by	mindfulness	and	discernment	(Dhs	A.219). To	prevent	this	and	the	consequent	loss	of	the	third	jhāna	is the	task	of	mindfulness	and	discernment.
+
+The	attainment	of	the	fourth	jhāna	commences	with	the aforesaid	procedure.	In	this	case	the	meditator	sees	that	the third	jhāna	is	threatened	by	the	proximity	of	rapture,	which is	ever	ready	to	swell	up	again	due	to	its	natural	affinity with	happiness;	he	also	sees	that	it	is	inherently	defective due	to	the	presence	of	happiness,	a	gross	factor	which provides	fuel	for	clinging.	He	then	contemplates	the	state where	equanimous	feeling	and	one-pointedness	subsist together—the	fourth	jhāna—as	far	more	peaceful	and	secure than	anything	he	has	so	far	experienced,	and	therefore	as	far more	desirable.	Taking	as	his	object	the	same	counterpart sign	he	took	for	the	earlier	jhāna,	he	strengthens	his	efforts in	concentration	for	the	purpose	of	abandoning	the	gross factor	of	happiness	and	entering	the	higher	jhāna.	When	his practice	matures	the	mind	enters	absorption	into	the	fourth
+
+With	the	abandoning	of	pleasure	and	pain,	and	with the	previous	disappearance	of	joy	and	grief,	he	enters and	dwells	in	the	fourth	jhāna,	which	has	neither-pain-nor-pleasure	and	has	purity	of	mindfulness	due to	equanimity.	(M	I	182;	Vibh	245)
+
+The	first	part	of	this	formula	specifies	the	conditions	for	the attainment	of	this	jhāna—also	called	the	neither-painful-nor-pleasant	liberation	of	mind	(M	I	296)—to	be	the abandoning	of	four	kinds	of	feeling	incompatible	with	it,	the first	two	signifying	bodily	feelings,	the	latter	two	the corresponding	mental	feelings.	The	formula	also	introduces several	new	terms	and	phrases	which	have	not	been encountered	previously.	First,	it	mentions	a	new	feeling, neither-pain-nor-pleasure	(adukkhamasukha),	which	remains after	the	other	four	feelings	have	subsided.	This	kind	of feeling	also	called	equanimous	or	neutral	feeling,	replaces happiness	as	the	concomitant	feeling	of	the	jhāna	and	also figures	as	one	of	the	jhāna	factors.	Thus	this	attainment	has two	jhāna	factors:	neutral	feeling	and	one-pointedness	of mind.	Previously	the	ascent	from	one	jhāna	to	the	next	was marked	by	the	progressive	elimination	of	the	coarser	jhāna factors,	but	none	were	added	to	replace	those	which	were excluded.	But	now,	in	the	move	from	the	third	to	the	fourth jhāna,	a	substitution	occurs,	neutral	feeling	moving	in	to take	the	place	of	happiness.
+
+In	addition	we	also	find	a	new	phrase	composed	of	familiar
+
+terms,	“purity	of	mindfulness	due	to	equanimity” (upekkhāsatipārisuddhi).	The	Vibhaṅga	explains:	“This mindfulness	is	cleared,	purified,	clarified	by	equanimity” (Vibh	261),	and	Buddhaghosa	adds:	“for	the	mindfulness	in this	jhāna	is	quite	purified,	and	its	purification	is	effected	by equanimity,	not	by	anything	else”	(Vism	167;	PP	174).	The equanimity	which	purifies	the	mindfulness	is	not	neutral feeling,	as	might	be	supposed,	but	specific	neutrality,	the sublime	impartiality	free	from	attachment	and	aversion, which	also	pertains	to	this	jhāna.	Though	both	specific neutrality	and	mindfulness	were	present	in	the	lower	three jhānas,	none	among	these	is	said	to	have	“purity	of mindfulness	due	to	equanimity.”	The	reason	is	that	in	the lower	jhānas	the	equanimity	present	was	not	purified	itself, being	overshadowed	by	opposing	states	and	lacking association	with	equanimous	feeling.	It	is	like	a	crescent moon	which	exists	by	day	but	cannot	be	seen	because	of	the sunlight	and	the	bright	sky.	But	in	the	fourth	jhāna,	where equanimity	gains	the	support	of	equanimous	feeling,	it shines	forth	like	the	crescent	moon	at	night	and	purifies mindfulness	and	the	other	associated	states	(Vism	169;	PP 175).
+
+The	Immaterial	Jhānas
+
+Beyond	the	four	jhānas	lie	four	higher	attainments	in	the scale	of	concentration,	referred	to	in	the	suttas	as	the
+
+“peaceful	immaterial	liberations	transcending	material form”	(santā	vimokkhā	atikamma	rūpe	āruppā,	M	I	33).	In	the commentaries	they	are	also	called	the	immaterial	jhānas, and	while	this	expression	is	not	found	in	the	suttas	it	seems appropriate	in	so	far	as	these	states	correspond	to	jhānic levels	of	consciousness	and	continue	the	same	process	of mental	unification	initiated	by	the	original	four	jhānas,	now sometimes	called	the	fine-material	jhānas.	The	immaterial jhānas	are	designated,	not	by	numerical	names	like	their predecessors,	but	by	the	names	of	their	objective	spheres: the	base	of	boundless	space,	the	base	of	boundless consciousness,	the	base	of	nothingness,	and	the	base	of neither-perception-nor-non-perception.	\[18\]	They	receive	the designation	“immaterial”	or	“formless”	(arūpa)	because	they are	achieved	by	surmounting	all	perceptions	of	material form,	including	the	subtle	form	of	the	counterpart	sign which	served	as	the	object	of	the	previous	jhānas,	and because	they	are	the	subjective	correlates	of	the	immaterial planes	of	existence.
+
+Like	the	fine-material	jhānas	follow	a	fixed	sequence	and must	be	attained	in	the	order	in	which	they	are	presented. That	is,	the	meditator	who	wishes	to	achieve	the	immaterial jhānas	must	begin	with	the	base	of	boundless	space	and then	proceed	step	by	step	up	to	the	base	of	neither-perception-nor-non-perception.	However,	an	important difference	separates	the	modes	of	progress	in	the	two	cases. In	the	case	of	the	fine-material	jhānas,	the	ascent	from	one jhāna	to	another	involves	a	surmounting	of	jhāna	factors.	To
+
+rise	from	the	first	jhāna	to	the	second	the	meditator	must eliminate	applied	thought	and	sustained	thought,	to	rise from	the	second	to	the	third	he	must	overcome	rapture,	and to	rise	from	the	third	to	the	fourth	he	must	replace	pleasant with	neutral	feeling.	Thus	progress	involves	a	reduction	and refinement	of	the	jhāna	factors,	from	the	initial	five	to	the culmination	in	one-pointedness	and	neutral	feeling.
+
+Once	the	fourth	jhāna	is	reached	the	jhāna	factors	remain constant,	and	in	higher	ascent	to	the	immaterial	attainments there	is	no	further	elimination	of	jhāna	factors.	For	this reason	the	formless	jhānas,	when	classified	from	the perspective	of	their	factorial	constitution	as	is	done	in	the Abhidhamma,	are	considered	modes	of	the	fourth	jhāna. They	are	all	two-factored	jhānas,	constituted	by	one-pointedness	and	equanimous	feeling.
+
+Rather	than	being	determined	by	a	surmounting	of	factors, the	order	of	the	immaterial	jhānas	is	determined	by	a surmounting	of	objects.	Whereas	for	the	lower	jhānas	the object	can	remain	constant	but	the	factors	must	be	changed, for	the	immaterial	jhānas	the	factors	remain	constant	while the	objects	change.	The	base	of	boundless	space	eliminates the	kasiṇa	object	of	the	fourth	jhāna,	the	base	of	boundless consciousness	surmounts	the	object	of	the	base	of	boundless space,	the	base	of	nothingness	surmounts	the	object	of	base of	boundless	consciousness,	and	the	base	of	neither-perception-nor-non-perception	surmounts	the	objects	the object	of	the	base	of	nothingness.
+
+Because	the	objects	become	progressively	more	subtle	at each	level,	the	jhāna	factors	of	equanimous	feeling	and	one-pointedness,	while	remaining	constant	in	nature throughout,	become	correspondingly	more	refined	in quality.	Buddhaghosa	illustrates	this	with	a	simile	of	four pieces	of	cloth	of	the	same	measurements,	spun	by	the	same person,	yet	made	of	thick,	thin,	thinner	and	very	thin	thread respectively	(Vism	339;	PP	369).	Also,	whereas	the	four lower	jhānas	can	each	take	a	variety	of	objects—the	ten kasiṇas,	the	in-and-out	breath,	etc.—and	do	not	stand	in	any integral	relation	to	these	objects,	the	four	immaterial	jhānas each	take	a	single	object	inseparably	related	to	the attainment	itself.	The	first	is	attained	solely	with	the	base	of boundless	space	as	object,	the	second	with	the	base	of boundless	consciousness,	and	so	forth.
+
+The	motivation	which	initially	leads	a	meditator	to	seek	the immaterial	attainments	is	a	clear	recognition	of	the	dangers inherent	in	material	existence:	it	is	in	virtue	of	matter	that injuries	and	death	by	weapons	and	knives	occur	that	one	is afflicted	with	diseases,	subject	of	hunger	and	thirst,	while none	of	this	takes	place	on	the	immaterial	planes	of existence	(M	I	410).	Wishing	to	escape	these	dangers	by taking	rebirth	in	the	immaterial	planes,	the	meditator	must first	attain	the	four	fine-material	jhānas	and	master	the fourth	jhāna	with	any	kasiṇa	as	object	except	the	omitted space	kasiṇa.	By	this	much	the	meditator	has	risen	above gross	matter,	but	he	still	has	not	transcended	the	subtle material	form	comprised	by	the	luminous	counterpart	sign
+
+which	is	the	object	of	his	jhāna.	To	reach	the	formless attainments	the	meditator,	after	emerging	from	the	fourth jhāna,	must	consider	that	even	that	jhāna,	as	refined	as	it	is, still	has	an	object	consisting	in	material	form	and	thus	is distantly	connected	with	gross	matter;	moreover,	it	is	close to	happiness,	a	factor	of	the	third	jhāna,	and	is	far	coarser than	the	immaterial	states.	The	meditator	sees	the	base	of boundless	space,	the	first	immaterial	jhāna,	as	more peaceful	and	sublime	than	the	fourth	fine-material	jhāna and	as	more	safely	removed	from	materiality.
+
+Following	these	preparatory	reflections,	the	meditator enters	the	fourth	jhāna	based	on	a	kasiṇa	object	and	extends the	counterpart	sign	of	the	kasiṇa	“to	the	limit	of	the	world-sphere,	or	as	far	as	he	likes.”	Then,	after	emerging	from	the fourth	jhāna,	he	must	remove	the	kasiṇa	by	attending exclusively	to	the	space	it	has	been	made	to	cover	without attending	to	the	kasiṇa	itself.	Taking	as	his	object	the	space left	after	the	removal	of	the	kasiṇa,	the	meditator	adverts	to it	as	“boundless	space”	or	simply	as	“space,	space,”	striking at	it	with	applied	and	sustained	thought.	As	he	cultivates this	practice	over	and	over,	eventually	the	consciousness pertaining	to	the	base	of	boundless	space	arises	with boundless	space	as	its	object	(Vism	327–28;	PP	355–56).
+
+A	meditator	who	has	gained	mastery	over	the	base	of boundless	space,	wishing	to	attain	as	well	the	second immaterial	jhāna,	must	reflect	upon	the	two	defects	of	the first	attainment	which	are	its	proximity	to	the	fine-material jhānas	and	its	grossness	compared	to	the	base	of	boundless
+
+consciousness.	Having	in	this	way	developed	indifferent	to the	lower	attainment,	he	must	next	enter	and	emerge	from the	base	of	boundless	space	and	then	fix	his	attention	upon the	consciousness	that	occurred	there	pervading	the boundless	space.	Since	the	space	taken	as	the	object	by	the first	formless	jhāna	was	boundless,	the	consciousness	of	that space	also	involves	an	aspect	of	boundlessness,	and	it	is	to this	boundless	consciousness	that	the	aspirant	for	the	next attainment	adverts.	He	is	not	to	attend	to	it	merely	as boundless,	but	as	“boundless	consciousness”	or	simply	as “consciousness.”	He	continues	to	cultivate	this	sign	again and	again	until	the	consciousness	belonging	to	the	base	of boundless	consciousness	arises	in	absorption	taking	as	its object	the	boundless	consciousness	pertaining	to	the	first immaterial	state	(Vism	331–32;	PP	360–61).
+
+To	attain	the	next	formless	state,	the	base	of	nothingness, the	meditator	who	has	mastered	the	base	of	boundless consciousness	must	contemplate	its	defects	in	the	same twofold	manner	and	advert	to	the	superior	peacefulness	of the	base	of	nothingness.	Without	giving	any	more	attention to	the	base	of	boundless	consciousness,	he	should	“give attention	to	the	present	non-existence,	voidness,	secluded aspect	of	that	same	past	consciousness	belonging	to	the	base consisting	of	boundless	space”	(Vism	333;	PP	362).	In	other words,	the	meditator	is	to	focus	upon	the	present	absence	or non-existence	of	the	consciousness	belonging	to	the	base	of boundless	space,	adverting	to	it	over	and	over	thus:	“There is	not,	there	is	not”	or	“void,	void”.	When	his	efforts	fructify
+
+there	arises	in	absorption	a	consciousness	belonging	to	the base	of	nothingness,	with	the	non-existence	of	the consciousness	of	boundless	space	as	its	object.	Whereas	the second	immaterial	state	relates	to	the	consciousness	of boundless	space	positively,	by	focusing	upon	the	content	of that	consciousness	and	appropriating	its	boundlessness,	the third	immaterial	state	relates	to	it	negatively,	by	excluding that	consciousness	from	awareness	and	making	the	absence or	present	non-existence	of	that	consciousness	its	object.
+
+The	fourth	and	final	immaterial	jhāna,	the	base	of	neither-perception-nor-non-perception,	is	reached	through	the	same preliminary	procedure.	The	meditator	can	also	reflect	upon the	unsatisfactoriness	of	perception,	thinking:	“Perception	is a	disease,	perception	is	a	boil,	perception	is	a	dart…	this	is peaceful,	this	is	sublime,	that	is	to	say,	neither-perception-nor-non-perception”	(M	II	231).	In	this	way	he	ends	his attachment	to	the	base	of	nothingness	and	strengthens	his resolve	to	attain	the	next	higher	stage.	He	then	adverts	to the	four	mental	aggregates	that	constitute	the	attainment	of the	base	of	nothingness—its	feeling,	perception,	mental formations	and	consciousness—contemplating	them	as “peaceful,	peaceful,”	reviewing	that	base	and	striking	at	it with	applied	and	sustained	thought.	As	he	does	so	the hindrances	are	suppressed,	the	mind	passes	through	access and	enters	the	base	of	neither-perception-nor-non-perception.
+
+This	jhāna	receives	its	name	because,	on	the	one	hand,	it lacks	gross	perception	with	its	function	of	clearly	discerning
+
+objects,	and	thus	cannot	be	said	to	have	perception;	on	the other,	it	retains	a	very	subtle	perception,	and	thus	cannot	be said	to	be	without	perception.	Because	all	the	mental functions	are	here	reduced	to	the	finest	and	most	subtle level,	this	jhāna	is	also	named	the	attainment	with	residual formations.	At	this	level	the	mind	has	reached	the	highest possible	development	in	the	direction	of	pure	serenity.	It has	attained	the	most	intense	degree	of	concentration, becoming	so	refined	that	consciousness	can	no	longer	be described	in	terms	of	existence	or	non-existence.	Yet	even this	attainment,	from	the	Buddhist	point	of	view,	is	still	a mundane	state	which	must	finally	give	way	to	insight	that alone	leads	to	true	liberation.
+
+The	Jhānas	and	Rebirth
+
+Buddhism	teaches	that	all	sentient	beings	in	whom ignorance	and	craving	still	linger	are	subject	to	rebirth following	death.	Their	mode	of	rebirth	is	determined	by their	kamma,	their	volitional	action,	wholesome	kamma issuing	in	a	good	rebirth	and	unwholesome	kamma	in	a	bad rebirth.	As	a	kind	of	wholesome	kamma	the	attainment	of jhāna	can	play	a	key	role	in	the	rebirth	process,	being considered	a	weighty	good	kamma	which	takes	precedence over	other	lesser	kammas	in	determining	the	future	rebirth of	the	person	who	attains	it.
+
+Buddhist	cosmology	groups	the	numerous	planes	of existence	into	which	rebirth	takes	place	into	three	broad spheres	each	of	which	comprises	a	number	of	subsidiary planes.	The	sense-sphere	(kāmadhātu)	is	the	field	of	rebirth for	evil	deeds	and	for	meritorious	deeds	falling	short	of	the jhānas;	the	fine-material	sphere	(rūpadhātu),	the	field	of rebirth	for	the	fine-material	jhānas;	and	the	immaterial sphere	(arūpadhātu),	the	field	of	rebirth	for	the	immaterial jhānas.
+
+An	unwholesome	kamma,	should	it	become	determinative of	rebirth,	will	lead	to	a	new	existence	in	one	of	the	four planes	of	misery	belonging	to	the	sense-sphere:	the	hells,	the animal	kingdom,	the	sphere	of	afflicted	spirits,	or	the	host	of titans.	A	wholesome	kamma	of	a	subjhānic	type	produces rebirth	in	one	of	the	seven	happy	planes	in	the	sense-sphere, the	human	world	or	the	six	heavenly	worlds.
+
+Above	the	sense-sphere	realms	are	the	fine-material	realms, into	which	rebirth	is	gained	only	through	the	attainment	of the	fine-material	jhānas.	The	sixteen	realms	in	this	sphere are	hierarchically	ordered	in	correlation	with	the	four jhānas.	Those	who	have	practised	the	first	jhāna	to	a	minor degree	are	reborn	in	the	Realm	of	the	Retinue	of	Brahma,	to a	moderate	degree	in	the	Realm	of	the	Ministers	of	Brahma, and	to	a	superior	degree	in	the	Realm	of	the	Great Brahma.	\[19\]	Similarly,	practising	the	second	jhāna	to	a minor	degree	brings	rebirth	in	the	Realm	of	Minor	Lustre,	to a	moderate	degree	in	the	Realm	of	Infinite	Lustre,	and	to	a superior	degree	the	Realm	of	Radiant	Lustre.	\[20\]	Again,
+
+practising	the	third	jhāna	to	a	minor	degree	brings	rebirth	in the	Realm	of	Minor	Aura,	to	a	moderate	degree	in	the Realm	of	Infinite	Aura,	and	to	a	superior	degree	in	the Realm	of	Steady	Aura.	\[21\]
+
+Corresponding	to	the	fourth	jhāna	there	are	seven	realms: the	Realm	of	Great	Reward,	the	Realm	of	Non-percipient Beings,	and	the	five	Pure	Abodes.	\[22\]	With	this	jhāna	the rebirth	pattern	deviates	from	the	former	one.	It	seems	that all	beings	who	practise	the	fourth	jhāna	of	the	mundane level	without	reaching	any	supramundane	attainment	are reborn	in	the	realm	of	Great	Reward.	There	is	no differentiation	by	way	of	inferior,	moderate	or	superior grades	of	development.	The	Realm	of	Non-percipient Beings	is	reached	by	those	who,	after	attaining	the	fourth jhāna,	then	use	the	power	of	their	meditation	to	take	rebirth with	only	material	bodies;	they	do	not	acquire consciousness	again	until	they	pass	away	from	this	realm. The	five	Pure	Abodes	are	open	only	to	non-returners (anāgāmis),	noble	disciples	at	the	penultimate	stage	of liberation	who	have	eradicated	the	fetters	binding	them	to the	sense-sphere	and	thence	automatically	take	rebirth	in higher	realms,	where	they	attain	arahatship	and	reach	final deliverance.
+
+Beyond	the	fine-material	sphere	lie	the	immaterial	realms, which	are	four	in	number—the	base	of	boundless	space,	the base	of	boundless	consciousness,	the	base	of	nothingness, and	the	base	of	neither-perception-nor-non-perception.	As should	be	evident,	these	are	realms	of	rebirth	for	those	who,
+
+without	having	broken	the	fetters	that	bind	them	to saṃsāra,	achieve	and	master	one	or	another	of	the	four immaterial	jhānas.	Those	meditators	who	have	mastery	over a	formless	attainment	at	the	time	of	death	take	rebirth	in	the appropriate	plane,	where	they	abide	until	the	kammic	force of	the	jhāna	is	exhausted.	Then	they	pass	away,	to	take rebirth	in	some	other	realm	as	determined	by	their accumulated	kamma.	\[23\]
+
+Jhānas	and	the	Supramundane
+
+The	Way	of	Wisdom
+
+The	goal	of	the	Buddhist	path,	complete	and	permanent liberation	from	suffering,	is	to	be	achieved	by	practising	the full	threefold	discipline	of	morality	(sīla),	concentration (samādhi),	and	wisdom	(paññā).	The	mundane	jhānas, comprising	the	four	fine-material	jhānas	and	the	four immaterial	jhānas,	pertain	to	the	stage	of	concentration, which	they	fulfil	to	an	eminent	degree.	However,	taken	by themselves,	these	states	do	not	ensure	complete	deliverance, for	they	are	incapable	of	cutting	off	the	roots	of	suffering. The	Buddha	teaches	that	the	cause	of	suffering,	the	driving power	behind	the	cycle	of	rebirths,	is	the	defilements	with
+
+their	three	unwholesome	roots—greed,	hatred	and	delusion. Concentration	of	the	absorption	level,	no	matter	to	what heights	it	is	pursued,	only	suppresses	the	defilements,	but cannot	destroy	their	latent	seeds.	Thence	bare	mundane jhāna,	even	when	sustained,	cannot	by	itself	terminate	the cycle	of	rebirths.	To	the	contrary,	it	may	even	perpetuate	the round.	For	if	any	fine-material	or	immaterial	jhāna	is	held	to with	clinging,	it	will	bring	about	a	rebirth	in	that	particular plane	of	existence	corresponding	to	its	own	kammic potency,	which	can	then	be	followed	by	rebirth	in	some lower	realm.
+
+What	is	required	to	achieve	complete	deliverance	from	the cycle	of	rebirths	is	the	eradication	of	the	defilements.	Since the	most	basic	defilement	is	ignorance	(avijjā),	the	key	to liberation	lies	in	developing	its	direct	opposite,	namely wisdom	(paññā).
+
+Since	wisdom	presupposes	a	certain	proficiency	in concentration	it	is	inevitable	that	jhāna	comes	to	claim	a place	in	its	development.	This	place,	however,	is	not	fixed and	invariable,	but	as	we	will	see	allows	for	differences depending	on	the	individual	meditator’s	disposition.
+
+Fundamental	to	the	discussion	in	this	chapter	is	a distinction	between	two	terms	crucial	to	Theravada philosophical	exposition,	“mundane”	(lokiya)	and “supramundane”	(lokuttara).	The	term	“mundane”	applies to	all	phenomena	comprised	in	the	world	(loka)—to	subtle states	of	consciousness	as	well	as	matter,	to	virtue	as	well	as
+
+evil,	to	meditative	attainments	as	well	as	sensual engrossments.	The	term	“supramundane,”	in	contrast, applies	exclusively	to	that	which	transcends	the	world,	that is	the	nine	supramundane	states:	Nibbāna,	the	four	noble paths	(magga)	leading	to	Nibbāna,	and	their	corresponding fruits	(phala)	which	experience	the	bliss	of	Nibbāna.
+
+Wisdom	has	the	specific	characteristic	of	penetrating	the true	nature	of	phenomena.	It	penetrates	the	particular	and general	features	of	things	through	direct	cognition	rather than	discursive	thought.	Its	function	is	“to	abolish	the darkness	of	delusion	which	conceals	the	individual	essences of	states”	and	its	manifestation	is	“non-delusion.”	Since	the Buddha	says	that	one	whose	mind	is	concentrated	knows and	sees	things	as	they	are,	the	proximate	cause	of	wisdom is	concentration	(Vism	438;	PP	481).
+
+The	wisdom	instrumental	in	attaining	liberation	is	divided into	two	principal	types:	insight	knowledge	(vipassanāñāṇa) and	the	knowledge	pertaining	to	the	supramundane	paths (maggañāṇa).	The	first	is	the	direct	penetration	of	the	three characteristics	of	conditioned	phenomena—impermanence, suffering	and	non-self.	\[24\]	It	takes	as	its	objective	sphere	the five	aggregates	(pañcakkhandha)—material	form,	feeling perception,	mental	formations	and	consciousness.	Because insight	knowledge	takes	the	world	of	conditioned formations	as	its	object,	it	is	regarded	as	a	mundane	form	of wisdom.	Insight	knowledge	does	not	itself	directly	eradicate the	defilements,	but	serves	to	prepare	the	way	for	the second	type	of	wisdom,	the	wisdom	of	the	supramundane
+
+paths,	which	emerges	when	insight	has	been	brought	to	its climax.	The	wisdom	of	the	path,	occurring	in	four	distinct stages	(to	be	discussed	below),	simultaneously	realises Nibbāna,	fathoms	the	Four	Noble	Truths,	and	cuts	off	the defilements.	This	wisdom	is	called	“supramundane” because	it	rises	up	from	the	world	of	the	five	aggregates	to realise	the	state	transcendent	to	the	world,	Nibbāna.
+
+The	Buddhist	disciple,	striving	for	deliverance,	begins	the development	of	wisdom	by	first	securely	establishing	its roots—purified	moral	discipline	and	concentration.	He	then learns	and	masters	the	basic	material	upon	which	wisdom	is to	work—the	aggregates,	elements,	sense	bases,	dependent arising,	the	Four	Noble	Truths,	etc.	He	commences	the actual	practice	of	wisdom	by	cultivating	insight	into	the impermanence,	suffering	and	non-self	aspect	of	the	five aggregates.	When	this	insight	reaches	its	apex	it	issues	in supramundane	wisdom,	the	right	view	factor	of	the	Noble Eightfold	Path,	which	turns	from	conditioned	formations	to the	unconditioned	Nibbāna	and	thereby	eradicates	the defilements.
+
+The	Two	Vehicles
+
+The	Theravada	tradition	recognises	two	alternative approaches	to	the	development	of	wisdom,	between	which practitioners	are	free	to	choose	according	to	their	aptitude
+
+and	propensity.	These	two	approaches	are	the	vehicle	of serenity	(samathayāna)	and	the	vehicle	of	insight (vipassanāyāna).	The	meditators	who	follow	them	are	called, respectively,	the	samathayānika,	“one	who	makes	serenity	his vehicle,”	and	the	vipassanāyānika,	“one	who	makes	insight his	vehicle.”	Since	both	vehicles,	despite	their	names,	are approaches	to	developing	insight,	to	prevent misunderstanding	the	latter	type	of	meditator	is	sometimes called	a	suddhavipassanāyānika,	“one	who	makes	bare	insight his	vehicle,”	or	a	sukkhavipassaka,	“a	dry-insight	worker.” Though	all	three	terms	appear	initially	in	the	commentaries rather	than	in	the	suttas,	the	recognition	of	the	two	vehicles seems	implicit	in	a	number	of	canonical	passages.
+
+The	samathayānika	is	a	meditator	who	first	attains	access concentration	or	one	of	the	eight	mundane	jhānas,	then emerges	and	uses	his	attainment	as	a	basis	for	cultivating insight	until	he	arrives	at	the	supramundane	path.	In contrast,	the	vipassanāyānika	does	not	attain	mundane	jhāna prior	to	practising	insight	contemplation,	or	if	he	does,	does not	use	it	as	an	instrument	for	cultivating	insight.	Instead, without	entering	and	emerging	from	jhāna,	he	proceeds directly	to	insight	contemplation	on	mental	and	material phenomena	and	by	means	of	this	bare	insight	he	reaches	the noble	path.	For	both	kinds	of	meditator	the	experience	of the	path	in	any	of	its	four	stages	always	occurs	at	a	level	of jhānic	intensity	and	thus	necessarily	includes supramundane	jhāna	under	the	heading	of	right concentration	(samma	samādhi),	the	eighth	factor	of	the
+
+Noble	Eightfold	Path.
+
+The	classical	source	for	the	distinction	between	the	two vehicles	of	serenity	and	insight	is	the	Visuddhimagga	where it	is	explained	that	when	a	meditator	begins	the development	of	wisdom	“if	firstly,	his	vehicle	is	serenity, \[he\]	should	emerge	from	any	fine-material	or	immaterial jhāna	except	the	base	consisting	of	neither-perception-nor-non-perception,	and	he	should	discern,	according	to characteristic,	function,	etc.	the	jhāna	factors	consisting	of applied	thought,	etc.	and	the	states	associated	with	them” (Vism	557;	PP	679–80).	Other	commentarial	passages	allow access	concentration	to	suffice	for	the	vehicle	of	serenity,	but the	last	immaterial	jhāna	is	excluded	because	its	factors	are too	subtle	to	be	discerned.	The	meditator	whose	vehicle	is pure	insight,	on	the	other	hand,	is	advised	to	start	directly by	discerning	material	and	mental	phenomena,	beginning with	the	four	elements,	without	utilising	a	jhāna	for	this purpose	(Vism	558;	PP	680).	Thus	the	samathayānika	first attains	access	concentration	or	mundane	jhāna	and	then develops	insight	knowledge,	by	means	of	which	he	reaches the	supramundane	path	containing	wisdom	under	the heading	of	right	view,	and	supramundane	jhāna	under	the heading	of	right	concentration.	The	vipassanāyānika,	in contrast,	skips	over	mundane	jhāna	and	goes	directly	into insight	contemplation.	When	he	reaches	the	end	of	the progression	of	insight	knowledge	he	arrives	at	the supramundane	path	which,	as	in	the	previous	case,	brings together	wisdom	with	supramundane	jhāna.	This	jhāna
+
+counts	as	his	accomplishment	of	serenity.
+
+For	a	meditator	following	the	vehicle	of	serenity	the attainment	of	jhāna	fulfils	two	functions:	first,	it	produces	a basis	of	mental	purity	and	inner	collectedness	needed	for undertaking	the	work	of	insight	contemplation;	and	second, it	serves	as	an	object	to	be	examined	with	insight	in	order	to discern	the	three	characteristics	of	impermanence,	suffering and	non-self.	Jhāna	accomplishes	the	first	function	by providing	a	powerful	instrument	for	overcoming	the	five hindrances.	As	we	have	seen,	for	wisdom	to	arise	the	mind must	first	be	concentrated	well,	and	to	be	concentrated	well it	must	be	freed	from	the	hindrances,	a	task	accomplished pre-eminently	by	the	attainment	of	jhāna.	Though	access concentration	will	keep	the	hindrances	at	bay,	jhāna	will ensure	that	they	are	removed	to	a	much	safer	distance.
+
+In	their	capacity	for	producing	concentration	the	jhānas	are called	the	basis	(pada)	for	insight,	and	that	particular	jhāna	a meditator	enters	and	emerges	from	before	commencing	his practice	of	insight	is	designated	his	pādakajjhāna,	the	basic	or foundational	jhāna.	Insight	cannot	be	practised	while absorbed	in	jhāna,	since	insight	meditation	requires investigation	and	observation,	which	are	impossible	when the	mind	is	immersed	in	one-pointed	absorption.	But	after emerging	from	the	jhāna	the	mind	is	cleared	of	the hindrances,	and	the	stillness	and	clarity	that	then	result conduce	to	precise,	penetrating	insight.
+
+The	jhānas	also	enter	into	the	samathayānika’s	practice	in
+
+second	capacity,	that	is,	as	objects	for	scrutinization	by insight.	The	practice	of	insight	consists	essentially	in	the examination	of	mental	and	physical	phenomena	to	discover their	marks	of	impermanence,	suffering	and	non-self.	The jhānas	a	meditator	attains	provide	him	with	a	readily available	and	strikingly	clear	object	in	which	to	seek	out	the three	characteristics.	After	emerging	from	a	jhāna	the meditator	will	proceed	to	examine	the	jhānic	consciousness and	to	discern	the	way	it	exemplifies	the	three	universal marks.	This	process	is	called	sammasanañāṇa, “comprehension	knowledge,”	and	the	jhāna	subject	to	such treatment	is	termed	sammasitajjhāna,	“the	comprehended jhāna”	(Vism	607–11;	PP	706–10).	Though	the	basic	jhāna and	the	comprehended	jhāna	will	often	be	the	same,	the	two do	not	necessarily	coincide.	A	meditator	cannot	practise comprehension	on	a	jhāna	higher	than	he	is	capable	of attaining,	but	one	who	uses	a	higher	jhāna	as	his pādakajjhāna	can	still	practise	insight	comprehension	on	a lower	jhāna	which	he	has	previously	attained	and	mastered. The	admitted	difference	between	the	pādakajjhāna	and	the sammasitajjhāna	leads	to	discrepant	theories	about	the supramundane	concentration	of	the	noble	path,	as	we	will see.
+
+Whereas	the	sequence	of	training	undertaken	by	the samathayānika	meditator	is	unproblematic,	the vipassanāyānika	approach	presents	the	difficulty	of accounting	for	the	concentration	he	uses	to	provide	a	basis for	insight.	Concentration	is	needed	in	order	to	see	and
+
+know	things	as	they	are,	but	without	access	concentration	or jhāna,	what	concentration	can	he	use?	The	solution	to	this problem	is	found	in	a	type	of	concentration	distinct	from	the access	and	absorption	concentrations	pertaining	to	the vehicle	of	serenity,	called	“momentary	concentration” (khaṇika	samādhi).	Despite	its	name,	momentary concentration	does	not	signify	a	single	moment	of concentration	amidst	a	current	of	distracted	thoughts,	but	a dynamic	concentration	which	flows	from	object	to	object	in the	ever-changing	flux	of	phenomena,	retaining	a	constant degree	of	intensity	and	collectedness	sufficient	to	purify	the mind	of	the	hindrances.	Momentary	concentration	arises	in the	samathayānika	simultaneously	with	his	post-jhānic attainment	of	insight,	but	for	the	vipassanāyānika	it	develops naturally	and	spontaneously	in	the	course	of	his	insight practice	without	his	having	to	fix	the	mind	upon	a	single exclusive	object.	Thus	the	follower	of	the	vehicle	of	insight does	not	omit	concentration	altogether	from	his	training, but	develops	it	in	a	different	manner	from	the	practitioner of	serenity.	Without	gaining	jhāna	he	goes	directly	into contemplation	on	the	five	aggregates	and	by	observing them	constantly	from	moment	to	moment	acquires momentary	concentration	as	an	accompaniment	of	his investigations.	This	momentary	concentration	fulfils	the same	function	as	the	basic	jhāna	of	the	serenity	vehicle, providing	the	foundation	of	mental	clarity	needed	for insight	to	emerge.
+
+Supramundane	Jhāna
+
+The	climax	in	the	development	of	insight	is	the	attainment of	the	supramundane	paths	and	fruits.	Each	path	is	a momentary	peak	experience	directly	apprehending	Nibbāna and	permanently	cutting	off	certain	defilements.	These defilements	are	generally	grouped	into	a	set	of	ten	“fetters” (saṃyojana)	which	keep	beings	chained	to	the	round	of rebirths.	The	first	path,	called	the	path	of	stream-entry (sotāpatti)	because	it	marks	the	entry	into	the	stream	of	the Dhamma,	eradicates	the	first	three	fetters—the	false	view	of self,	doubt,	and	clinging	to	rites	and	rituals.	The	disciple who	has	reached	stream-entry	has	limited	his	future	births to	a	maximum	of	seven	in	the	happy	realms	of	the	human and	heavenly	worlds,	after	which	he	will	attain	final deliverance.	But	an	ardent	disciple	may	progress	to	still higher	stages	in	the	same	life	in	which	he	reaches	stream-entry,	by	making	an	aspiration	for	the	next	higher	path	and again	undertaking	the	development	of	insight	with	the	aim of	reaching	that	path.
+
+The	next	supramundane	path	is	that	of	the	once-returner (sakadāgāmi).	This	path	does	not	eradicate	any	fetters completely,	but	it	greatly	attenuates	sensual	desire	and	ill will.	The	once-returner	is	so	called	because	he	is	bound	to make	an	end	of	suffering	after	returning	to	this	world	only one	more	time.	The	third	path,	that	of	the	non-returner (anāgāmi)	utterly	destroys	the	sensual	desire	and	ill	will
+
+weakened	by	the	preceding	path.	The	non-returner	is assured	that	he	will	never	again	take	rebirth	in	the	sense-sphere;	if	he	does	not	penetrate	higher	he	will	be	reborn spontaneously	in	the	Pure	Abodes	and	there	reach	final Nibbāna.	The	highest	path,	the	path	of	arahatship,	eradicate the	remaining	five	fetters—desire	for	existence	in	the	fine-material	and	immaterial	spheres,	conceit,	restlessness	and ignorance.	The	arahat	has	completed	the	development	of	the entire	path	taught	by	the	Buddha;	he	has	reached	the	end	of rebirths	and	can	sound	his	“lion’s	roar”:	“Destroyed	is	birth, the	holy	life	has	been	lived,	what	was	to	be	done	has	been done,	there	is	nothing	further	beyond	this.”
+
+Each	path	is	followed	immediately	by	the	supramundane experience	of	fruition,	which	results	from	the	path,	comes	in the	same	four	graded	stages,	and	shares	the	path’s	world-transcending	character.	But	whereas	the	path	performs	the active	function	of	cutting	off	defilements,	fruition	simply enjoys	the	bliss	and	peace	that	result	when	the	path	has completed	its	task.	Also,	where	the	path	is	limited	to	a single	moment	of	consciousness,	the	fruition	that	follows immediately	on	the	path	endures	for	two	or	three	moments. And	while	each	of	the	four	paths	occurs	only	once	and	can never	be	repeated,	fruition	remains	accessible	to	the	noble disciple	at	the	appropriate	level.	He	can	resort	to	it	as	a special	meditative	state	called	fruition	attainment (phalasamāpatti)	for	the	purpose	of	experiencing	nibbānic bliss	here	and	now	(Vism	699–702;	PP	819–24).
+
+The	supramundane	paths	and	fruits	always	arise	as	states	of
+
+jhānic	consciousness.	They	occur	as	states	of	jhāna	because they	contain	within	themselves	the	jhāna	factors	elevated	to an	intensity	corresponding	to	that	of	the	jhāna	factors	in	the mundane	jhānas.	Since	they	possess	the	jhāna	factors	these states	are	able	to	fix	upon	their	object	with	the	force	of	full absorption.	Thence,	taking	the	absorptive	force	of	the	jhāna factors	as	the	criterion,	the	paths	and	fruits	may	be	reckoned as	belonging	to	either	the	first,	second,	third	or	fourth	jhāna of	the	fourfold	scheme,	or	to	the	first,	second,	third,	fourth or	fifth	jhāna	of	the	fivefold	scheme.
+
+The	basis	for	the	recognition	of	a	supramundane	type	of jhāna	goes	back	to	the	suttas,	especially	to	the	section	of “The	Great	Discourse	on	the	Foundations	of	Mindfulness” where	the	Buddha	defines	right	concentration	of	the	Noble Eightfold	Path	by	the	standard	formula	for	the	four	jhānas (D	II	313).	However,	it	is	in	the	Abhidhamma	that	the connection	between	the	jhānas,	paths	and	fruits	comes	to	be worked	out	with	great	intricacy	of	detail.	The Dhammasaṅgaṇī,	in	its	section	on	states	of	consciousness, expounds	each	of	the	path	and	fruition	states	of consciousness	as	occasions,	first,	of	one	or	another	of	the four	jhānas	in	the	fourfold	scheme,	and	then	again	as occasions	of	one	or	another	of	the	five	jhānas	in	the	fivefold scheme	(Dhs	74–86).	Standard	Abhidhammic	exposition,	as formalised	in	the	synoptical	manuals	of	Abhidhamma, employs	the	fivefold	scheme	and	brings	each	of	the	paths and	fruits	into	connection	with	each	of	the	five	jhānas.	In this	way	the	eight	types	of	supramundane	consciousness—
+
+the	path	and	fruition	consciousness	of	stream-entry,	the once-returner,	the	non-returner	and	arahatship—proliferate to	forty	types	of	supramundane	consciousness,	since	any path	or	fruit	can	occur	at	the	level	of	any	of	the	five	jhānas. It	should	be	noted,	however,	that	there	are	no	paths	and fruits	conjoined	with	the	immaterial	attainments,	the	reason being	that	supramundane	jhāna	is	presented	solely	from	the standpoint	of	its	factorial	constitution,	which	for	the immaterial	attainment	and	the	fifth	jhāna	is	identical— equanimity	and	one-pointedness.
+
+The	fullest	treatment	of	the	supramundane	jhānas	in	the authoritative	Pali	literature	can	be	found	in	the Dhammasaṅgaṇī	read	in	conjunction	with	its	commentary, the	Atthasālinī.	The	Dhammasaṅgaṇī	opens	its	analysis	of	the first	wholesome	supramundane	consciousness	with	the words:
+
+On	the	occasion	when	one	develops	supramundane jhāna	which	is	emancipating,	leading	to	the demolition	(of	existence),	for	the	abandonment	of views,	for	reaching	the	first	plane,	secluded	from sense	pleasures…	one	enters	and	dwells	in	the	first jhāna.	(Dhs	72)
+
+The	Atthasālinī	explains	the	word	lokuttara,	which	we	have been	translating	“supramundane,”	as	meaning	“it	crosses over	the	world,	it	transcends	the	world,	it	stands	having surmounted	and	overcome	the	world.”	It	glosses	the	phrase “one	develops	jhāna”	thus:	“One	develops,	produces,
+
+cultivates	absorption	jhāna	lasting	for	a	single	thought-moment.”	This	gloss	shows	us	two	things	about	the consciousness	of	the	path:	that	it	occurs	as	a	jhāna	at	the level	of	full	absorption	and	that	this	absorption	of	the	path lasts	for	only	a	single	thought-moment.	The	word “emancipating”	(niyyānika)	is	explained	to	mean	that	this jhāna	“goes	out”	from	the	world,	from	the	round	of existence,	the	phrase	“leading	to	demolition”	(apacayagāmī) that	it	demolishes	and	dismantles	the	process	of	rebirth (Dhs-a	259).
+
+This	last	phrase	points	to	a	striking	difference	between mundane	and	supramundane	jhāna.	The	Dhammasaṅgaṇī’s exposition	of	the	former	begins:	“On	the	occasion	when	one develops	the	path	for	rebirth	in	the	fine-material	sphere…	one enters	and	dwells	in	the	first	jhāna”	\[my	italics\].	Thus,	with this	statement,	mundane	jhāna	is	shown	to	sustain	the round	of	rebirths;	it	is	a	wholesome	kamma	leading	to renewed	existence.	But	the	supramundane	jhāna	of	the	path does	not	promote	the	continuation	of	the	round.	To	the contrary,	it	brings	about	the	round’s	dismantling	and demolition,	as	the	Atthasālinī	shows	with	an	illustrative simile:
+
+The	wholesome	states	of	the	three	planes	are	said	to	lead	to accumulation	because	they	build	up	and	increase	death	and rebirth	in	the	round.	But	not	this.	Just	as	when	one	man	has built	up	a	wall	eighteen	feet	high	another	might	take	a	club and	go	along	demolishing	it,	so	this	goes	along	demolishing and	dismantling	the	deaths	and	rebirths	built	up	by	the
+
+wholesome	kammas	of	the	three	planes	by	bringing	about	a deficiency	in	their	conditions.	Thus	it	leads	to demolition.	\[25\]
+
+Supramundane	jhāna	is	said	to	be	cultivated	“for	the abandoning	of	views.”	This	phrase	points	to	the	function	of the	first	path,	which	is	to	eradicate	the	fetters.	The supramundane	jhāna	of	the	first	path	cuts	off	the	fetter	of personality	view	and	all	speculative	views	derived	from	it. The	Atthasālinī	points	out	that	here	we	should	understand that	it	abandons	not	only	wrong	views	but	other unwholesome	states	as	well,	namely,	doubt,	clinging	to	rites and	rituals,	and	greed,	hatred	and	delusion	strong	enough to	lead	to	the	plane	of	misery.	The	commentary	explicates “for	reaching	the	first	plane”	as	meaning	for	attaining	the fruit	of	stream-entry.
+
+Besides	these,	several	other	differences	between	mundane and	supramundane	jhāna	may	be	briefly	noted.	First,	with regard	to	their	object,	the	mundane	jhānas	have	as	object	a conceptual	entity	such	as	the	counterpart	sign	of	the	kasiṇas or,	in	the	case	of	the	divine	abodes,	sentient	beings.	In contrast,	for	the	supramundane	jhāna	of	the	paths	and	fruits the	object	is	exclusively	Nibbāna.	With	regard	to	their predominant	tone,	in	mundane	jhāna	the	element	of serenity	prevails,	while	the	supramundane	jhāna	of	the paths	and	fruits	brings	serenity	and	insight	into	balance. Wisdom	is	present	as	right	view	and	serenity	as	right concentration,	both	function	together	in	perfect	harmony, neither	one	exceeding	the	other.
+
+This	difference	in	prevailing	tone	leads	into	a	difference	in function	or	activity	between	the	two	kinds	of	jhāna.	Both	the mundane	and	supramundane	are	jhānas	in	the	sense	of closely	attending	(upanijjhāna),	but	in	the	case	of	mundane jhāna	this	close	attention	issues	merely	in	absorption	into the	object,	an	absorption	that	can	only	suppress	the defilement	temporarily.	In	the	supramundane	jhāna, particularly	of	the	four	paths,	the	coupling	of	close	attention with	wisdom	brings	the	exercise	of	four	functions	at	a	single moment.	These	four	functions	each	apply	to	one	of	the	Four Noble	Truths.	The	path	penetrates	the	First	Noble	Truth	by fully	understanding	suffering;	it	penetrates	the	Second Noble	Truth	by	abandoning	craving,	the	origin	of	suffering; it	penetrates	the	Third	Noble	Truth	by	realising	Nibbāna, the	cessation	of	suffering;	and	it	penetrates	the	fourth	Noble Truth	by	developing	the	Noble	Eightfold	Path	that	leads	to the	end	of	suffering.	Buddhaghosa	illustrates	this	with	the simile	of	a	lamp,	which	also	performs	four	tasks simultaneously:	it	burns	the	wick,	dispels	darkness,	makes light	appear,	and	consumes	oil	(Vism	690;	PP	808).
+
+The	Jhānic	Level	of	the	Path	and	Fruit
+
+When	the	paths	and	fruits	are	assigned	to	the	level	of	the four	or	five	jhānas,	the	question	arises	as	to	what	factor determines	their	particular	level	of	jhānic	intensity.	In	other words,	why	do	the	path	and	fruit	arise	for	one	meditator	at
+
+the	level	of	the	first	jhāna,	for	another	at	the	level	of	the second	jhāna,	and	so	forth?	The	commentaries	present	three theories	concerning	the	determination	of	the	jhānic	level	of the	path,	apparently	deriving	from	the	lineages	of	ancient teachers	(Vism	666–67;	PP	778–80.	Dhs-a	271–74).	The	first holds	that	it	is	the	basic	jhāna,	i.e.,	the	jhāna	used	as	a	basis for	the	insight	leading	to	emergence	in	immediate	proximity to	the	path,	that	governs	the	difference	in	the	jhānic	level	of the	path.	A	second	theory	says	that	the	difference	is governed	by	the	aggregates	made	the	objects	of	insight	on the	occasion	of	insight	leading	to	emergence.	A	third	theory holds	that	it	is	the	personal	inclination	of	the	meditator	that governs	the	difference.
+
+According	to	the	first	theory	the	path	arisen	in	a	dry-insight meditator	who	lacks	jhāna,	and	the	path	arisen	in	one	who possesses	a	jhāna	attainment	but	does	not	use	it	as	a	basis for	insight,	and	the	path	arisen	by	comprehending formations	after	emerging	from	the	first	jhāna,	are	all	paths of	the	first	jhāna	only.	When	the	path	is	produced	after emerging	from	the	second,	third,	fourth	and	fifth	jhānas	(of the	fivefold	system)	and	using	these	as	the	basis	for	insight, then	the	path	pertains	to	the	level	of	the	jhāna	used	as	a basis—the	second,	third,	fourth	of	fifth.	For	a	meditator using	an	immaterial	jhāna	as	basis	the	path	will	be	a	fifth jhāna	path.	Thus	in	this	first	theory,	when	formations	are comprehended	by	insight	after	emerging	from	a	basic	jhāna, then	it	is	the	jhāna	attainment	emerged	from	at	the	point nearest	to	the	path,	i.e.,	just	before	insight	leading	to
+
+emergence	is	reached,	that	makes	the	path	similar	in	nature to	itself.
+
+According	to	the	second	theory	the	path	that	arises	is similar	in	nature	to	the	states	which	are	being comprehended	with	insight	at	the	time	insight	leading	to emergence	occurs.	Thus	if	the	meditator,	after	emerging from	a	meditative	attainment,	is	comprehending	with insight	sense-sphere	phenomena	or	the	constituents	of	the first	jhāna,	then	the	path	produced	will	occur	at	the	level	of the	first	jhāna.	On	this	theory,	then,	it	is	the	comprehended jhāna	(sammasitajjhāna)	that	determines	the	jhānic	quality	of the	path.	The	one	qualification	that	must	be	added	is	that	a meditator	cannot	contemplate	with	insight	a	jhāna	higher than	he	is	capable	of	attaining.
+
+According	to	the	third	theory,	the	path	occurs	at	the	level	of whichever	jhāna	the	meditator	wishes—either	at	the	level	of the	jhāna	he	has	used	as	the	basis	for	insight	or	at	the	level of	the	jhāna	he	has	made	the	object	of	insight comprehension.	In	other	words,	the	jhānic	quality	of	the path	accords	with	his	personal	inclination.	However,	mere wish	alone	is	not	sufficient.	For	the	path	to	occur	at	the jhānic	level	wished	for,	the	mundane	jhāna	must	have	been either	made	the	basis	for	insight	or	used	as	the	object	of insight	comprehension.
+
+The	difference	between	the	three	theories	can	be	understood through	a	simple	example.	\[26\]	If	a	meditator	reaches	the supramundane	path	by	contemplating	with	insight	the	first
+
+jhāna	after	emerging	from	the	fifth	jhāna,	then	according	to the	first	theory	his	path	will	belong	to	the	fifth	jhāna,	while according	to	the	second	theory	it	will	belong	to	the	first jhāna.	Thus	these	two	theories	are	incompatible	when	a difference	obtains	between	basic	jhāna	and	comprehended jhāna.	But	according	to	the	third	theory,	the	path	becomes	of whichever	jhāna	the	meditator	wishes,	either	the	first	or	the fifth.	Thus	this	doctrine	does	not	necessarily	clash	with	the other	two.
+
+Buddhaghosa	himself	does	not	make	a	decision	among these	three	theories.	He	only	points	out	that	in	all	three doctrines,	beneath	their	disagreements,	there	is	the recognition	that	the	insight	immediately	preceding	the supramundane	path	determines	the	jhānic	character	of	the path.	For	this	insight	is	the	proximate	and	the	principal cause	for	the	arising	of	the	path,	so	whether	it	be	the	insight leading	to	emergence	near	the	basic	jhāna	or	that	occurring through	the	contemplated	jhāna	or	that	fixed	by	the meditator’s	wish,	it	is	in	all	cases	this	final	phase	of	insight that	gives	definition	to	the	supramundane	path.	Since	the fruition	that	occurs	immediately	after	the	path	has	an identical	constitution	to	the	path,	its	own	supramundane jhāna	is	determined	by	the	path.	Thus	a	first	jhāna	path produces	a	first	jhāna	fruit,	and	so	forth	for	the	remaining jhānas.
+
+Jhāna	and	the	Noble	Disciples
+
+All	noble	persons,	as	we	saw,	acquire	supramundane	jhāna along	with	their	attainment	of	the	noble	paths	and	fruits. The	noble	ones	at	each	of	the	four	stages	of	liberation, moreover,	have	access	to	the	supramundane	jhāna	of	their respective	fruition	attainments,	from	the	fruition	attainment of	stream-entry	up	to	the	fruition	attainments	of	arahatship. It	remains	problematic,	however	to	what	extent	they	also enjoy	the	possession	of	mundane	jhāna.	To	determine	an answer	to	this	question	we	will	consult	an	early	typology	of seven	types	of	noble	disciples,	which	provides	a	more psychologically	oriented	way	of	classifying	the	eight	noble individuals.	A	look	at	the	explanation	of	these	seven	types will	enable	us	to	see	the	range	of	jhānic	attainment	reached by	the	noble	disciples.	On	this	basis	we	will	proceed	to assess	the	place	of	mundane	jhāna	in	the	early	Buddhist picture	of	the	arahat,	the	perfected	individual.
+
+Seven	Types	of	Disciples
+
+The	sevenfold	typology	is	originally	found	in	the	Kīṭāgiri Sutta	of	the	Majjhima	Nikāya	(M	I	477–79)	and	is reformulated	in	the	Puggalapaññatti	of	the	Abhidhamma Piṭaka.	This	typology	classifies	the	noble	persons	on	the
+
+paths	and	fruits	into	seven	types:	the	faith-devotee (saddhānusārī),	the	one	liberated	by	faith	(saddhāvimutta),	the body-witness	(kāyasakkhi),	the	one	liberated	in	both	ways (ubhatobhāgavimutta),	the	truth-devotee	(dhammānusārī),	the one	attained	to	understanding	(diṭṭhipatta),	and	the	one liberated	by	wisdom	(paññāvimutta).	The	seven	types	may be	divided	into	three	general	groups,	each	defined	by	the predominance	of	a	particular	spiritual	faculty.	The	first	two types	are	governed	by	a	predominance	of	faith,	the	middle two	by	a	predominance	of	concentration,	and	the	last	three by	a	predominance	of	wisdom.	To	this	division,	however, certain	qualifications	will	have	to	made	as	we	go	along.
+
+\[1\]	The	faith-devotee	is	explained	the	sutta	thus:
+
+Herein,	monks,	some	person	has	not	reached	with	his own	(mental)	body	those	peaceful	immaterial deliverances	transcending	material	form:	nor	after seeing	with	wisdom,	have	his	cankers	been destroyed.	\[27\]	But	he	has	a	certain	degree	of	faith	in the	Tathāgata,	a	certain	degree	of	devotion	to	him, and	he	has	these	qualities—the	faculties	of	faith, energy,	mindfulness,	concentration	and	wisdom. This	person,	monks,	is	called	a	faith-devotee.	(M	I 479)
+
+The	Puggalapaññatti	(p	182)	defines	the	faith-devotee	from a	different	angle	as	a	disciple	practising	for	the	fruit	of stream-entry	in	whom	the	faculty	of	faith	is	predominant and	who	develops	the	noble	path	led	by	faith.	It	adds	that
+
+when	he	is	established	in	the	fruit	he	becomes	one	liberated by	faith.	Although	the	sutta	excluded	the	“peaceful immaterial	attainments,”	i.e.,	the	four	immaterial	jhāna, from	the	faith-devotee’s	equipment,	this	implies	nothing with	regard	to	his	achievement	of	the	four	lower	mundane jhānas.	It	would	seem	that	the	faith-devotee	can	have previously	attained	any	of	the	four	fine-material	jhānas before	reaching	the	path,	and	can	also	be	a	dry-insight worker	bereft	of	mundane	jhāna.
+
+\[2\]	The	one	liberated	by	faith	is	strictly	and	literally	defined	as a	noble	disciple	at	the	six	intermediate	levels,	from	the	fruit of	stream-entry	through	to	the	path	of	arahatship,	who	lacks the	immaterial	jhānas	and	has	a	predominance	of	the	faith faculty.
+
+#### The	Buddha	explains	the	one	liberated	by	faith	as	follows:
+
+Herein,	monks,	some	person	has	not	reached	with	his own	(mental)	body	those	peaceful	immaterial deliverances	transcending	material	form;	but	having seen	with	wisdom,	some	of	his	cankers	have	been destroyed,	and	his	faith	in	the	Tathāgata	is	settled, deeply	rooted,	well	established.	This	person,	monks, is	called	one	liberated	by	faith.	(M	I	478)
+
+As	in	the	case	of	the	faith-devotee,	the	one	liberated	by	faith, while	lacking	the	immaterial	jhānas,	may	still	be	an	obtainer of	the	four	mundane	jhānas	as	well	as	a	dry	insight	worker.
+
+The	Puggalapaññatti	states	(pp.184–85)	that	the	person
+
+liberated	by	faith	is	one	who	understands	the	Four	Noble Truths,	has	seen	and	verified	by	means	of	wisdom	the teachings	proclaimed	by	the	Tathāgata,	and	having	seen with	wisdom	has	eliminated	some	of	his	cankers.	However, he	has	not	done	so	as	easily	as	the	diṭṭhipatta,	the	person attained	to	understanding,	whose	progress	is	easier	due	to his	superior	wisdom.	The	fact	that	the	one	liberated	by	faith has	destroyed	only	some	of	this	cankers	implies	that	he	has advanced	beyond	the	first	path	but	not	yet	reached	the	final fruit,	the	fruit	of	arahatship.	\[28\]
+
+\[3\]	The	body-witness	is	a	noble	disciple	at	the	six intermediate	levels,	from	the	fruit	of	stream-entry	to	the path	of	arahatship,	who	has	a	predominance	of	the	faculty of	concentration	and	can	obtain	the	immaterial	jhānas.	The sutta	explanation	reads:
+
+And	what	person,	monks	is	a	body-witness?	Herein, monks,	some	person	has	reached	with	his	own (mental)	body	those	peaceful	immaterial	deliverances transcending	material	form,	and	having	seen	with wisdom,	some	of	his	cankers	having	been	destroyed. This	person,	monks,	is	called	a	body-witness.	(M	I 478)
+
+The	Puggalapaññatti	(p.	184)	offers	a	slight	variation	in	this phrasing,	substituting	“the	eight	deliverances” (aṭṭhavimokkha)	for	the	sutta’s	“peaceful	immaterial deliverances”	(santa	vimokkha	āruppa).	These	eight deliverances	consist	of	three	meditative	attainments
+
+pertaining	to	the	fine-material	sphere	(inclusive	of	all	four lower	jhānas),	the	four	immaterial	jhānas,	and	the	cessation of	perception	and	feeling	(saññāvedayitanirodha)—the	last	a special	attainment	accessible	only	to	those	nonreturners	and arahats	who	have	also	mastered	the	eight	jhānas.	\[29\]	The statement	of	the	Puggalapaññatti	does	not	mean	either	that the	achievement	of	all	eight	deliverances	is	necessary	to become	a	body-witness	or	that	the	achievement	of	the	three lower	deliverances	is	sufficient.	What	is	both	requisite	and sufficient	to	qualify	as	a	body-witness	is	the	partial destruction	of	defilements	coupled	with	the	attainment	of	at least	the	lowest	immaterial	jhāna.	Thus	the	body	witness becomes	fivefold	by	way	of	those	who	obtain	any	of	the four	immaterial	jhānas	and	the	one	who	also	obtains	the cessation	of	perception	and	feeling.
+
+\[4\]	One	who	is	liberated	in	both	ways	is	an	arahat	who	has completely	destroyed	the	defilements	and	possesses	the immaterial	attainments.	The	commentaries	explain	the name	“liberated	in	both	ways”	as	meaning	“through	the immaterial	attainment	he	is	liberated	from	the	material body	and	through	the	path	(of	arahatship)	he	is	liberated from	the	mental	body”	(MA.II	131).	The	sutta	defines	this type	of	disciple	thus:
+
+And	what	person,	monks,	is	liberated	in	both	ways? Herein,	monks,	someone	has	reached	with	his	own (mental)	body	those	peaceful	immaterial	deliverances transcending	material	form,	and	having	seen	with wisdom,	his	cankers	are	destroyed.	This	person,
+
+monks,	is	called	liberated	in	both	ways.	(M	I	477)
+
+The	Puggalapaññatti	(p.184)	gives	basically	the	same formula	but	replaces	“immaterial	deliverances”	with	“the eight	deliverances.”	The	same	principle	of	interpretation that	applied	to	the	body-witness	applies	here:	the attainment	of	any	immaterial	jhāna,	even	the	lowest,	is sufficient	to	qualify	a	person	as	both-ways	liberated.	As	the commentary	to	the	Visuddhimagga	says:	“One	who	has attained	arahatship	after	gaining	even	one	\[immaterial jhāna\]	is	liberated	both	ways”	(Vism-ṭ	II	466).	This	type becomes	fivefold	by	way	of	those	who	attain	arahatship after	emerging	from	one	or	another	of	the	four	immaterial jhānas	and	the	one	who	attains	arahatship	after	emerging from	the	attainment	of	cessation	(M-a	III	131).
+
+\[5\]	The	truth-devotee	is	a	disciple	on	the	first	path	in	whom the	faculty	of	wisdom	is	predominant.	The	Buddha	explains the	truth-devotee	as	follows:
+
+Herein,	monks,	some	person	has	not	reached	with	his own	(mental)	body	those	peaceful	immaterial deliverances	transcending	material	form;	nor,	after seeing	with	wisdom,	have	his	cankers	been destroyed.	But	the	teachings	proclaimed	by	the Tathāgata	are	accepted	by	him	through	mere reflection,	and	he	has	these	qualities—the	faculties	of faith,	energy,	mindfulness,	concentration	and wisdom.	This	person,	monks,	is	called	a	truth-devotee.	(M	I	479)
+
+The	Puggalapaññatti	(p.185)	defines	the	truth-devotee	as one	practising	for	realisation	of	the	fruit	of	stream-entry	in whom	the	faculty	of	wisdom	is	predominant,	and	who develops	the	path	led	by	wisdom.	It	adds	that	when	a	truth-devotee	is	established	in	the	fruit	of	stream-entry	he becomes	one	attained	to	understanding,	the	sixth	type.	The sutta	and	Abhidhamma	again	differ	as	to	emphasis,	the	one stressing	lack	of	the	immaterial	jhānas,	the	other	the	ariyan stature.	Presumably,	he	may	have	any	of	the	four	fine-material	jhānas	or	be	a	bare-insight	practitioner	without	any mundane	jhāna.
+
+\[6\]	The	one	attained	to	understanding	is	a	noble	disciple	at	the six	intermediate	levels	who	lacks	the	immaterial	jhānas	and has	a	predominance	of	the	wisdom	faculty.	The	Buddha explains:
+
+And	what	person,	monks,	is	the	one	attained	to understanding?	Herein,	monks	someone	has	not reached	with	his	own	mental	body	those	peaceful immaterial	deliverances	transcending	material	form, but	having	seen	with	wisdom	some	of	his	cankers	are destroyed,	and	the	teachings	proclaimed	by	the Tathāgata	have	been	seen	and	verified	by	him	with wisdom.	This	person,	monks,	is	called	the	one attained	to	understanding.	(M	I	478)
+
+The	Puggalapaññatti	(p.185)	defines	the	one	attained	to
+
+understanding	as	a	person	who	understands	the	Four	Noble Truths,	has	seen	and	verified	by	means	of	wisdom	the teachings	proclaimed	by	the	Tathāgata,	and	having	seen with	wisdom	has	eliminated	some	of	his	cankers.	He	is	thus the	“wisdom	counterpart”	of	the	one	liberated	by	faith,	but progresses	more	easily	than	the	latter	by	virtue	of	his sharper	wisdom.	Like	his	counterpart,	he	may	possess	any of	the	four	mundane	jhānas	or	may	be	a	dry-insight	worker.
+
+\[7\]	The	one	liberated	by	wisdom	is	an	arahat	who	does	not obtain	the	immaterial	attainments.	In	the	words	of	the	sutta:
+
+And	what	person,	monks,	is	the	one	liberated	by wisdom?	Herein,	monks,	someone	has	not	reached with	his	own	(mental)	body	those	peaceful	material deliverances	transcending	material	form,	but	having seen	with	wisdom	his	cankers	are	destroyed.	This person,	monks,	is	called	one	liberated	by	wisdom.	(M I	477–78)
+
+The	Puggalapaññatti’s	definition	(p.185)	merely	replaces “immaterial	deliverance”	with	“the	eight	deliverances.” Though	such	arahats	do	not	reach	the	immaterial	jhānas	it	is quite	possible	for	them	to	attain	the	lower	jhānas.	The	sutta commentary	in	fact	states	that	the	one	liberated	by	wisdom is	fivefold	by	way	of	the	dry-insight	worker	and	the	four who	attain	arahatship	after	emerging	from	the	four	jhānas.
+
+It	should	be	noted	that	the	one	liberated	by	wisdom	is contrasted	not	with	the	one	liberated	by	faith,	but	with	the
+
+one	liberated	in	both	ways.	The	issue	that	divides	the	two types	of	arahat	is	the	lack	or	possession	of	the	four immaterial	jhānas	and	the	attainment	of	cessation.	The person	liberated	by	faith	is	found	at	the	six	intermediate levels	of	sanctity,	not	at	the	level	of	arahatship.	When	he obtains	arahatship,	lacking	the	immaterial	jhānas,	he becomes	one	liberated	by	wisdom	even	though	faith	rather that	wisdom	is	his	predominant	faculty.	Similarly,	a meditator	with	predominance	of	concentration	who possesses	the	immaterial	attainments	will	still	be	liberated in	both	ways	even	if	wisdom	rather	than	concentration claims	first	place	among	his	spiritual	endowments,	as	was the	case	with	the	venerable	Sāriputta.
+
+Jhāna	and	the	Arahant
+
+From	the	standpoint	of	their	spiritual	stature	the	seven types	of	noble	persons	can	be	divided	into	three	categories. The	first,	which	includes	the	faith-devotee	and	the	truth-devotee,	consists	of	those	on	the	path	of	stream-entry,	the first	of	the	eight	noble	individuals.	The	second	category, comprising	the	one	liberated	by	faith,	the	body-witness	and the	one	attained	to	understanding,	consists	of	those	on	the six	intermediate	levels,	from	the	stream-enterer	to	one	on the	path	of	arahatship.	The	third	category,	comprising	the one	liberated	in	both	ways	and	the	one	liberated	by wisdom,	consists	only	of	arahats.	\[30\]
+
+The	ubhatobhāgavimutta,	“one	liberated	in	both	ways,”	and the	paññāvimutta	“one	liberated	by	wisdom,”	thus	form	the terms	of	a	twofold	typology	of	arahats	distinguished	on	the basis	of	their	accomplishment	in	jhāna.	The ubhatobhāgavimutta	arahat	experiences	in	his	own	person	the “peaceful	deliverances”	of	the	immaterial	sphere,	the paññāvimutta	arahat	lacks	this	full	experience	of	the immaterial	jhānas.	Each	of	these	two	types,	according	to	the commentaries,	again	becomes	fivefold—the ubhatobhāgavimutta	by	way	of	those	who	possess	the ascending	four	immaterial	jhānas	and	the	attainment	of cessation,	the	paññāvimutta	by	way	of	those	who	reach arahatship	after	emerging	from	one	of	the	four	fine-material jhānas	and	the	dry-insight	meditator	whose	insight	lacks	the support	of	mundane	jhāna.
+
+The	possibility	of	attaining	the	supramundane	path	without possession	of	a	mundane	jhāna	has	been	questioned	by some	Theravada	scholars,	but	the	Visuddhimagga	clearly admits	this	possibility	when	it	distinguishes	between	the path	arisen	in	a	dry-insight	meditator	and	the	path	arisen	in one	who	possesses	a	jhāna	but	does	not	use	it	as	a	basis	for insight	(Vism	666–67;	PP	779).	Textual	evidence	that	there can	be	arahats	lacking	mundane	jhāna	is	provided	by	the Susīma	Sutta	(S	II	199–23)	together	with	is	commentaries. When	the	monks	in	the	sutta	are	asked	how	they	can	be arahats	without	possessing	supernormal	powers	of	the immaterial	attainments,	they	reply:	“We	are	liberated	by wisdom”	(paññāvimuttā	kho	mayaṃ).	The	commentary
+
+glosses	this	reply	thus:	“We	are	contemplatives,	dry-insight meditators,	liberated	by	wisdom	alone”	(Mayaṃ	nijjhānaka-sukkhavipassaka-paññāmatten’eva	vimuttā	ti,	S-a	II	117).	The commentary	also	states	that	the	Buddha	gave	his	long disquisition	on	insight	in	the	sutta	“to	show	the	arising	of knowledge	even	without	concentration”	(vinā	pi	samādhiṃ evaṃ	ñāṇuppattidassanatthaṃ,	S-a	II	117).	The subcommentary	establishes	the	point	by	explaining	“even without	concentration”	to	mean	“even	without concentration	previously	accomplished	reaching	the	mark of	serenity”	(samathalakkhaṇappattaṃ	purimasiddhaṃ	vinā	pi samādhin-ti),	adding	that	this	is	said	in	reference	to	one	who makes	insight	his	vehicle	(S-ṭ	II	125).
+
+In	contrast	to	the	paññāvimutta	arahats,	those	arahats	who are	ubhatobhāgavimutta	enjoy	a	twofold	liberation.	Through their	mastery	over	the	formless	attainments	they	are liberated	from	the	material	body	(rūpakāya),	capable	of dwelling	in	this	very	life	in	the	meditations	corresponding to	the	immaterial	planes	of	existence;	through	their attainment	of	arahatship	they	are	liberated	from	the	mental body	(nāmakāya),	presently	free	from	all	defilements	and sure	of	final	emancipation	from	future	becoming. Paññāvimutta	arahats	only	possess	the	second	of	these	two liberations.
+
+The	double	liberation	of	the	ubhatobhāgavimutta	arahat should	not	be	confused	with	another	double	liberation frequently	mentioned	in	the	suttas	in	connection	with arahatship.	This	second	pair	of	liberations,	called	cetovimutti
+
+paññāvimutti,	“liberation	of	mind,	liberation	by	wisdom,”	is shared	by	all	arahats.	It	appears	in	the	stock	passage descriptive	of	arahatship:	“With	the	destruction	of	the cankers	he	here	and	now	enters	and	dwells	in	the	cankerless liberation	of	mind,	liberation	by	wisdom,	having	realised	it for	himself	with	direct	knowledge.”	That	this	twofold liberation	belongs	to	paññāvimutta	arahats	as	well	as	those who	are	ubhatobhāgavimutta	is	made	clear	by	the	Putta Sutta,	where	the	stock	passage	is	used	for	two	types	of arahats	called	the	“white	lotus	recluse”	and	the	“red	lotus recluse”:
+
+How,	monks,	is	a	person	a	white	lotus	recluse (samaṇapuṇḍarīka)?	Here,	monks,	with	the	destruction	of	the cankers	a	monk	here	and	now	enters	and	dwells	in	the cankerless	liberation	of	mind,	liberation	by	wisdom,	having realised	it	for	himself	with	direct	knowledge.	Yet	he	does not	dwell	experiencing	the	eight	deliverances	with	his	body. Thus,	monks,	a	person	is	a	white	lotus	recluse.
+
+And	how,	monks,	is	a	person	a	red	lotus	recluse (samaṇapaduma)?	Here,	monks,	with	the	destruction of	the	cankers	a	monk	here	and	now	enters	and dwells	in	the	cankerless	liberation	of	mind,	liberation by	wisdom,	having	realised	it	for	himself	with	direct knowledge.	And	he	dwells	experiencing	the	eight deliverances	with	his	body.	Thus,	monks,	a	person	is a	red	lotus	recluse.	(A	II	87)
+
+Since	the	description	of	these	two	types	coincides	with	that
+
+of	paññāvimutta	and	ubhatobhāgavimutta	the	two	pairs	may be	identified,	the	white	lotus	recluse	with	the	paññāvimutta, the	red	lotus	recluse	with	the	ubhatobhāgavimutta.	Yet	the paññāvimutta	arahat,	while	lacking	the	experience	of	the eight	deliverances,	still	has	both	liberation	of	mind	and liberation	by	wisdom.
+
+When	liberation	of	mind	and	liberation	by	wisdom	are joined	together	and	described	as	“cankerless”	(anāsava),	they can	be	taken	to	indicate	two	aspects	of	the	arahat’s deliverance.	Liberation	of	mind	signifies	the	release	of	his mind	from	craving	and	its	associated	defilements,	liberation by	wisdom	the	release	from	ignorance:	“With	the	fading away	of	lust	there	is	liberation	of	mind,	with	the	fading away	of	ignorance	there	is	liberation	by	wisdom”	(AN	I	61). “As	he	sees	and	understands	thus	his	mind	is	liberated	from the	canker	of	sensual	desire,	from	the	canker	of	existence, from	the	canker	of	ignorance”	(M	I	183–84)—here	release from	the	first	two	cankers	can	be	understood	as	liberation	of mind,	release	from	the	canker	of	ignorance	as	liberation	by wisdom.	In	the	commentaries	“liberation	of	mind”	is identified	with	the	concentration	factor	in	the	fruition attainment	of	arahatship,	“liberation	by	wisdom”	with	the wisdom	factor.
+
+Since	every	arahat	reaches	arahatship	through	the	Noble Eightfold	Path,	he	must	have	attained	supramundane	jhāna in	the	form	of	right	concentration,	the	eighth	factor	of	the path,	defined	as	the	four	jhānas.	This	jhāna	remains	with him	as	the	concentration	of	the	fruition	attainment	of
+
+arahatship,	which	occurs	at	the	level	of	supramundane jhāna	corresponding	to	that	of	his	path.	Thus	he	always stands	in	possession	of	at	least	the	supramundane	jhāna	of fruition,	called	the	“cankerless	liberation	of	mind.” However,	this	consideration	does	not	reflect	back	on	his mundane	attainments,	requiring	that	every	arahat	possess mundane	jhāna.
+
+Although	early	Buddhism	acknowledges	the	possibility	of	a dry-visioned	arahatship,	the	attitude	prevails	that	jhānas	are still	desirable	attributes	in	an	arahat.	They	are	of	value	not only	prior	to	final	attainment,	as	a	foundation	for	insight, but	retain	their	value	even	afterwards.	The	value	of	jhāna	in the	stage	of	arahatship,	when	all	spiritual	training	has	been completed,	is	twofold.	One	concerns	the	arahat’s	inner experience,	the	other	his	outer	significance	as	a representative	of	the	Buddha’s	dispensation.
+
+On	the	side	of	inner	experience	the	jhānas	are	valued	as providing	the	arahat	with	a	“blissful	dwelling	here	and now”	(diṭṭhadhammasukhavihāra).	The	suttas	often	show arahats	attaining	to	jhāna	and	the	Buddha	himself	declares the	four	jhānas	to	be	figuratively	a	kind	of	Nibbāna	in	this present	life	(AN	IV	453–54).	With	respect	to	levels	and factors	there	is	no	difference	between	the	mundane	jhānas of	an	arahat	and	those	of	a	non-arahat.	The	difference concerns	their	function.	For	non-arahats	the	mundane jhānas	constitute	wholesome	kamma;	they	are	deeds	with	a potential	to	produce	results,	to	precipitate	rebirth	in	a corresponding	realm	of	existence.	But	in	the	case	of	an
+
+arahat	mundane	jhāna	no	longer	generates	kamma.	Since	he has	eradicated	ignorance	and	craving,	the	roots	of	kamma, his	actions	leave	no	residue;	they	have	no	capacity	to generate	results.	For	him	the	jhānic	consciousness	is	a	mere functional	consciousness	which	comes	and	goes	and	once gone	disappears	without	a	trace.
+
+The	value	of	the	jhānas,	however,	extends	beyond	the confines	of	the	arahat’s	personal	experience	to	testify	to	the spiritual	efficacy	of	the	Buddha’s	dispensation.	The	jhānas are	regarded	as	ornamentations	of	the	arahat,	testimonies	to the	accomplishment	of	the	spiritually	perfect	person	and	the effectiveness	of	the	teaching	he	follows.	A	worthy	monk	is able	to	“gain	at	will	without	trouble	or	difficulty,	the	four jhānas	pertaining	to	the	higher	consciousness,	blissful dwellings	here	and	now.”	This	ability	to	gain	the	jhānas	at will	is	a	“quality	that	makes	a	monk	an	elder.”	When accompanied	by	several	other	spiritual	accomplishments	it is	an	essential	quality	of	“a	recluse	who	graces	recluses”	and of	a	monk	who	can	move	unobstructed	in	the	four directions.	Having	ready	access	to	the	four	jhānas	makes	an elder	dear	and	agreeable,	respected	and	esteemed	by	his fellow	monks.	Facility	in	gaining	the	jhānas	is	one	of	the eight	qualities	of	a	completely	inspiring	monk (samantapāsādika	bhikkhu)	perfect	in	all	respects;	it	is	also	one of	the	eleven	foundations	of	faith	(saddhāpāda).	It	is significant	that	in	all	these	lists	of	qualities	the	last	item	is always	the	attainment	of	arahatship,	“the	cankerless liberation	of	mind,	liberation	by	wisdom,”	showing	that	all
+
+desirable	qualities	in	a	bhikkhu	culminate	in	arahatship.	\[31\]
+
+The	higher	the	degree	of	his	mastery	over	the	meditative attainments,	the	higher	the	esteem	in	which	an	arahat	monk is	held	and	the	more	praiseworthy	his	achievement	is considered.	Thus	the	Buddha	says	of	the	ubhatobhāgavimutta arahat:	“There	is	no	liberation	in	both	ways	higher	and	more excellent	than	this	liberation	in	both	ways”	(D	II	71).
+
+The	highest	respect	goes	to	those	monks	who	possess	not only	liberation	in	both	ways	but	the	six	abhiññās	or	“super-knowledges”:	the	exercise	of	psychic	powers,	the	divine	ear, the	ability	to	read	the	minds	of	others,	the	recollection	of past	lives,	knowledge	of	the	death	and	rebirth	of	beings,	and knowledge	of	final	liberation.	The	Buddha	declares	that	a monk	endowed	with	the	six	abhiññās,	is	worthy	of	gifts	and hospitality,	worthy	of	offerings	and	reverential	salutations, a	supreme	field	of	merit	for	the	world	(A	III	280–81).	In	the period	after	the	Buddha’s	demise,	what	qualified	a	monk	to give	guidance	to	others	was	endowment	with	ten	qualities: moral	virtue,	learning,	contentment,	mastery	over	the	four jhānas,	the	five	mundane	abhiññās	and	attainment	of	the cankerless	liberation	of	mind,	liberation	by	wisdom	(M	III 11–12).	Perhaps	it	was	because	he	was	extolled	by	the Buddha	for	his	facility	in	the	meditative	attainments	and	the abhiññās	that	the	venerable	Mahākassapa	assumed	the presidency	of	the	first	great	Buddhist	council	held	in Rājagaha	after	the	Buddha’s	passing	away.
+
+The	graduation	in	the	veneration	given	to	arahats	on	the
+
+basis	of	their	mundane	spiritual	achievements	implies something	about	the	value	system	of	early	Buddhism	that	is not	often	recognised.	It	suggests	that	while	final	liberation may	be	the	ultimate	and	most	important	value,	it	is	not	the sole	value	even	in	the	spiritual	domain.	Alongside	it,	as embellishments	rather	than	alternatives,	stand	mastery	over the	range	of	the	mind	and	mastery	over	the	sphere	of	the knowable.	The	first	is	accomplished	by	the	attainment	of	the eight	mundane	jhānas,	the	second	by	the	attainment	of	the abhiññās.	Together,	final	liberation	adorned	with	this twofold	mastery	is	esteemed	as	the	highest	and	most desirable	way	of	actualizing	the	ultimate	goal.
+
+About	the	Author
+
+Mahāthera	Henepola	Gunaratana	was	ordained	as	a Buddhist	monk	in	Kandy,	Sri	Lanka,	in	1947	and	received his	education	at	Vidyālaṅkāra	College	and	Buddhist Missionary	College,	Colombo.	He	worked	for	five	years	as	a Buddhist	missionary	among	the	Harijans	(Untouchables)	in India	and	for	ten	years	with	the	Buddhist	Missionary Society	in	Kuala	Lumpur,	Malaysia.	In	1968	he	came	to	the United	States	to	serve	as	general	secretary	of	the	Buddhist Vihāra	Society	at	the	Washington	Buddhist	Vihāra.	In	1980 he	was	appointed	president	of	the	Society.	He	has	received a	Ph.D.	from	The	American	University	and	since	1973	has been	Buddhist	Chaplain	at	The	American	University.	He	is
+
+now	director	of	the	Bhāvana	Meditation	Centre	in	West Virginia	in	the	Shenandoah	Valley,	about	100	miles	from Washington,	D.C.
+
+1. See	for	example,	the	Sāmaññaphala	Sutta	(DN	2),	the Cullahatthipadopama	Sutta	(MN	27),etc.
+
+2. Kāmacchanda,	byāpāda,	thīnamiddha,	uddhaccakukkucca, vicikicchā.
+
+3. Vitakka,	vicāra,	pīti,	sukha,	ekaggatā.
+
+4. Ākāsānañcāyatana,	viññāṇañcāyatana,	ākiñcaññāyatana, nevasaññānāsaññāyatana.
+
+5. See	Nārada	&	Bodhi,	A	Comprehensive	Manual	of Abhidhamma,	(Kandy:	Buddhist	Publication	Society,	1980), pp.389,	395-96.
+
+6. A	full	description	of	the	fourfold	purification	of	morality will	be	found	in	the	Visuddhimagga,	Chapter	1.
+
+7. The	following	discussion	is	based	on	Vism	110-115;	PP 112-118.
+
+8. Buddhaghosa	ascribes	the	passage	he	cites	in	support	of the	correspondence	to	the	“Peṭaka,”	but	it	cannot	be traced	anywhere	in	the	present	Tipiṭaka,	nor	in	the exegetical	work	named	Peṭakopadesa.
+
+9. The	other	two	types	of	abandoning	are	by	substitution	of
+
+opposites	(tadaṅgapahāna),	which	means	the	replacement of	unwholesome	states	by	wholesome	ones	specifically opposed	to	them,	and	abandoning	by	eradication (samucchedapahāna),	the	final	destruction	of	defilements	by the	supramundane	paths.	See	Vism	693-96;	PP	812-16.
+
+10. Adapted	from	Nyanaponika	Thera,	The	Five	Mental Hindrances	and	Their	Conquest	(Wheel	No.	26).	This	booklet contains	a	full	compilation	of	texts	on	the	hindrances.
+
+11. Ven.	Ñāṇamoli,	in	his	translation	of	the	Visuddhimagga, renders	pīti	by	“happiness,”	but	this	rendering	can	be misleading	since	most	translators	use	“happiness”	as	a rendering	for	sukha,	the	pleasurable	feeling	present	in	the jhāna.	We	will	render	pīti	by	“rapture,”	thus	maintaining the	connection	of	the	term	with	ecstatic	meditative experience.
+
+12. Shwe	Zan	Aung,	Compendium	of	Philosophy	(London: Pali	Text	Society,	1960),	p.243.
+
+13. Khuddakapīti,	khaṇikapīti,	okkantikapīti,	ubbegapīti	and pharaṇapīti.	Vism	143-44;	PP	149-51.	Dhs-a	158.
+
+14. Dhs-a	160-61.	Translation	by	Maung	Tin,	The	Expositor (Atthasālinī)	(London:	Pali	Text	Society,	1921),	I	155-56.
+
+15. The	following	is	based	on	Vism	126-35;	PP	132-40.
+
+16. Āvajjanavasī,	samāpajjanavasī,	adhiṭṭhānavasī,	vutthānavasī, paccavekkhanavasī.	For	a	discussion	see	Vism	154-55;	PP 160-61.	The	canonical	source	for	the	five	masteries	is	the Paṭisambhidāmagga,	I	100.
+
+17. Based	on	the	distinction	between	applied	and	sustained thought,	the	Abhidhamma	presents	a	fivefold	division	of the	jhānas	obtained	by	recognizing	the	sequential	rather than	simultaneous	elimination	of	the	two	kinds	of thought.	On	this	account	a	meditator	of	duller	faculties eliminates	applied	thought	first	and	attains	a	second jhāna	with	four	factors	including	sustained	thought,	and	a third	jhāna	identical	with	the	second	jhāna	of	the	fourfold scheme.	In	contrast	a	meditator	of	sharp	faculties comprehends	quickly	the	defects	of	both	applied	and sustained	thought	and	so	eliminates	them	both	at	once.
+
+18. Ākāsānañcāyatana,	viññāṇañcāyatana,	ākiñcaññāyatana, nevasaññānāsaññāyatana.
+
+19. Brahmapārisajja	brahmapurohita,	mahābrahmā.
+
+20. Paritābha,	appamāṇābha,	ābhassara.
+
+21. Parittasubha,	appamāṇasubha,	subhakiṇhā.
+
+22. Vehapphala,	asaññasattā,	suddhāvāsa.
+
+23. A	good	summary	of	Buddhist	cosmology	and	of	the connection	between	kamma	and	planes	of	rebirth	can	be found	in	Nārada,	A	Manual	of	Abhidhamma,	pp.233-55.@
+
+24. Anicca,	dukkha,	anattā.
+
+25. Dhs-a	259.	See	Expositor,	II	289-90.
+
+26. Dhs-a	274.	See	Expositor,	II	310.
+
+27. The	cankers	(āsavā)	are	four	powerful	defilements	that sustain	saṃsāra;	sensual	desire,	desire	for	existence,
+
+wrong	views	and	ignorance.
+
+28. The	Visuddhimagga,	however	says	that	arahats	in	whom faith	is	predominant	can	also	be	called	“liberated	by faith”	(Vism	659;	PP	770).	Its	commentary	points	out	that this	statement	is	intended	only	figuratively,	in	the	sense that	those	arahats	reach	their	goal	after	having	been liberated	by	faith	in	the	intermediate	stages.	Literally, they	would	be	“liberated	by	wisdom”.	(Vism-ṭ	II	468)
+
+29. The	first	three	emancipations	are:	one	possessing material	form	sees	material	forms;	one	not	perceiving material	forms	internally	sees	material	forms	externally; and	one	is	released	upon	the	idea	of	the	beautiful.	They are	understood	to	be	variations	on	the	jhānas	attained with	color	kasiṇas.	For	the	attainment	of	cessation,	see	PP 824-833.
+
+30. It	should	be	noted	that	the	Kīṭāgiri	Sutta	makes	no provision	in	its	typology	for	a	disciple	on	the	first	path who	gains	the	immaterial	jhānas.	Vism-ṭ	(II	466)	holds that	he	would	have	to	be	considered	either	a	faith-devotee or	a	truth-devotee,	and	at	the	final	fruition	would	be	one liberated	in	both	ways.
+
+31. The	references	are	to:	A	II	23;	III	131,135,114;	IV	314-15; V	337
+
+THE	BUDDHIST	PUBLICATION	SOCIETY
+
+The	BPS	is	an	approved	charity	dedicated	to	making	known the	Teaching	of	the	Buddha,	which	has	a	vital	message	for all	people.
+
+Founded	in	1958,	the	BPS	has	published	a	wide	variety	of books	and	booklets	covering	a	great	range	of	topics. Its	publications	include	accurate	annotated	translations	of the	Buddha’s	discourses,	standard	reference	works,	as	well as	original	contemporary	expositions	of	Buddhist	thought and	practice.	These	works	present	Buddhism	as	it	truly	is— a	dynamic	force	which	has	influenced	receptive	minds	for the	past	2500	years	and	is	still	as	relevant	today	as	it	was when	it	first	arose.
+
+For	more	information	about	the	BPS	and	our	publications, please	visit	our	website,	or	write	an	e-mail	or	a	letter	to	the:
+
+Administrative	Secretary Buddhist	Publication	Society P.O.	Box	61	•	54	Sangharaja	Mawatha Kandy	•	Sri	Lanka E-mail:	bps@bps.lk		•	web	site:	http://www.bps.lk Tel:	0094	81	223	7283	•	Fax:	0094	81	222	3679
+
+Table	of	Contents
+
+The	Jhānas	In	Theravada	Buddhist	Meditation 2
+
+List	of	Abbreviations 5 Introduction 7
+
+The	Doctrinal	Context	of	Jhāna 7 Etymology	of	Jhāna 12 Jhāna	and	Samādhi 13
+
+The	Preparation	for	Jhāna 17 The	Moral	Foundation	for	Jhāna 17 The	Good	Friend	and	the	Subject	of	Meditation 21 Choosing	a	Suitable	Dwelling 26
+
+The	First	Jhāna	and	its	Factors 28 The	Abandoning	of	the	Hindrances 29 The	Factors	of	the	First	Jhāna 35 Applied	Thought	(vitakka) 37 Sustained	Thought	(vicāra) 40 Rapture	(pīti) 41 Happiness	(sukha) 43 One-pointedness	(ekaggatā) 46 Perfecting	the	First	Jhāna 48
+
+The	Higher	Jhānas 51 The	Higher	Fine-material	Jhānas 51 The	Immaterial	Jhānas 58 The	Jhānas	and	Rebirth 65
+
+Jhānas	and	the	Supramundane 68
+
+The	Way	of	Wisdom 68 The	Two	Vehicles 71 Supramundane	Jhāna 77 The	Jhānic	Level	of	the	Path	and	Fruit 83
+
+Jhāna	and	the	Noble	Disciples 87 Seven	Types	of	Disciples 87 Jhāna	and	the	Arahant 95 About	the	Author 103
+

@@ -1,0 +1,132 @@
+# Awakening to Infinite Presence
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/61nfQnoUE-L._SL200_.jpg)
+
+## Metadata
+- Author: [[Robert Wolfe]]
+- Full Title: Awakening to Infinite Presence
+- Category: #books
+
+## Highlights
+- Self-Realization in three words: ([Location 139](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=139))
+- the I-thought neutralized. ([Location 139](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=139))
+    - Tags: [[blue]] 
+- found just one activity to be at all meaningful: “transmission of the dharma,” as the Buddhists call it. ([Location 146](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=146))
+    - Tags: [[pink]] 
+- They have generally suggested that each individual is a limited expression of a holistic, interconnected reality. This is a view that we seem to intuit in any attempt to make sense of our personal existence, generally expressed as a feeling that we are “part” of something “greater” or more extensive; that there is an intelligence which transcends our individual consciousness, or may be the underpinning of our consciousness. ([Location 158](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=158))
+- “How would you describe what it is that you are looking for?” ([Location 171](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=171))
+    - Tags: [[blue]] 
+- “If that which you are looking for is indescribable, where do you suppose that it is to be found?” ([Location 176](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=176))
+- “What do you expect will happen when you’ve found ‘it’?” ([Location 181](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=181))
+    - Tags: [[blue]] 
+- “Are you prepared to make that discovery today—regardless of your expectations?” ([Location 190](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=190))
+    - Tags: [[pink]] 
+- evasive ([Location 192](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=192))
+    - Tags: [[orange]] 
+- “Is this what I really want, or am I merely curious about this subject?” ([Location 194](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=194))
+- The question is, in the pursuit of the “unknown,” are you truly prepared to meet that potentiality right now, without equivocation? A salutary enquiry. ([Location 197](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=197))
+    - Tags: [[blue]] 
+- That which is relative has reality only in comparison to some other (relative) things. ([Location 205](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=205))
+    - Tags: [[blue]] 
+- Individu-ality is a relative condition. ([Location 207](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=207))
+    - Tags: [[pink]] 
+- And this, of course, is the substance of our conditioning. From the time that mother points to herself and says “mama” and then points in the crib and says “baby,” we begin to think in relative terms. This becomes so much of a habitual perspective that we never even question whether there is any alternative to the relative, or relational, mindset—the interdependent existence of this thing as opposed to that thing; man at one end of a spectrum, for example, and nature at the other end. The relative perspective is at the root of our conception of all things that we suppose to have existence, including our self and others. ([Location 209](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=209))
+- If it is not “this thing” or “that thing” (or, relatively, any “other thing”), then it must be something which has no relationship to relative things—it must be beyond, or above, relativity in any of its forms: non (not) relative. ([Location 216](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=216))
+    - Tags: [[blue]] 
+- By contemplating the definitional meaning of that which is non-relative, it is possible for a pivotal insight to be present. ([Location 220](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=220))
+    - Tags: [[pink]] 
+- anything we speak of as singular is merely an oppositional concept, relative to the plural: ([Location 225](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=225))
+    - Tags: [[orange]] 
+- duality. ([Location 226](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=226))
+- “not two things.” ([Location 230](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=230))
+    - Tags: [[blue]] 
+- nonduality is not the negation of duality: ([Location 236](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=236))
+- dualism is equivalent to separation, or separatism. ([Location 242](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=242))
+    - Tags: [[blue]] 
+- absolute. ([Location 247](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=247))
+- “nothing,” ([Location 251](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=251))
+    - Tags: [[blue]] 
+- no thing. ([Location 251](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=251))
+    - Tags: [[pink]] 
+- while the limited cannot contain the unlimited, the unlimited has the capacity to contain, or include, all that is relative. ([Location 255](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=255))
+- prepared to look beyond the limitations of the conditioned dualistic perspective, a revelation is possible: the consideration not of a thing—not even “one thing”—but of no-thing. ([Location 260](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=260))
+    - Tags: [[blue]] 
+- ultimate cosmic reality ([Location 265](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=265))
+    - Tags: [[pink]] 
+- “omnipresent.” ([Location 278](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=278))
+- The significance of this term is that it means a condition or presence which exists “in every place, at all times simultaneously.” Always ever present, illimitable in duration or location. ([Location 278](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=278))
+    - Tags: [[blue]] 
+- The first peculiar property or characteristic of that which is omnipresent is that it evidently would be thoroughly indivisible. Any division or fragmentation of its presence anywhere would allow it to be separable into parts or elements detached in space or by time. But entirely unrestricted by time or space, there could pertain no boundaries by which it… ([Location 282](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=282))
+    - Tags: [[pink]] 
+- And, more significantly, by virtue of its indivisibility, it could not be present in anything less than its whole undiminished entirety at any and every point in conceivable time or space. Pinpoint any quark in the cosmos, in other words, and the Absolute would be completely and unbrokenly present—as it would simultaneously also be,… ([Location 285](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=285))
+    - Tags: [[orange]] 
+- Its profound qualities are even more self-revealing. Being unconstrained by any finite limitation or boundary of any kind, an absolute omnipresence would not only encompass or surround every existent form or entity in the cosmos, it would also permeate or saturate every conceivable thing. This is precisely what is indicated by the appellation that is also traditionally applied to the all-inclusive Absolute: that it is equally transcendent and immanent; perceivable everywhere in general but also anywhere in particular, whether focusing internally or externally. In language that echoes back as far as the Vedas, the… ([Location 289](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=289))
+- This also leads to some of the other mysterious qualities that have been ascribed to the Infinite. As the non-relative cosmic plenum, itself void of form, all existent forms originate or manifest in the potential of its presence. So, it has been remarked that each and every relative thing situates “within” the Absolute—while simultaneously the Absolute is… ([Location 295](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=295))
+    - Tags: [[blue]] 
+- The Absolute, being the only permanent reality by virtue of its nature as eternal, can be regarded as the essence—the intrinsic, indispensable element—of all relative, impermanent existence. Therefore, it can be perceived to not only be present around, in and through all that is, but essentially “as” all that is. In other words, as the sages indicate, the… ([Location 299](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=299))
+    - Tags: [[pink]] 
+- Consequently, at the most elementary level, there is no separation anywhere of any thing, material or immaterial, by reason of spatial distance or temporal transit. Not one quark in the cosmos is disconnected from any other, across space or by time. Not anything lies outside of the all-pervasive ever-present condition that is defined by the Absolute. If it were possible for It to exist “apart” from any thing, that would clearly be in negation of the significance of its omnipresence, as the nondual or non-relative. It does not even exist as a separate form or entity that can be termed such things as Spirit or Godhead, because of its formless quality. It can only be identified as the innate or inherent essence that is transcendent of every form or entity and of all… ([Location 303](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=303))
+    - Tags: [[orange]] 
+- The comprehension of this incomparable dynamic can be the catalyst for a profound “spiritual” realization. It is the underlying principle in the… ([Location 311](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=311))
+- That which the aspirant seeks exposure to is the essence, the manifest identity, of everything which exists, whether corporeal or incorporeal, formed or formless, individual or collective, separate or unitary: not anything in the cosmos is excepted. It permeates, saturates, every atom, ion, particle (and their enclosures or partitions), to generate one whole, unbroken, infinite and eternal existence. There is no time which bars its presence; there is no point in space, or in matter of any kind, which bars its presence. This cosmic presence cannot be anywhere other than right here—no matter where “here” is. And it cannot be anywhere other than right now—no matter when “now” is. Being beyond confinement, it is not “close” to you, it penetrates and permeates your very form; it is not “inside” of you or “outside” of you, it is as much what comprises you as the “self” that you suppose you are. And it is the essence of your existence right here, right now. You have not ever, in any way, been in the least apart from it; nor has any other thing or being been apart from it/you. There are, in fact, no separate “parts” in the interconnecting wholeness of the Absolute, nothing “individual” which stands outside of its inclusiveness. All things which appear to be individuated are merely… ([Location 313](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=313))
+    - Tags: [[blue]] 
+- When this is clearly and fully recognized, it is apparent that there can be no “encountering experience,” in terms of a special mystical event. The much-anticipated, long-awaited epiphany is actually a… ([Location 327](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=327))
+- the one who is looking for That, to the recognition that it is That… ([Location 329](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=329))
+- By looking for it outside of every thing which is already here and now, the seeker misses it perpetually! ([Location 335](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=335))
+- This perception is that all phenomena in the universe are the manifestation of an “energy” which is not—nor has ever been or will ever be—in any way divided. ([Location 362](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=362))
+- What has been of great help to me in these discussions is that I’ve talked, written or read about this subject probably every day, for a couple of decades. ([Location 384](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=384))
+    - Tags: [[pink]] 
+- “I have an intellectual understanding of nonduality, but I don’t feel that I’m quite there yet. Is there something I’m missing?” ([Location 389](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=389))
+    - Tags: [[orange]] 
+- “embodiment”—living ([Location 392](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=392))
+- living out of the precepts, beyond merely awakening to them. ([Location 392](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=392))
+    - Tags: [[pink]] 
+- Tat Tvam Asi,” ([Location 405](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=405))
+    - Tags: [[blue]] 
+- That (ultimate being) thou art. ([Location 406](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=406))
+- “life force,” ([Location 413](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=413))
+- when you recognize that there is only one ultimate reality and that it is the essence of all that exists, you realize that all that is thought, said, or done anywhere is attributable to this singular life force. ([Location 414](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=414))
+    - Tags: [[blue]] 
+- When a seeker has come to recognize that, in a spiritual sense, “he” or “she” is superseded by a universal presence which eclipses our personal individuality, the seeker is said to have “awakened” to true nature. ([Location 418](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=418))
+    - Tags: [[pink]] 
+- Only 47 verses into Genesis, you have the idea of the tree of the knowledge of “good and evil.” The notion that something is good and something else is evil was not a common idea to every society, when this was written. We, here, have been conditioned to this premise, since our infancy. ([Location 425](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=425))
+    - Tags: [[orange]] 
+- Who, among us, does not have an imagined spectrum, or scale, in the mind, with “negative” at one end and “positive” at the other. Every experience that we have, we mentally assign a value on this scale, as somewhere toward the “good” or the “bad.” And our cultural heritage supports the idea that we should continually be moving everything from the negative end of the scale toward the positive. ([Location 428](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=428))
+- The consequence of this dualistic disposition is that our every aware thought is in terms of what we conclude should be happening, as opposed to what we declare shouldn’t be happening. ([Location 431](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=431))
+    - Tags: [[orange]] 
+- idealism: ([Location 436](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=436))
+- “becoming,” versus being ([Location 440](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=440))
+    - Tags: [[blue]] 
+- But all things change: even in enlightenment, observed phenomenon come and go. ([Location 447](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=447))
+    - Tags: [[pink]] 
+- Somewhere, in the daily life, this person notices a moment of anger, a judgmental thought, or a negative reaction. And their conclusion is: “I must not have gotten the message, or I’ve lost it. This occurrence shouldn’t be happening!” ([Location 448](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=448))
+    - Tags: [[blue]] 
+- Self-realization, when embodied, or acted from, is “to be present with what is present”—good, bad or otherwise: whether or not the what-is happens to be what you presume it should be. ([Location 453](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=453))
+- And here’s the kicker. Even when you are present to your moments of not reveling in clarity, you are nevertheless continuing to be present with what is present. Enlightenment is not some idealized fixed state of perfection. ([Location 455](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=455))
+    - Tags: [[pink]] 
+- When you are free to be—and at peace in being—who you are, that’s the embodiment part. ([Location 459](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=459))
+    - Tags: [[orange]] 
+- The seeking ends when it is recognized that what’s been sought is already fully present. ([Location 463](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=463))
+    - Tags: [[pink]] 
+- What is already always present? The present moment. ([Location 464](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=464))
+    - Tags: [[orange]] 
+- The irony is that nothing can be more extraordinary than when it is perceived that this present, unexciting moment is the moment which we come to realize is the very moment we’ve been awaiting! ([Location 468](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=468))
+    - Tags: [[pink]] 
+- Freedom is not stationed months away, waiting for you to discover it. Peace is not holed-up in a distant time zone, hunkering down until you buy a plane ticket. Those who wake up, do so in the exact moment they are in. ([Location 470](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=470))
+- The difference between seeking and not seeking is only one moment. ([Location 473](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=473))
+- This is all there is to Self-realization—to realize, consciously and thoroughly, that “you” cannot possibly, in any way, be apart from Omni-presence. ([Location 483](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=483))
+    - Tags: [[blue]] 
+- there is no point in ritually repeating any phrase to yourself; nor to continue to cling to ideas (read or heard) about what one needs to do to become united. ([Location 493](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=493))
+    - Tags: [[pink]] 
+- So, recognize (as you say) that “the me is always here”: but, “who”—ultimately—is that “me”…none other than That. This is all there is to Self realization; self and Self are One and the same. Non-dual: “not two.” Not two. Not two. Not two. ([Location 503](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=503))
+- cosmic inseparability ([Location 517](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=517))
+    - Tags: [[pink]] 
+- Emptiness (in this context) can be equated to surrender (in another context). ([Location 528](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=528))
+- To surrender means “to give up; yield,” whatever completely yields all content is empty. To yield all content, in this context, would be to surrender to the “spirit.” It means to penetrate beyond one’s personal, psychological contentment and satisfaction. ([Location 528](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=528))
+    - Tags: [[pink]] 
+- It is to move, without resistance, from the known to the unknown. ([Location 532](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=532))
+    - Tags: [[orange]] 
+- It is to be open, exposed, vulnerable; it is to face one’s very worst fears from moment to moment, without lingering. ([Location 538](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=538))
+    - Tags: [[blue]] 
+- There is no one, who ever lived, who did not eventually surrender all: some while they could yet experience the freedom. ([Location 539](https://readwise.io/to_kindle?action=open&asin=B00X67M44Y&location=539))
+    - Tags: [[pink]] 

@@ -1,0 +1,8 @@
+---
+aliases:
+  - "Bias and Assumptions "
+tags:
+  - quotes
+---
+
+"Your assumptions are your windows on the world. Scrub them off every once in a while, or the light won't come in." ― Isaac Asimov

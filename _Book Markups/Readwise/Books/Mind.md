@@ -1,0 +1,355 @@
+# Mind
+
+![rw-book-cover](https://m.media-amazon.com/images/I/31wncEHiD0L._SY160.jpg)
+
+## Metadata
+- Author: [[John R. Searle]]
+- Full Title: Mind
+- Category: #books
+
+## Highlights
+- all of the most famous and influential theories are false. ([Location 107](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=107))
+    - Tags: [[blue]] 
+- the conscious pain has at least these two features: subjectivity and qualitativeness. ([Location 122](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=122))
+- thinking about something, ([Location 124](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=124))
+    - Tags: [[blue]] 
+- intentionally doing something, ([Location 124](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=124))
+- feeling a sensation. ([Location 124](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=124))
+    - Tags: [[orange]] 
+- “mind-body problem.”) ([Location 133](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=133))
+    - Tags: [[blue]] 
+- How can the subjective, insubstantial, nonphysical mental states of consciousness ever cause anything in the physical world? ([Location 134](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=134))
+    - Tags: [[orange]] 
+- How can your intention, not a part of the physical world, ever cause the movement of your arm? ([Location 135](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=135))
+    - Tags: [[pink]] 
+- “problem of mental causation.”) ([Location 136](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=136))
+- “problem of intentionality,” ([Location 138](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=138))
+- dualists. ([Location 142](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=142))
+    - Tags: [[blue]] 
+- materialists. ([Location 144](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=144))
+- structure of human intentionality. ([Location 153](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=153))
+    - Tags: [[pink]] 
+- freedom of the will, ([Location 155](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=155))
+    - Tags: [[blue]] 
+- mental causation, ([Location 155](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=155))
+- nature and functioning of the unconscious, ([Location 155](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=155))
+    - Tags: [[orange]] 
+- analysis of perception, ([Location 156](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=156))
+    - Tags: [[pink]] 
+- concept of the self. ([Location 156](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=156))
+    - Tags: [[blue]] 
+- distinction between those features of a world ([Location 160](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=160))
+    - Tags: [[blue]] 
+- observer independent ([Location 160](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=160))
+- observer dependent ([Location 160](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=160))
+    - Tags: [[orange]] 
+- observer relative. ([Location 160](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=160))
+    - Tags: [[orange]] 
+- original or intrinsic intentionality ([Location 169](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=169))
+    - Tags: [[blue]] 
+- derived intentionality ([Location 170](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=170))
+- derived intentionality is always observer-dependent. ([Location 177](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=177))
+    - Tags: [[orange]] 
+- how to give an account of ourselves as apparently conscious, mindful, free, rational, speaking, social, and political agents in a world that science tells us consists entirely of mindless, meaningless, physical particles. ([Location 204](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=204))
+    - Tags: [[blue]] 
+- But on the issues discussed in this book, there is an enormous difference between what most people believe and what the professional experts believe. ([Location 217](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=217))
+    - Tags: [[blue]] 
+- most people in the Western world today accept some form of dualism. They believe they have both a mind, or a soul, and a body. I have even heard some people tell me they have three parts—a body, a mind, and a soul. ([Location 218](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=218))
+- But this is definitely not the view of the professionals in philosophy, psychology, cognitive science, neurobiology, or artificial intelligence. Almost without exception, the professional experts in the field accept some version of materialism. ([Location 219](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=219))
+    - Tags: [[orange]] 
+- Descartes’ ([Location 231](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=231))
+    - Tags: [[blue]] 
+- dualism, ([Location 231](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=231))
+    - Tags: [[blue]] 
+- mental substances ([Location 232](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=232))
+    - Tags: [[blue]] 
+- physical substances. ([Location 232](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=232))
+- “substance dualism.”1 ([Location 233](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=233))
+    - Tags: [[orange]] 
+- The essence of mind is consciousness, or as he called it “thinking”; and the essence of body is being extended in three dimensions in physical space, or as he called it “extension.” ([Location 235](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=235))
+    - Tags: [[pink]] 
+- Cartesian dualism was important in the seventeenth century for a number of reasons, not the least of which being that it seemed to divide up the territory between science and religion. ([Location 244](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=244))
+    - Tags: [[orange]] 
+- Minds, on the other hand, are indivisible, that is, they cannot be divided into smaller pieces, and thus they cannot be destroyed in the way that bodies can. ([Location 252](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=252))
+    - Tags: [[blue]] 
+- “the ghost in the machine.” ([Location 256](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=256))
+- “Cogito ergo sum”: ([Location 258](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=258))
+    - Tags: [[orange]] 
+- I think therefore I exist. ([Location 259](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=259))
+    - Tags: [[pink]] 
+- I cannot be mistaken about the existence of my own consciousness, hence I cannot be mistaken about my own existence, because it is my essence to be a conscious (that is, thinking) being, a mind. Nor can I be mistaken about the contents of my mind. If it seems to me, for example, that I have a pain, then I do have a pain. ([Location 260](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=260))
+    - Tags: [[blue]] 
+- What exactly are the relations between the mental and the physical, and in particular how can there be causal relations between them? ([Location 272](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=272))
+    - Tags: [[blue]] 
+- We know that if somebody steps on my toe, I feel a pain even though his stepping on my toe is just a physical event in the physical world, and my feeling of pain is a mental event that occurs inside my soul. ([Location 276](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=276))
+- I decide to raise my arm, an event that occurs inside my conscious soul, and, lo and behold, my arm goes up. How are we supposed to think that such a thing could ever happen? How can a decision in my soul cause a movement of a physical object in the world such as my body? ([Location 278](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=278))
+- “mind-body problem.” ([Location 280](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=280))
+    - Tags: [[orange]] 
+- How can brain processes produce mental phenomena at all? How can brains cause minds? ([Location 287](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=287))
+    - Tags: [[pink]] 
+- We think the very existence of a mind is explained by the operations of the brain. Descartes did not think that was possible. For him the question was only how specific thoughts and feelings, such ([Location 290](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=290))
+    - Tags: [[blue]] 
+- as a sensation of pain, can be caused by events occurring to the body. ([Location 291](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=291))
+    - Tags: [[blue]] 
+- But if I make an inference from your stimulus and your behavior to your mental state, how can I ever check the inference? ([Location 308](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=308))
+    - Tags: [[blue]] 
+- How can I ever see that I am correctly inferring and not just making a wild guess? ([Location 309](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=309))
+- The view that I am the only person who has mental states is called “solipsism.” ([Location 315](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=315))
+    - Tags: [[blue]] 
+- epistemic solipsism: ([Location 317](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=317))
+- maybe other people have mental states, but I can never know for sure. ([Location 317](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=317))
+    - Tags: [[orange]] 
+- skepticism about the existence of the external world. ([Location 334](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=334))
+    - Tags: [[blue]] 
+- But what about the chairs and tables and mountains and rivers and forests and trees that I see around me? ([Location 335](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=335))
+- What we directly perceive, that is, perceive without any inferential processes, are the contents of our own minds. ([Location 337](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=337))
+    - Tags: [[orange]] 
+- Though he was by no means the first philosopher to hold this view, the move from the view that we really perceive real objects to the view that we only perceive our ideas of objects is a move of decisive importance in the history of philosophy. ([Location 348](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=348))
+    - Tags: [[blue]] 
+- we do not perceive material objects, we perceive only “sense data.” ([Location 351](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=351))
+- How can we ever be sure that we have knowledge of the external world that is on the other side of our perceptual experiences? ([Location 354](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=354))
+    - Tags: [[orange]] 
+- Do I genuinely have free will, or is it only an illusion? ([Location 359](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=359))
+    - Tags: [[pink]] 
+- Nowadays we think that quantum physics has shown an indeterminacy in the behavior of particles at the subatomic level. ([Location 368](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=368))
+    - Tags: [[pink]] 
+- It is tempting to say that this person is the same as that person because they both have the same body. But is this body really essential to my identity? ([Location 380](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=380))
+    - Tags: [[pink]] 
+- But if the same body is not what makes me me, then what does make me me? ([Location 382](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=382))
+    - Tags: [[blue]] 
+- Intentionality ([Location 413](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=413))
+    - Tags: [[blue]] 
+- “Intentionality” is a technical term used by philosophers to refer to that capacity of the mind by which mental states refer to, or are about, or are of objects and states of affairs in the world other than themselves. ([Location 415](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=415))
+- two problems of intentionality. ([Location 434](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=434))
+    - Tags: [[blue]] 
+- how it is possible for events occurring in our brains to refer beyond themselves at all. ([Location 434](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=434))
+- How do input stimuli cause mental phenomena, ([Location 441](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=441))
+    - Tags: [[orange]] 
+- how do mental phenomena cause output behavior? ([Location 441](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=441))
+    - Tags: [[pink]] 
+- The view that mental states exist but are causally inert is called ([Location 445](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=445))
+    - Tags: [[blue]] 
+- “epiphenomenalism.” ([Location 446](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=446))
+- God cannot be a deceiver. ([Location 512](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=512))
+    - Tags: [[blue]] 
+- his answer is that error is possible because my will exceeds my understanding. ([Location 516](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=516))
+    - Tags: [[blue]] 
+- My will is potentially infinite; my understanding is finite. And I often will to believe things that I do not clearly and distinctly perceive to be true, and consequently, I can be mistaken. ([Location 517](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=517))
+- Objects do not really have colors, tastes, or smells, nor do they give off sounds, even though colors, tastes, smells, and sounds seem to us perceptually to be parts of the world. ([Location 519](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=519))
+    - Tags: [[orange]] 
+- What exactly are the criteria for our continued existence? ([Location 556](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=556))
+    - Tags: [[blue]] 
+- How could the brain cause consciousness? ([Location 562](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=562))
+- It is a consequence of substance dualism that when our body is destroyed our soul can continue to survive; ([Location 577](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=577))
+    - Tags: [[blue]] 
+- how to give a coherent account of the causal relations between the soul and the body, ([Location 584](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=584))
+- Physics says that the amount of matter/energy in the universe is constant; ([Location 585](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=585))
+    - Tags: [[orange]] 
+- but substance dualism seems to imply that there is another kind of energy, mental energy or spiritual energy, that is not fixed by physics. ([Location 586](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=586))
+    - Tags: [[pink]] 
+- divine intervention. ([Location 605](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=605))
+    - Tags: [[blue]] 
+- quantum mechanics. ([Location 606](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=606))
+- idealism. ([Location 610](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=610))
+    - Tags: [[blue]] 
+- Here is the insight, at its most primitive: we all have real conscious experiences and we know that they are not the same sort of thing as the physical objects around us. ([Location 645](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=645))
+    - Tags: [[blue]] 
+- This primitive insight can be given a more sophisticated formulation: the world consists almost entirely of physical particles and everything else is in some way an illusion (like colors and tastes) or a surface feature (like solidity and liquidity) that can be reduced to the behavior of the physical particles. ([Location 646](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=646))
+- However there is one exception. Consciousness is not just particles. ([Location 650](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=650))
+    - Tags: [[orange]] 
+- In fact it is not particles at all. ([Location 651](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=651))
+    - Tags: [[pink]] 
+- Whatever else it is, it is something “over and above” the particles. ([Location 651](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=651))
+    - Tags: [[blue]] 
+- The dualists said that there are two kinds of things or properties in the universe, and with the failure of dualism, it is natural to suppose that maybe there is only one kind of thing in the universe. ([Location 659](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=659))
+    - Tags: [[blue]] 
+- “monism” ([Location 661](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=661))
+- mentalist monism ([Location 661](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=661))
+    - Tags: [[orange]] 
+- materialist monism. ([Location 661](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=661))
+    - Tags: [[pink]] 
+- “idealism” ([Location 661](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=661))
+    - Tags: [[blue]] 
+- “materialism,” ([Location 661](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=661))
+- Idealism says that the universe is entirely mental or spiritual; there exists nothing but “ideas” in the technical sense of the word, according to which any mental phenomenon at all is an idea. ([Location 662](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=662))
+    - Tags: [[orange]] 
+- Materialism is the view that the only reality that exists is material or physical reality, and consequently if mental states have a real existence, they must in some sense be reducible to, they must be nothing but, physical states of some kind. ([Location 668](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=668))
+    - Tags: [[pink]] 
+- they never seem to be able to formulate a version of it that they are completely satisfied with ([Location 673](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=673))
+    - Tags: [[blue]] 
+- different versions of materialism seem to leave out some essential mental feature of the universe, ([Location 675](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=675))
+- The features they generally leave out are consciousness and intentionality. ([Location 676](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=676))
+    - Tags: [[orange]] 
+- “behaviorism.” ([Location 684](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=684))
+    - Tags: [[blue]] 
+- behaviorism says the mind just is the behavior of the body. ([Location 685](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=685))
+- “methodological behaviorism” ([Location 686](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=686))
+    - Tags: [[orange]] 
+- “logical behaviorism.” ([Location 686](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=686))
+    - Tags: [[pink]] 
+- “stimulus-response” psychology. ([Location 691](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=691))
+- The only observable psychological phenomena are human behavior, so the right method for psychology has to be the study of human behavior and not the study of any mysterious inner, spiritual, mental entities. ([Location 701](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=701))
+    - Tags: [[orange]] 
+- “If such-and-such conditions obtain, then such-and-such behavior will ensue.” ([Location 716](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=716))
+    - Tags: [[orange]] 
+- causal relations between mental states and behavior. ([Location 734](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=734))
+    - Tags: [[orange]] 
+- “physicalism,” ([Location 746](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=746))
+    - Tags: [[blue]] 
+- “identity theory.” ([Location 746](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=746))
+- it just turns out that the thing is a brain process. ([Location 798](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=798))
+- The point that we can talk about mental phenomena without using a mental vocabulary does not change the fact that the mental phenomena continue to have mental properties. ([Location 799](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=799))
+    - Tags: [[orange]] 
+- “neuronal chauvinism.”16 ([Location 806](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=806))
+    - Tags: [[pink]] 
+- we have defined mental states partly in terms of their capacity to cause external behavior. ([Location 866](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=866))
+    - Tags: [[orange]] 
+- another appeal of the functionalist account of mental states is that it seemed to assimilate the mental realm to a very familiar realm of human functional entities. ([Location 867](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=867))
+    - Tags: [[pink]] 
+- Mental states are like carburetors, thermostats, and clocks. They are defined not by their physical structure and not by any Cartesian mental essence; rather, they are defined by their causal relations. ([Location 872](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=872))
+    - Tags: [[blue]] 
+- A belief is just any entity that, standing in certain relationships to input stimuli and to other mental states, will cause external behavior. ([Location 874](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=874))
+    - Tags: [[pink]] 
+- treat the brain as just a “black box,” ([Location 880](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=880))
+    - Tags: [[blue]] 
+- produces behavior in response to stimuli, and we need not, as philosophers, worry about the mechanism inside the black box. This view was sometimes called “black-box functionalism.” ([Location 880](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=880))
+- brain is a digital computer ([Location 888](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=888))
+    - Tags: [[orange]] 
+- “mind” is a digital computer program or set of programs. ([Location 888](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=888))
+    - Tags: [[pink]] 
+- mental states are computational states of the brain. ([Location 889](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=889))
+    - Tags: [[blue]] 
+- “computer functionalism,” ([Location 892](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=892))
+- “Strong Artificial Intelligence” ([Location 893](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=893))
+    - Tags: [[orange]] 
+- On the Strong AI view, the appropriately programmed digital computer does not just simulate having a mind; it literally has a mind. ([Location 894](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=894))
+    - Tags: [[pink]] 
+- The relation of mind and body seemed mysterious, but the relation of program to computer hardware, the relation of the software to its physical implementation, is not the least bit mysterious. ([Location 898](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=898))
+    - Tags: [[blue]] 
+- algorithm, ([Location 905](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=905))
+    - Tags: [[blue]] 
+- a Turing machine, ([Location 905](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=905))
+- Church’s thesis, ([Location 905](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=905))
+    - Tags: [[blue]] 
+- Turing’s theorem, ([Location 905](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=905))
+- the Turing test, ([Location 905](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=905))
+    - Tags: [[blue]] 
+- levels of description, ([Location 905](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=905))
+- multiple realizability, ([Location 906](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=906))
+    - Tags: [[orange]] 
+- recursive decomposition. ([Location 906](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=906))
+- An algorithm is a method for solving a problem by going through a precise series of steps. ([Location 909](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=909))
+    - Tags: [[blue]] 
+- A Turing machine is a device that carries out calculations using only two types of symbols. ([Location 913](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=913))
+    - Tags: [[blue]] 
+- It does all of these things in accordance with a program, which consists of a set of rules. ([Location 917](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=917))
+- A Turing machine is not a machine in the ordinary sense. ([Location 919](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=919))
+    - Tags: [[orange]] 
+- It is an abstract mathematical concept. ([Location 920](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=920))
+    - Tags: [[pink]] 
+- this thesis states that any problem that has an algorithmic solution can be solved on a Turing machine. ([Location 926](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=926))
+    - Tags: [[blue]] 
+- Or another way to say the same thing is that any algorithm at all can be carried out on a Turing machine. ([Location 927](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=927))
+- The idea of a machine that just uses binary symbols, zeros and ones, is sufficient to carry out any algorithm whatever. ([Location 927](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=927))
+    - Tags: [[orange]] 
+- Suppose the human brain is a Universal Turing machine? ([Location 935](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=935))
+    - Tags: [[pink]] 
+- An immensely appealing feature of this research program is that we do not actually have to know how the brain works as a physical system in order to do a complete and strict science of the mind. ([Location 938](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=938))
+    - Tags: [[orange]] 
+- To get a really adequate scientific account of the mind we need only to discover the Turing machine programs that we are all using when we engage in cognition. ([Location 942](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=942))
+    - Tags: [[blue]] 
+- We need a test that will tell us when a machine is genuinely behaving intelligently, and when it is not. ([Location 944](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=944))
+- The Turing test, as you will have noticed, expresses a kind of behaviorism. It says that the behavioral test is conclusive for the presence of mental states. ([Location 950](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=950))
+    - Tags: [[orange]] 
+- Just as the same computer program may be implemented in different sorts of hardware and thus is multiply realizable; so the same mental state, such as the belief that it is going to rain, might be implemented in different sorts of hardware, and thus also be multiply realizable. ([Location 963](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=963))
+    - Tags: [[pink]] 
+- big complex problems can be broken down into little simple problems, ([Location 969](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=969))
+    - Tags: [[orange]] 
+    - Note: meditation
+- which can be broken down into even simpler problems, ([Location 970](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=970))
+    - Tags: [[pink]] 
+- until we reach the level of ultimate simplicity. ([Location 970](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=970))
+- In the early heady days, some people even said that the fact that neurons were either firing or not firing was an indication that the brain was a binary system, just like any other digital computer. ([Location 975](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=975))
+    - Tags: [[orange]] 
+- Complex intelligent human tasks are recursively decomposable into simple tasks, and that is how we are so intelligent. ([Location 977](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=977))
+    - Tags: [[pink]] 
+- The brain is a digital computer, in all probability a Universal Turing machine. ([Location 980](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=980))
+    - Tags: [[blue]] 
+- To understand human cognitive capacities it is only necessary to discover the programs that human beings are actually implementing when they activate such cognitive capacities as perception, memory, etc. ([Location 981](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=981))
+- But, alas, it is hopelessly mistaken. ([Location 998](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=998))
+    - Tags: [[blue]] 
+- eliminative materialism, the idea that mental states do not exist at all, ([Location 1004](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=1004))
+    - Tags: [[blue]] 
+- anomalous monism, ([Location 1004](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=1004))
+- phlogiston, ([Location 1010](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=1010))
+- eliminative materialism simply is a version of materialism that eliminates mental states altogether. They are shown to be illusions in the way that sunsets and phlogiston are illusions. ([Location 1016](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=1016))
+    - Tags: [[blue]] 
+- According to Nagel, the really difficult part of the mind-body problem is the problem of consciousness. ([Location 1118](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=1118))
+    - Tags: [[blue]] 
+- For any conscious being, there is a what-it-is-like aspect to his existence. ([Location 1125](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=1125))
+- And this is left out of any objective account of consciousness because an objective account cannot explain the subjective character of consciousness. ([Location 1125](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=1125))
+    - Tags: [[orange]] 
+- computation and syntax are observer relative. ([Location 1194](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=1194))
+    - Tags: [[blue]] 
+- For this reason you could not discover that the brain is a digital computer, because computation is not discovered in nature, it is assigned to it. So the question, Is the brain a digital computer? is ill defined. ([Location 1200](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=1200))
+- In philosophy a zombie is a system that behaves just like humans but has no mental life, no consciousness or real intentionality; and this argument claims that zombies are logically possible. ([Location 1209](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=1209))
+    - Tags: [[blue]] 
+- it is conceivable that my body could exist and be exactly as it is, but without my mind, therefore my mind is not identical with my body, or any part of, or any functioning of my body. ([Location 1219](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=1219))
+- Intentional states, like beliefs and desires, represent the world under some aspects and not others. ([Location 1223](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=1223))
+    - Tags: [[blue]] 
+- intentionality essentially involves aspectual shape. ([Location 1236](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=1236))
+- “knowledge argument”) ([Location 1262](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=1262))
+    - Tags: [[blue]] 
+- The real problem with all forms of reductionism, as we will see, is that they are confronted with the question, Are there two phenomena there or only one? In the case of water, there is really only one phenomenon. Water consists entirely of H2O molecules. There are not two different things, water and H2O molecules; there is only one thing, water, consisting entirely of H2O molecules. But when it comes to identifying features of the mind, such as consciousness and intentionality, with features of the brain, such as computational states or neurobiological states, it looks like there have to be two features, because the mental phenomena have a first-person ontology, in the sense that they exist only insofar as they are experienced by some human or animal subject, some “I” that has the experience. And this makes them irreducible to any third-person ontology, any mode of existence that is independent of any experiencing agent. ([Location 1277](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=1277))
+- Calling attention to the difference between the first-person ontology and the third person is really the point of all these arguments against this sort of reductionism. ([Location 1283](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=1283))
+    - Tags: [[blue]] 
+- We have to make a decision. ([Location 1302](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=1302))
+    - Tags: [[orange]] 
+- in the case of pains, we need to distinguish between the actual experience on the one hand and the ([Location 1303](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=1303))
+    - Tags: [[pink]] 
+- neurobiological substrate on the other. ([Location 1304](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=1304))
+    - Tags: [[pink]] 
+- The distinction between syntax and semantics is so important for the rest of the argument of this book ([Location 1319](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=1319))
+    - Tags: [[orange]] 
+- In order that there can be human linguistic communication at all, there has to be a language. ([Location 1320](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=1320))
+    - Tags: [[blue]] 
+- A language consists of symbols, typically words, combined into sentences. ([Location 1321](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=1321))
+- These elements, symbols, words, sentences, are all syntactical. ([Location 1321](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=1321))
+    - Tags: [[orange]] 
+- But language only works if these elements are meaningful—if they carry meaning. ([Location 1322](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=1322))
+    - Tags: [[pink]] 
+- But what is meaning? ([Location 1322](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=1322))
+    - Tags: [[blue]] 
+- It is important in philosophy always to step back and look at the issues from a broader intellectual and historical perspective. ([Location 1345](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=1345))
+    - Tags: [[blue]] 
+- Why are so many philosophers driven to deny certain common-sense claims, such as, that we really do have conscious thoughts and feelings; that we do have real intentional states such as beliefs, hopes, fears, and desires; and that these are caused by processes in the brain and do themselves function causally; ([Location 1346](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=1346))
+- and that they are real intrinsic parts of the real world and as much a part of our biological life as digestion, or growth, or the secretion of bile? ([Location 1348](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=1348))
+    - Tags: [[orange]] 
+- failures of dualism ([Location 1349](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=1349))
+    - Tags: [[pink]] 
+- success of the physical sciences, ([Location 1350](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=1350))
+    - Tags: [[blue]] 
+- give us the impression that, somehow or other, we must be able to give an account of all there is to be said about the real world in completely materialist terms. ([Location 1350](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=1350))
+- The existence of some irreducible mental phenomena does not fit in and seems intellectually repulsive. ([Location 1351](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=1351))
+    - Tags: [[orange]] 
+- The reason that philosophers are worried about pains, and not about thumbs, is that pains, on the common-sense view, have a kind of irreducible private, subjective, qualitative component, and the aim is always to get rid of that. ([Location 1354](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=1354))
+    - Tags: [[blue]] 
+- are we not tacitly conceding dualism when we say that consciousness and intentionality are irreducible? ([Location 1370](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=1370))
+    - Tags: [[blue]] 
+- neither dualism nor materialism is acceptable and yet they are presented to us as the only possibilities. ([Location 1372](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=1372))
+- Materialism is trying to say that the world consists entirely of physical particles in fields of force. ([Location 1374](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=1374))
+    - Tags: [[orange]] 
+- Dualism is trying to say that there are irreducible and ineliminable mental features to the world, consciousness and intentionality, in particular. ([Location 1374](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=1374))
+    - Tags: [[pink]] 
+- we think all events must be causally determined, but we experience freedom. ([Location 1385](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=1385))
+    - Tags: [[blue]] 
+- (There is, by the way, a strange reluctance to admit that our conscious states are caused by brain processes. Some authors fudge and say that the brain “gives rise” to consciousness;1 others say that the brain is the “seat” of consciousness.2 One who grants that consciousness is dependent on the brain says the relation is “not happily construed as causal.”3) ([Location 1441](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=1441))
+    - Tags: [[blue]] 
+- “biological naturalism,” ([Location 1459](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=1459))
+- Consciousness is a system-level, biological feature in much the same way that digestion, or growth, or the secretion of bile are system level, biological features. ([Location 1488](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=1488))
+    - Tags: [[blue]] 
+- The problem we face with the terminology is that the terms have traditionally been defined so as to be mutually exclusive. ([Location 1495](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=1495))
+- This is one of the most important messages of this book. Once you revise the traditional categories to fit the facts, there is no problem in recognizing that the mental qua mental is physical qua physical. ([Location 1524](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=1524))
+    - Tags: [[orange]] 
+- Consciousness is entirely causally explained by neuronal behavior but it is not thereby shown to be nothing but neuronal behavior. ([Location 1540](https://readwise.io/to_kindle?action=open&asin=B001O1O6GI&location=1540))
+    - Tags: [[pink]] 

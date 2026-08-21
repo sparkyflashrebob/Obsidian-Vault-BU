@@ -1,0 +1,1052 @@
+# Hidden Dimensions
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/5163TmW4SGL._SL200_.jpg)
+
+## Metadata
+- Author: [[B. Alan Wallace]]
+- Full Title: Hidden Dimensions
+- Category: #books
+
+## Highlights
+- Particles, such as electrons and photons, have no definite location and in fact do not even exist as discrete entities unless and until they are measured—they exist only as mathematical abstractions. ([Location 72](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=72))
+- causally interact. ([Location 74](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=74))
+- Then these intangible quantum phenomena turn into the objectively real, elementary building blocks of the physical universe. No one yet knows how this transition from mathematical abstraction to concrete reality takes place, but in some way the observer—the person who designs and conducts experiments—plays a key role in bringing the quantum world to life. ([Location 74](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=74))
+- According to the equations of the new field of quantum cosmology, without reference to an observer, the universe as a whole is frozen into immobility. ([Location 78](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=78))
+- dividing the world into two domains: ([Location 79](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=79))
+- a subjective observer with his clock and other measuring devices ([Location 79](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=79))
+- rest of the objective universe. ([Location 80](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=80))
+- the notion of an observer necessarily implies the presence of consciousness, ([Location 81](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=81))
+- subjectively experienced mental phenomena lack any physical characteristics and cannot be detected with any of the physical instruments of technology, even though many specific brain functions have been identified that causally contribute to the generation of mental processes. ([Location 91](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=91))
+- Mental phenomena remain as much an enigma to cognitive scientists as the observer is to modern physicists. ([Location 96](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=96))
+- A central hypothesis of this book is that the measurement problem in quantum mechanics, the time problem in quantum cosmology, and the hard problem in brain science are all profoundly related. ([Location 97](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=97))
+- Scientists’ insistence that consciousness and all other mental phenomena must be physical is rooted in a naturalistic metaphysical framework, which maintains that only physical processes exert causal influences in nature. ([Location 104](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=104))
+- no one really seems to know what is meant by “physical”! ([Location 106](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=106))
+- A central premise of this theory is that quantum physics, despite mainstream assumptions to the contrary, has great relevance to understanding mind-brain interactions and the role of the mind in the universe. ([Location 112](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=112))
+- special theory of ontological relativity, ([Location 119](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=119))
+- proposing that mental phenomena do not emerge from the brain, but rather all mental and physical processes arise from another dimension of reality that exists prior to the bifurcation of mind and matter. ([Location 119](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=119))
+- participatory nature of reality, ([Location 131](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=131))
+- participatory universe as a self-excited circuit. ([Location 133](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=133))
+- Middle Way philosophy, ([Location 134](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=134))
+- frozen time, ([Location 141](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=141))
+- role of the observer again appears to be fundamental to the evolving universe. ([Location 141](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=141))
+- Great Perfection, ([Location 143](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=143))
+- A true revolution in the mind sciences has been delayed by an enforced conformity to the unnatural ideological and methodological constraints imposed by the assumptions of scientific materialism, particularly neo-Darwinism. ([Location 240](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=240))
+    - Tags: [[blue]] 
+- One such assumption is that mental phenomena are equivalent to neurophysiological processes in the brain, an empirically ([Location 242](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=242))
+- uncorroborated belief. ([Location 243](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=243))
+- Those who assert that the mind is a nonphysical phenomenon that may exist independently of the brain have never been able to provide any supporting empirical evidence by using the methods of mainstream scientific inquiry. ([Location 300](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=300))
+- Physicists today do not know of any phenomenon in which one subject is influenced by another without exerting an influence back.7 Nature, it turns out, abhors idols. ([Location 327](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=327))
+    - Tags: [[orange]] 
+- Since the scientific revolution, theologians have primarily emphasized belief as a means to understand the transcendent realities revealed in their scriptures. ([Location 335](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=335))
+    - Tags: [[orange]] 
+- Philosophers have primarily relied on reason to unveil the secrets of the mind and its relation to the objective world of science. ([Location 336](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=336))
+    - Tags: [[pink]] 
+- But scientists have let empirical evidence be the final arbiter of their theories. ([Location 337](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=337))
+    - Tags: [[blue]] 
+- If a theory can’t be tested empirically, theologians and philosophers may try to evaluate it, but it doesn’t qualify as a scientific theory. ([Location 338](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=338))
+- The history of science has shown that physical laws are discovered by observing physical phenomena, ([Location 339](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=339))
+    - Tags: [[blue]] 
+- biological laws are discovered by observing biological phenomena. ([Location 340](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=340))
+- It should follow that psychological laws are discovered by observing mental phenomena, ([Location 340](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=340))
+    - Tags: [[orange]] 
+- spiritual laws are discovered by observing spiritual phenomena. ([Location 341](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=341))
+    - Tags: [[pink]] 
+- materialist hierarchy ([Location 345](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=345))
+    - Tags: [[blue]] 
+- After 400 years of breathtaking scientific progress, there is still no scientific definition of consciousness; ([Location 369](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=369))
+    - Tags: [[blue]] 
+- Likewise, the first revolution in the cognitive sciences will relativize the human mind by displacing it from a physical function of the brain to an emergent process arising from a dimension of reality more fundamental than the duality of mind and matter. ([Location 386](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=386))
+    - Tags: [[blue]] 
+- But if the scientific mind is a part of nature and doesn’t stand outside it, we should consider the fact that in the whole of nature, there is always a reciprocal effect in any coupling of two or more phenomena.11 ([Location 392](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=392))
+- Traditionally, a scientific truth must fulfill two criteria: be free of subjective human biases and strongly accord with the natural world that exists outside our minds. ([Location 405](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=405))
+    - Tags: [[blue]] 
+- Scientists today are faced with the unique challenge of evaluating theories regarding mental phenomena, which exist within our minds, in relation to physical phenomena outside our minds. ([Location 416](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=416))
+- According to one common interpretation, naturalism is a view of reality that excludes the possibility of nonphysical agents, forces, or causes. ([Location 444](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=444))
+    - Tags: [[blue]] 
+- many research physicists are finding that the more deeply they examine the nature of matter, the more elusive, mysterious, and mathematical it appears to be.3 ([Location 457](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=457))
+- Early explanations for the propagation of energy in the form of light, electricity, and magnetism required the existence of a luminiferous ether, a physical medium permeating space that would ripple when waves of energy passed through it. But in 1887, the existence of such a mechanical medium was disproved by the renowned Michelson-Morley experiment, which was meticulously designed to detect the luminiferous ether and came up with negative results. Since then, the very notion of electromagnetic fields that are propagated through space has been reduced to a set of mathematical abstractions. Although such fields exhibit wave properties, there is no material stuff in objective space that mechanically ripples, like waves in a pool of water. Further developments in twentieth-century physics have refined the general concept of the nature of energy to a mathematical principle, not a description of a mechanism or anything concrete. No one today really knows what energy is.4 ([Location 463](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=463))
+    - Tags: [[orange]] 
+- all configurations of mass-energy are regarded as oscillations of abstract, mathematical fields in space, ([Location 472](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=472))
+    - Tags: [[blue]] 
+- problem of objectivity ([Location 516](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=516))
+- “entanglement,” ([Location 517](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=517))
+    - Tags: [[orange]] 
+- inseparable whole. ([Location 518](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=518))
+    - Tags: [[pink]] 
+- introspection ([Location 542](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=542))
+    - Tags: [[blue]] 
+- because it is the only means we currently have of observing subjective events. ([Location 543](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=543))
+    - Tags: [[blue]] 
+- neural correlates of consciousness (NCC).19 ([Location 560](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=560))
+- At present there is no empirical evidence that any neural process is equivalent to any mental process, ([Location 580](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=580))
+    - Tags: [[orange]] 
+- mysterious dual nature—objective and subjective—and ([Location 595](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=595))
+- Contemporary physics presents at least three classes of phenomena that are causally effective in the natural world: mass-energy, space-time, and abstract, mathematical quantities, such as principles of symmetry. ([Location 613](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=613))
+- decoherence. ([Location 692](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=692))
+    - Tags: [[orange]] 
+- The Heisenberg Uncertainty Principle suggests that violations of the principle of energy conservation can occur due to spontaneous, unpredictable fluctuations of the vacuum that is space. ([Location 822](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=822))
+    - Tags: [[orange]] 
+- When electromagnetic waves pass through space, they produce oscillations at every possible frequency, and when you add up all those ceaseless fluctuations, you get a background sea of light whose total energy is enormous. ([Location 825](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=825))
+    - Tags: [[pink]] 
+- Since the zero-point field is everywhere, we are effectively blind to it, while the world of light that we do see is all the rest of the light beyond the zero-point field. ([Location 828](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=828))
+    - Tags: [[blue]] 
+- A theory that will be developed in the following chapters suggests that the vacuum may be not only filled with zero-point energy, which can be objectively measured with techniques of physics, but also permeated with consciousness, which can be subjectively experienced with techniques of introspection. ([Location 830](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=830))
+- “nonphysical” properties in the universe, such as “informational states.” ([Location 834](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=834))
+    - Tags: [[orange]] 
+- One testable hypothesis is that with training, one may observe mental phenomena more and more “objectively,” so as to exert less and less influence on what is being observed. ([Location 903](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=903))
+    - Tags: [[blue]] 
+- But twentieth-century philosophers have continued to raise serious questions about the possibility, let alone the efficacy, of developing a science of the mind based on the direct observation of mental phenomena. ([Location 911](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=911))
+- What is required is relentless self-honesty, which may be cultivated with intensive, prolonged training in introspection. ([Location 937](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=937))
+    - Tags: [[orange]] 
+- Psychologists have a lot of evidence to show that perception is a function of expectation, and introspective perception is clearly not immune to such influences.8 ([Location 940](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=940))
+    - Tags: [[pink]] 
+- Subtle distinctions must also be made, for example, between imagining that one desires something and actually desiring it. ([Location 946](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=946))
+    - Tags: [[orange]] 
+- the fact that mental phenomena appear to bear no distinctively physical attributes at all. ([Location 950](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=950))
+- Specifically, the deeply habituated tendencies of mental agitation and dullness need to be overcome through the development of attentional stability and vividness. These skills may be strengthened in a separate set of mental exercises11 or in the very process of learning how to observe the mind. ([Location 974](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=974))
+    - Tags: [[blue]] 
+- As the faculty of mental perception is refined, one may begin probing the nature of the thoughts, images, emotions, and desires that arise in each moment. Specific questions may guide these observations, such as:   ■  Are any of these mental events, including one’s awareness of them, static, or are they constantly in a state of flux? ■  Are any mental phenomena inherently satisfying or unsatisfying, or do these qualities arise only relative to one’s attitudes and desires? ■  Is the space of the mind, any of its contents, or the awareness of them inherently “I” or “mine,” or is one’s sense of personal identity and possession of one’s mind purely a conceptual projection? ([Location 991](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=991))
+- Freud’s concern about the obscuring and distorting influences of unconscious mental impulses has long been a major concern among Tibetan contemplatives. The remedy they have settled on is relentless, passive but vigilant observation of whatever arises in the space of the mind, without being carried away by or identifying with it. ([Location 1017](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1017))
+    - Tags: [[orange]] 
+- It is imperative not to respond to discursive thoughts, mental images, emotions, and desires with either aversion or craving. Rather, one must simply let them arise and pass of their own accord, without intervening or attempting to suppress or augment them. Metaphorically, one must rest in a “space of awareness” that is larger than the “space of one’s own psyche.” ([Location 1019](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1019))
+    - Tags: [[pink]] 
+- Whatever arises within the psyche is… ([Location 1022](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1022))
+    - Tags: [[blue]] 
+- and with discerning intelligence, but without modifying, censoring, or… ([Location 1022](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1022))
+    - Tags: [[blue]] 
+- This is an extraordinarily demanding endeavor, and it is pursued in close collaboration with an experienced and accomplished mentor… ([Location 1023](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1023))
+- Buddhist contemplatives throughout Asia have taken special interest in the possible differences between the way mental processes appear and the way they exist, a concern raised more recently in Western research by Gilbert Ryle.16 Specifically, they have found that although mental states and processes often appear to be relatively static, upon close examination, all the immediate contents of the… ([Location 1024](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1024))
+    - Tags: [[orange]] 
+- A relatively homogenous continuum of a mental state, such as depression, may endure for seconds or even minutes, but that stream of emotion consists of discrete… ([Location 1028](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1028))
+    - Tags: [[pink]] 
+- There is nothing static in the human psyche, though habits may become deeply ingrained over… ([Location 1030](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1030))
+    - Tags: [[blue]] 
+- A second discrepancy between appearances and reality is that certain mental states, such as joy and elation, may appear to be intrinsically satisfying, but upon more… ([Location 1031](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1031))
+- No mental state that arises from moment to moment in dependence upon sensory or intellectual stimuli… ([Location 1032](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1032))
+    - Tags: [[orange]] 
+- Every affective state is experienced as pleasant, unpleasant, or neutral only in relation to a… ([Location 1033](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1033))
+    - Tags: [[pink]] 
+- When these affective states of mind are passively observed from the wider perspective of the space of awareness, without identifying with them, they have no absolute,… ([Location 1034](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1034))
+    - Tags: [[blue]] 
+- A third disparity between mental appearances… ([Location 1036](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1036))
+- pertains to the fact that thoughts, emotions, and other mental phenomena seem to have an… ([Location 1036](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1036))
+- When strong identification with these processes occurs, one may feel that one’s very identity has become fused with them, and momentarily have the… ([Location 1037](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1037))
+    - Tags: [[orange]] 
+- But with some skill in observing the contents of the mind, one finds that thoughts and mental images arise by themselves, with no voluntary intervention… ([Location 1038](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1038))
+    - Tags: [[pink]] 
+- Psychophysiological causes and conditions come together to generate these mental events, but there is no evidence that a separate “I”… ([Location 1040](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1040))
+    - Tags: [[blue]] 
+- To be sure, some thoughts and desires do appear to be under the control of an autonomous self, but as expertise is gained in this practice, this illusion fades away, and everything that arises in the mind is seen to be a natural event, dependent upon… ([Location 1041](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1041))
+    - Tags: [[orange]] 
+- all usual kinds of experience, both sensory and introspective, are structured by memories, language, beliefs, and expectations, which cause us to assimilate even… ([Location 1043](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1043))
+    - Tags: [[pink]] 
+- One of the names for the meditative practice I am describing here is “settling the mind in its natural state,” which implies a radical deconstruction of the ways we habitually… ([Location 1045](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1045))
+    - Tags: [[blue]] 
+- The Buddhist hypothesis in this regard is that it is possible to so profoundly settle the mind that virtually all thoughts and other mental constructs eventually become dormant. The result is… ([Location 1046](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1046))
+- On the contrary, it is a luminous, discerningly intelligent awareness in which the physical senses are withdrawn and the normal… ([Location 1048](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1048))
+    - Tags: [[orange]] 
+- substrate… ([Location 1051](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1051))
+    - Tags: [[blue]] 
+- bliss, luminosity, and… ([Location 1052](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1052))
+    - Tags: [[blue]] 
+- the subjective substrate consciousness is nondually aware of the objective substrate, ([Location 1067](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1067))
+    - Tags: [[blue]] 
+- The mind may now be likened to a luminously transparent snow globe in which all the normally agitated particles of mental activities have come to rest. ([Location 1068](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1068))
+- For the normal mind, enmeshed in a myriad of thoughts and emotions, this zero-point field—substrate—of consciousness is unobservable, for we see things by way of contrast. ([Location 1075](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1075))
+    - Tags: [[orange]] 
+- This unstable equilibrium is perturbed by the activation of the conceptual mind, which creates the bifurcations of subject and object, mind and matter, which may be regarded as broken symmetries. ([Location 1081](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1081))
+    - Tags: [[pink]] 
+- as a result of continuous training in developing increasing stages of mental and physical relaxation, together with attentional stability and vividness, it is said that one may directly vividly ascertain this relative ground state of consciousness and observe how mental and sensory phenomena emerge from it in dependence upon a wide range of psychological and physical influences. ([Location 1084](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1084))
+    - Tags: [[blue]] 
+- Likewise, consciously exposing the deep space of the mind to thousands of hours of observation reveals normally hidden dimensions that are more chaotic, where the order and structure of the human psyche are just beginning to emerge. Strata upon strata of mental phenomena previously concealed within the subconscious are made manifest, until finally the mind comes to rest in its natural state, from which both conscious and normally subconscious events arise. This is an exercise in true depth psychology, in which one observes deep core samples of the subconscious mind, penetrating many layers of accumulated conceptual structuring. ([Location 1095](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1095))
+- The substrate consciousness is not inherently human, for this is also the ground state of consciousness of all other sentient animals. ([Location 1106](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1106))
+    - Tags: [[orange]] 
+- illusory nature of perceptual appearances. ([Location 1130](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1130))
+    - Tags: [[blue]] 
+- The visual image of the color red, for instance, doesn’t have any mass or atomic structure. ([Location 1131](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1131))
+- There are clearly brain functions that contribute to the generation of red images, but no evidence that those neural correlates of perception are actually identical to those images. ([Location 1133](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1133))
+    - Tags: [[orange]] 
+- So there is no compelling reason to believe that the images are located inside our heads. ([Location 1134](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1134))
+    - Tags: [[pink]] 
+- Since visual images, or qualia, are not located either outside or inside our heads, they don’t seem to have any spatial location at all. ([Location 1135](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1135))
+    - Tags: [[blue]] 
+- The same is true of all other kinds of sensory qualia, including sounds, smells, tastes, and tactile sensations. ([Location 1136](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1136))
+- So there are no stars or galaxies located in those regions. ([Location 1140](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1140))
+- We also experience qualia introspectively, without direct dependence upon any of our five physical senses. ([Location 1141](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1141))
+    - Tags: [[orange]] 
+- When we direct our attention “inward,” we can observe discursive thoughts arising and passing away, and while asleep we can perceive dreamscapes and experience emotions, desires, and other mental processes much as we do during waking hours. ([Location 1142](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1142))
+    - Tags: [[pink]] 
+- While some mental phenomena falsely appear to exist inside our heads, others deceptively seem to exist in the outside world. ([Location 1145](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1145))
+    - Tags: [[blue]] 
+- In short, everything we observe extrospectively and introspectively consists of qualia, or appearances, and they are illusory in the sense that they seem to exist either in the external world or inside our heads, whereas in reality there is no compelling evidence that they are located anywhere in physical space. ([Location 1149](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1149))
+- But the information that we think is inside a brain or a computer actually exists in the “eye of the beholder,” which has no location in physical space. Information is not intrinsic to any computational system. ([Location 1154](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1154))
+    - Tags: [[orange]] 
+- All our immediate experience of the outer world and our minds consists of perceptual representations, none of which has physical qualities, and we commonly assume that those appearances correspond to real, independent objects in physical space. ([Location 1158](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1158))
+    - Tags: [[pink]] 
+- But sensory appearances, although dependent on physical processes, have no physical attributes themselves, whereas the things and events that make up the objective world have only physical attributes. ([Location 1161](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1161))
+    - Tags: [[blue]] 
+- Moreover, sensory appearances are perceptible, but objectively independent physical objects are invisible to our senses. ([Location 1163](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1163))
+- perception is largely a function of expectation, ([Location 1168](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1168))
+    - Tags: [[orange]] 
+- This idea goes back to Democritus, who declared that the objective world consists of atoms moving in space. ([Location 1174](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1174))
+- Pythagoras and his followers proposed an alternative view, maintaining that all things are numbers, which they identified with geometrical forms. ([Location 1175](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1175))
+    - Tags: [[pink]] 
+- Quantum theory is not about objective physical reality, but about measurements of elementary particles.6 ([Location 1191](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1191))
+- The laws of nature and their outcomes are expressed in the language of mathematics, and even the very structure of the universe is determined by unchanging qualities that can be encoded in a list of numbers called the “constants of nature.” These include things such as the masses of the smallest subatomic particles, the strengths of the forces of nature, and the speed of light in a vacuum. The fabric of the universe and the pivotal structure of universal laws are seen to emerge from standards and invariants that transcend human experience.7 ([Location 1196](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1196))
+- It is both astonishing and mysterious that mathematical theories can provide such accurate descriptions of the universe. ([Location 1201](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1201))
+    - Tags: [[orange]] 
+- To many physicists, this strongly implies the existence of a dimension of reality that transcends appearances of the physical world, and the ultimate simplicity of this mathematical reality enables scientists to investigate the world and have faith that their resulting understanding can converge on the truth. ([Location 1201](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1201))
+    - Tags: [[pink]] 
+- mental and material domains might be epistemologically distinct, ([Location 1207](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1207))
+    - Tags: [[blue]] 
+- He founded this idea on the assumption that the perceptual world, with all its categories of mind and matter, emerges from an underlying unity that transcends the physical senses. And he believed that the existence of this archetypal realm was essential to explain the causal connections between the psyche and the body.10 ([Location 1209](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1209))
+- unus mundus. ([Location 1216](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1216))
+    - Tags: [[orange]] 
+- In this model, mental processes are psychic manifestations of archetypes and the physical laws are physical manifestations of archetypes, and he speculated that there should be natural laws, with an inner correspondence, governing both emergent domains. ([Location 1216](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1216))
+    - Tags: [[pink]] 
+- In our perceptual world, there seem to be a “mental pole” and a “physical pole,” but the deeper reality is something beyond either.12 ([Location 1226](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1226))
+- Apart from the hypothesis that the world is constructed on a mathematical basis, it is hard to explain why the behavior of matter can be accurately described by equations of the kind encountered in present-day mathematical physics. ([Location 1260](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1260))
+    - Tags: [[orange]] 
+- special theory of ontological relativity, ([Location 1285](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1285))
+    - Tags: [[blue]] 
+- It is remarkable, in retrospect, that after 400 years of progress in physics, we still don’t know what matter or energy is. ([Location 1314](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1314))
+- There is no way to separate lifestyle from meditative training, ([Location 1334](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1334))
+    - Tags: [[blue]] 
+- It is common for novices to try too hard, and it has been found that excessive effort agitates the mind and may result in physical problems as well. ([Location 1338](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1338))
+- A common metaphor in the Buddhist tradition is to tune the attention as one would string a lute—not too tight and not too loose—for too much effort results in nervous imbalances, and too little leads to dullness and lethargy. ([Location 1339](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1339))
+    - Tags: [[orange]] 
+- In particular, confidence must be balanced with understanding, and effort must be balanced with concentration. ([Location 1340](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1340))
+    - Tags: [[pink]] 
+- Such mental balance is to be achieved by preventing agitation due to excess confidence, effort, or understanding, and laziness due to excess concentration. ([Location 1341](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1341))
+    - Tags: [[blue]] 
+- For this reason, mindfulness is necessary at all times, for it protects the mind and keeps the object of meditation from being lost.2 ([Location 1342](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1342))
+- The essence of ethical discipline is twofold: avoiding any behavior of body, speech, and mind that is injurious to oneself or others, and devoting oneself to conduct that serves the well-being of oneself and others. ([Location 1347](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1347))
+    - Tags: [[blue]] 
+- To give a slightly more elaborate account of the preliminary training required as a foundation for such meditative practice, traditional Buddhist sources cite four elements: ethical discipline, restraint of the sense faculties, mindfulness and introspection, and contentment.4 ([Location 1348](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1348))
+- Basic requisites also include a suitable diet, clothing, and, when needed, medication. ([Location 1351](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1351))
+    - Tags: [[orange]] 
+- Much as research in physics, biology, and psychology requires a well-designed laboratory, sophisticated, meditative research into consciousness requires a conducive environment. According to traditional Buddhist sources, an appropriate facility, or consciousness research laboratory, for this training should have five qualities:5 be easily accessible, so that trainees can acquire food, clothing, and medicine; be free from danger caused by humans and animals; be aesthetically agreeable and healthy; be inhabited by good companions who are ethically disciplined and like-minded; and be serene and quiet, with little commotion by people during the daytime and little noise at night. ([Location 1351](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1351))
+    - Tags: [[pink]] 
+- As German physicist Carl Friedrich von Weizsäcker comments, there is a straight line from the physics of Bacon and Galileo to the atom bomb.27 And in his 1946 lecture “The History of Nature,” he argued that the scientific and technological world of modern times is the result of man’s venturing knowledge without love.28 This approach to scientific inquiry, largely devoid of ethics and altruism, has played a major role in the tremendous advances in science and technology made during the twentieth century, changing human society and our natural environment in countless ways. But this century has also produced the greatest inhumanity of man against man and the greatest degradation of the natural environment, including the extinction of countless species of plant and animal life, in human history. ([Location 1516](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1516))
+- We must grow in wisdom and compassion or face the real possibility of extinction. ([Location 1526](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1526))
+    - Tags: [[orange]] 
+- Psychologists have long known that ordinary perceptions are strongly influenced by memories and expectations, which enable us to recognize even novel objects and events within a familiar conceptual framework. ([Location 1560](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1560))
+- everything that we apprehend, whether perceptually or conceptually, is devoid of its own inherent nature, or identity, independent of the means by which it is known. ([Location 1579](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1579))
+    - Tags: [[orange]] 
+- The only invariant across all these cognitive frames of reference is that nothing exists by its own nature, independent of all means of detecting it or conceiving of it. In other words, there is no way to separate the universe we know from the information we have about it. ([Location 1593](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1593))
+    - Tags: [[pink]] 
+- holographic principle. ([Location 1611](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1611))
+    - Tags: [[blue]] 
+- Information is no longer a purely objective entity but includes the subject as well. ([Location 1616](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1616))
+- According to this theory, the universe is fundamentally an information-processing system from which the appearance of matter emerges at a higher level of reality. ([Location 1622](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1622))
+- A growing number of leading physicists, including Carl Friedrich von Weizsäcker, have come to characterize all physical phenomena in terms of pure information,8 and some go so far as to claim that the universe is a gigantic computer. ([Location 1623](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1623))
+    - Tags: [[orange]] 
+- Theists may infer from this the existence of a cosmic consciousness, possibly of the kind envisioned by Spinoza and endorsed by Einstein,9 which pervades all things, is the essence and necessary cause of all things, and comprehends all things.10 ([Location 1636](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1636))
+    - Tags: [[orange]] 
+- natural science is a science of information, not a science of a world that exists prior to and independent of information. ([Location 1665](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1665))
+    - Tags: [[blue]] 
+- So the distinction between information, or knowledge, and reality is meaningless. ([Location 1666](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1666))
+- The collapse of this distinction portends an unprecedented unification of psychology and physics. ([Location 1667](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1667))
+    - Tags: [[orange]] 
+- The most striking and mysterious feature of quantum physics is the necessity to draw a line between the observer-participant and the system under investigation. ([Location 1694](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1694))
+    - Tags: [[blue]] 
+- participatory universe. ([Location 1713](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1713))
+    - Tags: [[orange]] 
+- what if there is no environment with which quantum phenomena can interact? ([Location 1718](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1718))
+    - Tags: [[pink]] 
+- The only way that would be possible is if the quantum system under investigation is the whole universe. ([Location 1719](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1719))
+    - Tags: [[blue]] 
+- The remarkable thing about the delayed-choice experiment, which has now been conducted in laboratories, is that the light takes on its qualities at a time before the decision is made. ([Location 1729](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1729))
+- In this vision of quantum cosmology, the universe is a self-excited circuit. ([Location 1739](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1739))
+- Wheeler’s notion of a participatory universe has been linked to the anthropic principle, which asserts that the universe is the way it is because we are here.24 ([Location 1747](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1747))
+- only the universe as we conceive of it as existing in the past, present, and future will vanish. ([Location 1752](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1752))
+    - Tags: [[orange]] 
+- In this sense, conscious observers cocreate the worlds in which they dwell.25 ([Location 1754](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1754))
+    - Tags: [[pink]] 
+- The observer subjectively perceives only one classical world, namely that of everyday experience. ([Location 1787](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1787))
+    - Tags: [[blue]] 
+- But in reality, in all the unseen alternative worlds it is as if replicas of the observer exist, whose experiences provide each of them with a picture of precisely the world they believe they inhabit. ([Location 1788](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1788))
+- the consciousness as a whole splits between the alternatives but the individual consciousness subjectively chooses (selects) one alternative.”32 ([Location 1795](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1795))
+    - Tags: [[orange]] 
+- Rather, the observer’s brain and the observed system are synchronously entangled. ([Location 1798](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1798))
+    - Tags: [[pink]] 
+- “Entanglement” is a term used in quantum physics to describe the nonlocal connectedness of two or more phenomena, which exist as one system even if they are separated by a very large distance. ([Location 1799](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1799))
+    - Tags: [[orange]] 
+- This classical world is an illusion, for it exists only relative to the mind of the observer. ([Location 1805](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1805))
+- Unlike inanimate matter, every conscious living being perceives the quantum world, with its characteristic nonlocality, relative to its own cognitive frame of reference. Each of these individual classical projections is “locally predictable,” and in each one, a conscious being realizes a world of lived experience. And each such classical world exists only relative to such a being or community of beings. ([Location 1808](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1808))
+- “If, for instance, a close relative dies in one of these realities and remains alive in another, the conscious subject is highly motivated to select the latter alternative. If he believes in this case that he is able to affect the selection, it is not inconceivable that he will actually increase the probability to some extent that he will witness precisely the latter alternative.”33 ([Location 1814](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1814))
+    - Tags: [[blue]] 
+- This hypothesis raises the possibility that individuals may alter the course of events by their choices, aspirations, faith, and prayers. ([Location 1818](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1818))
+- “placebo effect” ([Location 1819](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1819))
+    - Tags: [[orange]] 
+- “miracles” ([Location 1820](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1820))
+    - Tags: [[pink]] 
+- Even if such a skeptic were to personally witness a “miracle,” there would still be room for doubt, but the likelihood of such an observation would be decreased by the fact that skeptics prefer to live in a world where such paranormal events are impossible. ([Location 1823](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1823))
+- But those who believe in this hypothesis have ample opportunities for tapping into multiple worlds where such “probabilistic wonders” do occur. ([Location 1827](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1827))
+    - Tags: [[blue]] 
+- “first-person science,” ([Location 1831](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1831))
+- We step with our own person back into the part of an onlooker who does not belong to the world, which by this very process becomes an objective world.”4 ([Location 1872](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1872))
+- Given the radically different methods of inquiry used in physics and Buddhism, it is remarkable that they both present visions of the natural world in which all phenomena manifest as quanta, or discrete units. ([Location 1874](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1874))
+    - Tags: [[orange]] 
+- Energy is always a property of something else, and it has no existence apart from matter. They differ only in terms of the units in which they are measured. ([Location 1879](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1879))
+    - Tags: [[pink]] 
+- According to Buddhist cosmogony, our universe evolves and devolves in an oscillating cycle, compatible with the scientific idea of multiple big bangs. ([Location 1885](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1885))
+    - Tags: [[blue]] 
+- In the evolution of the universe, motility, or kinetic energy, emerges from space; heat, or thermal energy, emerges from motility; fluidity emerges from heat; and solids emerge from fluids. ([Location 1886](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1886))
+    - Tags: [[blue]] 
+- One fundamental difference between scientific and Buddhist views of the universe is that science traditionally seeks to describe the physical world as it exists independent of any observer, whereas Buddhism is concerned only with the world of experience (loka), which is inseparable from conscious subjects. The importance of this distinction cannot be overemphasized. ([Location 1890](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1890))
+- chronon. ([Location 1894](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1894))
+    - Tags: [[orange]] 
+- Inside a black hole, space is completely transmuted into time, which is to say it enters into time but doesn’t actually become time. Likewise, time enters into space, but it doesn’t become space. ([Location 1899](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1899))
+    - Tags: [[pink]] 
+- Quiescence is to contemplative discoveries what the telescope is to astronomical discoveries, and any meditator who has not yet achieved it is technically regarded as a novice.12 ([Location 1925](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1925))
+    - Tags: [[orange]] 
+- The previously described practice of settling the mind in its natural state culminates in quiescence, initially gaining access to the form realm by way of the substrate consciousness. Once one has achieved this exceptional level of attentional balance, one should be able to effortlessly remain there, with the physical senses totally withdrawn, for at least four hours, with unwavering mindfulness and an extraordinary degree of vividness. ([Location 1927](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1927))
+- In addition to remarkable state effects, quiescence also yields a number of trait effects that carry over into daily life while not formally engaged in meditation.13 Generally speaking, mental imbalances such as craving and anger arise only infrequently, and when they do occur they are feeble and of brief duration. We experience an unprecedented degree of mental and physical suppleness and fitness, and the qualities of attentional stability and vividness persist even in sleep. Our attention remains highly focused throughout all activities, and there is such high resolution and vividness in our awareness that we feel as if we could count the individual atoms of the material objects in our environment. Moreover, visual experience of all kinds of physical phenomena may be radically transformed, so that we perceive them simply as matrices of luminous forms rather than as concrete objects.14 ([Location 1930](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1930))
+    - Tags: [[orange]] 
+- The Buddhist concept of mindfulness, in contrast, has a strong ethical component, and its primary characteristics are unwavering, penetrating, discerning attentiveness to the object under examination.18 ([Location 1952](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1952))
+    - Tags: [[pink]] 
+- “In the seen there is only the seen; in the heard, there is only the heard; in the sensed, there is only the sensed; in the cognized, there is only the cognized.”22 ([Location 1971](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1971))
+    - Tags: [[orange]] 
+- We may also continue this mindful examination of phenomena during the dream state so as to more deeply understand the similarities and differences between waking and dreaming realities. ([Location 1982](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1982))
+- dream journaling ([Location 1985](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1985))
+    - Tags: [[orange]] 
+- focus on the dreams that occur in the early morning, when they are especially clear.25 ([Location 1986](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1986))
+    - Tags: [[pink]] 
+- In this way, we may continue in the practice of contemplative insight during all states of consciousness, while awake, while dreaming, and in dreamless sleep. ([Location 1994](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1994))
+    - Tags: [[blue]] 
+- learning to maintain lucidity during dreams, ([Location 1996](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1996))
+    - Tags: [[blue]] 
+- regulating the qualities and quantities of… ([Location 1997](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1997))
+- overcoming fear by recognizing the illusory… ([Location 1997](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1997))
+    - Tags: [[orange]] 
+- meditating on the actual nature of dream… ([Location 1997](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1997))
+    - Tags: [[pink]] 
+- In the second phase, we begin to explore the nature of dream reality by deliberately altering… ([Location 2001](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2001))
+    - Tags: [[blue]] 
+- In these ways we discover whether there is anything in the dream, “subjectively” or “objectively,” that is impervious to our will… ([Location 2003](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2003))
+- With the clear recognition that everything in a dream consists of mere appearances, no more substantial than a rainbow, we… ([Location 2008](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2008))
+    - Tags: [[blue]] 
+- Our own form in the dream is an illusion, as is the water or fire; even if we perish in the dream, that too is an illusion. With that clear recognition, we cannot be harmed, so there is no need to attempt to… ([Location 2009](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2009))
+- The fourth practice of dream yoga entails thoroughly fathoming the illusory nature of everything in the… ([Location 2012](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2012))
+    - Tags: [[blue]] 
+- we may allow a dreamscape to dissolve back into the empty… ([Location 2016](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2016))
+- This can easily be done simply by being still… ([Location 2016](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2016))
+    - Tags: [[orange]] 
+- Ceasing to interact with dream phenomena and suspending all conceptual designations upon dream events… ([Location 2017](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2017))
+    - Tags: [[pink]] 
+- All that remains is a vacuous space of awareness, devoid of… ([Location 2018](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2018))
+    - Tags: [[blue]] 
+- This is the substrate, out of which all dream phenomena appear… ([Location 2018](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2018))
+- The primary difference between them is that dream phenomena are not directly dependent upon physical influences from the surrounding… ([Location 2022](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2022))
+    - Tags: [[orange]] 
+- So the daytime practice of dream yoga has two… ([Location 2025](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2025))
+    - Tags: [[pink]] 
+- recognizing how all phenomena in the waking state are momentary and exist only relative to perceptual… ([Location 2025](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2025))
+    - Tags: [[blue]] 
+- recognizing that even though all phenomena are empty of their own inherent nature, they still appear and causally interact… ([Location 2026](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2026))
+- Physical phenomena, for instance, are relative and illusory, yet they still arise and interact… ([Location 2028](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2028))
+    - Tags: [[orange]] 
+- And even though there is no inherently existing self, or ego, people still engage in actions and experience the results of… ([Location 2029](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2029))
+    - Tags: [[pink]] 
+- In science, the laws of nature are not simply a matter of personal preference, and in Buddhism, the laws of karma are invariant across… ([Location 2030](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2030))
+    - Tags: [[blue]] 
+- “… ([Location 2036](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2036))
+- “to… ([Location 2037](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2037))
+- “to create… ([Location 2037](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2037))
+- “… ([Location 2040](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2040))
+    - Tags: [[blue]] 
+- (srid… ([Location 2040](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2040))
+    - Tags: [[blue]] 
+- “… ([Location 2040](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2040))
+- “the process of… ([Location 2040](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2040))
+- (snang… ([Location 2041](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2041))
+    - Tags: [[blue]] 
+- “all phenomena that can possibly… ([Location 2041](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2041))
+- divides up the seamless fabric of reality, giving form to manifold worlds of illusory,… ([Location 2043](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2043))
+    - Tags: [[orange]] 
+- (… ([Location 2045](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2045))
+    - Tags: [[blue]] 
+- “worlds of… ([Location 2046](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2046))
+- four dimensions of… ([Location 2046](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2046))
+    - Tags: [[orange]] 
+- Finally, the explicate order of the physical world—consisting of quanta of consciousness, time, energy, space, and… ([Location 2049](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2049))
+    - Tags: [[blue]] 
+- to examine the nature of consciousness itself, we let our awareness come to rest in the space in front of us, and without focusing on anything, ([Location 2054](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2054))
+    - Tags: [[blue]] 
+- simply maintain unwavering mindfulness of being conscious. ([Location 2055](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2055))
+    - Tags: [[blue]] 
+- “Is there something there that has become still?” ([Location 2056](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2056))
+- Can we find anything that corresponds to the word “mind”? ([Location 2057](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2057))
+    - Tags: [[orange]] 
+- Is the mind nothing or is it something? ([Location 2057](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2057))
+    - Tags: [[pink]] 
+- When we observe our mind, is there one entity that is being observed and another that is doing the observing? ([Location 2057](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2057))
+    - Tags: [[blue]] 
+- To the best of our ability, we invert our awareness upon the observer. ([Location 2058](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2058))
+- As we consider, “What is the nature of the mind?” we direct our attention to that which is posing the question. ([Location 2059](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2059))
+    - Tags: [[orange]] 
+- When discursive thoughts, mental images, emotions, desires, and other mental phenomena arise, we investigate how they come into being and where they come from. ([Location 2062](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2062))
+    - Tags: [[blue]] 
+- A major theme of this contemplative insight practice is to examine whether all these mental phenomena are the same or different and to seek out the nature of that which is observing them. ([Location 2064](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2064))
+- A central insight to be gleaned is that all mental phenomena, as well as the observer of those phenomena, are empty of inherent nature. ([Location 2066](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2066))
+    - Tags: [[orange]] 
+- Not even consciousness is an absolute, for within the world of conditioned existence, moments of subjective consciousness always arise in relation to objects of awareness. ([Location 2067](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2067))
+    - Tags: [[pink]] 
+- self as an agent.30 ([Location 2069](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2069))
+    - Tags: [[blue]] 
+- If we do, we identify the object we grasp onto as being ourself and sustain it, as if we were suspending a particle within a force field. ([Location 2071](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2071))
+    - Tags: [[blue]] 
+- The above methods of contemplative inquiry suggest that no subjective phenomenon has its own inherent or absolute existence. ([Location 2079](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2079))
+    - Tags: [[blue]] 
+- This could imply, he continued, that we are moving from a science of objectivity to a science of intersubjectivity, in which the next relativity theory will include a relativity between the object and the subject, between the physical and the mental.34 ([Location 2093](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2093))
+- Middle Way Buddhism proposes that the passage of time can be measured only relative to a cognitive frame of reference.36 ([Location 2100](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2100))
+    - Tags: [[orange]] 
+- And no unit of time exists independently of its component parts, its beginning and end. ([Location 2103](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2103))
+    - Tags: [[pink]] 
+- Points of space are no longer regarded as having any objective existence, and in physics at large, the number of absolutes is steadily decreasing while the range of relative entities is getting larger and larger. ([Location 2106](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2106))
+    - Tags: [[blue]] 
+- the act of measurement causes the entanglement to cease so that it is no longer present for any future observations. ([Location 2117](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2117))
+- the whole world becomes entangled.39 ([Location 2120](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2120))
+    - Tags: [[orange]] 
+- Beginning with contemplative insight into the nature of the mind, one discovers that all phenomena arise only in relation to the mind that apprehends them, yet that mind is empty of its own independent, inherent identity.45 ([Location 2160](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2160))
+    - Tags: [[blue]] 
+- From moment to moment, mental phenomena emerge and vanish only in relation to a cognitive framework. ([Location 2162](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2162))
+- They have no absolute, subjective origination, presence, or dissolution, and neither do all their objective appearances. ([Location 2163](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2163))
+    - Tags: [[orange]] 
+- Craving, hostility, and delusion all radically subside, and as a result of insight into the profound interdependence of all beings, love and compassion spontaneously arise as never before. ([Location 2165](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2165))
+    - Tags: [[pink]] 
+- quiescence and insight. ([Location 2168](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2168))
+    - Tags: [[blue]] 
+- conceptual insight counteracts conceptual error, until eventually concepts of both kinds fade away. ([Location 2172](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2172))
+- a sense of euphoria commonly arises. ([Location 2188](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2188))
+- A much deeper sense of bliss and mental pliancy is said to result from direct insight into emptiness during the waking state, far surpassing even the bliss of achieving meditative quiescence alone.49 ([Location 2190](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2190))
+    - Tags: [[orange]] 
+- the bliss of contemplative insight is a result of overcoming the deep-rooted delusion of reifying phenomena of all kinds. ([Location 2193](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2193))
+    - Tags: [[pink]] 
+- By the power of conceptual designation based on the recognition that everything we are experiencing exists only relative to our mind, ([Location 2195](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2195))
+    - Tags: [[blue]] 
+- we can transform ([Location 2196](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2196))
+    - Tags: [[blue]] 
+- our own appearance at will and instantly shift from one dream environment to another. ([Location 2196](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2196))
+    - Tags: [[blue]] 
+- What we are altering is the appearances that emerge from our own substrate, and these influence everyone in our dream, for they also arise from the substrate. ([Location 2197](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2197))
+- Buddhist contemplative insight is better characterized as becoming lucid during the waking state. In this truly “awakened” state of consciousness, we not only stop reifying phenomena, we directly perceive their empty nature, recognizing that all things exist only as dependently related events arising relative to a cognitive frame of reference. ([Location 2209](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2209))
+    - Tags: [[orange]] 
+- While one is immersed in the nonconceptual realization of emptiness, all other phenomena vanish and one’s awareness settles into ineffable bliss, luminosity, and spaciousness that far transcend analogous qualities of the substrate consciousness. ([Location 2211](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2211))
+    - Tags: [[pink]] 
+- But the direct realization of emptiness allegedly has an enormous impact on all features of one’s life, including the achievement of various paranormal abilities such as remote viewing and precognition. ([Location 2214](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2214))
+    - Tags: [[blue]] 
+- Buddhists claim that there are definite limitations on the paranormal abilities of someone who has directly realized emptiness. No one, including a buddha, is omnipotent. ([Location 2220](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2220))
+- This deeper dimension of awareness would have to be nonlocal and atemporal, that is, it is not located in any particular region of space or at any point in time. ([Location 2226](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2226))
+    - Tags: [[orange]] 
+- As mentioned previously, Buddhism makes the astonishing claim that people who have directly realized emptiness may alter not only their own reality but also the realities of others. ([Location 2250](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2250))
+    - Tags: [[blue]] 
+- “man is the measure of all things,” implying that knowledge is invariably related to the knower.54 ([Location 2267](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2267))
+- A major flaw in the objectivist strategy is the reliance upon subjects’ beliefs about their own experiences, for in many cases, they perceive things that aren’t there (such as visual illusions) ([Location 2287](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2287))
+- and don’t perceive things that are there (as in change blindness). ([Location 2288](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2288))
+- mind-matter problem ([Location 2300](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2300))
+    - Tags: [[orange]] 
+- In its general theory of ontological relativity, the Middle Way view of Buddhism denies the independent existence of both mental and physical phenomena, and claims that all scientific, philosophical, aesthetic, and religious truths exist only relative to cognitive frames of reference. ([Location 2304](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2304))
+    - Tags: [[pink]] 
+- solipsism, ([Location 2306](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2306))
+    - Tags: [[blue]] 
+- Some adopt a pragmatic approach, arguing that the epistemological status of a cognition is determined by the desired or undesired outcome of an activity based on it. ([Location 2309](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2309))
+- Those representing the Middle Way view attempt to avoid the extremes of metaphysical realism and solipsism by proposing the following criteria for determining whether a hypothetical entity exists: it is apprehended relative to a cognitive frame of reference; its existence is not invalidated by more rigorously acquired empirical evidence or reasoning; and its existence is not repudiated by the ontological insight that nothing exists by its own absolute, inherent nature.58 Without recourse to an assumed correspondence to anything that is real in and of itself, independent of any cognitive frame of reference, this is a kind of bootstrap method for investigating reality. Buddhist inquiry is in principle always evaluated in relation to the pursuit of genuine happiness (liberation and spiritual awakening) and virtue. So the above three epistemological criteria are closely aligned to pragmatic criteria as well. ([Location 2315](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2315))
+    - Tags: [[orange]] 
+- The Middle Way view does allow for the possibility of errors even within the context of a single cognitive frame of reference. ([Location 2328](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2328))
+    - Tags: [[pink]] 
+- For example, one may introspectively mistake one’s motivation for engaging in a certain activity. In terms of acquiring introspective knowledge, a single cognition can be evaluated—epistemically and pragmatically—only in relation to prior and subsequent cognitions. With training, one may enhance and refine the faculty of metacognition, or introspection, much as the human visual faculty has been enhanced and refined technologically with such instruments as the telescope. And through verbal discourse, one may cross-reference one’s own experiences in relation to those of others who have engaged in such introspective training, much as scientists test each other’s findings in their respective laboratories. ([Location 2329](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2329))
+    - Tags: [[pink]] 
+- One common source of error is the assumption that a statement that is true for one cognitive frame of reference must be equally true for all other frames of reference. ([Location 2336](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2336))
+    - Tags: [[blue]] 
+- frozen time, ([Location 2360](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2360))
+    - Tags: [[blue]] 
+- no external observer with respect to the universe, and there is no external clock that does not belong to the universe. ([Location 2361](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2361))
+    - Tags: [[blue]] 
+- without introducing an observer, we have a dead universe that does not evolve in time, ([Location 2370](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2370))
+- reemphasizes the role of the participant in the self-observing universe of quantum cosmology. ([Location 2371](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2371))
+    - Tags: [[orange]] 
+- The universe becomes alive (time-dependent) only when we think of it as divided into a subjective observer and the rest of the objective universe, ([Location 2371](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2371))
+    - Tags: [[pink]] 
+- the evolution of the universe and everything in it, including life itself, is possible only with respect to the observer.2 ([Location 2373](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2373))
+    - Tags: [[blue]] 
+- The notion of an observer necessarily implies the presence of consciousness, ([Location 2375](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2375))
+    - Tags: [[blue]] 
+- As Andrei Linde points out, the current scientific model of the material world obeying laws of physics has been so successful that we forget about our starting point—as conscious observers—and conclude that matter is the only reality and that perceptions are only helpful for describing it. ([Location 2377](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2377))
+- But in fact, we are substituting the reality of our experience of the universe with a conceptually contrived belief in an independently existing material world.3 ([Location 2379](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2379))
+    - Tags: [[orange]] 
+- The notion of time and a physically evolving universe independent of any observer is an illusion, albeit a very persistent one.4 ([Location 2381](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2381))
+    - Tags: [[pink]] 
+- Many physicists describe the world beyond time in terms of the melted vacuum, which embodies the laws of nature in their ideal, perfectly symmetrical state, while the frozen vacuum state of the universe in which we dwell reflects the current laws of nature. ([Location 2382](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2382))
+- A fundamental difference between them is that the former is the lowest state of energy allowable by the laws of nature, ([Location 2384](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2384))
+    - Tags: [[orange]] 
+- while the latter is described as the lowest state of energy achievable by current technology. ([Location 2385](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2385))
+    - Tags: [[pink]] 
+- According to this view, over the course of cosmic evolution after the big bang, empty space gradually “froze,” so that it has taken on internal structure like that of an ice crystal. ([Location 2386](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2386))
+    - Tags: [[blue]] 
+- Over the course of cosmic evolution, multiple symmetries were broken in ways that selected the universe we experience from among a wide array of alternative universes that might have emerged. ([Location 2389](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2389))
+- Did those symmetries have to break as they did, or might they have broken in other ways, resulting in other kinds of universes? ([Location 2390](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2390))
+    - Tags: [[orange]] 
+- And what caused our particular universe to evolve as it did? ([Location 2391](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2391))
+    - Tags: [[pink]] 
+- Might it have to do with our presence as observer-participants?5 ([Location 2391](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2391))
+    - Tags: [[blue]] 
+- The melted vacuum is an expression of perfect symmetry, a dimension of reality that has no internal structure and transcends time and change. ([Location 2393](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2393))
+- Physicists cannot directly observe this hidden perfection; ([Location 2395](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2395))
+    - Tags: [[blue]] 
+- absolute space of phenomena ([Location 2402](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2402))
+    - Tags: [[blue]] 
+- primordial consciousness ([Location 2403](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2403))
+- primal energy ([Location 2404](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2404))
+    - Tags: [[orange]] 
+- “the fourth time,” ([Location 2427](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2427))
+    - Tags: [[blue]] 
+- perceiver, ([Location 2432](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2432))
+    - Tags: [[blue]] 
+- Without such participancy by a perceiving agent, there are no phenomena, and the universe is static. ([Location 2436](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2436))
+- “Primordial consciousness is self-originating, naturally clear, free of outer and inner obscuration; it is the all-pervasive, radiant, clear infinity of space, free of contamination.”10 ([Location 2453](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2453))
+    - Tags: [[blue]] 
+- The way to return to the perfect symmetry of primordial consciousness is to realize how all phenomena fundamentally emerge from and are of the nature of absolute space. ([Location 2461](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2461))
+- all appearances are ([Location 2462](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2462))
+    - Tags: [[orange]] 
+- illusory displays of our own primordial consciousness, ([Location 2462](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2462))
+    - Tags: [[orange]] 
+- To “gain confidence” in the view, we first identify the nature of primordial consciousness, then continually abide in that state of awareness until it remains unwaveringly at all times and in all situations. ([Location 2470](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2470))
+    - Tags: [[blue]] 
+- Just as the nature of ice is water, the nature of everything is the unity of primordial consciousness and absolute space. Once we cease objectifying ourselves and everything else and recognize the “one taste” of all phenomena as displays of primordial consciousness, we enter into a state of meditative equipoise in which all phenomena dissolve into the great expanse, with no object, obstruction, or intentionality.11 ([Location 2475](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2475))
+    - Tags: [[blue]] 
+- “fourth time,” beyond the past, present, and future, ([Location 2497](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2497))
+- Once we have acquired this view of the Great Perfection by “resting our awareness in its own state” and “seeing the true face of our own mind,” the meditative practice consists simply of sustaining this awareness with unwavering, continuous mindfulness. ([Location 2500](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2500))
+    - Tags: [[blue]] 
+- We attend to whatever arises with a sense of childlike wonder and freshness. ([Location 2505](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2505))
+- The one taste of all kinds of phenomena—from the most terrible to the most sublime—becomes apparent. ([Location 2518](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2518))
+    - Tags: [[orange]] 
+- With our mind transcending all personal preferences, even for spiritual awakening itself, our awareness rests in its own primordial ground, luminous and forever free. ([Location 2519](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2519))
+    - Tags: [[pink]] 
+# Hidden Dimensions
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/5163TmW4SGL._SL200_.jpg)
+
+## Metadata
+- Author: [[B. Alan Wallace]]
+- Full Title: Hidden Dimensions
+- Category: #books
+
+## Highlights
+- Particles, such as electrons and photons, have no definite location and in fact do not even exist as discrete entities unless and until they are measured—they exist only as mathematical abstractions. ([Location 72](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=72))
+- causally interact. ([Location 74](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=74))
+- Then these intangible quantum phenomena turn into the objectively real, elementary building blocks of the physical universe. No one yet knows how this transition from mathematical abstraction to concrete reality takes place, but in some way the observer—the person who designs and conducts experiments—plays a key role in bringing the quantum world to life. ([Location 74](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=74))
+- According to the equations of the new field of quantum cosmology, without reference to an observer, the universe as a whole is frozen into immobility. ([Location 78](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=78))
+- dividing the world into two domains: ([Location 79](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=79))
+- a subjective observer with his clock and other measuring devices ([Location 79](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=79))
+- rest of the objective universe. ([Location 80](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=80))
+- the notion of an observer necessarily implies the presence of consciousness, ([Location 81](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=81))
+- subjectively experienced mental phenomena lack any physical characteristics and cannot be detected with any of the physical instruments of technology, even though many specific brain functions have been identified that causally contribute to the generation of mental processes. ([Location 91](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=91))
+- Mental phenomena remain as much an enigma to cognitive scientists as the observer is to modern physicists. ([Location 96](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=96))
+- A central hypothesis of this book is that the measurement problem in quantum mechanics, the time problem in quantum cosmology, and the hard problem in brain science are all profoundly related. ([Location 97](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=97))
+- Scientists’ insistence that consciousness and all other mental phenomena must be physical is rooted in a naturalistic metaphysical framework, which maintains that only physical processes exert causal influences in nature. ([Location 104](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=104))
+- no one really seems to know what is meant by “physical”! ([Location 106](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=106))
+- A central premise of this theory is that quantum physics, despite mainstream assumptions to the contrary, has great relevance to understanding mind-brain interactions and the role of the mind in the universe. ([Location 112](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=112))
+- special theory of ontological relativity, ([Location 119](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=119))
+- proposing that mental phenomena do not emerge from the brain, but rather all mental and physical processes arise from another dimension of reality that exists prior to the bifurcation of mind and matter. ([Location 119](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=119))
+- participatory nature of reality, ([Location 131](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=131))
+- participatory universe as a self-excited circuit. ([Location 133](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=133))
+- Middle Way philosophy, ([Location 134](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=134))
+- frozen time, ([Location 141](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=141))
+- role of the observer again appears to be fundamental to the evolving universe. ([Location 141](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=141))
+- Great Perfection, ([Location 143](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=143))
+- A true revolution in the mind sciences has been delayed by an enforced conformity to the unnatural ideological and methodological constraints imposed by the assumptions of scientific materialism, particularly neo-Darwinism. ([Location 240](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=240))
+    - Tags: [[blue]] 
+- One such assumption is that mental phenomena are equivalent to neurophysiological processes in the brain, an empirically ([Location 242](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=242))
+- uncorroborated belief. ([Location 243](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=243))
+- Those who assert that the mind is a nonphysical phenomenon that may exist independently of the brain have never been able to provide any supporting empirical evidence by using the methods of mainstream scientific inquiry. ([Location 300](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=300))
+- Physicists today do not know of any phenomenon in which one subject is influenced by another without exerting an influence back.7 Nature, it turns out, abhors idols. ([Location 327](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=327))
+    - Tags: [[orange]] 
+- Since the scientific revolution, theologians have primarily emphasized belief as a means to understand the transcendent realities revealed in their scriptures. ([Location 335](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=335))
+    - Tags: [[orange]] 
+- Philosophers have primarily relied on reason to unveil the secrets of the mind and its relation to the objective world of science. ([Location 336](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=336))
+    - Tags: [[pink]] 
+- But scientists have let empirical evidence be the final arbiter of their theories. ([Location 337](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=337))
+    - Tags: [[blue]] 
+- If a theory can’t be tested empirically, theologians and philosophers may try to evaluate it, but it doesn’t qualify as a scientific theory. ([Location 338](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=338))
+- The history of science has shown that physical laws are discovered by observing physical phenomena, ([Location 339](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=339))
+    - Tags: [[blue]] 
+- biological laws are discovered by observing biological phenomena. ([Location 340](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=340))
+- It should follow that psychological laws are discovered by observing mental phenomena, ([Location 340](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=340))
+    - Tags: [[orange]] 
+- spiritual laws are discovered by observing spiritual phenomena. ([Location 341](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=341))
+    - Tags: [[pink]] 
+- materialist hierarchy ([Location 345](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=345))
+    - Tags: [[blue]] 
+- After 400 years of breathtaking scientific progress, there is still no scientific definition of consciousness; ([Location 369](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=369))
+    - Tags: [[blue]] 
+- Likewise, the first revolution in the cognitive sciences will relativize the human mind by displacing it from a physical function of the brain to an emergent process arising from a dimension of reality more fundamental than the duality of mind and matter. ([Location 386](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=386))
+    - Tags: [[blue]] 
+- But if the scientific mind is a part of nature and doesn’t stand outside it, we should consider the fact that in the whole of nature, there is always a reciprocal effect in any coupling of two or more phenomena.11 ([Location 392](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=392))
+- Traditionally, a scientific truth must fulfill two criteria: be free of subjective human biases and strongly accord with the natural world that exists outside our minds. ([Location 405](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=405))
+    - Tags: [[blue]] 
+- Scientists today are faced with the unique challenge of evaluating theories regarding mental phenomena, which exist within our minds, in relation to physical phenomena outside our minds. ([Location 416](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=416))
+- According to one common interpretation, naturalism is a view of reality that excludes the possibility of nonphysical agents, forces, or causes. ([Location 444](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=444))
+    - Tags: [[blue]] 
+- many research physicists are finding that the more deeply they examine the nature of matter, the more elusive, mysterious, and mathematical it appears to be.3 ([Location 457](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=457))
+- Early explanations for the propagation of energy in the form of light, electricity, and magnetism required the existence of a luminiferous ether, a physical medium permeating space that would ripple when waves of energy passed through it. But in 1887, the existence of such a mechanical medium was disproved by the renowned Michelson-Morley experiment, which was meticulously designed to detect the luminiferous ether and came up with negative results. Since then, the very notion of electromagnetic fields that are propagated through space has been reduced to a set of mathematical abstractions. Although such fields exhibit wave properties, there is no material stuff in objective space that mechanically ripples, like waves in a pool of water. Further developments in twentieth-century physics have refined the general concept of the nature of energy to a mathematical principle, not a description of a mechanism or anything concrete. No one today really knows what energy is.4 ([Location 463](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=463))
+    - Tags: [[orange]] 
+- all configurations of mass-energy are regarded as oscillations of abstract, mathematical fields in space, ([Location 472](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=472))
+    - Tags: [[blue]] 
+- problem of objectivity ([Location 516](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=516))
+- “entanglement,” ([Location 517](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=517))
+    - Tags: [[orange]] 
+- inseparable whole. ([Location 518](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=518))
+    - Tags: [[pink]] 
+- introspection ([Location 542](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=542))
+    - Tags: [[blue]] 
+- because it is the only means we currently have of observing subjective events. ([Location 543](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=543))
+    - Tags: [[blue]] 
+- neural correlates of consciousness (NCC).19 ([Location 560](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=560))
+- At present there is no empirical evidence that any neural process is equivalent to any mental process, ([Location 580](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=580))
+    - Tags: [[orange]] 
+- mysterious dual nature—objective and subjective—and ([Location 595](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=595))
+- Contemporary physics presents at least three classes of phenomena that are causally effective in the natural world: mass-energy, space-time, and abstract, mathematical quantities, such as principles of symmetry. ([Location 613](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=613))
+- decoherence. ([Location 692](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=692))
+    - Tags: [[orange]] 
+- The Heisenberg Uncertainty Principle suggests that violations of the principle of energy conservation can occur due to spontaneous, unpredictable fluctuations of the vacuum that is space. ([Location 822](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=822))
+    - Tags: [[orange]] 
+- When electromagnetic waves pass through space, they produce oscillations at every possible frequency, and when you add up all those ceaseless fluctuations, you get a background sea of light whose total energy is enormous. ([Location 825](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=825))
+    - Tags: [[pink]] 
+- Since the zero-point field is everywhere, we are effectively blind to it, while the world of light that we do see is all the rest of the light beyond the zero-point field. ([Location 828](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=828))
+    - Tags: [[blue]] 
+- A theory that will be developed in the following chapters suggests that the vacuum may be not only filled with zero-point energy, which can be objectively measured with techniques of physics, but also permeated with consciousness, which can be subjectively experienced with techniques of introspection. ([Location 830](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=830))
+- “nonphysical” properties in the universe, such as “informational states.” ([Location 834](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=834))
+    - Tags: [[orange]] 
+- One testable hypothesis is that with training, one may observe mental phenomena more and more “objectively,” so as to exert less and less influence on what is being observed. ([Location 903](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=903))
+    - Tags: [[blue]] 
+- But twentieth-century philosophers have continued to raise serious questions about the possibility, let alone the efficacy, of developing a science of the mind based on the direct observation of mental phenomena. ([Location 911](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=911))
+- What is required is relentless self-honesty, which may be cultivated with intensive, prolonged training in introspection. ([Location 937](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=937))
+    - Tags: [[orange]] 
+- Psychologists have a lot of evidence to show that perception is a function of expectation, and introspective perception is clearly not immune to such influences.8 ([Location 940](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=940))
+    - Tags: [[pink]] 
+- Subtle distinctions must also be made, for example, between imagining that one desires something and actually desiring it. ([Location 946](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=946))
+    - Tags: [[orange]] 
+- the fact that mental phenomena appear to bear no distinctively physical attributes at all. ([Location 950](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=950))
+- Specifically, the deeply habituated tendencies of mental agitation and dullness need to be overcome through the development of attentional stability and vividness. These skills may be strengthened in a separate set of mental exercises11 or in the very process of learning how to observe the mind. ([Location 974](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=974))
+    - Tags: [[blue]] 
+- As the faculty of mental perception is refined, one may begin probing the nature of the thoughts, images, emotions, and desires that arise in each moment. Specific questions may guide these observations, such as:   ■  Are any of these mental events, including one’s awareness of them, static, or are they constantly in a state of flux? ■  Are any mental phenomena inherently satisfying or unsatisfying, or do these qualities arise only relative to one’s attitudes and desires? ■  Is the space of the mind, any of its contents, or the awareness of them inherently “I” or “mine,” or is one’s sense of personal identity and possession of one’s mind purely a conceptual projection? ([Location 991](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=991))
+- Freud’s concern about the obscuring and distorting influences of unconscious mental impulses has long been a major concern among Tibetan contemplatives. The remedy they have settled on is relentless, passive but vigilant observation of whatever arises in the space of the mind, without being carried away by or identifying with it. ([Location 1017](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1017))
+    - Tags: [[orange]] 
+- It is imperative not to respond to discursive thoughts, mental images, emotions, and desires with either aversion or craving. Rather, one must simply let them arise and pass of their own accord, without intervening or attempting to suppress or augment them. Metaphorically, one must rest in a “space of awareness” that is larger than the “space of one’s own psyche.” ([Location 1019](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1019))
+    - Tags: [[pink]] 
+- Whatever arises within the psyche is… ([Location 1022](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1022))
+    - Tags: [[blue]] 
+- and with discerning intelligence, but without modifying, censoring, or… ([Location 1022](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1022))
+    - Tags: [[blue]] 
+- This is an extraordinarily demanding endeavor, and it is pursued in close collaboration with an experienced and accomplished mentor… ([Location 1023](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1023))
+- Buddhist contemplatives throughout Asia have taken special interest in the possible differences between the way mental processes appear and the way they exist, a concern raised more recently in Western research by Gilbert Ryle.16 Specifically, they have found that although mental states and processes often appear to be relatively static, upon close examination, all the immediate contents of the… ([Location 1024](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1024))
+    - Tags: [[orange]] 
+- A relatively homogenous continuum of a mental state, such as depression, may endure for seconds or even minutes, but that stream of emotion consists of discrete… ([Location 1028](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1028))
+    - Tags: [[pink]] 
+- There is nothing static in the human psyche, though habits may become deeply ingrained over… ([Location 1030](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1030))
+    - Tags: [[blue]] 
+- A second discrepancy between appearances and reality is that certain mental states, such as joy and elation, may appear to be intrinsically satisfying, but upon more… ([Location 1031](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1031))
+- No mental state that arises from moment to moment in dependence upon sensory or intellectual stimuli… ([Location 1032](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1032))
+    - Tags: [[orange]] 
+- Every affective state is experienced as pleasant, unpleasant, or neutral only in relation to a… ([Location 1033](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1033))
+    - Tags: [[pink]] 
+- When these affective states of mind are passively observed from the wider perspective of the space of awareness, without identifying with them, they have no absolute,… ([Location 1034](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1034))
+    - Tags: [[blue]] 
+- A third disparity between mental appearances… ([Location 1036](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1036))
+- pertains to the fact that thoughts, emotions, and other mental phenomena seem to have an… ([Location 1036](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1036))
+- When strong identification with these processes occurs, one may feel that one’s very identity has become fused with them, and momentarily have the… ([Location 1037](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1037))
+    - Tags: [[orange]] 
+- But with some skill in observing the contents of the mind, one finds that thoughts and mental images arise by themselves, with no voluntary intervention… ([Location 1038](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1038))
+    - Tags: [[pink]] 
+- Psychophysiological causes and conditions come together to generate these mental events, but there is no evidence that a separate “I”… ([Location 1040](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1040))
+    - Tags: [[blue]] 
+- To be sure, some thoughts and desires do appear to be under the control of an autonomous self, but as expertise is gained in this practice, this illusion fades away, and everything that arises in the mind is seen to be a natural event, dependent upon… ([Location 1041](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1041))
+    - Tags: [[orange]] 
+- all usual kinds of experience, both sensory and introspective, are structured by memories, language, beliefs, and expectations, which cause us to assimilate even… ([Location 1043](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1043))
+    - Tags: [[pink]] 
+- One of the names for the meditative practice I am describing here is “settling the mind in its natural state,” which implies a radical deconstruction of the ways we habitually… ([Location 1045](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1045))
+    - Tags: [[blue]] 
+- The Buddhist hypothesis in this regard is that it is possible to so profoundly settle the mind that virtually all thoughts and other mental constructs eventually become dormant. The result is… ([Location 1046](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1046))
+- On the contrary, it is a luminous, discerningly intelligent awareness in which the physical senses are withdrawn and the normal… ([Location 1048](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1048))
+    - Tags: [[orange]] 
+- substrate… ([Location 1051](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1051))
+    - Tags: [[blue]] 
+- bliss, luminosity, and… ([Location 1052](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1052))
+    - Tags: [[blue]] 
+- the subjective substrate consciousness is nondually aware of the objective substrate, ([Location 1067](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1067))
+    - Tags: [[blue]] 
+- The mind may now be likened to a luminously transparent snow globe in which all the normally agitated particles of mental activities have come to rest. ([Location 1068](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1068))
+- For the normal mind, enmeshed in a myriad of thoughts and emotions, this zero-point field—substrate—of consciousness is unobservable, for we see things by way of contrast. ([Location 1075](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1075))
+    - Tags: [[orange]] 
+- This unstable equilibrium is perturbed by the activation of the conceptual mind, which creates the bifurcations of subject and object, mind and matter, which may be regarded as broken symmetries. ([Location 1081](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1081))
+    - Tags: [[pink]] 
+- as a result of continuous training in developing increasing stages of mental and physical relaxation, together with attentional stability and vividness, it is said that one may directly vividly ascertain this relative ground state of consciousness and observe how mental and sensory phenomena emerge from it in dependence upon a wide range of psychological and physical influences. ([Location 1084](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1084))
+    - Tags: [[blue]] 
+- Likewise, consciously exposing the deep space of the mind to thousands of hours of observation reveals normally hidden dimensions that are more chaotic, where the order and structure of the human psyche are just beginning to emerge. Strata upon strata of mental phenomena previously concealed within the subconscious are made manifest, until finally the mind comes to rest in its natural state, from which both conscious and normally subconscious events arise. This is an exercise in true depth psychology, in which one observes deep core samples of the subconscious mind, penetrating many layers of accumulated conceptual structuring. ([Location 1095](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1095))
+- The substrate consciousness is not inherently human, for this is also the ground state of consciousness of all other sentient animals. ([Location 1106](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1106))
+    - Tags: [[orange]] 
+- illusory nature of perceptual appearances. ([Location 1130](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1130))
+    - Tags: [[blue]] 
+- The visual image of the color red, for instance, doesn’t have any mass or atomic structure. ([Location 1131](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1131))
+- There are clearly brain functions that contribute to the generation of red images, but no evidence that those neural correlates of perception are actually identical to those images. ([Location 1133](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1133))
+    - Tags: [[orange]] 
+- So there is no compelling reason to believe that the images are located inside our heads. ([Location 1134](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1134))
+    - Tags: [[pink]] 
+- Since visual images, or qualia, are not located either outside or inside our heads, they don’t seem to have any spatial location at all. ([Location 1135](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1135))
+    - Tags: [[blue]] 
+- The same is true of all other kinds of sensory qualia, including sounds, smells, tastes, and tactile sensations. ([Location 1136](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1136))
+- So there are no stars or galaxies located in those regions. ([Location 1140](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1140))
+- We also experience qualia introspectively, without direct dependence upon any of our five physical senses. ([Location 1141](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1141))
+    - Tags: [[orange]] 
+- When we direct our attention “inward,” we can observe discursive thoughts arising and passing away, and while asleep we can perceive dreamscapes and experience emotions, desires, and other mental processes much as we do during waking hours. ([Location 1142](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1142))
+    - Tags: [[pink]] 
+- While some mental phenomena falsely appear to exist inside our heads, others deceptively seem to exist in the outside world. ([Location 1145](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1145))
+    - Tags: [[blue]] 
+- In short, everything we observe extrospectively and introspectively consists of qualia, or appearances, and they are illusory in the sense that they seem to exist either in the external world or inside our heads, whereas in reality there is no compelling evidence that they are located anywhere in physical space. ([Location 1149](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1149))
+- But the information that we think is inside a brain or a computer actually exists in the “eye of the beholder,” which has no location in physical space. Information is not intrinsic to any computational system. ([Location 1154](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1154))
+    - Tags: [[orange]] 
+- All our immediate experience of the outer world and our minds consists of perceptual representations, none of which has physical qualities, and we commonly assume that those appearances correspond to real, independent objects in physical space. ([Location 1158](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1158))
+    - Tags: [[pink]] 
+- But sensory appearances, although dependent on physical processes, have no physical attributes themselves, whereas the things and events that make up the objective world have only physical attributes. ([Location 1161](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1161))
+    - Tags: [[blue]] 
+- Moreover, sensory appearances are perceptible, but objectively independent physical objects are invisible to our senses. ([Location 1163](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1163))
+- perception is largely a function of expectation, ([Location 1168](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1168))
+    - Tags: [[orange]] 
+- This idea goes back to Democritus, who declared that the objective world consists of atoms moving in space. ([Location 1174](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1174))
+- Pythagoras and his followers proposed an alternative view, maintaining that all things are numbers, which they identified with geometrical forms. ([Location 1175](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1175))
+    - Tags: [[pink]] 
+- Quantum theory is not about objective physical reality, but about measurements of elementary particles.6 ([Location 1191](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1191))
+- The laws of nature and their outcomes are expressed in the language of mathematics, and even the very structure of the universe is determined by unchanging qualities that can be encoded in a list of numbers called the “constants of nature.” These include things such as the masses of the smallest subatomic particles, the strengths of the forces of nature, and the speed of light in a vacuum. The fabric of the universe and the pivotal structure of universal laws are seen to emerge from standards and invariants that transcend human experience.7 ([Location 1196](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1196))
+- It is both astonishing and mysterious that mathematical theories can provide such accurate descriptions of the universe. ([Location 1201](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1201))
+    - Tags: [[orange]] 
+- To many physicists, this strongly implies the existence of a dimension of reality that transcends appearances of the physical world, and the ultimate simplicity of this mathematical reality enables scientists to investigate the world and have faith that their resulting understanding can converge on the truth. ([Location 1201](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1201))
+    - Tags: [[pink]] 
+- mental and material domains might be epistemologically distinct, ([Location 1207](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1207))
+    - Tags: [[blue]] 
+- He founded this idea on the assumption that the perceptual world, with all its categories of mind and matter, emerges from an underlying unity that transcends the physical senses. And he believed that the existence of this archetypal realm was essential to explain the causal connections between the psyche and the body.10 ([Location 1209](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1209))
+- unus mundus. ([Location 1216](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1216))
+    - Tags: [[orange]] 
+- In this model, mental processes are psychic manifestations of archetypes and the physical laws are physical manifestations of archetypes, and he speculated that there should be natural laws, with an inner correspondence, governing both emergent domains. ([Location 1216](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1216))
+    - Tags: [[pink]] 
+- In our perceptual world, there seem to be a “mental pole” and a “physical pole,” but the deeper reality is something beyond either.12 ([Location 1226](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1226))
+- Apart from the hypothesis that the world is constructed on a mathematical basis, it is hard to explain why the behavior of matter can be accurately described by equations of the kind encountered in present-day mathematical physics. ([Location 1260](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1260))
+    - Tags: [[orange]] 
+- special theory of ontological relativity, ([Location 1285](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1285))
+    - Tags: [[blue]] 
+- It is remarkable, in retrospect, that after 400 years of progress in physics, we still don’t know what matter or energy is. ([Location 1314](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1314))
+- There is no way to separate lifestyle from meditative training, ([Location 1334](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1334))
+    - Tags: [[blue]] 
+- It is common for novices to try too hard, and it has been found that excessive effort agitates the mind and may result in physical problems as well. ([Location 1338](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1338))
+- A common metaphor in the Buddhist tradition is to tune the attention as one would string a lute—not too tight and not too loose—for too much effort results in nervous imbalances, and too little leads to dullness and lethargy. ([Location 1339](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1339))
+    - Tags: [[orange]] 
+- In particular, confidence must be balanced with understanding, and effort must be balanced with concentration. ([Location 1340](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1340))
+    - Tags: [[pink]] 
+- Such mental balance is to be achieved by preventing agitation due to excess confidence, effort, or understanding, and laziness due to excess concentration. ([Location 1341](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1341))
+    - Tags: [[blue]] 
+- For this reason, mindfulness is necessary at all times, for it protects the mind and keeps the object of meditation from being lost.2 ([Location 1342](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1342))
+- The essence of ethical discipline is twofold: avoiding any behavior of body, speech, and mind that is injurious to oneself or others, and devoting oneself to conduct that serves the well-being of oneself and others. ([Location 1347](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1347))
+    - Tags: [[blue]] 
+- To give a slightly more elaborate account of the preliminary training required as a foundation for such meditative practice, traditional Buddhist sources cite four elements: ethical discipline, restraint of the sense faculties, mindfulness and introspection, and contentment.4 ([Location 1348](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1348))
+- Basic requisites also include a suitable diet, clothing, and, when needed, medication. ([Location 1351](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1351))
+    - Tags: [[orange]] 
+- Much as research in physics, biology, and psychology requires a well-designed laboratory, sophisticated, meditative research into consciousness requires a conducive environment. According to traditional Buddhist sources, an appropriate facility, or consciousness research laboratory, for this training should have five qualities:5 be easily accessible, so that trainees can acquire food, clothing, and medicine; be free from danger caused by humans and animals; be aesthetically agreeable and healthy; be inhabited by good companions who are ethically disciplined and like-minded; and be serene and quiet, with little commotion by people during the daytime and little noise at night. ([Location 1351](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1351))
+    - Tags: [[pink]] 
+- As German physicist Carl Friedrich von Weizsäcker comments, there is a straight line from the physics of Bacon and Galileo to the atom bomb.27 And in his 1946 lecture “The History of Nature,” he argued that the scientific and technological world of modern times is the result of man’s venturing knowledge without love.28 This approach to scientific inquiry, largely devoid of ethics and altruism, has played a major role in the tremendous advances in science and technology made during the twentieth century, changing human society and our natural environment in countless ways. But this century has also produced the greatest inhumanity of man against man and the greatest degradation of the natural environment, including the extinction of countless species of plant and animal life, in human history. ([Location 1516](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1516))
+- We must grow in wisdom and compassion or face the real possibility of extinction. ([Location 1526](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1526))
+    - Tags: [[orange]] 
+- Psychologists have long known that ordinary perceptions are strongly influenced by memories and expectations, which enable us to recognize even novel objects and events within a familiar conceptual framework. ([Location 1560](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1560))
+- everything that we apprehend, whether perceptually or conceptually, is devoid of its own inherent nature, or identity, independent of the means by which it is known. ([Location 1579](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1579))
+    - Tags: [[orange]] 
+- The only invariant across all these cognitive frames of reference is that nothing exists by its own nature, independent of all means of detecting it or conceiving of it. In other words, there is no way to separate the universe we know from the information we have about it. ([Location 1593](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1593))
+    - Tags: [[pink]] 
+- holographic principle. ([Location 1611](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1611))
+    - Tags: [[blue]] 
+- Information is no longer a purely objective entity but includes the subject as well. ([Location 1616](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1616))
+- According to this theory, the universe is fundamentally an information-processing system from which the appearance of matter emerges at a higher level of reality. ([Location 1622](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1622))
+- A growing number of leading physicists, including Carl Friedrich von Weizsäcker, have come to characterize all physical phenomena in terms of pure information,8 and some go so far as to claim that the universe is a gigantic computer. ([Location 1623](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1623))
+    - Tags: [[orange]] 
+- Theists may infer from this the existence of a cosmic consciousness, possibly of the kind envisioned by Spinoza and endorsed by Einstein,9 which pervades all things, is the essence and necessary cause of all things, and comprehends all things.10 ([Location 1636](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1636))
+    - Tags: [[orange]] 
+- natural science is a science of information, not a science of a world that exists prior to and independent of information. ([Location 1665](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1665))
+    - Tags: [[blue]] 
+- So the distinction between information, or knowledge, and reality is meaningless. ([Location 1666](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1666))
+- The collapse of this distinction portends an unprecedented unification of psychology and physics. ([Location 1667](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1667))
+    - Tags: [[orange]] 
+- The most striking and mysterious feature of quantum physics is the necessity to draw a line between the observer-participant and the system under investigation. ([Location 1694](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1694))
+    - Tags: [[blue]] 
+- participatory universe. ([Location 1713](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1713))
+    - Tags: [[orange]] 
+- what if there is no environment with which quantum phenomena can interact? ([Location 1718](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1718))
+    - Tags: [[pink]] 
+- The only way that would be possible is if the quantum system under investigation is the whole universe. ([Location 1719](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1719))
+    - Tags: [[blue]] 
+- The remarkable thing about the delayed-choice experiment, which has now been conducted in laboratories, is that the light takes on its qualities at a time before the decision is made. ([Location 1729](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1729))
+- In this vision of quantum cosmology, the universe is a self-excited circuit. ([Location 1739](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1739))
+- Wheeler’s notion of a participatory universe has been linked to the anthropic principle, which asserts that the universe is the way it is because we are here.24 ([Location 1747](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1747))
+- only the universe as we conceive of it as existing in the past, present, and future will vanish. ([Location 1752](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1752))
+    - Tags: [[orange]] 
+- In this sense, conscious observers cocreate the worlds in which they dwell.25 ([Location 1754](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1754))
+    - Tags: [[pink]] 
+- The observer subjectively perceives only one classical world, namely that of everyday experience. ([Location 1787](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1787))
+    - Tags: [[blue]] 
+- But in reality, in all the unseen alternative worlds it is as if replicas of the observer exist, whose experiences provide each of them with a picture of precisely the world they believe they inhabit. ([Location 1788](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1788))
+- the consciousness as a whole splits between the alternatives but the individual consciousness subjectively chooses (selects) one alternative.”32 ([Location 1795](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1795))
+    - Tags: [[orange]] 
+- Rather, the observer’s brain and the observed system are synchronously entangled. ([Location 1798](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1798))
+    - Tags: [[pink]] 
+- “Entanglement” is a term used in quantum physics to describe the nonlocal connectedness of two or more phenomena, which exist as one system even if they are separated by a very large distance. ([Location 1799](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1799))
+    - Tags: [[orange]] 
+- This classical world is an illusion, for it exists only relative to the mind of the observer. ([Location 1805](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1805))
+- Unlike inanimate matter, every conscious living being perceives the quantum world, with its characteristic nonlocality, relative to its own cognitive frame of reference. Each of these individual classical projections is “locally predictable,” and in each one, a conscious being realizes a world of lived experience. And each such classical world exists only relative to such a being or community of beings. ([Location 1808](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1808))
+- “If, for instance, a close relative dies in one of these realities and remains alive in another, the conscious subject is highly motivated to select the latter alternative. If he believes in this case that he is able to affect the selection, it is not inconceivable that he will actually increase the probability to some extent that he will witness precisely the latter alternative.”33 ([Location 1814](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1814))
+    - Tags: [[blue]] 
+- This hypothesis raises the possibility that individuals may alter the course of events by their choices, aspirations, faith, and prayers. ([Location 1818](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1818))
+- “placebo effect” ([Location 1819](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1819))
+    - Tags: [[orange]] 
+- “miracles” ([Location 1820](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1820))
+    - Tags: [[pink]] 
+- Even if such a skeptic were to personally witness a “miracle,” there would still be room for doubt, but the likelihood of such an observation would be decreased by the fact that skeptics prefer to live in a world where such paranormal events are impossible. ([Location 1823](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1823))
+- But those who believe in this hypothesis have ample opportunities for tapping into multiple worlds where such “probabilistic wonders” do occur. ([Location 1827](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1827))
+    - Tags: [[blue]] 
+- “first-person science,” ([Location 1831](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1831))
+- We step with our own person back into the part of an onlooker who does not belong to the world, which by this very process becomes an objective world.”4 ([Location 1872](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1872))
+- Given the radically different methods of inquiry used in physics and Buddhism, it is remarkable that they both present visions of the natural world in which all phenomena manifest as quanta, or discrete units. ([Location 1874](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1874))
+    - Tags: [[orange]] 
+- Energy is always a property of something else, and it has no existence apart from matter. They differ only in terms of the units in which they are measured. ([Location 1879](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1879))
+    - Tags: [[pink]] 
+- According to Buddhist cosmogony, our universe evolves and devolves in an oscillating cycle, compatible with the scientific idea of multiple big bangs. ([Location 1885](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1885))
+    - Tags: [[blue]] 
+- In the evolution of the universe, motility, or kinetic energy, emerges from space; heat, or thermal energy, emerges from motility; fluidity emerges from heat; and solids emerge from fluids. ([Location 1886](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1886))
+    - Tags: [[blue]] 
+- One fundamental difference between scientific and Buddhist views of the universe is that science traditionally seeks to describe the physical world as it exists independent of any observer, whereas Buddhism is concerned only with the world of experience (loka), which is inseparable from conscious subjects. The importance of this distinction cannot be overemphasized. ([Location 1890](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1890))
+- chronon. ([Location 1894](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1894))
+    - Tags: [[orange]] 
+- Inside a black hole, space is completely transmuted into time, which is to say it enters into time but doesn’t actually become time. Likewise, time enters into space, but it doesn’t become space. ([Location 1899](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1899))
+    - Tags: [[pink]] 
+- Quiescence is to contemplative discoveries what the telescope is to astronomical discoveries, and any meditator who has not yet achieved it is technically regarded as a novice.12 ([Location 1925](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1925))
+    - Tags: [[orange]] 
+- The previously described practice of settling the mind in its natural state culminates in quiescence, initially gaining access to the form realm by way of the substrate consciousness. Once one has achieved this exceptional level of attentional balance, one should be able to effortlessly remain there, with the physical senses totally withdrawn, for at least four hours, with unwavering mindfulness and an extraordinary degree of vividness. ([Location 1927](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1927))
+- In addition to remarkable state effects, quiescence also yields a number of trait effects that carry over into daily life while not formally engaged in meditation.13 Generally speaking, mental imbalances such as craving and anger arise only infrequently, and when they do occur they are feeble and of brief duration. We experience an unprecedented degree of mental and physical suppleness and fitness, and the qualities of attentional stability and vividness persist even in sleep. Our attention remains highly focused throughout all activities, and there is such high resolution and vividness in our awareness that we feel as if we could count the individual atoms of the material objects in our environment. Moreover, visual experience of all kinds of physical phenomena may be radically transformed, so that we perceive them simply as matrices of luminous forms rather than as concrete objects.14 ([Location 1930](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1930))
+    - Tags: [[orange]] 
+- The Buddhist concept of mindfulness, in contrast, has a strong ethical component, and its primary characteristics are unwavering, penetrating, discerning attentiveness to the object under examination.18 ([Location 1952](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1952))
+    - Tags: [[pink]] 
+- “In the seen there is only the seen; in the heard, there is only the heard; in the sensed, there is only the sensed; in the cognized, there is only the cognized.”22 ([Location 1971](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1971))
+    - Tags: [[orange]] 
+- We may also continue this mindful examination of phenomena during the dream state so as to more deeply understand the similarities and differences between waking and dreaming realities. ([Location 1982](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1982))
+- dream journaling ([Location 1985](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1985))
+    - Tags: [[orange]] 
+- focus on the dreams that occur in the early morning, when they are especially clear.25 ([Location 1986](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1986))
+    - Tags: [[pink]] 
+- In this way, we may continue in the practice of contemplative insight during all states of consciousness, while awake, while dreaming, and in dreamless sleep. ([Location 1994](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1994))
+    - Tags: [[blue]] 
+- learning to maintain lucidity during dreams, ([Location 1996](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1996))
+    - Tags: [[blue]] 
+- regulating the qualities and quantities of… ([Location 1997](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1997))
+- overcoming fear by recognizing the illusory… ([Location 1997](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1997))
+    - Tags: [[orange]] 
+- meditating on the actual nature of dream… ([Location 1997](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=1997))
+    - Tags: [[pink]] 
+- In the second phase, we begin to explore the nature of dream reality by deliberately altering… ([Location 2001](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2001))
+    - Tags: [[blue]] 
+- In these ways we discover whether there is anything in the dream, “subjectively” or “objectively,” that is impervious to our will… ([Location 2003](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2003))
+- With the clear recognition that everything in a dream consists of mere appearances, no more substantial than a rainbow, we… ([Location 2008](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2008))
+    - Tags: [[blue]] 
+- Our own form in the dream is an illusion, as is the water or fire; even if we perish in the dream, that too is an illusion. With that clear recognition, we cannot be harmed, so there is no need to attempt to… ([Location 2009](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2009))
+- The fourth practice of dream yoga entails thoroughly fathoming the illusory nature of everything in the… ([Location 2012](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2012))
+    - Tags: [[blue]] 
+- we may allow a dreamscape to dissolve back into the empty… ([Location 2016](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2016))
+- This can easily be done simply by being still… ([Location 2016](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2016))
+    - Tags: [[orange]] 
+- Ceasing to interact with dream phenomena and suspending all conceptual designations upon dream events… ([Location 2017](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2017))
+    - Tags: [[pink]] 
+- All that remains is a vacuous space of awareness, devoid of… ([Location 2018](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2018))
+    - Tags: [[blue]] 
+- This is the substrate, out of which all dream phenomena appear… ([Location 2018](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2018))
+- The primary difference between them is that dream phenomena are not directly dependent upon physical influences from the surrounding… ([Location 2022](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2022))
+    - Tags: [[orange]] 
+- So the daytime practice of dream yoga has two… ([Location 2025](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2025))
+    - Tags: [[pink]] 
+- recognizing how all phenomena in the waking state are momentary and exist only relative to perceptual… ([Location 2025](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2025))
+    - Tags: [[blue]] 
+- recognizing that even though all phenomena are empty of their own inherent nature, they still appear and causally interact… ([Location 2026](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2026))
+- Physical phenomena, for instance, are relative and illusory, yet they still arise and interact… ([Location 2028](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2028))
+    - Tags: [[orange]] 
+- And even though there is no inherently existing self, or ego, people still engage in actions and experience the results of… ([Location 2029](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2029))
+    - Tags: [[pink]] 
+- In science, the laws of nature are not simply a matter of personal preference, and in Buddhism, the laws of karma are invariant across… ([Location 2030](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2030))
+    - Tags: [[blue]] 
+- “… ([Location 2036](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2036))
+- “to… ([Location 2037](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2037))
+- “to create… ([Location 2037](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2037))
+- “… ([Location 2040](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2040))
+    - Tags: [[blue]] 
+- (srid… ([Location 2040](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2040))
+    - Tags: [[blue]] 
+- “… ([Location 2040](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2040))
+- “the process of… ([Location 2040](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2040))
+- (snang… ([Location 2041](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2041))
+    - Tags: [[blue]] 
+- “all phenomena that can possibly… ([Location 2041](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2041))
+- divides up the seamless fabric of reality, giving form to manifold worlds of illusory,… ([Location 2043](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2043))
+    - Tags: [[orange]] 
+- (… ([Location 2045](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2045))
+    - Tags: [[blue]] 
+- “worlds of… ([Location 2046](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2046))
+- four dimensions of… ([Location 2046](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2046))
+    - Tags: [[orange]] 
+- Finally, the explicate order of the physical world—consisting of quanta of consciousness, time, energy, space, and… ([Location 2049](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2049))
+    - Tags: [[blue]] 
+- to examine the nature of consciousness itself, we let our awareness come to rest in the space in front of us, and without focusing on anything, ([Location 2054](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2054))
+    - Tags: [[blue]] 
+- simply maintain unwavering mindfulness of being conscious. ([Location 2055](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2055))
+    - Tags: [[blue]] 
+- “Is there something there that has become still?” ([Location 2056](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2056))
+- Can we find anything that corresponds to the word “mind”? ([Location 2057](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2057))
+    - Tags: [[orange]] 
+- Is the mind nothing or is it something? ([Location 2057](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2057))
+    - Tags: [[pink]] 
+- When we observe our mind, is there one entity that is being observed and another that is doing the observing? ([Location 2057](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2057))
+    - Tags: [[blue]] 
+- To the best of our ability, we invert our awareness upon the observer. ([Location 2058](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2058))
+- As we consider, “What is the nature of the mind?” we direct our attention to that which is posing the question. ([Location 2059](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2059))
+    - Tags: [[orange]] 
+- When discursive thoughts, mental images, emotions, desires, and other mental phenomena arise, we investigate how they come into being and where they come from. ([Location 2062](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2062))
+    - Tags: [[blue]] 
+- A major theme of this contemplative insight practice is to examine whether all these mental phenomena are the same or different and to seek out the nature of that which is observing them. ([Location 2064](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2064))
+- A central insight to be gleaned is that all mental phenomena, as well as the observer of those phenomena, are empty of inherent nature. ([Location 2066](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2066))
+    - Tags: [[orange]] 
+- Not even consciousness is an absolute, for within the world of conditioned existence, moments of subjective consciousness always arise in relation to objects of awareness. ([Location 2067](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2067))
+    - Tags: [[pink]] 
+- self as an agent.30 ([Location 2069](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2069))
+    - Tags: [[blue]] 
+- If we do, we identify the object we grasp onto as being ourself and sustain it, as if we were suspending a particle within a force field. ([Location 2071](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2071))
+    - Tags: [[blue]] 
+- The above methods of contemplative inquiry suggest that no subjective phenomenon has its own inherent or absolute existence. ([Location 2079](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2079))
+    - Tags: [[blue]] 
+- This could imply, he continued, that we are moving from a science of objectivity to a science of intersubjectivity, in which the next relativity theory will include a relativity between the object and the subject, between the physical and the mental.34 ([Location 2093](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2093))
+- Middle Way Buddhism proposes that the passage of time can be measured only relative to a cognitive frame of reference.36 ([Location 2100](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2100))
+    - Tags: [[orange]] 
+- And no unit of time exists independently of its component parts, its beginning and end. ([Location 2103](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2103))
+    - Tags: [[pink]] 
+- Points of space are no longer regarded as having any objective existence, and in physics at large, the number of absolutes is steadily decreasing while the range of relative entities is getting larger and larger. ([Location 2106](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2106))
+    - Tags: [[blue]] 
+- the act of measurement causes the entanglement to cease so that it is no longer present for any future observations. ([Location 2117](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2117))
+- the whole world becomes entangled.39 ([Location 2120](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2120))
+    - Tags: [[orange]] 
+- Beginning with contemplative insight into the nature of the mind, one discovers that all phenomena arise only in relation to the mind that apprehends them, yet that mind is empty of its own independent, inherent identity.45 ([Location 2160](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2160))
+    - Tags: [[blue]] 
+- From moment to moment, mental phenomena emerge and vanish only in relation to a cognitive framework. ([Location 2162](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2162))
+- They have no absolute, subjective origination, presence, or dissolution, and neither do all their objective appearances. ([Location 2163](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2163))
+    - Tags: [[orange]] 
+- Craving, hostility, and delusion all radically subside, and as a result of insight into the profound interdependence of all beings, love and compassion spontaneously arise as never before. ([Location 2165](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2165))
+    - Tags: [[pink]] 
+- quiescence and insight. ([Location 2168](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2168))
+    - Tags: [[blue]] 
+- conceptual insight counteracts conceptual error, until eventually concepts of both kinds fade away. ([Location 2172](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2172))
+- a sense of euphoria commonly arises. ([Location 2188](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2188))
+- A much deeper sense of bliss and mental pliancy is said to result from direct insight into emptiness during the waking state, far surpassing even the bliss of achieving meditative quiescence alone.49 ([Location 2190](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2190))
+    - Tags: [[orange]] 
+- the bliss of contemplative insight is a result of overcoming the deep-rooted delusion of reifying phenomena of all kinds. ([Location 2193](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2193))
+    - Tags: [[pink]] 
+- By the power of conceptual designation based on the recognition that everything we are experiencing exists only relative to our mind, ([Location 2195](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2195))
+    - Tags: [[blue]] 
+- we can transform ([Location 2196](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2196))
+    - Tags: [[blue]] 
+- our own appearance at will and instantly shift from one dream environment to another. ([Location 2196](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2196))
+    - Tags: [[blue]] 
+- What we are altering is the appearances that emerge from our own substrate, and these influence everyone in our dream, for they also arise from the substrate. ([Location 2197](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2197))
+- Buddhist contemplative insight is better characterized as becoming lucid during the waking state. In this truly “awakened” state of consciousness, we not only stop reifying phenomena, we directly perceive their empty nature, recognizing that all things exist only as dependently related events arising relative to a cognitive frame of reference. ([Location 2209](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2209))
+    - Tags: [[orange]] 
+- While one is immersed in the nonconceptual realization of emptiness, all other phenomena vanish and one’s awareness settles into ineffable bliss, luminosity, and spaciousness that far transcend analogous qualities of the substrate consciousness. ([Location 2211](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2211))
+    - Tags: [[pink]] 
+- But the direct realization of emptiness allegedly has an enormous impact on all features of one’s life, including the achievement of various paranormal abilities such as remote viewing and precognition. ([Location 2214](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2214))
+    - Tags: [[blue]] 
+- Buddhists claim that there are definite limitations on the paranormal abilities of someone who has directly realized emptiness. No one, including a buddha, is omnipotent. ([Location 2220](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2220))
+- This deeper dimension of awareness would have to be nonlocal and atemporal, that is, it is not located in any particular region of space or at any point in time. ([Location 2226](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2226))
+    - Tags: [[orange]] 
+- As mentioned previously, Buddhism makes the astonishing claim that people who have directly realized emptiness may alter not only their own reality but also the realities of others. ([Location 2250](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2250))
+    - Tags: [[blue]] 
+- “man is the measure of all things,” implying that knowledge is invariably related to the knower.54 ([Location 2267](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2267))
+- A major flaw in the objectivist strategy is the reliance upon subjects’ beliefs about their own experiences, for in many cases, they perceive things that aren’t there (such as visual illusions) ([Location 2287](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2287))
+- and don’t perceive things that are there (as in change blindness). ([Location 2288](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2288))
+- mind-matter problem ([Location 2300](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2300))
+    - Tags: [[orange]] 
+- In its general theory of ontological relativity, the Middle Way view of Buddhism denies the independent existence of both mental and physical phenomena, and claims that all scientific, philosophical, aesthetic, and religious truths exist only relative to cognitive frames of reference. ([Location 2304](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2304))
+    - Tags: [[pink]] 
+- solipsism, ([Location 2306](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2306))
+    - Tags: [[blue]] 
+- Some adopt a pragmatic approach, arguing that the epistemological status of a cognition is determined by the desired or undesired outcome of an activity based on it. ([Location 2309](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2309))
+- Those representing the Middle Way view attempt to avoid the extremes of metaphysical realism and solipsism by proposing the following criteria for determining whether a hypothetical entity exists: it is apprehended relative to a cognitive frame of reference; its existence is not invalidated by more rigorously acquired empirical evidence or reasoning; and its existence is not repudiated by the ontological insight that nothing exists by its own absolute, inherent nature.58 Without recourse to an assumed correspondence to anything that is real in and of itself, independent of any cognitive frame of reference, this is a kind of bootstrap method for investigating reality. Buddhist inquiry is in principle always evaluated in relation to the pursuit of genuine happiness (liberation and spiritual awakening) and virtue. So the above three epistemological criteria are closely aligned to pragmatic criteria as well. ([Location 2315](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2315))
+    - Tags: [[orange]] 
+- The Middle Way view does allow for the possibility of errors even within the context of a single cognitive frame of reference. ([Location 2328](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2328))
+    - Tags: [[pink]] 
+- For example, one may introspectively mistake one’s motivation for engaging in a certain activity. In terms of acquiring introspective knowledge, a single cognition can be evaluated—epistemically and pragmatically—only in relation to prior and subsequent cognitions. With training, one may enhance and refine the faculty of metacognition, or introspection, much as the human visual faculty has been enhanced and refined technologically with such instruments as the telescope. And through verbal discourse, one may cross-reference one’s own experiences in relation to those of others who have engaged in such introspective training, much as scientists test each other’s findings in their respective laboratories. ([Location 2329](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2329))
+    - Tags: [[pink]] 
+- One common source of error is the assumption that a statement that is true for one cognitive frame of reference must be equally true for all other frames of reference. ([Location 2336](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2336))
+    - Tags: [[blue]] 
+- frozen time, ([Location 2360](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2360))
+    - Tags: [[blue]] 
+- no external observer with respect to the universe, and there is no external clock that does not belong to the universe. ([Location 2361](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2361))
+    - Tags: [[blue]] 
+- without introducing an observer, we have a dead universe that does not evolve in time, ([Location 2370](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2370))
+- reemphasizes the role of the participant in the self-observing universe of quantum cosmology. ([Location 2371](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2371))
+    - Tags: [[orange]] 
+- The universe becomes alive (time-dependent) only when we think of it as divided into a subjective observer and the rest of the objective universe, ([Location 2371](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2371))
+    - Tags: [[pink]] 
+- the evolution of the universe and everything in it, including life itself, is possible only with respect to the observer.2 ([Location 2373](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2373))
+    - Tags: [[blue]] 
+- The notion of an observer necessarily implies the presence of consciousness, ([Location 2375](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2375))
+    - Tags: [[blue]] 
+- As Andrei Linde points out, the current scientific model of the material world obeying laws of physics has been so successful that we forget about our starting point—as conscious observers—and conclude that matter is the only reality and that perceptions are only helpful for describing it. ([Location 2377](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2377))
+- But in fact, we are substituting the reality of our experience of the universe with a conceptually contrived belief in an independently existing material world.3 ([Location 2379](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2379))
+    - Tags: [[orange]] 
+- The notion of time and a physically evolving universe independent of any observer is an illusion, albeit a very persistent one.4 ([Location 2381](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2381))
+    - Tags: [[pink]] 
+- Many physicists describe the world beyond time in terms of the melted vacuum, which embodies the laws of nature in their ideal, perfectly symmetrical state, while the frozen vacuum state of the universe in which we dwell reflects the current laws of nature. ([Location 2382](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2382))
+- A fundamental difference between them is that the former is the lowest state of energy allowable by the laws of nature, ([Location 2384](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2384))
+    - Tags: [[orange]] 
+- while the latter is described as the lowest state of energy achievable by current technology. ([Location 2385](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2385))
+    - Tags: [[pink]] 
+- According to this view, over the course of cosmic evolution after the big bang, empty space gradually “froze,” so that it has taken on internal structure like that of an ice crystal. ([Location 2386](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2386))
+    - Tags: [[blue]] 
+- Over the course of cosmic evolution, multiple symmetries were broken in ways that selected the universe we experience from among a wide array of alternative universes that might have emerged. ([Location 2389](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2389))
+- Did those symmetries have to break as they did, or might they have broken in other ways, resulting in other kinds of universes? ([Location 2390](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2390))
+    - Tags: [[orange]] 
+- And what caused our particular universe to evolve as it did? ([Location 2391](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2391))
+    - Tags: [[pink]] 
+- Might it have to do with our presence as observer-participants?5 ([Location 2391](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2391))
+    - Tags: [[blue]] 
+- The melted vacuum is an expression of perfect symmetry, a dimension of reality that has no internal structure and transcends time and change. ([Location 2393](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2393))
+- Physicists cannot directly observe this hidden perfection; ([Location 2395](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2395))
+    - Tags: [[blue]] 
+- absolute space of phenomena ([Location 2402](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2402))
+    - Tags: [[blue]] 
+- primordial consciousness ([Location 2403](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2403))
+- primal energy ([Location 2404](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2404))
+    - Tags: [[orange]] 
+- “the fourth time,” ([Location 2427](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2427))
+    - Tags: [[blue]] 
+- perceiver, ([Location 2432](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2432))
+    - Tags: [[blue]] 
+- Without such participancy by a perceiving agent, there are no phenomena, and the universe is static. ([Location 2436](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2436))
+- “Primordial consciousness is self-originating, naturally clear, free of outer and inner obscuration; it is the all-pervasive, radiant, clear infinity of space, free of contamination.”10 ([Location 2453](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2453))
+    - Tags: [[blue]] 
+- The way to return to the perfect symmetry of primordial consciousness is to realize how all phenomena fundamentally emerge from and are of the nature of absolute space. ([Location 2461](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2461))
+- all appearances are ([Location 2462](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2462))
+    - Tags: [[orange]] 
+- illusory displays of our own primordial consciousness, ([Location 2462](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2462))
+    - Tags: [[orange]] 
+- To “gain confidence” in the view, we first identify the nature of primordial consciousness, then continually abide in that state of awareness until it remains unwaveringly at all times and in all situations. ([Location 2470](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2470))
+    - Tags: [[blue]] 
+- Just as the nature of ice is water, the nature of everything is the unity of primordial consciousness and absolute space. Once we cease objectifying ourselves and everything else and recognize the “one taste” of all phenomena as displays of primordial consciousness, we enter into a state of meditative equipoise in which all phenomena dissolve into the great expanse, with no object, obstruction, or intentionality.11 ([Location 2475](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2475))
+    - Tags: [[blue]] 
+- “fourth time,” beyond the past, present, and future, ([Location 2497](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2497))
+- Once we have acquired this view of the Great Perfection by “resting our awareness in its own state” and “seeing the true face of our own mind,” the meditative practice consists simply of sustaining this awareness with unwavering, continuous mindfulness. ([Location 2500](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2500))
+    - Tags: [[blue]] 
+- We attend to whatever arises with a sense of childlike wonder and freshness. ([Location 2505](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2505))
+- The one taste of all kinds of phenomena—from the most terrible to the most sublime—becomes apparent. ([Location 2518](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2518))
+    - Tags: [[orange]] 
+- With our mind transcending all personal preferences, even for spiritual awakening itself, our awareness rests in its own primordial ground, luminous and forever free. ([Location 2519](https://readwise.io/to_kindle?action=open&asin=B007C52F86&location=2519))
+    - Tags: [[pink]] 

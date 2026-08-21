@@ -1,0 +1,314 @@
+# Breath by Breath
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/41KhRAf3BzL._SL200_.jpg)
+
+## Metadata
+- Author: [[Larry Rosenberg, David   Guy ]]
+- Full Title: Breath by Breath
+- Category: #books
+
+## Highlights
+- whole body, ([Location 238](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=238))
+    - Tags: [[orange]] 
+- calm the body. ([Location 238](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=238))
+    - Tags: [[orange]] 
+- notice feelings ([Location 239](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=239))
+- mental reactions ([Location 239](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=239))
+- lead you into the mind ([Location 239](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=239))
+    - Tags: [[blue]] 
+- phenomena you’re observing arise and pass away, ([Location 240](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=240))
+    - Tags: [[pink]] 
+- represent a natural process. ([Location 241](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=241))
+    - Tags: [[pink]] 
+- you can use the sutra as a training program or as the description of a process, ([Location 244](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=244))
+    - Tags: [[pink]] 
+- ultimately your body and mind do what they want, and you won’t have much say about it. ([Location 246](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=246))
+- bringing the practice into daily life. ([Location 251](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=251))
+    - Tags: [[pink]] 
+- It is very important to understand that you’re being introduced not to an esoteric practice that is divorced from the rest of your life but to a new way of living, in which attention to every moment is paramount. ([Location 252](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=252))
+- “The meditator, having gone to the forest, to the shade of a tree, or to an empty building, sits down with legs folded crosswise, body held erect, and sets mindfulness to the fore. Always mindful, the meditator breathes in; mindful, the meditator breathes out.” ([Location 337](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=337))
+    - Tags: [[orange]] 
+- remove ourselves from familiar settings, ([Location 340](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=340))
+    - Tags: [[pink]] 
+- Though correct practice is to be mindful everywhere—to take our practice into every aspect of daily life—it is always helpful to have a safe and protected place designated for meditation. ([Location 344](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=344))
+    - Tags: [[pink]] 
+- comfort and stability. ([Location 349](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=349))
+    - Tags: [[orange]] 
+- the deep roots are a stable sitting posture— ([Location 364](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=364))
+    - Tags: [[orange]] 
+- The sitting posture is not an incidental factor but a vital part of the practice. ([Location 368](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=368))
+    - Tags: [[pink]] 
+- arouse mindfulness. ([Location 378](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=378))
+- Mindfulness is often likened to a mirror; it simply reflects what is there. It is not a process of thinking; it is preconceptual, before thought. ([Location 382](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=382))
+    - Tags: [[pink]] 
+- The only time that mindfulness can happen is in the present moment; ([Location 385](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=385))
+    - Tags: [[orange]] 
+- Mindfulness is unbiased. It is not for or against anything, just like a mirror, which does not judge what it reflects. Mindfulness has no goal other than the seeing itself. It doesn’t try to add to what’s happening or subtract from it, to improve it in any way. ([Location 386](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=386))
+    - Tags: [[orange]] 
+- It isn’t detached, like a person standing on a hill far away from an experience, observing it with binoculars. It is a form of participation—you are fully living out your life, but you are awake in the midst of it—and it is not limited to the meditation hall. ([Location 388](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=388))
+- Eventually, it becomes more a way of living than a technique. ([Location 391](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=391))
+    - Tags: [[blue]] 
+- intimacy. ([Location 393](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=393))
+    - Tags: [[pink]] 
+- The great thirteenth-century Japanese Zen teacher Dogen was once asked, “What is the awakened mind?” and he answered, “The mind that is intimate with all things.” ([Location 393](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=393))
+    - Tags: [[orange]] 
+- thinking often comes between us and our experience. Inasmuch as it does, we are not intimate with that moment. We are not mindful. ([Location 400](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=400))
+- the task of mindfulness is to be intimate with the experience, really to feel the sweat pouring down the face or the body shivering. When the Buddha is hot, he sweats; when cold, he shivers. ([Location 420](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=420))
+    - Tags: [[pink]] 
+- it is extremely difficult to be intimate with someone else until you’ve been intimate with yourself, ([Location 426](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=426))
+    - Tags: [[blue]] 
+- when we focus on the breath, we are focusing on the life force. ([Location 441](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=441))
+    - Tags: [[orange]] 
+- The instruction is just to know that we are, not in an intellectual sense, but to be aware of the simple sensation, the in-breath and the out-breath. ([Location 464](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=464))
+    - Tags: [[blue]] 
+- Most of us are quite good at controlling, and what we’d really like is to be even better at it. ([Location 468](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=468))
+- We are learning even in this first instruction the art of surrender, which is central to our Dharma practice. ([Location 473](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=473))
+    - Tags: [[pink]] 
+- “your face before your parents were born.” ([Location 477](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=477))
+    - Tags: [[blue]] 
+- The ultimate goal—though this is no easy thing and takes time to develop—is to allow everything to come up, with all its energy: all of, for instance, your anger and loneliness and despair, ([Location 481](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=481))
+    - Tags: [[orange]] 
+- to allow these things to arise and be transformed by the light of awareness. ([Location 482](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=482))
+    - Tags: [[orange]] 
+- What we gradually learn is to let these things come up and be transformed, to release their energy. You don’t solve your problems in this practice, it is sometimes said, you dissolve them. ([Location 484](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=484))
+- if we look more closely at the objects that the mind chases, we notice a similar lack of nourishment. ([Location 493](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=493))
+- Station your attention at the nose, chest, or abdomen, and remain there with some consistency. ([Location 520](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=520))
+    - Tags: [[orange]] 
+- One simple technique is silent counting. ([Location 523](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=523))
+    - Tags: [[blue]] 
+- the idea is for the mind, the number, and the breath to become one. ([Location 531](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=531))
+    - Tags: [[blue]] 
+- parikamma, ([Location 532](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=532))
+    - Tags: [[orange]] 
+- Buddho, ([Location 533](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=533))
+- It might also help to practice hatha yoga, t’ai chi, or other physical disciplines that focus on the breathing. ([Location 541](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=541))
+    - Tags: [[pink]] 
+- devotion ([Location 543](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=543))
+    - Tags: [[orange]] 
+- We all start off somewhat skeptically, but if this practice is right for you, there comes a time when you simply give yourself over to it. ([Location 543](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=543))
+    - Tags: [[pink]] 
+- Keep it simple, and stick to the present moment. ([Location 547](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=547))
+    - Tags: [[orange]] 
+- The problem was that, in addition to my fatigue, I was carrying around an extra burden: the concept of seven days without sleep. ([Location 572](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=572))
+    - Tags: [[pink]] 
+- The Buddha said that it is important to develop mindfulness in all four postures: sitting, standing, walking, and lying down. ([Location 584](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=584))
+    - Tags: [[orange]] 
+- In taking the practice into daily life, walking is extremely important because it is a form of meditation in motion, and also because we spend so much of our lives doing it. ([Location 587](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=587))
+- Stand in a balanced posture and notice that you are breathing, just as you have been doing while sitting. You can clasp your hands in front of you if that feels comfortable. Some people clasp them behind the back; others just let their arms hang at their sides. It is helpful if your body is upright—not leaning in any direction—and relaxed. If you feel tension in any part of the body, just bring mindfulness to it and that will usually take care of it. The eyes are open but not staring. Try to maintain a soft gaze. To begin, wait for an in-breath. As it arises, raise the right foot, heel first, then the sole of the foot, then the toes. Move the foot forward as the breath continues, and as you exhale, place it on the ground, finishing the step. The heel of the stepping foot should be just ahead of the toes of the other one. Then wait for the next inhalation and take the same kind of step with the left foot. The breath sets the pace, so if you are breathing slowly—as you are likely to be if you have been sitting—you will move quite slowly. The challenge is to let the breath lead and to synchronize the movements of the legs with it. This requires close attention and doesn’t leave much room for distraction. It is excellent practice in not controlling the breath, a skill that is valuable for sitting practice as well. At the end of the walking track, stand and breathe mindfully for a few moments, then turn and do the same kind of walking ([Location 589](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=589))
+    - Tags: [[blue]] 
+- in the other direction. If, as you walk, some preoccupation takes over the mind, pulling your attention away from the walking again and again, you may wish to come to a halt and turn to the breath—along with the preoccupation itself—until the mind is clear. Your primary attention is to the feet as they leave the ground, move, and touch the ground again. The breath is in the background, dictating the pace of these movements. You may want to focus on a larger area, like the whole leg. But your attention is to the act of walking. ([Location 600](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=600))
+    - Tags: [[blue]] 
+- The other method of walking meditation is slightly more complicated and, believe it or not, a little slower. When the in-breath arises, just raise the heel of the right foot, with the toes still lightly touching the ground. Leave your foot in this position as the exhalation takes place. Then, with the next in-breath, raise that foot, move it forward, and place it on the ground. With the exhalation, shift your weight to that foot, completing the step. This method, since it is slightly more complex, requires more attention to subtle aspects of the breathing, and it allows more concentration to develop for some meditators. ([Location 604](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=604))
+- Another technique is to move at a normal pace and count the steps you take in the process of breathing, first on the inhalation (one, two, three), then the exhalation. Don’t impose a pattern on the breath; just let it flow naturally. It is easy to get mechanical about this method, but the lungs’ need for air may change during the course of a walk, so you will have to stay alert. At the beginning, the pace you walk will probably condition the breathing, but in time the breathing may begin to condition the walking. The two become integrated and make themselves into one process. ([Location 613](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=613))
+    - Tags: [[orange]] 
+- It is also possible to practice just with the breathing as you walk; whatever pace you’re moving, make the breath the primary object of attention. You will notice the walking to some extent, of course, but keep coming back to the breathing. After you’ve been practicing breath awareness for some time, you may find that the breath and the sensations of the body become inseparable. There is a walking breathing body and the knowing of ([Location 617](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=617))
+    - Tags: [[pink]] 
+- it. ([Location 620](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=620))
+    - Tags: [[pink]] 
+- I have always enjoyed natural walking as a form of meditation. The breath and body are a unified field, and I attend to this walking breathing body as I move around the house or go outside. This feeling isn’t something to force; it will happen naturally over time, as you develop mindfulness. Walking will then become a much different activity in your life. ([Location 620](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=620))
+    - Tags: [[pink]] 
+- Saint Francis of Assisi had a simpler way of putting it: “It is no use walking anywhere to preach unless our walking is our preaching.” ([Location 628](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=628))
+    - Tags: [[orange]] 
+- These are the five rewards for one who practices walking meditation. . . . He can endure traveling by foot; he can endure exertion; he becomes free from disease; whatever he has eaten and drunk, chewed and savored, becomes well-digested; the concentration he wins while doing walking meditation lasts for a long time. ([Location 630](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=630))
+- 1.  While breathing in long, one knows: “I breathe in long.” While breathing out long, one knows: “I breathe out long.” 2.  While breathing in short, one knows: “I breathe in short.” While breathing out short, one knows: “I breathe out short.” ([Location 637](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=637))
+    - Tags: [[blue]] 
+- Most commentators agree that the Buddha meant more than long and short here; he was talking about all the qualities of the breath. ([Location 641](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=641))
+- One of the things you learn about this whole process—the conjunction of mind and body, with the breath as the meeting place—is that awareness has an extremely powerful effect on it. ([Location 648](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=648))
+    - Tags: [[orange]] 
+- This isn’t something to try for. Trying actually prevents it. ([Location 651](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=651))
+    - Tags: [[blue]] 
+- Something happens when mindfulness touches breathing. ([Location 654](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=654))
+    - Tags: [[pink]] 
+- you shouldn’t start out with some idea of gaining. ([Location 658](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=658))
+    - Tags: [[blue]] 
+- When we follow the breathing in the hope of becoming something better, we are compromising our connection to the present, which is all we ever have. ([Location 660](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=660))
+    - Tags: [[pink]] 
+- The first law of Buddhism is that everything is constantly changing. ([Location 662](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=662))
+    - Tags: [[orange]] 
+- However your practice seems to you, cherish it just the way it is. ([Location 664](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=664))
+- Actually, the whole process is meditation: being with the breathing, drifting away, seeing that we’ve drifted away, gently coming back. ([Location 669](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=669))
+    - Tags: [[orange]] 
+- a seed that increases the likelihood of such moments in the future. ([Location 672](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=672))
+- The object of these first two contemplations isn’t to make your breathing perfect. It’s to see how your breathing really is. ([Location 674](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=674))
+    - Tags: [[orange]] 
+- Each breath moment is both a means and an end. ([Location 684](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=684))
+- We’re not looking at the breath in order to get to enlightenment. We’re just looking at the breath, rooted to it, sitting with it like a lion. ([Location 684](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=684))
+    - Tags: [[pink]] 
+- The opportunity we have, of staying with the breathing, constantly coming back to it, is a chance to do one simple, ordinary thing well, to treat it with great care and respect. ([Location 688](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=688))
+    - Tags: [[blue]] 
+- we begin to see the nature of the bones we keep chasing. ([Location 707](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=707))
+    - Tags: [[orange]] 
+- yenta— ([Location 712](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=712))
+- We begin to see that all our ideas about how it should be take up far too many of our precious breath moments. We need to begin just to see life—and accept it—as it is. ([Location 715](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=715))
+    - Tags: [[orange]] 
+- Our practice constantly reminds us that everything is worthy of attention. ([Location 733](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=733))
+    - Tags: [[orange]] 
+- when he appeared before a large group of meditators and held up a flower. ([Location 740](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=740))
+- We’re killing the moments of our life when we’re not fully living them, not experiencing them. When we are fully present, we are giving life to life. ([Location 745](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=745))
+    - Tags: [[orange]] 
+- To be mindful of something—of anything—is an act of generosity. ([Location 751](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=751))
+- 3.  One trains oneself: “Sensitive to the whole body, I breathe in. Sensitive to the whole body, I breathe out.” ([Location 759](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=759))
+    - Tags: [[orange]] 
+- As the breath becomes deeper and finer, smoothing out a little—which happens naturally as your continuity of attention develops—we may find that the body becomes more relaxed, and we can sit for longer periods with ease, with fewer problems of physical pain and numbness. ([Location 764](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=764))
+    - Tags: [[orange]] 
+- Pure vipassana practice—this is to give a preview of where things are headed—begins with the thirteenth contemplation, where you see into the nature of the object and see that all things are impermanent. ([Location 770](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=770))
+    - Tags: [[pink]] 
+- There are deeper kinds of knowing, progressively deeper levels, until finally the knowledge becomes internalized. ([Location 774](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=774))
+    - Tags: [[blue]] 
+# Breath by Breath
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/41KhRAf3BzL._SL200_.jpg)
+
+## Metadata
+- Author: [[Larry Rosenberg, David   Guy ]]
+- Full Title: Breath by Breath
+- Category: #books
+
+## Highlights
+- whole body, ([Location 238](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=238))
+    - Tags: [[orange]] 
+- calm the body. ([Location 238](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=238))
+    - Tags: [[orange]] 
+- notice feelings ([Location 239](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=239))
+- mental reactions ([Location 239](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=239))
+- lead you into the mind ([Location 239](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=239))
+    - Tags: [[blue]] 
+- phenomena you’re observing arise and pass away, ([Location 240](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=240))
+    - Tags: [[pink]] 
+- represent a natural process. ([Location 241](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=241))
+    - Tags: [[pink]] 
+- you can use the sutra as a training program or as the description of a process, ([Location 244](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=244))
+    - Tags: [[pink]] 
+- ultimately your body and mind do what they want, and you won’t have much say about it. ([Location 246](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=246))
+- bringing the practice into daily life. ([Location 251](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=251))
+    - Tags: [[pink]] 
+- It is very important to understand that you’re being introduced not to an esoteric practice that is divorced from the rest of your life but to a new way of living, in which attention to every moment is paramount. ([Location 252](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=252))
+- “The meditator, having gone to the forest, to the shade of a tree, or to an empty building, sits down with legs folded crosswise, body held erect, and sets mindfulness to the fore. Always mindful, the meditator breathes in; mindful, the meditator breathes out.” ([Location 337](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=337))
+    - Tags: [[orange]] 
+- remove ourselves from familiar settings, ([Location 340](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=340))
+    - Tags: [[pink]] 
+- Though correct practice is to be mindful everywhere—to take our practice into every aspect of daily life—it is always helpful to have a safe and protected place designated for meditation. ([Location 344](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=344))
+    - Tags: [[pink]] 
+- comfort and stability. ([Location 349](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=349))
+    - Tags: [[orange]] 
+- the deep roots are a stable sitting posture— ([Location 364](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=364))
+    - Tags: [[orange]] 
+- The sitting posture is not an incidental factor but a vital part of the practice. ([Location 368](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=368))
+    - Tags: [[pink]] 
+- arouse mindfulness. ([Location 378](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=378))
+- Mindfulness is often likened to a mirror; it simply reflects what is there. It is not a process of thinking; it is preconceptual, before thought. ([Location 382](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=382))
+    - Tags: [[pink]] 
+- The only time that mindfulness can happen is in the present moment; ([Location 385](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=385))
+    - Tags: [[orange]] 
+- Mindfulness is unbiased. It is not for or against anything, just like a mirror, which does not judge what it reflects. Mindfulness has no goal other than the seeing itself. It doesn’t try to add to what’s happening or subtract from it, to improve it in any way. ([Location 386](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=386))
+    - Tags: [[orange]] 
+- It isn’t detached, like a person standing on a hill far away from an experience, observing it with binoculars. It is a form of participation—you are fully living out your life, but you are awake in the midst of it—and it is not limited to the meditation hall. ([Location 388](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=388))
+- Eventually, it becomes more a way of living than a technique. ([Location 391](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=391))
+    - Tags: [[blue]] 
+- intimacy. ([Location 393](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=393))
+    - Tags: [[pink]] 
+- The great thirteenth-century Japanese Zen teacher Dogen was once asked, “What is the awakened mind?” and he answered, “The mind that is intimate with all things.” ([Location 393](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=393))
+    - Tags: [[orange]] 
+- thinking often comes between us and our experience. Inasmuch as it does, we are not intimate with that moment. We are not mindful. ([Location 400](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=400))
+- the task of mindfulness is to be intimate with the experience, really to feel the sweat pouring down the face or the body shivering. When the Buddha is hot, he sweats; when cold, he shivers. ([Location 420](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=420))
+    - Tags: [[pink]] 
+- it is extremely difficult to be intimate with someone else until you’ve been intimate with yourself, ([Location 426](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=426))
+    - Tags: [[blue]] 
+- when we focus on the breath, we are focusing on the life force. ([Location 441](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=441))
+    - Tags: [[orange]] 
+- The instruction is just to know that we are, not in an intellectual sense, but to be aware of the simple sensation, the in-breath and the out-breath. ([Location 464](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=464))
+    - Tags: [[blue]] 
+- Most of us are quite good at controlling, and what we’d really like is to be even better at it. ([Location 468](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=468))
+- We are learning even in this first instruction the art of surrender, which is central to our Dharma practice. ([Location 473](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=473))
+    - Tags: [[pink]] 
+- “your face before your parents were born.” ([Location 477](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=477))
+    - Tags: [[blue]] 
+- The ultimate goal—though this is no easy thing and takes time to develop—is to allow everything to come up, with all its energy: all of, for instance, your anger and loneliness and despair, ([Location 481](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=481))
+    - Tags: [[orange]] 
+- to allow these things to arise and be transformed by the light of awareness. ([Location 482](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=482))
+    - Tags: [[orange]] 
+- What we gradually learn is to let these things come up and be transformed, to release their energy. You don’t solve your problems in this practice, it is sometimes said, you dissolve them. ([Location 484](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=484))
+- if we look more closely at the objects that the mind chases, we notice a similar lack of nourishment. ([Location 493](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=493))
+- Station your attention at the nose, chest, or abdomen, and remain there with some consistency. ([Location 520](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=520))
+    - Tags: [[orange]] 
+- One simple technique is silent counting. ([Location 523](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=523))
+    - Tags: [[blue]] 
+- the idea is for the mind, the number, and the breath to become one. ([Location 531](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=531))
+    - Tags: [[blue]] 
+- parikamma, ([Location 532](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=532))
+    - Tags: [[orange]] 
+- Buddho, ([Location 533](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=533))
+- It might also help to practice hatha yoga, t’ai chi, or other physical disciplines that focus on the breathing. ([Location 541](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=541))
+    - Tags: [[pink]] 
+- devotion ([Location 543](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=543))
+    - Tags: [[orange]] 
+- We all start off somewhat skeptically, but if this practice is right for you, there comes a time when you simply give yourself over to it. ([Location 543](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=543))
+    - Tags: [[pink]] 
+- Keep it simple, and stick to the present moment. ([Location 547](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=547))
+    - Tags: [[orange]] 
+- The problem was that, in addition to my fatigue, I was carrying around an extra burden: the concept of seven days without sleep. ([Location 572](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=572))
+    - Tags: [[pink]] 
+- The Buddha said that it is important to develop mindfulness in all four postures: sitting, standing, walking, and lying down. ([Location 584](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=584))
+    - Tags: [[orange]] 
+- In taking the practice into daily life, walking is extremely important because it is a form of meditation in motion, and also because we spend so much of our lives doing it. ([Location 587](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=587))
+- Stand in a balanced posture and notice that you are breathing, just as you have been doing while sitting. You can clasp your hands in front of you if that feels comfortable. Some people clasp them behind the back; others just let their arms hang at their sides. It is helpful if your body is upright—not leaning in any direction—and relaxed. If you feel tension in any part of the body, just bring mindfulness to it and that will usually take care of it. The eyes are open but not staring. Try to maintain a soft gaze. To begin, wait for an in-breath. As it arises, raise the right foot, heel first, then the sole of the foot, then the toes. Move the foot forward as the breath continues, and as you exhale, place it on the ground, finishing the step. The heel of the stepping foot should be just ahead of the toes of the other one. Then wait for the next inhalation and take the same kind of step with the left foot. The breath sets the pace, so if you are breathing slowly—as you are likely to be if you have been sitting—you will move quite slowly. The challenge is to let the breath lead and to synchronize the movements of the legs with it. This requires close attention and doesn’t leave much room for distraction. It is excellent practice in not controlling the breath, a skill that is valuable for sitting practice as well. At the end of the walking track, stand and breathe mindfully for a few moments, then turn and do the same kind of walking ([Location 589](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=589))
+    - Tags: [[blue]] 
+- in the other direction. If, as you walk, some preoccupation takes over the mind, pulling your attention away from the walking again and again, you may wish to come to a halt and turn to the breath—along with the preoccupation itself—until the mind is clear. Your primary attention is to the feet as they leave the ground, move, and touch the ground again. The breath is in the background, dictating the pace of these movements. You may want to focus on a larger area, like the whole leg. But your attention is to the act of walking. ([Location 600](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=600))
+    - Tags: [[blue]] 
+- The other method of walking meditation is slightly more complicated and, believe it or not, a little slower. When the in-breath arises, just raise the heel of the right foot, with the toes still lightly touching the ground. Leave your foot in this position as the exhalation takes place. Then, with the next in-breath, raise that foot, move it forward, and place it on the ground. With the exhalation, shift your weight to that foot, completing the step. This method, since it is slightly more complex, requires more attention to subtle aspects of the breathing, and it allows more concentration to develop for some meditators. ([Location 604](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=604))
+- Another technique is to move at a normal pace and count the steps you take in the process of breathing, first on the inhalation (one, two, three), then the exhalation. Don’t impose a pattern on the breath; just let it flow naturally. It is easy to get mechanical about this method, but the lungs’ need for air may change during the course of a walk, so you will have to stay alert. At the beginning, the pace you walk will probably condition the breathing, but in time the breathing may begin to condition the walking. The two become integrated and make themselves into one process. ([Location 613](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=613))
+    - Tags: [[orange]] 
+- It is also possible to practice just with the breathing as you walk; whatever pace you’re moving, make the breath the primary object of attention. You will notice the walking to some extent, of course, but keep coming back to the breathing. After you’ve been practicing breath awareness for some time, you may find that the breath and the sensations of the body become inseparable. There is a walking breathing body and the knowing of ([Location 617](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=617))
+    - Tags: [[pink]] 
+- it. ([Location 620](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=620))
+    - Tags: [[pink]] 
+- I have always enjoyed natural walking as a form of meditation. The breath and body are a unified field, and I attend to this walking breathing body as I move around the house or go outside. This feeling isn’t something to force; it will happen naturally over time, as you develop mindfulness. Walking will then become a much different activity in your life. ([Location 620](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=620))
+    - Tags: [[pink]] 
+- Saint Francis of Assisi had a simpler way of putting it: “It is no use walking anywhere to preach unless our walking is our preaching.” ([Location 628](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=628))
+    - Tags: [[orange]] 
+- These are the five rewards for one who practices walking meditation. . . . He can endure traveling by foot; he can endure exertion; he becomes free from disease; whatever he has eaten and drunk, chewed and savored, becomes well-digested; the concentration he wins while doing walking meditation lasts for a long time. ([Location 630](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=630))
+- 1.  While breathing in long, one knows: “I breathe in long.” While breathing out long, one knows: “I breathe out long.” 2.  While breathing in short, one knows: “I breathe in short.” While breathing out short, one knows: “I breathe out short.” ([Location 637](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=637))
+    - Tags: [[blue]] 
+- Most commentators agree that the Buddha meant more than long and short here; he was talking about all the qualities of the breath. ([Location 641](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=641))
+- One of the things you learn about this whole process—the conjunction of mind and body, with the breath as the meeting place—is that awareness has an extremely powerful effect on it. ([Location 648](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=648))
+    - Tags: [[orange]] 
+- This isn’t something to try for. Trying actually prevents it. ([Location 651](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=651))
+    - Tags: [[blue]] 
+- Something happens when mindfulness touches breathing. ([Location 654](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=654))
+    - Tags: [[pink]] 
+- you shouldn’t start out with some idea of gaining. ([Location 658](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=658))
+    - Tags: [[blue]] 
+- When we follow the breathing in the hope of becoming something better, we are compromising our connection to the present, which is all we ever have. ([Location 660](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=660))
+    - Tags: [[pink]] 
+- The first law of Buddhism is that everything is constantly changing. ([Location 662](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=662))
+    - Tags: [[orange]] 
+- However your practice seems to you, cherish it just the way it is. ([Location 664](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=664))
+- Actually, the whole process is meditation: being with the breathing, drifting away, seeing that we’ve drifted away, gently coming back. ([Location 669](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=669))
+    - Tags: [[orange]] 
+- a seed that increases the likelihood of such moments in the future. ([Location 672](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=672))
+- The object of these first two contemplations isn’t to make your breathing perfect. It’s to see how your breathing really is. ([Location 674](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=674))
+    - Tags: [[orange]] 
+- Each breath moment is both a means and an end. ([Location 684](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=684))
+- We’re not looking at the breath in order to get to enlightenment. We’re just looking at the breath, rooted to it, sitting with it like a lion. ([Location 684](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=684))
+    - Tags: [[pink]] 
+- The opportunity we have, of staying with the breathing, constantly coming back to it, is a chance to do one simple, ordinary thing well, to treat it with great care and respect. ([Location 688](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=688))
+    - Tags: [[blue]] 
+- we begin to see the nature of the bones we keep chasing. ([Location 707](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=707))
+    - Tags: [[orange]] 
+- yenta— ([Location 712](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=712))
+- We begin to see that all our ideas about how it should be take up far too many of our precious breath moments. We need to begin just to see life—and accept it—as it is. ([Location 715](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=715))
+    - Tags: [[orange]] 
+- Our practice constantly reminds us that everything is worthy of attention. ([Location 733](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=733))
+    - Tags: [[orange]] 
+- when he appeared before a large group of meditators and held up a flower. ([Location 740](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=740))
+- We’re killing the moments of our life when we’re not fully living them, not experiencing them. When we are fully present, we are giving life to life. ([Location 745](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=745))
+    - Tags: [[orange]] 
+- To be mindful of something—of anything—is an act of generosity. ([Location 751](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=751))
+- 3.  One trains oneself: “Sensitive to the whole body, I breathe in. Sensitive to the whole body, I breathe out.” ([Location 759](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=759))
+    - Tags: [[orange]] 
+- As the breath becomes deeper and finer, smoothing out a little—which happens naturally as your continuity of attention develops—we may find that the body becomes more relaxed, and we can sit for longer periods with ease, with fewer problems of physical pain and numbness. ([Location 764](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=764))
+    - Tags: [[orange]] 
+- Pure vipassana practice—this is to give a preview of where things are headed—begins with the thirteenth contemplation, where you see into the nature of the object and see that all things are impermanent. ([Location 770](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=770))
+    - Tags: [[pink]] 
+- There are deeper kinds of knowing, progressively deeper levels, until finally the knowledge becomes internalized. ([Location 774](https://readwise.io/to_kindle?action=open&asin=B0085FGEYS&location=774))
+    - Tags: [[blue]] 

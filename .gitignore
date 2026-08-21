@@ -1,0 +1,16 @@
+# Obsidian Git Exclusions
+.trash/
+.venv/
+.space/
+.makemd/
+.obsidian/copilot-index*
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/obsidian-git/data.json
+*(conflict *
+*conflict*
+.DS_Store
+Thumbs.db
+*.tmp
+*.sqlite
+*.db

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">496</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d3fcf7ef-e196-456d-9819-8c05fd25f69f</dc:identifier>
+        <dc:title>Treasury of Truth: Text from the Illustrated Dhammapada</dc:title>
+        <dc:creator opf:file-as="Thera, Ven. Weragoda Sarada" opf:role="aut">Ven. Weragoda Sarada Thera</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.9.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-07-08T21:06:54+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <dc:subject>The Buddha's Teachings</dc:subject>
+        <dc:subject>Buddhism</dc:subject>
+        <dc:subject>Teachings</dc:subject>
+        <dc:subject>scriptures.</dc:subject>
+        <meta content="{&quot;Ven. Weragoda Sarada Thera&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-01-29T04:28:13.683000+00:00" name="calibre:timestamp"/>
+        <meta content="Treasury of Truth: Text from the Illustrated Dhammapada" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

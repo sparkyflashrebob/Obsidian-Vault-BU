@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">772</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e04c7172-9a6e-41db-9a92-63d93b13f186</dc:identifier>
+        <dc:title>The Truth of Rebirth: And Why It Matters for Buddhist Practice</dc:title>
+        <dc:creator opf:file-as="Bhikkhu, Thanissaro" opf:role="aut">Thanissaro Bhikkhu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.9.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-10-08T03:55:40+00:00</dc:date>
+        <dc:description>&lt;p&gt;A short treatise explaining that the Buddha did not teach the doctrine of rebirth simply because he was blindly following the cultural norms of his time. Instead, our resistance to this teaching is pointing to cultural biases of our own that impede progress on the Path. &lt;/p&gt;</dc:description>
+        <dc:publisher>Metta Forest Monastery</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Theravada</dc:subject>
+        <dc:subject>Thai Forest Tradition</dc:subject>
+        <dc:subject>Dharma</dc:subject>
+        <dc:subject>Buddhism</dc:subject>
+        <dc:subject>Dhamma</dc:subject>
+        <dc:subject>Pali Canon</dc:subject>
+        <meta content="{&quot;Thanissaro Bhikkhu&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-01-29T04:32:17.048000+00:00" name="calibre:timestamp"/>
+        <meta content="Truth of Rebirth: And Why It Matters for Buddhist Practice, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

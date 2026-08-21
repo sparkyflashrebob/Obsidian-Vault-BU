@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">935</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">883bbafe-b3af-4991-83e2-c8ebfe92b13f</dc:identifier>
+        <dc:title>Don’t Look Down on the Defilements they will Laugh at You</dc:title>
+        <dc:creator opf:file-as="Tejaniya, Ashin" opf:role="aut">Ashin Tejaniya</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.18.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-12-15T08:00:00+00:00</dc:date>
+        <dc:publisher>Auspicious Affinity</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">N/A</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Ashin Tejaniya&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-12-08T04:16:08.648000+00:00" name="calibre:timestamp"/>
+        <meta content="Don’t Look Down on the Defilements they will Laugh at You" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

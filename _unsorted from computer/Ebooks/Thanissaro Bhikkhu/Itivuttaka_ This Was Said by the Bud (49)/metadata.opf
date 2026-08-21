@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">51fbea56-eef1-48e0-96d4-9d5d2c49c5d3</dc:identifier>
+        <dc:title>Itivuttaka: This Was Said by the Buddha - A Translation</dc:title>
+        <dc:creator opf:file-as="Bhikkhu, Thanissaro" opf:role="aut">Thanissaro Bhikkhu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.9.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-04-21T07:00:00+00:00</dc:date>
+        <dc:description>The Itivuttaka is a collection of 112 short discourses, each one a prose passage followed by a verse. The collection is shaped less by literary considerations than the Dhammapada or Udana and more straightforwardly didactic. The itivuttakas cover the full range of Buddhist practice. On the basic levels, they focus on skillful and unskillful behavior, and on the advanced, they cover some topics found nowhere else in the Canon.</dc:description>
+        <dc:publisher>Metta Forest Monastery</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Dhamma</dc:subject>
+        <dc:subject>Dharma</dc:subject>
+        <dc:subject>Buddha</dc:subject>
+        <dc:subject>Buddhist</dc:subject>
+        <dc:subject>Pali Canon</dc:subject>
+        <dc:subject>Theravada</dc:subject>
+        <meta content="{&quot;Thanissaro Bhikkhu&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-01-29T04:01:40.626000+00:00" name="calibre:timestamp"/>
+        <meta content="Itivuttaka: This Was Said by the Buddha - A Translation" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,13 @@
+
+Buddhism[edit source]
+Some misinterpretations of Buddhism assert that external reality is an illusion, and sometimes this position is [mis]understood as metaphysical solipsism. Buddhist philosophy, though, generally holds that the mind and external phenomena are both equally transient, and that they arise from each other. The mind cannot exist without external phenomena, nor can external phenomena exist without the mind. This relation is known as "dependent arising" (pratityasamutpada).
+
+The Buddha stated, "Within this fathom long body is the world, the origin of the world, the cessation of the world and the path leading to the cessation of the world".[26] Whilst not rejecting the occurrence of external phenomena, the Buddha focused on the illusion created within the mind of the perceiver by the process of ascribing permanence to impermanent phenomena, satisfaction to unsatisfying experiences, and a sense of reality to things that were effectively insubstantial.
+
+Mahayana Buddhism also challenges as illusion the idea that one can experience an 'objective' reality independent of individual perceiving minds.
+
+From the standpoint of Prasangika (a branch of Madhyamaka thought), external objects do exist, but are devoid of any type of inherent identity: "Just as objects of mind do not exist [inherently], mind also does not exist [inherently]".[27] In other words, even though a chair may physically exist, individuals can only experience it through the medium of their own mind, each with their own literal point of view. Therefore, an independent, purely 'objective' reality could never be experienced.
+
+The Yogacara (sometimes translated as "Mind only") school of Buddhist philosophy contends that all human experience is constructed by mind. Some later representatives of one Yogacara subschool (Prajnakaragupta, Ratnakīrti) propounded a form of idealism that has been interpreted as solipsism. A view of this sort is contained in the 11th-century treatise of Ratnakirti, "Refutation of the existence of other minds" (Santanantara dusana), which provides a philosophical refutation of external mindstreams from the Buddhist standpoint of ultimate truth (as distinct from the perspective of everyday reality).[28]
+
+In addition to this, the Bardo Thodol, Tibet's famous book of the dead, repeatedly states that all of reality is a figment of one's perception, although this occurs within the "Bardo" realm (post-mortem). For instance, within the sixth part of section titled "The Root Verses of the Six Bardos", there appears the following line: "May I recognize whatever appeareth as being mine own thought-forms";[29] there are many lines in similar ideal.

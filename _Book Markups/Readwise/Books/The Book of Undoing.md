@@ -1,0 +1,75 @@
+# The Book of Undoing
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/51o1ccYRl1L._SL200_.jpg)
+
+## Metadata
+- Author: [[Fred Davis]]
+- Full Title: The Book of Undoing
+- Category: #books
+
+## Highlights
+- Awakening Clarity ([Location 95](https://readwise.io/to_kindle?action=open&asin=B00C4MSZI6&location=95))
+- Beyond Recovery: Non-Duality and the Twelve Steps, ([Location 110](https://readwise.io/to_kindle?action=open&asin=B00C4MSZI6&location=110))
+- This call to awaken is not unit-centered. ([Location 288](https://readwise.io/to_kindle?action=open&asin=B00C4MSZI6&location=288))
+- Sureness is comfortable, but it's death for continuing spiritual growth. ([Location 303](https://readwise.io/to_kindle?action=open&asin=B00C4MSZI6&location=303))
+    - Tags: [[blue]] 
+- eternal. ([Location 482](https://readwise.io/to_kindle?action=open&asin=B00C4MSZI6&location=482))
+    - Tags: [[pink]] 
+- what's primary.  It has to come first.  Just let this whole notion sink in.  Really feel it.  (pause) ([Location 490](https://readwise.io/to_kindle?action=open&asin=B00C4MSZI6&location=490))
+- infinite. ([Location 497](https://readwise.io/to_kindle?action=open&asin=B00C4MSZI6&location=497))
+    - Tags: [[blue]] 
+- beyond ([Location 498](https://readwise.io/to_kindle?action=open&asin=B00C4MSZI6&location=498))
+    - Tags: [[blue]] 
+- eternal, infinite, and ever-present? ([Location 510](https://readwise.io/to_kindle?action=open&asin=B00C4MSZI6&location=510))
+    - Tags: [[pink]] 
+- it's obvious once it's obvious, but up until that point it's impossible to see. ([Location 525](https://readwise.io/to_kindle?action=open&asin=B00C4MSZI6&location=525))
+- Gateless Gate. ([Location 526](https://readwise.io/to_kindle?action=open&asin=B00C4MSZI6&location=526))
+    - Tags: [[blue]] 
+- so long as there is a sense of viewer or viewed, then we're still in the dream, albeit at a high level. ([Location 533](https://readwise.io/to_kindle?action=open&asin=B00C4MSZI6&location=533))
+    - Tags: [[blue]] 
+- We are the witness viewing the witnessed.  That's a very high level of duality, but it's not Nondual awareness. ([Location 534](https://readwise.io/to_kindle?action=open&asin=B00C4MSZI6&location=534))
+    - Tags: [[pink]] 
+- So, who is it that's feeling small, and getting scared?  The One Thing Going On isn't scared, is it?  Let's call them Big You and small you.  Stand as your true nature.  Look through that body, instead of as that body.  Can you do that?" ([Location 556](https://readwise.io/to_kindle?action=open&asin=B00C4MSZI6&location=556))
+- See how taking the active measure, how using the unit freed you from the unit! ([Location 560](https://readwise.io/to_kindle?action=open&asin=B00C4MSZI6&location=560))
+    - Tags: [[pink]] 
+- When we're feeling scared, use it as a tip-off, as an alarm clock telling you that you're identifying with the little me. ([Location 564](https://readwise.io/to_kindle?action=open&asin=B00C4MSZI6&location=564))
+- But once you've noticed that you've been unconscious, you no longer are!  Only active consciousness can notice unconsciousness. ([Location 565](https://readwise.io/to_kindle?action=open&asin=B00C4MSZI6&location=565))
+    - Tags: [[pink]] 
+- we're slaves to our eyes. ([Location 570](https://readwise.io/to_kindle?action=open&asin=B00C4MSZI6&location=570))
+    - Tags: [[orange]] 
+- Doubt is the great wedge to keeping the door to reality cracked. ([Location 572](https://readwise.io/to_kindle?action=open&asin=B00C4MSZI6&location=572))
+- relentless openness, ([Location 574](https://readwise.io/to_kindle?action=open&asin=B00C4MSZI6&location=574))
+    - Tags: [[blue]] 
+- can we actually have a cloud without the sky? ([Location 583](https://readwise.io/to_kindle?action=open&asin=B00C4MSZI6&location=583))
+    - Tags: [[orange]] 
+- apparent division, ([Location 584](https://readwise.io/to_kindle?action=open&asin=B00C4MSZI6&location=584))
+- there's no real division. ([Location 584](https://readwise.io/to_kindle?action=open&asin=B00C4MSZI6&location=584))
+    - Tags: [[blue]] 
+- Let's look at the concept of division.  It's vital that we get this thing on a visceral level.  Pick an object in your room, look at it, and tell me what it is you're looking at. C: Okay.  (turns head) I'm looking at a lamp. F: And it feels like it's at some distance from you, is that correct? C: Yes, it's about eight feet from me. F: It seems like it's about eight feet from you.  That's a true statement.  Another true statement might be that on a relative level it is indeed about eight feet from that body. But it's not eight feet from you.  Where do you sense that lamp? C: Over there, by the bookcase.  F: No, not where you think you see it, where do you actually sense it.  Vision sees it over there, and sends that message along, but where is the message received? C: Over here, in my brain. F: Is that true?  Is the brain the final destination, or just a train station?  Vision is certainly processed by your brain, I have no argument about that.  But where does it actually go?  Isn't it sensed right here? (brings palm up close in front of face)  Can it be sensed anywhere other than here?  Is there anywhere other than here? C: (looks blank, mimics the hand, gets very excited) Oh!  Yes!  Yes!  I see!  It's sensed right here! F: So is there any evidence for any place other than right here? C: (grinning ear to ear) No! F: And when is it experienced? C: (laughing) Now!  Right now! ([Location 586](https://readwise.io/to_kindle?action=open&asin=B00C4MSZI6&location=586))
+    - Tags: [[pink]] 
+- now. ([Location 608](https://readwise.io/to_kindle?action=open&asin=B00C4MSZI6&location=608))
+    - Tags: [[blue]] 
+- right here. ([Location 608](https://readwise.io/to_kindle?action=open&asin=B00C4MSZI6&location=608))
+- For right now it does.  Or rather, it seems to come and go.  But does it really?  The awakeness that you are is the only thing going on.  So it's not a matter of it disappearing, it's not a matter of our losing anything.  We are cloudy, or we are clear, but we are always it.  We can stand as clear awareness, or we can stand as cloudy awareness.  It's our choice.  For the first time in your life you have a choice. When you say, "I am cloudy," who's talking?  The unit feels cloudy or clear.  But you, Big You—note that once again we are just languaging, just telling lies as skillfully as we can—Big You is always awake, always shining through the unit that may be either cloudy or clear.  Big You never says, "I'm cloudy, or I'm clear."  Big you just shines.  It could give a shit less about cloudy or clear.  That's all on the unit. ([Location 617](https://readwise.io/to_kindle?action=open&asin=B00C4MSZI6&location=617))
+    - Tags: [[blue]] 
+- But there is nowhere else, nowhen else, NOTHING else.  Just This.  That's what Advaita means: not-two.  One without a second.  No other time, no other place, only This. ([Location 627](https://readwise.io/to_kindle?action=open&asin=B00C4MSZI6&location=627))
+    - Tags: [[pink]] 
+- That's a true statement, but it does us little good to say it if it's coming from memory, instead of present experience. ([Location 632](https://readwise.io/to_kindle?action=open&asin=B00C4MSZI6&location=632))
+    - Tags: [[orange]] 
+- The mind takes realization and turns it into a concept which it can then house. ([Location 633](https://readwise.io/to_kindle?action=open&asin=B00C4MSZI6&location=633))
+- nature of oscillation, ([Location 634](https://readwise.io/to_kindle?action=open&asin=B00C4MSZI6&location=634))
+    - Tags: [[blue]] 
+- Now, notice how all of this happens.  First there's clarity, and then there's cloudiness.  Back and forth, back and forth.  You don't make that happen; it just happens.  Amazing, huh?  It's a matter of identification. Now that you've had some seeing, I say again that for the first time in your life, you can begin to choose as whom or what you identify. The ego can't make that choice, but you can!  You can make it through simple recognition, or in lieu of that, you can make the decision by taking action through the unit.  This is totally paradoxical.  It makes no sense whatsoever.  But it works. ([Location 642](https://readwise.io/to_kindle?action=open&asin=B00C4MSZI6&location=642))
+    - Tags: [[blue]] 
+- The mind cannot hold truth, because the mind itself is a fragment of truth. ([Location 651](https://readwise.io/to_kindle?action=open&asin=B00C4MSZI6&location=651))
+- A fragment cannot hold the whole, although the whole can easily hold the part.  We can only behold truth. ([Location 652](https://readwise.io/to_kindle?action=open&asin=B00C4MSZI6&location=652))
+    - Tags: [[blue]] 
+- When truth unveils itself, it's not an experience for the unit to relish and hold. ([Location 652](https://readwise.io/to_kindle?action=open&asin=B00C4MSZI6&location=652))
+    - Tags: [[pink]] 
+- It's occurring outside of both space and time.  The mind has no orientation to that, because the mind is occurring within space and time. ([Location 653](https://readwise.io/to_kindle?action=open&asin=B00C4MSZI6&location=653))
+    - Tags: [[orange]] 
+- What if the space is not dividing you and the lamp, but rather it's joining you and the lamp?  Does that change things? ([Location 662](https://readwise.io/to_kindle?action=open&asin=B00C4MSZI6&location=662))
+- That's right. As a provisional truth, we can say that the one thing that's going on is space.  The space right there in your room is alive.  And that living space is what you are.  You've seen that for yourself already.  See it clearly again now.  Suspend your identification with the body.  You can have it back, but you are now capable of suspending it for a moment anytime you want to. ([Location 666](https://readwise.io/to_kindle?action=open&asin=B00C4MSZI6&location=666))
+    - Tags: [[blue]] 
+- Notice that dividing and joining are opposites. ([Location 674](https://readwise.io/to_kindle?action=open&asin=B00C4MSZI6&location=674))
+    - Tags: [[pink]] 

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">735</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4387b83a-e73e-4280-b352-b7783c377660</dc:identifier>
+        <dc:title>Starting Out Small: A Collection of Talks for Beginning Meditators</dc:title>
+        <dc:creator opf:file-as="Dhammadharo, Phra Ajaan Lee" opf:role="aut">Phra Ajaan Lee Dhammadharo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.9.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-20T08:00:00+00:00</dc:date>
+        <dc:description>In this collection of talks Ajaan Lee covers the sorts of questions that occur to people new to meditation—Why meditate? How should I meditate? And why in that particular way?—and in his own style he provided not only straightforward answers to these questions but also vivid analogies, to help his listeners relate their meditation to familiar activities so that they would feel less intimidated by the uncharted areas of the minds they were trying to tame.</dc:description>
+        <dc:publisher>Metta Forest Monastery</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">9314c303-c02e-44dc-af56-840ab5e2974f</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Buddha</dc:subject>
+        <dc:subject>Buddhism</dc:subject>
+        <dc:subject>Dhamma</dc:subject>
+        <dc:subject>Dharma</dc:subject>
+        <dc:subject>Meditation</dc:subject>
+        <dc:subject>Jhana</dc:subject>
+        <dc:subject>Pali Canon</dc:subject>
+        <dc:subject>Theravada</dc:subject>
+        <dc:subject>Thai Forest Tradition</dc:subject>
+        <meta content="{&quot;Phra Ajaan Lee Dhammadharo&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-01-29T04:31:59.444000+00:00" name="calibre:timestamp"/>
+        <meta content="Starting Out Small: A Collection of Talks for Beginning Meditators" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

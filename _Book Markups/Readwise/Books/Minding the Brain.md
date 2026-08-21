@@ -1,0 +1,76 @@
+# Minding the Brain
+
+![rw-book-cover](https://m.media-amazon.com/images/I/91-Dtcr78NL._SY160.jpg)
+
+## Metadata
+- Author: [[Angus Menuge, Brian Krouse, and Robert Marks]]
+- Full Title: Minding the Brain
+- Category: #books
+
+## Highlights
+- IS YOUR MIND THE SAME THING AS YOUR brain? Or are there aspects of mind that are external to the biology of the brain? This ([Location 136](https://readwise.io/to_kindle?action=open&asin=B0CGNXWTBN&location=136))
+    - Tags: [[orange]] 
+- Intuition suggests our subjective experience of the world is tightly bound up with our physical bodies. ([Location 139](https://readwise.io/to_kindle?action=open&asin=B0CGNXWTBN&location=139))
+    - Tags: [[orange]] 
+- there is evidence that the mind is, indeed, more than the brain. ([Location 142](https://readwise.io/to_kindle?action=open&asin=B0CGNXWTBN&location=142))
+    - Tags: [[pink]] 
+- In light of these technological wonders, it may seem plausible to assume that physical existence constitutes the most fundamental layer of reality, and everything else, including our mental lives, is built upon that foundation. ([Location 145](https://readwise.io/to_kindle?action=open&asin=B0CGNXWTBN&location=145))
+    - Tags: [[pink]] 
+- pain cannot be ownerless—it must belong to someone), ([Location 149](https://readwise.io/to_kindle?action=open&asin=B0CGNXWTBN&location=149))
+    - Tags: [[pink]] 
+- the sense of being a consistent entity, an “I” that persists over time, at the center of our mental activities. ([Location 150](https://readwise.io/to_kindle?action=open&asin=B0CGNXWTBN&location=150))
+    - Tags: [[pink]] 
+- Our perception of the world is entirely mediated through our senses. ([Location 153](https://readwise.io/to_kindle?action=open&asin=B0CGNXWTBN&location=153))
+    - Tags: [[pink]] 
+- Considering that our mental lives possess attributes that are not evidently rooted in physicality, and in fact hold a more immediate place in our lives than the physical world, could it be that our initial assumption—that the physical world is the most fundamental or the most “real” aspect of existence—is incorrect? ([Location 156](https://readwise.io/to_kindle?action=open&asin=B0CGNXWTBN&location=156))
+    - Tags: [[pink]] 
+- the objective is to aggregate and showcase a broad spectrum of non-materialist perspectives and insights on the mind-body issue, drawing from a range of disciplines, both philosophical and scientific. ([Location 183](https://readwise.io/to_kindle?action=open&asin=B0CGNXWTBN&location=183))
+    - Tags: [[pink]] 
+- matter-energy) ([Location 195](https://readwise.io/to_kindle?action=open&asin=B0CGNXWTBN&location=195))
+    - Tags: [[orange]] 
+- some scholars contend that attempts to account for mental phenomena in purely physical terms over the past century have largely been unsuccessful. ([Location 197](https://readwise.io/to_kindle?action=open&asin=B0CGNXWTBN&location=197))
+    - Tags: [[orange]] 
+- the recurring pattern of shortcomings in these approaches suggests a potential fundamental problem with materialist metaphysics itself. ([Location 198](https://readwise.io/to_kindle?action=open&asin=B0CGNXWTBN&location=198))
+    - Tags: [[pink]] 
+- constraints of scientific inquiry. ([Location 207](https://readwise.io/to_kindle?action=open&asin=B0CGNXWTBN&location=207))
+    - Tags: [[pink]] 
+- methodological naturalism, ([Location 208](https://readwise.io/to_kindle?action=open&asin=B0CGNXWTBN&location=208))
+    - Tags: [[blue]] 
+- history of thought on the human soul as a distinct substance, ([Location 217](https://readwise.io/to_kindle?action=open&asin=B0CGNXWTBN&location=217))
+    - Tags: [[blue]] 
+- property dualism, ([Location 218](https://readwise.io/to_kindle?action=open&asin=B0CGNXWTBN&location=218))
+- denies a substantial soul in favor of a dualism of mental and physical properties within a fundamentally material human being. ([Location 218](https://readwise.io/to_kindle?action=open&asin=B0CGNXWTBN&location=218))
+- hylomorphism. ([Location 224](https://readwise.io/to_kindle?action=open&asin=B0CGNXWTBN&location=224))
+    - Tags: [[orange]] 
+- philosophy of nature ([Location 226](https://readwise.io/to_kindle?action=open&asin=B0CGNXWTBN&location=226))
+    - Tags: [[orange]] 
+- Madden explains how, on the view of hylomorphism, the distinctly human capability to think about and grasp universal truths implies that the human soul is “uniquely separable from matter”—putting hylomorphism in a category that is clearly distinct from materialism. ([Location 233](https://readwise.io/to_kindle?action=open&asin=B0CGNXWTBN&location=233))
+    - Tags: [[orange]] 
+- substance dualism fares the best in his view. ([Location 248](https://readwise.io/to_kindle?action=open&asin=B0CGNXWTBN&location=248))
+    - Tags: [[orange]] 
+- how consciousness might be considered a property. ([Location 272](https://readwise.io/to_kindle?action=open&asin=B0CGNXWTBN&location=272))
+    - Tags: [[orange]] 
+- bearer-dependent model of consciousness. ([Location 274](https://readwise.io/to_kindle?action=open&asin=B0CGNXWTBN&location=274))
+    - Tags: [[orange]] 
+- substance dualism ([Location 280](https://readwise.io/to_kindle?action=open&asin=B0CGNXWTBN&location=280))
+    - Tags: [[orange]] 
+- Thomistic dualism (i.e., hylomorphism) ([Location 292](https://readwise.io/to_kindle?action=open&asin=B0CGNXWTBN&location=292))
+    - Tags: [[orange]] 
+- as the most suitable metaphysical framework for neuroscience. ([Location 293](https://readwise.io/to_kindle?action=open&asin=B0CGNXWTBN&location=293))
+    - Tags: [[orange]] 
+- readiness potential, ([Location 296](https://readwise.io/to_kindle?action=open&asin=B0CGNXWTBN&location=296))
+    - Tags: [[orange]] 
+- Many people, particularly in popular science coverage, interpreted the results as evidence against free will, arguing that the readiness potential indicates our brains “decide” before we consciously do. ([Location 297](https://readwise.io/to_kindle?action=open&asin=B0CGNXWTBN&location=297))
+    - Tags: [[orange]] 
+- relational view ([Location 321](https://readwise.io/to_kindle?action=open&asin=B0CGNXWTBN&location=321))
+    - Tags: [[orange]] 
+- Signal Model of Sensation (SMS), a model that describes how nerve signals can lead to subjective experiences. ([Location 349](https://readwise.io/to_kindle?action=open&asin=B0CGNXWTBN&location=349))
+    - Tags: [[orange]] 
+- theistic quantum idealism. ([Location 354](https://readwise.io/to_kindle?action=open&asin=B0CGNXWTBN&location=354))
+    - Tags: [[pink]] 
+- This perspective suggests that our perception of an external physical reality is, in essence, our subjective experience of God’s thoughts. ([Location 354](https://readwise.io/to_kindle?action=open&asin=B0CGNXWTBN&location=354))
+    - Tags: [[blue]] 
+- he presents evidence from quantum cosmology supporting the broad view that reality is a single, timeless mental act through which God conceived and brought forth the universe. ([Location 355](https://readwise.io/to_kindle?action=open&asin=B0CGNXWTBN&location=355))
+    - Tags: [[blue]] 
+- Holloway and Marks conclude that human literary creativity cannot be explained by merely naturalistic computational brain activity. ([Location 365](https://readwise.io/to_kindle?action=open&asin=B0CGNXWTBN&location=365))
+    - Tags: [[orange]] 

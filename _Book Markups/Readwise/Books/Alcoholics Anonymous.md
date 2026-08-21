@@ -1,0 +1,260 @@
+# Alcoholics Anonymous
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/51yhSVIdu6L._SL200_.jpg)
+
+## Metadata
+- Author: [[A.A. World Services Inc]]
+- Full Title: Alcoholics Anonymous
+- Category: #books
+
+## Highlights
+- Prior to his journey to Akron, the broker had worked hard with many alcoholics on the theory that only an alcoholic could help an alcoholic, but he had succeeded only in keeping sober himself. The broker had gone to Akron on a business venture which had collapsed, leaving him greatly in fear that he might start drinking again. He suddenly realized that in order to save himself he must carry his message to another alcoholic. That alcoholic turned out to be the Akron physician. ([Location 145](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=145))
+- This physician had repeatedly tried spiritual means to resolve his alcoholic dilemma but had failed. ([Location 148](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=148))
+    - Tags: [[blue]] 
+- For this there were two principal reasons: the large numbers of recoveries, and reunited homes. These made their impressions everywhere. Of alcoholics who came to A.A. and really tried, 50% got sober at once and remained that way; 25% sobered up after some relapses, and among the remainder, those who stayed on with A.A. showed improvement. ([Location 187](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=187))
+    - Tags: [[pink]] 
+- Drink was taking an important and exhilarating part in my life. ([Location 350](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=350))
+    - Tags: [[blue]] 
+- There had been no real infidelity, for loyalty to my wife, helped at times by extreme drunkenness, kept me out of those scrapes. ([Location 353](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=353))
+- Liquor ceased to be a luxury; it became a necessity. ([Location 368](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=368))
+    - Tags: [[orange]] 
+- shaking violently. ([Location 370](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=370))
+    - Tags: [[pink]] 
+- Shortly afterward I came home drunk. There had been no fight. Where had been my high resolve? I simply didn’t know. It hadn’t even come to mind. Someone had pushed a drink my way, and I had taken it. Was I crazy? I began to wonder, for such an appalling lack of perspective seemed near being just that. ([Location 376](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=376))
+    - Tags: [[blue]] 
+- Renewing my resolve, I tried again. Some time passed, and confidence began to be replaced by cocksureness. I could laugh at the gin mills. Now I had what it takes! One day I walked into a cafe to telephone. In no time I was beating on the bar asking myself how it happened. As the whisky rose to my head I told myself I would manage better next time, but I might as well get good and drunk then. And I did. ([Location 379](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=379))
+- terrible sense of impending calamity. ([Location 383](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=383))
+    - Tags: [[orange]] 
+- The mind and body are marvelous mechanisms, for mine endured this agony two more years. ([Location 386](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=386))
+    - Tags: [[pink]] 
+- People feared for my sanity. ([Location 391](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=391))
+    - Tags: [[blue]] 
+- It relieved me somewhat to learn that in alcoholics the will is amazingly weakened when it comes to combating liquor, though it often remains strong in other respects. ([Location 395](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=395))
+- self-knowledge. ([Location 398](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=398))
+- It was a devastating blow to my pride. I, who had thought so well of myself and my abilities, of my capacity to surmount obstacles, was cornered at last. ([Location 402](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=402))
+- No words can tell of the loneliness and despair I found in that bitter morass of self-pity. Quicksand stretched around me in all directions. I had met my match. I had been overwhelmed. Alcohol was my master. ([Location 405](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=405))
+- How dark it is before the dawn! ([Location 409](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=409))
+- was to know happiness, peace, and usefulness, in a way of life that is incredibly more wonderful as time passes. ([Location 410](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=410))
+- Unmindful ([Location 416](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=416))
+- Unlike the feelings of the ship’s passengers, however, our joy in escape from disaster does not subside as we go our individual ways. ([Location 511](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=511))
+    - Tags: [[blue]] 
+- The tremendous fact for every one of us is that we have discovered a common solution. ([Location 513](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=513))
+- But not so with the alcoholic illness, for with it there goes annihilation of all the things worth while in life. It engulfs all whose lives touch the sufferer’s. It brings misunderstanding, fierce resentment, financial insecurity, disgusted friends and employers, warped lives of blameless children, sad wives and parents—anyone can increase the list. ([Location 517](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=517))
+- But the ex-problem drinker who has found this solution, who is properly armed with facts about himself, can generally win the entire confidence of another alcoholic in a few hours. Until such an understanding is reached, little or nothing can be accomplished. ([Location 522](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=522))
+- nothing whatever except the sincere desire to be helpful; ([Location 526](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=526))
+    - Tags: [[orange]] 
+- We feel that elimination of our drinking is but a beginning. ([Location 529](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=529))
+- If we keep on the way we are going there is little doubt that much good will result, but the surface of the problem would hardly be scratched. ([Location 531](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=531))
+    - Tags: [[pink]] 
+- Most of us sense that real tolerance of other people’s shortcomings and viewpoints and a respect for their opinions are attitudes which make us more useful to others. ([Location 538](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=538))
+- Our very lives, as ex-problem drinkers, depend upon our constant thought of others and how we may help meet their needs. ([Location 539](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=539))
+    - Tags: [[pink]] 
+- But what about the real alcoholic? He may start off as a moderate drinker; he may or may not become a continuous hard drinker; but at some stage of his drinking career he begins to lose all control of his liquor consumption, once he starts to drink. ([Location 554](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=554))
+    - Tags: [[blue]] 
+- Then he begins to appear at hospitals and sanitariums. ([Location 567](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=567))
+- We know that while the alcoholic keeps away from drink, as he may do for months or years, he reacts much like other men. We are equally positive that once he takes any alcohol whatever into his system, something happens, both in the bodily and mental sense, which makes it virtually impossible for him to stop. The experience of any alcoholic will abundantly confirm this. ([Location 573](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=573))
+- Therefore, the main problem of the alcoholic centers in his mind, rather than in his body. ([Location 577](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=577))
+- Once in a while he may tell the truth. ([Location 582](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=582))
+- At a certain point in the drinking of every alcoholic, he passes into a state where the most powerful desire to stop drinking is of absolutely no avail. ([Location 587](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=587))
+    - Tags: [[blue]] 
+- This tragic situation has already arrived in practically every case long before it is suspected. ([Location 588](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=588))
+    - Tags: [[pink]] 
+- The fact is that most alcoholics, for reasons yet obscure, have lost the power of choice in drink. Our so-called will power becomes practically nonexistent. We are unable, at certain times, to bring into our consciousness with sufficient force the memory of the suffering and humiliation of even a week or a month ago. We are without defense against the first drink. ([Location 589](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=589))
+- these thoughts occur, they are hazy and readily supplanted with the old threadbare idea that this time we shall handle ourselves like other people. ([Location 593](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=593))
+- Almost none of us liked the self-searching, the leveling of our pride, the confession of shortcomings which the process requires for its successful consummation. But we saw that it really worked in others, and we had come to believe in the hopelessness and futility of life as we had been living it. When, therefore, we were approached by those in whom the problem had been solved, there was nothing left for us but to pick up the simple kit of spiritual tools laid at our feet. We have found much of heaven and we have been rocketed into a fourth dimension of existence of which we had not even dreamed. ([Location 601](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=601))
+- The great fact is just this, and nothing less: That we have had deep and effective spiritual experiences* which have revolutionized our whole attitude ([Location 605](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=605))
+- toward life, toward our fellows and toward God’s universe. The central fact of our lives today is the absolute certainty that our Creator has entered into our hearts and lives in a way which is indeed miraculous. He has commenced to accomplish those things for us which we could never do by ourselves. ([Location 607](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=607))
+- If you are as seriously alcoholic as we were, we believe there is no middle-of-the-road solution. We were in a position where life was becoming impossible, and if we had passed into the region from which there is no return through human aid, we had but two alternatives: One was to go on to the bitter end, blotting out the consciousness of our intolerable situation as best we could; and the other, to accept spiritual help. This we did because we honestly wanted to, and were willing to make the effort. ([Location 609](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=609))
+- vital spiritual experiences. ([Location 629](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=629))
+- They appear to be in the nature of huge emotional displacements and rearrangements. Ideas, emotions, and attitudes which were once the guiding forces of the lives of these men are suddenly cast to one side, and a completely new set of conceptions and motives begin to dominate them. ([Location 629](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=629))
+- William James, ([Location 639](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=639))
+- “Varieties of Religious Experience,” ([Location 639](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=639))
+- “Yes, I am one of them too; I must have this thing.” ([Location 653](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=653))
+- We found, too, that we had been worshippers. What a state of mental goose flesh that used to bring on! Had we not variously worshipped people, sentiment, things, money, and ourselves? And then, with a better motive, had we not worshipfully beheld the sunset, the sea, or a flower? Who of us had not loved something or somebody? How much did these feelings, these loves, these worships, have to do with pure reason? Little or nothing, we saw at last. Were not these things the tissue out of which our lives were constructed? Did not these feelings, after all, determine the course of our existence? It was impossible to say we had no capacity for faith, or love, or worship. In one form or another we had been living by faith and little else. ([Location 933](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=933))
+- Neither is reason, as most of us use it, entirely dependable, ([Location 942](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=942))
+    - Tags: [[orange]] 
+- Chapter 5 HOW IT WORKS RARELY HAVE we seen a person fail who has thoroughly followed our path. Those who do not recover are people who cannot or will not completely give themselves to this simple program, usually men and women who are constitutionally incapable of being honest with themselves. There are such unfortunates. They are not at fault; they seem to have been born that way. They are naturally incapable of grasping and developing a manner of living which demands rigorous honesty. Their chances are less than average. There are those, too, who suffer from grave emotional and mental disorders, but many of them do recover if they have the capacity to be honest. Our stories disclose in a general way what we used to be like, what happened, and what we are like now. If you have decided you want what we have and are willing to go to any length to get it—then you are ready to take certain steps. At some of these we balked. We thought we could find an easier, softer way. But we could not. With all the earnestness at our command, we beg of you to be fearless and thorough from the very start. Some of us have tried to hold on to our old ideas and the result was nil until we let go absolutely. ([Location 972](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=972))
+    - Tags: [[orange]] 
+- Remember that we deal with alcohol—cunning, baffling, powerful! Without help it is too much for us. But there is One who has all power—that One is God. May you find Him now! Half measures availed us nothing. We stood at the turning point. We asked His protection and care with complete abandon. Here are the steps we took, which are suggested as a program of recovery: We admitted we were powerless over alcohol—that our lives had become unmanageable. Came to believe that a Power greater than ourselves could restore us to sanity. Made a decision to turn our will and our lives over to the care of God as we understood Him. Made a searching and fearless moral inventory of ourselves. Admitted to God, to ourselves, and to another human being the exact nature of our wrongs. Were entirely ready to have God remove all these defects of character. Humbly asked Him to remove our shortcomings. Made a list of all persons we had harmed, and became willing to make amends to them all. Made direct amends to such people wherever possible, except when to do so would injure them or others. Continued to take personal inventory and when we were wrong promptly admitted it. Sought through prayer and meditation to improve our conscious contact with God as we understood Him, praying only for knowledge of His will for us and the power to carry that out. ([Location 981](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=981))
+    - Tags: [[orange]] 
+- Having had a spiritual awakening as the result of these steps, we tried to carry this message to alcoholics, and to practice these principles in all our affairs. Many of us exclaimed, “What an order! I can’t go through with it.” Do not be discouraged. No one among us has been able to maintain anything like perfect adherence to these principles. We are not saints. The point is, that we are willing to grow along spiritual lines. The principles we have set down are guides to progress. We claim spiritual progress rather than spiritual perfection. Our description of the alcoholic, the chapter to the agnostic, and our personal adventures before and after make clear three pertinent ideas: (a)… ([Location 993](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=993))
+    - Tags: [[orange]] 
+- He begins to think life doesn’t treat him right. ([Location 1009](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1009))
+- Is he not a victim of the delusion that he can wrest satisfaction and happiness out of this world if he only manages well? ([Location 1012](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1012))
+    - Tags: [[orange]] 
+- Whatever our protestations, are not most of us concerned with ourselves, our resentments, or our self-pity? ([Location 1018](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1018))
+    - Tags: [[pink]] 
+- we invariably find that at some time in the past we have made decisions based on self which later placed us in a position to be hurt. ([Location 1021](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1021))
+    - Tags: [[blue]] 
+- Many of us had moral and philosophical convictions galore, but we could not live up to them even though we would have liked to. ([Location 1024](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1024))
+- Being all powerful, He provided what ([Location 1030](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1030))
+- Established on such a footing we became less and less interested in ourselves, our little plans and designs. More and more we became interested in seeing what we could contribute to life. As we felt new power flow in, as we enjoyed peace of mind, as we discovered we could face life successfully, as we became conscious of His presence, we began to lose our fear of today, tomorrow or the hereafter. We were reborn. ([Location 1030](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1030))
+    - Tags: [[orange]] 
+- But it is better to meet God alone than with one who might misunderstand. ([Location 1038](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1038))
+    - Tags: [[pink]] 
+- personal housecleaning, ([Location 1041](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1041))
+    - Tags: [[blue]] 
+- causes and conditions. ([Location 1043](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1043))
+- One object is to disclose damaged or unsalable goods, to get rid of them promptly and without regret. ([Location 1045](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1045))
+    - Tags: [[orange]] 
+- Resentment is the “number one” offender. ([Location 1049](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1049))
+- people, institutions or principles with whom we were angry. ([Location 1051](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1051))
+    - Tags: [[orange]] 
+- self-esteem, our pocketbooks, our ambitions, our personal relationships (including sex) were hurt or threatened. ([Location 1052](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1052))
+    - Tags: [[pink]] 
+- The first thing apparent was that this world and its people were often quite wrong. To conclude that others were wrong was as far as most of us ever got. ([Location 1068](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1068))
+    - Tags: [[blue]] 
+- As in war, the victor only seemed to win. Our moments of triumph were short-lived. ([Location 1070](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1070))
+- It is plain that a life which includes deep resentment leads only to futility and unhappiness. To the precise extent that we permit these, do we squander the hours that might have been worthwhile. But with the alcoholic, whose hope is the maintenance and growth of a spiritual experience, this business of resentment is infinitely grave. We found that it is fatal. For when harboring such feelings we shut ourselves off from the sunlight of the Spirit. The insanity of alcohol returns and we drink again. And with us, to drink is to die. ([Location 1071](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1071))
+    - Tags: [[orange]] 
+- Where had we been selfish, dishonest, self-seeking and frightened? ([Location 1085](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1085))
+    - Tags: [[blue]] 
+- “fear” ([Location 1089](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1089))
+    - Tags: [[orange]] 
+- We reviewed our fears thoroughly. ([Location 1092](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1092))
+    - Tags: [[pink]] 
+- match calamity with serenity. ([Location 1097](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1097))
+    - Tags: [[blue]] 
+- faith means courage. ([Location 1099](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1099))
+- was it selfish or not? ([Location 1110](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1110))
+    - Tags: [[orange]] 
+- We avoid hysterical thinking or advice. ([Location 1116](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1116))
+    - Tags: [[pink]] 
+- It depends on us and on our motives. ([Location 1118](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1118))
+    - Tags: [[blue]] 
+- If we are painstaking about this phase of our development, we will be amazed before we are half way through. We are going to know a new freedom and a new happiness. We will not regret the past nor wish to shut the door on it. We will comprehend the word serenity and we will know peace. No matter how far down the scale we have gone, we will see how our experience can benefit others. That feeling of uselessness and self-pity will disappear. We will lose interest in selfish things and gain interest in our fellows. Self-seeking will slip away. Our whole attitude and outlook upon life will change. Fear of people and of economic insecurity will leave us. We will intuitively know how to handle situations which used to baffle us. We will suddenly realize that God is doing for us what we could not do for ourselves. ([Location 1267](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1267))
+    - Note: The Promises
+- Are these extravagant promises? We think not. They are being fulfilled among us—sometimes quickly, sometimes slowly. They will always materialize if we work for them. ([Location 1273](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1273))
+    - Note: The Promises
+- Then we resolutely turn our thoughts to someone we can help. ([Location 1278](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1278))
+- And we have ceased fighting anything or anyone—even alcohol. ([Location 1279](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1279))
+    - Tags: [[orange]] 
+- What we really have is a daily reprieve contingent on the maintenance of our spiritual condition. ([Location 1286](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1286))
+    - Tags: [[pink]] 
+- our day. Were we resentful, selfish, dishonest or afraid? ([Location 1294](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1294))
+- Our thought-life will be placed on a much higher plane when our thinking is cleared of wrong motives. ([Location 1301](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1301))
+    - Tags: [[blue]] 
+- As we go through the day we pause, when agitated or doubtful, and ask for the right thought or action. We constantly remind ourselves we are no longer running the show, humbly saying to ourselves many times each day “Thy will be done.” We are then in much less danger of excitement, fear, anger, worry, self-pity, or foolish decisions. We become much more efficient. We do not tire so easily, for we are not burning up energy foolishly as we did when we were trying to arrange life to suit ourselves. ([Location 1314](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1314))
+    - Tags: [[pink]] 
+- So cooperate; never criticize. To be helpful is our only aim. ([Location 1330](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1330))
+- When you discover a prospect for Alcoholics Anonymous, find out all you can about him. If he does not want to stop drinking, don’t waste time trying to persuade him. You may spoil a later opportunity. This advice is given for his family also. They should be patient, realizing ([Location 1331](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1331))
+    - Tags: [[blue]] 
+- Then let his family or a friend ask him if he wants to quit for good and if he would go to any extreme to do so. If he says yes, ([Location 1338](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1338))
+    - Tags: [[pink]] 
+- You should be described to him as one of a fellowship who, as part of their own recovery, try to help others and who will be glad to talk to him if he cares to see you. ([Location 1339](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1339))
+    - Tags: [[orange]] 
+- real alcoholic, ([Location 1357](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1357))
+- Your prospect may belong to a religious denomination. His religious education and training may be far superior to yours. In that case he is going to wonder how you can add anything to what he already knows. ([Location 1372](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1372))
+    - Tags: [[orange]] 
+- To be vital, faith must be accompanied by self sacrifice and unselfish, constructive action. ([Location 1375](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1375))
+- If your talk has been sane, quiet and full of human understanding, you have perhaps made a friend. ([Location 1384](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1384))
+    - Tags: [[blue]] 
+- You will be most successful with alcoholics if you do not exhibit any passion for crusade or reform. ([Location 1392](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1392))
+    - Tags: [[orange]] 
+- Never talk down to an alcoholic from any moral or spiritual hilltop; simply lay out the kit of spiritual tools for his inspection. ([Location 1393](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1393))
+- Burn the idea into the consciousness of every man that he can get well regardless of anyone. The only condition is that he trust in God and clean house. ([Location 1430](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1430))
+    - Tags: [[orange]] 
+- Argument and faultfinding are to be avoided like the plague. ([Location 1435](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1435))
+    - Tags: [[blue]] 
+- When we look back, we realize that the things which came to us when we put ourselves in God’s hands were better than anything we could have planned. ([Location 1449](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1449))
+- Follow the dictates of a Higher Power and you will presently live in a new and wonderful world, no matter what your present circumstances! ([Location 1450](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1450))
+    - Tags: [[orange]] 
+- “Have I any good social, business, or personal reason for going to this place? Or am I expecting to steal a little vicarious pleasure from the atmosphere of such places?” ([Location 1470](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1470))
+- After all, our problems were of our own making. Bottles were only a symbol. Besides, we have stopped fighting anybody or anything. We have to! ([Location 1489](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1489))
+    - Tags: [[pink]] 
+- The first principle of success is that you should never be angry. ([Location 1570](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1570))
+    - Tags: [[blue]] 
+- We find the more one member of the family demands that the others concede to him, the more resentful they become. This makes for discord and unhappiness. ([Location 1701](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1701))
+    - Tags: [[blue]] 
+- And why? Is it not because each wants to play the lead? Is not each trying to arrange the family show to his liking? Is he not unconsciously trying to see what he can take from the family life rather than give? ([Location 1703](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1703))
+- We grow by our willingness to face and rectify errors and convert them into assets. The alcoholic’s past thus becomes the principal asset of the family and frequently it is almost the only one! ([Location 1721](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1721))
+    - Tags: [[orange]] 
+- Another principle we observe carefully is that we do not relate intimate experiences of another person unless we are sure he would approve. ([Location 1736](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1736))
+    - Tags: [[pink]] 
+- Many alcoholics are enthusiasts. They run to extremes. At the beginning of recovery a man will take, as a rule, one of two directions. He may either plunge into a frantic attempt to get on his feet in business, or he may be so enthralled by his new life that he talks or thinks of little else. In either case certain family problems will arise. ([Location 1740](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1740))
+- We think it dangerous if he rushes headlong at his economic problem. ([Location 1743](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1743))
+    - Tags: [[blue]] 
+- Giving, rather than getting, will become the guiding principle. ([Location 1765](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1765))
+    - Tags: [[orange]] 
+- He may not see at once that he has barely scratched a limitless lode which will pay dividends only if he mines it for the rest of his life and insists on giving away the entire product. ([Location 1778](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1778))
+    - Tags: [[orange]] 
+- We have come to believe He would like us to keep our heads in the clouds with Him, but that our feet ought to be firmly planted on earth. That is where our fellow travelers are, and that is where our work must be done. ([Location 1792](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1792))
+    - Tags: [[blue]] 
+- These are the realities for us. We have found nothing incompatible between a powerful spiritual experience and a life of sane and happy usefulness. ([Location 1794](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1794))
+- We have been speaking to you of serious, sometimes tragic things. We have been dealing with alcohol in its worst aspect. But we aren’t a glum lot. If newcomers could see no joy or fun in our existence, they wouldn’t want it. We absolutely insist on enjoying life. We try not to indulge in cynicism over the state of the nations, nor do we carry the world’s troubles on our shoulders. When we see a man sinking into the mire that is alcoholism, we give him first aid and place what we have at his disposal. For his sake, we do recount and almost relive the horrors of our past. But those of us who have tried to shoulder the entire burden and trouble of others find we are soon overcome by them. ([Location 1816](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1816))
+    - Tags: [[pink]] 
+- Avoid then, the deliberate manufacture of misery, but if trouble comes, cheerfully capitalize it as an opportunity to demonstrate His omnipotence. ([Location 1826](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1826))
+    - Tags: [[orange]] 
+- The children are sometimes dominated by a pathetic hardness and cynicism. They cannot seem to forgive and forget. This may hang on for months, long after their mother has accepted dad’s new way of living and thinking. ([Location 1843](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1843))
+    - Tags: [[pink]] 
+- Be satisfied he is not deceiving himself or you. ([Location 1932](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1932))
+    - Tags: [[blue]] 
+- To get over drinking will require a transformation of thought and attitude. We all had to place recovery above everything, for without recovery we would have lost both home and business. ([Location 1943](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1943))
+- The greatest enemies of us alcoholics are resentment, jealousy, envy, frustration, and fear. ([Location 1965](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1965))
+    - Tags: [[blue]] 
+- Sometimes we alcoholics have an idea that people are trying to pull us down. Often this is not so at all. ([Location 1967](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1967))
+- Being on a radically different basis of life, he will never take advantage of the situation. ([Location 1979](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1979))
+    - Tags: [[orange]] 
+- It boils right down to this: No man should be fired just because he is alcoholic. If he wants to stop, he should be afforded a real chance. If he cannot or does not want to stop, he should be discharged. The exceptions are few. ([Location 1998](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1998))
+    - Tags: [[orange]] 
+- Of course, this chapter refers to alcoholics, sick people, deranged men. What our friend, the vice president, had in mind was the habitual or whoopee drinker. As to them, his policy is undoubtedly sound, but he did not distinguish between such people and the alcoholic. ([Location 2013](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=2013))
+    - Tags: [[pink]] 
+- No one is too discredited or has sunk too low to be welcomed cordially—if he means business. Social distinctions, petty rivalries and jealousies—these are laughed out of countenance. ([Location 2141](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=2141))
+    - Tags: [[blue]] 
+- You forget that you have just now tapped a source of power much greater than yourself. ([Location 2157](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=2157))
+    - Tags: [[orange]] 
+- “But I will not have the benefit of contact with you who write this book.” We cannot be sure. God will determine that, so you must remember that your real reliance is always upon Him. He will show you how to create the fellowship you crave.11 ([Location 2169](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=2169))
+    - Tags: [[pink]] 
+- We realize we know only a little. God will constantly disclose more to you and to us. Ask Him in your morning meditation what you can do each day for the man who is still sick. The answers will come, if your own house is in order. But obviously you cannot transmit something you haven’t got. See to it that your relationship with Him is right, and great events will come to pass for you and countless others. This is the Great Fact for us. Abandon yourself to God as you understand God. Admit your faults to Him and to your fellows. Clear away the wreckage of your past. Give freely of what you find and join us. We shall be with you in the Fellowship of the Spirit, and you will surely meet some of us as you trudge the Road of Happy Destiny. ([Location 2171](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=2171))
+    - Tags: [[blue]] 
+- Try prayer. ([Location 3106](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=3106))
+- Immediately a great feeling of peace descended upon me, intermingled with a feeling of being suffused with a quiet strength. I lay down on the bed and slept like a child. An hour later I awoke to a new world. Nothing had changed and yet everything had changed. The scales had dropped from my eyes, and I could see life in its proper perspective. I had tried to be the center of my own little world, whereas God was the center of a vast universe of which I was perhaps an essential, but a very tiny, part. ([Location 3109](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=3109))
+- But supposing that just one man died because I had, for selfish reasons, kept my mouth shut? ([Location 3138](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=3138))
+- surrender and accept ([Location 3579](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=3579))
+    - Tags: [[blue]] 
+- it from worry, and I had to relax. ([Location 3584](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=3584))
+- wandered from room to room, thinking, drinking, drinking, thinking. ([Location 3595](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=3595))
+    - Tags: [[orange]] 
+- never knew which came first, the thinking or the drinking. If I could only stop thinking, I wouldn’t drink. If I could only stop drinking, maybe I wouldn’t think. ([Location 3598](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=3598))
+    - Tags: [[pink]] 
+- I went on, realizing what I was becoming, hating myself for it, bitter, blaming life, blaming everything but the fact that I should turn about and do something about my drinking. ([Location 3603](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=3603))
+    - Tags: [[blue]] 
+- I didn’t know. I was bitter, living in hate. ([Location 3613](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=3613))
+    - Tags: [[blue]] 
+- I only succeeded in fighting ([Location 3616](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=3616))
+- Because I found that everything I turned to became a substitute for drink. ([Location 3623](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=3623))
+    - Tags: [[orange]] 
+- Surrender to me has meant the ability to run my home, to face my responsibilities as they should be faced, to take life as it comes to me day by day and work my problems out. That’s what surrender has meant to me. I surrendered once to the bottle, and I couldn’t do these things. ([Location 3634](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=3634))
+    - Tags: [[pink]] 
+- When I stopped living in the problem and began living in the answer, the problem went away. ([Location 4972](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=4972))
+    - Tags: [[blue]] 
+- And acceptance is the answer to all my problems today. When I am disturbed, it is because I find some person, place, thing, or situation—some fact of my life—unacceptable to me, and I can find no serenity until I accept that person, place, thing, or situation as being exactly the way it is supposed to be at this moment. Nothing, absolutely nothing, happens in God’s world by mistake. Until I could accept my alcoholism, I could not stay sober; unless I accept life completely on life’s terms, I cannot be happy. I need to concentrate not so much on what needs to be changed in the world as on what needs to be changed in me and in my attitudes. ([Location 4973](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=4973))
+    - Tags: [[pink]] 
+- I must keep my magic magnifying mind on my acceptance and off my expectations, for my serenity is directly proportional to my level of acceptance. ([Location 5015](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=5015))
+- A.A. has accomplished so many things in my life today. It has given me my sanity and an all-around sense of balance. Now willing to listen and take suggestions, I have found that the process of discovering who I really am begins with knowing who I really don’t want to be. And although the disease of alcoholism inside of me is like gravity, just waiting to pull me down, A.A. and the Twelve Steps are like the power that causes an airplane to become airborne: It only works when the pilot is doing the right things to make it work. So, as I have worked the program, I have grown emotionally and intellectually. I not only have peace with God, I have the peace of God through an active God consciousness. ([Location 5374](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=5374))
+- Coincidence? I think not. ([Location 5381](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=5381))
+    - Tags: [[blue]] 
+## New highlights added August 12, 2023 at 12:06 PM
+- Continue to watch for selfishness, dishonesty, resentment, and fear. ([Location 1277](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1277))
+- When these crop up, we ask God at once to remove them. We discuss them with someone immediately and make amends quickly if we have harmed anyone. ([Location 1277](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1277))
+- Love and tolerance of others is our code. ([Location 1278](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1278))
+- It works, if we have the proper attitude and work at it. ([Location 1292](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1292))
+    - Tags: [[pink]] 
+- Do we owe an apology? ([Location 1294](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1294))
+- Have we kept something to ourselves which should be discussed with another person at once? Were we kind and loving toward all? ([Location 1295](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1295))
+    - Tags: [[orange]] 
+- “Faith without works is dead.” ([Location 1319](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1319))
+    - Tags: [[orange]] 
+- Show him how they worked with you. Offer him friendship and fellowship. Tell him that if he wants to get well you will do anything to help. ([Location 1393](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1393))
+    - Tags: [[blue]] 
+- Assuming we are spiritually fit, we can do all sorts of things alcoholics are not supposed to do. ([Location 1458](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1458))
+    - Tags: [[pink]] 
+- We have elsewhere remarked how much better life is when lived on a spiritual plane. ([Location 1634](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1634))
+    - Tags: [[pink]] 
+## New highlights added September 8, 2023 at 8:18 PM
+- Selfishness—self-centeredness! That, we think, is the root of our troubles. Driven by a hundred forms of fear, self-delusion, self-seeking, and self-pity, we step on the toes of our fellows and they retaliate. Sometimes they hurt us, seemingly without provocation, but we invariably find that at some time in the past we have made decisions based on self which later placed us in a position to be hurt. ([Location 1019](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1019))
+- So our troubles, we think, are basically of our own making. They arise out of ourselves, and the alcoholic is an extreme example of self-will run riot, though he usually doesn’t think so. Above everything, we alcoholics must be rid of this selfishness. We must, or it kills us! ([Location 1022](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1022))
+- First of all, we had to quit playing God. ([Location 1026](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1026))
+- Being all powerful, He provided what we needed, ([Location 1030](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1030))
+- “God, I offer myself to Thee—to build with me and to do with me as Thou wilt. Relieve me of the bondage of self, that I may better do Thy will. Take away my difficulties, that victory over them may bear witness to those I would help of Thy Power, Thy Love, and Thy Way of life. May I do Thy will always!” ([Location 1034](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1034))
+- It destroys more alcoholics than anything else. From it stem all forms of spiritual disease, for we have been not only mentally and physically ill, we have been spiritually sick. When the spiritual malady is overcome, we straighten out mentally and physically. ([Location 1049](https://readwise.io/to_kindle?action=open&asin=B00H2YFYJ4&location=1049))

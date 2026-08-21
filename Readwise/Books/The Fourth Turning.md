@@ -1,0 +1,221 @@
+# The Fourth Turning
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/41QCfocNKsL._SL200_.jpg)
+
+## Metadata
+- Author: [[Ken Wilber]]
+- Full Title: The Fourth Turning
+- Category: #books
+
+## Highlights
+- its own system is evolving or developing. ([Location 107](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=107))
+- first, ([Location 109](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=109))
+    - Tags: [[blue]] 
+- Theravada ([Location 109](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=109))
+    - Tags: [[blue]] 
+- Second ([Location 111](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=111))
+    - Tags: [[pink]] 
+- Madhyamika ([Location 111](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=111))
+    - Tags: [[pink]] 
+- Nagarjuna ([Location 111](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=111))
+    - Tags: [[pink]] 
+- Third ([Location 112](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=112))
+    - Tags: [[orange]] 
+- Yogachara ([Location 112](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=112))
+    - Tags: [[orange]] 
+- Asanga ([Location 114](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=114))
+    - Tags: [[orange]] 
+- Vasubandhu. ([Location 114](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=114))
+    - Tags: [[orange]] 
+- Vajrayana ([Location 115](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=115))
+- Tantra ([Location 115](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=115))
+- “Fourth ([Location 115](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=115))
+- infinite formlessness. ([Location 142](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=142))
+- get out of samsara and into nirvana. ([Location 143](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=143))
+    - Tags: [[blue]] 
+- Reality looked at through concepts and categories appears as samsara, while the same Reality looked at free of concepts and categories is nirvana. ([Location 145](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=145))
+    - Tags: [[pink]] 
+- Samsara and nirvana are not-two, or “nondual”—two different aspects of the same thing. And this caused a major revolution in Buddhist thought and practice. ([Location 146](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=146))
+    - Tags: [[orange]] 
+- relative or conventional truth, ([Location 148](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=148))
+- The reason is that any concept you come up with makes sense only in terms of its opposite (liberated versus bound, infinite versus finite, something versus nothing, implicate versus explicate, pleasure versus pain, and so on)—yet ultimate Reality has no opposite, and thus can’t be categorized at all (including that statement). ([Location 152](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=152))
+- Now what this does mean is that Emptiness, or ultimate Reality, is not separate from anything that is arising. ([Location 156](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=156))
+    - Tags: [[blue]] 
+- Looked at free from conceptualization or categorization, everything that is arising is Emptiness, or Emptiness is the Reality of each and every thing in the manifest and unmanifest world—it is the Suchness or Thusness of each and every thing looked at directly as it is, not as it is named, judged, or categorized. Looked at through concepts and categories, the universe appears as samsara—as built of radically separate and isolated things and events, and grasping after those and attachment to them causes suffering. But looked at with prajna (nonconceptual awareness), the world of samsara is actually self-liberated nirvana. (In ([Location 158](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=158))
+    - Tags: [[pink]] 
+- liberating Emptiness can be found anywhere in the world of Form. ([Location 166](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=166))
+- The goal is no longer the isolated saint or arhat, but the socially and environmentally engaged bodhisattva—which literally means “being of Enlightened mind”—whose vow is not to get off samsara and retreat into an isolated nirvana, but to fully embrace samsara and vow to gain Enlightenment as quickly as possible so as to help all sentient beings recognize their own deepest spiritual nature, or Buddhanature, and hence realize Enlightenment. ([Location 168](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=168))
+    - Tags: [[blue]] 
+- Diamond Sutra ([Location 187](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=187))
+- a treatise solely devoted to pure Emptiness—displaced ([Location 187](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=187))
+- Lankavatara, ([Location 187](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=187))
+    - Tags: [[blue]] 
+- nonconceptual Awareness. ([Location 188](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=188))
+    - Tags: [[blue]] 
+- Yogachara ([Location 194](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=194))
+    - Tags: [[orange]] 
+- “practice of yoga”) ([Location 194](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=194))
+    - Tags: [[orange]] 
+- Vijnaptimatra ([Location 194](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=194))
+    - Tags: [[pink]] 
+- consciousness only”) ([Location 194](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=194))
+    - Tags: [[pink]] 
+- [Emptiness or Suchness, or pure, unqualifiable, nondual Empty Awareness], ([Location 206](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=206))
+- “All is Mind. Mind is Empty. Empty is freely manifesting. Freely manifesting is self-liberating.”) ([Location 208](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=208))
+    - Tags: [[blue]] 
+- It’s important to realize that for Yogachara, it’s not phenomena (or manifest events or the elements of samsara) that cause illusion and suffering, but rather viewing phenomena as objects, viewing them through the subject-object duality. ([Location 216](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=216))
+- “Bring everything to the Path.” Nothing—absolutely ([Location 244](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=244))
+- And all of this because the sacred and the profane, the infinite and the finite, nirvana and samsara, Emptiness and Form, are not two different and separate and fragmented realms, but co-arising, mutually existing, complementary aspects of one Whole Reality, equally to be embraced and cherished. ([Location 246](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=246))
+    - Tags: [[blue]] 
+- Every single phenomenon, when viewed and experienced apart from Spirit, was a source of pain and suffering (dukkha), while the same phenomenon, seen as an ornament of Spirit, was a source of potential wisdom, compassion, skillful means, and playful luminosity, all arising as textures of the Primordial Buddha—to give one painfully abbreviated summary of an extraordinarily rich topic. ([Location 256](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=256))
+    - Tags: [[orange]] 
+- Clare Graves. ([Location 272](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=272))
+- Graves found that human consciousness moves and develops through around 8 major stages or levels. The first 6 are referred to as 1st tier, or what Maslow called “deficiency needs”—motivation based on lack and scarcity. ([Location 273](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=273))
+    - Tags: [[blue]] 
+- archaic ([Location 275](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=275))
+    - Tags: [[pink]] 
+- instinctual), ([Location 275](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=275))
+    - Tags: [[pink]] 
+- magic ([Location 275](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=275))
+    - Tags: [[pink]] 
+- egocentric), ([Location 275](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=275))
+    - Tags: [[pink]] 
+- mythic ([Location 275](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=275))
+    - Tags: [[pink]] 
+- traditional), ([Location 275](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=275))
+    - Tags: [[pink]] 
+- rational ([Location 275](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=275))
+    - Tags: [[pink]] 
+- modern), ([Location 275](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=275))
+    - Tags: [[pink]] 
+- pluralistic ([Location 276](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=276))
+    - Tags: [[pink]] 
+- postmodern). ([Location 276](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=276))
+    - Tags: [[pink]] 
+- Now what Graves found about these 1st-tier levels is that each level thinks its values and truths are the only real values and truths in the world—all others are infantile, loopy, mistaken, or just plain wrong. ([Location 276](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=276))
+    - Tags: [[orange]] 
+- With any of those first-tier levels in place—which at this particular time in history or evolution covers 95% of the world’s population—humanity is destined to disagreement, conflict, terrorism, and warfare. ([Location 277](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=277))
+- systemic ([Location 279](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=279))
+    - Tags: [[blue]] 
+- holistic ([Location 280](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=280))
+    - Tags: [[blue]] 
+- integral—there ([Location 280](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=280))
+    - Tags: [[blue]] 
+- momentous leap in meaning.” ([Location 280](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=280))
+    - Tags: [[pink]] 
+- The integral levels—or 2nd tier—find some value and partial truth in all of the preceding levels, and it befriends them all in its overall worldview. ([Location 280](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=280))
+    - Tags: [[orange]] 
+- 2nd-tier, integral values, or what Maslow called “Being values,” ([Location 286](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=286))
+- abundance, ([Location 287](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=287))
+    - Tags: [[blue]] 
+- embrace, ([Location 287](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=287))
+    - Tags: [[pink]] 
+- inclusion. ([Location 287](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=287))
+    - Tags: [[orange]] 
+- universal growth level, ([Location 289](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=289))
+- The human race, in other words, is heading toward a world beyond major and deep-seated conflict, and toward one marked more and more often by mutual tolerance, embrace, peace, inclusion, and compassion. ([Location 291](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=291))
+    - Tags: [[blue]] 
+- for Buddhism, Reality is nondual: ([Location 302](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=302))
+- The experience or recognition of Emptiness is a simultaneous realization, metaphorically, of infinite Freedom, Release, Liberation—liberation from the binding conflict between subject and object and all the torment and torture they inflict on each other. ([Location 304](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=304))
+    - Tags: [[blue]] 
+- Humans, for example (and to return to Gebser’s simple terminology), have evolved from simple archaic, to 1st-person magic, to 2nd-person mythic, to 3rd-person rational, to 4th-person pluralistic, to 5th-person and higher integral (1st-, 2nd-, 3rd-, 4th-, and 5th-person refers to the number of perspectives an individual can hold in mind, with the greater the number, the wider and deeper the consciousness doing the holding). ([Location 311](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=311))
+    - Tags: [[pink]] 
+- Fuller, ([Location 318](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=318))
+    - Tags: [[orange]] 
+- Lawrence Kohlberg’s work on the growth and development of moral stages, ([Location 333](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=333))
+- 6 stages bunched in 3 major groups—pre-conventional ([Location 334](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=334))
+    - Tags: [[blue]] 
+- egocentric), ([Location 334](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=334))
+    - Tags: [[pink]] 
+- conventional/conformist ([Location 334](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=334))
+    - Tags: [[pink]] 
+- ethnocentric), ([Location 334](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=334))
+    - Tags: [[pink]] 
+- post-conventional ([Location 335](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=335))
+    - Tags: [[pink]] 
+- worldcentric). ([Location 335](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=335))
+    - Tags: [[pink]] 
+- egocentric ([Location 345](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=345))
+- ethnocentric ([Location 345](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=345))
+    - Tags: [[blue]] 
+- worldcentric, ([Location 345](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=345))
+    - Tags: [[pink]] 
+- these stages can neither be skipped nor reversed. ([Location 345](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=345))
+    - Tags: [[orange]] 
+- multiple intelligences—not ([Location 347](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=347))
+- cognitive ([Location 347](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=347))
+    - Tags: [[blue]] 
+- emotional ([Location 347](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=347))
+    - Tags: [[blue]] 
+- moral ([Location 348](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=348))
+    - Tags: [[blue]] 
+- intrapersonal ([Location 348](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=348))
+    - Tags: [[blue]] 
+- aesthetic ([Location 348](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=348))
+    - Tags: [[blue]] 
+- interpersonal ([Location 348](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=348))
+    - Tags: [[blue]] 
+- mathematico-logical ([Location 348](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=348))
+    - Tags: [[blue]] 
+- developmental lines ([Location 349](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=349))
+    - Tags: [[pink]] 
+- Integral Psychology ([Location 351](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=351))
+    - Tags: [[orange]] 
+- infant ([Location 353](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=353))
+- fusion ([Location 354](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=354))
+- indissociation with the surrounding world—it ([Location 354](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=354))
+- Archaic ([Location 354](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=354))
+- 18 months—which ([Location 355](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=355))
+    - Tags: [[blue]] 
+- psychological birth of the infant”—just ([Location 355](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=355))
+    - Tags: [[blue]] 
+- infant develops a separate emotional self that it can distinguish from its surroundings. ([Location 355](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=355))
+    - Tags: [[blue]] 
+- primary process thinking, ([Location 356](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=356))
+    - Tags: [[blue]] 
+- fantasy-dominated ([Location 357](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=357))
+    - Tags: [[blue]] 
+- superstitious: ([Location 357](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=357))
+    - Tags: [[blue]] 
+- conventional ([Location 363](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=363))
+    - Tags: [[blue]] 
+- conformist, ([Location 363](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=363))
+    - Tags: [[blue]] 
+- adolescence, ([Location 364](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=364))
+    - Tags: [[pink]] 
+- rational ([Location 365](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=365))
+    - Tags: [[pink]] 
+- Self-esteem begins to replace belongingness and peer pressure as a basic motivation, and scientific thinking becomes possible and common. (This is the Rational View.) ([Location 366](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=366))
+    - Tags: [[pink]] 
+- Pluralistic (or Postmodern) View. ([Location 371](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=371))
+    - Tags: [[pink]] 
+- the world becomes a fragmented, disjointed, partial, and broken affair, ([Location 372](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=372))
+    - Tags: [[pink]] 
+- Integral View, ([Location 375](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=375))
+    - Tags: [[pink]] 
+- “monumental leap in meaning”—from broken and fragmented to unified and synthesizing. ([Location 376](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=376))
+    - Tags: [[pink]] 
+- Now the point about this developmental sequence, which consists of various structures of consciousness, is that they are not generally items that can be seen by simply introspecting. ([Location 378](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=378))
+    - Tags: [[orange]] 
+- rarely found in meditation maps, ([Location 380](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=380))
+- 2 major axes of spiritual development. ([Location 393](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=393))
+- meditative states of consciousness—starting ([Location 393](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=393))
+    - Tags: [[blue]] 
+- growth of structures of consciousness ([Location 394](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=394))
+    - Tags: [[pink]] 
+- Structures are how we GROW UP; ([Location 398](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=398))
+    - Tags: [[orange]] 
+- states are how we WAKE UP. ([Location 398](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=398))
+- Most meditation, for example, works by helping us dis-identify or detach from the body and mind, from personal thoughts, feelings, and emotions. ([Location 409](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=409))
+- Anger, for example, can be dissociated or dis-owned, frequently causing feelings of sadness or depression. ([Location 411](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=411))
+    - Tags: [[blue]] 
+- Regrettably, it’s still the case in many religions that if you have an emotional problem or shadow issue, you are simply thought not to be practicing the religion hard enough. ([Location 413](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=413))
+- Adding some simple and widely accepted psychotherapeutic techniques to meditation practice can not only help handle any shadow elements, but make meditation itself cleaner and more efficient and effective. ([Location 416](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=416))
+    - Tags: [[blue]] 
+- Some simple shadow procedures, too, would be a welcome addition to any Fourth Turning. ([Location 417](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=417))
+    - Tags: [[pink]] 
+- structures of consciousness, ([Location 419](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=419))
+- states of consciousness, ([Location 419](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=419))
+    - Tags: [[blue]] 
+- shadow elements—and ([Location 419](https://readwise.io/to_kindle?action=open&asin=B00ISAN11O&location=419))
+    - Tags: [[pink]] 

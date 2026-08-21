@@ -1,0 +1,5 @@
+---
+tags: []
+---
+
+Make it a habit to monitor your mental-emotional state through self-observation. "Am I at ease at this moment?" is a good question to ask yourself frequently. Or you can ask: "What's going on inside me at this moment?" Be at least as interested in what goes on inside you as what happens out side. If you get the inside right, the outside will fall into place. Primary reality is within, secondary reality without. But don't answer these questions immediately. Direct your attention inward. Have a look inside yourself. What kind of thoughts is your mind producing? What do you feel? Direct your attention into the body. Is there any tension? Once you detect that there is a low level of unease, the background static, see in what way you are avoiding, resisting, or deny ing life by denying the Now. There are many ways in which people unconsciously resist the present moment. I will give you a few examples. With practice, your power of self-observation, of monitoring your inner state, will become sharpened.

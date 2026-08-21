@@ -1,0 +1,78 @@
+Hand notes 
+
+Monday 4/27/2026
+
+What we'll cover today
+
+- How to identify your traumatic events
+- Overt versus covert trauma (and why sometimes more subtle, covert traumatic events can be more damaging than traditionally understood traumas)
+- The danger of normalisation
+
+Feel less alone
+
+<mark style="background:#fff88f">"wait for answers to come or do something about it"</mark>
+
+found many answers
+
+therapeutic coaching training
+
+Reset Program
+
+SEQUENCE OF EVENTS
+
+![[Pasted image 20260427081540.png]]
+
+HOW TRAUMA APPEARS IN THE CURRENT MOMENTS OF OUR LIFE
+
+HOW I TRAUMATIZED THE KIDS - DUNCAN - RYAN - KIERA - 
+
+DEFECTS - ASHAMED - COVERT TRAUMA
+SHAPE US
+
+3 CORE EMOTIONAL NEEDS
+NEED FOR BOUNDARIES
+SHAPES US....
+SAFETY
+COREGULATION - BECOME SAFE
+CAPACITY TO SELF SOOTH
+CAPACITY FOR LOVE
+CHILDHOOD- FOUNDATION FOR OURSELVES AND OTHERS
+3RD STAGE - IMPACT - HOMEOSTASIS - BALANCE
+NERVOUS SYSTEM UPREGULATES FFF
+NORMALIZE TO OUR CONSISTENT STATE
+MALADAPTED STRESS RESPONCE
+
+FOLKS ARE COING EACH OTHER IN THE CHAT
+AND REJECTING THAT
+
+OUTCOMES
+WAYS WE COPE
+- BLAME EVENTS
+- NOT RECOGNIZE WHAT IS GOING ON
+- SOLVE RIGHT PROBLEMS
+
+<mark style="background:#fff88f">WE WORK HARD SOLVING THE WRONG PROBLEM</mark>
+
+
+WHAT ABOUT TRAUMA IN ADULT LIFE
+CAN HAPPEN ANY TIME
+PREDETERMINED IN CHILDHOOD
+
+YOUTUBE - THERAPY - ALEX HOWARD
+
+SHUT AWAY EMOTIONS
+
+IS IT REALLY POSSIBLE TO CHANGE?
+<mark style="background:#fff88f">IF YOU LEARNED TO BE ONE WAY YOU CAN LEARN ANOTHER WAY</mark>
+
+SAFETY
+LOVE
+BOUNDARIES
+
+WORKBOOK
+
+
+_____
+
+WHAT IS TRAUMA?
+

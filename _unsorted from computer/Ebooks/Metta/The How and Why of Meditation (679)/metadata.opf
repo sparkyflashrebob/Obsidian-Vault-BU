@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">679</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">10f67e3f-4eac-4a75-9fc6-de5a53cd6d20</dc:identifier>
+        <dc:title>The How and Why of Meditation</dc:title>
+        <dc:creator opf:file-as="Metta" opf:role="aut">Metta</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.9.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-09-17T15:00:23+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Metta&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-01-29T04:31:39.401000+00:00" name="calibre:timestamp"/>
+        <meta content="How and Why of Meditation, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

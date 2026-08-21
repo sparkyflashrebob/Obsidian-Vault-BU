@@ -1,0 +1,320 @@
+# Thoughts Without a Thinker
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/51oGDxWc71L._SL200_.jpg)
+
+## Metadata
+- Author: [[Mark Epstein]]
+- Full Title: Thoughts Without a Thinker
+- Category: #books
+
+## Highlights
+- The critical ingredient for this transformation is the parent’s ability not to take the child’s anger personally, a Buddhist idea if there ever was one. ([Location 146](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=146))
+- “knower” or “observer” of sounds. ([Location 216](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=216))
+    - Tags: [[blue]] 
+- Far from being a mystical retreat from the complexities of mental and emotional experience, the Buddhist approach requires that all of the psyche be subject to meditative awareness. ([Location 287](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=287))
+- Its object is to question the true nature of the self and to end the production of self-created mental suffering. ([Location 290](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=290))
+    - Tags: [[blue]] 
+- one of the most compelling things about the Buddhist view of suffering is the notion, inherent in the Wheel of Life image, that the causes of suffering are also the means of release; that is, the sufferer’s perspective determines whether a given realm is a vehicle for awakening or for bondage. ([Location 423](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=423))
+- Each realm becomes not so much a specific place but rather a metaphor for a different psychological state, with the entire wheel becoming a representation of neurotic suffering. ([Location 434](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=434))
+    - Tags: [[blue]] 
+- According to Buddhism, it is our fear at experiencing ourselves directly that creates suffering. ([Location 436](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=436))
+    - Tags: [[pink]] 
+- This belief that reconciliation can lead to release is fundamental to the Buddhist notion of the six realms. We ([Location 443](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=443))
+- Yet it has become a fundamental axiom of Buddhist thought that nirvana is samsara—that there is no separate Buddha realm apart from worldly existence, that release from suffering is won through a change in perception, not through a migration to some kind of heavenly abode. ([Location 448](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=448))
+    - Tags: [[pink]] 
+- the paradox is that what we take to be so real, our selves, is constructed out of a reaction against just what we do not wish to acknowledge. ([Location 464](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=464))
+- We tense up around that which we are denying, and we experience ourselves through our tensions. ([Location 465](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=465))
+    - Tags: [[blue]] 
+- To study Buddhism is to study the self.             To study the self is to forget the self.             To forget the self is to be one with others. ([Location 475](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=475))
+    - Tags: [[orange]] 
+- A person who is cut off from his passions but not from his God-like nature will be as unbalanced and insufferable as a person who suffers from the reverse scenario. ([Location 480](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=480))
+    - Tags: [[pink]] 
+- bare attention ([Location 489](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=489))
+- Hell Realms are vivid descriptions of aggressive and anxiety states; ([Location 504](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=504))
+    - Tags: [[pink]] 
+- They do not recognize their torturers as products of their own minds, ([Location 505](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=505))
+    - Tags: [[orange]] 
+- They believe themselves to be tortured by outside forces over which they have no control. ([Location 506](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=506))
+- They do not see that those unwanted forces are their own, and they are therefore imprisoned in a cell of their own making. ([Location 507](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=507))
+    - Tags: [[blue]] 
+- The Bodhisattva of Compassion is sometimes inset into the Hell Realm holding a mirror or a purifying flame, indicating that this suffering can only be alleviated by seeing the unwanted emotions in the mirror. When so recognized, the emotions themselves become healing (a point that was not lost on Freud). ([Location 508](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=508))
+    - Tags: [[pink]] 
+- Padma Sambhava ([Location 526](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=526))
+- Padma Sambhava, it is told, engaged the best shamans of the indigenous Bon religion in a competition in which he proved his magic powers to be superior, beating them at their own game. In the process, he is said to have defeated the powerful animal-headed demons of the lower realms and converted them to protectors of Buddhism, revealing their true natures as aspects of the enlightened mind rather than as demonic forces. ([Location 527](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=527))
+- The Tibetan tradition has since been replete with images of such beings “stomping on the corpse of ego,” representing the harnessing of painful emotion and the progression from projection, paranoia, and fear to integration and clear vision. ([Location 530](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=530))
+    - Tags: [[blue]] 
+- When we refuse to acknowledge the presence of unwanted feelings, we are as bound to them as when we give ourselves over to them indignantly and self-righteously. ([Location 532](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=532))
+    - Tags: [[pink]] 
+- Buddhism, alone among the world’s religions, has taken a characteristically middle path, recognizing the need to be free from destructive emotions while at the same time seeing that such freedom comes through nonjudgmental awareness of just those emotions from which we seek freedom. ([Location 536](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=536))
+    - Tags: [[orange]] 
+- instinctual gratification, ([Location 554](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=554))
+- stupidity. ([Location 555](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=555))
+    - Tags: [[blue]] 
+- he came to the paradoxical conclusion that there is “something in the nature of the sexual instinct itself [that] is unfavorable to the realization of complete satisfaction.” ([Location 560](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=560))
+    - Tags: [[pink]] 
+- pleasure to be inherently fleeting. ([Location 562](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=562))
+    - Tags: [[orange]] 
+- its completion returns us to a state of impoverishment, of unrest, of separateness, desire, or tension. ([Location 563](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=563))
+- the pursuit of pleasurable sensory experiences leads inevitably to a state of dissatisfaction, because it is in the nature of pleasure not to be sustainable: ([Location 564](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=564))
+    - Tags: [[blue]] 
+- Ignoring the Animal Realm only seems to empower it, as the sexual scandals that have rocked spiritual groups and leaders testify. Sexuality is a threat to spirituality only when it is not integrated. ([Location 588](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=588))
+    - Tags: [[blue]] 
+- represent a fusion of rage and desire. ([Location 596](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=596))
+- Tormented by unfulfilled cravings and insatiably demanding of impossible satisfactions, the Hungry Ghosts are searching for gratification for old unfulfilled needs whose time has passed. ([Location 596](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=596))
+    - Tags: [[blue]] 
+- uncovered a terrible emptiness ([Location 598](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=598))
+    - Tags: [[pink]] 
+- Their ghostlike state represents their attachment to the past. ([Location 599](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=599))
+    - Tags: [[orange]] 
+- In addition, these beings, while impossibly hungry and thirsty, cannot drink or eat without causing themselves terrible pain or indigestion. ([Location 600](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=600))
+- their fantasy must be owned as fantasy. ([Location 605](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=605))
+    - Tags: [[pink]] 
+- This desperate longing for inexhaustible abundance is very common in the Western psyche, where it masquerades under the heading of “low self-esteem.” ([Location 627](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=627))
+    - Tags: [[blue]] 
+- Just as the emptiness of the Hungry Ghosts must be experienced in such a way that reparation is no longer sought from impossible sources, so the Western student afflicted with such feelings must make the emptiness itself the object of his or her meditation. Only then can self-loathing be transformed into wisdom, a task in which both psychotherapy and meditation may well collaborate. ([Location 631](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=631))
+    - Tags: [[pink]] 
+- confluence ([Location 638](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=638))
+    - Tags: [[orange]] 
+- ability to induce complacency ([Location 641](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=641))
+    - Tags: [[pink]] 
+- discriminating awareness. ([Location 681](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=681))
+    - Tags: [[pink]] 
+- the Wheel of Life shows not just how beings can be self-indulgent but also how they hide from themselves. ([Location 703](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=703))
+- The central predicament of the Human Realm is that we do not really know who we are. ([Location 714](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=714))
+- As Winnicott was fond of proposing, “Although healthy persons communicate and enjoy communicating, the other fact is equally true, that each individual is an isolate, permanently non-communicating, permanently unknown, in fact unfound.”7 We are aware of vague and disturbing feelings of emptiness, inauthenticity, and alienation, and we have some sense of the lack of acknowledgment, attention, or recognition—of what the psychoanalysts call mirroring—that might lie behind these disturbing feelings. But we are fundamentally unsure. ([Location 715](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=715))
+    - Tags: [[blue]] 
+- From the Buddhist perspective, the Human Realm is not just about the false self but is also about the possibility of transcendent insight into the true nature of self. ([Location 736](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=736))
+    - Tags: [[pink]] 
+- The Buddhists assert that the more we grasp emptiness, the more we feel real—that the core, the incommunicado element, is really a place of fear at our own insubstantiality. ([Location 737](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=737))
+    - Tags: [[orange]] 
+- In approaching that privacy without fear, the Buddhist practices make possible a sense of genuine liberation rather than permanent isolation. ([Location 740](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=740))
+- The Bodhisattva images inset into each realm of the Wheel of Life imply that it is possible to learn another way of relating to the emotions of each dimension. ([Location 757](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=757))
+- This is the sense in which the enlightened person is said to be in the world but not of it. ([Location 758](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=758))
+    - Tags: [[blue]] 
+- The entire Wheel of Life is but a representation of the possibility of transforming suffering by changing the way we relate to it. ([Location 765](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=765))
+    - Tags: [[pink]] 
+- becoming a “lamp unto yourself” that enlightenment can be won. ([Location 767](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=767))
+    - Tags: [[pink]] 
+- “Things are not what they seem,” ([Location 769](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=769))
+    - Tags: [[orange]] 
+- “Nor are they otherwise. . . . Deeds exist, but no doer can be found.”10 ([Location 770](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=770))
+    - Tags: [[orange]] 
+- This emphasis on the lack of a particular, substantive agent is the most distinctive aspect of traditional Buddhist psychological thought; ([Location 771](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=771))
+- “thoughts without a thinker” ([Location 776](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=776))
+    - Tags: [[blue]] 
+- “against the stream, ([Location 799](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=799))
+- “difficult to comprehend, ([Location 799](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=799))
+    - Tags: [[blue]] 
+- “not within the sphere of logic.” ([Location 800](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=800))
+    - Tags: [[pink]] 
+- the inevitability of our own humiliation. ([Location 801](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=801))
+    - Tags: [[orange]] 
+- Birth is suffering, decay is suffering, disease is suffering, death is suffering, sorrow, lamentation, pain, grief and despair are suffering, to be united with the unpleasant is suffering, to be separated from the pleasant is suffering, not to get what one desires is suffering. In brief the five aggregates of attachment (the basis for the human personality) are suffering. ([Location 825](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=825))
+- “pervasive unsatisfactoriness.” ([Location 830](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=830))
+    - Tags: [[blue]] 
+- We are all touched by a gnawing sense of imperfection, insubstantiality, uncertainty, or unrest, and we all long for a magical resolution of that dis-ease. ([Location 836](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=836))
+    - Tags: [[pink]] 
+- Not only was the reflection illusory, of course, but Narcissus perished by virtue of his attachment to this image of perfection. ([Location 845](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=845))
+- “two sicknesses,” ([Location 898](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=898))
+- belief in a fixed and abiding self (the internal sickness) ([Location 898](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=898))
+- desire for a “real” object (the external sickness). ([Location 899](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=899))
+    - Tags: [[blue]] 
+- Reich’s interest was in how we carry and perpetuate inadequacy in our very bodies. ([Location 904](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=904))
+- less rigid, ([Location 905](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=905))
+    - Tags: [[blue]] 
+- Reich tried to move from the Animal Realm of desire to the God Realm of satisfaction. ([Location 906](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=906))
+    - Tags: [[orange]] 
+- how the ego seeks to “unburden itself” ([Location 910](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=910))
+- individuality becomes the equivalent of anxiety, ([Location 916](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=916))
+    - Tags: [[orange]] 
+- “fear of life.” ([Location 918](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=918))
+- the Buddha, ([Location 926](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=926))
+- spoke directly and explicitly to this very problem of identity confusion. ([Location 926](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=926))
+- we shut ourselves down, ([Location 929](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=929))
+    - Tags: [[blue]] 
+- “False Self.” ([Location 932](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=932))
+    - Tags: [[pink]] 
+- All of these theories share the idea of an original state of perfection, fantasized or real, toward which the person strives but which is forever unreachable. ([Location 941](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=941))
+- At root, the person must find a way of confronting, or tolerating, his or her inherent sense of uncertainty. ([Location 947](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=947))
+    - Tags: [[blue]] 
+- Therapy could help her to see the patterns in her behavior, but it was meditation that gave her the tools to accept her predicament. ([Location 963](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=963))
+    - Tags: [[pink]] 
+- Just as modern physics has shown that the observer inevitably distorts that which is observed, so too, we, as experiencing subjects, can never know ourselves satisfactorily as object. ([Location 968](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=968))
+    - Tags: [[orange]] 
+- We cannot experience ourselves indivisibly but must experience ourselves as either subject or object, as knower or as that which is known. ([Location 969](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=969))
+- “not-knowing.” ([Location 978](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=978))
+- “Keep that ‘don’t know’ mind!” ([Location 978](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=978))
+    - Tags: [[blue]] 
+- “the faith to doubt,” ([Location 979](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=979))
+    - Tags: [[pink]] 
+- You must doubt deeply, again and again, asking yourself what the subject of hearing could be. Pay no attention to the various illusory thoughts and ideas that may occur to you. Only doubt more and more deeply, gathering together in yourself all the strength that is in you, without aiming at anything or expecting anything in advance, without intending to be enlightened and without even intending not to intend to be enlightened; become like a child in your own breast [italics added].14 ([Location 980](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=980))
+    - Tags: [[pink]] 
+- going into the doubt, ([Location 990](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=990))
+    - Tags: [[orange]] 
+- thirsts for existence and nonexistence, ([Location 1032](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=1032))
+- “I do not teach theory,” he said, “I analyse.”2 ([Location 1034](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=1034))
+    - Tags: [[blue]] 
+- neither self nor no-self, neither clinging nor condemning, neither existence nor nonexistence. ([Location 1064](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=1064))
+    - Tags: [[blue]] 
+- Just as the philosophers of the Buddha’s day could be described as either eternalists (who believed in an immortal heaven, God, or real self) or annihilationists (who believed only in the meaninglessness or futility of life), so the human psyche finds comfort in alternately embracing one or the other of these views. ([Location 1070](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=1070))
+    - Tags: [[pink]] 
+# Thoughts Without a Thinker
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/51oGDxWc71L._SL200_.jpg)
+
+## Metadata
+- Author: [[Mark Epstein]]
+- Full Title: Thoughts Without a Thinker
+- Category: #books
+
+## Highlights
+- The critical ingredient for this transformation is the parent’s ability not to take the child’s anger personally, a Buddhist idea if there ever was one. ([Location 146](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=146))
+- “knower” or “observer” of sounds. ([Location 216](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=216))
+    - Tags: [[blue]] 
+- Far from being a mystical retreat from the complexities of mental and emotional experience, the Buddhist approach requires that all of the psyche be subject to meditative awareness. ([Location 287](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=287))
+- Its object is to question the true nature of the self and to end the production of self-created mental suffering. ([Location 290](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=290))
+    - Tags: [[blue]] 
+- one of the most compelling things about the Buddhist view of suffering is the notion, inherent in the Wheel of Life image, that the causes of suffering are also the means of release; that is, the sufferer’s perspective determines whether a given realm is a vehicle for awakening or for bondage. ([Location 423](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=423))
+- Each realm becomes not so much a specific place but rather a metaphor for a different psychological state, with the entire wheel becoming a representation of neurotic suffering. ([Location 434](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=434))
+    - Tags: [[blue]] 
+- According to Buddhism, it is our fear at experiencing ourselves directly that creates suffering. ([Location 436](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=436))
+    - Tags: [[pink]] 
+- This belief that reconciliation can lead to release is fundamental to the Buddhist notion of the six realms. We ([Location 443](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=443))
+- Yet it has become a fundamental axiom of Buddhist thought that nirvana is samsara—that there is no separate Buddha realm apart from worldly existence, that release from suffering is won through a change in perception, not through a migration to some kind of heavenly abode. ([Location 448](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=448))
+    - Tags: [[pink]] 
+- the paradox is that what we take to be so real, our selves, is constructed out of a reaction against just what we do not wish to acknowledge. ([Location 464](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=464))
+- We tense up around that which we are denying, and we experience ourselves through our tensions. ([Location 465](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=465))
+    - Tags: [[blue]] 
+- To study Buddhism is to study the self.             To study the self is to forget the self.             To forget the self is to be one with others. ([Location 475](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=475))
+    - Tags: [[orange]] 
+- A person who is cut off from his passions but not from his God-like nature will be as unbalanced and insufferable as a person who suffers from the reverse scenario. ([Location 480](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=480))
+    - Tags: [[pink]] 
+- bare attention ([Location 489](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=489))
+- Hell Realms are vivid descriptions of aggressive and anxiety states; ([Location 504](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=504))
+    - Tags: [[pink]] 
+- They do not recognize their torturers as products of their own minds, ([Location 505](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=505))
+    - Tags: [[orange]] 
+- They believe themselves to be tortured by outside forces over which they have no control. ([Location 506](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=506))
+- They do not see that those unwanted forces are their own, and they are therefore imprisoned in a cell of their own making. ([Location 507](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=507))
+    - Tags: [[blue]] 
+- The Bodhisattva of Compassion is sometimes inset into the Hell Realm holding a mirror or a purifying flame, indicating that this suffering can only be alleviated by seeing the unwanted emotions in the mirror. When so recognized, the emotions themselves become healing (a point that was not lost on Freud). ([Location 508](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=508))
+    - Tags: [[pink]] 
+- Padma Sambhava ([Location 526](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=526))
+- Padma Sambhava, it is told, engaged the best shamans of the indigenous Bon religion in a competition in which he proved his magic powers to be superior, beating them at their own game. In the process, he is said to have defeated the powerful animal-headed demons of the lower realms and converted them to protectors of Buddhism, revealing their true natures as aspects of the enlightened mind rather than as demonic forces. ([Location 527](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=527))
+- The Tibetan tradition has since been replete with images of such beings “stomping on the corpse of ego,” representing the harnessing of painful emotion and the progression from projection, paranoia, and fear to integration and clear vision. ([Location 530](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=530))
+    - Tags: [[blue]] 
+- When we refuse to acknowledge the presence of unwanted feelings, we are as bound to them as when we give ourselves over to them indignantly and self-righteously. ([Location 532](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=532))
+    - Tags: [[pink]] 
+- Buddhism, alone among the world’s religions, has taken a characteristically middle path, recognizing the need to be free from destructive emotions while at the same time seeing that such freedom comes through nonjudgmental awareness of just those emotions from which we seek freedom. ([Location 536](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=536))
+    - Tags: [[orange]] 
+- instinctual gratification, ([Location 554](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=554))
+- stupidity. ([Location 555](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=555))
+    - Tags: [[blue]] 
+- he came to the paradoxical conclusion that there is “something in the nature of the sexual instinct itself [that] is unfavorable to the realization of complete satisfaction.” ([Location 560](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=560))
+    - Tags: [[pink]] 
+- pleasure to be inherently fleeting. ([Location 562](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=562))
+    - Tags: [[orange]] 
+- its completion returns us to a state of impoverishment, of unrest, of separateness, desire, or tension. ([Location 563](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=563))
+- the pursuit of pleasurable sensory experiences leads inevitably to a state of dissatisfaction, because it is in the nature of pleasure not to be sustainable: ([Location 564](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=564))
+    - Tags: [[blue]] 
+- Ignoring the Animal Realm only seems to empower it, as the sexual scandals that have rocked spiritual groups and leaders testify. Sexuality is a threat to spirituality only when it is not integrated. ([Location 588](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=588))
+    - Tags: [[blue]] 
+- represent a fusion of rage and desire. ([Location 596](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=596))
+- Tormented by unfulfilled cravings and insatiably demanding of impossible satisfactions, the Hungry Ghosts are searching for gratification for old unfulfilled needs whose time has passed. ([Location 596](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=596))
+    - Tags: [[blue]] 
+- uncovered a terrible emptiness ([Location 598](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=598))
+    - Tags: [[pink]] 
+- Their ghostlike state represents their attachment to the past. ([Location 599](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=599))
+    - Tags: [[orange]] 
+- In addition, these beings, while impossibly hungry and thirsty, cannot drink or eat without causing themselves terrible pain or indigestion. ([Location 600](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=600))
+- their fantasy must be owned as fantasy. ([Location 605](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=605))
+    - Tags: [[pink]] 
+- This desperate longing for inexhaustible abundance is very common in the Western psyche, where it masquerades under the heading of “low self-esteem.” ([Location 627](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=627))
+    - Tags: [[blue]] 
+- Just as the emptiness of the Hungry Ghosts must be experienced in such a way that reparation is no longer sought from impossible sources, so the Western student afflicted with such feelings must make the emptiness itself the object of his or her meditation. Only then can self-loathing be transformed into wisdom, a task in which both psychotherapy and meditation may well collaborate. ([Location 631](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=631))
+    - Tags: [[pink]] 
+- confluence ([Location 638](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=638))
+    - Tags: [[orange]] 
+- ability to induce complacency ([Location 641](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=641))
+    - Tags: [[pink]] 
+- discriminating awareness. ([Location 681](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=681))
+    - Tags: [[pink]] 
+- the Wheel of Life shows not just how beings can be self-indulgent but also how they hide from themselves. ([Location 703](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=703))
+- The central predicament of the Human Realm is that we do not really know who we are. ([Location 714](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=714))
+- As Winnicott was fond of proposing, “Although healthy persons communicate and enjoy communicating, the other fact is equally true, that each individual is an isolate, permanently non-communicating, permanently unknown, in fact unfound.”7 We are aware of vague and disturbing feelings of emptiness, inauthenticity, and alienation, and we have some sense of the lack of acknowledgment, attention, or recognition—of what the psychoanalysts call mirroring—that might lie behind these disturbing feelings. But we are fundamentally unsure. ([Location 715](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=715))
+    - Tags: [[blue]] 
+- From the Buddhist perspective, the Human Realm is not just about the false self but is also about the possibility of transcendent insight into the true nature of self. ([Location 736](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=736))
+    - Tags: [[pink]] 
+- The Buddhists assert that the more we grasp emptiness, the more we feel real—that the core, the incommunicado element, is really a place of fear at our own insubstantiality. ([Location 737](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=737))
+    - Tags: [[orange]] 
+- In approaching that privacy without fear, the Buddhist practices make possible a sense of genuine liberation rather than permanent isolation. ([Location 740](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=740))
+- The Bodhisattva images inset into each realm of the Wheel of Life imply that it is possible to learn another way of relating to the emotions of each dimension. ([Location 757](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=757))
+- This is the sense in which the enlightened person is said to be in the world but not of it. ([Location 758](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=758))
+    - Tags: [[blue]] 
+- The entire Wheel of Life is but a representation of the possibility of transforming suffering by changing the way we relate to it. ([Location 765](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=765))
+    - Tags: [[pink]] 
+- becoming a “lamp unto yourself” that enlightenment can be won. ([Location 767](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=767))
+    - Tags: [[pink]] 
+- “Things are not what they seem,” ([Location 769](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=769))
+    - Tags: [[orange]] 
+- “Nor are they otherwise. . . . Deeds exist, but no doer can be found.”10 ([Location 770](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=770))
+    - Tags: [[orange]] 
+- This emphasis on the lack of a particular, substantive agent is the most distinctive aspect of traditional Buddhist psychological thought; ([Location 771](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=771))
+- “thoughts without a thinker” ([Location 776](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=776))
+    - Tags: [[blue]] 
+- “against the stream, ([Location 799](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=799))
+- “difficult to comprehend, ([Location 799](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=799))
+    - Tags: [[blue]] 
+- “not within the sphere of logic.” ([Location 800](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=800))
+    - Tags: [[pink]] 
+- the inevitability of our own humiliation. ([Location 801](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=801))
+    - Tags: [[orange]] 
+- Birth is suffering, decay is suffering, disease is suffering, death is suffering, sorrow, lamentation, pain, grief and despair are suffering, to be united with the unpleasant is suffering, to be separated from the pleasant is suffering, not to get what one desires is suffering. In brief the five aggregates of attachment (the basis for the human personality) are suffering. ([Location 825](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=825))
+- “pervasive unsatisfactoriness.” ([Location 830](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=830))
+    - Tags: [[blue]] 
+- We are all touched by a gnawing sense of imperfection, insubstantiality, uncertainty, or unrest, and we all long for a magical resolution of that dis-ease. ([Location 836](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=836))
+    - Tags: [[pink]] 
+- Not only was the reflection illusory, of course, but Narcissus perished by virtue of his attachment to this image of perfection. ([Location 845](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=845))
+- “two sicknesses,” ([Location 898](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=898))
+- belief in a fixed and abiding self (the internal sickness) ([Location 898](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=898))
+- desire for a “real” object (the external sickness). ([Location 899](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=899))
+    - Tags: [[blue]] 
+- Reich’s interest was in how we carry and perpetuate inadequacy in our very bodies. ([Location 904](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=904))
+- less rigid, ([Location 905](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=905))
+    - Tags: [[blue]] 
+- Reich tried to move from the Animal Realm of desire to the God Realm of satisfaction. ([Location 906](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=906))
+    - Tags: [[orange]] 
+- how the ego seeks to “unburden itself” ([Location 910](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=910))
+- individuality becomes the equivalent of anxiety, ([Location 916](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=916))
+    - Tags: [[orange]] 
+- “fear of life.” ([Location 918](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=918))
+- the Buddha, ([Location 926](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=926))
+- spoke directly and explicitly to this very problem of identity confusion. ([Location 926](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=926))
+- we shut ourselves down, ([Location 929](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=929))
+    - Tags: [[blue]] 
+- “False Self.” ([Location 932](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=932))
+    - Tags: [[pink]] 
+- All of these theories share the idea of an original state of perfection, fantasized or real, toward which the person strives but which is forever unreachable. ([Location 941](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=941))
+- At root, the person must find a way of confronting, or tolerating, his or her inherent sense of uncertainty. ([Location 947](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=947))
+    - Tags: [[blue]] 
+- Therapy could help her to see the patterns in her behavior, but it was meditation that gave her the tools to accept her predicament. ([Location 963](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=963))
+    - Tags: [[pink]] 
+- Just as modern physics has shown that the observer inevitably distorts that which is observed, so too, we, as experiencing subjects, can never know ourselves satisfactorily as object. ([Location 968](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=968))
+    - Tags: [[orange]] 
+- We cannot experience ourselves indivisibly but must experience ourselves as either subject or object, as knower or as that which is known. ([Location 969](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=969))
+- “not-knowing.” ([Location 978](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=978))
+- “Keep that ‘don’t know’ mind!” ([Location 978](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=978))
+    - Tags: [[blue]] 
+- “the faith to doubt,” ([Location 979](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=979))
+    - Tags: [[pink]] 
+- You must doubt deeply, again and again, asking yourself what the subject of hearing could be. Pay no attention to the various illusory thoughts and ideas that may occur to you. Only doubt more and more deeply, gathering together in yourself all the strength that is in you, without aiming at anything or expecting anything in advance, without intending to be enlightened and without even intending not to intend to be enlightened; become like a child in your own breast [italics added].14 ([Location 980](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=980))
+    - Tags: [[pink]] 
+- going into the doubt, ([Location 990](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=990))
+    - Tags: [[orange]] 
+- thirsts for existence and nonexistence, ([Location 1032](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=1032))
+- “I do not teach theory,” he said, “I analyse.”2 ([Location 1034](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=1034))
+    - Tags: [[blue]] 
+- neither self nor no-self, neither clinging nor condemning, neither existence nor nonexistence. ([Location 1064](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=1064))
+    - Tags: [[blue]] 
+- Just as the philosophers of the Buddha’s day could be described as either eternalists (who believed in an immortal heaven, God, or real self) or annihilationists (who believed only in the meaninglessness or futility of life), so the human psyche finds comfort in alternately embracing one or the other of these views. ([Location 1070](https://readwise.io/to_kindle?action=open&asin=B00DZ241SW&location=1070))
+    - Tags: [[pink]] 

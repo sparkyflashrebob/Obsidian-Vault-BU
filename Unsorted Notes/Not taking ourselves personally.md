@@ -1,0 +1,1 @@
+https://spirit-rock.secure.retreat.guru/program/not-self-not-taking-ourselves-personally-ak1z24/?_gl=1*bk2ug9*_ga*ODgwNzMyOTAxLjE3MTI0MTk0MzI.*_ga_JJL3LQYNTV*MTcxMjQxOTQzMS4xLjAuMTcxMjQxOTQzMS42MC4wLjA.

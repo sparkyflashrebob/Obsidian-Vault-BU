@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">639</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0bdd41a1-da1f-4467-ab46-e037659fb3b0</dc:identifier>
+        <dc:title>The Roots of Good and Evil</dc:title>
+        <dc:creator opf:file-as="Thera, Ven. Nyanaponika" opf:role="aut">Ven. Nyanaponika Thera</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.9.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-10-09T22:18:54+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <dc:subject>Greed</dc:subject>
+        <dc:subject>hatred and delusion - three bad roots. Good roots are converse.</dc:subject>
+        <dc:subject>Buddhist teachings</dc:subject>
+        <meta content="{&quot;Ven. Nyanaponika Thera&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-01-29T04:31:22.255000+00:00" name="calibre:timestamp"/>
+        <meta content="Roots of Good and Evil, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

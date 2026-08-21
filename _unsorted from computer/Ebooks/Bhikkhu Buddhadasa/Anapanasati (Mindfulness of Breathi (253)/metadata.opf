@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">253</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ee35bd5c-ff2b-45b6-a5fa-cea28be71c83</dc:identifier>
+        <dc:title>Anapanasati (Mindfulness of Breathing)</dc:title>
+        <dc:creator opf:file-as="Buddhadasa, Bhikkhu" opf:role="aut">Bhikkhu Buddhadasa</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.9.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-01-03T11:04:22+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <dc:subject>Buddhist Meditation on Breathing</dc:subject>
+        <dc:subject>Anapanasati</dc:subject>
+        <dc:subject>Mindfulness</dc:subject>
+        <dc:subject>Buddhist</dc:subject>
+        <dc:subject>Meditation</dc:subject>
+        <meta content="{&quot;Bhikkhu Buddhadasa&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-01-29T04:06:10.315000+00:00" name="calibre:timestamp"/>
+        <meta content="Anapanasati (Mindfulness of Breathing)" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

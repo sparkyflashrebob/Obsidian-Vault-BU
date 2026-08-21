@@ -1,0 +1,10 @@
+# Meditation Instructions Part 8: Right Effort | Samadhi and Jhana Meditation Course
+
+https://youtu.be/Z3h0TLQavsI?si=RoShAwuCtLB9crkD
+
+Z3h0TLQavsI
+
+Metta Dharma Foundation
+
+right effort means making effort in the proper way in the proper direction and it also means bringing the right amount of effort In the early stages of meditation practice or at any point it can sometimes feel harder like we're having to put in more work more effort We have to bring more energy to stay connected and to keep coming back over and over to reconnecting with our breath Just being present with ourselves can feel harder sometimes with all the ups and downs the many changes in the flow of our experience As the samadei begins to grow and continues to deepen it can sometimes feel easier You're not having to work so hard You naturally are able to stay connected because by virtue of the deepening samadei you naturally are more present and are more connected without you having to do so much You will still need to have a sense of doing putting in some intention and effort but it's a lighter and lighter touch Check in from time to time in your practice to get a sense of the right amount of effort The right amount of effort is a balance between doing and intending making some effort and being at ease and relaxed If you are overeing you will know it because there will be a feeling of being tight or tense or it can be tiring or it just feels like you're overwork If you notice that back off a little bit and bring a lighter and lighter touch Again you'll need to make some effort some sense of doing but it's not so hard It should be more easeful and relaxed If you let go of how much effort you're making too much you will know that because you will feel yourself lifting out you won't be as connected You will space out more The mind will wander around or wander away more In that case you'll need to up your intention Bring a little more effort When you remember once or twice or a few times during the sit check in Again you do not have to have a perfect balance but some general sense of the balance between doing and being relaxed and at ease
+

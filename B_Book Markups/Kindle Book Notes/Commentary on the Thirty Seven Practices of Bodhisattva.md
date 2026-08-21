@@ -1,0 +1,31 @@
+---
+URL: "https://www.amazon.com/dp/B00OCYOVIC"
+Glasp URL: "https://glasp.co/9aPuAlSY4cSgR8ymS3kzJvsZ0oY2/kindle/B00OCYOVIC"
+Author: "Your Kindle Notes For:"
+Thumbnail: "https://m.media-amazon.com/images/I/71wwCKwwz-L.jpg"
+Tags: []
+Last updated: 2026-08-17
+---
+#### Highlights & Notes
+
+> The purpose of our gathering here is to listen to the Dharma and receive an initiation in order to transform our minds. For our way of thinking is the main cause for attaining, and condition for maintaining, a positive mental disposition.
+
+> In a few exceptional cases a positive disposition is innate in the mind, but these are rare.
+
+> Among all the views which exist, there are those which do not stop at merely exploring the ways to bring about temporary happiness and relieve short-term suffering. Holders of these views begin by exploring these temporary causes and conditions, looking at the arising of that temporary cause and condition and then at the cause of the cause, and the cause of that cause, and so on, like links in a chain. By thinking and investigating deeply we arrive at the view of Dharma. We can contemplate various aspects of suffering and happiness &mdash;how these sufferings came to us; how happiness arises in a broad sense; how and where this world came into existence and depending on what cause; what the purpose and benefit is of life in this world (for whether there is a benefit or not, the world still came into existence based on its previous existence); what the future will hold and what the individual person can do about it, and what he or she thinks about it. Thinking constructively about these things means that we cannot just depend on what we see with our eyes and hear with our ears, but we must go deeper into the subject.
+
+> When dealing with this profound subject, of how to find happiness and eliminate suffering, in relation to the body we can see that the focus is the necessities of food and clothing, with their secondary aspects of housing, bedding and other material facilities. But it soon becomes clear that it is not enough just to be able to find enough food to fill our stomachs. When we explore the suffering and happiness of the body more deeply, we find that although they are strong experiences, comparatively speaking the happiness and suffering of the mind are more powerful. Someone may have a healthy body and ample food and drink, but if he has an unhappy mind he may become crazy and even commit suicide. Some people who become extremely wealthy are always tense; they breathe heavily and frequently talk of being unsatisfied and unhappy. Conversely, we can observe people who remain calm and happy even when there is a scarcity of food and drink. If we have mental happiness and quietude, then it is quite easy to bear the sufferings of the body. If our minds are too tense, however, immediately upon receiving one possession we want another and there is a great deal of expectation involved. When something goes slightly wrong, we cannot bear it. A mind like this, with no strong endurance, will always be dissatisfied even if the person lives in very good circumstances. So we can see that the mind is of prime importance, and that we can eliminate mental suffering and derive mental happiness through our own way of thinking.
+
+> So regardless of whether there is life after death, cause and effect and the Triple Gem or not, during our lifetime and in our day-to-day life we should keep our inner mind calm and not make trouble for our friends.
+
+> It is very good to maintain a sense of humour, bring benefit to others and spend our life in this manner.
+
+> Also, when we wake early in the morning, we should be aware of the possibility that something bad might happen to us today.
+
+> Then if something bad does happen, our minds will be well prepared and we will be able to maintain an even state of mind. Before we go to sleep at night we should reflect on the good preparations we made by thinking such thoughts in the morning. Otherwise, if we expect to be calm and happy every day and think only from the positive side, our minds become disturbed when something unpleasant happens or we meet a person with whom we do not feel comfortable, and we have a restless night at the end of that day.
+
+> We should have the courage to bear whatever difficult circumstances may arise. If another person inflicts harm on us and we retaliate, maybe we will end up in court; if we allow our friends to get involved in the case there will be problems with expenses and possessions. There is no purpose in causing so much trouble, whereas there is benefit in enduring the problem. Most people are not able to practise in this way and be good-hearted to everyone, showing love to one another and helping one another. If we are able to increase this kind of behaviour in society, then really and truly there is hope for peace in this world.
+
+> We Buddhists believe in life after death, and it can be proven by reasoning. So we should analyse with an open mind, thinking deeply about our experience. There definitely is life after death. Because of this fact, the collective karma of sentient beings has brought about the environmental result of the world in general, and our individual karma has brought about the facilities that we enjoy. If there is no life after death, we would have to say that this world came into existence without a cause&mdash;there could be no other explanation.
+
+

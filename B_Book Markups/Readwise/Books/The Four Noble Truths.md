@@ -1,0 +1,450 @@
+# The Four Noble Truths
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/41UFhF5TkkL._SL200_.jpg)
+
+## Metadata
+- Author: [[His Holiness the Dalai Lama]]
+- Full Title: The Four Noble Truths
+- Category: #books
+
+## Highlights
+- This principle means that all conditioned things and events in the universe come into being only as a result of the interaction of various causes and conditions. ([Location 127](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=127))
+- This is significant because it precludes two possibilities. One is the possibility that things can arise from nowhere, with no causes and conditions, and the second is that things can arise on account of a transcendent designer or creator. Both these possibilities are negated. ([Location 128](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=128))
+    - Tags: [[blue]] 
+- Secondly, we can understand the principle of dependent origination in terms of parts and whole. All material objects can be understood in terms of how the parts compose the whole, and how the very idea of ‘whole’ and ‘wholeness’ depends upon the existence of parts. Such dependence clearly exists in the physical world. Similarly, non-physical entities, like consciousness, can be considered in terms of their temporal sequences: the idea of their unity or wholeness is based upon the successive sequences that compose a continuum. So when we consider the universe in these terms, not only do we see each conditioned thing as dependently originated, we also understand that the entire phenomenal world arises according to the principle of dependent origination. ([Location 130](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=130))
+    - Tags: [[pink]] 
+- When you analyse things by mentally breaking them down into their constitutive parts, you come to the understanding that it is simply in dependence upon other factors that anything comes into being. ([Location 137](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=137))
+    - Tags: [[pink]] 
+- Therefore there is nothing that has any independent or intrinsic identity of its own. Whatever identity we give things is contingent on the interaction between our perception and reality itself. ([Location 138](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=138))
+    - Tags: [[orange]] 
+- However, this is not to say that things do not exist. Buddhism is not nihilistic. Things do exist, but they do not have an independent, autonomous reality. ([Location 140](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=140))
+- This law explains how experiences of pain and suffering arise as a result of negative actions, thoughts and behaviour, and how desirable experiences such as happiness and joy arise as a result of the causes and conditions which correspond to that result positive actions, emotions and thoughts. ([Location 146](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=146))
+    - Tags: [[blue]] 
+- When you realize that everything we perceive and experience arises as a result of the interaction and coming together of causes and conditions, your whole view changes. ([Location 149](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=149))
+    - Tags: [[pink]] 
+- you will appreciate that there is a disparity between the way things appear to you and the way they actually are. ([Location 155](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=155))
+    - Tags: [[orange]] 
+- What appears as some kind of autonomous, objective reality out there does not really fit with the actual nature of reality. ([Location 155](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=155))
+- We also grow to understand that although certain types of mental or emotional states seem so real, and although objects appear to be so vivid, in reality they are mere illusions. They do not really exist in the way we think they do. ([Location 159](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=159))
+    - Tags: [[orange]] 
+- ‘the origin of suffering’, ([Location 162](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=162))
+    - Tags: [[pink]] 
+- ‘the empty nature of reality ([Location 164](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=164))
+    - Tags: [[blue]] 
+- each and every object and event arises only as a combination of many factors, and has no independent or autonomous existence. ([Location 165](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=165))
+- state of cessation. ([Location 170](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=170))
+    - Tags: [[blue]] 
+- if one can posit emptiness, then one can posit the world of dependent origination. ([Location 171](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=171))
+    - Tags: [[blue]] 
+- Two Truths, conventional or relative truth, and ultimate truth. ([Location 180](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=180))
+    - Tags: [[orange]] 
+- the world of conventional reality, where the causal principle operates. ([Location 185](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=185))
+    - Tags: [[pink]] 
+- For an individual who starts with an understanding of things as being permanent, at the initial stage his or her grasping at the permanence of things could be quite strong and intense. Now in order to loosen that grip you need some form of critical reasoning which, even if it only casts a doubt in the person’s mind as to the permanence of things, can in itself make an impact because it has at least had the effect of loosening the grip on the idea that things are permanent or eternal. However, that is not enough. You need the further reinforcement of more critical reasoning to point you towards the impermanence of things. Even that is not enough. You will need yet more conviction than this, and that can be gained through constant reflection, which can lead to what is known as the inferential understanding of impermanence. The process is not over yet. For this understanding to have a definite impact on your behaviour, you need to gain direct insight, or intuitive experience, of the impermanence of things. That in turn needs to be further perfected, because the point is that our grasping at permanence is so deeply embedded in our consciousness that just one single insight is not enough to dispel it. It requires a long process of deepening our insight, so that eventually even the smallest tendency to grasp at permanence has been eradicated. ([Location 194](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=194))
+- As you know, a practising Buddhist is deliberately engaged in a way of life that is dedicated to helping others. Here we should know that, in the Buddhist sense, we are talking about helping others find their own liberation through engaging in the right path; that is, engaging in a way of life that accords with the karmic law, where the person avoids negative actions and engages in positive actions. So generally speaking, when a Buddhist sees others engaging in wrong actions, it is right to try to stop them from doing so. ([Location 246](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=246))
+    - Tags: [[pink]] 
+- Ten Negative Actions ([Location 252](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=252))
+    - Tags: [[orange]] 
+- until we reach the state of full enlightenment ourselves, it is very difficult to judge what is, and what is not, the right response to a given situation. We should simply do our best to be sensitive to each particular situation when we are interacting with others. ([Location 264](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=264))
+    - Tags: [[orange]] 
+- In fact, one could say that the post-meditation periods are the real test of the strength of your practice. During formal meditation, in a sense you are recharging your batteries, so that when you come out of the session you are better equipped to deal with the demands of your everyday life. The very purpose of recharging a battery is to enable it to run something, isn’t it? Similarly, once you have equipped yourself through whatever practices you engage in, as a human being you can’t avoid the daily routines of life, and it is during these periods that you should be able to live according to the principles of your Dharma practice. ([Location 273](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=273))
+- So all this points to the importance of making an effort. Without some effort, there is no way that we can integrate the principles of Dharma in our lives. ([Location 280](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=280))
+    - Tags: [[orange]] 
+- For a serious practitioner, the most serious effort is necessary. Just a few short prayers, a little chanting, and some mantra recitation with a mala (rosary) are not sufficient. Why not? Because this cannot transform your mind. Our negative emotions are so powerful that constant effort is needed in order to counteract them. If we practise constantly, then we can definitely change. ([Location 281](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=281))
+    - Tags: [[pink]] 
+- In order to answer this, we have to relate the Four Noble Truths to our own experience as individual human beings. It is a fact – a natural fact of life – that each one of us has an innate desire to seek happiness and to overcome suffering. This is something very instinctive, and there is no need to prove it is there. Happiness is something that we all aspire to achieve, and of course we naturally have a right to fulfil that aspiration. In the same way, suffering is something everybody wishes to avoid, and we also have the right to try to overcome suffering. So if this aspiration to achieve happiness and overcome suffering is our natural state of being, and our natural quest, the question is how we should go about fulfilling that aspiration. ([Location 295](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=295))
+- cessation (the total cessation of suffering) is not a state of feeling, and yet we could say that cessation is the highest form of happiness because it is, by definition, complete freedom from suffering. ([Location 304](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=304))
+    - Tags: [[pink]] 
+- from the Buddhist perspective cessation is not a conditioned event, ([Location 306](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=306))
+    - Tags: [[blue]] 
+- the actualization or attainment of cessation does depend on the path and on an individual’s effort. ([Location 307](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=307))
+    - Tags: [[orange]] 
+- You cannot attain cessation without making an effort. In this sense we can therefore say that the path that leads to cessation is the cause of cessation. ([Location 308](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=308))
+- Uttaratantra, ([Location 316](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=316))
+    - Tags: [[orange]] 
+- unless you know that you are suffering, your desire to be free from suffering will not arise in the first place. ([Location 326](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=326))
+- So the first step we must take as practising Buddhists is to recognize our present state as duhkha or suffering, frustration and unsatisfactoriness. Only then will we wish to look into the causes and conditions that give rise to suffering. ([Location 326](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=326))
+    - Tags: [[orange]] 
+- the stronger and deeper your insight into suffering is, the stronger your aspiration to gain freedom from it becomes. ([Location 332](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=332))
+    - Tags: [[pink]] 
+- where there is an appreciation of the possibility of complete freedom from suffering. ([Location 334](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=334))
+    - Tags: [[blue]] 
+- if that same individual engages in certain spiritual practices, he or she can reverse this process, and the alternative sequence is that of the process which leads to enlightenment. ([Location 344](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=344))
+    - Tags: [[orange]] 
+- Prasangika-Madhyamaka ([Location 352](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=352))
+- Madhyamaka ([Location 352](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=352))
+    - Tags: [[blue]] 
+- Shravakayana ([Location 353](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=353))
+- duhkha is the ground or basis of painful experience, and refers generally to our state of existence as conditioned by karma, delusions and afflictive emotions. ([Location 357](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=357))
+    - Tags: [[pink]] 
+- Desire Realm, ([Location 375](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=375))
+- Generally speaking, the Buddhist understanding is that birth as a human being is one of the most ideal forms of existence because it is conducive to practising Dharma. So compared to human beings, spirits would in fact be considered inferior because that form of existence is less effective for pursuing the practice of Dharma. Spirits may have certain abilities that are not open to us, like certain powers of precognition or some supernatural powers, but the fact remains that they are part of this world where human beings also live. All beings in this world are under the control of delusion and afflictive emotions. In some sense one could say that they are actually the products of delusion and afflictive emotions. ([Location 406](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=406))
+- ‘the suffering of suffering’, ([Location 417](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=417))
+    - Tags: [[blue]] 
+- ‘the suffering of change’, ([Location 417](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=417))
+    - Tags: [[pink]] 
+- suffering of conditioning’. ([Location 417](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=417))
+    - Tags: [[orange]] 
+- as we are subject to the process of rebirth, all other forms of suffering are natural consequences of that initial starting point. ([Location 426](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=426))
+- the suffering of change, refers to experiences we ordinarily identify as pleasurable. ([Location 429](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=429))
+    - Tags: [[blue]] 
+- If they were truly joyful states in themselves, then just as painful experiences increase the more we indulge in the causes that lead to pain, likewise, the more we engage in the causes that give rise to pleasurable experience, our pleasure or joy should intensify; but this is not the case. ([Location 432](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=432))
+    - Tags: [[orange]] 
+- fame. ([Location 438](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=438))
+    - Tags: [[pink]] 
+- friendships ([Location 440](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=440))
+    - Tags: [[blue]] 
+- sexual relationships. ([Location 440](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=440))
+    - Tags: [[orange]] 
+- ignorance. ([Location 444](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=444))
+    - Tags: [[blue]] 
+- Some kind of trouble, some kind of problem, always arises. So long as we remain under the power of ignorance, that is, our fundamental misapprehension or confusion about the nature of things, then sufferings come one after another, like ripples on water. ([Location 444](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=444))
+- The reason it is called the suffering of conditioning is because this state of existence serves as the basis not only for painful experiences in this life, but also for the causes and conditions of suffering in the future. ([Location 448](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=448))
+    - Tags: [[pink]] 
+- One can understand impermanence in terms of how something arises, stays for a while, and then disappears. This level of impermanence can be understood quite easily. ([Location 453](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=453))
+- We should add that on this level, the dissolution of something requires a secondary condition which acts as a catalyst to destroy its continuity. ([Location 454](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=454))
+    - Tags: [[blue]] 
+- At a deeper level, everything is changing from moment to moment, constantly. This process of momentary change is not due to a secondary condition that arises to destroy something, but rather the very cause that led a thing to arise is also the cause of its destruction. In other words, within the cause of its origin lies the cause of its cessation. ([Location 457](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=457))
+    - Tags: [[pink]] 
+- Momentariness should thus be understood in two ways. First, in terms of the three moments of existence of any entity – in the first instant, it arises; in the second instant, it stays; in the third instant, it dissolves. Second, in terms of each instant itself. An instant is not static; as soon as it arises, it moves towards its own cessation. ([Location 459](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=459))
+    - Tags: [[orange]] 
+- in Buddhism, all phenomena are said to be ‘other-powered’, that is, they are under the control of their causes. ([Location 464](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=464))
+- However, in the context of samsara, the causes that we are referring to here are nothing other than our fundamental confusion or ignorance ([Location 468](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=468))
+    - Tags: [[pink]] 
+- hungry ghosts, ([Location 482](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=482))
+    - Tags: [[blue]] 
+- Because there is this, that ensues. Because this came into being, that came into being. Because there is fundamental ignorance, volitional acts come into being.6 ([Location 490](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=490))
+    - Tags: [[pink]] 
+- Condition of the Existence of a Cause. ([Location 497](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=497))
+    - Tags: [[pink]] 
+- Condition of Impermanence. ([Location 499](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=499))
+    - Tags: [[orange]] 
+- Condition of Potentiality. ([Location 504](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=504))
+    - Tags: [[orange]] 
+- material or substantial cause, ([Location 512](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=512))
+- contributory cause. ([Location 512](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=512))
+    - Tags: [[blue]] 
+- complex functioning of the mind. ([Location 515](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=515))
+    - Tags: [[pink]] 
+- objective condition, which refers to the object of perception; ([Location 516](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=516))
+- the sensory organs that give rise to sensory perception; ([Location 516](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=516))
+    - Tags: [[orange]] 
+- the immediately preceding condition, which is the earlier continuum of your consciousness; ([Location 517](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=517))
+    - Tags: [[pink]] 
+- When you are able to clear away thoughts of the past and the future, slowly you begin to get a sense of the space between the two. You learn to abide in that present moment. In that space, you begin to glimpse what we call emptiness, and if you can remain in that emptiness for longer and longer periods of time then gradually the nature of consciousness itself, which is the sheer luminosity and natural awareness of mind, will slowly dawn in you. Through repeated practice this period can be lengthened more and more, so that your awareness of the nature of consciousness becomes clearer and clearer. ([Location 564](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=564))
+    - Tags: [[orange]] 
+- two types of ignorance, ([Location 592](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=592))
+    - Tags: [[blue]] 
+- avidya: ([Location 592](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=592))
+    - Tags: [[pink]] 
+- ignorance of the laws of causality, ([Location 592](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=592))
+    - Tags: [[pink]] 
+- ignorance of the ultimate nature of reality. ([Location 592](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=592))
+    - Tags: [[orange]] 
+- kleshas ([Location 597](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=597))
+- ‘afflictive emotions and thoughts’ ([Location 597](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=597))
+    - Tags: [[blue]] 
+- six root afflictive emotions or thoughts, ([Location 598](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=598))
+    - Tags: [[pink]] 
+- out of which arise 20 secondary types of emotions and thoughts. ([Location 598](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=598))
+    - Tags: [[orange]] 
+- Tantric Vajrayana literature, ([Location 600](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=600))
+    - Tags: [[blue]] 
+- 80 types of thoughts or concepts which are indicative of our being in an unenlightened state. ([Location 600](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=600))
+    - Tags: [[orange]] 
+- Kalachakra literature, ([Location 601](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=601))
+    - Tags: [[blue]] 
+- further identifies the causes of samsaric existence in terms of propensities or natural dispositions. ([Location 602](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=602))
+    - Tags: [[blue]] 
+- So together, delusions and karmic actions are the origins of our suffering. ([Location 603](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=603))
+- Generally speaking, afflictive emotions and thoughts are defined as those of which the mere occurrence creates immediate disturbance within our mind. They then afflict us from within. ([Location 604](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=604))
+    - Tags: [[orange]] 
+- Karma is one particular instance of the natural causal laws that operate throughout the universe where, according to Buddhism, things and events come into being purely as a result of the combination of causes and conditions. ([Location 608](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=608))
+- What makes karma unique is that it involves intentional action, and therefore an agent. ([Location 610](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=610))
+    - Tags: [[pink]] 
+- In order for a causal process to be a karmic one, it must involve an individual whose intention would lead to a particular action. ([Location 611](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=611))
+    - Tags: [[blue]] 
+- Actions which produce suffering and pain are generally considered negative or non-virtuous actions. ([Location 614](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=614))
+- Actions that lead to positive and desirable consequences, such as experiences of joy and happiness, are considered to be positive or virtuous actions. ([Location 615](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=615))
+    - Tags: [[pink]] 
+- The third category includes actions which lead to experiences of equanimity, or neutral feelings and experiences; these are considered to be neutral actions, and are neither virtuous nor non-virtuous. ([Location 616](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=616))
+    - Tags: [[orange]] 
+- mental acts ([Location 618](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=618))
+    - Tags: [[pink]] 
+- physical acts, ([Location 618](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=618))
+    - Tags: [[blue]] 
+- bodily and verbal acts. ([Location 619](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=619))
+- completely virtuous, ([Location 620](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=620))
+    - Tags: [[orange]] 
+- completely non-virtuous, ([Location 620](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=620))
+    - Tags: [[blue]] 
+- mixture of the two. ([Location 621](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=621))
+- beginning, ([Location 623](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=623))
+- actual execution of the act; ([Location 623](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=623))
+    - Tags: [[orange]] 
+- culmination or completion of the act. ([Location 623](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=623))
+    - Tags: [[blue]] 
+- four types of karma: ([Location 632](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=632))
+- karma which is carried out but not accumulated, ([Location 633](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=633))
+    - Tags: [[blue]] 
+- karma which is accumulated but not carried out, ([Location 633](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=633))
+    - Tags: [[pink]] 
+- karma where the act is both carried out and accumulated, ([Location 633](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=633))
+    - Tags: [[orange]] 
+- karma where there is an absence of both accumulation and the actual execution of the act. ([Location 634](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=634))
+- Once you appreciate this, then whenever you have the opportunity to engage in a positive action as a Dharma practitioner, it is important to ensure that at the initial stage your positive motivation is very strong, and that you have a strong intention to engage in the act. Then, while you are actually carrying out the act, you should ensure that you have given it your best, and you have put all your effort into making the action successful. Once the action is performed, it is important to ensure that you dedicate the positive karma that you have thereby created towards the well-being of all beings as well as your own attainment of enlightenment. ([Location 636](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=636))
+- If you can reinforce that dedication with an understanding of the ultimate nature of reality, it would be even more powerful. ([Location 641](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=641))
+- we should of course try to avoid engaging in any negative actions at all, ([Location 642](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=642))
+    - Tags: [[blue]] 
+- even if we do find ourselves in a situation where we are committing a non-virtuous action, it is important to make sure that at least our motivation is not strong and there is no strong emotion involved. ([Location 642](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=642))
+    - Tags: [[orange]] 
+- We should not take pleasure in any negative action we have committed, but rather we should feel deep remorse and regret, and immediately afterwards we should purify the negativity, if possible. ([Location 646](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=646))
+    - Tags: [[orange]] 
+- Ten Non-virtuous Actions. ([Location 649](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=649))
+    - Tags: [[pink]] 
+- The three bodily negative actions are killing, stealing, and sexual misconduct; the four negative actions of speech are lying, engaging in divisive speech, using harsh words, and engaging in senseless gossip; and the three negative mental actions are covetousness, harbouring harmful thoughts and intentions, and holding wrong views. ([Location 650](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=650))
+    - Tags: [[orange]] 
+- A person’s ultimate aspiration is to attain liberation from samsara, to attain spiritual freedom or enlightenment, so one of his or her principal tasks is to gain victory over the kleshas. ([Location 655](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=655))
+- the sensible way to proceed is simply to find a way of containing the expression of the negative actions of our body, speech and mind. ([Location 657](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=657))
+    - Tags: [[blue]] 
+- guard our body, speech and mind from engaging in negative actions ([Location 658](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=658))
+    - Tags: [[pink]] 
+- Once you have achieved this first stage, you can proceed to the second stage and tackle the root cause – the fundamental ignorance of which we spoke earlier. ([Location 660](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=660))
+    - Tags: [[orange]] 
+- the third stage consists not simply of gaining victory over them, but also of rooting out all the propensities and imprints they have left within the psyche. ([Location 662](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=662))
+- a true spiritual aspirant must first overcome negative behaviour, in the middle phase must counter any grasping at self, and in the final stage should overcome all the views that bind us within the samsaric realm.2 ([Location 663](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=663))
+    - Tags: [[blue]] 
+- Buddhism accepts the existence of what are known as ‘space particles’ (namkhai dul), and asserts there is a stage of empty space in which the source of the material universe is in some sense contained. ([Location 670](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=670))
+- if we were to ask whether consciousness is produced by karma, or whether sentient beings are produced by karma, it seems the answer should be ‘no’. But on the other hand, ([Location 678](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=678))
+    - Tags: [[pink]] 
+- if we ask whether the human body and the human consciousness are products of karma, then the answer is ‘yes’ because both result from virtuous actions. ([Location 679](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=679))
+    - Tags: [[orange]] 
+- This is because, when we talk about the human body and human consciousness, we are referring to a state of existence which is directly related to the painful and pleasurable experiences of an individual. ([Location 681](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=681))
+- Finally, if we were to ask whether or not our natural instinct to seek happiness and overcome suffering is a product of karma, it seems the answer would again be ‘no’. ([Location 682](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=682))
+    - Tags: [[blue]] 
+- The process of cause and effect in the natural world takes place regardless of karma. ([Location 685](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=685))
+- One realm ([Location 687](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=687))
+    - Tags: [[blue]] 
+- ‘natural’, ([Location 687](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=687))
+    - Tags: [[blue]] 
+- the other ([Location 688](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=688))
+    - Tags: [[pink]] 
+- where certain properties emerge, contingent on these causal interactions. ([Location 688](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=688))
+    - Tags: [[pink]] 
+- Four Principles. ([Location 690](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=690))
+    - Tags: [[orange]] 
+- Principle of Nature ([Location 690](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=690))
+    - Tags: [[blue]] 
+- Principle of Efficacy: ([Location 692](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=692))
+- Principle of Dependence: ([Location 693](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=693))
+    - Tags: [[orange]] 
+- Principle of Valid Proof: ([Location 695](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=695))
+- We could therefore say that by living according to the Dharma we would be applying the Principle of Valid Proof, in terms of the way in which we avoid negative actions and enhance virtuous actions. ([Location 698](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=698))
+    - Tags: [[pink]] 
+- created a certain state of mind. ([Location 702](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=702))
+    - Tags: [[pink]] 
+- still lingers ([Location 704](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=704))
+    - Tags: [[orange]] 
+- The Vajrayana literature discusses these in terms of external elements and internal elements, and shows how they are related to each other at a very profound level. ([Location 710](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=710))
+    - Tags: [[orange]] 
+- As we discussed earlier, the fact that consciousness exists is a natural fact. Consciousness exists; that is it. Similarly, the continuum of consciousness is also a natural principle: consciousness maintains its continuity. To this we must add that in Buddhism, there is an understanding that consciousness cannot arise from nowhere or without a cause; and, at the same time, that consciousness cannot be produced from matter. This is not to say that matter cannot affect consciousness. However, the nature of consciousness is sheer luminosity, mere experience; it is the primordial knowing faculty, and therefore it cannot be produced from matter whose nature is different. It follows that since consciousness cannot arise without a cause, and since it cannot arise from a material cause, it must come from a ceaseless continuum. It is on this premise that Buddhism accepts the existence of (beginningless) former lives.4 ([Location 712](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=712))
+    - Tags: [[orange]] 
+- The most important thing for us to know is that afflictive emotion is our ultimate enemy and a source of suffering. ([Location 724](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=724))
+- Once it develops within our mind, it immediately destroys our peace of mind, and eventually destroys our health, and even our friendships with other people. ([Location 725](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=725))
+    - Tags: [[blue]] 
+- An external enemy may be harmful to you today, but tomorrow could become very helpful, whereas the inner enemy is consistently destructive. ([Location 727](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=727))
+    - Tags: [[pink]] 
+- Moreover, wherever you live the inner enemy is always there with you, and that makes it very dangerous. ([Location 728](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=728))
+    - Tags: [[orange]] 
+- So this is the main point we have to realize: the real destroyer of our happiness is always there within us. ([Location 732](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=732))
+    - Tags: [[orange]] 
+- So what can we do about it? If it is not possible to work on that enemy and to eliminate it, then I think we had better forget the spiritual path and rely on alcohol and sex and other such things to improve our lives! ([Location 733](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=733))
+    - Tags: [[pink]] 
+- two kinds of emotion. ([Location 738](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=738))
+- One type is without reason, ([Location 738](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=738))
+    - Tags: [[blue]] 
+- prejudice. ([Location 738](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=738))
+    - Tags: [[blue]] 
+- Emotions without proper reason are what we call negative emotions. ([Location 740](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=740))
+    - Tags: [[pink]] 
+- The other kind of emotion, ([Location 740](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=740))
+    - Tags: [[orange]] 
+- includes compassion and altruism, is emotion with reason because through deep investigation you can prove it is good, necessary and useful. ([Location 741](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=741))
+- it is by combining our intelligence and emotion that we can change and transform our inner world. ([Location 742](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=742))
+    - Tags: [[pink]] 
+- So long as the inner enemy is there, and so long as we are under its control, there can be no permanent happiness. ([Location 743](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=743))
+- The scriptures say that so far as the desire to overcome the first level of suffering is concerned, the ‘suffering of suffering’, even animals have it naturally. ([Location 746](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=746))
+    - Tags: [[orange]] 
+- ‘suffering of change’ ([Location 748](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=748))
+    - Tags: [[pink]] 
+- the genuine aspiration to seek complete liberation from samsara can only arise from a recognition of the third level of suffering, the ‘suffering of conditioning’, where we realize that so long as we remain under the control of ignorance we will be subject to suffering, and there will be no room for lasting joy and happiness. ([Location 749](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=749))
+    - Tags: [[blue]] 
+- He argues that when we talk about the ultimate nature of reality, or emptiness, we must realize that the understanding of emptiness is not something which requires reliance on scriptural authority. ([Location 773](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=773))
+- liberation is nothing other than the total elimination, or total cessation, of delusion and suffering through insight into emptiness. ([Location 780](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=780))
+    - Tags: [[blue]] 
+- 16 types of emptiness. ([Location 783](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=783))
+    - Tags: [[orange]] 
+- the Prasangika-Madhyamikas negate the intrinsic existence and identity of things and events, and claim that this is the true meaning of emptiness. ([Location 810](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=810))
+    - Tags: [[orange]] 
+- implies that things and events come into being through dependence on other factors, which means that they do not possess independent, autonomous, or absolute existence. ([Location 824](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=824))
+- reality of the phenomenal world is not denied. ([Location 827](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=827))
+    - Tags: [[blue]] 
+- total mentalism. ([Location 833](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=833))
+    - Tags: [[pink]] 
+- So if things do not possess intrinsic reality and yet, at the same time, if we are not happy with the conclusion that everything is a mere projection of the mind, what is the alternative? What is the middle way? ([Location 833](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=833))
+    - Tags: [[orange]] 
+- things and events arise purely as a result of the aggregation of many factors, ([Location 835](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=835))
+- their conventional existence stems from the identity we impute to each aggregation. ([Location 835](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=835))
+    - Tags: [[blue]] 
+- When I study Nagarjuna’s Fundamentals of the Middle Way, I combine the 23rd chapter dealing with the 12 links of dependent origination, with the 18th chapter on anatman. ([Location 842](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=842))
+    - Tags: [[orange]] 
+- This latter chapter shows how it is the process of grasping at an eternal principle, or a substantially real soul, that binds us to unenlightened existence. ([Location 843](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=843))
+    - Tags: [[pink]] 
+- negating the principle of atman, and eliminating that grasping, lead to liberation. ([Location 844](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=844))
+- emptiness is not a mere nothingness, or a mere nonexistence. ([Location 853](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=853))
+    - Tags: [[pink]] 
+- Emptiness should be understood in terms of the interdependent nature of reality: it is by virtue of their dependent origination that things are devoid of independent existence. ([Location 853](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=853))
+    - Tags: [[orange]] 
+- illusionlike, phenomenal reality. ([Location 857](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=857))
+- it is through understanding appearance that a person is liberated from grasping onto absolutes, and it is by understanding the true meaning of emptiness that a person is freed from falling into nihilism. ([Location 862](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=862))
+    - Tags: [[blue]] 
+- intrinsicality. ([Location 880](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=880))
+    - Tags: [[blue]] 
+- Applying our Understanding of Emptiness The reason why it is so important to understand this subtle point is because of its implications for interpreting our own personal experience of life. When strong emotions arise in you, say attachment or anger, if you examine the experience of that emotion you will see that underlying it is an assumption that there is something objective and real out there which you are holding on to, and on to which you project desirable or undesirable qualities. According to the kind of qualities you project on to a thing or event, you feel either attracted to it or repulsed by it. So strong emotional responses in fact assume the existence of some form of objective reality. ([Location 880](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=880))
+    - Tags: [[orange]] 
+- However, if you realize that there is no intrinsic reality to things and events then, of course, this will automatically help you to understand that no matter how real and strong emotions may seem, they have no valid basis. Once you know that they are actually based on a fundamental misconception of reality, then the emotions themselves become untenable. ([Location 885](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=885))
+    - Tags: [[pink]] 
+- On the other hand, if your understanding of emptiness is not thorough, in the sense that you have not succeeded in negating the notion of intrinsicality completely, then of course your attitude towards emotion will be somewhat ambivalent, and you may feel that there is some sense in which it is valid or justified. ([Location 888](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=888))
+    - Tags: [[blue]] 
+- You will notice how much we tend to project qualities on to the world. ([Location 891](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=891))
+    - Tags: [[orange]] 
+- you will realise that most of our strong emotions arise from assuming the reality of something that is unreal. ([Location 892](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=892))
+    - Tags: [[pink]] 
+- The moral that we can draw from all of this is that the strong emotions which afflict our mind arise from a fundamental state of confusion, which leads us to apprehend things as real and existing independently. ([Location 894](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=894))
+    - Tags: [[blue]] 
+- your insight into the emptiness of things is not only grounded in reason but also in experience: it has valid support. ([Location 896](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=896))
+- your understanding of emptiness and your grasping at things as real are directly opposed to one other, so one cancels the other out. ([Location 897](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=897))
+    - Tags: [[pink]] 
+- the more we deepen our understanding of emptiness, and the greater the power of our insight becomes, the more we see through the deception of emotions, and consequently the weaker those emotions become. ([Location 899](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=899))
+- Mental afflictions are distinct from the essential nature of our mind, and are therefore called adventitious. ([Location 906](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=906))
+- So when we talk about gaining the perfect wisdom of a buddha, we should not think that we need to create qualities in ourselves that are not there already, and acquire them from somewhere outside of us. ([Location 907](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=907))
+    - Tags: [[pink]] 
+- Rather, we should see perfect buddha wisdom as a potential that is being realized. The defilements of the mind hamper the natural expression of that potential which is inherent in our consciousness. It is as if the capacity for unobstructed knowledge is there in our mind, but the defilements obscure and hinder it from being fully developed and expressed. However, once our understanding of the mind is informed by the idea that the essential nature of mind is pure luminosity and mere experience, or the sheer capacity to know, we can then conceive of the possibility of eliminating these afflictions completely. ([Location 908](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=908))
+    - Tags: [[orange]] 
+- true cessation of the continuum of afflictions. ([Location 915](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=915))
+- liberation is true peace, ([Location 916](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=916))
+    - Tags: [[blue]] 
+- state of total tranquillity where the individual has attained complete freedom from all defilements of the mind. ([Location 916](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=916))
+    - Tags: [[orange]] 
+- totally satisfying, ([Location 917](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=917))
+    - Tags: [[blue]] 
+- definite emergence, ([Location 918](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=918))
+    - Tags: [[blue]] 
+- the true path should be understood in terms of developing a direct intuitive realization of emptiness. ([Location 923](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=923))
+- This is because the intuitive realization of emptiness leads directly to the attainment of cessation. ([Location 923](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=923))
+    - Tags: [[blue]] 
+- in order to have such a realization one must have a basis in single-pointed meditation, since this is what leads to an experiential knowledge of emptiness. ([Location 924](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=924))
+    - Tags: [[pink]] 
+- The point at which an individual attains that experiential knowledge1 is said to be the beginning of what is called the Path of Connection or Path of Preparation, and the point at which he gains direct intuitive realization of emptiness is called the Path of Seeing. ([Location 925](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=925))
+    - Tags: [[orange]] 
+- Path of Accumulation. ([Location 930](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=930))
+- three higher trainings: ([Location 933](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=933))
+    - Tags: [[blue]] 
+- shila), ([Location 933](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=933))
+    - Tags: [[pink]] 
+- samadhi), ([Location 934](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=934))
+    - Tags: [[orange]] 
+- prajña). ([Location 934](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=934))
+- the wisdom that realizes emptiness must be developed within the context of the union of the single-pointedness of mind and penetrative insight, ([Location 936](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=936))
+    - Tags: [[pink]] 
+- union of shamatha and vipashyana. ([Location 938](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=938))
+    - Tags: [[blue]] 
+- Training in shamatha is therefore key. ([Location 939](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=939))
+    - Tags: [[blue]] 
+- For it to be successful two factors must be present, ([Location 939](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=939))
+    - Tags: [[pink]] 
+- mindfulness ([Location 940](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=940))
+    - Tags: [[orange]] 
+- application of mental alertness. ([Location 940](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=940))
+- compassion. ([Location 945](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=945))
+- Traditionally this is called the generation of bodhichitta. ([Location 947](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=947))
+    - Tags: [[blue]] 
+- Bodhichitta must be based on a compassion which carries a sense of responsibility so that you are willing to take upon yourself the task of helping others. ([Location 950](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=950))
+    - Tags: [[orange]] 
+- mahakaruna ([Location 953](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=953))
+    - Tags: [[pink]] 
+- this itself will not arise unless you have genuine insight into the nature of suffering, both your own suffering and that of others. ([Location 954](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=954))
+    - Tags: [[orange]] 
+- One of the methods described in the Buddhist scriptures for doing this is to imagine that all beings are your mothers, or someone else who is dear to you. ([Location 960](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=960))
+- empathy cannot arise if your emotions towards others fluctuate due to the fact that you view some as enemies and others as friends. ([Location 962](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=962))
+    - Tags: [[pink]] 
+- practice of equanimity ([Location 963](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=963))
+    - Tags: [[blue]] 
+- sense of equality ([Location 966](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=966))
+    - Tags: [[blue]] 
+- According to the Tibetan tradition, these two different methods are combined and then meditated upon. ([Location 968](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=968))
+    - Tags: [[pink]] 
+- Three Precepts: ([Location 972](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=972))
+    - Tags: [[orange]] 
+- precept of refraining from negative actions; ([Location 972](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=972))
+- precept of deliberately engaging in virtuous actions; ([Location 973](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=973))
+    - Tags: [[blue]] 
+- precept of helping others. ([Location 973](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=973))
+    - Tags: [[orange]] 
+- accumulations of merit and wisdom. ([Location 975](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=975))
+    - Tags: [[orange]] 
+- That cognition of emptiness is then visualized (imaginatively, of course, at the beginning) as the perfect form of a meditational deity. ([Location 979](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=979))
+    - Tags: [[pink]] 
+- The point is that for a practising Buddhist, it is really vital to develop an understanding of the Four Noble Truths, and to meditate upon them. ([Location 993](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=993))
+- Meditation should therefore be an essential part of your practice, and include both shamatha and vipashyana. ([Location 994](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=994))
+    - Tags: [[orange]] 
+- determination. ([Location 995](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=995))
+    - Tags: [[pink]] 
+- For as long as space exists And sentient beings endure, May I too remain, To dispel the misery of the world.3 ([Location 1002](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=1002))
+    - Tags: [[pink]] 
+- My final point is that the more impatient you are, and the more you want the way that is quickest, cheapest or best, the more likely you are to obtain a poor result. ([Location 1005](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=1005))
+    - Tags: [[blue]] 
+- true Refuge, ([Location 1008](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=1008))
+    - Tags: [[blue]] 
+- human intelligence. ([Location 1040](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=1040))
+- We are able to think much further into the future, and our memory is powerful enough to take us back many years. ([Location 1041](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=1041))
+- So our intelligence makes us very smart, but at the same time, precisely because of that fact, we also have more doubts and suspicions, and hence more fears. ([Location 1043](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=1043))
+- all conflicts and contradictions arise from the different ideas and views our intelligence brings. ([Location 1046](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=1046))
+- Yet, at the same time, I think that ultimately intelligence is the tool with which we can overcome all these conflicts and differences. ([Location 1048](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=1048))
+- From this point of view, of all the various species of animal on the planet, human beings are the biggest troublemakers. ([Location 1049](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=1049))
+    - Tags: [[pink]] 
+- It is therefore important that human intelligence be utilized in a constructive way. That is the key. If we utilize its capacity properly, then not only human beings would become less harmful to each other, and to the planet, but also individual human beings would be happier in themselves. ([Location 1051](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=1051))
+    - Tags: [[orange]] 
+- First, we need to recognize our nature and then, if we have the determination, there is a real possibility of transforming the human heart. ([Location 1055](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=1055))
+- On this basis, I will speak today on how a human being can find happiness as an individual, because I believe the individual is the key to all the rest. ([Location 1056](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=1056))
+    - Tags: [[blue]] 
+- The way our attitude works is such that it is often troubled by outside factors, so one side of the issue is to eliminate the existence of trouble around you. The environment, meaning the surrounding situation, is a very important factor for establishing a happy frame of mind. However, even more important is the other side of the issue, which is one’s own mental attitude. ([Location 1059](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=1059))
+    - Tags: [[pink]] 
+- The surrounding situation may not be so friendly, it may even be hostile, but if your inner mental attitude is right, then the situation will not disturb your inner peace. ([Location 1062](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=1062))
+    - Tags: [[orange]] 
+- On the other hand, if your attitude is not right, then even if you are surrounded by good friends and the best facilities, you cannot be happy. ([Location 1063](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=1063))
+- There are a number of qualities which are important for mental peace, but from the little experience I have, I believe that one of the most important factors is human compassion and affection: a sense of caring. ([Location 1066](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=1066))
+    - Tags: [[blue]] 
+- To be genuine, compassion must be based on respect for the other, and on the realization that others have the right to be happy and overcome suffering just as much as you. ([Location 1070](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=1070))
+    - Tags: [[pink]] 
+- As for the closeness we feel towards our friends, this is usually more like attachment than compassion. ([Location 1072](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=1072))
+    - Tags: [[orange]] 
+- Genuine compassion should be unbiased. If we only feel close to our friends, and not to our enemies, or to the countless people who are unknown to us personally and towards whom we are indifferent, then our compassion is only partial or biased. ([Location 1073](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=1073))
+- One aspect of this kind of compassion is a sense of caring responsibility. When we develop that kind of motivation, our self-confidence increases automatically. ([Location 1078](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=1078))
+- reduces fear, ([Location 1079](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=1079))
+    - Tags: [[blue]] 
+- determination. ([Location 1080](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=1080))
+    - Tags: [[orange]] 
+- inner strength. ([Location 1082](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=1082))
+    - Tags: [[pink]] 
+- it naturally opens an inner door, ([Location 1082](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=1082))
+    - Tags: [[orange]] 
+- On the other hand, if you feel hatred and ill feeling towards others, they may feel similarly towards you, and as a result suspicion and fear will create a distance between you and make communication difficult. You will then feel lonely and isolated. Not all members of your community will have similar negative feelings towards you, but some may look on you negatively because of your own feeling. ([Location 1084](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=1084))
+- I always try to create a ground of friendliness with people. Whenever I meet someone new, for example, I feel no need for introductions. The person is obviously another human being. Maybe sometime in the future, technological advances may mean that I could confuse a robot for a human being, but up to now this has never happened. I see a smile, some teeth and eyes, and so on, and I recognize the person as a human being! On that basis, on the emotional level we are the same, and basically on the physical level we are the same, except for colouring. But whether Westerners have yellow hair, or blue hair, or white hair, does not really matter. The important thing is that we are the same on the emotional level. With that conviction, I feel that the other person is a human brother, and approach him spontaneously. In most cases, the other person immediately responds accordingly, and becomes a friend. Sometimes I fail, and then I have the liberty to react according to the circumstances. ([Location 1090](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=1090))
+    - Tags: [[orange]] 
+- Compassion naturally creates a positive atmosphere, and as a result you feel peaceful and content. ([Location 1098](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=1098))
+- if you want a genuine friend, first you must create a positive atmosphere around you. We are social animals, after all, and friends are very important. How can you bring a smile to people’s faces? If ([Location 1105](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=1105))
+- Milk is often considered a symbol of compassion. ([Location 1120](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=1120))
+    - Tags: [[blue]] 
+## New highlights added March 18, 2023 at 2:41 PM
+- By developing a deep understanding of the interdependent nature of reality in terms of causal dependence, we are able to appreciate the workings of what we call ‘karma’, that is, the karmic law of cause and effect which governs human actions. ([Location 144](https://readwise.io/to_kindle?action=open&asin=B00DTKZJI6&location=144))

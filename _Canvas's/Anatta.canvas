@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"e1e0bbb5d1a425b7","x":-60,"y":-800,"width":347,"height":350,"type":"group","label":"Central Teaching"},
+		{"id":"c8ebb440583c29e9","type":"text","text":"3 Marks of Existence","x":-300,"y":-140,"width":240,"height":50},
+		{"id":"44962a2ab2f84822","type":"text","text":"anatta","x":-259,"y":-340,"width":123,"height":60},
+		{"id":"a666a552bd1ad217","type":"text","text":"anicca","x":-267,"y":-220,"width":134,"height":50},
+		{"id":"a3237b16341b34aa","type":"text","text":"dukkha","x":-261,"y":-440,"width":127,"height":60},
+		{"id":"f8f1cb247777667f","type":"text","text":"dispassion","x":-540,"y":-560,"width":151,"height":60},
+		{"id":"649f732969639104","type":"text","text":"release (vimutti)","x":-574,"y":-680,"width":219,"height":60},
+		{"id":"8f10d32bfba82534","type":"text","text":"skilful","x":-40,"y":-530,"width":123,"height":54},
+		{"id":"6924dd5690c4d627","type":"text","text":"unskillful","x":121,"y":-530,"width":146,"height":60},
+		{"id":"94d66348174c3e8a","type":"text","text":"Karma","x":33,"y":-650,"width":134,"height":60},
+		{"id":"ab2f36e075e7ef26","type":"text","text":"4 Noble Truths","x":0,"y":-760,"width":200,"height":50}
+	],
+	"edges":[
+		{"id":"888e5418ade176db","fromNode":"c8ebb440583c29e9","fromSide":"left","toNode":"a666a552bd1ad217","toSide":"left"},
+		{"id":"a1f59d348f72cbfa","fromNode":"c8ebb440583c29e9","fromSide":"left","toNode":"44962a2ab2f84822","toSide":"left"},
+		{"id":"7dd2172825429497","fromNode":"c8ebb440583c29e9","fromSide":"left","toNode":"a3237b16341b34aa","toSide":"left"},
+		{"id":"32eb6571f51c94c3","fromNode":"a666a552bd1ad217","fromSide":"left","toNode":"f8f1cb247777667f","toSide":"right"},
+		{"id":"c5b0a8181717c3fe","fromNode":"44962a2ab2f84822","fromSide":"left","toNode":"f8f1cb247777667f","toSide":"right"},
+		{"id":"d6431e8c6636a651","fromNode":"a3237b16341b34aa","fromSide":"left","toNode":"f8f1cb247777667f","toSide":"right"},
+		{"id":"72a703edfb73fef7","fromNode":"f8f1cb247777667f","fromSide":"top","toNode":"649f732969639104","toSide":"bottom"},
+		{"id":"074db73f4dd2d3d6","fromNode":"ab2f36e075e7ef26","fromSide":"bottom","toNode":"94d66348174c3e8a","toSide":"top"},
+		{"id":"b4ef59a4705db03c","fromNode":"94d66348174c3e8a","fromSide":"bottom","toNode":"8f10d32bfba82534","toSide":"top"},
+		{"id":"131ae8b40204aacb","fromNode":"94d66348174c3e8a","fromSide":"bottom","toNode":"6924dd5690c4d627","toSide":"top"}
+	]
+}

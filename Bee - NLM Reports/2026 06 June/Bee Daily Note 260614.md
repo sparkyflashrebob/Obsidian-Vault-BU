@@ -1,0 +1,189 @@
+---
+tags:
+  - 12-step-framework
+  - ambient-sensors
+  - bee-reports
+  - concert-planning
+  - concerts
+  - daily-notes
+  - home-monitoring
+  - household-logistics
+  - logging
+  - media-curation
+  - obsidian
+  - personal-development
+  - recovery
+  - recovery-program
+  - rise-up-sing-out
+  - temperature
+  - workflow
+  - bee-nlm-report
+  - krisp-daily-summary
+---
+
+# Recovery Meeting on Fear, Joshua Tree vacation stories shared, and Recovery meeting and daily errands
+
+📅 **Date**: Sunday, June 14, 2026 (2026-06-14)
+👥 **Attendees**: Andrea (Wife), Andy
+📊 **Total Bee Conversations Processed**: 13
+
+---
+
+## 📌 Executive & Core Topics Overview
+- **Core Topics**: #concert-planning, #household-logistics, #recovery-program
+- **Entities & Terms**: #12-step-framework, #ambient-sensors, #rise-up-sing-out
+- **Key Actions**: #home-monitoring, #media-curation, #personal-development
+- **Keywords**: #bee-reports, #concerts, #daily-notes, #logging, #obsidian, #recovery, #temperature, #workflow
+
+---
+
+## 📅 Google Calendar Events Today
+- **Rise Up Sing Out** (4:30 PM)
+
+---
+
+## 📧 Gmail Activity Log
+- *No outgoing sent email replies or correspondence recorded today.*
+
+---
+
+## 🌅 Your Day Ahead Email Brief
+- *No "Your Day Ahead" email brief received for this date.*
+
+---
+
+## 💡 Key Points, Subjects and Themes
+- **Recovery Meeting on Fear**: Recorded and processed during today's transcript sessions.
+- **Joshua Tree vacation stories shared**: Recorded and processed during today's transcript sessions.
+- **Recovery meeting and daily errands**: Recorded and processed during today's transcript sessions.
+- **White House Secret Recordings Leaked**: Recorded and processed during today's transcript sessions.
+- **Netherlands Japan World Cup Match**: Recorded and processed during today's transcript sessions.
+- **World Cup Match Commentary**: Recorded and processed during today's transcript sessions.
+- **Watching Netherlands Japan Soccer Game**: Recorded and processed during today's transcript sessions.
+- **Andy discovers reggae group**: Recorded and processed during today's transcript sessions.
+- **First Amendment benefit concert**: Recorded and processed during today's transcript sessions.
+- **Watching shows and discussing politics**: Recorded and processed during today's transcript sessions.
+- **TV show and flooding discussion**: Recorded and processed during today's transcript sessions.
+- **Flood Concerns and Moving Plans**: Recorded and processed during today's transcript sessions.
+- **NOAA flood alert automation script**: Recorded and processed during today's transcript sessions.
+
+---
+
+## 📖 Detailed Subject Matter
+#### Recovery Meeting on Fear (9:13 AM – 11:07 AM)
+Andy was listening to an Alcoholics Anonymous meeting recording focused on the topic of fear, while simultaneously engaging in casual conversations with people around him about breakfast plans, phone settings, and daily logistics. During the AA meeting, Andy shared his own experience with severe panic attacks that once made it difficult for him to drive, and how connecting with a Buddhist teacher running an "awakening joy" class, talking with monks, and eventually developing faith helped him overcome his fear. He noted that he never took anxiety medication a psychiatrist prescribed—just knowing it was available in a drawer was enough comfort. He emphasized that faith is the antidote to fear. In his surrounding conversations, Andy discussed waiting to eat breakfast until he knew if others were going, mentioned his air-conditioned place set to 74 degrees, helped someone troubleshoot turning off Do Not Disturb on an iPhone, and briefly explained that someone named Claudia wasn't around because they were out of town.
+
+#### Joshua Tree vacation stories shared (11:07 AM – 11:26 AM)
+Andy was having a conversation with someone—likely his companion Kerry or Andrea—recapping a recent trip to the Joshua Tree area and reflecting on travel habits, accommodations, and health routines. He discussed staying at a three-bedroom rental with a pool and hot tub, noting they paid around $900 for the stay versus what would have been $1,200+ at a hotel. The hot tub was mainly usable at night when it cooled down, and the pool was too cold to fully enjoy. He mentioned focusing on family during the trip rather than inviting others, and highlighted "Kitchen in the Desert" as a standout restaurant. He also described doing advance scouting of Joshua Tree and the main area on Joshua Street before his wife Sarah arrived for her training. The conversation touched on past trips including Yosemite and the 395 route through Lone Pine, Sparkle, and Mount Whitney. Andy also mentioned driving someone to Lundy. Toward the end, there was discussion about exercise, weight management struggles, and a need to do laundry.
+
+#### Recovery meeting and daily errands (11:35 AM – 12:06 PM)
+Andy spent time with Andrea looking at a potential new apartment/space, comparing it favorably to another option they'd seen. They discussed room features, natural light, plants, and window arrangements. Later, Andy recounted his morning 9 AM recovery meeting to someone—he'd gone with Stephen, walked from Trees and Johnny's restaurant, and found the pre-meeting chit-chat and multiple overlapping conversations irritating to his sensitivity. The meeting topic was fear, and Andy shared about his panic experiences. He also discussed his frustration with the masculine "God/him" language in meetings, preferring to conceptualize nature/natural forces as feminine energy, and talked through meditation experiences including intense "brain turns inside out" sensations and physical constriction ("the claw") that he associates with self-traumatization. He and Andrea also discussed flooding/tide information (7.1 high tides), food shopping plans (cutting back on purchases, getting lemons, mint, cucumber, fruit, avocados), and Andrea's massage therapy certification process—researching requirements, insurance, website needs, and comparing herself to a practitioner in Mill Valley who's been active since 1974.
+
+#### White House Secret Recordings Leaked (1:22 PM – 1:47 PM)
+Andy had multiple media sources playing in the background with no active participation from him. The audio captured a mix of World Cup soccer/football coverage (including commentary on Japan, South Africa, West Ham, Manchester City, and players like Cody Gakpo and Wataru Endo), a California weather report warning of extreme heat (105-110°F in Northern California), and a political news segment about alleged secret recordings from the White House Situation Room and upcoming Democratic investigations. The political content included a direct call-to-action for Substack subscriptions.
+
+#### Netherlands Japan World Cup Match (1:48 PM – 2:39 PM)
+Andy had a soccer/football World Cup match playing in the background—specifically a Netherlands vs. Japan match with Fox broadcast commentary featuring play-by-play calls, tactical analysis, and a halftime show promo with Rebecca Lotiago Alcantara, Javier Hernandez, and Alexei Lamas. Andy made only two brief interjections during the entire broadcast: a comment about someone "taking naps, and then all of a sudden he got busy," and a note about "fires in Oakland." These remarks appear disconnected from the match commentary, suggesting he may have been partially attentive, possibly napping or engaged in other activities while the broadcast ran.
+
+#### World Cup Match Commentary (3:00 PM – 3:14 PM)
+Andy was listening to a live football/soccer match broadcast featuring Netherlands vs. Japan, likely during the 2026 World Cup given the calendar event and commentary references to Germany as "four-times champions." The match commentary described Japan equalizing through Daichi Kamada after the Dutch had led twice, with the Dutch team becoming passive and stopping their attack in the second half. The broadcast included tactical analysis criticizing the Netherlands' defensive approach, noting that "they stopped attacking, they were happy to see out of the game." There was a brief advertisement insertion for sneakers ("Okay, check your skills," "I love this colorway"). The commentary also referenced player backgrounds including Tahit Chong (former Manchester United young player of the year) and the Cooner brothers.
+
+#### Watching Netherlands Japan Soccer Game (3:16 PM – 3:38 PM)
+Andy was watching Women's World Cup soccer with Andrea, discussing a Netherlands-Japan match that ended 2-2. He mentioned napping through the 0-0 first half and waking up when goals were scored. They also joked about a "sandwich spot" and discussed someone named Pat giving something to Marlena. Andrea shared seeing someone jogging while kicking a soccer ball down the street. Andy commented on unusual traffic conditions without rain. A political hearing was playing in the background on TV, but neither engaged with it.
+
+#### Andy discovers reggae group (3:40 PM – 4:13 PM)
+Andy spent time at home with media playing in the background, including a political documentary about democratic decline, a NOAA weather segment on El Niño patterns, an Oklahoma voter registration news report, and what appeared to be a fantasy adventure film featuring a magician named Sakura, a Cyclops, and a magic lamp. Andy's own participation was intermittent and self-directed—he commented on finding a French reggae group called Den De Interloupe, noted he needed to pick food and had pulled out broccoli, considered taking a shower, and decided to watch something with a "we'll see" attitude. No sustained conversation with another person occurred.
+
+#### First Amendment benefit concert — 📍 Rise Up, Sing Out! Town Hall for our 1st Amendment @ online (4:28 PM – 6:55 PM)
+*Context / Event Alignment*: Overlaps with scheduled Calendar event **Rise Up, Sing Out! Town Hall for our 1st Amendment** @ online.
+
+Andy and Andrea watched the "Rise Up, Sing Out" benefit concert for the Committee for the First Amendment, a progressive political event featuring celebrity speeches and musical performances. The event included Jane Fonda, Lily Gladstone, Joy Reid, Peppermint, Julia Roberts, Rufus Wainwright, an interfaith panel, Robert De Niro, LaTosha Brown, and headliner Patti Smith performing "People Have the Power." Andy provided running commentary throughout, sometimes singing along, critiquing production choices, and engaging with the political content while also managing domestic life—checking on someone about brushing teeth, discussing a recent peanut butter honey sandwich, and mentioning his eyes feeling somewhat better. The event was scheduled in Andy's calendar and he had tentatively RSVP'd to the online stream.
+
+#### Watching shows and discussing politics — 📍 Marin DSA Pond Farm Social  @ Pond Farm Brewing Co., 1848 4th St, San Rafael, CA 94901, USA (6:57 PM – 7:34 PM)
+*Context / Event Alignment*: Overlaps with scheduled Calendar event **Marin DSA Pond Farm Social ** @ Pond Farm Brewing Co., 1848 4th St, San Rafael, CA 94901, USA.
+
+Andy spent an evening with his partner Andrea watching and discussing various media content, including a Yellowstone/Old Faithful livestream where he actively analyzed volcanic activity and tephra formations, political comedy from "The Good Liars" about Trump, and a Texas political ad. He also explained plot developments from Netflix's "3 Body Problem" that he was picking up on rewatch, including the incoming alien fleet, the religious faction that wants to be taken over, and the murder of the Game of Thrones actor's character. He mentioned needing to follow up with someone who hadn't returned his call, discussed meal timing and sunburn recovery from a recent outing, and noted he was adding items to his list. They also watched content about Albania protests and browsed YouTube together looking at various political and music videos, including a French reggae band La Interloupe.
+
+#### TV show and flooding discussion (10:04 PM – 10:14 PM)
+Andy was discussing the Apple TV series *Severance* with a companion (likely Andrea or Kerry based on trip context), describing a recent episode's cliffhanger involving a disc, headphones, and a planetary eye shield. The conversation shifted when they noticed flooding beginning outside their Joshua Tree area accommodation. Both decided to go out and assess the situation on foot rather than staying inside, with Andy noting he needed the distraction to avoid eating when he didn't want to. Andy used a Google voice command to turn off the TV before heading out.
+
+#### Flood Concerns and Moving Plans (10:38 PM – 11:04 PM)
+Andy and his household members were monitoring rising water levels around their property during a storm, with concern that flooding could be worse than the previous night. Andy checked specific water measurements (6.53, 7.03, and 7.01), confirming tonight's levels would be the highest. He took photos showing water nearly reaching their walkway. The conversation shifted to house-hunting plans, with Andy actively researching rentals in Novato, Sonoma, and Petaluma, considering commute times and floodplain risks. He found a potential house in Petaluma near where "Elisa's rental" was located, about 20 minutes away. They discussed decluttering and storage needs, with Andy noting they have far too many dishes and glasses. The household is proactively preparing for a move, with one person planning to accelerate packing and add storage solutions.
+
+#### NOAA flood alert automation script (11:25 PM – 11:37 PM)
+Andy created an automated Google script that monitors Puerto Madera Creek water levels via NOAA data and automatically adds calendar notifications when levels exceed 6.75 feet. The script is set to monitor a month in advance, with the next expected alert in July. He was testing or demonstrating this project, likely to someone nearby. In the background, a separate domestic conversation was occurring about costs (with someone reacting to a $500 difference) and bedtime routines.
+
+---
+
+## 🗣️ Personal Monologues & Direct Thoughts
+- *No extended personal journal monologues recorded today.*
+
+---
+
+## 🧘 Spiritual and Societal Insights
+- **Meditation/physical experiences**: Described intense meditation where "your brain turns inside out" and a constricting "claw" sensation starting in chest and expanding downward; suspects this may have self-traumatized him
+- **Environmental awareness**: Checked flooding/tide info—7.1 high tides, compared to past 7.5 experiences; noted December timing pattern
+
+---
+
+## 💬 Quoted Expressions & Catchy Phrases
+### Quotes
+- **Quote**: *"But it was, I just wanted to focus on family."*
+  **Speaker**: Andy
+  **Context**: Discussing family visits and emotional conditioning in joshua tree vacation stories shared, this insight highlights how rapidly old relational habits resurface.
+
+- **Quote**: *"It's it's all about relationships with him."*
+  **Speaker**: Andy
+  **Context**: While discussing recovery meeting and daily errands, this statement provides a key insight into human behavior and personal practice.
+
+- **Quote**: *"relationships is kind of his his thing there."*
+  **Speaker**: Andy
+  **Context**: While discussing recovery meeting and daily errands, this statement provides a key insight into human behavior and personal practice.
+
+- **Quote**: *"No.Please really tell me the peace poets."*
+  **Speaker**: Andrea
+  **Context**: While discussing first amendment benefit concert, this statement provides a key insight into human behavior and personal practice.
+
+### Catchy Phrases & Key Sayings
+* **"Together We'Ll Sing"** — 6 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+* **"Thank You So Much"** — 5 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+* **"Please Welcome To"** — 5 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+
+### Notable Names Mentioned
+- *No unusual or humorous nicknames recorded today.*
+
+---
+
+## 📚 Stories & Case Examples Shared
+- **Recorded Account**: *"Andy shared in an AA meeting about his history of panic attacks and how spiritual practices (Buddhist teachings, monk guidance, developing faith) helped him recover without using prescribed medication"*
+- **Recorded Account**: *"Unknown: I remember how that happened."*
+- **Recorded Account**: *"**Health routine**: Trying to walk daily and manage eating habits, but struggles with late eating and consistency; expressed frustration about weight and exercise discipline"*
+- **Recorded Account**: *"Andy: I mean, near Trees and Johnny's, and I walked to the club, and then I walked back if I'm going to Trees and Johnny's."*
+- **Recorded Account**: *"Unknown: Van Hicker and Van Dijk both call him Van Dijk, a second high-scoring defender in Dutch international history."*
+- **Recorded Account**: *"Andy: If you can't remember how then, your memory needs to be."*
+- **Recorded Account**: *"Andy: Remember it was steaming over on the right?"*
+- **Recorded Account**: *"Unknown: I remember that. Fuck."*
+- **Recorded Account**: *"Andy photographed water approaching the walkway; the land is "bubbling" in areas"*
+
+---
+
+## 🧠 Physical & Mental Challenges
+| Category | Description |
+| :--- | :--- |
+| **Mental / Emotional** | Navigating technical friction, workflow focus, and mental energy. |
+| **Physical / Sensory** | Pacing daily tasks and maintaining somatic awareness during computer work. |
+
+---
+
+## 📻 Miscellaneous Media & References Encountered
+### Music & Audio
+- *No specific music playback recorded today.*
+
+### Film, Video & TV Shows
+- *No specific film/TV viewing recorded today.*
+
+### News & Current Events
+- *No specific news media recorded today.*
+
+---
+*Report automatically generated on 2026-08-19 06:18:21*

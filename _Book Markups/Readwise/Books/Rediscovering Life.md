@@ -1,0 +1,176 @@
+# Rediscovering Life
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/415Fv-pP6LL._SL200_.jpg)
+
+## Metadata
+- Author: [[Anthony De Mello]]
+- Full Title: Rediscovering Life
+- Category: #books
+
+## Highlights
+- the ability to listen. ([Location 64](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=64))
+- listening is not as easy as you might think it is. ([Location 65](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=65))
+- So, it doesn’t mean agreeing with me. You could disagree with me and get it. Isn’t that amazing? It means being alert. Be alert. Be watchful. Listen with a kind of a fresh mind. ([Location 80](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=80))
+    - Tags: [[blue]] 
+- fixed position. ([Location 84](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=84))
+- “Monks and scholars must accept my words not out of respect, but must analyze them, the way a goldsmith analyzes gold: by cutting, scraping, rubbing, melting.” ([Location 100](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=100))
+- And the tragedy is, as I discovered about ten years ago, the secret has been found. But why don’t we use it? We don’t want it, that’s why. Would you believe that? We don’t want it. We don’t want it. Can you imagine my saying to somebody, “Look, I’m going to give you a formula that will make you happy for the rest of your life. You’ll enjoy every single minute of the rest of your life.” Imagine my saying that to you. Okay, I’m going to say that to you today. I’m going to give you that formula. You know what most of you are going to do? Sorry for insulting you in advance, okay? But if you’re anything like the audiences I’ve had until now, you know what most of you are going to do? You’ll say, “Stop it. Don’t tell me. Stop it. I don’t want to hear it.” They don’t want to hear it, and you don’t even have to take that on faith; I’m going to prove it to you. ([Location 136](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=136))
+- Falling into Happiness by Letting Go ([Location 144](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=144))
+    - Tags: [[orange]] 
+- Your Life Is in Your Hands ([Location 160](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=160))
+    - Tags: [[orange]] 
+- See what I mean? He’s got a theory, and it’s that a person has to be upset or he’s not human. ([Location 172](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=172))
+    - Tags: [[pink]] 
+- So, ever suffer any interior conflict? ([Location 177](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=177))
+- You either face the fact that your life is in a mess or you don’t. ([Location 180](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=180))
+    - Tags: [[orange]] 
+- “Your life is in a mess” means you’re a victim of heartache, at least occasionally. You feel lonely. There’s emptiness staring at you. You’re scared. ([Location 181](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=181))
+    - Tags: [[pink]] 
+- No, you’re not supposed to be scared.” ([Location 185](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=185))
+    - Tags: [[blue]] 
+- “About anything.” ([Location 186](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=186))
+- The more occupied we are in the things of God, the more likely we priests are to forget what God is all about—and the more complacent we’re likely to become. ([Location 204](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=204))
+    - Tags: [[orange]] 
+- Now, that’s the condition of people everywhere. They don’t hear you. They won’t listen. You’re telling them that life is extraordinary, life is delightful: “You could enjoy it. You wouldn’t have a minute of tension, not one. No pressure. No anxiety. You want it?” The response: “Not possible. Never been done. Cannot be done.” No spirit of research, of investigating, no “Let’s find out. Let’s go.” No, no, no. Can’t be done. “We don’t want to hear you. I mean, our priests have told us it can’t be done, our psychologists tell us it can’t be done. You’re coming to tell us it can be done?” ([Location 219](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=219))
+    - Tags: [[orange]] 
+- You don’t want to get out of it. You do not want to get out of the mess. ([Location 225](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=225))
+    - Tags: [[blue]] 
+- He doesn’t want to get cured, he wants relief. ([Location 227](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=227))
+    - Tags: [[pink]] 
+- “Could you help me, so people won’t make waves?” ([Location 230](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=230))
+    - Tags: [[blue]] 
+- “I don’t want to be happy; I want to be miserable with you.” ([Location 240](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=240))
+- You Can’t Acquire Happiness— You Already Have It ([Location 258](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=258))
+    - Tags: [[orange]] 
+- I’ll tell you what it means to live like a king: To know no anxiety at all. To have no inner conflict at all. No tensions, no pressures, no upset, no heartache. So, then, what are you left with? Happiness, undiluted. ([Location 259](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=259))
+- You can’t acquire happiness. You know why? Because you have it. You’ve got it right now. But the whole time you’re blocking it with your stupidity. You’re blocking it. Stop blocking it and you’ll have it. ([Location 262](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=262))
+    - Tags: [[orange]] 
+- If I could show you how to get rid of your conflicts, your anxieties, your tensions, your pressures, your emptiness, your loneliness, your despair, your depression, your heartache—if you could get rid of all that, what are you left with? Sheer, undiluted happiness, that’s what you would have. ([Location 264](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=264))
+    - Tags: [[pink]] 
+- sight. Don’t do anything to get sight. When the eye is unobstructed, the result is sight. When the ear is unobstructed, the result is hearing. When the ([Location 267](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=267))
+    - Tags: [[blue]] 
+- unobstructed, the result is taste. When the mind is unobstructed, the result is truth. And when the heart is unobstructed, the result is joy and love. You’ve got it all, but it’s obstructed. Drop it. ([Location 268](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=268))
+    - Tags: [[blue]] 
+- Desire Is the Root of Unhappiness ([Location 285](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=285))
+    - Tags: [[blue]] 
+- The world is full of sorrow. The root of sorrow is desire. The uprooting of sorrow is desirelessness. ([Location 289](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=289))
+- So I’m going to be a vegetable? I mean, how do we live without desires? ([Location 293](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=293))
+    - Tags: [[orange]] 
+- The world is full of sorrow. The root of sorrow is attachment. The uprooting of sorrow means the uprooting, the dropping of attachments. You know, there are desires on whose fulfillment my happiness does not depend. ([Location 297](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=297))
+    - Tags: [[pink]] 
+- Where do you think all conflicts come from? Attachments. ([Location 302](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=302))
+    - Tags: [[blue]] 
+- Where do you think greed comes from? Attachments. ([Location 303](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=303))
+- Where do you think loneliness comes from? Attachments. ([Location 303](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=303))
+    - Tags: [[orange]] 
+- Where do you think fears come from? Attachments. No attachment, no fear. Ever thought of that? No attachment, no fear. ([Location 304](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=304))
+    - Tags: [[pink]] 
+- You know, when you enjoy the scent of a thousand flowers, you’re not going to feel too bad about the absence of one flower. ([Location 318](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=318))
+    - Tags: [[blue]] 
+- Do you recollect being educated to enjoy a thousand dishes, so that nothing upsets you? See, we missed it. ([Location 320](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=320))
+    - Tags: [[orange]] 
+- They don’t give a damn whether you and I are happy or not. They want us to achieve. They want us to produce. That’s what they want—even if we’re going to be miserable slaves and unhappy. ([Location 322](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=322))
+- I want one personal, unique, unsubstitutable friend. So if he rejects me, then I’m miserable for the rest of my life.” ([Location 324](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=324))
+    - Tags: [[pink]] 
+- that’s the way we’ve been brought up. That’s the way it has been for thousands of years. We’ve got to have desires on whose fulfillment our happiness depends. That’s very good for so-called progress, of course, huh? Because you’ll throw all you have into the enterprise. So-called progress. I call it “so-called” because that’s not progress to me. That isn’t progress. ([Location 326](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=326))
+    - Tags: [[orange]] 
+- I’ll tell you what progress is: Heart progress. Love progress. Happiness progress. ([Location 330](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=330))
+    - Tags: [[pink]] 
+- Attachment Is the Enemy of Love ([Location 334](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=334))
+    - Tags: [[blue]] 
+- You see, you’re really confronting a choice between life and death, and what people call life is frequently death, though they don’t know it. ([Location 335](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=335))
+    - Tags: [[blue]] 
+- There’s no fear in perfect love. You know why? Because there’s no desire. ([Location 340](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=340))
+- Where there is love, there is no desire. ([Location 341](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=341))
+    - Tags: [[orange]] 
+- If you were not actively engaged in making yourself miserable, you would be happy. ([Location 357](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=357))
+    - Tags: [[blue]] 
+- teaching us to become attached. ([Location 361](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=361))
+- By teaching us to have desires so intense that we would refuse to be happy unless they were fulfilled. ([Location 361](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=361))
+    - Tags: [[pink]] 
+- You won’t sit. Because if you sit, you might see it. ([Location 364](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=364))
+    - Tags: [[pink]] 
+- live in illusions. ([Location 371](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=371))
+- we don’t want happiness. We want thrills. ([Location 372](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=372))
+    - Tags: [[blue]] 
+- The world is full of sorrow. The root of sorrow is attachment/desire. The uprooting of sorrow is the dropping of attachment. How does one drop attachment? You only look and see that it is based on a false belief—the belief that, without this, I cannot be happy. That’s false. ([Location 375](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=375))
+- The moment you see that belief is false, you’re free. ([Location 377](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=377))
+- you have no idea of what happiness is until you’ve dropped attachment, so it could only be defined as the dropping of illusion, the dropping of attachment. When misery caused by attachment is dropped, happiness is attained. ([Location 405](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=405))
+    - Tags: [[blue]] 
+- You’ve got the clouds and you’ve got the sky. Many of the Oriental masters will say that enlightenment, before they saw, meant they would identify themselves with the clouds. After enlightenment, they would identify themselves with the sky. ([Location 419](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=419))
+- The more you fight depression, the worse it gets. Don’t resist evil. When they strike you on one cheek, turn and offer the other. When you take away one devil, seven more come. You deal with these things by not fighting them. Because the more you fight them, the more you empower them. ([Location 437](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=437))
+    - Tags: [[orange]] 
+- That’s the formula. Plunge into the heat of battle and keep your heart at the lotus feet of the Lord. At peace. Is it possible to go into the din of battle, to fight the good fight, and be at peace? Of course, it is. All the great mystics attained that. Because if you’re not at peace, believe me, you’re going to do much more damage than good. You know why? Because it isn’t the Lord’s battle you’re fighting, it’s the ego’s battle. ([Location 453](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=453))
+    - Tags: [[pink]] 
+## New highlights added September 19, 2023 at 6:38 AM
+- the rediscovery of life. ([Location 53](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=53))
+    - Tags: [[pink]] 
+- we’re always listening from fixed concepts, fixed positions, fixed prejudices. ([Location 68](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=68))
+    - Tags: [[pink]] 
+- listening doesn’t mean attacking, ([Location 73](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=73))
+    - Tags: [[pink]] 
+- If you tell a Marxist there’s something wrong with Marxism, the first thing he’s likely to do is attack you. If you tell a capitalist there’s something wrong with capitalism, he’s up in arms. If you tell an American, “Hey, you know, there’s something wrong with the United States”—and the same with the Indian person if you’re attacking India, and so on. ([Location 74](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=74))
+    - Tags: [[orange]] 
+- That’s not easy, either—listening with a fresh mind, without prejudices, without fixed formulas. ([Location 84](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=84))
+- When Jesus taught the good news, I think he was attacked not only because what he taught was good but also because it was new. We hate anything new. I hated anything new. Give me the old stuff. We don’t like the new. It’s too disturbing. Too liberating. ([Location 101](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=101))
+    - Tags: [[blue]] 
+- About twelve years ago, I was introduced to a rickshaw puller in Calcutta. It’s awful. I mean, a human being; riding in a rickshaw, you don’t have a horse pulling you, you’ve got a human being pulling you. The life span of these poor men is from ten to twelve years once they begin pulling the rickshaw. They don’t last very long. They get tuberculosis. They die quickly. Now, Ramchandra—Ramchandra was his name—Ramchandra had TB. At that time, there was a small group of people engaging in an illegal activity involving exporting skeletons. The government eventually caught on to them. But you know what they used to do? They bought your skeleton while you were still alive. If you were very poor, you went to them and you sold your skeleton for the equivalent of about $10. So, these people would ask the rickshaw pullers, “How long have you been working in the street?” Someone like Ramchandra would reply, “Ten years.” And these buyers would think: He doesn’t have much longer to live. “All right, here’s your money.” Then, the moment one of these men died, they would pounce on the body, they would take it away, and then, when the body had decomposed through some process they have, they would take hold of the skeleton. Ramchandra had sold his skeleton, that’s how poor he was. He had a wife, he had kids, and he had the squalor, the poverty, the misery, the uncertainty. You’d never think to find happiness there, right? Yet, nothing seemed to faze him. He was all right. Nothing seemed to upset him. I said to him, “Aren’t you upset?” He said, “About what?” “You know, your future, the future of the kids.” He said, “Well, I’m doing the best I can, but the rest is in the hands of God.” I said, “Hey, but what about your sickness? That causes suffering, doesn’t it?” ([Location 110](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=110))
+    - Tags: [[pink]] 
+- He said, “A bit. We gotta take life as it comes.” I never once saw him in a bad mood. But as I was talking to this guy, I suddenly realized I was in the presence of a mystic. I suddenly realized I was in the presence of life. It was right there. He was alive. I was dead. Remember those lovely words of Jesus? Look at the birds of the air. Look at the flowers of the field. They don’t sow, they don’t spin. They don’t have a moment of anxiety for the future. Not like you. He was right here. I know that rickshaw puller must be dead by now. I met him very briefly in Calcutta and then went on to where I live now, farther south in India. What happened to that guy, I don’t know. But I know I’d met a mystic. Extraordinary person. He discovered life. He rediscovered it. ([Location 126](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=126))
+    - Tags: [[pink]] 
+- It has not, however, solved the problem of human suffering, of anguish,… ([Location 133](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=133))
+    - Tags: [[orange]] 
+- Has that raised the quality of our living… ([Location 136](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=136))
+- And the tragedy is, as I discovered about ten years ago, the secret has been found. But why don’t we use it? We don’t want it, that’s why. Would you believe that? We don’t want it. We don’t want it. Can you imagine my saying to somebody, “Look, I’m going to give you a formula that will make you happy for the rest of your life. You’ll enjoy every single minute of the rest of your life.” Imagine my saying that to you. Okay, I’m going to say that to you today. I’m going to give you that formula. You know what most of you are going to do? Sorry for insulting you in advance, okay? But if you’re anything like the audiences I’ve had until now, you know what most of you are going to do?… ([Location 139](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=139))
+- Falling into Happiness by… ([Location 147](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=147))
+    - Tags: [[orange]] 
+- Six months ago, I was in St. Louis, Missouri, giving a workshop. There was a priest there who came to see me. He said, “You know, I accept every single word you’ve said over these three days, every single word of it. And you know why? Not because I’ve done what you encouraged us to do—to cut and rub and scrape and analyze. No, about three months ago I assisted an AIDS victim on his deathbed. And the man told me the following. He said, ‘Father, six months ago the doctor told me I had six months to live.’ ” The man was dying, see. “ ‘He said I had exactly six months to live, and I believed him. And you know something, Father? These have been the six happiest months of my whole misspent life. Happiest. In fact, I’ve never been happy till these six months. I discovered happiness.’ He said, ‘As soon as the doctor told me that, I dropped tension, pressure, anxiety, hope, and fell, not into despair, but into happiness at last.’ ” And the priest… ([Location 147](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=147))
+    - Tags: [[orange]] 
+- “For whatever the situation I find myself in, I have learned to be self-sufficient. I am experienced in being brought low, and I have known what it meant to have abundance. I have learned how to cope with every circumstance: how to eat well… ([Location 157](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=157))
+    - Tags: [[pink]] 
+- “I have learned to cope with every circumstance: how to eat well or to go hungry; to be well… ([Location 160](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=160))
+- Your Life Is in Your… ([Location 163](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=163))
+    - Tags: [[orange]] 
+- suppose you want to… ([Location 164](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=164))
+- Let’s suppose you want to… ([Location 164](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=164))
+- your life is in a… ([Location 166](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=166))
+    - Tags: [[blue]] 
+- “You think your life is not in a mess? All right, tell me—here’s the acid test. Ever feel lonely? Any heartache? Ever get upset by anything?” “You mean—aren’t we supposed to get upset?” “You want the clean, clear, simple answer?” “Yeah.” “No.” “You mean, not be upset by anything?” “That’s right, you heard me. No.” “Shut up. I don’t want to hear any more.” ([Location 170](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=170))
+    - Tags: [[orange]] 
+- “Don’t teach a pig to sing. It wastes your time and irritates the pig.” ([Location 177](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=177))
+    - Tags: [[orange]] 
+- Fearlessness. You don’t know what it means. And the tragedy is, you don’t think it’s available. Yet, it’s so easy to get. Since they told you it’s not available, you never try to find it, but it’s right here, all over the Bible, ([Location 190](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=190))
+    - Tags: [[pink]] 
+- I’m reminded of that powerful story of the fisherman who goes out early in the morning to fish, and it’s too—whatever, I don’t understand these things—but apparently it’s too dark or something, and his foot hits upon something that seems like a sack. So he picks it up, probably washed ashore from some shipwreck or whatever. And he opens it and he can feel pebbles inside. So he takes these pebbles and he entertains himself until dawn, flinging those pebbles far out into the sea to see if he can judge from the “plop” how far he sent the pebble. When day begins to dawn, he looks into the sack and he finds three precious stones there. God, the sack was filled with precious stones and he hadn’t known it! Too late. Not too late—three stones left. Not too late. ([Location 210](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=210))
+    - Tags: [[orange]] 
+- You’ve Been Programmed with Wrong Ideas ([Location 278](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=278))
+    - Tags: [[pink]] 
+## New highlights added September 20, 2023 at 9:38 PM
+- The biggest enemy of love is attachments. Desire, in the sense of attachment. You know why? Because if I desire you, I want to possess you. I can’t leave you free. I’ve got to get you. I’ve got to manipulate you so that I can get you, if I desire you in this way. I’m going to manipulate myself, so that I can hoodwink you into allowing me to get you. ([Location 340](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=340))
+    - Tags: [[orange]] 
+- Love means, “I’m perfectly happy without you, darling, it’s all right.” It means, “And I wish you good, and I leave you free. And when I get you, I’m delighted; and when I don’t, I’m not miserable.” ([Location 352](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=352))
+    - Tags: [[orange]] 
+- I have learned to be self-sufficient. ([Location 354](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=354))
+    - Tags: [[orange]] 
+- And you know, if I get money, that’s wonderful; and if I don’t get money, I’m not depressed. I’m happy. You know something else? When you go away, I don’t—maybe it’s too soon to say this here, but anyway, I’ll risk it—I don’t miss you. I don’t feel pain. Where there is sorrow, there is no love. Tell me, when you grieve, whom are you grieving for? Whose loss? That’s self-pity. ([Location 355](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=355))
+## New highlights added September 20, 2023 at 10:38 PM
+- Oh, there’s pain; of course, there’s pain. Who told you that you can’t be happy without pain? Come and meet a friend of mine who’s dying of cancer. She’s happy in pain. ([Location 361](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=361))
+- wherever you’ve got a thrill, you’ve got an anxiety, because you might lose that thrill, or you may not get it. And then you’ve got depression following that, you’ve got a hangover. ([Location 375](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=375))
+    - Tags: [[orange]] 
+- It may take you one minute, it may take you twenty-five years. But the day you see it, you’re free. You’re free as a bird. You’ll be coming up to give retreats, you’ll be talking to presidents. You’ll be meeting popes. You won’t be fazed one bit. You’re free. You’re completely free. You’ll be making an ass of yourself, and it won’t bother you. You won’t bother to impress anybody. ([Location 381](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=381))
+    - Tags: [[orange]] 
+- one doesn’t make one’s happiness depend on the material world. ([Location 394](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=394))
+    - Tags: [[orange]] 
+- attachment brings anxiety. ([Location 395](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=395))
+    - Tags: [[blue]] 
+- If you’re anxious when you’re holding on to something, ([Location 395](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=395))
+    - Tags: [[blue]] 
+- Attitude Is the Difference ([Location 399](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=399))
+    - Tags: [[orange]] 
+- strange as it may seem, you could even be serene and calm and happy while the depression is going on. You’re not fighting it, you’re not upset about it, you’re not irritated about it. You’re serene. ([Location 404](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=404))
+    - Tags: [[pink]] 
+- You don’t know what sight is until the eye is unobstructed. ([Location 411](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=411))
+    - Tags: [[pink]] 
+## New highlights added September 21, 2023 at 7:38 PM
+- Aren’t depression and happiness two contradictory states? I think this is what you’re asking, right? Yes and no. If for you happiness means thrills, fun, pleasure, then, yes, they are contradictory. But thrills, fun, and pleasure are not happiness. What are they? They’re thrills, they’re fun, they’re pleasure. They’re not happiness. Happiness is a state of nonattachment. ([Location 428](https://readwise.io/to_kindle?action=open&asin=B006OGUE3W&location=428))
+    - Tags: [[orange]] 

@@ -1,0 +1,79 @@
+---
+tags:
+  - "#conscious_bias"
+---
+# 3 Books in 1 •
+
+![rw-book-cover](https://m.media-amazon.com/images/I/71HsIkd-xQS._SY160.jpg)
+
+## Metadata
+- Author: [[Last accessed on]]
+- Full Title: 3 Books in 1 •
+- Category: #books
+
+## Highlights
+- The human brain automatically feels at ease when we interact with people we look and think alike, or act similarly. That was used as a survival trick in the savannah and is still applicable today. ([Location 62](https://readwise.io/to_kindle?action=open&asin=B099PV39ND&location=62))
+    - Tags: [[orange]] 
+- Our brain creates shortcuts to handle the important information that it processes. These shortcuts cause us to make quick and snappy decisions about who or what we prefer over others. ([Location 64](https://readwise.io/to_kindle?action=open&asin=B099PV39ND&location=64))
+    - Tags: [[blue]] 
+- It is these automatic preferences that we refer to as biases. ([Location 65](https://readwise.io/to_kindle?action=open&asin=B099PV39ND&location=65))
+    - Tags: [[orange]] 
+- And the fact that our brain does it without our awareness is what makes it unconscious. ([Location 65](https://readwise.io/to_kindle?action=open&asin=B099PV39ND&location=65))
+    - Tags: [[pink]] 
+- many of the biases held at a subconscious level are formed throughout our lifetime through societal and parental conditioning. ([Location 68](https://readwise.io/to_kindle?action=open&asin=B099PV39ND&location=68))
+    - Tags: [[orange]] 
+- These patterns include gender, profession, sexuality, ethnicity, disability, body size, etc., and they all have different assessments imprinted on them, which comprise the basis of our relationship with everyone. ([Location 69](https://readwise.io/to_kindle?action=open&asin=B099PV39ND&location=69))
+    - Tags: [[pink]] 
+    - Note: I call this wearing different hats in terms of what we are in relationship to in the moment.
+- the AI had learned the act of bias and even amplified it. ([Location 74](https://readwise.io/to_kindle?action=open&asin=B099PV39ND&location=74))
+    - Tags: [[orange]] 
+- Comparison is the first step for transformation. ([Location 76](https://readwise.io/to_kindle?action=open&asin=B099PV39ND&location=76))
+    - Tags: [[orange]] 
+- the earth is a beautiful mystery. It has classified its dwellers into different time zones and different weathers. This made it easy for people to develop their idiosyncratic characteristics simultaneously with stages of evolution. ([Location 78](https://readwise.io/to_kindle?action=open&asin=B099PV39ND&location=78))
+- job openings and monitored those who called back for interviews. ([Location 88](https://readwise.io/to_kindle?action=open&asin=B099PV39ND&location=88))
+    - Tags: [[pink]] 
+- they found out that almost 50% stood a higher chance of being called back for an interview as long as they had a white name. ([Location 89](https://readwise.io/to_kindle?action=open&asin=B099PV39ND&location=89))
+- topics on race, diversity, and prejudice cause discomfort to most. ([Location 100](https://readwise.io/to_kindle?action=open&asin=B099PV39ND&location=100))
+- it is clear that these topics are very often avoided with the notion that it causes more harm than good. ([Location 101](https://readwise.io/to_kindle?action=open&asin=B099PV39ND&location=101))
+- cost of workplace bias ([Location 104](https://readwise.io/to_kindle?action=open&asin=B099PV39ND&location=104))
+    - Tags: [[blue]] 
+- Now, where do people from a wide range of diversity come together to function as a union? It is their workplace. For achieving financial independence, an assorted workforce is co-dependent on each other. ([Location 109](https://readwise.io/to_kindle?action=open&asin=B099PV39ND&location=109))
+    - Tags: [[orange]] 
+- Companies recognizing various diverse groups in building their workforce attain higher zeniths than those who do not. ([Location 113](https://readwise.io/to_kindle?action=open&asin=B099PV39ND&location=113))
+- win-win for employers and employees. ([Location 115](https://readwise.io/to_kindle?action=open&asin=B099PV39ND&location=115))
+    - Tags: [[pink]] 
+- "Leadership is the art of giving people a platform for spreading ideas that work." ([Location 118](https://readwise.io/to_kindle?action=open&asin=B099PV39ND&location=118))
+    - Tags: [[orange]] 
+- It implies that if there are mutual grounds or a common platform provided to a diverse willing set of people, the reach of ideas would be widespread, which will result in a more significant and quicker positive outcome. ([Location 120](https://readwise.io/to_kindle?action=open&asin=B099PV39ND&location=120))
+    - Tags: [[pink]] 
+- Ending systemic inequality is the cross of everyone, because one way or another, it affects every one of us. If not directly, then indirectly. We make the world a fair place to live, and that's what global egalitarianism is all about. ([Location 150](https://readwise.io/to_kindle?action=open&asin=B099PV39ND&location=150))
+    - Tags: [[orange]] 
+- The rise of equality is a practical project that would require the development of new ideas to help reshape and restructure the environment, economic, governmental, and social institutions. ([Location 154](https://readwise.io/to_kindle?action=open&asin=B099PV39ND&location=154))
+    - Tags: [[orange]] 
+- Getting rid of biases that exist subconsciously is a tedious task. However, it can be made possible by opening up the mind and bringing the conscious mind to power. ([Location 160](https://readwise.io/to_kindle?action=open&asin=B099PV39ND&location=160))
+    - Tags: [[pink]] 
+- "Your assumptions are your windows on the world. Scrub them off every once in a while, or the light won't come in."  ― Isaac Asimov ([Location 163](https://readwise.io/to_kindle?action=open&asin=B099PV39ND&location=163))
+    - Tags: [[orange]] 
+- An open-minded person is one who is receptive to a wide variety of ideas, arguments, and information. This ability is generally considered a positive one and necessary for critical and rational thinking. ([Location 179](https://readwise.io/to_kindle?action=open&asin=B099PV39ND&location=179))
+    - Tags: [[pink]] 
+- Without the ability to welcome other ideas and perspectives, it may be very easy to miss certain factors that contribute to the problems, making the discovery of a practical solution very difficult. ([Location 181](https://readwise.io/to_kindle?action=open&asin=B099PV39ND&location=181))
+- With the world being as polarized as it is now, the ability to step out of your comfort zone to look into other's ideas and perspectives is vital for peaceful coexistence. ([Location 183](https://readwise.io/to_kindle?action=open&asin=B099PV39ND&location=183))
+    - Tags: [[orange]] 
+- As much as open-mindedness can be a treasure to our relationships with others, it creates the perfect opening for prejudices to creep in, most times even unconsciously. ([Location 185](https://readwise.io/to_kindle?action=open&asin=B099PV39ND&location=185))
+    - Tags: [[blue]] 
+- prejudice as a preconceived judgment of a certain group of people simply because they are members of that group. ([Location 188](https://readwise.io/to_kindle?action=open&asin=B099PV39ND&location=188))
+- Prejudice is not always discrimination. We know discrimination to mean behaviors or actions directed towards an individual or group, most especially based on the social group they belong to. These behaviors are mostly negative.  Prejudice can occur without discrimination. In essence, prejudice makes do of all the three components of an attitude which are affective, behavioral, and cognitive, while discrimination, on the other hand, involves only behavior. ([Location 194](https://readwise.io/to_kindle?action=open&asin=B099PV39ND&location=194))
+    - Tags: [[pink]] 
+- often unconscious. ([Location 199](https://readwise.io/to_kindle?action=open&asin=B099PV39ND&location=199))
+    - Tags: [[orange]] 
+- Unconscious (or implicit) bias as a term was first brought into light in 1995 by Mahzarin Banaji and Anthony Greenwald, both psychologists who argued that social behavior is influenced significantly by associations and judgments which are carried out unconsciously. ([Location 201](https://readwise.io/to_kindle?action=open&asin=B099PV39ND&location=201))
+    - Tags: [[orange]] 
+- system 1 ([Location 206](https://readwise.io/to_kindle?action=open&asin=B099PV39ND&location=206))
+    - Tags: [[pink]] 
+- system 2. ([Location 206](https://readwise.io/to_kindle?action=open&asin=B099PV39ND&location=206))
+    - Tags: [[blue]] 
+- System 1 thinking involves the mode of the brain where its thinking is fast, emotional, and unconscious. ([Location 207](https://readwise.io/to_kindle?action=open&asin=B099PV39ND&location=207))
+    - Tags: [[pink]] 
+- The type 2 system, on the other hand, makes use of logical thoughts where effort and reason are vital. ([Location 210](https://readwise.io/to_kindle?action=open&asin=B099PV39ND&location=210))
+- In implicit bias, a person can hold beliefs that are contradictory to their conscious beliefs without even realizing it. ([Location 217](https://readwise.io/to_kindle?action=open&asin=B099PV39ND&location=217))
+    - Tags: [[orange]] 

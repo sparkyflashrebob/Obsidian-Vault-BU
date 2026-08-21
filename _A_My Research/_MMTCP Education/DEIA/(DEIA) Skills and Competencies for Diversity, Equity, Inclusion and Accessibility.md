@@ -1,0 +1,43 @@
+---
+Created: 2024-07-21
+---
+-   This document describes the expected competencies for skillful embodiment of principles of diversity, equity, inclusion and accessibility (DEIA). These are the competencies students will be expected to develop over the course of the MMTCP Program.
+-   There are three areas of competence:
+-   • Competence Area 1: [[DEIA Content]]
+-   • Competence Area 2: [[Relational Skills]] – Mentor/Peer Group Engagement
+-   • Competence Area 3: [[Skillful Facilitation]]
+-   The competencies are to be evaluated in three ways:
+-   1. As students deliver guided meditations, offer talks, and field frequently asked questions
+-   2. In group discussions and informal group interactions, and in communications with mentor
+-   3. In digital self-assessments to be completed by the end of year one.
+-   **Competence Area 1: DEIA Content**
+-   Part One: Fundamentals
+-   • Demonstrates understanding of DEIA curriculum content as an expression of mindfulness practice, expanded to the societal realm
+-   • Is able to describe the impact of structural oppression on members of communities of color and other marginalized groups, whether or not the student experiences its impact personally
+-   • Is able to identify the 4 levels of race-based oppression (structural, institutional, interpersonal and internalized) and recognize at least 3 examples of how the four levels of racism and privilege can show up in the mindfulness classroom
+-   • Knows working definitions of the basic DEIA concepts, including: privilege, oppression, racism, white supremacy, microaggressions and institutionalized power
+-   • Is able to identify the dominant caste system in their own geographical region, whether race/color based or otherwise, and to describe the dynamics of oppression as they operate in that region
+-   Part Two: Additional Points
+-   • Acknowledges Asian cultural roots of mindfulness practices as taught by MMTCP
+-   • Demonstrate understanding of the utilization of mindfulness and compassion practices to interrupt internalized and interpersonal oppression and domination
+-   **Competence Area 2: Relational Skills – Mentor/Peer Group Engagement**
+-   Part One: Fundamentals
+-   • Knows, follows and refers to the MMTCP Multicultural Agreements (adapted from Visions Inc,)
+-   • Demonstrates awareness of their own social location in relationship to the group and the associated power dynamics, takes an appropriate amount of space and demonstrates an appropriate amount of humility
+-   • Uses skillful non-harming wise speech
+-   • Demonstrates openness to others’ views and experiences, while maintaining a commitment to naming power dynamics and centering the awareness and needs of the most marginalized folks (whether or not they are in the room)
+-   • Is able to give and receive feedback on harmful actions/microaggressions using “I” statements to describe impact, and without assuming intent
+-   • Offers appropriate apology and repair when causing harm to others
+-   Part Two: Additional Points
+-   • Uses language and examples in talks, guided meditations and Q&A that is inclusive and non-discriminatory
+-   • Is willing and able to give feedback on harmful actions or behavior
+-   • Receives feedback with willingness to take responsibility when necessary
+-   **Competence Area 3: Skillful Facilitation**
+-   Part One: Fundamentals
+-   • Identifies common ways that racism/ white supremacy manifests in mindfulness classroom, and uses tools for managing power dynamics in a group
+-   • Understands what a “microaggression” is and demonstrates ability to identify and skillfully address them when they occur in the mentor group or in the practicum
+-   • Applies strategies for self-regulation and self-care while holding space in diverse community
+-   • Knows when and how to seek consultation and support to hold difficult conversations
+-   Part Two: Additional Points
+-   • Understands the interaction between holding the teacher’s seat (power position) and one’s other social positions, which may be privileged (e.g., white, male, wealthy), thus reinforcing the power position, or marginalized (e.g., BIPOC, woman or gender nonconforming, poor or working class), thus in tension with the power position.
+-   • Design an inclusive teaching framework/classroom culture in your Practicum that includes reflection on the power dynamics of holding the teacher’s seat and your social location

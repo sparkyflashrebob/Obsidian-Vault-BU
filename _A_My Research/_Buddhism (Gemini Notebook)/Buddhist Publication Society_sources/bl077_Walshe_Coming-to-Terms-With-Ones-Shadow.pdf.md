@@ -1,0 +1,142 @@
+# bl077_Walshe_Coming-to-Terms-With-Ones-Shadow.pdf
+
+Coming	to	Terms	With One’s	Shadow
+
+Ruth	Walshe
+
+Buddhist	Publication	Society Kandy	•	Sri	Lanka
+
+Bodhi	Leaves	No.	77
+
+First	published:	1977
+
+BPS	Online	Edition	©	(2011)
+
+Digital	Transcription	Source:	BPS	Transcription	Project
+
+For	 free	 distribution.	 This	work	may	 be	 republished, reformatted,	 reprinted	 and	 redistributed	 in	 any medium.	 However,	 any	 such	 republication	 and redistribution	is	to	be	made	available	to	the	public	on a	 free	 and	 unrestricted	 basis,	 and	 translations	 and other	 derivative	 works	 are	 to	 be	 clearly	 marked	 as
+
+L Coming	To	Terms	With One’s	Shadow
+
+et	 us	 start	 from	 the	 very	 beginning.	What exactly	do	I	mean	by	the	shadow?
+
+Though,	 to	 some	 extent,	 the psychological	and	the	Buddhist	way	of	looking	at	the shadow	 is	 similar,	 the	Buddhist	way	of	 seeing,	rather than	investigating,	is	far	deeper	and	more	penetrating. For	 if	 you	wash	 your	 dirty	 linen	 yourself	 instead	 of sending	 it	 to	 the	 laundry,	 you	 yourself	 discover	 the stains.	But	unlike	with	the	washing,	there	is	no	need	to scrub	 them,	 it	 is	 just	 the	act	of	 seeing	which	cleanses them.	As	if	by	the	strength	of	the	light	of	prajña	all	the linen	were	bleached	white…
+
+In	order	 to	 explain	 the	 shadow,	we	must	 first	 turn the	 spotlight	 onto	 the	 discrimination	 of	good	 and	 bad which	 starts	 off	 our	 suffering,	 followed	 by	 craving— the	second	Noble	Truth—which	in	its	turn	is	brought about	by	our	erroneous	I-am-I	consciousness.	I	want!— I	don’t	want!	I	want	the	good!—I	don’t	want	the	bad!	This is	outward-bound	but	exactly	the	same	applies	to	our
+
+emotions	too.
+
+As	we	grow	up	 in	a	man-created	pattern	of	ethical conduct,	 we	 almost	 automatically	 show	 off	 the	 so-called	good	in	us,	while	we	repress	the	so-called	bad. Some	of	us,	naturally,	would	be	more	skilled	in	doing this	 than	 others—but	 we	 all	 seem	 to	 have	 the	 same tendencies	in	this	direction.	Now	this	repressed	bad	in us	 constitutes	 what	 we	 generally	 call	 the	 shadow.	 I just	 call	 it	 the	 bad,	because	 if	 I	were	 to	 call	 it	 our	 bad character	or	our	bad	personality,	 I	would	go	 counter	 to our	 Buddhist	 belief	 in	 anicca	 and	 anatta;	 in impermanence	 and	 non-self.	 And	 perhaps	 as	 a Buddhist	I	had	better	replace	the	word	good	by	skilled and	 the	 word	 bad	 by	 unskilled	 and	 talk	 about	 our skilled	and	unskilled	reactions	to	the	past	and	present.
+
+Now,	 as	 mentioned	 before,	 the	 trouble	 starts	 with our	 discrimination	 of	 what	 is	 skilled	 and	 what	 is unskilled;	 of	 what	 is	 good	 and	 what	 is	 bad.	 On	 the other	 hand,	we	must	 bear	 in	mind	 that	 the	 basis	 for this	discrimination—our	ethical	code—is	essential.	For the	Buddhist	 this	ethical	code	 is	made	up	by	 the	 five precepts.	 Through	 lives	 and	 lives	 of	 self-discipline coupled	with	true	understanding,	most	of	us	will	find it	 easy	 not	 to	 kill—at	 least	 in	 the	wider	 sense	 of	 the word—or	not	 to	 steal.	With	 regard	 to	 the	other	 three Buddhist	 precepts,	 we	 find	 it	 already	 much	 more difficult	 not	 to	 take	 alcohol	 or	 indulge	 in	 sensuality.
+
+But	 the	 last	 one,	 wrong	 speech,	 beats	 all	 of	 us,	 I’m quite	sure.
+
+So	 if	we	 have	 to	 come	 to	 some	 terms	 individually even	 with	 these	 five	 Buddhist	 precepts,	 how	 much more	 so	 with	 all	 our	 unskilled	 habits	 in	 thinking, emoting,	as	well	as	acting!
+
+There	 is	 one	 thing	 in	 particular	 we	 must	 try	 and understand,	before	we	can	even	start	to	come	to	terms with	 our	 shadow:	 unskilled	 habits,	 as	 such,	 don’t constitute	our	shadow.	Only	when	they	are	repressed —that	is	to	say,	when	we	are	attached	to	them	in	our unconscious.	 It	 is	 then,	 owing	 to	our	underlying	 fear of	them,	that	they	form	a	relationship	with	us:	a	habit-pattern.	 And	 it	 is	 mainly	 through	 this	 habit-pattern that	the	ego	rules	and	plagues	us.
+
+We	Buddhists	believe	that	all	our	habit	patterns	are the	 result	of	our	previous	karma—i.e.,	karma	vipāka— for	which,	of	course,	we	are	wholly	responsible.	These, however,	we	cannot	change	as	such.	But	what	we	can do	 in	 the	 present	 moment	 is	 to	 change	 our	 reaction towards	it	by	the	practice	of	mindfulness.	In	time	this can	 result	 in	 a	 complete	 break-through.	 And,	 of course,	we	 also	 have	 the	 power	 to	 stop	 forming	 any new	 habits.	 But	 all	 this	 is	 a	 long	 and	 arduous	 task, which	 needs	 a	 lot	 of	 insight	 into	 the	 true	 nature	 of things.	The	remedy	is	 to	accept	 instead	of	repressing,
+
+detachment	instead	of	attachment.	And	the	first	step	is to	 have	 a	 better	 understanding	 of	 the	 ego’s	 general feeling	 of	 insecurity	 which	 is	 causing	 our	 karmic makeup,	 rather	 than	 our	 constant	 emotional judgment.
+
+“But	 surely”,	 some	 people	 might	 say,	 “we	 must never	 accept	 our	 faults!	 Instead,	 we	must	 try	 all	 we can	to	improve	ourselves!”
+
+To	 this	 the	 Buddhist	 answer	 is:	 “yes	 and	no!”	 The fact	 that	 it	 is	 necessary	 to	 improve	 ourselves	 is certainly	 right.	Only	 it	 can	 never	 be	 done	 by	 us—by our	ego!	The	ego	stands	for	total	 ignorance.	How	can ignorance,	therefore,	improve	ignorance?!
+
+I	 think	 it	 might	 be	 as	 well	 to	 differentiate	 here between	the	every-day	mode	of	awareness,	when	the ego	 is	 in	 full	 swing	 and	 the	 intellect	 decides	 our actions,	and	a	deeper	mode	of	awareness,	when	there is	a	seeing—a	true	understanding.	The	depth	depends on	how	much	the	ego	is	out	of	the	way.	Now	when	I say,	we	have	to	accept	our	weaknesses—our	unskilled reactions—this	 acceptance	 is	 not	 done	 by	 the	 ego, instead,	it	is	an	acceptance	of	the	ego.
+
+If,	 for	 example,	 I	 accept	 my	 laziness,	 it	 will	 get worse	 instead	 of	 better:	 “O.K.,	 I’m	 lazy—so	 what?!” This,	 everyone	 will	 agree,	 is	 certainly	 the	 wrong attitude.	But,	on	the	other	hand,	if	I—and	the	accent	is
+
+on	 the	 I—try	 to	 put	 a	 stop	 to	 my	 laziness,	 this— though	 a	 definite	 improvement—is	 still	 not	 the	 right solution.	For	what	will	happen?	As	my	habit-pattern	is laziness,	the	ego’s	only	way	out	of	it	is	to	repress	this habit	as	much	as	possible	 in	order	 to	 super-impose	a new	 habit.	 But	 this	 will	 always	 be	 comparatively weak,	 because	 so	 much	 of	 my	 energy	 is	 spent	 on repression.	 In	 one	 word,	 my	 industry	 is	 to	 a	 great extent	forced,	unnatural—unless	I	happen	to	be	doing something	I	am	interested	in.	So	when	the	I	is	trying	to improve	the	I,	this	might	make	my	shadow	even	more involved.	 For,	 if	my	 repression	gets	 so	 strong	 that	 in time	it	becomes	a	serious	frustration,	it	could	play	me up	in	all	sorts	of	strange	ways.
+
+Here	is	an	example:	a	woman	who	wants	to	be	less selfish	and	makes	herself	do	social	welfare-work.	She might	even	succeed	to	a	certain	extent:	she	disciplines herself	to	get	up	early	in	the	morning,	she	faces	a	long bus	journey	on	a	cold	winter-day	until	she	reaches	the East-End	of	London.	Used	to	a	comfortable	home	in	a nice	 clean	district,	 the	 smell	 and	dirt	 of	 the	East-End and	the	poverty	of	the	people	depress	her.	But	her	ego is	 ambitious:	 it	 wants	 to	 be	 better.	 It	 wants	 to	 show other	egos	how	charitable	it	is.	So	she	drives	herself	on until	she	reaches	the	slummy	house	of	a	poor	woman, whose	husband	had	left	her	destitute	with	four	young children.	 She	 was	 to	 enquire	 into	 the	 needs	 of	 the
+
+woman	for	 the	National	Assistance	Board.	But	before our	good	lady	had	a	chance	to	start	on	her	enquiries, she	 was	 so	 appalled	 by	 all	 the	 filth	 and	 neglect	 she found,	 that	 she	 gave	 the	 East-End	 woman	 a	 good telling	off.	This	ended	with	a	flaming	row,	some	juicy curses	and	 the	 front-door	being	 slammed	behind	our charitable	 lady.	Even	 in	 the	case	of	a	genuinely	good and	 kind-hearted	 woman,	 it	 is	 always	 a	 mistake	 to drive	 herself	 too	 hard.	 I	 know	 a	 woman	 who,	 as	 I should	put	 it,	 is	 too	much	of	 a	perfectionist	 in	 being virtuous.	Consequently,	there	is	a	bit	of	false	holiness about	 her,	 which	manifests	 itself	 through	 a	 touch	 of narrow-mindedness	and	a	lack	of	sense	of	humour.	In one	 word,	 she	 is	 not	 emotionally	 balanced—she	 has not	come	to	terms	with	her	shadow.	There	is	still	quite a	 bit	 of	 ego	 in	 her	which	wants	 to	 be	 virtuous.	And now	 we	 come	 to	 the	 danger	 of	 not	 wanting	 to	 face one’s	shadow—to	face	one’s	ego.	If—as	I	have	pointed out	just	now—you	are	at	least	partially	aware	of	your faults	 and	 weaknesses,	 this	 is	 already	 a	 great	 help; even	if	you	go	about	the	wrong	way	to	improve	them. For	 there	won’t	 be	 a	 total	 repression	as	 a	 result.	But, on	 the	 other	 hand,	 if	 a	 person	 completely	 represses one	 or	 the	 other	 weakness	 in	 him,	 this	 might	 have quite	serious	consequences.
+
+To	quote	another	example	of	a	very	light	case	in	this direction.	 I	 knew	a	man	who	was	one	of	 the	world’s
+
+greatest	fussers.	Always	agitated,	always	nervous.	But he	would	never	 admit	 it—not	 even	 to	himself.	 So	he projected	his	weakness	onto	his	wife.	At	 the	slightest trouble,	 he	 used	 to	 say	 to	 her:	 “For	 goodness	 sake, woman,	don’t	fuss	so	much!	Keep	your	hat	on!”	Until she	herself	and	all	their	friends	really	believed	that	she was	the	culprit.	Only	after	the	husband’s	death	did	we all	 discover,	 somewhat	 to	 our	 surprise,	 that	 the woman	wasn’t	really	a	nervous	type	at	all.
+
+Before	we	deal	with	the	Buddhist	way	of	coming	to terms	with	one’s	shadow—or	rather	of	transcending	it by	 true	 acceptance—let	 us	 have	 a	 quick	 look	 at	 the psychiatrist’s	 treatment.	 It	 will	 be	 interesting	 to	 try and	 find	 out	 how	 much	 these	 two	 ways	 have	 in common,	but	also	where	and	how	they	differ.
+
+As	 I	 already	pointed	out	 at	 the	beginning,	 it	 is	 the psychiatrist—a	 doctor—who	 gives	 the	 patient	 a helping	 hand	 throughout	 the	 treatment,	 while	 the Buddhist	 has	 to	 do	 the	 job	 entirely	 on	 his	 own.	 The psychiatrist’s	 function	 as	 a	 doctor	might	 increase	 the patient’s	 repressed	 fear—for	 this	 doctor-patient relationship	brings	it	more	clearly	to	his	mind	that	he is	 mentally	 ill.	 Thus	 this	 relationship	 has	 its	 very foundation	 in	discrimination:	well	and	 ill;	giving	and taking.	 So	 however	 skilled	 the	 psychiatrist	 is,	 there always	must	be	a	certain	barrier	of	fear	and	shame	and all	sorts	of	emotions	between	him	and	the	patient.	On
+
+the	 other	 hand,	 the	psychiatrist	 is	 also	 often	used	by the	patient	to	project	his	own	emotions	onto,	which	is an	 escape,	 rather	 than	 an	 acceptance	 of	 the	 true situation.
+
+Where,	however,	psychology	and	Buddhism	go,	 to quite	an	extent,	hand	in	hand,	is	the	mutual	discovery that	all	 the	various	 repressed	emotions	 constitute	 the shadow,	and	therefore	have	to	be	dug	out	and	brought up	 into	 day-light	 in	 order	 that	 the	 patient	 may	 be freed	from	suffering.	The	ways	and	means	adopted	by the	psychiatrist	 to	 achieve	 this,	 however,	 are	not	 our concern	here.
+
+Now	such	a	psychological	treatment	can	never	be	a 100%	 success,	 for	 it	 can	 never	 go	 deep	 enough	 to accept	 and	 thus	 transcend	 the	whole	 of	 the	 patient’s shadow.	As	 it	 is	 only	 partly	 direct	 and	 partly	 on	 an intellectual	 level,	 the	 repressed	 emotions	 of	 the	 past cannot	wholly	come	up	and	 thus	be	wholly	accepted in	the	here-and-now.
+
+Before	 I	 try	 and	 explain	 this	 more	 fully,	 let	 us	 go right	back	to	our	various	discriminations,	because	it	is already	 here	 that	 one	 of	 the	 fundamental	 differences between	 psychology	 and	 Buddhism	 lies.	 For Buddhism	teaches	us	the	way	to	transcend	the	I-am-I consciousness,	 which	 constitutes	 the	 ego,	 until	 that which	 lies	 beyond	 is	 realised.	 This	 is	 Nirvana,
+
+Enlightenment.	 For	 me	 to	 write	 about	 this,	 would mean	an	inflated	ego-article—so	I	shall	not	even	try	to lose	myself	 here.	 But	what	 I	 do	want	 to	 point	 out	 is that	Buddhism	regards	our	everyday	consciousness	as only	 one	 mode	 of	 awareness,	 and	 a	 completely ignorant	one	at	 that.	 It	 is—like	everything	else	 in	 the mundane	 world—impermanent	 and	 completely	 bare of	 any	 self:	 anicca,	 anattā.	Therefore	 to	pretend	 I	 am	I and	a	permanent	entity	on	top	of	that,	means	constant friction:	dukkha.
+
+Thus	 the	 ego	 equals	 ignorance;	 we	 should	 never forget	 this.	On	the	other	hand,	our	ego-consciousness is	 part	 and	 parcel	 of	 our	 manifestation.	 Now,	 this ignorance	 conditions	 our	 habit-patterns	 or	 karmic tendencies.	 What	 we	 Buddhists	 usually	 forget	 in everyday	life	is	the	fact	that	fundamentally	we	are	all equally	handicapped	all	the	time	by	this	universal	law of	ignorance.	We	might	say	it	 forms	a	huge	universal pattern—that	 of	 the	 wheel	 of	 birth	 and	 death— dependent	 origination—whose	 barriers	 we	 normally cannot	break	through.
+
+Now	 within	 this	 huge	 universal	 pattern	 of ignorance	each	individual	has	his	own	private	pattern of	 ignorance	 through	which	 the	 ego	manifests	 itself. And	 this	 private	 pattern	 of	 ignorance	 is,	 in	 turn, conditioned	 by	 the	 past	 and	 again	 conditions	 the future.
+
+When	we	 understand	 this	 a	 little,	 we	 will	 not	 fall into	the	error	of	condemning	our	ego	so	much,	which only	 results	 in	 our	 various	 guilt	 complexes.	 On	 the other	hand,	we	should	not	be	proud	of	our	ego	either, for	even	 in	our	very	best	moments	 in	 life	we	usually still	 act	 out	 of	 ignorance.	 That	 is	 why	 mindful watching	 should	 be	 practised	 without	 attraction	 or repulsion—without	praise	or	condemnation.
+
+This	 is	 why	 the	 shadow	 should	 be	 regarded	 as something	very	subjective	and	relative.	Surely	what	 I call	good	and	bad	are	not	absolute	categories,	but	rather flexible	concepts.	If	I	constantly	act	in	ignorance,	even the	so-called	good	is	only	relatively	good.	By	the	way, it	 always	 helps	 me	 to	 examine	 whether	 by	 my thoughts	 and	 acts	 I	 harm	 other	 people	 and	myself— for	I	always	harm	myself	when	I	harm	someone	else— or	whether	 I	don’t	 cause	any	harm.	This	 is,	 I	believe, the	 surest	 way	 of	 finding	 out	 whether	 my	 acts	 are good	or	bad	on	the	every-day	level	of	consciousness.
+
+Because	of	my	I-am-I	consciousness,	I	am	constantly in	a	whirlpool	of	emotions,	since	I	crave	for	and	cling to	all	the	many	objects	I	discriminate.	But	usually	I	am not	fully	aware	of	these	emotions,	as	some	are	already repressed	before	they	reach	full	consciousness.	Others are	 repressed	 at	 a	 later	 stage	 and	 thus	 the	 most intricate	 and	 complicated	 pattern	 of	 the	 shadow	 is formed.	 Repression	 is,	 after	 all,	 nothing	 else	 but	 a
+
+continuation	 of	 my	 attachment	 in	 the	 sub-	 or unconscious	level	of	the	mind.
+
+Underlying	all	my	personal	emotions	is	my	constant feeling	 of	 insecurity,	 which	 produces	 anxiety	 in general.	And	this	general	anxiety	springs	directly	from the	 force	 of	 attachment.	 Through	 discrimination	 we get	attachment—attachment	 to	 that	which	by	 its	very law	of	nature	cannot	be	attached	to.
+
+This	 is	 important	 to	 remember	 because	 it	 goes	 so much	deeper	than	the	psychologist’s	death-fear,	which is	considered	to	be	one	of	the	main	root-causes	for	all the	 patient’s	 trouble.	 But	 in	 Buddhism	 death-fear	 is only	 one	 of	 the	 many	 fears	 caused	 by	 attachment: attachment	 to	 this	 life,	 or	 we	 may	 say:	 negative attachment	 to	 death	 which,	 because	 of	 its	 very unknown	 nature,	 we	 fear.	 The	 root-cause	 for	 all	 our suffering	 in	 Buddhism,	 however,	 is	 the	 force	 of attachment	caused	through	our	discrimination,	which in	its	turn	is	caused	by	our	wrong	mode	of	awareness: I-am-I.
+
+So	 far,	 I	 have	 explained	 that	 all	 our	discrimination of	objects	and	emotions	are	relative,	because	 they	are made	in	complete	ignorance	of	the	nature	of	things	as they	 really	 are.	 When	 I	 put	 my	 imaginary	 precious little	 self	 in	 the	 centre	 of	 the	 Universe	 and	 look	 at anything	 and	 everything	 from	 the	point-of-view	of:	 I
+
+want	 or	 I	 don’t	 want,	 how	 can	 there	 ever	 be	 a realisation	of	what	is?	But	before	we	can	ever	hope	to have	 a	major	 break-through	 to	what	 is,	we	must	 first learn	how	to	come	to	terms	with	our	shadow.	And	the best	 way	 to	 do	 this	 is	 through	 the	 practice	 of mindfulness:	 Satipaṭṭhāna.	 It	 is	 the	 act	 of	 watching what	 is	 going	 on	 inside	 me,	 which	 makes	 the	 inner fade	 more	 and	 more	 into	 the	 background.	 I	 don’t speculate	what’s	 going	 on	 inside	 me,	 for	 I	 can	 never transcend	the	I	.	There	is	a	watching—or	rather	in	the beginning	there	is	a	watching	of	I	watch.	But	the	effort and	 concentration	 I	 put	 into	 the	watching	makes	 the act	 stronger	 and	 stronger	 and	 thus	 reduces	 the watcher	in	the	centre	more	and	more.
+
+When	 I	 first	 started	 the	 practice	 of	 mindfulness, there	 was	 still	 a	 big	 part	 of	 me,	 which	 violently revolted	 against	 this	 practice.	 I	 didn’t	 want	 to	 be mindful.	But	 then	the	I	can	never	be	mindful.	 If	 the	I watches,	there	is	no	act	of	mindfulness.	There	is	just	a chitchat	 of	 the	 mind,	 the	 lower	 mind,	 on	 the intellectual	 level.	 The	 I	 always	 thinks	 in	 terms	 of results:	good	and	bad.	“I	really	can’t	be	mindful	today; I’m	not	in	the	right	mood!”
+
+All	this,	I	found	out	later,	was	just	a	channel	for	the ego	 to	 come	 through,	 because	 it	 smelled	 danger,	 the danger	of	being	slain—of	being	eliminated;	even	at	a very	 long	 range.	 And	 yet	 in	 the	 midst	 of	 the	 most
+
+impenetrable	fog	of	 ignorance	there	seemed	to	be	the dawning	 light	 of	 insight.	 This	 discovery	 raised	 my faith	 and	 I	 started	 opening	 up	 to	 my	 teacher:	 the Buddha,	and	 to	 the	 teaching:	 the	Dhamma.	 This	 gave me	 strength	 until	 one	 day	 I	 made	 several	 more discoveries:	first,	that	this	was	not	a	case	of	results,	but that	 anything	 and	 everything	 can	 be	watched.	 Then, that	 there	 was	 neither	 action	 nor	 non-action	 on	 my part	 necessary,	 but	 just	 the	 act	 of	 watching.	 Four words	appeared	very	strongly	to	my	mind	again	and again:	 “Not	 volition—only	 prajña!”	 Not	 I	 want	 or	 I don’t	want;	only	seeing—understanding—knowing!
+
+The	 main	 thing	 about	 mindfulness	 is	 to	 catch	 the present	moment—the	here-and-now;	for	only	this	way can	the	ego	be	caught	red-handed.	Then	any	emotion, however	 unpleasant,	 can	 be	 completely	 transcended. On	the	other	hand,	if	the	watching	is	concentrated	on the	past	moment,	however	recently	past,	 then	the	I	 is the	 watcher	 and	 the	 act	 is	 no	 longer	 direct,	 but	 an intellectual	 re-collection	 of	what	 had	happened.	 It	 is, however,	the	middle-way	that	usually	happens	when	I apply	 mindfulness.	 There	 is	 just	 a	 part	 of	 the	 here-and-now	 being	 caught	 in	 the	 watching.	 But	 this	 is enough	 to	 up-root	 thoughts,	 emotions	 and	 sense-impressions	which	are	streaming	in	all	the	time,	until they	 all	 become	 disconnected	 and	 somehow dreamlike.	 This	 is	 quite	 a	 calming	 and	 soothing
+
+experience,	 for	 the	 ego	 is	 no	 longer	 being	 taken seriously	by	the	ego.	It	is	when	the	ego	is	a	little	out	of the	way,	when	the	time	has	come	to	link	up	with	the Buddha,	 which	 results	 in	 understanding	 more	 and more	 the	 working	 of	 the	 Dhamma.	 This	 might, perhaps,	 be	 called	 the	 first	 step	 towards	 abandoning the	ego.	 If,	on	the	other	hand,	 the,	ego	 is	 in	complete charge,	no	abandonment	is	possible.	While	the	true	act of	abandonment	is	a	complete	giving	up	of	one’s	will in	 all	 humility,	 knowing	 that	 the	 ego	 is	 nothing	 else but	ignorance	and	the	only	bar	towards	the	realisation of	what	is.
+
+Let	 us	 now	 come	 back	 to	 mindfulness	 and	 to	 our shadow.	 The	 greatest	 wonder	 about	 this	 Buddhist practice	of	mindfulness	to	me	is	the	realisation	that	the mere	seeing,	as	a	 result	of	 the	watching,	 is	 the	 cure	of any	 suffering.	We	 are	 so	 ego-ridden	 that	 we	 always think	 in	 terms	of:	 I	must	do	 this	or	 I	must	not	 do	 that. But	as	long	as	we	think	and	act	this	way,	we	can	never realise	what	 is.	 For	 the	what	 is	 is	 complete	 harmony and	 can	only	be	directly	 experienced.	Through	 the	 ego being	dropped	 for	 a	moment	by	 the	 act	 of	watching, there	is	a	flash	of	insight	into	the	true	nature	of	things. As	 a	 result,	 disharmony	 gives	 way	 to	 harmony; Samsara—our	vale	of	tears—to	Nirvana.	What	was	in the	 shade	 up	 to	 now	 is	 suddenly	 flooded	with	 light. How	 deep	 this	 flash	 of	 insight	 is,	 depends	 on	 the
+
+strength	of	 the	concentration—the	pure	attentiveness. How	far	the	ego	can	be	dropped.
+
+Speaking	about	myself,	the	ego	is	never	completely discarded—but	 readjusts	 itself	 in	 all	 sorts	 of	 subtle disguises	 soon	 enough.	 But,	 all	 the	 same,	 through these	 flashes	 of	 seeing—deeper	 or	 shallower	 as	 they may	be—several	of	my	habit-patterns	are	brought	up into	consciousness,	though	never	completely,	because the	 experience	 is	 not	 deep	 enough.	 Also,	 as	 my acceptance	 of	 these	 habit-patterns	 is	 not	 complete either,	some	parts	of	these	habits	are	quickly	repressed again.	They	are,	of	course,	so	 ingrained	through	lives and	lives	of	my	own	karmic	pattern	of	ignorance,	that they	plague	me	again	and	again.	I	 just	have	to	accept this	intellectually.
+
+One	discovery	I	made	through	watching	is	that	the make-up	 of	 one	 habit-pattern	 is	 exactly	 the	 same	 as another.	Let	me	quote	an	example:
+
+I	am	ambitious.	Say,	I	am	ambitious	to	get	a	certain job.	The	evening	before	my	interview	with	the	boss,	I suffer	agonies.	 In	 the	end,	out	of	 sheer	desperation,	 I practise	 mindfulness.	 The	 concentration	 of	 the watching	 is	 focussed	on	my	desire	 to	get	 the	 job:	my ambition.	Suddenly	there	is	a	flash	of	seeing.	I	realise that	I	actually	fear	my	ambition,	for	something	in	me knows	 that	 it	 makes	 me	 suffer	 terribly	 sometimes.
+
+And,	on	the	other	hand,	I	realise	too	that	at	the	same time	I	hang	my	security	onto	this	very	ambition.	In	the moment	 of	 seeing—in	 the	moment	 of	 detachment—I actually	 felt	 these	 two	 conflicting	 emotions	 within myself.	And	I	also	knew	that	the	friction	went	deeper than	 just	 with	 regard	 to	 my	 ambition.	 My	 fear	 was also	 the	 fear	 of	 the	 ego—my	 security,	 the	 security	 I endowed	the	ego	with.	And	so	we	go	on	all	the	time. Something	 in	 us	 knows	 better—but	 our	 constant feeling	 of	 insecurity	 drives	 us	 always	 on	 to	 believe desperately	in	our	own	ignorance!
+
+Fear	is	always	at	the	bottom	of	everything.	As	long as	 we	 are	 steeped	 in	 ignorance	 and	 experience constant	friction	within	us,	we	can’t	help	being	afraid. One	day	I	also	found	out	that	my	habit-patterns	were, to	 a	 great	 extent,	made	up	 by	my	very	 fear	 of	 them, my	repressed	fear	of	many,	many	lives.	And	I	saw	that through	my	 ignorance	 I	 only	 react	 to	what	 I	 think	 is life—instead	 of	 living	 it	 directly.	 Perhaps	 it	 is	 now	 a little	clearer,	why	the	ego	doesn’t	really	exist.	And	yet it	does	 exist	 in	 the	 form	of	 a	powerful	 force,	which	 I might	call	the	ego-force	or	the	force	of	attachment.
+
+We	 can	 therefore	 say	 that	 attachment	 is	 suffering, while	detachment	is	the	cure,	the	healing	of	suffering. That	 is	 the	 reason	 why	 the	 psychiatrist	 helps	 us	 to bring	 some	 of	 our	 repressions	 into	 consciousness, which	means	acceptance.	But	this	acceptance	can	only
+
+be	 partial,	 as	 long	 as	 the	 ego	 is	 still	 in	 the	 act	 of accepting	 through	 the	 every-day	mode	of	 awareness. Through	 the	 Buddhist	 practice	 of	 mindfulness, however,	 not	 only	 more	 expressions—and	 some	 of very	 long	 standing—are	 constantly	 popping	 up	 into consciousness,	 but	 the	 acceptance	 of	 these	 repressed emotions	is	on	a	much	deeper	level	too.	Sometimes	the results	of	this	practice	come	to	fruition	at	a	later	time, when	 the	 circumstances	 I	 find	 myself	 in	 are favourable.
+
+So,	 for	 instance,	when	 I	 coughed	up	a	 little	mucus one	day,	 a	 sudden	pang	of	death-fear	 came	up	quite unmistakably.	 Through	 my	 constant	 practice,	 this death-fear	was	getting	nearer	 and	nearer	 the	 level	 of consciousness	and	any	slight	indisposition	was	bound to	bring	some	of	it	up.
+
+Another	 day	 I	 sat	 in	 the	 dental	 chair.	 The	 dentist, who	is	excellent	and	in	whom	I	have	perfect	trust,	was just	filling	my	teeth,	when	suddenly	a	terrific	wave	of fear	 came	 up.	 I	 knew	 instantly	 what	 it	 was:	 Many, many	years	ago	back	in	Vienna,	when	my	sister	and	I were	 teenagers,	 our	 dentist	 one	 day	 cut	 my	 sister’s tongue	with	a	similar	instrument	and	so	badly,	that	he had	to	stitch	it	up.	I	happened	to	be	in	the	same	room when	 the	 accident	 occurred.	 The	 odd	 thing	was	 that even	 when	 the	 same	 Viennese	 dentist	 used	 this instrument	 on	 me	 after	 he	 had	 injured	 my	 sister,	 I
+
+never	 experienced	 any	 fear	 like	 that.	 I	 managed	 to repress	 it	somehow.	But	now,	this	repressed	fear	had come	 out,	 I	 shouldn’t	 think	 it	 will	 plague	 me	 any more.
+
+Though,	 no	 doubt,	 this	 experience	 was	 useful,	 it only	constituted	one	of	my	particular	repressed	fears. But	 I	must	 go	 deeper	 and	 deeper	 to	 get	 at	 the	 root-cause	 of	 my	 suffering:	 attachment	 to	 all	 the	 things which	can’t	be	attached	to.	I	can’t	afford	to	stop	at	any obvious	 success—I	must	go	on	watching	 relentlessly, however	hard	the	ego	kicks	within	me.	The	labels	are only	slapped	on	by	the	ego	itself.	It	is	its	own	private manifestation	 within	 the	 huge	 universal	 pattern	 of ignorance.	 And	 this	 private	 manifestation	 is	 our shadow.	Let	the	ego	reveal	it	to	us	more	and	more.	We will	 find	 that	 we	 will	 no	 longer	 take	 the	 ego	 so seriously	 as	 before—because	 we	 are	 already somewhat	 detached	 from	 our	 emotions—and	 there will	be	some	feeling	of	curiosity	too	as	to	which	part	of our	 shadow	 is	 popping	 up	 next.	 Shame	 and	 guilt-complexes	 are	 being	 replaced	 by	 much	 healthier states:	curiosity	and	humour.	For	sometimes	we	can’t help	laughing	at	our	own	folly!
+
+As	 I	 pointed	 out	 before,	 it	 is	 the	 full	 power	 of concentration	 in	 the	 act	 of	mindfulness	which	 brings about	the	momentary	disappearance	of	the	ego.	If	the present	moment	 is	completely	 filled	by	 the	watching,
+
+without	a	watcher	or	any	objects	 to	be	watched,	 then and	 only	 then,	 will	 the	 emotion	 we	 have	 just experienced	 the	 previous	 moment,	 be	 completely transcended.	 Then	 and	 only	 then,	 will	 there	 be	 a realisation	of	what	is.
+
+Of	 course,	 the	 same	 emotion	 is	 bound	 to	 come	up again	 later,	 for	 the	 habit-pattern	 is	 too	 strong	 to	 be broken	by	 single	moments	 of	 transcendence.	 But	 our shadow	 will	 he	 weakened	 and	 in	 time	 it	 may	 be replaced	 by	 healthier	 habits,	 as	 our	 insight	 into	 the true	nature	of	things	and	our	compassion	towards	all suffering	 of	 mankind	 grow.	 Insight	 and	 compassion always	 go	 together,	 they	 continuously	 complement each	 other.	And	 thus	 treading	 the	 Path,	 the	 day	will come	when,	 instead	of	 just	coming	 to	 terms	with	our shadow,	 our	 whole	 separate	 individuality	 will	 be transcended	altogether.	Then	the	goal	will	be	realised: Enlightenment—Nirvana!
+
+Finally,	let	us	remember	one	more	thing:	It	is	never we,	 who	 experience	 any	 realisation—who	 gain	 any insight	or	feel	any	compassion!	Let	us	accept	this	in	all humility!
+
+Table	of	Contents
+
+Title	page 2 Coming	To	Terms	With	One’s	Shadow 4
+

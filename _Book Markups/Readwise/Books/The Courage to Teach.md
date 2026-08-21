@@ -1,0 +1,110 @@
+# The Courage to Teach
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/51FRjCJgzzL._SL200_.jpg)
+
+## Metadata
+- Author: [[Parker J. Palmer]]
+- Full Title: The Courage to Teach
+- Category: #books
+
+## Highlights
+- and there are moments in the classroom when I can hardly hold the joy. ([Location 403](https://readwise.io/to_kindle?action=open&asin=B00D0I0FZY&location=403))
+    - Tags: [[pink]] 
+- the only way to get out of trouble is to go deeper in. ([Location 413](https://readwise.io/to_kindle?action=open&asin=B00D0I0FZY&location=413))
+    - Tags: [[orange]] 
+- We must enter, not evade, the tangles of teaching so we can understand them better and negotiate them with more grace, not only to guard our own spirits but also to serve our students well. ([Location 414](https://readwise.io/to_kindle?action=open&asin=B00D0I0FZY&location=414))
+    - Tags: [[pink]] 
+- First, the subjects we teach are as large and complex as life, so our knowledge of them is always flawed and partial. No matter how we devote ourselves to reading and research, teaching requires a command of content that always eludes our grasp. ([Location 417](https://readwise.io/to_kindle?action=open&asin=B00D0I0FZY&location=417))
+    - Tags: [[orange]] 
+- Second, the students we teach are larger than life and even more complex. To see them clearly and see them whole, and respond to them wisely in the moment, requires a fusion of Freud and Solomon that few of us achieve. ([Location 418](https://readwise.io/to_kindle?action=open&asin=B00D0I0FZY&location=418))
+- If students and subjects accounted for all the complexities of teaching, our standard ways of coping would do—keep up with our fields as best we can and learn enough techniques to stay ahead of the student psyche. But there is another reason for these complexities: we teach who we are. ([Location 420](https://readwise.io/to_kindle?action=open&asin=B00D0I0FZY&location=420))
+    - Tags: [[blue]] 
+- The entanglements I experience in the classroom are often no more or less than the convolutions of my inner life. ([Location 424](https://readwise.io/to_kindle?action=open&asin=B00D0I0FZY&location=424))
+- Viewed from this angle, teaching holds a mirror to the soul. If I am willing to look in that mirror and not run from what I see, I have a chance to gain selfknowledge—and knowing myself is as crucial to good teaching as knowing my students and my subject. ([Location 425](https://readwise.io/to_kindle?action=open&asin=B00D0I0FZY&location=425))
+    - Tags: [[pink]] 
+- When I do not know myself, I cannot know who my students are. ([Location 428](https://readwise.io/to_kindle?action=open&asin=B00D0I0FZY&location=428))
+    - Tags: [[orange]] 
+- The work required to “know thyself” is neither selfish nor narcissistic. ([Location 432](https://readwise.io/to_kindle?action=open&asin=B00D0I0FZY&location=432))
+    - Tags: [[pink]] 
+- Good teaching requires self-knowledge: ([Location 433](https://readwise.io/to_kindle?action=open&asin=B00D0I0FZY&location=433))
+- The pace of change has us snarled in complexities, confusions, and conflicts that will diminish us, or do us in, if we do not enlarge our capacity to teach and to learn. ([Location 438](https://readwise.io/to_kindle?action=open&asin=B00D0I0FZY&location=438))
+    - Tags: [[orange]] 
+- But none of that will transform education if we fail to cherish—and challenge—the human heart that is the source of good teaching. ([Location 448](https://readwise.io/to_kindle?action=open&asin=B00D0I0FZY&location=448))
+    - Tags: [[blue]] 
+- what subjects shall we teach? ([Location 453](https://readwise.io/to_kindle?action=open&asin=B00D0I0FZY&location=453))
+    - Tags: [[orange]] 
+- “how” ([Location 454](https://readwise.io/to_kindle?action=open&asin=B00D0I0FZY&location=454))
+- what methods and techniques are required to teach well? ([Location 454](https://readwise.io/to_kindle?action=open&asin=B00D0I0FZY&location=454))
+- “why” ([Location 456](https://readwise.io/to_kindle?action=open&asin=B00D0I0FZY&location=456))
+    - Tags: [[pink]] 
+- for what purpose and to what ends do we teach? ([Location 456](https://readwise.io/to_kindle?action=open&asin=B00D0I0FZY&location=456))
+    - Tags: [[pink]] 
+- question—who is the self that teaches? How does the quality of my selfhood form—or deform—the way I relate to my students, my subject, my colleagues, my world? How can educational institutions sustain and deepen the selfhood from which good teaching comes? ([Location 457](https://readwise.io/to_kindle?action=open&asin=B00D0I0FZY&location=457))
+    - Tags: [[blue]] 
+- intellectual, ([Location 463](https://readwise.io/to_kindle?action=open&asin=B00D0I0FZY&location=463))
+    - Tags: [[pink]] 
+- emotional, ([Location 463](https://readwise.io/to_kindle?action=open&asin=B00D0I0FZY&location=463))
+    - Tags: [[orange]] 
+- spiritual—and ([Location 463](https://readwise.io/to_kindle?action=open&asin=B00D0I0FZY&location=463))
+- Reduce teaching to intellect, and it becomes a cold abstraction; reduce it to emotions, and it becomes narcissistic; reduce it to the spiritual, and it loses its anchor to the world. ([Location 463](https://readwise.io/to_kindle?action=open&asin=B00D0I0FZY&location=463))
+    - Tags: [[blue]] 
+- as important as methods may be, the most practical thing we can achieve in any kind of work is insight into what is happening inside us as we do it. The more familiar we are with our inner terrain, the more surefooted our teaching—and living—becomes. ([Location 483](https://readwise.io/to_kindle?action=open&asin=B00D0I0FZY&location=483))
+    - Tags: [[orange]] 
+- education—teachers possess the power to create conditions that can help students learn a great deal—or keep them from learning much at all. ([Location 502](https://readwise.io/to_kindle?action=open&asin=B00D0I0FZY&location=502))
+    - Tags: [[orange]] 
+- Teaching is the intentional act of creating those conditions, and good teaching requires that we understand the inner sources of both the intent and the act. ([Location 503](https://readwise.io/to_kindle?action=open&asin=B00D0I0FZY&location=503))
+- the selfhood of the teacher is key. ([Location 511](https://readwise.io/to_kindle?action=open&asin=B00D0I0FZY&location=511))
+    - Tags: [[orange]] 
+- “Who is the self that teaches?” ([Location 512](https://readwise.io/to_kindle?action=open&asin=B00D0I0FZY&location=512))
+    - Tags: [[blue]] 
+- grateful for another chance to teach; ([Location 530](https://readwise.io/to_kindle?action=open&asin=B00D0I0FZY&location=530))
+    - Tags: [[orange]] 
+- The students in my first section were silent as monks. Despite my shameless pleading, I could not buy a response from them, and I soon found myself sinking into one of my oldest phobias: I must be very boring to anesthetize, so quickly, these young people who only moments earlier had been alive with hallway chatter. ([Location 534](https://readwise.io/to_kindle?action=open&asin=B00D0I0FZY&location=534))
+- In the second section they talked, but the talk flared into conflict as one student insisted that the concerns of another student were “petty” and did not deserve attention. I masked my irritation and urged open listening to diverse views, but the air was already polluted, and the dialogue died. That, of course, sank me into another ancient angst: how awkward I am at dealing with conflict when my students decide to start talking! ([Location 536](https://readwise.io/to_kindle?action=open&asin=B00D0I0FZY&location=536))
+    - Tags: [[orange]] 
+- But when I walk into a new class, it is as if I am starting over. ([Location 541](https://readwise.io/to_kindle?action=open&asin=B00D0I0FZY&location=541))
+    - Tags: [[blue]] 
+- Face to face with my students, only one resource is at my immediate command: my identity, my selfhood, ([Location 545](https://readwise.io/to_kindle?action=open&asin=B00D0I0FZY&location=545))
+    - Tags: [[blue]] 
+- my sense of this “I” who teaches—without which I have no sense of the “Thou” who learns. ([Location 546](https://readwise.io/to_kindle?action=open&asin=B00D0I0FZY&location=546))
+    - Tags: [[blue]] 
+- good teaching cannot be reduced to technique; good teaching comes from the identity and integrity of the teacher. ([Location 548](https://readwise.io/to_kindle?action=open&asin=B00D0I0FZY&location=548))
+    - Tags: [[pink]] 
+- The premise is simple, but its implications are not. It will take time to unfold what I do and do not mean by those words. But here is one way to put it: in every class I teach, my ability to connect with my students, and to connect them with the subject, depends less on the methods I use than on the degree to which I know and trust my selfhood—and am willing to make it available and vulnerable in the service of learning. ([Location 549](https://readwise.io/to_kindle?action=open&asin=B00D0I0FZY&location=549))
+    - Tags: [[orange]] 
+- “Their words float somewhere in front of their faces, like the balloon speech in cartoons.” ([Location 560](https://readwise.io/to_kindle?action=open&asin=B00D0I0FZY&location=560))
+    - Tags: [[blue]] 
+- Bad teachers distance themselves from the subject they are teaching—and in the process, from their students. Good teachers join self and subject and students in the fabric of life. ([Location 562](https://readwise.io/to_kindle?action=open&asin=B00D0I0FZY&location=562))
+    - Tags: [[orange]] 
+- Good teachers possess a capacity for connectedness. They are able to weave a complex web of connections among themselves, their subjects, and their students so that students can learn to weave a world for themselves. ([Location 563](https://readwise.io/to_kindle?action=open&asin=B00D0I0FZY&location=563))
+- The connections made by good teachers are held not in their methods but in their hearts—meaning heart in its ancient sense, as the place where intellect and emotion and spirit and will converge in the human self. ([Location 566](https://readwise.io/to_kindle?action=open&asin=B00D0I0FZY&location=566))
+    - Tags: [[blue]] 
+- The courage to teach is the courage to keep one’s heart open in those very moments when the heart is asked to hold more than it is able so that teacher and students and subject can be woven into the fabric of community that learning, and living, require. ([Location 570](https://readwise.io/to_kindle?action=open&asin=B00D0I0FZY&location=570))
+    - Tags: [[pink]] 
+- If identity and integrity are more fundamental to good teaching than technique—and if we want to grow as teachers—we must do something alien to academic culture: we must talk to each other about our inner lives—risky ([Location 584](https://readwise.io/to_kindle?action=open&asin=B00D0I0FZY&location=584))
+    - Tags: [[pink]] 
+- If we stopped lobbing pedagogical points at each other and spoke about who we are as teachers, a remarkable thing might happen: identity and integrity might grow within us and among us, instead of hardening as they do when we defend our fixed positions from the foxholes of the pedagogy wars. ([Location 597](https://readwise.io/to_kindle?action=open&asin=B00D0I0FZY&location=597))
+    - Tags: [[blue]] 
+- Identity and integrity have as much to do with our shadows and limits, our wounds and fears, as with our strengths and potentials. ([Location 603](https://readwise.io/to_kindle?action=open&asin=B00D0I0FZY&location=603))
+    - Tags: [[pink]] 
+- By identity I mean an evolving nexus where all the forces that constitute my life converge in the mystery of self: my genetic make-up, the nature of the man and woman who gave me life, the culture in which I was raised, people who have sustained me and people who have done me harm, the good and ill I have done to others and to myself, the experience of love and suffering—and much, much more. In the midst of that complex field, identity is a moving intersection of the inner and outer forces that make me who I am, converging in the irreducible mystery of being human. ([Location 605](https://readwise.io/to_kindle?action=open&asin=B00D0I0FZY&location=605))
+- discern what is integral to my selfhood, what fits and what does not—and ([Location 611](https://readwise.io/to_kindle?action=open&asin=B00D0I0FZY&location=611))
+    - Tags: [[orange]] 
+- Identity lies in the intersection of the diverse forces that make up my life, and integrity lies in relating to those forces in ways that bring me wholeness and life rather than fragmentation and death. ([Location 615](https://readwise.io/to_kindle?action=open&asin=B00D0I0FZY&location=615))
+    - Tags: [[orange]] 
+- He was insecure with fellow students and, later, with academic colleagues who came from backgrounds he saw as more “cultured” than his own. He learned to speak and act like an intellectual, but he always felt fraudulent among people who were, in his eyes, to the manor born. ([Location 631](https://readwise.io/to_kindle?action=open&asin=B00D0I0FZY&location=631))
+    - Tags: [[blue]] 
+- He made pronouncements rather than probes. ([Location 634](https://readwise.io/to_kindle?action=open&asin=B00D0I0FZY&location=634))
+    - Tags: [[pink]] 
+- In his lectures, every move Alan made was informed by attention to detail and respect for the materials at hand; he connected ideas with the precision of dovetail joinery and finished the job with a polished summary. ([Location 648](https://readwise.io/to_kindle?action=open&asin=B00D0I0FZY&location=648))
+    - Tags: [[pink]] 
+- if his alienation had led to self-reflection instead of self-defense—it is possible that he, like Alan, could have found integrity in his academic vocation, ([Location 659](https://readwise.io/to_kindle?action=open&asin=B00D0I0FZY&location=659))
+- Experimentation is risky. ([Location 671](https://readwise.io/to_kindle?action=open&asin=B00D0I0FZY&location=671))
+    - Tags: [[blue]] 
+- Staying open to new meetings, trying to distinguish those that have integrity from those that do not, is a tiring and sometimes frightening task. I am often tempted to protect my sense of self behind barricades of status or role, to withhold myself from colleagues or students or ideas and from the collisions we will surely have. ([Location 674](https://readwise.io/to_kindle?action=open&asin=B00D0I0FZY&location=674))
+- No matter how technical my subject may be, the things I teach are things I care about—and ([Location 684](https://readwise.io/to_kindle?action=open&asin=B00D0I0FZY&location=684))
+    - Tags: [[orange]] 
+- As we try to connect ourselves and our subjects with our students, we make ourselves, as well as our subjects, vulnerable to indifference, judgment, ridicule. ([Location 690](https://readwise.io/to_kindle?action=open&asin=B00D0I0FZY&location=690))
+    - Tags: [[orange]] 
+- Though the academy claims to value multiple modes of knowing, it honors only one—an “objective” way of knowing that takes us into the “real” world by taking us “out of ourselves.” ([Location 697](https://readwise.io/to_kindle?action=open&asin=B00D0I0FZY&location=697))
+    - Tags: [[orange]] 

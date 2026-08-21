@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">113</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bfc1f94e-677c-4ba3-84d3-af0a28f55408</dc:identifier>
+        <dc:title>The Sound of Silence</dc:title>
+        <dc:creator opf:file-as="Amaro, Ajahn Sumedho Preface;Introduction by Ajahn" opf:role="aut">Ajahn Sumedho Preface;Introduction by Ajahn Amaro</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.9.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-31T04:00:00+00:00</dc:date>
+        <dc:publisher>Wisdom Publications</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Ajahn Sumedho Preface;Introduction by Ajahn Amaro&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-01-29T04:02:03.780000+00:00" name="calibre:timestamp"/>
+        <meta content="Sound of Silence, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

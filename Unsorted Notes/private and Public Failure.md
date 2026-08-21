@@ -1,0 +1,1 @@
+https://search.app?link=https%3A%2F%2Fbigthink.com%2Fbusiness%2Fhow-the-two-day-rule-can-make-your-daily-work-life-much-easier%2F&utm_campaign=aga&utm_source=agsadl2%2Csh%2Fx%2Fgs%2Fm2%2F4

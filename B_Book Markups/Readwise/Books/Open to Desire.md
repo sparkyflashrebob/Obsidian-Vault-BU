@@ -1,0 +1,158 @@
+# Open to Desire
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/51WtpZ5LuCL._SL200_.jpg)
+
+## Metadata
+- Author: [[Mark Epstein]]
+- Full Title: Open to Desire
+- Category: #books
+
+## Highlights
+- A man sits in the center of a Middle Eastern marketplace crying his eyes out, a platter of peppers spilled out on the ground before him. Steadily and methodically, he reaches for pepper after pepper, popping them into his mouth and chewing deliberately, at the same time wailing uncontrollably. “What’s wrong, Nasruddin?” his friends wonder, gathering around the extraordinary sight. “What’s the matter with you?” Tears stream down Nasruddin’s face as he sputters an answer. “I’m looking for a sweet one,” he gasps. ([Location 80](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=80))
+    - Tags: [[orange]] 
+- Struggling against the tide of disappointment, we continue to search for a sweet one. ([Location 90](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=90))
+    - Tags: [[pink]] 
+- As Freud liked to say, there is an “unbridgeable gap”1 ([Location 93](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=93))
+    - Tags: [[orange]] 
+- between desire and satisfaction, ([Location 94](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=94))
+    - Tags: [[orange]] 
+- despite his tears, there is pleasure that comes in the looking. ([Location 104](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=104))
+    - Tags: [[orange]] 
+- Over and over again, they engage in behaviors that from any rational standpoint they should abandon. ([Location 106](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=106))
+    - Tags: [[orange]] 
+- dukkha, ([Location 119](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=119))
+- “pervasive unsatisfactoriness,” ([Location 120](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=120))
+- I witnessed a general valorization of the state of “having no preferences,” a demonization of desire. ([Location 127](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=127))
+    - Tags: [[orange]] 
+- The Man Without Qualities ([Location 129](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=129))
+    - Tags: [[orange]] 
+- The problem with denying any aspect of the self is that it persists as a shadow. ([Location 135](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=135))
+    - Tags: [[pink]] 
+- In fact, one of the things I was struck by was how prodigiously people had been using the Eastern spiritual traditions to try to serve a therapeutic function. ([Location 147](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=147))
+    - Tags: [[blue]] 
+- tantric, ([Location 163](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=163))
+    - Tags: [[orange]] 
+- “left-handed” path, ([Location 163](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=163))
+    - Tags: [[orange]] 
+- desire is the human response to the discontent described in the Buddha’s First Noble Truth. It is the energy that strives for transcendence but, if it is to truly accomplish its goals, the seeker must learn to relate to it differently. ([Location 165](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=165))
+    - Tags: [[pink]] 
+- learn how to use desire instead of being used by it. ([Location 167](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=167))
+- Desire is a teacher: When we immerse ourselves in it without guilt, shame or clinging, it can show us something special about our own minds that allows us to embrace life fully. ([Location 171](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=171))
+    - Tags: [[orange]] 
+- gnawing sense of incompleteness ([Location 174](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=174))
+    - Tags: [[orange]] 
+- Second Law of Thermodynamics (that every isolated thing is moving toward a more disorganized state) ([Location 174](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=174))
+    - Tags: [[blue]] 
+- Freud’s reality principle (that pleasure cannot be maintained indefinitely but must always give way to unpleasure), ([Location 175](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=175))
+    - Tags: [[pink]] 
+- three marks of existence, ([Location 177](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=177))
+    - Tags: [[orange]] 
+- yearning or longing ([Location 178](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=178))
+- depressive position. ([Location 178](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=178))
+- In the curious reverse language of psychoanalysis, the depressive position is considered a developmental achievement because it acknowledges the feelings that come with an acceptance of separateness. ([Location 178](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=178))
+    - Tags: [[pink]] 
+- The ability to see things the way they are, not to expect constant gratification but to understand that all things are limited, is what allows for personal growth. ([Location 180](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=180))
+    - Tags: [[orange]] 
+- Desire is a natural response to the reality of suffering. ([Location 182](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=182))
+- We feel incomplete and desire completeness; we feel unrest and desire ease; we feel insecurity and desire comfort; we feel alone and desire connection. ([Location 182](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=182))
+    - Tags: [[orange]] 
+- Our experience of life, our very personalities, are shaped by dukkha, and our response is infused with desire. Desire is the crucible within which the self is formed. ([Location 183](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=183))
+- In this way of thinking, desire is our vitality, an essential component of our human experience, that which gives us our individuality and at the same time keeps prodding us out of ourselves. ([Location 185](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=185))
+- tanha, ([Location 195](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=195))
+    - Tags: [[orange]] 
+- “thirst,” ([Location 195](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=195))
+    - Tags: [[orange]] 
+- “craving.” ([Location 195](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=195))
+    - Tags: [[orange]] 
+- clinging: ([Location 196](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=196))
+    - Tags: [[orange]] 
+- the attempt to hold on to an ungraspable experience, ([Location 196](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=196))
+    - Tags: [[pink]] 
+- To set desire up as the enemy and then try to eliminate it is to seek to destroy one of our most precious human qualities, our natural response to the truth of suffering. ([Location 197](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=197))
+    - Tags: [[orange]] 
+- Hidden within its vast panoply of teachings, in fact, was a way of working with desire that completely contradicts the usual interpretation of Buddhism as encouraging renunciation and detachment. ([Location 200](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=200))
+- mental exercise, ([Location 211](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=211))
+    - Tags: [[orange]] 
+- longing becomes a teacher in its own right. ([Location 212](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=212))
+    - Tags: [[pink]] 
+- make desire into a meditation. ([Location 212](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=212))
+    - Tags: [[blue]] 
+# Open to Desire
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/51WtpZ5LuCL._SL200_.jpg)
+
+## Metadata
+- Author: [[Mark Epstein]]
+- Full Title: Open to Desire
+- Category: #books
+
+## Highlights
+- A man sits in the center of a Middle Eastern marketplace crying his eyes out, a platter of peppers spilled out on the ground before him. Steadily and methodically, he reaches for pepper after pepper, popping them into his mouth and chewing deliberately, at the same time wailing uncontrollably. “What’s wrong, Nasruddin?” his friends wonder, gathering around the extraordinary sight. “What’s the matter with you?” Tears stream down Nasruddin’s face as he sputters an answer. “I’m looking for a sweet one,” he gasps. ([Location 80](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=80))
+    - Tags: [[orange]] 
+- Struggling against the tide of disappointment, we continue to search for a sweet one. ([Location 90](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=90))
+    - Tags: [[pink]] 
+- As Freud liked to say, there is an “unbridgeable gap”1 ([Location 93](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=93))
+    - Tags: [[orange]] 
+- between desire and satisfaction, ([Location 94](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=94))
+    - Tags: [[orange]] 
+- despite his tears, there is pleasure that comes in the looking. ([Location 104](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=104))
+    - Tags: [[orange]] 
+- Over and over again, they engage in behaviors that from any rational standpoint they should abandon. ([Location 106](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=106))
+    - Tags: [[orange]] 
+- dukkha, ([Location 119](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=119))
+- “pervasive unsatisfactoriness,” ([Location 120](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=120))
+- I witnessed a general valorization of the state of “having no preferences,” a demonization of desire. ([Location 127](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=127))
+    - Tags: [[orange]] 
+- The Man Without Qualities ([Location 129](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=129))
+    - Tags: [[orange]] 
+- The problem with denying any aspect of the self is that it persists as a shadow. ([Location 135](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=135))
+    - Tags: [[pink]] 
+- In fact, one of the things I was struck by was how prodigiously people had been using the Eastern spiritual traditions to try to serve a therapeutic function. ([Location 147](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=147))
+    - Tags: [[blue]] 
+- tantric, ([Location 163](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=163))
+    - Tags: [[orange]] 
+- “left-handed” path, ([Location 163](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=163))
+    - Tags: [[orange]] 
+- desire is the human response to the discontent described in the Buddha’s First Noble Truth. It is the energy that strives for transcendence but, if it is to truly accomplish its goals, the seeker must learn to relate to it differently. ([Location 165](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=165))
+    - Tags: [[pink]] 
+- learn how to use desire instead of being used by it. ([Location 167](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=167))
+- Desire is a teacher: When we immerse ourselves in it without guilt, shame or clinging, it can show us something special about our own minds that allows us to embrace life fully. ([Location 171](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=171))
+    - Tags: [[orange]] 
+- gnawing sense of incompleteness ([Location 174](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=174))
+    - Tags: [[orange]] 
+- Second Law of Thermodynamics (that every isolated thing is moving toward a more disorganized state) ([Location 174](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=174))
+    - Tags: [[blue]] 
+- Freud’s reality principle (that pleasure cannot be maintained indefinitely but must always give way to unpleasure), ([Location 175](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=175))
+    - Tags: [[pink]] 
+- three marks of existence, ([Location 177](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=177))
+    - Tags: [[orange]] 
+- yearning or longing ([Location 178](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=178))
+- depressive position. ([Location 178](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=178))
+- In the curious reverse language of psychoanalysis, the depressive position is considered a developmental achievement because it acknowledges the feelings that come with an acceptance of separateness. ([Location 178](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=178))
+    - Tags: [[pink]] 
+- The ability to see things the way they are, not to expect constant gratification but to understand that all things are limited, is what allows for personal growth. ([Location 180](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=180))
+    - Tags: [[orange]] 
+- Desire is a natural response to the reality of suffering. ([Location 182](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=182))
+- We feel incomplete and desire completeness; we feel unrest and desire ease; we feel insecurity and desire comfort; we feel alone and desire connection. ([Location 182](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=182))
+    - Tags: [[orange]] 
+- Our experience of life, our very personalities, are shaped by dukkha, and our response is infused with desire. Desire is the crucible within which the self is formed. ([Location 183](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=183))
+- In this way of thinking, desire is our vitality, an essential component of our human experience, that which gives us our individuality and at the same time keeps prodding us out of ourselves. ([Location 185](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=185))
+- tanha, ([Location 195](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=195))
+    - Tags: [[orange]] 
+- “thirst,” ([Location 195](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=195))
+    - Tags: [[orange]] 
+- “craving.” ([Location 195](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=195))
+    - Tags: [[orange]] 
+- clinging: ([Location 196](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=196))
+    - Tags: [[orange]] 
+- the attempt to hold on to an ungraspable experience, ([Location 196](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=196))
+    - Tags: [[pink]] 
+- To set desire up as the enemy and then try to eliminate it is to seek to destroy one of our most precious human qualities, our natural response to the truth of suffering. ([Location 197](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=197))
+    - Tags: [[orange]] 
+- Hidden within its vast panoply of teachings, in fact, was a way of working with desire that completely contradicts the usual interpretation of Buddhism as encouraging renunciation and detachment. ([Location 200](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=200))
+- mental exercise, ([Location 211](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=211))
+    - Tags: [[orange]] 
+- longing becomes a teacher in its own right. ([Location 212](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=212))
+    - Tags: [[pink]] 
+- make desire into a meditation. ([Location 212](https://readwise.io/to_kindle?action=open&asin=B000PC71ZK&location=212))
+    - Tags: [[blue]] 

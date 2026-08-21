@@ -1,0 +1,4 @@
+---
+tag: know for yourselves
+---
+“Kālāmas, don’t go by reports, by legends, by traditions, by scripture, by logical conjecture, by inference, by analogies, by agreement through pondering views, by probability, or by the thought, ‘This contemplative is our teacher.’ When you know for yourselves that, ‘These dhammas are unskillful; these dhammas are blameworthy; these dhammas are criticized by the wise; these dhammas, when adopted & carried out, lead to harm & to suffering’—then you should abandon them.… When you know for yourselves that, ‘These dhammas are skillful; these dhammas are blameless; these dhammas are praised by the wise; these dhammas, when adopted & carried out, lead to welfare & to happiness’— then you should enter & remain in them.” – AN 3:65

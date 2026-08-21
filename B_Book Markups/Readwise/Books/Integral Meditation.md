@@ -1,0 +1,206 @@
+# Integral Meditation
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/51ONWO0LeCL._SL200_.jpg)
+
+## Metadata
+- Author: [[Ken Wilber]]
+- Full Title: Integral Meditation
+- Category: #books
+
+## Highlights
+- two very different types of growth and development—and ([Location 67](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=67))
+- Growing Up ([Location 70](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=70))
+    - Tags: [[blue]] 
+- Waking Up ([Location 71](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=71))
+    - Tags: [[blue]] 
+- Integral Mindfulness uses standard mindfulness, but it combines that with many of the breakthrough insights of that leading-edge model that I mentioned earlier, which is generally called Integral Theory and Practice, and it uses that framework to refine and focus, even further, the areas of your life to which you can apply mindfulness—hence, increasing the number of areas in which you can achieve flow states. ([Location 153](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=153))
+- stages of Growing Up—those ([Location 157](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=157))
+    - Tags: [[blue]] 
+- Now, these maps cannot be discovered merely by introspecting, or examining our awareness. ([Location 172](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=172))
+    - Tags: [[pink]] 
+- We can’t find the rules of grammar just by looking within. ([Location 173](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=173))
+    - Tags: [[orange]] 
+- “structures of consciousness”—weren’t ([Location 176](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=176))
+- Contrast this with “states of consciousness”—those are structures ([Location 179](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=179))
+    - Tags: [[blue]] 
+- States were discovered by humans, as we earlier noted, at least 50,000 years ago, going back at least to the earliest shamans and medicine folk with their vision quests. ([Location 184](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=184))
+- structures—the ([Location 197](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=197))
+- hidden maps—are the basis of Growing Up; ([Location 197](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=197))
+- states of consciousness, leading to Awakening and Enlightenment, are the basis of Waking Up. ([Location 198](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=198))
+    - Tags: [[blue]] 
+- Of course, with Growing Up, the only way to jettison the influence of the lower, less developed hidden maps is to first discover them, to become aware of them. ([Location 206](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=206))
+- And once you discover one of these hidden maps, and decide that it is, indeed, a bit outdated or shopworn or inappropriate for your age today, or if it’s just plain wrong, you need to, as it were, dig it up and replace it. ([Location 208](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=208))
+    - Tags: [[blue]] 
+- And the digging-up part is exactly where mindfulness can be so powerful. At this point, it becomes the same mindfulness as regular mindfulness—consistent and bare attention to a phenomenon arising in the present moment—but the phenomenon that is arising is something that the meditative traditions knew nothing of, but Integral Theory will directly show you (namely, a stage of Growing Up). ([Location 209](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=209))
+    - Tags: [[pink]] 
+- “everybody is right”—to ([Location 247](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=247))
+- “How can we put them all together?” ([Location 247](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=247))
+- “A-Q-A-L,” ([Location 255](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=255))
+    - Tags: [[blue]] 
+- “all quadrants, all levels,” ([Location 255](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=255))
+- “garbage in, garbage out”—if ([Location 264](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=264))
+    - Tags: [[pink]] 
+- Two Types of Spirituality ([Location 273](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=273))
+- “spiritual” ([Location 275](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=275))
+    - Tags: [[blue]] 
+- “religion” ([Location 276](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=276))
+    - Tags: [[pink]] 
+- narrative, ([Location 282](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=282))
+- “mythic-literal.” ([Location 282](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=282))
+- fundamentalist ([Location 285](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=285))
+- The other type of spirituality is not a belief system, but a psychotechnology of consciousness transformation. It’s interested in changing states of consciousness. ([Location 294](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=294))
+    - Tags: [[pink]] 
+- These practices include mindfulness, which was originally a form of Buddhist meditation, with the goal of reaching the highest state, known as nirvana. Through mindfulness practice in the timeless Now, awareness could, the teachings said, enter into an experience of unity with the ultimate, limitless, unqualifiable, groundless Ground of All Being, a state known as Enlightenment, Liberation, or Awakening. ([Location 296](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=296))
+    - Tags: [[blue]] 
+- Essentially, what one is awakening from is the ceaseless, chaotic, incoherent thoughts and ways of framing reality that govern most human activity, generating endless states of suffering; and what one is awakening to is a pure, transparent, open, empty, clear awareness, free of incoherent and broken thoughts and frameworks. ([Location 299](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=299))
+    - Tags: [[orange]] 
+- It just so happens that it has a multitude of other, lesser, but still quite valuable effects, ranging from health benefits to psychological well-being to improved relationships. ([Location 304](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=304))
+- Your Personal Development ([Location 312](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=312))
+- 6-to-8 major levels of development. ([Location 319](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=319))
+    - Tags: [[blue]] 
+- Each stage of our development has its own grammar, its own structure, its own map of the territory it is being exposed to. ([Location 327](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=327))
+- transcend-and-include of its predecessor, ([Location 378](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=378))
+- “atoms to molecules to cells to organisms,” ([Location 381](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=381))
+    - Tags: [[blue]] 
+- addictions ([Location 387](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=387))
+    - Tags: [[orange]] 
+- dissociates and denies and splits off parts of it, ([Location 388](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=388))
+    - Tags: [[pink]] 
+- allergy ([Location 389](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=389))
+    - Tags: [[pink]] 
+- “Addictions and allergies” are the two universal problems built into each stage of evolution because of its inherent transcend-and-include nature. ([Location 389](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=389))
+- the desire for food—is ([Location 392](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=392))
+- If you’re at all hungry, focus on that desire; if not, imagine it. There is a deep, deep yearning, a powerfully primitive drive, to satisfy that most basic of desires—to eat, to become full, to not be hungry. When this drive arises in you, if you haven’t completely “transcended and included” it—that is, if you still have some sort of attachment to this stage, so that you have not just an oral drive but an oral fixation—then when this drive arises, it will temporarily take you over; it will have you, you won’t have it. ([Location 392](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=392))
+    - Tags: [[blue]] 
+- “hidden subject” ([Location 396](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=396))
+- all of you was identified with it; you didn’t have a desire to eat, you were the desire to eat—the world indeed was all food, and you were all mouth (hence, the “oral stage”). ([Location 403](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=403))
+- food addiction ([Location 405](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=405))
+    - Tags: [[blue]] 
+- most fundamental ([Location 410](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=410))
+    - Tags: [[pink]] 
+- least significant ([Location 410](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=410))
+    - Tags: [[orange]] 
+- In Integral Theory, in any nested growth hierarchy or “holarchy”—so named by Arthur Koestler because each senior stage holistically transcends and includes its junior stages—the “lower” or “junior” or “earlier” stages are more fundamental because the other items actually depend on them more for their existence. ([Location 410](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=410))
+- “holons”—wholes ([Location 420](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=420))
+- So particularly the next time hunger arises (whether you’re overweight or not), truly give it attention, give it mindfulness awareness. ([Location 433](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=433))
+- Where is this hunger desire located (head, mouth, heart, stomach, gut, hands, feet)? What color is it (just whatever comes to mind)? What shape is it (also, whatever comes to mind)? What does it smell like (whatever comes to mind)? ([Location 436](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=436))
+- Really feel the primitiveness and urgency, the driven-ness of this drive. Stay with that yearning urgency. Make that subjective drive an object of mindfulness, an object of awareness. Really look at it, long and steady. Feel it directly, with feeling-awareness, which can be seen as another term for “mindfulness.” ([Location 438](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=438))
+    - Tags: [[blue]] 
+- Alternatively, you might have not remained fixated at this stage, but gone to the other extreme, dis-identifying from it too much. ([Location 440](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=440))
+    - Tags: [[pink]] 
+- Normally, you should eventually dis-identify with each stage, ceasing to identify exclusively with its needs and drives while still keeping it in awareness: you no longer are it, you are aware of it—you “transcend and include” it. ([Location 441](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=441))
+    - Tags: [[orange]] 
+- But if that dis-identifying goes too far or is too extreme, you won’t just dis-identify; you will actually dis-own, dissociate from, or repress it. ([Location 443](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=443))
+- If this occurs at the oral stage, you will have, not a food addiction, but a food allergy. This might show up in anything from bulimia to anorexia or being chronically underweight. ([Location 444](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=444))
+    - Tags: [[blue]] 
+- Awareness itself has this transcend-and-include quality: it is aware of an object, and thus goes beyond it, but it also includes it, or actually “touches” it, much as a mirror directly touches all the images that are reflected in it. ([Location 450](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=450))
+    - Tags: [[pink]] 
+- So if you have dis-owned or denied these hunger drives, then what you can do is gently and carefully, but directly, look for hunger impulses and then just become steadily aware of them—simply holding them in the space of your feeling-awareness. ([Location 454](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=454))
+    - Tags: [[orange]] 
+- We’ll eventually see, as an actual experience, that this “one with” nature of awareness lies behind the capacity to feel “one with” the entire universe in a radical “unity consciousness.” ([Location 458](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=458))
+- Give the same mindful awareness to all of your fundamental physiological drives—not only for food, but for water, for warmth if too cold and for coolness if too hot, for shelter, for sleep. ([Location 462](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=462))
+- “bodymind dropped!”—our ([Location 466](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=466))
+    - Tags: [[blue]] 
+# Integral Meditation
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/51ONWO0LeCL._SL200_.jpg)
+
+## Metadata
+- Author: [[Ken Wilber]]
+- Full Title: Integral Meditation
+- Category: #books
+
+## Highlights
+- two very different types of growth and development—and ([Location 67](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=67))
+- Growing Up ([Location 70](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=70))
+    - Tags: [[blue]] 
+- Waking Up ([Location 71](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=71))
+    - Tags: [[blue]] 
+- Integral Mindfulness uses standard mindfulness, but it combines that with many of the breakthrough insights of that leading-edge model that I mentioned earlier, which is generally called Integral Theory and Practice, and it uses that framework to refine and focus, even further, the areas of your life to which you can apply mindfulness—hence, increasing the number of areas in which you can achieve flow states. ([Location 153](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=153))
+- stages of Growing Up—those ([Location 157](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=157))
+    - Tags: [[blue]] 
+- Now, these maps cannot be discovered merely by introspecting, or examining our awareness. ([Location 172](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=172))
+    - Tags: [[pink]] 
+- We can’t find the rules of grammar just by looking within. ([Location 173](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=173))
+    - Tags: [[orange]] 
+- “structures of consciousness”—weren’t ([Location 176](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=176))
+- Contrast this with “states of consciousness”—those are structures ([Location 179](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=179))
+    - Tags: [[blue]] 
+- States were discovered by humans, as we earlier noted, at least 50,000 years ago, going back at least to the earliest shamans and medicine folk with their vision quests. ([Location 184](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=184))
+- structures—the ([Location 197](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=197))
+- hidden maps—are the basis of Growing Up; ([Location 197](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=197))
+- states of consciousness, leading to Awakening and Enlightenment, are the basis of Waking Up. ([Location 198](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=198))
+    - Tags: [[blue]] 
+- Of course, with Growing Up, the only way to jettison the influence of the lower, less developed hidden maps is to first discover them, to become aware of them. ([Location 206](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=206))
+- And once you discover one of these hidden maps, and decide that it is, indeed, a bit outdated or shopworn or inappropriate for your age today, or if it’s just plain wrong, you need to, as it were, dig it up and replace it. ([Location 208](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=208))
+    - Tags: [[blue]] 
+- And the digging-up part is exactly where mindfulness can be so powerful. At this point, it becomes the same mindfulness as regular mindfulness—consistent and bare attention to a phenomenon arising in the present moment—but the phenomenon that is arising is something that the meditative traditions knew nothing of, but Integral Theory will directly show you (namely, a stage of Growing Up). ([Location 209](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=209))
+    - Tags: [[pink]] 
+- “everybody is right”—to ([Location 247](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=247))
+- “How can we put them all together?” ([Location 247](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=247))
+- “A-Q-A-L,” ([Location 255](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=255))
+    - Tags: [[blue]] 
+- “all quadrants, all levels,” ([Location 255](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=255))
+- “garbage in, garbage out”—if ([Location 264](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=264))
+    - Tags: [[pink]] 
+- Two Types of Spirituality ([Location 273](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=273))
+- “spiritual” ([Location 275](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=275))
+    - Tags: [[blue]] 
+- “religion” ([Location 276](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=276))
+    - Tags: [[pink]] 
+- narrative, ([Location 282](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=282))
+- “mythic-literal.” ([Location 282](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=282))
+- fundamentalist ([Location 285](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=285))
+- The other type of spirituality is not a belief system, but a psychotechnology of consciousness transformation. It’s interested in changing states of consciousness. ([Location 294](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=294))
+    - Tags: [[pink]] 
+- These practices include mindfulness, which was originally a form of Buddhist meditation, with the goal of reaching the highest state, known as nirvana. Through mindfulness practice in the timeless Now, awareness could, the teachings said, enter into an experience of unity with the ultimate, limitless, unqualifiable, groundless Ground of All Being, a state known as Enlightenment, Liberation, or Awakening. ([Location 296](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=296))
+    - Tags: [[blue]] 
+- Essentially, what one is awakening from is the ceaseless, chaotic, incoherent thoughts and ways of framing reality that govern most human activity, generating endless states of suffering; and what one is awakening to is a pure, transparent, open, empty, clear awareness, free of incoherent and broken thoughts and frameworks. ([Location 299](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=299))
+    - Tags: [[orange]] 
+- It just so happens that it has a multitude of other, lesser, but still quite valuable effects, ranging from health benefits to psychological well-being to improved relationships. ([Location 304](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=304))
+- Your Personal Development ([Location 312](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=312))
+- 6-to-8 major levels of development. ([Location 319](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=319))
+    - Tags: [[blue]] 
+- Each stage of our development has its own grammar, its own structure, its own map of the territory it is being exposed to. ([Location 327](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=327))
+- transcend-and-include of its predecessor, ([Location 378](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=378))
+- “atoms to molecules to cells to organisms,” ([Location 381](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=381))
+    - Tags: [[blue]] 
+- addictions ([Location 387](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=387))
+    - Tags: [[orange]] 
+- dissociates and denies and splits off parts of it, ([Location 388](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=388))
+    - Tags: [[pink]] 
+- allergy ([Location 389](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=389))
+    - Tags: [[pink]] 
+- “Addictions and allergies” are the two universal problems built into each stage of evolution because of its inherent transcend-and-include nature. ([Location 389](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=389))
+- the desire for food—is ([Location 392](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=392))
+- If you’re at all hungry, focus on that desire; if not, imagine it. There is a deep, deep yearning, a powerfully primitive drive, to satisfy that most basic of desires—to eat, to become full, to not be hungry. When this drive arises in you, if you haven’t completely “transcended and included” it—that is, if you still have some sort of attachment to this stage, so that you have not just an oral drive but an oral fixation—then when this drive arises, it will temporarily take you over; it will have you, you won’t have it. ([Location 392](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=392))
+    - Tags: [[blue]] 
+- “hidden subject” ([Location 396](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=396))
+- all of you was identified with it; you didn’t have a desire to eat, you were the desire to eat—the world indeed was all food, and you were all mouth (hence, the “oral stage”). ([Location 403](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=403))
+- food addiction ([Location 405](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=405))
+    - Tags: [[blue]] 
+- most fundamental ([Location 410](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=410))
+    - Tags: [[pink]] 
+- least significant ([Location 410](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=410))
+    - Tags: [[orange]] 
+- In Integral Theory, in any nested growth hierarchy or “holarchy”—so named by Arthur Koestler because each senior stage holistically transcends and includes its junior stages—the “lower” or “junior” or “earlier” stages are more fundamental because the other items actually depend on them more for their existence. ([Location 410](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=410))
+- “holons”—wholes ([Location 420](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=420))
+- So particularly the next time hunger arises (whether you’re overweight or not), truly give it attention, give it mindfulness awareness. ([Location 433](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=433))
+- Where is this hunger desire located (head, mouth, heart, stomach, gut, hands, feet)? What color is it (just whatever comes to mind)? What shape is it (also, whatever comes to mind)? What does it smell like (whatever comes to mind)? ([Location 436](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=436))
+- Really feel the primitiveness and urgency, the driven-ness of this drive. Stay with that yearning urgency. Make that subjective drive an object of mindfulness, an object of awareness. Really look at it, long and steady. Feel it directly, with feeling-awareness, which can be seen as another term for “mindfulness.” ([Location 438](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=438))
+    - Tags: [[blue]] 
+- Alternatively, you might have not remained fixated at this stage, but gone to the other extreme, dis-identifying from it too much. ([Location 440](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=440))
+    - Tags: [[pink]] 
+- Normally, you should eventually dis-identify with each stage, ceasing to identify exclusively with its needs and drives while still keeping it in awareness: you no longer are it, you are aware of it—you “transcend and include” it. ([Location 441](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=441))
+    - Tags: [[orange]] 
+- But if that dis-identifying goes too far or is too extreme, you won’t just dis-identify; you will actually dis-own, dissociate from, or repress it. ([Location 443](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=443))
+- If this occurs at the oral stage, you will have, not a food addiction, but a food allergy. This might show up in anything from bulimia to anorexia or being chronically underweight. ([Location 444](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=444))
+    - Tags: [[blue]] 
+- Awareness itself has this transcend-and-include quality: it is aware of an object, and thus goes beyond it, but it also includes it, or actually “touches” it, much as a mirror directly touches all the images that are reflected in it. ([Location 450](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=450))
+    - Tags: [[pink]] 
+- So if you have dis-owned or denied these hunger drives, then what you can do is gently and carefully, but directly, look for hunger impulses and then just become steadily aware of them—simply holding them in the space of your feeling-awareness. ([Location 454](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=454))
+    - Tags: [[orange]] 
+- We’ll eventually see, as an actual experience, that this “one with” nature of awareness lies behind the capacity to feel “one with” the entire universe in a radical “unity consciousness.” ([Location 458](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=458))
+- Give the same mindful awareness to all of your fundamental physiological drives—not only for food, but for water, for warmth if too cold and for coolness if too hot, for shelter, for sleep. ([Location 462](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=462))
+- “bodymind dropped!”—our ([Location 466](https://readwise.io/to_kindle?action=open&asin=B01BMYXTU0&location=466))
+    - Tags: [[blue]] 

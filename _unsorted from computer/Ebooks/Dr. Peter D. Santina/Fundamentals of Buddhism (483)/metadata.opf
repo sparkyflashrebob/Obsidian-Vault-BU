@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">483</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a9f653a5-dc97-4ebe-8365-97bc9cf73ba1</dc:identifier>
+        <dc:title>Fundamentals of Buddhism</dc:title>
+        <dc:creator opf:file-as="Santina, Peter D." opf:role="aut">Dr. Peter D. Santina</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.9.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-11-16T21:43:07+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <dc:subject>Basic Buddhism</dc:subject>
+        <dc:subject>Buddhism</dc:subject>
+        <dc:subject>fundamentals.</dc:subject>
+        <meta content="{&quot;Dr. Peter D. Santina&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-01-29T04:28:06.970000+00:00" name="calibre:timestamp"/>
+        <meta content="Fundamentals of Buddhism" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

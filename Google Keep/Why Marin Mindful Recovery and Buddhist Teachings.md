@@ -1,0 +1,2 @@
+
+The Buddha’s teachings can offer us an understanding of how the mind works. They are tools for working with a mind vulnerable to addiction. They can help us to overcome addictive and obsessive behaviors by cultivating a calm and clear mind without anger and resentments. The Buddha’s teachings can offer us a path to recovery.

@@ -1,0 +1,276 @@
+# Buddhism Without Beliefs
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/41vIgz7Em3L._SL200_.jpg)
+
+## Metadata
+- Author: [[Stephen Batchelor]]
+- Full Title: Buddhism Without Beliefs
+- Category: #books
+
+## Highlights
+- he spoke of having discovered complete freedom of heart and mind from the compulsions of craving. ([Location 115](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=115))
+- A person who is asleep is either lost in deep unconsciousness or absorbed in a dream. ([Location 118](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=118))
+- Authority becomes a question of force rather than of integrity. ([Location 130](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=130))
+- the Buddha acknowledged the existential condition of anguish. On examination he found its origins to lie in self-centered craving. He realized that this could cease, and prescribed the cultivation of a path of life embracing all aspects of human experience as an effective treatment. ([Location 134](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=134))
+- When we are gripped by a worry, for example, what do we do? ([Location 145](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=145))
+- How often do we embrace that worry, accept our situation, and try to understand it? ([Location 146](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=146))
+- Anguish maintains its power only as long as we allow it to intimidate us. ([Location 147](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=147))
+- If we try to avoid a powerful wave looming above us on the beach, it will send us crashing into the sand and surf. But if we face it head-on and dive right into it, we discover only water. ([Location 148](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=148))
+- To understand a worry is to know it calmly and clearly for what it is: transient, contingent, and devoid of intrinsic identity. ([Location 150](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=150))
+- The challenge of the first truth is to act before habitual reactions incapacitate us. ([Location 154](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=154))
+- Just as the presence of anguish is an opportunity for understanding, so the presence of the self-centered craving that underlies it is an opportunity for letting go. ([Location 156](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=156))
+- Letting go of a craving is not rejecting it but allowing it to be itself: ([Location 164](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=164))
+- Instead of forcibly freeing ourselves from it, notice how its very nature is to free itself. ([Location 164](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=164))
+- the challenge in letting go of craving is to act before habitual reactions incapacitate us. ([Location 167](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=167))
+- By letting go of craving it will finally cease. ([Location 168](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=168))
+- This cessation allows us to realize, if only momentarily, the freedom, openness, and ease of the central path. ([Location 168](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=168))
+- Dharma practice at this moment has relinquished the last traces of belief; it is founded on authentic vision born from experience. It no longer requires the support of moralistic rules and religious ritual; it is grounded in integrity and creative autonomy. In revealing life in all its vulnerability, it becomes the doorway to compassion. ([Location 170](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=170))
+- the playful, unimpeded contingency of things emerging from conditions only to become conditions for something else. ([Location 174](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=174))
+- emptiness: ([Location 175](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=175))
+- the unborn, undying, infinitely creative dimension of life. ([Location 175](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=175))
+- We realize that until this point we have not really been on the path at all. We have been following hunches, heeding the words of those we respect, exploring blind alleys, stumbling and guessing. No matter how strong our resolve and conviction, all along there may have been a nagging unease that we didn’t really know where we were going. Each step felt hesitant and forced, and we were terribly alone. ([Location 180](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=180))
+- Henceforth, resolve to cultivate this path becomes unwavering yet entirely natural. It is simply what we do. ([Location 184](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=184))
+- Awakening is no longer seen as something to attain in the distant future, for it is not a thing but a process—and this process is the path itself. ([Location 186](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=186))
+- Just as a garden needs to be protected, tended, and cared for, so do ethical integrity, focused awareness, and understanding. ([Location 195](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=195))
+- This trajectory is no linear sequence of “stages” through which we “progress.” We do not leave behind an earlier stage in order to advance to the next rung of some hierarchy. All four activities are part of a single continuum of action. Dharma practice cannot be reduced to any one of them; it is configured from them all. As soon as understanding is isolated from letting go, it degrades into mere intellectuality. As soon as letting go is isolated from understanding, it declines into spiritual posturing. The fabric of dharma practice is woven from the threads of these interrelated activities, each of which is defined through its relation to the others. ([Location 202](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=202))
+- Is awakening close by or far away? Is it readily accessible or available only through supreme effort? ([Location 224](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=224))
+- Awakening is indeed close by—and supreme effort is required to realize it. Awakening is indeed far away—and readily accessible. ([Location 229](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=229))
+- He said the dharma was permeated by a single taste: freedom. ([Location 248](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=248))
+- Gautama encouraged a life that steered a middle course between indulgence and mortification. He described himself as an openhanded teacher without an esoteric doctrine reserved for an elite. Before he died he refused to appoint a successor, remarking that people should be responsible for their own freedom. Dharma practice would suffice as their guide. ([Location 250](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=250))
+- “Do not pretend that conclusions are certain which are not demonstrated or demonstrable.” ([Location 282](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=282))
+- “agnostic faith.” ([Location 283](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=283))
+- First and foremost the Buddha taught a method (“dharma practice”) rather than another “-ism.” ([Location 284](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=284))
+- The dharma is not something to believe in but something to do. ([Location 284](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=284))
+- It is founded on a passionate recognition that I do not know. ([Location 302](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=302))
+- Such deep agnosticism is an attitude toward life refined through ongoing mindful awareness. ([Location 305](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=305))
+- It may lead to the realization that ultimately there is neither something nor nothing at the core of ourselves that we can put a finger on. ([Location 305](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=305))
+- Or it may be focused in an intense perplexity that vibrates through the body and leaves the mind that seeks certainty nowhere to rest. ([Location 306](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=306))
+- Buddhism could be described as “the culture of awakening.” ([Location 316](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=316))
+- The challenge now is to imagine and create a culture of awakening that both supports individual dharma practice and addresses the dilemmas of an agnostic and pluralist world. ([Location 319](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=319))
+- PRINCE SIDDHARTHA’S DILEMMA still faces us today. We too immure ourselves in the “palaces” of what is familiar and secure. We too sense that there is more to life than indulging desires and warding off fears. We too feel anguish most acutely when we break out of our habitual routines and witness ourselves hovering between birth and death—our birth and death. We discover that we have been thrown, apparently without choice, into a world not of our making. However painful the exit from the mother’s uterus, it is mercifully forgotten. But in achieving consciousness, we realize that the only certainty in life is that it will end. We don’t like the idea; we try to forget that too. ([Location 332](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=332))
+- No matter how expertly we manage our lives, how convincing an image of well-being we project, we still find ourselves involved with what we hate and torn apart from what we love. We still don’t get what we want and still get what we don’t want. True, we experience joy, success, love, bliss. But in the end we find ourselves once more prone to anguish. ([Location 346](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=346))
+- Who “I am” appears coherent only because of the monologue we keep repeating, editing, censoring, and embellishing in our heads. ([Location 369](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=369))
+- Something in us insists on a static self, a fixed image, impervious to anguish, that will either survive death intact or be painlessly annihilated. ([Location 372](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=372))
+- SHOULD YOU PERSIST in watching the breath, you may find that after a while your mind begins to settle. You experience longer spells of concentration before a distracting thought whisks you away. You become more adept at remembering to come back to the present. You relax and discover a poignant tranquility. This is a centered stillness from which you can engage attentively, caringly, with the world. ([Location 377](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=377))
+- As soon as you grasp something, it’s gone. ([Location 382](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=382))
+- It is the gnawing mood of unease that haunts the clinging to “me” and “mine.” ([Location 383](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=383))
+- It would perhaps be better if life did not bring change—if it could be relied upon to provide lasting happiness. But since this is not true, a calm and clear understanding of what is true—that no conditions are permanent or reliable—would weaken the grip in which craving holds us. ([Location 384](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=384))
+- WHEN THE RESTLESS mind is stilled, we begin to encounter what is unfolding before us. This is both familiar and mysterious at the same time. ([Location 389](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=389))
+- This sense of the world vanishes as suddenly as it appears. It is something we can neither manage nor control. ([Location 392](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=392))
+- When we stop fleeing birth and death, the grip of anguish is loosened and existence reveals itself as a question. ([Location 393](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=393))
+- This questioning probes ever deeper into what is still unknown. ([Location 400](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=400))
+- Anything can happen. Each time I cross a road, set out on a journey, descend a flight of stairs, my life is at risk. ([Location 435](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=435))
+    - Tags: [[blue]] 
+- WHAT AM I here for? Am I living in such a way that I can die without regrets? How much of what I do is compromise? Do I keep postponing what I “really” want to do until conditions are more favorable? ([Location 439](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=439))
+- I do not know. ([Location 525](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=525))
+    - Tags: [[blue]] 
+- If our actions in the world are to stem from an encounter with what is central in life, they must be unclouded by either dogma or prevarication. ([Location 531](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=531))
+- Agnosticism is no excuse for indecision. ([Location 532](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=532))
+    - Tags: [[orange]] 
+- If anything, it is a catalyst for action; for in shifting concern away from a future life and back to the present, it demands an ethics of empathy rather than a metaphysics of fear and hope. ([Location 532](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=532))
+    - Tags: [[pink]] 
+- For life to make sense it needs purpose. Even if our aim in life is to be totally in the here and now, free from past conditioning and any idea of a goal to be reached, we still have a clear purpose—without which life would be meaningless. ([Location 539](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=539))
+    - Tags: [[blue]] 
+- What counts is not so much the destination but the resolve to take the next step. ([Location 578](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=578))
+- Treading the path of awakening can embrace a range of purposes. At times we may concentrate on the specifics of material existence: creating a livelihood that is in accord with our deepest values and aspirations. At times we may retreat: disentangling ourselves from social and psychological pressures in order to reconsider our life in a quiet and supportive setting. At times we may engage with the world: responding empathetically and creatively to the anguish of others. ([Location 578](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=578))
+    - Tags: [[orange]] 
+- COMMITMENT TO THE most worthy purpose is of little value if we lack confidence in our ability to realize it. ([Location 586](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=586))
+- A commitment to dharma practice keeps us on our toes. ([Location 591](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=591))
+    - Tags: [[orange]] 
+- We can notice when our resolve eases into a complacent routine, and observe how we seek to justify ourselves by seeking approval from others. We can be conscious of how we tend to ignore or escape anguish rather than understand and accept it. We can be aware that even when we gain insight into these things, we rarely behave differently in the future. Despite our overt resolve, we are still creatures of habit. ([Location 591](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=591))
+    - Tags: [[pink]] 
+- Resolve is activated by self-confidence, which in turn depends on the kind of self-image we have. If we see ourselves as insignificant, always in the shadow of others, then the slightest hardship will seem daunting. ([Location 594](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=594))
+    - Tags: [[blue]] 
+- Self-confidence is not a form of arrogance. It is trust in our capacity to awaken. It is both the courage to face whatever life throws at us without losing equanimity, and the humility to treat every situation we encounter as one from which we can learn. ([Location 598](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=598))
+    - Tags: [[orange]] 
+- If we behave in a way that harms either others or ourselves, the capacity to focus on the task will be weakened. ([Location 606](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=606))
+    - Tags: [[orange]] 
+- Integrity entails not merely refraining from overt acts of this kind, but also recognizing how we contemplate such behavior in our thoughts, repeat it through fantasy, or prepare for it even though we lose our nerve before carrying it out. ([Location 614](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=614))
+    - Tags: [[pink]] 
+- “What is the compassionate thing to do?” ([Location 638](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=638))
+- Ethical integrity is threatened as much by attachment to the security of what is known as by fear of the insecurity of what is unknown. ([Location 640](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=640))
+    - Tags: [[orange]] 
+- It is liable to be remorselessly buffetted by the winds of desire and fear, doubt and worry, fantasy and egoism. ([Location 640](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=640))
+    - Tags: [[pink]] 
+- The more we give in to these things, the more our integrity is eroded and we find ourselves carried along on a wave of psychological and social habit. ([Location 641](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=641))
+    - Tags: [[blue]] 
+- We were born alone and will die alone. Much of our time is spent absorbed in feelings and thoughts we can never fully share. Yet our lives are nonetheless defined through relationships with others. ([Location 654](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=654))
+- In terms of dharma practice, a true friend is more than just someone with whom we share common values and who accepts us for what we are. Such a friend is someone whom we can trust to refine our understanding of what it means to live, who can guide us when we’re lost and help us find the way along a path, who can assuage our anguish through the reassurance of his or her presence. ([Location 658](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=658))
+- These friends are teachers in the sense that they are skilled in the art of learning from every situation. ([Location 667](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=667))
+    - Tags: [[orange]] 
+- Before the Buddha died he declared that the dharma would suffice as one’s guide. ([Location 681](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=681))
+    - Tags: [[blue]] 
+- This has often led to rigid conservativism and intolerance of dissent. ([Location 713](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=713))
+    - Tags: [[orange]] 
+- Drifting through life on a cushioned surge of impulses is but one of many strategies of forgetting. ([Location 748](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=748))
+    - Tags: [[blue]] 
+- WHILE MEDITATION MAY be cultivated as a formal practice once or twice a day for half an hour or so, the aim is to bring a fresh awareness into everything we do. ([Location 754](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=754))
+- Awareness is a process of deepening self-acceptance. ([Location 758](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=758))
+    - Tags: [[orange]] 
+- Whatever it observes, it embraces. ([Location 759](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=759))
+    - Tags: [[pink]] 
+- We might have to accept not only a potential sage hidden within but also a potential murderer, rapist, or thief. ([Location 761](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=761))
+    - Tags: [[blue]] 
+- I restrain myself from expressing it, not out of any great love for S but because of how it would affect other people’s view of me. ([Location 762](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=762))
+- attachment to self-image likewise inclines me to shy away from and forget this ([Location 763](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=763))
+    - Tags: [[orange]] 
+- But to embrace hatred does not mean to indulge it. To embrace hatred is to accept it for what it is: a disruptive but transient state of mind. Awareness observes it jolt into being, coloring consciousness and gripping the body. The heart accelerates, the breath becomes shallow and jagged, and an almost physical urge to react dominates the mind. At the same time, this frenzy is set against a dark, quiet gulf of hurt, humiliation, and shame. Awareness notices all this without condoning or condemning, repressing or expressing. It recognizes that just as hatred arises, so will it pass away. ([Location 769](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=769))
+- By identifying with it (“I really am pissed off!”), we fuel it. ([Location 773](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=773))
+    - Tags: [[orange]] 
+- The task of awareness is to catch the impulse at its inception, to notice the very first hint of resentment coloring ([Location 776](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=776))
+    - Tags: [[pink]] 
+- our feelings and perceptions. But such precision requires a focused mind. ([Location 777](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=777))
+    - Tags: [[pink]] 
+- FOCUSED AWARENESS IS both calm and clear. Just as calmness is prevented by restlessness and distraction, so clarity is undermined by boredom and lethargy. Drifting between these two poles, we spend much of our time either slightly hyper or slightly depressed. ([Location 779](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=779))
+    - Tags: [[blue]] 
+- Instead of fighting it, embrace it. Accept that this is how things are right now: I am compulsively distracted. Acceptance might even lead to understanding what it is that we’re running from. Instead of giving in to irritation, gently and patiently keep bringing the attention back. Then we may suddenly notice that the turmoil has stopped, as though a storm has passed. There might still be an occasional gust, but—for the time being, at least—it is calm. ([Location 786](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=786))
+- Distraction is replaced by boredom. ([Location 789](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=789))
+    - Tags: [[orange]] 
+- It’s easy to tell: when the phone rings or lunch is announced, such tiredness suddenly vanishes. ([Location 792](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=792))
+    - Tags: [[orange]] 
+- Focused awareness is difficult not because we are inept at some spiritual technology but because it threatens our sense of who we are. ([Location 795](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=795))
+    - Tags: [[pink]] 
+- The apparently unthreatening act of settling the mind on the breath and observing what is occurring in the body and mind exposes a contradiction between the sort of person we wish to be and the kind of person we are. ([Location 795](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=795))
+    - Tags: [[blue]] 
+- Restlessness and lethargy are ways of evading the discomfort of this contradiction. ([Location 797](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=797))
+- “Why I am doing this?” ([Location 799](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=799))
+    - Tags: [[orange]] 
+- When centered in a clear and firm resolve, remembering to be aware can lead to a focused awareness that permeates every aspect of experience. ([Location 801](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=801))
+# Buddhism Without Beliefs
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/41vIgz7Em3L._SL200_.jpg)
+
+## Metadata
+- Author: [[Stephen Batchelor]]
+- Full Title: Buddhism Without Beliefs
+- Category: #books
+
+## Highlights
+- he spoke of having discovered complete freedom of heart and mind from the compulsions of craving. ([Location 115](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=115))
+- A person who is asleep is either lost in deep unconsciousness or absorbed in a dream. ([Location 118](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=118))
+- Authority becomes a question of force rather than of integrity. ([Location 130](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=130))
+- the Buddha acknowledged the existential condition of anguish. On examination he found its origins to lie in self-centered craving. He realized that this could cease, and prescribed the cultivation of a path of life embracing all aspects of human experience as an effective treatment. ([Location 134](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=134))
+- When we are gripped by a worry, for example, what do we do? ([Location 145](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=145))
+- How often do we embrace that worry, accept our situation, and try to understand it? ([Location 146](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=146))
+- Anguish maintains its power only as long as we allow it to intimidate us. ([Location 147](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=147))
+- If we try to avoid a powerful wave looming above us on the beach, it will send us crashing into the sand and surf. But if we face it head-on and dive right into it, we discover only water. ([Location 148](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=148))
+- To understand a worry is to know it calmly and clearly for what it is: transient, contingent, and devoid of intrinsic identity. ([Location 150](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=150))
+- The challenge of the first truth is to act before habitual reactions incapacitate us. ([Location 154](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=154))
+- Just as the presence of anguish is an opportunity for understanding, so the presence of the self-centered craving that underlies it is an opportunity for letting go. ([Location 156](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=156))
+- Letting go of a craving is not rejecting it but allowing it to be itself: ([Location 164](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=164))
+- Instead of forcibly freeing ourselves from it, notice how its very nature is to free itself. ([Location 164](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=164))
+- the challenge in letting go of craving is to act before habitual reactions incapacitate us. ([Location 167](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=167))
+- By letting go of craving it will finally cease. ([Location 168](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=168))
+- This cessation allows us to realize, if only momentarily, the freedom, openness, and ease of the central path. ([Location 168](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=168))
+- Dharma practice at this moment has relinquished the last traces of belief; it is founded on authentic vision born from experience. It no longer requires the support of moralistic rules and religious ritual; it is grounded in integrity and creative autonomy. In revealing life in all its vulnerability, it becomes the doorway to compassion. ([Location 170](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=170))
+- the playful, unimpeded contingency of things emerging from conditions only to become conditions for something else. ([Location 174](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=174))
+- emptiness: ([Location 175](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=175))
+- the unborn, undying, infinitely creative dimension of life. ([Location 175](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=175))
+- We realize that until this point we have not really been on the path at all. We have been following hunches, heeding the words of those we respect, exploring blind alleys, stumbling and guessing. No matter how strong our resolve and conviction, all along there may have been a nagging unease that we didn’t really know where we were going. Each step felt hesitant and forced, and we were terribly alone. ([Location 180](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=180))
+- Henceforth, resolve to cultivate this path becomes unwavering yet entirely natural. It is simply what we do. ([Location 184](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=184))
+- Awakening is no longer seen as something to attain in the distant future, for it is not a thing but a process—and this process is the path itself. ([Location 186](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=186))
+- Just as a garden needs to be protected, tended, and cared for, so do ethical integrity, focused awareness, and understanding. ([Location 195](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=195))
+- This trajectory is no linear sequence of “stages” through which we “progress.” We do not leave behind an earlier stage in order to advance to the next rung of some hierarchy. All four activities are part of a single continuum of action. Dharma practice cannot be reduced to any one of them; it is configured from them all. As soon as understanding is isolated from letting go, it degrades into mere intellectuality. As soon as letting go is isolated from understanding, it declines into spiritual posturing. The fabric of dharma practice is woven from the threads of these interrelated activities, each of which is defined through its relation to the others. ([Location 202](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=202))
+- Is awakening close by or far away? Is it readily accessible or available only through supreme effort? ([Location 224](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=224))
+- Awakening is indeed close by—and supreme effort is required to realize it. Awakening is indeed far away—and readily accessible. ([Location 229](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=229))
+- He said the dharma was permeated by a single taste: freedom. ([Location 248](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=248))
+- Gautama encouraged a life that steered a middle course between indulgence and mortification. He described himself as an openhanded teacher without an esoteric doctrine reserved for an elite. Before he died he refused to appoint a successor, remarking that people should be responsible for their own freedom. Dharma practice would suffice as their guide. ([Location 250](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=250))
+- “Do not pretend that conclusions are certain which are not demonstrated or demonstrable.” ([Location 282](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=282))
+- “agnostic faith.” ([Location 283](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=283))
+- First and foremost the Buddha taught a method (“dharma practice”) rather than another “-ism.” ([Location 284](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=284))
+- The dharma is not something to believe in but something to do. ([Location 284](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=284))
+- It is founded on a passionate recognition that I do not know. ([Location 302](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=302))
+- Such deep agnosticism is an attitude toward life refined through ongoing mindful awareness. ([Location 305](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=305))
+- It may lead to the realization that ultimately there is neither something nor nothing at the core of ourselves that we can put a finger on. ([Location 305](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=305))
+- Or it may be focused in an intense perplexity that vibrates through the body and leaves the mind that seeks certainty nowhere to rest. ([Location 306](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=306))
+- Buddhism could be described as “the culture of awakening.” ([Location 316](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=316))
+- The challenge now is to imagine and create a culture of awakening that both supports individual dharma practice and addresses the dilemmas of an agnostic and pluralist world. ([Location 319](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=319))
+- PRINCE SIDDHARTHA’S DILEMMA still faces us today. We too immure ourselves in the “palaces” of what is familiar and secure. We too sense that there is more to life than indulging desires and warding off fears. We too feel anguish most acutely when we break out of our habitual routines and witness ourselves hovering between birth and death—our birth and death. We discover that we have been thrown, apparently without choice, into a world not of our making. However painful the exit from the mother’s uterus, it is mercifully forgotten. But in achieving consciousness, we realize that the only certainty in life is that it will end. We don’t like the idea; we try to forget that too. ([Location 332](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=332))
+- No matter how expertly we manage our lives, how convincing an image of well-being we project, we still find ourselves involved with what we hate and torn apart from what we love. We still don’t get what we want and still get what we don’t want. True, we experience joy, success, love, bliss. But in the end we find ourselves once more prone to anguish. ([Location 346](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=346))
+- Who “I am” appears coherent only because of the monologue we keep repeating, editing, censoring, and embellishing in our heads. ([Location 369](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=369))
+- Something in us insists on a static self, a fixed image, impervious to anguish, that will either survive death intact or be painlessly annihilated. ([Location 372](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=372))
+- SHOULD YOU PERSIST in watching the breath, you may find that after a while your mind begins to settle. You experience longer spells of concentration before a distracting thought whisks you away. You become more adept at remembering to come back to the present. You relax and discover a poignant tranquility. This is a centered stillness from which you can engage attentively, caringly, with the world. ([Location 377](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=377))
+- As soon as you grasp something, it’s gone. ([Location 382](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=382))
+- It is the gnawing mood of unease that haunts the clinging to “me” and “mine.” ([Location 383](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=383))
+- It would perhaps be better if life did not bring change—if it could be relied upon to provide lasting happiness. But since this is not true, a calm and clear understanding of what is true—that no conditions are permanent or reliable—would weaken the grip in which craving holds us. ([Location 384](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=384))
+- WHEN THE RESTLESS mind is stilled, we begin to encounter what is unfolding before us. This is both familiar and mysterious at the same time. ([Location 389](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=389))
+- This sense of the world vanishes as suddenly as it appears. It is something we can neither manage nor control. ([Location 392](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=392))
+- When we stop fleeing birth and death, the grip of anguish is loosened and existence reveals itself as a question. ([Location 393](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=393))
+- This questioning probes ever deeper into what is still unknown. ([Location 400](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=400))
+- Anything can happen. Each time I cross a road, set out on a journey, descend a flight of stairs, my life is at risk. ([Location 435](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=435))
+    - Tags: [[blue]] 
+- WHAT AM I here for? Am I living in such a way that I can die without regrets? How much of what I do is compromise? Do I keep postponing what I “really” want to do until conditions are more favorable? ([Location 439](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=439))
+- I do not know. ([Location 525](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=525))
+    - Tags: [[blue]] 
+- If our actions in the world are to stem from an encounter with what is central in life, they must be unclouded by either dogma or prevarication. ([Location 531](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=531))
+- Agnosticism is no excuse for indecision. ([Location 532](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=532))
+    - Tags: [[orange]] 
+- If anything, it is a catalyst for action; for in shifting concern away from a future life and back to the present, it demands an ethics of empathy rather than a metaphysics of fear and hope. ([Location 532](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=532))
+    - Tags: [[pink]] 
+- For life to make sense it needs purpose. Even if our aim in life is to be totally in the here and now, free from past conditioning and any idea of a goal to be reached, we still have a clear purpose—without which life would be meaningless. ([Location 539](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=539))
+    - Tags: [[blue]] 
+- What counts is not so much the destination but the resolve to take the next step. ([Location 578](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=578))
+- Treading the path of awakening can embrace a range of purposes. At times we may concentrate on the specifics of material existence: creating a livelihood that is in accord with our deepest values and aspirations. At times we may retreat: disentangling ourselves from social and psychological pressures in order to reconsider our life in a quiet and supportive setting. At times we may engage with the world: responding empathetically and creatively to the anguish of others. ([Location 578](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=578))
+    - Tags: [[orange]] 
+- COMMITMENT TO THE most worthy purpose is of little value if we lack confidence in our ability to realize it. ([Location 586](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=586))
+- A commitment to dharma practice keeps us on our toes. ([Location 591](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=591))
+    - Tags: [[orange]] 
+- We can notice when our resolve eases into a complacent routine, and observe how we seek to justify ourselves by seeking approval from others. We can be conscious of how we tend to ignore or escape anguish rather than understand and accept it. We can be aware that even when we gain insight into these things, we rarely behave differently in the future. Despite our overt resolve, we are still creatures of habit. ([Location 591](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=591))
+    - Tags: [[pink]] 
+- Resolve is activated by self-confidence, which in turn depends on the kind of self-image we have. If we see ourselves as insignificant, always in the shadow of others, then the slightest hardship will seem daunting. ([Location 594](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=594))
+    - Tags: [[blue]] 
+- Self-confidence is not a form of arrogance. It is trust in our capacity to awaken. It is both the courage to face whatever life throws at us without losing equanimity, and the humility to treat every situation we encounter as one from which we can learn. ([Location 598](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=598))
+    - Tags: [[orange]] 
+- If we behave in a way that harms either others or ourselves, the capacity to focus on the task will be weakened. ([Location 606](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=606))
+    - Tags: [[orange]] 
+- Integrity entails not merely refraining from overt acts of this kind, but also recognizing how we contemplate such behavior in our thoughts, repeat it through fantasy, or prepare for it even though we lose our nerve before carrying it out. ([Location 614](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=614))
+    - Tags: [[pink]] 
+- “What is the compassionate thing to do?” ([Location 638](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=638))
+- Ethical integrity is threatened as much by attachment to the security of what is known as by fear of the insecurity of what is unknown. ([Location 640](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=640))
+    - Tags: [[orange]] 
+- It is liable to be remorselessly buffetted by the winds of desire and fear, doubt and worry, fantasy and egoism. ([Location 640](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=640))
+    - Tags: [[pink]] 
+- The more we give in to these things, the more our integrity is eroded and we find ourselves carried along on a wave of psychological and social habit. ([Location 641](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=641))
+    - Tags: [[blue]] 
+- We were born alone and will die alone. Much of our time is spent absorbed in feelings and thoughts we can never fully share. Yet our lives are nonetheless defined through relationships with others. ([Location 654](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=654))
+- In terms of dharma practice, a true friend is more than just someone with whom we share common values and who accepts us for what we are. Such a friend is someone whom we can trust to refine our understanding of what it means to live, who can guide us when we’re lost and help us find the way along a path, who can assuage our anguish through the reassurance of his or her presence. ([Location 658](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=658))
+- These friends are teachers in the sense that they are skilled in the art of learning from every situation. ([Location 667](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=667))
+    - Tags: [[orange]] 
+- Before the Buddha died he declared that the dharma would suffice as one’s guide. ([Location 681](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=681))
+    - Tags: [[blue]] 
+- This has often led to rigid conservativism and intolerance of dissent. ([Location 713](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=713))
+    - Tags: [[orange]] 
+- Drifting through life on a cushioned surge of impulses is but one of many strategies of forgetting. ([Location 748](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=748))
+    - Tags: [[blue]] 
+- WHILE MEDITATION MAY be cultivated as a formal practice once or twice a day for half an hour or so, the aim is to bring a fresh awareness into everything we do. ([Location 754](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=754))
+- Awareness is a process of deepening self-acceptance. ([Location 758](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=758))
+    - Tags: [[orange]] 
+- Whatever it observes, it embraces. ([Location 759](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=759))
+    - Tags: [[pink]] 
+- We might have to accept not only a potential sage hidden within but also a potential murderer, rapist, or thief. ([Location 761](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=761))
+    - Tags: [[blue]] 
+- I restrain myself from expressing it, not out of any great love for S but because of how it would affect other people’s view of me. ([Location 762](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=762))
+- attachment to self-image likewise inclines me to shy away from and forget this ([Location 763](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=763))
+    - Tags: [[orange]] 
+- But to embrace hatred does not mean to indulge it. To embrace hatred is to accept it for what it is: a disruptive but transient state of mind. Awareness observes it jolt into being, coloring consciousness and gripping the body. The heart accelerates, the breath becomes shallow and jagged, and an almost physical urge to react dominates the mind. At the same time, this frenzy is set against a dark, quiet gulf of hurt, humiliation, and shame. Awareness notices all this without condoning or condemning, repressing or expressing. It recognizes that just as hatred arises, so will it pass away. ([Location 769](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=769))
+- By identifying with it (“I really am pissed off!”), we fuel it. ([Location 773](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=773))
+    - Tags: [[orange]] 
+- The task of awareness is to catch the impulse at its inception, to notice the very first hint of resentment coloring ([Location 776](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=776))
+    - Tags: [[pink]] 
+- our feelings and perceptions. But such precision requires a focused mind. ([Location 777](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=777))
+    - Tags: [[pink]] 
+- FOCUSED AWARENESS IS both calm and clear. Just as calmness is prevented by restlessness and distraction, so clarity is undermined by boredom and lethargy. Drifting between these two poles, we spend much of our time either slightly hyper or slightly depressed. ([Location 779](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=779))
+    - Tags: [[blue]] 
+- Instead of fighting it, embrace it. Accept that this is how things are right now: I am compulsively distracted. Acceptance might even lead to understanding what it is that we’re running from. Instead of giving in to irritation, gently and patiently keep bringing the attention back. Then we may suddenly notice that the turmoil has stopped, as though a storm has passed. There might still be an occasional gust, but—for the time being, at least—it is calm. ([Location 786](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=786))
+- Distraction is replaced by boredom. ([Location 789](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=789))
+    - Tags: [[orange]] 
+- It’s easy to tell: when the phone rings or lunch is announced, such tiredness suddenly vanishes. ([Location 792](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=792))
+    - Tags: [[orange]] 
+- Focused awareness is difficult not because we are inept at some spiritual technology but because it threatens our sense of who we are. ([Location 795](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=795))
+    - Tags: [[pink]] 
+- The apparently unthreatening act of settling the mind on the breath and observing what is occurring in the body and mind exposes a contradiction between the sort of person we wish to be and the kind of person we are. ([Location 795](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=795))
+    - Tags: [[blue]] 
+- Restlessness and lethargy are ways of evading the discomfort of this contradiction. ([Location 797](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=797))
+- “Why I am doing this?” ([Location 799](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=799))
+    - Tags: [[orange]] 
+- When centered in a clear and firm resolve, remembering to be aware can lead to a focused awareness that permeates every aspect of experience. ([Location 801](https://readwise.io/to_kindle?action=open&asin=B00J3526Y6&location=801))

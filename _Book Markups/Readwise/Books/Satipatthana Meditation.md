@@ -1,0 +1,121 @@
+# Satipatthana Meditation
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/51bTmA09n-L._SL200_.jpg)
+
+## Metadata
+- Author: [[Analayo]]
+- Full Title: Satipatthana Meditation
+- Category: #books
+
+## Highlights
+- MINDFULNESS ([Location 381](https://readwise.io/to_kindle?action=open&asin=B07HYDX7SX&location=381))
+    - Tags: [[pink]] 
+- Perhaps the most crucial aspect of mindfulness practice is to stay in the present moment. This is what really counts and why it is so important to distinguish clearly between mindfulness and memory. Satipaṭṭhāna meditation is not about remembering something from the past, but about being fully in the present moment. ([Location 404](https://readwise.io/to_kindle?action=open&asin=B07HYDX7SX&location=404))
+    - Tags: [[pink]] 
+- mindfulness can indeed remain established when an unwholesome mental condition is present. ([Location 418](https://readwise.io/to_kindle?action=open&asin=B07HYDX7SX&location=418))
+- be fully aware of what is happening right now. ([Location 422](https://readwise.io/to_kindle?action=open&asin=B07HYDX7SX&location=422))
+    - Tags: [[orange]] 
+- When walking a path for the first time with the help of a guide, for example, knowing that the next time we will have to find our way on our own, we will make an effort to notice and clearly remember which turns to take. ([Location 423](https://readwise.io/to_kindle?action=open&asin=B07HYDX7SX&location=423))
+    - Tags: [[orange]] 
+- Mindfulness has to be established; it is not just a quality that is present anyway in any type of experience (Anālayo 2017a: 27f). This marks the difference between mindfulness and consciousness. ([Location 431](https://readwise.io/to_kindle?action=open&asin=B07HYDX7SX&location=431))
+    - Tags: [[orange]] 
+- Consciousness, as one of the five aggregates, is a continuously present process of knowing. This does not mean that consciousness is permanent. It only means that the changing flow of moments of being conscious is continuously present. Without this flow of knowing, we would not be experiencing. ([Location 432](https://readwise.io/to_kindle?action=open&asin=B07HYDX7SX&location=432))
+    - Tags: [[blue]] 
+- the flow of consciousness is always there. ([Location 435](https://readwise.io/to_kindle?action=open&asin=B07HYDX7SX&location=435))
+    - Tags: [[pink]] 
+- the notion that there is a constantly present form of awareness which needs to be recognized and which equals the liberated mind does not square with the early Buddhist understanding of mindfulness (or of consciousness). ([Location 435](https://readwise.io/to_kindle?action=open&asin=B07HYDX7SX&location=435))
+- Right away from the moment of waking up in the morning our good friend sati can already be there, as if waiting for us. She is ready to accompany us throughout the rest of the day, encouraging us to stay receptive and open, soft and understanding. She never gets upset when we happen to forget about her. As soon as we remember her, she is right there to be with us again. ([Location 443](https://readwise.io/to_kindle?action=open&asin=B07HYDX7SX&location=443))
+    - Tags: [[pink]] 
+- mental verbalization ([Location 452](https://readwise.io/to_kindle?action=open&asin=B07HYDX7SX&location=452))
+    - Tags: [[pink]] 
+- The main task is to cultivate a free mind even in the presence of concepts. ([Location 455](https://readwise.io/to_kindle?action=open&asin=B07HYDX7SX&location=455))
+    - Tags: [[pink]] 
+- our attitude towards concepts and thoughts is best informed by the distinction between unwholesome and wholesome types. ([Location 456](https://readwise.io/to_kindle?action=open&asin=B07HYDX7SX&location=456))
+    - Tags: [[blue]] 
+- Without yeast, the dough will result only in flatbread. ([Location 460](https://readwise.io/to_kindle?action=open&asin=B07HYDX7SX&location=460))
+- Yeast on its own, however, will not be nourishing at all. ([Location 461](https://readwise.io/to_kindle?action=open&asin=B07HYDX7SX&location=461))
+    - Tags: [[orange]] 
+- In the early discourses, tranquillity and insight are not distinguished according to whether our meditation object is a concept or (what is considered to be) an ultimate reality. ([Location 466](https://readwise.io/to_kindle?action=open&asin=B07HYDX7SX&location=466))
+    - Tags: [[orange]] 
+- In fact tranquillity and insight are not even set apart as separate meditation practices. ([Location 467](https://readwise.io/to_kindle?action=open&asin=B07HYDX7SX&location=467))
+- Instead, they are complementary qualities of meditative cultivation ([Location 468](https://readwise.io/to_kindle?action=open&asin=B07HYDX7SX&location=468))
+    - Tags: [[blue]] 
+- Some practices can emphasize one or the other of these two, and with still others tranquillity and insight can be cultivated in conjunction. ([Location 468](https://readwise.io/to_kindle?action=open&asin=B07HYDX7SX&location=468))
+    - Tags: [[pink]] 
+- the task is to see through deluding concepts with the help of wise concepts. ([Location 479](https://readwise.io/to_kindle?action=open&asin=B07HYDX7SX&location=479))
+    - Tags: [[blue]] 
+- not only can early Buddhist mindfulness coexist with the use of concepts, satipaṭṭhāna meditation even has to employ concepts in order to lead to liberation. ([Location 480](https://readwise.io/to_kindle?action=open&asin=B07HYDX7SX&location=480))
+    - Tags: [[orange]] 
+- cowherd simile found in the Dvedhāvitakka-sutta ([Location 484](https://readwise.io/to_kindle?action=open&asin=B07HYDX7SX&location=484))
+    - Tags: [[blue]] 
+- a state of mind that is broad, even boundless, comes with mindfulness of the body established ([Location 497](https://readwise.io/to_kindle?action=open&asin=B07HYDX7SX&location=497))
+    - Tags: [[pink]] 
+- breadth of mind ([Location 499](https://readwise.io/to_kindle?action=open&asin=B07HYDX7SX&location=499))
+    - Tags: [[orange]] 
+- open-minded attitude. ([Location 500](https://readwise.io/to_kindle?action=open&asin=B07HYDX7SX&location=500))
+- wide-angle openness allows mental space for differences to exist side by side. ([Location 500](https://readwise.io/to_kindle?action=open&asin=B07HYDX7SX&location=500))
+    - Tags: [[blue]] 
+- The resultant mental spaciousness stands in contrast to the narrow-mindedness of being firmly convinced that our particular view or understanding is the only right one. ([Location 501](https://readwise.io/to_kindle?action=open&asin=B07HYDX7SX&location=501))
+    - Tags: [[pink]] 
+- our personal opinions are seen for what they are: just opinions, which may or may not be correct. ([Location 503](https://readwise.io/to_kindle?action=open&asin=B07HYDX7SX&location=503))
+    - Tags: [[blue]] 
+- We learn to allow space for diversity to unfold without suppression or negativity. ([Location 503](https://readwise.io/to_kindle?action=open&asin=B07HYDX7SX&location=503))
+- Combining an open-minded attitude with being fully in the present moment requires some form of an anchor. It is a common experience that mindfulness is lost and the mind succumbs to some sort of distraction or fantasy. The challenge here is to find an anchor that supports the continuity of mindfulness without losing the qualities of open-mindedness and receptivity. In other words, the anchor should be established without introducing too strong a focus and without too much of an interfering and controlling attitude. ([Location 507](https://readwise.io/to_kindle?action=open&asin=B07HYDX7SX&location=507))
+    - Tags: [[pink]] 
+- strong anchor; ([Location 616](https://readwise.io/to_kindle?action=open&asin=B07HYDX7SX&location=616))
+- it can offer a powerful grounding to face any type of challenge with sati ([Location 616](https://readwise.io/to_kindle?action=open&asin=B07HYDX7SX&location=616))
+    - Tags: [[pink]] 
+- smiling recognition. ([Location 620](https://readwise.io/to_kindle?action=open&asin=B07HYDX7SX&location=620))
+    - Tags: [[orange]] 
+- being with her is so pleasant, so calm, so spacious; ([Location 622](https://readwise.io/to_kindle?action=open&asin=B07HYDX7SX&location=622))
+    - Tags: [[blue]] 
+- more attractive than any kind of thought, reaction, or daydream we could entertain in our mind. ([Location 622](https://readwise.io/to_kindle?action=open&asin=B07HYDX7SX&location=622))
+    - Tags: [[orange]] 
+- practise mindfulness of the body with wisdom, knowing very well that it would not be skilful to get tense with the idea: ([Location 623](https://readwise.io/to_kindle?action=open&asin=B07HYDX7SX&location=623))
+- volition ([Location 626](https://readwise.io/to_kindle?action=open&asin=B07HYDX7SX&location=626))
+- intention. ([Location 626](https://readwise.io/to_kindle?action=open&asin=B07HYDX7SX&location=626))
+    - Tags: [[blue]] 
+- our volition operates within a wider network of causes and conditions. It can influence things, but it cannot control them completely. ([Location 626](https://readwise.io/to_kindle?action=open&asin=B07HYDX7SX&location=626))
+    - Tags: [[orange]] 
+- intention to be mindful ([Location 628](https://readwise.io/to_kindle?action=open&asin=B07HYDX7SX&location=628))
+    - Tags: [[pink]] 
+- If nevertheless the mind is totally distracted, then that is because of other causes and conditions impacting on the present situation. ([Location 629](https://readwise.io/to_kindle?action=open&asin=B07HYDX7SX&location=629))
+    - Tags: [[orange]] 
+- harmonious balance between our effort to live in the present moment and the natural resistance to that from the tendencies in our mind and from outer circumstances. ([Location 631](https://readwise.io/to_kindle?action=open&asin=B07HYDX7SX&location=631))
+- smiling effort ([Location 634](https://readwise.io/to_kindle?action=open&asin=B07HYDX7SX&location=634))
+    - Tags: [[pink]] 
+- instead of turning the cultivation of mindfulness into a stressful and demanding chore, we see sati as a good friend to whom we return, with whom we like to spend as much of our time as possible. ([Location 634](https://readwise.io/to_kindle?action=open&asin=B07HYDX7SX&location=634))
+    - Tags: [[orange]] 
+- six different animals that are bound together ([Location 642](https://readwise.io/to_kindle?action=open&asin=B07HYDX7SX&location=642))
+    - Tags: [[orange]] 
+- six sense-doors ([Location 644](https://readwise.io/to_kindle?action=open&asin=B07HYDX7SX&location=644))
+    - Tags: [[orange]] 
+- Establishing mindfulness of the body is like firmly planting a strong post in the ground. ([Location 646](https://readwise.io/to_kindle?action=open&asin=B07HYDX7SX&location=646))
+    - Tags: [[orange]] 
+- It enables experiencing what is agreeable and what is disagreeable at any of the six sense-doors without getting pulled along. ([Location 649](https://readwise.io/to_kindle?action=open&asin=B07HYDX7SX&location=649))
+    - Tags: [[orange]] 
+- avoid being worn out by them. ([Location 651](https://readwise.io/to_kindle?action=open&asin=B07HYDX7SX&location=651))
+    - Tags: [[orange]] 
+- During actual practice we just come back to the sense of bodily presence, to proprioceptive awareness, as soon as we realize that we are getting pulled along. ([Location 652](https://readwise.io/to_kindle?action=open&asin=B07HYDX7SX&location=652))
+    - Tags: [[pink]] 
+- In preparation for challenging situations, we make sure first of all that we are aware of the presence of our body. ([Location 653](https://readwise.io/to_kindle?action=open&asin=B07HYDX7SX&location=653))
+    - Tags: [[orange]] 
+- The centredness that results from this form of practice comes to the fore in another simile. ([Location 655](https://readwise.io/to_kindle?action=open&asin=B07HYDX7SX&location=655))
+    - Tags: [[pink]] 
+- This simile describes a person who has to carry a bowl brimful of oil through a crowd. ([Location 656](https://readwise.io/to_kindle?action=open&asin=B07HYDX7SX&location=656))
+    - Tags: [[orange]] 
+- The simile further specifies that behind the person carrying the oil is someone with a drawn sword. ([Location 659](https://readwise.io/to_kindle?action=open&asin=B07HYDX7SX&location=659))
+    - Tags: [[orange]] 
+- Mindfulness of the body provides the centredness that it takes to survive even the most dangerous and challenging situation. ([Location 662](https://readwise.io/to_kindle?action=open&asin=B07HYDX7SX&location=662))
+    - Tags: [[blue]] 
+- A key aspect of the potential of mindfulness of the body is the providing of a type of anchoring that ensures the continuity of mindfulness without introducing too strong a focus. ([Location 665](https://readwise.io/to_kindle?action=open&asin=B07HYDX7SX&location=665))
+    - Tags: [[blue]] 
+- This is the advantage of whole-body awareness over a form of mindfulness that takes a narrower object, which can easily result in too strong a focus and thereby in losing awareness of the overall situation. ([Location 667](https://readwise.io/to_kindle?action=open&asin=B07HYDX7SX&location=667))
+- Imagine standing on a beach and looking out over the ocean. ([Location 671](https://readwise.io/to_kindle?action=open&asin=B07HYDX7SX&location=671))
+    - Tags: [[pink]] 
+- Just like a good driver, we learn to steer the vehicle of our activities through any kind of traffic without running into an accident. ([Location 677](https://readwise.io/to_kindle?action=open&asin=B07HYDX7SX&location=677))
+    - Tags: [[pink]] 
+- Clothes and bedding do become dirty through use, and a major source of that dirt is our own body. ([Location 1081](https://readwise.io/to_kindle?action=open&asin=B07HYDX7SX&location=1081))
+    - Tags: [[pink]] 
+- The overall aim of the practice it to arrive at a balanced and healthy attitude towards the body, an attitude that is just as much free from sensual desire as it is free from aversion or disgust. ([Location 1252](https://readwise.io/to_kindle?action=open&asin=B07HYDX7SX&location=1252))
+    - Tags: [[pink]] 

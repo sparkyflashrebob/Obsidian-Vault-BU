@@ -1,0 +1,308 @@
+# Power vs. Force
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/31yydLZUceL._SL200_.jpg)
+
+## Metadata
+- Author: [[David R. Hawkins]]
+- Full Title: Power vs. Force
+- Category: #books
+
+## Highlights
+- What the addict is seeking is not to be ashamed of. The whole spiritual world wants to reach that blissful state of consciousness. Change your technique, not your aspiration. The state doesn’t have to be sought; it is always within us. ([Location 334](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=334))
+- The outer work can never be small if the inner work is great. And the outer work can never be great if the inner work is small. ([Location 345](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=345))
+- ~ Meister Eckhart, 14th-century Christian mystic ([Location 346](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=346))
+- The skillful are not obvious They appear to be simple-minded Those who know this know the patterns of the Absolute To know the patterns is the Subtle Power The Subtle Power moves all things and has no name. ([Location 349](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=349))
+- “Map of Consciousness” ([Location 353](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=353))
+    - Tags: [[blue]] 
+- end, anything one might say is probably true to some degree. ([Location 501](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=501))
+- The fatal faults of all thought systems have been, primarily: (1) failure to differentiate between subjective and objective; (2) disregard of the limitation of context inherent in basic design and terminology; (3) ignorance of the nature of consciousness itself; and (4) misunderstanding of the nature of causality. ([Location 503](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=503))
+    - Tags: [[blue]] 
+- Society constantly expends its efforts to correct effects instead of causes, ([Location 507](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=507))
+    - Tags: [[pink]] 
+- The basic law of the universe is economy. ([Location 510](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=510))
+- There are no actual causes within the observable world. As we shall demonstrate, the observable world is a world of effects. ([Location 515](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=515))
+    - Tags: [[blue]] 
+- Society needs visionaries of means, not dreamers of ends. Once we have the means, the ends will reveal themselves. ([Location 520](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=520))
+    - Tags: [[orange]] 
+- our inability to discriminate the essential from the nonessential. ([Location 522](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=522))
+    - Tags: [[blue]] 
+- Man’s two basic types of operational faculties, reason and feeling, are both inherently unreliable, as our history of precarious individual and collective survival attests. ([Location 529](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=529))
+    - Tags: [[orange]] 
+- pattern-recognition ([Location 531](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=531))
+- But nothing is ever “true,” except under certain circumstances, and then only from a particular viewpoint, characteristically unstated. ([Location 532](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=532))
+    - Tags: [[orange]] 
+- “knowingness.” ([Location 534](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=534))
+- epistemology, ([Location 534](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=534))
+    - Tags: [[blue]] 
+- the branch of philosophy that examines the question of how and to what degree man really knows anything. ([Location 534](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=534))
+    - Tags: [[pink]] 
+- No matter where we start in an examination of human knowledge, we always end up looking at the phenomena of awareness and the nature of human consciousness. ([Location 536](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=536))
+    - Tags: [[orange]] 
+- The main obstacle to man’s development, then, is the lack of knowledge about the nature of consciousness itself. If ([Location 538](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=538))
+    - Tags: [[pink]] 
+- nonlinear dynamics ([Location 543](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=543))
+    - Tags: [[orange]] 
+- Consciousness automatically chooses what it deems best from instant to instant because that is ultimately the only function of which it is really capable. ([Location 544](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=544))
+    - Tags: [[pink]] 
+- The present volume, the result of twenty years of intensive research involving millions of calibrations, can make such understanding available to anyone. That this revelation proceeds from a fortuitous connection between the physiology of consciousness, the function of the human nervous system, and the physics of the universe is not surprising when we remind ourselves that we are, after all, part of a universe in which everything is connected to everything else; all its secrets are thus, theoretically at least, available to us if we know where and how to look. ([Location 548](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=548))
+    - Tags: [[blue]] 
+- Man thinks he lives by virtue of the forces he can control, but in fact, he is governed by power from unrevealed sources, power over which he has no control. Because power is effortless, it goes unseen and unsuspected. Force is experienced through the senses; power can be recognized only through inner awareness. ([Location 553](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=553))
+    - Tags: [[pink]] 
+- Facts are accumulated by effort, but truth reveals itself effortlessly.5 ([Location 561](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=561))
+    - Tags: [[orange]] 
+- kinesiology. ([Location 569](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=569))
+    - Tags: [[orange]] 
+- chaos theory. ([Location 572](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=572))
+    - Tags: [[pink]] 
+- Regardless of what branch of inquiry one starts from—philosophy, political theory, theology, etc.—all avenues of investigation eventually converge at a common meeting point: the quest for an organized understanding of the nature of pure consciousness. ([Location 596](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=596))
+- Inasmuch as everything in the universe is connected with everything else,8 it is not surprising that one of the primary objectives of this study—a map of the energy fields of consciousness—would correlate with, and be corroborated by, all other avenues of investigation, uniting the diversity of human experience and its expressions in an all-encompassing paradigm. ([Location 605](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=605))
+    - Tags: [[blue]] 
+- The subjective and objective are, in fact, one and the same,10 as can be demonstrated without resorting to nonlinear equations or computer graphics. ([Location 609](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=609))
+    - Tags: [[orange]] 
+- By identifying subjective and objective as the same, we are able to transcend the constraints of the concept of time, which by its very definition is a major hindrance to comprehension of the nature of life, especially in its expression as human experience. ([Location 611](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=611))
+    - Tags: [[pink]] 
+- Advanced theoretical physics demonstrated that everything in the universe is subtly dependent upon and interactive with everything else.14 ([Location 651](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=651))
+    - Tags: [[orange]] 
+- From this diagram we see that the source (ABC), which is unobservable, ([Location 663](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=663))
+- operants ([Location 668](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=668))
+- This description of how the universe works is in accord with the theories of physicist David Bohm, who has described a holographic universe with an invisible implicate (“enfolded”) and a manifest explicate (“unfolded”) order.15 But it is most important to note that this scientific insight corresponds with the view of reality experienced through history by enlightened sages who have evolved beyond consciousness to the state of pure awareness.16 Bohm postulates a source that is beyond both the explicate and implicate realms, very much like the state of pure awareness described by the sages.17 ([Location 670](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=670))
+    - Tags: [[orange]] 
+- neurophysiologic modeling. ([Location 677](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=677))
+    - Tags: [[pink]] 
+- Conclusions of current research are that the brain’s neural networks act as a system of attractor patterns, so that the system does not behave in a random fashion overall—although each individual neuron may behave in seemingly random fashion.19 ([Location 678](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=678))
+    - Tags: [[orange]] 
+- law of sensitive dependence on initial conditions.22 ([Location 698](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=698))
+    - Tags: [[orange]] 
+- powerful patterns organize human behavior. ([Location 710](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=710))
+    - Tags: [[orange]] 
+- (Note that in a holographic universe, the achievements of every individual contribute to the advancement and well-being of the whole.) ([Location 718](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=718))
+    - Tags: [[orange]] 
+- Sir John Eccles ([Location 719](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=719))
+    - Tags: [[blue]] 
+- the brain acts as a receiving set for energy patterns residing within the mind itself, ([Location 719](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=719))
+    - Tags: [[orange]] 
+- which exist as consciousness expressed in the form of thought. ([Location 720](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=720))
+    - Tags: [[orange]] 
+- The thrust of this book was that serious mental illnesses such as psychosis, as well as lesser ones, such as emotional disorder, had a genetic basis involving an abnormal biochemical pathway in the brain, a molecular basis that could be corrected on the molecular level. ([Location 778](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=778))
+    - Tags: [[pink]] 
+- it was Dr. Diamond’s demonstration that the body instantly went weak in response to unhealthy emotional attitudes or mental stresses that had the greatest ongoing clinical influence. ([Location 783](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=783))
+    - Tags: [[orange]] 
+- Two persons are required. One acts as test subject by holding out one arm laterally, parallel to the ground. The second person then presses down with two fingers on the wrist of the extended arm and says, “Resist.” The subject then resists the downward pressure with all his strength. That is all there is to it. A statement may be made by either party. While the subject holds it in mind, his arm’s strength is tested by the tester’s downward pressure. If the statement is negative, false, or reflects a calibration below 200 (see “Map of Consciousness,” Chapter 3), the test subject will “go weak.” If the answer is yes or calibrates over 200, he will “go strong.” To demonstrate the procedure, one might have the subject hold an image of Abraham Lincoln in mind while being tested, and then, for contrast, an image of Adolf Hitler. The same effect can be demonstrated by holding in mind someone who is loved in contrast to someone who is feared, hated, or about whom there is some strong regret. Once a numeric scale is elicited (see below) calibrations can be arrived at by stating, “This item” (such as this book, organization, this person’s motive, and so on) calibrates “over 100,” then “over 200,” then “over 300,” until a negative response is obtained. The calibration can then be refined: “It is over 220. 225. 230.,” and so on. Tester and testee can trade places, and the same results will be obtained. Once one is familiar with the technique, it can be used to evaluate companies, movies, individuals, or events in history; it can also be used to diagnose current life problems. ([Location 789](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=789))
+- The test procedure, the reader will note, is to use the muscle test to verify the truth or falsity of a declarative statement. Unreliable responses will be obtained if the question has not been put into this form. Nor can a reliable result be obtained from inquiry into the future; only statements regarding existent conditions or events in the past or present will produce consistent answers. It is necessary to be impersonal during the procedure to avoid transmitting positive or negative feelings. Accuracy is increased by having the test subject close his eyes, and there should be no music or distractions in the background. ([Location 801](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=801))
+- Because the test is so deceptively simple, it is well that inquirers first verify its accuracy to their own satisfaction. Responses can be checked by cross-questioning, and everyone who becomes acquainted with the technique thinks of tricks to satisfy themselves that it is reliable.9 It will soon be found that the same response is observed in all subjects, that it is not necessary for the subject to have any knowledge of the matter in question, and that the response will always be independent of the test subject’s personal opinions about the question. Before presenting an inquiry, we have found that it is useful to first test the statement, “I have permission to ask this question.” This is analogous to an entry requisite on a computer terminal, and will occasionally return a “no” answer. This indicates that one should leave that question alone or inquire carefully into the reason for the “no.” Perhaps the questioner might have experienced psychological distress from the answer or its implications at that time, or for other unknown reasons.10 In this study, test subjects were asked to focus on a specified thought, feeling, attitude, memory, relationship, or life circumstance. The test was frequently done in large groups of people; for demonstration purposes, we first established a baseline by asking the subjects, eyes closed, to hold in mind the memory of a time when they were angry, upset, jealous, depressed, guilty, or fearful; at that point, everyone universally went weak. We would then ask them to hold in mind a loving person or life situation, and everyone would go strong; typically a murmur of surprise would ripple through the audience at the implications of what they had just discovered. ([Location 806](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=806))
+- the mere image of a substance held in the mind produced the same response as if the substance itself were in physical contact with the body. ([Location 820](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=820))
+    - Tags: [[pink]] 
+- some people primarily adopt a feeling mode, ([Location 825](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=825))
+- others are more auditory, ([Location 825](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=825))
+    - Tags: [[blue]] 
+- still others are more visual. ([Location 826](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=826))
+    - Tags: [[pink]] 
+- Occasionally, in an effort, perhaps even unconscious, to disguise their response, subjects will select a mode that is not their customary mode of processing and give a false response. When the tester elicits a paradoxical response, the question should be rephrased. For example, a patient who feels guilty about his anger toward his mother may hold in mind a photograph of her and test strong. However, if the tester were to rephrase the question by asking this subject to hold in mind his present attitude toward his mother, the subject would instantly go weak. ([Location 829](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=829))
+    - Tags: [[orange]] 
+- All levels below 200 are destructive of life in both the individual and society at large; in contrast, all levels above 200 are constructive expressions of power. ([Location 984](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=984))
+- force (or falsehood) from power (or truth). ([Location 986](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=986))
+    - Tags: [[blue]] 
+- The Shame-based personality is shy, withdrawn, and introverted. ([Location 996](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=996))
+    - Tags: [[orange]] 
+- The downside of Pride, therefore, is arrogance and denial. ([Location 1080](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=1080))
+    - Tags: [[pink]] 
+- in Pride, recovery from addictions is impossible because emotional problems or character defects are denied. ([Location 1080](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=1080))
+    - Tags: [[orange]] 
+- At the Neutral level, a person can say, “Well, if I don’t get this job, then I’ll get another.” This is the beginning of inner confidence; sensing one’s power, one is therefore not easily intimidated. One is not driven to prove anything. The expectation that life, with its ups and downs, will be basically okay if one can roll with the punches is a typical 250-level attitude. ([Location 1103](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=1103))
+    - Tags: [[pink]] 
+- People at this level are easy to get along with, safe to be around and associate with, because they are not interested in conflict, competition, or guilt. ([Location 1107](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=1107))
+    - Tags: [[orange]] 
+- They are comfortable and basically undisturbed emotionally. This attitude is nonjudgmental and does not lead to any need to control other people’s behaviors. ([Location 1108](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=1108))
+- Correspondingly, because Neutral people value freedom, they are hard to control. ([Location 1109](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=1109))
+    - Tags: [[blue]] 
+- Below the 200 calibration level, people tend to be close-minded, ([Location 1114](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=1114))
+    - Tags: [[orange]] 
+- The Willing are not really troubled by unemployment, for they will take any job when they have to, or create a career or self-employment for themselves. ([Location 1115](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=1115))
+    - Tags: [[pink]] 
+- They are also willing to face inner issues and do not have major learning blocks. ([Location 1117](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=1117))
+    - Tags: [[orange]] 
+- At this level of awareness, a major transformation takes place, with the understanding that one is oneself the source and creator of the experience of one’s life. ([Location 1123](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=1123))
+- Taking such responsibility is distinctive of this degree of evolution, characterized by the capacity to live harmoniously with the forces of life. ([Location 1124](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=1124))
+    - Tags: [[blue]] 
+- The individual at the level of Acceptance is not interested in determining right or wrong, but instead is dedicated to resolving issues and finding out what to do about problems. ([Location 1134](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=1134))
+    - Tags: [[orange]] 
+- self-discipline and mastery are prominent. ([Location 1136](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=1136))
+    - Tags: [[blue]] 
+- The 500 level is characterized by the development of a Love that is unconditional, unchanging, and permanent. It does not fluctuate because its source within the person who loves is not dependent on external conditions. Loving is a state of being. It is a way of relating to the world that is forgiving, nurturing, and supportive. Love is not intellectual and does not proceed from the mind. Love emanates from the heart. It has the capacity to lift others and accomplish great feats because of its purity of motive. ([Location 1160](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=1160))
+    - Tags: [[blue]] 
+- Love takes no position and thus is global, rising above the separation of positionality. ([Location 1169](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=1169))
+    - Tags: [[pink]] 
+- This is the level of true happiness, but although the world is fascinated with the subject of Love, and all viable religions calibrate at 500 or over, it is interesting to note that only 4.0 percent of the world’s population ever reaches this level of the evolution of consciousness. Only 0.4 ([Location 1172](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=1172))
+    - Tags: [[orange]] 
+- Joy ([Location 1175](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=1175))
+    - Tags: [[blue]] 
+- As Love becomes more and more unconditional, it begins to be experienced as an inner Joy. ([Location 1175](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=1175))
+- enormous patience ([Location 1179](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=1179))
+    - Tags: [[orange]] 
+- persistence of a positive attitude in the face of prolonged adversity. ([Location 1179](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=1179))
+    - Tags: [[blue]] 
+- compassion. ([Location 1180](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=1180))
+    - Tags: [[pink]] 
+- There is a desire to use one’s state of consciousness for the benefit of life itself rather than for particular individuals. ([Location 1186](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=1186))
+    - Tags: [[orange]] 
+- This capacity to love many people simultaneously is accompanied by the discovery that the more one loves, the more one can love. ([Location 1187](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=1187))
+    - Tags: [[blue]] 
+- power arises from meaning. ([Location 1631](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=1631))
+- motive, ([Location 1632](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=1632))
+    - Tags: [[blue]] 
+- principle. ([Location 1632](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=1632))
+    - Tags: [[pink]] 
+# Power vs. Force
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/31yydLZUceL._SL200_.jpg)
+
+## Metadata
+- Author: [[David R. Hawkins]]
+- Full Title: Power vs. Force
+- Category: #books
+
+## Highlights
+- What the addict is seeking is not to be ashamed of. The whole spiritual world wants to reach that blissful state of consciousness. Change your technique, not your aspiration. The state doesn’t have to be sought; it is always within us. ([Location 334](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=334))
+- The outer work can never be small if the inner work is great. And the outer work can never be great if the inner work is small. ([Location 345](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=345))
+- ~ Meister Eckhart, 14th-century Christian mystic ([Location 346](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=346))
+- The skillful are not obvious They appear to be simple-minded Those who know this know the patterns of the Absolute To know the patterns is the Subtle Power The Subtle Power moves all things and has no name. ([Location 349](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=349))
+- “Map of Consciousness” ([Location 353](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=353))
+    - Tags: [[blue]] 
+- end, anything one might say is probably true to some degree. ([Location 501](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=501))
+- The fatal faults of all thought systems have been, primarily: (1) failure to differentiate between subjective and objective; (2) disregard of the limitation of context inherent in basic design and terminology; (3) ignorance of the nature of consciousness itself; and (4) misunderstanding of the nature of causality. ([Location 503](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=503))
+    - Tags: [[blue]] 
+- Society constantly expends its efforts to correct effects instead of causes, ([Location 507](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=507))
+    - Tags: [[pink]] 
+- The basic law of the universe is economy. ([Location 510](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=510))
+- There are no actual causes within the observable world. As we shall demonstrate, the observable world is a world of effects. ([Location 515](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=515))
+    - Tags: [[blue]] 
+- Society needs visionaries of means, not dreamers of ends. Once we have the means, the ends will reveal themselves. ([Location 520](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=520))
+    - Tags: [[orange]] 
+- our inability to discriminate the essential from the nonessential. ([Location 522](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=522))
+    - Tags: [[blue]] 
+- Man’s two basic types of operational faculties, reason and feeling, are both inherently unreliable, as our history of precarious individual and collective survival attests. ([Location 529](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=529))
+    - Tags: [[orange]] 
+- pattern-recognition ([Location 531](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=531))
+- But nothing is ever “true,” except under certain circumstances, and then only from a particular viewpoint, characteristically unstated. ([Location 532](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=532))
+    - Tags: [[orange]] 
+- “knowingness.” ([Location 534](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=534))
+- epistemology, ([Location 534](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=534))
+    - Tags: [[blue]] 
+- the branch of philosophy that examines the question of how and to what degree man really knows anything. ([Location 534](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=534))
+    - Tags: [[pink]] 
+- No matter where we start in an examination of human knowledge, we always end up looking at the phenomena of awareness and the nature of human consciousness. ([Location 536](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=536))
+    - Tags: [[orange]] 
+- The main obstacle to man’s development, then, is the lack of knowledge about the nature of consciousness itself. If ([Location 538](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=538))
+    - Tags: [[pink]] 
+- nonlinear dynamics ([Location 543](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=543))
+    - Tags: [[orange]] 
+- Consciousness automatically chooses what it deems best from instant to instant because that is ultimately the only function of which it is really capable. ([Location 544](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=544))
+    - Tags: [[pink]] 
+- The present volume, the result of twenty years of intensive research involving millions of calibrations, can make such understanding available to anyone. That this revelation proceeds from a fortuitous connection between the physiology of consciousness, the function of the human nervous system, and the physics of the universe is not surprising when we remind ourselves that we are, after all, part of a universe in which everything is connected to everything else; all its secrets are thus, theoretically at least, available to us if we know where and how to look. ([Location 548](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=548))
+    - Tags: [[blue]] 
+- Man thinks he lives by virtue of the forces he can control, but in fact, he is governed by power from unrevealed sources, power over which he has no control. Because power is effortless, it goes unseen and unsuspected. Force is experienced through the senses; power can be recognized only through inner awareness. ([Location 553](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=553))
+    - Tags: [[pink]] 
+- Facts are accumulated by effort, but truth reveals itself effortlessly.5 ([Location 561](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=561))
+    - Tags: [[orange]] 
+- kinesiology. ([Location 569](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=569))
+    - Tags: [[orange]] 
+- chaos theory. ([Location 572](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=572))
+    - Tags: [[pink]] 
+- Regardless of what branch of inquiry one starts from—philosophy, political theory, theology, etc.—all avenues of investigation eventually converge at a common meeting point: the quest for an organized understanding of the nature of pure consciousness. ([Location 596](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=596))
+- Inasmuch as everything in the universe is connected with everything else,8 it is not surprising that one of the primary objectives of this study—a map of the energy fields of consciousness—would correlate with, and be corroborated by, all other avenues of investigation, uniting the diversity of human experience and its expressions in an all-encompassing paradigm. ([Location 605](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=605))
+    - Tags: [[blue]] 
+- The subjective and objective are, in fact, one and the same,10 as can be demonstrated without resorting to nonlinear equations or computer graphics. ([Location 609](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=609))
+    - Tags: [[orange]] 
+- By identifying subjective and objective as the same, we are able to transcend the constraints of the concept of time, which by its very definition is a major hindrance to comprehension of the nature of life, especially in its expression as human experience. ([Location 611](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=611))
+    - Tags: [[pink]] 
+- Advanced theoretical physics demonstrated that everything in the universe is subtly dependent upon and interactive with everything else.14 ([Location 651](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=651))
+    - Tags: [[orange]] 
+- From this diagram we see that the source (ABC), which is unobservable, ([Location 663](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=663))
+- operants ([Location 668](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=668))
+- This description of how the universe works is in accord with the theories of physicist David Bohm, who has described a holographic universe with an invisible implicate (“enfolded”) and a manifest explicate (“unfolded”) order.15 But it is most important to note that this scientific insight corresponds with the view of reality experienced through history by enlightened sages who have evolved beyond consciousness to the state of pure awareness.16 Bohm postulates a source that is beyond both the explicate and implicate realms, very much like the state of pure awareness described by the sages.17 ([Location 670](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=670))
+    - Tags: [[orange]] 
+- neurophysiologic modeling. ([Location 677](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=677))
+    - Tags: [[pink]] 
+- Conclusions of current research are that the brain’s neural networks act as a system of attractor patterns, so that the system does not behave in a random fashion overall—although each individual neuron may behave in seemingly random fashion.19 ([Location 678](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=678))
+    - Tags: [[orange]] 
+- law of sensitive dependence on initial conditions.22 ([Location 698](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=698))
+    - Tags: [[orange]] 
+- powerful patterns organize human behavior. ([Location 710](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=710))
+    - Tags: [[orange]] 
+- (Note that in a holographic universe, the achievements of every individual contribute to the advancement and well-being of the whole.) ([Location 718](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=718))
+    - Tags: [[orange]] 
+- Sir John Eccles ([Location 719](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=719))
+    - Tags: [[blue]] 
+- the brain acts as a receiving set for energy patterns residing within the mind itself, ([Location 719](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=719))
+    - Tags: [[orange]] 
+- which exist as consciousness expressed in the form of thought. ([Location 720](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=720))
+    - Tags: [[orange]] 
+- The thrust of this book was that serious mental illnesses such as psychosis, as well as lesser ones, such as emotional disorder, had a genetic basis involving an abnormal biochemical pathway in the brain, a molecular basis that could be corrected on the molecular level. ([Location 778](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=778))
+    - Tags: [[pink]] 
+- it was Dr. Diamond’s demonstration that the body instantly went weak in response to unhealthy emotional attitudes or mental stresses that had the greatest ongoing clinical influence. ([Location 783](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=783))
+    - Tags: [[orange]] 
+- Two persons are required. One acts as test subject by holding out one arm laterally, parallel to the ground. The second person then presses down with two fingers on the wrist of the extended arm and says, “Resist.” The subject then resists the downward pressure with all his strength. That is all there is to it. A statement may be made by either party. While the subject holds it in mind, his arm’s strength is tested by the tester’s downward pressure. If the statement is negative, false, or reflects a calibration below 200 (see “Map of Consciousness,” Chapter 3), the test subject will “go weak.” If the answer is yes or calibrates over 200, he will “go strong.” To demonstrate the procedure, one might have the subject hold an image of Abraham Lincoln in mind while being tested, and then, for contrast, an image of Adolf Hitler. The same effect can be demonstrated by holding in mind someone who is loved in contrast to someone who is feared, hated, or about whom there is some strong regret. Once a numeric scale is elicited (see below) calibrations can be arrived at by stating, “This item” (such as this book, organization, this person’s motive, and so on) calibrates “over 100,” then “over 200,” then “over 300,” until a negative response is obtained. The calibration can then be refined: “It is over 220. 225. 230.,” and so on. Tester and testee can trade places, and the same results will be obtained. Once one is familiar with the technique, it can be used to evaluate companies, movies, individuals, or events in history; it can also be used to diagnose current life problems. ([Location 789](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=789))
+- The test procedure, the reader will note, is to use the muscle test to verify the truth or falsity of a declarative statement. Unreliable responses will be obtained if the question has not been put into this form. Nor can a reliable result be obtained from inquiry into the future; only statements regarding existent conditions or events in the past or present will produce consistent answers. It is necessary to be impersonal during the procedure to avoid transmitting positive or negative feelings. Accuracy is increased by having the test subject close his eyes, and there should be no music or distractions in the background. ([Location 801](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=801))
+- Because the test is so deceptively simple, it is well that inquirers first verify its accuracy to their own satisfaction. Responses can be checked by cross-questioning, and everyone who becomes acquainted with the technique thinks of tricks to satisfy themselves that it is reliable.9 It will soon be found that the same response is observed in all subjects, that it is not necessary for the subject to have any knowledge of the matter in question, and that the response will always be independent of the test subject’s personal opinions about the question. Before presenting an inquiry, we have found that it is useful to first test the statement, “I have permission to ask this question.” This is analogous to an entry requisite on a computer terminal, and will occasionally return a “no” answer. This indicates that one should leave that question alone or inquire carefully into the reason for the “no.” Perhaps the questioner might have experienced psychological distress from the answer or its implications at that time, or for other unknown reasons.10 In this study, test subjects were asked to focus on a specified thought, feeling, attitude, memory, relationship, or life circumstance. The test was frequently done in large groups of people; for demonstration purposes, we first established a baseline by asking the subjects, eyes closed, to hold in mind the memory of a time when they were angry, upset, jealous, depressed, guilty, or fearful; at that point, everyone universally went weak. We would then ask them to hold in mind a loving person or life situation, and everyone would go strong; typically a murmur of surprise would ripple through the audience at the implications of what they had just discovered. ([Location 806](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=806))
+- the mere image of a substance held in the mind produced the same response as if the substance itself were in physical contact with the body. ([Location 820](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=820))
+    - Tags: [[pink]] 
+- some people primarily adopt a feeling mode, ([Location 825](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=825))
+- others are more auditory, ([Location 825](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=825))
+    - Tags: [[blue]] 
+- still others are more visual. ([Location 826](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=826))
+    - Tags: [[pink]] 
+- Occasionally, in an effort, perhaps even unconscious, to disguise their response, subjects will select a mode that is not their customary mode of processing and give a false response. When the tester elicits a paradoxical response, the question should be rephrased. For example, a patient who feels guilty about his anger toward his mother may hold in mind a photograph of her and test strong. However, if the tester were to rephrase the question by asking this subject to hold in mind his present attitude toward his mother, the subject would instantly go weak. ([Location 829](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=829))
+    - Tags: [[orange]] 
+- All levels below 200 are destructive of life in both the individual and society at large; in contrast, all levels above 200 are constructive expressions of power. ([Location 984](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=984))
+- force (or falsehood) from power (or truth). ([Location 986](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=986))
+    - Tags: [[blue]] 
+- The Shame-based personality is shy, withdrawn, and introverted. ([Location 996](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=996))
+    - Tags: [[orange]] 
+- The downside of Pride, therefore, is arrogance and denial. ([Location 1080](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=1080))
+    - Tags: [[pink]] 
+- in Pride, recovery from addictions is impossible because emotional problems or character defects are denied. ([Location 1080](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=1080))
+    - Tags: [[orange]] 
+- At the Neutral level, a person can say, “Well, if I don’t get this job, then I’ll get another.” This is the beginning of inner confidence; sensing one’s power, one is therefore not easily intimidated. One is not driven to prove anything. The expectation that life, with its ups and downs, will be basically okay if one can roll with the punches is a typical 250-level attitude. ([Location 1103](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=1103))
+    - Tags: [[pink]] 
+- People at this level are easy to get along with, safe to be around and associate with, because they are not interested in conflict, competition, or guilt. ([Location 1107](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=1107))
+    - Tags: [[orange]] 
+- They are comfortable and basically undisturbed emotionally. This attitude is nonjudgmental and does not lead to any need to control other people’s behaviors. ([Location 1108](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=1108))
+- Correspondingly, because Neutral people value freedom, they are hard to control. ([Location 1109](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=1109))
+    - Tags: [[blue]] 
+- Below the 200 calibration level, people tend to be close-minded, ([Location 1114](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=1114))
+    - Tags: [[orange]] 
+- The Willing are not really troubled by unemployment, for they will take any job when they have to, or create a career or self-employment for themselves. ([Location 1115](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=1115))
+    - Tags: [[pink]] 
+- They are also willing to face inner issues and do not have major learning blocks. ([Location 1117](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=1117))
+    - Tags: [[orange]] 
+- At this level of awareness, a major transformation takes place, with the understanding that one is oneself the source and creator of the experience of one’s life. ([Location 1123](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=1123))
+- Taking such responsibility is distinctive of this degree of evolution, characterized by the capacity to live harmoniously with the forces of life. ([Location 1124](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=1124))
+    - Tags: [[blue]] 
+- The individual at the level of Acceptance is not interested in determining right or wrong, but instead is dedicated to resolving issues and finding out what to do about problems. ([Location 1134](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=1134))
+    - Tags: [[orange]] 
+- self-discipline and mastery are prominent. ([Location 1136](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=1136))
+    - Tags: [[blue]] 
+- The 500 level is characterized by the development of a Love that is unconditional, unchanging, and permanent. It does not fluctuate because its source within the person who loves is not dependent on external conditions. Loving is a state of being. It is a way of relating to the world that is forgiving, nurturing, and supportive. Love is not intellectual and does not proceed from the mind. Love emanates from the heart. It has the capacity to lift others and accomplish great feats because of its purity of motive. ([Location 1160](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=1160))
+    - Tags: [[blue]] 
+- Love takes no position and thus is global, rising above the separation of positionality. ([Location 1169](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=1169))
+    - Tags: [[pink]] 
+- This is the level of true happiness, but although the world is fascinated with the subject of Love, and all viable religions calibrate at 500 or over, it is interesting to note that only 4.0 percent of the world’s population ever reaches this level of the evolution of consciousness. Only 0.4 ([Location 1172](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=1172))
+    - Tags: [[orange]] 
+- Joy ([Location 1175](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=1175))
+    - Tags: [[blue]] 
+- As Love becomes more and more unconditional, it begins to be experienced as an inner Joy. ([Location 1175](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=1175))
+- enormous patience ([Location 1179](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=1179))
+    - Tags: [[orange]] 
+- persistence of a positive attitude in the face of prolonged adversity. ([Location 1179](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=1179))
+    - Tags: [[blue]] 
+- compassion. ([Location 1180](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=1180))
+    - Tags: [[pink]] 
+- There is a desire to use one’s state of consciousness for the benefit of life itself rather than for particular individuals. ([Location 1186](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=1186))
+    - Tags: [[orange]] 
+- This capacity to love many people simultaneously is accompanied by the discovery that the more one loves, the more one can love. ([Location 1187](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=1187))
+    - Tags: [[blue]] 
+- power arises from meaning. ([Location 1631](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=1631))
+- motive, ([Location 1632](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=1632))
+    - Tags: [[blue]] 
+- principle. ([Location 1632](https://readwise.io/to_kindle?action=open&asin=B00EJBABS2&location=1632))
+    - Tags: [[pink]] 

@@ -1,0 +1,5 @@
+---
+tags: []
+---
+
+“For every minute you are angry, you lose sixty seconds of happiness” 

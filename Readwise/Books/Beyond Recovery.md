@@ -1,0 +1,251 @@
+# Beyond Recovery
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/61%2Bc0Drqg6L._SL200_.jpg)
+
+## Metadata
+- Author: [[Fred Davis]]
+- Full Title: Beyond Recovery
+- Category: #books
+
+## Highlights
+- Our problems are not necessarily solved, but we do find that most of them will lose their charge. ([Location 83](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=83))
+- pressing spiritual questions may not be answered, but many of the ones that aren’t will cease to be so important. The deadly seriousness of everyday life is dramatically lessened or even eliminated. There is a flood of peace, an experience of freedom and overall well-being that was previously unknown to us. We will immediately know things we cannot even dream of until the shift happens. ([Location 86](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=86))
+- We are seeking a stable shift that requires absolutely no effort to maintain. Some ([Location 91](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=91))
+    - Tags: [[blue]] 
+- our insistence on being special is precisely what keeps us from it! The ([Location 93](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=93))
+    - Tags: [[pink]] 
+- Natural living follows natural being, not the other way around. ([Location 101](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=101))
+    - Tags: [[orange]] 
+- “Gateless Gate” ([Location 116](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=116))
+- Thus when I was thirty years old I found myself bedding down under heavy medication in the locked facilities of a mental hospital. For the second time. This is not a life that’s on track for good things to happen. ([Location 147](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=147))
+    - Tags: [[pink]] 
+- I developed an acute, chronic case of less-than. ([Location 163](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=163))
+- The nondual awareness I am speaking of comes when the illusion of separation effectively surrenders to the truth of unity. ([Location 206](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=206))
+    - Tags: [[blue]] 
+- We could say that our goal and approach determine our outcome; ([Location 215](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=215))
+- “There is a principle which is a bar against all information, which is proof against all arguments and which cannot fail to keep a man in everlasting ignorance—that principle is contempt prior to investigation.” ([Location 225](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=225))
+    - Tags: [[orange]] 
+- Our only shot at power lies in accepting our complete lack of it. ([Location 234](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=234))
+- surrender ([Location 241](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=241))
+    - Tags: [[blue]] 
+- two camps. ([Location 242](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=242))
+    - Tags: [[pink]] 
+- The larger camp surrenders selectively. ([Location 242](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=242))
+    - Tags: [[orange]] 
+- We surrender to this but not that. We accept that thing but not this thing. We let go of one event but not another. In recovery, this selective surrender plays out when we accept our powerlessness over our drug or behavior of choice, but we retain the story of our power in everything else. Our life’s lack of manageability is generally seen to be chiefly a symptom of our addiction. In every other thing, we like to think we are fine. We may not say it outloud, but we say it in how we live our lives. We may do everything else recovery requires of us, but that absolute surrender-to-God’s-will thing? Not so much. ([Location 242](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=242))
+- They tell us to make our best efforts but leave the results to our Higher Power. ([Location 247](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=247))
+    - Tags: [[blue]] 
+- There are some people, however, who really let go. They know that they can’t tell a blessing from a curse. ([Location 249](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=249))
+    - Tags: [[pink]] 
+- Addiction, for instance, was the worst thing that ever happened to us until it became the best. ([Location 251](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=251))
+- But there will not be any underlying sense of their being “irritable, restless, or discontent.” When things don’t go their way, they accept and adjust quickly. ([Location 255](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=255))
+    - Tags: [[pink]] 
+- third camp, ([Location 260](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=260))
+- we not only give up our attachments to conditions and outcomes, but we actually give up ourselves, or at least the story of ourselves. We trade in our limited identity for an unlimited one. ([Location 260](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=260))
+    - Tags: [[blue]] 
+- In Nonduality we learn that we’ve been suffering from another addiction, a secret addiction. We’ve been suffering from the addiction to self. ([Location 264](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=264))
+    - Tags: [[pink]] 
+- Rather than merely being caught in the bondage of self, we find that we have been caught in the bondage to a self. ([Location 265](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=265))
+    - Tags: [[orange]] 
+- our conceptual resistance to the living reality of oneness. ([Location 268](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=268))
+- To overcome the addiction to self, we have to come to want liberation more than we want anything else, even before we’re sure that there is, as Gertrude Stein said, “a there there.” I’m ([Location 270](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=270))
+- Or we could say they consciously live as truth all the time, which is more accurate. ([Location 274](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=274))
+    - Tags: [[blue]] 
+- Reality is what is ([Location 277](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=277))
+    - Tags: [[pink]] 
+- There is no such thing as what isn’t. ([Location 277](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=277))
+    - Tags: [[orange]] 
+- We use the mind but with the understanding that the mind cannot transcend the mind, not on its own. ([Location 283](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=283))
+- Einstein told us, “No problem can be solved from the same level of consciousness that created it.” ([Location 283](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=283))
+    - Tags: [[blue]] 
+- One of the ways we learn who we are is through discovering what we are not. ([Location 293](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=293))
+    - Tags: [[blue]] 
+- Nonduality is chock full of paradox, because what we’re talking about can’t really be talked about. ([Location 297](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=297))
+    - Tags: [[pink]] 
+- The tao that can be told is not the eternal Tao. The name that can be named is not the eternal Name. ([Location 300](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=300))
+    - Tags: [[orange]] 
+- the single verbness that is. ([Location 308](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=308))
+    - Tags: [[pink]] 
+- We’ll have to use labels and other concepts in order to properly conduct our investigation, but we never want to believe that any of them are true. ([Location 309](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=309))
+    - Tags: [[blue]] 
+- What if we didn’t need thirty years of prayer and meditation? Is it possible that in some cases such practices could actually impede our way? Could our case be one of them? ([Location 317](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=317))
+- What’s right for us? Is it at least possible that sainthood may be overrated? Is it possible that trying to be other than the way we already are is the perfect method to prevent us from being changed? ([Location 319](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=319))
+    - Tags: [[blue]] 
+- a willingness to be “other than the way we are” is quite different from trying to be other than the way we are. ([Location 320](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=320))
+    - Tags: [[pink]] 
+- The whole time my life was going down the tubes I was very clear on what the rest of the world should be doing! I was an instant expert on whatever popped into my mind. ([Location 326](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=326))
+    - Tags: [[orange]] 
+- Recovery taught me that, for me, being right was a fatal malady. I had to first be wrong before my conditions could begin to right themselves. ([Location 327](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=327))
+- every deep spiritual truth I’ve ever learned has shown me that the world works exactly the opposite of the way I always thought it did. ([Location 329](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=329))
+    - Tags: [[blue]] 
+- we can never see the most obvious thing until we can. ([Location 334](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=334))
+    - Tags: [[pink]] 
+- Then we can see nothing else, and we wonder why in the heck it took us so long to see it. ([Location 334](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=334))
+    - Tags: [[orange]] 
+- We cannot see the most obvious thing until something courted yet unbidden happens, and then we can see nothing else. ([Location 336](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=336))
+    - Tags: [[pink]] 
+- If we want to know and consciously be this truth, then we can begin to practice doing what truth does. Let’s practice being ourselves! Let’s start welcoming reality, this reality, this here, this now, this this, exactly as it is. There’s nothing conditional in that. For the moment, instead of thinking of our bodies as being “us,” let’s think of our them as being suits, something that we’re wearing, not something we truly are. Let’s endow our suits with the traditional Buddhist six senses: seeing, hearing, tasting, feeling, smelling and thinking. Now, let’s further pretend that reality—this reality—is a movie that our suits are watching. We can learn something of absolutely critical importance through this way of looking. When our suits take in the vast panorama of reality, what do they do with it? They do the same thing all computers do with information, which happens to be the same thing our brains do with information. They process it. And what does a “process” of any kind need? Time. So, in the relative model there is a delay between perception and reception, and another one between reception and conception. In other words, although our suits may be experiencing something called the present moment, we, the wearer, are always looking at the past. ([Location 343](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=343))
+- Reality is always a done deal. ([Location 355](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=355))
+    - Tags: [[blue]] 
+- what is the point in our resisting what is, when what is already is? ([Location 356](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=356))
+    - Tags: [[blue]] 
+- Reality cannot occur any way other than the ([Location 360](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=360))
+- way it occurs. Everything is woven together. ([Location 360](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=360))
+- There is no wisdom whatsoever in resisting what is. Our mind wants to turn it around and around in the futile hope that if it does so long enough and hard enough it can come up with a workable alternative that better suits our conceptual separate me’s desires and demands. But it never will. It can’t. It’s over. Our perceived reality is always already past. For goodness’ sake, let’s just get out of the way and let what already is go on doing what it’s already doing! ([Location 363](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=363))
+    - Tags: [[blue]] 
+- Of course that stage of surrender didn’t last long; it almost never does. Soon enough I began to take back the reins, succumb to the rising sureness of my own beliefs, opinions, and positions. In other words, I started to see just how things ought to be and to complain about my lot in life the same way any poor victim like me would. When I first got to the rooms, all I wanted was to not suffer ([Location 376](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=376))
+- I did the best I could. We all do. ([Location 385](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=385))
+- I tried on humility, and I gave it a test drive from time to time, but I found that it was a little too constricting. You can’t be humble and complain at the same time, just as gratitude and fear can’t inhabit the same space. ([Location 385](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=385))
+    - Tags: [[pink]] 
+- What we learn is how to surrender just enough to remain abstinent-and-in-charge. ([Location 393](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=393))
+- Teachers are not trying to get anyone to believe these teachings. They’re not even true! They’re pointing toward truth, but they’re not true in and of themselves. ([Location 401](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=401))
+- “spectator” ([Location 404](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=404))
+    - Tags: [[orange]] 
+- I know, I know, the mind will tell us, “Well gee, he’s saying that I’m only part of the one thing going on, so I can’t have free will! Heck, I might as well do whatever I want!” I hear variations on this all the time. This is not spirituality. At all. When the precept of oneness is employed in this manner, “doing what I want” is never doing what I think is right, but always what I want to do anyway. This is egoism via intellectualism, and it will lead to either hedonism, or nihilism, or both. Leave it alone for now. ([Location 405](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=405))
+- Try to accept, just for now, that we can’t know what we don’t know. ([Location 410](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=410))
+    - Tags: [[blue]] 
+- we come because things have gone south on us. ([Location 416](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=416))
+- What I found out is that we can’t ever go around anything. ([Location 422](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=422))
+    - Tags: [[pink]] 
+- The only way to something is through something else. ([Location 423](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=423))
+    - Tags: [[orange]] 
+- If I want to be on the other bank, then I have to cross the river. ([Location 423](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=423))
+- If I want less suffering, I’ve got to go through the suffering that I have, and allow it to fully discharge. ([Location 424](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=424))
+    - Tags: [[blue]] 
+- If I want truth, I’ve got to work my way through the lies and get to honesty. ([Location 424](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=424))
+    - Tags: [[pink]] 
+- We can learn to use suffering as a signal. ([Location 425](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=425))
+- Suffering means we’ve made something up and have decided to believe it. ([Location 428](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=428))
+    - Tags: [[blue]] 
+- In short, when we’re suffering, it means that we’re cheerlessly living in the denial of oneness. ([Location 432](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=432))
+- It’s not “me over here and oneness over there,” which ([Location 436](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=436))
+    - Tags: [[pink]] 
+- There is recognizable, patterned activity happening where our bodies live, but it’s webbed to the activity of the entire universe. There is no separate entity anywhere, ever, except in our heads. ([Location 437](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=437))
+- “entity equals suffering.” ([Location 439](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=439))
+    - Tags: [[blue]] 
+- One Taste. ([Location 443](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=443))
+    - Tags: [[pink]] 
+- They don’t have much time left, nor any story left that’s worth defending; consequently, truth has a way to slip in under the door, so to speak. ([Location 457](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=457))
+    - Tags: [[orange]] 
+- The great thing about addiction recovery is that, in the face of abject failure, something grand and magical happened to us, and it happened through acceptance. ([Location 461](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=461))
+- Not through resignation but through real honest surrender. ([Location 462](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=462))
+    - Tags: [[blue]] 
+- Recovery has done us yet another great favor. It has actually primed us for nondual surrender. ([Location 463](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=463))
+- unshakable new belief in a power greater than ourselves via our own powers of observation and reason. ([Location 470](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=470))
+- To gain conviction, we perform a personal investigation into the nature of our situation and come to understand that our old way of seeing things was narrow, inaccurate, and dangerous. ([Location 470](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=470))
+    - Tags: [[blue]] 
+- A great many people arrive at recovery’s door claiming to be atheists and agnostics, when in fact they are not. In practically every case, the individual’s own ego is functioning as a personal god. ([Location 473](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=473))
+    - Tags: [[pink]] 
+- It’s far more important to put the old god out of business than it is to instill a belief in a new one. ([Location 475](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=475))
+    - Tags: [[orange]] 
+- Recovery is nothing but spirituality. ([Location 478](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=478))
+    - Tags: [[pink]] 
+- I have found that if a newcomer is sufficiently deflated via his own experience, then coming to an agreement about a Higher Power is not particularly difficult because no real agreement is necessary. ([Location 481](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=481))
+    - Tags: [[orange]] 
+- We have regained or perhaps found for the first time some measure of peace and self-respect. Some would wonder why then are we in search of a deeper spiritual understanding. Who would want to “fix” what’s already so good and why? The answer is simple. The decision to come to this teaching is never our own. We come because we have to. We can’t not come. ([Location 489](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=489))
+- For some of us, even when life is quite good, there can still arise an unspecified gnawing, an unfounded suspicion, almost, that there is something yet unknown for us, something beyond our current experience. We are drawn to it like moths to a flame. ([Location 492](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=492))
+    - Tags: [[blue]] 
+- relentless curiosity. ([Location 497](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=497))
+    - Tags: [[pink]] 
+- experiential rediscovery of our true nature. ([Location 499](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=499))
+    - Tags: [[orange]] 
+- glimpsing our beingness is only the commencement of enlightenment; it’s not the end of anything but conventional seeking. ([Location 513](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=513))
+- It’s sometimes said in nondual circles that enlightenment takes from five to fifteen years to really settle in, assuming that we remain open to awakeness. That tallies perfectly with my experience. ([Location 514](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=514))
+    - Tags: [[pink]] 
+- Since there is just one thing going on, then it naturally has to encompass everything. ([Location 518](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=518))
+    - Tags: [[orange]] 
+- We don’t have to throw anything out in order to study or follow Nonduality. ([Location 518](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=518))
+- The nondual path is all about inclusion, not exclusion. It is the “freedom to be,” not the “restriction from doing.” ([Location 519](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=519))
+    - Tags: [[blue]] 
+- Our world is our very own private projection. ([Location 525](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=525))
+    - Tags: [[blue]] 
+- The whole thing is already ours: what else could we need beyond the everything we already have and are? ([Location 527](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=527))
+- This selective life strategy works for us until it doesn’t. ([Location 530](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=530))
+    - Tags: [[pink]] 
+- if we’re not angling for the world to fill our every demand, every physical, emotional and existential need, then our experience of the world is a lot more enjoyable. ([Location 533](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=533))
+    - Tags: [[orange]] 
+- Amazingly, everything still works, even in the absence of our “help and management.” It even works better! We can relax. ([Location 537](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=537))
+- You have a voice inside your head. Check to see if it doesn’t spend the great majority of its time complaining. I’m betting it does. ([Location 543](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=543))
+- We were promised a dose of a pleasant if short-lived drug, and we didn’t get it. We feel not just disappointed but deceived. ([Location 545](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=545))
+    - Tags: [[blue]] 
+- Conversely, when we really do get caught up in an entertainment like books, movies, video games, sports, travel, dining, sex, bird watching, fishing, or what have you, we temporarily drop our current story, and the voice of ego shuts up. ([Location 546](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=546))
+    - Tags: [[pink]] 
+- our apparent identity is actually a moment-to-moment affair that changes so swiftly it feels like there is a real core there. There isn’t. ([Location 549](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=549))
+    - Tags: [[orange]] 
+- In the absence of a make-believe entity, there is only what is, and what is is always peaceful. ([Location 552](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=552))
+- When consciousness is knowingly being itself, ([Location 555](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=555))
+- If you’re not actively reincarnating ego in every fresh second, it disappears. ([Location 557](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=557))
+    - Tags: [[blue]] 
+- We can think of ego as being like a rainbow. A rainbow doesn’t really exist as a thing, it’s just a play of light, but it appears to exist under certain conditions and from certain vantage points. ([Location 561](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=561))
+- “Are we getting beaten up in life because we are experiencing a collision with reality as it is, or are we being beaten up because our story about reality is in collision with reality as it is?” ([Location 571](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=571))
+- An honest look will tell us that we are never being psychologically beaten up by reality but by our failure to recognize reality, by insisting on our story of how things should be versus things as they are. ([Location 572](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=572))
+    - Tags: [[blue]] 
+- “In the absence of my opinion, everything seems to be going fine.” ([Location 575](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=575))
+    - Tags: [[pink]] 
+- Reality is always simple. It’s what’s right here, right now, ([Location 576](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=576))
+- Everything else is in our heads, and it’s simply not real. It’s just story: endless self-perpetuating story. ([Location 577](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=577))
+    - Tags: [[blue]] 
+- zero psychological suffering. ([Location 579](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=579))
+- We think our insanity is caused by our addiction, when in fact it’s completely the reverse. ([Location 596](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=596))
+- Addiction is an effort to deal with the painful insanity of living in the dream of separation. ([Location 597](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=597))
+    - Tags: [[blue]] 
+- Other than for brief moments, inherent disillusion and dissatisfaction are always either around or around the corner. ([Location 602](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=602))
+- The conscious, knowing experience of reality that we gain in place of ego is real. In fact, it is reality itself. Lose nothing and gain everything. ([Location 617](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=617))
+- But whether we save or lose our planet, the ground of being won’t be hurt one iota. It can’t be. ([Location 629](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=629))
+    - Tags: [[blue]] 
+- Go back to your childhood for a moment. ([Location 634](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=634))
+- Is there not a sense of aliveness? ([Location 636](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=636))
+    - Tags: [[blue]] 
+- Now find a pleasant scene that is halfway between that scene’s time and this present moment. ([Location 639](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=639))
+    - Tags: [[pink]] 
+- Do you once again notice that you know you’re there? ([Location 641](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=641))
+- Now come to the present. ([Location 643](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=643))
+    - Tags: [[orange]] 
+- You know that you are. You know that you exist. ([Location 644](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=644))
+- Now let’s revisit both of the earlier scenes. Let’s compare that pure sense of being, the pure experience of aliveness, of existence, that was there in your childhood scene with the sense of presence that you had in the second scene. Are they different? ([Location 647](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=647))
+    - Tags: [[blue]] 
+- That pure sense of being has remained just so all the way from childhood to the present. All the things in the scenes were different; everything being seen changed. But the thing that was doing the seeing, the underlying sense of being, the thing that was doing the looking remained the same. ([Location 654](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=654))
+- Now let’s go back to that first scene, back to when you were a child. Is there not a feeling that the sense of existence was always there? Can you actually imagine a time when that sense of being did not exist? ([Location 658](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=658))
+- Each of us knows we are. Each of us can say “I Am” with identical authority, using our sense of being to speak about our sense of being. When a flower leans toward the sun, it is saying, “I Am.” When a rock sits still in its rockness, it is saying, “I Am.” Every animal on the planet, from an insect to an elephant, by its very presence is also saying, “I Am.” Stars do the same, and galaxies do the same. On a subtle level, every idea says, “I Am.” Every thought, no matter how revolutionary or ludicrous, is also saying, “I Am.” Because everything is. Regardless of their apparent differences, all things live in a homogenous commonality. All things are joined by it. Every wave in the ocean has more in common than it has in difference. Each of them is a phenomenon playing out upon a background. ([Location 673](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=673))
+- Perhaps we can best imagine this background as space. This space, the very space surrounding us right this very moment, is alive. It is brimming with energy. This all-accepting, ever-changing, all-binding, so-called empty space is “I Am.” It does not exist in the now, it exists as the now. All things held within it are its mirrors; they are the face of no-face. This pulsing radiant I Amness can be called what is without the slightest bit of spiritual or religious undertone. What do the terms spiritual or un-spiritual even mean in the all-embracing all-encompassing, Nonduality of not-twoness? ([Location 679](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=679))
+    - Tags: [[blue]] 
+- “turning it over” ([Location 712](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=712))
+- There’s no better, higher, or more beautiful way to travel clean and sober along life’s path. ([Location 712](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=712))
+    - Tags: [[blue]] 
+- In Nonduality we look at surrender from the other direction. Here we examine our most-sure, most-core addiction, which is our addiction to the dream of being a separate self. If we examine it closely, openly, and regularly with honesty and humility, truth will begin to reveal itself, and that addiction will begin fade. ([Location 713](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=713))
+    - Tags: [[pink]] 
+- This illusion of a separate self is the very dream that led us through the addict’s hell for all those years. ([Location 717](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=717))
+    - Tags: [[orange]] 
+- “Is there really an individual here to have or not have a will?” ([Location 721](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=721))
+- begin to rely on our own inquiry ([Location 729](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=729))
+    - Tags: [[pink]] 
+- this is a do-it-for-yourself program, ([Location 730](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=730))
+    - Tags: [[orange]] 
+- Notice that any position about anything, pro or con, exists only in the light of its opposite, of the other. ([Location 734](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=734))
+- If it’s got an opposite, it’s not really true. ([Location 736](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=736))
+    - Tags: [[pink]] 
+- If we already have a teacher, or we’re already pursuing this teaching through books and other media, then we join our inquiry to those sources, but neither replaces the other. ([Location 738](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=738))
+    - Tags: [[orange]] 
+- This “lab work to field work, and back again” ([Location 742](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=742))
+- We do what we do until we do something else. ([Location 749](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=749))
+- “Help me quickly and gracefully accept what is already going on.” ([Location 754](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=754))
+- One of the odd things about Nonduality is that where we take our stand dictates how the world works. ([Location 761](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=761))
+- “What you get is what you see.” ([Location 765](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=765))
+- Awakeness is quiet bliss itself; ([Location 775](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=775))
+- The future is not fixed and none of us can guess it. ([Location 788](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=788))
+- “The future” is just an idea in our heads and nothing more. ([Location 790](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=790))
+- If we pay just the slightest bit of attention, we can see for ourselves that at the moment we begin to tell our story of future, we begin to suffer. Even if it’s a wonderful ([Location 791](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=791))
+- We can spend it in doing—worrying and warring—which are two methods of resistance, or we can spend it in being—peace and beauty—which are two aspects of surrender. ([Location 802](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=802))
+- We’re afraid of four things: we’re not going to get something we want, we’re going to lose something we have, we’re going to get hurt, or we’re going to die. ([Location 810](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=810))
+    - Tags: [[blue]] 
+- No dilemma is quite so bad as our dilemma. ([Location 814](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=814))
+    - Tags: [[pink]] 
+- Our opinions are generally in conflict with reality, so they are the source of unnecessary suffering. An opinion is layered on top of reality. It offers no benefit to anyone. ([Location 818](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=818))
+- in the absence of interference, action will be both more efficient and more effective. ([Location 823](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=823))
+    - Tags: [[blue]] 
+- “Should” and “shouldn’t” are fine words to use, but let’s not believe them. ([Location 827](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=827))
+    - Tags: [[pink]] 
+- It’s a simple life. ([Location 843](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=843))
+- Let’s look at the claim for past and future. Let’s start by noticing that we’re investigating them right now, in the present. When else could we investigate them? There is no “when else.” Ever. There is always only now. Check it out for yourself. Think of a “past event.” When are you seeing it? Now. Where are you seeing it? Here. Where else? Nowhere else, because there is nowhere else. This is just too simple for the mind to grab hold of. There is only now? There is only here? Those are the facts. If you try this same exercise with future, you’ll get the same result. Past and future are mental constructs. ([Location 848](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=848))
+- There’s no we who are fearless; there is just fearlessness. There ([Location 861](https://readwise.io/to_kindle?action=open&asin=B00PSOWJXE&location=861))
+    - Tags: [[pink]] 

@@ -1,0 +1,98 @@
+# Searching for the Self
+
+![rw-book-cover](https://m.media-amazon.com/images/I/81zCwqeVhTL._SY160.jpg)
+
+## Metadata
+- Author: [[Dalai Lama and Thubten Chodron]]
+- Full Title: Searching for the Self
+- Category: #books
+
+## Highlights
+- MANY OF THE PRACTICES we do on the path to awakening are to prepare us to study, contemplate, meditate on, and realize the nature of reality, for this is the realization that has the power to cut our defilements from their root. ([Location 197](https://readwise.io/to_kindle?action=open&asin=B09Q3MJ3LK&location=197))
+    - Tags: [[orange]] 
+- The thirty-seven harmonies with awakening are also held in common. ([Location 215](https://readwise.io/to_kindle?action=open&asin=B09Q3MJ3LK&location=215))
+- the nature of reality. ([Location 236](https://readwise.io/to_kindle?action=open&asin=B09Q3MJ3LK&location=236))
+    - Tags: [[orange]] 
+- Nālandā tradition of India. ([Location 237](https://readwise.io/to_kindle?action=open&asin=B09Q3MJ3LK&location=237))
+- In the Nālandā tradition, our motivation for education is to increase our ability to contribute to the well-being of others and to progress on the path to full awakening. ([Location 240](https://readwise.io/to_kindle?action=open&asin=B09Q3MJ3LK&location=240))
+    - Tags: [[orange]] 
+- Teachers don’t give students all the answers, but present different viewpoints and questions that the students discuss and debate among themselves. ([Location 242](https://readwise.io/to_kindle?action=open&asin=B09Q3MJ3LK&location=242))
+- the wisdom that realizes selflessness and emptiness. ([Location 248](https://readwise.io/to_kindle?action=open&asin=B09Q3MJ3LK&location=248))
+    - Tags: [[orange]] 
+- People have a variety of views, and even within one person there exist many contradictory ideas and perceptions. ([Location 255](https://readwise.io/to_kindle?action=open&asin=B09Q3MJ3LK&location=255))
+    - Tags: [[pink]] 
+- Logic and reasoning are not employed for the egotistic goal of being the victor in a debate. Rather, they are employed to disprove the distorted views we cling to so strongly and ignite the light of wisdom in our minds. ([Location 260](https://readwise.io/to_kindle?action=open&asin=B09Q3MJ3LK&location=260))
+    - Tags: [[blue]] 
+- In minds that are ([Location 263](https://readwise.io/to_kindle?action=open&asin=B09Q3MJ3LK&location=263))
+- crowded with wrong views and distracted by attachment to only the happiness of this life, there is no room for reality. ([Location 263](https://readwise.io/to_kindle?action=open&asin=B09Q3MJ3LK&location=263))
+- meditate one-pointedly on emptiness to gain insight into emptiness, ([Location 267](https://readwise.io/to_kindle?action=open&asin=B09Q3MJ3LK&location=267))
+    - Tags: [[pink]] 
+- Emptiness is the ultimate mode of existence, and the wisdom realizing it directly is the only medicine that can cure saṃsāra and its duḥkha once and for all. ([Location 475](https://readwise.io/to_kindle?action=open&asin=B09Q3MJ3LK&location=475))
+    - Tags: [[orange]] 
+- Ceasing saṃsāra entails eradicating its causes—afflictions and polluted ([Location 483](https://readwise.io/to_kindle?action=open&asin=B09Q3MJ3LK&location=483))
+    - Tags: [[blue]] 
+- karma—which are rooted in the ignorance grasping persons and phenomena as inherently existent. To identify this ignorance and the false object it grasps necessitates observing our mind closely, seeing how we easily assent to and grasp as true the false appearance of everything existing under its own power, independent of all other factors. Correctly identifying this self-grasping ignorance that is the root of saṃsāra is extremely important, for without this we will not be able to eliminate it. ([Location 484](https://readwise.io/to_kindle?action=open&asin=B09Q3MJ3LK&location=484))
+    - Tags: [[blue]] 
+- “object of negation” ([Location 489](https://readwise.io/to_kindle?action=open&asin=B09Q3MJ3LK&location=489))
+    - Tags: [[blue]] 
+- All existents—be they impermanent or permanent—exist depending on other factors. ([Location 506](https://readwise.io/to_kindle?action=open&asin=B09Q3MJ3LK&location=506))
+- Being dependent, they lack an independent, inherent essence that makes them what they are. ([Location 507](https://readwise.io/to_kindle?action=open&asin=B09Q3MJ3LK&location=507))
+    - Tags: [[blue]] 
+- wisdom realizing the subtle selflessness of persons and phenomena. ([Location 535](https://readwise.io/to_kindle?action=open&asin=B09Q3MJ3LK&location=535))
+    - Tags: [[orange]] 
+- By realizing emptiness, we cease to assent to or grasp ignorance’s false appearances. ([Location 535](https://readwise.io/to_kindle?action=open&asin=B09Q3MJ3LK&location=535))
+    - Tags: [[pink]] 
+- suchness ([Location 538](https://readwise.io/to_kindle?action=open&asin=B09Q3MJ3LK&location=538))
+    - Tags: [[pink]] 
+- the complete refutation of self-existence with respect to all internal phenomena ([Location 539](https://readwise.io/to_kindle?action=open&asin=B09Q3MJ3LK&location=539))
+- and external phenomena ([Location 540](https://readwise.io/to_kindle?action=open&asin=B09Q3MJ3LK&location=540))
+- The correct view is the view of the Middle Way that proclaims the dependent arising of all phenomena and their emptiness of inherent existence are complementary. ([Location 570](https://readwise.io/to_kindle?action=open&asin=B09Q3MJ3LK&location=570))
+- The nature of emptiness is the mere negation of grasping inherent existence; the purpose of teaching emptiness is to eliminate that grasping that lies at the root of all afflictions and duḥkha; ([Location 574](https://readwise.io/to_kindle?action=open&asin=B09Q3MJ3LK&location=574))
+    - Tags: [[blue]] 
+- the ([Location 575](https://readwise.io/to_kindle?action=open&asin=B09Q3MJ3LK&location=575))
+    - Tags: [[blue]] 
+- meaning of emptiness is that all phenomena lack inherent existence and exist dependently. ([Location 576](https://readwise.io/to_kindle?action=open&asin=B09Q3MJ3LK&location=576))
+    - Tags: [[blue]] 
+- “A mind that has no object” ([Location 584](https://readwise.io/to_kindle?action=open&asin=B09Q3MJ3LK&location=584))
+    - Tags: [[orange]] 
+- As long as we believe there is an objectified basis—something that by its own nature is that object—grasping its inherent existence will arise. ([Location 585](https://readwise.io/to_kindle?action=open&asin=B09Q3MJ3LK&location=585))
+    - Tags: [[pink]] 
+- If the impermanent things that surround us in daily life existed independent of all other factors, they would be unable to change. ([Location 592](https://readwise.io/to_kindle?action=open&asin=B09Q3MJ3LK&location=592))
+    - Tags: [[orange]] 
+- Seeking an essence, we find only essencelessness. ([Location 597](https://readwise.io/to_kindle?action=open&asin=B09Q3MJ3LK&location=597))
+    - Tags: [[pink]] 
+- Space is defined only in negative terms; it is the absence of obstruction. ([Location 600](https://readwise.io/to_kindle?action=open&asin=B09Q3MJ3LK&location=600))
+    - Tags: [[orange]] 
+- Aside from this, nothing can be pointed to as being space. ([Location 600](https://readwise.io/to_kindle?action=open&asin=B09Q3MJ3LK&location=600))
+    - Tags: [[pink]] 
+- when we search for the essence of any object with ultimate analysis, only emptiness—the absence of inherent existence—is found. ([Location 601](https://readwise.io/to_kindle?action=open&asin=B09Q3MJ3LK&location=601))
+    - Tags: [[blue]] 
+- the teachings on emptiness dismantle any basis for grasping, and the meditative equipoise on emptiness is called “space-like meditation.” ([Location 602](https://readwise.io/to_kindle?action=open&asin=B09Q3MJ3LK&location=602))
+- The objector says that if everything is empty of inherent existence, nothing could arise and cease, and thus true duḥkha and true origins would not arise and could not cease. ([Location 630](https://readwise.io/to_kindle?action=open&asin=B09Q3MJ3LK&location=630))
+    - Tags: [[pink]] 
+- the nature of emptiness is peaceful ([Location 640](https://readwise.io/to_kindle?action=open&asin=B09Q3MJ3LK&location=640))
+    - Tags: [[orange]] 
+- absence of all dualistic appearances. ([Location 641](https://readwise.io/to_kindle?action=open&asin=B09Q3MJ3LK&location=641))
+    - Tags: [[pink]] 
+- the fact that all phenomena are empty of inherent existence allows all the functions and relationships of saṃsāra and nirvāṇa to exist. ([Location 644](https://readwise.io/to_kindle?action=open&asin=B09Q3MJ3LK&location=644))
+    - Tags: [[pink]] 
+- If phenomena existed independent of all other factors, they couldn’t interact with other factors and thus couldn’t arise, change, function, or cease ([Location 645](https://readwise.io/to_kindle?action=open&asin=B09Q3MJ3LK&location=645))
+    - Tags: [[blue]] 
+- Because phenomena lack inherent existence, they exist dependently. ([Location 654](https://readwise.io/to_kindle?action=open&asin=B09Q3MJ3LK&location=654))
+    - Tags: [[orange]] 
+- True duḥkha arises dependent on its causes, true origins. ([Location 654](https://readwise.io/to_kindle?action=open&asin=B09Q3MJ3LK&location=654))
+    - Tags: [[pink]] 
+- overcome by realizing true paths, ([Location 654](https://readwise.io/to_kindle?action=open&asin=B09Q3MJ3LK&location=654))
+    - Tags: [[blue]] 
+- true cessations. ([Location 655](https://readwise.io/to_kindle?action=open&asin=B09Q3MJ3LK&location=655))
+- danger of teaching emptiness to those who are not suitable vessels, ([Location 669](https://readwise.io/to_kindle?action=open&asin=B09Q3MJ3LK&location=669))
+    - Tags: [[orange]] 
+- percept. The chief danger is that an untrained person will misunderstand the teachings, mistake the emptiness of inherent existence for total nonexistence, and fall to the extreme of nihilism (deprecation), thinking that nothing exists or that actions do not bring results. ([Location 670](https://readwise.io/to_kindle?action=open&asin=B09Q3MJ3LK&location=670))
+    - Tags: [[pink]] 
+- law of karma ([Location 672](https://readwise.io/to_kindle?action=open&asin=B09Q3MJ3LK&location=672))
+    - Tags: [[orange]] 
+- cease to care about the ethical dimension of their actions. ([Location 672](https://readwise.io/to_kindle?action=open&asin=B09Q3MJ3LK&location=672))
+    - Tags: [[orange]] 
+- by misunderstanding the teachings on emptiness, someone may think that emptiness is nonsensical, thus hardening their belief that all phenomena inherently exist. ([Location 674](https://readwise.io/to_kindle?action=open&asin=B09Q3MJ3LK&location=674))
+    - Tags: [[orange]] 
+- absolutism (superimposition). Such wrong views perpetuate duḥkha in saṃsāra ([Location 675](https://readwise.io/to_kindle?action=open&asin=B09Q3MJ3LK&location=675))

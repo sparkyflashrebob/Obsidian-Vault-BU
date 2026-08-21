@@ -1,0 +1,863 @@
+# Manual of Insight
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/41iauD2thlL._SL200_.jpg)
+
+## Metadata
+- Author: [[Mahasi Sayadaw]]
+- Full Title: Manual of Insight
+- Category: #books
+
+## Highlights
+- The morality of wisely using requisites refers to keeping in mind the purpose for using the four requisites. ([Location 586](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=586))
+- “use of requisites on loan” ([Location 592](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=592))
+- “Just as a debtor cannot go where he wishes, so also the monk who uses things on loan cannot go out of the world.” ([Location 603](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=603))
+- wisely using requisites ([Location 639](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=639))
+- “moderation in eating,” ([Location 675](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=675))
+- Reflecting on the purpose for using the requisites ([Location 677](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=677))
+- Thus, keeping in mind the purpose for using the four requisites can be completely purified in two ways: ([Location 688](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=688))
+    - Tags: [[blue]] 
+- either by means of considering the purpose for using the requisites ([Location 688](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=688))
+    - Tags: [[pink]] 
+- or through meditation on any object. ([Location 689](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=689))
+    - Tags: [[orange]] 
+- Restraining the senses means to carefully restrain the senses in order to prevent the arising of defilements when one of the six types of sense objects enters one of the six sense doors and arouses one of the six sense consciousnesses. ([Location 691](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=691))
+- The subcommentary explains that one should not allow one’s mind to wander beyond the mere fact of seeing by paying attention to how beautiful or ugly a person is, and so forth. ([Location 697](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=697))
+- The mental defilements of craving and so on often result from paying close attention to the face and limbs of the opposite sex. ([Location 699](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=699))
+    - Tags: [[blue]] 
+- So one should not take an active interest in the body parts of a person of the opposite sex: the face, eyes, eyebrows, nose, lips, breasts, chest, arms, legs, and so on. ([Location 700](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=700))
+    - Tags: [[orange]] 
+- Similarly one should not take an active interest in his or her gestures: the way he or she smiles, laughs, talks, pouts, casts a side glance, and so on. ([Location 701](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=701))
+    - Tags: [[pink]] 
+- “He only apprehends what is really there.”33 ([Location 702](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=702))
+- When a visible form stimulates the eye-door, a sequence of mind moments occur as follows: one attends to the object (āvajjana), eye-consciousness (cakkhuviññāṇa) sees the object, receives the object (sampaṭicchana), investigates the object (santīraṇa), determines the object (votthapana), and fully perceives the object or moves toward it ( javana). ([Location 707](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=707))
+- Restraint may arise at the moment of full perception by means of morality (sīla), mindfulness (sati), knowledge (ñāṇa), forbearance (khanti), or effort (vīriya). ([Location 710](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=710))
+    - Tags: [[blue]] 
+- If any one of these forms of restraint arises, the morality of restraining the senses is fulfilled. ([Location 712](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=712))
+    - Tags: [[pink]] 
+- self-indulgence may arise due to immorality, mindlessness, ignorance, impatience, or idleness. ([Location 712](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=712))
+    - Tags: [[orange]] 
+- refers to the observation of monastic precepts. ([Location 715](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=715))
+    - Tags: [[pink]] 
+- “self-indulgence through immoral conduct” ([Location 716](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=716))
+- Restraint by means of mindfulness refers to restraint of the senses: ([Location 723](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=723))
+    - Tags: [[blue]] 
+- forgetting to be mindful will lead to self-indulgence (muṭṭhasacca-asaṃvara) that manifests as covetousness (abhijjhā) and aversion, ([Location 725](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=725))
+    - Tags: [[orange]] 
+- Perceiving and seeing that all conditioned things are impermanent, one restrains the current of defilements through wisdom.41 ([Location 740](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=740))
+- right kind of striving ([Location 749](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=749))
+- preliminary practice of restraint of the senses. ([Location 757](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=757))
+    - Tags: [[blue]] 
+- In order to purify morality by means of carefully restraining the senses prior to the practice of meditation, one must cultivate three types of restraint: restraint by means of mindfulness, restraint by means of forbearance, and restraint by means of effort. ([Location 759](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=759))
+    - Tags: [[pink]] 
+- One can arouse wholesomeness by means of self-control, by means of transforming one’s thoughts, by means of keeping busy doing good, and by means of steering one’s mind towards wholesomeness.43 ([Location 762](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=762))
+    - Tags: [[orange]] 
+- One should exert self-control: think, talk, and act only in wholesome ways; let only wholesomeness come in through one’s six sense doors; take extra care to arouse only wholesomeness; bear patiently with whatever may happen; and make great effort not to entertain unwholesome thoughts. With this kind of self-control, one rarely thinks of anything unwholesome. When that happens, one does not allow unwholesomeness to be aroused within; one tries to think in a wholesome way. ([Location 765](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=765))
+- If unwholesome thoughts arise, they should be transformed into wholesome thoughts. ([Location 772](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=772))
+    - Tags: [[blue]] 
+- One should keep oneself occupied all the time with wholesome deeds such as: learning, teaching, memorizing, reading, scrutinizing, and chanting the Buddhist scriptures; discharging the daily duties of a monk; discussing the Dhamma, only speaking about the Dhamma; giving or listening to Dhamma talks; and practicing asceticism (dhutaṅga). ([Location 782](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=782))
+    - Tags: [[pink]] 
+- One should encourage right attitude ( yoniso manasikāra) by steering one’s mind toward wholesomeness whenever one encounters sense objects. ([Location 787](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=787))
+    - Tags: [[orange]] 
+- There are many other ways of thinking, too, that will encourage a right attitude. Whichever way one steers one’s mind toward wholesomeness is honored as a right attitude. ([Location 809](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=809))
+- Restraint that comes from meditation ([Location 821](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=821))
+- The defilements to be overcome by means of restraining the senses are not the ones that result in verbal or physical transgressions that can be overcome by means of morality. They are the obsessive and dormant defilements that can only be rooted out by means of concentration (samādhi) and wisdom ( paññā). ([Location 828](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=828))
+    - Tags: [[blue]] 
+- five precepts ([Location 875](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=875))
+- eight precepts topped with right livelihood ([Location 875](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=875))
+    - Tags: [[blue]] 
+- The five precepts are universal and exist whether or not the Buddha’s teaching exists. They apply equally to all human societies regardless of time or place. To break the five precepts necessarily constitutes an offense, while observing them necessarily creates merit. That is simply the way it is. It is not something that was decided by the Buddha. ([Location 886](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=886))
+- Keeping in mind the purpose for using the four requisites pertains only to monks. ([Location 901](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=901))
+    - Tags: [[pink]] 
+- However, laypeople too may certainly enjoy the benefits of this kind of morality, thereby increasing merit and decreasing demerit. ([Location 902](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=902))
+    - Tags: [[pink]] 
+- Restraint of the senses, as explained above, is difficult to fulfill prior to practicing meditation even for monks, not to mention laypeople. ([Location 903](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=903))
+    - Tags: [[orange]] 
+- In any event, the practice of meditation fulfills all four kinds of morality. ([Location 904](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=904))
+- One can attain concentration, insight knowledge, path, and fruition the moment one’s perfections are well enough developed. ([Location 908](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=908))
+- If they are hindered by any of the obstacles to path knowledge and fruition knowledge, then both laypeople and monks cannot attain path knowledge and fruition knowledge in this life. ([Location 912](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=912))
+- the wrong view that there is no good or evil ([Location 922](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=922))
+    - Tags: [[blue]] 
+- the wrong view that everything is cut off or comes to an end when a being dies ([Location 923](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=923))
+    - Tags: [[pink]] 
+- and the wrong view that volitional action does not produce good or evil results ([Location 924](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=924))
+    - Tags: [[orange]] 
+- the three kinds of wrong view deny the law of cause and effect. ([Location 927](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=927))
+    - Tags: [[pink]] 
+- an inborn deficiency in spiritual intellect, ([Location 931](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=931))
+    - Tags: [[orange]] 
+- for the most part moral violations by laypeople do not cause obstacles to enlightenment. ([Location 946](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=946))
+- Let past defilements wither away, do not yield to future passions, Do not grasp at the present—then the fires of defilement will be extinguished.50 ([Location 959](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=959))
+- Although enlightenment may occur after listening to a talk, it is impossible to bring about any insight or enlightenment without meditating on body, feelings, consciousness, and mental objects. So they52 overcame sorrow and lamentation by taking this very path of the four foundations of mindfulness.53 ([Location 969](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=969))
+- bad companionship ([Location 1131](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1131))
+- insufficient practice or instruction ([Location 1131](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1131))
+    - Tags: [[blue]] 
+- from that point on Venerable Sāriputta never spoke on the Dhamma without teaching the Four Noble Truths. ([Location 1146](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1146))
+- Morality is the abandonment of ignorance through knowledge69 and the abandonment of the perception of permanence through contemplation of impermanence; abstinence is morality; volition is morality; restraint is morality; and nontransgression is morality. ([Location 1158](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1158))
+- All of these kinds of morality lead to a clear conscience, delight ( pāmojja), joy ( pīti), tranquility, and happiness. They all lead to disenchantment, nonattachment, cessation, peacefulness, realization, enlightenment, and nibbāna. ([Location 1161](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1161))
+    - Tags: [[blue]] 
+- Restraint is the training in higher morality; tranquility70 is the training in higher mind; seeing71 is the training in higher wisdom.72 ([Location 1163](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1163))
+    - Tags: [[pink]] 
+- Knowledge that discerns mental and physical phenomena (nāmarūpaparicchedañāṇa) abandons the delusion of a “person” or “being.” ([Location 1167](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1167))
+- Knowledge that discerns conditionality abandons the delusion that living beings appear without any cause, or that they are all created by God, Brahma, or other divine authorities. ([Location 1169](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1169))
+    - Tags: [[blue]] 
+- Understanding impermanence abandons the delusion that anything in the mind or body is permanent. ([Location 1170](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1170))
+    - Tags: [[pink]] 
+- “To abandon,” in this context, means “to leave no place in the mind for those delusions”—just as light leaves no place for darkness in it. As a result, wholesomeness arises instead of delusion. ([Location 1171](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1171))
+    - Tags: [[orange]] 
+- The abandonment of the mental defilements through insight meditation is therefore considered morality, since it is a foundation or basis (upadhāraṇa) for wholesomeness and makes that wholesomeness firm and steadfast (samādhāna). ([Location 1172](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1172))
+- The commentaries and subcommentaries unanimously state that the mind that arises during insight meditation (vipassanācittuppāda) does not include the mental factor of abstinence from evil (virati). ([Location 1176](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1176))
+    - Tags: [[blue]] 
+- On the other hand, the mind that arises during insight meditation is directly opposed to evil behavior and wrong livelihood. ([Location 1178](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1178))
+    - Tags: [[pink]] 
+- So mental volition is considered morality for an insight meditator, because it is a foundation or basis for wholesomeness and makes that wholesomeness firm and steadfast. ([Location 1192](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1192))
+    - Tags: [[blue]] 
+- noting, ([Location 1196](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1196))
+- In an ultimate sense, morality by means of restraint includes only mindfulness, insight, forbearance, and effort. ([Location 1197](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1197))
+    - Tags: [[blue]] 
+- In fact meditation practice is much superior to the practice of keeping in mind the purpose for using the four requisites. ([Location 1238](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1238))
+- Since he develops loving-kindness, his consumption is his own (sāmiparibhoga), debt-free (āṇaṇyaparibhoga), passed by inheritance (dāyajjaparibhoga). ([Location 1257](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1257))
+- Even if he consumes the food without considering its purpose, he is not liable for any debt, since he has given the full benefit to his supporters. ([Location 1258](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1258))
+    - Tags: [[blue]] 
+- The alms donors can also enjoy great benefits in this case, since they have offered their alms to a bhikkhu who is one of the eight worthy recipients: one who is making an effort to attain the fruition of the first stage of enlightenment. ([Location 1261](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1261))
+    - Tags: [[pink]] 
+- This commentary very directly expresses how rewarding the development of loving-kindness is. ([Location 1266](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1266))
+- When one cultivates strong concentration by means of tranquility or insight meditation, the mind is no longer distracted by thoughts and other hindrances. ([Location 1295](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1295))
+- access or neighborhood concentration ([Location 1299](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1299))
+    - Tags: [[blue]] 
+- absorption concentration ([Location 1300](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1300))
+    - Tags: [[pink]] 
+- momentary concentration ([Location 1300](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1300))
+    - Tags: [[orange]] 
+- Contemplating the eight kinds of recollection (anussatī), the perception of impurity ( pāṭikūlasaññā), or the analysis of the four elements (catudhātuvavatthāna) cannot arouse true access concentration. ([Location 1307](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1307))
+- the material absorptions (rūpajjhānā), divided into four or five stages, and the immaterial absorptions (arūpajjhānā), divided into four stages. ([Location 1313](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1313))
+    - Tags: [[blue]] 
+- When an insight meditation practitioner’s faith, effort, mindfulness, concentration, and wisdom have become strong and balanced, the process of meditation continues with uninterrupted purity. ([Location 1315](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1315))
+    - Tags: [[pink]] 
+- moment-to-moment observation. ([Location 1318](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1318))
+    - Tags: [[blue]] 
+- One who develops insight based on a foundation of access or absorption concentration is called “one who takes the vehicle of tranquility to nibbāna” (samathāyānika). ([Location 1320](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1320))
+- One who practices pure insight meditation without first laying a foundation of access or absorption concentration is called “one who takes the pure vehicle of insight to enlightenment” (suddhavipassanāyānika). ([Location 1323](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1323))
+- Purification of mind includes the eight jhānas and access concentration.80 ([Location 1327](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1327))
+    - Tags: [[orange]] 
+- momentary concentration develops naturally in the course of insight meditation practice. ([Location 1331](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1331))
+    - Tags: [[blue]] 
+- It is impossible for one who takes the vehicle of tranquility to enlightenment to become enlightened without access or absorption concentration, and it is impossible for one who takes the vehicle of insight to enlightenment to become enlightened without momentary concentration. Neither can one attain enlightenment without the gateway to liberation (vimokkhamukha).83 Hence, “develop both concentration and insight.”84 ([Location 1347](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1347))
+- The overall meaning of this canonical passage is that if one develops both concentration and insight knowledge one will solve the problem of attachment—that is, one will become a fully enlightened being, an arahant fully liberated from attachment. ([Location 1360](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1360))
+- Both those who take the vehicle of tranquility to enlightenment and those who take the vehicle of insight to enlightenment must achieve path knowledge and fruition knowledge through the gateway to liberation, that is, by developing insight into the three universal characteristics of impermanence, unsatisfactoriness, and not-self. ([Location 1366](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1366))
+    - Tags: [[blue]] 
+- Momentary concentration alone is enough for them to bring about the mental purification required for path knowledge and fruition knowledge. ([Location 1372](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1372))
+    - Tags: [[pink]] 
+- One develops access or absorption concentration. This is tranquility. One practices insight by observing the concentration itself, and its mental constituents, in terms of impermanence, unsatisfactoriness, and not-self. ([Location 1379](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1379))
+- This is insight. ([Location 1380](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1380))
+- one first develops concentration ([Location 1387](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1387))
+- and then meditates on that very concentration in terms of impermanence and so on. ([Location 1387](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1387))
+    - Tags: [[blue]] 
+- This description might give the impression that one realizes the insight knowledge of impermanence, unsatisfactoriness, and not-self without developing the two preliminary knowledges that discern mental and physical phenomena and conditionality. But insight knowledge cannot be aroused without first attaining these two preliminary knowledges, and it is not reasonable to assume that the two preliminary knowledges can arise before the development of concentration. ([Location 1387](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1387))
+    - Tags: [[pink]] 
+- concentration first, ([Location 1391](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1391))
+- then the two preliminary knowledges, ([Location 1391](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1391))
+    - Tags: [[blue]] 
+- then the insight knowledge of impermanence and so on. ([Location 1391](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1391))
+    - Tags: [[pink]] 
+- Here in this Holy Order, one who practices the method of insight prior to tranquility does not develop the two kinds of concentration, namely access and absorption, as one does using the method of tranquility preceding insight. ([Location 1399](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1399))
+- When one’s insight meditation practice grows strong enough, ([Location 1401](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1401))
+    - Tags: [[blue]] 
+- penetration of the objects [of insight] produces concentration. This is tranquility. ([Location 1402](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1402))
+    - Tags: [[blue]] 
+- Thus insight comes first and tranquility later. By developing tranquility based on insight, one brings about the noble path.88 ([Location 1402](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1402))
+    - Tags: [[pink]] 
+- insight meditation produces concentration when it becomes strong enough. ([Location 1411](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1411))
+- “tranquility” refers to the concentration associated with path knowledge itself. ([Location 1413](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1413))
+    - Tags: [[blue]] 
+- Basic insight with concentration ([Location 1434](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1434))
+- knowledge that discerns mental and physical phenomena. ([Location 1435](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1435))
+    - Tags: [[blue]] 
+- This momentary concentration creates a unification of mind comparable to access concentration— ([Location 1438](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1438))
+    - Tags: [[pink]] 
+- The process of “training in the higher mind” (adhicittasikkha) is devoid of mental restlessness (i.e., it is concentrated). ([Location 1443](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1443))
+    - Tags: [[orange]] 
+- change-of-lineage consciousness ([Location 1451](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1451))
+- The intermediate level of insight with momentary concentration begins with insight knowledge of arising and passing away (udayabbayañāṇa). ([Location 1454](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1454))
+    - Tags: [[blue]] 
+- The advanced level of insight begins with insight knowledge of dissolution (bhaṅgañāṇa). ([Location 1459](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1459))
+    - Tags: [[pink]] 
+- the strength of the momentary concentration is comparable to that of absorption in tranquility meditation. ([Location 1465](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1465))
+    - Tags: [[orange]] 
+- The difference is that the object of absorption in tranquility is always the same and thus cannot help one to clearly see mental and physical phenomena, their impermanence, and so on. ([Location 1465](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1465))
+- The object of insight concentration constantly changes, which helps one to clearly see mental and physical phenomena, their impermanence, and so on as the insight knowledge matures. ([Location 1466](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1466))
+    - Tags: [[blue]] 
+- Momentary single-pointedness of mind (khaṇikacittekaggatā) is momentary concentration. When it continuously dwells on an object [of insight] over a long period, opposing hindrances cannot overwhelm it, and it is able to make the mind as strong and steadfast as jhāna or absorption concentration. ([Location 1470](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1470))
+    - Tags: [[pink]] 
+- In the context of insight meditation, any object that one fails to observe is regarded as an external object. ([Location 1488](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1488))
+- “mind distracted outwardly” (bahiddhā vā cittaṃ vikkhipati) means the mind wanders outside the range of insight.101 ([Location 1490](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1490))
+    - Tags: [[blue]] 
+- Any object that one successfully observes is regarded as an internal object. ([Location 1493](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1493))
+    - Tags: [[pink]] 
+- “To relinquish external objects” means to have a mind that does not wander, which by extension also means to have a mind that penetrates internal objects. ([Location 1497](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1497))
+    - Tags: [[orange]] 
+- Seeing physicality as impermanent is insight. Seeing physicality as unsatisfactory and not-self is insight. At the moment of insight, the mental state of relinquishing external objects, or penetrating internal objects, or one-pointedness of that insight mind is concentration. Thus insight comes first and concentration afterwards and so one is said to develop concentration based on insight.103 ([Location 1504](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1504))
+- And so this method is subsumed within the method of developing tranquility prior to insight (samathapubbaṅgama). ([Location 1519](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1519))
+- paying greater attention to noting. ([Location 1528](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1528))
+- The noting mind focuses steadily only on the internal field. ([Location 1529](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1529))
+    - Tags: [[blue]] 
+- The principal emphasis of this book is to explain precisely this point: how those who take the vehicle of insight to enlightenment practice—that is, how to develop pure insight without a foundation of tranquility concentration. So there is no need to extensively explain mental purification here. ([Location 1539](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1539))
+- Attachment or desire is a hindrance to liberation. ([Location 1548](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1548))
+- renunciation should be understood to mean insight concentration. ([Location 1556](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1556))
+- If one does not observe mental and physical phenomena every time they arise at the six sense doors, one cannot realize that there is nothing to them but mind and body, ([Location 1558](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1558))
+- As a result one will develop an attachment to the objects that one fails to observe. ([Location 1560](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1560))
+- If, on the other hand, one observes mental and physical phenomena the moment they occur, one will realize that there is nothing to them but mind and body, which are conditioned, impermanent, unsatisfactory, and not-self. As a result one will be free from attachment to objects that one is able to observe. ([Location 1560](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1560))
+    - Tags: [[blue]] 
+- Attachment, or sensual desire (kāmacchanda), is called a hindrance because it obstructs insight practice. ([Location 1566](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1566))
+    - Tags: [[pink]] 
+- We must do uncountable things for the sake of ourselves, our spouses, children, relatives, friends, devotees, supporters, teachers, and so on in order to achieve happiness and comfort in this life. ([Location 1566](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1566))
+    - Tags: [[orange]] 
+- We constantly seek what we have not yet gained, while trying to maintain what we have already gained. Since we must make so much effort to satisfy our desires, we cannot find time for practice, and we may not even think of it. And even if we do think about practicing, we may never get around to it. ([Location 1568](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1568))
+    - Tags: [[blue]] 
+- At worst, we remain content to let the mind wander at will and enjoy ourselves, saying or doing whatever we please. ([Location 1570](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1570))
+- Some people cannot practice insight because they want to continue to enjoy sensual pleasures even in their future lives. ([Location 1575](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1575))
+    - Tags: [[blue]] 
+- Sensual desire often takes the form of thinking about sense objects, which is a distraction. ([Location 1577](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1577))
+- There may also occur a mild desire connected with the practice itself. ([Location 1577](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1577))
+    - Tags: [[blue]] 
+- We may even long for the path, fruition, and nibbāna! ([Location 1580](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1580))
+    - Tags: [[pink]] 
+- An ordinary person can take genuine nibbāna as an object of consciousness only at the moment when change-of-lineage consciousness matures. ([Location 1583](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1583))
+    - Tags: [[orange]] 
+- According to these explanations from the Pāḷi texts, an ordinary person’s notions of the path, fruition, and nibbāna are not accurate representations of absolute reality ( paramattha) but simply ideas based on hearsay, inference (anumāna), and other mental concepts. ([Location 1586](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1586))
+- The insight process flows smoothly if sensual desires do not arise. ([Location 1598](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1598))
+    - Tags: [[blue]] 
+- They appear as rivals to insight, as if saying, “It is our turn; stay away insight!” ([Location 1599](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1599))
+    - Tags: [[pink]] 
+- Once this kind of desire takes hold, one’s concentration and insight may decline, and one may feel regret. ([Location 1599](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1599))
+    - Tags: [[orange]] 
+- Because sensual desire hinders or obstructs insight from being a cause for liberation, it is called a hindrance to liberation. It must be avoided when possible and eliminated by noting it when it occurs. ([Location 1606](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1606))
+    - Tags: [[pink]] 
+- Nonaversion111 is a cause of liberation for noble ones. Noble ones gain liberation from the cycle of suffering by developing it. ([Location 1609](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1609))
+- This quality allows one to continue noting without frustration when unpleasant objects, unbearable pain, or other difficulties arise during practice, until one attains nibbāna and is released from the cycle of suffering. ([Location 1614](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1614))
+    - Tags: [[blue]] 
+- Aversion to someone or something, or frustration with hardships in practice, is called “aversion” (byāpāda). ([Location 1617](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1617))
+    - Tags: [[pink]] 
+- Aversion may manifest as feeling angry or quarrelling with someone, or feeling angry about hardships and pains that arise or at what one sees or hears, and so ([Location 1619](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1619))
+- We must eliminate these forms of aversion by noting them. ([Location 1620](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1620))
+    - Tags: [[blue]] 
+- Afterward we should return to the primary object. ([Location 1621](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1621))
+    - Tags: [[pink]] 
+- If aversion continues after noting it two or three times, one should note it repeatedly and finally the aversion will disappear altogether. ([Location 1621](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1621))
+    - Tags: [[orange]] 
+- Observing light is a cause of liberation for noble ones. ([Location 1623](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1623))
+- Noble ones gain liberation from the cycle of suffering by developing it. ([Location 1623](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1623))
+    - Tags: [[blue]] 
+- Sloth and torpor are hindrances to liberation. When present, it hinders the observation of light. ([Location 1624](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1624))
+    - Tags: [[pink]] 
+- Contemplation of sunlight, moonlight, starlight, and light that arises in meditation is called “observing light” (ālokasaññā). ([Location 1626](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1626))
+- It can overcome fatigue or sleepiness (thinamiddha). ([Location 1627](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1627))
+    - Tags: [[blue]] 
+- Contemplation of bright light overcomes dullness and sleepiness and one can continue practicing insight. ([Location 1628](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1628))
+    - Tags: [[pink]] 
+- In the context of insight practice, contemplating mental and physical phenomena in such a way that they are vividly known is also called observing light. ([Location 1630](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1630))
+- Even if one stops meditating and goes to bed, one may continue to contemplate objects automatically, every time they arise. ([Location 1632](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1632))
+    - Tags: [[blue]] 
+- Nondistraction is a cause of liberation for noble ones. ([Location 1638](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1638))
+- Momentary concentration that focuses on mental or physical objects from moment to moment is called nondistraction (avikkhepa), a mental state that is the opposite of restlessness. ([Location 1642](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1642))
+    - Tags: [[blue]] 
+- When momentary concentration becomes strong, the mind seems to penetrate its object every time an object is noted. ([Location 1643](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1643))
+    - Tags: [[pink]] 
+- This momentary concentration leads to insight knowledges, path, and fruit, liberating noble ones from the cycle of suffering. ([Location 1647](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1647))
+    - Tags: [[orange]] 
+- A restless state of mind that wanders away from an object while observing it is a mental state called restlessness (uddhacca). ([Location 1649](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1649))
+- Due to restlessness the mind cannot remain very long with an object but often wanders elsewhere. ([Location 1651](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1651))
+    - Tags: [[blue]] 
+- Sometimes the mind may wonder about practice itself. ([Location 1652](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1652))
+    - Tags: [[pink]] 
+- Knowledge that discriminates phenomena116 is a cause of liberation for noble ones. ([Location 1658](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1658))
+- The type of knowledge that distinguishes between wholesomeness and unwholesomeness is called knowledge that discriminates phenomena (dhammavavatthānañāṇa). ([Location 1662](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1662))
+    - Tags: [[blue]] 
+- discriminating knowledge ([Location 1665](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1665))
+    - Tags: [[pink]] 
+- Doubt appears in the guise of investigation. ([Location 1682](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1682))
+- In the same way, a doubtful meditator who falls prey to wavering and procrastination cannot continue on with practice. He or she will then become a victim of mental defilements and be unable to escape the cycle of suffering. ([Location 1690](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1690))
+    - Tags: [[pink]] 
+- Skeptical doubt can arise regarding eight subjects: Buddha, Dhamma, and Saṅgha, the threefold training,121 one’s past lives, future lives, and present life, and dependent origination ( paticcasamuppāda). ([Location 1692](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1692))
+    - Tags: [[orange]] 
+- These days, people tend to have doubts about four other points as well: their teacher, the method of practice, individuals who have become enlightened by practicing the method, or their own practice. ([Location 1695](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1695))
+- According to the method I will describe in chapter 5, observation of walking, standing, sitting, reclining, bending, stretching, and so forth is purely wholesome. ([Location 1699](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1699))
+    - Tags: [[blue]] 
+- Similarly, one who practices tranquility meditation using the earth kasiṇa ( pathavīkasiṇa) as a meditation object arouses wholesomeness in every moment that one notes, “earth, earth . . .” ([Location 1703](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1703))
+    - Tags: [[pink]] 
+- Knowledge (ñāṇa) ([Location 1711](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1711))
+- Ignorance (avijjā) ([Location 1712](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1712))
+    - Tags: [[blue]] 
+- “knowledge” includes knowledge that discerns mental and physical phenomena and knowledge that discerns conditionality. ([Location 1716](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1716))
+    - Tags: [[pink]] 
+- “ignorance” includes the wrong belief in a person, being, or self, the wrong belief that God, Sakka, or Brahma creates beings,125 and the wrong belief that there is no cause for living beings. ([Location 1718](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1718))
+    - Tags: [[orange]] 
+- By observing mental and physical phenomena every time they occur, one begins to realize that there is nothing but mental phenomena that experience objects and physical phenomena that cannot experience objects. ([Location 1722](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1722))
+- there is nothing but cause and effect. ([Location 1725](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1725))
+    - Tags: [[blue]] 
+- When insight knowledge gradually matures still further, one realizes that phenomena are impermanent, unsatisfactory, and not-self; phenomena disappear immediately after they appear, and they continuously disappear, moment after moment. ([Location 1725](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1725))
+    - Tags: [[pink]] 
+- Ignorance continuously occurs, from moment to moment, in a person who fails to observe. ([Location 1737](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1737))
+- Ignorance immediately knows things in an ordinary, conceptual way. ([Location 1742](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1742))
+    - Tags: [[blue]] 
+- Because ignorance and its accompanying mental states arise first, wrong beliefs ensue. ([Location 1743](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1743))
+    - Tags: [[pink]] 
+- “Ignorance conceals the true nature of objects.” ([Location 1744](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1744))
+    - Tags: [[pink]] 
+- Spiritual delight ([Location 1752](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1752))
+- In the context of insight practice, every time one notes an object well it gives rise to delight. ([Location 1760](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1760))
+- As a result of this, practice becomes enjoyable. ([Location 1760](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1760))
+    - Tags: [[blue]] 
+- Delight tends to arise more often in softhearted persons and less often in those with stronger powers of reason. ([Location 1762](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1762))
+    - Tags: [[pink]] 
+- But however mature one may be, delight will arise at the insight knowledge of arising and passing away or any time that one’s noting goes well. ([Location 1764](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1764))
+    - Tags: [[orange]] 
+- delight will arise spontaneously when one’s mindfulness, concentration, and insight mature. ([Location 1770](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1770))
+- However, when laziness is an obstacle, one should arouse delight by contemplating the virtues of the Triple Gem, the benefits of insight, how much one has purified one’s moral conduct since beginning to practice, or the pure and noble quality of the noting mind. ([Location 1771](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1771))
+    - Tags: [[blue]] 
+- discontent ([Location 1773](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1773))
+    - Tags: [[pink]] 
+- Even among those few who practice, some become lazy when noting is not going well or when they cannot get any special insights. ([Location 1779](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1779))
+    - Tags: [[orange]] 
+- All kinds of wholesomeness—such as generosity, moral conduct, meditation, and voluntary service—are causes for liberation. ([Location 1791](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1791))
+- However, when intensively practicing insight, your first priority should be given to it, with the understanding that insight is the essential cause of liberation. ([Location 1801](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1801))
+- Therefore, you should give special consideration to insight. ([Location 1802](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1802))
+    - Tags: [[blue]] 
+- You should not interrupt it for a minute or even a second. ([Location 1802](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1802))
+    - Tags: [[pink]] 
+- During intensive insight practice, one should not take a break to perform any other wholesome act, even tranquility meditation, much less any other demanding wholesome act that interferes with insight. ([Location 1804](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1804))
+    - Tags: [[orange]] 
+- The Buddha went to great trouble for four eons and one hundred thousand world cycles to fulfill the prerequisites of Buddhahood—namely the noble deeds ( paramī), generosity (cāga), and conduct (cariya)—for the purpose of helping celestial and human beings gain knowledge of both the path and fruition, and nibbāna, and not to be honored with flowers and fragrances. ([Location 1852](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1852))
+- If one is satisfied by simply honoring the Buddha materially, and regard it as great wholesomeness, then one may fail to fulfill the nobler wholesome practices of morality, concentration, and insight, which are the causes of liberation, and one cannot realize the path, fruition, and nibbāna in this very life, nor will one yet be able to escape from the cycle of suffering. ([Location 1854](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1854))
+    - Tags: [[blue]] 
+- Morality, concentration, and insight are indirectly true Dhamma inheritances because they are indispensable for realizing the path, fruition, and nibbāna in this life. ([Location 1876](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1876))
+- All the wholesomeness gained from practicing generosity, observing moral conduct, and so on aimed at attaining nibbāna is also regarded as a Dhamma inheritance. ([Location 1877](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1877))
+    - Tags: [[blue]] 
+- According to these words of the Buddha, insight is the most important among the tasks one should do. ([Location 1902](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1902))
+    - Tags: [[pink]] 
+- However, if hindrances such as sensual desire interfere with one’s practice, there are some other objects that one may contemplate to abandon these thoughts. ([Location 1905](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1905))
+    - Tags: [[orange]] 
+- When lustful thoughts arise, one should consider their disadvantages as follows: If lust increases, it can ruin one’s moral conduct and lead to an unfortunate rebirth. Lust often prevents one from attaining higher rebirth and liberation from the cycle of suffering. If one cherishes one’s physical body by constantly satisfying its demands, one suffers greatly throughout the cycle of suffering. ([Location 1922](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1922))
+- In this case if observing objects often arouses unwholesome thoughts, one should not continue to observe those objects. ([Location 1933](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1933))
+    - Tags: [[blue]] 
+- One may even need to take a complete break from observation if such thoughts arise frequently. ([Location 1934](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1934))
+    - Tags: [[pink]] 
+- The Pāḷi texts say that in such cases one “should try to forget those thoughts and should not give attention to them.” ([Location 1934](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1934))
+    - Tags: [[orange]] 
+- Such a break can be very helpful for those who have too much longing or energy. ([Location 1936](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1936))
+- During such times one should completely cease practicing and chat with one’s companions for about two or three hours, half a day, or even a whole day or night. Or one should go to a pagoda to pay obeisance, take a shower, wash some clothes, or do other such things. One should have a good sleep, if one wishes. In due time, one should resume practice. ([Location 1937](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1937))
+    - Tags: [[blue]] 
+- If these thoughts cannot be overcome by not paying attention, one should chant a text that has been memorized, or do some reading. ([Location 1940](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1940))
+    - Tags: [[pink]] 
+- One is also advised to repeatedly identify simple things just as they are. ([Location 1941](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1941))
+    - Tags: [[orange]] 
+- This commentary also tells the story of a monk who successfully eliminated unwholesome thoughts by building a monastery. ([Location 1943](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1943))
+- When a wandering thought occurs, one should look for its cause. ([Location 1944](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1944))
+    - Tags: [[blue]] 
+- When one can note this inattentiveness immediately, the thought cannot fully develop and will disappear. ([Location 1946](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1946))
+    - Tags: [[pink]] 
+- Wandering thoughts tend to last a long time only for those who indulge them. ([Location 1947](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1947))
+    - Tags: [[orange]] 
+- If such thoughts are noted every time they arise, without indulging them, they tend to pass away as soon as they are noticed, or a few moments after. ([Location 1947](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1947))
+- If the thought does not pass away when noted, trace it back to the previous thoughts from which it originated. ([Location 1948](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1948))
+    - Tags: [[blue]] 
+- When the source is found, one should make the firm resolution, “I will not allow this source to lead to such thoughts,” and continue with practice. ([Location 1949](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1949))
+    - Tags: [[pink]] 
+- Whatever mental defilements may occur, one should be resolute and persistent in noting them without any interruption, as if one is threatening them: “You! Defilements! What are you up to? Wait, I will conquer you!” ([Location 1952](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1952))
+- If, while he is giving attention to stilling the thought formation of those thoughts, there still arise in him evil unwholesome thoughts connected with desire, with hate, and with delusion, then, with his teeth clenched and his tongue pressed against the roof of his mouth, he should beat down, constrain, and crush mind with mind.148 ([Location 1954](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1954))
+    - Tags: [[blue]] 
+- developing insight by continuously observing the usual meditation object without letting the mind incline elsewhere ([Location 1958](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1958))
+- Most of them are also included in the development of insight by focusing the mind on different objects of meditation. ([Location 1965](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1965))
+    - Tags: [[blue]] 
+- As soon as wandering thoughts have subsided, one should immediately return to insight. ([Location 1968](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1968))
+- one must eliminate wandering thoughts by noting them whenever they occur. ([Location 1971](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1971))
+    - Tags: [[pink]] 
+- Returning to the past, the mind grows restless. Not thinking of the past, the mind settles on objects in the present. Then the mind does not become restless. ([Location 1974](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1974))
+    - Tags: [[orange]] 
+- Anticipating the future, the mind becomes restless. Not thinking of the future, the mind settles on objects in the present. Then the mind does not become restless. ([Location 1976](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1976))
+- Things that one has previously seen, heard, smelled, tasted, touched, or thought about are called objects in the past. Remembering them makes the mind restless. This is called a restless mind. ([Location 1978](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1978))
+    - Tags: [[blue]] 
+- This means that one must note only objects that arise from moment to moment. ([Location 1984](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1984))
+    - Tags: [[pink]] 
+- In connection with insight concentration, this means the present object. ([Location 1984](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1984))
+    - Tags: [[orange]] 
+- In connection with concentration practice, it means that the mind must be kept on the object of concentration. ([Location 1985](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1985))
+- Things that one may later see, hear, smell, taste, touch, or think are all called objects in the future. Anticipating and hoping for such things in the future makes the mind restless. ([Location 1986](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1986))
+    - Tags: [[blue]] 
+- In short, do not return to the past or dream of the future, but note all mental and physical phenomena in the present without fail. ([Location 1994](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1994))
+    - Tags: [[pink]] 
+- Shrinking and lax, the mind grows lazy. Encouraging the mind, laziness is overcome. Then the mind does not become restless. ([Location 1996](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1996))
+    - Tags: [[orange]] 
+- When overactive, the mind becomes fidgety. Reducing exertion, fidgetiness is overcome. Then the mind does not become restless. ([Location 1997](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1997))
+- Laziness and idleness often occur due to a mind that shrinks and is lax when practice does not go smoothly, when special insight knowledge cannot be aroused, or when progress cannot be made. ([Location 1999](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=1999))
+    - Tags: [[pink]] 
+- So laziness should be removed by noting it closely. ([Location 2001](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2001))
+    - Tags: [[orange]] 
+- If this does not work, the mind must be encouraged in some other way. ([Location 2002](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2002))
+- The Dīgha Nikāya commentary152 gives eleven ways of developing the enlightenment factor of effort (vīriyabojjhaṅga), such as reflecting on the suffering of the hell realms, the benefits of practice, the nobility of practice, and so on.153 ([Location 2002](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2002))
+    - Tags: [[blue]] 
+- Reflecting on the dangers of the lower realms ([Location 2006](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2006))
+- Reflecting on the benefits of practice ([Location 2077](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2077))
+- Reflecting on the nobility of the lineage ([Location 2088](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2088))
+- Lazy and bad-mannered people cannot walk this path. ([Location 2089](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2089))
+    - Tags: [[blue]] 
+- Encourage yourself in the practice by considering the nobility of this path. ([Location 2092](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2092))
+    - Tags: [[pink]] 
+- Respect and appreciation for requisites received ([Location 2093](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2093))
+- Other reflections ([Location 2133](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2133))
+    - Tags: [[orange]] 
+- One may also find inspiration through other reflections that may cause the enlightenment factor of rapture ( pītisaṃbojjhaṅga) to arise: ([Location 2134](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2134))
+    - Tags: [[blue]] 
+- Overzealousness ([Location 2139](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2139))
+- Sometimes one’s mind may become overzealous and overenergized. ([Location 2139](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2139))
+    - Tags: [[blue]] 
+- making a determination to effectively note every single object, however delicate or subtle it may be; spending time checking whether or not one was successful in noting an object, or which objects were missed or caught; making a resolution not to miss any object ever again, when one finds one has missed an object; reflecting that one has made the utmost effort and that one cannot do more than this; or experiencing physical tension such as clenching the jaw, gritting the teeth, clenching the hands, or making fists. ([Location 2140](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2140))
+    - Tags: [[blue]] 
+- “restless” has the specific sense of thought about past objects that draws the mind far away from present ones, ([Location 2147](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2147))
+    - Tags: [[pink]] 
+- “fidgetiness” has the sense of excessively striving after objects of meditation, ([Location 2148](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2148))
+    - Tags: [[orange]] 
+- “There is no soul or self that can arrange things as I would like. No matter how hard I try, insight knowledge may still not arise. Let me just allow things to follow their natural course. It doesn’t matter if I miss some objects here and there. I’ll just keep on noting the best I can.” ([Location 2151](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2151))
+- When effort is slack, encouragement is needed; When tension is excessive, relaxation is needed; When neither slack nor tense, and when noting is balanced, The mind becomes focused. ([Location 2156](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2156))
+    - Tags: [[blue]] 
+- Lust and aversion ([Location 2159](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2159))
+- Gratified, the mind grows lustful. Being aware of it, lust is overcome. Then the mind does not become restless. Frustrated, the mind becomes averse. Being aware of it, aversion is overcome. Then the mind does not become restless.164 ([Location 2160](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2160))
+    - Tags: [[blue]] 
+- When freed of this lust by simply noting it, the mind does not wander and becomes focused. ([Location 2169](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2169))
+    - Tags: [[pink]] 
+- Although you have already practiced for many days or months, you may want to give up, thinking that you are not going to make it. ([Location 2170](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2170))
+    - Tags: [[orange]] 
+- Don’t long for anything. Don’t be frustrated by anything. Note liking and longing every time they occur. Observe frustration or disappointment whenever it arises. ([Location 2178](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2178))
+- one’s mind no longer returns to the past or anticipates the future. ([Location 2185](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2185))
+    - Tags: [[blue]] 
+- it is only noting the mental and physical phenomena that arise in the moment. ([Location 2185](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2185))
+    - Tags: [[pink]] 
+- This is called one-pointedness. ([Location 2186](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2186))
+    - Tags: [[orange]] 
+- The mind is fully purified by overcoming these six obstacles and becomes one-pointed. What are the states of one-pointedness? One-pointedness based on contemplation of generosity, one-pointedness based on tranquility meditation, one-pointedness based on knowledge of dissolution, and one-pointedness based on knowledge of cessation. One-pointedness based on contemplation of generosity is for those contemplating generosity. One-pointedness based on tranquility meditation is for those who practice tranquility meditation. One-pointedness based on insight knowledge of dissolution is for those who develop insight; one-pointedness based on knowledge of cessation is for those noble persons who realize nibbāna.168 ([Location 2190](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2190))
+- Since the mind is solely focused on the object of concentration, this one-pointedness is a form of access concentration or absorption concentration. ([Location 2204](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2204))
+    - Tags: [[blue]] 
+- An ultimate, irreducible phenomenon is called an “ultimate reality.”170 ([Location 2231](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2231))
+- what we empirically experience ourselves is never false but always true. ([Location 2233](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2233))
+    - Tags: [[blue]] 
+- The experience of seeing a visible form is followed by a mental process that investigates and determines it to be of a certain shape: tall or short, spherical or flat, square or round, woman or man, face or arm, and so on. This mental process of investigation can only be experienced in an obvious way when one encounters an especially novel object, since the investigation of new objects takes time. This type of investigation is not usually apparent since it doesn’t take much time to investigate an object that one has seen before and that one is familiar with. Thus ordinary people are under the illusion that they actually see the forms or shapes that they imagine, because they cannot distinguish between prior and subsequent processes of seeing and investigation. ([Location 2257](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2257))
+- The Pāḷi texts give the example of a swinging torch to clarify this point. If a lit torch is twirled in the darkness, it will appear as a solid ring of fire to anyone watching. If it is swung in a linear or triangular pattern, then it will appear as a line or triangle. In reality, there is no circular, linear, or triangular shape to the fire, only the red visible form that can be seen moving from place to place where the fire passes. In reality, it is the succeeding mental processes that merge the visible forms that appear in different places and interpret them as a circle of fire and so on. This is the actual example from Pāḷi texts. Another example of this is found in people who cannot read well. They must read slowly to comprehend a piece of writing from the context, carefully reading word by word. The mental process of investigation is apparent to them because it proceeds so slowly. On the other hand, for those who read well, the mental process of investigation is much faster and therefore cannot be clearly detected. It seems as if they can read just by seeing the words. Similarly, when we see a novel object, we can experience the processes of seeing and investigating separately because they proceed more slowly. On the other hand, when we see a familiar object, the mental process of investigation goes unnoticed because it occurs so quickly. So it seems to us as if we know a familiar woman or man as soon as we see them. But in reality, after we see them, investigation immediately follows. It is only due to this investigation that we can determine whether it is a woman, a man, and so on. Thus, as with the circle of fire, woman and man are not considered to be absolute realities, realities that genuinely exist, are personally experienced, or are ultimately true, but are instead merely conventional realities (sammutipaññatti) consisting of concepts. We can understand this by thinking thusly: If we subtract all of the clearly visible forms or shapes from the matter or substance that we take to be a woman, a man, and so on, no such woman or man would be left to be seen. What we actually see is only visible form, and not a woman, a man, and such. We see only a collection of visible forms; we cannot see a woman, man, and such. The seeing of a woman, man, and such is a concept; it does not truly exist as imagined. ([Location 2271](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2271))
+- You may ask, “Can’t we touch a woman or man, even though they lack any visible phenomena by which they can be seen?” In this case too, what we touch is not a woman or man but simply phenomena that can be experienced by touch. One can only touch a tangible object ( phoṭṭhabba); there is not any woman or man we can touch. If we subtract all the tangible phenomena that we can clearly touch, there would be no woman or man to be touched. Therefore, the concepts of woman, man, and so on are called “realities that do not genuinely exist” and “are not personally experienced.” The woman or man that we think we see or touch is not what really exists. Because it is not personally experienced it is not ultimately real, meaning that it is not an ultimate reality. What really exists is referred to as “eye-sensitivity” (cakkhupasāda). Eye-consciousness occurs because eye-sensitivity sees visible forms. We could not see visible forms if there were no eye-sensitivity. How could we see then? For example, if a mirror is clear, we can see reflections of form in it. If the mirror were not clear, we could not see reflections of form in it because the reflections would not appear. Therefore, in order for there to be seeing, there must be eye-sensitivity, and there must be visible forms that really exist, are realities that genuinely exist, are personally experienced, and are ultimate reality. Thus, seeing really exists. And thanks to its existence we can see a great variety of forms. If seeing did not exist, we could not know what we see, let alone say what it is. Therefore, eye-consciousness is also called “a reality that genuinely exists,” “is personally experienced,” and “ultimate reality.” The same is true of sound, ear-sensitivity, and ear-consciousness in the case of hearing, and likewise for the other senses. ([Location 2288](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2288))
+- Things learned through hearsay and such may be… ([Location 2303](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2303))
+    - Tags: [[blue]] 
+- what can be empirically experienced really exists and is regarded as higher reality… ([Location 2304](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2304))
+    - Tags: [[pink]] 
+- experience the truth empirically for ourselves through practice. ([Location 2317](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2317))
+- Real, empirical knowledge belongs only to insight meditators, those who achieve jhāna, and noble ones. ([Location 2325](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2325))
+- the four realities—mind, mental factors, matter, and nibbāna—that can be personally experienced, are immutable, and really existing are called “ultimate realities.” ([Location 2391](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2391))
+    - Tags: [[pink]] 
+- A River A river seems to flow continuously because the water that flows downstream is constantly being replaced with new water. However, if one gazes at the river in one spot, one will find that the water that one sees at present is different from the water one saw only a moment ago. In the same way, a man or a woman seems to be the same person all the time because passing phenomena are continuously replaced with new ones. This is a concept of continuity (santatipaññatti). ([Location 2439](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2439))
+- Among the ultimate realities, nibbāna is called an unconditioned reality (asaṅkhataparamattha). It is subject to nothing and does not arise and disappear, and so it is said to be permanent (nicca) and stable (dhuva). ([Location 2450](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2450))
+- “Why shouldn’t the realities indicated by concepts that refer to things with actual existence be considered ultimate realities?” ([Location 2482](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2482))
+    - Tags: [[blue]] 
+- It is because what we understand depends on how we think. ([Location 2483](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2483))
+    - Tags: [[pink]] 
+- When a meditator’s insight knowledge matures by constantly observing mind and body, he or she becomes aware of both the intention to move and the subsequent gradual process of movement. ([Location 2489](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2489))
+- A meditator also perceives that as soon as preceding phenomena disappear, subsequent ones replace them. ([Location 2490](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2490))
+    - Tags: [[blue]] 
+- Thus he or she realizes that there is no self that moves, ([Location 2491](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2491))
+    - Tags: [[pink]] 
+- Through his or her own insight knowledge, a meditator knows that what really occurs is the intention to move, followed by the gradual physical process of movement. ([Location 2492](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2492))
+    - Tags: [[orange]] 
+- The realities that one knows in this way are regarded as ultimately real phenomena because these are realities that can be known as they really are by means of empirically observed insight knowledge. This is how to distinguish between conventional and ultimate realities. ([Location 2501](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2501))
+- As explained previously, what one regards as a man or woman is only an interpretation of mental and physical processes. There is no person, only the processes of mind and body. The moment we see something or someone, what we truly see is only visible form. The moment we hear something, what we truly hear is only sound. The same is true for smell and taste. The moment we touch something, what we truly touch are the earth element ( pathavīdhātu), characterized by softness or hardness, the fire element (tejodhātu), characterized by warmth, heat, or coldness, or the air element (vāyodhātu), characterized by tension, tightness, or looseness. ([Location 2505](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2505))
+    - Tags: [[blue]] 
+- As ultimate reality emerges, concepts submerge. ([Location 2519](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2519))
+- As concepts emerge, ultimate reality submerges. ([Location 2521](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2521))
+    - Tags: [[blue]] 
+- empirical ([Location 2528](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2528))
+- inferential ([Location 2528](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2528))
+    - Tags: [[blue]] 
+- Every empirical insight, when it matures, is followed by inferential insight that extrapolates to phenomena that are not directly experienced from insight based on experiential phenomena. ([Location 2531](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2531))
+- In order to develop true insight knowledge, starting with knowledge that discerns body and mind, one should observe ultimate mental and physical phenomena and not conceptual objects. ([Location 2537](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2537))
+- ordinary people cannot observe supramundane phenomena that they have not yet realized ([Location 2540](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2540))
+    - Tags: [[blue]] 
+- Therefore, one who has not attained jhāna should not contemplate jhānic phenomena but only sensual phenomena. ([Location 2556](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2556))
+- In the case of sensual phenomena (kāmāvacara), one should only note the obvious mental and physical phenomena. ([Location 2559](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2559))
+    - Tags: [[blue]] 
+- Even among distinct, mundane objects, one should make effort to contemplate objects that are obvious and easy enough to observe. ([Location 2561](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2561))
+    - Tags: [[pink]] 
+- So appropriate objects of contemplation for ordinary people, those who take the vehicle of insight to enlightenment, and noble trainees are limited to the eighteen kinds of concretely produced matter, and the forty-five sense-sphere consciousnesses (kāmāvacaracitta) and their fifty-two constituent mental factors (cetasika).191 The Eighteen Kinds of Concretely Produced Matter 1–5. Five sensitivities of eye, ear, nose, tongue, and body 6–12. Seven sense objects of visible form, sound, smell, taste, and touch that are characterized by earth element, fire element, and air element 13–14. Two genders 15. Water element 16. Physical basis of mind called “heart” 17. Nutrition 18. Vitality The Forty-Five Sense-Sphere Consciousnesses 1–12. Twelve unwholesome consciousnesses 13–29. Seventeen rootless consciousnesses 30–37. Eight great wholesome consciousnesses 38–45. Eight great resultant consciousnesses ([Location 2580](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2580))
+    - Tags: [[blue]] 
+- The complete mental process of seeing is composed of thirty-eight units of cognition:192 1. One mind-moment that adverts one of the five sense doors to an object ( pañcadvārāvajjana) 2–3. Two mind-moments that receive a sense impression of the object (sampaṭicchana) 4–6. Three mind-moments that investigate the object (santīraṇa) 7. One mind-moment that determines the object (votthapana) 8–27. Twenty mind-moments that are kammic impulsions that fully perceive or move toward the object ( javana) 28–38. Eleven mind-moments that register the object (tadārammaṇa) ([Location 2597](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2597))
+- During a moment of thinking or observing we can clearly experience the phenomena of the thinking or observing mind, and its physical basis, called the heart-base (hadayavatthu). There are thirty-two possible units of mind193 involved in thought: 1. One mind-moment that adverts the mind to a mental object (manodvārāvajjana) 2–9. Eight mind-moments that are wholesome kammic impulsions 10–21. Twelve mind-moments that are unwholesome kammic impulsions 22–32. Eleven mind-moments that register the mental object ([Location 2611](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2611))
+    - Tags: [[pink]] 
+- In the case of a meditating mind, twenty mind units194 are represented: 1. One mind-moment that adverts the mind to a mental object 2–9. Eight great wholesome kammic impulsions 10–20. Eleven mind-moments that register the mental object ([Location 2617](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2617))
+    - Tags: [[orange]] 
+- From time to time, practicing tranquility or insight meditation over and over again, one may develop insight without realizing it.197 ([Location 2627](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2627))
+- One should note both internal and external objects. ([Location 2633](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2633))
+- one should empirically observe internal phenomena as they arise according to one’s acquired perfections and understanding. ([Location 2633](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2633))
+    - Tags: [[blue]] 
+- One should not seek external objects for insight meditation, because doing so often causes a restless mind. ([Location 2643](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2643))
+    - Tags: [[pink]] 
+- those who engage in reflection and thinking based on their general knowledge do not acquire empirical insight, neither do they develop concentration and insight knowledge. ([Location 2645](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2645))
+    - Tags: [[orange]] 
+- external objects should only be noted when they arise at the six sense doors of their own accord. ([Location 2646](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2646))
+- One should strive to continuously observe internal objects. ([Location 2646](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2646))
+    - Tags: [[blue]] 
+- One should only observe present phenomena. ([Location 2652](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2652))
+- it is impossible to accurately experience the mental and physical phenomena that took place even an hour or a few minutes ago. ([Location 2658](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2658))
+- If one mindfully and attentively observes, one can experience the unique characteristics and so on of a distinctly appearing mental or physical phenomenon. ([Location 2667](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2667))
+    - Tags: [[blue]] 
+- Latent defilements dwell in present phenomena that we have not yet noted. ([Location 2672](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2672))
+    - Tags: [[pink]] 
+- These are called “defilements that lie dormant in sense objects” (ārammaṇādhiggahita-kilesā) or “defilements that arise when sense objects are not observed” (ārammaṇādhiggahituppanna). ([Location 2673](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2673))
+    - Tags: [[orange]] 
+- By observing present objects, we can temporarily remove mental defilements (tadaṅgappahāna), and as a result of this, the creation of unwholesome kamma and the negative consequences under the influence of that defilement becomes impossible. ([Location 2675](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2675))
+- As soon as we fail to observe phenomena, that omission leaves defilements dormant in our mental processes. ([Location 2678](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2678))
+    - Tags: [[blue]] 
+- In other words, the concept of solid form ( ghanapaññatti) has already been impressed on our mental processes, like a picture that has been developed. So whenever we happen to think about what we have seen, heard, smelled, tasted, touched, and thought about in the past, the concept of solid form emerges, and belief in permanence, happiness, and personality follow in its wake. As a result, this concept of solid form is firmly stuck in the mind and cannot be removed, even though we repeatedly reflect on the fact that objects are merely mental and physical phenomena and are impermanent, unsatisfactory, and not-self. We cannot get rid of defilements that believe in permanence, happiness, and personality. ([Location 2679](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2679))
+    - Tags: [[pink]] 
+- Similarly, it is too late to root out the delusory sense of forms, i.e., the delusory sense of persons or things that have already formed due to our failure to observe them the moment they took place. ([Location 2689](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2689))
+- So it is useless to observe past phenomena, because doing so cannot help to arouse insight knowledge and remove mental defilements. ([Location 2690](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2690))
+    - Tags: [[favorite]] [[blue]] 
+- Let not a person revive the past Or on the future build his hopes; For the past has been left behind And the future has not been reached. Instead with insight let him see Each presently arisen state; Let him know that and be sure of it, Invincibly, unshakeably. Today the effort must be made; Tomorrow Death may come, who knows? No bargain with Mortality Can keep him and his hordes away, But one who dwells thus ardently, Relentlessly, by day, by night— It is he, the Peaceful Sage has said, Who has had a single excellent night.202 ([Location 2697](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2697))
+- All phenomena that have occurred in the past are gone, so we should not recall them with attachment and wrong view. ([Location 2715](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2715))
+    - Tags: [[blue]] 
+- As for a meditator, he or she should not recall good or bad times he or she had during previous practice. ([Location 2723](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2723))
+- As for a meditator, he or she should not look forward to attaining something special during practice, such as insight knowledge or path and fruition. ([Location 2728](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2728))
+- Whether seeing, hearing, smelling, tasting, touching, walking, standing, sitting, sleeping, bending, stretching, or thinking, whenever one of these phenomena arises in the present, we must observe it in order to realize that it is just a mental and physical phenomenon, and to see its impermanent, unsatisfactory, and impersonal nature. ([Location 2731](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2731))
+    - Tags: [[blue]] 
+- Otherwise, we will become attached to such phenomena and believe that they are permanent, pleasing, favorable, beautiful, and obey our wishes. ([Location 2733](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2733))
+    - Tags: [[pink]] 
+- On the other hand, when we are able to note, each time one notes, no sensual thoughts spring up from attachment and wrong view. Such a noting mind “does not yield to temptations of attachment and wrong view” (asaṃhīra) and “is not ruined by attachment and wrong view” (asaṃkuppa). By observing present objects, we should develop insight until reaching the phase called “contemplation of relinquishment” ( paṭinissaggānupassanā), which includes insight knowledge of equanimity toward formations (saṅkhārupekkhāñāṇa), insight knowledge of adaptation (anulomañāṇa), knowledge of change-of-lineage ( gotrabhūñāṇa), path knowledge (maggañāṇa), and fruition knowledge ( phalañāṇa). ([Location 2744](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2744))
+- “Doesn’t the word “the present life” (addhāpaccuppanna)203 refer to the period between birth and death?” ([Location 2752](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2752))
+    - Tags: [[blue]] 
+- That is true only in the case of mental states that do not yield to the temptations of attachment and wrong view and are not ruined by attachment and wrong view. ([Location 2754](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2754))
+    - Tags: [[pink]] 
+- it is not possible to develop insight by observing, in general, all phenomena arising between birth and death by conjecture, by imagining them before they take place, or by reflecting about them long after they have passed. ([Location 2755](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2755))
+    - Tags: [[orange]] 
+- we must develop insight by observing phenomena the moment they take place. ([Location 2756](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2756))
+- The phrase “then and there” (tattha tattha) means that even though a phenomenon occurs in the present life, one should observe it right then and there by means of the seven contemplations,204 beginning with contemplation of impermanence (aniccānupassanā).205 ([Location 2758](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2758))
+    - Tags: [[blue]] 
+- All one needs to do is note present phenomena as soon as they arise. ([Location 2763](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2763))
+    - Tags: [[pink]] 
+- The phrase “then and there” means that one should observe an object the moment it takes place, and not before or after. ([Location 2764](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2764))
+    - Tags: [[orange]] 
+- So objects of insight meditation must be phenomena of the serial present ([Location 2765](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2765))
+- limited to a single mental process, and phenomena of the momentary present (khaṇapaccuppanna), restricted to a single mind-moment, ([Location 2766](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2766))
+    - Tags: [[blue]] 
+- the supernormal ability to read others’ thoughts (cetopariya abhiññāṇa) also observes only phenomena of the serial present. ([Location 2768](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2768))
+    - Tags: [[pink]] 
+- “the present life” is restricted to a single process of mind. ([Location 2770](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2770))
+    - Tags: [[orange]] 
+- “The present life” is defined as the limited period of a single mental process, not the entire period between birth and death. ([Location 2772](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2772))
+- When walking, a bhikkhu understands: “I am walking”; . . .208 ([Location 2781](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2781))
+- When feeling a pleasant feeling, a bhikkhu understands, “I feel a pleasant feeling”; . . .209 ([Location 2786](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2786))
+    - Tags: [[blue]] 
+- There being sensual desire in him, a bhikkhu understands: “There is sensual desire in me”; . . .210 ([Location 2792](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2792))
+    - Tags: [[pink]] 
+- Here a bhikkhu understands mind affected by lust as mind affected by lust . . .211 ([Location 2796](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2796))
+    - Tags: [[orange]] 
+- The moment a state of mind arises one observes either one’s own mind or another’s mind; or sometimes one’s own mind and sometimes another’s mind. This is called “contemplating mind as mind.”212 ([Location 2799](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2799))
+- sallakkhento ([Location 2803](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2803))
+- “one observes,” ([Location 2803](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2803))
+    - Tags: [[blue]] 
+- “a person notes.” ([Location 2804](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2804))
+    - Tags: [[pink]] 
+- “to note,” “to observe,” and “to bear in mind” are all synonyms for the purposes of insight practice. ([Location 2804](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2804))
+    - Tags: [[orange]] 
+- It is obvious that observing the mind the moment it arises is contemplation of mind. ([Location 2810](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2810))
+- It is impossible to really observe the mind, whether one’s own or another’s, in the past, present, or future by reflecting on the eight kinds of consciousness rooted in greed that are called “mind affected by lust.” ([Location 2811](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2811))
+    - Tags: [[blue]] 
+- All that one would perceive with that kind of reflection would be conceptual ideas, such as the names and numbers of the classes of mind affected by lust and so forth. ([Location 2813](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2813))
+    - Tags: [[pink]] 
+- empirical ([Location 2826](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2826))
+- Any physical phenomenon, whether past, future, or present, internal or external, obvious or subtle, base or exalted, far or near, should be observed entirely in terms of impermanence. That is one type of comprehension (sammasana) of mind and body.214 ([Location 2830](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2830))
+- Insight meditation is an uninterrupted observation of all phenomena as they arise at the six sense doors, such that one can realize the unique characteristics and so on of mental and physical phenomena as they really are. ([Location 2837](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2837))
+    - Tags: [[blue]] 
+- After having observed external objects, one arrives at (path knowledge while noting) internal ones.215 ([Location 2847](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2847))
+- Inferential insight: knowledge by comprehension ([Location 2855](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2855))
+    - Tags: [[blue]] 
+- Purification of view (diṭṭhivisuddhi) means to see mental and physical phenomena as they really are. In order to develop it, those who achieve jhāna and practice insight by observing jhānic phenomena must emerge from any fine material or immaterial jhāna, except neither perception nor nonperception, and then observe the jhāna factors, such as initial application of mind, and their mental factors, such as mental contact, perception (saññā), intention (cetanā), mind, and so on, in terms of their unique characteristics, functions, and such.220 ([Location 2913](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2913))
+- Mental and physical phenomena, being diametric opposites of each other, cannot be observed at the same time.222 ([Location 2942](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2942))
+    - Tags: [[blue]] 
+- Most of those who have achieved jhāna and who practice insight by observing jhānic phenomena begin practicing insight by mainly observing mental phenomena. On the other hand, most practitioners who take the vehicle of insight to enlightenment mainly observe physical phenomena.223 ([Location 2946](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2946))
+    - Tags: [[pink]] 
+- When observing mainly physical phenomena, one observes the in- and out-breath. When observing mainly mental phenomena, one observes the jhāna factors.224 ([Location 2950](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2950))
+    - Tags: [[orange]] 
+- The only difference is that observation of the conceptual form of the breath produces tranquility, while attention to its touch and movement produces insight. ([Location 2968](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2968))
+- This statement indicates that the breath is not merely a concept but is something that ultimately exists and can be empirically experienced. ([Location 2973](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2973))
+    - Tags: [[blue]] 
+- According to Pāḷi texts,228 those who have achieved jhāna and who practice insight by observing jhānic phenomena should observe an object that is obvious in the present moment, such as jhāna consciousness, its physical basis, or physical phenomena that have arisen in that mind. ([Location 2978](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2978))
+    - Tags: [[pink]] 
+- The only difference between the two is that those who have achieved jhāna are able to clearly observe phenomena related to jhāna, while practitioners of pure insight must note other phenomena since phenomena related to jhāna are not accessible to them. ([Location 2983](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2983))
+    - Tags: [[orange]] 
+- It is impossible to be empirically aware of two or more phenomena at the same time. ([Location 2990](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2990))
+- One might imagine that all enlightened persons experience phenomena in the same way, or that they became enlightened only after experiencing all phenomena in detail ([Location 2995](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2995))
+    - Tags: [[blue]] 
+- But in practice, the depth of one’s realization varies according to the perfections that one has acquired. ([Location 2997](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2997))
+- A person who is fit for liberation and is of sharp intelligence (tikkhabhabba-puggala) can have the most complete and detailed understanding available within a disciple’s (sāvaka) range of understanding. However, that person’s understanding is still not as comprehensive as explained in the Abhidhamma and the discourses. This will become obvious when we deal with the Anupada Sutta. ([Location 2997](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=2997))
+    - Tags: [[blue]] 
+- If a person is of dull intelligence but fit for liberation (mandabhabba-puggala), with only the minimum insight needed to become enlightened he or she will attain understanding of the path and its fruit. ([Location 3000](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3000))
+    - Tags: [[pink]] 
+- “When, friend, a bhikkhu understands as they really are the origin and passing away of the six bases for contact, in this way his vision is well purified.”232 ([Location 3009](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3009))
+- “noting and understanding all mental and physical phenomena.” ([Location 3017](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3017))
+    - Tags: [[blue]] 
+- “When, friend, a bhikkhu understands as they really are the origin and passing away of the five aggregates subject to clinging, in this way his vision is well purified.”233 ([Location 3019](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3019))
+- “When, friend, a bhikkhu understands as they really are the origin and passing away of the four great elements, in this way his vision is well purified.”234 ([Location 3022](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3022))
+- “When, friend, a bhikkhu understands as it really is: ‘Whatever is subject to origination is all subject to cessation,’ in this way his vision is well purified.”235 ([Location 3031](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3031))
+- those superior men answered as they were disposed, in just the way their own vision had been well purified.”236 ([Location 3038](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3038))
+- “insight into states one by one as they occur” ([Location 3067](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3067))
+- How Sāriputta developed insight one by one Venerable Sāriputta entered the jhānas one by one in order. Immediately after emerging from each jhāna, he observed initial application and so on, and understood their unique characteristics. So he understood the unique characteristics of these states: 1.Initial application of mind (vitakka) characterized by initial application 2.Sustained application of mind (vicāra) characterized by sustained application 3.Rapture ( pīti) characterized by rapture 4.Pleasure (sukha) characterized by pleasure 5.One-pointedness of mind, that is to say, concentration (cittekaggatā) characterized by one-pointedness of mind 6.Mental contact ( phassa) characterized by mental contact 7.Feeling (vedanā) characterized by feeling 8.Perception (saññā) characterized by perception 9.Intention or urging (cetanā) characterized by intention 10.Cognition (citta) characterized by cognition 11.Desire to act (chanda) characterized by the desire to act 12.Determination (adhimokkha) characterized by determination 13.Exertion (vīriya) characterized by exertion or effort 14.Mindfulness (sati) characterized by mindfulness 15.Balanced equanimity (tatramajjhattupekkhā) characterized by balanced equanimity and balanced observation 16.Attention (manasikāra) characterized by attention ([Location 3083](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3083))
+- It is impossible for a fingertip to touch itself. In the same way, a particular consciousness cannot understand its own appearance, presence, and disappearance. It is impossible for a particular jhāna to understand itself. If two consciousnesses were to occur at the same time, one could understand the appearance, existence, and disappearance of the other. But it is impossible for two contacts, feelings, perceptions, intentions, or consciousnesses to occur at the same time. They only happen one by one. Different consciousnesses cannot happen at the same time.244 ([Location 3106](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3106))
+    - Tags: [[blue]] 
+- What is contemplated is called a “meditative object,” and is the domain of insight.246 ([Location 3131](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3131))
+    - Tags: [[pink]] 
+- They emphasize repeatedly that insight can only be accomplished when one understands mind and body internally or externally as they really are, ([Location 3158](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3158))
+- Any objects perceived through reflection and speculation are concepts and not ultimate reality, ([Location 3160](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3160))
+    - Tags: [[blue]] 
+- because they do not really exist either internally or externally. ([Location 3160](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3160))
+    - Tags: [[blue]] 
+- “Again, bhikkhus, by completely surmounting the base of nothingness (ākiñcaññāyatana), Sāriputta entered upon and abided in the base of neither perception nor non-perception. “He emerged mindful from that attainment. Having done so, he contemplated the past states, which had ceased and changed, thus: ‘So indeed, these states not having been, come into being; having been, they vanish.’”248 ([Location 3171](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3171))
+- (bhāvanāmayañāṇa) ([Location 3202](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3202))
+- But reflection or speculation based on general knowledge does not produce genuine insight. ([Location 3205](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3205))
+    - Tags: [[blue]] 
+- “Others will adhere to their own views, hold on to them tenaciously, and relinquish them with difficulty; we shall not adhere to our own views or hold on to them tenaciously, but shall relinquish them easily”: effacement should be practiced thus.251 ([Location 3208](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3208))
+    - Tags: [[pink]] 
+- It is the objective of insight knowledge that observes phenomena of attainment one by one as they occur to be concerned with only one distinct object. ([Location 3217](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3217))
+    - Tags: [[orange]] 
+- It is likewise the objective of empirically observed insight to distinguish and observe the unique characteristics and so on of only one distinct object. ([Location 3218](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3218))
+- So you shouldn’t observe phenomena that are not distinct by deliberately thinking about them. ([Location 3222](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3222))
+    - Tags: [[blue]] 
+- In the last chapter, I explained that a person who takes the tranquility vehicle meditates on the jhāna consciousness that he or she has entered, the physical basis of that jhāna consciousness, or physical phenomena that have arisen due to that jhāna consciousness. Similarly a person who takes the vehicle of insight observes presently arisen consciousness of seeing, hearing, smelling, tasting, touching, or thinking, the physical bases of these kinds of consciousness, physical phenomena arisen due to these kinds of consciousness, or physical phenomena arisen due to the objects of these kinds of consciousness. Moreover I explained that, according to the Pāḷi texts, commentaries, and subcommentaries, “seeing” refers to the entire mental process of seeing, not to each individual mental moment of it. Further explanation on this point will also be given in chapter 6 when we deal with the insight knowledge of dissolution. ([Location 3232](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3232))
+- “Won’t my attention be drawn to the concept of the word being used, instead of connecting with the ultimately real phenomena that it indicates?” ([Location 3262](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3262))
+    - Tags: [[blue]] 
+- Ultimately real phenomena are made up of nothing but the particular aspects of their (1) characteristics (lakkhaṇā), (2) function (rasā), (3) manifestation ( paccupaṭṭhānā), and (4) proximate cause ( padaṭṭhānā). ([Location 3280](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3280))
+    - Tags: [[pink]] 
+- If we perceive an object in any other way, the object we perceive is not a genuine, ultimately real phenomenon but a concept of something such as its manner, identity, image, solid form, and so on. ([Location 3284](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3284))
+    - Tags: [[pink]] 
+- We can experience a phenomenon as it really is if we observe it the moment it takes place. ([Location 3285](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3285))
+    - Tags: [[orange]] 
+- If we observe a lightning bolt the moment it strikes, for example, we will certainly be aware of its unique characteristic (brightness), its function (to remove darkness), its manifestation (whether it is straight, branched, or arcing), or its proximate cause (a cloud and so on). ([Location 3287](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3287))
+- It is impossible, on the other hand, to perceive the lightning bolt as it really is if we imagine or analyze it after it has disappeared. ([Location 3289](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3289))
+    - Tags: [[blue]] 
+- We cannot understand the characteristics and such of these truly arising mental and physical phenomena as they really are by merely thinking or reflecting on them, without noting them as they arise in the present moment, even if we have theoretical knowledge of them. For example, if you note an unpleasant feeling, you can understand its characteristic (unpleasantness), its function (stress), its manifestation (discomfort), or its proximate cause (contact between the mind and an unpleasant object), as it really is with personal experience. ([Location 3292](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3292))
+- we need only be aware of present mental and physical phenomena the moment they occur; ([Location 3304](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3304))
+- The reason that the Abhidhammattha Saṅgaha includes proximate causes is because the proximate cause becomes obvious and can be observed at later stages of purification of view when one is about to attain knowledge that discerns conditionality. ([Location 3313](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3313))
+    - Tags: [[blue]] 
+- A person can only realize one of the four aspects of characteristic, function, manifestation, and proximate cause at a time. ([Location 3315](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3315))
+    - Tags: [[pink]] 
+- Eye-sensitivity When we experience our eye as clear or sufficiently clear that a visual object appears to it, the eye-sensitivity is understood in terms of its unique characteristic (sabhāvalakkhaṇā). When we experience eye-sensitivity carrying our attention to an object or allowing us to see an object, the eye-sensitivity is understood in terms of its function. When we experience the eye-sensitivity as the basis for seeing or the starting point of seeing, it is understood in terms of its manifestation. When we are aware of the solid, bodily eye, the eye-sensitivity is understood from the aspect of its being a proximate cause. ([Location 3332](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3332))
+- Knowledge gained through learning and logical thought is not insight. ([Location 3388](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3388))
+- Mental and physical phenomena are understood as they really are by being aware of them in terms of their characteristics and so on the moment they occur. ([Location 3389](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3389))
+    - Tags: [[blue]] 
+- This understanding or insight knowledge is superior to learning and logical thought. ([Location 3390](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3390))
+    - Tags: [[pink]] 
+- It is superior even to knowledge derived from tranquility meditation (samathabhāvanāmaya). ([Location 3390](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3390))
+    - Tags: [[orange]] 
+- This passage makes it clear that learning and logical thought do not even belong to the realm of basic knowledge, let alone to that of higher insight knowledges. ([Location 3399](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3399))
+- The Pariññeyya Sutta266 explains how it is fulfilled. At the mature stages of the first two knowledges, whenever one notes “seeing,” one comes to know that the seeing did not exist before and that it has now appeared. Thereby one also understands the appearance of these five phenomena. One further understands the disappearance of these phenomena, seeing them vanish after they have arisen—using sharp mindfulness one sees them instantly disappear. When one begins to see arising and disappearance, one understands the characteristic of impermanence (aniccalakkhaṇā). Because phenomena are not exempt from arising and disappearance, they are unsatisfactory: this is understanding the characteristic of unsatisfactoriness (dukkhalakkhaṇā). And because they arise and disappear even though one doesn’t wish them to, there is no self that has any control over them: this is understanding the characteristic of not-self (anattālakkhaṇā). ([Location 3408](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3408))
+- When a defilement arises in connection with sight, it arises at the moment of seeing based on a distinct object that you see. ([Location 3421](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3421))
+- The point is that one should observe the objects one sees so that the defilements are abandoned by means of insight meditation, just like the objects that one does not see. ([Location 3438](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3438))
+- In the Udana-aṭṭhakathā,269 the sentence “When you are not ‘therein’” is said to mean that one is neither in the six internal sense bases (eye, ear, nose, tongue, body, and mind) nor in the six external sense bases (visible forms, sounds, odors, tastes, touch, and thoughts), nor in the six kinds of consciousness that are between the two of them. When one is not in the six internal sense bases, the six external sense bases, or the six kinds of consciousness, it is the end of suffering. ([Location 3456](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3456))
+- The explanation of this verse is as follows: when you see a visual object, just let seeing be seeing; do not let mental defilements intrude by thinking about the form that has been seen. You should observe the visible form that you see so that the defilements have no chance to arise. Being mindful of the visible form, you will know its true nature: you will understand it as having the nature of just being seen, disappearing after it has arisen, and disappearing even while being noted. Thus you will realize that it is impermanent, unsatisfactory, and not-self. Even though you see this visible form, it is the same as an object that you do not see, so you don’t mentally grasp it as something to be loved or hated, or as solid matter. Even if you happen to think of it, you will not reflect on it with delusion. You will remember it as impermanent, unsatisfactory, and not-self, just as you found it to be when you first noted it. Thus defilements of love or hate will be unable to arise based on thoughts connected with that visible form. ([Location 3461](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3461))
+    - Tags: [[blue]] 
+- In other words, every time you see, you must observe so that no defilements can arise. ([Location 3468](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3468))
+    - Tags: [[pink]] 
+- When hearing a sound, smelling an odor, experiencing a taste, touching any kind of tangible object, or thinking a thought, you must observe so that ensuing thoughts and defilements have no chance to arise. You just let hearing be hearing, and likewise with the rest. As you just let seeing be seeing, hearing be hearing, and so on, and uninterruptedly continue to note, you gradually develop the moral conduct, concentration, and understanding that are developed hand in hand with the practice of insight meditation. ([Location 3469](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3469))
+- Insight meditation temporarily removes defilements and so is described as “temporary seclusion” (tadaṅgaviveka), “nonattachment” (virāga), “cessation” (nirodha), and “release” (vosagga). ([Location 3480](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3480))
+    - Tags: [[blue]] 
+- An insight practitioner is considered “a person who is temporarily liberated from defilements” (tadaṅganibbūta), as stated in the Saṃyutta Nikāya. One is not carried away by defilements connected with seeing and so on; one is not attached to the object one sees, nor is one averse to it; and one also does not entertain thoughts of taking things to be permanent, satisfying, and self. ([Location 3481](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3481))
+    - Tags: [[pink]] 
+- Because such persons can abandon the perception of permanence and so on, their understanding is called “full understanding by abandoning” ( pahānapariññā). ([Location 3484](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3484))
+    - Tags: [[orange]] 
+- Understanding the disappearance of the visible form that is seen is “insight full understanding by abandoning” (vipassanāpahānapariññā). ([Location 3486](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3486))
+- Understanding the complete cessation of all conditioned phenomena that include the visible form that is seen together with the noting mind is “path full understanding by abandoning” (maggapahānapariññā). ([Location 3487](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3487))
+    - Tags: [[blue]] 
+- At that point, “you will not be therein” with sense objects. That is, you will no longer have attachment (taṇhā), pride (māna), or wrong view (diṭṭhi).271 ([Location 3490](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3490))
+    - Tags: [[pink]] 
+- “nibbāna without residue” (anupādisesanibbāna). ([Location 3497](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3497))
+- Some scholars interpret this line in this way: at the moment of path and fruition, the six internal sense bases (eye, ear, nose, tongue, body, and mind) do not appear to the mind and therefore one cannot observe them. The six external mundane sense objects (visible form, sound, smell, taste, touch, and mental objects) do not appear to the mind and, therefore, one cannot observe them. The six kinds of consciousness (seeing, hearing, smelling, tasting, touching, and thinking consciousness) do not appear to the mind and, therefore, one cannot observe them. Path knowledge and fruition knowledge arise by taking the cessation of the sense bases, sense object, and consciousness as their object. Realizing the nature of cessation with the attainment of path and fruition is called nibbāna, the end of unsatisfactoriness. ([Location 3498](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3498))
+    - Tags: [[blue]] 
+- “attending to the pleasing sign” indicates that unwise attention leads to desire. ([Location 3514](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3514))
+- “with mindfulness muddled” means that one fails to be mindful of visible forms as they really are: ([Location 3515](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3515))
+    - Tags: [[blue]] 
+- “one experiences it with infatuated mind” implies also the cases that he hates it if it is undesirable and ignores it in delusion if it is neutral. ([Location 3516](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3516))
+    - Tags: [[pink]] 
+- phenomena that are not apparent and not perceived through one of the six kinds of consciousness naturally do not arouse defilements, so one should not try to note them; ([Location 3532](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3532))
+- phenomena that are apparent and perceived through one of the six kinds of consciousness and that are not being noted do arouse defilements, so one should note them— ([Location 3533](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3533))
+    - Tags: [[blue]] 
+- defilements that arise when one is not mindful are abandoned by noting them; and if one is mindful of an apparent phenomenon, defilements do not arise from phenomena that are either apparent or not apparent, so when one notes one apparent phenomenon, then the… ([Location 3534](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3534))
+    - Tags: [[pink]] 
+- Thus if one understands the arising and passing away and sees the impermanent nature and such of one phenomenon by noting it each time one sees it, then the aim of understanding the five… ([Location 3537](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3537))
+    - Tags: [[orange]] 
+- Although one tries to constantly note seeing as “seeing,” defilements will often intrude when insight knowledge is still immature. However, you should not feel disappointed. You should not give up. You can overcome defilements by noting them over and over again, just as a person hand-washing clothes gets them completely clean by repeatedly beating and squeezing them. The difference is that a person can easily see how clean the clothes are getting, but a meditator has no way of knowing how many defilements he or she is… ([Location 3540](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3540))
+    - Tags: [[blue]] 
+- a meditator cannot know exactly how many defilements he or she has overcome until he or she attains path… ([Location 3548](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3548))
+- However, as insight matures defilements arise less and less often and disappear once they are noted. They no longer persist. Instead, the noting mind flows continuously most of the time. Later one’s insight knowledge becomes so powerful that it prevents unwholesome impulsion from arising. Instead, wholesome impulsion arises during the mental process of seeing, even with regard to a visual object that is likely to arouse attachment. At that point, the mental process of seeing may even stop with determining (votthapana), the mind-moment that… ([Location 3549](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3549))
+    - Tags: [[blue]] 
+- The statement “bhikkhus, . . . slow might be the arising of his mindfulness”276 means that mindfulness is slow to progress. But once it develops, some defilements are suppressed; they can no longer persist. For example, if attachment enters through the eye door, one notices this defilement occurring in the second mental process. In this way, one causes wholesome impulsions to arise in the third mental process. It is not surprising that a meditator can suppress defilements by the third mental process. One can even replace unwholesome impulsions in the mental process of seeing with wholesome impulsions after seeing-related mind-moments, from the life-continuum (bhavaṅga) and adverting (āvajjana) up to determining (votthapana),277… ([Location 3555](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3555))
+    - Tags: [[pink]] 
+- “Venerable sir, suppose there were an anthill with six openings and a lizard inside. If you wanted to catch the lizard, you would have to close off five of the openings first and then wait at the sixth one. In the same way out of the six sense doors, you must work only at the mind door, leaving the other five sense doors closed.” ([Location 3634](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3634))
+- Here, having seen a form with the eye, a bhikkhu is neither joyful nor saddened, but dwells equanimous, mindful, and clearly comprehending.287 ([Location 3644](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3644))
+    - Tags: [[blue]] 
+- Wisdom arises from [spiritual] practice; Without practice, it decays. Knowing this two-way path for gain and loss, Conduct yourself so that wisdom grows.288 ([Location 3652](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3652))
+    - Tags: [[pink]] 
+- This is how to develop insight to the level of sixfold equanimity: by noting seeing as “seeing” the moment it occurs, and so on for the rest of the senses. ([Location 3657](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3657))
+    - Tags: [[orange]] 
+- Having realized physical phenomena very well, three aspects of mental phenomena—mental contact, feeling, and consciousness—appear.289 ([Location 3661](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3661))
+- They do not, however, appear all together as a group: when mental contact is distinct, it appears; when feeling is distinct, it appears; when consciousness is distinct, it appears. ([Location 3666](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3666))
+    - Tags: [[blue]] 
+- mental contact ([Location 3669](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3669))
+    - Tags: [[pink]] 
+- the feeling ([Location 3670](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3670))
+    - Tags: [[orange]] 
+- consciousness ([Location 3671](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3671))
+- However, mental contact never arises alone. ([Location 3672](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3672))
+- mental factors like feeling, perception, volition, as well as consciousness also arise. ([Location 3672](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3672))
+    - Tags: [[blue]] 
+- The commentary explicitly mentions the realization of mental contact ( phassa) as mental contact. However, when mental contact is realized, the other mental phenomena are also apparent, i.e., feeling (vedanā) as feeling, perception (saññā) as perception, volition (cetanā) as volition, and cognition (viññāṇa) as cognition.290 ([Location 3681](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3681))
+- However, it is said that he or she observes the five “contact-led” phenomena ( phassapañcamaka), because mental contact never arises alone. It always occurs together with feeling, perception, volition, and consciousness. ([Location 3696](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3696))
+- If one understands the eye-consciousness element (seeing), then understanding the eye element (the physical basis of the eye) and the visible form element (the form that is seen) is fulfilled. If one understands the ear-consciousness element (hearing), then understanding the ear element (the physical basis of the ear) and the sound element (the sound that is heard) is fulfilled. If one understands the nose-consciousness element (smelling), then understanding the nose element (the physical basis of the nose) and the smell element (the smell that is smelled) is fulfilled. If one understands the tongue-consciousness element (tasting), then understanding the tongue element (the physical basis of the tongue) and the taste element (the taste that is tasted) is fulfilled. If one understands the body-consciousness element (touching), then understanding the body element (the physical basis of the body) and the tangible element (the touch that is felt) is fulfilled. ([Location 3747](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3747))
+- At the moment of touching, one can empirically observe and understand hardness, softness, heat, warmth, cold, stiffness, and suppleness. ([Location 3755](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3755))
+    - Tags: [[blue]] 
+- If one understands the mind-consciousness element (thinking), then understanding the mind element (comprised of receiving [sampaṭicchana] and five-sense-door-adverting [pañcadvārāvajjana] consciousnesses) and the mental object element (the thought that is thought) is fulfilled. ([Location 3756](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3756))
+    - Tags: [[pink]] 
+- The earth element is defined by six qualities: hardness, softness, smoothness, roughness, heaviness, and lightness. On the other hand, the two qualities of pleasant and unpleasant (touch) are defined in terms of the three (discernable) primary material elements.305 ([Location 3844](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3844))
+- Mindfulness of breathing ([Location 3866](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3866))
+- In an ultimate sense the rise and fall of the abdomen characterized by tension, pressure, or movement is the air element. It is considered part of the physical aggregate (rūpakkhandhā), a tangible object ( phoṭṭhabbāyatana), a tangible object element ( phoṭṭhabbadhātu), and the truth of suffering (dukkhasacca). Thus the rise and fall of the abdomen is clearly an appropriate object of meditation for the development of insight. ([Location 3893](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3893))
+- Moreover, it is obvious from the last verse above that any bodily action or movement can be taken as an object for insight meditation. ([Location 3897](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3897))
+    - Tags: [[blue]] 
+- Thus every time we note a bodily sensation, we will be aware of the four primary material elements. We will understand that there is no person, being, woman, man, “I,” or “mine,” but only a collection of physical elements such as hardness, softness, heat, warmth, cold, tightness, looseness, movement, pulling, pushing, flowing, melting, wetness, expansion, and cohesion. ([Location 3924](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3924))
+- Mindfulness of walking, bending, and other movements is also covered under this awareness of touch. ([Location 3931](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3931))
+    - Tags: [[blue]] 
+- the intention to walk, intention to bend, and so on are awareness of mind, so they will be explained in the upcoming sections on posture and clear comprehension. ([Location 3931](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3931))
+    - Tags: [[pink]] 
+- I have previously explained that mental activities, such as thinking, considering, examining, reflecting, and so on, are referred to as mind door processes. When one notes them as “thinking,” “considering,” “examining,” “reflecting,” and so on, one phenomenon, such as the mind door (manodvāra), mental object (dhammārammaṇā), mind-consciousness (manoviññāṇa), mental contact, or feeling will be apparent in terms of its characteristic and so on. Thus one will see and understand one of these phenomena as it really is. This is full understanding of the known (ñātapariññā). ([Location 3934](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3934))
+- impermanence ([Location 3940](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3940))
+    - Tags: [[blue]] 
+- full understanding by investigation ([Location 3940](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3940))
+    - Tags: [[pink]] 
+- full understanding by abandoning ([Location 3941](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3941))
+    - Tags: [[orange]] 
+- Mental objects include the five sensitivities—the eye, ear, nose, tongue, and body sensitivities; the six kinds of subtle matter (sukhumarūpa)—the water element, femininity (itthibhāvā), masculinity ( pumbhāva), the mind-sensitivity of the heart (hadaya), vitality ( jīvita), and nutrition (āhāra); and all mundane mental states, all mundane mental factors. ([Location 3944](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3944))
+    - Tags: [[blue]] 
+- When insight knowledge becomes extremely keen and pure, there are gaps between two consecutive notings. ([Location 3949](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3949))
+- For example, when one bends the arm, each separate little movement of bending has to be noted as “bending, bending.” When one is aware like this gaps between the previous noting, the following intention, and the following bending movement become apparent. Over time it will seem as if fewer and fewer objects are noted or that there are gaps in one’s noting. In fact, objects will not have become fewer and there are not gaps in one’s noting. Instead, given the quickness of one’s noting, the life-continuum consciousness that falls between successive mental processes becomes apparent. Seeing the gap between two successive mental processes at that moment is called “understanding the life-continuum consciousness or the mind door.” ([Location 3950](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3950))
+    - Tags: [[blue]] 
+- Another mind door is the mind-moment that adverts to an object. When one correctly understands adverting consciousness, one knows it as initial attention (characteristic), initial investigation (function), initial examination (manifestation), and the first moment of full consciousness following the life-continuum consciousness (proximate cause). ([Location 3956](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3956))
+- When one correctly understands the mind-sensitivity of the heart, one knows that: it is the basis of the thinking or noting mind (characteristic); it supports the existence of the thinking mind or noting mind (function); it receives or bears the thinking mind (manifestation); and it is caused by the four primary material elements (proximate cause). This is what “he understands the mind” (manañca pajānāti) means in the Satipaṭṭhāna Sutta. ([Location 3959](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=3959))
+    - Tags: [[pink]] 
+- At that point you will come to personally and thoroughly understand that the intention to walk occurs first, and that as a result of this intention, a sequence of movements happens, and that as these movements happen everywhere, all the physical phenomena that are called “body” move in separate little movements, arising and disappearing one after the other. ([Location 4020](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=4020))
+- They can’t distinguish between mind and body and do not understand that the intention causes the movement to happen. ([Location 4035](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=4035))
+    - Tags: [[blue]] 
+- Even when ordinary people occasionally know they are walking, they perceive it as an individual person who is walking, and they take that person to be unchanging. ([Location 4039](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=4039))
+- However, if you note “intention” and “walking” whenever one walks, the intention that arises in the mind and the bodily movement that take place will be very distinct. ([Location 4048](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=4048))
+- Then you will not mix the mental process of intention with the body but will understand them as different processes. Likewise, you will not mix the bodily movements with the mind but will understand them as different processes. ([Location 4050](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=4050))
+    - Tags: [[blue]] 
+- separate units of intention and movement. ([Location 4053](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=4053))
+    - Tags: [[pink]] 
+- the intentions will not merge into the movements and the little separate movements will not merge into the next little movement, but they will disappear one after the other. ([Location 4053](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=4053))
+    - Tags: [[orange]] 
+- you will realize that saying “I am walking” or “he is walking” is purely conventional. ([Location 4055](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=4055))
+- There is in fact no individual person who walks; there is only the intention, followed by the movement of a collection of physical phenomena. ([Location 4056](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=4056))
+    - Tags: [[blue]] 
+- No physical phenomenon lasts even for the twinkling of an eye. ([Location 4057](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=4057))
+    - Tags: [[pink]] 
+- Everything is subject to impermanence, and because everything instantly arises and disappears, it is just a mass of unsatisfactoriness. ([Location 4057](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=4057))
+    - Tags: [[orange]] 
+- “clear comprehension without delusion” (asammohasampajañña), ([Location 4059](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=4059))
+    - Tags: [[blue]] 
+- The understanding that arises from noting “intention” or “walking” belongs to clear comprehension of the domain ( gocarasampajañña). ([Location 4060](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=4060))
+    - Tags: [[pink]] 
+- You should repeatedly cultivate and accomplish clear comprehension of the domain so that clear comprehension without delusion can spontaneously arise. ([Location 4062](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=4062))
+- This is how one can abandon the view of a being ([Location 4063](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=4063))
+    - Tags: [[blue]] 
+- by means of the insight knowledge developed by observing intention and bodily movements. ([Location 4063](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=4063))
+    - Tags: [[blue]] 
+- There is no insight knowledge without mindfulness. In ([Location 4076](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=4076))
+- When the intention is noted, that very noting mind is noted in turn as “noting” or “perceiving.” ([Location 4079](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=4079))
+    - Tags: [[blue]] 
+- After that, one notes the resulting movement and then notes that noting mind. This is called “counter-insight meditation” ( paṭivipassanābhāvanā). ([Location 4080](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=4080))
+    - Tags: [[pink]] 
+- insight grows stronger and stronger by taking the noting mind itself as an object to be noted. ([Location 4082](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=4082))
+- a bhikkhu is one who acts in full awareness when going forward and returning; . . .324 ([Location 4088](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=4088))
+- The preceding mind vanishes and the subsequent mind appears,327 like the current of a river that ceaselessly flows forever. Thus is clear comprehension of reality when going forward and so on.328 ([Location 4113](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=4113))
+- When your mindfulness, concentration, and insight knowledge become powerful, you will be able to clearly understand the intention to stand and the air element that holds the standing posture by supporting it. This is also true for sitting. When you lie down, you will be able to clearly understand the intention to do so and the air and earth elements that manifest as the process of lying down. In this respect there is a difference between a meditator’s understanding and that of ordinary people. ([Location 4137](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=4137))
+- So in keeping with the Pāḷi line “a bhikkhu is one who acts in full awareness when going forward and returning,” you should be aware of going forward, backward, or sideways or of bending or curling up when you do these things. When your practice becomes powerful, you will also become aware of the intention and the air element involved in moving forward, backward, or sideways, and so on. ([Location 4144](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=4144))
+    - Tags: [[blue]] 
+- noting the movements caused by intention, such as opening the eyes, moving the eyes, or turning of the head, insight knowledge of the physical aggregate, the physical sense bases, and the physical elements can arise. ([Location 4160](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=4160))
+    - Tags: [[pink]] 
+- cut any impediments during the time of meditation practice through the following preparations. ([Location 5586](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=5586))
+    - Tags: [[pink]] 
+- “May my moral conduct be supportive of path knowledge. ([Location 5587](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=5587))
+    - Tags: [[blue]] 
+- Entrust yourself to the Buddha’s wisdom, ([Location 5589](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=5589))
+    - Tags: [[blue]] 
+- entrust yourself to a teacher’s care, ([Location 5590](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=5590))
+- Reflect on the merits of: ([Location 5592](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=5592))
+    - Tags: [[pink]] 
+- nibb ([Location 5592](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=5592))
+    - Tags: [[blue]] 
+- path knowledge, ([Location 5593](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=5593))
+- insight practice, ([Location 5593](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=5593))
+    - Tags: [[orange]] 
+- You should find inspiration by remembering that the path of insight you are practicing is the same path that the Buddha, arahants, and all of the noble ones have followed. ([Location 5594](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=5594))
+    - Tags: [[pink]] 
+- bow to the Buddha, ([Location 5596](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=5596))
+    - Tags: [[orange]] 
+- cultivate loving-kindness toward all living beings, ([Location 5596](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=5596))
+    - Tags: [[blue]] 
+- contemplate death ([Location 5597](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=5597))
+    - Tags: [[orange]] 
+- and the impurity of your own body. ([Location 5597](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=5597))
+    - Tags: [[orange]] 
+- A meditator should focus his or her mind on the abdomen. ([Location 5602](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=5602))
+- “ ([Location 5604](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=5604))
+    - Tags: [[orange]] 
+- “ ([Location 5605](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=5605))
+    - Tags: [[orange]] 
+- True insight practice is an awareness of all of the mental and physical phenomena that constantly arise at the six sense doors. ([Location 5609](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=5609))
+    - Tags: [[blue]] 
+- You will not be skillful enough to follow all of the objects, or may get caught up in searching for an object to note. ([Location 5611](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=5611))
+    - Tags: [[pink]] 
+- For these reasons you should initially focus just on the rise and fall of the abdomen that occurs all the time and is noticeable enough to observe without much difficulty. Later, when your practice matures, you will be able to note objects as they arise. ([Location 5611](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=5611))
+- If a meditator changes his or her natural pattern of breathing, he or she may get tired quickly and not be able to note properly. Just breathe in and out normally and regularly, and observe concurrently. ([Location 5616](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=5616))
+    - Tags: [[blue]] 
+- A meditator does not leave any gap in the flow of noting. ([Location 5679](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=5679))
+- If it becomes unbearable, ignore it and take extra care to concurrently and continuously note the rise and fall of the abdomen. ([Location 5691](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=5691))
+    - Tags: [[blue]] 
+- If a meditator becomes frightened and stops noting when any of these kinds of extreme sensations occur, he or she will find that they immediately disappear. But they will generally reappear when his or her noting becomes strong again. A meditator should not be afraid of encountering any of these kinds of experiences. These are not signs of some serious disease; they are ordinary sensations that we often have in our bodies. ([Location 5697](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=5697))
+    - Tags: [[pink]] 
+- We rarely notice them, however, because our attention is usually occupied with more obvious sensations. It is actually the strength of our concentration that makes them obvious in this way. So you needn’t worry that something is wrong. Simply continue to note the sensation in order to overcome it. If a meditator stops noting, he or she may end up encountering the same kind of sensation every time concentration becomes strong. If you note it with patience and perseverance, though, at some point it will suddenly disappear for good. ([Location 5700](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=5700))
+    - Tags: [[orange]] 
+- Any time you feel like rearranging your limbs or posture, first note the intention to do so, and then note every single successive movement involved as well. A meditator should not move quickly. He or she should move slowly and steadily. ([Location 5711](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=5711))
+- You should note each and every thought, whether wholesome or unwholesome. ([Location 5824](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=5824))
+    - Tags: [[pink]] 
+- You should note each and every physical movement, whether large or small. ([Location 5825](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=5825))
+    - Tags: [[blue]] 
+- You should note each and every feeling that arises in the body or mind, whether pleasant or unpleasant. ([Location 5825](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=5825))
+- You should note each and every mental object, whether wholesome or unwholesome. ([Location 5826](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=5826))
+    - Tags: [[orange]] 
+- If there is nothing else in particular to note, then note the primary object, the rise and fall of the abdomen when sitting, or the lifting, ([Location 5826](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=5826))
+    - Tags: [[pink]] 
+- moving, and dropping of the foot when walking. Note these objects uninterruptedly and continuously. ([Location 5827](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=5827))
+    - Tags: [[pink]] 
+- By noting every object that occurs, you will experience that the noting mind arises whenever there is an object. Moreover, at times the rise and fall of the abdomen will become so subtle that you cannot note them. Then, you will realize that the noting mind cannot arise if there is no object. ([Location 5873](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=5873))
+    - Tags: [[pink]] 
+- Thus as you note various objects, you will clearly understand the different causes that give rise to different effects. ([Location 5881](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=5881))
+    - Tags: [[orange]] 
+- These phenomena have no creator. They arise in accord with the law of cause and effect. ([Location 5888](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=5888))
+    - Tags: [[pink]] 
+- After realizing how the law of cause and effect or the interaction of mind and body operates in this life, you will comprehend how it operated in past lives and how it will operate in future lives as well. ([Location 5892](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=5892))
+- There is neither an independent person, a being, nor a ‘creator’ that exists in relation to them, but only the law of cause and effect. ([Location 5895](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=5895))
+    - Tags: [[blue]] 
+- If you make continuing to note a higher priority than engaging in reflection, you will spend less time reflecting, and your practice will develop faster. Just a few moments of reflection will suffice. ([Location 5898](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=5898))
+    - Tags: [[blue]] 
+- As concentration grows particularly strong, you may experience a variety of unpleasant feelings, such as itchiness, heat, aches and pains, a feeling of heaviness or tightness, and so on. These often disappear immediately if you stop noting and tend to reappear when noting is resumed. Such feelings are not a sign of any kind of disease. The practice itself is what causes them to appear. So a meditator shouldn’t fear them but should focus exclusively on these feelings, noting them persistently, and they will gradually weaken and fade away. ([Location 5901](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=5901))
+    - Tags: [[pink]] 
+- focus your mind on whatever image you are seeing and note it as “seeing, seeing” until it disappears. ([Location 5914](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=5914))
+    - Tags: [[blue]] 
+- At this level, you will be able to see one object disappear before noting a new one, and you will thus clearly see the beginning, middle, and end of an object. ([Location 5924](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=5924))
+    - Tags: [[pink]] 
+- Anything that is impermanent is unsatisfying. Because it is frightening, it is unsatisfactory. It is suffering to be constantly tormented by arising and passing away.459 ([Location 5931](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=5931))
+- What is suffering is [not-self461].462 . . . is not-self in the sense of having no core . . .463 . . . and does not obey anyone’s will.464 ([Location 5942](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=5942))
+- Some meditators see the causes of matter. They see that physical phenomena have continuously occurred, from birth up to the present moment, due to the four causes of past ignorance, craving, clinging, and volitional actions. They also see that nutrition received in the present preserves the body, that the desire to sit, bend, and so on results in the physical actions of sitting, bending, and so on, and that hot and cold environments give rise to the physical sensations of heat and coldness. ([Location 6487](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=6487))
+- The mental and physical phenomena that make up our lives are all unsatisfying, and attachment to them is the cause of suffering. ([Location 6495](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=6495))
+    - Tags: [[blue]] 
+- These seven are: 1.Contemplation of impermanence (aniccānupassanā) 2.Contemplation of unsatisfactoriness (dukkhānupassanā) 3.Contemplation of not-self (anattānupassanā) 4.Contemplation of disenchantment (nibbidānupassanā) 5.Contemplation of dispassion (virāgānupassanā) 6.Contemplation of cessation (nirodhānupassanā) 7.Contemplation of relinquishment ( paṭinissaggānupassanā) All seven contemplations are explained in full in chapter 7. ([Location 11353](https://readwise.io/to_kindle?action=open&asin=B017I22E1A&location=11353))

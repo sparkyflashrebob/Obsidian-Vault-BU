@@ -1,0 +1,4 @@
+# Thanksgiving Retreat 2011 - Ajahn Pasanno - Food Reflection.mp3
+
+Uh since we're all on retreat and uh it's helpful to look at uh our relationship to food, eating the uh reflection that the uh the Buddha has us as monastics do every every meal time to be reflecting wisely reflecting. I use alms food not for fun, not for pleasure, not for fattening, not for beautifification. only for the maintenance and nourishment of this body, for keeping it healthy, for helping with the holy life, thinking thus I shall olay hunger without overeating. So continuing, I will live blamelessly and at ease. It's a uh important recollection and uh just being able to keep a a quality of being at ease when we uh reflect on a relationship with cuz It's just another sense object really and uh to uh of course it's a very powerful one. Everybody's interested in food but uh to be able to to turning it around and say oh there's other ways of of recollecting
+

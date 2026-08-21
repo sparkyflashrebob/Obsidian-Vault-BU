@@ -1,0 +1,4 @@
+
+The Abhidhamma Piṭaka (Pali; Sanskrit: Abhidharma Piṭaka; English: Basket of Higher Doctrine) is the last of the three pitakas (Pali for "baskets"), the three divisions that comprise the Pali Canon, the scriptures of Theravāda Buddhism.[1] The other two parts of the Tipiṭaka are the Vinaya Piṭaka and the Sutra Piṭaka (Sanskrit; Pali: Sutta Piṭaka).
+
+The Abhidhamma Piṭaka is a detailed scholastic analysis and summary of the Buddha's teachings in the Suttas. Here the suttas are reworked into a schematized system of general principles that might be called 'Buddhist Psychology'. In the Abhidharma the generally dispersed teachings and principles of the suttas are organized into a coherent science of Buddhist doctrine.[2]

@@ -1,0 +1,6 @@
+---
+tag: template
+---
+{{title}}
+{{date}}
+

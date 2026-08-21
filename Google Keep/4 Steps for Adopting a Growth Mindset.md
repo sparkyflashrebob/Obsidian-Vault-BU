@@ -1,0 +1,7 @@
+
+Use the following four steps to develop a growth mindset, based on research by Dweck and colleagues:
+
+1. Listen to the voice of a fixed mindset in your head. This is about being mindful of your own thoughts when faced with a challenge. Notice if the thoughts are telling you that you don’t have the talent, the intelligence or if you find yourself reacting with anxiety or anger when someone offers feedback to you.
+2. Notice that you have a choice. You can accept those fixed mindset thoughts or question them. Take a few moments to practice a mindful pause.
+3. Question the fixed mindset attitudes. When your fixed mindset says “What if I fail? I’ll be a failure,” you can ask yourself “Is that true? Most successful people fail. That’s how they learn.” Or if fixed mindset says “What if I can’t do this project? I don’t have the skills,” reply with “Can I be absolutely sure I don’t have the skills? In truth, I can only know if I try. And if I don’t have the skills, doing this will help me to learn them.”
+4. Take action on the growth mindset. This will make you enjoy the challenges in the workplace, seeing them as opportunity to grow rather than avoid. Use the above system if you mind starts leaning towards the fixed mindset.

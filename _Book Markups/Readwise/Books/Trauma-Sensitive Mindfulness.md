@@ -1,0 +1,281 @@
+# Trauma-Sensitive Mindfulness
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/51aML%2B59QeL._SL200_.jpg)
+
+## Metadata
+- Author: [[David A. Treleaven]]
+- Full Title: Trauma-Sensitive Mindfulness
+- Category: #books
+
+## Highlights
+- mindfulness can also generate problems for people struggling with traumatic stress.10 When we ask someone with trauma to pay close, sustained attention to their internal experience, we invite them into contact with traumatic stimuli—thoughts, images, memories, and physical sensations that may relate to a traumatic experience. As my friend experienced, this can aggravate and intensify symptoms of traumatic stress, in some cases even lead to retraumatization—a relapse into an intensely traumatized state. ([Location 367](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=367))
+- Trauma-sensitive, or trauma-informed, practice means that we have a basic understanding of trauma in the context of our work. ([Location 375](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=375))
+    - Tags: [[orange]] 
+- recognizing trauma, ([Location 378](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=378))
+    - Tags: [[orange]] 
+- responding to it skillfully, ([Location 378](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=378))
+    - Tags: [[blue]] 
+- taking preemptive steps to ensure that people aren’t retraumatizing themselves under our guidance.11 ([Location 378](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=378))
+    - Tags: [[pink]] 
+- trauma-sensitive mindfulness ([Location 380](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=380))
+    - Tags: [[orange]] 
+- extraordinarily high. ([Location 384](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=384))
+- there’s a high likelihood that someone will be struggling with traumatic stress. ([Location 389](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=389))
+    - Tags: [[blue]] 
+- traumatic stress. ([Location 420](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=420))
+    - Tags: [[blue]] 
+- Selye characterized stress as the nonspecific response of the body to any demand for change. ([Location 424](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=424))
+    - Tags: [[pink]] 
+- He recognized that stress is neither inherently good nor bad—it’s simply anything that requires our effort. ([Location 425](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=425))
+    - Tags: [[blue]] 
+- Our nervous system doesn’t draw a distinction between “positive” and “negative” stress. Bicycling, driving a car, or sexual activity are examples of stressors. Even being told good news—of a welcomed pregnancy, say, or a promotion at work—is a form of stress. Mostly, however, we associate “stress” with hardship and difficulty. Endless work days, financial struggles, interpersonal conflicts, or devaluing messages are all examples of negative stress. ([Location 426](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=426))
+    - Tags: [[orange]] 
+- learning that the event occurred to a family member or close friend. ([Location 438](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=438))
+    - Tags: [[orange]] 
+- can also arise through repeated or extreme exposure to the details of trauma, including in the context of one’s work—first responders and emergency care physicians, for instance, or anyone who works closely with trauma. ([Location 438](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=438))
+    - Tags: [[pink]] 
+- flashbacks, ([Location 443](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=443))
+    - Tags: [[orange]] 
+- agonizing physical sensations, ([Location 443](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=443))
+    - Tags: [[pink]] 
+- volatile emotional reactions that emerge without warning. ([Location 444](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=444))
+    - Tags: [[blue]] 
+- unable to integrate the experience, ([Location 446](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=446))
+    - Tags: [[orange]] 
+- imprint of trauma follows us into the present, ([Location 446](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=446))
+- By virtue of ongoing oppressive conditions, they are often deprived of the opportunity to have closure with a trauma— ([Location 449](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=449))
+    - Tags: [[blue]] 
+- Unrecognized by those around them, they may be wrestling with an unseen and unimaginable form of agony. ([Location 457](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=457))
+    - Tags: [[pink]] 
+- Over the centuries the Black community has developed a cultural knowledge of these sorts of horrific events, which then primes us for traumatization when we hear about yet another act of violence.” ([Location 468](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=468))
+    - Tags: [[pink]] 
+- realizing the pervasive impact of trauma, ([Location 478](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=478))
+    - Tags: [[pink]] 
+- recognizing symptoms, ([Location 479](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=479))
+    - Tags: [[blue]] 
+- responding ([Location 479](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=479))
+- preventing retraumatization. ([Location 479](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=479))
+    - Tags: [[orange]] 
+- we can define trauma more accurately by looking at one’s individual response—specifically whether or not they could integrate the experience. ([Location 485](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=485))
+- diminished sense of security with others and in the world, and a sense of feeling unsafe inside our own skin” (2015, p. 66). ([Location 488](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=488))
+- “the linkage of differentiated elements of a system” ([Location 492](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=492))
+- Thoughts, memories, and emotions become cut off from our experience or continually flood our field of consciousness. ([Location 499](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=499))
+    - Tags: [[pink]] 
+- Our bodies continue to respond with alarm even though people close to us may try to reassure us otherwise. ([Location 500](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=500))
+    - Tags: [[blue]] 
+- The connection between mind and body is impacted—even severed. ([Location 501](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=501))
+- Is this person struggling with a traumatic experience ([Location 509](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=509))
+    - Tags: [[orange]] 
+- they weren’t able to integrate? ([Location 509](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=509))
+    - Tags: [[orange]] 
+- is mindfulness easing this person’s suffering, or exacerbating it? ([Location 509](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=509))
+    - Tags: [[pink]] 
+- been handed unearned privileges that keep us from seeing and validating the impacts of oppression and systemic trauma. ([Location 566](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=566))
+    - Tags: [[orange]] 
+- We will have been conditioned to think about trauma as an individual tragedy instead of an event that’s interconnected to larger systems of domination that shape our world. ([Location 567](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=567))
+    - Tags: [[pink]] 
+- Black evacuees, some in wheelchairs or with babies, were turned back to the toxic floodwaters by police who fired over their heads to keep them from finding safety in Gretna—a majority White suburb. ([Location 571](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=571))
+- Chronically edgy and agitated, ([Location 677](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=677))
+    - Tags: [[orange]] 
+- utilizing mindfulness to observe and tolerate the rage and terror that remained trapped inside. ([Location 680](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=680))
+    - Tags: [[orange]] 
+- stay present with the physical sensations rather than judge or avoid them. ([Location 681](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=681))
+- Sometimes, the sensations and emotions even diminished to the point that he could take a deep breath and relax. ([Location 682](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=682))
+    - Tags: [[blue]] 
+- With practice, Nick started to bring a quality of curiosity and compassion to his experience rather than reprimand himself, ([Location 683](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=683))
+    - Tags: [[pink]] 
+- Mindfulness is a power of mind that helps us recognize what’s happening, without added commentary or judgment. ([Location 689](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=689))
+- It involves maintaining a moment-by-moment awareness of various aspects of our experience, including thoughts, body sensations, and feelings. ([Location 690](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=690))
+    - Tags: [[pink]] 
+- it’s a faculty that can help us be present with our inner world—even if what we find there is devastating. ([Location 691](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=691))
+    - Tags: [[blue]] 
+- Mindfulness is also a social trend. Originally utilized by Brahmans to memorize Vedic scriptures—and later by Buddhist monks seeking enlightenment ([Location 692](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=692))
+    - Tags: [[orange]] 
+- it can end up being difficult to speak about mindfulness without sounding smug or pretentious. The instruction to “just be mindful” can seem dismissive of someone’s legitimate distress and pain. ([Location 694](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=694))
+    - Tags: [[orange]] 
+- If we’re not discerning, ([Location 696](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=696))
+    - Tags: [[pink]] 
+- lacking compassion, ([Location 699](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=699))
+    - Tags: [[blue]] 
+- underestimating the intensity of unintegrated trauma ([Location 700](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=700))
+    - Tags: [[blue]] 
+- overstating the benefits of mindfulness. ([Location 700](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=700))
+- mindfulness can also come across as elitist. ([Location 701](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=701))
+    - Tags: [[pink]] 
+- Spoken of in hushed and harmonic tones ([Location 701](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=701))
+- especially by someone with more privilege ([Location 701](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=701))
+    - Tags: [[blue]] 
+- mindfulness teachings can end up sounding condescending and entitled. ([Location 702](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=702))
+    - Tags: [[pink]] 
+- encouraged to use mindfulness as a way to forgive others, ([Location 704](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=704))
+    - Tags: [[orange]] 
+- open their hearts to the world, ([Location 704](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=704))
+    - Tags: [[blue]] 
+- inadvertently discounted someone’s experience of systemic oppression and missed out on an opportunity to acknowledge and address injustice. ([Location 705](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=705))
+    - Tags: [[orange]] 
+- it can increase one’s capacity to integrate trauma. ([Location 707](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=707))
+    - Tags: [[blue]] 
+- enhancing self-regulation ([Location 708](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=708))
+    - Tags: [[pink]] 
+- trauma is a dysregulating experience—often leaving us feeling disconnected from our bodies and out of control ([Location 709](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=709))
+- mindfulness can help us regain a sense of agency. ([Location 709](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=709))
+    - Tags: [[pink]] 
+- ways mindfulness and self-regulation can help survivors. ([Location 711](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=711))
+    - Tags: [[orange]] 
+- dissuade you from thinking that mindfulness practice alone can heal trauma. ([Location 714](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=714))
+    - Tags: [[pink]] 
+- “paying attention in a particular way: on purpose, in the present moment, and non-judgmentally” ([Location 723](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=723))
+    - Tags: [[orange]] 
+- paying purposeful attention. ([Location 725](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=725))
+    - Tags: [[orange]] 
+- learning to intentionally direct and sustain our attention. ([Location 726](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=726))
+    - Tags: [[pink]] 
+- Purposeful, mindful attention helps steady the wandering mind. ([Location 728](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=728))
+    - Tags: [[blue]] 
+- People with posttraumatic stress will often reflexively track for trauma-relevant stimuli in their environment—particular sounds, smells, or sights associated with a traumatic experience. ([Location 729](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=729))
+    - Tags: [[pink]] 
+- Rather than being left at the mercy of their attention, ([Location 732](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=732))
+- they can steady their flashlight and regain a sense of agency and control. ([Location 733](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=733))
+    - Tags: [[blue]] 
+- mindfulness is paying attention in the present moment. ([Location 735](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=735))
+- “Mindfulness is the aware, balanced acceptance of present experience. It isn’t more complicated than that. It is opening to or receiving the present moment, pleasant or unpleasant, just as it is” ([Location 737](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=737))
+    - Tags: [[orange]] 
+- “The present-moment focus of mindfulness is an obvious natural antidote for PTSD, a condition where the mind and body of the trauma survivor are continually wrenched into memories of a terrifying past” ([Location 743](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=743))
+    - Tags: [[blue]] 
+- learning to stay rooted in the present while reexperiencing an unintegrated element of trauma is an essential skill within trauma recovery. ([Location 745](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=745))
+    - Tags: [[orange]] 
+- Nonjudgmental Attention ([Location 747](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=747))
+    - Tags: [[pink]] 
+- nonjudgmental attention. ([Location 748](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=748))
+    - Tags: [[blue]] 
+- bringing an attitude of curiosity and acceptance to our present-moment experience. ([Location 748](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=748))
+- we can utilize mindfulness to become less reactive and open the door to what’s actually happening in our world. “ ([Location 750](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=750))
+    - Tags: [[blue]] 
+- SELF-REGULATION ([Location 763](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=763))
+- the notion that mindfulness is a process of enhanced self-regulation.4 Psychology ([Location 776](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=776))
+    - Tags: [[orange]] 
+- “the ability to monitor and control our own behavior, emotions, or thoughts, altering them in accordance with the demands of the situation” ([Location 777](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=777))
+    - Tags: [[pink]] 
+- With mindfulness, researchers have suggested our ability to self-regulate is heightened, ultimately enabling us to respond to the world in flexible and adaptive ways. ([Location 779](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=779))
+- With mindfulness, however, survivors can theoretically regain some agency, utilizing mindful attention to work skillfully with difficulty. ([Location 782](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=782))
+    - Tags: [[blue]] 
+- “distracting myself with random news clips I don’t want to be watching. If I’m not doing that, I’m left with shitty memories and the feeling that I’m not okay.” ([Location 801](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=801))
+    - Tags: [[orange]] 
+- use his attention like a flashlight, directing it to stimuli that helped him feel in control. ([Location 804](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=804))
+    - Tags: [[pink]] 
+- where he directed his attention had a profound impact on his emotional state. ([Location 807](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=807))
+    - Tags: [[blue]] 
+- “I didn’t realize I’ve been focusing on things that scare me,” Nick said. “I’m realizing how much I need to actually work with my mind.” ([Location 807](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=807))
+- BODY AWARENESS ([Location 809](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=809))
+    - Tags: [[blue]] 
+- Instead of being a place of refuge, the body is often the enemy for survivors. ([Location 816](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=816))
+    - Tags: [[pink]] 
+- the sensation of his feet on the ground made him feel more grounded and confident. ([Location 824](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=824))
+    - Tags: [[orange]] 
+- Increased body awareness can also help survivors experience the fact that physical sensations are always changing. ([Location 826](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=826))
+    - Tags: [[blue]] 
+- Posttraumatic stress can convince us that we’re stuck, and noticing even the subtlest movements can open up a new possibility ([Location 828](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=828))
+- moved out of a place of powerlessness and hopelessness and into one of possibility. “ ([Location 831](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=831))
+    - Tags: [[pink]] 
+- EMOTIONAL REGULATION ([Location 836](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=836))
+    - Tags: [[orange]] 
+- deciding where we’ll direct our attention to taking a deep, calming breath. ([Location 848](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=848))
+    - Tags: [[pink]] 
+- By virtue of paying close, nonjudgmental attention to their inner world, people who practice mindfulness are more self-responsive to their own emotions, and can even have less emotional exhaustion.6 Mindfulness also increases the capacity to be present with challenging emotions and thoughts without overreacting.7 We practice recognizing our emotional state and responding to it with choice instead of reactivity. ([Location 850](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=850))
+    - Tags: [[orange]] 
+- dual awareness ([Location 855](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=855))
+- exposure. ([Location 855](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=855))
+    - Tags: [[blue]] 
+- DUAL AWARENESS ([Location 856](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=856))
+- fixate exclusively on particular stimuli. ([Location 860](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=860))
+- pulled in the direction of threat. ([Location 861](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=861))
+- Attention becomes myopic. ([Location 862](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=862))
+    - Tags: [[orange]] 
+- dual awareness—the ability to maintain multiple perspectives at the same time ([Location 863](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=863))
+    - Tags: [[orange]] 
+- back in time, ([Location 870](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=870))
+    - Tags: [[orange]] 
+- look around the room and name different objects ([Location 871](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=871))
+    - Tags: [[pink]] 
+- notice that his father was not in the room. ([Location 872](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=872))
+    - Tags: [[orange]] 
+- “but I never get to stop and realize what’s actually happening.” ([Location 877](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=877))
+    - Tags: [[pink]] 
+- observing self ([Location 878](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=878))
+    - Tags: [[pink]] 
+- experiencing self. ([Location 878](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=878))
+    - Tags: [[orange]] 
+- Mindfulness strengthens the observing self, and by extension, one’s capacity for dual awareness. ([Location 883](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=883))
+    - Tags: [[orange]] 
+- and with the help of a skilled guide—they can experience traumatic stimuli while keeping one foot planted firmly in the present moment. ([Location 885](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=885))
+- Left to our own devices, we typically move away from pain and toward what is pleasurable. ([Location 887](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=887))
+- But part of practicing mindfulness is deliberately exposing ourselves to whatever is happening in our field of awareness, both pleasant and unpleasant. ([Location 887](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=887))
+    - Tags: [[pink]] 
+- We practice turning toward what is arising instead of away from it. ([Location 890](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=890))
+    - Tags: [[orange]] 
+- exposure therapy ([Location 891](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=891))
+    - Tags: [[blue]] 
+- help people confront fear. ([Location 892](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=892))
+    - Tags: [[blue]] 
+- exposure plays a role in mindfulness practice, ([Location 901](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=901))
+    - Tags: [[pink]] 
+- If Nick was mindful of his extreme anger and became overwhelmed by it, basic mindfulness instructions likely wouldn’t have been the answer. ([Location 910](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=910))
+    - Tags: [[orange]] 
+- three components of self-regulation ([Location 913](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=913))
+- attention regulation, ([Location 914](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=914))
+    - Tags: [[blue]] 
+- body awareness, ([Location 914](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=914))
+    - Tags: [[pink]] 
+- emotional regulation ([Location 914](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=914))
+    - Tags: [[orange]] 
+- dual awareness ([Location 914](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=914))
+    - Tags: [[pink]] 
+- exposure ([Location 914](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=914))
+- over-attending to traumatic stimuli. ([Location 930](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=930))
+    - Tags: [[orange]] 
+- This can include upsetting flashbacks or particular sensations that connect to survival-based responses like fight or flight. ([Location 931](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=931))
+    - Tags: [[pink]] 
+- To manage traumatic symptoms, people experiencing posttraumatic stress require more than basic mindfulness instructions to thrive. ([Location 933](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=933))
+    - Tags: [[orange]] 
+- By becoming aware of traumatic stimuli, survivors can take a first step toward addressing it. But therein also lies a potential problem. If survivors find themselves in a patch of seaweed before they’re equipped to work with traumatic stress, they can panic. Intrusive thoughts, physical symptoms, and unpredictable emotional reactions can ensnare and overwhelm them. Unless survivors have the tools to stabilize themselves and navigate their symptoms, they can become retraumatized and drown. ([Location 946](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=946))
+    - Tags: [[orange]] 
+- mindfulness is a double-edged sword ([Location 954](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=954))
+    - Tags: [[pink]] 
+- divers were taught to relax. ([Location 959](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=959))
+    - Tags: [[blue]] 
+- depend on others for help. ([Location 960](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=960))
+    - Tags: [[pink]] 
+- learn how to self-regulate. ([Location 963](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=963))
+- trauma-sensitive practice ([Location 968](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=968))
+    - Tags: [[pink]] 
+- The Middle Way is highly relevant to trauma-sensitive mindfulness. ([Location 1644](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=1644))
+    - Tags: [[pink]] 
+- We want to ensure that trauma survivors can safely observe and tolerate the range of their experience. ([Location 1650](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=1650))
+    - Tags: [[blue]] 
+- stay in the window of tolerance— ([Location 1651](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=1651))
+- a starting point for all trauma-informed practice. ([Location 1653](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=1653))
+    - Tags: [[blue]] 
+- Unless survivors can stay in their window during mindfulness practice, they can simply end up recreating traumatic states. ([Location 1655](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=1655))
+    - Tags: [[orange]] 
+- stay within the window of tolerance. ([Location 1657](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=1657))
+    - Tags: [[pink]] 
+- helping people enhance their ability to self-regulate rather than having them spin out of control. ([Location 1658](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=1658))
+- If I bombard you with information, you’ll become overwhelmed; too little information, and you’ll become bored. ([Location 1701](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=1701))
+    - Tags: [[pink]] 
+- River of Integration ([Location 1705](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=1705))
+    - Tags: [[orange]] 
+- arousal— ([Location 1711](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=1711))
+    - Tags: [[orange]] 
+- But rarely did I name the social, political, and economic factors that played a role. ([Location 3086](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=3086))
+    - Tags: [[orange]] 
+- “to see that the great majority of individual deaths that don’t involve someone dying in peace in old age are probably related to some form of exploitation and inequality, despair and lack of hope” (2004, p. 6). ([Location 3088](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=3088))
+    - Tags: [[orange]] 
+- I’d been taught to see the world through an explicitly individualist lens. ([Location 3090](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=3090))
+    - Tags: [[orange]] 
+- Trauma-sensitive practice, however, requires a holistic approach and must also factor in systems that live outside the body. ([Location 3098](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=3098))
+    - Tags: [[orange]] 
+- Integration— ([Location 3100](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=3100))
+    - Tags: [[orange]] 
+- which, again, is at the crux of recovery—asks us to connect the internal and external systems that are involved in traumatic stress. ([Location 3100](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=3100))
+    - Tags: [[orange]] 
+- understand social context. ([Location 3102](https://readwise.io/to_kindle?action=open&asin=B0795Z6W7N&location=3102))

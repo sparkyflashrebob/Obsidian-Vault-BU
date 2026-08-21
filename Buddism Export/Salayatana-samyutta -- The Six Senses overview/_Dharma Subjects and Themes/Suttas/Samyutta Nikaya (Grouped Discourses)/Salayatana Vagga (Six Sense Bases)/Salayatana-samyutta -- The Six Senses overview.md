@@ -1,0 +1,13 @@
+Important Sutta in this section
+- SN 35.23 Sabba Sutta - The All
+- SN 35.24 Adittapariyaya Sutta - The Fire Sermon - all is aflame of passion, aversion & delusion
+- SN 36.63 Migajala Sutta*** - To Migajala - Sense Desire as a companion, craving as a companion - unfettered by delight & craving, said to be living alone 
+- SN 35.80 Avijja Sutta - Ignorance - One thing to abandon so clear knowing arises - Ignorance - When heard that "All things are unworthy of attachment" one directly knows everything - comprehends everything - sees all themes as something separate
+-  SN 35.82 Loka Sutta - The World - it disintegrates - "loka" = cosmos
+- SN 35.85 Sunna Sutta - Empty - World is empty of self
+- SN 35.95 Malunkyaputta Sutta: To Malunkyaputta - the teaching to Bahia - 
+- SN 35.99 Samadhi Sutta - Concentration - noticing what is inconstant - discernment as things actually are
+- SN 35.101 Na Tumhaka Sutta - Not Yours - "Whatever is not yours: let go of it. Your letting go of it will be for your long-term happiness & benefit. And what is not yours?"
+- SN 35.115 Marapasa Sutta - Mara's Power - The Buddha explains that once one is completely freed from chasing after sense pleasures, one is then finally safe from Mara.
+- SN 35.116 Loka Sutta - Cosmos -  
+- 

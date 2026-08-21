@@ -1,0 +1,126 @@
+#acquisition
+
+[[Retreat]] can offer a new way of looking at something
+	- Simple matter of how we [[breath]] that is transformative
+	- Can transform our hearts and lead to something
+	- A steady awareness allowing wisdom to arise
+
+# Acquisition 
+Theme: Search for Something
+- Seeking Acquisition
+	- 2nd Noble Truth
+		- More Getting, More Suffering
+	- Very Subtle
+		- Can appear to not be a problem
+- Woodpecker
+	- How Unpleasant
+	- Something Wrong with this experience
+	- Annoying Woodpecker can be anything
+		- "If only....."
+	- And the perceptions and thoughts around it when getting caught
+		- When the bird goes away "ah,.... bliss...."
+		- THINKING THE PROBLEM IS IN THE CONDITION
+		- 3rd Nutriment of Volitional Thought 
+	- Even in peace the mind can move towards distraction
+		- "If only...."
+	- But if we turn our attention and can look at the unpleasant noise....
+	- Even with years of practice we can get caught
+- About our willingness to learn from experience
+- Some people can see meditation as therapy
+	- I am going to heal myself
+	- I am going to feel better about who I am
+	- "When I feel good...."
+	- Buddha said that it is not about having a pleasant feeling
+		- Can be part of it
+		- It is more about nibanna, liberation, freeing oneself from dukkha
+- Why Practice?
+	- THE REASON WE DO IS THERE IS LESS SUFFERING WHEN WE LOOK AT IT
+- Not about seeking to get something
+	- Get it again (that pleasant experience)
+	- Get more
+	- When we think this way we are putting more obstructions on our path
+- Important aspect of practice to look at what we are trying to get
+	- trying to acquire
+	- Ask the question - was there something you wanted to get from the retreat?
+		- or is it that you don't want to get something
+		- Natural for us to want to acquire
+		- 2nd Noble Truth (Cause of Suffering) 
+			- CAN INSERT WHAT IS CLINGING HERE 
+	- We do not have to get caught in wrong view
+		- At the time of the Buddha there was a Monk who killed crows/birds (Venerable Udaayin) DO NOT NEED THIS IN TEACHING
+	- What we trying to get or kill
+	- Push and Pull against us all of the time
+	- Wishing for something else
+		- doing something else, being somebody else
+		- if i had more of this
+	- Not need to beat up ourselves about these Intentions
+		- It is part of evolution
+		- natural
+		- nothing personal about them
+		- each of us has a sense of desire
+- Purpose for our practice is to Examine
+	- knowing these tendencies how to approach our experience without acquisition
+- Can even appear wholesome
+	- the desire to meditate
+	- but we add the acquistion part
+		- when am I going to get peaceful
+	- everything going just fine and then
+		- or having a peaceful time that you remember and trying to get back to that
+	- IMPOSSIBLE - THE VERY IDEA OF GETTING SOMETING PREVENTS US FROM ACQUIRING IT OR REOCCURING
+- What is a wholesome desire?
+	- A conundrum
+		- Joy for instance
+		- Take care of someone else
+		- Bring a sense of gladness or joy to oneself
+		- Drop Self
+	- Mixed Karma
+		- hard to see
+	- Chunda
+		- drive or interest
+		- also can be used for desire
+- Very helpful is we can let go of this sense of acquisition
+	- Tendency toward thoughts like "I wonder how well my meditation is going to be", or some hindrance.
+- Turn mind towards learning 
+	- not getting
+	- the final note I took for the retreat was of RECEIVING
+	- Buddha points to not going to extremes
+		- Not inflict pain on ourselves
+		- Not indulgence 
+		- Part of this lived middle way 
+	- our motivation changes
+	- what can I learn from what is occurring to me right now?
+- Ajahn Sumedho's "It is like this!"
+	- No argument there
+- Can be liberating to look at...
+- Learn how to let go and live with others
+	- This can appear painful
+		- Story of having a nice garden
+			- The desire in him kept coming up
+			- Trees of peace or trees of agony
+			- Got what he wanted but then had to take care of them
+				- deer came and eatting them
+		- And when you get what you want then our wanting can turn to something else
+		- Expectations
+- Our wisdom can meet the defilements
+	- What is the correct way to see this
+	- We are making choices all of the time
+	- Our desires can overwhelm our experience
+	- Need to be honest
+	- Not take it personally
+		- Belief of who we think we are gets in the way
+			- Keep honesty going
+			- Meditation and community is living with a mirror
+				- Encourage other in the monestary to be a mirror
+				- Duty to explore any advice we are given
+					- They might be wrong
+			- Does not need to be personal
+	- HONESTY
+		- DIFFICULTY THAT LEADS TO LESS DIFFICULTY
+- Question to the Dalai Lama
+	- What is the quickest way to enlightenment?
+		- moment of silence and then he cries
+		- This is not the way!
+- Learn from our desires
+	- Mental anguish diminishes even in the midst of physical pain
+	- stop trying to run away
+	- Having Great Patience

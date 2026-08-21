@@ -1,0 +1,2 @@
+
+ A Higher Power provides a means for me to turn the things I cannot change over to. It allows me to be in acceptance, to be humble and not conceited. It allows me to let go of the baggage and weights of life that hold me back from joy, peace, serenity and fellowship.

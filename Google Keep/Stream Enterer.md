@@ -1,0 +1,2 @@
+
+“The noble disciple, chamberlains, who possesses four things is a stream-enterer. . . . “What four? Here, chamberlains, a noble disciple possesses confirmed confidence in the Buddha . . . in the Dhamma . . . in the Sangha. He dwells at home with a mind devoid of the stain of stinginess, freely generous, open-handed, delighting in relinquishment, one devoted to charity, delighting in giving and sharing. A noble disciple who possesses these four things is a stream-enterer.”

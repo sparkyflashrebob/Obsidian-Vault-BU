@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">614</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">149e793d-87e1-44b8-a879-9e4926da67fb</dc:identifier>
+        <dc:title>The 7 Stages of Purification and The Insight Knowledges</dc:title>
+        <dc:creator opf:file-as="Nanarama, Venerable Mahathera Matara Sri" opf:role="aut">Venerable Mahathera Matara Sri Nanarama</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.9.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-08-27T17:38:17+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <dc:subject>Stages of Buddhist Vipassana Meditation</dc:subject>
+        <dc:subject>Buddhist</dc:subject>
+        <dc:subject>Meditation</dc:subject>
+        <dc:subject>vipassana.</dc:subject>
+        <meta content="{&quot;Venerable Mahathera Matara Sri Nanarama&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-01-29T04:31:11.583000+00:00" name="calibre:timestamp"/>
+        <meta content="7 Stages of Purification and The Insight Knowledges, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

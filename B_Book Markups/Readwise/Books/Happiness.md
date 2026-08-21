@@ -1,0 +1,1962 @@
+# Happiness
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/31oU--0jH9L._SL200_.jpg)
+
+## Metadata
+- Author: [[Matthieu Ricard and Daniel Goleman]]
+- Full Title: Happiness
+- Category: #books
+
+## Highlights
+- Renunciation, at least as Buddhists use the term, is a much-misunderstood concept. It is not about giving up what is good and beautiful. How foolish that would be! Rather it is about disentangling oneself from the unsatisfactory and moving with determination toward what matters most. It is about freedom and meaning—freedom from mental confusion and self-centered afflictions, meaning through insight and loving-kindness. ([Location 104](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=104))
+    - Tags: [[orange]] 
+- we’re actually talking about a way of being that defines the quality of every moment of our lives. So what exactly is happiness? ([Location 278](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=278))
+    - Tags: [[orange]] 
+- Sociologists define happiness as “the degree to which a person evaluates the overall quality of his present life-as-a-whole positively. ([Location 279](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=279))
+- This definition, however, does not distinguish between profound satisfaction and the mere appreciation of the outer conditions of our lives. ([Location 281](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=281))
+    - Tags: [[blue]] 
+- For some, happiness is just “a momentary, fleeting impression, whose intensity and duration vary according to the availability of the resources that make it possible.”3 ([Location 282](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=282))
+    - Tags: [[pink]] 
+- Such happiness must by nature be elusive and dependent on circumstances that are quite often beyond our control. ([Location 283](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=283))
+    - Tags: [[orange]] 
+- “the radiation of joy over one’s entire existence or over the most vibrant part of one’s active past, one’s actual present, and one’s conceivable future.”4 ([Location 284](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=284))
+- “By ‘happiness’ we mean any span of time in which joy would seem immediately possible.”5 ([Location 286](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=286))
+    - Tags: [[blue]] 
+- happiness is “a rejoicing in the truth.” ([Location 289](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=289))
+    - Tags: [[pink]] 
+- Happiness can’t be limited to a few pleasant sensations, to some intense pleasure, to an eruption of joy or a fleeting sense of serenity, to a cheery day or a magic moment that sneaks up on us in the labyrinth of our existence. ([Location 298](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=298))
+    - Tags: [[orange]] 
+- a deep sense of flourishing that arises from an exceptionally healthy mind. ([Location 301](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=301))
+    - Tags: [[blue]] 
+- This is not a mere pleasurable feeling, a fleeting emotion, or a mood, but an optimal state of being. Happiness is also a way of interpreting the world, since while it may be difficult to change the world, it is always possible to change the way we look at it. ([Location 302](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=302))
+    - Tags: [[pink]] 
+- The common factor to all of these experiences would seem to be the momentary disappearance of inner conflicts. ([Location 315](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=315))
+    - Tags: [[orange]] 
+- The person feels in harmony with the world and with herself. ([Location 316](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=316))
+- Someone enjoying such an experience, such as walking through a serene wilderness, has no particular expectations beyond the simple act of walking. She simply is, here and now, free and open. ([Location 316](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=316))
+    - Tags: [[blue]] 
+- For just a few moments, thoughts of the past are suppressed, the mind is not burdened with plans for the future, and the present moment is liberated from all mental constructs. This moment of respite, from which all sense of emotional urgency has vanished, is experienced as one of profound peace. For someone who has achieved a goal, completed a task, or won a victory, the tension they have long carried with them relaxes. The ensuing sense of release is felt as a deep calm, free of all expectation and fear. ([Location 318](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=318))
+    - Tags: [[pink]] 
+- But this experience is just a passing glimpse brought on by a particular set of circumstances. ([Location 322](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=322))
+    - Tags: [[orange]] 
+- We call it a magic moment, a state of grace. ([Location 322](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=322))
+- And yet the difference between these flashes of happiness seized on the fly and the immutable peacefulness of the sage, for instance, is as great as that between the tiny section of sky seen through the eye of a needle and the limitless expanses of outer space. ([Location 323](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=323))
+    - Tags: [[blue]] 
+- Anyone who enjoys inner peace is no more broken by failure than he is inflated by success. ([Location 341](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=341))
+    - Tags: [[orange]] 
+- He is able to fully live his experiences in the context of a vast and profound serenity, since he understands that experiences are ephemeral and that it is useless to cling to them. There will be no “hard fall” when things turn bad and he is confronted with adversity. He does not sink into depression, since his happiness rests on a solid foundation. ([Location 342](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=342))
+- it is the purging of mental toxins, such as hatred and obsession, that literally poison the mind. ([Location 356](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=356))
+    - Tags: [[blue]] 
+- It is also about learning how to put things in perspective and reduce the gap between appearances and reality. ([Location 357](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=357))
+    - Tags: [[pink]] 
+- To that end we must acquire a better knowledge of how the mind works and a more accurate insight into the nature of things, for in its deepest sense, suffering is intimately linked to a misapprehension of the nature of reality. ([Location 358](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=358))
+    - Tags: [[orange]] 
+- The world of ignorance and suffering—called samsara in Sanskrit—is not a fundamental condition of existence but a mental universe based on our mistaken conception of reality. ([Location 369](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=369))
+- The world of appearances is created by the coming together of an infinite number of ever-changing causes and conditions. ([Location 371](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=371))
+    - Tags: [[blue]] 
+- Like a rainbow that forms when the sun shines across a curtain of rain and then vanishes when any factor contributing to its formation disappears, phenomena exist in an essentially interdependent mode and have no autonomous and enduring existence. ([Location 372](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=372))
+    - Tags: [[orange]] 
+- Everything is relation; nothing exists in and of itself, immune to the forces of cause and effect. ([Location 373](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=373))
+    - Tags: [[blue]] 
+- Once this essential concept is understood and internalized, the erroneous perception of the world gives way to a correct understanding of the nature of things and beings: this is insight. ([Location 374](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=374))
+    - Tags: [[pink]] 
+- There exists a way of being that underlies and suffuses all emotional states, that embraces all the joys and sorrows that come to us. A happiness so deep that, as Georges Bernanos wrote, “nothing can change it, like the vast reserve of calm water beneath a storm.”10 The Sanskrit word for this state of being is sukha. Sukha is the state of lasting well-being that manifests itself when we have freed ourselves of mental blindness and afflictive emotions. It is also the wisdom that allows us to see the world as it is, without veils or distortions. It is, finally, the joy of moving toward inner freedom and the loving-kindness that radiates toward others. ([Location 380](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=380))
+    - Tags: [[orange]] 
+- isn’t happiness the goal of all goals? ([Location 395](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=395))
+    - Tags: [[orange]] 
+- The tragedy lies in our frequent misidentification of the ways to achieve that well-being. ([Location 403](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=403))
+- “When we talk of ignorance, it has nothing to do with stupidity. In a way, ignorance is very intelligent, but it is an intelligence that works exclusively in one direction. That is, ([Location 405](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=405))
+- we react exclusively to our own projections instead of simply seeing what is there.”1 ([Location 406](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=406))
+    - Tags: [[blue]] 
+- How do we dispel this basic ignorance? ([Location 414](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=414))
+    - Tags: [[orange]] 
+- The only way is through honesty and sincere introspection. ([Location 414](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=414))
+- analysis and contemplation. ([Location 415](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=415))
+    - Tags: [[blue]] 
+- “May every moment of my life and of the lives of others be one of wisdom, flourishing, and inner peace!” ([Location 422](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=422))
+    - Tags: [[blue]] 
+- If I have more than I could possibly need and I am still not happy, happiness must be impossible. That’s a good example of how far we can go in fooling ourselves about the causes of happiness. ([Location 454](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=454))
+    - Tags: [[blue]] 
+- The fact is that without inner peace and wisdom, we have nothing we need to be happy. ([Location 455](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=455))
+    - Tags: [[pink]] 
+- Happiness is a state of inner fulfillment, not the gratification of inexhaustible desires for outward things. ([Location 457](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=457))
+    - Tags: [[orange]] 
+- “When selfish happiness is the only goal in life, life soon becomes goalless,” ([Location 460](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=460))
+    - Tags: [[orange]] 
+- we can never be truly happy if we dissociate ourselves from the happiness of others. ([Location 461](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=461))
+    - Tags: [[blue]] 
+- And in order to love others, we must learn to love ourselves. ([Location 463](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=463))
+- How much of it is due to your state of mind and the way you experience the world? ([Location 470](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=470))
+    - Tags: [[blue]] 
+- If happiness comes from outer circumstances, check how stable or fragile they are. ([Location 471](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=471))
+    - Tags: [[orange]] 
+- If it is due to a state of mind, consider how you can further cultivate it. ([Location 471](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=471))
+- muddled approach ([Location 504](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=504))
+- No one would deny that it is eminently desirable to live long and in good health, to be free in a country at peace where justice is respected, to love and to be loved, to have access to education and information, to enjoy adequate means of subsistence, to be able to travel the world, to contribute as much as possible to the well-being of others, and to protect the environment. Sociological studies of entire populations clearly show that human beings enjoy their lives more in such conditions. Who would want anything else? In pinning all our hopes on the external world, however, we can only end up being disappointed. ([Location 504](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=504))
+- in hoping that money will make us happier, we work to acquire it; once we have it, we become obsessed with making it grow and we suffer when we lose it. ([Location 509](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=509))
+    - Tags: [[blue]] 
+- “I wasted ten years of my life.” ([Location 512](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=512))
+    - Tags: [[blue]] 
+- “Some people say you should not think about your own happiness, because you can only be happy as a by-product of something else. That is a dismal philosophy, a formula for keeping oneself occupied at all costs.”4 ([Location 515](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=515))
+    - Tags: [[pink]] 
+- If we try resolutely over the course of years to master our thoughts as they come to us, to apply appropriate antidotes to negative emotions and to nourish positive ones, our efforts will undoubtedly yield results that would have seemed unattainable at first. ([Location 524](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=524))
+- dead set against “the construction of the self as a never-ending task.” ([Location 530](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=530))
+- Leaving aside the spiritual path, why bother reading books, undertaking scientific research, learning about the world? The acquisition of knowledge is a never-ending task too. Why accept that but neglect our own transformation, which determines the quality of our lived experience? Is it better just to allow ourselves to drift? Isn’t that how we crash on the rocks? ([Location 532](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=532))
+- Many formulas for happiness insist that by nature we are a blend of light and shadow and that we must learn to accept our faults along with our positive qualities. They claim that by giving up the fight against our own limitations we can resolve most of our inner conflicts and greet each day with confidence and ease. Setting our own natures free is the best way; muzzling them can only exacerbate our problems. If we have to choose, it is certainly better to live spontaneously than to spend our days champing at the bit, being bored to tears, or hating ourselves. But isn’t that just a way of wrapping our habits up in a pretty package? ([Location 539](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=539))
+- lax attitude ([Location 545](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=545))
+- We are very much like birds that have lived too long in a cage to which we return even when we get the chance to fly away. We have grown so accustomed to our faults that we can barely imagine what life would be like without them. ([Location 547](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=547))
+    - Tags: [[orange]] 
+- Happiness is a skill, a manner of being, but skills must be learned. ([Location 554](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=554))
+    - Tags: [[pink]] 
+- EXERCISE Developing attention Sit quietly in your meditation posture and focus all your attention upon a chosen object. It can be an object in your room, your breath, or your own mind. Inevitably as you do this, your mind will wander. Each time it does, gently bring it back to the object of concentration, like a butterfly that returns again and again to the flower it feeds on. As you persevere, your concentration will become more clear and stable. If you feel sleepy, assume a straighter posture and lift your gaze slightly upward to revive your awareness. Conversely, if your mind becomes agitated, relax your posture, direct your gaze slightly downward, and let any inner tension dissolve. Cultivating attention and mindfulness in this way is a precious tool for all other kinds of meditation. ([Location 555](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=555))
+    - Tags: [[orange]] 
+- The most common error is to confuse pleasure for happiness. Pleasure, says the Hindu proverb, “is only the shadow of happiness.” It is the direct result of pleasurable sensual, esthetic, or intellectual stimuli. The fleeting experience of pleasure is dependent upon circumstance, on a specific location or moment in time. It is unstable by nature, and the sensation it evokes soon becomes neutral or even unpleasant. Likewise, when repeated it may grow insipid or even lead to disgust; savoring a delicious meal is a source of genuine pleasure, but we are indifferent to it once we’ve had our fill and would get sick of it if we continued eating. It is the same thing with a nice wood fire: coming in from the cold, it is pure pleasure to warm ourselves by it, but we soon have to move away if we don’t want to burn ourselves. ([Location 570](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=570))
+    - Tags: [[orange]] 
+- Pleasure is exhausted by usage, like a candle consuming itself. It is almost always linked to an activity and naturally leads to boredom by dint of being repeated. Listening rapturously to a Bach prelude requires a focus of attention that, minimal as it is, cannot be maintained indefinitely. After a while fatigue kicks in and the music loses its charm. Were we forced to listen for days on end, it would become unbearable. ([Location 576](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=576))
+    - Tags: [[orange]] 
+- genuine flourishing may be influenced by circumstance, but it isn’t dependent on it. It does not mutate into its opposite but endures and grows with experience. It imparts a sense of fulfillment that in time becomes second nature. ([Location 593](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=593))
+- Authentic happiness is not linked to an activity; it is a state of being, a profound emotional balance struck by a subtle understanding of how the mind functions. ([Location 595](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=595))
+    - Tags: [[blue]] 
+- sukha—lasting ([Location 597](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=597))
+    - Tags: [[blue]] 
+- is felt so long as we remain in harmony with our inner nature. ([Location 597](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=597))
+    - Tags: [[blue]] 
+- selflessness, ([Location 597](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=597))
+    - Tags: [[pink]] 
+- Genuine happiness radiates outward spontaneously as joy. ([Location 607](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=607))
+    - Tags: [[orange]] 
+- Inner joy is not necessarily manifested exuberantly, but as a luminous appreciation of the present moment, ([Location 607](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=607))
+- “There are unhealthy joys, far removed from the serenity of happiness, such as that of vengeance. . . . There is also calm happiness, often far removed from the intrinsic excitation of joy. . . . We jump for joy, not for happiness.” ([Location 610](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=610))
+    - Tags: [[blue]] 
+- in order to participate in or contribute to happiness, they must be free of all negative emotion. When anger or envy erupts, joy is abruptly extinguished. When attachment, egoism, or pride creeps in, it is slowly smothered. ([Location 623](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=623))
+    - Tags: [[pink]] 
+- normal satisfaction level.3 ([Location 643](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=643))
+    - Tags: [[pink]] 
+- dukkha, ([Location 656](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=656))
+- a fundamental vulnerability to suffering and pain that can ultimately lead to world-weariness, the feeling that life is not worth living because there is no way to find meaning in it. ([Location 657](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=657))
+- The outward freedom that we shall attain will only be in exact proportion to the inward freedom to which we may have grown at a given moment. And if this is a correct view of freedom, our chief energy must be concentrated on achieving reform from within. MAHATMA GANDHI ([Location 683](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=683))
+- “happiness is the form and overall meaning of a life that considers itself to be full and meaningful, and which experiences itself as such.”1 ([Location 689](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=689))
+    - Tags: [[blue]] 
+- This distinction between exterior and interior well-being explains the apparent contradiction between some of these findings and the Buddhist assertion that suffering is omnipresent in the universe. When we speak about omnipresence, it means not that all people are continuously in a state of suffering, but that they are vulnerable to the latent suffering that can arise at any moment. They will remain vulnerable so long as they fail to dispel the mental toxins that cause unhappiness. ([Location 700](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=700))
+    - Tags: [[pink]] 
+- Happiness is thus viewed as being just a deceptively calm moment in the middle of a storm. ([Location 709](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=709))
+    - Tags: [[pink]] 
+- Suddenly I realized that, far from being upset, I felt incredibly light and experienced a feeling of total felicity and freedom. You may imagine that the fever was making me delirious, but I was absolutely clearheaded, and the contrast between the situation and my feelings was so comical that I began to laugh in the dark. This was definitely not a case of happiness via relief; rather it was an experience of innate serenity, brought into sharper focus by particularly unpleasant external circumstances. It was a moment of “letting go,” that state of deep satisfaction found only within oneself and which is therefore independent of external circumstances. ([Location 723](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=723))
+    - Tags: [[orange]] 
+- Once we have come to that conclusion, our goal becomes to determine levelheadedly the causes of unhappiness and to correct them. Since true happiness is not limited to momentary relief from life’s ups and downs, it requires us to eliminate the major causes of unhappiness, which, as we have seen, are ignorance and mental toxins. If happiness is indeed a way of being, a state of consciousness and inner freedom, there is essentially nothing to prevent us from achieving it. ([Location 729](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=729))
+- Trying to purify something that is fundamentally bad would be as pointless as trying to bleach a lump of coal. ([Location 748](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=748))
+    - Tags: [[blue]] 
+- Conversely, the development of our deep human potential is like polishing a gold nugget to bring out its shine. ([Location 749](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=749))
+    - Tags: [[orange]] 
+- If the wise man can be happy, then happiness must be possible. ([Location 760](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=760))
+    - Tags: [[orange]] 
+- “The wise man has nothing left to expect or to hope for. Because he is entirely happy, he needs nothing. Because he needs nothing, he is entirely happy.”8 ([Location 766](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=766))
+- Spiritual practice can be enormously beneficial. The fact is, it is possible to undergo serious spiritual training by devoting some time every day to meditation. ([Location 777](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=777))
+    - Tags: [[blue]] 
+- The positive benefits of such a life far outweigh the few problems of schedule arrangement. ([Location 779](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=779))
+    - Tags: [[pink]] 
+- By contemplation I mean not merely a moment of relaxation, but an inward turning of the gaze. ([Location 782](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=782))
+    - Tags: [[orange]] 
+- It is very fruitful to watch how thoughts arise, and to contemplate the state of serenity and simplicity that is always present behind the scrim of thoughts, be they gloomy or upbeat. ([Location 783](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=783))
+- By gradually acquiring through introspective experience a better understanding of how thoughts are born, we learn how to fend off mental toxins. ([Location 785](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=785))
+    - Tags: [[blue]] 
+- Similarly, as we free ourselves of all insecurities and inner fears (which are often connected to excessive self-centeredness), we have less to dread and are naturally more open to others and better armed to face the vagaries of existence. ([Location 787](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=787))
+    - Tags: [[pink]] 
+- After a while your thoughts will become like a peaceful river. If you practice regularly, eventually your mind will easily become serene, like a calm ocean. Whenever new thoughts arise, like waves raised by the winds, do not be bothered by them. They will soon dissolve back into the ocean. ([Location 806](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=806))
+    - Tags: [[blue]] 
+- Our confusion, born of a lack of judgment and wisdom, blinds us to what we must do and avoid doing to ensure that our thoughts, our words, and our actions engender happiness and not suffering. This confusion and the tendencies associated with it drive us to reenact again and again the behavior that lies at the source of our pain. If we want to counteract this harmful misjudgment, we have to awaken from the dream of ignorance and learn to identify the very subtle ways in which happiness and suffering are generated. ([Location 859](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=859))
+    - Tags: [[orange]] 
+- As for human beings in general, we cannot expect suffering to simply vanish from the universe, because, in the Buddhist view, the universe is without beginning or end. ([Location 874](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=874))
+    - Tags: [[orange]] 
+- There can be no real beginning because nothing cannot suddenly become something. Nothingness is a word that allows us to picture for ourselves the absence or even nonexistence of worldly phenomena, but a mere idea cannot give birth to anything at all. ([Location 875](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=875))
+- As for a real end, in which something becomes nothing, it is equally impossible. ([Location 877](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=877))
+    - Tags: [[blue]] 
+- Despite all that, this vision does not lead Buddhism to the view held by certain Western philosophers for whom suffering is inevitable and happiness out of reach. ([Location 880](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=880))
+    - Tags: [[pink]] 
+- The reason for that is simple: unhappiness has causes that can be identified and acted upon. ([Location 881](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=881))
+    - Tags: [[orange]] 
+- It is only when we misidentify the nature of those causes that we come to doubt the possibility of healing. ([Location 882](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=882))
+- Because if there were no cure for suffering, it would be pointless to make it worse by stressing over it. ([Location 889](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=889))
+    - Tags: [[orange]] 
+- It would be better to accept it fully and to distract oneself so as to feel it less harshly. ([Location 890](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=890))
+- But everything that occurs does have a cause. What inferno does not start with a spark, what war without thoughts of hatred, fear, or greed? What inner pain has not grown from the fertile soil of envy, animosity, vanity, or, even more basically, ignorance? Any active cause must itself be a changing one; nothing can exist autonomously and unchanging. Arising from impermanent causes, unhappiness is itself subject to change and can be transformed. There is neither primordial nor eternal suffering. ([Location 891](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=891))
+    - Tags: [[blue]] 
+- Recognize suffering, Eliminate its source, End it By practicing the path. ([Location 904](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=904))
+    - Tags: [[pink]] 
+- unhappiness is a profound state of dissatisfaction that endures even in favorable external conditions. ([Location 909](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=909))
+    - Tags: [[orange]] 
+- Conversely, it’s worth repeating that one can suffer physically or mentally—by feeling sad, for instance—without losing the sense of fulfillment that is founded on inner peace and selflessness. ([Location 909](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=909))
+    - Tags: [[blue]] 
+- There are two levels of experience here, which can be compared respectively to the waves and the depths of the ocean. A storm may be raging at the surface, but the depths remain calm. The wise man always remains connected to the depths. On the other hand, he who knows only the surface and is unaware of the depths is lost when he is buffeted by the waves of suffering. ([Location 911](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=911))
+    - Tags: [[pink]] 
+- The difference between the sage and the ordinary person is that the former can feel unconditional love for those who suffer and do everything in his power to attenuate their pain without allowing his lucid vision of existence to be shaken. ([Location 916](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=916))
+    - Tags: [[orange]] 
+- The essential thing is to be available to others without giving in to despair when the ([Location 917](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=917))
+- natural episodes of life and death follow their course. ([Location 918](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=918))
+- No matter how tenderly he’d felt for his wife, and despite the great sadness he most surely felt, allowing himself to be consumed by grief would have added nothing to his love for her. ([Location 932](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=932))
+    - Tags: [[blue]] 
+- It was more important for him to pray serenely for the deceased and to make her an offering of that serenity. ([Location 934](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=934))
+    - Tags: [[pink]] 
+- It is therefore always better to familiarize ourselves with and prepare ourselves for the kind of suffering we are likely to encounter, some of which will be unavoidable, such as illness, old age, and death, rather than to be caught off guard and sink into anguish. ([Location 940](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=940))
+- peace is a treasure of the mind that is not acquired without effort. ([Location 945](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=945))
+    - Tags: [[blue]] 
+- If we let ourselves be overwhelmed by our personal problems, no matter how tragic, we only increase our difficulties and become a burden on those around us. ([Location 945](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=945))
+    - Tags: [[pink]] 
+- If our mind becomes accustomed to dwelling solely on the pain that events or people inflict on it, one day the most trivial incident will cause it infinite sorrow. ([Location 946](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=946))
+    - Tags: [[orange]] 
+- As the intensity of this feeling grows with practice, everything that happens to us will eventually come to distress us, and peace will find no place within us. ([Location 947](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=947))
+- All manifestations will assume a hostile character and we will rebel bitterly against our fate, to the point of doubting the very meaning of life. ([Location 948](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=948))
+    - Tags: [[blue]] 
+- resilience, ([Location 954](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=954))
+    - Tags: [[orange]] 
+- is often bored, distracted, “compulsively self-reliant,” and not very caring. ([Location 970](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=970))
+    - Tags: [[blue]] 
+- The best gift one can thus give to a child is to manifest loving, open, and peaceful qualities oneself and to let the emotional alchemy work its way. ([Location 973](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=973))
+    - Tags: [[pink]] 
+- Suffering can provide an extraordinary lesson capable of making us aware of the superficiality of many of our daily concerns, of our own fragility, and, above all, of what really counts deep down within us. ([Location 982](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=982))
+- If we do not wish to be confounded by suffering and we want to put it to the best use as a catalyst, we must not allow anxiety and despondency to conquer our mind. ([Location 994](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=994))
+    - Tags: [[orange]] 
+- Shantideva writes: “If there is a cure, what good is discontent? If there is no cure, what good is discontent?” ([Location 996](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=996))
+    - Tags: [[pink]] 
+- Neurologically, we know, emotional reactions to pain vary significantly from person to person, and a considerable percentage of pain sensation is linked to the anxious desire to suppress it. If we allow that anxiety to overwhelm our mind, the most benign pain will soon become unbearable. So our assessment of pain also depends on our mind. It is the mind that reacts to pain with fear, rejection, despondency, or a feeling of powerlessness; instead of being subjected to a single agony, we accumulate a host of them. Having come to grips with this idea, how do we learn to control pain instead of being its victim? Since we can’t escape it, it is better to embrace it than to try to reject it. The pain persists whether we succumb to dejection or hold on to our resilience and desire to live, but in the latter case we maintain our dignity and self-confidence, and that makes a big difference. ([Location 1000](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1000))
+    - Tags: [[orange]] 
+- mental imagery; ([Location 1007](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1007))
+- transform pain by awakening ourselves to love and compassion; ([Location 1008](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1008))
+    - Tags: [[blue]] 
+- developing inner strength. ([Location 1008](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1008))
+    - Tags: [[pink]] 
+- Buddhism has traditionally turned to what modern psychology calls mental imagery to modify the perception of pain. ([Location 1009](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1009))
+- The three methods cited, however, yield inferior results. ([Location 1017](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1017))
+    - Tags: [[orange]] 
+- Using mental imagery When a powerful feeling of desire, envy, pride, aggression, or greed plagues your mind, try to imagine situations that are sources of peace. Transport yourself mentally to the shores of a placid lake or to a high mountaintop overlooking a broad vista. Imagine yourself sitting serenely, your mind as vast and clear as a cloudless sky, as calm as a windless ocean. Experience this calmness. Watch your inner tempests subside and let this feeling of peace grow anew in your mind. Understand that even if your wounds are deep, they do not touch the essential nature of your mind, the fundamental luminosity of pure consciousness. ([Location 1021](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1021))
+    - Tags: [[orange]] 
+- Another method that allows us to manage suffering, emotional as well as physical, is linked to the practice of compassion. ([Location 1027](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1027))
+    - Tags: [[blue]] 
+- “others besides me are afflicted by similar hardships to mine, and sometimes far ([Location 1029](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1029))
+    - Tags: [[pink]] 
+- worse. How I wish that they too could be free of their pain.” ([Location 1029](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1029))
+    - Tags: [[pink]] 
+- But when we experience a powerful sense of empathy with the suffering of others, our impotent resignation gives way to courage, depression to love, narrow-mindedness to openness toward all those around us. Increasing compassion and loving-kindness, the ultimate in positive emotions, develops our readiness to offer relief to the suffering of others while reducing the importance of our own problems. ([Location 1033](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1033))
+    - Tags: [[blue]] 
+- Even when it is crippling, we must ponder whether it has any color, shape, or any other immutable characteristic. ([Location 1037](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1037))
+- We find that the more we try to bring it into focus, the more the pain’s definition becomes blurred. ([Location 1038](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1038))
+    - Tags: [[orange]] 
+- Ultimately we come to see that behind the pain there is a pristine awareness that does not change and that is beyond pain and pleasure. We may then relax our mind and try to allow our pain to rest in that state of pure awareness. This will allow us to stop being the passive victim of pain and to resist or reverse its devastation of our mind. ([Location 1038](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1038))
+    - Tags: [[blue]] 
+- Choedrak acknowledged that he occasionally felt hatred for his torturers, but that he always returned to the practice of meditation on inner peace and compassion. That was what sustained his desire to go on living and ultimately saved him. ([Location 1046](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1046))
+- Another example is that of a man I have known for twenty years who lives in Bumthang province at the heart of the Himalayan kingdom of Bhutan. He was born without arms or legs, and he lives on the outskirts of a village in a little bamboo hut of just a few square yards. He never goes out and barely moves from his mattress on the floor. He came from Tibet forty years ago, carried by fellow refugees, and has lived in this hut ever since. The mere fact that he is still alive is extraordinary in itself, but even more striking is the joy that radiates from him. Every time I see him, he is in the same serene, simple, gentle, ([Location 1056](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1056))
+    - Tags: [[orange]] 
+- and unaffected frame of mind. When we bring him small gifts of food, blankets, a portable radio, he says that there was no need to bring him anything. “What could I possibly need?” he laughs. ([Location 1061](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1061))
+    - Tags: [[orange]] 
+- Training in the exchange of happiness and suffering ([Location 1068](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1068))
+    - Tags: [[orange]] 
+- This visualization is a powerful means to develop benevolence and compassion. It can be carried out anytime and during your day-to-day activities. It does not require you to neglect your own well-being; instead it allows you to adjust your reaction to unavoidable suffering by assigning a new value to it. In fact, identifying clearly your own aspiration to well-being is the first step toward feeling genuine empathy for others’ suffering. Furthermore, this attitude significantly increases your enthusiasm and readiness to work for the good of others. ([Location 1080](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1080))
+- When we look outward, we solidify the world by projecting onto it attributes that are in no way inherent to it. ([Location 1092](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1092))
+- We take it for granted that we see things as they are and rarely question that opinion. ([Location 1094](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1094))
+- We spontaneously assign intrinsic qualities to things and people, thinking “this is beautiful, that is ugly,” without realizing that our mind superimposes these attributes upon what we perceive. ([Location 1094](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1094))
+    - Tags: [[orange]] 
+- Among the many aspects of our confusion, the most radically disruptive is the insistance on the concept of a personal identity: the ego. ([Location 1110](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1110))
+- We create the illusion of being separate from the world, hoping thereby to avert suffering. ([Location 1120](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1120))
+    - Tags: [[blue]] 
+- Each of us is indeed a unique person, and it is fine to recognize and appreciate who we are. ([Location 1124](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1124))
+    - Tags: [[pink]] 
+- Our experience is simply the content of the mental flow, the continuum of consciousness, and there is no justification for seeing the self as an entirely distinct entity within that flow. ([Location 1126](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1126))
+    - Tags: [[orange]] 
+- We are so accustomed to affixing the “I” label to that mental flow, however, that we come to identify with it and to fear its disappearance. ([Location 1128](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1128))
+    - Tags: [[blue]] 
+- the second you realized that your “I” was not a target. Likewise, if someone punches you, your irritation will be long-lasting. But consider the physical pain—it fades quickly and is soon imperceptible. The only thing that continues to hurt is the ego’s wound. A friend of mine had come to Nepal from Hong Kong to attend some teachings. Thousands of people had gathered and were jam-packed on the floor of our monastery’s vast courtyard. As my friend was moving back and forth trying to seat herself a bit more comfortably, cross-legged on her cushion, someone punched her in the back. As she told me later: “I felt irritated for a whole hour. How could someone attending Buddhist teachings behave in such a rude and uncompassionate way toward me, who had come so far to receive these teachings! But after a while I realized that although my irritation had been long-lasting, the actual physical pain had faded quickly and had soon become imperceptible. The only thing that continued to hurt was my wounded ego! I had one minute of body pain and fifty-nine minutes of ego pain!” When we see the self as a mere concept and not as an autonomous entity that we must protect and satisfy at all costs, we react in completely different ways. ([Location 1138](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1138))
+    - Tags: [[blue]] 
+- In a way, you might say that the belief in an established self is one of the dominant characteristics of our civilization. ([Location 1173](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1173))
+    - Tags: [[orange]] 
+- The ego can attain only a contrived confidence built on insubstantial attributes—power, success, beauty and physical strength, intellectual brilliance, the opinions of others—and on whatever we believe to constitute our “identity,” our image, as we see it and as others see it. ([Location 1175](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1175))
+- When things change and the gap with reality becomes too wide, the ego becomes irritated, freezes up, and falters. Self-confidence collapses and all that is left is frustration and suffering. ([Location 1177](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1177))
+    - Tags: [[blue]] 
+- For Buddhism, paradoxically, genuine self-confidence is the natural quality of egolessness. ([Location 1178](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1178))
+    - Tags: [[pink]] 
+- The fact is, the sense of security derived from that illusion is eminently fragile. ([Location 1180](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1180))
+    - Tags: [[orange]] 
+- Genuine confidence comes from an awareness of a basic quality of our mind and of our potential for transformation and ([Location 1180](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1180))
+- flourishing, what Buddhism calls buddha nature, which is present in all of us. ([Location 1181](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1181))
+- Such recognition imparts peaceful strength that cannot be threatened by external circumstances or inner fears, a freedom that transcends self-absorption and anxiety. ([Location 1182](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1182))
+    - Tags: [[blue]] 
+- Another widespread idea is that without a vigorous sense of self we would barely feel emotions and life would become incredibly dreary. ([Location 1183](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1183))
+    - Tags: [[orange]] 
+- Experience tells us that those who have managed, even partially, to free themselves of the ego’s diktat think and act with spontaneity and freedom. ([Location 1188](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1188))
+    - Tags: [[orange]] 
+- “people gifted with exceptionally human qualities.” ([Location 1190](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1190))
+    - Tags: [[blue]] 
+- “an impression of kindness, a way of being that others can sense and appreciate, and, unlike so many charismatic charlatans, perfect harmony between their private and public lives.” ([Location 1191](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1191))
+    - Tags: [[blue]] 
+- “an absence of ego. ([Location 1193](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1193))
+    - Tags: [[blue]] 
+- “people instinctively want to be in their company and how, even if they can’t always explain why, they find their presence enriching. In essence, they emanate goodness.” ([Location 1195](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1195))
+    - Tags: [[blue]] 
+- The fact is, the less influenced we are by the sense of our self’s importance, the easier it is to acquire lasting inner strength. ([Location 1204](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1204))
+    - Tags: [[pink]] 
+- self-importance is a target open to all sorts of mental projectiles—jealousy, fear, greed, repulsion—that perpetually destabilize it. ([Location 1205](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1205))
+    - Tags: [[pink]] 
+- The self is always “there,” ready to be wounded or gratified. ([Location 1208](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1208))
+    - Tags: [[orange]] 
+- When we explore the body, the speech, and the mind, we come to see that this self is nothing but a word, a label, a convention, a designation. ([Location 1214](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1214))
+- The problem is, this label thinks it’s the real deal. ([Location 1215](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1215))
+    - Tags: [[blue]] 
+- Buddhism therefore concludes that the self is just a name we give to a continuum, just as we name a river the Ganges or the Mississippi. ([Location 1224](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1224))
+    - Tags: [[pink]] 
+- The “I” lives in the present; it is the “I” that thinks “I’m hungry” or “I exist.” It is the locus of consciousness, thoughts, judgment, and will. It is the experience of our current state. ([Location 1230](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1230))
+    - Tags: [[orange]] 
+- The notion of the person is valid and healthy so long as we consider it simply as connoting the overall relationship between the consciousness, the body, and the environment. ([Location 1237](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1237))
+- It becomes inappropriate and unhealthy when we consider it to be an autonomous entity. ([Location 1238](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1238))
+    - Tags: [[blue]] 
+- If the body is cut into cross sections, at what point does the self begin to vanish? ([Location 1243](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1243))
+    - Tags: [[blue]] 
+- But the fact of thought proves absolutely nothing about the existence of the self, because the “I” is nothing more than the current contents of our mental flow, which changes from moment to moment. ([Location 1245](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1245))
+    - Tags: [[pink]] 
+- The idea that the self might be nothing but a concept runs counter to the intuition of most Western thinkers. ([Location 1248](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1248))
+    - Tags: [[orange]] 
+- Perplexed and stunned by the wall, the mind cannot pass through it. ([Location 1291](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1291))
+    - Tags: [[blue]] 
+- But the wall is invisible because it does not really exist. ([Location 1292](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1292))
+    - Tags: [[pink]] 
+- It is an invention of the mind. ([Location 1292](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1292))
+    - Tags: [[orange]] 
+- Our attachment to the ego is fundamentally linked to the suffering we feel and the suffering we inflict on others. ([Location 1293](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1293))
+    - Tags: [[orange]] 
+- It allows us to approach every person and every situation with natural ease, benevolence, fortitude, and serenity. ([Location 1295](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1295))
+- With no expectation of gain and no fear of loss, we are free to give and to receive. We no longer have the need to think, speak, or act in an affected and selfish way. ([Location 1296](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1296))
+    - Tags: [[blue]] 
+- In clinging to the cramped universe of the ego, we have a tendency to be concerned exclusively with ourselves. ([Location 1297](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1297))
+    - Tags: [[pink]] 
+- The least setback upsets and discourages us. ([Location 1298](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1298))
+    - Tags: [[orange]] 
+- The narrow world of the self is like a glass of water into which a handful of salt is thrown—the water becomes undrinkable. ([Location 1299](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1299))
+    - Tags: [[pink]] 
+- When the self ceases to be the most important thing in the world, we find it easier to focus our concern on others. The sight of their suffering bolsters our courage and resolve to work on their behalf, instead of crippling us with our own emotional distress. ([Location 1301](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1301))
+- So long as the sense of the ego’s importance has control over our being, we will never know lasting peace. ([Location 1306](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1306))
+    - Tags: [[orange]] 
+- Unable to imagine an end to our pain, we withdraw into ourselves and dread every coming moment. ([Location 1315](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1315))
+    - Tags: [[orange]] 
+- Happiness is bound up with distress when we lack adequate inner resources to sustain certain basic elements of sukha: the joy of being alive, the conviction that we still have the ability to flourish, an understanding of the ephemeral nature of all things. ([Location 1318](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1318))
+- Great external upheavals aren’t necessarily what distress us most. ([Location 1320](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1320))
+    - Tags: [[blue]] 
+- Most of the time it is not outward events but our own mind and negative emotions that make us unable to maintain our inner stability and drag us down. ([Location 1323](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1323))
+    - Tags: [[pink]] 
+- Such emotional distress is notably resistant to soothing, and every attempt to be rid of it seems doomed to failure. ([Location 1326](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1326))
+    - Tags: [[orange]] 
+- Thoughts can be our best friends and our worst enemies. ([Location 1328](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1328))
+- Nothing is right outside because nothing is right inside. ([Location 1330](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1330))
+    - Tags: [[blue]] 
+- When we get a close look at the tenor of our everyday thoughts, we realize the extent to which they color the inner film that we project onto the world. ([Location 1331](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1331))
+    - Tags: [[pink]] 
+- Yet this knot in our chest was tied not by our unfaithful husband, our object of desire, our dishonest colleague, or our unjust accuser, but by our own mind. ([Location 1336](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1336))
+    - Tags: [[orange]] 
+- It is the result of mental constructs that, as they accumulate and solidify, give the illusion ([Location 1337](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1337))
+    - Tags: [[blue]] 
+- of being external and real. ([Location 1338](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1338))
+    - Tags: [[blue]] 
+- What provides the raw material for that knot and allows it to form within us is an exacerbated sense of self-importance. ([Location 1338](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1338))
+    - Tags: [[pink]] 
+- “In depression, all that is happening in the present is the anticipation of pain in the future, and the present qua present no longer exists at all.” ([Location 1340](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1340))
+    - Tags: [[orange]] 
+- The inability to manage our thoughts proves to be the principal cause of suffering. ([Location 1342](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1342))
+    - Tags: [[blue]] 
+- Learning to tone down the ceaseless racket of disturbing thoughts is a decisive stage on the road to inner peace. ([Location 1342](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1342))
+    - Tags: [[pink]] 
+- actualized sukha, ([Location 1348](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1348))
+    - Tags: [[orange]] 
+- First, we have to focus our mind on the raw power of inner suffering. ([Location 1353](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1353))
+    - Tags: [[orange]] 
+- we should make it the object of our ([Location 1354](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1354))
+- meditation, without ruminating over the events that caused the pain or reviewing every freeze-frame from the movie of our life. ([Location 1354](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1354))
+- Will a man who has just been struck in the chest by an arrow ask himself, “What wood is the arrow made of? What kind of bird do the feathers come from? What craftsman made it? Was he a good man or a scoundrel?” He certainly won’t. His first concern will be to tear the arrow from his chest. ([Location 1356](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1356))
+    - Tags: [[blue]] 
+- When a painful emotion strikes us, the most urgent thing is to look at it head-on and to identify the immediate thoughts that triggered and are fanning it. Then by fixing our inner gaze on the emotion itself, we can gradually dissolve it like snow in sunshine. Furthermore, once the strength of the emotion has been sapped, the causes that triggered it will seem less tragic and we will have won ourselves the chance to break free from the vicious circle of negative thoughts. ([Location 1358](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1358))
+    - Tags: [[pink]] 
+- How can we prevent the perpetual reemergence of disturbing thoughts? ([Location 1362](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1362))
+    - Tags: [[orange]] 
+- Closely identifying with every thought, we follow it and reinforce it with boundless emotional entanglements. ([Location 1364](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1364))
+- So we need to take a closer look at mind itself. ([Location 1365](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1365))
+    - Tags: [[blue]] 
+- The first things we notice are the currents of thought that are continuously flowing without our even being aware of them. ([Location 1365](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1365))
+    - Tags: [[pink]] 
+- Like it or not, countless thoughts born of our sensations, our memories, and our imagination are forever streaming through our mind. ([Location 1366](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1366))
+    - Tags: [[orange]] 
+- But there is also a quality of mind that is always present no matter what kind of thoughts we entertain. ([Location 1367](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1367))
+    - Tags: [[blue]] 
+- That quality is the primary consciousness underlying all thought. ([Location 1367](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1367))
+    - Tags: [[pink]] 
+- pure consciousness, ([Location 1369](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1369))
+    - Tags: [[orange]] 
+- it exists even in the absence of mental constructs. ([Location 1369](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1369))
+    - Tags: [[orange]] 
+- All we find is the quality of knowing, but no intrinsic features of their own. ([Location 1372](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1372))
+    - Tags: [[orange]] 
+- In pure consciousness we experience the mind as empty of inherent existence. ([Location 1373](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1373))
+- Instead of unleashing that avalanche, we can examine the angry thought itself and come to see that it has been nothing but smoke and mirrors from the start. ([Location 1376](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1376))
+- Thoughts emerge from pure consciousness and are then reabsorbed in it, just as waves emerge from the ocean and dissolve into it again. ([Location 1378](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1378))
+    - Tags: [[blue]] 
+- Once we understand this, we have taken a great leap toward inner peace. ([Location 1378](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1378))
+    - Tags: [[pink]] 
+- From that moment, our thoughts have lost much of their power to disturb us. ([Location 1379](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1379))
+    - Tags: [[orange]] 
+- To familiarize yourself with this method, when a thought arises, try to see where it came from; when it disappears, ask yourself where it went. ([Location 1379](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1379))
+- In that brief moment when your mind is not encumbered by discursive thoughts, contemplate its nature. ([Location 1380](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1380))
+    - Tags: [[blue]] 
+- Remain in a state of simplicity that is free of mental constructs, yet perfectly aware; beyond effort, yet alert and mindful. ([Location 1393](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1393))
+    - Tags: [[orange]] 
+- As the pain that afflicts us grows stronger, our mental universe contracts. ([Location 1396](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1396))
+    - Tags: [[orange]] 
+- We realize that our suffering was simply forgetfulness of our true nature, which remains unchanged beneath the fog of emotions. ([Location 1399](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1399))
+    - Tags: [[blue]] 
+- One of the best ways to achieve that state is to meditate on feelings that transcend our mental afflictions. ([Location 1402](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1402))
+    - Tags: [[orange]] 
+- It reflects the mistaken perception that causes us to attribute inherent qualities to external objects when in fact those qualities are dependent on our own minds. ([Location 1417](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1417))
+    - Tags: [[orange]] 
+- Systematically blaming others and holding them responsible for our suffering is the surest way to lead an unhappy life. ([Location 1418](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1418))
+- It is by transforming our minds that we can transform our world. ([Location 1419](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1419))
+    - Tags: [[blue]] 
+- We should not underestimate the consequences of our acts, words, and thoughts. ([Location 1420](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1420))
+    - Tags: [[pink]] 
+- If we alternate between selfless and harmful behaviors, we ought to expect to get a sharply contrasting blend of joys and sufferings. ([Location 1421](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1421))
+    - Tags: [[orange]] 
+- Despite their rich terminology for describing a wide range of mental events, the traditional languages of Buddhism have no word for emotion as such. ([Location 1463](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1463))
+    - Tags: [[orange]] 
+- That may be because according to Buddhism all types of mental activity, including rational ([Location 1464](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1464))
+    - Tags: [[blue]] 
+- thought, are associated with some kind of feeling, be it one of pleasure, pain, or indifference. ([Location 1465](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1465))
+    - Tags: [[blue]] 
+- Every region in the brain that has been identified with some aspect of emotion has also been identified with aspects of cognition. ([Location 1469](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1469))
+    - Tags: [[pink]] 
+- There are no “emotion centers” in the brain. ([Location 1470](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1470))
+    - Tags: [[orange]] 
+- the word emotion covers any feeling that moves the mind, be it toward a harmful, a neutral, or a positive thought. ([Location 1475](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1475))
+    - Tags: [[orange]] 
+- Emotion is that which conditions the mind and prompts it to adopt a particular perspective, a certain way of seeing things. ([Location 1476](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1476))
+- The easiest way to distinguish between our emotions is to examine their motivation (mental attitude and objective) and their results. ([Location 1478](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1478))
+    - Tags: [[blue]] 
+- But to get angry “on the right grounds and against the right persons and also in the right manner and at the right moment and for the right length of time”—that’s not easy. ([Location 1513](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1513))
+- Buddhism, however, goes further by saying that hostility is always negative because it generates and perpetuates hatred. ([Location 1517](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1517))
+    - Tags: [[orange]] 
+- The Dalai Lama was once asked about the best course of action to take when an intruder enters a room and threatens its occupants with a gun. He responded in a tone that was half serious and half playful: “I’d shoot him in the legs to neutralize him, then I’d go over and stroke his head and take care of him.” ([Location 1518](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1518))
+- Ekman and Davidson conclude: “Rather than focusing on increasing consciousness of one’s inner state, as Buddhism does, the emphasis in psychology has instead been on learning how to reappraise situations, or control (regulate) emotional behavior and expressions.”10 Psychoanalysis tries to make the patient aware of past tendencies and events, fixations, and blocks that lead to the miseries of neurosis and prevent her from functioning normally in the world. Buddhism takes a different position. It stresses enhanced awareness of the formation of thoughts, which allows for the immediate identification of an angry thought as it arises, and for its deconstruction the next instant, the way a picture drawn on the surface of water melts away as it is sketched. ([Location 1522](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1522))
+    - Tags: [[blue]] 
+- centered on the present moment. ([Location 1531](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1531))
+    - Tags: [[pink]] 
+- instead of developing and analyzing the endless film loop of our psychic history. ([Location 1532](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1532))
+    - Tags: [[pink]] 
+- What really matters is the nature of our living experience, whether it is optimal or afflictive. ([Location 1534](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1534))
+    - Tags: [[blue]] 
+- If we become expert at freeing ourselves of all afflictive mental states as they take form, the actual content of the past events that might have triggered them becomes quite irrelevant. ([Location 1535](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1535))
+    - Tags: [[pink]] 
+- Furthermore, being able to repeatedly free oneself of such afflictive thoughts as they occur gradually erodes their very tendency to form again, until they stop appearing altogether. ([Location 1536](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1536))
+    - Tags: [[orange]] 
+- “Take care of the minutes, for the hours will take care of themselves,” ([Location 1539](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1539))
+    - Tags: [[blue]] 
+- This is the best path to gradual change. ([Location 1539](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1539))
+- While it is certainly important to treat psychological problems that handicap or even paralyze people’s lives, it is essential to note that happiness is not the mere absence of unhappiness. ([Location 1546](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1546))
+    - Tags: [[orange]] 
+- Merely eliminating sadness and depression is no automatic guarantee of joy and happiness. ([Location 1551](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1551))
+    - Tags: [[orange]] 
+- It is therefore necessary not only to rid oneself of negative emotions but also to develop positive ones. ([Location 1552](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1552))
+    - Tags: [[orange]] 
+- We can take this a step further by asserting that it is not enough to abstain from harming others (the elimination of malice), and that this abstention must be augmented by a determined effort to help them (the development and implementation of altruism). ([Location 1553](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1553))
+    - Tags: [[blue]] 
+- Unlike depression, which often sends us into a tailspin, positive emotions create an upward spiral “by building resilience and influencing the ways people cope with adversity.”12 ([Location 1559](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1559))
+    - Tags: [[pink]] 
+- (klesha ([Location 1562](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1562))
+- disturbing emotions tend to distort our perception of reality and to prevent us from seeing it as it really is. Attachment idealizes its object, hatred demonizes it. ([Location 1565](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1565))
+- These emotions make us believe that beauty or ugliness is inherent in people and in things, even though it is the mind that decides if they are “attractive” or “repulsive.” ([Location 1566](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1566))
+    - Tags: [[blue]] 
+- This misapprehension opens a gap between the way things appear and the way they are. ([Location 1568](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1568))
+    - Tags: [[pink]] 
+- It clouds our judgment and makes us think and act as if these qualities were not largely based on how we see them. ([Location 1568](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1568))
+    - Tags: [[orange]] 
+- Selfless love reflects some understanding of the intimate interdependence of beings, of our happiness and that of others, a notion that is attuned to reality, ([Location 1570](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1570))
+    - Tags: [[orange]] 
+- while selfishness opens an ever wider abyss between us and other people. ([Location 1571](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1571))
+- The essential thing, therefore, is to identify the types of mental activity that lead to well-being and those that lead to suffering, even when the latter afford us brief instances of pleasure. ([Location 1572](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1572))
+    - Tags: [[blue]] 
+- Whatever the case may be, the best means of analysis is introspection and self-observation. ([Location 1576](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1576))
+    - Tags: [[orange]] 
+- identify the way in which the emotions arise. ([Location 1577](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1577))
+    - Tags: [[orange]] 
+- This requires the cultivation of watchful ([Location 1578](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1578))
+    - Tags: [[blue]] 
+- attention to the unfolding of our mental activity, along with mindfulness of the distinction between destructive emotions and those that nourish happiness. ([Location 1578](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1578))
+    - Tags: [[blue]] 
+- Buddhism’s sole objective in treating the emotions is to free us from the fundamental causes of suffering. ([Location 1588](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1588))
+    - Tags: [[orange]] 
+- It starts with the principle that certain mental events are afflictive regardless of the intensity or context of their formation. ([Location 1589](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1589))
+    - Tags: [[blue]] 
+- That is particularly true for the three mental processes considered to be basic mental “poisons”: desire (in the sense of craving or tormenting greed), hatred (the wish to harm), and delusion (which distorts our perception of reality). Buddhism usually includes pride and envy as well; together, these are the five major poisons associated with some sixty negative mental states. The texts also refer to “84,000 negative emotions.” ([Location 1590](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1590))
+    - Tags: [[pink]] 
+- One fundamental point emphasized by Buddhism is that two diametrically opposed mental processes cannot form simultaneously. ([Location 1662](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1662))
+- “One movement precludes the other; when you extend a friendly hand, you cannot make a fist.”4 ([Location 1664](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1664))
+    - Tags: [[pink]] 
+- It is not a question of suppressing hatred but of turning the mind to something diametrically opposed to it: love and compassion. ([Location 1670](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1670))
+    - Tags: [[orange]] 
+- It is equally impossible for greed or desire to coexist with inner freedom. ([Location 1674](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1674))
+    - Tags: [[blue]] 
+- As for anger, it can be neutralized by patience. ([Location 1682](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1682))
+    - Tags: [[pink]] 
+- There definitely are mental states that are completely incompatible: pride and humility, envy and joy, generosity and avarice, calm and agitation. ([Location 1691](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1691))
+    - Tags: [[pink]] 
+- The second method is liberation, ([Location 1694](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1694))
+    - Tags: [[pink]] 
+- we use a single antidote that acts at a more basic level on all our mental afflictions. ([Location 1695](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1695))
+    - Tags: [[pink]] 
+- It is neither possible nor desirable to suppress the mind’s natural activities, and it would be futile and unhealthy to try to block its thoughts. ([Location 1696](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1696))
+    - Tags: [[blue]] 
+- When we examine the emotions, we find that they are dynamic flows without any inherent substance of their own—in Buddhist terms, “empty” of real existence. ([Location 1696](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1696))
+    - Tags: [[orange]] 
+- What would happen if, instead of counteracting a disturbing emotion with its opposite—anger with patience, for instance—we were simply to contemplate the nature of the emotion itself? ([Location 1698](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1698))
+- You are overwhelmed by a sudden tide of anger. You feel as if there’s no choice but to let it sweep you away. But look closely. It is nothing more than a thought. When you see a great black cloud in a stormy sky, it seems so solid that you could sit on it. But when you approach it, there’s nothing to grab on to; it is only vapor and wind. The experience of anger is like having a high fever. It is a temporary condition, and you do not need to identify with it. The more you look at anger in this manner, the more it evaporates under your gaze, like white frost under the sun’s rays. ([Location 1699](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1699))
+    - Tags: [[orange]] 
+- Unless we pursue this investigation, we end up being fixated on the object of anger and overtaken by destructive emotion. ([Location 1706](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1706))
+- Remember that a thought is only the fleeting conjunction of myriad factors and circumstances. It does not exist by itself. When a thought arises, recognize its empty nature. It will immediately lose its power to elicit the next thought, and the chain of delusion will be broken. Recognize that emptiness of thoughts and allow your thoughts to rest a moment in the relaxed mind so that the mind’s natural clarity remains limpid and unchanged.6 ([Location 1708](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1708))
+    - Tags: [[blue]] 
+- liberation from anger at the moment it arises ([Location 1712](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1712))
+    - Tags: [[orange]] 
+- It is at the very moment of anger’s emergence that we must recognize its empty nature. ([Location 1715](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1715))
+    - Tags: [[blue]] 
+- Once we get used to looking at thoughts the moment they appear and then allowing them to dissipate before they overwhelm the mind, it is much easier to maintain control over the mind and to manage the conflictive emotions in our active lives. ([Location 1719](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1719))
+    - Tags: [[orange]] 
+- To spur our vigilance and hard work, we should try to recall the bitter suffering that destructive emotions have caused us. ([Location 1720](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1720))
+    - Tags: [[blue]] 
+- When we look closely at our emotions, we find that, like musical notes, they are made up of numerous elements, or harmonics. ([Location 1723](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1723))
+    - Tags: [[orange]] 
+- Anger rouses us to action and often allows us to overcome obstacles. ([Location 1724](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1724))
+    - Tags: [[blue]] 
+- Desire has an element of bliss that is distinct from attachment; ([Location 1725](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1725))
+    - Tags: [[pink]] 
+- pride, an element of self-confidence that can be firm without lapsing into arrogance; ([Location 1725](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1725))
+- envy, a drive to act that cannot be confused with the unhealthy dissatisfaction it entails. ([Location 1726](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1726))
+    - Tags: [[orange]] 
+- it is possible to recognize and use the positive facets of a thought generally considered to be negative. ([Location 1727](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1727))
+- what gives an emotion its noxious quality is the way we identify with and cling to it. ([Location 1728](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1728))
+    - Tags: [[blue]] 
+- The pure consciousness of which we have spoken, and which is the source of all mental events, is neither good nor bad in and of itself. ([Location 1731](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1731))
+    - Tags: [[orange]] 
+- Thoughts become disturbing only once the process of “fixation” is set in motion, when we attach ourselves to the qualities we attribute to the object of the emotion and to the self that is feeling it. ([Location 1732](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1732))
+    - Tags: [[blue]] 
+- Once we learn to avoid that fixation, we do not need to bring in antidotes from the outside; the emotions themselves act as catalysts for freeing ourselves of their baneful influence. ([Location 1733](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1733))
+    - Tags: [[pink]] 
+- This kind of practice requires great command of the language of the emotions. ([Location 1737](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1737))
+- Allowing powerful emotions to express themselves without falling prey to them is playing with fire, or rather, trying to snatch a jewel from a snake’s head. ([Location 1737](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1737))
+    - Tags: [[blue]] 
+- If we succeed, our understanding of the nature of the mind will grow accordingly; ([Location 1738](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1738))
+    - Tags: [[orange]] 
+- We have seen first how we can counteract each negative emotion with its specific antidote; then, how recognizing the empty nature of thoughts can neutralize any afflictive emotion; and, finally, how we can also use the negative emotion in a positive way. The contradictions here are only apparent ones. These techniques are simply different ways of tackling the same problem and achieving the same result: not to fall victim to the afflictive emotions and the suffering they lead to. ([Location 1741](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1741))
+    - Tags: [[orange]] 
+- We must never forget, however, that the source of disturbing emotions is attachment to the self. ([Location 1750](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1750))
+- A concept can be dispelled, but only by the wisdom that perceives that the ego is devoid of intrinsic existence. ([Location 1752](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1752))
+    - Tags: [[blue]] 
+- “refractory” ([Location 1755](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1755))
+    - Tags: [[pink]] 
+- during which we are aware only of what justifies our anger or any other strong emotion. ([Location 1756](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1756))
+    - Tags: [[orange]] 
+- “The passions entrap us. A really angry man performs a truly dramatic, brightly lit tragedy in his own head, laying out all his enemy’s faults, ruses, preparations, scorn, plans for the future. Everything is interpreted through the lens of anger, and the anger is thereby strengthened.” ([Location 1758](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1758))
+- “Positive anger,” or rather indignation, can disrupt the status quo of an unacceptable situation or make someone understand that she is acting hurtfully, ([Location 1763](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1763))
+    - Tags: [[orange]] 
+- but such anger, inspired solely by selflessness, is rare. ([Location 1764](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1764))
+    - Tags: [[blue]] 
+- More often than not, our anger will have hurt someone while leaving us in a state of deep dissatisfaction. ([Location 1765](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1765))
+    - Tags: [[orange]] 
+- We should never underestimate the power of the mind to create and crystallize worlds of hatred, greed, jealousy, euphoria, or despair. ([Location 1765](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1765))
+    - Tags: [[pink]] 
+- We can “see them coming” ([Location 1767](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1767))
+    - Tags: [[orange]] 
+- At a later stage, growing knowledge and mastery of the mind will allow us to deal with our emotions at the very moment they appear, as they express themselves. ([Location 1770](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1770))
+    - Tags: [[orange]] 
+- Contrary to what one might imagine, inner freedom with respect to the emotions leads to neither apathy nor indifference. ([Location 1774](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1774))
+- Recognizing the emotion at the very ([Location 1793](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1793))
+    - Tags: [[orange]] 
+- moment it forms, ([Location 1794](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1794))
+    - Tags: [[orange]] 
+- understanding that it is but a thought, devoid of intrinsic existence, ([Location 1794](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1794))
+- and allowing it to dissipate spontaneously so as to avoid the chain reaction it would normally unleash are all at the heart of Buddhist contemplative practice. ([Location 1794](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1794))
+    - Tags: [[blue]] 
+- We have to understand that we are enormously resistant to change. ([Location 1813](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1813))
+    - Tags: [[orange]] 
+- Most of the time we don’t even want to hear about the possibility of change, and we prefer to sneer at those who seek alternative solutions. ([Location 1815](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1815))
+- Nobody really wants to be angry, jealous, or swollen with pride, but every time we give in to those emotions, our excuse is that it’s perfectly normal, just a part of life’s ups and downs. ([Location 1815](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1815))
+    - Tags: [[blue]] 
+- don’t touch the essence, because that calls for real work. ([Location 1818](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1818))
+    - Tags: [[pink]] 
+- On the contrary, as soon we’ve decided to undergo such an inner metamorphosis, even if we inevitably run into a few difficulties, we soon discover a joy in the work that makes each step a new satisfaction. ([Location 1821](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1821))
+    - Tags: [[orange]] 
+- chronic selfishness to friendly altruism. ([Location 1823](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1823))
+- But there is a crucial difference between the deep aspirations that we generate throughout our lives and the desire that is solely concentrated on craving and obsession. ([Location 1835](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1835))
+    - Tags: [[orange]] 
+- Desire can nourish our existence and can poison it. ([Location 1837](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1837))
+- It can also mature, free itself, and deepen into the aspiration of making oneself a better human being, of working for the good of others or of achieving spiritual awakening. ([Location 1838](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1838))
+    - Tags: [[blue]] 
+- make the distinction between desire, which is essentially a blind force, and aspiration, which is inspired by motivation and attitude. ([Location 1839](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1839))
+    - Tags: [[pink]] 
+- As natural as it is, desire degenerates into a mental toxin as soon as it becomes craving, an obsession, or an unmitigated attachment. ([Location 1843](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1843))
+    - Tags: [[orange]] 
+- It is also illusory, in the sense that we ultimately have very little control over what we think we possess. ([Location 1847](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1847))
+- Do we want our actions to promote joy in our lives, or do we just want to make money and achieve a certain status in society? ([Location 1852](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1852))
+    - Tags: [[blue]] 
+- “What do I really want out of life?” ([Location 1859](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1859))
+    - Tags: [[orange]] 
+- The first thing to note is that all passionate desire—as opposed to such primary sensations as hunger or thirst—is foreshadowed by a feeling and a mental representation. ([Location 1871](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1871))
+- but the representation always precedes the active desire because its object must be reflected in our ([Location 1875](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1875))
+    - Tags: [[orange]] 
+- thoughts. ([Location 1876](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1876))
+    - Tags: [[orange]] 
+- It considers desirability to be an inherent characteristic of a given person, whose qualities it exaggerates and whose defects it minimizes. ([Location 1876](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1876))
+- “Desire embellishes the objects on which it rests its wings of fire,” ([Location 1877](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1877))
+    - Tags: [[blue]] 
+- Generally, once mental images linked to a desire begin to build up in the mind, one either satisfies the desire or suppresses it. The former action represents a surrender of self-control, the second initiates a conflict. The inner conflict created by suppression is always a source of distress. On the other hand, the option of indulging a desire is like saying: “Why make everything so complicated? Let’s satisfy the desire and have done with it.” The problem is, you’re never done with it: satiation is merely a respite. The mental imagery that desire is continuously creating very quickly reemerges. The more frequently we assuage our desires, the more these images multiply, intrude, and constrain us. The more salt water we drink, the thirstier we become. The repeated reinforcement of mental images leads to addiction and dependency, mental and physical. Once we reach that stage, the experience of desire is felt more like servitude than pleasure. We have lost our freedom. ([Location 1879](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1879))
+    - Tags: [[pink]] 
+- Studies indicate that different regions of the brain and neuronal circuits are in play when we “want” something and when we “like” it. ([Location 1908](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1908))
+    - Tags: [[orange]] 
+- We reach the point of wanting without liking. ([Location 1910](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1910))
+- Not being attached means not that we love the person less, but that we are not primarily focused on self-love through the love we claim to have for the other. ([Location 1918](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1918))
+    - Tags: [[pink]] 
+- Altruistic love is the joy of sharing life with those around us—our friends, our lovers and companions, our wife or husband—and of contributing to their happiness. We love them for who they are and not through the distorting lens of self-centeredness. We are concerned for the other’s happiness, and instead of wanting to possess him, we feel responsible for his well-being. Instead of anxiously awaiting some gratification from him, we can receive his reciprocal love joyfully. ([Location 1919](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1919))
+    - Tags: [[blue]] 
+- we try to extend that love even further. ([Location 1923](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1923))
+    - Tags: [[pink]] 
+- In Nepal, for example, all women older than oneself are addressed as “big sister” and those younger as “little sister.” Such open, altruistic, and caring kindness, far from diminishing the love we bear for our nearest and dearest, only increases and ornaments it. ([Location 1930](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1930))
+    - Tags: [[orange]] 
+- attachment. ([Location 1935](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1935))
+- The sun ceases to shine in all directions; ([Location 1936](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1936))
+- Selfless love is the highest expression of human nature that has not been obscured and distorted by the manipulations of the ego. ([Location 1938](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1938))
+    - Tags: [[blue]] 
+- Selfless love opens an inner door that renders self-importance, and hence fear, inoperative. ([Location 1939](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1939))
+    - Tags: [[pink]] 
+- It allows us to give joyfully and to receive gratefully. ([Location 1939](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1939))
+- By giving in to anger, we are not necessarily harming our enemy but we are definitely harming ourselves. We lose our sense of inner peace, we do everything wrong, we cannot sleep well, we put off our guests or we cast furious glances at those who have the impudence of being in our way. If we have a pet, we forget to feed it. We make life impossible for those who live with us, and even our dearest friends are kept at a distance. Since there are fewer and fewer people who sympathize with us, we feel more and more lonely. . . . To what end? Even if we allow our rage to go all the way, we will never eliminate all our enemies. Do you know of anyone who ever has? As long as we harbor that inner enemy of anger or hatred, however successful we are at destroying our outer enemies today, others will emerge tomorrow.” ([Location 1972](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1972))
+- What a relief it is for the burdened man who has long walked through the world of suffering to lay down his heavy and useless load. LONGCHEN RABJAM ([Location 2107](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2107))
+    - Tags: [[orange]] 
+- Indeed it is a commonplace in the West that freedom means being able to do whatever we want and to act on any of our impulses. ([Location 2111](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2111))
+- If we let the hounds of craving, jealousy, arrogance, and resentment run amok in our mind, they will soon take over. ([Location 2116](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2116))
+    - Tags: [[pink]] 
+- Conversely, inner freedom is a vast, clear, and serene space that dispels pain and nourishes peace. ([Location 2117](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2117))
+    - Tags: [[blue]] 
+- It means taking life into one’s own hand, instead of abandoning it to tendencies created by habit and mental confusion. ([Location 2120](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2120))
+    - Tags: [[orange]] 
+- In daily life this freedom allows us to be open and patient with others while remaining committed to the direction we have chosen to take in life. ([Location 2122](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2122))
+    - Tags: [[blue]] 
+- Understanding that we are neither perfect nor completely happy is not a weakness. It is a very healthy acknowledgment that has nothing to do with self-pity, pessimism, or a lack of self-confidence. ([Location 2128](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2128))
+    - Tags: [[orange]] 
+- renunciation—a ([Location 2130](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2130))
+    - Tags: [[orange]] 
+- But true renunciation is more like a bird soaring into the sky when its cage is opened. Suddenly the endless concerns that had oppressed the mind are gone, allowing the free expression of inner potential. ([Location 2135](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2135))
+- We are like weary marchers, carrying heavy bags filled with a combination of provisions and stones. Wouldn’t the smart thing be to set our bag down for a moment to sort it out and lighten our load? ([Location 2137](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2137))
+    - Tags: [[blue]] 
+- Renunciation is not about depriving ourselves of that which brings us joy and happiness—that would be absurd; it is about abandoning what causes us inexhaustible and relentless distress. ([Location 2138](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2138))
+    - Tags: [[pink]] 
+- It is about having the courage to rid ourselves of dependency on the root causes of suffering. To do this, we first have to identify and recognize these causes and then become mindful of them in our daily life. ([Location 2139](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2139))
+    - Tags: [[orange]] 
+- If we do not take the time to do this, we can easily fool ourselves by overlooking the relevant causes. ([Location 2141](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2141))
+- It comes down to asking ourselves, with respect to certain aspects of our lives: “Is this going to make me happier?” ([Location 2143](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2143))
+- Genuine happiness—as opposed to contrived euphoria—endures through life’s ups and downs. ([Location 2144](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2144))
+    - Tags: [[blue]] 
+- The renunciant has taken the time to look within herself and has found that she does not need to cling to certain aspects of her life. ([Location 2146](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2146))
+    - Tags: [[blue]] 
+- “What’s the point of worrying about things that no longer exist and things that do not yet exist?” ([Location 2151](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2151))
+    - Tags: [[orange]] 
+- It also allows us to use all life’s circumstances, favorable and adverse, as catalysts for personal change, and to avoid becoming arrogant when they are favorable and depressed when they are not. ([Location 2157](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2157))
+    - Tags: [[orange]] 
+- Renunciation is a way of taking one’s life into one’s own hands, that is, of becoming fed up with being manipulated like a puppet by selfishness, the scramble for power and possessions, and the never-ending quest for pleasure. ([Location 2159](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2159))
+    - Tags: [[orange]] 
+- Once you’ve done that, renunciation is experienced as an act of liberation. ([Location 2166](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2166))
+    - Tags: [[orange]] 
+- While we must never neglect those with whom we share our lives, we can get off the endless roller coaster of happiness and suffering. In so doing, we reject nothing but simplify everything. ([Location 2166](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2166))
+    - Tags: [[blue]] 
+- Renunciation involves simplifying our acts, our speech, and our thoughts to rid ourselves of the superfluous. ([Location 2170](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2170))
+    - Tags: [[orange]] 
+- Simplifying our activities doesn’t mean sinking into laziness; on the contrary, it means acquiring a growing freedom and counteracting the most subtle aspect of inertia—the impulse that, even when we know what really counts in life, prompts us instead to pursue a thousand trivial activities, one after the other, like ripples in the water. ([Location 2170](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2170))
+    - Tags: [[blue]] 
+- To simplify our speech is to curtail the stream of pointless talk that continuously flows from our mouths. ([Location 2173](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2173))
+- You don’t have to wrap yourself in aloof silence but simply be aware of what is appropriate speech and of the value of time. ([Location 2176](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2176))
+    - Tags: [[pink]] 
+- It is always adapted to circumstance, gentle or firm as required, and the product of an altruistic and controlled mind. ([Location 2178](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2178))
+    - Tags: [[orange]] 
+- Having a simple mind is not the same as being simpleminded. ([Location 2179](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2179))
+- On the contrary, simplicity of mind is reflected in clarity of thought. Like clear water that lets us see all the way to the lake bottom, simplicity reveals the nature of the mind behind the veil of restless thought. ([Location 2179](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2179))
+    - Tags: [[pink]] 
+- The simple person lives the way he breathes, with no more effort or glory, with no more affectation and without shame. . . . Simplicity is freedom, buoyancy, transparency. As simple as the air, as free as the air. . . . The simple person does not take himself too seriously or too tragically. He goes on his merry way, his heart light, his soul at peace, without a goal, without nostalgia, without impatience. The world is his kingdom, and suffices him. The present is his eternity, and delights him. He has nothing to prove, since he has no appearances to keep up, and nothing to seek, since everything is before him. What is more simple than simplicity? What lighter? It is the virtue of wise men and the wisdom of saints.1 ([Location 2182](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2182))
+    - Tags: [[orange]] 
+- Way of the Bodhisattva, ([Location 2190](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2190))
+    - Tags: [[pink]] 
+- What good is freedom if it benefits only oneself? ([Location 2214](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2214))
+    - Tags: [[orange]] 
+- In order to better help others, we must begin by changing ourselves. ([Location 2215](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2215))
+- To achieve that, we have to overcome not only external adversity but also our innermost enemies: ([Location 2216](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2216))
+    - Tags: [[blue]] 
+- laziness, ([Location 2217](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2217))
+    - Tags: [[pink]] 
+- lack of focus, ([Location 2217](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2217))
+    - Tags: [[orange]] 
+- and the habits that constantly distract us from or defer spiritual practice. ([Location 2217](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2217))
+    - Tags: [[blue]] 
+- “It is easy for a bird to hurt a horse whose back is wounded; it is easy for circumstances to hurt one who is fearful, but they have no power over one who is stable.” ([Location 2221](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2221))
+    - Tags: [[orange]] 
+- First, outward conditions and other general factors—such as wealth, education, social status, hobbies, sex, age, ethnicity, and so on—have circumstantial influence but account altogether for no more than 10 to 15 percent of the variable satisfaction quotient.2 ([Location 2237](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2237))
+    - Tags: [[orange]] 
+- Second, we seem to have a genetic predisposition to being happy or unhappy—about 25 percent of our potential for happiness appears to be determined by genes. Yet genes act more like a blueprint that can be applied or ignored depending upon circumstances. ([Location 2239](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2239))
+    - Tags: [[blue]] 
+- Third, we can exert considerable influence on our experience of happiness and unhappiness through the way we live and think, how we perceive life’s events, and how we react to them. ([Location 2241](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2241))
+- the sense of happiness is higher in countries that ensure their inhabitants’ basic resources, greater security, autonomy, and freedom, as well as sufficient educational opportunities and access to information. ([Location 2254](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2254))
+- citizens are happier in a climate of peace. ([Location 2256](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2256))
+    - Tags: [[blue]] 
+- Happiness rises with social involvement and participation in volunteer organizations, the practice of sports or music, and membership in leisure clubs. ([Location 2257](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2257))
+- It is closely tied to the maintenance and quality of private relationships. ([Location 2258](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2258))
+    - Tags: [[orange]] 
+- People who are married or cohabiting are, in general, significantly happier than singles, widows and widowers, or the divorced or separated living alone. ([Location 2259](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2259))
+    - Tags: [[blue]] 
+- As for the children of divided parents, they are twice as likely to experience a variety of social, psychological, or academic problems.3 ([Location 2260](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2260))
+    - Tags: [[pink]] 
+- Happiness tends to be greater among those who have paying work. ([Location 2261](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2261))
+    - Tags: [[orange]] 
+- Death rate and incidences of illness, depression, suicide, and alcoholism are notably higher among the unemployed. ([Location 2262](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2262))
+    - Tags: [[blue]] 
+- And yet housewives are no more dissatisfied than professionals. ([Location 2263](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2263))
+- It is also interesting to note that retirement makes life not less satisfying, but rather more so. ([Location 2263](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2263))
+    - Tags: [[orange]] 
+- The elderly see their lives as slightly less pleasant than those of the young, but they enjoy more stable overall satisfaction and feel more positive emotions. ([Location 2264](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2264))
+    - Tags: [[blue]] 
+- Age, it seems, can grant relative wisdom. ([Location 2265](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2265))
+    - Tags: [[pink]] 
+- Happiness tends to be more pronounced among highly energetic people in good physical condition. ([Location 2265](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2265))
+    - Tags: [[blue]] 
+- Vacations have a positive effect on well-being, calm, and health. ([Location 2269](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2269))
+    - Tags: [[orange]] 
+- As for those who watch a lot, they are on average less happy. ([Location 2272](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2272))
+- obtaining more wealth brings a legitimate sense of satisfaction. ([Location 2275](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2275))
+    - Tags: [[orange]] 
+- it appears clearly that beyond a relatively low threshold of wealth, the level of satisfaction remains unchanged even as income continues to rise. ([Location 2276](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2276))
+    - Tags: [[blue]] 
+- “We have more food, more clothes, more cars, bigger houses, more central heating, more foreign holidays, a shorter working week, nice work, and, above all, better health. Yet we are not happier. . . . If we want people to be happier, we really have to know what conditions generate happiness and how to cultivate them.”5 ([Location 2279](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2279))
+    - Tags: [[orange]] 
+- One of the main sources of people’s discontent comes from comparing themselves with others in their family, at their workplace, and among their acquaintances. ([Location 2282](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2282))
+    - Tags: [[blue]] 
+- Repeatedly comparing our situation with that of others is a kind of sickness of the mind that brings much unnecessary discontent and frustration. ([Location 2286](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2286))
+    - Tags: [[blue]] 
+- “hedonic treadmill”—a ([Location 2289](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2289))
+    - Tags: [[pink]] 
+- we need to keep running toward acquiring more things and new sources of excitement simply to maintain our current level of satisfaction. ([Location 2291](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2291))
+    - Tags: [[pink]] 
+- To endlessly thirst for more merely in order to remain satisfied, and to grow uneasy when others nearby are faring better than us, has more to do with mental afflictions—envy, covetousness, and jealousy—than with the conditions in which we live. ([Location 2292](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2292))
+    - Tags: [[blue]] 
+- “To know how to be satisfied is to hold a treasure in the palm of one’s hand.” Otherwise, ([Location 2294](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2294))
+    - Tags: [[orange]] 
+- “happy poor,” ([Location 2296](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2296))
+    - Tags: [[blue]] 
+- Suicide is the cause of 2 percent of deaths worldwide every year, which ranks it above war and murder.10 ([Location 2317](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2317))
+- recorded crime ([Location 2320](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2320))
+- “an ethos that builds unwarranted self-esteem, espouses victimology, and encourages rampant individualism has contributed to the epidemic.” ([Location 2330](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2330))
+- “meaninglessness” ([Location 2332](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2332))
+- “there is no attachment to something larger than oneself.” ([Location 2332](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2332))
+- Buddhism would add that it is also surely due to the tireless dedication of most of our time to external activities and goals, instead of learning to enjoy the present moment, the company of those we love, the peace of natural environments, and, above all, the flowering of inner ([Location 2333](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2333))
+    - Tags: [[pink]] 
+- peace that gives every second of life a new and different quality. ([Location 2335](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2335))
+    - Tags: [[pink]] 
+- Excess is meant to shake us out of our apathy, but more often than not it leads only to nervous fatigue coupled with chronic dissatisfaction. ([Location 2337](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2337))
+    - Tags: [[orange]] 
+- adopted children far more closely resemble the biological parents who did not raise them than they do the adoptive parents who did. ([Location 2347](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2347))
+- A study of hundreds of such cases led Auke Tellegen and his colleagues to assert that happiness is 45 percent inheritable and that our genes determine approximately 50 percent of the variables among all personality traits considered.15 ([Location 2347](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2347))
+    - Tags: [[blue]] 
+- According to these researchers, the percentage of personality variables that are the product of genes does not exceed 25 percent and represents merely a potential whose expression depends on many other factors. ([Location 2352](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2352))
+    - Tags: [[blue]] 
+- The researchers predict that if the patterns observed in humans are comparable, the children of mothers who are less engaged with their children may be predisposed to problems such as aggressive behavior and attention deficit disorder. ([Location 2363](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2363))
+    - Tags: [[orange]] 
+- This certainly agrees with the Buddhist view that a young child essentially needs affection on a regular basis. ([Location 2364](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2364))
+    - Tags: [[blue]] 
+- Happiness does not seem to be linked to intelligence, at least not as measured by IQ tests, or to sex or ethnicity, any more than it is to physical beauty. ([Location 2372](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2372))
+    - Tags: [[orange]] 
+- And yet “emotional intelligence” significantly differentiates happy people from unhappy ones. ([Location 2373](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2373))
+    - Tags: [[blue]] 
+- happiness goes hand in hand with the capacity to assert oneself with extroversion and empathy—happy people are generally open to the world. ([Location 2376](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2376))
+    - Tags: [[pink]] 
+- unhappy people tend to believe themselves to be destiny’s playthings. ([Location 2377](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2377))
+- It would seem that the more an individual is capable of controlling her environment, the happier she is. ([Location 2378](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2378))
+    - Tags: [[blue]] 
+- It is interesting to note that in everyday life, extroverts experience more positive events than introverts, and neurotics have more negative experiences than stable people. ([Location 2379](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2379))
+    - Tags: [[orange]] 
+- it is important to keep in mind that it is ultimately our own disposition—extroverted or neurotic, optimistic or pessimistic, self-centered or altruistic—that impels us into the same situation again and again. ([Location 2380](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2380))
+    - Tags: [[pink]] 
+- A spiritual dimension, whether religious or not, helps us to set goals in life and promotes human values, charity, generosity, and openness—all factors that bring us closer to happiness than to misery. It helps us to spurn the cynical idea that there is no direction to follow, that life is nothing but a self-centered struggle under the battle cry “Every man for himself.” ([Location 2384](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2384))
+    - Tags: [[orange]] 
+- This increased vulnerability has been attributed to the lowering of the immune system’s defenses triggered by the grief and depression experienced by the bereaved. ([Location 2406](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2406))
+    - Tags: [[orange]] 
+- “It appears that the way people perceive the world is much more important to happiness than objective circumstances.”22 ([Location 2410](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2410))
+    - Tags: [[orange]] 
+- One cannot experience genuine and lasting happiness while being extremely selfish and pessimistic about everything and everyone, because altruism and a constructive outlook are essential components of authentic happiness. ([Location 2418](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2418))
+    - Tags: [[orange]] 
+- It is obvious that even when life’s material circumstances provide “all we need” to be happy, we aren’t always—far from it. ([Location 2423](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2423))
+    - Tags: [[pink]] 
+- Moreover this “all” has no inherent stability and is bound to fall apart sooner or later, taking happiness with it. ([Location 2424](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2424))
+- We begin by wondering with hope and anxiety if we can manage to bring the ideal conditions together, then we become fearful of losing them, and finally we suffer when they vanish. The sense of insecurity is always with us. ([Location 2426](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2426))
+    - Tags: [[orange]] 
+- “the determinants of happiness can be sought at two levels: external conditions and internal processes. If we manage to identify the circumstances in which people tend to be happy, we can create similar conditions for everyone. If we come to grips with the internal processes that govern them, we may be able to teach people how to take pleasure in living.”24 ([Location 2431](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2431))
+- It is the only country in the world where hunting and fishing are banned throughout the land. ([Location 2448](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2448))
+- the brain is continually evolving in response to our experience, ([Location 2472](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2472))
+    - Tags: [[orange]] 
+- We may wonder how much practice is necessary for the brain to effectuate such changes, especially in an exercise as subtle as meditation. For example, by the time they have reached the competition for admission to national music conservatories, violinists have logged an average of ten thousand hours of practice. Most of the meditators now being studied by Antoine Lutz and Richard Davidson have gone way beyond the equivalent ten thousand hours of meditation. The major portion of their training has been undertaken during intensive retreats, in addition to their years of daily practice. ([Location 2647](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2647))
+    - Tags: [[orange]] 
+- The happiest man is he who has no trace of malice in his soul. PLATO ([Location 2671](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2671))
+    - Tags: [[orange]] 
+- the sense of belonging has considerable bearing on the manifestation of altruism. ([Location 2678](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2678))
+- People are much more inclined to come to the assistance of a friend or of someone with whom they have something in common—ethnicity, nationality, religion, opinion—than to help a stranger to whom they feel no particular connection. ([Location 2678](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2678))
+    - Tags: [[blue]] 
+- it is essential to understand at the most fundamental level that all living creatures share our desire to avoid suffering and experience well-being. ([Location 2681](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2681))
+    - Tags: [[pink]] 
+- That understanding cannot remain a mere concept but must be internalized until it has become second nature. ([Location 2682](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2682))
+    - Tags: [[orange]] 
+- A series of studies conducted on hundreds of students found an undeniable correlation between altruism and happiness, determining that those who believe themselves to be happiest are also the most altruistic. ([Location 2685](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2685))
+    - Tags: [[orange]] 
+- More salient yet is the assertion by those who have suffered depression that giving love to others and receiving it is an important aspect of healing. ([Location 2691](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2691))
+- This affirmation agrees with the Buddhist perspective, which holds selfishness to be the main cause of suffering and altruistic love to be the essential ingredient of true happiness. ([Location 2692](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2692))
+    - Tags: [[blue]] 
+- The interdependence of all phenomena in general, and of all people in particular, is such that our own happiness is intimately linked to that of others. ([Location 2693](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2693))
+    - Tags: [[pink]] 
+- “The exercise of kindness is a gratification, in contrast to a pleasure,” ([Location 2701](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2701))
+    - Tags: [[orange]] 
+- —gratifying in the sense of lasting satisfaction and a feeling of harmony with one’s inner nature. ([Location 2702](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2702))
+    - Tags: [[orange]] 
+- Living in harmony with that nature sustains the joy of life, while rejecting it leads to chronic dissatisfaction. ([Location 2705](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2705))
+- Anything resembling altruism is merely selfishness dressed up in fine feelings. ([Location 2709](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2709))
+    - Tags: [[orange]] 
+- it is now conceded that cooperative behavior, apparently altruistic, can be useful to the survival and proliferation of the species. ([Location 2716](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2716))
+    - Tags: [[orange]] 
+- Genuine altruism that is motivated by no other reason than to do good for others is, after all, possible. ([Location 2725](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2725))
+- The “false altruists” help because they can’t bear their own distress in the face of other people’s suffering and are eager to defuse their own emotional tension. ([Location 2728](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2728))
+    - Tags: [[orange]] 
+- “True altruists,” on the other hand, offer to help even when they might easily turn away or avoid intervening without being noticed. ([Location 2732](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2732))
+    - Tags: [[blue]] 
+- For a true altruist, it’s the result that counts, not the personal satisfaction of having helped. ([Location 2736](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2736))
+    - Tags: [[pink]] 
+- Here again inner freedom, which releases us from the shackles of conflictive emotions, is won only by minimizing obsessive self-absorption. ([Location 2757](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2757))
+    - Tags: [[pink]] 
+- it is interesting to see how certain people who witness an injustice or an attack are more focused on the wrongdoer and on pursuing, abusing, or manhandling him, than on helping the victim. ([Location 2759](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2759))
+    - Tags: [[orange]] 
+- Generating and expressing kindness quickly dispels suffering and replaces it with lasting fulfillment. In turn, the gradual actualization of genuine happiness allows kindness to develop as the natural reflection of inner joy. ([Location 2787](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2787))
+    - Tags: [[orange]] 
+- Pride, the exacerbation of self-importance, consists of being infatuated with the few qualities we possess and, often, of imagining ourselves to possess those we lack. ([Location 2793](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2793))
+- It hinders all personal progress, because in order to learn we must first believe that we do not know. ([Location 2794](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2794))
+    - Tags: [[orange]] 
+- Our obsession with the image we have to project of ourselves is so strong that we have stopped questioning the validity of appearances and endlessly seek better ways to appear. ([Location 2797](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2797))
+    - Tags: [[blue]] 
+- “True humility is freedom from all consciousness of self, which includes freedom from the consciousness of humility. The truly humble man never knows that he is humble.” ([Location 2804](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2804))
+- Not feeling that he is the center of the universe, he is open to others and sees himself as part of the web of interdependence. ([Location 2805](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2805))
+    - Tags: [[pink]] 
+- The arrogant and the narcissistic fuel themselves on illusions that come into continuous conflict with reality. ([Location 2813](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2813))
+    - Tags: [[orange]] 
+- The inevitable disillusionment that follows can generate self-hatred (when we realize that we cannot live up to our own expectations) and a feeling of inner emptiness. ([Location 2813](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2813))
+    - Tags: [[blue]] 
+- The humble person has nothing to lose and nothing to gain. ([Location 2816](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2816))
+    - Tags: [[pink]] 
+- “the best teaching is that which unmasks our hidden faults.” ([Location 2818](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2818))
+    - Tags: [[blue]] 
+- people who overvalue themselves present a higher than average tendency toward aggression. ([Location 2820](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2820))
+- People who consider themselves superior judge the faults of others more harshly and consider them to be less forgivable. ([Location 2822](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2822))
+- humility promotes strength of character; ([Location 2823](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2823))
+    - Tags: [[orange]] 
+- the humble person makes decisions on the basis of what he believes to be right and sticks by them without concern for his own image or the opinions of others. ([Location 2824](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2824))
+    - Tags: [[pink]] 
+- It is pointless trying to persuade the woodsman with a perfect knowledge of the forest to take the path leading to a cliff. ([Location 2826](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2826))
+    - Tags: [[orange]] 
+- Their humility does not mean they aren’t aware of their knowledge and scholarship, but that such learning reveals how much more there is to learn. ([Location 2836](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2836))
+    - Tags: [[orange]] 
+- I wondered which was the right way to look at things, and came to the conclusion that the first had been the correct way because it generated an open, creative, and liberating attitude and led to greater satisfaction. ([Location 2848](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2848))
+    - Tags: [[orange]] 
+- when we cling to a negative perception of phenomena, something rings false—we feel “disconnected” from the universe, which comes to seem dull, strange, distant, and sometimes hostile. ([Location 2851](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2851))
+- When it’s a question of real situations drawn from daily life, the optimist’s approach is in fact more realistic and pragmatic than that of the pessimist. ([Location 2859](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2859))
+    - Tags: [[orange]] 
+- they remain more serene than the pessimists and gather their energies for real threats. ([Location 2864](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2864))
+    - Tags: [[orange]] 
+- If we observe the way in which people perceive the events of their lives, appreciate the quality of the lived moment, and create their future by overcoming obstacles with an open and creative attitude, we find that the optimists have an undeniable advantage over the pessimists. ([Location 2865](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2865))
+    - Tags: [[pink]] 
+- optimists lived 19 percent longer on average than the pessimists—some ([Location 2870](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2870))
+    - Tags: [[blue]] 
+- when such people are taught specifically to overcome pessimism by changing their outlook, they are markedly less subject to depressive relapse. ([Location 2873](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2873))
+    - Tags: [[blue]] 
+- psychologists describe pessimism as an “explanatory style” for the world that engenders “learned helplessness.”5 ([Location 2875](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2875))
+    - Tags: [[orange]] 
+- “There’s no reason to make a fuss about it; these things don’t last. I’ll figure it out; in any case, I usually do.” ([Location 2878](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2878))
+    - Tags: [[blue]] 
+- It’s not the sort of thing that just goes away”), ([Location 2879](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2879))
+    - Tags: [[pink]] 
+- laziness, ([Location 2917](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2917))
+    - Tags: [[orange]] 
+- three principal types. ([Location 2917](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2917))
+    - Tags: [[orange]] 
+- wanting only to eat well, sleep well, and do as little as possible. ([Location 2917](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2917))
+- abandon the race before we’ve even crossed the starting line. ([Location 2918](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2918))
+    - Tags: [[blue]] 
+- what really matters in life but is constantly putting it off to later, while devoting itself to a thousand other things of lesser importance. ([Location 2919](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2919))
+    - Tags: [[pink]] 
+- time is our most precious commodity. ([Location 3010](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3010))
+    - Tags: [[orange]] 
+- golden time is when he can create, build, accomplish, and devote himself to the welfare of others. ([Location 3014](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3014))
+    - Tags: [[orange]] 
+- Boredom is the affliction of those for whom time has no value. ([Location 3026](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3026))
+    - Tags: [[orange]] 
+- pointless activities ([Location 3036](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3036))
+- interminable mental chatter ([Location 3036](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3036))
+    - Tags: [[blue]] 
+- It is worthwhile to spend a moment each day cultivating an altruistic thought and observing the workings of the mind. ([Location 3042](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3042))
+    - Tags: [[blue]] 
+- It’s not a question of ignoring the world, but of putting our time to good use. ([Location 3044](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3044))
+    - Tags: [[orange]] 
+- zero contemplation. ([Location 3046](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3046))
+- “take our mind off things.” ([Location 3048](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3048))
+    - Tags: [[pink]] 
+- Let us first clearly examine what counts most in life for ourselves, then establish priorities among the essential things and other activities that intrude on our time. ([Location 3050](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3050))
+    - Tags: [[blue]] 
+- Far from making us despair, a lucid awareness of the nature of things inspires us to live each passing day to the full. ([Location 3058](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3058))
+    - Tags: [[pink]] 
+- Mindfulness allows us to remain alert to the passage of time and prevents us from being unaware as it flows. ([Location 3069](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3069))
+- Inner freedom prevents it from being monopolized by disturbing emotions. ([Location 3070](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3070))
+    - Tags: [[blue]] 
+- When past thoughts have ceased, and future thoughts have not yet arisen, in the interval is there not a perception of nowness, a pristine, clear, awake, and bare freshness? Remain in it for a while, without grasping at anything, like a small child looking at a vast landscape. ([Location 3075](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3075))
+    - Tags: [[orange]] 
+- A good life is one that is characterized by complete absorption in what one does. JEANNE NAKAMURA AND MIHALY CSIKSZENTMIHALYI ([Location 3079](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3079))
+    - Tags: [[blue]] 
+- We all have had the experience of being intensely absorbed in an activity, an experiment, or a feeling. ([Location 3081](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3081))
+    - Tags: [[pink]] 
+- flow. ([Location 3083](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3083))
+    - Tags: [[pink]] 
+- when the creation of a painting was going well, the artist was completely absorbed in his work and stayed with it to completion, unaware of being tired, hungry, or uncomfortable. ([Location 3083](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3083))
+    - Tags: [[orange]] 
+- It is obvious that for a rock climber who has climbed the same rock face dozens of times, being at the top counts for less than the enjoyment of getting there. ([Location 3088](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3088))
+    - Tags: [[blue]] 
+- playing music, ([Location 3089](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3089))
+    - Tags: [[pink]] 
+- “completely involved in an activity for its own sake. ([Location 3090](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3090))
+- Your whole being is involved, and you’re using your skills to the utmost.” ([Location 3091](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3091))
+    - Tags: [[pink]] 
+- “My experience is what I agree to attend to.”3 ([Location 3094](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3094))
+    - Tags: [[orange]] 
+- Entering the state of flow depends closely on the amount of attention given to the lived experience. ([Location 3095](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3095))
+- If it is too difficult, tension sets in, followed by anxiety; too easy, and we relax and are soon bored. ([Location 3096](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3096))
+    - Tags: [[pink]] 
+- It is interesting to note, too, that so long as the state lasts, there is a loss of reflective self-consciousness. ([Location 3099](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3099))
+    - Tags: [[orange]] 
+- One need only remember the starting point and the thread of the teaching; after that, detail follows upon detail, generally without effort. ([Location 3106](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3106))
+- It’s ultimately easier not to take notes, precisely in order to sustain the experience of flow. When all is going well, this fluidity produces a sense of serene joy; self-awareness—that is, a person observing himself—is practically absent; exhaustion is forgotten; and time passes imperceptibly, like the flow of a river that remains undetectable at a distance. ([Location 3109](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3109))
+    - Tags: [[blue]] 
+- Practice “attentive walking” These are the instructions of the Vietnamese Buddhist master Thich Nhat Hanh: “Walking just for the pleasure of walking, freely and firmly, without hurrying. We are present in every step. When we wish to speak, we stop walking and lend all our attention to the person before us, to speaking and to listening. . . . Stop, look around, and see how wonderful life is: the trees, the white clouds, the infinite sky. Listen to the birds, delight in the light breeze. Let us walk as free people and feel our steps growing lighter as we walk. Let us appreciate every step we take.”6 ([Location 3122](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3122))
+    - Tags: [[pink]] 
+- If it is to make any long-term improvement in our quality of life, it must be imbued with human qualities, such as altruism and wisdom. ([Location 3133](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3133))
+- It can be extremely valuable in helping us to appreciate every moment of existence and putting it to the most constructive use possible. ([Location 3138](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3138))
+- Without the need for external activity, we can learn to rest effortlessly in a state of constant awareness. ([Location 3140](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3140))
+    - Tags: [[blue]] 
+- Contemplating the nature of the mind, for instance, is a deep and fruitful experience combining relaxation and flow. Relaxation in the form of inner calm, flow in the form of a clear and open presence of mind, alert but without tension. Perfect lucidity is one of the principal features that distinguishes this state of mind from ordinary flow. Such pure awareness does not require the subject to observe himself; here, too, there is a quasi-total disappearance of the notion of a “self.” This does not hinder direct knowledge of the nature of mind, of the “pure presence” of awareness. The experience is a source of inner peace and openness to the world and others. Finally, the experience of contemplative flow encompasses our entire perception of the universe and its interdependence. You might say that the awakened being remains continuously in a state of serene, vivid, and altruistic flow. ([Location 3140](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3140))
+    - Tags: [[pink]] 
+- Enter into the flow of “open presence” Sit in a comfortable meditation position, eyes gently open, posture straight, and quiet your mind. Then try to make your mind as vast as the sky. Don’t focus on anything in particular. Remain relaxed and calm and yet fully aware. Let your mind remain free from mental constructs, yet clear, vivid, and all-pervading. Effortless, yet undistracted. Without trying to actively block sensory perceptions, recollections, and imagination, feel that you are simply uninfluenced by them. Remain at ease. Perceptions cannot alter the basic serene vastness of your mind. Whenever thoughts arise, let them undo themselves as they form, as a drawing made on the surface of the water leaves no trace. Experience the peace you feel for a few moments after the exercise. ([Location 3147](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3147))
+    - Tags: [[orange]] 
+- motivation ([Location 3185](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3185))
+- consequences of our acts. ([Location 3185](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3185))
+    - Tags: [[orange]] 
+- “Are we being broad-minded or narrow-minded? Have we taken into account the overall situation or are we considering only specifics? Is our view short-term or long-term? . . . Is our motivation genuinely compassionate? . . . Is our compassion limited just to our families, our friends, and those we identify with closely? . . . We need to think, think, think.”4 ([Location 3187](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3187))
+    - Tags: [[pink]] 
+- our state of mind, ([Location 3191](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3191))
+    - Tags: [[blue]] 
+- “Man’s inhumanity to man is not only perpetrated by the vitriolic actions of those who are bad. It is also perpetrated by the vitiating inaction of those who are good.” ([Location 3206](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3206))
+    - Tags: [[orange]] 
+- two main branches in ethics: ([Location 3245](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3245))
+- one based on abstract principles ([Location 3246](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3246))
+    - Tags: [[blue]] 
+- and one based on lived experience, ([Location 3246](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3246))
+    - Tags: [[pink]] 
+- Someone who has used every second of her life to become a better person and to contribute to others’ happiness can die in peace. ([Location 3356](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3356))
+    - Tags: [[blue]] 
+- Once we have embarked on the spiritual path and begun practicing it resolutely, the important moment comes several months or several years later when we realize that nothing is as it was and, in particular, that we have become incapable of knowingly harming others. ([Location 3401](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3401))
+- And that pride, envy, and mental confusion are no longer the uncontested masters of our minds. ([Location 3402](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3402))
+    - Tags: [[blue]] 
+- Finally, we can meditate in a nonconceptual way on the very nature of the mind by looking directly at consciousness itself as an open presence, a pure awareness that always lies behind the screen of thoughts, or by contemplating the very nature of the thoughts that cross our mind. ([Location 3431](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3431))
+    - Tags: [[pink]] 
+- ultimate well-being comes from fully eliminating delusion and mental toxins, and thus suffering. ([Location 3460](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3460))
+- Enlightenment is what Buddhism calls the state of ultimate freedom that comes with a perfect knowledge of the nature of mind and of the world of phenomena. ([Location 3461](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3461))
+    - Tags: [[blue]] 
+- The divide between subject and object has vanished in the understanding of the interdependence of all phenomena. ([Location 3463](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3463))
+    - Tags: [[pink]] 
+- “The aspects of things that are most important for us are hidden because of their simplicity and familiarity.” ([Location 3469](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3469))
+    - Tags: [[orange]] 
+- From the point of view of absolute truth, neither happiness nor suffering has any real existence. ([Location 3477](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3477))
+# Happiness
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/31oU--0jH9L._SL200_.jpg)
+
+## Metadata
+- Author: [[Matthieu Ricard and Daniel Goleman]]
+- Full Title: Happiness
+- Category: #books
+
+## Highlights
+- Renunciation, at least as Buddhists use the term, is a much-misunderstood concept. It is not about giving up what is good and beautiful. How foolish that would be! Rather it is about disentangling oneself from the unsatisfactory and moving with determination toward what matters most. It is about freedom and meaning—freedom from mental confusion and self-centered afflictions, meaning through insight and loving-kindness. ([Location 104](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=104))
+    - Tags: [[orange]] 
+- we’re actually talking about a way of being that defines the quality of every moment of our lives. So what exactly is happiness? ([Location 278](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=278))
+    - Tags: [[orange]] 
+- Sociologists define happiness as “the degree to which a person evaluates the overall quality of his present life-as-a-whole positively. ([Location 279](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=279))
+- This definition, however, does not distinguish between profound satisfaction and the mere appreciation of the outer conditions of our lives. ([Location 281](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=281))
+    - Tags: [[blue]] 
+- For some, happiness is just “a momentary, fleeting impression, whose intensity and duration vary according to the availability of the resources that make it possible.”3 ([Location 282](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=282))
+    - Tags: [[pink]] 
+- Such happiness must by nature be elusive and dependent on circumstances that are quite often beyond our control. ([Location 283](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=283))
+    - Tags: [[orange]] 
+- “the radiation of joy over one’s entire existence or over the most vibrant part of one’s active past, one’s actual present, and one’s conceivable future.”4 ([Location 284](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=284))
+- “By ‘happiness’ we mean any span of time in which joy would seem immediately possible.”5 ([Location 286](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=286))
+    - Tags: [[blue]] 
+- happiness is “a rejoicing in the truth.” ([Location 289](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=289))
+    - Tags: [[pink]] 
+- Happiness can’t be limited to a few pleasant sensations, to some intense pleasure, to an eruption of joy or a fleeting sense of serenity, to a cheery day or a magic moment that sneaks up on us in the labyrinth of our existence. ([Location 298](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=298))
+    - Tags: [[orange]] 
+- a deep sense of flourishing that arises from an exceptionally healthy mind. ([Location 301](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=301))
+    - Tags: [[blue]] 
+- This is not a mere pleasurable feeling, a fleeting emotion, or a mood, but an optimal state of being. Happiness is also a way of interpreting the world, since while it may be difficult to change the world, it is always possible to change the way we look at it. ([Location 302](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=302))
+    - Tags: [[pink]] 
+- The common factor to all of these experiences would seem to be the momentary disappearance of inner conflicts. ([Location 315](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=315))
+    - Tags: [[orange]] 
+- The person feels in harmony with the world and with herself. ([Location 316](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=316))
+- Someone enjoying such an experience, such as walking through a serene wilderness, has no particular expectations beyond the simple act of walking. She simply is, here and now, free and open. ([Location 316](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=316))
+    - Tags: [[blue]] 
+- For just a few moments, thoughts of the past are suppressed, the mind is not burdened with plans for the future, and the present moment is liberated from all mental constructs. This moment of respite, from which all sense of emotional urgency has vanished, is experienced as one of profound peace. For someone who has achieved a goal, completed a task, or won a victory, the tension they have long carried with them relaxes. The ensuing sense of release is felt as a deep calm, free of all expectation and fear. ([Location 318](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=318))
+    - Tags: [[pink]] 
+- But this experience is just a passing glimpse brought on by a particular set of circumstances. ([Location 322](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=322))
+    - Tags: [[orange]] 
+- We call it a magic moment, a state of grace. ([Location 322](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=322))
+- And yet the difference between these flashes of happiness seized on the fly and the immutable peacefulness of the sage, for instance, is as great as that between the tiny section of sky seen through the eye of a needle and the limitless expanses of outer space. ([Location 323](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=323))
+    - Tags: [[blue]] 
+- Anyone who enjoys inner peace is no more broken by failure than he is inflated by success. ([Location 341](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=341))
+    - Tags: [[orange]] 
+- He is able to fully live his experiences in the context of a vast and profound serenity, since he understands that experiences are ephemeral and that it is useless to cling to them. There will be no “hard fall” when things turn bad and he is confronted with adversity. He does not sink into depression, since his happiness rests on a solid foundation. ([Location 342](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=342))
+- it is the purging of mental toxins, such as hatred and obsession, that literally poison the mind. ([Location 356](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=356))
+    - Tags: [[blue]] 
+- It is also about learning how to put things in perspective and reduce the gap between appearances and reality. ([Location 357](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=357))
+    - Tags: [[pink]] 
+- To that end we must acquire a better knowledge of how the mind works and a more accurate insight into the nature of things, for in its deepest sense, suffering is intimately linked to a misapprehension of the nature of reality. ([Location 358](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=358))
+    - Tags: [[orange]] 
+- The world of ignorance and suffering—called samsara in Sanskrit—is not a fundamental condition of existence but a mental universe based on our mistaken conception of reality. ([Location 369](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=369))
+- The world of appearances is created by the coming together of an infinite number of ever-changing causes and conditions. ([Location 371](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=371))
+    - Tags: [[blue]] 
+- Like a rainbow that forms when the sun shines across a curtain of rain and then vanishes when any factor contributing to its formation disappears, phenomena exist in an essentially interdependent mode and have no autonomous and enduring existence. ([Location 372](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=372))
+    - Tags: [[orange]] 
+- Everything is relation; nothing exists in and of itself, immune to the forces of cause and effect. ([Location 373](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=373))
+    - Tags: [[blue]] 
+- Once this essential concept is understood and internalized, the erroneous perception of the world gives way to a correct understanding of the nature of things and beings: this is insight. ([Location 374](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=374))
+    - Tags: [[pink]] 
+- There exists a way of being that underlies and suffuses all emotional states, that embraces all the joys and sorrows that come to us. A happiness so deep that, as Georges Bernanos wrote, “nothing can change it, like the vast reserve of calm water beneath a storm.”10 The Sanskrit word for this state of being is sukha. Sukha is the state of lasting well-being that manifests itself when we have freed ourselves of mental blindness and afflictive emotions. It is also the wisdom that allows us to see the world as it is, without veils or distortions. It is, finally, the joy of moving toward inner freedom and the loving-kindness that radiates toward others. ([Location 380](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=380))
+    - Tags: [[orange]] 
+- isn’t happiness the goal of all goals? ([Location 395](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=395))
+    - Tags: [[orange]] 
+- The tragedy lies in our frequent misidentification of the ways to achieve that well-being. ([Location 403](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=403))
+- “When we talk of ignorance, it has nothing to do with stupidity. In a way, ignorance is very intelligent, but it is an intelligence that works exclusively in one direction. That is, ([Location 405](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=405))
+- we react exclusively to our own projections instead of simply seeing what is there.”1 ([Location 406](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=406))
+    - Tags: [[blue]] 
+- How do we dispel this basic ignorance? ([Location 414](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=414))
+    - Tags: [[orange]] 
+- The only way is through honesty and sincere introspection. ([Location 414](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=414))
+- analysis and contemplation. ([Location 415](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=415))
+    - Tags: [[blue]] 
+- “May every moment of my life and of the lives of others be one of wisdom, flourishing, and inner peace!” ([Location 422](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=422))
+    - Tags: [[blue]] 
+- If I have more than I could possibly need and I am still not happy, happiness must be impossible. That’s a good example of how far we can go in fooling ourselves about the causes of happiness. ([Location 454](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=454))
+    - Tags: [[blue]] 
+- The fact is that without inner peace and wisdom, we have nothing we need to be happy. ([Location 455](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=455))
+    - Tags: [[pink]] 
+- Happiness is a state of inner fulfillment, not the gratification of inexhaustible desires for outward things. ([Location 457](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=457))
+    - Tags: [[orange]] 
+- “When selfish happiness is the only goal in life, life soon becomes goalless,” ([Location 460](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=460))
+    - Tags: [[orange]] 
+- we can never be truly happy if we dissociate ourselves from the happiness of others. ([Location 461](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=461))
+    - Tags: [[blue]] 
+- And in order to love others, we must learn to love ourselves. ([Location 463](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=463))
+- How much of it is due to your state of mind and the way you experience the world? ([Location 470](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=470))
+    - Tags: [[blue]] 
+- If happiness comes from outer circumstances, check how stable or fragile they are. ([Location 471](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=471))
+    - Tags: [[orange]] 
+- If it is due to a state of mind, consider how you can further cultivate it. ([Location 471](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=471))
+- muddled approach ([Location 504](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=504))
+- No one would deny that it is eminently desirable to live long and in good health, to be free in a country at peace where justice is respected, to love and to be loved, to have access to education and information, to enjoy adequate means of subsistence, to be able to travel the world, to contribute as much as possible to the well-being of others, and to protect the environment. Sociological studies of entire populations clearly show that human beings enjoy their lives more in such conditions. Who would want anything else? In pinning all our hopes on the external world, however, we can only end up being disappointed. ([Location 504](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=504))
+- in hoping that money will make us happier, we work to acquire it; once we have it, we become obsessed with making it grow and we suffer when we lose it. ([Location 509](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=509))
+    - Tags: [[blue]] 
+- “I wasted ten years of my life.” ([Location 512](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=512))
+    - Tags: [[blue]] 
+- “Some people say you should not think about your own happiness, because you can only be happy as a by-product of something else. That is a dismal philosophy, a formula for keeping oneself occupied at all costs.”4 ([Location 515](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=515))
+    - Tags: [[pink]] 
+- If we try resolutely over the course of years to master our thoughts as they come to us, to apply appropriate antidotes to negative emotions and to nourish positive ones, our efforts will undoubtedly yield results that would have seemed unattainable at first. ([Location 524](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=524))
+- dead set against “the construction of the self as a never-ending task.” ([Location 530](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=530))
+- Leaving aside the spiritual path, why bother reading books, undertaking scientific research, learning about the world? The acquisition of knowledge is a never-ending task too. Why accept that but neglect our own transformation, which determines the quality of our lived experience? Is it better just to allow ourselves to drift? Isn’t that how we crash on the rocks? ([Location 532](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=532))
+- Many formulas for happiness insist that by nature we are a blend of light and shadow and that we must learn to accept our faults along with our positive qualities. They claim that by giving up the fight against our own limitations we can resolve most of our inner conflicts and greet each day with confidence and ease. Setting our own natures free is the best way; muzzling them can only exacerbate our problems. If we have to choose, it is certainly better to live spontaneously than to spend our days champing at the bit, being bored to tears, or hating ourselves. But isn’t that just a way of wrapping our habits up in a pretty package? ([Location 539](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=539))
+- lax attitude ([Location 545](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=545))
+- We are very much like birds that have lived too long in a cage to which we return even when we get the chance to fly away. We have grown so accustomed to our faults that we can barely imagine what life would be like without them. ([Location 547](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=547))
+    - Tags: [[orange]] 
+- Happiness is a skill, a manner of being, but skills must be learned. ([Location 554](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=554))
+    - Tags: [[pink]] 
+- EXERCISE Developing attention Sit quietly in your meditation posture and focus all your attention upon a chosen object. It can be an object in your room, your breath, or your own mind. Inevitably as you do this, your mind will wander. Each time it does, gently bring it back to the object of concentration, like a butterfly that returns again and again to the flower it feeds on. As you persevere, your concentration will become more clear and stable. If you feel sleepy, assume a straighter posture and lift your gaze slightly upward to revive your awareness. Conversely, if your mind becomes agitated, relax your posture, direct your gaze slightly downward, and let any inner tension dissolve. Cultivating attention and mindfulness in this way is a precious tool for all other kinds of meditation. ([Location 555](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=555))
+    - Tags: [[orange]] 
+- The most common error is to confuse pleasure for happiness. Pleasure, says the Hindu proverb, “is only the shadow of happiness.” It is the direct result of pleasurable sensual, esthetic, or intellectual stimuli. The fleeting experience of pleasure is dependent upon circumstance, on a specific location or moment in time. It is unstable by nature, and the sensation it evokes soon becomes neutral or even unpleasant. Likewise, when repeated it may grow insipid or even lead to disgust; savoring a delicious meal is a source of genuine pleasure, but we are indifferent to it once we’ve had our fill and would get sick of it if we continued eating. It is the same thing with a nice wood fire: coming in from the cold, it is pure pleasure to warm ourselves by it, but we soon have to move away if we don’t want to burn ourselves. ([Location 570](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=570))
+    - Tags: [[orange]] 
+- Pleasure is exhausted by usage, like a candle consuming itself. It is almost always linked to an activity and naturally leads to boredom by dint of being repeated. Listening rapturously to a Bach prelude requires a focus of attention that, minimal as it is, cannot be maintained indefinitely. After a while fatigue kicks in and the music loses its charm. Were we forced to listen for days on end, it would become unbearable. ([Location 576](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=576))
+    - Tags: [[orange]] 
+- genuine flourishing may be influenced by circumstance, but it isn’t dependent on it. It does not mutate into its opposite but endures and grows with experience. It imparts a sense of fulfillment that in time becomes second nature. ([Location 593](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=593))
+- Authentic happiness is not linked to an activity; it is a state of being, a profound emotional balance struck by a subtle understanding of how the mind functions. ([Location 595](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=595))
+    - Tags: [[blue]] 
+- sukha—lasting ([Location 597](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=597))
+    - Tags: [[blue]] 
+- is felt so long as we remain in harmony with our inner nature. ([Location 597](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=597))
+    - Tags: [[blue]] 
+- selflessness, ([Location 597](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=597))
+    - Tags: [[pink]] 
+- Genuine happiness radiates outward spontaneously as joy. ([Location 607](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=607))
+    - Tags: [[orange]] 
+- Inner joy is not necessarily manifested exuberantly, but as a luminous appreciation of the present moment, ([Location 607](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=607))
+- “There are unhealthy joys, far removed from the serenity of happiness, such as that of vengeance. . . . There is also calm happiness, often far removed from the intrinsic excitation of joy. . . . We jump for joy, not for happiness.” ([Location 610](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=610))
+    - Tags: [[blue]] 
+- in order to participate in or contribute to happiness, they must be free of all negative emotion. When anger or envy erupts, joy is abruptly extinguished. When attachment, egoism, or pride creeps in, it is slowly smothered. ([Location 623](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=623))
+    - Tags: [[pink]] 
+- normal satisfaction level.3 ([Location 643](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=643))
+    - Tags: [[pink]] 
+- dukkha, ([Location 656](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=656))
+- a fundamental vulnerability to suffering and pain that can ultimately lead to world-weariness, the feeling that life is not worth living because there is no way to find meaning in it. ([Location 657](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=657))
+- The outward freedom that we shall attain will only be in exact proportion to the inward freedom to which we may have grown at a given moment. And if this is a correct view of freedom, our chief energy must be concentrated on achieving reform from within. MAHATMA GANDHI ([Location 683](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=683))
+- “happiness is the form and overall meaning of a life that considers itself to be full and meaningful, and which experiences itself as such.”1 ([Location 689](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=689))
+    - Tags: [[blue]] 
+- This distinction between exterior and interior well-being explains the apparent contradiction between some of these findings and the Buddhist assertion that suffering is omnipresent in the universe. When we speak about omnipresence, it means not that all people are continuously in a state of suffering, but that they are vulnerable to the latent suffering that can arise at any moment. They will remain vulnerable so long as they fail to dispel the mental toxins that cause unhappiness. ([Location 700](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=700))
+    - Tags: [[pink]] 
+- Happiness is thus viewed as being just a deceptively calm moment in the middle of a storm. ([Location 709](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=709))
+    - Tags: [[pink]] 
+- Suddenly I realized that, far from being upset, I felt incredibly light and experienced a feeling of total felicity and freedom. You may imagine that the fever was making me delirious, but I was absolutely clearheaded, and the contrast between the situation and my feelings was so comical that I began to laugh in the dark. This was definitely not a case of happiness via relief; rather it was an experience of innate serenity, brought into sharper focus by particularly unpleasant external circumstances. It was a moment of “letting go,” that state of deep satisfaction found only within oneself and which is therefore independent of external circumstances. ([Location 723](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=723))
+    - Tags: [[orange]] 
+- Once we have come to that conclusion, our goal becomes to determine levelheadedly the causes of unhappiness and to correct them. Since true happiness is not limited to momentary relief from life’s ups and downs, it requires us to eliminate the major causes of unhappiness, which, as we have seen, are ignorance and mental toxins. If happiness is indeed a way of being, a state of consciousness and inner freedom, there is essentially nothing to prevent us from achieving it. ([Location 729](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=729))
+- Trying to purify something that is fundamentally bad would be as pointless as trying to bleach a lump of coal. ([Location 748](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=748))
+    - Tags: [[blue]] 
+- Conversely, the development of our deep human potential is like polishing a gold nugget to bring out its shine. ([Location 749](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=749))
+    - Tags: [[orange]] 
+- If the wise man can be happy, then happiness must be possible. ([Location 760](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=760))
+    - Tags: [[orange]] 
+- “The wise man has nothing left to expect or to hope for. Because he is entirely happy, he needs nothing. Because he needs nothing, he is entirely happy.”8 ([Location 766](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=766))
+- Spiritual practice can be enormously beneficial. The fact is, it is possible to undergo serious spiritual training by devoting some time every day to meditation. ([Location 777](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=777))
+    - Tags: [[blue]] 
+- The positive benefits of such a life far outweigh the few problems of schedule arrangement. ([Location 779](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=779))
+    - Tags: [[pink]] 
+- By contemplation I mean not merely a moment of relaxation, but an inward turning of the gaze. ([Location 782](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=782))
+    - Tags: [[orange]] 
+- It is very fruitful to watch how thoughts arise, and to contemplate the state of serenity and simplicity that is always present behind the scrim of thoughts, be they gloomy or upbeat. ([Location 783](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=783))
+- By gradually acquiring through introspective experience a better understanding of how thoughts are born, we learn how to fend off mental toxins. ([Location 785](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=785))
+    - Tags: [[blue]] 
+- Similarly, as we free ourselves of all insecurities and inner fears (which are often connected to excessive self-centeredness), we have less to dread and are naturally more open to others and better armed to face the vagaries of existence. ([Location 787](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=787))
+    - Tags: [[pink]] 
+- After a while your thoughts will become like a peaceful river. If you practice regularly, eventually your mind will easily become serene, like a calm ocean. Whenever new thoughts arise, like waves raised by the winds, do not be bothered by them. They will soon dissolve back into the ocean. ([Location 806](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=806))
+    - Tags: [[blue]] 
+- Our confusion, born of a lack of judgment and wisdom, blinds us to what we must do and avoid doing to ensure that our thoughts, our words, and our actions engender happiness and not suffering. This confusion and the tendencies associated with it drive us to reenact again and again the behavior that lies at the source of our pain. If we want to counteract this harmful misjudgment, we have to awaken from the dream of ignorance and learn to identify the very subtle ways in which happiness and suffering are generated. ([Location 859](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=859))
+    - Tags: [[orange]] 
+- As for human beings in general, we cannot expect suffering to simply vanish from the universe, because, in the Buddhist view, the universe is without beginning or end. ([Location 874](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=874))
+    - Tags: [[orange]] 
+- There can be no real beginning because nothing cannot suddenly become something. Nothingness is a word that allows us to picture for ourselves the absence or even nonexistence of worldly phenomena, but a mere idea cannot give birth to anything at all. ([Location 875](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=875))
+- As for a real end, in which something becomes nothing, it is equally impossible. ([Location 877](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=877))
+    - Tags: [[blue]] 
+- Despite all that, this vision does not lead Buddhism to the view held by certain Western philosophers for whom suffering is inevitable and happiness out of reach. ([Location 880](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=880))
+    - Tags: [[pink]] 
+- The reason for that is simple: unhappiness has causes that can be identified and acted upon. ([Location 881](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=881))
+    - Tags: [[orange]] 
+- It is only when we misidentify the nature of those causes that we come to doubt the possibility of healing. ([Location 882](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=882))
+- Because if there were no cure for suffering, it would be pointless to make it worse by stressing over it. ([Location 889](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=889))
+    - Tags: [[orange]] 
+- It would be better to accept it fully and to distract oneself so as to feel it less harshly. ([Location 890](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=890))
+- But everything that occurs does have a cause. What inferno does not start with a spark, what war without thoughts of hatred, fear, or greed? What inner pain has not grown from the fertile soil of envy, animosity, vanity, or, even more basically, ignorance? Any active cause must itself be a changing one; nothing can exist autonomously and unchanging. Arising from impermanent causes, unhappiness is itself subject to change and can be transformed. There is neither primordial nor eternal suffering. ([Location 891](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=891))
+    - Tags: [[blue]] 
+- Recognize suffering, Eliminate its source, End it By practicing the path. ([Location 904](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=904))
+    - Tags: [[pink]] 
+- unhappiness is a profound state of dissatisfaction that endures even in favorable external conditions. ([Location 909](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=909))
+    - Tags: [[orange]] 
+- Conversely, it’s worth repeating that one can suffer physically or mentally—by feeling sad, for instance—without losing the sense of fulfillment that is founded on inner peace and selflessness. ([Location 909](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=909))
+    - Tags: [[blue]] 
+- There are two levels of experience here, which can be compared respectively to the waves and the depths of the ocean. A storm may be raging at the surface, but the depths remain calm. The wise man always remains connected to the depths. On the other hand, he who knows only the surface and is unaware of the depths is lost when he is buffeted by the waves of suffering. ([Location 911](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=911))
+    - Tags: [[pink]] 
+- The difference between the sage and the ordinary person is that the former can feel unconditional love for those who suffer and do everything in his power to attenuate their pain without allowing his lucid vision of existence to be shaken. ([Location 916](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=916))
+    - Tags: [[orange]] 
+- The essential thing is to be available to others without giving in to despair when the ([Location 917](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=917))
+- natural episodes of life and death follow their course. ([Location 918](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=918))
+- No matter how tenderly he’d felt for his wife, and despite the great sadness he most surely felt, allowing himself to be consumed by grief would have added nothing to his love for her. ([Location 932](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=932))
+    - Tags: [[blue]] 
+- It was more important for him to pray serenely for the deceased and to make her an offering of that serenity. ([Location 934](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=934))
+    - Tags: [[pink]] 
+- It is therefore always better to familiarize ourselves with and prepare ourselves for the kind of suffering we are likely to encounter, some of which will be unavoidable, such as illness, old age, and death, rather than to be caught off guard and sink into anguish. ([Location 940](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=940))
+- peace is a treasure of the mind that is not acquired without effort. ([Location 945](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=945))
+    - Tags: [[blue]] 
+- If we let ourselves be overwhelmed by our personal problems, no matter how tragic, we only increase our difficulties and become a burden on those around us. ([Location 945](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=945))
+    - Tags: [[pink]] 
+- If our mind becomes accustomed to dwelling solely on the pain that events or people inflict on it, one day the most trivial incident will cause it infinite sorrow. ([Location 946](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=946))
+    - Tags: [[orange]] 
+- As the intensity of this feeling grows with practice, everything that happens to us will eventually come to distress us, and peace will find no place within us. ([Location 947](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=947))
+- All manifestations will assume a hostile character and we will rebel bitterly against our fate, to the point of doubting the very meaning of life. ([Location 948](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=948))
+    - Tags: [[blue]] 
+- resilience, ([Location 954](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=954))
+    - Tags: [[orange]] 
+- is often bored, distracted, “compulsively self-reliant,” and not very caring. ([Location 970](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=970))
+    - Tags: [[blue]] 
+- The best gift one can thus give to a child is to manifest loving, open, and peaceful qualities oneself and to let the emotional alchemy work its way. ([Location 973](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=973))
+    - Tags: [[pink]] 
+- Suffering can provide an extraordinary lesson capable of making us aware of the superficiality of many of our daily concerns, of our own fragility, and, above all, of what really counts deep down within us. ([Location 982](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=982))
+- If we do not wish to be confounded by suffering and we want to put it to the best use as a catalyst, we must not allow anxiety and despondency to conquer our mind. ([Location 994](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=994))
+    - Tags: [[orange]] 
+- Shantideva writes: “If there is a cure, what good is discontent? If there is no cure, what good is discontent?” ([Location 996](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=996))
+    - Tags: [[pink]] 
+- Neurologically, we know, emotional reactions to pain vary significantly from person to person, and a considerable percentage of pain sensation is linked to the anxious desire to suppress it. If we allow that anxiety to overwhelm our mind, the most benign pain will soon become unbearable. So our assessment of pain also depends on our mind. It is the mind that reacts to pain with fear, rejection, despondency, or a feeling of powerlessness; instead of being subjected to a single agony, we accumulate a host of them. Having come to grips with this idea, how do we learn to control pain instead of being its victim? Since we can’t escape it, it is better to embrace it than to try to reject it. The pain persists whether we succumb to dejection or hold on to our resilience and desire to live, but in the latter case we maintain our dignity and self-confidence, and that makes a big difference. ([Location 1000](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1000))
+    - Tags: [[orange]] 
+- mental imagery; ([Location 1007](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1007))
+- transform pain by awakening ourselves to love and compassion; ([Location 1008](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1008))
+    - Tags: [[blue]] 
+- developing inner strength. ([Location 1008](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1008))
+    - Tags: [[pink]] 
+- Buddhism has traditionally turned to what modern psychology calls mental imagery to modify the perception of pain. ([Location 1009](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1009))
+- The three methods cited, however, yield inferior results. ([Location 1017](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1017))
+    - Tags: [[orange]] 
+- Using mental imagery When a powerful feeling of desire, envy, pride, aggression, or greed plagues your mind, try to imagine situations that are sources of peace. Transport yourself mentally to the shores of a placid lake or to a high mountaintop overlooking a broad vista. Imagine yourself sitting serenely, your mind as vast and clear as a cloudless sky, as calm as a windless ocean. Experience this calmness. Watch your inner tempests subside and let this feeling of peace grow anew in your mind. Understand that even if your wounds are deep, they do not touch the essential nature of your mind, the fundamental luminosity of pure consciousness. ([Location 1021](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1021))
+    - Tags: [[orange]] 
+- Another method that allows us to manage suffering, emotional as well as physical, is linked to the practice of compassion. ([Location 1027](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1027))
+    - Tags: [[blue]] 
+- “others besides me are afflicted by similar hardships to mine, and sometimes far ([Location 1029](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1029))
+    - Tags: [[pink]] 
+- worse. How I wish that they too could be free of their pain.” ([Location 1029](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1029))
+    - Tags: [[pink]] 
+- But when we experience a powerful sense of empathy with the suffering of others, our impotent resignation gives way to courage, depression to love, narrow-mindedness to openness toward all those around us. Increasing compassion and loving-kindness, the ultimate in positive emotions, develops our readiness to offer relief to the suffering of others while reducing the importance of our own problems. ([Location 1033](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1033))
+    - Tags: [[blue]] 
+- Even when it is crippling, we must ponder whether it has any color, shape, or any other immutable characteristic. ([Location 1037](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1037))
+- We find that the more we try to bring it into focus, the more the pain’s definition becomes blurred. ([Location 1038](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1038))
+    - Tags: [[orange]] 
+- Ultimately we come to see that behind the pain there is a pristine awareness that does not change and that is beyond pain and pleasure. We may then relax our mind and try to allow our pain to rest in that state of pure awareness. This will allow us to stop being the passive victim of pain and to resist or reverse its devastation of our mind. ([Location 1038](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1038))
+    - Tags: [[blue]] 
+- Choedrak acknowledged that he occasionally felt hatred for his torturers, but that he always returned to the practice of meditation on inner peace and compassion. That was what sustained his desire to go on living and ultimately saved him. ([Location 1046](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1046))
+- Another example is that of a man I have known for twenty years who lives in Bumthang province at the heart of the Himalayan kingdom of Bhutan. He was born without arms or legs, and he lives on the outskirts of a village in a little bamboo hut of just a few square yards. He never goes out and barely moves from his mattress on the floor. He came from Tibet forty years ago, carried by fellow refugees, and has lived in this hut ever since. The mere fact that he is still alive is extraordinary in itself, but even more striking is the joy that radiates from him. Every time I see him, he is in the same serene, simple, gentle, ([Location 1056](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1056))
+    - Tags: [[orange]] 
+- and unaffected frame of mind. When we bring him small gifts of food, blankets, a portable radio, he says that there was no need to bring him anything. “What could I possibly need?” he laughs. ([Location 1061](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1061))
+    - Tags: [[orange]] 
+- Training in the exchange of happiness and suffering ([Location 1068](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1068))
+    - Tags: [[orange]] 
+- This visualization is a powerful means to develop benevolence and compassion. It can be carried out anytime and during your day-to-day activities. It does not require you to neglect your own well-being; instead it allows you to adjust your reaction to unavoidable suffering by assigning a new value to it. In fact, identifying clearly your own aspiration to well-being is the first step toward feeling genuine empathy for others’ suffering. Furthermore, this attitude significantly increases your enthusiasm and readiness to work for the good of others. ([Location 1080](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1080))
+- When we look outward, we solidify the world by projecting onto it attributes that are in no way inherent to it. ([Location 1092](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1092))
+- We take it for granted that we see things as they are and rarely question that opinion. ([Location 1094](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1094))
+- We spontaneously assign intrinsic qualities to things and people, thinking “this is beautiful, that is ugly,” without realizing that our mind superimposes these attributes upon what we perceive. ([Location 1094](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1094))
+    - Tags: [[orange]] 
+- Among the many aspects of our confusion, the most radically disruptive is the insistance on the concept of a personal identity: the ego. ([Location 1110](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1110))
+- We create the illusion of being separate from the world, hoping thereby to avert suffering. ([Location 1120](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1120))
+    - Tags: [[blue]] 
+- Each of us is indeed a unique person, and it is fine to recognize and appreciate who we are. ([Location 1124](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1124))
+    - Tags: [[pink]] 
+- Our experience is simply the content of the mental flow, the continuum of consciousness, and there is no justification for seeing the self as an entirely distinct entity within that flow. ([Location 1126](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1126))
+    - Tags: [[orange]] 
+- We are so accustomed to affixing the “I” label to that mental flow, however, that we come to identify with it and to fear its disappearance. ([Location 1128](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1128))
+    - Tags: [[blue]] 
+- the second you realized that your “I” was not a target. Likewise, if someone punches you, your irritation will be long-lasting. But consider the physical pain—it fades quickly and is soon imperceptible. The only thing that continues to hurt is the ego’s wound. A friend of mine had come to Nepal from Hong Kong to attend some teachings. Thousands of people had gathered and were jam-packed on the floor of our monastery’s vast courtyard. As my friend was moving back and forth trying to seat herself a bit more comfortably, cross-legged on her cushion, someone punched her in the back. As she told me later: “I felt irritated for a whole hour. How could someone attending Buddhist teachings behave in such a rude and uncompassionate way toward me, who had come so far to receive these teachings! But after a while I realized that although my irritation had been long-lasting, the actual physical pain had faded quickly and had soon become imperceptible. The only thing that continued to hurt was my wounded ego! I had one minute of body pain and fifty-nine minutes of ego pain!” When we see the self as a mere concept and not as an autonomous entity that we must protect and satisfy at all costs, we react in completely different ways. ([Location 1138](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1138))
+    - Tags: [[blue]] 
+- In a way, you might say that the belief in an established self is one of the dominant characteristics of our civilization. ([Location 1173](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1173))
+    - Tags: [[orange]] 
+- The ego can attain only a contrived confidence built on insubstantial attributes—power, success, beauty and physical strength, intellectual brilliance, the opinions of others—and on whatever we believe to constitute our “identity,” our image, as we see it and as others see it. ([Location 1175](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1175))
+- When things change and the gap with reality becomes too wide, the ego becomes irritated, freezes up, and falters. Self-confidence collapses and all that is left is frustration and suffering. ([Location 1177](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1177))
+    - Tags: [[blue]] 
+- For Buddhism, paradoxically, genuine self-confidence is the natural quality of egolessness. ([Location 1178](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1178))
+    - Tags: [[pink]] 
+- The fact is, the sense of security derived from that illusion is eminently fragile. ([Location 1180](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1180))
+    - Tags: [[orange]] 
+- Genuine confidence comes from an awareness of a basic quality of our mind and of our potential for transformation and ([Location 1180](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1180))
+- flourishing, what Buddhism calls buddha nature, which is present in all of us. ([Location 1181](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1181))
+- Such recognition imparts peaceful strength that cannot be threatened by external circumstances or inner fears, a freedom that transcends self-absorption and anxiety. ([Location 1182](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1182))
+    - Tags: [[blue]] 
+- Another widespread idea is that without a vigorous sense of self we would barely feel emotions and life would become incredibly dreary. ([Location 1183](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1183))
+    - Tags: [[orange]] 
+- Experience tells us that those who have managed, even partially, to free themselves of the ego’s diktat think and act with spontaneity and freedom. ([Location 1188](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1188))
+    - Tags: [[orange]] 
+- “people gifted with exceptionally human qualities.” ([Location 1190](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1190))
+    - Tags: [[blue]] 
+- “an impression of kindness, a way of being that others can sense and appreciate, and, unlike so many charismatic charlatans, perfect harmony between their private and public lives.” ([Location 1191](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1191))
+    - Tags: [[blue]] 
+- “an absence of ego. ([Location 1193](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1193))
+    - Tags: [[blue]] 
+- “people instinctively want to be in their company and how, even if they can’t always explain why, they find their presence enriching. In essence, they emanate goodness.” ([Location 1195](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1195))
+    - Tags: [[blue]] 
+- The fact is, the less influenced we are by the sense of our self’s importance, the easier it is to acquire lasting inner strength. ([Location 1204](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1204))
+    - Tags: [[pink]] 
+- self-importance is a target open to all sorts of mental projectiles—jealousy, fear, greed, repulsion—that perpetually destabilize it. ([Location 1205](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1205))
+    - Tags: [[pink]] 
+- The self is always “there,” ready to be wounded or gratified. ([Location 1208](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1208))
+    - Tags: [[orange]] 
+- When we explore the body, the speech, and the mind, we come to see that this self is nothing but a word, a label, a convention, a designation. ([Location 1214](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1214))
+- The problem is, this label thinks it’s the real deal. ([Location 1215](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1215))
+    - Tags: [[blue]] 
+- Buddhism therefore concludes that the self is just a name we give to a continuum, just as we name a river the Ganges or the Mississippi. ([Location 1224](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1224))
+    - Tags: [[pink]] 
+- The “I” lives in the present; it is the “I” that thinks “I’m hungry” or “I exist.” It is the locus of consciousness, thoughts, judgment, and will. It is the experience of our current state. ([Location 1230](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1230))
+    - Tags: [[orange]] 
+- The notion of the person is valid and healthy so long as we consider it simply as connoting the overall relationship between the consciousness, the body, and the environment. ([Location 1237](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1237))
+- It becomes inappropriate and unhealthy when we consider it to be an autonomous entity. ([Location 1238](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1238))
+    - Tags: [[blue]] 
+- If the body is cut into cross sections, at what point does the self begin to vanish? ([Location 1243](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1243))
+    - Tags: [[blue]] 
+- But the fact of thought proves absolutely nothing about the existence of the self, because the “I” is nothing more than the current contents of our mental flow, which changes from moment to moment. ([Location 1245](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1245))
+    - Tags: [[pink]] 
+- The idea that the self might be nothing but a concept runs counter to the intuition of most Western thinkers. ([Location 1248](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1248))
+    - Tags: [[orange]] 
+- Perplexed and stunned by the wall, the mind cannot pass through it. ([Location 1291](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1291))
+    - Tags: [[blue]] 
+- But the wall is invisible because it does not really exist. ([Location 1292](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1292))
+    - Tags: [[pink]] 
+- It is an invention of the mind. ([Location 1292](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1292))
+    - Tags: [[orange]] 
+- Our attachment to the ego is fundamentally linked to the suffering we feel and the suffering we inflict on others. ([Location 1293](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1293))
+    - Tags: [[orange]] 
+- It allows us to approach every person and every situation with natural ease, benevolence, fortitude, and serenity. ([Location 1295](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1295))
+- With no expectation of gain and no fear of loss, we are free to give and to receive. We no longer have the need to think, speak, or act in an affected and selfish way. ([Location 1296](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1296))
+    - Tags: [[blue]] 
+- In clinging to the cramped universe of the ego, we have a tendency to be concerned exclusively with ourselves. ([Location 1297](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1297))
+    - Tags: [[pink]] 
+- The least setback upsets and discourages us. ([Location 1298](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1298))
+    - Tags: [[orange]] 
+- The narrow world of the self is like a glass of water into which a handful of salt is thrown—the water becomes undrinkable. ([Location 1299](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1299))
+    - Tags: [[pink]] 
+- When the self ceases to be the most important thing in the world, we find it easier to focus our concern on others. The sight of their suffering bolsters our courage and resolve to work on their behalf, instead of crippling us with our own emotional distress. ([Location 1301](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1301))
+- So long as the sense of the ego’s importance has control over our being, we will never know lasting peace. ([Location 1306](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1306))
+    - Tags: [[orange]] 
+- Unable to imagine an end to our pain, we withdraw into ourselves and dread every coming moment. ([Location 1315](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1315))
+    - Tags: [[orange]] 
+- Happiness is bound up with distress when we lack adequate inner resources to sustain certain basic elements of sukha: the joy of being alive, the conviction that we still have the ability to flourish, an understanding of the ephemeral nature of all things. ([Location 1318](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1318))
+- Great external upheavals aren’t necessarily what distress us most. ([Location 1320](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1320))
+    - Tags: [[blue]] 
+- Most of the time it is not outward events but our own mind and negative emotions that make us unable to maintain our inner stability and drag us down. ([Location 1323](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1323))
+    - Tags: [[pink]] 
+- Such emotional distress is notably resistant to soothing, and every attempt to be rid of it seems doomed to failure. ([Location 1326](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1326))
+    - Tags: [[orange]] 
+- Thoughts can be our best friends and our worst enemies. ([Location 1328](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1328))
+- Nothing is right outside because nothing is right inside. ([Location 1330](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1330))
+    - Tags: [[blue]] 
+- When we get a close look at the tenor of our everyday thoughts, we realize the extent to which they color the inner film that we project onto the world. ([Location 1331](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1331))
+    - Tags: [[pink]] 
+- Yet this knot in our chest was tied not by our unfaithful husband, our object of desire, our dishonest colleague, or our unjust accuser, but by our own mind. ([Location 1336](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1336))
+    - Tags: [[orange]] 
+- It is the result of mental constructs that, as they accumulate and solidify, give the illusion ([Location 1337](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1337))
+    - Tags: [[blue]] 
+- of being external and real. ([Location 1338](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1338))
+    - Tags: [[blue]] 
+- What provides the raw material for that knot and allows it to form within us is an exacerbated sense of self-importance. ([Location 1338](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1338))
+    - Tags: [[pink]] 
+- “In depression, all that is happening in the present is the anticipation of pain in the future, and the present qua present no longer exists at all.” ([Location 1340](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1340))
+    - Tags: [[orange]] 
+- The inability to manage our thoughts proves to be the principal cause of suffering. ([Location 1342](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1342))
+    - Tags: [[blue]] 
+- Learning to tone down the ceaseless racket of disturbing thoughts is a decisive stage on the road to inner peace. ([Location 1342](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1342))
+    - Tags: [[pink]] 
+- actualized sukha, ([Location 1348](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1348))
+    - Tags: [[orange]] 
+- First, we have to focus our mind on the raw power of inner suffering. ([Location 1353](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1353))
+    - Tags: [[orange]] 
+- we should make it the object of our ([Location 1354](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1354))
+- meditation, without ruminating over the events that caused the pain or reviewing every freeze-frame from the movie of our life. ([Location 1354](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1354))
+- Will a man who has just been struck in the chest by an arrow ask himself, “What wood is the arrow made of? What kind of bird do the feathers come from? What craftsman made it? Was he a good man or a scoundrel?” He certainly won’t. His first concern will be to tear the arrow from his chest. ([Location 1356](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1356))
+    - Tags: [[blue]] 
+- When a painful emotion strikes us, the most urgent thing is to look at it head-on and to identify the immediate thoughts that triggered and are fanning it. Then by fixing our inner gaze on the emotion itself, we can gradually dissolve it like snow in sunshine. Furthermore, once the strength of the emotion has been sapped, the causes that triggered it will seem less tragic and we will have won ourselves the chance to break free from the vicious circle of negative thoughts. ([Location 1358](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1358))
+    - Tags: [[pink]] 
+- How can we prevent the perpetual reemergence of disturbing thoughts? ([Location 1362](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1362))
+    - Tags: [[orange]] 
+- Closely identifying with every thought, we follow it and reinforce it with boundless emotional entanglements. ([Location 1364](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1364))
+- So we need to take a closer look at mind itself. ([Location 1365](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1365))
+    - Tags: [[blue]] 
+- The first things we notice are the currents of thought that are continuously flowing without our even being aware of them. ([Location 1365](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1365))
+    - Tags: [[pink]] 
+- Like it or not, countless thoughts born of our sensations, our memories, and our imagination are forever streaming through our mind. ([Location 1366](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1366))
+    - Tags: [[orange]] 
+- But there is also a quality of mind that is always present no matter what kind of thoughts we entertain. ([Location 1367](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1367))
+    - Tags: [[blue]] 
+- That quality is the primary consciousness underlying all thought. ([Location 1367](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1367))
+    - Tags: [[pink]] 
+- pure consciousness, ([Location 1369](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1369))
+    - Tags: [[orange]] 
+- it exists even in the absence of mental constructs. ([Location 1369](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1369))
+    - Tags: [[orange]] 
+- All we find is the quality of knowing, but no intrinsic features of their own. ([Location 1372](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1372))
+    - Tags: [[orange]] 
+- In pure consciousness we experience the mind as empty of inherent existence. ([Location 1373](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1373))
+- Instead of unleashing that avalanche, we can examine the angry thought itself and come to see that it has been nothing but smoke and mirrors from the start. ([Location 1376](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1376))
+- Thoughts emerge from pure consciousness and are then reabsorbed in it, just as waves emerge from the ocean and dissolve into it again. ([Location 1378](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1378))
+    - Tags: [[blue]] 
+- Once we understand this, we have taken a great leap toward inner peace. ([Location 1378](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1378))
+    - Tags: [[pink]] 
+- From that moment, our thoughts have lost much of their power to disturb us. ([Location 1379](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1379))
+    - Tags: [[orange]] 
+- To familiarize yourself with this method, when a thought arises, try to see where it came from; when it disappears, ask yourself where it went. ([Location 1379](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1379))
+- In that brief moment when your mind is not encumbered by discursive thoughts, contemplate its nature. ([Location 1380](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1380))
+    - Tags: [[blue]] 
+- Remain in a state of simplicity that is free of mental constructs, yet perfectly aware; beyond effort, yet alert and mindful. ([Location 1393](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1393))
+    - Tags: [[orange]] 
+- As the pain that afflicts us grows stronger, our mental universe contracts. ([Location 1396](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1396))
+    - Tags: [[orange]] 
+- We realize that our suffering was simply forgetfulness of our true nature, which remains unchanged beneath the fog of emotions. ([Location 1399](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1399))
+    - Tags: [[blue]] 
+- One of the best ways to achieve that state is to meditate on feelings that transcend our mental afflictions. ([Location 1402](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1402))
+    - Tags: [[orange]] 
+- It reflects the mistaken perception that causes us to attribute inherent qualities to external objects when in fact those qualities are dependent on our own minds. ([Location 1417](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1417))
+    - Tags: [[orange]] 
+- Systematically blaming others and holding them responsible for our suffering is the surest way to lead an unhappy life. ([Location 1418](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1418))
+- It is by transforming our minds that we can transform our world. ([Location 1419](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1419))
+    - Tags: [[blue]] 
+- We should not underestimate the consequences of our acts, words, and thoughts. ([Location 1420](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1420))
+    - Tags: [[pink]] 
+- If we alternate between selfless and harmful behaviors, we ought to expect to get a sharply contrasting blend of joys and sufferings. ([Location 1421](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1421))
+    - Tags: [[orange]] 
+- Despite their rich terminology for describing a wide range of mental events, the traditional languages of Buddhism have no word for emotion as such. ([Location 1463](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1463))
+    - Tags: [[orange]] 
+- That may be because according to Buddhism all types of mental activity, including rational ([Location 1464](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1464))
+    - Tags: [[blue]] 
+- thought, are associated with some kind of feeling, be it one of pleasure, pain, or indifference. ([Location 1465](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1465))
+    - Tags: [[blue]] 
+- Every region in the brain that has been identified with some aspect of emotion has also been identified with aspects of cognition. ([Location 1469](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1469))
+    - Tags: [[pink]] 
+- There are no “emotion centers” in the brain. ([Location 1470](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1470))
+    - Tags: [[orange]] 
+- the word emotion covers any feeling that moves the mind, be it toward a harmful, a neutral, or a positive thought. ([Location 1475](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1475))
+    - Tags: [[orange]] 
+- Emotion is that which conditions the mind and prompts it to adopt a particular perspective, a certain way of seeing things. ([Location 1476](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1476))
+- The easiest way to distinguish between our emotions is to examine their motivation (mental attitude and objective) and their results. ([Location 1478](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1478))
+    - Tags: [[blue]] 
+- But to get angry “on the right grounds and against the right persons and also in the right manner and at the right moment and for the right length of time”—that’s not easy. ([Location 1513](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1513))
+- Buddhism, however, goes further by saying that hostility is always negative because it generates and perpetuates hatred. ([Location 1517](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1517))
+    - Tags: [[orange]] 
+- The Dalai Lama was once asked about the best course of action to take when an intruder enters a room and threatens its occupants with a gun. He responded in a tone that was half serious and half playful: “I’d shoot him in the legs to neutralize him, then I’d go over and stroke his head and take care of him.” ([Location 1518](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1518))
+- Ekman and Davidson conclude: “Rather than focusing on increasing consciousness of one’s inner state, as Buddhism does, the emphasis in psychology has instead been on learning how to reappraise situations, or control (regulate) emotional behavior and expressions.”10 Psychoanalysis tries to make the patient aware of past tendencies and events, fixations, and blocks that lead to the miseries of neurosis and prevent her from functioning normally in the world. Buddhism takes a different position. It stresses enhanced awareness of the formation of thoughts, which allows for the immediate identification of an angry thought as it arises, and for its deconstruction the next instant, the way a picture drawn on the surface of water melts away as it is sketched. ([Location 1522](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1522))
+    - Tags: [[blue]] 
+- centered on the present moment. ([Location 1531](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1531))
+    - Tags: [[pink]] 
+- instead of developing and analyzing the endless film loop of our psychic history. ([Location 1532](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1532))
+    - Tags: [[pink]] 
+- What really matters is the nature of our living experience, whether it is optimal or afflictive. ([Location 1534](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1534))
+    - Tags: [[blue]] 
+- If we become expert at freeing ourselves of all afflictive mental states as they take form, the actual content of the past events that might have triggered them becomes quite irrelevant. ([Location 1535](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1535))
+    - Tags: [[pink]] 
+- Furthermore, being able to repeatedly free oneself of such afflictive thoughts as they occur gradually erodes their very tendency to form again, until they stop appearing altogether. ([Location 1536](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1536))
+    - Tags: [[orange]] 
+- “Take care of the minutes, for the hours will take care of themselves,” ([Location 1539](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1539))
+    - Tags: [[blue]] 
+- This is the best path to gradual change. ([Location 1539](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1539))
+- While it is certainly important to treat psychological problems that handicap or even paralyze people’s lives, it is essential to note that happiness is not the mere absence of unhappiness. ([Location 1546](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1546))
+    - Tags: [[orange]] 
+- Merely eliminating sadness and depression is no automatic guarantee of joy and happiness. ([Location 1551](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1551))
+    - Tags: [[orange]] 
+- It is therefore necessary not only to rid oneself of negative emotions but also to develop positive ones. ([Location 1552](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1552))
+    - Tags: [[orange]] 
+- We can take this a step further by asserting that it is not enough to abstain from harming others (the elimination of malice), and that this abstention must be augmented by a determined effort to help them (the development and implementation of altruism). ([Location 1553](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1553))
+    - Tags: [[blue]] 
+- Unlike depression, which often sends us into a tailspin, positive emotions create an upward spiral “by building resilience and influencing the ways people cope with adversity.”12 ([Location 1559](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1559))
+    - Tags: [[pink]] 
+- (klesha ([Location 1562](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1562))
+- disturbing emotions tend to distort our perception of reality and to prevent us from seeing it as it really is. Attachment idealizes its object, hatred demonizes it. ([Location 1565](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1565))
+- These emotions make us believe that beauty or ugliness is inherent in people and in things, even though it is the mind that decides if they are “attractive” or “repulsive.” ([Location 1566](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1566))
+    - Tags: [[blue]] 
+- This misapprehension opens a gap between the way things appear and the way they are. ([Location 1568](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1568))
+    - Tags: [[pink]] 
+- It clouds our judgment and makes us think and act as if these qualities were not largely based on how we see them. ([Location 1568](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1568))
+    - Tags: [[orange]] 
+- Selfless love reflects some understanding of the intimate interdependence of beings, of our happiness and that of others, a notion that is attuned to reality, ([Location 1570](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1570))
+    - Tags: [[orange]] 
+- while selfishness opens an ever wider abyss between us and other people. ([Location 1571](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1571))
+- The essential thing, therefore, is to identify the types of mental activity that lead to well-being and those that lead to suffering, even when the latter afford us brief instances of pleasure. ([Location 1572](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1572))
+    - Tags: [[blue]] 
+- Whatever the case may be, the best means of analysis is introspection and self-observation. ([Location 1576](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1576))
+    - Tags: [[orange]] 
+- identify the way in which the emotions arise. ([Location 1577](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1577))
+    - Tags: [[orange]] 
+- This requires the cultivation of watchful ([Location 1578](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1578))
+    - Tags: [[blue]] 
+- attention to the unfolding of our mental activity, along with mindfulness of the distinction between destructive emotions and those that nourish happiness. ([Location 1578](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1578))
+    - Tags: [[blue]] 
+- Buddhism’s sole objective in treating the emotions is to free us from the fundamental causes of suffering. ([Location 1588](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1588))
+    - Tags: [[orange]] 
+- It starts with the principle that certain mental events are afflictive regardless of the intensity or context of their formation. ([Location 1589](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1589))
+    - Tags: [[blue]] 
+- That is particularly true for the three mental processes considered to be basic mental “poisons”: desire (in the sense of craving or tormenting greed), hatred (the wish to harm), and delusion (which distorts our perception of reality). Buddhism usually includes pride and envy as well; together, these are the five major poisons associated with some sixty negative mental states. The texts also refer to “84,000 negative emotions.” ([Location 1590](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1590))
+    - Tags: [[pink]] 
+- One fundamental point emphasized by Buddhism is that two diametrically opposed mental processes cannot form simultaneously. ([Location 1662](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1662))
+- “One movement precludes the other; when you extend a friendly hand, you cannot make a fist.”4 ([Location 1664](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1664))
+    - Tags: [[pink]] 
+- It is not a question of suppressing hatred but of turning the mind to something diametrically opposed to it: love and compassion. ([Location 1670](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1670))
+    - Tags: [[orange]] 
+- It is equally impossible for greed or desire to coexist with inner freedom. ([Location 1674](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1674))
+    - Tags: [[blue]] 
+- As for anger, it can be neutralized by patience. ([Location 1682](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1682))
+    - Tags: [[pink]] 
+- There definitely are mental states that are completely incompatible: pride and humility, envy and joy, generosity and avarice, calm and agitation. ([Location 1691](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1691))
+    - Tags: [[pink]] 
+- The second method is liberation, ([Location 1694](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1694))
+    - Tags: [[pink]] 
+- we use a single antidote that acts at a more basic level on all our mental afflictions. ([Location 1695](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1695))
+    - Tags: [[pink]] 
+- It is neither possible nor desirable to suppress the mind’s natural activities, and it would be futile and unhealthy to try to block its thoughts. ([Location 1696](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1696))
+    - Tags: [[blue]] 
+- When we examine the emotions, we find that they are dynamic flows without any inherent substance of their own—in Buddhist terms, “empty” of real existence. ([Location 1696](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1696))
+    - Tags: [[orange]] 
+- What would happen if, instead of counteracting a disturbing emotion with its opposite—anger with patience, for instance—we were simply to contemplate the nature of the emotion itself? ([Location 1698](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1698))
+- You are overwhelmed by a sudden tide of anger. You feel as if there’s no choice but to let it sweep you away. But look closely. It is nothing more than a thought. When you see a great black cloud in a stormy sky, it seems so solid that you could sit on it. But when you approach it, there’s nothing to grab on to; it is only vapor and wind. The experience of anger is like having a high fever. It is a temporary condition, and you do not need to identify with it. The more you look at anger in this manner, the more it evaporates under your gaze, like white frost under the sun’s rays. ([Location 1699](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1699))
+    - Tags: [[orange]] 
+- Unless we pursue this investigation, we end up being fixated on the object of anger and overtaken by destructive emotion. ([Location 1706](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1706))
+- Remember that a thought is only the fleeting conjunction of myriad factors and circumstances. It does not exist by itself. When a thought arises, recognize its empty nature. It will immediately lose its power to elicit the next thought, and the chain of delusion will be broken. Recognize that emptiness of thoughts and allow your thoughts to rest a moment in the relaxed mind so that the mind’s natural clarity remains limpid and unchanged.6 ([Location 1708](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1708))
+    - Tags: [[blue]] 
+- liberation from anger at the moment it arises ([Location 1712](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1712))
+    - Tags: [[orange]] 
+- It is at the very moment of anger’s emergence that we must recognize its empty nature. ([Location 1715](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1715))
+    - Tags: [[blue]] 
+- Once we get used to looking at thoughts the moment they appear and then allowing them to dissipate before they overwhelm the mind, it is much easier to maintain control over the mind and to manage the conflictive emotions in our active lives. ([Location 1719](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1719))
+    - Tags: [[orange]] 
+- To spur our vigilance and hard work, we should try to recall the bitter suffering that destructive emotions have caused us. ([Location 1720](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1720))
+    - Tags: [[blue]] 
+- When we look closely at our emotions, we find that, like musical notes, they are made up of numerous elements, or harmonics. ([Location 1723](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1723))
+    - Tags: [[orange]] 
+- Anger rouses us to action and often allows us to overcome obstacles. ([Location 1724](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1724))
+    - Tags: [[blue]] 
+- Desire has an element of bliss that is distinct from attachment; ([Location 1725](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1725))
+    - Tags: [[pink]] 
+- pride, an element of self-confidence that can be firm without lapsing into arrogance; ([Location 1725](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1725))
+- envy, a drive to act that cannot be confused with the unhealthy dissatisfaction it entails. ([Location 1726](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1726))
+    - Tags: [[orange]] 
+- it is possible to recognize and use the positive facets of a thought generally considered to be negative. ([Location 1727](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1727))
+- what gives an emotion its noxious quality is the way we identify with and cling to it. ([Location 1728](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1728))
+    - Tags: [[blue]] 
+- The pure consciousness of which we have spoken, and which is the source of all mental events, is neither good nor bad in and of itself. ([Location 1731](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1731))
+    - Tags: [[orange]] 
+- Thoughts become disturbing only once the process of “fixation” is set in motion, when we attach ourselves to the qualities we attribute to the object of the emotion and to the self that is feeling it. ([Location 1732](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1732))
+    - Tags: [[blue]] 
+- Once we learn to avoid that fixation, we do not need to bring in antidotes from the outside; the emotions themselves act as catalysts for freeing ourselves of their baneful influence. ([Location 1733](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1733))
+    - Tags: [[pink]] 
+- This kind of practice requires great command of the language of the emotions. ([Location 1737](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1737))
+- Allowing powerful emotions to express themselves without falling prey to them is playing with fire, or rather, trying to snatch a jewel from a snake’s head. ([Location 1737](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1737))
+    - Tags: [[blue]] 
+- If we succeed, our understanding of the nature of the mind will grow accordingly; ([Location 1738](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1738))
+    - Tags: [[orange]] 
+- We have seen first how we can counteract each negative emotion with its specific antidote; then, how recognizing the empty nature of thoughts can neutralize any afflictive emotion; and, finally, how we can also use the negative emotion in a positive way. The contradictions here are only apparent ones. These techniques are simply different ways of tackling the same problem and achieving the same result: not to fall victim to the afflictive emotions and the suffering they lead to. ([Location 1741](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1741))
+    - Tags: [[orange]] 
+- We must never forget, however, that the source of disturbing emotions is attachment to the self. ([Location 1750](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1750))
+- A concept can be dispelled, but only by the wisdom that perceives that the ego is devoid of intrinsic existence. ([Location 1752](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1752))
+    - Tags: [[blue]] 
+- “refractory” ([Location 1755](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1755))
+    - Tags: [[pink]] 
+- during which we are aware only of what justifies our anger or any other strong emotion. ([Location 1756](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1756))
+    - Tags: [[orange]] 
+- “The passions entrap us. A really angry man performs a truly dramatic, brightly lit tragedy in his own head, laying out all his enemy’s faults, ruses, preparations, scorn, plans for the future. Everything is interpreted through the lens of anger, and the anger is thereby strengthened.” ([Location 1758](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1758))
+- “Positive anger,” or rather indignation, can disrupt the status quo of an unacceptable situation or make someone understand that she is acting hurtfully, ([Location 1763](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1763))
+    - Tags: [[orange]] 
+- but such anger, inspired solely by selflessness, is rare. ([Location 1764](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1764))
+    - Tags: [[blue]] 
+- More often than not, our anger will have hurt someone while leaving us in a state of deep dissatisfaction. ([Location 1765](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1765))
+    - Tags: [[orange]] 
+- We should never underestimate the power of the mind to create and crystallize worlds of hatred, greed, jealousy, euphoria, or despair. ([Location 1765](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1765))
+    - Tags: [[pink]] 
+- We can “see them coming” ([Location 1767](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1767))
+    - Tags: [[orange]] 
+- At a later stage, growing knowledge and mastery of the mind will allow us to deal with our emotions at the very moment they appear, as they express themselves. ([Location 1770](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1770))
+    - Tags: [[orange]] 
+- Contrary to what one might imagine, inner freedom with respect to the emotions leads to neither apathy nor indifference. ([Location 1774](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1774))
+- Recognizing the emotion at the very ([Location 1793](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1793))
+    - Tags: [[orange]] 
+- moment it forms, ([Location 1794](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1794))
+    - Tags: [[orange]] 
+- understanding that it is but a thought, devoid of intrinsic existence, ([Location 1794](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1794))
+- and allowing it to dissipate spontaneously so as to avoid the chain reaction it would normally unleash are all at the heart of Buddhist contemplative practice. ([Location 1794](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1794))
+    - Tags: [[blue]] 
+- We have to understand that we are enormously resistant to change. ([Location 1813](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1813))
+    - Tags: [[orange]] 
+- Most of the time we don’t even want to hear about the possibility of change, and we prefer to sneer at those who seek alternative solutions. ([Location 1815](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1815))
+- Nobody really wants to be angry, jealous, or swollen with pride, but every time we give in to those emotions, our excuse is that it’s perfectly normal, just a part of life’s ups and downs. ([Location 1815](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1815))
+    - Tags: [[blue]] 
+- don’t touch the essence, because that calls for real work. ([Location 1818](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1818))
+    - Tags: [[pink]] 
+- On the contrary, as soon we’ve decided to undergo such an inner metamorphosis, even if we inevitably run into a few difficulties, we soon discover a joy in the work that makes each step a new satisfaction. ([Location 1821](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1821))
+    - Tags: [[orange]] 
+- chronic selfishness to friendly altruism. ([Location 1823](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1823))
+- But there is a crucial difference between the deep aspirations that we generate throughout our lives and the desire that is solely concentrated on craving and obsession. ([Location 1835](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1835))
+    - Tags: [[orange]] 
+- Desire can nourish our existence and can poison it. ([Location 1837](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1837))
+- It can also mature, free itself, and deepen into the aspiration of making oneself a better human being, of working for the good of others or of achieving spiritual awakening. ([Location 1838](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1838))
+    - Tags: [[blue]] 
+- make the distinction between desire, which is essentially a blind force, and aspiration, which is inspired by motivation and attitude. ([Location 1839](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1839))
+    - Tags: [[pink]] 
+- As natural as it is, desire degenerates into a mental toxin as soon as it becomes craving, an obsession, or an unmitigated attachment. ([Location 1843](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1843))
+    - Tags: [[orange]] 
+- It is also illusory, in the sense that we ultimately have very little control over what we think we possess. ([Location 1847](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1847))
+- Do we want our actions to promote joy in our lives, or do we just want to make money and achieve a certain status in society? ([Location 1852](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1852))
+    - Tags: [[blue]] 
+- “What do I really want out of life?” ([Location 1859](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1859))
+    - Tags: [[orange]] 
+- The first thing to note is that all passionate desire—as opposed to such primary sensations as hunger or thirst—is foreshadowed by a feeling and a mental representation. ([Location 1871](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1871))
+- but the representation always precedes the active desire because its object must be reflected in our ([Location 1875](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1875))
+    - Tags: [[orange]] 
+- thoughts. ([Location 1876](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1876))
+    - Tags: [[orange]] 
+- It considers desirability to be an inherent characteristic of a given person, whose qualities it exaggerates and whose defects it minimizes. ([Location 1876](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1876))
+- “Desire embellishes the objects on which it rests its wings of fire,” ([Location 1877](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1877))
+    - Tags: [[blue]] 
+- Generally, once mental images linked to a desire begin to build up in the mind, one either satisfies the desire or suppresses it. The former action represents a surrender of self-control, the second initiates a conflict. The inner conflict created by suppression is always a source of distress. On the other hand, the option of indulging a desire is like saying: “Why make everything so complicated? Let’s satisfy the desire and have done with it.” The problem is, you’re never done with it: satiation is merely a respite. The mental imagery that desire is continuously creating very quickly reemerges. The more frequently we assuage our desires, the more these images multiply, intrude, and constrain us. The more salt water we drink, the thirstier we become. The repeated reinforcement of mental images leads to addiction and dependency, mental and physical. Once we reach that stage, the experience of desire is felt more like servitude than pleasure. We have lost our freedom. ([Location 1879](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1879))
+    - Tags: [[pink]] 
+- Studies indicate that different regions of the brain and neuronal circuits are in play when we “want” something and when we “like” it. ([Location 1908](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1908))
+    - Tags: [[orange]] 
+- We reach the point of wanting without liking. ([Location 1910](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1910))
+- Not being attached means not that we love the person less, but that we are not primarily focused on self-love through the love we claim to have for the other. ([Location 1918](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1918))
+    - Tags: [[pink]] 
+- Altruistic love is the joy of sharing life with those around us—our friends, our lovers and companions, our wife or husband—and of contributing to their happiness. We love them for who they are and not through the distorting lens of self-centeredness. We are concerned for the other’s happiness, and instead of wanting to possess him, we feel responsible for his well-being. Instead of anxiously awaiting some gratification from him, we can receive his reciprocal love joyfully. ([Location 1919](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1919))
+    - Tags: [[blue]] 
+- we try to extend that love even further. ([Location 1923](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1923))
+    - Tags: [[pink]] 
+- In Nepal, for example, all women older than oneself are addressed as “big sister” and those younger as “little sister.” Such open, altruistic, and caring kindness, far from diminishing the love we bear for our nearest and dearest, only increases and ornaments it. ([Location 1930](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1930))
+    - Tags: [[orange]] 
+- attachment. ([Location 1935](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1935))
+- The sun ceases to shine in all directions; ([Location 1936](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1936))
+- Selfless love is the highest expression of human nature that has not been obscured and distorted by the manipulations of the ego. ([Location 1938](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1938))
+    - Tags: [[blue]] 
+- Selfless love opens an inner door that renders self-importance, and hence fear, inoperative. ([Location 1939](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1939))
+    - Tags: [[pink]] 
+- It allows us to give joyfully and to receive gratefully. ([Location 1939](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1939))
+- By giving in to anger, we are not necessarily harming our enemy but we are definitely harming ourselves. We lose our sense of inner peace, we do everything wrong, we cannot sleep well, we put off our guests or we cast furious glances at those who have the impudence of being in our way. If we have a pet, we forget to feed it. We make life impossible for those who live with us, and even our dearest friends are kept at a distance. Since there are fewer and fewer people who sympathize with us, we feel more and more lonely. . . . To what end? Even if we allow our rage to go all the way, we will never eliminate all our enemies. Do you know of anyone who ever has? As long as we harbor that inner enemy of anger or hatred, however successful we are at destroying our outer enemies today, others will emerge tomorrow.” ([Location 1972](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=1972))
+- What a relief it is for the burdened man who has long walked through the world of suffering to lay down his heavy and useless load. LONGCHEN RABJAM ([Location 2107](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2107))
+    - Tags: [[orange]] 
+- Indeed it is a commonplace in the West that freedom means being able to do whatever we want and to act on any of our impulses. ([Location 2111](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2111))
+- If we let the hounds of craving, jealousy, arrogance, and resentment run amok in our mind, they will soon take over. ([Location 2116](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2116))
+    - Tags: [[pink]] 
+- Conversely, inner freedom is a vast, clear, and serene space that dispels pain and nourishes peace. ([Location 2117](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2117))
+    - Tags: [[blue]] 
+- It means taking life into one’s own hand, instead of abandoning it to tendencies created by habit and mental confusion. ([Location 2120](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2120))
+    - Tags: [[orange]] 
+- In daily life this freedom allows us to be open and patient with others while remaining committed to the direction we have chosen to take in life. ([Location 2122](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2122))
+    - Tags: [[blue]] 
+- Understanding that we are neither perfect nor completely happy is not a weakness. It is a very healthy acknowledgment that has nothing to do with self-pity, pessimism, or a lack of self-confidence. ([Location 2128](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2128))
+    - Tags: [[orange]] 
+- renunciation—a ([Location 2130](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2130))
+    - Tags: [[orange]] 
+- But true renunciation is more like a bird soaring into the sky when its cage is opened. Suddenly the endless concerns that had oppressed the mind are gone, allowing the free expression of inner potential. ([Location 2135](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2135))
+- We are like weary marchers, carrying heavy bags filled with a combination of provisions and stones. Wouldn’t the smart thing be to set our bag down for a moment to sort it out and lighten our load? ([Location 2137](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2137))
+    - Tags: [[blue]] 
+- Renunciation is not about depriving ourselves of that which brings us joy and happiness—that would be absurd; it is about abandoning what causes us inexhaustible and relentless distress. ([Location 2138](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2138))
+    - Tags: [[pink]] 
+- It is about having the courage to rid ourselves of dependency on the root causes of suffering. To do this, we first have to identify and recognize these causes and then become mindful of them in our daily life. ([Location 2139](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2139))
+    - Tags: [[orange]] 
+- If we do not take the time to do this, we can easily fool ourselves by overlooking the relevant causes. ([Location 2141](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2141))
+- It comes down to asking ourselves, with respect to certain aspects of our lives: “Is this going to make me happier?” ([Location 2143](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2143))
+- Genuine happiness—as opposed to contrived euphoria—endures through life’s ups and downs. ([Location 2144](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2144))
+    - Tags: [[blue]] 
+- The renunciant has taken the time to look within herself and has found that she does not need to cling to certain aspects of her life. ([Location 2146](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2146))
+    - Tags: [[blue]] 
+- “What’s the point of worrying about things that no longer exist and things that do not yet exist?” ([Location 2151](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2151))
+    - Tags: [[orange]] 
+- It also allows us to use all life’s circumstances, favorable and adverse, as catalysts for personal change, and to avoid becoming arrogant when they are favorable and depressed when they are not. ([Location 2157](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2157))
+    - Tags: [[orange]] 
+- Renunciation is a way of taking one’s life into one’s own hands, that is, of becoming fed up with being manipulated like a puppet by selfishness, the scramble for power and possessions, and the never-ending quest for pleasure. ([Location 2159](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2159))
+    - Tags: [[orange]] 
+- Once you’ve done that, renunciation is experienced as an act of liberation. ([Location 2166](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2166))
+    - Tags: [[orange]] 
+- While we must never neglect those with whom we share our lives, we can get off the endless roller coaster of happiness and suffering. In so doing, we reject nothing but simplify everything. ([Location 2166](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2166))
+    - Tags: [[blue]] 
+- Renunciation involves simplifying our acts, our speech, and our thoughts to rid ourselves of the superfluous. ([Location 2170](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2170))
+    - Tags: [[orange]] 
+- Simplifying our activities doesn’t mean sinking into laziness; on the contrary, it means acquiring a growing freedom and counteracting the most subtle aspect of inertia—the impulse that, even when we know what really counts in life, prompts us instead to pursue a thousand trivial activities, one after the other, like ripples in the water. ([Location 2170](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2170))
+    - Tags: [[blue]] 
+- To simplify our speech is to curtail the stream of pointless talk that continuously flows from our mouths. ([Location 2173](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2173))
+- You don’t have to wrap yourself in aloof silence but simply be aware of what is appropriate speech and of the value of time. ([Location 2176](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2176))
+    - Tags: [[pink]] 
+- It is always adapted to circumstance, gentle or firm as required, and the product of an altruistic and controlled mind. ([Location 2178](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2178))
+    - Tags: [[orange]] 
+- Having a simple mind is not the same as being simpleminded. ([Location 2179](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2179))
+- On the contrary, simplicity of mind is reflected in clarity of thought. Like clear water that lets us see all the way to the lake bottom, simplicity reveals the nature of the mind behind the veil of restless thought. ([Location 2179](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2179))
+    - Tags: [[pink]] 
+- The simple person lives the way he breathes, with no more effort or glory, with no more affectation and without shame. . . . Simplicity is freedom, buoyancy, transparency. As simple as the air, as free as the air. . . . The simple person does not take himself too seriously or too tragically. He goes on his merry way, his heart light, his soul at peace, without a goal, without nostalgia, without impatience. The world is his kingdom, and suffices him. The present is his eternity, and delights him. He has nothing to prove, since he has no appearances to keep up, and nothing to seek, since everything is before him. What is more simple than simplicity? What lighter? It is the virtue of wise men and the wisdom of saints.1 ([Location 2182](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2182))
+    - Tags: [[orange]] 
+- Way of the Bodhisattva, ([Location 2190](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2190))
+    - Tags: [[pink]] 
+- What good is freedom if it benefits only oneself? ([Location 2214](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2214))
+    - Tags: [[orange]] 
+- In order to better help others, we must begin by changing ourselves. ([Location 2215](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2215))
+- To achieve that, we have to overcome not only external adversity but also our innermost enemies: ([Location 2216](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2216))
+    - Tags: [[favorite]] [[blue]] 
+- laziness, ([Location 2217](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2217))
+    - Tags: [[pink]] 
+- lack of focus, ([Location 2217](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2217))
+    - Tags: [[orange]] 
+- and the habits that constantly distract us from or defer spiritual practice. ([Location 2217](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2217))
+    - Tags: [[blue]] 
+- “It is easy for a bird to hurt a horse whose back is wounded; it is easy for circumstances to hurt one who is fearful, but they have no power over one who is stable.” ([Location 2221](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2221))
+    - Tags: [[orange]] 
+- First, outward conditions and other general factors—such as wealth, education, social status, hobbies, sex, age, ethnicity, and so on—have circumstantial influence but account altogether for no more than 10 to 15 percent of the variable satisfaction quotient.2 ([Location 2237](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2237))
+    - Tags: [[orange]] 
+- Second, we seem to have a genetic predisposition to being happy or unhappy—about 25 percent of our potential for happiness appears to be determined by genes. Yet genes act more like a blueprint that can be applied or ignored depending upon circumstances. ([Location 2239](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2239))
+    - Tags: [[blue]] 
+- Third, we can exert considerable influence on our experience of happiness and unhappiness through the way we live and think, how we perceive life’s events, and how we react to them. ([Location 2241](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2241))
+- the sense of happiness is higher in countries that ensure their inhabitants’ basic resources, greater security, autonomy, and freedom, as well as sufficient educational opportunities and access to information. ([Location 2254](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2254))
+- citizens are happier in a climate of peace. ([Location 2256](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2256))
+    - Tags: [[blue]] 
+- Happiness rises with social involvement and participation in volunteer organizations, the practice of sports or music, and membership in leisure clubs. ([Location 2257](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2257))
+- It is closely tied to the maintenance and quality of private relationships. ([Location 2258](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2258))
+    - Tags: [[orange]] 
+- People who are married or cohabiting are, in general, significantly happier than singles, widows and widowers, or the divorced or separated living alone. ([Location 2259](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2259))
+    - Tags: [[blue]] 
+- As for the children of divided parents, they are twice as likely to experience a variety of social, psychological, or academic problems.3 ([Location 2260](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2260))
+    - Tags: [[pink]] 
+- Happiness tends to be greater among those who have paying work. ([Location 2261](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2261))
+    - Tags: [[orange]] 
+- Death rate and incidences of illness, depression, suicide, and alcoholism are notably higher among the unemployed. ([Location 2262](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2262))
+    - Tags: [[blue]] 
+- And yet housewives are no more dissatisfied than professionals. ([Location 2263](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2263))
+- It is also interesting to note that retirement makes life not less satisfying, but rather more so. ([Location 2263](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2263))
+    - Tags: [[orange]] 
+- The elderly see their lives as slightly less pleasant than those of the young, but they enjoy more stable overall satisfaction and feel more positive emotions. ([Location 2264](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2264))
+    - Tags: [[blue]] 
+- Age, it seems, can grant relative wisdom. ([Location 2265](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2265))
+    - Tags: [[pink]] 
+- Happiness tends to be more pronounced among highly energetic people in good physical condition. ([Location 2265](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2265))
+    - Tags: [[blue]] 
+- Vacations have a positive effect on well-being, calm, and health. ([Location 2269](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2269))
+    - Tags: [[orange]] 
+- As for those who watch a lot, they are on average less happy. ([Location 2272](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2272))
+- obtaining more wealth brings a legitimate sense of satisfaction. ([Location 2275](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2275))
+    - Tags: [[orange]] 
+- it appears clearly that beyond a relatively low threshold of wealth, the level of satisfaction remains unchanged even as income continues to rise. ([Location 2276](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2276))
+    - Tags: [[blue]] 
+- “We have more food, more clothes, more cars, bigger houses, more central heating, more foreign holidays, a shorter working week, nice work, and, above all, better health. Yet we are not happier. . . . If we want people to be happier, we really have to know what conditions generate happiness and how to cultivate them.”5 ([Location 2279](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2279))
+    - Tags: [[orange]] 
+- One of the main sources of people’s discontent comes from comparing themselves with others in their family, at their workplace, and among their acquaintances. ([Location 2282](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2282))
+    - Tags: [[blue]] 
+- Repeatedly comparing our situation with that of others is a kind of sickness of the mind that brings much unnecessary discontent and frustration. ([Location 2286](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2286))
+    - Tags: [[blue]] 
+- “hedonic treadmill”—a ([Location 2289](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2289))
+    - Tags: [[pink]] 
+- we need to keep running toward acquiring more things and new sources of excitement simply to maintain our current level of satisfaction. ([Location 2291](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2291))
+    - Tags: [[pink]] 
+- To endlessly thirst for more merely in order to remain satisfied, and to grow uneasy when others nearby are faring better than us, has more to do with mental afflictions—envy, covetousness, and jealousy—than with the conditions in which we live. ([Location 2292](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2292))
+    - Tags: [[blue]] 
+- “To know how to be satisfied is to hold a treasure in the palm of one’s hand.” Otherwise, ([Location 2294](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2294))
+    - Tags: [[orange]] 
+- “happy poor,” ([Location 2296](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2296))
+    - Tags: [[blue]] 
+- Suicide is the cause of 2 percent of deaths worldwide every year, which ranks it above war and murder.10 ([Location 2317](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2317))
+- recorded crime ([Location 2320](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2320))
+- “an ethos that builds unwarranted self-esteem, espouses victimology, and encourages rampant individualism has contributed to the epidemic.” ([Location 2330](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2330))
+- “meaninglessness” ([Location 2332](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2332))
+- “there is no attachment to something larger than oneself.” ([Location 2332](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2332))
+- Buddhism would add that it is also surely due to the tireless dedication of most of our time to external activities and goals, instead of learning to enjoy the present moment, the company of those we love, the peace of natural environments, and, above all, the flowering of inner ([Location 2333](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2333))
+    - Tags: [[pink]] 
+- peace that gives every second of life a new and different quality. ([Location 2335](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2335))
+    - Tags: [[pink]] 
+- Excess is meant to shake us out of our apathy, but more often than not it leads only to nervous fatigue coupled with chronic dissatisfaction. ([Location 2337](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2337))
+    - Tags: [[orange]] 
+- adopted children far more closely resemble the biological parents who did not raise them than they do the adoptive parents who did. ([Location 2347](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2347))
+- A study of hundreds of such cases led Auke Tellegen and his colleagues to assert that happiness is 45 percent inheritable and that our genes determine approximately 50 percent of the variables among all personality traits considered.15 ([Location 2347](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2347))
+    - Tags: [[blue]] 
+- According to these researchers, the percentage of personality variables that are the product of genes does not exceed 25 percent and represents merely a potential whose expression depends on many other factors. ([Location 2352](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2352))
+    - Tags: [[blue]] 
+- The researchers predict that if the patterns observed in humans are comparable, the children of mothers who are less engaged with their children may be predisposed to problems such as aggressive behavior and attention deficit disorder. ([Location 2363](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2363))
+    - Tags: [[orange]] 
+- This certainly agrees with the Buddhist view that a young child essentially needs affection on a regular basis. ([Location 2364](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2364))
+    - Tags: [[blue]] 
+- Happiness does not seem to be linked to intelligence, at least not as measured by IQ tests, or to sex or ethnicity, any more than it is to physical beauty. ([Location 2372](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2372))
+    - Tags: [[orange]] 
+- And yet “emotional intelligence” significantly differentiates happy people from unhappy ones. ([Location 2373](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2373))
+    - Tags: [[blue]] 
+- happiness goes hand in hand with the capacity to assert oneself with extroversion and empathy—happy people are generally open to the world. ([Location 2376](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2376))
+    - Tags: [[pink]] 
+- unhappy people tend to believe themselves to be destiny’s playthings. ([Location 2377](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2377))
+- It would seem that the more an individual is capable of controlling her environment, the happier she is. ([Location 2378](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2378))
+    - Tags: [[blue]] 
+- It is interesting to note that in everyday life, extroverts experience more positive events than introverts, and neurotics have more negative experiences than stable people. ([Location 2379](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2379))
+    - Tags: [[orange]] 
+- it is important to keep in mind that it is ultimately our own disposition—extroverted or neurotic, optimistic or pessimistic, self-centered or altruistic—that impels us into the same situation again and again. ([Location 2380](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2380))
+    - Tags: [[pink]] 
+- A spiritual dimension, whether religious or not, helps us to set goals in life and promotes human values, charity, generosity, and openness—all factors that bring us closer to happiness than to misery. It helps us to spurn the cynical idea that there is no direction to follow, that life is nothing but a self-centered struggle under the battle cry “Every man for himself.” ([Location 2384](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2384))
+    - Tags: [[orange]] 
+- This increased vulnerability has been attributed to the lowering of the immune system’s defenses triggered by the grief and depression experienced by the bereaved. ([Location 2406](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2406))
+    - Tags: [[orange]] 
+- “It appears that the way people perceive the world is much more important to happiness than objective circumstances.”22 ([Location 2410](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2410))
+    - Tags: [[orange]] 
+- One cannot experience genuine and lasting happiness while being extremely selfish and pessimistic about everything and everyone, because altruism and a constructive outlook are essential components of authentic happiness. ([Location 2418](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2418))
+    - Tags: [[orange]] 
+- It is obvious that even when life’s material circumstances provide “all we need” to be happy, we aren’t always—far from it. ([Location 2423](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2423))
+    - Tags: [[pink]] 
+- Moreover this “all” has no inherent stability and is bound to fall apart sooner or later, taking happiness with it. ([Location 2424](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2424))
+- We begin by wondering with hope and anxiety if we can manage to bring the ideal conditions together, then we become fearful of losing them, and finally we suffer when they vanish. The sense of insecurity is always with us. ([Location 2426](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2426))
+    - Tags: [[orange]] 
+- “the determinants of happiness can be sought at two levels: external conditions and internal processes. If we manage to identify the circumstances in which people tend to be happy, we can create similar conditions for everyone. If we come to grips with the internal processes that govern them, we may be able to teach people how to take pleasure in living.”24 ([Location 2431](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2431))
+- It is the only country in the world where hunting and fishing are banned throughout the land. ([Location 2448](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2448))
+- the brain is continually evolving in response to our experience, ([Location 2472](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2472))
+    - Tags: [[orange]] 
+- We may wonder how much practice is necessary for the brain to effectuate such changes, especially in an exercise as subtle as meditation. For example, by the time they have reached the competition for admission to national music conservatories, violinists have logged an average of ten thousand hours of practice. Most of the meditators now being studied by Antoine Lutz and Richard Davidson have gone way beyond the equivalent ten thousand hours of meditation. The major portion of their training has been undertaken during intensive retreats, in addition to their years of daily practice. ([Location 2647](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2647))
+    - Tags: [[orange]] 
+- The happiest man is he who has no trace of malice in his soul. PLATO ([Location 2671](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2671))
+    - Tags: [[orange]] 
+- the sense of belonging has considerable bearing on the manifestation of altruism. ([Location 2678](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2678))
+- People are much more inclined to come to the assistance of a friend or of someone with whom they have something in common—ethnicity, nationality, religion, opinion—than to help a stranger to whom they feel no particular connection. ([Location 2678](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2678))
+    - Tags: [[blue]] 
+- it is essential to understand at the most fundamental level that all living creatures share our desire to avoid suffering and experience well-being. ([Location 2681](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2681))
+    - Tags: [[pink]] 
+- That understanding cannot remain a mere concept but must be internalized until it has become second nature. ([Location 2682](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2682))
+    - Tags: [[orange]] 
+- A series of studies conducted on hundreds of students found an undeniable correlation between altruism and happiness, determining that those who believe themselves to be happiest are also the most altruistic. ([Location 2685](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2685))
+    - Tags: [[orange]] 
+- More salient yet is the assertion by those who have suffered depression that giving love to others and receiving it is an important aspect of healing. ([Location 2691](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2691))
+- This affirmation agrees with the Buddhist perspective, which holds selfishness to be the main cause of suffering and altruistic love to be the essential ingredient of true happiness. ([Location 2692](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2692))
+    - Tags: [[blue]] 
+- The interdependence of all phenomena in general, and of all people in particular, is such that our own happiness is intimately linked to that of others. ([Location 2693](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2693))
+    - Tags: [[pink]] 
+- “The exercise of kindness is a gratification, in contrast to a pleasure,” ([Location 2701](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2701))
+    - Tags: [[orange]] 
+- —gratifying in the sense of lasting satisfaction and a feeling of harmony with one’s inner nature. ([Location 2702](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2702))
+    - Tags: [[orange]] 
+- Living in harmony with that nature sustains the joy of life, while rejecting it leads to chronic dissatisfaction. ([Location 2705](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2705))
+- Anything resembling altruism is merely selfishness dressed up in fine feelings. ([Location 2709](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2709))
+    - Tags: [[orange]] 
+- it is now conceded that cooperative behavior, apparently altruistic, can be useful to the survival and proliferation of the species. ([Location 2716](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2716))
+    - Tags: [[orange]] 
+- Genuine altruism that is motivated by no other reason than to do good for others is, after all, possible. ([Location 2725](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2725))
+- The “false altruists” help because they can’t bear their own distress in the face of other people’s suffering and are eager to defuse their own emotional tension. ([Location 2728](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2728))
+    - Tags: [[orange]] 
+- “True altruists,” on the other hand, offer to help even when they might easily turn away or avoid intervening without being noticed. ([Location 2732](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2732))
+    - Tags: [[blue]] 
+- For a true altruist, it’s the result that counts, not the personal satisfaction of having helped. ([Location 2736](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2736))
+    - Tags: [[pink]] 
+- Here again inner freedom, which releases us from the shackles of conflictive emotions, is won only by minimizing obsessive self-absorption. ([Location 2757](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2757))
+    - Tags: [[pink]] 
+- it is interesting to see how certain people who witness an injustice or an attack are more focused on the wrongdoer and on pursuing, abusing, or manhandling him, than on helping the victim. ([Location 2759](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2759))
+    - Tags: [[orange]] 
+- Generating and expressing kindness quickly dispels suffering and replaces it with lasting fulfillment. In turn, the gradual actualization of genuine happiness allows kindness to develop as the natural reflection of inner joy. ([Location 2787](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2787))
+    - Tags: [[orange]] 
+- Pride, the exacerbation of self-importance, consists of being infatuated with the few qualities we possess and, often, of imagining ourselves to possess those we lack. ([Location 2793](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2793))
+- It hinders all personal progress, because in order to learn we must first believe that we do not know. ([Location 2794](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2794))
+    - Tags: [[orange]] 
+- Our obsession with the image we have to project of ourselves is so strong that we have stopped questioning the validity of appearances and endlessly seek better ways to appear. ([Location 2797](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2797))
+    - Tags: [[blue]] 
+- “True humility is freedom from all consciousness of self, which includes freedom from the consciousness of humility. The truly humble man never knows that he is humble.” ([Location 2804](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2804))
+- Not feeling that he is the center of the universe, he is open to others and sees himself as part of the web of interdependence. ([Location 2805](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2805))
+    - Tags: [[pink]] 
+- The arrogant and the narcissistic fuel themselves on illusions that come into continuous conflict with reality. ([Location 2813](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2813))
+    - Tags: [[orange]] 
+- The inevitable disillusionment that follows can generate self-hatred (when we realize that we cannot live up to our own expectations) and a feeling of inner emptiness. ([Location 2813](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2813))
+    - Tags: [[blue]] 
+- The humble person has nothing to lose and nothing to gain. ([Location 2816](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2816))
+    - Tags: [[pink]] 
+- “the best teaching is that which unmasks our hidden faults.” ([Location 2818](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2818))
+    - Tags: [[blue]] 
+- people who overvalue themselves present a higher than average tendency toward aggression. ([Location 2820](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2820))
+- People who consider themselves superior judge the faults of others more harshly and consider them to be less forgivable. ([Location 2822](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2822))
+- humility promotes strength of character; ([Location 2823](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2823))
+    - Tags: [[orange]] 
+- the humble person makes decisions on the basis of what he believes to be right and sticks by them without concern for his own image or the opinions of others. ([Location 2824](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2824))
+    - Tags: [[pink]] 
+- It is pointless trying to persuade the woodsman with a perfect knowledge of the forest to take the path leading to a cliff. ([Location 2826](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2826))
+    - Tags: [[orange]] 
+- Their humility does not mean they aren’t aware of their knowledge and scholarship, but that such learning reveals how much more there is to learn. ([Location 2836](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2836))
+    - Tags: [[orange]] 
+- I wondered which was the right way to look at things, and came to the conclusion that the first had been the correct way because it generated an open, creative, and liberating attitude and led to greater satisfaction. ([Location 2848](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2848))
+    - Tags: [[orange]] 
+- when we cling to a negative perception of phenomena, something rings false—we feel “disconnected” from the universe, which comes to seem dull, strange, distant, and sometimes hostile. ([Location 2851](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2851))
+- When it’s a question of real situations drawn from daily life, the optimist’s approach is in fact more realistic and pragmatic than that of the pessimist. ([Location 2859](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2859))
+    - Tags: [[orange]] 
+- they remain more serene than the pessimists and gather their energies for real threats. ([Location 2864](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2864))
+    - Tags: [[orange]] 
+- If we observe the way in which people perceive the events of their lives, appreciate the quality of the lived moment, and create their future by overcoming obstacles with an open and creative attitude, we find that the optimists have an undeniable advantage over the pessimists. ([Location 2865](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2865))
+    - Tags: [[pink]] 
+- optimists lived 19 percent longer on average than the pessimists—some ([Location 2870](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2870))
+    - Tags: [[blue]] 
+- when such people are taught specifically to overcome pessimism by changing their outlook, they are markedly less subject to depressive relapse. ([Location 2873](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2873))
+    - Tags: [[blue]] 
+- psychologists describe pessimism as an “explanatory style” for the world that engenders “learned helplessness.”5 ([Location 2875](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2875))
+    - Tags: [[orange]] 
+- “There’s no reason to make a fuss about it; these things don’t last. I’ll figure it out; in any case, I usually do.” ([Location 2878](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2878))
+    - Tags: [[blue]] 
+- It’s not the sort of thing that just goes away”), ([Location 2879](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2879))
+    - Tags: [[pink]] 
+- laziness, ([Location 2917](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2917))
+    - Tags: [[orange]] 
+- three principal types. ([Location 2917](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2917))
+    - Tags: [[orange]] 
+- wanting only to eat well, sleep well, and do as little as possible. ([Location 2917](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2917))
+- abandon the race before we’ve even crossed the starting line. ([Location 2918](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2918))
+    - Tags: [[blue]] 
+- what really matters in life but is constantly putting it off to later, while devoting itself to a thousand other things of lesser importance. ([Location 2919](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=2919))
+    - Tags: [[pink]] 
+- time is our most precious commodity. ([Location 3010](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3010))
+    - Tags: [[orange]] 
+- golden time is when he can create, build, accomplish, and devote himself to the welfare of others. ([Location 3014](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3014))
+    - Tags: [[orange]] 
+- Boredom is the affliction of those for whom time has no value. ([Location 3026](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3026))
+    - Tags: [[orange]] 
+- pointless activities ([Location 3036](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3036))
+- interminable mental chatter ([Location 3036](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3036))
+    - Tags: [[blue]] 
+- It is worthwhile to spend a moment each day cultivating an altruistic thought and observing the workings of the mind. ([Location 3042](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3042))
+    - Tags: [[blue]] 
+- It’s not a question of ignoring the world, but of putting our time to good use. ([Location 3044](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3044))
+    - Tags: [[orange]] 
+- zero contemplation. ([Location 3046](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3046))
+- “take our mind off things.” ([Location 3048](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3048))
+    - Tags: [[pink]] 
+- Let us first clearly examine what counts most in life for ourselves, then establish priorities among the essential things and other activities that intrude on our time. ([Location 3050](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3050))
+    - Tags: [[blue]] 
+- Far from making us despair, a lucid awareness of the nature of things inspires us to live each passing day to the full. ([Location 3058](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3058))
+    - Tags: [[pink]] 
+- Mindfulness allows us to remain alert to the passage of time and prevents us from being unaware as it flows. ([Location 3069](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3069))
+- Inner freedom prevents it from being monopolized by disturbing emotions. ([Location 3070](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3070))
+    - Tags: [[blue]] 
+- When past thoughts have ceased, and future thoughts have not yet arisen, in the interval is there not a perception of nowness, a pristine, clear, awake, and bare freshness? Remain in it for a while, without grasping at anything, like a small child looking at a vast landscape. ([Location 3075](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3075))
+    - Tags: [[orange]] 
+- A good life is one that is characterized by complete absorption in what one does. JEANNE NAKAMURA AND MIHALY CSIKSZENTMIHALYI ([Location 3079](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3079))
+    - Tags: [[blue]] 
+- We all have had the experience of being intensely absorbed in an activity, an experiment, or a feeling. ([Location 3081](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3081))
+    - Tags: [[pink]] 
+- flow. ([Location 3083](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3083))
+    - Tags: [[pink]] 
+- when the creation of a painting was going well, the artist was completely absorbed in his work and stayed with it to completion, unaware of being tired, hungry, or uncomfortable. ([Location 3083](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3083))
+    - Tags: [[orange]] 
+- It is obvious that for a rock climber who has climbed the same rock face dozens of times, being at the top counts for less than the enjoyment of getting there. ([Location 3088](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3088))
+    - Tags: [[blue]] 
+- playing music, ([Location 3089](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3089))
+    - Tags: [[pink]] 
+- “completely involved in an activity for its own sake. ([Location 3090](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3090))
+- Your whole being is involved, and you’re using your skills to the utmost.” ([Location 3091](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3091))
+    - Tags: [[pink]] 
+- “My experience is what I agree to attend to.”3 ([Location 3094](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3094))
+    - Tags: [[orange]] 
+- Entering the state of flow depends closely on the amount of attention given to the lived experience. ([Location 3095](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3095))
+- If it is too difficult, tension sets in, followed by anxiety; too easy, and we relax and are soon bored. ([Location 3096](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3096))
+    - Tags: [[pink]] 
+- It is interesting to note, too, that so long as the state lasts, there is a loss of reflective self-consciousness. ([Location 3099](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3099))
+    - Tags: [[orange]] 
+- One need only remember the starting point and the thread of the teaching; after that, detail follows upon detail, generally without effort. ([Location 3106](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3106))
+- It’s ultimately easier not to take notes, precisely in order to sustain the experience of flow. When all is going well, this fluidity produces a sense of serene joy; self-awareness—that is, a person observing himself—is practically absent; exhaustion is forgotten; and time passes imperceptibly, like the flow of a river that remains undetectable at a distance. ([Location 3109](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3109))
+    - Tags: [[blue]] 
+- Practice “attentive walking” These are the instructions of the Vietnamese Buddhist master Thich Nhat Hanh: “Walking just for the pleasure of walking, freely and firmly, without hurrying. We are present in every step. When we wish to speak, we stop walking and lend all our attention to the person before us, to speaking and to listening. . . . Stop, look around, and see how wonderful life is: the trees, the white clouds, the infinite sky. Listen to the birds, delight in the light breeze. Let us walk as free people and feel our steps growing lighter as we walk. Let us appreciate every step we take.”6 ([Location 3122](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3122))
+    - Tags: [[pink]] 
+- If it is to make any long-term improvement in our quality of life, it must be imbued with human qualities, such as altruism and wisdom. ([Location 3133](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3133))
+- It can be extremely valuable in helping us to appreciate every moment of existence and putting it to the most constructive use possible. ([Location 3138](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3138))
+- Without the need for external activity, we can learn to rest effortlessly in a state of constant awareness. ([Location 3140](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3140))
+    - Tags: [[blue]] 
+- Contemplating the nature of the mind, for instance, is a deep and fruitful experience combining relaxation and flow. Relaxation in the form of inner calm, flow in the form of a clear and open presence of mind, alert but without tension. Perfect lucidity is one of the principal features that distinguishes this state of mind from ordinary flow. Such pure awareness does not require the subject to observe himself; here, too, there is a quasi-total disappearance of the notion of a “self.” This does not hinder direct knowledge of the nature of mind, of the “pure presence” of awareness. The experience is a source of inner peace and openness to the world and others. Finally, the experience of contemplative flow encompasses our entire perception of the universe and its interdependence. You might say that the awakened being remains continuously in a state of serene, vivid, and altruistic flow. ([Location 3140](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3140))
+    - Tags: [[pink]] 
+- Enter into the flow of “open presence” Sit in a comfortable meditation position, eyes gently open, posture straight, and quiet your mind. Then try to make your mind as vast as the sky. Don’t focus on anything in particular. Remain relaxed and calm and yet fully aware. Let your mind remain free from mental constructs, yet clear, vivid, and all-pervading. Effortless, yet undistracted. Without trying to actively block sensory perceptions, recollections, and imagination, feel that you are simply uninfluenced by them. Remain at ease. Perceptions cannot alter the basic serene vastness of your mind. Whenever thoughts arise, let them undo themselves as they form, as a drawing made on the surface of the water leaves no trace. Experience the peace you feel for a few moments after the exercise. ([Location 3147](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3147))
+    - Tags: [[orange]] 
+- motivation ([Location 3185](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3185))
+- consequences of our acts. ([Location 3185](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3185))
+    - Tags: [[orange]] 
+- “Are we being broad-minded or narrow-minded? Have we taken into account the overall situation or are we considering only specifics? Is our view short-term or long-term? . . . Is our motivation genuinely compassionate? . . . Is our compassion limited just to our families, our friends, and those we identify with closely? . . . We need to think, think, think.”4 ([Location 3187](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3187))
+    - Tags: [[pink]] 
+- our state of mind, ([Location 3191](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3191))
+    - Tags: [[blue]] 
+- “Man’s inhumanity to man is not only perpetrated by the vitriolic actions of those who are bad. It is also perpetrated by the vitiating inaction of those who are good.” ([Location 3206](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3206))
+    - Tags: [[orange]] 
+- two main branches in ethics: ([Location 3245](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3245))
+- one based on abstract principles ([Location 3246](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3246))
+    - Tags: [[blue]] 
+- and one based on lived experience, ([Location 3246](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3246))
+    - Tags: [[pink]] 
+- Someone who has used every second of her life to become a better person and to contribute to others’ happiness can die in peace. ([Location 3356](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3356))
+    - Tags: [[blue]] 
+- Once we have embarked on the spiritual path and begun practicing it resolutely, the important moment comes several months or several years later when we realize that nothing is as it was and, in particular, that we have become incapable of knowingly harming others. ([Location 3401](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3401))
+- And that pride, envy, and mental confusion are no longer the uncontested masters of our minds. ([Location 3402](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3402))
+    - Tags: [[blue]] 
+- Finally, we can meditate in a nonconceptual way on the very nature of the mind by looking directly at consciousness itself as an open presence, a pure awareness that always lies behind the screen of thoughts, or by contemplating the very nature of the thoughts that cross our mind. ([Location 3431](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3431))
+    - Tags: [[pink]] 
+- ultimate well-being comes from fully eliminating delusion and mental toxins, and thus suffering. ([Location 3460](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3460))
+- Enlightenment is what Buddhism calls the state of ultimate freedom that comes with a perfect knowledge of the nature of mind and of the world of phenomena. ([Location 3461](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3461))
+    - Tags: [[blue]] 
+- The divide between subject and object has vanished in the understanding of the interdependence of all phenomena. ([Location 3463](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3463))
+    - Tags: [[pink]] 
+- “The aspects of things that are most important for us are hidden because of their simplicity and familiarity.” ([Location 3469](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3469))
+    - Tags: [[orange]] 
+- From the point of view of absolute truth, neither happiness nor suffering has any real existence. ([Location 3477](https://readwise.io/to_kindle?action=open&asin=B000SEUSXW&location=3477))

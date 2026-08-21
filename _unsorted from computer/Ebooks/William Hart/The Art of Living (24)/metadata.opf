@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">372ef0b8-c3b5-4379-bef8-51a927bbb097</dc:identifier>
+        <dc:title>The Art of Living</dc:title>
+        <dc:creator opf:file-as="Hart, William" opf:role="aut">William Hart</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.9.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-07-17T15:21:59+00:00</dc:date>
+        <dc:description>A full-length study of the teaching of S. N. Goenka, prepared under his guidance and with his approval. Useful for meditators and non-meditators alike. This was the first book to appear in English that accurately describes the practice of Vipassana at length for the general reader. It includes stories by Goenkaji as well as answers to students’ questions that convey a vivid sense of his teaching. Also available in many translations including Farsi, French, German, Gujarati, Hebrew, Hindi, Sindi.</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>Vipassana; Dhamma; S.N. Goenka</dc:subject>
+        <meta content="{&quot;William Hart&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-01-29T04:01:24.911000+00:00" name="calibre:timestamp"/>
+        <meta content="Art of Living, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

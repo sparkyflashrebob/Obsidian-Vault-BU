@@ -1,0 +1,2 @@
+
+May all beings be happy and have the causes of happiness. May they be free from sorrow and the causes of sorrow. May they have that great happiness which is sorrowlessness. May they come to rest in the great equanimity, which is free from attachments and aversion.

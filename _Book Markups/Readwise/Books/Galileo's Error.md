@@ -1,0 +1,207 @@
+# Galileo's Error
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/51q0F5Kw87L._SL200_.jpg)
+
+## Metadata
+- Author: [[Philip Goff]]
+- Full Title: Galileo's Error
+- Category: #books
+
+## Highlights
+- The only thing I have direct access to are my own experiences. ([Location 94](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=94))
+    - Tags: [[pink]] 
+- “eliminative materialism.” ([Location 152](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=152))
+    - Tags: [[orange]] 
+- the scientific revolution itself was premised on putting consciousness outside of the domain of scientific inquiry. ([Location 217](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=217))
+- For thousands of years philosophers tried to work out what reality was like just by sitting around thinking about it, ([Location 310](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=310))
+    - Tags: [[pink]] 
+- observing ([Location 312](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=312))
+    - Tags: [[blue]] 
+- philosophical ([Location 312](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=312))
+- quantities not qualities!” ([Location 320](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=320))
+    - Tags: [[orange]] 
+- According to dualism, a human being is a kind of composite entity: a combination of a physical body and an immaterial mind. ([Location 379](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=379))
+    - Tags: [[pink]] 
+- we ([Location 406](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=406))
+    - Tags: [[pink]] 
+- cannot explain any of the fundamental causal relationships of the universe.2 ([Location 406](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=406))
+    - Tags: [[pink]] 
+- we have no explanation as to why nature behaves in accordance with those laws. ([Location 421](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=421))
+    - Tags: [[blue]] 
+- The Hard Problem. ([Location 431](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=431))
+    - Tags: [[pink]] 
+- They took, for example, the human ability to report verbally on internal states, labeled that “consciousness,” and then claimed that in explaining this behavioral capacity they had thereby explained consciousness. ([Location 441](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=441))
+    - Tags: [[blue]] 
+- why the activity of the brain gives rise to experience: feelings, emotions, sensations, the subjective inner world each of us knows in her or his own case. ([Location 444](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=444))
+    - Tags: [[orange]] 
+- This is not to say that minds are governed by the laws of physics; after all they are not physical. ([Location 459](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=459))
+    - Tags: [[pink]] 
+- psycho-physical laws: ([Location 460](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=460))
+    - Tags: [[orange]] 
+- When the mind wants to raise the right arm of the body, for example, it causes a change in the brain that will begin a causal process resulting in the raising of the arm. ([Location 534](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=534))
+    - Tags: [[pink]] 
+- nonphysical mind “intervening” in the brain is not much different in principle than a nonphysical God intervening in the body through healing. In both cases, something nonphysical—God or an immaterial mind—initiates a change in the physical world. ([Location 536](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=536))
+    - Tags: [[pink]] 
+- science cannot explain why its most basic laws of nature hold. ([Location 569](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=569))
+- According to presentism, the past and future don’t even exist; and you can’t go somewhere that doesn’t exist. ([Location 825](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=825))
+    - Tags: [[pink]] 
+- Here are two things we know about consciousness: Consciousness involves qualities: the redness of a red experience, the feel of an itch, the rich taste of biting into chocolate. Consciousness is subjective, in the sense that knowledge of a given state of consciousness involves adopting the perspective of someone who has that conscious state. ([Location 917](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=917))
+- To be conscious is to adopt a specific perspective, and hence the conscious life of a particular organism can only be understood by adopting the perspective of that organism. ([Location 926](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=926))
+- the language of neuroscience is simply not able to characterize subjective qualities; ([Location 1034](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=1034))
+- Richard Dawkins, ([Location 1042](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=1042))
+    - Tags: [[orange]] 
+- Most of the philosophers were, like Dennett, committed to the view that consciousness is in some sense an illusion. ([Location 1053](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=1053))
+    - Tags: [[orange]] 
+- David Chalmers ([Location 1055](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=1055))
+    - Tags: [[blue]] 
+- energy ([Location 1063](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=1063))
+    - Tags: [[pink]] 
+- brain ([Location 1063](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=1063))
+    - Tags: [[pink]] 
+- After all, according to our current best science, there are multiple laws of nature, which all work together to respect energy conservation. ([Location 1066](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=1066))
+    - Tags: [[orange]] 
+- “conceivability argument.” ([Location 1294](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=1294))
+    - Tags: [[pink]] 
+- To describe a person in terms of his or her physical nature is to ascribe to that person certain objective, quantitative properties. To describe someone in terms of his or her conscious experiences is to ascribe to that person certain subjective, qualitative properties. And the fact that a physical system has the former kind of properties does not entail that it has the latter kind of properties. This is the core of the problem of consciousness. Contemporary materialism is not a solution but a stubborn refusal to face up to the problem. ([Location 1312](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=1312))
+    - Tags: [[orange]] 
+- It’s now time to meet the father of modern computing: Alan Turing (1912–1954). Turing was an extraordinary individual. During the Second World War he worked at Britain’s code-breaking center, Bletchley Park, where he played a pivotal role in cracking the Germans’ Enigma code. According to some estimates, this work shortened the war by more than two years, saving over fourteen million lives. Britain repaid Turing by prosecuting him for homosexual acts in 1952, for which he accepted chemical castration rather than prison as punishment. He died two years later from cyanide poising, which an inquest determined to be suicide. ([Location 1364](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=1364))
+- “algorithm.” ([Location 1371](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=1371))
+- “the Turing Test.” ([Location 1374](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=1374))
+- What we have is merely the appearance of understanding in the absence of genuine comprehension. ([Location 1393](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=1393))
+- Moreover, to put my cards on the table, I am on the side of Searle in the above debate. I would say that I know I have thoughts in a more than computational sense. And I know this because I am immediately aware of my thoughts as they arise in consciousness. As I lie back and observe the flow of my consciousness, I am aware not only of feelings and sensations, but also of conscious thoughts: wonderings and musings and fleeting recollections. Turing demanded to know what “thinking” means if not computation. I reply that the answer is obvious: the phenomenon of conscious ([Location 1452](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=1452))
+    - Tags: [[pink]] 
+- thought that each of us enjoys every second of waking life. It is precisely this that the Chinese Room and a nonconscious computer lack. ([Location 1456](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=1456))
+    - Tags: [[pink]] 
+- cognitive consciousness—conscious ([Location 1458](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=1458))
+    - Tags: [[blue]] 
+- A creature cannot consciously think it’s conscious without thereby being conscious. ([Location 1460](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=1460))
+- There is arguably scientific evidence against dualism. But dualism is not the only alternative to materialism. ([Location 1462](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=1462))
+    - Tags: [[orange]] 
+- in academic philosophy, the dominant view amongst materialists is that consciousness does not need to be explained. ([Location 1469](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=1469))
+    - Tags: [[blue]] 
+- According to what we might call the “brute identity theory,” conscious states are identical to brain states and that’s all that needs to be said. ([Location 1470](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=1470))
+- “phenomenal concept strategy”) ([Location 1496](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=1496))
+    - Tags: [[pink]] 
+- Thomas Nagel’s classic 1972 article “Panpsychism”—a ([Location 1572](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=1572))
+    - Tags: [[pink]] 
+- Panpsychism ([Location 1574](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=1574))
+    - Tags: [[orange]] 
+- pan” ([Location 1575](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=1575))
+    - Tags: [[orange]] 
+- everything, ([Location 1575](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=1575))
+- “psyche” ([Location 1575](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=1575))
+    - Tags: [[orange]] 
+- mind—it ([Location 1575](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=1575))
+- intrinsic nature, ([Location 1760](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=1760))
+    - Tags: [[pink]] 
+- The Problem of Intrinsic Natures—Physical science restricts itself to providing information about the behavior of the things it talks about—particles, fields, spacetime—and tells us nothing about their intrinsic natures. ([Location 1767](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=1767))
+    - Tags: [[orange]] 
+- causal role ([Location 1772](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=1772))
+    - Tags: [[orange]] 
+- causal relationships ([Location 1774](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=1774))
+    - Tags: [[orange]] 
+- physics, ([Location 1776](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=1776))
+    - Tags: [[orange]] 
+- what they do. ([Location 1777](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=1777))
+- Far from being complete, there is a gaping hole in the theory of the universe we get from physical science. ([Location 1786](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=1786))
+    - Tags: [[orange]] 
+- Even if there is only one possible unified theory, it is just a set of rules and equations. What is it that breathes fire into the equations and makes a universe for them to describe?7 ([Location 1791](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=1791))
+    - Tags: [[pink]] 
+- So long as “science” is equated with “physical science,” it will be subject to the following limitations: It will be unable to account for consciousness, as the qualitative reality of consciousness cannot be captured in the quantitative language of physical science. It will be confined to telling us what matter does, remaining silent on its intrinsic nature. ([Location 1803](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=1803))
+    - Tags: [[blue]] 
+- the prediction of behavior. ([Location 1808](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=1808))
+    - Tags: [[pink]] 
+- We are acquainted with an external world because its fibres run into our own consciousness; it is only our own fibres that we actually know; from these ends we more or less successfully reconstruct the rest, as a palaeontologist reconstructs an extinct monster from its footprint.9 ([Location 1830](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=1830))
+    - Tags: [[orange]] 
+- The Problem of Consciousness—How do we integrate consciousness into our scientific story of the universe? ([Location 1835](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=1835))
+- consciousness is the intrinsic nature of matter. ([Location 1845](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=1845))
+- we have to take it seriously? The first thing to say is that it’s ([Location 1851](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=1851))
+- not clear that there’s an alternative. ([Location 1852](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=1852))
+- The Victorian physicist felt that he knew just what he was talking about when he used such terms as matter and atoms. Atoms were tiny billiard balls, a crisp statement that was supposed to tell you all about their nature in a way which could never be achieved for transcendental things like consciousness, beauty, or humour. But now we realise that science has nothing to say about the intrinsic nature of the atom. The physical atom is, like everything else in physics, a schedule of pointer readings. The schedule is, we agree, attached to some unknown background. Why not then attach it to something of a spiritual [i.e., mental] nature of which a prominent characteristic is thought [by which Eddington means consciousness]. It seems rather silly to prefer to attach it to something of a so-called “concrete” nature inconsistent with thought, and then to wonder where thought comes from.10 ([Location 1859](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=1859))
+    - Tags: [[blue]] 
+- there are always an infinite number of theories consistent with the evidence, and we must choose between them on the basis of simplicity: don’t believe in more things if you can get away with fewer. This is, after all, the main reason that most scientists and ([Location 1876](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=1876))
+    - Tags: [[orange]] 
+- deeply nondualistic form of panpsychism. ([Location 1891](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=1891))
+    - Tags: [[orange]] 
+- The view is rather that the physical properties of a particle (mass, spin, charge, etc.) are themselves forms of consciousness. ([Location 1898](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=1898))
+    - Tags: [[pink]] 
+- objective quantities ([Location 2036](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=2036))
+    - Tags: [[blue]] 
+- subjective qualities ([Location 2037](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=2037))
+    - Tags: [[orange]] 
+- A system of entangled particles is more than the sum of its parts.*8 ([Location 2253](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=2253))
+    - Tags: [[blue]] 
+- “emergentists”—reject ([Location 2270](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=2270))
+    - Tags: [[pink]] 
+- Integrated Information Theory of consciousness ([Location 2282](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=2282))
+    - Tags: [[orange]] 
+- IIT, ([Location 2283](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=2283))
+- Realism About Consciousness: The reality of subjective consciousness is a basic datum in its own right, equal in status to the data of observation and experiment. ([Location 2395](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=2395))
+    - Tags: [[pink]] 
+- Empiricism: The quantitative data of observation and experiment are foundational, equal in status to the qualitative data of consciousness. ([Location 2397](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=2397))
+    - Tags: [[blue]] 
+- Anti-Dualism: Consciousness is not separate from the physical world; rather consciousness is located in the intrinsic nature of the physical world. ([Location 2398](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=2398))
+- Panpsychist Methodology: We should aim to account for human and animal consciousness in terms of more basic forms of consciousness, basic forms of consciousness which are postulated to exist as basic properties of matter.*13 ([Location 2400](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=2400))
+    - Tags: [[orange]] 
+- Reductionist panpsychists—To solve the combination problem, by giving a general account of how complex forms of consciousness can be built up from simpler forms of consciousness. ([Location 2404](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=2404))
+    - Tags: [[blue]] 
+- Emergentist panpsychists—To formulate and test theories of the basic principles of nature underlying the emergence of higher-level forms of consciousness from more basic forms of consciousness. ([Location 2406](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=2406))
+- ontology: ([Location 2568](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=2568))
+    - Tags: [[orange]] 
+- Dualism can create an unhealthy relationship with nature in at least two respects. Firstly, it creates a sense of separation. Dualism implies that, as an immaterial mind, I am a radically different kind of thing from the mechanistic world I inhabit. Ontologically speaking, I have nothing in common with a tree. There is no real kinship with nature if dualism is true. Secondly, dualism can imply that nature has no value in and of itself. If nature is wholly mechanistic, then it has value only in terms of what it can do for us, either by maintaining our survival or by creating pleasurable experiences for us when we take it in with our senses. There is a worry that dualist thought can encourage the idea that nature is to be used rather than respected as something of value in its own right. ([Location 2663](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=2663))
+    - Tags: [[orange]] 
+- Panpsychism has the potential to transform our relationship with the natural world. If panpsychism is true, the rain forest is teeming with consciousness. As conscious entities, trees have value in their own right: chopping one down becomes an action of immediate moral significance. Moreover, on the panpsychist worldview, humans have a deep affinity with the natural world: we are conscious creatures embedded in a world of consciousness. ([Location 2678](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=2678))
+- there is now a growing body of evidence that plants have sophisticated mental lives. ([Location 2688](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=2688))
+    - Tags: [[pink]] 
+- responsiveness to rational considerations. ([Location 2775](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=2775))
+    - Tags: [[pink]] 
+- Objection A—Free choices cannot be coherently distinguished from random events. Objection B—Free choices are unexplained events. ([Location 2792](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=2792))
+- The Solution to Objection A—Free choices differ from random events in that they involve responsiveness to rational considerations. The Solution to Objection B—Everyone has to accept some things as unexplained. Accepting free choices as unexplained is no less coherent than accepting the big bang as unexplained. ([Location 2795](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=2795))
+    - Tags: [[orange]] 
+- formless consciousness. ([Location 2892](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=2892))
+    - Tags: [[orange]] 
+- “we are all one.” ([Location 2895](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=2895))
+    - Tags: [[blue]] 
+- Rather than taking formless consciousness to be something beyond the physical universe, the panpsychist could maintain that formless consciousness is the ultimate nature of physical reality, or at least some aspect of it. ([Location 2905](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=2905))
+    - Tags: [[blue]] 
+- Formless consciousness is the intrinsic nature of spacetime itself, in a way that is not localized but equally present at all regions of spacetime. Ordinary states of consciousness are the intrinsic nature of massy regions of spacetime. ([Location 2918](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=2918))
+    - Tags: [[pink]] 
+- what lies beneath spacetime. ([Location 2927](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=2927))
+    - Tags: [[orange]] 
+- If panpsychism is true, however, this distinction collapses, as consciousness is the intrinsic nature of physical reality. If—I emphasize the if one last time—the insights of mystics are correct that formless consciousness is an essential component of each and every conscious experience, then—in conjunction with panpsychism—it follows that formless consciousness is an essential component of each and every physical entity. ([Location 2944](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=2944))
+- My individual conscious mind will unravel and cease to be at the moment of bodily death. But one essential component of my mind—formless consciousness which is the backdrop to all of my experiences—does not cease to be. Hindus place great emphasis on meditation and good conduct as the key to realizing one’s identity with formless consciousness and thus avoiding an endless cycle of pointless rebirths. But if we assume that the doctrines of karma and rebirth are false, then at death each of us collapses eternally back into formless consciousness as a matter of course. Enlightenment is guaranteed! ([Location 2949](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=2949))
+    - Tags: [[orange]] 
+- objective moral truth. ([Location 2955](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=2955))
+    - Tags: [[pink]] 
+- The point is not to assert what everyone already accepts but to explain it. ([Location 2974](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=2974))
+    - Tags: [[pink]] 
+- At some point one reaches bedrock; explanation has to come to an end somewhere. ([Location 2976](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=2976))
+- But according to the mystics, this belief in the total separateness of people is false. ([Location 2990](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=2990))
+- There are distinct conscious minds, but they are not wholly distinct; your mind and my mind overlap. ([Location 2990](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=2990))
+    - Tags: [[orange]] 
+- Indeed, the most basic element of my mind—the formless consciousness which forms the backdrop of each experience—is identical with the most basic element of your mind. ([Location 2991](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=2991))
+    - Tags: [[pink]] 
+- Your consciousness and my consciousness are, as it were, painted on one and the same canvas. ([Location 2992](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=2992))
+    - Tags: [[blue]] 
+- According to the testimony of mystics, it is this realization that results in the boundless compassion of the enlightened. ([Location 2993](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=2993))
+- If the mystical hypothesis is true, then ethical objectivity is grounded in the nature of reality. ([Location 2994](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=2994))
+    - Tags: [[orange]] 
+- The sadist is objectively flawed for exactly the reason that the flat earther is: both have a false view of reality. ([Location 2994](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=2994))
+    - Tags: [[blue]] 
+- But we should be trying to work out which view is most likely to be true not which view we would most like to be true. ([Location 3000](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=3000))
+    - Tags: [[pink]] 
+- mystical states of a well-pronounced and emphatic sort are usually authoritative over those who have them. ([Location 3006](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=3006))
+    - Tags: [[blue]] 
+- The appropriate attitude to mystical experiences for those who haven’t had them is probably one of agnosticism, the withholding of belief either that mystical experiences provide genuine insight into the nature of reality or that they are delusions. Having said that, I can’t help being excited by the possibility that, in a panpsychist worldview, the yearnings of faith and the rationality of science might finally come into harmony. ([Location 3023](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=3023))
+- human beings are a tiny and painfully temporary accident. ([Location 3031](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=3031))
+    - Tags: [[orange]] 
+- This can lead to a sense of alienation. We seem to have nothing in common with the universe, no real home within it. The “big picture” story of the universe is one of insentient and meaningless physical processes, from which we are a senseless aberration. In the absence of a place in the universe, we have only consumerism and the endless quest for economic growth to make sense of our lives. ([Location 3031](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=3031))
+- “cosmic alienation” ([Location 3034](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=3034))
+    - Tags: [[orange]] 
+- When one is embedded in a traditional society, ignorant of the plurality of social forms across the globe, the conditioned meanings of one’s society seem to define the cosmos. ([Location 3035](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=3035))
+- Traditional ways of life come to be seen as empty of meaning, ([Location 3041](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=3041))
+    - Tags: [[blue]] 
+- Panpsychism offers a way of “re-enchanting” the universe. On the panpsychist view, the universe is like us; we belong in it. ([Location 3043](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=3043))
+    - Tags: [[pink]] 
+- We can live in nature, in the universe. We can let go of nation and tribe, happy in the knowledge that there is a universe that welcomes us. ([Location 3045](https://readwise.io/to_kindle?action=open&asin=B07KNVQ6H5&location=3045))
+    - Tags: [[blue]] 

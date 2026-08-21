@@ -1,0 +1,124 @@
+# Perspectives
+
+![rw-book-cover](https://m.media-amazon.com/images/I/A19rWL4k63L._SY160.jpg)
+
+## Metadata
+- Author: [[Paul Brunton]]
+- Full Title: Perspectives
+- Category: #books
+
+## Highlights
+- When a man feels imperatively the need of respecting himself, he has heard a faint whisper from his Overself. Henceforth he begins to seek out ways and means for earning that respect. This begins his Quest. ([Location 204](https://readwise.io/to_kindle?action=open&asin=B00BFQKTGI&location=204))
+- It is not for those who feel the want of a social meeting every Sunday morning, where they can display their good clothes and listen to good words. It is for those who feel the want of something great in life to ([Location 207](https://readwise.io/to_kindle?action=open&asin=B00BFQKTGI&location=207))
+    - Tags: [[orange]] 
+- which they can give themselves, who cannot rest satisfied with the business of earning their bread and butter alone or spending their time in pleasures. What cause, what mission can be greater than fulfilling the higher purpose of life on earth? ([Location 208](https://readwise.io/to_kindle?action=open&asin=B00BFQKTGI&location=208))
+    - Tags: [[orange]] 
+- There are four goals which philosophy sets before the mind of man: (1) to know itself; (2) to know its Overself; (3) to know the Universe; (4) to know its relation to the universe. The search for these goals constitutes the quest. ([Location 215](https://readwise.io/to_kindle?action=open&asin=B00BFQKTGI&location=215))
+    - Tags: [[pink]] 
+- The Quest is neither a serious hobby nor a pleasant diversion from the dullness of prosaic everyday living. It is actually living itself. ([Location 224](https://readwise.io/to_kindle?action=open&asin=B00BFQKTGI&location=224))
+    - Tags: [[orange]] 
+- Those who separate the Quest from their day-to-day existence shut out the most important field of their further growth. ([Location 226](https://readwise.io/to_kindle?action=open&asin=B00BFQKTGI&location=226))
+- The work starts with you—with some impulse arising in you, or with some feeling, thought, idea, or some object seen, or with a person, teacher, or with a book or with a lecture or with Nature or with an artistic creation. But whether it be outside or inside you it has to be accepted by you. But if you ask why it happens just then, the answer can only be the Source of all things willed it. ([Location 230](https://readwise.io/to_kindle?action=open&asin=B00BFQKTGI&location=230))
+- He will cease looking here and there and set to work in real earnestness on himself. He will have to purify his character, practise meditation regularly, and study inspired works. ([Location 241](https://readwise.io/to_kindle?action=open&asin=B00BFQKTGI&location=241))
+- When this vague yearning for something that worldly life cannot satisfy becomes unendurable, it may be a sign that they are ready for this Quest. ([Location 242](https://readwise.io/to_kindle?action=open&asin=B00BFQKTGI&location=242))
+    - Tags: [[orange]] 
+- We may first take to this quest to find a way of escape from our sufferings, whether mental or physical; but gradually we become aware that this negative attitude is not enough, that we must also realize… ([Location 244](https://readwise.io/to_kindle?action=open&asin=B00BFQKTGI&location=244))
+    - Tags: [[pink]] 
+- He may arrive at a true appraisal of life after he has experienced all that is worth experiencing. This is the longest and most painful way. Or he may arrive at it by listening to, and believing in, the teachings of spiritual seers. This is the shortest and easiest way. The attraction of the first way is so great, however, that it is generally the only way followed by humanity. Even when individuals take to the second way, they have… ([Location 246](https://readwise.io/to_kindle?action=open&asin=B00BFQKTGI&location=246))
+    - Tags: [[orange]] 
+    - Note: Either the painful way, self-directed or hearing the teachings.
+- Man’s main business is to become aware of his true purpose in life; all other business is… ([Location 250](https://readwise.io/to_kindle?action=open&asin=B00BFQKTGI&location=250))
+- After the work done to gain livelihood or fulfil ambition, there is usually a surplus of time and strength, a part of which could and should be devoted to satisfying higher needs. There is hardly a man whose life is so intense that it does not leave him a little time for spiritual recall from this worldly existence. Yet the common attitude everywhere is to look no farther than, and be content with, work and pleasure, family, friends, and possessions. It feels no urge to seek the spiritual and, as it erroneously thinks, the intangible side of life. It makes no effort to organize its day so as to… ([Location 252](https://readwise.io/to_kindle?action=open&asin=B00BFQKTGI&location=252))
+    - Tags: [[blue]] 
+- Anyone who is willing to make an earnest endeavour may arrive by his own intelligence, helped if he wishes by the writings of those who have more leisure and more capacity for it, at a worthwhile understanding of these abstract subjects. The intermittent study of these writings, the regular reading of these books will help him to keep his thinking close to true principles. He will get inspiration from their pages, comfort from their phrases, and peace from their ideas. These statements spark the kinetic mental energy of a responsive few… ([Location 260](https://readwise.io/to_kindle?action=open&asin=B00BFQKTGI&location=260))
+- They are apt to ignore the vital potency of living out these teachings, as opposed… ([Location 267](https://readwise.io/to_kindle?action=open&asin=B00BFQKTGI&location=267))
+    - Tags: [[orange]] 
+- Procrastination may be perilous. Later may be too late. Beware of being drawn into that vast cemetery wherein men bury their… ([Location 269](https://readwise.io/to_kindle?action=open&asin=B00BFQKTGI&location=269))
+    - Tags: [[pink]] 
+- The quest is not an enterprise of fits and starts, not something to be started today and left off tomorrow, but is the most durable undertaking in a man’s life. This is to be his most sacred life-purpose, the most honoured ground of his very… ([Location 271](https://readwise.io/to_kindle?action=open&asin=B00BFQKTGI&location=271))
+- Its chief enemy is indecision. ([Location 279](https://readwise.io/to_kindle?action=open&asin=B00BFQKTGI&location=279))
+    - Tags: [[orange]] 
+- The fool of today is the wise man of tomorrow—if he lets his mistakes teach him. ([Location 282](https://readwise.io/to_kindle?action=open&asin=B00BFQKTGI&location=282))
+    - Tags: [[pink]] 
+- Not what he can do, but what he does do, matters. ([Location 282](https://readwise.io/to_kindle?action=open&asin=B00BFQKTGI&location=282))
+    - Tags: [[orange]] 
+- There must be a certain ethical maturity before a man will even be willing to listen to such a teaching, and there must be a certain intellectual maturity before he will be able to learn it. There must be the will to analyse, the capacity to take an impartial attitude, the strength to renounce the vulgar view of things, and the desire to travel the road of truth inexorably to its last and logical conclusion. The fount of seeking must not be consciously or unconsciously muddied by selfish motive. It is not suggested that these preliminary qualifications must be present in their perfection and fullness—such will be the final result and not the first attempts on the quest—but that they should be present to a sufficient degree to make a marked disciplinary contribution to one’s inner life. ([Location 292](https://readwise.io/to_kindle?action=open&asin=B00BFQKTGI&location=292))
+    - Tags: [[blue]] 
+- It is not only a path to be followed but one to be followed with good humour and graciousness. ([Location 298](https://readwise.io/to_kindle?action=open&asin=B00BFQKTGI&location=298))
+- The sacrifice demanded of the aspirant is nothing less than his very self. ([Location 302](https://readwise.io/to_kindle?action=open&asin=B00BFQKTGI&location=302))
+    - Tags: [[pink]] 
+- give up the ego’s thinking and desiring, ([Location 303](https://readwise.io/to_kindle?action=open&asin=B00BFQKTGI&location=303))
+    - Tags: [[orange]] 
+- must overcome its emotional reactions to events and persons and things. ([Location 303](https://readwise.io/to_kindle?action=open&asin=B00BFQKTGI&location=303))
+    - Tags: [[orange]] 
+- Every time he stills the restless thoughts in silent meditation he is giving up the ego; every time he puts the desires aside in a crucial decision he is giving up the ego; every time he disciplines the body, the passions, the activities, he is giving up the ego. ([Location 303](https://readwise.io/to_kindle?action=open&asin=B00BFQKTGI&location=303))
+- self-humbling ([Location 306](https://readwise.io/to_kindle?action=open&asin=B00BFQKTGI&location=306))
+    - Tags: [[blue]] 
+- self-crucifixion. ([Location 306](https://readwise.io/to_kindle?action=open&asin=B00BFQKTGI&location=306))
+    - Tags: [[blue]] 
+- Entering upon this Quest is neither a pleasant nor an easy affair. The aspirant has to begin with the belief that he is a very imperfect person, that before he can penetrate into the spiritual realms he must first prepare himself for such an entrance by working hard to separate himself from these imperfections. Before he entered on the Quest, he liked himself most—now he discovers that he hates himself most. Before he entered on the Quest, he had different enemies here and there—now he has only one enemy, and that is himself. Hitherto he supported the ego by identifying himself with it—henceforth he must deny the ego, and try to affirm the higher self. ([Location 312](https://readwise.io/to_kindle?action=open&asin=B00BFQKTGI&location=312))
+    - Tags: [[orange]] 
+- When a man becomes tired of hearing someone else tell him that he has a soul, and sets out to gain firsthand experience of it for himself, he becomes a mystic. But, unfortunately, few men ever come to this point. (1–2.187) ([Location 321](https://readwise.io/to_kindle?action=open&asin=B00BFQKTGI&location=321))
+    - Tags: [[pink]] 
+- it concerns the intuition, not the intellect. ([Location 323](https://readwise.io/to_kindle?action=open&asin=B00BFQKTGI&location=323))
+    - Tags: [[orange]] 
+- My Webster defines a mystic as “one who relies chiefly upon meditation in acquiring truth.” This is a good dictionary definition, but it is not good enough because it does not go far enough. For every true mystic relies also on prayer, on purificatory self-denial, and on a master. (18–1.16) ([Location 324](https://readwise.io/to_kindle?action=open&asin=B00BFQKTGI&location=324))
+    - Tags: [[blue]] 
+- It must be clearly understood that it is only the philosophical quest, the path of the Bodhisattva, which we advocate here, which is threefold. The mystical quest is not. It is simpler. It requires only a single qualification—meditation practice. But it gives only a single fruit—inner peace—whereas the threefold quest yields a threefold fruit: (1) peace, (2) the intellectual ability to instruct others, (3) service. If therefore philosophy calls for a greater effort than mysticism, it compensates by its greater result. And whereas the mystical result is primarily an individual benefit, the philosophical result is both an individual and social one. ([Location 329](https://readwise.io/to_kindle?action=open&asin=B00BFQKTGI&location=329))
+    - Tags: [[pink]] 
+- Be not afraid! This very hour begin To do the Work thy spirit glories in; A thousand unseen forces wait to aid, Be not afraid, Begin! Begin! ([Location 336](https://readwise.io/to_kindle?action=open&asin=B00BFQKTGI&location=336))
+- The traveller must learn to walk resignedly in partial loneliness. ([Location 341](https://readwise.io/to_kindle?action=open&asin=B00BFQKTGI&location=341))
+    - Tags: [[orange]] 
+- Philosophy tries to bring a man to realize his own divinity for himself. Hence it tries to bring him to independent thinking, personal effort, and intuitive development. This is not the popular way nor the easy one; it offers no gregarious comfort or herd support. ([Location 346](https://readwise.io/to_kindle?action=open&asin=B00BFQKTGI&location=346))
+    - Tags: [[orange]] 
+- man never really escapes from his essential loneliness. ([Location 349](https://readwise.io/to_kindle?action=open&asin=B00BFQKTGI&location=349))
+    - Tags: [[orange]] 
+- He may push his social efforts at avoidance to extremes and indulge his personal ones to the point of creating illusions, but life comes down on him in some way or other and one day forces him back on himself. ([Location 350](https://readwise.io/to_kindle?action=open&asin=B00BFQKTGI&location=350))
+- Even where he fancies himself to have achieved happiness with or through others, even in the regions of love and friendship, some physical disharmony, some mental change, some emotional vacillation may eventually arise and break the spell, driving him back into isolation once more. ([Location 351](https://readwise.io/to_kindle?action=open&asin=B00BFQKTGI&location=351))
+    - Tags: [[blue]] 
+- “Before you buy, try three places.” ([Location 358](https://readwise.io/to_kindle?action=open&asin=B00BFQKTGI&location=358))
+    - Tags: [[orange]] 
+- It is true that the higher self can guide and even teach the aspirant from within and that in the end it is the only real guide and teacher. But it is also true that a premature assumption of self-sufficiency may lead him dangerously astray. Indeed, the higher self will direct him to some other human agent for help when he is sufficiently ready. Self-reliance and independence are valuable qualities but they may be pushed too far and thus turned into failings. The student who remains self-guided and self-inspired without making missteps or wasting years, is fortunate. ([Location 361](https://readwise.io/to_kindle?action=open&asin=B00BFQKTGI&location=361))
+    - Tags: [[orange]] 
+- That there are perils on this path of self-guidance, is obvious. It is easy to fall into conceit, to breed arrogance, even to imagine an inner voice. Here the saving virtue of balance must be ardently sought, and the protective quality of humbleness must be gently fostered. ([Location 368](https://readwise.io/to_kindle?action=open&asin=B00BFQKTGI&location=368))
+- Is it really necessary to travel to some holy land, some sacred place, some distant guru? The true answer is that none of these things is necessary. What you seek is precisely where you now are. Holiness and teaching can meet you there. Is it too hard for you to believe this? ([Location 373](https://readwise.io/to_kindle?action=open&asin=B00BFQKTGI&location=373))
+    - Tags: [[orange]] 
+- But one can only have the right to exercise such self-reliance if one pays for it in the coin of self-discipline. ([Location 375](https://readwise.io/to_kindle?action=open&asin=B00BFQKTGI&location=375))
+    - Tags: [[orange]] 
+- This injunction to be oneself is to be followed discriminatingly, not blindly. Why should I not follow the procession of another man’s thoughts if they be good and true and beautiful? ([Location 381](https://readwise.io/to_kindle?action=open&asin=B00BFQKTGI&location=381))
+    - Tags: [[orange]] 
+- A small group of sincere students meeting together may be of great help to each participant provided there is a basic spiritual affinity among them. If this is lacking even in one of the group, such a meeting may well lead to more confusion than enlightenment or may cause some or all to forget that on the quest each walks alone. ([Location 383](https://readwise.io/to_kindle?action=open&asin=B00BFQKTGI&location=383))
+- The virtues especially required are: harmlessness in feeling and deed, truthfulness in thought and word, honesty with oneself and with others, sexual restraint, humility. ([Location 392](https://readwise.io/to_kindle?action=open&asin=B00BFQKTGI&location=392))
+- It is a grave misconception to regard the mystical progress as passing mostly through ecstasies and raptures. On the contrary, it passes just as much through broken hearts and bruised emotions, through painful sacrifices and melancholy renunciations. ([Location 395](https://readwise.io/to_kindle?action=open&asin=B00BFQKTGI&location=395))
+- That same light which reveals his spiritual importance reveals also his personal insignificance. ([Location 397](https://readwise.io/to_kindle?action=open&asin=B00BFQKTGI&location=397))
+    - Tags: [[orange]] 
+- When the sublime light of the Ideal shines down upon him and he has the courage to look at his own image by it, he will doubtless make some humiliating discoveries about himself. He will find that he is worse than he believed and not so wise as he thought himself to be. But such discoveries are all to the good. For only then can he know what he is called upon to do and set to work following their pointers in self-improvement. ([Location 398](https://readwise.io/to_kindle?action=open&asin=B00BFQKTGI&location=398))
+    - Tags: [[pink]] 
+- You will not be able to understand the world better than you understand yourself. The lamp which can illumine the world for you must be lighted within yourself. ([Location 402](https://readwise.io/to_kindle?action=open&asin=B00BFQKTGI&location=402))
+    - Tags: [[pink]] 
+- The practice of yoga as a psychological discipline and the study of philosophy as a mental re-education are two essentials in the equipment of the man who would explore the highest. ([Location 406](https://readwise.io/to_kindle?action=open&asin=B00BFQKTGI&location=406))
+- sacrifice his ego on the altar of ultimate attainment. ([Location 410](https://readwise.io/to_kindle?action=open&asin=B00BFQKTGI&location=410))
+    - Tags: [[orange]] 
+- For the final stage of this climb demands that the insight gained by philosophic knowledge into the ego’s true nature be applied to the entire life of thought, feeling, and conduct—not by some sudden dramatic gesture but by working incessantly during every moment of every day. ([Location 410](https://readwise.io/to_kindle?action=open&asin=B00BFQKTGI&location=410))
+    - Tags: [[orange]] 
+- a form of continuous concentration, ([Location 413](https://readwise.io/to_kindle?action=open&asin=B00BFQKTGI&location=413))
+    - Tags: [[pink]] 
+- for the truth to make itself known to him. ([Location 417](https://readwise.io/to_kindle?action=open&asin=B00BFQKTGI&location=417))
+    - Tags: [[orange]] 
+- This statement presupposes that it is already present and only waiting to reveal itself. ([Location 417](https://readwise.io/to_kindle?action=open&asin=B00BFQKTGI&location=417))
+    - Tags: [[pink]] 
+- It first comes to him as “The Interior Word,” the Logos within, and later as “the second birth.” ([Location 418](https://readwise.io/to_kindle?action=open&asin=B00BFQKTGI&location=418))
+    - Tags: [[orange]] 
+- The stages of the quest are fairly well defined. First, the aspiration toward spiritual growth manifests itself in a man’s heart. Second, the feeling of repentance for past error and sin saddens it. Third, the submission to an ascetic or self-denying discipline follows as a reaction. Fourth, the practice of regular exercises in meditation is carried on. ([Location 426](https://readwise.io/to_kindle?action=open&asin=B00BFQKTGI&location=426))
+    - Tags: [[pink]] 
+- The path requires an all-round effort. It calls for the discipline of emotions as well as the purification of character from egoism, the practice of the art of meditation as well as religious devotion and prayer, constant reflection about the experiences of life to learn the lessons behind them, and constant discrimination between the values of earthly and spiritual things. This self-development crowned by altruistic activity will in time call forth the grace of the Overself and will bring blissful glimpses occasionally to encourage his endeavours. As pointed out in my Wisdom of the Overself, not only one but all the functions of one’s being must unite in the effort to reach the spiritual goal. ([Location 430](https://readwise.io/to_kindle?action=open&asin=B00BFQKTGI&location=430))
+    - Tags: [[orange]] 
+- Do not pretend to be other than you are. If you are one of the multitude, do not put upon yourself the proud robes of the Teacher and pretend to be able to imitate him; unless you stick to the Truth, you can never find it. To put yourself upon the pedestal of spiritual prestige before the Master or God has first put you there, is to make the first move towards a humiliating and painful fall. (25–5.33) ([Location 445](https://readwise.io/to_kindle?action=open&asin=B00BFQKTGI&location=445))
+- Six are the duties of such a teacher: (1) to instruct the student in new knowledge, (2) to correct the errors of his existing knowledge, (3) to develop his mentality in a balanced way, (4) to restrain him from committing evil, (5) to encourage him compassionately, and (6) to open the mystical path to him by active help in meditation. ([Location 462](https://readwise.io/to_kindle?action=open&asin=B00BFQKTGI&location=462))
+    - Tags: [[orange]] 
+- thorough competence, moral purity, and compassionate altruism. ([Location 465](https://readwise.io/to_kindle?action=open&asin=B00BFQKTGI&location=465))
+    - Tags: [[pink]] 
+- Teaching that does not stem forth from personal experience can never have the effectiveness of teaching that does. ([Location 467](https://readwise.io/to_kindle?action=open&asin=B00BFQKTGI&location=467))
+    - Tags: [[orange]] 
+- It is essential that a spiritual preceptor live up to the lofty precepts he hands out; if he is unable to do this, he ought to come down from his high seat and take his place among the pupils—preferably in the back row. ([Location 468](https://readwise.io/to_kindle?action=open&asin=B00BFQKTGI&location=468))
+    - Tags: [[pink]] 

@@ -1,0 +1,96 @@
+{
+  "name": "AI Prompting & LLM Mastery",
+  "children": [
+    {
+      "name": "Core Prompting Techniques",
+      "children": [
+        {
+          "name": "Clarity & Specificity",
+          "children": [
+            { "name": "Define clear goals" },
+            { "name": "Provide context/background" },
+            { "name": "Set explicit constraints" }
+          ]
+        },
+        {
+          "name": "Few-Shot Prompting",
+          "children": [
+            { "name": "Provide summary examples" },
+            { "name": "Guide desired output format" }
+          ]
+        },
+        {
+          "name": "Task Decomposition",
+          "children": [
+            { "name": "Break complex tasks into steps" },
+            { "name": "Sequential execution for quality" }
+          ]
+        },
+        {
+          "name": "Formatting & Style",
+          "children": [
+            { "name": "Specify tables, lists, or docs" },
+            { "name": "Define persona and tone" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Advanced Strategies",
+      "children": [
+        {
+          "name": "Multi-Agent Systems",
+          "children": [
+            { "name": "Orchestrator-worker patterns" },
+            { "name": "Parallel subagent search" },
+            { "name": "Scale effort to complexity" }
+          ]
+        },
+        {
+          "name": "Retrieval Augmented Generation (RAG)",
+          "children": [
+            { "name": "Use external knowledge bases" },
+            { "name": "Reduce hallucinations" },
+            { "name": "Real-time data integration" }
+          ]
+        },
+        {
+          "name": "Model Optimization",
+          "children": [
+            { "name": "Prompt engineering" },
+            { "name": "Fine-tuning on custom data" },
+            { "name": "System/Master prompts" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Common Mistakes (GIGO)",
+      "children": [
+        { "name": "Vague or ambiguous queries" },
+        { "name": "Overloading with information" },
+        { "name": "Assuming human-like common sense" },
+        { "name": "Failing to iterate or refine" },
+        { "name": "Ignoring session context/history" }
+      ]
+    },
+    {
+      "name": "Ethical & Practical Challenges",
+      "children": [
+        { "name": "Bias and prejudice mitigation" },
+        { "name": "Data privacy and security" },
+        { "name": "Intellectual property ownership" },
+        { "name": "Environmental impact/Compute costs" }
+      ]
+    },
+    {
+      "name": "Future Trends",
+      "children": [
+        { "name": "Multimodal prompting (Image/Sound)" },
+        { "name": "No-code AI platforms" },
+        { "name": "Automated prompt engineering" },
+        { "name": "Agency-driven agent systems" }
+      ]
+    }
+  ]
+}

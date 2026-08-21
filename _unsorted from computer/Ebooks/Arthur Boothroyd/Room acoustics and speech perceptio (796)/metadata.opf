@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">796</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dbfb0b3e-039b-4c31-8455-e35a13839279</dc:identifier>
+        <dc:title>Room acoustics and speech perception</dc:title>
+        <dc:creator opf:file-as="Boothroyd, Arthur" opf:role="aut">Arthur Boothroyd</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.9.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-07-22T20:36:22+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Arthur Boothroyd&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-01-29T04:32:30.060000+00:00" name="calibre:timestamp"/>
+        <meta content="Room acoustics and speech perception" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,788 @@
+# NobleStrategy_200411.pdf
+
+Essays on the Buddhist Path
+
+Ṭhānissaro Bhikkhu
+
+(Geoffrey DeGraff)
+
+Copyright 1999 Ṭhānissaro Bhikkhu,
+
+Revised edition 2018
+
+This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 Unported. To see a copy of this license visit http://creativecommons.org/licenses/by-nc/4.0/. “Commercial” shall mean any sale, whether for commercial or non-profit purposes or entities.
+
+Questions about this book may be
+
+addressed to
+
+Metta Forest Monastery Valley Center, CA 92082-1409 U.S.A.
+
+Additional resources
+
+More Dhamma talks, books and translations by Thanissaro Bhikkhu are available to download in digital audio and various ebook formats at dhammatalks.org.
+
+Printed copy
+
+A paperback copy of this book is available free of charge. To request one, write to: Book Request, Metta Forest Monastery, PO Box 1409, Valley Center, CA 92082 USA.
+
+Introduction
+
+The essays in this book present views on basic elements in the Buddhist path: the attitudes, concepts, and practices that lead to total freedom for the mind. If the views are right, they themselves form a part of the path. So, to make best use of these essays, it’s important to understand how views function in bringing about freedom.
+
+Any correct statement about the path is a part of right view. And yet the goal of the path—total freedom—includes freedom from attachment to all views. This means that right views don’t stand at the end of the path. In other words, we don’t practice the path simply to arrive at right view. And yet we can’t follow the path without making use of right views. So right views are tools— strategies—to a higher end. They are unique in that their approach to reality leads ultimately to their own transcendence. They are meant to spark the sort of inquiry that takes the mind beyond them. Their efficacy is what proves their truth. Their integrity in action, combined with the worthiness of their outcome, is what makes them, as strategies, noble.
+
+The essays collected here are intended as aids to this program of noble strategy. There is much more to this program than can be contained in this or any other book. After all, right view is only part of the path. But my hope is that these essays will help get you started on the right path to freedom, and that the points they raise will prove useful along the way.
+
+Ṭhānissaro Bhikkhu
+
+(Geoffrey DeGraff)
+
+August, 1999; December, 2018
+
+Affirming the Truths of the Heart
+
+The Buddhist Teachings on Saṁvega & Pasāda
+
+We rarely think of Buddhism as an emotional religion. Early Buddhism in particular is often depicted as centered more in the upper left quadrant of the head than in the heart. But if you look closely at the tradition, you’ll find that from the very beginning it has been fueled by a deeply felt emotional core.
+
+Think back for a moment on the story of the young Prince Siddhartha and his first encounters with aging, illness, death, and a wandering forest contemplative. It’s one of the most accessible chapters in the Buddhist tradition, largely because of the direct, true-to-the-heart quality of the young prince’s emotions. He saw aging, illness, and death as an absolute terror, and pinned all his hopes on the contemplative forest life as his only escape. As Aśvaghoṣa, the great Buddhist poet, depicts the story, the young prince had no lack of friends or family members to try to talk him out of those perceptions, and Aśvaghoṣa was wise enough to show their life-affirming advice in a very appealing light. Still, the prince realized that if he were to give in to their advice, he would be betraying his heart. Only by remaining true to his honest emotions was he able to embark on the path that led away from the ordinary values of his society and toward an awakening into what lay beyond the limitations of life and death.
+
+This is hardly a life-affirming story in the ordinary sense of the term, but it does affirm something more important than living: the truth of the heart when it aspires to a happiness that’s absolutely pure. The power of this aspiration depends on two
+
+emotions, called in Pali saṁvega and pasāda. Very few of us have
+
+heard of them, but they’re the emotions most basic to the Buddhist tradition. Not only did they inspire the young prince in his quest for awakening. Even after he became the Buddha, he
+
+advised his followers to cultivate them on a daily basis. In fact, the way he handled these emotions is so distinctive that it may be one of the most important contributions his teachings have to offer to our culture today.
+
+Saṁvega was what the young Prince Siddhartha felt on his first
+
+exposure to aging, illness, and death. It’s a hard word to translate because it covers such a complex range—at least three clusters of feelings at once: the oppressive sense of dismay, terror, and alienation that comes with realizing the futility and meaninglessness of life as it’s normally lived; a chastening sense of our own complicity, complacency, and foolishness in having let ourselves live so blindly; and an anxious sense of urgency in trying to find a way out of the meaningless cycle. This is a cluster of feelings that we’ve all experienced at one time or another in the process of growing up, but I know of no single English term that adequately covers all three. Such a term would be useful to have, and maybe that’s reason enough for simply adopting the word
+
+saṁvega into our language.
+
+But more than providing a useful term, Buddhism also offers an effective strategy for dealing with the feelings behind it—feelings that modern culture finds threatening and handles very poorly. Ours, of course, is not the only culture threatened by feelings of saṁvega. In the Siddhartha story, the father’s reaction to the young prince’s discovery stands for the way most cultures try to deal with these feelings: He tried to convince the prince that his standards for happiness were impossibly high, at the same time trying to distract him with relationships and every sensual pleasure imaginable. Not only did he arrange an ideal marriage for the prince, but he also built him a palace for every season of the year, bought him only the best clothes and toiletries, sponsored a constant round of entertainments, and kept the servants well paid so that they could put at least a semblance of joy into their job of satisfying the prince’s every whim.
+
+To put it simply, the father’s strategy was to get the prince to lower his aims and to find satisfaction in a happiness that was less
+
+than absolute and far from pure. If the young prince were alive today, the father would have other tools for dealing with the prince’s dissatisfaction—including psychotherapy, mindfulness retreats, and religious counseling—but the basic strategy would be the same: to distract the prince and dull his sensitivity so that he could settle down and become a well-adjusted, productive member of society.
+
+Fortunately, the prince was too eagle-eyed and lion-hearted to submit to such a strategy. And, again fortunately, he was born into a society that offered him the opportunity to find a solution to the problem of saṁvega that did justice to the truths of his heart.
+
+The first step in that solution is symbolized in the Siddhartha story by the prince’s reaction to the fourth person he saw on his travels outside of the palace: the wandering forest contemplative. Compared to what he called the confining, dusty path of the householder’s life, the prince saw the freedom of the contemplative’s life as the open air. Such a path of freedom, he felt, would allow him the opportunity to find the answers to his life-and-death questions, and to live a life in line with his highest ideals, “as pure as a polished shell.”
+
+The emotion he felt at this point is termed pasāda. Like saṁvega, pasāda covers a complex set of feelings. It’s usually translated as
+
+“clarity and serene confidence”—mental states that keep saṁvega from turning into despair. In the prince’s case, he gained a clear sense of his predicament, together with confidence that he had found the way out.
+
+As the early Buddhist teachings freely admit, the predicament is
+
+that the cycle of birth, aging, and death is meaningless. They don’t
+
+try to deny this fact and so don’t ask us to be dishonest with ourselves or to close our eyes to reality. As one teacher has put it, the Buddhist recognition of the reality of suffering—so important that suffering is honored as the first noble truth—is a gift. It confirms our most sensitive and direct experience of things, an experience that many other traditions try to deny.
+
+From there, the early teachings ask us to become even more
+
+sensitive, until we see that the true cause of suffering is not out there—in society or some outside being—but in here, in the craving
+
+present in each individual mind. They then confirm that there is an end to suffering, a release from the cycle. And they show the way to that release, through developing noble qualities already latent in the mind to the point until they can cast craving aside and open onto deathlessness. Thus the predicament has a practical solution, a solution within the powers of every human being.
+
+It’s also a solution open to critical scrutiny and testing—an indication of the Buddha’s own confidence in his handling of the problem of saṁvega. This is one of the aspects of authentic Buddhism that most attracts people who are tired being told that they should try to deny the insights that inspired their sense of saṁvega in the first place.
+
+In fact, Buddhism is not only confident that it can handle feelings of saṁvega but it’s one of the few religions that actively cultivate them in a thoroughgoing way. Its solution to the problems of life demands so much dedicated effort that only strong saṁvega will keep the practicing Buddhist from slipping back into his or her old ways. Hence the recommendation that all men and women, lay or ordained, should reflect daily on the facts of aging, illness, separation, and death—to develop feelings of saṁvega—and on the power of one’s own actions, to take saṁvega one step further, to pasāda.
+
+For people whose sense of saṁvega is so strong that they want to abandon any social ties that interfere with the path to the end of suffering, Buddhism offers both a long-proven body of wisdom to draw on, as well as a safety net: the monastic saṅgha, an institution that enables them to leave lay society without having to waste time worrying about basic survival. For those who can’t leave their social ties, Buddhism offers a way to live in the world without being overcome by the world, following a path of generosity, virtue, and meditation to strengthen the noble
+
+qualities of the mind that will lead to the end of suffering. The close, symbiotic relationship maintained between these two
+
+branches of the Buddhist parisā, or following, guarantees that the
+
+monastics don’t turn into misfits and misanthropes, and that the laity don’t lose touch with the values that will keep their practice alive.
+
+So the Buddhist attitude toward life cultivates saṁvega—a strong sense of the meaninglessness of the cycle of birth, aging, and death—and develops it into pasāda: a confident path to the Deathless. That path includes not only time-proven guidance, but also a social institution that nurtures and keeps it alive. These are all things that we and our society desperately need. As we look into the Buddha’s teachings to see what they offer to the mainstream of our modern life, we should remember that one source of Buddhism’s strength is its ability to keep one foot out of the mainstream, and that the traditional metaphor for the
+
+practice is that it crosses over the stream to the further shore.
+
+Karma is one of those words we don’t translate. Its basic meaning is simple enough—action—but because of the weight the
+
+Buddha’s teachings give to the role of action, the Sanskrit word
+
+karma packs in so many implications that the English word action
+
+can’t carry all its luggage. This is why we’ve simply airlifted the original word into our vocabulary.
+
+But when we try unpacking the connotations the word carries now that it has arrived in everyday usage, we find that most of its luggage has gotten mixed up in transit. For most people, karma functions like fate—and bad fate, at that: an inexplicable, unchangeable force coming out of our past, for which we are somehow vaguely responsible and powerless to fight. “I guess it’s just my karma,” I’ve heard people sigh when bad fortune strikes with such force that they see no alternative to resigned acceptance. The fatalism implicit in this statement is one reason why so many of us feel repelled by the concept of karma, for it sounds like the kind of callous myth-making that can justify almost any kind of suffering or injustice in the status quo: “If he’s poor, it’s because of his karma.” “If she’s been raped, it’s because of her karma.” From this it seems a short step to saying that he or she
+
+deserves to suffer, and so doesn’t deserve our help.
+
+This misperception comes from the fact that the Buddhist concept of karma came to the West at the same time as non-Buddhist concepts, and so ended up with some of their luggage. Although many ancient concepts of karma are fatalistic, the early Buddhist concept was not fatalistic at all. In fact, if we look closely at early Buddhist ideas of karma, we’ll find that they give even less importance to myths about the past than most modern people do.
+
+For the early Buddhists, karma was non-linear. Other Indian schools believed that karma operated in a straight line, with actions from the past influencing the present, and present actions influencing the future. As a result, they saw little room for free will. Buddhists, however, saw that karma acts in feedback loops, with the present moment being shaped both by past and by present actions; present actions shape not only the future but also the present. This constant opening for present input into the causal process makes free will possible. This freedom is symbolized in the imagery the Buddhists used to explain the process: flowing water. Sometimes the flow from the past is so strong that little can be done except to stand fast, but there are also times when the flow is gentle enough to be diverted in almost any direction.
+
+So, instead of promoting resigned powerlessness, the early Buddhist notion of karma focused on the liberating potential of what the mind is doing at every moment. Who you are—what you come from—is not anywhere near as important as the mind’s motives for what it’s doing right now. Even though the past may account for many of the inequalities we see in life, our measure as human beings is not the hand we’ve been dealt, for that hand can change at any moment. We take our own measure by how well we play the hand we’ve got. If you’re suffering, you try not to continue the unskillful mental habits that would keep that particular karmic feedback going. If you see that other people are suffering, and you’re in a position to help, you focus not on their karmic past but your karmic opportunity in the present: Someday you may find yourself in the same predicament they’re in now, so here’s your opportunity to act in the way you’d like them to act toward you when that day comes.
+
+This belief that one’s dignity is measured, not by one’s past, but by one’s present actions, flew right in the face of the Indian traditions of caste-based hierarchies, and explains why early Buddhists had such a field day poking fun at the pretensions and mythology of the brahmans. As the Buddha pointed out, a
+
+brahman could be a superior person not because he came out of a brahman womb, but only if he acted with truly skillful intentions.
+
+We read the early Buddhist attacks on the caste system, and aside from their anti-racist implications, they often strike us as quaint. What we fail to realize is that they strike right at the heart of our myths about our own past: our obsession with defining who we are in terms of where we come from—our race, ethnic heritage, gender, socio-economic background, sexual preference—our modern tribes. We put inordinate amounts of energy into creating and maintaining the mythology of our tribe so that we can take vicarious pride in our tribe’s good name. Even when we become Buddhists, the tribe comes first. We demand a Buddhism that honors our myths.
+
+From the standpoint of karma, though, where we come from is old karma, over which we have no control. What we “are” is a nebulous concept at best—and pernicious at worst, when we use it to find excuses for acting on unskillful motives. The worth of a tribe lies only in the skillful actions of its individual members. Even when those good people belong to our tribe, their good karma is theirs, not ours. And, of course, every tribe has its bad members, which means that the mythology of the tribe is a fragile thing. To hang onto anything fragile requires a large investment of passion, aversion, and delusion, leading inevitably to more unskillful actions on into the future.
+
+So the Buddhist teachings on karma, far from being a quaint relic from the past, are a direct challenge to a basic thrust—and basic flaw—in modern culture. Only when we abandon our obsession with finding vicarious pride in our tribal past, and can take actual pride in the motives that underlie our present actions,
+
+can we say that the word karma, in its Buddhist sense, has
+
+recovered its luggage. And when we open the luggage, we’ll find that it’s brought us a gift: the gift we give ourselves and one another when we drop our myths about who we are, and can instead be honest about what we’re doing with each moment—at the same time making the effort to do it right.
+
+The Road to Nirvāṇa Is Paved with Skillful Intentions
+
+There’s an old saying that the road to hell is paved with good intentions, but that’s not really the case. The road to hell is paved with intentions that are lustful, harmful, and mean. Good intentions—well-meaning and harmless—pave roads leading to heavens of pleasure. So why do they have such a bad reputation? There are three main reasons:
+
+One is that not all good intentions are especially skillful. They can be misguided and inappropriate for the occasion, resulting in pain and regret.
+
+A second reason is that we often misunderstand the quality of our own intentions. We may mistake a mixed intention for a good one, for instance, and thus get disappointed when it gives mixed results.
+
+A third reason is that we easily misread the way intentions yield their results—as when the painful results of an bad intention in the past obscure the results of a good intention in the present, and yet we blame our present intention for the pain.
+
+All these reasons, acting together, lead us to become disillusioned with the potential of good intentions. As a result, we either grow cynical about them or else simply abandon the care and patience needed to perfect them.
+
+One of the Buddha’s most penetrating discoveries is that our intentions are the main factors shaping our lives and that they can be mastered as a skill. If we subject them to the same qualities of mindfulness, persistence, and discernment involved in developing any skill, we can perfect them to the point where they will lead to
+
+no regrets or damaging results in any given situation. Ultimately, they can lead us to the truest possible happiness.
+
+To train our intentions in this way, though, requires a deep level of self-awareness. Why is that? If you look carefully at the reasons for our disillusionment with good intentions, you’ll find that they all come down to delusion. And as the Buddha tells us, delusion is one of the three main roots for unskillful intentions, the other two being greed and aversion. These unskillful roots lie entangled with skillful roots—states of mind that are free of greed, aversion, and delusion—in the soil of the untrained heart. If we can’t isolate and dig up the unskillful roots, we can never be fully sure of our intentions. Even when a skillful intention seems foremost in the mind, the unskillful roots can quickly send up shoots that blind us as to what’s actually going on.
+
+If we were to sketch this state of affairs, the picture would look something like this: The straight road to hell is paved with bad intentions, some of which may look good to a casual glance. Roads paved with good intentions, leading to heavens of pleasure—some of them quite skillful—branch off on either side of the way, but all too often they get lost in an underbrush of unskillfulness, and we find ourselves back on the road to hell. The Buddha’s discovery was that if we nourish the skillful roots, they can grow and effectively block the road to hell; if we cut away the underbrush of unskillfulness and dig out its roots, we can develop our good intentions to higher and higher levels of skill until ultimately they bring us to a happiness totally unlimited, beyond any further need for a path.
+
+The most basic step in this process is to make sure that we stay off the road to hell. We do this through the practice of generosity and virtue, consciously replacing unskillful intentions with more skillful ones. We then refine our intentions even further through meditation, digging up the roots of greed, aversion, and delusion to prevent them from influencing the choices shaping our lives. Greed and anger are sometimes easy to detect, but delusion—by its
+
+very nature—is obscure. When we’re deluded, we don’t know we’re
+
+deluded. That’s why meditation has to focus on strengthening and quickening our powers of mindfulness and alertness: so that we can catch sight of delusion and uproot it before it takes over our minds.
+
+The Buddha’s most basic meditation instructions for refining intention start, not on the cushion, but with the activity of daily life. They’re contained in a discourse (MN 61) to his young son, Rāhula, and attack the Catch-22 of delusion through two approaches. The first is what the early Buddhist texts call “appropriate attention”: the ability to ask yourself the right questions, questions that cut straight to the causes of pleasure and pain, without entangling the mind in needless confusion. The second approach is friendship with admirable people: associating with, learning from, and emulating people who are virtuous, generous, and wise. These two factors, the Buddha said, are the most helpful internal and external aids for a person following the path.
+
+In essence, the Buddha told Rāhula to use his actions as a mirror for reflecting the quality of his mind. Each time before he acted— and here “acting” covers any action in thought, word, or deed—he was to reflect on the result he expected from the action and ask himself: “Is this going to lead to harm for myself and others?” If it was going to be harmful, he shouldn’t do it. If it looked harmless, he could go ahead and act.
+
+However, the Buddha cautioned Rāhula, he shouldn’t blindly trust his expectations. While he was in the process of acting, he should ask himself if there were any unexpected bad consequences arising. If there were, he should stop. If there weren’t, he could continue his action to the end.
+
+Even then, though, the job of reflection wasn’t finished. He should also notice the actual short- and long-term consequences of the action. If an action in word or deed ended up causing harm, then he should inform a fellow-practitioner on the path and listen to that person’s advice. If the mistaken action was purely an act of the mind, then he should develop a sense of shame and disgust
+
+toward that kind of thought. In both cases, he should resolve never to make the same mistake again. If, however, the long-term consequences of the original action were harmless, he should take joy in being on the right path and continue his training.
+
+From this we can see that the essential approach for uncovering delusion is the familiar principle of learning from our own mistakes. The way the Buddha formulates this principle, though, has important implications, for it demands qualities of self-honesty and maturity in areas where they are normally hard to find: our evaluation of our own intentions and of the results of our actions.
+
+As children we learn to be dishonest about our intentions simply as a matter of survival: “I didn’t mean to do it,” “I couldn’t help it,” “I was just swinging my arm and he got in the way.” After a while, we begin to believe our own excuses and don’t like to admit to ourselves when our intentions are less than noble. As a result, we get into the habit of not articulating our intentions when faced with a choice, of refusing to consider the consequences of our intentions, and—in many cases—of denying that we had a choice to begin with. This is how addictive behavior starts, and unskillful intentions are given free rein.
+
+A similar dynamic surrounds our reactions to the consequences of our actions. We start learning denial at an early age—“It wasn’t my fault,” “It was already broken when I lay down on it”—and then internalize the process, as a way of preserving our self-image, to the point where it becomes second nature to turn a blind eye to the impact of our mistakes.
+
+As the Buddha points out, the end of suffering requires that we abandon craving and ignorance, but if we can’t be honest with ourselves about our intentions, how can we perceive craving in time to abandon it? If we can’t face up to the principle of cause and effect in our actions, how will we ever overcome ignorance? Ignorance is caused less by a lack of information than by a lack of self-awareness and self-honesty. To understand the noble truths
+
+requires that we be truthful with ourselves in precisely the areas where self-honesty is most difficult.
+
+It also requires maturity. As we examine our intentions, we need to learn how to say no to unskillful motives in a way that’s firm enough to keep them in check but not so firm that it drives them underground into subconscious repression. We can learn to see the mind as a committee: the fact that unworthy impulses are
+
+proposed by members of the committee doesn’t mean that we are
+
+unworthy. We don’t have to assume responsibility for everything that gets brought to the committee floor. Our responsibility lies instead in our power to adopt or veto the motion.
+
+At the same time, we should be adult enough to admit that our habitual or spontaneous impulses are not always trustworthy— first thought is not always best thought—and that what we feel like doing now may not give results that will be pleasant to feel at a later date. As the Buddha said, there are four courses of action that may be open to us at any particular time: one that we want to do and will give good results; one that we don’t want to do and will give bad results; one that we want to do but will give bad results; and one that we don’t want to do but will give good results. The first two are no-brainers. We don’t need much intelligence to do the first and avoid the second. The measure of our true intelligence lies in how we handle the last two choices.
+
+Examining the results of our actions requires maturity as well: a mature realization that self-esteem can’t be based on always being right, and that there’s nothing demeaning or degrading in admitting a mistake. We all come from a state of delusion—even the Buddha was coming from delusion as he sought awakening— so it’s only natural that there will be mistakes. Our human dignity lies in our ability to recognize those mistakes, to resolve not to repeat them, and to stick to that resolution. This in turn requires that we not be debilitated by feelings of guilt or remorse over our errors. As the Buddha states, feelings of guilt can’t undo a past error, and they can deprive the mind of the strength it needs to keep from repeating old mistakes.
+
+This is why he recommends an emotion different from guilt— shame—although his use of the word implies something totally unlike the sense of unworthiness we often associate with the term. Remember that both the Buddha and Rāhula were members of the noble warrior class, a class with a strong sense of its own honor and dignity. And notice that the Buddha tells Rāhula to see his past mistakes, not himself, as shameful. This implies that it’s beneath Rāhula’s dignity to act in ways that are less than honorable. This shame is a mark of high, rather than low, self-esteem. The fact that Rāhula can see his actions as shameful is a sign of his honor—and is also a sign that he’ll be able not to repeat them. This sense of honor is what underlies a mature, healthy, and productive sense of shame.
+
+At first glance, we might think that continual self-reflection of this sort would add further complications to our lives when they already seem more than complicated enough, but in fact the Buddha’s instructions are an attempt to strip the questions in our minds down to the most useful essentials. He explicitly warns against taking on too many questions, particularly those that lead nowhere and tie us up in knots: “Who am I? Am I basically a good person? An unworthy person?” Instead, he tells us to focus on our intentions so that we can see how they shape our life, and to master the processes of cause and effect so that they can shape our life in increasingly better ways. This is the way every great artist or craftsman develops mastery and skill.
+
+The emphasis on the intentions behind our actions and their resulting consequences also carries over from daily life onto the meditation seat, providing our meditation with the proper focus. In examining our actions in terms of cause and effect, skillful and unskillful, we are already beginning to look at experience in line with the two sets of variables that make up the four noble truths: the origination of stress (unskillful cause), the path to the cessation of stress (skillful cause), stress (unskillful effect), and the cessation of stress (skillful effect). The way the Buddha recommended that Rāhula judge the results of his actions—both
+
+while doing them and after they are done—echoes the insight that formed the heart of his awakening: that intentions have results both in the immediate present and over time.
+
+When we look at the present moment from this perspective, we find that our experience of the present doesn’t “just happen.” Instead, it’s a product of our involvement—in terms of present intentions, the results of present intentions, and the results of past intentions—in which present intentions are the most important factor. The more we focus on that involvement, the more we can bring it out of the half-light of the subconscious and into the full light of awareness. There we can train our intentions, through conscious trial and error, to be even more skillful, enabling us to lessen our experience of suffering and pain in the present. This is how skillful intentions pave the road to mental health and well-being in the ordinary world of our lives.
+
+As we work at developing our intentions to even higher levels of skill, we find that the most consummate intentions are those that center the mind securely in a clear awareness of the present. As we use them to become more and more familiar with the present, we
+
+come to see that all present intentions, no matter how skillful, are
+
+inherently burdensome. The only way out of this burden is to allow the unraveling of the intentions that provide the weave for our present experience. This provides an opening to the dimension of unlimited freedom that lies beyond them.
+
+That’s how skillful intentions pave the road all the way to the edge of nirvāṇa. And from there, the path—“like that of birds through space”—can’t be traced.
+
+The Healing Power of the Precepts
+
+The Buddha was like a doctor, treating the spiritual ills of the human race. The path of practice he taught was like a course of therapy for suffering hearts and minds.
+
+This way of understanding the Buddha and his teachings dates back to the earliest texts, and yet is also very current. Buddhist meditation is often advertised as a form of healing, and quite a few psychotherapists now recommend that their patients try meditation as part of their treatment.
+
+Experience has shown, though, that meditation on its own can’t provide a total therapy. It requires outside support. Modern meditators in particular have been so wounded by mass civilization that they lack the resilience, persistence, and self-esteem needed before concentration and insight practices can be genuinely therapeutic.
+
+Many teachers, noticing this problem, have decided that the Buddhist path is insufficient for our particular needs. To make up for this insufficiency they’ve experimented with ways of supplementing meditation practice, combining it with such things as myth, poetry, psychotherapy, social activism, sweat lodges, mourning rituals, and even drumming. The problem, though, might not be that there’s anything lacking in the Buddhist path, but that we simply haven’t been following the Buddha’s full course of therapy.
+
+The Buddha’s path consists not only of mindfulness, concentration, and insight practices, but also of virtue, beginning with the five precepts. In fact, the precepts constitute the first step in the path. There’s a modern tendency to dismiss the five precepts as Sunday-school rules bound to old cultural norms that no longer apply to modern society, but this misses the role that
+
+the Buddha intended for them: as part of a course of therapy for wounded minds. In particular, they are aimed at curing two ailments that underlie low self-esteem: regret and denial.
+
+When our actions don’t measure up to certain standards of behavior, we either (1) regret the actions or (2) engage in one of two kinds of denial, either (a) denying that our actions did in fact happen or (b) denying that the standards of measurement are really valid. These reactions are like wounds in the mind. Regret is an open wound, tender to the touch, whereas denial is like hardened, twisted scar tissue around a tender spot. When the mind is wounded in these ways, it can’t settle down comfortably in the present, because it finds itself resting on raw, exposed flesh or calcified knots. When it’s forced to stay in the present, it’s there only in a tensed, contorted, and partial way. The insights it gains tend to be contorted and partial as well. Only if the mind is free of wounds and scars can it settle down comfortably and freely in the present and give rise to undistorted discernment.
+
+This is where the five precepts come in: They’re designed to heal these wounds and scars. Healthy self-esteem comes from living up to a set of standards that are practical, clear-cut, humane, and worthy of respect. The five precepts are formulated in such a way that they provide just such a set of standards.
+
+Practical: The standards set by the precepts are simple—no
+
+intentional killing, stealing, engaging in illicit sex, lying, or taking intoxicants. It’s entirely possible to live in line with these standards—not always easy or convenient, maybe, but always possible. Some people translate the precepts into standards that sound more lofty or noble—taking the second precept, for example, to mean no abuse of the planet’s resources—but even those who reformulate the precepts in this way admit that it’s impossible to live up to them. Anyone who has dealt with psychologically damaged people knows the damage that can come from having impossible standards to live by. If you can give people standards that take a little effort and mindfulness but are possible to meet, their self-esteem soars dramatically as they find
+
+themselves actually capable of meeting those standards. They can then face more demanding tasks with confidence.
+
+Clear-cut: The precepts are formulated with no ifs, ands, or buts.
+
+This means that they give very clear guidance, with no room for waffling or less-than-honest rationalizations. An action either fits in with the precepts or it doesn’t. Again, standards of this sort are very healthy to live by. Anyone who has raised children has found that, although they may complain about hard and fast rules, they actually feel more secure with them than with rules that are vague and always open to negotiation. Clear-cut rules don’t allow for unspoken agendas to come sneaking in the back door of the mind. If, for example, the precept against killing allowed you to kill living beings when their presence is inconvenient, that would place your convenience on a higher level than your compassion for life. Convenience would become your unspoken standard—and as we all know, unspoken standards provide huge tracts of fertile ground for hypocrisy and denial to grow. If, however, you stick by the standards of the precepts, then as the Buddha says, you’re providing unlimited safety for the lives of all. There are no conditions under which you would take the lives of any living beings, no matter how inconvenient they might be. In terms of the other precepts, you’re providing unlimited safety for their possessions and sexuality, and unlimited truthfulness and mindfulness in your communication with them. When you find that you can trust yourself in matters like these, you gain an undeniably healthy sense of self-esteem.
+
+Humane: The precepts are humane both to the person who
+
+observes them and to the people affected by his or her actions. If you observe them, you’re aligning yourself with the doctrine of karma, which teaches that the most important powers shaping your experience of the world are the intentional thoughts, words, and deeds you chose in the present moment. This means that you are not insignificant. With every choice you take—at home, at work, at play—you are exercising your power in the ongoing fashioning of the world. At the same time, this principle allows
+
+you to measure yourself in terms that are entirely under your control: your intentional actions in the present moment. In other words, they don’t force you to measure yourself in terms of your looks, strength, brains, financial prowess, or any other criteria that depend less on your present karma than they do on karma from the past. Also, they don’t play on feelings of guilt or force you to bemoan your past lapses. Instead, they focus your attention on the ever-present possibility of living up to your standards in the here and now. If you live with people who observe the precepts, you find that your dealings with them are not a cause for mistrust or fear. They regard your desire for happiness as akin to theirs. Their worth as individuals doesn’t depend on situations in which there have to be winners and losers. When they talk about developing goodwill and mindfulness in their meditation, you see it reflected in their actions. In this way the precepts foster not only healthy individuals, but also a healthy society—a society in which the self-esteem and mutual respect are not at odds.
+
+Worthy of respect: When you adopt a set of standards, it’s
+
+important to know whose standards they are and to see where those standards come from, for in effect you’re joining their group, looking for their approval, and accepting their criteria for right and wrong. In this case, you couldn’t ask for a better group to join: the Buddha and his noble disciples. The five precepts are called “standards appealing to the noble ones.” From what the texts tell us of the noble ones, they aren’t people who accept standards simply on the basis of popularity. They’ve put their lives on the line to see what leads to true happiness, and have seen for themselves, for example, that all lying is pathological, and that any sex outside of a stable, committed relationship is unsafe at any speed. Other people may not respect you for living by the five precepts, but noble ones do, and their respect is worth more than that of anyone else in the world.
+
+Now, many people might find cold comfort in joining such an abstract group, especially when they haven’t yet met any noble ones in person. It’s hard to be good-hearted and generous when
+
+the society immediately around you openly laughs at those qualities and values such things as sexual prowess or predatory business skills instead. This is where Buddhist communities come in. They can openly part ways with the prevailing amoral tenor of our culture and let it be known in a kindly way that they value good-heartedness and restraint among their members. In doing so, they provide a healthy environment for the full-scale adoption of the Buddha’s course of therapy: the practice of concentration and discernment in a life of virtuous action. Where we have such environments, we find that meditation needs no myth or make-believe to support it, because it’s based on the honest reality of a well-lived life. You can look at the standards by which you live, and then breathe in and out comfortably—not as a flower or a mountain, but as a full-fledged, responsible human being. For that’s what you are.
+
+Right Speech
+
+As my teacher once said, “If you can’t control your mouth, there’s no way you can hope to control your mind.’ This is why right speech is so important in day-to-day practice.
+
+Right speech, explained in negative terms, means avoiding four types of harmful speech:
+
+lies (words spoken with the intent of misrepresenting the truth);
+
+divisive speech (spoken with the intent of creating rifts between people);
+
+harsh speech (spoken with the intent of hurting another person’s feelings); and
+
+idle chatter (spoken with no purposeful intent at all).
+
+Notice the focus on intent: This is where the practice of right speech intersects with the training of the mind. Before you speak,
+
+you focus on why you want to speak. This helps get you in touch
+
+with all the machinations taking place in the committee of voices running your mind. If you see any unskillful motives lurking behind the committee’s decisions, you veto them. As a result, you become more aware of yourself, more honest with yourself, more firm with yourself. You also save yourself from saying things that you’ll later regret. In this way you strengthen qualities of mind that will be helpful in meditation, at the same time avoiding any potentially painful memories that would get in the way of being attentive to the present moment when the time comes to meditate.
+
+In positive terms, right speech means speaking in ways that are trustworthy, harmonious, comforting, and worth taking to heart. When you make a practice of these positive forms of right speech,
+
+your words become a gift to others. In response, other people will start listening more to what you say, and will be more likely to respond in kind. This gives you a sense of the power of your
+
+actions: the way you act in the present moment does shape the
+
+world of your experience. You don’t need to be a victim of past events.
+
+For many of us, the most difficult part of practicing right speech lies in how we express our sense of humor. Especially here in America, we’re used to getting laughs with exaggeration, sarcasm, group stereotypes, and pure silliness—all classic examples of wrong speech. If people get used to these sorts of careless humor, they stop listening carefully to what we say. In this way, we cheapen our own discourse. Actually, there’s enough irony in the state of the world that we don’t need to exaggerate or be sarcastic. The greatest humorists are the ones who simply make us look directly at the way things are.
+
+Expressing our humor in ways that are truthful, useful, and wise may require thought and effort, but when we master this sort of wit we find that the effort is well spent. We’ve sharpened our own minds and have improved our verbal environment. In this way, even our jokes become part of our practice: an opportunity to develop positive qualities of mind and to offer something of intelligent value to the people around us.
+
+So pay close attention to what you say—and to why you say it. When you do, you’ll discover that an open mouth doesn’t have to be a mistake.
+
+Trading Candy for Gold
+
+Renunciation as a Skill
+
+Buddhism takes a familiar American principle—the pursuit of happiness—and inserts two important qualifiers. The happiness it
+
+aims at is true: ultimate, unchanging, and undeceitful. Its pursuit of that happiness is serious, not in a grim sense, but dedicated,
+
+disciplined, and willing to make intelligent sacrifices.
+
+What sorts of sacrifices are intelligent? The Buddhist answer to this question resonates with another American principle: an intelligent sacrifice is any in which you gain a greater happiness by letting go of a lesser one, in the same way you’d give up a bag of candy if offered a pound of gold in exchange. In other words, an intelligent sacrifice is like a profitable trade. This analogy is an ancient one in the Buddhist tradition. “I’ll make a trade,” one of the Buddha’s disciples once said, “aging for the ageless, burning for the unbound: the highest peace, the unexcelled safety from bondage. (Thag 1:32)”
+
+There’s something in all of us that would rather not give things
+
+up. We’d prefer to keep the candy and get the gold. But maturity
+
+teaches us that we can’t have everything, that to indulge in one pleasure often involves denying ourselves another, perhaps better, one. So we need to establish clear priorities for investing our limited time and energies where they’ll give the most lasting returns.
+
+That means giving top priority to the mind. Material things and social relationships are unstable and easily affected by forces beyond our control, so the happiness they offer is fleeting and undependable. But the well-being of a well-trained mind can survive even aging, illness, and death. To train the mind, though, requires time and energy. This is one reason why the pursuit of
+
+true happiness demands that we sacrifice some of our external pleasures.
+
+Sacrificing external pleasures also frees us of the mental burdens that holding onto them often entails. A famous story in the Canon (Ud 2:10) tells of a former king who, after becoming a monk, sat down at the foot of a tree and exclaimed, “What bliss! What bliss!” His fellow monks thought he was pining for the pleasures he had enjoyed as king, but he later explained to the Buddha exactly what bliss he had in mind:
+
+“Before … I had guards posted within and without the royal apartments, within and without the city, within and without the countryside. But even though I was thus guarded, thus protected, I dwelled in fear—agitated, distrustful, and afraid. But now, on going alone to a forest, to the foot of a tree, or to an empty dwelling, I dwell without fear, unagitated, confident, and unafraid —unconcerned, unruffled, living on the gifts of others, with my mind like a wild deer.”
+
+A third reason for sacrificing external pleasures is that in pursuing some pleasures—such as our addictions to eye-candy, ear-candy, nose-, tongue-, and body-candy—we foster qualities of greed, anger, and delusion that actively block the qualities needed for inner peace. Even if we had all the time and energy in the world, the pursuit of these pleasures would lead us further and further away from the goal. Pleasures of this sort are spelled out in the path factor called right resolve: the resolve to forego any pleasures involving sensual passion, ill will, and harmfulness. “Sensual passion” covers not only sexual desire, but also any hankering for the pleasures of the senses that disrupts the peace of the mind. “Ill will” covers any wish for suffering, either for yourself or for others. And “harmfulness” is any activity that would bring that suffering about.
+
+Of these three categories, the last two are the easiest to see as worth abandoning. They’re not always easy to abandon, perhaps, but the resolve to abandon them is obviously a good thing. The
+
+first resolve, though—to renounce sensual passion—is difficult even to make, to say nothing of following it through.
+
+Part of our resistance to this resolve is universally human. People everywhere relish their passions. Even the Buddha admitted to his disciples that, when he set out on the path of practice, his heart didn’t leap at the idea of renouncing sensual passion, didn’t see it as offering peace. But an added part of our resistance to renunciation is peculiar to Western culture. Modern pop psychology teaches that the only alternative to a healthy indulgence of our sensual passions is an unhealthy, fearful
+
+repression. Yet both of these alternatives are based on fear:
+
+repression, on a fear of what the passion might do when expressed or even allowed into consciousness; indulgence, on a fear of deprivation and of the under-the-bed monster the passion might become if resisted and driven underground. Both alternatives place serious limitations on the mind.
+
+The Buddha, aware of the drawbacks of both, had the imagination to find a third alternative: a fearless, skillful approach that avoids the dangers of either side.
+
+To understand his approach, though, we have to see how right resolve relates to other parts of the Buddhist path, in particular right view and right concentration. In the formal analysis of the path, right resolve builds on right view. In its most skillful manifestation, it functions as the directed thought and evaluation that bring the mind to right concentration. Right view provides a skillful understanding of sensual pleasures and passions, so that our approach to the problem doesn’t go off-target. Right concentration provides an inner stability and bliss so that we can clearly see the roots of passion and, at the same time, not fear deprivation at the prospect of pulling them out.
+
+There are two levels to right view, focusing (1) on the results of our actions in the narrative of our lives and (2) on the issues of stress and its cessation within the mind. The first level points out the drawbacks of sensual passion: sensual pleasures are fleeting, unstable, and stressful; passion for them lies at the root of many of
+
+the ills of life, ranging from the hardships of gaining and maintaining wealth, to quarrels within families and wars between nations. This level of right view prepares us to see the indulgence of sensual passion as a problem. The second level—viewing things in terms of the four noble truths—shows us how to solve this problem in our approach to the present moment. It points out that the root of the problem lies not in the pleasures but in the passion, because passion involves attachment, and any attachment for pleasures based on conditions leads inevitably to stress and suffering, in that all conditioned phenomena are subject to change. In fact, our attachment to sensual passion tends to be stronger and more constant than our attachments to particular pleasures. This attachment is what has to be renounced.
+
+How is this done? By bringing it out into the open. Both sides of sensual attachment—as habitual patterns from the past and our willingness to give into them again in the present—are based on misunderstanding and fear. As the Buddha pointed out, sensual passion depends on aberrant perceptions: We project notions of constancy, ease, beauty, and self onto things that are actually inconstant, stressful, unattractive, and not-self. These misperceptions apply both to our passions and to their objects. We perceive the expression of our sensuality as something appealing, a deep expression of our self-identity offering lasting pleasure. We see the objects of our passion as enduring and alluring enough, as lying enough under our control, to provide us with a satisfaction that won’t turn into its opposite.
+
+Actually, none of this is the case, and yet we blindly believe our projections because the power of our passionate attachments has us too intimidated to look them straight in the eye. Their special effects, as a result, keep us dazzled and deceived. As long as we deal only in indulgence and repression, attachment can continue operating freely in the dark of the sub-conscious. But when we consciously resist it, it has to come to the surface, articulating its threats, demands, and rationalizations. So even though sensual pleasures aren’t evil, we have to systematically forego them as a
+
+way of drawing the agendas of attachment out into the open. This is how skillful renunciation serves as a learning tool, unearthing latent agendas that both indulgence and repression tend to keep underground.
+
+At the same time, we need to provide the mind with strategies to withstand those agendas and to cut through them once they appear. This is where right concentration comes in. As a skillful form of indulgence, right concentration suffuses the body with a non-sensual rapture and pleasure that can help counteract any sense of deprivation in resisting sensual passions. In other words, it provides higher pleasures—more lasting and refined—as a reward for abandoning attachment to lower ones. At the same time, it gives us the stable basis we need so as not to be blown away by the assaults of our thwarted attachments. This stability also steadies the mindfulness and alertness we need to see through the misperceptions and delusions that underlie sensual passion. And once the mind can see through the processes of projection, perception, and misperception to the greater sense of freedom that comes when they’re transcended, the basis for sensual passion is gone.
+
+At this stage, we can then turn to analyze our attachment to the pleasures of right concentration. When our understanding is
+
+complete, we abandon all need for attachment of any sort, and so
+
+meet with the pure gold of a freedom so total that it can’t be described.
+
+The question remains: How does this strategy of skillful renunciation and skillful indulgence translate into everyday practice? People who ordain as monastics take vows of celibacy and are expected to work constantly at renouncing sensual passion, but for many people, this is not a viable option. So the Buddha recommended that his lay followers observe day-long periods of temporary renunciation. Four days out of each month —traditionally on the new-, full-, and half-moon days—they can take the eight precepts, which add the following observances to the standard five: celibacy, no food after noon, no watching of
+
+shows, no listening to music, no use of perfumes and cosmetics, and no use of luxurious seats and beds. The purpose of these added precepts is to place reasonable restraints on all five of the senses. The day is then devoted to listening to the Dhamma, to clarify right view; and to practicing meditation, to strengthen right concentration. Although the modern workweek can make the lunar scheduling of these day-long retreats impractical, there are ways they can be integrated into weekends or other days off from work. In this way, anyone interested can, at regular intervals, trade the cares and complexities of everyday life for the chance to master renunciation as a skill integral to the serious pursuit of happiness in the truest sense of the word.
+
+And isn’t that an intelligent trade?
+
+A Guided Meditation
+
+Sit comfortably erect, without leaning forward or backward, left or right. Close your eyes and think thoughts of goodwill. Thoughts of good will go first to yourself, because if you can’t think goodwill for yourself—if you can’t feel a sincere desire for your own happiness—there’s no way you can truly wish for the happiness of others. So just tell yourself, “May I find true happiness.” Remind yourself that true happiness is something that comes from within, so this is not a selfish desire. In fact, if you find and develop the resources for happiness within you, you’re able to radiate it out to other people. It’s a happiness that doesn’t depend on taking away anything away from anyone else.
+
+So now spread goodwill to other people. First, people who are close to your heart—your family, your parents, your very close friends: May they find true happiness, as well. Then spread those thoughts out in ever widening circles: people you know well, people you don’t know so well, people you like, people you know and are neutral about, and even people you don’t like. Don’t let there be any limitations on your goodwill, for if there are, there will be limitations on your mind. Now spread thoughts of goodwill to people you don’t even know—and not just people; all living beings of all kinds in all directions: east, west, north, south, above, and below, out to infinity. May they find true happiness, too.
+
+Then bring your thoughts back to the present. If you want true happiness, you have to find it in the present, for the past is gone and the future is an uncertainty. So you have to dig down into the present. What do you have right here? You’ve got the body, sitting here and breathing. And you’ve got the mind, thinking and aware. So bring all these things together. Think about the breath and then be aware of the breath as it comes in and goes out. Keeping
+
+your thoughts directed to the breath: That’s mindfulness. Being aware of the breath as it comes in and out: That’s alertness. Keep those two aspects of the mind together. If you want, you can use a
+
+meditation word to strengthen your mindfulness. Try Buddho,
+
+which means “awake.” Think bud- with the in-breath, dho with
+
+Try to breathe as comfortably as possible. A very concrete way of learning how to provide for your own happiness in the immediate present—and at the same time, strengthening your alertness—is to let yourself breathe in a way that’s comfortable. Experiment to see what kind of breathing feels best for the body right now. It might be long breathing, short breathing; in long, out short; or in short, out long. Heavy or light, fast or slow, shallow or deep. Once you find a rhythm that feels comfortable, stay with it for a while. Learn to savor the sensation of the breathing. Generally speaking, the smoother the texture of the breath, the better. Think of the breath, not simply as the air coming in and out of the lungs, but as the entire energy flow that courses through the body with each in-and-out breath. Be sensitive to the texture of that energy flow. You may find that the body changes after a while. One rhythm or texture may feel right for a while, and then something else will feel more comfortable. Learn how to listen and respond to what the body is telling you right now. What kind of breath energy does it need? How can you best provide for that need? If you feel tired, try to breathe in a way that energizes the body. If you feel tense, try to breathe in a way that’s relaxing.
+
+If your mind wanders off, gently bring it right back. If it wanders off ten times, a hundred times, bring it back ten times, a hundred times. Don’t give in. This quality is called ardency. In other words, as soon as you realize that the mind has slipped away, you bring it right back. You don’t spend time aimlessly sniffing at the flowers, looking at the sky, or listening to the birds. You’ve got work to do: work in learning how to breathe comfortably, how to
+
+let the mind settle down in a good space here in the present moment.
+
+Each time you return to the breath, try to breath in a way that feels especially gratifying. That makes you more and more inclined
+
+to want to return.
+
+When the breath starts feeling comfortable, you can start exploring it in other areas of the body. If you simply stay with the comfortable breath in a narrow range, you’ll tend to doze off. So consciously expand your awareness, section by section, throughout the body. A good place to focus first is right around the navel. Locate that part of the body in your awareness: Where is it right now? Then notice: How does it feel there as you breathe in? How does it feel when you breathe out? What way of breathing would feel good there? Watch it for a couple of breaths, and notice if there’s any sense of tension or tightness in that part of the body, either with the in-breath or with the out-breath. Is it tensing up as you breathe in? Are you holding onto the tension as you breathe out? Are you putting too much force on the out-breath? If you catch yourself doing any of these things, just relax. Think of that tension dissolving away, both in the sensation of the in-breath and in the sensation of the out-breath. If you want, you can think of the breath energy coming into the body right there at the navel, working through any tension or tightness that you might feel there …
+
+Then move your awareness to the right—to the lower right-hand corner of your abdomen—and follow the same three steps there: 1) locate that general part of the body in your awareness; 2) notice how it feels as you breathe in, how it feels as you breathe out, to see what kind of breathing feels good there; and 3) if you sense any tension or tightness in the breath, just let it relax … Now move your awareness to the left, to the lower left-hand corner of your abdomen, and follow the same three steps there.
+
+Now move your awareness up to the solar plexus … and then to the right, to the right flank … to the left flank … to the middle of the chest … After a while move up to the base of the throat … and
+
+then to the middle of the head. Be very careful with the breath energy in the head. Think of it very gently coming in, not only through the nose but also through the eyes, the ears, down from the top of the head, in from the back of the neck, going deep into the brain, very gently working through and loosening up any tension you may feel, say, around your jaws, the back of your neck, around your eyes, or around your face …
+
+From there you can move your attention gradually down the back, out the legs, to the tips of the toes, the spaces between the toes. As before, focus on a particular part of the body, notice how it feels with the in-breath and out-breath, relax any sensation of tension or tightness you might feel there, so that the breath energy can flow more freely, and then move on until you’ve reached the tips of the toes. Then repeat the process, beginning at the back of the neck and going down the shoulders, through the arms, past your wrists, and out through your fingers.
+
+You can repeat this survey of the body as many times as you like until the mind feels ready to settle down.
+
+Then let your attention return to any spot in the body where it feels most naturally settled and centered. Simply let your attention rest there, at one with the breath. At the same time let the range of your awareness spread out so that it fills the entire body, like the light of a candle in the middle of a room: The candle flame is in one spot, but its light fills the entire room. Or like a spider on a web: The spider’s in one spot, but it knows the whole web. Be keen on maintaining that broadened sense of awareness. You may find that it tends to shrink, like a balloon with a small hole in it, especially on the out-breath, so keep broadening its range, thinking “whole body, whole body, breath in the whole body, from the top of the head down into the tips of the toes.” Think of the breath energy coming in and out of the body through every pore. Make a point of staying with this centered, broadened awareness as long as you can. There’s nothing else you have to think about right now, nowhere else to go, nothing else to do. Just stay with this centered, broadened awareness of the present …
+
+When the time comes to leave meditation, remind yourself that there’s a skill to leaving. In other words, you don’t just jump right out. My teacher, Ajaan Fuang, once said that when most people meditate, it’s as if they’re climbing a ladder up to the second story of a building: step-by-step-by-step, rung-by-rung, slowly up the ladder. But as soon as they get to the second story, they jump out the window. Don’t let yourself be that way. Think of how much effort went into getting yourself centered. Don’t throw it away.
+
+The first step in leaving is to spread thoughts of goodwill once more to all the people around you. Then, before you open your eyes, remind yourself that even though you’re going to have your eyes open, you want your attention to stay centered in the body, at the breath. Try to maintain that center as long as you can, as you get up, walk around, talk, listen, whatever. In other words, the skill of leaving meditation lies in learning how not to leave it, regardless of whatever else you may be doing. Act from that sense of being centered. If you can keep the mind centered in this way, you’ll have a standard against which you can measure its movements, its reactions to the events around it and within it. Only when you have a solid center like this can you gain insight into the movements of the mind.
+
+The Path of Concentration & Mindfulness
+
+Many people tell us that the Buddha taught two different types of meditation—mindfulness meditation and concentration meditation. Mindfulness meditation, they say, is the direct path, while concentration practice is the scenic route that you take at your own risk because it’s very easy to get lost there and you may never get out. But when you actually look at what the Buddha taught, he never separates these two practices. They’re parts of a single whole. Every time he explains mindfulness and its place in the path, he states clearly that the purpose of mindfulness practice is to lead the mind into a state of right concentration: to get the mind to settle down and to find a place where it can really feel stable, at home, where it can look at things steadily and see them for what they are.
+
+Part of the “two practices” issue centers on how we understand
+
+the word jhāna, which is a synonym for right concentration. Many
+
+of us have heard that jhāna is a very intense trance-like state that requires intense staring and shutting out the rest of the world. It sounds nothing like mindfulness at all. But if you look at the Buddha’s descriptions of jhāna, that’s not the kind of state he’s talking about. To be in jhāna is to be absorbed, very pleasurably, in the sense of the whole body. A very broad sense of awareness fills the entire body. One of the images the Buddha used to describe this state is that of a person kneading water into dough so that the water permeates throughout the flour. Another is a lake in which a cool spring comes welling up and suffuses the entire lake.
+
+Now, when you’re with the body as a whole, you’re very much in the present moment. As the Buddha says, the fourth jhāna—in which the body is filled with bright awareness—is the point where
+
+mindfulness and equanimity become pure. So there should be no problem in combining mindfulness practice with a whole-body awareness that’s very settled and still. In fact, the Buddha himself combines them in his description of the first four steps of breath meditation: (1) being aware of long breathing, (2) being aware of short breathing, (3) being aware of the whole body as you breathe in and breathe out, and then (4) calming the sensation of the breath within the body. This, as the texts tell us, is basic mindfulness practice. It’s also a basic concentration practice. You’re getting into the first jhāna—right concentration—right there, at the same time you’re practicing right mindfulness.
+
+To see how right mindfulness and right concentration help each other in the practice, we can look at the three stages of mindfulness practice given in the Discourse on the Establishings of Mindfulness (MN 10). Take the body as an example. The first stage is to stay focused on the body in and of itself, putting aside greed and distress with reference to the world. What this means is looking at the body simply as a body, without thinking about it in terms of what it means or what it can do in the world. Whether it’s good- or bad-looking, strong or weak, agile or clumsy—all the issues we tend to worry about when we think about ourselves in the context of the world: The Buddha says to put those issues aside.
+
+Just be with the body in and of itself, sitting right here. When you close your eyes, what do you have? There’s the sensation of “bodiness” you’re sitting with. That’s your frame of reference. Try to stay with it. Keep bringing the mind back to this sense of the body until it gets the message and begins to settle down. In the beginning of the practice, you find the mind going out to grasp this or that, so you note what’s happening enough to tell it to let go, return to the body, and hold on there. Then the mind goes out to grasp something else, so you tell it to let go, come back, and latch onto the body again. Eventually, though, you reach a point where your awareness actually grasps hold of the breath and you don’t let go. You keep holding onto it. From that point on,
+
+whatever else may come into your awareness is like something coming up and brushing the back of your hand. You don’t have to note it. You stay with the body as your basic frame of reference. Other things come and go, you’re aware of them, but you don’t drop the breath and go grasping after them. This is when you really have established the body as a solid frame of reference.
+
+#### As you do this, you develop three qualities of mind:
+
+One is mindfulness (sati). The word “mindfulness” means being
+
+able to remember, to keep something in mind. In the case of establishing the body as a frame of reference, it means remembering to see things in terms of the body. You don’t let yourself forget. It also means remembering the lessons you’ve learned—both from others and from your own practice—in how best to stay with the body and to drop any distractions.
+
+The second quality, alertness (sampajañña), means being aware
+
+of what you’re actually doing in the present. Are you with the body? Are you with the breath? What are the results? Is the breath comfortable? Is it not? We tend to confuse mindfulness with alertness, but actually they’re two separate things: Mindfulness means being able to remember where you want to keep your awareness; alertness means being aware of what you’re actually doing along with the results you’re getting.
+
+The third quality, ardency (ātappa), means two things. One, if
+
+you realize that the mind has wandered off, you bring it right back. Immediately. You don’t let it go grazing around the pasture. Two, when the mind is with its proper frame of reference, ardency means trying to be as sensitive as possible to what’s going on—not just drifting in the present moment, but really trying to penetrate more and more into the subtle details of what’s actually happening with the breath or the mind.
+
+When you have these three qualities focused on the body in and of itself, you can’t help but settle down and get really comfortable with the body in the present moment. That’s when you’re ready for the second stage in the practice, which is described as being aware of the phenomenon of origination and
+
+the phenomenon of passing away. This is a stage where you’re trying to understand cause and effect as they occur in the present.
+
+In terms of concentration practice, once you’ve got the mind to settle down, you want to understand the interaction of cause and effect in the process of concentration so that you can become more skillful in the practice, so that you can get the mind to settle down more solidly for longer periods of time in all sorts of situations, on the cushion and off. To do this, you have to learn about how things arise and pass away in the mind, not by simply watching them, but by actually getting involved in their arising and passing away.
+
+You can see this in the Buddha’s instructions for dealing with the hindrances. In the first stage, he says to be aware of the hindrances as they come and go. Some people think that this is an exercise in “choiceless awareness,” where you don’t try to will the mind in any direction, where you simply sit and watch willy-nilly whatever comes into range. In actual practice, though, the mind isn’t yet ready for that. What you need at this stage is a fixed point of reference for evaluating the events in the mind, just as when you’re trying to gauge the motion of clouds through the sky: You need to choose at a fixed point—like a roof gable or a light pole— at which to stare so that you can get a sense of which direction and how fast the clouds are moving. The same holds true with the comings and goings of sensual desire, ill will, etc., in the mind. You have to maintain a fixed reference point for the mind—like the breath—if you want to be really sensitive to when there are hindrances in the mind—getting in the way of your reference point—and when there aren’t.
+
+Suppose that anger is interfering with your concentration. Instead of getting involved in the anger, you try simply to be aware of when it’s there and when it’s not. You look at the anger as an event in and of itself—as it comes, as it goes. But you don’t stop there. The next step—as you’re still working at focusing on the breath—is recognizing how anger can be made to go away. Sometimes simply watching it is enough to make it go away;
+
+sometimes it’s not, and you have to deal with it in other ways, such as arguing with the reasoning behind the anger or reminding yourself of the drawbacks of anger.
+
+In the course of dealing with it, you have to get your hands dirty. You’ve got to try and figure out why the anger is coming, why it’s going, how you can get rid of it, because you realize that it’s an unskillful state. And this requires that you improvise. Experiment. You’ve got to chase your pride and impatience out of the way so that you can have the space to make mistakes and learn from them, so that you can develop a skill in dealing with the anger. It’s not just a question of hating the anger and trying to push it away, or of loving the anger and welcoming it. These approaches may give results in the short run, but in the long run they’re not especially skillful. What’s called for here is the ability to see what the anger is composed of; how can you take it apart.
+
+One technique that gives results—when anger is present and you’re in a situation where you don’t immediately have to react to people—is simply to ask yourself in a good-natured way, “Okay, why are you angry?” Listen to what the mind has to say. Then
+
+pursue the matter: “But why are you angry at that?” “Of course, I’m angry. After all.…” “Well, why are you angry at that?” If you
+
+keep this up, the mind will eventually admit to something stupid, such as the assumption that people shouldn’t be such-and-such a
+
+way—even though they blatantly are that way—or that people
+
+should act in line with your standards, or whatever other assumption the mind finds so embarrassing that it has to keep it hidden from you. But finally, if you keep probing, it’ll fess up. You gain a lot of understanding into the anger this way, and can really weaken its power over you.
+
+In dealing with positive qualities—like mindfulness, calm, and concentration—you make use of a similar process. First, you’re aware of when they’re there and when they’re not. Then you realize that when they’re there it’s much nicer than when they’re
+
+not. So you try to figure out how they come, how they go. You do
+
+this by consciously trying to maintain that state of mindfulness
+
+and concentration. If you’re really observant—and this is what it’s all about, being observant—you begin to see that there are skillful ways of maintaining the state without getting knocked off kilter by any failure or success in doing so, without letting the desire for a settled state of mind actually get in the way of the mind’s settling down. You do want to succeed, but you need a balanced attitude toward failure and success so that you can learn from them. Nobody’s keeping score or taking grades. You’re here to understand for your own sake.
+
+So this process of developing your establishing of mindfulness or developing your frame of reference is not “just watching.” It’s more a participation in the process of arising and passing away— actually playing with the process—so that you can learn from experience how cause and effect work in the mind.
+
+This is like the knowledge that cooks have of eggs. You can learn certain things about an egg just by watching it, but you don’t learn very much. To learn about eggs, you have to put them in a pan and try to make something out of them. As you do this, you begin to understand the variations in eggs, the ways that they react to heat, oil, butter, or whatever. And so by actually working with the egg and trying to make something out of it, you really come to understand eggs. It’s similar with clay: You really don’t know clay until you become a potter and actually try to make something out of the clay.
+
+And it’s the same with the mind: Unless you actually try to make something out of the mind, try to get a mental state going and keep it going, you don’t really know your own mind. You don’t know the processes of cause and effect within the mind. There has to be an element of actual participation in the process. That way you can understand it.
+
+This all comes down to being observant and developing a skill. The essence of developing a skill means three things. One, you’re aware of a situation as it is given. Two, you’re aware of what you put into it. Three, you look at the results.
+
+When the Buddha talks about causation, he says that every situation is shaped from two directions: causes coming in from the past and causes you’re putting into the present. You need to be sensitive to both. If you aren’t sensitive to what you’re putting into a situation, you’ll never develop any kind of skill. As you’re aware of what you’re doing, you also look at the results. If something isn’t right, you go back and change what you’ve done, keeping at it until you get the results you want. And in the process, you learn a great deal from the clay, the eggs, or whatever you’re trying to deal with skillfully.
+
+The same holds true with the mind. Of course, you could learn something about the mind by trying to get it into any sort of a state, but for the purpose of developing really penetrating insight, a state of stable, balanced, mindful concentration is the best kind of soufflé or pot you want to make with the mind. The factors of pleasure, ease, and rapture that arise when the mind really settles down help you to stay comfortably in the present moment, with a low center of gravity. Once the mind is firmly settled, you have something to look at for a long period of time so that you can see what it’s made up of. In the typical unbalanced state of the mind, things are appearing and disappearing too fast for you to notice them clearly. But as the Buddha notes, when you get really skilled at jhāna, you can step back a bit and actually see what you’ve got. You can see, say, where there’s an element of attachment, where there’s an element of stress, or even where there’s inconstancy within your balanced state. This is where you begin to gain insight, as you see the natural dividing lines among the different factors of the mind—and in particular, the line between awareness and the objects of awareness.
+
+Another advantage to this mindful concentrated state is that as you feel more and more at home in it, you begin to realize that happiness and pleasure are possible without any need to depend on things outside: people, relationships, approval from others, or any of the issues that come from being part of the world. This realization helps pry loose your attachments to external things.
+
+Some people are afraid of getting attached to a state of calm, but actually, it’s very important that you get attached here, so that you begin to settle down and undo your other attachments. Only when this attachment to calm is the only one left do you begin work on loosening it up as well.
+
+Still another reason for why solid concentration is necessary for insight is that when discernment comes to the mind, the basic lesson it will teach you is that you’ve been stupid. You’ve held onto things even though deep down inside you should have known better. Now, try telling that to people when they’re hungry and tired. They’ll come right back with, “You’re stupid, too,” and that’s the end of the discussion. Nothing gets accomplished. But if you talk to someone who has eaten a full meal and feels rested, you can broach all kinds of topics without risking a fight. It’s the same with the mind. When it has been well fed with the rapture and ease coming from concentration, it’s ready to learn. It can accept your criticisms without feeling threatened or abused.
+
+So. This is the role that concentration practice plays in this second stage of mindfulness practice: It gives you something to play with, a skill to develop so you can begin to understand the factors of cause and effect within the mind. You begin to see the mind as simply a flux of causes with their effects coming back at you. Your ideas are part of this flux of cause and effect, as are your emotions and your sense of who you are. This insight begins to loosen your attachments to the whole process.
+
+What finally happens is that the mind reaches a third level of mindfulness practice where it comes to a state of perfect equilibrium where you’ve developed this state of concentration to the point where you don’t have to put anything more into it. In the Discourse on the Establishings of Mindfulness, this is described as simply being aware—if you’re using the body as your frame of reference—that “There is a body,” just enough for knowledge and mindfulness, without being attached to anything in the world. Other texts call this the state of “non-fashioning.” The mind reaches the point where you begin to realize that all
+
+causal processes in the mind—including the processes of concentration and insight—are like tar babies. If you pull them toward you, you get stuck; if you fight them off, you get stuck. So what are you going to do? You have to get to the point where you’re not really contributing anything more to the present moment. You unravel your participation in it. That’s when things open up in the mind.
+
+Many people want to jump right in and begin at this level of not adding anything to the present moment, but it doesn’t work that way. You can’t be sensitive to the subtle things the mind is habitually adding to the present until you’ve consciously tried to alter what you’re adding. As you get more and more skilled, you become more sensitive to the subtle things you didn’t realize you were doing. You reach a point of disenchantment, where you realize that the most skillful way of dealing with the present is to drop all levels of participation that cause even the slightest bit of stress in the mind. You start dismantling the levels of participation that you learned in the second stage of the practice, to the point where things reach equilibrium on their own, where there’s letting go and release.
+
+So it’s important to realize that there are these three stages to mindfulness practice, and to understand the role that deliberate concentration practice plays in taking you through the first two so that you can arrive at the third. Without aiming at right concentration, you can’t develop the skills needed for understanding the mind—for it’s in the process of mastering the skill of mindful concentration that true insight arises. Just as you don’t really understand a herd of cattle until you’ve successfully herded them—learning from all your failures along the way—you can’t get a sense of all the cause-and-effect currents running through the mind until you’ve learned from your failures and successes in getting them to gather in a state of concentrated mindfulness and mindful concentration. And only when you’ve really understood and mastered these currents—the currents of craving that cause suffering and stress, and the currents of
+
+mindfulness and concentration that form the Path—can you let them go and find true freedom.
+
+One Tool Among Many
+
+The Place of Vipassanā in Buddhist Practice
+
+What exactly is vipassanā?
+
+Almost any book on early Buddhist meditation will tell you that the Buddha taught two types of meditation: samatha and
+
+vipassanā. Samatha, which means tranquility, is said to be a
+
+method fostering strong states of mental absorption, called jhāna.
+
+Vipassanā—literally “clear-seeing,” but more often translated as
+
+insight meditation—is said to be a method using a modicum of tranquility to foster moment-to-moment mindfulness of the inconstancy of events as they are directly experienced in the present. This mindfulness creates a sense of dispassion toward all events, thus leading the mind to release from suffering. These two
+
+methods are quite separate, we’re told, and of the two, vipassanā is the distinctive Buddhist contribution to meditative science. Other systems of practice pre-dating the Buddha also taught samatha, but the Buddha was the first to discover and teach vipassanā.
+
+Although some Buddhist meditators may practice samatha meditation before turning to vipassanā, samatha practice is not really necessary for the pursuit of Awakening. As a meditative tool, the vipassanā method is enough for attaining the goal.
+
+Or so we’re told.
+
+But if you look directly at the Pali discourses—the earliest extant sources for our knowledge of the Buddha’s teachings— you’ll find that although they do use the word samatha to mean
+
+tranquility, and vipassanā to mean clear-seeing, they otherwise confirm none of the received wisdom about these terms. Only
+
+rarely do they make use of the word vipassanā—a sharp contrast to their frequent use of the word jhāna. When they depict the Buddha telling his disciples to go meditate, they never quote him
+
+as saying “go do vipassanā,” but always “go do jhāna.” And they never equate the word vipassanā with any mindfulness techniques. In the few instances where they do mention vipassanā, they almost always pair it with samatha—not as two alternative methods, but as two qualities of mind that a person may “gain” or “be endowed with,” and that should be developed together.
+
+One simile, for instance (SN 35:204), compares samatha and vipassanā to a swift pair of messengers who enter the citadel of the body via the noble eightfold path and present their accurate report—Unbinding, or nirvana—to the consciousness acting as the citadel’s commander.
+
+Another passage (AN 10:71) recommends that anyone who wishes to put an end to mental defilement should—in addition to
+
+perfecting the principles of moral behavior and cultivating seclusion—be committed to samatha and endowed with vipassanā. This last statement is unremarkable in itself, but the same discourse also gives the same advice to anyone who wants to master the jhānas: Be committed to samatha and endowed with vipassanā. This suggests that, in the eyes of those who assembled the Pali discourses, samatha, jhāna, and vipassanā were all part of a single path. Samatha and vipassanā were used together to master jhāna and then—based on jhāna—were developed even further to give rise to the end of mental defilement and to bring release from
+
+suffering. This is a reading that finds support in other discourses as
+
+There’s a passage, for instance, describing three ways in which samatha and vipassanā can work together to lead to the knowledge of Awakening: Either samatha precedes vipassanā, vipassanā precedes samatha, or they develop in tandem (AN 4:170). The wording suggests an image of two oxen pulling a cart: One is placed before the other or they are yoked side-by-side. Another passage (AN 4:94) indicates that if samatha precedes vipassanā—or vipassanā, samatha—your practice is in a state of imbalance and needs to be rectified. A meditator who has attained
+
+a measure of samatha, but no “vipassanā into events based on
+
+heightened discernment (adhipaññā-dhamma-vipassanā),” should
+
+question a fellow meditator who has attained vipassanā: “How
+
+should fabrications (sankhāra) be regarded? How should they be
+
+investigated? How should they be viewed with insight?” and then develop vipassanā in line with that person’s instructions. The verbs in these questions—“regarding,” “investigating,” “seeing”— indicate that there’s more to the process of developing vipassanā than a simple mindfulness technique. In fact, as we will see below, these verbs apply instead to a process of skillful questioning called “appropriate attention.”
+
+The opposite case—a meditator endowed with a measure of vipassanā into events based on heightened discernment, but no samatha—should question someone who has attained samatha: “How should the mind be steadied? How should it be made to settle down? How should it be unified? How should it be
+
+concentrated?” and then follow that person’s instructions so as to develop samatha. The verbs used here give the impression that “samatha” in this context means jhāna, for they correspond to the verbal formula—“the mind becomes steady, settles down, grows unified and concentrated”—that the Pali discourses use repeatedly
+
+to describe the attainment of jhāna. This impression is reinforced when we note that in every case where the discourses are explicit about the levels of concentration needed for insight to be liberating, those levels are the jhānas.
+
+Once the meditator is endowed with both samatha and vipassanā, he/she should “make an effort to establish those very
+
+same skillful qualities to a higher degree for the ending of the
+
+mental fermentations (āsava—sensual passion, states of
+
+becoming, and ignorance).” This corresponds to the path of samatha and vipassanā developing in tandem. A passage in MN 149 describes how this can happen. You know and see, as they actually are, the six sense media (the five senses plus the intellect),
+
+their objects, consciousness at each medium, contact at each medium, and whatever is experienced as pleasure, pain, or
+
+neither-pleasure-nor-pain based on that contact. You maintain this awareness in such a way as to stay uninfatuated by any of these things, unattached, unconfused, focused on their drawbacks, abandoning any craving for them: This would count as vipassanā. At the same time—abandoning physical and mental disturbances, torments, and distresses—you experience ease in body and mind: This would count as samatha. This practice not only develops samatha and vipassanā in tandem, but also brings the 37 Wings to Awakening—which include the attainment of jhāna—to the culmination of their development.
+
+So the proper path is one in which vipassanā and samatha are brought into balance, each supporting and acting as a check on the other. Vipassanā helps keep tranquility from becoming stagnant and dull. Samatha helps prevent the manifestations of aversion—such as nausea, dizziness, disorientation, and even total blanking out—that can occur when the mind is trapped against its will in the present moment.
+
+From this description it’s obvious that samatha and vipassanā are not separate paths of practice, but instead are complementary ways of relating to the present moment: Samatha provides a sense of ease in the present; vipassanā, a clear-eyed view of events as they actually occur, in and of themselves. It’s also obvious why the two qualities need to function together in mastering jhāna. As the standard instructions on breath meditation indicate (MN 118), such a mastery involves three things: gladdening, concentrating, and liberating the mind. Gladdening means finding a sense of
+
+refreshment and satisfaction in the present. Concentrating means keeping the mind focused on its object, while liberating means freeing the mind from the grosser factors making up a lower stage of concentration so as to attain a higher stage. The first two
+
+activities are functions of samatha, while the last is a function of vipassanā. All three must function together. If, for example, there is concentration and gladdening, with no letting go, the mind wouldn’t be able to refine its concentration at all. The factors that
+
+have to be abandoned in raising the mind from stage x to stage y
+
+belong to the set of factors that got the mind to x in the first place
+
+(AN 9:34). Without the ability clearly to see mental events in the present, there would be no way skillfully to release the mind from precisely the right factors that tie it to a lower state of concentration and act as disturbances to a higher one. If, on the other hand, there is simply a letting go of those factors, without an appreciation of or steadiness in the stillness that remains, the mind would drop out of jhāna altogether. So samatha and vipassanā have to work together to bring the mind to right concentration in a masterful way.
+
+The question arises: If vipassanā functions in the mastery of jhāna, and jhāna is not exclusive to Buddhists, then what is Buddhist about vipassanā? The answer is that vipassanā per se is not exclusively Buddhist. What’s distinctly Buddhist is (1) the extent to which both samatha and vipassanā are developed; (2) the way they are developed—i.e., the line of questioning used to foster them; and (3) the way they are combined with an arsenal of meditative tools to bring the mind to total release.
+
+In MN 73, the Buddha advises a monk who has mastered jhāna to further develop samatha and vipassanā so as to master six cognitive skills, the most important of them being that “through the ending of the mental fermentations, one remains in the fermentation-free release of awareness and release of discernment, having known and made them manifest for oneself right in the here and now.” This is a description of the Buddhist goal. Some commentators have asserted that this release is totally a function of vipassanā, but there are discourses that indicate otherwise.
+
+Note that release is twofold: release of awareness and release of discernment. Release of awareness occurs when a meditator becomes totally dispassionate toward passion: This is the ultimate function of samatha. Release of discernment occurs when there’s dispassion for ignorance: This is the ultimate function of vipassanā (AN 2:29–30). In this way, both samatha and vipassanā are involved in the twofold nature of this release.
+
+The Sabbāsava Sutta (MN 2) states that release can be
+
+“fermentation-free” only if you know and see in terms of
+
+“appropriate attention” (yoniso manasikāra). As the discourse
+
+shows, appropriate attention means asking the proper questions about phenomena, regarding them not in terms of self/other or being/non-being, but in terms of the four noble truths. In other words, instead of asking “Do I exist? Don’t I exist? What am I?” you ask about an experience, “Is this stress? The origination of stress? The cessation of stress? The path leading to the cessation of stress?” Because each of these categories entails a duty, the answer to these questions determines a course of action: Stress should be comprehended, its origination abandoned, its cessation realized, and the path to its cessation developed.
+
+Samatha and vipassanā belong to the category of the path and so should be developed. To develop them, you must apply appropriate attention to the task of comprehending stress, which is comprised of the five aggregates of clinging—clinging to
+
+physical form, feeling, perception, thought fabrications, or consciousness. Applying appropriate attention to these aggregates means viewing them in terms of their drawbacks, as “inconstant, stressful, a disease, a cancer, an arrow, painful, an affliction, alien, a
+
+dissolution, an emptiness, not-self” (SN 22:122). A list of questions, distinctive to the Buddha, aids in this approach: “Is this aggregate constant or inconstant?” “And is anything inconstant easeful or stressful?” “And is it fitting to regard what is inconstant,
+
+stressful, subject to change as: ‘This is mine. This is my self. This is what I am’?” (SN 22:59). These questions are applied to every instance of the five aggregates, whether “past, future, or present;
+
+internal or external; blatant or subtle, common or sublime, far or near.” In other words, the meditator asks these questions of all experiences in the cosmos of the six sense media.
+
+This line of questioning is part of a strategy leading to a level of knowledge called “knowing and seeing things as they have come
+
+to be (yathā-bhūta-ñāṇa-dassana),” where things are understood in
+
+terms of a fivefold perspective: their arising, their passing away,
+
+their drawbacks, their allure, and the escape from them—the escape, here, lying in dispassion.
+
+Some commentators have suggested that, in practice, this fivefold perspective can be gained simply by focusing on the
+
+arising and passing away of these aggregates in the present moment; if your focus is relentless enough, it’ll lead naturally to a knowledge of drawbacks, allure, and escape, sufficient for total
+
+release. The texts, however, don’t support this reading, and practical experience would seem to back them up. As MN 101 points out, individual meditators will discover that, in some cases, they can develop dispassion for a particular cause of stress simply by watching it with equanimity; but in other cases, they will need to make a conscious exertion to develop the dispassion that will provide an escape. The discourse is vague—perhaps deliberately so —as to which approach will work where. This is something each meditator must test for him or herself in practice.
+
+The Sabbāsava Sutta expands on this point by listing seven
+
+approaches to take in developing dispassion. Vipassanā, as a quality of mind, is related to all seven, but most directly with the first: “seeing,” i.e., seeing events in terms of the four noble truths
+
+and the duties appropriate to them. The remaining six approaches cover ways of carrying out those duties: restraining the mind from focusing on sense data that would provoke unskillful states of mind; reflecting on the appropriate reasons for using the requisites
+
+of food, clothing, shelter, and medicine; tolerating painful sensations; avoiding obvious dangers and inappropriate companions; destroying thoughts of sensual desire, ill will, harmfulness, and other unskillful states; and developing the seven factors for awakening: mindfulness, analysis of qualities, persistence, rapture, calm, concentration, and equanimity.
+
+Each of these approaches covers a wide subset of approaches. Under “destroying,” for instance, you can eliminate an unskillful mental state by replacing it with a skillful one, focusing on its drawbacks, turning one’s attention away from it, relaxing the process of thought-fabrication that formed it, or suppressing it
+
+with the brute power of your will (MN 20). Many similar examples could be drawn from other discourses as well. The overall point is that the ways of the mind are varied and complex. Different
+
+fermentations can come bubbling up in different guises and
+
+respond to different approaches. Your skill as a meditator lies in
+
+mastering a variety of approaches and developing the sensitivity to know which approach will work best in which situation.
+
+On a more basic level, however, you need strong motivation to master these skills in the first place. Because appropriate attention
+
+requires abandoning dichotomies that are so basic to the thought patterns of all people—“being/not being” and “me/not me”— meditators need strong reasons for adopting it. This is why the
+
+Sabbāsava Sutta insists that anyone developing appropriate
+
+attention must first hold the noble ones (here meaning the
+
+Buddha and his awakened disciples) in high regard. In other words, you have to see that those who have followed the path are truly exemplary. You must also be well-versed in their teaching and discipline. According to MN 117, “being well-versed in their teaching” begins with having conviction in their teachings about karma and rebirth, which provide intellectual and emotional context for adopting the four noble truths as the basic categories of experience. Being well-versed in the discipline of the noble ones would include, in addition to observing the precepts, having some skill in the seven approaches mentioned above for abandoning the fermentations.
+
+Without this sort of background, meditators might bring the wrong attitudes and questions to the practice of watching arising and passing away in the present moment. For instance, they might be looking for a “true self” and end up identifying—consciously or unconsciously—with the vast, open sense of awareness that embraces all change, from which it all seems to come and to which it all seems to return. Or they might long for a sense of connectedness with the vast interplay of the universe, convinced that—as all things are changing—any desire for changelessness is neurotic and life-denying.
+
+For people with agendas like these, the simple experience of events arising and passing away in the present won’t lead to fivefold knowledge of things as they are. They’ll resist recognizing
+
+that the ideas they hold to are a fermentation of views, or that the experiences of calm that seem to verify those ideas are simply a fermentation in the form of a state of becoming. As a result, they won’t be willing to apply the four noble truths to those ideas and experiences. Only a person willing to see those fermentations as such, and convinced of the need to transcend them, will be in a position to apply the principles of appropriate attention to them and thus get beyond them.
+
+So, to answer the question with which we began: Vipassanā is not a meditation technique. It’s a quality of mind—the ability to see events clearly in the present moment. Although mindfulness is helpful in fostering vipassanā, it’s not enough for developing vipassanā to the point of total release. Other techniques and approaches are needed as well. In particular, vipassanā needs to be teamed with samatha—the ability to settle the mind comfortably in the present—so as to master the attainment of strong states of absorption, or jhāna. Based on this mastery, you then apply samatha and vipassanā to a skillful program of questioning, called appropriate attention, directed at all experience: exploring events not in terms of me/not me, or being/not being, but in terms of the four noble truths. You pursue this program until it leads to a fivefold understanding of all events: in terms of their arising, their
+
+passing away, their drawbacks, their allure, and the escape from them. Only then can the mind taste release.
+
+This program for developing vipassanā and samatha, in turn, needs the support of many other attitudes, mental qualities, and techniques of practice. This was why the Buddha taught it as part of a still larger program, including respect for the noble ones, mastery of all seven approaches for abandoning the mental fermentations, and all eight factors of the noble path. To take a reductionist approach to the practice can produce only reduced results, for meditation is a skill like carpentry, requiring a mastery
+
+of many tools in response to many different needs. To limit
+
+ourselves to only one approach in meditation would be like trying to build a house when our motivation is uncertain and our tool box contains nothing but hammers.
+
+What is Emptiness?
+
+Emptiness is a mode of perception, a way of looking at experience. It adds nothing to and takes nothing away from the raw data of physical and mental events. You look at events in the mind and the senses with no thought of whether there’s anything lying behind them.
+
+This mode is called emptiness because it’s empty of the presuppositions we usually add to experience to make sense of it: the stories and world-views we fashion to explain who we are and to define the world we live in. Although these stories and views have their uses, the Buddha found that some of the more abstract questions they raise—of our true identity and the reality of the world outside—pull attention away from a direct experience of how events influence one another in the immediate present. So they get in the way when we try to understand and solve the problem of suffering.
+
+Say for instance, that you’re meditating, and a feeling of anger toward your mother appears. Immediately, the mind’s reaction is to identify the anger as “my” anger, or to say that “I’m” angry. It then elaborates on the feeling, either working it into the story of your relationship to your mother, or to your general views about when and where anger toward one’s mother can be justified.
+
+The problem with all this, from the Buddha’s perspective, is that these stories and views entail a lot of suffering. The more you get involved in them, the more you get distracted from seeing the actual cause of the suffering: the labels of “I” and “mine” that set the whole process in motion. As a result, you can’t find the way to unravel that cause and bring the suffering to an end.
+
+If, however, you can adopt the emptiness mode—by not acting on or reacting to the anger, but simply watching it as a series of
+
+events, in and of themselves—you can see that the anger is empty of anything worth identifying with or possessing. As you master the emptiness mode more consistently, you see that this truth holds not only for such gross emotions as anger, but also for even the subtlest events in the realm of experience. This is the sense in which all things are empty. When you see this, you realize that labels of “I” and “mine” are inappropriate, unnecessary, and cause nothing but stress and pain. You can then drop them. When you drop them totally, you discover a mode of experience that lies deeper still, one that’s totally free.
+
+To master the emptiness mode of perception requires training in firm virtue, concentration, and discernment. Without this training, the mind tends to stay in the mode that keeps creating stories and worldviews. And from the perspective of that mode, the teaching of emptiness sounds simply like another story or worldview with new ground rules. In terms of the story of your relationship with your mother, it seems to be saying that there’s really no mother, no you. In terms of your views about the world, it seems to be saying either that the world doesn’t really exist, or else that emptiness is the great undifferentiated ground of being from which we all came to which someday we’ll all return.
+
+These interpretations not only miss the meaning of emptiness but also keep the mind from getting into the proper mode. If the world and the people in the story of your life don’t really exist, then all the actions and reactions in that story seem like a mathematics of zeros, and you wonder why there’s any point in practicing virtue at all. If, on the other hand, you see emptiness as the ground of being to which we’re all going to return, then what need is there to train the mind in concentration and discernment, since we’re all going to get there anyway? And even if we need training to get back to our ground of being, what’s to keep us from coming out of it and suffering all over again? So in all these scenarios, the whole idea of training the mind seems futile and pointless. By focusing on the question of whether or not there
+
+really is something behind experience, they entangle the mind in issues that keep it from getting into the present mode.
+
+Now, stories and worldviews do serve a purpose. The Buddha employed them when teaching people, but he never used the word
+
+emptiness when speaking in these modes. He recounted the stories
+
+of people’s lives to show how suffering comes from the unskillful perceptions behind their actions, and how freedom from suffering can come from being more perceptive. And he described the basic principles that underlie the round of rebirth to show how bad intentional actions lead to pain within that round, good ones lead to pleasure, while really skillful actions can take you beyond the round altogether. In all these cases, these teachings were aimed at motivating people to focus on the quality of the perceptions and intentions in their minds in the present—in other words, to get them to want to get into the emptiness mode. Once there, they can use the teachings on emptiness for their intended purpose: to loosen all attachments to views, stories, and assumptions, leaving the mind empty of all greed, anger, and delusion, and thus empty of suffering and stress. And when you come right down to it, that’s the emptiness that really counts.
+
+No-self or Not-self?
+
+One of the first stumbling blocks in understanding Buddhism is
+
+the teaching on anattā, often translated as no-self. This teaching is
+
+a stumbling block for two reasons. First, the idea of there being no self doesn’t fit well with other Buddhist teachings, such as the doctrine of karma and rebirth: If there’s no self, what experiences the results of karma and takes rebirth? Second, it seems to negate the whole reason for the Buddha’s teachings to begin with: If there’s no self to benefit from the practice, then why bother?
+
+Many books try to answer these questions, but if you look at the Pali Canon you won’t find them addressed at all. In fact, the one place where the Buddha was asked point-blank whether or not there was a self, he refused to answer. When later asked why, he said that to answer either yes, there is a self, or no, there isn’t, would be to fall into extreme forms of wrong view that make the path of Buddhist practice impossible. So the question should be put aside.
+
+To understand what his silence on this question says about the meaning of anattā, we first have to look at his teachings on how questions should be asked and answered, and how to interpret his answers.
+
+The Buddha divided all questions into four classes: those that deserve a categorical (straight yes or no) answer; those that deserve an analytical answer, defining and qualifying the terms of the question; those that deserve a counter-question, putting the ball back in the questioner’s court; and those that deserve to be put aside. The last class of question consists of those that don’t lead to the end of suffering and stress. The first duty of a teacher, when asked a question, is to figure out which class the question belongs to, and then to respond in the appropriate way. You don’t, for
+
+example, say yes or no to a question that should be put aside. If you’re the person asking the question and you get an answer, you should then determine how far the answer should be interpreted. The Buddha said that there are two types of people who misrepresent him: those who draw inferences from statements that shouldn’t have inferences drawn from them, and those who don’t draw inferences from those that should.
+
+These are the basic ground rules for interpreting the Buddha’s teachings, but if we look at the way most writers treat the anattā doctrine, we find these ground rules ignored. Some writers try to qualify the no-self interpretation by saying that the Buddha
+
+denied the existence of an eternal self or a separate self, but this is
+
+to give an analytical answer to a question that the Buddha showed should be put aside. Others try to draw inferences from the few statements in the discourse that seem to imply that there is no self, but it seems safe to assume that if you force those statements to give an answer to a question that should be put aside, you’re drawing inferences where they shouldn’t be drawn.
+
+So, instead of answering “no” to the question of whether or not there is a self—interconnected or separate, eternal or not—the Buddha felt that the question was misguided to begin with. Why? No matter how you define the line between “self” and “other,” the notion of self involves an element of self-identification and clinging, and thus suffering and stress. This holds as much for an interconnected self, which recognizes no “other,” as it does for a separate self: If you identify with all of nature, you’re pained by every felled tree. It also holds for an entirely “other” universe, in which the sense of alienation and futility would become so debilitating as to make the quest for happiness—your own or that of others—impossible. For these reasons, the Buddha advised paying no attention to such questions as “Do I exist?” or “Don’t I exist?” for however you answer them, they lead to suffering and stress.
+
+To avoid the suffering implicit in questions of “self” and “other,” he offered an alternative way of dividing up experience:
+
+the four noble truths of stress, its cause, its cessation, and the path to its cessation. These truths aren’t assertions; they’re categories of experience. Rather than viewing these categories as pertaining to self or other, he said, we should recognize them simply for what they are, in and of themselves, as they’re directly experienced, and then perform the duty appropriate to each. Stress should be comprehended, its cause abandoned, its cessation realized, and the path to its cessation developed.
+
+These duties form the context in which the anattā doctrine is best understood. If you develop the path of virtue, concentration, and discernment to a state of calm well-being and use that calm state to look at experience in terms of the noble truths, the questions that occur to the mind are not “Is there a self? What is my self?” but rather “Does holding onto this particular phenomenon cause stress and suffering? Is it really me, myself, or mine? If it’s stressful but not really me or mine, why hold on?” These last questions merit straightforward answers, as they then help you to comprehend stress and to chip away at the attachment and clinging—the residual sense of self-identification—that cause stress, until ultimately all traces of self-identification are gone and all that’s left is limitless freedom.
+
+In this sense, the anattā teaching is not a doctrine of no-self, but a not-self strategy for shedding suffering by letting go of its cause, leading to the highest, undying happiness. At that point, questions of self, no-self, and not-self fall aside. Once there’s the experience of such total freedom, where would there be any concern about what’s experiencing it, or about whether or not it’s a self?
+
+The Image of Nirvāṇa
+
+We all know what happens when a fire goes out. The flames die down and the fire is gone for good. So when we first learn that the
+
+name for the goal of Buddhist practice, nirvāṇa (nibbāna), literally
+
+means the extinguishing of a fire, it’s hard to imagine a deadlier image for a spiritual goal: utter annihilation. It turns out, though, that this reading of the concept is a mistake in translation, not so much of a word as of an image. What did an extinguished fire represent to the Indians of the Buddha’s day? Anything but annihilation.
+
+According to the ancient brahmans, when a fire was extinguished it went into a state of latency. Rather than ceasing to exist, it became dormant and, in that state—unbound from any particular fuel—diffused throughout the cosmos. When the Buddha used the image to explain nirvāṇa to the Indian brahmans of his day, he bypassed the question of whether an extinguished fire continues to exist or not, and focused instead on the impossibility of defining a fire that doesn’t burn: thus his statement that the person who has gone totally “out” can’t be described.
+
+However, when teaching his own disciples, the Buddha used nirvāṇa more as an image of freedom. Apparently, all Indians at the time saw burning fire as agitated, dependent, and trapped, both clinging and being stuck to its fuel as it burned. To ignite a fire, one had to “seize” it. When fire let go of its fuel, it was “freed,” released from its agitation, dependence, and entrapment—calm and unconfined. This is why Pali poetry repeatedly uses the image of extinguished fire as a metaphor for freedom. In fact, this metaphor is part of a pattern of fire imagery that involves two
+
+other related terms as well. Upādāna, or clinging, also refers to the sustenance a fire takes from its fuel. Khandha means not only one
+
+of the five “heaps” (form, feeling, perception, thought fabrications, and consciousness) that define all conditioned experience, but also the trunk of a tree. Just as fire goes out when it stops clinging and taking sustenance from wood, so the mind is freed when it stops clinging to the khandhas.
+
+So the image underlying nirvāṇa is one of freedom. The Pali commentaries support this point by tracing the word nirvāṇa to its verbal root, which means “unbinding.” What kind of unbinding? The texts describe two levels. One is the unbinding in this lifetime, symbolized by a fire that has gone out but whose embers are still warm. This stands for the fully awakened arahant, who is conscious of sights and sounds, sensitive to pleasure and pain, but freed from passion, aversion, and delusion. The second level of unbinding—symbolized by a fire so totally out that its embers have grown cold—is what the arahant experiences after this life. All input from the senses cools away and he/she is totally freed from even the subtlest stresses and limitations of existence in space and time.
+
+The Buddha insists that this level is indescribable, even in terms of existence or nonexistence, because words work only for things that have limits. All he really says about it—apart from images and metaphors—is that one can have foretastes of the experience in this lifetime, and that it’s the ultimate happiness, something truly worth knowing.
+
+So the next time you watch a fire going out, see it not as a case of annihilation, but as a lesson in how freedom is to be found in letting go.
+
+Abbreviations
+
+AN Aṅguttara Nikāya
+
+MN Majjhima Nikāya
+
+SN Saṁyutta Nikāya
+
+Thag Theragāthā
+
+Abbreviations
+
+AN Aṅguttara Nikāya
+
+MN Majjhima Nikāya
+
+SN Saṁyutta Nikāya
+
+Thag Theragāthā
+
+Table of Contents
+
+Titlepage 1
+
+Copyright 2
+
+Introduction 3
+
+Affirming the Truths of the Heart 4
+
+The Road to Nirvāṇa Is Paved with Skillful Intentions 12
+
+The Healing Power of the Precepts 19
+
+Right Speech 24
+
+Trading Candy for Gold 26
+
+A Guided Meditation 32
+
+The Path of Concentration & Mindfulness 37
+
+One Tool Among Many 47
+
+What is Emptiness? 57
+
+No-self or Not-self? 60
+
+The Image of Nirvāṇa 63
+
+Abbreviations 65
+

@@ -1,0 +1,178 @@
+# Living Untethered
+
+![rw-book-cover](https://m.media-amazon.com/images/I/71p05J+XCrL._SY160.jpg)
+
+## Metadata
+- Author: [[Michael A. Singer]]
+- Full Title: Living Untethered
+- Category: #books
+
+## Highlights
+- Undoubtedly, life on the planet can be a very exciting experience. It can bring enthusiasm, passion, and inspiration at every turn. When it unfolds that way, every day can be a beautiful adventure. Unfortunately, life on Earth rarely unfolds exactly as we want it to, and if we resist, ([Location 84](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=84))
+    - Tags: [[pink]] 
+- our experience can be quite unpleasant. Resistance creates tension and anxiety, and it makes life a burden. ([Location 86](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=86))
+    - Tags: [[pink]] 
+- accepting reality. ([Location 88](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=88))
+    - Tags: [[orange]] 
+- Teachings such as surrender, acceptance, and nonresistance form the basis of a deeply spiritual life. ([Location 91](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=91))
+- Acceptance is best understood as nonresistance to reality. Try as you may, no one can make an event that has already happened not have happened. Your only choice is to accept the event or resist it. ([Location 93](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=93))
+    - Tags: [[blue]] 
+- awareness of Self, ([Location 97](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=97))
+    - Tags: [[pink]] 
+- spirituality of acceptance, ([Location 98](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=98))
+    - Tags: [[pink]] 
+- you are the one who’s looking. ([Location 105](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=105))
+    - Tags: [[pink]] 
+- You in there who “sees” did not change; what you were looking at changed. ([Location 112](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=112))
+    - Tags: [[pink]] 
+- when you look out at the mirror, you are not what you see—you are the one who sees it. ([Location 122](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=122))
+    - Tags: [[pink]] 
+- subject-object. ([Location 124](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=124))
+    - Tags: [[pink]] 
+- There are many different objects coming in through your senses, but there’s only one subject experiencing them—You. ([Location 125](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=125))
+    - Tags: [[pink]] 
+- objects around you tend to distract your consciousness. ([Location 129](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=129))
+    - Tags: [[pink]] 
+- On a daily basis, you are so distracted by external objects that you rarely remain centered on You, the conscious receiver of these objects. ([Location 130](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=130))
+    - Tags: [[pink]] 
+- You are actually seeing the objects inside, not outside. ([Location 135](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=135))
+    - Tags: [[pink]] 
+- You are obviously not the object you are looking at; after all, you are not even looking at the actual object. ([Location 138](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=138))
+    - Tags: [[pink]] 
+- “Who am I in here looking at a mental image of what is in front of me?” ([Location 139](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=139))
+    - Tags: [[pink]] 
+- Ramana Maharshi. ([Location 140](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=140))
+    - Tags: [[orange]] 
+- Self-realization, ([Location 142](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=142))
+    - Tags: [[blue]] 
+- The entire spiritual journey back to the seat of Self is not about finding ([Location 143](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=143))
+    - Tags: [[orange]] 
+- yourself—it’s about realizing you are the Self. ([Location 143](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=143))
+    - Tags: [[orange]] 
+- “No, you don’t have a soul—you in there, the consciousness, are the soul.” ([Location 144](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=144))
+    - Tags: [[orange]] 
+- You can’t free yourself until you understand who it is that’s bound. Likewise, you can’t understand acceptance until you understand who is resisting. ([Location 145](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=145))
+    - Tags: [[orange]] 
+- Let’s continue our exploration of Self. Earlier we discussed that when you were young, you looked out through your eyes and saw a certain reflection in the mirror. Later in your life you saw a very different reflection. From that point of view, how old are you? Not how old is your body. How old are you in there who’s looking out through those eyes at your body? If you were in there when you were ten, if you were in there when you were twenty, if you’re going to be in there on your deathbed noticing that you’re dying, then what age are you in there? Don’t answer that question, just let it touch you at a very deep level. Are you willing to let go of traditional concepts about your age? ([Location 147](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=147))
+- You in there, who has no body parts, can’t have a gender. ([Location 157](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=157))
+    - Tags: [[orange]] 
+- That form and shape might be male or female, but you who notices are neither. ([Location 158](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=158))
+    - Tags: [[orange]] 
+- The question remains, who are You, the awareness that intuitively knows you’re in there? ([Location 159](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=159))
+    - Tags: [[pink]] 
+- Your skin may be a certain color, but the consciousness that notices this has no color at all. ([Location 161](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=161))
+    - Tags: [[blue]] 
+- You are not your ([Location 162](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=162))
+    - Tags: [[orange]] 
+- body; you are the one who notices the characteristics of your body. ([Location 162](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=162))
+    - Tags: [[orange]] 
+- You are the conscious awareness within that is looking at all of this. ([Location 163](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=163))
+- You are the subject; all the rest are objects of consciousness. ([Location 165](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=165))
+    - Tags: [[pink]] 
+- How do you know you had a dream? Do you merely remember the dream or were you actually in there experiencing it? The answer is very simple: you were in there experiencing it. ([Location 167](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=167))
+    - Tags: [[blue]] 
+- There’s only one conscious being in there, and you are either experiencing the waking world or the dream world. ([Location 169](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=169))
+- when you go to sleep and there are no dreams, it’s not that you are not conscious, it’s that you are conscious of nothing. ([Location 172](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=172))
+    - Tags: [[orange]] 
+- Medically, what we call “conscious” has to do with awareness of our external surroundings. ([Location 177](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=177))
+- However, the concept of whether you in there are consciously aware of anything—that’s another story altogether. ([Location 177](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=177))
+    - Tags: [[blue]] 
+- You’re always conscious. ([Location 178](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=178))
+    - Tags: [[orange]] 
+- The reason some people have so much trouble with death is because they identify with their bodies. ([Location 192](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=192))
+    - Tags: [[orange]] 
+- People project their sense of self onto things that are not their self. ([Location 193](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=193))
+    - Tags: [[pink]] 
+- As you work your way through your inner growth, you won’t identify with these outer objects anymore. You’ll identify with the deeper sense of self within. ([Location 194](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=194))
+    - Tags: [[blue]] 
+- If people answered honestly, most would say that it’s not always so much fun in there. ([Location 197](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=197))
+    - Tags: [[orange]] 
+- inner growth. ([Location 198](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=198))
+    - Tags: [[orange]] 
+- Most people don’t realize that it can always be nice in there. ([Location 198](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=198))
+    - Tags: [[pink]] 
+- Take the nicest it’s ever been: holding your first child, the day of your wedding, your first kiss, winning the lottery. Recall that state, then increase it multifold and have it be that way all the time—except that it keeps getting higher. ([Location 199](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=199))
+    - Tags: [[blue]] 
+- That is what you are capable of experiencing inside. That’s the truth. ([Location 200](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=200))
+    - Tags: [[orange]] 
+- why is it not nice? ([Location 207](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=207))
+    - Tags: [[orange]] 
+- If you find out why it’s not nice, and you get rid of that, you’re going to find out it can be really nice in there. Life doesn’t have to be a game of, “Since it’s not nice in here, I need to find things that will compensate for that in order to feel a little bit better.” That is what everybody’s doing. They are trying to find people, places, and things in the outside world that will unfold in a way that makes it more comfortable inside. People are trying to use the outside to fix the inside—better to find out why it’s not nice inside to begin with. ([Location 207](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=207))
+- “I’m in here. I’m conscious, and what I am conscious of is that it’s not always so nice in here.” ([Location 213](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=213))
+    - Tags: [[orange]] 
+- What is it you experience that sometimes makes it nice inside, and sometimes makes it very difficult? ([Location 216](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=216))
+    - Tags: [[pink]] 
+- only three things you experience in there, ([Location 217](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=217))
+    - Tags: [[blue]] 
+- First, you experience the outside world coming in through your senses. ([Location 217](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=217))
+- When it comes in, it’s either a pleasant experience, an unpleasant experience, or a just-passing-through experience. ([Location 218](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=218))
+    - Tags: [[orange]] 
+- As overwhelming as the outside world can be, it’s not all you experience inside. You also have thoughts in there. ([Location 220](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=220))
+    - Tags: [[pink]] 
+- If you’re asked who is saying all this inside your head, you’ll probably say it’s you. But it is not you. Those are thoughts, and you are the one who is noticing the thoughts. Thoughts are just another thing you notice in there. ([Location 223](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=223))
+    - Tags: [[orange]] 
+- The third thing you experience is your feelings or emotions. ([Location 227](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=227))
+    - Tags: [[pink]] 
+- but if you didn’t actually feel scared, the impact would be much less. ([Location 228](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=228))
+    - Tags: [[pink]] 
+- It’s the fact that you actually experience the emotion of fear that causes the problem. ([Location 228](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=228))
+    - Tags: [[blue]] 
+- seat of awareness. ([Location 232](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=232))
+    - Tags: [[orange]] 
+- While you stand there, notice what else you’re aware of. Notice your surroundings coming in through your senses, your thoughts passing through your mind, and any emotions that arise in your heart creating feelings of comfort or discomfort within. ([Location 234](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=234))
+    - Tags: [[blue]] 
+- The outside world has a major influence on your thoughts, and your thoughts and emotions will generally line up. ([Location 238](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=238))
+- You were doing fine until an event came in from the outside, took over your thoughts, and generated difficult emotions. ([Location 241](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=241))
+    - Tags: [[blue]] 
+- There certainly are times when you’re not suffering, but the vast majority of what’s going on is you’re just trying to be okay. ([Location 245](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=245))
+    - Tags: [[orange]] 
+- try to be okay. ([Location 247](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=247))
+    - Tags: [[orange]] 
+- trying to make your thoughts and emotions easier to live with. ([Location 251](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=251))
+    - Tags: [[orange]] 
+- The problem is there’s an outside world of reality that can come in and cause your thoughts and emotions to be very difficult. ([Location 253](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=253))
+    - Tags: [[pink]] 
+- When we’re through, you’ll realize that what really matters is not the thoughts, the emotions, nor the outside world. What really matters is You in there, who is experiencing these things. ([Location 257](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=257))
+- What we’ll see is that you in there are higher than any experience you’ve ever had. ([Location 258](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=258))
+    - Tags: [[orange]] 
+- The Kingdom is within you. You in there are a very great being made in the image of God, but to know that, you have to free yourself from all the inner commotion. ([Location 261](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=261))
+    - Tags: [[pink]] 
+- Every moment that passes before you comes and goes like the frames of a motion picture. The moments never stop; they just keep flowing through time and space. ([Location 269](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=269))
+- Where did all these moments come from? Why do you experience them the way that you do? What is your true relationship to what passes before you? ([Location 270](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=270))
+- Though all three of these objects of consciousness are constantly changing, you are the persistent being that is always there experiencing them. ([Location 272](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=272))
+    - Tags: [[blue]] 
+- What is it like to sit back and be conscious of being conscious? ([Location 274](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=274))
+    - Tags: [[orange]] 
+- That is what all spirituality is about. ([Location 274](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=274))
+    - Tags: [[pink]] 
+- When you are no longer distracted by any of the three great distractors, your consciousness will no longer be pulled into those objects. ([Location 274](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=274))
+    - Tags: [[orange]] 
+- The focus of consciousness will very naturally remain in the source of consciousness. It’s like a flashlight shining on various objects. ([Location 275](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=275))
+    - Tags: [[blue]] 
+- if you look at the light itself, you will realize it is the same light shining on all the different objects. ([Location 276](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=276))
+    - Tags: [[pink]] 
+- Instead of looking at the objects being illumined, ([Location 276](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=276))
+    - Tags: [[pink]] 
+- Likewise, it is the same consciousness that is aware of all the objects passing before ([Location 277](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=277))
+    - Tags: [[orange]] 
+- it, both outside and in. ([Location 278](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=278))
+    - Tags: [[orange]] 
+- You are that consciousness. ([Location 278](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=278))
+    - Tags: [[pink]] 
+- When you pull back to that source of awareness, it is the most beautiful thing you will ever experience. ([Location 278](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=278))
+    - Tags: [[blue]] 
+- That is the journey before us—to free ourselves from the distractions that keep drawing us away from our greatness and leave us struggling with life. ([Location 279](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=279))
+- As you come to understand the nature of these objects you are struggling with, you will very naturally be able to release the hold they have on you. ([Location 280](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=280))
+    - Tags: [[orange]] 
+- This act of letting go is what is meant by “acceptance” and “surrender.” ([Location 281](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=281))
+    - Tags: [[blue]] 
+- There is a state of great peace within you that cannot be disturbed by the world, your thoughts, or even your emotions. ([Location 282](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=282))
+    - Tags: [[pink]] 
+- to let go of the three great distractors and return to the source of your being. ([Location 285](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=285))
+    - Tags: [[orange]] 
+- The highest path is learning through your daily life to gradually let go of what is distracting your consciousness. ([Location 287](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=287))
+    - Tags: [[pink]] 
+- By accepting instead of resisting, you will eventually attain a permanent seat of clarity—it’s called becoming established in the seat of Self. ([Location 288](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=288))
+- you will become so comfortable with the three objects of consciousness passing before you that you will no longer have to devote your life to controlling the experience. ([Location 291](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=291))
+    - Tags: [[pink]] 
+- In drastic contrast, you can learn to establish yourself in the higher aspect of your being: the seat of conscious awareness. ([Location 293](https://readwise.io/to_kindle?action=open&asin=B09LLTRR3Z&location=293))

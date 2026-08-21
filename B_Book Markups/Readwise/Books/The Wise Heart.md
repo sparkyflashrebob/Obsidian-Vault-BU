@@ -1,0 +1,880 @@
+# The Wise Heart
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/41ykveqOs-L._SL200_.jpg)
+
+## Metadata
+- Author: [[Jack Kornfield]]
+- Full Title: The Wise Heart
+- Category: #books
+
+## Highlights
+- O Nobly Born, O you of glorious origins, remember your radiant true nature, the essence of mind. Trust it. Return to it. It is home. —Tibetan Book of the Dead ([Location 173](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=173))
+- In a large temple north of Thailand’s ancient capital, Sukotai, there once stood an enormous and ancient clay Buddha. Though not the most handsome or refined work of Thai Buddhist art, it had been cared for over a period of five hundred years and become revered for its sheer longevity. Violent storms, changes of government, and invading armies had come and gone, but the Buddha endured. At one point, however, the monks who tended the temple noticed that the statue had begun to crack and would soon be in need of repair and repainting. After a stretch of particularly hot, dry weather, one of the cracks became so wide that a curious monk took his flashlight and peered inside. What shone back at him was a flash of brilliant gold! Inside this plain old statue, the temple residents discovered one of the largest and most luminous gold images of Buddha ever created in Southeast Asia. Now uncovered, the golden Buddha draws throngs of devoted pilgrims from all over Thailand. The monks believe that this shining work of art had been covered in plaster and clay to protect it during times of conflict and unrest. In much the same way, each of us has encountered threatening situations that lead us to cover our innate nobility. Just as the people of Sukotai had forgotten about the golden Buddha, we too have forgotten our essential nature. Much of the time we operate from the protective layer. The primary aim of Buddhist psychology is to help us see beneath this armoring and bring out our original goodness, called our Buddha nature. ([Location 179](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=179))
+    - Tags: [[orange]] 
+- Our belief in a limited and impoverished identity is such a strong habit that without it we are afraid we wouldn’t know how to be. ([Location 198](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=198))
+- “the pursuit of happiness” has become “the right to happiness.” ([Location 217](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=217))
+    - Tags: [[pink]] 
+- While tending to our suffering is critical, this does not eclipse our fundamental nobility. ([Location 220](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=220))
+    - Tags: [[orange]] 
+- “inner illumination.” ([Location 222](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=222))
+    - Tags: [[pink]] 
+- human excellence, ([Location 223](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=223))
+    - Tags: [[blue]] 
+- imagining the person before us as a small child, still young and innocent. ([Location 225](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=225))
+    - Tags: [[pink]] 
+- fellow wayfarer, struggling with his burdens, ([Location 229](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=229))
+    - Tags: [[orange]] 
+- “Just as the great oceans have but one taste, the taste of salt, so do all of the teachings of Buddha have but one taste, the taste of liberation.” ([Location 253](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=253))
+    - Tags: [[orange]] 
+- “We who lived in concentration camps can remember the men who walked through the huts comforting others, giving away their last piece of bread. They may have been few in number, but they offer sufficient proof that everything can be taken from a man but one thing: the last of the human freedoms—to choose one’s attitude in any given set of circumstances, to choose one’s own way.” ([Location 255](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=255))
+    - Tags: [[pink]] 
+- “If it were not possible to free the heart from entanglement in unhealthy states,” says the Buddha, “I would not teach you to do so. But just because it is possible to free the heart from entanglement in unhealthy states do I offer these teachings.” ([Location 260](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=260))
+    - Tags: [[orange]] 
+- Awakening this inner freedom of spirit is the purpose of the hundreds of Buddhist practices and trainings. ([Location 262](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=262))
+- emphasis on training and practice, as well as understanding. ([Location 264](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=264))
+    - Tags: [[blue]] 
+- there is a regimen of daily and ongoing trainings and disciplines to help you learn and practice healthy ways of being. ([Location 265](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=265))
+    - Tags: [[orange]] 
+- Each time we meet another human being and honor their dignity, we help those around us. ([Location 270](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=270))
+    - Tags: [[orange]] 
+- “mood contagion” ([Location 272](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=272))
+    - Tags: [[orange]] 
+- limbic resonance. ([Location 272](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=272))
+    - Tags: [[pink]] 
+- When conflict arose, we called on practices of patience, and in seeking forgiveness we were guided by councils of elders who demonstrated how to approach our failings with mindful respect. ([Location 285](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=285))
+    - Tags: [[orange]] 
+- Buddhist psychology begins by deliberately cultivating respect, starting with ourselves. ([Location 287](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=287))
+    - Tags: [[blue]] 
+- When we bring respect and honor to those around us, we open a channel to their own goodness. ([Location 294](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=294))
+    - Tags: [[blue]] 
+- Some years ago, I heard the story of a high school history teacher who knew this same secret. On one particularly fidgety and distracted afternoon she told her class to stop all their academic work. She let her students rest while she wrote on the blackboard a list of the names of everyone in the class. Then she asked them to copy the list. She instructed them to use the rest of the period to write beside each name one thing they liked or admired about that student. At the end of class she collected the papers. Weeks later, on another difficult day just before winter break, the teacher again stopped the class. She handed each student a sheet with his or her name on top. On it she had pasted all twenty-six good things the other students had written about that person. They smiled and gasped in pleasure that so many beautiful qualities were noticed about them. Three years later this teacher received a call from the mother of one of her former students. Robert had been a cut-up, but also one of her favorites. His mother sadly passed on the terrible news that Robert had been killed in the Gulf War. The teacher attended the funeral, where many of Robert’s former friends and high school classmates spoke. Just as the service was ending, Robert’s mother approached her. She took out a worn piece of paper, obviously folded and refolded many times, and said, “This was one of the few things in Robert’s pocket when the military retrieved his body.” It was the paper on which the teacher had so carefully pasted the twenty-six things his classmates had admired. ([Location 308](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=308))
+- Seeing this, Robert’s teacher’s eyes filled with tears. As she dried her wet cheeks, another former student standing nearby opened her purse, pulled out her own carefully folded page, and confessed that she always kept it with her. A third ex-student said that his page was framed and hanging in his kitchen; another told how the page had become part of her wedding vows. The ([Location 320](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=320))
+- perception of goodness invited by this teacher had transformed the hearts of her students in ways she might only have dreamed about. ([Location 323](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=323))
+- Zen master Shunryu Suzuki remarked to a disciple, “You are perfect just the way you are. And…there is still room for improvement!” ([Location 330](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=330))
+    - Tags: [[orange]] 
+- set the clear intention that during the morning you will look for the inner nobility of three people. ([Location 336](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=336))
+    - Tags: [[orange]] 
+- When we clearly realize that the source of disharmony and misery in the world is ignorance, we can open the door of wisdom and compassion.” ([Location 360](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=360))
+    - Tags: [[orange]] 
+- Buddhism teaches that we suffer not because we have sinned but because we are blind. ([Location 362](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=362))
+    - Tags: [[pink]] 
+- Buddhist texts describe compassion as the quivering of the heart in the face of pain, as the capacity to see our struggles with “kindly eyes.” ([Location 363](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=363))
+- Compassion is our deepest nature. It arises from our interconnection with all things. ([Location 368](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=368))
+    - Tags: [[orange]] 
+- unworthiness is not helped by striving. ([Location 372](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=372))
+    - Tags: [[pink]] 
+- for real healing I needed compassion. ([Location 372](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=372))
+- We can touch into this compassion whenever the mind is quiet, whenever we allow the heart to open. ([Location 382](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=382))
+    - Tags: [[pink]] 
+- “interdependence.” ([Location 392](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=392))
+    - Tags: [[orange]] 
+- Just as we are interdependent with the earth and one another, we are also connected in consciousness. ([Location 403](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=403))
+    - Tags: [[orange]] 
+- neurological basis for compassion ([Location 409](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=409))
+    - Tags: [[blue]] 
+- through our mirror neurons, we actually feel the emotions, movements, and intentions of others. ([Location 410](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=410))
+    - Tags: [[orange]] 
+- In Buddhist psychology, compassion is not a struggle or a sacrifice. Within our body, compassion is natural and intuitive. We don’t think, “Oh, my poor toe or finger is hurt, maybe I should help it.” As soon as it is injured, we instantly respond because it is a part of us. Through meditation we gradually open the boundaries of consciousness to compassion for all beings, as if they were part of our family. We learn that even when our compassion is lost through fear and trauma, it can be reawakened. Faced with a crying child in a burning house, a hardened criminal is as likely as anyone else to take the risk of rescuing her. We all have moments when the openness and beauty of our Buddha nature shines. ([Location 412](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=412))
+- We can see the natural hand of compassion in all the ways we try to keep ourselves from harm, in a thousand daily gestures of self-protection. ([Location 434](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=434))
+- self-hatred. ([Location 438](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=438))
+    - Tags: [[orange]] 
+- In order to survive the periods of extreme conflict within my family, I covered over my pain. ([Location 442](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=442))
+- While trying to be good, underneath I had a feeling of being unloved, of forever seeking acceptance. ([Location 446](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=446))
+- Each of us has our own measure of pain. Sometimes the pain we suffer is great and obvious; sometimes it is subtle. Our pain can reflect the coldness of our families, the trauma of our parents, the stultifying influence of much modern education and media, the difficulties of being a man or a woman. As a result, we often feel that we have been cast out. To survive we have to cover our heart, build up a layer of clay, and defend ourselves. ([Location 454](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=454))
+    - Tags: [[orange]] 
+- Always remember to put your trust in compassion. ([Location 460](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=460))
+    - Tags: [[blue]] 
+- From this comes a shift of identity, a release from the covering of clay, a return to our original goodness. ([Location 462](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=462))
+    - Tags: [[pink]] 
+- In the beginning, much of Andrew’s training was simply to breathe gently and make room for the waves of his grief. ([Location 468](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=468))
+- He had feared this opening because he believed that he would be overwhelmed by the tragic memories and the guilt. ([Location 469](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=469))
+    - Tags: [[pink]] 
+- On retreat, with the support of the meditators around him, he slowly learned to hold his battered body with kindness. ([Location 470](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=470))
+    - Tags: [[orange]] 
+- Gradually he extended his heart to the suffering of both the Iraqi people and the American people. ([Location 470](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=470))
+- When the painful images and guilt arose, he began to experience his innate compassion, the soul force he had felt was lost. This was the start of his return to life. ([Location 471](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=471))
+    - Tags: [[orange]] 
+- Could she remember from her childhood a single instant of well-being? ([Location 480](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=480))
+    - Tags: [[orange]] 
+- The Buddha taught that we can develop loving-kindness by visualizing how a caring mother holds her beloved child. ([Location 483](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=483))
+    - Tags: [[orange]] 
+- Compassion for our own fear and shame opens us to others. ([Location 489](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=489))
+    - Tags: [[blue]] 
+- As children, many of us were taught courage in the form of the warrior or the explorer, bravely facing danger. In the Buddhist understanding, however, great courage is not demonstrated by aggression or ambition. Aggression and ambition are more often expressions of fear and delusion. The courageous heart is the one that is unafraid to open to the world. With compassion we come to trust our capacity to open to life without armoring. ([Location 493](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=493))
+    - Tags: [[pink]] 
+- In all these situations we are vulnerable and everyone involved needs compassion. ([Location 500](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=500))
+- Martin Luther King Jr. exhorted us, “Never succumb to the temptation of becoming bitter. As you press for justice, be sure to move with dignity and discipline, using only the instruments of love.” ([Location 508](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=508))
+    - Tags: [[orange]] 
+- in this vulnerable human life, every loss is an opportunity either to shut out the world or to stand up with dignity and let the heart respond. ([Location 511](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=511))
+    - Tags: [[orange]] 
+- Living with compassion does not mean we have to give away all our possessions, take in every homeless person we meet, and fix every difficulty in our extended family and community. Compassion is not co-dependence. ([Location 518](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=518))
+    - Tags: [[orange]] 
+- It does not mean we lose our self-respect or sacrifice ourself blindly for others. ([Location 520](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=520))
+- We mistakenly fear that if we become too compassionate we will be overwhelmed by the suffering of others. But this happens only when our compassion is one-sided. ([Location 520](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=520))
+    - Tags: [[blue]] 
+- In Buddhist psychology compassion is a circle that encompasses all beings, including ourselves. ([Location 521](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=521))
+- Compassion is not foolish. It doesn’t just go along with what others want so they don’t feel bad. ([Location 523](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=523))
+    - Tags: [[pink]] 
+- There is a yes in compassion, and there is also a no, said with the same courage of heart. No to abuse, no to racism, no to violence, both personal and worldwide. The no is said not out of hate but out of an unwavering care. Buddhists call this the fierce sword of compassion. It is the powerful no of leaving a destructive family, the agonizing no of allowing an addict to experience the consequences of his acts. ([Location 524](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=524))
+    - Tags: [[orange]] 
+- In this traditional form of practice you will combine a repeated inner intention with visualization and the evocation of the feeling of compassion. ([Location 538](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=538))
+    - Tags: [[orange]] 
+- In its true state consciousness is naked, immaculate, clear, vacuous, transparent, timeless, beyond all conditions. O Nobly Born, remember the pure open sky of your own true nature. —Tibetan Book of the Great Liberation ([Location 563](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=563))
+    - Tags: [[orange]] 
+- Luminous is consciousness, brightly shining is its nature, but it becomes clouded by the attachments that visit it. —Anguttara Nikaya ([Location 565](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=565))
+    - Tags: [[pink]] 
+- ‘Who spoke? ([Location 577](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=577))
+    - Tags: [[orange]] 
+- Much of life cannot be explained, it can only be witnessed.” ([Location 578](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=578))
+    - Tags: [[orange]] 
+- “that which knows,” ([Location 584](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=584))
+    - Tags: [[orange]] 
+- our body looks older, even though we don’t feel older. ([Location 586](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=586))
+    - Tags: [[pink]] 
+- the body exists in time, ([Location 586](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=586))
+- but the consciousness that perceives it is outside of time, ([Location 586](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=586))
+- Ordinarily we take consciousness for granted, ignoring it as a fish ignores water. ([Location 588](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=588))
+    - Tags: [[blue]] 
+- we focus endlessly on the contents of experience: ([Location 589](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=589))
+    - Tags: [[pink]] 
+- 3 When we shift attention from experience to the spacious consciousness that knows, wisdom arises. ([Location 593](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=593))
+    - Tags: [[orange]] 
+- “Mindfulness is all helpful,” ([Location 595](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=595))
+    - Tags: [[pink]] 
+- “With the mind, to observe the mind.” ([Location 597](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=597))
+    - Tags: [[blue]] 
+- The central tool for investigating consciousness is our own observation. ([Location 597](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=597))
+    - Tags: [[orange]] 
+- What we ordinarily call the mind usually refers to the “thinking mind,” ([Location 599](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=599))
+    - Tags: [[blue]] 
+- the mind is not just its thoughts, ([Location 600](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=600))
+    - Tags: [[pink]] 
+- includes ([Location 601](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=601))
+    - Tags: [[pink]] 
+- mind states ([Location 601](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=601))
+    - Tags: [[pink]] 
+- feelings, ([Location 602](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=602))
+    - Tags: [[orange]] 
+- moods, ([Location 602](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=602))
+    - Tags: [[blue]] 
+- intuition, ([Location 602](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=602))
+- instincts. ([Location 602](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=602))
+    - Tags: [[orange]] 
+- conscious awareness. ([Location 602](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=602))
+    - Tags: [[pink]] 
+- Buddhist psychology posits that consciousness is the condition for life, and that the physical body interacts with consciousness but is not its source. ([Location 614](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=614))
+    - Tags: [[orange]] 
+- awareness, ([Location 617](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=617))
+    - Tags: [[orange]] 
+- but it doesn’t have a color or location. ([Location 617](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=617))
+- clear open sky of awareness. ([Location 619](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=619))
+    - Tags: [[orange]] 
+- In its true state, consciousness is simply this knowing—clear, ([Location 620](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=620))
+    - Tags: [[pink]] 
+- More than anything else, the way we experience life is created by the particular states of mind with which we meet it. ([Location 789](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=789))
+- Pure awareness becomes colored by our thoughts, emotions, and expectations. ([Location 793](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=793))
+- When consciousness is colored or conditioned, it acts like particles, arising and passing, taking on whatever qualities happen to arise with it. It can be felt as a succession of discrete moments, each arising from the present conditions of both mind and senses. As with light or sound, the way in which consciousness arises as discrete, particular moments can be observed. And, as Ajahn Chah tried to teach us, some of these moments can also be changed. ([Location 796](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=796))
+    - Tags: [[orange]] 
+- Sense impressions and sense consciousnesses are the first two steps in constructing our world. ([Location 844](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=844))
+    - Tags: [[pink]] 
+- The presence of healthy mental states creates a healthy mind; the presence of unhealthy states creates mental distress, unhappiness, and mental illness. ([Location 865](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=865))
+    - Tags: [[orange]] 
+- Buddhist psychology takes a liberating turn, stepping back with mindfulness to investigate the play of the mental states themselves, teaching us to release those states that bring sorrow and foster those that create joy. ([Location 869](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=869))
+    - Tags: [[blue]] 
+- The mental factors ([Location 871](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=871))
+- three groups. ([Location 871](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=871))
+- thirteen common and universal qualities ([Location 871](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=871))
+    - Tags: [[orange]] 
+- mental factors that are subject to training. ([Location 874](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=874))
+    - Tags: [[blue]] 
+- into healthy states ([Location 875](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=875))
+    - Tags: [[orange]] 
+- unhealthy ones. ([Location 875](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=875))
+- roots: love, generosity, and mindfulness. ([Location 879](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=879))
+    - Tags: [[pink]] 
+- They grow from mindful attention, and like sunlight on fog, the presence of these healthy states dissolves the unhealthy ones. ([Location 881](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=881))
+    - Tags: [[orange]] 
+- When healthy factors are present, unhealthy ones are not. So when we foster healthy states, unhealthy ones disappear. ([Location 885](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=885))
+- To work with our mental states, we have to acknowledge how rapidly these states can change, often disappearing without our noticing. Because we are not ([Location 886](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=886))
+    - Tags: [[blue]] 
+- aware of our inner states, we feel controlled by outside influences. The world will alternately please us or be at fault, and we will be caught in habitual grasping or frustration. ([Location 887](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=887))
+    - Tags: [[blue]] 
+- The Buddha asks, “How does a practitioner remain established in observation of states of mind in the mind?” He instructs, “The practitioner becomes aware when the mind is tense and when the mind is relaxed…the practitioner becomes aware when the mind contains hatred and when the mind contains love…the practitioner becomes aware when the mind contains worry and when the mind is composed.” ([Location 893](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=893))
+    - Tags: [[orange]] 
+- practice non-harming, ([Location 912](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=912))
+    - Tags: [[orange]] 
+- mindful of mental states, we also begin to see the ways that they are habitual, how conditioned they are. ([Location 924](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=924))
+    - Tags: [[orange]] 
+- past reactions are engraved onto the synapses ([Location 925](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=925))
+    - Tags: [[blue]] 
+- But gradually we realize that mindfulness gives us the option to choose a healthier response. ([Location 927](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=927))
+    - Tags: [[pink]] 
+- As Ajahn Chah taught, “When you have wisdom, contact with experience is like standing at the bottom of a ripe mango tree. We get to choose between the good and rotten mangoes. It is all to your profit, because you know which fruits will make you sick and which are healthy.” ([Location 940](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=940))
+    - Tags: [[orange]] 
+- Mindfulness is the king or queen of all the healthy states. ([Location 944](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=944))
+    - Tags: [[pink]] 
+- George Washington Carver explained, “Anything will give up its secrets if you love it enough.” ([Location 1480](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=1480))
+    - Tags: [[orange]] 
+- Mindfulness is attention. It is a non-judging and respectful awareness. ([Location 1481](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=1481))
+    - Tags: [[pink]] 
+- Unfortunately, much of the time we don’t attend in this way. Instead, we continually react, judging whether we like, dislike, or can ignore what is happening. We evaluate ourselves and others with a stream of expectations, commentary, and criticism. ([Location 1481](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=1481))
+- The first hour of mindfulness meditation reveals its opposite, bringing an unseen stream of evaluation and judgment into stark relief. ([Location 1484](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=1484))
+    - Tags: [[blue]] 
+- Mindful attention to any experience is liberating. Mindfulness brings perspective, balance, and freedom. ([Location 1493](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=1493))
+    - Tags: [[orange]] 
+- He breathed, relaxed a little, and recognized that the medicine he needed was nothing other than to understand his own pain. ([Location 1506](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=1506))
+    - Tags: [[orange]] 
+- He realized that his body had become a mirror, and that his mindfulness was showing him both the cause and the cure of his suffering, recognizing tension in the mind and consciously relaxing that tension. ([Location 1515](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=1515))
+    - Tags: [[orange]] 
+- “We pay attention with respect and interest, not in order to manipulate, but to understand what is true. And seeing what is true, the heart becomes free.” ([Location 1522](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=1522))
+    - Tags: [[orange]] 
+- “It’s easy to teach. All you have to do is ask if they’re being mindful.” ([Location 1530](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=1530))
+    - Tags: [[orange]] 
+- The art of living is neither careless drifting on the one hand nor fearful clinging on the other. It consists in being sensitive to each moment, in regarding it as utterly new and unique, in having the mind open and wholly receptive. —Alan Watts ([Location 1532](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=1532))
+    - Tags: [[orange]] 
+- act of courage. ([Location 1536](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=1536))
+    - Tags: [[pink]] 
+- learned to see the endless mental stories that repeat over and over, and, with the resources of mindfulness and compassion, to let them go and relax, to steady the mind and return to the present. ([Location 1541](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=1541))
+    - Tags: [[blue]] 
+- “How would it be if in the dark of the month, with no moon, I were to enter the most strange and frightening places, near tombs and in the thick of the forest, that I might come to understand fear and terror. And doing so, a wild animal would approach or the wind rustle the leaves and I would think, ‘Perhaps the fear and terror now comes.’ And being resolved to dispel the hold of that fear and terror, I remained in whatever posture it arose, sitting or standing, walking or lying down. I did not change until I had faced that fear and terror in that very posture, until I was free of its hold upon me…. And having this thought, I did so. By facing the fear and terror I became free.” ([Location 1543](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=1543))
+- Mindfulness does not reject experience. ([Location 1558](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=1558))
+    - Tags: [[orange]] 
+- If we deny our dissatisfaction, our anger, our pain, our ambition, we will suffer. If we deny our values, our beliefs, our longings, or our goodness, we will suffer. ([Location 1579](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=1579))
+    - Tags: [[orange]] 
+- “The emergence and blossoming of understanding, love, and intelligence has nothing to do with any outer tradition,” observes Zen teacher Toni Packer. “It happens completely on its own when a human being questions, wonders, listens, and looks without getting stuck in fear. When self-concern is quiet, in abeyance, heaven and earth are open.” ([Location 1581](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=1581))
+    - Tags: [[pink]] 
+- “If you understand, things are just as they are. And if you don’t understand, things are still just as they are.” ([Location 1589](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=1589))
+    - Tags: [[blue]] 
+- ourselves. As Carl Jung once remarked, “Perhaps ([Location 1594](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=1594))
+    - Tags: [[orange]] 
+- Now there are two theories about crime and how to deal with it. Anticrime guys say, “You have to think like a criminal.” And some police learn that so well they get a kind of criminal mentality themselves. How I’m working with it is really pretty different. I’m a peace officer. I see that man is essentially pure and innocent and of one good nature…. Now it’s interesting how this works. I had arrested a very angry man who singled me out for real animosity. When I had to take him to a paddy wagon, he spit in my face—that was something—and he went after me with a chair. We handcuffed him and put him in the truck. Well, on the way, I just had to get past this picture of things, and again I affirmed to myself, “This guy and I are brothers in love.” When I ([Location 1656](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=1656))
+- got to the station, I was moved spontaneously to say, “Look, if I’ve done anything to offend you, I apologize.” The paddy wagon driver looked at me as if I was totally nuts. The next day I had to take him from where he’d been housed overnight to criminal court. When I picked him up, I thought, “Well, if you trust this vision, you’re not going to have to handcuff him.” And I didn’t. We got to a spot in the middle of the corridor, which was the place where he’d have jumped me if he had that intention. And he stopped suddenly. So did I. Then he said, “You know, I thought about what you said yesterday, and I want to apologize.” I just felt this deep appreciation. Turned out on his rap sheet he’d done a lot of time in a couple of bad prisons and had trouble with some harsh guards. I symbolized something. And I saw that turn around, saw a kind of healing, I believe. ([Location 1664](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=1664))
+- primary feeling. ([Location 1951](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=1951))
+    - Tags: [[pink]] 
+- pleasant, painful, or neutral quality. ([Location 1952](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=1952))
+    - Tags: [[orange]] 
+- “Working with the primary feelings is a direct route to enlightenment,” ([Location 1955](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=1955))
+- We secretly believe that if we can act just right, then our stream of feelings will always be pleasant and there will be no pain, no loss. ([Location 1957](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=1957))
+    - Tags: [[blue]] 
+- Now, as a meditation teacher, I frequently use mindfulness of primary feeling as a way to help students who are caught in automatic reactions. ([Location 1977](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=1977))
+    - Tags: [[orange]] 
+- We can see how a pleasant primary feeling can give rise either to unhealthy secondary emotions such as grasping, jealousy, and clinging or to healthy states of joy, ease, and happiness. ([Location 2012](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2012))
+    - Tags: [[pink]] 
+- Neutral feeling tone can give rise to unhealthy secondary emotions such as boredom, lethargy, and being spaced out or to healthy states of peace, ease, and contentment. ([Location 2014](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2014))
+    - Tags: [[orange]] 
+- Painful experiences can give rise to unhealthy states of aversion, judgment, rigidity, and fear or to healthy states of clarity, steadfastness, and wisdom. ([Location 2015](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2015))
+- reclaiming their feelings. ([Location 2032](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2032))
+    - Tags: [[blue]] 
+- On intensive meditation retreat, we can go through periods of strong emotions. Initially they overpower us, until we find a mindful middle where we neither suppress them nor are completely lost in them. And then, to our surprise, as we mindfully allow them, they can become more alive in themselves. We experience the intense, pure feelings of joy and sorrow in their own right. It’s as though we can let ourselves be carried by the river of feelings, because we know how to swim. ([Location 2043](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2043))
+    - Tags: [[blue]] 
+- Each feeling is associated with a different point of view, a different way of seeing the world. ([Location 2057](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2057))
+- Feelings arise like a series of waves in consciousness; ([Location 2070](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2070))
+    - Tags: [[orange]] 
+- The poet Muriel Rukeyser writes, “The universe is made of stories, not atoms.” ([Location 2146](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2146))
+    - Tags: [[pink]] 
+- we must understand the power of the stories we tell, and differentiate them from the direct experience of life. ([Location 2146](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2146))
+    - Tags: [[orange]] 
+- “Thoughts make a good servant, but a poor master.” ([Location 2148](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2148))
+- endless stream of thoughts and commentary that plays along with our experience. ([Location 2149](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2149))
+    - Tags: [[blue]] 
+- called “seeing the waterfall.” ([Location 2151](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2151))
+    - Tags: [[orange]] 
+- Just as the salivary glands secrete saliva, the mind secretes thoughts. ([Location 2152](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2152))
+    - Tags: [[orange]] 
+- The thoughts think themselves. ([Location 2153](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2153))
+- warns, “Your own tedious thoughts next 200 miles.” ([Location 2154](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2154))
+    - Tags: [[pink]] 
+- Thoughts are often one-sided and untrue. Learn to be mindful of thought instead of being lost in it. ([Location 2158](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2158))
+    - Tags: [[pink]] 
+- As Don Juan, a Yaqui Indian shaman, explained to his disciple Carlos Castaneda, “You talk to yourself too much. You’re not unique in that. Every one of us does. We maintain our world with our inner dialogue. A man (or woman) of knowledge is aware that the world will change completely as soon as they stop talking to themselves.” ([Location 2160](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2160))
+    - Tags: [[orange]] 
+- As Ajahn Chah says, “It’s simple. When somebody calls you a dirty dog, all you have to do is look at your butt. If you don’t see a tail there, then that settles it.” ([Location 2168](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2168))
+    - Tags: [[pink]] 
+- As Anne Lamott writes, “My mind is like a bad neighborhood. I try not to go there alone.” ([Location 2198](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2198))
+    - Tags: [[orange]] 
+- samsara, ([Location 2200](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2200))
+    - Tags: [[pink]] 
+- circular, ([Location 2200](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2200))
+    - Tags: [[pink]] 
+- repetitive existence. ([Location 2200](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2200))
+    - Tags: [[pink]] 
+- thought patterns re-arise, ([Location 2203](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2203))
+- see how frequently our thoughts include fear, judgment, or grasping. ([Location 2203](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2203))
+    - Tags: [[orange]] 
+- try to justify our point of view. ([Location 2204](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2204))
+    - Tags: [[blue]] 
+- “He who cannot dance claims the floor is uneven.” ([Location 2204](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2204))
+- it helps to acknowledge the most repetitious thoughts, the “top ten tunes,” by naming them. ([Location 2208](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2208))
+    - Tags: [[pink]] 
+- The judging mind ([Location 2209](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2209))
+    - Tags: [[blue]] 
+- there are a variety of skillful means to cut through the thicket of thoughts. ([Location 2213](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2213))
+    - Tags: [[pink]] 
+- mind by concentrating on the breath or use a visualization or the simple repetition of a mantra. ([Location 2214](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2214))
+    - Tags: [[orange]] 
+- “Chief Roman Nose of the Cheyenne, and his people, believed he was immortal, and he, and they, were right every day of his life except one.” ([Location 2266](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2266))
+- When we believe our own thoughts and opinions we become fundamentalists. ([Location 2268](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2268))
+    - Tags: [[pink]] 
+- there are always other points of view. ([Location 2270](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2270))
+    - Tags: [[pink]] 
+- There is a famous Sufi story about the holy fool Mullah Nasrudin. A king, disenchanted with his subjects’ dishonesty, decided to force them to tell the truth. When the city gates were opened one morning, gallows had been erected in front of them. A royal guard announced, “Whoever will enter the city must first answer a question that will be put to them by the captain of the guard.” Mullah Nasrudin stepped forward first. The captain spoke: “Where are you going? Tell the truth…the alternative is death by hanging.” “I am going,” said Nasrudin, “to be hanged on those gallows.” “I don’t believe you!” replied the guard. Nasrudin calmly replied, “Very well then. If I have told a lie, hang me!” “But that would make it the truth!” said the confused guard. “Exactly,” said Nasrudin, “your truth.” ([Location 2274](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2274))
+    - Tags: [[orange]] 
+- Nisargadatta answered this question: “The mind creates the abyss, the heart crosses it.” ([Location 2284](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2284))
+    - Tags: [[pink]] 
+- When we let thoughts come and go without clinging, we can use thought, but we rest in the heart. ([Location 2286](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2286))
+    - Tags: [[blue]] 
+- Our world runs on desire. ([Location 2829](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2829))
+    - Tags: [[orange]] 
+- Buddhist psychology differentiates between healthy and unhealthy desire. Then it leads us to a freedom that is larger than the desire realm, where we can transform desire into true abundance. ([Location 2832](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2832))
+- Alexis de Tocqueville had made this diagnosis: “I have seen the freest and best educated of men in the happiest circumstances the world can afford; yet it seemed to me that a cloud hung on their brow and they appeared serious and almost sad even when they were enjoying themselves…because they never stopped thinking of the good things they have not yet got.” ([Location 2836](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2836))
+- The idea is not to be without desire, but to have a wise relationship with desire. ([Location 2856](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2856))
+    - Tags: [[pink]] 
+- As the poet William Blake declared, “Those who enter the gates of heaven are not beings who have no passions or who have curbed the passions, but those who have cultivated an understanding of them.” ([Location 2858](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2858))
+- Buddhists connect the root of desire with the neutral mental factor called the will to do. ([Location 2864](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2864))
+    - Tags: [[blue]] 
+- When the will to do is directed in healthy ways, it brings about healthy desires. ([Location 2865](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2865))
+    - Tags: [[orange]] 
+- When the will to do is directed in unhealthy ways, it brings about unhealthy desires. ([Location 2865](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2865))
+    - Tags: [[pink]] 
+- The traditional description of unhealthy desires include greed, addiction, overwhelming ambition, gambling, womanizing, and avarice. Unhealthy desire gives rise to possessiveness, self-centeredness, dissatisfaction, compulsion, unworthiness, insatiability, and similar forms of suffering. ([Location 2866](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2866))
+- Healthy desires allow us to feed and clothe and care for ourselves, to tend our body and our children, to develop our work and our community. Healthy desires are associated with caring, appreciation, and loving-kindness. ([Location 2868](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2868))
+    - Tags: [[orange]] 
+- a reverence for life is the basis for all activities. ([Location 5063](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5063))
+    - Tags: [[pink]] 
+- Our practice was to learn to live together with them all. ([Location 5065](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5065))
+    - Tags: [[orange]] 
+- I came to appreciate the patience of the spider’s life, to see that every being was worthy of respect. ([Location 5070](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5070))
+    - Tags: [[orange]] 
+- In Buddhism, this reverence for all life is called virtue, ([Location 5072](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5072))
+    - Tags: [[blue]] 
+- fundamental. ([Location 5072](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5072))
+    - Tags: [[blue]] 
+- Living a virtuous life makes the heart peaceful.” ([Location 5073](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5073))
+- Those who understand virtue live with dignity, ease, nobility, and happiness. ([Location 5073](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5073))
+    - Tags: [[blue]] 
+- it’s hard to meditate after a day of lying, cheating, and killing. ([Location 5074](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5074))
+    - Tags: [[pink]] 
+- By our virtue we protect ourselves and other beings from harm. ([Location 5074](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5074))
+    - Tags: [[orange]] 
+- we carry ourself with truthfulness, integrity, passion, and purpose in all we do. ([Location 5077](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5077))
+    - Tags: [[pink]] 
+- In Buddhism, virtue is seen as a psychological training, ([Location 5079](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5079))
+- non-harming, ([Location 5081](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5081))
+    - Tags: [[orange]] 
+- deliberate cultivation of care. ([Location 5083](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5083))
+    - Tags: [[orange]] 
+- we act with stewardship for the things of the earth. ([Location 5084](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5084))
+    - Tags: [[pink]] 
+- stand up for truth. ([Location 5085](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5085))
+    - Tags: [[blue]] 
+- respect our intimate relations. ([Location 5085](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5085))
+    - Tags: [[blue]] 
+- More than refraining from the misuse of intoxicants, we cultivate wakefulness. ([Location 5085](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5085))
+- natural virtue, the spontaneous integrity of the awakened heart. ([Location 5087](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5087))
+    - Tags: [[orange]] 
+- free from self-interest, ([Location 5087](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5087))
+    - Tags: [[blue]] 
+- when we are free to love. ([Location 5087](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5087))
+- Mindfulness requires a suspension of judgment. ([Location 5106](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5106))
+    - Tags: [[orange]] 
+- open inquiry into what is painful, pleasant, joyful, or shameful, without judging anything as right or wrong. ([Location 5107](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5107))
+    - Tags: [[pink]] 
+- This is the first step in healing, a clear seeing and deep acceptance of what is. ([Location 5107](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5107))
+    - Tags: [[blue]] 
+- inner transformation, ([Location 5109](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5109))
+- the need to acknowledge the consequences of our actions and take steps to avoid harm. ([Location 5109](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5109))
+    - Tags: [[orange]] 
+- in Buddhist psychology ethical questions are not framed in terms of good versus evil. We simply focus on suffering and its causes. ([Location 5122](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5122))
+    - Tags: [[orange]] 
+- sources of integrity ([Location 5152](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5152))
+    - Tags: [[blue]] 
+- “moral shame” ([Location 5152](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5152))
+    - Tags: [[blue]] 
+- “moral dread,” ([Location 5153](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5153))
+    - Tags: [[blue]] 
+- Buddhist psychology doesn’t view the world through the lens of shame. ([Location 5153](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5153))
+    - Tags: [[orange]] 
+- it describes the natural laws of the heart, based on karma, interconnectedness, and who we really are. ([Location 5154](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5154))
+    - Tags: [[orange]] 
+- the ability to feel the consequences of our acts. ([Location 5158](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5158))
+    - Tags: [[blue]] 
+- Conscience is an aspect of the One Who Knows, our deepest innate knowing. ([Location 5162](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5162))
+- Michael Ventura ([Location 5164](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5164))
+    - Tags: [[pink]] 
+- “The people you have to lie to, own you. The things you have to lie about, own you. When your children see you owned, then they are not your children anymore, they are the children of what owns you. If money owns you, they are the children of money. If your need for pretense and illusion owns you, they are the children of pretense and illusion. If your fear of loneliness owns you, they are children of the fear of loneliness. If your fear of the truth owns you, they are children of the fear of truth.” ([Location 5164](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5164))
+    - Tags: [[orange]] 
+- Years ago I read of a study that was done at a rural Illinois state mental hospital. The hospital was out in the farmlands, just off a tollway. The exit to the hospital had an unmanned machine to collect fifty cents from each car, but not everyone paid. A psychologist who worked at the hospital began to wonder about this. He set up a hidden camera to record who paid and who didn’t. Then he looked at the hospital record of healed and discharged patients. He discovered that the patients of those doctors and therapists who paid their tolls got better more quickly than the patients of those who did not pay. It is as if we who are healers somehow communicate our integrity and it gives strength to those we work with as well. ([Location 5168](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5168))
+    - Tags: [[pink]] 
+- Buddhist myths tell how over many lifetimes the Buddha-to-be made many mistakes and committed many errors. He gave away what was not his, he got in conflict with family members, he caused the death of others. But the one thing he did not do was lie about his actions, to himself or others. ([Location 5174](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5174))
+    - Tags: [[orange]] 
+- Ajahn Chah said, “Look after your virtue as a gardener takes care of his plants. Do not make a difference between big or small. Don’t make excuses.” ([Location 5181](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5181))
+    - Tags: [[orange]] 
+- Integrity is essential to mental health. ([Location 5185](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5185))
+    - Tags: [[orange]] 
+- Angulimala. ([Location 5198](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5198))
+    - Tags: [[pink]] 
+- The Buddha deliberately went wandering there, even though others warned him not to go. When Angulimala gave chase, the Buddha’s yogic powers would not let him catch up. “Stop! Stop!” shouted Angulimala. The Buddha responded, “I have stopped, I have stopped all harm to living beings.” ([Location 5201](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5201))
+- one of the common practices that Buddhist psychologists and teachers use to help students is to listen to their confessions. ([Location 5212](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5212))
+    - Tags: [[pink]] 
+- When we hear their misdeeds and regrets, we work with compassion, forgiveness, and letting go. ([Location 5212](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5212))
+    - Tags: [[orange]] 
+- We know that this unhealthy past is not who they really are. ([Location 5213](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5213))
+- Kali. ([Location 5218](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5218))
+    - Tags: [[orange]] 
+- Kali represents destruction, especially of the false sense of self, and through this process she gives birth to the indestructible spirit. ([Location 5218](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5218))
+    - Tags: [[blue]] 
+- Here is a twenty-second principle of Buddhist psychology: 22 Forgiveness is both necessary and possible. It is never too late to find forgiveness and start again. ([Location 5227](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5227))
+    - Tags: [[pink]] 
+- Maha Ghosananda chose to respond by teaching forgiveness and reconciliation to hundreds of thousands in the Cambodian refugee camps. ([Location 5231](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5231))
+- “In war there are no victors.” ([Location 5236](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5236))
+    - Tags: [[orange]] 
+- For years scientists erroneously believed that the development of the brain and nervous system was complete at the age of twenty or twenty-five. Now modern neuroscience has recognized “neuroplasticity,” confirming what was known by Buddhist psychology for millennia: even adults can change. The adult brain and nervous system grow and change throughout our lives. Until the very end, we are neurologically transformed by whatever we practice. We are not limited by the past. ([Location 5295](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5295))
+- “Forgiveness means giving up all hope for a better past.” Forgiveness is a way to move on. ([Location 5306](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5306))
+    - Tags: [[orange]] 
+- way to end suffering, ([Location 5308](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5308))
+    - Tags: [[blue]] 
+- This is illustrated by the story of two former prisoners of war who meet after many years. When the first one asks, “Have you forgiven your captors yet?” the second man answers, “No, never.” “Well, then,” the first man replies, “they still have you in prison.” ([Location 5309](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5309))
+    - Tags: [[pink]] 
+- The practice of forgiveness grows through patient repetition. ([Location 5314](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5314))
+- “If someone has abused you, beat you, robbed you, abandon your thoughts of anger. Soon you will die. Life is too short to live with hatred.” ([Location 5353](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5353))
+    - Tags: [[orange]] 
+# The Wise Heart
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/41ykveqOs-L._SL200_.jpg)
+
+## Metadata
+- Author: [[Jack Kornfield]]
+- Full Title: The Wise Heart
+- Category: #books
+
+## Highlights
+- O Nobly Born, O you of glorious origins, remember your radiant true nature, the essence of mind. Trust it. Return to it. It is home. —Tibetan Book of the Dead ([Location 173](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=173))
+- In a large temple north of Thailand’s ancient capital, Sukotai, there once stood an enormous and ancient clay Buddha. Though not the most handsome or refined work of Thai Buddhist art, it had been cared for over a period of five hundred years and become revered for its sheer longevity. Violent storms, changes of government, and invading armies had come and gone, but the Buddha endured. At one point, however, the monks who tended the temple noticed that the statue had begun to crack and would soon be in need of repair and repainting. After a stretch of particularly hot, dry weather, one of the cracks became so wide that a curious monk took his flashlight and peered inside. What shone back at him was a flash of brilliant gold! Inside this plain old statue, the temple residents discovered one of the largest and most luminous gold images of Buddha ever created in Southeast Asia. Now uncovered, the golden Buddha draws throngs of devoted pilgrims from all over Thailand. The monks believe that this shining work of art had been covered in plaster and clay to protect it during times of conflict and unrest. In much the same way, each of us has encountered threatening situations that lead us to cover our innate nobility. Just as the people of Sukotai had forgotten about the golden Buddha, we too have forgotten our essential nature. Much of the time we operate from the protective layer. The primary aim of Buddhist psychology is to help us see beneath this armoring and bring out our original goodness, called our Buddha nature. ([Location 179](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=179))
+    - Tags: [[orange]] 
+- Our belief in a limited and impoverished identity is such a strong habit that without it we are afraid we wouldn’t know how to be. ([Location 198](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=198))
+- “the pursuit of happiness” has become “the right to happiness.” ([Location 217](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=217))
+    - Tags: [[pink]] 
+- While tending to our suffering is critical, this does not eclipse our fundamental nobility. ([Location 220](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=220))
+    - Tags: [[orange]] 
+- “inner illumination.” ([Location 222](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=222))
+    - Tags: [[pink]] 
+- human excellence, ([Location 223](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=223))
+    - Tags: [[blue]] 
+- imagining the person before us as a small child, still young and innocent. ([Location 225](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=225))
+    - Tags: [[pink]] 
+- fellow wayfarer, struggling with his burdens, ([Location 229](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=229))
+    - Tags: [[orange]] 
+- “Just as the great oceans have but one taste, the taste of salt, so do all of the teachings of Buddha have but one taste, the taste of liberation.” ([Location 253](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=253))
+    - Tags: [[orange]] 
+- “We who lived in concentration camps can remember the men who walked through the huts comforting others, giving away their last piece of bread. They may have been few in number, but they offer sufficient proof that everything can be taken from a man but one thing: the last of the human freedoms—to choose one’s attitude in any given set of circumstances, to choose one’s own way.” ([Location 255](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=255))
+    - Tags: [[pink]] 
+- “If it were not possible to free the heart from entanglement in unhealthy states,” says the Buddha, “I would not teach you to do so. But just because it is possible to free the heart from entanglement in unhealthy states do I offer these teachings.” ([Location 260](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=260))
+    - Tags: [[orange]] 
+- Awakening this inner freedom of spirit is the purpose of the hundreds of Buddhist practices and trainings. ([Location 262](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=262))
+- emphasis on training and practice, as well as understanding. ([Location 264](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=264))
+    - Tags: [[blue]] 
+- there is a regimen of daily and ongoing trainings and disciplines to help you learn and practice healthy ways of being. ([Location 265](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=265))
+    - Tags: [[orange]] 
+- Each time we meet another human being and honor their dignity, we help those around us. ([Location 270](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=270))
+    - Tags: [[orange]] 
+- “mood contagion” ([Location 272](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=272))
+    - Tags: [[orange]] 
+- limbic resonance. ([Location 272](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=272))
+    - Tags: [[pink]] 
+- When conflict arose, we called on practices of patience, and in seeking forgiveness we were guided by councils of elders who demonstrated how to approach our failings with mindful respect. ([Location 285](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=285))
+    - Tags: [[orange]] 
+- Buddhist psychology begins by deliberately cultivating respect, starting with ourselves. ([Location 287](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=287))
+    - Tags: [[blue]] 
+- When we bring respect and honor to those around us, we open a channel to their own goodness. ([Location 294](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=294))
+    - Tags: [[blue]] 
+- Some years ago, I heard the story of a high school history teacher who knew this same secret. On one particularly fidgety and distracted afternoon she told her class to stop all their academic work. She let her students rest while she wrote on the blackboard a list of the names of everyone in the class. Then she asked them to copy the list. She instructed them to use the rest of the period to write beside each name one thing they liked or admired about that student. At the end of class she collected the papers. Weeks later, on another difficult day just before winter break, the teacher again stopped the class. She handed each student a sheet with his or her name on top. On it she had pasted all twenty-six good things the other students had written about that person. They smiled and gasped in pleasure that so many beautiful qualities were noticed about them. Three years later this teacher received a call from the mother of one of her former students. Robert had been a cut-up, but also one of her favorites. His mother sadly passed on the terrible news that Robert had been killed in the Gulf War. The teacher attended the funeral, where many of Robert’s former friends and high school classmates spoke. Just as the service was ending, Robert’s mother approached her. She took out a worn piece of paper, obviously folded and refolded many times, and said, “This was one of the few things in Robert’s pocket when the military retrieved his body.” It was the paper on which the teacher had so carefully pasted the twenty-six things his classmates had admired. ([Location 308](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=308))
+- Seeing this, Robert’s teacher’s eyes filled with tears. As she dried her wet cheeks, another former student standing nearby opened her purse, pulled out her own carefully folded page, and confessed that she always kept it with her. A third ex-student said that his page was framed and hanging in his kitchen; another told how the page had become part of her wedding vows. The ([Location 320](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=320))
+- perception of goodness invited by this teacher had transformed the hearts of her students in ways she might only have dreamed about. ([Location 323](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=323))
+- Zen master Shunryu Suzuki remarked to a disciple, “You are perfect just the way you are. And…there is still room for improvement!” ([Location 330](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=330))
+    - Tags: [[orange]] 
+- set the clear intention that during the morning you will look for the inner nobility of three people. ([Location 336](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=336))
+    - Tags: [[orange]] 
+- When we clearly realize that the source of disharmony and misery in the world is ignorance, we can open the door of wisdom and compassion.” ([Location 360](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=360))
+    - Tags: [[orange]] 
+- Buddhism teaches that we suffer not because we have sinned but because we are blind. ([Location 362](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=362))
+    - Tags: [[pink]] 
+- Buddhist texts describe compassion as the quivering of the heart in the face of pain, as the capacity to see our struggles with “kindly eyes.” ([Location 363](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=363))
+- Compassion is our deepest nature. It arises from our interconnection with all things. ([Location 368](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=368))
+    - Tags: [[orange]] 
+- unworthiness is not helped by striving. ([Location 372](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=372))
+    - Tags: [[pink]] 
+- for real healing I needed compassion. ([Location 372](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=372))
+- We can touch into this compassion whenever the mind is quiet, whenever we allow the heart to open. ([Location 382](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=382))
+    - Tags: [[pink]] 
+- “interdependence.” ([Location 392](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=392))
+    - Tags: [[orange]] 
+- Just as we are interdependent with the earth and one another, we are also connected in consciousness. ([Location 403](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=403))
+    - Tags: [[orange]] 
+- neurological basis for compassion ([Location 409](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=409))
+    - Tags: [[blue]] 
+- through our mirror neurons, we actually feel the emotions, movements, and intentions of others. ([Location 410](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=410))
+    - Tags: [[orange]] 
+- In Buddhist psychology, compassion is not a struggle or a sacrifice. Within our body, compassion is natural and intuitive. We don’t think, “Oh, my poor toe or finger is hurt, maybe I should help it.” As soon as it is injured, we instantly respond because it is a part of us. Through meditation we gradually open the boundaries of consciousness to compassion for all beings, as if they were part of our family. We learn that even when our compassion is lost through fear and trauma, it can be reawakened. Faced with a crying child in a burning house, a hardened criminal is as likely as anyone else to take the risk of rescuing her. We all have moments when the openness and beauty of our Buddha nature shines. ([Location 412](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=412))
+- We can see the natural hand of compassion in all the ways we try to keep ourselves from harm, in a thousand daily gestures of self-protection. ([Location 434](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=434))
+- self-hatred. ([Location 438](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=438))
+    - Tags: [[orange]] 
+- In order to survive the periods of extreme conflict within my family, I covered over my pain. ([Location 442](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=442))
+- While trying to be good, underneath I had a feeling of being unloved, of forever seeking acceptance. ([Location 446](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=446))
+- Each of us has our own measure of pain. Sometimes the pain we suffer is great and obvious; sometimes it is subtle. Our pain can reflect the coldness of our families, the trauma of our parents, the stultifying influence of much modern education and media, the difficulties of being a man or a woman. As a result, we often feel that we have been cast out. To survive we have to cover our heart, build up a layer of clay, and defend ourselves. ([Location 454](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=454))
+    - Tags: [[orange]] 
+- Always remember to put your trust in compassion. ([Location 460](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=460))
+    - Tags: [[blue]] 
+- From this comes a shift of identity, a release from the covering of clay, a return to our original goodness. ([Location 462](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=462))
+    - Tags: [[pink]] 
+- In the beginning, much of Andrew’s training was simply to breathe gently and make room for the waves of his grief. ([Location 468](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=468))
+- He had feared this opening because he believed that he would be overwhelmed by the tragic memories and the guilt. ([Location 469](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=469))
+    - Tags: [[pink]] 
+- On retreat, with the support of the meditators around him, he slowly learned to hold his battered body with kindness. ([Location 470](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=470))
+    - Tags: [[orange]] 
+- Gradually he extended his heart to the suffering of both the Iraqi people and the American people. ([Location 470](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=470))
+- When the painful images and guilt arose, he began to experience his innate compassion, the soul force he had felt was lost. This was the start of his return to life. ([Location 471](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=471))
+    - Tags: [[orange]] 
+- Could she remember from her childhood a single instant of well-being? ([Location 480](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=480))
+    - Tags: [[orange]] 
+- The Buddha taught that we can develop loving-kindness by visualizing how a caring mother holds her beloved child. ([Location 483](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=483))
+    - Tags: [[orange]] 
+- Compassion for our own fear and shame opens us to others. ([Location 489](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=489))
+    - Tags: [[blue]] 
+- As children, many of us were taught courage in the form of the warrior or the explorer, bravely facing danger. In the Buddhist understanding, however, great courage is not demonstrated by aggression or ambition. Aggression and ambition are more often expressions of fear and delusion. The courageous heart is the one that is unafraid to open to the world. With compassion we come to trust our capacity to open to life without armoring. ([Location 493](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=493))
+    - Tags: [[pink]] 
+- In all these situations we are vulnerable and everyone involved needs compassion. ([Location 500](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=500))
+- Martin Luther King Jr. exhorted us, “Never succumb to the temptation of becoming bitter. As you press for justice, be sure to move with dignity and discipline, using only the instruments of love.” ([Location 508](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=508))
+    - Tags: [[orange]] 
+- in this vulnerable human life, every loss is an opportunity either to shut out the world or to stand up with dignity and let the heart respond. ([Location 511](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=511))
+    - Tags: [[orange]] 
+- Living with compassion does not mean we have to give away all our possessions, take in every homeless person we meet, and fix every difficulty in our extended family and community. Compassion is not co-dependence. ([Location 518](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=518))
+    - Tags: [[orange]] 
+- It does not mean we lose our self-respect or sacrifice ourself blindly for others. ([Location 520](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=520))
+- We mistakenly fear that if we become too compassionate we will be overwhelmed by the suffering of others. But this happens only when our compassion is one-sided. ([Location 520](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=520))
+    - Tags: [[blue]] 
+- In Buddhist psychology compassion is a circle that encompasses all beings, including ourselves. ([Location 521](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=521))
+- Compassion is not foolish. It doesn’t just go along with what others want so they don’t feel bad. ([Location 523](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=523))
+    - Tags: [[pink]] 
+- There is a yes in compassion, and there is also a no, said with the same courage of heart. No to abuse, no to racism, no to violence, both personal and worldwide. The no is said not out of hate but out of an unwavering care. Buddhists call this the fierce sword of compassion. It is the powerful no of leaving a destructive family, the agonizing no of allowing an addict to experience the consequences of his acts. ([Location 524](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=524))
+    - Tags: [[orange]] 
+- In this traditional form of practice you will combine a repeated inner intention with visualization and the evocation of the feeling of compassion. ([Location 538](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=538))
+    - Tags: [[orange]] 
+- In its true state consciousness is naked, immaculate, clear, vacuous, transparent, timeless, beyond all conditions. O Nobly Born, remember the pure open sky of your own true nature. —Tibetan Book of the Great Liberation ([Location 563](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=563))
+    - Tags: [[orange]] 
+- Luminous is consciousness, brightly shining is its nature, but it becomes clouded by the attachments that visit it. —Anguttara Nikaya ([Location 565](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=565))
+    - Tags: [[pink]] 
+- ‘Who spoke? ([Location 577](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=577))
+    - Tags: [[orange]] 
+- Much of life cannot be explained, it can only be witnessed.” ([Location 578](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=578))
+    - Tags: [[orange]] 
+- “that which knows,” ([Location 584](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=584))
+    - Tags: [[orange]] 
+- our body looks older, even though we don’t feel older. ([Location 586](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=586))
+    - Tags: [[pink]] 
+- the body exists in time, ([Location 586](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=586))
+- but the consciousness that perceives it is outside of time, ([Location 586](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=586))
+- Ordinarily we take consciousness for granted, ignoring it as a fish ignores water. ([Location 588](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=588))
+    - Tags: [[blue]] 
+- we focus endlessly on the contents of experience: ([Location 589](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=589))
+    - Tags: [[pink]] 
+- 3 When we shift attention from experience to the spacious consciousness that knows, wisdom arises. ([Location 593](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=593))
+    - Tags: [[orange]] 
+- “Mindfulness is all helpful,” ([Location 595](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=595))
+    - Tags: [[pink]] 
+- “With the mind, to observe the mind.” ([Location 597](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=597))
+    - Tags: [[blue]] 
+- The central tool for investigating consciousness is our own observation. ([Location 597](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=597))
+    - Tags: [[orange]] 
+- What we ordinarily call the mind usually refers to the “thinking mind,” ([Location 599](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=599))
+    - Tags: [[blue]] 
+- the mind is not just its thoughts, ([Location 600](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=600))
+    - Tags: [[pink]] 
+- includes ([Location 601](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=601))
+    - Tags: [[pink]] 
+- mind states ([Location 601](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=601))
+    - Tags: [[pink]] 
+- feelings, ([Location 602](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=602))
+    - Tags: [[orange]] 
+- moods, ([Location 602](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=602))
+    - Tags: [[blue]] 
+- intuition, ([Location 602](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=602))
+- instincts. ([Location 602](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=602))
+    - Tags: [[orange]] 
+- conscious awareness. ([Location 602](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=602))
+    - Tags: [[pink]] 
+- Buddhist psychology posits that consciousness is the condition for life, and that the physical body interacts with consciousness but is not its source. ([Location 614](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=614))
+    - Tags: [[orange]] 
+- awareness, ([Location 617](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=617))
+    - Tags: [[orange]] 
+- but it doesn’t have a color or location. ([Location 617](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=617))
+- clear open sky of awareness. ([Location 619](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=619))
+    - Tags: [[orange]] 
+- In its true state, consciousness is simply this knowing—clear, ([Location 620](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=620))
+    - Tags: [[pink]] 
+- More than anything else, the way we experience life is created by the particular states of mind with which we meet it. ([Location 789](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=789))
+- Pure awareness becomes colored by our thoughts, emotions, and expectations. ([Location 793](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=793))
+- When consciousness is colored or conditioned, it acts like particles, arising and passing, taking on whatever qualities happen to arise with it. It can be felt as a succession of discrete moments, each arising from the present conditions of both mind and senses. As with light or sound, the way in which consciousness arises as discrete, particular moments can be observed. And, as Ajahn Chah tried to teach us, some of these moments can also be changed. ([Location 796](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=796))
+    - Tags: [[orange]] 
+- Sense impressions and sense consciousnesses are the first two steps in constructing our world. ([Location 844](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=844))
+    - Tags: [[pink]] 
+- The presence of healthy mental states creates a healthy mind; the presence of unhealthy states creates mental distress, unhappiness, and mental illness. ([Location 865](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=865))
+    - Tags: [[orange]] 
+- Buddhist psychology takes a liberating turn, stepping back with mindfulness to investigate the play of the mental states themselves, teaching us to release those states that bring sorrow and foster those that create joy. ([Location 869](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=869))
+    - Tags: [[blue]] 
+- The mental factors ([Location 871](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=871))
+- three groups. ([Location 871](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=871))
+- thirteen common and universal qualities ([Location 871](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=871))
+    - Tags: [[orange]] 
+- mental factors that are subject to training. ([Location 874](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=874))
+    - Tags: [[blue]] 
+- into healthy states ([Location 875](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=875))
+    - Tags: [[orange]] 
+- unhealthy ones. ([Location 875](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=875))
+- roots: love, generosity, and mindfulness. ([Location 879](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=879))
+    - Tags: [[pink]] 
+- They grow from mindful attention, and like sunlight on fog, the presence of these healthy states dissolves the unhealthy ones. ([Location 881](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=881))
+    - Tags: [[orange]] 
+- When healthy factors are present, unhealthy ones are not. So when we foster healthy states, unhealthy ones disappear. ([Location 885](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=885))
+- To work with our mental states, we have to acknowledge how rapidly these states can change, often disappearing without our noticing. Because we are not ([Location 886](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=886))
+    - Tags: [[blue]] 
+- aware of our inner states, we feel controlled by outside influences. The world will alternately please us or be at fault, and we will be caught in habitual grasping or frustration. ([Location 887](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=887))
+    - Tags: [[blue]] 
+- The Buddha asks, “How does a practitioner remain established in observation of states of mind in the mind?” He instructs, “The practitioner becomes aware when the mind is tense and when the mind is relaxed…the practitioner becomes aware when the mind contains hatred and when the mind contains love…the practitioner becomes aware when the mind contains worry and when the mind is composed.” ([Location 893](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=893))
+    - Tags: [[orange]] 
+- practice non-harming, ([Location 912](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=912))
+    - Tags: [[orange]] 
+- mindful of mental states, we also begin to see the ways that they are habitual, how conditioned they are. ([Location 924](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=924))
+    - Tags: [[orange]] 
+- past reactions are engraved onto the synapses ([Location 925](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=925))
+    - Tags: [[blue]] 
+- But gradually we realize that mindfulness gives us the option to choose a healthier response. ([Location 927](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=927))
+    - Tags: [[pink]] 
+- As Ajahn Chah taught, “When you have wisdom, contact with experience is like standing at the bottom of a ripe mango tree. We get to choose between the good and rotten mangoes. It is all to your profit, because you know which fruits will make you sick and which are healthy.” ([Location 940](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=940))
+    - Tags: [[orange]] 
+- Mindfulness is the king or queen of all the healthy states. ([Location 944](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=944))
+    - Tags: [[pink]] 
+- George Washington Carver explained, “Anything will give up its secrets if you love it enough.” ([Location 1480](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=1480))
+    - Tags: [[orange]] 
+- Mindfulness is attention. It is a non-judging and respectful awareness. ([Location 1481](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=1481))
+    - Tags: [[pink]] 
+- Unfortunately, much of the time we don’t attend in this way. Instead, we continually react, judging whether we like, dislike, or can ignore what is happening. We evaluate ourselves and others with a stream of expectations, commentary, and criticism. ([Location 1481](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=1481))
+- The first hour of mindfulness meditation reveals its opposite, bringing an unseen stream of evaluation and judgment into stark relief. ([Location 1484](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=1484))
+    - Tags: [[blue]] 
+- Mindful attention to any experience is liberating. Mindfulness brings perspective, balance, and freedom. ([Location 1493](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=1493))
+    - Tags: [[orange]] 
+- He breathed, relaxed a little, and recognized that the medicine he needed was nothing other than to understand his own pain. ([Location 1506](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=1506))
+    - Tags: [[orange]] 
+- He realized that his body had become a mirror, and that his mindfulness was showing him both the cause and the cure of his suffering, recognizing tension in the mind and consciously relaxing that tension. ([Location 1515](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=1515))
+    - Tags: [[orange]] 
+- “We pay attention with respect and interest, not in order to manipulate, but to understand what is true. And seeing what is true, the heart becomes free.” ([Location 1522](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=1522))
+    - Tags: [[orange]] 
+- “It’s easy to teach. All you have to do is ask if they’re being mindful.” ([Location 1530](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=1530))
+    - Tags: [[orange]] 
+- The art of living is neither careless drifting on the one hand nor fearful clinging on the other. It consists in being sensitive to each moment, in regarding it as utterly new and unique, in having the mind open and wholly receptive. —Alan Watts ([Location 1532](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=1532))
+    - Tags: [[orange]] 
+- act of courage. ([Location 1536](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=1536))
+    - Tags: [[pink]] 
+- learned to see the endless mental stories that repeat over and over, and, with the resources of mindfulness and compassion, to let them go and relax, to steady the mind and return to the present. ([Location 1541](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=1541))
+    - Tags: [[blue]] 
+- “How would it be if in the dark of the month, with no moon, I were to enter the most strange and frightening places, near tombs and in the thick of the forest, that I might come to understand fear and terror. And doing so, a wild animal would approach or the wind rustle the leaves and I would think, ‘Perhaps the fear and terror now comes.’ And being resolved to dispel the hold of that fear and terror, I remained in whatever posture it arose, sitting or standing, walking or lying down. I did not change until I had faced that fear and terror in that very posture, until I was free of its hold upon me…. And having this thought, I did so. By facing the fear and terror I became free.” ([Location 1543](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=1543))
+- Mindfulness does not reject experience. ([Location 1558](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=1558))
+    - Tags: [[orange]] 
+- If we deny our dissatisfaction, our anger, our pain, our ambition, we will suffer. If we deny our values, our beliefs, our longings, or our goodness, we will suffer. ([Location 1579](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=1579))
+    - Tags: [[orange]] 
+- “The emergence and blossoming of understanding, love, and intelligence has nothing to do with any outer tradition,” observes Zen teacher Toni Packer. “It happens completely on its own when a human being questions, wonders, listens, and looks without getting stuck in fear. When self-concern is quiet, in abeyance, heaven and earth are open.” ([Location 1581](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=1581))
+    - Tags: [[pink]] 
+- “If you understand, things are just as they are. And if you don’t understand, things are still just as they are.” ([Location 1589](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=1589))
+    - Tags: [[blue]] 
+- ourselves. As Carl Jung once remarked, “Perhaps ([Location 1594](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=1594))
+    - Tags: [[orange]] 
+- Now there are two theories about crime and how to deal with it. Anticrime guys say, “You have to think like a criminal.” And some police learn that so well they get a kind of criminal mentality themselves. How I’m working with it is really pretty different. I’m a peace officer. I see that man is essentially pure and innocent and of one good nature…. Now it’s interesting how this works. I had arrested a very angry man who singled me out for real animosity. When I had to take him to a paddy wagon, he spit in my face—that was something—and he went after me with a chair. We handcuffed him and put him in the truck. Well, on the way, I just had to get past this picture of things, and again I affirmed to myself, “This guy and I are brothers in love.” When I ([Location 1656](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=1656))
+- got to the station, I was moved spontaneously to say, “Look, if I’ve done anything to offend you, I apologize.” The paddy wagon driver looked at me as if I was totally nuts. The next day I had to take him from where he’d been housed overnight to criminal court. When I picked him up, I thought, “Well, if you trust this vision, you’re not going to have to handcuff him.” And I didn’t. We got to a spot in the middle of the corridor, which was the place where he’d have jumped me if he had that intention. And he stopped suddenly. So did I. Then he said, “You know, I thought about what you said yesterday, and I want to apologize.” I just felt this deep appreciation. Turned out on his rap sheet he’d done a lot of time in a couple of bad prisons and had trouble with some harsh guards. I symbolized something. And I saw that turn around, saw a kind of healing, I believe. ([Location 1664](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=1664))
+- primary feeling. ([Location 1951](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=1951))
+    - Tags: [[pink]] 
+- pleasant, painful, or neutral quality. ([Location 1952](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=1952))
+    - Tags: [[orange]] 
+- “Working with the primary feelings is a direct route to enlightenment,” ([Location 1955](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=1955))
+- We secretly believe that if we can act just right, then our stream of feelings will always be pleasant and there will be no pain, no loss. ([Location 1957](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=1957))
+    - Tags: [[blue]] 
+- Now, as a meditation teacher, I frequently use mindfulness of primary feeling as a way to help students who are caught in automatic reactions. ([Location 1977](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=1977))
+    - Tags: [[orange]] 
+- We can see how a pleasant primary feeling can give rise either to unhealthy secondary emotions such as grasping, jealousy, and clinging or to healthy states of joy, ease, and happiness. ([Location 2012](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2012))
+    - Tags: [[pink]] 
+- Neutral feeling tone can give rise to unhealthy secondary emotions such as boredom, lethargy, and being spaced out or to healthy states of peace, ease, and contentment. ([Location 2014](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2014))
+    - Tags: [[orange]] 
+- Painful experiences can give rise to unhealthy states of aversion, judgment, rigidity, and fear or to healthy states of clarity, steadfastness, and wisdom. ([Location 2015](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2015))
+- reclaiming their feelings. ([Location 2032](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2032))
+    - Tags: [[blue]] 
+- On intensive meditation retreat, we can go through periods of strong emotions. Initially they overpower us, until we find a mindful middle where we neither suppress them nor are completely lost in them. And then, to our surprise, as we mindfully allow them, they can become more alive in themselves. We experience the intense, pure feelings of joy and sorrow in their own right. It’s as though we can let ourselves be carried by the river of feelings, because we know how to swim. ([Location 2043](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2043))
+    - Tags: [[blue]] 
+- Each feeling is associated with a different point of view, a different way of seeing the world. ([Location 2057](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2057))
+- Feelings arise like a series of waves in consciousness; ([Location 2070](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2070))
+    - Tags: [[orange]] 
+- The poet Muriel Rukeyser writes, “The universe is made of stories, not atoms.” ([Location 2146](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2146))
+    - Tags: [[pink]] 
+- we must understand the power of the stories we tell, and differentiate them from the direct experience of life. ([Location 2146](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2146))
+    - Tags: [[orange]] 
+- “Thoughts make a good servant, but a poor master.” ([Location 2148](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2148))
+- endless stream of thoughts and commentary that plays along with our experience. ([Location 2149](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2149))
+    - Tags: [[blue]] 
+- called “seeing the waterfall.” ([Location 2151](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2151))
+    - Tags: [[orange]] 
+- Just as the salivary glands secrete saliva, the mind secretes thoughts. ([Location 2152](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2152))
+    - Tags: [[orange]] 
+- The thoughts think themselves. ([Location 2153](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2153))
+- warns, “Your own tedious thoughts next 200 miles.” ([Location 2154](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2154))
+    - Tags: [[pink]] 
+- Thoughts are often one-sided and untrue. Learn to be mindful of thought instead of being lost in it. ([Location 2158](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2158))
+    - Tags: [[pink]] 
+- As Don Juan, a Yaqui Indian shaman, explained to his disciple Carlos Castaneda, “You talk to yourself too much. You’re not unique in that. Every one of us does. We maintain our world with our inner dialogue. A man (or woman) of knowledge is aware that the world will change completely as soon as they stop talking to themselves.” ([Location 2160](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2160))
+    - Tags: [[orange]] 
+- As Ajahn Chah says, “It’s simple. When somebody calls you a dirty dog, all you have to do is look at your butt. If you don’t see a tail there, then that settles it.” ([Location 2168](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2168))
+    - Tags: [[pink]] 
+- As Anne Lamott writes, “My mind is like a bad neighborhood. I try not to go there alone.” ([Location 2198](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2198))
+    - Tags: [[orange]] 
+- samsara, ([Location 2200](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2200))
+    - Tags: [[pink]] 
+- circular, ([Location 2200](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2200))
+    - Tags: [[pink]] 
+- repetitive existence. ([Location 2200](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2200))
+    - Tags: [[pink]] 
+- thought patterns re-arise, ([Location 2203](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2203))
+- see how frequently our thoughts include fear, judgment, or grasping. ([Location 2203](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2203))
+    - Tags: [[orange]] 
+- try to justify our point of view. ([Location 2204](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2204))
+    - Tags: [[blue]] 
+- “He who cannot dance claims the floor is uneven.” ([Location 2204](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2204))
+- it helps to acknowledge the most repetitious thoughts, the “top ten tunes,” by naming them. ([Location 2208](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2208))
+    - Tags: [[pink]] 
+- The judging mind ([Location 2209](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2209))
+    - Tags: [[blue]] 
+- there are a variety of skillful means to cut through the thicket of thoughts. ([Location 2213](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2213))
+    - Tags: [[pink]] 
+- mind by concentrating on the breath or use a visualization or the simple repetition of a mantra. ([Location 2214](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2214))
+    - Tags: [[orange]] 
+- “Chief Roman Nose of the Cheyenne, and his people, believed he was immortal, and he, and they, were right every day of his life except one.” ([Location 2266](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2266))
+- When we believe our own thoughts and opinions we become fundamentalists. ([Location 2268](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2268))
+    - Tags: [[pink]] 
+- there are always other points of view. ([Location 2270](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2270))
+    - Tags: [[pink]] 
+- There is a famous Sufi story about the holy fool Mullah Nasrudin. A king, disenchanted with his subjects’ dishonesty, decided to force them to tell the truth. When the city gates were opened one morning, gallows had been erected in front of them. A royal guard announced, “Whoever will enter the city must first answer a question that will be put to them by the captain of the guard.” Mullah Nasrudin stepped forward first. The captain spoke: “Where are you going? Tell the truth…the alternative is death by hanging.” “I am going,” said Nasrudin, “to be hanged on those gallows.” “I don’t believe you!” replied the guard. Nasrudin calmly replied, “Very well then. If I have told a lie, hang me!” “But that would make it the truth!” said the confused guard. “Exactly,” said Nasrudin, “your truth.” ([Location 2274](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2274))
+    - Tags: [[orange]] 
+- Nisargadatta answered this question: “The mind creates the abyss, the heart crosses it.” ([Location 2284](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2284))
+    - Tags: [[pink]] 
+- When we let thoughts come and go without clinging, we can use thought, but we rest in the heart. ([Location 2286](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2286))
+    - Tags: [[blue]] 
+- Our world runs on desire. ([Location 2829](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2829))
+    - Tags: [[orange]] 
+- Buddhist psychology differentiates between healthy and unhealthy desire. Then it leads us to a freedom that is larger than the desire realm, where we can transform desire into true abundance. ([Location 2832](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2832))
+- Alexis de Tocqueville had made this diagnosis: “I have seen the freest and best educated of men in the happiest circumstances the world can afford; yet it seemed to me that a cloud hung on their brow and they appeared serious and almost sad even when they were enjoying themselves…because they never stopped thinking of the good things they have not yet got.” ([Location 2836](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2836))
+- The idea is not to be without desire, but to have a wise relationship with desire. ([Location 2856](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2856))
+    - Tags: [[pink]] 
+- As the poet William Blake declared, “Those who enter the gates of heaven are not beings who have no passions or who have curbed the passions, but those who have cultivated an understanding of them.” ([Location 2858](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2858))
+- Buddhists connect the root of desire with the neutral mental factor called the will to do. ([Location 2864](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2864))
+    - Tags: [[blue]] 
+- When the will to do is directed in healthy ways, it brings about healthy desires. ([Location 2865](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2865))
+    - Tags: [[orange]] 
+- When the will to do is directed in unhealthy ways, it brings about unhealthy desires. ([Location 2865](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2865))
+    - Tags: [[pink]] 
+- The traditional description of unhealthy desires include greed, addiction, overwhelming ambition, gambling, womanizing, and avarice. Unhealthy desire gives rise to possessiveness, self-centeredness, dissatisfaction, compulsion, unworthiness, insatiability, and similar forms of suffering. ([Location 2866](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2866))
+- Healthy desires allow us to feed and clothe and care for ourselves, to tend our body and our children, to develop our work and our community. Healthy desires are associated with caring, appreciation, and loving-kindness. ([Location 2868](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=2868))
+    - Tags: [[orange]] 
+- a reverence for life is the basis for all activities. ([Location 5063](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5063))
+    - Tags: [[pink]] 
+- Our practice was to learn to live together with them all. ([Location 5065](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5065))
+    - Tags: [[orange]] 
+- I came to appreciate the patience of the spider’s life, to see that every being was worthy of respect. ([Location 5070](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5070))
+    - Tags: [[orange]] 
+- In Buddhism, this reverence for all life is called virtue, ([Location 5072](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5072))
+    - Tags: [[blue]] 
+- fundamental. ([Location 5072](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5072))
+    - Tags: [[blue]] 
+- Living a virtuous life makes the heart peaceful.” ([Location 5073](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5073))
+- Those who understand virtue live with dignity, ease, nobility, and happiness. ([Location 5073](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5073))
+    - Tags: [[blue]] 
+- it’s hard to meditate after a day of lying, cheating, and killing. ([Location 5074](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5074))
+    - Tags: [[pink]] 
+- By our virtue we protect ourselves and other beings from harm. ([Location 5074](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5074))
+    - Tags: [[orange]] 
+- we carry ourself with truthfulness, integrity, passion, and purpose in all we do. ([Location 5077](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5077))
+    - Tags: [[pink]] 
+- In Buddhism, virtue is seen as a psychological training, ([Location 5079](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5079))
+- non-harming, ([Location 5081](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5081))
+    - Tags: [[orange]] 
+- deliberate cultivation of care. ([Location 5083](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5083))
+    - Tags: [[orange]] 
+- we act with stewardship for the things of the earth. ([Location 5084](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5084))
+    - Tags: [[pink]] 
+- stand up for truth. ([Location 5085](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5085))
+    - Tags: [[blue]] 
+- respect our intimate relations. ([Location 5085](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5085))
+    - Tags: [[blue]] 
+- More than refraining from the misuse of intoxicants, we cultivate wakefulness. ([Location 5085](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5085))
+- natural virtue, the spontaneous integrity of the awakened heart. ([Location 5087](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5087))
+    - Tags: [[orange]] 
+- free from self-interest, ([Location 5087](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5087))
+    - Tags: [[blue]] 
+- when we are free to love. ([Location 5087](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5087))
+- Mindfulness requires a suspension of judgment. ([Location 5106](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5106))
+    - Tags: [[orange]] 
+- open inquiry into what is painful, pleasant, joyful, or shameful, without judging anything as right or wrong. ([Location 5107](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5107))
+    - Tags: [[pink]] 
+- This is the first step in healing, a clear seeing and deep acceptance of what is. ([Location 5107](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5107))
+    - Tags: [[blue]] 
+- inner transformation, ([Location 5109](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5109))
+- the need to acknowledge the consequences of our actions and take steps to avoid harm. ([Location 5109](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5109))
+    - Tags: [[orange]] 
+- in Buddhist psychology ethical questions are not framed in terms of good versus evil. We simply focus on suffering and its causes. ([Location 5122](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5122))
+    - Tags: [[orange]] 
+- sources of integrity ([Location 5152](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5152))
+    - Tags: [[blue]] 
+- “moral shame” ([Location 5152](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5152))
+    - Tags: [[blue]] 
+- “moral dread,” ([Location 5153](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5153))
+    - Tags: [[blue]] 
+- Buddhist psychology doesn’t view the world through the lens of shame. ([Location 5153](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5153))
+    - Tags: [[orange]] 
+- it describes the natural laws of the heart, based on karma, interconnectedness, and who we really are. ([Location 5154](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5154))
+    - Tags: [[orange]] 
+- the ability to feel the consequences of our acts. ([Location 5158](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5158))
+    - Tags: [[blue]] 
+- Conscience is an aspect of the One Who Knows, our deepest innate knowing. ([Location 5162](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5162))
+- Michael Ventura ([Location 5164](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5164))
+    - Tags: [[pink]] 
+- “The people you have to lie to, own you. The things you have to lie about, own you. When your children see you owned, then they are not your children anymore, they are the children of what owns you. If money owns you, they are the children of money. If your need for pretense and illusion owns you, they are the children of pretense and illusion. If your fear of loneliness owns you, they are children of the fear of loneliness. If your fear of the truth owns you, they are children of the fear of truth.” ([Location 5164](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5164))
+    - Tags: [[orange]] 
+- Years ago I read of a study that was done at a rural Illinois state mental hospital. The hospital was out in the farmlands, just off a tollway. The exit to the hospital had an unmanned machine to collect fifty cents from each car, but not everyone paid. A psychologist who worked at the hospital began to wonder about this. He set up a hidden camera to record who paid and who didn’t. Then he looked at the hospital record of healed and discharged patients. He discovered that the patients of those doctors and therapists who paid their tolls got better more quickly than the patients of those who did not pay. It is as if we who are healers somehow communicate our integrity and it gives strength to those we work with as well. ([Location 5168](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5168))
+    - Tags: [[pink]] 
+- Buddhist myths tell how over many lifetimes the Buddha-to-be made many mistakes and committed many errors. He gave away what was not his, he got in conflict with family members, he caused the death of others. But the one thing he did not do was lie about his actions, to himself or others. ([Location 5174](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5174))
+    - Tags: [[orange]] 
+- Ajahn Chah said, “Look after your virtue as a gardener takes care of his plants. Do not make a difference between big or small. Don’t make excuses.” ([Location 5181](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5181))
+    - Tags: [[orange]] 
+- Integrity is essential to mental health. ([Location 5185](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5185))
+    - Tags: [[orange]] 
+- Angulimala. ([Location 5198](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5198))
+    - Tags: [[pink]] 
+- The Buddha deliberately went wandering there, even though others warned him not to go. When Angulimala gave chase, the Buddha’s yogic powers would not let him catch up. “Stop! Stop!” shouted Angulimala. The Buddha responded, “I have stopped, I have stopped all harm to living beings.” ([Location 5201](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5201))
+- one of the common practices that Buddhist psychologists and teachers use to help students is to listen to their confessions. ([Location 5212](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5212))
+    - Tags: [[pink]] 
+- When we hear their misdeeds and regrets, we work with compassion, forgiveness, and letting go. ([Location 5212](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5212))
+    - Tags: [[orange]] 
+- We know that this unhealthy past is not who they really are. ([Location 5213](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5213))
+- Kali. ([Location 5218](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5218))
+    - Tags: [[orange]] 
+- Kali represents destruction, especially of the false sense of self, and through this process she gives birth to the indestructible spirit. ([Location 5218](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5218))
+    - Tags: [[blue]] 
+- Here is a twenty-second principle of Buddhist psychology: 22 Forgiveness is both necessary and possible. It is never too late to find forgiveness and start again. ([Location 5227](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5227))
+    - Tags: [[pink]] 
+- Maha Ghosananda chose to respond by teaching forgiveness and reconciliation to hundreds of thousands in the Cambodian refugee camps. ([Location 5231](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5231))
+- “In war there are no victors.” ([Location 5236](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5236))
+    - Tags: [[orange]] 
+- For years scientists erroneously believed that the development of the brain and nervous system was complete at the age of twenty or twenty-five. Now modern neuroscience has recognized “neuroplasticity,” confirming what was known by Buddhist psychology for millennia: even adults can change. The adult brain and nervous system grow and change throughout our lives. Until the very end, we are neurologically transformed by whatever we practice. We are not limited by the past. ([Location 5295](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5295))
+- “Forgiveness means giving up all hope for a better past.” Forgiveness is a way to move on. ([Location 5306](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5306))
+    - Tags: [[orange]] 
+- way to end suffering, ([Location 5308](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5308))
+    - Tags: [[blue]] 
+- This is illustrated by the story of two former prisoners of war who meet after many years. When the first one asks, “Have you forgiven your captors yet?” the second man answers, “No, never.” “Well, then,” the first man replies, “they still have you in prison.” ([Location 5309](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5309))
+    - Tags: [[pink]] 
+- The practice of forgiveness grows through patient repetition. ([Location 5314](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5314))
+- “If someone has abused you, beat you, robbed you, abandon your thoughts of anger. Soon you will die. Life is too short to live with hatred.” ([Location 5353](https://readwise.io/to_kindle?action=open&asin=B0013TPVU6&location=5353))
+    - Tags: [[orange]] 

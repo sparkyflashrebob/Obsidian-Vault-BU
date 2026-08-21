@@ -1,0 +1,17 @@
+# How the Brain Creates Your Physical Sense of Self
+
+![rw-book-cover](https://static.scientificamerican.com/sciam/cache/file/F177F976-14DA-4EB6-A91253E068370C14.jpg)
+
+## Metadata
+- Author: [[Diana Kwon]]
+- Full Title: How the Brain Creates Your Physical Sense of Self
+- Category: #articles
+- URL: https://www.scientificamerican.com/article/how-the-brain-creates-your-physical-sense-of-self/
+
+## Highlights
+- How the Brain Creates Your Physical Sense of Self ([View Highlight](https://read.readwise.io/read/01h56k4zmmyqngm0j1adb8dmsv))
+- New insight comes from zapping a region, known as the anterior precuneus, that causes people to feel dissociated from their body ([View Highlight](https://read.readwise.io/read/01h56k5456nr9f0rb98ck76m8h))
+- The 19th-century philosopher William James proposed that [the self](https://www.scientificamerican.com/article/how-our-brain-preserves-our-sense-of-self/) could be split into [two parts](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.01656/full). The first was an “I” that physically perceives and experiences the world, and the second was a “me” that encompasses a mental narrative about oneself, based on one’s past experiences. ([View Highlight](https://read.readwise.io/read/01h56k5m3d4dra732a4524v65f))
+- The discovery of “me” came first. The [default-mode network](https://www.pnas.org/doi/10.1073/pnas.98.2.676), a [term coined by neurologist Marcus Raichle in 2001](https://www.scientificamerican.com/article/the-brains-dark-energy/), has emerged as a key player in the “me” aspect of the self. This collection of brain areas is active when a person is not focused on a task, and researchers have found that it plays an important role in processing [self-referential thoughts](https://www.sciencedirect.com/science/article/pii/S1053811916001294). “[This network] has kind of been baptized as the center for the sense of self,” says [Josef Parvizi](https://med.stanford.edu/parvizi-lab/people.html), a neurologist and a professor at Stanford University who researches the self. ([View Highlight](https://read.readwise.io/read/01h56k6ejp859znscpve44qkmz))
+- The “I,” in contrast, has been harder to pin down—at least until very recently. The awareness we have that we inhabit a body (call it an essential “I-ness”) forms a bridge that constantly switches back and forth between a conscious and unconscious state of mind. Suppose you’re sitting at the kitchen table or standing waiting for a train. Unless you’re in pain, you have no moment-by-moment awareness of your hand, your shin, your big toe or even your body as a whole. But as soon as you think of any of these spots, you can feel their presence immediately. “I-ness” is that feeling that you indeed occupy your own body. ([View Highlight](https://read.readwise.io/read/01h56k6w1y9m0kq3xnxge13arq))
+- Zapping the anterior precuneus caused all eight individuals to report alterations in their subjective experiences similar to what the person with seizures stemming from that region reported. These changes included a feeling of floating, dizziness, a lack of focus and a sense of detachment from themselves. Some participants remarked that the detachment was reminiscent of what they’d felt while on psychedelics. “We discovered that by stimulating this particular region, we can cause distortions in our sense of physical being,” Parvizi says. ([View Highlight](https://read.readwise.io/read/01h56k8sgy0ap4842eqbbks2zy))

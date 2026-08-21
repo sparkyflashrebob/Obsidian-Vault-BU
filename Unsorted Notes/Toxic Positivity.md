@@ -1,0 +1,1 @@
+https://www.cnn.com/2024/05/02/health/dave-tarnowski-disappointing-affirmations-wellness/index.html

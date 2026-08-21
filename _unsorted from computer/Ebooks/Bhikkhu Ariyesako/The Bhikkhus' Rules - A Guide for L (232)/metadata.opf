@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">232</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">080188f0-2eb2-4f4e-80ff-20ca088304f3</dc:identifier>
+        <dc:title>The Bhikkhus' Rules – A Guide for Laypeople</dc:title>
+        <dc:creator opf:file-as="Ariyesako, Bhikkhu" opf:role="aut">Bhikkhu Ariyesako</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.9.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <dc:subject>The Theravadin Buddhist Monk's Rules</dc:subject>
+        <meta content="{&quot;Bhikkhu Ariyesako&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-01-29T04:06:01.417000+00:00" name="calibre:timestamp"/>
+        <meta content="Bhikkhus' Rules – A Guide for Laypeople, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

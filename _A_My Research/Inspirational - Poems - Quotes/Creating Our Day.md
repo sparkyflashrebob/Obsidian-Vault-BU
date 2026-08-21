@@ -1,0 +1,12 @@
+---
+tag: inspirational
+---
+         
+
+"I wake up in the morning, and I consciously create my day the way I want it to happen. Now, sometimes, because my mind is examining all the things that I need to get done, it takes me a little bit to settle down, and get to the point, of where I'm actually intentionally creating my day. But here's the thing."  
+  
+"When I create my day, and out of nowhere, little things happen that are so unexplainable, I know that they are the process or the result of my creation. And the more I do that, the more I build a neural net, in my brain, that I accept that that's possible. Gives me the power and the incentive to do it the next day."
+
+Joe Dispenza, Awaken Conference 2012
+
+https://www.awakin.org/v2/read/view.php?tid=400

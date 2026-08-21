@@ -1,0 +1,286 @@
+# IntraConnected
+
+![rw-book-cover](https://m.media-amazon.com/images/I/719eWOck7qL._SY160.jpg)
+
+## Metadata
+- Author: [[Daniel J. Siegel]]
+- Full Title: IntraConnected
+- Category: #books
+
+## Highlights
+- IntraConnected reveals how the wiring in our brain, as well as the messages of modern culture, may reinforce a way of living and a belief system based on the view that our fundamental nature is one of independence, of separation—a life to be lived as a solo, isolated self. ([Location 66](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=66))
+    - Tags: [[orange]] 
+- more than isolated individuals ([Location 70](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=70))
+    - Tags: [[pink]] 
+- Belonging in the world ([Location 82](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=82))
+    - Tags: [[orange]] 
+- is shaped by ([Location 83](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=83))
+    - Tags: [[pink]] 
+- our identity, ([Location 83](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=83))
+    - Tags: [[orange]] 
+- how we develop a sense of self, identity, and belonging. ([Location 85](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=85))
+    - Tags: [[blue]] 
+- the term “self” generally refers to how we experience the subjective sensations of being alive, ([Location 87](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=87))
+- the perspective we have on the world, ([Location 88](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=88))
+    - Tags: [[blue]] 
+- the agency we assert in ([Location 88](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=88))
+    - Tags: [[pink]] 
+- When we use the term “self,” we broadly mean our sensation, perspective, and agency. ([Location 88](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=88))
+    - Tags: [[orange]] 
+- careful observation of nature ([Location 111](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=111))
+    - Tags: [[orange]] 
+- contemplative insights from extensive meditative practices into the nature of the mind ([Location 112](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=112))
+    - Tags: [[pink]] 
+- I have come to appreciate that our sense of self sometimes becomes distorted and misleads, constricts, and limits our well-being in life. ([Location 115](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=115))
+    - Tags: [[orange]] 
+- individual body as a center of identity ([Location 119](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=119))
+    - Tags: [[orange]] 
+- can lead to the sadly common experience of disconnection, disillusionment, and despair. ([Location 119](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=119))
+    - Tags: [[pink]] 
+- “identity equals body, ([Location 121](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=121))
+    - Tags: [[orange]] 
+- questioning self as body alone is often not even a part of our inquiries into the nature of life. ([Location 122](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=122))
+    - Tags: [[orange]] 
+- It is a modern construction, rarely challenged, that the individual is the center of self-experience. ([Location 123](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=123))
+    - Tags: [[pink]] 
+- we come to a wider view of how we are in fact connected with one another as human beings and within nature as members of a broader belonging, an identity that is integrated with more of the world than the body alone, a self that is a part of a synergy of systems much bigger than the individual. ([Location 129](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=129))
+- the health and flourishing of life on Earth. ([Location 140](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=140))
+    - Tags: [[orange]] 
+- interpersonal neurobiology ([Location 141](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=141))
+    - Tags: [[orange]] 
+- well-being emerges when distinct aspects of our bodily lives, our relationships, and our planetary systems become linked together as an integrative, adaptive whole. ([Location 141](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=141))
+    - Tags: [[pink]] 
+- A complex system is composed of interacting parts, often called nodes, and each node interacts with other nodes via their linkages. ([Location 149](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=149))
+    - Tags: [[orange]] 
+- If the human mind has constructed a view of the self as separate, it may be that the body (a node) has come to identify itself as the whole self—rather than the self ([Location 153](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=153))
+    - Tags: [[pink]] 
+- also including the whole of the systems in which that node (the body) exists. In medicine, when this happens to renegade cells in the body that grow without regard to the complex living somatic system, we call it cancer. ([Location 154](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=154))
+    - Tags: [[pink]] 
+- transform challenge into opportunity. ([Location 175](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=175))
+    - Tags: [[pink]] 
+- COVID-19, ([Location 188](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=188))
+    - Tags: [[orange]] 
+- social injustice: ([Location 189](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=189))
+    - Tags: [[orange]] 
+- environmental destruction: ([Location 190](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=190))
+    - Tags: [[orange]] 
+- misinformation and polarization, ([Location 191](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=191))
+    - Tags: [[orange]] 
+- attention addiction, ([Location 192](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=192))
+    - Tags: [[orange]] 
+- view of an isolated, separate identity—the solo-self. ([Location 195](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=195))
+    - Tags: [[orange]] 
+- This solo-self is not just the inner, private aspect of who we are but rather the concept and belief that the totality of our identity is separate from others, especially other, not “like-me” people, as well as separate from other nonhuman species—apart from nature. ([Location 198](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=198))
+    - Tags: [[orange]] 
+- responsible for much suffering, ([Location 200](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=200))
+    - Tags: [[pink]] 
+- The solo-self is our mind’s construction; ([Location 211](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=211))
+    - Tags: [[pink]] 
+- lifespan approach ([Location 213](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=213))
+    - Tags: [[blue]] 
+- VUCA ([Location 216](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=216))
+    - Tags: [[pink]] 
+- volatile, uncertain, complex, and ambiguous nature of the times we live in. ([Location 217](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=217))
+    - Tags: [[pink]] 
+- solo-self. ([Location 231](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=231))
+    - Tags: [[orange]] 
+- view reality by focusing on its component parts, ([Location 232](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=232))
+    - Tags: [[orange]] 
+- perceptions of the world, ([Location 234](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=234))
+    - Tags: [[orange]] 
+- belief systems ([Location 235](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=235))
+    - Tags: [[orange]] 
+- ways of living ([Location 235](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=235))
+    - Tags: [[orange]] 
+- limiting ([Location 238](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=238))
+    - Tags: [[pink]] 
+- static terms, ([Location 239](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=239))
+    - Tags: [[pink]] 
+- when we narrow our focus of attention to the parts of a system, we are “reducing” reality to parts rather than seeing the whole. ([Location 242](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=242))
+    - Tags: [[blue]] 
+- if taken as the totality of reality, it can be quite limiting. ([Location 245](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=245))
+    - Tags: [[blue]] 
+- lose ([Location 246](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=246))
+    - Tags: [[pink]] 
+- context ([Location 246](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=246))
+    - Tags: [[pink]] 
+- Perceiving patterns of interactions is part of what can be called a systems view ([Location 248](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=248))
+    - Tags: [[orange]] 
+- emergence ([Location 251](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=251))
+- he did not need to think about his position in society nor whether it might limit anything he might wish to do. ([Location 303](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=303))
+    - Tags: [[orange]] 
+- That is privilege. ([Location 304](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=304))
+    - Tags: [[pink]] 
+- sensation, ([Location 316](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=316))
+    - Tags: [[orange]] 
+- perspective, ([Location 316](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=316))
+    - Tags: [[pink]] 
+- agency ([Location 317](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=317))
+    - Tags: [[blue]] 
+- for those twenty-four hours things just … happened—things were just things being things, happenings happening. ([Location 383](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=383))
+    - Tags: [[orange]] 
+- located mostly at the midline of the brain: ([Location 394](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=394))
+    - Tags: [[orange]] 
+- default mode network, ([Location 394](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=394))
+    - Tags: [[pink]] 
+- The more we let go of the preoccupations with personal identity, the more we are open to the free flow of sensation. ([Location 397](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=397))
+    - Tags: [[orange]] 
+- We also later learned that both mindfulness meditation and certain medical interventions, such as the careful and controlled use of psychedelics, can promote a sense of connection and awe and also markedly reduce the DMN’s activity, even when it has been overly active, as in states of depression and anxiety. ([Location 397](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=397))
+    - Tags: [[pink]] 
+- psychological “allergy” ([Location 400](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=400))
+    - Tags: [[blue]] 
+- sense of self that felt more fluid, more flexible and receptive to things that arose in my unfolding life, and that strangely felt freer, more present, more connected to whatever was going on. ([Location 404](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=404))
+- existential “wake-up call” to live life with less worry and fewer preoccupations after nearly escaping more serious injury, or death. ([Location 409](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=409))
+    - Tags: [[orange]] 
+- “mindsight” ([Location 423](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=423))
+    - Tags: [[orange]] 
+- the subjective life of our mind is quite real and very important. ([Location 423](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=423))
+    - Tags: [[orange]] 
+- “systems awareness” ([Location 427](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=427))
+    - Tags: [[orange]] 
+- “Way of Nature” ([Location 429](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=429))
+    - Tags: [[pink]] 
+- “Hi Dan!” ([Location 436](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=436))
+    - Tags: [[pink]] 
+- Pando, ([Location 454](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=454))
+    - Tags: [[blue]] 
+- “intraconnected” ([Location 461](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=461))
+    - Tags: [[pink]] 
+- Certainty ([Location 471](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=471))
+    - Tags: [[orange]] 
+- Certainty also meant predictability and safety, so my deep survival circuits may have felt quite relieved, too, to have a firm name designating this certain belonging and identity, the certainty of a self I could rely on. ([Location 472](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=472))
+    - Tags: [[pink]] 
+- Our brain is an anticipation machine, feeling safe in its capacity to predict what is likely to occur next. ([Location 475](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=475))
+- seeks out patterns, ([Location 476](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=476))
+    - Tags: [[orange]] 
+- “top-down” processing ([Location 477](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=477))
+    - Tags: [[blue]] 
+- “bottom-up” processing ([Location 478](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=478))
+    - Tags: [[orange]] 
+- directly senses things as they are for us at this moment. ([Location 478](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=478))
+    - Tags: [[blue]] 
+- we come to perceive what we believe, ([Location 480](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=480))
+    - Tags: [[pink]] 
+- The self can become one of these top-down constructions: ([Location 481](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=481))
+    - Tags: [[orange]] 
+- We believe the self to be what we have learned it is, and this belief then shapes our perception of the self—our sense of self is based on what we believe it to be. ([Location 482](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=482))
+    - Tags: [[pink]] 
+- If we learn to perceive the world with a narrow focus on the details of the individual only, our self will be constructed from this narrow view and will then be experienced as an entity—a separate thing, a noun. ([Location 483](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=483))
+    - Tags: [[orange]] 
+- Not only will we experience our self as emanating from the body alone, but the “environment” in which our body exists may not be sensed as a living, breathing, broader source of belonging in which the self is intraconnected; instead we will perceive it as a container outside our self, and agency will not be in service of the welfare of that external container. ([Location 485](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=485))
+    - Tags: [[pink]] 
+- Nature would not be included in how we would define or experience our self. ([Location 488](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=488))
+    - Tags: [[blue]] 
+- If instead we learn to perceive the world from a broad focus of attention on the relationships among parts and on the patterns that emerge from these relational connections, then we’ll experience a self that emerges from the systems in which we live: the body, the interpersonal relationships, the whole of nature. We’ll have a subjective sensation, a perspective, and an agency—our SPA of self—centered in these layers of interacting systems, as unfolding, connected verb-like events, not as a noun-like separate entity, alone in a disconnected world. MWe are personal, public, and planetary. ([Location 488](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=488))
+- our perception of the world and construction of self are molded by what we’ve learned to anticipate and predict ([Location 493](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=493))
+    - Tags: [[blue]] 
+- come to focus our attention, narrow or broad. ([Location 494](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=494))
+    - Tags: [[blue]] 
+- From a view of the individual, I—my identity and the reference point of my belonging—am me, this body, this center of sensation, perception, and action which in modern culture we tend to have named as “self.” ([Location 495](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=495))
+    - Tags: [[orange]] 
+- Yet from the view of the system, I am the whole that this body is just a part of: the whole system is my self, the body only a node in that larger whole. ([Location 497](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=497))
+    - Tags: [[pink]] 
+- the lens of human development. ([Location 499](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=499))
+- top-down, ([Location 499](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=499))
+    - Tags: [[orange]] 
+- learned, ([Location 499](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=499))
+    - Tags: [[blue]] 
+- constructive process ([Location 499](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=499))
+    - Tags: [[pink]] 
+- self-forming ([Location 500](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=500))
+    - Tags: [[orange]] 
+- self-fulfilling ([Location 500](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=500))
+- my experience of myself is construed, created, and perhaps at times constricted by the very anticipatory processes that reinforce their own predictions—they are self-organizing entities. ([Location 500](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=500))
+    - Tags: [[orange]] 
+- How we construct this self will continually reinforce its own features, as isolated and disconnected, as an aspect of interdependent, interconnected systems, or perhaps as self being the intraconnected whole system of reality. ([Location 501](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=501))
+- Let us, you and I, keep this question in mind: Is the sense of self always a construction? Is simply being, or simply being aware, a flowing experience of sensation, perception, and agency that is not constructive, but instead arises as a self-experience that emerges in a bottom-up manner? If this is true, then would this be a “true self” that sometimes lays hidden beneath a learned, top-down constructive mechanism? Was this the basis of the experience I described after the horse accident, and in the all-one time in the forest in Colorado: a losing of the top-down and a liberation of the bottom-up experience of self? Is a sense of an individual personal identity (in this case, a person named Dan) a top-down construction, and the experience of intraconnected wholeness of identity a more direct bottom-up realization? ([Location 503](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=503))
+- The fundamental question, then, is how can we construct the most integrative experience of self possible to promote well-being in our world? ([Location 512](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=512))
+    - Tags: [[orange]] 
+- “nouns.” ([Location 516](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=516))
+    - Tags: [[orange]] 
+- “holding-together” quality, ([Location 516](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=516))
+    - Tags: [[pink]] 
+- “verb,” ([Location 520](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=520))
+    - Tags: [[orange]] 
+- as an action instead of a thing, as dynamic instead of fixed and certain. ([Location 520](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=520))
+    - Tags: [[pink]] 
+- less predictability and control— ([Location 521](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=521))
+    - Tags: [[blue]] 
+- Instead of this more fluid sense of self, we often live in what we can identify as the disconnected view of modernity: ([Location 522](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=522))
+- “collectivistic.” ([Location 527](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=527))
+    - Tags: [[orange]] 
+- Culture shapes how the brain learns to decode incoming information, the top-down ways we construct what we perceive are what we call the mental construction of perception: ([Location 531](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=531))
+    - Tags: [[orange]] 
+- Individualistic ways of seeing lead to seeing individual features with a narrow focus of attention; ([Location 532](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=532))
+- collectivistic cultural practices lead one to construct a perception of the whole with a wide focus of attention. ([Location 533](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=533))
+    - Tags: [[blue]] 
+- In Indigenous cultures throughout the world, as we’ll soon discuss, life is viewed more as interdependent interacting elements across the continuum of space and time. ([Location 534](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=534))
+    - Tags: [[pink]] 
+- The cultural passage of both knowledge and ways of perceiving through the oral tradition itself enables a sense of self to become embedded in systems of deeply interwoven parts and the individual is often seen as woven into the tapestry of a larger whole, a whole broader than the body alone. ([Location 535](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=535))
+- not owning the landscape nor dividing it into parts, ([Location 539](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=539))
+    - Tags: [[pink]] 
+- self, identity, and belonging are constructed aspects of human life ([Location 540](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=540))
+    - Tags: [[orange]] 
+- the human mind, as it creates culture, directly shapes its own sense of self-experience. ([Location 541](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=541))
+    - Tags: [[blue]] 
+- cultural push to perceive self only as a noun, ([Location 551](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=551))
+    - Tags: [[pink]] 
+- vulnerable ([Location 551](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=551))
+    - Tags: [[orange]] 
+- inaccuracy, ([Location 551](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=551))
+    - Tags: [[orange]] 
+- misleading, ([Location 552](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=552))
+    - Tags: [[orange]] 
+- may be an outright blunder; ([Location 553](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=553))
+    - Tags: [[orange]] 
+- lethal lie, ([Location 553](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=553))
+    - Tags: [[orange]] 
+- misguided and dangerous story that we unwittingly tell our selves and live our lives by, to our own detriment. ([Location 553](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=553))
+    - Tags: [[orange]] 
+- the mind’s capacities can also identify this mistake and course-correct, ([Location 556](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=556))
+    - Tags: [[pink]] 
+- fulfill the longing for certainty, ([Location 558](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=558))
+    - Tags: [[blue]] 
+- drive for predictability ([Location 559](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=559))
+    - Tags: [[blue]] 
+- creates clear boundaries ([Location 559](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=559))
+    - Tags: [[blue]] 
+- belief in an illusion ([Location 559](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=559))
+    - Tags: [[blue]] 
+- I am ([Location 560](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=560))
+    - Tags: [[blue]] 
+- essentially ([Location 560](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=560))
+    - Tags: [[blue]] 
+- predictable. ([Location 560](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=560))
+    - Tags: [[blue]] 
+- a trap ([Location 561](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=561))
+    - Tags: [[pink]] 
+- compelling us ([Location 561](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=561))
+    - Tags: [[orange]] 
+- desperately ([Location 561](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=561))
+    - Tags: [[orange]] 
+- attempt to live lives with an unfulfillable fantasy based not on reality ([Location 561](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=561))
+- delusion?” ([Location 563](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=563))
+    - Tags: [[orange]] 
+- a belief not consistent with reality. ([Location 563](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=563))
+    - Tags: [[orange]] 
+- Certainty is predictability; predictability ensures safety; safety means survival. ([Location 580](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=580))
+    - Tags: [[pink]] 
+- quantum physics; ([Location 607](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=607))
+    - Tags: [[orange]] 
+- complex systems ([Location 607](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=607))
+    - Tags: [[pink]] 
+- verb-like happenings that were deeply connected. ([Location 608](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=608))
+    - Tags: [[pink]] 
+- the whole is greater than the sum of the individual parts. ([Location 614](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=614))
+    - Tags: [[orange]] 
+- emergence— ([Location 616](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=616))
+    - Tags: [[orange]] 
+- Systems awareness enables us to sense the connections among parts and to observe the patterns in how those connected parts interact. ([Location 617](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=617))
+    - Tags: [[pink]] 
+- Systems thinking is all about relationality, not individuality alone. ([Location 618](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=618))
+    - Tags: [[orange]] 
+- “think again” ([Location 633](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=633))
+    - Tags: [[pink]] 
+- “consilience,” ([Location 637](https://readwise.io/to_kindle?action=open&asin=B0B2BNNB4V&location=637))
+    - Tags: [[orange]] 

@@ -1,0 +1,287 @@
+# Radical Compassion
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/41wKJGzG41L._SL200_.jpg)
+
+## Metadata
+- Author: [[Tara Brach]]
+- Full Title: Radical Compassion
+- Category: #books
+
+## Highlights
+- “I wish I’d had the courage to live a life true to myself.” ([Location 128](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=128))
+- this regret of the dying is also true for many of the rest of us. ([Location 132](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=132))
+    - Tags: [[orange]] 
+- being true to themselves means being loving, present, and authentic. ([Location 132](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=132))
+    - Tags: [[pink]] 
+- They speak of being honest, serving others, serving the world. ([Location 133](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=133))
+    - Tags: [[blue]] 
+- almost daily they lose sight of these aspirations and intentions. ([Location 136](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=136))
+- they get caught up in reactivity—self-judgment, blaming others, pettiness, selfishness, living on autopilot. ([Location 136](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=136))
+    - Tags: [[orange]] 
+- “Each day there’s a big gap between what’s possible and how I’m actually living my life. And with that comes an ever-lurking sense of personal failure.” ([Location 137](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=137))
+    - Tags: [[pink]] 
+- It fueled doubt about my capability as therapist and teacher. ([Location 139](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=139))
+    - Tags: [[blue]] 
+- It has led me to a spiritual path and practices that I cherish. ([Location 142](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=142))
+    - Tags: [[pink]] 
+- I have to love myself into healing. ([Location 144](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=144))
+- path of self-compassion. ([Location 144](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=144))
+    - Tags: [[blue]] 
+- The healing medicine always has some flavor of care, compassion, or forgiveness. ([Location 146](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=146))
+    - Tags: [[orange]] 
+- turning toward loving presence is the gateway to living true to ourselves. ([Location 148](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=148))
+    - Tags: [[blue]] 
+- Radical compassion is rooted in mindful, embodied presence, and it is expressed actively through caring that includes all beings. ([Location 149](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=149))
+- mindfulness and compassion as inseparable dimensions of awakening. ([Location 152](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=152))
+- RAIN cultivates a trust in our own basic goodness and by extension helps us recognize and trust that same light shining through all beings. ([Location 186](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=186))
+- we forget who we are. ([Location 209](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=209))
+- This forgetting is a part of being in trance—a partially unconscious state that, like a dream, is disconnected from the whole of reality. ([Location 210](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=210))
+    - Tags: [[orange]] 
+- we all have the capacity to free ourselves. ([Location 214](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=214))
+    - Tags: [[pink]] 
+- When we are lost in the forest, we can create a clearing simply by pausing and turning from our clamoring thoughts to become aware of our moment-to-moment experience. ([Location 215](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=215))
+    - Tags: [[blue]] 
+- I call this wakeful and immediate awareness “presence.” It is also referred to as consciousness, spirit, Buddha nature, true nature, the awakened heartmind, and many other names. When we’ve reconnected fully to presence, we can open to what is going on inside us—the changing flow of sensations, feelings, and thoughts—without any resistance. This allows us to ([Location 216](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=216))
+- live our life moments with clarity and compassion. The shift from being lost in unconscious mental and emotional reactivity to inhabiting our full presence is an awakening from trance. ([Location 218](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=218))
+- trust that the teachings would flow through me, ([Location 252](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=252))
+    - Tags: [[orange]] 
+- Okay, it’s just a movie. I’m watching it with hundreds of other people. I can feel the seat under me, feel myself breathing. ([Location 270](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=270))
+- Only by purposefully bringing attention to our inner experience can we move from trance toward healing. ([Location 272](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=272))
+    - Tags: [[blue]] 
+- moment-to-moment mindfulness. ([Location 372](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=372))
+    - Tags: [[orange]] 
+- Between the stimulus and the response there is a space, and in that space is your power and your freedom. • VIKTOR FRANKL ([Location 381](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=381))
+    - Tags: [[orange]] 
+- “something is wrong with me.” ([Location 815](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=815))
+    - Tags: [[orange]] 
+- “Why do we hold on so tightly to our belief in our own deficiency? Why are we so loyal to our suffering, so addicted to our self-judgment?” ([Location 816](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=816))
+    - Tags: [[pink]] 
+- While we might long to accept and trust ourselves, trying to release our negative self-beliefs can feel as if we were trying to exorcise something buried deep inside our body. And in a way we are. ([Location 817](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=817))
+- Our beliefs live not only in our mind but in a constellation of feelings and emotions embedded in our bodies. As a favorite saying goes, “Our issues are in our tissues.” They are deeply familiar. They feel like “me.” Most are rooted in interpretations of reality we formed in early childhood, and we rely on them for guidance and protection. They tell us who we are and what we can expect from ourselves, from others, and from the world. ([Location 818](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=818))
+    - Tags: [[blue]] 
+- Our most potent negative self-beliefs arise from early experiences of fear and wounding. ([Location 822](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=822))
+- “The brain is Velcro for negative experiences, but Teflon for positive ones.” ([Location 824](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=824))
+- confirmation bias, ([Location 826](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=826))
+    - Tags: [[orange]] 
+- focus on information that matches or reinforces our existing beliefs—particularly in the case of charged issues like our value as a person. ([Location 826](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=826))
+    - Tags: [[pink]] 
+- “How am I doing?” and condemning the gap between some ideal standard and what is. ([Location 829](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=829))
+- As long as we continue our fear-based thinking, our beliefs will maintain their potency. ([Location 830](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=830))
+    - Tags: [[orange]] 
+- we maintain our world with our inner dialogue and that our world will change as soon as we stop talking to ourselves. ([Location 831](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=831))
+- The old skin that is most difficult to shed is our core belief that something is wrong with us—that we are deficient or flawed. ([Location 839](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=839))
+    - Tags: [[orange]] 
+- Friedrich Nietzsche writes, “The snake that cannot shed its skin perishes.” ([Location 842](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=842))
+    - Tags: [[pink]] 
+- What am I believing about myself? ([Location 845](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=845))
+    - Tags: [[orange]] 
+- What is wrong with letting go of this belief? Or What bad might happen if I let go of this self-judgment? ([Location 847](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=847))
+    - Tags: [[blue]] 
+- we keep our old skin to fit others’ expectations. ([Location 855](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=855))
+    - Tags: [[blue]] 
+- shared insecurity. ([Location 856](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=856))
+    - Tags: [[orange]] 
+- Our self-identity is reinforced by what others believe about us, and we collude by staying the same. ([Location 859](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=859))
+    - Tags: [[blue]] 
+- “Is it true? Is it true that you’re failing, and that you’re not a loving person?” ([Location 878](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=878))
+- “real but not true.” ([Location 884](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=884))
+    - Tags: [[orange]] 
+- “I don’t have to believe my thoughts . . . they are just thoughts!” ([Location 893](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=893))
+    - Tags: [[blue]] 
+- Any story you have about yourself is not the same as the unfolding reality of what you are: the ongoing life of your senses, the tenderness of your heart, the consciousness that right now is seeing or hearing these words. ([Location 893](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=893))
+    - Tags: [[orange]] 
+- “real but not true” ([Location 896](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=896))
+- “I’m not my thoughts” ([Location 899](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=899))
+    - Tags: [[blue]] 
+- “This is just a belief,” ([Location 899](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=899))
+    - Tags: [[pink]] 
+- sense of powerlessness. ([Location 911](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=911))
+    - Tags: [[orange]] 
+- She was falling short; she would always fail. ([Location 912](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=912))
+    - Tags: [[pink]] 
+- “I just don’t like who I am. I don’t like this grim, angry, closed-hearted, helpless self.” ([Location 913](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=913))
+    - Tags: [[blue]] 
+- oppressive wave of fatigue. ([Location 917](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=917))
+    - Tags: [[orange]] 
+- “Who would I be if I didn’t believe this about myself?” ([Location 932](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=932))
+    - Tags: [[orange]] 
+- WHO WE ARE BEYOND OUR BELIEFS ([Location 935](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=935))
+    - Tags: [[pink]] 
+- The first is what Buddhist psychology calls the realization of “no self” or emptiness. This refers to the lack of any confining sense of self-centeredness, self-solidity, or self-permanence. We are free from a limiting identity as a fearful or deficient or separate self. ([Location 938](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=938))
+    - Tags: [[pink]] 
+- The second dimension of freedom is realizing the purity and fullness of awareness itself. We experience this boundless, wakeful, and tender presence as our very essence. ([Location 940](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=940))
+    - Tags: [[blue]] 
+- Wisdom tells me I’m nothing. Love tells me I am everything. And between the two my life flows. ([Location 943](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=943))
+    - Tags: [[orange]] 
+- JUDGING OURSELVES, JUDGING OTHERS ([Location 947](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=947))
+    - Tags: [[pink]] 
+- When we’re convinced we’re selfish, we’re inclined to suspect the same of others. If we hate ourselves for being needy, we may feel repelled or frightened by neediness in others. And if we feel we’re failing, we may look for signs of failure in those we’re close ([Location 955](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=955))
+    - Tags: [[orange]] 
+- to. Our negative self-beliefs become a powerful lens that shapes our experience of others; we can’t see who’s really there. ([Location 957](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=957))
+    - Tags: [[orange]] 
+- “What are you unwilling to feel?” ([Location 1230](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=1230))
+    - Tags: [[pink]] 
+- Terry knew she was enabling addictive behavior, but she couldn’t stop. She lived in terror that she’d get a call: Megan was in the morgue after overdosing. Megan had been raped and killed. It wasn’t until her best friend told her, “You’re traumatized and you need support for yourself right now,” that Terry began therapy and came to me for spiritual guidance. I asked her what in her life gave her a sense of connectedness and peace. “Usually prayer,” she responded. “I pray to what feels like the mother of the universe, the Divine Mother. But now when I try to pray, it’s like my heart is buried in fear. I can hardly breathe.” “What would help your heart breathe right now?” I asked. Terry closed her eyes for a moment. “If I weren’t carrying this fear alone,” she said. Then she looked at me with a small smile: “I wish the universe could take over for me!” “Then let’s just go with that,” I said. “Okay?” She nodded gamely and again closed her eyes. “Let the fears you’re carrying, the big ones, come to mind. And now imagine that you are holding them gently and respectfully in both hands . . . and placing them into the arms of the Divine Mother. It’s not that you’re getting rid of them. It’s more like letting something much larger help you hold them. See if you can visualize and feel this. You might try actually cupping your hands and lifting them up.” Terry bowed her head slightly as her hands rose. Tears started streaming down her face. Several minutes later, she brought her hands down and sat very quietly. “I’m breathing, Tara,” she said. “My heart’s breathing. It’s unbelievably heavy and sad, but there’s more space . . . it’s part of something larger . . . it’s breathing.” Terry had found a resource anchor (the image and felt sense of that prayerful gesture) that could give her some ease. I encouraged her to sit quietly for a while, resting in the breath, noticing what it ([Location 1384](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=1384))
+    - Tags: [[orange]] 
+- was like to let the calm enter and fill her heart. Before we parted, I suggested that she make this the center of her practice—handing over her fears to the Divine Mother (her resource anchor) and then steeping herself in the feelings of being held (to install the inner state). ([Location 1399](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=1399))
+    - Tags: [[orange]] 
+- In my experience, fear does not stop arising. Our life is inherently insecure: ([Location 1425](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=1425))
+    - Tags: [[orange]] 
+- it is possible to experience the natural contraction of fear with radical compassion. ([Location 1427](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=1427))
+    - Tags: [[orange]] 
+- Each of us can learn to Nurture our inner resources, to discover our fearless heart in the face of fear. Our resource anchors may be very different—bringing to mind a trusted friend or a spiritual figure, leaning against a tree, touching our own heart, holding a rock. Yet if we offer our full attention to the positive inner state they awaken, we are directly Nurturing a tender presence that can hold our life. ([Location 1433](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=1433))
+    - Tags: [[pink]] 
+- while it might initially seem that we’re handing fear over to something outside us, we’re actually using our imagination to reconnect with our own resources, our own temporarily hidden wisdom, compassion, and love. “Handing it over” (much like the “Turning it over” encouraged in 12-step programs) can be a powerful bridge back to our wholeness. ([Location 1494](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=1494))
+    - Tags: [[orange]] 
+- We humans have a strong reflex to disassociate from the body’s raw experience of fear and retreat into fear-based thinking and behavior. It takes practice to deliberately open yourself to the felt sense of fear. When fearful thoughts arise during meditation, bring a friendly attention to your throat, chest, and belly, breathing into those areas to help you focus. Notice any sensations of tightness, soreness, heat, pressure, or shakiness, and invite the fear to show itself. If you are patient, you will gradually become familiar with how fear expresses itself in your body. And with that familiarity, you will find you are less hooked by fear. You’ll be better able to respond to fear, rather than react from it. ([Location 1505](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=1505))
+- Chronic wanting ([Location 1536](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=1536))
+    - Tags: [[orange]] 
+- Investigating ([Location 1537](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=1537))
+    - Tags: [[orange]] 
+- “desire” ([Location 1540](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=1540))
+    - Tags: [[pink]] 
+- “missing” ([Location 1541](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=1541))
+    - Tags: [[pink]] 
+- “being away from the stars.” ([Location 1541](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=1541))
+    - Tags: [[pink]] 
+- All forms arise from that source and suffer when they feel separated from it. ([Location 1543](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=1543))
+    - Tags: [[pink]] 
+- pleasure ([Location 1544](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=1544))
+    - Tags: [[blue]] 
+- While seeking pleasure can be entirely wholesome, the energy of desire becomes problematic and hard to navigate whenever our basic needs are not met. ([Location 1546](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=1546))
+    - Tags: [[blue]] 
+- And if our needs have been radically unmet, our fixations can take over. Desire turns into craving and addictive behavior. ([Location 1548](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=1548))
+    - Tags: [[blue]] 
+- IF ONLY” ([Location 1553](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=1553))
+- “If you shift your attention from your thoughts about the project to the feelings in your body, what do you notice?” He named “excitement, grasping, and fear.” ([Location 1574](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=1574))
+    - Tags: [[orange]] 
+- I asked what that place was believing, ([Location 1576](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=1576))
+    - Tags: [[orange]] 
+- “What will you lose?” ([Location 1577](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=1577))
+    - Tags: [[orange]] 
+- “Is it true, ([Location 1578](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=1578))
+    - Tags: [[orange]] 
+- head. “No, ([Location 1579](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=1579))
+    - Tags: [[orange]] 
+- bring to mind his future self as a source of wise Nurturing. “How might your future self guide you?” ([Location 1581](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=1581))
+    - Tags: [[orange]] 
+- “Is there something he wants you to know?” ([Location 1584](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=1584))
+    - Tags: [[orange]] 
+- said, ‘Life is enough in this moment. You don’t have to chase things. This is it!’” ([Location 1585](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=1585))
+    - Tags: [[orange]] 
+- Especially if we’ve been chasing after something outside ourselves, when we contact what’s happening right now, we might find, as Max did, the agitation or tension or fear that’s part of desire. Often there’s a nagging sense of “something’s missing.” But what happens if instead of pursuing what we think we want, we stay there? What happens if we encourage ourselves (as with a kind hand on our shoulder) to trust that “this is it”? Gradually we will discover the fullness and aliveness of our own presence. With this comes the blessing of feeling “enough”—that what ([Location 1587](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=1587))
+    - Tags: [[pink]] 
+- we really long for is already here. ([Location 1592](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=1592))
+    - Tags: [[pink]] 
+- It’s important to remember that while coming into presence frees us inwardly, it doesn’t necessarily mean radical outward change. ([Location 1593](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=1593))
+    - Tags: [[blue]] 
+- Yet there are times when we cannot make the U-turn into presence without encountering deep and raw layers of unmet needs. ([Location 1598](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=1598))
+- I’ve seen this in my own life, and with countless others, when desire snowballs into full-blown obsession. ([Location 1599](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=1599))
+    - Tags: [[blue]] 
+- At these times, we need to pay deeper attention to the craving and fear that are driving us. ([Location 1600](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=1600))
+    - Tags: [[pink]] 
+- Recognize this wanting and Allow it to be there, without adding any judgment.” ([Location 1609](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=1609))
+    - Tags: [[pink]] 
+- natural. See if you can Allow that too, ([Location 1611](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=1611))
+    - Tags: [[pink]] 
+- Investigating ([Location 1620](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=1620))
+    - Tags: [[pink]] 
+- “Tracing Back Desire.” ([Location 1620](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=1620))
+    - Tags: [[pink]] 
+- Investigation opened into the fullness of Nurture ([Location 1630](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=1630))
+    - Tags: [[orange]] 
+- finding a love sourced within—is ([Location 1647](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=1647))
+    - Tags: [[orange]] 
+- Whatever positive feeling you find—perhaps “warmth and aliveness”—let it fill you. Get familiar with it. This is what you are really wanting; this is the felt sense of being special. And it’s here inside you. Get to know and trust this inner source of well-being. You will naturally feel the urge to find that special person as well, and that’s fine. But if you know that what you long for can also be found within, you will create much more ease, grace, and contentment in your life. ([Location 1764](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=1764))
+    - Tags: [[orange]] 
+- Forgiving means letting go of the protective armor of blame and/or hatred that encases your heart. ([Location 1891](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=1891))
+    - Tags: [[blue]] 
+- Forgiving means never putting anyone (including yourself) out of your heart. ([Location 1892](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=1892))
+    - Tags: [[orange]] 
+- Forgiveness is the compassion that arises when we’ve brought full presence to the suffering of hurt and wounds. ([Location 1893](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=1893))
+    - Tags: [[pink]] 
+- shifted their attention from what was wrong to remembering what I call “basic goodness.” ([Location 2194](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=2194))
+    - Tags: [[orange]] 
+- These coverings—our appearance, manners, defenses, judgments, skills, weaknesses, and so on—are often evaluated in terms of “good self” and “bad self.” The good self meets the standards we have adopted from our caregivers, peers, and the larger society. Perhaps our good self is polite, hardworking, attractive, and accomplished. Our bad self is all the ways we fall short—when we call ourselves selfish, impatient, judgmental, or impulsive. But none of these conditioned ego patterns limit or express our basic goodness. Basic goodness is the gold of our true nature: the universal qualities of awareness, aliveness, love, creativity, and intelligence that live through all of us. Our changing moods, behaviors, and personalities are like surface waves. Basic goodness is the ocean itself. If we remain focused on our conditioned patterns, ([Location 2196](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=2196))
+    - Tags: [[blue]] 
+- if we judge or identify with these patterns, we can easily miss our ([Location 2202](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=2202))
+    - Tags: [[blue]] 
+- vastness and depth. ([Location 2203](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=2203))
+    - Tags: [[blue]] 
+- Because fear constricts the expression of basic goodness, it’s easiest to recognize the gold in others when they are relaxed and present. We often see it shining in children before their personalities have taken shape. One friend told me about gazing at a picture of her nine-month-old granddaughter, filled with wonder at the pure sentience and brightness in her eyes. Suddenly she recalled a long-forgotten line of poetry: “There lives the dearest freshness deep down things.” ([Location 2203](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=2203))
+    - Tags: [[blue]] 
+- Then it was as if I suddenly saw the secret beauty of their hearts, ([Location 2223](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=2223))
+    - Tags: [[pink]] 
+- the depths of their hearts where neither sin nor desire nor self-knowledge can reach, the core of their reality, the person that each one is in God’s eyes. If only they could all see themselves as they really are. If only we could see each other that way all the time. There would be no more war, no more hatred, no more cruelty, no more greed. . . . I suppose the big problem would be that we would fall down and worship each other. ([Location 2223](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=2223))
+    - Tags: [[pink]] 
+- In the Babemba tribe of South Africa, when a person acts irresponsibly or unjustly, he is placed in the center of the village, alone and unfettered. All work ceases, and every man, woman and child in the village gathers in a large circle around the accused individual. Then each person in the tribe speaks to the accused, one at a time, about all the good things the person in the center of the circle has done in his lifetime. Every incident, every experience that can be recalled with any detail and accuracy is recounted. All his positive attributes, good deeds, strengths and kindnesses are recited carefully and at length. The tribal ceremony often lasts several days. At the end, the tribal circle is broken, a joyous celebration takes place, and the person is symbolically and literally welcomed back into the tribe. ([Location 2229](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=2229))
+    - Tags: [[pink]] 
+- Our trust in our own basic goodness emerges from the clear and deep mirroring of others. ([Location 2235](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=2235))
+- “You matter. You are part of us. You belong and are loved.” ([Location 2238](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=2238))
+    - Tags: [[orange]] 
+- spiritual re-parenting. ([Location 2303](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=2303))
+    - Tags: [[orange]] 
+- After the RAIN, ([Location 2306](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=2306))
+- Your path is not to seek for love but merely to seek and find all the barriers within yourself you have built against it. • RUMI ([Location 2499](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=2499))
+- Whenever we pay close attention to another life, whether it’s a person, our dog, a favorite plant, or a bird, this being begins to feel like part of us; ([Location 2509](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=2509))
+    - Tags: [[pink]] 
+- We share the same wings, the same longing to live fully and freely. ([Location 2511](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=2511))
+    - Tags: [[orange]] 
+- Yet we’re also familiar with trance, when preoccupation, judgment, or feeling threatened makes it easy to distance ourselves, especially from those we don’t know and who are different from us. ([Location 2511](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=2511))
+    - Tags: [[blue]] 
+- “Unreal Others” ([Location 2513](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=2513))
+    - Tags: [[orange]] 
+- In trance, we can read the daily news of suffering—homes lost in floods, refugee families being turned away, another death in the opioid epidemic, the suicide of a gay teen—without registering the reality of these lives. ([Location 2513](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=2513))
+    - Tags: [[pink]] 
+- But of course, strangers aren’t the only Unreal Others. The more stressed and reactive we are, the more even those we consider most dear can become unreal. Just as we can block our sense of their basic goodness, our hearts can close to defend us from their vulnerability. When we numb ourselves to their hurts and fears, we lose our ability to respond with warmth and tenderness. ([Location 2516](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=2516))
+    - Tags: [[blue]] 
+- potential to bring the spirit of “that bird has my wings” to all beings: ([Location 2518](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=2518))
+- Our deep conditioning to perceive Unreal Others emerged in service of survival. ([Location 2522](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=2522))
+    - Tags: [[pink]] 
+- small, isolated groups, ([Location 2523](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=2523))
+    - Tags: [[blue]] 
+- familiarity meant safety ([Location 2523](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=2523))
+    - Tags: [[orange]] 
+- any stranger was a potential threat. ([Location 2523](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=2523))
+    - Tags: [[orange]] 
+- These groups called themselves “the people,” or “humans.” ([Location 2524](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=2524))
+    - Tags: [[blue]] 
+- Other groups were “less than human,” ([Location 2524](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=2524))
+- enemies ([Location 2524](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=2524))
+    - Tags: [[orange]] 
+- because “the people” were different and superior, they did not hesitate to attack and violate other ([Location 2525](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=2525))
+    - Tags: [[orange]] 
+- groups: If they’re not human, we can hurt them, steal from them, enslave them, kill them. ([Location 2525](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=2525))
+    - Tags: [[blue]] 
+- REFLECTION: GAZING INTO ANOTHER’S EYES This is one of the most valuable trainings I’ve found for dissolving trance. You might try it if you have a partner, family member, or friend who is willing to explore it with you. ([Location 2588](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=2588))
+    - Tags: [[pink]] 
+- Sit face-to-face with knees almost touching and close your eyes. Take a few long, deep breaths, relax any obvious tension, and allow yourselves to settle and become present. Reflect on your mutual intention to offer a sustained, open, and nonjudgmental attention to each other. After about a minute, open your eyes. Sit for five minutes gazing into each other’s eyes. Simply Recognize (notice) whatever experience arises and Allow it, let be. Afterward, take some time for each of you to share what you experienced. ([Location 2590](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=2590))
+    - Tags: [[pink]] 
+- spiritual crisis of white America. ([Location 2603](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=2603))
+    - Tags: [[orange]] 
+- lives have no meaning.” ([Location 2605](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=2605))
+    - Tags: [[blue]] 
+- “Where does it hurt?” ([Location 2608](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=2608))
+- “What’s it like being you?” ([Location 2608](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=2608))
+    - Tags: [[orange]] 
+- quiets our reactive survival brain and awakens empathy, understanding, and care. ([Location 2608](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=2608))
+    - Tags: [[pink]] 
+- RAIN IN ACTION: FACING THE RACIAL DIVIDE Love is often hard work, and when we’re in conflict, we can regress into our survival brain in a flash. I ([Location 2627](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=2627))
+- discovered this some years ago during a meeting of a multiracial group in our local community. One moment I was sharing openly about some serious health problems, explaining why I hoped we might meet less frequently. The next moment I was hurt, angry, and stunned by the comments of an African American friend. She had responded with quiet anger to my request: “I’m disappointed . . . and not trusting your commitment to our group.” Our meeting ended with us both upset and distanced. ([Location 2629](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=2629))
+- “Tara, for you, it was about spreading out some meetings. As a white person, these meetings are optional for you. For an African American woman in her situation, they feel like life or death.” ([Location 2641](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=2641))
+- Our meetings were part of a larger process of healing racism, something her life was dedicated to, and we in the group were the friends and allies she trusted, had invested in. ([Location 2645](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=2645))
+- And now a white person was threatening to withdraw some of her energy. ([Location 2646](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=2646))
+    - Tags: [[blue]] 
+- There’s a tendency in some spiritual communities to brush over differences with the belief “we’re all really one.” ([Location 2648](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=2648))
+- how it felt not to be able to rely on white people to stay with the ongoing and often messy work of racial healing. ([Location 2651](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=2651))
+    - Tags: [[orange]] 
+- my whiteness. ([Location 2655](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=2655))
+    - Tags: [[pink]] 
+- I could see in retrospect how my friend’s confrontation had triggered strong feelings of guilt—the chronic underlying sense that as a white person, I wasn’t doing enough to eliminate racism. ([Location 2655](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=2655))
+    - Tags: [[orange]] 
+- My awareness of whiteness has become a continuing process of awakening to the assumptions and privileges that come with my skin color: That I could go into any store and not be viewed as a potential criminal. That I could buy a home in any neighborhood. That I’d have a good chance at getting jobs I was qualified for. I’ve also taken for granted that I’d receive good, respectful medical attention. And perhaps more subtly, when it would help me to change the schedule of our group meetings, I could simply ask for what I wanted. This was an entitlement that I as a white person, and as a person with power, had never questioned. ([Location 2657](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=2657))
+    - Tags: [[blue]] 
+- They make life unimaginably easier for white people and painfully difficult for people of color. ([Location 2665](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=2665))
+    - Tags: [[pink]] 
+- REFLECTION: “IS THIS PERSON REAL TO ME?” We’ve been looking at how we create Unreal Others. It’s important to realize that, especially when we’re stressed, our habits of Unreal Othering apply even to those closest to us—our brother, child, mother, friend, and work colleague. We are trying to “get through the day,” and they are making things worse or better or playing bit parts, irrelevant to our concerns. We’re just not there; our hearts are closed. If we want to relate more reliably with presence and compassion, we need to bring the habitual trance of Unreal Other above the line. Our starting place is to pay closer attention to our everyday encounters. ([Location 2666](https://readwise.io/to_kindle?action=open&asin=B07QXG5HPH&location=2666))
+    - Tags: [[orange]] 

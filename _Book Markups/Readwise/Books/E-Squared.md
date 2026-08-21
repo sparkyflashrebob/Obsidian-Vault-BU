@@ -1,0 +1,112 @@
+# E-Squared
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/41rf8QqdOiL._SL200_.jpg)
+
+## Metadata
+- Author: [[Pam Grout]]
+- Full Title: E-Squared
+- Category: #books
+
+## Highlights
+- “There is an invisible energy force or field of infinite possibilities.” ([Location 245](https://readwise.io/to_kindle?action=open&asin=B00B2JSRAS&location=245))
+    - Tags: [[blue]] 
+- “You impact the field and draw from it according to your beliefs and expectations,” ([Location 253](https://readwise.io/to_kindle?action=open&asin=B00B2JSRAS&location=253))
+- “This is what I want to pull out of the field in the next 48 hours.” ([Location 255](https://readwise.io/to_kindle?action=open&asin=B00B2JSRAS&location=255))
+- “You, too, are a field of energy,” ([Location 256](https://readwise.io/to_kindle?action=open&asin=B00B2JSRAS&location=256))
+    - Tags: [[orange]] 
+- “I will create as I speak.” ([Location 263](https://readwise.io/to_kindle?action=open&asin=B00B2JSRAS&location=263))
+    - Tags: [[orange]] 
+- “Whatever you focus on expands,” ([Location 266](https://readwise.io/to_kindle?action=open&asin=B00B2JSRAS&location=266))
+    - Tags: [[pink]] 
+- “Your connection to the field provides accurate and unlimited guidance.” ([Location 268](https://readwise.io/to_kindle?action=open&asin=B00B2JSRAS&location=268))
+    - Tags: [[blue]] 
+- “Your thoughts and consciousness impact matter,” ([Location 271](https://readwise.io/to_kindle?action=open&asin=B00B2JSRAS&location=271))
+- “Your thoughts and consciousness provide the scaffolding for your physical body” ([Location 278](https://readwise.io/to_kindle?action=open&asin=B00B2JSRAS&location=278))
+    - Tags: [[orange]] 
+- “You are connected to everything and everyone else in the universe.” ([Location 280](https://readwise.io/to_kindle?action=open&asin=B00B2JSRAS&location=280))
+    - Tags: [[pink]] 
+- “The universe is limitless, abundant, and strangely accommodating.” ([Location 287](https://readwise.io/to_kindle?action=open&asin=B00B2JSRAS&location=287))
+    - Tags: [[blue]] 
+- “You can never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete.” —BUCKMINSTER FULLER, AMERICAN FUTURIST ([Location 289](https://readwise.io/to_kindle?action=open&asin=B00B2JSRAS&location=289))
+- “Man’s chief delusion is his conviction that there are causes other than his own state of consciousness.” —NEVILLE GODDARD, BARBADIAN AUTHOR AND MYSTIC ([Location 307](https://readwise.io/to_kindle?action=open&asin=B00B2JSRAS&location=307))
+- To bring something into the physical world requires focusing not on what we see, but on what we want to see. ([Location 319](https://readwise.io/to_kindle?action=open&asin=B00B2JSRAS&location=319))
+    - Tags: [[orange]] 
+- Consequently, we activate this limitless power to follow a default program that makes no use of imagination or possibility. ([Location 340](https://readwise.io/to_kindle?action=open&asin=B00B2JSRAS&location=340))
+- The First Step in Spiritual Enlightenment: Give Up Your Powerful Attachment to Conventional Reality “We are all captives of a story.” —DANIEL QUINN, AUTHOR OF ISHMAEL ([Location 354](https://readwise.io/to_kindle?action=open&asin=B00B2JSRAS&location=354))
+    - Tags: [[orange]] 
+- “We’ve encountered an area of the universe our brains just aren’t wired to understand.” ([Location 373](https://readwise.io/to_kindle?action=open&asin=B00B2JSRAS&location=373))
+    - Tags: [[pink]] 
+- Dr. Fred Alan Wolf, ([Location 376](https://readwise.io/to_kindle?action=open&asin=B00B2JSRAS&location=376))
+    - Tags: [[blue]] 
+- It says we humans decide in advance how we’re going to experience life, that we choose beforehand what we want to see. ([Location 380](https://readwise.io/to_kindle?action=open&asin=B00B2JSRAS&location=380))
+- All we need to do to change the course of our crummy lives is to get over our ongoing grudge against the world, to actively see and expect a different reality. ([Location 382](https://readwise.io/to_kindle?action=open&asin=B00B2JSRAS&location=382))
+    - Tags: [[orange]] 
+- we only “experience” things that jibe with our very limited perception. ([Location 393](https://readwise.io/to_kindle?action=open&asin=B00B2JSRAS&location=393))
+    - Tags: [[pink]] 
+- Scientists now know the brain receives 400 billion bits of information each second. To give you some idea of just how much information that is, consider this: It would take nearly 600,000 average-size books just to print 400 billion zeros. Needless to say, that’s a heck of a lot of reality. So what do we do? We start screening. We start narrowing down. I’ll take that bit of information over there, and let’s see—this one fits nicely with my ongoing soap opera about the opposite sex. When all is said and done, we’re down to 2,000 measly bits of information. Go ahead and take a bow, because even that’s pretty impressive. We’re talking 2,000 bits of information each and every second. But here’s the problem. What we choose to take in is only one-half of one-millionth of a percent of what’s out there. ([Location 397](https://readwise.io/to_kindle?action=open&asin=B00B2JSRAS&location=397))
+    - Tags: [[blue]] 
+- Our brains continually sift through the possibilities and pick which bits of information to “see” and believe. ([Location 408](https://readwise.io/to_kindle?action=open&asin=B00B2JSRAS&location=408))
+- Out of sheer laziness, the stuff we choose to perceive—and make no mistake … it is a choice—is stuff we already know. ([Location 409](https://readwise.io/to_kindle?action=open&asin=B00B2JSRAS&location=409))
+    - Tags: [[orange]] 
+- We see, feel, taste, touch, and smell not the real world, but a drastically condensed version of the world, a version that our brains literally concoct. ([Location 410](https://readwise.io/to_kindle?action=open&asin=B00B2JSRAS&location=410))
+    - Tags: [[pink]] 
+- “People imagine they’re seeing what’s really there, but they’re not.” ([Location 412](https://readwise.io/to_kindle?action=open&asin=B00B2JSRAS&location=412))
+    - Tags: [[blue]] 
+- Once you get the pathways set up, you quit traveling the rest of the country. ([Location 416](https://readwise.io/to_kindle?action=open&asin=B00B2JSRAS&location=416))
+    - Tags: [[blue]] 
+- Get your bloody hands off my illusion! ([Location 437](https://readwise.io/to_kindle?action=open&asin=B00B2JSRAS&location=437))
+- “It takes zero faith. What it takes is imagination. … If it’s clear in your thought, it is even this moment barreling down on you like a Mack truck.” —RICHARD BACH, AUTHOR OF ILLUSIONS AND OTHER METAPHYSICAL NOVELS ([Location 439](https://readwise.io/to_kindle?action=open&asin=B00B2JSRAS&location=439))
+    - Tags: [[orange]] 
+- intent, ([Location 443](https://readwise.io/to_kindle?action=open&asin=B00B2JSRAS&location=443))
+    - Tags: [[pink]] 
+- Giving it attention adds mass. ([Location 445](https://readwise.io/to_kindle?action=open&asin=B00B2JSRAS&location=445))
+    - Tags: [[blue]] 
+- Things, in the quantum world, do not happen in steps. They happen immediately. ([Location 449](https://readwise.io/to_kindle?action=open&asin=B00B2JSRAS&location=449))
+    - Tags: [[blue]] 
+- you’re only aware of the reality you choose to observe. ([Location 451](https://readwise.io/to_kindle?action=open&asin=B00B2JSRAS&location=451))
+- I liken consciousness to a giant skyscraper. I may be living on the second floor, but the “thing” I created with my thought is up on the 17th floor. Until I can get to the 17th floor, it appears it’s still missing, that I’m still waiting. ([Location 456](https://readwise.io/to_kindle?action=open&asin=B00B2JSRAS&location=456))
+    - Tags: [[orange]] 
+- Don’t give any airtime to the reality from which you’re trying to escape. Tune in only to your intent. ([Location 461](https://readwise.io/to_kindle?action=open&asin=B00B2JSRAS&location=461))
+    - Tags: [[pink]] 
+- “We live in a world that worships limitations.” —TAMA KIEVES, AUTHOR OF THIS TIME I DANCE! ([Location 463](https://readwise.io/to_kindle?action=open&asin=B00B2JSRAS&location=463))
+    - Tags: [[blue]] 
+- It’s imperative to practice conscious, moment-by-moment awareness. ([Location 468](https://readwise.io/to_kindle?action=open&asin=B00B2JSRAS&location=468))
+- When I find my consciousness operating outside “the now,” which is unfortunately a great percentage of the time, I gently remind myself of this analogy: The UPS driver just delivered to my house every single thing I’ve ever wanted, but because I’ve left the building, I don’t even realize it. I’m out hunting for paltry substitutes. Everything is right there, once I bring my consciousness back to the timelessness of “now.” ([Location 470](https://readwise.io/to_kindle?action=open&asin=B00B2JSRAS&location=470))
+    - Tags: [[orange]] 
+- We spend so much time talking about what doesn’t work that we miss the whole point: namely, that we have the power to create something that does. ([Location 477](https://readwise.io/to_kindle?action=open&asin=B00B2JSRAS&location=477))
+    - Tags: [[pink]] 
+- Once we begin to look for what’s right, our lives begin spinning in unimaginably exciting new directions. ([Location 481](https://readwise.io/to_kindle?action=open&asin=B00B2JSRAS&location=481))
+    - Tags: [[blue]] 
+- Every “wrong” thing, which in reality is nothing but a foolhardy judgment, has a flip side. ([Location 482](https://readwise.io/to_kindle?action=open&asin=B00B2JSRAS&location=482))
+- Once you define something, you no longer question it. Once you know something, it becomes your reality. But knowing anything is exceedingly restrictive. ([Location 488](https://readwise.io/to_kindle?action=open&asin=B00B2JSRAS&location=488))
+    - Tags: [[orange]] 
+- But remember there are lots of other “floors” (that is, dimensions) and all that you “know” can block potentialities. ([Location 491](https://readwise.io/to_kindle?action=open&asin=B00B2JSRAS&location=491))
+    - Tags: [[orange]] 
+- suspend judgment ([Location 494](https://readwise.io/to_kindle?action=open&asin=B00B2JSRAS&location=494))
+    - Tags: [[pink]] 
+- “Emancipate yourself from mental slavery. None but ourselves can free our minds.” —MARCUS GARVEY, JAMAICAN POLITICAL LEADER AND MENTOR TO BOB MARLEY ([Location 500](https://readwise.io/to_kindle?action=open&asin=B00B2JSRAS&location=500))
+    - Tags: [[pink]] 
+- The reason 99.9 percent of your mind is still devoted to things you don’t want is because that’s the world’s default setting, what it defines as normal. The world’s default setting sees news about floods and earthquakes, hears stories about your second cousin’s epilepsy, and says, “See, what did I tell you?” It’s next to impossible to override the world’s default setting even though you know—at least theoretically—that another way is possible. ([Location 542](https://readwise.io/to_kindle?action=open&asin=B00B2JSRAS&location=542))
+    - Tags: [[blue]] 
+- If we simply devote our minds to feeling rich, to being grateful for all the already-apparent riches in our lives—say, our families and our wonderful friends—being broke would disappear. We only experience it because we devote our thoughts to it. That’s how powerful our minds are. ([Location 549](https://readwise.io/to_kindle?action=open&asin=B00B2JSRAS&location=549))
+- The only thing you need do is devote your mind only to things you want. If you want peace, think of peace. If you want love, think of love. ([Location 569](https://readwise.io/to_kindle?action=open&asin=B00B2JSRAS&location=569))
+    - Tags: [[blue]] 
+- So I’ll repeat the question. Is your mind trained or untrained? ([Location 577](https://readwise.io/to_kindle?action=open&asin=B00B2JSRAS&location=577))
+- “The greatest discovery and development of the coming years will be along spiritual lines. Here is a force which history clearly teaches has been the greatest power in the development of man and history, and yet we have been merely playing with it and have never seriously studied it as we have physical forces. Some day people will learn that material things do not bring happiness and are of little use in making men and women creative and powerful. Then the scientists of the world will turn their laboratories over to the study of the spiritual forces. When this day comes, the world will see more advancement in one generation than it has in the past four.” —CHARLES PROTEUS STEINMETZ, INVENTOR OF THE ALTERNATING-CURRENT MOTOR ([Location 581](https://readwise.io/to_kindle?action=open&asin=B00B2JSRAS&location=581))
+    - Tags: [[blue]] 
+- “Open your mind and clear it of all thoughts that would deceive.” ([Location 631](https://readwise.io/to_kindle?action=open&asin=B00B2JSRAS&location=631))
+    - Tags: [[blue]] 
+- And then be vigilant in receiving evidence. ([Location 632](https://readwise.io/to_kindle?action=open&asin=B00B2JSRAS&location=632))
+    - Tags: [[blue]] 
+- The important thing is, you don’t stop looking until you’re clutching them in your grubby little paws. ([Location 635](https://readwise.io/to_kindle?action=open&asin=B00B2JSRAS&location=635))
+- The will of God, for those who insist on using that term, is the ceaseless longing of the spirit in you to become all you’re capable of being. Amen. ([Location 788](https://readwise.io/to_kindle?action=open&asin=B00B2JSRAS&location=788))
+- unexpected gift. ([Location 795](https://readwise.io/to_kindle?action=open&asin=B00B2JSRAS&location=795))
+    - Tags: [[orange]] 
+- Take note of how you feel about asking the energy field for a blessing. Do you feel a bit antsy, wonder if you’re being selfish, doubt whether it’s appropriate to ask for something good? This feeling provides telling insight. Maybe you don’t believe you deserve a gift. That thought sends signals to the energy field and affects its resonance. Perhaps you think it’s only appropriate to ask for something you need. That signal, too, is being radioed to the energy field. ([Location 807](https://readwise.io/to_kindle?action=open&asin=B00B2JSRAS&location=807))
+    - Tags: [[orange]] 
+- All you have to do is spend two measly days expecting to see proof. ([Location 811](https://readwise.io/to_kindle?action=open&asin=B00B2JSRAS&location=811))
+    - Tags: [[pink]] 
+- Pick a time to start the experiment. “Now” usually works for me. 2.   Jot down the time and the date. 3.   Ask the FP to make its presence known. Ask for a blessing. If you like, repeat the “intention” or “approach” listed on the following lab report sheet. Or make up your own. ([Location 815](https://readwise.io/to_kindle?action=open&asin=B00B2JSRAS&location=815))
+    - Tags: [[blue]] 
+    - Note: 10/21/2014 8:21am.
+- That’s it. Let go. And observe. ([Location 819](https://readwise.io/to_kindle?action=open&asin=B00B2JSRAS&location=819))

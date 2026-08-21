@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">804</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6ba7e1f0-a075-4577-989c-da0c6f1a1004</dc:identifier>
+        <dc:title>Draft.indd</dc:title>
+        <dc:creator opf:file-as="Loon, Tuck" opf:role="aut">Tuck Loon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.9.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-07-29T17:01:27+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Tuck Loon&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-01-29T04:32:36.947000+00:00" name="calibre:timestamp"/>
+        <meta content="Draft.indd" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

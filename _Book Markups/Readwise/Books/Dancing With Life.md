@@ -1,0 +1,168 @@
+# Dancing With Life
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/51il71fPoTL._SL200_.jpg)
+
+## Metadata
+- Author: [[Phillip Moffitt]]
+- Full Title: Dancing With Life
+- Category: #books
+
+## Highlights
+- pariyatti ([Location 79](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=79))
+    - Tags: [[pink]] 
+- patipatti ([Location 80](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=80))
+    - Tags: [[pink]] 
+- pativedha ([Location 80](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=80))
+    - Tags: [[pink]] 
+- Mindfulness is the path to the deathless—the underlying joy and love that is consciousness without delusion. It is through the surrender of the illusory self that enlightenment is realized. ([Location 83](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=83))
+    - Tags: [[pink]] 
+- “should be understood,” ([Location 101](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=101))
+    - Tags: [[pink]] 
+- “stand under” it— ([Location 102](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=102))
+    - Tags: [[pink]] 
+- patient endurance. ([Location 103](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=103))
+    - Tags: [[pink]] 
+- nonresistance ([Location 103](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=103))
+    - Tags: [[pink]] 
+- paying noncritical attention ([Location 103](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=103))
+    - Tags: [[pink]] 
+- clinging to a memory. ([Location 110](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=110))
+    - Tags: [[pink]] 
+- The challenge for each person is to realize the insights in your life rather than merely accepting them as concepts. ([Location 116](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=116))
+    - Tags: [[pink]] 
+## New highlights added September 13, 2023 at 2:13 AM
+- these Twelve Insights will enable you to relate to your suffering in such a way that it does not define you. ([Location 322](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=322))
+    - Tags: [[pink]] 
+- the problem: ([Location 327](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=327))
+    - Tags: [[orange]] 
+- There is dukkha, which is a result of how the untrained mind reacts to ever-changing conditions (the First Noble Truth). ([Location 327](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=327))
+    - Tags: [[orange]] 
+- the cause ([Location 328](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=328))
+- Your mind falls into clinging and grasping because of wanting (the Second Noble Truth). ([Location 328](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=328))
+- the solution: ([Location 329](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=329))
+    - Tags: [[orange]] 
+- A different result is possible, which is the cessation of suffering (the Third Noble Truth). ([Location 329](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=329))
+    - Tags: [[orange]] 
+- the cause of this radically different result: ([Location 330](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=330))
+    - Tags: [[orange]] 
+- The Eightfold Path (the Fourth Noble Truth). ([Location 330](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=330))
+    - Tags: [[pink]] 
+- illness ([Location 331](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=331))
+    - Tags: [[orange]] 
+- diagnoses ([Location 331](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=331))
+    - Tags: [[orange]] 
+- cure ([Location 332](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=332))
+    - Tags: [[orange]] 
+- medicine ([Location 332](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=332))
+    - Tags: [[orange]] 
+- reflecting, ([Location 333](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=333))
+- directly experiencing, ([Location 334](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=334))
+- knowing. ([Location 334](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=334))
+- The Buddha taught that in order to completely understand a Noble Truth, you first reflect on it as a conceptual description of a general truth in life. ([Location 334](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=334))
+- When you intellectually know that a given Noble Truth is at least logical and theoretically possible, then the Buddha directs you to the second insight of each Truth. This insight requires you to consciously seek to realize the Truth. You immerse yourself in the truth and therefore experience its validity for you personally. Practicing the Second Insight for each Truth means seeking direct experience of it in your own life through mindful, compassionate awareness. ([Location 336](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=336))
+- not theoretical; ([Location 344](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=344))
+    - Tags: [[orange]] 
+- “wow” ([Location 345](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=345))
+    - Tags: [[orange]] 
+- “ouch” ([Location 345](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=345))
+    - Tags: [[orange]] 
+- knowing. ([Location 348](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=348))
+    - Tags: [[orange]] 
+- It involves mindfully integrating what you’ve just learned and felt into your daily life. People often leave this step out of their spiritual (and psychological) work, as well. And yet, without it, you are likely to lose your grasp on the Truth and return rapidly to your old habits. ([Location 349](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=349))
+    - Tags: [[orange]] 
+- “There is dukkha.” ([Location 354](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=354))
+- you’re willing to meet your suffering and view it as an opportunity for personal growth. You mindfully respond to rather than emotionally react to it. ([Location 359](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=359))
+    - Tags: [[orange]] 
+- layers of understanding and ability. ([Location 360](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=360))
+    - Tags: [[orange]] 
+- spiraling process ([Location 361](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=361))
+    - Tags: [[orange]] 
+- reflecting ([Location 370](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=370))
+    - Tags: [[orange]] 
+- directly experiencing ([Location 371](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=371))
+    - Tags: [[orange]] 
+- knowing that you know ([Location 371](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=371))
+    - Tags: [[orange]] 
+- the insights are fluid and interrelated. ([Location 376](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=376))
+    - Tags: [[orange]] 
+- Jungian psychology ([Location 383](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=383))
+    - Tags: [[orange]] 
+- Four Quartets ([Location 389](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=389))
+    - Tags: [[orange]] 
+## New highlights added September 21, 2023 at 1:38 AM
+- Other religions and methodologies (such as therapy) may offer techniques for coping with suffering and examining its origins, but they do not offer freedom from it in this manner. I ([Location 402](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=402))
+    - Tags: [[orange]] 
+- mindfulness, the ability to be fully aware in the moment. ([Location 436](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=436))
+    - Tags: [[orange]] 
+- Mindfulness enables you to go beneath the surface level of moment-to-moment life experience, which is clouded with emotions, to clearly see the truth of what is happening. ([Location 437](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=437))
+    - Tags: [[orange]] 
+- “clear comprehension” ([Location 442](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=442))
+    - Tags: [[orange]] 
+- As your practice of the Twelve Insights of the Four Noble Truths matures, the two blend together and you have less and less of a sense of separation between being meditatively mindful in daily life and practicing mindfulness in meditation. ([Location 446](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=446))
+    - Tags: [[orange]] 
+- Your mindfulness allows you not to identify with the impulses of your strong emotions or act from them. ([Location 457](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=457))
+    - Tags: [[orange]] 
+- “vicara.” ([Location 481](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=481))
+    - Note: not my undertanding. evaluation.
+- Traditionally, in vipassana meditation you use your breath initially as the object of concentration to collect and unify the mind. You typically stay with the experience of the breath as it touches the body in a single spot, such as the tip of the nose as it moves in and out, or the rise and fall of the chest, or the in-and-out movement of the belly, or the feeling of the breath in the whole body. ([Location 482](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=482))
+    - Tags: [[blue]] 
+- There are many ways to follow the breath, including counting, noticing its speed, and making mental notes of what is happening, using labels such as “in” and “out” or “rising” and “falling.” You can also learn to stay with the breath by coupling a word with each breath. ([Location 485](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=485))
+    - Tags: [[orange]] 
+- At first you won’t be able to stay with the breath, but soon you will at least be able to be with one or two breaths throughout the complete cycle of inhalation and exhalation. You will also develop the ability to notice when your mind has wandered and to firmly and gently bring it back to the breath. ([Location 489](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=489))
+    - Tags: [[blue]] 
+- When your mind starts wandering, the breath becomes your anchor to which you return in order to stabilize and focus your attention. ([Location 492](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=492))
+    - Tags: [[blue]] 
+- By repeatedly returning to the breath, you are learning to just start over. Starting over is a key step in meditation. It expresses your intention to be present, and the power of your intention is what determines your ability to be mindful in daily life. ([Location 497](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=497))
+    - Tags: [[blue]] 
+- “bare attention”— ([Location 499](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=499))
+    - Tags: [[orange]] 
+- In practicing bare attention you don’t judge the breath or think about how you might improve it. ([Location 501](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=501))
+    - Tags: [[orange]] 
+- Once you’re somewhat able to stay present with the breath, you start to open your field of attention to ever-more-subtle objects of experience that arise in the mind. This process continues until you are able to respond to all of your experiences as opportunities for mindfulness. ([Location 505](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=505))
+    - Tags: [[orange]] 
+- The four modes of investigation he prescribed are: Knowing how any experience feels in the body (First Foundation), Noting the pleasant-, unpleasant-, or neutral-feeling tone that accompanies every moment’s experience (Second Foundation), Witnessing your mental state and your emotions in the moment (Third Foundation), and finally: Opening to the impersonal truth of life that is revealed in this moment (Fourth Foundation). ([Location 509](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=509))
+    - Tags: [[orange]] 
+- In the First Foundation of Mindfulness the attention is to be focused on the body from within the body, meaning that you are not training your mind to be a distant, indifferent observer of your body; ([Location 522](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=522))
+    - Tags: [[orange]] 
+- “If the body is not mastered [by meditation], then the mind cannot be mastered, if the body is mastered, mind is mastered.”4 ([Location 527](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=527))
+    - Tags: [[orange]] 
+- “There is one thing, monks, that cultivated and regularly practiced, leads to a deep sense of urgency,…to the Supreme Peace…to mindfulness and clear comprehension,…to the attainment of right vision and knowledge,…to happiness here and now,…to realizing deliverance by wisdom and the fruition of Holiness: it is mindfulness of the body.”5 ([Location 528](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=528))
+    - Tags: [[orange]] 
+- you use the breath as an anchor to collect and unify the mind while expanding your mindfulness to an ever-greater range of experience. ([Location 536](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=536))
+    - Tags: [[orange]] 
+- You don’t try to control these sensations but simply to know them. ([Location 539](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=539))
+    - Tags: [[orange]] 
+- Developing awareness of pleasant, unpleasant, and neutral sensations and how they condition the mind is a critical factor in finding peace and well-being in your life. ([Location 542](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=542))
+    - Tags: [[orange]] 
+- After you have worked with body sensations, you are ready to work with the Third Foundation, mental events (your emotions, mental processes, and mind states), in your meditation. At first just take emotions as a field for investigation. ([Location 544](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=544))
+    - Note: more accurate is the mood of the mind. emotion is a sankhara
+- Now you are ready to examine your mental processes. You will quickly notice that the mind is almost always thinking and that much of this thinking is based on the past or future in the form of remembering, planning, fantasizing, and rehearsing. Observe each of these. ([Location 554](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=554))
+    - Tags: [[orange]] 
+- With the Fourth Foundation of Mindfulness, you see how each moment constantly changes and that most of what you take personally is actually impersonal and is not about you. ([Location 563](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=563))
+    - Tags: [[orange]] 
+- “Noting” ([Location 575](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=575))
+    - Tags: [[orange]] 
+- means that you actually feel the sensation as sensation and make a mental note that you are doing so in order to keep yourself focused. ([Location 575](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=575))
+    - Tags: [[orange]] 
+- use mental noting to keep yourself focused, ([Location 579](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=579))
+    - Tags: [[orange]] 
+- Walking meditation serves your mindfulness in many ways: It is a concentration practice that helps collect and unify your mind; it balances the energy buildup and emotional pressure that can sometimes arise in sitting meditation practice; it creates continuity of awareness; and through body-awareness you can experience insight that is just as profound as in sitting practice. ([Location 581](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=581))
+    - Tags: [[orange]] 
+- Being present or awake empowers your life. It gives you a presence that you feel and others can feel, and it opens you to the experience of being fully alive. Many ([Location 586](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=586))
+    - Tags: [[orange]] 
+- Mindfulness meditation strengthens the mind so that you can more easily be with difficult emotions or uncomfortable physical sensations that cause your mind to abandon the present moment. ([Location 590](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=590))
+    - Tags: [[pink]] 
+- Mindfulness also strengthens the nervous system such that physical and mental pains don’t have the same degree of “hurt” because the mind isn’t contracting in anticipation of more pain in the future. ([Location 591](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=591))
+    - Tags: [[orange]] 
+- Through insight you realize what brings well-being to yourself and others as well as what brings stress, discomfort, and dissatisfaction into your life. ([Location 596](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=596))
+    - Tags: [[pink]] 
+- Each insight is a direct knowing or “intuitive knowing” of the truth of your experience as contrasted with the conceptual perception, which comes from your usual way of thinking. ([Location 598](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=598))
+    - Tags: [[pink]] 
+- This direct knowing is what enables mindfulness meditation to have such impact in your life—you feel the truth of your experience, instead of conceptualizing it, reacting to it, or being lost in the past or the future. ([Location 600](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=600))
+    - Tags: [[blue]] 
+- dhamma ([Location 606](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=606))
+    - Tags: [[orange]] 
+- “truth.” ([Location 606](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=606))
+    - Tags: [[orange]] 
+- “not-self, ([Location 608](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=608))
+    - Tags: [[orange]] 

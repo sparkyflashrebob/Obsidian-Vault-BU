@@ -1,0 +1,97 @@
+# Minding Closely
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/51gvCpWEiLL._SL200_.jpg)
+
+## Metadata
+- Author: [[B. Alan Wallace]]
+- Full Title: Minding Closely
+- Category: #books
+
+## Highlights
+- desire realm ([Location 517](https://readwise.io/to_kindle?action=open&asin=B0053YMUTM&location=517))
+    - Tags: [[blue]] 
+- by applying close mindfulness to the body, feelings, mental events, and all phenomena, we observe with increasing clarity how these things actually are: ([Location 520](https://readwise.io/to_kindle?action=open&asin=B0053YMUTM&location=520))
+    - Tags: [[blue]] 
+- illusory, ([Location 521](https://readwise.io/to_kindle?action=open&asin=B0053YMUTM&location=521))
+- unreal, ([Location 521](https://readwise.io/to_kindle?action=open&asin=B0053YMUTM&location=521))
+    - Tags: [[orange]] 
+- mere designations in conventional speech. ([Location 521](https://readwise.io/to_kindle?action=open&asin=B0053YMUTM&location=521))
+    - Tags: [[pink]] 
+- The Buddha declared that mental afflictions, such as lust, anger, and delusion, are not inherent in our nature. ([Location 526](https://readwise.io/to_kindle?action=open&asin=B0053YMUTM&location=526))
+- When the mental afflictions are overcome, our true nature—which was merely obscured by these habitual misunderstandings—shines forth with unlimited benefit for ourselves and all beings. ([Location 530](https://readwise.io/to_kindle?action=open&asin=B0053YMUTM&location=530))
+- shamatha), ([Location 638](https://readwise.io/to_kindle?action=open&asin=B0053YMUTM&location=638))
+- The ordinary mind alternates between extremes of hyperactive mental activity and collapse into lethargy and sleep. ([Location 651](https://readwise.io/to_kindle?action=open&asin=B0053YMUTM&location=651))
+    - Tags: [[blue]] 
+- he stands out because he refused to take samadhi itself as the goal. ([Location 664](https://readwise.io/to_kindle?action=open&asin=B0053YMUTM&location=664))
+    - Tags: [[pink]] 
+- The Buddha’s great innovation was the unification of shamatha and vipashyana. ([Location 674](https://readwise.io/to_kindle?action=open&asin=B0053YMUTM&location=674))
+    - Tags: [[orange]] 
+- skillful means, ([Location 685](https://readwise.io/to_kindle?action=open&asin=B0053YMUTM&location=685))
+    - Tags: [[pink]] 
+- counterbalance to insight and wisdom practices. ([Location 685](https://readwise.io/to_kindle?action=open&asin=B0053YMUTM&location=685))
+    - Tags: [[pink]] 
+- mudra of meditative equipoise, ([Location 686](https://readwise.io/to_kindle?action=open&asin=B0053YMUTM&location=686))
+    - Tags: [[blue]] 
+- left hand supporting the right ([Location 687](https://readwise.io/to_kindle?action=open&asin=B0053YMUTM&location=687))
+- the tips of the two thumbs touching. ([Location 687](https://readwise.io/to_kindle?action=open&asin=B0053YMUTM&location=687))
+    - Tags: [[orange]] 
+- left hand ([Location 687](https://readwise.io/to_kindle?action=open&asin=B0053YMUTM&location=687))
+    - Tags: [[blue]] 
+- wisdom, ([Location 687](https://readwise.io/to_kindle?action=open&asin=B0053YMUTM&location=687))
+    - Tags: [[blue]] 
+- right hand ([Location 687](https://readwise.io/to_kindle?action=open&asin=B0053YMUTM&location=687))
+    - Tags: [[orange]] 
+- skillful means, ([Location 687](https://readwise.io/to_kindle?action=open&asin=B0053YMUTM&location=687))
+    - Tags: [[orange]] 
+- compassion. ([Location 688](https://readwise.io/to_kindle?action=open&asin=B0053YMUTM&location=688))
+    - Tags: [[orange]] 
+- The union of wisdom and compassion is symbolized by the touching of the thumbs. ([Location 688](https://readwise.io/to_kindle?action=open&asin=B0053YMUTM&location=688))
+    - Tags: [[blue]] 
+- loving-kindness, ([Location 690](https://readwise.io/to_kindle?action=open&asin=B0053YMUTM&location=690))
+    - Tags: [[blue]] 
+- compassion, ([Location 691](https://readwise.io/to_kindle?action=open&asin=B0053YMUTM&location=691))
+- empathetic joy, ([Location 691](https://readwise.io/to_kindle?action=open&asin=B0053YMUTM&location=691))
+    - Tags: [[orange]] 
+- equanimity. ([Location 691](https://readwise.io/to_kindle?action=open&asin=B0053YMUTM&location=691))
+    - Tags: [[pink]] 
+- spirit of awakening ([Location 691](https://readwise.io/to_kindle?action=open&asin=B0053YMUTM&location=691))
+- bodhichitta), ([Location 692](https://readwise.io/to_kindle?action=open&asin=B0053YMUTM&location=692))
+- lojong ([Location 693](https://readwise.io/to_kindle?action=open&asin=B0053YMUTM&location=693))
+    - Tags: [[blue]] 
+- techniques to transmute all experiences of felicity and adversity into sustenance for one’s spiritual growth. ([Location 695](https://readwise.io/to_kindle?action=open&asin=B0053YMUTM&location=695))
+    - Tags: [[blue]] 
+- prajña ([Location 700](https://readwise.io/to_kindle?action=open&asin=B0053YMUTM&location=700))
+    - Tags: [[blue]] 
+- intelligent discernment resulting from study, contemplation, and meditation.14 ([Location 700](https://readwise.io/to_kindle?action=open&asin=B0053YMUTM&location=700))
+- abolishment of delusion by direct realization of the nature of reality. ([Location 703](https://readwise.io/to_kindle?action=open&asin=B0053YMUTM&location=703))
+    - Tags: [[orange]] 
+- The great Middle Way ([Location 703](https://readwise.io/to_kindle?action=open&asin=B0053YMUTM&location=703))
+    - Tags: [[pink]] 
+- Nagarjuna ([Location 704](https://readwise.io/to_kindle?action=open&asin=B0053YMUTM&location=704))
+    - Tags: [[pink]] 
+- include quintessential meditations to develop insight into emptiness (Skt. shunyata) and dependent origination (Skt. pratityasamutpada). ([Location 704](https://readwise.io/to_kindle?action=open&asin=B0053YMUTM&location=704))
+    - Tags: [[pink]] 
+- A Spacious Path to Freedom,16 ([Location 709](https://readwise.io/to_kindle?action=open&asin=B0053YMUTM&location=709))
+    - Tags: [[orange]] 
+- What is the relationship between the mind and what appears to the mind? ([Location 714](https://readwise.io/to_kindle?action=open&asin=B0053YMUTM&location=714))
+    - Tags: [[blue]] 
+- What is the true nature of existence? ([Location 714](https://readwise.io/to_kindle?action=open&asin=B0053YMUTM&location=714))
+- The Buddha said that all phenomena are like a dream. ([Location 716](https://readwise.io/to_kindle?action=open&asin=B0053YMUTM&location=716))
+    - Tags: [[orange]] 
+- Becoming lucid within a dream entails realizing that you are dreaming rather than mistaking your experience for waking reality. ([Location 716](https://readwise.io/to_kindle?action=open&asin=B0053YMUTM&location=716))
+    - Tags: [[pink]] 
+- dream yoga ([Location 717](https://readwise.io/to_kindle?action=open&asin=B0053YMUTM&location=717))
+    - Tags: [[blue]] 
+- “This is the direct path,” which some have mistranslated as “This is the only path.”18 ([Location 734](https://readwise.io/to_kindle?action=open&asin=B0053YMUTM&location=734))
+- This philosophy asserts that real things are causally efficacious, while the imaginary, conceptual fluff we superimpose upon things has no causal efficacy of its own. ([Location 741](https://readwise.io/to_kindle?action=open&asin=B0053YMUTM&location=741))
+    - Tags: [[blue]] 
+- It is easy to be trapped in rationalizations, saying, “Of course, I know my brain is not me,” while behaving as though it is. ([Location 755](https://readwise.io/to_kindle?action=open&asin=B0053YMUTM&location=755))
+    - Tags: [[blue]] 
+- But when we actually observe the entire array of impersonal phenomena nakedly, without the conceptually projected body, we find that none of it is the self, I, or mine. ([Location 757](https://readwise.io/to_kindle?action=open&asin=B0053YMUTM&location=757))
+- When we see feelings nakedly, we see that they too are simply phenomena. ([Location 761](https://readwise.io/to_kindle?action=open&asin=B0053YMUTM&location=761))
+    - Tags: [[orange]] 
+- Then we will direct the searchlight of mindfulness toward the gamut of mental phenomena, investigating every possible phenomenon from the first-person perspective. When we scrutinize objective and subjective phenomena to see whether they belong to a self, are generated by a self, or constitute a self, can we find any evidence? Once again, the conclusion is no—they are simply phenomena. ([Location 762](https://readwise.io/to_kindle?action=open&asin=B0053YMUTM&location=762))
+    - Tags: [[pink]] 
+- For living organisms, pain is a powerful motivator that trumps the pursuit of happiness. ([Location 816](https://readwise.io/to_kindle?action=open&asin=B0053YMUTM&location=816))
+- The primary object of mindfulness is the space of the mind rather than its contents. ([Location 4446](https://readwise.io/to_kindle?action=open&asin=B0053YMUTM&location=4446))
+    - Tags: [[blue]] 

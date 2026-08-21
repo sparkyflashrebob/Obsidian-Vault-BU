@@ -1,0 +1,298 @@
+# The End of Your World
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/41pLJaL-4oL._SL200_.jpg)
+
+## Metadata
+- Author: [[Adyashanti]]
+- Full Title: The End of Your World
+- Category: #books
+
+## Highlights
+- Ultimately all of the images we have about ourselves and the world turn out to be nothing but a resistance to things as they are. ([Location 68](https://readwise.io/to_kindle?action=open&asin=B003418518&location=68))
+- shift in one’s perception. ([Location 76](https://readwise.io/to_kindle?action=open&asin=B003418518&location=76))
+    - Tags: [[blue]] 
+- the awakening itself is not personal. ([Location 88](https://readwise.io/to_kindle?action=open&asin=B003418518&location=88))
+    - Tags: [[blue]] 
+- Rather than the “me” waking up, what we are wakes up from the “me.” ([Location 88](https://readwise.io/to_kindle?action=open&asin=B003418518&location=88))
+    - Tags: [[pink]] 
+- What we are wakes up from the seeker. ([Location 89](https://readwise.io/to_kindle?action=open&asin=B003418518&location=89))
+- What we are wakes up from the seeking. ([Location 89](https://readwise.io/to_kindle?action=open&asin=B003418518&location=89))
+    - Tags: [[orange]] 
+- we are not capable of imagining what it is that we are. ([Location 93](https://readwise.io/to_kindle?action=open&asin=B003418518&location=93))
+- that which is watching—that ([Location 93](https://readwise.io/to_kindle?action=open&asin=B003418518&location=93))
+    - Tags: [[blue]] 
+- What we are is that which manifests as all things, as all experiences, as all personalities. ([Location 96](https://readwise.io/to_kindle?action=open&asin=B003418518&location=96))
+- this experience of awakening can be just a glimpse, ([Location 98](https://readwise.io/to_kindle?action=open&asin=B003418518&location=98))
+- or it can be sustained over time. ([Location 98](https://readwise.io/to_kindle?action=open&asin=B003418518&location=98))
+    - Tags: [[blue]] 
+- There are those who believe that, with authentic awakening, your perception opens up to the true nature of things and never closes back down again. ([Location 99](https://readwise.io/to_kindle?action=open&asin=B003418518&location=99))
+    - Tags: [[pink]] 
+- Full awakening simply means that we perceive from the perspective of Spirit—from the view of oneness—all the time. ([Location 101](https://readwise.io/to_kindle?action=open&asin=B003418518&location=101))
+    - Tags: [[orange]] 
+- The truth is anywhere and everywhere, at all times, in all dimensions, for all beings. ([Location 103](https://readwise.io/to_kindle?action=open&asin=B003418518&location=103))
+    - Tags: [[pink]] 
+- From the perspective of the ultimate, literally everything—be it at a higher or lower dimension, here or there, yesterday, today, or tomorrow, everything—is but a manifestation of Spirit. ([Location 104](https://readwise.io/to_kindle?action=open&asin=B003418518&location=104))
+- But what is experienced, if it is true awakening, is the same: all is one; we are not a particular thing or a particular someone that can be located in a particular space; what we are is both nothing and everything, simultaneously. ([Location 111](https://readwise.io/to_kindle?action=open&asin=B003418518&location=111))
+    - Tags: [[blue]] 
+- nonabiding awakening. ([Location 115](https://readwise.io/to_kindle?action=open&asin=B003418518&location=115))
+- All of a sudden that person who had previously perceived true nonduality, true oneness, is quite surprisingly now perceiving back in the dualistic “dream state.” ([Location 117](https://readwise.io/to_kindle?action=open&asin=B003418518&location=117))
+- It is not possible to imagine something outside of the dream state when our consciousness is still within it. ([Location 136](https://readwise.io/to_kindle?action=open&asin=B003418518&location=136))
+- The path after awakening, then, is a path of dissolving our remaining fixations—our hang-ups, you might say. ([Location 162](https://readwise.io/to_kindle?action=open&asin=B003418518&location=162))
+    - Tags: [[pink]] 
+- After awakening we know that the conditioning of our body-mind system is not personal; we know that it doesn’t define us. ([Location 166](https://readwise.io/to_kindle?action=open&asin=B003418518&location=166))
+- before awakening we are doing it from the perspective of separation, and after awakening we are doing it from the perspective of nonseparation. ([Location 168](https://readwise.io/to_kindle?action=open&asin=B003418518&location=168))
+    - Tags: [[pink]] 
+- question—“What do I know for certain?”—is ([Location 181](https://readwise.io/to_kindle?action=open&asin=B003418518&location=181))
+- When we are willing to step into the unknown and its inherent insecurity, and not run back to anything for cover or for ([Location 187](https://readwise.io/to_kindle?action=open&asin=B003418518&location=187))
+    - Tags: [[blue]] 
+- comfort—when we are willing to stand as if facing an oncoming wind and not wince—we can finally face our actual self. ([Location 188](https://readwise.io/to_kindle?action=open&asin=B003418518&location=188))
+- Investigating the question, “What do I know for certain?” is also an invaluable tool once awakening has happened. Asking yourself this question aids in the dissolution of limitations and ideas, as well as the tendency to fixate—all of which continue after awakening. ([Location 189](https://readwise.io/to_kindle?action=open&asin=B003418518&location=189))
+    - Tags: [[pink]] 
+- No matter where you are on the path, then, it’s this willingness to stand up within yourself and ask this question, and to be open and sincere about what you find, that is the most important thing. It’s the backbone on which the entirety of your awakening and your life after awakening depends. ([Location 191](https://readwise.io/to_kindle?action=open&asin=B003418518&location=191))
+    - Tags: [[orange]] 
+- There may be bliss with awakening, because it is actually a by-product of awakening, but it is not awakening itself. ([Location 199](https://readwise.io/to_kindle?action=open&asin=B003418518&location=199))
+- This is a problem, because many spiritual practices attempt to reproduce the by-products of awakening without giving rise to the awakening itself. ([Location 201](https://readwise.io/to_kindle?action=open&asin=B003418518&location=201))
+    - Tags: [[blue]] 
+- We must give up the pursuit of positive emotional states through spiritual practice. ([Location 206](https://readwise.io/to_kindle?action=open&asin=B003418518&location=206))
+    - Tags: [[pink]] 
+- The path of awakening is not about positive emotions. On the contrary, enlightenment may not be easy or positive at all. ([Location 206](https://readwise.io/to_kindle?action=open&asin=B003418518&location=206))
+    - Tags: [[blue]] 
+- We may experience great resistance to seeing through even those illusions that cause us a great amount of pain. ([Location 208](https://readwise.io/to_kindle?action=open&asin=B003418518&location=208))
+- It comes from a place that wants the truth more than it wants to feel good. ([Location 214](https://readwise.io/to_kindle?action=open&asin=B003418518&location=214))
+    - Tags: [[orange]] 
+- If our orientation is simply to feel better in each moment, then we’ll continue to delude ourselves, because trying to feel better in the moment is exactly how we delude ourselves. ([Location 214](https://readwise.io/to_kindle?action=open&asin=B003418518&location=214))
+- In order to awaken, we must break out of the paradigm of always seeking to feel better. ([Location 216](https://readwise.io/to_kindle?action=open&asin=B003418518&location=216))
+    - Tags: [[pink]] 
+- the impulse to awaken. ([Location 218](https://readwise.io/to_kindle?action=open&asin=B003418518&location=218))
+- The difference is that when one is truly awakened, when one has gone beyond the veil of duality, things that look different and distinct to everyone else are perceived as essentially the same. We see the chair, and at the same time we do not see ourselves as separate from the chair. Everything we see, everything we feel, everything we hear is literally a manifestation of the same thing. ([Location 235](https://readwise.io/to_kindle?action=open&asin=B003418518&location=235))
+- one of the hallmarks of a true awakening is the end of seeking. ([Location 240](https://readwise.io/to_kindle?action=open&asin=B003418518&location=240))
+    - Tags: [[blue]] 
+- Now, if it’s the abiding type of awakening, then the seeker and the seeking are completely dissolved. If, on the other hand, the awakening is of a nonabiding character, then the seeker and seeking may be in the process of being dissolved, but may not be entirely dissolved yet. Either way, this dissolution of the seeker itself can transform one’s life. For those of us on a spiritual path, our whole identity may have been wrapped up in being the seeker. Life may have literally been defined by spiritual seeking, by the yearning for God or union or enlightenment. ([Location 243](https://readwise.io/to_kindle?action=open&asin=B003418518&location=243))
+- This dropping away of the seeker can be experienced as a huge relief. ([Location 249](https://readwise.io/to_kindle?action=open&asin=B003418518&location=249))
+    - Tags: [[blue]] 
+- the honeymoon of awakening. ([Location 250](https://readwise.io/to_kindle?action=open&asin=B003418518&location=250))
+    - Tags: [[pink]] 
+- What characterizes the honeymoon period is complete flow—there is no resistance in your being, in your experience. Everything is flowing. Life is a flow; everything just seems to happen of its own volition. It is the experiential knowledge that everything is actually being done. that you as a separate entity aren’t doing anything. ([Location 256](https://readwise.io/to_kindle?action=open&asin=B003418518&location=256))
+- an experience of complete and utter nonresistance. ([Location 259](https://readwise.io/to_kindle?action=open&asin=B003418518&location=259))
+    - Tags: [[blue]] 
+- In fact, in our society it is possible to have an amazing realization on Saturday and be back in the office on Monday morning. If your mind is still blown out in bliss, this can be very disorienting! ([Location 267](https://readwise.io/to_kindle?action=open&asin=B003418518&location=267))
+    - Tags: [[pink]] 
+- The difference is that once we have seen beyond the veil of separation, identification with our particular personality begins to dissolve. ([Location 284](https://readwise.io/to_kindle?action=open&asin=B003418518&location=284))
+    - Tags: [[orange]] 
+- If we are spiritual practitioners, one of the things that we hope for is the dissolution of ego. ([Location 300](https://readwise.io/to_kindle?action=open&asin=B003418518&location=300))
+- We recognize the pain of the egoic state, and we hope we won’t be confined to it forever. ([Location 301](https://readwise.io/to_kindle?action=open&asin=B003418518&location=301))
+    - Tags: [[blue]] 
+- Awakening begins the process. The result of the awakening—its fallout or aftermath—is a radical dissolving of ego. ([Location 303](https://readwise.io/to_kindle?action=open&asin=B003418518&location=303))
+    - Tags: [[pink]] 
+- So disorientation is not necessarily inherent in the awakened view; it arises from the mind trying to find orientation. ([Location 316](https://readwise.io/to_kindle?action=open&asin=B003418518&location=316))
+    - Tags: [[pink]] 
+- Reality does not need an orientation. ([Location 317](https://readwise.io/to_kindle?action=open&asin=B003418518&location=317))
+    - Tags: [[orange]] 
+- There’s a phase in which we let go, and there does not immediately appear to arise in our consciousness a new energy that will move our lives. Of course, this energy exists and is moving through us all of the time; it is the energy of nondivision. ([Location 319](https://readwise.io/to_kindle?action=open&asin=B003418518&location=319))
+- The dream state has a gravitational force; it has the tendency to pull consciousness into itself. ([Location 333](https://readwise.io/to_kindle?action=open&asin=B003418518&location=333))
+- If we haven’t gone completely beyond this gravitational field, we’re going to be pulled back toward the experience of “me” and the perception of separateness. ([Location 336](https://readwise.io/to_kindle?action=open&asin=B003418518&location=336))
+    - Tags: [[blue]] 
+- In terms of awakening, all that matters is right here and right now. ([Location 346](https://readwise.io/to_kindle?action=open&asin=B003418518&location=346))
+- The ego does not awaken; the “me” does not awaken. We are not the ego; we are not the “me.” We are that which is awake to the ego and the “me.” ([Location 352](https://readwise.io/to_kindle?action=open&asin=B003418518&location=352))
+    - Tags: [[pink]] 
+- Before we awakened, we either believed a thought or we didn’t believe a thought; that’s all we knew. It was one or the other. But after a glimpse of awakening, things can become very strange. We may believe a thought and not believe a thought simultaneously, or we may act in a way that we know is not coming from the undivided vision that we have seen. It’s like we feel compelled by inner forces we don’t understand to behave in a way that we know is not true. ([Location 367](https://readwise.io/to_kindle?action=open&asin=B003418518&location=367))
+- If you run from this experience—if you try to solve this dilemma by running back and searching for that awake place—then you’re avoiding this part of the journey. ([Location 382](https://readwise.io/to_kindle?action=open&asin=B003418518&location=382))
+- So with awakening, the stakes go up. ([Location 391](https://readwise.io/to_kindle?action=open&asin=B003418518&location=391))
+    - Tags: [[blue]] 
+- fierce grace. ([Location 401](https://readwise.io/to_kindle?action=open&asin=B003418518&location=401))
+    - Tags: [[pink]] 
+- We know that when we act from what is not true, we ([Location 402](https://readwise.io/to_kindle?action=open&asin=B003418518&location=402))
+    - Tags: [[orange]] 
+- will only be causing ourselves pain. That knowing is a grace. ([Location 402](https://readwise.io/to_kindle?action=open&asin=B003418518&location=402))
+    - Tags: [[orange]] 
+- Reality is always true to itself. When you’re in harmony with it, you experience bliss. As soon as you are not in harmony with it, you experience pain. ([Location 403](https://readwise.io/to_kindle?action=open&asin=B003418518&location=403))
+- Reality is consistent. Argue with it, go against it, and it will hurt—every single time. It will hurt you, it will hurt others, and it will contribute to the general conflict of all beings. ([Location 405](https://readwise.io/to_kindle?action=open&asin=B003418518&location=405))
+    - Tags: [[blue]] 
+- We realize that to behave from any place other than our true nature is destructive to ourselves and, just as important, to the world and others around us. ([Location 407](https://readwise.io/to_kindle?action=open&asin=B003418518&location=407))
+    - Tags: [[pink]] 
+- conditioning ([Location 411](https://readwise.io/to_kindle?action=open&asin=B003418518&location=411))
+- karma. ([Location 411](https://readwise.io/to_kindle?action=open&asin=B003418518&location=411))
+- cause and effect. ([Location 412](https://readwise.io/to_kindle?action=open&asin=B003418518&location=412))
+- Most human beings derive their entire sense of self from their conditioning. They are literally conditioned, told, and taught who they are. If you’re good, if you’re bad, if you’re worthy or unworthy, if you’re lovable or unlovable—all this is conditioning, and all this creates a false sense of self. ([Location 422](https://readwise.io/to_kindle?action=open&asin=B003418518&location=422))
+- What makes more sense is to ask how you unenlighten yourself. What is still held on to? What is still confusing? What situations in life can get you to believe things that aren’t true and cause you to go into contradiction, suffering, and separation? What is it specifically that has the power to entice consciousness back into the gravitational field of the dream state? ([Location 445](https://readwise.io/to_kindle?action=open&asin=B003418518&location=445))
+- What is required is the willingness to let life impact you; to let yourself see when life impacts you; to see if you go into any sort of separation about it, if you go into judgment, if you go into blame, if you go into “should” or “shouldn’t,” if you start to point the finger somewhere other than at yourself. ([Location 457](https://readwise.io/to_kindle?action=open&asin=B003418518&location=457))
+    - Tags: [[blue]] 
+- It’s coming to grips with the fact that the only person who can cause us to suffer, who can cause us to misperceive illusion and separation, who has this much power, is us. ([Location 459](https://readwise.io/to_kindle?action=open&asin=B003418518&location=459))
+    - Tags: [[pink]] 
+- It’s all an inside job. ([Location 462](https://readwise.io/to_kindle?action=open&asin=B003418518&location=462))
+- So the difference here is that if we’ve really awakened, we have a much less personal relationship with all this remaining karmic conditioning. Before awakening, our own conditioning was viewed as extraordinarily personal. Our conditioning defined us. We derived a sense of self from our conditioning, from our false self, from our beliefs and opinions and desires and all the rest. Before awakening we were enmeshed in the dream state, and the dream state defined us. Once awakening has happened—if it’s real, if it’s authentic—we realize that even if illusions persist, they’re not personal, and they don’t define us. ([Location 463](https://readwise.io/to_kindle?action=open&asin=B003418518&location=463))
+    - Tags: [[blue]] 
+- When we awaken, we are no longer fueling the trance of separation; we are no longer pumping energy into it. But even if you never put your foot back on the accelerator, the car still has momentum—karmic momentum. It doesn’t immediately come to a stop in most cases. It has a diminishing momentum that slows down over time. ([Location 474](https://readwise.io/to_kindle?action=open&asin=B003418518&location=474))
+    - Tags: [[orange]] 
+- We have to watch and discover when it is that we hop back in and put our foot back on the accelerator. ([Location 477](https://readwise.io/to_kindle?action=open&asin=B003418518&location=477))
+- Every time we reidentify with conditioning or karma, ([Location 478](https://readwise.io/to_kindle?action=open&asin=B003418518&location=478))
+    - Tags: [[blue]] 
+- every time we believe a thought, ([Location 478](https://readwise.io/to_kindle?action=open&asin=B003418518&location=478))
+    - Tags: [[pink]] 
+- we are putting energy back into the dream state, putting our foot back on that accelerator. ([Location 478](https://readwise.io/to_kindle?action=open&asin=B003418518&location=478))
+    - Tags: [[orange]] 
+- What I’m getting at is that it is totally natural to seemingly be awake one moment and then seemingly be asleep the next. ([Location 485](https://readwise.io/to_kindle?action=open&asin=B003418518&location=485))
+- Fixating on the Absolute as a Way to Avoid Our Humanness ([Location 491](https://readwise.io/to_kindle?action=open&asin=B003418518&location=491))
+- What is truly holy is perceiving from wholeness. which means not being divided inside. ([Location 494](https://readwise.io/to_kindle?action=open&asin=B003418518&location=494))
+    - Tags: [[blue]] 
+- there is a strong tendency in the egoic structure to use awakening as a reason to hide from all of one’s inner divisions. ([Location 497](https://readwise.io/to_kindle?action=open&asin=B003418518&location=497))
+    - Tags: [[pink]] 
+- recognizing where we unenlighten ourselves, ([Location 499](https://readwise.io/to_kindle?action=open&asin=B003418518&location=499))
+    - Tags: [[orange]] 
+- “But there’s nobody to do that. There is no person here. The ego and person is an illusion, so there’s really no one to look inside.” ([Location 499](https://readwise.io/to_kindle?action=open&asin=B003418518&location=499))
+- “If you perceive that there is something to do, you’re deluded.” ([Location 501](https://readwise.io/to_kindle?action=open&asin=B003418518&location=501))
+    - Tags: [[blue]] 
+- get them to stop holding on to their fixation on an absolute view. ([Location 502](https://readwise.io/to_kindle?action=open&asin=B003418518&location=502))
+    - Tags: [[pink]] 
+- grasp at a lopsided view. ([Location 503](https://readwise.io/to_kindle?action=open&asin=B003418518&location=503))
+    - Tags: [[orange]] 
+- As soon as we grasp at any view, we have gone blind to everything else. ([Location 505](https://readwise.io/to_kindle?action=open&asin=B003418518&location=505))
+# The End of Your World
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/41pLJaL-4oL._SL200_.jpg)
+
+## Metadata
+- Author: [[Adyashanti]]
+- Full Title: The End of Your World
+- Category: #books
+
+## Highlights
+- Ultimately all of the images we have about ourselves and the world turn out to be nothing but a resistance to things as they are. ([Location 68](https://readwise.io/to_kindle?action=open&asin=B003418518&location=68))
+- shift in one’s perception. ([Location 76](https://readwise.io/to_kindle?action=open&asin=B003418518&location=76))
+    - Tags: [[blue]] 
+- the awakening itself is not personal. ([Location 88](https://readwise.io/to_kindle?action=open&asin=B003418518&location=88))
+    - Tags: [[blue]] 
+- Rather than the “me” waking up, what we are wakes up from the “me.” ([Location 88](https://readwise.io/to_kindle?action=open&asin=B003418518&location=88))
+    - Tags: [[pink]] 
+- What we are wakes up from the seeker. ([Location 89](https://readwise.io/to_kindle?action=open&asin=B003418518&location=89))
+- What we are wakes up from the seeking. ([Location 89](https://readwise.io/to_kindle?action=open&asin=B003418518&location=89))
+    - Tags: [[orange]] 
+- we are not capable of imagining what it is that we are. ([Location 93](https://readwise.io/to_kindle?action=open&asin=B003418518&location=93))
+- that which is watching—that ([Location 93](https://readwise.io/to_kindle?action=open&asin=B003418518&location=93))
+    - Tags: [[blue]] 
+- What we are is that which manifests as all things, as all experiences, as all personalities. ([Location 96](https://readwise.io/to_kindle?action=open&asin=B003418518&location=96))
+- this experience of awakening can be just a glimpse, ([Location 98](https://readwise.io/to_kindle?action=open&asin=B003418518&location=98))
+- or it can be sustained over time. ([Location 98](https://readwise.io/to_kindle?action=open&asin=B003418518&location=98))
+    - Tags: [[blue]] 
+- There are those who believe that, with authentic awakening, your perception opens up to the true nature of things and never closes back down again. ([Location 99](https://readwise.io/to_kindle?action=open&asin=B003418518&location=99))
+    - Tags: [[pink]] 
+- Full awakening simply means that we perceive from the perspective of Spirit—from the view of oneness—all the time. ([Location 101](https://readwise.io/to_kindle?action=open&asin=B003418518&location=101))
+    - Tags: [[orange]] 
+- The truth is anywhere and everywhere, at all times, in all dimensions, for all beings. ([Location 103](https://readwise.io/to_kindle?action=open&asin=B003418518&location=103))
+    - Tags: [[pink]] 
+- From the perspective of the ultimate, literally everything—be it at a higher or lower dimension, here or there, yesterday, today, or tomorrow, everything—is but a manifestation of Spirit. ([Location 104](https://readwise.io/to_kindle?action=open&asin=B003418518&location=104))
+- But what is experienced, if it is true awakening, is the same: all is one; we are not a particular thing or a particular someone that can be located in a particular space; what we are is both nothing and everything, simultaneously. ([Location 111](https://readwise.io/to_kindle?action=open&asin=B003418518&location=111))
+    - Tags: [[blue]] 
+- nonabiding awakening. ([Location 115](https://readwise.io/to_kindle?action=open&asin=B003418518&location=115))
+- All of a sudden that person who had previously perceived true nonduality, true oneness, is quite surprisingly now perceiving back in the dualistic “dream state.” ([Location 117](https://readwise.io/to_kindle?action=open&asin=B003418518&location=117))
+- It is not possible to imagine something outside of the dream state when our consciousness is still within it. ([Location 136](https://readwise.io/to_kindle?action=open&asin=B003418518&location=136))
+- The path after awakening, then, is a path of dissolving our remaining fixations—our hang-ups, you might say. ([Location 162](https://readwise.io/to_kindle?action=open&asin=B003418518&location=162))
+    - Tags: [[pink]] 
+- After awakening we know that the conditioning of our body-mind system is not personal; we know that it doesn’t define us. ([Location 166](https://readwise.io/to_kindle?action=open&asin=B003418518&location=166))
+- before awakening we are doing it from the perspective of separation, and after awakening we are doing it from the perspective of nonseparation. ([Location 168](https://readwise.io/to_kindle?action=open&asin=B003418518&location=168))
+    - Tags: [[pink]] 
+- question—“What do I know for certain?”—is ([Location 181](https://readwise.io/to_kindle?action=open&asin=B003418518&location=181))
+- When we are willing to step into the unknown and its inherent insecurity, and not run back to anything for cover or for ([Location 187](https://readwise.io/to_kindle?action=open&asin=B003418518&location=187))
+    - Tags: [[blue]] 
+- comfort—when we are willing to stand as if facing an oncoming wind and not wince—we can finally face our actual self. ([Location 188](https://readwise.io/to_kindle?action=open&asin=B003418518&location=188))
+- Investigating the question, “What do I know for certain?” is also an invaluable tool once awakening has happened. Asking yourself this question aids in the dissolution of limitations and ideas, as well as the tendency to fixate—all of which continue after awakening. ([Location 189](https://readwise.io/to_kindle?action=open&asin=B003418518&location=189))
+    - Tags: [[pink]] 
+- No matter where you are on the path, then, it’s this willingness to stand up within yourself and ask this question, and to be open and sincere about what you find, that is the most important thing. It’s the backbone on which the entirety of your awakening and your life after awakening depends. ([Location 191](https://readwise.io/to_kindle?action=open&asin=B003418518&location=191))
+    - Tags: [[orange]] 
+- There may be bliss with awakening, because it is actually a by-product of awakening, but it is not awakening itself. ([Location 199](https://readwise.io/to_kindle?action=open&asin=B003418518&location=199))
+- This is a problem, because many spiritual practices attempt to reproduce the by-products of awakening without giving rise to the awakening itself. ([Location 201](https://readwise.io/to_kindle?action=open&asin=B003418518&location=201))
+    - Tags: [[blue]] 
+- We must give up the pursuit of positive emotional states through spiritual practice. ([Location 206](https://readwise.io/to_kindle?action=open&asin=B003418518&location=206))
+    - Tags: [[pink]] 
+- The path of awakening is not about positive emotions. On the contrary, enlightenment may not be easy or positive at all. ([Location 206](https://readwise.io/to_kindle?action=open&asin=B003418518&location=206))
+    - Tags: [[blue]] 
+- We may experience great resistance to seeing through even those illusions that cause us a great amount of pain. ([Location 208](https://readwise.io/to_kindle?action=open&asin=B003418518&location=208))
+- It comes from a place that wants the truth more than it wants to feel good. ([Location 214](https://readwise.io/to_kindle?action=open&asin=B003418518&location=214))
+    - Tags: [[orange]] 
+- If our orientation is simply to feel better in each moment, then we’ll continue to delude ourselves, because trying to feel better in the moment is exactly how we delude ourselves. ([Location 214](https://readwise.io/to_kindle?action=open&asin=B003418518&location=214))
+- In order to awaken, we must break out of the paradigm of always seeking to feel better. ([Location 216](https://readwise.io/to_kindle?action=open&asin=B003418518&location=216))
+    - Tags: [[pink]] 
+- the impulse to awaken. ([Location 218](https://readwise.io/to_kindle?action=open&asin=B003418518&location=218))
+- The difference is that when one is truly awakened, when one has gone beyond the veil of duality, things that look different and distinct to everyone else are perceived as essentially the same. We see the chair, and at the same time we do not see ourselves as separate from the chair. Everything we see, everything we feel, everything we hear is literally a manifestation of the same thing. ([Location 235](https://readwise.io/to_kindle?action=open&asin=B003418518&location=235))
+- one of the hallmarks of a true awakening is the end of seeking. ([Location 240](https://readwise.io/to_kindle?action=open&asin=B003418518&location=240))
+    - Tags: [[blue]] 
+- Now, if it’s the abiding type of awakening, then the seeker and the seeking are completely dissolved. If, on the other hand, the awakening is of a nonabiding character, then the seeker and seeking may be in the process of being dissolved, but may not be entirely dissolved yet. Either way, this dissolution of the seeker itself can transform one’s life. For those of us on a spiritual path, our whole identity may have been wrapped up in being the seeker. Life may have literally been defined by spiritual seeking, by the yearning for God or union or enlightenment. ([Location 243](https://readwise.io/to_kindle?action=open&asin=B003418518&location=243))
+- This dropping away of the seeker can be experienced as a huge relief. ([Location 249](https://readwise.io/to_kindle?action=open&asin=B003418518&location=249))
+    - Tags: [[blue]] 
+- the honeymoon of awakening. ([Location 250](https://readwise.io/to_kindle?action=open&asin=B003418518&location=250))
+    - Tags: [[pink]] 
+- What characterizes the honeymoon period is complete flow—there is no resistance in your being, in your experience. Everything is flowing. Life is a flow; everything just seems to happen of its own volition. It is the experiential knowledge that everything is actually being done. that you as a separate entity aren’t doing anything. ([Location 256](https://readwise.io/to_kindle?action=open&asin=B003418518&location=256))
+- an experience of complete and utter nonresistance. ([Location 259](https://readwise.io/to_kindle?action=open&asin=B003418518&location=259))
+    - Tags: [[blue]] 
+- In fact, in our society it is possible to have an amazing realization on Saturday and be back in the office on Monday morning. If your mind is still blown out in bliss, this can be very disorienting! ([Location 267](https://readwise.io/to_kindle?action=open&asin=B003418518&location=267))
+    - Tags: [[pink]] 
+- The difference is that once we have seen beyond the veil of separation, identification with our particular personality begins to dissolve. ([Location 284](https://readwise.io/to_kindle?action=open&asin=B003418518&location=284))
+    - Tags: [[orange]] 
+- If we are spiritual practitioners, one of the things that we hope for is the dissolution of ego. ([Location 300](https://readwise.io/to_kindle?action=open&asin=B003418518&location=300))
+- We recognize the pain of the egoic state, and we hope we won’t be confined to it forever. ([Location 301](https://readwise.io/to_kindle?action=open&asin=B003418518&location=301))
+    - Tags: [[blue]] 
+- Awakening begins the process. The result of the awakening—its fallout or aftermath—is a radical dissolving of ego. ([Location 303](https://readwise.io/to_kindle?action=open&asin=B003418518&location=303))
+    - Tags: [[pink]] 
+- So disorientation is not necessarily inherent in the awakened view; it arises from the mind trying to find orientation. ([Location 316](https://readwise.io/to_kindle?action=open&asin=B003418518&location=316))
+    - Tags: [[pink]] 
+- Reality does not need an orientation. ([Location 317](https://readwise.io/to_kindle?action=open&asin=B003418518&location=317))
+    - Tags: [[orange]] 
+- There’s a phase in which we let go, and there does not immediately appear to arise in our consciousness a new energy that will move our lives. Of course, this energy exists and is moving through us all of the time; it is the energy of nondivision. ([Location 319](https://readwise.io/to_kindle?action=open&asin=B003418518&location=319))
+- The dream state has a gravitational force; it has the tendency to pull consciousness into itself. ([Location 333](https://readwise.io/to_kindle?action=open&asin=B003418518&location=333))
+- If we haven’t gone completely beyond this gravitational field, we’re going to be pulled back toward the experience of “me” and the perception of separateness. ([Location 336](https://readwise.io/to_kindle?action=open&asin=B003418518&location=336))
+    - Tags: [[blue]] 
+- In terms of awakening, all that matters is right here and right now. ([Location 346](https://readwise.io/to_kindle?action=open&asin=B003418518&location=346))
+- The ego does not awaken; the “me” does not awaken. We are not the ego; we are not the “me.” We are that which is awake to the ego and the “me.” ([Location 352](https://readwise.io/to_kindle?action=open&asin=B003418518&location=352))
+    - Tags: [[pink]] 
+- Before we awakened, we either believed a thought or we didn’t believe a thought; that’s all we knew. It was one or the other. But after a glimpse of awakening, things can become very strange. We may believe a thought and not believe a thought simultaneously, or we may act in a way that we know is not coming from the undivided vision that we have seen. It’s like we feel compelled by inner forces we don’t understand to behave in a way that we know is not true. ([Location 367](https://readwise.io/to_kindle?action=open&asin=B003418518&location=367))
+- If you run from this experience—if you try to solve this dilemma by running back and searching for that awake place—then you’re avoiding this part of the journey. ([Location 382](https://readwise.io/to_kindle?action=open&asin=B003418518&location=382))
+- So with awakening, the stakes go up. ([Location 391](https://readwise.io/to_kindle?action=open&asin=B003418518&location=391))
+    - Tags: [[blue]] 
+- fierce grace. ([Location 401](https://readwise.io/to_kindle?action=open&asin=B003418518&location=401))
+    - Tags: [[pink]] 
+- We know that when we act from what is not true, we ([Location 402](https://readwise.io/to_kindle?action=open&asin=B003418518&location=402))
+    - Tags: [[orange]] 
+- will only be causing ourselves pain. That knowing is a grace. ([Location 402](https://readwise.io/to_kindle?action=open&asin=B003418518&location=402))
+    - Tags: [[orange]] 
+- Reality is always true to itself. When you’re in harmony with it, you experience bliss. As soon as you are not in harmony with it, you experience pain. ([Location 403](https://readwise.io/to_kindle?action=open&asin=B003418518&location=403))
+- Reality is consistent. Argue with it, go against it, and it will hurt—every single time. It will hurt you, it will hurt others, and it will contribute to the general conflict of all beings. ([Location 405](https://readwise.io/to_kindle?action=open&asin=B003418518&location=405))
+    - Tags: [[blue]] 
+- We realize that to behave from any place other than our true nature is destructive to ourselves and, just as important, to the world and others around us. ([Location 407](https://readwise.io/to_kindle?action=open&asin=B003418518&location=407))
+    - Tags: [[pink]] 
+- conditioning ([Location 411](https://readwise.io/to_kindle?action=open&asin=B003418518&location=411))
+- karma. ([Location 411](https://readwise.io/to_kindle?action=open&asin=B003418518&location=411))
+- cause and effect. ([Location 412](https://readwise.io/to_kindle?action=open&asin=B003418518&location=412))
+- Most human beings derive their entire sense of self from their conditioning. They are literally conditioned, told, and taught who they are. If you’re good, if you’re bad, if you’re worthy or unworthy, if you’re lovable or unlovable—all this is conditioning, and all this creates a false sense of self. ([Location 422](https://readwise.io/to_kindle?action=open&asin=B003418518&location=422))
+- What makes more sense is to ask how you unenlighten yourself. What is still held on to? What is still confusing? What situations in life can get you to believe things that aren’t true and cause you to go into contradiction, suffering, and separation? What is it specifically that has the power to entice consciousness back into the gravitational field of the dream state? ([Location 445](https://readwise.io/to_kindle?action=open&asin=B003418518&location=445))
+- What is required is the willingness to let life impact you; to let yourself see when life impacts you; to see if you go into any sort of separation about it, if you go into judgment, if you go into blame, if you go into “should” or “shouldn’t,” if you start to point the finger somewhere other than at yourself. ([Location 457](https://readwise.io/to_kindle?action=open&asin=B003418518&location=457))
+    - Tags: [[blue]] 
+- It’s coming to grips with the fact that the only person who can cause us to suffer, who can cause us to misperceive illusion and separation, who has this much power, is us. ([Location 459](https://readwise.io/to_kindle?action=open&asin=B003418518&location=459))
+    - Tags: [[pink]] 
+- It’s all an inside job. ([Location 462](https://readwise.io/to_kindle?action=open&asin=B003418518&location=462))
+- So the difference here is that if we’ve really awakened, we have a much less personal relationship with all this remaining karmic conditioning. Before awakening, our own conditioning was viewed as extraordinarily personal. Our conditioning defined us. We derived a sense of self from our conditioning, from our false self, from our beliefs and opinions and desires and all the rest. Before awakening we were enmeshed in the dream state, and the dream state defined us. Once awakening has happened—if it’s real, if it’s authentic—we realize that even if illusions persist, they’re not personal, and they don’t define us. ([Location 463](https://readwise.io/to_kindle?action=open&asin=B003418518&location=463))
+    - Tags: [[blue]] 
+- When we awaken, we are no longer fueling the trance of separation; we are no longer pumping energy into it. But even if you never put your foot back on the accelerator, the car still has momentum—karmic momentum. It doesn’t immediately come to a stop in most cases. It has a diminishing momentum that slows down over time. ([Location 474](https://readwise.io/to_kindle?action=open&asin=B003418518&location=474))
+    - Tags: [[orange]] 
+- We have to watch and discover when it is that we hop back in and put our foot back on the accelerator. ([Location 477](https://readwise.io/to_kindle?action=open&asin=B003418518&location=477))
+- Every time we reidentify with conditioning or karma, ([Location 478](https://readwise.io/to_kindle?action=open&asin=B003418518&location=478))
+    - Tags: [[blue]] 
+- every time we believe a thought, ([Location 478](https://readwise.io/to_kindle?action=open&asin=B003418518&location=478))
+    - Tags: [[pink]] 
+- we are putting energy back into the dream state, putting our foot back on that accelerator. ([Location 478](https://readwise.io/to_kindle?action=open&asin=B003418518&location=478))
+    - Tags: [[orange]] 
+- What I’m getting at is that it is totally natural to seemingly be awake one moment and then seemingly be asleep the next. ([Location 485](https://readwise.io/to_kindle?action=open&asin=B003418518&location=485))
+- Fixating on the Absolute as a Way to Avoid Our Humanness ([Location 491](https://readwise.io/to_kindle?action=open&asin=B003418518&location=491))
+- What is truly holy is perceiving from wholeness. which means not being divided inside. ([Location 494](https://readwise.io/to_kindle?action=open&asin=B003418518&location=494))
+    - Tags: [[blue]] 
+- there is a strong tendency in the egoic structure to use awakening as a reason to hide from all of one’s inner divisions. ([Location 497](https://readwise.io/to_kindle?action=open&asin=B003418518&location=497))
+    - Tags: [[pink]] 
+- recognizing where we unenlighten ourselves, ([Location 499](https://readwise.io/to_kindle?action=open&asin=B003418518&location=499))
+    - Tags: [[orange]] 
+- “But there’s nobody to do that. There is no person here. The ego and person is an illusion, so there’s really no one to look inside.” ([Location 499](https://readwise.io/to_kindle?action=open&asin=B003418518&location=499))
+- “If you perceive that there is something to do, you’re deluded.” ([Location 501](https://readwise.io/to_kindle?action=open&asin=B003418518&location=501))
+    - Tags: [[blue]] 
+- get them to stop holding on to their fixation on an absolute view. ([Location 502](https://readwise.io/to_kindle?action=open&asin=B003418518&location=502))
+    - Tags: [[pink]] 
+- grasp at a lopsided view. ([Location 503](https://readwise.io/to_kindle?action=open&asin=B003418518&location=503))
+    - Tags: [[orange]] 
+- As soon as we grasp at any view, we have gone blind to everything else. ([Location 505](https://readwise.io/to_kindle?action=open&asin=B003418518&location=505))

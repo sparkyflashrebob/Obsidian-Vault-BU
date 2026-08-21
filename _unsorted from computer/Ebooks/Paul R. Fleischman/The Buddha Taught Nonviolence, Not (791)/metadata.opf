@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">791</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1ebba112-4406-4544-aaec-653f9a102733</dc:identifier>
+        <dc:title>The Buddha Taught Nonviolence, Not Pacifism</dc:title>
+        <dc:creator opf:file-as="Fleischman, Paul R. &amp; M.D." opf:role="aut">Paul R. Fleischman</dc:creator>
+        <dc:creator opf:file-as="Fleischman, Paul R. &amp; M.D." opf:role="aut">M.D.</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.9.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-05-11T22:27:23+00:00</dc:date>
+        <dc:description>"Where does complicity intersect with responsibility?" asks author Paul Fleischman in this small yet weighty essay and poem about the Buddha's teaching on nonviolence. Written in the wake of the events of September 11, 2001, it examines the prescription of the Buddha: not war, not pacifism either—but nonviolence.</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>Buddha</dc:subject>
+        <dc:subject>Dhamma</dc:subject>
+        <dc:subject>Vipassana</dc:subject>
+        <dc:subject>Meditation</dc:subject>
+        <dc:subject>S.N. Goenka</dc:subject>
+        <meta content="{&quot;M.D.&quot;: &quot;&quot;, &quot;Paul R. Fleischman&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-01-29T04:32:27.801000+00:00" name="calibre:timestamp"/>
+        <meta content="Buddha Taught Nonviolence, Not Pacifism, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

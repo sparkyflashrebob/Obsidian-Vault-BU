@@ -1,0 +1,29 @@
+
+
+- SSO by Gath Mortensen, Mike Hansen
+- Must Have - Endurance PHP Edge by Mike Hansen
+- Must Have - Endurance Page Cache by Mike Mansen
+- Must  Have - Endurance Browser Cache by Mike Hansen
+- Simple Calendar by Simple Calendar
+- PHP Compatibility Checker by WP Engine
+- PDF Embedder by Lever
+- Jetpack by Wordpress.com
+- iQ Block Country by Pascal
+- Blubrry PowerPress
+- Yoist SEO by Team Yoast
+- WP File Manger by mndsingh287
+- Wordfense Security by Wordfense
+- UpdraftPlus - Backup/Restore by Updraft Plus
+- SmartSlider 3 by Nextend
+- SiteOrigin Widgets Bundle
+- SiteOrgin CSS by SiteOrigin
+- Page Builder by SiteOrigin
+- MetaSlider by MetaSlider
+- Meta Tag Manager by Marcus Sykes
+- Media from FTP by Katsuhi Kamamori
+- MC4WP: MailChimp for WordPress by ibericode
+- Good Drive Embedder by Lever
+- Google Apps Login by Lever
+- Google Analytics For WordPress by MonsterInsights
+- Custom Twitter Feed by Smash Balloon
+- Akismet Anti-Spam by Automatic

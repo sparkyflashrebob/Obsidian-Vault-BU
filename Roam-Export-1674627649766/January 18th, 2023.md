@@ -1,0 +1,33 @@
+- [[January 18th, 2023]] at 07:29
+    - https://theconversation.com/meditation-and-mindfulness-offer-an-abundance-of-health-benefits-and-may-be-as-effective-as-medication-for-treating-certain-conditions-195276
+    - 
+- [[January 18th, 2023]] at 07:29
+    - https://www.psychologytoday.com/us/blog/understanding-ptsd/202301/5-subtle-signs-of-unprocessed-attachment-trauma
+    - 
+- [[January 18th, 2023]] at 07:30
+    - https://www.psychologytoday.com/us/blog/communications-that-matter/202107/5-ways-neuroscience-can-help-you-give-better-presentations
+    - 
+- [[January 18th, 2023]] at 07:32
+    - Black history cowboys canceled me and my involvement even though I was the director and cameraman and the chief technical person on the job no evidence I was ever a part of the job anymore
+- [[January 18th, 2023]] at 17:22
+    - Awake awareness it's likely jumped out of an airplane and there's no parachute
+- [[January 18th, 2023]] at 17:22
+    - There's no No control
+- [[January 18th, 2023]] at 17:23
+    - And then there's a realization that there's no groundy hit because everything's changed
+- [[January 18th, 2023]] at 17:23
+    - Then there And there is the royalization that there is no one who
+- [[January 18th, 2023]] at 17:24
+    - Is investigating awareness
+- [[January 18th, 2023]] at 17:24
+    - Our true nature is here and now And their strong conditioning 1st to keep us To keep us in the illusion
+- [[January 18th, 2023]] at 17:28
+    - Explore being in the depths of problems and focusing on a particular object and not feeling everything It is how we get really tight and narrow Our vision narrows down so we only see our problems
+- [[January 18th, 2023]] at 17:37
+    - And this is a bigging pudding sweep
+- [[January 18th, 2023]] at 17:41
+    - Habitually taking the mind to be somebody creating a self
+- [[January 18th, 2023]] at 17:43
+    - Learning to open to a bigger sense of self
+- [[January 18th, 2023]] at 17:43
+    - Soaking the part of the brain architecture of our brain to create a sense of self and especially a negative one when is it bad it's not good enough

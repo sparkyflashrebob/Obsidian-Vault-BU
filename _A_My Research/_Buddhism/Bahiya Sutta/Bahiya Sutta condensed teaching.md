@@ -1,0 +1,2 @@
+
+This is how you should train, Bāhiya. In what is seen, let there be just the seen. In what is heard, let there be just the heard. In what is sensed, let there be just the sensed. In what is cognized, let there be just the cognized. Then, Bāhiya, you will not be in that. When you are not in that, there is no you there. When there is no you there, then you are neither here nor there nor in between. This, just this, is the end of suffering.

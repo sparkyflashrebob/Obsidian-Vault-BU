@@ -1,0 +1,144 @@
+# When Awareness Becomes Natural
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/51NRQLkDrpL._SL200_.jpg)
+
+## Metadata
+- Author: [[Sayadaw U Tejaniya]]
+- Full Title: When Awareness Becomes Natural
+- Category: #books
+
+## Highlights
+- If we can bring both awareness and wisdom to each moment in a continuous and sustained way, then nature will take over; ([Location 135](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=135))
+    - Tags: [[pink]] 
+- The wisdom that must be present in the mind when meditating should at its most basic level be the information you will receive from reading or listening to dhamma-related topics (suttamayā paññā). ([Location 160](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=160))
+    - Tags: [[pink]] 
+- The wisdom that comes from curiosity and interest must also be present. This investigative faculty of mind (cintāmayā paññā, also called dhamma vicaya) is necessary for developing further wisdom. ([Location 161](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=161))
+    - Tags: [[blue]] 
+- Experiential wisdom (bhāvanāmaya paññā) arises out of a mindfulness practice that has both suttamayā paññā and cintāmayā paññā firmly in place. ([Location 163](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=163))
+- Wisdom, like the river, is flowing or transient and must be renewed, or it can diminish. ([Location 165](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=165))
+    - Tags: [[orange]] 
+- This renewal can only come about through the application of sati, or awareness. Without the presence of sati, no kusala (“wholesome”) mental qualities (cetasika) can be present in the mind. Wisdom, along with faith and energy (viriya), is what acts and initiates momentum into our practice. ([Location 166](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=166))
+    - Tags: [[pink]] 
+- We always start with awareness; it is that which grounds us and allows kusala mind states to arise. ([Location 173](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=173))
+    - Tags: [[blue]] 
+- kusala ([Location 174](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=174))
+    - Note: Skillful
+- When we have awareness, we also have the opportunity to learn and allow the wisdom aspect… ([Location 174](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=174))
+    - Tags: [[orange]] 
+- When the mind is balanced and strong, and awareness becomes natural, the wisdom you have acquired is always available; no… ([Location 177](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=177))
+    - Tags: [[pink]] 
+- When the observing mind gets stronger, wisdom can deal more easily with defilements (… ([Location 178](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=178))
+    - Tags: [[blue]] 
+- As wisdom grows the mind becomes purer and… ([Location 179](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=179))
+- With insight you will see it is the spirit of discovery and not the events and circumstances leading up to it… ([Location 181](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=181))
+- When insight arises you will find understanding where previously it… ([Location 183](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=183))
+    - Tags: [[orange]] 
+- Insight happens spontaneously; you cannot will it to happen. The experiences of someone leading up to an insight and the insight itself are two different things. Two people having the same experience does not mean they will both have insight. When the conditions are ripe, then insight will arise. You will have your own distinct experiences and your own distinct insights. You will then understand the vast differences between what you have heard and read of insight and the actual insight… ([Location 184](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=184))
+- However, a word of warning: an insight is… ([Location 190](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=190))
+    - Tags: [[orange]] 
+- it only lasts for the moment that it arises. What does remain alive is its potential and its quality; its… ([Location 190](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=190))
+    - Tags: [[orange]] 
+- Recalling the insight and the events leading to it will make sure the wisdom you have acquired from it will keep… ([Location 192](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=192))
+    - Tags: [[pink]] 
+- We are now seeing the activities of the mind and our experiences with fresh eyes, and we are bringing in the wisdom of a beginner’s mind: curiosity, asking how to be more raw in the moment, and not assuming that the experience is what we always assumed it… ([Location 196](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=196))
+- Wisdom can only emerge when we have enough information. How do we acquire this information? It can only come when we use awareness with interest and inquiry. When the… ([Location 202](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=202))
+    - Tags: [[blue]] 
+- One day my teacher asked, “Why is there rising and falling of the abdomen?” I knew theoretically and experientially that it was because I was breathing. My teacher then asked, “Why is there breathing?” I couldn’t answer that because it wasn’t in my experience; I didn’t know. I gave answers from the top of my head: “Because it’s natural and you want to live?” But it wasn’t experiential, and my teacher… ([Location 207](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=207))
+    - Tags: [[pink]] 
+- investigating before the answer suddenly came. It was very clear to me but very simple. When I was breathing, I could see the wanting to breathe, the intention. This is what it can take to bring about understanding—one week of investigation to see that… ([Location 211](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=211))
+    - Tags: [[pink]] 
+- In unguarded moments and in different contexts, the wrong view can still manifest and make us suffer. ([Location 218](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=218))
+    - Tags: [[blue]] 
+- You should treat wisdom as you would your life savings: invest it wisely and expect a healthy return. ([Location 220](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=220))
+    - Tags: [[orange]] 
+- When I talk about awareness, I like using words like recognize and notice; I don’t like to use words like concentrate and focus; they are too harsh. Sati means to remember, recognize, not to forget. ([Location 241](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=241))
+    - Tags: [[pink]] 
+- The innate nature of our mind is wakefulness, where nothing is created; there are no conditions, just bare awareness; we can reside in this. ([Location 243](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=243))
+    - Tags: [[blue]] 
+- The most important thing is to grow the strength of mind by being continually aware. ([Location 246](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=246))
+- When the mind becomes stronger, it will naturally do its own work. ([Location 246](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=246))
+    - Tags: [[orange]] 
+- Your work is to keep the mindfulness continuous. ([Location 248](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=248))
+    - Tags: [[pink]] 
+- When you remind yourself to be mindful or think about being mindful, then awareness is automatically there. ([Location 249](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=249))
+    - Tags: [[blue]] 
+- We are becoming mindful without expending a lot of energy, just the power of right thought. ([Location 249](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=249))
+- If the intention to be mindful is always in the background of the mind, then this is what we will eventually always come back to. ([Location 250](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=250))
+    - Tags: [[pink]] 
+- The work of meditation is done purely by the mind; that is the meditation; it is not the objects that are being known or observed that define the meditation. ([Location 255](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=255))
+    - Tags: [[pink]] 
+- In the Satipatthāna-sutta, four basic objects are mentioned: body, feelings, mind, and dhamma (nature). These objects that can be observed are always there, ever present. ([Location 256](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=256))
+    - Tags: [[orange]] 
+- What is not ever present is awareness (sati) or a mind that knows these objects; also what is not ever present is samādhi, or stability of mind. Faith in the practice (saddhā), wisdom (paññā), and right effort (viriya) are also not always present. ([Location 258](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=258))
+# When Awareness Becomes Natural
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/51NRQLkDrpL._SL200_.jpg)
+
+## Metadata
+- Author: [[Sayadaw U Tejaniya]]
+- Full Title: When Awareness Becomes Natural
+- Category: #books
+
+## Highlights
+- If we can bring both awareness and wisdom to each moment in a continuous and sustained way, then nature will take over; ([Location 135](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=135))
+    - Tags: [[pink]] 
+- The wisdom that must be present in the mind when meditating should at its most basic level be the information you will receive from reading or listening to dhamma-related topics (suttamayā paññā). ([Location 160](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=160))
+    - Tags: [[pink]] 
+- The wisdom that comes from curiosity and interest must also be present. This investigative faculty of mind (cintāmayā paññā, also called dhamma vicaya) is necessary for developing further wisdom. ([Location 161](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=161))
+    - Tags: [[blue]] 
+- Experiential wisdom (bhāvanāmaya paññā) arises out of a mindfulness practice that has both suttamayā paññā and cintāmayā paññā firmly in place. ([Location 163](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=163))
+- Wisdom, like the river, is flowing or transient and must be renewed, or it can diminish. ([Location 165](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=165))
+    - Tags: [[orange]] 
+- This renewal can only come about through the application of sati, or awareness. Without the presence of sati, no kusala (“wholesome”) mental qualities (cetasika) can be present in the mind. Wisdom, along with faith and energy (viriya), is what acts and initiates momentum into our practice. ([Location 166](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=166))
+    - Tags: [[pink]] 
+- We always start with awareness; it is that which grounds us and allows kusala mind states to arise. ([Location 173](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=173))
+    - Tags: [[blue]] 
+- kusala ([Location 174](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=174))
+    - Note: Skillful
+- When we have awareness, we also have the opportunity to learn and allow the wisdom aspect… ([Location 174](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=174))
+    - Tags: [[orange]] 
+- When the mind is balanced and strong, and awareness becomes natural, the wisdom you have acquired is always available; no… ([Location 177](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=177))
+    - Tags: [[pink]] 
+- When the observing mind gets stronger, wisdom can deal more easily with defilements (… ([Location 178](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=178))
+    - Tags: [[blue]] 
+- As wisdom grows the mind becomes purer and… ([Location 179](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=179))
+- With insight you will see it is the spirit of discovery and not the events and circumstances leading up to it… ([Location 181](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=181))
+- When insight arises you will find understanding where previously it… ([Location 183](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=183))
+    - Tags: [[orange]] 
+- Insight happens spontaneously; you cannot will it to happen. The experiences of someone leading up to an insight and the insight itself are two different things. Two people having the same experience does not mean they will both have insight. When the conditions are ripe, then insight will arise. You will have your own distinct experiences and your own distinct insights. You will then understand the vast differences between what you have heard and read of insight and the actual insight… ([Location 184](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=184))
+- However, a word of warning: an insight is… ([Location 190](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=190))
+    - Tags: [[orange]] 
+- it only lasts for the moment that it arises. What does remain alive is its potential and its quality; its… ([Location 190](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=190))
+    - Tags: [[orange]] 
+- Recalling the insight and the events leading to it will make sure the wisdom you have acquired from it will keep… ([Location 192](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=192))
+    - Tags: [[pink]] 
+- We are now seeing the activities of the mind and our experiences with fresh eyes, and we are bringing in the wisdom of a beginner’s mind: curiosity, asking how to be more raw in the moment, and not assuming that the experience is what we always assumed it… ([Location 196](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=196))
+- Wisdom can only emerge when we have enough information. How do we acquire this information? It can only come when we use awareness with interest and inquiry. When the… ([Location 202](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=202))
+    - Tags: [[blue]] 
+- One day my teacher asked, “Why is there rising and falling of the abdomen?” I knew theoretically and experientially that it was because I was breathing. My teacher then asked, “Why is there breathing?” I couldn’t answer that because it wasn’t in my experience; I didn’t know. I gave answers from the top of my head: “Because it’s natural and you want to live?” But it wasn’t experiential, and my teacher… ([Location 207](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=207))
+    - Tags: [[pink]] 
+- investigating before the answer suddenly came. It was very clear to me but very simple. When I was breathing, I could see the wanting to breathe, the intention. This is what it can take to bring about understanding—one week of investigation to see that… ([Location 211](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=211))
+    - Tags: [[pink]] 
+- In unguarded moments and in different contexts, the wrong view can still manifest and make us suffer. ([Location 218](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=218))
+    - Tags: [[blue]] 
+- You should treat wisdom as you would your life savings: invest it wisely and expect a healthy return. ([Location 220](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=220))
+    - Tags: [[orange]] 
+- When I talk about awareness, I like using words like recognize and notice; I don’t like to use words like concentrate and focus; they are too harsh. Sati means to remember, recognize, not to forget. ([Location 241](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=241))
+    - Tags: [[pink]] 
+- The innate nature of our mind is wakefulness, where nothing is created; there are no conditions, just bare awareness; we can reside in this. ([Location 243](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=243))
+    - Tags: [[blue]] 
+- The most important thing is to grow the strength of mind by being continually aware. ([Location 246](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=246))
+- When the mind becomes stronger, it will naturally do its own work. ([Location 246](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=246))
+    - Tags: [[orange]] 
+- Your work is to keep the mindfulness continuous. ([Location 248](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=248))
+    - Tags: [[pink]] 
+- When you remind yourself to be mindful or think about being mindful, then awareness is automatically there. ([Location 249](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=249))
+    - Tags: [[blue]] 
+- We are becoming mindful without expending a lot of energy, just the power of right thought. ([Location 249](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=249))
+- If the intention to be mindful is always in the background of the mind, then this is what we will eventually always come back to. ([Location 250](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=250))
+    - Tags: [[pink]] 
+- The work of meditation is done purely by the mind; that is the meditation; it is not the objects that are being known or observed that define the meditation. ([Location 255](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=255))
+    - Tags: [[pink]] 
+- In the Satipatthāna-sutta, four basic objects are mentioned: body, feelings, mind, and dhamma (nature). These objects that can be observed are always there, ever present. ([Location 256](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=256))
+    - Tags: [[orange]] 
+- What is not ever present is awareness (sati) or a mind that knows these objects; also what is not ever present is samādhi, or stability of mind. Faith in the practice (saddhā), wisdom (paññā), and right effort (viriya) are also not always present. ([Location 258](https://readwise.io/to_kindle?action=open&asin=B01IDZGT9Y&location=258))

@@ -1,0 +1,30 @@
+-   [[Five Remembrances]]
+    -   [5 remembrances buddhism - Google Search](https://www.google.com/search?q=4+remembrances+buddhism&rlz=1C1RXQR_enUS987US987&oq=4+remembrances&aqs=chrome.0.0i512j69i57j0i390l4.9811j0j15&sourceid=chrome&ie=UTF-8)
+    -   [https://en.wikipedia.org/wiki/Upajjhatthana_Sutta](https://en.wikipedia.org/wiki/Upajjhatthana_Sutta)
+    -   [Upajjhatthana Sutta - Wikipedia](https://en.wikipedia.org/wiki/Upajjhatthana_Sutta)
+        -   - Five remembrances\[[edit](/w/index.php?title=Upajjhatthana_Sutta&action=edit§ion=1 "Edit section: Five remembrances")\]
+        -   Below are two English translations and the original Pali text of the "five remembrances":
+        -   1.
+        -   I am sure to become old; I cannot avoid ageing.
+        -   I am subject to aging, have not gone beyond aging.
+        -   [Jarā](/wiki/Jaramarana "Jaramarana")dhammomhi jaraṃ anatīto....
+        -   2.
+        -   I am sure to become ill; I cannot avoid illness.
+        -   I am subject to illness, have not gone beyond illness.
+        -   Vyādhidhammomhi vyādhiṃ anatīto....
+        -   3.
+        -   I am sure to die; I cannot avoid death.
+        -   I am subject to death, have not gone beyond death.
+        -   Maraṇadhammomhi maraṇaṃ anatīto....
+        -   4.
+        -   I must be separated and parted from all that is dear and beloved to me.
+        -   I will grow different, separate from all that is dear and appealing to me.
+        -   Sabbehi me piyehi manāpehi nānābhāvo vinābhāvo....
+        -   5.
+        -   I am the owner of my actions, heir of my actions, actions are the womb (from which I have sprung), actions are my relations, actions are my protection. Whatever actions I do, good or bad, of these I shall become the heir.[\[2\]](#cite_note-2)
+        -   I am the owner of my actions, heir to my actions, born of my actions, related through my actions, and have my actions as my arbitrator. Whatever I do, for good or for evil, to that will I fall heir.[\[3\]](#cite_note-3)
+        -   [Kamma](/wiki/Karma "Karma")ssakomhi kammadāyādo kammayoni kammabandhū kammapaṭisaraṇo yaṃ kammaṃ karissāmi kalyāṇaṃ vā pāpakaṃ vā tassa dāyādo bhavissāmī....[\[4\]](#cite_note-4)
+        -   - Dhammacakkappavattana Sutta (SN 56.11)\[[edit](/w/index.php?title=Upajjhatthana_Sutta&action=edit§ion=4 "Edit section: Dhammacakkappavattana Sutta (SN 56.11)")\]
+        -   In the Buddha's first discourse, [Dhammacakkappavattana Sutta](/wiki/Dhammacakkappavattana_Sutta "Dhammacakkappavattana Sutta") ([SN](/wiki/Samyutta_Nikaya "Samyutta Nikaya") 56.11), the Buddha is recorded as defining "suffering" (dukkha) in a manner that incorporates the first four remembrances: "[Birth](/wiki/Jati_(Buddhism) "Jati (Buddhism)") is suffering, aging is suffering, sickness is suffering, death is suffering, association with the unpleasant is suffering, dissociation from the pleasant is suffering, not to receive what one desires is suffering...."[\[7\]](#cite_note-7) This formula is reiterated throughout the Pali Canon.
+        -   [[Bob Marley]] belly Full but they are hungry #addiction
+        -   [[Bob Marley]] Running Away #Ethics

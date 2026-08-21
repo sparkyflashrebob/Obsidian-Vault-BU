@@ -1,0 +1,497 @@
+# Instructions for Spiritual Living
+
+![rw-book-cover](https://m.media-amazon.com/images/I/71kLOHpPz7L._SY160.jpg)
+
+## Metadata
+- Author: [[Paul Brunton and Paul Brunton Philosophic Foundation]]
+- Full Title: Instructions for Spiritual Living
+- Category: #books
+
+## Highlights
+- stages of meditation ([Location 103](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=103))
+    - Tags: [[orange]] 
+- self-examination ([Location 103](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=103))
+    - Tags: [[orange]] 
+- wisdom in action. ([Location 104](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=104))
+    - Tags: [[orange]] 
+- the living expression of realization is a life of service both to the inner wellspring of wisdom as well as to others. ([Location 104](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=104))
+    - Tags: [[orange]] 
+- introverting attention, ([Location 106](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=106))
+- of freeing oneself for a period of time from the thoughts, sensations, and feelings that are usually at the center of our attention, ([Location 107](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=107))
+    - Tags: [[blue]] 
+- allowing the Soul to reveal itself out of the quiet that one has created. ([Location 107](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=107))
+    - Tags: [[pink]] 
+- “Self-Reliance or Discipleship?” ([Location 113](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=113))
+    - Tags: [[pink]] 
+- our lives are individual expressions of that essential wisdom, ([Location 114](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=114))
+    - Tags: [[blue]] 
+- ethical qualifications and emotional purifications ([Location 116](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=116))
+- our attachments that bar the door to our Soul and block our search for truth, ([Location 117](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=117))
+    - Tags: [[blue]] 
+- awakens our intuition. ([Location 118](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=118))
+    - Tags: [[orange]] 
+- Following intuition aligns us with our ideals, and thereby prevents us from succumbing to emotional disturbances and temptations. ([Location 119](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=119))
+- Realization requires the surrender of egoistic fixations so that we may attend to the inspiration flowing from within, ([Location 119](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=119))
+    - Tags: [[blue]] 
+- mystical meditation ([Location 122](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=122))
+    - Tags: [[orange]] 
+- transcendental insight ([Location 123](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=123))
+    - Tags: [[pink]] 
+- “lover of Truth/Reality”). ([Location 125](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=125))
+    - Tags: [[pink]] 
+- personality is rooted in a deeper, wider being—the Overself. ([Location 126](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=126))
+    - Tags: [[orange]] 
+- But they do not discover the significance of the not-self. ([Location 127](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=127))
+    - Tags: [[pink]] 
+- comprehension of the All. ([Location 127](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=127))
+    - Tags: [[pink]] 
+- the philosopher walks in perpetual light and not in intermittent flashes of light as does the mystic. ([Location 128](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=128))
+- The philosophic knowledge is a well-established one, whereas the mystic knowledge is an occasional one. ([Location 129](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=129))
+    - Tags: [[blue]] 
+- compassionate wisdom in action ([Location 131](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=131))
+    - Tags: [[pink]] 
+- altruistic service, ([Location 133](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=133))
+    - Tags: [[orange]] 
+## New highlights added June 13, 2023 at 7:45 AM
+- IT HAS BEEN CUSTOMARY for learned professors of the metaphysics of psychology to teach that consciousness always implies a relation to an object because it is always directed toward something. While this is true, it is true only of the level of ordinary experience. It is no longer true on the level of the highest type of mystical experience. ([Location 151](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=151))
+    - Tags: [[pink]] 
+- consciousness can exist without any relation at all for it can be directed toward its own self. ([Location 153](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=153))
+    - Tags: [[orange]] 
+- This is the one experience that occurs in the mind and that possesses absolutely no correlation with, nor determination by, what is happening in, to, or outside the body at the same time. ([Location 154](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=154))
+- falsity of the materialistic view. ([Location 155](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=155))
+    - Tags: [[orange]] 
+- “unknown mode of being,” ([Location 156](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=156))
+- We have not yet attained true self-consciousness; we live too completely on the lower level of our existence for that. ([Location 157](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=157))
+    - Tags: [[blue]] 
+- He or she is like ourselves but has had the vision and patience to follow up an act of faith with a long-drawn series of active experiments to test the truth of that faith. ([Location 164](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=164))
+    - Tags: [[blue]] 
+- If one individual has touched this higher consciousness, all may touch it. ([Location 165](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=165))
+    - Tags: [[orange]] 
+- The prerogative is not exclusive but inclusive, not personal but common. ([Location 165](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=165))
+    - Tags: [[orange]] 
+- second self, ([Location 167](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=167))
+    - Tags: [[orange]] 
+- meditation, which is the art of introverting attention, ([Location 175](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=175))
+    - Tags: [[orange]] 
+- The introverted consciousness, turned away from the five sense activities to contemplate itself, ([Location 176](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=176))
+    - Tags: [[orange]] 
+- first feels the presence and later becomes aware of the Divine Mind behind it. ([Location 177](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=177))
+    - Tags: [[pink]] 
+## New highlights added June 13, 2023 at 1:45 PM
+- power of introspection, ([Location 186](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=186))
+    - Tags: [[orange]] 
+- Whoever, by steady practice, has succeeded with the processes of meditation, becomes a living testimony to its indubitable worth. ([Location 187](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=187))
+- introduce a new rhythm into our life, ([Location 190](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=190))
+    - Tags: [[orange]] 
+- which will eventually assist us in every imaginable way, ([Location 190](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=190))
+- which will make possible the improvement of our character and capacity, our ethics and consciousness, ([Location 190](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=190))
+    - Tags: [[pink]] 
+- our understanding and peace, ([Location 191](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=191))
+- our intuition ([Location 191](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=191))
+    - Tags: [[blue]] 
+- sometimes even our fortune. ([Location 191](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=191))
+    - Tags: [[orange]] 
+- THE FOUNDATIONS OF MEDITATIVE PRACTICE ([Location 198](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=198))
+- The need for solitude and time to cultivate the inner life, in both its metaphysical and mystical phases, is the first imperative. Solitude is needed because the presence of others definitely disturbs the emptying process. Time is needed because the mind is habitually filled with thoughts of the outer world; it is essential to totally empty the mind of thoughts for a while—regularly, habitually, and deliberately. ([Location 202](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=202))
+    - Tags: [[orange]] 
+- If the one requirement develops partly out of the aspirant’s need to be able to concentrate thought without interruption, it also develops partly from the restless mental auras that most people carry about with them. ([Location 206](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=206))
+    - Tags: [[pink]] 
+- Perhaps their terror of solitude arises because it makes them conscious of the spiritual aimlessness and intellectual vacuity of their sojourn on earth. ([Location 208](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=208))
+- The fear of being alone simply means that one has no inner life at all. ([Location 209](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=209))
+    - Tags: [[blue]] 
+- The mystic who has learned the art of creative solitude can hear a mental voice in its inner silence. Thus for him or her the loneliness that is maddening for some is enlightening. ([Location 211](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=211))
+- bodily still and mentally quiet. ([Location 214](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=214))
+    - Tags: [[orange]] 
+- It is needful periodically to put aside the things of time so as to seek the timeless, to isolate ourselves from the outward world so as to seek an inward one. The psychological purpose of such isolation is to create a new habit and a new attitude. The habit is meditation. The attitude is introversion. ([Location 217](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=217))
+    - Tags: [[pink]] 
+- It will take some time for the mental agitation created by getting immersed in worldly business or personal affairs to subside. Until this happens, the aspirant cannot proceed with the positive work of meditation but rather must engage in the merely negative task of clearing out those distracting memories. ([Location 240](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=240))
+    - Tags: [[orange]] 
+- This is one reason why in the East the morning period is recommended for such practice. At the beginning of the day one’s thoughts and emotions are still undisturbed; hence withdrawal into one’s center is then easier. ([Location 242](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=242))
+- they use it to sink more strongly into attachment to external things ([Location 305](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=305))
+    - Tags: [[pink]] 
+- The mystic’s effort should be to penetrate more and more into his or her own conscious being. ([Location 311](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=311))
+    - Tags: [[orange]] 
+## New highlights added August 12, 2023 at 12:06 PM
+- the practice of mental introversion, or meditation, is quite essential on this quest. ([Location 177](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=177))
+    - Tags: [[blue]] 
+- This tantalizing situation imposes a restlessness and disquiet upon our feelings, which will never be assuaged unless and until we take to the quest. ([Location 179](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=179))
+    - Tags: [[pink]] 
+- If we would be inspired by the Spirit at all times and in all places, we must first let it inspire us at set times and in set places. ([Location 180](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=180))
+- For all inspiration rises out of the inward deeps of our nature. ([Location 181](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=181))
+    - Tags: [[blue]] 
+- We cannot compel it, but we can invite it. ([Location 182](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=182))
+    - Tags: [[pink]] 
+- All ordinary concentration concerns the form side of life, not its essence ([Location 314](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=314))
+    - Tags: [[orange]] 
+- Mystics may not indeed possess a greater concentration than others are able to show at their best, but by giving it inward direction they use it to detach themselves from externals, to weaken their belief in Matter’s reality, and to become spiritually self-aware. The antennae of their minds must reach out toward ([Location 315](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=315))
+- that which as yet they can neither feel nor see. This first movement in the mystical exploration of the human consciousness is the sense in which philosophy uses the word concentration. ([Location 317](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=317))
+- the first working principle of yoga is the diversion of attention and interest from outward things to an idea, a feeling, a series of thoughts, or a mental image, which fill the void thus created. When thoughts are continually fastened to the senses, they keep up a restless rhythm of attraction and repulsion, of pleasure and pain, which imposes itself between us and stable peace. These minutes of mental quiet must be consecrated to suppressing the outgoing direction of thoughts, to turning them inward, and finally to interning them in their ineffable source. ([Location 324](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=324))
+    - Tags: [[orange]] 
+- In your innermost being you are already as divine as you are ever likely to be. Hence, no interior training can give you what you already possess, but a suitable training can help to give you the consciousness of what you possess. ([Location 328](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=328))
+    - Tags: [[pink]] 
+- No practical system can develop a Soul for you, for it is already there, but an adequate system can lead… ([Location 330](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=330))
+    - Tags: [[blue]] 
+- among the meditation exercises that must necessarily stand foremost in such a system, no single one is… ([Location 331](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=331))
+- There is no universal formula for the practice of meditation suited to all… ([Location 332](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=332))
+    - Tags: [[blue]] 
+- It is not advantageous to aspirants to repose in the bed of one formula during their whole lifetime. The philosophic ideals of a balanced development and an equilibrated personality would alone forbid it. On the contrary, they will find it necessary to use… ([Location 332](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=332))
+    - Tags: [[pink]] 
+- The mystical course passes through a spiral-like ascending rhythm so that if, for instance, we began by meditating on defects of character and later dropped that for a more abstract topic, we will one day return to our former practice again, but this time it will be from a… ([Location 335](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=335))
+    - Tags: [[orange]] 
+- All these exercises have one and the same objective. All are approaches to one and the… ([Location 338](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=338))
+    - Tags: [[blue]] 
+- We must smile indulgently at those who insist that their particular method is the only effective one, as we must smile tolerantly also at those who limit truth to their small conception of it. Philosophy does not say that the aspirant should not follow such a method, but that we should not follow it to the exclusion of all others. A method or technique that is good for one person may not be good for another. And the methods that well suited the ancient mind may… ([Location 340](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=340))
+    - Tags: [[blue]] 
+- four indispensable… ([Location 344](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=344))
+    - Tags: [[pink]] 
+- First, our labor must seek to eliminate all thoughts except the… ([Location 344](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=344))
+    - Tags: [[orange]] 
+- Second, the more interested we become in what we are thinking of—yes, even the more excited we become about it—the more… ([Location 345](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=345))
+- Third, the concentration must pass from thinking about its chosen object in a logical way to entering into the… ([Location 346](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=346))
+    - Tags: [[pink]] 
+- Fourth, if the first step is to get a thorough grip on our thoughts and feelings, that is to achieve concentration, then the second step is to elevate them above all worldly activities and desires, that is, to achieve meditation. That meditation begins well that begins by fervent prayer or ardent worship. We must approach the divine withinness of our own Self… ([Location 347](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=347))
+    - Tags: [[orange]] 
+- Real meditation is an intuitive… ([Location 351](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=351))
+    - Tags: [[pink]] 
+- But the tensions that prevail in the mind usually prevent this intuition from being felt, and still more, from… ([Location 351](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=351))
+    - Tags: [[orange]] 
+- we are going to carry on with the same thoughts, the same cares, and the same hopes that preoccupied our busy hours, we might as well continue with what… ([Location 352](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=352))
+    - Tags: [[pink]] 
+- The first advantage—as it is the first necessity—of meditation is that it shall concern itself with something entirely different. It must lift us out of the stream of personal life. It must, in… ([Location 353](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=353))
+    - Tags: [[blue]] 
+- Hence, we must begin to meditate by withdrawing our thoughts from our own affairs and those of the world, fixing them instead on the… ([Location 355](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=355))
+- When we enter the meditation chamber, we should let the door shut completely not only on the outside world but also on that inside world where trivialities, routine, business affairs, angers, resentments, irritations, and passions are native… ([Location 358](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=358))
+    - Tags: [[orange]] 
+## New highlights added August 23, 2023 at 8:06 PM
+- We will gain more by exercises regularly practiced over a period of, say, six months, than by the same exercises done in fits and starts over the same period. ([Location 223](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=223))
+- The rule about selecting a time before meals for meditation does not apply to advanced students. ([Location 236](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=236))
+    - Tags: [[orange]] 
+- if on any particular day the fatigue becomes intolerable, then also it will be better to abandon ([Location 249](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=249))
+    - Tags: [[pink]] 
+- practice for that day. ([Location 250](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=250))
+    - Tags: [[pink]] 
+- the intuitive call to abandon every physical labor and every intellectual activity will recur again and again. We should obey it. ([Location 251](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=251))
+    - Tags: [[pink]] 
+- Although no universally tenable duration may wisely be fixed, for it will always depend on individual circumstances and personal aptitudes, nevertheless it may be said that in most cases full and perfect concentration for two-and-a-half minutes, or full and perfect meditation for forty-two minutes, is quite enough. The preliminaries of clearing all distracting thoughts out of the mind are not included in these figures. Advanced practitioners who are able to enter the third degree, contemplation, are by the tradition of the hidden teaching—both in their own and in society’s interests—advised to limit this delightful experience to twenty-six minutes. ([Location 254](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=254))
+    - Tags: [[orange]] 
+- what happens inwardly in mind and heart is more important than mere outward activity. ([Location 288](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=288))
+    - Tags: [[blue]] 
+- The real value of cleanliness lies in removing a possible hindrance from mental concentration during prayer. ([Location 292](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=292))
+    - Tags: [[orange]] 
+- The more we can quieten our body and keep it from fidgeting, the better our concentration will become and the sooner its development will proceed. Comfortably seated, adequately relaxed, with nerves and muscles tension-free, our f leshy house must be kept as still as its mental tenant will, in the highest stage, one day likewise be. ([Location 296](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=296))
+    - Tags: [[pink]] 
+- and, quite often, into the belief that Matter is a reality. ([Location 305](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=305))
+    - Tags: [[orange]] 
+- The one is usually animated by a desire to retain or increase earthly possessions, the other by a desire for the Higher Self… ([Location 307](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=307))
+- The one clings throughout to the intellect’s working; the other is glad to let it lapse entirely into… ([Location 308](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=308))
+    - Tags: [[blue]] 
+- The one is concentrating on external things of which he or she can form concrete mental images; the other is concentrating on abstract concepts that eventually rise to the imageless plane. That is, the one often extroverts the mind and… ([Location 309](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=309))
+    - Tags: [[pink]] 
+- The mystic’s effort should be to penetrate more and more into his or her… ([Location 311](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=311))
+    - Tags: [[orange]] 
+- On the one hand, we have to strain continually to let go of our earthly self and forget it. On the other hand, we have to strain equally hard to take hold of our Higher Self and… ([Location 312](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=312))
+    - Tags: [[pink]] 
+- All ordinary concentration concerns the form side of life,… ([Location 314](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=314))
+    - Tags: [[orange]] 
+- Mystics may not indeed possess a greater concentration than others are able to show at their best, but by giving it inward direction they use it to detach themselves from externals, to weaken their belief in Matter’s reality, and to become… ([Location 315](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=315))
+- that which as yet they can neither feel nor see. This first movement in the mystical exploration of the human consciousness is the sense in which… ([Location 317](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=317))
+- When the mind stops working, the senses automatically follow into inactivity. When the mind’s power is completely stilled, as in sleep, we cannot see, hear, feel, taste, or smell. Hence, mentalism says that the mind is the real experiencing agent. Mysticism takes advantage of this scientific fact to evolve a technique whereby thoughts may be brought under full control or even suspended, the sense-reports dimmed or even banished, but yet the mind’s power of self-consciousness may be kept alive. The outgoing tendencies of the self are called in through a deliberate effort of… ([Location 319](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=319))
+    - Tags: [[pink]] 
+- the first working principle of yoga is the diversion of attention and interest from outward things to an idea, a feeling, a series of thoughts, or a mental image, which fill the void thus created. When thoughts are continually fastened to the senses, they keep up a restless rhythm of attraction and repulsion, of pleasure and pain, which imposes itself between us and stable peace. These minutes of mental quiet must be consecrated to suppressing… ([Location 324](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=324))
+    - Tags: [[orange]] 
+- In your innermost being you are already as divine as you are ever likely to be. Hence, no interior training can give you what you already possess, but a suitable training can help to… ([Location 328](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=328))
+    - Tags: [[pink]] 
+- we are going to carry on with the same thoughts, the same cares, and the same hopes that preoccupied our busy hours, we might as well continue with what we were doing before the meditation hour. ([Location 352](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=352))
+    - Tags: [[pink]] 
+- The first advantage—as it is the first necessity—of meditation is that it shall concern itself with something entirely different. It must lift us out of the stream of personal life. It must, in short, start and end with one theme: the Overself. ([Location 353](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=353))
+    - Tags: [[blue]] 
+- Hence, we must begin to meditate by withdrawing our thoughts from our own affairs and those of the world, fixing them instead on the object of our quest—the Overself. ([Location 355](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=355))
+- When we enter the meditation chamber, we should let the door shut completely not only on the outside world but also on that inside world where trivialities, routine, business affairs, angers, resentments, irritations, and passions are native inhabitants. Equally so, we should let the past go and disdain the future. ([Location 358](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=358))
+    - Tags: [[orange]] 
+- It often happens that failure in meditation is caused by this failure to detach thoughts from the personal affairs of everyday routine. The first remedy is to choose a theme that in itself holds sufficient interest to keep our thoughts tethered to it. The second remedy is rigidly to transfer attention back to this theme every time we become aware of having strayed. ([Location 365](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=365))
+    - Tags: [[pink]] 
+- In theory, the attention ought not to deviate for a single second from the thought upon which it is being held. ([Location 369](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=369))
+- These distractions are so persistent and so troublesome that they drive many, if not most, beginners into hopeless despair or utter boredom, and so ultimately drive them away from meditation exercises altogether. ([Location 375](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=375))
+- even such periods are not really wasted but teach humility and patience. ([Location 390](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=390))
+    - Tags: [[pink]] 
+## New highlights added August 24, 2023 at 10:06 PM
+- extroverted mentality, ([Location 391](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=391))
+    - Tags: [[orange]] 
+- inner resistance of a turbulent mentality—although ([Location 392](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=392))
+    - Tags: [[orange]] 
+- also the added resistance of alien thought conditions and emotional strains temporarily “picked up” during the day’s contacts and meetings with others. ([Location 392](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=392))
+- All these resistances evoke shadows of depression, even despair, but they can be overcome by using the sword of patience to pierce them. ([Location 394](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=394))
+    - Tags: [[blue]] 
+- unless they can bear the fatigue no longer, they should not impatiently abandon the practice on that occasion as being useless, but should persist—trying the effect of a prayer to the Higher Self to come to their help. ([Location 395](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=395))
+    - Tags: [[pink]] 
+- Few of those who sit down to unroll the colored carpet of meditation really succeed in entering the state of mental quiet. ([Location 398](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=398))
+    - Tags: [[orange]] 
+- The struggle to keep the attention fixed during the preliminary part of a meditation period is intense. ([Location 399](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=399))
+- Yet the more they attempt it, the easier it certainly will become in time. ([Location 400](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=400))
+    - Tags: [[blue]] 
+- The disciple should recognize that, just as it often takes a certain period of time satisfactorily to embark on some intellectual work, so it takes a certain time to get started with this spiritual work. ([Location 400](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=400))
+    - Tags: [[pink]] 
+- Only the adept in meditation can obtain immediate results; all others need to work their way gradually toward this goal. ([Location 402](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=402))
+    - Tags: [[orange]] 
+- we should not look for quick results. ([Location 404](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=404))
+    - Tags: [[orange]] 
+- We must cheer ourselves with the thought that the reward of perseverance is expertness, ([Location 404](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=404))
+- but until then we must learn to wait and work for the agitated mentality to collect and calm itself and stop its whirl of themes and thoughts. ([Location 405](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=405))
+    - Tags: [[blue]] 
+- We must remind ourselves that if the practice of meditation is most difficult, it is also most essential; that without this unremitting practice being incorporated into our everyday life, it is not possible to succeed in either detaching ourselves from earthly desires or attaching ourselves to the Overself. ([Location 406](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=406))
+## New highlights added August 26, 2023 at 1:09 PM
+- inner resistance of a turbulent… ([Location 392](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=392))
+    - Tags: [[orange]] 
+- also the added resistance of alien thought conditions and emotional strains temporarily “picked up” during the day’s… ([Location 392](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=392))
+- All these resistances evoke shadows of depression, even despair, but they can be overcome by using the sword… ([Location 394](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=394))
+    - Tags: [[blue]] 
+- unless they can bear the fatigue no longer, they should not impatiently abandon the practice on that occasion as being useless, but should persist—trying the effect of a… ([Location 395](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=395))
+    - Tags: [[pink]] 
+- Few of those who sit down to unroll the colored carpet of meditation really succeed in entering… ([Location 398](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=398))
+    - Tags: [[orange]] 
+- The struggle to keep the attention fixed during the preliminary part of a… ([Location 399](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=399))
+- Yet the more they attempt it, the easier it certainly will… ([Location 400](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=400))
+    - Tags: [[blue]] 
+- The disciple should recognize that, just as it often takes a certain period of time satisfactorily to embark on some intellectual work, so it takes a certain… ([Location 400](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=400))
+    - Tags: [[pink]] 
+- Only the adept in meditation can obtain immediate results; all others need to work their way… ([Location 402](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=402))
+    - Tags: [[orange]] 
+- we should not look for quick… ([Location 404](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=404))
+    - Tags: [[orange]] 
+- We must cheer ourselves with the thought that the reward of… ([Location 404](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=404))
+- but until then we must learn to wait and work for the agitated mentality to collect and calm itself and stop its… ([Location 405](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=405))
+    - Tags: [[blue]] 
+- We must remind ourselves that if the practice of meditation is most difficult, it is also most essential; that without this unremitting practice being incorporated into our everyday life, it is not possible to succeed in either detaching… ([Location 406](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=406))
+- If the commonplace qualities of patience and perseverance have any value… ([Location 409](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=409))
+    - Tags: [[blue]] 
+- long a time. All the powerful and predominant tendencies that make both the movement of thoughts and the externalization of attention the ingrained habits that they really are, assail us and draw us back to the common enslaved… ([Location 412](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=412))
+    - Tags: [[pink]] 
+- Our duty is to summon our inner strength to resist the return of these thoughts and to repel the intrusion of… ([Location 414](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=414))
+    - Tags: [[orange]] 
+- the introverted state must be sustained, not in a violent nor self-conscious way but in an… ([Location 415](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=415))
+    - Tags: [[blue]] 
+- Many beginners make the error of believing that the result, if any, of each individual meditation must necessarily show itself at the time of practice, and of assuming that because the end of a meditation leaves them as they were at the beginning, because it seems barren,… ([Location 417](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=417))
+- This is not so, for the result may show itself a little later and the effort is not wasted; it is only that the profit has not appeared… ([Location 419](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=419))
+- Just as we do not discard a mirror because we cannot see our face in it the first time we look, but rub and polish it again and again until we do, so should we not discard the regular practice of meditation because we do not see our… ([Location 422](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=422))
+- To hush the outgoing energies of the body, to stand aside from the active functioning of the senses, and to bid the waves of thought be still, is a task that naturally calls… ([Location 424](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=424))
+- The hour will eventually arrive when we will no longer have to try to meditate; meditation will come to us of itself, facilely and smoothly. ([Location 434](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=434))
+- The proficient’s internal tension disappears and the whole being becomes well poised, harmoniously relaxed. ([Location 436](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=436))
+    - Tags: [[orange]] 
+- the long, monotonous, tiring fight against the wandering tendencies of the intellect; ([Location 438](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=438))
+- second, the shorter and easier struggle to maintain and prolong concentrative power once it is developed; ([Location 439](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=439))
+    - Tags: [[orange]] 
+- third, the effortless triumph of habitual practice finally making expertness a natural phenomenon. ([Location 440](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=440))
+    - Tags: [[pink]] 
+- The firmness with which we hold the single idea of finding the Divine Self within and the immediacy with which we return to its quest when we become aware of having deviated from it, will mark the end of the first stage with any exercise. ([Location 440](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=440))
+    - Tags: [[blue]] 
+- If the first stage of concentrated attention inwardly directed upon the mind itself is successfully achieved, the second stage will then be to prolong it. The second stage has been satisfactorily achieved when the practice is resumed with pleasure and discontinued with reluctance, when the mind is able to concentrate and withdraw inward within a minute or two of sitting down. We may arrive at such an expertness that we will be able to pass at once with ease, and at will, into the first and then the second stages of meditation. ([Location 442](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=442))
+    - Tags: [[orange]] 
+- the decrease of distraction will correspondingly delight us. ([Location 447](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=447))
+    - Tags: [[pink]] 
+- Shorter and shorter will become the waiting preliminary period during which thoughts, memories, anticipations, emotions, and agitations aroused by our external life manifest themselves and prevent perfect concentration or delay inward self-absorption. ([Location 448](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=448))
+    - Tags: [[blue]] 
+- Anyone who is already well advanced on the quest always finds the meditation time a joyous tryst with the beloved, whereas one who is taking his or her first steps often finds it an irksome meeting with boredom. ([Location 449](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=449))
+- The novice moves reluctantly and unwillingly to the self-commanded duty of daily meditation on the Higher Self. The proficient, who has conquered the technique, moves joyfully and eagerly to this God-blessed gift of daily communion with the Higher Self. ([Location 451](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=451))
+    - Tags: [[pink]] 
+- It has passed from the stage of being a drudgery ([Location 452](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=452))
+    - Tags: [[orange]] 
+- to that of being a privilege. ([Location 453](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=453))
+    - Tags: [[orange]] 
+- In the fully developed meditative life there is ease, naturalness, and stability. ([Location 453](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=453))
+- The difference between a restless mind and a disciplined one is like the difference between mere chatter and good conversation. ([Location 454](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=454))
+    - Tags: [[orange]] 
+- Some have to dig far and long before water appears, therefore we should push our search deeper down. ([Location 456](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=456))
+    - Tags: [[blue]] 
+- The troublesome temptation to get up and stop the effort before the full time allotted for meditation is over occasionally becomes overpowering. But to yield to it is to accept defeat. ([Location 464](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=464))
+    - Tags: [[blue]] 
+- To resist it is to cut a further length of the road to victory. Or, the temptation to get up and do this or that, to think about some other matter—even a spiritual concern—will also come insistently. We must remain firm and not yield to it. This is hard to do, but only because we have for so long—for a whole lifetime probably—allowed our attention to become absorbed by the outer world that it now tends naturally to fly back there the instant our vigilance ceases. ([Location 465](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=465))
+    - Tags: [[pink]] 
+- We have now reached the most critical and most important part of our adventure in meditation. It is the borderline where our own effort must gradually cease and the Soul’s effort must commence. ([Location 470](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=470))
+    - Tags: [[pink]] 
+- We must keep still in every way. ([Location 473](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=473))
+    - Tags: [[orange]] 
+- the slightest obstruction causes its instant withdrawal. ([Location 475](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=475))
+    - Tags: [[pink]] 
+- From being positive, we must now become passive. The profound mystery of grace is involved here. ([Location 475](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=475))
+    - Tags: [[orange]] 
+- The psychological condition of this degree is quite involuntarily induced, whereas those of the earlier degrees cannot arise without willed endeavor. ([Location 476](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=476))
+    - Tags: [[pink]] 
+- Although it is a power outside of our ordinary self, somehow it is also a power not separate from that self. ([Location 478](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=478))
+    - Tags: [[blue]] 
+- The effect of this grace is a mighty one. With every influx of it we feel a change coming over us, although this change may take a variety of forms. But whatever the form, the strain that accompanied our earlier essays in concentration comes to an end and the struggles through which we then labored will no more vex us. ([Location 479](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=479))
+    - Tags: [[pink]] 
+- We have to feel our way into this higher mood much as the artist has to feel his or her own way into a creative mood. ([Location 481](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=481))
+    - Tags: [[orange]] 
+- If we faithfully follow these instructions and diligently perform these exercises, we will sooner or later become conscious of this subtle presence within our own mental atmosphere. ([Location 485](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=485))
+    - Tags: [[orange]] 
+- It will be something exalted, noble, serene, and transcendental, but it will also be something that we cannot keep and quickly lose. ([Location 486](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=486))
+    - Tags: [[pink]] 
+- Nevertheless, it will return again and again. As soon as we sit down to meditate, its spell will seem to be magically thrown over us like the fabled enchantment of fairy tales. ([Location 487](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=487))
+- We should unhesitatingly surrender to its mysterious but delightful influence. ([Location 488](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=488))
+    - Tags: [[blue]] 
+- The process of bringing this new life to birth within ourselves, which was hitherto naturally a painful and prolonged one, will henceforth be a source of growing joy. ([Location 489](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=489))
+    - Tags: [[blue]] 
+- We will come to love the calmness and contentment that these periods of fruitful contemplation bring us, which are unknown to those who despise such exercises. ([Location 491](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=491))
+    - Tags: [[orange]] 
+- The sense of satisfying rest that comes over us in this state will always be noticeable. ([Location 492](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=492))
+- We will enter it each time feeling like a weary traveler who has reached the end of a long exile, like a fatigued wanderer who has returned home. ([Location 492](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=492))
+    - Tags: [[pink]] 
+- It is to “let go,” to cease from striving, to let our will relax, to stop thinking that the Overself is something we must grasp and to let ourselves be grasped by it. ([Location 496](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=496))
+    - Tags: [[orange]] 
+- Moreover, we are not to limit this attitude to the meditation period only, but to bring it into our ordinary life briefly several times a day. ([Location 497](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=497))
+- the yogi’s task is to concentrate attention inwardly as much as possible, but the actual entry into mystical consciousness is entirely beyond his or her own determining. ([Location 500](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=500))
+    - Tags: [[pink]] 
+## New highlights added August 29, 2023 at 3:39 AM
+- As attention deepens, meditation passes into contemplation and the world of the five senses recedes. We will sit like a rooted tree. For as this great stillness settles on the mind, a corresponding motionlessness settles on the body. The whole muscular system becomes unresistingly inert, every limb gently rigid. ([Location 541](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=541))
+    - Tags: [[blue]] 
+- Some power other than our own captures our body and its limbs, our mind and its thoughts. We can neither stir the one nor direct the other. We are its helpless victim. For a short time the body will be powerless to move, the mouth unable to speak, and the will unable to assert itself. ([Location 543](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=543))
+    - Tags: [[pink]] 
+- We will naturally fear the unfamiliar; we will instinctively recoil from entering this stage, with its apparent menace of losing consciousness or of becoming the helpless victim of unknown forces. But this condition will be a perfectly harmless one, the rigidity purely fleeting, the captivity utterly delightful. Ah! what a heavenly rapture permeates our feelings! No earthly counterpart could ever parallel it. We may even slide unwittingly into the deepest state of self absorption, when the skin on the face quite often becomes pale and tightly stretched, thus producing the ethereal appearance associated with the saints. ([Location 545](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=545))
+    - Tags: [[orange]] 
+- forgetting this world to remember a better one. ([Location 553](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=553))
+- But absolute withdrawal from all sense-impressions of the outward world is rarely attained nowadays by the average meditator. ([Location 558](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=558))
+    - Tags: [[pink]] 
+- Nor is this really necessary. ([Location 559](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=559))
+    - Tags: [[orange]] 
+- The advantage of the methods here advocated is that the consciousness of the world, sensations of sight, touch, hearing, and so on, may be retained to some extent without disruption of the higher condition. ([Location 563](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=563))
+    - Tags: [[orange]] 
+- If the consciousness is able to become perfectly concentrated and perfectly introverted, then the presence or absence of trance is unimportant. ([Location 566](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=566))
+    - Tags: [[pink]] 
+- They enter a profound absorption into themselves. ([Location 570](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=570))
+    - Tags: [[pink]] 
+- “neutral” ([Location 571](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=571))
+    - Tags: [[orange]] 
+- which is the point where our consciousness of outside things suddenly transforms itself into consciousness of the fundamental Self, ([Location 572](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=572))
+- we will slip insensibly into a total lapse of consciousness, which will be exactly like a refreshing deep sleep. ([Location 573](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=573))
+    - Tags: [[blue]] 
+- we will seem to be without a body—a ([Location 575](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=575))
+    - Tags: [[pink]] 
+- Just as the attention has already emptied itself of sense-reports, so the intellect now slowly empties itself of thoughts and the imagination of pictures. ([Location 579](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=579))
+    - Tags: [[orange]] 
+- This is the last important sign to occur when the second stage ends. ([Location 580](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=580))
+- The reasoning process is silenced, the memory fades, the image-making faculty ceases to operate, and a mystical quietude descends. ([Location 581](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=581))
+    - Tags: [[blue]] 
+- When the state of reverie can be induced without being a reverie on anything in particular, when we are able to stop all movements of the mind, when we are able to hold attention steady without fixing it on any object or thought in particular except our own spiritual being, when we have learned the art of being still, when we can cease running after thoughts,… ([Location 582](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=582))
+    - Tags: [[pink]] 
+- First, thinking must dismiss its objects; next, it must dismiss its own activity. For in this final stage,… ([Location 586](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=586))
+- We must initiate this process but we cannot consummate it; this will be brought about by a force… ([Location 587](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=587))
+    - Tags: [[orange]] 
+- success will come only when and if the Higher Self takes a… ([Location 588](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=588))
+    - Tags: [[pink]] 
+- We may, however, greatly assist the process by understanding what is required of us in the various stages by the light of knowledge that has here been… ([Location 589](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=589))
+- through fear or ignorance to the unfamiliar and mysterious changes within our psyche, which the… ([Location 590](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=590))
+- That which clears all thoughts out of our consciousness is… ([Location 592](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=592))
+    - Tags: [[blue]] 
+- Our attention must be so finely concentrated on that “other”—whether it be our Higher Self, our idea of God, a revered scriptural personage, or a living spiritual guide—that in the end we become absorbed in it and… ([Location 595](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=595))
+    - Tags: [[pink]] 
+- Now we must let even this last thought go altogether and then hold fast to the sacred emptiness, sacred because an indescribable sense… ([Location 597](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=597))
+    - Tags: [[orange]] 
+- this does not mean that all… ([Location 600](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=600))
+- it shifts over to our higher… ([Location 600](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=600))
+    - Tags: [[blue]] 
+- “giving up… ([Location 602](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=602))
+    - Tags: [[blue]] 
+- There will be an overwhelming sense of release and then the ego will be taken up into and… ([Location 603](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=603))
+    - Tags: [[pink]] 
+- We feel that another self has emerged from the mysterious deeps of our own being… ([Location 603](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=603))
+    - Tags: [[orange]] 
+- What takes place is a veritable displacement of the lower consciousness… ([Location 604](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=604))
+- We have effected a passage from the lower self to the higher, from the lower will to the higher will. It is the sacred moment when we actualize our higher potentiality, that is, when we become conscious of our divine part. “By not thinking nor desiring, she arrives at the mystical silence wherein God speaks with the soul, teaches it wisdom,” explained Miguel de… ([Location 605](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=605))
+    - Tags: [[blue]] 
+- Although it is said that the Overself sits waiting in the heart, only now can we understand why it would be a mistake to consider it as a merely passive entity… ([Location 609](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=609))
+    - Tags: [[orange]] 
+- If in the first stage the mind must leave outward distractions and in the second leave inward ones, in this third stage it must leave its own egoism. The search for the inner reality of our own selfhood, the… ([Location 612](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=612))
+    - Tags: [[blue]] 
+- while we are in this state and wholly gathered in it, we experience the extraordinary feeling that we are no stranger, that we have always been here… ([Location 616](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=616))
+    - Tags: [[pink]] 
+- We know then that this is the infinite source of our… ([Location 618](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=618))
+    - Tags: [[orange]] 
+- At such times, it is the Soul that takes control of the everyday self. A definite feeling that we are mounting up to a higher level of our being, a joyous sense of liberation from the ordinary vibrations and customary agitations… ([Location 622](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=622))
+    - Tags: [[blue]] 
+## New highlights added August 30, 2023 at 5:39 AM
+- The effort to maintain the introverted state must be sustained, not in a violent nor self-conscious way but… ([Location 415](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=415))
+    - Tags: [[pink]] 
+- THREE STAGES ([Location 437](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=437))
+    - Tags: [[pink]] 
+- In this development there are three stages: first, the long, monotonous, tiring fight against the wandering tendencies of the intellect; second, the shorter and easier struggle to maintain and prolong concentrative power once it is developed; third, the effortless triumph of habitual practice finally making expertness ([Location 438](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=438))
+    - Tags: [[orange]] 
+- a natural phenomenon. ([Location 440](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=440))
+    - Tags: [[orange]] 
+- the second stage will then be to prolong it. ([Location 443](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=443))
+    - Tags: [[orange]] 
+- The second stage has been satisfactorily achieved when the practice is resumed with pleasure and discontinued with reluctance, when the mind is able to concentrate and withdraw inward within a minute or two of sitting down. ([Location 443](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=443))
+- passed from the stage of being a drudgery to that of being a privilege. ([Location 452](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=452))
+- We are digging a well. Some have to dig far and long before water appears, therefore we should push our search deeper down. ([Location 456](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=456))
+    - Tags: [[blue]] 
+- We have now reached the most critical and most important part of our adventure in meditation. It is the borderline where our own effort must gradually… ([Location 470](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=470))
+    - Tags: [[pink]] 
+- We must keep still in… ([Location 473](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=473))
+    - Tags: [[orange]] 
+- the slightest obstruction causes its instant… ([Location 475](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=475))
+    - Tags: [[pink]] 
+- From being positive, we must now become passive. The profound mystery of… ([Location 475](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=475))
+    - Tags: [[orange]] 
+- They enter a profound absorption into… ([Location 570](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=570))
+    - Tags: [[pink]] 
+- “… ([Location 571](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=571))
+    - Tags: [[orange]] 
+- which is the point where our consciousness of outside things suddenly transforms itself into… ([Location 572](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=572))
+- we will slip insensibly into a total lapse of consciousness, which will be exactly like a… ([Location 573](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=573))
+    - Tags: [[blue]] 
+- we will seem to be without… ([Location 575](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=575))
+    - Tags: [[pink]] 
+- Just as the attention has already emptied itself of sense-reports, so the intellect now slowly empties itself of thoughts… ([Location 579](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=579))
+    - Tags: [[orange]] 
+- This is the last important sign to occur when the… ([Location 580](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=580))
+- The reasoning process is silenced, the memory fades, the image-making faculty ceases to operate, and a… ([Location 581](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=581))
+    - Tags: [[blue]] 
+## New highlights added September 8, 2023 at 8:18 PM
+- This makes us feel complete and satisfied in ourselves, a wonderful feeling that… ([Location 624](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=624))
+    - Tags: [[pink]] 
+- The Self we now realize is as superior to the ordinary ever-frustrated ego as are real flowers to the artificial variety. In this moment when the contemplative mood fully matures, we feel that we have passed over from a lesser into a new and higher dimension of being, that it is a state whose reality and authority certify themselves, that it is mentally illuminative, that it throws our personal wills into… ([Location 624](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=624))
+    - Tags: [[orange]] 
+- Meditation alone is not enough. ([Location 663](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=663))
+    - Tags: [[orange]] 
+- What is still required of us is that we should become philosophical mystics, should unfold the possibilities of our whole psyche and not only our intuitive ones. ([Location 664](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=664))
+- The effort to attain spiritual awareness is not only a matter of the acquisition of concentration; it is also a matter affecting every side of our life. ([Location 666](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=666))
+    - Tags: [[blue]] 
+- an analytic purification of the heart, an emotional pruning of it, is indispensable side-by-side with efforts to achieve the one-pointed, stilled mind. ([Location 670](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=670))
+    - Tags: [[pink]] 
+- veneration and sensitivity, ([Location 672](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=672))
+- act of tender devotion ([Location 672](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=672))
+    - Tags: [[orange]] 
+- love of the Divine Soul should become ardent and fervent. ([Location 674](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=674))
+    - Tags: [[blue]] 
+- of will ([Location 675](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=675))
+    - Tags: [[pink]] 
+- intuition, ([Location 676](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=676))
+    - Tags: [[orange]] 
+- of thought ([Location 676](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=676))
+- feeling, ([Location 676](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=676))
+    - Tags: [[blue]] 
+- steadfast practice of meditation ([Location 676](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=676))
+    - Tags: [[pink]] 
+- assiduous efforts ([Location 676](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=676))
+    - Tags: [[orange]] 
+- we become able in time to transfer at will to this deeper state and to sustain consciousness therein. ([Location 677](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=677))
+    - Tags: [[orange]] 
+- united and elevated efforts of thinking, feeling, willing, intuiting, and aspiring, ([Location 677](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=677))
+    - Tags: [[pink]] 
+- Spiritual feeling does center itself in the mid-sternal region of the chest. ([Location 698](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=698))
+    - Tags: [[pink]] 
+- “Placing the body in a straight posture, with the chest, throat, and head held erect, making the senses and the mind enter the heart, the knowing one should cross over all the fearful currents.” ([Location 712](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=712))
+    - Tags: [[pink]] 
+- the presence of what is most divine in us is mystically felt in the heart, ([Location 722](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=722))
+    - Tags: [[orange]] 
+- The Overself as such is formless, but its manifestation within the heart possesses form. ([Location 723](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=723))
+- the heart was not a thing but a space, symbolically called a “cave” by the ancients and in reality a kind of vacuum. ([Location 728](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=728))
+- The authoritative Pali*1 commentators on Buddhist texts expounded that the mind or consciousness is dependent on the heartbase, although the Buddha himself never stated the organ in which it existed. ([Location 729](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=729))
+- our central consciousness must be transferred from the brain to the heart. ([Location 750](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=750))
+    - Tags: [[orange]] 
+- thought will assume a secondary and subordinate importance in our life, and that the supreme place will be given to a focused attention upon and enjoyment of the peace within the Divine Atom*2 resident in the heart. ([Location 751](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=751))
+    - Tags: [[orange]] 
+- We may then use the brain at will and think no less clearly, no less efficiently, than we formerly did; only we will no longer become the hapless victim of thought’s tyranny. ([Location 753](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=753))
+- When we still the active intellect, we feel the pressure in the head relax and a feeling of peace begins to suffuse the heart. ([Location 755](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=755))
+    - Tags: [[blue]] 
+- our real home is in the heart, not the head. ([Location 760](https://readwise.io/to_kindle?action=open&asin=B07H2MPD5V&location=760))
+    - Tags: [[pink]] 

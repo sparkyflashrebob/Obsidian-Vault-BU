@@ -1,0 +1,53 @@
+---
+tags: []
+---
+
+10 ways to write a better speech
+1-Learn your time limit and calculate your word count. The average person speaks at somewhere between 125 and 150 words per minute. It’s almost always better to speak more slowly than too quickly. Thus, if you’re speaking for 20 minutes, you want a total word count of somewhere between 2,500 and 3,000 words. Be careful! I once got the math wrong and saddled a good friend with a 48-minute speech when he was trying for 30. Yikes!
+
+2-Once you have experience as a speaker, work hard to avoid word-for-word speeches unless you have a teleprompter. Your delivery will be more interesting and more natural if you speak from notes or an outline rather than a script. Memorize an introduction if you like, to help get yourself going but use just notes for the rest. Yes, your speech may not be “perfect.” But having a few mistakes is okay if they help you improve your delivery. Your ability to be interesting and to engage with the audience will make up for any small lapses.
+
+3-No matter how long the speech, always divide it into five parts: an introduction, point 1, point 2, point 3 and a conclusion. Or, in other words, tell people what you’re going to tell them, tell them what you want to say and then wrap up by telling them what you just said. This format is adaptable to a speech of just about any length but I’d divide a 20-minute speech as follows:
+
+Introduction: 2 minutes (250 words)
+
+Point 1: 5 minutes (625 words)
+
+Point 2: 5 minutes (625 words)
+
+Point 3: 5 minutes (625 words)
+
+Conclusion: 3 minutes (375 words)
+
+Total word count: 2,500 words (20 minutes)
+
+If you’re thin on ideas for the three points, consider using a mindmap to help you. Mindmapping is the best way for you to make your speech more interesting, more personal and more coherent.
+
+4-Shower your audience with stories rather than drown them in facts. If you have a story (anecdote or example) to illustrate each of your three points, so much the better. Stories are “sticky” — that is, people remember them. I once interviewed a CEO for whom I’d been hired to write a speech. The man was utterly bereft of stories. I was at my wit’s end until I decided that I’d have to lard his speech with some stories of my own that I could carefully repurpose to make them sound as though they’d come from him. Don’t tell me that business people don’t want to hear stories. Of course they do! Have you ever listened to Warren Buffett  speak? Or Bill Gates?  Or Josh Linkner?  Stories are the spoonful of sugar that make the medicine (facts) go down. Think about the worst speech you’ve ever heard in your life. Now, reflect on the best. I can guarantee that the former was filled with facts and the latter with stories. Human beings are hardwired to appreciate stories and the sooner you stop fighting that fact, the sooner you’ll be able to write a memorable speech
+
+5-Have a purpose but make it a modest one. Don’t expect your audience to be able to walk away reciting your 10-point corporate plan. Instead, express the single key message of your speech — the one important thing you want your audience to be able to remember, for sure — as a single sentence. Write it on a piece of paper and stick it to your bulletin board so you can see it as you’re writing your speech. Keep this purpose at the top of your mind at all times.
+
+6-Understand that repetition is mandatory because speaking is analogue, not digital. People don’t listen to speeches in the same way they read books. You talk, your words travel into their ears and if they happen to be thinking about what to make for dinner that night, your message will not get through. Worse, your audience has no “rewind” button they can hit. (If their attention has strayed while reading, they can flip back in the book.) This is why you MUST repeat the points you are trying to make at least three times: once in the intro, once when you make them and once again in your conclusion. It may seem overly repetitious to you, but it won’t to your audience.
+
+7) Don’t waste your opening. I see speakers do this in three primary ways. First, they spend too much time shuffling paper. Don’t do this! Be organized and ready to go as soon as you take the stage. The second mistake is they spend the first 45 seconds thanking an endless number of people. No! Don’t do that! The first 45 seconds are your most precious chance to grab the attention of your audience. Thank the person who introduced you with one brief sentence and then dive into an attention-getting opening. (You can give thanks to others, if you need to, towards the end of your speech.) Finally, some people feel obliged to begin with lame opening jokes that are unrelated to the actual speech topic. These always feel fake and tacked on. You want humour to be organic — that is, related to the topic you’re covering. The best way to begin a speech is with an interesting fact or an attention-getting story. No exceptions!
+
+8-Write for the ear rather than the eye. Make sure the language you use is easy to say — even if you’re writing the speech for someone else. Say it out loud many times, so you can check to ensure there are no stumbling blocks. For example, the line “a lower-cost alternative to traditional plans” is harder to say than it looks (try it). Change that kind of language, fast. Use concrete, everyday words (for example, “use” instead of “utilize”) and make sure your sentences are short enough that you don’t have to gasp for breath in the middle of them. Be sure to use contractions, because that’s how real people speak. And throw in the occasional rhetorical question (“Why would I say that?”) to engage the audience.
+
+9-Be yourself. Barack Obama  and Winston Churchill are/were both excellent speakers. They’re also totally different. While you can gain pointers from observing great speakers, you need to be true to yourself. Don’t try to be someone you’re not. And if you are writing a speech for someone else, it’s important you spend significant time interviewing them and learning their speech patterns — as well as their stories. Are there any expressions that they use regularly? Can you work them into the speech?
+
+10-Be brief. If you’re asked to speak for 60 minutes, make it 45 or 50. If the goal is 20, make it 18. If the target is five, aim for 3.5. In the history of the world, no one ever complained about a speech that was too short. Your audience will love you for this.
+
+7 ways to deliver a better speech
+1-Practice more than once. I know this is hard, particularly if the speech is long, but I spoke once with a TED talk deliverer and she told me that she’d spent more than three weeks, full time, writing and practicing her speech. In fact, she had delivered it more than 48 times before the big day. Was she confident? You bet! (For anything less than a TED talk, you don’t need 48 practice times. Three times might be enough for a long one; five to seven times for a short one.) Whatever you do, remember the expression: Professionals practice in private; amateurs practice in public.
+
+2-Record yourself. Many of us pad our speeches with verbal filler such as “umm,” “ahh,” “you know,” “like,” etc. The prime minister of my own country, Justin Trudeau does this with “uh” and I cringe almost every time I hear him speak. To ensure you don’t make this mistake, record yourself using your cell phone. If you discover you’ve used verbal fillers then slow down your speech and try to be mindful of not using them. Slow, careful speaking is the answer. This is been a project of mine for the last two years. I used to be addicted to “umm” and now I use it dramatically less frequently.
+
+3–Arrive early on delivery day. Don’t rush to the podium at the very last minute. Instead, get to your venue a good 15 to 30 minutes early so you can scope out the room, become familiar with it and maybe test the sound system. Then — this is the important advice — position yourself in the audience and start talking to people as they arrive. This will surprise and disarm them and give you a chance to get to humanize them a little bit.
+
+4-Calm your nerves. For many people, public speaking is more fear-inducing than the idea of death. Here’s how to get over that idea: Practice your speech beforehand. If you have practiced adequately then your body will already know what to do, even if your nervous system is vibrating. Pay attention to your breathing when speaking. If we take shallow, inadequate breaths then our bodies start to panic — I can’t breathe! I might die! Talk yourself through slow, deep belly breaths to help calm your nerves. Have your notes on firm paper so it won’t shake. (Cardstock is better than regular paper for this reason.) Finally, many people have discovered that pressing their index finger to their thumb is also a calming manoeuvre (it’s known as gyan mudra). No one in the audience will ever notice you doing it. 
+
+5-Use your eyes effectively. We all have the same two powerful public speaking tools in our arsenals: our eyes. Many speakers waste this ammunition by looking directly above the heads of their audience or by fanning their eyes vaguely across the group as a whole. Instead, I suggest you look directly in the eyes of ONE of the people in the audience. Do this for at least a full sentence at a time, longer if you can bear it. Then switch to another person and do exactly the same thing. Be sure to move to different parts of the room as you do this. And what happens if the person becomes embarrassed and looks away? Move on to someone else. This human-to-human contact should be every speaker’s secret weapon. Also, remember to smile. People enjoy seeing cheerful speakers. 
+
+6-Vary your speaking speed. Audiences sometimes get bored listening to speeches — even good ones — and that’s why you should try to make your delivery as interesting and varied as your words. One of the ways you can do that is to change your speed. If you have a story or statement that excites you then speak quickly so that the speed of your talking matches your excitement. If you’re saying something important or dramatic, then S-L-O-W down for emphasis.
+
+7-Be careful with your volume. Some speakers seem to like to shout or shriek. Recently, I was obliged to watch a debate where the speaker spoke far too loudly for the rather small room. I spent the entire time thinking, “please, dial back your volume” and I missed almost all of her content because my ears were too busy quivering. This is another good reason for arriving early in the room so you can test your volume. Just remember that once the room becomes stuffed with people, their bodies will act like a sound buffer and you may need to speak up.

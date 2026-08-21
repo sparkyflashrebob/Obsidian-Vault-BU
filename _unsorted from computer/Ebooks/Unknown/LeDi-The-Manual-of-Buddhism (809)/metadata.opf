@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">809</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b057649c-c6d4-4bd3-9a67-d1adcbc2b1fb</dc:identifier>
+        <dc:title>LeDi-The-Manual-of-Buddhism</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.9.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-08-15T00:38:17+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Unknown&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-01-29T04:32:40.226000+00:00" name="calibre:timestamp"/>
+        <meta content="LeDi-The-Manual-of-Buddhism" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">675</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bbdf43e9-b652-42b1-8ad1-83a5673fb503</dc:identifier>
+        <dc:title>The Debate of King Milinda by Bhikkhu Pesala</dc:title>
+        <dc:creator opf:file-as="Pesala, Bhikkhu" opf:role="aut">Bhikkhu Pesala</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.9.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-10-10T07:22:41+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <dc:subject>Abridged Translation of Milinda Pañha</dc:subject>
+        <dc:subject>Milinda questions debate dilemmas</dc:subject>
+        <meta content="{&quot;Bhikkhu Pesala&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-01-29T04:31:37.666000+00:00" name="calibre:timestamp"/>
+        <meta content="Debate of King Milinda by Bhikkhu Pesala, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

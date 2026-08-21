@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">503</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">84e42b8c-4077-4539-bc04-8ddb2f2380f6</dc:identifier>
+        <dc:title>The Eightfold Path for Householders</dc:title>
+        <dc:creator opf:file-as="Kornfeld, Jack" opf:role="aut">Jack Kornfeld</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.9.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-08-10T16:36:23+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <dc:subject>Buddhist Teaching Path</dc:subject>
+        <dc:subject>Buddhism</dc:subject>
+        <dc:subject>8-fold Path</dc:subject>
+        <meta content="{&quot;Jack Kornfeld&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-01-29T04:28:17.429000+00:00" name="calibre:timestamp"/>
+        <meta content="Eightfold Path for Householders, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

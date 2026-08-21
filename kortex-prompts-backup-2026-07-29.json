@@ -1,0 +1,134 @@
+{
+  "version": 1,
+  "exportedAt": "2026-07-29T19:39:31.705Z",
+  "promptsCount": 7,
+  "foldersCount": 1,
+  "folders": [
+    {
+      "id": "all",
+      "name": "All Prompts",
+      "color": "#4285f4",
+      "createdAt": 1784904497269,
+      "updatedAt": {
+        "_seconds": 1784904497,
+        "_nanoseconds": 682000000
+      }
+    }
+  ],
+  "prompts": [
+    {
+      "id": "63TmMMFotFOyQjnzSf2T",
+      "title": "Teaching Others Prompt",
+      "content": "Teaching Others Prompt:\nCreate a report for the sources referenced that breaks down the teachings in themes, subjects, indivisual insights.  Make sure to provide a summary of each and any important details that support them.\nProvide a section within each subdivision of any verbatum quotes regarding any of the insights on human behavior or of society at large, and any spiritual perspectives offered. \nImagine that these are being used to add to subject matter for podcast, blog or a future book on human behavior, mindfulness and spiritual practice.\nLastly, mention any impact on relationships or any stories that are encountered.",
+      "favorite": false,
+      "tags": [],
+      "folderId": "all",
+      "createdAt": {
+        "_seconds": 1783017734,
+        "_nanoseconds": 612000000
+      },
+      "updatedAt": {
+        "_seconds": 1784992821,
+        "_nanoseconds": 455000000
+      }
+    },
+    {
+      "id": "Eatwyyv5S9xnc3fX8DwP",
+      "title": "Independent Talk Transcipts to NOTES",
+      "favorite": false,
+      "tags": [
+        "Talks"
+      ],
+      "folderId": "all",
+      "createdAt": {
+        "_seconds": 1784663217,
+        "_nanoseconds": 984000000
+      },
+      "content": "Create a report that summarized the teachings in this talk.\nInclude key points in order of appearance with subtext/arguements in favor of the subjects raised.\n\nProvide a section with a list of verbatum quotes regarding any insights on human behavior or of society at large, and any spiritual perspectives offered. - name & meeting title and noting the date if available.\n\nImagine that these are being used to add to subject matter for podcast, blog or a future book on human behavior, mindfulness and spiritual practice.\n\nLastly, detail and specifc stories that are mentioned.\n\nUse common language similar to what a 12th Grader might understand.",
+      "updatedAt": {
+        "_seconds": 1784992821,
+        "_nanoseconds": 455000000
+      }
+    },
+    {
+      "id": "FvrPlEi9XJjHe6ahiuWV",
+      "tags": [],
+      "folderId": "all",
+      "createdAt": {
+        "_seconds": 1778018762,
+        "_nanoseconds": 535000000
+      },
+      "content": "Use this template to turn the transcript into clear. Edit this section to provide context for the meeting or template.  \nName section titles and provide descriptions and formatting.\n\n### Meeting Title\n📅 Date\n👥 Attendees\n\n\n### Themes\nList of themes explored or connected to the topics discussed.\n### Detailed Subject Matter \nSubjects raised and detailed points brought up.\n### Quotes\nQuotes attributed to the participants that punctuate the key points mentioned.  - Name of participant attributed to the quoted text.\n### Stories\nStories offered noting the source if offered and any details - Name of Person sharing story and who they are referring to \n### Physical, Mental Challenges\nNote any mention of mental concerns (moods or difficult thoughts) or physical ailments (such as sinus issues, headaches, pains)\n\n### Streaming Media, Music and TV Shows\nIf anything appears to be streaming media or music - list separately and identify if possible. List subject of media. Distinguish here and separate audio sources that appear to be from broadcasts and various other media (podcasts, television shows, music, etc...) that is picked up from regular conversation interactions. List the broadcast and media content only by subject (i.e. politics, humor, etc) and type (tv, streaming media, internet, music) while focusing the bulk of the report in the other sections on actual human interactions and discussion from known sources.",
+      "favorite": true,
+      "title": "Krisp Sparky Template (Current)",
+      "updatedAt": {
+        "_seconds": 1784992821,
+        "_nanoseconds": 455000000
+      }
+    },
+    {
+      "id": "QdIx5wXoALdCxeTUxxm1",
+      "title": "Overall Mindmap Summary for Daily Reports",
+      "favorite": false,
+      "tags": [],
+      "createdAt": {
+        "_seconds": 1782330419,
+        "_nanoseconds": 245000000
+      },
+      "content": "Create a SUMMARY mindmap for the included sources. Group them by subject with sections on Mindfulness, Mediation, Spirituality, philospophy, daily life, inter-personal interactions, personal insights. Wwithin each section note any quotes or stories that should be included in these sections to highlight those areas.",
+      "folderId": "all",
+      "updatedAt": {
+        "_seconds": 1784992821,
+        "_nanoseconds": 455000000
+      }
+    },
+    {
+      "id": "ahv0uHNHvnBVRTuo3fD6",
+      "title": "My Daily Report Prompt",
+      "tags": [],
+      "folderId": "all",
+      "createdAt": {
+        "_seconds": 1777925600,
+        "_nanoseconds": 64000000
+      },
+      "content": "Create a personal daily log report for the date referenced.  Make sure to provide the Day/Date, time and subject in order, a brief summary and any important details.\nThen provide a section with a list of verbatum quotes regarding any insights on human behavior or of society at large, and any spiritual perspectives offered. - noting the date.\nFollow that with a summary list of the items mentioned by subject and any details that may have been offered. Imagine that these are being used to add to subject matter for podcast, blog or a future book on human behavior, mindfulness and spiritual practice.\nLastly, mention any impact on relationships or any stories that are encountered.",
+      "favorite": true,
+      "updatedAt": {
+        "_seconds": 1784992821,
+        "_nanoseconds": 455000000
+      }
+    },
+    {
+      "id": "axcUanpQ7BlJz6aMPZUP",
+      "title": "Personal Daily Log Capture (NLM)",
+      "content": "Compile a personal daily log capturing chronological events, verbatim insights on behavior and spirituality, thematic summaries for future writing, and stories impacting relationships based on daily audio transcripts.",
+      "tags": [],
+      "folderId": "all",
+      "createdAt": {
+        "_seconds": 1777925159,
+        "_nanoseconds": 661000000
+      },
+      "favorite": true,
+      "updatedAt": {
+        "_seconds": 1784992821,
+        "_nanoseconds": 455000000
+      }
+    },
+    {
+      "id": "fllCsAiBhGzpAyPZQ7eP",
+      "content": "### Meeting Title\n📅 Date\n👥 Attendees\n\n\n### Themes\nList of themes explored or connected to the topics discussed.\n### Journal Entries\nMain Subject and detailed points raised.\n### Quotes\nQuotes attributed to the participants that punctuate the key points mentioned.  - Name of participant attributed to the quoted text.\n### Stories\nStories offered noting the source if offered and any details - Name of Person sharing story and who they are referring to \n### Physical, Mental Challenges\nNote any mention of mental concerns (moods or difficult thoughts) or physical ailments (such as sinus issues, headaches, pains)\n\n### Streaming Media, Music and TV Shows\nList subject of media. Distinguish here and separate audio sources that appear to be from broadcasts and various other media (podcasts, television shows, music, etc...) that is picked up from regular conversation interactions. List the broadcast and media content only by subject (i.e. politics, humor, etc) and type (tv, streaming media, internet, music) while focusing the bult of the report in the other sections on actual human interactions and discussion.",
+      "tags": [],
+      "folderId": "all",
+      "createdAt": {
+        "_seconds": 1778959641,
+        "_nanoseconds": 844000000
+      },
+      "favorite": false,
+      "title": "Krisp (rev2) Old",
+      "updatedAt": {
+        "_seconds": 1784992821,
+        "_nanoseconds": 455000000
+      }
+    }
+  ]
+}

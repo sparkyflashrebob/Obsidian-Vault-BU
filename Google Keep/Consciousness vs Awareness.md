@@ -1,0 +1,2 @@
+
+Consciousness and Awareness, both words seem to carry the same meaning, but they differ semantically as there is a difference between them. ... Awareness is having knowledge of something. On the other hand, consciousness is the state of being aware of something and this can be regarded as more spiritual kind of definition.

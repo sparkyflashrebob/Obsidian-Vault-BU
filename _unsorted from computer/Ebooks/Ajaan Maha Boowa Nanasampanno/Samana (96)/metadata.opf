@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">96</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">768aef68-0e35-4a6d-bcc4-fc9fb3434fe6</dc:identifier>
+        <dc:title>Samana</dc:title>
+        <dc:creator opf:file-as="Ñanasampanno, Ajaan Maha Boowa" opf:role="aut">Ajaan Maha Boowa Ñanasampanno</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.9.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-03-12T17:00:00+00:00</dc:date>
+        <dc:publisher>Forest Dhamma Books</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Kammatthana</dc:subject>
+        <dc:subject>Thai Forest Tradition</dc:subject>
+        <dc:subject>Ajaan Mun Bhuridatta</dc:subject>
+        <dc:subject>dhutanga</dc:subject>
+        <dc:subject>Thai forest Sangha</dc:subject>
+        <dc:subject>Buddhist meditation</dc:subject>
+        <dc:subject>Baan Taad</dc:subject>
+        <dc:subject>Ajaan Panyavaddho</dc:subject>
+        <dc:subject>Theravada</dc:subject>
+        <dc:subject>Buddho</dc:subject>
+        <dc:subject>Path of Practice</dc:subject>
+        <dc:subject>Nibbana</dc:subject>
+        <dc:subject>Arahant</dc:subject>
+        <dc:subject>samadhi</dc:subject>
+        <dc:subject>body contemplation</dc:subject>
+        <dc:subject>asubha</dc:subject>
+        <dc:subject>Ajaan Maha Boowa Nyanasampanno</dc:subject>
+        <meta content="{&quot;Ajaan Maha Boowa Ñanasampanno&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-01-29T04:01:58.687000+00:00" name="calibre:timestamp"/>
+        <meta content="Samana" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

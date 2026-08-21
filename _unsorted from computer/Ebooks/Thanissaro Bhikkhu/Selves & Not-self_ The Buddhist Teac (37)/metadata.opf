@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e72f2d7f-a2bd-4c7b-b061-bafe0fff551b</dc:identifier>
+        <dc:title>Selves &amp; Not-self: The Buddhist Teaching on Anatta</dc:title>
+        <dc:creator opf:file-as="Bhikkhu, Thanissaro" opf:role="aut">Thanissaro Bhikkhu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.9.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-09-08T06:45:31+00:00</dc:date>
+        <dc:description>&lt;p&gt;A series of eight talks on anatta, or not-self, given at a ten-day retreat in Eguilles, near Aix-en-Provence, France. Also there are relevant selections from the Pali Canon at end of the book.&lt;/p&gt;</dc:description>
+        <dc:publisher>Metta Forest Monastery</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Theravada</dc:subject>
+        <dc:subject>Jhana</dc:subject>
+        <dc:subject>Thai Forest Tradition</dc:subject>
+        <dc:subject>Dharma</dc:subject>
+        <dc:subject>Buddhism</dc:subject>
+        <dc:subject>Meditation</dc:subject>
+        <dc:subject>Dhamma</dc:subject>
+        <dc:subject>Pali Canon</dc:subject>
+        <meta content="{&quot;Thanissaro Bhikkhu&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-01-29T04:01:35.239000+00:00" name="calibre:timestamp"/>
+        <meta content="Selves &amp; Not-self: The Buddhist Teaching on Anatta" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

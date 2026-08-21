@@ -1,0 +1,9 @@
+No problem — since I can't access Google Drive directly, let me search your Gmail for any writing-related drafts, notes, or documents you may have sent yourself or that reference your writing and book project.Good — I have a rich picture now. While there aren't any personal writing drafts or manuscripts in your Gmail, the signal from your digital footprint is actually quite clear and revealing. Let me build you something useful with what I've gathered.Here's what I found — and honestly, the signal is pretty clear even without actual writing samples.
+
+Your digital footprint tells a coherent story: you read dharma journalism (Lion's Roar, Abhayagiri), you're buying archetypal "seeker" books (Don Juan, the Kybalion, Ishmael), you applied to Spirit Rock, and you're navigating a major life transition. That's not the reading diet of someone who wants to write thrillers. That's someone sitting on a first-person transformation narrative with real credibility behind it.
+
+The thing that makes your profile distinctive — and publishable — is the combination of the AV engineering mindset with the contemplative practice. Most mindfulness books are written by therapists or monks. You'd be writing as someone who spent decades solving complex technical problems in high-pressure environments and then had to learn to sit still. That's a genuinely different angle.
+
+The wildcard (eco-philosophy/speculative nonfiction) is worth noting too, given your Ishmael purchase and DSA involvement — if you're drawn to asking "what's wrong with the whole system," that's a separate but equally viable lane.
+
+Hit the button at the bottom of the card to go deeper on a specific book concept, or just tell me which genre feels most like *you* and we can map out a direction.

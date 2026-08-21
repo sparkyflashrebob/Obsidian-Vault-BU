@@ -1,0 +1,3806 @@
+# Mindfulness
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/41n51wK%2BzpL._SL200_.jpg)
+
+## Metadata
+- Author: [[Joseph Goldstein]]
+- Full Title: Mindfulness
+- Category: #books
+
+## Highlights
+- “If you want to understand your mind, sit down and observe it.” ([Location 110](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=110))
+- four ways of establishing mindfulness.” ([Location 115](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=115))
+- more emphasis to the process of awareness itself, ([Location 116](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=116))
+- Although this book is an in-depth guide to mindfulness practice and understanding, the range and depth of these teachings may open new possibilities and levels of subtlety for the application of mindfulness in our daily lives. ([Location 147](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=147))
+- “living in the moment ([Location 152](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=152))
+- present ([Location 152](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=152))
+- enrich our lives in unimagined ways. ([Location 154](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=154))
+- mine these riches. ([Location 155](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=155))
+- understanding the mind-body process ([Location 157](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=157))
+- different methodologies for freeing the mind from the causes of suffering. ([Location 157](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=157))
+- simple baseline of practice ([Location 159](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=159))
+- deepen our understanding by expanding the field of our inquiry. ([Location 160](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=160))
+- At different times, particular instructions in this discourse may touch us and enliven our practice in unexpected ways. ([Location 160](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=160))
+- “This is the direct path for the purification of beings, for the ([Location 162](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=162))
+- surmounting of sorrow and lamentation, for the disappearance of pain and grief, for the attainment of the true way, for the realization of nibbāna—namely the four foundations of mindfulness. ([Location 162](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=162))
+- direct path to liberation ([Location 165](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=165))
+- And as we look at this sutta, we find that all of the Buddha’s teachings are contained within it. ([Location 166](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=166))
+- Different traditions of vipassanā might emphasize one or another of these exercises, but any one of them is sufficient to bring us to the end of the path. When we open any one door of the Dharma, it leads to all the rest. ([Location 168](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=168))
+- In the context of the Satipaṭṭhāna Sutta, bhikkhu is a term indicating any person who earnestly endeavors to accomplish the practice of the teaching: “Whoever undertakes that practice . . . is here comprised under the term ‘bhikkhu.’”3 ([Location 180](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=180))
+- four fields, ([Location 206](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=206))
+- pastures, ([Location 206](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=206))
+- body, ([Location 206](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=206))
+- feelings, ([Location 206](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=206))
+- mind, ([Location 206](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=206))
+- dhammas ([Location 206](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=206))
+- When we establish mindfulness in them, or of them, then we abide safely. ([Location 207](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=207))
+- not mindful, ([Location 207](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=207))
+- lost in unwholesome reactions, ([Location 208](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=208))
+- ardent, ([Location 215](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=215))
+- clearly knowing, ([Location 215](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=215))
+- mindful, ([Location 215](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=215))
+- free from desires and discontent in regard to the world. ([Location 215](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=215))
+- Ardent implies a balanced and sustained application of effort. ([Location 216](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=216))
+- ardent ([Location 216](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=216))
+    - Note: Make a priority of. As in recovery putting your program first.
+- warmth of feeling, ([Location 216](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=216))
+- passionate and strong enthusiasm ([Location 216](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=216))
+    - Note: Ardency means being intent on what you're doing, trying your best to do it skillfully. This doesn't mean that you have to keep straining and sweating all the time, just that you're continuous in developing skillful habits and abandoning unskillful ones. Remember, in the eight factors of the path to freedom, right mindfulness grows out of right effort. Right effort is the effort to be skillful. Mindfulness helps that effort along by reminding you to stick with it, so that you don't let it drop.
+- It is what sustains and nourishes us through all the many ups and downs of practice. ([Location 220](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=220))
+    - Note: How often do we judge our practice in unmindful ways? Ardency provides energy/fuel to ride those ups and downs.
+- Spiritual ardency is the wellspring of a courageous heart. ([Location 221](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=221))
+    - Note: Motivation geater than little self
+- how to practice and cultivate ardency, so that it becomes a powerful and onward-leading force in our lives. ([Location 222](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=222))
+- REFLECT ON THE PRECIOUSNESS OF THE DHARMA ([Location 223](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=223))
+    - Tags: [[blue]] 
+- the purpose of our practice, ([Location 224](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=224))
+    - Tags: [[pink]] 
+- the Dharma is a jewel of priceless value. ([Location 225](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=225))
+- the Dharma is the source of every happiness. ([Location 225](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=225))
+- understanding the mind is the same as understanding the Dharma, ([Location 226](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=226))
+- realizing the deepest truths of the mind is the attainment of awakening. ([Location 227](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=227))
+- REFLECT ON IMPERMANENCE ([Location 236](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=236))
+    - Tags: [[pink]] 
+- transiency of all phenomena. ([Location 237](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=237))
+- Nothing we have, no one in our lives, no state of mind is exempt from change. ([Location 238](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=238))
+    - Tags: [[pink]] 
+- When we don’t deeply understand the truth of impermanence, we devote ourselves, our lives, and even our meditation practice to seeking and wanting other people, possessions, experiences. ([Location 240](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=240))
+- There is no peace. ([Location 242](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=242))
+- The Life of Shabkar, ([Location 243](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=243))
+    - Tags: [[blue]] 
+- remaining in a state of awareness of the absolute view, ([Location 245](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=245))
+- Right now I look well enough, But I won’t last long. ([Location 263](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=263))
+- Thinking of this, I am disturbed. ([Location 268](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=268))
+- Among all the activities of sāṃsara, There is not one that is lasting. ([Location 296](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=296))
+- Having considered this, I resolve not to be attached ([Location 302](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=302))
+- REFLECT ON KARMA ([Location 310](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=310))
+    - Tags: [[orange]] 
+- This is the fundamental and essential understanding that all of our volitional actions ([Location 311](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=311))
+- fruit depending on the motivation associated with them. ([Location 312](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=312))
+- nongreed, ([Location 313](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=313))
+- nonhatred, ([Location 313](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=313))
+- nondelusion ([Location 313](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=313))
+- the only things that can be said to truly belong to us are our actions and their results; the results of our actions follow us like a shadow, ([Location 314](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=314))
+- Mind ([Location 318](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=318))
+    - Note: talk about this. speak or act with peaceful mind vs impure mind.
+- Padmasambhava, ([Location 322](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=322))
+- “There is no right and no wrong, but right is right and wrong is wrong.” ([Location 325](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=325))
+- As ([Location 327](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=327))
+    - Note: discuss.
+- do we remember to investigate and reflect on our motivation? ([Location 327](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=327))
+- this act or mind state skillful or unskillful? ([Location 328](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=328))
+- Where is this motivation leading? ([Location 329](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=329))
+- Do I want to go there? ([Location 329](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=329))
+- investigation ([Location 335](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=335))
+- wisdom ([Location 335](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=335))
+- It highlights the understanding that mindfulness is more than simply being present. ([Location 338](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=338))
+    - Tags: [[blue]] 
+- With clear comprehension, we know the purpose and appropriateness of what we’re doing; ([Location 338](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=338))
+    - Tags: [[pink]] 
+- we understand the motivations behind our actions. ([Location 339](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=339))
+    - Tags: [[orange]] 
+- So often we find ourselves in the middle of an action before we quite know how we got there. ([Location 339](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=339))
+- When we act in full awareness, of even small things, it’s possible to notice the motivation and then to consider: is this motivation, this action, skillful or not, useful or not? ([Location 341](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=341))
+    - Tags: [[blue]] 
+- harmoniously. ([Location 343](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=343))
+    - Tags: [[orange]] 
+- living lovingkindness, ([Location 345](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=345))
+    - Tags: [[pink]] 
+- The more we understand our own minds, the more we understand everyone else. ([Location 349](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=349))
+- QUALITY OF mind ([Location 362](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=362))
+- PRESENT-MOMENT AWARENESS ([Location 366](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=366))
+- presence of mind, ([Location 367](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=367))
+- wakefulness. ([Location 367](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=367))
+- opposite of absentmindedness. ([Location 367](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=367))
+- Whenever we’re lost or confused about what to do, we can simply come back to the present-moment experience. ([Location 367](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=367))
+    - Note: how to practice this - Tejaniya's list
+- “You are here.” ([Location 371](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=371))
+- bare attention, ([Location 372](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=372))
+- noninterfering awareness, ([Location 372](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=372))
+- learn how to listen; ([Location 374](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=374))
+- quality of receptivity that allows intuitive wisdom to arise. ([Location 374](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=374))
+    - Note: versus discursive thought rambling on
+- THE PRACTICE OF REMEMBERING ([Location 378](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=378))
+- wholesome recollection ([Location 379](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=379))
+- supports ([Location 380](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=380))
+- energizes ([Location 380](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=380))
+- recollections ([Location 380](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=380))
+- Buddha, ([Location 380](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=380))
+- Dharma, ([Location 380](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=380))
+- Sangha, ([Location 381](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=381))
+- one’s own generosity and ethical conduct. ([Location 381](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=381))
+- helps arouse confidence and faith ([Location 382](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=382))
+- We understand that the Bodhisattva’s struggle is our own. ([Location 385](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=385))
+- consider the magnitude of what it means to overcome the habits of seduction ([Location 386](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=386))
+- narrow-minded ([Location 386](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=386))
+- closed-hearted. ([Location 387](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=387))
+- path of purification ([Location 387](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=387))
+- reflection on our commitment to ethical conduct ([Location 390](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=390))
+- self-judgment ([Location 393](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=393))
+- But our willingness to see them and recommit to nonharming both others and ourselves keeps us moving forward. ([Location 397](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=397))
+    - Note: Sila as a factor of sobriety
+- is growth in the Noble One’s discipline when one sees one’s transgressions as such and makes amends in accordance with the Dharma by undertaking restraint in the future.” ([Location 398](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=398))
+- BALANCING ([Location 400](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=400))
+- faith, energy, mindfulness, concentration, and wisdom. ([Location 402](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=402))
+- When we have too much faith, we can become dogmatic, attached to our own views. ([Location 404](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=404))
+- When faith is not balanced with wisdom, we can also become overly enthusiastic about our meditation experiences. ([Location 406](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=406))
+- This is when our insight is developing, but in our enthusiasm we forget to be mindful, and then, because of our attachment to these very states, they become corruptions of insight. ([Location 407](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=407))
+    - Note: In my practice, attainment then out of balance. reset then on path. then attainment. Keep eye on the longer term.
+- we can also get attached to some understanding or insight and stay satisfied with that. ([Location 410](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=410))
+- Understanding without faith can keep us enmeshed, often unknowingly, in wrong views. ([Location 411](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=411))
+- effort and concentration need to be in balance. ([Location 412](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=412))
+- Too much effort without enough concentration simply leads to restlessness and agitation, ([Location 412](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=412))
+- excess of concentration without enough energy leads to sloth and torpor. ([Location 413](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=413))
+- PROTECTOR OF THE MIND ([Location 415](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=415))
+- guardian of the sense doors, ([Location 416](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=416))
+- aware of what is arising through the senses ([Location 416](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=416))
+- not get lost in the proliferation of desires. ([Location 416](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=416))
+- we abide more peacefully in our lives. ([Location 417](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=417))
+- the mind filled with wanting is not at ease; ([Location 420](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=420))
+- but this time for some reason there was more mindfulness. ([Location 421](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=421))
+    - Note: mindfulness comes and goes - what factors effect this?
+- protect the mind from other unskillful thoughts and emotions. ([Location 423](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=423))
+- Without mindfulness, we simply act out all the various patterns and habits of our conditioning. ([Location 424](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=424))
+- our aim should be not to follow the heart but to train the heart. ([Location 425](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=425))
+- All of us have a mix of motivations; not everything in our hearts is wise or wholesome. ([Location 426](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=426))
+- mindful discernment ([Location 426](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=426))
+- abandon what is unwholesome ([Location 427](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=427))
+- cultivate the good. ([Location 427](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=427))
+- discernment is of inestimable value for our happiness and wellbeing. ([Location 427](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=427))
+- When I considered: ([Location 436](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=436))
+- it subsided in me; ([Location 437](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=437))
+- With recurring unskillful thoughts, ([Location 441](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=441))
+- we need an actively engaged mindfulness, ([Location 441](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=441))
+- whatever we frequently think of and ponder, that will become the inclination of our minds. ([Location 442](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=442))
+- Mindfulness has the power to show us what kinds of thoughts are arising, ([Location 442](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=442))
+- The simple reflection that these thoughts actually do lead to one’s own and others’ affliction and difficulty, away from wisdom and awakening, is an effective tool to use in those times rather than being just a phrase to read ([Location 444](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=444))
+- With wholesome states of mind, ([Location 446](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=446))
+- We don’t need to be quite so actively engaged. ([Location 446](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=446))
+- learn ([Location 454](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=454))
+    - Note: Hence the practice. Wisdom.
+- find the appropriate balance between active and receptive, doing and nondoing. ([Location 454](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=454))
+- cultivated state, where we are making an effort to stay attentive. ([Location 459](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=459))
+- watchman named Mindfulness, ([Location 460](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=460))
+- fabricated mindfulness ([Location 462](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=462))
+- prompted consciousness ([Location 463](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=463))
+- by reflection or determination of the will, we deliberately endeavor to generate a certain state. ([Location 463](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=463))
+- arises spontaneously through the force of its own momentum. ([Location 464](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=464))
+- a sense of someone observing or being mindful. ([Location 466](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=466))
+- unfabricated mindfulness ([Location 467](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=467))
+- innate wakefulness ([Location 467](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=467))
+- something we need to recognize and come back to. ([Location 470](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=470))
+- different aspects of mindfulness work in harmony. ([Location 472](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=472))
+- That the mind is not peaceful these days is because it follows moods. ([Location 476](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=476))
+- we think that it is we who are ([Location 479](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=479))
+- dhammas—“free from desires and discontent with regard to the world.” ([Location 488](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=488))
+- samādhi, ([Location 489](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=489))
+    - Tags: [[blue]] 
+- the qualities of concentration, composure, and unification of mind that occur when the mind is free of the desires and discontents that so often arise. ([Location 489](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=489))
+    - Tags: [[pink]] 
+- samādhi developing naturally through enjoying embodied presence, settling back into the body, and allowing the stress and tensions to unravel through simply being aware of what presents itself. ([Location 491](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=491))
+- Receiving joy ([Location 493](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=493))
+    - Tags: [[orange]] 
+- skillfulness. ([Location 494](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=494))
+- careful ([Location 494](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=494))
+    - Tags: [[orange]] 
+- collecting ([Location 494](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=494))
+    - Tags: [[blue]] 
+- Samādhi is based on skillful behavior, ([Location 496](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=496))
+- basis in nonharming, ([Location 497](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=497))
+    - Tags: [[blue]] 
+- refraining from killing, stealing, sexual misconduct, lying, and using intoxicants that make the mind heedless. ([Location 501](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=501))
+    - Tags: [[blue]] 
+- increasingly refined. ([Location 502](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=502))
+    - Tags: [[pink]] 
+- Actions and their consequences are magnified in the stillness and undistractedness of the retreat, ([Location 502](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=502))
+    - Tags: [[orange]] 
+- With the foundation of sīla and a nonagitated mind, we settle more easily into a happy, relaxed state, which is itself the proximate cause of concentration. ([Location 509](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=509))
+- path of increasing happiness. ([Location 511](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=511))
+- CONTINUITY OF MINDFULNESS ([Location 512](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=512))
+    - Tags: [[blue]] 
+- strengthening of concentration comes about through the continuity of mindfulness. ([Location 512](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=512))
+    - Tags: [[pink]] 
+- The first way is cultivating a directed awareness on a single object. ([Location 513](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=513))
+- The second way develops a more choiceless awareness. ([Location 514](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=514))
+- We can focus on a single object when the mind is sluggish or distracted, in order to develop internal joy and serenity, and then when the mind is again collected we can open to an undirected choiceless mode of awareness. ([Location 516](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=516))
+- I changed the focus of my attention from simply knowing that I was stepping to feeling more precisely the particular sensations of each step—lightness, heaviness, pressure, stiffness, and so on. ([Location 520](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=520))
+- One of the great gifts of deepening concentration is that it helps keep the various mental hindrances at bay; ([Location 524](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=524))
+- default level of concentration ([Location 526](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=526))
+- respect for concentration ([Location 529](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=529))
+- longevity of the Dharma, ([Location 529](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=529))
+- nondecay ([Location 529](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=529))
+- nondisappearance. ([Location 529](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=529))
+- we increasingly abide free of desires and discontent in regard to the world, and this peaceful composure becomes the basis for greater happiness and freedom. ([Location 532](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=532))
+- By practicing this simple external mindfulness, we protect our own minds from the various defilements that might arise. ([Location 570](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=570))
+- mindfulness of content to mindfulness of process. ([Location 637](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=637))
+- in every moment knowing and its object arise simultaneously. ([Location 665](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=665))
+    - Tags: [[blue]] 
+- This insight is the first doorway into the understanding of selflessness, ([Location 668](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=668))
+    - Tags: [[pink]] 
+- Purification of View. ([Location 668](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=668))
+- We begin to see that everything that we call self is simply this pairwise progression of knowing and object, arising and passing moment after moment. ([Location 669](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=669))
+    - Tags: [[orange]] 
+- We ([Location 684](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=684))
+- strong perception is one of the proximate causes for mindfulness to arise. ([Location 695](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=695))
+    - Tags: [[blue]] 
+- use of concepts ([Location 700](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=700))
+    - Tags: [[pink]] 
+- we want to establish mindfulness to the extent necessary for bare knowing, which somehow suggests a mind free from conceptual overlay. ([Location 701](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=701))
+- the factor of perception, with its attendant concepts, is itself a proximate cause for mindfulness to arise. ([Location 702](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=702))
+    - Tags: [[pink]] 
+- When perception is operative without strong mindfulness — which is the usual way an untrained mind navigates the world — then we know and remember only the surface appearance of things. ([Location 704](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=704))
+    - Tags: [[blue]] 
+- limited, ([Location 706](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=706))
+    - Note: Label is a box when actually just apointer - just like the teachings themselves
+- Instead of concepts limiting our view of what’s arising, ([Location 712](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=712))
+- “rallying the concepts for the higher purpose of developing wisdom, whereby concepts themselves are transcended.” ([Location 714](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=714))
+    - Tags: [[blue]] 
+- Noting helps cut through our identification with experience, both when the hindrances are present and when our practice has become very subtle and refined. ([Location 724](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=724))
+    - Tags: [[blue]] 
+- It’s important to realize that this tool of mental noting is simply a skillful means for helping us to be mindful — it is not the essence of the practice itself, which is simply to be aware. ([Location 731](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=731))
+    - Tags: [[pink]] 
+- joy that leads onward to deepening concentration. ([Location 802](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=802))
+- for leading onward to nibbāna, ([Location 811](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=811))
+    - Tags: [[orange]] 
+- “[H]e seats himself cross-legged, sets his body erect, and establishes mindfulness in front of him. He does not occupy his mind with self-affliction, or the affliction of others, or the affliction of both; he sits with his mind set on his own welfare, on the welfare of others, and on the welfare of both, even on the welfare of the whole world ([Location 880](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=880))
+- intentionality ([Location 932](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=932))
+- IT STRENGTHENS CONTINUITY OF AWARENESS ([Location 973](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=973))
+    - Tags: [[blue]] 
+- We don’t have to be in meditation graduate school to be awake. ([Location 977](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=977))
+- IT REVEALS OUR STATES OF MIND ([Location 979](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=979))
+    - Tags: [[orange]] 
+- energy of rushing ([Location 984](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=984))
+    - Tags: [[pink]] 
+- unnoticed desire ([Location 984](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=984))
+    - Tags: [[pink]] 
+- restless ([Location 985](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=985))
+    - Tags: [[blue]] 
+- impatient, ([Location 985](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=985))
+- overcoming unwholesome states of mind, ([Location 986](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=986))
+- neither walked nor sat nor lay down till I had subdued that fear and dread. ([Location 993](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=993))
+    - Tags: [[orange]] 
+- purification of mind ([Location 998](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=998))
+    - Tags: [[pink]] 
+- Purification of View; ([Location 1021](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1021))
+- nāmarūpa, ([Location 1021](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1021))
+    - Tags: [[orange]] 
+- intention ([Location 1026](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1026))
+    - Tags: [[pink]] 
+- “You should see all phenomena with proper wisdom—this is not mine, this is not I, this is not myself.” ([Location 1034](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1034))
+    - Tags: [[blue]] 
+- This section of the Satipaṭṭhāna Sutta on mindfulness of postures is one of the most effective ways of bringing the insights of intensive retreat practice into the activities of our daily lives. ([Location 1049](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1049))
+    - Tags: [[orange]] 
+- Wisdom comes from being mindful at all times. ([Location 1052](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1052))
+    - Tags: [[pink]] 
+- sampajañña, ([Location 1065](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1065))
+    - Tags: [[blue]] 
+- all of the five spiritual faculties (confidence, energy, mindfulness, concentration, and wisdom) in balance. ([Location 1066](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1066))
+- This practice takes our meditation a step further than simply knowing the posture of the body. ([Location 1071](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1071))
+    - Tags: [[orange]] 
+- we need to see and reflect on our motivation for doing something. ([Location 1072](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1072))
+    - Tags: [[pink]] 
+- motivations are often subtle and hard to see—they are often mixed or are a series of conflicting motivations—it takes a lot of honesty, clarity, and mindfulness to see them clearly, to know the inner purpose behind our actions. ([Location 1073](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1073))
+    - Tags: [[blue]] 
+- I saw that there was a moment of purity, ([Location 1081](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1081))
+- Clear comprehension is a great ally in our daily encounters with Māra. ([Location 1083](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1083))
+    - Tags: [[orange]] 
+- Māra is seen to be king of the highest heaven realm. ([Location 1085](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1085))
+- His mission is to keep us all ensnared in his realm of saṃsāric attachments, and he uses many seductive and confusing ploys to accomplish this. ([Location 1085](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1085))
+    - Tags: [[orange]] 
+- We might be feeling tired or frustrated, and then this kindly voice arises in the mind: “I’ve done enough. I’ve been working really hard. Let me take a little rest.” ([Location 1090](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1090))
+    - Note: codependancy
+- actualizing this prayer in our lives. ([Location 1099](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1099))
+    - Tags: [[orange]] 
+- “Buddhism is a clever way to enjoy life. Happiness is available. Please help yourselves to it.” ([Location 1102](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1102))
+    - Tags: [[pink]] 
+- suitability of an action. ([Location 1104](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1104))
+    - Tags: [[blue]] 
+- effect of our actions on others. ([Location 1107](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1107))
+- proper pastures for our meditation practice. ([Location 1113](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1113))
+    - Tags: [[orange]] 
+- There is a story of one monk who every time he did something unmindfully would go back and do the action again. And after practicing this way for twenty years, he became an arahant. I like this story both for its suggestive practice and also because it speaks to a dedicated commitment to awakening. ([Location 1116](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1116))
+    - Tags: [[pink]] 
+- sense restraint, ([Location 1119](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1119))
+    - Tags: [[blue]] 
+- nonaddiction. ([Location 1122](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1122))
+    - Tags: [[pink]] 
+- emotions: ([Location 1346](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1346))
+    - Tags: [[blue]] 
+- physical sensations: ([Location 1347](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1347))
+- opinion or attitude: ([Location 1348](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1348))
+    - Tags: [[orange]] 
+- Vedanā refers specifically to that quality of pleasantness, unpleasantness, or neutrality that arises with the contact of each moment’s experience. ([Location 1351](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1351))
+    - Tags: [[pink]] 
+- The feeling tone of experience is so vitally important because it conditions our various reactions in the mind and actions in the world. ([Location 1356](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1356))
+    - Tags: [[blue]] 
+- It would be interesting to notice how many of our actions through the day—even small changes of posture—come about through an effort to avoid unpleasant feelings. ([Location 1371](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1371))
+- Desirable things do not provoke one’s mind, Towards the undesired one has no aversion. ([Location 1386](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1386))
+- As I continued with my sitting and walking practice, it became clear that when I didn’t catch the trigger point, when I wasn’t mindful of the first dart, I would get lost in the reactivity of the mind. ([Location 1391](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1391))
+    - Tags: [[blue]] 
+- patterns of fear and hope: ([Location 1395](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1395))
+- “Bhikkhus, that one shall here and now make an end to suffering without abandoning the underlying tendency to lust for pleasant feeling, without abolishing the underlying tendency to aversion towards painful feeling, without extirpating the underlying tendency to ignorance in regard to neither-painful-nor-pleasant feeling . . . this is impossible. ([Location 1400](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1400))
+- When feeling a pleasant feeling, one knows, “I feel a pleasant feeling.” When feeling an unpleasant feeling, one knows, “I feel an unpleasant feeling.” When feeling a neutral feeling, one knows, “I feel a neutral feeling. ([Location 1408](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1408))
+    - Tags: [[orange]] 
+- not to do this mechanically ([Location 1415](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1415))
+    - Tags: [[pink]] 
+- Even doing this for short periods illuminates the very transitory nature of feelings. ([Location 1416](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1416))
+- As we see the transitory nature of whatever feelings arise, we become less identified with them, less attached to the pleasant ones, less fearful of the unpleasant ones. ([Location 1425](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1425))
+    - Tags: [[blue]] 
+- Meditation provides us an opportunity to observe the mind’s reactions to different kinds of feelings. ([Location 1456](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1456))
+- “You should train like this: my body may be sick yet my mind will remain unafflicted.” ([Location 1459](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1459))
+    - Tags: [[orange]] 
+- So often, we put certain situations outside of our practice—when they are either particularly pleasant or particularly unpleasant. ([Location 1460](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1460))
+    - Tags: [[pink]] 
+- It’s the pleasant feeling we like and want to hold on to, the unpleasant feeling we want to push away, and the neutral feeling we don’t even know we’re feeling. ([Location 1475](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1475))
+- But as we practice being mindful of these feelings as they arise, and see with greater immediacy their impermanent nature, we become less entranced by them, less reactive. ([Location 1476](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1476))
+    - Tags: [[orange]] 
+- Whatever feeling one feels, whether pleasant, unpleasant or neither-painful-nor pleasant, one abides contemplating impermanence in those feelings, contemplating fading away, . . . contemplating relinquishment. Contemplating thus, one does not cling to anything in this world. When one does not cling, one is not agitated. When one is not agitated, one personally attains ([Location 1479](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1479))
+    - Tags: [[blue]] 
+- Worldly feelings arise from contact with the senses: ([Location 1490](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1490))
+    - Tags: [[blue]] 
+- also thoughts connected with these objects. ([Location 1491](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1491))
+- renunciation. ([Location 1495](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1495))
+    - Tags: [[orange]] 
+- nonaddictiveness to sense pleasures. ([Location 1496](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1496))
+    - Tags: [[pink]] 
+- happiness now. ([Location 1497](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1497))
+    - Tags: [[blue]] 
+- “What the world calls happiness, I call suffering; what the world calls suffering, I call happiness.” ([Location 1501](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1501))
+- dangers? ([Location 1507](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1507))
+    - Tags: [[orange]] 
+- Sometimes the pleasure itself is ultimately harmful, as in many kinds of addiction. ([Location 1507](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1507))
+    - Tags: [[pink]] 
+- that if we become attached to the pleasant experience, then we feel sorrow and loss when it changes. ([Location 1510](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1510))
+    - Tags: [[blue]] 
+- In the teaching about unworldly feelings, the Buddha is pointing out a different kind of pleasure and a deeper kind of happiness, one without hidden dangers. ([Location 1515](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1515))
+- Indeed, after his enlightenment, the Buddha declared himself to be one who lived in happiness. ([Location 1530](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1530))
+    - Tags: [[orange]] 
+- What are these unpleasant feelings not associated with aversion? ([Location 1554](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1554))
+    - Tags: [[pink]] 
+- You might think: “Perhaps these defiling states [desire, aversion, and ignorance] might disappear. . . , and one might still be unhappy.” That is not how it should be regarded. If defiling states disappear . . . , nothing but happiness and delight develops, with tranquility, mindfulness and clear awareness — and that is a happy ([Location 1572](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1572))
+    - Tags: [[orange]] 
+- generosity, ([Location 1577](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1577))
+    - Tags: [[pink]] 
+- Practicing generosity is an easily accessible gateway to the happy, unworldly feelings based on renunciation, ([Location 1578](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1578))
+    - Tags: [[blue]] 
+- nonremorse. ([Location 1589](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1589))
+    - Tags: [[pink]] 
+- beauty of simplicity. ([Location 1591](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1591))
+    - Tags: [[blue]] 
+- “At times the different objects to note may shrink to one or two or all may even disappear. However, at this time, the knowing consciousness is still present. In this very clear open space of the sky, there remains only one very clear, blissful consciousness, which is very clear beyond comparison and very blissful.” ([Location 1608](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1608))
+- remind us that the path to realization is simply being mindful of all the different feelings as they arise. ([Location 1613](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1613))
+    - Tags: [[orange]] 
+- dharma pleasures. ([Location 1618](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1618))
+    - Tags: [[pink]] 
+- and through mindfulness practice, abandon those tendencies. ([Location 1621](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1621))
+    - Tags: [[blue]] 
+- Mindfulness of feelings externally means that we are aware of feelings arising in others; mindfulness fosters empathetic joy when others experience pleasant feelings, and it fosters compassion when others are in pain. When we’re not mindful of feelings — pleasant, unpleasant, and neutral; worldly and unworldly—and we don’t contemplate them internally, externally, and both, then we easily become identified with these feelings, taking them to be self. ([Location 1630](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1630))
+    - Tags: [[orange]] 
+- Through contemplating feelings as impersonal processes, arising out of contact with the six sense objects (mind is included as the sixth sense), we no longer take these feelings to be self. And in those moments we are practicing the Buddha’s essential teaching, ([Location 1637](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1637))
+    - Tags: [[pink]] 
+- “Nothing whatsoever is to be clung to as I or mine.” ([Location 1639](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1639))
+    - Tags: [[pink]] 
+- “Here one knows a lustful mind to be ‘lustful,’ and a mind without lust to be ‘without lust.’ One knows an angry mind to be ‘angry,’ and a mind without anger to be ‘without anger.’ One knows a deluded mind to be ‘deluded,’ and a mind without delusion to be ‘without delusion’; one knows a contracted mind to be ‘contracted,’ and a distracted mind to be ‘ ([Location 1648](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1648))
+    - Tags: [[blue]] 
+- emphasizes knowing the presence or absence of the three unwholesome roots of mind and how they color or condition our minds. ([Location 1652](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1652))
+- we can still recognize the ease and peace and openness of mind that are present. ([Location 1657](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1657))
+- what is skillful and what is unskillful — ([Location 1661](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1661))
+    - Tags: [[orange]] 
+- For many people, it is an easy step from recognizing a particular mind state like greed or hatred as being unwholesome to the feeling that you’re a bad person for having it, or that somehow it’s wrong for the mind state to even arise. ([Location 1663](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1663))
+    - Tags: [[pink]] 
+- This is the training of the third foundation of mindfulness: mindfulness of mind. ([Location 1674](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1674))
+    - Tags: [[pink]] 
+- “There is no fire like lust, no grip like anger, and no net like delusion.” ([Location 1677](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1677))
+    - Tags: [[blue]] 
+- wanting ([Location 1679](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1679))
+- “pulling in, pushing away, and running around in circles.” ([Location 1680](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1680))
+    - Tags: [[orange]] 
+- “What’s the attitude in the mind right now?” ([Location 1682](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1682))
+    - Tags: [[pink]] 
+- Often, just in asking the question, we can feel the mind relax from a clinging or aversion we hadn’t even realized was there. ([Location 1683](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1683))
+    - Tags: [[blue]] 
+- we are more likely to dwell on the difficulties, ([Location 1686](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1686))
+- As an experiment, pay attention to the next time you experience a strong wanting in the mind. ([Location 1690](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1690))
+    - Tags: [[orange]] 
+- And then notice as the wanting disappears, ([Location 1691](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1691))
+    - Tags: [[pink]] 
+- “Everything in the world has its own secret name—a name that cannot be conveyed in language but is simply the sight and feel of the thing itself.” This is mindfulness sinking into the object and knowing it fully. ([Location 1695](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1695))
+- Since the kilesas, defilements, are not always present, they are therefore adventitious, which means they are not inherent or innate to the mind; they are not the nature of the mind itself, but are visitors that come at different times due to conditions. ([Location 1697](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1697))
+    - Tags: [[orange]] 
+- drowning in the defilements ([Location 1707](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1707))
+    - Tags: [[pink]] 
+- remembering that they are visitors. ([Location 1708](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1708))
+    - Tags: [[blue]] 
+- instead of applying the instructions to simply be mindful of it, ([Location 1712](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1712))
+    - Tags: [[blue]] 
+- Fear is just a mind state. ([Location 1715](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1715))
+- Contracted here refers to the inner withdrawal of the mind due to sloth and torpor. ([Location 1719](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1719))
+    - Tags: [[orange]] 
+- restlessness. ([Location 1721](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1721))
+    - Tags: [[orange]] 
+- First we develop awareness of the three wholesome and unwholesome roots, ([Location 1722](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1722))
+    - Tags: [[blue]] 
+- Next, the Buddha says to be mindful both of the contraction of mind in sloth and the distraction of mind in restlessness. ([Location 1723](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1723))
+- the mind then finds the balance necessary for deeper concentration and the higher states of mind that follow. ([Location 1724](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1724))
+    - Tags: [[orange]] 
+- through bare attention and mirrorlike wisdom, we see their ephemeral, impermanent, and selfless nature. ([Location 1728](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1728))
+    - Tags: [[blue]] 
+- Ask Yourself, “What Is Happening?” ([Location 1732](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1732))
+    - Tags: [[blue]] 
+- Feelings of struggle can become very useful feedback. They are always telling us that something is going on that we’re not accepting, not opening to. Because if we were accepting it, we wouldn’t be struggling. ([Location 1744](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1744))
+    - Tags: [[pink]] 
+- awareness of our daily background moods or emotions. ([Location 1747](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1747))
+- we often sink into them and become identified with them, and they become the unconscious filter on experience. ([Location 1750](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1750))
+    - Tags: [[orange]] 
+- When we identify with them, we build a superstructure of self on top of the shifting landscape of experience: ([Location 1752](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1752))
+    - Tags: [[pink]] 
+- Within itself, the mind is already peaceful. That the mind is not peaceful these days is because it follows moods. It becomes agitated because moods deceive it. The untrained mind is stupid. Sense impressions come and trick it into unhappiness, suffering, gladness and sorrow, but the mind’s true nature is none of these things. Gladness or sadness is not the mind, but only a mood coming to deceive us. The untrained mind gets lost and follows these things, it forgets itself, then we think that it is we who are upset or at ease or whatever. But really this mind of ours is already unmoving and peaceful, really peaceful. So we must train the mind to know these sense impressions and not get lost in them. Just this is the aim of all this difficult practice we put ourselves ([Location 1756](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1756))
+    - Tags: [[blue]] 
+- The Qualities of Concentration According to the commentaries, the first three pairs refer to different qualities of concentration. Great and narrow refer to how far the concentration pervades. For example, in the brahmavihāra practices of love and compassion, they refer to whether we are radiating these feelings toward all beings or just one person. Surpassable and unsurpassable refer to the level of absorption and whether the higher levels are attainable or not. (As an interesting footnote, unsurpassable refers here to the fourth jhāna, because the higher formless absorptions have the same degree of concentration, simply more refined objects.5) The third pair, concentrated and unconcentrated, emphasizes being mindful of whether stable one-pointedness in both samatha (concentration) and vipassanā (insight) meditation is present or not. ([Location 1766](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1766))
+- the practice of mindfulness is all-inclusive; no state is left out. ([Location 1778](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1778))
+    - Tags: [[orange]] 
+- One thing you need to remember and understand is that you cannot leave the mind alone. It needs to be watched constantly. If you do not look after your garden it will overgrow with weeds. If you do not watch your mind, defilements will grow and multiply. The mind does not belong to you, but you are responsible for it ([Location 1787](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1787))
+    - Tags: [[orange]] 
+- If we put our hand in fire and it burns us, we don’t need to keep rediscovering this result by repeatedly touching the flames. ([Location 1809](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1809))
+    - Tags: [[blue]] 
+- Just as pleasant feelings condition desire, unpleasant ones condition aversion, and neutral feelings condition ignorance when we’re unmindful internally, so too might seeing painful feelings in others trigger grief, sorrow, or denial in ourselves when we’re unmindful externally. In some circumstances, painful feelings in others can trigger cruelty. ([Location 1817](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1817))
+- Likewise, when we’re unmindful externally, the pleasant feelings in others could trigger jealousy or envy. ([Location 1822](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1822))
+    - Tags: [[orange]] 
+- It took some time for my mind to settle down, and when I observed how calm and concentrated my friend was, the comparing mind sprang to the fore, tinged with envy and self-judgment. But after noticing this pattern with its attendant suffering, I started doing the meditation on muditā, or empathetic joy. This is the practice of wishing the happiness and success of others to continually grow and increase. It was surprising to me how quickly the mind shifted from the suffering of envy to the happiness of joy in my friend’s success. ([Location 1832](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1832))
+    - Tags: [[orange]] 
+- So being mindful externally revealed certain limitations I had created in my own mind. ([Location 1841](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1841))
+    - Tags: [[pink]] 
+- We can also learn from times when at first we’re not being mindful externally, but then, through our own reactivity, we become aware of what’s happening. ([Location 1845](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1845))
+    - Tags: [[blue]] 
+- Are we simply noticing that those mind states have arisen in others, or is there some reactive charge in our own minds? ([Location 1848](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1848))
+- Reactions to others can be a powerful mindfulness bell, reminding us to pay attention. ([Location 1849](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1849))
+    - Tags: [[orange]] 
+- We can become mindful of our own reactive mind states, such as impatience, anger, or fear. ([Location 1850](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1850))
+    - Tags: [[pink]] 
+- We can then become mindful of the bodily actions, feelings, or mind states of others that have triggered our reactions, noticing if we’re also reactive to those same qualities in ourselves. ([Location 1851](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1851))
+    - Tags: [[blue]] 
+- The second part of the refrain, as mentioned earlier with respect to the body and feelings, tells us to contemplate the nature of arising, of passing away, and both arising and passing away of the mind as it is conditioned by different states. The Pali word saṃsāra means “wandering on,” “continuing on,” or “revolving.” It traditionally refers to our wandering through the different realms of existence over many lifetimes. But we can also see this same process at work within a single lifetime, and even a single day. ([Location 1861](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1861))
+    - Tags: [[blue]] 
+- we begin to free ourselves from both identification with and reaction to them. ([Location 1867](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1867))
+- We can further understand the impermanent, conditioned arising nature of mind states by seeing what triggers them. ([Location 1869](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1869))
+    - Tags: [[orange]] 
+- We can notice the relationship of thought to emotion and emotion to thought, and how each can powerfully condition the other. ([Location 1870](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1870))
+    - Tags: [[pink]] 
+- desire itself that desires, ([Location 1878](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1878))
+    - Tags: [[blue]] 
+- Direct insight—that is, seeing into their passing away — brings about the space to be with mind states and emotions without fear, without identification, and without reaction. ([Location 1880](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1880))
+- If we could fully open to the truth of it, we would be free of attachment and clinging to anything at all. ([Location 1885](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1885))
+    - Tags: [[orange]] 
+- The next line of the refrain answers the unspoken question, “Just how much mindfulness is needed?” It says, “Mindfulness that ‘there is a feeling’ or ‘there is mind’ is established in one to the extent necessary for bare knowledge and continuous mindfulness.” “Bare knowledge” here means observing or knowing objectively what is arising, without getting lost in associations, reactions, judgments or evaluations, or, if we do get lost, to then become aware of those states themselves. ([Location 1891](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1891))
+    - Tags: [[pink]] 
+- We begin to observe that bare knowing is effortless; it is the very nature of the mind itself. ([Location 1901](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1901))
+    - Tags: [[blue]] 
+- mirrorlike quality of the mind. ([Location 1903](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1903))
+- This bare knowing is not something we try to do or create; rather, it is something to come back to. ([Location 1904](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1904))
+    - Tags: [[orange]] 
+- noninterfering awareness, ([Location 1908](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1908))
+    - Tags: [[pink]] 
+- The emphasis moves from mindfulness of the content of the experience to mindfulness of the process of change itself. ([Location 1920](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1920))
+- “the propositions of doctrine are transmuted into immediate perception, here and now. ([Location 1944](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1944))
+    - Tags: [[blue]] 
+- When we’re not mindful of them, the hindrances envelop the mind and obstruct it from developing wise discernment regarding skillful and unskillful actions. ([Location 1953](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1953))
+- In order to proceed on the path, we first need to know how to work skillfully with what impedes our journey. ([Location 1955](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1955))
+    - Tags: [[orange]] 
+- When sense desire is present in the mind, it is as if the pool were suffused with a colored dye. ([Location 1959](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1959))
+    - Tags: [[pink]] 
+- Desires color our perceptions. ([Location 1960](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1960))
+    - Tags: [[blue]] 
+- When aversion is present, it is like boiling water. We can’t see clearly. ([Location 1960](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1960))
+- When we’re heated up by anger, we’re in a state of turbulence. ([Location 1961](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1961))
+    - Tags: [[orange]] 
+- Sloth and torpor are like the pool overgrown with algae. ([Location 1961](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1961))
+    - Tags: [[pink]] 
+- Restlessness and worry are like water when it is stirred up by the wind. ([Location 1962](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1962))
+    - Tags: [[blue]] 
+- And doubt is like muddy water, where we can’t see to the bottom, and everything is obscured. ([Location 1963](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1963))
+- debt, a disease, a prison house, slavery, and a road across a desert. ([Location 1975](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1975))
+    - Tags: [[blue]] 
+- But when these five hindrances have been abandoned in himself, he sees that as freedom from debt, healthiness, release from prison, freedom from slavery, and a land of ([Location 1976](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1976))
+- Pay particular attention to moments of transition, when we go from being lost in one of the hindrances to being mindful of them. ([Location 1979](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1979))
+    - Tags: [[orange]] 
+- Often they have become such familiar parts of our inner landscape that we overlook, or don’t realize, the impact they have on our lives. ([Location 1980](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1980))
+    - Tags: [[pink]] 
+- He said that when attended to carelessly, “these five hindrances are makers of blindness, causing lack of vision, causing lack of knowledge, detrimental to wisdom, tending to vexation, leading away from nibb ([Location 1983](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1983))
+    - Tags: [[blue]] 
+- “the luminous mind,” free of desire, which is the basis for delight, joy, tranquility, happiness, concentration, and insight. ([Location 2009](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2009))
+- we develop confidence and faith in the practice based on our own experience rather than on belief and hope. ([Location 2013](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2013))
+    - Tags: [[orange]] 
+- “Bhikkhus, whatever a bhikkhu frequently thinks and ponders upon, that will become the inclination of the mind. If one frequently thinks and ponders upon thoughts of sensual desire, one has abandoned the thought of renunciation to cultivate thoughts of sensual desire, and then the mind inclines to thoughts of sensual desire. ([Location 2022](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2022))
+- the more often they are repeated, the more probable they become. ([Location 2026](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2026))
+    - Tags: [[orange]] 
+- Sensual desires also arise from the fundamental misperception that they will actually bring about a lasting happiness — something that, given their impermanence, is not possible. ([Location 2028](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2028))
+    - Tags: [[pink]] 
+- By knowing how it arises, we can practice taking some wise preventative measures—that is, taking care of our mental health and wellbeing in the same way we take care of our physical health. ([Location 2062](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2062))
+    - Tags: [[blue]] 
+- Reflecting on those aspects of the body that are not attractive can be a strong counterbalance to all the other images that beguile us. ([Location 2065](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2065))
+- guarding the sense ([Location 2067](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2067))
+    - Tags: [[orange]] 
+- moderation in food and association with wise friends, ([Location 2068](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2068))
+    - Tags: [[pink]] 
+- from diagnosis to cure to prevention. ([Location 2069](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2069))
+    - Tags: [[blue]] 
+- All things arise when the appropriate conditions are present, and all things pass away as conditions change. ([Location 2072](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2072))
+- paṭigha, ([Location 2084](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2084))
+- sorrow and grief. ([Location 2086](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2086))
+    - Tags: [[orange]] 
+- “One does not become enlightened by imagining figures of light, but by making the darkness conscious. The latter procedure, however, is disagreeable and therefore not popular. ([Location 2094](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2094))
+    - Tags: [[pink]] 
+- We then become mindful of the conditions that lead to its arising. ([Location 2098](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2098))
+    - Tags: [[blue]] 
+- Just as an untrained mind becomes entranced by pleasurable experiences, it also becomes dissatisfied or angry or fearful of unpleasant ones. ([Location 2099](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2099))
+- conditioning aversion. ([Location 2103](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2103))
+    - Tags: [[orange]] 
+- energy block ([Location 2106](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2106))
+    - Tags: [[pink]] 
+- just a concept ([Location 2107](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2107))
+    - Tags: [[blue]] 
+- “block” and feeling as something solid was instead a small field of changing sensations. ([Location 2110](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2110))
+- we’re really just getting angry at a thought. ([Location 2114](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2114))
+    - Tags: [[orange]] 
+- “painted tiger” ([Location 2118](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2118))
+    - Tags: [[pink]] 
+- A certain thought arises, and if we’re not mindful of it as a thought, an emotion might quickly follow. ([Location 2120](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2120))
+    - Tags: [[blue]] 
+- We no longer take them so personally. ([Location 2123](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2123))
+- The Buddha gave some specific examples of this conditioning. In one sutta, he talked of how ill will and malice are stirred by thinking that someone in the past (or present or future) has done us an injury, or has injured a loved one, or has done favors for an enemy (someone we don’t like). ([Location 2124](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2124))
+    - Tags: [[orange]] 
+- If we’re feeling tired or grumpy, small things can provoke aversion or irritation. ([Location 2131](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2131))
+    - Tags: [[pink]] 
+- aversion arises when we personalize difficulties that are essentially impersonal. ([Location 2135](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2135))
+    - Tags: [[blue]] 
+- aversion arises when we don’t get what we want or we do get what we don’t want. ([Location 2139](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2139))
+- Practice Mindfulness When Aversion Is Present ([Location 2143](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2143))
+    - Tags: [[blue]] 
+- soft mental note, ([Location 2145](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2145))
+- At a certain point, the mind state will change, and noticing its passing away offers a deepening and important insight into its impermanent nature. ([Location 2147](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2147))
+    - Tags: [[orange]] 
+- If we feel really caught by it, we can then bring some further investigation to these aversive states. ([Location 2149](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2149))
+    - Tags: [[pink]] 
+- check the accuracy of the note. ([Location 2150](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2150))
+    - Tags: [[blue]] 
+- Instead of making a general note of aversion, look more carefully at the specific form the aversion is taking. ([Location 2150](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2150))
+- Note the Relationship of Mind to Emotion ([Location 2154](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2154))
+    - Tags: [[orange]] 
+- look at the relationship of the mind to the emotion. ([Location 2155](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2155))
+    - Tags: [[orange]] 
+- no one makes us feel things in a particular way. ([Location 2162](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2162))
+    - Tags: [[blue]] 
+- how we relate to those feelings is up to us. ([Location 2163](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2163))
+- There is a range of skillful relationships to anger, ill will, and other forms of aversion, and we need to find the one that is appropriate to our own particular conditioning. ([Location 2163](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2163))
+    - Tags: [[orange]] 
+- If you keep breathing on your anger, shining your compassion and understanding on it, your anger will soon crack and you will be able to look into its depths and see its roots. ([Location 2171](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2171))
+    - Tags: [[pink]] 
+- On the other side, if we tend to self-indulgence or self-pity, the warrior mode suggested by Sayadaw U Paṇḍita might be more appropriate: “Pulverize the defilements, show them no mercy.” ([Location 2173](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2173))
+    - Tags: [[blue]] 
+- power of investigation ([Location 2179](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2179))
+    - Tags: [[pink]] 
+- Use Wise Reflection to Weaken Aversion ([Location 2182](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2182))
+    - Tags: [[blue]] 
+- “What good will it do to hold on to malice, anger, or resentment?” ([Location 2188](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2188))
+    - Tags: [[blue]] 
+- “He abused me, he beat me, he defeated me, he robbed me. Those who harbor such thoughts do not still their hatred.” ([Location 2191](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2191))
+- is our main concern being right or being free? ([Location 2193](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2193))
+    - Tags: [[orange]] 
+- If we’re counting on someone to fulfill an agreed-upon responsibility, isn’t it quite normal and even justified to become annoyed and angry when they ([Location 2198](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2198))
+    - Tags: [[orange]] 
+- fail to do so simply out of laziness or disregard — and not just once, but many times? ([Location 2199](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2199))
+    - Tags: [[orange]] 
+- This is a freedom that’s not simply about feeling good and, therefore, depending on conditions being a certain way. ([Location 2202](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2202))
+    - Tags: [[pink]] 
+- The difficulties that we face in our lives can become a truth-reflecting mirror of our minds. ([Location 2203](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2203))
+- “This is wrong. I should do something about it.”—we can reflect on the nature of freedom and not hold on to the anger or hatred, even as we take appropriate action. ([Location 2206](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2206))
+    - Tags: [[orange]] 
+- value and importance of patience. ([Location 2209](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2209))
+    - Tags: [[pink]] 
+- “Why be unhappy about something if it can be remedied? And what is the use of being unhappy about something if it cannot be remedied? ([Location 2210](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2210))
+    - Tags: [[blue]] 
+- Can you genuinely feel grateful to him or it for the opportunity to practice patience? ([Location 2213](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2213))
+- Do we even remember to try? ([Location 2214](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2214))
+    - Tags: [[orange]] 
+- Remembering to make patience a practice helps loosen our attachment to our own views, our attachment to being right. ([Location 2215](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2215))
+    - Tags: [[pink]] 
+- “Think about something else.” ([Location 2218](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2218))
+    - Tags: [[blue]] 
+- At this point, distracting or diverting our minds can be skillful. ([Location 2219](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2219))
+- development of lovingkindness, mettā in Pali. ([Location 2222](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2222))
+    - Tags: [[blue]] 
+- Metta helps prevent the arising of aversion because it focuses on the good in people, rather than on their faults. ([Location 2223](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2223))
+- But it is precisely the mind not clouded by anger or hatred that allows us to see situations clearly and to chart the right course of action, even in very difficult situations. ([Location 2226](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2226))
+    - Tags: [[orange]] 
+- But as we practice it, recognize it, and become more familiar with it, mettā begins to arise more and more spontaneously in our lives. It becomes the way we are, rather than something we do. ([Location 2229](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2229))
+    - Tags: [[pink]] 
+- As lovingkindness grows stronger, both for ourselves and others, we feel more tolerance, are a little less judgmental, and slowly and gradually start to live in a growing field of benevolence and goodwill. Here is where mettā as a dissolver of aversion also becomes the ground for wisdom. The more loving and patient we are with difficulties and disturbances, the less lost we are in reactivity. Our choices and actions become wiser, which in turn leads to more happiness, more mettā, and greater freedom. ([Location 2230](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2230))
+    - Tags: [[blue]] 
+- examining their presence or absence ([Location 2238](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2238))
+    - Tags: [[blue]] 
+- conditions for their arising, removal, and prevention. ([Location 2238](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2238))
+- Sloth is a sluggishness of mind, ([Location 2239](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2239))
+    - Tags: [[orange]] 
+- sinking state. ([Location 2240](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2240))
+    - Tags: [[blue]] 
+- Torpor is the dull or weakened state of the mental factors, making them unwieldy. ([Location 2240](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2240))
+    - Tags: [[pink]] 
+- there are often the withdrawal symptoms of dullness and sleepiness. ([Location 2246](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2246))
+    - Tags: [[pink]] 
+- increasingly wakeful and alert ([Location 2247](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2247))
+    - Tags: [[blue]] 
+- perhaps at particular times in the day, ([Location 2248](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2248))
+- it becomes easier to work with them as passing mental states, rather than as some defining characteristic of our minds. ([Location 2249](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2249))
+    - Tags: [[orange]] 
+- rather the deeper pattern or tendency of withdrawing from difficulties. ([Location 2252](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2252))
+    - Tags: [[orange]] 
+- retreating from challenges ([Location 2252](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2252))
+    - Tags: [[orange]] 
+- always pulling back. ([Location 2254](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2254))
+    - Tags: [[pink]] 
+- This pattern of retreating from difficulties strengthens the tendencies toward laziness and inactivity, passivity and lethargy. At these times, there is no energy or power to do or accomplish anything. Here, the factors of sloth and torpor keep us from drawing on the strength that we actually have. ([Location 2254](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2254))
+    - Tags: [[blue]] 
+- cozy and comfortable. ([Location 2262](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2262))
+- just a few more minutes of this warm and comfy state.” ([Location 2263](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2263))
+    - Tags: [[orange]] 
+- comparing, ([Location 2266](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2266))
+    - Tags: [[blue]] 
+- self-judgments on to him, seeing all his faults. Then, ([Location 2267](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2267))
+    - Tags: [[pink]] 
+- contracted ([Location 2270](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2270))
+    - Tags: [[blue]] 
+- sloth and torpor are present and when they are absent, ([Location 2273](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2273))
+- conditions for their arising. ([Location 2275](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2275))
+    - Tags: [[orange]] 
+- “There are, bhikkhus, discontent, lethargy, lazy stretching, drowsiness after meals, sluggishness of mind: frequently giving careless attention to them is the nutriment for arising of unarisen sloth and torpor and for the increase and expansion of arisen sloth and ([Location 2278](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2278))
+    - Tags: [[orange]] 
+- Just as thoughts often trigger the emotions of desire and anger, so too can thoughts powerfully condition the arising of sloth and torpor. ([Location 2282](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2282))
+    - Tags: [[pink]] 
+- Sometimes we’re fooled into unwise attention because sloth and torpor can come masquerading as compassion for oneself. ([Location 2283](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2283))
+    - Tags: [[blue]] 
+- “If I work too hard I’ll probably get sick. Let me take care of myself. ([Location 2285](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2285))
+- Of course, at times we do need rest, but often we don’t; instead, the retreating mode of this hindrance is simply coming into play. ([Location 2286](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2286))
+    - Tags: [[orange]] 
+- not acknowledging difficult emotions. ([Location 2296](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2296))
+    - Tags: [[blue]] 
+- sometimes sloth and torpor arise as a defense against feeling it. ([Location 2297](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2297))
+- repressed feelings ([Location 2298](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2298))
+    - Tags: [[orange]] 
+- the arising of sloth and torpor can be a signal that perhaps something else is going on that we should look at. ([Location 2298](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2298))
+    - Tags: [[pink]] 
+- hold this understanding lightly and simply take a look to see what’s there. ([Location 2300](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2300))
+    - Tags: [[blue]] 
+- Notice how you feel just after taking food, and see if there is some relationship of the state of mind to the amount of food you eat. ([Location 2302](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2302))
+- sloth and torpor can also arise from not eating enough. ([Location 2305](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2305))
+    - Tags: [[orange]] 
+- imbalance of concentration and energy. ([Location 2310](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2310))
+    - Tags: [[pink]] 
+- “sinking mind.” ([Location 2311](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2311))
+    - Tags: [[blue]] 
+- not much alertness. ([Location 2312](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2312))
+- Mindfulness and bare attention reinforce our insight into their impermanence, as we realize that we don’t have to fulfill desire or act on anger or indulge the sleepiness in order for it to pass away. ([Location 2333](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2333))
+    - Tags: [[blue]] 
+- We see that these states all come and go by themselves. ([Location 2335](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2335))
+- clarity of cognition. ([Location 2338](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2338))
+    - Tags: [[blue]] 
+- Developing mental clarity, or clarity of knowing, happens in several ways. ([Location 2338](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2338))
+- it develops through a careful noting of a greater number of objects as a way of brightening awareness. ([Location 2339](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2339))
+    - Tags: [[orange]] 
+- When we include more objects in our field of awareness, the mind becomes more active and alert, counteracting the influence of sloth and torpor. ([Location 2344](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2344))
+    - Tags: [[orange]] 
+- vitakka ([Location 2346](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2346))
+    - Tags: [[pink]] 
+- the aiming of the mind toward the object. ([Location 2347](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2347))
+    - Tags: [[pink]] 
+- vicāra, ([Location 2347](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2347))
+    - Tags: [[blue]] 
+- “sustained ([Location 2347](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2347))
+    - Tags: [[blue]] 
+- application,” ([Location 2347](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2347))
+    - Tags: [[blue]] 
+- We can emphasize these factors by consciously remembering to aim and connect with the arising of each object of awareness, and then sustain the attention for its duration. ([Location 2349](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2349))
+- radiant mind. ([Location 2351](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2351))
+    - Tags: [[orange]] 
+- knowing ([Location 2352](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2352))
+    - Tags: [[pink]] 
+- develop clarity of cognition ([Location 2356](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2356))
+- focusing on light. ([Location 2356](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2356))
+    - Tags: [[blue]] 
+- We can do this simply by directing our attention to the perception of light either from an external source, be it natural or artificial, or from some internal vision of light in the mind. ([Location 2356](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2356))
+    - Tags: [[orange]] 
+- open our eyes ([Location 2361](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2361))
+    - Tags: [[pink]] 
+- About a minute later, another wave would pass through. ([Location 2366](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2366))
+    - Tags: [[orange]] 
+- This was an important lesson in realizing that sleepiness is not some monolithic, unchanging state requiring us to go to sleep, but rather a changing energy pattern that we can be with and allow to pass through. ([Location 2367](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2367))
+    - Tags: [[pink]] 
+- changing postures, ([Location 2369](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2369))
+    - Tags: [[blue]] 
+- standing or walking, going outdoors, splashing water on one’s face, and even pulling one’s earlobes. ([Location 2369](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2369))
+- difficulties as challenges, ([Location 2376](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2376))
+- is usually sufficient to rejuvenate us. ([Location 2400](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2400))
+    - Tags: [[blue]] 
+- arousal, ([Location 2407](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2407))
+- endeavor, ([Location 2407](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2407))
+    - Tags: [[orange]] 
+- exertion; ([Location 2407](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2407))
+    - Tags: [[pink]] 
+- the first step of satipaṭṭhāna is not in actively opposing the hindrance or struggling with it, but in clearly recognizing and being mindful of it, and in recognizing the conditions related to its presence or absence. ([Location 2411](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2411))
+    - Tags: [[pink]] 
+- notice whether the hindrance is present or absent in the mind. ([Location 2433](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2433))
+    - Tags: [[blue]] 
+- Practice Mindfulness ([Location 2524](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2524))
+- Restlessness feels more scattered; worry feels more anxious. ([Location 2531](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2531))
+    - Tags: [[orange]] 
+- We can reflect on our purpose for practicing. ([Location 2554](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2554))
+    - Tags: [[pink]] 
+- When we remember our sense of purpose, it is easier to connect again with the object of awareness, to be mindful of just what there is. And as the scattered, dispersed mind begins to settle on the present-moment experience, we go from restlessness to restfulness, and our practice continues to deepen. ([Location 2558](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2558))
+    - Tags: [[pink]] 
+    - Note: Ardency
+- Guilt is simply an ego trip of the mind. Remorse, on the other hand, acknowledges the action, understands its unwholesomeness, makes amends when possible, and then moves on. This is an act of self-forgiveness, which is honest in its assessment and wise in its understanding of impermanence and selflessness. ([Location 2567](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2567))
+    - Tags: [[blue]] 
+- Know That Awareness Is Already Present ([Location 2575](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2575))
+- “If doubt is present, one knows ‘there is doubt in me’; if doubt is not present, one knows ‘there is no doubt in me.’ And one knows how unarisen doubt can arise, how arisen doubt can be removed, and how a future arising of doubt can be prevented. ([Location 2589](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2589))
+    - Tags: [[orange]] 
+- The first kind of doubt is helpful. ([Location 2596](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2596))
+- Just as we don’t want to dogmatically believe everything we hear, we don’t want to automatically disbelieve something simply because it doesn’t fit our current view. ([Location 2597](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2597))
+    - Tags: [[blue]] 
+- The beauty and power of the Buddha’s message is his reminder that we shouldn’t believe something because we read it in books or because some teacher said it. ([Location 2598](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2598))
+    - Tags: [[pink]] 
+- hindrance. ([Location 2601](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2601))
+    - Tags: [[orange]] 
+- “To choose doubt as a philosophy of life is akin to choosing immobility as a means of transportation.” ([Location 2605](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2605))
+    - Tags: [[pink]] 
+- It was not a matter of which tradition was right, but rather, coming to the understanding that all the teachings were skillful means for liberation. ([Location 2624](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2624))
+    - Tags: [[blue]] 
+- Does this teaching help to free the mind? ([Location 2626](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2626))
+    - Tags: [[pink]] 
+- Perhaps an even stronger manifestation of doubt has less to do with our confidence in particular teachings and more to do with our own ability to put them into practice. ([Location 2628](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2628))
+- “plagued by doubt.” ([Location 2634](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2634))
+    - Tags: [[blue]] 
+- the mind simply gets lost in endless speculation. ([Location 2636](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2636))
+    - Tags: [[pink]] 
+- This endless conjecture is exhausting. ([Location 2637](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2637))
+- Doubt is likened to a thorny mind. It keeps jabbing us, and we feel irritable, dissatisfied, and discouraged. ([Location 2637](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2637))
+    - Tags: [[blue]] 
+- The great seduction of doubt is that it comes masquerading as wisdom. ([Location 2640](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2640))
+    - Tags: [[blue]] 
+- unwise attention ([Location 2658](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2658))
+    - Tags: [[orange]] 
+- We experience unwise attention in different ways. One way is by not paying careful attention in the moment to the moment, not seeing and recognizing what the particular thoughts and feelings are that give rise to doubt. This can happen when we’re being what I call “more-or-less mindful.” We’re going along, somewhat aware of what is happening, but not in a precise and accurate way. In this situation, unnoticed thought tapes gather momentum and begin to dominate the mind stream. ([Location 2662](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2662))
+    - Tags: [[blue]] 
+- We see that each of these doubts is itself just another passing thought, and we don’t give them any power. ([Location 2667](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2667))
+    - Tags: [[pink]] 
+- We can then come back to the simplicity of the moment — to the breath, to a step, to just what is arising. In these moments, the power of doubt no longer holds sway. ([Location 2668](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2668))
+    - Tags: [[orange]] 
+- not knowing what is wholesome and what is unwholesome. ([Location 2670](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2670))
+    - Tags: [[blue]] 
+- Not knowing what brings happiness and what brings suffering, we stay stuck in the quagmire of many wrong actions, all of which are a further breeding ground for doubt. ([Location 2672](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2672))
+    - Tags: [[pink]] 
+- Without an understanding of what is skillful and what is unskillful, we end up doing a lot of things that either don’t bring their promised results or actually bring harm to others and ourselves. This, in turn, leads to doubt and confusion about what we’re doing in our practice and our lives. ([Location 2675](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2675))
+    - Tags: [[orange]] 
+- there is the counterintuitive teaching that it is better to do an unskillful act knowing that it’s unskillful than to do it without that knowledge. ([Location 2678](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2678))
+    - Tags: [[blue]] 
+- If we go ahead and do that act, even as we know that it’s unskillful, there are still the seeds of wisdom that can lead to future restraint. ([Location 2679](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2679))
+    - Tags: [[pink]] 
+- It’s interesting to note that the very opposite of doubt is the beautiful mental factor of faith. ([Location 2681](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2681))
+    - Tags: [[orange]] 
+- The gradual overcoming of doubt gives greater meaning and power to the taking of refuge, because, at least to some extent, it is verified in our own experience, ([Location 2686](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2686))
+    - Tags: [[blue]] 
+- (khandhas, ([Location 2693](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2693))
+    - Tags: [[orange]] 
+- material elements, ([Location 2693](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2693))
+- feelings, ([Location 2694](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2694))
+    - Tags: [[blue]] 
+- perceptions, ([Location 2694](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2694))
+    - Tags: [[pink]] 
+- formations, ([Location 2694](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2694))
+    - Tags: [[orange]] 
+- consciousness. ([Location 2694](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2694))
+- contemplation to analyze our subjective experience ([Location 2694](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2694))
+    - Tags: [[orange]] 
+- to deconstruct the deeply held concept of self. ([Location 2695](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2695))
+    - Tags: [[blue]] 
+- holding up a lamp in the dark for those with eyes to ([Location 2698](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2698))
+    - Tags: [[pink]] 
+- the realm of direct experience, ([Location 2699](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2699))
+    - Tags: [[orange]] 
+- they lead us into a profound investigation of what it is we call “life.” ([Location 2700](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2700))
+- new levels of understanding, similar to, and even more transformative than, the great discoveries of the atom or the quantum realities that underlie our conventional perceptions of the world. ([Location 2700](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2700))
+    - Tags: [[blue]] 
+- The teachings on the aggregates directly point to those realities underneath the surface ([Location 2702](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2702))
+    - Tags: [[pink]] 
+- appearance of “self” or “I” or “being.” ([Location 2702](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2702))
+    - Tags: [[pink]] 
+- “How does one abide contemplating dhammas in terms of the five aggregates of clinging?” ([Location 2705](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2705))
+    - Tags: [[orange]] 
+- a collection or a heap of things, ([Location 2708](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2708))
+    - Tags: [[blue]] 
+- dukkhakhandha ([Location 2709](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2709))
+    - Tags: [[pink]] 
+- all that is included under the term dukkha, or all that makes up the idea of suffering or ill. ([Location 2709](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2709))
+    - Tags: [[pink]] 
+- The power of the teachings lies in their directions for us to experience this for ourselves. ([Location 2716](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2716))
+    - Tags: [[orange]] 
+- “the five aggregates of clinging.” ([Location 2719](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2719))
+- our identification with, desire for, or clinging to these aggregates, either individually or collectively. ([Location 2719](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2719))
+    - Tags: [[blue]] 
+- it is this clinging to the aggregates that is the underlying cause of suffering. ([Location 2720](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2720))
+    - Tags: [[pink]] 
+- We may think that we’re feeling the foot or leg, but there are no sensations called “foot.” ([Location 2731](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2731))
+    - Tags: [[orange]] 
+- The words remain the same, which reinforces the illusion that there is something permanent that these words refer to. ([Location 2735](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2735))
+- The feeling tone is so important because it is the conditioning factor of our reactions. When we experience something as pleasant, we like it, and we want to hold on to it and have it continue. So we can see how pleasant feelings condition desire, craving, and grasping. ([Location 2745](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2745))
+    - Tags: [[orange]] 
+- perception is the factor that picks out the distinguishing marks of an object, names it, then remembers this word or concept and applies it the next time we experience that particular object. ([Location 2767](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2767))
+    - Tags: [[orange]] 
+- When perception and mindfulness are balanced, they work together in the service of insight. ([Location 2770](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2770))
+- It’s a perception that keeps us from understanding what is true. ([Location 2783](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2783))
+    - Tags: [[blue]] 
+- When there is perception without mindfulness, which is our usual way of being in the world, we recognize just the surface appearance of things; we have not entered deeply into the experience and do not see its impermanent, insubstantial nature. ([Location 2797](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2797))
+    - Tags: [[orange]] 
+- Perception recognizes certain kinds of thoughts—memories, recollections, plans—creates the concepts of past and future, and then takes these concepts to have some intrinsic reality. ([Location 2809](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2809))
+    - Tags: [[orange]] 
+- But what is actually happening is simply different thoughts arising and passing in the moment. ([Location 2811](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2811))
+- As soon as we identify with any role or image, it is already a limitation. ([Location 2825](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2825))
+- We also project these assessments onto others and then suffer with the comparing mind. ([Location 2828](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2828))
+- We create concepts about things that may seem even more fundamental, such as age, gender, race, and culture. ([Location 2845](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2845))
+    - Tags: [[blue]] 
+- But we often become so identified with and attached to the concept that we solidify and fix the sense of who we are. ([Location 2847](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2847))
+    - Tags: [[pink]] 
+- One of our deepest conditionings and the source of so much suffering in our lives comes from one basic misguided perception, which is the mind-created concept of self. This is the idea that there is someone behind experience to whom it is all happening. We recognize a pattern of physical and mental elements, call it “Joseph” or “self,” and then fail to look past the perceived pattern, not seeing that these concepts are only a designation for an arising appearance of complex interactions. Imagine for a moment a great summer storm. There is wind and rain, thunder and lightning; but there is no storm apart from these elements. “Storm” is simply the concept or designation for this interrelated mix of phenomena. In the same way, when we look more closely at what we are calling “self,” we see a constellation of rapidly changing elements, each one of which is itself momentary and insubstantial. Understanding our experience through the lens of the five aggregates helps us realize for ourselves the fundamental selfless nature of all phenomena. ([Location 2883](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2883))
+    - Tags: [[orange]] 
+- “all formations are impermanent, all formations are unsatisfactory, all formations are selfless.” ([Location 2896](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2896))
+    - Tags: [[orange]] 
+- “the universals,” ([Location 2905](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2905))
+    - Tags: [[orange]] 
+- The seven common mental factors are contact, feeling, perception, attention (which is different and more superficial than mindfulness), one-pointedness, volition, and something called “life faculty.” ([Location 2907](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2907))
+- occasionals,” ([Location 2909](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2909))
+    - Tags: [[orange]] 
+- delusion, shamelessness, fearlessness of wrongdoing, and restlessness. ([Location 2915](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2915))
+    - Tags: [[pink]] 
+- The contemplation of the fourth of the aggregates, saṅkārās, is an essential part of our practice, because whenever we identify with any of these factors, whether wholesome or unwholesome, we reinforce both the concept and felt sense of self. ([Location 2928](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2928))
+    - Tags: [[orange]] 
+- When we observe them more carefully, we see that each of these mental factors arises out of conditions in the moment, expresses its own nature, and passes away as conditions change. ([Location 2932](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2932))
+    - Tags: [[orange]] 
+- One Tibetan text describes this phenomenon as clouds passing through the sky, without roots, without a home. ([Location 2934](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2934))
+    - Tags: [[blue]] 
+- What helps us contemplate all these mental factors with wisdom and insight is seeing what conditions the arising of different emotions and mind states. We can notice how often a mood or emotion is triggered by a particular thought. We might think of a person and feel delight or longing or anger. Although the thought or image of the person may be very quick, the triggered emotion can linger on in the mind and body. Or sometimes our moods trigger certain patterns of thoughts. We might feel tired, discouraged, or grumpy and then begin to notice a lot of critical, judgmental thoughts. ([Location 2937](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2937))
+    - Tags: [[blue]] 
+- volition ([Location 2946](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2946))
+    - Tags: [[orange]] 
+- this particular quality in the mind. ([Location 2947](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2947))
+    - Tags: [[orange]] 
+- factor that is concerned with the actualization of a goal. ([Location 2947](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2947))
+    - Tags: [[blue]] 
+- What this means is that all intentional, volitional actions, whether of body, speech, or mind, have the power to bring about results both in the present and the future. ([Location 2951](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2951))
+    - Tags: [[orange]] 
+- each of our volitional actions can produce myriad results. ([Location 2953](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2953))
+    - Tags: [[blue]] 
+- It is the motivation associated with the intention behind an action that determines the particular karmic fruit of the action, whether pleasant or unpleasant. ([Location 2954](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2954))
+    - Tags: [[pink]] 
+- Although there can be many different motives underlying our actions, they can all be traced back to one of three wholesome or three unwholesome roots; ([Location 2955](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2955))
+- The practice of seeing and understanding this factor of volition is important not only because of its karmic potential, but also because we often unknowingly identify with it. ([Location 2959](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2959))
+    - Tags: [[blue]] 
+- intention or volition can become a subtle hideout of self. ([Location 2963](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2963))
+    - Tags: [[pink]] 
+- it is best to begin noticing it before obvious physical movements. ([Location 2965](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2965))
+    - Tags: [[orange]] 
+- Intention is analogous to an electric current that keeps an appliance running or a light bulb shining. ([Location 2973](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2973))
+    - Tags: [[orange]] 
+- We might notice that to stop the forward movement would require a decision in the mind. ([Location 2977](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2977))
+- And we see that in the absence of that decision, the flow of intentions keeps us moving along all by itself, as if it had a mind of its own. ([Location 2977](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2977))
+    - Tags: [[blue]] 
+- taking an investigative interest in what it is that moves us throughout the day. ([Location 2979](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2979))
+    - Tags: [[orange]] 
+- which is knowing or cognizing. ([Location 2989](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2989))
+    - Tags: [[pink]] 
+- this basic cognizing activity does not change in different circumstances. ([Location 2990](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2990))
+    - Tags: [[orange]] 
+- we see that it manifests in just the same way regardless of what is arising. ([Location 2991](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2991))
+- we could call it a mirrorlike awareness, as the nature of a mirror is simply to reflect what comes before it. ([Location 2991](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2991))
+    - Tags: [[blue]] 
+- It’s helpful to explore this conditioned nature of consciousness directly in our own experience, as a way of freeing ourselves from identification with even this activity of knowing. ([Location 2996](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2996))
+    - Tags: [[orange]] 
+- “What is that consciousness?” “Venerable sir, it is that which speaks and feels and experiences here and there the result of good and bad actions.” “Misguided man, to whom have you ever known me to teach the Dhamma in that way? Misguided man, in many discourses have I not stated consciousness to be dependently arisen, since without a condition there is no origination of consciousness? ([Location 3003](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3003))
+    - Tags: [[orange]] 
+- it is a process continually arising and passing away many times a moment. ([Location 3009](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3009))
+- Within the breadth of a mind moment, a citta [consciousness] arises, performs its momentary function, and then dissolves, conditioning the next citta in immediate succession. Thus, through the sequence of mind moments, the flow of consciousness continues, uninterrupted like the waters in a stream. ([Location 3011](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3011))
+    - Tags: [[blue]] 
+- Why We Feel: The Science of Human Emotions. ([Location 3023](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3023))
+    - Tags: [[blue]] 
+- Consider a world without consciousness. The darkness is a bubbling cauldron of energy and vibrating matter, locked in the dance of thermal agitation. Through shared electrons, or the strange attraction of unlike charges, quivering molecules, not free to roam, absorb and emit their characteristic quanta packages of energy with the surrounding fog. Free gas molecules, almost oblivious to gravity but buffeted in all directions by their neighbors, form swirling turbulent flows or march in zones of compression and expansion. . . . A massive solar flux and cosmic radiation from events long past crisscross space with their radiant energy and silently mix with the thermal glow of living creatures. . . . [W]ithin the warmth of their sticky protein bodies, the dim glow of consciousness is emerging to impose its own brand of organization on this turbulent mix of energy/matter. The active filter of consciousness illuminates the darkness, discards all irrelevant radiation, and in a grand transmutation converts and amplifies the relevant. Dead molecules erupt into flavors of bitterness or sweetness, electromagnetic frequencies bust with color, hapless air pressure waves become the laughter of children, and the impact of a passing molecule fills a conscious mind with the aroma of roses on a warm summer afternoon. ([Location 3024](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3024))
+    - Tags: [[pink]] 
+- There are different perspectives we can bring to the investigation of consciousness. One comes from the understanding that the more mindful we are of the arising object, the clearer the consciousness of it becomes. When we bring a close attention to the breath, or sensations, to sights and sounds and thoughts, over time, we experience the knowing itself becoming increasingly clear and lucid. ([Location 3035](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3035))
+- Instead of noting our experience from the viewpoint of an observer, we can shift from an active voice to a passive voice: “a sound being known,” “a thought being known,” “a sensation being known.” It’s not that we need to continually repeat these phrases, but rather to just be directly in the experience of things appearing and being known moment after moment. ([Location 3042](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3042))
+    - Tags: [[pink]] 
+- Purification of View, ([Location 3055](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3055))
+    - Tags: [[blue]] 
+- in which we experience each moment as the paired progression of consciousness and its object, understanding that there is no one lurking behind the process. ([Location 3055](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3055))
+    - Tags: [[pink]] 
+- “As soon as there’s something considered important, it becomes a nest.” ([Location 3087](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3087))
+    - Tags: [[blue]] 
+- we can also set our intention to specifically key into this truth of change. ([Location 3110](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3110))
+- he would ask us to report not only on what objects were arising in our meditation, but also on what happened to each object as we observed it. ([Location 3111](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3111))
+    - Tags: [[blue]] 
+- no consciousness ([Location 3118](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3118))
+    - Tags: [[pink]] 
+- we are always waiting for the next hit of experience. ([Location 3124](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3124))
+    - Tags: [[orange]] 
+- How often are we waiting for the next concentrated walking or the next easeful, “good” sit? ([Location 3125](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3125))
+    - Tags: [[blue]] 
+- Yet as objects of mindfulness, any arising experience becomes the vehicle of our awakening. ([Location 3127](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3127))
+    - Tags: [[pink]] 
+- We don’t have to wait for some good or special experience in order to be mindful. Any object will do; nothing is outside the range of mindfulness. ([Location 3128](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3128))
+    - Tags: [[orange]] 
+- “Bhikkhus, whatever is not yours, abandon it. When you have abandoned it, that will lead to your welfare and happiness. . . . “Suppose, bhikkhus, people were to carry off the grass, sticks, branches, and foliage in this Jeta’s Grove, or to burn them, or to do with them as they wish. Would you think: ‘People are carrying us off, or burning us, or doing with us as they wish?’” “No, venerable sir. . . . Because, venerable sir, that is neither our self nor what belongs to our self.” “So too, bhikkhus, form is not yours, [feeling is not yours, perception is not yours, volitional formations are not yours,] consciousness is not yours. Abandon it. When you have abandoned it, that will lead to your welfare and ([Location 3133](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3133))
+    - Tags: [[orange]] 
+- Abandon here means abandoning the sense of ownership, of identifying with the aggregates as being “I” or “mine.” ([Location 3141](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3141))
+- And we defend our claim with great tenacity. ([Location 3144](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3144))
+    - Tags: [[blue]] 
+- The more we cling, the harder it is to let go. ([Location 3158](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3158))
+    - Tags: [[pink]] 
+- And in looking even deeper, on the cellular or atomic level, we see mostly empty space. One science article remarked that if we took all the space away from what constitutes the body, what would be left would be smaller than a particle of dust. In meditation, we go from the perception of the solidity of the body to understanding it as a changing, fluid, insubstantial energy system. ([Location 3158](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3158))
+    - Tags: [[orange]] 
+- One of the most freeing insights of meditation practice is realizing that the only power thoughts have is the power we give them. ([Location 3167](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3167))
+- We build the story of our lives and then live in that story. But all that is actually happening is the rise and fall of momentary mind states. ([Location 3185](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3185))
+    - Tags: [[blue]] 
+- Rather, we understand that it was never there in the first place. ([Location 3194](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3194))
+    - Tags: [[pink]] 
+- Here it is important to remember that mind and mind objects — thoughts, reasoning, memory, reflection, moods, emotions — are simply treated as the sixth sense. ([Location 3255](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3255))
+    - Tags: [[blue]] 
+- intentions in the mind. ([Location 3277](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3277))
+    - Tags: [[pink]] 
+- arises from a conjunction of causes: ([Location 3278](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3278))
+    - Tags: [[orange]] 
+- when unexamined, is often the last hideout of the sense of self. ([Location 3281](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3281))
+    - Tags: [[orange]] 
+- “Friend Ānanda, in many ways [the nature of] this body has been declared, disclosed, and revealed by the Blessed One thus: ‘For such a reason this body is nonself.’ Is it possible to explain [the nature of] this consciousness in a similar way . . . : ‘For such a reason, this consciousness is nonself?’” “It is possible, friend Udāyi. Doesn’t eye-consciousness arise in dependence on the eye and forms?” “Yes, friend.” “If the cause and condition for the arising of eye-consciousness [eyes and forms] would cease completely and totally without remainder, could eye-consciousness be discerned?” “No, friend.” “In this way, friend, this has been declared . . . by the Blessed One thus: ‘For such a reason this consciousness is ([Location 3286](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3286))
+- And then she saw that arising arose, abided, and fell away. . . . She saw that knowing this arose, abided, and fell away. Then she knew there was nothing more than this, no ground, nothing to lean on stronger than the cane she held, nothing to lean upon at all, and no one leaning, and she opened the clenched fist in her mind and let go and fell into the midst of everything. ([Location 3299](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3299))
+    - Tags: [[blue]] 
+- know the fetter, ([Location 3306](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3306))
+    - Tags: [[pink]] 
+- Burning with the fire of lust, with the fire of hatred, with the fire of delusion; burning with birth, ageing, and death; with sorrow, lamentation, pain, dejection and despair. . . . ([Location 3314](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3314))
+    - Tags: [[pink]] 
+- already in the grip of desire ([Location 3405](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3405))
+- One way to explore this in your practice is to notice when some simple desire arises in the mind. ([Location 3414](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3414))
+    - Tags: [[blue]] 
+- We can feel the energy of wanting in the body. ([Location 3416](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3416))
+    - Tags: [[blue]] 
+- We see that desires do not need to be gratified in order to be resolved. Like everything else, they arise and pass away by themselves. ([Location 3417](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3417))
+    - Tags: [[blue]] 
+- Sometimes desire disappears and doesn’t come back. At that time, at least for those moments, we have cut the chain of dependent arising. ([Location 3419](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3419))
+    - Tags: [[pink]] 
+- unwise attention ([Location 3420](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3420))
+    - Tags: [[orange]] 
+- Desire is the wanting, the thirst for something. ([Location 3423](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3423))
+- Clinging is the holding on to, grasping at either the object of desire or sometimes even the desire itself. ([Location 3423](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3423))
+    - Tags: [[blue]] 
+- At these times, it feels as if the object is secondary and that what is really happening is I’m trying to avoid a feeling of deprivation. ([Location 3425](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3425))
+    - Tags: [[pink]] 
+- “Why not have the second (or third) cookie? It will give me more energy,” “Be good to yourself.” These are ways by which we rationalize clinging rather than observing it. ([Location 3426](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3426))
+    - Tags: [[orange]] 
+- Keep in mind that when the Buddha speaks about fetters or defilements, he is speaking about suffering, and so this practice is not something removed from our everyday life, but the key to peace and happiness. ([Location 3431](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3431))
+- conceptual proliferation. ([Location 3438](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3438))
+    - Tags: [[orange]] 
+- perceptions are not absolutes; ([Location 3441](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3441))
+    - Tags: [[pink]] 
+- the great misconceptions we often carry throughout our lives is that our perceptions of ourselves and the world are basically accurate and true, that they reflect some stable, ultimate reality. This misconception leads to tremendous suffering, both globally and in our personal life situations. ([Location 3442](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3442))
+    - Tags: [[orange]] 
+- “Things are seen through the lenses of our desires, prejudices, and resentments and are transformed accordingly. ([Location 3448](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3448))
+- “Don’t side with yourself.” ([Location 3457](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3457))
+    - Tags: [[orange]] 
+- Sometimes we’re enticed by a minor pleasure that hides a much greater suffering. ([Location 3492](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3492))
+    - Tags: [[blue]] 
+- we’re often deluded into thinking that wanting itself is happiness. ([Location 3495](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3495))
+    - Tags: [[pink]] 
+- And somewhat ironically, what the world calls suffering — renunciation, restraint at the sense doors, silence, simplicity, environments with few entertaining distractions — the Buddha calls happiness, because of the ease, open-heartedness, and peace of mind that they bring. ([Location 3498](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3498))
+    - Tags: [[orange]] 
+- good friendship, ([Location 3595](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3595))
+- association with the wise, ([Location 3595](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3595))
+    - Tags: [[blue]] 
+- careful attention are the forerunners and precursors of the arising of the factors of enlightenment. ([Location 3595](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3595))
+    - Tags: [[pink]] 
+- “to remember,” ([Location 3602](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3602))
+- attentiveness to the present, ([Location 3606](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3606))
+    - Tags: [[blue]] 
+- it serves to both bring about and balance all the other factors. ([Location 3609](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3609))
+    - Tags: [[pink]] 
+- It is this aspect of mindfulness that makes it possible to follow the Buddha’s instruction to let go of and abandon what is unskillful and to develop and cultivate what is skillful. ([Location 3623](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3623))
+- acting out the latent tendencies of different defilements. ([Location 3627](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3627))
+    - Tags: [[pink]] 
+- hiri ([Location 3628](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3628))
+    - Tags: [[orange]] 
+- ottappa, ([Location 3628](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3628))
+- “moral shame” ([Location 3629](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3629))
+    - Tags: [[orange]] 
+- “fear of wrongdoing,” ([Location 3629](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3629))
+- universal beautiful factors of mind, ([Location 3635](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3635))
+- they arise out of mindfulness and a deep caring and respect for ourselves and others. ([Location 3643](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3643))
+    - Tags: [[orange]] 
+- renewal ([Location 3644](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3644))
+    - Tags: [[blue]] 
+- “No deed is good that one regrets having done.” ([Location 3655](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3655))
+- If we don’t even know that something is unwholesome, then there is no motivation to change. ([Location 3658](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3658))
+    - Tags: [[pink]] 
+- bare attention ([Location 3662](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3662))
+    - Tags: [[blue]] 
+- clear comprehension. ([Location 3662](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3662))
+    - Tags: [[pink]] 
+- making up stories ([Location 3664](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3664))
+    - Tags: [[orange]] 
+- But sometimes in our practice we’re looking for something special, and so we miss this simplicity and overlook what is right in front of us. ([Location 3667](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3667))
+- sustained continuity of awareness. ([Location 3669](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3669))
+    - Tags: [[pink]] 
+- that which discerns and illuminates the truth by means of discriminating wisdom. ([Location 3687](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3687))
+- “knowing what’s what.” ([Location 3688](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3688))
+    - Tags: [[blue]] 
+- “It is the truth that liberates, not your efforts to be free.” ([Location 3708](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3708))
+    - Tags: [[pink]] 
+- to know whether this quality of discernment is present or not, ([Location 3709](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3709))
+    - Tags: [[orange]] 
+- how it can be developed and cultivated. ([Location 3710](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3710))
+    - Tags: [[orange]] 
+- “the initial function of wisdom as an enlightenment factor is to discriminate between the wholesome and unwholesome mental states that become apparent with the deepening of mindfulness. ([Location 3714](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3714))
+- It’s important not to bring reactive judgments to these discernments, or if we do, to be aware of them. ([Location 3727](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3727))
+- Conceit is that factor of “I was this, I am this, I will be this,” and then, at times, compares this sense of self with others—better than, worse than, equal to. ([Location 3740](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3740))
+    - Tags: [[blue]] 
+- Was-Am Will-Be, ([Location 3743](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3743))
+    - Tags: [[pink]] 
+- suffering—one that leads to more suffering and one that leads to its ([Location 3748](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3748))
+- Instead of getting lost in and acting out habitual patterns of suffering, in times of emotional turbulence, we can first investigate what is actually going on—that is, the nature of the emotion itself — and then see how we are relating to that emotion. Are we claiming it as being “I” or “mine”? ([Location 3749](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3749))
+    - Tags: [[pink]] 
+- Clarity of discernment through investigation of dhammas can bring acceptance because we are aligning ourselves accurately with the present-moment experience. ([Location 3753](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3753))
+    - Tags: [[orange]] 
+- “Yes, this is what’s here.” From this place of acceptance, we can then see more clearly the impermanent, selfless nature of the emotion and free ourselves from identifying with it: letting go by letting be. ([Location 3754](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3754))
+- When a rainbow appears we see many beautiful colors—yet a rainbow is not something we can clothe ourselves with, or wear as an ornament; it simply appears through the conjunction of various conditions. Thoughts arise in the mind in just the same way. They have no tangible reality or intrinsic existence at all. There is therefore no logical reason why thoughts should have so much power over us, nor any reason why we should be enslaved by them. . . . Once we recognize that thoughts are empty, the mind will no longer have the power to deceive us. But as long as we take our deluded thoughts as real, they will continue to torment us mercilessly, as they have been doing throughout countless past lives. ([Location 3770](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3770))
+- focusing more on the momentary process than on any particular content. ([Location 3778](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3778))
+    - Tags: [[blue]] 
+- “When one perceives impermanence, the perception of non-self is stabilized. One who perceives non-self eradicates the conceit ‘I am,’ [which is] nibbāna in this very ([Location 3779](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3779))
+    - Tags: [[pink]] 
+- what we call “self” is simply the pairwise progression of knowing and object. ([Location 3782](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3782))
+- “variable mental factor,” ([Location 3803](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3803))
+- which means that it can be associated with either wholesome or unwholesome states. ([Location 3803](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3803))
+    - Tags: [[blue]] 
+- It has been translated variously as “energy,” “effort,” “strength,” “courage,” “vigor,” “perseverance,” and “persistence.” ([Location 3807](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3807))
+    - Tags: [[pink]] 
+- capacity for activity, ([Location 3810](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3810))
+    - Tags: [[orange]] 
+- Nagasena ([Location 3812](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3812))
+- when we practice, wisdom grows; and when we don’t practice, it wanes. ([Location 3817](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3817))
+    - Tags: [[blue]] 
+- sloth and torpor is to retreat from difficulties, ([Location 3827](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3827))
+    - Tags: [[pink]] 
+- Let only my skin, and sinews, and bones remain, and let my flesh and blood in the body dry up, I shall not permit the course of my effort to stop until I win that which may be won by human ability, human effort and human exertion. ([Location 3831](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3831))
+    - Tags: [[pink]] 
+- Avoiding difficult situations or running away from them does not usually take much skill or effort. But doing so prevents you from testing your own limits and from growing. The ability to face difficulties can be crucial for your growth. However, if you are faced with a situation in which the difficulties are simply overwhelming, you should step back for the time being and wait until you have built up enough strength to deal with it skillfully. ([Location 3849](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3849))
+    - Tags: [[orange]] 
+- Understanding different nuances of viriya — energy, strength, courage — brings us to the thorny problem of understanding the relationship between all of these qualities and effort. What is effort? When is it balanced? When is it counterproductive? Effort is an expenditure of energy to accomplish some objective. But the word effort in English has so many connotations that we need to carefully examine its skillful application in practice. To do that, we will first look at its unskillful application. ([Location 3854](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3854))
+    - Tags: [[blue]] 
+- “ ([Location 3858](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3858))
+    - Tags: [[pink]] 
+- openness and receptivity ([Location 3860](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3860))
+    - Tags: [[orange]] 
+- as I was always wanting something other than what was there. ([Location 3866](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3866))
+    - Tags: [[blue]] 
+- dragging around the corpse of previous experience, ([Location 3869](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3869))
+    - Tags: [[pink]] 
+- The lesson here is that we need to be mindful of how we’re making effort. If there is a strong agenda—the “in-order-to” mind I’ve spoken of — being aware in order for something in particular to happen, or if we’re holding on to the object too tightly, afraid that we’ll lose it, then we need to open and relax the mind, softening the quality of our effort. On the other hand, if the mind is continually drifting off and there is no effort to investigate what is going on, then we need to strengthen this effort factor. ([Location 3870](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3870))
+    - Tags: [[orange]] 
+- wisdom—“Is the mind too tight? Is it too ([Location 3876](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3876))
+- paying attention to the quality of our efforts. ([Location 3878](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3878))
+    - Tags: [[blue]] 
+- The Cycle of Effort and Energy in Our Practice ([Location 3879](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3879))
+    - Tags: [[pink]] 
+- perseverance and constancy. ([Location 3891](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3891))
+- These reflections on our own precious human birth, on the uncertainty of conditions, on the inevitability of death, on the defects of saṃsāra, and on the possibilities of liberation all arouse the factor of courageous energy, and it, in turn, becomes the basis, the root, the foundation of all accomplishment. ([Location 3929](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3929))
+- The Buddha said in the ānāpānasati Sutta (the discourse on mindfulness of breathing) that rapture is born from tireless energy, energy comes from investigation and inquiry, and this discerning wisdom arises from continuous mindfulness. Right here, we see the lawful progression of the factors of awakening. ([Location 3952](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3952))
+- rapture. ([Location 3957](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3957))
+- “momentary rapture,” ([Location 3959](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3959))
+    - Tags: [[blue]] 
+- “wavelike or showering rapture.” ([Location 3962](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3962))
+    - Tags: [[pink]] 
+- “uplifting rapture.” ([Location 3964](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3964))
+    - Tags: [[orange]] 
+- “pervading rapture. ([Location 3976](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3976))
+- These different kinds of rapture and joy develop in our practice when there is a strong momentum of mindfulness and the five spiritual factors are all in balance. ([Location 3978](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3978))
+    - Tags: [[blue]] 
+- The Imperfections of Insight ([Location 3982](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3982))
+    - Tags: [[pink]] 
+- “momentary freedom.” ([Location 4105](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4105))
+- “If you have one hundred per cent dedication and confidence in the teachings, then every living situation can be part of the practice. You can be living the practice, instead of just doing ([Location 4134](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4134))
+- Rapture is the quality of intense interest, and it arises from a close and caring attention to whatever is arising. ([Location 4138](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4138))
+    - Tags: [[blue]] 
+- “Rapture is the joy and happiness that appears when the power of seeing and knowing increases.” ([Location 4141](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4141))
+    - Tags: [[pink]] 
+- passaddhi, ([Location 4150](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4150))
+    - Tags: [[pink]] 
+- It is the soothing factor of mind that quiets the disturbances. It manifests as peacefulness or coolness in both the mind and body. ([Location 4151](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4151))
+    - Tags: [[pink]] 
+- Passaddhi encompasses both physical composure and mental tranquility. ([Location 4153](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4153))
+    - Tags: [[orange]] 
+- Buddhist psychology describes how it brings along with it other wholesome states, such as lightness, wieldiness, proficiency, and sincerity. ([Location 4154](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4154))
+- When our minds are tranquil, a natural genuineness, honesty, and freedom from duplicity are also present. ([Location 4156](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4156))
+    - Tags: [[blue]] 
+- In meditation teachings, we sometimes hear of the danger of becoming attached to this wonderfully calming, peaceful state of mind. When we first touch this space of tranquility in our meditation, there is a profound sense of relaxation, relief, and ease, especially as we contrast it with the speed and distractedness of our daily lives, and with the difficulties and struggles we sometimes experience in practice. The tranquility can be so enticing that we might start practicing only for the calm, becoming attached to it and identified with it, and forget that it, too, is a constructed state. We can easily sink into the enjoyment of it and forget to bring mindfulness to it. ([Location 4157](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4157))
+    - Tags: [[pink]] 
+- “meditative intelligence”—lead ([Location 4170](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4170))
+    - Tags: [[pink]] 
+- “These two qualities have a share in clear knowing. Which two? Tranquility (samatha) and insight (vipassanā). “When tranquility is developed, what purpose does it serve? The mind is developed. And when the mind is developed, what purpose does it serve? Passion is abandoned. “When insight is developed, what purpose does it serve? Discernment is developed. And when discernment is developed, what purpose does it serve? Ignorance is ([Location 4214](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4214))
+- “Vision and knowledge according to reality.” ([Location 4226](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4226))
+    - Tags: [[orange]] 
+- striving and efforting that actually get in the way. ([Location 4231](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4231))
+    - Tags: [[orange]] 
+- Manual of Factors Leading to Enlightenment, ([Location 4238](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4238))
+- “The mind, hard to control, flighty, alighting where it wishes, one does well to tame. The well-trained mind brings happiness.” ([Location 4251](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4251))
+    - Tags: [[pink]] 
+- bhāvanā, ([Location 4255](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4255))
+- fixed-object concentration. ([Location 4257](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4257))
+    - Tags: [[blue]] 
+- jhāna. ([Location 4269](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4269))
+    - Tags: [[pink]] 
+- pleasant abiding here and now, ([Location 4285](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4285))
+    - Tags: [[blue]] 
+- “knowledge and vision.” ([Location 4290](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4290))
+    - Tags: [[pink]] 
+- Milarepa, ([Location 4296](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4296))
+    - Tags: [[orange]] 
+- Notice the profound difference between being aware of a thought and being lost in it. ([Location 4303](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4303))
+- strong momentary concentration (vipassanā) ([Location 4310](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4310))
+    - Tags: [[blue]] 
+- meditative absorption (jhāna) ([Location 4310](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4310))
+    - Tags: [[pink]] 
+- Momentary concentration is like swimming across a lake; ([Location 4312](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4312))
+    - Tags: [[blue]] 
+- absorption is like being carried across in a motorboat. ([Location 4312](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4312))
+    - Tags: [[pink]] 
+- “the path of dry ([Location 4316](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4316))
+    - Tags: [[orange]] 
+- the jhanic motorboat might be better called “dry insight,” ([Location 4318](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4318))
+    - Tags: [[blue]] 
+- the journey of the swimmers called “wet insight.” ([Location 4319](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4319))
+- As we hear about these different ways of practice and try to determine the methods best suited for ourselves, it’s helpful to remember that it’s not an either-or situation or that one way excludes the other. At different times, one or another approach might be appropriate. ([Location 4320](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4320))
+    - Tags: [[pink]] 
+- It’s important to remember that concentration, like all other mental and physical experiences, is a constructed, conditioned state, impermanent like everything else. This means that the strength of concentration can and will wax and wane at different times. This is natural. But the more we practice, whether it’s the momentary concentration of vipassanā or the absorption jhānas of fixed-object concentration, we establish a base of steadiness and strength underneath all the changes. ([Location 4337](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4337))
+- Know When Concentration Is Present and When It Is Not ([Location 4344](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4344))
+    - Tags: [[blue]] 
+- one knows how the unarisen concentration awakening factor can arise, ([Location 4351](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4351))
+- and how the arisen concentration awakening factor can be perfected by ([Location 4351](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4351))
+    - Tags: [[pink]] 
+- sīla ([Location 4360](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4360))
+- nonremorse, ([Location 4361](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4361))
+    - Tags: [[blue]] 
+- happiness, ([Location 4361](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4361))
+    - Tags: [[pink]] 
+- concentration ([Location 4361](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4361))
+    - Tags: [[orange]] 
+- liberating wisdom. ([Location 4362](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4362))
+- mindfulness of breathing. ([Location 4369](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4369))
+    - Tags: [[pink]] 
+- Pure and Simple, ([Location 4377](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4377))
+- pokati. ([Location 4390](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4390))
+- stabilize our awareness in the knowing itself, ([Location 4393](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4393))
+    - Tags: [[blue]] 
+- “What you are looking for is what is looking.” ([Location 4394](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4394))
+    - Tags: [[pink]] 
+- “When mindfulness has gained momentum, ‘we’ don’t need to do anything anymore. The mind knows what to do. At this stage there is no more personal effort. You could call it effortless awareness. ([Location 4397](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4397))
+    - Tags: [[orange]] 
+- When the mind is thinking or wandering . . . just be aware of it. Thinking is a natural activity of the mind. . . . You are doing well if you are aware that the mind is thinking. . . . But if you feel disturbed by thoughts . . . , or if you have a reaction or judgment of them, there is a problem with your attitude. The wandering mind . . . is not the problem. Your attitude that “they should not be around” is the problem. So understand that you have just become aware of some functions of the mind. These too are just objects for your attention. Thinking is a mental activity. When you are new to this practice you should not try to watch thinking continuously. Neither should you try to avoid observing thoughts by immediately going to your primary meditation object. When you realize that you are thinking, always pay attention to the thought first, and then remind yourself that a thought is just a thought. Do not think of it as “my thought.” Now you can return to your primary meditation object. When you feel disturbed by the thinking mind, remind yourself that you are not practicing to prevent thinking, but rather to recognize and acknowledge thinking whenever it arises. If you are not aware, you cannot know that you are thinking. The fact that you recognize that you are thinking means that you are aware. Remember that it does not matter how many times the mind thinks, wanders off, or gets annoyed about something — as long as you become aware of it. ([Location 4409](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4409))
+- Mindfulness recognizes that a thought is present, and continuity of mindfulness strengthens and steadies the concentration of mind. ([Location 4422](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4422))
+    - Tags: [[pink]] 
+- However, we often get involved with thoughts and are carried away by their story. In this case, it’s helpful to look more carefully at their content, asking whether the thought is skillful or not, helpful or not. ([Location 4425](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4425))
+- upekkhā. ([Location 4452](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4452))
+- “the universal, beautiful factors of mind.” ([Location 4453](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4453))
+    - Tags: [[orange]] 
+- “neutrality of mind.” ([Location 4455](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4455))
+    - Tags: [[blue]] 
+- “there in the middleness.” ([Location 4455](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4455))
+- evenness, ([Location 4457](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4457))
+    - Tags: [[blue]] 
+- unshakeable balance of mind. ([Location 4457](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4457))
+    - Tags: [[pink]] 
+- It serves to prevent either deficiency or excess in the other mental factors. ([Location 4457](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4457))
+    - Tags: [[orange]] 
+- concentration has the power to keep the mind secluded from the hindrances. ([Location 4459](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4459))
+    - Tags: [[orange]] 
+- mind to be unmoving in the face of pleasure or pain. ([Location 4460](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4460))
+    - Tags: [[blue]] 
+- In English, when we speak of neutrality of mind, the phrase might suggest a feeling of indifference or being disconnected from experience. ([Location 4461](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4461))
+    - Tags: [[orange]] 
+- it is not indifference at all. ([Location 4462](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4462))
+- “the eight worldly vicissitudes.” ([Location 4466](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4466))
+    - Tags: [[blue]] 
+- gain and loss, praise and blame, fame and disrepute, and pleasure and pain. ([Location 4466](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4466))
+    - Tags: [[blue]] 
+- ride these waves ([Location 4467](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4467))
+    - Tags: [[pink]] 
+- balance and ease. ([Location 4467](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4467))
+    - Tags: [[blue]] 
+- Gain and Loss ([Location 4469](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4469))
+- we feel their effect whenever we’re invested in or attached to a particular outcome, whenever we take something to be “I” or “mine.” ([Location 4470](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4470))
+- Gain and loss untempered by equanimity, by balance, by being in the middleness, keep us in servitude to the inevitably changing conditions of our lives. ([Location 4481](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4481))
+    - Tags: [[blue]] 
+- Praise and Blame ([Location 4483](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4483))
+    - Tags: [[pink]] 
+- The great lesson here is that even though we may hanker after fame or shrink from disrepute, they really only exist as ideas in other people’s minds. ([Location 4497](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4497))
+- For most of us, there is a deep conditioning in the mind to try to hold on to what is pleasant and to push away or avoid what is unpleasant. ([Location 4501](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4501))
+    - Tags: [[blue]] 
+- anything can happen anytime. ([Location 4511](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4511))
+    - Tags: [[orange]] 
+- “Praise and blame, gain and loss, pleasure and sorrow come and go like the wind. To be happy, rest like a great tree in the midst of them all.” ([Location 4514](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4514))
+    - Tags: [[pink]] 
+- EQUANIMITY AS A DIVINE ABODE ([Location 4516](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4516))
+    - Tags: [[orange]] 
+- brahmavihāras, ([Location 4517](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4517))
+    - Tags: [[pink]] 
+- THE WISDOM ASPECT OF EQUANIMITY ([Location 4523](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4523))
+- “The great way is not difficult for those who have no preferences. When attachment and aversion are both absent, the way is clear and undisguised. Make the smallest distinction, however, and heaven and earth are set infinitely apart.” ([Location 4525](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4525))
+    - Tags: [[blue]] 
+- ever-deeper insights into the three characteristics. ([Location 4528](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4528))
+    - Tags: [[orange]] 
+- At this point, our meditation is less involved with what it is that’s arising than with the process of change itself. ([Location 4530](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4530))
+- “Whatever has the nature to arise will also pass away.” ([Location 4534](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4534))
+    - Tags: [[blue]] 
+- nothing lasts long enough to be called “self.” ([Location 4536](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4536))
+    - Tags: [[pink]] 
+- All phenomena arise out of appropriate causes and conditions, unsubstantial, empty of any inherent self-existence. Phenomena are like rainbows—colored light arising out of momentary changing conditions, both vivid and insubstantial at the same time. ([Location 4536](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4536))
+- what is the path and what is not. ([Location 4541](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4541))
+    - Tags: [[orange]] 
+- we learn not to cling even to the special meditative states of rapture and happiness. ([Location 4541](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4541))
+    - Tags: [[blue]] 
+- culmination of mundane meditative insights, ([Location 4544](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4544))
+    - Tags: [[pink]] 
+- This is a state of deep delight born of peace. ([Location 4544](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4544))
+    - Tags: [[pink]] 
+- patience and equanimity are considered the mainstays for all the others. ([Location 4556](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4556))
+    - Tags: [[pink]] 
+- Forego Attachment ([Location 4561](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4561))
+- already broken. ([Location 4562](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4562))
+    - Tags: [[blue]] 
+- we should act without attachment to the fruit of the action. ([Location 4564](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4564))
+    - Tags: [[blue]] 
+- When we act without attachment to the outcome, then our minds remain peaceful no matter how things unfold. ([Location 4565](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4565))
+    - Tags: [[pink]] 
+- the value of an action is measured not by its success or failure, but by the motivation behind it. ([Location 4567](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4567))
+    - Tags: [[orange]] 
+- Associate with Wise, Equanimous People ([Location 4569](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4569))
+- “All beings are the heirs of their own karma. Their happiness or unhappiness depends on their actions, not upon my wishes.” ([Location 4576](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4576))
+    - Tags: [[pink]] 
+- Although we may wish for people to be happy and at peace, that outcome will ultimately rest on their own actions. ([Location 4578](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4578))
+- we develop equanimity in our insight practice through wise attention and continuous mindfulness. ([Location 4582](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4582))
+    - Tags: [[pink]] 
+- lesser happiness of excitement ([Location 4583](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4583))
+    - Tags: [[blue]] 
+- the simple enjoyment of pleasant feelings. ([Location 4583](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4583))
+- “There is no higher happiness than peace.” ([Location 4584](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4584))
+    - Tags: [[orange]] 
+- dukkha ([Location 4614](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4614))
+- all conditioned phenomena are dukkha ([Location 4614](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4614))
+    - Tags: [[blue]] 
+- dukkha and its end. ([Location 4615](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4615))
+    - Tags: [[pink]] 
+- “Whatever is felt is included in dukkha.” ([Location 4617](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4617))
+    - Tags: [[orange]] 
+- Du means “bad” or “difficult.” ([Location 4623](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4623))
+- Kha means “empty.” ([Location 4623](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4623))
+    - Tags: [[blue]] 
+- “empty” means devoid of permanence and devoid of a self that can control or command phenomena. ([Location 4629](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4629))
+- Words like unsatisfying, unreliable, uneaseful, and stressful all convey universal aspects of our experience. ([Location 4630](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4630))
+    - Tags: [[blue]] 
+- the suffering caused by attachment and craving can be overcome by awakening. ([Location 4634](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4634))
+    - Tags: [[blue]] 
+- “And one knows as it really is, this is dukkha.” ([Location 4639](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4639))
+    - Tags: [[orange]] 
+- The Dukkha of Painful Experiences ([Location 4663](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4663))
+    - Tags: [[orange]] 
+- First, there is the dukkha of experiences that are painful in themselves. ([Location 4664](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4664))
+- There is the inevitable pain of the body, ([Location 4667](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4667))
+    - Tags: [[blue]] 
+- deeply conditioned suffering in the mind: ([Location 4669](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4669))
+    - Tags: [[pink]] 
+- The Dukkha of the Changing Nature of All Things ([Location 4674](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4674))
+    - Tags: [[pink]] 
+- “whatever has the nature to arise will also pass away.” ([Location 4677](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4677))
+    - Tags: [[blue]] 
+- This great truth of change inevitably leads us to times of association with what we don’t want and separation from what we do. ([Location 4679](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4679))
+    - Tags: [[blue]] 
+- And these situations, in turn, often condition resistance to the unpleasant things that come and clinging to the pleasant ones. ([Location 4680](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4680))
+- It just means we need to realize and remember the very transitory nature of that happiness and to deeply consider what our highest aspirations really are. ([Location 4684](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4684))
+    - Tags: [[pink]] 
+- that all accumulation will end in dispersion, ([Location 4687](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4687))
+    - Tags: [[orange]] 
+- Surprisingly, reflecting in this way on the truth of dukkha, which simply sees how things are free of hope and fear, brings a great lightness of heart and mind. ([Location 4687](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4687))
+- The Dukkha of Conditioned Experience ([Location 4746](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4746))
+- “[I]t is, in short, the five aggregates subject to grasping.” ([Location 4759](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4759))
+    - Tags: [[blue]] 
+- as self . . . volitional formations as self . . . consciousness as self. . . . They just keep running and revolving around form, around feelings, around perception, around volitional formations, around consciousness. ([Location 4764](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4764))
+- The first noble truth leads us to the practice of compassion, because it is the practice of letting things in, letting people in, letting all parts of ourselves in. ([Location 4776](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4776))
+- craving. ([Location 4788](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4788))
+- energy ([Location 4789](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4789))
+    - Tags: [[blue]] 
+- It is this powerful force in the mind that keeps the whole wheel of saṃsāra, of conditioned existence, rolling on. ([Location 4789](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4789))
+    - Tags: [[pink]] 
+- taṇhā, ([Location 4794](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4794))
+    - Tags: [[orange]] 
+- “thirst” ([Location 4795](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4795))
+    - Tags: [[orange]] 
+- “fever of unsatisfied longing.” ([Location 4795](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4795))
+    - Tags: [[orange]] 
+- That fever of unsatisfied longing is just the opposite of peace. ([Location 4797](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4797))
+- desire refers to desire bound up with greed and leading to clinging and grasping. ([Location 4802](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4802))
+    - Tags: [[blue]] 
+- THE FIRST DOMAIN OF CRAVING: THE DESIRE FOR SENSE PLEASURES ([Location 4803](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4803))
+- These different patterns of craving, desire, wanting are so familiar to us that they just seem like the ordinary fabric of life. They are so much a part of who we take ourselves to be that they often remain invisible until we bring the power of mindful awareness to them. During the day, notice the gratification that comes from different sense pleasures. It might be from very simple things like a hot shower, or the tastes of enjoyable food, or that moment when we first lie down at night after a busy day; or it might be the enjoyment of pleasant fantasies and the desire for them to continue. See what you become enamored of and the desire and craving that often follow. At some point of investigation and self-reflection, we might resonate with the Buddha’s words, “Whatever gratification there is in the world, that I have found.” Or are we still holding out hope for some new and unexpected gratification of the senses? ([Location 4826](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4826))
+    - Tags: [[blue]] 
+- ādīnava, ([Location 4835](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4835))
+    - Tags: [[blue]] 
+- And what the Buddha is here calling the drawbacks or dangers of the world are precisely the truth of dukkha talked about earlier: that the world is impermanent, bound up with dukkha, subject to change. ([Location 4836](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4836))
+    - Tags: [[pink]] 
+- It would be illuminating to see how and when occasional desires strengthen into deeper habit patterns of wanting. ([Location 4840](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4840))
+    - Tags: [[orange]] 
+- It’s as if some new desire or craving becomes so habitual that we no longer even particularly notice it. ([Location 4841](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4841))
+- “[P]eople who are not free from lust for sensual pleasures, who are devoured by craving for sensual pleasures, who burn with the fever of sensual pleasures, still indulge in sensual pleasures; the more they indulge in sensual pleasures, the more their craving for sensual pleasures increases and the more they are burned by the fever of sensual pleasures, yet they find a certain measure of satisfaction and enjoyment in dependence on the five cords of sensual pleasure. ([Location 4842](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4842))
+    - Tags: [[blue]] 
+- Craving Can Lead to Suffering ([Location 4858](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4858))
+    - Tags: [[pink]] 
+- pursuit; acquisition; decision; desire and lust; selfish tenacity; possessiveness; avarice; concern for protection; and quarrels, strife, dissension, offensive talk, slander, and lies. ([Location 4868](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4868))
+    - Tags: [[blue]] 
+- Craving Can Lead to Agitation ([Location 4874](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4874))
+    - Tags: [[orange]] 
+- expectation, ([Location 4877](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4877))
+- inevitably brings agitation. ([Location 4878](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4878))
+    - Tags: [[blue]] 
+- dharma aspiration. ([Location 4878](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4878))
+    - Tags: [[pink]] 
+- Aspirations inspire us, while expectations simply lead us into cycles of hope and fear: hope that what we want will happen; fear that it won’t. ([Location 4879](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4879))
+- nonclinging — to anything. ([Location 4900](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4900))
+    - Tags: [[pink]] 
+- Here struggle can become useful feedback. ([Location 4901](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4901))
+    - Tags: [[orange]] 
+- “Let not a person revive the past Or on the future build his hopes; For the past has been left behind And the future has not been reached. Instead with insight let him see Each presently arisen state; Let him know that and be sure of it, Invincibly, unshakeably. One who dwells thus ardently, Relentlessly, by day, by night — It is he, the Peaceful Sage has said, Who has one fortunate attachment. ([Location 4917](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4917))
+- Here we’re not seeing each of these experiences simply as insubstantial, empty phenomena arising and passing in each moment. ([Location 4934](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4934))
+    - Tags: [[blue]] 
+- THE THIRD DOMAIN OF CRAVING: THE DESIRE FOR NONEXISTENCE ([Location 4938](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4938))
+- craving the Buddha talked about is desire for nonexistence: “This experience is so bad. If only I could not be.” ([Location 4938](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4938))
+    - Tags: [[pink]] 
+- a self to gratify, a self to clone in the future, a self to get rid of. ([Location 4945](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4945))
+    - Tags: [[orange]] 
+- “Now this, bhikkhus, is the noble truth of the cessation of dukkha: the remainderless fading and cessation, renunciation, relinquishment, release, and letting go of that very craving.”1 ([Location 4955](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4955))
+    - Tags: [[orange]] 
+- short moments many times. ([Location 4968](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4968))
+    - Tags: [[orange]] 
+- liberation through nonclinging. ([Location 4971](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4971))
+- For ages now you’ve been Beguiled, entranced, and fooled by appearances. ([Location 4977](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4977))
+    - Tags: [[pink]] 
+- mistaken perception ([Location 4980](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4980))
+    - Tags: [[orange]] 
+- Focus on the Drawbacks of Conditioned Experience ([Location 4999](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4999))
+- When we focus on the gratification that comes from sense pleasures, desire increases. ([Location 5000](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5000))
+    - Tags: [[blue]] 
+- When we focus on the drawbacks of sense pleasures, craving diminishes. ([Location 5001](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5001))
+    - Tags: [[pink]] 
+- pay attention to whether we are further conditioning or deconditioning craving? ([Location 5002](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5002))
+    - Tags: [[orange]] 
+- impermanence ([Location 5005](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5005))
+    - Tags: [[orange]] 
+- basic unreliability and ultimately unsatisfying nature of all phenomena. ([Location 5005](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5005))
+    - Tags: [[blue]] 
+- selfless, impersonal nature of this whole unfolding ([Location 5006](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5006))
+- nothing lasts long enough to be considered “self.” ([Location 5007](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5007))
+    - Tags: [[blue]] 
+- motivated to awaken. ([Location 5009](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5009))
+- This stream of thoughts is really the hardly noticed but ongoing creation of the world we inhabit. ([Location 5021](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5021))
+- Notice How Impermanence Pervades Our Lives ([Location 5027](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5027))
+    - Tags: [[blue]] 
+- I would often imagine myself six months or a year in the future and know that at that time I would hardly remember what I was currently going through. ([Location 5035](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5035))
+    - Tags: [[pink]] 
+- many of the factors of awakening are coming into balance for the first time. ([Location 5040](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5040))
+    - Tags: [[orange]] 
+- One metaphor describing this process is of a person jumping out of an airplane in free fall. At first, there is tremendous elation in the experience. Then the person realizes that there’s no parachute and so feels intense fear and dread. But after some time, he realizes that there is also no ground. The fear dissolves, and then there is just the ease and balance of the ride. ([Location 5043](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5043))
+- Cut through Identification with the Knowing Mind ([Location 5047](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5047))
+    - Tags: [[blue]] 
+- “Consciousness is not a thing that exists, but an event that occurs.” ([Location 5051](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5051))
+    - Tags: [[pink]] 
+- keep noting the knowing mind, until one goes beyond even knowing. ([Location 5053](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5053))
+    - Tags: [[orange]] 
+- looking for the mind itself. ([Location 5055](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5055))
+- Huike said to Bodhidharma, “My mind is anxious. Please pacify it.” To which Bodhidharma replied, “Bring me your mind, and I will pacify it.” Huike said, “Although I’ve sought it, I cannot find it.” Bodhidharma then said, “There, I have pacified your ([Location 5060](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5060))
+- NIBBāNA: THE UNCONDITIONED ([Location 5066](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5066))
+    - Tags: [[blue]] 
+- “And what, Bhikkhus, is the unconditioned? The destruction of lust, the destruction of hatred, the destruction of delusion. This is called the unconditioned.” ([Location 5082](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5082))
+    - Tags: [[orange]] 
+- The Mind Released ([Location 5084](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5084))
+- “the signless,” ([Location 5088](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5088))
+    - Tags: [[blue]] 
+- The conventional mind is ruled by the tides of proliferating thought and conditioned by ignorance and craving. ([Location 5090](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5090))
+    - Tags: [[pink]] 
+- All that remains is simple awareness, utterly pure. ([Location 5092](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5092))
+    - Tags: [[orange]] 
+- “’Consciousness without feature, without end, luminous all around: Here water, earth, fire, & wind have no footing. Here long & short coarse & fine fair & foul name & form are all brought to an end. With the cessation of [the activity of] consciousness each is here brought to an end. ([Location 5097](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5097))
+- Beware the Conditioned Mind ([Location 5123](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5123))
+    - Tags: [[blue]] 
+- unawareness ([Location 5130](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5130))
+    - Tags: [[orange]] 
+- “If there is a point or a center of the knower anywhere, that is an agent of birth.” ([Location 5136](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5136))
+- as long as there is identification with anything, any sense of the knower, we are still bound by the conventional conditioned mind. ([Location 5138](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5138))
+    - Tags: [[blue]] 
+- An interesting and unique aspect of the Buddha’s teaching is that its starting point is not dogma or belief, but understanding. ([Location 5161](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5161))
+- Even if this understanding is still conceptual, if we continue our practice, it leads us onward, culminating in direct, intuitive realization of the four noble truths. In this way, the wisdom factors are both the beginning and the end of this noble path. ([Location 5162](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5162))
+    - Tags: [[blue]] 
+- “a path.” ([Location 5165](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5165))
+    - Tags: [[pink]] 
+- overstriving, ([Location 5166](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5166))
+    - Tags: [[orange]] 
+- Keep your eye fixed on the way to the top, but don’t forget to look right in front of you. The last step depends on the first. Don’t think you’ve arrived just because you see the summit. Watch your footing, be sure of the next step, but don’t let that distract you from the highest goal. The first step depends on the last. ([Location 5169](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5169))
+- doubt, ([Location 5175](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5175))
+    - Tags: [[blue]] 
+- belief in rites and rituals as a path to freedom, ([Location 5175](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5175))
+    - Tags: [[pink]] 
+- belief in self. ([Location 5176](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5176))
+    - Tags: [[orange]] 
+- When a person’s mind has been fortified for a long time by faith, virtue, learning, generosity and wisdom, his mind goes upward, goes to ([Location 5181](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5181))
+- “The noble disciple, chamberlains, who possesses four things is a stream-enterer. . . . “What four? Here, chamberlains, a noble disciple possesses confirmed confidence in the Buddha . . . in the Dhamma . . . in the Sangha. He dwells at home with a mind devoid of the stain of stinginess, freely generous, open-handed, delighting in relinquishment, one devoted to charity, delighting in giving and sharing. A noble disciple who possesses these four things is a ([Location 5192](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5192))
+    - Tags: [[pink]] 
+- faith, energy, mindfulness, concentration, and wisdom. ([Location 5209](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5209))
+- attainment, ([Location 5214](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5214))
+    - Tags: [[blue]] 
+- mirror of mindfulness ([Location 5216](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5216))
+    - Tags: [[orange]] 
+- “And what, bhikkhus, is right view? Right view, I say, is twofold: there is right view that is affected by taints, partaking of merit, ripening on the side of attachment; and there is right view that is noble, taintless, supramundane, a factor of the path. ([Location 5248](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5248))
+- acquisition ([Location 5256](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5256))
+    - Tags: [[blue]] 
+- This aspect of right view is especially relevant for those of us who are laypeople, living our lives engaged with the world. It shows how we can live in the world in a way that brings happiness and ease rather than stress and difficulties. ([Location 5256](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5256))
+    - Tags: [[pink]] 
+- “And what, bhikkhus, is right view that is affected by the taints, partaking of merit, ripening on the side of attachment? ‘There is what is given and what is offered and what is sacrificed; there is fruit and result of good and bad actions; there is this world and the other world; there is mother and father; there are beings who are reborn spontaneously; there are in the world good and virtuous recluses and brahmins who have realized for themselves by direct knowledge and declare this world and the other world.’ This is right view affected by taints, partaking of merit, ripening on the side of attachment. ([Location 5261](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5261))
+    - Tags: [[orange]] 
+- karma, ([Location 5268](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5268))
+- the understanding that the only things that truly belong to us are our actions and their results. ([Location 5268](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5268))
+    - Tags: [[blue]] 
+- Acts of giving have power. The Buddha emphasized this in his well-known teaching that said if we knew as he did the fruits of giving, we wouldn’t let a single meal pass without sharing it. ([Location 5274](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5274))
+    - Tags: [[pink]] 
+- Acts of generosity bring obvious benefit to the recipient, but they also bring benefit to ourselves, both in the moment and also when these wholesome karmic actions bear fruit. ([Location 5279](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5279))
+- if we consciously reflect on the whole process, then the practice of generosity also fosters the growth of wisdom. ([Location 5282](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5282))
+    - Tags: [[orange]] 
+- there is no way to overestimate the importance of these teachings—that our actions bring results, that we are the heirs, the owners, of our actions. ([Location 5286](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5286))
+- We begin to take a much greater sense of responsibility for what we do, knowing that it has consequences both in the moment and for the future. ([Location 5289](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5289))
+    - Tags: [[blue]] 
+- These ten unwholesome actions are killing, stealing, committing sexual misconduct, lying, speaking harshly, backbiting, engaging in useless speech, covetousness, ill will, and wrong view. ([Location 5291](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5291))
+    - Tags: [[pink]] 
+- The ten wholesome actions are the refraining from these. ([Location 5292](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5292))
+    - Tags: [[orange]] 
+- “willing suspension of disbelief.” ([Location 5303](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5303))
+- I saw that just as we can become attached to our belief systems, we can also become attached to our disbeliefs. ([Location 5303](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5303))
+    - Tags: [[blue]] 
+- nonmaterial nature of awareness. ([Location 5313](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5313))
+    - Tags: [[pink]] 
+- connect our parents with the Dharma ([Location 5324](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5324))
+- And even if they have already passed away, it’s possible to share our merit with them, dedicating it to their welfare and happiness and awakening. Depending on circumstances, this can have a very beneficial effect. ([Location 5354](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5354))
+    - Tags: [[blue]] 
+- What is important is our intention and motivation for sharing the Dharma. ([Location 5367](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5367))
+- We learn to listen for that voice of genuine experience, rather than being influenced, positively or negatively, by personality or position. ([Location 5380](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5380))
+- Some may be obvious to us, like the practice of generosity, which bears wholesome fruit, or investigating our motivations and acting on the wholesome and letting go of the unwholesome. ([Location 5383](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5383))
+- In one simple way, I’ve found that being open to this teaching of rebirth has taken a certain pressure off my life. ([Location 5387](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5387))
+    - Tags: [[blue]] 
+- we see that real freedom lies in letting go of all craving, all desire for acquisition, for becoming, and cutting through the great Gordian knot of self. ([Location 5392](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5392))
+    - Tags: [[pink]] 
+- wisdom factor of mind. ([Location 5397](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5397))
+- brief, the five aggregates of clinging are dukkha.” ([Location 5418](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5418))
+    - Tags: [[blue]] 
+- Because these five aggregates, which constitute what we claim as self, as “I” — material elements, feelings, perceptions, mental formations, and consciousness — are in constant change and flux. ([Location 5418](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5418))
+    - Tags: [[pink]] 
+- There is nothing in their nature that can provide a place of peace, of rest, of security. And the more we cling to that which in its very nature is subject to change, the greater unease there is in our lives. ([Location 5420](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5420))
+- volitions ([Location 5425](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5425))
+    - Tags: [[pink]] 
+- habit of grasping ([Location 5428](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5428))
+    - Tags: [[orange]] 
+- sakkāyadiṭṭhi, ([Location 5429](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5429))
+    - Tags: [[orange]] 
+- “personality view” ([Location 5430](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5430))
+    - Tags: [[pink]] 
+- “Bhikkhus, I do not see even a single thing so blameworthy as wrong view. Wrong view is the worst of things that are ([Location 5433](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5433))
+- Why does the Buddha make such a strong declaration about this wrong view of self? It is because so many of our unwholesome actions, with their attendant karmic results, are born from it. ([Location 5435](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5435))
+- As long as this view is the central understanding of our lives, and it is for most people, we spend energy and effort gratifying the self, defending it, holding on to it. And yet all of this potent karmic activity is revolving around something that isn’t even there. ([Location 5437](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5437))
+    - Tags: [[blue]] 
+- We can analyze almost every aspect of our daily life and see how we are continually identifying with the different mind states, moods, and emotions that arise, and creating and strengthening the sense of self in the process. ([Location 5443](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5443))
+    - Tags: [[pink]] 
+- How much of the time are we living in the dreamlike nature of thoughts and perceptions, even while we’re awake? ([Location 5475](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5475))
+- Based on right view, we can practice not identifying with either the wholesome or unwholesome formations as self. ([Location 5481](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5481))
+    - Tags: [[blue]] 
+- And on the subtlest level, we need to cut through the identification with consciousness, not creating a haven for wrong view by taking consciousness, the knowing faculty, as being “I” or “mine.” ([Location 5482](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5482))
+    - Tags: [[pink]] 
+- “Any kind of form whatsoever, Rāhula, whether past, future, or present, internal or external, gross or subtle, inferior or superior, far or near—having seen all form [feeling, perception, formations, consciousness] as it really is with correct wisdom thus: ‘This is not mine, this I am not, this is not myself,’ one is liberated through nonclinging. . . . “When one knows and sees thus . . . the mind is rid of I-making, mine-making and conceit, has transcended discrimination, and is peaceful and well ([Location 5484](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5484))
+- Right view, as the wisdom factor of mind, simply investigates what is predominant and sees its impermanent, selfless nature. ([Location 5499](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5499))
+- perception; ([Location 5502](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5502))
+    - Tags: [[blue]] 
+- mind; ([Location 5502](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5502))
+    - Tags: [[pink]] 
+- view. ([Location 5502](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5502))
+    - Tags: [[orange]] 
+- The first is when we simply mistake one thing for another. We might be walking in the woods, see a stick lying on the path, and mistake it for a snake. This kind of distortion is easily remedied by a closer investigation of the experience. ([Location 5502](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5502))
+    - Tags: [[blue]] 
+- Distortions of mind occur when we think and ruminate about our mistaken perceptions. We see the stick, take it to be a snake, and then, thinking about all the stories we’ve heard about poisonous snakes, we become afraid. This is the distortion of mind. It’s a little deeper than the first distortion, but it’s still quite possible to see through it as we examine the situation more closely. ([Location 5504](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5504))
+    - Tags: [[orange]] 
+- It is distortion of view that is the deepest and most difficult to remedy. This is the case when we become so convinced of the truth of something that no matter what evidence is presented to the contrary, we hold tenaciously to that belief. ([Location 5507](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5507))
+    - Tags: [[pink]] 
+- Distortion of view takes place when we hold so deeply to our viewpoint that not even known facts can sway our beliefs. ([Location 5512](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5512))
+    - Tags: [[pink]] 
+- The Buddha talked about these different distortions in terms of seeing what is impermanent as permanent, what is unsatisfying as satisfying, what is non-self as self, and what is non-beautiful as beautiful. ([Location 5514](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5514))
+- From the perspective of the spiritual path, what is essential is that we establish ourselves in right view, so that even as we continue to fall under the sway of distortions of perception and of mind, we understand that they are temporary and, therefore, no longer set the direction of our lives. ([Location 5519](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5519))
+- the voice of another and wise attention. ([Location 5525](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5525))
+    - Tags: [[blue]] 
+- Right Thought ([Location 5527](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5527))
+    - Note: Following our understanding 1st Step, we resolve to take the steps nessessary to follow down the path.
+- “Bhikkhus, whatever a bhikkhu frequently thinks and ponders upon, that will become the inclination of the ([Location 5533](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5533))
+- “And what, monks, is Right Thought? The thought of renunciation, the thought of non-ill-will, the thought of harmlessness. This, monks, is called Right ([Location 5538](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5538))
+    - Tags: [[blue]] 
+    - Note: forgiveness - surrender.
+- We can notice which thoughts are rooted in desire, ill will, or cruelty, consciously reflect on the karma that they cause, and then abandon them, letting them go. ([Location 5542](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5542))
+    - Tags: [[pink]] 
+- And we can notice those thoughts inclining toward renunciation, goodwill, and compassion, reflect on their value, and then strengthen them in our lives. ([Location 5544](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5544))
+    - Tags: [[orange]] 
+- “So it is, Ānanda. So it is. Even I myself, before my Awakening, when I was still an unawakened Bodhisatta, thought: ‘Renunciation is good. Seclusion is good.’ But my heart didn’t leap up at renunciation, didn’t grow confident, steadfast, or firm, seeing it as peace. The thought occurred to me: ‘What is the cause, what is the reason, why my heart doesn’t leap up at renunciation, doesn’t grow confident, steadfast, or firm, seeing it as peace?’ Then the thought occurred to me: ‘I haven’t seen the drawback of sensual pleasures; I haven’t pursued [that theme]. I haven’t understood the reward of renunciation; I haven’t familiarized myself with it. That’s why my heart doesn’t leap up at renunciation, doesn’t grow confident, steadfast, or firm, seeing it as peace. ([Location 5558](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5558))
+    - Note: contempt prior to investigation
+- It can set off alarm bells within us, perhaps because we associate it with the repression of desires, with deprivation, with a rather bleak and austere lifestyle. ([Location 5569](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5569))
+    - Tags: [[blue]] 
+- nonaddiction. ([Location 5572](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5572))
+    - Tags: [[pink]] 
+- We might be addicted, in one way or another, to food, drugs, sex, alcohol, or perhaps more unnoticed, to work, power, recognition, wealth, or even comfort. We can become addicted to and entranced by certain mind states and emotions, like excitement or intensity or fear—witness the very big audience for terrifying horror movies. ([Location 5572](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5572))
+    - Tags: [[orange]] 
+- wanting ([Location 5576](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5576))
+    - Tags: [[pink]] 
+- How often in our practice are we trying to recreate some experience we’ve had before? ([Location 5579](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5579))
+- about letting go; ([Location 5584](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5584))
+    - Tags: [[orange]] 
+- parami ([Location 5605](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5605))
+- There’s often fear or anxiety in the thought of giving something up, of letting go, until we’ve seen for ourselves, repeatedly, that doing so leads to greater happiness and wellbeing. ([Location 5605](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5605))
+    - Tags: [[blue]] 
+- This points to the depth of our conditioning and the value of repeating practices of renunciation until the rewards and happiness from them become the default understanding of our lives. ([Location 5612](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5612))
+- contentment ([Location 5620](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5620))
+    - Tags: [[blue]] 
+- sights and sounds, smells and tastes, sensations in the body, and objects of mind. ([Location 5625](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5625))
+    - Tags: [[orange]] 
+- So when things seem too stressful, too complex, or confused, remember the possibility of renouncing the habit of proliferating thoughts, particularly the “I-me-mine” story, and come back to the simple experience of the moment. ([Location 5626](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5626))
+- We tend to think of Sisyphus as a tragic hero, condemned by the gods to shoulder his rock sweatily up the mountain, and again up the mountain, forever. The truth is that Sisyphus is in love with the rock. He cherishes every roughness and every ounce of it. He talks to it, sings to it. It has become the mysterious Other. He even dreams of it as he sleepwalks upward. Life is unimaginable without it, looming always above him like a huge gray moon. He doesn’t realize that at any moment he is permitted to step aside, let the rock hurtle to the bottom, and go home. Tragedy is the inertial force of the mind. ([Location 5629](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5629))
+    - Tags: [[blue]] 
+- Restraint is not repression or avoidance. ([Location 5642](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5642))
+- Restraint doesn’t mean pushing things away or denying their presence. It does not mean being judgmental or having aversion toward certain aspects of our experience. ([Location 5642](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5642))
+    - Tags: [[blue]] 
+- discriminating wisdom. ([Location 5644](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5644))
+    - Tags: [[pink]] 
+- inner two-year-old. ([Location 5647](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5647))
+    - Tags: [[orange]] 
+- “Is this necessary?” ([Location 5650](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5650))
+- “Is this helpful?” ([Location 5650](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5650))
+    - Tags: [[pink]] 
+- This line can become a polestar for us, as we practice the renunciation of identifying with whatever arises, so that our own minds are not moved in the face of desire, longing, or fear. ([Location 5659](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5659))
+    - Tags: [[pink]] 
+- If you let go a little, you will have a little peace. If you let go a lot, you will have a lot of peace. If you let go completely, you will have complete peace. Your struggles with the world will have come to an end ([Location 5662](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5662))
+- mettā is not dependent on external conditions, on people, on ourselves, being a certain way. ([Location 5682](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5682))
+- examine the attitudes in our own minds as we meet people, ([Location 5691](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5691))
+    - Tags: [[blue]] 
+- realizing that our feelings do not ultimately depend on the other person or even on their behavior. ([Location 5702](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5702))
+    - Tags: [[pink]] 
+- In gladness and in safety, may all beings be at ease. Whatever living beings there may be, whether they are weak or strong, omitting none, the great or the mighty, medium, short or small, the seen and the unseen, those living near and far away, those born and to be born—may all beings be at ease. Let none deceive another, or despise any being in any state. Let none through anger or ill will wish harm upon another. Even as a mother protects with her life her child, her only child, so with a boundless heart should one cherish all living beings, radiating kindness over the entire world, spreading upwards to the skies, and downward to the depths, outwards and unbounded, freed from hatred and ill will. Whether standing or walking, seated or lying down, free from drowsiness, one should sustain this recollection. This is said to be the sublime abiding ([Location 5706](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5706))
+- Benefits of Mettā Practice ([Location 5713](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5713))
+    - Tags: [[pink]] 
+- As these feelings of goodwill and kindness soften us, our minds and hearts become smooth, gentle, more pliable. Because of this softening, there is a lessening of our many reactive judgments and comments, about ourselves as well as others. We become more patient and caring with difficulties and disturbances. As we’re less reactive, not so caught up in immediate likes and dislikes, there is more space for discerning wisdom. We can then see more clearly what is truly skillful and unskillful in our lives, and so we make wiser choices. This, in turn, leads to more happiness, more joy, and more mettā. It’s an upward spiral. As an experiment, the next time you’re walking down a street, start practicing mettā for all the people you pass. It might be expressed as the simple wish “Be happy.” Then notice the difference between these times of sending mettā and times of not sending, when we’re most likely lost in the wanderings of our minds. As mettā grows stronger and steadier, we feel more tolerant of ourselves and others, a little less judgmental. Gradually we start to live in a growing field of goodwill and good humor, holding ourselves and others with a lighter heart. The poet W. H. Auden captured this possibility when he wrote, “You shall love your crooked neighbour / With all your crooked heart.” The beauty and power of the Buddha’s teachings are that they are not something to simply admire in others, but to practice and develop in ourselves. ([Location 5714](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5714))
+    - Tags: [[orange]] 
+- This near enemy is the mind state of desire, attachment, longing, and craving. ([Location 5729](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5729))
+- One is an offering; the other is a taking, a holding on. ([Location 5734](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5734))
+    - Tags: [[blue]] 
+- The proximate cause for lovingkindness to arise is focusing on the good qualities in people, whether others or ourselves. ([Location 5770](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5770))
+- gratitude ([Location 5779](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5779))
+- “From my experience there is no difference. When you are fully loving, aren’t you also mindful? When you are fully mindful, is this not also the essence of love?” ([Location 5784](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5784))
+    - Tags: [[pink]] 
+- And even with people we find difficult, we can reflect on our basic intention of goodwill. ([Location 5790](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5790))
+    - Tags: [[orange]] 
+- The willingness to train our hearts, whether in mettā or anything else, requires great patience, which the Buddha called “the highest devotion.” The recollection of the attitude of mettā in all aspects of our lives gradually transforms how we are in the world, with ourselves and with all others. ([Location 5798](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5798))
+- final deliverance from ([Location 5960](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5960))
+- TRUTHFULNESS ([Location 5963](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5963))
+    - Tags: [[blue]] 
+- slight exaggerations ([Location 5966](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5966))
+    - Tags: [[pink]] 
+- humorous untruths ([Location 5966](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5966))
+    - Tags: [[pink]] 
+- falsehoods ([Location 5966](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5966))
+    - Tags: [[orange]] 
+- In any situation where we say what is untrue, what is the motivation? ([Location 5969](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5969))
+    - Tags: [[blue]] 
+- “If you tell the truth you don’t have to remember anything.” ([Location 5971](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5971))
+- it’s said that in all that time he never knowingly spoke an untruth, ([Location 5978](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5978))
+- lies of omission, ([Location 5984](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5984))
+    - Tags: [[blue]] 
+- “Lying is done with words and also with silence.” ([Location 5985](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5985))
+    - Tags: [[pink]] 
+- “Yes, my mind can dissemble.” ([Location 5991](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5991))
+    - Tags: [[orange]] 
+- letting go of the previously unnoticed pretense ([Location 5991](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5991))
+- When we’re willing to see ourselves more honestly, it becomes much easier to recognize those impulses, which gives us more opportunity to refrain from them. ([Location 5992](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5992))
+    - Tags: [[pink]] 
+- “Truthful speech establishes a correspondence between our inner being and the real nature of phenomena. . . . Thus, much more than an ethical principle, devotion to truthful speech is a matter of taking our stand on reality rather than illusion . . ([Location 5995](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5995))
+    - Tags: [[orange]] 
+- you see, Rāhula, how this bowl has been turned upside down? In the same way, one who tells a deliberate lie turns his spiritual achievements upside down and becomes incapable of progress. Therefore one should not speak a deliberate lie, even in jest.” ([Location 6001](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6001))
+- What he has heard here he does not repeat there, so as to cause dissension there; and what he has heard there he does not repeat here, so as to cause dissension here. Thus he unites those who are divided; and those who are united he encourages. Concord gladdens him, he delights and rejoices in concord; and it is concord that he spreads by his words. ([Location 6008](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6008))
+    - Tags: [[blue]] 
+- Second, as I stopped verbalizing my various thoughts, comments, and judgments of other people, I saw that my mind became much less judgmental, even about myself. This care with speech resulted in a much more peaceful mind. ([Location 6019](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6019))
+    - Tags: [[pink]] 
+- intention ([Location 6022](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6022))
+    - Tags: [[orange]] 
+- gossip about ourselves. ([Location 6023](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6023))
+- self-referential, ([Location 6024](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6024))
+- it would be insightful to explore the motivation. ([Location 6024](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6024))
+- conceit. ([Location 6026](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6026))
+- emotional tone in our minds and hearts, and how it conditions and flavors the words we use. ([Location 6029](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6029))
+    - Tags: [[pink]] 
+- “One should speak such words as are gentle, soothing to the ear, loving, such words as go to the heart, are courteous, friendly, and agreeable to many.” ([Location 6030](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6030))
+- open communication is what Right Speech is all about. ([Location 6034](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6034))
+    - Tags: [[pink]] 
+- “Bhikkhus, there are five courses of speech that others may use when they address you: their speech may be timely or untimely, true or untrue, gentle or harsh, connected with good or with harm, or spoken with a mind of lovingkindness or with inner hate. . . . Herein, Bhikkhus, you should train yourself thus: ‘Our minds will remain unaffected, and we shall utter no evil words; we shall abide compassionate for their welfare, with a mind of lovingkindness. . . . We shall abide pervading that person with a mind imbued with lovingkindness; and starting with him, we shall abide pervading the all-encompassing world with a mind . . . abundant, exalted, immeasurable, without hostility, without ill will. ([Location 6039](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6039))
+    - Tags: [[blue]] 
+- good example of what it means to be mindful externally as well as internally. ([Location 6046](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6046))
+    - Tags: [[orange]] 
+- USELESS AND FRIVOLOUS TALK ([Location 6050](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6050))
+    - Tags: [[pink]] 
+- onomatopoeia ([Location 6051](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6051))
+    - Tags: [[pink]] 
+- where we say things just to be heard, rather than for any meaningful purpose. ([Location 6053](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6053))
+- we find that these rather useless words are enervating and worthless. ([Location 6053](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6053))
+- this kind of speech often results in an unspoken loss of respect from others. ([Location 6054](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6054))
+- One speaks at the right time, in accordance with facts, speaks what is useful, speaks of the Dhamma . . . one’s speech is like a treasure, uttered at the right moment, accompanied by reason, moderate and full of ([Location 6057](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6057))
+    - Tags: [[pink]] 
+- samphappalāpa. ([Location 6063](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6063))
+- Right Speech, as the third step of the Noble Eightfold Path, cultivates abstinence from unwholesome mind states; gives expression to the beautiful motivations of lovingkindness, compassion, and altruistic joy; and, most importantly, aligns us with what is true. ([Location 6066](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6066))
+    - Tags: [[orange]] 
+- “Bhikkhus, possessing five factors, speech is well spoken, not badly spoken; it is blameless and beyond reproach by the wise. What five? It is spoken at the proper time; what is said is true; it is spoken gently; what is said is beneficial; it is spoken with a mind of lovingkindness ([Location 6069](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6069))
+    - Tags: [[pink]] 
+- ethical value, ([Location 6075](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6075))
+- essential means of awakening. ([Location 6075](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6075))
+    - Tags: [[blue]] 
+- “Avoid what is unskillful, do what is good, purify the mind.” ([Location 6077](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6077))
+    - Tags: [[pink]] 
+- It’s said that what most moved the Buddha after his enlightenment was seeing people seeking happiness, yet doing the very things that brought about suffering. ([Location 6080](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6080))
+    - Tags: [[orange]] 
+- abstinence ([Location 6083](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6083))
+- expression—doing what is good. ([Location 6084](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6084))
+    - Tags: [[blue]] 
+- “And what, monks, is Right Action? Refraining from taking life, refraining from taking what is not given, refraining from sexual misconduct. This is called Right ([Location 6086](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6086))
+- I appreciate this comment because it points to these steps on the Path as actual practices, things to understand and investigate in our lives, rather than taking it for granted that we’re basically good people and then looking no further. ([Location 6091](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6091))
+    - Tags: [[blue]] 
+- This includes people not killing other people, not killing animals for sport or pleasure, and not killing living beings because we don’t like the way they look. ([Location 6095](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6095))
+- In the end, I simply surrendered, allowing them their space on the ceiling and claiming the rest of the space as my own. ([Location 6101](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6101))
+    - Tags: [[blue]] 
+- I didn’t bother them, and they didn’t bother me. ([Location 6102](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6102))
+- Here someone avoids the taking of life and abstains from it. Without stick or sword, conscientious, full of sympathy, he is desirous of the welfare of all sentient beings. ([Location 6104](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6104))
+    - Tags: [[pink]] 
+- And so we find the feelings of lovingkindness and compassion grow as we practice this abstinence. ([Location 6109](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6109))
+    - Tags: [[orange]] 
+- A lot of care and awareness is needed here, as the idea of a greater good has often been used to rationalize very harmful actions. ([Location 6112](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6112))
+- volitional ([Location 6114](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6114))
+    - Tags: [[blue]] 
+- refuges of safety. ([Location 6119](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6119))
+    - Tags: [[pink]] 
+- contentment, ([Location 6128](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6128))
+    - Tags: [[orange]] 
+- this expression of nonstealing might mean not taking or using more than we need. ([Location 6128](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6128))
+- Aware of the suffering caused by sexual misconduct, I vow to cultivate responsibility and learn ways to protect the safety and integrity of individuals, couples, families, and society. . . . To preserve the happiness of myself and others, I am determined to respect my commitments and the commitments of others. I will do everything in my power to protect children from sexual abuse and to prevent couples and families from being broken by sexual misconduct. ([Location 6135](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6135))
+    - Tags: [[blue]] 
+- lust cracks the brain. ([Location 6143](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6143))
+    - Tags: [[pink]] 
+- When we’re in the throes of this strong feeling, we usually think that the choice is either to express or suppress it. ([Location 6145](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6145))
+- Or can we see it with equanimity and wisdom, as simply being part of the passing show of phenomena? ([Location 6149](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6149))
+    - Tags: [[orange]] 
+- we begin to feel the whole body as an energy field, and this field is felt and expressed in different ways depending on where we focus our attention. ([Location 6150](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6150))
+- Always, the unwholesome karma is proportional to the force and strength and duration of the defilements. ([Location 6157](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6157))
+    - Tags: [[pink]] 
+- gifts are purified both by the motivation of the giver and also the purity of the recipient. ([Location 6160](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6160))
+    - Tags: [[orange]] 
+- in the perfection of generosity, we give without discrimination, whenever the opportunity is there. ([Location 6161](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6161))
+- ethical nuances of Right Action ([Location 6166](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6166))
+    - Tags: [[blue]] 
+- “It is fitting for you to be perplexed, Kalamas, fitting for you to be in doubt. . . . Come, Kalamas, do not go by oral tradition, by lineage of teaching, by hearsay, by a collection of scriptures, by logical reasoning, by inferential reasoning. . . . But when, Kalamas, you know for yourselves: ‘These things are unwholesome; these things are blameworthy; these things are censured by the wise; these things, if accepted and undertaken, lead to harm and suffering,’ then you should abandon them. . . . “[W]hen you know for yourselves: ‘These things are wholesome; these things are blameless; these things are praised by the wise; these things, if accepted and undertaken, lead to welfare and happiness,’ then you should live in accordance with them. ([Location 6168](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6168))
+    - Tags: [[pink]] 
+- It’s also helpful to investigate what keeps us complacent about the choices we make. ([Location 6177](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6177))
+    - Tags: [[pink]] 
+- Although he has awakened to the fact that his original nature is no different from that of the Buddhas, beginningless habit energies are extremely difficult to remove suddenly.5 Hindrances are formidable and habits are deeply ingrained.6 So how could you neglect gradual cultivation simply because of one moment of awakening? After awakening you must be constantly on your guard. If deluded thoughts suddenly appear, do not follow after them. . . . Then and only then will your practice reach ([Location 6184](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6184))
+    - Tags: [[orange]] 
+- Yet these moments of awakening and understanding can quickly pass, and the beginningless habit energies of forgetfulness, of other desires, of basic ignorance, resurface once again. ([Location 6192](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6192))
+- We need to repeatedly remind ourselves, whatever the situation may be, of what Right Action is appropriate, making some effort to keep ourselves informed over and over again, so that we don’t fall back into deluded thinking. ([Location 6194](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6194))
+    - Tags: [[blue]] 
+- abstaining from any livelihood involving deceit. ([Location 6209](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6209))
+- It’s possible to develop the attitude of service in whatever work we might do. ([Location 6213](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6213))
+    - Tags: [[blue]] 
+- Are we simply doing a job to support ourselves and our families, or are we watching the attitudes in our minds as we work? ([Location 6214](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6214))
+    - Tags: [[pink]] 
+- Do we work with care, with attentiveness to others, with a genuine desire to be helpful? ([Location 6215](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6215))
+    - Tags: [[orange]] 
+- Right Livelihood is not only about what we do, but also how we do it. ([Location 6215](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6215))
+- S. N. Goenka ([Location 6219](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6219))
+    - Tags: [[blue]] 
+- “If the intention is to play a useful role in society in order to support oneself and to help others, then the work one does is Right Livelihood.” ([Location 6219](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6219))
+    - Tags: [[blue]] 
+- Although it is the wisdom factor that cuts through delusion and ignorance, this blade of wisdom is sharpened and finely honed by these three supporting factors. ([Location 6237](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6237))
+- viriya, ([Location 6240](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6240))
+    - Tags: [[blue]] 
+- energy, ([Location 6240](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6240))
+    - Tags: [[blue]] 
+- is it simply for the accumulation of merit and worldly happiness or is it associated with the Right View that liberates the mind? ([Location 6242](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6242))
+    - Tags: [[pink]] 
+- first ([Location 6244](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6244))
+    - Tags: [[orange]] 
+- prevent the arising of unwholesome states not yet arisen. ([Location 6244](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6244))
+    - Tags: [[orange]] 
+- nibbāna is the mind that is free from the root defilements of greed, hatred, and delusion. ([Location 6246](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6246))
+- unwholesome factors frequently reemerge as conditions change. ([Location 6247](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6247))
+    - Tags: [[blue]] 
+- “latent defilements,” ([Location 6248](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6248))
+    - Tags: [[pink]] 
+- mind states that are not present in the moment, ([Location 6248](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6248))
+    - Tags: [[orange]] 
+- but that have the potential to arise whenever the conditions for them to reappear are present. ([Location 6248](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6248))
+- spiritual urgency. ([Location 6250](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6250))
+- When we’re leading basically good and wholesome lives, it is easy to become complacent about our present circumstances. ([Location 6250](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6250))
+    - Tags: [[blue]] 
+- We see something beautiful and we want it; our minds are pulled toward it. ([Location 6252](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6252))
+    - Tags: [[pink]] 
+- Or perhaps we see somebody doing something we don’t like, and the mind is suddenly filled with judgment and aversion. ([Location 6252](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6252))
+    - Tags: [[orange]] 
+- Or we may be tired, and the mind simply dulls out in delusion. ([Location 6253](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6253))
+- reflection on the preciousness of our human birth. ([Location 6256](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6256))
+- How, then, do we practice this first aspect of Right Effort? ([Location 6257](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6257))
+    - Tags: [[blue]] 
+- The previous steps on the Path, Right Speech, Action, and Livelihood, provide the foundation, through abstinence from unwholesome activities. ([Location 6258](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6258))
+    - Tags: [[pink]] 
+- We then need to exercise wise attention on the different objects of experience arising through the senses. ([Location 6259](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6259))
+    - Tags: [[orange]] 
+- If our attention is casual, careless, and unwise, then we simply fall into old habits of reactivity. ([Location 6260](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6260))
+- as long as there is attachment to the pleasant and aversion to the unpleasant, liberation is impossible. ([Location 6261](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6261))
+    - Tags: [[blue]] 
+- we need a wise and sustained attention to weaken these deeply conditioned habits of mind. ([Location 6262](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6262))
+    - Tags: [[pink]] 
+- abandon those unwholesome states that have already arisen. ([Location 6264](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6264))
+- working with the five hindrances ([Location 6265](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6265))
+    - Tags: [[blue]] 
+- Mindfulness of them is always the first strategy; ([Location 6265](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6265))
+- Sometimes mindfulness itself is enough. We see the unwholesome states, and, in an expression from Tibetan teachings, they self-liberate. ([Location 6266](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6266))
+    - Tags: [[blue]] 
+- “But as the obscuration clears you will begin to uncover the radiance of awareness, until you reach a point where, just as a line traced on water disappears the moment it is made, your ([Location 6269](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6269))
+    - Tags: [[pink]] 
+- thoughts are liberated the moment they ([Location 6270](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6270))
+    - Tags: [[pink]] 
+- dispelling distracting thoughts ([Location 6272](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6272))
+    - Tags: [[orange]] 
+- using its opposite as an antidote. ([Location 6273](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6273))
+- For example, if ill will has arisen, we can refocus the mind on mettā. Or if restlessness is present, calming the mind through calming the breath can be helpful. If envy or jealousy is strong, we can turn the mind to the feeling of muditā, empathetic joy. ([Location 6273](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6273))
+    - Tags: [[blue]] 
+- All of these remedies come from understanding that we have an inner remote control with an ability to change channels. ([Location 6275](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6275))
+    - Tags: [[pink]] 
+- hiri ([Location 6276](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6276))
+    - Tags: [[orange]] 
+- ottappa, ([Location 6277](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6277))
+- “self-respect” ([Location 6277](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6277))
+    - Tags: [[orange]] 
+- “respect for the wise.” ([Location 6277](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6277))
+- “the guardians of the world.” ([Location 6279](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6279))
+    - Tags: [[blue]] 
+- review of our actions is done from a place of wise understanding and is not simply feeding into patterns of self-judgment or guilt. ([Location 6280](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6280))
+    - Tags: [[pink]] 
+- diversion of attention. ([Location 6282](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6282))
+    - Tags: [[orange]] 
+- we can deliberately divert our attention to some other object. ([Location 6283](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6283))
+    - Tags: [[orange]] 
+- The experiment found that those children who were able to divert their attention to something other than the treat were better able to resist the immediate temptation and wait for a greater good (in this case, a second treat). ([Location 6295](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6295))
+    - Note: guarding the senses. refocus on breath. atapa.
+- looking directly at them, investigating their source and their hold on the mind. ([Location 6298](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6298))
+    - Tags: [[blue]] 
+- Here, we might be a little more engaged in seeing what thoughts or emotions are underneath or associated with the unwholesome states; for example, fear often underlies anger, or boredom often underlies desire. ([Location 6299](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6299))
+    - Tags: [[pink]] 
+- forcibly suppressing the unwholesome thought. ([Location 6301](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6301))
+    - Tags: [[orange]] 
+- One way of doing this is imagining oneself shooting down these thoughts as soon as they arise, like shooting down targets at an amusement-park shooting-gallery game. I’ve found this method particularly helpful with recurrent unwholesome thoughts that have already been seen so many times that it’s not a question of denial or suppression of feeling. Here, it’s an attitude that takes no quarter, but involves a sense of humor. I call this method “cowboy dharma.” ([Location 6301](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6301))
+- meditation is an art. ([Location 6305](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6305))
+    - Tags: [[blue]] 
+- strong commitment to awakening, ([Location 6307](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6307))
+    - Tags: [[pink]] 
+- The teachings are not about dogma, but about skillful means, about understanding what works. ([Location 6308](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6308))
+    - Tags: [[orange]] 
+- arouse wholesome states that have not yet arisen. ([Location 6310](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6310))
+- maintain and strengthen those wholesome states that have already arisen. ([Location 6318](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6318))
+- beautiful mental factors.” ([Location 6319](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6319))
+    - Tags: [[pink]] 
+- So often we focus on our shortcomings and mistakes, and overlook the many wholesome mind states that arise during the day. ([Location 6319](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6319))
+    - Tags: [[blue]] 
+- recollect the factors of enlightenment, or any other wholesome state, and become familiar with them. ([Location 6325](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6325))
+    - Tags: [[orange]] 
+- There is some good news here. In his book Outliers, Malcolm Gladwell references many studies showing that the mastery of any given discipline depends less on some innate talent and genius and more on the number of hours devoted to practice. We don’t have to be a spiritual genius; we just have to put in the time. ([Location 6328](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6328))
+- Right Mindfulness is the essential key to practice. ([Location 6333](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6333))
+    - Tags: [[blue]] 
+- In the practice of right mindfulness the mind is trained to remain in the present, open, quiet, and alert, contemplating the present event. ([Location 6337](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6337))
+    - Tags: [[orange]] 
+- All judgments and interpretations have to be suspended, or if they occur, just registered and dropped. ([Location 6338](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6338))
+- The task is simply to note whatever comes up just as it is occurring, riding the changes of events in the way a surfer rides the waves on the sea. ([Location 6339](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6339))
+    - Tags: [[blue]] 
+- The whole process is a way of coming back into the present, of standing in the here and now without slipping away, without getting swept away by the tides of distracting thoughts. . . . ([Location 6340](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6340))
+- To practice mindfulness is thus a matter not so much of doing but of ([Location 6341](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6341))
+    - Tags: [[orange]] 
+- our minds often get lost in mental proliferation of overlaying concepts, evaluations, and likes and dislikes regarding the bare experience of what is happening. ([Location 6343](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6343))
+    - Tags: [[pink]] 
+- nonconceptual identification with experience, ([Location 6345](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6345))
+- creation of a sense of self, ([Location 6345](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6345))
+    - Tags: [[blue]] 
+- literally being led around by the nose. ([Location 6348](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6348))
+    - Tags: [[blue]] 
+- pay careful attention to the moments of awakening after being lost in a thought. ([Location 6350](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6350))
+    - Tags: [[pink]] 
+- power and continuity of mindfulness, ([Location 6354](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6354))
+- When mindfulness is directed toward stabilizing the attention on a single object, it leads to deepening states of calm and tranquility, culminating in what are called the jhānas, or meditative absorptions. ([Location 6355](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6355))
+    - Tags: [[blue]] 
+- When mindfulness is directed to a precise noting/noticing of changing objects, the concentration brings increasing clarity of the three characteristics: impermanence, ([Location 6356](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6356))
+    - Tags: [[pink]] 
+- unsatisfactoriness, and selflessness. ([Location 6357](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6357))
+    - Tags: [[pink]] 
+- undistractedness, ([Location 6358](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6358))
+    - Tags: [[orange]] 
+- steadiness of mind that makes it possible for wisdom to arise. ([Location 6358](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6358))
+    - Tags: [[pink]] 
+- concentration that makes the mind pliable and pervades it with a happiness much greater than the happiness of sense pleasures. ([Location 6359](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6359))
+- “Bhikkhus, develop concentration. A bhikkhu who is concentrated understands things as they really are. And what does he understand. . . . the arising and passing away of the ([Location 6363](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6363))
+- Right View. ([Location 6367](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6367))
+    - Tags: [[blue]] 
+- the Noble Eightfold Path comes full circle again and again, spiraling upward toward liberation. ([Location 6367](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6367))
+    - Tags: [[orange]] 
+- “In this way, in regard to dhammas, one abides contemplating dhammas internally . . . externally . . . internally and externally. One abides contemplating the nature of arising . . . of passing away . . . of both arising and passing away in ([Location 6371](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6371))
+    - Tags: [[pink]] 
+- For example, when you notice the presence of a hindrance or a sound or a particular thought, what is your general attitude toward it? ([Location 6375](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6375))
+- What thoughts and feelings arise when you notice someone else’s energy or concentration? ([Location 6376](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6376))
+    - Tags: [[orange]] 
+- This emphasis on seeing the universal aspects of our personal experience helps us keep both an equanimous and compassionate mind in our interactions with others. ([Location 6380](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6380))
+- contemplating the body, ([Location 6448](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6448))
+    - Tags: [[orange]] 
+- diligent, ([Location 6448](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6448))
+- clearly knowing, ([Location 6448](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6448))
+    - Tags: [[blue]] 
+- mindful, ([Location 6448](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6448))
+    - Tags: [[pink]] 
+- free from desires and discontent in regard to the world. ([Location 6448](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6448))
+    - Tags: [[orange]] 
+- contemplating feelings, ([Location 6449](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6449))
+    - Tags: [[pink]] 
+- contemplating the mind, ([Location 6450](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6450))
+    - Tags: [[blue]] 
+- contemplating dhammas, ([Location 6451](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6451))
+- gone to the forest, or to the root of a tree, or to an empty hut, ([Location 6453](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6453))
+    - Tags: [[blue]] 
+- he sits down; having folded his legs crosswise, ([Location 6453](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6453))
+    - Tags: [[orange]] 
+- set his body erect, ([Location 6454](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6454))
+- established mindfulness in front of him, ([Location 6454](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6454))
+    - Tags: [[blue]] 
+- mindful he breathes in, mindful he breathes out. ([Location 6454](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6454))
+    - Tags: [[pink]] 
+# Mindfulness
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/41n51wK%2BzpL._SL200_.jpg)
+
+## Metadata
+- Author: [[Joseph Goldstein]]
+- Full Title: Mindfulness
+- Category: #books
+
+## Highlights
+- “If you want to understand your mind, sit down and observe it.” ([Location 110](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=110))
+- four ways of establishing mindfulness.” ([Location 115](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=115))
+- more emphasis to the process of awareness itself, ([Location 116](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=116))
+- Although this book is an in-depth guide to mindfulness practice and understanding, the range and depth of these teachings may open new possibilities and levels of subtlety for the application of mindfulness in our daily lives. ([Location 147](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=147))
+- “living in the moment ([Location 152](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=152))
+- present ([Location 152](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=152))
+- enrich our lives in unimagined ways. ([Location 154](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=154))
+- mine these riches. ([Location 155](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=155))
+- understanding the mind-body process ([Location 157](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=157))
+- different methodologies for freeing the mind from the causes of suffering. ([Location 157](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=157))
+- simple baseline of practice ([Location 159](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=159))
+- deepen our understanding by expanding the field of our inquiry. ([Location 160](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=160))
+- At different times, particular instructions in this discourse may touch us and enliven our practice in unexpected ways. ([Location 160](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=160))
+- “This is the direct path for the purification of beings, for the ([Location 162](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=162))
+- surmounting of sorrow and lamentation, for the disappearance of pain and grief, for the attainment of the true way, for the realization of nibbāna—namely the four foundations of mindfulness. ([Location 162](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=162))
+- direct path to liberation ([Location 165](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=165))
+- And as we look at this sutta, we find that all of the Buddha’s teachings are contained within it. ([Location 166](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=166))
+- Different traditions of vipassanā might emphasize one or another of these exercises, but any one of them is sufficient to bring us to the end of the path. When we open any one door of the Dharma, it leads to all the rest. ([Location 168](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=168))
+- In the context of the Satipaṭṭhāna Sutta, bhikkhu is a term indicating any person who earnestly endeavors to accomplish the practice of the teaching: “Whoever undertakes that practice . . . is here comprised under the term ‘bhikkhu.’”3 ([Location 180](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=180))
+- four fields, ([Location 206](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=206))
+- pastures, ([Location 206](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=206))
+- body, ([Location 206](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=206))
+- feelings, ([Location 206](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=206))
+- mind, ([Location 206](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=206))
+- dhammas ([Location 206](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=206))
+- When we establish mindfulness in them, or of them, then we abide safely. ([Location 207](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=207))
+- not mindful, ([Location 207](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=207))
+- lost in unwholesome reactions, ([Location 208](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=208))
+- ardent, ([Location 215](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=215))
+- clearly knowing, ([Location 215](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=215))
+- mindful, ([Location 215](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=215))
+- free from desires and discontent in regard to the world. ([Location 215](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=215))
+- Ardent implies a balanced and sustained application of effort. ([Location 216](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=216))
+- ardent ([Location 216](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=216))
+    - Note: Make a priority of. As in recovery putting your program first.
+- warmth of feeling, ([Location 216](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=216))
+- passionate and strong enthusiasm ([Location 216](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=216))
+    - Note: Ardency means being intent on what you're doing, trying your best to do it skillfully. This doesn't mean that you have to keep straining and sweating all the time, just that you're continuous in developing skillful habits and abandoning unskillful ones. Remember, in the eight factors of the path to freedom, right mindfulness grows out of right effort. Right effort is the effort to be skillful. Mindfulness helps that effort along by reminding you to stick with it, so that you don't let it drop.
+- It is what sustains and nourishes us through all the many ups and downs of practice. ([Location 220](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=220))
+    - Note: How often do we judge our practice in unmindful ways? Ardency provides energy/fuel to ride those ups and downs.
+- Spiritual ardency is the wellspring of a courageous heart. ([Location 221](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=221))
+    - Note: Motivation geater than little self
+- how to practice and cultivate ardency, so that it becomes a powerful and onward-leading force in our lives. ([Location 222](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=222))
+- REFLECT ON THE PRECIOUSNESS OF THE DHARMA ([Location 223](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=223))
+    - Tags: [[blue]] 
+- the purpose of our practice, ([Location 224](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=224))
+    - Tags: [[pink]] 
+- the Dharma is a jewel of priceless value. ([Location 225](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=225))
+- the Dharma is the source of every happiness. ([Location 225](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=225))
+- understanding the mind is the same as understanding the Dharma, ([Location 226](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=226))
+- realizing the deepest truths of the mind is the attainment of awakening. ([Location 227](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=227))
+- REFLECT ON IMPERMANENCE ([Location 236](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=236))
+    - Tags: [[pink]] 
+- transiency of all phenomena. ([Location 237](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=237))
+- Nothing we have, no one in our lives, no state of mind is exempt from change. ([Location 238](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=238))
+    - Tags: [[pink]] 
+- When we don’t deeply understand the truth of impermanence, we devote ourselves, our lives, and even our meditation practice to seeking and wanting other people, possessions, experiences. ([Location 240](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=240))
+- There is no peace. ([Location 242](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=242))
+- The Life of Shabkar, ([Location 243](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=243))
+    - Tags: [[blue]] 
+- remaining in a state of awareness of the absolute view, ([Location 245](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=245))
+- Right now I look well enough, But I won’t last long. ([Location 263](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=263))
+- Thinking of this, I am disturbed. ([Location 268](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=268))
+- Among all the activities of sāṃsara, There is not one that is lasting. ([Location 296](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=296))
+- Having considered this, I resolve not to be attached ([Location 302](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=302))
+- REFLECT ON KARMA ([Location 310](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=310))
+    - Tags: [[orange]] 
+- This is the fundamental and essential understanding that all of our volitional actions ([Location 311](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=311))
+- fruit depending on the motivation associated with them. ([Location 312](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=312))
+- nongreed, ([Location 313](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=313))
+- nonhatred, ([Location 313](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=313))
+- nondelusion ([Location 313](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=313))
+- the only things that can be said to truly belong to us are our actions and their results; the results of our actions follow us like a shadow, ([Location 314](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=314))
+- Mind ([Location 318](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=318))
+    - Note: talk about this. speak or act with peaceful mind vs impure mind.
+- Padmasambhava, ([Location 322](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=322))
+- “There is no right and no wrong, but right is right and wrong is wrong.” ([Location 325](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=325))
+- As ([Location 327](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=327))
+    - Note: discuss.
+- do we remember to investigate and reflect on our motivation? ([Location 327](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=327))
+- this act or mind state skillful or unskillful? ([Location 328](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=328))
+- Where is this motivation leading? ([Location 329](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=329))
+- Do I want to go there? ([Location 329](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=329))
+- investigation ([Location 335](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=335))
+- wisdom ([Location 335](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=335))
+- It highlights the understanding that mindfulness is more than simply being present. ([Location 338](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=338))
+    - Tags: [[blue]] 
+- With clear comprehension, we know the purpose and appropriateness of what we’re doing; ([Location 338](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=338))
+    - Tags: [[pink]] 
+- we understand the motivations behind our actions. ([Location 339](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=339))
+    - Tags: [[orange]] 
+- So often we find ourselves in the middle of an action before we quite know how we got there. ([Location 339](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=339))
+- When we act in full awareness, of even small things, it’s possible to notice the motivation and then to consider: is this motivation, this action, skillful or not, useful or not? ([Location 341](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=341))
+    - Tags: [[blue]] 
+- harmoniously. ([Location 343](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=343))
+    - Tags: [[orange]] 
+- living lovingkindness, ([Location 345](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=345))
+    - Tags: [[pink]] 
+- The more we understand our own minds, the more we understand everyone else. ([Location 349](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=349))
+- QUALITY OF mind ([Location 362](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=362))
+- PRESENT-MOMENT AWARENESS ([Location 366](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=366))
+- presence of mind, ([Location 367](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=367))
+- wakefulness. ([Location 367](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=367))
+- opposite of absentmindedness. ([Location 367](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=367))
+- Whenever we’re lost or confused about what to do, we can simply come back to the present-moment experience. ([Location 367](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=367))
+    - Note: how to practice this - Tejaniya's list
+- “You are here.” ([Location 371](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=371))
+- bare attention, ([Location 372](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=372))
+- noninterfering awareness, ([Location 372](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=372))
+- learn how to listen; ([Location 374](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=374))
+- quality of receptivity that allows intuitive wisdom to arise. ([Location 374](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=374))
+    - Note: versus discursive thought rambling on
+- THE PRACTICE OF REMEMBERING ([Location 378](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=378))
+- wholesome recollection ([Location 379](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=379))
+- supports ([Location 380](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=380))
+- energizes ([Location 380](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=380))
+- recollections ([Location 380](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=380))
+- Buddha, ([Location 380](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=380))
+- Dharma, ([Location 380](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=380))
+- Sangha, ([Location 381](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=381))
+- one’s own generosity and ethical conduct. ([Location 381](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=381))
+- helps arouse confidence and faith ([Location 382](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=382))
+- We understand that the Bodhisattva’s struggle is our own. ([Location 385](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=385))
+- consider the magnitude of what it means to overcome the habits of seduction ([Location 386](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=386))
+- narrow-minded ([Location 386](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=386))
+- closed-hearted. ([Location 387](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=387))
+- path of purification ([Location 387](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=387))
+- reflection on our commitment to ethical conduct ([Location 390](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=390))
+- self-judgment ([Location 393](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=393))
+- But our willingness to see them and recommit to nonharming both others and ourselves keeps us moving forward. ([Location 397](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=397))
+    - Note: Sila as a factor of sobriety
+- is growth in the Noble One’s discipline when one sees one’s transgressions as such and makes amends in accordance with the Dharma by undertaking restraint in the future.” ([Location 398](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=398))
+- BALANCING ([Location 400](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=400))
+- faith, energy, mindfulness, concentration, and wisdom. ([Location 402](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=402))
+- When we have too much faith, we can become dogmatic, attached to our own views. ([Location 404](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=404))
+- When faith is not balanced with wisdom, we can also become overly enthusiastic about our meditation experiences. ([Location 406](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=406))
+- This is when our insight is developing, but in our enthusiasm we forget to be mindful, and then, because of our attachment to these very states, they become corruptions of insight. ([Location 407](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=407))
+    - Note: In my practice, attainment then out of balance. reset then on path. then attainment. Keep eye on the longer term.
+- we can also get attached to some understanding or insight and stay satisfied with that. ([Location 410](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=410))
+- Understanding without faith can keep us enmeshed, often unknowingly, in wrong views. ([Location 411](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=411))
+- effort and concentration need to be in balance. ([Location 412](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=412))
+- Too much effort without enough concentration simply leads to restlessness and agitation, ([Location 412](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=412))
+- excess of concentration without enough energy leads to sloth and torpor. ([Location 413](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=413))
+- PROTECTOR OF THE MIND ([Location 415](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=415))
+- guardian of the sense doors, ([Location 416](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=416))
+- aware of what is arising through the senses ([Location 416](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=416))
+- not get lost in the proliferation of desires. ([Location 416](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=416))
+- we abide more peacefully in our lives. ([Location 417](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=417))
+- the mind filled with wanting is not at ease; ([Location 420](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=420))
+- but this time for some reason there was more mindfulness. ([Location 421](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=421))
+    - Note: mindfulness comes and goes - what factors effect this?
+- protect the mind from other unskillful thoughts and emotions. ([Location 423](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=423))
+- Without mindfulness, we simply act out all the various patterns and habits of our conditioning. ([Location 424](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=424))
+- our aim should be not to follow the heart but to train the heart. ([Location 425](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=425))
+- All of us have a mix of motivations; not everything in our hearts is wise or wholesome. ([Location 426](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=426))
+- mindful discernment ([Location 426](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=426))
+- abandon what is unwholesome ([Location 427](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=427))
+- cultivate the good. ([Location 427](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=427))
+- discernment is of inestimable value for our happiness and wellbeing. ([Location 427](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=427))
+- When I considered: ([Location 436](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=436))
+- it subsided in me; ([Location 437](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=437))
+- With recurring unskillful thoughts, ([Location 441](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=441))
+- we need an actively engaged mindfulness, ([Location 441](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=441))
+- whatever we frequently think of and ponder, that will become the inclination of our minds. ([Location 442](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=442))
+- Mindfulness has the power to show us what kinds of thoughts are arising, ([Location 442](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=442))
+- The simple reflection that these thoughts actually do lead to one’s own and others’ affliction and difficulty, away from wisdom and awakening, is an effective tool to use in those times rather than being just a phrase to read ([Location 444](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=444))
+- With wholesome states of mind, ([Location 446](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=446))
+- We don’t need to be quite so actively engaged. ([Location 446](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=446))
+- learn ([Location 454](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=454))
+    - Note: Hence the practice. Wisdom.
+- find the appropriate balance between active and receptive, doing and nondoing. ([Location 454](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=454))
+- cultivated state, where we are making an effort to stay attentive. ([Location 459](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=459))
+- watchman named Mindfulness, ([Location 460](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=460))
+- fabricated mindfulness ([Location 462](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=462))
+- prompted consciousness ([Location 463](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=463))
+- by reflection or determination of the will, we deliberately endeavor to generate a certain state. ([Location 463](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=463))
+- arises spontaneously through the force of its own momentum. ([Location 464](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=464))
+- a sense of someone observing or being mindful. ([Location 466](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=466))
+- unfabricated mindfulness ([Location 467](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=467))
+- innate wakefulness ([Location 467](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=467))
+- something we need to recognize and come back to. ([Location 470](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=470))
+- different aspects of mindfulness work in harmony. ([Location 472](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=472))
+- That the mind is not peaceful these days is because it follows moods. ([Location 476](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=476))
+- we think that it is we who are ([Location 479](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=479))
+- dhammas—“free from desires and discontent with regard to the world.” ([Location 488](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=488))
+- samādhi, ([Location 489](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=489))
+    - Tags: [[blue]] 
+- the qualities of concentration, composure, and unification of mind that occur when the mind is free of the desires and discontents that so often arise. ([Location 489](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=489))
+    - Tags: [[pink]] 
+- samādhi developing naturally through enjoying embodied presence, settling back into the body, and allowing the stress and tensions to unravel through simply being aware of what presents itself. ([Location 491](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=491))
+- Receiving joy ([Location 493](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=493))
+    - Tags: [[orange]] 
+- skillfulness. ([Location 494](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=494))
+- careful ([Location 494](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=494))
+    - Tags: [[orange]] 
+- collecting ([Location 494](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=494))
+    - Tags: [[blue]] 
+- Samādhi is based on skillful behavior, ([Location 496](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=496))
+- basis in nonharming, ([Location 497](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=497))
+    - Tags: [[blue]] 
+- refraining from killing, stealing, sexual misconduct, lying, and using intoxicants that make the mind heedless. ([Location 501](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=501))
+    - Tags: [[blue]] 
+- increasingly refined. ([Location 502](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=502))
+    - Tags: [[pink]] 
+- Actions and their consequences are magnified in the stillness and undistractedness of the retreat, ([Location 502](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=502))
+    - Tags: [[orange]] 
+- With the foundation of sīla and a nonagitated mind, we settle more easily into a happy, relaxed state, which is itself the proximate cause of concentration. ([Location 509](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=509))
+- path of increasing happiness. ([Location 511](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=511))
+- CONTINUITY OF MINDFULNESS ([Location 512](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=512))
+    - Tags: [[blue]] 
+- strengthening of concentration comes about through the continuity of mindfulness. ([Location 512](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=512))
+    - Tags: [[pink]] 
+- The first way is cultivating a directed awareness on a single object. ([Location 513](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=513))
+- The second way develops a more choiceless awareness. ([Location 514](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=514))
+- We can focus on a single object when the mind is sluggish or distracted, in order to develop internal joy and serenity, and then when the mind is again collected we can open to an undirected choiceless mode of awareness. ([Location 516](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=516))
+- I changed the focus of my attention from simply knowing that I was stepping to feeling more precisely the particular sensations of each step—lightness, heaviness, pressure, stiffness, and so on. ([Location 520](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=520))
+- One of the great gifts of deepening concentration is that it helps keep the various mental hindrances at bay; ([Location 524](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=524))
+- default level of concentration ([Location 526](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=526))
+- respect for concentration ([Location 529](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=529))
+- longevity of the Dharma, ([Location 529](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=529))
+- nondecay ([Location 529](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=529))
+- nondisappearance. ([Location 529](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=529))
+- we increasingly abide free of desires and discontent in regard to the world, and this peaceful composure becomes the basis for greater happiness and freedom. ([Location 532](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=532))
+- By practicing this simple external mindfulness, we protect our own minds from the various defilements that might arise. ([Location 570](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=570))
+- mindfulness of content to mindfulness of process. ([Location 637](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=637))
+- in every moment knowing and its object arise simultaneously. ([Location 665](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=665))
+    - Tags: [[blue]] 
+- This insight is the first doorway into the understanding of selflessness, ([Location 668](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=668))
+    - Tags: [[pink]] 
+- Purification of View. ([Location 668](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=668))
+- We begin to see that everything that we call self is simply this pairwise progression of knowing and object, arising and passing moment after moment. ([Location 669](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=669))
+    - Tags: [[orange]] 
+- We ([Location 684](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=684))
+- strong perception is one of the proximate causes for mindfulness to arise. ([Location 695](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=695))
+    - Tags: [[blue]] 
+- use of concepts ([Location 700](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=700))
+    - Tags: [[pink]] 
+- we want to establish mindfulness to the extent necessary for bare knowing, which somehow suggests a mind free from conceptual overlay. ([Location 701](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=701))
+- the factor of perception, with its attendant concepts, is itself a proximate cause for mindfulness to arise. ([Location 702](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=702))
+    - Tags: [[pink]] 
+- When perception is operative without strong mindfulness — which is the usual way an untrained mind navigates the world — then we know and remember only the surface appearance of things. ([Location 704](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=704))
+    - Tags: [[blue]] 
+- limited, ([Location 706](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=706))
+    - Note: Label is a box when actually just apointer - just like the teachings themselves
+- Instead of concepts limiting our view of what’s arising, ([Location 712](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=712))
+- “rallying the concepts for the higher purpose of developing wisdom, whereby concepts themselves are transcended.” ([Location 714](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=714))
+    - Tags: [[blue]] 
+- Noting helps cut through our identification with experience, both when the hindrances are present and when our practice has become very subtle and refined. ([Location 724](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=724))
+    - Tags: [[blue]] 
+- It’s important to realize that this tool of mental noting is simply a skillful means for helping us to be mindful — it is not the essence of the practice itself, which is simply to be aware. ([Location 731](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=731))
+    - Tags: [[pink]] 
+- joy that leads onward to deepening concentration. ([Location 802](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=802))
+- for leading onward to nibbāna, ([Location 811](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=811))
+    - Tags: [[orange]] 
+- “[H]e seats himself cross-legged, sets his body erect, and establishes mindfulness in front of him. He does not occupy his mind with self-affliction, or the affliction of others, or the affliction of both; he sits with his mind set on his own welfare, on the welfare of others, and on the welfare of both, even on the welfare of the whole world ([Location 880](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=880))
+- intentionality ([Location 932](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=932))
+- IT STRENGTHENS CONTINUITY OF AWARENESS ([Location 973](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=973))
+    - Tags: [[blue]] 
+- We don’t have to be in meditation graduate school to be awake. ([Location 977](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=977))
+- IT REVEALS OUR STATES OF MIND ([Location 979](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=979))
+    - Tags: [[orange]] 
+- energy of rushing ([Location 984](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=984))
+    - Tags: [[pink]] 
+- unnoticed desire ([Location 984](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=984))
+    - Tags: [[pink]] 
+- restless ([Location 985](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=985))
+    - Tags: [[blue]] 
+- impatient, ([Location 985](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=985))
+- overcoming unwholesome states of mind, ([Location 986](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=986))
+- neither walked nor sat nor lay down till I had subdued that fear and dread. ([Location 993](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=993))
+    - Tags: [[orange]] 
+- purification of mind ([Location 998](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=998))
+    - Tags: [[pink]] 
+- Purification of View; ([Location 1021](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1021))
+- nāmarūpa, ([Location 1021](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1021))
+    - Tags: [[orange]] 
+- intention ([Location 1026](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1026))
+    - Tags: [[pink]] 
+- “You should see all phenomena with proper wisdom—this is not mine, this is not I, this is not myself.” ([Location 1034](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1034))
+    - Tags: [[blue]] 
+- This section of the Satipaṭṭhāna Sutta on mindfulness of postures is one of the most effective ways of bringing the insights of intensive retreat practice into the activities of our daily lives. ([Location 1049](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1049))
+    - Tags: [[orange]] 
+- Wisdom comes from being mindful at all times. ([Location 1052](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1052))
+    - Tags: [[pink]] 
+- sampajañña, ([Location 1065](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1065))
+    - Tags: [[blue]] 
+- all of the five spiritual faculties (confidence, energy, mindfulness, concentration, and wisdom) in balance. ([Location 1066](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1066))
+- This practice takes our meditation a step further than simply knowing the posture of the body. ([Location 1071](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1071))
+    - Tags: [[orange]] 
+- we need to see and reflect on our motivation for doing something. ([Location 1072](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1072))
+    - Tags: [[pink]] 
+- motivations are often subtle and hard to see—they are often mixed or are a series of conflicting motivations—it takes a lot of honesty, clarity, and mindfulness to see them clearly, to know the inner purpose behind our actions. ([Location 1073](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1073))
+    - Tags: [[blue]] 
+- I saw that there was a moment of purity, ([Location 1081](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1081))
+- Clear comprehension is a great ally in our daily encounters with Māra. ([Location 1083](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1083))
+    - Tags: [[orange]] 
+- Māra is seen to be king of the highest heaven realm. ([Location 1085](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1085))
+- His mission is to keep us all ensnared in his realm of saṃsāric attachments, and he uses many seductive and confusing ploys to accomplish this. ([Location 1085](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1085))
+    - Tags: [[orange]] 
+- We might be feeling tired or frustrated, and then this kindly voice arises in the mind: “I’ve done enough. I’ve been working really hard. Let me take a little rest.” ([Location 1090](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1090))
+    - Note: codependancy
+- actualizing this prayer in our lives. ([Location 1099](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1099))
+    - Tags: [[orange]] 
+- “Buddhism is a clever way to enjoy life. Happiness is available. Please help yourselves to it.” ([Location 1102](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1102))
+    - Tags: [[pink]] 
+- suitability of an action. ([Location 1104](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1104))
+    - Tags: [[blue]] 
+- effect of our actions on others. ([Location 1107](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1107))
+- proper pastures for our meditation practice. ([Location 1113](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1113))
+    - Tags: [[orange]] 
+- There is a story of one monk who every time he did something unmindfully would go back and do the action again. And after practicing this way for twenty years, he became an arahant. I like this story both for its suggestive practice and also because it speaks to a dedicated commitment to awakening. ([Location 1116](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1116))
+    - Tags: [[pink]] 
+- sense restraint, ([Location 1119](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1119))
+    - Tags: [[blue]] 
+- nonaddiction. ([Location 1122](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1122))
+    - Tags: [[pink]] 
+- emotions: ([Location 1346](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1346))
+    - Tags: [[blue]] 
+- physical sensations: ([Location 1347](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1347))
+- opinion or attitude: ([Location 1348](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1348))
+    - Tags: [[orange]] 
+- Vedanā refers specifically to that quality of pleasantness, unpleasantness, or neutrality that arises with the contact of each moment’s experience. ([Location 1351](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1351))
+    - Tags: [[pink]] 
+- The feeling tone of experience is so vitally important because it conditions our various reactions in the mind and actions in the world. ([Location 1356](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1356))
+    - Tags: [[blue]] 
+- It would be interesting to notice how many of our actions through the day—even small changes of posture—come about through an effort to avoid unpleasant feelings. ([Location 1371](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1371))
+- Desirable things do not provoke one’s mind, Towards the undesired one has no aversion. ([Location 1386](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1386))
+- As I continued with my sitting and walking practice, it became clear that when I didn’t catch the trigger point, when I wasn’t mindful of the first dart, I would get lost in the reactivity of the mind. ([Location 1391](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1391))
+    - Tags: [[blue]] 
+- patterns of fear and hope: ([Location 1395](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1395))
+- “Bhikkhus, that one shall here and now make an end to suffering without abandoning the underlying tendency to lust for pleasant feeling, without abolishing the underlying tendency to aversion towards painful feeling, without extirpating the underlying tendency to ignorance in regard to neither-painful-nor-pleasant feeling . . . this is impossible. ([Location 1400](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1400))
+- When feeling a pleasant feeling, one knows, “I feel a pleasant feeling.” When feeling an unpleasant feeling, one knows, “I feel an unpleasant feeling.” When feeling a neutral feeling, one knows, “I feel a neutral feeling. ([Location 1408](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1408))
+    - Tags: [[orange]] 
+- not to do this mechanically ([Location 1415](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1415))
+    - Tags: [[pink]] 
+- Even doing this for short periods illuminates the very transitory nature of feelings. ([Location 1416](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1416))
+- As we see the transitory nature of whatever feelings arise, we become less identified with them, less attached to the pleasant ones, less fearful of the unpleasant ones. ([Location 1425](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1425))
+    - Tags: [[blue]] 
+- Meditation provides us an opportunity to observe the mind’s reactions to different kinds of feelings. ([Location 1456](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1456))
+- “You should train like this: my body may be sick yet my mind will remain unafflicted.” ([Location 1459](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1459))
+    - Tags: [[orange]] 
+- So often, we put certain situations outside of our practice—when they are either particularly pleasant or particularly unpleasant. ([Location 1460](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1460))
+    - Tags: [[pink]] 
+- It’s the pleasant feeling we like and want to hold on to, the unpleasant feeling we want to push away, and the neutral feeling we don’t even know we’re feeling. ([Location 1475](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1475))
+- But as we practice being mindful of these feelings as they arise, and see with greater immediacy their impermanent nature, we become less entranced by them, less reactive. ([Location 1476](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1476))
+    - Tags: [[orange]] 
+- Whatever feeling one feels, whether pleasant, unpleasant or neither-painful-nor pleasant, one abides contemplating impermanence in those feelings, contemplating fading away, . . . contemplating relinquishment. Contemplating thus, one does not cling to anything in this world. When one does not cling, one is not agitated. When one is not agitated, one personally attains ([Location 1479](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1479))
+    - Tags: [[blue]] 
+- Worldly feelings arise from contact with the senses: ([Location 1490](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1490))
+    - Tags: [[blue]] 
+- also thoughts connected with these objects. ([Location 1491](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1491))
+- renunciation. ([Location 1495](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1495))
+    - Tags: [[orange]] 
+- nonaddictiveness to sense pleasures. ([Location 1496](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1496))
+    - Tags: [[pink]] 
+- happiness now. ([Location 1497](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1497))
+    - Tags: [[blue]] 
+- “What the world calls happiness, I call suffering; what the world calls suffering, I call happiness.” ([Location 1501](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1501))
+- dangers? ([Location 1507](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1507))
+    - Tags: [[orange]] 
+- Sometimes the pleasure itself is ultimately harmful, as in many kinds of addiction. ([Location 1507](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1507))
+    - Tags: [[pink]] 
+- that if we become attached to the pleasant experience, then we feel sorrow and loss when it changes. ([Location 1510](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1510))
+    - Tags: [[blue]] 
+- In the teaching about unworldly feelings, the Buddha is pointing out a different kind of pleasure and a deeper kind of happiness, one without hidden dangers. ([Location 1515](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1515))
+- Indeed, after his enlightenment, the Buddha declared himself to be one who lived in happiness. ([Location 1530](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1530))
+    - Tags: [[orange]] 
+- What are these unpleasant feelings not associated with aversion? ([Location 1554](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1554))
+    - Tags: [[pink]] 
+- You might think: “Perhaps these defiling states [desire, aversion, and ignorance] might disappear. . . , and one might still be unhappy.” That is not how it should be regarded. If defiling states disappear . . . , nothing but happiness and delight develops, with tranquility, mindfulness and clear awareness — and that is a happy ([Location 1572](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1572))
+    - Tags: [[orange]] 
+- generosity, ([Location 1577](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1577))
+    - Tags: [[pink]] 
+- Practicing generosity is an easily accessible gateway to the happy, unworldly feelings based on renunciation, ([Location 1578](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1578))
+    - Tags: [[blue]] 
+- nonremorse. ([Location 1589](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1589))
+    - Tags: [[pink]] 
+- beauty of simplicity. ([Location 1591](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1591))
+    - Tags: [[blue]] 
+- “At times the different objects to note may shrink to one or two or all may even disappear. However, at this time, the knowing consciousness is still present. In this very clear open space of the sky, there remains only one very clear, blissful consciousness, which is very clear beyond comparison and very blissful.” ([Location 1608](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1608))
+- remind us that the path to realization is simply being mindful of all the different feelings as they arise. ([Location 1613](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1613))
+    - Tags: [[orange]] 
+- dharma pleasures. ([Location 1618](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1618))
+    - Tags: [[pink]] 
+- and through mindfulness practice, abandon those tendencies. ([Location 1621](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1621))
+    - Tags: [[blue]] 
+- Mindfulness of feelings externally means that we are aware of feelings arising in others; mindfulness fosters empathetic joy when others experience pleasant feelings, and it fosters compassion when others are in pain. When we’re not mindful of feelings — pleasant, unpleasant, and neutral; worldly and unworldly—and we don’t contemplate them internally, externally, and both, then we easily become identified with these feelings, taking them to be self. ([Location 1630](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1630))
+    - Tags: [[orange]] 
+- Through contemplating feelings as impersonal processes, arising out of contact with the six sense objects (mind is included as the sixth sense), we no longer take these feelings to be self. And in those moments we are practicing the Buddha’s essential teaching, ([Location 1637](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1637))
+    - Tags: [[pink]] 
+- “Nothing whatsoever is to be clung to as I or mine.” ([Location 1639](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1639))
+    - Tags: [[pink]] 
+- “Here one knows a lustful mind to be ‘lustful,’ and a mind without lust to be ‘without lust.’ One knows an angry mind to be ‘angry,’ and a mind without anger to be ‘without anger.’ One knows a deluded mind to be ‘deluded,’ and a mind without delusion to be ‘without delusion’; one knows a contracted mind to be ‘contracted,’ and a distracted mind to be ‘ ([Location 1648](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1648))
+    - Tags: [[blue]] 
+- emphasizes knowing the presence or absence of the three unwholesome roots of mind and how they color or condition our minds. ([Location 1652](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1652))
+- we can still recognize the ease and peace and openness of mind that are present. ([Location 1657](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1657))
+- what is skillful and what is unskillful — ([Location 1661](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1661))
+    - Tags: [[orange]] 
+- For many people, it is an easy step from recognizing a particular mind state like greed or hatred as being unwholesome to the feeling that you’re a bad person for having it, or that somehow it’s wrong for the mind state to even arise. ([Location 1663](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1663))
+    - Tags: [[pink]] 
+- This is the training of the third foundation of mindfulness: mindfulness of mind. ([Location 1674](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1674))
+    - Tags: [[pink]] 
+- “There is no fire like lust, no grip like anger, and no net like delusion.” ([Location 1677](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1677))
+    - Tags: [[blue]] 
+- wanting ([Location 1679](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1679))
+- “pulling in, pushing away, and running around in circles.” ([Location 1680](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1680))
+    - Tags: [[orange]] 
+- “What’s the attitude in the mind right now?” ([Location 1682](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1682))
+    - Tags: [[pink]] 
+- Often, just in asking the question, we can feel the mind relax from a clinging or aversion we hadn’t even realized was there. ([Location 1683](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1683))
+    - Tags: [[blue]] 
+- we are more likely to dwell on the difficulties, ([Location 1686](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1686))
+- As an experiment, pay attention to the next time you experience a strong wanting in the mind. ([Location 1690](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1690))
+    - Tags: [[orange]] 
+- And then notice as the wanting disappears, ([Location 1691](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1691))
+    - Tags: [[pink]] 
+- “Everything in the world has its own secret name—a name that cannot be conveyed in language but is simply the sight and feel of the thing itself.” This is mindfulness sinking into the object and knowing it fully. ([Location 1695](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1695))
+- Since the kilesas, defilements, are not always present, they are therefore adventitious, which means they are not inherent or innate to the mind; they are not the nature of the mind itself, but are visitors that come at different times due to conditions. ([Location 1697](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1697))
+    - Tags: [[orange]] 
+- drowning in the defilements ([Location 1707](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1707))
+    - Tags: [[pink]] 
+- remembering that they are visitors. ([Location 1708](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1708))
+    - Tags: [[blue]] 
+- instead of applying the instructions to simply be mindful of it, ([Location 1712](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1712))
+    - Tags: [[blue]] 
+- Fear is just a mind state. ([Location 1715](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1715))
+- Contracted here refers to the inner withdrawal of the mind due to sloth and torpor. ([Location 1719](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1719))
+    - Tags: [[orange]] 
+- restlessness. ([Location 1721](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1721))
+    - Tags: [[orange]] 
+- First we develop awareness of the three wholesome and unwholesome roots, ([Location 1722](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1722))
+    - Tags: [[blue]] 
+- Next, the Buddha says to be mindful both of the contraction of mind in sloth and the distraction of mind in restlessness. ([Location 1723](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1723))
+- the mind then finds the balance necessary for deeper concentration and the higher states of mind that follow. ([Location 1724](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1724))
+    - Tags: [[orange]] 
+- through bare attention and mirrorlike wisdom, we see their ephemeral, impermanent, and selfless nature. ([Location 1728](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1728))
+    - Tags: [[blue]] 
+- Ask Yourself, “What Is Happening?” ([Location 1732](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1732))
+    - Tags: [[blue]] 
+- Feelings of struggle can become very useful feedback. They are always telling us that something is going on that we’re not accepting, not opening to. Because if we were accepting it, we wouldn’t be struggling. ([Location 1744](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1744))
+    - Tags: [[pink]] 
+- awareness of our daily background moods or emotions. ([Location 1747](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1747))
+- we often sink into them and become identified with them, and they become the unconscious filter on experience. ([Location 1750](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1750))
+    - Tags: [[orange]] 
+- When we identify with them, we build a superstructure of self on top of the shifting landscape of experience: ([Location 1752](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1752))
+    - Tags: [[pink]] 
+- Within itself, the mind is already peaceful. That the mind is not peaceful these days is because it follows moods. It becomes agitated because moods deceive it. The untrained mind is stupid. Sense impressions come and trick it into unhappiness, suffering, gladness and sorrow, but the mind’s true nature is none of these things. Gladness or sadness is not the mind, but only a mood coming to deceive us. The untrained mind gets lost and follows these things, it forgets itself, then we think that it is we who are upset or at ease or whatever. But really this mind of ours is already unmoving and peaceful, really peaceful. So we must train the mind to know these sense impressions and not get lost in them. Just this is the aim of all this difficult practice we put ourselves ([Location 1756](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1756))
+    - Tags: [[blue]] 
+- The Qualities of Concentration According to the commentaries, the first three pairs refer to different qualities of concentration. Great and narrow refer to how far the concentration pervades. For example, in the brahmavihāra practices of love and compassion, they refer to whether we are radiating these feelings toward all beings or just one person. Surpassable and unsurpassable refer to the level of absorption and whether the higher levels are attainable or not. (As an interesting footnote, unsurpassable refers here to the fourth jhāna, because the higher formless absorptions have the same degree of concentration, simply more refined objects.5) The third pair, concentrated and unconcentrated, emphasizes being mindful of whether stable one-pointedness in both samatha (concentration) and vipassanā (insight) meditation is present or not. ([Location 1766](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1766))
+- the practice of mindfulness is all-inclusive; no state is left out. ([Location 1778](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1778))
+    - Tags: [[orange]] 
+- One thing you need to remember and understand is that you cannot leave the mind alone. It needs to be watched constantly. If you do not look after your garden it will overgrow with weeds. If you do not watch your mind, defilements will grow and multiply. The mind does not belong to you, but you are responsible for it ([Location 1787](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1787))
+    - Tags: [[orange]] 
+- If we put our hand in fire and it burns us, we don’t need to keep rediscovering this result by repeatedly touching the flames. ([Location 1809](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1809))
+    - Tags: [[blue]] 
+- Just as pleasant feelings condition desire, unpleasant ones condition aversion, and neutral feelings condition ignorance when we’re unmindful internally, so too might seeing painful feelings in others trigger grief, sorrow, or denial in ourselves when we’re unmindful externally. In some circumstances, painful feelings in others can trigger cruelty. ([Location 1817](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1817))
+- Likewise, when we’re unmindful externally, the pleasant feelings in others could trigger jealousy or envy. ([Location 1822](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1822))
+    - Tags: [[orange]] 
+- It took some time for my mind to settle down, and when I observed how calm and concentrated my friend was, the comparing mind sprang to the fore, tinged with envy and self-judgment. But after noticing this pattern with its attendant suffering, I started doing the meditation on muditā, or empathetic joy. This is the practice of wishing the happiness and success of others to continually grow and increase. It was surprising to me how quickly the mind shifted from the suffering of envy to the happiness of joy in my friend’s success. ([Location 1832](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1832))
+    - Tags: [[orange]] 
+- So being mindful externally revealed certain limitations I had created in my own mind. ([Location 1841](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1841))
+    - Tags: [[pink]] 
+- We can also learn from times when at first we’re not being mindful externally, but then, through our own reactivity, we become aware of what’s happening. ([Location 1845](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1845))
+    - Tags: [[blue]] 
+- Are we simply noticing that those mind states have arisen in others, or is there some reactive charge in our own minds? ([Location 1848](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1848))
+- Reactions to others can be a powerful mindfulness bell, reminding us to pay attention. ([Location 1849](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1849))
+    - Tags: [[orange]] 
+- We can become mindful of our own reactive mind states, such as impatience, anger, or fear. ([Location 1850](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1850))
+    - Tags: [[pink]] 
+- We can then become mindful of the bodily actions, feelings, or mind states of others that have triggered our reactions, noticing if we’re also reactive to those same qualities in ourselves. ([Location 1851](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1851))
+    - Tags: [[blue]] 
+- The second part of the refrain, as mentioned earlier with respect to the body and feelings, tells us to contemplate the nature of arising, of passing away, and both arising and passing away of the mind as it is conditioned by different states. The Pali word saṃsāra means “wandering on,” “continuing on,” or “revolving.” It traditionally refers to our wandering through the different realms of existence over many lifetimes. But we can also see this same process at work within a single lifetime, and even a single day. ([Location 1861](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1861))
+    - Tags: [[blue]] 
+- we begin to free ourselves from both identification with and reaction to them. ([Location 1867](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1867))
+- We can further understand the impermanent, conditioned arising nature of mind states by seeing what triggers them. ([Location 1869](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1869))
+    - Tags: [[orange]] 
+- We can notice the relationship of thought to emotion and emotion to thought, and how each can powerfully condition the other. ([Location 1870](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1870))
+    - Tags: [[pink]] 
+- desire itself that desires, ([Location 1878](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1878))
+    - Tags: [[blue]] 
+- Direct insight—that is, seeing into their passing away — brings about the space to be with mind states and emotions without fear, without identification, and without reaction. ([Location 1880](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1880))
+- If we could fully open to the truth of it, we would be free of attachment and clinging to anything at all. ([Location 1885](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1885))
+    - Tags: [[orange]] 
+- The next line of the refrain answers the unspoken question, “Just how much mindfulness is needed?” It says, “Mindfulness that ‘there is a feeling’ or ‘there is mind’ is established in one to the extent necessary for bare knowledge and continuous mindfulness.” “Bare knowledge” here means observing or knowing objectively what is arising, without getting lost in associations, reactions, judgments or evaluations, or, if we do get lost, to then become aware of those states themselves. ([Location 1891](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1891))
+    - Tags: [[pink]] 
+- We begin to observe that bare knowing is effortless; it is the very nature of the mind itself. ([Location 1901](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1901))
+    - Tags: [[blue]] 
+- mirrorlike quality of the mind. ([Location 1903](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1903))
+- This bare knowing is not something we try to do or create; rather, it is something to come back to. ([Location 1904](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1904))
+    - Tags: [[orange]] 
+- noninterfering awareness, ([Location 1908](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1908))
+    - Tags: [[pink]] 
+- The emphasis moves from mindfulness of the content of the experience to mindfulness of the process of change itself. ([Location 1920](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1920))
+- “the propositions of doctrine are transmuted into immediate perception, here and now. ([Location 1944](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1944))
+    - Tags: [[blue]] 
+- When we’re not mindful of them, the hindrances envelop the mind and obstruct it from developing wise discernment regarding skillful and unskillful actions. ([Location 1953](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1953))
+- In order to proceed on the path, we first need to know how to work skillfully with what impedes our journey. ([Location 1955](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1955))
+    - Tags: [[orange]] 
+- When sense desire is present in the mind, it is as if the pool were suffused with a colored dye. ([Location 1959](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1959))
+    - Tags: [[pink]] 
+- Desires color our perceptions. ([Location 1960](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1960))
+    - Tags: [[blue]] 
+- When aversion is present, it is like boiling water. We can’t see clearly. ([Location 1960](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1960))
+- When we’re heated up by anger, we’re in a state of turbulence. ([Location 1961](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1961))
+    - Tags: [[orange]] 
+- Sloth and torpor are like the pool overgrown with algae. ([Location 1961](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1961))
+    - Tags: [[pink]] 
+- Restlessness and worry are like water when it is stirred up by the wind. ([Location 1962](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1962))
+    - Tags: [[blue]] 
+- And doubt is like muddy water, where we can’t see to the bottom, and everything is obscured. ([Location 1963](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1963))
+- debt, a disease, a prison house, slavery, and a road across a desert. ([Location 1975](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1975))
+    - Tags: [[blue]] 
+- But when these five hindrances have been abandoned in himself, he sees that as freedom from debt, healthiness, release from prison, freedom from slavery, and a land of ([Location 1976](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1976))
+- Pay particular attention to moments of transition, when we go from being lost in one of the hindrances to being mindful of them. ([Location 1979](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1979))
+    - Tags: [[orange]] 
+- Often they have become such familiar parts of our inner landscape that we overlook, or don’t realize, the impact they have on our lives. ([Location 1980](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1980))
+    - Tags: [[pink]] 
+- He said that when attended to carelessly, “these five hindrances are makers of blindness, causing lack of vision, causing lack of knowledge, detrimental to wisdom, tending to vexation, leading away from nibb ([Location 1983](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=1983))
+    - Tags: [[blue]] 
+- “the luminous mind,” free of desire, which is the basis for delight, joy, tranquility, happiness, concentration, and insight. ([Location 2009](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2009))
+- we develop confidence and faith in the practice based on our own experience rather than on belief and hope. ([Location 2013](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2013))
+    - Tags: [[orange]] 
+- “Bhikkhus, whatever a bhikkhu frequently thinks and ponders upon, that will become the inclination of the mind. If one frequently thinks and ponders upon thoughts of sensual desire, one has abandoned the thought of renunciation to cultivate thoughts of sensual desire, and then the mind inclines to thoughts of sensual desire. ([Location 2022](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2022))
+- the more often they are repeated, the more probable they become. ([Location 2026](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2026))
+    - Tags: [[orange]] 
+- Sensual desires also arise from the fundamental misperception that they will actually bring about a lasting happiness — something that, given their impermanence, is not possible. ([Location 2028](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2028))
+    - Tags: [[pink]] 
+- By knowing how it arises, we can practice taking some wise preventative measures—that is, taking care of our mental health and wellbeing in the same way we take care of our physical health. ([Location 2062](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2062))
+    - Tags: [[blue]] 
+- Reflecting on those aspects of the body that are not attractive can be a strong counterbalance to all the other images that beguile us. ([Location 2065](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2065))
+- guarding the sense ([Location 2067](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2067))
+    - Tags: [[orange]] 
+- moderation in food and association with wise friends, ([Location 2068](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2068))
+    - Tags: [[pink]] 
+- from diagnosis to cure to prevention. ([Location 2069](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2069))
+    - Tags: [[blue]] 
+- All things arise when the appropriate conditions are present, and all things pass away as conditions change. ([Location 2072](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2072))
+- paṭigha, ([Location 2084](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2084))
+- sorrow and grief. ([Location 2086](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2086))
+    - Tags: [[orange]] 
+- “One does not become enlightened by imagining figures of light, but by making the darkness conscious. The latter procedure, however, is disagreeable and therefore not popular. ([Location 2094](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2094))
+    - Tags: [[pink]] 
+- We then become mindful of the conditions that lead to its arising. ([Location 2098](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2098))
+    - Tags: [[blue]] 
+- Just as an untrained mind becomes entranced by pleasurable experiences, it also becomes dissatisfied or angry or fearful of unpleasant ones. ([Location 2099](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2099))
+- conditioning aversion. ([Location 2103](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2103))
+    - Tags: [[orange]] 
+- energy block ([Location 2106](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2106))
+    - Tags: [[pink]] 
+- just a concept ([Location 2107](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2107))
+    - Tags: [[blue]] 
+- “block” and feeling as something solid was instead a small field of changing sensations. ([Location 2110](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2110))
+- we’re really just getting angry at a thought. ([Location 2114](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2114))
+    - Tags: [[orange]] 
+- “painted tiger” ([Location 2118](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2118))
+    - Tags: [[pink]] 
+- A certain thought arises, and if we’re not mindful of it as a thought, an emotion might quickly follow. ([Location 2120](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2120))
+    - Tags: [[blue]] 
+- We no longer take them so personally. ([Location 2123](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2123))
+- The Buddha gave some specific examples of this conditioning. In one sutta, he talked of how ill will and malice are stirred by thinking that someone in the past (or present or future) has done us an injury, or has injured a loved one, or has done favors for an enemy (someone we don’t like). ([Location 2124](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2124))
+    - Tags: [[orange]] 
+- If we’re feeling tired or grumpy, small things can provoke aversion or irritation. ([Location 2131](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2131))
+    - Tags: [[pink]] 
+- aversion arises when we personalize difficulties that are essentially impersonal. ([Location 2135](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2135))
+    - Tags: [[blue]] 
+- aversion arises when we don’t get what we want or we do get what we don’t want. ([Location 2139](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2139))
+- Practice Mindfulness When Aversion Is Present ([Location 2143](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2143))
+    - Tags: [[blue]] 
+- soft mental note, ([Location 2145](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2145))
+- At a certain point, the mind state will change, and noticing its passing away offers a deepening and important insight into its impermanent nature. ([Location 2147](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2147))
+    - Tags: [[orange]] 
+- If we feel really caught by it, we can then bring some further investigation to these aversive states. ([Location 2149](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2149))
+    - Tags: [[pink]] 
+- check the accuracy of the note. ([Location 2150](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2150))
+    - Tags: [[blue]] 
+- Instead of making a general note of aversion, look more carefully at the specific form the aversion is taking. ([Location 2150](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2150))
+- Note the Relationship of Mind to Emotion ([Location 2154](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2154))
+    - Tags: [[orange]] 
+- look at the relationship of the mind to the emotion. ([Location 2155](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2155))
+    - Tags: [[orange]] 
+- no one makes us feel things in a particular way. ([Location 2162](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2162))
+    - Tags: [[blue]] 
+- how we relate to those feelings is up to us. ([Location 2163](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2163))
+- There is a range of skillful relationships to anger, ill will, and other forms of aversion, and we need to find the one that is appropriate to our own particular conditioning. ([Location 2163](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2163))
+    - Tags: [[orange]] 
+- If you keep breathing on your anger, shining your compassion and understanding on it, your anger will soon crack and you will be able to look into its depths and see its roots. ([Location 2171](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2171))
+    - Tags: [[pink]] 
+- On the other side, if we tend to self-indulgence or self-pity, the warrior mode suggested by Sayadaw U Paṇḍita might be more appropriate: “Pulverize the defilements, show them no mercy.” ([Location 2173](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2173))
+    - Tags: [[blue]] 
+- power of investigation ([Location 2179](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2179))
+    - Tags: [[pink]] 
+- Use Wise Reflection to Weaken Aversion ([Location 2182](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2182))
+    - Tags: [[blue]] 
+- “What good will it do to hold on to malice, anger, or resentment?” ([Location 2188](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2188))
+    - Tags: [[blue]] 
+- “He abused me, he beat me, he defeated me, he robbed me. Those who harbor such thoughts do not still their hatred.” ([Location 2191](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2191))
+- is our main concern being right or being free? ([Location 2193](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2193))
+    - Tags: [[orange]] 
+- If we’re counting on someone to fulfill an agreed-upon responsibility, isn’t it quite normal and even justified to become annoyed and angry when they ([Location 2198](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2198))
+    - Tags: [[orange]] 
+- fail to do so simply out of laziness or disregard — and not just once, but many times? ([Location 2199](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2199))
+    - Tags: [[orange]] 
+- This is a freedom that’s not simply about feeling good and, therefore, depending on conditions being a certain way. ([Location 2202](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2202))
+    - Tags: [[pink]] 
+- The difficulties that we face in our lives can become a truth-reflecting mirror of our minds. ([Location 2203](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2203))
+- “This is wrong. I should do something about it.”—we can reflect on the nature of freedom and not hold on to the anger or hatred, even as we take appropriate action. ([Location 2206](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2206))
+    - Tags: [[orange]] 
+- value and importance of patience. ([Location 2209](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2209))
+    - Tags: [[pink]] 
+- “Why be unhappy about something if it can be remedied? And what is the use of being unhappy about something if it cannot be remedied? ([Location 2210](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2210))
+    - Tags: [[blue]] 
+- Can you genuinely feel grateful to him or it for the opportunity to practice patience? ([Location 2213](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2213))
+- Do we even remember to try? ([Location 2214](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2214))
+    - Tags: [[orange]] 
+- Remembering to make patience a practice helps loosen our attachment to our own views, our attachment to being right. ([Location 2215](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2215))
+    - Tags: [[pink]] 
+- “Think about something else.” ([Location 2218](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2218))
+    - Tags: [[blue]] 
+- At this point, distracting or diverting our minds can be skillful. ([Location 2219](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2219))
+- development of lovingkindness, mettā in Pali. ([Location 2222](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2222))
+    - Tags: [[blue]] 
+- Metta helps prevent the arising of aversion because it focuses on the good in people, rather than on their faults. ([Location 2223](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2223))
+- But it is precisely the mind not clouded by anger or hatred that allows us to see situations clearly and to chart the right course of action, even in very difficult situations. ([Location 2226](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2226))
+    - Tags: [[orange]] 
+- But as we practice it, recognize it, and become more familiar with it, mettā begins to arise more and more spontaneously in our lives. It becomes the way we are, rather than something we do. ([Location 2229](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2229))
+    - Tags: [[pink]] 
+- As lovingkindness grows stronger, both for ourselves and others, we feel more tolerance, are a little less judgmental, and slowly and gradually start to live in a growing field of benevolence and goodwill. Here is where mettā as a dissolver of aversion also becomes the ground for wisdom. The more loving and patient we are with difficulties and disturbances, the less lost we are in reactivity. Our choices and actions become wiser, which in turn leads to more happiness, more mettā, and greater freedom. ([Location 2230](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2230))
+    - Tags: [[blue]] 
+- examining their presence or absence ([Location 2238](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2238))
+    - Tags: [[blue]] 
+- conditions for their arising, removal, and prevention. ([Location 2238](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2238))
+- Sloth is a sluggishness of mind, ([Location 2239](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2239))
+    - Tags: [[orange]] 
+- sinking state. ([Location 2240](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2240))
+    - Tags: [[blue]] 
+- Torpor is the dull or weakened state of the mental factors, making them unwieldy. ([Location 2240](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2240))
+    - Tags: [[pink]] 
+- there are often the withdrawal symptoms of dullness and sleepiness. ([Location 2246](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2246))
+    - Tags: [[pink]] 
+- increasingly wakeful and alert ([Location 2247](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2247))
+    - Tags: [[blue]] 
+- perhaps at particular times in the day, ([Location 2248](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2248))
+- it becomes easier to work with them as passing mental states, rather than as some defining characteristic of our minds. ([Location 2249](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2249))
+    - Tags: [[orange]] 
+- rather the deeper pattern or tendency of withdrawing from difficulties. ([Location 2252](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2252))
+    - Tags: [[orange]] 
+- retreating from challenges ([Location 2252](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2252))
+    - Tags: [[orange]] 
+- always pulling back. ([Location 2254](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2254))
+    - Tags: [[pink]] 
+- This pattern of retreating from difficulties strengthens the tendencies toward laziness and inactivity, passivity and lethargy. At these times, there is no energy or power to do or accomplish anything. Here, the factors of sloth and torpor keep us from drawing on the strength that we actually have. ([Location 2254](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2254))
+    - Tags: [[blue]] 
+- cozy and comfortable. ([Location 2262](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2262))
+- just a few more minutes of this warm and comfy state.” ([Location 2263](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2263))
+    - Tags: [[orange]] 
+- comparing, ([Location 2266](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2266))
+    - Tags: [[blue]] 
+- self-judgments on to him, seeing all his faults. Then, ([Location 2267](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2267))
+    - Tags: [[pink]] 
+- contracted ([Location 2270](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2270))
+    - Tags: [[blue]] 
+- sloth and torpor are present and when they are absent, ([Location 2273](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2273))
+- conditions for their arising. ([Location 2275](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2275))
+    - Tags: [[orange]] 
+- “There are, bhikkhus, discontent, lethargy, lazy stretching, drowsiness after meals, sluggishness of mind: frequently giving careless attention to them is the nutriment for arising of unarisen sloth and torpor and for the increase and expansion of arisen sloth and ([Location 2278](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2278))
+    - Tags: [[orange]] 
+- Just as thoughts often trigger the emotions of desire and anger, so too can thoughts powerfully condition the arising of sloth and torpor. ([Location 2282](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2282))
+    - Tags: [[pink]] 
+- Sometimes we’re fooled into unwise attention because sloth and torpor can come masquerading as compassion for oneself. ([Location 2283](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2283))
+    - Tags: [[blue]] 
+- “If I work too hard I’ll probably get sick. Let me take care of myself. ([Location 2285](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2285))
+- Of course, at times we do need rest, but often we don’t; instead, the retreating mode of this hindrance is simply coming into play. ([Location 2286](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2286))
+    - Tags: [[orange]] 
+- not acknowledging difficult emotions. ([Location 2296](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2296))
+    - Tags: [[blue]] 
+- sometimes sloth and torpor arise as a defense against feeling it. ([Location 2297](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2297))
+- repressed feelings ([Location 2298](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2298))
+    - Tags: [[orange]] 
+- the arising of sloth and torpor can be a signal that perhaps something else is going on that we should look at. ([Location 2298](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2298))
+    - Tags: [[pink]] 
+- hold this understanding lightly and simply take a look to see what’s there. ([Location 2300](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2300))
+    - Tags: [[blue]] 
+- Notice how you feel just after taking food, and see if there is some relationship of the state of mind to the amount of food you eat. ([Location 2302](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2302))
+- sloth and torpor can also arise from not eating enough. ([Location 2305](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2305))
+    - Tags: [[orange]] 
+- imbalance of concentration and energy. ([Location 2310](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2310))
+    - Tags: [[pink]] 
+- “sinking mind.” ([Location 2311](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2311))
+    - Tags: [[blue]] 
+- not much alertness. ([Location 2312](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2312))
+- Mindfulness and bare attention reinforce our insight into their impermanence, as we realize that we don’t have to fulfill desire or act on anger or indulge the sleepiness in order for it to pass away. ([Location 2333](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2333))
+    - Tags: [[blue]] 
+- We see that these states all come and go by themselves. ([Location 2335](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2335))
+- clarity of cognition. ([Location 2338](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2338))
+    - Tags: [[blue]] 
+- Developing mental clarity, or clarity of knowing, happens in several ways. ([Location 2338](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2338))
+- it develops through a careful noting of a greater number of objects as a way of brightening awareness. ([Location 2339](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2339))
+    - Tags: [[orange]] 
+- When we include more objects in our field of awareness, the mind becomes more active and alert, counteracting the influence of sloth and torpor. ([Location 2344](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2344))
+    - Tags: [[orange]] 
+- vitakka ([Location 2346](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2346))
+    - Tags: [[pink]] 
+- the aiming of the mind toward the object. ([Location 2347](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2347))
+    - Tags: [[pink]] 
+- vicāra, ([Location 2347](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2347))
+    - Tags: [[blue]] 
+- “sustained ([Location 2347](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2347))
+    - Tags: [[blue]] 
+- application,” ([Location 2347](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2347))
+    - Tags: [[blue]] 
+- We can emphasize these factors by consciously remembering to aim and connect with the arising of each object of awareness, and then sustain the attention for its duration. ([Location 2349](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2349))
+- radiant mind. ([Location 2351](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2351))
+    - Tags: [[orange]] 
+- knowing ([Location 2352](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2352))
+    - Tags: [[pink]] 
+- develop clarity of cognition ([Location 2356](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2356))
+- focusing on light. ([Location 2356](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2356))
+    - Tags: [[blue]] 
+- We can do this simply by directing our attention to the perception of light either from an external source, be it natural or artificial, or from some internal vision of light in the mind. ([Location 2356](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2356))
+    - Tags: [[orange]] 
+- open our eyes ([Location 2361](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2361))
+    - Tags: [[pink]] 
+- About a minute later, another wave would pass through. ([Location 2366](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2366))
+    - Tags: [[orange]] 
+- This was an important lesson in realizing that sleepiness is not some monolithic, unchanging state requiring us to go to sleep, but rather a changing energy pattern that we can be with and allow to pass through. ([Location 2367](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2367))
+    - Tags: [[pink]] 
+- changing postures, ([Location 2369](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2369))
+    - Tags: [[blue]] 
+- standing or walking, going outdoors, splashing water on one’s face, and even pulling one’s earlobes. ([Location 2369](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2369))
+- difficulties as challenges, ([Location 2376](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2376))
+- is usually sufficient to rejuvenate us. ([Location 2400](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2400))
+    - Tags: [[blue]] 
+- arousal, ([Location 2407](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2407))
+- endeavor, ([Location 2407](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2407))
+    - Tags: [[orange]] 
+- exertion; ([Location 2407](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2407))
+    - Tags: [[pink]] 
+- the first step of satipaṭṭhāna is not in actively opposing the hindrance or struggling with it, but in clearly recognizing and being mindful of it, and in recognizing the conditions related to its presence or absence. ([Location 2411](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2411))
+    - Tags: [[pink]] 
+- notice whether the hindrance is present or absent in the mind. ([Location 2433](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2433))
+    - Tags: [[blue]] 
+- Practice Mindfulness ([Location 2524](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2524))
+- Restlessness feels more scattered; worry feels more anxious. ([Location 2531](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2531))
+    - Tags: [[orange]] 
+- We can reflect on our purpose for practicing. ([Location 2554](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2554))
+    - Tags: [[pink]] 
+- When we remember our sense of purpose, it is easier to connect again with the object of awareness, to be mindful of just what there is. And as the scattered, dispersed mind begins to settle on the present-moment experience, we go from restlessness to restfulness, and our practice continues to deepen. ([Location 2558](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2558))
+    - Tags: [[pink]] 
+    - Note: Ardency
+- Guilt is simply an ego trip of the mind. Remorse, on the other hand, acknowledges the action, understands its unwholesomeness, makes amends when possible, and then moves on. This is an act of self-forgiveness, which is honest in its assessment and wise in its understanding of impermanence and selflessness. ([Location 2567](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2567))
+    - Tags: [[blue]] 
+- Know That Awareness Is Already Present ([Location 2575](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2575))
+- “If doubt is present, one knows ‘there is doubt in me’; if doubt is not present, one knows ‘there is no doubt in me.’ And one knows how unarisen doubt can arise, how arisen doubt can be removed, and how a future arising of doubt can be prevented. ([Location 2589](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2589))
+    - Tags: [[orange]] 
+- The first kind of doubt is helpful. ([Location 2596](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2596))
+- Just as we don’t want to dogmatically believe everything we hear, we don’t want to automatically disbelieve something simply because it doesn’t fit our current view. ([Location 2597](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2597))
+    - Tags: [[blue]] 
+- The beauty and power of the Buddha’s message is his reminder that we shouldn’t believe something because we read it in books or because some teacher said it. ([Location 2598](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2598))
+    - Tags: [[pink]] 
+- hindrance. ([Location 2601](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2601))
+    - Tags: [[orange]] 
+- “To choose doubt as a philosophy of life is akin to choosing immobility as a means of transportation.” ([Location 2605](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2605))
+    - Tags: [[pink]] 
+- It was not a matter of which tradition was right, but rather, coming to the understanding that all the teachings were skillful means for liberation. ([Location 2624](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2624))
+    - Tags: [[blue]] 
+- Does this teaching help to free the mind? ([Location 2626](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2626))
+    - Tags: [[pink]] 
+- Perhaps an even stronger manifestation of doubt has less to do with our confidence in particular teachings and more to do with our own ability to put them into practice. ([Location 2628](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2628))
+- “plagued by doubt.” ([Location 2634](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2634))
+    - Tags: [[blue]] 
+- the mind simply gets lost in endless speculation. ([Location 2636](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2636))
+    - Tags: [[pink]] 
+- This endless conjecture is exhausting. ([Location 2637](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2637))
+- Doubt is likened to a thorny mind. It keeps jabbing us, and we feel irritable, dissatisfied, and discouraged. ([Location 2637](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2637))
+    - Tags: [[blue]] 
+- The great seduction of doubt is that it comes masquerading as wisdom. ([Location 2640](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2640))
+    - Tags: [[blue]] 
+- unwise attention ([Location 2658](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2658))
+    - Tags: [[orange]] 
+- We experience unwise attention in different ways. One way is by not paying careful attention in the moment to the moment, not seeing and recognizing what the particular thoughts and feelings are that give rise to doubt. This can happen when we’re being what I call “more-or-less mindful.” We’re going along, somewhat aware of what is happening, but not in a precise and accurate way. In this situation, unnoticed thought tapes gather momentum and begin to dominate the mind stream. ([Location 2662](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2662))
+    - Tags: [[blue]] 
+- We see that each of these doubts is itself just another passing thought, and we don’t give them any power. ([Location 2667](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2667))
+    - Tags: [[pink]] 
+- We can then come back to the simplicity of the moment — to the breath, to a step, to just what is arising. In these moments, the power of doubt no longer holds sway. ([Location 2668](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2668))
+    - Tags: [[orange]] 
+- not knowing what is wholesome and what is unwholesome. ([Location 2670](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2670))
+    - Tags: [[blue]] 
+- Not knowing what brings happiness and what brings suffering, we stay stuck in the quagmire of many wrong actions, all of which are a further breeding ground for doubt. ([Location 2672](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2672))
+    - Tags: [[pink]] 
+- Without an understanding of what is skillful and what is unskillful, we end up doing a lot of things that either don’t bring their promised results or actually bring harm to others and ourselves. This, in turn, leads to doubt and confusion about what we’re doing in our practice and our lives. ([Location 2675](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2675))
+    - Tags: [[orange]] 
+- there is the counterintuitive teaching that it is better to do an unskillful act knowing that it’s unskillful than to do it without that knowledge. ([Location 2678](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2678))
+    - Tags: [[blue]] 
+- If we go ahead and do that act, even as we know that it’s unskillful, there are still the seeds of wisdom that can lead to future restraint. ([Location 2679](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2679))
+    - Tags: [[pink]] 
+- It’s interesting to note that the very opposite of doubt is the beautiful mental factor of faith. ([Location 2681](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2681))
+    - Tags: [[orange]] 
+- The gradual overcoming of doubt gives greater meaning and power to the taking of refuge, because, at least to some extent, it is verified in our own experience, ([Location 2686](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2686))
+    - Tags: [[blue]] 
+- (khandhas, ([Location 2693](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2693))
+    - Tags: [[orange]] 
+- material elements, ([Location 2693](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2693))
+- feelings, ([Location 2694](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2694))
+    - Tags: [[blue]] 
+- perceptions, ([Location 2694](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2694))
+    - Tags: [[pink]] 
+- formations, ([Location 2694](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2694))
+    - Tags: [[orange]] 
+- consciousness. ([Location 2694](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2694))
+- contemplation to analyze our subjective experience ([Location 2694](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2694))
+    - Tags: [[orange]] 
+- to deconstruct the deeply held concept of self. ([Location 2695](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2695))
+    - Tags: [[blue]] 
+- holding up a lamp in the dark for those with eyes to ([Location 2698](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2698))
+    - Tags: [[pink]] 
+- the realm of direct experience, ([Location 2699](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2699))
+    - Tags: [[orange]] 
+- they lead us into a profound investigation of what it is we call “life.” ([Location 2700](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2700))
+- new levels of understanding, similar to, and even more transformative than, the great discoveries of the atom or the quantum realities that underlie our conventional perceptions of the world. ([Location 2700](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2700))
+    - Tags: [[blue]] 
+- The teachings on the aggregates directly point to those realities underneath the surface ([Location 2702](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2702))
+    - Tags: [[pink]] 
+- appearance of “self” or “I” or “being.” ([Location 2702](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2702))
+    - Tags: [[pink]] 
+- “How does one abide contemplating dhammas in terms of the five aggregates of clinging?” ([Location 2705](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2705))
+    - Tags: [[orange]] 
+- a collection or a heap of things, ([Location 2708](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2708))
+    - Tags: [[blue]] 
+- dukkhakhandha ([Location 2709](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2709))
+    - Tags: [[pink]] 
+- all that is included under the term dukkha, or all that makes up the idea of suffering or ill. ([Location 2709](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2709))
+    - Tags: [[pink]] 
+- The power of the teachings lies in their directions for us to experience this for ourselves. ([Location 2716](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2716))
+    - Tags: [[orange]] 
+- “the five aggregates of clinging.” ([Location 2719](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2719))
+- our identification with, desire for, or clinging to these aggregates, either individually or collectively. ([Location 2719](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2719))
+    - Tags: [[blue]] 
+- it is this clinging to the aggregates that is the underlying cause of suffering. ([Location 2720](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2720))
+    - Tags: [[pink]] 
+- We may think that we’re feeling the foot or leg, but there are no sensations called “foot.” ([Location 2731](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2731))
+    - Tags: [[orange]] 
+- The words remain the same, which reinforces the illusion that there is something permanent that these words refer to. ([Location 2735](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2735))
+- The feeling tone is so important because it is the conditioning factor of our reactions. When we experience something as pleasant, we like it, and we want to hold on to it and have it continue. So we can see how pleasant feelings condition desire, craving, and grasping. ([Location 2745](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2745))
+    - Tags: [[orange]] 
+- perception is the factor that picks out the distinguishing marks of an object, names it, then remembers this word or concept and applies it the next time we experience that particular object. ([Location 2767](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2767))
+    - Tags: [[orange]] 
+- When perception and mindfulness are balanced, they work together in the service of insight. ([Location 2770](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2770))
+- It’s a perception that keeps us from understanding what is true. ([Location 2783](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2783))
+    - Tags: [[blue]] 
+- When there is perception without mindfulness, which is our usual way of being in the world, we recognize just the surface appearance of things; we have not entered deeply into the experience and do not see its impermanent, insubstantial nature. ([Location 2797](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2797))
+    - Tags: [[orange]] 
+- Perception recognizes certain kinds of thoughts—memories, recollections, plans—creates the concepts of past and future, and then takes these concepts to have some intrinsic reality. ([Location 2809](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2809))
+    - Tags: [[orange]] 
+- But what is actually happening is simply different thoughts arising and passing in the moment. ([Location 2811](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2811))
+- As soon as we identify with any role or image, it is already a limitation. ([Location 2825](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2825))
+- We also project these assessments onto others and then suffer with the comparing mind. ([Location 2828](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2828))
+- We create concepts about things that may seem even more fundamental, such as age, gender, race, and culture. ([Location 2845](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2845))
+    - Tags: [[blue]] 
+- But we often become so identified with and attached to the concept that we solidify and fix the sense of who we are. ([Location 2847](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2847))
+    - Tags: [[pink]] 
+- One of our deepest conditionings and the source of so much suffering in our lives comes from one basic misguided perception, which is the mind-created concept of self. This is the idea that there is someone behind experience to whom it is all happening. We recognize a pattern of physical and mental elements, call it “Joseph” or “self,” and then fail to look past the perceived pattern, not seeing that these concepts are only a designation for an arising appearance of complex interactions. Imagine for a moment a great summer storm. There is wind and rain, thunder and lightning; but there is no storm apart from these elements. “Storm” is simply the concept or designation for this interrelated mix of phenomena. In the same way, when we look more closely at what we are calling “self,” we see a constellation of rapidly changing elements, each one of which is itself momentary and insubstantial. Understanding our experience through the lens of the five aggregates helps us realize for ourselves the fundamental selfless nature of all phenomena. ([Location 2883](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2883))
+    - Tags: [[orange]] 
+- “all formations are impermanent, all formations are unsatisfactory, all formations are selfless.” ([Location 2896](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2896))
+    - Tags: [[orange]] 
+- “the universals,” ([Location 2905](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2905))
+    - Tags: [[orange]] 
+- The seven common mental factors are contact, feeling, perception, attention (which is different and more superficial than mindfulness), one-pointedness, volition, and something called “life faculty.” ([Location 2907](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2907))
+- occasionals,” ([Location 2909](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2909))
+    - Tags: [[orange]] 
+- delusion, shamelessness, fearlessness of wrongdoing, and restlessness. ([Location 2915](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2915))
+    - Tags: [[pink]] 
+- The contemplation of the fourth of the aggregates, saṅkārās, is an essential part of our practice, because whenever we identify with any of these factors, whether wholesome or unwholesome, we reinforce both the concept and felt sense of self. ([Location 2928](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2928))
+    - Tags: [[orange]] 
+- When we observe them more carefully, we see that each of these mental factors arises out of conditions in the moment, expresses its own nature, and passes away as conditions change. ([Location 2932](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2932))
+    - Tags: [[orange]] 
+- One Tibetan text describes this phenomenon as clouds passing through the sky, without roots, without a home. ([Location 2934](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2934))
+    - Tags: [[blue]] 
+- What helps us contemplate all these mental factors with wisdom and insight is seeing what conditions the arising of different emotions and mind states. We can notice how often a mood or emotion is triggered by a particular thought. We might think of a person and feel delight or longing or anger. Although the thought or image of the person may be very quick, the triggered emotion can linger on in the mind and body. Or sometimes our moods trigger certain patterns of thoughts. We might feel tired, discouraged, or grumpy and then begin to notice a lot of critical, judgmental thoughts. ([Location 2937](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2937))
+    - Tags: [[blue]] 
+- volition ([Location 2946](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2946))
+    - Tags: [[orange]] 
+- this particular quality in the mind. ([Location 2947](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2947))
+    - Tags: [[orange]] 
+- factor that is concerned with the actualization of a goal. ([Location 2947](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2947))
+    - Tags: [[blue]] 
+- What this means is that all intentional, volitional actions, whether of body, speech, or mind, have the power to bring about results both in the present and the future. ([Location 2951](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2951))
+    - Tags: [[orange]] 
+- each of our volitional actions can produce myriad results. ([Location 2953](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2953))
+    - Tags: [[blue]] 
+- It is the motivation associated with the intention behind an action that determines the particular karmic fruit of the action, whether pleasant or unpleasant. ([Location 2954](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2954))
+    - Tags: [[pink]] 
+- Although there can be many different motives underlying our actions, they can all be traced back to one of three wholesome or three unwholesome roots; ([Location 2955](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2955))
+- The practice of seeing and understanding this factor of volition is important not only because of its karmic potential, but also because we often unknowingly identify with it. ([Location 2959](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2959))
+    - Tags: [[blue]] 
+- intention or volition can become a subtle hideout of self. ([Location 2963](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2963))
+    - Tags: [[pink]] 
+- it is best to begin noticing it before obvious physical movements. ([Location 2965](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2965))
+    - Tags: [[orange]] 
+- Intention is analogous to an electric current that keeps an appliance running or a light bulb shining. ([Location 2973](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2973))
+    - Tags: [[orange]] 
+- We might notice that to stop the forward movement would require a decision in the mind. ([Location 2977](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2977))
+- And we see that in the absence of that decision, the flow of intentions keeps us moving along all by itself, as if it had a mind of its own. ([Location 2977](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2977))
+    - Tags: [[blue]] 
+- taking an investigative interest in what it is that moves us throughout the day. ([Location 2979](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2979))
+    - Tags: [[orange]] 
+- which is knowing or cognizing. ([Location 2989](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2989))
+    - Tags: [[pink]] 
+- this basic cognizing activity does not change in different circumstances. ([Location 2990](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2990))
+    - Tags: [[orange]] 
+- we see that it manifests in just the same way regardless of what is arising. ([Location 2991](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2991))
+- we could call it a mirrorlike awareness, as the nature of a mirror is simply to reflect what comes before it. ([Location 2991](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2991))
+    - Tags: [[blue]] 
+- It’s helpful to explore this conditioned nature of consciousness directly in our own experience, as a way of freeing ourselves from identification with even this activity of knowing. ([Location 2996](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=2996))
+    - Tags: [[orange]] 
+- “What is that consciousness?” “Venerable sir, it is that which speaks and feels and experiences here and there the result of good and bad actions.” “Misguided man, to whom have you ever known me to teach the Dhamma in that way? Misguided man, in many discourses have I not stated consciousness to be dependently arisen, since without a condition there is no origination of consciousness? ([Location 3003](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3003))
+    - Tags: [[orange]] 
+- it is a process continually arising and passing away many times a moment. ([Location 3009](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3009))
+- Within the breadth of a mind moment, a citta [consciousness] arises, performs its momentary function, and then dissolves, conditioning the next citta in immediate succession. Thus, through the sequence of mind moments, the flow of consciousness continues, uninterrupted like the waters in a stream. ([Location 3011](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3011))
+    - Tags: [[blue]] 
+- Why We Feel: The Science of Human Emotions. ([Location 3023](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3023))
+    - Tags: [[blue]] 
+- Consider a world without consciousness. The darkness is a bubbling cauldron of energy and vibrating matter, locked in the dance of thermal agitation. Through shared electrons, or the strange attraction of unlike charges, quivering molecules, not free to roam, absorb and emit their characteristic quanta packages of energy with the surrounding fog. Free gas molecules, almost oblivious to gravity but buffeted in all directions by their neighbors, form swirling turbulent flows or march in zones of compression and expansion. . . . A massive solar flux and cosmic radiation from events long past crisscross space with their radiant energy and silently mix with the thermal glow of living creatures. . . . [W]ithin the warmth of their sticky protein bodies, the dim glow of consciousness is emerging to impose its own brand of organization on this turbulent mix of energy/matter. The active filter of consciousness illuminates the darkness, discards all irrelevant radiation, and in a grand transmutation converts and amplifies the relevant. Dead molecules erupt into flavors of bitterness or sweetness, electromagnetic frequencies bust with color, hapless air pressure waves become the laughter of children, and the impact of a passing molecule fills a conscious mind with the aroma of roses on a warm summer afternoon. ([Location 3024](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3024))
+    - Tags: [[pink]] 
+- There are different perspectives we can bring to the investigation of consciousness. One comes from the understanding that the more mindful we are of the arising object, the clearer the consciousness of it becomes. When we bring a close attention to the breath, or sensations, to sights and sounds and thoughts, over time, we experience the knowing itself becoming increasingly clear and lucid. ([Location 3035](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3035))
+- Instead of noting our experience from the viewpoint of an observer, we can shift from an active voice to a passive voice: “a sound being known,” “a thought being known,” “a sensation being known.” It’s not that we need to continually repeat these phrases, but rather to just be directly in the experience of things appearing and being known moment after moment. ([Location 3042](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3042))
+    - Tags: [[pink]] 
+- Purification of View, ([Location 3055](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3055))
+    - Tags: [[blue]] 
+- in which we experience each moment as the paired progression of consciousness and its object, understanding that there is no one lurking behind the process. ([Location 3055](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3055))
+    - Tags: [[pink]] 
+- “As soon as there’s something considered important, it becomes a nest.” ([Location 3087](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3087))
+    - Tags: [[blue]] 
+- we can also set our intention to specifically key into this truth of change. ([Location 3110](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3110))
+- he would ask us to report not only on what objects were arising in our meditation, but also on what happened to each object as we observed it. ([Location 3111](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3111))
+    - Tags: [[blue]] 
+- no consciousness ([Location 3118](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3118))
+    - Tags: [[pink]] 
+- we are always waiting for the next hit of experience. ([Location 3124](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3124))
+    - Tags: [[orange]] 
+- How often are we waiting for the next concentrated walking or the next easeful, “good” sit? ([Location 3125](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3125))
+    - Tags: [[blue]] 
+- Yet as objects of mindfulness, any arising experience becomes the vehicle of our awakening. ([Location 3127](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3127))
+    - Tags: [[pink]] 
+- We don’t have to wait for some good or special experience in order to be mindful. Any object will do; nothing is outside the range of mindfulness. ([Location 3128](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3128))
+    - Tags: [[orange]] 
+- “Bhikkhus, whatever is not yours, abandon it. When you have abandoned it, that will lead to your welfare and happiness. . . . “Suppose, bhikkhus, people were to carry off the grass, sticks, branches, and foliage in this Jeta’s Grove, or to burn them, or to do with them as they wish. Would you think: ‘People are carrying us off, or burning us, or doing with us as they wish?’” “No, venerable sir. . . . Because, venerable sir, that is neither our self nor what belongs to our self.” “So too, bhikkhus, form is not yours, [feeling is not yours, perception is not yours, volitional formations are not yours,] consciousness is not yours. Abandon it. When you have abandoned it, that will lead to your welfare and ([Location 3133](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3133))
+    - Tags: [[orange]] 
+- Abandon here means abandoning the sense of ownership, of identifying with the aggregates as being “I” or “mine.” ([Location 3141](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3141))
+- And we defend our claim with great tenacity. ([Location 3144](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3144))
+    - Tags: [[blue]] 
+- The more we cling, the harder it is to let go. ([Location 3158](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3158))
+    - Tags: [[pink]] 
+- And in looking even deeper, on the cellular or atomic level, we see mostly empty space. One science article remarked that if we took all the space away from what constitutes the body, what would be left would be smaller than a particle of dust. In meditation, we go from the perception of the solidity of the body to understanding it as a changing, fluid, insubstantial energy system. ([Location 3158](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3158))
+    - Tags: [[orange]] 
+- One of the most freeing insights of meditation practice is realizing that the only power thoughts have is the power we give them. ([Location 3167](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3167))
+- We build the story of our lives and then live in that story. But all that is actually happening is the rise and fall of momentary mind states. ([Location 3185](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3185))
+    - Tags: [[blue]] 
+- Rather, we understand that it was never there in the first place. ([Location 3194](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3194))
+    - Tags: [[pink]] 
+- Here it is important to remember that mind and mind objects — thoughts, reasoning, memory, reflection, moods, emotions — are simply treated as the sixth sense. ([Location 3255](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3255))
+    - Tags: [[blue]] 
+- intentions in the mind. ([Location 3277](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3277))
+    - Tags: [[pink]] 
+- arises from a conjunction of causes: ([Location 3278](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3278))
+    - Tags: [[orange]] 
+- when unexamined, is often the last hideout of the sense of self. ([Location 3281](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3281))
+    - Tags: [[orange]] 
+- “Friend Ānanda, in many ways [the nature of] this body has been declared, disclosed, and revealed by the Blessed One thus: ‘For such a reason this body is nonself.’ Is it possible to explain [the nature of] this consciousness in a similar way . . . : ‘For such a reason, this consciousness is nonself?’” “It is possible, friend Udāyi. Doesn’t eye-consciousness arise in dependence on the eye and forms?” “Yes, friend.” “If the cause and condition for the arising of eye-consciousness [eyes and forms] would cease completely and totally without remainder, could eye-consciousness be discerned?” “No, friend.” “In this way, friend, this has been declared . . . by the Blessed One thus: ‘For such a reason this consciousness is ([Location 3286](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3286))
+- And then she saw that arising arose, abided, and fell away. . . . She saw that knowing this arose, abided, and fell away. Then she knew there was nothing more than this, no ground, nothing to lean on stronger than the cane she held, nothing to lean upon at all, and no one leaning, and she opened the clenched fist in her mind and let go and fell into the midst of everything. ([Location 3299](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3299))
+    - Tags: [[blue]] 
+- know the fetter, ([Location 3306](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3306))
+    - Tags: [[pink]] 
+- Burning with the fire of lust, with the fire of hatred, with the fire of delusion; burning with birth, ageing, and death; with sorrow, lamentation, pain, dejection and despair. . . . ([Location 3314](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3314))
+    - Tags: [[pink]] 
+- already in the grip of desire ([Location 3405](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3405))
+- One way to explore this in your practice is to notice when some simple desire arises in the mind. ([Location 3414](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3414))
+    - Tags: [[blue]] 
+- We can feel the energy of wanting in the body. ([Location 3416](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3416))
+    - Tags: [[blue]] 
+- We see that desires do not need to be gratified in order to be resolved. Like everything else, they arise and pass away by themselves. ([Location 3417](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3417))
+    - Tags: [[blue]] 
+- Sometimes desire disappears and doesn’t come back. At that time, at least for those moments, we have cut the chain of dependent arising. ([Location 3419](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3419))
+    - Tags: [[pink]] 
+- unwise attention ([Location 3420](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3420))
+    - Tags: [[orange]] 
+- Desire is the wanting, the thirst for something. ([Location 3423](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3423))
+- Clinging is the holding on to, grasping at either the object of desire or sometimes even the desire itself. ([Location 3423](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3423))
+    - Tags: [[blue]] 
+- At these times, it feels as if the object is secondary and that what is really happening is I’m trying to avoid a feeling of deprivation. ([Location 3425](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3425))
+    - Tags: [[pink]] 
+- “Why not have the second (or third) cookie? It will give me more energy,” “Be good to yourself.” These are ways by which we rationalize clinging rather than observing it. ([Location 3426](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3426))
+    - Tags: [[orange]] 
+- Keep in mind that when the Buddha speaks about fetters or defilements, he is speaking about suffering, and so this practice is not something removed from our everyday life, but the key to peace and happiness. ([Location 3431](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3431))
+- conceptual proliferation. ([Location 3438](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3438))
+    - Tags: [[orange]] 
+- perceptions are not absolutes; ([Location 3441](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3441))
+    - Tags: [[pink]] 
+- the great misconceptions we often carry throughout our lives is that our perceptions of ourselves and the world are basically accurate and true, that they reflect some stable, ultimate reality. This misconception leads to tremendous suffering, both globally and in our personal life situations. ([Location 3442](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3442))
+    - Tags: [[orange]] 
+- “Things are seen through the lenses of our desires, prejudices, and resentments and are transformed accordingly. ([Location 3448](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3448))
+- “Don’t side with yourself.” ([Location 3457](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3457))
+    - Tags: [[orange]] 
+- Sometimes we’re enticed by a minor pleasure that hides a much greater suffering. ([Location 3492](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3492))
+    - Tags: [[blue]] 
+- we’re often deluded into thinking that wanting itself is happiness. ([Location 3495](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3495))
+    - Tags: [[pink]] 
+- And somewhat ironically, what the world calls suffering — renunciation, restraint at the sense doors, silence, simplicity, environments with few entertaining distractions — the Buddha calls happiness, because of the ease, open-heartedness, and peace of mind that they bring. ([Location 3498](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3498))
+    - Tags: [[orange]] 
+- good friendship, ([Location 3595](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3595))
+- association with the wise, ([Location 3595](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3595))
+    - Tags: [[blue]] 
+- careful attention are the forerunners and precursors of the arising of the factors of enlightenment. ([Location 3595](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3595))
+    - Tags: [[pink]] 
+- “to remember,” ([Location 3602](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3602))
+- attentiveness to the present, ([Location 3606](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3606))
+    - Tags: [[blue]] 
+- it serves to both bring about and balance all the other factors. ([Location 3609](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3609))
+    - Tags: [[pink]] 
+- It is this aspect of mindfulness that makes it possible to follow the Buddha’s instruction to let go of and abandon what is unskillful and to develop and cultivate what is skillful. ([Location 3623](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3623))
+- acting out the latent tendencies of different defilements. ([Location 3627](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3627))
+    - Tags: [[pink]] 
+- hiri ([Location 3628](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3628))
+    - Tags: [[orange]] 
+- ottappa, ([Location 3628](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3628))
+- “moral shame” ([Location 3629](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3629))
+    - Tags: [[orange]] 
+- “fear of wrongdoing,” ([Location 3629](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3629))
+- universal beautiful factors of mind, ([Location 3635](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3635))
+- they arise out of mindfulness and a deep caring and respect for ourselves and others. ([Location 3643](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3643))
+    - Tags: [[orange]] 
+- renewal ([Location 3644](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3644))
+    - Tags: [[blue]] 
+- “No deed is good that one regrets having done.” ([Location 3655](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3655))
+- If we don’t even know that something is unwholesome, then there is no motivation to change. ([Location 3658](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3658))
+    - Tags: [[pink]] 
+- bare attention ([Location 3662](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3662))
+    - Tags: [[blue]] 
+- clear comprehension. ([Location 3662](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3662))
+    - Tags: [[pink]] 
+- making up stories ([Location 3664](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3664))
+    - Tags: [[orange]] 
+- But sometimes in our practice we’re looking for something special, and so we miss this simplicity and overlook what is right in front of us. ([Location 3667](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3667))
+- sustained continuity of awareness. ([Location 3669](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3669))
+    - Tags: [[pink]] 
+- that which discerns and illuminates the truth by means of discriminating wisdom. ([Location 3687](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3687))
+- “knowing what’s what.” ([Location 3688](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3688))
+    - Tags: [[blue]] 
+- “It is the truth that liberates, not your efforts to be free.” ([Location 3708](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3708))
+    - Tags: [[pink]] 
+- to know whether this quality of discernment is present or not, ([Location 3709](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3709))
+    - Tags: [[orange]] 
+- how it can be developed and cultivated. ([Location 3710](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3710))
+    - Tags: [[orange]] 
+- “the initial function of wisdom as an enlightenment factor is to discriminate between the wholesome and unwholesome mental states that become apparent with the deepening of mindfulness. ([Location 3714](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3714))
+- It’s important not to bring reactive judgments to these discernments, or if we do, to be aware of them. ([Location 3727](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3727))
+- Conceit is that factor of “I was this, I am this, I will be this,” and then, at times, compares this sense of self with others—better than, worse than, equal to. ([Location 3740](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3740))
+    - Tags: [[blue]] 
+- Was-Am Will-Be, ([Location 3743](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3743))
+    - Tags: [[pink]] 
+- suffering—one that leads to more suffering and one that leads to its ([Location 3748](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3748))
+- Instead of getting lost in and acting out habitual patterns of suffering, in times of emotional turbulence, we can first investigate what is actually going on—that is, the nature of the emotion itself — and then see how we are relating to that emotion. Are we claiming it as being “I” or “mine”? ([Location 3749](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3749))
+    - Tags: [[pink]] 
+- Clarity of discernment through investigation of dhammas can bring acceptance because we are aligning ourselves accurately with the present-moment experience. ([Location 3753](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3753))
+    - Tags: [[orange]] 
+- “Yes, this is what’s here.” From this place of acceptance, we can then see more clearly the impermanent, selfless nature of the emotion and free ourselves from identifying with it: letting go by letting be. ([Location 3754](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3754))
+- When a rainbow appears we see many beautiful colors—yet a rainbow is not something we can clothe ourselves with, or wear as an ornament; it simply appears through the conjunction of various conditions. Thoughts arise in the mind in just the same way. They have no tangible reality or intrinsic existence at all. There is therefore no logical reason why thoughts should have so much power over us, nor any reason why we should be enslaved by them. . . . Once we recognize that thoughts are empty, the mind will no longer have the power to deceive us. But as long as we take our deluded thoughts as real, they will continue to torment us mercilessly, as they have been doing throughout countless past lives. ([Location 3770](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3770))
+- focusing more on the momentary process than on any particular content. ([Location 3778](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3778))
+    - Tags: [[blue]] 
+- “When one perceives impermanence, the perception of non-self is stabilized. One who perceives non-self eradicates the conceit ‘I am,’ [which is] nibbāna in this very ([Location 3779](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3779))
+    - Tags: [[pink]] 
+- what we call “self” is simply the pairwise progression of knowing and object. ([Location 3782](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3782))
+- “variable mental factor,” ([Location 3803](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3803))
+- which means that it can be associated with either wholesome or unwholesome states. ([Location 3803](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3803))
+    - Tags: [[blue]] 
+- It has been translated variously as “energy,” “effort,” “strength,” “courage,” “vigor,” “perseverance,” and “persistence.” ([Location 3807](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3807))
+    - Tags: [[pink]] 
+- capacity for activity, ([Location 3810](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3810))
+    - Tags: [[orange]] 
+- Nagasena ([Location 3812](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3812))
+- when we practice, wisdom grows; and when we don’t practice, it wanes. ([Location 3817](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3817))
+    - Tags: [[blue]] 
+- sloth and torpor is to retreat from difficulties, ([Location 3827](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3827))
+    - Tags: [[pink]] 
+- Let only my skin, and sinews, and bones remain, and let my flesh and blood in the body dry up, I shall not permit the course of my effort to stop until I win that which may be won by human ability, human effort and human exertion. ([Location 3831](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3831))
+    - Tags: [[pink]] 
+- Avoiding difficult situations or running away from them does not usually take much skill or effort. But doing so prevents you from testing your own limits and from growing. The ability to face difficulties can be crucial for your growth. However, if you are faced with a situation in which the difficulties are simply overwhelming, you should step back for the time being and wait until you have built up enough strength to deal with it skillfully. ([Location 3849](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3849))
+    - Tags: [[orange]] 
+- Understanding different nuances of viriya — energy, strength, courage — brings us to the thorny problem of understanding the relationship between all of these qualities and effort. What is effort? When is it balanced? When is it counterproductive? Effort is an expenditure of energy to accomplish some objective. But the word effort in English has so many connotations that we need to carefully examine its skillful application in practice. To do that, we will first look at its unskillful application. ([Location 3854](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3854))
+    - Tags: [[blue]] 
+- “ ([Location 3858](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3858))
+    - Tags: [[pink]] 
+- openness and receptivity ([Location 3860](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3860))
+    - Tags: [[orange]] 
+- as I was always wanting something other than what was there. ([Location 3866](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3866))
+    - Tags: [[blue]] 
+- dragging around the corpse of previous experience, ([Location 3869](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3869))
+    - Tags: [[pink]] 
+- The lesson here is that we need to be mindful of how we’re making effort. If there is a strong agenda—the “in-order-to” mind I’ve spoken of — being aware in order for something in particular to happen, or if we’re holding on to the object too tightly, afraid that we’ll lose it, then we need to open and relax the mind, softening the quality of our effort. On the other hand, if the mind is continually drifting off and there is no effort to investigate what is going on, then we need to strengthen this effort factor. ([Location 3870](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3870))
+    - Tags: [[orange]] 
+- wisdom—“Is the mind too tight? Is it too ([Location 3876](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3876))
+- paying attention to the quality of our efforts. ([Location 3878](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3878))
+    - Tags: [[blue]] 
+- The Cycle of Effort and Energy in Our Practice ([Location 3879](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3879))
+    - Tags: [[pink]] 
+- perseverance and constancy. ([Location 3891](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3891))
+- These reflections on our own precious human birth, on the uncertainty of conditions, on the inevitability of death, on the defects of saṃsāra, and on the possibilities of liberation all arouse the factor of courageous energy, and it, in turn, becomes the basis, the root, the foundation of all accomplishment. ([Location 3929](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3929))
+- The Buddha said in the ānāpānasati Sutta (the discourse on mindfulness of breathing) that rapture is born from tireless energy, energy comes from investigation and inquiry, and this discerning wisdom arises from continuous mindfulness. Right here, we see the lawful progression of the factors of awakening. ([Location 3952](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3952))
+- rapture. ([Location 3957](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3957))
+- “momentary rapture,” ([Location 3959](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3959))
+    - Tags: [[blue]] 
+- “wavelike or showering rapture.” ([Location 3962](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3962))
+    - Tags: [[pink]] 
+- “uplifting rapture.” ([Location 3964](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3964))
+    - Tags: [[orange]] 
+- “pervading rapture. ([Location 3976](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3976))
+- These different kinds of rapture and joy develop in our practice when there is a strong momentum of mindfulness and the five spiritual factors are all in balance. ([Location 3978](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3978))
+    - Tags: [[blue]] 
+- The Imperfections of Insight ([Location 3982](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=3982))
+    - Tags: [[pink]] 
+- “momentary freedom.” ([Location 4105](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4105))
+- “If you have one hundred per cent dedication and confidence in the teachings, then every living situation can be part of the practice. You can be living the practice, instead of just doing ([Location 4134](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4134))
+- Rapture is the quality of intense interest, and it arises from a close and caring attention to whatever is arising. ([Location 4138](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4138))
+    - Tags: [[blue]] 
+- “Rapture is the joy and happiness that appears when the power of seeing and knowing increases.” ([Location 4141](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4141))
+    - Tags: [[pink]] 
+- passaddhi, ([Location 4150](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4150))
+    - Tags: [[pink]] 
+- It is the soothing factor of mind that quiets the disturbances. It manifests as peacefulness or coolness in both the mind and body. ([Location 4151](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4151))
+    - Tags: [[pink]] 
+- Passaddhi encompasses both physical composure and mental tranquility. ([Location 4153](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4153))
+    - Tags: [[orange]] 
+- Buddhist psychology describes how it brings along with it other wholesome states, such as lightness, wieldiness, proficiency, and sincerity. ([Location 4154](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4154))
+- When our minds are tranquil, a natural genuineness, honesty, and freedom from duplicity are also present. ([Location 4156](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4156))
+    - Tags: [[blue]] 
+- In meditation teachings, we sometimes hear of the danger of becoming attached to this wonderfully calming, peaceful state of mind. When we first touch this space of tranquility in our meditation, there is a profound sense of relaxation, relief, and ease, especially as we contrast it with the speed and distractedness of our daily lives, and with the difficulties and struggles we sometimes experience in practice. The tranquility can be so enticing that we might start practicing only for the calm, becoming attached to it and identified with it, and forget that it, too, is a constructed state. We can easily sink into the enjoyment of it and forget to bring mindfulness to it. ([Location 4157](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4157))
+    - Tags: [[pink]] 
+- “meditative intelligence”—lead ([Location 4170](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4170))
+    - Tags: [[pink]] 
+- “These two qualities have a share in clear knowing. Which two? Tranquility (samatha) and insight (vipassanā). “When tranquility is developed, what purpose does it serve? The mind is developed. And when the mind is developed, what purpose does it serve? Passion is abandoned. “When insight is developed, what purpose does it serve? Discernment is developed. And when discernment is developed, what purpose does it serve? Ignorance is ([Location 4214](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4214))
+- “Vision and knowledge according to reality.” ([Location 4226](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4226))
+    - Tags: [[orange]] 
+- striving and efforting that actually get in the way. ([Location 4231](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4231))
+    - Tags: [[orange]] 
+- Manual of Factors Leading to Enlightenment, ([Location 4238](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4238))
+- “The mind, hard to control, flighty, alighting where it wishes, one does well to tame. The well-trained mind brings happiness.” ([Location 4251](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4251))
+    - Tags: [[pink]] 
+- bhāvanā, ([Location 4255](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4255))
+- fixed-object concentration. ([Location 4257](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4257))
+    - Tags: [[blue]] 
+- jhāna. ([Location 4269](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4269))
+    - Tags: [[pink]] 
+- pleasant abiding here and now, ([Location 4285](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4285))
+    - Tags: [[blue]] 
+- “knowledge and vision.” ([Location 4290](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4290))
+    - Tags: [[pink]] 
+- Milarepa, ([Location 4296](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4296))
+    - Tags: [[orange]] 
+- Notice the profound difference between being aware of a thought and being lost in it. ([Location 4303](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4303))
+- strong momentary concentration (vipassanā) ([Location 4310](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4310))
+    - Tags: [[blue]] 
+- meditative absorption (jhāna) ([Location 4310](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4310))
+    - Tags: [[pink]] 
+- Momentary concentration is like swimming across a lake; ([Location 4312](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4312))
+    - Tags: [[blue]] 
+- absorption is like being carried across in a motorboat. ([Location 4312](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4312))
+    - Tags: [[pink]] 
+- “the path of dry ([Location 4316](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4316))
+    - Tags: [[orange]] 
+- the jhanic motorboat might be better called “dry insight,” ([Location 4318](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4318))
+    - Tags: [[blue]] 
+- the journey of the swimmers called “wet insight.” ([Location 4319](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4319))
+- As we hear about these different ways of practice and try to determine the methods best suited for ourselves, it’s helpful to remember that it’s not an either-or situation or that one way excludes the other. At different times, one or another approach might be appropriate. ([Location 4320](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4320))
+    - Tags: [[pink]] 
+- It’s important to remember that concentration, like all other mental and physical experiences, is a constructed, conditioned state, impermanent like everything else. This means that the strength of concentration can and will wax and wane at different times. This is natural. But the more we practice, whether it’s the momentary concentration of vipassanā or the absorption jhānas of fixed-object concentration, we establish a base of steadiness and strength underneath all the changes. ([Location 4337](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4337))
+- Know When Concentration Is Present and When It Is Not ([Location 4344](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4344))
+    - Tags: [[blue]] 
+- one knows how the unarisen concentration awakening factor can arise, ([Location 4351](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4351))
+- and how the arisen concentration awakening factor can be perfected by ([Location 4351](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4351))
+    - Tags: [[pink]] 
+- sīla ([Location 4360](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4360))
+- nonremorse, ([Location 4361](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4361))
+    - Tags: [[blue]] 
+- happiness, ([Location 4361](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4361))
+    - Tags: [[pink]] 
+- concentration ([Location 4361](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4361))
+    - Tags: [[orange]] 
+- liberating wisdom. ([Location 4362](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4362))
+- mindfulness of breathing. ([Location 4369](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4369))
+    - Tags: [[pink]] 
+- Pure and Simple, ([Location 4377](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4377))
+- pokati. ([Location 4390](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4390))
+- stabilize our awareness in the knowing itself, ([Location 4393](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4393))
+    - Tags: [[blue]] 
+- “What you are looking for is what is looking.” ([Location 4394](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4394))
+    - Tags: [[pink]] 
+- “When mindfulness has gained momentum, ‘we’ don’t need to do anything anymore. The mind knows what to do. At this stage there is no more personal effort. You could call it effortless awareness. ([Location 4397](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4397))
+    - Tags: [[orange]] 
+- When the mind is thinking or wandering . . . just be aware of it. Thinking is a natural activity of the mind. . . . You are doing well if you are aware that the mind is thinking. . . . But if you feel disturbed by thoughts . . . , or if you have a reaction or judgment of them, there is a problem with your attitude. The wandering mind . . . is not the problem. Your attitude that “they should not be around” is the problem. So understand that you have just become aware of some functions of the mind. These too are just objects for your attention. Thinking is a mental activity. When you are new to this practice you should not try to watch thinking continuously. Neither should you try to avoid observing thoughts by immediately going to your primary meditation object. When you realize that you are thinking, always pay attention to the thought first, and then remind yourself that a thought is just a thought. Do not think of it as “my thought.” Now you can return to your primary meditation object. When you feel disturbed by the thinking mind, remind yourself that you are not practicing to prevent thinking, but rather to recognize and acknowledge thinking whenever it arises. If you are not aware, you cannot know that you are thinking. The fact that you recognize that you are thinking means that you are aware. Remember that it does not matter how many times the mind thinks, wanders off, or gets annoyed about something — as long as you become aware of it. ([Location 4409](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4409))
+- Mindfulness recognizes that a thought is present, and continuity of mindfulness strengthens and steadies the concentration of mind. ([Location 4422](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4422))
+    - Tags: [[pink]] 
+- However, we often get involved with thoughts and are carried away by their story. In this case, it’s helpful to look more carefully at their content, asking whether the thought is skillful or not, helpful or not. ([Location 4425](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4425))
+- upekkhā. ([Location 4452](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4452))
+- “the universal, beautiful factors of mind.” ([Location 4453](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4453))
+    - Tags: [[orange]] 
+- “neutrality of mind.” ([Location 4455](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4455))
+    - Tags: [[blue]] 
+- “there in the middleness.” ([Location 4455](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4455))
+- evenness, ([Location 4457](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4457))
+    - Tags: [[blue]] 
+- unshakeable balance of mind. ([Location 4457](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4457))
+    - Tags: [[pink]] 
+- It serves to prevent either deficiency or excess in the other mental factors. ([Location 4457](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4457))
+    - Tags: [[orange]] 
+- concentration has the power to keep the mind secluded from the hindrances. ([Location 4459](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4459))
+    - Tags: [[orange]] 
+- mind to be unmoving in the face of pleasure or pain. ([Location 4460](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4460))
+    - Tags: [[blue]] 
+- In English, when we speak of neutrality of mind, the phrase might suggest a feeling of indifference or being disconnected from experience. ([Location 4461](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4461))
+    - Tags: [[orange]] 
+- it is not indifference at all. ([Location 4462](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4462))
+- “the eight worldly vicissitudes.” ([Location 4466](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4466))
+    - Tags: [[blue]] 
+- gain and loss, praise and blame, fame and disrepute, and pleasure and pain. ([Location 4466](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4466))
+    - Tags: [[blue]] 
+- ride these waves ([Location 4467](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4467))
+    - Tags: [[pink]] 
+- balance and ease. ([Location 4467](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4467))
+    - Tags: [[blue]] 
+- Gain and Loss ([Location 4469](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4469))
+- we feel their effect whenever we’re invested in or attached to a particular outcome, whenever we take something to be “I” or “mine.” ([Location 4470](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4470))
+- Gain and loss untempered by equanimity, by balance, by being in the middleness, keep us in servitude to the inevitably changing conditions of our lives. ([Location 4481](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4481))
+    - Tags: [[blue]] 
+- Praise and Blame ([Location 4483](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4483))
+    - Tags: [[pink]] 
+- The great lesson here is that even though we may hanker after fame or shrink from disrepute, they really only exist as ideas in other people’s minds. ([Location 4497](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4497))
+- For most of us, there is a deep conditioning in the mind to try to hold on to what is pleasant and to push away or avoid what is unpleasant. ([Location 4501](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4501))
+    - Tags: [[blue]] 
+- anything can happen anytime. ([Location 4511](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4511))
+    - Tags: [[orange]] 
+- “Praise and blame, gain and loss, pleasure and sorrow come and go like the wind. To be happy, rest like a great tree in the midst of them all.” ([Location 4514](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4514))
+    - Tags: [[pink]] 
+- EQUANIMITY AS A DIVINE ABODE ([Location 4516](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4516))
+    - Tags: [[orange]] 
+- brahmavihāras, ([Location 4517](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4517))
+    - Tags: [[pink]] 
+- THE WISDOM ASPECT OF EQUANIMITY ([Location 4523](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4523))
+- “The great way is not difficult for those who have no preferences. When attachment and aversion are both absent, the way is clear and undisguised. Make the smallest distinction, however, and heaven and earth are set infinitely apart.” ([Location 4525](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4525))
+    - Tags: [[blue]] 
+- ever-deeper insights into the three characteristics. ([Location 4528](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4528))
+    - Tags: [[orange]] 
+- At this point, our meditation is less involved with what it is that’s arising than with the process of change itself. ([Location 4530](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4530))
+- “Whatever has the nature to arise will also pass away.” ([Location 4534](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4534))
+    - Tags: [[blue]] 
+- nothing lasts long enough to be called “self.” ([Location 4536](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4536))
+    - Tags: [[pink]] 
+- All phenomena arise out of appropriate causes and conditions, unsubstantial, empty of any inherent self-existence. Phenomena are like rainbows—colored light arising out of momentary changing conditions, both vivid and insubstantial at the same time. ([Location 4536](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4536))
+- what is the path and what is not. ([Location 4541](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4541))
+    - Tags: [[orange]] 
+- we learn not to cling even to the special meditative states of rapture and happiness. ([Location 4541](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4541))
+    - Tags: [[blue]] 
+- culmination of mundane meditative insights, ([Location 4544](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4544))
+    - Tags: [[pink]] 
+- This is a state of deep delight born of peace. ([Location 4544](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4544))
+    - Tags: [[pink]] 
+- patience and equanimity are considered the mainstays for all the others. ([Location 4556](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4556))
+    - Tags: [[pink]] 
+- Forego Attachment ([Location 4561](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4561))
+- already broken. ([Location 4562](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4562))
+    - Tags: [[blue]] 
+- we should act without attachment to the fruit of the action. ([Location 4564](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4564))
+    - Tags: [[blue]] 
+- When we act without attachment to the outcome, then our minds remain peaceful no matter how things unfold. ([Location 4565](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4565))
+    - Tags: [[pink]] 
+- the value of an action is measured not by its success or failure, but by the motivation behind it. ([Location 4567](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4567))
+    - Tags: [[orange]] 
+- Associate with Wise, Equanimous People ([Location 4569](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4569))
+- “All beings are the heirs of their own karma. Their happiness or unhappiness depends on their actions, not upon my wishes.” ([Location 4576](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4576))
+    - Tags: [[pink]] 
+- Although we may wish for people to be happy and at peace, that outcome will ultimately rest on their own actions. ([Location 4578](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4578))
+- we develop equanimity in our insight practice through wise attention and continuous mindfulness. ([Location 4582](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4582))
+    - Tags: [[pink]] 
+- lesser happiness of excitement ([Location 4583](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4583))
+    - Tags: [[blue]] 
+- the simple enjoyment of pleasant feelings. ([Location 4583](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4583))
+- “There is no higher happiness than peace.” ([Location 4584](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4584))
+    - Tags: [[orange]] 
+- dukkha ([Location 4614](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4614))
+- all conditioned phenomena are dukkha ([Location 4614](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4614))
+    - Tags: [[blue]] 
+- dukkha and its end. ([Location 4615](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4615))
+    - Tags: [[pink]] 
+- “Whatever is felt is included in dukkha.” ([Location 4617](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4617))
+    - Tags: [[orange]] 
+- Du means “bad” or “difficult.” ([Location 4623](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4623))
+- Kha means “empty.” ([Location 4623](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4623))
+    - Tags: [[blue]] 
+- “empty” means devoid of permanence and devoid of a self that can control or command phenomena. ([Location 4629](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4629))
+- Words like unsatisfying, unreliable, uneaseful, and stressful all convey universal aspects of our experience. ([Location 4630](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4630))
+    - Tags: [[blue]] 
+- the suffering caused by attachment and craving can be overcome by awakening. ([Location 4634](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4634))
+    - Tags: [[blue]] 
+- “And one knows as it really is, this is dukkha.” ([Location 4639](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4639))
+    - Tags: [[orange]] 
+- The Dukkha of Painful Experiences ([Location 4663](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4663))
+    - Tags: [[orange]] 
+- First, there is the dukkha of experiences that are painful in themselves. ([Location 4664](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4664))
+- There is the inevitable pain of the body, ([Location 4667](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4667))
+    - Tags: [[blue]] 
+- deeply conditioned suffering in the mind: ([Location 4669](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4669))
+    - Tags: [[pink]] 
+- The Dukkha of the Changing Nature of All Things ([Location 4674](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4674))
+    - Tags: [[pink]] 
+- “whatever has the nature to arise will also pass away.” ([Location 4677](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4677))
+    - Tags: [[blue]] 
+- This great truth of change inevitably leads us to times of association with what we don’t want and separation from what we do. ([Location 4679](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4679))
+    - Tags: [[blue]] 
+- And these situations, in turn, often condition resistance to the unpleasant things that come and clinging to the pleasant ones. ([Location 4680](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4680))
+- It just means we need to realize and remember the very transitory nature of that happiness and to deeply consider what our highest aspirations really are. ([Location 4684](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4684))
+    - Tags: [[pink]] 
+- that all accumulation will end in dispersion, ([Location 4687](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4687))
+    - Tags: [[orange]] 
+- Surprisingly, reflecting in this way on the truth of dukkha, which simply sees how things are free of hope and fear, brings a great lightness of heart and mind. ([Location 4687](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4687))
+- The Dukkha of Conditioned Experience ([Location 4746](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4746))
+- “[I]t is, in short, the five aggregates subject to grasping.” ([Location 4759](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4759))
+    - Tags: [[blue]] 
+- as self . . . volitional formations as self . . . consciousness as self. . . . They just keep running and revolving around form, around feelings, around perception, around volitional formations, around consciousness. ([Location 4764](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4764))
+- The first noble truth leads us to the practice of compassion, because it is the practice of letting things in, letting people in, letting all parts of ourselves in. ([Location 4776](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4776))
+- craving. ([Location 4788](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4788))
+- energy ([Location 4789](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4789))
+    - Tags: [[blue]] 
+- It is this powerful force in the mind that keeps the whole wheel of saṃsāra, of conditioned existence, rolling on. ([Location 4789](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4789))
+    - Tags: [[pink]] 
+- taṇhā, ([Location 4794](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4794))
+    - Tags: [[orange]] 
+- “thirst” ([Location 4795](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4795))
+    - Tags: [[orange]] 
+- “fever of unsatisfied longing.” ([Location 4795](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4795))
+    - Tags: [[orange]] 
+- That fever of unsatisfied longing is just the opposite of peace. ([Location 4797](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4797))
+- desire refers to desire bound up with greed and leading to clinging and grasping. ([Location 4802](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4802))
+    - Tags: [[blue]] 
+- THE FIRST DOMAIN OF CRAVING: THE DESIRE FOR SENSE PLEASURES ([Location 4803](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4803))
+- These different patterns of craving, desire, wanting are so familiar to us that they just seem like the ordinary fabric of life. They are so much a part of who we take ourselves to be that they often remain invisible until we bring the power of mindful awareness to them. During the day, notice the gratification that comes from different sense pleasures. It might be from very simple things like a hot shower, or the tastes of enjoyable food, or that moment when we first lie down at night after a busy day; or it might be the enjoyment of pleasant fantasies and the desire for them to continue. See what you become enamored of and the desire and craving that often follow. At some point of investigation and self-reflection, we might resonate with the Buddha’s words, “Whatever gratification there is in the world, that I have found.” Or are we still holding out hope for some new and unexpected gratification of the senses? ([Location 4826](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4826))
+    - Tags: [[blue]] 
+- ādīnava, ([Location 4835](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4835))
+    - Tags: [[blue]] 
+- And what the Buddha is here calling the drawbacks or dangers of the world are precisely the truth of dukkha talked about earlier: that the world is impermanent, bound up with dukkha, subject to change. ([Location 4836](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4836))
+    - Tags: [[pink]] 
+- It would be illuminating to see how and when occasional desires strengthen into deeper habit patterns of wanting. ([Location 4840](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4840))
+    - Tags: [[orange]] 
+- It’s as if some new desire or craving becomes so habitual that we no longer even particularly notice it. ([Location 4841](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4841))
+- “[P]eople who are not free from lust for sensual pleasures, who are devoured by craving for sensual pleasures, who burn with the fever of sensual pleasures, still indulge in sensual pleasures; the more they indulge in sensual pleasures, the more their craving for sensual pleasures increases and the more they are burned by the fever of sensual pleasures, yet they find a certain measure of satisfaction and enjoyment in dependence on the five cords of sensual pleasure. ([Location 4842](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4842))
+    - Tags: [[blue]] 
+- Craving Can Lead to Suffering ([Location 4858](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4858))
+    - Tags: [[pink]] 
+- pursuit; acquisition; decision; desire and lust; selfish tenacity; possessiveness; avarice; concern for protection; and quarrels, strife, dissension, offensive talk, slander, and lies. ([Location 4868](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4868))
+    - Tags: [[blue]] 
+- Craving Can Lead to Agitation ([Location 4874](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4874))
+    - Tags: [[orange]] 
+- expectation, ([Location 4877](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4877))
+- inevitably brings agitation. ([Location 4878](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4878))
+    - Tags: [[blue]] 
+- dharma aspiration. ([Location 4878](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4878))
+    - Tags: [[pink]] 
+- Aspirations inspire us, while expectations simply lead us into cycles of hope and fear: hope that what we want will happen; fear that it won’t. ([Location 4879](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4879))
+- nonclinging — to anything. ([Location 4900](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4900))
+    - Tags: [[pink]] 
+- Here struggle can become useful feedback. ([Location 4901](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4901))
+    - Tags: [[orange]] 
+- “Let not a person revive the past Or on the future build his hopes; For the past has been left behind And the future has not been reached. Instead with insight let him see Each presently arisen state; Let him know that and be sure of it, Invincibly, unshakeably. One who dwells thus ardently, Relentlessly, by day, by night — It is he, the Peaceful Sage has said, Who has one fortunate attachment. ([Location 4917](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4917))
+- Here we’re not seeing each of these experiences simply as insubstantial, empty phenomena arising and passing in each moment. ([Location 4934](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4934))
+    - Tags: [[blue]] 
+- THE THIRD DOMAIN OF CRAVING: THE DESIRE FOR NONEXISTENCE ([Location 4938](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4938))
+- craving the Buddha talked about is desire for nonexistence: “This experience is so bad. If only I could not be.” ([Location 4938](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4938))
+    - Tags: [[pink]] 
+- a self to gratify, a self to clone in the future, a self to get rid of. ([Location 4945](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4945))
+    - Tags: [[orange]] 
+- “Now this, bhikkhus, is the noble truth of the cessation of dukkha: the remainderless fading and cessation, renunciation, relinquishment, release, and letting go of that very craving.”1 ([Location 4955](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4955))
+    - Tags: [[orange]] 
+- short moments many times. ([Location 4968](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4968))
+    - Tags: [[orange]] 
+- liberation through nonclinging. ([Location 4971](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4971))
+- For ages now you’ve been Beguiled, entranced, and fooled by appearances. ([Location 4977](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4977))
+    - Tags: [[pink]] 
+- mistaken perception ([Location 4980](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4980))
+    - Tags: [[orange]] 
+- Focus on the Drawbacks of Conditioned Experience ([Location 4999](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=4999))
+- When we focus on the gratification that comes from sense pleasures, desire increases. ([Location 5000](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5000))
+    - Tags: [[blue]] 
+- When we focus on the drawbacks of sense pleasures, craving diminishes. ([Location 5001](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5001))
+    - Tags: [[pink]] 
+- pay attention to whether we are further conditioning or deconditioning craving? ([Location 5002](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5002))
+    - Tags: [[orange]] 
+- impermanence ([Location 5005](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5005))
+    - Tags: [[orange]] 
+- basic unreliability and ultimately unsatisfying nature of all phenomena. ([Location 5005](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5005))
+    - Tags: [[blue]] 
+- selfless, impersonal nature of this whole unfolding ([Location 5006](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5006))
+- nothing lasts long enough to be considered “self.” ([Location 5007](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5007))
+    - Tags: [[blue]] 
+- motivated to awaken. ([Location 5009](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5009))
+- This stream of thoughts is really the hardly noticed but ongoing creation of the world we inhabit. ([Location 5021](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5021))
+- Notice How Impermanence Pervades Our Lives ([Location 5027](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5027))
+    - Tags: [[blue]] 
+- I would often imagine myself six months or a year in the future and know that at that time I would hardly remember what I was currently going through. ([Location 5035](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5035))
+    - Tags: [[pink]] 
+- many of the factors of awakening are coming into balance for the first time. ([Location 5040](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5040))
+    - Tags: [[orange]] 
+- One metaphor describing this process is of a person jumping out of an airplane in free fall. At first, there is tremendous elation in the experience. Then the person realizes that there’s no parachute and so feels intense fear and dread. But after some time, he realizes that there is also no ground. The fear dissolves, and then there is just the ease and balance of the ride. ([Location 5043](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5043))
+- Cut through Identification with the Knowing Mind ([Location 5047](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5047))
+    - Tags: [[blue]] 
+- “Consciousness is not a thing that exists, but an event that occurs.” ([Location 5051](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5051))
+    - Tags: [[pink]] 
+- keep noting the knowing mind, until one goes beyond even knowing. ([Location 5053](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5053))
+    - Tags: [[orange]] 
+- looking for the mind itself. ([Location 5055](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5055))
+- Huike said to Bodhidharma, “My mind is anxious. Please pacify it.” To which Bodhidharma replied, “Bring me your mind, and I will pacify it.” Huike said, “Although I’ve sought it, I cannot find it.” Bodhidharma then said, “There, I have pacified your ([Location 5060](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5060))
+- NIBBāNA: THE UNCONDITIONED ([Location 5066](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5066))
+    - Tags: [[blue]] 
+- “And what, Bhikkhus, is the unconditioned? The destruction of lust, the destruction of hatred, the destruction of delusion. This is called the unconditioned.” ([Location 5082](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5082))
+    - Tags: [[orange]] 
+- The Mind Released ([Location 5084](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5084))
+- “the signless,” ([Location 5088](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5088))
+    - Tags: [[blue]] 
+- The conventional mind is ruled by the tides of proliferating thought and conditioned by ignorance and craving. ([Location 5090](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5090))
+    - Tags: [[pink]] 
+- All that remains is simple awareness, utterly pure. ([Location 5092](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5092))
+    - Tags: [[orange]] 
+- “’Consciousness without feature, without end, luminous all around: Here water, earth, fire, & wind have no footing. Here long & short coarse & fine fair & foul name & form are all brought to an end. With the cessation of [the activity of] consciousness each is here brought to an end. ([Location 5097](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5097))
+- Beware the Conditioned Mind ([Location 5123](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5123))
+    - Tags: [[blue]] 
+- unawareness ([Location 5130](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5130))
+    - Tags: [[orange]] 
+- “If there is a point or a center of the knower anywhere, that is an agent of birth.” ([Location 5136](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5136))
+- as long as there is identification with anything, any sense of the knower, we are still bound by the conventional conditioned mind. ([Location 5138](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5138))
+    - Tags: [[blue]] 
+- An interesting and unique aspect of the Buddha’s teaching is that its starting point is not dogma or belief, but understanding. ([Location 5161](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5161))
+- Even if this understanding is still conceptual, if we continue our practice, it leads us onward, culminating in direct, intuitive realization of the four noble truths. In this way, the wisdom factors are both the beginning and the end of this noble path. ([Location 5162](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5162))
+    - Tags: [[blue]] 
+- “a path.” ([Location 5165](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5165))
+    - Tags: [[pink]] 
+- overstriving, ([Location 5166](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5166))
+    - Tags: [[orange]] 
+- Keep your eye fixed on the way to the top, but don’t forget to look right in front of you. The last step depends on the first. Don’t think you’ve arrived just because you see the summit. Watch your footing, be sure of the next step, but don’t let that distract you from the highest goal. The first step depends on the last. ([Location 5169](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5169))
+- doubt, ([Location 5175](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5175))
+    - Tags: [[blue]] 
+- belief in rites and rituals as a path to freedom, ([Location 5175](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5175))
+    - Tags: [[pink]] 
+- belief in self. ([Location 5176](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5176))
+    - Tags: [[orange]] 
+- When a person’s mind has been fortified for a long time by faith, virtue, learning, generosity and wisdom, his mind goes upward, goes to ([Location 5181](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5181))
+- “The noble disciple, chamberlains, who possesses four things is a stream-enterer. . . . “What four? Here, chamberlains, a noble disciple possesses confirmed confidence in the Buddha . . . in the Dhamma . . . in the Sangha. He dwells at home with a mind devoid of the stain of stinginess, freely generous, open-handed, delighting in relinquishment, one devoted to charity, delighting in giving and sharing. A noble disciple who possesses these four things is a ([Location 5192](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5192))
+    - Tags: [[pink]] 
+- faith, energy, mindfulness, concentration, and wisdom. ([Location 5209](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5209))
+- attainment, ([Location 5214](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5214))
+    - Tags: [[blue]] 
+- mirror of mindfulness ([Location 5216](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5216))
+    - Tags: [[orange]] 
+- “And what, bhikkhus, is right view? Right view, I say, is twofold: there is right view that is affected by taints, partaking of merit, ripening on the side of attachment; and there is right view that is noble, taintless, supramundane, a factor of the path. ([Location 5248](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5248))
+- acquisition ([Location 5256](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5256))
+    - Tags: [[blue]] 
+- This aspect of right view is especially relevant for those of us who are laypeople, living our lives engaged with the world. It shows how we can live in the world in a way that brings happiness and ease rather than stress and difficulties. ([Location 5256](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5256))
+    - Tags: [[pink]] 
+- “And what, bhikkhus, is right view that is affected by the taints, partaking of merit, ripening on the side of attachment? ‘There is what is given and what is offered and what is sacrificed; there is fruit and result of good and bad actions; there is this world and the other world; there is mother and father; there are beings who are reborn spontaneously; there are in the world good and virtuous recluses and brahmins who have realized for themselves by direct knowledge and declare this world and the other world.’ This is right view affected by taints, partaking of merit, ripening on the side of attachment. ([Location 5261](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5261))
+    - Tags: [[orange]] 
+- karma, ([Location 5268](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5268))
+- the understanding that the only things that truly belong to us are our actions and their results. ([Location 5268](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5268))
+    - Tags: [[blue]] 
+- Acts of giving have power. The Buddha emphasized this in his well-known teaching that said if we knew as he did the fruits of giving, we wouldn’t let a single meal pass without sharing it. ([Location 5274](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5274))
+    - Tags: [[pink]] 
+- Acts of generosity bring obvious benefit to the recipient, but they also bring benefit to ourselves, both in the moment and also when these wholesome karmic actions bear fruit. ([Location 5279](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5279))
+- if we consciously reflect on the whole process, then the practice of generosity also fosters the growth of wisdom. ([Location 5282](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5282))
+    - Tags: [[orange]] 
+- there is no way to overestimate the importance of these teachings—that our actions bring results, that we are the heirs, the owners, of our actions. ([Location 5286](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5286))
+- We begin to take a much greater sense of responsibility for what we do, knowing that it has consequences both in the moment and for the future. ([Location 5289](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5289))
+    - Tags: [[blue]] 
+- These ten unwholesome actions are killing, stealing, committing sexual misconduct, lying, speaking harshly, backbiting, engaging in useless speech, covetousness, ill will, and wrong view. ([Location 5291](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5291))
+    - Tags: [[pink]] 
+- The ten wholesome actions are the refraining from these. ([Location 5292](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5292))
+    - Tags: [[orange]] 
+- “willing suspension of disbelief.” ([Location 5303](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5303))
+- I saw that just as we can become attached to our belief systems, we can also become attached to our disbeliefs. ([Location 5303](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5303))
+    - Tags: [[blue]] 
+- nonmaterial nature of awareness. ([Location 5313](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5313))
+    - Tags: [[pink]] 
+- connect our parents with the Dharma ([Location 5324](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5324))
+- And even if they have already passed away, it’s possible to share our merit with them, dedicating it to their welfare and happiness and awakening. Depending on circumstances, this can have a very beneficial effect. ([Location 5354](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5354))
+    - Tags: [[blue]] 
+- What is important is our intention and motivation for sharing the Dharma. ([Location 5367](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5367))
+- We learn to listen for that voice of genuine experience, rather than being influenced, positively or negatively, by personality or position. ([Location 5380](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5380))
+- Some may be obvious to us, like the practice of generosity, which bears wholesome fruit, or investigating our motivations and acting on the wholesome and letting go of the unwholesome. ([Location 5383](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5383))
+- In one simple way, I’ve found that being open to this teaching of rebirth has taken a certain pressure off my life. ([Location 5387](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5387))
+    - Tags: [[blue]] 
+- we see that real freedom lies in letting go of all craving, all desire for acquisition, for becoming, and cutting through the great Gordian knot of self. ([Location 5392](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5392))
+    - Tags: [[pink]] 
+- wisdom factor of mind. ([Location 5397](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5397))
+- brief, the five aggregates of clinging are dukkha.” ([Location 5418](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5418))
+    - Tags: [[blue]] 
+- Because these five aggregates, which constitute what we claim as self, as “I” — material elements, feelings, perceptions, mental formations, and consciousness — are in constant change and flux. ([Location 5418](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5418))
+    - Tags: [[pink]] 
+- There is nothing in their nature that can provide a place of peace, of rest, of security. And the more we cling to that which in its very nature is subject to change, the greater unease there is in our lives. ([Location 5420](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5420))
+- volitions ([Location 5425](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5425))
+    - Tags: [[pink]] 
+- habit of grasping ([Location 5428](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5428))
+    - Tags: [[orange]] 
+- sakkāyadiṭṭhi, ([Location 5429](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5429))
+    - Tags: [[orange]] 
+- “personality view” ([Location 5430](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5430))
+    - Tags: [[pink]] 
+- “Bhikkhus, I do not see even a single thing so blameworthy as wrong view. Wrong view is the worst of things that are ([Location 5433](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5433))
+- Why does the Buddha make such a strong declaration about this wrong view of self? It is because so many of our unwholesome actions, with their attendant karmic results, are born from it. ([Location 5435](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5435))
+- As long as this view is the central understanding of our lives, and it is for most people, we spend energy and effort gratifying the self, defending it, holding on to it. And yet all of this potent karmic activity is revolving around something that isn’t even there. ([Location 5437](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5437))
+    - Tags: [[blue]] 
+- We can analyze almost every aspect of our daily life and see how we are continually identifying with the different mind states, moods, and emotions that arise, and creating and strengthening the sense of self in the process. ([Location 5443](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5443))
+    - Tags: [[pink]] 
+- How much of the time are we living in the dreamlike nature of thoughts and perceptions, even while we’re awake? ([Location 5475](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5475))
+- Based on right view, we can practice not identifying with either the wholesome or unwholesome formations as self. ([Location 5481](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5481))
+    - Tags: [[blue]] 
+- And on the subtlest level, we need to cut through the identification with consciousness, not creating a haven for wrong view by taking consciousness, the knowing faculty, as being “I” or “mine.” ([Location 5482](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5482))
+    - Tags: [[pink]] 
+- “Any kind of form whatsoever, Rāhula, whether past, future, or present, internal or external, gross or subtle, inferior or superior, far or near—having seen all form [feeling, perception, formations, consciousness] as it really is with correct wisdom thus: ‘This is not mine, this I am not, this is not myself,’ one is liberated through nonclinging. . . . “When one knows and sees thus . . . the mind is rid of I-making, mine-making and conceit, has transcended discrimination, and is peaceful and well ([Location 5484](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5484))
+- Right view, as the wisdom factor of mind, simply investigates what is predominant and sees its impermanent, selfless nature. ([Location 5499](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5499))
+- perception; ([Location 5502](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5502))
+    - Tags: [[blue]] 
+- mind; ([Location 5502](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5502))
+    - Tags: [[pink]] 
+- view. ([Location 5502](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5502))
+    - Tags: [[orange]] 
+- The first is when we simply mistake one thing for another. We might be walking in the woods, see a stick lying on the path, and mistake it for a snake. This kind of distortion is easily remedied by a closer investigation of the experience. ([Location 5502](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5502))
+    - Tags: [[blue]] 
+- Distortions of mind occur when we think and ruminate about our mistaken perceptions. We see the stick, take it to be a snake, and then, thinking about all the stories we’ve heard about poisonous snakes, we become afraid. This is the distortion of mind. It’s a little deeper than the first distortion, but it’s still quite possible to see through it as we examine the situation more closely. ([Location 5504](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5504))
+    - Tags: [[orange]] 
+- It is distortion of view that is the deepest and most difficult to remedy. This is the case when we become so convinced of the truth of something that no matter what evidence is presented to the contrary, we hold tenaciously to that belief. ([Location 5507](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5507))
+    - Tags: [[pink]] 
+- Distortion of view takes place when we hold so deeply to our viewpoint that not even known facts can sway our beliefs. ([Location 5512](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5512))
+    - Tags: [[pink]] 
+- The Buddha talked about these different distortions in terms of seeing what is impermanent as permanent, what is unsatisfying as satisfying, what is non-self as self, and what is non-beautiful as beautiful. ([Location 5514](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5514))
+- From the perspective of the spiritual path, what is essential is that we establish ourselves in right view, so that even as we continue to fall under the sway of distortions of perception and of mind, we understand that they are temporary and, therefore, no longer set the direction of our lives. ([Location 5519](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5519))
+- the voice of another and wise attention. ([Location 5525](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5525))
+    - Tags: [[blue]] 
+- Right Thought ([Location 5527](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5527))
+    - Note: Following our understanding 1st Step, we resolve to take the steps nessessary to follow down the path.
+- “Bhikkhus, whatever a bhikkhu frequently thinks and ponders upon, that will become the inclination of the ([Location 5533](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5533))
+- “And what, monks, is Right Thought? The thought of renunciation, the thought of non-ill-will, the thought of harmlessness. This, monks, is called Right ([Location 5538](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5538))
+    - Tags: [[blue]] 
+    - Note: forgiveness - surrender.
+- We can notice which thoughts are rooted in desire, ill will, or cruelty, consciously reflect on the karma that they cause, and then abandon them, letting them go. ([Location 5542](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5542))
+    - Tags: [[pink]] 
+- And we can notice those thoughts inclining toward renunciation, goodwill, and compassion, reflect on their value, and then strengthen them in our lives. ([Location 5544](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5544))
+    - Tags: [[orange]] 
+- “So it is, Ānanda. So it is. Even I myself, before my Awakening, when I was still an unawakened Bodhisatta, thought: ‘Renunciation is good. Seclusion is good.’ But my heart didn’t leap up at renunciation, didn’t grow confident, steadfast, or firm, seeing it as peace. The thought occurred to me: ‘What is the cause, what is the reason, why my heart doesn’t leap up at renunciation, doesn’t grow confident, steadfast, or firm, seeing it as peace?’ Then the thought occurred to me: ‘I haven’t seen the drawback of sensual pleasures; I haven’t pursued [that theme]. I haven’t understood the reward of renunciation; I haven’t familiarized myself with it. That’s why my heart doesn’t leap up at renunciation, doesn’t grow confident, steadfast, or firm, seeing it as peace. ([Location 5558](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5558))
+    - Note: contempt prior to investigation
+- It can set off alarm bells within us, perhaps because we associate it with the repression of desires, with deprivation, with a rather bleak and austere lifestyle. ([Location 5569](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5569))
+    - Tags: [[blue]] 
+- nonaddiction. ([Location 5572](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5572))
+    - Tags: [[pink]] 
+- We might be addicted, in one way or another, to food, drugs, sex, alcohol, or perhaps more unnoticed, to work, power, recognition, wealth, or even comfort. We can become addicted to and entranced by certain mind states and emotions, like excitement or intensity or fear—witness the very big audience for terrifying horror movies. ([Location 5572](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5572))
+    - Tags: [[orange]] 
+- wanting ([Location 5576](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5576))
+    - Tags: [[pink]] 
+- How often in our practice are we trying to recreate some experience we’ve had before? ([Location 5579](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5579))
+- about letting go; ([Location 5584](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5584))
+    - Tags: [[orange]] 
+- parami ([Location 5605](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5605))
+- There’s often fear or anxiety in the thought of giving something up, of letting go, until we’ve seen for ourselves, repeatedly, that doing so leads to greater happiness and wellbeing. ([Location 5605](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5605))
+    - Tags: [[blue]] 
+- This points to the depth of our conditioning and the value of repeating practices of renunciation until the rewards and happiness from them become the default understanding of our lives. ([Location 5612](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5612))
+- contentment ([Location 5620](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5620))
+    - Tags: [[blue]] 
+- sights and sounds, smells and tastes, sensations in the body, and objects of mind. ([Location 5625](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5625))
+    - Tags: [[orange]] 
+- So when things seem too stressful, too complex, or confused, remember the possibility of renouncing the habit of proliferating thoughts, particularly the “I-me-mine” story, and come back to the simple experience of the moment. ([Location 5626](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5626))
+- We tend to think of Sisyphus as a tragic hero, condemned by the gods to shoulder his rock sweatily up the mountain, and again up the mountain, forever. The truth is that Sisyphus is in love with the rock. He cherishes every roughness and every ounce of it. He talks to it, sings to it. It has become the mysterious Other. He even dreams of it as he sleepwalks upward. Life is unimaginable without it, looming always above him like a huge gray moon. He doesn’t realize that at any moment he is permitted to step aside, let the rock hurtle to the bottom, and go home. Tragedy is the inertial force of the mind. ([Location 5629](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5629))
+    - Tags: [[blue]] 
+- Restraint is not repression or avoidance. ([Location 5642](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5642))
+- Restraint doesn’t mean pushing things away or denying their presence. It does not mean being judgmental or having aversion toward certain aspects of our experience. ([Location 5642](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5642))
+    - Tags: [[blue]] 
+- discriminating wisdom. ([Location 5644](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5644))
+    - Tags: [[pink]] 
+- inner two-year-old. ([Location 5647](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5647))
+    - Tags: [[orange]] 
+- “Is this necessary?” ([Location 5650](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5650))
+- “Is this helpful?” ([Location 5650](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5650))
+    - Tags: [[pink]] 
+- This line can become a polestar for us, as we practice the renunciation of identifying with whatever arises, so that our own minds are not moved in the face of desire, longing, or fear. ([Location 5659](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5659))
+    - Tags: [[pink]] 
+- If you let go a little, you will have a little peace. If you let go a lot, you will have a lot of peace. If you let go completely, you will have complete peace. Your struggles with the world will have come to an end ([Location 5662](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5662))
+- mettā is not dependent on external conditions, on people, on ourselves, being a certain way. ([Location 5682](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5682))
+- examine the attitudes in our own minds as we meet people, ([Location 5691](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5691))
+    - Tags: [[blue]] 
+- realizing that our feelings do not ultimately depend on the other person or even on their behavior. ([Location 5702](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5702))
+    - Tags: [[pink]] 
+- In gladness and in safety, may all beings be at ease. Whatever living beings there may be, whether they are weak or strong, omitting none, the great or the mighty, medium, short or small, the seen and the unseen, those living near and far away, those born and to be born—may all beings be at ease. Let none deceive another, or despise any being in any state. Let none through anger or ill will wish harm upon another. Even as a mother protects with her life her child, her only child, so with a boundless heart should one cherish all living beings, radiating kindness over the entire world, spreading upwards to the skies, and downward to the depths, outwards and unbounded, freed from hatred and ill will. Whether standing or walking, seated or lying down, free from drowsiness, one should sustain this recollection. This is said to be the sublime abiding ([Location 5706](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5706))
+- Benefits of Mettā Practice ([Location 5713](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5713))
+    - Tags: [[pink]] 
+- As these feelings of goodwill and kindness soften us, our minds and hearts become smooth, gentle, more pliable. Because of this softening, there is a lessening of our many reactive judgments and comments, about ourselves as well as others. We become more patient and caring with difficulties and disturbances. As we’re less reactive, not so caught up in immediate likes and dislikes, there is more space for discerning wisdom. We can then see more clearly what is truly skillful and unskillful in our lives, and so we make wiser choices. This, in turn, leads to more happiness, more joy, and more mettā. It’s an upward spiral. As an experiment, the next time you’re walking down a street, start practicing mettā for all the people you pass. It might be expressed as the simple wish “Be happy.” Then notice the difference between these times of sending mettā and times of not sending, when we’re most likely lost in the wanderings of our minds. As mettā grows stronger and steadier, we feel more tolerant of ourselves and others, a little less judgmental. Gradually we start to live in a growing field of goodwill and good humor, holding ourselves and others with a lighter heart. The poet W. H. Auden captured this possibility when he wrote, “You shall love your crooked neighbour / With all your crooked heart.” The beauty and power of the Buddha’s teachings are that they are not something to simply admire in others, but to practice and develop in ourselves. ([Location 5714](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5714))
+    - Tags: [[orange]] 
+- This near enemy is the mind state of desire, attachment, longing, and craving. ([Location 5729](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5729))
+- One is an offering; the other is a taking, a holding on. ([Location 5734](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5734))
+    - Tags: [[blue]] 
+- The proximate cause for lovingkindness to arise is focusing on the good qualities in people, whether others or ourselves. ([Location 5770](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5770))
+- gratitude ([Location 5779](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5779))
+- “From my experience there is no difference. When you are fully loving, aren’t you also mindful? When you are fully mindful, is this not also the essence of love?” ([Location 5784](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5784))
+    - Tags: [[pink]] 
+- And even with people we find difficult, we can reflect on our basic intention of goodwill. ([Location 5790](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5790))
+    - Tags: [[orange]] 
+- The willingness to train our hearts, whether in mettā or anything else, requires great patience, which the Buddha called “the highest devotion.” The recollection of the attitude of mettā in all aspects of our lives gradually transforms how we are in the world, with ourselves and with all others. ([Location 5798](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5798))
+- final deliverance from ([Location 5960](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5960))
+- TRUTHFULNESS ([Location 5963](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5963))
+    - Tags: [[blue]] 
+- slight exaggerations ([Location 5966](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5966))
+    - Tags: [[pink]] 
+- humorous untruths ([Location 5966](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5966))
+    - Tags: [[pink]] 
+- falsehoods ([Location 5966](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5966))
+    - Tags: [[orange]] 
+- In any situation where we say what is untrue, what is the motivation? ([Location 5969](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5969))
+    - Tags: [[blue]] 
+- “If you tell the truth you don’t have to remember anything.” ([Location 5971](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5971))
+- it’s said that in all that time he never knowingly spoke an untruth, ([Location 5978](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5978))
+- lies of omission, ([Location 5984](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5984))
+    - Tags: [[blue]] 
+- “Lying is done with words and also with silence.” ([Location 5985](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5985))
+    - Tags: [[pink]] 
+- “Yes, my mind can dissemble.” ([Location 5991](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5991))
+    - Tags: [[orange]] 
+- letting go of the previously unnoticed pretense ([Location 5991](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5991))
+- When we’re willing to see ourselves more honestly, it becomes much easier to recognize those impulses, which gives us more opportunity to refrain from them. ([Location 5992](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5992))
+    - Tags: [[pink]] 
+- “Truthful speech establishes a correspondence between our inner being and the real nature of phenomena. . . . Thus, much more than an ethical principle, devotion to truthful speech is a matter of taking our stand on reality rather than illusion . . ([Location 5995](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=5995))
+    - Tags: [[orange]] 
+- you see, Rāhula, how this bowl has been turned upside down? In the same way, one who tells a deliberate lie turns his spiritual achievements upside down and becomes incapable of progress. Therefore one should not speak a deliberate lie, even in jest.” ([Location 6001](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6001))
+- What he has heard here he does not repeat there, so as to cause dissension there; and what he has heard there he does not repeat here, so as to cause dissension here. Thus he unites those who are divided; and those who are united he encourages. Concord gladdens him, he delights and rejoices in concord; and it is concord that he spreads by his words. ([Location 6008](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6008))
+    - Tags: [[blue]] 
+- Second, as I stopped verbalizing my various thoughts, comments, and judgments of other people, I saw that my mind became much less judgmental, even about myself. This care with speech resulted in a much more peaceful mind. ([Location 6019](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6019))
+    - Tags: [[pink]] 
+- intention ([Location 6022](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6022))
+    - Tags: [[orange]] 
+- gossip about ourselves. ([Location 6023](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6023))
+- self-referential, ([Location 6024](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6024))
+- it would be insightful to explore the motivation. ([Location 6024](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6024))
+- conceit. ([Location 6026](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6026))
+- emotional tone in our minds and hearts, and how it conditions and flavors the words we use. ([Location 6029](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6029))
+    - Tags: [[pink]] 
+- “One should speak such words as are gentle, soothing to the ear, loving, such words as go to the heart, are courteous, friendly, and agreeable to many.” ([Location 6030](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6030))
+- open communication is what Right Speech is all about. ([Location 6034](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6034))
+    - Tags: [[pink]] 
+- “Bhikkhus, there are five courses of speech that others may use when they address you: their speech may be timely or untimely, true or untrue, gentle or harsh, connected with good or with harm, or spoken with a mind of lovingkindness or with inner hate. . . . Herein, Bhikkhus, you should train yourself thus: ‘Our minds will remain unaffected, and we shall utter no evil words; we shall abide compassionate for their welfare, with a mind of lovingkindness. . . . We shall abide pervading that person with a mind imbued with lovingkindness; and starting with him, we shall abide pervading the all-encompassing world with a mind . . . abundant, exalted, immeasurable, without hostility, without ill will. ([Location 6039](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6039))
+    - Tags: [[blue]] 
+- good example of what it means to be mindful externally as well as internally. ([Location 6046](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6046))
+    - Tags: [[orange]] 
+- USELESS AND FRIVOLOUS TALK ([Location 6050](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6050))
+    - Tags: [[pink]] 
+- onomatopoeia ([Location 6051](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6051))
+    - Tags: [[pink]] 
+- where we say things just to be heard, rather than for any meaningful purpose. ([Location 6053](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6053))
+- we find that these rather useless words are enervating and worthless. ([Location 6053](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6053))
+- this kind of speech often results in an unspoken loss of respect from others. ([Location 6054](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6054))
+- One speaks at the right time, in accordance with facts, speaks what is useful, speaks of the Dhamma . . . one’s speech is like a treasure, uttered at the right moment, accompanied by reason, moderate and full of ([Location 6057](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6057))
+    - Tags: [[pink]] 
+- samphappalāpa. ([Location 6063](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6063))
+- Right Speech, as the third step of the Noble Eightfold Path, cultivates abstinence from unwholesome mind states; gives expression to the beautiful motivations of lovingkindness, compassion, and altruistic joy; and, most importantly, aligns us with what is true. ([Location 6066](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6066))
+    - Tags: [[orange]] 
+- “Bhikkhus, possessing five factors, speech is well spoken, not badly spoken; it is blameless and beyond reproach by the wise. What five? It is spoken at the proper time; what is said is true; it is spoken gently; what is said is beneficial; it is spoken with a mind of lovingkindness ([Location 6069](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6069))
+    - Tags: [[pink]] 
+- ethical value, ([Location 6075](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6075))
+- essential means of awakening. ([Location 6075](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6075))
+    - Tags: [[blue]] 
+- “Avoid what is unskillful, do what is good, purify the mind.” ([Location 6077](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6077))
+    - Tags: [[pink]] 
+- It’s said that what most moved the Buddha after his enlightenment was seeing people seeking happiness, yet doing the very things that brought about suffering. ([Location 6080](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6080))
+    - Tags: [[orange]] 
+- abstinence ([Location 6083](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6083))
+- expression—doing what is good. ([Location 6084](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6084))
+    - Tags: [[blue]] 
+- “And what, monks, is Right Action? Refraining from taking life, refraining from taking what is not given, refraining from sexual misconduct. This is called Right ([Location 6086](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6086))
+- I appreciate this comment because it points to these steps on the Path as actual practices, things to understand and investigate in our lives, rather than taking it for granted that we’re basically good people and then looking no further. ([Location 6091](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6091))
+    - Tags: [[blue]] 
+- This includes people not killing other people, not killing animals for sport or pleasure, and not killing living beings because we don’t like the way they look. ([Location 6095](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6095))
+- In the end, I simply surrendered, allowing them their space on the ceiling and claiming the rest of the space as my own. ([Location 6101](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6101))
+    - Tags: [[blue]] 
+- I didn’t bother them, and they didn’t bother me. ([Location 6102](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6102))
+- Here someone avoids the taking of life and abstains from it. Without stick or sword, conscientious, full of sympathy, he is desirous of the welfare of all sentient beings. ([Location 6104](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6104))
+    - Tags: [[pink]] 
+- And so we find the feelings of lovingkindness and compassion grow as we practice this abstinence. ([Location 6109](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6109))
+    - Tags: [[orange]] 
+- A lot of care and awareness is needed here, as the idea of a greater good has often been used to rationalize very harmful actions. ([Location 6112](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6112))
+- volitional ([Location 6114](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6114))
+    - Tags: [[blue]] 
+- refuges of safety. ([Location 6119](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6119))
+    - Tags: [[pink]] 
+- contentment, ([Location 6128](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6128))
+    - Tags: [[orange]] 
+- this expression of nonstealing might mean not taking or using more than we need. ([Location 6128](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6128))
+- Aware of the suffering caused by sexual misconduct, I vow to cultivate responsibility and learn ways to protect the safety and integrity of individuals, couples, families, and society. . . . To preserve the happiness of myself and others, I am determined to respect my commitments and the commitments of others. I will do everything in my power to protect children from sexual abuse and to prevent couples and families from being broken by sexual misconduct. ([Location 6135](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6135))
+    - Tags: [[blue]] 
+- lust cracks the brain. ([Location 6143](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6143))
+    - Tags: [[pink]] 
+- When we’re in the throes of this strong feeling, we usually think that the choice is either to express or suppress it. ([Location 6145](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6145))
+- Or can we see it with equanimity and wisdom, as simply being part of the passing show of phenomena? ([Location 6149](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6149))
+    - Tags: [[orange]] 
+- we begin to feel the whole body as an energy field, and this field is felt and expressed in different ways depending on where we focus our attention. ([Location 6150](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6150))
+- Always, the unwholesome karma is proportional to the force and strength and duration of the defilements. ([Location 6157](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6157))
+    - Tags: [[pink]] 
+- gifts are purified both by the motivation of the giver and also the purity of the recipient. ([Location 6160](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6160))
+    - Tags: [[orange]] 
+- in the perfection of generosity, we give without discrimination, whenever the opportunity is there. ([Location 6161](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6161))
+- ethical nuances of Right Action ([Location 6166](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6166))
+    - Tags: [[blue]] 
+- “It is fitting for you to be perplexed, Kalamas, fitting for you to be in doubt. . . . Come, Kalamas, do not go by oral tradition, by lineage of teaching, by hearsay, by a collection of scriptures, by logical reasoning, by inferential reasoning. . . . But when, Kalamas, you know for yourselves: ‘These things are unwholesome; these things are blameworthy; these things are censured by the wise; these things, if accepted and undertaken, lead to harm and suffering,’ then you should abandon them. . . . “[W]hen you know for yourselves: ‘These things are wholesome; these things are blameless; these things are praised by the wise; these things, if accepted and undertaken, lead to welfare and happiness,’ then you should live in accordance with them. ([Location 6168](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6168))
+    - Tags: [[pink]] 
+- It’s also helpful to investigate what keeps us complacent about the choices we make. ([Location 6177](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6177))
+    - Tags: [[pink]] 
+- Although he has awakened to the fact that his original nature is no different from that of the Buddhas, beginningless habit energies are extremely difficult to remove suddenly.5 Hindrances are formidable and habits are deeply ingrained.6 So how could you neglect gradual cultivation simply because of one moment of awakening? After awakening you must be constantly on your guard. If deluded thoughts suddenly appear, do not follow after them. . . . Then and only then will your practice reach ([Location 6184](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6184))
+    - Tags: [[orange]] 
+- Yet these moments of awakening and understanding can quickly pass, and the beginningless habit energies of forgetfulness, of other desires, of basic ignorance, resurface once again. ([Location 6192](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6192))
+- We need to repeatedly remind ourselves, whatever the situation may be, of what Right Action is appropriate, making some effort to keep ourselves informed over and over again, so that we don’t fall back into deluded thinking. ([Location 6194](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6194))
+    - Tags: [[blue]] 
+- abstaining from any livelihood involving deceit. ([Location 6209](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6209))
+- It’s possible to develop the attitude of service in whatever work we might do. ([Location 6213](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6213))
+    - Tags: [[blue]] 
+- Are we simply doing a job to support ourselves and our families, or are we watching the attitudes in our minds as we work? ([Location 6214](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6214))
+    - Tags: [[pink]] 
+- Do we work with care, with attentiveness to others, with a genuine desire to be helpful? ([Location 6215](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6215))
+    - Tags: [[orange]] 
+- Right Livelihood is not only about what we do, but also how we do it. ([Location 6215](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6215))
+- S. N. Goenka ([Location 6219](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6219))
+    - Tags: [[blue]] 
+- “If the intention is to play a useful role in society in order to support oneself and to help others, then the work one does is Right Livelihood.” ([Location 6219](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6219))
+    - Tags: [[blue]] 
+- Although it is the wisdom factor that cuts through delusion and ignorance, this blade of wisdom is sharpened and finely honed by these three supporting factors. ([Location 6237](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6237))
+- viriya, ([Location 6240](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6240))
+    - Tags: [[blue]] 
+- energy, ([Location 6240](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6240))
+    - Tags: [[blue]] 
+- is it simply for the accumulation of merit and worldly happiness or is it associated with the Right View that liberates the mind? ([Location 6242](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6242))
+    - Tags: [[pink]] 
+- first ([Location 6244](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6244))
+    - Tags: [[orange]] 
+- prevent the arising of unwholesome states not yet arisen. ([Location 6244](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6244))
+    - Tags: [[orange]] 
+- nibbāna is the mind that is free from the root defilements of greed, hatred, and delusion. ([Location 6246](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6246))
+- unwholesome factors frequently reemerge as conditions change. ([Location 6247](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6247))
+    - Tags: [[blue]] 
+- “latent defilements,” ([Location 6248](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6248))
+    - Tags: [[pink]] 
+- mind states that are not present in the moment, ([Location 6248](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6248))
+    - Tags: [[orange]] 
+- but that have the potential to arise whenever the conditions for them to reappear are present. ([Location 6248](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6248))
+- spiritual urgency. ([Location 6250](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6250))
+- When we’re leading basically good and wholesome lives, it is easy to become complacent about our present circumstances. ([Location 6250](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6250))
+    - Tags: [[blue]] 
+- We see something beautiful and we want it; our minds are pulled toward it. ([Location 6252](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6252))
+    - Tags: [[pink]] 
+- Or perhaps we see somebody doing something we don’t like, and the mind is suddenly filled with judgment and aversion. ([Location 6252](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6252))
+    - Tags: [[orange]] 
+- Or we may be tired, and the mind simply dulls out in delusion. ([Location 6253](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6253))
+- reflection on the preciousness of our human birth. ([Location 6256](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6256))
+- How, then, do we practice this first aspect of Right Effort? ([Location 6257](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6257))
+    - Tags: [[blue]] 
+- The previous steps on the Path, Right Speech, Action, and Livelihood, provide the foundation, through abstinence from unwholesome activities. ([Location 6258](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6258))
+    - Tags: [[pink]] 
+- We then need to exercise wise attention on the different objects of experience arising through the senses. ([Location 6259](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6259))
+    - Tags: [[orange]] 
+- If our attention is casual, careless, and unwise, then we simply fall into old habits of reactivity. ([Location 6260](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6260))
+- as long as there is attachment to the pleasant and aversion to the unpleasant, liberation is impossible. ([Location 6261](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6261))
+    - Tags: [[blue]] 
+- we need a wise and sustained attention to weaken these deeply conditioned habits of mind. ([Location 6262](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6262))
+    - Tags: [[pink]] 
+- abandon those unwholesome states that have already arisen. ([Location 6264](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6264))
+- working with the five hindrances ([Location 6265](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6265))
+    - Tags: [[blue]] 
+- Mindfulness of them is always the first strategy; ([Location 6265](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6265))
+- Sometimes mindfulness itself is enough. We see the unwholesome states, and, in an expression from Tibetan teachings, they self-liberate. ([Location 6266](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6266))
+    - Tags: [[blue]] 
+- “But as the obscuration clears you will begin to uncover the radiance of awareness, until you reach a point where, just as a line traced on water disappears the moment it is made, your ([Location 6269](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6269))
+    - Tags: [[pink]] 
+- thoughts are liberated the moment they ([Location 6270](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6270))
+    - Tags: [[pink]] 
+- dispelling distracting thoughts ([Location 6272](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6272))
+    - Tags: [[orange]] 
+- using its opposite as an antidote. ([Location 6273](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6273))
+- For example, if ill will has arisen, we can refocus the mind on mettā. Or if restlessness is present, calming the mind through calming the breath can be helpful. If envy or jealousy is strong, we can turn the mind to the feeling of muditā, empathetic joy. ([Location 6273](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6273))
+    - Tags: [[blue]] 
+- All of these remedies come from understanding that we have an inner remote control with an ability to change channels. ([Location 6275](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6275))
+    - Tags: [[pink]] 
+- hiri ([Location 6276](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6276))
+    - Tags: [[orange]] 
+- ottappa, ([Location 6277](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6277))
+- “self-respect” ([Location 6277](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6277))
+    - Tags: [[orange]] 
+- “respect for the wise.” ([Location 6277](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6277))
+- “the guardians of the world.” ([Location 6279](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6279))
+    - Tags: [[blue]] 
+- review of our actions is done from a place of wise understanding and is not simply feeding into patterns of self-judgment or guilt. ([Location 6280](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6280))
+    - Tags: [[pink]] 
+- diversion of attention. ([Location 6282](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6282))
+    - Tags: [[orange]] 
+- we can deliberately divert our attention to some other object. ([Location 6283](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6283))
+    - Tags: [[orange]] 
+- The experiment found that those children who were able to divert their attention to something other than the treat were better able to resist the immediate temptation and wait for a greater good (in this case, a second treat). ([Location 6295](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6295))
+    - Note: guarding the senses. refocus on breath. atapa.
+- looking directly at them, investigating their source and their hold on the mind. ([Location 6298](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6298))
+    - Tags: [[blue]] 
+- Here, we might be a little more engaged in seeing what thoughts or emotions are underneath or associated with the unwholesome states; for example, fear often underlies anger, or boredom often underlies desire. ([Location 6299](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6299))
+    - Tags: [[pink]] 
+- forcibly suppressing the unwholesome thought. ([Location 6301](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6301))
+    - Tags: [[orange]] 
+- One way of doing this is imagining oneself shooting down these thoughts as soon as they arise, like shooting down targets at an amusement-park shooting-gallery game. I’ve found this method particularly helpful with recurrent unwholesome thoughts that have already been seen so many times that it’s not a question of denial or suppression of feeling. Here, it’s an attitude that takes no quarter, but involves a sense of humor. I call this method “cowboy dharma.” ([Location 6301](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6301))
+- meditation is an art. ([Location 6305](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6305))
+    - Tags: [[blue]] 
+- strong commitment to awakening, ([Location 6307](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6307))
+    - Tags: [[pink]] 
+- The teachings are not about dogma, but about skillful means, about understanding what works. ([Location 6308](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6308))
+    - Tags: [[orange]] 
+- arouse wholesome states that have not yet arisen. ([Location 6310](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6310))
+- maintain and strengthen those wholesome states that have already arisen. ([Location 6318](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6318))
+- beautiful mental factors.” ([Location 6319](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6319))
+    - Tags: [[pink]] 
+- So often we focus on our shortcomings and mistakes, and overlook the many wholesome mind states that arise during the day. ([Location 6319](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6319))
+    - Tags: [[blue]] 
+- recollect the factors of enlightenment, or any other wholesome state, and become familiar with them. ([Location 6325](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6325))
+    - Tags: [[orange]] 
+- There is some good news here. In his book Outliers, Malcolm Gladwell references many studies showing that the mastery of any given discipline depends less on some innate talent and genius and more on the number of hours devoted to practice. We don’t have to be a spiritual genius; we just have to put in the time. ([Location 6328](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6328))
+- Right Mindfulness is the essential key to practice. ([Location 6333](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6333))
+    - Tags: [[blue]] 
+- In the practice of right mindfulness the mind is trained to remain in the present, open, quiet, and alert, contemplating the present event. ([Location 6337](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6337))
+    - Tags: [[orange]] 
+- All judgments and interpretations have to be suspended, or if they occur, just registered and dropped. ([Location 6338](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6338))
+- The task is simply to note whatever comes up just as it is occurring, riding the changes of events in the way a surfer rides the waves on the sea. ([Location 6339](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6339))
+    - Tags: [[blue]] 
+- The whole process is a way of coming back into the present, of standing in the here and now without slipping away, without getting swept away by the tides of distracting thoughts. . . . ([Location 6340](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6340))
+- To practice mindfulness is thus a matter not so much of doing but of ([Location 6341](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6341))
+    - Tags: [[orange]] 
+- our minds often get lost in mental proliferation of overlaying concepts, evaluations, and likes and dislikes regarding the bare experience of what is happening. ([Location 6343](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6343))
+    - Tags: [[pink]] 
+- nonconceptual identification with experience, ([Location 6345](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6345))
+- creation of a sense of self, ([Location 6345](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6345))
+    - Tags: [[blue]] 
+- literally being led around by the nose. ([Location 6348](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6348))
+    - Tags: [[blue]] 
+- pay careful attention to the moments of awakening after being lost in a thought. ([Location 6350](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6350))
+    - Tags: [[pink]] 
+- power and continuity of mindfulness, ([Location 6354](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6354))
+- When mindfulness is directed toward stabilizing the attention on a single object, it leads to deepening states of calm and tranquility, culminating in what are called the jhānas, or meditative absorptions. ([Location 6355](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6355))
+    - Tags: [[blue]] 
+- When mindfulness is directed to a precise noting/noticing of changing objects, the concentration brings increasing clarity of the three characteristics: impermanence, ([Location 6356](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6356))
+    - Tags: [[pink]] 
+- unsatisfactoriness, and selflessness. ([Location 6357](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6357))
+    - Tags: [[pink]] 
+- undistractedness, ([Location 6358](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6358))
+    - Tags: [[orange]] 
+- steadiness of mind that makes it possible for wisdom to arise. ([Location 6358](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6358))
+    - Tags: [[pink]] 
+- concentration that makes the mind pliable and pervades it with a happiness much greater than the happiness of sense pleasures. ([Location 6359](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6359))
+- “Bhikkhus, develop concentration. A bhikkhu who is concentrated understands things as they really are. And what does he understand. . . . the arising and passing away of the ([Location 6363](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6363))
+- Right View. ([Location 6367](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6367))
+    - Tags: [[blue]] 
+- the Noble Eightfold Path comes full circle again and again, spiraling upward toward liberation. ([Location 6367](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6367))
+    - Tags: [[orange]] 
+- “In this way, in regard to dhammas, one abides contemplating dhammas internally . . . externally . . . internally and externally. One abides contemplating the nature of arising . . . of passing away . . . of both arising and passing away in ([Location 6371](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6371))
+    - Tags: [[pink]] 
+- For example, when you notice the presence of a hindrance or a sound or a particular thought, what is your general attitude toward it? ([Location 6375](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6375))
+- What thoughts and feelings arise when you notice someone else’s energy or concentration? ([Location 6376](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6376))
+    - Tags: [[orange]] 
+- This emphasis on seeing the universal aspects of our personal experience helps us keep both an equanimous and compassionate mind in our interactions with others. ([Location 6380](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6380))
+- contemplating the body, ([Location 6448](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6448))
+    - Tags: [[orange]] 
+- diligent, ([Location 6448](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6448))
+- clearly knowing, ([Location 6448](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6448))
+    - Tags: [[blue]] 
+- mindful, ([Location 6448](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6448))
+    - Tags: [[pink]] 
+- free from desires and discontent in regard to the world. ([Location 6448](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6448))
+    - Tags: [[orange]] 
+- contemplating feelings, ([Location 6449](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6449))
+    - Tags: [[pink]] 
+- contemplating the mind, ([Location 6450](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6450))
+    - Tags: [[blue]] 
+- contemplating dhammas, ([Location 6451](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6451))
+- gone to the forest, or to the root of a tree, or to an empty hut, ([Location 6453](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6453))
+    - Tags: [[blue]] 
+- he sits down; having folded his legs crosswise, ([Location 6453](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6453))
+    - Tags: [[orange]] 
+- set his body erect, ([Location 6454](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6454))
+- established mindfulness in front of him, ([Location 6454](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6454))
+    - Tags: [[blue]] 
+- mindful he breathes in, mindful he breathes out. ([Location 6454](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=6454))
+    - Tags: [[pink]] 
+## New highlights added March 15, 2023 at 9:08 AM
+- In the seen there is only the seen, in the heard, there is only the heard, in the sensed [smell, taste, and touch], there is only the sensed, in the cognized, there is only the cognized: This, Bahiya, is how you should train yourself. When, Bahiya, there is for you in the seen only the seen, in the heard only the heard, in the sensed only the sensed, in the cognized only the cognized, then, Bahiya, there is no “you” in connection with all that. ([Location 770](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=770))
+    - Tags: [[pink]] 
+- When, Bahiya, there is no “you” in connection with that, there is no “you” there. When, Bahiya, there is no “you” there, then, Bahiya, you are neither here nor there nor in between the two. This, just this, is the end of suffering. ([Location 781](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=781))
+    - Tags: [[pink]] 
+- With this quality of bare knowing of whatever is seen, heard, felt, or cognized, we are not evaluating or proliferating different sense impressions. ([Location 788](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=788))
+    - Tags: [[orange]] 
+- When we practice in this way, we understand the selfless nature of phenomena—with no “you” there—and we live abiding independent, not clinging to anything in the world ([Location 789](https://readwise.io/to_kindle?action=open&asin=B00FYYXT9G&location=789))

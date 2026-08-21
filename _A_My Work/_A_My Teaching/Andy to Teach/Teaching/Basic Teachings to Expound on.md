@@ -1,0 +1,14 @@
+- bias
+- judgement
+- views
+- sakkayaditthi
+- not thinking of the greater good but ourselves
+- not let go of the past
+- believe our own thoughts & views
+	- need to prop them up
+	- defend them
+	- point the fingers outside ourselves 
+- [[Banging Your Head]] 
+- No looking for a solution just want to be heard
+- No Savior
+- I cannot be with my experience

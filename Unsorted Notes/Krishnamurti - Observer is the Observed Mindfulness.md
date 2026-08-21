@@ -1,0 +1,21 @@
+
+Krishnamurti's core teaching revolves around the idea that the "observer" is the source of all our problems. He believed that the mind, with its inherent tendency to create divisions and judgments, constantly separates itself from the observed, leading to suffering.
+Here's how Krishnamurti would describe the merging of the observer with the observed:
+ * The Observer is the Observed: This is Krishnamurti's most famous statement. He didn't mean it literally as becoming the object of observation. Instead, he meant that the very act of observing creates the division between the observer and the observed. When this division is understood deeply, the observer, as a separate entity, ceases to exist.
+ * Choiceless Awareness: True observation, according to Krishnamurti, happens without any judgment, interpretation, or the desire to change or control the observed. It's a state of choiceless awareness where the mind simply witnesses what is, without any interference.
+ * Freedom from Thought: The mind, with its constant stream of thoughts, is the source of the observer. By becoming aware of the mechanics of thought – how it creates beliefs, judgments, and interpretations – one can begin to quiet the mind. This quieting allows for a state of choiceless awareness where there is no separation between the observer and the observed.
+ * Direct Experience: When the observer ceases to exist, there is only direct experience of reality. This experience is not filtered through the lens of the mind, but is immediate and unmediated.
+In essence, merging the observer with the observed is about transcending the limitations of the mind and experiencing reality directly, without the interference of thought.
+It's important to note that Krishnamurti didn't offer a method or technique to achieve this. He believed that true understanding can only arise through direct inquiry and self-observation.
+Disclaimer: This is an interpretation of Krishnamurti's teachings. For a deeper understanding, I recommend exploring his books and talks directly.
+
+Krishnamurti's concept of merging the observer with the observed has a strong connection to mindfulness. Here's how:
+ * Core Principle: Both emphasize the importance of direct experience and non-judgmental observation. Mindfulness encourages paying attention to the present moment without judgment, while Krishnamurti stresses the need to observe reality as it is, without the interference of thought.
+ * Focus on the Present Moment: Mindfulness cultivates awareness of the present moment – thoughts, feelings, sensations. Krishnamurti also emphasized the importance of being fully present with whatever is arising in the moment, without getting lost in the past or future.
+ * Reducing the Role of the "Self": Mindfulness practices often aim to de-center the "self" as the observer. By observing thoughts and feelings without identifying with them, one can cultivate a sense of detachment from the ego. This aligns with Krishnamurti's idea that the observer itself is the source of suffering.
+ * Cultivating Awareness: Both mindfulness and Krishnamurti's teachings emphasize the importance of cultivating awareness. Mindfulness practices like meditation help to increase awareness of the mind's patterns and tendencies. Krishnamurti encouraged self-observation as a means of understanding the workings of the mind.
+In essence, mindfulness can be seen as a practical application of Krishnamurti's teachings. By cultivating present moment awareness and observing the mind without judgment, one can begin to dissolve the separation between the observer and the observed, leading to a deeper understanding of reality.
+However, it's important to note:
+ * Mindfulness is often presented as a technique or skill to be cultivated. Krishnamurti, on the other hand, was wary of techniques and methods. He believed that true understanding arises through direct inquiry and self-observation.
+ * The ultimate goal of mindfulness, for many, is to reduce stress and improve well-being. Krishnamurti's focus was on freedom from suffering altogether, which he believed could only be achieved by understanding the root causes of suffering.
+Despite these nuances, mindfulness practices can be valuable tools for exploring the ideas presented by Krishnamurti.

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">799</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">51121bd0-c13a-4e0c-bc2b-0987c3cd13f9</dc:identifier>
+        <dc:title>Path of Purification: Visuddhimagga</dc:title>
+        <dc:creator opf:file-as="Buddhaghosa" opf:role="aut">Buddhaghosa</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.9.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-12-23T19:31:13+00:00</dc:date>
+        <dc:description>Treatise on Buddhist Meditation of the Theravada Buddhist school.
+Translated by Bhikkhu Nyanamoli.
+Online edition by Buddhist Publication Society (http://www.bps.lk), in cooperation with Access to Insight.</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>Theravada</dc:subject>
+        <dc:subject>Buddhist meditation</dc:subject>
+        <dc:subject>Buddhaghosa</dc:subject>
+        <dc:subject>Mahavihara</dc:subject>
+        <meta content="{&quot;Buddhaghosa&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-01-29T04:32:31.620000+00:00" name="calibre:timestamp"/>
+        <meta content="Path of Purification: Visuddhimagga" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

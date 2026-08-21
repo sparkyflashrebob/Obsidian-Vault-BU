@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">102</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">63409249-9f25-461d-82b2-68b9d5da1ae6</dc:identifier>
+        <dc:title>The Autobiography of Phra Ajaan Lee</dc:title>
+        <dc:creator opf:file-as="Dhammadharo, Ajaan Lee" opf:role="aut">Ajaan Lee Dhammadharo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.9.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-12-12T08:00:00+00:00</dc:date>
+        <dc:description>Phra Ajaan Lee Dhammadharo was one of the foremost teachers in the Thai forest ascetic tradition of meditation founded at the turn of the twentieth century by Phra Ajaan Sao Kantasilo and Phra Ajaan Mun Bhuridatto. His life was short but eventful. Known for his skill as a teacher and his mastery of supranatural powers, he was the first to bring the ascetic tradition out of the forests of the Mekhong basin and into the mainstream of Thai society in central Thailand.</dc:description>
+        <dc:publisher>Metta Forest Monastery</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Dhamma</dc:subject>
+        <dc:subject>Dharma</dc:subject>
+        <dc:subject>Autobiography</dc:subject>
+        <dc:subject>Thai Forest Tradition</dc:subject>
+        <dc:subject>Theravada</dc:subject>
+        <dc:subject>Meditation</dc:subject>
+        <meta content="{&quot;Ajaan Lee Dhammadharo&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-01-29T04:02:00.525000+00:00" name="calibre:timestamp"/>
+        <meta content="Autobiography of Phra Ajaan Lee, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

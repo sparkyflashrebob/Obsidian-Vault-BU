@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">486</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4c1df4fb-1d2d-4384-a640-d0210dc3817c</dc:identifier>
+        <dc:title>A Pali Word A Day</dc:title>
+        <dc:creator opf:file-as="School, Mahindarama Sunday Pali" opf:role="aut">Mahindarama Sunday Pali School</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.9.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-01-30T09:34:50+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <dc:subject>Pali Words for Daily Reflection</dc:subject>
+        <dc:subject>Buddhism</dc:subject>
+        <dc:subject>Pali Word.</dc:subject>
+        <meta content="{&quot;Mahindarama Sunday Pali School&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-01-29T04:28:09.210000+00:00" name="calibre:timestamp"/>
+        <meta content="Pali Word A Day, A" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

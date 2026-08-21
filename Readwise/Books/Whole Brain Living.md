@@ -1,0 +1,79 @@
+# Whole Brain Living
+
+![rw-book-cover](https://m.media-amazon.com/images/I/71Nji1YtZ7L._SY160.jpg)
+
+## Metadata
+- Author: [[Jill Bolte Taylor]]
+- Full Title: Whole Brain Living
+- Category: #books
+
+## Highlights
+- “Our two cerebral hemispheres think about different things, they care about different things, and, dare I say, they have very different personalities.” ([Location 491](https://readwise.io/to_kindle?action=open&asin=B08W29Q2CR&location=491))
+- Because it is our ultimate goal to create more connection and consequently greater health within ourselves and with others, we will take a peek at how devastating addiction can be to our Four Characters, and gain some insight into why it is that recovery may be effective for one person and not another. ([Location 520](https://readwise.io/to_kindle?action=open&asin=B08W29Q2CR&location=520))
+- If it turns out that you absolutely cannot identify with any of the Four Characters, you might ask your spouse, or a trusted friend, if they know that part of you. ([Location 533](https://readwise.io/to_kindle?action=open&asin=B08W29Q2CR&location=533))
+- it is not unusual that our perspective of ourselves is different from how others view us. ([Location 535](https://readwise.io/to_kindle?action=open&asin=B08W29Q2CR&location=535))
+- knowing which characters are engaged in the dialogue, and what their motivating factors are, enables us to make conscious choices about who and how we want to be. ([Location 548](https://readwise.io/to_kindle?action=open&asin=B08W29Q2CR&location=548))
+- just knowing your Four Characters is not enough. ([Location 551](https://readwise.io/to_kindle?action=open&asin=B08W29Q2CR&location=551))
+- The ultimate goal is for your Four Characters to become so familiar with one another that they create healthy relationships among themselves. ([Location 551](https://readwise.io/to_kindle?action=open&asin=B08W29Q2CR&location=551))
+- quick “huddle” ([Location 555](https://readwise.io/to_kindle?action=open&asin=B08W29Q2CR&location=555))
+- Brain Huddle, ([Location 558](https://readwise.io/to_kindle?action=open&asin=B08W29Q2CR&location=558))
+- Breathe ([Location 563](https://readwise.io/to_kindle?action=open&asin=B08W29Q2CR&location=563))
+- Recognize ([Location 564](https://readwise.io/to_kindle?action=open&asin=B08W29Q2CR&location=564))
+- Appreciate ([Location 565](https://readwise.io/to_kindle?action=open&asin=B08W29Q2CR&location=565))
+- Inquire ([Location 567](https://readwise.io/to_kindle?action=open&asin=B08W29Q2CR&location=567))
+- Navigate ([Location 568](https://readwise.io/to_kindle?action=open&asin=B08W29Q2CR&location=568))
+- help you quickly remember the steps when the pressure is on and your Character 2’s stress circuitry is running on overdrive. ([Location 571](https://readwise.io/to_kindle?action=open&asin=B08W29Q2CR&location=571))
+- mirror of the Hero’s Journey in Joseph Campbell’s classic monomyth. ([Location 581](https://readwise.io/to_kindle?action=open&asin=B08W29Q2CR&location=581))
+- it is worth noting that the Four Characters coincide distinctly with Carl Jung’s four major archetypes of the unconscious mind: ([Location 582](https://readwise.io/to_kindle?action=open&asin=B08W29Q2CR&location=582))
+- Persona; ([Location 583](https://readwise.io/to_kindle?action=open&asin=B08W29Q2CR&location=583))
+- Shadow; ([Location 583](https://readwise.io/to_kindle?action=open&asin=B08W29Q2CR&location=583))
+- Animus/Anima; ([Location 583](https://readwise.io/to_kindle?action=open&asin=B08W29Q2CR&location=583))
+- the True Self. ([Location 583](https://readwise.io/to_kindle?action=open&asin=B08W29Q2CR&location=583))
+- the hero heeds the call to leave behind his rational, ego-based consciousness that processes the reality of the external world. ([Location 584](https://readwise.io/to_kindle?action=open&asin=B08W29Q2CR&location=584))
+- the hero must step out of the ego-based consciousness of his Character 1 left thinking brain to enter into the unconscious realm of his right brain. ([Location 585](https://readwise.io/to_kindle?action=open&asin=B08W29Q2CR&location=585))
+- let go of his possessions ([Location 587](https://readwise.io/to_kindle?action=open&asin=B08W29Q2CR&location=587))
+- and worldly knowledge ([Location 587](https://readwise.io/to_kindle?action=open&asin=B08W29Q2CR&location=587))
+- embrace the death of his ego’s individuality. ([Location 587](https://readwise.io/to_kindle?action=open&asin=B08W29Q2CR&location=587))
+    - Tags: [[blue]] 
+- we must be willing to give up what we are, in order to become what we will be. ([Location 588](https://readwise.io/to_kindle?action=open&asin=B08W29Q2CR&location=588))
+    - Tags: [[pink]] 
+- The hero cannot be both characters—his individual and collective selves—in the same moment. ([Location 592](https://readwise.io/to_kindle?action=open&asin=B08W29Q2CR&location=592))
+- When we are born, we have no sense of individuality, and our two brain hemispheres are similar in both their structure and in what they value. ([Location 595](https://readwise.io/to_kindle?action=open&asin=B08W29Q2CR&location=595))
+- Over time, however, our left-brain cells develop the ability to define the physical boundaries of where we begin and end, and with that identification of self, we gain the ability to perceive ourselves as individuals who are separate from the whole. ([Location 596](https://readwise.io/to_kindle?action=open&asin=B08W29Q2CR&location=596))
+    - Tags: [[blue]] 
+- It is in those moments that the droplet of our left brain’s individual consciousness becomes separate from that sea of cosmic consciousness from which it came. ([Location 597](https://readwise.io/to_kindle?action=open&asin=B08W29Q2CR&location=597))
+    - Tags: [[pink]] 
+- Before the hero’s left-brain ego-cells developed his perception of himself as an individual, he possessed the collective knowledge of his right brain’s unconscious mind. ([Location 598](https://readwise.io/to_kindle?action=open&asin=B08W29Q2CR&location=598))
+    - Tags: [[orange]] 
+- With time, as the individuation of his left brain developed, it grew to dominate and inhibit the knowledge of his right-brain mind. Consequently, the cosmic consciousness of his right brain shifted into the background, becoming his unconscious intuition. ([Location 600](https://readwise.io/to_kindle?action=open&asin=B08W29Q2CR&location=600))
+- Returning home, he is different now, and it is his challenge to figure out how to live a balanced life in the external world while remaining aware of both his conscious and unconscious characters and their conflicting values. ([Location 608](https://readwise.io/to_kindle?action=open&asin=B08W29Q2CR&location=608))
+- If you are willing to pause and recognize what is already going on inside of your brain, if you are game to observe how you present yourself under different circumstances, and if you are prepared to bring your present-moment awareness to your current thinking and emotional patterns, you will be well on your way to living a life of choice. ([Location 614](https://readwise.io/to_kindle?action=open&asin=B08W29Q2CR&location=614))
+    - Tags: [[blue]] 
+- Peace really is just a thought away. ([Location 617](https://readwise.io/to_kindle?action=open&asin=B08W29Q2CR&location=617))
+    - Tags: [[orange]] 
+- judge ([Location 623](https://readwise.io/to_kindle?action=open&asin=B08W29Q2CR&location=623))
+    - Tags: [[blue]] 
+- I know you are going to be focused on my typos or errors in semantics, ([Location 623](https://readwise.io/to_kindle?action=open&asin=B08W29Q2CR&location=623))
+- voice of alarm ([Location 635](https://readwise.io/to_kindle?action=open&asin=B08W29Q2CR&location=635))
+    - Tags: [[blue]] 
+- Without your guidance, we cannot stay safe and we cannot evolve into our best selves or live our best life. ([Location 637](https://readwise.io/to_kindle?action=open&asin=B08W29Q2CR&location=637))
+    - Tags: [[pink]] 
+- I know you would rather go do something really exciting right now, ([Location 648](https://readwise.io/to_kindle?action=open&asin=B08W29Q2CR&location=648))
+    - Tags: [[pink]] 
+- our number one job to love one another. ([Location 660](https://readwise.io/to_kindle?action=open&asin=B08W29Q2CR&location=660))
+- my ego-self, also disappeared. ([Location 676](https://readwise.io/to_kindle?action=open&asin=B08W29Q2CR&location=676))
+    - Tags: [[orange]] 
+- no longer identify the physical boundaries ([Location 677](https://readwise.io/to_kindle?action=open&asin=B08W29Q2CR&location=677))
+    - Tags: [[orange]] 
+- I had never been taught that there was a group of cells in my brain that did that. ([Location 678](https://readwise.io/to_kindle?action=open&asin=B08W29Q2CR&location=678))
+    - Tags: [[orange]] 
+- gigantic ball of energy that blended fluidly with the rest of the energy in the universe. ([Location 679](https://readwise.io/to_kindle?action=open&asin=B08W29Q2CR&location=679))
+    - Tags: [[orange]] 
+- my left brain could no longer ascertain the edges or boundaries between anything else in the external world. ([Location 683](https://readwise.io/to_kindle?action=open&asin=B08W29Q2CR&location=683))
+    - Tags: [[blue]] 
+- our left brain is designed to perceive differences and separation at the level of things, ([Location 685](https://readwise.io/to_kindle?action=open&asin=B08W29Q2CR&location=685))
+    - Tags: [[orange]] 
+- rather than at the subatomic level of the particles that make up those things. ([Location 686](https://readwise.io/to_kindle?action=open&asin=B08W29Q2CR&location=686))
+    - Tags: [[orange]] 
+- The latter is the realm of what we call our unconscious mind, the territory of our right brain. ([Location 686](https://readwise.io/to_kindle?action=open&asin=B08W29Q2CR&location=686))
+    - Tags: [[orange]] 

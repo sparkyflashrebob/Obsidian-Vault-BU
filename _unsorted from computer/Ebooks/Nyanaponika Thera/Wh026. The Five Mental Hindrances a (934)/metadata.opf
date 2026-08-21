@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">934</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0d128bb5-f274-40ad-b668-26ba657ef492</dc:identifier>
+        <dc:title>Wh026. The Five Mental Hindrances and Their Conquest</dc:title>
+        <dc:creator opf:file-as="Nyanaponika Thera" opf:role="aut">Nyanaponika Thera</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.18.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-04-08T07:00:00+00:00</dc:date>
+        <dc:publisher>Buddhist Publication Society</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Nyanaponika Thera&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Wh" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="2020-09-22T04:28:57.960000+00:00" name="calibre:timestamp"/>
+        <meta content="Vedanta and Buddhism" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

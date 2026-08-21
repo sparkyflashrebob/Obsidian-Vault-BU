@@ -1,0 +1,1 @@
+not nothingness but a vast creative potiential

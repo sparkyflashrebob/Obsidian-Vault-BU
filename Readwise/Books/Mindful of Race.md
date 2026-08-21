@@ -1,0 +1,116 @@
+# Mindful of Race
+
+![rw-book-cover](https://m.media-amazon.com/images/I/819FgLnY97L._SY160.jpg)
+
+## Metadata
+- Author: [[Ruth King]]
+- Full Title: Mindful of Race
+- Category: #books
+
+## Highlights
+- aggression, distraction, denial, doubt, worry, depression, or indifference. ([Location 66](https://readwise.io/to_kindle?action=open&asin=B073ZVY4SX&location=66))
+- The best tool I know of to transform our relationship to racial suffering is mindfulness meditation. ([Location 120](https://readwise.io/to_kindle?action=open&asin=B073ZVY4SX&location=120))
+    - Tags: [[orange]] 
+- Mindfulness-based meditation is not a religious code as much as it is a social psychology that supports experiences of well-being. ([Location 124](https://readwise.io/to_kindle?action=open&asin=B073ZVY4SX&location=124))
+    - Tags: [[orange]] 
+- I discovered that how I thought was core not only to my level of distress but also to my ability to break habits of harm. ([Location 131](https://readwise.io/to_kindle?action=open&asin=B073ZVY4SX&location=131))
+    - Tags: [[pink]] 
+- “When we can sit in the face of insanity or dislike and be free from the need to make it different, then we are free.” ([Location 135](https://readwise.io/to_kindle?action=open&asin=B073ZVY4SX&location=135))
+    - Tags: [[orange]] 
+- How do I comfort my own raging heart in a sea of racial ignorance and violence? ([Location 182](https://readwise.io/to_kindle?action=open&asin=B073ZVY4SX&location=182))
+- How do I advocate for racial justice without causing harm and hate, internally and externally? ([Location 185](https://readwise.io/to_kindle?action=open&asin=B073ZVY4SX&location=185))
+    - Tags: [[orange]] 
+- what it means to contribute to a culture of care with integrity, ([Location 200](https://readwise.io/to_kindle?action=open&asin=B073ZVY4SX&location=200))
+- talk to our children about race, ([Location 201](https://readwise.io/to_kindle?action=open&asin=B073ZVY4SX&location=201))
+    - Tags: [[orange]] 
+- nurture racial literacy through racial affinity groups, ([Location 201](https://readwise.io/to_kindle?action=open&asin=B073ZVY4SX&location=201))
+    - Tags: [[pink]] 
+- talk about what disturbs us, ([Location 201](https://readwise.io/to_kindle?action=open&asin=B073ZVY4SX&location=201))
+    - Tags: [[orange]] 
+- develop the healing power of our creative expression, ([Location 201](https://readwise.io/to_kindle?action=open&asin=B073ZVY4SX&location=201))
+    - Tags: [[blue]] 
+- the role of equanimity ([Location 202](https://readwise.io/to_kindle?action=open&asin=B073ZVY4SX&location=202))
+- Together, we’ll imagine the possibilities of who we could be and how we could live in this world if every one of us aimed our energy toward awakening, nonharming, generosity, and kinship—a world with race but without racism. ([Location 235](https://readwise.io/to_kindle?action=open&asin=B073ZVY4SX&location=235))
+    - Tags: [[orange]] 
+- Bringing an ancestor with us can support our mindfulness of racial inquiry and healing. ([Location 240](https://readwise.io/to_kindle?action=open&asin=B073ZVY4SX&location=240))
+    - Tags: [[blue]] 
+- Two Truths Doctrine, ([Location 259](https://readwise.io/to_kindle?action=open&asin=B073ZVY4SX&location=259))
+- ultimate reality ([Location 259](https://readwise.io/to_kindle?action=open&asin=B073ZVY4SX&location=259))
+    - Tags: [[orange]] 
+- relative reality. ([Location 259](https://readwise.io/to_kindle?action=open&asin=B073ZVY4SX&location=259))
+    - Tags: [[pink]] 
+- in relative reality, we are some bodies—formed, habituated, ego-driven, and relating to life through concepts. ([Location 259](https://readwise.io/to_kindle?action=open&asin=B073ZVY4SX&location=259))
+    - Tags: [[pink]] 
+- we are no bodies—formless, empty of self, and eternal. ([Location 260](https://readwise.io/to_kindle?action=open&asin=B073ZVY4SX&location=260))
+    - Tags: [[orange]] 
+- I am a woman, African American, lesbian, great-grandmother, artist, and elder. ([Location 261](https://readwise.io/to_kindle?action=open&asin=B073ZVY4SX&location=261))
+    - Tags: [[pink]] 
+- reality, I’m none of these things. I am beyond conception; I am awareness dancing with the karmic rhythms of life. ([Location 262](https://readwise.io/to_kindle?action=open&asin=B073ZVY4SX&location=262))
+    - Tags: [[orange]] 
+- Ultimate reality is what we aspire to in spiritual practice—a felt sense of universal belonging, peace, and harmony that is beyond the limits of concept. ([Location 306](https://readwise.io/to_kindle?action=open&asin=B073ZVY4SX&location=306))
+    - Tags: [[pink]] 
+- All life is interrelated, and we are all caught in an inescapable network of mutuality, tied in a single garment of destiny. . . . I can never be what I ought to be until you are what you ought to be. And you can never be what you ought to be until I am what I ought to be—this is the interrelated structure of reality. ([Location 308](https://readwise.io/to_kindle?action=open&asin=B073ZVY4SX&location=308))
+- that kinship of harmony. ([Location 314](https://readwise.io/to_kindle?action=open&asin=B073ZVY4SX&location=314))
+    - Tags: [[blue]] 
+- examine our conditioning. ([Location 320](https://readwise.io/to_kindle?action=open&asin=B073ZVY4SX&location=320))
+    - Tags: [[orange]] 
+- Ultimate reality is often associated with the ocean, and relative reality, with the waves; ([Location 324](https://readwise.io/to_kindle?action=open&asin=B073ZVY4SX&location=324))
+    - Tags: [[orange]] 
+- ultimate reality is like the sky, and relative reality is all that appears and disappears in the sky. ([Location 324](https://readwise.io/to_kindle?action=open&asin=B073ZVY4SX&location=324))
+- Relative reality makes the knowing of ultimate reality possible, and we can’t know ultimate reality outside of our bodily experiences. ([Location 325](https://readwise.io/to_kindle?action=open&asin=B073ZVY4SX&location=325))
+    - Tags: [[pink]] 
+- We are made up of habit. We are all conditioned by each other in relative reality. The good news about habits is that, with awareness, they can change for the better. ([Location 326](https://readwise.io/to_kindle?action=open&asin=B073ZVY4SX&location=326))
+    - Tags: [[blue]] 
+- The nervous system begins in the embryo as the ectoderm; the outer layer of cells becomes the skin. Certain clusters of these outer cells then fold inward to form a neural tube—the spinal cord. . . . The whole nervous system sets up its basic scaffolding, its core architecture, during development in the womb. Genetics are important for determining how neurons will migrate and then connect to each other. ([Location 340](https://readwise.io/to_kindle?action=open&asin=B073ZVY4SX&location=340))
+- racial conditioning. ([Location 347](https://readwise.io/to_kindle?action=open&asin=B073ZVY4SX&location=347))
+    - Tags: [[orange]] 
+- In fact, what we have come to know as our individual selves is more an experience of relativity or kinship with agency—the ability to make choices and be influenced or shaped by the choices of others. ([Location 367](https://readwise.io/to_kindle?action=open&asin=B073ZVY4SX&location=367))
+    - Tags: [[orange]] 
+- The bottom line is that, whether intentionally or unintentionally, we pass on a patterning to present and future generations. ([Location 369](https://readwise.io/to_kindle?action=open&asin=B073ZVY4SX&location=369))
+    - Note: i do not agree that we pass this on thru dna.
+- My mom told us that white people were not trained to care for us. I ([Location 387](https://readwise.io/to_kindle?action=open&asin=B073ZVY4SX&location=387))
+    - Note: not true
+- to distinguish the past from a full experience of the present, ([Location 405](https://readwise.io/to_kindle?action=open&asin=B073ZVY4SX&location=405))
+    - Tags: [[orange]] 
+- historical trauma ([Location 407](https://readwise.io/to_kindle?action=open&asin=B073ZVY4SX&location=407))
+    - Tags: [[orange]] 
+- Might they have something to do with how we have become either desensitized or overly sensitive to racial harm? ([Location 433](https://readwise.io/to_kindle?action=open&asin=B073ZVY4SX&location=433))
+    - Tags: [[blue]] 
+- What pains you to recall as you reflect on your racial identity and history? What racial traumas were passed down from your parents and ancestors, and how have you dealt with them? ([Location 458](https://readwise.io/to_kindle?action=open&asin=B073ZVY4SX&location=458))
+    - Tags: [[pink]] 
+- our direct experiences as individuals within our own racial group identity ([Location 471](https://readwise.io/to_kindle?action=open&asin=B073ZVY4SX&location=471))
+    - Tags: [[orange]] 
+- the projections that other individuals and races place on us and our racial group identity. ([Location 471](https://readwise.io/to_kindle?action=open&asin=B073ZVY4SX&location=471))
+    - Tags: [[pink]] 
+- To understand the dynamics of racial dominance and subordination, we must look at group habits of harm, rather than solely looking at individual acts or single incidents. ([Location 541](https://readwise.io/to_kindle?action=open&asin=B073ZVY4SX&location=541))
+    - Tags: [[orange]] 
+- When whites are unaware of or disown whiteness and white group dominance, ignorance becomes harmful. ([Location 546](https://readwise.io/to_kindle?action=open&asin=B073ZVY4SX&location=546))
+    - Tags: [[orange]] 
+- Yet underneath all of our actions, despite appearances, is a shared and deep desire for kindness—to both offer it and receive it. ([Location 1236](https://readwise.io/to_kindle?action=open&asin=B073ZVY4SX&location=1236))
+    - Tags: [[orange]] 
+- I have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin, but by the content of their character. MARTIN LUTHER KING JR. ([Location 1754](https://readwise.io/to_kindle?action=open&asin=B073ZVY4SX&location=1754))
+    - Tags: [[orange]] 
+- A country is only as strong as the people who make it up and the country turns into what people want it to become. . . . We made the world we’re living in, and we have to make it over. JAMES BALDWIN, “Notes for a Hypothetical Novel” ([Location 1756](https://readwise.io/to_kindle?action=open&asin=B073ZVY4SX&location=1756))
+    - Tags: [[pink]] 
+- advised, “If you are neutral on situations of injustice, you have chosen the side of the oppressor.” ([Location 1762](https://readwise.io/to_kindle?action=open&asin=B073ZVY4SX&location=1762))
+- culture of care ([Location 1764](https://readwise.io/to_kindle?action=open&asin=B073ZVY4SX&location=1764))
+    - Tags: [[blue]] 
+- moral character wrapped in compassion. ([Location 1764](https://readwise.io/to_kindle?action=open&asin=B073ZVY4SX&location=1764))
+- Interdependence: This is the practice of remembering that we are part of something larger than our individual selves—a karmic web of humanity—and what we do has impact. ([Location 1766](https://readwise.io/to_kindle?action=open&asin=B073ZVY4SX&location=1766))
+    - Tags: [[pink]] 
+- Compassion: The practice of compassion is a weapon of mass healing. ([Location 1769](https://readwise.io/to_kindle?action=open&asin=B073ZVY4SX&location=1769))
+    - Tags: [[orange]] 
+- Harmlessness: The practice of nonharming in body, speech, and mind is essential for respect and safety. ([Location 1771](https://readwise.io/to_kindle?action=open&asin=B073ZVY4SX&location=1771))
+- Ultimately you are not a person, but a focal point where the universe is becoming conscious of itself. ECKHART TOLLE, spiritual author ([Location 1772](https://readwise.io/to_kindle?action=open&asin=B073ZVY4SX&location=1772))
+    - Tags: [[blue]] 
+- each “cell self” represents the whole of existence. ([Location 1776](https://readwise.io/to_kindle?action=open&asin=B073ZVY4SX&location=1776))
+    - Tags: [[pink]] 
+- prayer, respect, compassion, honesty, generosity, humility, and wisdom. ([Location 1783](https://readwise.io/to_kindle?action=open&asin=B073ZVY4SX&location=1783))
+    - Tags: [[blue]] 
+- Standing Rock and the core values lived by the Lakota people of North America reflect care for our kinship, compassion for all, and harmlessness. ([Location 1784](https://readwise.io/to_kindle?action=open&asin=B073ZVY4SX&location=1784))
+    - Tags: [[orange]] 
+- choose not to respond in habitual ways? ([Location 1837](https://readwise.io/to_kindle?action=open&asin=B073ZVY4SX&location=1837))
+    - Tags: [[pink]] 
+- begin noticing and renouncing habits of harm ([Location 1837](https://readwise.io/to_kindle?action=open&asin=B073ZVY4SX&location=1837))
+    - Tags: [[orange]] 
+- shift toward caring presence, ([Location 1838](https://readwise.io/to_kindle?action=open&asin=B073ZVY4SX&location=1838))

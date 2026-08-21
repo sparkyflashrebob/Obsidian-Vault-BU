@@ -1,0 +1,2 @@
+
+It’s a cliche by this point that the path to happiness is paved by achievement: graduate from a top university, score the dream job, find eternal love, and retire early in a sunny beachfront town. But psychological research flips this conventional formula for happiness on its head. It turns out, positive external outcomes cause only fleeting happiness. However, daily habits that cultivate positive thinking and optimism create sustainable happiness.

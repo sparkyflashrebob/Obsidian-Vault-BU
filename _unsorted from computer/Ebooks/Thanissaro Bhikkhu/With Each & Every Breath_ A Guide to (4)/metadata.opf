@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b37e7f73-6d22-4cda-9c80-084d0a6f07c3</dc:identifier>
+        <dc:title>With Each &amp; Every Breath: A Guide to Meditation</dc:title>
+        <dc:creator opf:file-as="Bhikkhu, Thanissaro" opf:role="aut">Thanissaro Bhikkhu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.9.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-01-27T08:00:00+00:00</dc:date>
+        <dc:description>A new breath meditation manual drawing on two sources: the Buddha’s own set of instructions on how to use the breath in training the mind, and Ajaan Lee Dhammadharo’s method of breath meditation - which builds on the Buddha’s instructions, explaining in detail many of the points that the Buddha left in condensed form.</dc:description>
+        <dc:publisher>Metta Forest Monastery</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Dhamma</dc:subject>
+        <dc:subject>Dharma</dc:subject>
+        <dc:subject>Meditation</dc:subject>
+        <dc:subject>Jhana</dc:subject>
+        <dc:subject>Breath Meditation</dc:subject>
+        <dc:subject>Buddhism</dc:subject>
+        <dc:subject>Buddhist</dc:subject>
+        <dc:subject>Thai Forest Tradition</dc:subject>
+        <dc:subject>Theravada</dc:subject>
+        <meta content="{&quot;Thanissaro Bhikkhu&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-01-29T04:00:49.062000+00:00" name="calibre:timestamp"/>
+        <meta content="With Each &amp; Every Breath: A Guide to Meditation" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,518 @@
+# You Are Now Less Dumb
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/51NmfRIjkCL._SL200_.jpg)
+
+## Metadata
+- Author: [[David McRaney]]
+- Full Title: You Are Now Less Dumb
+- Category: #books
+
+## Highlights
+- concept of preconceived notions, ([Location 87](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=87))
+    - Tags: [[blue]] 
+- Each person experienced a different version of reality, of the truth, each in some way adulterated by his allegiance. ([Location 115](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=115))
+- naive realism—a ([Location 122](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=122))
+    - Tags: [[orange]] 
+- Each creature’s version of reality is unique to its nervous system. ([Location 132](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=132))
+    - Tags: [[orange]] 
+- Your perception isn’t the only perception out there, and if the inputs can be fooled, then the image is not to be trusted. ([Location 134](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=134))
+    - Tags: [[pink]] 
+- What you see, recall, and feel emotionally is 100 percent created by chemical reactions in your braincase, and that means those things are susceptible to influence, editing, redacting, and all sorts of other ingredients that get added to consciousness when you construct reality out of inputs both external and internal. To paraphrase psychologist Daniel Gilbert, memory, perception, and imagination are representations not replicas. ([Location 139](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=139))
+    - Tags: [[blue]] 
+- A memory is least accurate when most reflected upon, and most accurate when least pondered. ([Location 142](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=142))
+- those two facts make eyewitness testimony basically worthless. ([Location 142](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=142))
+    - Tags: [[orange]] 
+- You don’t record everything you see, nor do you notice everything that comes into your ([Location 146](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=146))
+    - Tags: [[pink]] 
+- mind. ([Location 147](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=147))
+    - Tags: [[pink]] 
+- The moment your first kiss was over, the memory of it began to decay. Each time you recall it, the event is reformed in your mind anew and differently, influenced by your current condition and by all the wisdom you’ve acquired since and all the erroneous details you’ve added. ([Location 148](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=148))
+    - Tags: [[blue]] 
+- you make forecasts and decisions based on internal mental models and memories, and you assume those models and memories are accurate and perfect. ([Location 150](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=150))
+- Throughout this book you will see that you do not passively receive reality. You actively participate in the creation of your personal universe. ([Location 154](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=154))
+    - Tags: [[orange]] 
+- you can ever know an “objective” reality, ([Location 157](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=157))
+    - Tags: [[blue]] 
+- fabrication, ([Location 158](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=158))
+    - Tags: [[pink]] 
+- you never experience anything other than the output of your mind. ([Location 158](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=158))
+- Everything that’s ever happened to you has happened inside your skull. ([Location 158](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=158))
+    - Tags: [[orange]] 
+- What is real is not just what comes into your eyes and bounces around in your mind. You change your reality as it happens. You alter your own perception unconsciously. ([Location 169](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=169))
+- The implications are monumental when you apply this knowledge to wars, politics, social movements, economics, and all the other titans of influence in your life that don’t happen in an arena with agreed-upon rules and aren’t recorded perfectly by history. ([Location 170](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=170))
+    - Tags: [[orange]] 
+- You are always under the influence of irrational reasoning. ([Location 175](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=175))
+    - Tags: [[pink]] 
+- You persist in a state of deluded deliberation. ([Location 176](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=176))
+    - Tags: [[blue]] 
+- you possess a giant toolkit of tricks and techniques by which you invent scenarios that make life easier to comprehend, and then you believe in those scenarios. ([Location 184](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=184))
+- heuristic. ([Location 186](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=186))
+    - Tags: [[orange]] 
+- You use the affect heuristic, for example, to make decisions based on whether a person, problem, or situation makes you feel positive or negative emotions. ([Location 189](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=189))
+    - Tags: [[blue]] 
+- This mental alchemy is applied to everything in your life, ([Location 195](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=195))
+- cognitive biases. ([Location 199](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=199))
+    - Tags: [[orange]] 
+- Scientists speculate that most biases are adaptive, which just means that over millions of years they served as dependable fallback positions when you were unsure how to act or feel. ([Location 204](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=204))
+    - Tags: [[pink]] 
+- You also suffer from a confirmation bias that causes you to seek out information that confirms your worldview while avoiding and ignoring threatening information. ([Location 207](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=207))
+    - Tags: [[blue]] 
+- Over time, this creates a bubble in which it seems there is a monumental amount of consensus for your beliefs. ([Location 208](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=208))
+- Logical fallacies ([Location 211](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=211))
+    - Tags: [[orange]] 
+- You often begin with a conclusion already in mind and then work toward proving that ([Location 212](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=212))
+    - Tags: [[orange]] 
+- you were not stupid to have drawn that conclusion in the first place. ([Location 212](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=212))
+    - Tags: [[orange]] 
+- A great deal can be learned and gained by focusing on your failings. ([Location 253](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=253))
+    - Tags: [[blue]] 
+- Use what you learn here to be kinder to others and more honest with yourself. ([Location 257](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=257))
+- As the constructs fell apart, the men swiftly rebuilt them, ([Location 290](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=290))
+- Rationalizing ([Location 311](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=311))
+- your preferred method (everyone’s preferred method) is to couch everything in the form of a story with ([Location 322](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=322))
+- you as the hero or heroine. ([Location 323](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=323))
+    - Tags: [[orange]] 
+- you’ve developed the ability to knit everything together into something simpler and less accurate, something less informative but more entertaining, and most times more useful. ([Location 335](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=335))
+    - Tags: [[orange]] 
+- meaning. ([Location 337](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=337))
+    - Tags: [[orange]] 
+- When you gather with others, they tell you about their reality in the same story format, and the better the story, the more likely you are to accept their explanation. ([Location 338](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=338))
+    - Tags: [[pink]] 
+- narrative bias—a ([Location 349](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=349))
+    - Tags: [[orange]] 
+- You prefer tales with the structure you’ve come to understand as the backbone of good storytelling. Three to five acts, an opening with the main character forced to face adversity, a turning point where that character chooses to embark on an adventure in an unfamiliar world, and a journey in which the character grows as a person and eventually wins against great odds thanks to that growth. According to mythologist Joseph Campbell, that is pretty much every story ever written, except for the tragedies. ([Location 350](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=350))
+    - Tags: [[pink]] 
+- You often move on without skepticism if the question of why gets resolved in a pleasing way. ([Location 362](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=362))
+    - Tags: [[orange]] 
+- Your narrative bias is bolstered when you are presented with an abundance of information. The more info you get about a statement, the more likely you are to believe that statement. ([Location 365](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=365))
+    - Tags: [[pink]] 
+- The tunnel, the white light, friends and family coming to greet you, memories zooming around—the pilots experienced all this. ([Location 402](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=402))
+    - Tags: [[pink]] 
+- the centrifuge was pretty good at creating out-of-body experiences. Pilots would float over themselves, or hover nearby, looking on as their heads lurched and waggled about. ([Location 403](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=403))
+    - Tags: [[blue]] 
+- As Whinnery and other researchers have speculated, the near-death and out-of-body phenomena are both actually the subjective experience of a brain owner watching as his brain tries desperately to ([Location 404](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=404))
+- figure out what is happening and to orient itself amid its systems going haywire due to oxygen deprivation. ([Location 405](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=405))
+- Without the ability to map out its borders, the brain often places consciousness outside the head, in a field, swimming in a lake, fighting a dragon—whatever it can connect together as the walls crumble. ([Location 406](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=406))
+    - Tags: [[orange]] 
+- Even as the brain is dying, it refuses to stop generating a narrative, ([Location 408](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=408))
+    - Tags: [[pink]] 
+- Narrative is so important to survival that it is literally the last thing you give up before becoming a sack of meat. ([Location 409](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=409))
+    - Tags: [[blue]] 
+- The stories differ, depending on the belief system, but there is always a story. ([Location 413](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=413))
+- Neuroscience isn’t certain how you reassemble your sense of self each time you wake up in the morning, ([Location 415](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=415))
+    - Tags: [[orange]] 
+- According to Sacks, to be yourself you must feel as though you own your self. ([Location 418](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=418))
+    - Tags: [[pink]] 
+- When you feel your story slipping away from you, you “recollect the inner drama” of yourself because your identity depends on feeling as if you have a firm grip on your story so far. ([Location 419](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=419))
+    - Tags: [[blue]] 
+- aphasia, ([Location 425](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=425))
+    - Tags: [[orange]] 
+- “negation delirium.” ([Location 427](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=427))
+    - Tags: [[pink]] 
+- Cotard’s syndrome ([Location 435](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=435))
+    - Tags: [[blue]] 
+- disorders ([Location 435](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=435))
+    - Tags: [[blue]] 
+- share ([Location 435](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=435))
+    - Tags: [[blue]] 
+- central ([Location 435](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=435))
+    - Tags: [[blue]] 
+- theme: ([Location 436](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=436))
+    - Tags: [[blue]] 
+- the loss of your ability to connect emotionally with others. ([Location 436](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=436))
+    - Tags: [[blue]] 
+- Faced with such a horrifying perception, you will invent a way to deal with it. ([Location 440](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=440))
+- Whatever explanations you manufacture at any given moment to explain your state of mind and body could be similarly muddled, but you don’t have fact checkers constantly doting over your mental health. ([Location 442](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=442))
+    - Tags: [[orange]] 
+- confabulations—unintentional ([Location 445](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=445))
+    - Tags: [[pink]] 
+- unintentional lies. ([Location 445](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=445))
+    - Tags: [[pink]] 
+- anosognosia, ([Location 449](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=449))
+    - Tags: [[blue]] 
+- denial of disease. ([Location 449](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=449))
+    - Tags: [[blue]] 
+- A confused mind gets unconfused very quickly. ([Location 458](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=458))
+    - Tags: [[blue]] 
+- Disorientation gets orientated, ([Location 459](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=459))
+- All brains are bards, all selves audiences to the tales of who they are. ([Location 466](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=466))
+    - Tags: [[orange]] 
+- as an organism, you desire “stability of behavior.” ([Location 475](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=475))
+- When your brain senses trouble, senses that something out of the ordinary is going down, the first instinct is to create a narrative as a sort of defense mechanism against chaotic and risky behavior. ([Location 476](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=476))
+- push-pull antagonism” ([Location 487](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=487))
+    - Tags: [[orange]] 
+- Where did we come from, and why are we here? ([Location 525](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=525))
+    - Tags: [[blue]] 
+- Existentially speaking, some individuals come up with an answer and stick with it, while some are content to live their lives never satisfied with an explanation. ([Location 526](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=526))
+    - Tags: [[blue]] 
+- Why do you want to know the answer to these questions? Why, asks narrative psychology, do you seek meaning? ([Location 528](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=528))
+- Without a narrative binding, their wants, needs, and goals fall apart. ([Location 530](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=530))
+    - Tags: [[orange]] 
+- meaning is more important than happiness, ([Location 533](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=533))
+    - Tags: [[pink]] 
+- “to make meaning is to create dynamic narratives that render sensible and coherent the seeming chaos of human existence.” ([Location 533](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=533))
+    - Tags: [[pink]] 
+- For instance, documentaries, books, and films about World War II present it as a story with a definite beginning and an end. In truth, nothing has a beginning and an end. World War II is a vast, blurry labyrinth of causes and effects, a dense morass of confluences with an infinite number of initial conditions and effects that are still reverberating in everything humans are doing across the planet. ([Location 543](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=543))
+    - Tags: [[orange]] 
+- hindsight bias. ([Location 550](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=550))
+    - Tags: [[pink]] 
+- Most animals just do what they do. Sea cucumbers and aardvarks don’t think about their actions; they don’t feel shame, pride, or regret. You do, even when there is no reason to. ([Location 554](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=554))
+    - Tags: [[pink]] 
+- If you look back on a behavior, thought, or emotion and feel befuddled, you experience an intense desire to explain it, and that explanation can affect your future behavior, your future thoughts, your future feelings. ([Location 555](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=555))
+    - Tags: [[blue]] 
+- post hoc rationalization. ([Location 557](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=557))
+- “after this therefore because of this.” ([Location 566](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=566))
+    - Tags: [[orange]] 
+- You prefer a clear cause and effect, ([Location 571](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=571))
+    - Tags: [[blue]] 
+- Thanks to your narrative bias, the world doesn’t make as much sense unless the players are seen as characters. ([Location 573](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=573))
+    - Note: needing GOD.
+- Narrative bias really shines during moments of reflection in which you ponder the central character in your story: you. You have a real sense that you are you and not that guy on the subway who wears Target bags for underwear. The idea of personal boundaries—that there is a place where your self ends and the outside world begins, that you are in control of your actions and not being controlled by an alien parasite, that your story is yours—comes together in a gumbo of assumptions you generally refer to as the self. ([Location 575](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=575))
+    - Tags: [[orange]] 
+- The self is not real. ([Location 580](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=580))
+    - Tags: [[pink]] 
+- It’s just a story like all the others, one created by your narrative bias. After all, you are just a pile of atoms. When you eat vanilla pudding, which is also a pile of atoms, you are really just putting those atoms next to your atoms and waiting for some of them to trade places. ([Location 580](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=580))
+    - Tags: [[blue]] 
+- You have an innate sense that there is something special within people, and most especially yourself. Even if you are a hard-core materialist, you can’t prevent the little tug in your gut that makes you feel that something might exist beyond the flesh, something not made of atoms. To you, people have an essence that is more than the sum of their parts. That sense isn’t there at birth, though. ([Location 591](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=591))
+    - Tags: [[pink]] 
+- “unconscious knowledge,” ([Location 597](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=597))
+    - Tags: [[blue]] 
+- Once you gain the ability to assume others have their own thoughts, the concept of other minds is so powerful that you project it into everything: plants, glitchy computers, boats with names, anything that makes more sense to you when you can assume, even jokingly, it has a sort of self. ([Location 602](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=602))
+- Remember, your mind is the result of biological processes—chemical and electrical thunderstorms rippling through a cellular custard honeycombed and spiderwebbed with blood vessels and other things you’d rather not get on your hands during a meal. That is who you are, and that is what is producing thought, yet that is not what you perceive when you introspect. ([Location 609](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=609))
+    - Tags: [[orange]] 
+- “ocean of the unconscious.” ([Location 614](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=614))
+    - Tags: [[pink]] 
+- Incognito, ([Location 616](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=616))
+    - Tags: [[blue]] 
+- conscious part of the brain as only a tiny portion of the whole, and when ideas arrive in the mind, the conscious portion tends to take credit for something that was growing without its knowledge in the ocean of ([Location 617](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=617))
+- the unconscious, maybe for years. ([Location 618](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=618))
+- you don’t experience thinking; you experience the result of thinking. ([Location 620](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=620))
+    - Tags: [[orange]] 
+- If minds change at all, they change slowly. ([Location 624](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=624))
+    - Tags: [[pink]] 
+- For all existence, there is an internal narrative upon which you cling, a story you construct minute by minute to assure yourself that you understand what is happening, and you prefer information framed in narrative. ([Location 626](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=626))
+    - Tags: [[blue]] 
+- Truth and accuracy usually lose when pitted against a riveting account—even when that account is coming from inside your noggin. ([Location 634](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=634))
+- Whenever things start to get just a little difficult to understand, you replace that anxiety with false understanding in story form. ([Location 635](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=635))
+- When you get right down to it, the self is nothing more than a story. It is the explanation of your own memories to whoever will listen. ([Location 638](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=638))
+    - Tags: [[orange]] 
+- common belief fallacy. ([Location 695](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=695))
+    - Tags: [[orange]] 
+- self-delusion. ([Location 706](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=706))
+    - Tags: [[pink]] 
+- the scientific method. ([Location 708](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=708))
+    - Tags: [[blue]] 
+- Your natural tendency is to start from a conclusion and work backward to confirm your assumptions, ([Location 729](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=729))
+- null hypothesis. ([Location 746](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=746))
+    - Tags: [[orange]] 
+- That is, when you believe in something, you rarely seek out evidence to the contrary to see how it matches up with your assumptions. ([Location 746](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=746))
+    - Tags: [[pink]] 
+- if the organization is on the right path. ([Location 750](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=750))
+    - Tags: [[blue]] 
+- Every human effort should systematically pause and ask if it is currently mistaken. ([Location 750](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=750))
+- When you have zero evidence, every assumption is basically equal. ([Location 755](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=755))
+    - Tags: [[orange]] 
+- You prefer to see causes rather than effects, signals in the noise, patterns in the randomness. ([Location 755](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=755))
+    - Tags: [[pink]] 
+- You grow to like people for whom you do nice things and hate people you harm. ([Location 765](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=765))
+    - Tags: [[blue]] 
+- Attitude is the psychological term for the bundle of beliefs and feelings you experience toward a person, topic, idea, etc., without having to form concrete thoughts. ([Location 799](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=799))
+    - Tags: [[blue]] 
+- At the lowest level, behavior-into-attitude conversion begins with impression management theory, which says you present to your peers the person you wish to be. ([Location 808](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=808))
+    - Tags: [[blue]] 
+- As a primate, you are keen to social cues that portend your possible ostracism from an in-group. In the wild, banishment equals death. So it follows that you work to feel included because the feeling of being left out, being the last to know, being the only one not invited to the party, is a deep and severe wound to your emotional core. ([Location 814](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=814))
+- Impression management theory says you are always thinking about how you appear to others, even when there are no others around. ([Location 817](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=817))
+    - Tags: [[orange]] 
+- “We are what we pretend to be, so we must be careful about what we pretend to be.” ([Location 822](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=822))
+    - Tags: [[pink]] 
+- Self-perception theory says your attitudes are shaped by observing your own behavior, being unable to pinpoint the cause, and trying to make sense of it. ([Location 824](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=824))
+    - Tags: [[blue]] 
+- Self-perception theory divides memories into declarative, or accessible to the conscious mind, and nondeclarative, that which you store unconsciously. You intuitively understand how declarative memories shape, direct, and inform you. If you think about pumpkin spice muffins you feel warm and fuzzy. Self-perception theory posits that nondeclarative memories are just as powerful. You can’t access them, but they pulsate through your nervous system. ([Location 833](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=833))
+- Self-perception theory shows that you unconsciously observe your own actions and then explain them in a pleasing way without ever ([Location 837](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=837))
+    - Tags: [[orange]] 
+- realizing it. ([Location 838](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=838))
+    - Tags: [[orange]] 
+- cognitive dissonance, ([Location 841](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=841))
+    - Tags: [[pink]] 
+- Your brain literally begins to shut down when you feel your ideology is threatened. Try it yourself. Watch a pundit you hate for fifteen minutes. Resist the urge to change the channel. Don’t complain to the person next to you. Don’t get online and rant. Try to let it go. You will find this is excruciatingly difficult. ([Location 849](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=849))
+    - Tags: [[blue]] 
+- cognitive dissonance, ([Location 852](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=852))
+- This is why volunteering feels good and unpaid interns work so hard. Without an obvious outside reward you create an internal one. ([Location 890](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=890))
+    - Tags: [[orange]] 
+- Pay attention to when the cart is getting before the horse. Notice when a painful initiation leads to irrational devotion, or when unsatisfying jobs start to seem worthwhile. Remind yourself pledges and promises have power, as do uniforms and parades. Remember in the absence of extrinsic rewards you will seek out or create intrinsic ones. Take into account the higher the price you pay for your decisions the more you value them. See that ambivalence becomes certainty with time. Realize that lukewarm feelings become stronger once you commit to a group, club, or product. Be wary of the roles you play and the acts you put on, because you tend to fulfill the labels you accept. Above all, remember the more harm you cause, the more hate you feel. The more kindness you express, the more you come to love those you help. ([Location 930](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=930))
+    - Tags: [[blue]] 
+- post hoc fallacy. ([Location 975](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=975))
+    - Tags: [[blue]] 
+- It is the natural assumption that appears in your head when one event follows another event. ([Location 991](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=991))
+- Because you are so eager to commit the post hoc fallacy, you have a habit of thinking that when one event follows another, the two events must be related, and that the second event was caused or at least influenced by the first. Because of this, the post hoc fallacy is the kingpin of irrational thought. ([Location 1007](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=1007))
+    - Tags: [[orange]] 
+- Mistaken emotional origins can save relationships, create amorous mirages, and lead you into behaviors and attitudes both sublime and hypocritical. ([Location 1577](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=1577))
+- After more than a thousand of these buzz-report-introspect-text moments, Graham looked over the data and found that couples who routinely performed difficult tasks together as partners were also more likely to like each other. ([Location 1620](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=1620))
+    - Note: Questing as a group.
+- self-perception theory. ([Location 1645](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=1645))
+    - Tags: [[orange]] 
+- the theory posits that your attitudes are shaped by observing your own behavior and trying to make sense of it. ([Location 1646](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=1646))
+    - Tags: [[orange]] 
+- It feels good to assume you’ve discovered what is causing you to feel happy, to feel rejected, to feel angry or lovesick. ([Location 1666](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=1666))
+    - Tags: [[pink]] 
+- The research into arousal says you are bad at explaining yourself to yourself, but it sheds light on why so many successful dates include roller coasters, horror films, and conversations over coffee. There is a reason that playful wrestling can lead to passionate kissing, that a great friend can turn a heaving cry into a belly laugh. There is a reason great struggle brings you closer to friends, family, and lovers. There is a reason Rice Krispies commercials show moms teaching children how to make treats in crisp black-and-white while Israel Kamakawiwo’ole sings “Over the Rainbow.” When you want to know why you feel the way you do but are denied the correct answer, you don’t stop searching. You settle on something—the person beside you, the product in front of you, the drug in your brain. You don’t always know the right answer, but when you are flirting over a latte, don’t point it out. ([Location 1668](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=1668))
+    - Tags: [[blue]] 
+# You Are Now Less Dumb
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/51NmfRIjkCL._SL200_.jpg)
+
+## Metadata
+- Author: [[David McRaney]]
+- Full Title: You Are Now Less Dumb
+- Category: #books
+
+## Highlights
+- concept of preconceived notions, ([Location 87](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=87))
+    - Tags: [[blue]] 
+- Each person experienced a different version of reality, of the truth, each in some way adulterated by his allegiance. ([Location 115](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=115))
+- naive realism—a ([Location 122](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=122))
+    - Tags: [[orange]] 
+- Each creature’s version of reality is unique to its nervous system. ([Location 132](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=132))
+    - Tags: [[orange]] 
+- Your perception isn’t the only perception out there, and if the inputs can be fooled, then the image is not to be trusted. ([Location 134](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=134))
+    - Tags: [[pink]] 
+- What you see, recall, and feel emotionally is 100 percent created by chemical reactions in your braincase, and that means those things are susceptible to influence, editing, redacting, and all sorts of other ingredients that get added to consciousness when you construct reality out of inputs both external and internal. To paraphrase psychologist Daniel Gilbert, memory, perception, and imagination are representations not replicas. ([Location 139](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=139))
+    - Tags: [[blue]] 
+- A memory is least accurate when most reflected upon, and most accurate when least pondered. ([Location 142](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=142))
+- those two facts make eyewitness testimony basically worthless. ([Location 142](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=142))
+    - Tags: [[orange]] 
+- You don’t record everything you see, nor do you notice everything that comes into your ([Location 146](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=146))
+    - Tags: [[pink]] 
+- mind. ([Location 147](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=147))
+    - Tags: [[pink]] 
+- The moment your first kiss was over, the memory of it began to decay. Each time you recall it, the event is reformed in your mind anew and differently, influenced by your current condition and by all the wisdom you’ve acquired since and all the erroneous details you’ve added. ([Location 148](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=148))
+    - Tags: [[blue]] 
+- you make forecasts and decisions based on internal mental models and memories, and you assume those models and memories are accurate and perfect. ([Location 150](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=150))
+- Throughout this book you will see that you do not passively receive reality. You actively participate in the creation of your personal universe. ([Location 154](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=154))
+    - Tags: [[orange]] 
+- you can ever know an “objective” reality, ([Location 157](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=157))
+    - Tags: [[blue]] 
+- fabrication, ([Location 158](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=158))
+    - Tags: [[pink]] 
+- you never experience anything other than the output of your mind. ([Location 158](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=158))
+- Everything that’s ever happened to you has happened inside your skull. ([Location 158](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=158))
+    - Tags: [[orange]] 
+- What is real is not just what comes into your eyes and bounces around in your mind. You change your reality as it happens. You alter your own perception unconsciously. ([Location 169](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=169))
+- The implications are monumental when you apply this knowledge to wars, politics, social movements, economics, and all the other titans of influence in your life that don’t happen in an arena with agreed-upon rules and aren’t recorded perfectly by history. ([Location 170](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=170))
+    - Tags: [[orange]] 
+- You are always under the influence of irrational reasoning. ([Location 175](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=175))
+    - Tags: [[pink]] 
+- You persist in a state of deluded deliberation. ([Location 176](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=176))
+    - Tags: [[blue]] 
+- you possess a giant toolkit of tricks and techniques by which you invent scenarios that make life easier to comprehend, and then you believe in those scenarios. ([Location 184](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=184))
+- heuristic. ([Location 186](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=186))
+    - Tags: [[orange]] 
+- You use the affect heuristic, for example, to make decisions based on whether a person, problem, or situation makes you feel positive or negative emotions. ([Location 189](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=189))
+    - Tags: [[blue]] 
+- This mental alchemy is applied to everything in your life, ([Location 195](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=195))
+- cognitive biases. ([Location 199](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=199))
+    - Tags: [[orange]] 
+- Scientists speculate that most biases are adaptive, which just means that over millions of years they served as dependable fallback positions when you were unsure how to act or feel. ([Location 204](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=204))
+    - Tags: [[pink]] 
+- You also suffer from a confirmation bias that causes you to seek out information that confirms your worldview while avoiding and ignoring threatening information. ([Location 207](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=207))
+    - Tags: [[blue]] 
+- Over time, this creates a bubble in which it seems there is a monumental amount of consensus for your beliefs. ([Location 208](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=208))
+- Logical fallacies ([Location 211](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=211))
+    - Tags: [[orange]] 
+- You often begin with a conclusion already in mind and then work toward proving that ([Location 212](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=212))
+    - Tags: [[orange]] 
+- you were not stupid to have drawn that conclusion in the first place. ([Location 212](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=212))
+    - Tags: [[orange]] 
+- A great deal can be learned and gained by focusing on your failings. ([Location 253](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=253))
+    - Tags: [[blue]] 
+- Use what you learn here to be kinder to others and more honest with yourself. ([Location 257](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=257))
+- As the constructs fell apart, the men swiftly rebuilt them, ([Location 290](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=290))
+- Rationalizing ([Location 311](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=311))
+- your preferred method (everyone’s preferred method) is to couch everything in the form of a story with ([Location 322](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=322))
+- you as the hero or heroine. ([Location 323](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=323))
+    - Tags: [[orange]] 
+- you’ve developed the ability to knit everything together into something simpler and less accurate, something less informative but more entertaining, and most times more useful. ([Location 335](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=335))
+    - Tags: [[orange]] 
+- meaning. ([Location 337](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=337))
+    - Tags: [[orange]] 
+- When you gather with others, they tell you about their reality in the same story format, and the better the story, the more likely you are to accept their explanation. ([Location 338](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=338))
+    - Tags: [[pink]] 
+- narrative bias—a ([Location 349](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=349))
+    - Tags: [[orange]] 
+- You prefer tales with the structure you’ve come to understand as the backbone of good storytelling. Three to five acts, an opening with the main character forced to face adversity, a turning point where that character chooses to embark on an adventure in an unfamiliar world, and a journey in which the character grows as a person and eventually wins against great odds thanks to that growth. According to mythologist Joseph Campbell, that is pretty much every story ever written, except for the tragedies. ([Location 350](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=350))
+    - Tags: [[pink]] 
+- You often move on without skepticism if the question of why gets resolved in a pleasing way. ([Location 362](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=362))
+    - Tags: [[orange]] 
+- Your narrative bias is bolstered when you are presented with an abundance of information. The more info you get about a statement, the more likely you are to believe that statement. ([Location 365](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=365))
+    - Tags: [[pink]] 
+- The tunnel, the white light, friends and family coming to greet you, memories zooming around—the pilots experienced all this. ([Location 402](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=402))
+    - Tags: [[pink]] 
+- the centrifuge was pretty good at creating out-of-body experiences. Pilots would float over themselves, or hover nearby, looking on as their heads lurched and waggled about. ([Location 403](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=403))
+    - Tags: [[blue]] 
+- As Whinnery and other researchers have speculated, the near-death and out-of-body phenomena are both actually the subjective experience of a brain owner watching as his brain tries desperately to ([Location 404](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=404))
+- figure out what is happening and to orient itself amid its systems going haywire due to oxygen deprivation. ([Location 405](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=405))
+- Without the ability to map out its borders, the brain often places consciousness outside the head, in a field, swimming in a lake, fighting a dragon—whatever it can connect together as the walls crumble. ([Location 406](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=406))
+    - Tags: [[orange]] 
+- Even as the brain is dying, it refuses to stop generating a narrative, ([Location 408](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=408))
+    - Tags: [[pink]] 
+- Narrative is so important to survival that it is literally the last thing you give up before becoming a sack of meat. ([Location 409](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=409))
+    - Tags: [[blue]] 
+- The stories differ, depending on the belief system, but there is always a story. ([Location 413](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=413))
+- Neuroscience isn’t certain how you reassemble your sense of self each time you wake up in the morning, ([Location 415](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=415))
+    - Tags: [[orange]] 
+- According to Sacks, to be yourself you must feel as though you own your self. ([Location 418](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=418))
+    - Tags: [[pink]] 
+- When you feel your story slipping away from you, you “recollect the inner drama” of yourself because your identity depends on feeling as if you have a firm grip on your story so far. ([Location 419](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=419))
+    - Tags: [[blue]] 
+- aphasia, ([Location 425](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=425))
+    - Tags: [[orange]] 
+- “negation delirium.” ([Location 427](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=427))
+    - Tags: [[pink]] 
+- Cotard’s syndrome ([Location 435](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=435))
+    - Tags: [[blue]] 
+- disorders ([Location 435](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=435))
+    - Tags: [[blue]] 
+- share ([Location 435](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=435))
+    - Tags: [[blue]] 
+- central ([Location 435](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=435))
+    - Tags: [[blue]] 
+- theme: ([Location 436](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=436))
+    - Tags: [[blue]] 
+- the loss of your ability to connect emotionally with others. ([Location 436](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=436))
+    - Tags: [[blue]] 
+- Faced with such a horrifying perception, you will invent a way to deal with it. ([Location 440](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=440))
+- Whatever explanations you manufacture at any given moment to explain your state of mind and body could be similarly muddled, but you don’t have fact checkers constantly doting over your mental health. ([Location 442](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=442))
+    - Tags: [[orange]] 
+- confabulations—unintentional ([Location 445](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=445))
+    - Tags: [[pink]] 
+- unintentional lies. ([Location 445](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=445))
+    - Tags: [[pink]] 
+- anosognosia, ([Location 449](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=449))
+    - Tags: [[blue]] 
+- denial of disease. ([Location 449](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=449))
+    - Tags: [[blue]] 
+- A confused mind gets unconfused very quickly. ([Location 458](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=458))
+    - Tags: [[blue]] 
+- Disorientation gets orientated, ([Location 459](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=459))
+- All brains are bards, all selves audiences to the tales of who they are. ([Location 466](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=466))
+    - Tags: [[orange]] 
+- as an organism, you desire “stability of behavior.” ([Location 475](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=475))
+- When your brain senses trouble, senses that something out of the ordinary is going down, the first instinct is to create a narrative as a sort of defense mechanism against chaotic and risky behavior. ([Location 476](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=476))
+- push-pull antagonism” ([Location 487](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=487))
+    - Tags: [[orange]] 
+- Where did we come from, and why are we here? ([Location 525](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=525))
+    - Tags: [[blue]] 
+- Existentially speaking, some individuals come up with an answer and stick with it, while some are content to live their lives never satisfied with an explanation. ([Location 526](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=526))
+    - Tags: [[blue]] 
+- Why do you want to know the answer to these questions? Why, asks narrative psychology, do you seek meaning? ([Location 528](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=528))
+- Without a narrative binding, their wants, needs, and goals fall apart. ([Location 530](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=530))
+    - Tags: [[orange]] 
+- meaning is more important than happiness, ([Location 533](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=533))
+    - Tags: [[pink]] 
+- “to make meaning is to create dynamic narratives that render sensible and coherent the seeming chaos of human existence.” ([Location 533](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=533))
+    - Tags: [[pink]] 
+- For instance, documentaries, books, and films about World War II present it as a story with a definite beginning and an end. In truth, nothing has a beginning and an end. World War II is a vast, blurry labyrinth of causes and effects, a dense morass of confluences with an infinite number of initial conditions and effects that are still reverberating in everything humans are doing across the planet. ([Location 543](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=543))
+    - Tags: [[orange]] 
+- hindsight bias. ([Location 550](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=550))
+    - Tags: [[pink]] 
+- Most animals just do what they do. Sea cucumbers and aardvarks don’t think about their actions; they don’t feel shame, pride, or regret. You do, even when there is no reason to. ([Location 554](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=554))
+    - Tags: [[pink]] 
+- If you look back on a behavior, thought, or emotion and feel befuddled, you experience an intense desire to explain it, and that explanation can affect your future behavior, your future thoughts, your future feelings. ([Location 555](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=555))
+    - Tags: [[blue]] 
+- post hoc rationalization. ([Location 557](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=557))
+- “after this therefore because of this.” ([Location 566](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=566))
+    - Tags: [[orange]] 
+- You prefer a clear cause and effect, ([Location 571](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=571))
+    - Tags: [[blue]] 
+- Thanks to your narrative bias, the world doesn’t make as much sense unless the players are seen as characters. ([Location 573](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=573))
+    - Note: needing GOD.
+- Narrative bias really shines during moments of reflection in which you ponder the central character in your story: you. You have a real sense that you are you and not that guy on the subway who wears Target bags for underwear. The idea of personal boundaries—that there is a place where your self ends and the outside world begins, that you are in control of your actions and not being controlled by an alien parasite, that your story is yours—comes together in a gumbo of assumptions you generally refer to as the self. ([Location 575](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=575))
+    - Tags: [[orange]] 
+- The self is not real. ([Location 580](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=580))
+    - Tags: [[pink]] 
+- It’s just a story like all the others, one created by your narrative bias. After all, you are just a pile of atoms. When you eat vanilla pudding, which is also a pile of atoms, you are really just putting those atoms next to your atoms and waiting for some of them to trade places. ([Location 580](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=580))
+    - Tags: [[blue]] 
+- You have an innate sense that there is something special within people, and most especially yourself. Even if you are a hard-core materialist, you can’t prevent the little tug in your gut that makes you feel that something might exist beyond the flesh, something not made of atoms. To you, people have an essence that is more than the sum of their parts. That sense isn’t there at birth, though. ([Location 591](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=591))
+    - Tags: [[pink]] 
+- “unconscious knowledge,” ([Location 597](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=597))
+    - Tags: [[blue]] 
+- Once you gain the ability to assume others have their own thoughts, the concept of other minds is so powerful that you project it into everything: plants, glitchy computers, boats with names, anything that makes more sense to you when you can assume, even jokingly, it has a sort of self. ([Location 602](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=602))
+- Remember, your mind is the result of biological processes—chemical and electrical thunderstorms rippling through a cellular custard honeycombed and spiderwebbed with blood vessels and other things you’d rather not get on your hands during a meal. That is who you are, and that is what is producing thought, yet that is not what you perceive when you introspect. ([Location 609](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=609))
+    - Tags: [[orange]] 
+- “ocean of the unconscious.” ([Location 614](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=614))
+    - Tags: [[pink]] 
+- Incognito, ([Location 616](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=616))
+    - Tags: [[blue]] 
+- conscious part of the brain as only a tiny portion of the whole, and when ideas arrive in the mind, the conscious portion tends to take credit for something that was growing without its knowledge in the ocean of ([Location 617](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=617))
+- the unconscious, maybe for years. ([Location 618](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=618))
+- you don’t experience thinking; you experience the result of thinking. ([Location 620](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=620))
+    - Tags: [[orange]] 
+- If minds change at all, they change slowly. ([Location 624](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=624))
+    - Tags: [[pink]] 
+- For all existence, there is an internal narrative upon which you cling, a story you construct minute by minute to assure yourself that you understand what is happening, and you prefer information framed in narrative. ([Location 626](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=626))
+    - Tags: [[blue]] 
+- Truth and accuracy usually lose when pitted against a riveting account—even when that account is coming from inside your noggin. ([Location 634](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=634))
+- Whenever things start to get just a little difficult to understand, you replace that anxiety with false understanding in story form. ([Location 635](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=635))
+- When you get right down to it, the self is nothing more than a story. It is the explanation of your own memories to whoever will listen. ([Location 638](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=638))
+    - Tags: [[orange]] 
+- common belief fallacy. ([Location 695](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=695))
+    - Tags: [[orange]] 
+- self-delusion. ([Location 706](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=706))
+    - Tags: [[pink]] 
+- the scientific method. ([Location 708](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=708))
+    - Tags: [[blue]] 
+- Your natural tendency is to start from a conclusion and work backward to confirm your assumptions, ([Location 729](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=729))
+- null hypothesis. ([Location 746](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=746))
+    - Tags: [[orange]] 
+- That is, when you believe in something, you rarely seek out evidence to the contrary to see how it matches up with your assumptions. ([Location 746](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=746))
+    - Tags: [[pink]] 
+- if the organization is on the right path. ([Location 750](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=750))
+    - Tags: [[blue]] 
+- Every human effort should systematically pause and ask if it is currently mistaken. ([Location 750](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=750))
+- When you have zero evidence, every assumption is basically equal. ([Location 755](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=755))
+    - Tags: [[orange]] 
+- You prefer to see causes rather than effects, signals in the noise, patterns in the randomness. ([Location 755](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=755))
+    - Tags: [[pink]] 
+- You grow to like people for whom you do nice things and hate people you harm. ([Location 765](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=765))
+    - Tags: [[blue]] 
+- Attitude is the psychological term for the bundle of beliefs and feelings you experience toward a person, topic, idea, etc., without having to form concrete thoughts. ([Location 799](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=799))
+    - Tags: [[blue]] 
+- At the lowest level, behavior-into-attitude conversion begins with impression management theory, which says you present to your peers the person you wish to be. ([Location 808](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=808))
+    - Tags: [[blue]] 
+- As a primate, you are keen to social cues that portend your possible ostracism from an in-group. In the wild, banishment equals death. So it follows that you work to feel included because the feeling of being left out, being the last to know, being the only one not invited to the party, is a deep and severe wound to your emotional core. ([Location 814](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=814))
+- Impression management theory says you are always thinking about how you appear to others, even when there are no others around. ([Location 817](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=817))
+    - Tags: [[orange]] 
+- “We are what we pretend to be, so we must be careful about what we pretend to be.” ([Location 822](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=822))
+    - Tags: [[pink]] 
+- Self-perception theory says your attitudes are shaped by observing your own behavior, being unable to pinpoint the cause, and trying to make sense of it. ([Location 824](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=824))
+    - Tags: [[blue]] 
+- Self-perception theory divides memories into declarative, or accessible to the conscious mind, and nondeclarative, that which you store unconsciously. You intuitively understand how declarative memories shape, direct, and inform you. If you think about pumpkin spice muffins you feel warm and fuzzy. Self-perception theory posits that nondeclarative memories are just as powerful. You can’t access them, but they pulsate through your nervous system. ([Location 833](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=833))
+- Self-perception theory shows that you unconsciously observe your own actions and then explain them in a pleasing way without ever ([Location 837](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=837))
+    - Tags: [[orange]] 
+- realizing it. ([Location 838](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=838))
+    - Tags: [[orange]] 
+- cognitive dissonance, ([Location 841](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=841))
+    - Tags: [[pink]] 
+- Your brain literally begins to shut down when you feel your ideology is threatened. Try it yourself. Watch a pundit you hate for fifteen minutes. Resist the urge to change the channel. Don’t complain to the person next to you. Don’t get online and rant. Try to let it go. You will find this is excruciatingly difficult. ([Location 849](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=849))
+    - Tags: [[blue]] 
+- cognitive dissonance, ([Location 852](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=852))
+- This is why volunteering feels good and unpaid interns work so hard. Without an obvious outside reward you create an internal one. ([Location 890](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=890))
+    - Tags: [[orange]] 
+- Pay attention to when the cart is getting before the horse. Notice when a painful initiation leads to irrational devotion, or when unsatisfying jobs start to seem worthwhile. Remind yourself pledges and promises have power, as do uniforms and parades. Remember in the absence of extrinsic rewards you will seek out or create intrinsic ones. Take into account the higher the price you pay for your decisions the more you value them. See that ambivalence becomes certainty with time. Realize that lukewarm feelings become stronger once you commit to a group, club, or product. Be wary of the roles you play and the acts you put on, because you tend to fulfill the labels you accept. Above all, remember the more harm you cause, the more hate you feel. The more kindness you express, the more you come to love those you help. ([Location 930](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=930))
+    - Tags: [[blue]] 
+- post hoc fallacy. ([Location 975](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=975))
+    - Tags: [[blue]] 
+- It is the natural assumption that appears in your head when one event follows another event. ([Location 991](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=991))
+- Because you are so eager to commit the post hoc fallacy, you have a habit of thinking that when one event follows another, the two events must be related, and that the second event was caused or at least influenced by the first. Because of this, the post hoc fallacy is the kingpin of irrational thought. ([Location 1007](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=1007))
+    - Tags: [[orange]] 
+- Mistaken emotional origins can save relationships, create amorous mirages, and lead you into behaviors and attitudes both sublime and hypocritical. ([Location 1577](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=1577))
+- After more than a thousand of these buzz-report-introspect-text moments, Graham looked over the data and found that couples who routinely performed difficult tasks together as partners were also more likely to like each other. ([Location 1620](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=1620))
+    - Note: Questing as a group.
+- self-perception theory. ([Location 1645](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=1645))
+    - Tags: [[orange]] 
+- the theory posits that your attitudes are shaped by observing your own behavior and trying to make sense of it. ([Location 1646](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=1646))
+    - Tags: [[orange]] 
+- It feels good to assume you’ve discovered what is causing you to feel happy, to feel rejected, to feel angry or lovesick. ([Location 1666](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=1666))
+    - Tags: [[pink]] 
+- The research into arousal says you are bad at explaining yourself to yourself, but it sheds light on why so many successful dates include roller coasters, horror films, and conversations over coffee. There is a reason that playful wrestling can lead to passionate kissing, that a great friend can turn a heaving cry into a belly laugh. There is a reason great struggle brings you closer to friends, family, and lovers. There is a reason Rice Krispies commercials show moms teaching children how to make treats in crisp black-and-white while Israel Kamakawiwo’ole sings “Over the Rainbow.” When you want to know why you feel the way you do but are denied the correct answer, you don’t stop searching. You settle on something—the person beside you, the product in front of you, the drug in your brain. You don’t always know the right answer, but when you are flirting over a latte, don’t point it out. ([Location 1668](https://readwise.io/to_kindle?action=open&asin=B009VMBJ5S&location=1668))
+    - Tags: [[blue]] 

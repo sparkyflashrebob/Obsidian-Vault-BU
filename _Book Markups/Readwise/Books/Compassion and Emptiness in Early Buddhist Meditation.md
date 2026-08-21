@@ -1,0 +1,1487 @@
+# Compassion and Emptiness in Early Buddhist Meditation
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/4130q7K9d2L._SL200_.jpg)
+
+## Metadata
+- Author: [[Analayo]]
+- Full Title: Compassion and Emptiness in Early Buddhist Meditation
+- Category: #books
+
+## Highlights
+- Comparative Study of the Majjhima-nikāya Excursions ([Location 38](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=38))
+- With the present book I explore the meditative practices of compassion and emptiness by examining and interpreting relevant material from the early discourses. ([Location 125](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=125))
+    - Tags: [[orange]] 
+- this book is meant for practitioners and relevance to meditation practice informs my exploration.2 ([Location 129](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=129))
+    - Tags: [[orange]] 
+- Chapter 1 I explore the nature of compassion, ([Location 131](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=131))
+- contextualization of compassion within the standard set of the four divine abodes, brahmavihāras. ([Location 131](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=131))
+    - Tags: [[blue]] 
+- the fruits to be expected from maturing compassion. ([Location 132](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=132))
+    - Tags: [[pink]] 
+- The next three chapters are dedicated to emptiness, mainly based on the gradual meditative entry into emptiness described in the Cūḷasuññata-sutta and its parallels. ([Location 132](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=132))
+    - Tags: [[orange]] 
+- how meditation practice can proceed from compassion to emptiness. ([Location 135](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=135))
+    - Tags: [[pink]] 
+- consider passages in light of their relevance to meditation. ([Location 138](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=138))
+- The early discourses do not offer a succinct definition of the term “compassion”. ([Location 187](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=187))
+- ways of overcoming resentment. ([Location 191](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=191))
+    - Tags: [[orange]] 
+- describes a situation that arouses feelings of compassion to illustrate the attitude one should cultivate towards someone who is immersed in unwholesomeness. ([Location 191](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=191))
+    - Tags: [[pink]] 
+- This simile shows that an essential component of compassion is the concern for others to be relieved from suffering and affliction. ([Location 202](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=202))
+- compassion is concerned with the other being free from affliction. ([Location 204](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=204))
+    - Tags: [[orange]] 
+- mentally dwelling on the actual suffering would be contemplation of dukkha ([Location 208](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=208))
+    - Tags: [[orange]] 
+- The cultivation of compassion itself, however, finds its expression in the wish for the other to be free from dukkha. ([Location 209](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=209))
+    - Tags: [[pink]] 
+- cultivation of compassion can only lead to deeper concentration if it is undertaken with a positive or even joyful mind. ([Location 211](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=211))
+    - Tags: [[pink]] 
+- From a practical perspective this means that one’s cultivation of compassion needs to steer clear of sadness. ([Location 212](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=212))
+- it is important to monitor closely one’s own response to the affliction of others. This ([Location 214](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=214))
+- Understood in this way, compassion does not mean to commiserate to the extent of suffering along with the other. ([Location 216](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=216))
+- “near enemy ([Location 218](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=218))
+    - Tags: [[pink]] 
+- According to the Visuddhimagga, cruelty is the “far enemy” of compassion, in the sense of being directly opposed to it, whereas worldly forms of sadness are its “near enemy”.3 Needless ([Location 218](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=218))
+- compassion is directly opposed to the wish for others to be harmed ([Location 221](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=221))
+    - Tags: [[pink]] 
+- (nissaraṇa), ([Location 224](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=224))
+- [Suppose someone] should speak in this way: “I have practised, cultivated, and made much of the concentration of the mind by compassion, yet cruelty still remains having pervaded my mind.” Such a one should be told: “Do not say this. Why is that? It is impossible, it cannot be that cruelty remains pervading the mind of one who has practised, cultivated, and made much of the concentration of the mind by compassion; that is an impossibility. This is the release from all cruelty, namely the concentration of the mind by compassion.”5 ([Location 226](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=226))
+    - Tags: [[pink]] 
+- one who has truly developed compassion will no longer be overwhelmed by cruelty, ([Location 231](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=231))
+    - Tags: [[orange]] 
+- the meditative cultivation of compassion clearly affects one’s character trait, making it impossible for one to be completely overpowered by cruelty. ([Location 233](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=233))
+    - Tags: [[blue]] 
+- moral conduct is an expression of compassion. ([Location 238](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=238))
+    - Tags: [[orange]] 
+- one who kills living beings lacks compassion. ([Location 241](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=241))
+    - Tags: [[orange]] 
+- one who abstains from killing living beings thereby acts with compassion. ([Location 243](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=243))
+    - Tags: [[blue]] 
+- Refraining from theft, for example, can certainly be considered compassionate activity, just as refraining from the type of sexual conduct that inflicts harm on others. ([Location 244](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=244))
+    - Tags: [[orange]] 
+- all physical activity ([Location 245](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=245))
+- that avoids the harm of others can be seen as an expression of the wish for others to be free from affliction and thus of compassion. ([Location 245](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=245))
+- Abhayarājakumāra-sutta. ([Location 247](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=247))
+    - Tags: [[orange]] 
+- types of speech the Buddha would use, ([Location 248](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=248))
+    - Tags: [[pink]] 
+- truthful? ([Location 249](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=249))
+- beneficial? ([Location 249](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=249))
+    - Tags: [[blue]] 
+- agreeable ([Location 249](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=249))
+    - Tags: [[pink]] 
+- the Buddha will at times say what is not pleasing to others. ([Location 251](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=251))
+    - Tags: [[orange]] 
+- express compassion verbally does not mean that one only says what others find pleasing and agreeable. ([Location 253](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=253))
+    - Tags: [[pink]] 
+- an effort should always be made to avoid hurting others. ([Location 253](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=253))
+    - Tags: [[orange]] 
+- evaluates a situation in the light of both short-term and long-term repercussions. ([Location 255](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=255))
+    - Tags: [[orange]] 
+- the Buddha at first wished to share his discovery of the path to liberation with his two former teachers. On finding out that they had passed away, he decided instead to teach his five former companions.13 In this way, the Buddha’s compassionate teaching activities began by disclosing the four noble truths to them. ([Location 270](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=270))
+    - Tags: [[orange]] 
+- impulse to teach others first manifests as a sense of gratitude. ([Location 273](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=273))
+    - Tags: [[orange]] 
+- compare the four noble truths to medical diagnosis.15 ([Location 280](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=280))
+    - Tags: [[orange]] 
+- disease: dukkha pathogen: craving health: Nirvāṇa cure: eightfold path ([Location 283](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=283))
+    - Tags: [[pink]] 
+- the relationship of the four noble truths to wholesome states is comparable to that of an elephant’s footprint to the footprints of other animals.16 ([Location 292](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=292))
+    - Tags: [[orange]] 
+- the four noble truths comprise all wholesome states. ([Location 295](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=295))
+    - Tags: [[orange]] 
+- Besides being an expression of the Buddha’s compassion, the four noble truths themselves also stand in a direct relationship to compassion. ([Location 296](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=296))
+    - Tags: [[pink]] 
+- compassionate activity should ideally be based on the perspective afforded by the four noble truths. ([Location 310](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=310))
+- The resulting compassionate vision sees not only the actual pain and affliction of others (first truth), but also the conditions that have led to their predicament (second truth), and the conditions that can lead out of it (fourth truth). The motivating force of compassion is the wish for others to be free from pain and affliction (third truth). This is what makes compassion become thoroughly Buddhist, namely by way of being combined with the wisdom of the four noble truths. ([Location 311](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=311))
+    - Tags: [[orange]] 
+- The connection between compassion and teaching was apparently felt to be so close and well established that a request for an instruction regularly comes accompanied by a reference to such a teaching being given “out of compassion ([Location 317](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=317))
+    - Tags: [[orange]] 
+- anukampā, which in the early discourses often functions to express compassion in action, ([Location 319](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=319))
+    - Tags: [[pink]] 
+- karuṇā is the regular choice in contexts related to the meditative practice of compassion.18 ([Location 320](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=320))
+    - Tags: [[orange]] 
+- How to teach out of pure compassion is taken up in another discourse. ([Location 327](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=327))
+    - Tags: [[orange]] 
+- One should not teach with the wish to inspire listeners so that they make offerings to oneself.21 ([Location 328](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=328))
+    - Tags: [[blue]] 
+- Instead, the proper way to teach is when one is just motivated by the wish to benefit others. ([Location 329](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=329))
+    - Tags: [[pink]] 
+- After the Buddha had dismissed a group of newly ordained and unruly monks for being too noisy, Sāriputta did not realize that it was now his duty to provide guidance to this group of monks. Instead he decided to remain uninvolved. As a consequence of his failure to take care of the monks, he had to face the Buddha’s stern rebuke.24 ([Location 336](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=336))
+    - Tags: [[pink]] 
+- providing guidance to others, ([Location 339](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=339))
+    - Tags: [[orange]] 
+- taking responsibility and reacting with compassion. ([Location 344](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=344))
+    - Tags: [[orange]] 
+- By going forth to tame oneself, one can indeed benefit many. ([Location 360](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=360))
+    - Tags: [[orange]] 
+- teaching out of compassion need not be confined to verbal instructions. ([Location 367](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=367))
+    - Tags: [[pink]] 
+- teaching by example. ([Location 368](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=368))
+    - Tags: [[pink]] 
+- “compassion for later generations” ([Location 370](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=370))
+    - Tags: [[orange]] 
+- the Buddha set an example to be emulated. ([Location 372](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=372))
+    - Tags: [[orange]] 
+- to cultivate compassion does not stand in conflict with withdrawing into meditative seclusion. ([Location 381](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=381))
+    - Tags: [[pink]] 
+- As long as one’s motivation comprises the aspiration to benefit others, regularly retreating for dedicated practice is certainly an integral part of the cultivation of compassion. ([Location 382](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=382))
+- dedicated training of the mind lays the proper foundation for being able to react with patience and compassion when interacting with others. ([Location 384](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=384))
+    - Tags: [[blue]] 
+- The more the mind is purified from defilements, the better one will be able to react compassionately and thereby truly benefit others. ([Location 385](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=385))
+    - Tags: [[orange]] 
+- If one is not tamed oneself and wishes to tame someone else who is untamed, that is impossible. [If] one is drowning oneself and wishes to rescue someone else who is drowning, that is impossible. [If] one has not extinguished one’s own [defilements] and wishes to make someone else with unextinguished [defilements] extinguish them, that is impossible... If one is tamed oneself and wishes to tame someone else who is untamed, that is certainly possible. [If] one is not drowning oneself and wishes to rescue someone else who is drowning, that is certainly possible. [If] one has extinguished one’s own [defilements] and wishes to make someone else with unextinguished [defilements] extinguish them, that is certainly possible.32 ([Location 388](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=388))
+    - Tags: [[blue]] 
+- need to build a proper foundation for compassionate activity through cultivation of one’s own mind. ([Location 395](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=395))
+    - Tags: [[orange]] 
+- First one should establish oneself, in what is proper, then advise others.34 ([Location 399](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=399))
+    - Tags: [[pink]] 
+- One should not give up one’s own welfare, ([Location 402](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=402))
+    - Tags: [[orange]] 
+- even for the sake of much welfare of others.35 ([Location 403](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=403))
+    - Tags: [[orange]] 
+- four types of persons according to whether they benefit themselves, others, neither, or both. ([Location 406](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=406))
+    - Tags: [[orange]] 
+- There are four types of persons: one person aids himself without aiding others, one person aids others without aiding himself, one person neither aids himself nor aids others, and one person aids himself and also aids others. The person who neither aids himself nor aids others is the most inferior person. [If] a person aids others without aiding himself, he is superior [to that]. If a person aids himself without aiding others, he is superior [to that]. If a person aids himself and also aids others, he is the highest; a person like this is supreme.36 ([Location 409](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=409))
+    - Tags: [[pink]] 
+- made from the perspective of cultivating the path to liberation. ([Location 419](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=419))
+    - Tags: [[orange]] 
+- it is indeed important that one does not neglect first establishing oneself in what one recommends to others. ([Location 420](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=420))
+- one’s verbal teaching will be grounded in one’s own practice and will be complemented by teaching undertaken by way of example. ([Location 421](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=421))
+    - Tags: [[pink]] 
+- carefully maintained balance between concern for others and purifying oneself. ([Location 423](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=423))
+    - Tags: [[orange]] 
+- two acrobats ([Location 423](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=423))
+    - Tags: [[pink]] 
+- establish their own balance as a basis for being able to take care of each other. ([Location 424](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=424))
+- Practice done in a retreat setting turns into compassionate activity through the transforming power of one’s aspiration to pursue awakening for one’s own benefit and for the benefit of others. ([Location 426](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=426))
+- meditative cultivation of compassion, ([Location 432](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=432))
+    - Tags: [[orange]] 
+- “liberation of the mind” ([Location 440](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=440))
+    - Tags: [[orange]] 
+- different types of liberation, ([Location 443](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=443))
+    - Tags: [[pink]] 
+- compassion contributes to, but is not in itself, final liberation.44 ([Location 445](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=445))
+    - Tags: [[orange]] 
+- A learned noble disciple leaves behind unwholesome bodily deeds and develops wholesome bodily deeds, leaves behind unwholesome verbal and mental deeds and develops wholesome verbal and mental deeds.45 Being endowed with diligence and virtue in this way, having accomplished purity of bodily deeds and purity of verbal and mental deeds, being free from ill will and contention, discarding sloth-and-torpor, being without restlessness or conceit, removing doubt and overcoming arrogance, with right mindfulness and right comprehension, being without bewilderment, the learned noble disciple dwells having pervaded one direction with a mind imbued with compassion, and in the same way the second, third, and fourth directions, the four intermediate directions, above and below, completely and everywhere.46 Being without mental shackles, resentment, ill will, or contention, with a mind imbued with compassion that is supremely vast and great, boundless and well developed, [the learned noble disciple] dwells having pervaded the entire world. Then [the learned noble disciple] reflects like this: “Formerly my mind was narrow and not well developed; now my mind has become boundless and well developed.”47 ([Location 448](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=448))
+- a firm ethical basis is an indispensable foundation for successful meditative culture of the mind. ([Location 461](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=461))
+    - Tags: [[orange]] 
+- overcoming of various mental hindrances ([Location 462](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=462))
+    - Tags: [[pink]] 
+- impediments for successful mental culture. ([Location 463](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=463))
+    - Tags: [[pink]] 
+- kasiṇa ([Location 468](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=468))
+    - Tags: [[pink]] 
+- where a particular meditative object like earth, for example, comes to encompass the “totality” of one’s experience.49 ([Location 468](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=468))
+    - Tags: [[pink]] 
+- the mind, which formerly was narrow, has become boundless through meditative radiation. ([Location 470](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=470))
+    - Tags: [[pink]] 
+- “boundless” ([Location 472](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=472))
+    - Tags: [[pink]] 
+- “immeasurable”, ([Location 472](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=472))
+    - Tags: [[pink]] 
+- appamāṇa. ([Location 473](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=473))
+    - Tags: [[orange]] 
+- heavenly abode, ([Location 475](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=475))
+    - Tags: [[pink]] 
+- vihāra. ([Location 475](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=475))
+    - Tags: [[orange]] 
+- simile ([Location 483](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=483))
+    - Tags: [[orange]] 
+- conch-blower whose sound is heard in all four directions. ([Location 483](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=483))
+    - Tags: [[pink]] 
+- lacks any reference to an object. ([Location 491](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=491))
+    - Tags: [[orange]] 
+- With a mind of compassion one pervades one direction, being naturally delighted, and the second direction, the third direction, the fourth direction, as well as the four intermediate [directions], above and below, in every [place], completely and everywhere in the whole world, with a mind that is boundless and unlimited, that cannot be calculated, that is without aversion or anger and naturally at ease. Being pervaded within by this mind of compassion one has gained gladness and joy, and the mind has become straight.53 ([Location 494](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=494))
+    - Tags: [[blue]] 
+- being delighted and to gaining gladness and joy, as a result of which the mind becomes straight. ([Location 499](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=499))
+    - Tags: [[orange]] 
+- The reference to gladness and joy confirms a point made above, in that the meditative cultivation of compassion requires avoiding that the mind succumb to sadness. ([Location 500](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=500))
+- Instead of mentally commiserating with instances of suffering and affliction, at the heart of compassion stand the wish and aspiration for others to be free from suffering and affliction. Such a wish can and should be free from sadness and grief. ([Location 501](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=501))
+    - Tags: [[pink]] 
+- This stands in contrast to the mode of practice recommended in the Visuddhimagga for the meditative cultivation of the brahmavihāras, which explicitly takes actual persons as its object.55 ([Location 507](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=507))
+    - Tags: [[orange]] 
+- the meditative cultivation of compassion to be undertaken for this purpose takes the form of a boundless radiation that does not depend on a personified object. ([Location 515](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=515))
+    - Tags: [[pink]] 
+- An approach that takes various individual persons as the object of practice can also be found in the Abhidharmakośabhāṣya. This work recommends such a form of practice when the mind is in a defiled condition and one is unable to practise the boundless radiation.56 ([Location 516](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=516))
+    - Tags: [[orange]] 
+- can have its ([Location 524](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=524))
+    - Tags: [[pink]] 
+- proper place in the initial stages of meditation practice. ([Location 524](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=524))
+    - Tags: [[pink]] 
+- also be helpful when one’s mind is in a defiled condition, ([Location 524](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=524))
+    - Tags: [[orange]] 
+- COMPASSION CONTEXTUALIZED ([Location 773](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=773))
+    - Tags: [[orange]] 
+- The first of the four brahmavihāras is mettā, ([Location 781](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=781))
+    - Tags: [[orange]] 
+- “loving-kindness”, ([Location 782](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=782))
+    - Tags: [[orange]] 
+- “benevolence”. ([Location 782](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=782))
+    - Tags: [[orange]] 
+- “friend”, ([Location 783](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=783))
+    - Tags: [[orange]] 
+- conveys a basic sense of friendliness and an attitude of friendship, as well as nuances of mutual benefit and assistance.2 ([Location 783](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=783))
+    - Tags: [[orange]] 
+- Just as a mother who has an only son would protect her own son with her life, so one should cultivate a boundless mind towards all living beings.6 ([Location 790](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=790))
+- protection. ([Location 793](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=793))
+    - Tags: [[orange]] 
+- The providing and receiving of protection is in fact a recurrent aspect in the conception of mettā in the early discourses. ([Location 793](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=793))
+    - Tags: [[orange]] 
+- The simile in the Metta-sutta encourages the cultivation of an attitude of protection towards others, ([Location 796](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=796))
+    - Tags: [[orange]] 
+- attachment, ([Location 798](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=798))
+    - Tags: [[orange]] 
+- One who has truly cultivated mettā will be able to remain established in this mental attitude even when having to face difficult people and situations. ([Location 813](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=813))
+- The cultivation of compassion will be greatly facilitated by such building of a foundation through kindness in one’s activities, the way one communicates, and most importantly one’s mental attitude. ([Location 816](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=816))
+    - Tags: [[orange]] 
+- harmonious living together of a group of three monks. ([Location 826](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=826))
+    - Tags: [[pink]] 
+- Blessed One, I think to myself: “It is well gained by me, it is a great blessing, that is, to have such companions with me practising the holy life together.” Blessed One, I constantly practise towards these companions in the holy life bodily deeds of mettā, whether seen or unseen, equally and without difference. I practise [towards them] verbal deeds of mettā ... I practise [towards them] mental deeds of mettā, whether seen or unseen, equally and without difference. Blessed One, I think to myself: “Let me now set aside my own mental [attitude] (citta) and follow the mental [attitude] of those venerable friends.” Then I set aside my own mental [attitude] and follow the mental [attitude] of those venerable friends. I never harbour a single disapproving mental [attitude]. Blessed One, in this way I am always at ease and lack nothing.15 ([Location 858](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=858))
+    - Tags: [[blue]] 
+- blending like milk and water. ([Location 866](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=866))
+    - Tags: [[pink]] 
+- The example set in this way suggests the possibility of making it a regular practice to recollect the benefit one derives from those with whom one is close, even consciously rejoicing in being able to associate with them. Only too easily one takes for granted what others do for oneself. Making an effort to counter such a tendency can become a helpful asset in one’s cultivation of compassion and kindness. ([Location 869](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=869))
+    - Tags: [[orange]] 
+- Rooted in a mind steeped in mettā, any outer expression of mettā is sufficient unto itself, even if nobody takes notice. ([Location 875](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=875))
+- Another significant indication is that such conduct requires the willingness to let go of one’s own preferences. One learns to be willing to go along with what others prefer. ([Location 876](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=876))
+    - Tags: [[pink]] 
+- To be at ease and lack nothing comes about precisely through letting go of wanting to have things one’s own way. ([Location 879](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=879))
+    - Tags: [[orange]] 
+- An attitude of mettā is also the best way to proceed when one has to reprimand another, which should not be done with an angry mind.19 ([Location 917](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=917))
+    - Tags: [[pink]] 
+- Conversely, when one is being criticized, whether the criticism is justified or not, an attitude of mettā will be equally beneficial. ([Location 920](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=920))
+    - Tags: [[orange]] 
+- A discourse in the Aṅguttara-nikāya and its Madhyama-āgama parallel point out that those who become angry thereby come to be of ugly appearance, however much they are well washed and anointed.21 The relationship highlighted in this way between anger and ugliness can easily be verified in one’s own experience. When someone flies into a rage, this definitely does not make him or her look particularly beautiful. ([Location 927](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=927))
+- A tendency to become angry also leads to being reborn ugly.22 ([Location 933](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=933))
+    - Tags: [[blue]] 
+- A mind well cultivated in mettā is supreme in beauty.23 ([Location 940](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=940))
+    - Tags: [[blue]] 
+- Sympathetic joy, muditā, etymologically speaking stands in a close relationship to terms like pāmojja, “delight”, and anumodana, “rejoicing”. ([Location 953](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=953))
+    - Tags: [[orange]] 
+- From a practical perspective there is considerable overlap between these different nuances or manifestations of wholesome joy. ([Location 954](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=954))
+- monks listened to Sāriputta with sympathetic joy. ([Location 961](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=961))
+    - Tags: [[orange]] 
+- dwell in harmony, ([Location 965](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=965))
+    - Tags: [[orange]] 
+- without quarrelling, ([Location 966](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=966))
+    - Tags: [[orange]] 
+- looking at each other with kindly eyes, ([Location 966](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=966))
+    - Tags: [[orange]] 
+- Being delighted [in this way] joy arises. ([Location 967](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=967))
+    - Tags: [[orange]] 
+- For one whose mind is joyful, the body becomes tranquil. One whose body is tranquil feels happiness. The mind of one who is happy becomes concentrated.26 ([Location 968](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=968))
+    - Tags: [[orange]] 
+- joy leads via tranquillity and happiness to concentration. ([Location 977](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=977))
+    - Tags: [[orange]] 
+- cultivation of the awakening factors, ([Location 977](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=977))
+    - Tags: [[orange]] 
+- sympathetic joy to be the opposite of envy and jealousy. ([Location 988](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=988))
+    - Tags: [[orange]] 
+- the early discourses explicitly set sympathetic joy in contrast to discontent (arati). ([Location 991](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=991))
+    - Tags: [[orange]] 
+- which one who has cultivated the liberation of the mind by sympathetic joy will no longer be overwhelmed by discontent. ([Location 992](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=992))
+    - Tags: [[orange]] 
+- The term thus conveys an awareness of whatever is happening combined with mental balance and the absence of favouring or opposing. ([Location 1001](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1001))
+- can appear particularly problematic when compassion is cultivated in the form of a bodhisattva’s wish to liberate others. ([Location 1005](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1005))
+- how such an aspiration could lead to an attitude of equanimity towards others. ([Location 1006](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1006))
+    - Tags: [[orange]] 
+- reinterpretation ([Location 1008](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1008))
+    - Tags: [[orange]] 
+- brahmavihāra of equanimity is defined as the intention to liberate living beings from their defilements.30 ([Location 1009](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1009))
+    - Tags: [[blue]] 
+- compassion takes as its object living beings who are suffering, sympathetic joy is concerned with living beings who are happy, and mettā applies to living beings who are neither. ([Location 1011](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1011))
+    - Tags: [[pink]] 
+- those who suffer tend to aversion, those who are happy tend to passion, and those who are neither tend to ignorance. ([Location 1013](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1013))
+    - Tags: [[orange]] 
+- Equanimity then comes in as the wish for each of these three types of living beings to be free from the respective defilement. ([Location 1013](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1013))
+    - Tags: [[blue]] 
+- equanimity manifests as the aspiration that those for whom one has compassion become free from aversion, those for whom one has sympathetic joy become free from passion, and those for whom one has mettā become free from ignorance. ([Location 1014](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1014))
+- not be an expression of the fourth brahmavihāra of equanimity. ([Location 1018](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1018))
+    - Tags: [[orange]] 
+- preliminary exercise, ([Location 1019](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1019))
+    - Tags: [[pink]] 
+- basis for being able to cultivate the other brahmavihāras. ([Location 1020](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1020))
+    - Tags: [[orange]] 
+- equanimity can function as a skilful means in a situation where one is struggling with a defiled condition of the mind. ([Location 1024](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1024))
+- such skilful means need not be the sole mode of engaging in the practice of equanimity. ([Location 1024](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1024))
+    - Tags: [[blue]] 
+- a preliminary aid ([Location 1026](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1026))
+    - Tags: [[orange]] 
+- embraces all four, ([Location 1027](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1027))
+- including equanimity as the culmination point of brahmavihāra meditation. ([Location 1027](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1027))
+    - Tags: [[orange]] 
+- does not mean that equanimity replaces the others; ([Location 1028](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1028))
+    - Tags: [[pink]] 
+- one who cultivates the brahmavihāras continues to dwell in all four. ([Location 1029](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1029))
+    - Tags: [[orange]] 
+- compassion can result in, or mature as, equanimity. ([Location 1030](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1030))
+    - Tags: [[blue]] 
+- mental equipoise that rounds off a systematic opening of the heart ([Location 1031](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1031))
+    - Tags: [[orange]] 
+- cultivation of the other three divine abodes. ([Location 1032](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1032))
+- only one should be developed, whereas the other should be avoided.33 ([Location 1033](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1033))
+    - Tags: [[orange]] 
+- equanimity needs to be cultivated in such a way that it enhances and complements the other divine abodes, ([Location 1035](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1035))
+    - Tags: [[orange]] 
+- The importance of avoiding mere indifference ([Location 1037](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1037))
+    - Tags: [[orange]] 
+- Someone teaching the Dharma engages in the most prominent expression of compassion in the early discourses. ([Location 1040](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1040))
+    - Tags: [[orange]] 
+- The reaction of the audience to teachings can then take the form of sympathetic joy. ([Location 1040](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1040))
+- At times a teacher has to face disciples who not only lack sympathetic joy, but are even in part or wholly inattentive. ([Location 1041](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1041))
+    - Tags: [[orange]] 
+- Buddha would dwell in equanimity.35 ([Location 1044](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1044))
+    - Tags: [[blue]] 
+- the Buddha offers him an alternative way of conduct that strikes a compromise between the rule and the monk’s apprehensions about getting sufficient food. ([Location 1048](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1048))
+    - Tags: [[pink]] 
+- even for the Buddha, equanimity could at times be the appropriate attitude. ([Location 1055](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1055))
+    - Tags: [[orange]] 
+- When compassionate activity meets with a careless or cold response, then perhaps the time has come to move on to equanimity. ([Location 1056](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1056))
+- one allows others to take responsibility for their own actions and attitudes. ([Location 1058](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1058))
+    - Tags: [[blue]] 
+- The discourse features a Brahmin pouring insults on the Buddha. In reply, the Buddha calmly asks the Brahmin what would happen to food offered to visitors who do not accept it. The Brahmin replies that such food remains his own property. In the same way, the Buddha comments, he does not accept the Brahmin’s abuse, so this abuse remains the Brahmin’s own property.41 ([Location 1067](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1067))
+    - Tags: [[orange]] 
+- When one’s own equanimity is lost, one easily takes possession of anything insulting, making it one’s own. Instead of making any insult one’s own, it is better to remain with equanimity in the face of someone else’s anger. ([Location 1070](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1070))
+    - Tags: [[orange]] 
+- Just as a solid rock is not shaken by the wind, so the wise are not shaken by blame and praise.42 ([Location 1074](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1074))
+    - Tags: [[blue]] 
+- “it could be much worse”, providing a support for maintaining equanimity. ([Location 1089](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1089))
+    - Tags: [[blue]] 
+- 1, the basic thrust of compassion is the wish for others to be free from affliction. ([Location 1091](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1091))
+    - Tags: [[orange]] 
+- By having as its object those who are afflicted, compassion will often be concerned with those who are less well off than oneself. ([Location 1092](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1092))
+- The same orientation towards those in an inferior position can recur when compassionate activity finds its standard expression in teaching activities. ([Location 1093](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1093))
+    - Tags: [[blue]] 
+- is one of treating everyone equally as one’s friend. ([Location 1100](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1100))
+- It can also function as the appropriate attitude when one is faced with various forms of aggression. ([Location 1102](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1102))
+- Sympathetic joy also ensures that, after what is negative has received due attention during the cultivation of compassion, what is positive will equally be taken into account. ([Location 1106](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1106))
+    - Tags: [[blue]] 
+- equanimity rounds off the cultivation of compassion by freeing it from any trace of compulsion and obsession. ([Location 1111](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1111))
+    - Tags: [[orange]] 
+- The Buddha disagreed, explaining that one should praise and criticize others when this is appropriate. ([Location 1271](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1271))
+    - Tags: [[orange]] 
+- The need for equanimity when one is unable to establish another in wholesome conduct is mentioned explicitly in MN 103 at MN II 242,11 (translated Ñāṇamoli 1995: 851), a discourse of which no parallel seems to be known. ([Location 1287](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1287))
+    - Tags: [[orange]] 
+- MATURING COMPASSION ([Location 1318](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1318))
+    - Tags: [[orange]] 
+- the benefits that come from maturing compassion and the other divine abodes. ([Location 1318](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1318))
+    - Tags: [[orange]] 
+    - Note: Maturing being when the cultivation has results in our being & presence, actions and attitudes.
+- fruits to be expected from the cultivation of the four brahmavihāras, which range from mundane advantages to the gaining of liberating insight. ([Location 1319](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1319))
+- parallel, to cultivate the mental attitude of mettā even for a short while is superior to making offerings to hundreds of recipients three times a day. ([Location 1324](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1324))
+    - Tags: [[orange]] 
+- acquisition of merit through generosity. ([Location 1326](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1326))
+- Superior to offering food to a hundred stream-enterers, [to offering food to] a hundred once-returners, [to offering food to] a hundred non-returners, [to offering food to] a hundred arahants, [to offering food to] a hundred paccekabuddhas, to constructing a monastery and giving it to the monastic community of the four directions, to taking refuge with a joyful mind in the triple gem – the Buddha, the Dharma, and the Saṅgha – and accepting the precepts, would it be if one were to dwell with a mental [attitude] of mettā towards all living beings just for the brief time it takes to milk a cow.3 ([Location 1340](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1340))
+    - Tags: [[orange]] 
+- What are the eleven? One sleeps peacefully (1), one wakes up peacefully (2), one does not encounter bad dreams (3), heavenly beings protect one (4), human beings love one (5), one is respected by non-human beings (6), one will not be harmed by poison (7), by weapons (8), by water or fire (9), nor be subjected to torturing (10), and with the breaking up of the body at death one will be reborn in a god realm, in a Brahmā heaven (11). ([Location 1352](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1352))
+- quickly attain all wholesome states and with wisdom one will be able to proceed to the eradication of the influxes. ([Location 1356](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1356))
+    - Tags: [[blue]] 
+- positive repercussions on one’s sleep, waking up, and dreams ([Location 1361](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1361))
+    - Tags: [[orange]] 
+- improve one’s relationships, ([Location 1363](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1363))
+    - Tags: [[orange]] 
+- ability to concentrate quickly, ([Location 1370](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1370))
+    - Tags: [[pink]] 
+- have a serene facial complexion, ([Location 1370](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1370))
+    - Tags: [[orange]] 
+- to pass away without being confused. ([Location 1371](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1371))
+- boundless radiation of the brahmavihāras clearly points to a concentrated mind, ([Location 1384](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1384))
+    - Tags: [[orange]] 
+- this is not the case. ([Location 1386](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1386))
+    - Tags: [[orange]] 
+- Without previous meditative proficiency, however, in his severely critical health condition on his deathbed it would have been impossible for him to learn how to enter absorption attainment through instructions that apparently he had not received before. ([Location 1409](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1409))
+    - Tags: [[pink]] 
+- the radiation of the brahmavihāras can be undertaken successfully even by someone who is not in a condition to enter absorption. ([Location 1413](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1413))
+    - Tags: [[orange]] 
+- A temporary liberation of the mind that has “become great” takes place when one is able to pervade mentally a certain area, such as the area of a few trees, or a village, or even a country, with the object of one’s meditation. ([Location 1422](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1422))
+    - Tags: [[orange]] 
+- A temporary liberation of the mind that has become “boundless”, however, comes about through the radiation of the brahmavihāras in all directions. ([Location 1423](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1423))
+- So the mental pervasion with the brahmavihāras is a boundless experience that is indeed without measure in any way.14 ([Location 1428](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1428))
+- liberation of the mind ([Location 1459](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1459))
+- Understood in this way, the brahmavihāras offer a distinct advantage over other forms of tranquillity meditation. ([Location 1462](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1462))
+    - Tags: [[orange]] 
+- For actual meditation practice this is significant, as it may help to avoid much of the pressure that can at times come with the practice of mental tranquillity. ([Location 1465](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1465))
+    - Tags: [[orange]] 
+- The belief that one has to reach a certain level of concentration through successful attainment of absorption in order to be capable of progressing on the path can for some practitioners have detrimental repercussions. ([Location 1466](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1466))
+- Here the cultivation of the brahmavihāras as a boundless radiation offers a skilful approach that avoids such problems. ([Location 1469](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1469))
+    - Tags: [[orange]] 
+- The mental experience of boundlessness is by its very nature free from any strain or tension and thereby offers a natural way into deepening mental tranquillity. ([Location 1470](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1470))
+    - Tags: [[blue]] 
+- the very fact that one is engaging in compassion etc. makes it almost inevitable that one will be soft with oneself instead of pushing too hard. ([Location 1471](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1471))
+- by the brahmavihāras will also be of considerable assistance when one has to face external disturbances. ([Location 1473](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1473))
+    - Tags: [[blue]] 
+- external sounds and other disturbances, meditation can continue smoothly. ([Location 1475](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1475))
+    - Tags: [[pink]] 
+- compassion informs one’s attitude towards the disturbance or those responsible for it. ([Location 1476](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1476))
+    - Tags: [[orange]] 
+- Any disturbance, including any form of mental distraction, thus simply becomes food for the practice. ([Location 1480](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1480))
+    - Tags: [[blue]] 
+- 21 The cultivation of the brahmavihāras up to absorption level can then fulfil the training in mental tranquillity that in early Buddhist thought forms an integral part of the path to liberation. ([Location 1483](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1483))
+    - Tags: [[pink]] 
+- “Formerly my mind was narrow and not well developed; now my mind has become boundless and well developed.” When the mind of the learned noble disciple has in this way become boundless and well developed, if because of [associating with] bad friends one formerly dwelled in negligence and performed unwholesome deeds, those [deeds] cannot lead one along, cannot defile one, and will not come back to meet one.22 ([Location 1493](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1493))
+- Karma ([Location 1500](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1500))
+    - Tags: [[blue]] 
+- closely related to intention, ([Location 1500](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1500))
+- since intention is what is responsible for deeds by body, speech, and mind. ([Location 1500](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1500))
+    - Tags: [[orange]] 
+- What has been done in the past will in some way come to fruition, but the way this happens depends on what one does now. ([Location 1502](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1502))
+- the present repercussions of a particular deed from the past depend to a great extent on the overall current condition of the one who performed this deed previously. ([Location 1508](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1508))
+    - Tags: [[orange]] 
+- Aṅgulimāla. ([Location 1510](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1510))
+    - Tags: [[orange]] 
+- The Aṅgulimāla-sutta and its parallels report that the serial killer Aṅgulimāla was converted by the Buddha, gave up his bloody deeds, and went forth as a monk. In due course, he became an arahant.26 This remarkable turn of events shows that in early Buddhist thought even a mass murderer was held to stand a chance at total transformation, so much so that he could reach the acme of spiritual perfection. ([Location 1511](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1511))
+    - Tags: [[pink]] 
+- no limiting action can remain. ([Location 1523](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1523))
+    - Tags: [[blue]] 
+- In practical terms, when unwholesome thoughts arise and distract the mind, these can be made to vanish by just returning to the boundless condition of the mind. ([Location 1527](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1527))
+    - Tags: [[orange]] 
+- Regular mental inspection can confirm that unwholesome intentions require some degree of mental narrowness to thrive. ([Location 1528](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1528))
+    - Tags: [[pink]] 
+- Just as space does not afford a material basis for painting, so too aversion has simply no basis to remain in a mind that is well established in cultivating the brahmavihāras as a boundless radiation. ([Location 1541](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1541))
+    - Tags: [[orange]] 
+- cultivation of each brahmavihāra in this way leads to non-return for those who have not penetrated the highest liberation. ([Location 1550](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1550))
+- no hard and fast rule that either tranquillity or else insight must be practised first. ([Location 1566](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1566))
+    - Tags: [[orange]] 
+- in the sense of proposing that either tranquillity or insight could lead on its own to liberation. ([Location 1570](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1570))
+    - Tags: [[pink]] 
+- Instead, tranquillity and insight need to be combined, in one way or another, in order to mature the mind sufficiently so that progress to full awakening can take place. ([Location 1571](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1571))
+    - Tags: [[orange]] 
+- A forest monk should cultivate two dharmas. ([Location 1576](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1576))
+- tranquillity and insight. ([Location 1577](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1577))
+- the influx ([Location 1581](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1581))
+    - Tags: [[pink]] 
+- that through tranquillity the mind is developed and lust is abandoned; through insight wisdom is developed and ignorance is abandoned. ([Location 1586](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1586))
+    - Tags: [[orange]] 
+- The important contribution made by tranquillity here is that it brings about a change in the attitudes of the mind, by providing it with a higher form of pleasure and inner satisfaction. ([Location 1594](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1594))
+    - Tags: [[orange]] 
+- The contribution offered by tranquillity in this way does not stand on its own, however; in fact both passages make it clear that the factor that eradicates ignorance and leads to final liberation is insight. ([Location 1597](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1597))
+    - Tags: [[pink]] 
+- The advantage that compassion or the other brahmavihāras have to offer is that the mental attitude they engender is opposed to mental defilements whose removal and eradication is integral to the path to awakening. ([Location 1617](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1617))
+    - Tags: [[orange]] 
+- A discourse in the Dīgha-nikāya and its Dīrgha-āgama parallel reckon the four absorptions as instances of a practitioner’s “happiness”, and the brahmavihāras as instances of a practitioner’s “wealth”.39 The subtle distinction drawn in these two discourses shows that cultivation of compassion and the other brahmavihāras is not only a cause of happiness, but also results in an acquisition ([Location 1623](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1623))
+- of a mental condition that is comparable to wealth. ([Location 1627](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1627))
+- In addition to transforming one’s own mind, the practice of compassion also has positive effects on others. ([Location 1637](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1637))
+    - Tags: [[blue]] [[favorite]] 
+- When seen from the viewpoint of the eightfold path, the meditative cultivation of compassion can become a direct expression of harmlessness as one of the three modes of right intention, the second factor of the noble eightfold path. ([Location 1640](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1640))
+    - Tags: [[orange]] 
+- implementation of right effort, ([Location 1643](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1643))
+    - Tags: [[orange]] 
+- successful practice can come to fulfil the path factor of right concentration. ([Location 1643](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1643))
+    - Tags: [[orange]] 
+- • mindfulness, • investigation-of-dharmas, • energy, • joy, • tranquillity, • concentration, • equanimity. ([Location 1672](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1672))
+    - Tags: [[pink]] 
+- sequential build-up, ([Location 1682](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1682))
+    - Tags: [[orange]] 
+- some awakening factors are commendable when the mind is sluggish, others when the mind is agitated. ([Location 1684](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1684))
+- In the first case, when the mind is sluggish, one should strengthen in particular investigation, energy, and joy. When the mind is agitated, however, one should rather make tranquillity, concentration, and equanimity stronger. In both situations, mindfulness is equally helpful.46 ([Location 1684](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1684))
+    - Tags: [[orange]] 
+- Once the awakening factors are cultivated in this way and brought into harmonious balance, actual practice can lead to awakening on being combined with four insight-related themes. These are mentioned in the extract translated above, namely seclusion, dispassion, cessation, and letting go.47 ([Location 1687](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1687))
+    - Tags: [[orange]] 
+- Practice undertaken in this way offers a possibility to progress on the path to awakening based on having made compassion the main vehicle of one’s meditative cultivation. ([Location 1689](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1689))
+- A discourse in the Saṃyutta-nikāya that also combines the brahmavihāras with the awakening factors brings in an additional perspective that relates to the immaterial spheres. ([Location 1694](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1694))
+- The context for this presentation is to show in what way the Buddhist approach to the brahmavihāras differs from the way the practice of the divine abodes was undertaken by contemporaries in ancient India. ([Location 1697](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1697))
+- One such difference is that a Buddhist practitioner skilled in the brahmavihāras knows what constitutes the culmination point of each. ([Location 1698](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1698))
+    - Tags: [[blue]] 
+- the culmination point of mettā, which is found in mental beauty. ([Location 1700](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1700))
+    - Tags: [[blue]] 
+- Cultivating the mental [attitude] of compassion, much cultivating it, has the sphere of [infinite] space as its culmination. Cultivating the mental [attitude] of sympathetic joy, much cultivating it, has the sphere of [infinite] consciousness as its culmination. Cultivating the mental [attitude] of equanimity, much cultivating it, has the sphere of nothingness as its culmination.49 ([Location 1703](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1703))
+    - Tags: [[orange]] 
+- each case to speak of these immaterial spheres as the culmination holds for one who has not penetrated to a superior liberation.50 ([Location 1708](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1708))
+    - Tags: [[pink]] 
+- these three immaterial spheres are the culmination point of the three brahmavihāras within the realm of mental tranquillity. ([Location 1709](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1709))
+    - Tags: [[blue]] 
+- The experiences of infinite space, infinite consciousness, and nothingness share the boundless nature of the radiation of the divine abodes. ([Location 1711](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1711))
+- holding on to a sense of self. ([Location 1713](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1713))
+    - Tags: [[orange]] 
+- going beyond a sense of self requires the cultivation of liberating insight, ([Location 1713](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1713))
+    - Tags: [[orange]] 
+- perspective the attainment of an immaterial sphere does not suffice to settle the issue of the sense of self, ([Location 1718](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1718))
+- such attainment does have some potential to undermine at least the grosser manifestations of this sense of self in the form of clinging to one’s body, physical possessions, etc. ([Location 1718](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1718))
+    - Tags: [[blue]] 
+- the brahmavihāras, which are similarly able to diminish major forms of self-centredness through the experience of the boundless radiation of a mental attitude that wishes others to be well. ([Location 1720](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1720))
+    - Tags: [[orange]] 
+- Here I would understand seclusion as referring in particular to seclusion from anything that is unwholesome. Dispassion I take to point to the gradual eroding and fading away of craving and attachment. Cessation I consider to reflect a focus on the disappearing aspect of phenomena, thereby bringing to the mental forefront the most challenging implication of impermanence. These three together culminate in a profound letting go, which I see as standing for a relinquishment of any identification or holding on, any clinging or craving, whatever it may be. ([Location 1919](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1919))
+    - Tags: [[orange]] 
+- shifts from compassion to emptiness. ([Location 1956](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1956))
+    - Tags: [[pink]] 
+- “empty” ([Location 1957](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1957))
+    - Tags: [[orange]] 
+- gradual meditative entry into emptiness ([Location 1958](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1958))
+- noun “emptiness” occurs only rarely in the early discourses, ([Location 1961](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1961))
+    - Tags: [[pink]] 
+- often use the adjective “empty” instead. ([Location 1961](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1961))
+    - Tags: [[orange]] 
+- discourages hypostasizing emptiness as a sort of entity and instead directs attention to the quality of being empty. ([Location 1962](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1962))
+- “empty place”. ([Location 1963](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1963))
+    - Tags: [[blue]] 
+- empty of people and other potential disturbances and distractions, ([Location 1964](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1964))
+    - Tags: [[blue]] 
+- conducive to meditative seclusion.1 ([Location 1964](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1964))
+    - Tags: [[blue]] 
+- empty of people ([Location 1965](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1965))
+- The six enemies stand for lustful cravings ([Location 1968](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1968))
+    - Tags: [[orange]] 
+- The empty village stands for the six internal sense-spheres. ([Location 1968](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1968))
+    - Tags: [[orange]] 
+- the eye sense-sphere, the ear sense-sphere, the nose sense-sphere, the mouth sense-sphere, the body sense-sphere, and the mind sense-sphere. ([Location 1969](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1969))
+- If a wise one contemplates the eye, then at that time it appears completely empty, with nothing [essential] in it and without stability. Again, if such a one contemplates the ear ... the nose ... the mouth ... the body ... the mind, then at that time it appears completely empty, with nothing [essential] in it, all void, all quiescent, and without stability.2 ([Location 1970](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1970))
+    - Tags: [[blue]] 
+- one will find to one’s dismay that these are empty and insubstantial, that they are unable to offer real and lasting relief. ([Location 1974](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1974))
+    - Tags: [[orange]] 
+- lack of any real assistance ([Location 1975](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1975))
+    - Tags: [[orange]] 
+    - Note: Can't really rely on them for support. They just bring more raw data.
+- Even if one tries to hide somewhere in the empty village, chances are that sooner or later one will be caught by them. ([Location 1976](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1976))
+    - Tags: [[pink]] 
+- the senses can only offer momentary relief, ([Location 1977](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1977))
+    - Tags: [[orange]] 
+- does not result in a real and lasting solution. ([Location 1978](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1978))
+- A real solution can be found only by once and for all getting rid of the six enemies, that is,… ([Location 1978](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1978))
+    - Tags: [[pink]] 
+- This can be achieved by fully realizing the empty nature of… ([Location 1979](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1979))
+    - Tags: [[orange]] 
+- empty nature of the six… ([Location 1979](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1979))
+    - Tags: [[blue]] 
+- entire world is… ([Location 1980](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1980))
+- The eye is empty; it is empty of being permanent, of being perpetual, and of having an unchanging nature, and it is empty of what belongs to a self. Why is that? That is its intrinsic nature. Forms ... eye-consciousness ... eye-contact ... feeling arisen in dependence on eye-contact that is painful, pleasant, or neutral, is also empty; it is empty of being permanent, of being perpetual, and of having an unchanging nature, and it is empty of what belongs to a self. Why is that? That is its intrinsic nature. The ear ...… ([Location 1982](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1982))
+    - Tags: [[orange]] 
+- empty of a self and of anything that could… ([Location 1988](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1988))
+    - Tags: [[orange]] 
+- the qualification of being empty of a self applies… ([Location 1989](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1989))
+- Once the six senses and their objects etc. are mentioned, there is no scope left for anything to… ([Location 1989](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1989))
+    - Tags: [[pink]] 
+- all things, all phenomena, all aspects of experience, without any exception, are empty of a self and of anything… ([Location 1991](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1991))
+    - Tags: [[blue]] 
+- doctrinal equivalent to emptiness, namely the… ([Location 1993](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1993))
+    - Tags: [[pink]] 
+- All phenomena are… ([Location 1995](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1995))
+    - Tags: [[blue]] 
+- “all… ([Location 1997](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1997))
+    - Tags: [[orange]] 
+- “all… ([Location 1997](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1997))
+    - Tags: [[orange]] 
+- This makes it clear that the choice of the expression “phenomena” here is intentional: it serves to signal the comprehensive scope of the not-self teaching… ([Location 1998](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1998))
+- comprehensive scope of the not-self teaching, which does not admit… ([Location 1999](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=1999))
+    - Tags: [[orange]] 
+- series of… ([Location 2000](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2000))
+- five… ([Location 2000](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2000))
+    - Tags: [[orange]] 
+- It is just as a drifting collection of foam, following… ([Location 2003](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2003))
+    - Tags: [[blue]] 
+- the river Gaṅges, which a clear-sighted person carefully examines, [attends to], and analyses. When carefully examining, [attending to], and analysing it, [the clear-sighted person finds that] there is nothing in it, nothing stable, nothing substantial, it has no solidity. Why is that… ([Location 2004](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2004))
+    - Tags: [[blue]] 
+- foam. ([Location 2007](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2007))
+    - Tags: [[blue]] 
+- there is nothing solid or substantial in… ([Location 2010](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2010))
+    - Tags: [[orange]] 
+- water… ([Location 2014](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2014))
+    - Tags: [[orange]] 
+- In the same way ... one carefully examines, attends to, and analyses whatever feeling, past, future, or present, internal or external, gross or subtle, sublime or repugnant, far or near. When carefully examining, attending to, and analysing it ... [one finds that] there is nothing in it, nothing stable, nothing substantial, it has no solidity; it is like a disease, like a carbuncle, like a thorn, like a killer, it is impermanent… ([Location 2015](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2015))
+- shimmering… ([Location 2020](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2020))
+    - Tags: [[blue]] 
+- In the same way ... one carefully examines, attends to, and analyses whatever perception, past, future, or present, internal or external, gross or subtle, sublime or repugnant, far or near. When carefully examining, attending to, and analysing it ... [one finds that] there is nothing in it, nothing stable, nothing substantial, it… ([Location 2022](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2022))
+    - Tags: [[orange]] 
+- it is impermanent, dukkha, empty, and not-self. Why is that? It is because there is… ([Location 2025](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2025))
+    - Tags: [[orange]] 
+- perception... ([Location 2026](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2026))
+    - Tags: [[blue]] 
+- plantain tree. ([Location 2031](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2031))
+- In the same way ... one carefully examines, attends to, and analyses whatever formations, past, future, or present, internal or external, gross or subtle, sublime or repugnant, far or near. When carefully examining, attending to, and analysing them ... [one finds that] there is nothing in them, nothing stable, nothing substantial, they have no solidity; they are like a disease, like a carbuncle, like a thorn, like a killer, they are impermanent, dukkha, empty, and not-self. Why is that? It is because there is nothing solid or substantial in formations... ([Location 2031](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2031))
+    - Tags: [[orange]] 
+- A practical implementation of these descriptions requires first of all recognizing the five aggregates within one’s own personal experience. ([Location 2044](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2044))
+    - Tags: [[blue]] 
+- material body. ([Location 2046](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2046))
+    - Tags: [[orange]] 
+- Feelings represent the affective and perception the cognitive dimensions of one’s experience, ([Location 2046](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2046))
+    - Tags: [[pink]] 
+- how and what ([Location 2046](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2046))
+- One’s reactions and will power fall under the aggregate of formations, ([Location 2047](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2047))
+    - Tags: [[pink]] 
+- the fact of experiencing, that which knows, corresponds to the aggregate of consciousness. ([Location 2047](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2047))
+- provide a basis for clinging and identification. ([Location 2049](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2049))
+    - Tags: [[blue]] 
+- This is what needs to be recognized in actual practice. ([Location 2049](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2049))
+    - Tags: [[orange]] 
+- clinging, ([Location 2050](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2050))
+    - Tags: [[pink]] 
+- Once this is recognized, the above similes can be used as aids to deconstruct the basis on which clinging, attachment, and identification thrive. ([Location 2050](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2050))
+- this body is just like foam. ([Location 2054](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2054))
+    - Tags: [[pink]] 
+- lack of solidity, ([Location 2056](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2056))
+- fragile ([Location 2056](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2056))
+    - Tags: [[orange]] 
+- easily affected by outside circumstances. ([Location 2056](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2056))
+    - Tags: [[pink]] 
+- Similarly, the apparently so durable body, providing the illusion of a stable basis for one’s sense of identity, is actually being carried away by the quickly moving current of change, every moment coming closer to its final destiny in death. ([Location 2058](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2058))
+    - Tags: [[orange]] 
+- ephemeral feelings that only too quickly pass away. ([Location 2060](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2060))
+    - Tags: [[blue]] 
+- bubbles on the water’s surface, ([Location 2061](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2061))
+- bubbles will come to an end as soon as the rain is over. ([Location 2062](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2062))
+- so feelings are merely the conditioned result of various types of stimulation through contact. ([Location 2063](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2063))
+    - Tags: [[orange]] 
+- The ability to recognize things is based on one’s accumulated knowledge and experiences, which inform perceptions. “My” perceptions as the result of “my” accumulated knowledge are easily taken to be invariably accurate reflections of the way things are. In this way perceptions can become an apparently objective basis for strongly held subjective opinions and value judgements. Yet, according to the above simile, any perception is merely a mental projection comparable to a mirage. ([Location 2065](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2065))
+    - Tags: [[orange]] 
+- Perception turns out to be as empty as the optical illusion created by the sun on a hot day. The creative ability of the sunshine of mental attention forms the basis for perceptions of seemingly real and independent solid objects out there. In reality what is perceived is just empty and conditioned processes, without any independent existence and without any solidity, coated with an overlay of subjective evaluations that the mind projects on what is perceived. ([Location 2069](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2069))
+    - Tags: [[pink]] 
+- Intention and will power, the ability to make decisions and its concomitant feeling of being in control, can be central to one’s notion of who one is and what one does. On closer inspection this turns out to lack any essence or core, comparable to a plantain tree, which has no core. ([Location 2072](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2072))
+    - Tags: [[blue]] 
+- Sheaths over sheaths of conditioning make up one’s apparently so well-informed decisions. When unrolled one after the other, no solid core is found. No real person or self stands behind intentions and the decision-making process. Just sheaths over sheaths of conditioning accumulated from the past. ([Location 2074](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2074))
+- Consciousness as what in a way provides the ground of mental experience easily tends to be appropriated as a subtle basis for the notion of a self. ([Location 2077](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2077))
+    - Tags: [[orange]] 
+- The powerful images that emerge from the above passage offer themselves as aids for contemplation of emptiness. ([Location 2083](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2083))
+    - Tags: [[orange]] 
+- Any instance of craving or attachment will in some form or another involve an obsession with the body, or a yearning for pleasure, or a holding on to one’s preconceived notions, or the expectation that things will always go the way one wants them to, or a clinging to a particular experience, or else a combination of these. ([Location 2086](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2086))
+- IV.2 A GRADUAL MEDITATIVE ENTRY INTO EMPTINESS ([Location 2093](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2093))
+    - Tags: [[orange]] 
+- Cūḷasuññata-sutta ([Location 2094](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2094))
+    - Tags: [[orange]] 
+- series of perceptions that take up the forest and the earth as objects, ([Location 2098](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2098))
+    - Tags: [[orange]] 
+- followed by the immaterial attainments, ([Location 2099](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2099))
+    - Tags: [[orange]] 
+- and then the experience of signlessness. ([Location 2099](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2099))
+    - Tags: [[orange]] 
+- Each of these perceptions becomes a stage in the gradual meditative entry into emptiness through awareness of its empty nature. ([Location 2099](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2099))
+- The increasing refinement and eventual deconstruction of perception undertaken in this way culminates in the realization of supreme emptiness with full awakening. ([Location 2100](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2100))
+    - Tags: [[pink]] 
+- This meditative progression forms the backbone of my presentation in this and the next two chapters. ([Location 2101](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2101))
+    - Tags: [[pink]] 
+- The Buddha confirms that he indeed made such a statement and then teaches Ānanda a gradual entry into emptiness that starts off by directing attention to the monastic dwelling place where they are staying. ([Location 2104](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2104))
+    - Tags: [[orange]] 
+- that the starting point for engaging in contemplation of emptiness can be just here and now, in whatever situation one may find oneself at present and as part of whatever community of practitioners. ([Location 2106](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2106))
+    - Tags: [[blue]] 
+- immediacy ([Location 2108](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2108))
+    - Tags: [[orange]] 
+- was empty of the hustle and bustle of city life. ([Location 2111](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2111))
+- absence of various kinds of domesticated animals and people. ([Location 2112](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2112))
+    - Tags: [[orange]] 
+- This principle requires seeing what a particular experience is empty of, and at the same time also directing awareness to what this experience is not empty of. ([Location 2114](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2114))
+- of integration of the external and the internal. ([Location 2122](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2122))
+    - Tags: [[orange]] 
+- What one attends to is not just something out there, but at the same time also something right here. ([Location 2122](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2122))
+    - Tags: [[orange]] 
+- eventually the subject–object distinction dissolves. ([Location 2123](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2123))
+    - Tags: [[pink]] 
+- renunciation. ([Location 2125](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2125))
+    - Tags: [[orange]] 
+- takes refuge, ([Location 2125](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2125))
+- meditative practice of recollecting the Saṅgha, ([Location 2126](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2126))
+    - Tags: [[pink]] 
+- different levels of awakening, ([Location 2127](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2127))
+    - Tags: [[orange]] 
+- perception of the forest. ([Location 2134](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2134))
+    - Tags: [[pink]] 
+- unitary perception of forest. ([Location 2138](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2138))
+    - Tags: [[orange]] 
+- empty of the perception of village and empty of the perception of people. ([Location 2138](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2138))
+- non-emptiness: just the unitary perception of forest. ([Location 2139](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2139))
+    - Tags: [[blue]] 
+- Whatever is not present, one therefore sees as empty; whatever else is present, one sees as truly present. Ānanda, this is called truly dwelling in emptiness, without distortion. ([Location 2142](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2142))
+    - Tags: [[blue]] 
+- In early Buddhist thought, the forest represents seclusion from worldly affairs. ([Location 2148](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2148))
+    - Tags: [[pink]] 
+- Such seclusion can manifest in a physical and a mental sense. ([Location 2149](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2149))
+    - Tags: [[orange]] 
+- Physical seclusion requires withdrawal, at least temporarily, from involvement in worldly affairs, ideally undertaken in a secluded location that affords protection against outside disturbances. Mental seclusion similarly requires temporary withdrawal from involvement in worldly affairs, in this case achieved by emptying the mind of plans, worries, and memories, by letting go of past and future, and instead simply being aware of the empty nature of the present moment. ([Location 2152](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2152))
+- Do not think of the past and do not long for the future, matters of the past have already ceased and the future has not yet come. In the present moment one should attend with mindfulness to the lack of stability of whatever phenomena there are; the wise awaken in this way.14 ([Location 2158](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2158))
+- how the unstable nature of all phenomena as an aspect of emptiness can be brought to bear on day-to-day experience. ([Location 2163](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2163))
+    - Tags: [[orange]] 
+- This takes place by letting the mind remain anchored in the present moment and in full awareness of the lack of stability of whatever manifests itself. ([Location 2164](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2164))
+    - Tags: [[blue]] 
+- IV.3 EARTH ([Location 2166](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2166))
+    - Tags: [[orange]] 
+- perception of earth. ([Location 2168](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2168))
+    - Tags: [[orange]] 
+- If ... one sees this earth as having hills and hollows, with clusters of snakes, with clumps of thorn-bushes, with sand and rocks, steep mountains and deep rivers, one should not attend to it so. ([Location 2171](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2171))
+- If [instead] one sees this earth as level and flat like the palm of a hand, then one’s manner of looking at it is beneficial and should be frequently attended to. ([Location 2172](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2172))
+    - Tags: [[orange]] 
+- Yet there is this non-emptiness: just the unitary perception of earth. ([Location 2178](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2178))
+    - Tags: [[pink]] 
+- “Whatever weariness because of the perception of people there might be – that is not present for me; whatever weariness because of the perception of forest there might be – that is also not present for me. ([Location 2179](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2179))
+    - Tags: [[orange]] 
+- There is only the weariness because of the unitary perception of earth.” ([Location 2181](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2181))
+- Whatever is not present, one therefore sees as empty; whatever else is present, one sees as truly present. Ānanda, this is called truly dwelling in emptiness, without distortion.16 ([Location 2181](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2181))
+    - Tags: [[pink]] 
+- Having emptied one’s perception of these objects, one instead gives ([Location 2185](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2185))
+    - Tags: [[blue]] 
+- attention to the next step ([Location 2186](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2186))
+    - Tags: [[blue]] 
+- The description given of earth makes it clear that the point at stake is to arrive at a unitary perception. ([Location 2187](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2187))
+- Instead, perception is concerned solely with the basic notion of earth, comparable to a hide that is without wrinkles or creases. ([Location 2189](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2189))
+    - Tags: [[pink]] 
+- from this point onwards the modes of perceiving cultivated in the gradual entry into emptiness involve some degree of abstraction. ([Location 2191](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2191))
+    - Tags: [[orange]] 
+- no longer just the visible impact of the earth. ([Location 2194](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2194))
+    - Tags: [[blue]] 
+- principle of solidity that underlies and is common to the various manifestations of earth. ([Location 2196](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2196))
+    - Tags: [[blue]] 
+- the four elements ([Location 2197](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2197))
+    - Tags: [[blue]] 
+- water, ([Location 2198](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2198))
+    - Tags: [[pink]] 
+- fire, ([Location 2198](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2198))
+- wind) ([Location 2198](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2198))
+    - Tags: [[blue]] 
+- principle of solidity. ([Location 2198](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2198))
+    - Tags: [[orange]] 
+- the internal earth element stands for whatever is solid within one’s own body. ([Location 2200](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2200))
+    - Tags: [[orange]] 
+- internal earth element found within one’s own physical body, ([Location 2201](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2201))
+- there is of course the external earth element, which covers whatever is solid outside. ([Location 2201](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2201))
+    - Tags: [[blue]] 
+- offers benefits for the cultivation of both tranquillity and insight. ([Location 2202](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2202))
+    - Tags: [[pink]] 
+- analytical dissection of the human body into its material elements, ([Location 2203](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2203))
+    - Tags: [[orange]] 
+- Satipaṭṭhāna-sutta ([Location 2204](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2204))
+    - Tags: [[pink]] 
+- closely related to emptiness, ([Location 2205](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2205))
+    - Tags: [[orange]] 
+- contemplating one’s own body as ([Location 2206](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2206))
+    - Tags: [[blue]] 
+- made up of the material elements has the purpose of revealing the body’s ultimately empty nature. ([Location 2206](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2206))
+    - Tags: [[blue]] 
+- example of a butcher who has slaughtered a cow. ([Location 2208](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2208))
+    - Tags: [[blue]] 
+- the body is seen as just a product of these elements ([Location 2211](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2211))
+    - Tags: [[orange]] 
+- Whatever is the internal earth element and whatever is the external earth element, all of it is summarily called the earth element. It is all not mine, I am not part of it, and it is not the self. By wisely contemplating it in this way, knowing it as it truly is, the mind does not become defiled with attachment in regard to the earth element.19 ([Location 2215](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2215))
+- perceptual totality, ([Location 2219](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2219))
+    - Tags: [[orange]] 
+- kasiṇa. ([Location 2219](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2219))
+    - Tags: [[orange]] 
+- perception of the element of earth that is so all-embracing ([Location 2220](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2220))
+- unified experience ([Location 2220](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2220))
+    - Tags: [[blue]] 
+- deep concentration. ([Location 2221](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2221))
+    - Tags: [[pink]] 
+- Cultivating the emptiness aspect in the present context comes about through reducing one’s perceptual experience of any manifestation of matter to the bare notion of solidity, ([Location 2226](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2226))
+    - Tags: [[orange]] 
+- developing a unitary perception. ([Location 2230](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2230))
+    - Tags: [[orange]] 
+- unification of the mind ([Location 2231](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2231))
+- one fashions a disk of earth and then starts gazing at this device in order to develop an internal perception of earth as a basis for deepening concentration. ([Location 2234](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2234))
+    - Tags: [[pink]] 
+- The development of a unitary perception is in fact already a feature of the preceding perception of the forest, ([Location 2238](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2238))
+    - Tags: [[blue]] 
+- does not feature among the standard objects for kasiṇa meditation. ([Location 2239](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2239))
+- developing of a unitary perception of the forest does seem to intend simply a giving of attention to the forest as a whole, ([Location 2240](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2240))
+    - Tags: [[orange]] 
+- Ideally mental unification built up in this way should reach the concentrative depth of the fourth absorption, ([Location 2242](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2242))
+- which is the usual basis for cultivating the immaterial spheres that in the gradual entry to emptiness come after the perception of earth. ([Location 2242](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2242))
+    - Tags: [[orange]] 
+- giving attention to the perception of the sphere of infinite space. ([Location 2245](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2245))
+    - Tags: [[orange]] 
+- the gradual entry into emptiness depicted in the Cūḷasuññata-sutta and its parallels presents a perceptual training that can be practised with lower degrees of concentration, ([Location 2249](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2249))
+    - Tags: [[pink]] 
+- if ... one wishes to dwell much in emptiness ... one should not give attention to the perception of forest and not give attention to the perception of earth, but should frequently give attention to the unitary perception of the sphere of infinite space. ([Location 2253](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2253))
+- Yet there is this non-emptiness: ([Location 2256](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2256))
+    - Tags: [[blue]] 
+- “Whatever weariness because of the perception of forest there might be – that is not present for me; whatever weariness because of the perception of earth there might be – that is also not present for me. There is only the weariness because of the unitary perception of the sphere of infinite space.” ([Location 2257](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2257))
+    - Tags: [[pink]] 
+- Whatever is not present, one therefore sees as empty; whatever else is present, one sees as truly present. Ānanda, this is called truly dwelling in emptiness, without distortion.21 ([Location 2259](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2259))
+    - Tags: [[orange]] 
+- replacing the unitary perception of earth with the unitary perception of the space ([Location 2262](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2262))
+    - Tags: [[orange]] 
+- allowed to disappear. ([Location 2263](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2263))
+    - Tags: [[orange]] 
+- further level of abstraction, ([Location 2264](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2264))
+    - Tags: [[orange]] 
+- Such a further level of perceptual abstraction leaves behind and transcends ([Location 2264](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2264))
+    - Tags: [[orange]] 
+- the notion of solidity characteristic of any manifestation of matter. ([Location 2265](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2265))
+    - Tags: [[orange]] 
+- leaving behind of all that is characteristic of matter ([Location 2265](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2265))
+- first of the four immaterial attainments ([Location 2266](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2266))
+    - Tags: [[blue]] 
+- transcendence of all that is material. ([Location 2267](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2267))
+    - Tags: [[blue]] 
+- Completely transcending perceptions of form, with the cessation of perceptions of resistance, not attending to perceptions of diversity, [being instead aware] of infinite space, one dwells having attained the sphere of infinite space.22 ([Location 2269](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2269))
+    - Tags: [[pink]] 
+- all perceptions of form are left behind. ([Location 2272](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2272))
+    - Tags: [[orange]] 
+- matter no longer matters. ([Location 2272](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2272))
+    - Tags: [[orange]] 
+- a training of perception. ([Location 2273](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2273))
+- has the purpose of refining and to some extent also deconstructing ([Location 2275](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2275))
+    - Tags: [[blue]] 
+- ordinary perception up to the point where the meditative progression can culminate in the experience of Nirvāṇa, with which supreme emptiness is attained. ([Location 2275](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2275))
+    - Tags: [[blue]] 
+- the issue at stake in the present step in the gradual entry into such supreme emptiness is only to reveal the empty nature of matter, not to proclaim its non-existence. ([Location 2277](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2277))
+- For one who rightly knows and sees as it really is the arising of the world, there will not be [the notion] that the world does not exist; for one who rightly knows and sees as it really is the cessation of the world, there will not be [the notion] that the world exists.23 ([Location 2281](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2281))
+    - Tags: [[orange]] 
+- the middle way of correct vision is to recognize the dependently arisen nature of things. ([Location 2284](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2284))
+    - Tags: [[pink]] 
+- Emptiness is in fact precisely about the conditioned nature of all phenomena, not about their non-existence. ([Location 2285](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2285))
+- quantum physics. ([Location 2287](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2287))
+    - Tags: [[pink]] 
+- matter turns out to be indeed for the most part just space. ([Location 2287](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2287))
+    - Tags: [[orange]] 
+- The size of the atomic nucleus compared to that of the whole atom is similar to the size of a grain of rice that is placed in a football stadium. ([Location 2287](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2287))
+- Applied to one’s own body, if all nuclei in this body could be placed side by side, the area they would occupy would be merely a speck of dust. ([Location 2289](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2289))
+    - Tags: [[blue]] 
+- nuclei are themselves made up of quarks that are in a constant process of change. ([Location 2290](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2290))
+- Reflecting on the material nature of one’s own body and of manifestations of matter outside oneself along these lines, it seems that the perception of space does better justice to the way things really are than the common way of viewing matter as something solid that exists on its own out there. ([Location 2292](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2292))
+    - Tags: [[pink]] 
+- The main issue at stake is to realize that solidity is not inherent in matter, which is for the most part just space. ([Location 2300](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2300))
+    - Tags: [[pink]] 
+- Being in this way deprived of their solid material foundation, evaluations of someone as being beautiful or ugly can more easily be seen for what they really are, namely projections of the mind. ([Location 2304](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2304))
+    - Tags: [[orange]] 
+- Since it can resist and can break, it is called the bodily form aggregate of clinging. This refers to being resistant. If it is [contacted] by a hand, if it is [contacted] by a stone, if it is [contacted] by a stick, if it is [contacted] by a knife, if it is [contacted] by cold, if it is [contacted] by warmth, if it is [contacted] by thirst, if it is [contacted] by hunger, if it is [contacted] by mosquitoes, gadflies, or any poisonous insect, or by contact with wind and rain, this is called resisting contact. Because of [such] resistance, it is [called] the bodily form aggregate of clinging.27 ([Location 2323](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2323))
+    - Tags: [[blue]] 
+- “In relation to bodily form the taking up of stick and sword can be seen, and [the occurrence of] quarrels, disputes, contention, strife, slander, and false speech. This does not exist at all in the immaterial.” Reflecting in this way one is practising for the disenchantment, dispassion, and cessation of bodily form.30 ([Location 2338](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2338))
+- Bodily form can be affected by stones and sticks, changes of temperature, hunger and thirst, and various insects. It constantly requires nourishment, clothing, and bathing. Even being provided with all these, it will eventually fall apart. Yet, because of the body, there is quarrelling and fighting of all sorts. All this is left behind when materiality is allowed to dissolve into space. ([Location 2341](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2341))
+    - Tags: [[orange]] 
+- IV.5 INFINITE SPACE AND COMPASSION ([Location 2354](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2354))
+    - Tags: [[orange]] 
+- infinite space is the culmination point of the meditative cultivation of compassion. ([Location 2357](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2357))
+    - Tags: [[pink]] 
+- with the experience of infinite space one mentally leaves behind the material realm that is the cause of a broad range of physical afflictions. ([Location 2359](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2359))
+    - Tags: [[orange]] 
+- This form of transcendence naturally reverberates with the compassionate wish for others to be free from such afflictions. ([Location 2360](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2360))
+- perception of infinite consciousness, ([Location 2521](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2521))
+- Again, Ānanda, if ... one wishes to dwell much in emptiness ... one should not give attention to the perception of earth and not give attention to the perception of the sphere of infinite space, but should frequently give attention to the unitary perception of the sphere of infinite consciousness. In this way one knows that this is empty of the perception of earth and empty of the perception of the sphere of infinite space. Yet there is this non-emptiness: just the unitary perception of the sphere of infinite consciousness. [One knows]: “Whatever weariness because of the perception of earth there might be – that is not present for me; whatever weariness because of the perception of the sphere of infinite space there might be – that is also not present for me. There is only the weariness because of the unitary perception of the sphere of infinite consciousness.” Whatever is not present, one therefore sees as empty; whatever else is present, one sees as truly present. Ānanda, this is called truly dwelling in emptiness, without distortion.1 ([Location 2528](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2528))
+    - Tags: [[orange]] 
+- The fact that earth is mentioned again gives the impression that, when proceeding from one perception in the series to the next, one needs to ensure that what had been accomplished previously is not lost. ([Location 2541](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2541))
+    - Tags: [[orange]] 
+- turning attention to the mind itself. ([Location 2544](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2544))
+    - Tags: [[orange]] 
+- By earlier having become absorbed in the notion of infinite space, consciousness itself has come to be at one with the experience of infinity. ([Location 2545](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2545))
+- Turning attention back to the mind itself then enables the development of the perception of infinite consciousness. ([Location 2546](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2546))
+    - Tags: [[blue]] 
+- reveals the foundational role that consciousness plays in subjective experience. ([Location 2548](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2548))
+    - Tags: [[pink]] 
+- perception of infinite consciousness turns attention to that which has been aware of infinite space, whereby the whole world is now seen to be, in a way, in one’s own mind. ([Location 2549](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2549))
+    - Tags: [[blue]] 
+- early Buddhist thought does not consider consciousness to be the source of the external world. ([Location 2551](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2551))
+    - Tags: [[orange]] 
+- The external world exists (as conditioned and impermanent processes) independently of my act of cognizing it. ([Location 2552](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2552))
+    - Tags: [[blue]] 
+- My experience of the world is impossible without consciousness. In other words, for phenomena in the world to exist for me, to be experienced by me, consciousness is indispensable. So consciousness is indeed the source of my world, it provides the ground within which my world of experience can unfold. ([Location 2554](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2554))
+    - Tags: [[orange]] 
+- solipsism. ([Location 2560](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2560))
+    - Tags: [[pink]] 
+- A frequent reference to consciousness in the early discourses forms part of an analysis of experience into the five aggregates, whose main thrust is to reveal the empty nature of all the aspects of experience that one might identify with and cling to as “I” and “mine”. ([Location 2564](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2564))
+    - Tags: [[orange]] 
+- consciousness as one of the aggregates is comparable to the performance of a magician.3 In other words, consciousness has an effect comparable to a hallucination. ([Location 2567](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2567))
+- In other passages, however, consciousness can stand for the mind in its totality. ([Location 2571](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2571))
+    - Tags: [[orange]] 
+- With this perception all experience converges on consciousness, which has become all-embracing. ([Location 2575](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2575))
+    - Tags: [[blue]] 
+- noticeable. In this way, in actual meditation practice consciousness can come to represent mind in its totality. ([Location 2577](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2577))
+- The quality of knowing and being aware is a constant given in mental experiences. ([Location 2579](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2579))
+    - Tags: [[orange]] 
+- can easily result in the notion that consciousness is permanent. ([Location 2580](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2580))
+- permanent entity that transmigrates from one life to the next did not find favour with the Buddha. ([Location 2596](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2596))
+    - Tags: [[blue]] 
+- Another teaching on the impermanent nature of consciousness employs the simile of a monkey moving through a forest. Just as the monkey keeps grabbing one branch after another while moving through the forest, so consciousness continuously changes, taking up one object after another. ([Location 2596](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2596))
+    - Tags: [[orange]] 
+- However stable it may appear, consciousness is just a flux of conditionally arisen moments of being conscious. ([Location 2599](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2599))
+- “consciousness-ing”, ([Location 2600](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2600))
+    - Tags: [[pink]] 
+- to avoid the nuance of stability and substantiality ([Location 2600](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2600))
+    - Tags: [[blue]] 
+- if the cognizing part of the mind were beyond change, it would be forever frozen in the condition of knowing one single thing. ([Location 2601](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2601))
+    - Tags: [[orange]] 
+- The very ability to cognize different things inevitably implies change. ([Location 2602](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2602))
+- “consciousness-ing” is a stream of conditionally arisen moments of knowing. ([Location 2605](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2605))
+    - Tags: [[orange]] 
+- The conditionality of experience is a theme that to some degree underlies the instructions in the Cūḷasuññata-sutta and its parallels. ([Location 2607](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2607))
+    - Tags: [[orange]] 
+- Their absence and attending to the perception of infinite consciousness are necessary conditions for the present step. ([Location 2611](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2611))
+    - Tags: [[orange]] 
+- “weariness” for the conditions that are to be left behind. ([Location 2613](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2613))
+    - Tags: [[blue]] 
+- This brings out an aspect shared by all that is conditioned, ([Location 2614](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2614))
+    - Tags: [[orange]] 
+- namely that one should eventually become weary of it. ([Location 2614](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2614))
+- One meditates in such a way that one does not cultivate meditation in dependence on the earth, one does not cultivate meditation in dependence on water, fire, wind, [the sphere of boundless] space, [the sphere of boundless] consciousness, [the sphere of] nothingness, [the sphere of] neither-perception-nor-non-perception, not in dependence on this world, not in dependence on that world, not [in dependence on] the sun or the moon, not [in dependence on] what is seen, heard, experienced, and cognized, not [in dependence on] what one has attained, not [in dependence on] what one searches for, not [in dependence on] what conforms with one’s experience, not [in dependence on] what conforms with one’s contemplation; yet one cultivates meditation.9 ([Location 2622](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2622))
+- Such an independent form of meditation can be accomplished once one is able and willing to let go of each of these perceptions. ([Location 2628](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2628))
+    - Tags: [[orange]] 
+- this requires becoming disenchanted with them. ([Location 2629](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2629))
+- progress takes place by leaving behind this weariness. ([Location 2631](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2631))
+    - Tags: [[orange]] 
+- This aspect of the instructions appears to be aimed at ensuring that each stage in the gradual entry into emptiness is seen as merely a stepping stone on the meditative path. ([Location 2631](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2631))
+- it still pertains to the realm of what is conditioned. ([Location 2634](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2634))
+    - Tags: [[orange]] 
+- Mahānidāna-sutta ([Location 2636](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2636))
+    - Tags: [[orange]] 
+- name-and-form. ([Location 2639](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2639))
+    - Tags: [[pink]] 
+- and-form. ([Location 2639](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2639))
+    - Tags: [[pink]] 
+- In the early discourses “name” does not include consciousness, contrary to its usage in later tradition.11 ([Location 2641](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2641))
+    - Tags: [[orange]] 
+- the profundity of dependent arising. ([Location 2643](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2643))
+    - Tags: [[orange]] 
+- detailed exposition of dependent arising (paṭicca samuppāda) in the reverse order, that is, by tracing each item to what forms its condition. ([Location 2648](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2648))
+    - Tags: [[pink]] 
+- ‘There is a condition for name-and-form.’ ([Location 2651](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2651))
+    - Tags: [[orange]] 
+- ‘What is the condition for name-and-form?’, ([Location 2652](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2652))
+- ‘Consciousness is the condition.’ ([Location 2652](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2652))
+    - Tags: [[orange]] 
+- [The Buddha said]: “Ānanda, for this reason it should be understood that this is the cause of name-and-form, the source of name-and-form, the origin of name-and-form, the condition for name-and-form, namely consciousness. Why is that? Because conditioned by consciousness there is name-and-form. ([Location 2660](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2660))
+    - Tags: [[blue]] 
+- “Ānanda, if someone asks: ‘Is there a condition for consciousness?’, then one should answer in this way: ‘There is also a condition for consciousness.’ If someone asks: ‘What is the condition for consciousness?’, then one should answer in this way: ‘Name-and-form is the condition.’”13 ([Location 2662](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2662))
+- This reveals a reciprocal conditioning between consciousness and name-and-form, each conditioning the other. ([Location 2670](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2670))
+- In this way, Ānanda, conditioned by name-and-form there is consciousness, and conditioned by consciousness there is name-and-form.15 ([Location 2672](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2672))
+    - Tags: [[orange]] 
+- The main point this particular teaching makes is rather to throw into relief the basic principle of conditionality, ([Location 2676](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2676))
+    - Tags: [[orange]] 
+- So the world of experience comes into being through a reciprocally conditioning relationship between the experiencing consciousness and the impact of outer phenomena, “form”, together with the processing of such phenomena by the mind, “name”. Out of this reciprocally conditioning relationship the dependent arising of dukkha evolves. ([Location 2680](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2680))
+    - Tags: [[pink]] 
+- Leaning on each other, both are dependent on the other and neither can in any way claim independent existence. ([Location 2688](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2688))
+    - Tags: [[orange]] 
+- consciousness and name-and-form function as the matrix of experience. ([Location 2691](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2691))
+    - Tags: [[pink]] 
+- How to go about unconditioning the mind ([Location 2695](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2695))
+    - Tags: [[pink]] 
+- V.4 THE BĀHIYA INSTRUCTION ([Location 2696](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2696))
+    - Tags: [[pink]] 
+- Udāna ([Location 2697](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2697))
+    - Tags: [[pink]] 
+- Bāhiya is a well-respected practitioner in that part of India who wonders if he might be an arahant. Becoming aware of this, a deva informs him that he is overestimating his level of accomplishment, as he is not even on the path to arahantship. Bāhiya enquires who then in this world are arahants or on the path to arahantship. The deva informs him of the Buddha and his whereabouts. ([Location 2702](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2702))
+    - Tags: [[orange]] 
+- Bāhiya loses no time and walks straight across half the Indian subcontinent to Sāvatthī. ([Location 2705](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2705))
+    - Tags: [[orange]] 
+- he should remain conscious of just bare sense experience, as a way to transcend dukkha. ([Location 2710](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2710))
+    - Tags: [[blue]] 
+- Māluṅkyaputta features elsewhere in the discourses as someone obsessed with irrelevant philosophical speculations ([Location 2718](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2718))
+    - Tags: [[blue]] 
+- the Bāhiya instruction is not only for those who are highly developed. ([Location 2720](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2720))
+- “See by limiting it to seeing, hear by limiting it to hearing, feel by limiting it to feeling, cognize by limiting it to cognizing.” Then [the Buddha] spoke in verse: “If you are not in that, and [not being in] that you are also not in this, and you are also not in between the two, this then is the end of dukkha indeed.”20 ([Location 2723](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2723))
+    - Tags: [[orange]] 
+- in the seen there should just be what is seen, in the heard just what is heard, in the sensed just what is sensed, and in the cognized just what is cognized.21 ([Location 2732](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2732))
+    - Tags: [[pink]] 
+- Through such staying present with awareness of experience, the proliferations that usually arise can be avoided. ([Location 2734](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2734))
+    - Tags: [[blue]] 
+- one should remain aware of bare experience and limit one’s mental processing to just that bare act of cognizing. ([Location 2734](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2734))
+- The Saṃyutta-nikāya version continues by indicating that once in the seen there is just the seen etc., one will not be by that. Not being by that, one will not be therein. Not being therein, one will not be here, or there, or in between the two. ([Location 2737](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2737))
+    - Tags: [[orange]] 
+- One way in which this injunction could be understood is that by just remaining aware at the sense-doors, one will not be carried away “by that”, namely by the conditionality of the perceptual process and its potential to result in reactions by way of desire and aversion. Once this much has been achieved, one will also not be “therein”, in the sense of not identifying with what is taking place, not even with the detachment achieved by staying free from desire and aversion. Once defilements and patterns of identification are kept at bay, one will indeed not be here, or there, or in between. One does not take a stance on the senses, or on their objects, or on consciousness as what forms the middle between these. One also does not take a stance on the past, or on the future, or on the present moment as the middling ground between these two.22 In short, the main point is simply that one does not take a stance on anything at all. ([Location 2741](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2741))
+- one does not react to or identify with any aspect of experience and one avoids taking a stance on anything. ([Location 2750](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2750))
+    - Tags: [[orange]] 
+- On having seen a form with the eyes, if right mindfulness is lost, then in the form that is seen one grasps its characteristics (nimitta) with thoughts of craving. For one who grasps its characteristics with craving and delight the mind will constantly be in bondage to attachment, it will give rise to all kinds of craving for the countless forms that manifest. Thoughts of lustful sensual desire, ill will, and harm will bring about the mind’s decline and foster a host of afflictions. One is forever far from Nirvāṇa. [If] on seeing a form one does not grasp its characteristics and the mind conforms to right mindfulness, [then] craving will not taint the mind with what is detrimental and the bondage of attachment will also not arise. Not giving rise to cravings for the countless forms that manifest, thoughts of lustful sensual desire, ill will, and harm will be unable to afflict the mind.23 ([Location 2758](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2758))
+    - Tags: [[orange]] 
+- Based on having cultivated the step of infinite consciousness in the gradual entry into emptiness, the act of being conscious of things will naturally become a more prominent and better noticed part of one’s experience. Remaining with this part of the mind without giving rise to reactions can become a powerful way of bringing emptiness to bear on challenging situations of various types. ([Location 2773](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2773))
+    - Tags: [[blue]] 
+- In actual practice, as soon as one turns attention directly to the mind as that which experiences any input through the senses, it naturally becomes silent and mental chatter vanishes. ([Location 2776](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2776))
+    - Tags: [[orange]] 
+- At times there are situations when just remaining with bare sense data is simply not possible. ([Location 2784](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2784))
+    - Tags: [[pink]] 
+- the Bāhiya instruction will sharpen one’s awareness of the different mental evaluations that can set in after bare recognition. ([Location 2785](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2785))
+    - Tags: [[orange]] 
+- making one more clearly aware of what one adds on top of the bare sense data. ([Location 2786](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2786))
+- there are several other and complementary ways in which one can bring emptiness to bear on daily-life situations. ([Location 2787](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2787))
+    - Tags: [[blue]] 
+- the Buddha’s regular dwelling in emptiness ([Location 2799](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2799))
+    - Tags: [[pink]] 
+- Buddha criticizing excessive socializing ([Location 2801](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2801))
+    - Tags: [[orange]] 
+- emphasis on the need to dwell in seclusion. ([Location 2801](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2801))
+- dwelling in emptiness ([Location 2802](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2802))
+    - Tags: [[pink]] 
+- internally, ([Location 2802](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2802))
+    - Tags: [[orange]] 
+- externally, ([Location 2802](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2802))
+- internally and externally. ([Location 2803](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2803))
+    - Tags: [[blue]] 
+- strong foundation in mental tranquillity ([Location 2803](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2803))
+    - Tags: [[pink]] 
+- emphasis given to formal practice of tranquillity ([Location 2804](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2804))
+    - Tags: [[pink]] 
+- absorption, ([Location 2808](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2808))
+    - Tags: [[pink]] 
+- ideally the fourth absorption, ([Location 2808](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2808))
+    - Tags: [[orange]] 
+- is an important asset and provides a strong foundation for emptiness practice. ([Location 2808](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2808))
+- formal development of tranquillity should not be neglected if one’s practice is to result in the realization of supreme emptiness with full awakening. ([Location 2810](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2810))
+    - Tags: [[pink]] 
+- divine abodes would recommend itself as a convenient option for building up a foundation in tranquillity ([Location 2812](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2812))
+    - Tags: [[orange]] 
+- namely that emptiness covers what is internal as well as what is external. ([Location 2819](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2819))
+    - Tags: [[pink]] 
+- how to continue practice outside of formal sitting meditation. ([Location 2822](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2822))
+    - Tags: [[pink]] 
+- to practise walking meditation, ([Location 2825](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2825))
+    - Tags: [[orange]] 
+- the faculties settled within, ([Location 2826](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2826))
+    - Tags: [[orange]] 
+- mind not directed outwards or backwards, ([Location 2826](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2826))
+    - Tags: [[orange]] 
+- perceiving [only] what is in front. ([Location 2826](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2826))
+- all four postures, ([Location 2833](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2833))
+    - Tags: [[pink]] 
+- continuity of practice can be ensured by keeping the defilements at bay. ([Location 2835](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2835))
+- keeping the mind empty of desire and aversion. ([Location 2836](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2836))
+    - Tags: [[orange]] 
+- mind becomes ever less prone to succumb to defilements. ([Location 2837](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2837))
+    - Tags: [[orange]] 
+- right comprehension ([Location 2838](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2838))
+- of conscious monitoring of the condition of aloofness ([Location 2839](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2839))
+- intelligent letting go. ([Location 2840](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2840))
+    - Tags: [[blue]] 
+- mindfulness of one’s present mental condition ([Location 2841](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2841))
+    - Tags: [[orange]] 
+- walking posture builds a firm foundation for sitting meditation, ([Location 2842](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2842))
+    - Tags: [[orange]] 
+- continuity of emptiness ([Location 2844](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2844))
+- reflect: “Seeing forms with the eye now, has sensual desire arisen in me, affection, thoughts of craving or attachment?” ([Location 2856](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2856))
+    - Tags: [[orange]] 
+- collected mindfulness. ([Location 2860](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2860))
+    - Tags: [[pink]] 
+- This is like a person whose turban is on fire. The person will arouse a superior effort in order to extinguish it completely and be diligent in trying to get it extinguished. In the same way ... one should arouse superior diligence and be willing to make an effort to train in collected mindfulness. ([Location 2860](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2860))
+- If at the time when ... one examines [oneself] there are no thoughts of craving and being defiled by attachment in relation to forms cognized by the eye during the period of being on the road, being in the village walking for alms, or leaving the village, then ... one can be happy and delighted because of having this foundation in what is wholesome, and day and night one should make an effort to [continue] cultivating collected mindfulness.30 ([Location 2862](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2862))
+    - Tags: [[blue]] 
+- It is precisely through establishing mindfulness that one is able to remain just with the seen, heard, felt, and cognized. This ([Location 2870](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2870))
+    - Tags: [[pink]] 
+- The need to be wary of desire and aversion similarly stands in the foreground when it comes to applying the understanding of emptiness gained in silent meditation to thinking. ([Location 2874](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2874))
+    - Tags: [[orange]] 
+- Ānanda, if ... one who is dwelling in this abiding of the mind wishes to think thoughts, then as regards the three detrimental and unwholesome thoughts – thoughts of sensual desire, thoughts of ill will, and thoughts of harming – ... one should not think these three detrimental and unwholesome thoughts. [Instead], as regards the three wholesome thoughts – thoughts of dispassion, thoughts without ill will, and thoughts without harming – one should think these three wholesome thoughts. Having thought like this, the mind does not give rise to covetousness, sadness, or [another] detrimental or unwholesome state – this is reckoned one’s right comprehension.32 ([Location 2878](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2878))
+    - Tags: [[orange]] 
+- The point at stake is not just to avoid thought altogether, but rather to avoid certain types of thought, namely unwholesome thoughts. In ([Location 2887](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2887))
+    - Tags: [[orange]] 
+- Here, again, mindfulness has a key role to play. It is through establishing mindfulness that one learns to monitor the nature of one’s thoughts and thereby becomes able to recognize whether they have started to move into the realm of what is unwholesome. ([Location 2888](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2888))
+- Ānanda, if ... one who is dwelling in this abiding of the mind wishes to speak, then as regards talking ignoble talk related to what is not beneficial – talk such as talk about kings, talk about thieves, talk about battles and quarrels, talk about drinks and food, talk about clothes and bedding, talk about married women, talk about girls, talk about adulterous women, talk about the world, talk about wrong practices, talk about the contents of the ocean – ... one does not talk such types of irrelevant talk. [Instead], as regards talking noble talk that is related to what is beneficial, that makes the mind malleable, free of darkness and the hindrances – talk such as talk about generosity, talk about morality, talk about concentration, talk about wisdom, talk about liberation, talk about knowledge and vision of liberation, talk about self-effacement, talk about not socializing, talk about fewness of wishes, talk about contentment, talk about dispassion, talk about abandoning, talk about cessation, talk about sitting in meditation, talk about dependent arising, such talk [proper] for recluses – [one talks such talk]. Having talked like this, the mind does not give rise to covetousness, sadness, or [another] detrimental or unwholesome state – this is reckoned one’s right comprehension.33 ([Location 2895](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2895))
+    - Tags: [[blue]] 
+- even conversations can be pervaded by a flavour of emptiness. ([Location 2910](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2910))
+    - Tags: [[pink]] 
+- engaging in sensuality is not compatible with genuine practice of emptiness. ([Location 2911](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2911))
+    - Tags: [[orange]] 
+- Again, Ānanda, there are five strands of sensual pleasure that are pleasurable, that the mind thinks about, that are connected with craving and sensual desire: forms known by the eye, sounds known by the ear, odours known by the nose, flavours known by the tongue, and tangibles known by the body. If ... one’s mind turns to contemplation and, in regard to these five strands of sensual pleasures, comes under the influence of these strands of sensual pleasures, then the mind will dwell among them. Why is that? Sooner or later, in regard to these five strands of sensual pleasures, [if] one comes under the influence of these strands of sensual pleasures, the mind dwells among them. Ānanda, if while contemplating ... one comes to know that in regard to these five strands of sensual pleasures one has come under the influence of these strands of sensual pleasures, that the mind is dwelling among them, then ... one should contemplate the impermanence of these various strands of sensual pleasures, contemplate their decay, contemplate their fading away, contemplate their abandoning, contemplate their cessation, contemplate abandoning and giving them up, becoming separated from them. Then, whatever one has of desire and defilement regarding these five strands of sensual pleasures will soon cease. Ānanda, if while contemplating like this ... one knows that whatever one had of desire and defilement in regard to these five strands of sensual pleasures has been abandoned – this is reckoned one’s right comprehension.34 ([Location 2913](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2913))
+    - Tags: [[pink]] 
+- one can strengthen one’s practice of emptiness by relating it to insight into the impermanent nature of sensual pleasures. ([Location 2928](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2928))
+    - Tags: [[orange]] 
+- a proper realization of the empty nature of material phenomena can go a long way in arousing detachment and dispassion. ([Location 2929](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2929))
+    - Tags: [[blue]] 
+- is attending to the impermanent nature of all phenomena. ([Location 2932](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2932))
+    - Tags: [[orange]] 
+- Awareness of impermanence and change brings about dispassion and naturally leads to an attitude of letting go. ([Location 2933](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2933))
+- the need to let go of patterns of identification. ([Location 2935](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2935))
+- cessation of consciousness.” ([Location 2942](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2942))
+    - Tags: [[orange]] 
+- awareness of impermanence ([Location 2947](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2947))
+- A way of practice that avoids the conditioned arising of defilements in the mind is to remain aware of the cognizing part of the mind and thus stay with awareness of the input received through the senses, without allowing this to lead to proliferations in the mind. ([Location 2961](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2961))
+- Successful cultivation of emptiness leaves behind all interest in sensuality and all forms of identification and conceit. ([Location 2964](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=2964))
+    - Tags: [[pink]] 
+- examine the remainder of the gradual entry into emptiness ([Location 3080](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3080))
+    - Tags: [[pink]] 
+- Again, Ānanda, if ... one wishes to dwell much in emptiness ... one should not give attention to the perception of the sphere of infinite space and not give attention to the perception of the sphere of infinite consciousness, but should frequently give attention to the unitary perception of the sphere of nothingness. ([Location 3086](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3086))
+    - Tags: [[pink]] 
+- Whatever is not present, one therefore sees as empty; whatever else is present, one sees as truly present. Ānanda, this is called truly dwelling in emptiness, without distortion.1 ([Location 3093](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3093))
+- perception of nothingness. ([Location 3097](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3097))
+    - Tags: [[orange]] 
+- consciousness is insubstantial in every respect. ([Location 3098](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3098))
+    - Tags: [[blue]] 
+- This leads to the perception of “no-thing”, in the sense that absence itself becomes the object, if one may so call it, of practice at this juncture. ([Location 3098](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3098))
+    - Tags: [[pink]] 
+- relinquishing of the already abstract notion of space ([Location 3100](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3100))
+    - Tags: [[pink]] 
+- concerned entirely with the subjective, ([Location 3101](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3101))
+    - Tags: [[orange]] 
+- leaving behind any object. ([Location 3101](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3101))
+- Now, even the subjective is let go of, being replaced by the notion of its absence. ([Location 3101](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3101))
+    - Tags: [[blue]] 
+- this points squarely in the direction of not-self, ([Location 3102](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3102))
+    - Tags: [[pink]] 
+- does not imply insight into not-self. ([Location 3103](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3103))
+    - Tags: [[pink]] 
+- considered to be falling short of the final goal. ([Location 3105](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3105))
+    - Tags: [[orange]] 
+- In sum, attaining the sphere of nothingness as such can serve as a preparation for, but at the same time falls short of awakening in the early Buddhist sense. ([Location 3110](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3110))
+    - Tags: [[orange]] 
+- lust, aversion, and delusion are a something.3 ([Location 3116](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3116))
+    - Tags: [[orange]] 
+- According to a stanza in the Dhammapada and its parallels, by leaving behind anger, pride, and any fetter, one owns nothing (and thereby goes beyond dukkha). ([Location 3116](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3116))
+    - Tags: [[pink]] 
+- “imperturbability” ([Location 3124](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3124))
+- fourth absorption, ([Location 3125](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3125))
+    - Tags: [[orange]] 
+- imperturbable mental condition of one who has reached full awakening. ([Location 3125](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3125))
+    - Tags: [[orange]] 
+- how to attain the imperturbability of the concentrative type, then how to move on to the sphere of nothingness and neither-perception-nor-non-perception, and eventually proceed to show how awakening can be reached. ([Location 3127](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3127))
+    - Tags: [[pink]] 
+- Again, a learned noble disciple contemplates in this way: “This world is empty, empty of a self, empty of what belongs to a self, empty of what is permanent, empty of what is everlasting, empty of existing continuously, and empty of being unchanging.” ([Location 3132](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3132))
+    - Tags: [[orange]] 
+- “this is empty of a self and of what belongs to a self.” ([Location 3139](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3139))
+    - Tags: [[orange]] 
+- The Tibetan version, which has this particular approach as the third of the three alternative routes to be taken, describes the world as empty of being permanent etc., and thereby also brings in the topic of impermanence, ([Location 3139](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3139))
+- a meditative approach to nothingness can take place through the contemplation that this world of experience is empty of a self and of what belongs to a self. ([Location 3143](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3143))
+    - Tags: [[blue]] 
+- contemplating that in this experience of infinite consciousness there is nothing in the sense that there is nothing of a self and nothing that belongs to a self. ([Location 3148](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3148))
+    - Tags: [[orange]] 
+- One is that an emptiness contemplation – namely viewing the world as empty of a self – can function as a way to attain the immaterial sphere of nothingness. ([Location 3150](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3150))
+    - Tags: [[orange]] 
+- attainment of the sphere of nothingness and rebirth in the corresponding realm. ([Location 3152](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3152))
+- Wisdom leading to final liberation is an alternative outcome of the same practice. ([Location 3153](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3153))
+    - Tags: [[blue]] 
+- insight to the development of tranquillity. This ([Location 3154](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3154))
+- contemplation of the absence of a self. ([Location 3156](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3156))
+- that there is no need to assume that one of the two – tranquillity or insight – invariably has to be practised first, before being able to turn to the cultivation of the other one. ([Location 3161](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3161))
+    - Tags: [[pink]] 
+- Nor ([Location 3162](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3162))
+- tranquillity and insight emerge as interrelated qualities that can be practised one after the other, or even both together. ([Location 3163](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3163))
+    - Tags: [[orange]] 
+- developing only one out of the two, ([Location 3163](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3163))
+- at the expense of the other. ([Location 3163](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3163))
+- one might use insight perceptions to cultivate tranquillity, ([Location 3166](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3166))
+    - Tags: [[orange]] 
+- tranquillity and insight are two qualities that in mutual collaboration lead to full liberation. ([Location 3170](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3170))
+    - Tags: [[orange]] 
+- the contemplation of not-self could merely lead to attaining the immaterial sphere of nothingness, instead of resulting in awakening. ([Location 3172](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3172))
+    - Tags: [[pink]] 
+- not invariably be of the liberating type, ([Location 3173](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3173))
+    - Tags: [[pink]] 
+- even if they have come about through contemplating that all this is empty of a self. ([Location 3173](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3173))
+    - Tags: [[orange]] 
+- a range of emptiness experiences. Although these have the potential to lead to awakening, if used properly, they fall short of being final liberation in themselves. What makes the difference is the eradication of defilements. Only when these are overcome for good is true liberation reached and therewith the supreme form of emptiness attained. ([Location 3176](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3176))
+    - Tags: [[pink]] 
+- – all these perceptions are of an impermanent nature, they are dukkha and [subject] to cessation ([Location 3183](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3183))
+- If there is one’s [notion of] identity, there is birth, there is old age, there is disease, and there is death ... That which is Nirvāṇa without remainder, that is called the deathless.” ([Location 3184](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3184))
+    - Tags: [[orange]] 
+- On the one side of this contrast stand various modes of creating a sense of identity, ([Location 3192](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3192))
+    - Tags: [[pink]] 
+- On the other side of this contrast stands the deathless, Nirvāṇa, as the giving up of all identifications, whatever they may be. ([Location 3194](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3194))
+    - Tags: [[pink]] 
+- giving up “I” making and “my” making. ([Location 3198](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3198))
+    - Tags: [[orange]] 
+- not-self teaching and the different ways in which, according to early Buddhist thought, a sense of identity can arise in relation to the five aggregates. ([Location 3201](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3201))
+    - Tags: [[orange]] 
+- Bodily form is not-self. If bodily form were the self, then it should not happen that disease and pain arise in relation to bodily form, and one should not get the wish for bodily form to be in this way and not in that way. Because bodily form is not-self, there is the arising of disease and pain in relation to bodily form and one gets the wish for bodily form to be in this way and not to be in that way. Feeling ... perception ... formations ... consciousness is also like this.13 ([Location 3206](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3206))
+    - Tags: [[orange]] 
+- This passage clarifies the kind of self-notion that the not-self teaching addresses: a self that is in control and can therefore have everything as it wishes it to be. The above passage makes it amply clear that this is not the way things really are. One’s body can get sick, feelings are at times painful, perceptions are not always enjoyable, one’s decisions do not always lead to the desired result, and consciousness does not invariably experience only what one would wish. While one is able to influence things to some extent, they are nevertheless beyond one’s complete control. ([Location 3211](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3211))
+    - Tags: [[pink]] 
+- each of the aggregates is impermanent and subject to change. ([Location 3216](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3216))
+    - Tags: [[pink]] 
+- Since the aggregates are impermanent, it follows that they are dukkha, in the sense of not being able to provide lasting satisfaction. ([Location 3216](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3216))
+    - Tags: [[orange]] 
+- Since the aggregates are dukkha, it follows that they are not really fit to be regarded as a self. ([Location 3217](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3217))
+    - Tags: [[blue]] 
+- what type of a self is being put into question, namely a self that is permanent and a source of unalloyed happiness. ([Location 3218](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3218))
+    - Tags: [[orange]] 
+- Therefore, monks, whatever bodily form, whether past, future or present, internal or external, gross or subtle, sublime or repugnant, far or near, it is all not-self and does not belong to a self. In this way it should be examined as it really is. Feeling ... perception ... formations ... consciousness is also like this. ([Location 3220](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3220))
+    - Tags: [[blue]] 
+- not identifying with any aspect of experience—be this body, feeling, perception, formations, or consciousness—is the path to freedom. ([Location 3230](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3230))
+    - Tags: [[orange]] 
+- implementing insight into not-self requires avoiding identification with one’s meditative experiences. ([Location 3232](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3232))
+    - Tags: [[orange]] 
+- sakkāya ([Location 3235](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3235))
+    - Tags: [[orange]] 
+- “view of identity ([Location 3236](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3236))
+    - Tags: [[pink]] 
+- (sakkāyadiṭṭhi) ([Location 3236](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3236))
+    - Tags: [[orange]] 
+- One sees bodily form as the self, or one sees the self as owning bodily form, or one sees bodily form as contained within the self, or one sees the self as contained within bodily form. One sees feeling ... perception ... formations ... consciousness as the self, or one sees the self as possessing consciousness, or one sees consciousness as contained within the self, or one sees the self as contained within consciousness. This is reckoned identity view.16 ([Location 3240](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3240))
+    - Tags: [[orange]] 
+- x is self, • self possesses x, • x is part of self, • self is part of x. ([Location 3247](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3247))
+    - Tags: [[orange]] 
+- “empty of a self and empty of what belongs to a self” covers all these possible notions. ([Location 3253](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3253))
+    - Tags: [[pink]] 
+- The holding of a view of identity or personality (sakkāyadiṭṭhi) will be overcome with stream-entry. ([Location 3254](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3254))
+    - Tags: [[orange]] 
+- It requires proceeding towards a complete integration of this truth in one’s mental perceptions and reactions. ([Location 3255](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3255))
+- not-self goes beyond any sense of identification ([Location 3256](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3256))
+    - Tags: [[pink]] 
+- beyond any trace of clinging to a sense of “identity” (sakkāya). ([Location 3257](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3257))
+- In the same way, although rightly contemplating these five aggregates of clinging as not-self and not belonging to a self, still the learned noble disciple has not yet abandoned the “I am” conceit in relation to these five aggregates of clinging, the desire [related to the notion] “I am” and the underlying tendency towards “I am”, has not yet fully understood it, not yet become separated from it, not yet vomited it out.17 ([Location 3262](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3262))
+    - Tags: [[orange]] 
+- The simile of the dirty cloth conveys that one not only needs to go beyond explicit views of the existence of a self – the dirt – but also needs to leave behind deeply ingrained patterns of identification in the mind – the smell that still hangs around the cloth when the dirt has already been removed. ([Location 3269](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3269))
+    - Tags: [[orange]] 
+- To proceed further does not require, however, that from seeing that there is no permanent self one has to proceed to the notion that there is nothing at all. ([Location 3273](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3273))
+    - Tags: [[pink]] 
+- The task of complete de-identification only requires cutting through the bondage of attachment ([Location 3274](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3274))
+    - Tags: [[orange]] 
+- that expresses itself in the conceit “I am this” and in grasping things as “mine”. ([Location 3275](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3275))
+    - Tags: [[orange]] 
+- not-self does not mean there are no living beings at all. It only means that living beings have no permanent self. ([Location 3278](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3278))
+- the task is not to arrive at the notion that nothing exists at all. ([Location 3279](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3279))
+- The very fact that nothingness is being experienced shows that something is still there, namely the conditioned and impermanent flow of awareness that experiences the perception of nothingness. ([Location 3280](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3280))
+    - Tags: [[pink]] 
+- this flow is not one’s self. ([Location 3281](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3281))
+- The meditative progression is not just about attaining these immaterial spheres. ([Location 3288](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3288))
+    - Tags: [[orange]] 
+- different “doors to the deathless”, ([Location 3296](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3296))
+    - Tags: [[pink]] 
+- penetration to liberating knowledge can take place only as far as an attainment involves perception. ([Location 3301](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3301))
+    - Tags: [[orange]] 
+- neither-perception-nor-non-perception cannot be used to eradicate the influxes (āsava). ([Location 3305](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3305))
+    - Tags: [[pink]] 
+- Again, Ānanda, if ... one wishes to dwell much in emptiness ... one should not give attention to the perception of the sphere of infinite consciousness and not give attention to the perception of the sphere of nothingness, but should frequently give attention to the unitary <signless> concentration of the mind. ([Location 3327](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3327))
+    - Tags: [[orange]] 
+- Whatever is not present, one therefore sees as empty; whatever else is present, one sees as truly present. Ānanda, this is called truly dwelling in emptiness, without distortion.28 ([Location 3335](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3335))
+    - Tags: [[pink]] 
+- “signless” ([Location 3337](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3337))
+    - Tags: [[orange]] 
+- “non-perception”. ([Location 3338](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3338))
+    - Tags: [[orange]] 
+- nimitta. ([Location 3343](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3343))
+    - Tags: [[orange]] 
+- A nimitta is a sign in the sense that it can refer to the outward characteristic mark of things. ([Location 3343](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3343))
+- These characteristics are the signs, the sign-als, that make it possible to recognize things. ([Location 3343](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3343))
+    - Tags: [[blue]] 
+- if what is seen is limited just to seeing, then one does not grasp the nimitta of visible forms with thoughts of craving. That is, one does not grasp the outward characteristics of the form with craving. ([Location 3347](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3347))
+    - Tags: [[pink]] 
+- the nimitta, on being grasped, causes the arising of craving and attachment. ([Location 3351](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3351))
+    - Tags: [[blue]] 
+- what causes one to gain tranquillity or concentration. ([Location 3353](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3353))
+    - Tags: [[orange]] 
+- In relation to the process of perception in general, the nimitta is what causes one to recognize something. ([Location 3357](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3357))
+- the functioning of a nimitta as a central factor in the operational mechanics of memory and recognition. ([Location 3374](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3374))
+    - Tags: [[orange]] 
+- Without some degree of conceptual recognition it would not be possible to develop wisdom and liberating insight. ([Location 3377](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3377))
+    - Tags: [[orange]] 
+- A problem does occur, however, when through the mirage-like ability of perception things are perceived with attachment. ([Location 3377](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3377))
+- So the ability to recognize relies in particular on those nimittas that are least susceptible to change. ([Location 3388](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3388))
+    - Tags: [[orange]] 
+- recognition strengthens precisely this ability to discern those signs that are prone to remain stable. ([Location 3388](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3388))
+- This tendency needs to be counterbalanced by giving attention to the nimitta of impermanence, in the sense of intentionally directing attention to the characteristic of change. ([Location 3391](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3391))
+- one should not give any attention to signs, and instead give attention to the signless element.35 ([Location 3395](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3395))
+    - Tags: [[orange]] 
+- When cultivating signless concentration, however, the absence of any mental proliferation and reaction is taken to such a level that this leads to a concentrated mental condition utterly devoid of any concept or notion whatsoever. ([Location 3397](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3397))
+    - Tags: [[pink]] 
+- difference between the experiences of signlessness and of neither-perception-nor-non-perception. ([Location 3400](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3400))
+    - Tags: [[blue]] 
+- signless concentration, however, perception is not subdued. ([Location 3402](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3402))
+    - Tags: [[pink]] 
+- abstraction ([Location 3403](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3403))
+- dispenses with all concepts. ([Location 3405](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3405))
+    - Tags: [[pink]] 
+- Even the notion that the whole world is empty of a self and what belongs to a self has to be left behind at this point. ([Location 3405](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3405))
+    - Tags: [[orange]] 
+- parable of the raft. ([Location 3407](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3407))
+    - Tags: [[orange]] 
+- Just as the raft is to be left behind, once it has fulfilled its purpose of allowing one to cross over a river, similarly even the core teaching of early Buddhism on not-self is only meant to lead over to the other shore. It is not something to be clung to and then carried around on one’s head, so to speak. ([Location 3407](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3407))
+- the gradual entry into emptiness arrives at an experience of emptiness that even dispenses with the concept of emptiness. ([Location 3409](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3409))
+    - Tags: [[blue]] 
+- The absence of nimittas is also characteristic of the experience of Nirvāṇa, together with the characteristics of desirelessness and emptiness. ([Location 3410](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3410))
+    - Tags: [[pink]] 
+- Contact with signlessness will also be experienced on emerging from the attainment of the cessation of perception and feeling.37 ([Location 3412](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3412))
+    - Tags: [[orange]] 
+- the range or pasture of those who are fully liberated is empty and signless.38 ([Location 3414](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3414))
+    - Tags: [[orange]] 
+- letting go of all signs and inclining the mind towards Nirvāṇa. ([Location 3417](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3417))
+    - Tags: [[orange]] 
+- Gaṅges inclining towards the ocean. ([Location 3429](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3429))
+    - Tags: [[pink]] 
+- Such inclining is a natural process that can begin like a small brook, after having received the great rain of the teachings. ([Location 3432](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3432))
+    - Tags: [[orange]] 
+- In the course of time even the small brook will become a powerful river that irreversibly flows towards the great ocean of the realization of Nirvāṇa. ([Location 3433](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3433))
+- experiencing concentration on the signless does not in itself imply having already reached final liberation. ([Location 3435](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3435))
+    - Tags: [[blue]] 
+- even a mighty river is not yet the ocean. ([Location 3436](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3436))
+    - Tags: [[pink]] 
+- just as all the water in the ocean is pervaded by salt, in the same way all the teachings are pervaded by the flavour of liberation. ([Location 3437](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3437))
+    - Tags: [[orange]] 
+- However profound a particular experience of emptiness may be, it is bound to change. ([Location 3457](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3457))
+    - Tags: [[blue]] 
+- Whatever is not present, one therefore sees as empty; whatever else is present, one sees as truly present. ([Location 3477](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3477))
+    - Tags: [[orange]] 
+- The actual insight contemplation used for the breakthrough to full liberation in the Cūḷasuññata-sutta differs in so far as it involves directing attention to the conditioned and therefore impermanent nature of the signless concentration of the mind. ([Location 3480](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3480))
+    - Tags: [[pink]] 
+- It is a product fabricated by one’s own intentions. ([Location 3485](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3485))
+    - Tags: [[pink]] 
+- What is conditioned and impermanent is not really fit for being clung to with delight, ([Location 3487](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3487))
+    - Tags: [[orange]] 
+- virāga. ([Location 3488](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3488))
+    - Tags: [[blue]] 
+- This term stands for “dispassion” (= absence of delight) as well as for “fading away” (= impermanence). ([Location 3488](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3488))
+    - Tags: [[orange]] 
+- Becoming dispassionate with what is impermanent and conditioned then enables the breakthrough to full liberation. ([Location 3490](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3490))
+    - Tags: [[orange]] 
+- At this point the only weariness left, if it can even be called such, is simply the continuity of life, symbolized by the body and the senses. ([Location 3491](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3491))
+- emptiness is really about, namely voiding the mind of all defilements. ([Location 3494](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3494))
+- The first of these steps directs attention to the present situation, taking this as a stepping stone for a gradual entry into emptiness. ([Location 3515](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3515))
+    - Tags: [[orange]] 
+- unitary perception that is based on something more stable ([Location 3519](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3519))
+- theme of seclusion, ([Location 3522](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3522))
+- The third step proceeds from forest to earth. ([Location 3524](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3524))
+    - Tags: [[orange]] 
+- notion of solidity. ([Location 3527](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3527))
+    - Tags: [[orange]] 
+- modes of viewing begin to employ abstraction. ([Location 3528](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3528))
+    - Tags: [[orange]] 
+- immaterial spheres. ([Location 3531](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3531))
+    - Tags: [[orange]] 
+- by a sense of there being no obstruction or limits anywhere. ([Location 3534](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3534))
+    - Tags: [[orange]] 
+- deconstruct the mind’s tendency to perceive material objects as if they were solid ([Location 3535](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3535))
+    - Tags: [[orange]] 
+- and independently existing ([Location 3535](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3535))
+    - Tags: [[orange]] 
+- turning attention to the mind ([Location 3538](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3538))
+    - Tags: [[orange]] 
+- consciousness functions as the very foundation of subjective experience. ([Location 3540](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3540))
+    - Tags: [[orange]] 
+- mental projections and evaluations ([Location 3541](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3541))
+    - Tags: [[orange]] 
+- the notion that there is nothing. ([Location 3543](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3543))
+    - Tags: [[orange]] 
+- “this is empty of a self and what pertains to a self” ([Location 3545](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3545))
+    - Tags: [[orange]] 
+- qualify as a self, nothing at all to be identified with, and nothing at all to be appropriated as one’s own. ([Location 3547](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3547))
+    - Tags: [[orange]] 
+- signlessness. ([Location 3552](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3552))
+    - Tags: [[orange]] 
+- recognizing tendency of the mind has been transcended. ([Location 3554](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3554))
+    - Tags: [[pink]] 
+- The task is to let go of any notion or concept in the mind whatsoever. ([Location 3555](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3555))
+    - Tags: [[pink]] 
+- Central here is the recognition that the experience of signlessness is of a conditioned nature, therefore it is impermanent and one should avoid delighting in it. ([Location 3557](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3557))
+    - Tags: [[orange]] 
+- giving up even the most subtle holding on to any experience of emptiness, ([Location 3558](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3558))
+- conditionality ([Location 3561](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3561))
+    - Tags: [[pink]] 
+- realization of the unconditioned. ([Location 3564](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3564))
+    - Tags: [[orange]] 
+- If a particular hindrance manifests with some strength, however, measures need to be taken to overcome it. These could be: bringing to mind unattractive aspects of what arouses one’s sensual desire (1); cultivating mettā to overcome anger (2); putting energy into the practice to emerge from sloth-and-torpor (3); calming the mind to leave behind restlessness-and-worry (4); and reflecting on what is wholesome and what is unwholesome to set aside doubt (5).2 ([Location 3735](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3735))
+- equanimity is particularly helpful in the case of sensual desire (1), ([Location 3740](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3740))
+    - Tags: [[pink]] 
+- the compassionate wish for freedom from affliction for all living beings, including oneself, can become a powerful stimulation for emerging from the suffering that anger causes to oneself. ([Location 3749](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3749))
+    - Tags: [[pink]] 
+- One of the causes for the arising of sloth-and-torpor (3) is a lack of inspiration and some degree of boredom with the practice. ([Location 3755](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3755))
+    - Tags: [[blue]] 
+- Doubt (5) can manifest in various ways, and some of its manifestations cannot be settled during the meditation session, but have to be set aside for clarification at a later time. ([Location 3763](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3763))
+- Once no hindrance is present in the mind, it can be helpful to pause a moment with awareness of their absence and consciously rejoice in this mental condition. ([Location 3769](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3769))
+    - Tags: [[pink]] 
+- compare the presence of these five hindrances to being in debt, being sick, being in bondage, being a slave, and being on a dangerous journey.3 ([Location 3770](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3770))
+    - Tags: [[orange]] 
+- A mind free from the hindrances is comparable to having paid off a debt, having recovered from a disease, being released from bondage or slavery, and having safely completed a dangerous journey. ([Location 3772](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3772))
+    - Tags: [[blue]] 
+- the mind has already been unified ([Location 3942](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3942))
+- condition that in the gradual entry into emptiness takes place through the first steps up to the perception of earth – practice could directly move on to the perception of infinite space. ([Location 3942](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3942))
+    - Tags: [[orange]] 
+- All of these transitions involve a shift from one attitude or perception to another that is quite distinct. ([Location 3947](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3947))
+    - Tags: [[pink]] 
+- In the present transition, however, the difference is only that with the fourth divine abode the focus has been more on the attitude of equanimity that informs the boundlessness, whereas with infinite space the focus is more on the boundlessness that has been reached through dwelling in equanimity. ([Location 3948](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3948))
+    - Tags: [[orange]] 
+- The same procedure of starting with the body is also helpful when a distraction arises. ([Location 3960](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3960))
+    - Tags: [[pink]] 
+- By moving in this way from the internal to the external dimension of the perception of infinite space, it becomes easy to stabilize the mind and avoid it succumbing to another distraction. ([Location 3962](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3962))
+    - Tags: [[orange]] 
+- If a distraction has been long and intense, and the mind has really been taken for a long ride, it can be advisable to move briefly through the preceding step that one has taken to arrive at infinite space. ([Location 3966](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3966))
+    - Tags: [[blue]] 
+- Should this not prove enough to keep the mind from distraction, at times one might even decide to start right from the beginning in order to give the mind something to do. ([Location 3972](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3972))
+- The description of the practice in the Cūḷasuññata-sutta and its parallels in fact places reflections on the various types of weariness just before or right after one dwells in the actual step in the gradual entry into emptiness. ([Location 3979](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3979))
+    - Tags: [[pink]] 
+- Now the gradual entry into emptiness involves perceptual experiences that need to be handled well. Their profundity can trigger fear or else become seductive. ([Location 3983](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3983))
+    - Tags: [[pink]] 
+- As the final passage in the Āneñjasappāya-sutta indicates, it is only by letting go of all sense of identity that the deathless can be reached. ([Location 3986](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3986))
+    - Tags: [[orange]] 
+- However profound the various experiences encountered during the gradual entry into emptiness may be, liberation is much more profound. This final goal of genuine practice needs at all times to be clearly held in mind. ([Location 3988](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3988))
+- whereas in the case of the divine abodes the way to integrate their meditative cultivation in everyday life is predominantly through kindness in body, speech, and mind, ([Location 3990](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3990))
+    - Tags: [[orange]] 
+- in the case of emptiness each of the steps in the gradual approach has a specific relationship to everyday activities. ([Location 3991](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3991))
+    - Tags: [[blue]] 
+- In the case of the perception of infinite space, formal meditation practice can be complemented by becoming aware of space during periods outside of actual sitting practice. ([Location 3993](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3993))
+- There is so much space surrounding the various things in the world, yet one usually only notices these things themselves, without paying any attention to the space between and around them.15 Even right now one could notice the space between one’s eyes and this text... The silence between sounds, the stillness between an inhalation and an exhalation are other pointers in the same direction, and of course looking up at the vastness of the sky, whenever possible. ([Location 3994](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3994))
+    - Tags: [[pink]] 
+- another dimension can be explored by reminding oneself of the ultimately insubstantial nature of all material things, which for the most part are just space. ([Location 3999](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=3999))
+    - Tags: [[orange]] 
+- Training oneself to pay attention to space can also have a bearing on one’s way of relating to others, in that it can express itself by giving space to others and their concerns. ([Location 4001](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=4001))
+    - Tags: [[blue]] 
+- This relates back to the description given in the Cūḷagosiṅga-sutta and its parallels of a harmonious way of living together. Such harmony can be achieved by letting go of what one wants oneself and being willing to go along with others. ([Location 4002](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=4002))
+    - Tags: [[pink]] 
+- In relation to verbal activities, giving space to others can express itself in an increased willingness to listen, instead of feeling the need to break in and have one’s own say or to dominate any discussion by the sheer quantity of one’s verbal contribution to it. ([Location 4005](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=4005))
+    - Tags: [[orange]] 
+- infinite consciousness. This requires directing attention to the spaciousness of the mind that has come about through paying attention to infinite space.17 ([Location 4012](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=4012))
+    - Tags: [[orange]] 
+- If one hears such sounds, ideally with closed eyes, instead of the natural tendency to locate the sound somewhere outside, one could allow the sound to come up to the ear. Then one in a way continues in the same inward direction by becoming aware of that which knows the sound. Once in this or any other way consciousness has been recognized, it will be possible to develop this in formal meditation, following the model of practice of the divine abodes and of infinite space, with which one is already familiar. ([Location 4020](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=4020))
+    - Tags: [[orange]] 
+- The experience of infinite consciousness will make it unmistakeably clear that mind by nature has no boundaries, unless we impose boundaries on it. ([Location 4027](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=4027))
+    - Tags: [[orange]] 
+- As a result of directing attention to consciousness during formal meditation, in daily situations one more keenly notices one’s own intentions and mental reactions as well as the influence exerted by mental evaluations on how one perceives what is experienced. One also becomes more sensitive to what motivates others, better able to notice and understand their concerns. The realization dawns that all that really matters is the mind. ([Location 4028](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=4028))
+    - Tags: [[blue]] 
+- Stopping short at just being aware in this way will reveal the potential of this succinct instruction to decondition the mind, directly counteracting the tendency to cling and grasp, and to project one’s evaluations tinged by clinging and grasping onto the raw data of sense experience. ([Location 4032](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=4032))
+    - Tags: [[orange]] 
+- proceeding from infinite consciousness to nothingness. ([Location 4035](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=4035))
+- At this point, the weariness of space and consciousness have been left behind and the resultant experience is thoroughly empty, except for this very last vestige of weariness, the notion of not-self. ([Location 4038](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=4038))
+    - Tags: [[orange]] 
+- Continuing the trajectory of the gradual entry into emptiness then leads to the signless. ([Location 4043](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=4043))
+    - Tags: [[orange]] 
+- the mind has been so thoroughly emptied that it effortlessly remains in a condition without any reference point. ([Location 4045](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=4045))
+    - Tags: [[pink]] 
+- supreme emptiness. ([Location 4047](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=4047))
+- The everyday-life dimension of signlessness as a step in the gradual entry into emptiness manifests in a profound sense of letting go that pervades all activities and experiences. Nothing can really agitate the mind, which has but one priority: progress to freedom. ([Location 4047](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=4047))
+    - Tags: [[blue]] 
+- This final goal requires insight into the impermanent nature of this and any other experience, together with the absence of any delight in it. ([Location 4050](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=4050))
+- This is peaceful, this is sublime, namely: the calming of all constructions, the letting go of all supports, the extinguishing of craving, dispassion, cessation, Nirvāṇa. ([Location 4056](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=4056))
+    - Tags: [[orange]] 
+- “If [someone] performs deeds intentionally, I say that he will inevitably have to experience their fruits, either experiencing them in this life or experiencing them in a later life. ([Location 4134](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=4134))
+- If [someone] performs deeds unintentionally, I say that he will not necessarily have to experience their fruits. ([Location 4135](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=4135))
+    - Tags: [[blue]] 
+- bodily deeds ([Location 4137](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=4137))
+- verbal deeds ([Location 4138](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=4138))
+    - Tags: [[pink]] 
+- mental deeds ([Location 4138](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=4138))
+    - Tags: [[orange]] 
+- Killing ([Location 4140](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=4140))
+- including insects. ([Location 4141](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=4141))
+- “Taking ([Location 4142](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=4142))
+- “Sexual misconduct ([Location 4143](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=4143))
+- verbal ([Location 4148](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=4148))
+    - Tags: [[blue]] 
+- Speaking falsehood ([Location 4149](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=4149))
+    - Tags: [[blue]] 
+- “Divisive speech ([Location 4152](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=4152))
+    - Tags: [[blue]] 
+- “Harsh speech ([Location 4155](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=4155))
+    - Tags: [[blue]] 
+- “Frivolous talk ([Location 4157](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=4157))
+    - Tags: [[blue]] 
+- mental deeds ([Location 4162](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=4162))
+    - Tags: [[pink]] 
+- Covetousness ([Location 4163](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=4163))
+    - Tags: [[pink]] 
+- “Irritation and ill ([Location 4164](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=4164))
+    - Tags: [[pink]] 
+- “Wrong view ([Location 4166](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=4166))
+    - Tags: [[pink]] 
+- ‘Ānanda, I often dwell in emptiness.’ ([Location 4248](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=4248))
+    - Tags: [[orange]] 
+- whatever is not present, I therefore see as empty; and whatever else is present, I see as truly present. Ānanda, this is called truly dwelling in emptiness, without distortion. ([Location 4253](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=4253))
+    - Tags: [[orange]] 
+- if a monk wishes to dwell much in emptiness, that monk should not give attention to the perception of village and not give attention to the perception of people, but should frequently give attention to the unitary perception of forest. ([Location 4255](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=4255))
+- Yet there is this non-emptiness: just the unitary perception of forest. ([Location 4257](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=4257))
+    - Tags: [[blue]] 
+- ‘Whatever weariness because of the perception of village there might be – that is not present for me. ([Location 4258](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=4258))
+    - Tags: [[pink]] 
+- Whatever weariness because of the perception of people there might be – that is also not present for me. There ([Location 4259](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=4259))
+    - Tags: [[orange]] 
+- is only the weariness because of the unitary perception of forest. ([Location 4259](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=4259))
+    - Tags: [[pink]] 
+- unitary perception of earth. ([Location 4263](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=4263))
+    - Tags: [[orange]] 
+- perception of the sphere of infinite space. ([Location 4284](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=4284))
+    - Tags: [[pink]] 
+- perception of the sphere of infinite consciousness, ([Location 4291](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=4291))
+    - Tags: [[blue]] 
+- if a monk wishes to dwell much in emptiness, that monk should not give attention to the perception of the sphere of infinite consciousness and not give attention to the perception of the sphere of nothingness, but should frequently give attention to the unitary <signless> concentration of the mind.3 ([Location 4298](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=4298))
+    - Tags: [[orange]] 
+- ‘My [experience] of the <signless> concentration of the mind is rooted – it is rooted in formations, it is rooted in intentions. What is rooted in formations, rooted in intentions, I do not delight in that, I do not seek that, I should not become established in that.’ ([Location 4307](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=4307))
+    - Tags: [[orange]] 
+- Knowing in this way, seeing in this way, his mind is liberated from the influx of sensual desire, [his mind is liberated] from the influx of existence, and his mind is liberated from the influx of ignorance. Being liberated, he knows he is liberated. He knows as it really is that birth has been extinguished, the holy life has been established, what had to be done has been done, there will be no experiencing of further existence. ([Location 4309](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=4309))
+    - Tags: [[blue]] 
+- Yet there is this non-emptiness: just this body of mine with its six sense-spheres and the life faculty. ([Location 4313](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=4313))
+    - Tags: [[orange]] 
+- Ānanda, this is called truly dwelling in emptiness, without distortion, namely the eradication of the influxes, the influx-free and unconditioned liberation of the mind. ([Location 4318](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=4318))
+    - Tags: [[orange]] 
+- I also truly dwell in this emptiness, without distortion, namely in the eradication of the influxes, the influx-free and unconditioned liberation of the mind. ([Location 4324](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=4324))
+    - Tags: [[orange]] 
+- I do not see a single form that I might desire or delight in, ([Location 4367](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=4367))
+- [since] with the decay and change of that form there would at some time arise sorrow and lamentation, sadness, pain, and vexation. ([Location 4368](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=4368))
+    - Tags: [[orange]] 
+- when I dwell in this abiding, there arises joy. I experience this joy throughout the whole body with right mindfulness and right comprehension. ([Location 4370](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=4370))
+    - Tags: [[pink]] 
+- there arises rapture. ([Location 4371](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=4371))
+- there arises tranquillity. ([Location 4372](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=4372))
+    - Tags: [[pink]] 
+- there arises happiness. ([Location 4373](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=4373))
+    - Tags: [[orange]] 
+- there arises concentration. ([Location 4375](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=4375))
+- “A monk completely drenches and pervades this body with rapture and pleasure born of seclusion [experienced in the first absorption], so that no part [of his body] is not pervaded by the rapture and pleasure born of seclusion. Ānanda, it is just as a person taking a bath, who has placed bath powder in a vessel, sprinkles it with water and kneads it into a ball, so that every bit of it, inside and out, is completely drenched and pervaded with the water, with none seeping out. In the same way, Ānanda, a monk completely drenches and pervades this body with rapture and pleasure born of seclusion, so that there is no part [of his body] that is not pervaded by rapture and pleasure born of seclusion. [738c] Ānanda, in this way a monk should keep the mind internally established in tranquillity so that it becomes unified and concentrated. ([Location 4383](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=4383))
+- “Repeatedly directing his mind to this or that concentration, repeatedly practising it, repeatedly softening [the mind], so that it becomes joyful and tender, absorbed in the pleasure of seclusion, he should accomplish dwelling in emptiness internally. Having accomplished dwelling in emptiness internally, the mind becomes imperturbable, advances and progresses, attains spotlessness, is established, and is released in regard to emptiness internally. Ānanda, if a monk, while he is contemplating, comes to know that he has accomplished dwelling in emptiness internally, that the mind has become imperturbable, advances and progresses, attains spotlessness, is established, and is released in regard to emptiness internally – then this is reckoned his right comprehension. ([Location 4407](https://readwise.io/to_kindle?action=open&asin=B079Y3MYJV&location=4407))
+    - Tags: [[pink]] 

@@ -1,0 +1,8 @@
+---
+aliases:
+  - "Ishopanishad: sloka 6, 7"
+---
+
+One who sees everything as nothing but the Self, and the Self in everything one sees, such a seer withdraws from nothing. For the enlightened, all that exists is nothing but the Self, so how could any suffering or delusion continue for those who know this oneness?
+
+— Ishopanishad: sloka 6, 7

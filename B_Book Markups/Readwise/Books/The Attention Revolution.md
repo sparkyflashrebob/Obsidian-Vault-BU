@@ -1,0 +1,1078 @@
+# The Attention Revolution
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/41F2UILvoRL._SL200_.jpg)
+
+## Metadata
+- Author: [[B. Alan Wallace Ph.D.]]
+- Full Title: The Attention Revolution
+- Category: #books
+
+## Highlights
+- Our very ([Location 179](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=179))
+- perception of reality is tied closely to where we focus our attention. ([Location 179](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=179))
+- Only what we pay attention to seems real to us, whereas whatever we ignore—no matter how important it may be—seems to fade into insignificance. ([Location 179](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=179))
+    - Tags: [[orange]] 
+- Attention is always highly selective. ([Location 189](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=189))
+    - Tags: [[pink]] 
+- I suggest that if you were able to focus your attention at will, you could actually choose the universe you appear to inhabit. ([Location 193](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=193))
+    - Tags: [[blue]] 
+- a wandering mind easily falls into temptation, leading to sin. ([Location 196](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=196))
+- If we can direct our attention away from negative temptations, we stand a good chance of overcoming them. ([Location 197](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=197))
+    - Tags: [[orange]] 
+- Might “genius” be a potential we all share—each of us with our own unique capacity for creativity, requiring only the power of sustained attention to unlock it? ([Location 201](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=201))
+    - Tags: [[pink]] 
+- The mind constantly caught up in one distraction after another, on the other hand, may be forever removed from its creative potential. ([Location 203](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=203))
+- We know that the mind has powers of healing, which are sometimes attributed to the “placebo effect,” and that it has the capacity to make us ill as well. ([Location 219](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=219))
+    - Tags: [[orange]] 
+- One progresses through each stage by rooting out progressively more subtle forms of the two obstacles: mental agitation and dullness. ([Location 250](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=250))
+- mindfulness of breathing, ([Location 256](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=256))
+    - Tags: [[orange]] 
+- settling the mind in its natural state. ([Location 259](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=259))
+    - Tags: [[orange]] 
+- awareness of awareness itself. ([Location 262](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=262))
+    - Tags: [[orange]] 
+- shamatha without an object. ([Location 262](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=262))
+    - Tags: [[pink]] 
+- discovering the stillness and luminosity inherent in awareness itself. ([Location 264](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=264))
+    - Tags: [[blue]] 
+- We can use it to develop an openhearted stance toward others and, on that basis, experience profound insights into the nature of the mind and of reality, radically altering our relation to the rest of the world. ([Location 280](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=280))
+    - Tags: [[orange]] 
+- directed attention. ([Location 319](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=319))
+    - Tags: [[blue]] 
+- If you are trying to direct your attention to a difficult object, such as a complex visualization, this may take days or weeks to accomplish. ([Location 320](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=320))
+- mindfulness ([Location 322](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=322))
+    - Tags: [[orange]] 
+- Vipassana teachers, for instance, commonly explain mindfulness as a moment-to-moment, nonjudgmental awareness of whatever arises. ([Location 323](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=323))
+    - Tags: [[pink]] 
+- In the context of shamatha, however, mindfulness refers to attending continuously to a familiar object, without forgetfulness or distraction. ([Location 324](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=324))
+    - Tags: [[blue]] 
+- power of hearing. ([Location 325](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=325))
+- One of the first signs of progress in shamatha practice is simply noticing how chaotic our minds are. ([Location 328](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=328))
+- In addition to oscillating between an attention deficit (when we’re passive) and hyperactivity (when we’re active), the normal, untrained mind compulsively disgorges a toxic stream of wandering thoughts, then latches on to them obsessively, carried away by one story after another. ([Location 333](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=333))
+    - Tags: [[orange]] 
+- Hyperactivity ([Location 338](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=338))
+    - Tags: [[pink]] 
+- attention deficit ([Location 338](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=338))
+    - Tags: [[blue]] 
+- mindfulness of breathing ([Location 342](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=342))
+- While this requires an alert mind, such concentration should not be tense but rather balanced. ([Location 342](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=342))
+    - Tags: [[orange]] 
+- I was trying too hard. ([Location 357](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=357))
+    - Tags: [[orange]] 
+- learn to relax. ([Location 365](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=365))
+    - Tags: [[pink]] 
+- MINDFULNESS OF BREATHING WITH RELAXATION ([Location 367](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=367))
+    - Tags: [[blue]] 
+- relaxation, ([Location 369](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=369))
+- stillness, ([Location 369](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=369))
+    - Tags: [[orange]] 
+- vigilance. ([Location 369](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=369))
+    - Tags: [[pink]] 
+- “posture of vigilance”: ([Location 381](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=381))
+    - Tags: [[blue]] 
+- Vigilance in the supine position is mostly psychological, an attitude that regards this position as a formal meditation posture, and not simply as rest. ([Location 388](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=388))
+    - Tags: [[blue]] 
+- Be at ease. Be still. Be vigilant. ([Location 390](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=390))
+- Once you have settled your body with these three qualities, take three slow, gentle, deep breaths, breathing in and out through the nostrils. Let your awareness permeate your entire body as you do so, noting any sensations that arise in relation to the respiration. Luxuriate in these breaths, as if you were receiving a gentle massage from within. ([Location 391](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=391))
+    - Tags: [[orange]] 
+- Now settle your respiration in its natural flow. ([Location 393](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=393))
+    - Tags: [[pink]] 
+- Observe the entire course of each in- and out-breath, noting whether it is long or short, deep or shallow, slow or fast. Don’t impose any rhythm on your breathing. ([Location 394](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=394))
+    - Tags: [[blue]] 
+- Especially with each out-breath, relax your body, release extraneous thoughts, and happily let your attention settle back into the body. ([Location 400](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=400))
+- If any tension builds up in your shoulders, face, or eyes, release it. ([Location 403](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=403))
+    - Tags: [[orange]] 
+- Breathe so effortlessly that you feel as if your body were being breathed by your environment. ([Location 405](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=405))
+    - Tags: [[pink]] 
+- Breathing in long, one knows, “I breathe in long.” Breathing out long, one knows, “I breathe out long.” Breathing in short, one knows, “I breathe in short.” Breathing out short, one knows, “I breathe out short.” One trains thus: “I shall breathe in, experiencing the whole body. I shall breathe out, experiencing the whole body. I shall breathe in, soothing the domain of the body. I shall breathe out, soothing the composite of the body.” ([Location 409](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=409))
+    - Tags: [[blue]] 
+- This is a “field approach” to training the attention. ([Location 417](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=417))
+- The emphasis here is on mental and physical relaxation. ([Location 419](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=419))
+    - Tags: [[orange]] 
+- Mindfulness of breathing is universally emphasized for those who are especially prone to compulsive thinking. ([Location 421](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=421))
+    - Tags: [[pink]] 
+- Mindfulness is useful for overcoming physical and mental imbalances produced by a stressful, wound-up way of life, but you also can use mindfulness to help prevent such imbalances in the first place. ([Location 448](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=448))
+- mindfulness of breathing can be used to prevent the contamination of our inner environment. ([Location 450](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=450))
+    - Tags: [[orange]] 
+- In the same way, rather than adopting any special breathing technique, you simply stop disturbing your respiration with disruptive thoughts and emotions. Before long, you will find that the healthy flow of the breath is restored naturally. ([Location 455](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=455))
+    - Tags: [[blue]] 
+- Not controlling the breath, we let the respiration flow as effortlessly as possible, allowing the body to restore its balance in its own way. ([Location 469](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=469))
+- Simply focusing your attention on the sensations of the breath is directed attention, the first stage of this practice. You have achieved the first stage once you are able to sustain your attention on the breath for even a few seconds. When pursued earnestly, a little mindfulness meditation in the morning or at night immediately brings greater clarity to all activities and provides a natural check on unhealthy habits. ([Location 470](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=470))
+    - Tags: [[orange]] 
+- Creating time to balance your mind requires a measure of loving-kindness for yourself. ([Location 474](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=474))
+    - Tags: [[pink]] 
+- Thus, to be able to make choices that are truly conducive to your well-being, as opposed to merely providing pleasurable sensations, you may first need to cultivate loving-kindness. ([Location 474](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=474))
+    - Tags: [[blue]] 
+- How we fill our days is simply a matter of our priorities. ([Location 480](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=480))
+    - Tags: [[blue]] 
+- What elective activities fill the moments of our days depends on our values. ([Location 483](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=483))
+- Another way of saying this is that, after taking care of our basic needs, the rest of our time is devoted to fulfilling our heart’s desires. ([Location 484](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=484))
+    - Tags: [[orange]] 
+- How much satisfaction has your life brought you thus far? ([Location 487](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=487))
+    - Tags: [[pink]] 
+- the pursuit of genuine happiness is the purpose of life. ([Location 490](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=490))
+    - Tags: [[blue]] 
+- Genuine happiness is a symptom of a balanced, healthy mind, just as a sense of physical well-being is a sign of a healthy body. ([Location 492](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=492))
+- But our mental suffering on many occasions serves no good purpose at all. ([Location 494](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=494))
+    - Tags: [[orange]] 
+- It is an affliction with no benefit to us. ([Location 495](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=495))
+    - Tags: [[blue]] 
+- It is just a symptom of an unbalanced mind. ([Location 495](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=495))
+- Our first act of freedom should be to choose our priorities wisely. ([Location 499](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=499))
+    - Tags: [[orange]] 
+- conation ([Location 502](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=502))
+    - Tags: [[pink]] 
+- Conative balance, a crucial element of mental health, is expressed when our desires are conducive to our own and others’ genuine happiness. ([Location 502](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=502))
+    - Tags: [[blue]] 
+- Conative imbalances, on the other hand, are ways that our desires lead us away from mental health and into psychological distress. ([Location 503](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=503))
+- conative deficit, ([Location 504](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=504))
+    - Tags: [[orange]] 
+- conative hyperactivity, ([Location 505](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=505))
+    - Tags: [[pink]] 
+- conative dysfunction. ([Location 505](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=505))
+    - Tags: [[blue]] 
+- conative deficit ([Location 505](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=505))
+- apathy toward greater happiness and its causes. ([Location 505](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=505))
+- lack of imagination ([Location 506](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=506))
+- stagnation: ([Location 506](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=506))
+- Conative ([Location 507](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=507))
+    - Tags: [[orange]] 
+- hyperactivity ([Location 507](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=507))
+    - Tags: [[orange]] 
+- obsessive desires obscure the reality of the present. ([Location 508](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=508))
+    - Tags: [[orange]] 
+- conative dysfunction ([Location 509](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=509))
+    - Tags: [[pink]] 
+- when we do desire things that are destructive to our own or others’ well-being, and don’t desire the things that lead to genuine happiness for both ourselves and others. ([Location 509](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=509))
+    - Tags: [[pink]] 
+- “Those seeking to escape from suffering hasten right toward their own misery. And with the very desire for happiness, out of delusion they destroy their own well-being as if it were their enemy.” ([Location 514](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=514))
+    - Tags: [[blue]] 
+- Psychologists have called this the hedonic treadmill,11 and the first step to escaping from this exhausting grind is to seek a vision of genuine happiness that draws on our own, largely untapped inner resources. ([Location 526](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=526))
+- Then allow the yearning to arise: may these authentic desires be fulfilled! ([Location 539](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=539))
+    - Tags: [[orange]] 
+- What kind of a person do I want to become? What personal qualities do I want to possess? ([Location 545](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=545))
+    - Tags: [[pink]] 
+- What would I love to offer to the world, to those around me and to the environment at large? What kind of a mark would I love to make on the world? ([Location 549](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=549))
+    - Tags: [[blue]] 
+- misguided desires. ([Location 561](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=561))
+    - Tags: [[blue]] 
+- The general symptoms of a mind prone to craving are dissatisfaction, restlessness, and anxiety. ([Location 561](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=561))
+- coarse excitation, ([Location 565](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=565))
+- Such turbulence is overcome only by persistent skillful practice, cultivating deeper relaxation, a sense of inner ease. ([Location 570](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=570))
+- power of thinking. ([Location 581](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=581))
+    - Tags: [[orange]] 
+- sustain interest in the object, ([Location 582](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=582))
+    - Tags: [[orange]] 
+- If you are a seasoned meditator, you have probably found that involuntary, internal commentary on your practice can be an obstacle. ([Location 583](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=583))
+    - Tags: [[pink]] 
+- However, internal commentary can also be useful, especially in the first two stages of shamatha practice; if you’re thinking about the practice, at least you’re not thinking about something else! ([Location 584](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=584))
+    - Tags: [[blue]] 
+- Another way to use the power of thinking to help calm the distracted, wandering mind is to count the breaths. ([Location 586](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=586))
+- Instead of having many things to think about during the meditation, you reduce your thinking just to counting your breaths. ([Location 588](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=588))
+- don’t lose your earlier sense of relaxation. ([Location 589](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=589))
+    - Tags: [[orange]] 
+- relaxation, stillness, and vigilance. ([Location 593](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=593))
+    - Tags: [[pink]] 
+- establish a basis in relaxation. ([Location 596](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=596))
+    - Tags: [[blue]] 
+- shift your emphasis to the cultivation of attentional stability. ([Location 596](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=596))
+- unintentional thoughts ([Location 601](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=601))
+    - Tags: [[orange]] 
+- count the breaths. ([Location 601](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=601))
+    - Tags: [[orange]] 
+- primarily concerned with mindfulness of breathing, not counting. ([Location 608](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=608))
+    - Tags: [[orange]] 
+- arouse your attention (counteracting laxity) during the in-breath, and relax your attention (counteracting excitation) with each out-breath. ([Location 613](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=613))
+    - Tags: [[pink]] 
+- Meditation is a balancing act between attention and relaxation. ([Location 615](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=615))
+    - Tags: [[blue]] 
+- bare attention, ([Location 620](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=620))
+- the mind is fully focused on the sensory impressions appearing to it, moment to moment, rather than getting caught up in conceptual and emotional responses to those stimuli. ([Location 620](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=620))
+    - Tags: [[orange]] 
+- this technique of focusing on the abdomen, which is commonly taught in the Burmese Theravada tradition, can be especially helpful for stabilizing the mind. ([Location 633](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=633))
+- “mindfulness with breathing.” ([Location 651](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=651))
+    - Tags: [[pink]] 
+- The unrest you experience in your body and mind is not the real problem, it is symptomatic of the extent to which your whole psychosomatic system is out of tune. ([Location 657](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=657))
+    - Tags: [[blue]] 
+- cognitive deficit disorder. ([Location 662](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=662))
+    - Tags: [[blue]] 
+- the mind goes absent without leave, and we wake up to our mindlessness only after the fact. ([Location 663](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=663))
+    - Tags: [[blue]] 
+- Have your ever seen something that simply wasn’t there, or heard someone make a remark… ([Location 666](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=666))
+- cognitive hyperactivity… ([Location 667](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=667))
+- we project things onto… ([Location 668](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=668))
+- then assume that our projections are… ([Location 668](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=668))
+- if we casually let our minds succumb to excitation and laxity throughout the day, there’s little chance that our formal training during… ([Location 672](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=672))
+    - Tags: [[orange]] 
+- Even in the midst of work, we can take off fifteen seconds here and sixty seconds there to balance the attention by… ([Location 675](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=675))
+    - Tags: [[pink]] 
+- There are many brief occasions from the time we get up in the morning until we fall asleep at night when we can “season our day” with a… ([Location 677](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=677))
+    - Tags: [[blue]] 
+- And each time we do it, we may immediately feel the soothing effect on our bodies and minds. In this way, we can begin to integrate the quality of awareness that we cultivate during meditation with the awareness that we… ([Location 678](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=678))
+- The quality of bare attention we cultivate during mindfulness of the sensations of breathing can be applied… ([Location 680](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=680))
+    - Tags: [[orange]] 
+- focus bare attention on each of your five physical senses as they arise in relation to the meal set before you. Let your visual, olfactory, gustatory, auditory, and tactile senses individually experience the food by way of bare attention, with as little conceptual overlay as possible. Begin by directing your mindfulness to the visual appearance of the food—just its colors and shapes. Let go of any conceptual associations you may have regarding these visual impressions. Let go of preferences or judgments of the food. Your likes and dislikes are not present in the food itself, nor in its colors and shapes. Just be present with the shapes and colors of your meal, focusing on them with bare attention. Now close your eyes for a few moments and focus on the smells of the food. Be totally present with just those fragrances, noting how they change from moment to moment. Recognize the nuances of these aromas with discerning mindfulness, but without mixing your immediate experience with labels and concepts, likes and dislikes. Now take a mouthful of the food and, with your eyes remaining closed, direct your bare attention to the tastes that arise in your mouth. Eat slowly, mindful of the changes in flavors that rise up to meet you. As you chew the food, direct your attention to the sounds of eating. They… ([Location 682](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=682))
+    - Tags: [[orange]] 
+- think the food looks like, and focus solely on the tactile qualities of the food as it… ([Location 693](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=693))
+    - Tags: [[orange]] 
+- our conceptual overlays drown out the sensory qualities of the… ([Location 695](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=695))
+    - Tags: [[pink]] 
+- Just as a meal can pass by unnoticed, so can the rest… ([Location 697](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=697))
+    - Tags: [[blue]] 
+- All too often, we miss out on what was happening, imagine things that never happened at all, and recall only the assumptions, expectations, and… ([Location 698](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=698))
+- The challenge here is to distinguish what reality is presenting to our senses from moment to moment from what we are superimposing… ([Location 700](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=700))
+    - Tags: [[orange]] 
+- “In the seen there is only the seen; in the heard, there is only the heard; in the sensed, there is only the sensed; in the mentally perceived,… ([Location 702](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=702))
+    - Tags: [[pink]] 
+- According to Buddhist psychology, in any single moment of awareness, which may be as brief as one millisecond, attention is… ([Location 704](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=704))
+    - Tags: [[blue]] 
+- But during the course of these momentary pulses of consciousness, attention jumps rapidly from one sense field to another, like a chimpanzee on amphetamines. In the blur of these shifts among the sense fields, the mind “makes sense” of the world by superimposing familiar conceptual grids on our perceptions. In this way our experience of the world is structured and appears familiar to us. This is not a bad thing. In fact, it would be very difficult to function in daily life without such conceptual structuring. But problems emerge… ([Location 705](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=705))
+    - Tags: [[blue]] 
+- At any given moment, our minds are on one… ([Location 711](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=711))
+- The practice of focused attention is essentially “non-multitasking.” ([Location 716](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=716))
+    - Tags: [[orange]] 
+- Even when we think we are multitasking, according to Buddhist psychology, we’re actually moving our attention from one task to another with great rapidity. This is necessary at times, and when it is, try to do so as mindfully as possible. ([Location 719](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=719))
+    - Tags: [[pink]] 
+- The real aim of this practice is to cultivate mental balance that results in genuine happiness, and indifference to others is not a sign of genuine happiness or mental health. ([Location 726](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=726))
+    - Tags: [[blue]] 
+- Rather than suppressing the symptoms of an imbalanced mind by losing ourselves in work or entertainment, we can engage in our practice and go to the root of the problem and cultivate our minds. ([Location 730](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=730))
+- we are all cultivating our minds in one way or another all the time, through the way we use our attention. ([Location 733](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=733))
+    - Tags: [[orange]] 
+- Impediment to mental balance that are especially common in the West are self-judgment, guilt, and low self-esteem. ([Location 735](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=735))
+    - Tags: [[pink]] 
+- We suffer because our minds are afflicted by various kinds of imbalances, which lead us to seek happiness in all the wrong places. ([Location 743](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=743))
+    - Tags: [[blue]] 
+- spirit of emergence, ([Location 746](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=746))
+- resurgent attention, ([Location 776](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=776))
+    - Tags: [[blue]] 
+- your attention is fixed most of the time upon your meditative object. ([Location 776](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=776))
+- value the quality of your meditation over the quantity of time spent in each session. ([Location 778](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=778))
+    - Tags: [[orange]] 
+- Occasionally there are still lapses when you completely forget the object, but you quickly recognize them and patch up these holes in the continuity of attention. ([Location 783](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=783))
+- The third stage is achieved only when your mind remains focused on the object most of the time in virtually all your sessions. ([Location 786](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=786))
+    - Tags: [[orange]] 
+- excitation, and it is with the power of mindfulness that you accomplish this third stage. ([Location 788](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=788))
+    - Tags: [[pink]] 
+- During the early 1970s, I knew of one fellow who decided on his own that the whole point of meditation was to stop thinking, and he diligently applied himself to this goal for days on end. Eventually, he reached this goal by becoming vegetative, unable even to feed himself, and he needed to be hospitalized. ([Location 794](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=794))
+    - Tags: [[orange]] 
+- hone the ability to monitor the quality of your attention. ([Location 797](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=797))
+    - Tags: [[pink]] 
+- introspection, ([Location 799](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=799))
+    - Tags: [[blue]] 
+- note when the mind has fallen into either excitation or laxity. ([Location 800](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=800))
+- Your first antidote to excitation is to relax more deeply; to counteract laxity, arouse your attention. ([Location 801](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=801))
+    - Tags: [[orange]] 
+- Simply let them go and refocus your attention as single-pointedly as you can on your chosen object of meditation. ([Location 804](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=804))
+    - Tags: [[pink]] 
+- Rounded, integrated practice is like maintaining a healthy diet. ([Location 808](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=808))
+    - Tags: [[blue]] 
+- The achievement of the stage of resurgent attention requires a greater commitment to practice. ([Location 814](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=814))
+- The key to success is to conduct your life between sessions in such a way that you don’t lose the ground you have gained. ([Location 816](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=816))
+    - Tags: [[orange]] 
+- the initial emphasis in shamatha practice is on relaxation, ([Location 821](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=821))
+    - Tags: [[pink]] 
+- The second emphasis is on stability of attention, ([Location 822](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=822))
+    - Tags: [[blue]] 
+- having established a foundation of relaxation and stability, we shift the emphasis to cultivating vividness of attention. ([Location 823](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=823))
+    - Tags: [[blue]] 
+- Direct your attention to the tactile sensations of your breath at the apertures of your nostrils or above your upper lip, wherever you feel the in- and out-flow of your breath. ([Location 828](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=828))
+- If the breath becomes so subtle that you can’t detect the sensations of its flow, quiet your mind and observe more carefully. ([Location 831](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=831))
+    - Tags: [[orange]] 
+- healing effect of balanced attention. ([Location 843](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=843))
+    - Tags: [[orange]] 
+- When awareness is brought to rest on a neutral object, such as the breath, immediately every distressing thought disappears, and the mind becomes peaceful, sublime, and happy. ([Location 843](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=843))
+    - Tags: [[pink]] 
+- counting the breaths. ([Location 849](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=849))
+    - Tags: [[blue]] 
+- “quick counting.” ([Location 849](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=849))
+    - Tags: [[blue]] 
+- counting the breaths backward, ([Location 852](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=852))
+    - Tags: [[blue]] 
+- counting two breaths as one, four as one, and so on, slowing the pace of counting to include ever larger clusters of breaths. ([Location 853](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=853))
+    - Tags: [[blue]] 
+- you can stop counting. ([Location 855](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=855))
+    - Tags: [[blue]] 
+- At times it may become so subtle that you can’t detect it at all. This challenges you to enhance the vividness of attention. In other words, you have to pay closer and closer attention to these sensations in order to stay mentally engaged with the breath.21 ([Location 859](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=859))
+- But in this practice, the more you arouse your attention, the more deeply the mind relaxes. ([Location 873](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=873))
+    - Tags: [[orange]] 
+- Unbroken continuity of practice is vital. ([Location 878](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=878))
+- Imagine starting a fire by rubbing two sticks together: if you rub the sticks together for only a few moments, then rest, then do it for a few moments, then rest, you could continue in this way for years without even igniting a spark. ([Location 878](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=878))
+    - Tags: [[orange]] 
+- Likewise, if you are intent on progressing through all the nine stages, the time-tested way to proceed is to radically simplify your life, withdraw temporarily into solitude, and devote yourself full-time to this practice for extended periods. ([Location 880](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=880))
+    - Tags: [[pink]] 
+- It is not easy to achieve the bliss of shamatha without leaving heavily populated areas, which tend to be noisy and congested. In contrast, in the wilderness, removed from society, a meditator can more easily set his mind at ease and accomplish meditative stabilization. ([Location 881](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=881))
+    - Tags: [[blue]] 
+- The major challenge at this stage of the practice is to adopt a lifestyle that supports the cultivation of attentional balance, rather than eroding it between sessions. ([Location 884](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=884))
+- If we practice only a session or two each day while leading an active life, we may occasionally feel that we’ve reached the sustained attention of the third stage, but we’ll have a hard time stabilizing at that level. ([Location 887](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=887))
+    - Tags: [[orange]] 
+- Solitude and seclusion are associated for many with boredom, loneliness, fear, and depression. ([Location 892](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=892))
+- In the absence of distractions, we come face to face with our own minds, and if they are seriously imbalanced, we relentlessly experience the symptoms of these mental afflictions with no buffer zone, no distractions, and no escape. ([Location 894](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=894))
+    - Tags: [[orange]] 
+- “I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived.”22 ([Location 897](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=897))
+    - Tags: [[pink]] 
+- Solitary meditation doesn’t cause mental imbalances, but uncovers them. ([Location 899](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=899))
+    - Tags: [[blue]] 
+- Boredom may set in, especially when the mind succumbs to laxity, and restlessness often comes in the wake of excitation. With perseverance you can move beyond these imbalances and begin to discover the well-being that arises from a balanced mind. ([Location 900](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=900))
+- But this requires courage to face your own inner demons and persist in the practice despite the emotional upheavals that are bound to occur in the course of this training. ([Location 902](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=902))
+    - Tags: [[orange]] 
+- twin ruts of excitation and laxity. ([Location 908](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=908))
+    - Tags: [[orange]] 
+- Six prerequisites for sustained, rigorous training are set forth in many Indian and Tibetan Buddhist meditation manuals.23 These are some of the essential causes and conditions that will produce the fruit of shamatha. ([Location 916](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=916))
+    - Tags: [[blue]] 
+- psychophysical ethics. ([Location 959](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=959))
+    - Tags: [[orange]] 
+- This includes taking good care of the body, following a healthy diet, and getting the right kind and amount of physical exercise. ([Location 960](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=960))
+    - Tags: [[pink]] 
+- thought patterns that aggravate mental disturbances. ([Location 970](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=970))
+    - Tags: [[blue]] 
+- We are addicted to pleasurable stimuli, ([Location 989](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=989))
+    - Tags: [[blue]] 
+- withdrawal symptoms. ([Location 990](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=990))
+- The mind oscillates between boredom and restlessness, and at times it may descend into depression and self-doubt. ([Location 990](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=990))
+    - Tags: [[orange]] 
+- we tend to fixate on ideas and memories that reinforce such gloom and doom, ([Location 991](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=991))
+    - Tags: [[pink]] 
+- reflecting on other aspects of reality that inspire us. ([Location 992](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=992))
+    - Tags: [[blue]] 
+- empathetic joy. ([Location 993](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=993))
+- Empathy is feeling with others, and in this practice we focus not on their sorrows and difficulties, but on their happiness and triumphs. ([Location 995](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=995))
+    - Tags: [[orange]] 
+- direct antidote to feelings of depression, anxiety, and hopelessness ([Location 996](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=996))
+    - Tags: [[blue]] 
+- Throughout the course of the day, when you see or hear about someone’s virtue or good fortune, empathetically take joy in it. ([Location 1010](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1010))
+    - Tags: [[pink]] 
+- close attention. ([Location 1015](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1015))
+    - Tags: [[blue]] 
+- power of mindfulness. ([Location 1020](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1020))
+- mindfulness is defined as the mental faculty of maintaining attention, without forgetfulness or distraction, on a familiar object. ([Location 1021](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1021))
+    - Tags: [[orange]] 
+- samadhi. ([Location 1023](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1023))
+    - Tags: [[pink]] 
+- According to one psychological paper on this topic, mindfulness is “a kind of nonelaborative, nonjudgmental, present-centered awareness in which each thought, feeling, or sensation that arises in the attentional field is acknowledged and accepted as it is.” ([Location 1029](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1029))
+    - Tags: [[blue]] 
+- The modern Vipassana approach views mindfulness as nondiscriminating, moment-to-moment “bare awareness”; ([Location 1035](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1035))
+    - Tags: [[blue]] 
+- the Indo-Tibetan tradition, however, characterizes mindfulness as bearing in mind the object of attention, the state of not forgetting, not being distracted, and not floating.32 ([Location 1036](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1036))
+- nonconceptual awareness, ([Location 1039](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1039))
+    - Tags: [[blue]] 
+- present-time awareness… ([Location 1040](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1040))
+    - Tags: [[blue]] 
+- Buddha’s own description of mindfulness, or sati: ([Location 1043](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1043))
+- “And what monks, is the faculty of sati? Here, monks, the noble disciple has sati, he is endowed with perfect sati and intellect, he is one who remembers, who recollects what was done and said long before.” ([Location 1043](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1043))
+    - Tags: [[orange]] 
+- In contrast to the Vipassana tradition’s insistence that mindfulness stays forever in the present, the Buddha states that it recollects events that are long past. ([Location 1045](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1045))
+    - Tags: [[pink]] 
+- Indeed, it is well known that the Pali term sati has as its primary meaning “recollection,” or “memory,” which is a conceptual faculty with which we recall past events. In addition to its connotation of “retrospective memory,” sati also refers to “prospective memory,” which enables us to remember to do things in the present and future, and this requires that the mind engage with concepts. ([Location 1047](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1047))
+    - Tags: [[blue]] 
+- “calling to mind” ([Location 1051](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1051))
+    - Tags: [[blue]] 
+- “taking hold.” ([Location 1052](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1052))
+- Sati, when it arises, calls to mind wholesome and unwholesome tendencies, with faults and faultless, inferior and refined, dark and pure, together with their counterparts.… Sati, when it arises, follows the courses of beneficial and unbeneficial tendencies: these tendencies are beneficial, these unbeneficial; these tendencies are helpful, these unhelpful.35 ([Location 1053](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1053))
+    - Tags: [[blue]] 
+- sati is said to distinguish between wholesome and unwholesome, beneficial and unbeneficial tendencies. ([Location 1057](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1057))
+- in the fourth stage of shamatha practice, you achieve the power of mindfulness, and the practice comes into its own. ([Location 1074](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1074))
+    - Tags: [[blue]] 
+- When medium excitation occurs, you don’t completely lose track of your object of attention, but involuntary thoughts occupy the center of attention and the meditative object is displaced to the periphery. ([Location 1076](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1076))
+- Rather, observe more and more closely until you do detect the very subtle sensations of your breath. ([Location 1088](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1088))
+- But with the technique of mindfulness of breathing, as your practice deepens, the breath becomes more and more subtle, which challenges you to arouse greater and greater vividness of attention. ([Location 1091](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1091))
+    - Tags: [[orange]] 
+- “mindfulness with breathing”— ([Location 1103](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1103))
+    - Tags: [[pink]] 
+- The Path of Purification.39 ([Location 1110](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1110))
+    - Tags: [[blue]] 
+- is commonly pointed out in the Buddhist tradition that shamatha is achieved with mental awareness, not sensory awareness. ([Location 1116](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1116))
+- Shariputra, thus, a Bodhisattva, a great being, by dwelling with introspection and with mindfulness, eliminates avarice and disappointment towards the world by means of nonobjectification; and he lives observing the body as the body internally.41 ([Location 1124](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1124))
+    - Tags: [[orange]] 
+- With this faculty we note when the mind has succumbed to either laxity or excitation, and as soon as we do so, it is imperative to do whatever is necessary to overcome these imbalances. ([Location 1128](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1128))
+    - Tags: [[pink]] 
+- This may be why the Buddha declared that people who are especially prone to excessive conceptualizing should practice shamatha by cultivating mindfulness of breathing. ([Location 1142](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1142))
+    - Tags: [[blue]] 
+- have found that the time generally needed to acquire expertise in a variety of high-level skills is five to ten thousand hours of training in a discipline of eight hours each day for fifty weeks in the year. This is roughly the degree of commitment required to progress along the entire path to the achievement of shamatha. Between formal meditation sessions, it is vital to maintain a high degree of mindfulness and introspection throughout the day. ([Location 1146](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1146))
+    - Tags: [[blue]] 
+- According to Buddhist psychology, when we detect something by way of any of our six senses—vision, hearing, smell, taste, touch, or mental perception—there is a very brief moment before the mind projects concepts and labels onto our immediate experience. Discerning this fraction of a second of pure perception, before concepts, classifications, and emotional responses overlay it, requires a high degree of vividness.43 This brief instant is important because it is an opportunity for gaining a clearer perception of the nature of phenomena, including a subtle continuum of mental consciousness out of which all forms of sensory perception and conceptualization emerge. ([Location 1150](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1150))
+- A prominent school of Buddhist psychology states that about six hundred pulselike moments of cognition occur per second, and this accords roughly with modern psychology. ([Location 1155](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1155))
+    - Tags: [[orange]] 
+- These pulses of cognition occur in a continuum very much like frames in a motion picture film. ([Location 1156](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1156))
+    - Tags: [[pink]] 
+- six hundred opportunities each second to apprehend some aspect of reality, Buddhist contemplatives and modern psychologists agree that we normally apprehend things at a rate much slower than that. ([Location 1158](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1158))
+- nonascertaining awareness. ([Location 1160](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1160))
+    - Tags: [[blue]] 
+- Appearances arise to the mind, but we don’t register them, and afterward we have no recollection of having witnessed them. ([Location 1160](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1160))
+    - Tags: [[orange]] 
+- Attention is highly selective. ([Location 1163](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1163))
+    - Tags: [[pink]] 
+- if we have fifty moments of ascertaining cognition per second and all fifty are focused on the tactile sensations of breathing, this indicates a relatively high degree of stability. ([Location 1164](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1164))
+    - Tags: [[pink]] 
+- Stability is coherence with regard to the chosen object. ([Location 1166](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1166))
+    - Tags: [[blue]] 
+- That is why the sequence of shamatha training begins with relaxation, then stabilizing attention, and finally maintaining relaxation and stability while gradually increasing vividness. ([Location 1172](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1172))
+- foundation of equanimity, ([Location 1176](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1176))
+    - Tags: [[orange]] 
+- A general sign of spiritual progress is imperturbability in the face of the vicissitudes of life, ([Location 1177](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1177))
+    - Tags: [[pink]] 
+- The cultivation of equanimity serves as an antidote to two of the primary afflictions of the mind: attachment and aversion. ([Location 1180](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1180))
+    - Tags: [[blue]] 
+- The essence of equanimity is impartiality. ([Location 1182](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1182))
+    - Tags: [[orange]] 
+- In Buddhism, a sense of one’s self as an immutable, unitary, independent “I” is seen as a root cause of suffering. ([Location 1185](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1185))
+- Clinging to this illusory, autonomous ego leads to the conviction that our own well-being is more important than that of other people. ([Location 1186](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1186))
+    - Tags: [[orange]] 
+- Accomplished contemplatives are also remarkably free from impatience. ([Location 1208](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1208))
+    - Tags: [[blue]] 
+- drupa, ([Location 1211](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1211))
+- Practice and achievement are one and the same. ([Location 1212](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1212))
+    - Tags: [[orange]] 
+- This is not just meditating on a cushion. Resting, walking, or listening to music can be good for the heart, the body, and the mind, and with an altruistic motivation, all of life can become suffused with spiritual practice. ([Location 1215](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1215))
+    - Tags: [[pink]] 
+- From the perspective of modern psychology, the fact that contemplatives can live in solitude for years without falling into depression, apathy, or mental turmoil is astonishing. Contemplatives are able to do this because they tap into and sustain an inner source of serenity, a source that soothes the body and mind so that all sense of impatience or expectation evaporates. By settling deeply in the calm and luminous stillness of awareness, an inner source of genuine well-being arises that dissipates any sense of loneliness, depression, or mental unease. ([Location 1217](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1217))
+    - Tags: [[blue]] 
+- tamed attention. ([Location 1256](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1256))
+    - Tags: [[blue]] 
+- coarse laxity. ([Location 1261](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1261))
+- the symptom of this attentional disorder is that your attention succumbs to dullness, which causes it to largely disengage from its meditative object. ([Location 1261](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1261))
+- sinking. ([Location 1263](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1263))
+    - Tags: [[orange]] 
+- In the fifth stage, you rise to the challenge of overcoming coarse laxity without destabilizing your attention. ([Location 1268](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1268))
+    - Tags: [[pink]] 
+- In addition to the persistent problem of medium excitation—which arises when involuntary thoughts occupy the center of attention while the meditative object is displaced to the periphery—you now have the task of recognizing and counteracting a medium degree of laxity. ([Location 1268](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1268))
+    - Tags: [[blue]] 
+- The primary challenge here is to overcome laxity without undermining stability. ([Location 1272](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1272))
+- The way to counteract laxity is to arouse the attention, to take a greater interest in the object of meditation. ([Location 1272](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1272))
+    - Tags: [[orange]] 
+- If you arouse the mind too much in your efforts to remedy laxity, it will easily fall into excitation, but if you relax too much, you will likely succumb to laxity. ([Location 1275](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1275))
+    - Tags: [[pink]] 
+- the fifth stage is achieved by the power of introspection. ([Location 1279](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1279))
+    - Tags: [[blue]] 
+- power of introspection ([Location 1279](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1279))
+- “Mindfulness has the characteristic of remembering. Its function is not to forget. It is manifested as guarding. ([Location 1288](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1288))
+    - Tags: [[blue]] 
+- Introspection has the characteristic of non-confusion. ([Location 1289](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1289))
+- Its function is to investigate. It is manifested as scrutiny.” ([Location 1290](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1290))
+    - Tags: [[orange]] 
+- “Mindfulness and introspection are taught, for the first prevents the attention from straying from the meditative object, while the second recognizes that the attention is straying.” ([Location 1291](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1291))
+    - Tags: [[pink]] 
+- “In brief, this alone is the definition of introspection: the repeated examination of the state of one’s body and mind.” ([Location 1293](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1293))
+    - Tags: [[blue]] 
+- Buddhist psychology classifies introspection as a form of intelligence ([Location 1296](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1296))
+    - Tags: [[blue]] 
+- (prajna), ([Location 1297](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1297))
+- metacognition, ([Location 1298](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1298))
+    - Tags: [[orange]] 
+- This phase of the path to shamatha also brings you to a major fork in the road. ([Location 1301](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1301))
+    - Tags: [[pink]] 
+- You may continue in the practice of mindfulness of breathing, which is so strongly recommended for overcoming excitation. ([Location 1302](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1302))
+    - Tags: [[blue]] 
+- But Padmasambhava, the Indian master instrumental in first bringing Buddhism to Tibet, encouraged the use of multiple methods to counter the tenacious impediments to the achievement of shamatha. ([Location 1304](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1304))
+- settling the mind in its natural state, ([Location 1311](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1311))
+    - Tags: [[orange]] 
+- “unfastened mindfulness.” ([Location 1313](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1313))
+    - Tags: [[pink]] 
+- mindfulness of breathing may be the most effective way to progress along the first four stages on this path. ([Location 1322](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1322))
+    - Tags: [[blue]] 
+- The “natural state” of the mind, according to Buddhist contemplatives, is characterized by the three qualities of bliss, luminosity, and nonconceptuality. ([Location 1326](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1326))
+- Even if you spend your whole life practicing a mere semblance of meditation—meditating in a stupor, cluttering the mind with fantasies, and taking many breaks during your sessions due to being unable to control mental scattering—no good experiences or realizations will arise. ([Location 1334](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1334))
+    - Tags: [[blue]] 
+- Let your gaze be vacant. ([Location 1337](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1337))
+- With your body and mind inwardly relaxed, ([Location 1338](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1338))
+    - Tags: [[orange]] 
+- and without allowing the continuum of your consciousness to fade from a state of limpidity and vivid clarity, ([Location 1338](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1338))
+    - Tags: [[pink]] 
+- sustain it naturally and radiantly. ([Location 1339](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1339))
+    - Tags: [[blue]] 
+- Do not clutter your mind with many critical judgments; ([Location 1339](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1339))
+    - Tags: [[blue]] 
+- do not take a shortsighted view of meditation, and avoid great hopes and fears that your meditation will turn out one way and not another. ([Location 1339](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1339))
+- If dullness sets in, arouse your awareness. ([Location 1343](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1343))
+    - Tags: [[blue]] 
+- If there is excessive scattering and excitation, loosen up. ([Location 1343](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1343))
+- Excessive, imprisoning constriction of the mind, ([Location 1345](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1345))
+    - Tags: [[orange]] 
+- loss of clarity due to lassitude, and excessive relaxation resulting in involuntary vocalization and eye-movement are to be avoided. ([Location 1345](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1345))
+    - Tags: [[pink]] 
+- Due to maintaining the mind in its natural state, ([Location 1349](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1349))
+    - Tags: [[blue]] 
+- a non-conceptual sense that nothing can harm the mind, ([Location 1350](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1350))
+- regardless of whether or not thoughts have ceased. ([Location 1351](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1351))
+    - Tags: [[orange]] 
+- Whatever kinds of mental imagery occur—be they gentle or violent, subtle or coarse, of long or short duration, strong or weak, good or bad—observe their nature, ([Location 1351](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1351))
+    - Tags: [[pink]] 
+- and avoid any obsessive evaluation of them as being one thing and not another. ([Location 1352](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1352))
+    - Tags: [[blue]] 
+- Let the heart of your practice be consciousness in its natural state, limpid and ([Location 1353](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1353))
+- vivid. ([Location 1353](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1353))
+- subside, you will gain the autonomy of not succumbing to them, and your mind will constantly be calm and dispassionate. ([Location 1354](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1354))
+    - Tags: [[orange]] 
+- The object of mindfulness in the practice of settling the mind in its natural state is no longer the subtle sensations of the breath at the nostrils, but the space of the mind and whatever events arise within that space. ([Location 1360](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1360))
+    - Tags: [[blue]] 
+- The object of introspection, as in the earlier practice of mindfulness of breathing, is the quality of the attention with which you are observing the mind. ([Location 1362](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1362))
+- “without distraction and without grasping,” ([Location 1364](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1364))
+    - Tags: [[orange]] 
+- Rather, be like a kestrel, hovering motionlessly as it faces the wind, slightly moving its wings and tail feathers to adjust to changes in the currents of the air. ([Location 1369](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1369))
+    - Tags: [[pink]] 
+- Whenever you prefer one mental object over another, whenever you try to control the contents of your mind, and whenever you identify ([Location 1371](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1371))
+    - Tags: [[blue]] 
+- with anything at all, grasping has set it. ([Location 1372](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1372))
+    - Tags: [[blue]] 
+- let your mind be like the sky. ([Location 1373](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1373))
+- Whatever moves through it, the sky never reacts. It doesn’t stop anything from moving through it, it doesn’t hold onto anything that’s present, nor does it control anything. The sky doesn’t prefer rainbows to clouds, butterflies to jet planes. Whatever comes up in the field of awareness, without distraction or grasping, just let it be. ([Location 1373](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1373))
+    - Tags: [[orange]] 
+- occasionally falling into distraction or grasping, ([Location 1376](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1376))
+    - Tags: [[pink]] 
+- As you gradually familiarize yourself with the meditation, increase the duration of your sessions. If dullness sets in, arouse your awareness. If there is excessive scattering and excitation, loosen up. ([Location 1380](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1380))
+    - Tags: [[blue]] 
+- Simply hearing your spiritual mentor’s practical instructions and knowing how to explain them to others does not liberate your own mindstream, so you must meditate. Even if you spend your whole life practicing a mere semblance of meditation—meditating in a stupor, cluttering the mind with fantasies, and taking many breaks during your sessions due to being unable to control mental scattering—no good experiences or realizations will arise. So it is important during each session to meditate according to your mentor’s oral instructions. ([Location 1387](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1387))
+    - Tags: [[pink]] 
+- It is possible to waste an enormous amount of time in faulty meditative practice, ([Location 1394](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1394))
+    - Tags: [[blue]] 
+- and there is also the possibility of damaging your mind, ([Location 1395](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1395))
+- Motionlessly relax your body in whatever way is comfortable, like an unthinking corpse in a charnel ground. Let your voice be silent like a lute with its strings cut. Rest your mind in an unmodified state, like the primordial presence of space…. Remain for a long time in [this way] of resting. This pacifies all illnesses due to disturbances of the elements and unfavorable circumstances, and your body, speech, and mind naturally calm down. ([Location 1402](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1402))
+- Gently hold the vase breath until the vital energies converge naturally. ([Location 1406](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1406))
+- “Vase breathing” ([Location 1407](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1407))
+    - Tags: [[orange]] 
+- as you inhale, let the sensations of the breath flow down to the bottom of your abdomen, like pouring water into a vase. Then, as you exhale, instead of letting the abdomen retract completely, keep it slightly rounded, with your belly soft. ([Location 1408](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1408))
+    - Tags: [[orange]] 
+- converge the vital energies, ([Location 1411](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1411))
+    - Tags: [[pink]] 
+- pranas, ([Location 1411](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1411))
+    - Tags: [[pink]] 
+- By leaving the eyes open, while focusing your attention on the domain of mental events, the artificial barrier between “inner” and “outer” begins to dissolve. ([Location 1419](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1419))
+    - Tags: [[pink]] 
+# The Attention Revolution
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/41F2UILvoRL._SL200_.jpg)
+
+## Metadata
+- Author: [[B. Alan Wallace Ph.D.]]
+- Full Title: The Attention Revolution
+- Category: #books
+
+## Highlights
+- Our very ([Location 179](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=179))
+- perception of reality is tied closely to where we focus our attention. ([Location 179](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=179))
+- Only what we pay attention to seems real to us, whereas whatever we ignore—no matter how important it may be—seems to fade into insignificance. ([Location 179](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=179))
+    - Tags: [[orange]] 
+- Attention is always highly selective. ([Location 189](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=189))
+    - Tags: [[pink]] 
+- I suggest that if you were able to focus your attention at will, you could actually choose the universe you appear to inhabit. ([Location 193](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=193))
+    - Tags: [[blue]] 
+- a wandering mind easily falls into temptation, leading to sin. ([Location 196](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=196))
+- If we can direct our attention away from negative temptations, we stand a good chance of overcoming them. ([Location 197](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=197))
+    - Tags: [[orange]] 
+- Might “genius” be a potential we all share—each of us with our own unique capacity for creativity, requiring only the power of sustained attention to unlock it? ([Location 201](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=201))
+    - Tags: [[pink]] 
+- The mind constantly caught up in one distraction after another, on the other hand, may be forever removed from its creative potential. ([Location 203](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=203))
+- We know that the mind has powers of healing, which are sometimes attributed to the “placebo effect,” and that it has the capacity to make us ill as well. ([Location 219](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=219))
+    - Tags: [[orange]] 
+- One progresses through each stage by rooting out progressively more subtle forms of the two obstacles: mental agitation and dullness. ([Location 250](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=250))
+- mindfulness of breathing, ([Location 256](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=256))
+    - Tags: [[orange]] 
+- settling the mind in its natural state. ([Location 259](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=259))
+    - Tags: [[orange]] 
+- awareness of awareness itself. ([Location 262](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=262))
+    - Tags: [[orange]] 
+- shamatha without an object. ([Location 262](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=262))
+    - Tags: [[pink]] 
+- discovering the stillness and luminosity inherent in awareness itself. ([Location 264](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=264))
+    - Tags: [[blue]] 
+- We can use it to develop an openhearted stance toward others and, on that basis, experience profound insights into the nature of the mind and of reality, radically altering our relation to the rest of the world. ([Location 280](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=280))
+    - Tags: [[orange]] 
+- directed attention. ([Location 319](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=319))
+    - Tags: [[blue]] 
+- If you are trying to direct your attention to a difficult object, such as a complex visualization, this may take days or weeks to accomplish. ([Location 320](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=320))
+- mindfulness ([Location 322](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=322))
+    - Tags: [[orange]] 
+- Vipassana teachers, for instance, commonly explain mindfulness as a moment-to-moment, nonjudgmental awareness of whatever arises. ([Location 323](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=323))
+    - Tags: [[pink]] 
+- In the context of shamatha, however, mindfulness refers to attending continuously to a familiar object, without forgetfulness or distraction. ([Location 324](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=324))
+    - Tags: [[blue]] 
+- power of hearing. ([Location 325](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=325))
+- One of the first signs of progress in shamatha practice is simply noticing how chaotic our minds are. ([Location 328](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=328))
+- In addition to oscillating between an attention deficit (when we’re passive) and hyperactivity (when we’re active), the normal, untrained mind compulsively disgorges a toxic stream of wandering thoughts, then latches on to them obsessively, carried away by one story after another. ([Location 333](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=333))
+    - Tags: [[orange]] 
+- Hyperactivity ([Location 338](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=338))
+    - Tags: [[pink]] 
+- attention deficit ([Location 338](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=338))
+    - Tags: [[blue]] 
+- mindfulness of breathing ([Location 342](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=342))
+- While this requires an alert mind, such concentration should not be tense but rather balanced. ([Location 342](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=342))
+    - Tags: [[orange]] 
+- I was trying too hard. ([Location 357](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=357))
+    - Tags: [[orange]] 
+- learn to relax. ([Location 365](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=365))
+    - Tags: [[pink]] 
+- MINDFULNESS OF BREATHING WITH RELAXATION ([Location 367](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=367))
+    - Tags: [[blue]] 
+- relaxation, ([Location 369](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=369))
+- stillness, ([Location 369](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=369))
+    - Tags: [[orange]] 
+- vigilance. ([Location 369](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=369))
+    - Tags: [[pink]] 
+- “posture of vigilance”: ([Location 381](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=381))
+    - Tags: [[blue]] 
+- Vigilance in the supine position is mostly psychological, an attitude that regards this position as a formal meditation posture, and not simply as rest. ([Location 388](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=388))
+    - Tags: [[blue]] 
+- Be at ease. Be still. Be vigilant. ([Location 390](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=390))
+- Once you have settled your body with these three qualities, take three slow, gentle, deep breaths, breathing in and out through the nostrils. Let your awareness permeate your entire body as you do so, noting any sensations that arise in relation to the respiration. Luxuriate in these breaths, as if you were receiving a gentle massage from within. ([Location 391](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=391))
+    - Tags: [[orange]] 
+- Now settle your respiration in its natural flow. ([Location 393](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=393))
+    - Tags: [[pink]] 
+- Observe the entire course of each in- and out-breath, noting whether it is long or short, deep or shallow, slow or fast. Don’t impose any rhythm on your breathing. ([Location 394](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=394))
+    - Tags: [[blue]] 
+- Especially with each out-breath, relax your body, release extraneous thoughts, and happily let your attention settle back into the body. ([Location 400](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=400))
+- If any tension builds up in your shoulders, face, or eyes, release it. ([Location 403](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=403))
+    - Tags: [[orange]] 
+- Breathe so effortlessly that you feel as if your body were being breathed by your environment. ([Location 405](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=405))
+    - Tags: [[pink]] 
+- Breathing in long, one knows, “I breathe in long.” Breathing out long, one knows, “I breathe out long.” Breathing in short, one knows, “I breathe in short.” Breathing out short, one knows, “I breathe out short.” One trains thus: “I shall breathe in, experiencing the whole body. I shall breathe out, experiencing the whole body. I shall breathe in, soothing the domain of the body. I shall breathe out, soothing the composite of the body.” ([Location 409](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=409))
+    - Tags: [[blue]] 
+- This is a “field approach” to training the attention. ([Location 417](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=417))
+- The emphasis here is on mental and physical relaxation. ([Location 419](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=419))
+    - Tags: [[orange]] 
+- Mindfulness of breathing is universally emphasized for those who are especially prone to compulsive thinking. ([Location 421](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=421))
+    - Tags: [[pink]] 
+- Mindfulness is useful for overcoming physical and mental imbalances produced by a stressful, wound-up way of life, but you also can use mindfulness to help prevent such imbalances in the first place. ([Location 448](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=448))
+- mindfulness of breathing can be used to prevent the contamination of our inner environment. ([Location 450](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=450))
+    - Tags: [[orange]] 
+- In the same way, rather than adopting any special breathing technique, you simply stop disturbing your respiration with disruptive thoughts and emotions. Before long, you will find that the healthy flow of the breath is restored naturally. ([Location 455](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=455))
+    - Tags: [[blue]] 
+- Not controlling the breath, we let the respiration flow as effortlessly as possible, allowing the body to restore its balance in its own way. ([Location 469](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=469))
+- Simply focusing your attention on the sensations of the breath is directed attention, the first stage of this practice. You have achieved the first stage once you are able to sustain your attention on the breath for even a few seconds. When pursued earnestly, a little mindfulness meditation in the morning or at night immediately brings greater clarity to all activities and provides a natural check on unhealthy habits. ([Location 470](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=470))
+    - Tags: [[orange]] 
+- Creating time to balance your mind requires a measure of loving-kindness for yourself. ([Location 474](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=474))
+    - Tags: [[pink]] 
+- Thus, to be able to make choices that are truly conducive to your well-being, as opposed to merely providing pleasurable sensations, you may first need to cultivate loving-kindness. ([Location 474](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=474))
+    - Tags: [[blue]] 
+- How we fill our days is simply a matter of our priorities. ([Location 480](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=480))
+    - Tags: [[blue]] 
+- What elective activities fill the moments of our days depends on our values. ([Location 483](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=483))
+- Another way of saying this is that, after taking care of our basic needs, the rest of our time is devoted to fulfilling our heart’s desires. ([Location 484](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=484))
+    - Tags: [[orange]] 
+- How much satisfaction has your life brought you thus far? ([Location 487](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=487))
+    - Tags: [[pink]] 
+- the pursuit of genuine happiness is the purpose of life. ([Location 490](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=490))
+    - Tags: [[blue]] 
+- Genuine happiness is a symptom of a balanced, healthy mind, just as a sense of physical well-being is a sign of a healthy body. ([Location 492](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=492))
+- But our mental suffering on many occasions serves no good purpose at all. ([Location 494](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=494))
+    - Tags: [[orange]] 
+- It is an affliction with no benefit to us. ([Location 495](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=495))
+    - Tags: [[blue]] 
+- It is just a symptom of an unbalanced mind. ([Location 495](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=495))
+- Our first act of freedom should be to choose our priorities wisely. ([Location 499](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=499))
+    - Tags: [[orange]] 
+- conation ([Location 502](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=502))
+    - Tags: [[pink]] 
+- Conative balance, a crucial element of mental health, is expressed when our desires are conducive to our own and others’ genuine happiness. ([Location 502](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=502))
+    - Tags: [[blue]] 
+- Conative imbalances, on the other hand, are ways that our desires lead us away from mental health and into psychological distress. ([Location 503](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=503))
+- conative deficit, ([Location 504](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=504))
+    - Tags: [[orange]] 
+- conative hyperactivity, ([Location 505](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=505))
+    - Tags: [[pink]] 
+- conative dysfunction. ([Location 505](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=505))
+    - Tags: [[blue]] 
+- conative deficit ([Location 505](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=505))
+- apathy toward greater happiness and its causes. ([Location 505](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=505))
+- lack of imagination ([Location 506](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=506))
+- stagnation: ([Location 506](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=506))
+- Conative ([Location 507](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=507))
+    - Tags: [[orange]] 
+- hyperactivity ([Location 507](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=507))
+    - Tags: [[orange]] 
+- obsessive desires obscure the reality of the present. ([Location 508](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=508))
+    - Tags: [[orange]] 
+- conative dysfunction ([Location 509](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=509))
+    - Tags: [[pink]] 
+- when we do desire things that are destructive to our own or others’ well-being, and don’t desire the things that lead to genuine happiness for both ourselves and others. ([Location 509](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=509))
+    - Tags: [[pink]] 
+- “Those seeking to escape from suffering hasten right toward their own misery. And with the very desire for happiness, out of delusion they destroy their own well-being as if it were their enemy.” ([Location 514](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=514))
+    - Tags: [[blue]] 
+- Psychologists have called this the hedonic treadmill,11 and the first step to escaping from this exhausting grind is to seek a vision of genuine happiness that draws on our own, largely untapped inner resources. ([Location 526](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=526))
+- Then allow the yearning to arise: may these authentic desires be fulfilled! ([Location 539](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=539))
+    - Tags: [[orange]] 
+- What kind of a person do I want to become? What personal qualities do I want to possess? ([Location 545](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=545))
+    - Tags: [[pink]] 
+- What would I love to offer to the world, to those around me and to the environment at large? What kind of a mark would I love to make on the world? ([Location 549](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=549))
+    - Tags: [[blue]] 
+- misguided desires. ([Location 561](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=561))
+    - Tags: [[blue]] 
+- The general symptoms of a mind prone to craving are dissatisfaction, restlessness, and anxiety. ([Location 561](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=561))
+- coarse excitation, ([Location 565](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=565))
+- Such turbulence is overcome only by persistent skillful practice, cultivating deeper relaxation, a sense of inner ease. ([Location 570](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=570))
+- power of thinking. ([Location 581](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=581))
+    - Tags: [[orange]] 
+- sustain interest in the object, ([Location 582](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=582))
+    - Tags: [[orange]] 
+- If you are a seasoned meditator, you have probably found that involuntary, internal commentary on your practice can be an obstacle. ([Location 583](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=583))
+    - Tags: [[pink]] 
+- However, internal commentary can also be useful, especially in the first two stages of shamatha practice; if you’re thinking about the practice, at least you’re not thinking about something else! ([Location 584](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=584))
+    - Tags: [[blue]] 
+- Another way to use the power of thinking to help calm the distracted, wandering mind is to count the breaths. ([Location 586](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=586))
+- Instead of having many things to think about during the meditation, you reduce your thinking just to counting your breaths. ([Location 588](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=588))
+- don’t lose your earlier sense of relaxation. ([Location 589](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=589))
+    - Tags: [[orange]] 
+- relaxation, stillness, and vigilance. ([Location 593](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=593))
+    - Tags: [[pink]] 
+- establish a basis in relaxation. ([Location 596](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=596))
+    - Tags: [[blue]] 
+- shift your emphasis to the cultivation of attentional stability. ([Location 596](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=596))
+- unintentional thoughts ([Location 601](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=601))
+    - Tags: [[orange]] 
+- count the breaths. ([Location 601](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=601))
+    - Tags: [[orange]] 
+- primarily concerned with mindfulness of breathing, not counting. ([Location 608](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=608))
+    - Tags: [[orange]] 
+- arouse your attention (counteracting laxity) during the in-breath, and relax your attention (counteracting excitation) with each out-breath. ([Location 613](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=613))
+    - Tags: [[pink]] 
+- Meditation is a balancing act between attention and relaxation. ([Location 615](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=615))
+    - Tags: [[blue]] 
+- bare attention, ([Location 620](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=620))
+- the mind is fully focused on the sensory impressions appearing to it, moment to moment, rather than getting caught up in conceptual and emotional responses to those stimuli. ([Location 620](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=620))
+    - Tags: [[orange]] 
+- this technique of focusing on the abdomen, which is commonly taught in the Burmese Theravada tradition, can be especially helpful for stabilizing the mind. ([Location 633](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=633))
+- “mindfulness with breathing.” ([Location 651](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=651))
+    - Tags: [[pink]] 
+- The unrest you experience in your body and mind is not the real problem, it is symptomatic of the extent to which your whole psychosomatic system is out of tune. ([Location 657](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=657))
+    - Tags: [[blue]] 
+- cognitive deficit disorder. ([Location 662](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=662))
+    - Tags: [[blue]] 
+- the mind goes absent without leave, and we wake up to our mindlessness only after the fact. ([Location 663](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=663))
+    - Tags: [[blue]] 
+- Have your ever seen something that simply wasn’t there, or heard someone make a remark… ([Location 666](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=666))
+- cognitive hyperactivity… ([Location 667](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=667))
+- we project things onto… ([Location 668](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=668))
+- then assume that our projections are… ([Location 668](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=668))
+- if we casually let our minds succumb to excitation and laxity throughout the day, there’s little chance that our formal training during… ([Location 672](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=672))
+    - Tags: [[orange]] 
+- Even in the midst of work, we can take off fifteen seconds here and sixty seconds there to balance the attention by… ([Location 675](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=675))
+    - Tags: [[pink]] 
+- There are many brief occasions from the time we get up in the morning until we fall asleep at night when we can “season our day” with a… ([Location 677](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=677))
+    - Tags: [[blue]] 
+- And each time we do it, we may immediately feel the soothing effect on our bodies and minds. In this way, we can begin to integrate the quality of awareness that we cultivate during meditation with the awareness that we… ([Location 678](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=678))
+- The quality of bare attention we cultivate during mindfulness of the sensations of breathing can be applied… ([Location 680](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=680))
+    - Tags: [[orange]] 
+- focus bare attention on each of your five physical senses as they arise in relation to the meal set before you. Let your visual, olfactory, gustatory, auditory, and tactile senses individually experience the food by way of bare attention, with as little conceptual overlay as possible. Begin by directing your mindfulness to the visual appearance of the food—just its colors and shapes. Let go of any conceptual associations you may have regarding these visual impressions. Let go of preferences or judgments of the food. Your likes and dislikes are not present in the food itself, nor in its colors and shapes. Just be present with the shapes and colors of your meal, focusing on them with bare attention. Now close your eyes for a few moments and focus on the smells of the food. Be totally present with just those fragrances, noting how they change from moment to moment. Recognize the nuances of these aromas with discerning mindfulness, but without mixing your immediate experience with labels and concepts, likes and dislikes. Now take a mouthful of the food and, with your eyes remaining closed, direct your bare attention to the tastes that arise in your mouth. Eat slowly, mindful of the changes in flavors that rise up to meet you. As you chew the food, direct your attention to the sounds of eating. They… ([Location 682](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=682))
+    - Tags: [[orange]] 
+- think the food looks like, and focus solely on the tactile qualities of the food as it… ([Location 693](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=693))
+    - Tags: [[orange]] 
+- our conceptual overlays drown out the sensory qualities of the… ([Location 695](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=695))
+    - Tags: [[pink]] 
+- Just as a meal can pass by unnoticed, so can the rest… ([Location 697](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=697))
+    - Tags: [[blue]] 
+- All too often, we miss out on what was happening, imagine things that never happened at all, and recall only the assumptions, expectations, and… ([Location 698](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=698))
+- The challenge here is to distinguish what reality is presenting to our senses from moment to moment from what we are superimposing… ([Location 700](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=700))
+    - Tags: [[orange]] 
+- “In the seen there is only the seen; in the heard, there is only the heard; in the sensed, there is only the sensed; in the mentally perceived,… ([Location 702](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=702))
+    - Tags: [[pink]] 
+- According to Buddhist psychology, in any single moment of awareness, which may be as brief as one millisecond, attention is… ([Location 704](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=704))
+    - Tags: [[blue]] 
+- But during the course of these momentary pulses of consciousness, attention jumps rapidly from one sense field to another, like a chimpanzee on amphetamines. In the blur of these shifts among the sense fields, the mind “makes sense” of the world by superimposing familiar conceptual grids on our perceptions. In this way our experience of the world is structured and appears familiar to us. This is not a bad thing. In fact, it would be very difficult to function in daily life without such conceptual structuring. But problems emerge… ([Location 705](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=705))
+    - Tags: [[blue]] 
+- At any given moment, our minds are on one… ([Location 711](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=711))
+- The practice of focused attention is essentially “non-multitasking.” ([Location 716](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=716))
+    - Tags: [[orange]] 
+- Even when we think we are multitasking, according to Buddhist psychology, we’re actually moving our attention from one task to another with great rapidity. This is necessary at times, and when it is, try to do so as mindfully as possible. ([Location 719](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=719))
+    - Tags: [[pink]] 
+- The real aim of this practice is to cultivate mental balance that results in genuine happiness, and indifference to others is not a sign of genuine happiness or mental health. ([Location 726](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=726))
+    - Tags: [[blue]] 
+- Rather than suppressing the symptoms of an imbalanced mind by losing ourselves in work or entertainment, we can engage in our practice and go to the root of the problem and cultivate our minds. ([Location 730](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=730))
+- we are all cultivating our minds in one way or another all the time, through the way we use our attention. ([Location 733](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=733))
+    - Tags: [[orange]] 
+- Impediment to mental balance that are especially common in the West are self-judgment, guilt, and low self-esteem. ([Location 735](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=735))
+    - Tags: [[pink]] 
+- We suffer because our minds are afflicted by various kinds of imbalances, which lead us to seek happiness in all the wrong places. ([Location 743](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=743))
+    - Tags: [[blue]] 
+- spirit of emergence, ([Location 746](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=746))
+- resurgent attention, ([Location 776](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=776))
+    - Tags: [[blue]] 
+- your attention is fixed most of the time upon your meditative object. ([Location 776](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=776))
+- value the quality of your meditation over the quantity of time spent in each session. ([Location 778](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=778))
+    - Tags: [[orange]] 
+- Occasionally there are still lapses when you completely forget the object, but you quickly recognize them and patch up these holes in the continuity of attention. ([Location 783](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=783))
+- The third stage is achieved only when your mind remains focused on the object most of the time in virtually all your sessions. ([Location 786](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=786))
+    - Tags: [[orange]] 
+- excitation, and it is with the power of mindfulness that you accomplish this third stage. ([Location 788](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=788))
+    - Tags: [[pink]] 
+- During the early 1970s, I knew of one fellow who decided on his own that the whole point of meditation was to stop thinking, and he diligently applied himself to this goal for days on end. Eventually, he reached this goal by becoming vegetative, unable even to feed himself, and he needed to be hospitalized. ([Location 794](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=794))
+    - Tags: [[orange]] 
+- hone the ability to monitor the quality of your attention. ([Location 797](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=797))
+    - Tags: [[pink]] 
+- introspection, ([Location 799](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=799))
+    - Tags: [[blue]] 
+- note when the mind has fallen into either excitation or laxity. ([Location 800](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=800))
+- Your first antidote to excitation is to relax more deeply; to counteract laxity, arouse your attention. ([Location 801](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=801))
+    - Tags: [[orange]] 
+- Simply let them go and refocus your attention as single-pointedly as you can on your chosen object of meditation. ([Location 804](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=804))
+    - Tags: [[pink]] 
+- Rounded, integrated practice is like maintaining a healthy diet. ([Location 808](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=808))
+    - Tags: [[blue]] 
+- The achievement of the stage of resurgent attention requires a greater commitment to practice. ([Location 814](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=814))
+- The key to success is to conduct your life between sessions in such a way that you don’t lose the ground you have gained. ([Location 816](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=816))
+    - Tags: [[orange]] 
+- the initial emphasis in shamatha practice is on relaxation, ([Location 821](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=821))
+    - Tags: [[pink]] 
+- The second emphasis is on stability of attention, ([Location 822](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=822))
+    - Tags: [[blue]] 
+- having established a foundation of relaxation and stability, we shift the emphasis to cultivating vividness of attention. ([Location 823](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=823))
+    - Tags: [[blue]] 
+- Direct your attention to the tactile sensations of your breath at the apertures of your nostrils or above your upper lip, wherever you feel the in- and out-flow of your breath. ([Location 828](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=828))
+- If the breath becomes so subtle that you can’t detect the sensations of its flow, quiet your mind and observe more carefully. ([Location 831](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=831))
+    - Tags: [[orange]] 
+- healing effect of balanced attention. ([Location 843](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=843))
+    - Tags: [[orange]] 
+- When awareness is brought to rest on a neutral object, such as the breath, immediately every distressing thought disappears, and the mind becomes peaceful, sublime, and happy. ([Location 843](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=843))
+    - Tags: [[pink]] 
+- counting the breaths. ([Location 849](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=849))
+    - Tags: [[blue]] 
+- “quick counting.” ([Location 849](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=849))
+    - Tags: [[blue]] 
+- counting the breaths backward, ([Location 852](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=852))
+    - Tags: [[blue]] 
+- counting two breaths as one, four as one, and so on, slowing the pace of counting to include ever larger clusters of breaths. ([Location 853](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=853))
+    - Tags: [[blue]] 
+- you can stop counting. ([Location 855](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=855))
+    - Tags: [[blue]] 
+- At times it may become so subtle that you can’t detect it at all. This challenges you to enhance the vividness of attention. In other words, you have to pay closer and closer attention to these sensations in order to stay mentally engaged with the breath.21 ([Location 859](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=859))
+- But in this practice, the more you arouse your attention, the more deeply the mind relaxes. ([Location 873](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=873))
+    - Tags: [[orange]] 
+- Unbroken continuity of practice is vital. ([Location 878](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=878))
+- Imagine starting a fire by rubbing two sticks together: if you rub the sticks together for only a few moments, then rest, then do it for a few moments, then rest, you could continue in this way for years without even igniting a spark. ([Location 878](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=878))
+    - Tags: [[orange]] 
+- Likewise, if you are intent on progressing through all the nine stages, the time-tested way to proceed is to radically simplify your life, withdraw temporarily into solitude, and devote yourself full-time to this practice for extended periods. ([Location 880](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=880))
+    - Tags: [[pink]] 
+- It is not easy to achieve the bliss of shamatha without leaving heavily populated areas, which tend to be noisy and congested. In contrast, in the wilderness, removed from society, a meditator can more easily set his mind at ease and accomplish meditative stabilization. ([Location 881](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=881))
+    - Tags: [[blue]] 
+- The major challenge at this stage of the practice is to adopt a lifestyle that supports the cultivation of attentional balance, rather than eroding it between sessions. ([Location 884](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=884))
+- If we practice only a session or two each day while leading an active life, we may occasionally feel that we’ve reached the sustained attention of the third stage, but we’ll have a hard time stabilizing at that level. ([Location 887](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=887))
+    - Tags: [[orange]] 
+- Solitude and seclusion are associated for many with boredom, loneliness, fear, and depression. ([Location 892](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=892))
+- In the absence of distractions, we come face to face with our own minds, and if they are seriously imbalanced, we relentlessly experience the symptoms of these mental afflictions with no buffer zone, no distractions, and no escape. ([Location 894](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=894))
+    - Tags: [[orange]] 
+- “I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived.”22 ([Location 897](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=897))
+    - Tags: [[pink]] 
+- Solitary meditation doesn’t cause mental imbalances, but uncovers them. ([Location 899](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=899))
+    - Tags: [[blue]] 
+- Boredom may set in, especially when the mind succumbs to laxity, and restlessness often comes in the wake of excitation. With perseverance you can move beyond these imbalances and begin to discover the well-being that arises from a balanced mind. ([Location 900](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=900))
+- But this requires courage to face your own inner demons and persist in the practice despite the emotional upheavals that are bound to occur in the course of this training. ([Location 902](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=902))
+    - Tags: [[orange]] 
+- twin ruts of excitation and laxity. ([Location 908](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=908))
+    - Tags: [[orange]] 
+- Six prerequisites for sustained, rigorous training are set forth in many Indian and Tibetan Buddhist meditation manuals.23 These are some of the essential causes and conditions that will produce the fruit of shamatha. ([Location 916](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=916))
+    - Tags: [[blue]] 
+- psychophysical ethics. ([Location 959](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=959))
+    - Tags: [[orange]] 
+- This includes taking good care of the body, following a healthy diet, and getting the right kind and amount of physical exercise. ([Location 960](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=960))
+    - Tags: [[pink]] 
+- thought patterns that aggravate mental disturbances. ([Location 970](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=970))
+    - Tags: [[blue]] 
+- We are addicted to pleasurable stimuli, ([Location 989](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=989))
+    - Tags: [[blue]] 
+- withdrawal symptoms. ([Location 990](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=990))
+- The mind oscillates between boredom and restlessness, and at times it may descend into depression and self-doubt. ([Location 990](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=990))
+    - Tags: [[orange]] 
+- we tend to fixate on ideas and memories that reinforce such gloom and doom, ([Location 991](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=991))
+    - Tags: [[pink]] 
+- reflecting on other aspects of reality that inspire us. ([Location 992](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=992))
+    - Tags: [[blue]] 
+- empathetic joy. ([Location 993](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=993))
+- Empathy is feeling with others, and in this practice we focus not on their sorrows and difficulties, but on their happiness and triumphs. ([Location 995](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=995))
+    - Tags: [[orange]] 
+- direct antidote to feelings of depression, anxiety, and hopelessness ([Location 996](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=996))
+    - Tags: [[blue]] 
+- Throughout the course of the day, when you see or hear about someone’s virtue or good fortune, empathetically take joy in it. ([Location 1010](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1010))
+    - Tags: [[pink]] 
+- close attention. ([Location 1015](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1015))
+    - Tags: [[blue]] 
+- power of mindfulness. ([Location 1020](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1020))
+- mindfulness is defined as the mental faculty of maintaining attention, without forgetfulness or distraction, on a familiar object. ([Location 1021](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1021))
+    - Tags: [[orange]] 
+- samadhi. ([Location 1023](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1023))
+    - Tags: [[pink]] 
+- According to one psychological paper on this topic, mindfulness is “a kind of nonelaborative, nonjudgmental, present-centered awareness in which each thought, feeling, or sensation that arises in the attentional field is acknowledged and accepted as it is.” ([Location 1029](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1029))
+    - Tags: [[blue]] 
+- The modern Vipassana approach views mindfulness as nondiscriminating, moment-to-moment “bare awareness”; ([Location 1035](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1035))
+    - Tags: [[blue]] 
+- the Indo-Tibetan tradition, however, characterizes mindfulness as bearing in mind the object of attention, the state of not forgetting, not being distracted, and not floating.32 ([Location 1036](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1036))
+- nonconceptual awareness, ([Location 1039](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1039))
+    - Tags: [[blue]] 
+- present-time awareness… ([Location 1040](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1040))
+    - Tags: [[blue]] 
+- Buddha’s own description of mindfulness, or sati: ([Location 1043](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1043))
+- “And what monks, is the faculty of sati? Here, monks, the noble disciple has sati, he is endowed with perfect sati and intellect, he is one who remembers, who recollects what was done and said long before.” ([Location 1043](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1043))
+    - Tags: [[orange]] 
+- In contrast to the Vipassana tradition’s insistence that mindfulness stays forever in the present, the Buddha states that it recollects events that are long past. ([Location 1045](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1045))
+    - Tags: [[pink]] 
+- Indeed, it is well known that the Pali term sati has as its primary meaning “recollection,” or “memory,” which is a conceptual faculty with which we recall past events. In addition to its connotation of “retrospective memory,” sati also refers to “prospective memory,” which enables us to remember to do things in the present and future, and this requires that the mind engage with concepts. ([Location 1047](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1047))
+    - Tags: [[blue]] 
+- “calling to mind” ([Location 1051](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1051))
+    - Tags: [[blue]] 
+- “taking hold.” ([Location 1052](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1052))
+- Sati, when it arises, calls to mind wholesome and unwholesome tendencies, with faults and faultless, inferior and refined, dark and pure, together with their counterparts.… Sati, when it arises, follows the courses of beneficial and unbeneficial tendencies: these tendencies are beneficial, these unbeneficial; these tendencies are helpful, these unhelpful.35 ([Location 1053](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1053))
+    - Tags: [[blue]] 
+- sati is said to distinguish between wholesome and unwholesome, beneficial and unbeneficial tendencies. ([Location 1057](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1057))
+- in the fourth stage of shamatha practice, you achieve the power of mindfulness, and the practice comes into its own. ([Location 1074](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1074))
+    - Tags: [[blue]] 
+- When medium excitation occurs, you don’t completely lose track of your object of attention, but involuntary thoughts occupy the center of attention and the meditative object is displaced to the periphery. ([Location 1076](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1076))
+- Rather, observe more and more closely until you do detect the very subtle sensations of your breath. ([Location 1088](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1088))
+- But with the technique of mindfulness of breathing, as your practice deepens, the breath becomes more and more subtle, which challenges you to arouse greater and greater vividness of attention. ([Location 1091](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1091))
+    - Tags: [[orange]] 
+- “mindfulness with breathing”— ([Location 1103](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1103))
+    - Tags: [[pink]] 
+- The Path of Purification.39 ([Location 1110](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1110))
+    - Tags: [[blue]] 
+- is commonly pointed out in the Buddhist tradition that shamatha is achieved with mental awareness, not sensory awareness. ([Location 1116](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1116))
+- Shariputra, thus, a Bodhisattva, a great being, by dwelling with introspection and with mindfulness, eliminates avarice and disappointment towards the world by means of nonobjectification; and he lives observing the body as the body internally.41 ([Location 1124](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1124))
+    - Tags: [[orange]] 
+- With this faculty we note when the mind has succumbed to either laxity or excitation, and as soon as we do so, it is imperative to do whatever is necessary to overcome these imbalances. ([Location 1128](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1128))
+    - Tags: [[pink]] 
+- This may be why the Buddha declared that people who are especially prone to excessive conceptualizing should practice shamatha by cultivating mindfulness of breathing. ([Location 1142](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1142))
+    - Tags: [[blue]] 
+- have found that the time generally needed to acquire expertise in a variety of high-level skills is five to ten thousand hours of training in a discipline of eight hours each day for fifty weeks in the year. This is roughly the degree of commitment required to progress along the entire path to the achievement of shamatha. Between formal meditation sessions, it is vital to maintain a high degree of mindfulness and introspection throughout the day. ([Location 1146](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1146))
+    - Tags: [[blue]] 
+- According to Buddhist psychology, when we detect something by way of any of our six senses—vision, hearing, smell, taste, touch, or mental perception—there is a very brief moment before the mind projects concepts and labels onto our immediate experience. Discerning this fraction of a second of pure perception, before concepts, classifications, and emotional responses overlay it, requires a high degree of vividness.43 This brief instant is important because it is an opportunity for gaining a clearer perception of the nature of phenomena, including a subtle continuum of mental consciousness out of which all forms of sensory perception and conceptualization emerge. ([Location 1150](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1150))
+- A prominent school of Buddhist psychology states that about six hundred pulselike moments of cognition occur per second, and this accords roughly with modern psychology. ([Location 1155](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1155))
+    - Tags: [[orange]] 
+- These pulses of cognition occur in a continuum very much like frames in a motion picture film. ([Location 1156](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1156))
+    - Tags: [[pink]] 
+- six hundred opportunities each second to apprehend some aspect of reality, Buddhist contemplatives and modern psychologists agree that we normally apprehend things at a rate much slower than that. ([Location 1158](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1158))
+- nonascertaining awareness. ([Location 1160](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1160))
+    - Tags: [[blue]] 
+- Appearances arise to the mind, but we don’t register them, and afterward we have no recollection of having witnessed them. ([Location 1160](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1160))
+    - Tags: [[orange]] 
+- Attention is highly selective. ([Location 1163](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1163))
+    - Tags: [[pink]] 
+- if we have fifty moments of ascertaining cognition per second and all fifty are focused on the tactile sensations of breathing, this indicates a relatively high degree of stability. ([Location 1164](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1164))
+    - Tags: [[pink]] 
+- Stability is coherence with regard to the chosen object. ([Location 1166](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1166))
+    - Tags: [[blue]] 
+- That is why the sequence of shamatha training begins with relaxation, then stabilizing attention, and finally maintaining relaxation and stability while gradually increasing vividness. ([Location 1172](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1172))
+- foundation of equanimity, ([Location 1176](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1176))
+    - Tags: [[orange]] 
+- A general sign of spiritual progress is imperturbability in the face of the vicissitudes of life, ([Location 1177](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1177))
+    - Tags: [[pink]] 
+- The cultivation of equanimity serves as an antidote to two of the primary afflictions of the mind: attachment and aversion. ([Location 1180](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1180))
+    - Tags: [[blue]] 
+- The essence of equanimity is impartiality. ([Location 1182](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1182))
+    - Tags: [[orange]] 
+- In Buddhism, a sense of one’s self as an immutable, unitary, independent “I” is seen as a root cause of suffering. ([Location 1185](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1185))
+- Clinging to this illusory, autonomous ego leads to the conviction that our own well-being is more important than that of other people. ([Location 1186](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1186))
+    - Tags: [[orange]] 
+- Accomplished contemplatives are also remarkably free from impatience. ([Location 1208](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1208))
+    - Tags: [[blue]] 
+- drupa, ([Location 1211](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1211))
+- Practice and achievement are one and the same. ([Location 1212](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1212))
+    - Tags: [[orange]] 
+- This is not just meditating on a cushion. Resting, walking, or listening to music can be good for the heart, the body, and the mind, and with an altruistic motivation, all of life can become suffused with spiritual practice. ([Location 1215](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1215))
+    - Tags: [[pink]] 
+- From the perspective of modern psychology, the fact that contemplatives can live in solitude for years without falling into depression, apathy, or mental turmoil is astonishing. Contemplatives are able to do this because they tap into and sustain an inner source of serenity, a source that soothes the body and mind so that all sense of impatience or expectation evaporates. By settling deeply in the calm and luminous stillness of awareness, an inner source of genuine well-being arises that dissipates any sense of loneliness, depression, or mental unease. ([Location 1217](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1217))
+    - Tags: [[blue]] 
+- tamed attention. ([Location 1256](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1256))
+    - Tags: [[blue]] 
+- coarse laxity. ([Location 1261](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1261))
+- the symptom of this attentional disorder is that your attention succumbs to dullness, which causes it to largely disengage from its meditative object. ([Location 1261](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1261))
+- sinking. ([Location 1263](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1263))
+    - Tags: [[orange]] 
+- In the fifth stage, you rise to the challenge of overcoming coarse laxity without destabilizing your attention. ([Location 1268](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1268))
+    - Tags: [[pink]] 
+- In addition to the persistent problem of medium excitation—which arises when involuntary thoughts occupy the center of attention while the meditative object is displaced to the periphery—you now have the task of recognizing and counteracting a medium degree of laxity. ([Location 1268](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1268))
+    - Tags: [[blue]] 
+- The primary challenge here is to overcome laxity without undermining stability. ([Location 1272](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1272))
+- The way to counteract laxity is to arouse the attention, to take a greater interest in the object of meditation. ([Location 1272](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1272))
+    - Tags: [[orange]] 
+- If you arouse the mind too much in your efforts to remedy laxity, it will easily fall into excitation, but if you relax too much, you will likely succumb to laxity. ([Location 1275](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1275))
+    - Tags: [[pink]] 
+- the fifth stage is achieved by the power of introspection. ([Location 1279](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1279))
+    - Tags: [[blue]] 
+- power of introspection ([Location 1279](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1279))
+- “Mindfulness has the characteristic of remembering. Its function is not to forget. It is manifested as guarding. ([Location 1288](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1288))
+    - Tags: [[blue]] 
+- Introspection has the characteristic of non-confusion. ([Location 1289](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1289))
+- Its function is to investigate. It is manifested as scrutiny.” ([Location 1290](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1290))
+    - Tags: [[orange]] 
+- “Mindfulness and introspection are taught, for the first prevents the attention from straying from the meditative object, while the second recognizes that the attention is straying.” ([Location 1291](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1291))
+    - Tags: [[pink]] 
+- “In brief, this alone is the definition of introspection: the repeated examination of the state of one’s body and mind.” ([Location 1293](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1293))
+    - Tags: [[blue]] 
+- Buddhist psychology classifies introspection as a form of intelligence ([Location 1296](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1296))
+    - Tags: [[blue]] 
+- (prajna), ([Location 1297](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1297))
+- metacognition, ([Location 1298](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1298))
+    - Tags: [[orange]] 
+- This phase of the path to shamatha also brings you to a major fork in the road. ([Location 1301](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1301))
+    - Tags: [[pink]] 
+- You may continue in the practice of mindfulness of breathing, which is so strongly recommended for overcoming excitation. ([Location 1302](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1302))
+    - Tags: [[blue]] 
+- But Padmasambhava, the Indian master instrumental in first bringing Buddhism to Tibet, encouraged the use of multiple methods to counter the tenacious impediments to the achievement of shamatha. ([Location 1304](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1304))
+- settling the mind in its natural state, ([Location 1311](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1311))
+    - Tags: [[orange]] 
+- “unfastened mindfulness.” ([Location 1313](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1313))
+    - Tags: [[pink]] 
+- mindfulness of breathing may be the most effective way to progress along the first four stages on this path. ([Location 1322](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1322))
+    - Tags: [[blue]] 
+- The “natural state” of the mind, according to Buddhist contemplatives, is characterized by the three qualities of bliss, luminosity, and nonconceptuality. ([Location 1326](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1326))
+- Even if you spend your whole life practicing a mere semblance of meditation—meditating in a stupor, cluttering the mind with fantasies, and taking many breaks during your sessions due to being unable to control mental scattering—no good experiences or realizations will arise. ([Location 1334](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1334))
+    - Tags: [[blue]] 
+- Let your gaze be vacant. ([Location 1337](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1337))
+- With your body and mind inwardly relaxed, ([Location 1338](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1338))
+    - Tags: [[orange]] 
+- and without allowing the continuum of your consciousness to fade from a state of limpidity and vivid clarity, ([Location 1338](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1338))
+    - Tags: [[pink]] 
+- sustain it naturally and radiantly. ([Location 1339](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1339))
+    - Tags: [[blue]] 
+- Do not clutter your mind with many critical judgments; ([Location 1339](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1339))
+    - Tags: [[blue]] 
+- do not take a shortsighted view of meditation, and avoid great hopes and fears that your meditation will turn out one way and not another. ([Location 1339](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1339))
+- If dullness sets in, arouse your awareness. ([Location 1343](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1343))
+    - Tags: [[blue]] 
+- If there is excessive scattering and excitation, loosen up. ([Location 1343](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1343))
+- Excessive, imprisoning constriction of the mind, ([Location 1345](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1345))
+    - Tags: [[orange]] 
+- loss of clarity due to lassitude, and excessive relaxation resulting in involuntary vocalization and eye-movement are to be avoided. ([Location 1345](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1345))
+    - Tags: [[pink]] 
+- Due to maintaining the mind in its natural state, ([Location 1349](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1349))
+    - Tags: [[blue]] 
+- a non-conceptual sense that nothing can harm the mind, ([Location 1350](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1350))
+- regardless of whether or not thoughts have ceased. ([Location 1351](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1351))
+    - Tags: [[orange]] 
+- Whatever kinds of mental imagery occur—be they gentle or violent, subtle or coarse, of long or short duration, strong or weak, good or bad—observe their nature, ([Location 1351](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1351))
+    - Tags: [[pink]] 
+- and avoid any obsessive evaluation of them as being one thing and not another. ([Location 1352](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1352))
+    - Tags: [[blue]] 
+- Let the heart of your practice be consciousness in its natural state, limpid and ([Location 1353](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1353))
+- vivid. ([Location 1353](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1353))
+- subside, you will gain the autonomy of not succumbing to them, and your mind will constantly be calm and dispassionate. ([Location 1354](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1354))
+    - Tags: [[orange]] 
+- The object of mindfulness in the practice of settling the mind in its natural state is no longer the subtle sensations of the breath at the nostrils, but the space of the mind and whatever events arise within that space. ([Location 1360](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1360))
+    - Tags: [[blue]] 
+- The object of introspection, as in the earlier practice of mindfulness of breathing, is the quality of the attention with which you are observing the mind. ([Location 1362](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1362))
+- “without distraction and without grasping,” ([Location 1364](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1364))
+    - Tags: [[orange]] 
+- Rather, be like a kestrel, hovering motionlessly as it faces the wind, slightly moving its wings and tail feathers to adjust to changes in the currents of the air. ([Location 1369](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1369))
+    - Tags: [[pink]] 
+- Whenever you prefer one mental object over another, whenever you try to control the contents of your mind, and whenever you identify ([Location 1371](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1371))
+    - Tags: [[blue]] 
+- with anything at all, grasping has set it. ([Location 1372](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1372))
+    - Tags: [[blue]] 
+- let your mind be like the sky. ([Location 1373](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1373))
+- Whatever moves through it, the sky never reacts. It doesn’t stop anything from moving through it, it doesn’t hold onto anything that’s present, nor does it control anything. The sky doesn’t prefer rainbows to clouds, butterflies to jet planes. Whatever comes up in the field of awareness, without distraction or grasping, just let it be. ([Location 1373](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1373))
+    - Tags: [[orange]] 
+- occasionally falling into distraction or grasping, ([Location 1376](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1376))
+    - Tags: [[pink]] 
+- As you gradually familiarize yourself with the meditation, increase the duration of your sessions. If dullness sets in, arouse your awareness. If there is excessive scattering and excitation, loosen up. ([Location 1380](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1380))
+    - Tags: [[blue]] 
+- Simply hearing your spiritual mentor’s practical instructions and knowing how to explain them to others does not liberate your own mindstream, so you must meditate. Even if you spend your whole life practicing a mere semblance of meditation—meditating in a stupor, cluttering the mind with fantasies, and taking many breaks during your sessions due to being unable to control mental scattering—no good experiences or realizations will arise. So it is important during each session to meditate according to your mentor’s oral instructions. ([Location 1387](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1387))
+    - Tags: [[pink]] 
+- It is possible to waste an enormous amount of time in faulty meditative practice, ([Location 1394](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1394))
+    - Tags: [[blue]] 
+- and there is also the possibility of damaging your mind, ([Location 1395](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1395))
+- Motionlessly relax your body in whatever way is comfortable, like an unthinking corpse in a charnel ground. Let your voice be silent like a lute with its strings cut. Rest your mind in an unmodified state, like the primordial presence of space…. Remain for a long time in [this way] of resting. This pacifies all illnesses due to disturbances of the elements and unfavorable circumstances, and your body, speech, and mind naturally calm down. ([Location 1402](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1402))
+- Gently hold the vase breath until the vital energies converge naturally. ([Location 1406](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1406))
+- “Vase breathing” ([Location 1407](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1407))
+    - Tags: [[orange]] 
+- as you inhale, let the sensations of the breath flow down to the bottom of your abdomen, like pouring water into a vase. Then, as you exhale, instead of letting the abdomen retract completely, keep it slightly rounded, with your belly soft. ([Location 1408](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1408))
+    - Tags: [[orange]] 
+- converge the vital energies, ([Location 1411](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1411))
+    - Tags: [[pink]] 
+- pranas, ([Location 1411](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1411))
+    - Tags: [[pink]] 
+- By leaving the eyes open, while focusing your attention on the domain of mental events, the artificial barrier between “inner” and “outer” begins to dissolve. ([Location 1419](https://readwise.io/to_kindle?action=open&asin=B003WJR60I&location=1419))
+    - Tags: [[pink]] 

@@ -1,0 +1,12 @@
+- [[MMTCP Closing]] [[The Lodge in Healdsberg]]Hotel Room could not figure out the Kreug coffee machine.
+    - Breakfast sandwich and offerings substandard and pricey
+    - Saving grace is the rooms are nice.
+    - CATV limited and not functioning well.  Change channels take a minute to show an image.  No HBO etc or advanced services. No way to sync laptop for streaming...
+    - Hit my head rear of car trunk.  cut, bleeding, 
+    - [[Health]]NO STRONG HEADACHE...Much reduced.
+        - Funny headache came on after I mentioned this here
+    - [[Dhama Journal]] Pretty good about not making things a problem.
+- [[January 21st, 2023]] at 14:33
+    - mahasati hand movement
+- [[January 21st, 2023]] at 14:33
+    - 

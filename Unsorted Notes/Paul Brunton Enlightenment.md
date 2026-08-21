@@ -1,0 +1,1 @@
+I find myself outside the rim of world consciousness. The planet which has so far harboured me disappears. I am in the midst of an ocean of blazing light. The latter, I feel rather than think, is the primeval stuff out of which worlds are created, the first state of matter. It stretches away into untellable infinite space, incredibly alive.

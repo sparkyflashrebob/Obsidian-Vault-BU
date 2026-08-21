@@ -1,0 +1,5 @@
+---
+tags: []
+---
+
+Patience in discomfort 

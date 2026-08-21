@@ -1,0 +1,794 @@
+# Wake Up Now
+
+![rw-book-cover](https://m.media-amazon.com/images/I/71QDW1ayvwL._SY160.jpg)
+
+## Metadata
+- Author: [[Stephan Bodian]]
+- Full Title: Wake Up Now
+- Category: #books
+
+## Highlights
+- conviction and authority born of personal experience, ([Location 122](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=122))
+- fear by no means undermines the validity of awakening, but is rather just another arising among many in the vastness of who we are. ([Location 123](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=123))
+    - Tags: [[pink]] 
+- awakening experience without religious jargon or dogma. ([Location 129](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=129))
+    - Tags: [[blue]] 
+- Others awaken suddenly and unexpectedly to a reality they don’t have the conceptual framework to handle or have experiences along the way that don’t fit the descriptions in traditional texts. ([Location 130](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=130))
+    - Tags: [[orange]] 
+- therefore have no access to guidance in making sense of their experiences. ([Location 132](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=132))
+- As I’ve discovered, awakening doesn’t belong to one teaching or tradition, and in any case, once you wake up, you actually awaken out of traditional frameworks. ([Location 146](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=146))
+- once you wake up, you actually awaken out of traditional frameworks. ([Location 146](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=146))
+- awakening seems to have shed the garments of religion and revealed itself for what it is—a universal human experience available to everyone right here and now. ([Location 152](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=152))
+    - Tags: [[blue]] 
+- I point directly, again and again, to the truth of who you are and invite you to resonate with the source from which the words arise, allowing it to awaken to itself inside you. ([Location 156](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=156))
+    - Tags: [[pink]] 
+- Instead of helping you to construct a new and more comforting belief system, I encourage you to investigate and penetrate the many ideas and preconceptions you already hold in order to reach the living truth that lies beneath. This approach to spirituality is actually quite radical, because it goes right to the root or source from which all spirituality springs and invites you to abide there, rather than hanging out in the leaves and branches. ([Location 157](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=157))
+    - Tags: [[orange]] 
+- Any experience can be considered an awakening if it opens you to a new, previously unrecognized dimension of being. ([Location 168](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=168))
+    - Tags: [[orange]] 
+- But the awakening I’m talking about in this book is deeper, more essential, and more transformative—it’s a fundamental recognition of the inherent insubstantiality or emptiness of the person you take yourself to be and a radical shift in your identity from being the suffering separate self to being the eternal witness, the limitless space or ground in which all experiences arise. ([Location 170](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=170))
+    - Tags: [[orange]] 
+- you awaken from the dream of suffering and separation to the radiance and joy of your true nature. ([Location 173](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=173))
+- When you awaken, you realize that the separate person you took yourself to be is just a construct, a mental fabrication—a collection of thoughts, feelings, memories, beliefs, and stories that have been woven together by the mind into the appearance of a substantial, continuous someone with certain abiding qualities and characteristics. By freeing you from your identification with the separate self, awakening liberates you from the burdens and concerns, worries and regrets, limitations and preoccupations that the person bearing your name has accumulated over a lifetime. But this construct has extraordinary tenacity, and it generally won’t give up without a prolonged struggle to stay in control. ([Location 177](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=177))
+    - Tags: [[blue]] 
+- After all, if you’re like most people, you’ve devoted your life to enhancing, developing, improving, and promoting this apparently separate someone in order to win love, succeed, get ahead, and finally achieve more happiness and fulfillment. You’re not about to give it up lightly. Besides, your family, friends, teachers, and colleagues have encouraged you in your identity because they’re equally committed to their own dream of separate personhood. As a result, you live your life believing that you’re just a limited character in the dream and may never realize that there’s an alternative, another way to experience yourself: you can awaken out of the dream and discover that you’re the dreamer, the observer, the source of the dream itself. ([Location 182](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=182))
+- “You’re not the person you imagine yourself to be,” they keep repeating, “not this limited physical body or this obsessed and worried mind, but unlimited space, unconditioned presence, the essence and spirit at the heart of life itself. Just wake up and realize it!” ([Location 195](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=195))
+    - Tags: [[pink]] 
+- You may even have a complete awakening, in which the locus of your identity shifts from being the body, mind, and personality to being the eternal witness, the limitless space. ([Location 199](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=199))
+    - Tags: [[orange]] 
+- it’s a pathless path because it’s unique to each seeker and keeps changing as the journey unfolds. ([Location 203](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=203))
+    - Tags: [[pink]] 
+- Even more essentially, it isn’t really a path at all, because there’s nowhere to go and nothing to discover; ([Location 204](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=204))
+- everything you need to know and be is right here and now—indeed, ([Location 205](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=205))
+    - Tags: [[orange]] 
+- indeed, it is the very here and now that you are. ([Location 205](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=205))
+    - Tags: [[blue]] 
+- it’s the ever-present witness of all characteristics, ([Location 214](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=214))
+    - Tags: [[blue]] 
+- the unchanging space in which all experiences come and go, ([Location 215](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=215))
+    - Tags: [[pink]] 
+- the unmoved mover behind all activity, ([Location 215](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=215))
+    - Tags: [[orange]] 
+- the limitless source of all things. ([Location 216](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=216))
+- everything with qualities or characteristics—is an experience, an object of your observation, and therefore can’t possibly be the you who experiences or observes. ([Location 217](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=217))
+- Even the me you’ve taken yourself to be, the self-image, the personality, is just a collection of characteristics and can’t be the one who experiences. ([Location 218](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=218))
+    - Tags: [[pink]] 
+- short-circuit your conceptual mind ([Location 223](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=223))
+    - Tags: [[orange]] 
+- seeking, ([Location 237](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=237))
+    - Tags: [[pink]] 
+- awakening, ([Location 237](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=237))
+    - Tags: [[blue]] 
+- deepening and clarifying, ([Location 237](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=237))
+- embodying, ([Location 237](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=237))
+    - Tags: [[orange]] 
+- living the awakened life. ([Location 237](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=237))
+    - Tags: [[pink]] 
+- Ultimately, you are the path—the path begins and ends with you. ([Location 240](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=240))
+    - Tags: [[orange]] 
+- Maps are ([Location 240](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=240))
+- just intended to quiet the mind so it can relax and allow the process to unfold. ([Location 240](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=240))
+- Ultimately, nothing I say in this book is true in any lasting way—it’s just an expedient means, a pointer, to turn your attention inward to the source of all teachings. ([Location 285](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=285))
+- Because truth is essentially nondual and includes everything without exception, anything I assert about it is both true and false—and neither true nor false. ([Location 286](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=286))
+    - Tags: [[blue]] 
+- paradox is the only way to approach truth with the respect it deserves. ([Location 291](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=291))
+    - Tags: [[pink]] 
+- “Zazen [Zen meditation],” she said softly, “is the way to bring you to your long-lost home.” ([Location 313](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=313))
+    - Tags: [[orange]] 
+- the “I am” prior to all characteristics. ([Location 323](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=323))
+    - Tags: [[pink]] 
+- Yet somehow my true home, apparently as near as breath itself, had remained completely invisible to me, even though my teachers kept pointing toward it ([Location 324](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=324))
+    - Tags: [[orange]] 
+- there’s no place to go but here, ([Location 342](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=342))
+    - Tags: [[pink]] 
+- “gateless gate.” ([Location 348](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=348))
+    - Tags: [[blue]] 
+- “Mu” ([Location 365](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=365))
+    - Tags: [[pink]] 
+- “That which you are seeking,” wrote an anonymous sage, “is always seeking you.” ([Location 382](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=382))
+    - Tags: [[orange]] 
+- Ultimately, your every desire—the desire for material things, relationships, career success, sexual gratification—is really the desire for the peace you experience for brief moments when you attain the object of your desire. ([Location 383](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=383))
+    - Tags: [[pink]] 
+- Until you know who you really are, know the freedom from desire that’s the true aim of every desire, you can never recognize the peace that can never be disturbed or lost. ([Location 385](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=385))
+    - Tags: [[blue]] 
+- But if you’re like Rumi, you need to exhaust yourself with the knocking. ([Location 391](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=391))
+    - Tags: [[blue]] 
+- the prison that you imagine constrains you doesn’t really exist. ([Location 396](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=396))
+- “The only obstacle to complete realization is the thought ‘I have not realized,’” ([Location 401](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=401))
+    - Tags: [[orange]] 
+- You’re accustomed to focusing on external objects but rarely turn around to look at the one who looks, the source of all seeing. ([Location 408](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=408))
+    - Tags: [[blue]] 
+- the two truths. ([Location 419](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=419))
+    - Tags: [[orange]] 
+- form is emptiness, and emptiness is form, ([Location 431](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=431))
+    - Tags: [[orange]] 
+- “form is emptiness, emptiness is form.” ([Location 434](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=434))
+- you may miss the deeper experience of knowing that the two of you are already essentially one and that love is who you both are fundamentally, beneath the personal issues. ([Location 437](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=437))
+    - Tags: [[orange]] 
+- Only in the presence of both the absolute and relative truths, the spiritual and mundane dimensions, can the deepest intimacy flourish. ([Location 441](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=441))
+    - Tags: [[pink]] 
+- “Holding a begging bowl, a man with amnesia knocks on his own door,” ([Location 444](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=444))
+    - Tags: [[orange]] 
+- There was a time when meadow, grove, and stream, The earth, and every common sight, To me did seem Apparell’d in celestial light, The glory and the freshness of a dream. ([Location 449](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=449))
+- we forget who we really are and succumb to the way others see us until one day, perhaps, we have intimations of our immortality, our timeless spiritual nature, become seekers, and embark on the return journey home. ([Location 460](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=460))
+- “Why” questions are the mind’s attempt to make sense of the incomprehensible. ([Location 465](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=465))
+- because that’s the way it is. ([Location 466](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=466))
+    - Tags: [[orange]] 
+- eventually they will succumb to the intense cultural pressure to identify as a separate self. It seems to be inevitable, and so therefore is the process of straying and returning. ([Location 473](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=473))
+    - Tags: [[orange]] 
+- If you want to influence the next generation, the most important thing you can do is to awaken yourself. Embody the possibility of freedom in your own life, and you will have a profound effect on the people around you. ([Location 474](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=474))
+    - Tags: [[blue]] 
+- Again, suffering is not required, but it does have the uncanny ability to pull the rug out from beneath your comfortable little world and open you to a deeper source of meaning and fulfillment. It’s a powerful motivator. You don’t have to go looking for it, of course—it will find you eventually. ([Location 484](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=484))
+    - Tags: [[orange]] 
+- Even concepts like “book” and “table” limit your ability to see beyond the form to the underlying essence of what is. ([Location 491](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=491))
+    - Tags: [[pink]] 
+- “On present evidence, without consulting the mind, is there anything missing or lacking in my experience right now?” ([Location 497](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=497))
+- Each moment offers you an opportunity to recognize the silent, awake presence that’s always already right here and now, underlying your experience and illuminating all things. ([Location 507](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=507))
+    - Tags: [[pink]] 
+- the gateless gate: ([Location 511](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=511))
+    - Tags: [[pink]] 
+- Big Mind, ([Location 511](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=511))
+    - Tags: [[blue]] 
+- In the light of the teaching that you already are what you seek, any effort to go somewhere else or be something you’re not seems misguided and heavy-handed. ([Location 517](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=517))
+- Instead, the search tends to become subtler and more paradoxical, less like an arduous heroic quest and more like a silent attunement, an inner listening. ([Location 519](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=519))
+    - Tags: [[orange]] 
+- But such inner attunement can be difficult to maintain without the support of a teacher. As a result, many seekers, even those who are acquainted with the open secret, are enticed to seek outside themselves in clear-cut practices and paths for a more forceful way through. ([Location 520](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=520))
+    - Tags: [[blue]] 
+- “The truth cannot be found through seeking, but only seekers find it,” ([Location 523](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=523))
+    - Tags: [[pink]] 
+- you sense the silent observer that’s always been watching the thoughts come and go. ([Location 528](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=528))
+    - Tags: [[pink]] 
+- turn your attention toward the experiencer behind the experience, you may be able to awaken directly without prolonged seeking. ([Location 534](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=534))
+    - Tags: [[orange]] 
+- Cultivate mindfulness and loving-kindness with an Asian-trained teacher of Vipassana (insight) meditation, and eventually you may develop the qualities of heart and mind necessary to attain the “other shore” of enlightenment. ([Location 539](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=539))
+- Some Buddhists I know, for example, have spent decades wearing robes, following their breaths, and giving Dharma talks without ever having a convincing glimpse of their essential nature, their original face. The danger of investing your energy in seeking is that you’ll end up a perpetual seeker, without ever finding what you were looking for in the first place. ([Location 566](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=566))
+    - Tags: [[orange]] 
+- reinforces the belief that your true nature is deeply concealed and requires protracted effort to uncover. ([Location 569](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=569))
+- “The seeker is the sought; the looker is what he or she is looking for.” My mind couldn’t wrap itself around these words, but one day soon after, in a moment out of time, the seeker and the sought collapsed into one another, and I knew who I was once and for all. The one who had been looking so hard for true nature was the very true nature I had been looking for. ([Location 573](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=573))
+    - Tags: [[pink]] 
+- silent presence ([Location 576](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=576))
+    - Tags: [[orange]] 
+- On the contrary, it apparently occurred only after he gave up his ascetic practice, accepted some nourishing food, and sat down on a comfortable bed of grass in the shade of a tree, vowing not to get up until he reached the end of his search. ([Location 585](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=585))
+- The problem lies not with the technique, but with the attitude or orientation with which it’s practiced. ([Location 596](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=596))
+- If you view your practice as a gradual means to some distant and lofty goal, you may lose your initial passion, enthusiasm, and curiosity and miss the open secret of your true nature in your dogged determination to accumulate spiritual experiences and become a more spiritual person. ([Location 597](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=597))
+    - Tags: [[pink]] 
+- “Don’t make meditation a habit,” ([Location 599](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=599))
+- lest your practice become lifeless and dull. ([Location 599](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=599))
+    - Tags: [[orange]] 
+- Instead, enter your meditation as ([Location 599](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=599))
+- you would a laboratory, with the express intention of finding the meditator. ([Location 600](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=600))
+    - Tags: [[blue]] 
+- no amount of effort can bring you closer to who you are—after all, it’s your nearest, as intimate as breath—and the belief that you need to effort just takes you further away because it causes you to stray from what’s already so close at hand. “Don’t you see,” asked the Indian teacher Nisargadatta Maharaj, “that your very search for happiness is what makes you feel miserable?” ([Location 618](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=618))
+    - Tags: [[pink]] 
+- Perhaps most insidious, years of dedication to gradual cultivation just strengthen the grip of the seeker—the separate someone who negotiates the path, attends the retreats, accumulates the insights, has the experiences, racks up the spiritual points. ([Location 625](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=625))
+- Just turn your attention back on itself and recognize your true faceless face once and for all. ([Location 641](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=641))
+    - Tags: [[pink]] 
+- “pointing-out instructions” ([Location 647](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=647))
+    - Tags: [[pink]] 
+- “The seeker is the sought,” ([Location 650](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=650))
+    - Tags: [[orange]] 
+- But generally it helps to be oriented, curious, dedicated, and even passionate about discovering who you really are. In other words, it helps to want truth more than anything else—and to know how and where to look. ([Location 661](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=661))
+    - Tags: [[blue]] 
+- “To live in the known is bondage,” adds Nisargadatta. “To live in the unknown is liberation.” ([Location 670](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=670))
+    - Tags: [[orange]] 
+- hearing, ([Location 671](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=671))
+- meditating, ([Location 671](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=671))
+    - Tags: [[orange]] 
+- pondering. ([Location 671](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=671))
+    - Tags: [[blue]] 
+- Remember that the separate self can never discover the truth—in the end, the truth just awakens to itself through you. ([Location 678](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=678))
+    - Tags: [[pink]] 
+- Call off the search and just be. ([Location 716](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=716))
+    - Tags: [[orange]] 
+- “What am I looking for? ([Location 722](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=722))
+    - Tags: [[pink]] 
+- What’s the goal of my search? ([Location 723](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=723))
+    - Tags: [[blue]] 
+- How would I know if I found it? ([Location 723](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=723))
+- How would my life be different? ([Location 723](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=723))
+    - Tags: [[orange]] 
+- What do I imagine enlightened people have that I don’t?” ([Location 723](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=723))
+    - Tags: [[pink]] 
+- what you’re looking for is what you already are, ([Location 726](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=726))
+    - Tags: [[orange]] 
+- Right now, let go of your search and abide as awareness or presence itself. ([Location 727](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=727))
+    - Tags: [[blue]] 
+- Just trust that you merely need to let go and be. ([Location 729](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=729))
+- Gaze out at the world through the eyes of unconditional, nonjudgmental presence. ([Location 730](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=730))
+    - Tags: [[pink]] 
+- Continue to remain as you are as you get up and go about your day. ([Location 732](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=732))
+    - Tags: [[orange]] 
+- I began to realize that all my conceptual knowledge didn’t have the power to deliver the one thing I wanted most: ([Location 741](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=741))
+    - Tags: [[pink]] 
+- happiness, ([Location 741](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=741))
+    - Tags: [[blue]] 
+- peace of mind, ([Location 741](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=741))
+- ease of being. ([Location 741](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=741))
+    - Tags: [[orange]] 
+- NOT KNOWING IS THE MOST INTIMATE ([Location 746](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=746))
+    - Tags: [[orange]] 
+- the sharp sword of discernment cuts through conditioned beliefs to reveal the living truth beneath. ([Location 747](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=747))
+    - Tags: [[pink]] 
+- Instead of studying other people’s ideas about life, I became intimate with life itself—cleaning houses, preparing food, working in the garden, following my breath, teaching others how to meditate. ([Location 749](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=749))
+- Concepts of any kind only serve to separate you from the rich, intimate, juicy experience of this moment right now. ([Location 756](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=756))
+- life is what’s happening while you’re busy imposing your interpretation on it. ([Location 761](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=761))
+    - Tags: [[blue]] 
+- But if you set aside your ideas, you have the potential in each moment to experience life directly, intimately, without any division between knower and known. ([Location 761](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=761))
+- Sensing your body from the inside, without the interference of the mind, gives you an opportunity to step through a doorway into a direct apperception of being itself—pure, radiant, undivided—where subject and object are one. ([Location 762](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=762))
+    - Tags: [[orange]] 
+- “If the doors of perception were cleansed, everything would appear to man as it is, infinite.” ([Location 764](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=764))
+    - Tags: [[blue]] 
+- a mind clouded by concepts], ([Location 766](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=766))
+    - Tags: [[pink]] 
+- Pretending that you know deprives you of the intimacy of your true nature, ([Location 772](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=772))
+    - Tags: [[pink]] 
+- the truth of your being can never be known by the mind—it’s elusive and ungraspable—but as soon as you completely let go of your struggle to know, the truth reveals itself to you. ([Location 773](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=773))
+- “Not a single statement in this book is true.” ([Location 791](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=791))
+    - Tags: [[orange]] 
+- the mind takes possession of even the highest spiritual teachings and pretends to know the truth of which they speak, ([Location 801](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=801))
+    - Tags: [[pink]] 
+- whereas the mind is merely seeing reality through the cloudy lens of spiritual concepts. ([Location 802](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=802))
+- Such concepts interfere with your ability to awaken because they give you the mistaken impression that you already know. ([Location 810](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=810))
+    - Tags: [[blue]] 
+- “Whatever you understand is not the truth and is to be thrown overboard.” ([Location 818](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=818))
+    - Tags: [[pink]] 
+- you have an opportunity to fall back into the vast, spacious, luminous, thought-free presence that is always already who you really are—the living reality that no thought can possibly touch. ([Location 820](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=820))
+    - Tags: [[pink]] 
+- “Realization is not the acquisition of anything new or a new faculty,” says Ramana Maharshi. “It is only the removal of all camouflage.” ([Location 821](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=821))
+    - Tags: [[orange]] 
+- God is a vast emptiness beyond all conceptual knowing. ([Location 825](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=825))
+    - Tags: [[pink]] 
+- “It’s easier for a camel to pass through the eye of a needle than for a rich man to enter the kingdom of heaven.” ([Location 828](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=828))
+    - Tags: [[blue]] 
+- “You must become as little children to enter the kingdom of heaven,” ([Location 831](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=831))
+    - Tags: [[orange]] 
+- In the process, however, you trade the possibility of experiencing reality directly for a familiar, reassuring, unquestioned ([Location 837](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=837))
+    - Tags: [[pink]] 
+- (and unquestionable) filter that you project onto the real. ([Location 838](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=838))
+    - Tags: [[pink]] 
+- The suffering begins only when you become attached to them and mistake them for truth.) ([Location 841](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=841))
+    - Tags: [[orange]] 
+- More than their judgment of others, though, what struck me about these lovely, heartful men and women was how judgmental they were of themselves. ([Location 849](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=849))
+    - Tags: [[orange]] 
+- they believed that they were inherently flawed and unworthy and that their natural insights and impulses were misguided. ([Location 851](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=851))
+    - Tags: [[pink]] 
+- many approaches to therapy attempt to bolster people’s self-esteem by substituting positive beliefs for negative ones. ([Location 857](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=857))
+    - Tags: [[blue]] 
+- no amount of bolstering will ever completely reassure the ego, the apparently separate self, that it’s adequate because it knows at some level that it’s just a construct, a collection of thoughts, memories, and feelings, without any substantial existence. ([Location 858](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=858))
+    - Tags: [[pink]] 
+- the ego is just a “shadow cast on the ground” by being. ([Location 860](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=860))
+- If you’re like most folks, you may spend the rest of your life attempting to win love and approval or ensure your survival by pretending to be someone you’re not, while deep down feeling inadequate because you never succeed at living up to the image you project for yourself. ([Location 865](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=865))
+- Many people, for example, turn to addictive behaviors in a futile attempt to fill the hole or vacancy they sense inside themselves with alcohol, drugs, antidepressants, food, sex, material possessions, and, yes, spiritual beliefs. ([Location 868](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=868))
+    - Tags: [[pink]] 
+- The inner emptiness can seem so terrifying and overwhelming that they’ll do just about anything, including indulging in self-destructive behaviors, to avoid facing it. ([Location 870](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=870))
+    - Tags: [[orange]] 
+- Over time, you fashion these beliefs into a comforting inner world with a more exalted, more spiritual you at the center, but this world is just a fantasy, another construct, more sweets for the ego, and it won’t bring you any closer to genuine spiritual awakening. ([Location 873](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=873))
+    - Tags: [[orange]] 
+- The process of unknowing is the path to wisdom. ([Location 878](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=878))
+- In the light of present awareness, ([Location 880](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=880))
+    - Tags: [[pink]] 
+- you come to see that the separate self is just a construct and the feelings are just that—merely feelings—and have nothing to do with who you really are, which is the limitless space in which thoughts and feelings arise. ([Location 880](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=880))
+    - Tags: [[orange]] 
+- “Give up the tendency to define yourself,” ([Location 882](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=882))
+    - Tags: [[pink]] 
+- “Whatever concept you have about yourself cannot be true.” ([Location 882](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=882))
+    - Tags: [[blue]] 
+- the emphasis on conceptual knowing just reinforces the seeming solidity of the knower, the separate someone who thinks it knows. ([Location 892](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=892))
+    - Tags: [[blue]] 
+- “If you want to make God laugh,” the old saying goes, “tell her your plans.” ([Location 918](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=918))
+    - Tags: [[pink]] 
+- The point of spiritual awakening is not to maximize your assets and minimize your losses, but to be free of attachment to gain or loss and to be peaceful and joyful in the midst of whatever life brings. ([Location 925](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=925))
+    - Tags: [[pink]] 
+- conceptual knowledge won’t reveal to you who you are, but it may help orient you in your search. ([Location 934](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=934))
+- Ultimately, however, this map can take you only so far—to the threshold of realization but no further, to the precipice over which you must fall in order to awaken—and then you must be “taken” by the truth itself in a moment out of time. When you awaken, your conceptual understanding dissolves in “being understanding,” the living, nonconceptual knowing of the heart. ([Location 936](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=936))
+    - Tags: [[orange]] 
+- When you sit, be alert and present for what is, including the mind-states that come and go. ([Location 947](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=947))
+    - Tags: [[pink]] 
+- your sitting may also seem to pass quickly when you’re one with what you’re experiencing and there’s no separate little me to keep track. ([Location 948](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=948))
+- If you feel so inclined, you might try to unearth the ideas and stories beneath your feelings. ([Location 954](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=954))
+    - Tags: [[orange]] 
+- feelings come and go spontaneously like thoughts and needn’t be a problem if you don’t identify with them. ([Location 955](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=955))
+    - Tags: [[blue]] 
+- The more you set aside your beliefs and encounter life directly, without argument or struggle, the more you discover a natural responsiveness that’s inherently gentle, loving, and ethical and doesn’t require a spiritual worldview to maintain. ([Location 962](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=962))
+    - Tags: [[pink]] 
+- According to the traditional Buddhist view, you need to practice mindful awareness of each moment with great dedication and diligence, gradually developing the penetrating insight necessary to see through the illusion of a separate self. In the process, you’re expected to cultivate positive qualities like patience and compassion and minimize or eliminate undesirable emotions like anger and fear. Gradually, with enough mindfulness meditation and the cultivation of enough virtue, you transform yourself into a buddha. ([Location 994](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=994))
+- from the perspective of the direct approach often (though not always) encountered in Zen, you’re already a buddha just as you are, and meditation is an opportunity to express your limitless, radiant, innate Buddha nature—what ([Location 998](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=998))
+    - Tags: [[orange]] 
+- But attending to the particulars of experience in this way runs the risk of becoming effortful and laborious and, as its name implies, strengthening the illusion of the separate self that’s looking down on reality from a distance, trying to be mindful. ([Location 1014](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1014))
+    - Tags: [[pink]] 
+- being mindful (“mind-full”) can just energize the localization of energy and attention in the witnessing mind and accentuate the gap between subject and object, self and other, that awakening is intended to close. ([Location 1016](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1016))
+- The mind may become proficient at paying attention and fancy itself an accomplished meditator. ([Location 1017](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1017))
+    - Tags: [[blue]] 
+- In reality, however, true meditation, which has nothing to do with the mind, is always occurring and merely needs to be allowed, not created. ([Location 1018](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1018))
+    - Tags: [[orange]] 
+- In the process of becoming an expert meditator, my mind had gradually become more rigid and narrow, and I’d lost the innocence, openness, and aliveness of beginner’s mind, which had delighted and nourished me in my early days of practice. ([Location 1022](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1022))
+    - Tags: [[pink]] 
+- being embraced by a silence so deep I could feel it in my bones. ([Location 1030](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1030))
+    - Tags: [[pink]] 
+- I didn’t need to meditate; meditation was always happening, I just needed to let go and join it. ([Location 1031](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1031))
+- my mind had given up trying, if only for an instant, and I had happened upon the doorway to true meditation. ([Location 1032](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1032))
+    - Tags: [[orange]] 
+- When I finally awakened to my essential nature, I looked back and realized that the innocent, open awareness with which I had begun my practice was in fact identical with the expansive, all-inclusive awareness that had subsequently awakened to itself through me. ([Location 1033](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1033))
+    - Tags: [[orange]] 
+- the practice of presence. ([Location 1047](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1047))
+    - Tags: [[orange]] 
+- Instead of focusing the light of your awareness like a laser on a ([Location 1047](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1047))
+- particular object or activity, you open it like the sky, welcoming the experiences that arise just as the sky welcomes the clouds, neither ignoring nor indulging them. Instead of concentrating, you relax and let go, allowing everything to be just as it is, without any attempt to control on your part. You’re alert but at ease, totally present but not fixated in any way. ([Location 1048](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1048))
+- Any effort is an indication that your mind has intervened. ([Location 1051](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1051))
+- likened presence to the function of listening. ([Location 1054](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1054))
+- The realization that the separate someone doesn’t exist marks the ultimate fruition of the practice of presence. ([Location 1060](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1060))
+    - Tags: [[orange]] 
+- In any case, don’t meditate because you think you should, and pay attention to the beliefs and stories the mind produces to explain the path you’ve chosen. ([Location 1113](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1113))
+    - Tags: [[pink]] 
+- your attachment to these stories is the only thing separating you from true meditation, the profound silence beneath all the words. ([Location 1116](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1116))
+    - Tags: [[blue]] 
+- Ultimately, if your sitting is free of artifice and effort, the one dissolves into the other, the gap between subject and object disappears, and only presence remains. ([Location 1122](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1122))
+    - Tags: [[orange]] 
+- “In true meditation, the emphasis is on being awareness—not on being aware of objects, but on resting as primordial awareness itself.” (Adyashanti) ([Location 1144](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1144))
+    - Tags: [[orange]] 
+- “If the doors of perception were cleansed, everything would appear to man as it is, infinite.” ([Location 1151](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1151))
+    - Tags: [[blue]] 
+- As awareness clarifies and naturally settles on itself, noticeable energetic and physical experiences may occur. The locus of your awareness (the place your awareness tends to come to rest) may shift from your forehead (home of the neocortex) to the back of your head, and then to the lower part of your body, usually either your heart or tantien (the center of gravity two inches below your navel). You may find that you increasingly act from your heart and move from your gut, rather than from your thinking mind. You may also experience rushes of energy up your spine (kundalini) or more subtle, extremely pleasurable vibrations throughout your body (bliss). As you sit quietly, you may notice thoughts and feelings passing through and releasing without leaving any residue of heaviness or discomfort. Above all, you may gradually discover that your inner experience no longer has the same hold over you, no longer causes the same stress and contraction, and you feel lighter, more spacious, more peaceful, more loving, yet at the same time more disengaged. ([Location 1152](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1152))
+- Try as hard as you can, you’ll never get the mind to settle down. Indeed, all your ([Location 1172](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1172))
+- efforts to calm it just make it more agitated. Rather, let the mind do what it does, and rest as the primordial awareness that isn’t disturbed by the perturbations of the mind. The mind’s nature is to move, but you are not your mind; you’re limitless, silent, ungraspable presence. Paradoxically, of course, when you leave the mind alone, it tends to calm down by itself. ([Location 1173](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1173))
+- Instead of struggling with your mind, become aware of the beliefs and stories it churns out and then inquire into their validity, ([Location 1178](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1178))
+- There will be moments in daily life when your mind spontaneously stops and an empty space or gap opens up. In this space, you have an intimation of a stillness and silence beyond the mind. Instead of immediately rushing to fill the gap in your effort to stay busy, let the silence and stillness solicit you. Enjoy these empty, unfurnished moments and ([Location 1182](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1182))
+    - Tags: [[blue]] 
+- gently allow them to expand. This is how you’re invited to meditate. ([Location 1185](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1185))
+    - Tags: [[orange]] 
+- Wake-Up Call The Practice of Listening Set aside ten to fifteen minutes for this exploration. Begin by sitting comfortably with your eyes closed. If possible, sit in or near a natural place like a garden or park, or at least a space where you hear only background sounds like the hum of a refrigerator, the rumble of traffic, or the sounds of birds. Make sure you’re not going to be disturbed by voices, music, radios, or TVs. Now open your awareness to the sounds around you. Don’t focus on any particular sound or jump from sound to sound, just open your awareness like the lens of a camera and listen to the play of sound with your whole body, not just your ears. Allow listening to happen. The sounds come and go, shift and change, in this expanded, global awareness. Everything is happening in you. ([Location 1189](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1189))
+- Keep relaxing, letting go, and allowing listening to happen. If your awareness habitually focuses or jumps from sound to sound, just let it do what it does as you continue to relax in global awareness. You may find that you naturally include other sensations as well: the contact of your body against the chair, the air against your skin, the rumbling of your stomach, the beating of your heart. Just keep allowing the play of what is, without efforting to pay attention in any way. Eventually, the sense of a separate experiencer may drop away, and only experiencing remains. No separation between subject and object—just this! As you continue allowing experiencing to happen, you may discover that it arises in a limitless stillness and silence that can’t be experienced in any way. This is your very own Self, unconditional presence, consciousness without a second, the source of all experience. You can never know it with the mind; you can only be it knowingly. Allow everything to be as it is as you relax into the silent presence that you’ve always been. ([Location 1196](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1196))
+- may whet your appetite for deeper and clearer revelation. ([Location 1214](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1214))
+    - Tags: [[blue]] 
+- continued practice of presence, ([Location 1214](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1214))
+    - Tags: [[pink]] 
+- which at a certain point becomes natural and effortless, ([Location 1214](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1214))
+- Often, however, the process of awakening involves some form of deliberate self-inquiry, some intentional attempt to find out who you are. ([Location 1217](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1217))
+    - Tags: [[orange]] 
+- self-inquiry. ([Location 1229](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1229))
+    - Tags: [[orange]] 
+- investigate the separate self. ([Location 1231](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1231))
+    - Tags: [[orange]] 
+- living reality. ([Location 1235](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1235))
+    - Tags: [[blue]] 
+- spontaneous, ([Location 1238](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1238))
+    - Tags: [[pink]] 
+- formal, ([Location 1238](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1238))
+    - Tags: [[blue]] 
+- turning words. ([Location 1238](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1238))
+- When you fully realize that what you’re seeking doesn’t exist in manifestation and can’t be found “out there” in experiences or states of any kind, there’s a relaxation of being and a cessation of seeking. ([Location 1241](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1241))
+- Once this is finally acknowledged by the mind, there is a giving up, and attention naturally turns back on itself in a kind of spontaneous self-inquiry. ([Location 1243](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1243))
+    - Tags: [[blue]] 
+- “Who am I?” ([Location 1259](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1259))
+    - Tags: [[pink]] 
+- Anything you can perceive, no matter how intimate—including the physical body and the cluster of images, memories, thoughts, feelings, and beliefs that constitute the mind—is merely an object of perception; it can’t possibly be the perceiver, the “I” in “I notice, I think, I feel.” ([Location 1265](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1265))
+- “Who is thinking this thought? Who is feeling this feeling? Who is seeing through these eyes right now?” The point of these questions is not to engage the mind, because the mind inevitably gnaws on questions endlessly like a dog on a bone, with little nutritional benefit. Instead, drop the question into the stillness of your being like a pebble dropped into a still forest pool. Let it send ripples through your meditation, but don’t attempt to figure it out. When the pool is relatively tranquil again, drop another pebble and see what happens. ([Location 1268](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1268))
+    - Tags: [[orange]] 
+- “If the mind is distracted, ask the question promptly, ‘To whom do these distracting thoughts arise?’” ([Location 1276](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1276))
+    - Tags: [[pink]] 
+- welcoming presence; ([Location 1279](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1279))
+    - Tags: [[blue]] 
+- “If it is ever to become a living question, it must be transposed on every level of our being. The openness in the living question is the doorway to the living answer.” ([Location 1281](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1281))
+- “To hold it with effort is inquiry. When spontaneous and natural, it’s realization.” ([Location 1287](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1287))
+    - Tags: [[orange]] 
+- relaxation generally seems more conducive to realization than tension and struggle. ([Location 1308](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1308))
+- “unfindability” ([Location 1321](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1321))
+    - Tags: [[orange]] 
+- “I have looked for my mind everywhere, but I’ve been unable to find it.” “Ah,” said Bodhidharma. “Then I’ve succeeded in pacifying your mind for you.” ([Location 1326](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1326))
+    - Tags: [[pink]] 
+- sit quietly in meditation and then attempt to locate the mind and determine its density, shape, color, and form. But no matter how earnestly you try, you won’t be able to answer these questions. ([Location 1334](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1334))
+    - Tags: [[orange]] 
+- “Not finding anything, you may initially think that you have somehow failed,” explains Tibetan master Thrangu Rinpoche. “Either you misunderstood how to look, or you just haven’t looked enough. But in fact, this is not true. The reason you find nothing . . . when you look for your mind, is that the nature of your mind is utter insubstantiality, emptiness. We need to experience this directly in meditation.” ([Location 1339](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1339))
+- “The seeker is the sought; the looker is what he or she is looking for,” ([Location 1358](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1358))
+    - Tags: [[blue]] 
+- The key is to sit quietly, set aside your conceptual filters and interpretations, and let the teachings drop into the still pool of your being like pebbles. ([Location 1364](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1364))
+- Choose sayings that seem enigmatic or paradoxical but also somehow inviting to you, and don’t make any attempt to understand them at a conceptual level, though conceptual understanding may gradually present itself. Just live with the ripples, the silence and forefeeling of truth that these sayings evoke. Eventually they may awaken you to the living source from which they arose. ([Location 1365](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1365))
+    - Tags: [[blue]] 
+- You have not understood until you have solved the riddle of the one who thinks he has understood. —Nisargadatta Maharaj ([Location 1374](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1374))
+    - Tags: [[orange]] 
+- inquiry only bears fruit in a heart that is open and available for truth. ([Location 1396](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1396))
+    - Tags: [[pink]] 
+- Being present for what is just the way it is (as described in Chapter 4), which naturally flowers into unconditional presence or listening, calms the pool of mind without effort or manipulation and allows the pebbles of inquiry to spread their ripples throughout your welcoming awareness. ([Location 1396](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1396))
+    - Tags: [[orange]] 
+- Instead of “practicing” presence, you might prefer following Adyashanti’s instruction to “rest as primordial awareness itself,” if these words resonate for you. ([Location 1398](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1398))
+- Wake-Up Call Who Is Experiencing This Moment Right Now? Set aside twenty to thirty minutes for this exploration. Begin by sitting quietly with your eyes closed for five minutes or so. Rest your awareness on the experience of sitting, and allow your body to relax. Now open your eyes and allow your awareness to settle on a particular object: a table, a chair, a bookcase, a desk. As you gaze at this object, ask yourself, “Who is seeing?” Clearly, the object is seen, but who or what is seeing? If you reply, “I am, I’m the one who’s seeing,” ask yourself further, “Who is this ‘I,’ and where is it located?” Next, open your awareness to the sounds around you. Clearly, sounds are being heard, but who or what is hearing? Again, you may say, “I am, of course,” but who is this “I,” and where is it located? Set aside any conceptual answers, such as “I am consciousness” or “I am a child of God or a being of light,” because they won’t provide the answer you seek. Relax, breathe softly, and let your inquiry be direct and experiential. “Who am I? Who am I really?” ([Location 1425](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1425))
+    - Tags: [[orange]] 
+- Likewise, if you point to your heart, consider that your heart and your feelings also can be experienced. But who or what is experiencing? Anything you can locate or name is an object of awareness. The question is “Who is aware? Who is the ultimate subject of all objects?” Keep inquiring, in an ever-deepening regression, trying to find your way back to the “I,” the source of all experiencing. If your inquiry becomes too effortful or mental, just relax and sit quietly once again. After a few minutes, resume your questioning, not as an intellectual exercise, but as a whole-body search for the ultimate experiencer. You say, “I feel, I think, I see, I taste, I know,” but who is this “I”? Who is experiencing this moment right now? ([Location 1436](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1436))
+    - Tags: [[orange]] 
+# Wake Up Now
+
+![rw-book-cover](https://m.media-amazon.com/images/I/71QDW1ayvwL._SY160.jpg)
+
+## Metadata
+- Author: [[Stephan Bodian]]
+- Full Title: Wake Up Now
+- Category: #books
+
+## Highlights
+- conviction and authority born of personal experience, ([Location 122](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=122))
+- fear by no means undermines the validity of awakening, but is rather just another arising among many in the vastness of who we are. ([Location 123](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=123))
+    - Tags: [[pink]] 
+- awakening experience without religious jargon or dogma. ([Location 129](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=129))
+    - Tags: [[blue]] 
+- Others awaken suddenly and unexpectedly to a reality they don’t have the conceptual framework to handle or have experiences along the way that don’t fit the descriptions in traditional texts. ([Location 130](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=130))
+    - Tags: [[orange]] 
+- therefore have no access to guidance in making sense of their experiences. ([Location 132](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=132))
+- As I’ve discovered, awakening doesn’t belong to one teaching or tradition, and in any case, once you wake up, you actually awaken out of traditional frameworks. ([Location 146](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=146))
+- once you wake up, you actually awaken out of traditional frameworks. ([Location 146](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=146))
+- awakening seems to have shed the garments of religion and revealed itself for what it is—a universal human experience available to everyone right here and now. ([Location 152](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=152))
+    - Tags: [[blue]] 
+- I point directly, again and again, to the truth of who you are and invite you to resonate with the source from which the words arise, allowing it to awaken to itself inside you. ([Location 156](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=156))
+    - Tags: [[pink]] 
+- Instead of helping you to construct a new and more comforting belief system, I encourage you to investigate and penetrate the many ideas and preconceptions you already hold in order to reach the living truth that lies beneath. This approach to spirituality is actually quite radical, because it goes right to the root or source from which all spirituality springs and invites you to abide there, rather than hanging out in the leaves and branches. ([Location 157](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=157))
+    - Tags: [[orange]] 
+- Any experience can be considered an awakening if it opens you to a new, previously unrecognized dimension of being. ([Location 168](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=168))
+    - Tags: [[orange]] 
+- But the awakening I’m talking about in this book is deeper, more essential, and more transformative—it’s a fundamental recognition of the inherent insubstantiality or emptiness of the person you take yourself to be and a radical shift in your identity from being the suffering separate self to being the eternal witness, the limitless space or ground in which all experiences arise. ([Location 170](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=170))
+    - Tags: [[orange]] 
+- you awaken from the dream of suffering and separation to the radiance and joy of your true nature. ([Location 173](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=173))
+- When you awaken, you realize that the separate person you took yourself to be is just a construct, a mental fabrication—a collection of thoughts, feelings, memories, beliefs, and stories that have been woven together by the mind into the appearance of a substantial, continuous someone with certain abiding qualities and characteristics. By freeing you from your identification with the separate self, awakening liberates you from the burdens and concerns, worries and regrets, limitations and preoccupations that the person bearing your name has accumulated over a lifetime. But this construct has extraordinary tenacity, and it generally won’t give up without a prolonged struggle to stay in control. ([Location 177](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=177))
+    - Tags: [[blue]] 
+- After all, if you’re like most people, you’ve devoted your life to enhancing, developing, improving, and promoting this apparently separate someone in order to win love, succeed, get ahead, and finally achieve more happiness and fulfillment. You’re not about to give it up lightly. Besides, your family, friends, teachers, and colleagues have encouraged you in your identity because they’re equally committed to their own dream of separate personhood. As a result, you live your life believing that you’re just a limited character in the dream and may never realize that there’s an alternative, another way to experience yourself: you can awaken out of the dream and discover that you’re the dreamer, the observer, the source of the dream itself. ([Location 182](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=182))
+- “You’re not the person you imagine yourself to be,” they keep repeating, “not this limited physical body or this obsessed and worried mind, but unlimited space, unconditioned presence, the essence and spirit at the heart of life itself. Just wake up and realize it!” ([Location 195](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=195))
+    - Tags: [[pink]] 
+- You may even have a complete awakening, in which the locus of your identity shifts from being the body, mind, and personality to being the eternal witness, the limitless space. ([Location 199](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=199))
+    - Tags: [[orange]] 
+- it’s a pathless path because it’s unique to each seeker and keeps changing as the journey unfolds. ([Location 203](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=203))
+    - Tags: [[pink]] 
+- Even more essentially, it isn’t really a path at all, because there’s nowhere to go and nothing to discover; ([Location 204](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=204))
+- everything you need to know and be is right here and now—indeed, ([Location 205](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=205))
+    - Tags: [[orange]] 
+- indeed, it is the very here and now that you are. ([Location 205](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=205))
+    - Tags: [[blue]] 
+- it’s the ever-present witness of all characteristics, ([Location 214](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=214))
+    - Tags: [[blue]] 
+- the unchanging space in which all experiences come and go, ([Location 215](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=215))
+    - Tags: [[pink]] 
+- the unmoved mover behind all activity, ([Location 215](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=215))
+    - Tags: [[orange]] 
+- the limitless source of all things. ([Location 216](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=216))
+- everything with qualities or characteristics—is an experience, an object of your observation, and therefore can’t possibly be the you who experiences or observes. ([Location 217](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=217))
+- Even the me you’ve taken yourself to be, the self-image, the personality, is just a collection of characteristics and can’t be the one who experiences. ([Location 218](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=218))
+    - Tags: [[pink]] 
+- short-circuit your conceptual mind ([Location 223](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=223))
+    - Tags: [[orange]] 
+- seeking, ([Location 237](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=237))
+    - Tags: [[pink]] 
+- awakening, ([Location 237](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=237))
+    - Tags: [[blue]] 
+- deepening and clarifying, ([Location 237](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=237))
+- embodying, ([Location 237](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=237))
+    - Tags: [[orange]] 
+- living the awakened life. ([Location 237](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=237))
+    - Tags: [[pink]] 
+- Ultimately, you are the path—the path begins and ends with you. ([Location 240](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=240))
+    - Tags: [[orange]] 
+- Maps are ([Location 240](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=240))
+- just intended to quiet the mind so it can relax and allow the process to unfold. ([Location 240](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=240))
+- Ultimately, nothing I say in this book is true in any lasting way—it’s just an expedient means, a pointer, to turn your attention inward to the source of all teachings. ([Location 285](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=285))
+- Because truth is essentially nondual and includes everything without exception, anything I assert about it is both true and false—and neither true nor false. ([Location 286](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=286))
+    - Tags: [[blue]] 
+- paradox is the only way to approach truth with the respect it deserves. ([Location 291](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=291))
+    - Tags: [[pink]] 
+- “Zazen [Zen meditation],” she said softly, “is the way to bring you to your long-lost home.” ([Location 313](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=313))
+    - Tags: [[orange]] 
+- the “I am” prior to all characteristics. ([Location 323](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=323))
+    - Tags: [[pink]] 
+- Yet somehow my true home, apparently as near as breath itself, had remained completely invisible to me, even though my teachers kept pointing toward it ([Location 324](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=324))
+    - Tags: [[orange]] 
+- there’s no place to go but here, ([Location 342](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=342))
+    - Tags: [[pink]] 
+- “gateless gate.” ([Location 348](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=348))
+    - Tags: [[blue]] 
+- “Mu” ([Location 365](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=365))
+    - Tags: [[pink]] 
+- “That which you are seeking,” wrote an anonymous sage, “is always seeking you.” ([Location 382](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=382))
+    - Tags: [[orange]] 
+- Ultimately, your every desire—the desire for material things, relationships, career success, sexual gratification—is really the desire for the peace you experience for brief moments when you attain the object of your desire. ([Location 383](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=383))
+    - Tags: [[pink]] 
+- Until you know who you really are, know the freedom from desire that’s the true aim of every desire, you can never recognize the peace that can never be disturbed or lost. ([Location 385](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=385))
+    - Tags: [[blue]] 
+- But if you’re like Rumi, you need to exhaust yourself with the knocking. ([Location 391](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=391))
+    - Tags: [[blue]] 
+- the prison that you imagine constrains you doesn’t really exist. ([Location 396](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=396))
+- “The only obstacle to complete realization is the thought ‘I have not realized,’” ([Location 401](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=401))
+    - Tags: [[orange]] 
+- You’re accustomed to focusing on external objects but rarely turn around to look at the one who looks, the source of all seeing. ([Location 408](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=408))
+    - Tags: [[blue]] 
+- the two truths. ([Location 419](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=419))
+    - Tags: [[orange]] 
+- form is emptiness, and emptiness is form, ([Location 431](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=431))
+    - Tags: [[orange]] 
+- “form is emptiness, emptiness is form.” ([Location 434](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=434))
+- you may miss the deeper experience of knowing that the two of you are already essentially one and that love is who you both are fundamentally, beneath the personal issues. ([Location 437](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=437))
+    - Tags: [[orange]] 
+- Only in the presence of both the absolute and relative truths, the spiritual and mundane dimensions, can the deepest intimacy flourish. ([Location 441](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=441))
+    - Tags: [[pink]] 
+- “Holding a begging bowl, a man with amnesia knocks on his own door,” ([Location 444](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=444))
+    - Tags: [[orange]] 
+- There was a time when meadow, grove, and stream, The earth, and every common sight, To me did seem Apparell’d in celestial light, The glory and the freshness of a dream. ([Location 449](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=449))
+- we forget who we really are and succumb to the way others see us until one day, perhaps, we have intimations of our immortality, our timeless spiritual nature, become seekers, and embark on the return journey home. ([Location 460](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=460))
+- “Why” questions are the mind’s attempt to make sense of the incomprehensible. ([Location 465](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=465))
+- because that’s the way it is. ([Location 466](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=466))
+    - Tags: [[orange]] 
+- eventually they will succumb to the intense cultural pressure to identify as a separate self. It seems to be inevitable, and so therefore is the process of straying and returning. ([Location 473](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=473))
+    - Tags: [[orange]] 
+- If you want to influence the next generation, the most important thing you can do is to awaken yourself. Embody the possibility of freedom in your own life, and you will have a profound effect on the people around you. ([Location 474](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=474))
+    - Tags: [[blue]] 
+- Again, suffering is not required, but it does have the uncanny ability to pull the rug out from beneath your comfortable little world and open you to a deeper source of meaning and fulfillment. It’s a powerful motivator. You don’t have to go looking for it, of course—it will find you eventually. ([Location 484](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=484))
+    - Tags: [[orange]] 
+- Even concepts like “book” and “table” limit your ability to see beyond the form to the underlying essence of what is. ([Location 491](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=491))
+    - Tags: [[pink]] 
+- “On present evidence, without consulting the mind, is there anything missing or lacking in my experience right now?” ([Location 497](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=497))
+- Each moment offers you an opportunity to recognize the silent, awake presence that’s always already right here and now, underlying your experience and illuminating all things. ([Location 507](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=507))
+    - Tags: [[pink]] 
+- the gateless gate: ([Location 511](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=511))
+    - Tags: [[pink]] 
+- Big Mind, ([Location 511](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=511))
+    - Tags: [[blue]] 
+- In the light of the teaching that you already are what you seek, any effort to go somewhere else or be something you’re not seems misguided and heavy-handed. ([Location 517](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=517))
+- Instead, the search tends to become subtler and more paradoxical, less like an arduous heroic quest and more like a silent attunement, an inner listening. ([Location 519](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=519))
+    - Tags: [[orange]] 
+- But such inner attunement can be difficult to maintain without the support of a teacher. As a result, many seekers, even those who are acquainted with the open secret, are enticed to seek outside themselves in clear-cut practices and paths for a more forceful way through. ([Location 520](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=520))
+    - Tags: [[blue]] 
+- “The truth cannot be found through seeking, but only seekers find it,” ([Location 523](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=523))
+    - Tags: [[pink]] 
+- you sense the silent observer that’s always been watching the thoughts come and go. ([Location 528](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=528))
+    - Tags: [[pink]] 
+- turn your attention toward the experiencer behind the experience, you may be able to awaken directly without prolonged seeking. ([Location 534](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=534))
+    - Tags: [[orange]] 
+- Cultivate mindfulness and loving-kindness with an Asian-trained teacher of Vipassana (insight) meditation, and eventually you may develop the qualities of heart and mind necessary to attain the “other shore” of enlightenment. ([Location 539](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=539))
+- Some Buddhists I know, for example, have spent decades wearing robes, following their breaths, and giving Dharma talks without ever having a convincing glimpse of their essential nature, their original face. The danger of investing your energy in seeking is that you’ll end up a perpetual seeker, without ever finding what you were looking for in the first place. ([Location 566](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=566))
+    - Tags: [[orange]] 
+- reinforces the belief that your true nature is deeply concealed and requires protracted effort to uncover. ([Location 569](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=569))
+- “The seeker is the sought; the looker is what he or she is looking for.” My mind couldn’t wrap itself around these words, but one day soon after, in a moment out of time, the seeker and the sought collapsed into one another, and I knew who I was once and for all. The one who had been looking so hard for true nature was the very true nature I had been looking for. ([Location 573](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=573))
+    - Tags: [[pink]] 
+- silent presence ([Location 576](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=576))
+    - Tags: [[orange]] 
+- On the contrary, it apparently occurred only after he gave up his ascetic practice, accepted some nourishing food, and sat down on a comfortable bed of grass in the shade of a tree, vowing not to get up until he reached the end of his search. ([Location 585](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=585))
+- The problem lies not with the technique, but with the attitude or orientation with which it’s practiced. ([Location 596](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=596))
+- If you view your practice as a gradual means to some distant and lofty goal, you may lose your initial passion, enthusiasm, and curiosity and miss the open secret of your true nature in your dogged determination to accumulate spiritual experiences and become a more spiritual person. ([Location 597](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=597))
+    - Tags: [[pink]] 
+- “Don’t make meditation a habit,” ([Location 599](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=599))
+- lest your practice become lifeless and dull. ([Location 599](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=599))
+    - Tags: [[orange]] 
+- Instead, enter your meditation as ([Location 599](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=599))
+- you would a laboratory, with the express intention of finding the meditator. ([Location 600](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=600))
+    - Tags: [[blue]] 
+- no amount of effort can bring you closer to who you are—after all, it’s your nearest, as intimate as breath—and the belief that you need to effort just takes you further away because it causes you to stray from what’s already so close at hand. “Don’t you see,” asked the Indian teacher Nisargadatta Maharaj, “that your very search for happiness is what makes you feel miserable?” ([Location 618](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=618))
+    - Tags: [[pink]] 
+- Perhaps most insidious, years of dedication to gradual cultivation just strengthen the grip of the seeker—the separate someone who negotiates the path, attends the retreats, accumulates the insights, has the experiences, racks up the spiritual points. ([Location 625](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=625))
+- Just turn your attention back on itself and recognize your true faceless face once and for all. ([Location 641](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=641))
+    - Tags: [[pink]] 
+- “pointing-out instructions” ([Location 647](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=647))
+    - Tags: [[pink]] 
+- “The seeker is the sought,” ([Location 650](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=650))
+    - Tags: [[orange]] 
+- But generally it helps to be oriented, curious, dedicated, and even passionate about discovering who you really are. In other words, it helps to want truth more than anything else—and to know how and where to look. ([Location 661](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=661))
+    - Tags: [[blue]] 
+- “To live in the known is bondage,” adds Nisargadatta. “To live in the unknown is liberation.” ([Location 670](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=670))
+    - Tags: [[orange]] 
+- hearing, ([Location 671](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=671))
+- meditating, ([Location 671](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=671))
+    - Tags: [[orange]] 
+- pondering. ([Location 671](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=671))
+    - Tags: [[blue]] 
+- Remember that the separate self can never discover the truth—in the end, the truth just awakens to itself through you. ([Location 678](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=678))
+    - Tags: [[pink]] 
+- Call off the search and just be. ([Location 716](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=716))
+    - Tags: [[orange]] 
+- “What am I looking for? ([Location 722](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=722))
+    - Tags: [[pink]] 
+- What’s the goal of my search? ([Location 723](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=723))
+    - Tags: [[blue]] 
+- How would I know if I found it? ([Location 723](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=723))
+- How would my life be different? ([Location 723](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=723))
+    - Tags: [[orange]] 
+- What do I imagine enlightened people have that I don’t?” ([Location 723](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=723))
+    - Tags: [[pink]] 
+- what you’re looking for is what you already are, ([Location 726](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=726))
+    - Tags: [[orange]] 
+- Right now, let go of your search and abide as awareness or presence itself. ([Location 727](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=727))
+    - Tags: [[blue]] 
+- Just trust that you merely need to let go and be. ([Location 729](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=729))
+- Gaze out at the world through the eyes of unconditional, nonjudgmental presence. ([Location 730](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=730))
+    - Tags: [[pink]] 
+- Continue to remain as you are as you get up and go about your day. ([Location 732](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=732))
+    - Tags: [[orange]] 
+- I began to realize that all my conceptual knowledge didn’t have the power to deliver the one thing I wanted most: ([Location 741](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=741))
+    - Tags: [[pink]] 
+- happiness, ([Location 741](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=741))
+    - Tags: [[blue]] 
+- peace of mind, ([Location 741](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=741))
+- ease of being. ([Location 741](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=741))
+    - Tags: [[orange]] 
+- NOT KNOWING IS THE MOST INTIMATE ([Location 746](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=746))
+    - Tags: [[orange]] 
+- the sharp sword of discernment cuts through conditioned beliefs to reveal the living truth beneath. ([Location 747](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=747))
+    - Tags: [[pink]] 
+- Instead of studying other people’s ideas about life, I became intimate with life itself—cleaning houses, preparing food, working in the garden, following my breath, teaching others how to meditate. ([Location 749](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=749))
+- Concepts of any kind only serve to separate you from the rich, intimate, juicy experience of this moment right now. ([Location 756](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=756))
+- life is what’s happening while you’re busy imposing your interpretation on it. ([Location 761](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=761))
+    - Tags: [[blue]] 
+- But if you set aside your ideas, you have the potential in each moment to experience life directly, intimately, without any division between knower and known. ([Location 761](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=761))
+- Sensing your body from the inside, without the interference of the mind, gives you an opportunity to step through a doorway into a direct apperception of being itself—pure, radiant, undivided—where subject and object are one. ([Location 762](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=762))
+    - Tags: [[orange]] 
+- “If the doors of perception were cleansed, everything would appear to man as it is, infinite.” ([Location 764](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=764))
+    - Tags: [[blue]] 
+- a mind clouded by concepts], ([Location 766](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=766))
+    - Tags: [[pink]] 
+- Pretending that you know deprives you of the intimacy of your true nature, ([Location 772](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=772))
+    - Tags: [[pink]] 
+- the truth of your being can never be known by the mind—it’s elusive and ungraspable—but as soon as you completely let go of your struggle to know, the truth reveals itself to you. ([Location 773](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=773))
+- “Not a single statement in this book is true.” ([Location 791](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=791))
+    - Tags: [[orange]] 
+- the mind takes possession of even the highest spiritual teachings and pretends to know the truth of which they speak, ([Location 801](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=801))
+    - Tags: [[pink]] 
+- whereas the mind is merely seeing reality through the cloudy lens of spiritual concepts. ([Location 802](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=802))
+- Such concepts interfere with your ability to awaken because they give you the mistaken impression that you already know. ([Location 810](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=810))
+    - Tags: [[blue]] 
+- “Whatever you understand is not the truth and is to be thrown overboard.” ([Location 818](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=818))
+    - Tags: [[pink]] 
+- you have an opportunity to fall back into the vast, spacious, luminous, thought-free presence that is always already who you really are—the living reality that no thought can possibly touch. ([Location 820](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=820))
+    - Tags: [[pink]] 
+- “Realization is not the acquisition of anything new or a new faculty,” says Ramana Maharshi. “It is only the removal of all camouflage.” ([Location 821](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=821))
+    - Tags: [[orange]] 
+- God is a vast emptiness beyond all conceptual knowing. ([Location 825](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=825))
+    - Tags: [[pink]] 
+- “It’s easier for a camel to pass through the eye of a needle than for a rich man to enter the kingdom of heaven.” ([Location 828](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=828))
+    - Tags: [[blue]] 
+- “You must become as little children to enter the kingdom of heaven,” ([Location 831](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=831))
+    - Tags: [[orange]] 
+- In the process, however, you trade the possibility of experiencing reality directly for a familiar, reassuring, unquestioned ([Location 837](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=837))
+    - Tags: [[pink]] 
+- (and unquestionable) filter that you project onto the real. ([Location 838](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=838))
+    - Tags: [[pink]] 
+- The suffering begins only when you become attached to them and mistake them for truth.) ([Location 841](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=841))
+    - Tags: [[orange]] 
+- More than their judgment of others, though, what struck me about these lovely, heartful men and women was how judgmental they were of themselves. ([Location 849](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=849))
+    - Tags: [[orange]] 
+- they believed that they were inherently flawed and unworthy and that their natural insights and impulses were misguided. ([Location 851](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=851))
+    - Tags: [[pink]] 
+- many approaches to therapy attempt to bolster people’s self-esteem by substituting positive beliefs for negative ones. ([Location 857](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=857))
+    - Tags: [[blue]] 
+- no amount of bolstering will ever completely reassure the ego, the apparently separate self, that it’s adequate because it knows at some level that it’s just a construct, a collection of thoughts, memories, and feelings, without any substantial existence. ([Location 858](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=858))
+    - Tags: [[pink]] 
+- the ego is just a “shadow cast on the ground” by being. ([Location 860](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=860))
+- If you’re like most folks, you may spend the rest of your life attempting to win love and approval or ensure your survival by pretending to be someone you’re not, while deep down feeling inadequate because you never succeed at living up to the image you project for yourself. ([Location 865](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=865))
+- Many people, for example, turn to addictive behaviors in a futile attempt to fill the hole or vacancy they sense inside themselves with alcohol, drugs, antidepressants, food, sex, material possessions, and, yes, spiritual beliefs. ([Location 868](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=868))
+    - Tags: [[pink]] 
+- The inner emptiness can seem so terrifying and overwhelming that they’ll do just about anything, including indulging in self-destructive behaviors, to avoid facing it. ([Location 870](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=870))
+    - Tags: [[orange]] 
+- Over time, you fashion these beliefs into a comforting inner world with a more exalted, more spiritual you at the center, but this world is just a fantasy, another construct, more sweets for the ego, and it won’t bring you any closer to genuine spiritual awakening. ([Location 873](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=873))
+    - Tags: [[orange]] 
+- The process of unknowing is the path to wisdom. ([Location 878](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=878))
+- In the light of present awareness, ([Location 880](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=880))
+    - Tags: [[pink]] 
+- you come to see that the separate self is just a construct and the feelings are just that—merely feelings—and have nothing to do with who you really are, which is the limitless space in which thoughts and feelings arise. ([Location 880](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=880))
+    - Tags: [[orange]] 
+- “Give up the tendency to define yourself,” ([Location 882](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=882))
+    - Tags: [[pink]] 
+- “Whatever concept you have about yourself cannot be true.” ([Location 882](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=882))
+    - Tags: [[blue]] 
+- the emphasis on conceptual knowing just reinforces the seeming solidity of the knower, the separate someone who thinks it knows. ([Location 892](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=892))
+    - Tags: [[blue]] 
+- “If you want to make God laugh,” the old saying goes, “tell her your plans.” ([Location 918](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=918))
+    - Tags: [[pink]] 
+- The point of spiritual awakening is not to maximize your assets and minimize your losses, but to be free of attachment to gain or loss and to be peaceful and joyful in the midst of whatever life brings. ([Location 925](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=925))
+    - Tags: [[pink]] 
+- conceptual knowledge won’t reveal to you who you are, but it may help orient you in your search. ([Location 934](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=934))
+- Ultimately, however, this map can take you only so far—to the threshold of realization but no further, to the precipice over which you must fall in order to awaken—and then you must be “taken” by the truth itself in a moment out of time. When you awaken, your conceptual understanding dissolves in “being understanding,” the living, nonconceptual knowing of the heart. ([Location 936](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=936))
+    - Tags: [[orange]] 
+- When you sit, be alert and present for what is, including the mind-states that come and go. ([Location 947](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=947))
+    - Tags: [[pink]] 
+- your sitting may also seem to pass quickly when you’re one with what you’re experiencing and there’s no separate little me to keep track. ([Location 948](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=948))
+- If you feel so inclined, you might try to unearth the ideas and stories beneath your feelings. ([Location 954](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=954))
+    - Tags: [[orange]] 
+- feelings come and go spontaneously like thoughts and needn’t be a problem if you don’t identify with them. ([Location 955](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=955))
+    - Tags: [[blue]] 
+- The more you set aside your beliefs and encounter life directly, without argument or struggle, the more you discover a natural responsiveness that’s inherently gentle, loving, and ethical and doesn’t require a spiritual worldview to maintain. ([Location 962](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=962))
+    - Tags: [[pink]] 
+- According to the traditional Buddhist view, you need to practice mindful awareness of each moment with great dedication and diligence, gradually developing the penetrating insight necessary to see through the illusion of a separate self. In the process, you’re expected to cultivate positive qualities like patience and compassion and minimize or eliminate undesirable emotions like anger and fear. Gradually, with enough mindfulness meditation and the cultivation of enough virtue, you transform yourself into a buddha. ([Location 994](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=994))
+- from the perspective of the direct approach often (though not always) encountered in Zen, you’re already a buddha just as you are, and meditation is an opportunity to express your limitless, radiant, innate Buddha nature—what ([Location 998](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=998))
+    - Tags: [[orange]] 
+- But attending to the particulars of experience in this way runs the risk of becoming effortful and laborious and, as its name implies, strengthening the illusion of the separate self that’s looking down on reality from a distance, trying to be mindful. ([Location 1014](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1014))
+    - Tags: [[pink]] 
+- being mindful (“mind-full”) can just energize the localization of energy and attention in the witnessing mind and accentuate the gap between subject and object, self and other, that awakening is intended to close. ([Location 1016](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1016))
+- The mind may become proficient at paying attention and fancy itself an accomplished meditator. ([Location 1017](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1017))
+    - Tags: [[blue]] 
+- In reality, however, true meditation, which has nothing to do with the mind, is always occurring and merely needs to be allowed, not created. ([Location 1018](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1018))
+    - Tags: [[orange]] 
+- In the process of becoming an expert meditator, my mind had gradually become more rigid and narrow, and I’d lost the innocence, openness, and aliveness of beginner’s mind, which had delighted and nourished me in my early days of practice. ([Location 1022](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1022))
+    - Tags: [[pink]] 
+- being embraced by a silence so deep I could feel it in my bones. ([Location 1030](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1030))
+    - Tags: [[pink]] 
+- I didn’t need to meditate; meditation was always happening, I just needed to let go and join it. ([Location 1031](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1031))
+- my mind had given up trying, if only for an instant, and I had happened upon the doorway to true meditation. ([Location 1032](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1032))
+    - Tags: [[orange]] 
+- When I finally awakened to my essential nature, I looked back and realized that the innocent, open awareness with which I had begun my practice was in fact identical with the expansive, all-inclusive awareness that had subsequently awakened to itself through me. ([Location 1033](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1033))
+    - Tags: [[orange]] 
+- the practice of presence. ([Location 1047](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1047))
+    - Tags: [[orange]] 
+- Instead of focusing the light of your awareness like a laser on a ([Location 1047](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1047))
+- particular object or activity, you open it like the sky, welcoming the experiences that arise just as the sky welcomes the clouds, neither ignoring nor indulging them. Instead of concentrating, you relax and let go, allowing everything to be just as it is, without any attempt to control on your part. You’re alert but at ease, totally present but not fixated in any way. ([Location 1048](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1048))
+- Any effort is an indication that your mind has intervened. ([Location 1051](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1051))
+- likened presence to the function of listening. ([Location 1054](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1054))
+- The realization that the separate someone doesn’t exist marks the ultimate fruition of the practice of presence. ([Location 1060](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1060))
+    - Tags: [[orange]] 
+- In any case, don’t meditate because you think you should, and pay attention to the beliefs and stories the mind produces to explain the path you’ve chosen. ([Location 1113](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1113))
+    - Tags: [[pink]] 
+- your attachment to these stories is the only thing separating you from true meditation, the profound silence beneath all the words. ([Location 1116](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1116))
+    - Tags: [[blue]] 
+- Ultimately, if your sitting is free of artifice and effort, the one dissolves into the other, the gap between subject and object disappears, and only presence remains. ([Location 1122](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1122))
+    - Tags: [[orange]] 
+- “In true meditation, the emphasis is on being awareness—not on being aware of objects, but on resting as primordial awareness itself.” (Adyashanti) ([Location 1144](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1144))
+    - Tags: [[orange]] 
+- “If the doors of perception were cleansed, everything would appear to man as it is, infinite.” ([Location 1151](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1151))
+    - Tags: [[blue]] 
+- As awareness clarifies and naturally settles on itself, noticeable energetic and physical experiences may occur. The locus of your awareness (the place your awareness tends to come to rest) may shift from your forehead (home of the neocortex) to the back of your head, and then to the lower part of your body, usually either your heart or tantien (the center of gravity two inches below your navel). You may find that you increasingly act from your heart and move from your gut, rather than from your thinking mind. You may also experience rushes of energy up your spine (kundalini) or more subtle, extremely pleasurable vibrations throughout your body (bliss). As you sit quietly, you may notice thoughts and feelings passing through and releasing without leaving any residue of heaviness or discomfort. Above all, you may gradually discover that your inner experience no longer has the same hold over you, no longer causes the same stress and contraction, and you feel lighter, more spacious, more peaceful, more loving, yet at the same time more disengaged. ([Location 1152](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1152))
+- Try as hard as you can, you’ll never get the mind to settle down. Indeed, all your ([Location 1172](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1172))
+- efforts to calm it just make it more agitated. Rather, let the mind do what it does, and rest as the primordial awareness that isn’t disturbed by the perturbations of the mind. The mind’s nature is to move, but you are not your mind; you’re limitless, silent, ungraspable presence. Paradoxically, of course, when you leave the mind alone, it tends to calm down by itself. ([Location 1173](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1173))
+- Instead of struggling with your mind, become aware of the beliefs and stories it churns out and then inquire into their validity, ([Location 1178](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1178))
+- There will be moments in daily life when your mind spontaneously stops and an empty space or gap opens up. In this space, you have an intimation of a stillness and silence beyond the mind. Instead of immediately rushing to fill the gap in your effort to stay busy, let the silence and stillness solicit you. Enjoy these empty, unfurnished moments and ([Location 1182](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1182))
+    - Tags: [[blue]] 
+- gently allow them to expand. This is how you’re invited to meditate. ([Location 1185](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1185))
+    - Tags: [[orange]] 
+- Wake-Up Call The Practice of Listening Set aside ten to fifteen minutes for this exploration. Begin by sitting comfortably with your eyes closed. If possible, sit in or near a natural place like a garden or park, or at least a space where you hear only background sounds like the hum of a refrigerator, the rumble of traffic, or the sounds of birds. Make sure you’re not going to be disturbed by voices, music, radios, or TVs. Now open your awareness to the sounds around you. Don’t focus on any particular sound or jump from sound to sound, just open your awareness like the lens of a camera and listen to the play of sound with your whole body, not just your ears. Allow listening to happen. The sounds come and go, shift and change, in this expanded, global awareness. Everything is happening in you. ([Location 1189](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1189))
+- Keep relaxing, letting go, and allowing listening to happen. If your awareness habitually focuses or jumps from sound to sound, just let it do what it does as you continue to relax in global awareness. You may find that you naturally include other sensations as well: the contact of your body against the chair, the air against your skin, the rumbling of your stomach, the beating of your heart. Just keep allowing the play of what is, without efforting to pay attention in any way. Eventually, the sense of a separate experiencer may drop away, and only experiencing remains. No separation between subject and object—just this! As you continue allowing experiencing to happen, you may discover that it arises in a limitless stillness and silence that can’t be experienced in any way. This is your very own Self, unconditional presence, consciousness without a second, the source of all experience. You can never know it with the mind; you can only be it knowingly. Allow everything to be as it is as you relax into the silent presence that you’ve always been. ([Location 1196](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1196))
+- may whet your appetite for deeper and clearer revelation. ([Location 1214](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1214))
+    - Tags: [[blue]] 
+- continued practice of presence, ([Location 1214](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1214))
+    - Tags: [[pink]] 
+- which at a certain point becomes natural and effortless, ([Location 1214](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1214))
+- Often, however, the process of awakening involves some form of deliberate self-inquiry, some intentional attempt to find out who you are. ([Location 1217](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1217))
+    - Tags: [[orange]] 
+- self-inquiry. ([Location 1229](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1229))
+    - Tags: [[orange]] 
+- investigate the separate self. ([Location 1231](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1231))
+    - Tags: [[orange]] 
+- living reality. ([Location 1235](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1235))
+    - Tags: [[blue]] 
+- spontaneous, ([Location 1238](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1238))
+    - Tags: [[pink]] 
+- formal, ([Location 1238](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1238))
+    - Tags: [[blue]] 
+- turning words. ([Location 1238](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1238))
+- When you fully realize that what you’re seeking doesn’t exist in manifestation and can’t be found “out there” in experiences or states of any kind, there’s a relaxation of being and a cessation of seeking. ([Location 1241](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1241))
+- Once this is finally acknowledged by the mind, there is a giving up, and attention naturally turns back on itself in a kind of spontaneous self-inquiry. ([Location 1243](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1243))
+    - Tags: [[blue]] 
+- “Who am I?” ([Location 1259](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1259))
+    - Tags: [[pink]] 
+- Anything you can perceive, no matter how intimate—including the physical body and the cluster of images, memories, thoughts, feelings, and beliefs that constitute the mind—is merely an object of perception; it can’t possibly be the perceiver, the “I” in “I notice, I think, I feel.” ([Location 1265](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1265))
+- “Who is thinking this thought? Who is feeling this feeling? Who is seeing through these eyes right now?” The point of these questions is not to engage the mind, because the mind inevitably gnaws on questions endlessly like a dog on a bone, with little nutritional benefit. Instead, drop the question into the stillness of your being like a pebble dropped into a still forest pool. Let it send ripples through your meditation, but don’t attempt to figure it out. When the pool is relatively tranquil again, drop another pebble and see what happens. ([Location 1268](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1268))
+    - Tags: [[orange]] 
+- “If the mind is distracted, ask the question promptly, ‘To whom do these distracting thoughts arise?’” ([Location 1276](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1276))
+    - Tags: [[pink]] 
+- welcoming presence; ([Location 1279](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1279))
+    - Tags: [[blue]] 
+- “If it is ever to become a living question, it must be transposed on every level of our being. The openness in the living question is the doorway to the living answer.” ([Location 1281](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1281))
+- “To hold it with effort is inquiry. When spontaneous and natural, it’s realization.” ([Location 1287](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1287))
+    - Tags: [[orange]] 
+- relaxation generally seems more conducive to realization than tension and struggle. ([Location 1308](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1308))
+- “unfindability” ([Location 1321](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1321))
+    - Tags: [[orange]] 
+- “I have looked for my mind everywhere, but I’ve been unable to find it.” “Ah,” said Bodhidharma. “Then I’ve succeeded in pacifying your mind for you.” ([Location 1326](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1326))
+    - Tags: [[pink]] 
+- sit quietly in meditation and then attempt to locate the mind and determine its density, shape, color, and form. But no matter how earnestly you try, you won’t be able to answer these questions. ([Location 1334](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1334))
+    - Tags: [[orange]] 
+- “Not finding anything, you may initially think that you have somehow failed,” explains Tibetan master Thrangu Rinpoche. “Either you misunderstood how to look, or you just haven’t looked enough. But in fact, this is not true. The reason you find nothing . . . when you look for your mind, is that the nature of your mind is utter insubstantiality, emptiness. We need to experience this directly in meditation.” ([Location 1339](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1339))
+- “The seeker is the sought; the looker is what he or she is looking for,” ([Location 1358](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1358))
+    - Tags: [[blue]] 
+- The key is to sit quietly, set aside your conceptual filters and interpretations, and let the teachings drop into the still pool of your being like pebbles. ([Location 1364](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1364))
+- Choose sayings that seem enigmatic or paradoxical but also somehow inviting to you, and don’t make any attempt to understand them at a conceptual level, though conceptual understanding may gradually present itself. Just live with the ripples, the silence and forefeeling of truth that these sayings evoke. Eventually they may awaken you to the living source from which they arose. ([Location 1365](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1365))
+    - Tags: [[blue]] 
+- You have not understood until you have solved the riddle of the one who thinks he has understood. —Nisargadatta Maharaj ([Location 1374](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1374))
+    - Tags: [[orange]] 
+- inquiry only bears fruit in a heart that is open and available for truth. ([Location 1396](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1396))
+    - Tags: [[pink]] 
+- Being present for what is just the way it is (as described in Chapter 4), which naturally flowers into unconditional presence or listening, calms the pool of mind without effort or manipulation and allows the pebbles of inquiry to spread their ripples throughout your welcoming awareness. ([Location 1396](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1396))
+    - Tags: [[orange]] 
+- Instead of “practicing” presence, you might prefer following Adyashanti’s instruction to “rest as primordial awareness itself,” if these words resonate for you. ([Location 1398](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1398))
+- Wake-Up Call Who Is Experiencing This Moment Right Now? Set aside twenty to thirty minutes for this exploration. Begin by sitting quietly with your eyes closed for five minutes or so. Rest your awareness on the experience of sitting, and allow your body to relax. Now open your eyes and allow your awareness to settle on a particular object: a table, a chair, a bookcase, a desk. As you gaze at this object, ask yourself, “Who is seeing?” Clearly, the object is seen, but who or what is seeing? If you reply, “I am, I’m the one who’s seeing,” ask yourself further, “Who is this ‘I,’ and where is it located?” Next, open your awareness to the sounds around you. Clearly, sounds are being heard, but who or what is hearing? Again, you may say, “I am, of course,” but who is this “I,” and where is it located? Set aside any conceptual answers, such as “I am consciousness” or “I am a child of God or a being of light,” because they won’t provide the answer you seek. Relax, breathe softly, and let your inquiry be direct and experiential. “Who am I? Who am I really?” ([Location 1425](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1425))
+    - Tags: [[orange]] 
+- Likewise, if you point to your heart, consider that your heart and your feelings also can be experienced. But who or what is experiencing? Anything you can locate or name is an object of awareness. The question is “Who is aware? Who is the ultimate subject of all objects?” Keep inquiring, in an ever-deepening regression, trying to find your way back to the “I,” the source of all experiencing. If your inquiry becomes too effortful or mental, just relax and sit quietly once again. After a few minutes, resume your questioning, not as an intellectual exercise, but as a whole-body search for the ultimate experiencer. You say, “I feel, I think, I see, I taste, I know,” but who is this “I”? Who is experiencing this moment right now? ([Location 1436](https://readwise.io/to_kindle?action=open&asin=B003ZK5EOO&location=1436))
+    - Tags: [[orange]] 

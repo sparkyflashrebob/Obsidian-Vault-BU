@@ -1,0 +1,2 @@
+
+In an effort to be tolerant, Western Buddhist teachers have admitted dogmatic materialists into their ranks, but these materialists have proven very intolerant of the supernatural teachings attributed to the Buddha.

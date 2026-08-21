@@ -1,0 +1,15 @@
+Sonder is a profound awareness that everyone around you, including strangers passing in the street, has a life just as complex and vivid as your own. This means they have their own ambitions, friends, routines, worries, and inherited craziness—an epic story that continues invisibly around you. It's essentially the realization that each random passerby is living a life as intricate and detailed as your own.
+
+[[Subjective idealism]]
+
+Subjective idealism, also known as immaterialism, is a philosophical theory that asserts that reality as we know it exists only in the mind and is dependent on our conscious experiences. In essence, it claims that there is no external, objective reality independent of our perceptions. The world and everything in it are fundamentally mental constructs.
+A key figure associated with subjective idealism is the philosopher George Berkeley, who famously argued that "to be is to be perceived" (esse est percipi). According to this view, things only exist when they are being perceived by a conscious mind.
+
+[[Quantum anti-realism]] , in the context of quantum mechanics, is a philosophical stance that challenges the idea that quantum entities (like electrons and photons) exist independently of our observation or measurement of them. It suggests that our understanding of the quantum world is fundamentally shaped by the way we interact with it.
+Here are some key aspects of quantum anti-realism:
+ * Observation Dependence: Anti-realists often argue that the properties of quantum systems (e.g., position, momentum) are not well-defined until they are measured. The act of measurement is seen as playing a crucial role in bringing these properties into existence, rather than simply revealing pre-existing values.
+ * Rejection of a Definitive Reality: Unlike quantum realists who believe in an underlying reality that quantum theory describes, anti-realists may contend that there isn't a single, objective "quantum reality" out there waiting to be discovered. Instead, our knowledge is limited to the outcomes of our experiments and the theoretical frameworks we use to interpret them.
+ * Focus on Utility: Some forms of anti-realism emphasize the practical utility of quantum mechanics as a tool for making predictions, without necessarily claiming it provides a true picture of an independent reality. The focus shifts from what quantum entities are to what quantum theory allows us to do.
+ * Interpretations of Quantum Mechanics: Several interpretations of quantum mechanics align with anti-realist views, such as the Copenhagen interpretation (in some of its formulations) and QBism (Quantum Bayesianism). These interpretations often highlight the role of the observer and the limitations of our ability to directly access the intrinsic properties of quantum systems.
+It's important to note that quantum anti-realism encompasses a range of viewpoints, and there isn't one single agreed-upon definition. However, the central theme revolves around skepticism towards the existence of a mind-independent quantum reality.
+

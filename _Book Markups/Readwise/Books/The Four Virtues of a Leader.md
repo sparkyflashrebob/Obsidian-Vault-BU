@@ -1,0 +1,81 @@
+# The Four Virtues of a Leader
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/412wzToPOPL._SL200_.jpg)
+
+## Metadata
+- Author: [[Eric Kaufmann]]
+- Full Title: The Four Virtues of a Leader
+- Category: #books
+
+## Highlights
+- A hero is someone who seeks a great prize (something difficult and rewarding), leaves the comfort zone, makes sacrifices, and, ultimately, gives back to the community. ([Location 109](https://readwise.io/to_kindle?action=open&asin=B01KUGQYLW&location=109))
+- To lead is to drive toward outcomes that would not happen if the group were left to its own; leaders create outcomes that don’t happen organically. ([Location 112](https://readwise.io/to_kindle?action=open&asin=B01KUGQYLW&location=112))
+    - Tags: [[blue]] 
+- three broad actions: ([Location 116](https://readwise.io/to_kindle?action=open&asin=B01KUGQYLW&location=116))
+- inspire ([Location 117](https://readwise.io/to_kindle?action=open&asin=B01KUGQYLW&location=117))
+    - Tags: [[blue]] 
+- institute ([Location 117](https://readwise.io/to_kindle?action=open&asin=B01KUGQYLW&location=117))
+    - Tags: [[pink]] 
+- articulate ([Location 118](https://readwise.io/to_kindle?action=open&asin=B01KUGQYLW&location=118))
+    - Tags: [[orange]] 
+- focus, ([Location 120](https://readwise.io/to_kindle?action=open&asin=B01KUGQYLW&location=120))
+- courage, ([Location 120](https://readwise.io/to_kindle?action=open&asin=B01KUGQYLW&location=120))
+    - Tags: [[blue]] 
+- grit, ([Location 120](https://readwise.io/to_kindle?action=open&asin=B01KUGQYLW&location=120))
+    - Tags: [[pink]] 
+- faith. ([Location 120](https://readwise.io/to_kindle?action=open&asin=B01KUGQYLW&location=120))
+    - Tags: [[orange]] 
+- leadership philosophy ([Location 123](https://readwise.io/to_kindle?action=open&asin=B01KUGQYLW&location=123))
+- psychology, ([Location 123](https://readwise.io/to_kindle?action=open&asin=B01KUGQYLW&location=123))
+    - Tags: [[blue]] 
+- the journey ([Location 124](https://readwise.io/to_kindle?action=open&asin=B01KUGQYLW&location=124))
+- (1) leaving the familiar in order to seek a valuable prize, ([Location 124](https://readwise.io/to_kindle?action=open&asin=B01KUGQYLW&location=124))
+    - Tags: [[blue]] 
+- (2) encountering challenges and risks that demand personal sacrifices, ([Location 125](https://readwise.io/to_kindle?action=open&asin=B01KUGQYLW&location=125))
+    - Tags: [[pink]] 
+- (3) sharing the hard-earned prize with fellow men and women. ([Location 125](https://readwise.io/to_kindle?action=open&asin=B01KUGQYLW&location=125))
+    - Tags: [[orange]] 
+- To turn back at any stage is to reject the need to grow, to mature, and to evolve. ([Location 131](https://readwise.io/to_kindle?action=open&asin=B01KUGQYLW&location=131))
+- “What does it take to evolve into a great leader?” The answer is twofold: actions (things great leaders do) and attitudes (ways great leaders are). ([Location 132](https://readwise.io/to_kindle?action=open&asin=B01KUGQYLW&location=132))
+- You committed yourself to their vision and purpose because you believed in them; ([Location 137](https://readwise.io/to_kindle?action=open&asin=B01KUGQYLW&location=137))
+- leadership as a hero’s journey, ([Location 140](https://readwise.io/to_kindle?action=open&asin=B01KUGQYLW&location=140))
+- results, ([Location 141](https://readwise.io/to_kindle?action=open&asin=B01KUGQYLW&location=141))
+    - Tags: [[blue]] 
+- wisdom, ([Location 141](https://readwise.io/to_kindle?action=open&asin=B01KUGQYLW&location=141))
+    - Tags: [[pink]] 
+- spirituality. ([Location 141](https://readwise.io/to_kindle?action=open&asin=B01KUGQYLW&location=141))
+    - Tags: [[orange]] 
+- leadership is a journey of discovery. ([Location 143](https://readwise.io/to_kindle?action=open&asin=B01KUGQYLW&location=143))
+- the spiritual level coaxes you to evolve into an authentic human being. ([Location 148](https://readwise.io/to_kindle?action=open&asin=B01KUGQYLW&location=148))
+- In this state, you spend less energy defending yourself; ([Location 148](https://readwise.io/to_kindle?action=open&asin=B01KUGQYLW&location=148))
+    - Tags: [[blue]] 
+- rather than habitually focusing on survival, ([Location 149](https://readwise.io/to_kindle?action=open&asin=B01KUGQYLW&location=149))
+    - Tags: [[pink]] 
+- you become increasingly available and connected, engaged in expression and immersed in serving others’ journeys. ([Location 149](https://readwise.io/to_kindle?action=open&asin=B01KUGQYLW&location=149))
+    - Tags: [[orange]] 
+- it’s a state of living in which anxiety, self-negation, and hiding behind protective strategies become less powerful than self-expression, curiosity, and genuine care for others. ([Location 152](https://readwise.io/to_kindle?action=open&asin=B01KUGQYLW&location=152))
+    - Tags: [[orange]] 
+- Your power to intend, to deliberately reach for desired outcomes, pulls you away from the known and familiar on a journey into the unfamiliar and unknown ([Location 166](https://readwise.io/to_kindle?action=open&asin=B01KUGQYLW&location=166))
+    - Tags: [[orange]] 
+- I explain how thoughts are actually things (and that we become, in time, what we think about most). ([Location 168](https://readwise.io/to_kindle?action=open&asin=B01KUGQYLW&location=168))
+- “What am I avoiding?” ([Location 170](https://readwise.io/to_kindle?action=open&asin=B01KUGQYLW&location=170))
+    - Tags: [[pink]] 
+- I share why fear acts as the gatekeeper of power, and I also explain how to retake your power from the clutches of fear. ([Location 174](https://readwise.io/to_kindle?action=open&asin=B01KUGQYLW&location=174))
+    - Tags: [[blue]] 
+- Grit, more than any other factor, reliably predicts achievement. ([Location 176](https://readwise.io/to_kindle?action=open&asin=B01KUGQYLW&location=176))
+    - Tags: [[blue]] 
+- focus takes passion and perseverance to sustain the choices and behaviors that turn potential into reality. ([Location 177](https://readwise.io/to_kindle?action=open&asin=B01KUGQYLW&location=177))
+    - Tags: [[pink]] 
+- Grit is how you overcome the addiction to comfort, an addiction that will pull you and your team right back into old patterns. ([Location 178](https://readwise.io/to_kindle?action=open&asin=B01KUGQYLW&location=178))
+    - Tags: [[orange]] 
+- “What am I yielding?” ([Location 181](https://readwise.io/to_kindle?action=open&asin=B01KUGQYLW&location=181))
+- they give up time with family, personal time, recognition, and freedom from responsibility and scrutiny. ([Location 183](https://readwise.io/to_kindle?action=open&asin=B01KUGQYLW&location=183))
+    - Tags: [[pink]] 
+- giving up comfort. ([Location 184](https://readwise.io/to_kindle?action=open&asin=B01KUGQYLW&location=184))
+- I offer you this book so you can take responsibility for the shadow you cast ([Location 190](https://readwise.io/to_kindle?action=open&asin=B01KUGQYLW&location=190))
+- “The thought manifests as the word; the word manifests as the deed; the deed develops into habit; and habit hardens into character. So watch the thought and its ways with care, and let it spring from love born out of concern for all beings.” ([Location 194](https://readwise.io/to_kindle?action=open&asin=B01KUGQYLW&location=194))
+- You actively shape your environment. ([Location 197](https://readwise.io/to_kindle?action=open&asin=B01KUGQYLW&location=197))
+    - Tags: [[blue]] 
+- my life is my responsibility. ([Location 223](https://readwise.io/to_kindle?action=open&asin=B01KUGQYLW&location=223))
+- beliefs precede behavior, ([Location 223](https://readwise.io/to_kindle?action=open&asin=B01KUGQYLW&location=223))
+    - Tags: [[pink]] 

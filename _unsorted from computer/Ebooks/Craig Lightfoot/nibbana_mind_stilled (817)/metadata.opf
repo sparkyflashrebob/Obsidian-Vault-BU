@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">817</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e54ec386-3ba6-4ec5-8415-5a2098037376</dc:identifier>
+        <dc:title>nibbana_mind_stilled</dc:title>
+        <dc:creator opf:file-as="Lightfoot, Craig" opf:role="aut">Craig Lightfoot</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.9.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-12-30T01:27:59+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Craig Lightfoot&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-01-29T04:32:46.224000+00:00" name="calibre:timestamp"/>
+        <meta content="nibbana_mind_stilled" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

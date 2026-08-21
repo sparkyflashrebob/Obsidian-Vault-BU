@@ -1,0 +1,80 @@
+# The Art of Power
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/41pzpNtCB%2BL._SL200_.jpg)
+
+## Metadata
+- Author: [[Thich Nhat Hanh]]
+- Full Title: The Art of Power
+- Category: #books
+
+## Highlights
+- that there is another kind of power, a greater power: ([Location 90](https://readwise.io/to_kindle?action=open&asin=B000UZNR0K&location=90))
+- the power to be happy right in the present moment, free from addiction, fear, despair, discrimination, anger, and ignorance. This power is the birthright of every human being, whether celebrated or unknown, rich or poor, strong or weak. ([Location 90](https://readwise.io/to_kindle?action=open&asin=B000UZNR0K&location=90))
+    - Tags: [[orange]] 
+- There is only one kind of success that really matters: the success of transforming ourselves, transforming our afflictions, fear, and anger. This is the kind of success, the kind of power, that will benefit us and others ([Location 95](https://readwise.io/to_kindle?action=open&asin=B000UZNR0K&location=95))
+    - Tags: [[orange]] 
+- The ambition to grow our understanding and compassion and to help the world is a wonderful energy that gives our lives genuine purpose. ([Location 101](https://readwise.io/to_kindle?action=open&asin=B000UZNR0K&location=101))
+    - Tags: [[pink]] 
+- But it is important to remember that to realize this wonderful ambition we must first take care of ourselves. ([Location 105](https://readwise.io/to_kindle?action=open&asin=B000UZNR0K&location=105))
+    - Tags: [[orange]] 
+- To bring happiness to others, we must be happiness. And this is why we always train ourselves to first take care of our own bodies ([Location 106](https://readwise.io/to_kindle?action=open&asin=B000UZNR0K&location=106))
+- and minds. Only when we are solid can we be our best and take good care of our loved ones. ([Location 107](https://readwise.io/to_kindle?action=open&asin=B000UZNR0K&location=107))
+- Mindfulness is being fully present in the here and now, being in touch with what is going on inside us and around us. ([Location 114](https://readwise.io/to_kindle?action=open&asin=B000UZNR0K&location=114))
+    - Tags: [[orange]] 
+- Using the simple practices that follow to train our minds and focus our attention, we become not only more efficient and effective but also more relaxed and energized. ([Location 114](https://readwise.io/to_kindle?action=open&asin=B000UZNR0K&location=114))
+- spiritual power, ([Location 118](https://readwise.io/to_kindle?action=open&asin=B000UZNR0K&location=118))
+    - Tags: [[pink]] 
+- financially successful executive ([Location 137](https://readwise.io/to_kindle?action=open&asin=B000UZNR0K&location=137))
+    - Tags: [[orange]] 
+- unable to really be there for himself, his wife, Claudia, or their two young sons. ([Location 137](https://readwise.io/to_kindle?action=open&asin=B000UZNR0K&location=137))
+    - Tags: [[pink]] 
+- energy that always pushed him to do more, be better, and focus on the future. ([Location 138](https://readwise.io/to_kindle?action=open&asin=B000UZNR0K&location=138))
+    - Tags: [[blue]] 
+- he didn’t really see his son as precious, a miracle of life. ([Location 140](https://readwise.io/to_kindle?action=open&asin=B000UZNR0K&location=140))
+- he wasn’t fully present. ([Location 140](https://readwise.io/to_kindle?action=open&asin=B000UZNR0K&location=140))
+    - Tags: [[orange]] 
+- Frederick believed that he was doing the right thing by working so hard, ([Location 157](https://readwise.io/to_kindle?action=open&asin=B000UZNR0K&location=157))
+    - Tags: [[orange]] 
+- At fifty-one, Frederick was killed instantly in a car accident. He never had a chance to retire. He thought he was irreplaceable, but it took his company only three days to fill his position. ([Location 164](https://readwise.io/to_kindle?action=open&asin=B000UZNR0K&location=164))
+    - Tags: [[orange]] 
+- We sacrifice the present moment for the sake of the future. ([Location 168](https://readwise.io/to_kindle?action=open&asin=B000UZNR0K&location=168))
+    - Tags: [[pink]] 
+- But if we look deeply, we see that Frederick had no freedom, no capacity to enjoy life, no time for his loved ones. His business pulled him away. He had no time to breathe deeply, smile, look at the blue sky, and be in touch with all the wonders of life. ([Location 170](https://readwise.io/to_kindle?action=open&asin=B000UZNR0K&location=170))
+    - Tags: [[orange]] 
+- Anathapindika. ([Location 174](https://readwise.io/to_kindle?action=open&asin=B000UZNR0K&location=174))
+    - Tags: [[blue]] 
+- He allowed love to be his motivation, the force that pushed him forward. ([Location 180](https://readwise.io/to_kindle?action=open&asin=B000UZNR0K&location=180))
+    - Tags: [[orange]] 
+- Anathapindika means “the one who helps those who are poor, destitute, and lonely.” ([Location 181](https://readwise.io/to_kindle?action=open&asin=B000UZNR0K&location=181))
+    - Tags: [[blue]] 
+- To me what most of us call the bottom line is actually love. ([Location 187](https://readwise.io/to_kindle?action=open&asin=B000UZNR0K&location=187))
+    - Tags: [[orange]] 
+- The secret to maintaining happiness is to nourish our love every day. ([Location 191](https://readwise.io/to_kindle?action=open&asin=B000UZNR0K&location=191))
+    - Tags: [[orange]] 
+- Buddhists are as concerned with power as anyone else, but we are interested in the kind of power that brings happiness and not suffering. ([Location 196](https://readwise.io/to_kindle?action=open&asin=B000UZNR0K&location=196))
+    - Tags: [[orange]] 
+- if we look deeply, we see that people who are running after power suffer greatly. ([Location 198](https://readwise.io/to_kindle?action=open&asin=B000UZNR0K&location=198))
+    - Tags: [[blue]] 
+- It is very clear that if political leaders do not have compassion and understanding as their foundation, they will misuse their power and make their own country suffer, and make other countries suffer. ([Location 210](https://readwise.io/to_kindle?action=open&asin=B000UZNR0K&location=210))
+    - Tags: [[orange]] 
+- learn to cultivate spiritual power. ([Location 215](https://readwise.io/to_kindle?action=open&asin=B000UZNR0K&location=215))
+    - Tags: [[orange]] 
+- So we have to recognize the truth that if there’s no love or no deep motivation to serve this love, then no matter how rich or powerful you are, you still can’t be happy. ([Location 221](https://readwise.io/to_kindle?action=open&asin=B000UZNR0K&location=221))
+    - Tags: [[pink]] 
+- You are happy when you can relate to ([Location 222](https://readwise.io/to_kindle?action=open&asin=B000UZNR0K&location=222))
+    - Tags: [[orange]] 
+- other people and other living beings. ([Location 222](https://readwise.io/to_kindle?action=open&asin=B000UZNR0K&location=222))
+    - Tags: [[orange]] 
+- What most people call power Buddhists call cravings. The five cravings are for wealth, fame, sex, fancy food, and lots of sleep. In Buddhism, we speak of the five true powers, five kinds of energy. The five powers are faith, diligence, mindfulness, concentration, and insight. ([Location 230](https://readwise.io/to_kindle?action=open&asin=B000UZNR0K&location=230))
+    - Tags: [[orange]] [[favorite]] 
+- Faith ([Location 233](https://readwise.io/to_kindle?action=open&asin=B000UZNR0K&location=233))
+    - Tags: [[orange]] 
+- “confidence” ([Location 235](https://readwise.io/to_kindle?action=open&asin=B000UZNR0K&location=235))
+    - Tags: [[orange]] 
+- “trust,” ([Location 236](https://readwise.io/to_kindle?action=open&asin=B000UZNR0K&location=236))
+    - Tags: [[orange]] 
+- Faith is having a path that leads you to freedom, liberation, and the transformation of afflictions. ([Location 238](https://readwise.io/to_kindle?action=open&asin=B000UZNR0K&location=238))
+    - Tags: [[orange]] 
+- Diligence ([Location 253](https://readwise.io/to_kindle?action=open&asin=B000UZNR0K&location=253))
+    - Tags: [[orange]] 
+- To be beautiful means to be yourself. You don’t need to be accepted by others. You need to accept yourself. When you are born a lotus flower, be beautiful as a lotus flower; don’t try to be a magnolia flower. ([Location 1237](https://readwise.io/to_kindle?action=open&asin=B000UZNR0K&location=1237))

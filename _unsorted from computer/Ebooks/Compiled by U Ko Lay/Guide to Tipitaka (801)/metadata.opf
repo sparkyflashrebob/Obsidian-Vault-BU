@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">801</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a5f2f09a-76b7-4ae7-a5e5-48892028cf9f</dc:identifier>
+        <dc:title>Guide to Tipitaka</dc:title>
+        <dc:creator opf:file-as="Lay, Compiled by U Ko" opf:role="aut">Compiled by U Ko Lay</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.9.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <dc:subject>Theravada Buddhist Scriptures</dc:subject>
+        <dc:subject>Buddhism tipitaka</dc:subject>
+        <meta content="{&quot;Compiled by U Ko Lay&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-01-29T04:32:34.136000+00:00" name="calibre:timestamp"/>
+        <meta content="Guide to Tipitaka" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

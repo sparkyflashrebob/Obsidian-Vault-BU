@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">640</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2002b8b8-67ff-4d25-ab1f-2e5734a24911</dc:identifier>
+        <dc:title>"Clearing the Path" Writings of Nanavira Thera (1960-1965) Path Press (SCREEN version)</dc:title>
+        <dc:creator opf:file-as="Thera, Venerable Nanavira" opf:role="aut">Venerable Nanavira Thera</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.9.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-12-08T13:23:11+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Venerable Nanavira Thera&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-01-29T04:31:22.678000+00:00" name="calibre:timestamp"/>
+        <meta content="Clearing the Path&quot; Writings of Nanavira Thera (1960-1965) Path Press (SCREEN version)" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

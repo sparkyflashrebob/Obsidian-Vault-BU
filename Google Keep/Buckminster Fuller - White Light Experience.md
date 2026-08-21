@@ -1,0 +1,2 @@
+
+From now on you need never await temporal attestation to your thought. You think the truth. You do not have the right to eliminate yourself. You do not belong to you. You belong to Universe. Your significance will remain forever obscure to you, but you may assume that you are fulfilling your role if you apply yourself to converting your experiences to the highest advantage of others.

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">702</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3d27e1b7-f330-436d-8984-dd9279456b29</dc:identifier>
+        <dc:title>Fistful of Sand &amp; The Light of Discernment: Teachings of Phra Ajaan Suwat Suvaco</dc:title>
+        <dc:creator opf:file-as="Suvaco, Phra Ajaan Suwat" opf:role="aut">Phra Ajaan Suwat Suvaco</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.9.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>In 1989 Ajaan Suwat, the founder of Metta Forest Monastery, guided a retreat for Westerners at Insight Meditation Society in Barre, MA. "Fistful of Sand" contains the translations of the Dhamma talks and question and answer sessions from that retreat. "The Light of Discernment" is a collection of translations of Dhamma talks by Ajaan Suwat given at Metta Forest Monastery.</dc:description>
+        <dc:publisher>Metta Forest Monastery</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Buddhism</dc:subject>
+        <dc:subject>Dhamma</dc:subject>
+        <dc:subject>Dharma</dc:subject>
+        <dc:subject>Meditation</dc:subject>
+        <dc:subject>Theravada</dc:subject>
+        <dc:subject>Thai Forest Tradition</dc:subject>
+        <dc:subject>Jhana</dc:subject>
+        <meta content="{&quot;Phra Ajaan Suwat Suvaco&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-01-29T04:31:47.980000+00:00" name="calibre:timestamp"/>
+        <meta content="Fistful of Sand &amp; The Light of Discernment: Teachings of Phra Ajaan Suwat Suvaco" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

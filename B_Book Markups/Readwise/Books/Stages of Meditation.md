@@ -1,0 +1,436 @@
+# Stages of Meditation
+
+![rw-book-cover](https://m.media-amazon.com/images/I/71G65LRJm5L._SY160.jpg)
+
+## Metadata
+- Author: [[Dalai Lama, Kamalashila]]
+- Full Title: Stages of Meditation
+- Category: #books
+
+## Highlights
+- compassionate thought is the root of bodhichitta, ([Location 80](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=80))
+    - Tags: [[orange]] 
+- Blessing must arise from within your own mind. ([Location 100](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=100))
+    - Tags: [[orange]] 
+- When the positive qualities of your mind increase and negativities decrease, that is what blessing means. ([Location 101](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=101))
+    - Tags: [[pink]] 
+- So actual blessing is received when the mind’s virtuous attributes gain strength and its defective characteristics weaken or deteriorate. ([Location 106](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=106))
+- The main thesis of this treatise concerns establishing selflessness by relying on that single-pointed concentration that is a union of special insight and a calmly abiding mind. ([Location 139](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=139))
+    - Tags: [[orange]] 
+- If you wish to attain the unsurpassed enlightenment For yourself and the world, The root is generation of an altruistic thought That is stable and firm like a mountain, An all-embracing compassion, And a transcendent wisdom free of duality. ([Location 150](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=150))
+    - Tags: [[orange]] 
+- In the process of our spiritual practice, we must examine ourselves thoroughly and use Dharma as a mirror in which to see reflected the defects of our body, speech, and mind. ([Location 167](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=167))
+    - Tags: [[pink]] 
+- We should pay attention to the fundamentals, like the practice of the three trainings—renunciation, the awakening mind of bodhichitta, and the wisdom realizing emptiness. ([Location 175](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=175))
+    - Tags: [[blue]] 
+- those who have not disciplined themselves have hardly any chance of disciplining others. ([Location 180](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=180))
+- When the technique is obscure [to you], Explanation is naturally difficult. ([Location 181](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=181))
+    - Tags: [[orange]] 
+- Bodhisattvas ([Location 182](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=182))
+    - Tags: [[pink]] 
+- engage in the practices of eliminating the disturbing emotions that afflict the mind. ([Location 183](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=183))
+    - Tags: [[pink]] 
+- eliminating negative qualities and cultivating positive ones ([Location 184](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=184))
+    - Tags: [[blue]] 
+- The ([Location 190](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=190))
+    - Tags: [[blue]] 
+- teachings are only purposeful when we see the advantages of practicing, undertake the discipline, and effect positive transformations in our hearts. ([Location 190](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=190))
+    - Tags: [[blue]] 
+- Practice should begin with the ethical discipline of abstaining from the ten non-virtuous actions. ([Location 193](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=193))
+    - Tags: [[pink]] 
+- Every negativity of body, speech, and mind should be properly identified and its antidotes fully understood. ([Location 193](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=193))
+    - Tags: [[blue]] 
+- disturbing emotions are our inner enemies and can definitely cause disaster in future lives. These are, in fact, our worst enemies. ([Location 201](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=201))
+- if our disturbing emotions are reduced, then our practice has been effective. ([Location 202](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=202))
+    - Tags: [[orange]] 
+- The whole purpose of meditation is to lessen the deluded afflictions of our mind and eventually eradicate them from their very roots. ([Location 204](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=204))
+- three defects of a listener ([Location 208](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=208))
+    - Tags: [[orange]] 
+- listening in a way that is like an upside down container. ([Location 209](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=209))
+    - Tags: [[pink]] 
+- mentally we are busy somewhere else. ([Location 210](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=210))
+    - Tags: [[pink]] 
+- listen in a way that is ([Location 212](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=212))
+    - Tags: [[orange]] 
+- like a container with holes. ([Location 212](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=212))
+    - Tags: [[orange]] 
+- retain ([Location 213](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=213))
+    - Tags: [[orange]] 
+- lack mindfulness and memory. ([Location 213](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=213))
+    - Tags: [[orange]] 
+- order to benefit from the teachings, we must retain them with mindfulness. ([Location 215](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=215))
+    - Tags: [[blue]] 
+- pay full attention ([Location 216](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=216))
+- endeavor to remember their contents. ([Location 216](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=216))
+    - Tags: [[orange]] 
+- We should reflect and think about whatever we have heard, over and over again. ([Location 217](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=217))
+    - Tags: [[blue]] 
+- Another technique for remembering instructions is debate as it is practiced in the traditional debating schools. ([Location 218](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=218))
+    - Tags: [[orange]] 
+- motivation, ([Location 219](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=219))
+- avoid deluded motives. ([Location 220](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=220))
+- wholesome motivation. ([Location 221](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=221))
+    - Tags: [[pink]] 
+- temporary things depend on causes. ([Location 288](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=288))
+    - Tags: [[orange]] 
+- So those phenomena that depend on causes and conditions change by nature; they do not abide in one place and they are not permanent. ([Location 293](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=293))
+    - Tags: [[pink]] 
+- Consciousness has neither shape nor color and cannot be measured in any physical terms, but it exists in its nature and ability to feel and sense. ([Location 296](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=296))
+    - Tags: [[blue]] 
+- Time, on the other hand, has neither form nor consciousness and belongs to the third category. ([Location 297](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=297))
+- Omniscient transcendental wisdom refers to the consciousness that knows everything. ([Location 298](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=298))
+    - Tags: [[pink]] 
+- Knowing or understanding is the function of consciousness. ([Location 301](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=301))
+- That which possesses the function of knowing is consciousness. ([Location 305](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=305))
+    - Tags: [[blue]] 
+- Knowledge and understanding develop on the basis of a consciousness that has the ability to perceive its objects. When the necessary conditions are met, its ability to perceive increases, the scope of its objects of knowledge expands, and understanding deepens. In this way the mind can develop its full potential. ([Location 308](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=308))
+    - Tags: [[orange]] 
+- At a certain point in time, when favorable conditions come about and adverse conditions are absent, a consciousness can be transformed into omniscience that has the knowledge of all phenomena. ([Location 319](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=319))
+    - Tags: [[pink]] 
+- there are things that impede the mind from opening up to the state of complete knowledge. ([Location 330](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=330))
+    - Tags: [[pink]] 
+- ignorance ([Location 332](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=332))
+    - Tags: [[orange]] 
+- ignorance holding to one extreme, ([Location 332](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=332))
+- ignorance that is a misconception of true existence is the root, ([Location 334](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=334))
+    - Tags: [[blue]] 
+- ignorance ([Location 337](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=337))
+- It is a mind that perversely or wrongly misconceives its object. ([Location 338](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=338))
+- cease to exist when confronted by adverse factors. ([Location 341](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=341))
+    - Tags: [[blue]] 
+- valid support. ([Location 343](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=343))
+    - Tags: [[orange]] 
+- The mind perceiving selflessness is an antidote, or opponent, to this and is not mistaken with respect to its object. ([Location 344](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=344))
+- The mind that perceives the selfless nature of an object is a powerful antidote against that ignorant mind, and therefore the ignorant mind can be overcome. ([Location 349](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=349))
+    - Tags: [[blue]] 
+- It is in the nature of the mind that when you habituate it with a positive quality it can be developed limitlessly. ([Location 353](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=353))
+- emptiness of inherent existence, ([Location 359](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=359))
+    - Tags: [[pink]] 
+- there is no logical way ([Location 360](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=360))
+    - Tags: [[orange]] 
+- to prove true existence. ([Location 360](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=360))
+    - Tags: [[orange]] 
+- Disillusionment arises due to a discrepancy between the way a situation appears to be and the way it actually is. ([Location 363](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=363))
+- Training the mind is a process of familiarization. ([Location 377](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=377))
+    - Tags: [[pink]] 
+- or meditation, ([Location 377](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=377))
+    - Tags: [[blue]] 
+- analytical ([Location 380](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=380))
+- single-pointed. ([Location 380](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=380))
+    - Tags: [[orange]] 
+- the object of meditation is put through a process of analysis in which one repeatedly attempts to gain familiarity with the subject matter. ([Location 380](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=380))
+    - Tags: [[pink]] 
+- When the practitioner has gained a good deal of certainty about the object of meditation, the mind is made to concentrate on it without further analysis. ([Location 381](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=381))
+    - Tags: [[blue]] 
+- gain happiness and avoid misery. ([Location 386](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=386))
+    - Tags: [[blue]] 
+- motivation. ([Location 390](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=390))
+    - Tags: [[blue]] 
+- The mind sees the advantages of such training and generates interest in it. ([Location 390](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=390))
+- The purpose of training the mind is to make our lives worthwhile. ([Location 391](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=391))
+    - Tags: [[orange]] 
+- Through the process of training the mind we learn many new things, ([Location 391](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=391))
+    - Tags: [[blue]] 
+- we are also able to detect and identify numerous defects or things that can be removed or corrected. ([Location 391](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=391))
+- In our everyday life, education helps us to find the necessary and conducive factors that give rise to happiness. In the process, we are also able to abandon the factors that make us miserable. ([Location 393](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=393))
+    - Tags: [[pink]] 
+- The conduct of our body, speech, and mind now can also determine our state of being in the future. ([Location 398](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=398))
+    - Tags: [[pink]] 
+- Because of the control they have over their minds, some people are little disturbed by failure or adverse circumstances. ([Location 401](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=401))
+    - Tags: [[blue]] 
+- The human mind, or consciousness, we are talking about actually consists of a vast number of minds, some subtle and some coarse. ([Location 406](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=406))
+    - Tags: [[pink]] 
+- the main cause of any mind is the preceding moment of consciousness, ([Location 409](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=409))
+- whose nature is clarity and awareness. ([Location 409](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=409))
+    - Tags: [[orange]] 
+- immediate condition. ([Location 410](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=410))
+- those who desire a particular result should cultivate its complete and unmistaken causes and conditions. ([Location 425](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=425))
+    - Tags: [[pink]] 
+- The corollary of the thesis is that without compassion, you cannot generate the supreme awakening mind of bodhichitta that cherishes others more than yourself. ([Location 461](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=461))
+    - Tags: [[orange]] 
+- completely concealed phenomena ([Location 483](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=483))
+    - Tags: [[pink]] 
+- it should be clear that a kind heart and a helpful attitude are the very foundation of happiness, both for others and ourselves for now and forever. ([Location 531](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=531))
+    - Tags: [[orange]] 
+- All the major religions of the world teach their followers to become good people, to practice patience, and to develop an interest in helping others. ([Location 533](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=533))
+    - Tags: [[pink]] 
+- what is the Buddhist technique for meditating on compassion? ([Location 536](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=536))
+    - Tags: [[blue]] 
+- On the one hand we need to develop loving-kindness toward suffering beings, ([Location 536](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=536))
+- secondly we must identify the nature of suffering. ([Location 537](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=537))
+    - Tags: [[orange]] 
+- You should begin the process by attempting to develop loving-kindness toward beings who are in misery. For this purpose, meditation on equanimity is taught. ([Location 539](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=539))
+    - Tags: [[orange]] 
+- close, ([Location 541](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=541))
+    - Tags: [[pink]] 
+- aversion, ([Location 541](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=541))
+- indifferent. ([Location 541](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=541))
+    - Tags: [[blue]] 
+- As ordinary beings, our feeling of closeness to our friends and relatives is little more than an expression of clinging desire. It needs to be tempered, not enhanced. ([Location 552](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=552))
+    - Tags: [[blue]] 
+- two major techniques for developing equanimity. ([Location 557](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=557))
+    - Tags: [[pink]] 
+- first, ([Location 557](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=557))
+- we think about the uncertainty of relationships, and about impermanence, and suffering, and come to see the futility of clinging to some people and hating others. ([Location 557](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=557))
+    - Tags: [[orange]] 
+- second ([Location 558](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=558))
+- seeing that all beings are the same in terms of wishing to gain happiness and to be free of suffering, we try to develop an impartial attitude toward all beings. ([Location 558](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=558))
+    - Tags: [[orange]] 
+- since there is no ground for being attached to some and hating others, I shall develop a mind of equanimity toward all sentient beings. ([Location 562](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=562))
+    - Tags: [[pink]] 
+- In order to actualize a state of mind that regards everyone equally, at times it can be more effective to meditate on particular individuals. Visualize three individuals: one who has done us harm in this life, our enemy; one who has benefited us directly, our friend; and one who has neither harmed nor benefited us, a stranger. ([Location 569](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=569))
+    - Tags: [[orange]] 
+- When, through prolonged meditation, we are able to equalize our feelings toward those three individuals—the friend, foe, and stranger—gradually extend the scope of the meditation to our neighbors, our fellow citizens, and our compatriots. Eventually, we extend the meditation to include all the beings in the world. ([Location 581](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=581))
+    - Tags: [[pink]] 
+- If we initially meditate on a vast number of beings, our practice of equanimity may appear to be fairly sound, but when we are confronted by specific individuals we will realize how little ground we have gained. For this reason the technique of gradually expanding the scope of our meditation is praised and recommended by many masters of the past. ([Location 584](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=584))
+    - Tags: [[orange]] 
+- Let us consider the concept of the beginningless cycle of existence. It may be described on one level as a continual cyclic process from one instant to the next under the influence of disturbing emotions and karma. ([Location 587](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=587))
+- The two root causes for being born in the cycle of existence are karma and disturbing emotions, with the latter dominating. The ignorance that is a misconception of true existence is the most serious among the three principal disturbing emotions. Ignorance that is a misconception of true existence is not something imported from elsewhere, but is a creation of consciousness. ([Location 590](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=590))
+- In normal cause and effect relations, both cause and effect are of the same category. When we observe the cause and effect relations of physical objects, the result maintains intrinsically the same nature as its cause. Consciousness too follows a similar pattern. Every moment of consciousness produces a subsequent result of the same category, that is, another moment of consciousness. For these reasons, Buddhist scriptural texts expound the notion of beginningless mind and the beginningless existence of sentient beings. Thus, the cycle of existence is said to have no beginning. ([Location 598](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=598))
+    - Tags: [[blue]] 
+- misery of suffering, ([Location 637](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=637))
+    - Tags: [[pink]] 
+- misery of change, ([Location 637](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=637))
+    - Tags: [[blue]] 
+- pervasive misery. ([Location 638](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=638))
+- craving desire. ([Location 643](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=643))
+    - Tags: [[orange]] 
+- types of wrong views. ([Location 643](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=643))
+- Those in the fourth meditative stage and in the formless realms are temporarily free from the first two types of miseries. ([Location 662](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=662))
+    - Tags: [[pink]] 
+- They become aware of the disadvantages of disturbing emotions and their instability. ([Location 664](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=664))
+    - Tags: [[blue]] 
+- When we eliminate our disturbing emotions, we gain what is known as nirvana, or liberation. ([Location 666](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=666))
+- anything impermanent disintegrates and changes every moment. ([Location 669](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=669))
+    - Tags: [[orange]] 
+- an impermanent phenomenon has no independent identity and is under the influence of other factors like its causes and conditions. ([Location 671](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=671))
+    - Tags: [[pink]] 
+- Whether you are engaged in one-pointed meditation or pursuing your ordinary activities, meditate on compassion at all times, focusing on all sentient beings and wishing that they all be free from suffering. ([Location 675](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=675))
+    - Tags: [[blue]] 
+- In order to train the mind to be compassionate, you must maintain a practice that includes both formal meditation sessions and awareness during the period that follows. ([Location 679](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=679))
+- That is, not only should a practitioner train to generate a compassionate mind during formal meditation, but also during activities like walking, sleeping, sitting, working, and so forth. ([Location 680](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=680))
+    - Tags: [[orange]] 
+- if you do not cultivate awareness and mindfulness during the post-meditation periods and you let your mind wander, the progress of your meditation will be slowed. This ([Location 683](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=683))
+    - Tags: [[pink]] 
+- Then having seen all sentient beings as equal, with no difference between them, you should meditate on sentient beings to whom you are indifferent. When the compassion you feel toward them is the same as the compassion you feel toward your friends and relatives, meditate on compassion for all sentient beings throughout the ten directions of the universe. ([Location 687](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=687))
+    - Tags: [[orange]] 
+- You should also realize that whether you achieve Buddhahood or not, your purpose is to help other sentient beings. ([Location 834](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=834))
+    - Tags: [[orange]] 
+# Stages of Meditation
+
+![rw-book-cover](https://m.media-amazon.com/images/I/71G65LRJm5L._SY160.jpg)
+
+## Metadata
+- Author: [[Dalai Lama, Kamalashila]]
+- Full Title: Stages of Meditation
+- Category: #books
+
+## Highlights
+- compassionate thought is the root of bodhichitta, ([Location 80](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=80))
+    - Tags: [[orange]] 
+- Blessing must arise from within your own mind. ([Location 100](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=100))
+    - Tags: [[orange]] 
+- When the positive qualities of your mind increase and negativities decrease, that is what blessing means. ([Location 101](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=101))
+    - Tags: [[pink]] 
+- So actual blessing is received when the mind’s virtuous attributes gain strength and its defective characteristics weaken or deteriorate. ([Location 106](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=106))
+- The main thesis of this treatise concerns establishing selflessness by relying on that single-pointed concentration that is a union of special insight and a calmly abiding mind. ([Location 139](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=139))
+    - Tags: [[orange]] 
+- If you wish to attain the unsurpassed enlightenment For yourself and the world, The root is generation of an altruistic thought That is stable and firm like a mountain, An all-embracing compassion, And a transcendent wisdom free of duality. ([Location 150](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=150))
+    - Tags: [[orange]] 
+- In the process of our spiritual practice, we must examine ourselves thoroughly and use Dharma as a mirror in which to see reflected the defects of our body, speech, and mind. ([Location 167](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=167))
+    - Tags: [[pink]] 
+- We should pay attention to the fundamentals, like the practice of the three trainings—renunciation, the awakening mind of bodhichitta, and the wisdom realizing emptiness. ([Location 175](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=175))
+    - Tags: [[blue]] 
+- those who have not disciplined themselves have hardly any chance of disciplining others. ([Location 180](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=180))
+- When the technique is obscure [to you], Explanation is naturally difficult. ([Location 181](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=181))
+    - Tags: [[orange]] 
+- Bodhisattvas ([Location 182](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=182))
+    - Tags: [[pink]] 
+- engage in the practices of eliminating the disturbing emotions that afflict the mind. ([Location 183](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=183))
+    - Tags: [[pink]] 
+- eliminating negative qualities and cultivating positive ones ([Location 184](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=184))
+    - Tags: [[blue]] 
+- The ([Location 190](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=190))
+    - Tags: [[blue]] 
+- teachings are only purposeful when we see the advantages of practicing, undertake the discipline, and effect positive transformations in our hearts. ([Location 190](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=190))
+    - Tags: [[blue]] 
+- Practice should begin with the ethical discipline of abstaining from the ten non-virtuous actions. ([Location 193](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=193))
+    - Tags: [[pink]] 
+- Every negativity of body, speech, and mind should be properly identified and its antidotes fully understood. ([Location 193](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=193))
+    - Tags: [[blue]] 
+- disturbing emotions are our inner enemies and can definitely cause disaster in future lives. These are, in fact, our worst enemies. ([Location 201](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=201))
+- if our disturbing emotions are reduced, then our practice has been effective. ([Location 202](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=202))
+    - Tags: [[orange]] 
+- The whole purpose of meditation is to lessen the deluded afflictions of our mind and eventually eradicate them from their very roots. ([Location 204](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=204))
+- three defects of a listener ([Location 208](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=208))
+    - Tags: [[orange]] 
+- listening in a way that is like an upside down container. ([Location 209](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=209))
+    - Tags: [[pink]] 
+- mentally we are busy somewhere else. ([Location 210](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=210))
+    - Tags: [[pink]] 
+- listen in a way that is ([Location 212](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=212))
+    - Tags: [[orange]] 
+- like a container with holes. ([Location 212](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=212))
+    - Tags: [[orange]] 
+- retain ([Location 213](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=213))
+    - Tags: [[orange]] 
+- lack mindfulness and memory. ([Location 213](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=213))
+    - Tags: [[orange]] 
+- order to benefit from the teachings, we must retain them with mindfulness. ([Location 215](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=215))
+    - Tags: [[blue]] 
+- pay full attention ([Location 216](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=216))
+- endeavor to remember their contents. ([Location 216](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=216))
+    - Tags: [[orange]] 
+- We should reflect and think about whatever we have heard, over and over again. ([Location 217](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=217))
+    - Tags: [[blue]] 
+- Another technique for remembering instructions is debate as it is practiced in the traditional debating schools. ([Location 218](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=218))
+    - Tags: [[orange]] 
+- motivation, ([Location 219](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=219))
+- avoid deluded motives. ([Location 220](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=220))
+- wholesome motivation. ([Location 221](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=221))
+    - Tags: [[pink]] 
+- temporary things depend on causes. ([Location 288](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=288))
+    - Tags: [[orange]] 
+- So those phenomena that depend on causes and conditions change by nature; they do not abide in one place and they are not permanent. ([Location 293](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=293))
+    - Tags: [[pink]] 
+- Consciousness has neither shape nor color and cannot be measured in any physical terms, but it exists in its nature and ability to feel and sense. ([Location 296](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=296))
+    - Tags: [[blue]] 
+- Time, on the other hand, has neither form nor consciousness and belongs to the third category. ([Location 297](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=297))
+- Omniscient transcendental wisdom refers to the consciousness that knows everything. ([Location 298](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=298))
+    - Tags: [[pink]] 
+- Knowing or understanding is the function of consciousness. ([Location 301](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=301))
+- That which possesses the function of knowing is consciousness. ([Location 305](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=305))
+    - Tags: [[blue]] 
+- Knowledge and understanding develop on the basis of a consciousness that has the ability to perceive its objects. When the necessary conditions are met, its ability to perceive increases, the scope of its objects of knowledge expands, and understanding deepens. In this way the mind can develop its full potential. ([Location 308](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=308))
+    - Tags: [[orange]] 
+- At a certain point in time, when favorable conditions come about and adverse conditions are absent, a consciousness can be transformed into omniscience that has the knowledge of all phenomena. ([Location 319](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=319))
+    - Tags: [[pink]] 
+- there are things that impede the mind from opening up to the state of complete knowledge. ([Location 330](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=330))
+    - Tags: [[pink]] 
+- ignorance ([Location 332](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=332))
+    - Tags: [[orange]] 
+- ignorance holding to one extreme, ([Location 332](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=332))
+- ignorance that is a misconception of true existence is the root, ([Location 334](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=334))
+    - Tags: [[blue]] 
+- ignorance ([Location 337](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=337))
+- It is a mind that perversely or wrongly misconceives its object. ([Location 338](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=338))
+- cease to exist when confronted by adverse factors. ([Location 341](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=341))
+    - Tags: [[blue]] 
+- valid support. ([Location 343](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=343))
+    - Tags: [[orange]] 
+- The mind perceiving selflessness is an antidote, or opponent, to this and is not mistaken with respect to its object. ([Location 344](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=344))
+- The mind that perceives the selfless nature of an object is a powerful antidote against that ignorant mind, and therefore the ignorant mind can be overcome. ([Location 349](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=349))
+    - Tags: [[blue]] 
+- It is in the nature of the mind that when you habituate it with a positive quality it can be developed limitlessly. ([Location 353](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=353))
+- emptiness of inherent existence, ([Location 359](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=359))
+    - Tags: [[pink]] 
+- there is no logical way ([Location 360](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=360))
+    - Tags: [[orange]] 
+- to prove true existence. ([Location 360](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=360))
+    - Tags: [[orange]] 
+- Disillusionment arises due to a discrepancy between the way a situation appears to be and the way it actually is. ([Location 363](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=363))
+- Training the mind is a process of familiarization. ([Location 377](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=377))
+    - Tags: [[pink]] 
+- or meditation, ([Location 377](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=377))
+    - Tags: [[blue]] 
+- analytical ([Location 380](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=380))
+- single-pointed. ([Location 380](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=380))
+    - Tags: [[orange]] 
+- the object of meditation is put through a process of analysis in which one repeatedly attempts to gain familiarity with the subject matter. ([Location 380](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=380))
+    - Tags: [[pink]] 
+- When the practitioner has gained a good deal of certainty about the object of meditation, the mind is made to concentrate on it without further analysis. ([Location 381](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=381))
+    - Tags: [[blue]] 
+- gain happiness and avoid misery. ([Location 386](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=386))
+    - Tags: [[blue]] 
+- motivation. ([Location 390](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=390))
+    - Tags: [[blue]] 
+- The mind sees the advantages of such training and generates interest in it. ([Location 390](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=390))
+- The purpose of training the mind is to make our lives worthwhile. ([Location 391](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=391))
+    - Tags: [[orange]] 
+- Through the process of training the mind we learn many new things, ([Location 391](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=391))
+    - Tags: [[blue]] 
+- we are also able to detect and identify numerous defects or things that can be removed or corrected. ([Location 391](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=391))
+- In our everyday life, education helps us to find the necessary and conducive factors that give rise to happiness. In the process, we are also able to abandon the factors that make us miserable. ([Location 393](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=393))
+    - Tags: [[pink]] 
+- The conduct of our body, speech, and mind now can also determine our state of being in the future. ([Location 398](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=398))
+    - Tags: [[pink]] 
+- Because of the control they have over their minds, some people are little disturbed by failure or adverse circumstances. ([Location 401](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=401))
+    - Tags: [[blue]] 
+- The human mind, or consciousness, we are talking about actually consists of a vast number of minds, some subtle and some coarse. ([Location 406](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=406))
+    - Tags: [[pink]] 
+- the main cause of any mind is the preceding moment of consciousness, ([Location 409](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=409))
+- whose nature is clarity and awareness. ([Location 409](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=409))
+    - Tags: [[orange]] 
+- immediate condition. ([Location 410](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=410))
+- those who desire a particular result should cultivate its complete and unmistaken causes and conditions. ([Location 425](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=425))
+    - Tags: [[pink]] 
+- The corollary of the thesis is that without compassion, you cannot generate the supreme awakening mind of bodhichitta that cherishes others more than yourself. ([Location 461](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=461))
+    - Tags: [[orange]] 
+- completely concealed phenomena ([Location 483](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=483))
+    - Tags: [[pink]] 
+- it should be clear that a kind heart and a helpful attitude are the very foundation of happiness, both for others and ourselves for now and forever. ([Location 531](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=531))
+    - Tags: [[orange]] 
+- All the major religions of the world teach their followers to become good people, to practice patience, and to develop an interest in helping others. ([Location 533](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=533))
+    - Tags: [[pink]] 
+- what is the Buddhist technique for meditating on compassion? ([Location 536](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=536))
+    - Tags: [[blue]] 
+- On the one hand we need to develop loving-kindness toward suffering beings, ([Location 536](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=536))
+- secondly we must identify the nature of suffering. ([Location 537](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=537))
+    - Tags: [[orange]] 
+- You should begin the process by attempting to develop loving-kindness toward beings who are in misery. For this purpose, meditation on equanimity is taught. ([Location 539](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=539))
+    - Tags: [[orange]] 
+- close, ([Location 541](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=541))
+    - Tags: [[pink]] 
+- aversion, ([Location 541](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=541))
+- indifferent. ([Location 541](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=541))
+    - Tags: [[blue]] 
+- As ordinary beings, our feeling of closeness to our friends and relatives is little more than an expression of clinging desire. It needs to be tempered, not enhanced. ([Location 552](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=552))
+    - Tags: [[blue]] 
+- two major techniques for developing equanimity. ([Location 557](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=557))
+    - Tags: [[pink]] 
+- first, ([Location 557](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=557))
+- we think about the uncertainty of relationships, and about impermanence, and suffering, and come to see the futility of clinging to some people and hating others. ([Location 557](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=557))
+    - Tags: [[orange]] 
+- second ([Location 558](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=558))
+- seeing that all beings are the same in terms of wishing to gain happiness and to be free of suffering, we try to develop an impartial attitude toward all beings. ([Location 558](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=558))
+    - Tags: [[orange]] 
+- since there is no ground for being attached to some and hating others, I shall develop a mind of equanimity toward all sentient beings. ([Location 562](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=562))
+    - Tags: [[pink]] 
+- In order to actualize a state of mind that regards everyone equally, at times it can be more effective to meditate on particular individuals. Visualize three individuals: one who has done us harm in this life, our enemy; one who has benefited us directly, our friend; and one who has neither harmed nor benefited us, a stranger. ([Location 569](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=569))
+    - Tags: [[orange]] 
+- When, through prolonged meditation, we are able to equalize our feelings toward those three individuals—the friend, foe, and stranger—gradually extend the scope of the meditation to our neighbors, our fellow citizens, and our compatriots. Eventually, we extend the meditation to include all the beings in the world. ([Location 581](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=581))
+    - Tags: [[pink]] 
+- If we initially meditate on a vast number of beings, our practice of equanimity may appear to be fairly sound, but when we are confronted by specific individuals we will realize how little ground we have gained. For this reason the technique of gradually expanding the scope of our meditation is praised and recommended by many masters of the past. ([Location 584](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=584))
+    - Tags: [[orange]] 
+- Let us consider the concept of the beginningless cycle of existence. It may be described on one level as a continual cyclic process from one instant to the next under the influence of disturbing emotions and karma. ([Location 587](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=587))
+- The two root causes for being born in the cycle of existence are karma and disturbing emotions, with the latter dominating. The ignorance that is a misconception of true existence is the most serious among the three principal disturbing emotions. Ignorance that is a misconception of true existence is not something imported from elsewhere, but is a creation of consciousness. ([Location 590](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=590))
+- In normal cause and effect relations, both cause and effect are of the same category. When we observe the cause and effect relations of physical objects, the result maintains intrinsically the same nature as its cause. Consciousness too follows a similar pattern. Every moment of consciousness produces a subsequent result of the same category, that is, another moment of consciousness. For these reasons, Buddhist scriptural texts expound the notion of beginningless mind and the beginningless existence of sentient beings. Thus, the cycle of existence is said to have no beginning. ([Location 598](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=598))
+    - Tags: [[blue]] 
+- misery of suffering, ([Location 637](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=637))
+    - Tags: [[pink]] 
+- misery of change, ([Location 637](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=637))
+    - Tags: [[blue]] 
+- pervasive misery. ([Location 638](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=638))
+- craving desire. ([Location 643](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=643))
+    - Tags: [[orange]] 
+- types of wrong views. ([Location 643](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=643))
+- Those in the fourth meditative stage and in the formless realms are temporarily free from the first two types of miseries. ([Location 662](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=662))
+    - Tags: [[pink]] 
+- They become aware of the disadvantages of disturbing emotions and their instability. ([Location 664](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=664))
+    - Tags: [[blue]] 
+- When we eliminate our disturbing emotions, we gain what is known as nirvana, or liberation. ([Location 666](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=666))
+- anything impermanent disintegrates and changes every moment. ([Location 669](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=669))
+    - Tags: [[orange]] 
+- an impermanent phenomenon has no independent identity and is under the influence of other factors like its causes and conditions. ([Location 671](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=671))
+    - Tags: [[pink]] 
+- Whether you are engaged in one-pointed meditation or pursuing your ordinary activities, meditate on compassion at all times, focusing on all sentient beings and wishing that they all be free from suffering. ([Location 675](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=675))
+    - Tags: [[blue]] 
+- In order to train the mind to be compassionate, you must maintain a practice that includes both formal meditation sessions and awareness during the period that follows. ([Location 679](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=679))
+- That is, not only should a practitioner train to generate a compassionate mind during formal meditation, but also during activities like walking, sleeping, sitting, working, and so forth. ([Location 680](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=680))
+    - Tags: [[orange]] 
+- if you do not cultivate awareness and mindfulness during the post-meditation periods and you let your mind wander, the progress of your meditation will be slowed. This ([Location 683](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=683))
+    - Tags: [[pink]] 
+- Then having seen all sentient beings as equal, with no difference between them, you should meditate on sentient beings to whom you are indifferent. When the compassion you feel toward them is the same as the compassion you feel toward your friends and relatives, meditate on compassion for all sentient beings throughout the ten directions of the universe. ([Location 687](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=687))
+    - Tags: [[orange]] 
+- You should also realize that whether you achieve Buddhahood or not, your purpose is to help other sentient beings. ([Location 834](https://readwise.io/to_kindle?action=open&asin=B07J47QW2S&location=834))
+    - Tags: [[orange]] 

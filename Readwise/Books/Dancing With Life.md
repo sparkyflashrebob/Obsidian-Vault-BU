@@ -1,0 +1,404 @@
+# Dancing With Life
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/51il71fPoTL._SL200_.jpg)
+
+## Metadata
+- Author: [[Phillip Moffitt]]
+- Full Title: Dancing With Life
+- Category: #books
+
+## Highlights
+- pariyatti ([Location 79](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=79))
+    - Tags: [[pink]] 
+- patipatti ([Location 80](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=80))
+    - Tags: [[pink]] 
+- pativedha ([Location 80](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=80))
+    - Tags: [[pink]] 
+- Mindfulness is the path to the deathless—the underlying joy and love that is consciousness without delusion. It is through the surrender of the illusory self that enlightenment is realized. ([Location 83](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=83))
+    - Tags: [[pink]] 
+- “should be understood,” ([Location 101](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=101))
+    - Tags: [[pink]] 
+- “stand under” it— ([Location 102](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=102))
+    - Tags: [[pink]] 
+- patient endurance. ([Location 103](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=103))
+    - Tags: [[pink]] 
+- nonresistance ([Location 103](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=103))
+    - Tags: [[pink]] 
+- paying noncritical attention ([Location 103](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=103))
+    - Tags: [[pink]] 
+- clinging to a memory. ([Location 110](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=110))
+    - Tags: [[pink]] 
+- The challenge for each person is to realize the insights in your life rather than merely accepting them as concepts. ([Location 116](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=116))
+    - Tags: [[pink]] 
+- these Twelve Insights will enable you to relate to your suffering in such a way that it does not define you. ([Location 322](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=322))
+    - Tags: [[pink]] 
+- the problem: ([Location 327](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=327))
+    - Tags: [[orange]] 
+- There is dukkha, which is a result of how the untrained mind reacts to ever-changing conditions (the First Noble Truth). ([Location 327](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=327))
+    - Tags: [[orange]] 
+- the cause ([Location 328](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=328))
+- Your mind falls into clinging and grasping because of wanting (the Second Noble Truth). ([Location 328](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=328))
+- the solution: ([Location 329](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=329))
+    - Tags: [[orange]] 
+- A different result is possible, which is the cessation of suffering (the Third Noble Truth). ([Location 329](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=329))
+    - Tags: [[orange]] 
+- the cause of this radically different result: ([Location 330](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=330))
+    - Tags: [[orange]] 
+- The Eightfold Path (the Fourth Noble Truth). ([Location 330](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=330))
+    - Tags: [[pink]] 
+- illness ([Location 331](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=331))
+    - Tags: [[orange]] 
+- diagnoses ([Location 331](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=331))
+    - Tags: [[orange]] 
+- cure ([Location 332](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=332))
+    - Tags: [[orange]] 
+- medicine ([Location 332](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=332))
+    - Tags: [[orange]] 
+- reflecting, ([Location 333](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=333))
+- directly experiencing, ([Location 334](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=334))
+- knowing. ([Location 334](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=334))
+- The Buddha taught that in order to completely understand a Noble Truth, you first reflect on it as a conceptual description of a general truth in life. ([Location 334](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=334))
+- When you intellectually know that a given Noble Truth is at least logical and theoretically possible, then the Buddha directs you to the second insight of each Truth. This insight requires you to consciously seek to realize the Truth. You immerse yourself in the truth and therefore experience its validity for you personally. Practicing the Second Insight for each Truth means seeking direct experience of it in your own life through mindful, compassionate awareness. ([Location 336](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=336))
+- not theoretical; ([Location 344](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=344))
+    - Tags: [[orange]] 
+- “wow” ([Location 345](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=345))
+    - Tags: [[orange]] 
+- “ouch” ([Location 345](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=345))
+    - Tags: [[orange]] 
+- knowing. ([Location 348](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=348))
+    - Tags: [[orange]] 
+- It involves mindfully integrating what you’ve just learned and felt into your daily life. People often leave this step out of their spiritual (and psychological) work, as well. And yet, without it, you are likely to lose your grasp on the Truth and return rapidly to your old habits. ([Location 349](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=349))
+    - Tags: [[orange]] 
+- “There is dukkha.” ([Location 354](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=354))
+- you’re willing to meet your suffering and view it as an opportunity for personal growth. You mindfully respond to rather than emotionally react to it. ([Location 359](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=359))
+    - Tags: [[orange]] 
+- layers of understanding and ability. ([Location 360](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=360))
+    - Tags: [[orange]] 
+- spiraling process ([Location 361](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=361))
+    - Tags: [[orange]] 
+- reflecting ([Location 370](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=370))
+    - Tags: [[orange]] 
+- directly experiencing ([Location 371](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=371))
+    - Tags: [[orange]] 
+- knowing that you know ([Location 371](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=371))
+    - Tags: [[orange]] 
+- the insights are fluid and interrelated. ([Location 376](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=376))
+    - Tags: [[orange]] 
+- Jungian psychology ([Location 383](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=383))
+    - Tags: [[orange]] 
+- Four Quartets ([Location 389](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=389))
+    - Tags: [[orange]] 
+- Other religions and methodologies (such as therapy) may offer techniques for coping with suffering and examining its origins, but they do not offer freedom from it in this manner. I ([Location 402](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=402))
+    - Tags: [[orange]] 
+- mindfulness, the ability to be fully aware in the moment. ([Location 436](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=436))
+    - Tags: [[orange]] 
+- Mindfulness enables you to go beneath the surface level of moment-to-moment life experience, which is clouded with emotions, to clearly see the truth of what is happening. ([Location 437](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=437))
+    - Tags: [[orange]] 
+- “clear comprehension” ([Location 442](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=442))
+    - Tags: [[orange]] 
+- As your practice of the Twelve Insights of the Four Noble Truths matures, the two blend together and you have less and less of a sense of separation between being meditatively mindful in daily life and practicing mindfulness in meditation. ([Location 446](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=446))
+    - Tags: [[orange]] 
+- Your mindfulness allows you not to identify with the impulses of your strong emotions or act from them. ([Location 457](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=457))
+    - Tags: [[orange]] 
+- “vicara.” ([Location 481](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=481))
+    - Note: not my undertanding. evaluation.
+- Traditionally, in vipassana meditation you use your breath initially as the object of concentration to collect and unify the mind. You typically stay with the experience of the breath as it touches the body in a single spot, such as the tip of the nose as it moves in and out, or the rise and fall of the chest, or the in-and-out movement of the belly, or the feeling of the breath in the whole body. ([Location 482](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=482))
+    - Tags: [[blue]] 
+- There are many ways to follow the breath, including counting, noticing its speed, and making mental notes of what is happening, using labels such as “in” and “out” or “rising” and “falling.” You can also learn to stay with the breath by coupling a word with each breath. ([Location 485](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=485))
+    - Tags: [[orange]] 
+- At first you won’t be able to stay with the breath, but soon you will at least be able to be with one or two breaths throughout the complete cycle of inhalation and exhalation. You will also develop the ability to notice when your mind has wandered and to firmly and gently bring it back to the breath. ([Location 489](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=489))
+    - Tags: [[blue]] 
+- When your mind starts wandering, the breath becomes your anchor to which you return in order to stabilize and focus your attention. ([Location 492](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=492))
+    - Tags: [[blue]] 
+- By repeatedly returning to the breath, you are learning to just start over. Starting over is a key step in meditation. It expresses your intention to be present, and the power of your intention is what determines your ability to be mindful in daily life. ([Location 497](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=497))
+    - Tags: [[blue]] 
+- “bare attention”— ([Location 499](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=499))
+    - Tags: [[orange]] 
+- In practicing bare attention you don’t judge the breath or think about how you might improve it. ([Location 501](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=501))
+    - Tags: [[orange]] 
+- Once you’re somewhat able to stay present with the breath, you start to open your field of attention to ever-more-subtle objects of experience that arise in the mind. This process continues until you are able to respond to all of your experiences as opportunities for mindfulness. ([Location 505](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=505))
+    - Tags: [[orange]] 
+- The four modes of investigation he prescribed are: Knowing how any experience feels in the body (First Foundation), Noting the pleasant-, unpleasant-, or neutral-feeling tone that accompanies every moment’s experience (Second Foundation), Witnessing your mental state and your emotions in the moment (Third Foundation), and finally: Opening to the impersonal truth of life that is revealed in this moment (Fourth Foundation). ([Location 509](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=509))
+    - Tags: [[orange]] 
+- In the First Foundation of Mindfulness the attention is to be focused on the body from within the body, meaning that you are not training your mind to be a distant, indifferent observer of your body; ([Location 522](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=522))
+    - Tags: [[orange]] 
+- “If the body is not mastered [by meditation], then the mind cannot be mastered, if the body is mastered, mind is mastered.”4 ([Location 527](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=527))
+    - Tags: [[orange]] 
+- “There is one thing, monks, that cultivated and regularly practiced, leads to a deep sense of urgency,…to the Supreme Peace…to mindfulness and clear comprehension,…to the attainment of right vision and knowledge,…to happiness here and now,…to realizing deliverance by wisdom and the fruition of Holiness: it is mindfulness of the body.”5 ([Location 528](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=528))
+    - Tags: [[orange]] 
+- you use the breath as an anchor to collect and unify the mind while expanding your mindfulness to an ever-greater range of experience. ([Location 536](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=536))
+    - Tags: [[orange]] 
+- You don’t try to control these sensations but simply to know them. ([Location 539](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=539))
+    - Tags: [[orange]] 
+- Developing awareness of pleasant, unpleasant, and neutral sensations and how they condition the mind is a critical factor in finding peace and well-being in your life. ([Location 542](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=542))
+    - Tags: [[orange]] 
+- After you have worked with body sensations, you are ready to work with the Third Foundation, mental events (your emotions, mental processes, and mind states), in your meditation. At first just take emotions as a field for investigation. ([Location 544](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=544))
+    - Note: more accurate is the mood of the mind. emotion is a sankhara
+- Now you are ready to examine your mental processes. You will quickly notice that the mind is almost always thinking and that much of this thinking is based on the past or future in the form of remembering, planning, fantasizing, and rehearsing. Observe each of these. ([Location 554](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=554))
+    - Tags: [[orange]] 
+- With the Fourth Foundation of Mindfulness, you see how each moment constantly changes and that most of what you take personally is actually impersonal and is not about you. ([Location 563](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=563))
+    - Tags: [[orange]] 
+- “Noting” ([Location 575](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=575))
+    - Tags: [[orange]] 
+- means that you actually feel the sensation as sensation and make a mental note that you are doing so in order to keep yourself focused. ([Location 575](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=575))
+    - Tags: [[orange]] 
+- use mental noting to keep yourself focused, ([Location 579](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=579))
+    - Tags: [[orange]] 
+- Walking meditation serves your mindfulness in many ways: It is a concentration practice that helps collect and unify your mind; it balances the energy buildup and emotional pressure that can sometimes arise in sitting meditation practice; it creates continuity of awareness; and through body-awareness you can experience insight that is just as profound as in sitting practice. ([Location 581](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=581))
+    - Tags: [[orange]] 
+- Being present or awake empowers your life. It gives you a presence that you feel and others can feel, and it opens you to the experience of being fully alive. Many ([Location 586](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=586))
+    - Tags: [[orange]] 
+- Mindfulness meditation strengthens the mind so that you can more easily be with difficult emotions or uncomfortable physical sensations that cause your mind to abandon the present moment. ([Location 590](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=590))
+    - Tags: [[pink]] 
+- Mindfulness also strengthens the nervous system such that physical and mental pains don’t have the same degree of “hurt” because the mind isn’t contracting in anticipation of more pain in the future. ([Location 591](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=591))
+    - Tags: [[orange]] 
+- Through insight you realize what brings well-being to yourself and others as well as what brings stress, discomfort, and dissatisfaction into your life. ([Location 596](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=596))
+    - Tags: [[pink]] 
+- Each insight is a direct knowing or “intuitive knowing” of the truth of your experience as contrasted with the conceptual perception, which comes from your usual way of thinking. ([Location 598](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=598))
+    - Tags: [[pink]] 
+- This direct knowing is what enables mindfulness meditation to have such impact in your life—you feel the truth of your experience, instead of conceptualizing it, reacting to it, or being lost in the past or the future. ([Location 600](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=600))
+    - Tags: [[blue]] 
+- dhamma ([Location 606](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=606))
+    - Tags: [[orange]] 
+- “truth.” ([Location 606](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=606))
+    - Tags: [[orange]] 
+- “not-self, ([Location 608](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=608))
+    - Tags: [[orange]] 
+- the realization that much of what you previously identified as “you” is actually “neither me nor mine.” ([Location 608](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=608))
+    - Tags: [[orange]] 
+- anicca, ([Location 610](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=610))
+    - Tags: [[orange]] 
+- the rapid and endlessly changing nature of all things in life. ([Location 610](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=610))
+    - Tags: [[orange]] 
+- Not-self and the constancy of change are basic characteristics of life, but the truth of them, in the sense of being life altering, can only be known through direct insight, which comes from mindfulness. ([Location 610](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=610))
+    - Tags: [[orange]] 
+- “sacred now.” ([Location 614](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=614))
+    - Tags: [[orange]] 
+- “in time” and “not in time.” ([Location 615](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=615))
+    - Tags: [[orange]] 
+- What most people discover once they start meditating is that they ordinarily spend much of their time not in the present, but lost in thoughts about the past and the future, whether planning, daydreaming, anticipating, remembering, or just spacing out. ([Location 616](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=616))
+    - Tags: [[orange]] 
+- When you are stuck in either past or future thinking, you create suffering for yourself and miss much of the actual experience of the gift of having embodied consciousness. ([Location 619](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=619))
+    - Tags: [[orange]] 
+- For instance, you go for a hike and see a beautiful sunset. At first you feel really alive and fully present as you watch the sky change colors, but then your mind starts judging and planning. You say to yourself, “I don’t do this enough. I’m too lazy, I’ve got to be more disciplined and take time for myself. Now, if I would just do this once a month. I remember taking this hike a year ago and saying I would do this more. I really need to…” On and on the mind goes. Meanwhile, you’re not actually experiencing the beauty that initially enthralled you. You have lost this moment to pointless judging, reminiscing, and fantasizing. ([Location 620](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=620))
+    - Tags: [[orange]] 
+- As shocking as it may be to realize, you spend most of your time some distance removed from what is actually happening in the present moment. You are lost in past associations, future planning, or caught in judging yourself or another. Or you’ve split from the experience and distanced yourself by conceptualizing it, constantly moving your attention, or daydreaming. This is true for body sensations, whether they’re pleasant or unpleasant, as well as all the other senses and your thoughts themselves. Most of the time you do not stay with the music or even the friend you are listening to; you don’t even stay present for your own thoughts, and certainly not your emotions. ([Location 625](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=625))
+    - Tags: [[orange]] 
+- Eliot is saying that there is only this moment in your life, and each moment is a death and rebirth. ([Location 640](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=640))
+    - Tags: [[orange]] 
+- You only exist as a string of moments and you are new and different in each moment. ([Location 641](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=641))
+    - Tags: [[pink]] 
+- To be nonattached is “to care” and “to not care” simultaneously, which can only be realized as an insight, not as a concept. ([Location 644](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=644))
+    - Tags: [[pink]] 
+- YOUR LIFE IS INSEPARABLE FROM SUFFERING ([Location 666](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=666))
+    - Tags: [[blue]] 
+- three specific insights about dukkha: ([Location 671](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=671))
+- life seems to elicit feelings of dukkha ([Location 672](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=672))
+    - Tags: [[blue]] 
+- gaining insight into your suffering ([Location 672](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=672))
+    - Tags: [[blue]] 
+- deeply accepting this truth as part of your life and that it affects how your mind reacts to all your experience. ([Location 673](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=673))
+    - Tags: [[pink]] 
+- teaching what could be achieved through a persevering and patient practice; he was not interested in teaching metaphysics. ([Location 675](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=675))
+    - Tags: [[pink]] 
+- “I teach only suffering and the end of suffering.” ([Location 680](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=680))
+    - Tags: [[pink]] 
+- Rather, he proclaimed that suffering is an unavoidable reality of ordinary human existence that is to be known and responded to wisely. ([Location 683](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=683))
+    - Tags: [[pink]] 
+- pressure to keep it going, ([Location 685](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=685))
+- anxiety that it won’t, ([Location 685](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=685))
+- wanting of “more” or “different,” ([Location 685](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=685))
+    - Tags: [[pink]] 
+- the frustration of being upset by life’s constant little traumas and challenges. ([Location 686](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=686))
+    - Tags: [[orange]] 
+- There is no lasting resting point for the unliberated mind, ([Location 686](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=686))
+    - Tags: [[orange]] 
+- only some brief moments of appreciation and immersion, and then the mind starts worrying, planning, feeling tension all over again. ([Location 687](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=687))
+- no way for any of us to escape unpleasant experiences. ([Location 690](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=690))
+    - Tags: [[orange]] 
+- an umbrella term whose true purpose is to invite you to reflect on the entire range of negative human emotional reactions. ([Location 692](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=692))
+    - Tags: [[orange]] 
+- The stress or unease that is dukkha—alienation, despair, uncertainty, lack of control, grief, frustration, fear, anger, longing—constitutes your mind and heart’s resistance to life being simply as it is. ([Location 693](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=693))
+    - Tags: [[orange]] 
+- discomfort of inhabiting a body, ([Location 695](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=695))
+    - Tags: [[orange]] 
+- There is suffering that originates from external events and the suffering you experience because of how you process those events in your own mind. ([Location 698](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=698))
+    - Tags: [[orange]] 
+- It is an objective fact that your life is filled with challenges, from illness to conflict with others to the death of loved ones. ([Location 699](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=699))
+    - Tags: [[orange]] 
+- you also have an internal experience. ([Location 702](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=702))
+    - Tags: [[orange]] 
+- It is this subjective type of suffering that the Buddha is primarily addressing in the First Noble Truth. ([Location 703](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=703))
+    - Tags: [[orange]] 
+- As you deepen your understanding of this richer and more complex meaning of dukkha, you will find opportunities for freedom and well-being that you never even knew existed. ([Location 703](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=703))
+- The First Insight empowers you to notice and investigate dukkha in your life and to be completely honest with yourself about the suffering you experience, which you may ordinarily ignore, or suppress, or blame on circumstances. ([Location 711](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=711))
+- resistance ([Location 714](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=714))
+- how much her mind suffered from all her wants, needs, and responsibilities. ([Location 719](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=719))
+    - Tags: [[orange]] 
+- in denying the dukkha in her life, she actually prevented herself from responding wisely to it. ([Location 719](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=719))
+    - Tags: [[orange]] 
+- perpetuate ([Location 720](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=720))
+    - Tags: [[orange]] 
+- consider change ([Location 721](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=721))
+    - Tags: [[pink]] 
+- personal defeat ([Location 721](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=721))
+    - Tags: [[blue]] 
+- you may strongly resist acknowledging the constancy of stress, ([Location 722](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=722))
+- uncertainty, and dissatisfaction that life inevitably brings for fear that it will diminish your self-esteem, lead to a loss of confidence or collapse, or turn you into a pessimist. ([Location 722](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=722))
+- think less of you, ([Location 724](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=724))
+- Many, maybe most, people have a conscious or unconscious bias against the idea that their suffering is noble. ([Location 726](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=726))
+    - Tags: [[blue]] 
+- Your suffering presents an opportunity for the most relevant, sophisticated, inspiring, and useful inquiry you could conduct in your life. The Buddha called the Truth of Dukkha “noble” precisely because suffering requires that which is most magnificent in you to come forth. ([Location 727](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=727))
+    - Tags: [[pink]] 
+- When restated in self-help jargon, it is easy to see the degree to which suffering has gained a bad reputation. We view it as a mistake, something shameful, or a sign of powerlessness and inadequacy. ([Location 731](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=731))
+- Our culture’s debasement of suffering represents a major loss to you. ([Location 733](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=733))
+- our culture evolved into one that is pleasure-based and ego-identified, and that emphasizes immediate gratification. ([Location 744](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=744))
+    - Tags: [[orange]] 
+- define success as your ability to control outcomes. ([Location 745](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=745))
+    - Tags: [[pink]] 
+- Today, we teach our children that if you are an effective person, you can control your life. You can get and do what you want. If you do, you win in life. This modern image portrays “winners” as people who have it all together. You are not supposed to have internal conflicts, stress, or anxiety—that means you are incompetent. You’re a loser. This was the unrecognized view of the student who kept saying that she did not suffer. ([Location 745](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=745))
+    - Tags: [[blue]] 
+- our culture teaches you to constantly judge yourself based on superficial measures: ([Location 749](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=749))
+    - Tags: [[orange]] 
+- The Buddha identified three kinds of suffering: the dukkha of physical and emotional pain; the dukkha of constant change; and the dukkha of life’s compositional nature, which creates a kind of pressure and unease that is constantly present, even in the best of times. ([Location 760](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=760))
+    - Tags: [[pink]] 
+- The first kind of dukkha is the obvious suffering caused by physical discomfort, from the minor pain of stubbing a toe, hunger, and lack of sleep, to the agony of chronic disease. It is also the emotional suffering that arises when you become frustrated that things don’t go your way, or upset about life’s injustices, or worried about money or meeting others’ expectations. Each day you have many experiences that cause you to be disappointed, anxious, and tense, from getting stuck in traffic to forgetting to complete an important task to snapping at a loved one during an argument. ([Location 762](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=762))
+    - Tags: [[pink]] 
+- suffering caused by the fact that life is constantly changing. ([Location 769](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=769))
+    - Tags: [[orange]] 
+- no moment is reliable because the next moment is always coming ([Location 773](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=773))
+    - Tags: [[blue]] 
+- the one constant in your life is change. ([Location 774](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=774))
+    - Tags: [[orange]] 
+- do you not experience an underlying unease about the future? ([Location 782](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=782))
+    - Tags: [[orange]] 
+- life’s inherent unsatisfactoriness due to its insubstantial compositional nature. ([Location 784](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=784))
+- What the Buddha is pointing to is that suffering is an experience of the mind. He’s not offering you relief from pain; he’s offering you relief from the extra mental reactivity that causes your misery. ([Location 790](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=790))
+- means “to bear” or “to carry.” ([Location 796](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=796))
+- “the sense of being pressed down,” ([Location 799](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=799))
+- “to be struck down, as by a blow.” ([Location 799](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=799))
+- In the First Insight the Buddha asks you to carry your suffering without judgment and without resistance in just this manner, to bear it with compassion and mindfulness in your heart. ([Location 802](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=802))
+- When you are overcome with resentment and aversion to suffering, your resistance is indeed an affliction. ([Location 803](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=803))
+- When you feel ashamed, depressed, and defeated by your suffering, it presses you down, causes you to contract. ([Location 804](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=804))
+    - Tags: [[orange]] 
+- But if you can learn to separate your resistance to suffering from the actual pains and difficulties in your life, an incredible transformation takes place. ([Location 805](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=805))
+    - Tags: [[pink]] 
+- You are able to meet your suffering as though you were a wagon receiving the load being placed on it. Paradoxically, the effect is that your load is lightened, and your life can roll forward, whatever its destination. ([Location 806](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=806))
+    - Tags: [[blue]] 
+- The first insight of the Truth of Dukkha is realized when you are able to distinguish between carrying the weight of your life with all its loss and pain, and collapsing underneath these difficulties. You nobly accept your suffering and acknowledge that your life is being characterized by it, despite your preference for it to be otherwise. ([Location 808](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=808))
+    - Tags: [[orange]] 
+- When you learn to be with the truth of your suffering and the suffering of those for whom you care in a mindful, compassionate manner, you are ennobled. Being able to bear your pain with dignity empowers you to examine your suffering and bring an end to it. ([Location 810](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=810))
+- “Suffering is to be known,” ([Location 822](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=822))
+    - Tags: [[orange]] 
+- Penetration occurs when you consciously choose to be mindful of the actual experience of pain, stress, and emotional distress as it manifests in your body, mind, and heart. ([Location 823](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=823))
+    - Tags: [[pink]] 
+- What we ordinarily lump together under the label “suffering” the Buddha called a “tangle,” meaning a complex of physical and emotional stimuli registering in your brain and your mind’s reaction to these stimuli. ([Location 825](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=825))
+    - Tags: [[orange]] 
+- deconstruct this tangle, ([Location 827](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=827))
+- you can’t conduct this practice as a detached observer, ([Location 827](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=827))
+    - Tags: [[orange]] 
+- in order for you to know its true nature you must be with your suffering as a lived physical experience and willingly feel the “ouch” of it in your own life. ([Location 828](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=828))
+    - Tags: [[pink]] 
+- The ancient Greeks had one word for direct or intuitive knowing, gnorizo, and another, exero, for knowing with the mind. ([Location 830](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=830))
+    - Tags: [[blue]] 
+- The breath is to be felt within the breath, the body within the body, the feelings of pleasant, unpleasant, and neutral within these feelings, the state of the mind within the actual experience of the state of the mind. ([Location 836](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=836))
+    - Tags: [[blue]] 
+- Intellectual recognition of emotional and physical discomfort or misery isn’t sufficient to penetrate suffering; you must learn to be with what I call the “felt sense” of your suffering. ([Location 842](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=842))
+    - Tags: [[orange]] 
+- When something difficult arises, the mind often wants to jump in to comment on it, or try to fix it, or move away from it—anything but stay with it. ([Location 856](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=856))
+    - Tags: [[orange]] 
+- This may seem like healthy, self-protective behavior, but the truth is that if you can’t be fully present with the difficult moments, chances are you won’t be present with the best moments of your life, either. In other words, when you work directly with your capacity for being with pain, you are also working directly with your capacity for being with joy. ([Location 857](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=857))
+    - Tags: [[pink]] 
+- “This moment is like this,” ([Location 862](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=862))
+    - Tags: [[pink]] 
+- Making “this moment is like this” a focus of your mindfulness practice can be an effective technique for understanding the difference between skillfully observing a difficult experience from within and unskillfully getting lost in the content of that experience. ([Location 863](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=863))
+    - Tags: [[orange]] 
+- Very quickly you start telling yourself a story about how difficult your life will be once you’ve lost your job, and your mind replays the story 100 times. ([Location 870](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=870))
+    - Tags: [[blue]] 
+- turn the situation into the focus of a mindful meditation inquiry and return to your actual experience, which is your physical and mental unease. ([Location 871](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=871))
+    - Tags: [[pink]] 
+- In time you will see that just being with the experience brings dramatic relief. ([Location 873](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=873))
+    - Tags: [[orange]] 
+- In all aspects of your life, you come to fully know your experience of suffering by noticing its specific qualities. Back pain may be felt as throbbing, piercing, or contracting, whatever the experience is in the moment when it is occurring. “Back pain is like this,” you tell yourself, which points to the impersonal nature of suffering. This is simply the experience that emerges when certain causes and conditions come together. ([Location 874](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=874))
+- the underlying difficulties that cause you to become angry are universal. ([Location 879](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=879))
+    - Tags: [[orange]] 
+- experience a new kind of confidence. ([Location 882](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=882))
+    - Tags: [[blue]] 
+- your suffering loses some of its power to control your life. ([Location 884](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=884))
+- anything you become identified with will burn you. ([Location 889](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=889))
+    - Tags: [[orange]] 
+- exposing yourself to the heat is how you begin the journey that will eventually put out the flames. ([Location 890](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=890))
+    - Tags: [[pink]] 
+- this state when the mind is no longer consumed by suffering as nibbana. ([Location 895](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=895))
+    - Tags: [[pink]] 
+- mindful versus reactive. ([Location 904](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=904))
+    - Tags: [[orange]] 
+- “There are two kinds of suffering: the suffering that leads to more suffering and the suffering that leads to the end of suffering.” ([Location 904](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=904))
+    - Tags: [[pink]] 
+- Being present with your dukkha is a daunting task because it means that you must abandon many of your mental defenses (including denial, rationalization, blaming, and judging) against life’s assaults. Essentially, ([Location 908](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=908))
+- the Buddha is asking you to embrace your own unease, to submit to the undeniable reality of your vulnerability in this human form, and to open your heart to the truth of life just as it is. In Buddhism, this recognition of “the way things are” is referred to as tathata or the “suchness” of the moment. ([Location 909](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=909))
+- At first, being with the suchness of your own suffering may seem a pointless, uncomfortable, indulgent, or self-pitying practice. But you’ll be surprised to discover that rather than being morose or unpleasant as most people anticipate, it is actually calming, relieving, and empowering. ([Location 912](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=912))
+    - Tags: [[orange]] 
+- Long before you find final liberation from the cause of your suffering, just learning to be with it brings enhanced peace and meaning to your life. ([Location 914](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=914))
+    - Tags: [[pink]] 
+- the Buddha identified three kinds of suffering that we should seek to bring into our awareness through direct experience. ([Location 922](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=922))
+    - Tags: [[pink]] 
+- dukkha of physical and mental pain (dukkha-dukkha); ([Location 923](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=923))
+- dukkha of constant change (viparinama-dukkha); ([Location 923](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=923))
+    - Tags: [[blue]] 
+- dukkha of life’s compositional nature (sankhara-dukkha). ([Location 924](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=924))
+    - Tags: [[pink]] 
+- Go to where the “ouch” is and observe how agitated your mind becomes or how it wants to distract itself from the awareness. ([Location 929](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=929))
+    - Tags: [[orange]] 
+- When pain is present, you first turn bare attention to it, as I described in the instructions on mindfulness. You don’t resist that it is there; instead, you become interested in it. Then if you can relieve it, you do so. ([Location 931](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=931))
+    - Tags: [[orange]] 
+- Actually, what’s happening is your mind keeps jumping back to the pain and then becomes reactive to it. ([Location 934](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=934))
+    - Tags: [[orange]] 
+- The practice of the second insight is to be with what’s difficult without being reactive, and this takes time and patience. ([Location 937](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=937))
+    - Tags: [[orange]] 
+- You also practice penetrating the dukkha of a painful emotional experience just as though it were a physical pain. You will quickly discover that all emotional pain is reflected in the body. ([Location 940](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=940))
+    - Tags: [[orange]] 
+- Everything is in a perpetual state of flux. ([Location 949](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=949))
+    - Tags: [[orange]] 
+- fearfulness of existence. ([Location 951](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=951))
+    - Tags: [[orange]] 
+- The truth of the dukkha of change goes against the ethos of modern Western culture, which promotes an unrealistic expectation that you can manage your life to be secure against unwanted change. ([Location 956](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=956))
+    - Tags: [[orange]] 
+- This false promise that you can maintain control creates an expectation that is a cause of suffering in itself, for you are bound to fail in this endeavor. Of ([Location 957](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=957))
+    - Tags: [[blue]] 
+- the difference lies in your attitude and expectations. ([Location 959](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=959))
+    - Tags: [[orange]] 
+- It is undeniably true that the circumstances that bring you the greatest joy also cause you the greatest pain when you lose them or they come to an end. ([Location 960](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=960))
+    - Tags: [[orange]] 
+- Worse still, anticipation of a possible loss lingers in your mind at all times, recognized or not. ([Location 962](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=962))
+    - Tags: [[orange]] 
+- that something more needs to be done. ([Location 963](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=963))
+    - Tags: [[pink]] 
+- all things in this life are of a conditional, ephemeral nature. ([Location 965](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=965))
+    - Tags: [[pink]] 
+- “sankharas,” ([Location 967](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=967))
+    - Tags: [[blue]] 
+- The compositional nature of life can result in even the most pleasant moments having a subtle undertone of oppressiveness, an unexplainable feeling that existence itself is burdensome. ([Location 970](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=970))
+    - Tags: [[blue]] 
+- Sometimes people describe feeling as though just being alive takes effort. ([Location 971](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=971))
+    - Tags: [[pink]] 
+- In certain meditative states of deep absorption, the mind becomes so still and subtle that you can feel this stress arise with each moment of experience, which can be quite disillusioning when you first notice it. ([Location 974](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=974))
+    - Tags: [[pink]] 
+- But keep in mind, no one—not me, nor the Buddha—is asking you to emotionally collapse into your suffering, or to act like a victim, or to spend all your time analyzing everything that happens to you. ([Location 997](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=997))
+    - Tags: [[pink]] 
+- “One should not look to be the same as, better than, or worse than,” ([Location 1003](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=1003))
+    - Tags: [[pink]] 
+- OPENING TO THE DUKKHA OF OTHERS ([Location 1006](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=1006))
+    - Tags: [[pink]] 
+- Joy and pain are opposite sides of a single coin that represents the duality of the human experience. ([Location 1023](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=1023))
+    - Tags: [[pink]] 
+- Experiencing the suffering of others encourages you to see how linked we all are. ([Location 1028](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=1028))
+    - Tags: [[pink]] 
+- life is like this— ([Location 1043](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=1043))
+    - Tags: [[pink]] 
+- The practice of knowing suffering as the Buddha teaches it does not mean feeling sorry for yourself, or becoming masochistic, or negative, or pessimistic. ([Location 1045](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=1045))
+    - Tags: [[pink]] 
+- Once you have experienced the existence of dukkha directly in your own life and the lives of those around you, then you start to see how identified and entangled you are with it. And from there, you start to untangle yourself from it, to find meaning and joy in life’s dance just as it is. ([Location 1048](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=1048))
+    - Tags: [[blue]] 
+- the call to “know that you know.” ([Location 1059](https://readwise.io/to_kindle?action=open&asin=B007SWCFM4&location=1059))
+    - Tags: [[blue]] 

@@ -1,0 +1,307 @@
+{
+  "Default": {
+    "main": {
+      "id": "f5f3432d14cecd03",
+      "type": "split",
+      "children": [
+        {
+          "id": "21abd4fdac7817cf",
+          "type": "tabs",
+          "children": [
+            {
+              "id": "093ccc45a0a31ccd",
+              "type": "leaf",
+              "state": {
+                "type": "empty",
+                "state": {}
+              }
+            }
+          ]
+        }
+      ],
+      "direction": "vertical"
+    },
+    "left": {
+      "id": "1e5304b32ceedb3b",
+      "type": "split",
+      "children": [
+        {
+          "id": "12fdb1b34cbd24fd",
+          "type": "tabs",
+          "children": [
+            {
+              "id": "de66f61808301767",
+              "type": "leaf",
+              "state": {
+                "type": "file-explorer",
+                "state": {
+                  "sortOrder": "alphabetical"
+                }
+              }
+            },
+            {
+              "id": "5fa4f44e6d0916f4",
+              "type": "leaf",
+              "state": {
+                "type": "search",
+                "state": {
+                  "query": "\"Radiant Wheet\"",
+                  "matchingCase": false,
+                  "explainSearch": true,
+                  "collapseAll": true,
+                  "extraContext": true,
+                  "sortOrder": "alphabetical"
+                }
+              }
+            },
+            {
+              "id": "2590ac8640406cd9",
+              "type": "leaf",
+              "state": {
+                "type": "bookmarks",
+                "state": {}
+              }
+            },
+            {
+              "id": "3551ccddb6258dd4",
+              "type": "leaf",
+              "state": {
+                "type": "chapters",
+                "state": {}
+              }
+            },
+            {
+              "id": "72d672d74b517acc",
+              "type": "leaf",
+              "state": {
+                "type": "empty",
+                "state": {}
+              }
+            },
+            {
+              "id": "9ab1b80c3c2cdfa2",
+              "type": "leaf",
+              "state": {
+                "type": "mk-file-view",
+                "state": {}
+              }
+            }
+          ]
+        }
+      ],
+      "direction": "horizontal",
+      "width": 469.5
+    },
+    "right": {
+      "id": "c866fc9f3fbdafa9",
+      "type": "split",
+      "children": [
+        {
+          "id": "e0e38fa9fc5d9858",
+          "type": "tabs",
+          "children": [
+            {
+              "id": "8b449104d56d1635",
+              "type": "leaf",
+              "state": {
+                "type": "outgoing-link",
+                "state": {
+                  "linksCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              }
+            },
+            {
+              "id": "eb277370c18bdb8c",
+              "type": "leaf",
+              "state": {
+                "type": "backlink",
+                "state": {
+                  "collapseAll": false,
+                  "extraContext": true,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              }
+            },
+            {
+              "id": "eff22375a113315f",
+              "type": "leaf",
+              "state": {
+                "type": "tag",
+                "state": {
+                  "sortOrder": "frequency",
+                  "useHierarchy": true
+                }
+              }
+            },
+            {
+              "id": "9d9763f40ce39b0a",
+              "type": "leaf",
+              "state": {
+                "type": "outline",
+                "state": {}
+              }
+            },
+            {
+              "id": "bc97257e6333f534",
+              "type": "leaf",
+              "state": {
+                "type": "make-context-view",
+                "state": {}
+              }
+            },
+            {
+              "id": "03e8c69df3377676",
+              "type": "leaf",
+              "state": {
+                "type": "localgraph",
+                "state": {
+                  "options": {
+                    "collapse-filter": false,
+                    "search": "",
+                    "localJumps": 1,
+                    "localBacklinks": true,
+                    "localForelinks": true,
+                    "localInterlinks": true,
+                    "showTags": true,
+                    "showAttachments": true,
+                    "hideUnresolved": true,
+                    "collapse-color-groups": false,
+                    "colorGroups": [
+                      {
+                        "query": "Body",
+                        "color": {
+                          "a": 1,
+                          "rgb": 5984992
+                        }
+                      },
+                      {
+                        "query": "Feeling",
+                        "color": {
+                          "a": 1,
+                          "rgb": 14701138
+                        }
+                      },
+                      {
+                        "query": "Mind",
+                        "color": {
+                          "a": 1,
+                          "rgb": 168960
+                        }
+                      },
+                      {
+                        "query": "Phenomena",
+                        "color": {
+                          "a": 1,
+                          "rgb": 14606418
+                        }
+                      }
+                    ],
+                    "collapse-display": false,
+                    "showArrow": false,
+                    "textFadeMultiplier": 0,
+                    "nodeSizeMultiplier": 1,
+                    "lineSizeMultiplier": 1,
+                    "collapse-forces": false,
+                    "centerStrength": 0.494791666666667,
+                    "repelStrength": 11.7708333333333,
+                    "linkStrength": 0.786458333333333,
+                    "linkDistance": 250,
+                    "scale": 0.6372987299011715,
+                    "close": true
+                  }
+                }
+              }
+            },
+            {
+              "id": "c8949cd05ea41b50",
+              "type": "leaf",
+              "state": {
+                "type": "all-properties",
+                "state": {
+                  "sortOrder": "frequency"
+                }
+              }
+            },
+            {
+              "id": "de9f90173a0fac42",
+              "type": "leaf",
+              "state": {
+                "type": "calendar",
+                "state": {}
+              }
+            },
+            {
+              "id": "d0cbca9d825a31e7",
+              "type": "leaf",
+              "state": {
+                "type": "goal",
+                "state": {}
+              }
+            },
+            {
+              "id": "9f63e0829da28242",
+              "type": "leaf",
+              "state": {
+                "type": "FANTASY_CALENDAR",
+                "state": {}
+              }
+            },
+            {
+              "id": "69e0a69c908b1341",
+              "type": "leaf",
+              "state": {
+                "type": "tasks_timeline_view",
+                "state": {}
+              }
+            },
+            {
+              "id": "f35046ded6670f39",
+              "type": "leaf",
+              "state": {
+                "type": "smart-connections-view",
+                "state": {}
+              }
+            },
+            {
+              "id": "9c145051cc6a65d8",
+              "type": "leaf",
+              "state": {
+                "type": "smart-connections-chat-view",
+                "state": {}
+              }
+            }
+          ],
+          "currentTab": 4
+        }
+      ],
+      "direction": "horizontal",
+      "width": 476.5
+    },
+    "left-ribbon": {
+      "hiddenItems": {
+        "markdown-importer:Open format converter": false,
+        "companion:Toggle completion": false,
+        "switcher:Open quick switcher": false,
+        "fantasy-calendar:Open Large Fantasy Calendar": false,
+        "daily-notes:Open today's daily note": false,
+        "templates:Insert template": false,
+        "graph:Open graph view": false,
+        "canvas:Create new canvas": false,
+        "command-palette:Open command palette": false,
+        "templater-obsidian:Templater": false,
+        "workspaces:Manage workspace layouts": false,
+        "obsidian42-text-transporter:Obsidian42 - Text Transporter": false,
+        "obsidian-extract-pdf-highlights:PDF Highlights": false,
+        "obsidian-excalidraw-plugin:Create new drawing": false,
+        "obsidian-importer:Open Importer": false,
+        "obsidian-ocr:Search OCR": false
+      }
+    },
+    "active": "de66f61808301767"
+  }
+}

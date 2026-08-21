@@ -1,0 +1,264 @@
+# A Comprehensive Manual of Abhidhamma
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/418zhDwqzzL._SL200_.jpg)
+
+## Metadata
+- Author: [[Bhikkhu Bodhi (Editor)]]
+- Full Title: A Comprehensive Manual of Abhidhamma
+- Category: #books
+
+## Highlights
+- Such a person cannot see the ultimate realities because his mind is obscured by concepts, ([Location 1171](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1171))
+- (yoniso manasikāra) ([Location 1172](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1172))
+    - Tags: [[blue]] 
+- five aggregates (pañcakkhandhā): ([Location 1176](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1176))
+- matter, ([Location 1176](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1176))
+    - Tags: [[blue]] 
+- feeling, ([Location 1176](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1176))
+    - Tags: [[pink]] 
+- perception, ([Location 1176](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1176))
+    - Tags: [[orange]] 
+- mental formations, ([Location 1176](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1176))
+- consciousness. ([Location 1176](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1176))
+    - Tags: [[blue]] 
+- The first three—consciousness, mental factors, and matter—comprise all conditioned realities. ([Location 1177](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1177))
+- fifty-two mental factors: ([Location 1182](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1182))
+    - Tags: [[blue]] 
+- the aggregate of mental formations (sankhārakkhandha) of the Suttas is finely subdivided into fifty mental factors. ([Location 1182](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1182))
+    - Tags: [[pink]] 
+- The aggregate of matter is, of course, identical with the Abhidhamma category of matter, which will later be divided into twenty-eight types of material phenomena. ([Location 1183](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1183))
+    - Tags: [[orange]] 
+- Thus in the Abhidhamma philosophy there are altogether these four ultimate realities: consciousness, mental factors, matter, and Nibbāna. ([Location 1186](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1186))
+- Consciousness is taken up for study first because the focus of the Buddhist analysis of reality is experience, ([Location 1193](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1193))
+    - Tags: [[blue]] 
+- and consciousness is the principal element in experience, ([Location 1193](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1193))
+- that which constitutes the knowing or awareness of an object. ([Location 1194](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1194))
+    - Tags: [[orange]] 
+- citta ([Location 1195](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1195))
+    - Tags: [[blue]] 
+- to cognize, to know. ([Location 1195](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1195))
+- agent, ([Location 1196](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1196))
+    - Tags: [[orange]] 
+- instrument, ([Location 1196](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1196))
+    - Tags: [[pink]] 
+- activity. ([Location 1196](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1196))
+    - Tags: [[blue]] 
+- cognizes an object ([Location 1196](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1196))
+    - Tags: [[orange]] 
+- means of which the accompanying mental factors cognize the object ([Location 1197](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1197))
+    - Tags: [[pink]] 
+- process of cognizing the object ([Location 1198](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1198))
+    - Tags: [[blue]] 
+- The third definition, in terms of sheer activity, is regarded as the most adequate of the three: ([Location 1199](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1199))
+- citta is fundamentally an activity or process of cognizing or knowing an object. ([Location 1199](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1199))
+    - Tags: [[orange]] 
+- it is not a self that performs the act of cognition, but citta or consciousness. ([Location 1202](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1202))
+    - Tags: [[pink]] 
+- consciousness cannot arise alone, in the complete absence of mental factors and material phenomena. ([Location 1272](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1272))
+    - Tags: [[blue]] 
+- What we ordinarily think of as consciousness is really a series of cittas, momentary acts of consciousness, occurring in such rapid succession that we cannot detect the discrete occasions, which are of diverse types. ([Location 1275](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1275))
+- The Abhidhamma not only distinguishes the types of consciousness, but more importantly, it also exhibits them as ordered into a cosmos, a unified and closely interwoven whole. ([Location 1277](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1277))
+    - Tags: [[orange]] 
+- plane (bhūmi) of consciousness. ([Location 1279](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1279))
+    - Tags: [[pink]] 
+- spheres of consciousness are categories for classifying types of cittas, ([Location 1284](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1284))
+    - Tags: [[blue]] 
+- the planes of existence are realms or worlds into which beings are reborn and in which they pass their lives. ([Location 1284](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1284))
+- kāmabhūmi ([Location 1295](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1295))
+    - Tags: [[blue]] 
+- rūpajjhānas. ([Location 1300](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1300))
+- they are usually attained in meditation by concentrating on a material object (rūpa), which may be a device such as the earth-kasina, etc. (see IX, §6) or the parts of one’s own body, etc. ([Location 1301](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1301))
+    - Tags: [[orange]] 
+- arūpajjhānas. ([Location 1306](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1306))
+    - Tags: [[pink]] 
+- When one meditates to attain the formless meditative states beyond the rūpajjhānas, one must discard all objects connected with material form and focus upon some non-material object, such as the infinity of space, etc. ([Location 1307](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1307))
+    - Tags: [[pink]] 
+- loka = world, ([Location 1310](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1310))
+    - Tags: [[blue]] 
+- “world” is threefold: ([Location 1311](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1311))
+- living beings ([Location 1311](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1311))
+    - Tags: [[orange]] 
+- physical universe ([Location 1312](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1312))
+    - Tags: [[pink]] 
+- world of formations ([Location 1312](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1312))
+    - Tags: [[blue]] 
+- kind or nature (jāti). ([Location 1319](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1319))
+    - Tags: [[blue]] 
+- nature, ([Location 1320](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1320))
+    - Tags: [[blue]] 
+- unwholesome, ([Location 1320](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1320))
+- wholesome, ([Location 1320](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1320))
+    - Tags: [[orange]] 
+- resultant, ([Location 1320](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1320))
+    - Tags: [[pink]] 
+- functional. ([Location 1320](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1320))
+    - Tags: [[blue]] 
+- Unwholesome ([Location 1320](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1320))
+- roots—greed, hatred, and delusion. ([Location 1321](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1321))
+- Wholesome ([Location 1322](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1322))
+    - Tags: [[orange]] 
+- roots—non-greed or generosity, non-hatred or loving-kindness, and non-delusion or wisdom. ([Location 1323](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1323))
+    - Tags: [[orange]] 
+- cittas or states of consciousness that arise through the ripening of kamma ([Location 1325](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1325))
+    - Tags: [[pink]] 
+- It should be understood that both kamma and its results are purely mental. ([Location 1327](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1327))
+    - Tags: [[blue]] 
+- kiriya ([Location 1330](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1330))
+    - Tags: [[blue]] 
+- This type of consciousness is neither kamma nor kamma resultant. It involves activity, yet this activity is not kammically determinate and thus is not capable of producing kammic results. ([Location 1330](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1330))
+    - Tags: [[blue]] 
+- Greed and hatred, ([Location 1355](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1355))
+    - Tags: [[blue]] 
+- are mutually exclusive: they cannot coexist within the same citta. ([Location 1355](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1355))
+    - Tags: [[blue]] 
+- All consciousness is accompanied by some feeling, ([Location 1369](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1369))
+    - Tags: [[blue]] 
+- adukkhamasukhā ([Location 1377](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1377))
+- vedanā, ([Location 1377](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1377))
+- Wrong view accompanies the consciousness rooted in greed as a conviction, belief, opinion or rationalization. ([Location 1381](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1381))
+    - Tags: [[orange]] 
+- presence or absence of prompting. ([Location 1388](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1388))
+- This prompting may be imposed by others, or it may originate from within oneself; ([Location 1390](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1390))
+- bodily, ([Location 1390](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1390))
+    - Tags: [[orange]] 
+- verbal, ([Location 1390](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1390))
+    - Tags: [[pink]] 
+- purely mental. ([Location 1390](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1390))
+    - Tags: [[blue]] 
+- The instigation is bodily when someone induces us by bodily means to give rise to particular types of consciousness which may issue in corresponding actions. ([Location 1390](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1390))
+- It is verbal when the means employed is another’s command or power of persuasion. ([Location 1392](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1392))
+    - Tags: [[orange]] 
+- And it is mental when, either by reflection or the determination of the will, we make a deliberate endeavour, despite inner resistance, to generate certain types of consciousness. ([Location 1392](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1392))
+    - Tags: [[pink]] 
+- consciousness which arises spontaneously, without prompting or inducement by expedient means, is called unprompted. ([Location 1394](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1394))
+- In contrast to consciousness rooted in greed, which can arise with alternative types of feeling—either joy or equanimity—consciousness rooted in hatred arises with only one kind of feeling, that of displeasure. ([Location 1405](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1405))
+    - Tags: [[blue]] 
+- The feeling that accompanies states of consciousness rooted in hatred is displeasure. ([Location 1409](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1409))
+- displeasure, or unpleasant mental feeling, is always unwholesome; ([Location 1412](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1412))
+    - Tags: [[orange]] 
+- in this respect it differs from unpleasant bodily feeling, which is kammically indeterminate, ([Location 1412](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1412))
+    - Tags: [[pink]] 
+- “striking against,” ([Location 1416](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1416))
+    - Tags: [[orange]] 
+- a mental attitude of resistance, rejection, or destruction. ([Location 1416](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1416))
+    - Tags: [[orange]] 
+- There are two types of consciousness in which delusion is especially prominent: ([Location 1433](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1433))
+    - Tags: [[blue]] 
+- doubt, ([Location 1434](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1434))
+- restlessness. ([Location 1434](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1434))
+    - Tags: [[orange]] 
+- when the mind is obsessed by doubt or restlessness, it is not capable of forming a determinate positive or negative evaluation of the object, and thus cannot be associated with either pleasant or painful feeling. ([Location 1437](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1437))
+    - Tags: [[pink]] 
+- Rootless functional consciousness ([Location 1531](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1531))
+    - Tags: [[orange]] 
+- They belong to the category called kiriya, rendered here as “functional” to indicate that they perform tasks which do not have any kammic potency. ([Location 1532](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1532))
+- Five-sense-door adverting consciousness ([Location 1535](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1535))
+    - Tags: [[orange]] 
+- This consciousness does not see, hear, smell, taste, or touch the object. It simply turns to the object, thereby enabling the sense consciousness to arise in immediate succession. ([Location 1538](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1538))
+    - Tags: [[blue]] 
+- determining consciousness. ([Location 1542](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1542))
+    - Tags: [[blue]] 
+- determining consciousness succeeds the investigating consciousness. ([Location 1543](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1543))
+    - Tags: [[pink]] 
+- Smile-producing consciousness ([Location 1547](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1547))
+    - Tags: [[pink]] 
+- Its function is to cause Arahants to smile about sense-sphere phenomena. ([Location 1548](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1548))
+    - Tags: [[orange]] 
+- First jhāna wholesome consciousness together with initial application, sustained application, zest, happiness, and one-pointedness. ([Location 1691](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1691))
+- Second jhāna wholesome consciousness together with sustained application, zest, happiness, and one-pointedness. ([Location 1693](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1693))
+    - Tags: [[blue]] 
+- Third jhāna wholesome consciousness together with zest, happiness, and one-pointedness. ([Location 1694](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1694))
+    - Tags: [[pink]] 
+- Fourth jhāna wholesome consciousness together with happiness and one-pointedness. ([Location 1695](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1695))
+- Fifth jhāna wholesome consciousness together with equanimity and one-pointedness. ([Location 1696](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1696))
+    - Tags: [[blue]] 
+- gross matter is absent ([Location 1725](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1725))
+- only a subtle residue of matter remains. ([Location 1725](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1725))
+- The wholesome fine-material-sphere cittas are experienced by worldlings and trainees (sekkha) who develop the jhānas within this life itself. ([Location 1729](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1729))
+- Their corresponding results (vipāka) arise only in the fine-material world, in the beings who have been reborn there as a consequence of developing the jhānas. ([Location 1730](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1730))
+    - Tags: [[blue]] 
+- The five functional (kriyā) jhāna cittas are experienced only by Arahants who attain the jhānas. ([Location 1731](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1731))
+    - Tags: [[pink]] 
+- Thus the jhānas are so called because they closely contemplate the object and because they burn up the adverse states opposed to concentration.5 ([Location 1735](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1735))
+- The adverse states are the five hindrances (nīvaraṇa) of sensual desire, ill will, sloth and torpor, restlessness and worry, and doubt. ([Location 1737](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1737))
+    - Tags: [[blue]] 
+- The jhānas are attained by the method of meditation called the development of calm or serenity (samathabhāvanā). ([Location 1738](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1738))
+    - Tags: [[pink]] 
+- This type of meditation involves the strengthening of the faculty of concentration (samādhi). ([Location 1739](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1739))
+    - Tags: [[orange]] 
+- By fixing the mind upon a single selected object, all mental distraction is eliminated. ([Location 1739](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1739))
+- The hindrances are suppressed and the mind becomes fully absorbed in its object. ([Location 1740](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1740))
+    - Tags: [[blue]] 
+- Zest (pīti): Pīti, derived from the verb pīnayati meaning “to refresh,” may be explained as delight or pleasurable interest in the object. The term is often translated as rapture, a rendering which fits its role as a jhāna factor but may not be wide enough to cover all its nuances.8 The commentators distinguish five grades of pīti that arise when developing concentration: minor zest, momentary zest, showering zest, uplifting zest, and pervading zest. Minor zest is able to raise the hairs on the body. Momentary zest is like flashes of lightning. Showering zest breaks over the body again and again like waves on the sea shore. Uplifting zest can cause the body to levitate. And pervading zest pervades the whole body as an inundation fills a cavern. The latter is identified as the pīti present in jhāna.9 As a factor of jhāna pīti inhibits the hindrance of ill will (vyāpāda). ([Location 1766](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1766))
+- Pīti is compared to the delight a weary traveller would experience when coming across an oasis, sukha to his pleasure after bathing and drinking.10 ([Location 1780](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1780))
+    - Tags: [[blue]] 
+- wholesome cittas, ([Location 1811](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1811))
+- resultants, ([Location 1811](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1811))
+    - Tags: [[blue]] 
+- functionals. ([Location 1811](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1811))
+    - Tags: [[pink]] 
+- The mental factors cannot arise without citta, nor can citta arise completely segregated from the mental factors. ([Location 2095](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=2095))
+- method of association ([Location 2102](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=2102))
+    - Tags: [[blue]] 
+- method of combination or inclusion ([Location 2104](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=2104))
+    - Tags: [[pink]] 
+- seventeen mind-moments. ([Location 2113](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=2113))
+    - Tags: [[orange]] 
+- there are two material phenomena—bodily intimation and vocal intimation2—which arise and cease together with consciousness. ([Location 2114](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=2114))
+- all mental phenomena experience an object, ([Location 2117](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=2117))
+    - Tags: [[blue]] 
+- co-arisen citta and cetasikas experience the same object, ([Location 2117](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=2117))
+- material phenomena do not experience any object at all. ([Location 2118](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=2118))
+    - Tags: [[orange]] 
+- in those realms in which the aggregate of material form is found, i.e. in the sensuous world and the fine-material world, the citta and its cetasikas have the same physical base, that is, they arise with the common support of either one of the material sense organs or the heart-base.3 ([Location 2119](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=2119))
+    - Tags: [[blue]] 
+- Though citta experiences objects, citta in turn can become an object. It should be noted that a citta in its immediacy cannot become its own object, for the cognizer cannot cognize itself; but a citta in an individual mental continuum can experience earlier cittas in that same continuum as well as the cittas of other beings. ([Location 3153](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=3153))
+- calm ([Location 6270](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=6270))
+- insight. ([Location 6270](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=6270))
+    - Tags: [[blue]] 
+- samatha is defined as the one-pointedness of mind ([Location 6277](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=6277))
+- in the eight meditative attainments—the four fine-material-sphere jhānas of the Suttanta system (five in the Abhidhamma system) and the four immaterial-sphere jhānas. ([Location 6278](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=6278))
+    - Tags: [[blue]] 
+- Insight is the direct meditative perception of phenomena in terms of the three characteristics—impermanence, suffering, and non-self. ([Location 6282](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=6282))
+- forty separate meditation subjects, ([Location 6292](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=6292))
+- The three stages of mental development are: ([Location 6305](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=6305))
+- preliminary development, ([Location 6305](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=6305))
+    - Tags: [[blue]] 
+- access development, ([Location 6305](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=6305))
+    - Tags: [[pink]] 
+- absorption development. ([Location 6305](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=6305))
+    - Tags: [[orange]] 
+- Preliminary development occurs from the time one begins the practice of meditation up to the time the five hindrances are suppressed and the counterpart sign emerges. ([Location 6306](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=6306))
+    - Tags: [[blue]] 
+- Access development occurs when the five hindrances become suppressed and the counterpart sign emerges. It endures from the moment the counterpart sign arises up to the change-of-lineage citta (gotrabhū) in the cognitive process culminating in jhāna. ([Location 6307](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=6307))
+    - Tags: [[pink]] 
+- The citta that immediately follows change-of-lineage is called absorption. This marks the beginning of absorption development, which occurs at the level of the fine-material-sphere jhānas or the immaterial-sphere jhānas. ([Location 6309](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=6309))
+    - Tags: [[orange]] 
+- mindfulness occupied with the body, ([Location 6347](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=6347))
+- mindfulness of breathing. ([Location 6347](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=6347))
+    - Tags: [[blue]] 
+- The recollection of death is contemplation of the fact that one’s own death is absolutely certain, that the arrival of death is utterly uncertain, and that when death comes one must relinquish everything. ([Location 6360](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=6360))
+    - Tags: [[pink]] 
+- Mindfulness occupied with the body is contemplation of the thirty-two repulsive parts of the body—hairs of the head, hairs of the body, nails, teeth, skin, flesh, sinews, bones, marrow, etc. ([Location 6362](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=6362))
+    - Tags: [[blue]] 
+- Mindfulness of breathing is attentiveness to the touch sensation of the in-breath and out-breath in the vicinity of the nostrils or upper lip, wherever the air is felt striking as one breathes in and out. ([Location 6364](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=6364))
+- Having emerged from the fifth jhāna, etc.: The Visuddhimagga explains the procedure for exercising the direct knowledges thus: “(After accomplishing the preliminaries) he attains jhāna as the basis for direct knowledge and emerges from it. Then if he wants to become a hundred,3 he does the preliminary work thus, ‘Let me become a hundred,’ after which he again attains jhāna as the basis for direct knowledge, emerges, and resolves. He becomes a hundred simultaneously with the resolving consciousness” (XII,57). ([Location 6494](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=6494))
+- The direct knowledges are fivefold: (1) Supernormal powers include the ability to display multiple forms of one’s body, to appear and vanish at will, to pass through walls unhindered, to dive in and out of the earth, to walk on water, to travel through the air, to touch and stroke the sun and moon, and to exercise mastery over the body as far as the Brahma-world. ([Location 6498](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=6498))
+    - Tags: [[blue]] 
+- §30 Purification of View Lakkhaṇa-rasa-paccupaṭṭhāna-padaṭṭhāna-vasena nāmarūpapariggaho diṭṭhivisuddhi nāma. Purification of view is the discernment of mind and matter with respect to their characteristics, functions, manifestations, and proximate causes. Guide to §30 Purification of view is so called because it helps to purify one of the wrong view of a permanent self. This purification is arrived at in the course of meditation by discerning the personality as a compound of mental and material factors which occur interdependently, without any controlling self within or behind them. This stage is also called the analytical knowledge of mind-and-matter (nāmarūpavavatthānañāṇa) because the mental and material phenomena are distinguished by way of their characteristics, etc. ([Location 6611](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=6611))
+## New highlights added August 12, 2023 at 12:06 PM
+- According to the Abhidhamma philosophy, there are two kinds of realities—the conventional (sammuti) and the ultimate (paramattha). ([Location 1152](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1152))
+    - Tags: [[pink]] 
+- Conventional realities are the referents of ordinary conceptual thought (paññatti) and conventional modes of expression (vohāra). ([Location 1153](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1153))
+    - Tags: [[orange]] 
+- They include such entities as living beings, persons, men, women, animals, and the apparently stable persisting objects that constitute our unanalyzed picture of the world. ([Location 1154](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1154))
+    - Tags: [[orange]] 
+- The Abhidhamma philosophy maintains that these notions do not possess ultimate validity, for the objects which they signify do not exist in their own right as irreducible realities. ([Location 1156](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1156))
+- Their mode of being is conceptual, not actual. ([Location 1157](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1157))
+    - Tags: [[blue]] 
+- They are products of mental construction (parikappanā), not realities existing by reason of their own nature. ([Location 1157](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1157))
+    - Tags: [[pink]] 
+- Ultimate realities, in contrast, are things that exist by reason of their own intrinsic nature (sabhāva). ([Location 1158](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1158))
+    - Tags: [[orange]] 
+- Although ultimate realities exist as the concrete essences of things, they are so subtle and profound that an ordinary person who lacks training cannot perceive them. ([Location 1170](https://readwise.io/to_kindle?action=open&asin=B00AA33F5O&location=1170))
+    - Tags: [[orange]] 

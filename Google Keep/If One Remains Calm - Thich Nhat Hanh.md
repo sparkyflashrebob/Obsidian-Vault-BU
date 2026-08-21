@@ -1,0 +1,2 @@
+
+Vietnamese Zen master Thich Nhat Hanh: “When the crowded Vietnamese refugee boats met with storms or pirates, if everyone panicked all would be lost. But if even one person on the boat remained calm and centered, it was enough. It showed the way for everyone to survive.”

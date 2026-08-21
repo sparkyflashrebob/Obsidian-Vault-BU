@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">773</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">162abb02-aeef-4390-8988-5a1e603545cb</dc:identifier>
+        <dc:title>The Mind Like Fire Unbound: An Image in the Early Buddhist Discourses</dc:title>
+        <dc:creator opf:file-as="Bhikkhu, Thanissaro" opf:role="aut">Thanissaro Bhikkhu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.9.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-04-11T07:00:00+00:00</dc:date>
+        <dc:description>Western Buddhists have traditionally understood the Buddha's metaphor of 'nibbana' ('nirvana') as 'extinguishing' or 'extinction'. This book, which includes an essay and readings from the Pali Canon, examines the ancient Indian understanding of the physical workings of fire in order to understand the Buddha's metaphor of nibbana in its original context.</dc:description>
+        <dc:publisher>Metta Forest Monastery</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Pali Canon</dc:subject>
+        <dc:subject>Nibbana</dc:subject>
+        <dc:subject>Nirvana</dc:subject>
+        <dc:subject>Buddha</dc:subject>
+        <dc:subject>Buddhist</dc:subject>
+        <dc:subject>Buddhism</dc:subject>
+        <dc:subject>Theravada</dc:subject>
+        <dc:subject>Dhamma</dc:subject>
+        <dc:subject>Dharma</dc:subject>
+        <meta content="{&quot;Thanissaro Bhikkhu&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-01-29T04:32:17.458000+00:00" name="calibre:timestamp"/>
+        <meta content="Mind Like Fire Unbound: An Image in the Early Buddhist Discourses, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

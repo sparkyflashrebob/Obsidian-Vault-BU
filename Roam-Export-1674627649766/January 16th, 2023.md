@@ -1,0 +1,28 @@
+- [[January 16th, 2023]] at 07:18
+    - Andy'Dharma what we say
+        - what we feel , what want to be we say
+        - may not align with our actions
+    - 
+- [[January 16th, 2023]] at 07:20
+    - [[Random Thoughts]]Free the  p****, the penis, or whatever you want to call it
+        - Random thought in my head
+- [[January 16th, 2023]] at 10:21
+    - Marketing of thoughts and ideas
+- [[January 16th, 2023]] at 10:22
+    - Laying can't claim to thought as our original thoughts
+- [[January 16th, 2023]] at 10:23
+    - [[Dalai Lama]] Me Anxiety Altruism Reduced Anxiety
+        -  https://www.instagram.com/reel/CkJMdG6hj0x/?igshid=NTU1Mzc3ZGM=
+            - Myself centered self 
+            - me, me me
+            - then anxiety
+            - the antidote to self centerness is altruism 
+            - important factor for physical health
+            - nothing special
+            - if I focus on I am Tibetan, I am Buddhist, I am Dalai Lama. 
+            - then we isolate ourselves
+            - more anxiety
+            - altruism automatically reduces anxiety
+            - 
+- [[January 16th, 2023]] at 10:25
+    - [[Andy's Insights on Dharma]] story of the club foot black bird

@@ -1,0 +1,31 @@
+---
+aliases:
+  - VQ packing list  - 09/23
+---
+
+
+- Tent
+- Camping cot
+- Sleeping pad
+- Sleeping bag
+- Camp pillow & extra blanket (Pendleton)
+- Flashlights & knife
+- Water (2 2.5 gal containers) and metal cup / Tupperware & washcloth / baby wipes
+- Water bottle & backpack
+- Electrolytes for basecamp
+- Masks in case of poor air
+- Toiletries
+- Warm clothes for night time
+- Hats & sunscreen / sunglasses
+- Hiking poles & hiking boots
+- Folding chair 
+- Blanket and medicines for altar
+- Drum & rattles
+- Pipe & tobacco for prayer
+- Binoculars
+- Advil and medications
+- TP and garbage bags
+- Towel & TEVA water shoes
+- Pacemaker charger
+- Jacket, rain poncho and wool pullover
+- Cell phone charging cord and battery from Prius

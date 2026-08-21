@@ -1,0 +1,222 @@
+---
+tags:
+  - bee-reports
+  - daily-notes
+  - daily-operations
+  - logging
+  - obsidian
+  - workflow
+  - workflow-logging
+  - bee-nlm-report
+  - krisp-daily-summary
+---
+
+# Standing Up Against Injustice, Understanding Self-Honesty Through Perceptual Bias, and Plugin version compatibility troubleshooting
+
+📅 **Date**: Monday, July 20, 2026 (2026-07-20)
+👥 **Attendees**: Andrea (Wife), Andy
+📊 **Total Bee Conversations Processed**: 14
+
+---
+
+## 📌 Executive & Core Topics Overview
+- **Core Topics**: #daily-operations
+- **Entities & Terms**: *(None specified)*
+- **Key Actions**: #workflow-logging
+- **Keywords**: #bee-reports, #daily-notes, #logging, #obsidian, #workflow
+
+---
+
+## 📅 Google Calendar Events Today
+- *No scheduled busy events for today.*
+
+---
+
+## 📧 Gmail Activity Log
+- *No outgoing sent email replies or correspondence recorded today.*
+
+---
+
+## 🌅 Your Day Ahead Email Brief
+- **Subject**: `💌 Your Day Ahead 07/20/2026` (7:00 AM)
+
+> ...
+> 
+> ---
+> CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact labs-cc-support@google.com or disconnect here: https://myaccount.google.com/connections#:~:text=CC
+
+---
+
+## 💡 Key Points, Subjects and Themes
+- **Standing Up Against Injustice**: Recorded and processed during today's transcript sessions.
+- **Understanding Self-Honesty Through Perceptual Bias**: Recorded and processed during today's transcript sessions.
+- **Plugin version compatibility troubleshooting**: Recorded and processed during today's transcript sessions.
+- **Podcast intro video development**: Recorded and processed during today's transcript sessions.
+- **Logo replacement for video branding**: Recorded and processed during today's transcript sessions.
+- **Video Playback Control Technical Support**: Recorded and processed during today's transcript sessions.
+- **Troubleshooting OBS video editing issues**: Recorded and processed during today's transcript sessions.
+- **Gemini Logo Replacement Quota Exhausted**: Recorded and processed during today's transcript sessions.
+- **Video Editing Logo Replacement Problems**: Recorded and processed during today's transcript sessions.
+- **College Football, Food, Immigration, Equity**: Recorded and processed during today's transcript sessions.
+- **Creating YouTube video template**: Recorded and processed during today's transcript sessions.
+- **Therapeutic session and tech learning**: Recorded and processed during today's transcript sessions.
+- **AI Image Editing Session**: Recorded and processed during today's transcript sessions.
+- **Andy's reaction to news events**: Recorded and processed during today's transcript sessions.
+
+---
+
+## 📖 Detailed Subject Matter
+#### Standing Up Against Injustice (8:48 AM – 9:10 AM)
+Andy engaged in an extensive personal storytelling session, sharing multiple experiences from his life focused on themes of standing up for others and intervening in dangerous situations. He began by describing a dream he had about being in the mountains, then moved into more serious childhood memories including his sister Shelly being molested when he was six years old at 42nd and Grove. He shared a frightening high school incident where he was nearly assaulted by an older student who lured him to buy records but then tried to put boots on him - Andy escaped by running all the way from East Oakland to West Oakland in the middle of the night. Throughout his work experiences, particularly in dining services at colleges, Andy consistently intervened when he saw people being mistreated, including defending a Black woman from harassment and standing up for others in various public situations. His stories revealed a consistent pattern of taking action when witnessing injustice, even at personal risk.
+
+#### Understanding Self-Honesty Through Perceptual Bias (11:07 AM – 11:14 AM)
+Andy was engaged in creating educational content about stoic philosophy, specifically focusing on "the architecture of self-honesty." He delivered a structured teaching session exploring how individuals can honestly examine themselves by moving beyond personal narratives toward direct present-moment experience. The content emphasized recognizing how everyone perceives reality through their own biased lenses. This appears to be part of Andy's educational or content creation activities, possibly for a podcast, video series, or teaching material.
+
+#### Plugin version compatibility troubleshooting (12:32 PM – 12:44 PM)
+Andy was troubleshooting a technical issue with OBS Studio and Stream Deck software compatibility. He reported that OBS Studio's plugin version 5.4.2 was not properly communicating with the Stream Deck plugin version 3.x. The conversation indicated this was related to a team streaming setup (team Twitcher) and Andy was experiencing limited screenshot options on his Stream Deck mobile app.
+
+#### Podcast intro video development (1:24 PM – 1:35 PM)
+Andy is working on creating a YouTube podcast intro video for his show "Head and Heart Together." He met with someone (likely a designer or video editor) to discuss developing video options that incorporate his existing logo. The conversation focused on customizing the video to use his personal logo rather than a generic video logo.
+
+#### Logo replacement for video branding (1:35 PM – 1:49 PM)
+Andy was multitasking while consuming media content from a show called "Head and Heart Together." During this session, he was simultaneously working on video editing tasks, specifically focusing on replacing graphics and logos at the end of the video. He made three distinct editing requests: replacing a revealing graphic with the show's logo, replacing an end video logo, and requesting a transparent version of the final logo. The media content appeared to be educational or discussion-based programming with a focus on intellectual and emotional integration.
+
+#### Video Playback Control Technical Support (2:01 PM – 2:14 PM)
+Andy was listening to the "Head and Heart" podcast while simultaneously troubleshooting technical issues with video playback functionality. He was experiencing problems with DLC (Downloadable Content) where he wanted more control over video timing - specifically requesting the ability to pause videos at the very end to prevent them from going to black, and to have videos load in a paused state at the beginning. He also has a birthday reminder set up for Capri Ann Atton's birthday on July 20th.
+
+#### Troubleshooting OBS video editing issues (2:15 PM – 2:46 PM)
+Andy was working on video creation and editing technical issues while background media (a "Head and Heart Together" podcast intro) played in his environment. He was experiencing multiple technical problems including microphone setup questions, OBS software functionality issues, and video editing constraints where he couldn't change graphics at the end of his videos despite using a paid plan that had reached its quota limit. The conversation involved troubleshooting these content creation challenges, with Andy attempting to create a video with a specific prompt while dealing with software limitations and technical frustrations.
+
+#### Gemini Logo Replacement Quota Exhausted (2:47 PM – 3:01 PM)
+Andy was working through technical issues with his video editing workflow, specifically dealing with Google Gemini AI quota limitations and CapCut logo replacement functionality. While some background media was playing (appears to be a podcast or radio show about "head and heart together"), Andy was troubleshooting how to replace a logo that was incorrectly generated by Gemini at the end of one of his videos. He had prepared a custom logo for replacement but was blocked by quota restrictions that prevented him from making the desired changes.
+
+#### Video Editing Logo Replacement Problems (3:06 PM – 3:56 PM)
+This conversation captures Andy's tech support needs and wellness-focused daily routines. The primary focus is on video editing challenges with CapCut software, where Andy seeks help with overlay functions and logo replacement in his projects. He expresses particular frustration with AI guidance that he feels has led him "down the wrong path" during his editing process.
+
+In personal exchanges, Andy discusses re-establishing morning and evening walking routines, mentioning he walked earlier and is trying to get back into that groove. He demonstrates body awareness when noting someone's "pain body" issues and discusses the timing of walks in relation to dinner.
+
+#### College Football, Food, Immigration, Equity (4:00 PM – 4:46 PM)
+The conversation was a casual, multi-topic discussion covering college football coaching changes at Cal, food preferences and restaurant memories (particularly recalling a sandwich shop with celery cream cheese sandwiches), Mark Cuban's employee equity proposal for addressing income inequality, and meal planning logistics. The discussion included sharing green card statistics by country and social observations about social media algorithms. There was also news discussion about a federal judge blocking the Kroger-Albertsons merger and a police shooting incident, followed by practical meal planning and portion control conversations.
+
+#### Creating YouTube video template (4:46 PM – 5:01 PM)
+Andy spent this session working on video editing and template creation for YouTube content. He successfully resolved logo replacement issues and created a comprehensive template for his "Head and Heart Together" series. The work involved technical video editing processes including overlay creation, speed adjustments, and export procedures. Andy expressed satisfaction with the final template that will serve as the foundation for future YouTube videos, allowing for smooth transitions into his on-camera segments.
+
+#### Therapeutic session and tech learning (5:47 PM – 6:41 PM)
+Based on the transcript analysis, here's a summary of Andy's recent interactions and experiences:
+
+
+
+Andy spent the day engaged in multiple activities including technical setup for his content creation work, receiving therapeutic treatment, processing personal memories, and participating in philosophical discussions. The main activities included: working with OBS software for his "Head and Heart Together" show production, receiving a therapeutic touch session from Andrea to address neck and back pain, sharing a vivid dream involving childhood experiences, and engaging in political commentary about Trump and narcissistic behavior patterns.
+
+#### AI Image Editing Session (7:07 PM – 7:31 PM)
+Based on the transcript, here's a summary of Andy's conversation:
+
+
+
+Andy was engaged in a detailed photo review session, providing specific feedback about image quality and requesting modifications. He identified multiple issues including anatomical problems ("This lady has three arms" and "Her head and body is not in the right proportions"), technical concerns about how photos relate to source material, and requested that one arm be removed from a problematic image. His comments suggest he was working with someone who either generates, edits, or manages photos, and he was offering constructive criticism about the results.
+
+#### Andy's reaction to news events (7:47 PM – 7:59 PM)
+Andy and Andrea engaged in casual conversation while watching TV news coverage. They discussed several current events including the Tate Brothers' arrest and potential extradition to England, with both expressing concerns about people who "flaunt the rules." Andy cautioned Andrea about a Taylor Farms lettuce recall, advising against purchasing their products. They also watched coverage of severe weather affecting Florida and preparing to hit the Northeast, along with other breaking news stories including a home invasion incident and a boat crash at a dock. Andy asked Andrea about recommended coffee consumption, suggesting 3-5 eight-ounce cups (400mg caffeine) as a healthy amount. Andrea brought Andy tea during the conversation, suggesting a caring domestic interaction. The conversation concluded naturally as one of them needed to leave.
+
+# Atmosphere
+The atmosphere appears relaxed and conversational, with Andy and Andrea enjoying a typical evening together watching news. Their exchanges are matter-of-fact with shared concern about current events, mixed with personal care (Andrea bringing tea) and practical questions (coffee consumption advice).
+
+# Key Take aways
+- Both are following current news events including international legal cases (Tate Brothers extradition)
+- Andy is particularly attentive to food safety, warning about a specific lettuce recall from Taylor Farms
+- They both share interest in weather patterns affecting different regions of the country
+- Andy offers practical health information about recommended caffeine intake (3-5 cups of coffee, 400mg total)
+- The interaction demonstrates their domestic routine of watching news together with casual conversation
+- Andrea provides care by bringing Andy tea during their TV watching session
+
+# Action items
+*No specific action items identified in this conversation*
+
+---
+
+## 🗣️ Personal Monologues & Direct Thoughts
+#### Standing Up Against Injustice (8:48 AM – 9:10 AM)
+**Journal Entry**  
+*Reason: Private reflection focusing on inner awareness, personal psychology, and spiritual practice with no external audience or commands.*  
+> "the club and with the family the two the married couple or a couple that I had been talking to earlier in the night were fighting out in front of the inn and I got involved in it and didn't want her to get hit and breaking them up and then he wanted to fight me."
+
+#### College Football, Food, Immigration, Equity (4:00 PM – 4:46 PM)
+**Journal Entry**  
+*Reason: Private reflection focusing on inner awareness, personal psychology, and spiritual practice with no external audience or commands.*  
+> "Having on this like this is a lot like having a And CZ is pre made and it's already all we have to warm it do is warm it up. It is cheaper and it's easier to geo it's we've not you know that packaging and everything and so yeah I'll have some in a second I'm reading about where people are getting green cards from so most of them are immediate relatives of US citizens which is good and then the second is family sponsored which is good and then employment base is third and refugees is fourth and sillies which I guess is asylum seekers is fifth and then diversity is sixth. I don't know what that means certain fragile and Afghans employ Iraqis so certain Iraqis and Afghans employed victims of crimes and their spons blah blah cancellation of removals very little so the greatest reduction was those involved from Cuba fell greatly so the top countries receiving green cards are Mexico number one Cuba number two China number three the Dominican Republic number four India five Philippines six Vietnam seven El Salvador eight Colombia nine and Jamaica ten"
+
+#### College Football, Food, Immigration, Equity (4:00 PM – 4:46 PM)
+**Journal Entry**  
+*Reason: Private reflection focusing on personal stories, spiritual practice, and human behavior with no external audience or commands.*  
+> "Mark Cuban solution to income inequity is giving every worker from CEO to janitor company stock that sounds good makes a nice selection yeah don't don't zap the salad nor the potatoes okay just the meatloaf sweetie pie they're delicate flowers check out this one story so this guy named Hernandez who joined SpaceX in 2015 he earns $28 an hour now holds an estimated $880, 000 in shares that's really good yeah but what about companies that don't have stocks I would like to see that every single CEO founder and entrepreneur does what I did which is to give equity to every single employe the way you're going to reduce income inequality for anybody who works with somebody is making sure they get shares of stock and that they benefit. Yeah, but he says it's embarrassing me to me that we didn't say enough. How Cuban seems like an alright guy."
+
+#### College Football, Food, Immigration, Equity (4:00 PM – 4:46 PM)
+**Journal Entry**  
+*Reason: Private reflection focusing on inner awareness, personal psychology, and spiritual practice with no external audience or commands.*  
+> "I'm gonna take four in the afternoon. Ended up hanging out with them at three in the morning talking they were talking to kidball and his plants and the plans and all that. No, it's the kid who's highly so yes, that's what he's really hands-on. Yeah well California has a special uh relationship with Hawaii. It's kind of like our private vacation spot."
+
+---
+
+## 🧘 Spiritual and Societal Insights
+- **Body Awareness**: Shows attention to physical discomfort and pain patterns in himself and others
+
+---
+
+## 💬 Quoted Expressions & Catchy Phrases
+### Quotes
+- **Quote**: *"Videos were playing in the background and family videos, and then there was this one where this dude's deck showed up a couple frames, and apparently some old thing where they re recorded over it, and just get spot."*
+  **Speaker**: Andy
+  **Context**: Discussing family visits and emotional conditioning in standing up against injustice, this insight highlights how rapidly old relational habits resurface.
+
+- **Quote**: *"Today we explore the architecture of self-honesty, which is a way to look at ourselves honestly."*
+  **Speaker**: Andy
+  **Context**: During a discussion regarding understanding self-honesty through perceptual bias, the speaker reflects on the relationship between self-honesty, emotional healing, and forgiveness practice.
+
+- **Quote**: *"Yeah well California has a special relationship with Hawaii."*
+  **Speaker**: Andy
+  **Context**: While discussing college football, food, immigration, equity, this statement provides a key insight into human behavior and personal practice.
+
+- **Quote**: *"Bird Honesty and systemic blue plaque."*
+  **Speaker**: Andy
+  **Context**: During a discussion regarding ai image editing session, the speaker reflects on the relationship between self-honesty, emotional healing, and forgiveness practice.
+
+### Catchy Phrases & Key Sayings
+* **"And Heart Together"** — 27 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+* **"Head And Heart Together"** — 26 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+* **"To Head And Heart"** — 23 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+
+### Notable Names Mentioned
+- *No unusual or humorous nicknames recorded today.*
+
+---
+
+## 📚 Stories & Case Examples Shared
+- **Recorded Account**: *"Expressed that "whistleblowers are important" reflecting on his history of speaking truth to power"*
+- **Recorded Account**: *"Unknown: Nothing, no penetration that I know of, I remember, but I'm sure it was traumatizing for her."*
+- **Recorded Account**: *"**Walking Routine**: Re-establishing morning and evening walking habits, with discussions about optimal timing around meals"*
+- **Recorded Account**: *"Nostalgic conversation about local sandwich shop and historic walking commute routes"*
+- **Recorded Account**: *"Unknown: Wild.And I've remembered 'em, which is rare."*
+- **Recorded Account**: *"Andy: There's a story about coffee that he's."*
+
+---
+
+## 🧠 Physical & Mental Challenges
+| Category | Description |
+| :--- | :--- |
+| **Mental / Emotional** | Navigating technical friction, workflow focus, and mental energy. |
+| **Physical / Sensory** | Pacing daily tasks and maintaining somatic awareness during computer work. |
+
+---
+
+## 📻 Miscellaneous Media & References Encountered
+### Music & Audio
+- *No specific music playback recorded today.*
+
+### Film, Video & TV Shows
+- *No specific film/TV viewing recorded today.*
+
+### News & Current Events
+- *No specific news media recorded today.*
+
+---
+*Report automatically generated on 2026-08-19 06:22:00*

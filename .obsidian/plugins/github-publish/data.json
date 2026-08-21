@@ -1,0 +1,23 @@
+{
+  "accessToken": null,
+  "githubUsername": null,
+  "publishedSites": [
+    {
+      "id": "sparkyflashrebob/headhearttogether",
+      "owner": "sparkyflashrebob",
+      "repo": "headhearttogether",
+      "siteName": "Blog",
+      "contentFolder": "_A_Head & Heart Together/Blog Posts",
+      "lastPublishedCommitSha": "ede5250a99c60c47b57de64ff31204455e413fa5",
+      "manifest": {
+        "content/index.md": "hash:3ab8437f",
+        "content/The Myth of the Quiet Mind.md": "hash:a6643cdf"
+      },
+      "templateEngine": "quartz",
+      "quartzCommitSha": "9cf87ff1c248a8ca551093214b0fec3b31415009",
+      "configHash": "hash:54822550"
+    }
+  ],
+  "savedSetup": null,
+  "quartzCommitSha": null
+}

@@ -1,0 +1,166 @@
+# Mindfulness of Breathing
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/41ZojOo1h1L._SL200_.jpg)
+
+## Metadata
+- Author: [[Bhikkhu Analayo]]
+- Full Title: Mindfulness of Breathing
+- Category: #books
+
+## Highlights
+- Here gone to a forest or to the root of a tree or to an empty hut, one sits down; having folded the legs crosswise, keeping the body erect, and having established mindfulness to the fore, mindful one breathes in and mindful one breathes out. ([Location 353](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=353))
+    - Tags: [[pink]] 
+- seclusion, ([Location 356](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=356))
+    - Tags: [[blue]] 
+- posture ([Location 356](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=356))
+- keep the seated body erect, ([Location 357](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=357))
+    - Tags: [[orange]] 
+- establishing of mindfulness. ([Location 357](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=357))
+    - Tags: [[pink]] 
+- having established a firm foundation ([Location 369](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=369))
+- in moral conduct ([Location 369](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=369))
+- relationship between lack of ethical restraint and the arising of unwholesome mental states ([Location 370](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=370))
+    - Tags: [[orange]] 
+- these instructions are clearly intended for someone with a strong dedication to adopting ethical conduct and to living a life of renunciation of sensual indulgence. ([Location 374](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=374))
+    - Tags: [[pink]] 
+- confront ([Location 381](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=381))
+    - Tags: [[blue]] 
+- gross manifestations of the five hindrances ([Location 381](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=381))
+    - Tags: [[blue]] 
+- (sensual desire, ([Location 381](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=381))
+- anger, ([Location 381](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=381))
+    - Tags: [[orange]] 
+- sloth-and-torpor, ([Location 381](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=381))
+    - Tags: [[pink]] 
+- restlessness-and-worry, ([Location 382](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=382))
+    - Tags: [[blue]] 
+- doubt). ([Location 382](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=382))
+- if we find that we are being overwhelmed by hindrances and defilements during formal meditation, it may be commendable to try to work on inner seclusion during daily life and see if there is scope to strengthen it in a meaningful manner. ([Location 383](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=383))
+    - Tags: [[orange]] 
+- avoid being disturbed by noise. ([Location 387](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=387))
+    - Tags: [[pink]] 
+- Hearing sound can become an obstruction in particular to cultivating absorption ([Location 387](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=387))
+    - Tags: [[blue]] 
+- it is indeed meaningful to try to find a secluded and quiet place for our regular practice of mindfulness of breathing. ([Location 393](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=393))
+    - Tags: [[orange]] 
+- it is perhaps even more important to learn to handle whatever noise still manifests during actual practice. ([Location 395](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=395))
+    - Tags: [[blue]] 
+- sense restraint ([Location 400](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=400))
+    - Tags: [[orange]] 
+- sense restraint requires that we do not grasp either the “sign” (nimitta) or the “secondary characteristics” (anuvyañjana) of what has been perceived ([Location 400](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=400))
+    - Tags: [[pink]] 
+- steer clear of proliferating and reacting in ways that are unwholesome. ([Location 404](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=404))
+    - Tags: [[blue]] 
+- we stay within the domain of experience but step out of reactivity to it. ([Location 408](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=408))
+    - Tags: [[pink]] 
+- Contemplation of the empty nature of whatever manifests at the sense-door of the ear can go a long way in countering this tendency. ([Location 411](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=411))
+    - Tags: [[blue]] 
+- the sign of “disturbance” need not be grasped at all, let alone the secondary characteristics of irritation and annoyance resulting in the reactivity that usually follows. ([Location 412](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=412))
+- “fading away” ([Location 1813](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=1813))
+    - Tags: [[blue]] 
+- ‘experiencing ([Location 4642](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=4642))
+    - Tags: [[pink]] 
+- ‘calming ([Location 4643](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=4643))
+    - Tags: [[orange]] 
+- joy ([Location 4644](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=4644))
+    - Tags: [[blue]] 
+- happiness ([Location 4646](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=4646))
+- mental activity ([Location 4647](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=4647))
+    - Tags: [[blue]] 
+- ‘calming mental activity ([Location 4647](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=4647))
+    - Tags: [[orange]] 
+- ‘experiencing the mind ([Location 4648](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=4648))
+    - Tags: [[pink]] 
+- ‘gladdening the mind ([Location 4649](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=4649))
+    - Tags: [[blue]] 
+- ‘concentrating ([Location 4650](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=4650))
+- ‘liberating the mind ([Location 4651](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=4651))
+    - Tags: [[orange]] 
+- ‘contemplating impermanence ([Location 4652](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=4652))
+- ‘contemplating dispassion ([Location 4654](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=4654))
+    - Tags: [[pink]] 
+- mindfulness is established continuously. ([Location 4658](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=4658))
+    - Tags: [[orange]] 
+# Mindfulness of Breathing
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/41ZojOo1h1L._SL200_.jpg)
+
+## Metadata
+- Author: [[Bhikkhu Analayo]]
+- Full Title: Mindfulness of Breathing
+- Category: #books
+
+## Highlights
+- Here gone to a forest or to the root of a tree or to an empty hut, one sits down; having folded the legs crosswise, keeping the body erect, and having established mindfulness to the fore, mindful one breathes in and mindful one breathes out. ([Location 353](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=353))
+    - Tags: [[pink]] 
+- seclusion, ([Location 356](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=356))
+    - Tags: [[blue]] 
+- posture ([Location 356](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=356))
+- keep the seated body erect, ([Location 357](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=357))
+    - Tags: [[orange]] 
+- establishing of mindfulness. ([Location 357](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=357))
+    - Tags: [[pink]] 
+- having established a firm foundation ([Location 369](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=369))
+- in moral conduct ([Location 369](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=369))
+- relationship between lack of ethical restraint and the arising of unwholesome mental states ([Location 370](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=370))
+    - Tags: [[orange]] 
+- these instructions are clearly intended for someone with a strong dedication to adopting ethical conduct and to living a life of renunciation of sensual indulgence. ([Location 374](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=374))
+    - Tags: [[pink]] 
+- confront ([Location 381](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=381))
+    - Tags: [[blue]] 
+- gross manifestations of the five hindrances ([Location 381](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=381))
+    - Tags: [[blue]] 
+- (sensual desire, ([Location 381](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=381))
+- anger, ([Location 381](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=381))
+    - Tags: [[orange]] 
+- sloth-and-torpor, ([Location 381](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=381))
+    - Tags: [[pink]] 
+- restlessness-and-worry, ([Location 382](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=382))
+    - Tags: [[blue]] 
+- doubt). ([Location 382](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=382))
+- if we find that we are being overwhelmed by hindrances and defilements during formal meditation, it may be commendable to try to work on inner seclusion during daily life and see if there is scope to strengthen it in a meaningful manner. ([Location 383](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=383))
+    - Tags: [[orange]] 
+- avoid being disturbed by noise. ([Location 387](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=387))
+    - Tags: [[pink]] 
+- Hearing sound can become an obstruction in particular to cultivating absorption ([Location 387](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=387))
+    - Tags: [[blue]] 
+- it is indeed meaningful to try to find a secluded and quiet place for our regular practice of mindfulness of breathing. ([Location 393](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=393))
+    - Tags: [[orange]] 
+- it is perhaps even more important to learn to handle whatever noise still manifests during actual practice. ([Location 395](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=395))
+    - Tags: [[blue]] 
+- sense restraint ([Location 400](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=400))
+    - Tags: [[orange]] 
+- sense restraint requires that we do not grasp either the “sign” (nimitta) or the “secondary characteristics” (anuvyañjana) of what has been perceived ([Location 400](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=400))
+    - Tags: [[pink]] 
+- steer clear of proliferating and reacting in ways that are unwholesome. ([Location 404](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=404))
+    - Tags: [[blue]] 
+- we stay within the domain of experience but step out of reactivity to it. ([Location 408](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=408))
+    - Tags: [[pink]] 
+- Contemplation of the empty nature of whatever manifests at the sense-door of the ear can go a long way in countering this tendency. ([Location 411](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=411))
+    - Tags: [[blue]] 
+- the sign of “disturbance” need not be grasped at all, let alone the secondary characteristics of irritation and annoyance resulting in the reactivity that usually follows. ([Location 412](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=412))
+- “fading away” ([Location 1813](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=1813))
+    - Tags: [[blue]] 
+- ‘experiencing ([Location 4642](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=4642))
+    - Tags: [[pink]] 
+- ‘calming ([Location 4643](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=4643))
+    - Tags: [[orange]] 
+- joy ([Location 4644](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=4644))
+    - Tags: [[blue]] 
+- happiness ([Location 4646](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=4646))
+- mental activity ([Location 4647](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=4647))
+    - Tags: [[blue]] 
+- ‘calming mental activity ([Location 4647](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=4647))
+    - Tags: [[orange]] 
+- ‘experiencing the mind ([Location 4648](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=4648))
+    - Tags: [[pink]] 
+- ‘gladdening the mind ([Location 4649](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=4649))
+    - Tags: [[blue]] 
+- ‘concentrating ([Location 4650](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=4650))
+- ‘liberating the mind ([Location 4651](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=4651))
+    - Tags: [[orange]] 
+- ‘contemplating impermanence ([Location 4652](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=4652))
+- ‘contemplating dispassion ([Location 4654](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=4654))
+    - Tags: [[pink]] 
+- mindfulness is established continuously. ([Location 4658](https://readwise.io/to_kindle?action=open&asin=B07YCQZXF6&location=4658))
+    - Tags: [[orange]] 

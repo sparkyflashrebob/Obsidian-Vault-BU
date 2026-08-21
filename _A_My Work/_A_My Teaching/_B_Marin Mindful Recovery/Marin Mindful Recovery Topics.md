@@ -1,0 +1,48 @@
+---
+tags:
+  - MMR-Topics
+---
+
+See [[_A_My Work/_A_My Teaching/_B_Marin Mindful Recovery/Topics]]
+- Old Clouds TNH Passages
+- Removing Negativity
+- [[Anica Anatta Dukkha]]
+- [[Wise Attention]] - 4 noble truths vs unwise...sense desires, being, ignorance.. questions of who we are, lost in sense realms, unmindful.
+- On [[Emptiness and Causality]] 
+- Break free from [[the three poisons]] that cause suffering
+- [[The Hindrances and their Antidotes]]
+- [[A Thicket of Views]]
+- [[8 Kinds of Noble Beings]]
+- [[Surrender]]
+- [[Google Keep/Removal of Distracting Thoughts]]
+- [[Skillful means]]
+- [[What do I need to let go of in order to embrace life in the here and now]] 
+- 1st Noble Truth - [[4 Ways we Suffer]]
+- [[Kathāvatthu Sutta]]  (AN 3:68)
+- Meditation Practice vs daily mindfulness (mindfulness without meditation)
+- Being with your experience vs outright fabrication. Using our suffering to wake us up.
+- Spiritual practice vs Living our lives/business/goals/enjoyment/vacations
+- Boosting spiritual practice creating another being/welding/identifying
+- Identities/beliefs we hold of ourselves that hinder us or prop us up. I am pain, I am ugly, Iam a comedian, I am a good person, I am selfish. I am stuck.
+- [[4 bases of success]] -- desire. Stick with it  examine. Evaluation. 
+- ***[[seeing process instead of content]]
+- [[States of becoming]] - I do not have to get into the balloon.
+- Ladder of Inference
+- [[not my monkey not my zoo]]. guy with mudd on hus shoes walking thru retreat thru two buildings... unmindful
+- [[effects on others]]
+- why marin mindfull recovery.
+- Heedfulness
+- Dhamma in line with the dhamma
+- [[Judgements]]
+- [[Where we place attention]].
+- Other Hinderances
+- [[Return to normalcy]]. Old problems gone during retreat - return. - default mode
+- Health- nose-sinus-physical exercise
+- [[Lost in Our Stories]] - Tendency to be our stories/senses/what we see on the surface.
+- Spiritual practice is looking [[beneath the surface]].  At the details that are overlooked.
+- Views/confirmation bias/colored glasses
+- Include teachings from other traditions (tibetian, mayayanna, zen, native american, natural law, etc...)
+- [[Meditation = life]].
+- [[Recovery and Sabotaging]] - start/stop addictively. never growing past
+- [[Disturbed we move]]
+- [[Not being a Problem]]

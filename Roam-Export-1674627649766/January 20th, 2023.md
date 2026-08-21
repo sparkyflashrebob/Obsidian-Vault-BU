@@ -1,0 +1,122 @@
+- [[January 20th, 2023]] at 06:12
+    - When you have no worries then it's easy to be joyful and happy naturally but when you have burdens then it's the opposite
+- [[January 20th, 2023]] at 07:06
+    - [[Dharma]]is the way of the world. the way life is. the way of nuture.
+- [[January 20th, 2023]] at 07:07
+    - https://theconversation.com/finding-your-essential-self-the-ancient-philosophy-of-zhuangzi-explained-196215
+    - 
+- [[January 20th, 2023]] at 07:25
+    - https://scitechdaily.com/adhd-persists-throughout-life-strongly-linked-to-mental-health-issues-like-anxiety-and-depression/
+    - 
+- [[January 20th, 2023]] at 07:27
+    - what is life? going about our business. chaos. bumping into each other.
+- [[January 20th, 2023]] at 08:08
+    - Is Warrior knowledge versus scribe knowledgeWar your knowledge versus scribe knowledge
+- [[January 20th, 2023]] at 08:17
+    - grabbing our attention
+    - thinking
+    - busyness 
+    - what I have to do
+    - opinions about the world and where my attention is on.
+- [[January 20th, 2023]] at 08:44
+    - So in social situations having something to do some tasks has a way for me as an out from having to deal to confront being inferior or my uncomfortable business with around social situation and being around people so I just hear a new people yeah
+- [[January 20th, 2023]] at 09:03
+    - Setting up the chairs giving out the drink tickets like I did at the sneaker party thing there right always have being of service is a way of being present with others
+- [[January 20th, 2023]] at 09:04
+    - So I was talking to the folks the other day about the default mode and this is exactly what it is I just wanted to write the default mode
+- [[January 20th, 2023]] at 09:04
+    - So this is a "from Andrea Axtel she said that thinking gets in the way of doing it of meditating I'm doing it anything it's discouraging thinking going on default mode
+- [[January 20th, 2023]] at 09:08
+    - https://www.westernbuddhistreview.com/post/events-for-philosophers-and-scholars-in-2023?postId=0a7ea175-08fc-4d06-ae06-621a90c14322&utm_campaign=885aa395-d1e6-4447-aeb1-61fbd1df32ff&utm_source=so&utm_medium=mail&utm_content=6b47a9c2-2375-423b-8c55-0e6e9d517172&cid=4ad1399a-78cd-4c5f-9226-5fba5b55eb99
+    - Another thing about being aware and being wakeful is that you're no you're aware of but what you're aware of actually increases it your that becomes your focus so you're actually selective about what you're aware of that gets more stronger and the things you're not aware of becomes weaker as a result of it because you're not putting your attention on it so if I'm putting my attention on my throat I'm right you're right so that's something that's part of our awareness
+    - So the language of love that's something we can explore
+    - Why we get along because Is that that is a very important teaching and profound
+- [Berkeley Scientists Discover Secret to Waking Up Alert and Refreshed](https://scitechdaily.com/berkeley-scientists-discover-secret-to-waking-up-alert-and-refreshed/) 
+- [[January 20th, 2023]] at 10:28
+    - https://www.theatlantic.com/newsletters/archive/2022/12/how-to-build-a-happier-2023/672610/
+    - **Rebecca Rashid: **If I could point to any across-the-board thing we struggle with, I think it’s the gap between knowledge and practice. For example, you’re aware that your social life is not where it needs to be. Olga [Khazan] has this moment in our [friendship episode](https://www.theatlantic.com/podcasts/archive/2022/06/how-to-make-new-friends-as-an-adult/661369/) where she says, essentially, that adult friendships can seem logistically impossible; just getting dinner on a weeknight is like, __When should I get the babysitter? 7 o’clock? Where should I park downtown?__ All of these extraneous factors make something as simple as meeting for dinner feel overwhelming.
+    - 
+    - This is a simple example of something we __know __we need to prioritize, yet putting it into action can fall by the wayside because of trivial logistics.
+- [[January 20th, 2023]] at 10:33
+    - https://www.psychologytoday.com/intl/blog/think-act-be/202301/5-personality-traits-linked-to-a-painful-childhood
+    - Rebecca: The happiness formula that’s prevalent in Western well-being practices is focused on habits: a lot of self-management and individualized, autonomous behaviors that will eventually lead you to being happy. But the psychiatrist Robert Waldinger, who has led one of the longest studies on human happiness, told us that the key to a happy life is our relationships—the reliability of them, the longevity of them, the depth of them.
+    - happiness is subjective,
+    - 
+- [[January 20th, 2023]] at 10:57
+    - https://www.psychologytoday.com/intl/blog/think-act-be/202301/5-personality-traits-linked-to-a-painful-childhood
+    - 
+- [[January 20th, 2023]] at 13:10
+    - White light experience a Buddhist therapist taught me how to meditate
+- [[January 20th, 2023]] at 13:11
+    - https://www.psychologytoday.com/intl/blog/think-act-be/202301/5-personality-traits-linked-to-a-painful-childhood
+    - 
+- [[January 20th, 2023]] at 13:34
+    - https://www.psychologytoday.com/intl/blog/think-act-be/202301/5-personality-traits-linked-to-a-painful-childhood
+    - 
+- [[January 20th, 2023]] at 13:34
+    - people not following up with their talk. what they feel and not what they do. promises promises
+- [[January 21st, 2023]] at 07:22
+    - mom's birthday
+- [[January 21st, 2023]] at 07:23
+    - [[MMTCP Closing]]Qualities of a teacher. genuine courage to speak the truth, humility
+    - 
+- [[January 21st, 2023]] at 09:07
+    - [[Mindful Movement]] great to incorporate in
+- [[January 21st, 2023]] at 09:07
+    - [[MMTCP Closing]]Journaling Selfing [[Selfing]] fear, insecurity, self reference vs being the teachings, 
+- [[January 21st, 2023]] at 09:20
+    - [[MMTCP Closing]]message to your future self....
+- [[January 21st, 2023]] at 09:26
+    - [[MMTCP Closing]]nature my capacity to teach well....
+    - tuning into the needs others
+    - loving them
+    - wisdom and compassion
+    - what am I will to commit to to serve my teaching?
+    - continue education
+    - aspects of interacting
+    - insight dialog, etc...
+    - movement practice
+    - reflection and not only gathering info
+    - patience with my self
+- [[January 21st, 2023]] at 09:50
+    - [[MMTCP Closing]]Trust
+        - stories
+        - our own stories
+        - 
+- [[January 21st, 2023]] at 10:05
+    - [[Awakening Joy]] get this transcription
+        - 4 right striving
+        - confirmation bias
+        - pay attention to wholesome states
+        - 
+- [[January 21st, 2023]] at 11:01
+    - [[awakening joy]] 3rd teaching mj 19 inclination of mind
+- [[January 21st, 2023]] at 11:03
+    - [[awakening joy]] well being types
+- [[January 21st, 2023]] at 11:05
+    - https://www.cnbc.com/2023/01/20/the-no-1-phrase-that-makes-relationships-successful-according-to-psychologists-who-studied-40000-couples.html
+    - The No. 1 phrase in successful relationships: 'Thank you'
+- [[January 21st, 2023]] at 11:43
+    - [[Behaviors]] not notice how effect others. eating, noise, our own concerns.
+- [[January 21st, 2023]] at 12:05
+    - [[Trauma Informed]] teachings on this
+- [[January 21st, 2023]] at 12:48
+    - coming home regardless of social  class
+- [[January 21st, 2023]] at 12:51
+    - [[MMTCP Closing]][[Belonging]] what is belonging???
+- [[January 21st, 2023]] at 13:26
+    - [[Roam-Export-1674627649766/metta]]one earth sangha metta
+- [[January 21st, 2023]] at 13:30
+    - 
+- [[January 21st, 2023]] at 13:30
+    - [[MMTCP Closing]]someone threw my coffee cup away 
+- [[January 21st, 2023]] at 13:51
+    - people sitting, anxious 
+- [[January 21st, 2023]] at 13:59
+    - [[Deka]] Greek poetry 2-3-5 syllabols speak aloud to others
+- [[January 21st, 2023]] at 14:14
+    - hello
+    - freedom - here and now - lives within ourselves
+    - sangha, connection, loving compassion
+    - buidling the moment creates the future
+    - 

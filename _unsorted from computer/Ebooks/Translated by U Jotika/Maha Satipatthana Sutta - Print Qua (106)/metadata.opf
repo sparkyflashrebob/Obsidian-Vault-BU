@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">106</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8b64278f-fe1d-408b-a71d-bf24a77205a2</dc:identifier>
+        <dc:title>Maha Satipatthana Sutta - Print Quality</dc:title>
+        <dc:creator opf:file-as="Jotika, Translated by U &amp; Dhamminda, U" opf:role="aut">Translated by U Jotika</dc:creator>
+        <dc:creator opf:file-as="Jotika, Translated by U &amp; Dhamminda, U" opf:role="aut">U Dhamminda</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.9.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-06-22T23:20:05+00:00</dc:date>
+        <dc:language>eng</dc:language>
+        <dc:subject>Discourse on Mindfulness</dc:subject>
+        <dc:subject>Buddhist</dc:subject>
+        <dc:subject>Meditation</dc:subject>
+        <dc:subject>Mindfulness.</dc:subject>
+        <meta content="{&quot;Translated by U Jotika&quot;: &quot;&quot;, &quot;U Dhamminda&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-01-29T04:02:01.784000+00:00" name="calibre:timestamp"/>
+        <meta content="Maha Satipatthana Sutta - Print Quality" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

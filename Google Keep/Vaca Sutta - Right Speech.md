@@ -1,0 +1,9 @@
+
+Vaca Sutta: A Statement
+AN 5.198 PTS: A iii 243 
+
+"Monks, a statement endowed with five factors is well-spoken, not ill-spoken. It is blameless & unfaulted by knowledgeable people. Which five?
+
+"It is spoken at the right time. It is spoken in truth. It is spoken affectionately. It is spoken beneficially. It is spoken with a mind of good-will.
+
+"A statement endowed with these five factors is well-spoken, not ill-spoken. It is blameless & unfaulted by knowledgeable people."

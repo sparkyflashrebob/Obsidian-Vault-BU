@@ -1,0 +1,490 @@
+# Letting Go
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/41GatJpDVGL._SL200_.jpg)
+
+## Metadata
+- Author: [[David R. Hawkins]]
+- Full Title: Letting Go
+- Category: #books
+
+## Highlights
+- Power vs. Force: The Hidden Determinants of Human Behavior. ([Location 153](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=153))
+- mechanism of surrender. ([Location 240](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=240))
+- sets us free from emotional attachments. ([Location 244](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=244))
+    - Tags: [[blue]] 
+- attachments are the primary cause of suffering. ([Location 245](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=245))
+    - Tags: [[pink]] 
+- Because most people throughout their lives repress, suppress, and try to escape from their feelings, the suppressed energy accumulates and seeks expression through psychosomatic distress, bodily disorders, emotional illnesses, and disordered behavior in interpersonal relationships. ([Location 246](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=246))
+    - Tags: [[orange]] 
+- Truth is self-evident and within your own Self. ([Location 343](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=343))
+- Is there such a thing as something for nothing in the universe? Oh, yes, most certainly there is. It’s your own freedom which you have forgotten and don’t know how to experience. What is being offered to you is not something that has to be acquired. It is not something that is new or outside of yourself. It is already yours and merely has to be reawakened and rediscovered. It will emerge of its own nature. ([Location 348](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=348))
+    - Tags: [[orange]] 
+- It is the accumulated pressure of feelings that causes thoughts. ([Location 375](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=375))
+    - Tags: [[pink]] 
+- feeling tones organize thoughts and memory ([Location 379](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=379))
+    - Tags: [[pink]] 
+- Thoughts are filed in the memory bank according to the various shades of feelings associated with those thoughts. Therefore, when we relinquish or let go of a feeling, we are freeing ourselves from all of the associated thoughts. ([Location 380](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=380))
+    - Tags: [[pink]] 
+- What is the surrendered state? It means to be free of negative feelings in a given area so that creativity and spontaneity can manifest without opposition or the interference of inner conflicts. To be free of inner conflict and expectations is to give others in our life the greatest freedom. It allows us to experience the basic nature of the universe, which, it will be discovered, is to manifest the greatest good possible in a situation. ([Location 383](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=383))
+    - Tags: [[blue]] 
+- In repression, this happens unconsciously; in suppression, it happens consciously. ([Location 389](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=389))
+    - Tags: [[orange]] 
+- The pressure of suppressed feelings is later felt as irritability, mood swings, tension in the muscles of the neck and back, headaches, cramps, menstrual disorders, colitis, indigestion, insomnia, hypertension, allergies, and other somatic conditions. ([Location 392](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=392))
+- for many people in society today believe that expressing their feelings frees them from the feelings. ([Location 407](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=407))
+- The expression of a feeling, first, tends to propagate that feeling and give it greater energy. Second, the expression of the feeling merely allows the remainder to be suppressed out of awareness. ([Location 408](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=408))
+    - Tags: [[pink]] 
+- A far better alternative is to take responsibility for our own feelings and neutralize them. Then, only positive feelings remain to be expressed. ([Location 416](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=416))
+    - Tags: [[orange]] 
+- Escapism and avoidance of inner awareness is a socially condoned mechanism. ([Location 418](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=418))
+    - Tags: [[blue]] 
+- People are desperate to stay unconscious. ([Location 420](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=420))
+    - Tags: [[pink]] 
+- People are terrified of facing themselves. ([Location 421](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=421))
+    - Tags: [[orange]] 
+- They dread even a moment of aloneness. ([Location 422](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=422))
+    - Tags: [[blue]] 
+- Everyone knows that, when we let go, we immediately feel better. ([Location 431](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=431))
+    - Tags: [[orange]] 
+- What is the essential cause of stress? ([Location 437](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=437))
+- They are merely examples of the mechanism we described as projection. ([Location 437](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=437))
+    - Tags: [[pink]] 
+- The real source of “stress” is actually internal; it is not external, as people would like to believe. ([Location 440](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=440))
+    - Tags: [[blue]] 
+- The readiness to react with fear, for instance, depends on how much fear is already present within to be triggered by a stimulus. The more fear we have on the inside, the more our perception of the world is changed to a fearful, guarded expectancy. To the fearful person, this world is a terrifying place. To the angry person, this world is a chaos of frustration and vexation. To the guilty person, it is a world of temptation and sin, which they see everywhere. What we are holding inside colors our world. ([Location 440](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=440))
+- It is not the external stimulus, then, that is the cause of stress, but our degree of reactivity. ([Location 449](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=449))
+- The damage caused by stress is merely the result of our own emotions. ([Location 450](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=450))
+    - Tags: [[pink]] 
+- blames events or other people for “causing” a feeling and views itself as the helpless innocent victim of external causes. ([Location 458](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=458))
+    - Tags: [[blue]] 
+- displacement. ([Location 462](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=462))
+    - Tags: [[orange]] 
+- If, through constant surrendering, we have let go of the pent-up store of anger, it is very difficult and, in fact, even impossible for anyone or any situation to “make” us angry. The same, therefore, goes for all… ([Location 463](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=463))
+    - Tags: [[pink]] 
+- Because of social conditioning in our society, people even suppress and repress their positive feelings. Suppressed love results in the broken heart of the heart attack. Suppressed love re-emerges as excessive adoration of pets and various forms of idolatry. True love is free of fear and characterized… ([Location 465](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=465))
+    - Tags: [[orange]] 
+- The fearful person precipitates frightening experiences; the angry person becomes surrounded by infuriating circumstances; and the prideful… ([Location 470](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=470))
+    - Tags: [[blue]] 
+- Kirlian… ([Location 475](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=475))
+- The energy field has traditionally been called an “aura” and can be seen by people who have been born with or learned the ability to… ([Location 476](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=476))
+    - Tags: [[pink]] 
+- Muscle-testing also demonstrates the energy changes that accompany emotions, as our body’s muscles instantly respond to… ([Location 477](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=477))
+- Thus, our basic emotional states transmit themselves… ([Location 478](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=478))
+    - Tags: [[orange]] 
+- The mind has no dimensions or size and is not limited in space; therefore, the mind transmits its basic state via vibrational… ([Location 479](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=479))
+- This means that we routinely and unwittingly affect others by our emotional state and thoughts. Emotional patterns and their associated thought forms, for instance, can be picked up and… ([Location 480](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=480))
+    - Tags: [[blue]] 
+- suppressed emotions on the psychic level. Thus anger attracts… ([Location 484](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=484))
+    - Tags: [[blue]] 
+- As a general rule, therefore, people who are carrying the consciousness of apathy bring poverty circumstances into their lives, and those with a prosperity… ([Location 488](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=488))
+    - Tags: [[orange]] 
+- Because all living things are connected on vibrational energy levels, our basic emotional state is picked up and reacted to by all life forms around us. It is well known that animals can instantly read a person’s basic emotional state. There are experiments demonstrating that even the growth of bacteria is affected by human emotions,… ([Location 489](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=489))
+    - Tags: [[pink]] 
+- Letting go involves being aware of a feeling, letting it come up, staying with it, and letting it run its course without wanting to make… ([Location 493](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=493))
+- The first step is to allow yourself to have the feeling without resisting it, venting it, fearing it, condemning it, or moralizing about it. It means to drop judgment and to see that it is just a feeling. The technique is to be with the feeling and surrender all efforts to modify it in any way. Let go of wanting to resist the feeling. It is resistance that keeps the feeling going. When you give up resisting or trying to modify the feeling, it will shift to the next feeling and… ([Location 494](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=494))
+- It means to drop judgment and to see that it is… ([Location 495](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=495))
+    - Tags: [[pink]] 
+- It is resistance that keeps the… ([Location 497](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=497))
+- A feeling that is not resisted will disappear as the energy… ([Location 498](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=498))
+    - Tags: [[blue]] 
+- Let go of the fear or guilt that you have about the feeling first, and then get… ([Location 501](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=501))
+- When letting go, ignore all thoughts. Focus on the feeling itself, not on the thoughts. Thoughts are endless and self-reinforcing, and they only breed more thoughts. Thoughts are merely rationalizations of the mind to try and explain the presence of the feeling. The real reason for the feeling is the accumulated pressure behind the feeling that is forcing it to come up in the moment. The thoughts or external events are only an excuse made up by the mind. ([Location 501](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=501))
+    - Tags: [[orange]] 
+- The real reason for the feeling is the accumulated pressure behind the feeling that is forcing it to come up in the moment. ([Location 503](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=503))
+    - Tags: [[blue]] 
+- The thoughts or external events are only an excuse made up by the mind. ([Location 504](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=504))
+    - Tags: [[pink]] 
+- As we become more familiar with letting go, it will be noticed that all negative feelings are associated with our basic fear related to survival and that all feelings are merely survival programs that the mind believes are necessary. The letting go technique undoes the programs progressively. ([Location 505](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=505))
+    - Tags: [[blue]] 
+- Through that process, the underlying motive behind the feelings becomes more and more apparent. ([Location 507](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=507))
+    - Tags: [[pink]] 
+- To be surrendered means to have no strong emotion about a thing: “It’s okay if it happens, and it’s okay if it doesn’t.” When we are free, there is a letting go of attachments. We can enjoy a thing, but we don’t need it for our happiness. There is progressive diminishing of dependence on anything or anyone outside of ourselves. These principles are in accord with the basic teaching of the Buddha to avoid attachment to worldly phenomena, as well as the basic teaching of Jesus Christ to “be in the world but not of it.” ([Location 507](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=507))
+- There is progressive diminishing of dependence on anything or anyone outside of ourselves. ([Location 509](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=509))
+    - Tags: [[blue]] 
+- These principles are in accord with the basic teaching of the Buddha to avoid attachment to worldly phenomena, as well as the basic teaching of Jesus Christ to “be in the world but not of it.” ([Location 510](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=510))
+    - Tags: [[orange]] 
+- By continuously letting go, it is possible to stay in that state of freedom. ([Location 514](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=514))
+    - Tags: [[blue]] 
+- Feelings come and go, and eventually you realize that you are not your feelings, but that the real “you” is merely witnessing them. ([Location 514](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=514))
+    - Tags: [[pink]] 
+- You stop identifying with them. ([Location 515](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=515))
+    - Tags: [[orange]] 
+- The “you” that is observing and is aware of what is happening always stays the same. ([Location 516](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=516))
+    - Tags: [[orange]] 
+- As you become more and more aware of the changeless witness within, you begin to identify with that level of consciousness. ([Location 516](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=516))
+- The results of letting go are deceptively quick and subtle, but the effects are very powerful. Often we have let go but think that we haven’t. It will be our friends who make us aware of the change. One reason for this phenomenon is that, when something is fully surrendered, it disappears from consciousness. Now, because we never think of it, we don’t realize that it has gone. This is a common phenomenon among people who are growing in consciousness. We are not aware of all the coal that we have shoveled; we are always looking at the shovelful we are handling right now. We don’t realize how much the pile has gone down. Often our friends and family are the first ones to notice. ([Location 520](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=520))
+    - Tags: [[pink]] 
+- One reason for this phenomenon is that, when something is fully surrendered, it disappears from consciousness. ([Location 522](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=522))
+- Let the resistance be there but don’t resist the resistance. ([Location 531](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=531))
+- Let’s not forget that we are letting go of all the programs that have made us a slave and a victim for a long time. ([Location 533](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=533))
+    - Tags: [[blue]] 
+- One of its tricks is to go unconscious about the technique itself, for instance, to decide suddenly that the mechanism of surrender isn’t working, things are still the same, it is confusing, and too hard to remember and do. This is a sign of real progress! It means that the ego knows we have a knife with which to cut ourselves free and it is losing ground. The ego is not our friend. ([Location 535](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=535))
+    - Tags: [[pink]] 
+- When letting go, it’s not helpful to “think” about the technique. It’s better, simply, just to do it. ([Location 540](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=540))
+    - Tags: [[orange]] 
+- They are all images that the mind has made to prevent us from experiencing what actually is. ([Location 541](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=541))
+    - Tags: [[pink]] 
+- Thoughts are fakes, absurd make-beliefs that obscure the truth. ([Location 543](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=543))
+    - Tags: [[orange]] 
+- Inside of us, but out of awareness, is the truth that “I already know everything I need to know.” This happens automatically. ([Location 549](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=549))
+    - Tags: [[blue]] 
+- What happens is that we keep letting go when life is not going too well and we are beset by unpleasant emotions. As we finally surrender our way out of it and all is well, then we stop letting go. ([Location 551](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=551))
+    - Tags: [[orange]] 
+- Take advantage of the higher states and the momentum of letting go. Keep on going because it will get better and better all the time. ([Location 553](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=553))
+    - Tags: [[pink]] 
+- the primary human goal, superseding all others, is survival. ([Location 569](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=569))
+    - Tags: [[orange]] 
+- It is common for humans to look outside of themselves for the satisfaction of their needs. This leads them to experience themselves as vulnerable because they are insufficient unto themselves. ([Location 573](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=573))
+    - Tags: [[pink]] 
+- its method of survival is primarily the use of emotions. ([Location 575](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=575))
+    - Tags: [[orange]] 
+- emotions become shorthand for thoughts. ([Location 575](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=575))
+- There is a simple way to become conscious of the underlying emotional goal behind any activity through use of the question, “What for?” ([Location 580](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=580))
+    - Tags: [[orange]] 
+- With each answer, “What for?” is asked again and again until the basic feeling is uncovered. ([Location 581](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=581))
+    - Tags: [[pink]] 
+- Every activity or desire will reveal that the basic goal is to achieve a certain feeling. ([Location 587](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=587))
+    - Tags: [[blue]] 
+- Emotions are connected with what we believe will ensure our survival, not with what actually will. ([Location 588](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=588))
+    - Tags: [[blue]] 
+- Power vs. Force: The Hidden Determinants of Human Behavior (Hawkins, [1995], 2012). ([Location 591](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=591))
+    - Tags: [[orange]] 
+- Briefly, everything emits energy, either positive or negative. Intuitively, we know the difference between a positive person (friendly, genuine, considerate) and a negative one (greedy, deceitful, hateful). ([Location 592](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=592))
+    - Tags: [[pink]] 
+- level of Courage (200) is the critical point that marks the shift from negative to positive energy. ([Location 600](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=600))
+    - Tags: [[pink]] 
+- True “power” strengthens; “force” weakens. Above the level of Courage, people seek us out because we give energy to them (“power”) and we have goodwill towards them. Below the level of Courage, people avoid us because we take energy from them (“force”) and we want to use them for our own material or emotional needs. ([Location 604](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=604))
+    - Tags: [[blue]] 
+- Neutrality ([Location 621](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=621))
+- Consequently, there is a scientific basis for the observation that self-awareness is increased much more rapidly by observing feelings rather than thoughts. The thoughts associated with even one feeling may literally run into the thousands. The understanding of the underlying emotion and its correct handling is, therefore, more rewarding and less time-consuming than dealing with one’s thoughts. ([Location 667](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=667))
+    - Tags: [[blue]] 
+- In the beginning, if one is unfamiliar with the whole subject of feelings, it is often advisable to begin merely by observing them without any intention of doing anything about them. In this way, some clarification will occur about the relationship between feelings and thoughts. After there is more familiarity, some experimentation can then occur. For instance, certain areas of thoughts that tend to recur can be set aside and the feeling associated with them identified. The feeling can then be worked with by first accepting that it is there, without resisting it or condemning it. And then one begins to empty out the energy of the feeling directly by letting it be what it is until it runs out. Somewhat later, the former thoughts can now be looked at and their character will be observed to have changed. If the feeling has been totally surrendered and let go, usually all thoughts associated with it will have disappeared entirely and been replaced by a concluding thought which handles the matter quickly. ([Location 670](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=670))
+    - Tags: [[pink]] 
+- suppression (or repression), expression, and escape. ([Location 695](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=695))
+- By merely expressing the feeling, some of the energy behind it is reduced. ([Location 699](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=699))
+    - Tags: [[blue]] 
+- It is also alright in this circumstance consciously to utilize escape mechanisms, such as going out in a social situation to get some distance from the upset, playing with the dog, watching television, going to the movies, playing music, making love, or whatever one’s habit is under the circumstances. ([Location 700](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=700))
+    - Tags: [[orange]] 
+- When the feeling has been reduced in its sheer quantity and intensity, it is best to start letting go of small aspects of the situation rather than the overall situation and the accompanying emotion itself. ([Location 702](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=702))
+    - Tags: [[pink]] 
+- The letting go mode takes us up to the level of Courage; ([Location 710](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=710))
+- Every strong emotion is really a composite of a number of subsidiary emotions and the total emotional complex can be disassembled. ([Location 717](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=717))
+- Handling a crisis from the emotional rather than the intellectual level will shorten its duration dramatically. ([Location 728](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=728))
+- We all know of people who have had an emotional crisis many years ago and, to this day, have not recovered. It ([Location 732](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=732))
+    - Tags: [[pink]] 
+- There are numerous benefits to handling a life crisis successfully. For one thing, the amount of suppressed or repressed emotion is now much less. The crisis has forced it up to be relinquished and, therefore, the amount that is left in the reservoir is much less. There is a greater feeling of self-esteem and confidence because there is the awareness that one can survive and handle whatever life will bring. There is an overall reduction of the fear of life, a greater feeling of mastery, greater compassion for the suffering of others, and an increased ability to help them through similar circumstances. Paradoxically, after a life crisis, there often is a period of variable duration of peace and calmness, sometimes approaching the level of mystical experience. The “dark night of the soul” frequently precedes states of heightened awareness. ([Location 733](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=733))
+- When we look at our lives, we will see the residual of past life crises which are still unresolved. Thoughts and feelings about the events tend to occur and color our perception, and we will note that they have disabled us in certain areas of life. At that point, it is wise to ask ourselves if it is worth paying the continuing cost. Now that we have some mechanisms by which to handle these residuals, they can be uncovered. The residual feelings can be investigated and let go of so that a healing can take place. This brings us to another emotional healing technique that becomes powerful once the major event has passed. That is to place the event in a different context, to see it from a different perspective, and to hold it in a different paradigm with a different significance and meaning. ([Location 745](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=745))
+    - Tags: [[orange]] 
+- Man’s Search for Meaning ([Location 759](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=759))
+- “Everything can be taken from a man but one thing: the last of the human freedoms—to choose one’s attitude in any given set of circumstances, to choose one’s own way” (Frankl, [1959] 2006). ([Location 761](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=761))
+    - Tags: [[orange]] 
+- Carl Jung, who concluded after a lifetime of study, that there is an inborn drive in the unconscious toward wholeness, completeness, and realization of the Self, and that the unconscious will devise the ways and means of bringing this about, even if they are traumatic to the conscious mind. ([Location 771](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=771))
+    - Tags: [[blue]] 
+- Fear of life is really the fear of emotions. ([Location 780](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=780))
+    - Tags: [[pink]] 
+- It is not the facts that we fear but our feelings about them. ([Location 781](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=781))
+    - Tags: [[orange]] 
+- Once we have mastery over our feelings, our fear of life diminishes. ([Location 781](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=781))
+    - Tags: [[blue]] 
+- One benefit from a life crisis is greater self-awareness. The situation is overwhelming, and we are forced to stop all of our diversionary games, take a good look at our life situation, and re-evaluate our beliefs, goals, values, and life direction. It is an opportunity to re-evaluate and let go of guilt. It is also an opportunity for a total shift in attitude. ([Location 787](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=787))
+    - Tags: [[pink]] 
+- “How long do we want to go on suffering? When are we willing to give it up? When is enough enough?” ([Location 808](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=808))
+- The part of us that wants to cling to negative emotions is our smallness. It is the part of us that is mean, petty, selfish, competitive, cheap, conniving, mistrusting, vindictive, judgmental, diminished, weak, guilty, ashamed, and vain. It has little energy; it is depleting, demeaning, and leads to the lowering of self-respect. It is the small part of us that accounts for our own self-hatred, unending guilt, and seeking for punishment, sickness, and disease. Is that the part with which we want to identify? Is that the part we want to energize? Is that the way we want to see ourselves? Because if that’s the way we see ourselves, that’s the way others will see us. ([Location 809](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=809))
+    - Tags: [[blue]] 
+- The world can only see us as we see ourselves. ([Location 814](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=814))
+    - Tags: [[orange]] 
+- The corollary to letting go of negative feelings is to stop resisting the positive ones. ([Location 821](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=821))
+- A good and very illuminating exercise is to sit down and look at the feeling that is directly opposite the negative one that we are experiencing and begin to let go resisting it. ([Location 824](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=824))
+    - Tags: [[blue]] 
+- As we keep surrendering our resistance to love, we will notice that within ourselves there is something that wants to express itself through sharing and giving, letting the past go and burying the hatchet. ([Location 831](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=831))
+    - Tags: [[orange]] 
+- The purpose of this exercise is to locate within ourselves that which can only be described as greatness. ([Location 834](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=834))
+    - Tags: [[pink]] 
+- Greatness is the courage to overcome obstacles. It is the willingness to move to a higher level of love. It is the acceptance of others’ humanness and having compassion for their suffering by putting ourselves in their shoes. Out of the forgiveness of others come self-forgiveness and the relief of guilt. The real payoff we get is when we let go of our negativity and choose to be loving; we are the ones who benefit. We are the ones who gain from the real payoff. With this increased awareness of who we really are comes the progressive invulnerability to pain. Once we compassionately accept our own humanness and that of others, we are no longer subject to humiliation, for true humility is a part of greatness. ([Location 835](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=835))
+    - Tags: [[orange]] 
+- When we utilize these techniques of relinquishing the negative and surrendering resistance to the positive, sooner or later we come into a sudden, comprehensive awareness of our true dimension. Once this has been experienced, it will never be forgotten. The world will never intimidate us again as it once did. There may be continued compliance with the ways of the world out of sheer habit, but the inner drivenness, the inner vulnerability, and the inner doubt is now gone. Outwardly, the behavior may appear the same but, inwardly, the causes for it are now totally different. The end result of the conscious handling of emotions is invulnerability and imperturbability. Our inner nature is now bullet proof. We are able to go through life with balance and grace. ([Location 845](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=845))
+- The way out of apathy is to remind ourselves of our intention, which is to get higher and freer, to become more effective and happy, and to let go of the resistance to the technique itself. ([Location 873](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=873))
+- fear. ([Location 876](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=876))
+    - Tags: [[blue]] 
+- fear. ([Location 877](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=877))
+    - Tags: [[blue]] 
+- The level of courage has a lot of energy. ([Location 893](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=893))
+- In reality, it is only a definition of ourselves that we have unwittingly allowed to happen. The way out is to become more conscious. ([Location 916](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=916))
+    - Tags: [[orange]] 
+- The way out of this, then, is to start questioning everything. ([Location 921](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=921))
+    - Tags: [[pink]] 
+- If we look at the source of our thoughts, begin to identify their origins, and stop the vanity of labeling them as “mine” (and therefore sacrosanct), we notice that thoughts can be looked at objectively. We see that their origins were often the early childhood training from parents, family, and teachers, as well as dribbles and drabbles of information we picked up from playmates, newspapers, movies, television, radio, church, novels, and the automatic input from our senses. All of this went on unwittingly without our having exercised any conscious choice. Not only that, but out of our unconsciousness, ignorance, innocence, and naïveté, plus the nature of the mind itself, we ended up as the composite of all the negative garbage prevalent in the world. Furthermore, we concluded that it applied to us personally. As we become more aware, we begin to realize that we have a choice. We can stop giving authority to all the mind’s thoughts, begin to question them, and find out if there is really any truth in them for ourselves. ([Location 924](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=924))
+    - Tags: [[blue]] 
+- It is a totally different situation to see that we choose to blame rather than to think that we have to blame. ([Location 969](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=969))
+- In truth, blame is just another one of the negative programs that we have allowed our mind to buy because we never stopped to question it. ([Location 972](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=972))
+    - Tags: [[pink]] 
+- Why must something always be someone’s “fault”? Why must the whole concept of “wrong” be introduced to the situation in the first place? Why must one of us be wrong, bad, or at fault? What seemed like a good idea at the time may not have turned out well. That’s all. Unfortunate events may have just happened. ([Location 973](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=973))
+    - Tags: [[pink]] 
+- We are only subject to a negative thought or belief if we consciously say that it applies to us. ([Location 1009](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=1009))
+- As we stop giving authority and energy to all of the negative programs that stem from our own thinking, we stop giving away our power to others and begin to own it back again. ([Location 1030](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=1030))
+    - Tags: [[orange]] 
+- “What is the anger covering up?” ([Location 1037](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=1037))
+- hidden gift. ([Location 1050](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=1050))
+    - Tags: [[orange]] 
+- “When was I ever trained in the techniques of emotional self-healing? ([Location 1060](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=1060))
+    - Tags: [[pink]] 
+- “hanging out with the winners.” ([Location 1081](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=1081))
+    - Tags: [[orange]] 
+- Most people are afraid of the amount of grief they have suppressed; they are terrified that they will be swamped and overwhelmed by it. ([Location 1132](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=1132))
+    - Tags: [[orange]] 
+- Suppressed grief is responsible for many psychosomatic conditions and health-related complaints. ([Location 1135](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=1135))
+    - Tags: [[pink]] 
+- With the courage to face our inner feelings and let them go, we thus move on to the levels of acceptance and eventually peace. ([Location 1139](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=1139))
+    - Tags: [[blue]] 
+- Our step will be lighter and we will look younger. ([Location 1141](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=1141))
+- If we don’t resist the feeling of grief and totally surrender to it, it will run out in about 10–20 minutes; ([Location 1142](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=1142))
+    - Tags: [[orange]] 
+- If we keep surrendering to it every time it comes up, then it will eventually run out. ([Location 1143](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=1143))
+    - Tags: [[pink]] 
+- Once a man has fully let the grief come up and totally freed himself from that suppressed energy, he is peaceful and his view of his own masculinity changes. He realizes that his masculinity is now more complete. He is still just as much of a man, but now he is a man who can also be in touch with and handle his own feelings. Consequently, he is more adequate, more capable, more well-rounded, more understanding, more mature, more capable of relating to and understanding others, more compassionate, and more loving. ([Location 1155](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=1155))
+    - Tags: [[blue]] 
+- Attachment and dependence occur because we feel incomplete within ourselves; therefore, we seek objects, people, relationships, places, and concepts to fulfill inner needs. ([Location 1159](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=1159))
+# Letting Go
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/41GatJpDVGL._SL200_.jpg)
+
+## Metadata
+- Author: [[David R. Hawkins]]
+- Full Title: Letting Go
+- Category: #books
+
+## Highlights
+- Power vs. Force: The Hidden Determinants of Human Behavior. ([Location 153](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=153))
+- mechanism of surrender. ([Location 240](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=240))
+- sets us free from emotional attachments. ([Location 244](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=244))
+    - Tags: [[blue]] 
+- attachments are the primary cause of suffering. ([Location 245](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=245))
+    - Tags: [[pink]] 
+- Because most people throughout their lives repress, suppress, and try to escape from their feelings, the suppressed energy accumulates and seeks expression through psychosomatic distress, bodily disorders, emotional illnesses, and disordered behavior in interpersonal relationships. ([Location 246](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=246))
+    - Tags: [[orange]] 
+- Truth is self-evident and within your own Self. ([Location 343](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=343))
+- Is there such a thing as something for nothing in the universe? Oh, yes, most certainly there is. It’s your own freedom which you have forgotten and don’t know how to experience. What is being offered to you is not something that has to be acquired. It is not something that is new or outside of yourself. It is already yours and merely has to be reawakened and rediscovered. It will emerge of its own nature. ([Location 348](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=348))
+    - Tags: [[orange]] 
+- It is the accumulated pressure of feelings that causes thoughts. ([Location 375](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=375))
+    - Tags: [[pink]] 
+- feeling tones organize thoughts and memory ([Location 379](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=379))
+    - Tags: [[pink]] 
+- Thoughts are filed in the memory bank according to the various shades of feelings associated with those thoughts. Therefore, when we relinquish or let go of a feeling, we are freeing ourselves from all of the associated thoughts. ([Location 380](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=380))
+    - Tags: [[pink]] 
+- What is the surrendered state? It means to be free of negative feelings in a given area so that creativity and spontaneity can manifest without opposition or the interference of inner conflicts. To be free of inner conflict and expectations is to give others in our life the greatest freedom. It allows us to experience the basic nature of the universe, which, it will be discovered, is to manifest the greatest good possible in a situation. ([Location 383](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=383))
+    - Tags: [[blue]] 
+- In repression, this happens unconsciously; in suppression, it happens consciously. ([Location 389](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=389))
+    - Tags: [[orange]] 
+- The pressure of suppressed feelings is later felt as irritability, mood swings, tension in the muscles of the neck and back, headaches, cramps, menstrual disorders, colitis, indigestion, insomnia, hypertension, allergies, and other somatic conditions. ([Location 392](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=392))
+- for many people in society today believe that expressing their feelings frees them from the feelings. ([Location 407](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=407))
+- The expression of a feeling, first, tends to propagate that feeling and give it greater energy. Second, the expression of the feeling merely allows the remainder to be suppressed out of awareness. ([Location 408](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=408))
+    - Tags: [[pink]] 
+- A far better alternative is to take responsibility for our own feelings and neutralize them. Then, only positive feelings remain to be expressed. ([Location 416](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=416))
+    - Tags: [[orange]] 
+- Escapism and avoidance of inner awareness is a socially condoned mechanism. ([Location 418](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=418))
+    - Tags: [[blue]] 
+- People are desperate to stay unconscious. ([Location 420](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=420))
+    - Tags: [[pink]] 
+- People are terrified of facing themselves. ([Location 421](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=421))
+    - Tags: [[orange]] 
+- They dread even a moment of aloneness. ([Location 422](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=422))
+    - Tags: [[blue]] 
+- Everyone knows that, when we let go, we immediately feel better. ([Location 431](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=431))
+    - Tags: [[orange]] 
+- What is the essential cause of stress? ([Location 437](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=437))
+- They are merely examples of the mechanism we described as projection. ([Location 437](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=437))
+    - Tags: [[pink]] 
+- The real source of “stress” is actually internal; it is not external, as people would like to believe. ([Location 440](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=440))
+    - Tags: [[blue]] 
+- The readiness to react with fear, for instance, depends on how much fear is already present within to be triggered by a stimulus. The more fear we have on the inside, the more our perception of the world is changed to a fearful, guarded expectancy. To the fearful person, this world is a terrifying place. To the angry person, this world is a chaos of frustration and vexation. To the guilty person, it is a world of temptation and sin, which they see everywhere. What we are holding inside colors our world. ([Location 440](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=440))
+- It is not the external stimulus, then, that is the cause of stress, but our degree of reactivity. ([Location 449](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=449))
+- The damage caused by stress is merely the result of our own emotions. ([Location 450](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=450))
+    - Tags: [[pink]] 
+- blames events or other people for “causing” a feeling and views itself as the helpless innocent victim of external causes. ([Location 458](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=458))
+    - Tags: [[blue]] 
+- displacement. ([Location 462](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=462))
+    - Tags: [[orange]] 
+- If, through constant surrendering, we have let go of the pent-up store of anger, it is very difficult and, in fact, even impossible for anyone or any situation to “make” us angry. The same, therefore, goes for all… ([Location 463](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=463))
+    - Tags: [[pink]] 
+- Because of social conditioning in our society, people even suppress and repress their positive feelings. Suppressed love results in the broken heart of the heart attack. Suppressed love re-emerges as excessive adoration of pets and various forms of idolatry. True love is free of fear and characterized… ([Location 465](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=465))
+    - Tags: [[orange]] 
+- The fearful person precipitates frightening experiences; the angry person becomes surrounded by infuriating circumstances; and the prideful… ([Location 470](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=470))
+    - Tags: [[blue]] 
+- Kirlian… ([Location 475](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=475))
+- The energy field has traditionally been called an “aura” and can be seen by people who have been born with or learned the ability to… ([Location 476](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=476))
+    - Tags: [[pink]] 
+- Muscle-testing also demonstrates the energy changes that accompany emotions, as our body’s muscles instantly respond to… ([Location 477](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=477))
+- Thus, our basic emotional states transmit themselves… ([Location 478](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=478))
+    - Tags: [[orange]] 
+- The mind has no dimensions or size and is not limited in space; therefore, the mind transmits its basic state via vibrational… ([Location 479](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=479))
+- This means that we routinely and unwittingly affect others by our emotional state and thoughts. Emotional patterns and their associated thought forms, for instance, can be picked up and… ([Location 480](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=480))
+    - Tags: [[blue]] 
+- suppressed emotions on the psychic level. Thus anger attracts… ([Location 484](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=484))
+    - Tags: [[blue]] 
+- As a general rule, therefore, people who are carrying the consciousness of apathy bring poverty circumstances into their lives, and those with a prosperity… ([Location 488](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=488))
+    - Tags: [[orange]] 
+- Because all living things are connected on vibrational energy levels, our basic emotional state is picked up and reacted to by all life forms around us. It is well known that animals can instantly read a person’s basic emotional state. There are experiments demonstrating that even the growth of bacteria is affected by human emotions,… ([Location 489](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=489))
+    - Tags: [[pink]] 
+- Letting go involves being aware of a feeling, letting it come up, staying with it, and letting it run its course without wanting to make… ([Location 493](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=493))
+- The first step is to allow yourself to have the feeling without resisting it, venting it, fearing it, condemning it, or moralizing about it. It means to drop judgment and to see that it is just a feeling. The technique is to be with the feeling and surrender all efforts to modify it in any way. Let go of wanting to resist the feeling. It is resistance that keeps the feeling going. When you give up resisting or trying to modify the feeling, it will shift to the next feeling and… ([Location 494](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=494))
+- It means to drop judgment and to see that it is… ([Location 495](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=495))
+    - Tags: [[pink]] 
+- It is resistance that keeps the… ([Location 497](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=497))
+- A feeling that is not resisted will disappear as the energy… ([Location 498](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=498))
+    - Tags: [[blue]] 
+- Let go of the fear or guilt that you have about the feeling first, and then get… ([Location 501](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=501))
+- When letting go, ignore all thoughts. Focus on the feeling itself, not on the thoughts. Thoughts are endless and self-reinforcing, and they only breed more thoughts. Thoughts are merely rationalizations of the mind to try and explain the presence of the feeling. The real reason for the feeling is the accumulated pressure behind the feeling that is forcing it to come up in the moment. The thoughts or external events are only an excuse made up by the mind. ([Location 501](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=501))
+    - Tags: [[orange]] 
+- The real reason for the feeling is the accumulated pressure behind the feeling that is forcing it to come up in the moment. ([Location 503](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=503))
+    - Tags: [[blue]] 
+- The thoughts or external events are only an excuse made up by the mind. ([Location 504](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=504))
+    - Tags: [[pink]] 
+- As we become more familiar with letting go, it will be noticed that all negative feelings are associated with our basic fear related to survival and that all feelings are merely survival programs that the mind believes are necessary. The letting go technique undoes the programs progressively. ([Location 505](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=505))
+    - Tags: [[blue]] 
+- Through that process, the underlying motive behind the feelings becomes more and more apparent. ([Location 507](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=507))
+    - Tags: [[pink]] 
+- To be surrendered means to have no strong emotion about a thing: “It’s okay if it happens, and it’s okay if it doesn’t.” When we are free, there is a letting go of attachments. We can enjoy a thing, but we don’t need it for our happiness. There is progressive diminishing of dependence on anything or anyone outside of ourselves. These principles are in accord with the basic teaching of the Buddha to avoid attachment to worldly phenomena, as well as the basic teaching of Jesus Christ to “be in the world but not of it.” ([Location 507](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=507))
+- There is progressive diminishing of dependence on anything or anyone outside of ourselves. ([Location 509](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=509))
+    - Tags: [[blue]] 
+- These principles are in accord with the basic teaching of the Buddha to avoid attachment to worldly phenomena, as well as the basic teaching of Jesus Christ to “be in the world but not of it.” ([Location 510](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=510))
+    - Tags: [[orange]] 
+- By continuously letting go, it is possible to stay in that state of freedom. ([Location 514](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=514))
+    - Tags: [[blue]] 
+- Feelings come and go, and eventually you realize that you are not your feelings, but that the real “you” is merely witnessing them. ([Location 514](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=514))
+    - Tags: [[pink]] 
+- You stop identifying with them. ([Location 515](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=515))
+    - Tags: [[orange]] 
+- The “you” that is observing and is aware of what is happening always stays the same. ([Location 516](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=516))
+    - Tags: [[orange]] 
+- As you become more and more aware of the changeless witness within, you begin to identify with that level of consciousness. ([Location 516](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=516))
+- The results of letting go are deceptively quick and subtle, but the effects are very powerful. Often we have let go but think that we haven’t. It will be our friends who make us aware of the change. One reason for this phenomenon is that, when something is fully surrendered, it disappears from consciousness. Now, because we never think of it, we don’t realize that it has gone. This is a common phenomenon among people who are growing in consciousness. We are not aware of all the coal that we have shoveled; we are always looking at the shovelful we are handling right now. We don’t realize how much the pile has gone down. Often our friends and family are the first ones to notice. ([Location 520](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=520))
+    - Tags: [[pink]] 
+- One reason for this phenomenon is that, when something is fully surrendered, it disappears from consciousness. ([Location 522](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=522))
+- Let the resistance be there but don’t resist the resistance. ([Location 531](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=531))
+- Let’s not forget that we are letting go of all the programs that have made us a slave and a victim for a long time. ([Location 533](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=533))
+    - Tags: [[blue]] 
+- One of its tricks is to go unconscious about the technique itself, for instance, to decide suddenly that the mechanism of surrender isn’t working, things are still the same, it is confusing, and too hard to remember and do. This is a sign of real progress! It means that the ego knows we have a knife with which to cut ourselves free and it is losing ground. The ego is not our friend. ([Location 535](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=535))
+    - Tags: [[pink]] 
+- When letting go, it’s not helpful to “think” about the technique. It’s better, simply, just to do it. ([Location 540](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=540))
+    - Tags: [[orange]] 
+- They are all images that the mind has made to prevent us from experiencing what actually is. ([Location 541](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=541))
+    - Tags: [[pink]] 
+- Thoughts are fakes, absurd make-beliefs that obscure the truth. ([Location 543](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=543))
+    - Tags: [[orange]] 
+- Inside of us, but out of awareness, is the truth that “I already know everything I need to know.” This happens automatically. ([Location 549](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=549))
+    - Tags: [[blue]] 
+- What happens is that we keep letting go when life is not going too well and we are beset by unpleasant emotions. As we finally surrender our way out of it and all is well, then we stop letting go. ([Location 551](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=551))
+    - Tags: [[orange]] 
+- Take advantage of the higher states and the momentum of letting go. Keep on going because it will get better and better all the time. ([Location 553](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=553))
+    - Tags: [[pink]] 
+- the primary human goal, superseding all others, is survival. ([Location 569](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=569))
+    - Tags: [[orange]] 
+- It is common for humans to look outside of themselves for the satisfaction of their needs. This leads them to experience themselves as vulnerable because they are insufficient unto themselves. ([Location 573](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=573))
+    - Tags: [[pink]] 
+- its method of survival is primarily the use of emotions. ([Location 575](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=575))
+    - Tags: [[orange]] 
+- emotions become shorthand for thoughts. ([Location 575](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=575))
+- There is a simple way to become conscious of the underlying emotional goal behind any activity through use of the question, “What for?” ([Location 580](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=580))
+    - Tags: [[orange]] 
+- With each answer, “What for?” is asked again and again until the basic feeling is uncovered. ([Location 581](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=581))
+    - Tags: [[pink]] 
+- Every activity or desire will reveal that the basic goal is to achieve a certain feeling. ([Location 587](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=587))
+    - Tags: [[blue]] 
+- Emotions are connected with what we believe will ensure our survival, not with what actually will. ([Location 588](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=588))
+    - Tags: [[blue]] 
+- Power vs. Force: The Hidden Determinants of Human Behavior (Hawkins, [1995], 2012). ([Location 591](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=591))
+    - Tags: [[orange]] 
+- Briefly, everything emits energy, either positive or negative. Intuitively, we know the difference between a positive person (friendly, genuine, considerate) and a negative one (greedy, deceitful, hateful). ([Location 592](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=592))
+    - Tags: [[pink]] 
+- level of Courage (200) is the critical point that marks the shift from negative to positive energy. ([Location 600](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=600))
+    - Tags: [[pink]] 
+- True “power” strengthens; “force” weakens. Above the level of Courage, people seek us out because we give energy to them (“power”) and we have goodwill towards them. Below the level of Courage, people avoid us because we take energy from them (“force”) and we want to use them for our own material or emotional needs. ([Location 604](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=604))
+    - Tags: [[blue]] 
+- Neutrality ([Location 621](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=621))
+- Consequently, there is a scientific basis for the observation that self-awareness is increased much more rapidly by observing feelings rather than thoughts. The thoughts associated with even one feeling may literally run into the thousands. The understanding of the underlying emotion and its correct handling is, therefore, more rewarding and less time-consuming than dealing with one’s thoughts. ([Location 667](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=667))
+    - Tags: [[blue]] 
+- In the beginning, if one is unfamiliar with the whole subject of feelings, it is often advisable to begin merely by observing them without any intention of doing anything about them. In this way, some clarification will occur about the relationship between feelings and thoughts. After there is more familiarity, some experimentation can then occur. For instance, certain areas of thoughts that tend to recur can be set aside and the feeling associated with them identified. The feeling can then be worked with by first accepting that it is there, without resisting it or condemning it. And then one begins to empty out the energy of the feeling directly by letting it be what it is until it runs out. Somewhat later, the former thoughts can now be looked at and their character will be observed to have changed. If the feeling has been totally surrendered and let go, usually all thoughts associated with it will have disappeared entirely and been replaced by a concluding thought which handles the matter quickly. ([Location 670](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=670))
+    - Tags: [[pink]] 
+- suppression (or repression), expression, and escape. ([Location 695](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=695))
+- By merely expressing the feeling, some of the energy behind it is reduced. ([Location 699](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=699))
+    - Tags: [[blue]] 
+- It is also alright in this circumstance consciously to utilize escape mechanisms, such as going out in a social situation to get some distance from the upset, playing with the dog, watching television, going to the movies, playing music, making love, or whatever one’s habit is under the circumstances. ([Location 700](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=700))
+    - Tags: [[orange]] 
+- When the feeling has been reduced in its sheer quantity and intensity, it is best to start letting go of small aspects of the situation rather than the overall situation and the accompanying emotion itself. ([Location 702](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=702))
+    - Tags: [[pink]] 
+- The letting go mode takes us up to the level of Courage; ([Location 710](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=710))
+- Every strong emotion is really a composite of a number of subsidiary emotions and the total emotional complex can be disassembled. ([Location 717](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=717))
+- Handling a crisis from the emotional rather than the intellectual level will shorten its duration dramatically. ([Location 728](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=728))
+- We all know of people who have had an emotional crisis many years ago and, to this day, have not recovered. It ([Location 732](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=732))
+    - Tags: [[pink]] 
+- There are numerous benefits to handling a life crisis successfully. For one thing, the amount of suppressed or repressed emotion is now much less. The crisis has forced it up to be relinquished and, therefore, the amount that is left in the reservoir is much less. There is a greater feeling of self-esteem and confidence because there is the awareness that one can survive and handle whatever life will bring. There is an overall reduction of the fear of life, a greater feeling of mastery, greater compassion for the suffering of others, and an increased ability to help them through similar circumstances. Paradoxically, after a life crisis, there often is a period of variable duration of peace and calmness, sometimes approaching the level of mystical experience. The “dark night of the soul” frequently precedes states of heightened awareness. ([Location 733](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=733))
+- When we look at our lives, we will see the residual of past life crises which are still unresolved. Thoughts and feelings about the events tend to occur and color our perception, and we will note that they have disabled us in certain areas of life. At that point, it is wise to ask ourselves if it is worth paying the continuing cost. Now that we have some mechanisms by which to handle these residuals, they can be uncovered. The residual feelings can be investigated and let go of so that a healing can take place. This brings us to another emotional healing technique that becomes powerful once the major event has passed. That is to place the event in a different context, to see it from a different perspective, and to hold it in a different paradigm with a different significance and meaning. ([Location 745](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=745))
+    - Tags: [[orange]] 
+- Man’s Search for Meaning ([Location 759](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=759))
+- “Everything can be taken from a man but one thing: the last of the human freedoms—to choose one’s attitude in any given set of circumstances, to choose one’s own way” (Frankl, [1959] 2006). ([Location 761](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=761))
+    - Tags: [[orange]] 
+- Carl Jung, who concluded after a lifetime of study, that there is an inborn drive in the unconscious toward wholeness, completeness, and realization of the Self, and that the unconscious will devise the ways and means of bringing this about, even if they are traumatic to the conscious mind. ([Location 771](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=771))
+    - Tags: [[blue]] 
+- Fear of life is really the fear of emotions. ([Location 780](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=780))
+    - Tags: [[pink]] 
+- It is not the facts that we fear but our feelings about them. ([Location 781](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=781))
+    - Tags: [[orange]] 
+- Once we have mastery over our feelings, our fear of life diminishes. ([Location 781](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=781))
+    - Tags: [[blue]] 
+- One benefit from a life crisis is greater self-awareness. The situation is overwhelming, and we are forced to stop all of our diversionary games, take a good look at our life situation, and re-evaluate our beliefs, goals, values, and life direction. It is an opportunity to re-evaluate and let go of guilt. It is also an opportunity for a total shift in attitude. ([Location 787](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=787))
+    - Tags: [[pink]] 
+- “How long do we want to go on suffering? When are we willing to give it up? When is enough enough?” ([Location 808](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=808))
+- The part of us that wants to cling to negative emotions is our smallness. It is the part of us that is mean, petty, selfish, competitive, cheap, conniving, mistrusting, vindictive, judgmental, diminished, weak, guilty, ashamed, and vain. It has little energy; it is depleting, demeaning, and leads to the lowering of self-respect. It is the small part of us that accounts for our own self-hatred, unending guilt, and seeking for punishment, sickness, and disease. Is that the part with which we want to identify? Is that the part we want to energize? Is that the way we want to see ourselves? Because if that’s the way we see ourselves, that’s the way others will see us. ([Location 809](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=809))
+    - Tags: [[blue]] 
+- The world can only see us as we see ourselves. ([Location 814](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=814))
+    - Tags: [[orange]] 
+- The corollary to letting go of negative feelings is to stop resisting the positive ones. ([Location 821](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=821))
+- A good and very illuminating exercise is to sit down and look at the feeling that is directly opposite the negative one that we are experiencing and begin to let go resisting it. ([Location 824](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=824))
+    - Tags: [[blue]] 
+- As we keep surrendering our resistance to love, we will notice that within ourselves there is something that wants to express itself through sharing and giving, letting the past go and burying the hatchet. ([Location 831](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=831))
+    - Tags: [[orange]] 
+- The purpose of this exercise is to locate within ourselves that which can only be described as greatness. ([Location 834](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=834))
+    - Tags: [[pink]] 
+- Greatness is the courage to overcome obstacles. It is the willingness to move to a higher level of love. It is the acceptance of others’ humanness and having compassion for their suffering by putting ourselves in their shoes. Out of the forgiveness of others come self-forgiveness and the relief of guilt. The real payoff we get is when we let go of our negativity and choose to be loving; we are the ones who benefit. We are the ones who gain from the real payoff. With this increased awareness of who we really are comes the progressive invulnerability to pain. Once we compassionately accept our own humanness and that of others, we are no longer subject to humiliation, for true humility is a part of greatness. ([Location 835](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=835))
+    - Tags: [[orange]] 
+- When we utilize these techniques of relinquishing the negative and surrendering resistance to the positive, sooner or later we come into a sudden, comprehensive awareness of our true dimension. Once this has been experienced, it will never be forgotten. The world will never intimidate us again as it once did. There may be continued compliance with the ways of the world out of sheer habit, but the inner drivenness, the inner vulnerability, and the inner doubt is now gone. Outwardly, the behavior may appear the same but, inwardly, the causes for it are now totally different. The end result of the conscious handling of emotions is invulnerability and imperturbability. Our inner nature is now bullet proof. We are able to go through life with balance and grace. ([Location 845](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=845))
+- The way out of apathy is to remind ourselves of our intention, which is to get higher and freer, to become more effective and happy, and to let go of the resistance to the technique itself. ([Location 873](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=873))
+- fear. ([Location 876](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=876))
+    - Tags: [[blue]] 
+- fear. ([Location 877](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=877))
+    - Tags: [[blue]] 
+- The level of courage has a lot of energy. ([Location 893](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=893))
+- In reality, it is only a definition of ourselves that we have unwittingly allowed to happen. The way out is to become more conscious. ([Location 916](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=916))
+    - Tags: [[orange]] 
+- The way out of this, then, is to start questioning everything. ([Location 921](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=921))
+    - Tags: [[pink]] 
+- If we look at the source of our thoughts, begin to identify their origins, and stop the vanity of labeling them as “mine” (and therefore sacrosanct), we notice that thoughts can be looked at objectively. We see that their origins were often the early childhood training from parents, family, and teachers, as well as dribbles and drabbles of information we picked up from playmates, newspapers, movies, television, radio, church, novels, and the automatic input from our senses. All of this went on unwittingly without our having exercised any conscious choice. Not only that, but out of our unconsciousness, ignorance, innocence, and naïveté, plus the nature of the mind itself, we ended up as the composite of all the negative garbage prevalent in the world. Furthermore, we concluded that it applied to us personally. As we become more aware, we begin to realize that we have a choice. We can stop giving authority to all the mind’s thoughts, begin to question them, and find out if there is really any truth in them for ourselves. ([Location 924](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=924))
+    - Tags: [[blue]] 
+- It is a totally different situation to see that we choose to blame rather than to think that we have to blame. ([Location 969](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=969))
+- In truth, blame is just another one of the negative programs that we have allowed our mind to buy because we never stopped to question it. ([Location 972](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=972))
+    - Tags: [[pink]] 
+- Why must something always be someone’s “fault”? Why must the whole concept of “wrong” be introduced to the situation in the first place? Why must one of us be wrong, bad, or at fault? What seemed like a good idea at the time may not have turned out well. That’s all. Unfortunate events may have just happened. ([Location 973](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=973))
+    - Tags: [[pink]] 
+- We are only subject to a negative thought or belief if we consciously say that it applies to us. ([Location 1009](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=1009))
+- As we stop giving authority and energy to all of the negative programs that stem from our own thinking, we stop giving away our power to others and begin to own it back again. ([Location 1030](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=1030))
+    - Tags: [[orange]] 
+- “What is the anger covering up?” ([Location 1037](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=1037))
+- hidden gift. ([Location 1050](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=1050))
+    - Tags: [[orange]] 
+- “When was I ever trained in the techniques of emotional self-healing? ([Location 1060](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=1060))
+    - Tags: [[pink]] 
+- “hanging out with the winners.” ([Location 1081](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=1081))
+    - Tags: [[orange]] 
+- Most people are afraid of the amount of grief they have suppressed; they are terrified that they will be swamped and overwhelmed by it. ([Location 1132](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=1132))
+    - Tags: [[orange]] 
+- Suppressed grief is responsible for many psychosomatic conditions and health-related complaints. ([Location 1135](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=1135))
+    - Tags: [[pink]] 
+- With the courage to face our inner feelings and let them go, we thus move on to the levels of acceptance and eventually peace. ([Location 1139](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=1139))
+    - Tags: [[blue]] 
+- Our step will be lighter and we will look younger. ([Location 1141](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=1141))
+- If we don’t resist the feeling of grief and totally surrender to it, it will run out in about 10–20 minutes; ([Location 1142](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=1142))
+    - Tags: [[orange]] 
+- If we keep surrendering to it every time it comes up, then it will eventually run out. ([Location 1143](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=1143))
+    - Tags: [[pink]] 
+- Once a man has fully let the grief come up and totally freed himself from that suppressed energy, he is peaceful and his view of his own masculinity changes. He realizes that his masculinity is now more complete. He is still just as much of a man, but now he is a man who can also be in touch with and handle his own feelings. Consequently, he is more adequate, more capable, more well-rounded, more understanding, more mature, more capable of relating to and understanding others, more compassionate, and more loving. ([Location 1155](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=1155))
+    - Tags: [[blue]] 
+- Attachment and dependence occur because we feel incomplete within ourselves; therefore, we seek objects, people, relationships, places, and concepts to fulfill inner needs. ([Location 1159](https://readwise.io/to_kindle?action=open&asin=B00EY818TQ&location=1159))

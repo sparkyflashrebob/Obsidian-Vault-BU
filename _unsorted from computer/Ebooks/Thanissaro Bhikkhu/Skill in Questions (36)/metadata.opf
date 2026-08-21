@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">36</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">28dee5b5-dec8-48e9-beb2-d8d01c9bfd64</dc:identifier>
+        <dc:title>Skill in Questions</dc:title>
+        <dc:creator opf:file-as="Bhikkhu, Thanissaro" opf:role="aut">Thanissaro Bhikkhu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.9.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-03-29T06:32:04+00:00</dc:date>
+        <dc:description>&lt;p&gt;This is a book about discernment in action, centered on the Buddha's strategic use of discernment in framing and responding to questions.&lt;/p&gt;</dc:description>
+        <dc:publisher>Metta Forest Monastery</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Dharma</dc:subject>
+        <dc:subject>Buddhism</dc:subject>
+        <dc:subject>Theravada</dc:subject>
+        <dc:subject>Dhamma</dc:subject>
+        <dc:subject>Pali Canon</dc:subject>
+        <meta content="{&quot;Thanissaro Bhikkhu&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-01-29T04:01:34.714000+00:00" name="calibre:timestamp"/>
+        <meta content="Skill in Questions" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

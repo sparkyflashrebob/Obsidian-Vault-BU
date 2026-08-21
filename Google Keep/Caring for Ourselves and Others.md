@@ -1,0 +1,5 @@
+---
+tags: []
+---
+
+In caring for ourselves and others, integrity is essential. Years ago I read of a study that was done at a rural Illinois state mental hospital. The hospital was out in the farmlands, just off a tollway. The exit to the hospital had an unmanned machine to collect fifty cents from each car, but not everyone paid. A psychologist who worked at the hospital began to wonder about this. He set up a hidden camera to record who paid and who didn’t. Then he looked at the hospital record of healed and discharged patients. He discovered that the patients of those doctors and therapists who paid their tolls got better more quickly than the patients of those who did not pay. It is as if we who are healers somehow communicate our integrity and it gives strength to those we work with as well.

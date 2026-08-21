@@ -1,0 +1,219 @@
+# A Clinician's Guide to Teaching Mindfulness
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/51J45TFNpgL._SL200_.jpg)
+
+## Metadata
+- Author: [[Christiane Wolf , J. Greg Serpa, Jack Kornfield  (Foreword), Trudy Goodman (Foreword)]]
+- Full Title: A Clinician's Guide to Teaching Mindfulness
+- Category: #books
+
+## Highlights
+- But with teaching mindfulness, I witness pretty much every day how people change their own life through the practices I teach them. That is such gratifying work.” ([Location 267](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=267))
+    - Tags: [[orange]] 
+- in the traditional Buddhist setting the focus is more on spirituality and ([Location 269](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=269))
+    - Tags: [[pink]] 
+- the attainment of liberation (often used synonymously with “enlightenment”). ([Location 270](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=270))
+    - Tags: [[pink]] 
+- “sacred.” ([Location 294](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=294))
+    - Tags: [[blue]] 
+- “paying attention.” ([Location 317](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=317))
+    - Tags: [[blue]] 
+- Mindfulness is awareness, cultivated by paying attention in a sustained and particular way: on purpose, in the present moment, and nonjudgmentally. ([Location 319](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=319))
+    - Tags: [[orange]] 
+- two-component model of mindfulness. ([Location 324](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=324))
+- self-regulation of attention ([Location 325](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=325))
+    - Tags: [[orange]] 
+- adopting a particular orientation toward one’s experience in the present moment, an orientation that is characterized by curiosity, openness, and acceptance. (232) ([Location 326](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=326))
+    - Tags: [[orange]] 
+- mindfulness is something that needs to be practiced and experienced in order to really understand it. ([Location 328](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=328))
+    - Tags: [[pink]] 
+- rehashing the past ([Location 335](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=335))
+    - Tags: [[orange]] 
+- rehearsing the future. ([Location 335](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=335))
+- In order to be mindful, we have to be conscious of our awareness. ([Location 338](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=338))
+    - Tags: [[pink]] 
+- lacking awareness ([Location 339](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=339))
+    - Tags: [[orange]] 
+- how our mood colors our so-called objective experience. ([Location 340](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=340))
+- how desire and aversion influence how we respond to our environment. ([Location 341](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=341))
+    - Tags: [[blue]] 
+- We tend to carry tension and stress in the body without realizing it. ([Location 342](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=342))
+    - Tags: [[orange]] 
+- We miss a lot of potential positive and pleasant moments, ([Location 343](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=343))
+    - Tags: [[orange]] 
+- We tend to hold on to unpleasant moments and experiences in our mind long after they are over, even if the present moment could be pleasant or neutral again. ([Location 346](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=346))
+    - Tags: [[pink]] 
+- it is not only about the fact that we are paying attention, ([Location 348](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=348))
+    - Tags: [[orange]] 
+- but also about how we pay attention. ([Location 348](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=348))
+    - Tags: [[pink]] 
+- our perception is influenced by many different details: needs at the moment of perception, values, memory, cultural background, intention, and the emotional state, to name a few. ([Location 350](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=350))
+    - Tags: [[orange]] 
+- acceptance, nonjudging, nonstriving, letting go/letting be, patience, trust, beginner’s mind, and gratitude and generosity. ([Location 359](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=359))
+    - Tags: [[pink]] 
+- curiosity, kindness, and humor. ([Location 361](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=361))
+    - Tags: [[pink]] 
+- They are all interconnected. When focusing on one attitude, often others will arise as well. ([Location 363](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=363))
+    - Tags: [[orange]] 
+- Mindfulness without curiosity is impossible. ([Location 366](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=366))
+    - Tags: [[pink]] 
+- We can explore how being curious changes our perception of the moment. ([Location 367](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=367))
+    - Tags: [[orange]] 
+- For example, if we don’t just see the angry behavior but also the hurt and confusion that caused the anger in the first place, we are more likely to respond with kindness. ([Location 373](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=373))
+    - Tags: [[orange]] 
+- It is easier to give from a place of abundance than from scarcity. ([Location 381](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=381))
+- We can only invite it in and learn more about the conditions it needs to show up more regularly. ([Location 386](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=386))
+    - Tags: [[pink]] 
+- Acceptance requires an active turning toward a situation and realizing that it really is the way it is right now. ([Location 387](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=387))
+    - Tags: [[orange]] 
+- “Yes, I don’t like it and this is the way it is right now.” ([Location 388](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=388))
+- But in mindfulness, there is no need to stop it—even if we could—but to observe it and see the effect of it instead. ([Location 399](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=399))
+    - Tags: [[orange]] 
+- Nonstriving is moving from our constant, habitual doing mode into the more open, receptive being ([Location 404](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=404))
+- the pushing away causes stress and pain just like the grasping. ([Location 412](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=412))
+- With practice we grow our ability to see where we are caught and to let go or leave it alone. ([Location 414](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=414))
+    - Tags: [[orange]] 
+- Breathing is a great example of letting go. At the end of each in-breath we need to let go, as well as at the end of each out-breath, in order to make space for the new out-breath and the new in-breath. It doesn’t make sense to hold on. With small examples like this we can turn our attention to the felt experience of letting go. ([Location 416](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=416))
+    - Tags: [[blue]] 
+- Here doesn’t feel as good or rewarding as we expect there to feel, so we miss here altogether. ([Location 421](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=421))
+- potential joy of this particular moment—only to do the same thing once we are there. ([Location 423](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=423))
+    - Tags: [[orange]] 
+- The good news is that the times we are impatient are the best (and really, the only) times we can practice patience! ([Location 424](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=424))
+    - Tags: [[orange]] 
+- You are the expert on yourself. ([Location 434](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=434))
+    - Tags: [[orange]] 
+- A mindfulness practice brings us back to the simple truth that we can trust ourselves and that trusting ourselves is mandatory if we ever want to live a meaningful life. ([Location 436](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=436))
+    - Tags: [[blue]] 
+- “In the beginner’s mind there are many possibilities, but in the expert’s there are few.” ([Location 450](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=450))
+    - Tags: [[orange]] 
+- “to sympathize,” ([Location 452](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=452))
+- with,” especially to feel the pain of another. ([Location 452](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=452))
+- the wish or impulse to alleviate suffering in another living being ([Location 455](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=455))
+    - Tags: [[orange]] 
+- Empathy is feeling the pain of another without any protection or buffer. It can easily overwhelm us and lead to emotional shutdown. Compassion, in comparison, is the protection against this overwhelm and shutdown. ([Location 472](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=472))
+    - Tags: [[orange]] 
+- The most important quality a mindfulness facilitator brings into the classroom is the embodiment of mindfulness and compassion. ([Location 817](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=817))
+- place of authenticity, ([Location 825](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=825))
+    - Tags: [[pink]] 
+- established personal practice, ([Location 825](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=825))
+    - Tags: [[orange]] 
+- “applied art of conscious living.” ([Location 838](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=838))
+    - Tags: [[pink]] 
+- moment-by-moment awareness. ([Location 843](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=843))
+- Mindfulness doesn’t care what it is mindful of. ([Location 844](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=844))
+    - Tags: [[orange]] 
+- Mindfulness is not an experience enhancer ([Location 845](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=845))
+    - Tags: [[pink]] 
+- It’s the willingness to be present, to invite every moment into our awareness, be it pleasant, neutral, or unpleasant. ([Location 847](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=847))
+    - Tags: [[pink]] 
+- Teaching Tip:  The closer you stay to what you know through your direct experience, the better. ([Location 859](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=859))
+    - Tags: [[orange]] 
+- Teaching Tip: You need to do at least what you ask your students to do, better even if you do a little bit more. If you ask them to practice ten minutes every day, we recommend that you practice at least fifteen to twenty minutes. If you ask them to practice loving-kindness every day for a particular week, that’s what you would do as well, even if your favorite meditation might be a different exercise. ([Location 871](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=871))
+    - Tags: [[orange]] 
+- Practitioners bring specific qualities into the therapy, qualities of attention that are not attached to outcome—compassion ([Location 883](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=883))
+    - Tags: [[pink]] 
+- compassion and acceptance. ([Location 884](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=884))
+    - Tags: [[orange]] 
+- Teaching Tip: The teacher is an important model, demonstrating to the student how to gently be with everything, including difficulties, just as it is. ([Location 891](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=891))
+- mindfulness-based cognitive therapy ([Location 896](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=896))
+    - Tags: [[pink]] 
+- Practice Tip:  Our own sustained, continuous effort and practice of mindfulness is a nonnegotiable prerequisite of our being “good enough” mindfulness facilitators. ([Location 898](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=898))
+    - Tags: [[favorite]] 
+- Formal and informal practice support and enhance each other but are not meant to be practiced exclusively. ([Location 1056](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=1056))
+    - Tags: [[orange]] 
+- for people with highly activated nervous systems (for example, those who suffer from post-traumatic stress) longer meditation can be destabilizing or lead to dissociation. ([Location 1199](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=1199))
+    - Tags: [[orange]] 
+- Avoid adjectives that value an experience. ([Location 1229](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=1229))
+    - Tags: [[blue]] 
+- Avoid ability bias. ([Location 1232](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=1232))
+- we recommend that you lead a meditation in the “you” form, not “we.” ([Location 1241](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=1241))
+    - Tags: [[blue]] 
+- normal speaking voice. ([Location 1246](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=1246))
+    - Tags: [[blue]] 
+- also use your voice to help regulate the energy in the room. ([Location 1251](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=1251))
+    - Tags: [[pink]] 
+- Giving Instructions ([Location 1254](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=1254))
+- typically either giving instructions or providing cues and space. ([Location 1255](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=1255))
+    - Tags: [[pink]] 
+- Instructions tell the participants what you want them to focus on in the meditation. ([Location 1259](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=1259))
+    - Tags: [[pink]] 
+- avoid giving instructions that lead the attention outside the meditation. ([Location 1260](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=1260))
+    - Tags: [[blue]] 
+- Cueing and Space ([Location 1263](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=1263))
+- “Where is the mind now?” ([Location 1265](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=1265))
+    - Tags: [[orange]] 
+- “If the mind wanders, just noticing it and gently bringing it back to the breath.” (This is an example of an instruction that is also a very common cue.) ([Location 1265](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=1265))
+    - Tags: [[orange]] 
+- “This moment is like this… And this moment is like this.” ([Location 1266](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=1266))
+- Beginning facilitators have a tendency to talk too much throughout a practice. ([Location 1273](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=1273))
+    - Tags: [[orange]] 
+- Teaching Tip: Vary pause lengths during the practice from two breaths to eight or more (counting them helps!). If in doubt, talk less. ([Location 1277](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=1277))
+    - Tags: [[orange]] 
+- Offer a Range of Experiences and Examples ([Location 1280](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=1280))
+    - Tags: [[pink]] 
+- Offer Cues from the Middle of Your Own Practice ([Location 1287](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=1287))
+    - Tags: [[pink]] 
+- Teaching Tip: Imagine there’s an immersion scale that can chart how deeply you engage in the meditation while leading it. A 0 equates reading a script and just focusing on the words, while a 10 means getting fully caught up in the meditation to the class’s detriment. Aim for a 5. ([Location 1301](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=1301))
+    - Tags: [[blue]] 
+- “Cueing from the middle” is a technique all facilitators need to practice and is a skill related to but separate from practicing itself. In the pauses between your sentences or cues, really connect with your body, your breath. Feel it. Then say the next sentence. Then feel back into your body, your own present-moment experience. Practice this back and forth until it feels natural and not like a back and forth anymore. ([Location 1303](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=1303))
+    - Tags: [[blue]] 
+- Practice Tip:  Leading practices in class does not count as your own daily meditation practice! After all, your main focus is on the class, so you can’t attend to your own experience the way you do when you just meditate. ([Location 1306](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=1306))
+    - Tags: [[orange]] 
+- encouraged to promote access for all participants. ([Location 1326](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=1326))
+    - Tags: [[pink]] 
+- One recent, small qualitative assessment of the cultural relevance of mindfulness for African Americans suggests that inadvertent comments from a facilitator mentioning “Buddha” or “support from the universe” can be perceived as culturally and religiously incongruent and result in a rejection of the practice (Woods-Giscombé & Gaylord, 2014). We encourage facilitators to use inclusive, non-Buddhist language with the utmost of care toward cultural factors. ([Location 1329](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=1329))
+    - Tags: [[blue]] 
+- use inclusive, non-Buddhist language ([Location 1332](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=1332))
+    - Tags: [[orange]] 
+- Facilitator Tools ([Location 1333](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=1333))
+    - Tags: [[pink]] 
+- Scripts ([Location 1336](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=1336))
+    - Tags: [[orange]] 
+- Poems and Stories ([Location 1346](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=1346))
+    - Tags: [[orange]] 
+- Teaching Tip: Start a collection of printed poems and stories that you bring to each class in a binder (or use an app on your smartphone). Choose a poem for that particular meditation before you start the class session (or, once you have more experience, before the start of the meditation) from your collection. You can transition from guidance to the ([Location 1350](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=1350))
+    - Tags: [[blue]] 
+- poem by saying something like: “As we are coming to the end of our meditation, I want to read you a poem by…” ([Location 1352](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=1352))
+    - Tags: [[orange]] 
+- listen for the so-called Three Marks of Existence in the sharing of students. ([Location 1392](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=1392))
+    - Tags: [[orange]] 
+- Shit happens. Also characterized as the inherent unsatisfactoriness of life (see also Session +2). No matter how hard we try or how lucky we might be, there will always be something or somebody that causes us stress and suffering. Everything changes. Impermanence is a fact of life. Change is the only constant. Don’t take it personally. A lot of suffering stems from our taking what happens personally. We can see it more as part of the human experience instead. ([Location 1394](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=1394))
+- Reassure and Normalize ([Location 1401](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=1401))
+    - Tags: [[orange]] 
+- Whole Range of Experience ([Location 1407](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=1407))
+    - Tags: [[pink]] 
+- Intellectual Questions and What’s Behind Them ([Location 1420](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=1420))
+    - Tags: [[blue]] 
+- Trust Emergence ([Location 1428](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=1428))
+- The Practice of Inquiry ([Location 1444](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=1444))
+    - Tags: [[orange]] 
+- What Inquiry Is Not ([Location 1468](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=1468))
+    - Tags: [[orange]] 
+- This is common. ([Location 1492](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=1492))
+    - Tags: [[pink]] 
+- “dipping your toe in.” ([Location 1494](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=1494))
+    - Tags: [[orange]] 
+- When Practice Feels Like It’s Getting Worse ([Location 1496](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=1496))
+    - Tags: [[blue]] 
+- disclose ([Location 1515](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=1515))
+    - Tags: [[orange]] 
+- should facilitate the teaching process. ([Location 1516](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=1516))
+    - Tags: [[pink]] 
+- exemplify the universality of the human experience. ([Location 1517](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=1517))
+- But if you can’t: Practice with it. ([Location 1548](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=1548))
+- As the distractions fall away the volume is turned up on all internal experience. ([Location 1564](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=1564))
+    - Tags: [[orange]] 
+## New highlights added August 26, 2023 at 1:09 PM
+- The overwhelming majority of participants in mindfulness classes come for stress reduction and more ease of living, while in the traditional Buddhist setting the focus is more on spirituality and the attainment of liberation (often used synonymously with “enlightenment”). ([Location 268](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=268))
+    - Tags: [[pink]] 
+- Since mindfulness practice stems from Buddhism, we find it of utmost importance that mindfulness facilitators are not only aware of this background but also know about the basic concepts from which mindfulness and… ([Location 270](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=270))
+    - Tags: [[orange]] 
+- in an overly simplified and reductionist way, which conceivably cuts down on its… ([Location 272](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=272))
+    - Tags: [[orange]] 
+- give the Buddhist and the psychologist angles on the same topic, particularly when teaching new… ([Location 274](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=274))
+- Formal practice: A formal practice is what is traditionally called “meditation.” It entails setting aside the time to do nothing but meditating, for example, by doing a Body Scan. A formal meditation can take take between one minute and many hours. Traditionally, a formal practice can be… ([Location 278](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=278))
+    - Tags: [[blue]] 
+- Informal practice: We practice informally when we apply mindfulness or compassion fully to something that we are already doing in our everyday life. Mostly we focus intensely on the sensations that arise within the situation. For example, eating: We focus on sight, smell, taste, touch, and maybe even sound to anchor us in the present moment. We might also become aware of emotions or thoughts arising in the moment. The basic instructions are the same for both formal and informal practices: Become aware of the present-moment experience (… ([Location 281](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=281))
+    - Tags: [[pink]] 
+- Over the past few years the term “secular mindfulness” has been used by some as one way to denote the use of mindfulness practices in nonreligious contexts and differentiate it from more traditionally Buddhist contexts in which mindfulness is taught and cultivated. At times a special term seemed—and still seems—to be necessary to allow these teachings to enter settings like universities, hospitals, and all other organizations in which teaching explicitly religious practices would not be welcome or appropriate. However, we feel that use of the term “secular” in the context of mindfulness is inappropriate, as the word itself suggests a differential split away from what we think of as its opposite, namely the “sacred.” It thereby introduces a fundamental dualism that undermines the essentially nondual essence of dharma wisdom upon which mindfulness practices are based, whether framed within classical Buddhist teachings or in a… ([Location 289](https://readwise.io/to_kindle?action=open&asin=B00TZE87YI&location=289))
+    - Tags: [[blue]] 

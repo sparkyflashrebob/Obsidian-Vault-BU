@@ -1,0 +1,239 @@
+# Tribe
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/41VmwhKoZbL._SL200_.jpg)
+
+## Metadata
+- Author: [[Sebastian Junger]]
+- Full Title: Tribe
+- Category: #books
+
+## Highlights
+- What I wanted wasn’t destruction and mayhem but the opposite: solidarity. ([Location 71](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=71))
+    - Tags: [[orange]] 
+- he’d taken responsibility for me. ([Location 94](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=94))
+    - Tags: [[pink]] 
+    - Note: this is compassion.
+- about what we can learn from tribal societies about loyalty and belonging and the eternal human quest for meaning. ([Location 99](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=99))
+    - Tags: [[orange]] 
+- It’s about why—for many people—war feels better than peace and hardship can turn out to be a great blessing and disasters are sometimes remembered more fondly than weddings or tropical vacations. ([Location 99](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=99))
+    - Tags: [[pink]] 
+- Humans don’t mind hardship, in fact they thrive on it; what they mind is not feeling necessary. Modern society has perfected the art of making people not feel necessary. ([Location 101](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=101))
+    - Tags: [[orange]] 
+- Ishi ([Location 107](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=107))
+- run by consensus and broadly egalitarian. ([Location 110](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=110))
+    - Tags: [[pink]] 
+- Individual authority was earned rather than seized and imposed only on people who were willing to accept it. ([Location 111](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=111))
+    - Tags: [[orange]] 
+- It may say something about human nature that a surprising number of Americans—mostly men—wound up joining Indian society rather than staying in their own. They emulated Indians, married them, were adopted by them, and on some occasions even fought alongside them. ([Location 114](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=114))
+    - Tags: [[orange]] 
+- And the opposite almost never happened: Indians almost never ran away to join white society. Emigration always seemed to go from the civilized to the tribal, and it left Western thinkers flummoxed about how to explain such an apparent rejection of their society. ([Location 116](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=116))
+    - Tags: [[pink]] 
+- “When an Indian child has been brought up among us, taught our language and habituated to our customs,” Benjamin Franklin wrote to a friend in 1753, “[yet] if he goes to see his relations and make one Indian ramble with them, there is no persuading him ever to return.” ([Location 118](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=118))
+- On the other hand, Franklin continued, white captives who were liberated from the Indians were almost impossible to keep at home: “Tho’ ransomed by their friends, and treated with all imaginable tenderness to prevail with them to stay among the English, yet in a short time they become disgusted with our manner of life… and take the first good opportunity of escaping again into the woods.” ([Location 120](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=120))
+    - Tags: [[blue]] 
+- “Thousands of Europeans are Indians, and we have no examples of even one of those Aborigines having from choice become European,” a French émigré named Hector de Crèvecoeur lamented in 1782. “There must be in their social bond something singularly captivating and far superior to anything to be boasted of among us.” ([Location 177](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=177))
+    - Tags: [[pink]] 
+- “We had no master to oversee or drive us, so that we could work as leisurely as we pleased,” ([Location 187](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=187))
+    - Tags: [[orange]] 
+- “No people can live more happy than the Indians did in times of peace… Their lives were a continual round of pleasures.” ([Location 188](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=188))
+    - Tags: [[orange]] 
+- Increase Mather ([Location 192](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=192))
+    - Tags: [[pink]] 
+- Mather was an early administrator of Harvard who spent his life combating—and criminalizing—any relaxation of the Puritan moral code. ([Location 192](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=192))
+    - Tags: [[blue]] 
+- Virtually all of the Indian tribes waged war against their neighbors and practiced deeply sickening forms of torture. ([Location 206](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=206))
+    - Tags: [[pink]] 
+- dogs. If there is any conceivable defense for such cruelty, it might be that in Europe at the time, the Spanish ([Location 208](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=208))
+    - Tags: [[orange]] 
+- Inquisition was also busy serving up just as much barbarism on behalf of… ([Location 209](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=209))
+    - Tags: [[orange]] 
+- The Protestant Reformation changed a lot of things about Christianity but not its capacity for cruelty, and early Puritan leaders in New England were… ([Location 210](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=210))
+- and Indian society was essentially classless and… ([Location 215](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=215))
+    - Tags: [[pink]] 
+- For all the temptations of native life, one of the most compelling might have been its fundamental egalitarianism. Personal property was usually limited to whatever could be transported by horse or on foot, so gross inequalities of wealth were difficult to accumulate. Successful hunters and warriors could support multiple wives, but unlike modern society, those advantages were generally not passed on through the generations. Social status came through hunting and war, which all men had access to, and women had far more autonomy and sexual freedom—and bore fewer children—than women in white society. “Here I have no master,” an anonymous colonial woman was quoted by the secretary of the French legation as saying about her life with the Indians. “I am the equal of all the women in the tribe, I do… ([Location 218](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=218))
+    - Tags: [[blue]] 
+- But cowardice was punished by death, as was murder within the tribe or any kind of… ([Location 227](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=227))
+- considered the preservation of the tribe an… ([Location 228](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=228))
+    - Tags: [[blue]] 
+- The question for Western society isn’t so much why tribal life might be so appealing—it seems obvious on the face of it—but why… ([Location 229](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=229))
+    - Tags: [[blue]] 
+- as societies become more affluent they tend to require more, rather than less, time and commitment by the individual, and it’s possible that many people feel that affluence and… ([Location 231](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=231))
+    - Tags: [[orange]] 
+- Because of the strong emphasis on sharing, and the frequency of movement, surplus… ([Location 237](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=237))
+    - Tags: [[pink]] 
+- The Kalahari is one of the harshest environments in the world, and the !Kung were able to continue living a Stone-Age existence well into the 1970s precisely because no one else wanted to live there. The !Kung were so well adapted to their environment that during times of drought, nearby farmers and cattle herders abandoned their livelihoods to join them in the bush because foraging and hunting were a more reliable source of food. The relatively relaxed pace of !Kung life—even during times of adversity—challenged long-standing ideas that modern society created a surplus of leisure time. It created exactly the opposite: a desperate… ([Location 238](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=238))
+    - Tags: [[orange]] 
+- Early humans would most likely have lived in nomadic bands of around fifty people, much like the !Kung. They would have experienced high levels of accidental injuries and deaths. They would have countered domineering behavior by senior males by forming coalitions within the group. They would have been utterly intolerant of hoarding or selfishness. They would have occasionally endured episodes of hunger, violence, and hardship. They would have practiced extremely close and… ([Location 246](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=246))
+    - Tags: [[blue]] 
+- First agriculture, and then industry, changed two fundamental things about the human experience. The accumulation of personal property allowed people to make more and more individualistic choices about their lives, and those choices… ([Location 250](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=250))
+- strangers. They can be surrounded by others and yet feel deeply,… ([Location 253](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=253))
+    - Tags: [[orange]] 
+- Although happiness is notoriously subjective and difficult to measure,… ([Location 254](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=254))
+- Numerous cross-cultural studies have shown that modern society—despite its nearly miraculous advances in medicine, science, and technology—is afflicted with some of the highest rates of depression, schizophrenia, poor health, anxiety, and chronic loneliness in human history. As affluence and urbanization rise in a society, rates of depression and suicide tend to go up rather than down.… ([Location 255](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=255))
+    - Tags: [[blue]] 
+- Early sources report that the Bella Coola, the Ojibwa, the Montagnais, the Arapaho, the Plateau Yuma, the Southern Paiute, and the Zuni, among many others, experienced no suicide at all. ([Location 265](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=265))
+    - Tags: [[blue]] 
+- According to a global survey by the World Health Organization, people in wealthy countries suffer depression at as much as eight times the rate they do in poor countries, and people in countries with large income disparities—like the United States—run a much higher lifelong risk of developing severe mood disorders. ([Location 268](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=268))
+    - Tags: [[pink]] 
+- A 2006 study comparing depression rates in Nigeria to depression rates in North America found that across the board, women in rural areas were less likely to get depressed than their urban counterparts. And urban North American women—the most affluent demographic of the study—were the most likely to experience depression. ([Location 270](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=270))
+- The mechanism seems simple: poor people are forced to share their time and resources more than wealthy people are, and as a result they live in closer communities. Inter-reliant poverty comes with its own stresses—and certainly isn’t the American ideal—but it’s much closer to our evolutionary heritage than affluence. A wealthy person who has never had to rely on help and resources from his community is leading a privileged life that falls way outside more than a million years of human experience. Financial independence can lead to isolation, and isolation can put people at a greatly increased risk of depression and suicide. This might be a fair trade for a generally wealthier society—but a trade it is. ([Location 272](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=272))
+    - Tags: [[blue]] 
+- In 2015, the George Washington Law Review surveyed more than 6,000 lawyers and found that conventional success in the legal profession—such as high billable hours or making partner at a law firm—had zero correlation with levels of happiness and well-being reported by the lawyers themselves. ([Location 278](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=278))
+    - Tags: [[orange]] 
+- self-determination theory, which holds that human beings need three basic things in order to be content: they need to feel competent at what they do; they need to feel authentic in their lives; and they need to feel connected to others. ([Location 281](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=281))
+- These values are considered “intrinsic” to human happiness and far outweigh “extrinsic” values such as beauty, money, and status. ([Location 283](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=283))
+    - Tags: [[blue]] 
+- autonomy, competence, and community—and ([Location 288](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=288))
+    - Tags: [[pink]] 
+- “The economic and marketing forces of modern society have engineered an environment… that maximize[s] consumption at the long-term cost of well-being,” ([Location 290](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=290))
+    - Tags: [[orange]] 
+- “In effect, humans have dragged a body with a long hominid history into an overfed, malnourished, sedentary, sunlight-deficient, sleep-deprived, competitive, inequitable, and socially-isolating environment with dire consequences.” ([Location 291](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=291))
+- Clearly, touch and closeness are vital to the health of baby primates—including humans. ([Location 299](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=299))
+    - Tags: [[blue]] 
+- Also unthinkable would be the modern practice of making young children sleep by themselves. ([Location 301](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=301))
+    - Tags: [[orange]] 
+- numbers. The isolation is thought to make many children bond intensely with stuffed animals for reassurance. ([Location 304](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=304))
+    - Tags: [[blue]] 
+- Compare the self-soothing approach to that of a traditional Mayan community in Guatemala: “Infants and children simply fall asleep when sleepy, do not wear specific sleep clothes or use traditional transitional objects, room share and cosleep with parents or siblings, and nurse on demand during the night.” ([Location 309](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=309))
+    - Tags: [[pink]] 
+- Another study notes about Bali: “Babies are encouraged to acquire quickly the capacity to sleep under any circumstances, including situations of high stimulation, musical performances, and other noisy observances which reflect their more complete integration into adult social activities.” ([Location 311](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=311))
+- As modern society reduced the role of community, it simultaneously elevated the role of authority. ([Location 313](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=313))
+- “failure to share.” ([Location 323](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=323))
+    - Tags: [[orange]] 
+- Boehm’s research has led him to believe that much of the evolutionary basis for moral behavior stems from group pressure. ([Location 328](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=328))
+    - Tags: [[blue]] 
+- Not only are bad actions punished, but good actions are rewarded. ([Location 329](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=329))
+- When a person does something for another person—a prosocial act, as it’s called—they are rewarded not only by group approval but also by an increase of dopamine and other pleasurable hormones in their blood. ([Location 329](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=329))
+    - Tags: [[orange]] 
+- Hominids that cooperated with one another—and punished those who didn’t—must have outfought, outhunted, and outbred everyone else. ([Location 333](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=333))
+    - Tags: [[pink]] 
+- Modern society, on the other hand, is a sprawling and anonymous mess where people can get away with incredible levels of dishonesty without getting caught. ([Location 337](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=337))
+    - Tags: [[blue]] 
+- What tribal people would consider a profound betrayal of the group, modern society simply dismisses as fraud. ([Location 338](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=338))
+- Around 3 percent of people on unemployment assistance intentionally cheat the system, for example, which costs the United States more than $2 billion a year. ([Location 339](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=339))
+    - Tags: [[orange]] 
+- That is ironic, because the political origins of the United States lay in confronting precisely this kind of resource seizure by people in power. ([Location 376](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=376))
+    - Tags: [[blue]] 
+- In that sense, Paine claimed, the American Indian should serve as a model for how to eradicate poverty and bring natural rights back into civilized life. ([Location 386](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=386))
+    - Tags: [[pink]] 
+## New highlights added November 12, 2023 at 10:00 AM
+- They were destroying the thing they all wanted, ([Location 996](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=996))
+    - Tags: [[blue]] 
+## New highlights added November 19, 2023 at 9:09 AM
+- We didn’t learn the lesson of the war, which is how important it is to share everything you have with human beings close to you. ([Location 694](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=694))
+    - Tags: [[orange]] 
+- The best way to explain it is that the war makes you an animal. We were animals. It’s insane—but that’s the basic human instinct, to help another human being who is sitting or standing or lying close to you.” ([Location 694](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=694))
+    - Tags: [[blue]] 
+- What I had was classic short-term PTSD. From an evolutionary perspective, it’s exactly the response you want to have when your life is in danger: you want to be vigilant, you want to avoid situations where you are not in control, you want to react to strange noises, you want to sleep lightly and wake easily, you want to have flashbacks and nightmares that remind you of specific threats to your life, and you want to be, by turns, angry and depressed. Anger keeps you ready to fight, and depression keeps you from being too active and putting yourself in more danger. Flashbacks also serve to remind you of the danger that’s out there—a “highly efficient single-event survival-learning mechanism,” as one researcher termed it. All humans react to trauma in this way, and most mammals do as well. It may be unpleasant, but it’s preferable to getting killed. ([Location 723](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=723))
+    - Tags: [[pink]] 
+- Invariably I would wake up and just lie there in the dark, trying to figure out why feelings that seemed to belong to other people kept spilling out of me. ([Location 733](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=733))
+    - Tags: [[orange]] 
+- The Iroquois system reflected the radically divergent priorities that a society must have during peacetime and during war. ([Location 760](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=760))
+    - Tags: [[orange]] 
+- A rapid recovery from psychological trauma must have been exceedingly important in our evolutionary past, and individuals who could climb out of their shock reaction and resume fleeing or fighting must have survived at higher rates than those who couldn’t. ([Location 770](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=770))
+    - Tags: [[orange]] 
+- A 2011 study of street children in Burundi found the lowest PTSD rates among the most aggressive and violent children. Aggression seemed to buffer them from the effects of previous trauma that they had experienced. ([Location 772](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=772))
+    - Tags: [[blue]] 
+- Almost everyone exposed to trauma reacts by having some sort of short-term reaction to it—acute PTSD. That reaction clearly has evolved in mammals to keep them both reactive to danger and out of harm’s way until the threat has passed. Long-term PTSD, on the other hand—the kind that can last years or even a lifetime—is clearly maladaptive and relatively uncommon. ([Location 775](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=775))
+- 20 percent of people who have been traumatized get long-term PTSD. ([Location 778](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=778))
+    - Tags: [[orange]] 
+- Still, most soldiers go through that and other terrible experiences and don’t wind up with long-term trauma. ([Location 795](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=795))
+    - Tags: [[orange]] 
+- Multiple studies, including a 2007 analysis from the Institute of Medicine and the National Research Council, found that a person’s chance of getting chronic PTSD is in great part a function of their experiences before going to war. ([Location 795](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=795))
+    - Tags: [[orange]] 
+- Statistically, the 20 percent of people who fail to overcome trauma tend to be those who are already burdened by psychological issues, either because they inherited them or because they suffered abuse as children. ([Location 797](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=797))
+    - Tags: [[orange]] 
+- voluntary service has resulted in a military population that has a disproportionate number of young people with a history of sexual abuse. ([Location 811](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=811))
+    - Tags: [[pink]] 
+- One theory for this holds that military service is an easy way for young people to get out of their home, and so the military will disproportionally draw recruits from troubled families. According ([Location 812](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=812))
+    - Tags: [[blue]] 
+- Sexual abuse is a well-known predictor of depression and other mental health issues, and the military suicide rate may in part be a result of that. ([Location 815](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=815))
+    - Tags: [[orange]] 
+- Today, most disability claims are for hearing loss, tinnitus, and PTSD—the latter two of which can be imagined, exaggerated, or even faked. ([Location 849](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=849))
+    - Tags: [[orange]] 
+- They simply had to claim “a credible fear of being attacked” during deployment. As with welfare and other so-called “entitlement” programs, a less rigorous definition of need—though well-intentioned—may have produced a system that is vulnerable to error or fraud. ([Location 851](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=851))
+    - Tags: [[orange]] 
+- Investigators reluctantly came to the conclusion that some vets were getting treatment simply to raise their disability rating and claim more compensation. ([Location 857](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=857))
+    - Tags: [[pink]] 
+- other vets wanted to beat him up for seeming to fake his trauma. ([Location 860](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=860))
+    - Tags: [[blue]] 
+    - Note: attacked for their thoughts and feelings.
+- The vast majority of traumatized vets are not faking their symptoms, however. They return from wars that are safer than those their fathers and grandfathers fought, and yet far greater numbers of them wind up alienated and depressed. This is true even for people who didn’t experience combat. ([Location 862](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=862))
+- It’s common knowledge in the Peace Corps that as stressful as life in a developing country can be, returning to a modern country can be far harder. ([Location 866](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=866))
+    - Tags: [[orange]] 
+- Studies from around the world show that recovery from war—from any trauma—is heavily influenced by the society one belongs to, and there are societies that make that process relatively easy. ([Location 868](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=868))
+- dangerously alienated ([Location 872](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=872))
+    - Tags: [[orange]] 
+- it makes one wonder exactly what it is about modern society that is so mortally dispiriting to come home to. ([Location 873](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=873))
+    - Tags: [[pink]] 
+- missing the war ([Location 875](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=875))
+    - Tags: [[orange]] 
+- You had fifteen guys who for the first time in their lives were not living in a competitive society. We had no hopes of becoming officers. I liked that feeling very much… It was the absence of competition and boundaries and all those phony standards that created the thing I loved about the Army.” ([Location 880](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=880))
+- Adversity often leads people to depend more on one another, and that closeness can produce a kind of nostalgia for the hard times that even civilians are susceptible to. ([Location 882](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=882))
+    - Tags: [[orange]] 
+- I miss those days of extreme brotherhood… ([Location 887](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=887))
+    - Tags: [[blue]] 
+- What people miss presumably isn’t danger or loss but the unity that these things often engender. ([Location 888](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=888))
+    - Tags: [[orange]] 
+- There are obvious stresses on a person in a group, but there may be even greater stresses on a person in isolation, so during disasters there is a net gain in well-being. ([Location 888](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=888))
+    - Tags: [[pink]] 
+- Most primates, including humans, are intensely social, and there are very few instances of lone primates surviving in the wild. ([Location 890](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=890))
+    - Tags: [[blue]] 
+- A modern soldier returning from combat—or a survivor of Sarajevo—goes from the kind of close-knit ([Location 891](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=891))
+- knit group that humans evolved for, back into a society where most people work outside the home, children are educated by strangers, families are isolated from wider communities, and personal gain almost completely eclipses collective good. ([Location 891](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=891))
+- Whatever the technological advances of modern society—and they’re nearly miraculous—the individualized lifestyles that those technologies spawn seem to be deeply brutalizing to the human spirit. ([Location 894](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=894))
+    - Tags: [[blue]] 
+- antihuman society,” ([Location 896](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=896))
+    - Tags: [[orange]] 
+- “We are not good to each other. Our tribalism is to an extremely narrow group of people: our children, our spouse, maybe our parents. Our society is alienating, technical, cold, and mystifying. Our fundamental desire, as human beings, is to be close to others, and our society does not allow for that.” ([Location 898](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=898))
+    - Tags: [[pink]] 
+- That kind of group sleeping has been the norm throughout human history and is still commonplace in most of the world. ([Location 905](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=905))
+    - Tags: [[blue]] 
+- Northern European societies are among the few where people sleep alone or with a partner in a private room, and that may have significant implications for mental health in general and for PTSD in particular. ([Location 906](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=906))
+- In humans, lack of social support has been found to be twice as reliable at predicting PTSD as the severity of the trauma itself. ([Location 908](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=908))
+    - Tags: [[orange]] 
+- Anthropologist Brandon Kohrt found a similar phenomenon in the villages of southern Nepal, where a civil war has been rumbling for years. There are two kinds of villages in that area: exclusively Hindu ones that have sharp class distinctions, and mixed Hindu and Buddhist ones that are far more open and cohesive. ([Location 911](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=911))
+    - Tags: [[orange]] 
+- “PTSD is a disorder of recovery, ([Location 915](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=915))
+    - Tags: [[orange]] 
+- and if treatment only focuses on identifying symptoms, it pathologizes and alienates vets. But if the focus is on family and community, it puts them in a situation of collective healing.” ([Location 915](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=915))
+    - Tags: [[orange]] 
+- “shared public meaning” ([Location 927](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=927))
+    - Tags: [[orange]] 
+- Because modern society has almost completely eliminated trauma and violence from everyday life, anyone who does suffer those things is deemed to be extraordinarily unfortunate. ([Location 934](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=934))
+    - Tags: [[orange]] 
+- identity of victimhood ([Location 936](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=936))
+    - Tags: [[pink]] 
+- Their classification as victims, however—with the attendant perks and benefits common to Western society—made their reintegration much harder. ([Location 952](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=952))
+    - Tags: [[blue]] 
+- In the United States we valorize our vets with words and posters and signs, but we don’t give them what’s really important to Americans, what really sets you apart as someone who is valuable to society—we don’t give them jobs. All the praise in the world doesn’t mean anything if you’re not recognized by society as someone who can contribute valuable labor.” ([Location 956](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=956))
+- America’s great wealth, although a blessing in many ways, has allowed for the growth of an individualistic society that suffers high rates of depression and anxiety. ([Location 961](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=961))
+    - Tags: [[blue]] 
+- ex-combatants shouldn’t be seen—or be encouraged to see themselves—as victims. ([Location 963](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=963))
+    - Tags: [[orange]] 
+- Perhaps most important, veterans need to feel that they’re just as necessary and productive back in society as they were on the battlefield. ([Location 970](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=970))
+    - Tags: [[pink]] 
+- “social resilience” ([Location 974](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=974))
+    - Tags: [[orange]] 
+- social ([Location 976](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=976))
+- resilience is an even better predictor of trauma recovery than the level of resilience of the person himself. ([Location 977](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=977))
+- how very close the energy of male conflict and male closeness can be. ([Location 1012](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=1012))
+    - Tags: [[pink]] 
+- organized around the idea of belonging, and the trick was to convince people that their interests had more in common than they had in conflict. ([Location 1014](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=1014))
+    - Tags: [[blue]] 
+- There’s no use arguing that modern society isn’t a kind of paradise. The vast majority of us don’t, personally, have to grow or kill our own food, build our own dwellings, or defend ourselves from wild animals and enemies. In one day we can travel a thousand miles by pushing our foot down on a gas pedal or around the world by booking a seat on an airplane. When we are in pain we have narcotics that dull it out of existence, and when we are depressed we have pills that change the chemistry of our brains. We understand an enormous amount about the universe, from subatomic particles to our own bodies to galaxy clusters, and we use that knowledge to make life even better and easier for ourselves. The poorest people in modern society enjoy a level of physical comfort that was unimaginable a thousand years ago, and the wealthiest people literally live the way gods were imagined to have. And yet. ([Location 1019](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=1019))
+- community. ([Location 1027](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=1027))
+- Two of the behaviors that set early humans apart were the systematic sharing of food and altruistic group defense. ([Location 1029](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=1029))
+    - Tags: [[orange]] 
+- The earliest and most basic definition of community—of tribe—would be the group of people that you would both help feed and help defend. ([Location 1031](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=1031))
+    - Tags: [[pink]] 
+- It makes absolutely no sense to make sacrifices for a group that, itself, isn’t willing to make sacrifices for you. ([Location 1035](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=1035))
+    - Tags: [[orange]] 
+- The public is often accused of being disconnected from its military, but frankly it’s disconnected from just about everything. ([Location 1042](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=1042))
+    - Tags: [[pink]] 
+- In this sense, littering is an exceedingly petty version of claiming a billion-dollar bank bailout or fraudulently claiming disability payments. When you throw trash on the ground, you apparently don’t see yourself as truly belonging to the world that you’re walking around in. And when you fraudulently claim money from the government, you are ultimately stealing from your friends, family, and neighbors—or somebody else’s friends, family, and neighbors. That diminishes you morally far more than it diminishes your country financially. My friend Ellis was once asked by a troubled young boy whether there was any compelling reason for him not to pull the legs off a spider. Ellis said that there was. “Well, spiders don’t feel any pain,” the boy retorted. “It’s not the spider I’m worried about,” Ellis said. ([Location 1053](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=1053))
+    - Tags: [[blue]] 
+- A rampage shooting ([Location 1076](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=1076))
+    - Tags: [[orange]] 
+- has never happened in an urban ghetto, for example; in fact, indiscriminate attacks at schools almost always occur in otherwise safe, predominantly white towns. ([Location 1076](https://readwise.io/to_kindle?action=open&asin=B01BCJDSNI&location=1076))
+    - Tags: [[orange]] 

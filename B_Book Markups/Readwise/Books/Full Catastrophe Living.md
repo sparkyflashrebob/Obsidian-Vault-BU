@@ -1,0 +1,222 @@
+# Full Catastrophe Living
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/41VOfpsP1gL._SL200_.jpg)
+
+## Metadata
+- Author: [[Jon Kabat-Zinn]]
+- Full Title: Full Catastrophe Living
+- Category: #books
+
+## Highlights
+- In that time, if you are quick enough to bring mindfulness to the sensations you are feeling, you may notice that you stop swearing or yelling or groaning and that your movements become less violent. ([Location 6242](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6242))
+    - Tags: [[orange]] 
+- In conducting this little experiment, you may notice, if your concentration is strong, a center of calmness within yourself from which you can observe the entire episode unfold. ([Location 6247](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6247))
+    - Tags: [[orange]] 
+- It can feel as if you are completely detached from the sensations you are experiencing, as if it were not “your” pain so much as just pain, or even not pain at all but intense sensation, not capturable by any words. Perhaps you felt a sense of being calm “within” the pain or “behind” the pain. ([Location 6248](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6248))
+    - Tags: [[pink]] 
+- Perhaps you observed that your awareness of the pain was not in pain at all, and became a place of refuge, not an escape, but merely a vantage point. ([Location 6250](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6250))
+    - Tags: [[blue]] 
+- Acute pain is usually very intense, but it also only lasts a relatively short while. ([Location 6254](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6254))
+- If you experiment with trying to bring mindfulness to exactly what you are feeling in those moments when you hurt yourself accidentally, you will probably find that how you relate to the sensations you experience makes a big difference in the degree of pain you actually feel and how much you suffer. ([Location 6256](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6256))
+    - Tags: [[orange]] 
+- It also affects your emotions and your behavior. It can be quite a revelation to discover that you have a range of options for dealing with physical pain, even very intense pain, aside from just being automatically overwhelmed by it. ([Location 6258](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6258))
+    - Tags: [[pink]] 
+- By chronic pain, we mean pain that persists over time and that is not easily relieved. ([Location 6260](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6260))
+- chronic pain ([Location 6266](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6266))
+    - Tags: [[blue]] 
+- specific ways in which you can use mindfulness to befriend your pain, ([Location 6266](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6266))
+    - Tags: [[orange]] 
+- coping ([Location 6268](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6268))
+    - Tags: [[blue]] 
+- full medical work-up ([Location 6271](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6271))
+    - Tags: [[orange]] 
+- rule out or confirm disease processes that may require immediate medical attention. ([Location 6272](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6272))
+    - Tags: [[orange]] 
+- pain per se is not a bad thing either. ([Location 6276](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6276))
+    - Tags: [[pink]] 
+- Pain is one of your body’s most important messengers. ([Location 6276](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6276))
+    - Tags: [[blue]] 
+- Pain is a very effective teacher. ([Location 6283](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6283))
+- As a society, we seem to have an aversion to pain, even to the thought of pain or discomfort. This is why we are so quick to reach for medicine as soon as we feel a headache coming on and why we shift our posture as soon as a little muscle stiffness generates some discomfort. As you will see, this aversion to pain can be an obstacle to learning how to live with a chronic pain condition. ([Location 6284](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6284))
+    - Tags: [[blue]] 
+- misplaced aversion to suffering. ([Location 6288](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6288))
+    - Tags: [[orange]] 
+- Pain is a natural part of the experience of life. ([Location 6289](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6289))
+    - Tags: [[orange]] 
+- Suffering is one of many possible responses to pain. Suffering can come out of either physical or emotional pain. It involves our thoughts and emotions and how they frame the meaning of our experiences. Suffering too is perfectly natural. In fact, the human condition is often spoken of as colored by inevitable suffering. But it is important to remember that suffering is only one response to the experience of pain. Even a mild pain can produce great suffering in us if we fear that it means we have a tumor or some other frightening condition. That same pain can be seen as nothing at all, a minor ache or inconvenience, once we are reassured that all the tests are negative and there is no chance that it is a sign of something serious. So it is not always the pain per se but the way we see it and react to it that determines the degree of suffering we will experience. And it is the suffering that we fear most, not the pain. ([Location 6289](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6289))
+    - Tags: [[pink]] 
+- peak and on its level at the end of the procedure. ([Location 6298](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6298))
+    - Tags: [[orange]] 
+- A lingering pain condition can be totally disabling. Pain can erode the quality of your life. It can grind you down bit by bit, making you irritable, depressed, and prone to self-pity and feelings of helplessness and hopelessness. You may feel that you have lost control of your body and of your ability to earn a living, to say nothing of enjoying the activities that usually give pleasure and meaning to life. ([Location 6309](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6309))
+    - Tags: [[orange]] 
+- Being told that you have to learn to live with pain should not be the end of the road—it should be the beginning. ([Location 6315](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6315))
+    - Tags: [[pink]] 
+- alone. In general, those who harbor the attitude that they just want the doctor to “fix it” or to “make it go away” are obviously not good candidates for mindfulness training. They won’t understand the need to take some responsibility themselves for working with their condition. They might also interpret the suggestion that the mind can play a role in the regulation of their pain to mean that their pain is imaginary, that it is “all in their head” in the first place. It is not uncommon for people to think that the doctor is implying that their pain is not “real” when he or she proposes a mind-body approach to pain therapy. People who know they are in pain usually want to have something done to the body to make the pain go away … in other words, to be fixed. ([Location 6328](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6328))
+    - Tags: [[blue]] 
+- your body is not a machine. ([Location 6337](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6337))
+- case, surgeons rarely attempt to cut specific nerve pathways to lessen pain anymore. ([Location 6340](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6340))
+    - Tags: [[pink]] 
+- This kind of surgery used to be performed more frequently, but it usually failed, for the simple reason that pain signals do not travel in exclusive and specific “pain pathways” in the nervous system. ([Location 6341](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6341))
+    - Tags: [[orange]] 
+- In the new paradigm, pain is not just a “body problem,” it is a whole-system problem. ([Location 6346](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6346))
+    - Tags: [[pink]] 
+- is always a mental dimension to pain. ([Location 6353](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6353))
+    - Tags: [[orange]] 
+- you can always influence the pain experience to some extent by mobilizing the inner resources of your own mind, one of which is kindness toward yourself. ([Location 6353](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6353))
+    - Tags: [[blue]] 
+- This implies that negative views and feelings about one’s body, which are especially strong when people are limited in what they can do because of pain, can improve markedly in a short period of time. ([Location 6392](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6392))
+    - Tags: [[pink]] 
+- What we found was that the non-meditators showed little change over the ten weeks that they were being treated in the pain clinic, while the meditators showed major improvements. ([Location 6422](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6422))
+    - Tags: [[orange]] 
+- medical patients with very different kinds of pain problems all show similar improvements in their condition when they engage in the regular cultivation of mindfulness. ([Location 6434](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6434))
+- a willingness to turn toward, lean in, and open to the moment-to-moment experience of pain with great self-compassion and kindness, and to learn from it instead of closing oneself off from it and trying to make it go away—in a word, in inviting even unpleasant and unwanted experiences to become your teacher. ([Location 6438](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6438))
+    - Tags: [[pink]] 
+- Some people have difficulty understanding why we emphasize that they try to enter into their pain when they simply hate it and just want it to go away. Their feeling is, “Why shouldn’t I just ignore it or distract myself from it and grit my teeth, and just endure it when it is too great?” One reason is that there may be times when ignoring it or distracting yourself doesn’t work. ([Location 6442](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6442))
+- tuning in to sensations is a more effective way of reducing the level of pain experienced when the pain is intense and prolonged than is distracting yourself. ([Location 6446](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6446))
+    - Tags: [[blue]] 
+- Understanding and insight, ([Location 6449](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6449))
+    - Tags: [[orange]] 
+- One of the ways we speak about it is that the sensory, the emotional, and the cognitive/conceptual dimensions of the pain experience can be uncoupled from one another, meaning that they can be held in awareness as independent aspects of experience. ([Location 6450](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6450))
+    - Tags: [[orange]] 
+- Once you see that your thoughts about the sensations, for instance, are not the sensations themselves, ([Location 6452](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6452))
+    - Tags: [[pink]] 
+- So, where do you begin? ([Location 6455](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6455))
+    - Tags: [[pink]] 
+- started experimenting with some of the mindfulness exercises ([Location 6456](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6456))
+    - Tags: [[orange]] 
+- to practice one or more of the formal guided meditations on the schedule outlined in Chapter 10. ([Location 6459](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6459))
+    - Tags: [[orange]] 
+- protect a stretch of time in your day, every day (or at least six days a week), to practice, ([Location 6461](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6461))
+    - Tags: [[pink]] 
+- whether you feel like it or not! ([Location 6462](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6462))
+    - Tags: [[blue]] 
+- least forty-five minutes a day, six days a week. ([Location 6464](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6464))
+    - Tags: [[orange]] 
+- intention to practice ([Location 6464](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6464))
+    - Tags: [[pink]] 
+- as if your life depended on it, ([Location 6464](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6464))
+    - Tags: [[blue]] 
+- Be aware of the tendency to identify yourself as a “chronic pain patient.” ([Location 6467](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6467))
+    - Tags: [[pink]] 
+- Your ability to regulate or modulate your experience of pain and develop a healthier relationship with it will grow out of practicing the body scan, the sitting meditation, the yoga (if it is advisable for you to be doing it), and out of the mindfulness you are bringing to everyday living, moment by moment by moment and day by day by day. ([Location 6483](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6483))
+    - Tags: [[pink]] 
+- When you encounter moments when the pain is so intense that it is impossible for you to direct your attention to any other part of your body, let go of the body scan, shut off the CD if you are using it, and just bring your attention to focus directly on the pain itself in that moment. ([Location 6534](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6534))
+    - Tags: [[orange]] 
+- the cultivation of choiceless awareness, a disidentifying with the entire play of inner experience, whether it be the breath, sensations, perceptions, thoughts, or feelings. Toward the end of the body scan, after we have intentionally let go of the body, we sometimes invite our thoughts and feelings, our likes and dislikes, our concepts about ourself and the world, our ideas and opinions, even our name, into the field of awareness and we intentionally let go of them as well, as we simply rest in awareness itself. ([Location 6600](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6600))
+    - Tags: [[pink]] 
+- This suggests that your essential self might be more akin to awareness than to anything else in the ever-changing constellation of aggregates that is you, especially when you learn to inhabit awareness as your “default mode,” your natural baseline condition of being, and embody it in your own friendly way from moment to moment, and day by day, through thick and through thin. ([Location 6613](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6613))
+    - Tags: [[blue]] 
+- Find and cultivate moments of calmness, stillness, and awareness within yourself using your pain as your teacher and guide. ([Location 6628](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6628))
+- Mindfulness does not bulldoze through resistance. ([Location 6633](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6633))
+    - Tags: [[orange]] 
+# Full Catastrophe Living
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/41VOfpsP1gL._SL200_.jpg)
+
+## Metadata
+- Author: [[Jon Kabat-Zinn]]
+- Full Title: Full Catastrophe Living
+- Category: #books
+
+## Highlights
+- In that time, if you are quick enough to bring mindfulness to the sensations you are feeling, you may notice that you stop swearing or yelling or groaning and that your movements become less violent. ([Location 6242](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6242))
+    - Tags: [[orange]] 
+- In conducting this little experiment, you may notice, if your concentration is strong, a center of calmness within yourself from which you can observe the entire episode unfold. ([Location 6247](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6247))
+    - Tags: [[orange]] 
+- It can feel as if you are completely detached from the sensations you are experiencing, as if it were not “your” pain so much as just pain, or even not pain at all but intense sensation, not capturable by any words. Perhaps you felt a sense of being calm “within” the pain or “behind” the pain. ([Location 6248](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6248))
+    - Tags: [[pink]] 
+- Perhaps you observed that your awareness of the pain was not in pain at all, and became a place of refuge, not an escape, but merely a vantage point. ([Location 6250](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6250))
+    - Tags: [[blue]] 
+- Acute pain is usually very intense, but it also only lasts a relatively short while. ([Location 6254](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6254))
+- If you experiment with trying to bring mindfulness to exactly what you are feeling in those moments when you hurt yourself accidentally, you will probably find that how you relate to the sensations you experience makes a big difference in the degree of pain you actually feel and how much you suffer. ([Location 6256](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6256))
+    - Tags: [[orange]] 
+- It also affects your emotions and your behavior. It can be quite a revelation to discover that you have a range of options for dealing with physical pain, even very intense pain, aside from just being automatically overwhelmed by it. ([Location 6258](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6258))
+    - Tags: [[pink]] 
+- By chronic pain, we mean pain that persists over time and that is not easily relieved. ([Location 6260](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6260))
+- chronic pain ([Location 6266](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6266))
+    - Tags: [[blue]] 
+- specific ways in which you can use mindfulness to befriend your pain, ([Location 6266](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6266))
+    - Tags: [[orange]] 
+- coping ([Location 6268](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6268))
+    - Tags: [[blue]] 
+- full medical work-up ([Location 6271](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6271))
+    - Tags: [[orange]] 
+- rule out or confirm disease processes that may require immediate medical attention. ([Location 6272](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6272))
+    - Tags: [[orange]] 
+- pain per se is not a bad thing either. ([Location 6276](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6276))
+    - Tags: [[pink]] 
+- Pain is one of your body’s most important messengers. ([Location 6276](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6276))
+    - Tags: [[blue]] 
+- Pain is a very effective teacher. ([Location 6283](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6283))
+- As a society, we seem to have an aversion to pain, even to the thought of pain or discomfort. This is why we are so quick to reach for medicine as soon as we feel a headache coming on and why we shift our posture as soon as a little muscle stiffness generates some discomfort. As you will see, this aversion to pain can be an obstacle to learning how to live with a chronic pain condition. ([Location 6284](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6284))
+    - Tags: [[blue]] 
+- misplaced aversion to suffering. ([Location 6288](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6288))
+    - Tags: [[orange]] 
+- Pain is a natural part of the experience of life. ([Location 6289](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6289))
+    - Tags: [[orange]] 
+- Suffering is one of many possible responses to pain. Suffering can come out of either physical or emotional pain. It involves our thoughts and emotions and how they frame the meaning of our experiences. Suffering too is perfectly natural. In fact, the human condition is often spoken of as colored by inevitable suffering. But it is important to remember that suffering is only one response to the experience of pain. Even a mild pain can produce great suffering in us if we fear that it means we have a tumor or some other frightening condition. That same pain can be seen as nothing at all, a minor ache or inconvenience, once we are reassured that all the tests are negative and there is no chance that it is a sign of something serious. So it is not always the pain per se but the way we see it and react to it that determines the degree of suffering we will experience. And it is the suffering that we fear most, not the pain. ([Location 6289](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6289))
+    - Tags: [[pink]] 
+- peak and on its level at the end of the procedure. ([Location 6298](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6298))
+    - Tags: [[orange]] 
+- A lingering pain condition can be totally disabling. Pain can erode the quality of your life. It can grind you down bit by bit, making you irritable, depressed, and prone to self-pity and feelings of helplessness and hopelessness. You may feel that you have lost control of your body and of your ability to earn a living, to say nothing of enjoying the activities that usually give pleasure and meaning to life. ([Location 6309](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6309))
+    - Tags: [[orange]] 
+- Being told that you have to learn to live with pain should not be the end of the road—it should be the beginning. ([Location 6315](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6315))
+    - Tags: [[pink]] 
+- alone. In general, those who harbor the attitude that they just want the doctor to “fix it” or to “make it go away” are obviously not good candidates for mindfulness training. They won’t understand the need to take some responsibility themselves for working with their condition. They might also interpret the suggestion that the mind can play a role in the regulation of their pain to mean that their pain is imaginary, that it is “all in their head” in the first place. It is not uncommon for people to think that the doctor is implying that their pain is not “real” when he or she proposes a mind-body approach to pain therapy. People who know they are in pain usually want to have something done to the body to make the pain go away … in other words, to be fixed. ([Location 6328](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6328))
+    - Tags: [[blue]] 
+- your body is not a machine. ([Location 6337](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6337))
+- case, surgeons rarely attempt to cut specific nerve pathways to lessen pain anymore. ([Location 6340](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6340))
+    - Tags: [[pink]] 
+- This kind of surgery used to be performed more frequently, but it usually failed, for the simple reason that pain signals do not travel in exclusive and specific “pain pathways” in the nervous system. ([Location 6341](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6341))
+    - Tags: [[orange]] 
+- In the new paradigm, pain is not just a “body problem,” it is a whole-system problem. ([Location 6346](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6346))
+    - Tags: [[pink]] 
+- is always a mental dimension to pain. ([Location 6353](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6353))
+    - Tags: [[orange]] 
+- you can always influence the pain experience to some extent by mobilizing the inner resources of your own mind, one of which is kindness toward yourself. ([Location 6353](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6353))
+    - Tags: [[blue]] 
+- This implies that negative views and feelings about one’s body, which are especially strong when people are limited in what they can do because of pain, can improve markedly in a short period of time. ([Location 6392](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6392))
+    - Tags: [[pink]] 
+- What we found was that the non-meditators showed little change over the ten weeks that they were being treated in the pain clinic, while the meditators showed major improvements. ([Location 6422](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6422))
+    - Tags: [[orange]] 
+- medical patients with very different kinds of pain problems all show similar improvements in their condition when they engage in the regular cultivation of mindfulness. ([Location 6434](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6434))
+- a willingness to turn toward, lean in, and open to the moment-to-moment experience of pain with great self-compassion and kindness, and to learn from it instead of closing oneself off from it and trying to make it go away—in a word, in inviting even unpleasant and unwanted experiences to become your teacher. ([Location 6438](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6438))
+    - Tags: [[pink]] 
+- Some people have difficulty understanding why we emphasize that they try to enter into their pain when they simply hate it and just want it to go away. Their feeling is, “Why shouldn’t I just ignore it or distract myself from it and grit my teeth, and just endure it when it is too great?” One reason is that there may be times when ignoring it or distracting yourself doesn’t work. ([Location 6442](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6442))
+- tuning in to sensations is a more effective way of reducing the level of pain experienced when the pain is intense and prolonged than is distracting yourself. ([Location 6446](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6446))
+    - Tags: [[blue]] 
+- Understanding and insight, ([Location 6449](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6449))
+    - Tags: [[orange]] 
+- One of the ways we speak about it is that the sensory, the emotional, and the cognitive/conceptual dimensions of the pain experience can be uncoupled from one another, meaning that they can be held in awareness as independent aspects of experience. ([Location 6450](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6450))
+    - Tags: [[orange]] 
+- Once you see that your thoughts about the sensations, for instance, are not the sensations themselves, ([Location 6452](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6452))
+    - Tags: [[pink]] 
+- So, where do you begin? ([Location 6455](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6455))
+    - Tags: [[pink]] 
+- started experimenting with some of the mindfulness exercises ([Location 6456](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6456))
+    - Tags: [[orange]] 
+- to practice one or more of the formal guided meditations on the schedule outlined in Chapter 10. ([Location 6459](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6459))
+    - Tags: [[orange]] 
+- protect a stretch of time in your day, every day (or at least six days a week), to practice, ([Location 6461](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6461))
+    - Tags: [[pink]] 
+- whether you feel like it or not! ([Location 6462](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6462))
+    - Tags: [[blue]] 
+- least forty-five minutes a day, six days a week. ([Location 6464](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6464))
+    - Tags: [[orange]] 
+- intention to practice ([Location 6464](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6464))
+    - Tags: [[pink]] 
+- as if your life depended on it, ([Location 6464](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6464))
+    - Tags: [[blue]] 
+- Be aware of the tendency to identify yourself as a “chronic pain patient.” ([Location 6467](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6467))
+    - Tags: [[pink]] 
+- Your ability to regulate or modulate your experience of pain and develop a healthier relationship with it will grow out of practicing the body scan, the sitting meditation, the yoga (if it is advisable for you to be doing it), and out of the mindfulness you are bringing to everyday living, moment by moment by moment and day by day by day. ([Location 6483](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6483))
+    - Tags: [[pink]] 
+- When you encounter moments when the pain is so intense that it is impossible for you to direct your attention to any other part of your body, let go of the body scan, shut off the CD if you are using it, and just bring your attention to focus directly on the pain itself in that moment. ([Location 6534](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6534))
+    - Tags: [[orange]] 
+- the cultivation of choiceless awareness, a disidentifying with the entire play of inner experience, whether it be the breath, sensations, perceptions, thoughts, or feelings. Toward the end of the body scan, after we have intentionally let go of the body, we sometimes invite our thoughts and feelings, our likes and dislikes, our concepts about ourself and the world, our ideas and opinions, even our name, into the field of awareness and we intentionally let go of them as well, as we simply rest in awareness itself. ([Location 6600](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6600))
+    - Tags: [[pink]] 
+- This suggests that your essential self might be more akin to awareness than to anything else in the ever-changing constellation of aggregates that is you, especially when you learn to inhabit awareness as your “default mode,” your natural baseline condition of being, and embody it in your own friendly way from moment to moment, and day by day, through thick and through thin. ([Location 6613](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6613))
+    - Tags: [[blue]] 
+- Find and cultivate moments of calmness, stillness, and awareness within yourself using your pain as your teacher and guide. ([Location 6628](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6628))
+- Mindfulness does not bulldoze through resistance. ([Location 6633](https://readwise.io/to_kindle?action=open&asin=B00C4BA3UK&location=6633))
+    - Tags: [[orange]] 

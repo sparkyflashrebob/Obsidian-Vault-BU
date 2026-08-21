@@ -1,0 +1,9 @@
+---
+aliases:
+  - Love and compassion are necessities, not luxuries. Without them humanity cannot survive.
+  - ""
+  - Dalai Lama
+tags:
+  - quotes
+  - Compassion
+---

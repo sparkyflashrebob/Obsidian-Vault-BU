@@ -1,0 +1,1998 @@
+# bp519s_chah_Meditation.pdf
+
+A COLLECTION OF TALKS
+
+CULTIVATING THE MIND
+
+BUDDHIST PUBLICATION SOCIETY
+
+KANDY • SRI LANKA
+
+Buddhist Publication Society P.O. Box 61 54 Sangharaja Mawatha Kandy Sri Lanka http://www.bps.lk
+
+Copyright @ 2006 Sangha, Wat Pah Nanachat, Ampher Warin, Ubon Rajathani 34310, Thailand.
+
+BPS edition: 2007
+
+National Library of Sri Lanka -Cataloguing-in-Publication Data
+
+Chah, Ajahn Meditation - Talks on meditation / Ajahn Chah. edited by Nyanatusita - Kandy : Buddhist Publication Society Inc. 2007 - 158p. - 22cm
+
+ISBN 13: 978-955-24-094-4
+
+i.   294 34435 DDC 21 ii. Title iii. Nyanatusita - ed.
+
+1. Meditation
+
+ISBN 13 : 978-955-24-094-4
+
+Typeset at the BPS in URW-Palladio Pali and Carita-BPS. Cover design: Bhikkhu Nyanatusita Cover picture: Bernd Österreicher
+
+INTRODUCTION
+
+ABOUT ACHAN CHAH ................................................................... 1
+
+ABOUT THE TALKS ......................................................................... 3
+
+THE WAY TO PRACTICE .................................................................. 7
+
+UNSHAKEABLE PEACE ................................................................... 18
+
+THE PATH TO PEACE ..................................................................... 63
+
+CONFIDENCE IN THE PRACTICE ...................................................... 87
+
+CLARITY OF INSIGHT ..................................................................... 98
+
+DON’T DOUBT ............................................................................ 123
+
+KEEP KNOWING .......................................................................... 135
+
+WHAT IS CONTEMPLATION? ........................................................ 143
+
+GLOSSARY .................................................................................. 149
+
+ACKNOWLEDGEMENT
+
+The Buddhist Publication Society is grateful to Ajahn Ñáóadhammo, the abbot of Wat Pah Nanachat, and Ajahn Kalyáóo, the abbot of Bodhivana monastery, for giving their kind permission to reprint these talks of Venerable Ajahn Chah and thus make them available to a wider public, especially in Sri Lanka.
+
+INTRODUCTION
+
+ABOUT AJAHN CHAH
+
+Ajahn Chah was born into a large and comfortable family of farmers in a rural village in Northeast Thailand in 1918. He ordained as a novice at the age of nine and on reaching the age of twenty took higher ordination as a monk in a local village monastery. Here he studied some basic scriptural teachings and Pali. Spurred by the death of his father, he left the village monastery and became an ascetic monk, practising meditation under the guidance of several of the local meditation masters in the forest tradition. He wandered for a number of years, sleeping in forests, caves and cremation grounds, and spent a brief but enlightening period with Ajahn Mun, one of the most famous and respected Thai meditation masters of this century.
+
+In 1954, after many years of travel and practice, he was invited to settle in a thick forest grove near the village of his birth. This grove was uninhabited, known as a place of cobras, tigers, and ghosts, thus being, as he said, the perfect location for a forest monk. At first, Ajahn Chah lived alone in the grove, but soon he attracted a small group of monastic disciples with whom he lived a very austere life for some years. As his reputation grew, more and more monks, nuns, and laypeople came to hear his teachings and to stay on and practice with him. Gradually a large monastic community formed around Ajahn Chah and the once desolate grove turned into the thriving forest monastery called Wat Pah Pong. Many branch forest monasteries were, and are, set up throughout Thailand and in Australia, Europe, and North America as well.
+
+On entering Wat Pah Pong, one might encounter monks mindfully sweeping or drawing water from a well, and a sign on the path that says: “You there, be quiet! We are trying to meditate.” Although there are group meditations in the early morning and evening, and occasional Dhamma talks by the
+
+2 senior monk, the heart of the meditation is the quiet and mindful way of life in the forest. The monks here live very simple, following the ascetic practices of going on alms-round in the nearby villages at dawn, eating once a day from their bowls after coming back from alms-round, and limiting their possessions and robes to what is essential. Scattered throughout the forest are simple, solitary huts made of bamboo or wood. Here the monks live and meditate alone, and they practice walking meditation on cleared paths under the trees. Monks also do manual work; they dye and sew their own robes, make most of their requisites and keep the monastery buildings and grounds in immaculate shape. Discipline is strict, enabling the monks to lead a simple and pure life in a harmoniously regulated community where virtue, meditation, and wisdom may be skilfully and continually cultivated.
+
+In 1966 the first Westerner came to stay at Wat Pah Pong, the American Bhikkhu Sumedho. Ajahn Chah’s simple, down to earth, witty, yet profound style of teaching has a special appeal to Westerners and many came to study and practice with him. Ajahn Chah supported his most senior Western disciple, Ajahn Sumedho, in establishing Wat Pah Nanachat (meaning “International Forest Monastery”) near Wat Pah Pong as a special training monastery for the growing number of Westerners interested in undertaking monastic training. Since then senior monks who became monks under Ajahn Chah established branch monasteries in the West. Ajahn Chah himself went twice to Europe and North America, and supported the establishment of the first branch monastery in the West, Chithurst Buddhist Monastery in England, which soon grew into a thriving community of monks and nuns.
+
+Ajahn Chah emphasised that wisdom is a way of living and being. He therefore endeavoured to preserve the traditional simple lifestyle and discipline of the monks in order that people may study and practise Dhamma in the present day.
+
+After a decade-long illness, due to a heavy stroke that made him unable to speak and move, Ajahn Chah passed away in 1992 at the age of seventy-four. He left behind a thriving community of monastics and lay-followers living in monasteries all over the world.
+
+3 ABOUT THE TALKS
+
+Ajahn Chah’s wonderfully simple style can be quite deceptive. It is often only after one has heard something from him many times that one’s mind is ripe and the teaching can take on a deeper meaning. He had great skill in tailoring his explanations  to time and place, and to the understanding and sensitivity of the audience, whether monastic or lay. Sometimes on paper though, it can make him seem inconsistent. At such times, one should remember that these words are a record of living experience. Similarly, if the teaching may seem to vary at times from tradition, it should be born in mind that the Ajahn always spoke from the depths of his own experience.
+
+Ajahn Chah always gave his talks in simple, everyday language. His objective was to clarify the Dhamma, not to confuse his listeners with an overload of information. Consequently, the talks presented here have been rendered into correspondingly simple English. The aim has been to present Ajahn Chah’s teaching in both the spirit and letter.
+
+It is inevitable that there will be some repetitions in the talks, especially so because the talks all deal with the same topic of meditation. Indeed, it can be expected that a great teacher like Ajahn Chah might repeat himself. Over time, any teacher builds up a small or large, and ever expanding repertoire of stories, similes, quotations, jokes, etc, from which he taps when teaching, and which his long-standing pupils will have frequently heard. The discourses of the Buddha as preserved in the Pali Canon abound with repetitions, which appear to have been part of his teaching method so as to drive home points and let his teachings penetrate deeply into the minds of his listeners. Ajahn Chah’s way of teaching is similar.
+
+The talks in the book were translated by various translators from old cassette tape recordings. Most talks were earlier published in various booklets that were privately published by the Sangha of Wat Pah Nanachat. All are available at http://www.amaravati.org/abmnew// index.php/teachingsofajahnchah/index and http:// ajahnchah.googlepages.com.
+
+4  “The Way to Practice” is a talk given to the Western monks and laypeople at the Hampstead Vihára, London, 1977, when Ajahn Chah visited the West for the first time.
+
+“Unshakeable Peace” was, in its Thai form, the first of Ajahn Chah’s teachings to appear in print. It is a talk given to a visiting Thai scholar monk and a group of his lay students at Wat Pah Pong in the 1960s.
+
+“The Path to Peace” is a talk given to newly ordained monks and novices, presumably at Wat Pah Pong.
+
+“Confidence in the Practice” is a talk given to Western lay meditators at an unknown time and location. Probably it
+
+was given in the West as Ajahn Chah mentions vipassaná
+
+retreats and parties.
+
+“Clarity of Insight“ is a talk given to a group of Thai lay meditators in Bangkok in April 1979.
+
+“Don’t Doubt” is a question and answer session that took place after a short talk to Western monks at Wat Pah Nanachat in 1977.
+
+“Keep Knowing” is from a conversation between Ajahn Chah and a Thai lay Buddhist. It has not been published before.
+
+“What is Contemplation” is taken from a session of questions and answers between Venerable Ajahn Chah and a group of English-speaking monks at Wat Gor Nork monastery during the Vassa of 1979.
+
+What is the purpose of tranquility? Why should we have wisdom? They
+
+are only for the purpose of freeing ourselves from suffering, nothing else.
+
+THE WAY TO PRACTICE
+
+A talk given to the monks and laypeople at the Hampstead Vihára, London, 1977, when Ajahn Chah visited the West for the first time.
+
+Seekers of goodness who have gathered here, please listen in peace. Listening to the Dhamma in peace means to listen with a one-pointed mind, paying attention to what you hear and then letting go. Listening to the Dhamma is of great benefit. While listening to the Dhamma we are encouraged
+
+to firmly establish both body and mind in samádhi, meditative
+
+concentration, because it is one kind of Dhamma practice. In the time of the Buddha people listened to Dhamma talks intently, with a mind aspiring to real understanding, and some actually realized the Dhamma while listening.
+
+This place is well suited to meditation practice. Having stayed here a couple of nights, I can see that it is an important place. On the external level it is already peaceful; all that remains is the internal level, your hearts and minds. So I ask all of you to make an effort to pay attention.
+
+Why have you gathered here to practice meditation? It’s because your hearts and minds do not understand what should be understood. In other words, you don’t truly know how things are, or what is what. You don’t know what is wrong and what is right, what it is that brings you suffering and causes you to doubt. So first you have to make yourselves calm. The reason you have come here to develop calm and restraint is that your hearts and minds are not at ease. Your minds are not calm, not restrained. They are swayed by doubting and agitation. This is why you have come here today and are now listening to the Dhamma.
+
+I would like you to concentrate and listen carefully to what I say, and I ask permission to speak frankly because that’s how I am. Please understand that even if I do speak in a forceful manner, I am doing so out of good will. I ask
+
+your forgiveness if there is anything I say that upsets you, because the customs of Thailand and those of the West are not the same. Actually, speaking a little forcefully can be good because it helps to stir people up who might otherwise be sleepy or drowsy, and rather than rousing themselves to hear the Dhamma, allow themselves to drift instead into complacency and as a result never understand anything.
+
+THE POINT OF BALANCE
+
+Although there may appear to be many ways to practice really there is only one. As with fruit trees, it is possible to get fruit quickly by planting a cutting, but the tree would not be resilient or long lasting. Another way is to cultivate a tree right from the seed, which produces a strong and resilient tree. Practice is the same.
+
+When I first began to practice, I had problems understanding this. As long as I still didn’t know what’s what, sitting meditation was a real chore, even bringing me to tears on occasion. Sometimes I would be aiming too high, at others not high enough, never finding the point of balance. To practice in a way that’s peaceful means to place the mind neither too high or too low, but at the point of balance.
+
+I can see that it’s very confusing for you, coming from different places and having practiced in different ways with different teachers. Coming to practice here you must be plagued with all kinds of doubts. One teacher says you must practice in one way, another says you should practice another way. You wonder which method to use, unsure of the essence of the practice. The result is confusion. There are so many teachers and so many teachings that nobody knows how to harmonize their practice. As a result there is a lot of doubt and uncertainty.
+
+So you must try not to think too much. If you do think, then do so with awareness. But so far your thinking has been done with no awareness. First you must make your mind calm. Where there is knowing there is no need to think, awareness will arise in its place, and this will in turn become wisdom
+
+(paññá). But the ordinary kind of thinking is not wisdom; it is
+
+THE WAY TO PRACTICE
+
+simply the aimless and unaware wandering of the mind, which inevitably results in agitation. This is not wisdom.
+
+At this stage you don’t need to think. You’ve already done a great deal of thinking at home, haven’t you? It just stirs up the heart. You must establish some awareness. Obsessive thinking can even bring you tears; just try it out. Getting lost in some train of thought won’t lead you to the truth; it’s not wisdom. The Buddha was a very wise person; he had learned how to stop thinking. In the same way, you are practicing here in order to stop thinking and thereby arrive at peace. If you are already calm, it is not necessary to think, wisdom will arise in its place.
+
+To meditate you do not have to think more than to resolve that right now is the time for training the mind and nothing else. Don’t let the mind shoot off to the left or to the right, to the front or behind, above or below. Our only duty right now is to practice mindfulness of the breathing. Fix your attention at the head and move it down through the body to the tips of the feet, and then back up to the crown of the head. Pass your awareness down through the body, observing with wisdom. We do this to gain an initial understanding of the way the body is. Then begin the meditation, noting that at this time your sole duty is to observe the inhalations and exhalations. Don’t force the breath to be any longer or shorter than normal, just allow it to continue easily. Don’t put any pressure on the breath, rather let it flow evenly, letting go with each in-breath and out-breath.
+
+You must understand that you are letting go as you do this, but there should still be awareness. You must maintain this awareness, allowing the breath to enter and leave comfortably. There is no need to force the breath, just allow it to flow easily and naturally. Maintain the resolve that at this time you have no other duties or responsibilities. Thoughts about what will happen, what you will know or see during the meditation may arise from time to time, but once they arise just let them cease by themselves, don’t be unduly concerned over them.
+
+During the meditation there is no need to pay attention to sense impressions. Whenever the mind is affected by sense
+
+impingement, wherever there is a feeling or sensation in the mind, just let it go. Whether those sensations are good or bad is unimportant. It is not necessary to make anything out of those sensations; just let them pass away and return your attention to the breath. Maintain the awareness of the breath entering and leaving. Don’t create suffering over the breath being too long or too short, simply observe it without trying to control or suppress it in any way. In other words, don’t grasp tightly. Allow the breath to continue as it is, and the mind will become calm. As you continue, the mind will gradually lay things down and come to rest, the breath becoming lighter and lighter until it becomes so faint that it seems like it’s not there at all. Both the body and the mind will feel light and energized. All that will remain will be a one-pointed knowing. You could say that the mind has changed and reached a state of calm.
+
+If the mind is agitated, set up mindfulness and inhale deeply till there is no space left to store any air, then release it all completely until none remains. Follow this with another deep inhalation until you are full, then release the air again. Do this two or three times, then re-establish concentration. The mind should be calmer. Repeat the process on every occasion that sense impressions cause agitation in the mind. Similarly with walking meditation: if while walking the mind becomes agitated, stop still, calm the mind, re-establish the awareness with the meditation object, and then continue walking. Sitting and walking meditation are in essence the same, differing only in terms of the physical posture used.
+
+MINDFULNESS
+
+Sometimes there may be doubt, so you must have mindfulness
+
+(sati), to be the one who knows, continually following and
+
+examining the agitated mind in whatever form it takes. This is to have sati, which watches over and takes care of the mind. You must maintain this knowing and not be careless or wander astray, no matter what condition the mind takes on.
+
+The trick is to have sati taking control and supervising the mind. Once the mind is unified with sati, a new kind of awareness will emerge. The mind that has developed calm is
+
+THE WAY TO PRACTICE
+
+held in check by that calm, just like a chicken held in a coop— the chicken is unable to wander outside, but it can still move around within the coop. Its walking to and fro doesn’t get it into trouble because it is restrained by the coop. Likewise the awareness that takes place when the mind has sati and is calm does not cause trouble. None of the thoughts or feelings that take place within the calm mind can cause harm or disturbance.
+
+Some people don’t want to experience any thoughts or feelings at all, but this is going too far. Feelings arise within the state of calm. The mind is both experiencing feelings and calm at the same time, without being disturbed. When there is calm like this, there are no harmful consequences. Problems occur when the “chicken” gets out of the “coop.” For instance, you may be watching the breath entering and leaving and then forget yourself, allowing the mind to wander away from the breath, back home, off to the shops or to any number of different places. Maybe even half an hour may pass before you suddenly realize you’re supposed to be practicing meditation and reprimand yourself for your lack of sati. This is where you have to be really careful, because this is where the chicken gets out of the coop—the mind leaves its base of calm.
+
+You must take care to maintain the awareness with sati and try to pull the mind back. Although I use the words “pull the mind back,” in fact the mind doesn’t really go anywhere; only the object of awareness has changed. You must make the mind stay right here and now. As long as there is sati, there will be presence of mind. It seems like you are pulling the mind back, but really it hasn’t gone anywhere, it has simply changed a little. It seems that the mind goes here and there, but in fact the change occurs right at the one spot. When sati is regained, in a flash you are back with the mind without it having to be brought from anywhere.
+
+When there is total knowing, a continuous and unbroken awareness at each and every moment, this is called presence of mind. If your attention drifts from the breath to other places, then the knowing is broken. Whenever there is awareness of the breath, the mind is there. With just the breath and this even and continuous awareness, you have presence of mind.
+
+There must be both sati and sampajañña. Sati is recollection
+
+and sampajañña is self-awareness. Right now you are clearly aware of the breath. This exercise of watching the breath helps sati and sampajañña develop together. They share the work. Having both sati and sampajañña is like having two workers to lift a heavy plank of wood. Suppose there are two people trying to lift some heavy planks, but the weight is so great that they have to strain so hard that it’s almost unendurable. Then another person, imbued with goodwill, sees them and rushes in to help. In the same way, when there
+
+is sati and sampajañña, paññá (wisdom) will arise at the same
+
+place to help out, then all three of them support each other.
+
+WISDOM FOSTERS UNDERSTANDING
+
+With paññá there will be an understanding of sense objects. For instance, during the meditation sense objects are experienced which give rise to feelings and moods. You may start to think of a friend, but then paññá should immediately counter with “It doesn’t matter,” “Stop,” or “Forget it.” Or if there are thoughts about where you will go tomorrow, then the response would be, “I’m not interested; I don’t want to concern myself with such things.” Maybe you start thinking about other people, then you should think, “No, I don’t want to get involved,” “Just let go,” or “It’s all uncertain and never a sure thing.” This is how you should deal with things in meditation, recognizing them as “not sure, not sure,” and maintaining this kind of awareness.
+
+You must give up all the thinking, the inner dialogue and the doubting. Don’t get caught up in these things during the meditation. In the end, all that will remain in the mind in its purest form are sati, sampajañña, and paññá. Whenever these things weaken, doubts will arise. Try to abandon those doubts immediately, leaving only sati, sampajañña and paññá. Try to develop sati like this until it can be maintained at all times. Then you will understand sati, sampajañña and samádhi thoroughly.
+
+When focusing the attention at this point, you will see sati, sampajañña, samádhi, and paññá together. Whether you are attracted to or repelled by external sense objects, you
+
+THE WAY TO PRACTICE
+
+will be able to tell yourself, “It’s not sure.” Either way, they are just hindrances to be swept away till the mind is clean. All that should remain is sati, recollection; sampajañña, clear awareness; samádhi, the firm and unwavering mind; and paññá, wisdom. For the time being I will say just this much on the subject of meditation.
+
+AIDS TO MEDITATION PRACTICE
+
+Now I shall speak about the tools or aids to meditation
+
+practice: there should be mettá (loving-kindness) in your heart,
+
+in other words, the qualities of generosity, kindness and helpfulness. These qualities should be maintained as the foundation for mental purity. For example, begin doing away
+
+with lobha, or selfishness, through giving. When people are
+
+selfish, they aren’t happy. Selfishness leads to a sense of discontent, and yet people tend to be very selfish without realizing how it affects them.
+
+You can experience this at any time, especially when you are hungry. Suppose you get some apples and you have the opportunity to share them with a friend; you think it over for a while, and, sure, the intention to give is there all right, but you want to give the smaller one. To give the big one would be … well, such a shame. It’s hard to think straight. You tell them to go ahead and take one, but then you say, “Take this one!” … and give them the smaller apple. This is one form of selfishness that people usually don’t notice. Have you ever been like this?
+
+You really have to go against the grain to give. Even though you may really only want to give the smaller apple, you must force yourself to give away the bigger one. Of course, once you have given it to your friend, you feel good inside. Training the mind by going against the grain in this way requires self-discipline—you must know how to give and how to give up, not allowing selfishness to stick. Once you learn how to give, if you are still hesitating over which fruit to give, then while you are deliberating you will be troubled, and even if you give the bigger one, there will still be a sense of reluctance. But as soon as you firmly decide to
+
+give the bigger one the matter is over and done with. This is going against the grain in the right way.
+
+Doing this, you win mastery over yourself. If you can’t do it, you will be a victim of yourself and continue to be selfish. All of us have been selfish in the past. This is a defilement which needs to be cut off. In the Páli scriptures,
+
+giving is called dána. It means bringing happiness to others. It
+
+is one of those conditions that help to cleanse the mind from defilement. Reflect on this and develop it in your practice.
+
+You may think that practicing like this involves hounding yourself, but it doesn’t really. Actually, it’s hounding craving and the defilements. If defilements arise within you, you have to do something to remedy them. Defilements are like a stray cat: if you give it as much food as it wants, it will always be coming around looking for more food, but if you stop feeding it, after a couple of days it’ll stop coming around. It’s the same with the defilements: they won’t come to disturb you, they’ll leave your mind in peace. So rather than being afraid of the defilements, make the defilements afraid of you. To make the defilements afraid of you, you must see the Dhamma within your minds.
+
+Where does the Dhamma arise? It arises with our knowing and understanding in this way. Everyone is able to know and understand the Dhamma. It’s not something that has to be found in books, you don’t have to do a lot of study to see it, just reflect right now, and you can see what I am talking about. Everybody can see it because it exists right within our hearts. Everybody has defilements, don’t they? If you are able to see them, then you can understand. In the past you’ve looked after and pampered your defilements, but now you must know your defilements and not allow them to come and bother you.
+
+VIRTUE NURTURES THE PRACTICE
+
+The next constituent of practice is virtue (sìla). Sìla watches
+
+over and nurtures the practice in the same way as parents look after their children. Maintaining virtue means not only to avoid harming others but also to help and encourage them. At the very least you should maintain the five precepts. They are:
+
+#### THE WAY TO PRACTICE
+
+1. Not only refraining from killing or deliberately harming others, but also to spread goodwill towards all beings.
+
+2. To be honest, refraining from infringing on the rights of others, in other words, not stealing.
+
+3. Knowing moderation in sexual relations. In the household life there exists the family structure, based around husband and wife. Know who your husband or wife is, know moderation, and know the proper bounds of sexual activity. Some people don’t know the limits. One husband or wife isn’t enough, they have to have a second or third. The way I see it, you can’t consume even one partner completely, so to have two or three is just plain indulgence. You must try to cleanse the mind and train it to know moderation. Knowing moderation is true purity, without it there are no limits to your behaviour. When eating delicious food, don’t dwell too much on how it tastes; think of your stomach, and consider how much is appropriate to its needs. If you eat too much, you get trouble; so you must know moderation. Moderation is the best way. Just one partner is enough; two or three is an indulgence and will only cause problems.
+
+4. To be honest in speech. This is also a tool for eradicating defilements. You must be honest and straight, truthful and upright.
+
+5. To refrain from taking intoxicants. You must know restraint and preferably give these things up altogether. People are already intoxicated enough with their families, relatives and friends, material possessions, wealth and all the rest of it. That’s quite enough already without making things worse by taking intoxicants as well. These things just create darkness in the mind. Those who take large amounts should try to gradually cut down and eventually give it up altogether.
+
+Maybe I should ask your forgiveness, but my speaking in this way is out of a concern for your benefit, so that you can understand that which is good. You need to know what is what. What are the things that are oppressing you in your everyday lives? What are the actions which cause this
+
+oppression? Good actions bring good results and bad actions bring bad results. These are the causes.
+
+Once virtue is pure, there will be a sense of honesty and kindness towards others. This will bring about contentment and freedom from worries and remorse. Remorse resulting from aggressive and hurtful behaviour will not be there. This is a form of happiness which is almost like a heavenly state. There is comfort; you eat and sleep in comfort with the happiness arising from virtue. Happiness is the result; maintaining virtue is the cause. This is a principle of Dhamma practice—refraining from bad actions so that goodness can arise. If virtue is maintained in this way, evil will disappear and good will arise in its place. This is the result of right practice.
+
+REFLECT ON HAPPINESS
+
+But this isn’t the end of the story: Once people have attained some happiness, they tend to be heedless and don’t go any further in the practice. They get stuck on happiness. They don’t want to progress any further; they prefer the happiness of “heaven.” It’s comfortable but there’s no real understanding. You must keep reflecting to avoid being deluded. Reflect again and again on the disadvantages of this happiness. It’s transient; it doesn’t last forever. Soon you are separated from it. It’s not a sure thing. Once happiness disappears, then suffering arises in its place and the tears come again. Even heavenly beings end up crying and suffering.
+
+So the Lord Buddha taught us to reflect on the disadvantages, that there exists an unsatisfactory side to happiness. Usually when this kind of happiness is experienced, there is no real understanding of it. The peace that is truly certain and lasting is covered over by this deceptive happiness. This happiness is not a certain or permanent kind of peace, but rather a form of defilement, a refined form of defilement to which we attach. Everybody likes to be happy. Happiness arises because of our liking for something. As soon as that liking changes to dislike, suffering arises. We must reflect on this happiness to see its uncertainty and limitation. Once things change, suffering arises. This suffering is also uncertain; don’t think that it is fixed or
+
+THE WAY TO PRACTICE
+
+absolute. This kind of reflection is called ádìnavasaññá, the
+
+reflection on the inadequacy and limitation of the conditioned world. This means to reflect on happiness rather than accepting it at face value. Seeing that it is uncertain, you shouldn’t cling tightly to it. You should take hold of it, but then let it go, seeing both the benefit and the harm of happiness. To meditate skilfully, you have to see the disadvantages inherent within happiness. Reflect in this way. When happiness arises, contemplate it thoroughly until the disadvantages become apparent.
+
+When you see that things are imperfect, your heart will
+
+come to understand the nekkhammasaññá, the reflection on
+
+renunciation. The mind will become disinterested and seek for a way out. Disinterest comes from having seen the way forms really are, the way tastes really are, the way love and hatred really are. By disinterest we mean that there is no longer the desire to cling to or attach to things. There is a withdrawal from clinging, to a point where you can abide comfortably, observing with an equanimity that is free of attachment. This is the peace that arises from practice.
+
+UNSHAKEABLE PEACE
+
+A  talk given to a visiting Thai scholar monk and a group of his lay students at Wat Pah Pong in the 1960s.
+
+The whole reason for studying the Dhamma, the teachings of the Buddha, is to search for a way to transcend suffering and attain peace and happiness. Whether we study physical
+
+or mental phenomena, the mind (citta) or its psychological factors (cetasiká), it’s only when we make liberation from
+
+suffering our ultimate goal that we’re on the right path— nothing less. Suffering has a cause, a condition, for its existence.
+
+Please clearly understand that when the mind is still, it’s in its natural, normal state. As soon as the mind moves, it becomes
+
+conditioned (saòkhára). When the mind is attracted to something,
+
+it becomes conditioned. When aversion arises, it becomes conditioned. The desire to move here and there arises from conditioning. If our awareness doesn’t keep pace with these mental proliferations as they occur, the mind will chase after them and be conditioned by them. Whenever the mind moves, at that moment, it becomes a conventional reality.
+
+So the Buddha taught us to contemplate these wavering conditions of the mind. Whenever the mind moves, it becomes
+
+unstable and impermanent (anicca), unsatisfactory (dukkha) and cannot be taken as a self (anattá). These are the three universal
+
+characteristics of all conditioned phenomena. The Buddha taught us to observe and contemplate these movements of the mind.
+
+It’s likewise with the teaching of dependent origination
+
+(paticca-samuppáda): ignorance (avijjá) is the cause and
+
+condition for the arising of volitional kammic formations
+
+(saòkhára); which is the cause and condition for the arising of consciousness (viññáóa); which is the cause and condition for the arising of mentality and materiality (náma-rúpa), and so
+
+on, just as we’ve studied in the scriptures. The Buddha separated each link of the chain to make it easier to study. This is an accurate description of reality, but when this
+
+UNSHAKEABLE PEACE
+
+process actually occurs in real life the scholars aren’t able to keep up with what’s happening. It’s like falling from the top of a tree to come crashing down to the ground below. We have no idea how many branches we’ve passed on the way down. Similarly, when the mind is suddenly hit by a mental impression, if it delights in it, then it flies off into a good mood. It considers it good without being aware of the chain of conditions that led there. The process takes place in accordance with what is outlined in the theory, but simultaneously it goes beyond the limits of that theory.
+
+There’s nothing that announces, “This is delusion. These are volitional kammic formations, and that is consciousness.” The process doesn’t give the scholars a chance to read out the list as it is happening. Although the Buddha analyzed and explained the sequence of mind moments in minute detail, to me it’s more like falling out of a tree. As we come crashing down there’s no opportunity to estimate how many feet and inches we’ve fallen. What we do know is that we’ve hit the ground with a thud and it hurts!
+
+The mind is the same. When it falls for something, what we’re aware of is the pain. Where did all this suffering, pain, grief, and despair come from? It didn’t come from theory in a book. There isn’t anywhere where the details of our suffering are written down. Our pain won’t correspond exactly with the theory, but the two travel along the same road. So scholarship alone can’t keep pace with the reality. That’s why the Buddha taught to cultivate clear knowing for ourselves. Whatever arises, arises in this knowing. When that which knows, knows in accordance with the truth, then the mind and its psychological factors are recognized as not ours. Ultimately all these phenomena are to be discarded and thrown away as if they were rubbish. We shouldn’t cling to or give them any meaning.
+
+THEORY AND REALITY
+
+The Buddha did not teach about the mind and its psychological factors so that we’d get attached to the concepts. His sole intention was that we would recognize them as impermanent, unsatisfactory and not-self. Then let go. Lay
+
+them aside. Be aware and know them as they arise. This mind has already been conditioned. It’s been trained and conditioned to turn away and spin out from a state of pure awareness. As it spins, it creates conditioned phenomena that further influence the mind, and the proliferation carries on. The process gives birth to the good, the evil, and everything else under the sun. The Buddha taught to abandon it all. Initially, however, you have to familiarize yourself with the theory in order that you’ll be able to abandon it all at the later stage. This is a natural process. The mind is just this way. Psychological factors are just this way.
+
+Take the Noble Eightfold Path, for example. When
+
+wisdom (paññá) views things correctly with insight, this right
+
+view then leads to right intention, right speech, right action, and so on. This all involves psychological conditions that have arisen from that pure knowing awareness. This knowing is like a lantern shedding light on the path ahead on a dark night. If the knowing is right, is in accordance with truth, it will pervade and illuminate each of the other steps on the path in turn.
+
+Whatever we experience, it all arises from within this knowing. If this mind did not exist, the knowing would not exist either. All these things are mental phenomena. As the Buddha said, the mind is merely the mind: it’s not a being, a person, a self, or yourself; it’s neither us nor them. The Dhamma is simply the Dhamma. It is a natural, selfless process. It does not belong to us or anyone else. It isn’t any thing. Whatever a person experiences, it all falls within five
+
+fundamental categories (khandhas): body, feeling, perception,
+
+thoughts and consciousness. The Buddha said to let it all go.
+
+Meditation is like a single stick of wood. Insight
+
+(vipassaná) is one end of the stick and serenity (samatha) the
+
+other. If we pick it up, does only one end come up or do both? When anyone picks up a stick, both ends rise together. Which part then is vipassaná, and which is samatha? Where does one end and the other begin? They are both the mind. As the mind becomes peaceful, initially the peace will arise from the serenity of samatha. We focus and unify the mind
+
+in states of meditative peace (samádhi). However, if the peace
+
+UNSHAKEABLE PEACE
+
+and stillness of samádhi fades away, suffering arises in its place. Why is that? Because the peace afforded by samatha meditation alone is still based on attachment. This attachment can then be a cause of suffering. Serenity is not the end of the Path.1  The Buddha saw from his own experience that such peace of mind was not the ultimate. The causes
+
+underlying the process of existence (bhava) had not yet been brought to cessation (nirodha). The conditions for rebirth still
+
+existed. His spiritual work had not yet attained perfection. Why? Because there was still suffering. So based on that serenity of samatha he proceeded to contemplate, investigate, and analyze the conditioned nature of reality until he was free of all attachments, even the attachment to serenity. Serenity is still part of the world of conditioned existence and conventional reality. Clinging to this type of peace is clinging to conventional reality, and as long as we cling, we will be mired in existence and rebirth. Delighting in the peace of samatha still leads to further existence and rebirth. Once the mind’s restlessness and agitation calms down, one clings to the resultant peace.
+
+So the Buddha examined the causes and conditions underlying existence and rebirth. As long as he had not yet fully penetrated the matter and understood the truth, he continued to probe deeper and deeper with a peaceful mind, reflecting on how all things, peaceful or not, come into existence. His investigation forged ahead until it was clear to him that everything that comes into existence is like a lump of red-hot iron. The five categories of a being’s
+
+experience (khandhas) are all a lump of red-hot iron. When a
+
+lump of iron is glowing red-hot, is there anywhere it can be touched without getting burnt? Is there anywhere at all that is cool? Try touching it on the top, the sides, or underneath. Is there a single spot that can be found that’s cool? Impossible! This searing lump of iron is entirely red-hot. We can’t even attach to serenity. If we identify with that peace, assuming that there is someone who is calm and serene, this reinforces the sense that there is an independent self or soul. This sense of self is part of conventional reality. Thinking, “I’m peaceful,” “I’m agitated,” “I’m good,” “I’m bad,” “I’m happy,” or “I’m
+
+unhappy,” we are caught in more existence and birth. It’s more suffering. If our happiness vanishes, then we’re unhappy instead. When our sorrow vanishes, then we’re happy again. Caught in this endless cycle, we revolve repeatedly through heaven and hell.
+
+Before his enlightenment, the Buddha recognized this pattern in his own heart. He knew that the conditions for existence and rebirth had not yet ceased. His work was not yet finished. Focusing on life’s conditionality, he contemplated in accordance with nature: “Due to this cause there is birth, due to birth there is death, and all this movement of coming and going.” So the Buddha took up these themes for contemplation in order to understand the truth about the five khandhas. Everything mental and physical, everything conceived and thought about, without exception, is conditioned. Once he knew this, he taught us to set it down. Once he knew this, he taught to abandon it all. He encouraged others to understand in accordance with this truth. If we don’t, we’ll suffer. We won’t be able to let go of these things. However, once we do see the truth of the matter, we’ll recognize how these things delude us.
+
+The Buddha taught the mind has no substance; it isn’t any thing. The mind isn’t born belonging to anyone. It doesn’t die as anyone’s. This mind is free, brilliantly radiant, and unentangled with any problems or issues. The reason problems arise is because the mind is deluded by conditioned things, deluded by this misperception of self. So the Buddha taught to observe this mind. In the beginning what is there? There is truly nothing there. It doesn’t arise with conditioned things, and it doesn’t die with them. When the mind encounters something good, it doesn’t change to become good. When the mind encounters something bad, it doesn’t become bad as well. That’s how it is when there is clear insight into one’s nature. There is understanding that this is essentially a substanceless state of affairs.
+
+The Buddha’s insight saw it all as impermanent, unsatisfactory and not-self. He wants us to fully comprehend in the same way. The knowing then knows in accordance with truth. When it knows happiness or sorrow, it remains
+
+UNSHAKEABLE PEACE
+
+unmoved. The emotion of happiness is a form of birth. The tendency to become sad is a form of death. When there’s death there is birth, and what is born has to die. That which arises and passes away is caught in this unremitting cycle of becoming. Once the meditator’s mind comes to this state of understanding, no doubt remains about whether there is further becoming and rebirth. There’s no need to ask anyone else.
+
+The Buddha comprehensively investigated conditioned phenomena and so was able to let them all go. The five khandhas were let go of, and the knowing carried on merely as an impartial observer of the process. If he experienced something positive, he didn’t become positive along with it. He simply observed and remained aware. If he experienced something negative, he didn’t become negative. And why was that? Because his mind had been cut free from such causes and conditions. He’d penetrated the Truth. The conditions leading to rebirth no longer existed. This is the knowing that is certain and reliable. This is a mind that is truly at peace. This is what is not born, doesn’t age, doesn’t get sick, and doesn’t die. This is neither cause nor effect, nor dependent on cause and effect. It is independent of the process of causal conditioning. The causes then cease with no conditioning remaining. This mind is above and beyond birth and death, above and beyond happiness and sorrow, above and beyond both good and evil. What can you say? It’s beyond the limitations of language to describe it. All supporting conditions have ceased and any attempt to describe it will merely lead to attachment. The words used then become the theory of the mind.
+
+Theoretical descriptions of the mind and its workings are accurate, but the Buddha realized that this type of knowledge was relatively useless. We understand something intellectually and then believe it, but it’s of no real benefit. It doesn’t lead to peace of mind. The knowing of the Buddha leads to letting go. It results in abandoning and renunciation. Because it’s precisely this mind that leads us to get involved with both what’s right and what’s wrong. If we’re smart we get involved with those things that are right. If we’re stupid we get involved with those things that are wrong. Such a
+
+mind is the world, and the Blessed One took the things of this world to examine this very world. Having come to know the world as it actually was, he was then known as the “One
+
+who clearly comprehends the world” (lokavidú).
+
+Concerning this issue of samatha and vipassaná, the important thing is to develop these states in our own hearts. Only when we genuinely cultivate them ourselves will we know what they actually are. We can go and study what all the books say about psychological factors of the mind, but that kind of intellectual understanding is useless for actually cutting off selfish desire, anger, and delusion. We only study the theory about selfish desire, anger, and delusion, merely describing the various characteristics of these mental defilements: “Selfish desire has this meaning; anger means that; delusion is defined as this.” Only knowing their theoretical qualities, we can talk about them only on that level. We know and we are intelligent, but when these defilements actually appear in our minds, do they correspond with the theory or not? When, for instance, we experience something undesirable do we react and get into a bad mood? Do we attach? Can we let it go? If aversion comes up and we recognize it, do we still hang on to it? Or once we have seen it, do we let it go? If we find that we see something we don’t like and retain that aversion in our hearts, we’d better go back and start studying again. Because it’s still not right. The practice is not yet perfect. When it reaches perfection, letting go happens. Look at it in this light.
+
+We truly have to look deeply into our own hearts if we want to experience the fruits of this practice. Attempting to describe the psychology of the mind in terms of the numerous separate moments of consciousness and their different characteristics is, in my opinion, not taking the practice far enough. There’s still a lot more to it. If we are going to study these things, then know them absolutely, with clarity and penetrative understanding. Without clarity of insight, how will we ever be finished with them? There’s no end to it. We’ll never complete our studies.
+
+Practising Dhamma is thus extremely important. When I practised, that’s how I studied. I didn’t know anything about mind moments or psychological factors. I just observed the
+
+UNSHAKEABLE PEACE
+
+quality of knowing. If a thought of hate arose, I asked myself why. If a thought of love arose, I asked myself why. This is the way. Whether it’s labelled as a thought or called a psychological factor, so what? Just penetrate this one point until you’re able to resolve these feelings of love and hate, until they completely vanish from the heart. When I was able to stop loving and hating under any circumstance, I was able to transcend suffering. Then it doesn’t matter what happens, the heart and mind are released and at ease. Nothing remains. It has all stopped.
+
+Practise like this. If people want to talk a lot about theory, that’s their business. But no matter how much it’s debated, the practice always comes down to this single point right here. When something arises, it arises right here. Whether a lot or a little, it originates right here. When it ceases, the cessation is right here. Where else? The Buddha called this point the “knowing.” When it knows the way things are accurately, in line with the truth, we’ll understand the meaning of mind. Things incessantly deceive. As you study them, they’re simultaneously deceiving you. How else can I put it? Even though you know about them, you are still being deluded by them precisely where you know them. That’s the situation. The issue is this: in my opinion the Buddha didn’t intend that we only know what these things are called; the aim of the Buddha’s teachings is to figure out the way to liberate ourselves from these things through searching for the underlying causes.
+
+SÌLA, SAMÁDHI, AND PAÑÑÁ
+
+I practised Dhamma without knowing a great deal. I just
+
+knew that the path to liberation began with virtue (sìla).
+
+Virtue is the beautiful beginning of the Path; the deep peace
+
+of samádhi is the beautiful middle; wisdom (paññá) is the
+
+beautiful end. Although they can be separated as three unique aspects of the training, as we look into them more and more deeply, these three qualities converge as one. To uphold virtue, you have to be wise. We usually advise people to develop ethical standards first by keeping the five precepts so that their virtue will become solid. However, the perfection
+
+of virtue takes a lot of wisdom. We have to consider our speech and actions, and analyze their consequences. This is all the work of wisdom. We have to rely on our wisdom in order to cultivate virtue.
+
+According to the theory, virtue comes first, then samádhi and then wisdom, but when I examined it I found that wisdom is the foundation stone for every other aspect of the practice. In order to fully comprehend the consequences of what we say and do—especially the harmful consequences—we need to use wisdom to guide and supervise, to scrutinize the workings of cause and effect. This will purify our actions and speech. Once we become familiar with ethical and unethical behaviour, we see the place to practice. We then abandon what’s bad and cultivate what’s good. We abandon what’s wrong and cultivate what’s right. This is virtue. As we do this, the heart becomes increasingly firm and steadfast. A steadfast and unwavering heart is free of apprehension, remorse, and confusion concerning our actions and speech. This is samádhi.
+
+This stable unification of mind forms a secondary and more powerful source of energy in our Dhamma practice, allowing a deeper contemplation of the sights, sounds, etc., that we experience. Once the mind is established with firm and unwavering mindfulness and peace, we can engage in sustained inquiry into the reality of the body, feeling, perception, thought, consciousness, sights, sounds, smells, tastes, physical sensations and objects of mind. As they continually arise, we continually investigate with a sincere determination not to lose our mindfulness. Then we’ll know what these things actually are. They come into existence following their own natural truth. As our understanding steadily grows, wisdom is born. Once there’s clear comprehension of the way things truly are, our old perceptions are uprooted and our conceptual knowledge transforms into wisdom. That’s how virtue, samádhi and wisdom merge and function as one.
+
+As wisdom increases in strength and intrepidity, samádhi evolves to become increasingly firm. The more unshakeable samádhi is, the more unshakeable and all-encompassing virtue
+
+UNSHAKEABLE PEACE
+
+becomes. As virtue is perfected, it nurtures samádhi, and the additional strengthening of samádhi leads to a maturing of wisdom. These three aspects of the training mesh and intertwine. United, they form the Noble Eightfold Path, the way of the Buddha. Once virtue, samádhi, and wisdom reach their peak, this Path has the power to eradicate those things
+
+which defile the mind’s purity, the kilesa. When sensual desire
+
+comes up, when anger and delusion show their face, this Path is the only thing capable of cutting them down in their tracks.
+
+The framework for Dhamma practice is the Four Noble
+
+Truths: suffering (dukkha), the origin of suffering (samudaya), the cessation of suffering (nirodha) and the Path leading to the cessation of suffering (magga). This Path consists of virtue,
+
+samádhi and wisdom, the framework for training the heart. Their true meaning is not to be found in these words but dwells in the depth of our hearts. That’s what virtue, samádhi and wisdom are like. They revolve continually. The Noble Eightfold Path will envelop any sight, sound, smell, taste, physical sensation, or object of mind that arises. However, if the factors of the Eightfold Path are weak and timid, the defilements will possess our minds. If the Noble Path is strong and courageous, it will conquer and destroy the defilements. If it’s the defilements that are powerful and brave while the Path is feeble and frail, the defilements will conquer the Path. They conquer our hearts. If the knowing isn’t quick and nimble enough as forms, feelings, perceptions, and thoughts are experienced, they possess and devastate us. The Path and the defilements proceed in tandem. As Dhamma practice develops in the heart, these two forces have to battle it out every step of the way. It’s like there are two people arguing inside the mind, but it’s just the Path of Dhamma and the defilements struggling to win domination of the heart. The Path guides and fosters our ability to contemplate. As long as we are able to contemplate accurately, the defilements will be losing ground. But if we are shaky, whenever defilements regroup and regain their strength, the Path will be routed as defilements take its place. The two sides will continue to fight it out until eventually there is a victor and the whole affair is settled.
+
+If we focus our endeavour on developing the way of Dhamma, defilements will be gradually and persistently eradicated. Once fully cultivated, the Four Noble Truths reside in our hearts. Whatever form suffering takes, it always exists due to a cause. That’s the Second Noble Truth. And what is the cause? Weak virtue; weak samádhi; weak wisdom. When the Path isn’t durable, the defilements dominate the mind. When they dominate, the Second Noble Truth comes into play, and it gives rise to all sorts of suffering. Once we are suffering, those qualities which are able to quell the suffering disappear. The conditions which give rise to the Path are virtue, samádhi, and wisdom. When they have attained full strength, the Path of Dhamma is unstoppable, advancing unceasingly to overcome the attachment and clinging that bring us so much anguish. Suffering can’t arise because the Path is destroying the defilements. It’s at this point that cessation of suffering occurs. Why is the Path able to bring about the cessation of suffering? Because virtue, samádhi, and wisdom are attaining their peak of perfection, and the Path has gathered an unstoppable momentum. It all comes together right here. I would say for anyone who practises like this, theoretical ideas about the mind don’t come into the picture. If the mind is liberated from these, then it is utterly dependable and certain. Now whatever path it takes, we don’t have to goad it much to keep it going straight.
+
+Consider the leaves of a mango tree; what are they like? By examining just a single leaf we know. Even if there are ten thousand of them, we know what all those leaves are like. Just look at one leaf: the others are essentially the same. Similarly with the trunk: we only have to see the trunk of one mango tree to know the characteristics of them all. Just look at one tree: all the other mango trees will be essentially no different. Even if there were one hundred thousand of them, if I knew one, I’d know them all. This is what the Buddha taught.
+
+Virtue, samádhi, and wisdom constitute the Path of the Buddha. But the way is not the essence of the Dhamma. The Path isn’t an end in itself, not the ultimate aim of the Blessed
+
+UNSHAKEABLE PEACE
+
+One. But it’s the way leading inwards. It’s just like how you travelled from Bangkok to my monastery, Wat Nong Pah Pong.2  It’s not the road you were after. What you wanted was to reach the monastery, but you needed the road for the journey. The road you travelled on is not the monastery. It’s just the way to get here. But if you want to arrive at the monastery, you have to follow the road. It’s the same with virtue, samádhi, and wisdom. We could say they are not the essence of the Dhamma, but they are the road to arrive there. When virtue, samádhi, and wisdom have been mastered, the result is profound peace of mind. That’s the destination. Once we’ve arrived at this peace, even if we hear a noise, the mind remains unruffled. Once we’ve reached this peace, there’s nothing remaining to do. The Buddha taught to give it all up. Whatever happens, there’s nothing to worry about. Then we truly, unquestionably, know for ourselves. We no longer simply believe what other people say.
+
+The essential principle of Buddhism is empty of any phenomena. It’s not contingent upon miraculous displays of psychic powers, paranormal abilities, or anything else mystical or bizarre. The Buddha did not emphasize the importance of these things. Such powers, however, do exist and may be possible to develop, but this facet of Dhamma is deluding, so the Buddha did not advocate or encourage it. The only people he praised were the ones who were able to liberate themselves from suffering.
+
+To accomplish this requires training, and the tools and equipment to get the job done are generosity, virtue, samádhi, and wisdom. We have to take them up and train with them. Together they form a Path inclining inwards, and wisdom is the first step. This Path cannot mature if the mind is encrusted with defilements, but if we are stout-hearted and strong, the Path will eliminate these impurities. However, if it’s the defilements that are stout-hearted and strong they will destroy the Path. Dhamma practice simply involves these two forces battling it out incessantly until the end of the road is reached. They engage in unremitting battle until the very end.
+
+THE DANGERS OF ATTACHMENT
+
+Using the tools of practice entails hardship and arduous challenges. We rely on patience, endurance and going without. We have to do it ourselves, experience it for ourselves, realize it ourselves. Scholars, however, tend to get confused a lot. For example, when they sit in meditation, as soon as their minds experience a teeny bit of tranquillity they start to think,
+
+“Hey, this must be first jhána.” This is how their minds work.
+
+And once those thoughts arise, the tranquillity they’d experienced is shattered. Soon they start to think that it must have been the second jhána they had attained. Don’t think and speculate about it. There aren’t any billboards that announce which level of samádhi we’re experiencing. The reality is completely different. There aren’t any signs like the road signs that tell you, “This way to Wat Nong Pah Pong.” That’s not how I read the mind. The mind doesn’t announce.
+
+Although a number of highly esteemed scholars have written descriptions of the first, second, third, and fourth jhána, what’s written is merely external information. If the mind actually enters these states of profound peace, it doesn’t know anything about those written descriptions. It knows, but what it knows isn’t the same as the theory we study. If the scholars try to clutch their theory and drag it into their meditation, sitting and pondering, “Hmmm…what could this be? Is this first jhána yet?” There! The peace is shattered, and they don’t experience anything of real value. And why is that? Because there is desire, and once there’s craving what happens? The mind simultaneously withdraws out of the meditation. So it’s necessary for all of us to relinquish thinking and speculation. Abandon them completely. Just take up the body, speech and mind and delve entirely into the practice. Observe the workings of the mind, but don’t lug the Dhamma books in there with you. Otherwise everything becomes a big mess, because nothing in those books corresponds precisely to the reality of the way things truly are.
+
+People who study a lot, who are full of theoretical knowledge, usually don’t succeed in Dhamma practice. They get bogged down at the information level. The truth is that the heart and mind can’t be measured by external standards.
+
+UNSHAKEABLE PEACE
+
+If the mind is getting peaceful, just allow it to be peaceful. The most profound levels of deep peace do exist. Personally, I didn’t know much about the theory of practice. I’d been a monk for three years and still had a lot of questions about what samádhi actually was. I kept trying to think about it and figure it out as I meditated, but my mind became even more restless and distracted than it had been before! The amount of thinking actually increased. When I wasn’t meditating it was more peaceful. Boy, was it difficult, so exasperating! But even though I encountered so many obstacles, I never threw in the towel. I just kept on doing it. When I wasn’t trying to do anything in particular, my mind was relatively at ease. But whenever I determined to make the mind unify in samádhi, it went out of control. “What’s going on here,” I wondered. “Why is this happening?”
+
+Later on I began to realize that meditation was comparable to the process of breathing. If we’re determined to force the breath to be shallow, deep or just right, it’s very difficult to do. However, if we go for a stroll and we’re not even aware of when we’re breathing in or out, it’s extremely relaxing. So I reflected, “Aha! Maybe that’s the way it works.” When a person is normally walking around in the course of the day, not focusing attention on their breath, does their breathing cause them suffering? No, they just feel relaxed. But when I’d sit down and vow with determination that I was going to make my mind peaceful, clinging and attachment set in. When I tried to control the breath to be shallow or deep, it just brought on more stress than I had before. Why? Because the willpower I was using was tainted with clinging and attachment. I didn’t know what was going on. All that frustration and hardship was coming up because I was bringing craving into the meditation.
+
+UNSHAKEABLE PEACE
+
+I once stayed in a forest monastery that was half a mile from a village. One night the villagers were celebrating with a loud party as I was doing walking meditation. It must have been after 11:00 and I was feeling a bit peculiar. I’d been feeling strange like this since midday. My mind was quiet.
+
+There were hardly any thoughts. I felt very relaxed and at ease. I did walking meditation until I was tired and then went to sit in my grass-roofed hut. As I sat down I barely had time to cross my legs before, amazingly, my mind just wanted to delve into a profound state of peace. It happened all by itself. As soon as I sat down, the mind became truly peaceful. It was rock solid. It wasn’t as if I couldn’t hear the noise of the villagers singing and dancing—I still could—but I could also shut the sound out entirely.
+
+Strange! When I didn’t pay attention to the sound, it was perfectly quiet—didn’t hear a thing. But if I wanted to hear, I could, without it being a disturbance. It was like there were two objects in my mind that were placed side by side but not touching. I could see that the mind and its object of awareness were separate and distinct, just like this spittoon and water kettle here. Then I understood: when the mind unifies in samádhi, if you direct your attention outward you can hear, but if you let it dwell in its emptiness then it’s perfectly silent. When sound was perceived, I could see that the knowing and the sound were distinctly different. I contemplated: “If this isn’t the way it is, how else could it be?” That’s the way it was. These two things were totally separate. I continued on investigating like this until my understanding deepened even further: “Ah, this is important. When the perceived continuity of phenomena is cut, the result
+
+is peace.” The previous illusion of continuity (santati) transformed into peace of mind (santi). So I continued to sit,
+
+putting effort into the meditation. The mind at that time was focused solely on the meditation, indifferent to everything else. Had I stopped meditating at this point, it would have been merely because it was complete. I could have taken it easy, but it wouldn’t have been because of laziness, tiredness, or feeling annoyed; these were absent from the heart. There was only perfect inner balance and equipoise—just right.
+
+Eventually I did take a break, but it was only the posture of sitting that changed. My heart remained constant, unwavering and unflagging. I pulled a pillow over, intending to take a rest. As I reclined, the mind remained just as peaceful
+
+UNSHAKEABLE PEACE
+
+as it had been before. Then, just before my head hit the pillow, the mind’s awareness began flowing inwards, I didn’t know where it was headed, but it kept flowing deeper and deeper within. It was like a current of electricity flowing down a cable to a switch. When it hit the switch, my body exploded with a deafening bang. The knowing during that time was extremely lucid and subtle. Once past that point, the mind was released to penetrate deeply inside. It went inside to the point where there wasn’t anything at all. Absolutely nothing from the outside world could come into that place. Nothing at all could reach it. Having dwelt internally for some time, the mind then retreated to flow back out. However, when I say it retreated, I don’t mean to imply that I made it flow back out. I was simply an observer, only knowing and witnessing. The mind came out more and more until it finally returned to normal.
+
+Once my normal state of consciousness returned, the question arose, “What was that?” The answer came immediately, “These things happen of their own accord. You don’t have to search for an explanation.” This answer was enough to satisfy my mind.
+
+After a short time my mind again began flowing inwards. I wasn’t making any conscious effort to direct the mind. It took off by itself. As it moved deeper and deeper inside, it again hit that same switch. This time my body shattered into the most minute particles and fragments. Again the mind was released to penetrate deeply inside itself. Utter silence. It was even more profound than the first time. Absolutely nothing external could reach it. The mind abided here for some time, for as long as it wished, and then retreated to flow outwards. At that time it was following its own momentum and happening all by itself. I wasn’t influencing or directing my mind to be in any particular way, to flow inwards or retreat outwards. I was merely the one knowing and watching.
+
+My mind again returned to its normal state of consciousness, and I didn’t wonder or speculate about what was happening. As I meditated, the mind once again inclined inwards. This third time the entire cosmos shattered and
+
+disintegrated into minute particles. The earth, ground, mountains, fields and forests—the whole world—disintegrated
+
+into the space element (ákása-dhátu). People had vanished.
+
+Everything had disappeared. Absolutely nothing remained.
+
+The mind, having inclined inwards, settled down there for as long as it wished. I can’t say I understand exactly how it remained there. It’s difficult to describe what happened. There’s nothing I can compare it to. No simile is apt. This time the mind remained inside far longer than it had previously, and only after some time did it come out of that state. When I say it came out, I don’t mean to imply that I made it come out or that I was controlling what was happening. The mind did it all by itself. I was merely an observer. Eventually it again returned to its normal state of consciousness. How could you put a name on what happened during these three times? Who knows? What term are you going to use to label it?
+
+THE POWER OF SAMÁDHI
+
+Everything I’ve been relating to you concerns the mind following the way of nature. This was no theoretical description of the mind or of psychological states. There’s no need for that. When there’s faith or confidence, you get in there and really do it. Not just playing around, you put your life on the line. And when your practice reaches the stage that I’ve been describing, afterwards the whole world is turned upside down. Your understanding of reality is completely different. Your view is utterly transformed. If someone saw you at that moment, they might think you were insane. If this experience happened to someone who didn’t have a thorough grip on themselves, they might actually go crazy, because nothing is the same as it was before. The people of the world appear differently than they used to. But you’re the only one who sees this. Absolutely everything changes. Your thoughts are transmuted. Other people now think in one way, while you think in another. They speak about things in one way, while you speak in another. They’re descending one path, while you’re climbing another. You’re no longer the same as other human beings.
+
+UNSHAKEABLE PEACE
+
+This way of experiencing things doesn’t deteriorate. It persists and carries on. Give it a try. If it really is as I describe, you won’t have to go searching very far. Just look into your own heart. This heart is staunchly courageous, unshakably bold. This is the heart’s power, its source of strength and energy. The heart has this potential strength. This is the power and force of samádhi.
+
+At this point it is still just the power and purity that the mind derives from samádhi. This level of samádhi is samádhi at its ultimate. The mind has attained the summit of samádhi; it’s not mere momentary concentration. If you were to switch to vipassaná meditation at this point, the contemplation would be uninterrupted and insightful. Or you could take that focused energy and use it in other ways. From this point on you could develop psychic powers, perform miraculous feats or use it anyway you wanted. Ascetics and hermits have used samádhi energy for making holy water, talismans or casting spells. These things are all possible at this stage, and may be of some benefit in their own way; but it’s like the benefit of alcohol. You drink it and then you get drunk.
+
+This level of samádhi is a rest stop. The Buddha stopped and rested here. It forms the foundation for contemplation and vipassaná. However, it’s not necessary to have such profound samádhi as this in order to observe the conditions around us, so keep on steadily contemplating the process of cause and effect. To do this we focus the peace and clarity of our minds to analyze the sights, sounds, smells, tastes, physical sensations, thoughts, and mental states we experience. Examine moods and emotions, whether positive or negative, happy or unhappy. Examine everything. It’s just like someone else has climbed up a mango tree and is shaking down the fruit while we wait underneath to gather them up. The ones which are rotten, we don’t pick up. Just gather the good mangoes. It’s not exhausting, because we don’t have to climb up the tree. We simply wait underneath to reap the fruit.
+
+Do you get the meaning of this simile? Everything experienced with a peaceful mind confers greater understanding. No longer do we create proliferating interpretations around what is experienced. Wealth, fame,
+
+blame, praise, happiness, and unhappiness come of their own accord. And we’re at peace. We’re wise. It’s actually fun. It becomes fun to sift through and sort out these things. What other people call good, bad, evil, here, there, happiness, unhappiness, or whatever—it all gets taken in for our own profit. Someone else has climbed up the mango tree and is shaking the branches to make the mangoes fall down to us. We simply enjoy ourselves gathering the fruit without fear. What’s there to be afraid of anyway? It’s someone else who’s shaking the mangoes down to us. Wealth, fame, praise, criticism, happiness, unhappiness, and all the rest are no more than mangoes falling down, and we examine them with a serene heart. Then we’ll know which ones are good and which are rotten.
+
+WORKING IN ACCORD WITH NATURE
+
+When we begin to wield the peace and serenity we’ve been developing in meditation to contemplate these things, wisdom arises. This is what I call wisdom. This is vipassaná. It’s not something fabricated and construed. If we’re wise, vipassaná will develop naturally. We don’t have to label what’s happening. If there’s only a little clarity of insight, we call this “little vipassaná.” When clear seeing increases a bit, we call that “moderate vipassaná.” If knowing is fully in accordance with the Truth, we call that “ultimate vipassaná.”
+
+Personally I prefer to use the word wisdom (paññá) rather than vipassaná. If we think we are going to sit down from
+
+time to time and practise “vipassaná meditation,” we’re going to have a very difficult time of it. Insight has to proceed from peace and tranquillity. The entire process will happen naturally of its own accord. We can’t force it.
+
+The Buddha taught that this process matures at its own rate. Having reached this level of practice, we allow it to develop according to our innate capabilities, spiritual aptitude and the merit we’ve accumulated in the past. But we never stop putting effort into the practice. Whether the progress is swift or slow is out of our control. It’s just like planting a tree. The tree knows how fast it should grow. If we want it to grow more quickly than it is, this is pure delusion. If we
+
+UNSHAKEABLE PEACE
+
+want it to grow more slowly, recognize this as delusion as well. If we do the work, the results will be forthcoming— just like planting a tree. For example, say we wanted to plant a chilli bush. Our responsibility is to dig a hole, plant the seedling, water it, fertilize it and protect it from insects. This is our job, our end of the bargain. This is where faith then comes in. Whether the chilli plant grows or not is up to it. It’s not our business. We can’t go tugging on the plant, trying to stretch it and make it grow faster. That’s not how nature works. Our responsibility is to water and fertilize it. Practising Dhamma in the same way puts our hearts at ease.
+
+If we realize enlightenment in this lifetime, that’s fine. If we have to wait until our next life, no matter. We have faith and unfaltering conviction in the Dhamma. Whether we progress quickly or slowly is up to our innate capabilities, spiritual aptitude, and the merit we’ve accumulated so far. Practising like this puts the heart at ease. It’s like we’re riding in a horse cart. We don’t put the cart before the horse. Or it’s like trying to plough a rice paddy while walking in front of our water buffalo rather than behind. What I’m saying here is that the mind is getting ahead of itself. It’s impatient to get quick results. That’s not the way to do it. Don’t walk
+
+in front of your water buffalo. You have to walk behind the
+
+water buffalo.
+
+It’s just like that chilli plant we are nurturing. Give it water and fertilizer, and it will do the job of absorbing the nutrients. When insects come to infest it, we chase them away. Doing just this much is enough for the chilli to grow beautifully on its own, and once it is growing beautifully, don’t try to force it to flower when we think it should flower. It’s none of our business. It will just create useless suffering. Allow it to bloom on its own. And once the flowers do bloom don’t demand that it immediately produce chilli peppers. Don’t rely on coercion. That really causes suffering! Once we figure this out, we understand what our responsibilities are and are not. Each has their specific duty to fulfil. The mind knows its role in the work to be done. If the mind doesn’t understand its role, it will try to force the chilli plant to produce peppers on the very day we plant it. The mind will insist that it grows,
+
+flowers, and produces peppers all in one day. This is nothing but the second Noble Truth: craving causes
+
+suffering to arise. If we are aware of this Truth and ponder it, we’ll understand that trying to force results in our Dhamma practice is pure delusion. It’s wrong. Understanding how it works, we let go and allow things to mature according to our innate capabilities, spiritual aptitude and the merit we’ve accumulated. We keep doing our part. Don’t worry that it might take a long time. Even if it takes a hundred or a thousand lifetimes to get enlightened, so what? However many lifetimes it takes, we just keep practicing with a heart at ease, comfortable with our pace. Once our mind has entered the stream, there’s nothing to fear. It will have gone beyond even the smallest evil action. The Buddha said that the mind of a sotápanna, someone who has attained the first stage of enlightenment, has entered the stream of Dhamma that flows to enlightenment. These people will never again have to experience the grim lower realms of existence, never again fall into hell. How could they possibly fall into hell when their minds have abandoned evil? They’ve seen the danger in making bad kamma. Even if you tried to force them to do or say something evil, they would be incapable of it, so there’s no chance of ever again descending into hell or the lower realms of existence. Their minds are flowing with the current of Dhamma.
+
+Once you’re in the stream, you know what your responsibilities are. You comprehend the work ahead. You understand how to practise Dhamma. You know when to strive hard and when to relax. You comprehend your body and mind, this physical and mental process, and you renounce the things that should be renounced, continually abandoning without a shred of doubt.
+
+CHANGING OUR VISION
+
+In my life of practising Dhamma, I didn’t attempt to master a wide range of subjects. Just one. I refined this heart. Say we look at a body. If we find that we’re attracted to a body then analyze it. Have a good look: head hair, body hair, nails, teeth and skin.3  The Buddha taught us to thoroughly and repeatedly
+
+UNSHAKEABLE PEACE
+
+contemplate these parts of the body. Visualize them separately, pull them apart, peel off the skin and burn them up. This is how to do it. Stick with this meditation until it’s firmly established and unwavering. See everyone the same. For example, when the monks and novices go into the village on alms round in the morning, whoever they see—whether it’s another monk or a villager—they imagine him or her as a dead body, a walking corpse staggering along on the road ahead of them. Remain focused on this perception. This is how to put forth effort. It leads to maturity and development. When you see a young woman whom you find attractive, imagine her as a walking corpse, her body putrid and reeking from decomposition. See everyone like that. And don’t let them get too close! Don’t allow the infatuation to persist in your heart. If you perceive others as putrid and reeking, I can assure you the infatuation won’t persist. Contemplate until you’re sure about what you’re seeing, until it’s definite, until you’re proficient. Whatever path you then wander down, you won’t go astray. Put your whole heart into it. Whenever you see someone, it’s no different than looking at a corpse. Whether male or female, look at that person as a dead body. And don’t forget to see yourself as a dead body. Eventually this is all that’s left. Try to develop this way of seeing as thoroughly as you can. Train with it until it increasingly becomes part and parcel of your mind. I promise it’s great fun—if you actually do it. But if you are preoccupied with reading about it in books, you’ll have a difficult time of it. You’ve got to do it. And do it with utmost sincerity. Do it until this meditation becomes a part of you. Make realization of truth your aim. If you’re motivated by the desire to transcend suffering, then you’ll be on the right path.
+
+These days there are many people teaching vipassaná and a wide range of meditation techniques. However, in my opinion doing vipassaná is not easy. We can’t just jump straight into it. It won’t work if it’s not proceeding from a high standard of morality. Find out for yourself. Moral discipline and training precepts are necessary, because if our behaviour, actions and speech aren’t impeccable we’ll never be able to stand on our own two feet. Meditation without virtue is like trying to skip over an essential section of the Path. Similarly,
+
+occasionally you hear people say, “You don’t need to develop tranquillity. Skip over it and go straight into the insight meditation of vipassaná.” Sloppy people who like to cut corners say things like this. They say you don’t have to bother with moral discipline. Upholding and refining your virtue is challenging, not just playing around. If we could skip over all the teachings on ethical behaviour, we’d have it pretty easy, wouldn’t we? Whenever we’d encounter a difficulty, we just avoid it by skipping over it. Of course, we’d all like to skip over the difficult bits.
+
+There was once a monk I met who told me he was a real meditator. He asked for permission to stay with me here and inquired about the schedule and standard of monastic discipline. I explained to him that in this monastery we live according to the Vinaya, the Buddha’s code of monastic discipline, and if he wanted to come and train with me he’d have to renounce his money and private supplies of goods. He told me his practice was “non-attachment to all conventions.” I told him I didn’t know what he was talking about. “How about if I stay here,” he asked, “and keep all my money but not be attached to it. Money’s just a convention.” I said sure, no problem. “If you can eat salt and not find it salty, then you can use money and not be attached to it.” He was just speaking gibberish. Actually, he was just too lazy to follow the details of the Vinaya. I’m telling you, it’s difficult. “When you can eat salt and honestly assure me it’s not salty, then I’ll take you seriously. And if you tell me it’s not salty then I’ll give you a whole sack to eat. Just try it. Will it really not taste salty? Non-attachment to conventions isn’t just a matter of clever speech. If you’re going to talk like this, you can’t stay with me.” So he left.
+
+We have to try and maintain the practice of virtue. Monastics should train by experimenting with the ascetic practices, the dhutaòga, while lay people practising at home should keep the five precepts.4  Attempt to attain impeccability in everything said and done. We should cultivate goodness to the best of our ability, and keep on gradually doing it.
+
+When starting to cultivate the serenity of samatha meditation, don’t make the mistake of trying once or twice
+
+UNSHAKEABLE PEACE
+
+and then giving up because the mind is not peaceful. That’s not the right way. You have to cultivate meditation over a long period of time. Why does it have to take so long? Think about it. How many years have we allowed our minds to wander astray? How many years have we not been doing samatha meditation? Whenever the mind has ordered us to follow it down a particular path, we’ve rushed after it. To calm that wandering mind, to bring it to a stop, to make it still, a couple of months of meditation won’t be enough. Consider this.
+
+When we undertake to train the mind to be at peace with every situation, please understand that in the beginning when a defiled emotion comes up, the mind won’t be peaceful. It’s going to be distracted and out of control. Why? Because there’s craving. We don’t want our mind to think. We don’t want to experience any distracting moods or emotions. Not wanting is craving, the craving for non-existence. The more we crave not to experience certain things, the more we invite and usher them in. “I don’t want these things, so why do they keep coming to me? I wish it wasn’t this way, so why is it this way?” There we go! We crave for things to exist in a particular way, because we don’t understand our own mind. It can take an incredibly long time before we realize that playing around with these things is a mistake. Finally, when we consider it clearly, we see, “Oh, these things come because I call them.”
+
+Craving not to experience something, craving to be at peace, craving not to be distracted and agitated—it’s all craving. It’s all a red-hot chunk of iron. But never mind. Just get on with the practice. Whenever we experience a mood or emotion, examine it in terms of its impermanence, unsatisfactoriness, and selfless qualities, and toss it into one of these three categories. Then reflect and investigate: these defiled emotions are almost always accompanied by excessive thinking. Wherever a mood leads, thinking straggles along behind. Thinking and wisdom are two very different things. Thinking merely reacts to and follows our moods, and they carry on with no end in sight. But if wisdom is operating, it will bring the mind to stillness. The mind stops and doesn’t go anywhere. There’s simply knowing and acknowledging
+
+what’s being experienced: when this emotion comes, the mind’s like this; when that mood comes, it’s like that. We sustain the “knowing.” Eventually it occurs to us, “Hey, all this thinking, this aimless mental chatter, this worrying and judging—it’s all insubstantial nonsense. It’s all impermanent, unsatisfactory and not me or mine.” Toss it into one of these three all-encompassing categories, and quell the uprising. You cut it off at its source. Later when we again sit meditation, it will come up again. Keep a close watch on it. Spy on it.
+
+It’s just like raising water buffalos. You’ve got the farmer, some rice plants, and the water buffalo. Now the water buffalo, it wants to eat those rice plants. Rice plants are what water buffalos like to eat, right? Your mind is a water buffalo. Defiled emotions are like the rice plants. The knowing is the farmer. Dhamma practice is just like this. No different. Compare it for yourself. When tending a water buffalo, what do you do? You release it, allowing it to wander freely, but you keep a close eye on it. If it strays too close to the rice plants, you yell out. When the buffalo hears, it backs away. But don’t be inattentive, oblivious to what the buffalo is doing. If you’ve got a stubborn water buffalo that won’t heed your warning, take a stick and give it a stout whack on the backside. Then it won’t dare go near the rice plants. But don’t get caught taking a siesta. If you lie down and doze off, those rice plants will be history. Dhamma practice is the same: you watch over your mind; the knowing tends the mind.
+
+“Those people who keep a close watch over their minds will be liberated from Mára’s5  snare.” And yet this knowing mind is also the mind, so who’s the one observing the mind? Such ideas can make you extremely confused. The mind is one thing, the knowing another; and yet the knowing originates in this very same mind. What does it mean to know the mind? What’s it like to encounter moods and emotions? What’s it like to be without any defiled emotions whatsoever? That which knows what these things are, is what is meant by the “knowing.” The knowing observantly follows the mind, and it’s from this knowing that wisdom is born. The mind is that which thinks and gets entangled in emotions, one after another—precisely like our water buffalo. Whatever
+
+UNSHAKEABLE PEACE
+
+directions it strays in, maintain a watchful eye. How could it get away? If it roams over to the rice plants, yell out. If it
+
+won’t listen, pick up a stick and stride over to it—“whack!”
+
+This is how you frustrate its craving.
+
+Training the mind is no different. When the mind experiences an emotion and instantly grabs it, it’s the job of the knowing to teach. Examine the mood to see if it’s good or bad. Explain to the mind how cause and effect functions. And when it again grabs onto something that it thinks is adorable, the knowing has to again teach the mind, again explain cause and effect, until the mind is able to cast that thing aside. This leads to peace of mind. After finding out that whatever it grabs and grasps is inherently undesirable, the mind simply stops. It can’t be bothered with those things anymore, because it has come under a constant barrage of rebukes and reprimands. Thwart the craving of the mind with determination. Challenge it to its core, until the teachings penetrate to the heart. That’s how you train the mind.
+
+Since the time when I withdrew to the forest to practise meditation, I’ve been practising like this. When I train my disciples, I train them to practise like this. Because I want them to see the truth, rather than just read what’s in the scriptures; I want them to see if their hearts have been liberated from conceptual thinking. When liberation occurs, you know; and when liberation has not yet happened, then contemplate the process of how one thing causes and leads to another. Contemplate until you know and understand it through and through. Once it has been penetrated with insight, it will fall away on its own. When something comes your way and gets stuck, then investigate. Don’t give up until it has released its grip. Repeatedly investigate right here. Personally, this is how I approached the training, because the Buddha taught that you have to know for yourself. All sages know the truth for themselves. You’ve got to discover it in the depths of your own heart. Know yourself.
+
+If you are confident in what you know and trust yourself, you will feel relaxed whether others criticize or praise you. Whatever other people say, you’re at ease. Why? Because you know yourself. If someone bolsters you with praise, but
+
+you’re not actually worthy of it, are you really going to believe them? Of course not. You just carry on with your Dhamma practice. When people who aren’t confident in what they know get praised by others, they get sucked into believing it and it warps their perception. Likewise when someone criticizes you, take a look at and examine yourself. “No, what they say isn’t true. They accuse me of being wrong, but actually I’m not. Their accusation isn’t valid.” If that’s the case, what would be the point of getting angry with them? Their words aren’t true. If, however, we are at fault just as they accuse, then their criticism is correct. If that’s the case, what would be the point of getting angry with them? When you’re able to think like this, life is truly untroubled and comfortable. Nothing that then happens is wrong. Then everything is Dhamma. That’s how I practised.
+
+FOLLOWING THE MIDDLE PATH
+
+It’s the shortest and most direct path. You can come and argue with me on points of Dhamma, but I won’t join in. Rather than argue back, I’d just offer some reflections for you to consider. Please understand what the Buddha taught: let go of everything. Let go with knowing and awareness. Without knowing and awareness, the letting go is no different than that of cows and water buffaloes. Without putting your heart into it, the letting go isn’t correct. You let go because you understand conventional reality. This is non-attachment. The Buddha taught that in the beginning stages of Dhamma practice you should work very hard, develop things thoroughly and attach a lot. Attach to the Buddha. Attach to the Dhamma. Attach to the Sangha. Attach firmly and deeply. That’s what the Buddha taught. Attach with sincerity and persistence and hold on tight.
+
+In my own search I tried nearly every possible means of contemplation. I sacrificed my life for the Dhamma, because I had faith in the reality of enlightenment and the path to get there. These things actually do exist, just like the Buddha said they did. But to realize them takes practice, right practice. It takes pushing yourself to the limit. It takes the courage to train, to reflect, and to fundamentally change. It takes the
+
+UNSHAKEABLE PEACE
+
+courage to actually do what it takes. And how do you do it? Train the heart. The thoughts in our heads tell us to go in one direction, but the Buddha tells us to go in another. Why is it necessary to train? Because the heart is totally encrusted with and plastered over with defilements. That’s what a heart is like that has not yet been transformed through the training. It’s unreliable, so don’t believe it. It’s not yet virtuous. How can we trust a heart that lacks purity and clarity? Therefore the Buddha warned us not to put our trust in a defiled heart. Initially the heart is only the hired hand of defilement, but if they associate together for an extended period of time, the heart perverts to become defilement itself. That’s why the Buddha taught us not to trust our hearts.
+
+If we take a good look at our monastic training discipline, we’ll see that the whole thing is about training the heart. And whenever we train the heart we feel hot and bothered. As soon as we’re hot and bothered, we start to complain, “Boy, this practice is incredibly difficult! It’s impossible.” But the Buddha didn’t think like that. He considered that when the training was causing us heat and friction, that meant we were on the right track. We don’t think that way. We think it’s a sign that something is wrong. This misunderstanding is what makes the practice seem so arduous. In the beginning we feel hot and bothered, so we think we’re off track. Everyone wants to feel good, but they’re less concerned about whether it’s right or not. When we go against the grain of the defilements and challenge our cravings, of course we feel suffering. We get hot, upset, and bothered and then quit. We think we’re on the wrong path. The Buddha, however, would say we’re getting it right. We’re confronting our defilements, and they are what is getting hot and bothered. But we think it’s us who are hot and bothered. The Buddha taught that it’s the defilements that get stirred up and upset. It’s the same for everyone.
+
+That’s why Dhamma practice is so demanding. People don’t examine things clearly. Generally, they lose the path on either the side of self-indulgence or self-torment. They get stuck in these two extremes. On one hand they like to indulge their heart’s desires. Whatever they feel like doing they just do it. They like to sit in comfort. They love to lie down and stretch out in comfort. Whatever they do, they
+
+seek to do it in comfort. This is what I mean by self-indulgence: clinging to feeling good. With such indulgence how could Dhamma practice possibly progress?
+
+If we can no longer indulge in comfort, sensuality and feeling good, we become irritated. We get upset and angry and suffer because of it. This is falling off the Path on the side of self-torment. This is not the path of a peaceful sage, not the way of someone who’s still. The Buddha warned not to stray down these two sidetracks of self-indulgence and self-torment. When experiencing pleasure, just know that with awareness. When experiencing anger, ill-will, and irritation, understand that you are not following in the footsteps of the Buddha. Those aren’t the paths of people seeking peace, but the roads of common villagers. A monk at peace doesn’t walk down those roads. He strides straight down the middle with self-indulgence on the left and self-torment on the right. This is correct Dhamma practice.
+
+If you’re going to take up this monastic training, you have to walk this Middle Way, not getting worked up about either happiness or unhappiness. Set them down. But it feels like they’re kicking us around. First they kick us from one side, “Ow!,” then they kick us from the other, “Ow!” We feel like the clapper in our wooden bell, knocked back and forth from side to side. The Middle Way is all about letting go of happiness and unhappiness, and the right practice is the practice in the middle. When the craving for happiness hits and we don’t satisfy it, we feel the pain.
+
+Walking down the Middle Path of the Buddha is arduous and challenging. There are just these two extremes of good and bad. If we believe what they tell us, we have to follow their orders. If we become enraged at someone, we immediately go searching for a stick to attack them. No patient endurance. If we love someone, we want to caress him or her from head to toe. Am I right? These two sidetracks completely miss the middle. This is not what the Buddha recommended. His teaching was to gradually put these things down. His practice was a path leading out of existence, away from rebirth—a path free of becoming, birth, happiness, unhappiness, good, and evil.
+
+UNSHAKEABLE PEACE
+
+Those people who crave existence are blind to what’s in the middle. They fall off the path on the side of happiness and then completely pass over the middle on their way to the other side of dissatisfaction and irritation. They continually skip over the centre. This sacred place is invisible to them as they rush back and forth. They don’t stay in that place where there is no existence and no birth. They don’t like it, so they don’t stay. Either they go down out of their home and get bitten by a dog or fly up to get pecked by a vulture. This is existence.
+
+Humanity is blind to that which is free from existence with no rebirth. The human heart is blind to it, so it repeatedly passes it by and skips it over. The Middle Way walked by the Buddha, the path of correct Dhamma practice, transcends existence and rebirth. The mind that is beyond both the wholesome and the unwholesome is released. This is the path of a peaceful sage. If we don’t walk it we’ll never be a sage at peace. That peace will never have a chance to bloom. Why? Because of existence and rebirth. Because there’s birth and death. The path of the Buddha is without birth or death. There’s no low and no high. There’s no happiness and no suffering. There’s no good and no evil. This is the straight path. This is the path of peace and stillness. It’s peacefully free of pleasure and pain, happiness and sorrow. This is how to practise Dhamma. Experiencing this, the mind can stop. It can stop asking questions. There’s no longer any need to search for answers. There! That’s why the Buddha said that the Dhamma is something that the wise know directly for themselves. No need to ask anybody. We understand clearly for ourselves without a shred of doubt that things are exactly as the Buddha said they were.
+
+DEDICATION TO THE PRACTICE
+
+So I’ve told you a few brief stories about how I practised. I didn’t have a lot of knowledge. I didn’t study much. What I did study was this heart and mind of mine, and I learned in a natural way through experimentation, trial and error. When I liked something, then I examined what was going on and where it would lead. Inevitably, it would drag me to some distant suffering. My practice was to observe myself. As understanding and insight deepened, gradually I came to know myself.
+
+Practise with unflinching dedication! If you want to practise Dhamma, then please try not to think too much. If you’re meditating and you find yourself trying to force specific results, then it’s better to stop. When your mind settles down to become peaceful and then you think, “That’s it! That’s it, isn’t it? Is this it?,” then stop. Take all your analytical and theoretical knowledge, wrap it up and store it away in a chest. And don’t drag it out for discussion or to teach. That’s not the type of knowledge that penetrates inside. They are different types of knowledge.
+
+When the reality of something is seen, it’s not the same as the written descriptions. For example, let’s say we write down the word “sensual desire.” When sensual desire actually overwhelms the heart, it’s impossible that the written word can convey the same meaning as the reality. It’s the same with “anger.” We can write the letters on a blackboard, but when we’re actually angry the experience is not the same. We can’t read those letters fast enough, and the heart is engulfed by rage.
+
+This is an extremely important point. The theoretical teachings are accurate, but it’s essential to bring them into our hearts. It must be internalized. If the Dhamma isn’t brought into the heart, it’s not truly known. It’s not actually seen. I was no different. I didn’t study extensively, but I did do enough to pass some of the exams on Buddhist theory. One day I had the opportunity to listen to a Dhamma talk from a meditation master. As I listened, some disrespectful thoughts came up. I didn’t know how to listen to a real Dhamma talk. I couldn’t figure out what this wandering meditation monk was talking about. He was teaching as though it was coming from his own direct experience, as if he was after the truth.
+
+As time went on and I gained some firsthand experience in the practice, I saw for myself the truth of what that monk taught. I understood how to understand. Insight then followed in its wake. Dhamma was taking root in my own heart and mind. It was a long, long time before I realized that everything which that wandering monk had taught came from what he’d seen for himself. The Dhamma he taught came directly from his own experience, not from a book. He spoke according to his understanding and insight. When I walked the path myself, I came across every detail he’d described and had to admit he was right. So I continued on.
+
+UNSHAKEABLE PEACE
+
+Try to take every opportunity you can to put effort into Dhamma practice. Whether it’s peaceful or not, don’t worry about it at this point. The highest priority is to set the wheels of practice in motion and create the causes for future liberation. If you’ve done the work, there’s no need to worry about the results. Don’t be anxious that you won’t gain results. Anxiety is not peaceful. If however, you don’t do the work, how can you expect results? How can you ever hope to see? It’s the one who searches who discovers. It’s the one who eats who’s full. Everything around us lies to us. Recognizing this even ten times is still pretty good. But the same old coot keeps telling us the same old lies and stories. If we know he’s lying, it’s not so bad, but it can be an exceedingly long time before we know. The old fellow comes and tries to hoodwink us with deception time and time again.
+
+Practising Dhamma means upholding virtue, developing samádhi and cultivating wisdom in our hearts. Remember and reflect on the Triple Gem: the Buddha, the Dhamma and the Sangha. Abandon absolutely everything without exception. Our own actions are the causes and conditions that will ripen in this very life. So strive on with sincerity.
+
+Even if we have to sit in a chair to meditate, it’s still possible to focus our attention. In the beginning we don’t have to focus on many things—just our breath. If we prefer, we can mentally repeat the word “Buddha,” “Dhamma,” or “Sangha” in conjunction with each breath. While focusing attention, resolve not to control the breath. If breathing seems laborious or uncomfortable, this indicates we’re not approaching it right. As long as we’re not yet at ease with the breath, it will seem too shallow or too deep, too subtle or too rough. However, once we relax with our breath, finding it pleasant and comfortable, clearly aware of each inhalation and exhalation, then we’re getting the hang of it. If we’re not doing it properly, we will lose the breath. If this happens, then it’s better to stop for a moment and refocus the mindfulness.
+
+If while meditating you get the urge to experience psychic phenomena or the mind becomes luminous and radiant or you have visions of celestial palaces and so on, there’s no
+
+need to fear. Simply be aware of whatever you’re experiencing, and continue on meditating. Occasionally, after some time, the breath may appear to slow to a halt. The sensation of the breath seems to vanish and you become alarmed. Don’t worry, there’s nothing to be afraid of. You only think your breathing has stopped. Actually the breath is still there, but it’s functioning on a much more subtle level than usual. With time the breath will return to normal by itself.
+
+In the beginning, just concentrate on making the mind calm and peaceful. Whether sitting in a chair, riding in a car, taking a boat ride, or wherever you happen to be, you should be proficient enough in your meditation that you can enter a state of peace at will. When you get on a train and sit down, quickly bring your mind to a state of peace. Wherever you are, you can always sit. This level of proficiency indicates that you’re becoming familiar with the path. You then investigate. Utilize the power of this peaceful mind to investigate what you experience. At times it’s what you see; at times what you hear, smell, taste, feel with your body, or think and feel in your heart. Whatever sensory experience presents itself—like it or not—take that up for contemplation. Simply know what you are experiencing. Don’t project meaning or interpretations onto those objects of sense awareness. If it’s good, just know that it’s good. If it’s bad, just know that it’s bad. This is conventional reality. Good or evil, it’s all impermanent, unsatisfying and not-self. It’s all undependable. None of it is worthy of being grasped or clung to. If you can maintain this practice of peace and inquiry, wisdom will automatically be generated. Everything sensed and experienced then falls into these three pits of impermanence, unsatisfactoriness, and not-self. This is vipassaná meditation. The mind is already peaceful, and whenever impure states of mind surface, throw them away into one of these three rubbish pits. This is the essence of vipassaná: discarding everything down into impermanence, unsatisfactoriness, and not-self. Good, bad, horrible, or whatever, toss it down. In a short time, understanding and insight will blossom forth in the midst of the three universal characteristics—feeble insight, that is. At this beginning stage
+
+UNSHAKEABLE PEACE
+
+the wisdom is still weak and feeble, but try to maintain this practice with consistency. It’s difficult to put into words, but it’s like if somebody wanted to get to know me, they’d have to come and live here. Eventually, with daily contact we would get to know each other.
+
+RESPECT THE TRADITION
+
+It’s high time we started to meditate. Meditate to understand, to abandon, to relinquish, and to be at peace.
+
+I used to be a wandering monk. I’d travel by foot to visit teachers and seek solitude. I didn’t go around giving Dhamma talks. I went to listen to the Dhamma talks of the great Buddhist masters of the time. I didn’t go to teach them. I listened to whatever advice they had to offer. Even when young or junior monks tried to tell me what the Dhamma was, I listened patiently. However, I rarely got into discussions about the Dhamma. I couldn’t see the point in getting involved in lengthy discussions. Whatever teachings I accepted I took on board straight away, directly where they pointed to renunciation and letting go. What I did, I did for renunciation and letting go. We don’t have to become experts in the scriptures. We’re getting older with every day that passes, and every day we pounce on a mirage, missing the real thing. Practising the Dhamma is something quite different than studying it.
+
+I don’t criticize any of the wide variety of meditation styles and techniques. As long as we understand their true purpose and meaning, they’re not wrong. However, calling ourselves Buddhist meditators, but not strictly following the monastic
+
+code of discipline (vinaya) will, in my opinion, never meet with
+
+success. Why? Because we try to bypass a vital section of the path. Skipping over virtue, samádhi or wisdom won’t work. Some people may tell you not to get attached to the serenity of samatha meditation: “Don’t bother with samatha; advance straight to the wisdom and insight practices of vipassaná.” As I see it, if we attempt to detour straight to vipassaná, we’ll find it impossible to successfully complete the journey.
+
+Don’t forsake the style of practice and meditation techniques of the eminent Forest Masters, such as the Venerable Ajahns Sao, Mun, Taungrut, and Upáli. The path
+
+they taught is utterly reliable and true—if we do it the way they did. If we follow in their footsteps, we’ll gain true insight into ourselves. Ajahn Sao cared for his virtue impeccably. He didn’t say we should bypass it. If these great masters of the Forest Tradition recommended practising meditation and monastic etiquette in a particular way, then out of deep respect for them we should follow what they taught. If they said to do it, then do it. If they said to stop because it’s wrong, then stop. We do it out of faith. We do it with unwavering sincerity and determination. We do it until we see the Dhamma in our own hearts, until we are the Dhamma. This is what the Forest Masters taught. Their disciples consequently developed profound respect, awe and affection for them, because it was through following their path, that they saw what their teachers saw.
+
+Give it a try. Do it just like I say. If you actually do it, you’ll see the Dhamma, be the Dhamma. If you actually undertake the search, what would stop you? The defilements of the mind will be vanquished if you approach them with the right strategy: be someone who renounces, one who is frugal with words, who is content with little, and who abandons all views and opinions stemming from self-importance and conceit. You will then be able to patiently listen to anyone, even if what they’re saying is wrong. You will also be able to patiently listen to people when they’re right. Examine yourself in this way. I assure you, it’s possible, if you try. Scholars however, rarely come and put the Dhamma into practice. There are some, but they are few. It’s a shame. The fact that you’ve made it this far and have come to visit is already worthy of praise. It shows inner strength. Some monasteries only encourage studying. The monks study and study, on and on, with no end in sight, and never cut that which needs to be cut. They only study the word “peace.” But if you can stop still, then you’ll discover something of real value. This is how you do research. This research is truly valuable and completely immobile. It goes straight to what you’ve been reading about. If scholars don’t practise meditation however, their knowledge has little understanding. Once they put the teachings into practice, those
+
+UNSHAKEABLE PEACE
+
+things which they have studied about, then become vivid and clear.
+
+So start practising! Develop this type of understanding. Give living in the forest a try and come stay in one of these tiny huts. Trying out this training for a while and testing it for yourself would be of far greater value than just reading books. Then you can have discussions with yourself. While observing the mind it’s as if it lets go and rests in its natural state. When it ripples and wavers from this still, natural state in the form of thoughts and concepts, the conditioning process of saòkhára is set in motion. Be very careful and keep a watchful eye on this process of conditioning. Once it moves and is dislodged from this natural state, Dhamma practice is no longer on the right track. It steps off into either self-indulgence or self-torment. Right there. That’s what gives rise to this web of mental conditioning. If the state of mind is a good one, this creates positive conditioning. If it’s bad, the conditioning is negative. These originate in your own mind.
+
+I’m telling you, it’s great fun to closely observe how the mind works. I could happily talk about this one subject the whole day. When you get to know the ways of the mind, you’ll see how this process functions and how it’s kept going through being brainwashed by the mind’s impurities. I see the mind as merely a single point. Psychological states are guests who come to visit this spot. Sometimes this person comes to call; sometimes that person pays a visit. They come to the visitor centre. Train the mind to watch and know them all with the eyes of alert awareness. This is how you care for your heart and mind. Whenever a visitor approaches you wave them away. If you forbid them to enter, where are they going to sit down? There’s only one seat, and you’re sitting in it. Spend the whole day in this one spot.
+
+This is the Buddha’s firm and unshakeable awareness; that watches over and protects the mind. You’re sitting right here. Since the moment you emerged from the womb, every visitor that’s ever come to call has arrived right here. No matter how often they come, they always come to this same spot, right here. Knowing them all, the Buddha’s awareness sits alone, firm and unshakeable. Those visitors journey here
+
+seeking to exert influence, to condition and sway your mind in various ways. When they succeed in getting the mind entangled in their issues, psychological states arise. Whatever the issue is, wherever it seems to be leading, just forget it—it doesn’t matter. Simply know who the guests are as they arrive. Once they’ve dropped by, they will find that there’s only one chair, and as long as you’re occupying it, they will have no place to sit down. They come thinking to fill your ear with gossip, but this time there’s no room for them to sit. Next time they come there will also be no chair free. No matter how many times these chattering visitors show up, they always meet the same fellow sitting in the same spot. You haven’t budged from that chair. How long do you think they will continue to put up with this situation? In just speaking to them you get to know them thoroughly. Everyone and everything you’ve ever known since you began to experience the world will come for a visit. Simply observing and being aware right here is enough to see the Dhamma entirely. You discuss, observe, and contemplate by yourself.
+
+This is how to discuss Dhamma. I don’t know how to talk about anything else. I can continue on speaking in this fashion, but in the end it’s nothing but talking and listening. I’d recommend you actually go and do the practice.
+
+MASTERING THE MEDITATION
+
+If you have a look for yourself, you’ll encounter certain experiences. There’s a path to guide you and offer directions. As you carry on, the situation changes and you have to adjust your approach to remedy the problems that come up. It can be a long time before you see a clear signpost. If you’re going to walk the same path as I did, the journey definitely has to take place in your own heart. If not, you’ll encounter numerous obstacles.
+
+It’s just like hearing a sound. The hearing is one thing, the sound another, and we are consciously aware of both without compounding the event. We rely on nature to provide the raw material for the investigation in search of Truth. Eventually the mind dissects and separates phenomena on its own. Simply put, the mind doesn’t get involved. When
+
+UNSHAKEABLE PEACE
+
+the ears pick up a sound, observe what happens in the heart and mind. Do they get bound up, entangled, and carried away by it? Do they get irritated? At least know this much. When a sound then registers, it won’t disturb the mind. Being here, we take up those things close at hand rather than those far away. Even if we’d like to flee from sound, there’s no escape. The only escape possible is through training the mind to be unwavering in the face of sound. Set sound down. The sounds we let go of, we can still hear. We hear, but we let sound go because we’ve already set it down. It’s not that we have to forcefully separate the hearing and the sound, it separates automatically due to abandoning and letting go. Even if we then wanted to cling to a sound, the mind wouldn’t cling. Because once we understand the true nature of sights, sounds, smells, tastes, and all the rest, and the heart sees with clear insight, everything sensed without exception falls within the domain of the universal characteristics of impermanence, unsatisfactoriness, and not-self.
+
+Anytime we hear a sound, it’s understood in terms of these universal characteristics. Whenever there’s sense contact with the ear, we hear, but it’s as if we didn’t hear. This doesn’t mean the mind no longer functions: mindfulness and the mind intertwine and merge to monitor each other at all times without a lapse. When the mind is trained to this level, no matter what path we then choose to walk we will be doing research. We will be cultivating the analysis of phenomena, one of the essential factors of enlightenment, and this analysis will keep rolling on with its own momentum.
+
+Discuss Dhamma with yourself. Unravel and release feeling, memory, perception, thinking, intentions, and consciousness. Nothing will be able to touch them as they continue to perform their functions on their own. For people who have mastered their minds, this process of reflection and investigation flows along automatically. It’s no longer necessary to direct it intentionally. Whatever sphere the mind inclines towards, the contemplation is immediately adept.
+
+If Dhamma practice reaches this level, there’s another interesting side benefit. While asleep: snoring, talking in our sleep, gnashing our teeth, and tossing and turning will all
+
+stop. Even if we’ve been resting in deep sleep, when we wake up we won’t be drowsy. We’ll feel energized and alert as if we’d been awake the whole time. I used to snore, but once the mind remained awake at all times, snoring stopped. How can you snore when you’re awake? It’s only the body that stops and sleeps. The mind is wide awake day and night, around the clock. This is the pure and heightened awareness of the Buddha: the One Who Knows, the Awakened One, the Joyous One, the Brilliantly Radiant One. This clear awareness never sleeps. Its energy is self-sustaining, and it never gets dull or sleepy. At this stage we can go without rest for two or three days. When the body begins to show signs of exhaustion, we sit down to meditate and immediately enter deep samádhi for five or ten minutes. When we come out of that state, we feel fresh and invigorated as if we’ve had a full night’s sleep. If we’re beyond concern for the body, sleep is of minimal importance. We take appropriate measures to care for the body, but we aren’t anxious about its physical condition. Let it follow its natural laws. We don’t have to tell the body what to do. It tells itself. It’s as if someone is prodding us, urging us to strive on in our efforts. Even if we feel lazy, there’s a voice inside that constantly rouses our diligence. Stagnation at this point is impossible, because effort and progress have gathered an unstoppable momentum. Please check this out for yourselves. You’ve been studying and learning a long time. Now it’s time to study and learn about yourselves.
+
+In the beginning stages of Dhamma practice, physical seclusion is of vital importance. When you live alone in isolation, you will recall the words of Venerable Sáriputta: “Physical seclusion is a cause and condition for the arising of mental seclusion, states of profound samádhi free from external sense contact. This seclusion of the mind is in turn a cause and condition for seclusion from mental defilements, enlightenment.” And yet some people still say that seclusion is not important, “If your heart is peaceful, it doesn’t matter where you are.” It’s true, but in the beginning stages we should remember that physical seclusion in a suitable environment comes first. Today or sometime soon, seek out a lonely cremation ground in a remote forest far from any
+
+UNSHAKEABLE PEACE
+
+habitation. Experiment with living all alone. Or seek out a fear-inspiring mountain peak. Go live alone, Okay? You’ll have lots of fun all night long. Only then will you know for yourself. Even I once thought that physical seclusion wasn’t particularly important. That’s what I thought, but once I actually got out there and did it, I reflected on what the Buddha taught. The Blessed One encouraged his disciples to practise in remote locations far removed from society. In the beginning, this builds a foundation for internal seclusion of the mind, which then supports the unshakeable seclusion from defilements.
+
+For example, say you’re a lay person with a home and a family. What seclusion do you get? When you return home, as soon as you step inside the front door you get hit with chaos and complication. There’s no physical seclusion. So you slip away for a retreat in a remote environment and the atmosphere is completely different. It’s necessary to comprehend the importance of physical isolation and solitude in the initial stages of Dhamma practice. You then seek out a meditation master for instruction. He or she guides, advises and points out those areas where your understanding is wrong, because it’s precisely where you misunderstand that you think you are right. Right where you’re wrong, you’re sure you’re right. Once the teacher explains, you understand what is wrong, and right where the teacher says you’re wrong is precisely where you thought you were right.
+
+From what I’ve heard, there are a number of Buddhist scholar monks who search and research in accordance with the scriptures. There’s no reason why we shouldn’t experiment. When it’s time to open our books and study, we learn in that style. But when it’s time to take up arms and engage in combat, we have to fight in a style that may not correspond with the theory. If a warrior enters battle and fights according to what he’s read, he’ll be no match for his opponent. When the warrior is sincere and the fight is real, he has to battle in a style that goes beyond theory. That’s how it is. The Buddha’s words in the scriptures are only guidelines and examples to follow, and studying can sometimes lead to carelessness.
+
+CHALLENGING TO THE CORE
+
+The way of the Forest Masters is the way of renunciation. On this path there’s only abandoning. We uproot views stemming from self-importance. We uproot the very essence of our sense of self. I assure you; this practice will challenge you to the core, but no matter how difficult it is, don’t discard the Forest Masters and their teachings. Without proper guidance the mind and samádhi are potentially very deluding. Things which shouldn’t be possible begin to happen. I’ve always approached such phenomena with caution and care. When I was a young monk, just starting out in practice during my first few years, I couldn’t yet trust my mind. However, once I’d gained considerable experience and could fully trust the workings of my mind, nothing could pose a problem. Even if unusual phenomena manifested, I’d just leave it at that. If we are clued in to how these things work, they cease by themselves. It’s all fuel for wisdom. As time goes on we find ourselves completely at ease.
+
+In meditation, things which usually aren’t wrong can be wrong. For example, we sit down cross-legged with determination and resolve: “Alright! No pussy-footing around this time. I will concentrate the mind. Just watch me.” No way will that approach work! Every time I tried that my meditation got nowhere. But we love the bravado. From what I’ve observed, meditation will develop at its own rate. Many evenings as I sat down to meditate I thought to myself, “Alright! Tonight I won’t budge from this spot until at least 1:00 am.” Even with this thought I was already making some bad kamma, because it wasn’t long before the pain in my body attacked from all sides, overwhelming me until it felt like I was going to die. However, those occasions when the meditation went well, were times when I didn’t place any limits on the sitting. I didn’t set a goal of 7:00, 8:00, 9:00 or whatever, but simply kept sitting, steadily carrying on, letting go with equanimity. Don’t force the meditation. Don’t attempt to interpret what’s happening. Don’t coerce your heart with unrealistic demands that it enters a state of samádhi—or else you’ll find it even more agitated and unpredictable than normal. Just allow the heart and mind to relax, comfortable and at ease.
+
+UNSHAKEABLE PEACE
+
+Allow the breathing to flow easily at just the right pace, neither too short nor too long. Don’t try to make it into anything special. Let the body relax, comfortable and at ease. Then keep doing it. Your mind will ask you, “How late are we going to meditate tonight? What time are we going to quit?” It incessantly nags, so you have to bellow out a reprimand, “Listen buddy, just leave me alone.” This busybody questioner needs to be regularly subdued, because it’s nothing other than defilement coming to annoy you. Don’t pay it any mind whatsoever. You have to be tough with it. “Whether I call it quits early or have a late night, it’s none of your damn business! If I want to sit all night, it doesn’t make any difference to anyone, so why do you come and stick your nose into my meditation?” You have to cut the nosy fellow off like that. You can then carry on meditating for as long as you wish, according to what feels right.
+
+As you allow the mind to relax and be at ease, it becomes peaceful. Experiencing this, you’ll recognize and appreciate the power of clinging. When you can sit on and on, for a very long time, going past midnight, comfortable and relaxed, you’ll know you’re getting the hang of meditation. You’ll understand how attachment and clinging really do defile the mind.
+
+When some people sit down to meditate, they light a stick of incense in front of them and vow, “I won’t get up until this stick of incense has burned down.” Then they sit. After what seems like an hour they open their eyes and realize only five minutes have gone by. They stare at the incense, disappointed at how exceedingly long the stick still is. They close their eyes again and continue. Soon their eyes are open once more to check that stick of incense. These people don’t get anywhere in meditation. Don’t do it like that. Just sitting and dreaming about that stick of incense, “I wonder if it’s almost finished burning,” the meditation gets nowhere. Don’t give importance to such things. The mind doesn’t have to do anything special.
+
+If we are going to undertake the task of developing the mind in meditation, don’t let the defilement of craving know the ground rules or the goal. “How will you meditate, Venerable?” it inquires. “How much will you do? How late are you thinking of going?” Craving keeps pestering until
+
+we submit to an agreement. Once we declare we’re going to sit until midnight, it immediately begins to hassle us. Before even an hour has passed we’re feeling so restless and impatient that we can’t continue. Then more hindrances attack as we berate ourselves, “Hopeless! What? Is sitting going to kill you? You said you were going to make your mind unshakeable in samádhi, but it’s still unreliable and all over the place. You made a vow and you didn’t keep it.” Thoughts of self-depreciation and dejection assail our minds, and we sink into self-hatred. There’s no one else to blame or get angry at, and that makes it all the worse. Once we make a vow, we have to keep it. We either fulfil it or die in the process. If we do vow to sit for a certain length of time, then we shouldn’t break that vow and stop. In the meantime however, just gradually practise and develop. There’s no need for making dramatic vows. Try to steadily and persistently train the mind. Occasionally, the meditation will be peaceful, and all the aches and discomfort in the body will vanish. The pain in the ankles and knees will cease by itself.
+
+Once we try our hand at cultivating meditation, if strange images, visions or sensory perceptions start coming up, the first thing to do is to check our state of mind. Don’t discard this basic principle. For such images to arise the mind has to be relatively peaceful. Don’t crave for them to appear, and don’t crave for them not to appear. If they do arise then examine them, but don’t allow them to delude. Just remember they’re not ours. They are impermanent, unsatisfying and not-self just like everything else. Even if they are real, don’t dwell on or pay much attention to them. If they stubbornly refuse to fade, then refocus your awareness on your breath with increased vigour. Take at least three long, deep breaths and each time slowly exhale completely. This may do the trick. Keep re-focusing the attention.
+
+Don’t become possessive of such phenomena. They are nothing more than what they are, and what they are is potentially deluding. Either we like them and fall in love with them or the mind becomes poisoned with fear. They’re unreliable: they may not be true or what they appear to be. If you experience them, don’t try to interpret their meaning
+
+UNSHAKEABLE PEACE
+
+or project meaning onto them. Remember they’re not ours, so don’t run after these visions or sensations. Instead, immediately go back and check the present state of mind. This is our rule of thumb. If we abandon this basic principle and become drawn into what we believe we are seeing, we can forget ourselves and start babbling or even go insane. We may lose our marbles to the point where we can’t even relate to other people on a normal level. Place your trust in your own heart. Whatever happens, simply carry on observing the heart and mind. Strange meditative experiences can be beneficial for people with wisdom, but dangerous for those without. Whatever occurs, don’t become elated or alarmed. If experiences happen, they happen.
+
+NEVER DISCARD THE MEDITATION
+
+Another way to approach Dhamma practice is to contemplate and examine everything we see, do, and experience. Never discard the meditation. When some people finish sitting or walking meditation, they think it’s time to stop and rest. They stop focusing their minds on their object of meditation or theme of contemplation. They completely drop it. Don’t practise like that! Whatever you see, inquire into what it really is. Contemplate the good people in the world. Contemplate the evil ones too. Take a penetrating look at the rich and powerful; the destitute and poverty-stricken. When you see a child, an elderly person or a young man or woman, investigate the meaning of age. Everything is fuel for inquiry. This is how you cultivate the mind.
+
+The contemplation that leads to the Dhamma is the contemplation of conditionality, the process of cause and effect, in all its various manifestations: both major and minor, black and white, good and bad. In short, everything. When you think, recognize it as a thought and contemplate that it’s merely that, nothing more. All these things wind up in the graveyard of impermanence, unsatisfactoriness and not-self, so don’t possessively cling to any of them. This is the cremation ground of all phenomena. Bury and cremate them in order to experience the Truth.
+
+Having insight into impermanence means not allowing ourselves to suffer. It’s a matter of investigating with wisdom. For example, we obtain something we consider good or pleasurable, and so we’re happy. Take a close and sustained look at this goodness and pleasure. Sometimes after having it for a long time we get fed up with it. We want to give it away or sell it. If there’s nobody who wants to buy it, we’re ready to throw it away. Why? What are the reasons underlying this dynamic? Everything is impermanent, inconstant, and changing, that’s why. If we can’t sell it or even throw it away, we start to suffer. This entire issue is just like that, and once one incident is fully understood, no matter how many more similar situations arise, they are all understood to be just the same. That’s simply the way things are. As the saying goes, “If you’ve seen one, you’ve seen them all.”
+
+Occasionally we see things we don’t like. At times we hear annoying or unpleasant noises and get irritated. Examine this and remember it. Because some time in the future we might like those noises. We might actually delight in those very same things we once detested. It’s possible! Then it occurs to us with clarity and insight, “Aha! All things are impermanent, unable to fully satisfy, and not-self.” Throw them into the mass grave of these universal characteristics. The clinging to the likeable things we get, have, and are, will then cease. We come to see everything as essentially the same. Everything we then experience generates insight into the Dhamma.
+
+Everything I’ve said so far is simply for you to listen to and think about. It’s just talk, that’s all. When people come to see me, I speak. These sorts of subjects aren’t the things we should sit around and gab about for hours. Just do it. Get in there and do it. It’s like when we call a friend to go somewhere. We invite them. We get an answer. Then we’re off, without a big fuss. We say just the right amount and leave it at that. I can tell you a thing or two about meditation, because I’ve done the work. But you know, maybe I’m wrong. Your job is to investigate and find out for yourself if what I say is true.
+
+THE PATH TO PEACE
+
+A talk given to newly ordained monks and novices, presumably at Wat Pah Pong.
+
+Today I will give a teaching particularly for you as monks and novices, so please determine your hearts and minds to listen. There is nothing else for us to talk about other than the practice of the Dhamma-Vinaya, the Truth and Discipline.
+
+Every one of you should clearly understand that now you have been ordained as Buddhist monks and novices and should be conducting yourselves appropriately. We have all experienced the lay life, which is characterised by confusion and a lack of formal Dhamma practice; now, having taken up
+
+the form of a Buddhist samaóa, some fundamental changes
+
+have to take place in our minds so that we differ from lay people in the way we think. We must try to make all of our speech and actions—eating and drinking, moving around, coming and going—befitting for one who has been ordained as a spiritual seeker, who the Buddha referred to as a samaóa. What he meant was someone who is calm and restrained. Formerly, as lay people, we didn’t understand what it meant to be a samaóa, that sense of peacefulness and restraint. We gave full license to our bodies and minds to have fun and games under the influence of craving and defilement. When we experienced pleasant
+
+árammaóa, these would put us into a good mood, unpleasant mind-
+
+objects would put us into a bad one—this is the way it is when we are caught in the power of mind-objects. The Buddha said that those who are still under the sway of mind-objects aren’t looking after themselves. They are without a refuge, a true abiding place, and so they let their minds follow moods of sensual indulgence and pleasure-seeking and get caught into suffering, sorrow, lamentation, pain, grief and despair. They don’t know how or when to stop and reflect upon their experience.
+
+In Buddhism, once we have received ordination and taken up the life of the samaóa, we have to adjust our physical
+
+appearance in accordance with the external form of the samaóa: we shave our heads, trim our nails and don the brown bhikkhus’ robes—the banner of the Noble Ones, the Buddha and the Arahants. We are indebted to the Buddha for the wholesome foundations he established and handed down to us, which allow us to live as monks and find adequate support. Our lodgings were built and offered as a result of the wholesome actions of those with faith in the Buddha and his teachings. We do not have to prepare our food because we are benefiting from the roots laid down by the Buddha. Similarly, we have inherited the medicines, robes and all the other requisites that we use from the Buddha. Once ordained as Buddhist monastics, we are called “monks” on the conventional level and given the title “venerable”; but simply having taken on the external appearance of monks does not make us truly venerable. Being monks on the conventional level means we are monks as far as our physical appearance goes. Simply by shaving our heads and putting on brown robes we are called “Venerable,” but that which is truly worthy of veneration has not yet arisen within us—we are still only ‘Venerable’ in name. It’s the same as when they mould cement or cast brass into a Buddha image: they call it a Buddha, but it isn’t really that. It’s just metal, wood, wax or stone. That’s the way conventional reality is.
+
+It’s the same for us. Once we have been ordained, we are given the title Venerable Bhikkhu, but that alone doesn’t make us venerable. On the level of ultimate reality—in other words, in the mind—the term still doesn’t apply. Our minds and hearts have still not been fully perfected through the
+
+practice with such qualities as mettá (loving-kindness), karuóá (compassion), muditá (sympathetic joy) and upekkhá
+
+(equanimity). We haven’t reached full purity within. Greed, hatred and delusion are still barring the way, not allowing that which is worthy of veneration to arise.
+
+AROUSING THE PEACE WITHIN
+
+Our practice is to begin destroying greed, hatred and delusion—defilements that for the most part can be found within each and every one of us. These are what hold us in
+
+THE PATH TO PEACE
+
+the round of becoming and birth and prevent us from achieving peace of mind. Greed, hatred and delusion prevent
+
+the samaóa—peacefulness—from arising within us. As long as this peace does not arise, we are still not a samana;6
+
+in other words, our hearts have not experienced the peace that is free from the influence of greed, hatred and delusion. This is why we practise—with the intention of expunging greed, hatred and delusion from our hearts. It is only when these defilements have been removed that we can reach purity, that which is truly venerable.
+
+Internalising that which is venerable within your heart doesn’t involve working only with the mind, but your body and speech as well. They have to work together. Before you can practise with your body and speech, you must be practising with your mind. However, if you simply practise with the mind, neglecting body and speech, that won’t work either. They are inseparable. Practising with the mind until it is smooth, refined and beautiful is similar to producing a finished wooden pillar or plank: before you can obtain a pillar that is smooth, varnished and attractive, you must first go and cut a tree down. Then you must cut off the rough parts— the roots and branches—before you split it, saw it and work it. Practising with the mind is the same as working with the tree, you have to work with the coarse things first. You have to destroy the rough parts: destroy the roots, destroy the bark and everything which is unattractive, in order to obtain that which is attractive and pleasing to the eye. You have to work through the rough to reach the smooth. Dhamma practice is just the same. You aim to pacify and purify the mind, but it’s difficult to do. You have to begin practising with externals— body and speech—working your way inwards until you reach that which is smooth, shining and beautiful. You can compare it with a finished piece of furniture, such as these tables and chairs. They may be attractive now, but once they were just rough bits of wood with branches and leaves, which had to be planed and worked with. This is the way you obtain furniture that is beautiful or a mind that is perfect and pure.
+
+Therefore the right path to peace, the path the Buddha laid down, which leads to peace of mind and the pacification
+
+of the defilements, is sìla, samádhi, and paññá. This is the path of practice. It is the path that leads you to purity and leads you to realise and embody the qualities of the samaóa. It is the way to the complete abandonment of greed, hatred and delusion. The practice does not differ from this whether you view it internally or externally.
+
+This way of training and maturing the mind—which involves the chanting, meditation, Dhamma talks and all the other parts of the practice—forces you to go against the grain of the defilements. You have to go against the tendencies of the mind, because normally we like to take things easy, to be lazy and avoid anything which causes us friction or involves suffering and difficulty. The mind simply doesn’t want to make the effort or get involved. This is why you have to be ready to endure hardship and bring forth effort in the practice. You have to use the dhamma of endurance and really struggle. Previously your bodies were simply vehicles for having fun, and having built up all sorts of unskilful habits it’s difficult for you to start practising with them. Before, you didn’t restrain your speech, so now it’s hard to start restraining it. But as with that wood, it doesn’t matter how troublesome or hard it seems: before you can make it into tables and chairs, you have to encounter some difficulty. That’s not the important thing; it’s just something you have to experience along the way. You have to work through the rough wood to produce the finished pieces of furniture.
+
+THE PRACTICE FOR ALL OF US
+
+The Buddha taught that this is the way practice is for all of us. All of his disciples who had finished their work and become fully enlightened, had, (when they first came to take
+
+ordination and practise with him) previously been puthujjana.
+
+They had all been ordinary unenlightened beings like ourselves, with arms and legs, eyes and ears, greed and anger—just the same as us. They didn’t have any special characteristics that made them particularly different from us. This was how both the Buddha and his disciples had been in the beginning. They practised and brought forth enlightenment from the unenlightened, beauty from the ugliness and great
+
+THE PATH TO PEACE
+
+benefit from that which was virtually useless. This work has continued through successive generations right up to the present day. It is the children of ordinary people—farmers, traders and businessmen—who, having previously been entangled in the sensual pleasures of the world, go forth to take ordination. Those monks at the time of the Buddha were able to practise and train themselves, and you must understand that you have the same potential. You are made
+
+up of the five khandhas (aggregates), just the same. You also
+
+have a body, pleasant and unpleasant feelings, perception, thought formations and consciousness—as well as a wandering and proliferating mind. You can be aware of good and evil. Everything’s just the same. In the end, that combination of physical and mental phenomena present in each of you, as separate individuals, differs little from that found in those monastics who practised and became enlightened under the Buddha. They had all started out as ordinary, unenlightened beings. Some had even been gangsters and delinquents, while others were from good backgrounds. They were no different from us. The Buddha inspired them to go forth and practise for the attainment of
+
+magga (the Noble Path) and phala (Fruition), and these days,
+
+in similar fashion, people like you are inspired to take up the practice of sìla, samádhi and paññá.
+
+Sìla, samádhi and paññá are the names given to the different aspects of the practice. When you practise sìla, samádhi and paññá, it means you practise with yourselves. Right practice takes place here within you. Right sìla exists here, right samádhi exists here. Why? Because your body is right here. The practice of sìla involves every part of the body. The Buddha taught us to be careful of all our physical actions. Your body exists here! You have hands, you have legs right here. This is where you practise sìla. Whether your actions will be in accordance with sìla and Dhamma depends on how you train your body. Practising with your speech means being aware of the things you say. It includes avoiding wrong kinds of speech, namely divisive speech, coarse speech and unnecessary or frivolous speech. Wrong bodily actions include killing living beings, stealing and sexual misconduct.
+
+It’s easy to reel off the list of wrong kinds of behaviour as found in the books, but the important thing to understand is that the potential for them all lies within us. Your body and speech are with you right here and now. You practise virtue, which means taking care to avoid the unskilful actions of killing, stealing and sexual misconduct. The Buddha taught us to take care with our actions from the very coarsest level. In the lay life you might not have had very refined moral conduct and frequently transgressed the precepts. For instance, in the past you may have killed animals or insects by smashing them with an axe or a fist. Or perhaps you didn’t take much care with your speech. False speech means lying or exaggerating the truth. Coarse speech means you are being abusive or rude to others—“You scum!,” “You idiot!,” and so on. Frivolous speech means aimless chatter, foolishly rambling on without purpose or substance. We’ve indulged in it all. No restraint! In short, keeping sìla means watching over yourself, watching over your actions and speech.
+
+USE AWARENESS TO WATCH YOURSELF
+
+So who will do the watching over? Who will take responsibility for your actions? When you kill some animal, who is the one who knows? Is your hand the one who knows, or is it someone else? When you steal someone else’s property, who is aware of the act? Is your hand the one who knows? This is where you have to develop awareness. Before you commit some act of sexual misconduct, where is your awareness? Is your body the one who knows? Who is the one who knows before you lie, swear or say something frivolous? Is your mouth aware of what it says, or is the one who knows in the words themselves? Contemplate this: whoever it is who knows is the one who has to take responsibility for your sìla. Bring that awareness to watch over your actions and speech. That knowing, that awareness is what you use to watch over your practice. To keep sìla, you use that part of the mind which directs your actions and which leads you to do good and bad. You catch the villain and transform him into a sheriff or a mayor. Take hold of the wayward mind and bring it to serve and take responsibility for all your actions and speech. Look at this and contemplate it. The Buddha taught
+
+THE PATH TO PEACE
+
+us to take care of our actions. Who is it who does the taking care? The body doesn’t know anything; it just stands, walks around and so on. The hands are the same; they don’t know anything. Before they touch or take hold of anything, there has to be someone who gives them orders. As they pick things up and put them down there has to be someone telling them what to do. The hands themselves aren’t aware of anything; there has to be someone giving them orders. The mouth is the same— whatever it says, whether it tells the truth or lies, is rude or divisive, there must be someone telling it what to say.
+
+The practice involves establishing sati, mindfulness, within this “one who knows.” The “one who knows” is that intention of mind, which previously motivated us to kill living beings, steal other people’s property, indulge in illicit sex, lie, slander, say foolish and frivolous things and engage in all the kinds of unrestrained behaviour. The “one who knows” led us to speak. It exists within the mind. Focus your mindfulness or sati—that constant recollectedness—on this ‘one who knows.’ Let the knowing look after your practice.
+
+In practice, the most basic guidelines for moral conduct stipulated by the Buddha were: to kill is evil, a transgression of sìla; stealing is a transgression; sexual misconduct is a transgression; lying is a transgression; vulgar and frivolous speech is a transgression. All are transgressions of sìla. Commit all this to memory. It’s the code of moral discipline, as laid down by the Buddha, which encourages you to be careful of that one inside of you who was responsible for previous transgressions of the moral precepts. That one, who was responsible for giving the orders to kill or hurt others, to steal, to have illicit sex, to say untrue or unskilful things and to be unrestrained in all sorts of ways—singing and dancing, partying and fooling around. The one who was giving the orders to indulge in all these sorts of behaviour is the one you bring to look after the mind. Use sati or awareness to keep the mind recollecting in the present moment and maintain mental composure in this way. Make the mind look after itself. Do it well.
+
+If the mind is really able to look after itself, it is not so difficult to guard speech and actions, since they are all supervised by the mind. Keeping sìla—in other words taking care of your
+
+actions and speech—is not such a difficult thing. You sustain awareness at every moment and in every posture, whether standing, walking, sitting or lying down. Before you perform any action, speak or engage in conversation, establish awareness first—don’t act or speak first, establish mindfulness first and then act or speak. You must have sati, be recollecting, before you do anything. It doesn’t matter what you are going to say, you must first be recollecting in the mind. Practise like this until you are fluent. Practise so that you can keep abreast of what’s going on in the mind; to the point where mindfulness becomes effortless and you are mindful before you act, mindful before you speak. This is the way you establish mindfulness in the heart. It is with the “one who knows” that you look after yourself, because all your actions spring from here.
+
+This is where the intentions for all your actions originate and this is why the practice won’t work if you try to bring in someone else to do the job. The mind has to look after itself; if it can’t take care of itself, nothing else can. This is why the Buddha taught that keeping sìla is not that difficult, because it simply means looking after your own mind. If mindfulness is fully established, whenever you say or do something harmful to yourself or others, you will know straight away. You know that which is right and that which is wrong. This is the way you keep sìla. You practise with your body and speech from the most basic level.
+
+THE BEAUTY OF THE PRACTICE
+
+By guarding your speech and actions they become graceful and pleasing to the eye and ear, while you yourself remain comfortable and at ease within the restraint. All your behaviour, manners, movements and speech become beautiful, because you are taking care to reflect upon, adjust and correct your behaviour. You can compare this with your dwelling place or the meditation hall. If you are regularly cleaning and looking after your dwelling place, then both the interior and the area around it will be pleasant to look at, rather than a messy eyesore. This is because there is someone looking after it. Your actions and speech are similar. If you are taking care with them, they become beautiful, and that
+
+THE PATH TO PEACE
+
+which is evil or dirty will be prevented from arising.
+
+Ádikalyáóa, majjhekalyáóa, pariyosánakalyáóa: beautiful in the
+
+beginning, beautiful in the middle and beautiful in the end; or harmonious in the beginning, harmonious in the middle and harmonious in the end. What does that mean? Precisely that the practice of sìla, samádhi and paññá is beautiful. The practice is beautiful in the beginning. If the beginning is beautiful, it follows that the middle will be beautiful. If you practise mindfulness and restraint until it becomes comfortable and natural to you—so that there is a constant vigilance—the mind will become firm and resolute in the practise of sìla and restraint. It will be consistently paying attention to the practice and thus become concentrated. That characteristic of being firm and unshakeable in the monastic form and discipline and unwavering in the practice of mindfulness and restraint can be referred to as samádhi.
+
+That aspect of the practice characterised by a continuous restraint, where you are consistently taking care with your actions and speech and taking responsibility for all your external behaviour, is referred to as sìla. The characteristic of being unwavering in the practice of mindfulness and restraint is called samádhi. The mind is firmly concentrated in this practice of sìla and restraint. Being firmly concentrated in the practice of sìla means that there is an evenness and consistency to the practice of mindfulness and restraint. These are the characteristics of samádhi as an external factor in the practice, used in keeping sìla. However, it also has an inner, deeper side to it. It is essential that you develop and maintain sìla and samádhi from the beginning—you have to do this before anything else.
+
+Once the mind has intentness in the practice and sìla and samádhi are firmly established, you will be able to investigate and reflect on that which is wholesome and unwholesome— asking yourself… “Is this right?”… “Is that wrong?”—as you experience different mind-objects. When the mind makes contact with different sights, sounds, smells, tastes, tactile sensations or ideas, the “one who knows” will arise and establish awareness of liking and disliking, happiness and suffering and the different kinds of mind-objects that you experience. You will
+
+come to see clearly, and see many different things. If you are mindful, you will see the different objects which
+
+pass into the mind and the reaction which takes place upon experiencing them. You will automatically take them up as objects for contemplation. Once the mind is vigilant and mindfulness is firmly established, you will note all the reactions displayed through body, speech or mind, as mind-objects are experienced. That aspect of the mind which identifies and selects the good from the bad, the right from the wrong, from amongst all the mind-objects within your field of awareness, is paññá. This is paññá in its initial stages and it matures as a result of the practice. All these different aspects of the practice arise from within the mind. The Buddha referred to these characteristics as sìla, samádhi and paññá. This is the way they are, as practised in the beginning.
+
+As you continue the practice, fresh attachments and new kinds of delusions begin to arise in the mind. This means you start clinging to that which is good or wholesome. You become fearful of any blemishes or faults in the mind— anxious that your samádhi will be harmed by them. At the same time you begin to be diligent and hard working, and to love and nurture the practice. Whenever the mind makes contact with mind-objects, you become fearful and tense. You become aware of other people’s faults as well, even the slightest things they do wrong. It’s because you are concerned for your practice. This is practising sìla, samádhi and paññá on one level—on the outside—based on the fact that you have established your views in accordance with the form and foundations of practice laid down by the Buddha. Indeed, these are the roots of the practice and it is essential to have them established in the mind.
+
+You continue to practise like this as much as possible, until you might even reach the point where you are constantly judging and picking fault with everyone you meet, wherever you go. You are constantly reacting with attraction and aversion to the world around you, becoming full of all kinds of uncertainty and continually attaching to views of the right and wrong way to practise. It’s as if you have become obsessed with the practice. But you don’t have to worry about
+
+THE PATH TO PEACE
+
+this yet—at that point it’s better to practise too much than too little. Practise a lot and dedicate yourself to looking after body, speech and mind. You can never really do too much of this. This is said to be practising sìla on one level; in fact, sìla, samádhi and paññá are all in there together.
+
+If you were to describe the practice of sìla at this stage,
+
+in terms of páramì, it would be dána páramì (the perfection of giving), or sìla páramì (the perfection of virtue). This is the
+
+practice on one level. Having developed this much, you can
+
+go deeper in the practice to the more profound level of dána upapáramì and sìla upapáramì. These arise out of the same
+
+spiritual qualities, but the mind is practising on a more refined level. You simply concentrate and focus your efforts to obtain the refined from the coarse.
+
+Once you have gained this foundation in your practice, there will be a strong sense of shame and fear of wrong-doing established in the heart. Whatever the time or place—in public or in private—this fear of wrong doing will always be in the mind. You become really afraid of any wrong doing. This is a quality of mind that you maintain throughout every aspect of the practice. The practice of mindfulness and restraint with body, speech and mind and the consistent distinguishing between right and wrong is what you hold as the object of mind. You become concentrated in this way and by firmly and unshakeably attaching to this way of practice, it means the mind actually becomes sìla, samádhi and paññá—the characteristics of the practice as described in the conventional teachings.
+
+As you continue to develop and maintain the practice, these different characteristics and qualities are perfected together in the mind. However, practising sìla, samádhi and paññá at this level is still not enough to produce the factors of jhána (meditative absorption)—the practice is still too coarse. Still, the mind is already quite refined—on the refined side of coarse! For an ordinary unenlightened person who has not been looking after the mind or practised much meditation and mindfulness, just this much is already something quite refined. It’s like a poor person—owning two or three dollars can mean a lot, though for a millionaire it’s almost nothing. This is the way it is. A few dollars is a lot when you’re down and out and hard
+
+up for cash, and in the same way, even though in the early stages of the practice you might still only be able to let go of the coarser defilements, this can still seem quite profound to one who is unenlightened and has never practised or let go of defilements before. At this level, you can feel a sense of satisfaction with being able to practise to the full extent of your ability. This is something you will see for yourself; it’s something that has to be experienced within the mind of the practitioner.
+
+If this is so, it means that you are already on the path, that is, practising sìla, samádhi and paññá. These must be practised together, for if any are lacking, the practice will not develop correctly. The more your sìla improves, the firmer the mind becomes. The firmer the mind is, the bolder paññá becomes and so on. Each part of the practice is supporting and enhancing all the others. In the end, because the three aspects of the practice are so closely related to each other, these terms virtually become synonymous. This is
+
+characteristic of sammá paþipadá (right practice), when you
+
+are practising continuously, without relaxing your effort.
+
+REFINING THE MIND
+
+If you are practising in this way, it means that you have entered upon the correct path of practice. You are travelling along the very first stages of the path—the coarsest level— which is something quite difficult to sustain. As you deepen and refine the practice, sìla, samádhi and paññá will mature together from the same place—they are refined down from the same raw material. It’s the same as our coconut palms. The coconut palm absorbs the water from the earth and pulls it up through the trunk. By the time the water reaches the coconut itself, it has become clean and sweet, even though it is derived from that plain water in the ground. The coconut palm is nourished by what are essentially the coarse earth and water elements, which it absorbs and purifies, and these are transformed into something far sweeter and purer than before. In the same way, the practice of sìla, samádhi and
+
+paññá—in other words magga—has coarse beginnings, but,
+
+as a result of training and refining the mind through meditation and reflection, it becomes increasingly subtle.
+
+THE PATH TO PEACE
+
+As the mind becomes more refined, the practice of mindfulness becomes more focused, being concentrated on a more and more narrow area. The practice actually becomes easier as the mind turns more and more inwards to focus on itself. You no longer make big mistakes or go wildly wrong. Now, whenever the mind is affected by a particular matter, doubts will arise—such as whether acting or speaking in a certain way is right or wrong—you simply keep halting the mental proliferation and, through intensifying effort in the practice, continue turning your attention deeper and deeper inside. The practice of samádhi will become progressively firmer and more concentrated. The practice of paññá is enhanced so that you can see things more clearly and with increasing ease.
+
+The end result is that you are clearly able to see the mind and its objects, without having to make any distinction between the mind, body or speech. You no longer have to separate anything at all—whether you are talking about the mind and the body or the mind and its objects. You see that it is the mind which gives orders to the body. The body has to depend on the mind before it can function. However, the mind itself is constantly subject to different objects contacting and conditioning it before it can have any effect on the body. As you continue to turn attention inwards and reflect on the Dhamma, the wisdom faculty gradually matures, and eventually you are left contemplating the mind and mind-objects—which means that you start to experience the body,
+
+rúpadhamma (material), as arúpadhamma (immaterial). Through
+
+your insight, you are no longer groping at or uncertain in your understanding of the body and the way it is. The mind
+
+experiences the body’s physical characteristics as arúpadhamma—
+
+formless objects—which come into contact with the mind. Ultimately, you are contemplating just the mind and mind-objects—those objects which come into your consciousness.
+
+Now, examining the true nature of the mind, you can observe that in its natural state, it has no preoccupations or issues prevailing upon it. It’s like a piece of cloth or a flag that has been tied to the end of a pole. As long as it’s on its own and undisturbed, nothing will happen to it. A leaf on a tree is
+
+another example—ordinarily it remains quiet and unperturbed. If it moves or flutters this must be due to the wind, an external force. Normally, nothing much happens to leaves; they remain still. They don’t go looking to get involved with anything or anybody. When they start to move, it must be due to the influence of something external, such as the wind, which makes them swing back and forth. In its natural state, the mind is the same—in it, there exists no loving or hating, nor does it seek to blame other people. It is independent, existing in a state of purity that is truly clear, radiant and untarnished. In its pure state, the mind is peaceful, without happiness or suffering—indeed, not experiencing any feeling at all. This is the true state of the mind.
+
+The purpose of the practice, then, is to seek inwardly, searching and investigating until you reach the original mind. The original mind is also known as the pure mind. The pure mind is the mind without attachment. It doesn’t get affected by mind-objects. In other words, it doesn’t chase after the different kinds of pleasant and unpleasant mind-objects. Rather, the mind is in a state of continuous knowing and wakefulness—thoroughly mindful of all it is experiencing. When the mind is like this, no pleasant or unpleasant mind-objects it experiences will be able to disturb it. The mind doesn’t “become” anything. In other words, nothing can shake it. Why? Because there is awareness. The mind knows itself as pure. It has evolved its own, true independence; it has reached its original state. How is it able to bring this original state into existence? Through the faculty of mindfulness wisely reflecting and seeing that all things are merely conditions arising out of the influence of elements, without any individual being controlling them.
+
+This is how it is with the happiness and suffering we experience. When these mental states arise, they are just “happiness” and “suffering.” There is no owner of the happiness. The mind is not the owner of the suffering—mental states do not belong to the mind. Look at it for yourself. In reality these are not affairs of the mind, they are separate and distinct. Happiness
+
+THE PATH TO PEACE
+
+is just the state of happiness; suffering is just the state of suffering. You are merely the knower of these. In the past, because the roots of greed, hatred and delusion already existed in the mind, whenever you caught sight of the slightest pleasant or unpleasant mind-object, the mind would react immediately—you would take hold of it and have to experience either happiness or suffering. You would be continuously indulging in states of happiness and suffering. That’s the way it is as long as the mind doesn’t know itself— as long as it’s not bright and illuminated. The mind is not free. It is influenced by whatever mind-objects it experiences. In other words, it is without a refuge, unable to truly depend on itself. You receive a pleasant mental impression and get into a good mood. The mind forgets itself.
+
+In contrast, the original mind is beyond good and bad. This is the original nature of the mind. If you feel happy over experiencing a pleasant mind-object, that is delusion. If you feel unhappy over experiencing an unpleasant mind-object, that is delusion. Unpleasant mind-objects make you suffer and pleasant ones make you happy—this is the world. Mind-objects come with the world. They are the world. They give rise to happiness and suffering, good and evil, and everything that is subject to impermanence and uncertainty. When you separate from the original mind, everything becomes uncertain—there is just unending birth and death, uncertainty and apprehensiveness, suffering and hardship, without any
+
+way of halting it or bringing it to cessation. This is vaþþa (the
+
+endless round of rebirth).
+
+Through wise reflection, you can see that you are subject to old habits and conditioning. The mind itself is actually free, but you have to suffer because of your attachments. Take, for example, praise and criticism. Suppose other people say you are stupid: why does that cause you to suffer? It’s because you feel that you are being criticised. You “pick up” this bit of information and fill the mind with it. The act of “picking up,” accumulating and receiving that knowledge without full mindfulness, gives rise to an experience that is like stabbing
+
+yourself. This is upádána (attachment). Once you have been stabbed, there is bhava (becoming). Bhava is the cause for játi
+
+(birth). If you train yourself not to take any notice of or attach importance to some of the things other people say, merely treating them as sounds contacting your ears, there won’t be any strong reaction and you won’t have to suffer, as nothing is created in the mind. It would be like listening to a Cambodian scolding you—you would hear the sound of his speech, but it would be just sound because you wouldn’t understand the meaning of the words. You wouldn’t be aware that you were being told off. The mind wouldn’t receive that information; it would merely hear the sound and remain at ease. If anybody criticised you in a language that you didn’t understand, you would just hear the sound of their voice and remain unperturbed. You wouldn’t absorb the meaning of the words and be hurt over them. Once you have practised with the mind to this point, it becomes easier to know the arising and passing away of consciousness from moment to moment. As you reflect like this, penetrating deeper and deeper inwards, the mind becomes progressively more refined, going beyond the coarser defilements.
+
+DISCERNING THE DHAMMA
+
+Samádhi means the mind that is firmly concentrated, and the more you practise the firmer the mind becomes. The more firmly the mind is concentrated, the more resolute in the practice it becomes. The more you contemplate, the more confident you become. The mind becomes truly stable—to the point where it can’t be swayed by anything at all. You are absolutely confident that no single mind-object has the power to shake it. Mind-objects are mind-objects; the mind is the mind. The mind experiences good and bad mental states, happiness and suffering, because it is deluded by mind-objects. If it isn’t deluded by mind-objects, there’s no suffering. The undeluded mind can’t be shaken. This phenomenon is a state of awareness, where all things and
+
+phenomena are viewed entirely as dhátu (natural elements)
+
+arising and passing away—just that much. It might be possible to have this experience and yet still be unable to fully let go. Whether you can or can’t let go, don’t let this bother you. Before anything else, you must at least develop and sustain this level of awareness or fixed determination in the mind.
+
+THE PATH TO PEACE
+
+You have to keep applying the pressure and destroying defilements through determined effort, penetrating deeper and deeper into the practice.
+
+Having discerned the Dhamma in this way, the mind will withdraw to a less intense level of practice, which the Buddha and subsequent Buddhist scriptures describe as the
+
+gotrabhú citta. The gotrabhú citta refers to the mind that has
+
+experienced going beyond the boundaries of the ordinary
+
+human mind. It is the mind of the puthujjana (ordinary
+
+unenlightened individual) breaking through into the realm
+
+of the ariya (noble one)—however, this phenomena still takes
+
+place within the mind of the ordinary unenlightened
+
+individual like ourselves. The gotrabhú puggala is someone,
+
+who, having progressed in their practice until they gain temporary experience of Nibbána, withdraws from it and continues practising on another level, because they have not yet completely cut off all defilements. It’s like someone who is in the middle of stepping across a stream, with one foot on the near bank, and the other on the far side. They know for sure that there are two sides to the stream, but are unable to cross over it completely and so step back. The understanding that there exist two sides to the stream is similar to that of the gotrabhú puggala or the gotrabhú citta. It means that you know the way to go beyond the defilements, but are still unable to go there, and so step back. Once you know for yourself that this state truly exists, this knowledge remains with you constantly as you continue to practise meditation and develop your páramì. You are both certain of the goal and the most direct way to reach it.
+
+Simply speaking, this state that has arisen is the mind itself. If you contemplate according to the truth of the way things are, you can see that there exists just one path and it is your duty to follow it. It means that you know from the very beginning that mental states of happiness and suffering are not the path to follow. This is something that you have to know for yourself—it is the truth of the way things are. If you attach to happiness, you are off the path, because attaching to happiness will cause suffering to arise. If you attach to sadness, it can be a cause for suffering to arise. You understand this—
+
+you are already mindful with right view, but at the same time, are not yet able to fully let go of your attachments.
+
+So what is the correct way to practice? You must walk the Middle Path, which means keeping track of the various mental states of happiness and suffering, while at the same time keeping them at a distance, off to either side of you. This is the correct way to practise—you maintain mindfulness and awareness even though you are still unable to let go. It’s the correct way, because whenever the mind attaches to states of happiness and suffering, awareness of the attachment is always there. This means that whenever the mind attaches to states of happiness, you don’t praise it or give value to it, and whenever it attaches to states of suffering, you don’t criticise it. This way you can actually observe the mind as it is. Happiness is not right, suffering is not right. There is the understanding that neither of these is the right path. You are aware, awareness of them is sustained, but still you can’t fully abandon them. You are unable to drop them, but you can be mindful of them. With mindfulness established, you don’t give undue value to happiness or suffering. You don’t give importance to either of those two directions which the mind can take, and you hold no doubts about this; you know that following either of those ways is not the right path of practice, so at all times you take this middle way of equanimity as the object of mind. When you practise to the point where the mind goes beyond happiness and suffering, equanimity will necessarily arise as the path to follow, and you have to gradually move down it, little by little—the heart knowing the way to go to be beyond defilements, but, not yet being ready to finally transcend them, it withdraws and continues practising.
+
+Whenever happiness arises and the mind attaches, you have to take that happiness up for contemplation, and whenever it attaches to suffering, you have to take that up for contemplation. Eventually, the mind reaches a stage when it is fully mindful of both happiness and suffering. That’s when it will be able to lay aside the happiness and the suffering, the pleasure and the sadness, and lay aside all that
+
+is the world and so become lokavidú (knower of the worlds).
+
+Once the mind—the “one who knows”—can let go it will
+
+THE PATH TO PEACE
+
+settle down at that point. Why does it settle down? Because you have done the practice and followed the path right down to that very spot. You know what you have to do to reach the end of the path, but are still unable to accomplish it. When the mind attaches to either happiness or suffering, you are not deluded by them and strive to dislodge the attachment and dig it out.
+
+This is practising on the level of the yogávacara, one who
+
+is travelling along the path of practice—striving to cut through the defilements, yet not having reached the goal. You focus upon these conditions and the way it is from moment to moment in your own mind. It’s not necessary to be personally interviewed about the state of your mind or do anything special. When there is attachment to either happiness or suffering, there must be the clear and certain understanding that any attachment to either of these states is deluded. It is attachment to the world. It is being stuck in the world. Happiness means attachment to the world, suffering means attachment to the world. This is the way worldly attachment is. What is it that creates or gives rise to the world? The world is created and established through ignorance. It’s because we are not mindful that the mind attaches importance to things; fashioning and creating saòkhárá (formations) all the time.
+
+FINISHING THE JOB
+
+It is here that the practice becomes really interesting. Wherever there is attachment in the mind, you keep hitting at that point, without letting up. If there is attachment to happiness, you keep pounding at it, not letting the mind get carried away with the mood. If the mind attaches to suffering, you grab hold of that, really getting to grips with it and contemplating it straight away. You are in the process of finishing the job off; the mind doesn’t let a single mind-object slip by without reflecting on it. Nothing can resist the power of your mindfulness and wisdom. Even if the mind is caught in an unwholesome mental state, you know it as unwholesome and the mind is not heedless. It’s like stepping
+
+on thorns: of course, you don’t seek to step on thorns, you try to avoid them, but nevertheless sometimes you step on one. When you do step on one, do you feel good about it? You feel aversion when you step on a thorn. Once you know the path of practice, it means you know that which is the world, that which is suffering and that which binds us to the endless cycle of birth and death. Even though you know this, you are unable to stop stepping on those ‘thorns.’ The mind still follows various states of happiness and sadness, but doesn’t completely indulge in them. You sustain a continuous effort to destroy any attachment in the mind—to destroy and clear all that which is the world from the mind.
+
+You must practise right in the present moment. Meditate right here; build your páramì right here. This is the heart of practice, the heart of your effort. You carry on an internal dialogue, discussing and reflecting on the Dhamma within yourself. It’s something that takes place right inside the mind. As worldly attachment is uprooted, mindfulness and wisdom untiringly penetrate inwards, and the “one who knows” sustains awareness with equanimity, mindfulness and clarity, without getting involved with or becoming enslaved to anybody or anything. Not getting involved with things means knowing without clinging—knowing while laying things aside and letting go. You still experience happiness; you still experience suffering; you still experience mind-objects and mental states, but you don’t cling to them.
+
+Once you are seeing things as they are, you know the mind as it is and you know mind-objects as they are. You know the mind as separate from mind-objects and mind-objects as separate from the mind. The mind is the mind; mind-objects are mind-objects. Once you know these two phenomena as they are, whenever they come together, you will be mindful of them. When the mind experiences mind-objects, mindfulness will be
+
+there. Our teacher described the practice of the yogávacara
+
+who is able to sustain such awareness, whether walking, standing, sitting or lying down, as being a continuous cycle.
+
+It is sammá paþipadá (right practice). You don’t forget yourself
+
+or become heedless.
+
+You don’t simply observe the coarser parts of your
+
+THE PATH TO PEACE
+
+practice, but also watch the mind internally, on a more refined level. That which is on the outside, you set aside. From here onwards you are just watching the body and the mind, just observing this mind and its objects arising and passing away, and understanding that having arisen they pass away. With passing away there is further arising—birth and death, death and birth; cessation followed by arising, arising followed by cessation. Ultimately, you are simply watching the act of
+
+cessation. Khayavaya means degeneration and cessation.
+
+Degeneration and cessation are the natural way of the mind
+
+and its objects—this is khayavaya. Once the mind is practising
+
+and experiencing this, it doesn’t have to go following up on or searching for anything else—it will be keeping abreast of things with mindfulness: Seeing is just seeing. Knowing is just knowing. The mind and mind-objects are just as they are. The mind knows the way things truly are. The mind isn’t proliferating about things, creating anything in addition.
+
+USING SAMÁDHI IN THE RIGHT WAY
+
+Don’t be confused or vague about the practice. Don’t get caught in doubting. This applies to the practice of sìla just the same. As I mentioned earlier, you have to look at it and contemplate whether it’s right or wrong. Having contemplated it, then leave it there. Don’t doubt about it. Practising samádhi is the same. Keep practising, calming the mind little by little. If you start thinking, it doesn’t matter; if you’re not thinking, it doesn’t matter. The important thing is to gain an understanding of the mind.
+
+Some people want to make the mind peaceful, but don’t know what true peace really is. They don’t know the peaceful mind. There are two kinds of peacefulness—one is the peace that comes through samádhi, the other is the peace that comes through paññá. The mind that is peaceful through samádhi is still deluded. The peace that comes through the practice of samádhi alone is dependent on the mind being separated from mind-objects. When it’s not experiencing any mind-objects, then there is calm, and consequently one attaches to the happiness that comes with that calm. However, whenever there is impingement through the senses, the mind gives in straight away. It’s afraid of mind-objects. It’s afraid of
+
+happiness and suffering; afraid of praise and criticism; afraid of forms, sounds, smells and tastes. One who is peaceful through samádhi alone is afraid of everything and doesn’t want to get involved with anybody or anything on the outside. People practising samádhi in this way just want to stay isolated in a cave somewhere, where they can experience the bliss of samádhi without having to come out. Wherever there is a peaceful place, they sneak off and hide themselves away. This kind of samádhi involves a lot of suffering—they find it difficult to come out of it and be with other people. They don’t want to see forms or hear sounds. They don’t want to experience anything at all! They have to live in some specially preserved quiet place, where no-one will come and disturb them with conversation. They have to have really peaceful surroundings.
+
+This kind of peacefulness can’t do the job. If you have reached the necessary level of calm, then withdraw. The Buddha didn’t teach to practise samádhi with delusion. If you are practising like that, then stop. If the mind has achieved calm, then use it as a basis for contemplation. Contemplate the peace of concentration itself and use it to connect the mind with and reflect upon the different mind-objects which it experiences. Use the calm of samádhi to contemplate sights, smells, tastes, tactile sensations and ideas. Use this calm to contemplate the different parts of the body, such as the hair of the head, hair of the body, nails, teeth,
+
+skin and so on. Contemplate the three characteristics of anicca (impermanence), dukkha (suffering) and anattá (not-self).
+
+Reflect upon this entire world. When you have contemplated sufficiently, it is all right to re-establish the calm of samádhi. You can re-enter it through sitting meditation and afterwards, with calm re-established, continue with the contemplation. Use the state of calm to train and purify the mind. Use it to challenge the mind. As you gain knowledge, use it to fight the defilements, to train the mind. If you simply enter samádhi and stay there you don’t gain any insight—you are simply making the mind calm and that’s all. However, if you use the calm mind to reflect, beginning with your external experience, this calm will gradually penetrate deeper and deeper inwards,
+
+THE PATH TO PEACE
+
+until the mind experiences the most profound peace of all. The peace which arises through paññá is distinctive, because
+
+when the mind withdraws from the state of calm, the presence of paññá makes it unafraid of forms, sounds, smells, tastes, tactile sensations and ideas. It means that as soon as there is sense contact the mind is immediately aware of the mind-object. As soon as there is sense contact you lay it aside; as soon as there is sense contact mindfulness is sharp enough to let go right away. This is the peace that comes through paññá.
+
+When you are practising with the mind in this way, the mind becomes considerably more refined than when you are developing samádhi alone. The mind becomes very powerful, and no longer tries to run away. With such energy you become fearless. In the past you were scared to experience anything, but now you know mind-objects as they are and are no longer afraid. You know your own strength of mind and are unafraid. When you see a form, you contemplate it. When you hear a sound, you contemplate it. You become proficient in the contemplation of mind-objects. You are established in the practice with a new boldness, which prevails regardless of the conditions. Whether it be sights, sounds or smells, you see them and let go of them as they occur. Whatever it is, you can let go of it all. You clearly see happiness and let it go. You clearly see suffering and let it go. Wherever you see them, you let them go right there. That’s the way! Keep letting them go and casting them aside right there. No mind-objects will be able to maintain a hold over the mind. You leave them there and stay secure in your place of abiding within the mind. As you experience, you cast aside. As you experience, you observe. Having observed, you let go. All mind-objects lose their value and are no longer able to sway you. This is the power of vipassaná. When these characteristics arise within the mind of the practitioner, it is appropriate to change the name of the practice to vipassaná: clear knowing in accordance with the truth. That’s what it’s all about— knowledge in accordance with the truth of the way things are. This is peace at the highest level, the peace of vipassaná. Developing peace through samádhi alone is very, very difficult; one is constantly petrified.
+
+So when the mind is at its most calm, what should you do? Train it. Practise with it. Use it to contemplate. Don’t be scared of things. Don’t attach. Developing samádhi so that you can just sit there and attach to blissful mental states isn’t the true purpose of the practice. You must withdraw from it. The Buddha said that you must fight this war, not just hide out in a trench trying to avoid the enemy’s bullets. When it’s time to fight, you really have to come out with guns blazing. Eventually you have to come out of that trench. You can’t stay sleeping there when it’s time to fight. This is the way the practice is. You can’t allow your mind to just hide, cringing in the shadows.
+
+Sìla and samádhi form the foundation of practice and it is essential to develop them before anything else. You must train yourself and investigate according to the monastic form and ways of practice which have been passed down.
+
+Be it as it may, I have described a rough outline of the practice. You as the practitioners must avoid getting caught in doubts. Don’t doubt about the way of practice. When there is happiness, watch the happiness. When there is suffering, watch the suffering. Having established awareness, make the effort to destroy both of them. Let them go. Cast them aside. Know the object of mind and keep letting it go. Whether you want to do sitting or walking meditation it doesn’t matter. If you keep thinking, never mind. The important thing is to sustain moment to moment awareness of the mind. If you are really caught in mental proliferation, then gather it all together, and contemplate it in terms of being one whole, cutting it off right from the start, saying, “All these thoughts, ideas and imaginings of mine are simply thought proliferation
+
+and nothing more. It’s all anicca, dukkha and anattá. None of
+
+it is certain at all.” Discard it right there.
+
+CONFIDENCE IN THE PRACTICE
+
+A talk given to Western lay meditators at an unknown location and time. Probably it was given in the West as Ajahn Chah mentions vipassaná retreats and parties.
+
+I would like to ask you about your practice. You have all been practising meditation here, but are you sure about the practice yet? Ask yourselves; are you confident about the practice yet? These days there are all sorts of meditation teachers around, both monks and lay teachers, and I’m afraid it will cause you to be full of doubts and uncertainty about what you are doing. This is why I am asking. As far as Buddhist practice is concerned, there is really nothing greater or higher than these teachings of the Buddha that you have been practising with here. If you have a clear understanding of them, it will give rise to an absolutely firm and unwavering peace in your heart and mind.
+
+Making the mind peaceful is known as practicing meditation, or practising samádhi. The mind is something extremely changeable and unreliable. Observing from your practice so far, have you seen this yet? Some days you sit meditation and in no time the mind is calm; other days you sit and whatever you do there’s no calm—the mind is constantly struggling to get away, until it eventually does. Some days it goes well; some days it’s awful. This is the way the mind displays these different conditions for you to see. You must understand that the eight factors of the Noble Eight-fold Path merge in sìla, samádhi and paññá. They don’t come together anywhere else. This means that when you bring the factors of your practice together, there must be sìla, there must be samádhi and there must be paññá present together in the mind. It means that in practising meditation right here and now, you are creating the causes for the Path to arise in a very direct way.
+
+In sitting meditation you are taught to close your eyes, so that you don’t spend your time looking at different things. This is because the Buddha was teaching that you should know your own mind. Observe the mind. If you close your eyes, your attention will naturally be turned inwards towards the mind—the source of many different kinds of knowledge. This is a way of training the mind to give rise to samádhi.
+
+AWARENESS OF THE BREATH
+
+Once sitting with the eyes closed, establish awareness with the breath—make awareness of the breath more important than anything else. This means you bring awareness to follow the breath, and by keeping with it, you will know that place which is the focal point of sati, the focal point of the knowing and the focal point of the mind’s awareness. Whenever these factors of the Path are working together, you will be able to
+
+watch and see your breath, feelings, mind and árammaóa
+
+(mind-objects), as they are in the present moment. Ultimately, you will know that place which is both the focal point of samádhi and the unification point of the Path factors.
+
+When developing samádhi, fix attention on the breath and imagine that you are sitting alone with absolutely no other people and nothing else around to bother you. Develop this perception in the mind, sustaining it until the mind completely lets go of the world outside and all that is left is simply the knowing of the breath entering and leaving. The mind must set aside the external world. Don’t allow yourself to start thinking about this person who is sitting over here, or that person who is sitting over there. Don’t give space to any thoughts that will give rise to confusion or agitation in the mind—it’s better to throw them out and be done with them. There is no one else here; you are sitting all alone. Develop this perception until all the other memories, perceptions and thoughts concerning other people and things subside, and you’re no longer doubting or wondering about the other people or things around you. Then you can fix your attention solely on the in-breaths and out-breaths. Breathe normally— allow the in-breaths and the out-breaths to continue naturally, without forcing them to be longer or shorter, stronger or weaker
+
+CONFIDENCE IN THE PRACTICE
+
+than normal. Allow the breath to continue in a state of normality and balance, and then sit and observe it entering and leaving the body.
+
+Once the mind has let go of external mind-objects, you will no longer feel disturbed by the sound of traffic or other noises; you won’t feel irritated with anything outside. Whether it’s forms, sounds or whatever, they won’t be a source of disturbance, because the mind won’t be paying attention to them—it will become centred upon the breath.
+
+If the mind is agitated by different things and you can’t concentrate, try taking an extra-deep breath until the lungs are completely full, and then release all the air until there is none left inside. Do this several times, then re-establish awareness and continue to develop concentration. Having re-established mindfulness, it’s normal that for a period the mind will be calm, then change and become agitated again. When this happens, make the mind firm, take another deep breath and subsequently expel all the air from your lungs. Fill the lungs to capacity again for a moment and then re-establish mindfulness on the breathing. Fix sati on the in-breaths and the out-breaths, and continue to maintain awareness in this way.
+
+The practice tends to be this way, so it will have to take many sittings and much effort before you become proficient. Once you are, the mind will let go of the external world and remain undisturbed. Mind-objects from the outside will be unable to penetrate inside and disturb the mind itself. Once they are unable to penetrate inside, you will see the mind. You will see the mind as one object of awareness, the breath as another and mind-objects as another. They will all be present within the field of awareness, centred at the tip of your nose. Once sati is firmly established with the in-breaths and out-breaths, you can continue to practise at your ease. As the mind becomes calm, the breath, which was originally coarse, correspondingly becomes lighter and more refined. The object of mind also becomes increasingly subtle and refined. The body feels lighter and the mind itself feels progressively lighter and unburdened. The mind lets go of external mind-objects and you continue to observe internally.
+
+UNIFICATION
+
+From here onwards your awareness will be turned away from the world outside, and is directed inwards focussing on the mind. Once the mind has gathered together and become concentrated, maintain awareness at that point where the mind becomes focused. As you breathe, you will see the breath clearly as it enters and leaves, sati will be sharp and awareness of mind-objects and mental activity will be clearer. At that point you will see the characteristics of sìla, samádhi, and paññá and the way in which they merge together. This is known as the unification of the Path factors.
+
+Once this unification occurs, your mind will be free from all forms of agitation and confusion. It will become one-pointed and this is what is known as samádhi. When you focus attention in just one place, in this case the breath, you gain a clarity and awareness because of the uninterrupted presence of sati. As you continue to see the breath clearly, sati will become stronger and the mind will become more sensitive in many different ways. You will see the mind in the centre of that place (the breath), one-pointed with awareness focused inwards, rather than turning towards the world outside. The external world gradually disappears from your awareness and the mind will no longer be going to perform any work on the outside. It’s as if you’ve come inside your ‘house,’ where all your sense faculties have come together to form one compact unit. You are at your ease and the mind is free from all external objects. Awareness remains with the breath and over time it will penetrate deeper and deeper inside, becoming progressively more refined. Ultimately, awareness of the breath becomes so refined that the sensation of the breath seems to disappear. You could say either that awareness of the sensation of the breath has disappeared, or that the breath itself has disappeared. Then there arises a new kind of awareness— awareness that the breath has disappeared. In other words, awareness of the breath becomes so refined that it’s difficult to define it.
+
+So it might be that you are just sitting there and there’s no breath. Really, the breath is still there, but it has become so refined that it seems to have disappeared. Why? Because
+
+CONFIDENCE IN THE PRACTICE
+
+the mind is at its most refined; it is with a special kind of knowing. All that remains is the knowing. Even though the breath has vanished, the mind is still concentrated with the knowledge that the breath is not there. As you continue, what should you take up as the object of meditation? Take this very knowing as the meditation object—in other words the knowledge that there is no breath—and sustain this. You could say that a specific kind of knowledge has been established in the mind.
+
+At this point, some people might have doubts arising,
+
+because it is here that nimittas can arise. These can be of
+
+many kinds, including both forms and sounds. It is here that all sorts of unexpected things can arise in the course of the practice. If nimittas do arise—some people have them, some don’t—you must understand them in accordance with the truth. Don’t doubt or allow yourself to become alarmed.
+
+At this stage, you should make the mind unshakeable in its concentration and be especially mindful. Some people become startled when they notice that the breath has disappeared, because they’re used to having the breath there. When it appears that the breath has gone, you might panic or become afraid that you are going to die. Here you must establish the understanding that it is just the nature of the practice to progress in this way. What will you observe as the object of meditation now? Observe this feeling that there is no breath and sustain it as the object of awareness as you continue to meditate. The Buddha described this as the firmest, most unshakeable form of samádhi. There is just one firm and unwavering object of mind. When your practice of samádhi reaches this point, there will be many unusual and refined changes and transformations taking place within the mind, which you can be aware of. The sensation of the body will feel at its lightest or might even disappear altogether. You might feel like you are floating in mid-air and seem to be completely weightless. It might be like you are in the middle of space and wherever you direct your sense faculties they don’t seem to register anything at all. Even though you know the body is still sitting there, you experience complete emptiness. This feeling of emptiness can be quite strange.
+
+As you continue to practise, understand that there is nothing to worry about. Establish this feeling of being relaxed and unworried, securely in the mind. Once the mind is concentrated and one-pointed, no mind-object will be able to penetrate or disturb it, and you will be able to sit like this for as long as you want. You will be able to sustain concentration without any feelings of pain and discomfort.
+
+Having developed samádhi to this level, you will be able to enter or leave it at will. When you do leave it, it’s at your ease and convenience. You withdraw at your ease, rather than because you are feeling lazy, unenergetic or tired. You withdraw from samádhi because it is the appropriate time to withdraw, and you come out of it at your will. This is samádhi: your mind and heart are relaxed and at ease, and you enter and leave it without any problems.
+
+THE FRUIT OF SAMÁDHI
+
+If you genuinely have samádhi like this, it means that sitting meditation and entering samádhi for just thirty minutes or an hour will enable you to remain cool and peaceful for many days afterwards. Experiencing the effects of samádhi like this for several days has a purifying effect on the mind—whatever you experience will become an object for contemplation. This is where the practice really begins. It’s the fruit which arises as samádhi matures.
+
+Samádhi performs the function of calming the mind. Samádhi performs one function, sìla performs one function and paññá performs another function. These characteristics which you are focusing attention on and developing in the practice are linked, forming a circle. This is the way they manifest in the mind. Sìla, samádhi and paññá arise and mature from the same place. Once the mind is calm, it will become progressively more restrained and composed due to the presence of paññá and the power of samádhi. As the mind becomes more composed and refined, this gives rise to an energy which acts to purify sìla. Greater purity of sìla facilitates the development of stronger and more refined samádhi, and this in turn supports the maturing of paññá. They assist each other in this way. Each aspect of the practice acts as
+
+CONFIDENCE IN THE PRACTICE
+
+a supporting factor for each other one—in the end these terms becoming synonymous. As these three factors continue to mature together, they form one complete circle, ultimately
+
+giving rise to the Path (magga). The Path is a synthesis of these
+
+three functions of the practice working smoothly and consistently together.
+
+PRESERVING THE ENERGY OF SAMÁDHI
+
+As you practise, you have to preserve this energy. It is the energy which will give rise to vipassaná or paññá. Having reached this stage—where paññá is already functioning in the mind, independent of whether the mind is peaceful or not— paññá will provide a consistent and independent energy in the practice. You see that whenever the mind is not peaceful, you shouldn’t attach; and even when it is peaceful, you shouldn’t attach. Having let go of the burden of such concerns, the heart will accordingly feel much lighter. Whether you experience pleasant mind-objects or unpleasant mind-objects, you will remain at ease. The mind will remain peaceful in this way.
+
+Another important thing is to see that when you stop doing formal meditation practice, if there is no wisdom functioning in the mind, you will give up the practice altogether without any further contemplation, development of awareness or thought about the work that still has to be done. In fact, when you withdraw from samádhi, you know clearly in the mind that you have withdrawn. Having withdrawn, continue to conduct yourself in a normal manner. Maintain mindfulness and awareness at all times. It isn’t that you only practise meditation in the sitting posture—samádhi means the mind which is firm and unwavering. As you go about your daily life, make the mind firm and steady and maintain this sense of steadiness as the object of mind at all times. You must be practising sati and sampajañña (all round knowing) continuously. After you get up from the formal sitting practice and go about your business—walking, riding in cars and so on—whenever your eyes see a form or your ears hear a sound, maintain awareness. As you experience
+
+mind-objects which give rise to liking and disliking, try to consistently maintain awareness of the fact that such mental states are impermanent and uncertain. In this way the mind will remain calm and in a state of “normality.”
+
+As long as the mind is calm, use it to contemplate mind-objects. Contemplate the whole of this form, the physical body. You can do this at any time and in any posture: whether doing formal meditation practice, relaxing at home, out at work, or in whatever situation you find yourself. Keep the meditation and the reflection going at all times. Just going for a walk and seeing dead leaves on the ground under a tree can provide an opportunity to contemplate impermanence. Both we and the leaves are the same: when we get old, we shrivel up and die. Other people are all the same. This is raising the mind to the level of vipassaná, contemplating the truth of the way things are, the whole time. Whether walking, standing, sitting or lying down, sati is sustained evenly and consistently. This is practising meditation correctly—you have to be following the mind closely, checking it at all times.
+
+Practising here and now at seven o’clock in the evening, we have sat and meditated together for an hour and now have stopped. It might be that your mind has stopped practising completely and hasn’t continued with the reflection. That’s the wrong way to do it. When we stop, all that should stop is the formal meeting and sitting meditation. You should continue practising and developing awareness consistently, without letting up.
+
+I’ve often taught that if you don’t practise consistently, it’s like drops of water. It’s like drops of water because the practice is not a continuous, uninterrupted flow. Sati is not sustained evenly. The important point is that the mind does the practice and nothing else. The body doesn’t do it. The mind does the work, the mind does the practice. If you understand this clearly, you will see that you don’t necessarily have to do formal sitting meditation in order for the mind to know samádhi. The mind is the one who does the practice. You have to experience and understand this for yourself, in your own mind.
+
+CONFIDENCE IN THE PRACTICE
+
+Once you do see this for yourself, you will be developing awareness in the mind at all times and in all postures. If you are maintaining sati as an even and unbroken flow, it’s as if the drops of water have joined to form a smooth and continuous flow of running water. Sati is present in the mind from moment to moment and accordingly there will be awareness of mind-objects at all times. If the mind is restrained and composed with uninterrupted sati, you will know mind-objects each time that wholesome and unwholesome mental states arise. You will know the mind that is calm and the mind that is confused and agitated. Wherever you go you will be practising like this. If you train the mind in this way, it means your meditation will mature quickly and successfully.
+
+Please don’t misunderstand. These days it’s common for people to go on vipassaná courses for three or seven days, where they don’t have to speak or do anything but meditate. Maybe you have gone on a silent meditation retreat for a week or two, afterwards returning to your normal daily life. You might have left thinking that you’ve “done vipassaná” and, because you feel that you know what it’s all about, then carry on going to parties, discos and indulging in different forms of sensual delight. When you do it like this, what happens? There won’t be any of the fruits of vipassaná left by the end of it. If you go and do all sorts of unskilful things, which disturb and upset the mind, wasting everything, then next year go back again and do another retreat for seven days or a few weeks, then come out and carry on with the parties, discos and drinking, that isn’t true practice. It isn’t the path to
+
+progress (paþipadá).
+
+RENOUNCING HARMFUL THINGS
+
+You need to make an effort to renounce. You must contemplate until you see the harmful effects which come from such behaviour. See the harm in drinking and going out in town. Reflect and see the harm inherent in all the different kinds of unskilful behaviour which you indulge in, until it becomes fully apparent. This would provide the
+
+impetus for you to take a step back and change your ways. Then you would find some real peace. To experience peace of mind you have to clearly see the disadvantages and danger in such forms of behaviour. This is practising in the correct way. If you do a silent retreat for seven days, where you don’t have to speak to or get involved with anybody, and then go chatting, gossiping and overindulging for another seven months, how will you gain any real or lasting benefit from those seven days of practise?
+
+I would encourage all the lay people here, who are practising to develop awareness and wisdom, to understand this point. Try to practise consistently. See the disadvantages of practising insincerely and inconsistently, and try to sustain a more dedicated and continuous effort in the practice. Just this much. It can then become a realistic possibility that you
+
+might put an end to the kilesas (mental defilements). But that
+
+style of not speaking and not playing around for seven days, followed by six months of complete sensual indulgence, without any mindfulness or restraint, will just lead to the squandering of any gains made from the meditation—there won’t be any thing left. It’s like if you were to go to work for a day and earned twenty dollars, but then went out and spent thirty dollars on food and things in the same day; would there be any money saved? It would be all gone. It’s just the same with the meditation.
+
+This is a form of reminder to you all, so I will ask for your forgiveness. It’s necessary to speak in this way, so that those aspects of the practice which are at fault will become clear to you and accordingly, you will be able to give them up. You could say that the reason why you have come to practise is to learn how to avoid doing the wrong things in the future. What happens when you do the wrong things? Doing wrong things leads you to agitation and suffering, when there’s no goodness in the mind. It’s not the way to peace of mind. This is the way it is. If you practise on a retreat, not talking for seven days, and then go indulging for a few months, no matter how strictly you practised for those seven days, you won’t derive any lasting value from that practice. Practising that way, you don’t really get anywhere. Many places where
+
+CONFIDENCE IN THE PRACTICE
+
+meditation is taught don’t really get to grips with or get beyond this problem. Really, you have to conduct your daily life in a consistently calm and restrained way.
+
+In meditation you have to be constantly turning your attention to the practice. It’s like planting a tree. If you plant a tree in one place and after three days pull it up and plant it in a different spot, then after a further three days pull it up and plant it in yet another place, it will just die without producing anything. Practising meditation like this won’t bear any fruit either. This is something you have to understand for yourselves. Contemplate it. Try it out for yourselves when you go home. Get a sapling and plant it one spot, and after every few days, go and pull it up and plant it in a different place. It will just die without ever bearing any fruit. It’s the same doing a meditation retreat for seven days, followed by seven months of unrestrained behaviour, allowing the mind to become soiled, and then going back to do another retreat for a short period, practising strictly without talking and subsequently coming out and being unrestrained again. As with the tree, the meditation just dies—none of the wholesome fruits are retained. The tree doesn’t grow, the meditation doesn’t grow. I say practising this way doesn’t bear much fruit.
+
+Actually, I’m not fond of giving talks like this. It’s because I feel sorry for you that I have to speak critically. When you are doing the wrong things, it’s my duty to tell you, but I’m speaking out of compassion for you. Some people might feel uneasy and think that I’m just scolding them. Really, I’m not just scolding you for its own sake; I’m helping to point out where you are going wrong, so that you know. Some people might think, “Luang Por  is just telling us off,” but it’s not like that. It’s only once in a long while that I’m able to come and give a talk—if I was to give talks like this everyday, you would really get upset! But the truth is, it’s not you who gets upset, it’s only the kilesas that are upset. I will say just this much for now.
+
+CLARITY OF INSIGHT
+
+A talk given to a group of Thai lay meditators in Bangkok, April 1979.
+
+Meditate reciting “Buddho, Buddho” until it penetrates deep into the heart of your consciousness (citta). The word Buddho
+
+represents the awareness and wisdom of the Buddha. In practice, you must depend on this word more than anything else. The awareness it brings will lead you to understand the truth about your own mind. It’s a true refuge, which means that there is both mindfulness and insight present.
+
+Wild animals can have awareness of a sort. They have mindfulness as they stalk their prey and prepare to attack. Even the predator needs firm mindfulness to keep hold of the captured prey however defiantly it struggles to escape death. That is one kind of mindfulness. For this reason you must be able to distinguish between different kinds of mindfulness. The Buddha taught to meditate reciting “Buddho” as a way to apply the mind. When you consciously apply the mind to an object, it wakes up. The awareness wakes it up. Once this knowing has arisen through meditation, you can see the mind clearly. As long as the mind remains without the awareness of “Buddho,” even if there is ordinary worldly mindfulness present, it is as if unawakened and without insight. It will not lead you to what is truly beneficial.
+
+Sati depends on the presence of “Buddho”—the knowing. It must be a clear knowing, which leads to the mind becoming brighter and more radiant. The illuminating effect that this clear knowing has on the mind is similar to the brightening of a light in a darkened room. As long as the room is pitch-black, any objects placed inside remain difficult to distinguish or else completely obscured from view because of the lack of light. But as you begin intensifying the brightness of the light inside, it will penetrate throughout the whole room, enabling you to see more clearly from moment to moment,
+
+CLARITY OF INSIGHT
+
+thus allowing you to know more and more the details of any object inside there.
+
+You could also compare training the mind with teaching a child. It would be impossible to force a child, who still hasn’t learnt to speak, to accumulate knowledge at an unnaturally fast rate that was beyond its capability. You couldn’t get too tough with it or try teaching it more language than it could take in at any one time, because the child would simply be unable to hold its attention on what you were saying for long enough.
+
+Your mind is similar. Sometimes it’s appropriate to give yourself some praise and encouragement; sometimes it’s more appropriate to be critical. It’s like the child: if you scold it too often and are too intense in the way you deal with it, the child won’t progress in the right way, even though it might be determined to do well. If you force it too much, the child will be adversely affected, because it still lacks knowledge and experience and as a result will naturally lose track of the right way to go. If you do that with your own
+
+mind, it isn’t sammá paþipadá or the way of practice that leads to enlightenment. Paþipadá or practice refers to the training and
+
+guidance of body, speech and mind. Here I am specifically referring to the training of the mind.
+
+The Buddha taught that training the mind involves knowing how to teach yourself and go against the grain of your desires. You have to use different skilful means to teach your mind because it constantly gets caught into moods of depression and elation. This is the nature of the unenlightened mind—it’s just like a child. The parents of a child who hasn’t learnt to speak are in a position to teach it because they know how to speak and their knowledge of the language is greater. The parents are constantly in a position to see where their child is lacking in its understanding, because they know more. Training the mind is like this. When you have the awareness of “Buddho,” the mind is wiser and has a more refined level of knowing than normal. This awareness allows you to see the conditions of the mind and to see the mind itself; you can see the state of mind in the midst of all phenomena. This being so, you are naturally able to employ skilful techniques for training the mind. Whether you are caught
+
+into doubt or any other of the defilements, you see it as a mental phenomenon that arises in the mind and must be investigated and dealt with in the mind.
+
+That awareness which we call “Buddho” is like the parents of the child. The parents are the child’s teachers in charge of its training, so it’s quite natural that whenever they allow it to wander freely, simultaneously they must keep one eye on it, aware of what it’s doing and where it’s running or crawling to.
+
+Sometimes you can be too clever and have too many good ideas. In the case of teaching the child, you might think so much about what is best for the child, that you could reach the point where the more methods you think up for teaching it, the further away the child moves from the goals you want it to achieve. The more you try and teach it, the more distant it becomes, until it actually starts to go astray and fails to develop in the proper way.
+
+THE THREE FETTERS
+
+In training the mind, it is crucial to overcome sceptical doubt. Doubt and uncertainty are powerful obstacles that must be dealt with. Investigation of the three fetters of personality
+
+view (sakkáya-diþþhi), blind attachment to rules and practices (sìlabbata-parámása) and sceptical doubt (vicikicchá) is the way out of attachment practised by the Noble Ones (ariya-puggala).
+
+But at first you just understand these defilements from the books—you still lack insight into how things truly are. Investigating personality view is the way to go beyond the delusion that identifies the body as a self. This includes attachment to your own body as a self or attaching to other
+
+people’s bodies as solid selves. Sakkáya-diþþhi or personality
+
+view refers to this thing you call yourself. It means attachment to the view that the body is a self. You must investigate this view until you gain a new understanding and can see the truth that attachment to the body is defilement and it obstructs the minds of all human beings from gaining insight into the Dhamma.
+
+For this reason, before anything else the preceptor will instruct each new candidate for the monk’s ordination to
+
+CLARITY OF INSIGHT
+
+investigate the five meditation objects: hair of the head (kesá), hair of the body (lomá), nails (nakhá), teeth (dantá) and skin (taco). It is through contemplation and investigation that you
+
+develop insight into personality view. These objects form the most immediate basis for the attachment that creates the delusion of personality view. Contemplating these five meditation objects leads to the direct examination of personality view, and thus provides the means for all those who enter the community to actually transcend personality view. But in the beginning you remain deluded, without insight and hence are unable to penetrate personality view and see the truth of the way things are. You fail to see the truth because you still have a firm and unyielding attachment. It’s this attachment that sustains the delusion.
+
+The Buddha taught to transcend delusion. The way to transcend it is through clearly seeing the body for what it is. With penetrating insight you must see that the true nature of both your own body and other people’s is essentially the same. There is no fundamental difference between people’s bodies: the body is just the body; it’s not a being, a self, yours or theirs. This clear insight into the true nature of the
+
+body is called káyánupassaná, contemplation of the body. A
+
+body exists: you label it and give it a name, and then you attach and cling to it with the view that it is your body or his or her body. You attach to the view that the body is permanent and that it is something clean and pleasant. This attachment goes deep into the mind. This is the way that the mind clings to the body.
+
+Personality view means that you are still caught into doubt and uncertainty about the body. Your insight hasn’t fully penetrated the delusion that sees the body as a self. As long as the delusion remains, you call the body a self or attá and interpret your entire experience from the viewpoint that there is a solid, enduring entity which you call the self. You are so completely attached to the conventional way of viewing the body as a self, that there is no apparent way of seeing beyond it. But clear understanding according to the truth of the way things are means you see the body as just that much: the body is just the body. With insight, you see the body as
+
+just that much and this wisdom counteracts the delusion of the sense of self. This insight that sees the body as just that
+
+much, leads to the destruction of attachment (upádána)
+
+through the gradual uprooting and letting go of delusion.
+
+Practise contemplating the body as being just that much, until it is quite natural to think to yourself, “Oh, the body is merely the body. It’s just that much.” Once this way of reflection is established, as soon as you say to yourself that it’s just that much, the mind lets go. There is letting go of attachment to the body. There is the insight that sees the body as merely the body. By sustaining this sense of detachment through continuous seeing of the body as merely the body, all doubt and uncertainty is gradually uprooted. As you investigate the body, the more clearly you see it as just the body rather than a person, a being, a “me” or a “them,” the more powerful the effect on the mind, resulting in the simultaneous removal of doubt and uncertainty.
+
+Blind attachment to rules and practices (sìlabbata-parámása)— which manifests in the mind as blindly fumbling
+
+and feeling around through lack of clarity as to the real purpose of practice—is abandoned simultaneously because it arises in conjunction with personality view. You could say that the three fetters of doubt, blind attachment to rules and practices and personality view are inseparable and even similes for each other. Once you have seen this relationship clearly, when one of the three fetters, such as doubt for instance, arises and you are able to let it go through the cultivation of insight, the other two fetters are automatically abandoned at the same time. They are extinguished together. Simultaneously, you let go of personality view and the blind attachment that is the cause of fumbling and fuzziness of intention over different practices. You see them each as one part of your overall attachment to the sense of self, which is to be abandoned. You must repeatedly investigate the body and break it down into its component parts. As you see each part as it truly is, the perception of the body being a solid entity or self is gradually eroded away. You have to keep putting continuous effort into this investigation of the truth and can’t let up.
+
+CLARITY OF INSIGHT
+
+THE THREE KINDS OF SAMÁDHI
+
+A further aspect of mental development that leads to clearer and deeper insight is meditating on an object to calm the mind down. The calm mind is the mind that is firm and
+
+stable in samádhi. This can be khaóika samádhi (momentary concentration), upacára samádhi (neighbourhood concentration) or appaná samádhi (absorption concentration). The level of
+
+concentration is determined by the refinement of consciousness from moment to moment as you train the mind to maintain awareness on a meditation object. As concentration becomes more refined in the course of meditation, many similar characteristics of the tranquil mind are experienced at each level, so each one is described as a level of samádhi, whether
+
+it is khaóika, upacára or appaná. At each level the mind is calm,
+
+but the depth of the samádhi varies and the nature of the peaceful mental state experienced differs.
+
+In khaóika samádhi, the mind unifies for just a short space
+
+of time. It calms down in samádhi, but having gathered together momentarily, immediately withdraws from that peaceful state. On one level the mind is still subject to movement and can wander, but moves around within the confines of the concentrated state. It doesn’t get caught into activity that leads to agitation and distraction. Your awareness might follow a wholesome mental object for a while, before returning to settle down at a point of stillness where it remains for a period. You could compare the experience of khaóika samádhi with a physical activity like taking a walk somewhere: you might walk for a period before stopping for a rest, and having rested, start walking again until it’s time to stop for another rest. Even though you interrupt the journey periodically to stop walking and take rests, each time remaining completely still, it is only ever a temporary stillness of the body. After a short space of time you have to start moving again to continue the journey. This is what happens within the mind as it experiences such a level of concentration.
+
+If you practise meditation focusing on an object to calm the mind and reach a level of calm where the mind is firm in samádhi, but there is still some mental movement
+
+occurring, that is known as upacára samádhi. In upacára
+
+samádhi the mind can still move around. This movement takes place within certain limits, the mind doesn’t move beyond them. The boundaries within which the mind can move are determined by the firmness and stability of concentration. The experience is as if you alternate between a state of calm and a certain amount of mental activity. The mind is calm some of the time and active for the rest. Within that activity there is still a certain level of calm and concentration that persists, but the mind is not completely still or immovable. It is still thinking a little and wandering about. It’s like wandering around inside your own home: you wander around within the limits of your concentration, without losing awareness and moving outdoors, away from the meditation object. The movement of the mind stays
+
+within the bounds of wholesome (kusala) mental states. It
+
+doesn’t get caught into any mental proliferation based on
+
+unwholesome (akusala) mental states. Any thinking remains
+
+wholesome. Once the mind is calm, it necessarily experiences wholesome mental states from moment to moment. During the time it is concentrated, the mind only experiences wholesome mental states and periodically settles down to become completely still and one-pointed on its object. So the mind still experiences some movement, circling around its object. It can still wander. It might wander around within the confines set by the level of concentration, but no real harm arises from this movement because the mind is calm in samádhi. This is how the development of the mind proceeds in the course of practice.
+
+In appaná samádhi the mind calms down and is stilled to
+
+a level where it is at its most subtle and skilful. Even if you experience sense impingement from the outside, such as sounds and physical sensations, it remains external and is unable to disturb the mind. You might hear a sound, but it won’t distract your concentration. There is the hearing of the sound, but the experience is as if you don’t hear anything. There is awareness of the impingement, but it’s as if you are not aware. This is because you let go. The mind lets go automatically. Concentration is so deep and firm that you
+
+CLARITY OF INSIGHT
+
+let go of attachment to sense impingement quite naturally. The mind can absorb into this state for long periods. Having stayed inside for an appropriate amount of time, it then withdraws. Sometimes, as you withdraw from such a deep
+
+level of concentration, a mental image (nimitta) of some aspect
+
+of your own body can appear. It might be a mental image displaying an aspect of the unattractive nature of your body that arises into consciousness. As the mind withdraws from the refined state, the image of the body appears to emerge and expand from within the mind. Any aspect of the body could come up as a mental image and fill up the mind’s eye at that point.
+
+Images that come up in this way are extremely clear and unmistakable. You have to have genuinely experienced very deep tranquillity for them to arise. You see them absolutely clearly, even though your eyes are closed. If you open your eyes you can’t see them, but with eyes shut and the mind absorbed in samádhi, you can see such images as clearly as if viewing the object with eyes wide open. You can even experience a whole train of consciousness where from moment to moment the mind’s awareness is fixed on images expressing the unattractive nature of the body. The appearance of such images in a calm mind can become the basis for insight into the impermanent nature of the body, as well as into its unattractive, unclean and unpleasant nature, or into the complete lack of any real self or essence within it.
+
+THE BASIS FOR INSIGHT
+
+When these kinds of special knowledge arise, they provide the basis for skilful investigation and the development of insight. You bring this kind of insight right inside your heart. As you do this more and more, it becomes the cause for insight knowledge to arise by itself. Sometimes, when you
+
+turn your attention to reflecting on the subject of asubha (non-
+
+attractiveness of the body) images of different unattractive aspects of the body can manifest in the mind automatically. These images are clearer than any you could try to summon up with your imagination and lead to insight of a far more penetrating nature than that gained through the ordinary kind
+
+of discursive thinking. This kind of clear insight has such a striking impact that the activity of the mind is brought to a stop followed by the experience of a deep sense of dispassion. The reason it is so clear and piercing is that it originates from a completely peaceful mind. Investigating from within a state of calm, leads you to clearer and clearer insight, the mind becoming more peaceful as it is increasingly absorbed in the contemplation. The clearer and more conclusive the insight, the deeper inside the mind penetrates with its investigation, constantly supported by the calm of samádhi.
+
+This is what the practice of kammaþþhána involves. Continuous
+
+investigation in this way helps you to repeatedly let go of and ultimately destroy attachment to personality view. It brings an end to all remaining doubt and uncertainty about this heap of flesh we call the body and the letting go of blind attachment to rules and practices.
+
+Even in the event of serious illness, tropical fevers or different health problems that normally have a strong physical impact and shake the body up, your samádhi and insight remain firm and imperturbable. Your understanding and insight allows you to make a clear distinction between mind and body—the mind is one phenomenon, the body another. Once you see body and mind as completely and indisputably separate from each other, it means that the practice of insight has brought you to the point where your mind sees for certain the true nature of the body.
+
+Seeing the way the body truly is, clearly and beyond doubt from within the calm of samádhi, leads to the mind experiencing a strong sense of weariness and turning away
+
+(nibbidá). This turning away comes from the sense of
+
+disenchantment and dispassion that arises as the natural result of seeing the way things are. It’s not a turning away that comes from ordinary worldly moods such as fear, revulsion or other unwholesome qualities like envy or aversion. It’s not coming from the same root of attachment as those defiled mental states. This is turning away that has a spiritual quality to it and has a different effect on the mind than the normal moods of boredom and weariness experienced by ordinary
+
+unenlightened human beings (puthujjana). Usually when
+
+CLARITY OF INSIGHT
+
+ordinary unenlightened human beings are weary and fed up, they get caught into moods of aversion, rejection and seeking to avoid. The experience of insight is not the same.
+
+The sense of world-weariness that grows with insight, however, leads to detachment, turning away and aloofness that comes naturally from investigating and seeing the truth of the way things are. It is free from attachment to a sense of self that attempts to control and force things to go according to its desires. Rather, you let go with an acceptance of the way things are. The clarity of insight is so strong that you no longer experience any sense of a self that has to struggle against the flow of its desires or endure through attachment. The three fetters of personality view, doubt and blind attachment to rules and practices that are normally present underlying the way you view the world can’t delude you or cause you to make any serious mistakes in practice. This is the very beginning of the Path, the first clear insight into ultimate truth, and paves the way for further insight. You could describe it as penetrating the Four Noble Truths. The Four Noble Truths are things to be realized through insight. Every monk and nun, who has ever realized them, has experienced such insight into the truth of the way things are. You know suffering, know the cause of suffering, know the cessation of suffering and know the Path leading to the cessation of suffering. Understanding of each Noble Truth emerges at the same place within the mind. They come together and harmonize as the factors of the Noble Eightfold Path, which the Buddha taught are to be realized within the mind. As the Path factors converge in the centre of the mind, they cut through any doubts and uncertainty you still have concerning the way of practice.
+
+SEPARATING THE MIND FROM THE DEFILEMENTS
+
+During the course of practising, it is normal that you experience the different conditions of the mind. You constantly experience desires to do this and that or to go different places, as well as the different moods of mental pain, frustration or else indulgence in pleasure seeking—all
+
+of which are the fruits of past kamma (actions). All this resultant kamma swells up inside the mind and puffs it out. However, it is the product of past actions. Knowing that it is all stuff coming up from the past, you don’t allow yourself to make anything new or extra out of it. You observe and reflect on the arising and cessation of conditions. That which has not yet arisen is still unarisen. This word “arise” refers to
+
+upádána or the mind’s attachment and clinging. Over time your
+
+mind has been exposed to and conditioned by craving and defilement and the mental conditions and characteristics you experience reflect that. Having developed insight, your mind no longer follows those old habit patterns that were fashioned by defilement. A separation occurs between the mind and those defiled ways of thinking and reacting. The mind separates from the defilements.
+
+You can compare this with the effect of putting oil and paint together in a bottle. Each liquid has a very different density so it doesn’t matter whether you keep them in the same bottle or in separate ones, because the difference in their density prevents the liquids from mixing together or permeating into each other. The oil doesn’t mix in with the paint and vice versa. They remain in separate parts of the bottle. You can compare the bottle with the world and these two different liquids, that have been put into the bottle and are forced to stay within its confines, are similar to you living in the world with insight that separates your mind from the defilements. You can say that you are living in the world and following the conventions of the world, but without attaching to it. When you have to go somewhere you say you are going, when you are coming you say you are coming or whatever you are doing you use the conventions and language of the world, but it’s like the two liquids in the bottle—they are in the same bottle but don’t mix together. You live in the world, but at the same time you remain separate from it. The Buddha knew the truth for himself.
+
+He was the lokavidú—the knower of the world.
+
+What are the sense bases (áyatana)? They consist of the
+
+eyes, ears, nose, tongue, body and mind. These exist and function just the same as before. The ears hear sound; the
+
+CLARITY OF INSIGHT
+
+nose performs the function of smelling different smells, whether fragrant or pungent; the tongue has the function of tasting tastes whether sweet, sour, rich or salty; the body senses heat and cold, softness and hardness; the mind receives mind objects which arise in the same way as they always have. The sense bases function just as they did before. You experience sensory impingement in just the same way as you always have. It’s not true that after the experience of insight your nose no longer experiences any smells, or your tongue that formerly was able to taste can no longer taste anything, or the body is unable to feel anything anymore.
+
+Your ability to experience the world through the senses remains intact, just the same as before you started practising insight, but the mind’s reaction to sense impingement is to see it as “just that much.” The mind doesn’t attach to fixed perceptions or make anything out of the experience of sense objects. It lets go. The mind knows that it is letting go. As you gain insight into the true nature of the Dhamma, it naturally results in letting go. There is awareness followed by abandoning of attachment. There is understanding and then letting go. With insight you set things down. Insight knowledge doesn’t lead to clinging or attachment; it doesn’t increase your suffering. That’s not what happens. True insight into the Dhamma brings letting go as the result. You know that it is the cause of suffering, so you abandon attachment. Once you have insight, the mind lets go. It puts down what it was formerly holding on to.
+
+Another way to describe this is to say that you are no longer fumbling or groping around in your practice. You are no longer blindly groping and attaching to forms, sounds, smells, tastes, physical sensations or mind objects. The experience of sense objects through the eyes, ears, nose, tongue, body and mind no longer stimulates the same old habitual movements of mind where it is seeking to get involved with such sense objects or adding on to the experience through further proliferation. The mind doesn’t create things around sense contact. Once contact has occurred you automatically let go. The mind discards the experience. This means that if you are attracted to something, you
+
+experience the attraction in the mind but you don’t attach or hold on fast to it. If you have a reaction of aversion, there is simply the experience of aversion arising in the mind and nothing more: there isn’t any sense of self arising that attaches and gives meaning and importance to the aversion. In other words the mind knows how to let go; it knows how to set things aside. Why is it able to let go and put things down? Because the presence of insight means you can see the harmful results that come from attaching to all those mental states.
+
+When you see forms the mind remains undisturbed; when you hear sounds it remains undisturbed. The mind doesn’t take a position for or against any sense objects experienced. This is the same for all sense contact, whether it is through the eyes, ears, nose, tongue, body or mind. Whatever thoughts arise in the mind—they can’t disturb you. You are able to let go. You may perceive something desirable, but you don’t attach to that perception or give it any special importance—it simply becomes a condition of mind to be observed without attachment. This is what the Buddha described as experiencing sense objects as “just that much.” The sense bases are still functioning and experiencing sense objects, but without the process of attachment stimulating movements to and fro in the mind. There is no conditioning of the mind occurring in the sense of a self moving from this place to that place or from that place moving to this place. Sense contact occurs between the six sense bases as normal, but the mind doesn’t “take sides” by getting caught into conditions of attraction or aversion. You understand how to let go. There is awareness of sense contact followed by letting go. You let go with awareness and sustain the awareness after you have let go. This is how the process of insight works. Every angle and every aspect of the mind and its experience naturally becomes part of the practice.
+
+This is the way the mind is affected as you train it. It becomes very obvious that the mind has changed and is not the same as usual. It no longer behaves in the way you are accustomed to. You are no longer creating a self out of your experience. For example, when you experience the death of your mother, father, or anyone else close to you, if your
+
+CLARITY OF INSIGHT
+
+mind remains firm in the practice of calm and insight and is able to reflect skilfully on what has happened, you won’t create suffering for yourself out of the event. Rather than panicking or feeling shocked at the news of that person’s death, there is just a sense of world-weariness and dispassion coming from wise reflection. You are aware of the experience and then let go. There is the knowing and then you lay it aside. You let go without generating any further suffering for yourself. This is because you know clearly what causes suffering to arise. When you do encounter suffering, you are aware of that suffering. As soon as you start to experience suffering, you automatically ask yourself the question: where does it come from? Suffering has its cause and that is the attachment and clinging still left in the mind. So you have to let go of the attachment. All suffering comes from a cause. Having created the cause, you abandon it. Abandon it with wisdom. You let go of it through insight, which means wisdom. You can’t let go through delusion. This is the way it is.
+
+TRANSCENDING DOUBT
+
+The investigation and development of insight into the Dhamma gives rise to this profound peace of mind. Having gained such clear and penetrating insight means that it is sustained at all times, whether you are sitting in meditation with your eyes closed, or even if you are doing something with your eyes open. Whatever situation you find yourself in, be it in formal meditation or not, the clarity of insight remains. When you have unwavering mindfulness of the mind within the mind, you don’t forget yourself. Whether standing, walking, sitting or lying down: the awareness within makes it impossible to lose mindfulness. It’s a state of awareness that prevents you forgetting yourself. Mindfulness has become so strong that it is self-sustaining to the point where it becomes natural for the mind to be that way. These are the results of training and cultivating the mind and it is here where you go beyond doubt. You have no doubts about the future; you have no doubts about the past; and, accordingly, you have no need to doubt about the present either. You
+
+still have awareness that there is such a thing as past, present, and future. You are aware of the existence of time. There is the reality of the past, present, and future, but you are no longer concerned or worried about it.
+
+Why are you no longer concerned? All those things that took place in the past have already happened. The past has already passed by. All that is arising in the present is the result of causes that lay in the past. An obvious example of this is to say that if you don’t feel hungry now, it’s because you have already eaten at some time in the past. The lack of hunger in the present is the result of actions performed in the past. If you know your experience in the present, you can know the past. Eating a meal was the cause from the past that resulted in you feeling at ease or energetic in the present and this provides the cause for you to be active and work in the future. So the present is providing causes that will bring results in the future. The past, present and future can thus be seen as one and the same. The Buddha called it
+
+eko dhammo—the unity of the Dhamma. It isn’t many different
+
+things; there is just this much. When you see the present, you see the future. By understanding the present, you understand the past. Past, present and future make up a chain of continuous cause and effect and hence are constantly flowing on from one to the other. There are causes from the past that produce results in the present and these are already producing causes for the future. This process of cause and result applies to practice in the same way. You experience the fruits of having trained the mind in samádhi and insight and these necessarily make the mind wiser and more skilful.
+
+The mind completely transcends doubt. You are no longer uncertain or speculating about anything. The lack of doubt means you no longer fumble around or have to feel your way through the practice. As a result you live and act in accordance with nature. You live in the world in the most natural way, which means living in the world peacefully. You are able to find peace even in the midst of that which is unpeaceful. It means you are fully able to live in the world. You are able to live in the world without creating any problems. The Buddha lived in the world and was able to
+
+CLARITY OF INSIGHT
+
+find true peace of mind within the world. As practitioners of the Dhamma, you must learn to do the same. Don’t get lost in and attached to perceptions about things being this way or that way. Don’t attach or give undue importance to any perceptions that are still deluded. Whenever the mind becomes stirred up, investigate and contemplate the cause. When you aren’t making any suffering for yourself out of things, you are at ease. When there are no issues causing mental agitation, you remain equanimous. That is, you continue to practise normally with a mental equanimity maintained by the presence of mindfulness and an all-round awareness. You keep a sense of self-control and equilibrium. If any matter arises and prevails upon the mind, you immediately take hold of it for thorough investigation and contemplation. If there is clear insight at that moment, you penetrate the matter with wisdom and prevent it creating any suffering in the mind. If there is not yet clear insight, you let the matter go temporarily through the practice of samatha meditation and don’t allow the mind to attach. At some point in the future, your insight will certainly be strong enough to penetrate it, because sooner or later you will develop insight powerful enough to comprehend everything that still causes attachment and suffering.
+
+Ultimately, the mind has to make a great effort to struggle with and overcome the reactions stimulated by every kind of sense object and mental state that you experience. It must work hard with every single object that contacts it. All the six internal sense bases and their external objects converge on the mind. By focusing awareness on the mind alone, you gain understanding and insight into the eyes, ears, nose, tongue, body, mind and all their objects. The mind is there already, so the important thing is to investigate right at the centre of the mind. The further you go investigating the mind itself, the clearer and more profound the insight that emerges. This is something I emphasize when teaching, because understanding this point is crucial to the practice.
+
+Normally when you experience sense contact and receive impingement from different objects, the mind is just waiting to react with attraction or aversion. That is what happens with the unenlightened mind. It’s ready to get caught into good moods because of one kind of stimulation or into bad moods because of another kind. But now you examine the mind with firm and unwavering attention. As you experience different objects through the senses, you don’t let it feed mental proliferation. You don’t get caught into a lot of defiled thinking—you are already practising vipassaná and depending on insight wisdom to investigate all sense objects. The mode of vipassaná meditation is what develops wisdom. Training with the different objects of samatha meditation—whether
+
+it is the recitation of a word such as Buddho, Dhammo, Sangho
+
+or the practice of mindfulness with the breathing—results in the mind experiencing the calm and firmness of samádhi. In samatha meditation you focus awareness on a single object and let go of all others temporarily.
+
+Vipassaná meditation is similar because you use the reflection “don’t believe it” as you make contact with sense objects. Practising vipassaná, you don’t let any sense object delude you. You are aware of each object as soon as it converges in on the mind, whether it is experienced with the eyes, ears, nose, tongue, body or mind and you use this reflection “don’t believe it” almost like a verbal meditation object to be repeated over and over again. Every object immediately becomes a source of insight. You use the mind that is firm in samádhi to investigate each object’s impermanent nature. At each moment of sense contact you bring up the reflection: “It’s not certain” or “This is impermanent.” If you are caught in delusion and believe in the object experienced, you suffer because all these dhammas
+
+(phenomena) are not-self (anattá). If you attach to anything
+
+that is not-self and misperceive it as self, it automatically becomes a cause for pain and distress. This is because you attach to mistaken perceptions.
+
+Repeatedly examine the truth, over and over again until you understand clearly that all these sense objects lack any true self. They do not belong to any real self. Why then, do
+
+CLARITY OF INSIGHT
+
+you misunderstand and attach to them as being a self or belonging to a self? This is where you must put forth effort to keep reflecting on the truth. They aren’t truly you. They don’t belong to you. Why do you misunderstand them as being a self? None of these sense objects can be considered as you in any ultimate sense. So why do they delude you into seeing them as a self? In truth, there’s no way it could possibly be like that. All sense objects are impermanent, so why do you see them as permanent? It’s incredible how they delude you. The body is inherently unattractive, so how can you possibly attach to the view that it is something attractive? These ultimate truths—the unattractiveness of the body and the impermanence and lack of self in all formations—become obvious with investigation and finally you see that this thing we call the world is actually a delusion created out of these wrong views.
+
+As you use insight meditation to investigate the three characteristics and penetrate the true nature of phenomena, it’s not necessary to do anything special. There’s no need to go to extremes. Don’t make it difficult for yourself. Focus your awareness directly, as if you are sitting down receiving guests who are entering into a reception room. In your reception room there is only one chair, so the different guests that come into the room to meet you are unable to sit down because you are already sitting in the only chair available. If a visitor enters the room, you know who they are straight away. Even if two, three or many visitors come into the room together, you instantly know who they are because they have nowhere to sit down. You occupy the only seat available, so every single visitor who comes in is quite obvious to you and unable to stay for very long.
+
+You can observe all the visitors at your ease because they don’t have anywhere to sit down. Fix your awareness on investigating the three characteristics of impermanence, suffering, and not-self. Hold your attention on this contemplation; don’t send it anywhere else. Insight into the transient, unsatisfactory, and selfless nature of all phenomena steadily grows clearer and more comprehensive. Your understanding grows more profound. Such clarity of insight
+
+leads to a peace that penetrates deeper into your heart than any you might experience from the practice of tranquillity
+
+meditation (samatha). It is the clarity and completeness of
+
+this insight into the way things are that has a purifying effect on the mind. Wisdom arising as a result of deep and crystal clear insight acts as the agent of purification.
+
+Through repeated examination and contemplation of the truth over time, your views change and what you once mistakenly perceived as attractive gradually loses its appeal as the truth of its unattractive nature becomes apparent. You investigate phenomena to see if they are really permanent or of a transient nature. At first you simply recite to yourself the teaching that all conditions are impermanent, but after time you actually see the truth clearly from your investigation. The truth is waiting to be found right at the point of investigation. This is the seat where you wait to receive visitors. There is nowhere else you could go to develop insight. You must remain seated on this one spot—the only chair in the room. As visitors enter your reception room, it is easy to observe their appearance and the way they behave, because they are unable to sit down; inevitably you get to know all about them. In other words, you arrive at a clear and distinct understanding of the impermanent, unsatisfactory, and selfless nature of all these phenomena. This insight is so indisputable and firm in your mind, that it puts an end to any remaining uncertainty about the true nature of things. You know for certain that there is no other possible way of viewing experience. This is realization of the Dhamma at the most profound level. Ultimately, your meditation involves sustaining the knowing, followed by continuous letting go as you experience sense objects through the eyes, ears, nose, tongue, body and mind. It involves just this much and there is no need to make anything more out of it.
+
+The important thing is to repeatedly put effort into developing insight through investigation of the three characteristics. Everything can become a cause for wisdom to arise, and that is what completely destroys all forms of defilement and attachment. This is the fruit of vipassaná meditation. But don’t assume that everything you do is coming
+
+CLARITY OF INSIGHT
+
+from insight. Sometimes you still do things following your own desires. If you are still practising following your desires, then you will only put effort in on the days when you are feeling energetic and inspired, and you won’t do any meditation on the days when you are feeling lazy. That’s called practising under the influence of the defilements. It means you don’t have any real power over your mind and just follow your desires.
+
+When your mind is in line with the Dhamma, there is no one who is diligent and there is no one who is lazy. It’s a matter of how the mind is conditioned. The practice of insight keeps flowing automatically without laziness or diligence. It’s a state that is self-sustaining fuelled by its own energy. Once the mind has these characteristics, it means you no longer have to be the doer in the practice. You could say that it is as if you have finished all the work you have been doing and the only thing left is for you to leave things to themselves and watch over the mind. You don’t have to be someone who is doing something anymore. There is still mental activity occurring—you experience pleasant and unpleasant sense contact according to your kammic accumulations—but you see it as “just that much” and are letting go of attachment to the sense of self the whole time.
+
+At this point, you aren’t creating a self and so you aren’t creating any suffering. All the sense objects and moods you experience ultimately have exactly the same value in the mind. Whatever mental or physical phenomena you examine appear the same as everything else, bearing the same inherent qualities. All phenomena become one and the same. Your wisdom has to develop that far for all uncertainty to come to an end in the mind.
+
+GRADUAL PRACTICE
+
+When you first start meditating, it seems like all you know how to do is to doubt and speculate about things. The mind is always wavering and vacillating. You spend the whole time caught in agitated thinking and proliferating about things. You have doubts about every last thing. Why? It stems from
+
+impatience. You want to know all the answers and fast. You want to have insight quickly, without having to do anything. You want to know the truth of the way things are, but that wanting is so strong in the mind that it is more powerful than the insight you desire. For that reason the practice has to develop in stages; you must go one step at a time. In the first place, you need to put forth persistent effort. You also need the continuous support of your past good actions and
+
+development of the ten spiritual perfections (páramì).
+
+Keep summoning up effort in training the mind. Don’t get caught into desiring quick results; that just leads you to disappointment and frustration when the insights are slow to come. Thinking like that won’t help you. Is it correct to expect to suddenly experience some kind of permanent state where you are experiencing no pleasure or pain at all? It doesn’t matter what the mind throws up at you. At that time when you do get overwhelmed by pleasure and pain stimulated by contact between the mind and different sense objects, you don’t have any idea what level your practice has reached. But within a short space of time such moods lose power over the mind. Actually, such impingement can be of benefit, because it reminds you to examine your own experience. You get to know what reactions all the sense objects, thoughts and perceptions you experience bring up in the mind. You know, both in the cases when they lead the mind towards agitation and suffering, and when they hardly stir the mind at all. Some meditators just want to have insight into the way the mind is affected by pleasant objects; they only want to investigate the good moods. But that way they never gain true insight. They don’t become very smart. Really, you must also examine what happens when you experience unpleasant sense impingement. You have to know what that does to the mind. In the end, that’s the way you have to train yourself.
+
+It is also important to understand that when it comes to the practice itself, you don’t need to seek out the past experiences and accumulated memories available from external sources, because it’s your own experience that counts. The only way to really put an end to your doubts and
+
+CLARITY OF INSIGHT
+
+speculation is through practising until you reach the point where you see the results clearly for yourself. This is the most important thing of all. Learning from different teachers is an essential preliminary to practice. It is a valuable support as you move from hearing the teachings to learning from your own experience. You have to contemplate the teachings you receive in light of your own practice until you gain your own understanding. If you already possess some spiritual qualities and virtue accumulated from the past, practice is more straightforward. When other people give you advice, generally it can save you time, by avoiding mistakes and helping you go directly to the heart of practice. If you try practising alone without any guidance from others, the path you follow will be a slower one with more detours. If you try to discover the correct way to practise all by yourself, you tend to waste time and end up going the long way round. That’s the truth of it. In the end, the practice of Dhamma itself is the surest way to make all the doubting and wavering wither away and vanish. As you keep enduring and training yourself to go against the grain of your defilements, the doubts will just shrivel up and die.
+
+If you think about it, you have already gained much from your efforts in the practice. You have made progress, but it’s still not enough to make you feel completely satisfied. If you look carefully and reflect on your life, you can see just how much of the world you have experienced through your mind from the time you were born, through your youth until the present. In the past you weren’t training yourself in virtue, concentration and wisdom, and it’s easy to see just how far the defilements took you. When you look back on all that you have experienced through the senses, it becomes obvious that you have been experiencing the truth about the way things are on countless occasions. As you contemplate the things that have happened in your life, it helps lighten the mind as you see that the defilements don’t cover it over quite so thickly as before.
+
+From time to time you need to encourage yourself in this way. It takes away some of the heaviness. However, it’s not wise to only give yourself praise and encouragement. In training the mind, you have to criticize yourself every now
+
+and then. Sometimes you have to force yourself to do things you don’t want to do, but you can’t push the mind to its limits all the time. As you train yourself in meditation, it is normal that the body, which is a conditioned phenomenon, is subject to stress, pain and all sorts of different problems as conditions affect it. It’s just normal for the body to be like that. The more you train yourself in sitting meditation, the more skilled at it you become and naturally you can sit for longer periods. At first you might only be able to manage five minutes before you have to get up. But as you practise more, the length of time you can sit comfortably increases from ten to twenty minutes to half an hour, until in the end you can sit for a whole hour without having to get up. Then other people look at you and praise you for being able to sit so long, but at the same time, you might feel within yourself, that you still can’t sit for very long at all. This is the way the desire for results can affect you in the course of meditation.
+
+SUSTAINING AWARENESS
+
+Another important aspect of the training is to sustain the practice of mindfulness evenly in all the four postures of standing, walking, sitting and lying down. Be careful not to misunderstand that you are only really practising when sitting in the formal meditation posture. Don’t see it as the only posture for cultivating mindfulness. That’s a mistake. It’s quite possible that calm and insight might not even arise during the course of formal sitting meditation. It’s only feasible to sit for so many hours and minutes in one day—but you have to train yourself in mindfulness constantly as you change from posture to posture, developing a continuous awareness. Whenever you lose awareness, re-establish it as soon as possible to try and keep as much continuity as you can. This is the way to make fast progress. Insight comes quickly. It’s the way to become wise. That means wise in understanding sense objects and how they affect the mind. You use this wisdom to know your moods and to train the mind in letting go. This is how you should understand the way to cultivate the mind. Even as you lie down to sleep, you have to fix
+
+CLARITY OF INSIGHT
+
+attention on the in- and out-breaths until the moment you fall asleep and continue on as soon as you wake up. That way there is only a short period when you are in deep sleep that you are not practising awareness. You have to throw all your energy into training yourself.
+
+Once you have developed awareness, the longer you train yourself, the more wakefulness the mind experiences until you reach a point where you don’t seem to sleep at all. Only the body sleeps, the mind remains aware. The mind remains awake and vigilant even as the body sleeps. You remain with the knowing throughout. As soon as you awake, mindfulness is right there from the first moment as the mind leaves the sleeping state and immediately takes hold of a fresh object. You are attentive and watchful. Sleeping is really a function of the body. It involves resting the body. The body takes the rest it needs, but there is still the knowing present, watching over the mind. Awareness is sustained both throughout the day and night.
+
+So, even though you lie down and go to sleep, it’s as if the mind doesn’t sleep. But you don’t feel tired out and hungry for more sleep. You remain alert and attentive. It’s for this reason that you hardly dream at all when you are practising in earnest. If you do dream, it is in the form of a
+
+supina-nimitta—an unusually clear and vivid dream that holds
+
+some special significance. Generally, however, you experience very few dreams. As you watch over the mind, it’s as if there are no causes left for the mental proliferation that fuels dreams. You remain in a state where you aren’t caught in delusion. You sustain mindfulness, with awareness present deep inside the mind. The mind is in a state of wakefulness, being sharp and responsive. The presence of unbroken mindfulness makes the mind’s ability to investigate smooth and effortless and keeps it abreast of whatever is arising from moment to moment.
+
+You have to cultivate the mind until it’s totally fluent and skilled in keeping mindfulness and investigating phenomena. Whenever the mind reaches a state of calm, train it in examining your own body and those of other people until you have deep enough insight to see the common characteristics. Pursue the
+
+investigation to the point where you see all bodies as having the same essential nature and having come from the same material elements. You must keep observing and contemplating. Before you go to sleep at night, use awareness to sweep over the entire body and repeat the contemplation when you first wake up in the morning. This way you won’t have to experience nightmares, talk in your sleep or get caught up in a lot of dreaming. You sleep and wake up peacefully without anything bothering you. You sustain the state of knowing both in your sleep and as you wake up. When you wake up with mindfulness, the mind is bright, clear and unbothered by sleepiness. As you awaken the mind is radiant, being free from dullness and moods conditioned by the defilements.
+
+Here I have been giving details of the development of the mind in the course of practice. Normally, you wouldn’t think it possible that the mind could actually be peaceful during the time you are asleep, when you first wake up or in other situations where you would expect mindfulness to be weak. For instance, you might be sitting down soaking wet having just walked through a heavy rainstorm, but because you have cultivated samádhi and learnt to contemplate, the mind remains untouched by defiled moods and is still able to experience peace and clarity of insight, just as I have been describing.
+
+The last teaching the Buddha gave to the community of monks was an exhortation not to get caught in heedlessness. He said that heedlessness is the way that leads to death. Please understand this and take it to heart as fully and sincerely as you can. Train yourself to think with wisdom. Use wisdom to guide your speech. Whatever you do, use wisdom as your guide.
+
+DON’T DOUBT
+
+A question and answer session with Western monks that took place after a short talk at Wat Pah Nanachat in 1977.
+
+Ajahn Chah: Are there any doubts about practice you need to
+
+resolve now?
+
+Question: When the mind isn’t thinking much, but is in a sort
+
+of dark and dull state, is there something we should do to brighten it? Or should we just sit with it?
+
+AC: Is this all the time or when you are sitting in meditation?
+
+What exactly is this darkness like? Is it a lack of wisdom?
+
+Q: When I sit to meditate, I don’t get drowsy, but my mind
+
+feels dark, sort of dense or opaque.
+
+AC: Change your posture, and do a lot of walking meditation.
+
+That’s one thing to do. You can walk for three hours at a time, until you’re really tired.
+
+Q: I do walking meditation a couple of hours a day, and I
+
+usually have a lot of thinking when I do it. But what really concerns me is this dark state when I sit. Should I just try to be aware of it and let go, or is there some means I should use to counter it?
+
+AC: I think that maybe your postures aren’t balanced. When
+
+you walk, you have a lot of thinking. So you should do a lot of discursive contemplation; then the mind can retreat from thinking; it won’t stick there. For now, increase the time you spend on walking meditation. Focus on that. Then if the mind is wandering, pull it out and do some contemplation, such as investigation of the body. Have you ever done that continuously rather than as an occasional reflection? When you experience this dark state, do you suffer over it?
+
+Q: I feel frustrated because of my state of mind. I’m not
+
+developing samádhi or wisdom.
+
+AC: When you have this condition of mind, the suffering
+
+comes about because of not knowing—there is doubt as to why the mind is like this. The important principle in meditation is: whatever occurs, don’t be in doubt over it. Doubt only adds to the suffering. If the mind is bright and awake, don’t doubt that. It’s a condition of mind. If it’s dark and dull, don’t doubt about that. Just continue to practice diligently without getting caught up in reactions to that state. Take note, and be aware of your state of mind, but don’t have doubts about it. It is just what it is. When you entertain doubts and start grasping at it and giving it meaning, then it is dark. As you practice, these states are things you encounter as you progress along. You needn’t have doubts about them. Notice them with awareness and keep letting go.
+
+How about sleepiness? Is your sitting more sleepy or awake? … (No reply.) Maybe it’s hard to recall if you’ve been sleepy! If this happens, meditate with your eyes open. Don’t close them. Instead, you can focus your gaze on one point, such as the light of a candle. Don’t close your eyes! This is one way to remove the hindrance of drowsiness.
+
+When you’re sitting, you can close your eyes from time to time and if the mind is clear, without drowsiness, you can then continue to sit with your eyes closed. If it’s dull and sleepy, open your eyes and focus on one point, similar
+
+to kasióa meditation. Doing this, you can make the mind
+
+awake and tranquil. The sleepy mind isn’t tranquil—it’s obscured by the hindrance of sleepiness; it’s in darkness.
+
+We should talk about sleep also. You can’t simply go without sleep. That’s the nature of the body. If you’re meditating and you get unbearably, utterly sleepy, then let yourself sleep. This is one way to quell the hindrance when it’s overwhelming you. Otherwise you practice along, keeping the eyes open if you have this tendency to get drowsy. Close your eyes after a while and check your state of mind. If it’s clear, you can practice with eyes closed. Then after some time you take a rest. Some people are always fighting against sleep. They force themselves not to sleep, and the result is that when they sit they are always drifting off to sleep and falling over themselves, sitting in an unaware state.
+
+Q: Can we focus on the tip of the nose?
+
+DON’T DOUBT
+
+AC: That’s fine. Whatever suits you, whatever you feel
+
+comfortable with and helps you fix your mind, focus on that.
+
+It’s like this: if we get attached to the ideals and take the guidelines that we are given in the instructions too literally, it can be difficult to understand. When doing a standard meditation such as mindfulness of breathing, first we should make the determination that right now we are going to do this practice, and we are going to make mindfulness of breathing our foundation. We only focus on the breath at three points as it passes through the nostrils, the chest, and the abdomen. When the air enters, it first passes the nose, then through the chest, and then to the end point of the abdomen. As it leaves the body, the beginning is the abdomen, the middle is the chest, and the end is the nose. We merely note it. This is a way to start controlling the mind, tying awareness to these points at the beginning, middle, and end of the inhalations and exhalations.
+
+Before we begin, we should first sit and let the mind relax. It’s similar to sewing robes on a treadle sewing machine. When we are learning to use the sewing machine, first we just sit in front of the machine to get familiar with it and feel comfortable. Here, we just sit and breathe. Not fixing awareness on anything, we merely take note that we are breathing. We take note of whether the breath is relaxed or not and how long or short it is. Having noticed this, then we begin focusing on the inhalation and exhalation at the three points.
+
+We practice like this until we become skilled in it and it goes smoothly. The next stage is to focus awareness only on the sensation of the breath at the tip of the nose or the upper lip. At this point we aren’t concerned with whether the breath is long or short, but only focus on the sensation of entering and exiting.
+
+Different phenomena may contact the senses, or thoughts may
+
+arise. This is called initial thought (vitakka). The mind brings up
+
+some idea, be it about the nature of compounded phenomena
+
+(saòkhárá), about the world, or whatever. Once the mind has brought
+
+it up, the mind will want to get involved and merge with it. If it’s an object that is wholesome, then let the mind take it up. If it is something unwholesome, stop it immediately. If it is something wholesome, then let the mind contemplate it, and gladness,
+
+satisfaction and happiness will come about. The mind will be bright and clear. As the breath goes in and out, and as the mind takes up
+
+these initial thoughts, it becomes discursive thought (vicára). The
+
+mind develops familiarity with the object, exerting itself, and merging with it. At this point, there is no sleepiness.
+
+After an appropriate period of this, take your attention back to the breath. Then as you continue on there will be the initial thought and discursive thought, initial thought and discursive thought. If you are contemplating skilfully on an object such as
+
+the nature of saòkhárá, then the mind will experience deeper
+
+tranquillity and rapture is born. There is the vitakka and vicára, and that leads to happiness of mind. At this time there won’t be any dullness or drowsiness. The mind won’t be dark if we practice like this. It will be gladdened and enraptured.
+
+This rapture will start to diminish and disappear after a while, so you can take up the initial thought again. The mind will become firm and certain with it—undistracted. Then you go on to discursive thought again, the mind becoming one with it. When you are practicing a meditation that suits your temperament and doing it well, then whenever you take up the object, rapture will come about: the hairs of the body stand on end and the mind is enraptured and satiated. When it’s like this, there can’t be any dullness or drowsiness; you won’t have any doubts. Going back and forth between initial and discursive thought, over and over again, rapture comes,
+
+then there is sukha (bliss).
+
+This takes place in sitting practice. After sitting for a while, you can get up and do walking meditation. The mind can be
+
+the same in the walking. Not being sleepy, it has vitakka and vicára, over and over again, then rapture. There won’t be any of the nìvaraóa, hindrances, and the mind will be
+
+unstained. Whatever takes place, never mind; you don’t need to doubt about any experiences you may have, be they of light, of bliss, or whatever. Don’t entertain doubts about these conditions of mind. If the mind is dark, or if the mind is illumined, don’t fixate on these conditions; don’t be attached to them. Let go, discard them. Keep walking; keep noting what is taking place without getting bound or infatuated.
+
+Don’t suffer over these conditions of mind. Don’t have
+
+DON’T DOUBT
+
+doubts about them. They are just what they are, following the way of mental phenomena. Sometimes the mind will be joyful; sometimes it will be sorrowful. There can be happiness or suffering; there can be obstruction. Rather than doubting, understand that conditions of mind are like this; whatever manifests is coming about due to causes ripening. At this moment, this condition is manifesting; that’s what you should recognize. Even if the mind is dark, you don’t need to be upset over that. If it becomes bright, don’t be excessively gladdened by that. Don’t have doubts about these conditions of mind, or about your reactions to them.
+
+Do your walking meditation until you are really tired, then sit. When you sit, determine your mind to sit; don’t just play around. If you get sleepy, open your eyes and focus on some object. Walk until the mind separates itself from thoughts and is still, then sit. If you are clear and awake, you can close your eyes. If you get sleepy again, open your eyes and look at an object.
+
+Don’t try to do this all day and all night. When you’re in need of sleep, let yourself sleep. Just as with our food: once a day we eat. The time comes and we give food to the body. The need for sleep is the same. When the time comes, give yourself some rest. When you’ve had an appropriate rest, get up. Don’t let the mind languish in dullness, but get up and get to work—start practicing. Do a lot of walking meditation. If you walk slowly and the mind becomes dull, then walk fast. Learn to find the right pace for yourself.
+
+Q: Are vitakka and vicára the same? AC: You’re sitting and suddenly the thought of someone pops
+
+into your head—that’s vitakka, the initial thought. Then you take that idea of the person and start thinking about them in detail. Vitakka is picking it up, vicára is investigating it. For example, we pick up the idea of death and then we start considering it: “I will die, others will die, every living being will die. When we die, where will we go?” Then stop! Stop and bring it back again. When it starts running like that, stop it again; and then go back to mindfulness of the breath. Sometimes the discursive thought will wander off and not come back, so you have to stop it. Keep at it until the mind is
+
+bright and clear. If you practice vicára with an object that you are suited to, as rapture comes you may experience the hairs of your body standing on end, tears pouring from your eyes, a state of extreme delight, many different things.
+
+Q: Can this happen with any kind of thinking, or is it only in
+
+a state of tranquillity that it happens?
+
+AC: It’s when the mind is tranquil. It’s not ordinary mental
+
+proliferation. You sit with a calm mind and then the initial thought comes. For example, I think of my brother who just passed away. Or I might think of some other relatives. This is when the mind is tranquil—the tranquillity isn’t something certain, but for the moment the mind is tranquil. After this initial thought comes then I go into discursive thought. If it’s a line of thinking that’s skilful and wholesome, it leads to ease of mind and happiness, and there is rapture with its attendant experiences. This rapture came from the initial and discursive thinking that took place in a state of calmness. We don’t have to give it names such as first jhána, second jhána and so forth; we just call it tranquillity.
+
+The next factor is bliss (sukha). Eventually we drop the
+
+initial and discursive thinking as tranquillity deepens. Why? The state of mind is becoming more refined and subtle. Vitakka and vicára are relatively coarse, and they will vanish. There will remain just the rapture accompanied by bliss and one-pointedness of mind. When it reaches full measure, there won’t be anything; the mind is empty. That’s
+
+absorption concentration (appaná samádhi).
+
+We don’t need to fixate or dwell on any of these experiences. They will naturally progress from one to the next. At first there is initial and discursive thought, rapture, bliss and one-pointedness. Then initial and discursive thinking are thrown off, leaving rapture, bliss, and one-pointedness. Rapture is thrown off, then bliss; and finally only one-pointedness and equanimity remain. It means the mind becomes more and more tranquil, and its objects are steadily decreasing until there is nothing but one-pointedness and equanimity.
+
+When the mind is tranquil and focused, this can happen. It is the power of mind, the state of the mind that has attained tranquillity. When it’s like this, there won’t be any sleepiness.
+
+DON’T DOUBT
+
+It can’t enter the mind; it will disappear. As for the other hindrances of sensual desire, aversion, doubt, and restlessness and agitation: they just won’t be present. Though they may still be latent in the mind of the meditator, they won’t occur at this time.
+
+Q: Should we be closing our eyes so as to shut out the external
+
+environment or should we just deal with things as we see them? Is it important whether we open or close the eyes?
+
+AC: When we are new to training, it’s important to avoid too
+
+much sensory input, so it’s better to close the eyes. Not seeing objects that can distract and affect us, we build up the mind’s strength. When the mind is strong then we can open the eyes and whatever we see won’t sway us. Open or closed won’t matter.
+
+When you rest, you normally close your eyes. Sitting in meditation with eyes closed is the dwelling place for a practitioner. We find enjoyment and rest in it. This is an important basis for us. But when we are not sitting in meditation, will we be able to deal with things? We sit with eyes closed and we profit from that. When we open our eyes and leave the formal meditation, we can handle whatever we meet. Things won’t get out of hand. We won’t be at a loss. Basically, we are just handling things. It’s when we go back to our sitting, that we really develop greater wisdom.
+
+This is how we develop the practice. When it reaches fulfilment, then it doesn’t matter whether we open or close our eyes, it will be the same. The mind won’t change or deviate. At all times of the day—morning, noon, or night— the state of mind will be the same. We dwell thus. There is nothing that can shake the mind. When happiness arises, we recognize, “It’s not certain,” and it passes. When unhappiness arises, we recognize, “It’s not certain,” and that’s that. You get the idea that you want to disrobe. This is not certain. But you think it’s certain. Before you wanted to be ordained, and you were so sure about that. Now you are sure you want to disrobe. It’s all uncertain, but you don’t see it because of your darkness of mind. Your mind is telling you lies, “Being here, I’m only wasting time.” If you disrobe and go back to the world, won’t you waste time there? You don’t think about that. Disrobing to work in the fields and gardens,
+
+to grow beans or raise pigs and goats, won’t that be a waste of time?
+
+There was once a large pond full of fish. As time passed, the rainfall decreased and the pond became shallow. One day a bird showed up at the edge of the pond. He told the fish, “I really feel sorry for you fish. Here you barely have enough water to keep your backs wet. Do you know that not very far from here there’s a big lake, several meters deep where the fish swim happily?”
+
+When the fish in that shallow pond heard this, they got excited. They said to the bird, “It sounds good. But how could we get there?”
+
+The bird said, “No problem. I can carry you in my bill, one at a time.”
+
+The fish discussed it among themselves. “It’s not so great here anymore. The water doesn’t even cover our heads. We ought to go.” So they lined up to be taken by the bird.
+
+The bird took one fish at a time. As soon as he flew out of sight of the pond, he landed and ate the fish. Then he would return to the pond and tell them, “Your friend is right this moment swimming happily in the lake, and he asks when you will be joining him!”
+
+It sounded fantastic to the fish. They couldn’t wait to go, so they started pushing to get to the head of the line.
+
+The bird finished off the fish like that. Then he went back to the pond to see if he could find any more. There was only one crab there. So the bird started his sales pitch about the lake.
+
+The crab was sceptical. He asked the bird how he could get there. The bird told him he would carry him in his bill. But this crab had some wisdom. He told the bird, “Let’s do it like this—I’ll sit on your back with my arms around your neck. If you try any tricks, I’ll choke you with my claws.”
+
+The bird felt frustrated by this, but he gave it a try thinking he might still somehow get to eat the crab. So the crab got on his back and they took off.
+
+The bird flew around looking for a good place to land. But as soon as he tried to descend, the crab started squeezing his throat with his claws. The bird couldn’t even cry out. He just made a dry, croaking sound. So in the end he had to
+
+DON’T DOUBT
+
+give up and return the crab to the pond. I hope you can have the wisdom of the crab! If you are
+
+like those fish, you will listen to the voices that tell you how wonderful everything will be if you go back to the world. That’s an obstacle ordained people meet with. Please be careful about this.
+
+Q: Why is it that unpleasant states of mind are difficult to
+
+see clearly, while pleasant states are easy to see? When I experience happiness or pleasure, I can see that it’s something impermanent, but when I’m unhappy, it’s harder to see.
+
+AC: You are thinking in terms of your attraction and aversion
+
+and trying to figure it out, but actually delusion is the predominant root. You feel that unhappiness is hard to see while happiness is easy to see. That’s just the way your afflictions work. Aversion is hard to let go of, right? It’s a strong feeling. You say happiness is easy to let go of. It’s not really easy; it’s just that it’s not so overpowering. Pleasure and happiness are things people like and feel comfortable with. They’re not so easy to let go of. Aversion is painful, but people don’t know how to let go of it. The truth is that they are equal. When you contemplate thoroughly and get to a certain point, you will quickly recognize that they’re equal. If you had a scale to weigh them their weight would be the same. But we incline towards the pleasurable.
+
+Are you saying that it is easy to let go of happiness, while unhappiness is difficult to let go of? You think that the things we like are easy to give up, but you’re wondering why the things we dislike are hard to give up. But if they’re not good, why are they hard to give up? It’s not like that. Think anew. They are completely equal. It’s just that we don’t incline to them equally. When there is unhappiness, we feel bothered; we want it to go away quickly and so we feel it’s hard to get rid of. Happiness doesn’t usually bother us; so we are friends with it and feel we can let go of it easily. It’s not like that; it’s not oppressing and squeezing our hearts, that’s all. Unhappiness oppresses us. We think one has more value or weight than the other, but in truth they are equal. It’s like heat and cold. We can be burned to death by fire. We can
+
+also be frozen stiff by cold and we die just the same. Neither is greater than the other. Happiness and suffering are like this, but in our thinking we give them different value.
+
+Or consider praise and criticism. Do you feel that praise is easy to let go of and criticism is hard to let go of? They are really equal. But when we are praised we don’t feel disturbed; we are pleased, but it’s not a sharp feeling. Criticism is painful, so we feel it’s hard to let go of. Being pleased is also hard to let go of, but we are partial to it so we don’t have the same desire to get rid of it quickly. The delight we take in being praised and the sting we feel when criticized are equal. They are the same. But when our minds meet these things we have unequal reactions to them. We don’t mind being close to some of them.
+
+Please understand this. In our meditation we will meet with the arising of all sorts of mental afflictions. The correct outlook is to be ready to let go of all of it, whether pleasant or painful. Even though happiness is something we desire and suffering is something we don’t desire, we recognize they are of equal value. These are things that we will experience.
+
+Happiness is wished for by people in the world. Suffering is not wished for. Nibbána is something beyond wishing or not wishing. Do you understand? There is no wishing involved in Nibbána. Wanting to get happiness; wanting to be free of suffering; wanting to transcend happiness and suffering— there are none of these things. It is peace.
+
+As I see it, realizing the truth doesn’t happen by relying on others. You should understand that all doubts will be resolved by our own efforts, by continuous, energetic practice. We won’t get free of doubt by asking others. We will only end doubt through our own unrelenting efforts.
+
+Remember this! It’s an important principle in practice. The actual doing is what will instruct you. You will come to know all right and wrong. “The Brahmin shall reach the exhaustion of doubt through unceasing practice.”8  It doesn’t matter wherever we go—everything can be resolved through our own ceaseless efforts. But we can’t stick with it. We can’t bear the difficulties we meet; we find it hard to face up to our suffering and not to run away from it. If we do face it and bear with it, then we gain knowledge, and the practice
+
+DON’T DOUBT
+
+starts instructing us automatically, teaching us about right and wrong, and the way things really are. Our practice will show us the faults and ill results of wrong thinking. It really happens like this. But it’s hard to find people who can see it through. Everyone wants instant awakening. Rushing here and there following your impulses, you only end up worse off for it. Be careful about this.
+
+I’ve often taught that tranquillity is stillness; flowing is wisdom. We practice meditation to calm the mind and make it still; then it can flow. In the beginning we learn what still water is like and what flowing water is like. After practicing for a while, we will see how these two support each other. We have to make the mind calm, like still water. Then it flows. Both being still and flowing: this is not easy to contemplate.
+
+We can understand that still water doesn’t flow. We can understand that flowing water isn’t still. But when we practice we take hold of both of these. The mind of a true practitioner is like still water that flows, or flowing water that’s still. Whatever takes place in the mind of a Dhamma practitioner is like flowing water that is still. To say that it is only flowing is not correct. To say that it is only still is not correct. Ordinarily, still water is still and flowing water flows. But when we have experience of practice, our minds will be in this condition of flowing water that is still.
+
+This is something we’ve never seen. When we see flowing water, it is just flowing along. When we see still water, it doesn’t flow. But within our minds, it will really be like this; like flowing water that is still. In our Dhamma practice we have samádhi and wisdom mixed together. We have morality, meditation, and wisdom. Then wherever we sit the mind is still and it flows. Still, flowing water—with meditative stability and wisdom, tranquillity and insight, it’s like this. The Dhamma is like this. If you have reached the Dhamma, then at all times you will have this experience. Being tranquil and having wisdom: flowing, yet still; still, yet flowing.
+
+Whenever this occurs in the mind of one who practices, it is something different and strange; it is different from the ordinary mind that one has known all along. Before when it was flowing, it flowed. When it was still, it didn’t flow, but
+
+was only still. The mind can be compared to water in this way. Now it has entered a condition that is like flowing water being still. Whether standing, walking, sitting, or lying down, it is like water that flows, yet is still. When making our minds like this, there is both tranquillity and wisdom.
+
+What is the purpose of tranquillity? Why should we have wisdom? They are only for the purpose of freeing ourselves from suffering, nothing else. At present we are suffering, living with dukkha, not understanding dukkha, and therefore holding onto it. But if the mind is as I’ve been speaking about, then there will be many kinds of knowledge. One will know suffering, know the cause of suffering, know the cessation of suffering, and know the way of practice to reach the end of suffering. These are the Noble Truths. They will appear of themselves when there is still, flowing water.
+
+When it is like this, then no matter what we are doing, we will have no heedlessness; the habit of heedlessness will weaken and disappear. Whatever we experience, we won’t fall into heedlessness because the mind will naturally hold fast to the practice. It will be afraid of losing the practice. As we keep on practicing and learning from experience, we will be drinking of the Dhamma more and more, and our faith will keep increasing.
+
+For one who practices, it has to be like this. We shouldn’t be the kind of people who merely follow others. If our friends aren’t doing the practice, we won’t do it either because we would feel embarrassed. If they stop, we stop. If they do it, we do it. If the teacher tells us to do something, we do it. If he stops, we stop. This is not a very quick way to realization.
+
+What’s the point of our training here? The point is that when we are alone, we will be able to continue with the practice. So now while living together here, when there are morning and evening gatherings to practice, we join in and practice with the others. We build up the habit so that the way of practice is internalized in our hearts, and then we will be able to live anywhere and still practice in the same way.
+
+KEEP KNOWING
+
+A conversation between Ajahn Chah and a Thai lay Buddhist.
+
+Question: There are those periods when our hearts happen
+
+to be absorbed in things and become blemished or darkened, but we are still aware of ourselves—such as when some form of greed, hatred, or delusion comes up. Although we know that these things are objectionable, we are unable to prevent them from arising. Could it be said that even as we are aware of them, this is providing the basis for increased clinging and attachment and maybe is putting us further back to where we started from?
+
+Ajahn Chah: That’s it! One must keep knowing them at that
+
+point, that’s the method of practice.
+
+Q: I mean that simultaneously we are both aware of them
+
+and repelled by them, but lacking the ability to resist them, they just burst forth.
+
+AC: By then, it’s already beyond one’s capability to do
+
+anything. At that point one has to readjust oneself and then continue contemplation. Don’t just give up on them there and then. When one sees things arise in that way one tends to get upset or feel regret, but it is possible to say that they are uncertain and subject to change. What happens is that one sees these things are wrong, but one is still not ready or able to deal with them. It’s as if they are independent entities, the leftover karmic tendencies that are still creating and conditioning the state of the heart. One doesn’t wish to allow the heart to become like that, but it does and it indicates that one’s knowledge and awareness is still neither sufficient nor fast enough to keep abreast of things.
+
+One must practice and develop mindfulness as much as one can in order to gain a greater and more penetrating awareness. Whether the heart is soiled or blemished in some way: it doesn’t matter. Whatever comes up: one should
+
+contemplate the impermanence and uncertainty of it. By maintaining this contemplation at each instant that something arises, eventually one will see the impermanent nature inherent in all sense objects and mental states. Because one sees them as such, gradually they will lose their importance and one’s clinging and attachment to that which is a blemish on the heart will continue to diminish. Whenever suffering arises, one will be able to work through it and readjust oneself, but one shouldn’t give up on this work or set it aside. One must keep up a continuity of effort and try to make one’s awareness fast enough to keep in touch with the changing mental conditions. It could be said that so far one’s development of the Path still lacks sufficient energy to overcome the mental defilements. Whenever suffering arises the heart becomes clouded over, but one must keep developing that knowledge and understanding of the clouded heart; that is what one reflects on.
+
+One must really take hold of it and repeatedly contemplate that this suffering and discontentment is just not a sure thing. It is something that is ultimately impermanent, unsatisfactory, and not-self. Focusing on these three characteristics, whenever these conditions of suffering arise again one will know them straightaway, having experienced them before.
+
+Gradually, little by little, one’s practice should gain momentum and as time passes, whatever sense objects and mental states arise will lose their value in this way. One’s heart will know them for what they are and accordingly put them down. Having reached the point where one is able to know things and put them down with ease, they say that the Path has matured internally and one will have the ability to swiftly bear down upon the defilements. From then on there will just be the arising and passing away in this place, the same as waves striking the seashore. When a wave comes in and finally reaches the shoreline, it just disintegrates and vanishes; a new wave comes and it happens again—the wave going no further than the limit of the shoreline. In the same way, nothing will be able to go beyond the limits established by one’s own awareness. That’s the place where one will meet and come to understand impermanence, unsatisfactoriness and
+
+KEEP KNOWING
+
+not-self. It is there that things will vanish—the three characteristics of impermanence, unsatisfactoriness and not self are the same as the seashore, and all sense objects and mental state that are experiences go in the same way as the waves. Happiness is uncertain; it has arisen many times before. Suffering is uncertain, it’s arisen many times before; that’s the way they are. In one’s heart one will know that they are like that, they are “just that much.” The heart will experience these conditions in this way and they will gradually keep losing their value and importance. This is talking about the characteristics of the heart, the way it is, it is the same for everybody, even the Buddha and all his disciples were like this. If one’s practice of the Path matures it will become automatic and it will no longer be dependent on anything external. When a defilement arises, one will immediately be aware of it and accordingly be able to counteract it. However, that stage in which the Path is still not mature enough nor fast enough to overcome the defilements is something that everybody has to experience— it’s unavoidable. But it is at that point where one must use skilful reflection. Don’t go investigating elsewhere or trying to solve the problem at some other place. Cure it right there. Apply the cure at that place where things arise and pass away. Happiness arises and then passes away, doesn’t it? Suffering arises and then passes away, doesn’t it? One will continuously be able to see the process of arising and ceasing, and see that which is good and bad in the heart. These are phenomena that exist and are part of nature. Don’t cling tightly to them or create anything out of them at all. If one has this kind of awareness, then even though one will be coming into contact with things, there will not be any noise. In other words, one will see the arising and passing away of phenomena in a very natural and ordinary way. One will just see things arise and then cease. One will understand the process of arising and ceasing in the light of impermanence, unsatisfactoriness, and not-self. The nature of the Dhamma is like this. When one can see things as “just that much,” then they will remain as “just that much.” There
+
+will be none of that clinging or holding on—as soon as one becomes aware of attachment it will disappear. There will be just the arising and ceasing—and that is peaceful. It is peaceful not because one doesn’t hear anything—there is the hearing—but because one understands the nature of hearing and doesn’t cling or hold on to anything. This is what they mean by peaceful—the heart is still experiencing sense objects, but it doesn’t follow or get caught up in them. A division is made between the heart sense objects and the defilements. When one’s heart comes into contact with a sense object and there is an emotional reaction of liking, this gives rise to defilement; but if one understands the process of arising and ceasing, then there is nothing that can really arise from it— it will end just there.
+
+Q: Does one have to practise and gain samádhi before one
+
+can contemplate the Dhamma?
+
+AC: Here one can say that’s correct from one point of view,
+
+but talking about it from the aspect of practice, then paññá has to come first, but following the conventional framework it has to be sìla, samádhi and then paññá. If one is truly practising the Dhamma, then paññá comes first. If paññá is there from the beginning, it means that one knows that which is right and that which is wrong; and one knows the heart that is calm and the heart that is disturbed and agitated. Talking from the scriptural basis, one has to say that the practice of restraint and composure will give rise to a sense of shame and fear of any form of wrong doing that potentially may arise. Once one has established the fear of that which is wrong and one is no longer acting or behaving wrongly, then that which is a wrong will not be present within one. When there is no longer anything wrong present within, this provides the conditions from which calm will arise in its place, and this calm forms a foundation from which samádhi will grow and develop over time.
+
+When the heart is calm, that knowledge and understanding which arises from within that calm is called vipassaná. This means that from moment to moment there is a knowing in accordance with the truth, and within this
+
+KEEP KNOWING
+
+are contained different properties. If one was to set them down on paper they would be sìla, samádhi and paññá. Talking about them, one can bring them together and say that these three dhammas form one mass and are inseparable. But if one was to talk about them as different properties, then it would be correct to say sìla, samádhi and paññá.
+
+However, if one was acting in an unwholesome way, it would be impossible for the heart to become calm. So it would be most accurate to see them as developing together and it would be right to say that this is the way that the heart will become calm. Talking about the practice of samádhi, it involves preserving sìla, which includes looking after the sphere of one’s bodily actions and speech, in order not to do anything which is unwholesome or would lead one to remorse or suffering. This provides the foundation for the practice of calm and once one has a foundation in calm this in turn provides a foundation which supports the arising of paññá.
+
+#### In formal teaching they emphasize the importance of sìla:
+
+ádikalyáóa, majjhekalyáóa, pariyosánakalyáóa—the practice
+
+should be beautiful in the beginning, beautiful in the middle and beautiful in the end. This is how it is. Have you ever practised samádhi?
+
+Q: I am still learning. The day after I went to see Tan Ajahn
+
+Tate at Wat Keu-an, my aunt brought a book containing some of your teaching for me to read. That morning at work I started to read some passages containing questions and answers to different problems. In it you said that the most important point was for the heart to watch over and observe the process of cause and effect that takes place within. Just to watch and maintain the knowing of the different things that come up.
+
+That afternoon I was practising meditation and during the sitting, the characteristics that appeared were that I felt as though my body had disappeared. I was unable to feel the hands or legs and there were no physical sensations. I knew that the body was still there, but I couldn’t feel it. In the evening I had the opportunity to go and pay respects to Tan Ajahn Tate and I described to him the details of my experience. He said that these were the characteristics of the
+
+heart that appear when it unifies in samádhi, and that I should continue practising. I had this experience only once; on subsequent occasions I found that sometimes I was unable to feel only certain areas of the body, such as the hands, whereas in other areas there was still feeling. Sometimes during my practice I start to wonder whether just sitting and allowing the heart to let go of everything is the correct way to practice; or else should I think over and occupy myself with the different problems or unanswered questions concerning the Dhamma, which I still have.
+
+AC: It’s not necessary to keep going over or adding anything
+
+on at this stage. This is what Tan Ajahn Tate was referring to; one must not repeat or add on to that which is there already. When that particular kind of knowing is present, it means that the heart is calm and it is that state of calm which one must observe. Whatever one feels, whether it feels like there is a body or a self or not, this is not the important point. It should all come within the field on one’s awareness. These conditions indicate that the heart is calm and has unified in samádhi.
+
+When the heart has unified for a long period, for a few times, then there will be a change in the conditions and they
+
+say that one withdraws. That state is called appaná samádhi
+
+(absorption). Having entered it, the heart will subsequently withdraw. In fact, although it would not be incorrect to say that the heart withdraws, it doesn’t actually withdraw. Another way is to say that it flips back, or that it changes, but the style used by most teachers is to say that once the heart has reached the state of calm, then it will withdraw. However, people can get caught up in disagreements over the use of language. It can cause difficulties and one might start to wonder, “How on earth can it withdraw? This business of withdrawing is just confusing!” It can lead to much foolishness and misunderstanding just because of the language.
+
+What one must understand is that the way to practice is to observe these conditions with sati and sampajañña. In accordance with the characteristic of impermanence, the heart
+
+will turn about and withdraw to the level of upacára samádhi
+
+(access concentration). If it withdraws to this level, then one
+
+KEEP KNOWING
+
+can gain knowledge and understanding, because at the deeper level there is no knowledge and understanding. If there is knowledge and understanding at this point, it will resemble
+
+saòkhárá (volitional formations).
+
+It will be similar to two people having a conversation and discussing the Dhamma together. One who understands this might feel disappointed that their heart is not really calm, but in fact this dialogue takes place within the confines of the calm and restraint which has developed. These are the characteristics of the heart once it has withdrawn to the level of upacára—there will be the ability to know about and understand different things.
+
+The heart will stay in this state for a period and then it will turn inwards again. In other words, it will turn and go back into the deeper state of calm as it was before; or it is even possible that it might obtain purer and calmer levels of concentrated energy than was experienced before. If it does reach such a level of concentration, one should merely note the fact and keep observing until the time when the heart withdraws again. Once it has withdrawn one will be able to develop knowledge and understanding as different problems arise. Here is where one should investigate and examine the different matters and issues which affect the heart in order to understand and penetrate them. Once these problems are finished with, then the heart will gradually move inwards towards the deeper level of concentration again. The heart will stay there and mature, freed from any other work or external impingement. There will just be the one-point knowing and this will prepare and strengthen one’s mindfulness until the time is reached to re-emerge.
+
+These conditions of entering and leaving will appear in one’s heart during the practice, but this is something that is difficult to talk about. It is not harmful or damaging to one’s practice. After a period, the heart will withdraw and the inner dialogue will start in that place, taking the form of saòkhárá or mental formations conditioning the heart. If one doesn’t know that this activity is saòkhárá, one might think that it is paññá, or that paññá is arising. One must see that this activity is fashioning and conditioning the heart and that the most important thing about it is that it is impermanent. One must
+
+continually keep control and not allow the heart to start following and believing in all the different creations and stories that it cooks up. All that is just saòkhárá, it doesn’t become paññá.
+
+The way paññá develops is when one listens to the heart and knows it as the process of creating. One knows that conditioning takes the heart in different directions, and then one reflects on the instability and uncertainty of it. The realization of its impermanence will provide the cause by which one can let go of things at that point. Once the heart has let go of things and put them down at that point, it will gradually become more and more calm and steady. One must keep entering and leaving samádhi like this and paññá will arise at that point. There one will gain knowledge and understanding.
+
+As one continues to practice, many different kinds of problems and difficulties will tend to arise in the heart; but whatever problems the world, or even the universe might bring up, one will be able to deal with them all. One’s wisdom will follow them up and find answers for every question and doubt. Wherever one meditates, whatever thoughts come up, whatever happens, everything will be providing the cause for paññá to arise. This is a process that will take place by itself, free from external influence. Paññá will arise like this, but when it does, one should be careful not to become deluded and see it as saòkhárá. Whenever one reflects on things and sees them as impermanent and uncertain, then one shouldn’t cling or attach to them in any way. If one keeps developing this state, when paññá is present in the heart, it will take the place of one’s normal way of thinking and reacting and the heart will become fuller and brighter in the centre of everything. As this happens—one knows and understands all things as they really are—one’s heart will be able to progress with meditation in the correct way and without being deluded. That is how it should be.
+
+WHAT IS CONTEMPLATION?
+
+From a question and answer session between Ajahn Chah and English-speaking monks at Wat Gor Nork in 1979.
+
+Question: When you teach about the value of contemplation,
+
+are you speaking of sitting and thinking over particular themes—the thirty-two parts of the body, for instance?
+
+Ajahn Chah: That is not necessary when the mind is truly
+
+still. When tranquillity is properly established the right object of investigation becomes obvious. When contemplation is “True,” there is no discrimination into right and wrong; “good” and “bad”; there is nothing even like that. You don’t sit there thinking, “Oh, this is like that and that is like this,” etc. That is a coarse form of contemplation. Meditative contemplation is not merely a matter of thinking—rather it’s what we call “contemplation in silence.” Whilst going about our daily routine we mindfully consider the real nature of existence through comparisons. This is a coarse kind of investigation but it leads to the real thing.
+
+Q: When you talk about contemplating the body and mind,
+
+though, do we actually use thinking? Can thinking produce true insight? Is this vipassaná?
+
+AC: In the beginning we need to work using thinking, even
+
+though later on we go beyond it. When we are doing true contemplation all dualistic thinking has ceased; although we need to consider dualistically to get started. Eventually all thinking and pondering comes to an end.
+
+Q: You say that there must be sufficient tranquillity (samádhi)
+
+to contemplate. Just how tranquil do you mean?
+
+AC: Tranquil enough for there to be presence of mind. Q: Do you mean staying with the here-and-now, not thinking
+
+about the past and future?
+
+AC: Thinking about the past and future is all right if you
+
+understand what these things really are, but you must not get caught up in them. Treat them the same as you would anything else—don’t get caught up. When you see thinking as just thinking, then that’s wisdom. Don’t believe in any of it! Recognize that all of it is just something that has arisen and will cease. Simply see everything just as it is—it is what it is. The mind is the mind—it’s not anything or anybody in itself. Happiness is just happiness, suffering is just suffering—it is just what it is. When you see this, you will be beyond doubt.
+
+Question: I still don’t understand. Is true contemplating the
+
+same as thinking?
+
+Ajahn Chah: We use thinking as a tool, but the knowing that
+
+arises because of its use is above and beyond the process of thinking; it leads to our not being fooled by our thinking any more. You recognize that all thinking is merely the movement of the mind, and also that knowing is not born and doesn’t die. What do you think all this movement called mind comes out of? What we talk about as the mind—all the activity—is just the conventional mind. It’s not the real mind at all. What is real just is; it’s not arising and it’s not passing away. Trying to understand these things just by talking about them, though, won’t work. We need to really consider
+
+impermanence, unsatisfactoriness and impersonality (anicca, dukkha, anattá); that is, we need to use thinking to contemplate
+
+the nature of conventional reality. What comes out of this work is wisdom and emptiness. Even though there may still be thinking, it’s empty—you are not affected by it.
+
+Question: How can we arrive at this stage of the real mind? Ajahn Chah: Your work with the mind you already have, of
+
+course! See that all that arises is uncertain, that there is nothing stable or substantial. See it clearly and see that there is really nowhere to take a hold of anything—it’s all empty. When you see the things that arise in the mind for what they are, you won’t have to work with thinking any more. You will have no doubt whatsoever in these matters. To talk about the “real mind” and so on, may have a relative use in helping us understand. We invent names for the sake of study, but actually nature just is how it is. For example, when we are sitting here downstairs
+
+WHAT IS CONTEMPLATION?
+
+on the stone floor, the floor is the base—it’s not moving or going anywhere. Upstairs, above us is what has arisen out of this. Upstairs is like everything that we see in our minds: form, feeling, perception, and thinking. Really, they don’t exist in the way we presume they do; they are merely the conventional mind. As soon as they arise, they pass away again; they don’t really exist in themselves.
+
+There is a story in the scriptures about Venerable Sáriputta examining a bhikkhu before allowing him to go off wandering. He asked him how he would reply if he was questioned, “What happens to the Buddha after he dies?” The bhikkhu replied, “When form, feeling, perception, thinking, and consciousness arise, they pass away.” Venerable Sáriputta passed him on that.
+
+Practice is not just a matter of talking about arising and passing away, though. You must see it for yourself. When you are sitting, simply see what is actually happening. Don’t follow anything. Contemplation doesn’t mean being caught up in thinking. The contemplative thinking of one on the way is not the same as the thinking of the world. Unless you understand properly what is meant by contemplation, the more you think the more confused you will become.
+
+The reason we make such a point of the cultivation of mindfulness is because we need to see clearly what is going on. We must understand the processes of our hearts. When such mindfulness and understanding are present, then everything is taken care of. Why do you think one who knows the way never acts out of anger or delusion? The causes for these things to arise are simply not there. Where would they come from? Mindfulness has got everything covered.
+
+Q: Is this mind you are talking about called the “Original Mind”? AC: What do you mean? Q: It seems as if you are saying there is something else outside of the conventional body-mind (the five khandhas). Is there
+
+something else? What do you call it?
+
+AC: There isn’t anything and we don’t call it anything—that’s
+
+all there is to it! Be finished with all of it. Even the knowing doesn’t belong to anybody, so be finished with that, too! Consciousness is not an individual, not a being, not a self,
+
+not an other, so finish with that—finish with everything! There is nothing worth wanting! It’s all just a load of trouble. When you see clearly like this then everything is finished.
+
+Q: Could we not call it the “Original Mind”? AC: You can call it that if you insist. You can call it whatever
+
+you like, for the sake of conventional reality. But you must understand this important point properly: if we didn’t make use of conventional reality we wouldn’t have any words or concepts with which to consider actual reality—Dhamma. This is very important to understand.
+
+Q: What degree of tranquillity are you talking about at this
+
+stage? And what quality of mindfulness is needed?
+
+A: You don’t need to go thinking like that. If you didn’t
+
+have the right amount of tranquillity, you wouldn’t be able to deal with these questions at all. You need enough stability and concentration to know what is going on—enough for clarity and understanding to arise.
+
+Asking questions like this shows that you still doubt. You need enough tranquillity of mind to no longer get caught in doubting what you are doing. If you had done the practice you would understand these things. The more you carry on with this sort of questioning, the more confusing you make it. It’s all right to talk if the talking helps contemplation, but it won’t show you the way things actually are. This Dhamma is not understood because somebody else tells you about it,
+
+you must see it for yourself—paccattaí. If you have the quality
+
+of understanding that we have been talking about, then we say that your duty to do anything is over; which means that you don’t do anything. If there is still something to do, then it’s your duty to do it.
+
+Simply keep putting everything down, and know that that is what you are doing. You don’t need to be always checking up on yourself, worrying about things like “How much samádhi”—it will always be the right amount. Whatever arises in your practice, let it go; know it all as uncertain, impermanent. Remember that! It’s all uncertain. Be finished with all of it. This is the way that will take you to the source— to your Original Mind.
+
+Ajahn: teacher. A Thai word (also spelled as acharn) derived from the Pali word ácariya.
+
+Arahant: worthy one, one who is fully enlightened. Árammaóa: mind-objects; the object which is presented to the mind
+
+(citta) at any moment. This object is derived from the five senses
+
+or direct from the mind (memory, thought, feelings). It is not the external object (in the world), but that object after having been processed by one’s preconceptions and predispositions.
+
+Ariya: noble, a noble one; i.e., one who has attained transcendent
+
+insight on one of the four levels, the highest of which is the arahant.
+
+Asubha: non-beauty, ugliness; refers to the impurity, foulness, or
+
+unattractiveness of the body, which can be taken up as a meditation object for developing calm and insight.
+
+Bhikkhu: Buddhist monk, alms mendicant. Buddho: originally part of the formula used for the recollection of
+
+the Buddha. In the Thai forest tradition this word is often used as a meditation word that is mentally repeated and used as a
+
+preparatory object (parikamma) for developing concentration.
+
+Dhamma and dhamma: Please note the various meanings of the
+
+words “Dhamma,” i.e., the liberating law discovered and proclaimed by the Buddha, and “dhamma,” i.e., any quality, thing, object of mind and/or any conditioned or unconditioned phenomena. Sometimes the meanings overlap.
+
+Dhátu: element, natural essence. The elementary properties that make
+
+up the inner sense of the body and mind: earth (material), water (cohesion), fire (energy), air (motion), space, and consciousness.
+
+Dhutaòga: lit. “factor for shaking off.” Ascetic practices used as a
+
+means of shaking off defilements. In the later commentarial tradition they have been standardised into 13 observances that aid in the cultivation of contentment, renunciation, and energetic effort.
+
+Dukkha: suffering, pain. It refers to the implicit unsatisfactoriness,
+
+incompleteness, imperfection, and insecurity of all conditioned phenomena, which, because they are liable to change, will cause
+
+suffering. Included are all forms of unpleasantness from gross bodily pains and the suffering implicit in old age, sickness, and death, to subtle feelings such as being parted from what we like or associated with what we dislike, to refined mental states such as dullness, boredom, restlessness, agitation, etc.
+
+Gotrabhú citta: change-of-lineage; the state of consciousness
+
+preceding jhána or path.
+
+Jhána: profound unification or absorption of mind in meditation.
+
+The pinnacle of samádhi. The Buddha taught four distinct levels. The five factors of jhána are initial and sustained application of mind, rapture, pleasure and equanimity.
+
+Kasióa: a type of meditation in which the meditator stares at a
+
+visual object, such as a blue disk or flame, and then internalizes it. When he succeeds in doing so, he then uses the mental image to gain jhána.
+
+Kammaþþhána: “working-ground,” “basis for action.” It is used to
+
+describe the subject of meditation that leads one to gain skill in both calm and insight. In the Thai forest tradition it refers to the whole lifestyle of the monk who practices meditation.
+
+Khandha: groups, aggregates. There are five: form (rúpa), feeling (vedaná), perception (saññá), thought formations (saòkhárá), and consciousness (viññáóa). These five groups constitute the range
+
+of experience in any form of existence. There is no experience possible outside of these groups.
+
+Kilesa: defilements; mental qualities that defile, poison or stain
+
+the heart; sensual or selfish desire, anger, delusion, and any unwholesome state of mind based on them.
+
+Lokavidú: Knower of the World, an epithet of the Buddha. Magga-phala: Path and Fruition. The four transcendent paths—or
+
+rather one path and four different levels of refinement—leading
+
+to being a “noble one” (ariya) and the end of suffering, i.e., the
+
+insight knowledge that cuts through the fetters, and the four corresponding fruitions arising from those paths.
+
+Nimitta: sign, appearance. It may take place in terms of seeing,
+
+hearing, smelling, tasting, touching or mental impression, but
+
+arises based on the citta (mind/heart) rather than the relevant sense faculty. Examples of nimitta include: the seeing or hearing
+
+of beings in other realms of existence, precognition, clairvoyance, etc. In samatha meditation it refers to the mental sign of
+
+unification, usually visual, that appears when the mind reaches a certain degree of calm.
+
+Nìvaraóa: hindrance. The five hindrances are: desire, anger,
+
+restlessness and agitation, sloth and torpor, and doubt.
+
+Noble Eightfold Path: the Path that leads to the end of suffering (ariya-aþþhaògika-magga). It consists of 8 constituents, viz. sammá-diþþhi, sammá-saòkappa, sammá-vácá, sammá-kammanta, sammá-ájìva, sammá-váyáma, sammá-sati, sammá-samádhi, or right view,
+
+right intention, right speech, right conduct, right livelihood, right effort, right mindfulness, and right concentration.
+
+Paññá: wisdom, knowledge of things as they are. Páramì: spiritual perfection. The ten spiritual perfections are
+
+generosity, virtue, renunciation, wisdom, effort, patience, truthfulness, resolution, loving-kindness and equanimity.
+
+Puthujjana: worldling, common or ordinary person; one who has not yet entered the path to stream entry (as opposed to an ariya).
+
+Saòkhára: formations or volitional formations; referring to both the
+
+volitional activity of ‘forming’ things and the things formed.
+
+Samatha: tranquillity, calming, stilling. Samatha and vipassaná are
+
+two complementary and inseparable aspects of the mind released from the five hindrances.
+
+Samádhi: concentration. Samádhi is established mindfulness in
+
+meditative concentration, when the mind experiences a calm, peaceful, unified, and blissful sustained awareness. Technically
+
+samádhi is synonymous with the four jhánas, but is often used
+
+in a more general way.
+
+Samaóa: ascetic, recluse, monk; one who has left the home life to
+
+pursue the Higher Life.
+
+Sampajaññá: awareness, clear comprehension. Sati: mindfulness, recollectedness. Sìla: virtue, moral restraint, precept. A broad term whose meaning
+
+includes living an ethical life, following moral precepts, and behaving in a restrained manner and not harming anyone.
+
+Upapáramì: higher páramì; refers to the same ten spiritual perfections,
+
+but practised on a deeper, more intense and profound level.
+
+Yogávacára: a Buddhist yogi, one who is dedicated to training the
+
+mind through meditation.
+
+Of Related Interest from the Buddhist Publication Society
+
+A Taste of Freedom
+
+A collection of ten inspiring Dhamma talks by Ajahn Chah. In his clear and simple, yet penetrative and profound style, Ajahn Chah describes the path to freedom and peace. Wh 357–59, 96 pp.
+
+Modern Buddhist Masters
+
+Jack Kornfield
+
+In this book, the precise instructions of twelve modern great meditation masters, including Mahási Sayádaw, Ajahn Chah, and U Ba Khin are presented together with an introduction to the masters. Despite the fact that most of the masters described in this book have passed away in the period between the first publication of this book in 1977 and this 2007 reprint, it remains a valuable source of inspiration. BP 507, 320 pp.
+
+Within Our Own Hearts
+
+This inspiring book is based on twelve talks that the well-known female meditation teacher gave at her meditation centre in Sri Lanka. Ayyá Khemá, born in Germany, insists that the Buddha’s teachings, though profound, are simple and can be realized within our own hearts. BP 518S, 124 pp.
+
+An Unentangled Knowing Lessons in Training the Mind
+
+Upásiká Kee Nanayon
+
+An inspiring collection of discourses by one of the foremost female Dhamma teachers of modern Thailand. The teachings are direct and uncompromising in their honesty. BP 515S, 176 pp.
+
+All prices as in the latest BPS catalogue (http://www.bps.lk)
+
+THE BUDDHIST PUBLICATION SOCIETY
+
+The BPS is an approved charity dedicated to making known the Teaching of the Buddha, which has a vital message for all people.
+
+Founded in 1958, the BPS has published a wide variety of books and booklets covering a great range of topics. Its publications include accurate annotated translations of the Buddha’s discourses, standard reference works, as well as original contemporary expositions of Buddhist thought and practice. These works present Buddhism as it truly is—a dynamic force which has influenced receptive minds for the past 2500 years and is still as relevant today as it was when it first arose.
+
+For more information about the BPS and our publications, please visit our  website, or contact:
+
+The Administrative Secretary Buddhist Publication Society
+
+P.O. Box 61 54 Sangharaja Mawatha
+
+Kandy • Sri Lanka
+
+E-mail: bps@bps.lk Web site: http://www.bps.lk
+
+Tel: 0094 81 223 7283 • Fax: 0094 81 222 3679
+

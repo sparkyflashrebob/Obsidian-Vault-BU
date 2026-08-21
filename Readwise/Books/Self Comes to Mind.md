@@ -1,0 +1,275 @@
+# Self Comes to Mind
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/41OpmEV1aAL._SL200_.jpg)
+
+## Metadata
+- Author: [[Antonio Damasio]]
+- Full Title: Self Comes to Mind
+- Category: #books
+
+## Highlights
+- Consciousness is not merely wakefulness. ([Location 131](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=131))
+    - Tags: [[orange]] 
+- contrary, I knew, almost instantly, with little hesitation if any, without effort, that this was me, ([Location 132](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=132))
+    - Tags: [[pink]] 
+- the connection was felt. ([Location 138](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=138))
+    - Tags: [[blue]] 
+- a mind endowed with subjectivity—you ([Location 144](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=144))
+    - Tags: [[pink]] 
+- Pain would never have become suffering—not a bad thing, come to think of it—but an equivocal advantage given that pleasure would not have become bliss either. ([Location 149](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=149))
+- in the absence of consciousness, the personal view is suspended; ([Location 153](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=153))
+    - Tags: [[orange]] 
+- The fact that no one sees the minds of others, conscious or not, is especially mysterious. ([Location 161](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=161))
+    - Tags: [[orange]] 
+- The focus is on how the human brain needs to be structured and how it needs to operate in order for conscious minds to emerge. ([Location 175](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=175))
+    - Tags: [[orange]] 
+- The answers are unequivocal. There is indeed a self, but it is a process, not a thing, and the process is present at all times when we are presumed to be conscious. ([Location 207](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=207))
+- two vantage points. ([Location 208](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=208))
+    - Tags: [[blue]] 
+- observer ([Location 208](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=208))
+    - Tags: [[orange]] 
+- object— ([Location 208](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=208))
+    - Tags: [[orange]] 
+- knower, ([Location 210](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=210))
+    - Tags: [[pink]] 
+- dual notion of self ([Location 211](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=211))
+- self-as-knower ([Location 212](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=212))
+    - Tags: [[orange]] 
+- self-as-object. ([Location 212](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=212))
+    - Tags: [[pink]] 
+- the self-as-object being simpler in scope than the self-as-knower. ([Location 213](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=213))
+- Now you sense it, now you don’t, but you always feel it, is my way of summing up the situation. ([Location 216](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=216))
+    - Tags: [[pink]] 
+- what allows the mind to know that such dominions exist and belong to their mental owners—body, mind, past and present, and all the rest—is that the perception of any of these items generates emotions and feelings, and, in turn, the feelings accomplish the separation between the contents that belong to the self and those that do not. ([Location 220](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=220))
+- markers. ([Location 223](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=223))
+    - Tags: [[orange]] 
+- somatic markers. ([Location 224](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=224))
+    - Tags: [[blue]] 
+- feelings of knowing. ([Location 226](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=226))
+    - Tags: [[orange]] 
+- a dynamic collection of integrated neural processes, centered on the representation of the living body, that finds expression in a dynamic collection of integrated mental processes. ([Location 228](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=228))
+    - Tags: [[blue]] 
+- self-as-subject-and-knower ([Location 232](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=232))
+    - Tags: [[pink]] 
+- the self-as-subject-and-knower is stacked, so to speak, on top of the self-as-object, as a new layer of neural processes giving rise to yet another layer of mental processing. ([Location 233](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=233))
+- There is no dichotomy between self-as-object and self-as-knower; there is, rather, a continuity and progression. The self-as-knower is grounded on the self-as-object. ([Location 234](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=234))
+    - Tags: [[orange]] 
+- an organization of mind contents centered on the organism that produces and motivates those contents. ([Location 236](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=236))
+    - Tags: [[pink]] 
+- The mere presence of organized images flowing in a mental stream produces a mind, but unless some supplementary process is added on, the mind remains unconscious. What is missing from that unconscious mind is a self. ([Location 241](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=241))
+    - Tags: [[pink]] 
+- subjectivity— ([Location 243](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=243))
+    - Tags: [[blue]] 
+- making the images ours, ([Location 247](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=247))
+- the knower came in steps: ([Location 248](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=248))
+    - Tags: [[pink]] 
+- A knower, by whatever name one may want to call it—self, experiencer, protagonist—needs to be generated in the brain if the mind is to become conscious. ([Location 251](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=251))
+    - Tags: [[blue]] 
+- When the brain manages to introduce a knower in the mind, subjectivity follows. ([Location 252](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=252))
+- Except for the direct window that the self opens into our pains and pleasures, the information it provides must be questioned, most certainly when the information pertains to its very nature. ([Location 291](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=291))
+- it is not surprising that the mind appears to have a nonphysical nature and that its phenomena appear to belong to another category. ([Location 302](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=302))
+    - Tags: [[orange]] 
+- some neural patterns are simultaneously mental images. ([Location 332](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=332))
+    - Tags: [[pink]] 
+- Subjectivity is not required for mental states to exist, only for them to be privately known. ([Location 334](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=334))
+    - Tags: [[blue]] 
+- the fourth perspective asks us to construct, simultaneously, with the help of available facts, a view from the past, and from within, literally an imagined view of a brain caught in the state of containing a conscious mind. ([Location 335](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=335))
+- “mind-self-body-brain problem” ([Location 337](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=337))
+    - Tags: [[orange]] 
+- Although this book is not about the biology of simple organisms, the facts to which I allude in Chapter 2 make it clear that the lives of cells occur in extraordinary complex universes that formally resemble, in many ways, our elaborate human universe. ([Location 341](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=341))
+    - Tags: [[pink]] 
+- The world and behavior of a single-cell organism such as the paramecium are a wonder to behold, far closer to who we are than meets the eye. ([Location 343](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=343))
+    - Tags: [[blue]] 
+- The witness is the something extra that reveals the presence of implicit brain events we call mental. ([Location 350](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=350))
+    - Tags: [[pink]] 
+- the body is a foundation of the conscious mind. ([Location 401](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=401))
+    - Tags: [[pink]] 
+- protoself, ([Location 403](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=403))
+- the critical body-mapping and image-making structures are located below the level of the cerebral cortex, in a region known as the upper brain stem. This is an old part of the brain shared with many other species. ([Location 404](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=404))
+    - Tags: [[orange]] 
+- primordial feelings, ([Location 413](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=413))
+    - Tags: [[orange]] 
+- which occur spontaneously and continuously whenever one is awake. ([Location 414](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=414))
+- pleasure to pain, ([Location 416](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=416))
+    - Tags: [[blue]] 
+- originate at the level of the brain stem rather than the cerebral cortex. ([Location 416](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=416))
+    - Tags: [[pink]] 
+- All feelings of emotion are complex musical variations on primordial feelings. ([Location 417](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=417))
+    - Tags: [[orange]] 
+- The reason why nonfeeling images are also felt is that they are normally accompanied by feelings. ([Location 423](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=423))
+    - Tags: [[blue]] 
+- Conscious minds begin when self comes to mind, ([Location 432](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=432))
+    - Tags: [[pink]] 
+- The self is built in distinct steps grounded on the protoself. ([Location 433](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=433))
+    - Tags: [[blue]] 
+- core self. ([Location 435](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=435))
+- The core self is about action—specifically, about a relationship between the organism and the object. ([Location 435](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=435))
+    - Tags: [[orange]] 
+- autobiographical self. ([Location 437](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=437))
+    - Tags: [[pink]] 
+- This self is defined in terms of biographical knowledge pertaining to the past as well as the anticipated future. ([Location 437](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=437))
+    - Tags: [[blue]] 
+- The multiple images whose ensemble defines a biography generate pulses of core self whose aggregate constitutes an autobiographical self. ([Location 438](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=438))
+- The protoself with its primordial feelings, and the core self, constitute a “material me.” ([Location 439](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=439))
+    - Tags: [[orange]] 
+- The autobiographical self, whose higher reaches embrace all aspects of one’s social persona, constitute a “social me” and a “spiritual me.” ([Location 440](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=440))
+- the core and autobiographical selves within our minds construct a knower; ([Location 442](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=442))
+    - Tags: [[pink]] 
+- At neither modest nor robust levels do self and consciousness happen in one area or region or center of the brain. ([Location 445](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=445))
+    - Tags: [[blue]] 
+- conspicuous absence of a conductor before the performance begins, ([Location 450](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=450))
+    - Tags: [[pink]] 
+- For all intents and purposes, a conductor is now leading the orchestra, although the performance has created the conductor—the self—not the other way around. ([Location 451](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=451))
+    - Tags: [[blue]] 
+- No single mechanism explains consciousness in the brain, no single device, no single region, or feature, or trick, any more than a symphony can be played by one musician or even a few. Many are needed. What each of them contributes does count. But only the ensemble produces the result we seek to explain. ([Location 467](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=467))
+    - Tags: [[blue]] 
+- homeostasis ([Location 479](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=479))
+    - Tags: [[orange]] 
+- Most species whose brains generate a self do so at core level. Humans have both core self and autobiographical self. A number of mammals are likely to have both as well, namely wolves, our ape cousins, marine mammals and elephants, cats, and, of course, that off-the-scale species called the domestic dog. ([Location 486](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=486))
+    - Tags: [[pink]] 
+- deliberate seeking of well-being. ([Location 504](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=504))
+    - Tags: [[orange]] 
+- Elucidating the neural mechanisms behind conscious minds reveals that our selves are not always sound and that they are not in control of every decision. ([Location 524](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=524))
+    - Tags: [[pink]] 
+- human responsibility, ([Location 529](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=529))
+    - Tags: [[blue]] 
+- It turns out that living creatures without any brain at all, down to single cells, exhibit seemingly ([Location 567](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=567))
+- intelligent and purposeful behavior as well. ([Location 568](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=568))
+- eukaryotic cells, ([Location 579](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=579))
+- Protozoa. ([Location 579](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=579))
+    - Tags: [[orange]] 
+- amoeba ([Location 581](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=581))
+    - Tags: [[blue]] 
+- paramecium. ([Location 581](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=581))
+    - Tags: [[pink]] 
+- mitochondria; ([Location 591](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=591))
+    - Tags: [[orange]] 
+- spirochetes, ([Location 591](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=591))
+- The economy of a multicellular organism has many sectors, and the cells within those sectors cooperate. ([Location 604](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=604))
+    - Tags: [[pink]] 
+- The governance of a multicellular organism system is highly decentralized, ([Location 606](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=606))
+    - Tags: [[blue]] 
+- all the cells in multicellular organisms, ours included, have the same components as those of a single one—membrane, ([Location 607](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=607))
+- As simple as they were and are, single cells had what appeared to be a decisive, unshakable determination to stay alive for as long as the genes inside their microscopic nucleus commanded them to do so. ([Location 611](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=611))
+    - Tags: [[orange]] 
+- The governance of their life included a stubborn insistence to remain, endure, and prevail until such time as some of the genes in the nucleus would suspend the will to live and allow the cell to die. ([Location 612](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=612))
+    - Tags: [[pink]] 
+- I know it is difficult to imagine that the notions of “desire” and “will” are applicable to a single lonely cell. ([Location 614](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=614))
+- Deprived of conscious knowledge, deprived of access to the byzantine devices of deliberation available in our brains, the single cell seems to have an attitude: it wants to live out its prescribed genetic allowance. Strange as it may seem, the want, and all that is necessary to implement it, precedes explicit knowledge and deliberation regarding life conditions, since the cell clearly has neither. ([Location 617](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=617))
+    - Tags: [[orange]] 
+- We commonly fall into the trap of regarding our big brains and complex conscious minds as the originators of the attitudes, intentions, and strategies behind our sophisticated life management. ([Location 625](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=625))
+    - Tags: [[pink]] 
+- The reality, however, is that the conscious mind has merely made the basic life-management know-how, well, knowable. ([Location 627](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=627))
+    - Tags: [[blue]] 
+- I am reversing the narrative sequence of the traditional account of consciousness by having covert knowledge of life management precede the conscious experience of any such knowledge. I am also saying that the covert knowledge is quite sophisticated and should not be regarded as primitive. Its complexity is huge and its seeming intelligence remarkable. ([Location 632](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=632))
+    - Tags: [[blue]] 
+- neurons exist for the benefit of all the other cells in the body. ([Location 662](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=662))
+    - Tags: [[pink]] 
+- neurons are about the body, and this “aboutness,” this relentless pointing to the body, is the defining trait of neurons, neuron circuits, and brains. ([Location 673](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=673))
+    - Tags: [[pink]] 
+- What does it take for a living cell to stay alive? Quite simply, it takes good housekeeping and good external relations, which is to say good management of the myriad problems posed by living. Life, in a single cell as well as in large creatures with trillions of them, requires the transformation of suitable nutrients into energy, and that, in turn, calls for the ability to solve several problems: finding the energy products, placing them inside the body, converting ([Location 710](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=710))
+    - Tags: [[orange]] 
+- them into the universal currency of energy known as ATP, disposing of the waste, and using the energy for whatever the body needs to continue this same routine of finding the right stuff, incorporating it, and so forth. Procuring nutrition, consuming and digesting it, and allowing it to power a body—those are the issues for the humble cell. The mechanics of life management are crucial because of its difficulty. Life is a precarious state, made possible only when a large number of conditions are met simultaneously within the body’s interior. For example, in organisms such as ours, the amounts of oxygen and CO2 can vary only within a narrow range, as can the acidity of the bath in which chemical molecules of every sort travel from cell to cell (the pH). The same applies to temperature, whose variations we are keenly aware of when we have a fever or, more commonly, when we complain of the weather’s being too hot or too cold; it also applies to the amount of fundamental nutrients in circulation—sugars, fats, proteins. We feel discomfort when the variations depart from the nice and narrow range, and we feel quite agitated if we go for a very long time without doing something about the situation. These mental states and behaviors are signs that the ironclad rules of life regulation are being disobeyed; they are prompts from the netherlands of nonconscious processing toward minded and conscious life, requesting us to find a ([Location 713](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=713))
+    - Tags: [[orange]] 
+- reasonable solution for a situation that can no longer be managed by automatic, nonconscious devices. ([Location 723](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=723))
+    - Tags: [[orange]] 
+- When one measures each of those parameters and attributes numbers to them, one discovers that the range within which they normally vary is extremely small. In other words, life requires that the body maintain a collection of parameter ranges at all costs for literally dozens of components in its dynamic interior. All the management operations to which I alluded earlier—procuring energy sources, incorporating and transforming energy products, and so forth—aim at maintaining the chemical parameters of a body’s interior (its internal milieu) within the magic range compatible with life. The magic range is known as homeostatic, and the process of achieving this balanced state is called homeostasis. ([Location 724](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=724))
+    - Tags: [[orange]] 
+- although the essentials of life regulation (the process of homeostasis) have been known for more than a century and are applied daily in general biology and medicine, their deeper significance in terms of neurobiology and psychology has not been appreciated.6 ([Location 732](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=732))
+- The fact that homeostasis began unknowingly, at the level of organisms without consciousness, mind, or brain, raises the question of where and how the homeostatic intention was planted in the history of life. ([Location 738](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=738))
+    - Tags: [[blue]] 
+- The early sketch of these devices was first present in organisms without brain, mind, or consciousness—the single cells we discussed earlier; however, the regulating devices attained the greatest complexity in organisms that have all three: brain, mind, and consciousness.7 ([Location 755](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=755))
+    - Tags: [[blue]] 
+- Indispensable items and items that are hard to obtain, given the high demand for them or their relative rarity, carry a higher cost. ([Location 788](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=788))
+- there is not possibly enough of everything for everyone to have some; pricing is a means to govern the very real mismatch between what is available and the demand for it. ([Location 790](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=790))
+    - Tags: [[pink]] 
+- Only when we introduce the notion of need do we come, finally, to the crux of biological value: ([Location 792](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=792))
+    - Tags: [[orange]] 
+- the matter of a living individual struggling to maintain ([Location 793](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=793))
+- life and the imperative needs that arise in the struggle. ([Location 793](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=793))
+- dopamine, ([Location 798](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=798))
+    - Tags: [[orange]] 
+- norepinephrine, ([Location 799](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=799))
+- serotonin, ([Location 799](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=799))
+    - Tags: [[blue]] 
+- cortisol, ([Location 799](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=799))
+    - Tags: [[pink]] 
+- oxytocin, ([Location 799](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=799))
+    - Tags: [[blue]] 
+- vasopressin. ([Location 799](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=799))
+- quality ([Location 812](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=812))
+- well-being. ([Location 812](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=812))
+    - Tags: [[orange]] 
+- Operating near the extremes of the range, if only for brief periods of time, is actually an important advantage in unfavorable life conditions, but nonetheless life states operating close to the efficient range are preferable. ([Location 821](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=821))
+    - Tags: [[blue]] 
+- In brains capable of representing internal states in the form of maps, and potentially having minds and consciousness, the parameters associated with a homeostatic range correspond, at conscious levels of processing, to the experiences of pain and pleasure. ([Location 834](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=834))
+- pleasure, ([Location 837](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=837))
+    - Tags: [[pink]] 
+- well-being, ([Location 837](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=837))
+    - Tags: [[blue]] 
+- discomfort, ([Location 837](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=837))
+- pain. ([Location 837](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=837))
+    - Tags: [[orange]] 
+- movement. ([Location 843](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=843))
+    - Tags: [[orange]] 
+- sense ([Location 847](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=847))
+    - Tags: [[orange]] 
+- Even bacteria respond to sunlight ([Location 848](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=848))
+- Eukaryotic cells also sensed the equivalent of touch and vibration. ([Location 849](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=849))
+- response policy, ([Location 851](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=851))
+    - Tags: [[orange]] 
+- “decision to move” ([Location 852](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=852))
+    - Tags: [[orange]] 
+- sensing of the organism’s interior and exterior, a response policy, and movement. ([Location 854](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=854))
+    - Tags: [[blue]] 
+- interoception, ([Location 857](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=857))
+    - Tags: [[orange]] 
+- exteroception. ([Location 859](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=859))
+    - Tags: [[orange]] 
+- incentive ([Location 869](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=869))
+    - Tags: [[orange]] 
+- reward and punishment, ([Location 873](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=873))
+    - Tags: [[pink]] 
+- There is no formal “subject” inside or outside an organism behaving ([Location 874](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=874))
+    - Tags: [[blue]] 
+- as a “rewarder” or as a “punisher.” Yet “rewards” and “punishments” are administered based on the design of response policy systems. ([Location 875](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=875))
+    - Tags: [[blue]] 
+- The entire operation is as blind and “subject-less” as gene networks themselves are. Absence of mind and of self is perfectly compatible with spontaneous and implicit “intention” and “purpose.” The basic “intention” of the design is to maintain structure and state, but a larger “purpose” can be construed from such multiple intentions: to survive. ([Location 876](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=876))
+    - Tags: [[blue]] 
+- incentive ([Location 879](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=879))
+- The guidance of incentive mechanisms has been made gradually more known to minded and conscious organisms such as ours. The conscious mind simply reveals what has long existed as an evolutionary mechanism of life regulation. But the conscious mind did not create the mechanism. The real story stands our intuition on its head. The actual historical sequence is reversed. ([Location 881](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=881))
+- What we have come to perceive as feelings of pain or pleasure, or as punishments or rewards, corresponds directly to integrated states of living tissue within an organism, as they succeed one another in the natural business of life management. ([Location 891](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=891))
+    - Tags: [[pink]] 
+- brains began to use cues to predict the delivery. ([Location 906](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=906))
+    - Tags: [[blue]] 
+- optimal ranges express themselves in the conscious mind as pleasurable feelings; dangerous ranges, as not-so-pleasant or even painful feelings. ([Location 931](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=931))
+    - Tags: [[orange]] 
+- Optimal workings of an organism, which result in efficient, harmonious states of life, constitute the very substrate of our primordial feelings of well-being and pleasure. ([Location 933](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=933))
+- happiness. ([Location 935](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=935))
+- disorganized, inefficient, inharmonious life states, the harbingers of disease and system failure, constitute the substrate of negative feelings, of which, as Tolstoy observed so accurately, there are far more varieties than of the positive kind—an infinite assortment of pains and suffering, not to mention disgust, fears, anger, sadness, shame, guilt, and contempt. ([Location 935](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=935))
+    - Tags: [[blue]] 
+- feelings can serve as barometers of life management. ([Location 938](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=938))
+    - Tags: [[pink]] 
+- ideal homeostatic states ([Location 959](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=959))
+- the fundamental advantage of consciousness, at any level of the phenomenon, derives from improving life regulation in ever more complex environments.11 ([Location 960](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=960))
+    - Tags: [[orange]] 
+- learn to adapt ([Location 977](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=977))
+    - Tags: [[orange]] 
+- When one looks at most any aspect of brain functions through the filter of this idea—that a brain exists for managing life inside a body—the oddities and mysteries of some of the traditional categories of psychology (emotion, perception, memory, language, intelligence, and consciousness) become less odd and far less mysterious. In fact, they develop a transparent reasonableness, an inevitable and endearing logic. How could we be any different, those functions seem to be asking, given the job that needs to be done? ([Location 1001](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=1001))
+    - Tags: [[blue]] 
+- create maps. ([Location 1011](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=1011))
+    - Tags: [[orange]] 
+- mapping and life management going hand in hand. ([Location 1011](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=1011))
+    - Tags: [[pink]] 
+- When the brain makes maps, it informs itself. ([Location 1011](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=1011))
+    - Tags: [[blue]] 
+- creating images, ([Location 1013](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=1013))
+    - Tags: [[orange]] 
+- Maps are constructed when we interact with objects, such as a person, a machine, a place, from the outside of the brain toward its interior. ([Location 1015](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=1015))
+    - Tags: [[blue]] 
+- interaction ([Location 1016](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=1016))
+    - Tags: [[orange]] 
+- Action and maps, movements and mind, are part of an unending cycle, an idea suggestively captured by Rodolfo Llinás when he attributes the birth of the mind to the brain’s control of organized movement.1 ([Location 1017](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=1017))
+- The assembly conjured by the senses involves an active contribution offered from inside the brain, ([Location 1028](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=1028))
+- mental pattern or mental image, ([Location 1032](https://readwise.io/to_kindle?action=open&asin=B003WUYOKM&location=1032))
+    - Tags: [[blue]] 

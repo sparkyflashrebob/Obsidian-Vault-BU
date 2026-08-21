@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">734</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1fa07a9e-a3b2-4421-b212-952584c650e0</dc:identifier>
+        <dc:title>Udana: Exclamations</dc:title>
+        <dc:creator opf:file-as="Bhikkhu, Thanissaro" opf:role="aut">Thanissaro Bhikkhu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.9.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-02-05T08:00:00+00:00</dc:date>
+        <dc:description>A translation of the Udana, the book of Exclamations, from the Khuddaka Nikaya of the Pali Canon</dc:description>
+        <dc:publisher>Metta Forest Monastery</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Buddhism</dc:subject>
+        <dc:subject>Buddhist</dc:subject>
+        <dc:subject>Buddha</dc:subject>
+        <dc:subject>Pali</dc:subject>
+        <dc:subject>Pali Canon</dc:subject>
+        <dc:subject>Dhamma</dc:subject>
+        <dc:subject>Dharma</dc:subject>
+        <meta content="{&quot;Thanissaro Bhikkhu&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-01-29T04:31:58.969000+00:00" name="calibre:timestamp"/>
+        <meta content="Udana: Exclamations" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

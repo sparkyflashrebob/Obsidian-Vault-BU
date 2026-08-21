@@ -1,0 +1,37 @@
+# A New Way to Look at Brain Age
+
+![rw-book-cover](https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-01/brain%20pexels-ekaterina-bolovtsova-6193936.jpg?itok=P-d_UBvS)
+
+## Metadata
+- Author: [[Tyler Woods]]
+- Full Title: A New Way to Look at Brain Age
+- Category: #articles
+- URL: https://www.psychologytoday.com/us/blog/fulfillment-at-any-age/202401/a-new-way-to-look-at-brain-age
+
+## Highlights
+- A New Way to Look at Brain Age ([View Highlight](https://read.readwise.io/read/01hm2jsw3ey6x9tpr3sqf4e2dd))
+- New research shows the how-to's for keeping your brain younthful. ([View Highlight](https://read.readwise.io/read/01hm2kfcxjtzemvpdxrfwg6526))
+- Key points
+  • Measures of brain age are becoming the new frontier in quantifying the effect of aging on the body and mind.
+  • New research shows that markers other than simple chronological age can predict important health outcomes.
+  • Keeping your brain age as young as possible can be a matter of taking advantage of simple mental exercise. ([View Highlight](https://read.readwise.io/read/01hm2kfnhzjss1r9qbtf295zz5))
+- Have you ever wondered what your brain’s real “age” might be? You’ve likely heard it said that the brain sheds its cells (neurons) at a dizzying rate, especially as you reach your later years. Obviously, you’d like to hold onto what you have for as long as possible. Perhaps you play daily word and visual puzzles, hoping that these can maintain your brain’s agility, based on your belief in the “use it or lose it” adage.
+  Researchers in the field of aging have long been dissatisfied with the concept of chronological age, seeking substitutes that could provide a better index of an individual’s functioning. You know from your own experience that there are 76-year-olds whose judgment and mental agility far surpass those of their younger counterparts. When it comes to yourself, wouldn’t it be nice to have a solid number that would provide you with some idea not only of how you’re functioning now, but what you might be like as you enter the years ahead? ([View Highlight](https://read.readwise.io/read/01hm2kgjgx0nmg47ghmsbjp1zf))
+- With an arsenal of brain imaging tools at their disposal, neuroscientists are beginning to accumulate evidence that could lead, perhaps soon, to a true brain age measure. Unfortunately, from the standpoint of the average person, access to such measurements is not likely to emerge quite yet. You can’t just put your smartwatch to your head, as you can to your wrist, to provide some readout of your brain’s functioning. However, this doesn’t mean that you have to give up on this idea entirely. ([View Highlight](https://read.readwise.io/read/01hm2khcc1k9k6gye44wjp3m9j))
+- Brain Age and Risk of Disease ([View Highlight](https://read.readwise.io/read/01hm2kjavbzfj1kh098yj2eb8r))
+- Previous studies have shown that a higher brain age is associated with a greater risk for such diseases as stroke, diabetes, and Alzheimer’s. Higher brain age is also related to higher rates of mortality. However, the Zhang et al. study was the first to tackle *multimorbidity,* a more realistic situation in which chronic diseases occur in combination. ([View Highlight](https://read.readwise.io/read/01hm2kj0rjchenmsdghmrd3jhd))
+- The chronic conditions identified in MIDUS represented a range of bodily systems (e.g., asthma, cardiovascular disease, obesity, cancer, and HIV/AIDS) as well as psychological disorders ([depression](https://www.psychologytoday.com/us/basics/depression), [anxiety](https://www.psychologytoday.com/us/basics/anxiety) disorder, [alcohol abuse](https://www.psychologytoday.com/us/basics/alcohol), and drug misuse). For an individual to be labeled as having multimorbidity, they had to have at least 2 of the 13 chronic conditions used in the investigation. Within the study sample, 43% met the criteria for physical disease multimorbidity and 10% for mental health multimorbidity.
+  The findings showed that, as predicted, higher biological age was associated with a greater chance of developing two or more chronic diseases. Higher brain age plus higher biological age predicted greater mental health multimorbidity, and for men, higher brain age was also associated with greater physical multimorbidity. Brain age's impact on daily life, then, can be profound.
+  Reinforcing the importance of brain age vs. chronological age, there were a considerable number of 65- to 70-year-olds whose brain scans were the same as people 40 years and younger. Clearly, some of those older individuals in the sample were doing something right with their brains.
+  Understanding Your Own Brain Age
+  [Neuroscience](https://www.psychologytoday.com/us/basics/neuroscience) Essential Reads
+  [![](https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_75x75/public/teaser_image/blog_entry/2023-12/shutterstock_2122756115.jpg?itok=ztrRKRCE "Tunatura/Shutterstock")](https://www.psychologytoday.com/us/blog/brain-reboot/202312/why-we-faint)
+  [Why People Faint](https://www.psychologytoday.com/us/blog/brain-reboot/202312/why-we-faint)
+  [![](https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_75x75/public/teaser_image/blog_entry/2023-12/basketball.jpg?itok=XKvnc7L2 "Paul Thagard, generated by ChatGPT")](https://www.psychologytoday.com/us/blog/hot-thought/202312/understanding-timing-and-chemistry-in-team-sports)
+  [Understanding Timing and Chemistry in Team Sports](https://www.psychologytoday.com/us/blog/hot-thought/202312/understanding-timing-and-chemistry-in-team-sports)
+  Until a smartwatch is invented that can instantly read your brain's age, there are still useful takeaways from this study that you can apply right now. There was a protective effect of [education](https://www.psychologytoday.com/us/basics/education) on brain age, suggesting that having more knowledge can give you an edge in the race against time within the brain. However, you don't have to go to college to experience this benefit. Research in the field of psychology and aging has demonstrated that even simple cognitive training, such as improving your reasoning skills, can have long-term benefits that help you better manage your daily routines (Rebok et al., 2023). Keep those daily puzzles going, and your brain can stay younger, too.
+  article continues after advertisement
+  if (window.googletag && googletag.apiReady) { googletag.cmd.push(function () { googletag.display('div-gpt-ad-1456244145486-0'); }); }
+  Even better, psychologists are developing tools that would provide behavioral readouts of cognitive (i.e., brain) age. Don’t just *play* those puzzles, see how your score compares to other people, including the statistics that some of these websites provide. Track your progress and see how you improve from day to day.
+  The study also shows that there’s no reason to believe in the fatalistic view that your brain's age will inevitably reflect time's eroding effects. Furthermore, given the interaction between biological and brain age, it seems that what’s healthy for your body should also be healthy for your brain, and hence your outlook on life.
+  **To sum up,** researchers will only continue to forge ahead with new advances in this rapidly growing field. Stay ahead of the curve by doing what you can now to keep your brain as active and youthful as possible. ([View Highlight](https://read.readwise.io/read/01hm2kknh90gd8r2m7cf62pa6p))

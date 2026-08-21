@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e5757b90-68f6-445d-a0b7-6e4271e1eba6</dc:identifier>
+        <dc:title>Tricycle Teachings: Working With Emotions</dc:title>
+        <dc:creator opf:file-as="Working, Tricycle Teachings &amp; Emotions" opf:role="aut">Tricycle Teachings Working</dc:creator>
+        <dc:creator opf:file-as="Working, Tricycle Teachings &amp; Emotions" opf:role="aut">Emotions</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.9.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-02-26T08:00:00+00:00</dc:date>
+        <dc:publisher>Tricycle</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Emotions&quot;: &quot;&quot;, &quot;Tricycle Teachings Working&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-01-29T04:01:26.158000+00:00" name="calibre:timestamp"/>
+        <meta content="Tricycle Teachings: Working With Emotions" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

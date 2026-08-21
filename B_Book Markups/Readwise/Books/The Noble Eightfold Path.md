@@ -1,0 +1,432 @@
+# The Noble Eightfold Path
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/51hjvEXxEvL._SL200_.jpg)
+
+## Metadata
+- Author: [[Bhikkhu Bodhi]]
+- Full Title: The Noble Eightfold Path
+- Category: #books
+
+## Highlights
+- Four Noble Truths ([Location 47](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=47))
+    - Tags: [[pink]] 
+- Noble Eightfold Path. ([Location 47](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=47))
+    - Tags: [[orange]] 
+- doctrine, ([Location 47](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=47))
+    - Tags: [[pink]] 
+- understanding; ([Location 48](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=48))
+    - Tags: [[pink]] 
+- discipline, ([Location 48](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=48))
+    - Tags: [[orange]] 
+- practice. ([Location 48](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=48))
+    - Tags: [[orange]] 
+- these two principles lock together ([Location 49](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=49))
+- Dhamma. ([Location 50](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=50))
+- the truth of the way, is the Noble Eightfold Path, ([Location 50](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=50))
+    - Tags: [[orange]] 
+- first factor of the Noble Eightfold Path, right view, is the understanding of the Four Noble Truths. ([Location 51](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=51))
+    - Tags: [[blue]] 
+- The path claims primacy because it is precisely this that brings the teaching to life. ([Location 55](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=55))
+    - Tags: [[orange]] 
+- The path translates the Dhamma from a collection of abstract formulas into a continually unfolding disclosure of truth. ([Location 55](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=55))
+- outlet ([Location 56](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=56))
+    - Tags: [[orange]] 
+- suffering ([Location 56](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=56))
+    - Tags: [[orange]] 
+- the teaching’s goal, liberation from suffering, accessible to us in our own experience, where alone it takes on authentic meaning. ([Location 57](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=57))
+    - Tags: [[blue]] 
+- practice rather than intellectual knowledge, ([Location 58](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=58))
+    - Tags: [[pink]] 
+- but to apply the path correctly it has to be properly understood. ([Location 59](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=59))
+    - Tags: [[blue]] 
+- right understanding of the path is itself a part of the practice. ([Location 59](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=59))
+- It is a facet of right view, the first path factor, the forerunner and guide for the rest of the path. ([Location 60](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=60))
+    - Tags: [[orange]] 
+- Thus, though initial enthusiasm might suggest that the task of intellectual comprehension may be shelved as a bothersome distraction, mature consideration reveals it to be quite essential to ultimate success in the practice. ([Location 60](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=60))
+    - Tags: [[blue]] 
+- The search for a spiritual path is born out of suffering. ([Location 96](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=96))
+    - Tags: [[orange]] 
+- It does not start with lights and ecstasy, but with the hard tacks of pain, disappointment, and confusion. ([Location 97](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=97))
+    - Tags: [[blue]] 
+- However, for suffering to give birth to a genuine spiritual search, it must amount to more than something passively received from without. ([Location 98](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=98))
+    - Tags: [[pink]] 
+- trigger an inner realization, ([Location 99](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=99))
+    - Tags: [[orange]] 
+- insecurity perpetually gaping underfoot. ([Location 99](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=99))
+    - Tags: [[pink]] 
+- profound personal crisis. ([Location 100](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=100))
+- overturns accustomed goals and values, mocks our routine preoccupations, leaves old enjoyments stubbornly unsatisfying. ([Location 100](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=100))
+    - Tags: [[orange]] 
+- with all escape routes blocked, ([Location 105](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=105))
+    - Tags: [[pink]] 
+- No longer can we continue to drift complacently through life, driven blindly by our hunger for sense pleasures and by the pressure of prevailing social norms. ([Location 106](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=106))
+    - Tags: [[orange]] 
+- pick and choose ([Location 114](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=114))
+    - Tags: [[orange]] 
+- eventually wears thin. ([Location 118](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=118))
+    - Tags: [[pink]] 
+- eclecticism compromises the very traditions it draws upon. ([Location 120](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=120))
+    - Tags: [[pink]] 
+- As spiritual practices are built upon visions regarding the nature of reality and the final good, these visions are not mutually compatible. ([Location 126](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=126))
+- way to the end of suffering. ([Location 134](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=134))
+    - Tags: [[pink]] 
+- complete ([Location 135](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=135))
+    - Tags: [[orange]] 
+- final ([Location 136](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=136))
+    - Tags: [[orange]] 
+- not as a set of doctrines about the origin and end of things commanding belief, but as a message of deliverance from suffering claiming to be verifiable in our own experience. ([Location 163](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=163))
+    - Tags: [[orange]] 
+- “the arouser of the path unarisen before, the producer of the path not produced before, the declarer of the path not declared before, the knower of the path, the seer of the path, the guide along the path” ([Location 167](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=167))
+- This fact of dukkha, the Buddha says, is the only real spiritual problem. ([Location 179](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=179))
+    - Tags: [[pink]] 
+- suffering inherent in the physical process of life itself. ([Location 183](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=183))
+    - Tags: [[orange]] 
+- our inner reactions to disagreeable situations and events: ([Location 185](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=185))
+    - Tags: [[pink]] 
+- Even our pleasures, the Buddha says, are not immune from dukkha. They give us happiness while they last, but they do not last forever; ([Location 186](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=186))
+- Our lives, for the most part, are strung out between the thirst for pleasure and the fear of pain. ([Location 187](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=187))
+    - Tags: [[pink]] 
+- We pass our days running after the one and running away from the other, seldom enjoying the peace of contentment; ([Location 188](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=188))
+    - Tags: [[orange]] 
+- real satisfaction seems somehow always out of reach, just beyond the next horizon. ([Location 189](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=189))
+    - Tags: [[blue]] 
+- Then in the end we have to die: to give up the identity we spent our whole life building, to leave behind everything and everyone we love. ([Location 189](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=189))
+- the “mental continuum,” the individual stream of consciousness, springs up again elsewhere with a new body as its physical support. ([Location 192](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=192))
+    - Tags: [[orange]] 
+- saṁsāra, ([Location 194](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=194))
+    - Tags: [[pink]] 
+- causes. ([Location 202](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=202))
+    - Tags: [[orange]] 
+- “the truth of the origin of dukkha.” ([Location 203](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=203))
+    - Tags: [[orange]] 
+- proclivity to certain unwholesome mental states called in Pāli kilesas, ([Location 205](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=205))
+    - Tags: [[orange]] 
+- “defilements.” ([Location 206](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=206))
+    - Tags: [[orange]] 
+- greed, ([Location 206](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=206))
+- aversion, ([Location 206](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=206))
+- delusion. ([Location 206](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=206))
+- Greed (lobha) is self-centered desire: the desire for pleasure and possessions, the drive for survival, the urge to bolster the sense of ego with power, status, and prestige. ([Location 206](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=206))
+    - Tags: [[orange]] 
+- Aversion (dosa) signifies the response of negation, expressed as rejection, irritation, condemnation, hatred, enmity, anger, and violence. ([Location 208](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=208))
+- Delusion (moha) means mental darkness: the thick coat of insensitivity which blocks out clear understanding. ([Location 209](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=209))
+    - Tags: [[blue]] 
+- eliminate ignorance. ([Location 230](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=230))
+    - Tags: [[orange]] 
+- Since ignorance is a state of not knowing things as they really are, what is needed is knowledge of things as they really are. ([Location 231](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=231))
+    - Tags: [[pink]] 
+- wisdom ([Location 232](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=232))
+    - Tags: [[pink]] 
+- wisdom can be cultivated. It comes into being through a set of conditions, conditions which we have the power to develop. ([Location 237](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=237))
+    - Tags: [[pink]] 
+- mental factors, ([Location 238](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=238))
+    - Tags: [[orange]] 
+- The goal here is the end of suffering, and the path leading to it is the Noble Eightfold Path with its eight factors: right view, right intention, right speech, right action, right livelihood, right effort, right mindfulness, and right concentration. ([Location 239](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=239))
+- middle way ([Location 241](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=241))
+    - Tags: [[orange]] 
+- One is the extreme of indulgence in sense pleasures, ([Location 242](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=242))
+    - Tags: [[orange]] 
+- self-mortification, ([Location 248](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=248))
+    - Tags: [[orange]] 
+- middle way, ([Location 254](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=254))
+    - Tags: [[orange]] 
+- avoiding the errors that each involves. ([Location 255](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=255))
+    - Tags: [[orange]] 
+- futility of desire ([Location 255](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=255))
+    - Tags: [[blue]] 
+- renunciation. ([Location 256](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=256))
+    - Tags: [[blue]] 
+- mental training, ([Location 257](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=257))
+- That is the middle way, the Noble Eightfold Path, which “gives rise to vision, gives rise to knowledge, and leads to peace, to direct knowledge, to enlightenment, to Nibbāna.”3 ([Location 259](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=259))
+    - Tags: [[blue]] 
+- components ([Location 265](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=265))
+    - Tags: [[orange]] 
+- restrain the faculties of action, ([Location 280](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=280))
+- Right view provides the perspective for practice, ([Location 288](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=288))
+    - Tags: [[pink]] 
+- right intention the sense of direction. ([Location 288](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=288))
+    - Tags: [[blue]] 
+- Right view is the forerunner of the entire path, the guide for all the other factors. ([Location 291](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=291))
+- To attempt to engage in the practice without a foundation of right view is to risk getting lost in the futility of undirected movement. ([Location 292](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=292))
+    - Tags: [[orange]] 
+- our perspectives on the crucial issues of reality and value have a bearing that goes beyond mere theoretical convictions. ([Location 297](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=297))
+    - Tags: [[pink]] 
+- attitudes, ([Location 298](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=298))
+    - Tags: [[blue]] 
+- actions, ([Location 298](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=298))
+    - Tags: [[blue]] 
+- orientation ([Location 299](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=299))
+- These views then condition action. ([Location 302](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=302))
+    - Tags: [[pink]] 
+- right ([Location 305](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=305))
+    - Tags: [[orange]] 
+- wrong ([Location 305](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=305))
+    - Tags: [[orange]] 
+- wrong view, even if that view is vague, it will lead us towards courses of action that eventuate in suffering. ([Location 307](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=307))
+    - Tags: [[pink]] 
+- right view, that view will steer us towards right action, and thereby towards freedom from suffering. ([Location 308](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=308))
+    - Tags: [[orange]] 
+- right view involves a correct understanding of the entire Dhamma ([Location 313](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=313))
+- mundane right view, ([Location 315](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=315))
+    - Tags: [[orange]] 
+- right view which operates within the confines of the world. ([Location 315](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=315))
+    - Tags: [[orange]] 
+- supramundane right view, ([Location 315](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=315))
+- the superior right view which leads to liberation from the world. ([Location 315](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=315))
+- the laws governing material and spiritual progress within the round of becoming, with the principles that lead to higher and lower states of existence, to mundane happiness and suffering. ([Location 316](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=316))
+    - Tags: [[pink]] 
+- The second is concerned with the principles essential to liberation. It does not aim merely at spiritual progress from life ([Location 317](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=317))
+    - Tags: [[blue]] 
+- to life, but at emancipation from the cycle of recurring lives and deaths. ([Location 318](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=318))
+    - Tags: [[pink]] 
+- “Beings are the owners of their actions, the heirs of their actions; they spring from their actions, are bound to their actions, and are supported by their actions. Whatever deeds they do, good or bad, of those they shall be heirs.”2 ([Location 322](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=322))
+    - Tags: [[orange]] 
+- mind.”4The identification of kamma with volition makes kamma essentially a mental event, a factor originating in the mind which seeks to actualize the mind’s drives, dispositions, and purposes. ([Location 332](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=332))
+- This superior right view leading to liberation is the understanding of the Four Noble Truths. ([Location 406](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=406))
+    - Tags: [[orange]] 
+- “right thought,” ([Location 465](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=465))
+    - Tags: [[orange]] 
+- purposive or conative aspect of mental activity, ([Location 466](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=466))
+    - Tags: [[pink]] 
+- cognitive aspect being covered by the first factor, right view. ([Location 467](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=467))
+    - Tags: [[blue]] 
+- Buddhism, with its non-theistic framework, grounds its ethics, not on the notion of obedience, but on that of harmony. ([Location 687](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=687))
+- The observance of Sīla leads to harmony at several levels—social, psychological, kammic, and contemplative. ([Location 689](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=689))
+    - Tags: [[orange]] 
+- Right concentration brings the requisite stillness to the mind by unifying it with undistracted focus on a suitable object. To do so, however, the factor of concentration needs the aid of effort and mindfulness. ([Location 930](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=930))
+    - Tags: [[pink]] 
+- The exertion involved in right effort is a wholesome form of energy, but it is something more specific, namely, the energy in wholesome states of consciousness directed to liberation from suffering. This last qualifying phrase is especially important. For wholesome energy to become a contributor to the path it has to be guided by right view and right intention, and to work in association with the other path factors. Otherwise, as the energy in ordinary wholesome states of mind, it merely engenders an accumulation of merit that ripens within the round of birth and death; it does not issue in liberation from the round. ([Location 944](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=944))
+- effort, ([Location 949](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=949))
+    - Tags: [[orange]] 
+- diligence, ([Location 949](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=949))
+    - Tags: [[orange]] 
+- exertion, ([Location 949](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=949))
+    - Tags: [[orange]] 
+- unflagging perseverance. ([Location 949](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=949))
+    - Tags: [[orange]] 
+- each person has to work out his or her own deliverance. ([Location 949](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=949))
+    - Tags: [[pink]] 
+- The Buddha does what he can by pointing out the path to liberation; the rest involves putting the path into practice, a task that demands energy. ([Location 950](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=950))
+- But with the practice of mindfulness awareness is applied at a special pitch. The mind is deliberately kept at the level of bare attention, a detached observation of what is happening within us and around us in the present moment. ([Location 1125](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=1125))
+    - Tags: [[blue]] 
+- In the practice of right mindfulness the mind is trained to remain in the present, open, quiet, and alert, contemplating the present event. ([Location 1126](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=1126))
+    - Tags: [[orange]] 
+- All judgements and interpretations have to be suspended, or if they occur, just registered and dropped. ([Location 1127](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=1127))
+    - Tags: [[pink]] 
+- The task is simply to note whatever comes up just as it is occurring, riding the changes of events in the way a surfer rides the waves on the sea. ([Location 1128](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=1128))
+# The Noble Eightfold Path
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/51hjvEXxEvL._SL200_.jpg)
+
+## Metadata
+- Author: [[Bhikkhu Bodhi]]
+- Full Title: The Noble Eightfold Path
+- Category: #books
+
+## Highlights
+- Four Noble Truths ([Location 47](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=47))
+    - Tags: [[pink]] 
+- Noble Eightfold Path. ([Location 47](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=47))
+    - Tags: [[orange]] 
+- doctrine, ([Location 47](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=47))
+    - Tags: [[pink]] 
+- understanding; ([Location 48](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=48))
+    - Tags: [[pink]] 
+- discipline, ([Location 48](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=48))
+    - Tags: [[orange]] 
+- practice. ([Location 48](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=48))
+    - Tags: [[orange]] 
+- these two principles lock together ([Location 49](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=49))
+- Dhamma. ([Location 50](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=50))
+- the truth of the way, is the Noble Eightfold Path, ([Location 50](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=50))
+    - Tags: [[orange]] 
+- first factor of the Noble Eightfold Path, right view, is the understanding of the Four Noble Truths. ([Location 51](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=51))
+    - Tags: [[blue]] 
+- The path claims primacy because it is precisely this that brings the teaching to life. ([Location 55](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=55))
+    - Tags: [[orange]] 
+- The path translates the Dhamma from a collection of abstract formulas into a continually unfolding disclosure of truth. ([Location 55](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=55))
+- outlet ([Location 56](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=56))
+    - Tags: [[orange]] 
+- suffering ([Location 56](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=56))
+    - Tags: [[orange]] 
+- the teaching’s goal, liberation from suffering, accessible to us in our own experience, where alone it takes on authentic meaning. ([Location 57](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=57))
+    - Tags: [[blue]] 
+- practice rather than intellectual knowledge, ([Location 58](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=58))
+    - Tags: [[pink]] 
+- but to apply the path correctly it has to be properly understood. ([Location 59](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=59))
+    - Tags: [[blue]] 
+- right understanding of the path is itself a part of the practice. ([Location 59](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=59))
+- It is a facet of right view, the first path factor, the forerunner and guide for the rest of the path. ([Location 60](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=60))
+    - Tags: [[orange]] 
+- Thus, though initial enthusiasm might suggest that the task of intellectual comprehension may be shelved as a bothersome distraction, mature consideration reveals it to be quite essential to ultimate success in the practice. ([Location 60](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=60))
+    - Tags: [[blue]] 
+- The search for a spiritual path is born out of suffering. ([Location 96](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=96))
+    - Tags: [[orange]] 
+- It does not start with lights and ecstasy, but with the hard tacks of pain, disappointment, and confusion. ([Location 97](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=97))
+    - Tags: [[blue]] 
+- However, for suffering to give birth to a genuine spiritual search, it must amount to more than something passively received from without. ([Location 98](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=98))
+    - Tags: [[pink]] 
+- trigger an inner realization, ([Location 99](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=99))
+    - Tags: [[orange]] 
+- insecurity perpetually gaping underfoot. ([Location 99](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=99))
+    - Tags: [[pink]] 
+- profound personal crisis. ([Location 100](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=100))
+- overturns accustomed goals and values, mocks our routine preoccupations, leaves old enjoyments stubbornly unsatisfying. ([Location 100](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=100))
+    - Tags: [[orange]] 
+- with all escape routes blocked, ([Location 105](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=105))
+    - Tags: [[pink]] 
+- No longer can we continue to drift complacently through life, driven blindly by our hunger for sense pleasures and by the pressure of prevailing social norms. ([Location 106](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=106))
+    - Tags: [[orange]] 
+- pick and choose ([Location 114](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=114))
+    - Tags: [[orange]] 
+- eventually wears thin. ([Location 118](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=118))
+    - Tags: [[pink]] 
+- eclecticism compromises the very traditions it draws upon. ([Location 120](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=120))
+    - Tags: [[pink]] 
+- As spiritual practices are built upon visions regarding the nature of reality and the final good, these visions are not mutually compatible. ([Location 126](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=126))
+- way to the end of suffering. ([Location 134](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=134))
+    - Tags: [[pink]] 
+- complete ([Location 135](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=135))
+    - Tags: [[orange]] 
+- final ([Location 136](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=136))
+    - Tags: [[orange]] 
+- not as a set of doctrines about the origin and end of things commanding belief, but as a message of deliverance from suffering claiming to be verifiable in our own experience. ([Location 163](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=163))
+    - Tags: [[orange]] 
+- “the arouser of the path unarisen before, the producer of the path not produced before, the declarer of the path not declared before, the knower of the path, the seer of the path, the guide along the path” ([Location 167](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=167))
+- This fact of dukkha, the Buddha says, is the only real spiritual problem. ([Location 179](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=179))
+    - Tags: [[pink]] 
+- suffering inherent in the physical process of life itself. ([Location 183](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=183))
+    - Tags: [[orange]] 
+- our inner reactions to disagreeable situations and events: ([Location 185](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=185))
+    - Tags: [[pink]] 
+- Even our pleasures, the Buddha says, are not immune from dukkha. They give us happiness while they last, but they do not last forever; ([Location 186](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=186))
+- Our lives, for the most part, are strung out between the thirst for pleasure and the fear of pain. ([Location 187](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=187))
+    - Tags: [[pink]] 
+- We pass our days running after the one and running away from the other, seldom enjoying the peace of contentment; ([Location 188](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=188))
+    - Tags: [[orange]] 
+- real satisfaction seems somehow always out of reach, just beyond the next horizon. ([Location 189](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=189))
+    - Tags: [[blue]] 
+- Then in the end we have to die: to give up the identity we spent our whole life building, to leave behind everything and everyone we love. ([Location 189](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=189))
+- the “mental continuum,” the individual stream of consciousness, springs up again elsewhere with a new body as its physical support. ([Location 192](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=192))
+    - Tags: [[orange]] 
+- saṁsāra, ([Location 194](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=194))
+    - Tags: [[pink]] 
+- causes. ([Location 202](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=202))
+    - Tags: [[orange]] 
+- “the truth of the origin of dukkha.” ([Location 203](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=203))
+    - Tags: [[orange]] 
+- proclivity to certain unwholesome mental states called in Pāli kilesas, ([Location 205](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=205))
+    - Tags: [[orange]] 
+- “defilements.” ([Location 206](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=206))
+    - Tags: [[orange]] 
+- greed, ([Location 206](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=206))
+- aversion, ([Location 206](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=206))
+- delusion. ([Location 206](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=206))
+- Greed (lobha) is self-centered desire: the desire for pleasure and possessions, the drive for survival, the urge to bolster the sense of ego with power, status, and prestige. ([Location 206](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=206))
+    - Tags: [[orange]] 
+- Aversion (dosa) signifies the response of negation, expressed as rejection, irritation, condemnation, hatred, enmity, anger, and violence. ([Location 208](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=208))
+- Delusion (moha) means mental darkness: the thick coat of insensitivity which blocks out clear understanding. ([Location 209](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=209))
+    - Tags: [[blue]] 
+- eliminate ignorance. ([Location 230](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=230))
+    - Tags: [[orange]] 
+- Since ignorance is a state of not knowing things as they really are, what is needed is knowledge of things as they really are. ([Location 231](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=231))
+    - Tags: [[pink]] 
+- wisdom ([Location 232](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=232))
+    - Tags: [[pink]] 
+- wisdom can be cultivated. It comes into being through a set of conditions, conditions which we have the power to develop. ([Location 237](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=237))
+    - Tags: [[pink]] 
+- mental factors, ([Location 238](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=238))
+    - Tags: [[orange]] 
+- The goal here is the end of suffering, and the path leading to it is the Noble Eightfold Path with its eight factors: right view, right intention, right speech, right action, right livelihood, right effort, right mindfulness, and right concentration. ([Location 239](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=239))
+- middle way ([Location 241](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=241))
+    - Tags: [[orange]] 
+- One is the extreme of indulgence in sense pleasures, ([Location 242](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=242))
+    - Tags: [[orange]] 
+- self-mortification, ([Location 248](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=248))
+    - Tags: [[orange]] 
+- middle way, ([Location 254](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=254))
+    - Tags: [[orange]] 
+- avoiding the errors that each involves. ([Location 255](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=255))
+    - Tags: [[orange]] 
+- futility of desire ([Location 255](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=255))
+    - Tags: [[blue]] 
+- renunciation. ([Location 256](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=256))
+    - Tags: [[blue]] 
+- mental training, ([Location 257](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=257))
+- That is the middle way, the Noble Eightfold Path, which “gives rise to vision, gives rise to knowledge, and leads to peace, to direct knowledge, to enlightenment, to Nibbāna.”3 ([Location 259](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=259))
+    - Tags: [[blue]] 
+- components ([Location 265](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=265))
+    - Tags: [[orange]] 
+- restrain the faculties of action, ([Location 280](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=280))
+- Right view provides the perspective for practice, ([Location 288](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=288))
+    - Tags: [[pink]] 
+- right intention the sense of direction. ([Location 288](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=288))
+    - Tags: [[blue]] 
+- Right view is the forerunner of the entire path, the guide for all the other factors. ([Location 291](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=291))
+- To attempt to engage in the practice without a foundation of right view is to risk getting lost in the futility of undirected movement. ([Location 292](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=292))
+    - Tags: [[orange]] 
+- our perspectives on the crucial issues of reality and value have a bearing that goes beyond mere theoretical convictions. ([Location 297](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=297))
+    - Tags: [[pink]] 
+- attitudes, ([Location 298](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=298))
+    - Tags: [[blue]] 
+- actions, ([Location 298](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=298))
+    - Tags: [[blue]] 
+- orientation ([Location 299](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=299))
+- These views then condition action. ([Location 302](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=302))
+    - Tags: [[pink]] 
+- right ([Location 305](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=305))
+    - Tags: [[orange]] 
+- wrong ([Location 305](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=305))
+    - Tags: [[orange]] 
+- wrong view, even if that view is vague, it will lead us towards courses of action that eventuate in suffering. ([Location 307](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=307))
+    - Tags: [[pink]] 
+- right view, that view will steer us towards right action, and thereby towards freedom from suffering. ([Location 308](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=308))
+    - Tags: [[orange]] 
+- right view involves a correct understanding of the entire Dhamma ([Location 313](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=313))
+- mundane right view, ([Location 315](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=315))
+    - Tags: [[orange]] 
+- right view which operates within the confines of the world. ([Location 315](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=315))
+    - Tags: [[orange]] 
+- supramundane right view, ([Location 315](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=315))
+- the superior right view which leads to liberation from the world. ([Location 315](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=315))
+- the laws governing material and spiritual progress within the round of becoming, with the principles that lead to higher and lower states of existence, to mundane happiness and suffering. ([Location 316](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=316))
+    - Tags: [[pink]] 
+- The second is concerned with the principles essential to liberation. It does not aim merely at spiritual progress from life ([Location 317](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=317))
+    - Tags: [[blue]] 
+- to life, but at emancipation from the cycle of recurring lives and deaths. ([Location 318](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=318))
+    - Tags: [[pink]] 
+- “Beings are the owners of their actions, the heirs of their actions; they spring from their actions, are bound to their actions, and are supported by their actions. Whatever deeds they do, good or bad, of those they shall be heirs.”2 ([Location 322](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=322))
+    - Tags: [[orange]] 
+- mind.”4The identification of kamma with volition makes kamma essentially a mental event, a factor originating in the mind which seeks to actualize the mind’s drives, dispositions, and purposes. ([Location 332](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=332))
+- This superior right view leading to liberation is the understanding of the Four Noble Truths. ([Location 406](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=406))
+    - Tags: [[orange]] 
+- “right thought,” ([Location 465](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=465))
+    - Tags: [[orange]] 
+- purposive or conative aspect of mental activity, ([Location 466](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=466))
+    - Tags: [[pink]] 
+- cognitive aspect being covered by the first factor, right view. ([Location 467](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=467))
+    - Tags: [[blue]] 
+- Buddhism, with its non-theistic framework, grounds its ethics, not on the notion of obedience, but on that of harmony. ([Location 687](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=687))
+- The observance of Sīla leads to harmony at several levels—social, psychological, kammic, and contemplative. ([Location 689](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=689))
+    - Tags: [[orange]] 
+- Right concentration brings the requisite stillness to the mind by unifying it with undistracted focus on a suitable object. To do so, however, the factor of concentration needs the aid of effort and mindfulness. ([Location 930](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=930))
+    - Tags: [[pink]] 
+- The exertion involved in right effort is a wholesome form of energy, but it is something more specific, namely, the energy in wholesome states of consciousness directed to liberation from suffering. This last qualifying phrase is especially important. For wholesome energy to become a contributor to the path it has to be guided by right view and right intention, and to work in association with the other path factors. Otherwise, as the energy in ordinary wholesome states of mind, it merely engenders an accumulation of merit that ripens within the round of birth and death; it does not issue in liberation from the round. ([Location 944](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=944))
+- effort, ([Location 949](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=949))
+    - Tags: [[orange]] 
+- diligence, ([Location 949](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=949))
+    - Tags: [[orange]] 
+- exertion, ([Location 949](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=949))
+    - Tags: [[orange]] 
+- unflagging perseverance. ([Location 949](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=949))
+    - Tags: [[orange]] 
+- each person has to work out his or her own deliverance. ([Location 949](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=949))
+    - Tags: [[pink]] 
+- The Buddha does what he can by pointing out the path to liberation; the rest involves putting the path into practice, a task that demands energy. ([Location 950](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=950))
+- But with the practice of mindfulness awareness is applied at a special pitch. The mind is deliberately kept at the level of bare attention, a detached observation of what is happening within us and around us in the present moment. ([Location 1125](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=1125))
+    - Tags: [[blue]] 
+- In the practice of right mindfulness the mind is trained to remain in the present, open, quiet, and alert, contemplating the present event. ([Location 1126](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=1126))
+    - Tags: [[orange]] 
+- All judgements and interpretations have to be suspended, or if they occur, just registered and dropped. ([Location 1127](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=1127))
+    - Tags: [[pink]] 
+- The task is simply to note whatever comes up just as it is occurring, riding the changes of events in the way a surfer rides the waves on the sea. ([Location 1128](https://readwise.io/to_kindle?action=open&asin=B007626M3E&location=1128))

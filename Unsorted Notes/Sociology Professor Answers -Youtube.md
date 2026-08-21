@@ -1,0 +1,2 @@
+T social D class 119 answers. Any questions where he talks about one lady? I think the second question that basically talks about karma. Everything good, something bad comes from it. Everything bad. Something good comes from it, not exactly karma but related. And then the next question from the student about a hint on what they should kind of do, he tells the guy. Oh, you should meditate on my last answer because if you get that, then things are running a lot smoother for you.
+

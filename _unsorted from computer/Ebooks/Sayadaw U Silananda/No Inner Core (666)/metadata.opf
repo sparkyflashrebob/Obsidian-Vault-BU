@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">666</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8840409d-02e9-4049-92d4-03aeb4ca6ddb</dc:identifier>
+        <dc:title>No Inner Core</dc:title>
+        <dc:creator opf:file-as="Silananda, Sayadaw U" opf:role="aut">Sayadaw U Silananda</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.9.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-04-07T19:05:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <dc:subject>An Introduction to the Doctrine of Anatta</dc:subject>
+        <meta content="{&quot;Sayadaw U Silananda&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-01-29T04:31:32.614000+00:00" name="calibre:timestamp"/>
+        <meta content="No Inner Core" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

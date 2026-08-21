@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">802</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fc243cce-0813-4559-b2be-80ed1c9d81a5</dc:identifier>
+        <dc:title>In the Year 2889</dc:title>
+        <dc:creator opf:file-as="Verne, Jules" opf:role="aut">Jules Verne</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.9.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1889-01-15T08:00:00+00:00</dc:date>
+        <dc:description>In the Year 2889 was first published in the Forum, February, 1889. It was published in France the next year. Although published under the name of Jules Verne, it is now believed to be chiefly if not entirely the work of Jules Verne's son, Michel Verne. In any event, many of the topics in the article echo Jules Verne's ideas.</dc:description>
+        <dc:publisher>Feedbooks (http://www.feedbooks.com)</dc:publisher>
+        <dc:identifier opf:scheme="URI">http://www.feedbooks.com/book/477</dc:identifier>
+        <dc:identifier opf:scheme="URN">urn:uuid:7009227e-5a0f-11df-a012-001cc0a62c0b</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Short Fiction</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <meta content="{&quot;Jules Verne&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-01-29T04:32:34.654000+00:00" name="calibre:timestamp"/>
+        <meta content="In the Year 2889" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

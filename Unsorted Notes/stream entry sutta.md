@@ -1,0 +1,1 @@
+https://suttacentral.net/an10.52/en/sujato?lang=en&layout=plain&reference=none&notes=asterisk&highlight=false&script=latin

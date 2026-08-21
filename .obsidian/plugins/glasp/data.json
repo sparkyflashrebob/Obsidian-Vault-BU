@@ -1,0 +1,23 @@
+{
+  "accessToken": "gt-quJZEvEkWu813Fx32qIcbR1w0eM74Zns-xGcCvIgW5gQM_AqzH",
+  "folder": "_A_My Research",
+  "kindleFolder": "B_Book Markups/Kindle Book Notes",
+  "summaryFolder": "_A_My Research",
+  "bookmarkFolder": "B_Book Markups",
+  "template": "",
+  "kindleTemplate": "",
+  "summaryTemplate": "",
+  "bookmarkTemplate": "",
+  "summaryIncludeContent": false,
+  "lastUpdated": "2026-08-20T23:33:48.830Z",
+  "kindleLastUpdated": "",
+  "summaryLastUpdated": "2026-08-20T23:33:53.554Z",
+  "bookmarkLastUpdated": "2026-08-20T23:33:53.874Z",
+  "updateFrequency": "1440",
+  "basesCreated": {
+    "Glasp Web Highlights.base": "_A_My Research",
+    "Glasp Kindle Highlights.base": "B_Book Markups/Kindle Book Notes",
+    "Glasp Summaries.base": "_A_My Research",
+    "Glasp Bookmarks.base": "B_Book Markups"
+  }
+}

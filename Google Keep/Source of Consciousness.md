@@ -1,0 +1,6 @@
+
+I thought of you when I read this quote from "The Four Noble Truths" by His Holiness the Dalai Lama -
+
+"As we discussed earlier, the fact that consciousness exists is a natural fact. Consciousness exists; that is it. Similarly, the continuum of consciousness is also a natural principle: consciousness maintains its continuity. To this we must add that in Buddhism, there is an understanding that consciousness cannot arise from nowhere or without a cause; and, at the same time, that consciousness cannot be produced from matter. This is not to say that matter cannot affect consciousness. However, the nature of consciousness is sheer luminosity, mere experience; it is the primordial knowing faculty, and therefore it cannot be produced from matter whose nature is different. It follows that since consciousness cannot arise without a cause, and since it cannot arise from a material cause, it must come from a ceaseless continuum. It is on this premise that Buddhism accepts the existence of (beginningless) former lives.4"
+
+Start reading this book for free: http://a.co/geJGDdc

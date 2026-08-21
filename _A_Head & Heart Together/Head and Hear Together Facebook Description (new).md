@@ -1,0 +1,2 @@
+Head and Heart Together is a blog-focused community exploring spirituality and the realities of modern existence. We share practical mindfulness tools alongside candid opinions on the current state of the world, the environment, and science—offering a space to navigate daily life with wisdom and resilience.
+For General Posts please see our Group Page.

@@ -1,0 +1,16 @@
+filters:
+  and:
+    - 'file.inFolder("B_Book Markups")'
+    - 'file.ext == "md"'
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - note.Domain
+      - note.Category
+      - note.Created
+      - note.Updated
+  - type: cards
+    name: Cards
+    image: note.Thumbnail

@@ -1,0 +1,1 @@
+https://www.psychologytoday.com/us/blog/fulfillment-at-any-age/202403/the-7-dos-and-donts-for-becoming-a-wise-person

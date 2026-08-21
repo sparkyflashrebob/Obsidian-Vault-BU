@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">871</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">463f7446-fcca-4593-8fa9-521a258ffc1c</dc:identifier>
+        <dc:title>avatamsaka_sutra_english</dc:title>
+        <dc:creator opf:file-as="MeiLing" opf:role="aut">MeiLing</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.9.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-02-11T10:23:24+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;MeiLing&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-01-29T04:33:25.618000+00:00" name="calibre:timestamp"/>
+        <meta content="avatamsaka_sutra_english" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

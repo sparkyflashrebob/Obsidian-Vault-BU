@@ -1,0 +1,7 @@
+---
+tags:
+  - quotes
+  - mindfulness
+---
+
+The art of living is neither careless drifting on the one hand nor fearful clinging on the other. It consists in being sensitive to each moment, in regarding it as utterly new and unique, in having the mind open and wholly receptive. —Alan Watts

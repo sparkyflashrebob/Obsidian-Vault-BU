@@ -1,0 +1,178 @@
+# Fully Present
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/41%2BMkr%2B7wQL._SL200_.jpg)
+
+## Metadata
+- Author: [[Diana Winston and Susan L. Smalley PhD]]
+- Full Title: Fully Present
+- Category: #books
+
+## Highlights
+- how many of us actually know how to examine our life as it unfolds and how to examine it skillfully? ([Location 110](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=110))
+    - Tags: [[orange]] 
+- we live in an age of increasing anxiety and increasing doubt in our capacity to make decisions and to effect change, whether in our bodies, our lives, or the world around us. Feelings of fear, frustration, stress, and confusion seem to be on the rise globally, and the elevated rates of psychiatric illness among adults and children worldwide probably reflect this rising distress. ([Location 112](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=112))
+    - Tags: [[orange]] 
+- In the midst of our techno-savvy yet anxiety-producing culture, scientific investigation has become increasingly interested in the ancient practice of mindfulness as an antidote of sorts to the ills of the modern world and as a tool for skillfully examining our lives. Extracted from the religious settings in which it was developed,… ([Location 115](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=115))
+    - Tags: [[orange]] 
+- Mindfulness may be thought of as a state of consciousness, one characterized by attention to present experience… ([Location 121](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=121))
+    - Tags: [[pink]] 
+- It is a quality of attention that can be brought to any experience. Mindfulness can be cultivated through explicit practices, such as meditation or yoga or t’ai chi, or even through creative processes in the arts or walking in nature. Mindfulness can also be… ([Location 121](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=121))
+- Meditation can be considered a general term covering a wide range of practices that affect your awareness or utilize contemplation in the service of self-discovery. There are hundreds of kinds of meditation practices, including relaxation, concentration, visualization, and forms of religious chanting and prayer; a large subset of these practices, such as mindfulness meditation, Zen Buddhist meditation, and Transcendental Meditation,… ([Location 125](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=125))
+- While these forms of meditation may differ in how they affect your awareness, all of them are various means of enhancing or, as some would say, “expanding”… ([Location 129](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=129))
+- While mindfulness meditation as a MAP is generally seen as being rooted in the 2,500-year-old Buddhist tradition, variants are evident in the practices of the ancient Greeks, Taoists, Native Americans, various religious traditions, and… ([Location 133](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=133))
+    - Tags: [[blue]] 
+- The research exploring mindfulness, although still relatively new, is demonstrating that repeated practice can lead to changes in our lives, including: • Reducing stress • Reducing chronic physical pain • Boosting the body’s immune system to fight disease • Coping with painful life events, such as the death of a loved one or major illness • Dealing with negative emotions like anger, fear, and… ([Location 136](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=136))
+    - Tags: [[orange]] 
+- Improving attention or concentration • Enhancing positive emotions, including happiness and compassion • Increasing interpersonal skills and relationships • Reducing addictive behaviors, such as eating disorders, alcoholism, and smoking • Enhancing performance, whether in work, sports, or academics • Stimulating… ([Location 142](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=142))
+    - Tags: [[orange]] 
+- although mindfulness does not remove the ups and downs of life, it changes how experiences like losing a job, getting a divorce, struggling at home or at school, births, marriages, illnesses, death and dying influence you and how you influence the experience. In other words, mindfulness changes your relationship to life. Learning to live mindfully does not mean living in a “perfect” world,… ([Location 149](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=149))
+    - Tags: [[pink]] 
+- this book is also about our individual differences—both in our genes and in the environments that shape us—and how these differences affect… ([Location 154](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=154))
+- Mindfulness meditation is itself a tool for discovering more about ourselves and how we… ([Location 155](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=155))
+    - Tags: [[blue]] 
+- This inward investigation, using the tool of mindfulness meditation, may help us understand more about ourselves from a first-person viewpoint just as science has done… ([Location 156](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=156))
+    - Tags: [[blue]] 
+- MARC is dedicated to increasing mindful awareness through education and research to promote individual… ([Location 161](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=161))
+- Although I appeared happy, ([Location 175](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=175))
+    - Tags: [[orange]] 
+- material reductionism—the idea that everything is explicable through a material lens—as a given, and I had no tolerance for others who felt differently. ([Location 176](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=176))
+- a big chip on my shoulder over the burden I needed to carry. ([Location 179](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=179))
+    - Tags: [[pink]] 
+- feelings of apathy and anger, ([Location 183](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=183))
+    - Tags: [[blue]] 
+- I had begun therapy several years before and was slowly breaking down the external (and internal) barriers I had created for myself. I believe that this intense work to let go of the past and build a strong sense of self had laid the foundation for my mystical experience. ([Location 183](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=183))
+    - Tags: [[blue]] 
+- brush with death—a ([Location 186](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=186))
+    - Tags: [[pink]] 
+- early-stage melanoma—and ([Location 186](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=186))
+    - Tags: [[pink]] 
+- Just prior to it, I had radically changed my behavior, convinced that change was necessary to save my life. I reasoned that my Western lifestyle was making me sick and that, if I chose a different route entirely, I might get well. ([Location 186](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=186))
+    - Tags: [[pink]] 
+- “self-transcendence” ([Location 190](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=190))
+    - Tags: [[orange]] 
+- let go of my “self ” and became part of a large, interdependent network, a deep interconnectedness of all things past, present, and future in which I knew the illusive nature of self, space, and time. While still functioning as a professor, wife, and mother, I nevertheless felt as though I had moved to a different dimension. Interestingly, the negative emotions I knew so well—anger, fear, greed, and envy—disappeared, and I felt only love, compassion, and kindness. After all, this experience showed me, if we are all interconnected and part of a whole, to hurt others would be to intentionally hurt myself. ([Location 190](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=190))
+    - Tags: [[blue]] 
+- As Einstein noted, “The intuitive mind is a sacred gift, the rational mind is a faithful servant; we have created a society that honors the servant and has forgotten the gift.” ([Location 203](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=203))
+    - Tags: [[orange]] 
+- It was the inner investigative journey that allowed my mystical experience to arise, but it is the day-to-day “living in awareness” that has enabled me to make sense of it. ([Location 204](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=204))
+    - Tags: [[pink]] 
+- letting go of conditioned habits and views ([Location 206](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=206))
+    - Tags: [[orange]] 
+## New highlights added January 3, 2024 at 3:57 PM
+- newfound creativity. ([Location 206](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=206))
+    - Tags: [[orange]] 
+- “heart” ([Location 212](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=212))
+    - Tags: [[orange]] 
+- systems of knowing—the external system of science (reason) and the internal process of discovery (what Einstein called intuition). ([Location 214](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=214))
+    - Tags: [[orange]] 
+- What causes suffering? ([Location 220](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=220))
+    - Tags: [[orange]] 
+- well-being? ([Location 221](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=221))
+    - Tags: [[orange]] 
+- Deep below the surface waves—the drama, my identity, frustrations, and self-hatred—lay a vast calming sense that I was okay, that a still, clear, peaceful mind was available to me, that I could find happiness. ([Location 226](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=226))
+    - Tags: [[pink]] 
+## New highlights added January 11, 2024 at 12:47 PM
+- This happiness was not the typical pleasure that comes from material success or acquisition, but a deep happiness from way down inside me that was not dependent on outside conditions. ([Location 227](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=227))
+    - Tags: [[orange]] 
+- vipassana ([Location 229](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=229))
+    - Tags: [[pink]] 
+- “mindfulness,” ([Location 230](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=230))
+    - Tags: [[blue]] 
+- this practice would become a doorway to peace, compassion, ease, and well-being. It would be the way in which I learned to trust myself, to gain access to my own inner wisdom, and to get to know myself deeply; ultimately it became the ground from which I understand and operate in the world. ([Location 230](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=230))
+- how to find my own voice ([Location 240](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=240))
+    - Tags: [[orange]] 
+- Buddhist Alliance for Social Engagement. ([Location 243](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=243))
+    - Tags: [[orange]] 
+- mindfulness and ADHD. ([Location 246](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=246))
+    - Tags: [[orange]] 
+- chronic pain ([Location 250](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=250))
+    - Tags: [[orange]] 
+- secularized mindfulness. ([Location 251](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=251))
+    - Tags: [[blue]] 
+## New highlights added January 24, 2024 at 8:29 AM
+- As Henry David Thoreau wrote in Walden: Direct your eye right inward, and you’ll find A thousand regions in your mind Yet undiscovered. Travel them, and be Expert in home-cosmography. ([Location 275](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=275))
+    - Tags: [[orange]] 
+- Home-cosmography—the inner universe of your mind—is ([Location 278](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=278))
+- Lao-Tzu, a Taoist master, wrote: “A good traveler has no fixed plans and is not intent on arriving.” ([Location 283](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=283))
+    - Tags: [[blue]] 
+- “Well,” said Pooh, “what I like best,” and then he had to stop and think. Because although Eating Honey was a very good thing to do, there was a moment just before you began to eat it which was better than when you were, but he didn’t know what it was called. —A. A. MILNE, THE HOUSE ON POOH CORNER ([Location 287](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=287))
+    - Tags: [[pink]] 
+- What is the seat belt to protect against unhappiness, depression, anxiety, pain, and suffering? ([Location 293](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=293))
+    - Tags: [[orange]] 
+- Merriam-Webster’s Dictionary defines “mindful” as “inclined to be aware,” and “awareness” as “vigilance in observing what one experiences.” Synonyms for “awareness” include “awake,” “watchful,” “wary,” “cognizant,” and “conscious.” So mindful awareness (a synonym for mindfulness) means to be “aware of awareness,” an idea that implies an awareness of self and a capacity to reflect, a definition closely associated with self-consciousness.1 An expert mindfulness teacher, Henepola Gunaratana, describes mindfulness as follows: “When you first become aware of something, there is a fleeting instant of pure awareness just before you identify it . . . before you start thinking about it . . . before your mind says, ‘Oh, it’s a dog.’ . . . That flowing soft-focused moment of pure awareness is mindfulness.”2 ([Location 296](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=296))
+    - Tags: [[orange]] 
+- To “practice mindfulness” is to exercise or work on honing this state of mind. ([Location 303](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=303))
+    - Tags: [[orange]] 
+- consciousness is pretty elusive and difficult to define scientifically, and it changes all the time. ([Location 305](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=305))
+    - Tags: [[orange]] 
+- We think we know something one day only to discover that what we thought we knew was not quite right. We constantly “wake up” to knowledge, shifting from ignorance to awareness. What we are conscious of changes constantly. ([Location 305](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=305))
+    - Tags: [[orange]] 
+- Science is a methodology that uses third-person observation, by which we mean ([Location 319](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=319))
+    - Tags: [[orange]] 
+- that it is an objective process that yields comparable knowledge no matter who does it. ([Location 319](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=319))
+    - Tags: [[orange]] 
+- In contrast, mindfulness is a first-person, or subjective, methodology, the observation of which is quite challenging. ([Location 320](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=320))
+    - Tags: [[pink]] 
+- Scientists can describe the chemical composition of an apple, its color, texture, and taste, but no description matches the experience of biting into an apple. ([Location 325](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=325))
+    - Tags: [[pink]] 
+- When we name mindfulness and measure it using the tools of science, we may want to remember that the name and the experience are not the same. ([Location 326](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=326))
+    - Tags: [[blue]] 
+- Mindfulness is like the Indian proverb about the six blind men trying to describe an elephant: ([Location 329](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=329))
+    - Tags: [[blue]] 
+- “an awareness or attention to present experience.” ([Location 332](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=332))
+    - Tags: [[blue]] 
+- Added to this basic definition are certain qualifiers describing the kind of attention or awareness a person has (receptive, open) or his or her orientation during the experience (impartial, curious, nonjudgmental, accepting). ([Location 332](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=332))
+- some describe attention, ([Location 344](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=344))
+    - Tags: [[orange]] 
+- some describe a quality of observation, ([Location 344](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=344))
+    - Tags: [[pink]] 
+- some describe a tendency to be highly critical. ([Location 344](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=344))
+    - Tags: [[blue]] 
+- the more curious and attentive to present-moment experience (without criticism), the higher the mindfulness score. ([Location 345](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=345))
+- the ability to maintain attention to present-moment experience. ([Location 346](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=346))
+    - Tags: [[orange]] 
+- There are currently no objective ways to measure mindfulness ([Location 352](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=352))
+    - Tags: [[orange]] 
+- Perhaps the more ([Location 359](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=359))
+    - Tags: [[orange]] 
+- mindful you are, the greater is your ability to detect subtle deviations from present-moment attention compared to the abilities of a less well-trained, less mindful individual. ([Location 359](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=359))
+    - Tags: [[orange]] 
+- Mindfulness as a Trait ([Location 365](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=365))
+    - Tags: [[pink]] 
+- In the last ten years of research on mindfulness, there has been an increasing understanding that mindfulness has the qualities of both a trait and a state. ([Location 365](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=365))
+    - Tags: [[orange]] 
+- a state is a temporary biological or psychological feature that may be induced but does not persist over time. ([Location 367](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=367))
+    - Tags: [[orange]] 
+- Self-Regulation and Mindfulness ([Location 378](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=378))
+    - Tags: [[pink]] 
+- Self-regulation refers to the monitoring and modification of behavior (or of thought, emotion, or body states) to achieve a goal or adapt to the environmental context. ([Location 379](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=379))
+    - Tags: [[orange]] 
+- Many factors influence self-regulation: In addition to your DNA blueprints, how you were raised, and the culture, your self-regulation is also influenced by factors such as medication (like valium), your environment (notice your ability to calm yourself while on vacation versus when you’re at work), and alcohol, among others. ([Location 380](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=380))
+    - Tags: [[blue]] 
+- You are constantly regulating your body state (your activity level), your cognitive state (your thoughts), your emotional state (your feelings), and your relationship state (how you relate to yourself and others). ([Location 382](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=382))
+- Mindfulness meditation can influence any of these areas of self-regulation (as we will see in later chapters), and with repeated practice, state changes may even become more permanent traits. ([Location 384](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=384))
+    - Tags: [[pink]] 
+- Mindfulness as a State ([Location 386](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=386))
+    - Tags: [[pink]] 
+- mindfulness practice changes subjective and physiological states. ([Location 388](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=388))
+    - Tags: [[pink]] 
+- The immune system gets stronger, as reflected by an increase in the number of cells fighting infection. ([Location 389](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=389))
+- Brain activity changes, moving toward patterns that coincide with calm yet focused states of attention. ([Location 389](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=389))
+    - Tags: [[blue]] 
+- Brain structure itself seems to change: Among longtime meditators, gray matter (the tissue containing neurons) is thicker in certain brain regions compared with nonmeditators. ([Location 390](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=390))
+    - Tags: [[pink]] 
+- even gene expression patterns seem to differ with the induction of a mindful state of mind. ([Location 391](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=391))
+    - Tags: [[orange]] 
+- On a more subjective level, feelings of anxiety and depression lessen, well-being improves, and relationships toward self, others, and the planet are healthier. ([Location 392](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=392))
+- mindfulness can be learned like any other skill and that the practice of mindfulness may be a powerful way to affect neuroplasticity—the brain’s ability to form new connections in response to the environment—as well as epigenetics, the regulation of genes (turning on and off their expression) in response to the environment. ([Location 393](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=393))
+    - Tags: [[orange]] 
+- Our brains have a great capacity to change in both structure and function with experience, whether that experience is mindfulness practice, learning to ride a bike, speaking a foreign language, learning math, painting, or learning to think or feel differently. Practice changes the brain. ([Location 398](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=398))
+    - Tags: [[orange]] 
+- overpractice, ([Location 408](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=408))
+    - Tags: [[orange]] 
+- being too forceful ([Location 408](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=408))
+    - Tags: [[orange]] 
+- we can perfect aspects of training and correct errors when they arise. ([Location 409](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=409))
+    - Tags: [[pink]] 
+- mindfulness is a means of attending to experiencing and honing your ability at discernment; how mindfulness is integrated into life involves reflection, understanding, and ultimately the choices you make in the world. ([Location 413](https://readwise.io/to_kindle?action=open&asin=B003Y8YWGS&location=413))
+    - Tags: [[orange]] 

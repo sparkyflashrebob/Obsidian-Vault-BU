@@ -1,0 +1,89 @@
+# The Buddha's Teachings on Social and Communal Harmony
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/51vCjvzmFUL._SL200_.jpg)
+
+## Metadata
+- Author: [[Bodhi and Dalai Lama]]
+- Full Title: The Buddha's Teachings on Social and Communal Harmony
+- Category: #books
+
+## Highlights
+- Fear has arisen from one who has taken up violence: behold the people engaged in strife. I will tell you of my sense of urgency, how I was stirred by a sense of urgency. Having seen people trembling like fish in a brook with little water, when I saw them hostile to one another, fear came upon me. The world was insubstantial all around; all the directions were in turmoil. Desiring an abode for myself, I did not see any place unoccupied. ([Location 374](https://readwise.io/to_kindle?action=open&asin=B01G2DD5QY&location=374))
+    - Tags: [[orange]] 
+- “mundane right view” ([Location 435](https://readwise.io/to_kindle?action=open&asin=B01G2DD5QY&location=435))
+    - Tags: [[orange]] 
+- A peaceful and harmonious society cannot be imposed from the outside by the decrees of a powerful authority but can only emerge when people rectify their minds and adopt worthy standards of conduct. Thus the task of promoting communal harmony must begin with personal transformation. ([Location 443](https://readwise.io/to_kindle?action=open&asin=B01G2DD5QY&location=443))
+    - Tags: [[orange]] 
+- The chief obstacle to social harmony is anger or resentment. ([Location 447](https://readwise.io/to_kindle?action=open&asin=B01G2DD5QY&location=447))
+    - Tags: [[orange]] 
+- The main remedy for anger is patience, ([Location 450](https://readwise.io/to_kindle?action=open&asin=B01G2DD5QY&location=450))
+- Speech is an aspect of human conduct whose role in relation to social harmony is so vital that the Buddha made right speech a distinct factor in the noble eightfold path. ([Location 453](https://readwise.io/to_kindle?action=open&asin=B01G2DD5QY&location=453))
+- proper way to participate in debates, when to praise and criticize others, and how to correct a wrongdoer when the need arises. ([Location 455](https://readwise.io/to_kindle?action=open&asin=B01G2DD5QY&location=455))
+    - Tags: [[orange]] 
+- we see the Buddha explain to both his monastic disciples and lay followers the value of associating with good friends, delineate the qualities of a true friend, and describe how friends should treat one another. ([Location 458](https://readwise.io/to_kindle?action=open&asin=B01G2DD5QY&location=458))
+- intentional community. ([Location 466](https://readwise.io/to_kindle?action=open&asin=B01G2DD5QY&location=466))
+    - Tags: [[orange]] 
+- Nevertheless, even when they act with the best intentions, people bring along with them tendencies that lead to factionalism and disputes. ([Location 469](https://readwise.io/to_kindle?action=open&asin=B01G2DD5QY&location=469))
+    - Tags: [[orange]] 
+- The Buddha taught that right understanding, or “right view,” is the forerunner on the path to liberation. ([Location 485](https://readwise.io/to_kindle?action=open&asin=B01G2DD5QY&location=485))
+- cessation of suffering. ([Location 488](https://readwise.io/to_kindle?action=open&asin=B01G2DD5QY&location=488))
+    - Tags: [[blue]] 
+- attainment of well-being and happiness within the cycle of rebirths. ([Location 488](https://readwise.io/to_kindle?action=open&asin=B01G2DD5QY&location=488))
+    - Tags: [[pink]] 
+- ethical conduct. ([Location 489](https://readwise.io/to_kindle?action=open&asin=B01G2DD5QY&location=489))
+    - Tags: [[orange]] 
+- “the right view of one’s personal responsibility for one’s deeds” ([Location 490](https://readwise.io/to_kindle?action=open&asin=B01G2DD5QY&location=490))
+- This kind of right view is based on the premise that there is an objective, transcendent basis for morality that is not dependent on human judgments and opinions. ([Location 491](https://readwise.io/to_kindle?action=open&asin=B01G2DD5QY&location=491))
+    - Tags: [[blue]] 
+- the Buddha holds that the validity of moral distinctions is built into the fabric of the cosmos. ([Location 494](https://readwise.io/to_kindle?action=open&asin=B01G2DD5QY&location=494))
+- As moral agents, therefore, we cannot justify our actions simply by appeal to personal preferences, nor can we expect following our preferences to secure our well-being. ([Location 496](https://readwise.io/to_kindle?action=open&asin=B01G2DD5QY&location=496))
+    - Tags: [[blue]] 
+- to achieve true well-being, we must act in conformity with the moral law, which is the Dhamma itself, the fundamental principle of truth and goodness that abides whether or not buddhas discover it and reveal it. ([Location 497](https://readwise.io/to_kindle?action=open&asin=B01G2DD5QY&location=497))
+    - Tags: [[pink]] 
+- Since virtually all communities, including Buddhist monasteries, consist of people still prone to egotistical desires, they are in constant danger of being riven by anger, resentment, and vindictiveness among their members. ([Location 1106](https://readwise.io/to_kindle?action=open&asin=B01G2DD5QY&location=1106))
+- “a poisoned root and honeyed tip.” ([Location 1110](https://readwise.io/to_kindle?action=open&asin=B01G2DD5QY&location=1110))
+    - Tags: [[blue]] 
+- those who often get angry and nurture their anger are like a line etched in stone; ([Location 1112](https://readwise.io/to_kindle?action=open&asin=B01G2DD5QY&location=1112))
+- those who often get angry but quickly dispel their anger are like a line drawn on the ground; ([Location 1113](https://readwise.io/to_kindle?action=open&asin=B01G2DD5QY&location=1113))
+    - Tags: [[pink]] 
+- those who remain patient even when attacked by others are like a line drawn in water. ([Location 1113](https://readwise.io/to_kindle?action=open&asin=B01G2DD5QY&location=1113))
+    - Tags: [[orange]] 
+- “ten grounds for resentment,” ([Location 1116](https://readwise.io/to_kindle?action=open&asin=B01G2DD5QY&location=1116))
+- The ten are obtained by taking first one’s reactions to those who act for one’s own harm; next, one’s reactions to those who act for the harm of one’s friends; and next, one’s reactions to those who act for the benefit of one’s foes. Each of these is divided by way of the three periods of time — past, present, and future — for a total of nine. Finally, the Buddha adds irrational anger, the vexing case of “one who becomes angry without a reason.” ([Location 1117](https://readwise.io/to_kindle?action=open&asin=B01G2DD5QY&location=1117))
+    - Tags: [[blue]] 
+- first step ([Location 1121](https://readwise.io/to_kindle?action=open&asin=B01G2DD5QY&location=1121))
+- reflecting on the dangers in anger. ([Location 1121](https://readwise.io/to_kindle?action=open&asin=B01G2DD5QY&location=1121))
+    - Tags: [[blue]] 
+- ten occasions when resentment should be eliminated, ([Location 1124](https://readwise.io/to_kindle?action=open&asin=B01G2DD5QY&location=1124))
+    - Tags: [[pink]] 
+- five methods to eliminate anger. ([Location 1125](https://readwise.io/to_kindle?action=open&asin=B01G2DD5QY&location=1125))
+    - Tags: [[orange]] 
+- another five methods to overcome anger. ([Location 1125](https://readwise.io/to_kindle?action=open&asin=B01G2DD5QY&location=1125))
+- one cardinal virtue, ([Location 1126](https://readwise.io/to_kindle?action=open&asin=B01G2DD5QY&location=1126))
+    - Tags: [[blue]] 
+- patience (khanti), ([Location 1126](https://readwise.io/to_kindle?action=open&asin=B01G2DD5QY&location=1126))
+    - Tags: [[orange]] 
+- the supreme ([Location 1127](https://readwise.io/to_kindle?action=open&asin=B01G2DD5QY&location=1127))
+- Patience is both the means for curing the mind of anger and the quality that prevails when anger has finally been subdued. ([Location 1128](https://readwise.io/to_kindle?action=open&asin=B01G2DD5QY&location=1128))
+    - Tags: [[pink]] 
+- 4. THE GROUNDS FOR RESENTMENT “Monks, there are these ten grounds for resentment. What ten? (1) Thinking: ‘They acted for my harm,’ one harbors resentment. (2) Thinking: ‘They are acting for my harm,’ one harbors resentment. (3) Thinking: ‘They will act for my harm,’ one harbors resentment. (4) Thinking: ‘They acted for the harm of one who is pleasing and agreeable to me,’ one harbors resentment. (5) Thinking: ‘They are acting for the harm of one who is pleasing and agreeable to me,’ one harbors resentment. (6) Thinking: ‘They will act for the harm of one who is pleasing and agreeable to me,’ one harbors resentment. (7) Thinking: ‘They acted for the benefit of one who is displeasing and disagreeable to me,’ one harbors resentment. (8) Thinking: ‘They are acting for the benefit of one who is displeasing and disagreeable to me,’ one harbors resentment. (9) Thinking: ‘They will act for the benefit of one who is displeasing and disagreeable to me,’ one harbors resentment. (10) And one becomes angry without a reason. These, monks, are the ten bases of resentment.” (AN 10:79, NDB 1439) ([Location 1183](https://readwise.io/to_kindle?action=open&asin=B01G2DD5QY&location=1183))
+- One is displeasing and disagreeable to many people; ([Location 1196](https://readwise.io/to_kindle?action=open&asin=B01G2DD5QY&location=1196))
+    - Tags: [[blue]] 
+- one has an abundance of enmity; ([Location 1197](https://readwise.io/to_kindle?action=open&asin=B01G2DD5QY&location=1197))
+    - Tags: [[pink]] 
+- one has an abundance of faults; ([Location 1197](https://readwise.io/to_kindle?action=open&asin=B01G2DD5QY&location=1197))
+    - Tags: [[orange]] 
+- one dies confused; ([Location 1197](https://readwise.io/to_kindle?action=open&asin=B01G2DD5QY&location=1197))
+- with the breakup of the body, after death, one is reborn in the plane of misery, in a bad destination, in the lower world, in hell. ([Location 1197](https://readwise.io/to_kindle?action=open&asin=B01G2DD5QY&location=1197))
+    - Tags: [[pink]] 
+- five dangers in impatience. ([Location 1203](https://readwise.io/to_kindle?action=open&asin=B01G2DD5QY&location=1203))
+- One is displeasing and disagreeable to many people; ([Location 1203](https://readwise.io/to_kindle?action=open&asin=B01G2DD5QY&location=1203))
+    - Tags: [[blue]] 
+- one is violent; ([Location 1203](https://readwise.io/to_kindle?action=open&asin=B01G2DD5QY&location=1203))
+    - Tags: [[pink]] 
+- one is remorseful; ([Location 1203](https://readwise.io/to_kindle?action=open&asin=B01G2DD5QY&location=1203))
+    - Tags: [[orange]] 
+- “What qualities make him difficult to correct? (1) Here a monk has evil desires and is dominated by evil desires; this is a quality that makes him difficult to correct. (2) Again, a monk lauds himself and disparages others; this is a quality that makes him difficult to correct. (3) Again, a monk is angry and ([Location 2910](https://readwise.io/to_kindle?action=open&asin=B01G2DD5QY&location=2910))
+    - Tags: [[pink]] 
+- is overcome by anger . . . (4) . . . angry and resentful because of anger . . . (5) . . . angry and stubborn because of anger . . . (6) . . . angry, and he utters words bordering on anger . . . (7) Again, when reproved, he resists the reprover . . . (8) . . . when reproved, he denigrates the reprover . . . (9) . . . when reproved, he counter-reproves the reprover . . . (10) . . . when reproved, he prevaricates, leads the talk aside, and shows anger, hate, and bitterness . . . (11) . . . when reproved, he fails to account for his conduct. . . . (12) Again, a monk is contemptuous and insolent . . . (13) . . . envious and miserly . . . (14) . . . fraudulent and deceitful . . . (15) . . . obstinate and arrogant. . . . (16) Again, a monk adheres to his own views, holds to them tenaciously, and relinquishes them with difficulty; this is a quality that makes him difficult to correct. These are called the qualities that make him difficult to correct. ([Location 2912](https://readwise.io/to_kindle?action=open&asin=B01G2DD5QY&location=2912))
+    - Tags: [[pink]] 

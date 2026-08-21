@@ -1,0 +1,218 @@
+# Uncovering Mindfulness
+
+![rw-book-cover](https://m.media-amazon.com/images/I/616PsH-Gp-L._SY160.jpg)
+
+## Metadata
+- Author: [[Paul A Mudd]]
+- Full Title: Uncovering Mindfulness
+- Category: #books
+
+## Highlights
+- We don’t know what we don’t know and that intrigues me. ([Location 69](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=69))
+    - Tags: [[pink]] 
+- Attention ([Location 133](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=133))
+    - Tags: [[orange]] 
+- Intention. ([Location 133](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=133))
+    - Tags: [[orange]] 
+- Quantum Field Theory (QFT) tells us that everything is in fact created twice; before it takes form, it exists as an idea. QFT also tells us that a higher domain thought always takes precedence. ([Location 149](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=149))
+    - Tags: [[pink]] 
+- being present just for yourself. ([Location 239](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=239))
+- A witness to your own thoughts, emotions, senses, as you experience them, as they come to you and as they go. ([Location 239](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=239))
+    - Tags: [[orange]] 
+- adaptive capacity. ([Location 244](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=244))
+    - Tags: [[blue]] 
+- “Knowing what is happening, while it is happening, no matter what” ([Location 261](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=261))
+- where Attention goes, energy flows ([Location 264](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=264))
+- Be Aware and Pay Attention Mindfulness can also be used as an umbrella term for contemplative practice and in that context, it embraces four aspects: ([Location 265](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=265))
+    - Tags: [[orange]] 
+- relationship between compassion and wisdom ([Location 273](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=273))
+    - Tags: [[blue]] 
+- Mindfulness means paying Attention on purpose to our present moment experience, with qualities like compassion, curiosity and an attitude of openness and non-judgmental acceptance. ([Location 274](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=274))
+    - Tags: [[pink]] 
+- Awareness, ([Location 277](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=277))
+    - Tags: [[blue]] 
+- Attention ([Location 277](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=277))
+- Remembering. ([Location 277](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=277))
+    - Tags: [[orange]] 
+- Here awareness would be understood as involving being conscious in your experiences, in the present moment and in every moment. ([Location 278](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=278))
+    - Tags: [[blue]] 
+- Attention as a focused awareness would perhaps best be described and understood as ([Location 278](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=278))
+    - Tags: [[pink]] 
+- the ability to move and sustain your Attention wherever and however you choose: ([Location 279](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=279))
+    - Tags: [[pink]] 
+- Whilst remembering would be understood in this context as paying Attention to your experience from moment-to-moment. ([Location 279](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=279))
+    - Tags: [[orange]] 
+- curiosity. ([Location 289](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=289))
+- “Tune our instrument and taste the fruit” ([Location 290](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=290))
+    - Tags: [[pink]] 
+- What is important to remember though is not to be too hard on yourself and as much as anything else, meditation is meant to be a pleasurable activity. ([Location 291](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=291))
+- Mindfulness requires two key ingredients for the stock – technique and attitude. ([Location 296](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=296))
+    - Tags: [[orange]] 
+- being mindful of emails ([Location 305](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=305))
+    - Tags: [[pink]] 
+- being in the present moment when in meetings ([Location 305](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=305))
+    - Tags: [[blue]] 
+- curiosity, ([Location 306](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=306))
+    - Tags: [[orange]] 
+- compassion ([Location 306](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=306))
+- without judgement or preference. ([Location 306](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=306))
+    - Tags: [[blue]] 
+- “When one door closes, another can open: But we look so long at the closed door that we do not see the one which has opened for us!” ([Location 318](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=318))
+    - Tags: [[pink]] 
+- On average we can process five to nine items of the several million stimuli that surround us at any one time. ([Location 321](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=321))
+    - Tags: [[pink]] 
+- it has become increasingly clear that being present in a Mindful way offers a very real and tangible way to enjoy life to the fullest. ([Location 333](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=333))
+    - Tags: [[blue]] 
+- Mindfulness is a goal-less activity; ([Location 350](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=350))
+    - Tags: [[pink]] 
+- its process orientated rather than goal orientated ([Location 351](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=351))
+    - Tags: [[orange]] 
+- attitude is important, ([Location 353](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=353))
+    - Tags: [[pink]] 
+- If you bring to your practice the attitude of kind acceptance and curiosity – an attitude of self-acceptance and compassion for yourself – you can encourage and make your thoughts enablers, rather than disablers of your intention. ([Location 355](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=355))
+    - Tags: [[blue]] 
+- You’ll also come to recognise that in any form of meditation you don’t need to search for anything at all. ([Location 359](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=359))
+- “Nowhere to go and nothing to do” ([Location 360](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=360))
+    - Tags: [[pink]] 
+- In fact, when you start to do nothing for long enough, you start seeing through a veil of distraction to a new everything. ([Location 360](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=360))
+    - Tags: [[blue]] 
+- When walking, walk. When eating, eat” ([Location 366](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=366))
+- The point is, behind just about everything is a complication and usually not just a single complication, introduced by the act of simply thinking about it. ([Location 376](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=376))
+    - Tags: [[orange]] 
+- The complication didn’t pre-exist, and you wouldn’t know it was there if you didn’t go looking for it, ([Location 377](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=377))
+    - Tags: [[pink]] 
+- only doing one thing at a time, ([Location 404](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=404))
+- take your time when you’re doing it. ([Location 404](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=404))
+    - Tags: [[orange]] 
+- Move slower than you normally would and be conscious of that, whilst making your activities deliberate rather than rushed or random. ([Location 405](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=405))
+    - Tags: [[blue]] 
+- Be patient. ([Location 405](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=405))
+- Be tolerant. ([Location 405](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=405))
+    - Tags: [[pink]] 
+- You can also do less and do these things more completely and with more concentration and Attention. ([Location 406](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=406))
+    - Tags: [[orange]] 
+- put space between all your activities; ([Location 414](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=414))
+    - Tags: [[pink]] 
+- relaxing your schedule ([Location 415](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=415))
+    - Tags: [[orange]] 
+- You could also spend at least five minutes every day doing nothing. ([Location 417](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=417))
+- Accept whatever is in the moment and just sit in silence. ([Location 418](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=418))
+    - Tags: [[pink]] 
+- Try making yourself aware of when this is happening and then practice consciously anchoring yourself in the present moment. ([Location 424](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=424))
+    - Tags: [[blue]] 
+- Another thing you can try is practice being present and consciously in the moment when you are talking with someone. ([Location 432](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=432))
+    - Tags: [[pink]] 
+- Actively listen. ([Location 433](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=433))
+    - Tags: [[blue]] 
+- When walking practice tuning into what’s going on immediately around you, the sights, sounds and smells. ([Location 433](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=433))
+- Buddhism is a discipline and a process to be followed, rather than a belief system. ([Location 499](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=499))
+    - Tags: [[pink]] 
+# Uncovering Mindfulness
+
+![rw-book-cover](https://m.media-amazon.com/images/I/616PsH-Gp-L._SY160.jpg)
+
+## Metadata
+- Author: [[Paul A Mudd]]
+- Full Title: Uncovering Mindfulness
+- Category: #books
+
+## Highlights
+- We don’t know what we don’t know and that intrigues me. ([Location 69](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=69))
+    - Tags: [[pink]] 
+- Attention ([Location 133](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=133))
+    - Tags: [[orange]] 
+- Intention. ([Location 133](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=133))
+    - Tags: [[orange]] 
+- Quantum Field Theory (QFT) tells us that everything is in fact created twice; before it takes form, it exists as an idea. QFT also tells us that a higher domain thought always takes precedence. ([Location 149](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=149))
+    - Tags: [[pink]] 
+- being present just for yourself. ([Location 239](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=239))
+- A witness to your own thoughts, emotions, senses, as you experience them, as they come to you and as they go. ([Location 239](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=239))
+    - Tags: [[orange]] 
+- adaptive capacity. ([Location 244](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=244))
+    - Tags: [[blue]] 
+- “Knowing what is happening, while it is happening, no matter what” ([Location 261](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=261))
+- where Attention goes, energy flows ([Location 264](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=264))
+- Be Aware and Pay Attention Mindfulness can also be used as an umbrella term for contemplative practice and in that context, it embraces four aspects: ([Location 265](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=265))
+    - Tags: [[orange]] 
+- relationship between compassion and wisdom ([Location 273](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=273))
+    - Tags: [[blue]] 
+- Mindfulness means paying Attention on purpose to our present moment experience, with qualities like compassion, curiosity and an attitude of openness and non-judgmental acceptance. ([Location 274](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=274))
+    - Tags: [[pink]] 
+- Awareness, ([Location 277](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=277))
+    - Tags: [[blue]] 
+- Attention ([Location 277](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=277))
+- Remembering. ([Location 277](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=277))
+    - Tags: [[orange]] 
+- Here awareness would be understood as involving being conscious in your experiences, in the present moment and in every moment. ([Location 278](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=278))
+    - Tags: [[blue]] 
+- Attention as a focused awareness would perhaps best be described and understood as ([Location 278](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=278))
+    - Tags: [[pink]] 
+- the ability to move and sustain your Attention wherever and however you choose: ([Location 279](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=279))
+    - Tags: [[pink]] 
+- Whilst remembering would be understood in this context as paying Attention to your experience from moment-to-moment. ([Location 279](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=279))
+    - Tags: [[orange]] 
+- curiosity. ([Location 289](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=289))
+- “Tune our instrument and taste the fruit” ([Location 290](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=290))
+    - Tags: [[pink]] 
+- What is important to remember though is not to be too hard on yourself and as much as anything else, meditation is meant to be a pleasurable activity. ([Location 291](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=291))
+- Mindfulness requires two key ingredients for the stock – technique and attitude. ([Location 296](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=296))
+    - Tags: [[orange]] 
+- being mindful of emails ([Location 305](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=305))
+    - Tags: [[pink]] 
+- being in the present moment when in meetings ([Location 305](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=305))
+    - Tags: [[blue]] 
+- curiosity, ([Location 306](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=306))
+    - Tags: [[orange]] 
+- compassion ([Location 306](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=306))
+- without judgement or preference. ([Location 306](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=306))
+    - Tags: [[blue]] 
+- “When one door closes, another can open: But we look so long at the closed door that we do not see the one which has opened for us!” ([Location 318](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=318))
+    - Tags: [[pink]] 
+- On average we can process five to nine items of the several million stimuli that surround us at any one time. ([Location 321](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=321))
+    - Tags: [[pink]] 
+- it has become increasingly clear that being present in a Mindful way offers a very real and tangible way to enjoy life to the fullest. ([Location 333](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=333))
+    - Tags: [[blue]] 
+- Mindfulness is a goal-less activity; ([Location 350](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=350))
+    - Tags: [[pink]] 
+- its process orientated rather than goal orientated ([Location 351](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=351))
+    - Tags: [[orange]] 
+- attitude is important, ([Location 353](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=353))
+    - Tags: [[pink]] 
+- If you bring to your practice the attitude of kind acceptance and curiosity – an attitude of self-acceptance and compassion for yourself – you can encourage and make your thoughts enablers, rather than disablers of your intention. ([Location 355](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=355))
+    - Tags: [[blue]] 
+- You’ll also come to recognise that in any form of meditation you don’t need to search for anything at all. ([Location 359](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=359))
+- “Nowhere to go and nothing to do” ([Location 360](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=360))
+    - Tags: [[pink]] 
+- In fact, when you start to do nothing for long enough, you start seeing through a veil of distraction to a new everything. ([Location 360](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=360))
+    - Tags: [[blue]] 
+- When walking, walk. When eating, eat” ([Location 366](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=366))
+- The point is, behind just about everything is a complication and usually not just a single complication, introduced by the act of simply thinking about it. ([Location 376](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=376))
+    - Tags: [[orange]] 
+- The complication didn’t pre-exist, and you wouldn’t know it was there if you didn’t go looking for it, ([Location 377](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=377))
+    - Tags: [[pink]] 
+- only doing one thing at a time, ([Location 404](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=404))
+- take your time when you’re doing it. ([Location 404](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=404))
+    - Tags: [[orange]] 
+- Move slower than you normally would and be conscious of that, whilst making your activities deliberate rather than rushed or random. ([Location 405](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=405))
+    - Tags: [[blue]] 
+- Be patient. ([Location 405](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=405))
+- Be tolerant. ([Location 405](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=405))
+    - Tags: [[pink]] 
+- You can also do less and do these things more completely and with more concentration and Attention. ([Location 406](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=406))
+    - Tags: [[orange]] 
+- put space between all your activities; ([Location 414](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=414))
+    - Tags: [[pink]] 
+- relaxing your schedule ([Location 415](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=415))
+    - Tags: [[orange]] 
+- You could also spend at least five minutes every day doing nothing. ([Location 417](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=417))
+- Accept whatever is in the moment and just sit in silence. ([Location 418](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=418))
+    - Tags: [[pink]] 
+- Try making yourself aware of when this is happening and then practice consciously anchoring yourself in the present moment. ([Location 424](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=424))
+    - Tags: [[blue]] 
+- Another thing you can try is practice being present and consciously in the moment when you are talking with someone. ([Location 432](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=432))
+    - Tags: [[pink]] 
+- Actively listen. ([Location 433](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=433))
+    - Tags: [[blue]] 
+- When walking practice tuning into what’s going on immediately around you, the sights, sounds and smells. ([Location 433](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=433))
+- Buddhism is a discipline and a process to be followed, rather than a belief system. ([Location 499](https://readwise.io/to_kindle?action=open&asin=B00SMW7CMM&location=499))
+    - Tags: [[pink]] 

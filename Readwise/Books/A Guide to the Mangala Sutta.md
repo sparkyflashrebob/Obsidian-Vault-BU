@@ -1,0 +1,74 @@
+# A Guide to the Mangala Sutta
+
+![rw-book-cover](https://m.media-amazon.com/images/I/61pkzu-QiTL._SY160.jpg)
+
+## Metadata
+- Author: [[Kyaw Htut and Mya Tin]]
+- Full Title: A Guide to the Mangala Sutta
+- Category: #books
+
+## Highlights
+- seeing ([Location 68](https://readwise.io/to_kindle?action=open&asin=B0B3PQ5XWY&location=68))
+    - Tags: [[orange]] 
+- heard, ([Location 70](https://readwise.io/to_kindle?action=open&asin=B0B3PQ5XWY&location=70))
+    - Tags: [[orange]] 
+- tangible, ([Location 72](https://readwise.io/to_kindle?action=open&asin=B0B3PQ5XWY&location=72))
+    - Tags: [[orange]] 
+- Sakka, ([Location 81](https://readwise.io/to_kindle?action=open&asin=B0B3PQ5XWY&location=81))
+    - Tags: [[pink]] 
+- King of the devas. ([Location 82](https://readwise.io/to_kindle?action=open&asin=B0B3PQ5XWY&location=82))
+    - Tags: [[blue]] 
+- thirty-eight principles that can ensure one every success and all kinds of prosperity. ([Location 85](https://readwise.io/to_kindle?action=open&asin=B0B3PQ5XWY&location=85))
+- Sayagyi U Kyaw Htut, ([Location 98](https://readwise.io/to_kindle?action=open&asin=B0B3PQ5XWY&location=98))
+    - Tags: [[pink]] 
+- Khuddaka Nikāya. ([Location 107](https://readwise.io/to_kindle?action=open&asin=B0B3PQ5XWY&location=107))
+    - Tags: [[orange]] 
+- Signs and omens gave way to modes of conduct, family responsibilities, social obligations and training of self. ([Location 119](https://readwise.io/to_kindle?action=open&asin=B0B3PQ5XWY&location=119))
+    - Tags: [[orange]] 
+- condensed all moral virtues into thirty-eight rules or modes of conduct. ([Location 121](https://readwise.io/to_kindle?action=open&asin=B0B3PQ5XWY&location=121))
+    - Tags: [[blue]] 
+- If these Maṅgala Rules are obeyed or adhered to, one can become a good son, a good parent, a good citizen, a good administrator or even an ideal head of state. ([Location 122](https://readwise.io/to_kindle?action=open&asin=B0B3PQ5XWY&location=122))
+- “May your day be good” ([Location 127](https://readwise.io/to_kindle?action=open&asin=B0B3PQ5XWY&location=127))
+    - Tags: [[pink]] 
+- “May you have good luck” ([Location 127](https://readwise.io/to_kindle?action=open&asin=B0B3PQ5XWY&location=127))
+    - Tags: [[orange]] 
+- Anumodanā, ([Location 129](https://readwise.io/to_kindle?action=open&asin=B0B3PQ5XWY&location=129))
+    - Tags: [[pink]] 
+- donations of the four requisites food, medicine, robes and shelter to bhikkhus and all other acts of charity. ([Location 129](https://readwise.io/to_kindle?action=open&asin=B0B3PQ5XWY&location=129))
+    - Tags: [[blue]] 
+- Pondered what constitutes Auspiciousness— ([Location 1106](https://readwise.io/to_kindle?action=open&asin=B0B3PQ5XWY&location=1106))
+    - Tags: [[orange]] 
+- Not to associate with the foolish, ([Location 1107](https://readwise.io/to_kindle?action=open&asin=B0B3PQ5XWY&location=1107))
+- To associate only with the wise, ([Location 1107](https://readwise.io/to_kindle?action=open&asin=B0B3PQ5XWY&location=1107))
+    - Tags: [[blue]] 
+- To honor those worthy of honor— ([Location 1107](https://readwise.io/to_kindle?action=open&asin=B0B3PQ5XWY&location=1107))
+    - Tags: [[pink]] 
+- To dwell in a suitable locality, ([Location 1108](https://readwise.io/to_kindle?action=open&asin=B0B3PQ5XWY&location=1108))
+- To have done good deeds previously, ([Location 1108](https://readwise.io/to_kindle?action=open&asin=B0B3PQ5XWY&location=1108))
+    - Tags: [[blue]] 
+- To set oneself on the right course— ([Location 1108](https://readwise.io/to_kindle?action=open&asin=B0B3PQ5XWY&location=1108))
+    - Tags: [[pink]] 
+- To have wide knowledge and skill in technology, ([Location 1109](https://readwise.io/to_kindle?action=open&asin=B0B3PQ5XWY&location=1109))
+- To have discipline and good training, ([Location 1110](https://readwise.io/to_kindle?action=open&asin=B0B3PQ5XWY&location=1110))
+    - Tags: [[blue]] 
+- To speak what is true and pleasing— ([Location 1110](https://readwise.io/to_kindle?action=open&asin=B0B3PQ5XWY&location=1110))
+    - Tags: [[pink]] 
+- To support one’s mother and father, ([Location 1111](https://readwise.io/to_kindle?action=open&asin=B0B3PQ5XWY&location=1111))
+- To care for one’s wife and children, ([Location 1111](https://readwise.io/to_kindle?action=open&asin=B0B3PQ5XWY&location=1111))
+    - Tags: [[blue]] 
+- To have a blameless occupation— ([Location 1111](https://readwise.io/to_kindle?action=open&asin=B0B3PQ5XWY&location=1111))
+    - Tags: [[pink]] 
+- To perform acts of charity, ([Location 1112](https://readwise.io/to_kindle?action=open&asin=B0B3PQ5XWY&location=1112))
+- To abide by customary laws, ([Location 1112](https://readwise.io/to_kindle?action=open&asin=B0B3PQ5XWY&location=1112))
+    - Tags: [[blue]] 
+- To help relatives and the community— ([Location 1112](https://readwise.io/to_kindle?action=open&asin=B0B3PQ5XWY&location=1112))
+    - Tags: [[pink]] 
+- To refrain from evil (in thought, word and deed), ([Location 1113](https://readwise.io/to_kindle?action=open&asin=B0B3PQ5XWY&location=1113))
+- To abstain from intoxicants, ([Location 1114](https://readwise.io/to_kindle?action=open&asin=B0B3PQ5XWY&location=1114))
+    - Tags: [[blue]] 
+- To be diligent in doing good deeds— ([Location 1114](https://readwise.io/to_kindle?action=open&asin=B0B3PQ5XWY&location=1114))
+    - Tags: [[pink]] 
+- To be respectful, to be modest, To be content, to be grateful, To frequently listen to the dhamma— ([Location 1115](https://readwise.io/to_kindle?action=open&asin=B0B3PQ5XWY&location=1115))
+    - Tags: [[orange]] 
+- To be patient, to be amenable to advice, To often see the samaṇas, To frequently discuss the dhamma— This is the Highest Auspiciousness. To practice Austerity and Purity, To have Perception of the Ariya Truths, To Realize Nibbāna (through Arahatta-phala)— This is the Highest Auspiciousness. When touched by pain and pleasure, An arahat’s mind is unshaken, ‘Tis free from sorrow, pure and secure— This is the Highest Auspiciousness. ([Location 1116](https://readwise.io/to_kindle?action=open&asin=B0B3PQ5XWY&location=1116))
+    - Tags: [[orange]] 

@@ -1,0 +1,15 @@
+---
+aliases:
+  - GUIDED MEDITATION ON PAIN AND DISCOMFORT [TRANSCRIPT]
+tags:
+  - Meditation
+---
+
+Sitting in a way that's comfortable for you, closing your eyes, and collecting your
+attention with a few nice, full breaths. Taking some moments to let the attention scan the body. And just noticing if there's any areas of particular discomfort. If there is an area where there's unpleasant sensations calling your attention, just to bring a receptivity there. Noticing what happens as you begin to be present with those sensations.
+Notice if there's any attempt to push pain away, or to pull away, or to do something with the pain. Just any tensing in the body, the emotions. If that area or constellation of unpleasantness feels tolerable-- and that's the inquiry, if it's tolerable-- letting your intention be to remain present, to stay. Perhaps sending the message, "You belong," or, "This too," or, "Yes." Some message of allowing. Allowing unpleasant sensations to be as they are, just regarding with interest and gentleness.
+What do you notice? Sense if there's change, if there's movement, more intensity, less intensity. You might choose to deepen the attention right to the center of where you feel the most intensity, sensing from the inside out the experience of sensations. See if naming is helpful. Just offering some words that might describe, and then sensing, "Is that it?" Burning or aching, twisting, tearing, stabbing, throbbing. Continuing to notice how experience changes.
+If the sensations are strong towards the intolerable zone, take some moments to explore establishing another place for attention. This is a resource place that feels neutral or pleasant. For some it might be the hands, the lips, the eyes, the feet. If the breath helps, breathe, and rest in a place that has more ease. Gives resilience, regain some balance, perspective. You might explore going back and forth some, sensing the zone that feels it's a resource and then gently easing into a bit of where it's unpleasant, and then back again.
+And then pendulating back in and sensing, again, a bit of the difficult-- our discomfort. Sensing that back forth is giving some space. You might also explore sensing into the space more immediately around the area of discomfort, seeing if you can let sensations float in a larger space, a soft attention, noticing their natural dance of change. Perhaps you can sense the space around and also the interior space, as in the space that's in the nucleus of an atom-- the space that sensations arise out of and dissolve into.
+Letting the body become like open space, plenty of room for unpleasant sensations to arise and then fade or intensify and then dissolve, to move, to change. No holding. No tensing. Letting this space be infused with a wakefulness, an awareness. Inhabiting a sea of awareness, letting unpleasant sensations float, unfold, move in an accepting openness.
+[BELL RINGING]

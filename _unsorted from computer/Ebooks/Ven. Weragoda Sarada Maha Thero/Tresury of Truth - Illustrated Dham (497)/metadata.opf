@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">497</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">43ed0433-e416-4bb9-8a00-122ad72c06d5</dc:identifier>
+        <dc:title>Tresury of Truth - Illustrated Dhammapada</dc:title>
+        <dc:creator opf:file-as="Thero, Ven. Weragoda Sarada Maha" opf:role="aut">Ven. Weragoda Sarada Maha Thero</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.9.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-07-03T17:35:05+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <dc:subject>Words of the Buddha</dc:subject>
+        <dc:subject>Buddhist Illiterature</dc:subject>
+        <meta content="{&quot;Ven. Weragoda Sarada Maha Thero&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-01-29T04:28:14.350000+00:00" name="calibre:timestamp"/>
+        <meta content="Tresury of Truth - Illustrated Dhammapada" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

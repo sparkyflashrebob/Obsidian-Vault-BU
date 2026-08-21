@@ -1,0 +1,2 @@
+there is no savior. There's no one to save you. Don't look outside yourself for the leader and well I you know what? I want to modify that I don't think what you said was necessarily wrong it's nice to have support but you can't rely on it, it's all I was saying.
+No Sa

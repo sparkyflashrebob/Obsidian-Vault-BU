@@ -1,0 +1,2 @@
+
+The only amends I can make to those untraceable individuals, the only “changes for the better” I can offer, are indirect amends made to other people, whose paths briefly cross mine. Courtesy and kindness, regularly practiced, help me to live in emotional balance, at peace with myself.

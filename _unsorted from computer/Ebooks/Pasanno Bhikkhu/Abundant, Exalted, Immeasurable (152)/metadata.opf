@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">152</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">13ce7448-820a-4bf5-8d32-0d004ef32370</dc:identifier>
+        <dc:title>Abundant, Exalted, Immeasurable</dc:title>
+        <dc:creator opf:file-as="Bhikkhu, Pasanno" opf:role="aut">Pasanno Bhikkhu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.9.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-12-30T08:00:00+00:00</dc:date>
+        <dc:publisher>Abhayagiri Buddhist Monastery</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">1366ac6b-d1cd-471f-911e-720504d11323</dc:identifier>
+        <dc:identifier opf:scheme="URL">http://www.abhayagiri.org/books/abundant-exalted-immeasurable</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Buddhism</dc:subject>
+        <meta content="{&quot;Pasanno Bhikkhu&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-01-29T04:05:11.885000+00:00" name="calibre:timestamp"/>
+        <meta content="Abundant, Exalted, Immeasurable" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

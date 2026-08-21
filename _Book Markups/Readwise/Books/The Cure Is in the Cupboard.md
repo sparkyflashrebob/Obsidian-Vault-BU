@@ -1,0 +1,71 @@
+# The Cure Is in the Cupboard
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/51MnI0WfrOL._SL200_.jpg)
+
+## Metadata
+- Author: [[Dr. Cass Ingram]]
+- Full Title: The Cure Is in the Cupboard
+- Category: #books
+
+## Highlights
+- sulfur, garlic, ginger, goldenseal, echinacea, thyme, camphor, and horseradish. ([Location 73](https://readwise.io/to_kindle?action=open&asin=B0030EG3B8&location=73))
+    - Tags: [[orange]] 
+- natural ingredients/herbs such as goldenseal, echinacea, ginger, seneca, balsam, burdock, wintergreen, cinnamon, citronella, coriander, cardamom, cumin, birch bark, cherry bark, clove, thyme, sage, oregano, and dozens of others. All of these herbs possess antibiotic powers. ([Location 78](https://readwise.io/to_kindle?action=open&asin=B0030EG3B8&location=78))
+    - Tags: [[pink]] 
+- Oil of wild oregano ([Location 84](https://readwise.io/to_kindle?action=open&asin=B0030EG3B8&location=84))
+- The oregano used in food, such as that found in spaghetti sauce and pizza, which is also the type that may be purchased at the spice counter, isn’t even oregano. It is marjoram and is known as sweet marjoram. ([Location 100](https://readwise.io/to_kindle?action=open&asin=B0030EG3B8&location=100))
+    - Tags: [[blue]] 
+- For instance, virtually all of the so-called oregano available on the West Coast is instead an oregano-like plant from Mexico. Or, it is Spanish oregano, which is, in fact, poisonous. Both Mexican and Spanish oregano are entirely unrelated botanically to either oregano or marjoram. These species are respectively Lippia gravolens and Thymus capitatus. Both are unfit for human consumption. ([Location 105](https://readwise.io/to_kindle?action=open&asin=B0030EG3B8&location=105))
+    - Tags: [[pink]] 
+- Beware of oregano derived from outer Mediterranean regions such as Spain and Morocco. These are of inferior quality, and in fact their oil may be poisonous. ([Location 114](https://readwise.io/to_kindle?action=open&asin=B0030EG3B8&location=114))
+    - Tags: [[blue]] 
+- The ideal type is a blend of wild oregano oils extracted from the high mountain spice found in the Mediterranean mountains. This blend is found as a wild oregano emulsion in extra virgin olive oil (blue label brand). ([Location 115](https://readwise.io/to_kindle?action=open&asin=B0030EG3B8&location=115))
+    - Tags: [[orange]] 
+- There is also the whole herb, which is known as the crude herb. This is the maximum strength crude or whole herb, complete with the fiber, flavonoids, and minerals. ([Location 116](https://readwise.io/to_kindle?action=open&asin=B0030EG3B8&location=116))
+    - Tags: [[blue]] 
+- antioxidant. ([Location 120](https://readwise.io/to_kindle?action=open&asin=B0030EG3B8&location=120))
+    - Tags: [[blue]] 
+- anti-venom action ([Location 120](https://readwise.io/to_kindle?action=open&asin=B0030EG3B8&location=120))
+    - Tags: [[pink]] 
+- natural anesthetic, ([Location 121](https://readwise.io/to_kindle?action=open&asin=B0030EG3B8&location=121))
+    - Tags: [[pink]] 
+- mucolytic, ([Location 122](https://readwise.io/to_kindle?action=open&asin=B0030EG3B8&location=122))
+    - Tags: [[orange]] 
+- antitussive ([Location 123](https://readwise.io/to_kindle?action=open&asin=B0030EG3B8&location=123))
+    - Tags: [[orange]] 
+- antispasmodic ([Location 124](https://readwise.io/to_kindle?action=open&asin=B0030EG3B8&location=124))
+- It also means that due to this direct action on the muscles it is invaluable for a wide range of structural and ‘pain’ disorders. ([Location 125](https://readwise.io/to_kindle?action=open&asin=B0030EG3B8&location=125))
+    - Tags: [[pink]] 
+- Never consume commercial essential oils of any type internally. ([Location 187](https://readwise.io/to_kindle?action=open&asin=B0030EG3B8&location=187))
+- These observations elevate oil of oregano to an unprecedented status: that of the most potent naturally occurring antifungal agent known. ([Location 247](https://readwise.io/to_kindle?action=open&asin=B0030EG3B8&location=247))
+    - Tags: [[orange]] 
+- The researchers plated in the petri dishes the most deadly bacteria known: MRSA (methicillin-resistant Staph aureus). ([Location 248](https://readwise.io/to_kindle?action=open&asin=B0030EG3B8&location=248))
+    - Tags: [[pink]] 
+- The fact is the wild oregano oil in a super strength formulation utterly destroyed this germ. ([Location 249](https://readwise.io/to_kindle?action=open&asin=B0030EG3B8&location=249))
+    - Tags: [[blue]] 
+- For the health to be returned the fungus must be purged. This can be achieved through the regular intake of edible oil of wild oregano, along with, perhaps, a slowrelease multiple spice complex consisting of emulsified oils of oregano, cumin, bay leaf, and sage. ([Location 256](https://readwise.io/to_kindle?action=open&asin=B0030EG3B8&location=256))
+- The fact is the existence of fungal infections, even toenail fungus, is a sign of systemic infection. It is also a sign of a decline in health. If the fungus is purged, the health will largely return. ([Location 257](https://readwise.io/to_kindle?action=open&asin=B0030EG3B8&location=257))
+    - Tags: [[blue]] 
+- Obviously, since fungi thrive on diseased tissue, the existence of a fungal or yeast infection is a sign of compromised health. ([Location 266](https://readwise.io/to_kindle?action=open&asin=B0030EG3B8&location=266))
+    - Tags: [[blue]] 
+- This essential oil is capable of destroying fungi wherever they abound. This ([Location 269](https://readwise.io/to_kindle?action=open&asin=B0030EG3B8&location=269))
+    - Tags: [[blue]] 
+- Fungi feed primarily upon one substance: sugar. ([Location 275](https://readwise.io/to_kindle?action=open&asin=B0030EG3B8&location=275))
+    - Tags: [[orange]] 
+- A recent study determined that as little as a teaspoon or two daily was enough to stimulate fungal growth. ([Location 282](https://readwise.io/to_kindle?action=open&asin=B0030EG3B8&location=282))
+    - Tags: [[pink]] 
+- Cortisone greatly accelerates fungal growth. ([Location 297](https://readwise.io/to_kindle?action=open&asin=B0030EG3B8&location=297))
+    - Tags: [[pink]] 
+- Let’s face it, fungi love sugar, and whether that sugar is found in fruit, human blood, or the forest floor, it will feed fungal growth. ([Location 304](https://readwise.io/to_kindle?action=open&asin=B0030EG3B8&location=304))
+    - Tags: [[pink]] 
+- fungi induce immune suppression. ([Location 307](https://readwise.io/to_kindle?action=open&asin=B0030EG3B8&location=307))
+- For the achievement of powerful health take the following: • the Mediterranean-source (hand-picked) oil of wild oregano • the crude whole oregano herb/spice, withRhus coriaria • the wild aromatic essence or juice • a purging agent consisting of heavy monunsaturated oils, with spice oils and extracts of wild remote-source greens, plus wild cranberry (for the kidneys) • a truly remote-source natural vitamin C with camu camu, acerola, and rose hips (be sure the camu camu is wild) • a natural multiple spice complex emulsified in bees wax ([Location 2047](https://readwise.io/to_kindle?action=open&asin=B0030EG3B8&location=2047))
+- The main value of slow-released form relates to its mechanism of action. Because it is slow release, it acts mainly on the lower intestines, especially the colon. ([Location 2057](https://readwise.io/to_kindle?action=open&asin=B0030EG3B8&location=2057))
+    - Tags: [[pink]] 
+- aromatic waters have ([Location 2061](https://readwise.io/to_kindle?action=open&asin=B0030EG3B8&location=2061))
+    - Tags: [[orange]] 
+- neurological conditions ([Location 2062](https://readwise.io/to_kindle?action=open&asin=B0030EG3B8&location=2062))
+    - Tags: [[orange]] 
+- The oil and the gradual release spice extract can also be used together. ([Location 2065](https://readwise.io/to_kindle?action=open&asin=B0030EG3B8&location=2065))
+    - Tags: [[blue]] 
+- chronic ([Location 2065](https://readwise.io/to_kindle?action=open&asin=B0030EG3B8&location=2065))

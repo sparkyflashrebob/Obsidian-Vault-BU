@@ -1,0 +1,1 @@
+The Buddhist teaching is not aimed at just getting another kind of experience. It is about understanding the nature of experience itself. It is aimed at actually observing what it means to be a human being. We are contemplating life, letting go of delusion, letting go of the source of human suffering and realizing truth, realizing Dhamma.

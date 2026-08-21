@@ -1,0 +1,9 @@
+ Based on the notes provided, there are several ways of dealing with past trauma, including:
+
+1. Mindfulness: Mindfulness can be a helpful tool for managing symptoms of traumatic stress. However, it can also generate problems for people struggling with traumatic stress, as it may invite them into contact with traumatic stimuli.
+2. Trauma-sensitive practice: Trauma-sensitive practice means that we have a basic understanding of trauma in the context of our work. This can involve being aware of the potential triggers that may arise when working with someone who has experienced trauma.
+3. Trauma-informed therapy: Trauma-informed therapy is a type of therapy that is designed to be sensitive to the needs of people who have experienced trauma. It involves understanding the impact of trauma on an individual's life and working to help them process and heal from their experiences.
+4. Animal-assisted therapy: Animal-assisted therapy involves using animals to help people cope with trauma. This can involve activities such as petting animals or caring for them.
+5. Mindful presence: Mindful presence involves being fully present in the moment and paying attention to our thoughts, feelings, and sensations without judgment. This can be a helpful tool for managing symptoms of trauma.
+6. Body-based therapies: Body-based therapies, such as yoga and massage, can be helpful for managing symptoms of trauma by helping individuals to connect with their bodies and release tension.
+7. Support groups: Support groups can be a helpful resource for people who have experienced trauma. They provide a safe and supportive space to share experiences and connect with others who have gone through similar challenges.

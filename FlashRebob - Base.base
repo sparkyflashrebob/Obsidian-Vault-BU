@@ -1,0 +1,27 @@
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - file.folder
+      - file.tags
+      - author
+      - created
+      - "Dates:"
+      - updated
+      - title
+      - tag
+      - tags
+    sort: []
+    columnSize:
+      file.name: 234
+      file.folder: 331
+      file.tags: 73
+      note.author: 65
+      note.created: 49
+      "note.Dates:": 75
+      note.updated: 57
+      note.title: 46
+      note.tag: 52
+  - type: list
+    name: View

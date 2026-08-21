@@ -1,0 +1,7 @@
+
+
+Interesting experience. I just.Was making my latte farming the milk up in the vibration of the the milk in the former at the end it was resonating in my ears like a jet engine and rumbling for a minute so I sat there and mindfulness I just read a quote from Tiknahan mindfulness is the light that shows us the way it is the living Buddha inside each of us and I was thinking oh that'd be great on put that in my book and then.
+
+Notice the the roar of the the milk foaming and then I slightly moved and it changed and it became lighter but I thought that would be that was something neat to be aware of another thing on the physical side is this morning. I was, you know, feeling thought I was feeling pretty good in the start of meditating and then realized I was telling having all these problems sitting and likewise and and then,Getting worse and worse and worse finally blew my nose in the car and it was very green and congested but that's not the way it started so felt very good and that's why I decided to sit in my my my custom meditation chair anyway just these notes. 
+
+I want to thought down and listening to eyes on tongue does talk on letting go so I want to have some comments on those things to a little later, so this is.Somewhere. I believe around what day is this here on the thing here it is. Sunday the 15th of October 2023.

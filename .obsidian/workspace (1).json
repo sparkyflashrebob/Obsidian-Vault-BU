@@ -1,0 +1,380 @@
+{
+  "main": {
+    "id": "e3ecb0fc783bc1f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "55325f18e0f90c8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6887db760bea2b43",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "_Canvas's/Spiritual Principles.canvas",
+                "viewState": {
+                  "x": -1045,
+                  "y": 250,
+                  "zoom": -1.6299310556997368
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-layout-dashboard",
+              "title": "Spiritual Principles"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aee42995d66c0805",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd9c09d17cfa66cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e81711adb1e22fa",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook-navigator",
+              "title": "Notebook Navigator"
+            }
+          },
+          {
+            "id": "afb66dc595009518",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0bf627110db318a0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Mindfulness",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "eda55551907424d2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "067f1946437635d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_A_My Research/_Buddhist Meditation vs Transactional Theology/Buddhist Meditation vs Transactional Theology.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Buddhist Meditation vs Transactional Theology"
+            }
+          },
+          {
+            "id": "26b89f7637d557e7",
+            "type": "leaf",
+            "state": {
+              "type": "chapters",
+              "state": {},
+              "icon": "book",
+              "title": "Book chapters"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 378.5
+  },
+  "right": {
+    "id": "b5cbb6a9c548b078",
+    "type": "split",
+    "children": [
+      {
+        "id": "67b7c09ea693f988",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee7beef3fe3c60cd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "a8336a0f001f17a7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Claude Writing Perspective.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Claude Writing Perspective"
+            }
+          },
+          {
+            "id": "73ecca9630350ad6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3912a63c9a76b13f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_A_My Journal and Notes/Personal Logs Recording Summaries/_from Bee transcripts/260601 - 260608 Joshua Tree Trip Report.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 260601 - 260608 Joshua Tree Trip Report"
+            }
+          },
+          {
+            "id": "5d781a5f164e03ad",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "clock",
+              "title": "Reminders"
+            }
+          },
+          {
+            "id": "adc54db7271e4da6",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          },
+          {
+            "id": "ff7404b2f3b2b3dd",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          },
+          {
+            "id": "1ad2aca4ed29a471",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "74b0ae618880fe4c",
+            "type": "leaf",
+            "state": {
+              "type": "goal",
+              "state": {},
+              "icon": "book",
+              "title": "Book goal"
+            }
+          },
+          {
+            "id": "f2cb84aa5d690015",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "148a8c62ad5ea9e8",
+            "type": "leaf",
+            "state": {
+              "type": "tag-network-view",
+              "state": {},
+              "icon": "git-graph",
+              "title": "Tag Network Visualization"
+            }
+          },
+          {
+            "id": "0919eb64dddd1d38",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
+          },
+          {
+            "id": "47273f9d5b07b0f5",
+            "type": "leaf",
+            "state": {
+              "type": "smart-lookup-view-connections",
+              "state": {},
+              "icon": "smart-lookup",
+              "title": "Lookup"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 479.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "ai-tagger-universe:Analyze and tag current note": false,
+      "ai-tagger-universe:View tag relationships network": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false,
+      "notebook-navigator:Notebook Navigator": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian42-text-transporter:Text Transporter": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Toggle Footer Connections": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "smart-connections:Smart Lookup: Open lookup view": false,
+      "task-board:Open task board": false,
+      "obsidian-task-progress-bar:Open Task Genius view": false
+    }
+  },
+  "active": "6887db760bea2b43",
+  "lastOpenFiles": [
+    "_A_My Journal and Notes/Personal Logs Recording Summaries/_from Bee transcripts/Bee Daily Note 260610.md",
+    "_A_My Journal and Notes/Personal Logs Recording Summaries/_from Bee transcripts/260601 - 260608 Joshua Tree Trip Report.md",
+    "what the bleep do we know.md",
+    "_A_My Research/_Buddhism/5 Sense Bases (see aggregates)",
+    "_A_My Research/_Buddhism/aahaara (nutriment)",
+    "_A_My Research/_Buddhism/Buddhism & Western Mindfulness",
+    "_A_My Research/_Buddhism/Four Noble Truths/1st Noble Truth/Dukkha",
+    "_A_My Research/_Buddhism/Dharma Subjects and Themes",
+    "_A_My Research/_Buddhism/Mindfulness/Mindfulness of Dharmas/Aggregates/Form",
+    "_A_My Research/_Buddhism/Mindfulness/Mindfulness of Dharmas/Aggregates/Feeling",
+    "_A_My Research/_Buddhism/Four Noble Truths/2nd Noble Truth",
+    "_A_My Research/_Buddhism/Mindfulness/Mindfulness of Dharmas/Aggregates/Sense Consciousness",
+    "_A_My Research/_Buddhism/Mindfulness/Mindfulness of Dharmas/Hindrances/Ill-Will or Aversion",
+    "Crestron/Training/Crestron DM-D-NVX Training Course Details.md",
+    "Crestron/Training/Crestron DMC-D-NVX.md",
+    "cards/banyan_editor_placeholder.md",
+    "AI/AI Applications Information/AI Applications Information.md",
+    "banyan_cards/banyan_editor_placeholder.md",
+    "_A_My Research/Spirituality/Spiritual Practices & Info/Spiritual Practices.md",
+    "_A_My Research/teachers/Ajahn Asoko/Ajahn Asoko - Facing the Storm - Abhayagiri.md",
+    "Attachments and Images/Pasted image 20250716172240.png",
+    "Attachments and Images/Pasted image 20250715171301.png",
+    "Attachments and Images/Pasted image 20250715170940.png",
+    "Attachments and Images/Pasted image 20250624111905.png",
+    "Attachments and Images/Pasted image 20250716175213.png",
+    "Attachments and Images/Pasted image 20250624120622.png",
+    "Unsorted Notes/empty files.md",
+    "Attachments and Images/Pasted image 20250804212113.png",
+    "Attachments and Images/Pasted image 20250630115618.png",
+    "Attachments and Images/Pasted image 20250804212056.png",
+    "Attachments and Images/Pasted image 20250624123416.png",
+    "Daily Notes/2023-01-23.md",
+    "Daily Notes/2025-07-07.md",
+    "_A_My Research/_Buddhism/Four Noble Truths/1st Noble Truth _ Two Methods.md",
+    "Daily Notes/2025-07-08.md",
+    "Daily Notes/2023-01-26.md",
+    "Unsorted Notes/The Paradoxical Commandments.md",
+    "_Canvas's/Spiritual Principles.canvas",
+    "_A_My Journal and Notes/Personal Logs Recording Summaries/_from Bee transcripts/Daily Reflective Log -  260530.md",
+    "_A_My Journal and Notes/Personal Logs Recording Summaries/_from Bee transcripts/Daily Log 260531.md",
+    "Unsorted Notes/AI Prompts.md",
+    "_Daily Log Notes (NotebookLM)/Personal Daily Log & Synthesis_ Transitioning to an _Awake_ Life (April 2026).md",
+    "_Daily Log Notes (NotebookLM)/Technical Work Log and Transition Report_ Week Ending 2026-04-20.md",
+    "_Daily Log Notes (NotebookLM)/Personal Daily Log & Philosophical Synthesis_ Period Ending 260420.md",
+    "_Daily Log Notes (NotebookLM)/Verbatim Transcript of Recorded Discussions_ April 13, 2026.md",
+    "_Daily Log Notes (NotebookLM)/Professional Daily Work Log and Transition Summary_ Period Ending April 28, 2026.md",
+    "_Daily Log Notes (NotebookLM)/Personal Daily Log and Narrative Insight Report_ April 2026.md",
+    "_Canvas's/Untitled.canvas"
+  ]
+}

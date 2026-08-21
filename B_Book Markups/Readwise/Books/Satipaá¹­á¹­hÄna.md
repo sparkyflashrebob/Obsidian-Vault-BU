@@ -1,0 +1,242 @@
+# Satipaá¹­á¹­hÄna
+
+![rw-book-cover](https://m.media-amazon.com/images/I/910-zI68KwL._SY160.jpg)
+
+## Metadata
+- Author: [[AnÄlayo]]
+- Full Title: Satipaá¹­á¹­hÄna
+- Category: #books
+
+## Highlights
+- This functional division into four satipaṭṭhānas seems to be a direct outcome of the Buddha’s awakening,5 a central aspect of his rediscovery of an ancient path of practice.6 ([Location 359](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=359))
+    - Tags: [[blue]] 
+- The “definition” also specifies the mental qualities that are instrumental for satipaṭṭhāna: one should be diligent (ātāpī), clearly knowing (sampajāna), mindful (sati), and free from desires and discontent (vineyya abhijjhādomanassa). ([Location 373](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=373))
+    - Tags: [[orange]] 
+- CONTEMPLATION ([Location 608](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=608))
+- to repeatedly look at ([Location 611](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=611))
+- an examination of the observed object from a particular viewpoint. ([Location 612](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=612))
+- contemplating the body as impermanent ([Location 613](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=613))
+- unattractive (asubhānupassī) and not-self ([Location 614](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=614))
+- particular features of the object are to be given prominence, ([Location 617](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=617))
+- In the present context, however, the feature to be contemplated appears to be the same as the object of contemplation. ([Location 618](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=618))
+- This slightly peculiar expression requires further consideration. ([Location 620](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=620))
+- body ([Location 622](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=622))
+- represent one’s own and another person’s body. ([Location 624](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=624))
+- second instance of “body ([Location 628](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=628))
+- contemplating the breath, ([Location 629](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=629))
+- postures ([Location 629](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=629))
+- activities ([Location 629](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=629))
+- anatomical constitution ([Location 629](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=629))
+- four elementary qualities ([Location 630](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=630))
+- decomposition of the body after death. ([Location 630](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=630))
+- a “sub-body ([Location 631](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=631))
+- arising” and the “passing away ([Location 634](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=634))
+- That is, to speak of contemplation in the present context refers to directing awareness to the body and in particular to a specific feature of it, namely its impermanent nature. ([Location 635](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=635))
+- in regard to your own body or the bodies of others, direct awareness to its (or their) impermanent nature evident in different aspects of the body, ([Location 638](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=638))
+- indicates emphasis, ([Location 641](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=641))
+- direct experience, ([Location 643](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=643))
+- as opposed to mere intellectual reflection. ([Location 643](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=643))
+- let the body speak for itself, ([Location 644](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=644))
+- the practice of satipaṭṭhāna requires the establishment of four particular mental qualities ([Location 646](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=646))
+- mental faculties of energy, wisdom, mindfulness, and concentration. ([Location 647](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=647))
+- Therefore, the form of “asceticism” the Buddha later taught was predominantly a mental one, characterized by a firm opposition to unwholesome thoughts and tendencies. ([Location 668](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=668))
+- highest form of exertion. ([Location 671](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=671))
+- only by way of desire, effort, and personal commitment can desirelessness be realized. ([Location 675](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=675))
+- Thus what these expressions point to is not so much the endurance of a painful sitting posture as a strong and unwavering commitment. ([Location 685](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=685))
+- the breakthrough to realization can only take place in a balanced state of mind, ([Location 687](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=687))
+- According to the discourses, developing understanding and detachment in regard to these three feelings has the potential to lead to freedom from dukkha.5 ([Location 2359](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2359))
+- This potential is based on the simple but ingenious method of directing awareness to the very first stages of the arising of likes and dislikes, by clearly noting whether the present moment’s experience is felt as “pleasant”, or “unpleasant”, or neither. ([Location 2362](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2362))
+    - Tags: [[orange]] 
+- Thus to contemplate feelings means quite literally to know how one feels, and this with such immediacy that the light of awareness is present before the onset of reactions, projections, or justifications in regard to how one ([Location 2364](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2364))
+    - Tags: [[blue]] 
+- feels. Undertaken in this way, contemplation of feelings will reveal the surprising degree to which one’s attitudes and reactions are based on this initial affective input provided by feelings. ([Location 2365](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2365))
+    - Tags: [[blue]] 
+- The systematic development of such immediate knowing will also strengthen one’s more intuitive modes of apperception, in the sense of the ability to get a feel for a situation or another person. This ability offers a helpful additional source of information in everyday life, complementing the information gained through more rational modes of observation and consideration. ([Location 2367](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2367))
+    - Tags: [[pink]] 
+- “worldly” ([Location 2371](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2371))
+    - Tags: [[orange]] 
+- “unworldly” ([Location 2371](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2371))
+    - Tags: [[orange]] 
+- “flesh” ([Location 2378](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2378))
+    - Tags: [[blue]] 
+- related to renunciation. ([Location 2378](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2378))
+    - Tags: [[orange]] 
+- The basic point introduced here is awareness of whether a particular feeling is related to progress or regress on the path. ([Location 2380](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2380))
+    - Tags: [[pink]] 
+- he placed emphasis on the mental and ethical consequences of all types of feeling. ([Location 2382](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2382))
+- With the help of the above sixfold classification, this ethical dimension becomes apparent, uncovering in particular the relation of feelings to the activation of a latent mental tendency (anusaya) towards lust, irritation, or ignorance.10 ([Location 2383](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2383))
+    - Tags: [[blue]] 
+- As the Cūḷavedalla Sutta points out, the arising of these underlying tendencies is mainly related to the three worldly types of feelings, whereas unworldly pleasant or neutral feelings arising during deep concentration, or unworldly unpleasant feelings arising owing to dissatisfaction with one’s spiritual imperfection, do not stimulate these underlying tendencies.11 ([Location 2385](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2385))
+    - Tags: [[orange]] 
+- The conditional relation between feelings and such mental tendencies is of central importance, since by activating these latent tendencies, feelings can lead to the arising of unwholesome mental reactions. The same principle underlies the corresponding section of the twelve links of dependent co-arising (paṭicca samuppāda), where feelings form the condition that can lead to the arising of craving (taṇhā).12 ([Location 2388](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2388))
+- This crucially important conditional dependence of craving and mental reactions on feeling probably constitutes the central reason why feelings have become one of the four satipaṭṭhānas. In addition, the arising of pleasant or unpleasant feelings is fairly easy to notice, which makes feelings convenient objects of meditation.13 ([Location 2392](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2392))
+    - Tags: [[orange]] 
+- Just as it would be foolish to contend with the vicissitudes of the weather, one need not contend with the vicissitudes of feelings. ([Location 2404](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2404))
+    - Tags: [[pink]] 
+- Contemplating in this way, one becomes able to establish a growing degree of inner detachment with regard to feelings. ([Location 2404](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2404))
+    - Tags: [[blue]] 
+- A mindful observer of feelings, by the very fact of observation, no longer fully identifies with them and thereby begins to move beyond the conditioning and controlling power of the pleasure–pain dichotomy.18 ([Location 2405](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2405))
+- The task of undermining identification with feelings is also reflected in the commentaries, which point out that to inquire “who feels?” is what leads from merely experiencing feeling to contemplating them as a satipaṭṭhāna.19 ([Location 2407](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2407))
+    - Tags: [[orange]] 
+- the Buddha instructed his monks to be neither elated by praise nor displeased by blame, since either reaction would only upset their mental composure. ([Location 2414](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2414))
+    - Tags: [[orange]] 
+- The intriguing feature of the Buddha’s approach is that his analysis focused mainly on the psychological underpinnings of views, rather than on their content. ([Location 2418](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2418))
+- psychological underpinnings of views, rather than on their content. ([Location 2418](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2418))
+    - Tags: [[pink]] 
+- Because of this approach, he was able to trace the arising of views to craving (taṇhā), which in turn arises dependent on feeling. ([Location 2419](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2419))
+    - Tags: [[pink]] 
+- trace the arising of views to craving ([Location 2419](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2419))
+    - Tags: [[blue]] 
+- which in turn arises dependent on feeling.22 ([Location 2420](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2420))
+- 22 Conversely, by fully understanding the role of feeling as a link between contact and craving, the view-forming process itself can be transcended. ([Location 2420](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2420))
+    - Tags: [[blue]] 
+- fully understanding the role of feeling as a link between contact and craving, the view-forming process itself can be transcended.23 ([Location 2421](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2421))
+    - Tags: [[orange]] 
+- 23 The Pāsādika Sutta explicitly presents such transcendence of views as an aim of satipaṭṭhāna contemplation. ([Location 2422](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2422))
+    - Tags: [[orange]] 
+- Sustained contemplation will reveal the fact that feelings decisively influence and colour subsequent thoughts and reactions. ([Location 2425](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2425))
+- In view of this conditioning role of feeling, the supposed supremacy of rational thought over feelings and emotions turns out to be an illusion. ([Location 2426](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2426))
+    - Tags: [[blue]] 
+- Logic and thought often serve merely to rationalize already existing likes and dislikes, which in turn are conditioned by the arising of either pleasant or unpleasant feelings. ([Location 2427](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2427))
+    - Tags: [[pink]] 
+- The initial stages of the perceptual process, when the first traces of liking and disliking appear, are usually not fully conscious, and their decisive influence on subsequent evaluations ([Location 2429](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2429))
+- often passes undetected. ([Location 2430](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2430))
+- Considered from a psychological perspective, feeling provides quick feedback during information processing, as a basis for motivation and action. ([Location 2431](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2431))
+    - Tags: [[blue]] 
+- Contemplation of feelings offers an opportunity to bring these evaluative and conditioning functions back into conscious awareness. ([Location 2436](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2436))
+    - Tags: [[pink]] 
+- Clear awareness of the conditioning impact of feeling can lead to a restructuring of habitual reaction patterns that have become meaningless or even detrimental. ([Location 2437](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2437))
+    - Tags: [[orange]] 
+- In this way, emotions can be deconditioned at their point of origin.30 ([Location 2438](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2438))
+- Without such deconditioning, any affective bias, being the outcome of the initial evaluation triggered by feeling, can find its expression in apparently well-reasoned “objective” opinions and views. ([Location 2439](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2439))
+    - Tags: [[pink]] 
+- In contrast, a realistic appraisal of the conditional dependence of views and opinions on the initial evaluative input provided by feeling uncovers the affective attachment underlying personal views and opinions. ([Location 2440](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2440))
+    - Tags: [[orange]] 
+- This dependency of views and opinions on the first evaluative impact of feeling is a prominent cause of subsequent dogmatic adherence and clinging. ([Location 2442](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2442))
+- For the Buddha, the crucial issue was to uncover the psychological attitude underlying the holding of any view,32 since he clearly saw that holding a particular view is often a manifestation of desire and attachment. ([Location 2445](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2445))
+    - Tags: [[pink]] 
+- An important aspect of the early Buddhist conception of right view is therefore to have the “right” attitude towards one’s beliefs and views. ([Location 2447](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2447))
+    - Tags: [[orange]] 
+- The crucial question here is whether one has developed attachment and clinging to one’s own views, ([Location 2448](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2448))
+- which often manifests in heated arguments and disputation. ([Location 2449](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2449))
+# Satipaá¹­á¹­hÄna
+
+![rw-book-cover](https://m.media-amazon.com/images/I/910-zI68KwL._SY160.jpg)
+
+## Metadata
+- Author: [[AnÄlayo]]
+- Full Title: Satipaá¹­á¹­hÄna
+- Category: #books
+
+## Highlights
+- This functional division into four satipaṭṭhānas seems to be a direct outcome of the Buddha’s awakening,5 a central aspect of his rediscovery of an ancient path of practice.6 ([Location 359](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=359))
+    - Tags: [[blue]] 
+- The “definition” also specifies the mental qualities that are instrumental for satipaṭṭhāna: one should be diligent (ātāpī), clearly knowing (sampajāna), mindful (sati), and free from desires and discontent (vineyya abhijjhādomanassa). ([Location 373](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=373))
+    - Tags: [[orange]] 
+- CONTEMPLATION ([Location 608](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=608))
+- to repeatedly look at ([Location 611](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=611))
+- an examination of the observed object from a particular viewpoint. ([Location 612](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=612))
+- contemplating the body as impermanent ([Location 613](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=613))
+- unattractive (asubhānupassī) and not-self ([Location 614](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=614))
+- particular features of the object are to be given prominence, ([Location 617](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=617))
+- In the present context, however, the feature to be contemplated appears to be the same as the object of contemplation. ([Location 618](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=618))
+- This slightly peculiar expression requires further consideration. ([Location 620](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=620))
+- body ([Location 622](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=622))
+- represent one’s own and another person’s body. ([Location 624](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=624))
+- second instance of “body ([Location 628](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=628))
+- contemplating the breath, ([Location 629](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=629))
+- postures ([Location 629](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=629))
+- activities ([Location 629](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=629))
+- anatomical constitution ([Location 629](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=629))
+- four elementary qualities ([Location 630](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=630))
+- decomposition of the body after death. ([Location 630](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=630))
+- a “sub-body ([Location 631](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=631))
+- arising” and the “passing away ([Location 634](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=634))
+- That is, to speak of contemplation in the present context refers to directing awareness to the body and in particular to a specific feature of it, namely its impermanent nature. ([Location 635](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=635))
+- in regard to your own body or the bodies of others, direct awareness to its (or their) impermanent nature evident in different aspects of the body, ([Location 638](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=638))
+- indicates emphasis, ([Location 641](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=641))
+- direct experience, ([Location 643](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=643))
+- as opposed to mere intellectual reflection. ([Location 643](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=643))
+- let the body speak for itself, ([Location 644](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=644))
+- the practice of satipaṭṭhāna requires the establishment of four particular mental qualities ([Location 646](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=646))
+- mental faculties of energy, wisdom, mindfulness, and concentration. ([Location 647](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=647))
+- Therefore, the form of “asceticism” the Buddha later taught was predominantly a mental one, characterized by a firm opposition to unwholesome thoughts and tendencies. ([Location 668](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=668))
+- highest form of exertion. ([Location 671](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=671))
+- only by way of desire, effort, and personal commitment can desirelessness be realized. ([Location 675](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=675))
+- Thus what these expressions point to is not so much the endurance of a painful sitting posture as a strong and unwavering commitment. ([Location 685](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=685))
+- the breakthrough to realization can only take place in a balanced state of mind, ([Location 687](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=687))
+- According to the discourses, developing understanding and detachment in regard to these three feelings has the potential to lead to freedom from dukkha.5 ([Location 2359](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2359))
+- This potential is based on the simple but ingenious method of directing awareness to the very first stages of the arising of likes and dislikes, by clearly noting whether the present moment’s experience is felt as “pleasant”, or “unpleasant”, or neither. ([Location 2362](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2362))
+    - Tags: [[orange]] 
+- Thus to contemplate feelings means quite literally to know how one feels, and this with such immediacy that the light of awareness is present before the onset of reactions, projections, or justifications in regard to how one ([Location 2364](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2364))
+    - Tags: [[blue]] 
+- feels. Undertaken in this way, contemplation of feelings will reveal the surprising degree to which one’s attitudes and reactions are based on this initial affective input provided by feelings. ([Location 2365](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2365))
+    - Tags: [[blue]] 
+- The systematic development of such immediate knowing will also strengthen one’s more intuitive modes of apperception, in the sense of the ability to get a feel for a situation or another person. This ability offers a helpful additional source of information in everyday life, complementing the information gained through more rational modes of observation and consideration. ([Location 2367](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2367))
+    - Tags: [[pink]] 
+- “worldly” ([Location 2371](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2371))
+    - Tags: [[orange]] 
+- “unworldly” ([Location 2371](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2371))
+    - Tags: [[orange]] 
+- “flesh” ([Location 2378](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2378))
+    - Tags: [[blue]] 
+- related to renunciation. ([Location 2378](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2378))
+    - Tags: [[orange]] 
+- The basic point introduced here is awareness of whether a particular feeling is related to progress or regress on the path. ([Location 2380](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2380))
+    - Tags: [[pink]] 
+- he placed emphasis on the mental and ethical consequences of all types of feeling. ([Location 2382](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2382))
+- With the help of the above sixfold classification, this ethical dimension becomes apparent, uncovering in particular the relation of feelings to the activation of a latent mental tendency (anusaya) towards lust, irritation, or ignorance.10 ([Location 2383](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2383))
+    - Tags: [[blue]] 
+- As the Cūḷavedalla Sutta points out, the arising of these underlying tendencies is mainly related to the three worldly types of feelings, whereas unworldly pleasant or neutral feelings arising during deep concentration, or unworldly unpleasant feelings arising owing to dissatisfaction with one’s spiritual imperfection, do not stimulate these underlying tendencies.11 ([Location 2385](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2385))
+    - Tags: [[orange]] 
+- The conditional relation between feelings and such mental tendencies is of central importance, since by activating these latent tendencies, feelings can lead to the arising of unwholesome mental reactions. The same principle underlies the corresponding section of the twelve links of dependent co-arising (paṭicca samuppāda), where feelings form the condition that can lead to the arising of craving (taṇhā).12 ([Location 2388](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2388))
+- This crucially important conditional dependence of craving and mental reactions on feeling probably constitutes the central reason why feelings have become one of the four satipaṭṭhānas. In addition, the arising of pleasant or unpleasant feelings is fairly easy to notice, which makes feelings convenient objects of meditation.13 ([Location 2392](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2392))
+    - Tags: [[orange]] 
+- Just as it would be foolish to contend with the vicissitudes of the weather, one need not contend with the vicissitudes of feelings. ([Location 2404](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2404))
+    - Tags: [[pink]] 
+- Contemplating in this way, one becomes able to establish a growing degree of inner detachment with regard to feelings. ([Location 2404](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2404))
+    - Tags: [[blue]] 
+- A mindful observer of feelings, by the very fact of observation, no longer fully identifies with them and thereby begins to move beyond the conditioning and controlling power of the pleasure–pain dichotomy.18 ([Location 2405](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2405))
+- The task of undermining identification with feelings is also reflected in the commentaries, which point out that to inquire “who feels?” is what leads from merely experiencing feeling to contemplating them as a satipaṭṭhāna.19 ([Location 2407](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2407))
+    - Tags: [[orange]] 
+- the Buddha instructed his monks to be neither elated by praise nor displeased by blame, since either reaction would only upset their mental composure. ([Location 2414](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2414))
+    - Tags: [[orange]] 
+- The intriguing feature of the Buddha’s approach is that his analysis focused mainly on the psychological underpinnings of views, rather than on their content. ([Location 2418](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2418))
+- psychological underpinnings of views, rather than on their content. ([Location 2418](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2418))
+    - Tags: [[pink]] 
+- Because of this approach, he was able to trace the arising of views to craving (taṇhā), which in turn arises dependent on feeling. ([Location 2419](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2419))
+    - Tags: [[pink]] 
+- trace the arising of views to craving ([Location 2419](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2419))
+    - Tags: [[blue]] 
+- which in turn arises dependent on feeling.22 ([Location 2420](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2420))
+- 22 Conversely, by fully understanding the role of feeling as a link between contact and craving, the view-forming process itself can be transcended. ([Location 2420](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2420))
+    - Tags: [[blue]] 
+- fully understanding the role of feeling as a link between contact and craving, the view-forming process itself can be transcended.23 ([Location 2421](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2421))
+    - Tags: [[orange]] 
+- 23 The Pāsādika Sutta explicitly presents such transcendence of views as an aim of satipaṭṭhāna contemplation. ([Location 2422](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2422))
+    - Tags: [[orange]] 
+- Sustained contemplation will reveal the fact that feelings decisively influence and colour subsequent thoughts and reactions. ([Location 2425](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2425))
+- In view of this conditioning role of feeling, the supposed supremacy of rational thought over feelings and emotions turns out to be an illusion. ([Location 2426](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2426))
+    - Tags: [[blue]] 
+- Logic and thought often serve merely to rationalize already existing likes and dislikes, which in turn are conditioned by the arising of either pleasant or unpleasant feelings. ([Location 2427](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2427))
+    - Tags: [[pink]] 
+- The initial stages of the perceptual process, when the first traces of liking and disliking appear, are usually not fully conscious, and their decisive influence on subsequent evaluations ([Location 2429](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2429))
+- often passes undetected. ([Location 2430](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2430))
+- Considered from a psychological perspective, feeling provides quick feedback during information processing, as a basis for motivation and action. ([Location 2431](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2431))
+    - Tags: [[blue]] 
+- Contemplation of feelings offers an opportunity to bring these evaluative and conditioning functions back into conscious awareness. ([Location 2436](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2436))
+    - Tags: [[pink]] 
+- Clear awareness of the conditioning impact of feeling can lead to a restructuring of habitual reaction patterns that have become meaningless or even detrimental. ([Location 2437](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2437))
+    - Tags: [[orange]] 
+- In this way, emotions can be deconditioned at their point of origin.30 ([Location 2438](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2438))
+- Without such deconditioning, any affective bias, being the outcome of the initial evaluation triggered by feeling, can find its expression in apparently well-reasoned “objective” opinions and views. ([Location 2439](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2439))
+    - Tags: [[pink]] 
+- In contrast, a realistic appraisal of the conditional dependence of views and opinions on the initial evaluative input provided by feeling uncovers the affective attachment underlying personal views and opinions. ([Location 2440](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2440))
+    - Tags: [[orange]] 
+- This dependency of views and opinions on the first evaluative impact of feeling is a prominent cause of subsequent dogmatic adherence and clinging. ([Location 2442](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2442))
+- For the Buddha, the crucial issue was to uncover the psychological attitude underlying the holding of any view,32 since he clearly saw that holding a particular view is often a manifestation of desire and attachment. ([Location 2445](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2445))
+    - Tags: [[pink]] 
+- An important aspect of the early Buddhist conception of right view is therefore to have the “right” attitude towards one’s beliefs and views. ([Location 2447](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2447))
+    - Tags: [[orange]] 
+- The crucial question here is whether one has developed attachment and clinging to one’s own views, ([Location 2448](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2448))
+- which often manifests in heated arguments and disputation. ([Location 2449](https://readwise.io/to_kindle?action=open&asin=B00DEDAXQ6&location=2449))

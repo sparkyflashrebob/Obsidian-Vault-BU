@@ -1,0 +1,2 @@
+
+In Theravada, Buddhism pariyatti is the learning of the theory of buddhadharma as contained within the suttas of the Pali canon. It is contrasted with patipatti which means to put the theory into practice and pativedha which means penetrating it or rather experientially realizing the truth of it.

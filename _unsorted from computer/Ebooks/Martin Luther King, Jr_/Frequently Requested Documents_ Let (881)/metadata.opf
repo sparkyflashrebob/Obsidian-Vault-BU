@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">881</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">46d0005a-5312-4101-8fbc-a6c89a443018</dc:identifier>
+        <dc:title>Frequently Requested Documents: Letter From the Birmingham Jail</dc:title>
+        <dc:creator opf:file-as="Martin Luther King, Jr." opf:role="aut">Martin Luther King, Jr.</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.9.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <dc:subject>Martin Luther King</dc:subject>
+        <dc:subject>Jr.</dc:subject>
+        <dc:subject>segregation</dc:subject>
+        <dc:subject>Birmingham</dc:subject>
+        <dc:subject>1963</dc:subject>
+        <meta content="{&quot;Martin Luther King, Jr.&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-01-29T04:33:29.570000+00:00" name="calibre:timestamp"/>
+        <meta content="Frequently Requested Documents: Letter From the Birmingham Jail" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

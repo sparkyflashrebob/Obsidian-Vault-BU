@@ -1,0 +1,14 @@
+---
+tags: []
+---
+
+Irish to Irish
+PTSD - Fighting
+Mental Health
+Okay to get help
+years of judging bad person - thoughts of others being bad
+attack - object of hate - people different from you - like you
+
+What you think about vs What you do.  so I don't know about you but there's a lot of things that pop up into my mind are just crazy.   there's no way that when I think about them that they are anyway how I want to be in the person I want to be so  but I have to separate those things out the easiest way to axilla Strait this is to be an example when I'm driving when I'm driving I want to get warm where I'm going I don't want to be blocked I don't want to be slowed down on a builder free to move about as I wish but that rarely happens where I live is always something in the way or somebody else that wants to get where they need to go back more badly than I do so exhibiting patience brings about peace but this thinking these thoughts recur over and over and over thinking of what tasks I have to do and being able to do them fast and Fast and efficient and correctly so that people will want to Pat me on the back and say I'm a good do a good job this is security
+
+You thinking that you know how to help and to understand others gets kicked into deeper a Jeep overdrive and times and this is one of those cases where you could see if there is something deep within the guy that it was just the way it is I suggested did he get help that he take meds that he could work with what was going on with him in different ways he could work with it and none of those things seemed available to him and I've been there where I was stuck I was stuck but I couldn't see anything in the other way and there were no other possibilities so then you just said and you listen to people I should not offer advice you shouldn't you know I it's not that you're trying to tell people how to do to do what you had to live their lives but you want to be get be able to help them and in this case you know being someone who has experienced trauma both personally and around Tim and who is of the same quote who could identify with Irish ethnicity if you do that then the tables get turned and you become the target to happen so many times and the other thing is that when people feel like they don't meet the expectations that are put that are placed and they resent the things that are not against them but those ideals so you started hating me the immigrants come into this country and has worked hard and been able to establish their own business when you haven't done anything to to do those kinds of things but you just resent it and you're right you knew this or any other cases it's you you're attracted to those people that are like you want to be so you're blind to all of the things that they also the views they have that maybe not baby not be truly in the best interests of humanity

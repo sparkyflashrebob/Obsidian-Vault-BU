@@ -1,0 +1,15 @@
+filters:
+  and:
+    - 'file.inFolder("_A_My Research")'
+    - 'file.ext == "md"'
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - note.Tags
+      - note.Thumbnail
+      - file.mtime
+  - type: cards
+    name: Cards
+    image: note.Thumbnail

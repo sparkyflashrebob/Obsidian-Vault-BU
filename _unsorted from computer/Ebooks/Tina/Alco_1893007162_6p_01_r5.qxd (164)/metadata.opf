@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">164</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ea01fe0c-4287-46d7-bc8b-900e2163ff93</dc:identifier>
+        <dc:title>Alco_1893007162_6p_01_r5.qxd</dc:title>
+        <dc:creator opf:file-as="Tina" opf:role="aut">Tina</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.9.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Tina&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-01-29T04:05:16.549000+00:00" name="calibre:timestamp"/>
+        <meta content="Alco_1893007162_6p_01_r5.qxd" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

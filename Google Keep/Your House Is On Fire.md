@@ -1,0 +1,2 @@
+
+Usually when we are angry with someone we are more interested in fighting with them than in taking care of our own feelings. It’s like someone whose house is on fire running after the person who has set fire to their house instead of going home to put out the flames.

@@ -1,0 +1,77 @@
+https://www.joincake.com/blog/gratitude-quotes-buddha/#:~:text=According%20to%20BuddhistDoor%20Global%2C%20gratitude,of%20someone's%20integrity%20and%20civility.%E2%80%9D
+
+https://greatergood.berkeley.edu/article/item/why_gratitude_is_good
+Robert Emmons - Scientific Expert on Gratitude
+
+https://greatergood.berkeley.edu/article/item/jack_kornfield_on_gratitude_and_mindfulness
+Jack Kornfield
+
+A. Prayer Asking for difficulties - so that my heart may open.
+“In certain temples that I’ve been to, there’s actually a prayer that you make asking for difficulties,” says Western Buddhist master Jack Kornfield. “May I be given the appropriate difficulties so that my heart can truly open with compassion. Imagine asking for that.”
+
+Suffering A Key Component of living a spiritual life
+
+“This life is a test— it is only a test,” Kornfield writes in A Path With Heart. “If it had been an actual life, you would have received further instructions on where to go and what to do. Remember, this life is only a test.”
+
+If we see the world as sacred, which is an expression of the spiritual life, then gratitude follows immediately and naturally.
+
+Privaledge of being incarnated as human beings
+10,000 joys and 10,000 sorrows (says in Tao Te Ching)
+Lavender color of sunset
+taste of a tangerine in our mouth
+almost unbearable beauty of life around us
+along with its troubles
+
+Can either lost in a smaller state of consciousness - the body of fear - which brings suffering to us and others
+or a quality of love and appreciation, which I would call gratitude, to life
+
+With it comes a kind of trust
+
+"You can pick all of the flowers, but you can't stop the spring."
+
+Where have you learned more compassion?
+Where have you learned more?
+Where has your heart grown wiser - in just the good times, or going thru difficulties?
+
+Naikan Therapy -  review your life and begin to remember all the things you have gratitude towards, even the things that were difficult and taught you lessons. Or even the people that were difficult, sometimes in your own family— [remembering] the gratitude you have for family, that they’re even there.
+
+Meth addict kids- Grandfather - take care of kids - after great dispare began gratitude practice - the grandchildren,  - his children were still alive - considering treatment - learned about the waves of addiction in this country - that he could help to contribute to bringing an end to it.
+by being able to find gratitude as well, he was able to bear the difficulties and bring some grace and love to it.
+
+Mindfulness - beginners mind - see the world afresh without being lost in our reactions and judgements
+- seeing it afresh with a clarity
+	- respond rather than react
+
+JK - translate mindfulness as loving awareness
+- awareness that knows what's present
+- bring a quality of compassion and lovingkindness to that.
+- allows us to become present in our own body
+- for the person in front of us
+- for the life that we have been given
+
+What grows out of that is a spirit of gratitude
+Cultivating an opening to gratitude also helps us to be more mindful of the life around us
+what circumstance we are in
+
+JK: One very articulate writer on this subject, Anne Wilson Schaef [author of When Society Becomes an Addict], has described ours as an addicted society. Whether it’s consumerism or addictive substances or just keeping ourselves busy or being online or working 80 hours a week, we have things that keep us busy because, in some ways, the culture wants us to keep engaged and not to look around much… not to see the struggles of people, the continuing injustice, the economic disparities, the people who are hungry, climate change. 
+
+What becomes clear is that there’s no outer fix or satisfaction—no amount of computers, no amount of nanotechnology or biotechnology and all the great things that we’ve developed that will stop us from continuing warfare, racism and environment destruction.
+
+Those outer developments have to be matched by a transformation of human consciousness to realize that we are interdependent and we depend on the air we breathe, and on people in other nations as they depend on us. 
+
+
+
+We are woven, as Dr. Martin Luther King said, into a single garment of destiny. When we see this, we begin to realize that the values of consumerism and getting more and more—which start to become emptier and emptier—don’t satisfy the heart. 
+
+
+
+When we look at what’s satisfied us in the past week or month or decade, it’s been the connections, the love and the openness of our lives to the places we’ve traveled and the people we’ve met. 
+
+
+
+This really is the basis for gratitude. 
+
+
+
+Then we start to sense that it is possible to live with a quieter mind and an open heart, and with a sense of satisfaction within ourselves—it’s the satisfaction of well-being.
+

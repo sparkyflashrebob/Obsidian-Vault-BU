@@ -1,0 +1,142 @@
+# Feeling Good Together
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/51uZGnUPwGL._SL200_.jpg)
+
+## Metadata
+- Author: [[David D. Burns]]
+- Full Title: Feeling Good Together
+- Category: #books
+
+## Highlights
+- deficit theory. ([Location 61](https://readwise.io/to_kindle?action=open&asin=B001FA0KG8&location=61))
+    - Tags: [[pink]] 
+- motivational theory. ([Location 65](https://readwise.io/to_kindle?action=open&asin=B001FA0KG8&location=65))
+    - Tags: [[pink]] 
+- women use language to express feelings, ([Location 77](https://readwise.io/to_kindle?action=open&asin=B001FA0KG8&location=77))
+    - Tags: [[pink]] 
+- men use language to solve problems. ([Location 77](https://readwise.io/to_kindle?action=open&asin=B001FA0KG8&location=77))
+    - Tags: [[orange]] 
+- Cognitive therapists have a different idea about the deficits that lead to relationship problems. They emphasize that all of our feelings result from our thoughts and attitudes, or cognitions. In other words, the things other people do—like being critical or rudely cutting in front of us in traffic—don’t actually upset us. Instead, we get upset because of the way we think about these events. ([Location 81](https://readwise.io/to_kindle?action=open&asin=B001FA0KG8&location=81))
+- cognitive distortions, ([Location 87](https://readwise.io/to_kindle?action=open&asin=B001FA0KG8&location=87))
+    - Tags: [[pink]] 
+- you’re telling yourself things that aren’t entirely true ([Location 89](https://readwise.io/to_kindle?action=open&asin=B001FA0KG8&location=89))
+    - Tags: [[pink]] 
+- Cognitive therapy is based on the idea that when you change the way you think, you can change the way you feel and behave. ([Location 93](https://readwise.io/to_kindle?action=open&asin=B001FA0KG8&location=93))
+    - Tags: [[pink]] 
+- there’s a side of us that clings to these distortions. ([Location 96](https://readwise.io/to_kindle?action=open&asin=B001FA0KG8&location=96))
+    - Tags: [[blue]] 
+- there is no truly effective form of marital therapy in the world at this time.* ([Location 218](https://readwise.io/to_kindle?action=open&asin=B001FA0KG8&location=218))
+    - Tags: [[orange]] 
+- human beings are inherently good. ([Location 244](https://readwise.io/to_kindle?action=open&asin=B001FA0KG8&location=244))
+    - Tags: [[pink]] 
+- we don’t want to. ([Location 256](https://readwise.io/to_kindle?action=open&asin=B001FA0KG8&location=256))
+    - Tags: [[orange]] 
+- Is it really possible that we’re secretly attracted to conflict and hostility? ([Location 257](https://readwise.io/to_kindle?action=open&asin=B001FA0KG8&location=257))
+    - Tags: [[orange]] 
+- What do I want more—the rewards of the battle, or the rewards of a close, loving relationship? ([Location 461](https://readwise.io/to_kindle?action=open&asin=B001FA0KG8&location=461))
+    - Tags: [[orange]] 
+- didn’t understand a single thing about emotions. ([Location 472](https://readwise.io/to_kindle?action=open&asin=B001FA0KG8&location=472))
+    - Tags: [[orange]] 
+- First, you have to be able to express your feelings openly and directly. ([Location 482](https://readwise.io/to_kindle?action=open&asin=B001FA0KG8&location=482))
+    - Tags: [[blue]] 
+- Second, you have to be able to listen nondefensively when your partner talks. ([Location 483](https://readwise.io/to_kindle?action=open&asin=B001FA0KG8&location=483))
+    - Tags: [[pink]] 
+- Third, you have to treat your partner with respect, even if you feel angry or frustrated. This doesn’t mean that you have to hide or deny your angry feelings. It simply means that you share them in a respectful way without demeaning or insulting your partner. ([Location 483](https://readwise.io/to_kindle?action=open&asin=B001FA0KG8&location=483))
+- Bad communication is just the opposite. ([Location 485](https://readwise.io/to_kindle?action=open&asin=B001FA0KG8&location=485))
+- convey receptive body language. ([Location 492](https://readwise.io/to_kindle?action=open&asin=B001FA0KG8&location=492))
+    - Tags: [[orange]] 
+- When it finally dawns on me that I was actually provoking the problem, it feels embarrassing and shameful. ([Location 542](https://readwise.io/to_kindle?action=open&asin=B001FA0KG8&location=542))
+    - Tags: [[orange]] 
+- Cognitive Interpersonal Therapy ([Location 547](https://readwise.io/to_kindle?action=open&asin=B001FA0KG8&location=547))
+    - Tags: [[orange]] 
+- We all provoke and maintain the exact relationship problems that we complain about. ([Location 549](https://readwise.io/to_kindle?action=open&asin=B001FA0KG8&location=549))
+    - Tags: [[pink]] 
+- We want to do our dirty work in the dark so we can maintain a façade of innocence. ([Location 552](https://readwise.io/to_kindle?action=open&asin=B001FA0KG8&location=552))
+    - Tags: [[blue]] 
+- We all have far more power than we think to transform trou bled relationships—if we’re willing to stop blaming the other person and ([Location 554](https://readwise.io/to_kindle?action=open&asin=B001FA0KG8&location=554))
+- focus instead on changing ourselves. The healing can happen far more quickly than you might think. In fact, you can often reverse years of bitterness and mistrust almost instantly—but you’ll have to be willing to work hard and ex perience some pain along the way if you want to experience this kind of miracle. ([Location 555](https://readwise.io/to_kindle?action=open&asin=B001FA0KG8&location=555))
+- Relationship Satisfaction Test (RSAT). ([Location 565](https://readwise.io/to_kindle?action=open&asin=B001FA0KG8&location=565))
+    - Tags: [[blue]] 
+- you, ([Location 570](https://readwise.io/to_kindle?action=open&asin=B001FA0KG8&location=570))
+    - Tags: [[orange]] 
+- Relationship Journal ([Location 575](https://readwise.io/to_kindle?action=open&asin=B001FA0KG8&location=575))
+    - Tags: [[orange]] 
+- Five Secrets of Effective Communication. ([Location 576](https://readwise.io/to_kindle?action=open&asin=B001FA0KG8&location=576))
+    - Tags: [[pink]] 
+- each partner’s feelings seemed to depend entirely on their own attitudes, and not their partner’s. ([Location 801](https://readwise.io/to_kindle?action=open&asin=B001FA0KG8&location=801))
+    - Tags: [[orange]] 
+- The only thing that really seems to matter is this: Do you blame your partner for the problems in your relationship? If so, you may be in for a tough time. However, if you’re willing to examine your own role in the problem and you feel that it’s your job to make your partner happy, the prognosis for a rewarding, successful relationship is extremely positive—now and in the future. ([Location 810](https://readwise.io/to_kindle?action=open&asin=B001FA0KG8&location=810))
+    - Tags: [[pink]] 
+- Personal responsibility, without any blame at all, is the mind-set that leads to intimacy. ([Location 838](https://readwise.io/to_kindle?action=open&asin=B001FA0KG8&location=838))
+    - Tags: [[orange]] 
+# Feeling Good Together
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/51uZGnUPwGL._SL200_.jpg)
+
+## Metadata
+- Author: [[David D. Burns]]
+- Full Title: Feeling Good Together
+- Category: #books
+
+## Highlights
+- deficit theory. ([Location 61](https://readwise.io/to_kindle?action=open&asin=B001FA0KG8&location=61))
+    - Tags: [[pink]] 
+- motivational theory. ([Location 65](https://readwise.io/to_kindle?action=open&asin=B001FA0KG8&location=65))
+    - Tags: [[pink]] 
+- women use language to express feelings, ([Location 77](https://readwise.io/to_kindle?action=open&asin=B001FA0KG8&location=77))
+    - Tags: [[pink]] 
+- men use language to solve problems. ([Location 77](https://readwise.io/to_kindle?action=open&asin=B001FA0KG8&location=77))
+    - Tags: [[orange]] 
+- Cognitive therapists have a different idea about the deficits that lead to relationship problems. They emphasize that all of our feelings result from our thoughts and attitudes, or cognitions. In other words, the things other people do—like being critical or rudely cutting in front of us in traffic—don’t actually upset us. Instead, we get upset because of the way we think about these events. ([Location 81](https://readwise.io/to_kindle?action=open&asin=B001FA0KG8&location=81))
+- cognitive distortions, ([Location 87](https://readwise.io/to_kindle?action=open&asin=B001FA0KG8&location=87))
+    - Tags: [[pink]] 
+- you’re telling yourself things that aren’t entirely true ([Location 89](https://readwise.io/to_kindle?action=open&asin=B001FA0KG8&location=89))
+    - Tags: [[pink]] 
+- Cognitive therapy is based on the idea that when you change the way you think, you can change the way you feel and behave. ([Location 93](https://readwise.io/to_kindle?action=open&asin=B001FA0KG8&location=93))
+    - Tags: [[pink]] 
+- there’s a side of us that clings to these distortions. ([Location 96](https://readwise.io/to_kindle?action=open&asin=B001FA0KG8&location=96))
+    - Tags: [[blue]] 
+- there is no truly effective form of marital therapy in the world at this time.* ([Location 218](https://readwise.io/to_kindle?action=open&asin=B001FA0KG8&location=218))
+    - Tags: [[orange]] 
+- human beings are inherently good. ([Location 244](https://readwise.io/to_kindle?action=open&asin=B001FA0KG8&location=244))
+    - Tags: [[pink]] 
+- we don’t want to. ([Location 256](https://readwise.io/to_kindle?action=open&asin=B001FA0KG8&location=256))
+    - Tags: [[orange]] 
+- Is it really possible that we’re secretly attracted to conflict and hostility? ([Location 257](https://readwise.io/to_kindle?action=open&asin=B001FA0KG8&location=257))
+    - Tags: [[orange]] 
+- What do I want more—the rewards of the battle, or the rewards of a close, loving relationship? ([Location 461](https://readwise.io/to_kindle?action=open&asin=B001FA0KG8&location=461))
+    - Tags: [[orange]] 
+- didn’t understand a single thing about emotions. ([Location 472](https://readwise.io/to_kindle?action=open&asin=B001FA0KG8&location=472))
+    - Tags: [[orange]] 
+- First, you have to be able to express your feelings openly and directly. ([Location 482](https://readwise.io/to_kindle?action=open&asin=B001FA0KG8&location=482))
+    - Tags: [[blue]] 
+- Second, you have to be able to listen nondefensively when your partner talks. ([Location 483](https://readwise.io/to_kindle?action=open&asin=B001FA0KG8&location=483))
+    - Tags: [[pink]] 
+- Third, you have to treat your partner with respect, even if you feel angry or frustrated. This doesn’t mean that you have to hide or deny your angry feelings. It simply means that you share them in a respectful way without demeaning or insulting your partner. ([Location 483](https://readwise.io/to_kindle?action=open&asin=B001FA0KG8&location=483))
+- Bad communication is just the opposite. ([Location 485](https://readwise.io/to_kindle?action=open&asin=B001FA0KG8&location=485))
+- convey receptive body language. ([Location 492](https://readwise.io/to_kindle?action=open&asin=B001FA0KG8&location=492))
+    - Tags: [[orange]] 
+- When it finally dawns on me that I was actually provoking the problem, it feels embarrassing and shameful. ([Location 542](https://readwise.io/to_kindle?action=open&asin=B001FA0KG8&location=542))
+    - Tags: [[orange]] 
+- Cognitive Interpersonal Therapy ([Location 547](https://readwise.io/to_kindle?action=open&asin=B001FA0KG8&location=547))
+    - Tags: [[orange]] 
+- We all provoke and maintain the exact relationship problems that we complain about. ([Location 549](https://readwise.io/to_kindle?action=open&asin=B001FA0KG8&location=549))
+    - Tags: [[pink]] 
+- We want to do our dirty work in the dark so we can maintain a façade of innocence. ([Location 552](https://readwise.io/to_kindle?action=open&asin=B001FA0KG8&location=552))
+    - Tags: [[blue]] 
+- We all have far more power than we think to transform trou bled relationships—if we’re willing to stop blaming the other person and ([Location 554](https://readwise.io/to_kindle?action=open&asin=B001FA0KG8&location=554))
+- focus instead on changing ourselves. The healing can happen far more quickly than you might think. In fact, you can often reverse years of bitterness and mistrust almost instantly—but you’ll have to be willing to work hard and ex perience some pain along the way if you want to experience this kind of miracle. ([Location 555](https://readwise.io/to_kindle?action=open&asin=B001FA0KG8&location=555))
+- Relationship Satisfaction Test (RSAT). ([Location 565](https://readwise.io/to_kindle?action=open&asin=B001FA0KG8&location=565))
+    - Tags: [[blue]] 
+- you, ([Location 570](https://readwise.io/to_kindle?action=open&asin=B001FA0KG8&location=570))
+    - Tags: [[orange]] 
+- Relationship Journal ([Location 575](https://readwise.io/to_kindle?action=open&asin=B001FA0KG8&location=575))
+    - Tags: [[orange]] 
+- Five Secrets of Effective Communication. ([Location 576](https://readwise.io/to_kindle?action=open&asin=B001FA0KG8&location=576))
+    - Tags: [[pink]] 
+- each partner’s feelings seemed to depend entirely on their own attitudes, and not their partner’s. ([Location 801](https://readwise.io/to_kindle?action=open&asin=B001FA0KG8&location=801))
+    - Tags: [[orange]] 
+- The only thing that really seems to matter is this: Do you blame your partner for the problems in your relationship? If so, you may be in for a tough time. However, if you’re willing to examine your own role in the problem and you feel that it’s your job to make your partner happy, the prognosis for a rewarding, successful relationship is extremely positive—now and in the future. ([Location 810](https://readwise.io/to_kindle?action=open&asin=B001FA0KG8&location=810))
+    - Tags: [[pink]] 
+- Personal responsibility, without any blame at all, is the mind-set that leads to intimacy. ([Location 838](https://readwise.io/to_kindle?action=open&asin=B001FA0KG8&location=838))
+    - Tags: [[orange]] 

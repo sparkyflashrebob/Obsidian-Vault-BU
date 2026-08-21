@@ -1,0 +1,46 @@
+---
+title: "Seeking Zen at a silent Buddhist retreat comes with its own challenges"
+source: "https://www.theguardian.com/lifeandstyle/2025/feb/02/seeking-zen-at-a-silent-buddhist-retreat-comes-with-its-own-challenges"
+author:
+  - "[[Tim Lott]]"
+published: 2025-02-02
+created: 2025-02-02
+description: "It was supposed to be a quiet and peaceful weekend, but it left one writer lost for words"
+tags:
+  - "clippings"
+---
+As the taxi approached the remote Lake District house where I’d be spending a week doing a silent Buddhist retreat, a thought struck me with Zen-like clarity.
+
+*You must be out of your tiny mind.*
+
+The theme of the retreat was “appreciate your life” and it involved spending most of the day in silence: rising at 5.40am to start *zazen* (meditating*)* and not finishing until 8am; eating a silent breakfast with the other 20 people participating in this lunacy. After breakfast, spending 45 minutes washing up, then 90 minutes doing *samu* (work): chopping, shredding and peeling vegetables as preparation for the rest of the day’s meals.
+
+I briefly contemplated asking the taxi to turn around. But my former therapist, [Manu Bazzano](https://manubazzano.com/), a Zen priest, had invited me to join him on the retreat, which he was leading. The two of us have had conversations about Zen published on my [Substack](https://substack.com/@timlott) pages, but I had never dived in and walked the walk, so to speak – I had only talked the talk. I didn’t want Manu to think I was faint-hearted about his vocation. So I had accepted, but not because I had a particular outcome in mind (though I was certainly curious about Zen). I went because of Manu himself. With his shaved head, warm, wide smile and perpetually amused eyes, he has the sort of magnetism that can drag you out of your comfort zone.
+
+Since signing up for the retreat, I had begun to suffer painful bouts of depression, for which I could not identify a trigger. So, as it turned out, what began as an act of simple curiosity had ended up with a more urgent purpose – to bring me out of my low mood and stop the cycle of self-punishing thoughts.
+
+***Depression affects your*** cognitive abilities. I had a difficult time getting the ritual aspects of the retreat correct. There was much bowing, recitation of chants and ritual parading, as well as prayers of gratitude for each meal we sat down to. I couldn’t get the bowing right. There was a lot of it – to your cushion, to the altar, to one another, to the teacher – and I couldn’t quite remember who to bow to and when. Also, after each session of meditation – there were six half-hour sessions a day – we were instructed to walk very slowly around the room, then very fast, always as a single body. I became impatient at the fast part and started to try to force the pace by jogging, for which I was gently reprimanded. And my breathing was too loud. I know this because the man next to me told me so, several times.
+
+During the long hours of meditation, I covertly studied the at-rest expressions of those on the cushions opposite me; I sensed that there was a lot of pain in the room. Silence was suspended during the afternoon Dharma talks (Dharma is simply the teachings of the Buddha), during which Manu told tales of a Buddhist monk, Dogen, who travelled from Japan to China to learn about Zen. Dogen founded the school of Soto*,* a down-to-earth version of Buddhism, which can otherwise be a very esoteric creed. Dogen insisted that chores and ordinary life were as important as zazen, hence the samu.
+
+Afterwards, we shared our own stories. People often fell to weeping as they talked of the traumas that had drawn them to the retreat. One complained of his own arrogance, another of the guilt he felt about the way he had brought up his children. Still another spoke of how he hated the bowing part of the retreat, as he felt that it made him subservient.
+
+After our silent lunch, we went on collective walks, during which we were allowed to talk. There was a mixture of both men and women, many under 30, with many professionals, including lawyers, civil servants and therapists. The relief of the daily walks was compromised by the fact that I kept being separated from the group and getting lost – a suitable metaphor for my state of mind. On the first two occasions this was simply embarrassing, but on the third day, along with a man and woman, both about my age (late 60s), we separated from the group during a walk to a local lake. It was getting dark and the mist was coming in. We could have rejoined the group, but the man – an ex-policeman, as it turned out, as well as a seasoned hillwalker – announced he knew the way back.
+
+Twenty minutes later, the dark and the mist coming in fast, we appeared to be completely lost. We were stuck on boggy, difficult terrain. The woman kept falling over and seemed in danger of breaking an ankle. It was at this point I realised how far I was from achieving a state of Zen calm, at least judging from the invective that was coming out of my mouth aimed towards our putative navigator.
+
+With about 30 minutes of daylight left (we had no torches and no signal on our phones), our guide stumbled across a path, which eventually led back to safety. By the time we got back to the *zendo* (meditation hall) I had calmed down, ready to practise *butoh,* originally an avant-garde dance that focused on existential despair*.* Prior to the retreat, I had seen a [YouTube video](https://www.google.com/search?q=youtube+butoh&oq=youtube+butoh&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yCAgCEAAYFhgeMggIAxAAGBYYHjIICAQQABgWGB4yDQgFEAAYhgMYgAQYigUyBwgGEAAY7wUyCggHEAAYgAQYogQyBwgIEAAY7wUyBwgJEAAY7wXSAQk0ODQ5ajBqMTWoAgiwAgE&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:e82853a1,vid:9ms7MGs2Nh8,st:0) about butoh in which a naked man covered in white chalk performed a series of agonising contortions. After my own despairing experience on the moors, I felt well primed for the practice.
+
+Manu’s version was less dramatic. We were simply asked to walk from one side of the zendo to the other, very slowly, in pairs. One of us was the observer, the other the participant. We were invited to imagine a rope through the middle of our bodies on which we were pinioned. Then the observer was told to touch the participant on various parts of the body as they walked. The participant had to react, in any way they felt right. This usually involved contortions and awkward positions that sometimes sent people ignominiously tumbling on to their backs. Whenever I was touched by my partner, my limbs twisted and bent in all directions.
+
+The butoh was repeated the next day, during which half of us were asked to walk in tiny steps towards the other half (who observed, as an audience). Then we walked backwards, very slowly. As we retreated, we were required to visualise the past spread out in front of us and the future hidden behind us. This exercise was oddly powerful, not least because I realised how much of the past, as well as the future, was hidden. Given the flaws in memory and its radical selectiveness, it was like gazing through tiny pinholes at a landscape far too vast to ever take in.
+
+After the butoh we did some group dancing to rock music – Lou Reed and David Bowie. This was to relax us and get us moving, after the stillness of zazen. I found this awkward – I am a rotten dancer – but more fun than I expected. Then there was “dreamwork”, which simply involved people recounting their dreams. The idea was not analysis, but to see if any common patterns emerged that linked the dreams. And there were, rather as you would expect, worries about loss and getting lost. This didn’t seem particularly enlightening to me.
+
+***At the end of the week,*** I found myself with one overwhelming question. What is the point of Zen? It’s not about self-improvement. It’s not about achieving anything. It’s not about mindfulness. It’s about sitting there. As Manu puts it in one of his essays, “The accomplished Zen practitioner is on his way to becoming a complete idiot. For it takes an idiot to commit to Dharma practice – a practice that has no purpose and offers no gain.” The goal of Dharma practice is liberation from the painful illusions of everyday life. As one Chinese Zen teacher, Lin Chi, remarked, his job was to “beat the ghosts out of you”.
+
+By the time we said goodbye, with lots of hugs and sincere farewells, I remained puzzled about Zen practice. There aren’t really any words to describe it, which is inconvenient for a writer. But the experience was both positive and grounding. The life anxiety I was suffering before I attended had evaporated by the time I departed.
+
+I am far from being liberated. But if and when I do fully understand this strange, seemingly inexplicable practice – and I have continued it, faithfully, performing an hour of zazen every day – I will perhaps have awakened, and no longer want to shout obscenities at bewildered ex-policemen. One can only bow respectfully to the Buddha and dedicate oneself to that slender hope.
+
+*Tim Lott and Manu Bazzano present 15-Minute Philosophy at [timlott.substack.com](http://timlott.substack.com/)*

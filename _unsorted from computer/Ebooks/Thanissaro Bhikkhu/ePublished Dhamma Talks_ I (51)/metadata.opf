@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4d34f95f-6d11-4e45-81e5-0f9b2d7b58c3</dc:identifier>
+        <dc:title>ePublished Dhamma Talks: I</dc:title>
+        <dc:creator opf:file-as="Bhikkhu, Thanissaro" opf:role="aut">Thanissaro Bhikkhu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.9.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-05-30T20:58:30+00:00</dc:date>
+        <dc:publisher>Metta Forest Monastery</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Theravada</dc:subject>
+        <dc:subject>Jhana</dc:subject>
+        <dc:subject>Thai Forest Tradition</dc:subject>
+        <dc:subject>Dharma</dc:subject>
+        <dc:subject>Buddhism</dc:subject>
+        <dc:subject>Meditation</dc:subject>
+        <dc:subject>Dhamma</dc:subject>
+        <meta content="{&quot;Thanissaro Bhikkhu&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="ePublished Dhamma Talks" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="2020-01-29T04:01:41.511000+00:00" name="calibre:timestamp"/>
+        <meta content="ePublished Dhamma Talks: I" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

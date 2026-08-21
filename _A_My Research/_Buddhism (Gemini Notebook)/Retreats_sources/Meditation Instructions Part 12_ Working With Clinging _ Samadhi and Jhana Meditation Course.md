@@ -1,0 +1,10 @@
+# Meditation Instructions Part 12: Working With Clinging | Samadhi and Jhana Meditation Course
+
+https://youtu.be/u-DJ\_gthpxc?si=4KYT7pIZ\_k1MWZpn
+
+u-DJ\_gthpxc
+
+Metta Dharma Foundation
+
+if you meditate you are going to become concentrated and deepening concentration can become very pleasant and we can begin to practice in order to have particular meditative states We can begin to chase after or hold on to or cling to those states The very practices that are intended to bring us towards an end of clinging and an end of suffering can be the cause of more clinging and suffering Similarly when challenges or difficulties arise we can fall into aversion It's another form of clinging pushing these experiences away Non-clinging is both a fruit of the meditation practice and is the path of practice itself And so of course we want to do the best we can to let go of clinging and to allow us to work with to be with to allow whatever experiences are arising And there will be times for all of us when we do fall into reactivity or clinging in some form When that happens this is an opportunity for learning The suffering that inevitably arises that will come when we fall into reactivity when we fall into clinging when we are not able to rest at peace in relationship with whatever is happening During those times the present moment is teaching us If we can use what is being offered we will experience we'll see for ourselves the suffering that comes from clinging Sometimes just by shining the light of awareness the light of mindfulness on what is happening is enough to allow it to let go But sometimes that will not be enough either because the experience is so strong or by virtue of the nature of the experience we're not able to let go around it that is teaching us and then we realize this is too hard for us How do we find a way to work with it can we bring the intensity or the difficulties down can we find a way to bring up our ability to work with it and so in this way we don't need to fear clinging Again try to let go the best you can remember But when you do fall into reactivity or clinging we know let the moment be our teacher
+

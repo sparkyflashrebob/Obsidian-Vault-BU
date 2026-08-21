@@ -1,0 +1,154 @@
+# The Observer Is the Observed
+
+![rw-book-cover](https://m.media-amazon.com/images/I/71CdWR4RCxL._SY160.jpg)
+
+## Metadata
+- Author: [[J. Krishnamurti]]
+- Full Title: The Observer Is the Observed
+- Category: #books
+
+## Highlights
+- Truth is a pathless land, and you cannot approach it by any path whatsoever, by any religion, by any sect. Truth, being limitless, unconditioned, unapproachable by any path whatsoever, cannot be organized; nor should any organization be formed to lead or to coerce people along any particular path. My only concern is to set men absolutely, unconditionally free. ([Location 50](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=50))
+    - Tags: [[pink]] 
+- The rejection of all spiritual and psychological authority, including his own, is a fundamental theme. ([Location 54](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=54))
+    - Tags: [[orange]] 
+- A major concern is the social structure and how it conditions the individual. ([Location 54](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=54))
+- psychological barriers that prevent clarity of perception. ([Location 55](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=55))
+    - Tags: [[blue]] 
+- In the mirror of relationship, each of us can come to understand the content of his own consciousness, which is common to all humanity. ([Location 56](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=56))
+    - Tags: [[pink]] 
+- division of the observer and what is observed. ([Location 57](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=57))
+- To understand the confusion and misery that exist in ourselves, and so in the world, ([Location 71](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=71))
+    - Tags: [[pink]] 
+- we must first find clarity within ourselves, ([Location 71](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=71))
+    - Tags: [[orange]] 
+- right thinking. ([Location 72](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=72))
+- Clarity is not the result of verbal assertion but of intense self-awareness and right thinking. ([Location 74](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=74))
+    - Tags: [[blue]] 
+- Right thinking comes with self-knowledge. ([Location 76](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=76))
+    - Tags: [[pink]] 
+- Without understanding yourself, you have no basis for thought; without self-knowledge, what you think is not true. ([Location 76](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=76))
+    - Tags: [[favorite]] [[orange]] 
+- When knowledge and feeling meet there is experience. ([Location 83](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=83))
+    - Tags: [[pink]] 
+- do not be a slave to compartmental philosophy. ([Location 87](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=87))
+    - Tags: [[orange]] 
+- Self-knowledge is extremely arduous and difficult, for you are a complex entity. ([Location 87](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=87))
+- Thought born of comparison is not right thinking. ([Location 92](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=92))
+    - Tags: [[blue]] 
+- Yet in studying ourselves we are comparing, approximating. It is this that prevents the understanding of ourselves. Why do we judge ourselves? Is not our judgment the outcome of our desire to become something, to gain, to conform, to protect ourselves? This very urge prevents understanding. ([Location 93](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=93))
+- Once you have perceived the futility of comparison, there is a great freedom. Then you are no longer striving to become, but there is freedom to understand. ([Location 97](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=97))
+    - Tags: [[orange]] 
+- In this freedom from approximation and so from identification, you will be able to discover and understand the realities of yourself. If you do not compare, judge, then you will be confronted with yourself, and this will give clarity and strength to uncover great depths. This is essential for the understanding of reality. When there is no self-approximation, then thought is liberated from duality; the problem and the conflict with the opposites fall away. In this freedom there is a revolutionary, creative understanding. ([Location 100](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=100))
+- We must go beyond the dualistic pattern of the ‘I’ and the not ‘I’, the possessor and the possessed. ([Location 122](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=122))
+- This is to be experienced, ([Location 124](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=124))
+    - Tags: [[blue]] 
+- this civilization is a collective result. ([Location 130](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=130))
+    - Tags: [[orange]] 
+- we are all interrelated; we are one. ([Location 130](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=130))
+    - Tags: [[blue]] 
+- You have to root out the causes of war, of violence, in yourself, which demands patience and gentleness, not bloody condemnation of others. ([Location 138](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=138))
+    - Tags: [[pink]] 
+- Humanity does not need more suffering to make it understand, but what is needed is that you should be aware of your own actions, that you should awaken to your own ignorance and sorrow and so bring about in yourself compassion and tolerance. ([Location 139](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=139))
+- You should not be concerned with punishments and rewards, but with the eradication in yourself of those causes that manifest themselves in violence and in hate, in antagonism and ill will. ([Location 141](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=141))
+    - Tags: [[orange]] 
+- Our environment, our present way of life blunts us, wastes us. ([Location 155](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=155))
+- you must abandon haste, distraction, wrong professions, and pursuits. You must become aware of your appetites, your limiting environment, and by rightly understanding them you begin to reawaken your sensitivity. ([Location 160](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=160))
+- Through constant awareness of your thoughts-feelings, the causes of self-enclosure and narrowness fall away. ([Location 162](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=162))
+    - Tags: [[orange]] 
+- you cannot be worldly and yet ([Location 163](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=163))
+- be pure in the pursuit of reality. ([Location 163](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=163))
+- You cannot indulge and yet be alert; to be keenly aware there must be freedom from those influences that are crystallizing, blunting. ([Location 165](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=165))
+- Each opposite has an element of its own opposite, and so there can never be a permanent answer within the conflict of the opposites. ([Location 196](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=196))
+- There is a permanent, unique answer only outside of the pattern. ([Location 197](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=197))
+    - Tags: [[pink]] 
+- The cause of duality is desire, craving; through perception and sensation and contact, there arise desire, pleasure, pain, want, non-want which in turn cause identification as mine and yours, and thus the dualistic process is set going. ([Location 206](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=206))
+    - Tags: [[orange]] 
+    - Note: Identification
+- As long as the thinker is concerned only with the modification of his thoughts and not with the fundamental transformation of himself, so long conflict and sorrow will continue. ([Location 209](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=209))
+- Is the thinker separate from his thought? ([Location 210](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=210))
+    - Tags: [[blue]] 
+    - Note: I am not my thoughts. as a position at least.
+- when the thinker and his thought are integrated through right meditation, then there is the ecstasy of the real. ([Location 217](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=217))
+    - Tags: [[pink]] 
+- Thus through constant self-awareness there comes self-knowledge which brings about right thinking. ([Location 244](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=244))
+    - Tags: [[orange]] 
+- For without self-knowledge there can be no understanding. ([Location 245](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=245))
+    - Tags: [[pink]] 
+# The Observer Is the Observed
+
+![rw-book-cover](https://m.media-amazon.com/images/I/71CdWR4RCxL._SY160.jpg)
+
+## Metadata
+- Author: [[J. Krishnamurti]]
+- Full Title: The Observer Is the Observed
+- Category: #books
+
+## Highlights
+- Truth is a pathless land, and you cannot approach it by any path whatsoever, by any religion, by any sect. Truth, being limitless, unconditioned, unapproachable by any path whatsoever, cannot be organized; nor should any organization be formed to lead or to coerce people along any particular path. My only concern is to set men absolutely, unconditionally free. ([Location 50](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=50))
+    - Tags: [[pink]] 
+- The rejection of all spiritual and psychological authority, including his own, is a fundamental theme. ([Location 54](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=54))
+    - Tags: [[orange]] 
+- A major concern is the social structure and how it conditions the individual. ([Location 54](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=54))
+- psychological barriers that prevent clarity of perception. ([Location 55](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=55))
+    - Tags: [[blue]] 
+- In the mirror of relationship, each of us can come to understand the content of his own consciousness, which is common to all humanity. ([Location 56](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=56))
+    - Tags: [[pink]] 
+- division of the observer and what is observed. ([Location 57](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=57))
+- To understand the confusion and misery that exist in ourselves, and so in the world, ([Location 71](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=71))
+    - Tags: [[pink]] 
+- we must first find clarity within ourselves, ([Location 71](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=71))
+    - Tags: [[orange]] 
+- right thinking. ([Location 72](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=72))
+- Clarity is not the result of verbal assertion but of intense self-awareness and right thinking. ([Location 74](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=74))
+    - Tags: [[blue]] 
+- Right thinking comes with self-knowledge. ([Location 76](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=76))
+    - Tags: [[pink]] 
+- Without understanding yourself, you have no basis for thought; without self-knowledge, what you think is not true. ([Location 76](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=76))
+    - Tags: [[favorite]] [[orange]] 
+- When knowledge and feeling meet there is experience. ([Location 83](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=83))
+    - Tags: [[pink]] 
+- do not be a slave to compartmental philosophy. ([Location 87](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=87))
+    - Tags: [[orange]] 
+- Self-knowledge is extremely arduous and difficult, for you are a complex entity. ([Location 87](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=87))
+- Thought born of comparison is not right thinking. ([Location 92](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=92))
+    - Tags: [[blue]] 
+- Yet in studying ourselves we are comparing, approximating. It is this that prevents the understanding of ourselves. Why do we judge ourselves? Is not our judgment the outcome of our desire to become something, to gain, to conform, to protect ourselves? This very urge prevents understanding. ([Location 93](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=93))
+- Once you have perceived the futility of comparison, there is a great freedom. Then you are no longer striving to become, but there is freedom to understand. ([Location 97](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=97))
+    - Tags: [[orange]] 
+- In this freedom from approximation and so from identification, you will be able to discover and understand the realities of yourself. If you do not compare, judge, then you will be confronted with yourself, and this will give clarity and strength to uncover great depths. This is essential for the understanding of reality. When there is no self-approximation, then thought is liberated from duality; the problem and the conflict with the opposites fall away. In this freedom there is a revolutionary, creative understanding. ([Location 100](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=100))
+- We must go beyond the dualistic pattern of the ‘I’ and the not ‘I’, the possessor and the possessed. ([Location 122](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=122))
+- This is to be experienced, ([Location 124](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=124))
+    - Tags: [[blue]] 
+- this civilization is a collective result. ([Location 130](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=130))
+    - Tags: [[orange]] 
+- we are all interrelated; we are one. ([Location 130](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=130))
+    - Tags: [[blue]] 
+- You have to root out the causes of war, of violence, in yourself, which demands patience and gentleness, not bloody condemnation of others. ([Location 138](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=138))
+    - Tags: [[pink]] 
+- Humanity does not need more suffering to make it understand, but what is needed is that you should be aware of your own actions, that you should awaken to your own ignorance and sorrow and so bring about in yourself compassion and tolerance. ([Location 139](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=139))
+- You should not be concerned with punishments and rewards, but with the eradication in yourself of those causes that manifest themselves in violence and in hate, in antagonism and ill will. ([Location 141](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=141))
+    - Tags: [[orange]] 
+- Our environment, our present way of life blunts us, wastes us. ([Location 155](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=155))
+- you must abandon haste, distraction, wrong professions, and pursuits. You must become aware of your appetites, your limiting environment, and by rightly understanding them you begin to reawaken your sensitivity. ([Location 160](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=160))
+- Through constant awareness of your thoughts-feelings, the causes of self-enclosure and narrowness fall away. ([Location 162](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=162))
+    - Tags: [[orange]] 
+- you cannot be worldly and yet ([Location 163](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=163))
+- be pure in the pursuit of reality. ([Location 163](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=163))
+- You cannot indulge and yet be alert; to be keenly aware there must be freedom from those influences that are crystallizing, blunting. ([Location 165](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=165))
+- Each opposite has an element of its own opposite, and so there can never be a permanent answer within the conflict of the opposites. ([Location 196](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=196))
+- There is a permanent, unique answer only outside of the pattern. ([Location 197](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=197))
+    - Tags: [[pink]] 
+- The cause of duality is desire, craving; through perception and sensation and contact, there arise desire, pleasure, pain, want, non-want which in turn cause identification as mine and yours, and thus the dualistic process is set going. ([Location 206](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=206))
+    - Tags: [[orange]] 
+    - Note: Identification
+- As long as the thinker is concerned only with the modification of his thoughts and not with the fundamental transformation of himself, so long conflict and sorrow will continue. ([Location 209](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=209))
+- Is the thinker separate from his thought? ([Location 210](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=210))
+    - Tags: [[blue]] 
+    - Note: I am not my thoughts. as a position at least.
+- when the thinker and his thought are integrated through right meditation, then there is the ecstasy of the real. ([Location 217](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=217))
+    - Tags: [[pink]] 
+- Thus through constant self-awareness there comes self-knowledge which brings about right thinking. ([Location 244](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=244))
+    - Tags: [[orange]] 
+- For without self-knowledge there can be no understanding. ([Location 245](https://readwise.io/to_kindle?action=open&asin=B07H5JDN6W&location=245))
+    - Tags: [[pink]] 

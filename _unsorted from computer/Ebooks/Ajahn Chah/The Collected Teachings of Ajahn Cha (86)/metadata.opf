@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">86</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a6b364be-16a5-43e7-a207-39a5e4c33622</dc:identifier>
+        <dc:title>The Collected Teachings of Ajahn Chah - Single Volume</dc:title>
+        <dc:creator opf:file-as="Chah, Ajahn" opf:role="aut">Ajahn Chah</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.9.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-10-14T07:00:00+00:00</dc:date>
+        <dc:publisher>Aruna Publications</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-1-908444-12-7</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Buddhism</dc:subject>
+        <meta content="{&quot;Ajahn Chah&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-01-29T04:01:55.525000+00:00" name="calibre:timestamp"/>
+        <meta content="Collected Teachings of Ajahn Chah - Single Volume, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

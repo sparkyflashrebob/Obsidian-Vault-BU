@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">494</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e11cc130-1ec9-4e1f-8841-1efa176eea0c</dc:identifier>
+        <dc:title>An Elementary Pali Course</dc:title>
+        <dc:creator opf:file-as="Thera, Narada" opf:role="aut">Narada Thera</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.9.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-11-05T21:49:19+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <dc:subject>Pali-English Language Primer</dc:subject>
+        <dc:subject>Theravada Buddhism Pali Language Course</dc:subject>
+        <meta content="{&quot;Narada Thera&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-01-29T04:28:12.938000+00:00" name="calibre:timestamp"/>
+        <meta content="Elementary Pali Course, An" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

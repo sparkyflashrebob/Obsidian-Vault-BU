@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">104</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bfa8e525-e570-423a-9df6-4f922fda293b</dc:identifier>
+        <dc:title>Awareness Itself</dc:title>
+        <dc:creator opf:file-as="Jotiko, Ajaan Fuang" opf:role="aut">Ajaan Fuang Jotiko</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.9.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-28T07:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Biography, reflections, and teachings.&lt;/p&gt;</dc:description>
+        <dc:publisher>Metta Forest Monastery</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Ajaan Lee</dc:subject>
+        <dc:subject>Nirvana</dc:subject>
+        <dc:subject>Buddhism</dc:subject>
+        <dc:subject>Buddha</dc:subject>
+        <dc:subject>Meditation</dc:subject>
+        <dc:subject>Enlightenment</dc:subject>
+        <dc:subject>Ajaan Fuang</dc:subject>
+        <meta content="{&quot;Ajaan Fuang Jotiko&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-01-29T04:02:01.124000+00:00" name="calibre:timestamp"/>
+        <meta content="Awareness Itself" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

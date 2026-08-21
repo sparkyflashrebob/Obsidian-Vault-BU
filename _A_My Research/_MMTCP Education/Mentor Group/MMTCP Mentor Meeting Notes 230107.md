@@ -1,0 +1,45 @@
+---
+Created: 2024-07-21
+---
+-   These Instructions provided.
+-   [MMTCP - Class of 2023 - https://mmtcp.matrixlms.com/learner_resources/folder/364466?folder=24479142&page_router=true](https://mmtcp.matrixlms.com/learner_resources/folder/364466?folder=24479142&page_router=true)
+    -   See [[_A_My Journal and Notes/_Misc Unsorted/Journal Entry]]
+    -   # January 2023
+        
+    -   ### Mentor Group Instructions
+        
+    -   Closing Part 2
+    -   Reflect on your vision and aspiration for bringing teachings into the world.
+    -   What do you sense is possible for you?
+    -   What do you feel would most support you (for instance further practice, training, community, lifestyle changes, etc.)
+    -   The group will conclude with intention-setting and ritual.
+    -   **©**
+-   Gina Painted here own background
+-   ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fflashrebob%2Fry9Ujg33tT.png?alt=media&token=03fd7c8b-3aba-4c2b-a428-2f4db2792acf)
+-   Recent friend "Niles" email over new years. #appreciations verbal flowers opened hard to take in this kindness, a two way street, push away, gift to giver to receive graciously, full heart, not with give and take,
+-   Tressa joined the meeting late,
+-   delay for Tressa
+-   Starla - HS Presenter, wellness event
+-   Me "Motivational Interviewing"
+-   Winn: Mindful Quotes, alphabet list of teachers, Larry Yang, Amana Johnson, Noliwe Alexander, Anushka Fernandopulle, Konda, Leslie Booker, Louije Kim
+-   Taking each other in
+-   Starla - friendship, support, inclusive, sister, openness, respect her path, energy, authenticity, passion
+-   Winn - friendship, heart, perseverance, deep, wordsmith, visionary
+-   gina - curiosity- willingness - brave
+-   tressa - strength - drive - family - vulnerability -
+-   #alisa_mmtcp - discovery - similar but different - partner
+-   #victoriacary - honesty - admire - respect - leadership - emulate - helper - truthful
+-   appreciation for each person
+-   receive what we appreciate for ourselves
+-   take as a practice receiving and giving
+-   invitation to soften
+-   normalizing talking about mental heath issues... #mental health
+-   #tonglen giving and receiving
+-   #teaching edges
+-   #drsuess teachings
+-   [[Website]] Add to MMR #mindfulness Practices Support #Coaching
+-   [[_Book - Sakkaya Ditthi]] Sakkayaditthi and Me
+-   #knowingandnotknowing
+-   #motherly_love_earth
+-   didn't know what my person needed to be
+-   practicing cleaning what is already clean

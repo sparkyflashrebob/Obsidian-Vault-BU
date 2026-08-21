@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">612</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0e667af2-1e61-41b3-b6a1-67dcd819f4d3</dc:identifier>
+        <dc:title>Beginner’s Mind—0211n4b2</dc:title>
+        <dc:creator opf:file-as="Yudelman, Jane" opf:role="aut">Jane Yudelman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.9.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Jane Yudelman&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-01-29T04:31:10.609000+00:00" name="calibre:timestamp"/>
+        <meta content="Beginner’s Mind—0211n4b2" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

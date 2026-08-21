@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">126</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e5832fc0-2c5e-4695-b8d7-3e7bf02b53af</dc:identifier>
+        <dc:title>A Buddhist Solution for the Twenty-First Century</dc:title>
+        <dc:creator opf:file-as="BigSparkyRebob" opf:role="aut">BigSparkyRebob</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.9.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;BigSparkyRebob&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-01-29T04:05:00.739000+00:00" name="calibre:timestamp"/>
+        <meta content="Buddhist Solution for the Twenty-First Century, A" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

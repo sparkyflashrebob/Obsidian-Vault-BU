@@ -1,0 +1,228 @@
+# The Heart Sutra
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/416IFpCZycL._SL200_.jpg)
+
+## Metadata
+- Author: [[Red Pine]]
+- Full Title: The Heart Sutra
+- Category: #books
+
+## Highlights
+- questions concerning the Buddha’s teaching that this world is nothing but mind. ([Location 224](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=224))
+- “before,” ([Location 372](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=372))
+- “to know.” ([Location 372](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=372))
+    - Tags: [[blue]] 
+- Buddhists ([Location 373](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=373))
+    - Tags: [[pink]] 
+- “beginner’s mind.” ([Location 374](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=374))
+    - Tags: [[orange]] 
+- focus of cultivation ([Location 375](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=375))
+- knowledge, ([Location 375](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=375))
+    - Tags: [[blue]] 
+- jnana, ([Location 375](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=375))
+    - Tags: [[pink]] 
+- The members of the earliest Buddhist sects held that reality was a complex system of dharmas that could be known and that liberation depended on such knowledge. ([Location 376](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=376))
+- focusing on wisdom as opposed to knowledge. ([Location 380](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=380))
+    - Tags: [[blue]] 
+- the use of prajna in the title tells us this is a text that goes beyond the analysis of reality into discrete, knowable entities, such as those used by the Sarvastivadins. ([Location 381](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=381))
+- Zen masters ask their students to show them their original face, their face before they were born. ([Location 382](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=382))
+    - Tags: [[pink]] 
+- mundane wisdom, ([Location 384](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=384))
+    - Tags: [[blue]] 
+- views what is impermanent as permanent, what is impure as pure, and what has no self as having a self. ([Location 384](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=384))
+- second level ([Location 386](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=386))
+    - Tags: [[blue]] 
+- metaphysical wisdom, ([Location 386](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=386))
+    - Tags: [[pink]] 
+- views what appears to be permanent as impermanent, what appears to be pure as impure, and what appears to have a self as having no self. ([Location 387](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=387))
+    - Tags: [[orange]] 
+- At best it leads to an end of passion and no further rebirth. ([Location 389](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=389))
+- third level ([Location 391](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=391))
+    - Tags: [[orange]] 
+- transcendent wisdom, ([Location 391](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=391))
+    - Tags: [[blue]] 
+- views all things, whether mundane or metaphysical, as neither permanent nor impermanent, as neither pure nor impure, as neither having a self nor not having a self, as inconceivable and inexpressible. ([Location 391](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=391))
+- transcendent wisdom remains free of views because it is based on the insight that all things, both objects and dharmas, are empty of anything self-existent. ([Location 393](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=393))
+    - Tags: [[blue]] 
+- prajna-paramita. ([Location 399](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=399))
+- “what leads us to the other shore.” ([Location 406](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=406))
+- ‘wisdom.’ ([Location 428](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=428))
+- ‘to reach the other shore.’ ([Location 429](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=429))
+- ‘this shore.’ ([Location 431](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=431))
+    - Tags: [[blue]] 
+- To cross the sea of sansara and to realize nirvana is what is meant by ‘the other shore.’” ([Location 432](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=432))
+    - Tags: [[pink]] 
+- If a person resolves to find their true source and plumbs the depths of reason and nature, they will see their original face and instantly awaken to what is unborn. ([Location 435](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=435))
+- If you can look into the depths and think about what you are doing one action at a time, you will suddenly see. ([Location 438](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=438))
+    - Tags: [[blue]] 
+- You can’t know this nature through knowledge. You can’t perceive it through perception. This nature has no form or appearance. When you don’t see it, you see it. When you see it, you don’t see it.” ([Location 439](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=439))
+    - Tags: [[pink]] 
+- “What is meant by ‘heart’ is simply the heart of great wisdom that leads to the other shore and ([Location 484](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=484))
+- Four Reliances ([Location 528](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=528))
+    - Tags: [[blue]] 
+- (catuh-pratisarana ) ([Location 528](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=528))
+    - Tags: [[pink]] 
+- We are urged to rely on the teaching and not the author, the meaning and not the letter, the truth and not the convention, the knowledge and not the information. ([Location 529](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=529))
+    - Tags: [[orange]] 
+- bodhisattva ([Location 538](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=538))
+- “a being (sattva) of enlightenment (bodhi).” ([Location 539](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=539))
+    - Tags: [[blue]] 
+- “warrior,” ([Location 539](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=539))
+    - Tags: [[pink]] 
+- “champion of enlightenment.” ([Location 540](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=540))
+    - Tags: [[orange]] 
+- Avalokiteshvara ([Location 558](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=558))
+- “Master of Looking Down” or “Lord Who Looks Down.” ([Location 561](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=561))
+- Kuan-yin, ([Location 565](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=565))
+- “He/She Who Looks Down Upon Sound (Cries),” ([Location 565](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=565))
+- Avalokiteshvara’s appearance in scriptures as early as the second century, we can be reasonably safe in assuming that he joined the spiritual pantheon of Mahayana Buddhism no later than the first century A. D. and probably earlier. ([Location 582](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=582))
+- mythical island of Potalaka ([Location 584](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=584))
+    - Tags: [[blue]] 
+- all dharmas come from the mind.” ([Location 615](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=615))
+- ‘The attributes of dharmas neither exist nor do not exist, thus there is nothing to point to outside. And the knowledge of sages neither exists nor does not exist, thus there is nothing to think about inside.’ ([Location 622](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=622))
+- If one can be like this, one dwells in existence without existing, because one doesn’t think about the existence of existence. And one dwells in emptiness without being empty, because one doesn’t cling to the emptiness of emptiness. When the mind is pure and unmoving, and the world is pure and unchanging, when one communicates without words and is obstructed by nothing, one is called an ishvara bodhisattva.” ([Location 623](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=623))
+    - Tags: [[blue]] 
+- Three Skandhas, or Pillars: morality (sila), meditation (dhyana), and wisdom (prajna). ([Location 664](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=664))
+- With the introduction of the paramitas, or perfections, this threefold practice became sixfold: generosity (dana) now preceded morality, which was followed by forbearance (kshanti) and vigor (virya), after which came meditation and wisdom. ([Location 665](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=665))
+    - Tags: [[blue]] 
+- punya, ([Location 668](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=668))
+    - Tags: [[pink]] 
+- merit, ([Location 668](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=668))
+    - Tags: [[pink]] 
+- jnana, ([Location 669](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=669))
+    - Tags: [[orange]] 
+- knowledge. ([Location 669](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=669))
+    - Tags: [[orange]] 
+- Taken together, the paramitas are also likened to a boat that takes us across the sea of suffering. The paramita of generosity, according to this analogy, is the wood, light enough to float but not so light that it floats away. Thus bodhisattvas practice giving and renunciation but not so much that they have nothing left with which to work. The paramita of morality is the keel, deep enough to hold the boat upright but not so deep that it drags the shoals or holds it back. Thus bodhisattvas observe precepts but not so many that they have no freedom of choice. The paramita of forbearance is the hull, wide enough to hold a deck but not so wide that it can’t cut through waves. Thus bodhisattvas don’t confront what opposes them but find the place of least resistance. The paramita of vigor is the mast, high enough to hold a sail but not so high that it tips the boat over. Thus bodhisattvas work hard but not so hard that they don’t stop for tea. The paramita of meditation is the sail, flat enough to catch the wind of karma but not so flat that it holds no breeze or rips apart in a gale. Thus bodhisattvas still the mind but not so much that it withers and dies. And the paramita of wisdom is the helm, ingenious enough to give the boat direction but not so ingenious that it leads in circles. Thus bodhisattvas who practice the paramitas embark on the greatest of all voyages to the far shore of liberation. ([Location 682](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=682))
+- Paramita is the function and means ‘to reach the other shore,’ which is to use this marvelous wisdom to transform sansara until one reaches completely beyond it to the realm of true emptiness.” ([Location 695](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=695))
+    - Tags: [[blue]] 
+- “To practice means to proceed according to the principle of suchness thought after thought without stopping for a moment.” ([Location 701](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=701))
+    - Tags: [[pink]] 
+- practitioners are advised to begin by focusing their attention on four subjects (catvari smirti-upasthanani): form, sensations, mind, and finally dharmas, the constructs of the mind that such sects as the Sarvastivadins maintained were the underlying substance of reality. ([Location 718](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=718))
+- The reason Buddhists focused on the Four Smirti Upasthanas or the Five Skandhas is that they provide everything we need in our spiritual explorations. They are not only equivalent to what we normally think of as our selves; they are equivalent to the entire universe, as we experience it. They include all of creation. ([Location 722](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=722))
+    - Tags: [[blue]] 
+- Buddhists conclude: “I am aware, therefore I neither am nor am not.” ([Location 729](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=729))
+- skandha ([Location 732](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=732))
+- trunk of a tree, and ([Location 732](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=732))
+    - Tags: [[blue]] 
+- host-strangling-root that looks like a person. ([Location 741](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=741))
+- In his use of the word skandha, the Buddha views the universe of our awareness as supported by these five trunks or pillars, or as consisting of these five aspects, which are separate in name only, and each of which exhausts everything of which we are aware from a different point of view. ([Location 753](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=753))
+- Rather they represent a system of analysis designed to find our actual bodies or individual selves. ([Location 757](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=757))
+    - Tags: [[blue]] 
+- rupa, ([Location 758](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=758))
+    - Tags: [[pink]] 
+- form. ([Location 758](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=758))
+    - Tags: [[pink]] 
+- outside world, ([Location 759](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=759))
+    - Tags: [[pink]] 
+- does not actually refer to a concrete object but to the appearance of an object. ([Location 760](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=760))
+    - Tags: [[orange]] 
+- Essentially, form is a conceptual category established in order to give meaning to mind. Form does not represent a separate reality outside of mind, merely a stage on which to proceed with the analysis. ([Location 774](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=774))
+- According to this twofold scheme, rupa, or form, refers to the things we know, namely the outside world, while nama, or name, refers to the means by which we know the things we know, namely the inside world. ([Location 789](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=789))
+- sensation, ([Location 793](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=793))
+    - Tags: [[blue]] 
+- vedana, ([Location 793](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=793))
+    - Tags: [[blue]] 
+- The word vedana was derived from vid, meaning “to know” or “to experience,” and was used by Buddhists to refer to our evaluation of form. ([Location 793](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=793))
+    - Tags: [[pink]] 
+- process of evaluation. ([Location 797](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=797))
+    - Tags: [[orange]] 
+- evaluation of input, ([Location 798](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=798))
+- positive, negative, or neutral. ([Location 799](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=799))
+    - Tags: [[blue]] 
+- Thus, Buddhists do not understand sensation as the passive collection of data from an outside world but as the active sorting and grading of appearances and their transformation into objects according to categories supplied by the third skandha. ([Location 801](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=801))
+    - Tags: [[pink]] 
+- perception, ([Location 803](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=803))
+- sanjna. ([Location 804](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=804))
+- sanjna ([Location 804](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=804))
+- (together) ([Location 805](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=805))
+- (to know) ([Location 805](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=805))
+- Perception supplies the framework that allows us to make such judgments as well as the framework that allows us to objectify or subjectify our experience. ([Location 806](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=806))
+    - Tags: [[blue]] 
+- It also supplies the means that allow us to manipulate our sensations, so that we see what we want to see and don’t see what we don’t want to see. ([Location 807](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=807))
+    - Tags: [[pink]] 
+- Thus, sensation is dependent not only on the skandha of form but also on the skandha of perception. ([Location 808](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=808))
+    - Tags: [[orange]] 
+- sanskara, ([Location 811](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=811))
+- “memory,” ([Location 811](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=811))
+- volition ([Location 812](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=812))
+- (cetana) ([Location 812](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=812))
+- attention ([Location 812](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=812))
+- (manasikara) ([Location 812](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=812))
+- (together) ([Location 813](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=813))
+    - Tags: [[blue]] 
+- make). ([Location 813](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=813))
+    - Tags: [[blue]] 
+- “put together” ([Location 813](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=813))
+    - Tags: [[pink]] 
+- “impulse,” “volition,” “predisposition,” or “mental conformation.” ([Location 814](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=814))
+    - Tags: [[orange]] 
+- refers to is our karmic genome, ([Location 818](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=818))
+- the repository of all that we have previously intended, whether expressed in the form of words, deeds, or thoughts. ([Location 818](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=818))
+    - Tags: [[blue]] 
+- Thus, sanskara embraces all the ways we have dealt with what we have experienced in the past and that are available to us as ways to deal with what we find in the present. Among the meanings for sanskara ([Location 819](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=819))
+    - Tags: [[pink]] 
+- fifty-two kinds of habitual behavior patterns, ([Location 824](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=824))
+- prefabricated set of guidelines ([Location 826](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=826))
+    - Tags: [[pink]] 
+- the skandha of memory supplies the templates that perception applies to sensations and form. ([Location 827](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=827))
+    - Tags: [[orange]] 
+- vijnana ([Location 829](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=829))
+- vi-jnana emphasizes knowledge that results from separation, separation of subject from object and one object from another. ([Location 830](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=830))
+- ability to be aware, aware of anything, but always something—form, sensations, perceptions, memories, and, of course, a “self.” ([Location 832](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=832))
+- Basically the skandhas represent an attempt to exhaust the possible paths we might take in our search for a self, for something permanent or pure or separate in the undifferentiated flux of experience. ([Location 841](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=841))
+    - Tags: [[blue]] 
+- The Five Skandhas are the limit of reality. ([Location 843](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=843))
+    - Tags: [[blue]] 
+- But no matter how often or how long or how intently we search through the skandhas, we come up empty-handed. ([Location 844](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=844))
+    - Tags: [[pink]] 
+- Thus, the skandha of form is often compared to foam, because it cannot be grasped; the skandha of sensation to a bubble, because it lasts but an instant; the skandha of perception to a mirage, because it only appears to exist;the skandha of memory to a banana tree, because it has no core; and the skandha of consciousness to an illusion, because it is a well-concealed deception. ([Location 845](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=845))
+- “The Five Skandhas are the root of the ten-thousand forms of suffering and the basis of the thousand calamities. Because beings don’t yet realize they are empty, they are entangled and ensnared by them.” ([Location 859](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=859))
+    - Tags: [[blue]] 
+- “The first step towards wisdom consists in getting the skandhas into view. This requires considerable knowledge, practice and skill, but it is the indispensable basis for all that follows” ([Location 866](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=866))
+- pashyaka, ([Location 871](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=871))
+- empty of sva-bhava or “self-existence.” ([Location 878](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=878))
+- sva-bhava is somewhat redundant, implying a “self-existing existence.” ([Location 882](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=882))
+    - Tags: [[blue]] 
+- Upon close analysis, nothing exists by itself. ([Location 883](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=883))
+    - Tags: [[pink]] 
+- Any given entity can only be defined in terms of other entities in time, space, or mind. ([Location 883](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=883))
+    - Tags: [[orange]] 
+- And these in turn can only be defined in terms of other entities, and so on ad infinitum. ([Location 884](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=884))
+- Thus, nothing exists by itself, and nothing exists as itself. ([Location 885](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=885))
+    - Tags: [[blue]] 
+- There is no such thing as a self. ([Location 885](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=885))
+    - Tags: [[pink]] 
+- But if there is no self-existence, there is also no non-existence. ([Location 888](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=888))
+    - Tags: [[blue]] 
+- According to Mahayana Buddhism, this is the second greatest of all delusions, the belief that nothing exists. ([Location 888](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=888))
+    - Tags: [[pink]] 
+- Emptiness does not mean nothingness. It simply means the absence of the erroneous distinctions that divide one entity from another, one being from another being, one thought from another thought. ([Location 889](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=889))
+    - Tags: [[orange]] 
+- Emptiness is not nothing, it’s everything, everything at once. ([Location 890](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=890))
+- “Although the absolute and provisional are both submerged, their two truths are permanently present. Although emptiness and existence are both denied, their one meaning shines forever. True emptiness has never not existed, but by means of existence it is distinguished from emptiness. Illusory existence has been empty from time without beginning, but by means of emptiness it is seen as existing. Because existence is an empty existence, it does not exist. And because emptiness is an existent emptiness, it is not empty. Emptiness which is not empty, does not stop being empty. And existence which does not exist, exists but not forever.” ([Location 899](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=899))
+- Its delusions, reasonings, and shadows are nothing but a combination of the four other skandhas. But by viewing the mind as the four skandhas, they also can’t find anyone who suffers.” ([Location 907](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=907))
+    - Tags: [[blue]] 
+- “If the skandhas exist, then suffering isn’t empty. But once someone understands that the skandhas are empty, what does suffering have to rest on? For example, when the wind blows against water, it creates bubbles. As long as they’re bubbles, they aren’t water. But when bubbles disperse and become water, they aren’t bubbles. Bubbles represent beings, and water represents our buddha nature.” ([Location 909](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=909))
+    - Tags: [[orange]] 
+- “The reason we have suffering / is because we have a body / if we didn’t have a body / we wouldn’t have suffering” ([Location 912](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=912))
+    - Tags: [[pink]] 
+- This was the basis of the fifth point of contention at Buddhism’s Third Council, held in 267 B.C., or one hundred and sixteen years after the Buddha’s Nirvana. This council was convened by King Ashoka in Pataliputra (modern Patna), and is said to have concerned itself with five issues raised by the monk Mahadeva. The first four concerned the status of the arhan, the hero of the shravaka tradition: Was an arhan still subject to sexual desire, was an arhan still subject to ignorance, was an arhan still subject to doubt, and was an arhan still subject to further instruction? The fifth issue was whether a person could become enlightened by an exclamation or sudden sound. As the questions raised by Mahadeva were all answered in the affirmative, this essentially lowered the status of the arhan and opened up the possibility of enlightenment outside the confines of monastic practice. Thus, this council is often seen (by the Mahayana) as marking the beginning of the split into the Hinayana and Mahayana traditions. ([Location 917](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=917))
+- five kinds of emptiness: ([Location 970](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=970))
+- emptiness of pre-existence, ([Location 970](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=970))
+    - Tags: [[pink]] 
+- the emptiness of post-existence, ([Location 970](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=970))
+    - Tags: [[orange]] 
+- emptiness of non-existence, ([Location 971](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=971))
+    - Tags: [[blue]] 
+- emptiness of mutual exclusion, ([Location 971](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=971))
+    - Tags: [[pink]] 
+- emptiness of self-existence. ([Location 971](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=971))
+    - Tags: [[orange]] 
+- Form, or any other entity of the mind, is defined by the mind and exists only because we claim it exists. ([Location 980](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=980))
+- The only thing that exists, in this case, is our definition of form. ([Location 980](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=980))
+    - Tags: [[blue]] 
+- Form itself is empty of anything that could be called self-existent. ([Location 981](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=981))
+    - Tags: [[pink]] 
+- Whatever we use to define form, it is dependent on something else. Thus, the essential nature of form is emptiness. But emptiness is simply another name for reality—not just a part of reality, for reality has no parts, but all of reality—though neither can reality be considered to be a whole. ([Location 981](https://readwise.io/to_kindle?action=open&asin=B003XKN6IC&location=981))
+    - Tags: [[blue]] 

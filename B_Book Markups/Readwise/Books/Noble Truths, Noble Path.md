@@ -1,0 +1,338 @@
+# Noble Truths, Noble Path
+
+![rw-book-cover](https://m.media-amazon.com/images/I/710TtP69vWL._SY160.jpg)
+
+## Metadata
+- Author: [[Bodhi]]
+- Full Title: Noble Truths, Noble Path
+- Category: #books
+
+## Highlights
+- well-being and happiness visible in this present life; ([Location 212](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=212))
+    - Tags: [[pink]] 
+- well-being and happiness in future lives; ([Location 212](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=212))
+    - Tags: [[pink]] 
+- the supreme good, the attainment of nibbāna. ([Location 213](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=213))
+    - Tags: [[pink]] 
+- The expression “welfare and happiness visible in this present life” refers to the happiness that comes from following ethical norms in one’s family relationships, livelihood, and communal engagements. ([Location 213](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=213))
+- The “welfare and happiness pertaining to a future life” refers to the achievement of a fortunate rebirth, a pursuit that rests on the planks of kamma and rebirth. ([Location 215](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=215))
+    - Tags: [[blue]] 
+- The third benefit the Buddha’s teaching is designed to bring, the supreme or ultimate good (paramattha), is liberation from the cycle of repeated birth and death. This is to be achieved by cultivating the threefold higher training in moral conduct, concentration, and wisdom. ([Location 216](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=216))
+    - Tags: [[orange]] 
+- dhamma-vinaya. ([Location 220](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=220))
+- dhamma represents the teaching that illuminates the nature of things; ([Location 221](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=221))
+- the primary response it elicits is understanding. ([Location 221](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=221))
+    - Tags: [[orange]] 
+- Its counterpart, vinaya, often signifies monastic discipline but can be interpreted more broadly as comprising all the factors that lead to the removal (another meaning of vinaya) of the mind’s hindrances and fetters. The primary response it calls for is practice. ([Location 221](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=221))
+    - Tags: [[pink]] 
+- spiritual nobility. ([Location 230](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=230))
+    - Tags: [[orange]] 
+- The Pāli Canon consists of three major divisions, for which reason it is also called the Tipiṭaka, the “Three Baskets.” ([Location 236](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=236))
+    - Tags: [[pink]] 
+## New highlights added March 4, 2023 at 8:57 AM
+- The four noble truths serve as the most concise statement of the Dhamma, a “matrix” that generates all the other teachings and a framework into which most of those teachings can fit. ([Location 293](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=293))
+    - Tags: [[pink]] 
+- directly realizing them. ([Location 298](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=298))
+    - Tags: [[pink]] 
+## New highlights added March 18, 2023 at 2:41 PM
+- In his first discourse, known as the Dhammacakkappavattana Sutta, “The Discourse Setting in Motion the Wheel of the Dhamma,” the Buddha spoke of the four noble truths and the noble eightfold path, the unique “middle way” that avoids the dismal ends of sensual indulgence and painful ascetic practices and leads to the peace and freedom of nibbāna. ([Location 380](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=380))
+    - Tags: [[orange]] 
+- principles. It was by comprehending these truths that his first disciples, the five monks, gained the “dust-free, stainless eye of the Dhamma,” the decisive breakthrough that opens the liberating path. ([Location 383](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=383))
+    - Tags: [[orange]] 
+- Repeatedly, during his teaching career, he brought his discourse to a climax with an exposition of the truths. ([Location 384](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=384))
+    - Tags: [[orange]] 
+- The four noble truths were so central to the Buddha’s exposition of the Dhamma that the compilers of the Saṃyutta Nikāya devoted an entire chapter to this topic, the last in the whole collection. ([Location 385](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=385))
+    - Tags: [[orange]] 
+- However, the four truths might be seen not merely as one Buddhist doctrine among others, but more broadly as the implicit framework of the whole teaching. ([Location 387](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=387))
+- Sāriputta, ([Location 388](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=388))
+    - Tags: [[blue]] 
+- “Just as the footprints of all other animals of the jungle can fit into the footprint of an elephant, which is declared chief with respect to size, so whatever wholesome teachings there are can all fit into the four noble truths” (MN 28, I 184). ([Location 389](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=389))
+    - Tags: [[blue]] 
+- The classical Buddhist commentaries follow up on this suggestion by showing that the four noble truths can be extracted from other teachings even when they are not explicitly mentioned as such. ([Location 390](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=390))
+    - Tags: [[pink]] 
+- Modern exponents of Buddhism often assume that the four noble truths are an elementary teaching intended for newcomers to the Dhamma, but the Buddha himself did not treat them in such a way. ([Location 392](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=392))
+- Rather, he saw them as suitable only for those whose minds were ripe enough to understand them clearly and directly. ([Location 393](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=393))
+    - Tags: [[blue]] 
+- He would usually begin a discourse to inquirers with a talk on generosity and morality, virtues that any person of moral convictions could appreciate. ([Location 394](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=394))
+    - Tags: [[pink]] 
+- From there he would ([Location 395](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=395))
+    - Tags: [[orange]] 
+- proceed to explain the workings of kamma and the realms of rebirth to which different courses of action lead. ([Location 395](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=395))
+    - Tags: [[orange]] 
+- Then, having described the joys of the heavens, he would speak about the faults in the pursuit of sensual pleasures and the benefits of renunciation, thereby instilling in his audience respect for the kind of contemplative life that he himself had adopted. ([Location 396](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=396))
+- It was only at this point, when he knew that the minds of his listeners were sufficiently open, trusting, and free from obstructions, that he would reveal the four noble truths, which the texts describe as “the special Dhamma teaching of the buddhas” (buddhānaṃ sāmukkaṃsikā dhammadesanā).2 ([Location 398](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=398))
+    - Tags: [[blue]] 
+## New highlights added March 21, 2023 at 11:41 PM
+- The first four—birth, old age, sickness, and death—can be grouped under the heading of physiological suffering. ([Location 411](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=411))
+    - Tags: [[pink]] 
+## New highlights added April 24, 2023 at 1:37 AM
+- The present anthology serves a different purpose. It aims to take us straight to the heart of the Buddha’s teaching, summed up in two interrelated structures: the four noble truths and the noble eightfold path. ([Location 218](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=218))
+    - Tags: [[pink]] 
+- The first covers the side of doctrine, ([Location 219](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=219))
+    - Tags: [[orange]] 
+- the second the side of training. ([Location 220](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=220))
+- “noble” (ariya). ([Location 227](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=227))
+    - Tags: [[blue]] 
+- The truths are called noble because they are the truths taught by the supreme noble one, the Buddha; because they are the truths seen by the noble disciples who have arrived at the core of the Dhamma; and because they are the truths accepted as a framework of understanding by those who aspire to the status ([Location 228](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=228))
+    - Tags: [[blue]] 
+- The path is called noble because it is the path walked by all the noble ones of the past who have attained the goal and by those of the present and future who seek the fruit of clear knowledge and liberation. ([Location 230](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=230))
+## New highlights added April 24, 2023 at 8:38 PM
+- Vinaya Piṭaka, the Basket of Monastic Discipline; ([Location 237](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=237))
+    - Tags: [[blue]] 
+- Sutta Piṭaka, the Basket of Discourses, ([Location 237](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=237))
+    - Tags: [[orange]] 
+- Abhidhamma Piṭaka, the Basket of Treatises, ([Location 238](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=238))
+- Dīgha Nikāya seem to be largely directed at a popular audience, ([Location 258](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=258))
+    - Tags: [[orange]] 
+- Majjhima Nikāya seems largely directed inward toward the Buddhist community, intended to acquaint new disciples, particularly monastics, with the doctrines and practices of the Dhamma. ([Location 260](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=260))
+    - Tags: [[orange]] 
+## New highlights added April 30, 2023 at 9:29 PM
+- the Buddha’s discourses, as found in the Pāli Canon, are linked through a complex network of allusions and cross-references. ([Location 300](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=300))
+    - Tags: [[orange]] 
+- A theme or ([Location 300](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=300))
+- topic treated briefly in one place may be elaborated elsewhere; a term used in one sutta may be analyzed and unpacked in another. ([Location 301](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=301))
+- a sutta on the noble eightfold path (such as SN 45:8) identifies “right mindfulness” with the four establishments of mindfulness and offers a stock formula defining it, but it does not explain what these four modes of developing mindfulness actually involve in practice. ([Location 301](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=301))
+    - Tags: [[blue]] 
+- The formula for the first noble truth states that the noble truth of suffering consists in the five clinging-aggregates (see 1.4). ([Location 306](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=306))
+    - Tags: [[pink]] 
+- For a fuller account of the five aggregates, and thus of the first noble truth, we would turn to the Khandhasaṃyutta (SN 22). ([Location 306](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=306))
+- “the meaning of suffering in brief,” ([Location 308](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=308))
+    - Tags: [[blue]] 
+- Another sutta on the four noble truths (SN 56:14) defines the first noble truth as the six internal sense bases. Since it is through the six sense bases that all the other phenomena included in the five aggregates arise—feeling, perception, volition, and consciousness— ([Location 309](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=309))
+    - Tags: [[pink]] 
+- “the channels through which suffering originates.” ([Location 311](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=311))
+    - Tags: [[orange]] 
+- Many discourses state that craving is the origin of suffering, yet this declaration is not explicated in the suttas on the four noble truths. ([Location 313](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=313))
+- The statement seems to be an oblique way of pointing to an intricate process involving the interplay of a multiplicity of factors. ([Location 314](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=314))
+- dependent origination ([Location 316](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=316))
+- twelve terms joined by relations of conditionality. ([Location 317](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=317))
+    - Tags: [[blue]] 
+- craving in the middle. ([Location 317](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=317))
+    - Tags: [[pink]] 
+- find ignorance, the most fundamental root, ([Location 318](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=318))
+    - Tags: [[orange]] 
+- from which emerges a string of factors leading up to craving; ([Location 318](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=318))
+    - Tags: [[orange]] 
+- from craving the chain continues further until it culminates in old age and death and all the expressions of existential distress encountered in the course of life, summed up as “sorrow, lamentation, pain, dejection, and misery.” ([Location 318](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=318))
+- the chain of conditions occurs in two modes. ([Location 321](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=321))
+    - Tags: [[blue]] 
+- mode of origination, ([Location 322](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=322))
+    - Tags: [[pink]] 
+- mode of cessation, ([Location 323](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=323))
+    - Tags: [[orange]] 
+- The fourth noble truth, according to the Buddha’s first discourse, is the noble eightfold path, described as “the way to the cessation of suffering.” ([Location 324](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=324))
+- But while the eightfold path may be the most comprehensive and best-known formulation of the path—including as it does cognitive, ethical, and meditative factors—it is not the only set of practices that the Buddha taught as the way to the final goal of his teaching. ([Location 325](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=325))
+    - Tags: [[blue]] 
+- he presented the path from different perspectives, governed by the needs and aptitudes of the people being taught. ([Location 327](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=327))
+    - Tags: [[pink]] 
+- The broadest scheme lays out a group of seven sets of factors containing altogether thirty-seven principles called in Pāli the bodhipakkhiyā dhammā, “the aids to enlightenment” or, more poetically, “the wings to awakening.” ([Location 328](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=328))
+    - Tags: [[orange]] 
+- These seven sets, partly overlapping, are: the four establishments of mindfulness, the four right kinds of striving, the four bases for spiritual power, the five faculties, the five powers, the seven factors of enlightenment, and the noble eightfold path. ([Location 329](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=329))
+- the systematic cultivation of mindfulness might be called the essential practice of the way to liberation, ([Location 336](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=336))
+    - Tags: [[pink]] 
+- The goal of the path is nibbāna. ([Location 341](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=341))
+    - Tags: [[orange]] 
+- Nibbāna has already been indicated obliquely in the chapter on the four noble truths as the cessation of suffering. ([Location 341](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=341))
+- Connected Discourses on the Unconditioned, ([Location 344](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=344))
+    - Tags: [[orange]] 
+- thirty-two epithets for the goal, with nibbāna being only one of them. ([Location 344](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=344))
+- Each of these is equated with the destruction of lust, the destruction of hatred, and the destruction of delusion, ([Location 345](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=345))
+    - Tags: [[blue]] 
+- Repeatedly, during his teaching career, he brought his discourse to a climax with an… ([Location 384](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=384))
+    - Tags: [[orange]] 
+- The four noble truths were so central to the Buddha’s exposition of the Dhamma that the compilers of the Saṃyutta Nikāya devoted an entire chapter to this… ([Location 385](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=385))
+    - Tags: [[orange]] 
+- However, the four truths might be seen not merely as one Buddhist doctrine among others, but more broadly as the implicit… ([Location 387](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=387))
+- “Just as the footprints of all other animals of the jungle can fit into the footprint of an elephant, which is declared chief with respect to size, so whatever wholesome teachings there are can… ([Location 389](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=389))
+    - Tags: [[blue]] 
+- The classical Buddhist commentaries follow up on this suggestion by showing that the four noble truths can be extracted from other teachings even when… ([Location 390](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=390))
+    - Tags: [[pink]] 
+- Modern exponents of Buddhism often assume that the four noble truths are an elementary teaching intended for newcomers to the Dhamma, but the Buddha… ([Location 392](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=392))
+- Rather, he saw them as suitable only for those whose minds were ripe enough to understand… ([Location 393](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=393))
+    - Tags: [[blue]] 
+- He would usually begin a discourse to inquirers with a talk on generosity and morality, virtues that any person of… ([Location 394](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=394))
+    - Tags: [[pink]] 
+- From there he… ([Location 395](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=395))
+    - Tags: [[orange]] 
+- proceed to explain the workings of kamma and the realms of rebirth to which different… ([Location 395](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=395))
+    - Tags: [[orange]] 
+- Then, having described the joys of the heavens, he would speak about the faults in the pursuit of sensual pleasures and the benefits of renunciation, thereby instilling in his audience respect for the… ([Location 396](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=396))
+- It was only at this point, when he knew that the minds of his listeners were sufficiently open, trusting, and free from obstructions, that he would reveal the four noble truths, which the texts describe as “the special Dhamma… ([Location 398](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=398))
+    - Tags: [[blue]] 
+- According to 1.10, the things that the Buddha directly knew were many, like the leaves in a forest grove, but the things he expounded were few,… ([Location 404](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=404))
+    - Tags: [[orange]] 
+- suffering, its origin, its cessation,… ([Location 405](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=405))
+- The reason he did not disclose all the things he had seen was because those things do… ([Location 406](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=406))
+    - Tags: [[blue]] 
+- The reason he repeatedly expounded the four noble truths was because these principles are beneficial and lead “to disenchantment, to dispassion, to cessation, to peace, to… ([Location 406](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=406))
+    - Tags: [[blue]] 
+- The first four—birth, old age, sickness, and death—can be grouped under the heading of… ([Location 411](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=411))
+    - Tags: [[pink]] 
+- The next three are union with the unpleasant, separation from the pleasant, and not getting what one wants, which can be comprised under the… ([Location 412](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=412))
+- And the last is the five clinging-aggregates, which might be described as ontological or… ([Location 413](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=413))
+    - Tags: [[blue]] 
+- Omitting the detailed manifestations of dukkha mentioned in the first discourse, text 1.4 defines the first truth simply as the five clinging-aggregates, which in the first discourse are said to… ([Location 414](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=414))
+    - Tags: [[pink]] 
+- As a matter of convenience, most translators render this word as “suffering,” and I… ([Location 418](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=418))
+- dukkha does mean pain and… ([Location 421](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=421))
+    - Tags: [[orange]] 
+- the inescapably flawed, deficient, and unsatisfactory nature of… ([Location 422](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=422))
+- From this perspective, not only painful experience, but all experience within the conditioned… ([Location 423](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=423))
+    - Tags: [[pink]] 
+- Life, according to the Nikāyas, certainly contains abundant opportunities for joy and happiness, even… ([Location 424](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=424))
+- Maṅgala… ([Location 425](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=425))
+    - Tags: [[blue]] 
+- thirty-eight… ([Location 425](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=425))
+- All these blessings, however, are unstable and… ([Location 426](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=426))
+    - Tags: [[pink]] 
+- Every factor of being—every facet of experience—when looked at closely, turns out to be impermanent and therefore unreliable, unable… ([Location 427](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=427))
+- It is this sense of deficiency or “lack” that the word dukkha is… ([Location 428](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=428))
+    - Tags: [[pink]] 
+- Ultimate release from dukkha can only be found in that which lies beyond the sphere of transience and mortality—that is, in nibbāna, the unconditioned… ([Location 429](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=429))
+    - Tags: [[blue]] 
+- all states of existence are therefore unsatisfactory, without exception carrying in themselves the seeds of suffering.5 ([Location 435](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=435))
+    - Tags: [[orange]] 
+- Saṃsāra is the unbroken sequence of the fivefold khandha-combinations [the five aggregates], which, constantly changing from moment to moment, follow continually one upon the other through inconceivable periods of time. Of this saṃsāra a single lifetime constitutes only a tiny fraction. Hence, to be able to comprehend the first noble truth, one must let one’s gaze rest upon the saṃsāra, upon this frightful sequence of rebirths, and not merely upon one single lifetime, which of course may sometimes be not very painful.6 ([Location 439](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=439))
+- The origin of dukkha, in the analysis of the four truths, is said to be taṇhā, a word translated as “craving” but which literally means “thirst,” a blind thirst for pleasure, existence, and even annihilation that operates in the minds of all unenlightened beings. The formula for the second noble truth describes craving as ponobhavikā, “causing renewed existence.” ([Location 443](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=443))
+    - Tags: [[pink]] 
+- This underscores the point that craving is the origin of dukkha not only in the immediate psychological sense that insatiable desire breeds frustration, disappointment, and discontent, but in the subtler, deeper sense that craving sustains the cycle of repeated birth and death and thereby underlies all the suffering that arises consequent upon birth. ([Location 446](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=446))
+    - Tags: [[orange]] 
+- Supported and nurtured by fundamental ignorance, craving propels us through saṃsāra in a blind quest for final satisfaction through the indulgence of self-centered desire. ([Location 449](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=449))
+- At death, so long as craving has not been expelled, it will drive the stream of consciousness forward into a new birth, and onward from one life to the next. ([Location 450](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=450))
+    - Tags: [[orange]] 
+- This is the “long journey” on which we have embarked and which, according to the texts, has been proceeding without a discoverable temporal beginning. ([Location 451](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=451))
+- The overcoming of dukkha requires that craving be uprooted in its entirety, an attainment that the third noble truth declares a real possibility. Dukkha comes to an end with “the remainderless fading away and cessation of that same craving,” the craving that maintains the round of rebirths. And the fourth noble truth reveals the means for reaching this attainment, the noble eightfold path, which will be explored more fully in chapter 5. ([Location 452](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=452))
+    - Tags: [[blue]] 
+- tasks to each of the four noble truths, ([Location 456](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=456))
+- The truth of suffering is to be fully understood; ([Location 456](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=456))
+    - Tags: [[blue]] 
+- craving, is to be abandoned; ([Location 457](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=457))
+- the truth of its cessation is to be realized through the eradication of craving; ([Location 457](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=457))
+    - Tags: [[blue]] 
+- and the truth of the way, the noble eightfold path, is to be developed by practice. ([Location 458](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=458))
+    - Tags: [[pink]] 
+- The development of the noble eightfold path brings all four tasks to completion. ([Location 459](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=459))
+    - Tags: [[blue]] 
+- The four noble truths served the Buddha not only as a teaching device but as the objects of cultivation and realization. ([Location 462](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=462))
+    - Tags: [[orange]] 
+- “When my concentrated mind was purified, bright, unblemished, rid of imperfection, malleable, wieldy, steady, and attained to imperturbability, I directed it to knowledge of the destruction of the influxes. I directly knew as it actually is: ‘This is suffering, this its origin, this its cessation, and this the way leading to its cessation.’” With the arising of this insight, “Ignorance was banished and clear knowledge arose, darkness was banished and light arose,” and his mind was liberated from the āsavas, the primordial “influxes” that sustain the round of rebirths.7 ([Location 464](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=464))
+    - Tags: [[pink]] 
+- from his own experience ([Location 469](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=469))
+    - Tags: [[orange]] 
+- highlight the centrality of the four noble truths to the attainment of enlightenment and liberation throughout all periods of time, ([Location 469](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=469))
+- all those who attain full enlightenment do so by becoming fully enlightened to the four noble truths. ([Location 471](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=471))
+    - Tags: [[pink]] 
+- abhisambujjhati, ([Location 471](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=471))
+    - Tags: [[orange]] 
+- Lack of knowledge of the four noble truths is the blind spot— ([Location 476](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=476))
+    - Tags: [[orange]] 
+- the fundamental ignorance— ([Location 477](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=477))
+- underlies craving and thereby keeps beings bound to the round of birth and death. ([Location 477](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=477))
+    - Tags: [[orange]] 
+- Because they have not seen these truths, beings run pointlessly from one existence to the next, passing through the repetitive cycle of birth, aging, and death, and then on to still another birth. ([Location 477](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=477))
+    - Tags: [[blue]] 
+- “mutual devouring occurs, the devouring of the weak.” ([Location 481](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=481))
+    - Tags: [[orange]] 
+- Even seekers dedicated to the pursuit of liberation fail to achieve their aim if they do not understand the four truths. ([Location 485](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=485))
+- “generate volitional activities” ([Location 487](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=487))
+    - Tags: [[orange]] 
+- “the deep precipice” ([Location 488](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=488))
+    - Tags: [[pink]] 
+- The purpose of the Buddha’s appearance in the world— ([Location 490](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=490))
+- is to proclaim the four noble truths. ([Location 491](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=491))
+- Realization of the four noble truths usually comes as the culmination of a rigorous course of training ([Location 495](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=495))
+    - Tags: [[pink]] 
+- involving ethical conduct, ([Location 495](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=495))
+    - Tags: [[orange]] 
+- right thinking, ([Location 496](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=496))
+- meditative concentration, ([Location 496](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=496))
+    - Tags: [[blue]] 
+- and direct insight. ([Location 496](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=496))
+    - Tags: [[orange]] 
+- not to indulge in wrong thinking— ([Location 496](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=496))
+- sensuality, ill will, and harmfulness— ([Location 497](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=497))
+    - Tags: [[blue]] 
+- think instead about the four noble truths ([Location 497](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=497))
+- develop concentration ([Location 498](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=498))
+    - Tags: [[pink]] 
+- direct vision ([Location 498](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=498))
+    - Tags: [[pink]] 
+- a compelling sense of urgency, ([Location 499](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=499))
+    - Tags: [[orange]] 
+- just as a person whose turban were on fire would make an urgent effort to extinguish the flames ([Location 499](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=499))
+    - Tags: [[orange]] 
+- Just as it is impossible to construct the upper story of a house without having first constructed the lower story, ([Location 500](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=500))
+    - Tags: [[pink]] 
+- without penetrating these truths it is impossible to make an end of suffering. ([Location 501](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=501))
+- Each of the discourses in the Saccasaṃyutta ends with the injunction: “Therefore an exertion should be made [to understand]: ‘This is suffering’ . . . ‘This is the way leading to the cessation of suffering.’” ([Location 502](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=502))
+    - Tags: [[pink]] 
+- stream-entry, ([Location 505](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=505))
+    - Tags: [[orange]] 
+- “accomplished in view” ([Location 506](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=506))
+    - Tags: [[blue]] 
+- (diṭṭhisampanna) ([Location 507](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=507))
+- the destruction of the influxes, the defilements of sensual craving, craving for existence, and ignorance. ([Location 509](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=509))
+    - Tags: [[orange]] 
+- attained only by those who directly know the four noble truths. ([Location 510](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=510))
+    - Tags: [[blue]] 
+- one should not pause until one can declare, ([Location 511](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=511))
+- “Craving for existence has been cut off; the conduit to existence has been destroyed; now there is no more renewed existence” (1.5). ([Location 511](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=511))
+    - Tags: [[blue]] 
+- “Monks, develop concentration. A concentrated monk understands things as they really are. ([Location 513](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=513))
+    - Tags: [[pink]] 
+- “And what does he understand as it really is? He understands as it really is: ‘This is suffering.’ He understands as it really is: ‘This is the origin of suffering.’ He understands as it really is: ‘This is the cessation of suffering.’ He understands as it really is: ‘This is the way leading to the cessation of suffering.’ ([Location 514](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=514))
+    - Tags: [[orange]] 
+- “Monks, do not think bad, unwholesome thoughts—that is, sensual thought, thought of ill will, thought of harming. ([Location 534](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=534))
+    - Tags: [[pink]] 
+- These thoughts are unbeneficial; they do not pertain to the basis for the spiritual life; they do not lead to disenchantment, to dispassion, to cessation, to peace, to direct knowledge, to enlightenment, to nibbāna. ([Location 535](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=535))
+    - Tags: [[orange]] 
+- “And what, monks, is the noble truth of suffering? ‘The five clinging-aggregates,’ it should be said—that is, the form clinging-aggregate, the feeling clinging-aggregate, the perception clinging-aggregate, the volitional-activities clinging-aggregate, the consciousness clinging-aggregate. This is called the ‘noble truth of suffering.’ ([Location 545](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=545))
+    - Tags: [[orange]] 
+- “And what, monks, is the noble truth of the origin of suffering? It is this craving causing renewed existence, accompanied by delight and lust, delighting here and there—that is, craving for sensual pleasures, craving for existence, craving for non-existence.10 This is called the ‘noble truth of the origin of suffering.’ ([Location 548](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=548))
+    - Tags: [[pink]] 
+- “And what, monks, is the noble truth of the cessation of suffering? It is the remainderless fading away and cessation of that same craving, its giving up, relinquishment, freedom from it, non-attachment. This is called the ‘noble truth of the cessation of suffering.’ ([Location 551](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=551))
+    - Tags: [[blue]] 
+- “And what, monks, is the noble truth of the way leading to the cessation of suffering? It is just this noble eightfold path—that is, right view, right intention, right speech, right action, right livelihood, right effort, right mindfulness, right concentration. This is called the ‘noble truth of the way leading to the cessation of suffering.’ These are the four noble truths. ([Location 553](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=553))
+    - Tags: [[orange]] 
+- knowing and seeing, ([Location 582](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=582))
+    - Tags: [[orange]] 
+- five aggregates, ([Location 726](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=726))
+    - Tags: [[orange]] 
+- khandha ([Location 729](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=729))
+    - Tags: [[orange]] 
+- mass ([Location 729](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=729))
+    - Tags: [[orange]] 
+- trunk of a tree, ([Location 730](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=730))
+- torso of the body, ([Location 730](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=730))
+    - Tags: [[blue]] 
+- shoulder of an elephant. ([Location 730](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=730))
+    - Tags: [[pink]] 
+- five groups into which he classified the constituents of experience: ([Location 731](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=731))
+    - Tags: [[blue]] 
+- material form, feeling, perception, volitional activities, and consciousness. ([Location 731](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=731))
+    - Tags: [[pink]] 
+- unified whole, ([Location 733](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=733))
+    - Tags: [[orange]] 
+- in retrospect any experience— ([Location 733](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=733))
+- any occasion of consciousness— ([Location 733](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=733))
+    - Tags: [[blue]] 
+- be reflectively analyzed into these factors. ([Location 733](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=733))
+    - Tags: [[pink]] 
+- “aggregate” ([Location 734](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=734))
+    - Tags: [[orange]] 
+- “Whatever form there is, whether past, future, or present, internal or external, gross or subtle, inferior or superior, far or near: this is called the form aggregate.” ([Location 736](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=736))
+    - Tags: [[pink]] 
+- Three refer to location in time: ([Location 738](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=738))
+    - Tags: [[orange]] 
+- to position relative to oneself: ([Location 739](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=739))
+- quality— ([Location 740](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=740))
+    - Tags: [[pink]] 
+- spatial location, ([Location 740](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=740))
+    - Tags: [[orange]] 
+- (rūpakkhandha)— ([Location 742](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=742))
+    - Tags: [[orange]] 
+- consists of the four great elements and the form derived from the four great elements. ([Location 742](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=742))
+    - Tags: [[orange]] 
+## New highlights added May 4, 2023 at 10:56 PM
+- these texts all pertain to the ultimate good, the attainment of nibbāna or liberation. ([Location 287](https://readwise.io/to_kindle?action=open&asin=B0BFRXQNT4&location=287))
+    - Tags: [[orange]] 

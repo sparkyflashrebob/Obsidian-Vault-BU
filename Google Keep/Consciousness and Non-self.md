@@ -1,0 +1,2 @@
+
+The Buddha says in his description of the five aggregates  that consciousness is not self, impermanent and therefore unsatisfactory.  however in other teachings modern wise we are all consciousness and that consciousness cannot be destroyed investigate this question

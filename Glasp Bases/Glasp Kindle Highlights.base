@@ -1,0 +1,15 @@
+filters:
+  and:
+    - 'file.inFolder("B_Book Markups/Kindle Book Notes")'
+    - 'file.ext == "md"'
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - note.Author
+      - note.Tags
+      - note.Thumbnail
+  - type: cards
+    name: Cards
+    image: note.Thumbnail

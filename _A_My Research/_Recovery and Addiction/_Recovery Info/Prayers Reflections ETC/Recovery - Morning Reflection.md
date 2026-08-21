@@ -1,0 +1,10 @@
+---
+tag: recovery, reflection, contemplation, inventory
+---
+         
+
+**_[[Morning Reflection]]_**
+
+On awakening let us think about the twenty four hours ahead. We consider our plans for the day. Before we begin, we ask God to direct our thinking, especially asking that it be divorced from self pity, dishonest or self seeking motives. Under these conditions we can employ our mental faculties with assurance, for after all God gave us brains to use. Our thought-life will be placed on a much higher plane when our thinking is cleared of wrong motives.
+
+In thinking about our day we may face indecision. We may not be able to determine which course to take. Here we ask God for inspiration, an intuitive thought or a decision. We relax and take it easy. We don't struggle. We are often surprised how the right answers come after we have tried this for a while.

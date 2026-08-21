@@ -1,0 +1,33 @@
+In Buddhism, the concept of merit refers to the positive energy that one generates through good actions and intentions. This energy, known as "good karma," can lead to positive consequences in the future, such as happiness, prosperity, and good rebirth. Merit is typically accumulated through acts of generosity, moral conduct, and meditation, and can also be transferred to others through rituals such as offering food to monks or reciting sutras. The accumulation of merit is believed to help one progress along the path to enlightenment, which is the ultimate goal of Buddhism. 
+
+- Merit is not only a concept, but also a way of living.[53] The Pāli canon identifies three bases of merit (puññakiriyā-vatthu),[2][38][39] in order of difficulty:[54][note 1]
+-   giving (dāna-maya)
+-   virtue (sīla-maya)
+-   mental development (bhāvanā-maya)
+-   Seven items are then added to the previous three:
+-   Giving (Dāna-maya)
+-   Virtue (Sīla-maya)
+-   Mental development (Bhāvanā-maya)
+-   Honoring others (Apacāyana-maya)
+-   Offering service (Veyyāvaca-maya)
+-   Dedicating (or transferring) merit to others (Pāli:Pattidāna-maya; Sanskrit: puṇyapariṇāmanā)
+-   Rejoicing in others' merit (Pattānumodanā-maya)
+-   Listening to Buddha's Teachings (Dhammassavana-maya)
+-   Instructing others in the Buddha's Teachings (Dhammadesanā-maya)
+-   Straightening one's own views in accordance with the Buddha's Teachings (Diṭṭhujukamma)[2][64][66]
+-   Puñña, kusala and Nirvana
+-   Ten Wholesome Ways of Action
+-   Puñña, kusala and Nirvana
+-   Akusala (unwholesome)
+-   kusaladhamma
+-   A teaching that exists in both Mahāyāna sūtras and Theravādin suttas is the teaching on the Ten Wholesome Ways of Action (Pali: kusaladhamma). In Mahāyāna, this teaching is described as the way in which a Bodhisattva prevents "suffering in all evil destinies". These ten wholesome ways are:
+-   In giving up the taking of life, the practitioner will accomplish freedom from vexations;
+-   In giving up stealing, the practitioner will find security in life, economically, socially and spiritually;
+-   In giving up wrongful (sexual) conduct, the practitioner will find inner peace and peace in the family life;
+-   In giving up lying, the practitioner will attain purity of speech and mind;
+-   In giving up slander, the practitioner will be protected socially and spiritually;
+-   In giving up harsh language, the practitioner's words will be more effective;
+-   In giving up frivolous speech, the practitioner will become wise and dignified;
+-   In giving up lust, the practitioner finds freedom in life through contentment and simplicity;
+-   In giving up hatred, the practitioner will develop kindness and gentleness;
+-   In giving up wrong views, the practitioner will not falter in the good and spiritual path.[90][91]

@@ -1,0 +1,2 @@
+
+“This holy life of practice of Dharma, if lived—and should there be a heaven after all—is paradise, and will assure the student’s long enjoyment of it. If there is no world beyond, at least in this very life the one who follows Dharma will be truly free from hostility and affliction. If the law of karma is indeed effective and true, then people who do no ill cannot suffer. Even if the law of karma is not effective, however, still their life of purity will always gain for them the praise of their intelligent fellow men and women, and bring happiness in this life.”

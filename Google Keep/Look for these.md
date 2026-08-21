@@ -1,0 +1,2 @@
+
+For the achievement of powerful health take the following: • the Mediterranean-source (hand-picked) oil of wild oregano • the crude whole oregano herb/spice, withRhus coriaria • the wild aromatic essence or juice • a purging agent consisting of heavy monunsaturated oils, with spice oils and extracts of wild remote-source greens, plus wild cranberry (for the kidneys) • a truly remote-source natural vitamin C with camu camu, acerola, and rose hips (be sure the camu camu is wild) • a natural multiple spice complex emulsified in bees wax

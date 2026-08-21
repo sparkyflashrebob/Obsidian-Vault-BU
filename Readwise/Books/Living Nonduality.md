@@ -1,0 +1,104 @@
+# Living Nonduality
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/517vcdpbpjL._SL200_.jpg)
+
+## Metadata
+- Author: [[Robert Wolfe]]
+- Full Title: Living Nonduality
+- Category: #books
+
+## Highlights
+- mis-identifying the relative as the absolute. ([Location 221](https://readwise.io/to_kindle?action=open&asin=B003Z9JOCS&location=221))
+- Is there anything which is not relative—which does not depend upon anything else for its identity or pertinence? ([Location 234](https://readwise.io/to_kindle?action=open&asin=B003Z9JOCS&location=234))
+    - Tags: [[blue]] 
+- absolute. ([Location 236](https://readwise.io/to_kindle?action=open&asin=B003Z9JOCS&location=236))
+    - Tags: [[pink]] 
+- However, we are trained to, and habitually accustomed to, perceive in a relative way. The very activity of thought is to interpret that which the senses apprehend by dividing the sense impressions into relative elements (the better to leverage one against the other, for physical survival or continuity). A non-relative viewing is entirely foreign to our customary thought process: in fact, to the relative thought of our personal individuality, it is fatal. Therefore, the thought-processing mechanism (which we collectively call the mind) guards assiduously against such an “unnatural” perception. ([Location 246](https://readwise.io/to_kindle?action=open&asin=B003Z9JOCS&location=246))
+    - Tags: [[orange]] 
+- True unitive awareness—profound ([Location 254](https://readwise.io/to_kindle?action=open&asin=B003Z9JOCS&location=254))
+- absolute ([Location 257](https://readwise.io/to_kindle?action=open&asin=B003Z9JOCS&location=257))
+    - Tags: [[blue]] 
+- “without limitation”. ([Location 257](https://readwise.io/to_kindle?action=open&asin=B003Z9JOCS&location=257))
+    - Tags: [[blue]] 
+- infinite, ([Location 258](https://readwise.io/to_kindle?action=open&asin=B003Z9JOCS&location=258))
+    - Tags: [[pink]] 
+- “without limit or boundary, beyond measure or comprehension, without beginning or end”. ([Location 260](https://readwise.io/to_kindle?action=open&asin=B003Z9JOCS&location=260))
+    - Tags: [[orange]] 
+- the Infinite is another name for God. ([Location 261](https://readwise.io/to_kindle?action=open&asin=B003Z9JOCS&location=261))
+- We all have a choice at any given moment. ([Location 263](https://readwise.io/to_kindle?action=open&asin=B003Z9JOCS&location=263))
+    - Tags: [[blue]] 
+- We can continue to (as we each have been conditioned to do) perceive our self—and each and every thing which is “outside” of, or “around”, our self—as a separate entity, standing in relation to all those things we define as not our self. ([Location 263](https://readwise.io/to_kindle?action=open&asin=B003Z9JOCS&location=263))
+    - Tags: [[pink]] 
+- Or, we can recognize that our relative perspective obfuscates the possibility of a perspective which is “without limit or boundary”, the perspective or perception of absolute inseparability. We are free, in other words, to remove the self-imposed limitation or boundary between our “self” and the “infinite” at any and every moment. ([Location 265](https://readwise.io/to_kindle?action=open&asin=B003Z9JOCS&location=265))
+    - Tags: [[orange]] 
+- enlightenment. ([Location 268](https://readwise.io/to_kindle?action=open&asin=B003Z9JOCS&location=268))
+- And the effortless removal of this boundary is effected in the sudden, certain realization that such a boundary has never actually existed. ([Location 268](https://readwise.io/to_kindle?action=open&asin=B003Z9JOCS&location=268))
+    - Tags: [[blue]] 
+- you need to be willing to—at ([Location 271](https://readwise.io/to_kindle?action=open&asin=B003Z9JOCS&location=271))
+- suspend your relative habit of thinking. ([Location 272](https://readwise.io/to_kindle?action=open&asin=B003Z9JOCS&location=272))
+- free the psyche to move from what it knows to what it does not know. ([Location 272](https://readwise.io/to_kindle?action=open&asin=B003Z9JOCS&location=272))
+    - Tags: [[blue]] 
+- there is no means of describing the absolute. ([Location 276](https://readwise.io/to_kindle?action=open&asin=B003Z9JOCS&location=276))
+- to recognize the false as the false is to see the truth. ([Location 278](https://readwise.io/to_kindle?action=open&asin=B003Z9JOCS&location=278))
+- infinite, eternal, free of causation, and—given that it exists—actual. ([Location 283](https://readwise.io/to_kindle?action=open&asin=B003Z9JOCS&location=283))
+    - Tags: [[blue]] 
+- That which is entirely unlimited and unbounded is uncontainable, thus unlocatable. ([Location 287](https://readwise.io/to_kindle?action=open&asin=B003Z9JOCS&location=287))
+    - Tags: [[pink]] 
+- Not restricted by anything, there could be no point at which it was not; ([Location 288](https://readwise.io/to_kindle?action=open&asin=B003Z9JOCS&location=288))
+    - Tags: [[orange]] 
+- permeating everything that was material or immaterial, no such thing as “space” would remain. ([Location 288](https://readwise.io/to_kindle?action=open&asin=B003Z9JOCS&location=288))
+- “distance” would be irrelevant: ([Location 290](https://readwise.io/to_kindle?action=open&asin=B003Z9JOCS&location=290))
+- here is there ([Location 290](https://readwise.io/to_kindle?action=open&asin=B003Z9JOCS&location=290))
+    - Tags: [[blue]] 
+- without interface. ([Location 291](https://readwise.io/to_kindle?action=open&asin=B003Z9JOCS&location=291))
+    - Tags: [[pink]] 
+- Knowing no capability of isolation within itself, at any and every point of its occurrence it would all be entirely, 100% present. ([Location 291](https://readwise.io/to_kindle?action=open&asin=B003Z9JOCS&location=291))
+    - Tags: [[orange]] 
+- And having absolutely no borders, margins or perimeters, it could in no manner be regarded a separate entity. ([Location 292](https://readwise.io/to_kindle?action=open&asin=B003Z9JOCS&location=292))
+- Not being any “thing” it is never present in “part”—it has no parts. ([Location 293](https://readwise.io/to_kindle?action=open&asin=B003Z9JOCS&location=293))
+    - Tags: [[blue]] 
+- Nor can anything possibly have been apart from it: it is absolute, which means whole, complete and entire—unfragmentable, and unavoidable. ([Location 293](https://readwise.io/to_kindle?action=open&asin=B003Z9JOCS&location=293))
+- eternal, ([Location 295](https://readwise.io/to_kindle?action=open&asin=B003Z9JOCS&location=295))
+    - Tags: [[blue]] 
+- time-less, ([Location 295](https://readwise.io/to_kindle?action=open&asin=B003Z9JOCS&location=295))
+    - Tags: [[pink]] 
+- Neither existence nor nonexistence are relevant to Q. ([Location 296](https://readwise.io/to_kindle?action=open&asin=B003Z9JOCS&location=296))
+    - Tags: [[orange]] 
+- omnipresent, ([Location 296](https://readwise.io/to_kindle?action=open&asin=B003Z9JOCS&location=296))
+- there is no moment when it is not present; nor is it any more nor less present at any particular instant. ([Location 297](https://readwise.io/to_kindle?action=open&asin=B003Z9JOCS&location=297))
+    - Tags: [[blue]] 
+- In fact, with no capability of not being present, it is pointless to say that it is present: it was no more present in the “past”, and will be no more present in the “future”, than it is “now”; to it, past, future and now are meaningless. ([Location 297](https://readwise.io/to_kindle?action=open&asin=B003Z9JOCS&location=297))
+    - Tags: [[pink]] 
+- Unlimited through space and time, having no center, no point of origin, no spatial or temporal continuum for “cause and effect”, Q is spontaneously self-actualizing, without “internal” or “external” referencing. With no “other” in relationship to it, not anything is comparable to it. It is immanently present while, simultaneously, it transcends existence. Being in every place at all times, it has no separate or special identity. Having not even an opposite, there is no way in which it is incomplete. ([Location 301](https://readwise.io/to_kindle?action=open&asin=B003Z9JOCS&location=301))
+- Carefully consider it, for your own sake. ([Location 305](https://readwise.io/to_kindle?action=open&asin=B003Z9JOCS&location=305))
+    - Tags: [[blue]] 
+- If there were a possibility of anything which could be described as infinite, eternal, uncaused, and actual, what could possibly stand apart from—or in relation to—it? Except you, perhaps? ([Location 306](https://readwise.io/to_kindle?action=open&asin=B003Z9JOCS&location=306))
+    - Tags: [[pink]] 
+- We may, consciously or unconsciously, choose to perceive from a relative viewpoint. ([Location 311](https://readwise.io/to_kindle?action=open&asin=B003Z9JOCS&location=311))
+- From the so-called “cosmic”, or non-dual, viewpoint, our chronic perception of things as relative to, and separate from, each other is false. To recognize that it is false is to open the mind to the potentiality of truth. ([Location 312](https://readwise.io/to_kindle?action=open&asin=B003Z9JOCS&location=312))
+    - Tags: [[blue]] 
+- it is important to understand the indivisible essence of the absolute. ([Location 318](https://readwise.io/to_kindle?action=open&asin=B003Z9JOCS&location=318))
+- When it is indubitably recognized that your nature and the nature of the absolute are fundamentally the same, indivisible nature, this is the “recognition of one's true identity": the realization that any and all identity is eclipsed by an actuality which renders separative distinctions ultimately meaningless. ([Location 320](https://readwise.io/to_kindle?action=open&asin=B003Z9JOCS&location=320))
+    - Tags: [[blue]] 
+- This fruit of the realization—that the absolute essence of all being does not “come” from some place nor “go” anywhere—quenches our deepest, final fear, the fear of extinction. Then the liberated may, indeed, “take no thought for the morrow”. ([Location 325](https://readwise.io/to_kindle?action=open&asin=B003Z9JOCS&location=325))
+- Shankara. ([Location 330](https://readwise.io/to_kindle?action=open&asin=B003Z9JOCS&location=330))
+- Ramana Maharshi, ([Location 331](https://readwise.io/to_kindle?action=open&asin=B003Z9JOCS&location=331))
+    - Tags: [[blue]] 
+- can be found in a distilled form in such transcriptions as Be as You Are: The Teachings of Sri Ramana Maharshi ([Location 342](https://readwise.io/to_kindle?action=open&asin=B003Z9JOCS&location=342))
+- I think back to what I have known of myself. If there is any continuity, it is only in my memory. Can I let go—am I letting go—of the man who only exists in my own picture frames? ([Location 390](https://readwise.io/to_kindle?action=open&asin=B003Z9JOCS&location=390))
+- relative standpoint, ([Location 422](https://readwise.io/to_kindle?action=open&asin=B003Z9JOCS&location=422))
+- Absolute standpoint. ([Location 423](https://readwise.io/to_kindle?action=open&asin=B003Z9JOCS&location=423))
+    - Tags: [[blue]] 
+- From the Absolute standpoint, all that can be said is “There is no thing.” Ultimately, that is, the formless Absolute cannot be regarded in relation to any entity or form or object. Yet, in order to speak of this, we must speak of it as if it were something which can be identified, or objectified by the subjective hearer. Thus, it is referred to as That, or Absolute, or Formless, or God, or Self, etc. ([Location 425](https://readwise.io/to_kindle?action=open&asin=B003Z9JOCS&location=425))
+    - Tags: [[pink]] 
+- But this, which necessitates being objectified in order that we can speak about it (the alternative being to remain silent, wordless), is nothing: no thing. Where this becomes even more perplexing is that this nothing is existent in the form of—in the appearance of a form of—every thing. ([Location 428](https://readwise.io/to_kindle?action=open&asin=B003Z9JOCS&location=428))
+    - Tags: [[orange]] 
+- In short, what the teachers are saying is that any object in the universe is—despite our giving it some separative name—a manifestation of the Absolute (or Source). They are also saying that the subject is not an exception to this truth: that everything in the universe is a manifestation of the same singular Source. ([Location 464](https://readwise.io/to_kindle?action=open&asin=B003Z9JOCS&location=464))
+- So, at the level of the most basic reality, the subject—I—and the object—tree—are the same thing: an aspect (although different in appearance) of the Absolute. This applies to every subject and every object: all are, at their essence, the same, one thing. ([Location 467](https://readwise.io/to_kindle?action=open&asin=B003Z9JOCS&location=467))
+    - Tags: [[blue]] 
+- If you are That and the tree is That, there is no “space” between you, in truth: even what we name as space between things too is That, a manifestation of the very same Source. ([Location 472](https://readwise.io/to_kindle?action=open&asin=B003Z9JOCS&location=472))
+    - Tags: [[pink]] 
+- self identification—which ([Location 514](https://readwise.io/to_kindle?action=open&asin=B003Z9JOCS&location=514))
+- While consciousness is the underlying and connecting presence in all three conditions, it varies in its manifest form in each. ([Location 538](https://readwise.io/to_kindle?action=open&asin=B003Z9JOCS&location=538))
+- In the period of deep sleep, consciousness exists free of the imposition of cognitive thought and interpreted sense impressions; purely subjective awareness with no “real” or “unreal” object envisioned. This aspect of unadulterated, unconditioned consciousness is our Absolute essence, the common and unitary presence at the core of each and every one of us. ([Location 541](https://readwise.io/to_kindle?action=open&asin=B003Z9JOCS&location=541))
+    - Tags: [[blue]] 

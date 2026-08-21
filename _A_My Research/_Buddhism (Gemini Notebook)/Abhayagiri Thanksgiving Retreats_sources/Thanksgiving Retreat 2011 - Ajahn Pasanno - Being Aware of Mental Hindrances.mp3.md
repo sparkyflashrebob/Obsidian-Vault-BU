@@ -1,0 +1,4 @@
+# Thanksgiving Retreat 2011 - Ajahn Pasanno - Being Aware of Mental Hindrances.mp3
+
+an opportunity to pay attention to the five hindrances. It isn't as if the five hindrances just come up in meditation and aren't there any other time. So using that the circumstance of of the meal food I mean there can be uh you know really deeply ingrained habits around uh around food and eating. And uh hindrances come up. Uh they cloud the mind, they overwhelm the mind. And it's necessary to be able to understand how they how they arise and uh say what investment we we make in these hindrances. Uh the identifications that we have with them and then to just to say oh this is a hindrance whether it's sensual desire or irritation. or kind of restlessness around food or getting getting what we want. So all of that uh is just another part of practice that we can be be investigating.
+

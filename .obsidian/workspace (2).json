@@ -1,0 +1,356 @@
+{
+  "main": {
+    "id": "1b7e78de6d06ca44",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea7282c76d611246",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cdd9d0cd0c03f7c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Website Antigravity 1.16 Prompt Template.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Website Antigravity 1.16 Prompt Template"
+            }
+          },
+          {
+            "id": "8906fcef263e9116",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_A_My Journal and Notes/Bee - NLM Reports/2026 07 July/Bee Daily Note 260730.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Bee Daily Note 260730"
+            }
+          },
+          {
+            "id": "09ddcae2c9c50c6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_A_My Journal and Notes/Master Mind Map - Journal Archive & Content Nodes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Master Mind Map - Journal Archive & Content Nodes"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "96d1cf83d71c0d5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a220470f9b2d333",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8e90e410b637fd0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e141e72926138919",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "\"meditation script\"",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8469cbb726b6fb32",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "737d49569967647f",
+            "type": "leaf",
+            "state": {
+              "type": "chapters",
+              "state": {},
+              "icon": "book",
+              "title": "Book chapters"
+            }
+          },
+          {
+            "id": "30e0f2fe3a5dc946",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 422.5
+  },
+  "right": {
+    "id": "518bde2c2dc5fc1d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1bfdf69f2606d6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cea8a1819a34ce5f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "778bc1cde90d6f11",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8983c0ebf4d1f3dd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "3e976761065fcc0c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_A_Working with Others/251229_andy_&_audel_meeting-019b6d14bd77734e981ac9e873790a6f/transcript.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "f0de2c4c112a72a6",
+            "type": "leaf",
+            "state": {
+              "type": "goal",
+              "state": {},
+              "icon": "book",
+              "title": "Book goal"
+            }
+          },
+          {
+            "id": "9b719232002cb532",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "7a25fe15f64cadfc",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "clock",
+              "title": "Reminders"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 307.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false,
+      "notebook-navigator:Notebook Navigator": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian42-text-transporter:Text Transporter": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "github-publish:GitHub Publish setup": false,
+      "ai-tagger-universe:Analyze and tag current note": false,
+      "ai-tagger-universe:View tag relationships network": false
+    }
+  },
+  "active": "09ddcae2c9c50c6e",
+  "lastOpenFiles": [
+    "_Buddhism (Gemini Notebook)/CB THEMES_sources/[practice] What actually _causes_ stream entry_ _ r_streamentry - Reddit.md",
+    "_Buddhism (Gemini Notebook)/CB THEMES_sources/[buddhism] Understanding Identity View _ r_streamentry.md",
+    "_Buddhism (Gemini Notebook)/CB THEMES_sources/WithEachAndEveryBreath_200510.pdf.md",
+    "_Buddhism (Gemini Notebook)/CB THEMES_sources/Why is impermanence so important in Buddhism_ - Reddit.md",
+    "_Buddhism (Gemini Notebook)/CB THEMES_sources/Why Identity Matters and How It Shapes Us - Verywell Mind.md",
+    "_Buddhism (Gemini Notebook)/CB THEMES_sources/What is _no self” in Buddhism_ _ r_Buddhism - Reddit.md",
+    "_Buddhism (Gemini Notebook)/CB THEMES_sources/What is Karma in Buddhism_ _ Namchak Community.md",
+    "_Buddhism (Gemini Notebook)/CB THEMES_sources/What Is Dukkha_ Understanding Suffering in Buddhism - Insight Timer.md",
+    "_Buddhism (Gemini Notebook)/CB THEMES_sources/What is dependent origination_ _ r_Buddhism - Reddit.md",
+    "_Buddhism (Gemini Notebook)/CB THEMES_sources/What Does Ignorance Mean in Buddhism__ (Delusion or Avidya) _ Boudha Stupa Thanka.md",
+    "_Buddhism (Gemini Notebook)/CB THEMES_sources/What Do We Mean by 'Community Resilience'_ A Systematic Literature Review of How It Is Defined in the Literature.md",
+    "_Buddhism (Gemini Notebook)/CB THEMES_sources/What is dependent origination_ - Tricycle_ The Buddhist Review.md",
+    "_Buddhism (Gemini Notebook)/CB THEMES_sources/Wh 351_352_353. The Jhānas In Theravada Buddhist Meditation.md",
+    "_Buddhism (Gemini Notebook)/CB THEMES_sources/What did the Buddha mean by suffering_ - Tricycle_ The Buddhist Review.md",
+    "_Buddhism (Gemini Notebook)/CB THEMES_sources/What are the three poisons_ (Greed, hatred, and delusion) - Tricycle_ The Buddhist Review.md",
+    "_Buddhism (Gemini Notebook)/CB THEMES_sources/What are the three poisons_ _ r_Buddhism - Reddit.md",
+    "_Buddhism (Gemini Notebook)/CB THEMES_sources/Video Dharma Talk_ The Practice of Compassion - Plum Village.md",
+    "_Buddhism (Gemini Notebook)/CB THEMES_sources/V10I5-1307 The Impact of Social Media Use on Identity Formation among Adolescents - IJARIIT.md",
+    "_Buddhism (Gemini Notebook)/CB THEMES_sources/Unraveling the happiness paradox_ The mental exhaustion of chasing joy - PsyPost.md",
+    "_Buddhism (Gemini Notebook)/CB THEMES_sources/Understanding The Second Noble Truth_ The Truth of the Cause of Suffering (Samudaya) in Buddhism - HD Asian Art.md",
+    "_Buddhism (Gemini Notebook)/CB THEMES_sources/Understanding Sakkayaditthi_ The Illusion of Self.md",
+    "_Buddhism (Gemini Notebook)/CB THEMES_sources/Understanding Dukkha_ Beyond mere suffering - Fabrizio Musacchio.md",
+    "_Buddhism (Gemini Notebook)/CB THEMES_sources/Twelve Links Of Dependent Arising (Dependent Origination) - Samye Pathways.md",
+    "_Buddhism (Gemini Notebook)/CB THEMES_sources/To Reach Stream-Entry, All You Need to Break are These Three Fetters _ Buddhism.net.md",
+    "_Buddhism (Gemini Notebook)/CB THEMES_sources/Three poisons - Wikipedia.md",
+    "_Buddhism (Gemini Notebook)/CB THEMES_sources/TheShapeofSuffering_181215.pdf.md",
+    "_Buddhism (Gemini Notebook)/CB THEMES_sources",
+    "_Buddhism (Gemini Notebook)/CORE BUDDHIST THEMES_sources",
+    "_Buddhism (Gemini Notebook)/CORE BUDDHIST THEMES_notes/The Architecture of Right Speech.png",
+    "_Buddhism (Gemini Notebook)/CORE BUDDHIST THEMES_notes",
+    "_Buddhism (Gemini Notebook)/Core Canon and References_sources",
+    "_Buddhism (Gemini Notebook)/Ajahn Sumedho_notes/Blueprint for Spiritual Awakening.png",
+    "_Buddhism (Gemini Notebook)/Ajahn Sumedho_notes",
+    "_Buddhism (Gemini Notebook)/Ajahn Sumedho_sources",
+    "_Buddhism (Gemini Notebook)/BUD_Books (GN)",
+    "_Buddhism (Gemini Notebook)",
+    "New folder",
+    "_A_Working with Others/Audel/251229_andy_&_audel_meeting-019b6d14bd77734e981ac9e873790a6f/desktop.ini",
+    "_Canvas's/Spiritual Principles.canvas",
+    "_A_My Teaching/Dharma Teaching.canvas",
+    "_Canvas's/Andy's Dharma.canvas",
+    "_A_My Teaching/Living Mindfully/The_Architecture_of_Self-Honesty.png",
+    "_A_My Teaching/Azure Acres/Mindfulness for the Spiritual Warrior.png",
+    "_A_My Teaching/Azure Acres/Azure Acres Mindfulness and Recovery Mind Map.png",
+    "_A_My Teaching/Bayside/Awakening_Mindfulness_in_Recovery_Guide.png",
+    "_A_My Teaching/Bayside/Canyon/The Observer's Path Infographic.png",
+    "_A_My Teaching/Bayside/Bayside Canyon Mindfulness and Revovery  Mind Map.png",
+    "_A_My Teaching/Bayside/Bayside Mountain Mindfulness and Recovery Framewor Mind Map.png",
+    "Pasted image 20260715095332.png",
+    "_Canvas's/Untitled.canvas",
+    "_A_My Research/B_Book Markups/Kindle Book Notes/Dharma Canvas.canvas",
+    "_Book Markups/Kindle Book Notes/Dharma Canvas.canvas",
+    "_Canvas's/Anatta.canvas",
+    "Unsorted Notes/Dharma Teaching.canvas"
+  ]
+}

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">df4f0c24-6444-4638-856e-99b031af1bb9</dc:identifier>
+        <dc:title>Right Mindfulness: Memory &amp; Ardency on the Buddhist Path</dc:title>
+        <dc:creator opf:file-as="Bhikkhu, Thanissaro" opf:role="aut">Thanissaro Bhikkhu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.9.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-08-09T07:00:00+00:00</dc:date>
+        <dc:description>For the past several decades, a growing flood of books, articles, and teachings has advanced theories about the practice of mindfulness which are highly questionable and—for anyone hoping to realize the end of suffering—seriously misleading. The main aim of this book is to show that the practice of mindfulness is most fruitful when informed by the Buddha’s own definition of right mindfulness and his explanations of its role on the path.</dc:description>
+        <dc:publisher>Metta Forest Monastery</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Buddhism</dc:subject>
+        <dc:subject>Mindfulness</dc:subject>
+        <dc:subject>Meditation</dc:subject>
+        <dc:subject>Dhamma</dc:subject>
+        <dc:subject>Dharma</dc:subject>
+        <dc:subject>Theravada</dc:subject>
+        <dc:subject>Pali Canon</dc:subject>
+        <dc:subject>Buddha</dc:subject>
+        <meta content="{&quot;Thanissaro Bhikkhu&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-01-29T04:01:35.665000+00:00" name="calibre:timestamp"/>
+        <meta content="Right Mindfulness: Memory &amp; Ardency on the Buddhist Path" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

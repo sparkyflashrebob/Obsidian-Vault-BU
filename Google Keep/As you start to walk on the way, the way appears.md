@@ -1,0 +1,6 @@
+---
+tags:
+  - Inspirational
+---
+
+Rumi

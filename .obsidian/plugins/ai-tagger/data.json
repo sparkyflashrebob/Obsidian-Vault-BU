@@ -1,0 +1,8 @@
+{
+  "model": "gemini-1.5-pro",
+  "lowerCaseMode": true,
+  "openaiApiKey": "",
+  "google-genaiApiKey": "AIzaSyAx7Covckj9L5DLwYb8HZVlO0eBAbGozeU",
+  "useCustomBaseUrl": false,
+  "customBaseUrl": "http://localhost:8081/"
+}

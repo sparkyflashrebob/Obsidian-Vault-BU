@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">607b6595-6e74-4889-99cf-c112c1c83690</dc:identifier>
+        <dc:title>Recognizing the Dhamma: A Study Guide</dc:title>
+        <dc:creator opf:file-as="Bhikkhu, Thanissaro" opf:role="aut">Thanissaro Bhikkhu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.9.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-06-10T07:00:00+00:00</dc:date>
+        <dc:description>The Buddha taught eight principles for recognizing what qualifies as Dhamma and Vinaya, and what does not. They form the standards against which the validity of any interpretation of the Dhamma or Vinaya must be judged. They are an indispensible guide in solitary practice and an excellent illustration of his teachings in the well-known Kālāma Sutta, as well as of those he gave to his son, Rāhula.</dc:description>
+        <dc:publisher>Metta Forest Monastery</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Dhamma</dc:subject>
+        <dc:subject>Dharma</dc:subject>
+        <dc:subject>Buddhism</dc:subject>
+        <dc:subject>Pali Canon</dc:subject>
+        <dc:subject>Theravada</dc:subject>
+        <meta content="{&quot;Thanissaro Bhikkhu&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-01-29T04:01:37.007000+00:00" name="calibre:timestamp"/>
+        <meta content="Recognizing the Dhamma: A Study Guide" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

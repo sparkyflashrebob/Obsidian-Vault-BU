@@ -1,0 +1,22 @@
+# Patients say keto helps with their mental illness. Science is racing to understand why
+
+![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_716028/20240125_clearwater_keto_mental-health006_wide-c7a5f_kbednb8.jpg)
+
+## Metadata
+- Author: [[Will Stone]]
+- Full Title: Patients say keto helps with their mental illness. Science is racing to understand why
+- Category: #articles
+- Summary: Patients with mental illness are reporting positive effects on their symptoms from following a ketogenic diet, which is high in fat and low in carbs. While the science behind why this diet works for mental health is still being studied, there is evidence to suggest that the metabolic changes induced by the diet, such as the use of ketones as an energy source instead of glucose, may have positive effects on brain function. Several clinical trials are currently underway to investigate the potential benefits of the ketogenic diet for mental illnesses such as bipolar disorder, schizophrenia, and depression. Additionally, there is a growing field of research called metabolic psychiatry that aims to understand the link between metabolic health and mental illness, and explore interventions beyond just diet, such as medications that target metabolic problems.
+- URL: https://www.npr.org/sections/health-shots/2024/01/27/1227062470/keto-ketogenic-diet-mental-illness-bipolar-depression
+
+## Highlights
+- "It's not a fad diet," says Dr. [Shebani Sethi](https://profiles.stanford.edu/shebani-sethi), who's leading [research](https://metabolicpsychiatry.com/) into the diet's potential for mental health at Stanford University. "It's a medical intervention." ([View Highlight](https://read.readwise.io/read/01hn62p3vjhjpnvwjeb709x5rn))
+- "It's a general standard of care for epilepsy," says [Dr. Eric Kossoff](https://www.hopkinsmedicine.org/profiles/details/eric-kossoff), a pediatric neurologist at Johns Hopkins University. ([View Highlight](https://read.readwise.io/read/01hn62pbptz5fgmtxsyry5ej3n))
+- This [track record](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD001903.pub5/full) in epilepsy, the thinking goes, paves the way for its adoption in psychiatry. There [are links](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9122168/#:~:text=Psychiatric%20disorders%20occur%20very%20often,the%20course%20of%20the%20disorder.) between the conditions. Medications developed for seizures are [regularly prescribed](https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/article/abs/antiseizure-medications-prescribing-for-behavioural-and-psychiatric-concerns-in-adults-with-an-intellectual-disability-living-in-england/87E58ED04FC99F9C7E5DAA519EC4E639) for a range of psychiatric conditions such as bipolar disorder. ([View Highlight](https://read.readwise.io/read/01hn62pnkcj5p6tkky43fpkwye))
+- "We've known for a long time that there's something going on in the metabolism of the brain that's not quite right in people with severe mental illness," ([View Highlight](https://read.readwise.io/read/01hn62q6smjaahj4t2m0rd9bjv))
+- During ketosis, the body essentially changes metabolic gears. It increasingly draws on ketones — made from the breakdown of fat in the liver – instead of glucose. ([View Highlight](https://read.readwise.io/read/01hn62rdw5j83mq4t5yx2vwvfw))
+- Because the diet eliminates carbohydrates, blood sugar comes down and insulin sensitivity [improves](https://diabetesjournals.org/spectrum/article/33/2/133/32999/Low-Carbohydrate-and-Very-Low-Carbohydrate-Diets). ([View Highlight](https://read.readwise.io/read/01hn62rr03bf0azjm1fr7nb0h2))
+- Palmer and other scientists believe problems with mitochondria — the powerhouses of the cells that produce energy — are central to mental illness. ([View Highlight](https://read.readwise.io/read/01hn62s4wd4jde85xnk530evbv))
+- "This is likely due to mitochondria's essential role in maintaining key brain function," ([View Highlight](https://read.readwise.io/read/01hn62shgzgngjyfteywtrkcy6))
+- Cumulative damage to these vital power houses ultimately leads to a "metabolic shift" that wreaks havoc in myriad ways — what's apparent in their increased production of lactate. ([View Highlight](https://read.readwise.io/read/01hn62t7mnyjzvsp3eszb72xdg))
+- "Once you trend towards more normal mitochondrial function and metabolic health, that's restoring neurotransmitter systems, it's even restoring blood flow to the brain," says D'Agostino. ([View Highlight](https://read.readwise.io/read/01hn62trgcbkprn0h4nng3f43h))

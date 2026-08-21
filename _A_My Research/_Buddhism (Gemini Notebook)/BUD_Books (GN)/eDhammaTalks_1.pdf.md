@@ -1,0 +1,2036 @@
+# eDhammaTalks_1.pdf
+
+ePublished Dhamma Talks : I
+
+Thanissaro Bhikkhu (Geoffrey DeGraff)
+
+F O R  F R E E  D I S T R I B U T I O N
+
+Undirected Insight
+
+November 23, 1995
+
+Coming out to a place like this is very important for the mind, because the
+
+mind needs time to get away from its day-to-day issues. The affairs of daily life are like wind blowing across the surface of water. When the water is all ruffled up by the wind, you can’t see what lies under the surface. So you have to come out to a place like this where there are not that many issues going on, just the very basic issues of keeping the body alive—walking when you need to walk, sitting when you need to sit—so that the affairs of the mind can come more and more to the forefront, so you can stop the wind ruffling the water. The surface of the water calms down and gets still. Clear and smooth. Then you can look down inside, into the mind.
+
+And what the mind has to show, it’s going to show at its own pace, in its own way. We may have come to the meditation with the idea that we’d like to deal with a particular problem, get something straightened out, or we’re going to force the practice to go in certain stages and certain steps in line with what we’ve read. But as Ajaan Fuang said, “The mind has its own stages, its own steps.” Or as Ajaan Lee said, “The ways of the mind are so complex you could never put them into a book.”
+
+So we have a very simple technique: You focus on the breath. Be alert and mindful, and stay with the basic technique. When you do that over and over again, the things that are going to come up in the mind will come up, bit by bit, revealing themselves at their own pace. This is where patience comes into the practice. There are some issues you’d like to have dealt with right away, but they don’t come up. The mind isn’t ready to handle them. So you just chip away at the basic technique.
+
+When things come in their own way, it’s like sanding wood: You polish the wood in order to bring out the grain that's already there. If you have preconceived notions of what you'd like the grain to look like and try to paint those designs on the wood, you end up not getting anything that looks natural. You cover up the grain that's already there. But if you simply polish the wood without any preconceived notions beyond the act of polishing, the natural grain of the wood will come out. The same with meditation: In the process of keeping the mind with the breath, you learn a lot of important things about the body and mind, many of which you didn’t expect.
+
+This is why we always have to be open to whatever comes up in the course of the meditation - whatever insights, whatever realizations, whatever issues arise - because a lot of times the things that come up are more valuable than what you thought you were looking for. If you’re too busy looking for something else, you won't see what’s actually there. So meditation is a training in learning to be very patient with the mind, to be open with it and to see - as you subject the mind to the training - what traits, what characteristics it shows to you. And you’ve got the basic technique to deal with whatever comes up.
+
+Many times what comes up is distraction, which we often find frustrating, but there are a lot of important lessons right there in that process of bringing the
+
+mind back. A lot of times we want to be done with it—“When is this problem going to stop?”—because we want to get on to the important stuff. Well, distraction itself is a very important issue. We’ve got to learn how to master bringing the mind back, because in doing that you learn an awful lot about the mind, a lot of unexpected things about how the mind slips off the breath, how it avoids certain issues, how it cooks up other issues to get in the way of seeing things it just doesn't want to see. And in the simple process of bringing the mind back, trying to be mindful, trying to be alert, you catch sight of things you didn’t see before. They used to be in the blind spots, but now you begin to catch them out of the corner of your eye as you keep at this very simple process.
+
+As the Buddha said, learning how to deal with the process of distraction can take you all the way to arahantship, when you’ve really mastered how to do it, when you’re really good at it. This is a lot of what the Buddha’s teachings are like: just very simple techniques, very simple things to do with the mind, and the unexpected realizations that come up in the course of doing the technique.
+
+This is one of the reasons why you can’t map out the ways of the mind. At the same time, though, you can't think that blindly following the instructions in the meditation is going to be enough. You’ve got to be as observant as possible, all-around. That’s why we say sometimes, “You’ve got to play with the meditation.” You've got to have a sense of experimentation because often times the things you catch out of the corner of your eye as you’re working with a technique are the important realizations. Those are the things that make a real difference.
+
+So when you sit down and meditate - even though you’ve seen the steps of the path laid out, you may have a general idea of what it’s all about and where it’s going – still, you’ve got to put that knowledge aside. We’re here training the mind, and yet the mind is both trainer and trainee. The map is for the trainer side of the mind—just so you know in general where you’re headed, where you’re going—but when the mind itself is being trained you have to put the map aside and just see what’s right there in the present as it comes up. And in the course of dealing with the practice, a lot of unexpected things do come up, and you have to be ready for them, notice them as they come.
+
+So stick with your basic technique, but keep your range of vision broad.  And don’t try to define things too heavily in advance. The purpose of the
+
+meditation is to become more and more familiar with the ways of the mind. The knowledge that comes with familiarity goes very deep but it comes in little increments. It’s like getting to know a person. You can’t just walk up to someone and smile and shake hands and become friends. You can be friendly at the beginning, but actually becoming friends takes time – to get to know the person's strengths and weaknesses, sense of humor, the things you can trust him on, the things you can’t trust him on. All these forms of knowledge come in a very indirect way. When unexpected events arise and you begin to see that person in a different light—how he behaves in an emergency, how he behaves when you’re in trouble: This is how you get to know the other person. It takes time.
+
+The same with the mind. You focus on the basic technique of keeping with the breath, and eventually you stumble over some really important veins in the mind. They may be veins of gold, veins of diamond, or an old layer of garbage that got laid down sometime way back in the past. But the basic technique is just being here, being observant, watching what happens, and the things will come out layer by layer by layer as they were laid down.
+
+So when you meditate you can’t sit down and say, “Okay, this particular session I’m going to understand this or I’m going to attain that. I'm going to understand dependent co-arising. I'm going to understand my childhood hang-ups.” That doesn’t get you anywhere. Just tell yourself, “For this breath I’m going to be right here. I’m going to be mindful. I’m going to try to settle down with the breath as well as I can.”
+
+There are parts of the meditation you can will, which is why the Buddha talks about them. For example, the type of awareness you have: You can will to be aware of the whole body as you breathe in; you can will to be aware of the whole body as you breathe out. You can will to let the breath grow calm. You can will to focus your attention on pleasure or rapture or wherever you want to focus it in regard to the breath. Those are things you can will.
+
+That’s the difference between concentration and insight. Concentration is a matter of using your will. It’s fabricated, as the Buddha says. But insight is something you can’t will. Even though you tell yourself “I’m going to be very carefully noting this and noting that,” that’s a very precise form of concentration.
+
+It’s not vipassana; it’s not insight.
+
+The insight is the understanding that comes when you suddenly see things right in front of you, and many times it’s not what you were told you were going to see. And the real test as to whether it's genuine insight is if it brings the mind to peace. Even when it's genuine insight, you have to let it go when it has done its work and just go back to the technique. If it’s something that really makes a big difference in the mind, it can’t help but make a difference in the mind. You don’t have to memorize it, you don’t have to jot it down, or try to make yourself see things in that light from then on in. That’s a false kind of insight, in which your perceptions cover up the possibility of any new insight's arising right after them.
+
+So whatever comes up in the practice, you take note of it and let it pass. If it’s important, it'll shift the ground under your feet. If it’s not, then why bother with it? Just let it go. Your one job is to stick with the basic steps of the practice.
+
+This is why the Buddha’s meditation instructions are so very simple. He focuses on how you breathe, where you focus your attention, what range of awareness you develop. That’s pretty much all the instruction he gives. He gives a few warnings about some of the issues that'll come up and how you should contemplate them. If anything comes up, you contemplate it as being impermanent, as being stressful. Sometimes some very delightful, exquisite sensations come up. And you’ve got to stay with them until you see where even they are stressful, even they can be a burden, and you can let them go.
+
+If particular problems come up—things like lust, anger, or delusion; sleepiness, restlessness and anxiety, uncertainty —the Buddha has particular techniques for dealing with them. But then he has you get back to the breath when the issue has passed, for this is your home base.
+
+The breath, he said, is the most refreshing form of meditation. He compared it to the first rain storm of the rainy season. If you’ve ever been in Asia during the hot season, you know what it’s like when the first rains come. There’s been dust in the air for months and months, along with the oppressiveness of the heat. All of a sudden the rain comes and washes everything, cools everything off. The air is suddenly clear like it hasn’t been for months. That’s the image the Buddha gives for breath meditation. When the breath is refreshing, it'll wash away all unskillful states. So you want to keep the breath as your home base. It may seem
+
+a little bit too simple, but that’s just the verdict coming from the part of the mind that’s planning things and figuring things out in advance.
+
+So just stick with it, stick with it, stick with the breath. And what’s going to come up is going to come up. It may come up in little bits and pieces, but it comes up as your own insight. Using your own insight is a lot better than using the insight you get in books, because those things are borrowed. You’re not always sure you’re using them at the right time or in the right place. But when the mind gets to the point where you’ve polished it with the breath, the insights that arise can be just right for the time and place. And you can test them right there to see if they are. It’s a very natural process. It’s a process that allows the mind to see clearly into itself, whatever is there. Just don't try to plan things in advance, because you have to remember we’re all operating from ignorance, and our plans and designs on the practice come from ignorance as well.
+
+So you give yourself the technique with a minimum of planning and a minimum of designing. When you stick with that, the things that couldn’t come out before, that didn’t have the opening, can arise within the mind, at their own pace, in their own time. And they're more likely to be true.
+
+Sensitize Yourself
+
+May 16, 1999
+
+The breath is so close to the mind, and yet for most of us it’s uncharted
+
+territory. It’s like those old maps they had back in the sixteenth and seventeenth centuries. They’d have a cartoon version of the coastline of North America and a big, blank, white space right in the middle, with a little inscription that said, “Here be tygers,” “Here be wilde beasts,” or whatever. But it’s pretty much unknown territory, unknown land, even though it’s right next to us.
+
+There’s nothing closer to the mind than the breath, yet our focus is always on something a bit farther away. We’ve actually taught ourselves to ignore the breath so that we can pay attention to other things. Yet the message of meditation is that it’s actually much more important to be here with the breath, because it puts you in touch with things that really are important in life.
+
+The breath is like a mirror for the mind. Changes in the mind show up in the breath very quickly. Sometimes you may not be aware of what’s going on in the mind itself, but if you’re in touch with the breath then you’ll know something’s wrong. Say, when anger arises, there’ll be a tightness in the breath, a tightness in the chest that wasn’t there before. When fear arises, your heartbeat and breathing rate change. So staying in touch with the breath is an excellent way of getting yourself in touch with what’s going on with the mind.
+
+At the same time, being in touch with the breath is the best way of staying in touch with how the body’s faring. If, when you’re eating, you stay in touch with the breath, you get a better sense of when you’ve eaten too much, or not enough, or when something doesn’t agree with you.
+
+What we’re doing here is learning to sensitize ourselves to a layer that we’ve learned to de-sensitize ourselves to so that we can pay attention to other things. Now we come back and we have to unlearn all those habits. And it takes a while.
+
+The important thing in the meditation is to set up the right questions. Just ask yourself, “How are things going with the breath right now? When you sense the breath, exactly what are you sensing? How do you know the breath is coming in? How do you know the breath is going out?” Look into these sensations carefully because they have a lot to tell you.
+
+The guides that are written down, like Ajaan Lee’s Seven Steps, are just to get
+
+you started. He, himself, when he gave talks on breath meditation, would
+
+explore all sorts of other aspects of the breath that aren’t mentioned in the Seven Steps, at least not in detail. You might explore one particular step at a time and
+
+discover all sorts of new things in there, new implications of what the breath can do both for the body and for the mind. So there’s a lot of territory to explore here.
+
+The Seven Steps just cover what’s really basic, what’s really essential.
+
+You’ll find that when the mind finally does settle down and you come out and consider, “What happened this time? Why did it settle down so much better
+
+than last time?”—if you look at the Seven Steps, you’ll find that you had them all
+
+covered. Whether you were actively thinking about them or not is not the issue. The fact that the mind really was keeping in touch with the right center for itself in the body; the breath was feeling just right; the quality of the breath was good; the sense of the breath going throughout the whole body gave a sense of
+
+wholeness and fullness; everything in the body seemed to be coordinated; and your awareness filled the body. When you’ve got all those steps brought together – and they’re not one-after-the-other steps; they’re seven factors of a well-balanced mind: When all seven factors are there, the mind settles down. It feels good about settling down. It feels like it’s settling down in a healthy, sound, and wholesome way.
+
+So if things aren’t going right in your meditation, take a mental note. Say, “Well, which of the factors is lacking right now?” And then work on that. As you work on it, you find that often it has more implications than you might have assumed to begin with. What this comes down to is learning how to sensitize yourself, to listen to the quality of the breath the same way a pianist listens to himself play. The more sensitive you are as a listener, the better a pianist you are. The more sensitive you are in listening to the breath, the better a breather you become, and the more the breath can do for you.
+
+So here’s this whole area here in the present moment: the field of energy in which you find yourself sitting here right now. Instead of thinking of the body as a solid lump sitting here, think of it as a field of energy. Your sense of it as a solid lump is based on what you’ve seen, but when you sit here and feel the body from the inside, it has a different quality entirely. If you can get in touch with how it actually feels as opposed to the mental picture that you’ve imposed on top of it, you develop a whole new sense of what’s going on here. So you learn to get yourself more and more in touch with what’s actually experienced directly right here and now through your sense of feeling the body from the inside. And it’s right there that the mind can really settle down solidly.
+
+If you have to visualize the body, well, visualize it in the ways that Ajaan Lee recommends: Think of the breath energy flowing throughout the whole body,
+
+out the pores. In one of his earlier versions of the Seven Steps he talked about working with the breath energy in the body and then working on the breath energy that surrounds the body. There’s a field that surrounds the body. If you
+
+get in touch with that, then there’s a lot more to play with. So there’s plenty here to keep you absorbed in the present moment.
+
+Focusing on just these issues accomplishes an awful lot. It gets the mind to settle down in the present moment; it gets you more sensitive to the present moment; it gets the mind more connected to the body in a healthier way; and it helps you learn about the breath energy and what it can do for you.
+
+So you learn to make use of this healthier sense of breathing that comes when the mind is really sensitive to what’s going on. Once you’re able to settle down with the sensation of the breath energy right in the present moment, you’ve got a foundation. And the trick then is learning how to take that foundation and use it in other contexts as well, not just when you’re sitting here with your eyes closed. Stay with this foundation when you get up, walk around, deal with people, do whatever your work may be. Try to be in touch with this flow of energy in the body. It gives a whole new quality to your life.
+
+At the same time, the skills that you’re learning here, sitting with your eyes closed, can also be used outside. Being in touch with the breath gives the mind a sense of being “at home” no matter where it is. Wherever you go, the breath is there. The sense of fullness that comes from learning how to breathe with a sense of the whole body gives a strong sense of nourishment both to the body and to the mind.
+
+And you find that you’re hungering less for specific things to happen. Your sense of wanting people to say things like this or act like that gets loosened up quite a bit. When people say things that don’t strike you as proper, don’t strike you as what you want, then you’re not all that upset about it. It’s almost as if in the past you were looking for food from other people and you had to accept whatever scraps they spit in your direction. Of course you got upset when they gave you garbage. But now you don’t need food from anyone else. The mind is getting its nourishment right here simply through breathing. So what other people serve up to you or spit at you is no longer a big issue, because you don’t need their food. You’ve got your own food, your own nourishment, right here.
+
+At the same time, you’re more in touch with the mind’s reactions to things. You’ll notice, say, when there’s a catch in the breath, a tightness in the chest, a tightness in the stomach, or your hands or arms begin to tense up. You know something’s wrong—a new emotion has appeared in the mind.
+
+If you don’t have the time to deal with that emotion immediately, you can just breathe through it in the same way that you breathe through any sense of tightness or tension in the body as you’re sitting here meditating. It helps to dissipate the antsy feeling that you’ve got to get that anger, or whatever it is, out of your system by saying something or doing something. You don’t have to say or do anything. Just breathe right through the feeling and let it dissipate out. That way, the tense, nervous energy is gone.
+
+Then you have the chance to look at the purely mental side of what’s going on. Are you angry? Are you afraid? What’s the emotion that made a change in the body? And what’s the best thing to do right now? Once you’re free from the feeling that you’ve got to get something out of your system, you can act in a much more reasonable, much more appropriate way.
+
+So the skills that you’re learning as you’re sitting here meditating are useful in all contexts. It’s simply a question of having the mindfulness and the alertness and the right approach to the problem that enables you to put these skills to use, to remember them and use them when they’re needed.
+
+So this issue of being sensitive to the breath is an important skill – a basic survival skill for the mind – so you can get through life without creating a lot of bad kamma, a lot of unnecessary suffering for yourself and unnecessary suffering for other people as well.
+
+So stay close to home. Don’t overlook the potential of what you’ve got to learn from right here, right now, right here at the breath: the part of you that’s as close as life itself.
+
+Clearing a Space
+
+March, 2001
+
+Practice would be easy if the problems of the mind were neat and orderly, if
+
+they fit into nice categories and came in nice, graduated steps—starting first with the easier problems and moving up gradually to the harder ones. That way the practice could be neat and orderly, too: You’d start out with virtue, and when your virtue is perfected you could focus on concentration, and then when concentration is perfected you could focus on discernment. It would all be very nice and systematic.
+
+The problem is that the mind is not systematic. It’s chaotic. Now, we all know that chaos has its patterns, but the patterns are very complex. That means you have to be ready for anything at any time. Sometimes very difficult problems get thrown at you before you’re really ready to handle the easy ones. So when you’re working on virtue, concentration, and discernment, they all have to come together. You have to be ready to use whichever tools you need when they’re needed. Often you find out that you have to start out with discernment, the faculty we’re told comes at the end.
+
+When I was staying in Thailand with Ajaan Fuang, I’d feel frustrated when
+
+he’d say, “Use your pañña.” That’s the Pali and Thai word for discernment. That was back in the days when the only translation I knew for pañña was wisdom,
+
+and I kept thinking, “How am I going to use my wisdom when I don’t have any?” But he was talking about a faculty we all have. We all have discernment to one extent or another, and you have to put it to use all the time while you’re practicing. You put it to use when you’re observing the precepts, you put it to use when you’re practicing concentration.
+
+For example, in practicing the precepts, there are times when you’re in a difficult position, when it’s really hard to keep to the precepts you’ve promised yourself you’re going to hold to. Sometimes you’re asked a question and you don’t want to answer it for one reason or another, and of course you can’t lie. So, the question is, how are you going to use your discernment to get around that question? How are you going to use your discernment to maintain your precepts even when it gets difficult?
+
+The same when practicing concentration. You have to use a certain amount of discernment just to get the mind to settle down. Figuring out which object you’re going to focus on; how you’re going to deal with the breath; figuring out which kinds of breath sensations you should focus on, which you should let go; which are the ones you’ve got to change; and at what point you have to stop changing them and just let things be so the mind can really settle down: All of this requires a certain level of discernment.
+
+Then there are other outside issues that come in as well, because as the mind settles down you start running into things—it’s as if they’re lying in wait for you. Sometimes the issues may be recent events, things that just happened today. Other times they may go back a long way. Sometimes you find issues from your childhood suddenly coming up to the surface of the mind. After all, there’s less activity on the surface, which allows things that are deeper down in the water to come floating up.
+
+The issue then is how to deal with those things in a way that doesn’t destroy your concentration, doesn’t get you off the path. Sometimes you can just remind yourself, “Okay, I’m not ready for that particular issue yet,” and put it aside. Other times it just keeps coming back, coming back, coming back, and you’ve got to deal with it in some way or another, and you can’t wait until your powers of concentration are fully developed before you can turn on it, because it’s right there, breathing down your neck, blocking your attempts at concentration.
+
+So, your first line of defense is to try to figure out how the four noble truths apply to this issue? These are the Buddha’s basic terms of analysis for just about everything that comes into the mind. These are the terms of appropriate attention. When an issue comes up, try to figure out where it lies on that field. Is it an issue of suffering? An issue of craving? Those are usually where the issues lie. There’s very rarely an issue of the cessation of suffering or the path leading to the cessation of suffering.
+
+So when it’s suffering, what’s the proper approach? The proper approach is to analyze it. How do you analyze it? Not in terms of psychoanalysis, taking things back to your childhood. Just analyze what’s happening right in the present. Where is the suffering right now? What kind of suffering is it? Where is the physical side? Where is the mental side? Sometimes you can deal with the physical side just by breathing through it. That makes it a lot easier to deal with the mental side.
+
+Wherever there’s suffering, there’s bound to be craving as well. Look for that. There’s bound to be clinging, too. Look for the clinging. The clinging is something you want to learn to analyze; the craving is something you want to learn to let go. You may not be able to get all the way through the problem in one session, but at least you’ve got the proper approach—you’re learning to step back from the problem, not identify with it as “my problem” or with the “I’m suffering” in there. Just look at it in terms of, “Where’s the suffering, where’s the clinging, where’s the craving?”
+
+When you can see the issues from this point of view, they’re a lot easier to deal with. Even though you may not be able to work totally through the issue, at least you’re headed in the right direction. In other words, you take whatever discernment you’ve got and you put it to use. It’s like going down to the gym. You want a nice strong body, but where are you going to get that nice strong body? You take the weak body you’ve got and you put it to work: that’s where the strong body comes from. Now, you can’t wait until you’ve completed your course at the gym and your body is really strong before you come out and use your strength to deal with work outside. You take whatever body you’ve got, whatever strength you’ve got, and apply it to the work at hand. Whether the work gets done totally and completely and with a lot of finesse, or just enough to pass by, the fact that you’re using the strength you have is what builds the strength you’ll need for the next time around.
+
+The same principle applies to the mind. Often your distractions are going to come back again, but at least if you can learn how to deal with them enough to clear a little space in the mind for the time being, and that allows you to get back to your concentration. At the same time, you’re preparing yourself to deal with them even more effectively the next time around. In other words, the issue may be a huge tangle of things, and you’re able to untangle one little bit, but when
+
+you untangle that, things loosen up in the mind. When they loosen up, you’ve got your opportunity to get back to your concentration practice.
+
+Now, when there are no apparent problems, you can’t be complacent. Don’t think as you’re drifting along through the day and things are nice and easy that they’re going to be nice and easy all the time. Sometimes huge issues suddenly come bubbling up into the mind. Remember the word “fermentation”? The
+
+asavas that lie down there can come bubbling up at any time. So when things are
+
+easy, when things are going well, make the most of the opportunity to practice concentration, to strengthen the mind. Strengthen your mindfulness, strengthen your alertness, so that when the issues finally do present themselves, you’ve got weapons to fight them with.
+
+Discernment, on its own, can’t deal with them. Discernment needs the strength that comes from concentration, that comes from mindfulness and alertness, that comes from your conviction in the principles of kamma. All the five strengths—conviction, persistence, mindfulness, concentration, discernment—have to work together. Otherwise your discernment will just start analyzing things and get further and further away from what’s actually happening in the mind. That’s not the kind of analysis you want. You want to keep coming back to what’s happening right here, right now, what you’re experiencing right here, right now. Keep the present as your frame of reference.
+
+Even though the issue may be dealing with something from the past, try to remember that your experience of that memory is happening in the present. Keep that point in mind as you’re dealing with whatever comes up. Then you find it a lot easier to pull yourself out, to deal with the issue as you can, to create some space so that it’s not hogging your whole attention, not consuming the mind.
+
+This is very important, because as I said, we can’t wait until the concentration is totally mastered before we have to deal with these issues. We’re going to have to deal with these issues all along. Our purpose is to create some space so that we can continue our practicing. Don’t get upset if the issue keeps coming back. The times between its visits are your times to practice straight concentration. When the issues come back, you take whatever concentration you’ve got, whatever discernment you can develop out of that concentration, and deal with them again.
+
+Ultimately there will come a time when these issues get cut at the root. Up until that time, you just have to keep learning to live with them, learning how to keep them at bay. You know they’re there. The trick is practicing so that they don’t totally overwhelm you. After all, if you wanted to, you could think of all kinds of things to worry about. There’s always something that could get in the way of your practice. There are a lot of issues to worry about in this world. You could spend your whole day, your whole life, worrying about this, worrying about that.
+
+Death could come at any time: your death, the death of your family, the death of other people. It’s there just waiting to happen. And yet, why are we able to live without being consumed by that fear? This shows that the mind has practice, at least to some extent, in being selective in what it focuses on. Well, learn to use that capacity for the sake of your concentration. Create a little compartment for your practice here. Learn how to protect that compartment. It’s going to be one of the weakest parts of your mind for a while because it’s new. Other concerns have gotten themselves entrenched in the mind. They’re really good at screaming
+
+for your attention, demanding your attention, saying, “This has to be dealt with right now, do you hear?” As for the practice, getting the qualities that you need in the mind, that has to learn to be vocal, too. And it has to be strong as well so that it can make room for itself, push these less vital issues out of the way.
+
+When you’re practicing it’s not neat and orderly like it is in the texts. The texts say that there’s stage one, stage two, and then finally you come to the very end. It’s like going to school: you go from 1st grade up to 12th grade, and then finally you go to college and then you’re done. But the state of your mind as you’re actually practicing goes up and down, up and down, all the time. You have to deal with all kinds of different problems, and you have to use whatever virtue, concentration, and discernment you’ve got to deal with things as they come, to deal with things willy-nilly for the purpose of making more space for yourself to practice.
+
+In the course of this—both doing the straight practice, and dealing with whatever distractions come up—learning how to sidestep some of them, learning where the jugular is on some of them so you can just get rid of them, other times saying, okay, I can’t really deal with this one yet but I can push it out of the way for the time being: that develops your virtue, your concentration, and your discernment as well.
+
+So, if you develop the right attitude, you find that these things distracting you are all part of the practice, too. They’re coming to test you. That’s one of the reasons why monks go out into the forest. They hear about mindfulness. They hear about heedfulness. They hear about concentration and discernment. Well, see what it’s like when you go out to the forest with all those animals and all those potentials for danger—you might starve tomorrow, no one might put food in your bowl, all these things are outside your control. What do you have to hold on to? Your concentration and discernment. Get the mind into concentration so that it’s not overwhelmed by worries. The dangers are still out there as they were before, but you learn how to turn them off. You begin to realize that the whole problem is not the dangers out there. It’s that your mind is totally out of control. When you can bring it under control, you’ve developed a really important skill. Mindfulness takes on a whole new meaning. Concentration, heedfulness, discernment, these all take on a whole new meaning once you’ve learned to use them in this way.
+
+So you see as you get into the practice that it’s not like a textbook. You can learn all the words, but they don’t have the same meaning as when you’ve learned to put them into practice, drawing on whatever resources you have when you really need them. When events come and you’re not ready to deal with them, but you’ve got to deal with them, what are you going to do?
+
+If you’re up for that kind of challenge, then the practice really develops, really does become an adventure in the mind, something that makes you grow in ways you would have never imagined.
+
+Respect for Heedfulness
+
+March/April 2001
+
+“One who sees danger and respects being heedful”: something we chant
+
+every week. And where does that respect lead? Where does that heedfulness lead? They lead to the presence of Nibbana.
+
+It’s because they lead there that they’re so important. And that’s why Buddhism focuses on suffering and stress: to give rise to the kind respect for heedfulness that will take us beyond suffering.
+
+Some people accuse Buddhism of being very pessimistic and negative, focusing only on suffering and stress as if it were denying that there is any pleasure in life. But the Buddha never denies pleasure. He talks about it very openly. The problem with pleasure, though, is that it leads to being complacent. When things go well, we start getting lazy. And we just stay right there. Life doesn’t get any better than that, we think, as long as we’re complacent. It’s when we realize that there must something better than this ordinary everyday pleasure, something not mixed up with ordinary everyday pain, and that this something
+
+better is going to have to depend on us: that’s when we start getting heedful.
+
+We realize that unless we do something about the state of our minds we’re not going to get any better than this. And so for the purpose of learning how to get to Nibbana, the Buddha has us focus on pain, suffering, stress - however you
+
+want to translate dukkha. If we can understand how the mind puts suffering
+
+together, we begin to untangle all the mind’s attachments, all the ways it makes and creates unnecessary problems for itself.
+
+At the same time we start opening ourselves up to something better. So we focus on suffering because it’s a learning opportunity. In fact, the
+
+Buddha actually has us treat suffering with respect. He calls it a Noble Truth. It’s not just any everyday, ordinary old truth. He says to look at it as a Noble Truth, something worthy of respect, something worthy of comprehension. Really look into it. Don’t dismiss it. Don’t try to run away from it. Open yourself up to learning from it.
+
+There’s room for respect for happiness as well. If you search around in the Noble Truths you find happiness—pleasure and rapture—tucked away under the fourth Noble Truth, in Right Concentration. That’s the kind of happiness you can learn from, the happiness that comes together with mindfulness and real clarity. Because on the one hand it puts the mind in a state where it can see suffering and not be threatened by it; and at the same time that kind of happiness itself ultimately becomes an object you want to explore. You use it as a tool and then, when you’ve taken it as far as it can take you, you turn around and start exploring it as well. You begin to see that there’s even some stress and suffering in there.
+
+So these are the things we should respect: suffering and the right kind of happiness. That’s why the Buddha calls them Noble Truths. If we don’t have respect for these things, where does our complacency lead us? As the Buddha says, complacency is the path to death. And the complacent are as if already dead. In other words, they’re not alive to the opportunities lying before them. If
+
+we really do follow the path, if we’re diligent at it, keep with it, stick with it, it opens us up to Nibbana. And when people reach Nibbana they look back on the pleasures of their daily lives before and see that they were an awful lot of burden, an awful lot of stress compared to what they’ve found.
+
+Our problem is that we haven’t reached the point where they are, so pleasures look pleasurable to us, they look pretty good. We don’t want to give them up quite yet. We get a nice spot in our meditation and say, “This isn’t so bad. We can stay right here for a fair while.” But it’s all so precarious. Stress is built in to not only the first Noble Truth but also the second and the fourth. This is part of the Buddha’s genius. Once he’d attained, or experienced, what is uncompounded or unconditioned, he looked back at conditioned reality and saw that in comparison to what he had attained, all of it was stressful, all of it was burdensome. But he also saw that you can’t take the uncompounded and use it as a path to the uncompounded. Things won’t work that way. You have to learn how to take the compounded and use it as a path. So he divided compounded reality, things made up of causes and conditions, into three things: stress, its cause, and the path to its end. And he gave us a task for each of them. Our task is to comprehend the stress and suffering, to abandon the cause, and to develop the path. Ultimately, though, you get to the point where stress has been comprehended, its cause has been abandoned, and the only thing left is to relinquish the path itself.
+
+This is why the Buddha has us focus on the issue of stress, and particularly the stress and suffering that come with clinging. When you actually see them, you stop being so complacent about your clingings, about your attachments. You begin to realize that even the most subtle form of pleasure on the everyday level has some clinging mixed into it, and that that particular clinging opens the bridge for all kinds of suffering to come into the mind. Once you build that kind of bridge to things, anybody can come over the bridge. Pleasure can come over the bridge; pain can come over the bridge. Once you latch on to the body and say, “This is me, this is mine,” you lay claim to it. Then whatever happens to the body suddenly becomes a burden to the mind. We latch onto it because we find there are certain pleasures in the body. Once that bridge is open, though, all the pains can come along as well.
+
+So try to get the mind in to a state of good, solid concentration. That way it can look back on those attachments with some detachment, some objectivity, and see all the things you cling to that you really like, that you really identify with. When you look objectively, you see that there really is some problem in holding on in that way. And when the mind is in good enough shape, it’s willing to let go.
+
+So when the Buddha has us focus on the stress and the suffering that come from clinging, it’s not that he’s trying to bad mouth the world or to deny pleasure. It’s just that there’s something better than this. And the way to find that something better is to focus on the way the mind reacts to pain. If you really want to understand the mind, that’s the place to understand it. There are all the issues in the mind that come thronging around the pain, whereas ordinary, everyday pleasures just tend to cover things up, so that they’re not as clear.
+
+This is why the Buddha has us have respect for the sufferings we undergo, because we can learn from them. There’s an interesting passage in the Canon where the Buddha talks about the reason for respect and it’s basically to learn. When there’s respect, you open up your mind. There’s the possibility of learning
+
+something new. If there’s no respect, the mind is closed. It dismisses things really easily. And as a result, it loses a really good opportunity to learn.
+
+This is why the attitude of respect is built into the Buddha’s teachings. A lot of people think that Buddhism is an interesting philosophy, perhaps a very good philosophy, that somehow got religion tacked on to it, with all the bowing and all the other paraphernalia that go along with religion. And they’d like to separate the two: “Can’t we just have the philosophy without the religion?” But if you look at the nature of the Buddha’s philosophy, his teachings on the Four Noble Truths, the whole attitude of respect is built into the teaching itself. When you realize that the big issue here is the possibility of a great deal of pain or a lot of pleasure, true pleasure, it puts an edge on the teachings. It’s not just an interesting description of things. It points out a dilemma we’re all placed in. We’ve got to do something about it, for otherwise we just keep cranking out suffering all the time.
+
+If you’ve got any concern for your own wellbeing, you’ve got to take these truths seriously. And fortunately, the nature of suffering is something you can learn from and something you can do something about. The whole teaching on causality—the fact that your experience of the present is a combination of past factors plus your present input—means that you can develop skill in this area. If everything were totally predetermined, everything would be like a machine and there’d be no reason for respect because you couldn’t learn anything useful about it, you’d just be stuck in the machine, unable to do anything about it. On the other hand, if everything were totally uncaused or totally random, again, there’d be no reason for respect. There’d be nothing to learn because what you learned that worked today wouldn’t necessarily work tomorrow.
+
+But our experience is shaped by patterns of causality with some influence coming to it from the past but also with the possibility for us to add influences in the present, right here, right now. That’s why respect is built into that causality: respect for the principle itself, that there’s something to learn from. But it’s complex. After all, the kind of causality the Buddha talks about is the same kind that creates chaos theory—which means that causes aren’t all that simple. There’s a lot to be learned. But it’s all right here in the present moment, which means you have to have respect for your own ability to learn as well. After all, all the causes the Buddha talks about are things right here. When he describes causality he says: “This comes with that; when there is this there is that.” The “this” and the “that” are things right here in front of us.
+
+So knowing that, you have to have respect for your own ability. But, since it’s complex and such an important issue, we’d be wise to have respect for people who have followed the path and gotten results. That’s why we pay so much respect to the Buddha, the Dhamma, and the Sangha, so that we don’t have to keep reinventing the Dhamma Wheel.
+
+So, based on this principle of causality, there are three things we need to respect. First, the principle itself because reality’s not totally arbitrary. You can’t just make up things. You can’t decide, “Well, today I’m going to act on desire and I’m going to make desire a good thing.” If it’s an unskillful quality in the mind, it’s going to lead to unskillful actions. There’s no way around that. That’s a part of reality against which you just keep banging your head unless you learn to have some respect for it.
+
+Secondly, respect for yourself, your own ability to do the practice. And also, at the same time, having respect for your desire to gain true happiness. The ordinary way of the world is to say, “Oh, true happiness, unchanging happiness: forget about it. Focus instead on the things we can sell to you. Lower your sights.” That’s what the world says. The Buddha says, “No, have respect for your desire for true happiness.” When you get complacent, you’ve lost respect for that desire. When you’re heedful, you’re keeping that desire in mind, showing it the proper respect. So, respect for yourself means two things: one, respect for your desire for true happiness and, two, respect for your ability to do something about it. That’s built in to the principle of causality as well.
+
+And finally, given the complexity of the principle, you need respect for those who have followed the path: someone like the Buddha who discovered the path and the Sangha, people who followed the Buddha’s example and found the same freedom, total freedom from suffering, the same true happiness. Respect for the teaching that the Buddha and the Sangha have passed on.
+
+When you have this proper attitude of respect, respect for heedfulness, the proper respect for stress and pain, respect for the kind of happiness that forms the heart of the path, and respect for concentration—that’s also in the chant— that’s the attitude that will bring you to the presence of Nibbana.
+
+So there’s no clear-cut line between Buddhism as a philosophy and the more religious side of Buddhism where the etiquette of respect comes in. What’s important, though, is that we understand the attitude of respect. There’s one passage where the Buddha talks about how, one, the attitude of respect gives you a grounding and, two, it enables you to learn. The purpose of respect is to learn, to open your mind. Not only does it open your mind, but also when other people see that you’re respectful of the truth, they’re happy to teach. Whoever has any knowledge is willing to share it. In fact, for the monks, they’re supposed to have respect for everybody. If someone criticizes a monk, the monk is supposed to treat that person with respect, whether the person’s right or wrong. Try to keep an open mind because many times you learn from unlikely people, unexpected sources. They might have something good to say. So we’re taught never to be dismissive when we’re criticized.
+
+After all, the principle of causality is right here in the present, not only for you to observe but for other people to observe as well. So everyone has that potential to have some very useful observations. This is why Ajaan Fuang one time said that an attitude of respect is a sign of intelligence. If you want to learn, if you want to master the way to the end of suffering, an attitude of respect is a very important quality.
+
+Respect for heedfulness: Understand that the principle of causality means that there’s great potential for danger. If we misuse that principle, we can cause ourselves a lot of unnecessary suffering. But the respect for the training, the respect for concentration: that’s respect for our potential to use that principle of causality for very good ends. Total release. Total freedom.
+
+So instead of being negative or pessimistic, the Buddha’s teachings are extremely positive, much more positive than anything else in the world. They say that our desire for true happiness is realistic, worthy of the highest respect.
+
+The Power of the Focused Mind
+
+March/April 2001
+
+The greatest power in our lives is the power of the mind.  For most of us, that power is scattered around, so we don’t get much use of it,
+
+When it is directed at something, it’s usually directed in the wrong place. We
+
+start focusing on things that cause us a lot of suffering, cause the people around us a lot of suffering. This is why, if we want to get the most use out of this power, we have to learn how to train it. One, to get it focused in the right way and, two, to apply that focused power to the right issues.
+
+When we’re practicing concentration, that’s the first order of business, to get the mind properly focused. There are all kinds of wrong concentration that can do the mind a lot of harm. You may focus on thoughts that lead to anger, on thoughts that lead to depression, on thoughts that are self-destructive. That’s the most typical way most people focus their minds.
+
+So when the Buddha says to have respect for concentration, he wants you to realize that you’ve got a very potent tool here, one that you’ve got to learn to use properly. For most of us it’s easy to get focused on things that are detrimental to ourselves but very hard to get focused on the topics of right concentration. It requires patience.
+
+When the Buddha talks about right concentration, he uses the word jhana, which is related to a verb for burning, jhayati. Pali has lots of different verbs for
+
+burning, but this is the one that describes the burning of the flame of an oil lantern or an oil lamp or a candle in a place where there’s no wind. The flame is steady, calm, consistent. That’s the kind of quality you want in your mind.
+
+Most of the time the mind is like a different kind of fire, burning with the fires of greed, aversion, and delusion. Those are like a burning log. The flames leap around and are very erratic. But what we want is to adjust the fuel, adjust the flame, to bring the mind to a still fire of steadiness and still focus.
+
+So we start out small, and you have to protect that small point of focus. You’re focused on the point of your nose, the middle of your head, the middle of the chest, whichever point feels most comfortable. Focus on that point and shelter it from other influences. In other words, other thoughts may come to the mind but you don’t latch on to them, don’t let them cause that little flame to waver. Protect it, the same way you’d cup a small flame in your hands when you’re trying to get a fire started in the midst of a wind. And after a while, as you don’t pay attention to those other thoughts that coming blowing into the mind, it means that you’re not feeding them. They begin to go away.
+
+When the fire finally catches, then you can let it spread throughout the body, so you have that same quality of steadiness and intentness and just-rightness filling your whole awareness. The body is saturated with awareness. The images they use in the Canon are, first, kneading these good breath sensations into the body the same way you’d knead water into a ball of bath powder. Once the whole body is saturated in this way, you just sit there. Here the image is of a well of spring water coming up in a lake or of lotuses totally immersed in a lake, saturated from their roots to their tips with the water. Finally, there is the image of a person sitting with a white cloth covering the whole body. The awareness is
+
+bright, fills the whole body, and is very still, with the same kind of steadiness as the flame of an oil lamp, the flame of a candle in a still room.
+
+So you have to look after your stillness. This is called having respect for concentration. One of the verses we chant regularly is “one who is ardent with respect for concentration.” There’s steadiness in the ardency. It’s not that you throw yourself into it for the whole night and then collapse, too tired to do anything for the next several days. You try to maintain a kind of steadiness, breath in, breath out, breath in, breath out, and it’s the consistency that makes all the difference.
+
+States of concentration often start out small. You can think of them as little shoots growing up in a path: grass shoots, weed shoots, flower shoots, all growing up in the path. And if you’re not really discerning, figuring which are the shoots you don’t want in the path and which are the one’s you do, you step on everything. But if you notice, this is an oak shoot, take care of it because we can use an oak tree around here, it can give shade if it’s an oak tree or give fruit if it’s a fruit tree: Those are the shoots you watch out for. If you take care of them, water them, make sure you don’t step on them, they’ll grow.
+
+It’s the same with states of concentration. They often start out small— innocuous and anonymous. But if you notice that a little state of stillness and focus on it, then the steadiness of your focus is what allows the concentration to grow. This is why patience is such an important quality.
+
+We all know that we need more patience but we’re very impatient about getting those lessons from patience. We wish patience would hurry up and give us patience from those lessons so we can get on to the next thing. It doesn’t work that way. You take your time. Not that you dawdle, just that you’re careful about what you do. Then the results grow.
+
+Once the mind is in a steady state of concentration, you want to master it. What you want is the kind of concentration that serves a real purpose, and this is where the issue of discernment comes in. There are lots of uses for concentration just as there are lots of states of concentration you can get into. You want a state that’s mindful, alert, fully aware, so you can use it to understand the problem of why there is suffering in life.
+
+This was the Buddha’s great discovery, realizing that this is the best issue to use your concentration for. There are other ways of using concentration. You can use it as a kind of hideaway, or you can use it to develop psychic powers. All kinds of miraculous things can come from the power of concentration. In fact there’s a huge literature in Thailand of all the amazing things that people with strong powers of concentration can do.
+
+But that’s not necessarily the best use of concentration. The first order of business is the whole issue of suffering. Why is there suffering in the mind? In particular, why does the mind create its own suffering? You’d think if you had any intelligence, the mind wouldn’t cause itself to suffer. But that’s the whole problem: we’re not very intelligent about how we manage our minds.
+
+So what you want is to use your powers of concentration, alertness, and mindfulness to look into how the mind is creating its own suffering, where the things are that it’s latching onto, where its clingings are. We look for these clingings, because whatever it clings to, there are going to be problems as soon as that thing changes. You cling to the body, you cling to feelings, perceptions,
+
+thought constructs, consciousness, whatever. The clinging in and of itself is suffering.
+
+So this is the prime use for your powers of concentration. If other powers develop, okay, well and good, as long as this one is the first order of business. Look into the question of where the mind is creating unnecessary suffering for itself. Look at the way you relate to your thoughts. Or if pain arises in the body, that’s a prime issue right there. The Buddha likened it to being shot by an arrow, in that the mind goes in and creates more issues and shoots itself with a second arrow.
+
+We’re so busy in shooting those arrows that there are not just two arrows. There’s a whole swarm of arrows we shoot at our pain. So we’re sitting there with just a little pain in our leg or pain in our back, but it’s riddled with arrows. We create all kinds of issues around it that just add on to the suffering.
+
+If there weren’t that basic clinging to the body to begin with, then the pain in the body wouldn’t be an issue for the mind. But wherever there’s clinging, you create a bridge for suffering to come into the mind. And you keep on maintaining that bridge. This is what we’ve got to be sensitive to: that we’re constantly keeping that bridge in good order.
+
+Sometimes we drop that bridge but it’s because we’ve built a bridge to something else and then more suffering comes in from that other source.
+
+And we’re always focused on getting things quickly: “Why won’t this pain go away? Hurry up and teach me your lessons and go away.” It doesn’t work that way. First you’ve got to look at the mind’s commentary around the pain, seeing exactly where the issue is within that commentary, where the false assumptions are. This is why having a good solid state of concentration based in the body is so important. It helps get you out of that dialogue in the mind. Sometimes it’s not a dialogue, it’s a shouting match. It’s a whole lot of people shouting at each other.
+
+But if you’re firmly grounded in the breath, firmly grounded in the body, you can just watch this conversation, this commentary in the mind without getting involved. That’s what allows you to see through it, to see which voices are wounding the mind with “arrows of the tongue.” Then you can disarm them.
+
+Survival Tactics
+
+You know the passage where the Buddha says that heedlessness is the path to
+
+death? When you’re sloppy and careless, you die. He’s not talking only about physical survival, although that is an important consideration and many people do die because of they’re own carelessness. But here he’s talking more about the survival of the mind, the good qualities in your mind. When you’re careless, the good qualities in your mind die. And when they die, what do you have left? There may be brute survival of the body, but it’s not worth all that much.
+
+When we come to practice the Buddha’s teachings, we’re basically learning survival techniques for the mind, how to keep the mind’s good qualities going strong. Observing the precepts, practicing concentration, developing discernment: those are the tactics. The meditation we’re doing right now: that’s a survival tactic for the mind. Both on the everyday level and at the moment of death, the tactics you learn, the techniques you learn while you’re meditating, are going to stand you in good stead.
+
+The steps we have here – focusing on the breath, making it comfortable, spreading it throughout the body, allowing it to grow calm to the point where there’s a sense of ease and rapture – the beginning stages of breath meditation: these are useful not only on the cushion or your meditation seat, but also in daily life. In other words, by focusing on the breath you keep the mind in the present moment because that’s an important place to stay. That’s where all your decisions are being made. All your kamma is being created right here in the present moment. If you’re not here, a lot of things get decided on a subconscious level, on a reactive level, while you’re off someplace else. These are the forces shaping your life, and yet you’re not watching over them.
+
+So the first thing is to bring yourself into the present moment. And then you create a sense of ease and wellbeing in the present moment as well, one that helps you stay there and at the same time gives the mind something to feed on. Ultimately, of course, we want to get the mind to a place where it doesn’t have to feed, but in the meantime it has to feed on something. So you give it something good to feed on: the sense of wellbeing you create simply by breathing in in a way that feels good, breathing out in a way that feels good, so your mind doesn’t go off feeding on things outside: what this person said, what that person did. That kind of stuff is junk food. It may be fun to feed on but it doesn’t give the mind any nourishment. It actually saps your strength. Like fast food: it may taste good for a while, but there’s so much cholesterol in it that over the long term it turns to sludge in your arteries and clogs them up.
+
+The normal things the mind tends to feed on in the course of the day – this person’s actions, that person’s words – are junk food for the mind. But when the mind has something really good to feed on, right here in the present moment, it doesn’t want to feed outside. Things can pass right by you. You see other people’s words, their actions, and they just go right past you, in the sense that they don’t come in and wound the mind. You see them clearly—it’s not that you’re oblivious to these things—and you can make good choices on what to do
+
+when someone else does something harmful or makes a mistake. But it doesn’t wound the mind, because you haven’t taken it in.
+
+Most of us are like little children: anything that gets near your mouth, you just swallow it right down—rocks, bits of glass, insects and dirt. And when they harm you, you go and complain about what other people are doing. Well it’s your fault that you went and swallowed the stuff down in the first place.
+
+So if you give the mind something good to feed on—like the comfortable sensation of the breath coming in and going out—the mind has a good source of nourishment. As it gets a taste of comfort, you begin to notice when it’s not comfortable. Often that discomfort is associated with unskillful states of mind arising: anger, greed, jealousy, fear. These things will cause a change in the breath. If you’re there with the breath and you’re used to having it comfortable, you notice these changes immediately. They’ll alert you to the fact that something’s gone wrong in the mind. Again, for most of us, we’re off someplace else when these things begin to take a foothold in the mind. By the time we realize it, they’ve taken over. They kill off whatever goodness we may have.
+
+That’s why heedlessness is the path to death. You get careless about what’s happening in the mind, and then all sorts of things can start coming in. But when you’re right there, sensitive to the slightest little unpleasantness in the breath, it’s an alert. It alerts you to when things are happening.
+
+And then what do you do? Another one of the steps we practice here: once the breath is comfortable, you let it spread throughout the body. So you breathe through the uncomfortable breath sensations. Breathe in a way that loosens up the tension in the body accompanying the anger, the fear, or whatever.
+
+You then find yourself in a much better position to act on the situation that got you angry in the first place. You can respond reasonably, wisely, with clarity, because you’re not overwhelmed with a sense that you’ve got to get that tension out of your system—for it’s already dissolved out of your system. What’s left is the awareness that something should be done, but you now have the space to decide: what should be done? Should it be done right now or later? You can see much more clearly what the situation is, and what would be the appropriate response.
+
+So these basic steps in breath meditation are very important for daily survival of the goodness of the mind: keeping you in touch with decisions being made in the mind, keeping you in touch with the emotions that are threatening to overcome the mind, and giving you tools to deal with them so that you’re in charge.
+
+Even more so, when life comes to an end, the fact that you’ve developed these skills is going to be very helpful. Most people are overwhelmed by the process of dying. The body, which always used to seem to work all right, suddenly starts malfunctioning. The body, which they identified with, which they’ve invested so much time and energy in, starts falling apart. They feel lost and betrayed. And then where do they go? For people who don’t have any training in meditation, that’s a real killer, not only physically but also mentally.
+
+If you’ve got these skills mastered, you’ve got a better place for the mind to stay. You can deal with whatever thoughts come up. And all kinds of thoughts are going to come thronging in to your awareness at that point: this regret, that disappointment, this complaint. There’s going to be a lot of negative stuff. But if you’ve got good solid mindfulness and good clear awareness in the present
+
+moment, you can just watch these things come and watch them go. You don’t have to grab onto them.
+
+If you’re really skilled in your meditation, you will have found a place where the present moment opens up into the deathless. Then you’re really safe, no matter what happens: the body falls apart, all kinds of things can happen - but there’s that secure place. Ajaan Fuang once said that when you’re practicing meditation, you’re practicing how to die properly. And these skills that we’re working on when we’re sitting right here, they’re your survival skills, both on a day-to-day level and also when the time comes for the mind to separate from the body, to separate from all its mental events, everything associated with this life. If you do it skillfully, the awareness that’s left will separate out, will have nothing to worry about, either in the present or on into the future.
+
+A Quiet Spot
+
+Time to let all your thoughts about the outside world just fall away.
+
+Whatever you’ve been thinking about, whatever places your mind has been scattered, just let them drop, and bring your attention right in, right here, right at the breath.
+
+There's a lot of unfinished business out there in the world, but it’s always going to be unfinished. One job gets done and another one comes right on it.
+
+A lot of the problem is with the mind itself. There are days when things are perfectly fine, but the mind starts getting antsy. It can’t help but think, “What’s next there out on the horizon?” If you follow that particular tendency it never comes to an end. There’s always going to be work to do. When people say they’ve finished the job it’s because they just get too weak to do it, and so whatever’s left has to stay left undone.
+
+So for the time being just leave things undone. Let’s create this little ‘corner of quietness’ in the mind. That’s what Ajaan Suwat liked to call Wat Metta: a corner of quietness. But he also talked about meditation as a corner of quietness, this place where the mind can really be solid and settled down and have a firm foundation, even in the midst of all the things that are infirm and unsettled in the rest of the world. After all, when we talk about the world it’s not just the world outside. The world inside the mind also has a lot of unfinished business. And the urge is to decide, “Okay what business needs doing?”
+
+To decide, ask yourself: "What are the tasks that, when you do them, they really do get done, so that you really do have something accomplished in the mind?" This is why the Buddha was so particular about which questions he would answer and which ones he wouldn’t, which issues were worth dealing with, which ones were worth just putting aside. You can’t take on everything, so you have to focus on what’s important. Have a sense of priorities, not only in your life at large but also in where you focus your attention, where you focus your energy, right here, right now.
+
+So focus on the breath. There are lots of other things you could focus on right here, right now, but you limit yourself to the breath. See what the breath is doing. Is it coming in? Is it going out? Is it comfortable? Is it not comfortable? If the mind wants to analyze things, there’s plenty to analyze right here. If it wants to settle down, just make the breath comfortable and allow the mind to settle down. But do your best to monitor what the mind is doing so that it stays alert and mindful and doesn’t go drifting off other places. Keep it right here with the sense of the body breathing in, breathing out. As for everything else in the area of your awareness, just let it go. Take this as your beachhead: This is the spot that you’re going to develop.
+
+So you have your spot here in the body; you have this place of quiet and focus in the mind. And there’ll be other things going on that you notice. There’s chatter in the background in this part of the mind here, in this part of the mind there; this thought comes up, that comes up. And your ability to say, “No, thanks,” and just come back to the breath: That’s what helps develop this quiet center here.
+
+And don’t think that what you're doing is selfish. It’s like the monastery: We create a little quiet corner up here in the mountains, away from the rest of the world, but don’t think that it doesn’t have an effect on the rest of world. It does. The more quiet there is here, the better it is for the rest of the world. And it’s the same with your mind. The more quietude you can have in this one spot, the more stillness, the more steadiness you can get going here, the more the whole rest of the mind benefits.
+
+And the people around you benefit as well. Once you’ve got this quiet spot going then, when you act, you act from this quiet spot; when you speak, you speak from this quiet spot; when you think, you think from this quiet spot. When intentions, when impulses arise in the mind, the observer standing in this quiet spot can look at them and see what’s worth acting on, what’s not worth acting on. And this way not only do you benefit but, as I said, the people around you benefit as well. They're no longer a victim of your unquiet, unfocused mind.
+
+So once this quiet spot gets more settled, it begins to spread out to affect the rest of your mind. It’s like starting a little fire. You may have a lot of brush to set fire to, but in the beginning it’s just a little, tiny flame. And you have to be very protective of it because the wind and all sorts of other things will try to put it out. So you have to cup your hands around it, be very protective of it. But once it takes, then it'll spread.
+
+When the Buddha described meditation he used the word jhana, which Is related to the verb, jhayati, “to burn.” But it’s the burning, not of a wood fire, but
+
+of an oil lamp. It’s a steady flame that you’re trying to get going here. Once the steady flame gets established then it begins to spread, so there’s a sense of steadiness and brightness throughout the whole body. As the breath energy gets good in one spot, you allow it to flow to other spots. So the little spot begins to expand, expand, and you find that this still awareness fills the whole body. It feels like the background from which everything else comes and to which everything returns. But you don't come out or return along with anything. You’re right there at the stillness, the sense of expansive awareness.
+
+So even though in the beginning of the meditation it may seem that there’s a little fence around the mind, there are restrictions on the mind, it’s just for the purpose of getting things established. It’s like your hands cupped around the flame that you’re trying to light. Once the flame has caught hold of the kindling, then it begins to grow on its own and it grows larger and larger.
+
+So it’s not always going to be restrictive. In fact, when the sense of concentration gets solid and begins to spread out through the body you find that it’s much more expansive than your ordinary states of awareness.
+
+And it’s all right here.  So we start out with this little corner, this little spot. Look after it. Make sure
+
+it’s still. Make sure it’s quiet. Make sure your attention doesn’t wander away. If it does wander away, just bring it right back, bring it right back. Its wandering off is a sign that it was blown off by a gust of wind here or there, so you just bring it right back. And do your best to protect this little flame of stillness, this little, still flame you’ve got going here. Once it catches then it can expand. And the sense of openness and the sense of relief that come with that level of concentration: it’s hard to find anything to compare.
+
+But the important part in the beginning lies in doing the groundwork properly because that’s where most of the dangers lie. Once those dangers are passed, then things begin to open up in the mind.
+
+Of course, there will be other dangers, but the most difficult part in the beginning is just getting the mind to settle down, to become established with a proper sense of balance - not too little energy, not too much energy, just right. And until you get that sense of ‘just right’ there’s going to be a lot of trial and error. Sometimes it seems like trying to balance a ball bearing on the end of a needle: It just keeps slipping off, slipping off. But, finally, once it gets established you realize that it’s a lot more solid than you thought. Once you recognize it then you can keep coming back, coming back. You know that spot. This is how the concentration becomes more and more of a skill.
+
+New Feeding Habits for the Mind
+
+August, 2001
+
+The juxtaposition of those two chants just now—the one that says, “subject to aging, subject to illness, subject to death, subject to separation,” and the other that starts out, “May I be happy, may all living beings be happy”: that’s the human predicament. We’re sitting here in this body that’s going to age, grow ill, and die someday, and yet we want to be happy. And we want to be happy in a way that doesn’t cause suffering to anybody else, either. And this—if the mind is constantly weighed down with aging, illness, death, and separation—is very difficult.
+
+Most cruel actions come from people who are suffering. When you see a cruel action, it’s usually coming from the person’s feeling weak, feeling threatened, at his wits’ end. Acts of kindness and compassion come from a feeling of wellbeing in the mind.
+
+So when we look for true wellbeing, true happiness, it’s not a selfish desire. But still, we’re stuck with this problem: the body is going to age, grow ill, and die. Our mental faculties are going to go away. And how are we going to handle that situation when it comes? How are we handling it as it’s encroaching upon us now?
+
+That’s what the fifth contemplation in the chant is about: “I’m the owner of my actions, heir to my actions.” It’s through our actions that we can make a difference.
+
+The Buddha says that there are four kinds of action: skillful actions in the worldly sense, unskillful actions, a mixture of the two, and then the action that leads to an end of action—in other words, the action that leads you outside of the cycle of the world all together.
+
+So this is what we’re working on here as we meditate: First, learning what it means to act. As the Buddha said, action is intention. So we practice meditation to get to know our intentions. One way to do that is to set up an intention in the mind and see what happens as you try to keep it going. Focus your intention on the breath. Say to yourself, “I’m going to stay with the breath for the hour: that’s all I’m going to notice, that’s all I’m going to worry about.” See how long you can make the intention last.
+
+If your powers of mindfulness and alertness are strong, you can maintain that intention. If they’re still weak, and the intention gets lost, you just set the intention up again. Set it up again and again and again. Don’t give in, because if you can’t stick with this little intention, how are you going to deal with the larger issues in life? If you don’t have the mindfulness and alertness to maintain this much, how will they be able to help you through more difficult situations?
+
+So we’re training these mental faculties in the same way that you train the body, strengthen the body. If you want to be strong, you don’t go out and buy a new strong body from somebody else. You take your weak body and you exercise it. Exercise is what makes it strong. In the same way, you exercise these qualities of mind that can help make your intentions stick. And you begin to see that as you maintain these intentions with skill, they really do make a difference in the mind because they give it a new foundation for its wellbeing. You don’t
+
+have to depend on the body; you don’t have to depend on people outside you. You’ve got a skill within the mind that’s purely mental, using the body as a foundation, developing mental skills that will make a difference.
+
+Once the mind has this sense of center, it brings a stability and steadiness to your life. You’re not constantly subjected to buffeting from forces outside. No matter which direction the winds blow from, you can stay steady and still, and watch to see what’s going on around you. Your ability to stay still like this is what enables you to see. If you’re streaking through life, all you see is the blur on either side. Only when you stop and stand still can you see not only what’s going on around you but also what’s going on inside, those very subtle movements of the mind that can cause you to get attached to things that are going to change on you.
+
+You begin to realize that the mind’s habit of latching onto the body is not necessarily something it has to do. Its habit of latching onto feelings, or perceptions, or thought constructs, awareness of this or that: it doesn’t have to latch onto those things. It latches on because it doesn’t yet have the strength to stand alone, doesn’t have any better place to go. It’s dependent on these things, wants to feed on these things, to see what kind of nourishment they give. And sometimes they give a little good nourishment, but for the most part they’re junk food.
+
+Now, as the Buddha says, suffering is the mind’s habit of feeding like this. So we try to give the mind something better to feed on: a sense of wellbeing inside, the sense of wellbeing that comes as you learn to adjust the breath, settle down into the breath, make friends with the breath, learn to savor the breath the same way you would good food or good music.
+
+What does this flow of energy feel like as it comes through the body? What kind of flow would the body like to feel right now? Do you know? Can you tell? Most of us live within the body for how many years, and we don’t know what kind of breathing the body would like to do, what would feel good for the body to do right now. So take some time to explore, to get acquainted with it.
+
+As you develop this inner sense of wellbeing and stability, you find that the mind would much rather feed here than outside. There may still be some stress, some slight sense of burdensomeness in having to feed here, but at least it’s better than what the mind tended to feed on before. You begin to look back upon thoughts of lust, thoughts of anger, thoughts of greed, and you begin to wonder: “Why did I ever want to feed on those? What kind of nourishment did they provide?” Nothing really solid, nothing really substantial, nothing really healthful at all.
+
+Once you learn how to let go of those things, you learn to stop feeding on things bad for the mind. And when you’re not weighing the mind down in that way, when you’re not giving it junk food to clog up its arteries, there’s a greater sense of lightness, health, and wellbeing. When the mind feels light and healthy like this, it’s much easier for you to feel compassionate, not only for yourself but also for people around you. Ultimately you get to the point where the mind is so well fed, so strong, that it doesn’t have to feed anymore at all. That’s when the mind is totally free.
+
+It’s like when you go out camping. One of the big problems in going camping is that you have to carry your food everywhere you go. That puts a limit on how far you can go, how many days you can go out on a particular trip, because
+
+you’ve got to keep your food stores low enough so that you can carry them but not so low that you’re confined to one- or two-day trips. Think of how much you could wander around if you didn’t have to feed. Many times I’ve felt I’d like to wander off into the canyons at Zion and disappear—but I can’t, because the body has to feed. And as they say, you can’t eat the scenery.
+
+But when you put the mind in a position where it doesn’t have to feed, it’s really free. It’s not weighed down by anything, not confined by anything. This is what the Buddha meant by nibbana. The word nibbana comes from a fire’s going out. Back in those days they had the conception that fire was trapped by its fuel because it had to keep clinging to the fuel to get its sustenance. But when it went out, it let go of the fuel and was released. It was no longer confined. You couldn’t even describe it as existing, non-existing, both, or neither. It was that free.
+
+So that’s what the Buddha was talking about with nibbana: The mind doesn’t feed anymore. When it doesn’t feed, it’s not confined to its food source, doesn’t have to carry its food source around, isn’t limited by where there’s food and where there’s not. When you look back, you realize that the steps you were following along the practice were precisely that fourth kind of kamma: the kamma that leads beyond kamma, to the end of action, to the end of having to feed.
+
+If you’re observing the precepts, practicing concentration, and developing discernment into what the mind needs to feed on, what it doesn’t need to feed on, what kind of feeding is good for it, what kind of feeding is bad for it, and then feed it in such a way that ultimately it gets so strong that it doesn’t have to feed any more, it can let go. And at that point an entirely new dimension opens up in the mind that you couldn’t have even conceived before.
+
+That’s ultimately where the practice leads. It takes this mind—which is feeding on the body, feeding on feelings, perceptions, thought constructs, and consciousness—and tells it that there are better things to feed on. If you feed on these things, you’re going to be really sorry because your food source is going to run out on you very quickly. It’s going to keep changing—and with that sense of uncertainty and instability in life, how can the mind find any sense of wellbeing? At the same time it turns out that a lot of that food is junk food, which keeps you weak and unhealthy. So you teach the mind better ways to feed through the practice until the path finally issues in a point where the mind is at total equilibrium, doesn’t need to feed anymore, and you can let go.
+
+So that’s where we’re headed. As the Buddha said, the only things he teaches are suffering or stress and then the end of suffering. That may seem like a narrow ideal. What about helping humankind and all the other great issues? He said to straighten out your own mind first and when that’s straightened out, when you’re really free, the type of help you can then give to people is the best kind of help. There’s no hidden feeding agenda, no hidden need to feed on the sense of pride that comes from being a very helpful or very important person, which can actually spoil the help, spoil the compassion. You’re operating from a sense of compassion that comes from total freedom, total independence—which is ultimately the only compassion you can really trust.
+
+The Basic Medicine
+
+August, 2001
+
+You all know the old image of the Buddha as a doctor and the Dhamma as medicine. When you come to practice the Dhamma, it’s as if you’re learning to be your own doctor, looking after the illnesses of your own mind. Everyone comes up here wounded in one way or another, suffering either from things outside or from things inside. At the time of the Buddha people were suffering from greed, anger, and delusion just as we are. With modern culture, modern society, it seems as if we have more diseases of the mind, more complex ways of getting involved in creating delusion, but they all basically come down to the same three roots.
+
+So the treatment here is to learn how to uproot the disease. You want to look at your time here as a time for healing. The skills you want to take back with you are those of being not only your own patient but also your own doctor, learning how to look after the mind, seeing exactly where it needs treatment. And part of the treatment is the kind of healing that requires nourishment and rest.
+
+This is a lot of what breath meditation provides. It gives the mind a place to settle down and be at ease with itself, to develop a sense of wellbeing inside.
+
+Stay with the breath as you listen to the Dhamma talk. Don’t really listen to what I’m saying. Give ninety-nine percent of your attention to the breath; leave one percent for the talk in case something good comes by that’s actually relevant to what you’re doing. Otherwise, don’t let the talk distract you from the meditation. Allow the mind to settle in.
+
+You want to develop a quality where awareness and the breath become one, where you’re right in the middle of the breathing process, instead of being in one part of the body outside the breath, watching another part of the body breathe.
+
+You’re in the breathing-in, in the breathing-out. Allow those two things to stay
+
+together: your awareness and the actual sensation of the breathing.
+
+In addition to staying with the sensation of the breath, you’ll also have to think
+
+about the breathing, to keep the mind from wandering off. If the sensation of the breath isn’t enough to keep you with it, then you can use a meditation word
+
+along with the breath. You can use the word “buddho,” which means awake. Think, “bud" with the in-breath and, “dho” with the out. “Buddho,” “buddho." Or
+
+think any word that helps keep you with the breathing. And if you want, think of
+
+the meditation word filling the whole body. The whole body goes, “bud,” the whole body goes, “dho,” so there’s no corner of the body where any other
+
+thought can come in.
+
+You begin to realize that the breath is filling the whole body as well. The whole body gets involved in the breathing process if you allow it to. Every nerve gets involved in this energy flow, so think of them all working together. The breathing is soothing the body, soothing the mind right now, so the mind feels that it can melt in with the breath. The awareness melts into the breath. They become one.
+
+However, the meditation is not just a bubble bath for the mind. There’s the healing, comforting, soothing aspect, but remember medicine comes in all sorts of forms. Some of it can be pretty strong. In other words, once the mind settles down you have to watch after it, make sure it doesn’t go wandering off, doesn’t get lazy and complacent. If the mind goes wandering off ask yourself, “What
+
+trouble are you looking for now? Now that you’re beginning to feel a little healed, what new germs are you looking for? What do you hope to get out of that particular thought?” And sometimes just this little warning is enough to bring the mind to its senses and bring it back. At other times you have to work at it a little more, focusing in more detail on exactly why you don’t want to be thinking right now about anything else. Then bring the mind right back to the breath.
+
+So you can’t just wallow in the nice side of the breathing. There has to be constant vigilance over the mind because the problem with the mind is that as soon as it gets comfortable, it starts getting lazy and complacent. That’s not the treatment at all. That’s not the medicine the Dhamma provides. Once your sense of awareness settles in and gets comfortable, you have to be very watchful to make sure it doesn’t slide off someplace else and start creating trouble for you.
+
+So as the doctor for your mind, you want to combine these two qualities: On the one hand there’s the sense of ease that comes with the breathing; on the other, you have to maintain mindfulness, you have to maintain alertness. Foster an attitude of heedfulness. Keep focused on the breath.
+
+Remember: The sense of ease and comfort is a product of your focus on the breath. If you lose your focus and start focusing on the wrong things, then once the cause is gone, the result is going to have to start fading away as well. You’re left with nothing. It’s like building up scaffolding and seeing a cloud next to the scaffolding. It looks nice and cottony and comfortable, so you go and jump on the cloud—and you go right through.
+
+So allow yourself to rest with whatever sense of wellbeing there is, but remember that there’s work to be done. After all, this is medicine; it’s not always pleasant. It’s not total relaxation. There has to be a certain amount of vigilance to keep the mind with the breath and not let it blur out. One way of doing this, once you’ve got a sense of ease with the breath, is to start thinking about the breathing process in different parts of the body. Just go through the body parts one by one by one, seeing how the breath feels at each particular part. You might want to start at the navel and then work up the front of the body, down the back of the body, and out the legs. Then start again at the back of the neck and then go down the shoulders and out the arms.
+
+Take the body section by section and notice how each section feels as you breathe in, how it feels as you breathe out. If there’s any tension or tightness, let it dissolve in the flow of the breath energy, so that you breathe in without building up any new tension and breathe out without holding onto any tension that may already be there. Allow the tension to dissolve and then move on to the next section of the body, and then the next. Keep doing this until you’ve covered the whole body and can sense that all the parts of the body are breathing together in unison. Then try to maintain a broad awareness of that.
+
+When the Buddha talks about the sixteen steps of breath meditation, number one and number two are just noticing the breath to see how long or short it is.
+
+With number three you start training yourself: You’re willing yourself to be
+
+aware of the whole body. And you’ll find that there’s a tendency, as you get lazy, for that awareness to shrink. Don’t allow that to happen. This is the work you’ve got to do. Stay with the whole body, the whole body, the whole body as you breathe in, the whole body as you breathe out, and then work to maintain that sense of wholeness.
+
+In the beginning you’ll find that the work may seem to be too strenuous because you’re not doing it very efficiently. Just notice what needs to be done, what doesn’t need to be done in order to maintain that whole-body awareness until you find that you can maintain it with ease. You’ll find that there may be slips. You’re working with trial and error here. You’re working on a skill. Try to think back to whatever manual skills you’ve developed—carpentry, sports, cooking skills, whatever—and the attitude you had to foster to help master the skill.
+
+If there’s a mistake, you don’t let yourself get upset by the mistake. Just start all over again. When things turn out well, don’t let yourself be complacent. Try to think of other ways to improve what you’ve done. Or if it can’t be improved, learn how not to mess with it, how to keep it going as it is.
+
+There’s a certain balance, a certain maturity that you have to bring to any skill. That’s the kind of attitude you want to bring to the meditation. If you let yourself get too easily discouraged by bad sessions in the meditation or start getting complacent or cocksure about your good sessions, you’re setting yourself up for a fall, and no skill is going to come from that. You want to keep at it, keep at it, keep at it. Whatever mistakes there are, you learn from them. Whenever things go well, you try to learn from them. If you come out of a good meditation session, don’t leave it immediately. Reflect on what you did this time, what went right this time. And the more often you do that, the more precise your observation’s going to be, the more you start seeing cause and effect as they operate in the mind.
+
+We’re working on a long-term project here. You come to realize that even though things happening from the outside may be wounding the mind, the real diseases come from within: our lack of skill in managing our thoughts, our lack of skill in relating to feelings, perceptions, thought-constructs, and consciousness. And so what we’re doing is learning new skills to relate to what’s going on in the mind, along with a new sensitivity that comes with these skills. The skill is not just staying with the breath but also finding ways to relate to whatever comes into the mind in the course of the day, wherever you are. The sensitivity you build up while you’re working on the meditation should be applied to whatever happens throughout the day.
+
+It’s like taking a beginning art class. You come out of the art class and begin to notice colors and arrangements, not just in paintings but also all around you. You’ve gained a heightened sensitivity. The same with the meditation. Try to take the sensitivity that comes with the meditation and apply it to the way you relate to your thoughts and emotions as they arise.
+
+This sensitivity is what enables you to start seeing the subtle causes of the diseases in the mind. You come to realize that if the mind doesn’t wound itself, it doesn’t leave an opening for anything to come in from outside and wound it.
+
+We’re the ones who lower our own resistance to the outside diseases, allow them
+
+to come in and infect the mind in one way or another. If it weren’t for these internal tendencies, there wouldn’t be any problem with living in the world. The mind would be totally resilient—but not insensitive. It simply wouldn’t pick up any diseases from outside. The reason it does pick up those diseases is because it leaves an opening from inside in the way it mistreats itself.
+
+So we’re learning new skills in how the mind can treat itself, how it can relate to itself, taking the breath as our foundation because it’s an excellent barometer for what’s going on in the mind.
+
+Try to get as familiar as you can with this basic medicine. Once you’ve got the basic medicine down, learn what other ingredients you need to add for specific ailments as they come — what you should do in the case of anger, what you should do in the case of greed, what you should do in the case of fear, worry, or whatever.
+
+But the basic treatment is just this: learning to be with the breath, allowing the breath to be comfortable, and letting that comfortable breath spread throughout the whole body. This is the basic skill upon which all the other skills are based. This is the foundation, so you want to make sure the foundation is solid. Even when you move on to more advanced stages of the meditation, you always want to keep coming back to the breath because it forms the basis for the whole course of treatment.
+
+Seeing the Stillness
+
+September, 2001
+
+When we hear that snakes only see motion, it seems strange to us. We of
+
+course think that we see things. All they detect is motion. You can test this out in
+
+the orchard. If you sit perfectly still and a snake comes by, the snake won’t see you. It’ll go right past you as if you weren’t there. It’ll detect you only if you move.
+
+We think that’s bizarre. But if you stop to look at the way the mind operates, you’ll see that it’s pretty much like the way the snake sees. We notice change. That’s what we look for. That’s what we’re constantly noticing. When someone tells us the deathless is right here in the mind, we can’t see it because all we can see is change. This thing changes, those things change. If nothing else changes, our mind is changing. It’s looking here, looking there, and the change is what we follow. And as a result, what we see is stress. We build our sense of ourselves out of what’s changing and stressful, but the Buddha says that it just doesn’t work. There’s no way we’re going to find happiness that way if the “we” we create is based on stress. We have to change the way we look.
+
+He insists that we start with the precepts. Remember that: The precepts are meant to change the way we perceive things. We start by acting in new ways.
+
+The word for the precepts, for virtue–sila–also means something that’s normal.
+
+We try to create a sense of normalcy in the mind. The mind’s normal state is when it’s not deciding to kill or steal or have illicit sex or lie or take intoxicants. But it’s a state of mind we tend to overlook.
+
+The Buddha tells us to bring the mind to normalcy first by bringing our words and deeds to normalcy. When that state of normalcy grows more consistent, it grows stronger, to where you can actually notice it. Then you begin to think back to the days when you weren’t observing the precepts. You realize the sense of dis-ease—out of balance, out of equilibrium—you had. When you compare that with the sense of normalcy you’re now beginning to detect, you see there’s been a genuine improvement. And as the normalcy is allowed to be more pervasive, it fills more of your life.
+
+The same principle works as you’re practicing concentration. You sit here with a body; you notice that there’s a pain here and a pain there. The mind tends to connect the pains in the same way we play Connect-the Dots, and that can cause you to create bands of tension all over your body. But instead of focusing on the bands of tension, look at the broader sense of ease surrounding them. It’s like looking at the blank spaces on a map. We tend to look at the roads and the cities and the words, but the blank spaces serve a function, too. Otherwise the placement of the roads and cities wouldn’t bear any relation to the actual lay of the land.
+
+So allow the breath to be in a state of normalcy. Think back to when you’ve been in a good mood: nothing really exciting, but just a basic okay sense of wellbeing. What was your breath like then? What was the visceral feel of that mood? You can try to tune back into that feeling; it’s there. Tune back in to the way the breath felt at that point and allow it to have that same sense of ease. Then notice where the other areas of ease are, here and there in the body, that
+
+you tend to overlook. Where are they? Can you connect them to the sense of ease you’ve developed around the breathing? Try to keep them connected, both in space and in time.
+
+In other words, allow the different parts of the body that feel at ease to connect right here in the present moment and then maintain that sense of connected wellbeing, based on the breath, as continuously as you can. At first it may not seem like anything special. But if you allow it to stay connected, if you don’t interfere with it and don’t jump away from it, you’ll find that it grows stronger and stronger. You develop a real sense of fullness. You just sit here breathing in and out, and there’s nothing else you need to do to feel content, nothing else the mind would want, simply because you’ve learned how to change the way you look at things.
+
+Then the skill lies in maintaining that state: keeping the sense of awareness,
+
+keeping the sense of wellbeing filling the body as much as possible, and then maintaining contact with that state, allowing it to grow, allowing it to develop. Don’t jump away from it, thinking, “Well, this can take care of itself. I wonder
+
+what that’s like over there. I wonder what this is like over here.” This is not yet
+
+the time to follow those thoughts, for the sense of wellbeing can’t take care of itself. This is the time to develop your ability to stay centered in wellbeing and allow it to fill the body. It’s like having a kid. After it’s been born, you can’t say, “Well, that was interesting. Now I want to go off and star in a play.” You’ve got to commit yourself to looking after the kid until it grows old enough and mature enough to stand on its own two feet.
+
+It’s the same with these fragile states of concentration and comfort in the present moment. You’ve got to keep tending to the various comfortable sensations in the body. Keep them connected. And—as with the child—they’ll do a lot of the growing on their own. Your duty is simply to tend to them to allow them to grow. As they stay connected, they strengthen one another without your having to push or pull them, without your having to anticipate anything. Give them the time and the space to do what they have to do.
+
+Once that sense of wellbeing is really solid, then you can go back and examine
+
+the mind’s tendency to look at what’s inconstant, what’s stressful, what’s not self. This time around, though, you’re looking at the question from a different perspective. In the past you used to jump from one thing to another, looking for something to settle on for a while, looking for something that would give you wellbeing, and constantly being thwarted. So you jumped again and jumped again, looking for happiness in things that have to change.
+
+This time, however, you look at the mind’s tendency to jump in and of itself. Instead of focusing on the things you jump at, just look at the mind’s tendency to jump at this, jump at that, to see what’s happening. Try to comprehend the mind’s tendency to look for things that are inconstant and stressful. When the
+
+Buddha taught the first noble truth, he said to comprehend suffering. That’s why
+
+we need to have this sense of wellbeing first, before we can look at stress and suffering for the purpose of comprehending it. If we don’t have a sense of wellbeing, then when we see suffering we’ll want to get rid of it or jump away from it. But if you’ve developed a deep, abiding sense of ease, you’re in a position where you’re willing just to watch the suffering without feeling threatened by it. That way you can comprehend it.
+
+In what ways does the mind move that create stress? Look for them. Then you begin to see that the problem is not with the things you were jumping at but with the way the mind jumps, the way it looks for things, its clinging, its cravings. When you shift your focus from the things to the jumping, you can see that tendency more and more clearly. You can detect it more quickly, to the very beginning points where the mind is beginning to stir, getting ready to jump,
+
+getting ready to flow out. That’s what the word asava means: the tendency of the
+
+mind to flow at this thing, flow at that thing. When you begin to see why this happens, you can cut it off.
+
+At first you can do this with blatant instances, and then you get more and more subtle. When you’ve taken care of the blatant outflows, then you can turn around and take apart the tendency to flow around the sense of wellbeing you created here through your concentration. When you can take that apart, that’s when there’s real release. In the meantime, though, you want to maintain that sense of wellbeing, keep it going, because that’s the point from which you’re doing all the work that ultimately will take you to the point where the only thing standing in the way of release is the “you” identified with the concentration.
+
+Our problem is that we approach the Dhamma using our habitual tendency to jump. We want to jump to the ultimate right away. When you get into a Dhamma conversation, within four or five words you’re already talking about the absolute, talking about the uncompounded or whatever. People don’t like the work that goes in-between. Everyone wants to hear the easy way to overcome laziness or the quick way to overcome impatience, but that doesn’t work. Laziness is overcome by making an effort. Impatience is overcome by sticking with things for a long time. Yet the results are more than worth it. That’s the guarantee of the practice.
+
+So meditation does involve work, it does involve patience—it takes time, it takes skill, it takes precision—but the Buddha teaches us to develop these qualities on the solid foundation of wellbeing that you can develop by the way you relate to the breath, by the way you relate to the easeful sensations in the body, the places where the energy does flow properly. Focus on those first and then you can work with the places where the energy doesn’t flow properly. But always try to work from a position of strength, from a position of normalcy. That way you’ll find that that normalcy grows stronger, more and more pervasive, more and more satisfying.
+
+We’re on a path, but it’s not a path that saves all its good things for the end. There are a lot of good things that come along the way if you learn to look in the right places and make the best use of the good things you’ve got.
+
+This is the teaching that Ajaan Lee stresses over and over again. We’ve got the five khandhas. Everybody knows the five khandhas are stressful, inconstant, and not-self. But he says, “Don’t be in too great a hurry to throw them away. Learn how you can use them.” After all, what is the path made out of if not feelings and perceptions and thought-constructs and consciousness? Learn how to use these things. What is rupa jhana made out of? It’s based on form, the first khandha, and includes the other four khandhas as well. Learn how to use these things in a way that turns your objects of delusion and suffering into the path. Once the path has done its job, then you let it go.
+
+But first you have to learn where to hold onto. You can’t let go of everything
+
+all at once. You let go in stages until the path’s work is completed. Then you let
+
+go. That way you let go without hurting yourself. It’s like climbing a ladder: If you let go halfway up, you just fall down to the ground. If you climb the ladder to the roof, then when you’ve reached the roof you can let of the ladder because you’re standing on something safe and secure.
+
+So it all comes down to discernment, seeing what really should be let go, what order things are let go in, and what you have to depend on in the meantime. Once those distinctions are clear, then the path falls into place.
+
+Skillful Thinking
+
+September, 2001
+
+It’s very common when we come to the practice that we bring along some
+
+very strong notions of who we are or the kind of person we’d like to be: “I’m this sort of person. I want to be this sort of person.” This type of thinking is very common. And yet it’s not all that helpful, because that concept of who we are is very nebulous, based on all kinds of information and misinformation. It often gets in the way of what’s the best thing to do at any given moment.
+
+This is why the Buddha says to put those questions aside—“Who am I? Who am I going to be? Who have I been in the past?”—not only in their philosophical, abstract or metaphysical sense, but also in their psychological sense. Just look at what opportunities you have right here, right now for thinking, acting and speaking in skillful ways. That kind of question—“What’s the most skillful thing to do right now?”—is a useful question. This is what the Buddha was getting at when he said to put thoughts of “me,” “myself,” “what I have been,” “what I will be” aside and to think instead in terms of the four noble truths. These truths give you a way of looking at experience that focuses directly on the issue of skillfulness.
+
+In other words, you look at your experience in terms of four variables: cause and effect on the one hand, and skillful and unskillful on the other. The first noble truth, the truth of suffering and stress, is an unskillful result. The unskillful cause is craving and ignorance. On the other side you’ve got the path of practice: that’s a skillful cause with the cessation of suffering as its result. So when situations present themselves to you, just ask yourself, “What’s the most skillful thing to do right here?” Then allow yourself to think outside the box a little bit. The teachings of meditation are not necessarily there to just be followed one, two, three, four and bingo! there you are: Bliss. Oneness. Awakening. You’ve got to keep reflecting on what you’re doing, what results are coming, what adjustments have to be made. If things don’t seem to be working out, use your ingenuity.
+
+Of course, there are some general parameters in which you have to stay. When you’re practicing meditation, you want to stay in the present as much as possible. So: what do you have to do to stay in the present? Sometimes the mind just refuses to settle down. So you find other topics aside from the breath in the present moment to focus on. If you’re really having trouble focusing on the present, think of the Buddha, the Dhamma, and the Sangha. Those topics help foster conviction in the path and in your own ability to practice the path. After all, the members of the noble Sangha are human beings just like you. They started out with all the strengths and weakness you have and somehow they were able to use those strengths to overcome those weaknesses in the face of all kinds of odds. If they could do it, so can you. Think in those ways for a while until you feel more confident in yourself and in the path, and then you can get back to your practice.
+
+Or, if you find yourself getting complacent and lazy, you can think about death for a while, because death can come at any time. It’s right here in your breath. If you breathe in and can’t breathe out, that’s death. If you breathe out and can’t breathe in, that’s death too.
+
+Then you notice the way you breathe. Normally you breathe in to a point where it’s not comfortable to keep on breathing in any more, so you stop and
+
+then start breathing out. You continue breathing out until you reach a point where it’s no longer comfortable, and then you breathe in. You keep running into that point of the pain and discomfort each time you breathe and have to change from an out-breath to an in-breath, or an in-breath to an out. That point of discomfort may not be blatant pain but it’s a sense of tension. It’s got the breath hemmed in right there all the time.
+
+If the events of the past few days have confirmed anything, they’ve shown how fragile everything can be. Death comes very easily. A little clot gets the wanderlust in your bloodstream, starts wandering on and then decides it’s going to settle down, gets lodged in a capillary in your brain, a capillary in your heart, and that’s it. Your whole system shuts down. Or some strange vagrant germ can find its way into your body and that can be it, too. Death can come from the tiniest things. The body is so fragile.
+
+So the question is: Have you completed the work you want to complete? Do you have any idea of what work you do want to complete? Okay, when you figure that one out, you can get to work and do it. The most important work, of course, is straightening out your mind, because that’s what you’re going to take with you whether you live or die. So if you find yourself being complacent, think about death for a while until it gives you the incentive to get back to the practice. In other words, take what’s close at hand and use it as a tool.
+
+Don’t believe the rule that meditation can’t involve thinking. Sometimes you do have to think in ways that will bring you back to the present moment. Some people complain about the Buddha’s teachings on past lives and future lives, that they’re a distraction from the present, but when he talks about past lives and future lives he keeps coming down to the principle of kamma: that all the past, all the future—everything—is shaped by your choices. Okay, what choices are you responsible for right now? The ones in the present moment. He gives you the teachings on what shapes the past and future in order to bring you back to the present with an even greater sense of its importance.
+
+So there are times when you have to use thinking, skillful thinking, in order to get past negative thinking. If you find that the narratives in your life, the issues in your life, are just too sticky to let go of easily, then use your powers of thinking in skillful ways to get you around those narratives so you can come back to the present moment, with the proper context.
+
+So you make use of what you’ve got. That’s a sign of discernment. Discernment isn’t built except by using it, exercising it. No matter how strong or weak it is, you’ve got to take what you’ve got and put it to use if you want it to get stronger. It’s like your body. If you sit and wait for it to get strong on its own without exercising it, it’s going to waste away. So even as you’re just getting started in the meditation, you have the chance to use your discernment, strengthen your discernment, by learning to deal with distraction.
+
+There are lots of ways for dealing with distraction. One is just to catch yourself wandering off and bring yourself back. Another way is to reflect on the drawbacks of that distraction. If you kept thinking in that direction, where would it take you? Is that where you want to go? Or if the distraction is really insistent, tell yourself, “Okay the distraction can stay there in the background if it wants to, but I’m going to stay here with the breath in the foreground.” Consciously ignore it. Don’t get involved. It’s like a glob of tar. If you even try to push yourself away, you get stuck. Some thoughts are like that. Other thoughts involve tension in the
+
+body. When you detect that it’s tense to think in that way, just relax the tension associated with the thought and it’ll go away.
+
+There are all kinds of ways of dealing with distraction. Don’t feel that you only have one tool. You’ve got to use all kinds of tools because there are all kinds of distraction. Each time an issue comes up in the mind, stop and ask yourself: “Okay, what’s the most skillful thing to do here?” And if an immediate answer doesn’t come, try experimenting. How do you think the Buddha found the path? Through experimentation. And even after he set out his teachings for people to hear, each person has had to experiment to see which way the teachings are best applied in his or her particular circumstances.
+
+If you don’t have this willingness to experiment, to make mistakes and learn from them, you’re going to have a hard time making progress in the path. That’s what they mean by beginner’s mind: being open to the possibility that maybe the only way you’re going to learn here is to make a few mistakes. Once you start learning from them, okay, then you become wise.
+
+So the basic questions are, always: “What’s the most skillful thing to do here? What exactly is the problem? What tools do I have?” And then work from there. You don’t have to get involved in such questions as who’s creating the solution, who’s facing the problem. Just put those thoughts out of your mind and you’ll find that the practice begins to progress, simply because you’re not carrying a lot of unnecessary baggage around.
+
+Keep Things Simple
+
+September 2001
+
+When you meditate while listening to a Dhamma talk, don’t listen to the talk.
+
+Focus on the meditation as much as you can. Give it ninety-nine percent of your attention. Leave only a sliver of attention for the talk.
+
+The whole purpose of the talk here is not to distract you from the meditation but to act as a fence so that when the mind leaves the breath it runs into the talk and turns back to the breath. If anything in the talk is relevant to what you’re doing in your meditation, it will come right in, echoing through your mind, without your having to try to pay attention to it. And if it’s not relevant to what you're doing, you don’t want it, anyhow. It may be relevant for somebody else. If it’s not relevant for anybody in the room, it’s probably for the speaker.
+
+So leave the talk alone and focus as much as you can on the breath going in and going out. And put out of your mind all thoughts about how the last meditation went or yesterday’s meditation went or how it was last week. Just focus on what you’ve got right here, right now. This is an important element in the practice: that you drop any concerns about how good or bad things have been in the past. Those concerns get in the way of the present moment. The same holds true for any anticipation about how you hope today’s meditation will be. It gets in the way of what you’re doing right now.
+
+Meditation is a doing, you know. All too often we’re looking for an experience.
+
+We want to experience this sense of ease, that sense of pleasure. But the Buddha’s focus in the practice is on being skillful in doing - keeping mindful, keeping alert, being ardent in the practice, finding a sense of “just right.” When they talk about the Middle Way, the middle-ness lies in the amount of effort that’s just right for where you are right now, which sometimes may require a lot of effort, sometimes just a little bit. You supply whatever kind of effort is required: That’s the kind of mental attitude you want to have. You’re up for whatever is needed.
+
+And you need to have a sense of what can be done right now. Sometimes you realize, okay, just a bare amount of concentration, a bare amount of mindfulness is all you can manage, so you stick with that. Don’t throw it away simply because it’s not up to your standards. As Ajaan Lee says, "Big things come from little things," and sometimes very tiny victories can add up. You stay with this breath and then with the next breath and then the next. And even though you may not feel all that settled or secure, it’s better than getting upset and saying, ”Well, gee, this isn’t amounting to anything; this is horrible,” and then spinning out of control.
+
+Take things one step at a time, whatever the step that’s required. If it requires you to step up high, okay, you step up high. If it’s simply a step along smooth ground, okay, you can step along smooth ground. But you take whatever step is
+
+needed, and whether it matches your idea of where you’d like to be right now,
+
+that’s not the issue. The issue is that you’re here, you’re doing what’s required, you’re doing the best that can be done in this situation.
+
+And as you stay with these little, tiny steps, they begin to take on more depth, more strength, more solidity. If you measure them against your idea of how
+
+you’d like things to be, you tend to throw them away. If you keep throwing things away, what do you have left? Nothing at all. Concentration starts out in little, tiny bits and pieces, which may not seem like much, but they’re better than nothing at all. A lot of the skill lies in learning how to stay with those bits and pieces. That’s all you have to do, just stay with them. They may not be impressive, they may not have lots of flashing lights or whatever you’ve experienced in the past, but they’re the beginning, they’re the seeds. If you stay with them, if you nourish them, they grow.
+
+That’s the sign of a discerning person: You make the most of what you’ve got. It may be a lot or it may be a little, but it’s what you’ve got. It may change from day to day, so be alert to that, be sensitive to that. Accept whatever difficulties there may be in the situation and do the best you can.
+
+So take whatever concentration you have. If it seems like a little, don’t berate it for being a little. Just work with it. Whatever sense of ease you can get out of the breathing, just stick with that. Even if it doesn’t seem to be the most wonderful breath you’ve ever had, well, okay, work with what you’ve got because these things do develop. If you give them time, they develop. If you’ve got a fruit on the tree—even if it’s just a little, tiny, hard, green fruit—you keep watering the roots, fertilizing the soil, looking after the causes, and the results will take care of themselves.
+
+Try to keep your efforts right here. In other words, don’t think about the past, don’t anticipate the future. What you’ve got will then have a chance to grow. It’s a very simple principle but we tend to forget it. But it’s by keeping things simple that the meditation works.
+
+Look at the questions the Buddha has us ask. They’re very simple questions. “Where’s the stress right now?” And before you get to the stress, ask “Where can the mind settle down?” If the mind hasn’t settled down, if it has no sense of ease, you can’t see anything clearly. So sometimes the only place it can settle down is with an ordinary feeling of okay-ness someplace in the body. Stick with that and then as things begin to grow, as they begin to get more solid and still, stick with the simple questions: “Where is the stress here?”
+
+It’s a question a seven-year-old can answer. At least, a seven-year-old can get his or her mind around it. So work with that. There are stories of arahants at the time of the Buddha who were seven years old. They weren’t dealing with any abstruse philosophical issues; they were just dealing very clearly with what was going on in their minds. The questions were simple enough for them to comprehend, and they were happy to stick with those simple questions. “Where is there stress? What are you doing that’s unnecessary and contributing to that stress?” When you can see, just drop it. That way your powers of perception get more and more precise, more and more subtle. But the essential question stays the same on each level of subtlety.
+
+So if we keep things simple, the meditation becomes a lot more manageable. And it’s this simple sort of questioning that helps see through the mind’s subterfuges. The mind sometimes has a tendency to get more and more abstract and to want to deal with really fancy-sounding thoughts. It’s like the emperor’s new clothes. The person who’s willing to say, “I don’t understand this; this doesn’t make any sense,” can usually rip right through a lot of subterfuge, a lot of denial.
+
+The things we think we understand, the things we think we know or at least we want to give the impression that we know: We have to learn to look behind them. Ask those simple questions. “Is that really so? Do you really know that for sure? What does that really mean? Is that a really helpful way to think?”
+
+Just keep asking these really simple, direct questions, and they’ll help clear up a lot of confusion in the mind.
+
+Your True Responsibility
+
+Sept-Oct 2001
+
+The very first time I went to stay with Ajaan Fuang, there was another young monk, a young man from Bangkok who had just ordained. His was one of those ordinations that had been forced on him by his fiancé. She had told him: “If you don’t ordain for a couple of weeks, I don’t want to marry you.”
+
+So he ordained as a monk for a couple of weeks and discovered that he liked it a lot more than he had anticipated. The day before he was to return to Bangkok, he was beginning to doubt whether he wanted to return to lay life. That night Ajaan Fuang gave a Dhamma talk on how when you come into this world you don’t come alone. You have your parents, you have other people who nursed you through life, raised you up, and so you have responsibilities to them. The next day the young man went off and a few days later disrobed in Bangkok.
+
+About a week later, I was beginning to feel bad about being a monk: I felt that I was being selfish and just looking out after myself. That night Ajaan Fuang gave a Dhamma talk about how when you come into this world you come alone. You’re responsible for your own birth, you’re responsible for your own actions, and you’re going to be responsible for how you die.
+
+Of course, these two contradictory messages simply showed how Ajaan Fuang could adapt his teachings to the needs of his audience. But of the two, I think the second teaching was ultimately the more true. When you come right down to it, there’s a part of you that’s totally alone as you come into the world, totally alone as you face your sufferings, totally alone as you leave here. Even when you are with other people, there’s an internal dialogue that’s just between you and yourself. That’s what you’ve got to be responsible for. The world would be a nice place if we could provide for each other’s happiness—and we can a little bit—but for the really deep down parts, we each have to be responsible for ourselves. If you constantly worry about this person and that person, no matter how close you are to them, there’s going to be a part of you that gets neglected that you really are responsible for.
+
+This is a lot of what the Buddha’s teaching is about: that you’ve got to take responsibility for yourself. Because who’s making the decisions? You can’t say, well, someone else made that decision for me or this person made that decision for me, because there’s got to be a part of you that decides to go along with those decisions for whatever reasons. So you have to look at those reasons. This is not to say that believing what other people say is bad. The Buddha never said that, but he says you have to take what other people say and look at what your mind says and then examine both very carefully to see which is more appropriate, which really does correspond more closely to the way things are, the way things should be, the most skillful way of reacting to a particular set of circumstances. If you don’t develop your own powers of mindfulness and alertness in these areas, your judgment is going to be clouded, and that’s going to cloud your life.
+
+So this is your first responsibility right here. And fortunately we do have the example of the Buddha to show us how it’s done. When we talk about taking refuge in the Buddha, it’s not that the Buddha is going to come down and do things for us. It means that he’s given us an example of how people make their
+
+own decisions wisely, skillfully. If you stop to think about the story of his life, it’s amazing. He did one of the things society really comes down hardest on. He left his wife right after she’d given birth to a child. I can’t think of any society anywhere in the world that condones that. And yet this is what he felt he had to do at that point. It turned out ultimately that his decision was right. He was able to come back and offer something priceless to his wife and to his child: nibbana, arahantship. In the Therigatha there’s a poem attributed to his wife, in which she says that all the suffering was worth it because he showed her how to be responsible for herself and to settle all her internal issues as well. The same goes for Rahula. He was able to settle all his issues, too.
+
+That’s the highest gift you can give to other people, and you can’t give it to them unless you’ve been able to settle all your issues first. So this is where your first responsibility lies: Straighten out the affairs in your own mind and then you’re in a position to be an example to others, to actually explain things to others in a way that they can benefit from.
+
+So when you’re meditating, this is precisely what you’re doing. You’re taking on responsibility for your own mind. We’re not sitting here waiting for someone to come in and inspire us or for some light to come floating in that will suddenly clear things up for us. We have to do the work.
+
+This is what the teaching on skillfulness is about. If there’s any one issue central to the Buddha’s teachings, it’s the issue of skillfulness. How do you develop a skill? All of his teachings revolve around that question. Take the Four Noble Truths: They deal with suffering and the end of suffering. What do you do to bring about the end of suffering? In other words, how do you arrange the issues in your mind skillfully so that they no longer lead to suffering?
+
+Even the Buddha’s teaching on causality can be compared to modern theories about learning. He tells precisely why it is that people are able to learn. There are feedback loops you can learn from. You’ve got the quality of attention in your mind that focuses on this, focuses on that, asks questions, frames issues so that you can work on them. This is not the rote feedback of a thermostat. There’s an element of attention and intention in there as well, all of which explains why we are able to learn. It’s because we’re able to learn that the teaching is useful for us. The Buddha teaches us how to frame our own questions. As we get more and more skillful about it, we begin to get a better and better sense of which questions in life are worth focusing on and which ones are best left aside; which ones are really important and which ones are only secondary.
+
+So when you’re meditating, part of the issue is learning how to answer the proper questions. “Why can’t I see things clearly in my own mind? Why is everything a mess?” Because the mind’s not quiet enough. What do you do to make it more quiet? Work on this question. Then as the mind begins to settle down, settle down, what can you do when it attains a state of stillness? What have you done to get here? What do you do to keep here? As you get more and more stable in that particular level of stillness, is there still a level of suffering or stress in here? When the mind is really still, the word suffering doesn’t really apply, but there is stress. Where is it? What goes along with it?
+
+So the Buddha’s teaching focuses on how to frame questions, for only when you frame the questions can you learn. That’s why you look at your own mistakes, honestly and truly. The Buddha’s first requisite, in setting out the criteria for the type of person he was willing to teach, was “someone who is
+
+honest and no deceiver.” In other words, someone who will recognize his or her own mistakes, admit them, and be willing to learn from them. You have to be able to ask, “Okay, what went wrong here?” You start from the outside and then you take that question deeper and deeper into the mind. You begin to realize how many features of the mind’s landscape are not given but are actually the result of choices you have made. You begin to develop a sensitivity for which choices are skillful and which ones are not. Your inner landscape becomes a lot more malleable than you thought it could be. When you ask the right questions, everything gets turned around for the better.
+
+We’re working on these two qualities needed to learn: intention and attention. The intention right now is to be mindful. Get the mind to settle down. Attention is watching: is the intention really working or not? If it’s not, what can you do to make it work better? This way you learn how to bring these two qualities closer and closer together, more and more clearly as the mind grows more and more still. You can start making better choices. Then, as your level of skill grows really great, you can go beyond even “right” choices. Things genuinely begin to open up in the mind. You see that what the Buddha taught about is really there: There really is a Deathless. There really is an unconditioned. When you get there you realize that your own actions were what got you there. But at that point even the
+
+sense of “you” doesn’t even exist. But that doesn’t matter because what is there is
+
+the ultimate happiness, the ultimate wellbeing. You know what lead to it. That’s what can be taught to other people: you do this, you do that, this is what worked... When you’re talking in this way, you’re talking with confidence. It’s not just something you read in a book, not some theory you’ve dreamed up. It’s something that actually worked inside you.
+
+Once you find something that worked inside you, you really have something special to offer other people. Your companionship with them is not just the kind of companionship that’s desperately trying to make up for the big hole of loneliness that each of us tends to carry around inside. You’ve been able to work through that lonely hole in yourself so it’s not lonely anymore. It’s no longer a hole. You’re coming from a sense of fullness. That’s when you have something really outside of the ordinary to share with people.
+
+So this is what’s meant by taking responsibility for yourself, for that gnawing sense inside that something is wrong, something is lacking. You look into it to see exactly where it is. You discover that what it comes down to is a huge lack of attention, lack of awareness of what’s going on inside, a kind of a bewilderment. The Buddha said that’s one of the two ways we react to suffering. First, there’s a sense of bewilderment: how does this happen? Then there‘s a search for somebody else to help show you the way out. Most of us put those two qualities together in very unskillful ways. But when you learn how to put them together in a skillful way, bewilderment turns into articulate questions; the search for someone who can help focuses on someone who can really act as an example for what you can do. You’ve got the Buddha, the Noble Sangha. So once you take those two qualities of bewilderment and search and begin to use them skillfully, you get to the point where you really have ended the problem of suffering in the mind in all of its manifestations. From that point on when you’re looking to other people, you’re not looking for them to solve your suffering for you. Instead, you’re in a position where your presence is a gift to them. You can do your best to help them to turn their own bewilderment and search in skillful directions.
+
+But the help can be really helpful only when you’ve taken care of your issues first. Those are the issues you’ve been carrying around for you don’t know how long. Those are the issues that each of us has been carrying around for eons and eons. And this is the only way to work through them. The burden in the mind finally gets lifted. That’s when you’ve taken care of what really is your responsibility. From that point on, everything else is purely a gift.
+
+The Line of Fire
+
+March, 2002
+
+So much of our suffering in life comes from putting ourselves in the line of
+
+fire. The body changes. Feelings change. Perceptions, thought constructs, consciousness: These things are always changing, and no matter how good they get, the goodness deteriorates. They’re stressful, inconstant, not-self. No matter how much we try to make them easeful, constant, and self, they just can’t quite make the grade. And when we put ourselves in them with our sense of identification –“This is me, this is mine,” and we hang on—then we’re putting ourselves in the line of fire. It’s like they’re shooting arrows all the time, and we position ourselves right in the way.
+
+So what should we do? Our life is just these things we experience. Our whole experience of the world is form, feelings, perceptions, fabrications, consciousness. We live with these things, so we have to learn how to live with them without getting in the line of fire. We don’t try to run away from them, but we learn how to let them go right through our range of awareness without snagging on to anything inside of us. In other words, we practice so that there’s nothing inside of us for them to hit. Then it’s like shooting through the air. There’s a passage where Ven. Moggallana compares his mind to space. He says that no matter how much you try to dye space - trying to make it yellow, white, blue, or any other color – the dye just doesn’t stick, for there’s nothing there to stick to. That’s the state of mind we should be working toward. In other words, instead of sucking these things in, laying claim to them, embracing them, holding onto them, saying, “This is me, this is mine,” we learn to pry them from our grasp.
+
+The reason we hold on is because of our fear that if we don’t hold onto them, we’re going to fall down. It’s like a little child learning to walk, afraid that if he doesn’t hold on to his parent’s hand he’ll fall down. In the beginning that’s the way it is when you’re learning to walk, but there comes a point where you don’t need to hold on, where you’re strong enough to walk without assistance.
+
+This is what the training of the mind is all about. You learn how not to hold on, because it’s when you don’t hold on, there’s no grasping. As Ajaan Lee says, “When there’s no grasping, there’s no sweat in the palms of your hands.” And when there’s no holding, there’s nothing that anybody can shoot, nothing that anybody can hit. The place where we hold on is where we get hit. When there’s no holding on, the mind is like wide-open space. You can shoot an arrow through space, but you can’t shoot space. That’s the quality we’re trying to develop in the mind.
+
+Now, before we get there we do have to learn how to hold on skillfully, to skillful things, skillful activities, skillful qualities of mind. You might think of the path of practice as a ladder: You go up rung by rung by rung. You can’t get to the higher rungs without first holding onto the lower rungs. And before you can let go of a lower rung, you have to have another, higher rung to hold onto. Your right hand is holding on to one rung so the left hand can let go of a lower rung and go up to a higher rung. Then you hold on with your left hand so that the right hand can let go and reach to a higher one, back and forth, back and forth like this. You’ve got to hold on. In other words, there are the precepts, there’s
+
+concentration, there’s discernment. You have to hold onto these things to get to where you want to go. Suppose you have a ladder and you want to get up on the roof. You have to hold onto the rungs of the ladder, one after another, until you’re securely on the roof. There’s nothing above you but sky. Then you let go.
+
+The other traditional image is taking a raft across the river. We all like the end of the story where the Buddha says that when you get to the other side of the river you don’t have to carry the raft around anymore. The person who takes the raft and carries it on his head as he walks further: that’s not the right approach at all. When you get to the other side you just leave the raft on the shore and you can walk on without any assistance. But while you’re crossing over the river, you need that raft; you’ve got to hold on. If you don’t, you fall into the water and get swept away.
+
+So the trick is learning to give the mind something really good to hold onto so that it doesn’t’ go out holding onto other things, grasping after other things, thinking it has to depend on this or that person, this or that thing that will end up sweeping it away. And what we’re developing here…they seem so ordinary, these qualities of mind. Take virtue, for instance. Virtue is not just following the precepts, but it’s a quality of mind that’s solid in its intentions. You make up your mind that you’re going to avoid evil, and then you just stick with that
+
+intention. That’s the essence of virtue. The word “sila” in Pali is related to the word “sela,” which means rock. In other words, there’s a solidity to that intention
+
+that you hold onto. You don’t let it go.
+
+Initially it may not seem like much, but you find that as you really hold onto these intentions—“Not to harm, not to harm, not to harm”—it really protects the mind from a lot of things. You learn not only not to harm people outside, but you also learn how not to harm yourself. And as you don’t harm yourself, you find resources of strength in your mind that you wouldn’t have guessed at otherwise. Because as long as the mind is harming itself, it keeps sapping its own strength, thinking in ways that get it depressed, thinking in ways that get it fearful, that just drain its strength away. So when you learn to give up those habits, you find resources of strength inside that you wouldn’t have anticipated. You can hold onto them.
+
+The same with concentration: the ability to keep the mind on one object, using mindfulness, using alertness, which are really basic, basic mental skills. Again, in the beginning they seem unremarkable. “How could you base your happiness on little things like this?” you might think. But you find that when you really do devote yourself to developing them and you give them priority, then they’re right there when you need them, when aging comes, when illness comes, when death comes. These are the things that will be able to help you.
+
+I was often struck by this fact when I looked through funeral books in Thailand. There, most monasteries have loads and loads of books in their bookcases that were published at funerals. It’s a custom over there, a way of making merit: publish a book at a funeral and dedicate the merit to the person who’s passed on. A lot of good Dhamma books have been printed that way. Now, most of the books, as a preface, will have a little biography of the person who passed away. And they always come to that part of the person’s life—if the person didn’t die of an accident—where they say, “And this little symptom here, which at first was just a little annoyance, started getting stronger and stronger and stronger. So the person had to finally go to see the doctor, and the doctor
+
+said, ‘It’s this disease.’ And the doctors did their very best, but there came a point where the doctors had to throw up their hands and say, ‘That’s as far as we can help you.’” And so what does a person do then? If the person doesn’t have these skills of mind, he or she is totally at sea.
+
+But if you’ve been meditating, you know what to do. You’re mindful of the breath; you’re mindful not to give in to the unskillful mental states; and you’re alert to what’s going on in the mind so, as soon as you catch it latching onto anything unskillful, you let go. Anything unskillful, anything that would weigh the mind down, you learn to let go, let go. And when the time comes to let go of the body, okay, you’ve practiced that. You’re prepared. Ajaan Fuang always said, “Meditation is learning how to die”—learning how to let go of the things you’ve been holding onto for so long and realizing you don’t have to. There’s the fear that if we let go of these things we’re going to be totally lost, but, no, that’s not the case at all. When you let go of the body, you find that that’s not the end. You let go of your concerns, you let go of your worries, and you’re actually much lighter. There’s a dimension to the mind that just doesn’t die, and if you’re really alert and mindful in your letting go, you can find it. Even if you’re not that alert, at least you protect the mind from falling into bad mental states, and this guarantees a good passing, a good transition. So these little skills, being alert, being mindful: they’re enough to really help you if you really hold onto them.
+
+The same with discernment: Develop your ability to see, “Where is there stress?” That’s the big issue in discernment, the Buddha said. “Where is there stress in the mind? What are you doing that causes stress? Can you learn how to stop doing that, learn how to let it go?” We feel like we’ve got to let go of the
+
+stress, but that’s not what will free you of stress. You comprehend stress. You let
+
+go of the craving. You let go of the cause, and the stress goes on its own. So the meditation is about learning to look for that craving, learning to catch the mind as it’s causing stress through its cravings, through its ignorance. And once you catch the mind in the act, you let go of that act and the craving behind it.
+
+But as long as you still haven’t gone all the way to the end, you hold onto that ability to ask the right questions about what’s going on in your mind right now: “Where am I causing myself stress right now? Where is the stress unnecessary? What do I stop doing so that the stress can come to an end?” Keep that question in mind. Other questions you let go, but these are the questions you have to keep in mind.
+
+So you find—as you hold onto virtue, concentration, discernment—that these qualities get you across. If you hold onto them, you can let go of everything else. You can think of awareness as like a big screen, like the screen on a window: Anything can go right through. Anything that comes at you can go right through. You don’t catch hold of it, you don’t latch onto it, you don’t put yourself in the line of fire. And so you find that you have the sense of spacious wellbeing that comes from being open, but without the dangers and wounds that come from opening yourself up to other things, by putting yourself in the line of fire. And you find this way, that as you’re not shooting yourself or putting yourself in the line of fire, the mind has strengths you wouldn’t have anticipated, whole reservoirs of strength that you can draw on when you need them.
+
+So don’t let the mind indulge in things that would drain its strength. Don’t weigh yourself down, because if you weigh yourself down with unnecessary things, it’s like weighing down the body: You carry lots of burdens on your
+
+shoulders all the time, and no wonder you don’t have the strength to do anything else. When you put down the burdens, you find that there’s lots of strength there in the mind that you hadn’t realized.
+
+So hold onto these practices—virtue, concentration, discernment—because if you hold onto them, you don’t have room in your hands to hold onto unskillful things. You find yourself letting go of all kinds of unskillful things you never even knew you were holding onto. And there’s no sense of loss. Sometimes there may be a sense of fear around the idea of letting go of certain things because you think you need them. But when you suddenly realize, “Hey, you don’t!” it can be surprising, not only in how much you can let go of, but also in how much stronger you are in the letting go.
+
+And then when you’ve let go of all the unskillful things in the mind, that’s when you can let go of the path, leave the raft on the shore. That’s when the mind is totally free. But until then, you want to maintain that sense of commitment to the path, because if you commit yourself to the path you’ll find that it’s committed to you. It will be there for you when you need it. It’s not like ordinary commitments in the world where you give all your time and energy, and “Whoops! There it goes,” you get let down. These things don’t let you down. We’ve got the Buddha’s word on that. We’ve got the word of all of his Noble Disciples to guarantee it. If you look after the path, the path will look after you, all the way to the point where you don’t need it any more. And it won’t get upset when you finally put it aside.
+
+The Pursuit of True Happiness
+
+April, 2002
+
+The practice of the Buddha’s teaching can been called the serious pursuit of
+
+true happiness, with the emphasis on the serious and the true. Serious not in the
+
+sense of grim but in the sense of sincere, unwilling to settle for anything less than
+
+genuine. True here means a happiness that doesn’t change, a happiness that
+
+doesn’t let you down. This is why so many of the Buddha’s teachings focus on suffering, because most of the happiness—or the things that we take for happiness in daily life—really do end up causing suffering as they change. So many times the happiness we gain turns into something else. And of the happiness that turns into pain, the Buddha asked, “Is it a noble thing to search for that kind of happiness? Is it a wise, skillful thing to search for that kind of happiness as an end in and of itself? If you know it’s going to let you down at some point, why put so much effort into it?” That’s the question he asked himself. That’s the question that led him to go off into the wilderness to find if there was a true happiness that could be gained through human effort.
+
+This is why we regularly chant the chant on aging, illness, death, and separation. These four reflections are what led the Buddha to go out into the
+
+wilderness. They gave him a feeling of samvega, a sense of dismay over the way
+
+of ordinary life, the pointlessness of so many things that we do. Samvega also implies a sense of urgency in wanting to find a way out. If his reflections had stopped right there, though, they would have been very depressing, but there’s also the fifth reflection that gave the Buddha the encouragement to go, that gave
+
+rise to a sense of pasada, or confidence: “Whatever we do for good or for evil to
+
+that will we fall heir.” “Is there a skillful way of action,” he asked himself, “that could lead beyond this constant wandering on, this constant gaining and losing, coming together and falling apart, that’s so typical of our ordinary lives?” After the course of six years of earnest experimenting he found that, yes, there is a way. That way was what he taught for the rest of his life, the one message that was so important that it was worth giving his whole life to: that the search for true happiness is not a futile search.
+
+He noticed that when we run up against suffering, when we run up against all the problems of our lives, there are two reactions. One is a sense of bewilderment: “Why is this happening?” Often: “Why is this happening to me?” And then there’s a search: “Is there someone who knows a way out?” And because they go together—the bewilderment and the search—oftentimes we look in the wrong places because we’re confused about what happiness is, what suffering is. So when he taught the four noble truths, he said, “With regard to the first truth, this is the task you want to accomplish: to comprehend suffering, to understand what’s creating such a burden on the mind.”
+
+He had discovered that there are two kinds of suffering: the stress in the changefulness in things in life, but also the unnecessary stress and suffering we cause ourselves over those changes. That’s the issue, because once that second suffering is wiped out, the changes don’t impinge on the mind at all. As in Ajaan Suwat’s teaching that I’ve repeated many times: “The mountain over there on the eastern horizon, is it heavy?” he would ask. And his answer would be “If you try
+
+to pick it up, yes; if you don’t try to pick it up, it’s not heavy for you. It may be heavy in and of itself, but if you don’t pick it up, it doesn’t impinge on you. It’s not an issue for you.” The same principle applies to suffering in general.
+
+As we sit here, what demands are being placed on you? All that’s being asked is that you sit relatively still for the hour, breathe, and watch the breath, stay with the breath. When the breath comes in, know that it’s coming in. When it goes out, know that it’s going out. Breathe as comfortably as you can. There are several ways of working with this. Try breathing deep and long for a while and if you notice any parts of the body that are feeling tense with a long breath, try to relax them. Or you can change the rhythm of your breathing. Experiment to see what feels good right now. So often we allow ourselves to breathe in ways that are uncomfortable, and yet nobody’s forcing us to do so. It’s just that we’re not paying attention. We don’t usually think that there’s anything there to pay attention to. Yet the energy of the breath is our basic energy in life. It stands to reason that if the breath energy is good, the body will be healthier, the mind will be more at ease. It will have a better place to stay.
+
+That’s all that’s asked of us, and yet we manage to develop 108 problems around it. There’s pain in the legs. Pain in the back. We can get all worked up about the pain, even though we know that as soon as we get up and change positions, the pain will go away. It’s not harmful pain. It’s not going to cause your leg to fall off or get gangrene or anything like that, and yet the mind can create all kinds of scenarios, torturing itself, tormenting itself. Or you can drag in things from the past, or worries about the future. Even this much can show you how clearly you create all sorts of unnecessary torment for yourself just sitting right here. The purpose of the meditation is to find out why, how it happens, and also how you can stop doing it, how you can drop these habits of the mind that cause so much unnecessary suffering.
+
+The easiest way to see these things is to go off and be alone, to find some seclusion. The texts talk about three types of seclusion: physical, mental, and seclusion from your mental baggage. For physical seclusion, you come out here to the monastery and you’re basically alone. You don’t deal with that many people. The burdens of constant social contact are cut away quite a bit. You’re not totally alone, but during the course of the day when you’re out under the trees, there you are, alone. That in and of itself lightens a lot of burdens on the body. That’s just physical seclusion, though, because you find often that your mind isn’t secluded. It’s dragging in all kinds of events, past and future, to keep it company. Even when it’s in the present, as the Buddha says, we live with craving as our companion. We want to feel this way, to think that way. Even if we don’t want to think about these things, they come up and we grab hold of them out of habit.
+
+So the first step in gaining mental seclusion is to cut away past and future and just be with the present moment. You use the breath as your anchor. When you’re with the breath, you know you’re in the present and you have the tools for dealing with whatever discomfort arises there. You can breathe in ways that minimize suffering or actually become actively refreshing, satisfying, absorbing. You find with this simple act of staying with the breath—as you stay with it longer and longer, trying to keep yourself as sensitive as possible to how the breathing feels, making a little adjustment here, a little adjustment there—that a sense of ease comes without your having to think about giving rise to it apart
+
+from what you’re doing with the breath. It’s just there from the continuity of your focus, the sensitivity of your focus. There can even be a sense of rapture, a sense of fullness. You breathe in feeling really refreshed, breathe out feeling really refreshed. And the more you get absorbed in the present moment like this, the further away the past and the future seem to be.
+
+This is a step above simple physical seclusion, because you find that once you’ve learned how to recognize this centered spot and how to maintain it in this secluded place, you can test whether you can maintain it in other contexts as well. Get up and walk around. Can you maintain that same sense of being centered as you’re walking, doing other work around the place, as you’re talking with other people? This is where you see a lot of the tricks the mind plays on itself, worrying, “What is that person thinking about me? How can I impress this person?” Nobody here wants to be impressed, and yet everybody’s trying to impress everyone else. When you learn how to drop those thoughts, how to stay centered while you’re with others, you find that life is lighter both for yourself and for the people around you.
+
+You work step by step to try to maintain this same steady sense of center whatever the context, whatever the situation, so that even when you’re not in physical seclusion, the mind is secluded. It’s no longer running after the future, running after the past. But it still has craving as its companion. That’s the final level of seclusion: when you can get rid of your companionship with craving.
+
+The commentaries call this upadhi viveka, being secluded from the mind’s
+
+acquisitions, or the mind’s baggage: your cravings, your clingings, your conceits, your ignorance. Dig into the present moment and find out exactly what’s happening here. How is it that the mind can still create suffering and stress even when you’re centered in the present moment? It’s very subtle. At that point it’s hard to call it suffering; it seems more like simple stress. But as you focus on
+
+what’s happening, you begin to see: You’re doing this that’s unnecessary, you’re doing that that’s unnecessary, creating needless burdens for the mind.
+
+It’s like a little child learning how to walk. When it first tries to walk, it moves not only its legs but also its arms, and sometimes its head, stiffens up its neck. It gets all kinds of unnecessary muscles involved because it doesn’t understand what’s necessary and what’s not. But as it gets more skilled at walking, more and more observant, it begins to see that it doesn’t have to move its arms in that way, doesn’t have to stiffen up its head in that way. It can begin to relax different parts of the body until walking is not such a major effort.
+
+The same with the meditation: As we center the mind we realize after a while that we’re doing all kinds of unnecessary things to keep it centered. To keep the mind strapped down in the present moment, we sometimes force it too much, sometimes thinking that we have to pull the breath here or pull the breath there or force the mind here, or tense this here or tense that there. When you begin to realize that these things aren’t necessary, you begin to let go. As you let go of those activities, the act of centering the mind becomes more natural—you’re more at ease in the present moment—and you get clearer and clearer about what you’re doing.
+
+It’s through peeling these layers away that you get to a point where ultimately you can let go of that companion here in the present moment, so that the mind is truly secluded. At that point it goes beyond even time and space. It touches another dimension. That’s when you learn what it’s like to be truly free
+
+of the stress and suffering you create for yourself. That’s when you have your first taste of what it’s like to find true happiness, true ease, true wellbeing.
+
+So the practice takes you step by step by step from all your entanglements and all this unnecessary suffering you cause yourself, peels them away, strips them away, layer by layer by layer, until you find that what the Buddha taught
+
+was true. Yes, through your own efforts, you can come to the spot where the
+
+mind opens up to this other dimension that he calls deathless, free from aging, free from illness, free from death, free from separation.
+
+So even though the Buddha may often talk about stress and suffering—it’s his first noble truth, it’s the starting point for all four noble truths—these truths are aiming in the direction of true happiness. The four noble truths are there to test anything that’s false. Like the touchstones they used in the past to test for true gold: You hold onto your stone to test everything that comes your way because you want the gold. Once you’ve got the gold, though, you can put the stone aside.
+
+So this is what we’re here for. We have that chant, “May I be happy, may I be free from stress and pain.” We chant that every night before the meditation to remind ourselves of why we’re here: for true happiness. And it reminds us to look at all the things we do throughout the day that get in the way of that wish. It’s one our most sincere wishes, and yet we’re always doing things to block it, to get in its way. So try to keep this in mind. Keep checking, “What are you doing that’s getting in the way of true happiness? What are the unnecessary things you feel you just can’t do without, that are a built-in part of your personality?” They don’t have to be. They may have deep roots, but they can be uprooted, these habits we have.
+
+We’re working on the skills right now that can uproot them until we reach the point where we’re not causing ourselves or the people around us any unnecessary stress or pain. It may sound simple. It may even sound small-minded and small-hearted for a spiritual goal, but if you actually follow the process you see that it takes you beyond what you might have imagined.
+
+How true is true happiness? Well, follow the process, be sensitive, be observant, be ingenious in the practice, and you’ll find out.
+
+Questions in the Practice
+
+Stop and ask yourself: What kinds of questions are you bringing to the
+
+practice? It’s like asking yourself the shape of your ignorance, because the shape of your ignorance is going to determine what you accept as a satisfactory answer.
+
+This is why the Buddha was very specific about which types of questions are worth asking and which kinds aren’t. They really shape the way you act, the way you look at the results of your actions, and the way you decide which results are acceptable and satisfactory. He recommended that the best questions to bring to the practice revolve around the questions of skill: What are you doing right now that’s skillful? What are you doing right now that’s not?
+
+These questions have lots of ramifications. They mean that your actions are important. Your actions shape the world you live in. Even though we may be sitting in the same room here, each of us is living in a different world of experience. Our feelings, our thoughts, our sense perceptions make up this world, and they’re very different from person to person. Your actions really do shape this world; actions from the past and actions from the present are combining right now to shape what you experience.
+
+So that’s why the Buddha said it’s important to focus on your actions, what you’re doing right now. Asking the question of skill adds another dimension as well. When you realize that you can develop more skillful ways of acting, more skillful ways of speaking, more skillful ways of thinking, you can work at mastering the processes of action so that they’ll have an positive impact on the shape of your life, the shape of your experience.
+
+Where does skill come from? Skill comes from being alert. Mindful. Inquisitive. These are all the qualities you want to develop in your practice.
+
+We start with the breath as our basic focus as a way of developing very basic mindfulness, very basic alertness, and also to pull our basic mindfulness and alertness close to the mind itself. All too often we’re sensitive to things happening miles away but miss what we’re doing, what we ourselves are doing, right here and now. The mind has an amazing tendency to hide itself from itself, particularly around the area of intention. What are you doing right now? Why are you doing it? When you bring your attention to the breath, these things become clearer because these intentions appear right next to the breath.
+
+So focusing on the breath is not simply a beginning exercise that you drop later for other things. It’s bringing the mind to the point where it should be: right here in the present, right where the body and the mind meet.
+
+The immediate question is: Are you skillful in staying with the breath? What is the most skillful way of focusing on the breath and maintaining that focus? Part of it has to do with the way you focus: where you put your attention, how much pressure you apply. But it also has to do with the question of how you are breathing. You really do have the choice of breathing in many different ways, you know. Take advantage of that freedom, take advantage of that potential for adjusting your experience of the present moment. It’s amazing how much a simple change in the way you breathe can put a whole new cast on things.
+
+So we work with this. We work with this object that’s right in front of us. It’s our basic exercise in beginning to answer that question about skill and lack of skill. As you work with the breath, you begin to get more sensitive to the mind as well. You begin to see which qualities of the mind are helpful and which are not.
+
+You then try to apply the same approach to the rest of your life. Try to bring to your whole life the same qualities of interest, attention, alertness, mindfulness, and inquisitiveness that you would bring to the meditation. You’ll start seeing that in all areas of your life that the question you keep asking—“ What’s the most skillful way to do this?”—is a really good question to ask. In whatever situation you’re in, this question reminds you of your potential to make a difference. It also helps you to see where your old habits are not really helpful to yourself or the people around you.
+
+This is a question that can really make a difference in life. There are so many questions out there that make no difference at all. There’s a long list in the Canon: “Is the world eternal or is it not eternal? Is the world finite or infinite? Is the soul the same thing as the body or is it something else? What happens to the people who attain the goal after death? Do they exist or not?” These questions don’t get you anywhere at all. In addition to not getting you anywhere, if you spend time pursuing them that’s unskillful kamma right there: wasting valuable time.
+
+The questions that the Buddha recommends focus on the Four Noble Truths, which are simply an extension of the questions on skill and lack of skill. In other words when you start asking the question of skill, it implies cause and effect: actions have results. It also implies that some actions are preferable to others because they give better results. Once you’ve got these variables you’ve got the framework for the Four Noble Truths: cause and effect, desirable and undesirable. Craving is an unskillful cause that gives rise to an undesirable result, which is suffering. The path of practice is a skillful cause that gives rise to a desirable effect: the end of suffering.
+
+The questions that revolve around these areas: these are the ones worth asking, these are the ones you should bring to your practice. As for the other questions, you can put them aside. Once you deal with the problem-“Why is it the mind is causing itself suffering? Can it learn ways not to cause itself suffering?”… Once you really explore those questions and come to the answers, then you can look at all those other questions that you put aside. You’ll see that either they get answered in the course of your practice or they weren’t really proper questions at all.
+
+So try to be really clear about what the really important issues in your life are, what the important questions are. This will have a shaping influence on how the whole rest of your practice goes. If you ask the right questions it can take you all the way to Awakening, to the end of suffering. And what could be better than that?
+
+The Bright Tunnel
+
+August, 2002
+
+“Those who don’t discern suffering.” It sounds strange. We all know that
+
+there’s suffering in life. The problem is that we don’t really look at it. We try to run away, we try to cover it up—anything not to have to deal with it. As a result, it keeps hounding us. No matter where we go, there it is, right at our heels.
+
+There comes a point where you have to turn around and face it: This is suffering, right here, right now. But if you try to look at it without any tools, without any skills, though, it can seem overwhelming.
+
+This is why we have the path of practice. You work on the precepts so that when you come to the issue of suffering, you don’t carry around a lot of guilt, a lot of denial. These two things really get in the way. If there’s guilt there may be a feeling that, “Maybe I deserve to suffer.” If there’s denial, then there’s the feeling, “This suffering is unjust, it shouldn’t be happening.” Or you just cover it up, pretending that it isn’t happening. Either way you don’t really get to the root of the problem. You don’t understand it.
+
+If you try to understand it without any concentration, it’s hard to maintain your focus. At the same time, it’s hard to maintain a sense of not being threatened by the suffering. This is why we work at developing our concentration, because concentration involves not only a focus but also a sense of wellbeing with your focus. You stay with the breath, get to know the breath, be friends with the breath. This is important. Many times, when we’re working with a meditation object and things don’t seem to be going well, the meditation object seems to become our enemy. If that’s your attitude, you’ll never be able to settle down with it.
+
+Realize that the breath is your friend. It’s what’s keeping you alive. If you get to know it, you find it has all sorts of other good qualities, other than maintaining mere survival. It can create a sense of ease, a sense of wellbeing, here in the present moment. You breathe in and feel full throughout the body; you breathe out and feel relaxed throughout the whole body.
+
+There’s a sense of energy and wellbeing that comes when you get to know the breath and learn to deal with it properly. When the sense of ease, energy, and wellbeing is solid, you can turn your attention to the issue of suffering.
+
+Learn how to discern suffering. Where is it? How is it happening? The Buddha says, basically, that it comes down to what he calls the five clinging aggregates. There’s form affected by clinging, feeling affected by clinging, perceptions, thought fabrications, consciousness, all of which are affected by clinging. The clinging is what turns them into suffering. The clinging is what tries to wring a happiness out of them that they simply don’t have to offer.
+
+Having to run around clinging to things all the time puts the mind in a miserable position. The other word for clinging is the act of taking sustenance: you’re feeding on these things. The mind that has to feed here, feed there—it’s a hungry mind. It’s a mind whose food source always has to be protected. It can’t go anywhere without that food source. So it’s limited, limited by its own need to cling. So you develop strength in the mind to bring it to the point where it doesn’t have to feed, doesn’t have to hold onto things.
+
+There are the five strengths: the strength of conviction in your own ability to do the practice, conviction in the powers of your own actions. The strengths of persistence, mindfulness, concentration, and discernment. Discernment is the one that keeps all the strengths strong, as you begin to take apart exactly where
+
+the clinging is, why it is.
+
+There are four kinds of clinging. You cling to sensual passion, you cling to views, you cling to set ways of doing things, and you cling, ultimately, to your sense of what you are, your sense of identification, saying, “This is me, this is mine.”
+
+The reason we cling is because we lack strength. So we develop these strengths of mind in order to see through the fact that, once the mind understands itself, understands its own situation, it doesn’t have to hold on anymore. Once its powers of concentration are strong enough, once its discernment matures—seeing exactly how clinging happens and how it can be taken apart—there’s no more need to cling. Then you can let go. You’ve fed the mind to the point where it doesn’t need to feed anymore.
+
+When the Buddha talks about the four Noble Truths, he says our duty with regard to suffering is to comprehend it. Comprehending means understanding to the point where you can let go. When you see that the suffering isn’t necessary, that the mind itself is what’s creating the causes, then you stop naturally. As long as you feel that you’ve got to hold onto things, to do this or that, to think this or that way—as long as the mind is constricted like this, it’s not going to let go. No matter how much you tell it, no matter how much you explain, no matter how many Dhamma books you read or Dhamma talks you listen to, it’s still going to hold on because it feels someplace deep down that it has to. It’s afraid to let go. But when you finally train the mind to develop discernment and see through the situation, when you realize that the clinging isn’t necessary and it’s suffering, then why do it? That’s when you can let go—you don’t have to tell the mind to let go. It automatically stops.
+
+So, we’re working on the path to the end of suffering. People sometimes complain that the Buddha focuses an awful lot on suffering. That’s because he has a cure. If you had a cure for suffering, wouldn’t you want to talk about it too?
+
+The people who are afraid to talk about suffering: they’re the ones who don’t have a cure. They always try to cover things up, pretend it’s not really that bad a situation: “This is the ordinary life that everybody lives, this is as good as it gets- so you might as well enjoy it, make the best of it.” That’s desperation.
+
+The Buddha wasn’t desperate. He was coming from a position of total freedom. He said “Look, if you really sit down and with the proper tools and the proper approach try to discern suffering, get to the point where you really comprehend it, and let go, you’ve solved all your problems in life.”
+
+So, who’s pessimistic and who’s optimistic? We might say that the Buddha’s realistic, but realistic in a way that sees through all the problems the mind creates for itself. Once the mind isn’t creating anymore problems for itself, you’re free to go wherever you like.
+
+At that point, the Buddha said, he had nothing more to teach. This is the basic issue: suffering and the end of suffering. Once you comprehend both sides of the Buddha’s teachings, what suffering is and how it can be brought to an end, and you directly experience the end of suffering, you’ve finished the Buddha’s teachings. As they say: “The Holy Life is completed. The task is done.” There’s
+
+nothing left for you to do. At that point you can live out the rest of your life in total freedom.
+
+So, even when the training seems onerous, when it seems long, still there’s light at the end of the tunnel. Actually, it’s not a dark tunnel, it’s a bright tunnel. The Buddha never asked you to do anything dishonest, anything you’d be ashamed to do—unlike the world outside.
+
+He offers you a skill. The Buddha never throws you in with the tigers without your magic bullet. When the Buddha tells you about the tasks with regard to the Noble Truths, that’s something you have to keep reminding yourself of over and over. Suffering is to be comprehended. Craving is to be abandoned.
+
+All too often we see our cravings as our friends. We work with them, try to bring them to completion. They never reach completion. There’s always one more, one more. When you realize that your “friends” are just causing you unnecessary suffering, you learn how to drop them.
+
+The world doesn’t have anything worth craving. When you see that, then whatever time you have left…. You don’t know how much you have left, but
+
+whatever you do have left—then as long as you’re following the Buddha’s path
+
+you’re making the best use of whatever time you’ve got.
+
+De-thinking
+
+August 27, 2002
+
+Meditation is not simply an exercise in how to stop thinking. Instead, it’s an
+
+exercise in gaining a sense of time and place in your thinking: learning when to think, when not to think, and how—when thinking’s appropriate—to think in the most useful ways.
+
+As you meditate, you start noticing the power of your perceptions. The labels you apply to things, the way you visualize things, really have a huge influence over what you see. You can see this clearly with the breath. We have certain preconceived notions of how the breath comes into the body, what we have to do in order to bring it into the body, how the process of breathing relates to the different parts of the body, and then we breathe in line with that. And many times it’s a caricature of what’s actually going on. So we have to learn to look at the process in other ways. Consciously change the way you conceive of your breathing; see what happens. At the very least it’ll give you a good insight into the relationship between mental events and physical events. It’s not always the case that the mind is just reacting to its experiences. Sometimes it’s shaping its experiences, too. If we don’t get a sense of how we shape things, we never really get a chance to look into the mind.
+
+For starters there’s the concept of the breath not as the air coming in and out of the lungs but the energy flow in the body. Some people have problems with this; others have no problems at all. But allow yourself to think in those ways and see what happens. And instead of thinking of the body pulling the breath in, remember that your primary experience of the body is breath, an energy flow. Our perceptions tend to solidify that, and so we often think that the solid parts of the body are our primary experience of the body, and that breath is something secondary. Actually, it’s the other way around. The sensation of energy is primary. So allow yourself to think in that other-way-around. Your sense of the solid body is sitting here in the breath, in the process of breathing. Whatever you perceive as an immediate, primary experience of “body,” think of it as breath.
+
+If you’re having trouble with the breathing, if your breath seems constricted or tight, remind yourself of this, and it’ll open up a lot. And then you can start asking other questions about how the breath comes in: “Where does it come in the body?” “Where are the entry points of the breath?” “What kind of energy comes in, goes out?” “What kind of energy is there already in the body and stays there?” “How are the in-and-out energy and the staying-there energy related?” You have to learn how to question these things. Otherwise you won’t see anything. The Japanese Zen master Dogen had a phrase for this; he called it “de-thinking thinking”: the questions you ask that take apart your assumptions. He has a nice passage where he says, “Is the body sitting in the mind, or is the mind sitting in the body?”, “Is the sitting sitting in the sitting?” These questions may sound strange, but then many of the pre-verbal assumptions that shape our experience of the present are pretty strange, too. It takes some pretty strange questions to notice those assumptions, to dig them up, to take them apart.
+
+Even as you’re just getting acquainted with the breath it’s good to ask these kinds of questions so that you know where you’re settling down and can really
+
+look at what you’re experiencing in the present moment. Most of the time there will be a filter on that experience, but you can learn how to change the filters and find which filters are more useful than others, which concepts are more useful than others.
+
+Part of this means using your ingenuity, part means using your powers of
+
+observation, and together they create a sense of interest: “What really is going on here?” As you get more and more absorbed in exploring these things, you find it
+
+easier and easier for the mind to settle down. And without even thinking about them, you’ve got what they call the four bases of success. There’s the desire, the interest, the persistence as you keep after it, the close attention you’re paying to it, and then the ingenuity you’re putting into the questions you ask. All these things contribute to concentration, help the concentration get settled, get solid, get very clear. It’s this ability to ask questions that makes all the difference in your practice.
+
+As you work with the breath in this way, the questions start building up to the Four Noble Truths: “Okay, where exactly is the stress?” “What’s causing it?” You see more and more subtle levels of stress simply by raising that question. If you don’t raise questions you’ll just sit here – in, out, in, out, in, out – and it becomes very mechanical. After a while you’ll wonder what you’re doing, because you’re not doing anything. So ask questions.
+
+Sometimes the questions should be aimed at getting the mind to settle down. If the mind isn’t settling down, ask yourself, “What’s going on?” “How is the way I relate to the breath a problem?” - because the breath itself normally is not a problem. It’s your relationship to it that’s the problem: your preconceived notions about it, the way you force yourself to breathe in this way, breathe in that way, your preconceived notions of what it means to be concentrated, how much tension you have to create in order to keep the mind present. You have to catch yourself doing these things to see where there’s unnecessary tension, unnecessary stress that’s making the process of meditation uncomfortable and disagreeable, and then learn to relax it. Sometimes it requires changing the point of your focus; sometimes it requires changing the quality of your focus; sometimes it requires changing your concept of what it means to be focused: “Who’s focusing?” “Is the mind in one spot and then trying to focus the mind in that one spot on another spot?” “Well, what does that do?” “Can you think of the awareness as already there at the spot you’re hoping to focus on?” When you ask questions like this, the mind begins to settle down as you find ways of making the experience of the present moment more pleasant, easier to deal with.
+
+Then once the mind is settled down, give it some time to stay there. This means that the next question is, “How do you keep it there?” “Which parts of the process were necessary to establish the focus and then once it’s focused, which parts can you let go?” “Which parts do you have to hold onto in order to maintain that focus?” Creating the focus and maintaining it are two separate processes. You learn this by learning how to ask those questions so that you notice things. Then when you learn how to maintain it, the next questions are, “Can you maintain it in all situations, this level of steadiness, this level of being centered?” “What gets in the way?”
+
+When you start seeing the things that get in the way, that’s the beginning of what might more directly be called insight. And the same holds when you’ve been sitting very quietly for a long period of time - maintaining that focus,
+
+maintaining that focus - until it seems more and more second nature. They question is, “Can you detect some subtle stress in that focus?” “And then what goes along with that stress?” “What vagrant movements in the mind are creating it?” Or, “What persistent movements in the mind are creating it?” You have to watch for both. This way you can give rise to insight in the process doing concentration.
+
+The Buddha never separated concentration practice from insight practice. Always he said that you develop tranquility and insight in order to attain concentration, and then once the concentration is there, you use the concentration to develop further tranquility and further insight. The two are all part of the same process.
+
+But it comes down to learning how to ask the right questions about the present moment and learning to ask which questions should be asked at which time, so that when the mind needs a place to settle down you’re not asking all sorts of insight questions; you’re asking the tranquility questions: “How can I keep this going, keep this going, keep this going?” “Or, if I can’t even get there yet, what can I do to get there?”
+
+So learning how to ask questions is an important skill in the practice, as it is in any skill. You have to be observant. You have to notice things, and a lot of times that means framing questions in the mind. The questions deal with issues of the Four Noble Truths: “How can we get the Path together?” “How can we maintain the Path, make it more subtle, make it stronger?” “How we can use those factors of the Path, the qualities you’re developing in your mind, the clarity of awareness, the steadiness of awareness…How can they be used to understand the questions of suffering and stress?” These are good questions.
+
+But even with good questions you have to have a sense of time and place. And it’s important to keep your questions limited to what’s absolutely necessary. I once received a letter from a monk who had 600 Dhamma questions he wanted me to answer. And my feeling was if you that many questions, none of them are really life-and-death questions. So I didn’t feel motivated to answer. If someone writes a letter with one question, I believe that person.
+
+So as you’re sitting here, try to sort out which are the most important questions for helping the mind right now? Everything else you can let go, put aside. The Buddha chose to answer only those questions that would lead to Awakening, lead to disenchantment, lead to clear seeing and knowing, right here in the present moment. An important part of the practice is learning which questions qualify and learning how to focus your intention on those, because those are the ones that really give results.
+
+Two Hands Washing
+
+September, 2002
+
+We often understand meditation as an exercise in learning how to stop
+
+thinking. That’s not really the case; meditation is an exercise in learning when to think, having a sense of time and place for your thinking, learning to develop the sensitivity to tell when that time and place is.
+
+For instance when you try to keep the mind with the breath, sometimes you find that the mind settles down very easily. They seem to fit. There’s very little problem: direct the mind to the breath and it settles down. Other times, though, it won’t settle down. You’ve got other issues going on. So, the first question you have to ask yourself when you find this happening is, “What’s going on in the mind?” What attitudes, what ideas left over from the course of the day, are getting in the way right now?
+
+Sometimes you find there’s residual anger, sometimes discouragement, sometimes frustration, sometimes restlessness. So the first question is how to deal with these factors. In some cases there are specific meditation exercises available. Recollection of the Sangha is good for when you’re feeling discouraged.
+
+Think about all of those stories in the Thera- and Theri- gathas about people who
+
+have been frustrated in their meditation. There’s one story about a monk who had been ordained 20 years—20 years—and still had no peace of mind. And yet, he was able to get past that obstacle. So this gives you encouragement. You realize, “If he can do it, I can do it. My frustration is nothing compared to his.” That kind of thinking helps give you perspective.
+
+If there’s lust, we have the 32 parts of the body. For anger, we’ve got goodwill. Restlessness requires not so much a thinking exercise as it does calming that energy, or at least putting it to use. In other words, if you find your mind all over the place, filled with a lot of restless energy, you say to yourself, “Ok, if it wants to think, give it something to think about.” You can go through the body, go through the bones. Start with the tips of the fingers, go up through the wrists, forearms, elbows up to the shoulders, and then, starting with the bones in the joints of the toes, go up through the foot all the way up to the skull.
+
+You can go through the body as many times like this as you find necessary— not only visualizing the bones, but also asking yourself “Where, right now, is that particular bone?” In other words, when you’re thinking about the bones in the joints in the fingers, think about the sensation at those joints right now. If you feel any tension or tightness, realize: that’s not a bone feeling. The bones don’t have any tension or tightness. That’s just the muscles around the bone. So you relax them. You go through the whole body this way. This is a very systematic way of relaxing all the different patterns of tension in the body. So at the same time that you’re taking that energy and putting it to use, you’re also learning how to relax the energy, the nervous part of the energy, so the mind finds it easier and easier to settle down. Then it can finally settle down with the breath when it’s had enough of this thinking.
+
+What this means is that, if the mind doesn’t want to settle down, your first step is to figure out why, and then to figure out an antidote. You’ll know the antidote has worked when the mind finally does become willing to settle down.
+
+Then once you’re with the breath, you can ask questions on a different level: “Exactly what sensations are breath? How does the body relate to the breath? Where does the in-breath begin? How do you tell if the breath is comfortable or not? What are your standards for comfort?” Again, you ask these questions when the mind is still having a little trouble settling in. If it’s finding it easy to settle down, the only question is, “How much stillness do you need? How much stillness is Right Concentration? When do you reach the point where you’ve gone beyond Right Concentration, lose your mindfulness, and everything blanks out?”
+
+In this case, there’s a minimal amount of thinking involved there, just enough to make sure you’re alert. Otherwise, you don’t want to analyze things too much, because you’ll destroy the stillness.
+
+So you see that there’s a time and a place for thinking. The question is learning how to get a sense of what that time and place is. This sense is something you can gain only through observation. In fact, one of the purposes in the meditation is to develop just that sensitivity in your powers of observation.
+
+The reason for this is that you’re trying to learn how to think in terms of the four noble truths. When the Buddha talked about appropriate attention, he defined it in terms of the four noble truths. Learning to see where the stress is, where’s the cause, where’s the cessation of stress, and what you’re doing to help the stress stop. The questions should be aimed in that direction. And you use those standards to judge the answers, the results that you get.
+
+The answers you get, many times, are not verbal answers. What you get is a state of mind. We’re dealing here with realities. The noble truths are not just words about stress and suffering. You’re dealing with the actual sensations. The same holds true with the path: it’s not just thoughts about the path; it’s the actual experience of the mind in Right Concentration, learning to recognize what that is, getting a sense of when your energy is too much, when your energy is not enough.
+
+So the four noble truths function in two ways here, one in framing your questions, one in judging the answers, the results, that you get. As your mind goes through the various levels of concentration, it begins to get more subtle insight into these questions. The four noble truths continue as your standards, but your understanding of them, your sensitivity toward them, gets more and more refined. Still, the basic framework is always the same.
+
+Some people find it easy to think in these terms. Others find their minds going off in other terms, getting into more metaphysical issues, more abstract issues. That’s when your thinking has gone off the deep end. It’s unskillful thinking for that particular time. You have to keep coming back to the issue, “Is there stress right now? What can I do to eliminate the stress I’m conscious of?” That means, “What am I doing to create that stress? Is it necessary? How can I learn to stop?”
+
+Those are the questions coming from the noble truths. When you get an answer, check it against the noble truths. Has the stress actually gotten less? Has your concentration gotten stronger? Has your mindfulness gotten stronger? Is your discernment sharper? If so, you’re headed in the right direction. You’re getting more and more skillful in your thinking. That’s something a lot of people don’t like to hear. We like to think, “I’m pretty good at thinking things through, all I need to do now is to learn how not to think.”
+
+And with some people that is the case. They do have a tendency to analyze
+
+things pretty skillfully and all they need is the stillness of mind that enables that insight to go deeper. But most of us—and this includes many very intelligent people—need to learn how to think in new ways, getting a sense for which kind of thinking is really counterproductive, which kind is helpful.
+
+Meditation gives us the time and the space to watch, to get a sense of cause and effect in our thinking. We learn to see thinking as the Buddha saw it: as an action, as part of a causal chain. “Where does this thought come from, where is it going?” Instead of getting carried away with the content of thoughts that are really mind-blowing, or new, we simply watch them as part of a cause and effect
+
+chain, a process, to see what they do. Sometimes new thoughts are very helpful,
+
+sometimes they’re not, so you have to be very careful about them.
+
+What this means is that we’re learning to use our thinking process as part of a skill. When the time comes that you’ve thought yourself to a good, still place in the mind, you can stop thinking. Stay with that stillness for a while, a good long while. When you’ve had enough, ask yourself what new perspective that stillness gives you on the perspective of suffering and stress. This way your stillness and your thinking help each other along.
+
+Ajaan Lee makes the comparison to a right and a left foot. We need both to walk. Kee Nanayon talks about two hands washing each other. You can’t have one hand just washing itself. You need the right hand to wash the left hand, and
+
+the left to wash the right. When they work together, they both get clean.
+
+Respect for Concentration
+
+October, 2002
+
+Respect for concentration goes two ways: respect for your own concentration
+
+and respect for the concentration of the people around you.  Respect for your own concentration means that you really give value to the
+
+little quiet moments in the mind. They’re the spaces we tend not to look at. We’re more interested in the thoughts in the mind—what we can think about this, what we can think about that—and the few moments when the mind seems to rest between its thoughts don’t seem to hold much interest at all.
+
+The beginning skill of meditation lies in learning how to notice them. As you let go of a particular thought, let go of a particular creation of the mind, the mind is actually released from that thought, and there’s a moment of stillness. What you want to do is learn to appreciate those moments, give them more space so that they connect. Even though there may be thoughts murmuring in the back corners of the mind, that’s not where your attention is. Your attention is with the stillness. You give it space. You pay attention to it. You’re careful about it.
+
+There’s the word citta in Pali. One meaning is “mind” but another meaning is
+
+“intent.” You’re really intent on these things. Focus your attention on the still moments. Give them your full attention. Give them space to grow so you don’t step all over them.
+
+Most of us, when we meditate, are looking for the flashing lights and bright visions, really extraordinary states of mind. We have to keep reminding ourselves that the flashing lights usually tend to be around casinos. Pretty unreliable places to go into. The aspects of the mind that you can really depend on are more like the grass on the path—because there in the grass are the little shoots of trees that really do hold promise. Little shoots of oak trees, little shoots of pine trees—whatever. If you give them space, give them fertilizer and water, make sure bugs don’t eat them, they begin to grow. What may not look all that promising to begin with suddenly becomes major shelter for the mind.
+
+Having respect for concentration also means that you have to rearrange your life. Look at the ways in which you’re draining the mind of its energy, draining the mind of its focus in terms of the things you read, listen to, watch on TV, the people you hang around with. You have to look intently at your life to see if it’s a life conducive to concentration or not, conducive to the health of your mind or not, and be willing to make changes. Subject the mind to fewer and fewer distractions, fewer and fewer stimuli that are going to excite greed, anger, delusion—so that the mind has space to gather its strength, so that it’s not always having to contend with drains on its energy. In other words, you have to learn to husband your strength for the things that are really important.
+
+There’s a story they tell of a Chinese martial arts master whose students were going to be giving a demonstration one day in a pavilion in the forest. The road to the pavilion had a donkey on the side, and the donkey was known for its meanness. It liked to kick people who came past on the road. So the martial arts students came along and said, “Hey, let’s test our skills here with the donkey before we get to the pavilion.”
+
+The first one goes up to the donkey, tries one stance, and gets kicked across the road. The second student says, “Ah, that’s not how you do it, you fool, you do it like this!” He went up with another stance but he got kicked across the road as well. In the end all the students got kicked across the road, no matter what stance they took. So they consulted among themselves and said, “What would the master do?”
+
+Well, the master was coming along behind them, so they hid in the bushes by the road to watch him—and as soon as he got to the donkey, he kept his distance and walked way around it.
+
+The sign of a good warrior is knowing which battles to take up and which to leave alone. It’s not that you go running in and take on everything at once. You look at your strength, you look at the issues, what’s really important, what’s really worth expending your strength and energy on, and save your energy for the important things. Learn how not to waste it.
+
+The other side of respect for concentration is respect for other people’s concentration. We here at the monastery don’t have a “No Speaking” rule. But it’s wise to keep your speech to an absolute minimum. This is an area where, if people want to be quiet, we should learn how to respect their desire to be quiet without their having to explain an awful lot. In other words, they come to the meal, they want to eat, they want to eat quietly—you leave them alone.
+
+It’s good training to learn to look at your speech. If you have an absolute rule against speaking, then the mind just goes on chattering to itself, chattering all the time, to fill up the space. But if you’re allowed to speak, you’re reminded to speak wisely. Ajaan Fuang had a good rule for this. He said, “Ask yourself before you say anything, ‘Is this really necessary?’ If it’s not, you don’t say it.”
+
+I found that when I first started to try to apply this rule to my own speech, it cut my speech down about 95%. You come to realize that a lot of the chatter in the course of the day is just that: idle chatter. It fills up the space, and you know what filler usually is: styrofoam peanuts. Shredded newspapers.
+
+The problem is when you’re trying to fill up space, many times whatever comes into your mind pops out of your mouth without your really thinking about what the consequences are going to be. A lot of the speech that creates problems is composed of things you didn’t really intend to say but somehow they managed to come out.
+
+So, try to show respect for the concentration of people around you, too. This way the fact that we have a lot of people here, instead of becoming a hindrance, actually becomes a help. Many people notice that when you sit in a room full of meditators it’s a lot easier to get concentrated. But then if you leave the room and everyone chatters, it just destroys it.
+
+So, show some respect for concentration because it’s basic respect for the mind. Concentration is what all the other good qualities—like discernment and release—depend on. To show respect for concentration is to show respect for our desire for true happiness. Give respect to the fact that other people desire true happiness as well. This is the path. The Buddha once said that Right Concentration is the heart of the Eightfold Path. The other seven factors are its requisites, things that help it along, that give it strength, but concentration itself is the heart.
+
+So, keep that in mind. Try to maintain that heart, don’t let it stop beating because it’s hard to get started again. If it beats erratically that’s not much help,
+
+either. You want a steadiness to the concentration so that it becomes your background, the basic center for the mind.
+
+We’re working on a concentration that’s centered but expansive. You have one spot where your main focus is, but the range of your awareness should spread to fill the whole body. This way there are no hidden corners, no places where denial or other dishonest mind functions can hide.
+
+You want a spaciousness where thoughts can come up into the mind without destroying the concentration. If you want to, you can watch them come, you can watch them go, but the concentration, the sense of foundation remains—because
+
+that’s what samadhi means: a mind established, a mind solid in its footing.
+
+So, you want a type of concentration that has space for things to come and go. You might want to think of your awareness as a large screen, in the sense of a screen on a window. It’s a net through which the air can pass. It’s a particularly useful image for when you’re sitting where there’s a lot of noise. You can try to fight or resist the noise, but that destroys your concentration, turns it into a real battle. But if you think of your awareness as a big screen with a lot of holes that the noise can come through and just go out the other side without your having to react, that makes it a lot easier. There’s much less struggle. There’s space in your concentration for things to come and go without destroying the concentration.
+
+That applies to thoughts as well. They can come and they can go but you don’t have to get involved in their content, those little worlds that exist within a thought.
+
+This is the kind of concentration that forms a basis for discernment. In other words, you can begin to analyze the concentration. You can think, but it doesn’t knock the concentration off its foundation. When the Buddha talk about the
+
+concentrated mind, he called it “mahaggattam cittam,” which means an expanded
+
+mind. Not a narrowed mind. It’s an expanded mind. That’s the kind of concentration that allows discernment to arise, that allows the factors of the path to develop.
+
+Now, your mind can expand that way, your concentration can expand that way, but you have to start small. Like anything solid and big. I’m always amazed at the redwood trees in northern California: their seeds are infinitesimal, but when one of them takes hold, it can become an enormous, awe-inspiring tree.
+
+The same with concentration. We all have concentration to one extent or another. Momentary concentration is something everybody has. To practice concentration means learning to recognize those moments and give them space so they can grow to the point where they can take over, so they connect and become the natural home for the mind.
+
+Homes need a solid, large foundation so they don’t tip over; and that’s the kind of concentration you want. If you give respect to your concentration that’s the kind of foundation you’ll get.
+
+Respect, Confidence, & Patience
+
+Ajaan Suwat often would begin his Dhamma talks by saying that we should approach the practice with an attitude of respect, an attitude of confidence. Now the respect and the confidence go both ways: respect for the path and respect for ourselves; confidence in the path, confidence in ourselves. Because, after all, what is the basic message of the Buddha’s teachings? It’s that through human effort we can achieve total happiness, an unconditioned happiness. The results of our efforts can go that far. So we should have respect for this potential within ourselves.
+
+At the same time, we should have respect for the experience of people who have been on the path before us, because they can show us a lot, help us save a lot of time and a lot of grief, help keep us on the path. And then we should have respect for the principle of cause and effect itself, for that’s what the Buddha awakened to on the night of his Awakening: the role that human action plays in shaping our experience. It’s not an arbitrary role. It may be complex, but it does follow certain rules. We should have respect for that principle as well.
+
+The principle of kamma means that sometimes our actions bear immediate results and sometimes they take time. In light of that fact, we have to bring not only an attitude of respect and confidence to the practice, but also one of patience. We’re here to learn, and it may take time to learn. So when things aren’t going well, remind yourself that this process takes time. That way you don’t browbeat yourself or get down on yourself. You can be more realistic about what you’re undertaking here, which is the total re-training of the mind, learning radically new habits in how you relate to the body, how you relate to your feelings, how you relate to your perceptions, your thought-constructs, even how you relate to consciousness.
+
+The Buddha points out that we tend to relate to these things in unskillful ways, so we’ve got to learn new skills. Following the path means that, instead of making a burden out of these things, we actually turn them into the path of true happiness. Now that’s going to take time, because some of these issues are very subtle. What is your relationship to feelings? What is your relationship to consciousness? These are subtle issues. It takes time to work them through.
+
+So before you settle down to the meditation, try to develop an attitude of patience, an attitude of respect, an attitude of confidence. We often think of patience and confidence as the end-products of the meditation, but we should have some skill in developing these attitudes already. In ordinary daily life, how do you build up an attitude of confidence? How do you build up an attitude of respect? How do you build up an attitude of patience? You’ve been doing it all along in some areas of your life to a greater or lesser extent, so try to bring these skills to bear on this practice. After all, this is a practice that requires precision. It’s not something you can rush into or bluff your way through. It takes time and patience to develop the kind of detailed skills, the detailed sensitivities that are really required.
+
+When you’re clear about this fact, you find it a lot easier to overcome obstacles on the path. You’re here to learn a skill, and skills often require trial
+
+and error, learning from mistakes. A friend of mine once went to Japan to study pottery with one of the living national treasures they have over there. At the beginning of her stay she’d often get frustrated because she’d send her pots into the kiln every evening, and the next morning find that many of them had come out broken or unevenly burnt, whereas her teacher’s pots seemed to come out perfectly every time, every time. Then one morning she came into the studio and found him sitting in the middle of the kiln: Many of his pots from the previous night’s batch had exploded in the kiln, but he wasn’t upset. He was simply sitting there trying to figure out why. That’s what makes the difference between a person who really does develop a skill and a person who can’t quite make it: the ability not to get upset by your mistakes but simply to look at them as learning experiences. If you have that much respect for yourself, that much respect for the principle of cause and effect, you find it easier and easier to be patient.
+
+In other words you don’t take it as a reflection on yourself that you made a mistake, because everybody makes mistakes. Look at the Buddha’s life up until the night of his Awakening: Many times it was one mistake after another. He tried different methods that just didn’t work out, didn’t work out. He listened to other people to learn what they had to offer, and then when that didn’t satisfy him he went off into the forest to make his own mistakes. Only after many years of mistakes did he finally get on the right path. What saw him through this period was his sense of confidence, that there must be a way to true happiness and that if it existed he was going to find it.
+
+Patience, confidence, respect: These things all go together. So try to develop them as an attitude that you bring to the practice, every time, every time, every time.
+
+We sometimes think of the bowing and the chanting here as something extraneous to the meditation, but that’s not the case at all. They help us to develop the right attitude. When we bow to show respect to the Buddha, we’re showing respect for the potential of human beings. It’s like a mirror that reflects back on us. We respect him because he teaches us to respect the best things in ourselves: our desire for true happiness, our abilities in terms of our powers of observation, mindfulness, concentration, compassion, and goodwill. So it’s good to bow down to that reminder everyday. As for the chanting—respect for the Buddha, the Dhamma and the Sangha, and then the various reflections we chant in translation—these remind of us of why we are practicing.
+
+The chant this evening on aging, illness, and death encourages an attitude of samvega, which is difficult to translate. It means a combination of dismay over the meaninglessness of life as it’s ordinarily lived, coupled with a sense of awe and a sense of urgency to find a way out. But the chant doesn’t end there. It also reminds us of the principle of kamma in order to develop another attitude: one of confidence. Our actions, and nothing else, are the factors that are going to get us out of this dilemma. So our actions are important.
+
+There are so many voices in the world telling us that our actions aren’t important: politicians who say that they don’t care about what people think, that they’re just going to do what they want to do; scientists who tell us that nothing we can do can change the general course of nature. Then there’s cosmological time, geological time, in which our efforts seem to be very puny and insignificant. But the teaching on kamma reminds us that cosmological time may apply to the
+
+world out there, but the world of your lived experience is shaped by your actions, and this is the world that matters. And it’s because it matters that we want to develop these skills, however much time it may take, however much patience it may require. These are skills that are worth mastering even if you don’t get all the way to the end of the path in this lifetime. Whatever progress you do make on the path means that much less suffering, that much more skill in how you relate to the things that would normally cause you to suffer or would normally bring about reactions that would make you suffer.
+
+So a lot of the practice lies in the attitude, the right attitude that underlies all the other right factors of the path. If you catch yourself in the midst of the meditation with the wrong kind of attitude, stop. Think for a while about what you’re doing here and why you’re doing it. You can drop your meditation object for that period of time if you want to. You can change to another topic.
+
+There are classical lists of topics for recollection when you find that you’re frustrated, when there’s aversion, lust, fear, anxiety. There are specific topics you can think about. You can think about the Buddha, the Dhamma, and the Sangha to develop a sense of confidence, to overcome any sense of aversion you may have either to your meditation object or to yourself. Think about the members of the Noble Sangha in the past who went through lots of difficulties, years of effort, and couldn’t make any headway, and yet ultimately were able to gain Awakening. They developed the patience needed to do that. They were human beings; you’re a human being. You can develop that patience as well. Once you find that your attitude is more appropriate, then you can get back to the breath.
+
+All of the ten topics for recollection are types of meditation. We tend to think of meditation as only one or two vipassana techniques, but that’s not true. There are lots of techniques for dealing with all different kinds of problems in the mind. When teachers give you just one technique, it’s sort of one-size-fits-all, or Henry Ford’s old maxim: People can have whatever color car they want as long as it’s black. Given the complexity of the mind, there’s no way that one single technique is going to work in all cases, or that one particular person will have to stick to one technique all the time. You have to realize that the Buddha offers a whole toolbox here, lots of different methods, lots of different approaches.
+
+Even within the one topic of breath meditation, Ajaan Lee’s Seven Steps provide many different ways of approaching the mind when it’s out of balance. Sometimes you need to focus on the length of the breath; other times you focus on spreading the breath throughout the body; other times you have to be very careful about where you’re focused in the body. All of these are component factors. Ajaan Fuang once noted that when someone is having trouble in concentration practice, or the concentration of the practice is getting out of balance, it’s usually because one of these factors is lacking.
+
+So it’s not that you blindly follow steps one, two, three, four, five, six, seven. You find which aspect of the mind is out of balance and then focus on the appropriate step until you find that you’ve got all of them covered. Again, this is a question of trial and error, testing to see which recommendation is appropriate for which particular problem. And as I said at the being, trial and error require patience. Equanimity. The willingness to learn. The ability to step back a bit from whatever is going on, when it’s not going well, and taking a good, long look at it.
+
+And try and put yourself in good humor. One of the things I noticed about all the really great meditation teachers in Thailand was that they had good senses of
+
+humor. They found it easy to direct that humor at themselves. And as someone has pointed out, the ability to step back from things is what allows a sense of humor to begin with. If you’re totally immersed in your problem, you begin to lose perspective and nothing is funny at all. Step back a bit, learn to laugh at yourself in a good-humored way—not in a sarcastic way, but a good-humored way, a sympathetic way—and then get on with the practice. You’ll find then that things go a lot better.
+
+So all of this comes under the issue of right attitude. It’s not listed as one of the factors of the path, but it underlies everything. After all, the Buddha taught the four noble truths because he had the right attitude toward suffering: that there must be a way for human beings to overcome suffering, to gain release from suffering. He had the right attitude toward the amount of work it might take to do this, at the same time seeing that once this task was accomplished it would be more than worth the effort. Once this one problem was dealt with, there would be no other problems in life.
+
+All problems come down to this one: the unskillful ways we relate to the
+
+things we identify with as me or mine. The practice means learning to relate to
+
+those things in new ways that are skillful, so that instead of causing suffering they turn into the path to the end of suffering.
+
+So look at this as a friendly path. Think of all the people who have tried the path before as your friends: They are happy to have you join them. And think of the things within body and mind that you’d like to be friendly with, too: your breath, the good qualities of your mind. This is a practice that allows you to develop those friendships—friendships that will never leave you, that will never turn on you, where your friends keep on giving. That kind of friendship takes time but it’s more than worth the effort. To develop that kind of friendship you have to be giving, too. What are you asked to give? You’re asked to give of your patience, give of your respect, give of your confidence. Those are good things to give, because you never run out. When you find the proper object for your respect, you find that respect becomes a strength—something you can rely on, something you can depend on, all the way to the end of suffering.
+
+Wide-open Awareness
+
+July 1, 2003
+
+There’s a lot going on in our range of awareness. A famous philosopher once
+
+called it a big buzzing confusion: input through your ears, different sensations in your body, and whole worlds of thought running through your mind. And the trick of meditation is to take just one level of sensation and stick with it, hang on to it. It’s like watching a buoy floating on the water. Even though the waves may go up and down, you keep your eyesight focused on the buoy. No matter what else is going on—the currents coming past, the waves, the wind, whatever—you keep your eyes focused just on that one spot, and you find that it’s tranquilizing.
+
+Even more so when you’re meditating on the body, meditating on the breath. The breath is always coming in, going out. Even when it’s not coming in and going out, there’s a kind of buzzing energy throughout the whole body. That energy forms the potential for allowing the breath to come in and go out. It counts as breath energy as well. Even though it’s still, it’s a kind of energy. When we’re meditating we want to keep our attention focused just on that one level, no matter what else is happening. The pattern of light from the candle flame shining on your eyelids, the sounds in the background, the sounds of the Dhamma talk: Just leave those in the background. You don’t have to shut them off, but you don’t want to shift your focus to them, either. Keep your focus right here on the breath. You can choose any spot in the body where it’s easy to see that now the breath is coming in, now the breath is going out.
+
+And try to maintain that spot with a sense of relaxation. Don’t tighten up the spot. Allow it to relax and then take that relaxed feeling as your standard. That’s what you want to hold onto, or maybe better, that’s what you want to keep tabs on. You don’t want to hold on in the sense of grasping, because when you grasp it, that tightens it up again. Just keep tabs on it, keep your finger on it, watch as things come in, go out, but you stay right here.
+
+When the mind goes wandering off to other things, ask it, “What are you looking for? Why are you going out looking to stir up trouble?” Because that’s what the mind is, it’s a troublemaker. It’s always wanting to stick its nose into this, stick its nose into that, and of course there’s a time and a place for that. Without that kind of curiosity, very little would have developed in the human race. But at the same time, very little trouble would have developed in the human race, too. As we meditate we’re not training ourselves to be zombies or to be totally indifferent. We’re learning that there’s a time and a place to be interested in things, and a time and a place when the mind has to rest. And right now is a time and a place to rest. If you want to be curious, be curious about the breath. Keep your curiosity focused in here. Don’t let it go flashing out.
+
+Normally when the mind goes out, it doesn’t just look at things. It gets involved. A thought comes stirring into the mind, and we just don’t leave it at that. We change it, we dress it up, we take it apart, we meddle with it. Our minds really are meddlesome. They can’t leave good enough alone. So the attitude you’ve got to develop while you’re here right now is that whatever else is happening outside right now is none of your concern. You don’t have to get interested in it; you don’t have to meddle with it at all. Just let it be. You stay
+
+with the breath. If you’re going to meddle with anything, meddle with the breath. Change the rhythm of breathing to see what feels good. Change the depth of the breath, the pace, the rhythm of the breath. You can change the point that you’re focusing on in the body. But as long as you stay on this level—the level of the energy you’ve got here in the body—you’re fine.
+
+When you can stay here, it’s like having an anchor. It’s like being grounded. When the mind goes off into its worlds—thinking about this person, that person, this situation, that situation—it often loses touch with present reality. It goes off into another world. Its feet come floating off the ground and you go drifting away. You’re like a kite whose string is cut. Who knows where you’ll go drifting to and where the wind will finally drop you. You can get tangled in a tree, tangled in electric wires, all sorts of places where you can end up getting tangled, which wasn’t your intention to begin with. You were actually looking into something else, but it led step by step by step to someplace else that you hadn’t expected. And it’s all because you don’t have your feet firmly planted on the ground. You don’t have a grounding.
+
+Without this grounding, all of your ideas about life, what’s good, what’s bad, get all mixed up. What’s worthwhile, what’s not: They all get confused because you don’t have any grounding. Without any grounding, you don’t have any clear reference point for north, south, east, or west. You’re just blowing around. But when you stay with the breath, the mind has a foundation. You begin to notice that when certain kinds of thoughts come into the mind they cause a tensing up. They really do cause parts of the mind to shut off from other parts of the mind.
+
+That allows for the mind’s tendency to deceive itself. It’s like when you were a kid and you got a magazine with pictures that you knew that you were not suppose to look at, and so you went off and hid under the covers so that nobody would see you. Of course anybody who was looking in the room seeing you sitting under the covers in the bed would realize that something was up. But the mind plays that game, not only with other people but also with itself. It starts thinking about certain things, knowing, “I really shouldn’t be thinking about this but I want to anyhow.” And so you erect barriers around that thought. What you remember about what you should and shouldn’t be doing gets blocked out. And of course that doesn’t really make your sense of right and wrong go away. It compartmentalizes your mind into different cutoff areas. And as a result, you end up living with a lot of ignorance.
+
+So one of the important things about staying right here with the sensation of the breath energy in the body is that you can notice when those barriers appear in the mind. You know that the barriers are artificial, you know that they were intended, you know that they were deceitful. And after a while there comes a point where you say, “Okay, I’ve had enough of this. This is not really accomplishing anything at all, these little compartments in the mind.” And that way there’s less divisiveness in your own mind. When you start getting divisive in your own mind, it’s an easy next step to start getting divisive with other people. But when you learn not to put up these dividing walls, when everything in the mind has to be open and above board, you see that there are certain ways of thinking, certain ways of paying attention, that you are just ashamed to do. Greed comes, and you realize that if you’re going to go with the greed, you’ve got to erect barriers that are uncomfortable in the mind. Anger comes, and what so often happens with anger is that things get shut down in the mind so that only
+
+two courses seem open to you: Either you’re going to let it all out or else you’re going to suppress it and bottle it up. And of course it’s obvious that you want to let it all out if you can. You forget that there are lots of other alternatives to what you find yourself wanting to do and say. The same principle holds with all those other very unskillful and dishonest emotions we have in the mind: They can do their thing only when your sense of right and wrong gets barricaded off in the corner.
+
+When you’re working with the breath, when you’re working with sense of the breathing throughout the whole body, it gets harder and harder to put up those barricades because you see yourself doing it. It gets harder to pretend that you’re not. And this way, when there’s more openness and more honesty in the mind, it’s a better-behaved mind. It causes you less trouble. You’re not sticking your nose into business that isn’t really your own. You’re not meddling with things that you don’t really want to meddle with. You find that the mind causes itself less and less trouble all the time—all because of this ability to be more open with yourself, more open internally.
+
+And this is not just a mental openness; it’s a bodily openness, too. This is why we work with the breath, so that this openness seeps down into the body as well. All those subconscious roots that can give rise to these walls in the mind get saturated with the breath, saturated with knowledge, saturated with awareness. The conscious area of the mind gets larger and larger; the unconscious activities get pushed off into smaller and smaller and smaller corners all the time, so that it’s harder and harder for them to take over.
+
+So when we’re meditating, it’s not as if we’re clamping down and shutting things down. We simply keeping tabs on this one level of awareness, this one level of energy here in the body, and we allow everything on this level to connect. Once it’s connected, there are no areas where you can hide from yourself.
+
+Now, some people find that scary. They’re used to being in denial. But when you learn how to bring some compassion to the whole process of opening up to yourself, when you learn how to bring some understanding and maturity and equanimity to the process, you find that you’re much better off working through these things than you were when you tried to keep them hidden. You’ve now got the tools where you can work through them. You don’t have to be overpowered by these things. You’re more and more in control.
+
+This is not a control-freak kind of control. It’s a control that comes from real knowledge. The reason we don’t like control freaks is because they usually have one very narrow view of reality that they try to impose on everything else. But the kind of control that comes through the meditation is a control that comes from a 360-degree vision, all around. Everything gets put in its proper place, where it really does belong. You see more and more clearly what you really do have to think about and what you can let go.
+
+But for the time being right now, let go of any thought that’s not related to the breath. Just let it pass. You don’t have to shove it around, you don’t have to poke at it, you don’t have to dress it up, you don’t have to look into it, you don’t have to be curious about it. Keep your curiosity focused on this one level of energy, the breath energy in the body. In the beginning there may not seem to be
+
+much to notice, just in and out, but there is more. Just start pursuing the whole
+
+question of tension and lack of tension, relaxation, throughout the whole body. Look at your posture. Notice how your breathing is affecting your posture, how
+
+your posture affects your breathing. Think of the breath coming in and out of the body in different parts. Think of your legs doing the breathing, think of your arms doing the breathing, your hands.
+
+In other words, get in touch with the level of breath energy that’s already there in the body but gets squeezed off when we don’t want it to distract us from our thought worlds. We’re now turning our priorities around, dropping the thought worlds and getting more and more interested in this energy field here in the body. Let it open up. When you let yourself open up to it, it opens up as well. And you find that it gives you a grounding, an undertone that permeates everything in your awareness, saturates the whole body with awareness, so that whatever is going to come up in the mind comes up in an open field of awareness, rather than springing at you out of the dark.
+
+When you learn to be open with yourself in this way, you find that there’s nothing really threatening in there because you know where it all comes from. You’ve seen it arise; you see how it passes away. And you realize that no matter what, your range of awareness is larger than it is. Once you get used to this broadened field of awareness, you don’t want to let it narrow down ever again. You realize that as soon as anger comes, things narrow down. When greed comes, when lust comes, when fear comes, everything gets narrowed down. It’s like having lived in a large house and suddenly being squeezed in to a tiny, tiny cell.
+
+And then you realize you don’t have to squeeze yourself in there. It was your choice. When you realize that you’ve got the choice, you want to stay in the broadened awareness all the time.
+
+So try to make this 360-degree awareness your basic level, your home, your grounding, the place from which you come. It’s always there if you open up to it. Try to develop the skills you need to stay interested here and for the time being just drop your curiosity about everything else—the curiosity that wants to build a thought world out of this sensation, wants to associate that sound with some other sound. That kind of creativity can sound kind of nice—you can be very creative with your thoughts, you can create whole worlds—but this is not the time and place for that. After all, you’ve created innumerable worlds already, so many that you’ve become addicted to the process. Now see what it’s like when you cut through that addiction; what’s there when you don’t create any worlds aside from the world of the breath in the present. Keep your curiosity here with the breath, and let the breath permeate the body. And then once this has become
+
+your home, and thoughts come in, they’re coming in on your terms. They can’t
+
+do anything to you that you don’t want them to do. They can’t trap you again, they can’t deceive you against your will, because you see what lies all around them on every side.
+
+A Sense of Well-being
+
+July 2, 2003
+
+They say that your brainwaves can be measured even in your little toe—
+
+which shows that the energy of your thoughts fills your whole body, fills your whole experience. Normally we don’t realize how much energy we’re giving off, how much energy we’re radiating, and what the quality of that energy is. Only when you make the mind really, really quiet can you begin to sense the shadow radiation put off by the mind. Only then can you sense how much that energy shapes your experience, how much it affects the experience of the people around you.
+
+This is why the Buddha put so much emphasis on the question of intention, because that’s where the energy shaping our lives really lies, in the intentions of the mind. What we experience consists of the intentions themselves together with the energy they create, the ripple effect they create—from intentions in the present and intentions in the past—as those ripple patterns intersect and interfere. That’s what shapes our experience. And one of the main lessons in meditation lies in seeing how that happens.
+
+But even before you see it happen, the Buddha’s training gets you to develop skillful intentions, both because they have a good effect on your life, and also because they make it easier to see what’s going on. Unskillful intentions put up a lot of interference, make it hard to see. You do things and say things that are really unskillful and you don’t realize what you’ve done because you’ve created such turbulence. This is why the Buddha teaches us to practice generosity, to observe the precepts, because the intentions that go into generosity and virtue are skillful in and of themselves and also allow us to see more and more of what’s going on, to gain an appreciation of how much our intentions do shape everything.
+
+When we’ve made a practice of generosity and virtue, then by the time we come to sit down and meditate we’ve already had some experience in seeing the power of our intentions. The meditation becomes a laboratory for experimenting even more, in more detail, to get a more subtle sense of what’s going on so that you can detect your intentions as soon as they arise and can do something about them. If they’re not skillful, you can make them skillful; if they’re already relatively skillful, you can make them even more so.
+
+You can notice this when you focus on the breath. Your perception of the breath is shaped by the intentions you’ve had in the course of a day. The parts of the body that you tensed up in order to do this, in order to think about that, still leave a shadow in your experience of the body. You notice sometimes if you spent the day working, say hammering or weeding, when you sit down to meditate everything in the mind seems to involve hammering or weeding. Those are the leftover shadows of the intentions. And your sense of the body as a weeder or hammerer is still lying around in there, too.
+
+So when you start out with the breath you want to cleanse these things out of your body as much as you can. This is why you work through the sensations of the breathing systematically to start noticing where the tension is, how you can relax it so that you can bring things back to normal. It’s from that state of
+
+normalcy—aware normalcy—that you begin to notice how the tension will build
+
+up again around a new thought. That insight makes it easier and easier to see what’s going on in the present moment, and not get trapped by what’s going on, because you’ve got less and less residue holding over from the past and no new residue building up in the present.
+
+So work through the tension in the body. It doesn’t really matter where you start, as long as you start with a point that’s comfortable. You want to work from a position of strength, a sense of wellbeing, a sense of being secure. Once you’ve got that sense of wellbeing established, you can let it spread through the different parts of your body, the different parts of your awareness. You might want to go through the body a couple of times because each time you go through it your perceptions get more and more refined, more and more subtle. In fact you can get to the point where the breath in the body seems to stop.
+
+Then the question arises: “Where do you focus then?” Well, focus on the stillness. It’s still a type of energy in the body. It’s simply energy that has grown still. From this point you begin to see other things that are even more refined— that your sense of the shape of the body, or the boundary between the inside and outside of the body, begins to dissolve, and you realize that that involved intention as well. And for the time being you can let that boundary drop. It’s not that you’re going to totally lose your sense of the shape of the body forever. You can take it on again any time you want to, but you begin to see that there is a choice involved there. You can sit with the body as a shapeless mist of atoms, or you can focus on the sensations that give shape to the mist. There are lots of potential sensations just waiting for you to work with here.
+
+When you see that, you begin to realize exactly how much your present intentions really do shape what you’re experiencing. If you want there to be a shape, there are sensations that will conform to that desire, that will verify that there is a shape to the body, and you can make it happen. Then the perceptions influence the intentions, and the intentions influence the perceptions, and if you don’t watch out you can actually get yourself all tied up in knots. Some people, for instance, begin to feel as if their bodies are made out of lead because they focus too intently on the perceptions of solidity. When it’s too heavy like that you can turn your perception around. You can intentionally focus on the more open, shapeless sensations, the space sensations that are already present in different parts of the body. You can deal with them in the same way that you dealt with the breath. Let that sensation of space permeate throughout the body erasing the sensations that you had emphasized to create a sense of heaviness or shape.
+
+You begin to realize that this is not a process of creation from nothing. There are potentials already there. The question is: which potentials are you going to emphasize. Which ones are you going to focus on to create the sense of shape? Which potentials are you going to focus on to erase it? The choice is yours. You can see this most clearly when the breath is still. When the breath is moving, the process of breathing in and of itself creates a shape for the body.
+
+As Ajaan Lee recommends, when you let the breath energy open up to every pore, that allows the breath to calm down, calm down, calm down. Think of every pore in your skin opening up wide. All the muscles that tighten up the pores: allow them to relax. You’ll find that the breath will calm down radically. That opens up the way for the sensations of space, the openness, the holes in
+
+your skin, the inner sensations of space and the outer sensations of space to connect. Then you can take space as your object.
+
+So in the process of practicing concentration and getting the mind more and more subtle, more and more refined, you’re also learning interesting lessons about the role of perception, the role of intention, in how you experience things. You see how much your intentions really are an energy that creates all kinds of
+
+experiences. And that’s a lot of what Buddhist insight is about, seeing the role of intention. When the texts describe dependent co-arising, one of the basic patterns
+
+starts with name and form and consciousness acting together to create all the processes leading up to suffering. Well, intention is an important part of “name.” It’s one of the major causal factors in how we experience things. And you can see it operating here as you practice concentration.
+
+You also see it as you try to take this relaxed state of wellbeing out into the world. On the one hand you see the problem of maintaining it, because all sorts of other intentions start getting in the way. You’ve got to deal with this person, speak with that person, deal with this situation and that. And the skill lies in how you can maintain this inner sense of openness and wellbeing without letting your intentions connected to the world trample all over it.
+
+You also have to learn how to protect it from the energies of other people. When you’re open like this, you sense other people’s energies a lot more. This is when it’s important to think of the breath energy in the body as giving off a kind of radiation, a protective field to prevent those other negative energies from coming in to affect you. If you just leave yourself wide open, you pick up negative things from other people. So you’ve got to be careful. This is when you need a kind of barrier around you, a protective energy barrier, the breath flowing throughout the whole body like this does provide that. Just be alert to that potential, learn how to maintain it.
+
+As you do this, you find another effect happening as well: your energy becomes a more positive influence on other people. The way people react to you will change, the influence you have on other people will become a better influence. And you begin to see that the effort put into maintaining this inner sense of openness and wellbeing while you’re doing other things is not simply adding one more task onto all the other tasks you’ve got in the world. It actually simplifies things a lot. Try to make this your center of gravity. Make this the point from which you’re operating, your position of strength.
+
+The Stages of Meditation
+
+July 3, 2003
+
+The Buddha’s teaching can be called a serious pursuit of true happiness.
+
+Remind yourself of that every time you sit and meditate. This is why we chant
+
+the passages for metta, or goodwill, before we meditate together: to remind ourselves that we really do wish for happiness, true happiness. Everyone wishes
+
+for happiness, but when you look at the way people go about looking for happiness in their lives, you wonder exactly how much serious thought they give to what they’re doing. True happiness has to be something that doesn’t change, that doesn’t depend on conditions, which means you can’t look for it in ordinary places. You have to look in an extraordinary place: your awareness of the present moment, something that’s right here all the time but that we tend to overlook. When we’re meditating we’re turning inward to look for true happiness right here, to see what we’ve been overlooking for so long.
+
+And each time we meditate we remind ourselves of our main intention, which is to find that happiness, a happiness good not only for us but also for the people around us. After all, when we’re not creating unnecessary suffering for ourselves, we’re lifting a burden not only off of our shoulders, but also the shoulders of the people around us. So we wish not only for our own happiness, but for the happiness of all living beings.
+
+The reason we have to remind ourselves of this is because in the course of focusing on the breath, focusing on the present moment, all kinds of thoughts are going to come up to pull us away. If we’re not clear about why we’re here, we’re not going to stay here. We’re going to go running off someplace else. Another reason is that thoughts of goodwill are good comfortable thoughts to think. It feels good to remind yourself that, yes, you do want true happiness. You really do want living beings to be happy, all living beings, without being picky about this person or that person. You want to be generous with your goodwill. By creating that kind of attitude, you create a good space to settle down in the present moment.
+
+Even though we may aim at focusing directly on the awareness of the present, it’s a difficult place to focus. So we give ourselves crutches to get there. The breath is one of these crutches, as are thoughts of goodwill. When we’ve extended goodwill in every direction, we focus on the breath. When the breath is coming in, know it’s coming in; when it goes out, know it’s going out. That’s all you have to be aware of right now. The other things, the mice crawling around in the ceiling, the sounds off in the distance, just let them be. All you’re responsible for is this awareness of the breath coming in, going out. If you want, you can use a meditation word to go along with the breath. Traditionally they use the word ‘Buddho,’ which means awake: ‘Bud’ with the in-breath and ‘dho’ with the out, ‘Buddho,’ ‘Buddho,’ or just ‘in,’ ‘out,’ whatever word feels comfortable to help you stay with the breath.
+
+Then you can focus on how the breathing feels. This is a very immediate, visceral way of showing goodwill for yourself. There’s no need to breathe in an uncomfortable way. And yet because we pay so little attention to the breathing,
+
+we usually leave it to its own devices. As a result, the breath gets shaped not by our awareness, but by other emotions that come through the mind. It gets shaped by our unexamined thoughts about how breathing happens. And so the breath gets constricted, parts of the body don’t seem to be participating in the breathing process.
+
+Ideally the breathing process should be a whole-body process. Your whole nervous system should be involved. For that to happen, though, you need to give the breathing your full attention. Try to notice what kind of rhythm feels good right now. Long breathing, short breathing, deep, shallow, fast, slow: there are all kinds of variations to the breath. You’ve got a whole hour to test them, to see what rhythm feels best right now, what texture to the breathing feels best right now. If you’re feeling tired, you’ll want a rhythm of breathing that gives you more energy. If you’re feeling tense, you’ll want a rhythm that helps you relax.
+
+In the beginning you can focus on any part of the body that feels comfortable to stay focused on, feels easy to stay focused on, and where you can easily keep track of the breath. Try to create a nice relaxed feeling tone right there. Normally when we’re focusing on something we have a tendency to tense it up, which is not what we want right now. We want to be focused with a sense of relaxation, a sense of ease, a sense of openness. The energy in the body should be allowed to flow naturally in, flow naturally out. And then when you’ve got one spot in the body where you can maintain that feeling tone, you can allow that same feeling tone to spread to other parts of the body, so that as you breathe in there’s nothing in the body that gets tensed up, as you breathe out you’re not holding on to tension in any part of the body.
+
+You can go through the body systematically. Start around the navel and just go up the front, section by section. Watch each section for a couple of minutes as you breathe in, breathe out, and notice what kind of rhythm feels good for that part of the body. If you feel any sense of tension or tightness there, allow it to relax. And then you move up to the next section, say, the solar plexus, and then the middle of the chest, the base of the throat, the head, down the back, out the legs. Starting again at the back of the neck, go down the shoulders and out the arms until you’ve covered the whole body. You can go through the body this way as many times as you like, and you’ll find that all kinds of benefits come.
+
+The immediate benefit is a clear sense of wellbeing in the present moment. It just feels better to sit here when you’re sensitive to how the breathing is going and to how you can change it to make it feel even better. Each time you go through the body, you find that you get more and more sensitive to parts that you may have been holding in subconscious tension for a long period of time. You can finally allow that tension to relax and let go. You find it easier and easier to inhabit your body in the present. When the body in the present is more comfortable, the mind feels more inclined to stay here.
+
+So the benefits are not only physical. They’re also mental: a sense of ease, a sense of wellbeing. Your mind grows more and more still, at the same time it’s more alert and more aware. Our usual tendency when things get comfortable in
+
+the body is to fall asleep. But here we’re working at comfort mindfully, with as
+
+much alertness as we can muster. That creates a different quality to our awareness in the body. It feels both still and energized.
+
+Then the next trick, once you’re able to do this, is to learn how to maintain it. All too often the mind says, “Well, been there, done that. What’s next?” But this
+
+is the sort of place that, if you really want to get to know it, you have to stay for a long period of time. You have to become familiar. You have to become friends with the body—the kind of friend who sticks with a friend no matter what happens, the kind of friend you’d like to trust. Try to be that kind of friend with the body. When you do that, you find that the breath in the body reciprocates. It becomes a good place to be, a nice place to stay, a place you can trust.
+
+But there’s a separate skill in, one, learning how to get here and, two, learning how to stay. The thoughts will come up: “Well, this is boring. What’s next?” So say, “No. Who’s bored? Who’s saying that?” Start questioning those thoughts. Don’t believe everything that comes through your head. Don’t believe everything you think. Just see the thought as an energy pattern that comes and goes. You don’t have to give it any more reality than that. You don’t have to give it any more credence than that. Learn to be on the lookout for any kind of thought that pushes you away from the present moment. Instead of getting entangled with it, just allow it to dissolve while you stay with the breath.
+
+You begin to see that you can start anticipating when a thought is going to arise. You feel it as a stirring, a disturbance in the energy field of the body. Just allow that sense of disturbance to relax, allow it to iron itself out, and the thought will get aborted. This way you don’t have to engage in a conversation with every thought that comes into the mind. Just take the thought apart before it forms and that makes it a lot easier to stay here for long periods of time.
+
+As you stay here longer and longer, one, the mind gets stronger, your awareness of the present moment gets stronger, the sense of wellbeing of the body gets stronger, goes deeper; and, two, you start seeing and understanding patterns of the mind that you never saw or understood before. This is where the
+
+practice starts giving rise to insight, where you start actually using your
+
+meditation.
+
+Ajaan Fuang, my teacher, once said that there are three steps to meditation: one is learning how to do it, in other words how to get the mind to settle down; the second step is learning how to maintain it, how to keep it there; and the third is learning how to put it to use. What good is a centered mind, this state of wellbeing, this state of centeredness that we’ve got here? Well, in addition to giving a sense of wellbeing in the body, it helps you to understand what’s going on in the mind. You can learn how to sidestep a lot of the emotions that used to take over. You see them as a process that arises and falls away within this larger field of awareness you’re developing. That way they don’t sneak up on you from behind to take over your awareness. You see them as they come and you have a sense of which thoughts are worth thinking, which ones are not. You can disarm the thoughts that aren’t helpful and engage only the ones that really are worth thinking about. And you get a quicker and quicker at sensing which is which, which ones lead to happiness and which ones will lead to suffering. You can start undercutting the ones that lead to suffering, step by step by step. You gain more control of the mind and see exactly where it’s getting in the way of the happiness you’re trying to find here in the present moment.
+
+You begin to realize that the big problem is not the things that come from outside. It’s what the mind does to itself, the ways it forces itself to think, the ways it ties itself down to ideas and attitudes that cause stress, suffering, and pain. When you stop getting engaged in those patterns, you find a sense of happiness, a sense of wellbeing that lies deeper still, even deeper than the sense
+
+of concentration. This gets you closer and closer to the kind of happiness that the Buddha was talking about, a happiness that doesn’t depend on conditions. There will come a point in the meditation when things open up, where at that point you’re not doing anything more, just simply allowing these things to open up on their own. And you finally reach a dimension in the mind that, as the Buddha said, is not conditioned, that doesn’t depend on anything at all. That’s where the true happiness lies.
+
+So this process here is one of digging in, looking for gold, and when you find things that are obviously not gold you throw them away. When things look like gold you have to test them, because there’s fools gold, you know. But the basic test is this: Is it something that’s constant or inconstant? If it’s inconstant you know it’s going to be stressful, nothing you want to identify with. No matter how much you’ve cherished a particular type of thinking or sense of your own identity, you begin to realize how those things get in the way of true happiness. You’re finally willing to let them go.
+
+So use this test for gold to check everything out. As you run into things that are fools gold you put them aside; more things that are fools gold, put them aside. As you put them aside, things open up, there is less getting in the way.
+
+The genuine gold is already there, it’s just a question of not being willing to settle for anything less.
+
+Breaking Old Habits
+
+July 4, 2003
+
+Independence Day: a good time to ask yourself what you’d like to be
+
+independent from. What are the things that weigh down on the mind, that oppress the mind? If you ask most people, they’ll talk about things outside: their job, their family, their worries about the economy or the environment. But if you look deeply in your own mind, you’ll realize that the main burdens on the mind are the things that come from within. This is why the mind needs to be trained. If the mind isn’t trained, it just keeps on creating suffering for itself without realizing what it’s doing.
+
+The phrase we chanted just now—“Those who don’t discern suffering”—on the surface sounds very strange, for everybody knows suffering. We’ve all suffered in one way or another in our lives. But the issue is: Do we really discern suffering? Do we really understand it? Do we see precisely what’s happening? If we could look into the way the mind is creating suffering for itself, to the point where we really understand it and take it apart, then that’s the end of it. That’s what comprehension means. As the Buddha once said, our duty with regard to suffering is to comprehend it, to understand it to the point where you stop creating it, where you can let it go. All the causes, all the conditions that lead to it: you can let them go. That way the problems you’re responsible for totally disband. As for the rest of the world outside, it goes along with its own way, but it doesn’t make inroads on the mind, can’t weigh the mind down. Those are the good benefits of learning to understand or learning to discern suffering.
+
+But for most of us, our lives are distracted with other things, other issues that seem to be more pressing—and they make themselves more pressing. They demand that we take responsibility for them. It requires a real act of will to step outside of those requirements, those responsibilities, and to take the time to really look into the mind to see exactly where the suffering is, what the suffering is, where it’s coming from, and how it can be stopped.
+
+The Buddha once said all he taught was suffering and the end of suffering— in other words, how to understand it to the point where you put an end to it. That’s the essence of the teaching. Once that was accomplished, he said, that’s all you really need to be taught. From that point on you’re truly independent.
+
+In the texts they describe stages in understanding suffering, stages of awakening. Total freedom is called arahantship. To become an arahant means you become someone worthy, someone worthy of respect. The first stage on the way is called stream-entry. You enter the stream to nirvana, the stream to true peace. The meaning of the image is that once you reach that point it’s inevitable, just like getting into a river. The current will carry you down to the ocean— nirvana—for sure.
+
+So it’s important to reflect on the conditions that the Buddha said lead to that first stage of insight. The first of these conditions is having good friends, people who have discerned suffering, have come to an understanding of it. Not only do they have that understanding, but they also lead their lives in line with the fact that they really have understood. This is an important condition for the practice because you find that the people you hang around are the ones who shape your
+
+own behavior, your own attitudes. Even if you are simply reacting against them, the way they think has a molding effect on your own thoughts, so you have to be careful who you hang around with. This is what you might call the social side of the practice.
+
+The second condition is that you listen to the Dhamma from those people. You really listen. And the Buddha gives instructions on how to know what’s Dhamma and what’s not, the litmus test being to put what you’ve heard into practice. But before you get to that point, you first have to think about it. You have to ask questions.
+
+This is what’s radical about the Buddha’s teaching, the emphasis placed on asking questions, on framing the right questions. He calls this ability “appropriate attention,” paying attention to the right issues—in other words, the issues related to the end of suffering and precisely what your mind is doing to create suffering. This factor—appropriate attention—is the third condition for stream-entry. Our ordinary tendency is to blame our suffering on this person or that person, not liking what this person is doing, not liking what that person is doing, getting upset, getting offended, and running off in that direction without looking at what the mind itself is doing. So the first question is to look inside. If you put a particular teaching into practice, what results do you get? Do you find more passion, more aversion in your life, or less? Do you find that you’re more burdensome to yourself and other people, or less? As you work through these questions and test the Dhamma that you’ve listened to, you get a better and better sense of how to practice in the Dhamma in line with what the Dhamma really is, the Dhamma here being the truth, the truth that leads to the end of suffering. This is the fourth condition for stream-entry.
+
+So those are the four conditions: associating with good people, listening to the Dhamma, appropriate attention, and practicing the Dhamma in line with the Dhamma. It sounds like a one, two, three, four process, but it’s not really. All four factors influence one another. As you put the Dhamma into practice that’s both a test of the Dhamma you’ve heard and also a test of the people you’ve been listening to, to see if they really are the good people you thought they were.
+
+So these things are all connected. And all four factors help refine one another as you practice. And as the Buddha once said, of the external factors the most important one is associating with good people. Of the internal factors, the most important is the factor of appropriate attention, learning to ask yourself the right questions: questioning your attitudes, questioning the results you’re getting from your actions. Even though we may be sitting here with our eyes closed, we don’t blind ourselves, we don’t close our eyes to what’s going on in our lives. We close our eyes so we can look more carefully, look more fully into the mind.
+
+So ask yourself directly: What are you doing right now? What are the results of what you’re doing? Are they satisfactory? So many people go through life habitually, on automatic pilot. They develop a habit and then stick with that habit, becoming more and more ingrained in certain ways of doing things. This is basically the definition of addiction: people trying to put an end to the suffering they feel, not really quite getting there, but continuing to repeat the same old actions over and over and over again. And the habits have an old familiarity. It’s like an old shoe you feel comfortable wearing. It may not be a particularly good shoe, or particularly good for your posture, but you’re comfortable with it because it’s familiar. What we’re doing when we’re practicing is learning how to
+
+ask the kind of questions that break out of the old familiar mold, break out of the old familiar habits, break our old addictions—our ways of doing things that really haven’t gotten the ideal results, but where we’ve learned to settle for second best, sometimes not even second best: third or fourth.
+
+Each time you sit down to meditate, remind yourself: What are you here for? You want real happiness. Have you found it? Well, no. If not, then what can you do to change what you’re doing? Develop the ability to keep asking that question and to be trying new things. That’s what appropriate attention is all about. That way you can really find what it means to practice the Dhamma in line with the Dhamma. That was one of Ajaan Mun’s most frequent topics in his Dhamma talks. He said that we should practice the Dhamma not in line with our preconceived notions, not in line with whatever our cultural background may be, or our sense that, “Well I’m the sort of person who does these things this way so it’s going to have to be this way.” We learn to drop those attitudes in order to find out what the actual Dhamma is, what the practice of the true Dhamma is. And then you bring your own actions, your own thoughts, your own words, your deeds, your own attitudes in line with that.
+
+This requires a fair amount of sacrifice, a fair amount of letting go. So many old ways we have of doing things we’ve got to learn how to put aside. We often resist this, but when we’re willing to put them aside we find that things open up in the mind. If it weren’t possible to change, there would be no reason to teach the Dhamma. The Buddha wouldn’t have had to waste his time. But he saw that
+
+it can make a difference, that people can change their ways of living, ways of
+
+thinking, ways of acting and speaking for the better when they learn how to ask the right questions. And particularly when they look at the issue of suffering in terms of cause and effect. Exactly what goes along with the suffering? The texts
+
+use the word samudaya, which means origination, but it also means something
+
+that arises together. Every time there’s suffering, what else arises at the same time in the mind? When the suffering goes away, what’s gone? When it’s come back again, what else has come back with it? You want to learn how to look into these questions, and that requires good, strong concentration, and steady mindfulness, which is why we work on these qualities in the meditation.
+
+This kind of questioning also requires a sense of wellbeing in the present moment so that you’re not asking out of desperation, you’re not either grasping at straws or pushing things away out of irritation, for understanding doesn’t come that way. Understanding comes from looking at things consistently, steadily, and asking those questions in terms of cause and effect, being more sensitive to what we’re doing, and more sensitive to the results. And when these factors finally come together—the stillness, the questioning, the sensitivity—they take all the things we’ve been doing to create suffering, to make ourselves dependent on suffering, to tie ourselves down, and they unravel them. And when we no longer tie ourselves down, no one else can come to tie us back up, for our freedom, our independence, wasn’t theirs to give in the first place. It’s something that each of us can find for ourselves.
+
+Interconnectedness
+
+September 7, 2003
+
+Everything in life is very interconnected. Everything is dependent on
+
+conditions, and the things we do then in turn become conditions for other things in life—not only in our own lives, but also in the lives of the people around us. It’s like throwing a pebble into a pond. The waves go out in many directions, and can sometimes cover the whole pond. They can even bounce off the shore and come back, in many intricate patterns.
+
+This principle of interconnectedness can be a good or a bad thing depending on what you do with it. Some people think that interconnectedness is automatically a good thing, but when you remember that harmful actions are also part of the general web and they can have repercussions that go on for a long time, that’s a scary thought. Also, our happiness often depends on the actions of other people, many of whom we don’t even know. So how can we trust them? We like to think we can trust the conditions on which our life depends, but when you really think about it you realize how fragile the whole
+
+enterprise is if you’re looking for happiness outside.
+
+This is why the practice has us turn inward, because there inside is the element of our experience that’s not dependent on outside conditions. That element consists of the choices we’re making from moment to moment. Those can be free. They don’t have to depend on outside conditions. Otherwise we’d be in a totally deterministic universe. There’d be nothing we could do. We’d be cogs in a machine, whirling around as the other cogs whirl around. But that’s not the way things are. We do have choices. And it’s through our choices that we turn the principle of interconnectedness into either a good or a bad thing, depending on how skillful or unskillful our choices are.
+
+As we’re meditating we’re trying to train this potential for freedom. We’re trying to actualize it in a good way by working on the skillfulness of our intentions, because those are the forces over which we have some control. The things we intend to do, the choices we make: If we can do them with more mindfulness, more alertness, we find that gradually we do become more and more skillful.
+
+So, as you’re sitting here with your breath, try to be as mindful as possible of what you’re doing. Try to keep your mindfulness as continuous as possible. That strengthens your mindfulness. As for your alertness, try to be as sensitive as possible to the breath. How does it really feel to breathe? Where do you notice the sensation that lets you know, “Now the breath is coming in, now the breath is going out”?
+
+Where do you feel those sensations? How do they feel? Do they feel good? Do they feel okay but not especially good? Do they actually feel uncomfortable? If they feel uncomfortable, try different ways of breathing. Adjust the breath. You do have this freedom right here, this element of choice with regard to the breath. The breath is one of the few bodily processes that can be automatic but also can be shaped by your choices.
+
+So work with it, explore it. Try to become more sensitive to this aspect of your awareness. As you become more sensitive to the breath, you also become
+
+more sensitive to the mind. That’s important, because if we want to be able to judge the quality of our intentions we have to be really clear about what they are, to make sure there’s nothing hiding behind them. In other words, our intentions can often present a really nice face to us, but if you dig down a little deeper you find there’s something else behind the face: something that’s not quite so pretty, something that you’d prefer to hide from yourself. And yet, part of you knows what’s going on.
+
+So, one of the immediate benefits of the practice is that once we become more honest with ourselves there’s less of this internal deception. The mind plays fewer games with itself, and as a result it can be clearer about what it’s doing right now, clearer about what input it’s putting into the interconnected system in which we live. This is important because the basic principle is that the more good you put in, the more good you experience, and it also helps the people around you.
+
+In the West we often think that you have to work either for your own good or for the good of the people around you, but you can’t do both together, whereas the Buddhist principle is that if you’re really skillful you get to do both at the
+
+same time. The good things you do help you and help the people around you—if
+
+you’re really skillful. This means going beyond ordinary good intentions to
+
+informed good intentions, skillful good intentions. Those are the kinds of
+
+intentions you want to work on.
+
+As we meditate we’re developing the qualities we need to make our intentions more skillful. We take our one intention—which is to stay with the breath right now, not to let ourselves get knocked off by other thoughts—and we try to maintain that intention. In maintaining the intention we learn an awful lot about what it means to give rise to an intention, maintain the intention, check the intention, make it more and more skillful with practice. We intentionally shape this process, because the most important type of interconnectedness is the interconnectedness in the mind—how our perceptions and our intentions, the questions we ask ourselves, the answers we give ourselves, how we go about forming those answers: how these processes are all interconnected. They can be interconnected in a way that leads to suffering or in a way that leads to
+
+happiness, to freedom. It all depends on how we use those interconnections.
+
+So whether interconnectedness is going to be a good thing or a bad thing is up to us. As we meditate we’re given the tools to make those connections a good thing so that the way our mind functions causes less and less suffering for ourselves—and less suffering for the people around us. As you work through the processes that ordinarily would give rise to greed, anger, or delusion, you find that you can manage them in a way that doesn’t have to stumble into those unskillful states. At the same time, you find that the people around you are subjected to less of your greed, anger and delusion as well. The whole atmosphere surrounding you changes. As you bring the mind to a more skillful state you find that it tunes into the skillful habits of the people around you. This forms a kind of connection as well.
+
+As you work on this, however, you find that the connectedness is not nearly as interesting as the potential for freedom. How is it that we do have this freedom here to make choices? Where does this freedom come from? Where does it lead if we pursue it?
+
+The Buddha’s insight into interconnectedness was that it was a very complex process, and complex processes like this, by their very nature, have points where they cancel one another out. There was a mathematician who studied these points and discovered what he called “resonances”: points where the different processes just cancel each other out and suddenly you’re outside the system entirely. The same goes with our experience. The Buddha found that you can manipulate causality to get beyond causality. This is where it really gets good, because when you can get outside of this interconnected system you find that your happiness doesn’t have to depend on interconnectedness. It doesn’t have to depend on the good or bad decisions of other people. It doesn’t have to depend on your own good or bad decisions. Totally free, totally independent: That’s where it gets really good.
+
+When you have a happiness that’s totally independent, then as you continue to live in the world you find that you can give more freely of wise decisions,
+
+right decisions, skillful decisions, because you don’t need the feedback that comes
+
+from other people.
+
+The sad side to ordinary interconnectedness is that a lot of it consists of feeding. Different people feed on each other. Sometimes the feeding is mutually beneficial, sometimes it’s not. Some people are willing to offer emotional food to other people; they’re happy to do it, they’re glad to do it. Other times the process is not so voluntary, but as long as we’re living in this interconnected system we’re always subject to this process of feeding. One person depends on another. The second person depends on the first, or depends on somebody else. As with all food chains, it’s always ready to break at some point. There’s always that uncertainty, and no matter what’s given in the food chain there’s always going to be hope for something in return. When you get outside of the chain though, you don’t need anything from anyone, and you’re happy to give whatever you’ve got. That kind of giving becomes truly pure giving.
+
+Some people think that the idea of a totally independent source of happiness is selfish, or a way of running away from the real world, but it’s not. How can it be selfish when you’re in a position that allows everything you do to be an act of giving? What exactly is it running away from? It’s running away from your old feeding habits, your old dependencies, which are not only unstable for you but can also be oppressive for others in ways that you might not think, but they’re there. Just the fact that we have this body depends on food, clothing, shelter, and medicine—and where do those things come from? How many people are happily involved in the process that brings us food, happily involved in the process that brings us clothing, shelter, and medicine? There may be some people who are happy to do it, but a lot of people are doing it through pain and suffering. That’s why we chant that reflection every evening, to remind us of this fact.
+
+So that’s what you’re running away from. You’re running way from a mode of existence that depends on the exploitation of others. That’s not a bad thing to run away from. It’s not a bad thing to abandon. Especially when running away in the proper way puts you in a position where you can still be giving. Then the way you continue to participate in this interconnected system until the day you die is purely through acts of giving, purely selfless, because you don’t need anything from anyone else. That’s where we’re headed as we practice.
+
+So, keep that in mind. There is interconnectedness in the world and it can be a good thing if you make it a good thing. But it has its limitations. It’s always conditional. And it always involves taking. People like to think of interconnectedness as light reflected in multiple mirrors, or light-beams going from one jewel to another in Indra’s net: each jewel illuminates and is reflected in the other jewels. These are all pretty images, but that’s not the way interconnectedness functions in the actual world. One animal feeds on another. One person feeds emotionally on somebody else.
+
+When the early Buddhist texts teach causality to young novices, they start with a simple fact: All life depends on feeding. So interconnectedness is not simply light-beams going from one person to another. It’s a process of feeding— which is not always a pretty process.
+
+So although you can make it good—at least relatively good and helpful—the best way to use the process is to get so skillful, so clear on this element of freedom contained in each of your choices moment by moment, that it opens up
+
+to something totally other, where there’s no need to feed. When there’s no need to
+
+feed, you’re totally free. Imagine going into the wilderness without the need to feed. You could wander around forever. It’s because we need to feed that we carry food with us, which puts a limitation on how long, how far we can go. Or even worse, some people go hunting. That’s really oppressive. If you didn’t have to feed you could wander everywhere forever. No limitations. No need to oppress anyone. We’re limited by the fact that we have to feed.
+
+So, when we practice we make the mind stronger and stronger until ultimately it doesn’t need to feed anymore. It’s not like the body. The body always has to feed, but the mind—when it reaches a certain level of strength— opens up to something totally other where there’s no need to feed. That’s the “good news” of the Buddha’s teachings: that the processes in this interconnected world in which we live can be mastered in such a way that you go beyond it totally, and then for the rest of your life what you put back into the process is purely a gift.
+
+Being Still
+
+September 19, 2003
+
+Notice just now when we finished chanting, the sound of the crickets was suddenly a lot louder. It’s not that the crickets suddenly sang louder, but for us it seemed louder because we were quieter.
+
+This is an important principle in training the mind: The quieter you are, the
+
+more you see. We talk often about how there’s a doing, there’s a kamma in every
+
+present moment. There are choices you make with every present moment, and sometimes the emphasis may seem too much on the doing. But remember that being quiet is also a form of doing, and sometimes it’s the most skillful doing, the most skillful thing you can do.
+
+Try to keep the mind as quiet as possible, as still as possible, as if you’re listening to music far, far away and you want to try to make out the tones, make out the melody. You have to make yourself very quiet. And in the same way if you want to see things in the mind, see things in the breath, you have to make yourself very quiet. The quieter the mind is the more it sees.
+
+So, when the breath comes in, the breath goes out, the mind doesn’t have to come in and out with the breath. You choose a spot in the body where you want to stay, and you stay right there. Ajaan Lee gives the image of a post at the edge of the sea. The tide comes in, the tide goes out, waves come in, waves go out, but the post doesn’t come in and out with the tide or the waves. It stays right where it was, where it’s been all along, and because it stays put you can tell exactly how high and low the tides are, how far the waves come in.
+
+The more still you are the more you have something to measure things against. It’s like those measuring things they have next to the – I don’t know what they call them – to tell what the flood level is. Those things have to stay in place. If they don’t stay in place they’re totally useless. Or you can make another comparison with equipment you use in a scientific experiment. If the equipment is placed on a table that wobbles, or if an earthquake happens and knocks everything to the floor, the measurements that come out of that equipment are worthless. You have to throw them away.
+
+So it is with the mind. When the mind is moving around like that you can’t really see things for what they are. You simply go along with the flow, but how fast or how slow the flow is, you don’t know.
+
+So, when we sit here and meditate try to find a spot that’s comfortable and then just stay right there. You don’t have to do a lot of things. Just do one thing consistently. And this way you have some way of measuring the breath, the ins and outs of the breath, you have a way of also measuring the movements of the mind. Once you have that reference point then even the most subtle movements become clear. But if you move around a lot you have no idea whether other things are still or moving around as well. So find a nice quiet spot to stay and then just stay there as comfortably and still as possible. And watch. Keep your mindfulness alert.
+
+Think of it as like throwing a pot on a potter’s wheel. You put the clay on the wheel and the wheel turns around. And you’ve got to make your mind as still as possible, you have to make your gaze as still as possible as you move your hands
+
+up along the clay to shape the pot. If you glance around, if your mind moves around, the pot is destroyed. Your hands suddenly lose their balance and go off in one direction or another.
+
+The difficulty of course is that the mind’s not used to staying. It’s used to running around. And if it wants to run around, there is that role for it in the meditation: You can move it through the body if you like. Remind yourself that the mind has lots of choices. There’s no one right way to meditate all the time. You have to be sensitive to what’s going on. Sometimes the emphasis has to be on the stillness. Other times it has to be on the reflection, the contemplation, on comparing things. But always remember that you have this range of choices.
+
+So many times we get stuck in a particular way, a type of behavior because we forget the choices that are available to us. And then we miss things. It’s like deer in the winter. When the snow falls again and again and again, the deer tend to follow the same path through the woods and halfway through the winter you find that if you go along that path the bark on either side of that path has been stripped clear off the trees. And they say that if it’s a long winter and the deer strip all the bark off the trees next to the path and there’s no more bark right there, they’ll die, even though there’s plenty of bark in the rest of the forest. But they stay in that particular path, they don’t wander off. And with so many of us that’s the way it is with our minds. We have certain types, ways of behavior, certain patterns of behavior, and we just stay right there. We forget the other alternatives available to us.
+
+So when you find that your mind is too busy in the meditation trying to figure things out remind yourself that you also have the alternative of being very still. If you find that being still gets too boring, remind yourself that you do have the other alternative of moving around, but you test it for a while and see if it’s the right alternative. Maybe being still was the right thing to do, and it’s simply that you were getting impatient. In that case you turn on your impatience. Say, “Who is this that I have to listen to?” Of course when you track down the impatience, when you track down that voice that was complaining in your mind, you realize that there was nothing behind it. It’s just a role that the mind takes on. But you don’t necessarily have to believe it because there’s not necessarily anybody there.
+
+The important thing is that you realize you have this range of choices as you meditate, and as you get better at the meditation you get a better sense of what is the appropriate time for being still and what is the appropriate time for contemplating and questioning things and trying to figure them out. One easy test is that if you’re trying to figure things out and, instead of getting clearer they get more and more complex, more blurry, that’s the time to be still again. Just sit for a while, and be very, very still - to watch. And then after a while you get a sense of when the mind has had enough stillness.
+
+In the beginning stages of the practice, a good rule of thumb is that you want to be as still as much as you can because it’s the stillness that gives you the perspective. Don’t be in too great a hurry to gain insight. Don’t be in too great a hurry to figure things out, because the real sensitivity that’s going to open up new channels of possibilities in your mind has to come from these points of being very, very still.
+
+So even though part of your mind may start telling you, “This is stupid. This is crazy. You’re not learning anything. You’re just sitting still, still, still. What are
+
+you going to learn from that?” Remind yourself that you learn perspective, you learn sensitivity. You’re putting yourself in a good position to see things.
+
+And just as a hunter can’t control when the game is going to come past, you can’t control when the opportunities for insight are going to come, but you can position yourself in the right place: right here at the breath, very still, very calm, very watchful. Because when real insights come, there’s both the stillness and the alertness, the contemplation. They come together in points like that.
+
+And because for most of us the stillness is the hardest thing to learn, that’s what we’ve got to emphasize the most.
+
+Friends with the Breath
+
+October 1, 2003
+
+When we come out to a place like this, sit down, close our eyes, we find that
+
+the physical luggage we’ve brought along with us is nothing compared to the baggage we’re carrying around in our minds. And one of the first tasks in meditation is to let go of that baggage, for otherwise it keeps interfering, keeps getting in the way. We want to be with our breath, but thoughts of the past—this person, that person, our work, our relationships, issues out in the world—just keep coming and getting in the way. So we need some techniques for keeping them at bay. It’s one of the reasons we have these chants at the beginning of the meditation. Think of them as thinking tools. We often think of meditation as a process of not-thinking, but you have to think your way to not-thinking—in other words, learn to use your thinking processes in a skillful way—before you can let them go. The various contemplations we have in the chants are there to help us with that process.
+
+For instance, the chant we just had on the world just now: “The world is swept away, does not endure; it offers no shelter; there’s no one in charge; one has to pass on, leaving everything behind; the world is insufficient, insatiable, a slave to craving.” It all sounds pretty negative, but it has a positive use. You can keep reminding yourself—every time issues of the world come up in your meditation—just what the world is like. No matter how nice you want the world to be, the world just can’t be perfect. That is a liberating thought. The events in your life that you felt that you didn’t handle very well—you look back and you realize that there’s no way that everything can be totally perfect, no way that anything can come to total completion. The nature of the world is that everything is left at loose ends.
+
+Many times there’s a temptation, when a thought comes up in the meditation, to follow it through, tie up the loose ends, bring it to a conclusion. But the nature of the world is that there are no conclusions. The work of the world never gets done. When people stop working, it’s not because their jobs are finished, it’s simply they start wearing out, they can’t work any more. They have to leave the work for someone else to do. Sometimes other people pick it up, sometimes they don’t. This is unlike the work of the practice, for the practice is something that can reach conclusion, can come to completion. And so, although the situation in the world out there is pretty hopeless, the situation in this internal world is not hopeless—which is why energy devoted to the practice is energy well spent. Think about that every time thoughts of the world come up and get in the way of your meditation: That’s simply the way the world is—it’s all incomplete.
+
+And then we have the chant on the four sublime abidings. Those are also useful things to think about. If there are people you’ve wronged or people who’ve wronged you, you spread thoughts of goodwill. If the image of anybody comes up in your meditation, that should be your first reaction: goodwill for that person. And goodwill not in the sense that you want to get further entangled, but that you wish that person well. To truly wish well you have to wish (1) that that person can find true happiness inside and (2) that you can find true happiness inside too. The more true happiness you can find inside, the better your
+
+relationships are going to be with everybody. You don’t need to feed on anybody else. You’ve got your own inner resources. Thoughts of goodwill, thoughts of compassion, thoughts of sympathetic joy or appreciation: Extend those to everybody. And then develop thoughts of equanimity, realizing that ultimately each of us has his or her own kamma, his or her own actions, that we’re each responsible for our happiness and for our suffering.
+
+What this means is that you’ve got to work on your own kamma—which is what we’re doing as we’re meditating: working on skillful kamma, the noble eightfold path, which is the path we’re trying to follow right here. As the Buddha said, that’s the ultimate in skill, the highest form of kamma. It harms no one, and it’s beneficial for ourselves, not only in terms of developing happiness within the world, but also in taking us beyond the world. This path comes down to three things: virtue, concentration, discernment. At the moment we’re focusing on the concentration. But all three are involved. Virtue is a quality of normalcy in our intentions, harmlessness in our intentions. As we’re sitting here meditating,
+
+we’re not harming anybody at all. Not only that, we’re not planning to harm
+
+anybody. We’re here focusing on getting our mind straightened out. And discernment comes into the equation as well, because you have to be discerning in how you focus your mind.
+
+So find a good object to focus on. Once you clear the decks through your reflections, look for your breath. It’s always there. The question is whether your thoughts obscure it or not. The kind of thinking that comes from the reflections we have in the chants should help bring you to the breath with a sense of the importance of what you’re doing. If true happiness can’t be found in the world, then find it here. Working with the breath in and of itself, as the Buddha says, putting aside greed and distress with reference to the world—in other words, any thoughts that would get you entangled in any sense of “world” outside: Just put them aside. If they come up, try to let them go. Don’t let them interfere right here. Because what you’re working on is a happiness that doesn’t depend on the world. Anything that depends on the world is bound to end up in disappointment—because, after all, the world is always at loose ends. But as we work on the mind here, we’re developing qualities that can come to completion, that don’t have to depend on the world—things that come from within, things you can be proud of, the good qualities of the mind.
+
+Think about the things you ordinarily have to do in order to gain happiness in the world. It’s always a struggle; there’s always competition out there. The resources are limited. If you get something, it means someone else is not going to get it. And sometimes you have to compete in ways that you don’t feel particularly proud of. But as you’re meditating, you’re developing nothing but good qualities: mindfulness, alertness, integrity, honesty, truthfulness, concentration, discernment. These are all good qualities; they feel good. And even if you don’t get all the way to the goal, the path is a good path to be on.
+
+And the body in meditation is a good body to be in. If you really have goodwill for yourself, you’ve got a start right here, giving the mind a good firm foundation. A very visceral way of showing goodwill for yourself is just this: focusing in on the breath, allowing the breath to be comfortable. If you stop to reflect, you realize that many of the things you’ve done in life that you later regret are things you did because you felt a sense of weakness, a sense of hunger. You needed something out there and you were willing to do anything you could
+
+think of to get it. But when you work with the breath like this and there’s a sense of comfort, a sense of fullness coming from within, that sense of hunger goes away, that sense of weakness goes away, and you find yourself acting more and more from a position of strength. You find that you can trust yourself more, that people around you can trust you more as well. So right here is the basis for embodying those four sublime abidings.
+
+All these ways of thinking keep pointing you into the breath. In terms of the narratives you tell of your life, they help direct your narrative toward being a person who wants to meditate, who has a sense of the importance of meditation, who’s willing to make an effort at the meditation. So they deliver you right here. Unlike ordinary ways of thinking, which simply entangle you, these ways of thinking disentangle the tangle. Sometimes they cut right through. If you worked at minutely disentangling every single tangle in your mind, there’d never be an end to it. So you use these ways of thinking as knives to cut right through everything, to come right here to the breath, because this is the best thing you could be doing right now: getting the mind to settle down, getting a sense of being at home with the breath, being friends with the breath. Don’t think of the meditation as a struggle. If you regard your breath as your enemy, you’re really in bad shape, because wherever you go, there it is.
+
+Learn to be friends with it. Listen to it. Work with it. Play with it. Learn how the breath and the mind can cooperate with each other. This requires paying careful attention. As with any friendship, it takes time. But that length of time can be shortened if you’re really attentive, if you really watch. Try different ways of focusing on the breath, different places in the body where you can focus,
+
+different ways of adjusting the breath. Sometimes all you need to do is think and
+
+the breath will change. Think, “Comfortable breath.” Think, “Full breath.” You don’t have to do anything else—just maintain that thought and see what happens to the process of breathing in the body.
+
+Or, if you want, you can play with your focus. Instead of focusing on just one spot, try to focus on two spots at once. I personally always find that riveting. One spot can be in the middle of the head, the other spot can be down in the body, and think of a line connecting the two, and you want to be aware of both of those spots, all at once, all the time. When you can maintain that double focus, you find that your mind doesn’t have any other hands to latch on to things. It’s as if one hand is holding on to one spot, the other hand is holding on to the other: Your hands are full.
+
+So there’s a lot to play with, a lot to work with, here in the present moment. As you work and play together with the breath, you become friends, you become companions. So instead of taking your thoughts of past and future as your companions—which we do most of the time—now the breath becomes your companion: someone to work with, someone to play with, all the time. You’re never really alone. This way the body and the mind become friends, they come into alignment, they strengthen each other. It’s as with any harmonious friendship: Your strength gets more than doubled—it gets multiplied many times as you work through your issues, as you get more and more familiar with the territory. This way you can drop a lot of your baggage. Even though you’re still holding on to something, you’re holding on to something good, right here in the present moment.
+
+Ajaan Lee’s image is of someone carrying a pole over his shoulder with loads on both ends. You see this a lot in Thailand: It’s how people carry things around. You have one basket hanging from the front end of the pole and another hanging from the back end of the pole. And, as he says, when you have a pole over your shoulder like that, it’s difficult to sit down, because the baskets get knocked all topsy-turvy. So what do you have to do? You have to take the pole off your shoulder. And then, even though you may be holding something in your hands—in other words, you’ve dropped the past, you’ve dropped the future, you’re holding onto the present moment—you can sit down, you can rest. Ultimately you’re going to work on letting go of the present. But in the meantime, you hold on fast. Because our minds have a tendency to want to grab onto things, so give them something good to grab onto—otherwise, they’ll just start grabbing at anything that wanders within range.
+
+So you’ve got the breath right here. And as you work with the breath, you find that the skill you develop becomes more and more useful. You can deal with any kind of breathing—which means that you can deal with any kind of situation. The breath can help in all kinds of ways. You become the kind of cook who can just walk into a kitchen and no matter what’s there in the pantry, no matter what’s in the fridge, you can make something really good out of it, because you’ve gotten really familiar with food, really familiar with the techniques for dealing with food. The same with the breath: You find there are all kinds of ways of breathing that help you when you’re tired, when you’re tense, when you’re all antsy, angry, fearful, or bored. The breathing can help you in all kinds of ways— if you pay attention, if you give it the time.
+
+So really get to know it. You’ve got a whole hour right now. You’ve got whole days right here. So work on this friendship. And you’ll find that of all the relationships that you can have in this world, this is the one that carries you all the way to the end—and past the end. It’s the one most worth developing. Everything else comes out of this. If you can’t be on good terms with your own breath, it’s hard to be on good terms with anybody. So you’ve got time now to develop this friendship. Make the most of it.
+
+Outside of the Box
+
+November 16, 2003
+
+We start the meditation every evening with thoughts of goodwill. When you
+
+practice goodwill systematically, you’re told to start first with thoughts of goodwill for yourself, then with thoughts of goodwill for people who are dear to your heart, and then you work out gradually in ever widening circles: people you like, people you’re neutral about, and then even people you don’t like.
+
+It may sound Pollyanna-ish. “With people I hate, people that have been unjust, it just sounds a little too syrupy to say, ‘May they be happy.’” But think about the type of happiness you’re wishing for them: true happiness, happiness that comes from within. If they had that kind of happiness, they wouldn’t be cruel or unjust.
+
+So, it’s not just a syrupy kind of thought. It’s actually a radical way of thinking about how the problems of the world might be solved if everyone could look within. This is a way of learning to think outside of the box. You read day after day in the newspapers about this political party, that political party: “They’ve treated us unfair so next time around we’re going to be unfair to them.” Well, nothing gets accomplished that way, and you can’t expect them to like each other and patch up their differences. That‘s the way the world is when everyone stays in the box.
+
+Look at our own families. There are issues in our own families that may never get patched up. A lot of people have long lists of grievances they carry around, grievances that will never be resolved. As the Thai Ajaans are always saying, “The work of the world is never finished. The issues of the world are never resolved.” One side seems to win, and then all of a sudden its winning gets too oppressive to other people and so they’ve got to fight back one way or another. When you think about the way the world is, you realize that the affairs of the world are never going to get settled.
+
+So we can’t wait for the world’s issues to be settled, we can’t even wait for the issues in our own lives to be settled, before we start looking for peace, because peace is the way out—peace within the mind, a happiness that comes from within. If you find yourself entangled with a lot of issues in daily life, remember that they’re never going to get absolutely settled. There is never going to be a final resolution. People die, but then that’s not the end of the issue; they come back again. Old, dead issues get reformulated and revived. So try to learn to think in ways to help disentangle yourself from those issues so that the mind can settle down. Tell yourself that you’re doing this for one of two reasons: either from the realization that your outside issues are never going to get settled, or that to the
+
+extent that those issues can be alleviated, the right actions will have to come from a
+
+clear mind, a mind that’s not operating under the cloud of delusion, the cloud of ignorance, or the simple inability to think straight, to think things through.
+
+So, either way, the solution to the problem is to settle the mind down. Think in this way if you’re having trouble getting the mind to stay with the breath. Ajaan Maha Boowa once compared meditators to two types of trees. One type of tree is standing alone out in the middle of a field. If you want to cut it down, it’s easy. You just go out, figure out which direction you want it to fall, and then you cut it. There’s no big difficulty. That stands for the type of people whose minds
+
+don’t have a lot of entanglements in the world. They can sit down, focus on the breath, and stay with the breath with no problem at all.
+
+The other type of tree is one in the middle of the forest whose branches are entangled with the branches of the trees around it. If you want to cut that one down, you’ve got to use a lot of strategy: learn how to cut this branch, cut that branch, disentangle things before you can then bring the tree down in the direction you want. So if you find that you’re that second kind of tree, you focus on the breath and the mind is not willing to settle down, look and see where your branches are entangled and what you can do to cut them. Learn to think in ways that make it easy to disentangle yourself.
+
+A friend once told me about a question he had posed to a number of his friends. The question was this: “Suppose that you’re dreaming, and in this dream you’re in a boat with your mother and your child, and a lot of other people you really feel you love a lot. A pirate comes along and demands one person’s life. What do you do?” He said as he tells this problem to adults, they think about their mothers and they think about their children, they think about sacrificing themselves and also think, “Well, if I sacrifice myself the kid will suffer…” And they can never solve the problem. But if you pose the question to kids they’ll say,
+
+“Well, wake up. It’s just a dream, right?”
+
+So, when you think about your life, try to see which problems are like that: You get into a situation and you lose your perspective on it. You lose your perspective on the alternatives that are available to you. You’re trying to solve the problems even though they’re dream-problems. If you woke up, they wouldn’t be there anymore. So wake up.
+
+That leaves you with the real problems. These are the ones you actually have to work through. If you can’t seem to get anywhere with them, look at what the real issue is: It’s not so much that the problem is intractable, it’s just that your tools for cutting through the problem have gotten dull. Your mindfulness, your alertness, your concentration, your discernment, have all gotten dull. That means you’ve got to sharpen them. So you put the problem aside for the time being and say, “I’ll get back to that when my tools are sharper.”
+
+So either way, whether your entanglements are dream problems or real problems, you have ways of thinking yourself out of the entanglement so that you can get the mind to settle down.
+
+We often forget that our mental tools are just that—tools—and they have to be cared for. Sometimes the situation they show us is not the real situation because they’re dull. They’ve been over-used. You haven’t taken proper care of them, so when you look at a problem you don’t really see it for what it is. That’s why you can’t see through it. So you leave the problem as it is, even though it’s unsettled and unfinished, and turn around to take care of your tools.
+
+This is a lesson every craftsman should know. You’re working on some wood and your saw hasn’t been sharpened properly. Even though there may be a deadline for your work and you’ve got to get it done, you have to stop and sharpen your saw, however much time it’s going to take. Then when you get back you find that you can do the job a lot better. Even though it may seem like you’re wasting your time, or you’re running away from the problem, you’re not. You’re simply putting yourself in a better position to deal with the problem, to see the problem for what it is.
+
+Many times you come back to it and realize it was a dream problem, or one of those problems where you’ve put up parameters around the problem that make it impossible for you to solve it. Like the brain teasers they put in the newspapers:
+
+They set up the conditions, so you have to ask, “Where have they not set up
+
+conditions?” That’s what gives you room to maneuver. Oftentimes you realize your inability to solve those problems stems from carrying in a few extra conditions that have not been placed on it. So, the best way to see that is to step out of the problem for a while. Sharpen your tools and then come back in.
+
+These are just a handful of ways of thinking about the unsettled issues in life that keep the mind from growing still. You’ve got to learn to disentangle yourself, even just temporarily, if you’re going to get the mind into the proper place, get it in proper shape, with the realization that some problems simply can’t be settled. If you’re going to wait until everything gets settled and then go for Awakening, you’re never going to get there.
+
+When the Buddha left home, he left a lot of issues. When he came back he was able to straighten all those things out, not by working on those issues directly but by having each member of his family focus on his or her own mind. Almost the entire family became arahants. Whatever issues they had before became non-issues. But then there are people who go off and then can’t train their families on their return. There’s the story of Ratthapala. He leaves home, much against his parents’ wishes. He comes back, wants to teach them, but they’re unwilling to accept the teaching. So he just drops the whole issue, realizing that there are some problems that will never be settled. As the Buddha said, winning out over your self is better than winning out over thousands of other people, because when you win out over other people it’s never resolved. If they don’t get killed off they’re going to plot their revenge, plot their return. If
+
+you do kill them off, they come back as your children—and then you’ve got a real
+
+problem! Karmic debts with your own kids.
+
+Victory over other people, victory outside, victory in war—even if it’s not victory in war but just everyday back-and-forth—never resolves anything. Even when issues get settled in court in the most fair and just way; well, there will always be some people who feel mistreated, and they’ll find some way to get back. This is the way of the world. Nothing gets settled really. The only way to reach any kind of closure is to disentangle yourself. And this is your way out: through training the mind.
+
+There’s a poem where the Buddha talks about looking at the world and seeing nothing but conflict, nothing but people struggling over things when there’s never enough. Like fish in a pond that’s drying up: After a while there’s not enough water for the fish and so they struggle and struggle and struggle and make things worse. He saw that that’s the way the world is. It gave rise to a real sense of dismay, a real sense of confinement.
+
+Then he looked inside and he saw that the problem was not outside. It lies in this arrow that we have in our hearts, this arrow of craving. We always want the things we like to be better than they can be, more permanent, more lasting. As for the things that we don’t like, we want them to be annihilated. That craving is the problem, it’s what creates all of our issues in life, our participation in those issues. Once you deal with the craving, that takes you out of the issue entirely. You’re no longer involved in that constant back-and-forth, that unending back-and-forth. You’re no longer grappling with other people over impossibilities.
+
+It’s important always to realize that we have the choice to get out. In fact, we
+
+actually chose to get involved to begin with. If you try to trace it back to the
+
+beginning point, you’ll probably never find it, but you will find the choice constantly repeated in the mind again and again in the here and now.
+
+One of the interesting points in the Buddha’s teachings is that he never talks about a first cause, unlike most other religions. And where would you find that first cause? If there was a first cause in time, it happened a long time ago, too long ago to trace back. He realized, though, that the pattern of reality is constantly repeated over and over again, and that there’s an element of creation with every moment. So focus on that. Look at the habits in your mind, the choices you’re making right here right now. You see that the pattern of your choices is the real problem and that it’s right here for you to look at, analyze, and
+
+solve right here. This is one of the few things that can get solved, the issue of
+
+craving in the mind.
+
+That craving is based on ignorance, and ignorance can be ended. What is it ignorant of? It’s ignorant of what really is stress and suffering; what’s causing it; what the end of stress and suffering is; and what qualities you have to develop to get out, to put an end to suffering. So you focus on them. What are you doing right now that’s putting a burden on the mind? You’re making choices that are putting a burden on the mind totally unnecessarily. So get the mind quiet to see if you can watch that happening. Until you watch it happening, it sounds pretty abstract. But when you can actually see the movements of the mind, that’s when
+
+you can see: “When the mind does this, it hurts. When the mind does this, it’s harmful, and I don’t have to do that—it doesn’t have to act that way. It doesn’t have
+
+to think in those ways.”
+
+This is where you resolve the issue. When you end this ignorance, all the other causal factors that lead to clinging, craving, and suffering all fall down like a line of dominoes. So this is where the problem lies, and it’s up to us to take responsibility
+
+for it right here, right now. If we don’t, who’s going to suffer? Well, we’re going to
+
+suffer. And when we suffer, we find it easy to make other people suffer, too.
+
+The Buddha doesn’t force anyone to practice. He simply says if you want to resolve the issues in your life, this is how they get resolved. This is what you have to do, and it’s up to you to choose: “Am I going to finally take the way out, or do I want to go back and settle a few old scores before I go?” The choice is yours, and you’re making that choice over and over and over again. If you see that the desire to settle scores is dominating your mind, you can always choose to change. That’s one of the good things about the path. You’re never committing yourself to suffering forever. You can always say, “I’m out of here.” This is not a question of irresponsibility. You’re taking your contribution to the troubles of the world and you’re removing it. That’s a choice that each person has to make for him or herself alone. We’re the ones who choose to get involved, so we’re the ones who have to choose to say, “I’m out of contributing to that particular problem. I’m out of that unending back-and-forth. I want to focus on the real problems, the real causes of stress and suffering in life.”
+
+It would be nice if we could do this for everyone else in our life, but we can’t. Each one of us has to do this for him or herself alone. The best way to encourage other people to do it is for you to do it yourself. That way they can see that it’s possible. As the Buddha once said, having the Buddha as our noble friend, as our admirable friend, is what makes it entirely possible to put an end to stress and
+
+suffering. We’ve got an example. Without that example, everybody stays in the parameters of the problems, the issues, as everybody else around us defines them. Within those parameters nothing ever gets resolved.
+
+The Buddha thought outside of the box, he acted outside of the box, and now he’s an example for all of the rest of us to get out of the box, too.
+
+Quiet in Every Way
+
+November 22, 2003
+
+Try to be quiet in every way. The body is sitting here quietly. The breathing is
+
+quiet, and as for the chatter of the mind, don’t get involved. There are two ways
+
+of dealing with it: one is to block it out, say, with a meditation word like buddho. You can just think buddho, buddho, buddho, very fast. It’s like jamming the circuits.
+
+Or try to immerse yourself in the breath as much as possible. The chatter may be in the background, but don’t pay any attention to it, don’t give it any importance. If you don’t feed it, you’ll find that it gets weaker and weaker. The mind really does get quieter. And only when the mind gets quiet can you begin to notice things.
+
+Once when I was in Rayong a group of people from Bangkok came up the hill to where I was staying in the old ordination hall. They plopped themselves down in the hall and exclaimed how peaceful, how quiet it was there in the monastery. Then they pulled out their boom box and turned it on—all the better to hear the peace and quiet with.
+
+That’s the way a lot of us are when we meditate. The body’s still, the breath is still, but the mind is like a boom box, broadcasting all kinds of thoughts and concerns. For many of us, meditation is the only time of the day when we get to sit and be with our thoughts without any interruption. But that’s not what it’s for. We’re here to watch, to observe. So, we have to do what we can to discourage the mind’s involvement with all that chatter.
+
+The Buddha breaks the mind’s chatter down into two different activities: one is directed thought, and the other is evaluation. You direct your thoughts to a topic and then you start mulling it over, commenting on this, commenting on that, backing up and restating things. Sometimes it’s as if there are several voices in your head taking on different roles, evaluating things from different perspectives. So what you have to do is to turn your directed thought to the breath and evaluate the breath. You use the mind’s verbal abilities, its verbal tendencies, but you’re trying to direct them to a better purpose, a quieter purpose.
+
+When you direct your mind to evaluating the breath, there’s not that much to think about. Notice when it’s coming in, when it’s going out. Notice when you’re forcing it too much—when there’s a squeeze at the end of the breath, or a catch in the breath when you’re trying to pull it in. Notice how you relate to the breath energy, which parts of the in-breath you like and don’t like, which parts of the out-breath you like and don’t like. It’s amazing that you can have all kinds of opinions even about this.
+
+At the very least, though, as you get more interested in the breath, other thoughts quiet down because you’re not feeding them. If you pay attention to all the vagrant chatter in the mind, of course it’s going to keep on going. Sometimes simply paying attention to the extent of telling it to stop actually encourages it, so you have to try another approach, which is to direct your verbal tendencies to the breath. Think up questions about the breath. In general, that’s how you direct your thoughts to things. You get curious and ask questions. “What’s this? What’s
+
+going on here? Is the breath as good as it could be? What is a good breath?” Do
+
+your best to get interested in the breath. To evaluate it you just have to watch it. The more still the mind, the more you can see.
+
+Ajaan Lee breaks the breath energy in the body down to three levels. First there’s the in-and-out breath; then there’s the waves of breath energy that go through the body along the nerves and the blood vessels as you breathe in and breathe out; and then there’s a still breath, which you can locate in the resting spots for the breath that he mentions in Method 2: the tip of the nose, the palate, the base of the throat, the tip of the sternum, the point just above the navel. If you can get really quiet, you can sense that there’s a stillness at these points that you can access. And there’s a way of focusing in on that stillness so that it seems to spread throughout the whole body, radiating out from those points.
+
+Now, the only way you can notice these very subtle breath sensations is to make the mind as quiet as possible. Just watch, like a hunter. The hunter has to be very still so as not to scare the animals away, but at the same time very alert so that he notices when they come. Or we can make a comparison with the mind state we try to develop when we’re listening to something faint and faraway and we want to hear it very clearly. We get everything inside as quiet as possible so that we can pick up the subtle sounds coming our way. The only way you can really pick up on the subtleties of the breath is to get the mind and body as quiet as possible, with your thoughts directed to the breath. If you make things quiet without focusing on an object, the mind begins to drift, and it has a very strong tendency to go to sleep or to blur out, blank out, which doesn’t accomplish anything at all. There has to be a focus—the focus of a hunter.
+
+Anthropologists say that when they try to pick up the skills of primitive tribes, these are the hardest of all—the skills of a hunter—because being a hunter requires so much mind/body discipline. So we need to be disciplined, even though it takes effort, for we’re here hunting the deathless. In the beginning we’re hunting subtle breaths, and then we’re hunting the still breath energy, and then we’re hunting the state of the still mind, and then we’re hunting the very subtle movements in the still mind. This requires successive levels of getting more and more still. So if you sense anything disturbing the stillness, just let it go. Don’t get involved. Don’t let it entangle you. Direct your thoughts to being as sensitive as possible to the breath.
+
+This process develops to the point where you’re so immersed in the breath that you don’t even have to direct your thought to the breath anymore. It’s as if your awareness and the breath are one. Then you just maintain that focus, that sense of oneness. That allows the mind to get even more still. Even the subtle level of inner chatter that goes along with directing the breath and evaluating can be dropped as well. In fact, you find that a lot of the progress in concentration practice comes from noticing even more subtle levels of chatter and letting them go. Then you run across an even more subtle level. You keep peeling away, finding all kinds of crazy things being said in the mind. But you let them go, until it’s just the chatter that keeps the mind on its topic, whether it’s the stillness of the breath, or a sense of space or a sense of knowing. When you can stay on these topics, they’re called perception-attainments. At that point your thinking
+
+isn’t called directed thought and evaluation. It’s simply perception, the labels you put on things, which hardly qualify as verbal sankharas. They’re mental sankharas. Verbal sankharas are sentences; these are simply words. But still they count as a
+
+kind of disturbance. Stay with that particular level as long as it keeps you
+
+focused, and learn to let it go when it becomes an obstacle to seeing things that are even more subtle.
+
+You can take this approach as a basic principle all the way through the practice because it embodies a lot of different teachings, like the four Noble truths: look for where there’s stress, in this case the disturbance; see what you’re doing to maintain it; let it go. This approach also embodies the teachings on emptiness. Notice what your mind is empty of, notice what’s still there, disturbing it, and see if you can let go of the disturbance without destroying your state of concentration. As the Buddha said, there is no happiness aside from peace; there is no knowledge aside from what can be seen with a still mind. Everything else is guesswork.
+
+November 25, 2003
+
+People here in America are always telling one another, “to take care.” When
+
+you say goodbye to someone you say, “Well, take care.” You sign off a letter saying, “Take care.” What does it mean, “to take care”? It’s actually very close to what the Buddha had to say in his last words: ”Be heedful.” If we interpret it in that way, “take care” is a really useful salutation. Often we interpret it to mean don’t get your self in danger in obvious ways. But there are lots of dangers that we create in ways that are not so obvious.
+
+What we do, what we say, and what we think have lots of repercussions. It’s like throwing a stone into a pond: the ripples head off in all directions and they bounce off of the shore and head back to create all sorts of interference patterns. Our actions are like that. Once you throw the stone into the pond you can’t stop the ripples. Once you intentionally act in any way, once the action is done, the results are going to have to ripple out and ripple back. So that’s the way in which you should take care: Be careful about the stones you throw. Be careful about what you say and what you do and what you think, because the ripple effect can go on for a long time, and in ways that you might not foresee.
+
+In fact, the Buddha said that the question of how kamma gets worked out is so complex that if you tried to follow every little strand of influence you’d go crazy. But if you stick by the basic principle that the quality of your intention determines the sort of results you’re going to get, you don’t have to trace things out. You just keep focusing on the quality of your intention, right here, right now. Be careful of what you do, careful of what you say, and careful of what you think. As when you’re sitting here meditating: Be very careful to stay with the breath. Be very careful to notice even the slightest hint that the mind is going to wander off. Catch it and come right back. The more sensitive you are to that potential, the more solid your concentration’s going to be. The more solid your concentration, the more you can see. The two go together.
+
+So, as you’re meditating, take care. And even when you get up from the meditation, take care again. We’ve been receiving some Dhamma magazines recently, and they show lots of evidence of carelessness. A chance remark that one teacher makes in a magazine can affect people’s lives for a long time to come. It may strike them in a certain way, and then they think, “Gee, this must be the Dhamma.” Then they take it to heart and live in-line with it. They may be totally off, yet they have no way of knowing, if they’re not observant. Or you see some people quoting the Buddha and they’re a little off in their quotes: careless, sloppy. When they try to draw inferences from those sloppy quotes, then the telephone game sets in: A little switch here, a little consonant change there, a little vowel change, and all of the sudden the meaning gets totally screwed up. And then from that screwed-up inference another can come, and then another and another and the message gets further and further away from the truth. People assume that’s what the Buddha taught. They can take it to heart and who knows what’s going to happen as a result—all kinds of strange things. There’s an old Chinese teaching that if you mislead people in your teaching you’re going to be blind the next time around. It’s that serious.
+
+So, this is why in our daily life we should be very careful about what we say, what we do, what we think. It affects us, it affects the people around us. The more careful you are, the less damage you do. This relates to several qualities
+
+that the Buddha taught: citta, being intent on what you’re doing, really paying
+
+attention. When you listen, pay attention; when you talk, pay attention. In other words, pay attention both to the things that come into the mind and to the things that go out, and exercise restraint.
+
+One of Ajaan Suwat’s most stinging ways of criticizing somebody was, “This is a person who, as soon as something comes into his mind, it comes right out of his mouth.” In other words, there’s no filter, there’s no quality control, in what you do and what you say. This is because there’s no quality control in what you pay attention to. That’s why appropriate attention is so important. It’s another part of being very careful: noticing what’s worth paying attention to and what’s not. If you focus on the wrong kinds of things, they can give rise to anger, greed, delusion; and then the ripple effect goes rippling out.
+
+So, we’re learning a very important skill here as we’re meditating: being very careful to stay with the breath, not letting the slightest thing pull us off, not letting the slightest thing interfere. This is precision work, because our wellbeing is precision work as well.
+
+After I’d been ordained a couple of years, Ajaan Fuang had me translate some Ajaan Lee. He said it was for the sake of my own meditation. One of the first questions I had for him was whether he wanted me to be literally accurate or to
+
+get the basic meaning, and he said, “Both.” He wanted me to push the envelope
+
+both ways: not to be too casual about throwing away the literal meaning, but not to obscure the deeper meaning, either. He once said that when Ajaan Lee gave sermons he would be speaking on three levels at once, and it was important to get all three levels in the translation.
+
+What this required was that I read Ajaan Lee a lot more carefully then I’d read him before, paying attention to the little phrases that I’d originally thought were little throw-away phrases, idiomatic, a peculiarity of Thai that didn’t really have much meaning. I began to realize that in some cases there was a deeper meaning there. Then I had to learn to be sensitive to what was merely idiomatic and what was to be taken literally. That required sensitivity, and the sensitivity that I developed as a translator translated back into my meditation.
+
+So, as a mediator, whatever your jobs are, whether they’re sitting here watching the breath or whatever you’re doing, always take care to be precise, to pay attention to the little details, because a lot of the details can have ripple effects if you’re not careful. If you’re careful they can also have a ripple effect in the right direction.
+
+Treat life as precision work. Treat the meditation as practice for the precision work, your laboratory for making your awareness more and more precise, developing the intensity of your intentness, so you really can sense the little things. That’s one of the reasons why life in the monastery is kept to a very simple level. The interference patterns of a lot of different duties don’t block each other; there are very few things that have to be done, so we learn how to do them precisely, do them well, even if they seem trivial or minor. The act of doing them is an opportunity to develop good qualities in the mind.
+
+So the intentness that you bring to all of your activities is a part of the practice. It helps your meditation and the meditation helps the precision of your day-to-
+
+day life. If you put the two together, then everything that’s a part of your life here at the monastery becomes a part of the practice, a part of the development of the mind. I noticed that Ajaan Fuang’s best lay student meditators were the ones who took everything in their lives as a lesson for the practice. Living here at the monastery the principle holds even more so.
+
+So, whatever you do, take care.
+
+Just This Breath
+
+December 11, 2003
+
+Don’t tell yourself you’ve got a whole hour to sit here. Just tell yourself
+
+you’ve got this breath: this breath coming in, this breath going out. That’s all there is: this breath. As for the breaths for the rest of the hour, don’t even think of them
+
+right now. Pay attention to them when they come. When they go, you’re done
+
+with them. There’s only this breath.
+
+Your meditation needs that kind of focus if you’re going to see anything clearly. This attitude also helps to cut through a lot of the garbage at the beginning of the meditation. You may have experience from the past of how long it takes for the mind to settle down. But by now you should have a sense of
+
+where the mind goes when it settles down. Why can’t you go there right now?
+
+Once you’re there with the breath, and you can get your balance, try to
+
+maintain balance. Again, it’s just this breath, this breath. See what you can do with this breath. Welcome it as an opportunity for making things better. How deep
+
+can it go, how good can it feel? How much of your attention can you give to it?
+
+Ordinarily, the mind is like a command post where you’re receiving information from all directions about all sorts of different things, and it has a tendency to reserve some attention from what you’re trying to focus on right now in case an emergency comes up. But while you’re meditating you want to bring all of your attention to the breath. Don’t hold anything in reserve. If you find any part of your mind or body that’s not connected with the breath, well, get it connected. Add it on. Let the connected parts build up as much as they can with each breath.
+
+The more fully you can be in the present moment, the better. One moment of full attention is better than a whole hour of just drifting around. Of course, a whole hour of full attention is better than just one moment, but you can’t do the
+
+whole hour at once. You can only do this moment, so give yourself fully to this
+
+moment. Don’t hold anything back.
+
+In the texts this quality is called citta, intentness. It’s one of the bases of
+
+success. It means giving the breath your full attention, not saving anything for
+
+the next breath. You give everything to just this breath. After all, as the Buddha
+
+says, how can you know how much longer you’re going to live? There’s the sutta where he asks the monks, “How often do you remind yourself of death every day?” One monk responds, “I remind myself that if I had one more day to live, I could do an awful lot in terms of the practice.” Another monk says, “I tell myself that if I had half a day left to live, I could do an awful lot in terms of the practice”, and so it goes on down to shorter and shorter intervals of time until finally one monk says, “I keep telling myself, ‘If I had one more breath to live I could do a lot in terms of the practice.’” And the Buddha says, “The last monk is the one who’s not complacent.” Everyone else, he said, counts as heedless and complacent.
+
+What this means is that in one breath you’ve got everything you need to focus on, everything you need to “do a lot in terms of the practice.” If we let our practice get automatic without giving it our full attention, then this breath comes and that breath goes, and all without our getting much out of any of them,
+
+thinking somehow that the number of breaths can make up for the fact that we didn’t really pay attention to any one particular breath very much.
+
+It’s like presenting an argument. Some people think that 50 weak arguments add up to one strong argument, or that 50 poor reasons for something add up to one good reason, but they don’t. All you need is one really good reason, one really good argument that goes straight to the jugular, and you win the day. It’s the same with the meditation: all you need is one really good breath, one intently experienced breath, one fully experienced breath. That can show you a lot more than an hour or two of superficially viewed breaths—breaths where you’re just skimming across the surface, hoping to get through all this breathing to the end of the hour.
+
+So try to immerse yourself in the breath. The word kayagatasati means mindfulness “immersed in the body.” The “–gata” there is a suffix meaning
+
+immersed. Try to surround yourself totally with the breath. Be aware of the breath on all sides. That way you don’t have room to hold anything back. Things begin to open up in the body, things begin to open up in the mind. Sometimes, you can begin to detect an actual physical sense that you’ve been pulling yourself back somehow from your body, or that you’re doing it now: pulling yourself back from being totally immersed in the present moment, saving a part of yourself for something else. Well, as you’re meditating, let go of that sense of pulling back. Let yourself jump right in to the present moment the same way you’d jump into a big pool of water.
+
+Everything you need to know for the purpose of Awakening is right here, and if you hold back it that means you’re missing some of the elements. So as far
+
+as you’re concerned right here, right now, this is all there is: the right here, the right now—this breath, this breath. If you see any thoughts arising in the mind about how much longer we’re going to be sitting here or how long we have been
+
+sitting here, just let them blow away. Think of the breath as going right through them, not giving them any space to land. You’ll find, as you stay fully immersed in the breath like this, that a lot of the good qualities you want to develop in the practice come along without your having to think about them. You don’t have to worry about directed thought, you don’t have to worry about evaluation, you don’t have to worry about all those Wings to Awakening. As you fully give yourself to the breath, fully give yourself to the present moment, they all come together.
+
+Luang Paw Phut once told of the time he was studying with Ajaan Sao. Ajaan Sao’s meditation instructions were simplicity itself. “Just focus on the meditation word,” he said, “that’s all you have to know. Don’t ask what it means, don’t ask
+
+where it’s going to take you. Just focus on the one word, buddho.”
+
+Luang Paw Phut, being the sort of person who liked to read a lot, would read Ajaan Singh’s meditation guide, which talks about establishing mindfulness and all the other steps you have to go through to get into your meditation. So he asked Ajaan Sao about this, and Ajaan Sao said, “Look, when you focus on the
+
+buddho, all those other steps happen of their own accord without your having to
+
+decide where mindfulness is and where you have to establish it. If you allow
+
+yourself to focus fully on the buddho, all those other qualities come along as
+
+The same holds true in being with the breath. Fully give yourself to the breath. If you want to say a meditation word along with it, think of every little
+
+cell in your body saying buddho, buddho until the mind is really there with the
+
+breath. Then you can let go of the word and just be with the breath. Don’t pull out, don’t pull back, just stay right here.
+
+Bit by bit you’ll find yourself adjusting to staying right here comfortably: that’s the directed thought, that’s the evaluation. But you don’t have to give those processes those names. Just be right here, be aware right here, be comfortable right here, and the fullness of your awareness will develop over time without your having to plan ahead, without your having to pace yourself. Give yourself fully right now. If you give yourself fully right now and if it grows fuller in the course of time, fine. If not, you’ve done everything you can, so there’s no need to worry about it. You don’t have to ask yourself where you are in the grand arc of the hour. You don’t have to save yourself for the last lap. It’s not like being a runner who has to pace himself. You give yourself fully to the breath right now, right now, and don’t have to worry about what you’re going to have left at the end of the hour. The full-giving right now is what’s going to see you through the hour.
+
+So, as you’re meditating here, there’s just this one thing: this breath. That’s all
+
+you need to know.
+
+Laying the Infrastructure
+
+January 12, 2004
+
+Try to be as sensitive as possible to the breath. Get down to the details of the
+
+breath, because the more sensitive you are to this one thing, the more you develop the quality of discernment that we’re aiming at. And keep your eyes on the road. In other words, don’t anticipate where you’re going to go with this. Just keep following the steps, step by step, and the causes will take care of the results. It’s not the case that by imagining results you’re going to get the causes to go in that direction. If that were the case, Right Imagination would be one of the steps on the path. But it’s not.
+
+What you want to do is develop the path, develop Right View. So concentration, mindfulness—all the elements of the Eightfold Path—are things to be developed. And where do you find the things to be developed? They’re right here, right in front of your nose. That’s where the work is to be done—not in your anticipation of where you’re going to go, but in paying really close attention to the breath right here and now. This is your path. If you spend all your time looking off to the horizon to see the big mountain we’re headed to, you lose sight of where you’re going and drive off the side of the road or crash into somebody, and you never get there.
+
+It’s by following the path that the path develops. It’s by focusing your attention of the breath—getting really, really sensitive right here—that your sensitivity is going to take you where you want to go. Because the sensitivity involves not only very clear perception, but also continuity. If you really want to be sensitive to something, you’ve got to watch it continuously and not go skipping around.
+
+Think of a needle on a record: When the needle stays in the groove, you hear the music on the record. If the needle goes jumping around, then all you get are screeches and scratches, and they don’t make any sense at all. And it certainly isn’t music. It’s by staying in the groove and by following each little squiggle that the record player delivers the music.
+
+So be very sensitive to the little squiggles in your breath. Keep tabs on this one level of your awareness. As you get more sensitive to the present moment, you begin to notice that there are lots of different things you could focus on, and your ability to stay focused on this one thing in the midst of everything else is what makes the difference. It’s not like you’re trying to blot out or be oblivious to those other things. It’s simply that you keep track of this one level of awareness, this one level of sensation that you’ve got right here.
+
+It’s like a radio tuning into a station: The radio waves for all the stations in the San Diego and Los Angeles area are coming through this room right now, but when you have a radio you choose which one you want to listen to. The rest are still going through the radio, but you don’t tune in to them. So try to stay tuned in to the breath and resist the temptation to go wandering after other things.
+
+And you’ll find all kinds of things to distract you. Some of them are obvious, like the chattering going through your mind. You don’t have to do anything with that chatter. Just make sure that the main member of your committee is right here. As for the other members of the committee, they can be off in the corner
+
+talking about whatever they want to, but you don’t have to silence them. If you don’t pay attention to them, after a while they’ll fall silent on their own. Otherwise, if you keep running back and forth between the breath and trying to stop this thought and stop that thought, the breath gets abandoned, and so instead of being concentrated on the breath, you find yourself running around.
+
+There’s a children’s game I saw once in a department store in Japan. In the department stores there they have game arcades up on the top floor, where the children can play while their mothers are shopping. One of the games depicted a set of holes in the ground out in the American prairie. Every now and then a plastic prairie dog would pop up out of one of the holes, and you were given a plastic mallet to hit the prairie dog on the head. And of course you spent your time crazy with all these prairie dogs popping up here, popping up there. Kids loved it, of course, but it wasn’t a concentration-inducing game.
+
+So don’t go out hitting all the prairie dogs on the head. Stay right here with your breath. The prairie dogs will pop up from one hole and then another hole, and then they’ll go away; and they’ll pop up again and then go away again, but you don’t have to go around hitting them. Just stay with this one focus on the breath.
+
+There’ll be other distractions, too. There’ll be pains in the body here and there, but you don’t have to focus on them. Try to make the breath as comfortable as possible. You can let the pain have whichever part of the body it’s going to have. You don’t have to get involved. As you’re working on the comfortable breath at one spot, eventually you’ll be able to spread the comfortable breath energy from that spot out throughout the body, right through the pain. That will help take away a lot of the discomfort, a lot of the tension, a lot of the sense that you can’t stand it. But in order to do that you’ve got to work on your foundation right here. So, again, stay with the breath.
+
+Feelings of energy, rapture will come up sometimes. Again, stay with the breath. You know the feeling of energy and rapture is there, but you don’t have to get involved with it. You can’t take that as your object. You have to stay with the breath as your object all the time. Some people say that once the mind begins to settle down, you drop the breath and stay with the feeling of mental pleasure. Well, if you do that you’ve abandoned your foundation and you can easily get lost wandering off someplace else. You want to stay right here with the breath. Whether the things that come up in the body strike you as good or bad, you stay with the breath as your foundation. As Ajaan Fuang once said, “This is the basis for all of our skills.” Don’t abandon the basis.
+
+If the energy gets too strong, just think of it going out the palms of your hands, the soles of your feet. Don’t try to hold it in. That way you find it easier actually to stay with the breath and to get to a more refined level of breathing, a more refined sense of the body.
+
+Visions may come up. You may see a light. You may actually see faces or events—and those may be signs that your mind is beginning to settle down. But think of driving down a road: When you drive down the road and see a sign that says, “Entering Valley Center,” you don’t get up and drive on the sign. You stay on the road. Whatever comes up in the meditation, especially as the mind begins to settle down and distorts its sensation of the body – sometimes the body feels really big, sometimes really small – you know that that’s happening, but you
+
+don’t make it your focus. You keep your focus on the sensation of the breathing, because what you want to do here is to develop a really strong foundation.
+
+All kinds of things can come up in the meditation, and if you don’t have a foundation, they can knock you away. Not just the obvious distractions, like distracted thinking. Any of the obstacles—some of the seemingly positive things that are signs that the mind is beginning to settle down or things that happen in the body or the mind as the mind begins to settle down: You don’t want them to distract you, either. You‘re working on your ability to stick with one thing no matter what else happens. And again, it’s not that you’re denying the experience of those other things. It’s simply that you’re able to maintain your focus in the midst of all the activity around you. This is the ability that will give rise to discernment: this ability to stay right here with your foundation.
+
+You begin to see thoughts come and go as if you were watching them from outside. It used to be that you would take on those thoughts almost like a coat that was handed to you: You put on the coat and it became your coat. You were inside it. But this time, instead of taking it on, you sit very still and watch the thought come, watch it go, so that it doesn’t take over the mind.
+
+Any thoughts of boredom, impatience, or anticipation about what this is going to be, what that’s going to be, sudden insights that spring up in the mind: You have to watch out for those, too. Sometimes they’re true, sometimes they’re false. It’s like what the tracking books “fox-walking”: You don’t place the weight on your forward foot until you really know that your forward foot is in a good place to support your weight. So you try to keep your weight on the back foot, where you already are. You stay with the breath. Whatever comes up, you watch it. And only if it looks like a good thing to follow, then you try. But even then you have to be very careful. The best thing, especially in the beginning, is to regard everything aside from the breath as someplace you don’t want to go, and that way you can maintain your foundation.
+
+We tend to think of insight practice and concentration practice as two separate things. But where does the insight practice come from if it doesn’t have this good foundation of stillness? After all, it’s only when you’re still that you can see subtle things move. So the time spent on concentration, being very careful to watch this very mundane thing, the breath—coming in, going out, getting familiar with it, getting to have a sense of being at home with it, getting it to be comfortable—is not wasted time. It’s time spent working on your foundation.
+
+Remember that the taller buildings require deeper foundations, and you’re here working on a building that’s really tall. So you’ve got to dig down deeply into the bedrock so that when the time does come to build that building, it’s not going to fall over. Only when the mind is really still can it really see. Only when it has a solid, unwavering foundation in the breath can it see other things moving in the mind.
+
+It’s like running a very subtle experiment that requires very precise measurements: You want to make sure that the building you’re in has a solid foundation; the table on which the instruments are placed is solid and not liable to rock. Only when everything is solidly based can you trust the measurements. But if the table wobbles or if the building doesn’t really have a good foundation, then no matter how precise your equipment, you can’t trust the results of the
+
+experiment, you can’t trust the measurements, because all you may be measuring is just the wobbling of the table or the settling of the building.
+
+So stay right here. Only by burrowing into this point, really getting sensitive to what’s going on at this point, can you gain insight. Remember the three knowledges the Buddha gained on the night of his Awakening. The first knowledge was about his own past lives. The second knowledge was about the dying and rebirth of all the beings in the cosmos. Those weren’t the knowledges that gave him Awakening, though. They pointed him in the right direction, because the second knowledge pointed to the question of kamma, of views and intentions: the actions of beings, the views under which they acted. This is what inspired the Buddha to turn around and look at his actions and views in the present moment. He got very sensitive to what was going on in the present moment. “What does it mean to experience the present moment? Is it something you passively watch or is it something you shape? And if you shape it, can you catch yourself shaping it? What happens if you reach a point of equilibrium where there’s no shaping, there’s no intention at all? What does that do?”
+
+Where did the Buddha see these things? Right here in the present moment, because he was very sensitive right here. And he wasn’t thinking about getting to universal compassion or universal emptiness or universal equanimity or anything, he just wanted to understand the present moment, really see what was going on. And it was in seeing what was going on that made everything open up in a way that was really stable, solid, safe, and secure.
+
+Of course, it’s possible to have great Technicolor experiences in your meditation, but if they’re not well founded they can actually do more harm than good. Some of these dimensions can leave the mind really frazzled, at the end of its rope. Or it can open up for the time being to certain dimensions, tune in to a radio station that it’s never heard before, that has some really fantastic music. But if your radio can’t stay tuned to a particular station, you don’t want to go there. It just flips in, flips out, and can be very disorienting.
+
+So what you want is to be really stable. It may not be as exciting as the Technicolor movies, it may not be as dramatic or glamorous, but it really delivers the goods. One of the qualities I noticed immediately when I started spending time around the Thai Forest Tradition, getting to know the ajaans, was that they all had their feet firmly planted on the ground. They were no-nonsense, matter-of-fact, down-to-earth people. And this quality of being down-to-earth was what helped guarantee the stability and safety of the practice they were following, so that the insights they gained were not shrouded in a cloud of denial or in some never-never land. They were firmly grounded in the present moment—actually, in something deeper than the present moment but that’s found in the present moment. And the quality of groundedness was their guarantee. When unusual things did happen in the meditation, they were grounded in their ability to gauge those events to see what was useful and what wasn’t, what was reliable, what was not.
+
+So when we’re dealing with our own minds, that groundedness is the quality we want. Awakening, when it comes, is not a disorienting experience. It’s the exact opposite. It makes you even more grounded, better oriented: oriented to the Deathless. And so the path to take you there has to be a grounded path as well.
+
+What this means is that we’re working on a foundation. Foundation work is not necessarily glamorous work. Look here at the monastery, with all the infrastructure work that has to go down into the ground: It’s very difficult to get donations for underground pipes, underground electricity systems, but it’s essential. The infrastructure under the ground is what everything else is based on. It may not be glamorous, but that’s what guarantees that everything else is going to work.
+
+So as we’re meditating here we’re working on infrastructure. And even though the people who work on infrastructure don’t have the most glamorous jobs, the most sought after social position, it’s because of them that society can function. It’s because of this infrastructure work that you’re doing right now: This is what’s going to make your meditation work. So have the pride of a craftsman, because this is the kind of work upon which everything else depends.
+
+Heedfulness is the Path
+
+June 2, 2004
+
+Tonight is Visakha Puja, the night that marks the full moon day in the month
+
+of Visakha, which straddles May and June. The Buddha was born on the full moon day in Visakha, and thirty five years later on the same night he gained awakening, and forty five years after that on the same night he passed away into total nirvana. So we’re commemorating a lot of events tonight, and there are a lot of things to keep in mind in connection with those events. But one very useful teaching connected with them comes from the Buddha’s last words before he passed away: “Obtain completion in the practice through heedfulness.” He could have ended his teaching career with some nice platitudes about emptiness or nirvana, but instead he emphasized heedfulness as the essence of the practice, the most essential part of the practice. When you look back through the Canon, you find many places where he said that heedfulness is the quality that underlies all the other skillful qualities you develop in the mind.
+
+Heedfulness, appamada, can also be translated as vigilance, wariness, non-
+
+complacency. In other words, it’s the realization that there are genuine dangers in the world and you have to be careful about them. The most important dangers are the ones you create for yourself. Now, this emphasis on being careful is an interesting thing to think about. It means that our actions really do make a difference: You have to be very careful that you don’t do things that pose a real danger to yourself. And because your actions come out of your intentions, you have to look at the qualities in your mind that shape your intentions. Those are the real dangers in life.
+
+So, you can’t even trust your own mind, or rather, you can’t trust everything that comes into the mind, let’s put it that way. The question, then, is who can you trust then? It’s interesting the Buddha didn’t say to trust him or trust his teaching without testing it. In fact his response to the fact that a sense that there is danger in life and that there are dangers inside your own mind is to give you guidelines on how to test your own mind. And in the course of testing it you make your mind more and more reliable, so that you don’t give in to laziness or lack of mindfulness, you don’t give in to complacency. You realize there are urgent things that need to be done in this life. Our own actions shape so much of our lives, and it’s so easy to do things that are careless, so easy to do things that are just the quick way out. So we have to be careful. We need to have a sense of urgency, a sense of heedfulness in order to protect ourselves from those qualities.
+
+The most disconcerting of all the qualities in the own mind is our own delusion, our tendency to lie to ourselves and to believe our lies. This is not an issue of being deluded about truths that are far away. It concerns very simple things, things close at hand. Many times we’re out of touch with our own intentions. We’re out of touch with what we are actually doing. We’re out of touch with the results of our actions. And it’s precisely here in these areas that we can create the most danger for ourselves. We can lie to ourselves about our intentions. When we do something that causes harm, we can lie to ourselves that it wasn’t really harmful, or doesn’t really matter, or we really didn’t do it to
+
+begin with. Those are the qualities in the mind you have to watch out for, to be the most careful about, the most heedful about.
+
+This is why when the Buddha gave his most basic teachings to his son, he started with precisely this issue: first, being honest with yourself, being truthful to yourself, and then, second, being careful to focus your attention on your intentions, on your actions, and on the result of your actions. He said to look at intention every time you act. What results do you expect from this action? If they’re going to be harmful, don’t do it. Here the important point is to be very clear that what you’re going to do is sure to have consequences. Many times we tend to forget: We do something because we like to do it and would rather not think about the consequences. Sometimes we insist that we’re not responsible for the consequences. But every time you choose to act there has to be a purpose, there has to be something you hope to attain by the action, so ask yourself precisely what do you hope to get out of this? What results do you expect? If they’re results going to be harmful, don’t do the action, don’t act on the intention. If they don’t seem harmful then you go ahead and act.
+
+While you are acting, you watch to see precisely what results are beginning to come from the action, because many times those results will come right then and there. You don’t have to wait until your next lifetime to see the results of your actions. Many of them come up right away. So watch for that. If there are some unexpected harmful results, stop, don’t continue with the action. If you find no harmful results, you can go ahead with the action.
+
+Then when the action is over, you look for the long term results. When you’ve seen something that may have seemed harmless while you were doing it but it actually did cause harm over time, you consult other people on the practice to make sure your perception is correct. At the very least, get their perspective on the matter so that you’re not operating only on your own perspective. Then, when you’ve seen both from your own and from the perspective of the wise that your action was a mistake, then make up your mind that you’re not going to do it again. This applies to your thoughts and your words as well, not just to your physical actions.
+
+The same pattern goes all the way through the practice. There are other discourses where the Buddha says to look at the way you relate to sights, sounds, smells, tastes, tactile sensations. If the way you relate is causing harm, then don’t relate in that way. Watch what you are doing to see where you’re causing harm simply in the way you react to your sensory input. When you’re practicing meditation, once you settle in to a stage of concentration step back a bit and see what you’re doing in this process of concentration that’s still causing a disturbance or placing a burden on the mind. When you catch sight of the perception that’s causing the burden, you drop it.
+
+In this way the Buddha teaches us to cut through our delusion by watching precisely these things: what our intentions are, what our actions are, what the results of our actions are, both immediately and long term. In this way—as we apply this test to our actions and resolve not to repeat any mistakes we’ve already made—we find that the process of testing ourselves in this way makes us more and more reliable, turns us into people of integrity, people that we can trust.
+
+One of the biggest dangers in life is not being able to trust yourself. If you’re a good person as long as things are going comfortably and there are no great disturbances, the Buddha says that that’s not enough to know if you are really
+
+reliable. But when there are difficult circumstances and you see that you can still maintain your precepts, maintain your integrity, that’s when you have a sense that you can begin to trust yourself. Once you can trust yourself, you have an inner standard that helps you know when you can trust other people. When you’re choosing a teaching to follow, you can become the best judge of whether the teacher is good or his teaching is good when you yourself become more and more a person of integrity. As the Buddha said, a person of integrity can tell when someone else has integrity or not. People without integrity can’t tell. They themselves are used to lying to themselves and believing their own lies, so it’s easy for them to lie to themselves about other people. But when people are truthful, when they have that element of integrity inside, they can sense its presence or absence in other people. In this way you can develop a reliable sense of which teachings are reliable, that you can follow with confidence, and which ones you have to be wary of.
+
+So this is what heedfulness teaches us. When the Buddha counsels heedfulness, he’s not teaching you simply to be wary and skeptical. He’s giving you precise tests for how you can test things, guidelines for how you can test things, so that you can find what within you is reliable. Once you find what’s reliable within you, then you can look around to other people you’re hoping to learn from and see what’s reliable in them. In that way heedfulness is not simply a wariness; it’s a wise way of gauging the different approaches we might possibly use in living our lives.
+
+And this is also why heedfulness is the number-one basic quality for developing what’s skillful within you. To begin with, it gives you a sense of the importance of your actions and of the potential dangers of acting in unskillful ways. Once you have a sense of the dangers and some good guidelines for testing your actions so as to root them out, then you find that you develop more and more integrity as a person. You sense the importance of being skillful in everything you do, say, and think—and that means that you’re going to be more careful in what you do, say, and think.
+
+It’s in this way that the practice achieves completion. Heedfulness is a basic teaching but—as the Buddha pointed out in making it the topic of his very last sentence—it’s essential to all the practices we undertake to find true happiness. That’s what the story of the Buddha’s awakening, the story of his passing away, was all about: the serious search for true happiness—realizing that there are so many forms of happiness out there that seem desirable but are not really reliable, and then looking at the actions that we do in quest of those forms of happiness, to see which ones we can trust and engage in with a sense of confidence, and which ones we have to abandon, to drop.
+
+So those were the Buddha’s last words, his final recommendation for how to practice in a way that you really do develop a true happiness, a reliable happiness, a happiness that’s not dependent on conditions. And to find this happiness, you don’t have to look very far. Look at what you’re doing. Keep the practice close to the ground. Look at your intentions, look at your actions, look at the results of your actions, and be very truthful to yourself about these three things. If you’re truthful right here, then you’ll find the truth, and the truth of the Deathless will be attainable. Truth is not a quality of statements—“Is this statement true? Is that statement true?” Ultimate truth is quality of the mind: the
+
+mind’s truthfulness with itself, its willingness and its ability to admit the truth and to act on the truth. And that’s how the truth is found in other ways as well.
+
+So we don’t look for the truth outside, we start looking for it within. Once you gain this touchstone for testing the truth within yourself, then you can recognize it when you see it outside yourself as well. This is important. If we don’t find this kind of truth, we’re subject to all kinds of delusions, all kinds of misunderstandings. We don’t really have any sense of who outside we can trust, and that puts us in a dangerous situation. There really is danger in this world. But the potential for security is not something that lies outside; it lies more within ourselves. It lies within our capacity to overcome that danger, to provide ourselves safety from that danger.
+
+So you can imagine the monks at the night of the Buddha’s awakening: They’re expecting some special, exoteric teaching on the wonders of nirvana or the wonders of the deathless and they get this teaching instead. It turns them back on themselves, what they’re doing right now. So the teaching should also
+
+make us also reflect on what we’re doing right now as well. The teaching comes
+
+across two thousand six hundred years and points right at your nose, right between your eyes. Of all the things the Buddha could have said on the last night right before he entered total nirvana, this is what he left as his final legacy for the human race: the reminder to be heedful. As he said, all fabricated things are subject to change, subject to passing away. It’s through heedfulness that we find what’s not subject to change, what’s not subject to passing away, something that’s not fabricated. As he said, “Heedlessness is the path to death, but heedfulness is the path to the deathless.” And it all starts right here within our own minds.
+
+Days Fly Past
+
+July 28, 2004
+
+“Days and nights fly past, fly past: What am I doing right now?” The Buddha
+
+has you reflect on that every day. The first sentence is for reflecting on how fleeting time is. Our lives are rushing—where? Rushing toward death, that’s for sure. When are we going to come slamming into death? We don’t know. So we don’t know how much time we have left, which comes to the second part of the reflection: “What am I doing right now?” You at least know that you have the present moment. What are you going to do with it? For the Buddha, that’s always the big question. What are you doing with what you’ve got right now? His teaching focuses on doing, on action. Everything we know is an action or the result of an action. Even theories are actions. Ideas are actions. Concepts are actions. They’re part of a casual chain. Where are they taking us?
+
+Even when you’re meditating, sitting here trying to do absolutely nothing, there’s still an action going on. There’s an intention. So what is your intention right now? Focus on the breath, get the mind to settle down. And in the process of settling down, learn to see what’s going on, to see more and more clearly what you are doing. The whole point of the practice is to get clearer on what it is to act. What does it mean to do something? What does it mean to have an intention? And in particular, which actions and which intentions are most skillful. Which words, which thoughts, which deeds are most skillful? Always look at things in those terms.
+
+When I was staying with Ajaan Fuang, and I’d report a particular experience in my meditation, he’d never say, “This if the first jhana,” “This is the second jhana,” this is whatever. He wouldn’t tell you what it was, but he would tell you what to do with the experience. First off, though, he’d want to hear about experiences that had happened repeatedly. In fact ones that you were continuing to have right while you were talking to him: Those were the best. If you could get into a particular stage of concentration, he wanted you to try to maintain it, to bring it to him basically. And then he would tell you what to do with it. That was the important thing: what to do with it.
+
+Ajaan Phut, in one of his Dhamma talks, described his time studying with Ajaan Sao. When people came to study meditation with Ajaan Sao, he’d teach
+
+them buddho as the object of meditation. If they wanted to know what it meant,
+
+he would say, “Don’t ask. Just go ahead and do it.” If they wanted to know what was going to happen if they meditated on Buddha, he’d say, “Don’t ask. Just do it and see what happens.” And so if they actually meditated and came back to report on what was happening, they’d want to know, “Is this right?” and he’d tell them whether it was right or wrong, and then say, “This is what you should do with it next.”
+
+That’s the attitude we should try to develop in our meditation: Whatever comes up in the meditation, always ask the question: What am I going to do with it? When you see visions, when you see light, what are you going to do with them? That’s the important issue. If you place too many layers of interpretation on what you see—“Is the vision true? What does it mean?”—you get further and further away from the whole point of the practice, which is to be clear on what
+
+you are doing. Oftentimes when an insight comes, the important thing is what happens in the mind right after the insight arises. If there’s a sense of pride— “Hey I’ve had this insight! I’ve learned this understanding!”—you’ve short circuited the process. The insight, if it’s genuine insight, is supposed to help cut through some defilements, but what we tend to do with it is pile a few more on. So whatever comes up in the practice, ask yourself: “What should I do with this? What is the most skillful way of approaching this so that I can learn some good Dhamma lessons?” And then you let it go.
+
+As for what you did in the past, you don’t want to carry that around as a burden, but in case there are things in the past that are burdensome to the mind, the best way to deal with them is to try to develop as much goodwill, compassion, appreciation, equanimity as you can in the present moment. Try to make these qualities as limitless as possible. There are many passages in the canon where the Buddha said that these are precisely the qualities of mind that help mitigate memories of past mistakes, and they help mitigate the karmic force of past mistakes as well. You can’t totally erase those karmic forces, but you can mitigate them. If you couldn’t mitigate them, there would be no way anyone could get out of the cycle. It would just be one endless stream of retribution because we’ve all got bad things we’ve done in the past.
+
+But again, when memory of that sort of thing comes up in the mind, the question is: What are you going to do with it? The Buddha doesn’t advise remorse. He advises developing the proper attitude: One, being determined not to repeat the mistake, and then two, trying to develop as much limitless goodwill as you can for all beings. Of all the activities that are said to be meritorious— giving, virtue, and the development of goodwill—goodwill is the most special. Giving and virtue provide their benefits right now and on into the future. But only the development of goodwill can work retroactively, tempering the results of bad actions in the past. The image the Buddha gives is of enormous river, like the river Ganges. You can put a hunk of salt crystal in the river Ganges and still drink the water. It isn’t too salty because there’s so much water compared to the salt. But if you were to put that same hunk of salt into a glass of water, you couldn’t drink it because the amount of water is so small. In the same way, when you develop an attitude of goodwill without limit for all beings, it helps mitigate
+
+the impact of past actions. So there is something you can do in the present
+
+moment to mitigate past actions. You can’t totally erase them, but you can mitigate their impact. So if that’s what’s coming up in the mind, memories of past mistakes, develop goodwill. Instead of asking, “What did I do in the past? Why did I do it?” it’s more fruitful to ask, “What am I doing about these memories of the past as they’re appearing in the present?” That actually gets you somewhere.
+
+If anticipations of the future are coming up in the mind, reflect on death, because you don’t know when or how it’s going to happen. You have to be prepared for that eventuality as well. Someone once said that wisdom starts with the reflection on death, realizing that you don’t have all the time in the world. You can’t just do anything you want to. You’ve got to figure out what you are going to do with the small amount of time remaining to you. What is the best use of your life? And again, that boils down to: What are you doing right now? If you’re putting the mind in shape so that death won’t shake it, you’re doing the right thing with right now.
+
+Why does death shake the mind? Because we identify with the body, we identify with feelings, perceptions, thought constructs, sensory consciousness. As long as we identify with things, we’re going to be shaken not only by death, but even by the slightest changes in these things. Life seems to be going along well and all of a sudden something comes up unexpectedly. We’re rocked by it. So the path of practice that allows us to let go of these things, to stop identifying with them: That’s the path of practice that’s the best use of our time right now.
+
+There’s a passage in the Canon where a group of monks are going to a strange land. So they go to say good-bye to Sariputta, and he asks them, “Suppose someone asks you: ‘What does your teacher teach?’ What are you going to say?” Apparently they hadn’t given much thought to this, so they said,
+
+“Well, what would you say?” And Sariputta said, “Our teacher teaches the
+
+abandonment of the attachment to the five khandhas. And the next question would be, “What advantage do you see in that?” And the answer: “Because when the five khandhas change, the mind isn’t shaken by them.” That’s Sariputta’s synopsis of what the whole teaching is all about: how to keep the mind from being shaken. And this is what we’re working toward, what they call the unshakeable release of the mind. To get there involves virtue, concentration,
+
+discernment: heightened virtue, heightened mind, heightened discernment. With
+
+heightened virtue, you really are meticulous about your precepts, you really are meticulous about your actions. The heightened mind is the development of strong concentration. Heightened discernment is the discernment that sees though our attachments. These are all activities, things we can do.
+
+And then there’s release, which is the fourth of what they call the noble dhammas. That’s not something you do. It’s the result. It’s where all the other ones are headed, it’s where they’re aimed. This practice is what they call the kamma that leads to the end of kamma. You have to actively do this, you have to actively train the mind in this direction. It’s not simply a matter of going back to what might be assumed to be its original nature. There is always the question: Even if it had an original nature that you could talk about, what would be the purpose of that, because the original nature got defiled. If you simply go back to the original nature, it’s just going to get defiled all over again. You want something that can’t be defiled, that can’t be trapped. What this means is that we have to train the mind in a new direction. Bring it to a new point of equilibrium, where it hasn’t been before. That’s the doing. Once it gets there, then there’s the non-doing, the release from intention, the release from kamma.
+
+So this is where all of our actions should aim. Even before you get to that unshakeable release, if your actions are aimed in this direction, then death doesn’t hold the fear that it normally would—because you’ve built up a momentum. And you’ll reach a point in your practice where you know that death is not the end. You may not have come to the end of your defilements at that point, but you know that death is not the end, that there’s a deathless. And the momentum of your actions toward the direction of the deathless will just keep carrying over as long as you maintain the determination that this is where you want your actions to aim. This is why the Buddha has us be very careful about what we do and say and think at all times.
+
+You can’t act simply on impulse or just because you feel like doing something. You always have to take into consideration what the results of your actions are going to be. This may seem tiring or wearisome, but that’s why we have
+
+concentration practice, to give the mind a place to rest. At the very least, it is not doing anything unskillful while it’s resting, and it’s also building up the qualities it’s going to need to keep itself strong in this examination of its actions. Ajaan Lee makes a comparison with a knife. If you have a knife that you just keep using, using, using, without sharpening it, without coating it with oil, it’s going to get dull, it’ll probably get rusty. Then when you try to use it to cut something, it takes a lot of effort. If you’re cutting food, many times the rust will contaminate what you’ve tried to cut. If you eat it, you may catch tetanus and die. But if you keep the knife in the scabbard, keep it sharpened, bathe it in oil when it needs to be oiled, then when you pull it out and use it to cut things, they cut through nice and clean, they’re not contaminated, and then you just put it back. That’s the mind that has a good place of concentration as its resting point, its whetstone. In this way, the constant emphasis on looking at what you’re doing becomes less and less onerous, less and less of a burden, because you’ve got a stronger mind. And you’ve got a good place to keep it when it doesn’t have to be actively thinking about things, so that it’s not wasting its energy on frivolous matters. When the time comes when you have to decide what you want to say, what you want to do, you don’t feel burdened by the events around you. And you can be very clear about what the consequences of your actions are going to be. This way you find you have less and less to regret in your life.
+
+So, days and nights fly past, fly past, what are you doing right now? If the Buddha asks you this, what kind of answer would you give? If you can say, “I’m very carefully watching what I’m doing, saying, and thinking,” that’s a good answer. It shows that you’re heedful. Remember the Buddha’s last words: to achieve completion through heedfulness. This is sometimes translated as being diligent or being untiring, or being earnest, but that misses the point. The point is that you’ve got this power of action, and it’s a potential both for great happiness and for great suffering, so you have to be very, very careful.
+
+Someone today raised the question of whether Buddhism is life affirming or not, or world affirming or not. That’s not the issue. For the Buddha the issue is to be action-affirming. Unlike some teachers who say that everything is pre-determined, he affirms the power of your actions. And that’s a double-edged sword. So you have to be careful about what you do. You have to test your comprehension of the Dhamma through your actions. And you have to learn how to manage your mind so that the kind of vigilance the Buddha recommends is not a burden.
+
+This is why the path basically comes down to three things, virtue, concentration, discernment. Virtue is what keeps you from doing blatant things that are going to be harmful. Concentration is what gives you the strength you need in order to look deeper into the attachments of the mind that cause you to do very subtle harm, so that you can discern how to turn them around. You can develop the powers of your mind so that they can lead to the ultimate happiness. That is what it’s all about: total release, total liberation. As the Buddha said, this is the kamma that leads to the end of kamma, the point where the mind is totally free.
+
+What is that freedom like? He doesn’t describe it. Some people think of nirvana as a place, but he is very clear that there is no place there. He said nirvana is reached from unestablished consciousness, a consciousness that doesn’t plant itself in anything at all, neither here, nor there, nor in between. But
+
+before you get there, make sure your consciousness is very firmly planted here in the present moment. Because it’s around here in the present moment that you’re going to find this spot that has no place, no location. It’s here. The Buddha gives you the tools to find it, and he tells you that there is something really valuable here. He doesn’t describe it in too much detail, partly because it can’t be described, partly because the description would just get in the way. He gives you just enough to know the standards you need for judging whether you’ve found it or not. Is it constant? Is it totally free of stress? Is there any sense of attachment to “me” or “mine” in there? If it’s inconstant, if it’s stressful, if there’s any attachment to “me” or “mine” in there, it can’t be what you‘re looking for. Keep on looking. But it is here. That’s the guarantee.
+
+So days and nights fly past, fly past, what are you doing right now? Try to keep coming up with better and better answers for this question, not in terms of the words you would use to answer the Buddha, but just simply by being very careful about what you do. Because it all comes down to your actions. That’s what the teaching is all about.
+
+Sowing Good Seeds
+
+October 2, 2004
+
+Focus your attention on the breath. Ask yourself: Where do you feel the breath in the body? Where do you feel the energy of the breathing? Sometimes it’s at the nose, but sometimes it’s not. It’s more down in the chest and the abdomen. And if the diaphragm expands, it’s not just the diaphragm. Other parts of the body move as well. So, notice where you sense the breathing most clearly and focus your attention there. Try not to tense up around that spot. Allow it to feel comfortable as your breathe in, comfortable as you breathe out. Think of it as a porous sensation. The edges aren’t too well defined. If you define the edges very tightly and very precisely, it means you’re probably tensing up around it.
+
+It’s important that you be comfortable with the sensation of breathing. If you’re not comfortable with it, the mind is not going to want to stay. Like pushing an inflated ball down under some water: As soon as your grip relaxes just a little bit, the ball comes shooting up out of the water and into the air. The same with the mind: If the mind is uncomfortable with the breath, it’s going to shoot away as soon as it can, as soon as you’re the least bit careless. So do your best to be on good terms with the breath. After all, it’s the energy that’s keeping you alive.
+
+If you have trouble staying with the breath, you can use a meditation word
+
+along with it. The traditional one is buddho, which means awake. That’s the
+
+quality of mind you’re trying to develop here: a mind that doesn’t go off into the dream worlds of future or past, but stays right here with what’s happening in the present.
+
+Everything in life grows out of the present. All the seeds are planted right here. Just as a seed can determine whether a plant is going to be a mango or an avocado or a weed, in the same way we plant the seeds for our experience right here in the present moment with our intentions. Everything in the world is here in the present moment on a small scale. And the whole purpose of the meditation is to bring the mind into the present moment so we can see what’s going on, so we can make sure that only good seeds get planted.
+
+Watching here, we learn how the seeds get planted, how different seeds come to be. There’s an awful lot going on in the present, but for the most part we miss it. We sit here and we look and look and look and don’t see anything: just breath coming in, going out, then the mind wandering off some place, coming back a bit, grabbing a sandwich, then running out again. So we have to learn how to look more carefully, to be as sensitive as possible to what’s going on. First with the breath: The more you develop your sensitivity to the breath, the more you begin to open up to other things in the present moment as well.
+
+So, learn to be a connoisseur of your breathing. What kind of in-breath feels good right now? What kind of out-breath feels good? How do you conceive of the breathing, and what effect does that have on the sensation of the breathing? If you feel the breath as something in your nose that you’ve got to pull down into the body, it’s going to have one kind of effect on your breathing. If you think of it as something coming in and out the pores of the skin on all sides, that will have another effect on the way you experience the breathing. You begin to see it’s not
+
+just a physical process you’re watching here; there’s a mental component as well. But in the beginning, try to keep it as simple as possible. Stay with the breath coming in, going out, focus on that one issue: what rhythm of breathing feels best, what depth of breathing feels best right now.
+
+As soon as it starts feeling comfortable, you have to spread that sense of comfort. This doesn’t mean you have to push it out. Just allow it to spread, allow it to seep throughout the body. Whatever sense of ease comes with the in-breath and the out-breath, make sure you don’t tighten things up in between the breaths. That sense of openness between the breaths can then spread out and fill the whole rest of the body. This is important, because as the breath starts getting subtle—and it will as the mind settles down—as it gets more and more still, you need less and less oxygen, so the body left on its own will breathe less and less. The sensation of the breath will get more and more refined.
+
+If you’re not really observant, if your foundation is not really solid, you get lost. Either you wander off to what is called delusion concentration, where the mind is still but doesn’t really know quite where it is. Or else you fall into an air pocket, kind of drop out of sight for a minute, and come back up again. That’s a sign the breath has gotten too refined, more refined than you can follow. So the best way to counteract both of those problems is as soon as the breath starts feeling comfortable, you can spread that sense of comfort throughout the body. You can go through the body section by section, starting at the back of the neck, at the navel—you can start anywhere, as long as you’re systematic enough to cover the whole body, eventually, section by section. Notice where there’s tension or tightness in your posture, notice where there’s tension or tightness in the breath, allow things to relax so that the feeling of the breath can spread anywhere in the body at all.
+
+Once you’ve surveyed the body a couple of times like this, you can settle down in one spot. Think of the sense of ease of the breathing spreading out, seeping out through the whole body. Then your only responsibility is to maintain an awareness that covers the whole body. It’ll have a tendency to shrink, so watch out for that. Just think of your awareness spreading out in all directions. We have a tendency to think of our mind as facing the same direction as our eyes. Our awareness seems to be facing forward. But when you close your eyes, there’s no need for the mind to be facing forward. It can face in any direction at all. Try to make it 360 degrees and then maintain that state. Be as continuous as you can in your focus on the breath. The continuity of your focus is what makes all the difference.
+
+It’s like a needle in a record—back in the old days when they had records. If the needle stayed in the groove continually, you could actually here what was on the record. And it sounded nice. If it was music, it sounded like music. If it was speech, it sounded like speech. But if the needle started jumping around, all you’d have was screeches and scratches, and it was a real distraction, painful to listen to. You didn’t get anything out of it. Then same holds true when staying with the breath. If you just jump around here, jump around there, you don’t get much out of sitting here. But if you stay continually with the breath, all the way through the in-breath, all the way through the space between the breaths, then all the way through the out-breath, continually, continually, it begins to make sense. It begins to have an effect on the body. It begins to have an effect on the mind.
+
+So there’s nothing much to do. Just stay here in the present moment, stay with the breath. The insight comes as your powers of observation get more and more refined. And then you’ll find that there really is a lot going on right here. But in the beginning you want to keep it as simple as possible. If you get bored just staying with the breath, try exploring how different ways of breathing will have an effect on the body, until you can determine what rhythm is best. It’s not just a matter of tying the mind down to the breath. You want to explore the breathing process because that develops your powers of sensitivity, and it’s through your own sensitivity that you’re going to gain discernment.
+
+We all read about how Buddhist meditation leads to wisdom and discernment. Well, it’s not a matter of programming yourself to see things in a certain way. And it’s not a matter of sitting here and waiting for discernment to drop on you out of the sky. The act of trying to be sensitive to the present moment is what develops your powers of discernment. As your powers of discernment get sharper, you start seeing what’s actually going on. There are directions to recommend that you look at a certain aspect of the present moment, or that you ask certain questions in the present moment, but unless you have developed your own sensitivity, you’re not going to see anything. You can convince yourself maybe that you’ve seen things that you’ve read in books, but it doesn’t really make that much of a difference in how the mind relates to itself unless you actually see for yourself.
+
+A lot of the insights that you’re going to gain are uncomfortable truths about yourself, about how you’ve given into greed, anger, and delusion when you really knew better—and how you’ve tried to cover up the evidence. So this is one of the reasons we try to make the breath as comfortable as possible. When the mind has been nourished with a comfortable breath, the body has been nourished with a comfortable breath, you’re in a much better mood, much more open to admitting the truth. It doesn’t feel so threatening, because you realize at the same time that you’re developing the mental qualities you need not to give into to greed, anger, and delusion again. So the insights come not in a threatening way, but with a certain sense of relief. You’ve gotten past something, you’ve outgrown a dishonest way of behaving. You don’t have to cause yourself that kind of suffering anymore. When you’re not causing yourself that kind of suffering, you’re not causing other people that kind of suffering either.
+
+So the meditation is like a seed. You plant the seed of staying with the breath, of being mindful, being alert, being persistent, and it grows into a greater and greater sensitivity, greater and greater stability, a sense of well-being, clarity, maturity of mind, as you outgrow childish habits. So make sure you’re planting a good seed right here. Plant the best seed you can. Tend to it, and it’ll grow.
+
+Guiding Truths
+
+December 3, 2004
+
+How are you suffering right now? What can you do about it? Those are the
+
+questions the Buddha has you ask: suffering, its cause, its cessation, and the path to its cessation. These are the Buddha’s truths, but not his own personal truths.
+
+These are the only truths to which he gave the name ariya sacca, or noble truth. In
+
+other words, these are standard all across the board. And all of his teachings are centered on just these issues. We know this, we’ve heard it many times. The Buddha says that all he teaches is suffering and the end of suffering—yet when you look in the books, there seems to be so much more. People are often tempted to try to create a systematic philosophy out of what the Buddha taught, but all his many teachings are basically different approaches to these two issues: how to understand suffering, how to put an end to it.
+
+Any other truth, he said, is a pacceka sacca, a personal truth: something that
+
+strikes you as true because of the particulars of your experience, but those particulars keep changing. Your idea of what’s true out there or true in here can change. But the nature of suffering itself: That doesn’t change. There are particulars about how and why you’re suffering at a particular moment, but the actual fact of the suffering is something that’s standard across the board.
+
+And it’s an issue that scientists can’t answer. They can account for all kinds of things. They can map the brain, see which parts of the brain serve as pain centers, talk about how the nervous system reacts to pain. But the actual experience of pain, how it feels: That’s something they can’t account for. And so from the Buddha’s point of view, a lot of what they have to say is beside the point. The real question is, what is the direct experience of pain, suffering, stress? What causes it? You ask what causes it so that you can put an end to the cause and thus put an end to the stress.
+
+It’s almost as if the Buddha’s whole life was an experiment. He asked himself, “Suppose that there is an end to suffering, what would that mean?” And he explored all the implications of that hypothesis, and he found that it worked. It led to an actual end of suffering. This is why his truths carry duties or tasks. They’re not simple statements about reality, or attempts to describe reality; they’re pointers that involve tasks. Whenever any issue comes up in your life, ask yourself, “Where is the suffering right now?” Try to comprehend it. And see that there is a difference, say, between physical pain and the mental suffering that goes along with it. Focus on the mental suffering, for that’s the real issue. It’s like the watering hole in the middle of a desert or savannah. If you want to see what’s living in the savannah, go to the watering hole, for all the animals have to go there in the course of the day. So watch there at the pain, at the suffering, to see what else comes around. See what arises together with the suffering and the
+
+pain. That’s one of the meanings of samudaya or origination: the things that arise
+
+together with the suffering. You’ll find that the two important “arising togethers” are craving and ignorance. Try to identify exactly what craving is happening here right now. You’ll find that often it’s a craving for a particular type of sensual pleasure, because for most of us that’s our only knowledge of how to get away from pain: Go for the sensual pleasure. But when you really
+
+look at pleasure, though, what does it have to offer? It comes and goes very quickly. Before you can even catch hold of it, it’s gone. As when you have your nose up against a cold window pane and, breathing out, you create fog on the glass: Before you can even determine what shape that little patch of fog takes, it’s gone. If you try to catch hold of it, what have you got? You can’t catch the fog. All you’ve got is the tension in the hand that tries to catch hold.
+
+In the same way, you think you can catch hold of pleasure, but all you really get is the act of clinging. You cling to the memory of the pleasure, you cling to the anticipation of the pleasure, or you tense up around the pain, the memory and anticipation of the pain. Such a large part of our lives is centered on trying to run after pleasure, hoping to find it one way or another: in relationships, in things, in positions in society. All these things we do for that little, tiny taste of pleasure.
+
+The problem is that it’s so little, so tiny, and yet so much work goes into trying to maintain it. This is one of the reasons why we tend to not be very honest with ourselves about what our purpose is, say, in a relationship. If we ask ourselves if the whole relationship was just for that little bit of pleasure, well, an awful lot of effort went into it. And it seems beneath us, unworthy of us, so we deal in all kinds of abstractions to justify what we are pursuing in a particular relationship or in a particular activity. We dress things up in vast, cosmic, or psychological terms. But if you put yourself in a position where you can be honest about it, you begin to realize that there’s an awful lot in life that’s not worth the effort. All these fleeting pleasures that we chase after: There’s not nearly enough reward for all the effort that goes into trying to freeze them, solidify them, to the point where you can actually grasp hold of them.
+
+And of course it never really works. It just keeps slipping through your grasp, and what you’re left with is the tension of the grasp, the tension of the clutching hand that tries to hold onto these things. That of course leads to more suffering. Only when you can finally look at this and see it for what it is, are you in a position where you can really apply the path. In fact the seeing of the process is the beginning of the path. You begin to get a little bit of disenchantment with the craving. As long as you’re not disenchanted with craving, it’s hard to practice the path. It’s hard even to get on the path. But seeing the suffering and seeing the problems that come along with it: That’s what gets you on the path. Even though you don’t yet fully comprehend the suffering, you don’t yet totally let go of the craving, at least you begin to see the drawbacks. That in itself is the beginning of right view.
+
+From there you develop all the other factors of the path, particularly right concentration, which gives the mind the strength it needs in order to pull away from the craving, to pull out of its old habits. Because the mind needs pleasure, you give it the pleasure of concentration. Once it has the pleasure of concentration, it has a point of comparison from which it can look at all the other pleasures that it’s been running after and be really honest about their drawbacks. This honesty is what allows you to let them go.
+
+Ultimately, all you have left is the attachment to the path itself, attachment to the pleasure that comes from right concentration, and you work on letting go of that. That’s what frees you. And this total freedom was how the Buddha proved to himself that his approach was right: It is possible to put an end to suffering.
+
+So these four truths are the only ones you have to take as totally absolute, totally true. Of course, the released mind goes beyond these truths as well. But as long as you’re here in the midst of suffering, these are the only ones you have to hold on to, to trust as being absolutely certain. Whatever other issues may come up in the mind, view them as provisional. They aren’t the real issues. No matter how real and insistent they may seem, you have to learn how to put a little question mark next to them. Then break them down into the terms of the four noble truths.
+
+Because the four noble truths are so basic and well known, we forget how radical they are. But if you learn how to use them in a radical way, they can really show their power. They’re like a universal solvent that can dissolve every other issue in the mind. They keep us on the right track, keep us from getting distracted and led astray, weighing our minds down with all sorts of unnecessary theories and questions and ideas and guesswork. They do this by focusing our attention on the immediate issue: What is the suffering right now? What are you doing that’s aggravating the suffering? Can you stop? What do you need to do in order to stop? Those are the questions you can apply to any issue at any time. They focus directly on your own experience, the part of your own experience that nobody else can know.
+
+This is why the Buddha said the Dhamma is paccatam, individual. It’s
+
+universal in its truth, but very individual and very direct in how you’re
+
+experiencing it right now—which is why the truths are also opanayiko pertinent,
+
+relevant all the time. They’re always there to put to use. They’re always there to depend on.
+
+So don’t ever let yourself think that you’re left adrift without a compass. When things seem confusing, when things seem chaotic in life, fall back on these truths, and they’ll show you the way out.
+

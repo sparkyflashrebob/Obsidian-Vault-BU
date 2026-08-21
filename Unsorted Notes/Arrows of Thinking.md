@@ -1,0 +1,1 @@
+terror and dismay to seek end of suffering

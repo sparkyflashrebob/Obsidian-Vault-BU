@@ -1,0 +1,2 @@
+
+Joy and happiness are wonderful feelings to experience, but are very different. Joy is more consistent and is cultivated internally. It comes when you make peace with who you are, why you are and how you are, whereas happiness tends to be externally triggered and is based on other people, things, places, thoughts and events.

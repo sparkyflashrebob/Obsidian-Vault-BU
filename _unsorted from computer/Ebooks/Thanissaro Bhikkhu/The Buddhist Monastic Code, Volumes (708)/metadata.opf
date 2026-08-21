@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">708</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d471456a-d178-4b18-877b-c248060b0af1</dc:identifier>
+        <dc:title>The Buddhist Monastic Code, Volumes I &amp; II</dc:title>
+        <dc:creator opf:file-as="Bhikkhu, Thanissaro" opf:role="aut">Thanissaro Bhikkhu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.9.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-01-07T08:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;This is a two-volume set that attempts to give an organized, detailed account of the Vinaya training rules and the traditions that have grown up around them. The Patimokkha training rules as explained in the Sutta Vibhanga are the topic of the first volume; the rules found in the Khandhakas, the topic of the second.&lt;/p&gt;</dc:description>
+        <dc:publisher>Metta Forest Monastery</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">91aab412-c2bf-4465-b63c-842be858908a</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Vinaya</dc:subject>
+        <dc:subject>Dhamma</dc:subject>
+        <dc:subject>Dharma</dc:subject>
+        <dc:subject>Buddhism</dc:subject>
+        <dc:subject>Buddha</dc:subject>
+        <dc:subject>Theravada</dc:subject>
+        <dc:subject>Pali</dc:subject>
+        <meta content="{&quot;Thanissaro Bhikkhu&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-01-29T04:31:49.868000+00:00" name="calibre:timestamp"/>
+        <meta content="Buddhist Monastic Code, Volumes I &amp; II, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">be3040e1-cbe4-47f1-876e-8271c48f6ed4</dc:identifier>
+        <dc:title>The Teachings of Ajahn Chah</dc:title>
+        <dc:creator opf:file-as="Chah, Ajahn" opf:role="aut">Ajahn Chah</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.9.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Dhamma talks, Buddhadhamma, Dhammavinaya, Buddhism, Wat Pah Nanachat, Thailand, Meditation, Buddhist Forest Monastery</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>Dhamma talks</dc:subject>
+        <dc:subject>Buddhadhamma</dc:subject>
+        <dc:subject>Dhammavinaya</dc:subject>
+        <dc:subject>Buddhism</dc:subject>
+        <dc:subject>Wat Pah Nanachat</dc:subject>
+        <dc:subject>Thailand</dc:subject>
+        <dc:subject>Meditation</dc:subject>
+        <dc:subject>Buddhist Forest Monastery</dc:subject>
+        <meta content="{&quot;Ajahn Chah&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-01-29T04:01:23.365000+00:00" name="calibre:timestamp"/>
+        <meta content="Teachings of Ajahn Chah, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

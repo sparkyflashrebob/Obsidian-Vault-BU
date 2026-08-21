@@ -1,0 +1,71 @@
+# How We Learn
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/51LC0MbbLpL._SL200_.jpg)
+
+## Metadata
+- Author: [[Benedict Carey]]
+- Full Title: How We Learn
+- Category: #books
+
+## Highlights
+- effort is the single most important factor in academic success. ([Location 57](https://readwise.io/to_kindle?action=open&asin=B00IWTTNZE&location=57))
+    - Tags: [[orange]] 
+- 90 percent of the energy it burns while doing a crossword puzzle. ([Location 170](https://readwise.io/to_kindle?action=open&asin=B00IWTTNZE&location=170))
+    - Tags: [[pink]] 
+- entorhinal ([Location 172](https://readwise.io/to_kindle?action=open&asin=B00IWTTNZE&location=172))
+    - Tags: [[orange]] 
+- cortex, ([Location 172](https://readwise.io/to_kindle?action=open&asin=B00IWTTNZE&location=172))
+    - Tags: [[orange]] 
+- hippocampus, ([Location 173](https://readwise.io/to_kindle?action=open&asin=B00IWTTNZE&location=173))
+- memory formation begins; ([Location 173](https://readwise.io/to_kindle?action=open&asin=B00IWTTNZE&location=173))
+- neocortex, ([Location 173](https://readwise.io/to_kindle?action=open&asin=B00IWTTNZE&location=173))
+    - Tags: [[blue]] 
+- where conscious memories ([Location 173](https://readwise.io/to_kindle?action=open&asin=B00IWTTNZE&location=173))
+    - Tags: [[blue]] 
+- “material” pouring through the senses. ([Location 183](https://readwise.io/to_kindle?action=open&asin=B00IWTTNZE&location=183))
+    - Tags: [[pink]] 
+- scrutinizing the original footage to see how and where it fits into the larger movie. ([Location 185](https://readwise.io/to_kindle?action=open&asin=B00IWTTNZE&location=185))
+    - Tags: [[pink]] 
+- (No one knows what causes depression or why the drugs have the effects they do.) ([Location 193](https://readwise.io/to_kindle?action=open&asin=B00IWTTNZE&location=193))
+    - Tags: [[pink]] 
+- If some element ([Location 225](https://readwise.io/to_kindle?action=open&asin=B00IWTTNZE&location=225))
+    - Tags: [[orange]] 
+- of participating in the experiment was especially striking—for example, the sight of a man in a white coat fiddling with wires coming out of your exposed brain as Homer belly-laughed—then that memory could leap to mind easily, for life. ([Location 225](https://readwise.io/to_kindle?action=open&asin=B00IWTTNZE&location=225))
+    - Tags: [[orange]] 
+- semantic memories, ([Location 238](https://readwise.io/to_kindle?action=open&asin=B00IWTTNZE&location=238))
+    - Tags: [[orange]] 
+- web of associations. ([Location 238](https://readwise.io/to_kindle?action=open&asin=B00IWTTNZE&location=238))
+    - Tags: [[orange]] 
+- nice coincidence of language. ([Location 249](https://readwise.io/to_kindle?action=open&asin=B00IWTTNZE&location=249))
+    - Tags: [[blue]] 
+- The left hemisphere was just throwing out an explanation based on what it could see: ([Location 380](https://readwise.io/to_kindle?action=open&asin=B00IWTTNZE&location=380))
+    - Tags: [[pink]] 
+- The left hemisphere takes whatever information it gets and tells a tale to conscious awareness. ([Location 382](https://readwise.io/to_kindle?action=open&asin=B00IWTTNZE&location=382))
+    - Tags: [[blue]] 
+- “the interpreter.” ([Location 389](https://readwise.io/to_kindle?action=open&asin=B00IWTTNZE&location=389))
+- makes up a story, ([Location 391](https://readwise.io/to_kindle?action=open&asin=B00IWTTNZE&location=391))
+    - Tags: [[orange]] 
+- story maker. ([Location 392](https://readwise.io/to_kindle?action=open&asin=B00IWTTNZE&location=392))
+    - Tags: [[blue]] 
+- “What just happened?” ([Location 393](https://readwise.io/to_kindle?action=open&asin=B00IWTTNZE&location=393))
+- “What happened yesterday?” ([Location 394](https://readwise.io/to_kindle?action=open&asin=B00IWTTNZE&location=394))
+- “What did I make for dinner last night?” ([Location 395](https://readwise.io/to_kindle?action=open&asin=B00IWTTNZE&location=395))
+    - Tags: [[blue]] 
+- “What were the four founding truths of Buddhism, again?” ([Location 395](https://readwise.io/to_kindle?action=open&asin=B00IWTTNZE&location=395))
+    - Tags: [[pink]] 
+- Think. ([Location 397](https://readwise.io/to_kindle?action=open&asin=B00IWTTNZE&location=397))
+    - Tags: [[blue]] 
+- understood. ([Location 398](https://readwise.io/to_kindle?action=open&asin=B00IWTTNZE&location=398))
+    - Tags: [[orange]] 
+- Let go of anguish? ([Location 399](https://readwise.io/to_kindle?action=open&asin=B00IWTTNZE&location=399))
+    - Tags: [[orange]] 
+- Walking the path? ([Location 400](https://readwise.io/to_kindle?action=open&asin=B00IWTTNZE&location=400))
+- feeling of calmness when reading ([Location 401](https://readwise.io/to_kindle?action=open&asin=B00IWTTNZE&location=401))
+    - Tags: [[pink]] 
+- let go of the sources of anguish. ([Location 402](https://readwise.io/to_kindle?action=open&asin=B00IWTTNZE&location=402))
+    - Tags: [[orange]] 
+- cultivate the path. ([Location 402](https://readwise.io/to_kindle?action=open&asin=B00IWTTNZE&location=402))
+    - Tags: [[blue]] 
+- The brain does not store facts, ideas, and experiences like a computer does, as a file that is clicked open, always displaying the identical image. It embeds them in networks of perceptions, facts, and thoughts, slightly different combinations of which bubble up each time. And that just retrieved memory does not overwrite the previous one but intertwines and overlaps with it. Nothing is completely lost, but the memory trace is altered and for good. ([Location 404](https://readwise.io/to_kindle?action=open&asin=B00IWTTNZE&location=404))
+    - Tags: [[pink]] 
+- using our memories changes our memories. ([Location 407](https://readwise.io/to_kindle?action=open&asin=B00IWTTNZE&location=407))

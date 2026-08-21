@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">501</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4fa69b61-dca3-43b6-b81e-84e781db4fa0</dc:identifier>
+        <dc:title>Bhavana Vandana: Book of Devotion</dc:title>
+        <dc:creator opf:file-as="Mahathera, Compiled by H. Gunaratana" opf:role="aut">Compiled by H. Gunaratana Mahathera</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.9.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-01-19T08:21:18+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <dc:subject>Buddhist Devotion</dc:subject>
+        <dc:subject>Buddhism</dc:subject>
+        <dc:subject>Devotion</dc:subject>
+        <dc:subject>Chanting</dc:subject>
+        <meta content="{&quot;Compiled by H. Gunaratana Mahathera&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-01-29T04:28:16.496000+00:00" name="calibre:timestamp"/>
+        <meta content="Bhavana Vandana: Book of Devotion" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

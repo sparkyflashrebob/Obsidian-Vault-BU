@@ -1,0 +1,4 @@
+# 2014 Abhayagiri Thanksgiving Monastic Retreat - Ajahn Pasanno - Mindfulness and Eating.mp3
+
+transition our mode of mindfulness from sitting meditation to the meal time. As I saying the uh um everything is a um fair game as an object of mindfulness. So to be able to bring attention, urgency, alertness, uh mindfulness, uh to the uh object of the senses, food. Um it's a can be a uh um is rarely a neutral object. So that uh to uh to bring a bring attention And to be able to be alert to the the uh the feeling of of uh uh say either excitement or dejection uh getting what one wants, not getting what one wants. Um that uh uh just the of course remembering that it's not just to be say to be mindful or alert but also to uh to be not drawn into anything. The the mindfulness and alertment has a function and that's to not be drawn into anything that's going to create create suffering in the mind. It's a learning how to apply that skillfully.
+

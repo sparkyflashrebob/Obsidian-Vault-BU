@@ -1,0 +1,571 @@
+# Twelve Steps and Twelve Traditions
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/514QSmRqIkL._SL200_.jpg)
+
+## Metadata
+- Author: [[AA World Services Inc]]
+- Full Title: Twelve Steps and Twelve Traditions
+- Category: #books
+
+## Highlights
+- alcohol—that ([Location 172](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=172))
+    - Note: And codependency
+- warped our minds into such an obsession for destructive drinking ([Location 174](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=174))
+    - Tags: [[orange]] 
+- self-sufficiency ([Location 176](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=176))
+- utter defeat ([Location 178](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=178))
+- Our admissions of personal powerlessness finally turn out to be firm bedrock upon which happy and purposeful lives may be built. ([Location 178](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=178))
+    - Tags: [[pink]] 
+- humbles ([Location 181](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=181))
+    - Tags: [[blue]] 
+- life. The principle that we shall find no enduring strength until we first admit complete defeat is the main taproot from which our whole Society has sprung and flowered. ([Location 182](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=182))
+    - Tags: [[blue]] 
+- We had approached A.A. expecting to be taught self-confidence. ([Location 184](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=184))
+- self-confidence ([Location 184](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=184))
+    - Tags: [[orange]] 
+- There was, they said, no such thing as the personal conquest of this compulsion by the unaided will. ([Location 186](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=186))
+    - Tags: [[orange]] 
+- Few indeed were those who, so assailed, had ever won through in single-handed combat. ([Location 189](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=189))
+    - Tags: [[pink]] 
+- It was a statistical fact that alcoholics almost never recovered on their own resources. ([Location 189](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=189))
+    - Tags: [[orange]] 
+- of A.A. principles ([Location 192](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=192))
+    - Tags: [[blue]] 
+- admission of hopelessness. ([Location 195](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=195))
+- them. By going back in our own drinking histories, we could show that years before we realized it we were out of control, that our drinking even then was no mere habit, that it was indeed the beginning of a ([Location 200](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=200))
+    - Tags: [[pink]] 
+- fatal progression. ([Location 201](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=201))
+    - Tags: [[orange]] 
+- Why don’t you try some more controlled drinking, ([Location 202](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=202))
+    - Tags: [[pink]] 
+- when one alcoholic had planted in the mind of another the true nature of his malady, that person could never be the same again. ([Location 203](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=203))
+    - Tags: [[blue]] 
+- Who wishes to be rigorously honest and tolerant? ([Location 208](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=208))
+    - Tags: [[pink]] 
+- Who wants to confess his faults to another and make restitution for harm done? ([Location 209](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=209))
+    - Tags: [[orange]] 
+- Who cares anything about a Higher Power, let alone meditation and prayer? ([Location 209](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=209))
+- Who wants to sacrifice time and energy in trying to carry A.A.’s message to the next sufferer? ([Location 210](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=210))
+    - Tags: [[blue]] 
+- No, the average alcoholic, self-centered in the extreme, doesn’t care for this prospect—unless he has to do these things in order to stay alive himself. ([Location 210](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=210))
+- Under the lash of alcoholism, we are driven to A.A., and there we discover the fatal nature of our situation. Then, and only then, do we become as open-minded to conviction and as willing to listen as the dying can be. We stand ready to do anything which will lift the merciless obsession from us. ([Location 212](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=212))
+    - Tags: [[orange]] 
+- won’t believe—the ([Location 220](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=220))
+- savage. ([Location 221](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=221))
+- threatened. ([Location 221](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=221))
+- the beginning of the end of his old life, and the beginning of his emergence into a new one. ([Location 225](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=225))
+- Alcoholics Anonymous does not demand that you believe anything. ([Location 231](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=231))
+    - Tags: [[pink]] 
+- you don’t have to swallow all of Step Two right now. ([Location 232](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=232))
+    - Tags: [[orange]] 
+- open ([Location 234](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=234))
+- mind.” ([Location 234](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=234))
+- search and research, again and again, always with the open mind. ([Location 237](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=237))
+- unscientific. ([Location 238](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=238))
+- I woke up. ([Location 239](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=239))
+- A.A. showed results, prodigious results. ([Location 239](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=239))
+- The minute I stopped arguing, I could begin to see and feel. ([Location 240](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=240))
+- To acquire it, I had only to stop fighting and practice the rest of A.A.’s program as enthusiastically as I could. ([Location 242](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=242))
+- you’ll be sure to discover one that suits if only you look and listen. ([Location 244](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=244))
+- indifference, ([Location 250](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=250))
+- self-sufficiency ([Location 251](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=251))
+- confusion. ([Location 258](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=258))
+- We became convinced that such simple rules of fair play and decency would be enough. ([Location 262](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=262))
+- “As material success founded upon no more than these ordinary attributes began to come to us, we felt we were winning at the game of life. ([Location 263](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=263))
+- This was exhilarating, and it made us happy. ([Location 264](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=264))
+    - Tags: [[orange]] 
+- The here and now was good enough for us. ([Location 265](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=265))
+- But then alcohol began to have its way with us. ([Location 265](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=265))
+- ‘zero,’ ([Location 266](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=266))
+- The god of intellect ([Location 272](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=272))
+    - Tags: [[orange]] 
+- We who had won so handsomely in a walk turned into all-time losers. ([Location 272](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=272))
+    - Tags: [[pink]] 
+- We saw that we had to reconsider or die. ([Location 273](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=273))
+    - Tags: [[blue]] 
+- By their example they showed us that humility and intellect could be compatible, provided we placed humility first. ([Location 274](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=274))
+    - Tags: [[orange]] 
+- When we began to do that, we received the gift of faith, a faith which works. This faith is for you, too.” ([Location 274](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=274))
+- This all meant, of course, that we had substituted negative for positive thinking. ([Location 280](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=280))
+- we had to recognize that this trait had been an ego-feeding proposition. ([Location 281](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=281))
+    - Tags: [[orange]] 
+- Self-righteousness, ([Location 282](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=282))
+- Belief meant reliance, not defiance. ([Location 292](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=292))
+- seeking neither to run nor to recriminate. ([Location 294](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=294))
+- We soon concluded that whatever price in humility we must pay, we would pay.” ([Location 294](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=294))
+- quality of faith ([Location 300](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=300))
+    - Tags: [[blue]] 
+- superficial. ([Location 302](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=302))
+    - Tags: [[orange]] 
+- wallowed in emotionalism ([Location 302](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=302))
+    - Tags: [[pink]] 
+- self-deceived, ([Location 306](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=306))
+    - Tags: [[orange]] 
+- grace ([Location 306](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=306))
+    - Tags: [[orange]] 
+- irrational ([Location 307](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=307))
+- mentally ill. ([Location 309](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=309))
+    - Tags: [[blue]] 
+- as “soundness of mind.” ([Location 310](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=310))
+    - Tags: [[orange]] 
+- True humility and an open mind can lead us to faith, ([Location 312](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=312))
+- key, ([Location 316](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=316))
+    - Tags: [[pink]] 
+- and the decision ([Location 316](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=316))
+    - Tags: [[blue]] 
+- willingness. ([Location 317](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=317))
+- they required only acceptance. ([Location 320](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=320))
+    - Tags: [[pink]] 
+- affirmative action, ([Location 320](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=320))
+    - Tags: [[blue]] 
+- faith alone can avail nothing. ([Location 322](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=322))
+- the effectiveness of the whole A.A. program will rest upon how well and earnestly we have tried to come to “a decision to turn our will and our lives over to the care of God as we understood Him.” ([Location 323](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=323))
+    - Tags: [[orange]] 
+- To every worldly and practical-minded beginner, this Step looks hard, even impossible. No matter how much one wishes to try, exactly how can he turn his own will and his own life over to the care of whatever God he thinks there is? Fortunately, we who have tried it, and with equal misgivings, can testify that anyone, anyone at all, can begin to do it. We can further add that a beginning, even the smallest, is all that is needed. Once we have placed the key of willingness in the lock and have the door ever so slightly open, we find that we can always open it some more. Though self-will may slam it shut again, as it frequently does, it will always respond the moment we again pick up the key of willingness. ([Location 325](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=325))
+- nonentity. ([Location 337](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=337))
+- This, of course, is the process by which instinct and logic always seek to bolster egotism, and so frustrate spiritual development. ([Location 339](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=339))
+    - Tags: [[pink]] 
+- The more we become willing to depend upon a Higher Power, the more independent we actually are. ([Location 340](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=340))
+    - Tags: [[orange]] 
+- By so accepting our dependence upon this marvel of science, we find ourselves more independent personally. Not only are we more independent, we are even more comfortable and secure. ([Location 344](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=344))
+- But the moment our mental or emotional independence is in ([Location 348](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=348))
+- question, how differently we behave. ([Location 348](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=348))
+    - Tags: [[blue]] 
+- We are certain that our intelligence, backed by willpower, can rightly control our inner lives and guarantee us success in the world we live in. ([Location 351](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=351))
+    - Tags: [[pink]] 
+- how well does it actually work? One good look in the mirror ought to be answer enough for any alcoholic. ([Location 353](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=353))
+    - Tags: [[orange]] 
+- “We are right and you are wrong.” ([Location 356](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=356))
+- The philosophy of self-sufficiency is not paying off. Plainly enough, it is a bone-crushing juggernaut whose final achievement is ruin. ([Location 358](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=358))
+    - Tags: [[orange]] 
+- Therefore, we who are alcoholics can consider ourselves fortunate indeed. ([Location 359](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=359))
+    - Tags: [[orange]] 
+- So it is by circumstance rather than by any virtue that we have been driven to A.A., ([Location 361](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=361))
+- “dependence” ([Location 363](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=363))
+    - Tags: [[blue]] 
+- And far from being a weakness, this dependence was their chief source of strength. ([Location 371](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=371))
+    - Tags: [[orange]] 
+- So how, exactly, can the willing person continue to turn his will and his life over to the Higher Power? ([Location 372](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=372))
+    - Tags: [[orange]] 
+- Our friend is still victimized by remorse and guilt when he thinks of yesterday. ([Location 375](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=375))
+- Bitterness still overpowers him when he broods upon those he still envies or hates. ([Location 376](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=376))
+    - Tags: [[orange]] 
+- Nothing short of continuous action upon these as a way of life can bring the much-desired result. ([Location 384](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=384))
+    - Tags: [[blue]] 
+- They have become persuaded, and rightly so, that many problems besides alcohol will not yield to a headlong assault powered by the individual alone. ([Location 386](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=386))
+- willingness. ([Location 389](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=389))
+    - Tags: [[orange]] 
+- make the decision to exert himself. ([Location 389](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=389))
+    - Tags: [[blue]] 
+- misuse of willpower. ([Location 392](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=392))
+    - Tags: [[pink]] 
+- “God grant me the serenity to accept the things I cannot change, courage to change the things I can, and wisdom to know the difference. Thy will, not mine, be done.” ([Location 395](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=395))
+    - Tags: [[blue]] 
+- When thus out of joint, man’s natural desires cause him great trouble, practically all the trouble there is. ([Location 404](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=404))
+    - Tags: [[pink]] 
+- misdirected instinct. ([Location 406](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=406))
+    - Tags: [[blue]] 
+- We want to find exactly how, when, and where our natural desires have warped us. ([Location 408](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=408))
+    - Tags: [[orange]] 
+- contentment ([Location 410](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=410))
+    - Tags: [[orange]] 
+- never grows up. ([Location 417](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=417))
+    - Tags: [[blue]] 
+- Whenever a human being becomes a battleground for the instincts, there can be no peace. ([Location 420](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=420))
+    - Tags: [[pink]] 
+- Every time a person imposes his instincts unreasonably upon others, unhappiness follows. ([Location 421](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=421))
+- Demands made upon other people for too much attention, protection, and love can only invite domination or revulsion in the protectors themselves—two ([Location 423](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=423))
+    - Tags: [[orange]] 
+- prestige ([Location 425](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=425))
+- Alcoholics especially should be able to see that instinct run wild in themselves is the underlying cause of their destructive drinking. ([Location 427](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=427))
+    - Tags: [[blue]] 
+- perverse soul-sickness ([Location 430](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=430))
+    - Tags: [[orange]] 
+- depressive ([Location 431](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=431))
+    - Tags: [[blue]] 
+- oblivion ([Location 433](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=433))
+    - Tags: [[pink]] 
+- we have lost all perspective, ([Location 434](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=434))
+    - Tags: [[orange]] 
+- pride in reverse. ([Location 434](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=434))
+    - Tags: [[blue]] 
+- self-righteousness ([Location 436](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=436))
+    - Tags: [[pink]] 
+- This being so, we think it logically follows that sobriety—first, last, and all the time—is the only thing we need to work for. ([Location 438](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=438))
+- Our present anxieties and troubles, we cry, are caused by the behavior of other people—people who really need a moral inventory. ([Location 441](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=441))
+    - Tags: [[orange]] 
+- We aren’t the guilty ones. They are! ([Location 444](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=444))
+- encourage balance. ([Location 449](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=449))
+    - Tags: [[blue]] 
+- light of reason ([Location 452](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=452))
+    - Tags: [[orange]] 
+- self-justification ([Location 453](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=453))
+    - Tags: [[blue]] 
+- “conditions” ([Location 457](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=457))
+    - Tags: [[blue]] 
+- It never occurred to us that we needed to change ourselves to meet conditions, whatever they were. ([Location 459](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=459))
+    - Tags: [[pink]] 
+- We learned that if we were seriously disturbed, our first need was to quiet that disturbance, regardless of who or what we thought caused it. ([Location 462](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=462))
+    - Tags: [[pink]] 
+- painful ([Location 465](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=465))
+    - Tags: [[blue]] 
+- humiliating. ([Location 465](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=465))
+    - Tags: [[blue]] 
+- For we had started to get perspective on ourselves, ([Location 467](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=467))
+    - Tags: [[pink]] 
+- Of course the depressive and the power-driver are personality extremes, ([Location 468](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=468))
+- his individual character defects are. ([Location 470](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=470))
+    - Tags: [[pink]] 
+- immorality, ([Location 474](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=474))
+    - Tags: [[orange]] 
+- sin. ([Location 474](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=474))
+- any real ability to cope with life. ([Location 476](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=476))
+    - Tags: [[blue]] 
+- the Seven Deadly Sins of pride, greed, lust, anger, gluttony, envy, and sloth. ([Location 477](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=477))
+    - Tags: [[pink]] 
+- pride, ([Location 478](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=478))
+    - Tags: [[blue]] 
+- the chief block to true progress. ([Location 479](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=479))
+- fear, ([Location 481](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=481))
+- termites ([Location 486](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=486))
+    - Tags: [[orange]] 
+- Pride says, “You need not pass this way,” and Fear says, “You dare not look!” ([Location 488](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=488))
+    - Tags: [[pink]] 
+- bogeymen, ([Location 489](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=489))
+    - Tags: [[orange]] 
+- light ([Location 490](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=490))
+    - Tags: [[blue]] 
+- As we persist, a brand-new kind of confidence is born, and the sense of relief at finally facing ourselves is indescribable. These are the first fruits of Step Four. ([Location 490](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=490))
+- personal flaws ([Location 497](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=497))
+    - Tags: [[orange]] 
+- rough survey of his conduct with respect to his primary instincts for sex, security, and society. ([Location 498](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=498))
+    - Tags: [[pink]] 
+- promiscuity? ([Location 504](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=504))
+    - Tags: [[blue]] 
+- The most common symptoms of emotional insecurity are worry, anger, self-pity, and depression. ([Location 516](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=516))
+    - Tags: [[blue]] 
+- we ought to consider carefully all personal relationships which bring continuous or recurring trouble. ([Location 517](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=517))
+    - Tags: [[orange]] 
+- The primary fact that we fail to recognize is our total inability to form a true partnership with another human being. ([Location 528](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=528))
+    - Tags: [[pink]] 
+- Either we insist upon dominating the people we know, or we depend upon them far too much. If we lean too heavily on people, they will sooner or later fail us, for they are human, too, and cannot possibly meet our incessant demands. ([Location 529](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=529))
+- thoroughness ([Location 539](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=539))
+    - Tags: [[orange]] 
+- if we have come to know how wrong thinking and action have hurt us and others, then the need to quit living by ourselves with those tormenting ghosts of yesterday gets more urgent than ever. ([Location 547](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=547))
+    - Tags: [[pink]] 
+- But of the things which really bother and burn us, we say nothing. ([Location 552](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=552))
+    - Tags: [[orange]] 
+- They will tell how they tried to carry the load alone; how much they suffered of irritability, anxiety, remorse, and depression; and how, unconsciously seeking relief, they would sometimes accuse even their best friends of the very character defects they themselves were trying to conceal. ([Location 556](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=556))
+- Psychiatrists and psychologists point out the deep need every human being has for practical insight and knowledge of his own personality flaws and for a discussion of them with an understanding and trustworthy person. ([Location 561](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=561))
+    - Tags: [[orange]] 
+- loneliness. ([Location 566](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=566))
+    - Tags: [[orange]] 
+- Even before our drinking got bad and people began to cut us off, nearly all of us suffered the feeling that we didn’t quite belong. ([Location 566](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=566))
+    - Tags: [[pink]] 
+- It was as if we were actors on a stage, suddenly realizing that we did not know a single line of our parts. ([Location 569](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=569))
+- anxious apartness. ([Location 573](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=573))
+    - Tags: [[pink]] 
+- Our moral inventory had persuaded us that all-round forgiveness was desirable, but it was only when we resolutely tackled Step Five that we inwardly knew we’d be able to receive forgiveness and give it, too. ([Location 577](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=577))
+    - Tags: [[blue]] 
+- But we shall have to do more than see. ([Location 582](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=582))
+- As we took inventory, we began to suspect how much trouble self-delusion had been causing us. This had brought a disturbing reflection. If all our lives we had more or less fooled ourselves, how ([Location 586](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=586))
+    - Tags: [[orange]] 
+- Only by discussing ourselves, holding back nothing, only by being willing to take advice and accept direction could we set foot on the road to straight thinking, solid honesty, and genuine humility. ([Location 594](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=594))
+- The dammed-up emotions of years break out of their confinement, and miraculously vanish as soon as they are exposed. ([Location 624](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=624))
+    - Tags: [[orange]] 
+- “THIS is the Step that separates the men from the boys.” ([Location 631](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=631))
+    - Tags: [[orange]] 
+- willingness ([Location 633](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=633))
+    - Tags: [[pink]] 
+- honesty ([Location 633](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=633))
+    - Tags: [[pink]] 
+- without any reservations whatever ([Location 633](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=633))
+    - Tags: [[blue]] 
+- remove defects of character ([Location 635](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=635))
+- But when I became willing to clean house and then asked a Higher Power, God as I understood Him, to give me release, my obsession to drink vanished. It was lifted right out of me.” ([Location 639](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=639))
+    - Tags: [[blue]] 
+- difficulty or defect? ([Location 645](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=645))
+    - Tags: [[orange]] 
+- they commit a most unnatural act. ([Location 647](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=647))
+    - Tags: [[pink]] 
+- Defying their instinctive desire for self-preservation, they seem bent upon self-destruction. They work against their own deepest instinct. ([Location 647](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=647))
+    - Tags: [[blue]] 
+- For nature and God alike abhor suicide. ([Location 649](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=649))
+    - Tags: [[orange]] 
+- Since most of us are born with an abundance of natural desires, it isn’t strange that we often let these far exceed their intended purpose. ([Location 655](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=655))
+    - Tags: [[pink]] 
+- That is the measure of our character defects, or, if you wish, of our sins. ([Location 657](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=657))
+    - Tags: [[blue]] 
+- cooperation. ([Location 659](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=659))
+    - Tags: [[orange]] 
+- we try as best we know how to make progress in the building of character. ([Location 659](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=659))
+- A.A.’s way of stating the best possible attitude one can take in order to make a beginning on this lifetime job. ([Location 661](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=661))
+    - Tags: [[orange]] 
+- patient improvement. ([Location 663](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=663))
+    - Tags: [[pink]] 
+- “entirely ready” ([Location 663](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=663))
+- The best we can do, with all the honesty that we can summon, is to try to have it. ([Location 664](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=664))
+    - Tags: [[orange]] 
+- “No, I can’t give this up yet.” ([Location 666](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=666))
+    - Tags: [[pink]] 
+- “This I will never give up!” ([Location 667](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=667))
+    - Tags: [[blue]] 
+- Some who feel they have done well may dispute this, so let’s try to think it through a little further. Practically everybody wishes to be rid of his most glaring and destructive handicaps. No one wants to be so proud that he is scorned as a braggart, nor so greedy that he is labeled a thief. No one wants to be angry enough to murder, lustful enough to rape, gluttonous enough to ruin his health. No one wants to be agonized by the chronic pain of envy or to be paralyzed by sloth. ([Location 668](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=668))
+    - Tags: [[orange]] 
+- self-interest, ([Location 673](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=673))
+    - Tags: [[pink]] 
+- Not much spiritual effort is involved in avoiding excesses which will bring us punishment anyway. ([Location 673](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=673))
+    - Tags: [[blue]] 
+- But when we face up to the less violent aspects of these very same defects, then where do we stand? ([Location 674](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=674))
+- superior? ([Location 676](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=676))
+    - Tags: [[orange]] 
+- greed masquerade as ambition? ([Location 677](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=677))
+    - Tags: [[blue]] 
+- Self-righteous anger ([Location 679](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=679))
+- comfortable feeling of superiority. ([Location 681](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=681))
+    - Tags: [[orange]] 
+- Gossip barbed with our anger, a polite form of murder by character assassination, has its satisfactions for us, too. Here we are not trying to help those we criticize; we are trying to proclaim our own righteousness. ([Location 681](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=681))
+    - Tags: [[pink]] 
+- gluttony is less than ruinous, we have a milder word for that, too; we call ([Location 682](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=682))
+- “taking our comfort.” We ([Location 683](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=683))
+    - Tags: [[orange]] 
+- wishing for what we have not, ([Location 685](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=685))
+    - Tags: [[orange]] 
+- angrily looking for attributes we shall never have, ([Location 685](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=685))
+    - Tags: [[pink]] 
+- procrastination, ([Location 687](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=687))
+- prefer to hang on to some of them. ([Location 690](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=690))
+    - Tags: [[orange]] 
+- we want to settle for only as much perfection as will get us by in life, according, of course, to our various and sundry ideas of what will get us by. ([Location 691](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=691))
+- So the difference between “the boys and the men” is the difference between striving for a self-determined objective and for the perfect objective which is of God. ([Location 692](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=692))
+    - Tags: [[orange]] 
+- The remaining eleven Steps state perfect ideals. They are goals toward which we look, and the measuring sticks by which we estimate our progress. ([Location 696](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=696))
+- The only urgent thing is that we make a beginning, and keep trying. ([Location 697](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=697))
+    - Tags: [[pink]] 
+- open-mindedness. ([Location 699](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=699))
+- humility, ([Location 711](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=711))
+    - Tags: [[orange]] 
+- pride ([Location 718](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=718))
+    - Tags: [[pink]] 
+- The theory seems to be that once everybody’s primary instincts are satisfied, there won’t be much left to quarrel about. ([Location 721](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=721))
+    - Tags: [[orange]] 
+- we drank to dream still greater dreams. ([Location 727](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=727))
+- character-building and spiritual values had to come first, ([Location 729](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=729))
+    - Tags: [[pink]] 
+- whenever we had to choose between character and comfort, ([Location 734](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=734))
+    - Tags: [[orange]] 
+- We never thought of making honesty, tolerance, and true love of man and God the daily basis of living. ([Location 736](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=736))
+- As long as we placed self-reliance first, a genuine reliance upon a Higher Power was out of the question. ([Location 740](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=740))
+    - Tags: [[orange]] 
+- That basic ingredient of all humility, a desire to seek and do God’s will, was missing. ([Location 741](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=741))
+    - Tags: [[blue]] 
+- gaining a new perspective was unbelievably painful. ([Location 741](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=741))
+- To get completely away from our aversion to the idea of being humble, to gain a vision of humility as the avenue to true freedom of the human spirit, to be willing to work for humility as something to be desired for itself, takes most of us a long, long time. ([Location 746](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=746))
+    - Tags: [[blue]] 
+- Still goaded by sheer necessity, we reluctantly come to grips with those serious character flaws that made problem drinkers of us in the first place, flaws which must be dealt with to prevent a retreat into alcoholism once again. ([Location 751](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=751))
+    - Tags: [[orange]] 
+- And we cling with a passionate persistence to others which are just as disturbing to our equilibrium, because… ([Location 754](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=754))
+    - Tags: [[blue]] 
+- At this stage of our progress we are under heavy pressure and coercion to… ([Location 757](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=757))
+- But when we have taken a square look at some of these defects, have discussed them with another, and have become willing to have them removed, our thinking about… ([Location 760](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=760))
+    - Tags: [[pink]] 
+- By this time in all probability we have gained some measure of release from our more devastating handicaps. We enjoy moments in which there… ([Location 761](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=761))
+- To those of us who have hitherto known only excitement, depression, or anxiety—in other words, to all of us—this newfound peace is a priceless gift. Something new indeed has been added. Where humility had formerly stood for a forced feeding on humble pie, it now… ([Location 762](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=762))
+    - Tags: [[blue]] 
+- Our eyes begin to open to the immense values which have come straight out of… ([Location 765](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=765))
+    - Tags: [[orange]] 
+- Everywhere we saw failure and misery transformed by humility into… ([Location 768](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=768))
+    - Tags: [[orange]] 
+- In every case, pain had been the price of admission into a new life. But this admission price had purchased more than we expected. It brought a measure of humility, which we soon discovered to be a healer of pain. We… ([Location 770](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=770))
+    - Tags: [[blue]] 
+- A great turning point in our lives came when we sought for humility as… ([Location 778](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=778))
+- We have seen that character defects based upon shortsighted or unworthy desires are the obstacles that block our… ([Location 782](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=782))
+    - Tags: [[blue]] 
+- self-centered… ([Location 784](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=784))
+- primarily fear that we would lose something we already possessed or would fail to get… ([Location 784](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=784))
+    - Tags: [[orange]] 
+- It is really saying to us that we now ought to be willing to try humility in seeking the removal of our other shortcomings just as we did when we admitted that we were powerless over alcohol, and came to believe that a… ([Location 788](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=788))
+    - Tags: [[blue]] 
+- STEPS Eight and Nine are concerned with personal relations. First, we take a look backward and try to discover where we have been at fault; next we make a vigorous attempt to repair the damage we have done; and third, having thus cleaned away the debris of the past, we consider how, with our newfound knowledge of… ([Location 793](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=793))
+    - Tags: [[orange]] 
+- Learning how to live in the greatest peace, partnership, and brotherhood with all men and women, of whatever description, is a… ([Location 797](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=797))
+    - Tags: [[pink]] 
+- Every A.A. has found that he can make little headway in this new adventure of living until he first backtracks and really makes an accurate and unsparing survey of… ([Location 798](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=798))
+    - Tags: [[orange]] 
+- This reopening of emotional wounds, some old, some perhaps forgotten, and some… ([Location 801](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=801))
+- Right here we need to fetch ourselves… ([Location 807](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=807))
+    - Tags: [[pink]] 
+- Moreover, it is usually a fact that our behavior when drinking has aggravated… ([Location 808](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=808))
+    - Tags: [[blue]] 
+- If we are now about to ask forgiveness for ourselves, why shouldn’t we start out by… ([Location 810](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=810))
+- These were some of the ways in which fear conspired with pride to hinder our making a list of all the people we had harmed. ([Location 816](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=816))
+- Some of us, though, tripped over a very different snag. We clung to the claim that when drinking we never hurt anybody but ourselves. ([Location 817](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=817))
+    - Tags: [[blue]] 
+- purposeful forgetting. ([Location 822](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=822))
+    - Tags: [[orange]] 
+- since discolored our personalities ([Location 827](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=827))
+    - Tags: [[blue]] 
+- can. Since defective relations with other human beings have nearly always been the immediate cause of our woes, including our alcoholism, no field of investigation could yield more satisfying and valuable rewards than this one. ([Location 829](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=829))
+    - Tags: [[orange]] 
+- Calm, thoughtful reflection upon personal relations can deepen our insight. ([Location 830](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=830))
+- miserly, irresponsible, callous, or cold. ([Location 839](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=839))
+    - Tags: [[orange]] 
+- irritable, critical, impatient, and humorless. ([Location 839](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=839))
+    - Tags: [[pink]] 
+- Suppose we lavish attention upon one member of the family and neglect the others. ([Location 840](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=840))
+    - Tags: [[blue]] 
+- What happens when we try to dominate the whole family, either by a rule of iron or by a constant outpouring of minute directions for just how their lives should be lived from hour to hour? ([Location 840](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=840))
+- What happens when we wallow in depression, self-pity oozing from every pore, and inflict that upon those about us? ([Location 842](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=842))
+    - Tags: [[blue]] 
+- To put a finger on the nearby and most deeply damaged ones shouldn’t be hard to do. ([Location 846](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=846))
+    - Tags: [[blue]] 
+- We should avoid extreme judgments, both of ourselves and of others involved. ([Location 850](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=850))
+    - Tags: [[orange]] 
+- There will be those who ought to be dealt with just as soon as we become reasonably confident that we can maintain our sobriety. ([Location 857](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=857))
+- There will be those to whom we can make only partial restitution, lest complete disclosures do them or others more harm than good. ([Location 858](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=858))
+    - Tags: [[blue]] 
+- There will be other cases where action ought to be deferred, ([Location 859](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=859))
+    - Tags: [[pink]] 
+- and still others in which by the very nature of the situation we shall never be able to make direct personal contact at all. ([Location 859](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=859))
+    - Tags: [[orange]] 
+- timing or caution. ([Location 862](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=862))
+    - Tags: [[blue]] 
+- Almost always we want to go further and admit other defects that have made us hard to live with. ([Location 864](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=864))
+    - Tags: [[orange]] 
+- While we may be quite willing to reveal the very worst, we must be sure to remember that we cannot buy our own peace of mind at the expense of others. ([Location 867](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=867))
+    - Tags: [[pink]] 
+- First we will wish to be reasonably certain that we are on the A.A. beam. ([Location 871](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=871))
+- Then we are ready to go to these people, to tell them what A.A. is, and what we are trying to do. ([Location 871](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=871))
+    - Tags: [[pink]] 
+- This will tempt us to argue, ([Location 876](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=876))
+- or to press our point insistently. ([Location 877](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=877))
+    - Tags: [[orange]] 
+- Or maybe it will tempt us to discouragement and pessimism. ([Location 877](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=877))
+    - Tags: [[pink]] 
+- steady and even purpose. ([Location 878](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=878))
+    - Tags: [[blue]] 
+- We will want to rest on our laurels. ([Location 879](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=879))
+- We will often manufacture plausible excuses for dodging these issues entirely. ([Location 880](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=880))
+    - Tags: [[blue]] 
+- Or we may just procrastinate, telling ourselves the time is not yet, when in reality we have already passed up many a fine chance to right a serious wrong. ([Location 881](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=881))
+    - Tags: [[orange]] 
+- The only exceptions we will make will be cases where our disclosure would cause actual harm. ([Location 884](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=884))
+    - Tags: [[orange]] 
+- But if no such opportunity presents itself, at some point we will want to summon all our courage, head straight for the person concerned, and lay our cards on the table. ([Location 885](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=885))
+- There can only be one consideration which should qualify our desire for a complete disclosure of the damage we have done. That will arise in the occasional situation where to make a full revelation would seriously harm the one to whom we are making amends. Or—quite as important—other people. ([Location 888](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=888))
+    - Tags: [[pink]] 
+- try to avoid harming third parties, ([Location 891](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=891))
+    - Tags: [[orange]] 
+- Above all, we should try to be absolutely sure that we are not delaying because we are afraid. For the readiness to take the full consequences of our past acts, and to take responsibility for the well-being of others at the same time, is the very spirit of Step Nine. ([Location 899](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=899))
+    - Tags: [[orange]] 
+- Then comes the acid test: can we stay sober, keep in emotional balance, and live to good purpose under all conditions? ([Location 904](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=904))
+    - Tags: [[pink]] 
+- For the wise have always known that no one can make much of his life until self-searching becomes a regular habit, until he is able to admit and accept what he finds, and until he patiently and persistently tries to correct what is wrong. ([Location 907](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=907))
+    - Tags: [[orange]] 
+- When our inventory is carefully taken, and we have made peace with ourselves, ([Location 913](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=913))
+    - Tags: [[pink]] 
+- Many of us also like the experience of an occasional retreat from the outside world where we can quiet down for an undisturbed day or so of self-overhaul and meditation. ([Location 919](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=919))
+    - Tags: [[blue]] 
+- It is a spiritual axiom that every time we are disturbed, no matter what the cause, there is something wrong with us ([Location 926](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=926))
+    - Tags: [[orange]] 
+- As we saw it, our wrath was always justified. ([Location 932](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=932))
+    - Tags: [[blue]] 
+- self-restraint, ([Location 938](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=938))
+    - Tags: [[blue]] 
+- When we speak or act hastily or rashly, the ability to be fair-minded and tolerant evaporates on the spot. ([Location 941](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=941))
+    - Tags: [[orange]] 
+- We must avoid quick-tempered criticism and furious, power-driven argument. The same goes for sulking or silent scorn. ([Location 943](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=943))
+    - Tags: [[pink]] 
+- For we can neither think nor act to good purpose until the habit of self-restraint has become automatic. ([Location 945](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=945))
+    - Tags: [[blue]] 
+- emotionally ill ([Location 953](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=953))
+    - Tags: [[orange]] 
+- frequently wrong, ([Location 954](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=954))
+    - Tags: [[pink]] 
+- It will become more and more evident as we go forward that it is pointless to become angry, or to get hurt by people who, like us, are suffering from the pains of growing up. ([Location 954](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=954))
+- Courtesy, kindness, justice, and love are the keynotes by which we may come into harmony with practically anybody. ([Location 963](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=963))
+    - Tags: [[orange]] 
+- Someone who knew what he was talking about once remarked that pain was the touchstone of all spiritual progress. ([Location 970](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=970))
+    - Tags: [[blue]] 
+- occasional emergency, ([Location 992](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=992))
+- kept rebelling against the idea of bowing before any God. ([Location 997](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=997))
+    - Tags: [[blue]] 
+- “first cause” of some sort, ([Location 1001](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=1001))
+    - Tags: [[orange]] 
+- who knew or cared about human beings. ([Location 1001](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=1001))
+    - Tags: [[pink]] 
+- And when we turn away from meditation and prayer, we likewise deprive our minds, our emotions, and our intuitions of vitally needed support. ([Location 1007](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=1007))
+    - Tags: [[orange]] 
+- For in meditation, debate has no place. ([Location 1032](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=1032))
+- Perhaps the real trouble was our almost total inability to point imagination toward the right objectives. ([Location 1040](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=1040))
+    - Tags: [[pink]] 
+- we have placed ourselves in a mood in which we can focus undisturbed on constructive imagination, we might proceed like this: ([Location 1043](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=1043))
+    - Tags: [[blue]] 
+- Meditation is something which can always be further developed. It has no boundaries, either of width or height. ([Location 1052](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=1052))
+    - Tags: [[pink]] 
+- meditation is in reality intensely practical. ([Location 1055](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=1055))
+    - Tags: [[orange]] 
+- One of its first fruits is emotional balance. ([Location 1055](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=1055))
+    - Tags: [[blue]] 
+- useful and helpful, ([Location 1061](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=1061))
+    - Tags: [[blue]] 
+- qualification: “…if it be Thy will.” ([Location 1065](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=1065))
+    - Tags: [[blue]] 
+- unconscious rationalizations. ([Location 1077](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=1077))
+    - Tags: [[blue]] 
+- wishful thinking and the human tendency to rationalize have distorted his so-called guidance. ([Location 1080](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=1080))
+    - Tags: [[orange]] 
+- of presumption and conceit in us. ([Location 1086](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=1086))
+- In A.A. we have found that the actual good results of prayer are beyond question. They are matters of knowledge and experience. All those who have persisted have found strength not ordinarily their own. They have found wisdom beyond their usual capability. And they have increasingly found a peace of mind which can stand firm in the face of difficult circumstances. ([Location 1088](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=1088))
+    - Tags: [[orange]] 
+- Almost any experienced A.A. will tell how his affairs have taken remarkable and unexpected turns for the better as he tried to improve his conscious contact with God. ([Location 1092](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=1092))
+    - Tags: [[pink]] 
+- We should simply resume prayer as soon as we can, doing what we know to be good for us. ([Location 1098](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=1098))
+    - Tags: [[orange]] 
+- emotional sobriety. ([Location 1108](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=1108))
+- spiritual awakening. ([Location 1110](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=1110))
+    - Tags: [[blue]] 
+- he has now become able to do, feel, and believe that which he could not do before on his unaided strength and resources alone. ([Location 1113](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=1113))
+    - Tags: [[orange]] 
+- a new state of consciousness and being. ([Location 1114](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=1114))
+- not something to be endured or mastered. ([Location 1115](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=1115))
+    - Tags: [[pink]] 
+- more spiritual development. ([Location 1202](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=1202))
+    - Tags: [[orange]] 
+- fallacies. It became clear that if we ever were to feel emotionally secure among grown-up people, we would have to put our lives on a give-and-take basis; we ([Location 1219](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=1219))
+    - Tags: [[orange]] 
+- would have to develop the sense of being in partnership or brotherhood with all those around us. ([Location 1220](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=1220))
+    - Tags: [[orange]] 
+- Our main problem is not how we are to stay married; it is how to be more happily married by eliminating the severe emotional twists that have so often stemmed from alcoholism. ([Location 1235](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=1235))
+    - Tags: [[orange]] 
+- It did not matter too much what our material condition was, but it did matter what our spiritual condition was. ([Location 1288](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=1288))
+    - Tags: [[pink]] 
+- We found that freedom from fear was more important than freedom from want. ([Location 1291](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=1291))
+- childish, ([Location 1301](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=1301))
+    - Tags: [[blue]] 
+- emotionally sensitive, ([Location 1301](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=1301))
+    - Tags: [[orange]] 
+- grandiose. ([Location 1301](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=1301))
+    - Tags: [[blue]] 
+- We have been talking about problems because we are problem people who have found a way up and out, and who wish to share our knowledge of that way with all who can use it. ([Location 1324](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=1324))
+    - Tags: [[orange]] 
+- unity ([Location 1335](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=1335))
+    - Tags: [[orange]] 
+- We believe there isn’t a fellowship on earth which lavishes more devoted care upon its individual members; surely there is none which more jealously guards the individual’s right to think, talk, and act as he wishes. ([Location 1340](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=1340))
+- conform to the principles of recovery. ([Location 1347](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=1347))
+    - Tags: [[orange]] 
+- His life actually depends upon obedience to spiritual principles. ([Location 1348](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=1348))
+    - Tags: [[pink]] 
+- It becomes plain that the group must survive or the individual will not. ([Location 1353](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=1353))
+    - Tags: [[blue]] 
+- Almost no recovery from alcoholism has ever been brought about by the world’s best professionals, whether medical or religious. ([Location 1726](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=1726))
+- Our single purpose has been defeated. ([Location 1729](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=1729))
+    - Tags: [[orange]] 
+- Alcoholics simply will not listen to a paid twelfth-stepper. ([Location 1729](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=1729))
+    - Tags: [[pink]] 
+- Almost from the beginning, we have been positive that face-to-face work with the alcoholic who suffers could be based only on the desire to help and be helped. ([Location 1730](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=1730))
+    - Tags: [[blue]] 
+- Ignoring the fact that these labors were not Twelfth Step jobs at all, ([Location 1735](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=1735))
+    - Tags: [[blue]] 
+- the critics attacked as A.A. professionals these workers of ours who were often doing thankless tasks that no one else could or would do. ([Location 1736](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=1736))
+- But when we had declared that our Fellowship couldn’t hire service workers nor could any A.A. member carry our knowledge into other fields, we were taking the counsel of fear, fear which today has been largely dispelled in the light of experience. ([Location 1741](https://readwise.io/to_kindle?action=open&asin=B00HGJL79Q&location=1741))

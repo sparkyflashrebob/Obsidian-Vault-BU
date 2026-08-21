@@ -1,0 +1,606 @@
+# Emotional Sobriety I
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/41f-CY8CMhL._SL200_.jpg)
+
+## Metadata
+- Author: [[AA Grapevine Inc]]
+- Full Title: Emotional Sobriety I
+- Category: #books
+
+## Highlights
+- Suddenly I realized what the matter was. My basic flaw had always been dependence — almost absolute dependence — on people or circumstances to supply me with prestige, security, and the like. Failing to get these things according to my perfectionist ([Location 209](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=209))
+    - Tags: [[blue]] 
+- dreams and specifications, I had fought for them. And when defeat came, so did my depression. ([Location 211](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=211))
+    - Tags: [[blue]] 
+- For my dependency meant demand — a demand for the possession and control of the people and the conditions surrounding me. ([Location 221](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=221))
+    - Tags: [[orange]] 
+- If the case says "To the devil with you" the Twelfth Stepper only smiles and turns to another case. He doesn't feel frustrated or rejected. If his next case responds, and in turn starts to give love and attention to other alcoholics, yet gives none back to him, the sponsor is happy about it anyway. He still doesn't feel rejected; instead he rejoices that his one-time prospect is sober and happy. And if his next following case turns out in later time to be his best friend (or romance) then the sponsor is most joyful. But he well knows that his happiness is a by-product — the extra dividend of giving without any demand for a return. ([Location 230](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=230))
+- My stability came out of trying to give, not out of demanding that I receive. ([Location 238](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=238))
+    - Tags: [[orange]] 
+- sobriety. If we examine every disturbance we have, great or small, we will find at the root of it some unhealthy dependency and its consequent unhealthy demand. ([Location 240](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=240))
+- Of course I haven't offered you a really new idea — only a gimmick that has started to unhook several of my own "hexes" at depth. Nowadays my brain no longer races compulsively in either elation, grandiosity or depression. I have been given a quiet place in bright sunshine. ([Location 243](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=243))
+    - Tags: [[orange]] 
+- Several months ago, my husband and I enrolled in a beginners' art course. We didn't become great painters, but both of us now see things, such as leaves and blades of grass and shadings of color, that we weren't aware of before. ([Location 259](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=259))
+- We learned also that in shading a tree, what is left out is as important as the pencil lines, for the blanks create sunlight on the leaves. ([Location 261](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=261))
+    - Tags: [[blue]] 
+- If I can delay only one second, maybe two, I have time to ask myself, "Do I really want to say that?" ([Location 264](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=264))
+    - Tags: [[orange]] 
+- "Self-will run riot!" ([Location 268](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=268))
+    - Tags: [[pink]] 
+- Now it's becoming easier to spot ego, and I work at getting the big Me out of the way. ([Location 268](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=268))
+    - Tags: [[orange]] 
+- I'm not talking. So I'm open; I'm teachable. ([Location 270](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=270))
+    - Tags: [[blue]] 
+- Now, when I see one of my children heading on a certain course and I question the outcome, I keep my mouth shut and practice the Third Step. ([Location 273](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=273))
+- I look to see what part of the problem I am causing (as one of my sponsors advised). I'm usually about eighty percent of the problem ([Location 274](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=274))
+    - Tags: [[pink]] 
+- That gives me time to do the truly helpful, gut-warming little things, just because they need doing and I truly care. I have time to work my program. ([Location 280](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=280))
+- The eternal internal war I can do without, too. The fighting inside me is over, and am I glad! ([Location 284](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=284))
+    - Tags: [[orange]] 
+- "Humility" ([Location 292](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=292))
+- "Pride" ([Location 297](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=297))
+- "Honesty ([Location 300](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=300))
+- life. "Honesty — is the absence of the intent to deceive." ([Location 302](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=302))
+- "awakening." ([Location 306](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=306))
+- to quicken, to stir, to wake up. ([Location 310](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=310))
+- me. I had surrendered to only one thing: my alcoholism. I accepted divine and temporal help in everything that had to do with my disease with complete humility but I never had extended this wonderful freedom from pride, resentments, envy and need for perfection and competition into "all my affairs." ([Location 323](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=323))
+    - Tags: [[orange]] 
+- So it finally came to me in this time of really deep need: I had had no understanding of the meaning of spiritual awakening. And because I accepted all things in AA as natural and just and healthy and good, I was only permitting an unconscious use of my spiritual awakening in AA areas. And I had never brought it out and looked at it before. ([Location 325](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=325))
+    - Tags: [[pink]] 
+- surrender ([Location 329](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=329))
+- "Take the words 'success' and 'failure' out of your vocabulary. ([Location 337](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=337))
+- 'honesty' and 'effort,'" ([Location 337](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=337))
+- "Don't you know that success and failure share a common denominator?" He paused and then really let me have it. "Both are temporary!" ([Location 343](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=343))
+    - Tags: [[orange]] 
+- innocent victim, ([Location 361](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=361))
+- saw no reason to forgive anyone, and I nursed my resentments as if my life depended upon keeping them alive. ([Location 361](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=361))
+    - Tags: [[blue]] 
+- My anger was poisoning my soul, not theirs. ([Location 367](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=367))
+- forgiving is not forgetting, ([Location 377](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=377))
+- The agony of being responsible for someone else's death is a horrible thing. ([Location 380](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=380))
+    - Tags: [[pink]] 
+- potential killer ([Location 382](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=382))
+    - Tags: [[orange]] 
+- the power of forgiveness and the freedom it offers, ([Location 386](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=386))
+    - Tags: [[blue]] 
+- What I could do was make amends for selfishly nursing my resentment. ([Location 387](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=387))
+- Grateful that my voice didn't crack and that I didn't get sick from the butterflies dancing in my stomach, I took a deep breath and said a silent prayer of thanks. Then, I sat and watched as the human being in front of me expressed the most sincere sorrow and regret I have ever seen. It allowed me to make peace with my loss. Now I believe that mental illness had robbed this woman of the power of choice, and my friend had died because he was just in a bad place at a bad time. ([Location 395](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=395))
+    - Tags: [[blue]] 
+- A 500-pound weight was lifted from my shoulders. ([Location 399](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=399))
+- It was then that I discovered something alarming about myself: in order to fill the air with my words, a lot of what I said was negative. ([Location 408](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=408))
+- Here's how his talking went that day: first, he presented the problem, then some dumb so-and-so's solution (which not only didn't work but made the situation worse), then his solution, followed by a series of events that proved his solution was the only successful one. When a new topic sprang forth, my pigeon would listen for a while — but not too long. Then he would begin his cycle all over again. ([Location 412](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=412))
+    - Tags: [[orange]] 
+- If you sponsor people, you'll never need a mirror. ([Location 417](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=417))
+    - Tags: [[blue]] 
+- if I only said positive things, ([Location 418](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=418))
+    - Tags: [[orange]] 
+- The person I used to be is always waiting around the corner. ([Location 423](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=423))
+    - Tags: [[pink]] 
+- He's waiting for me to split a six-pack and join him in cussing and complaining and cutting down everything from his ex-boss and the Army to the church, academia, the government — and AA. ([Location 424](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=424))
+    - Tags: [[blue]] 
+- However, even during my first days in AA, I was wary of poking holes in the program, lest the whole fabric rip apart. I suspected that if I were to allow myself to make even one exception for myself — such as determining that I would ignore the God Steps — I might open myself to a justification to drink. Therefore, I determined to find a way to live with the whole AA program, including God. ([Location 437](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=437))
+- One night began typically. I woke, realized he was not home, and felt the fear surface. Then something altogether different happened. I understood that I did not have to follow that route. Without even thinking about what I was doing, I said, not exactly to "God" but definitely ([Location 453](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=453))
+- not just to myself, "Whatever happens, let me accept it." Instantly a wave of calm washed over me. The panic evaporated. I knew from the core of my being that, because I was sober and was not going to drink over this situation, I was fine. I trusted — something. I fell asleep. ([Location 455](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=455))
+- And, interestingly enough, following a spiritual path has become increasingly essential to me. ([Location 461](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=461))
+    - Tags: [[orange]] 
+- I find instead that it frees me to think and act as my truest self. ([Location 463](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=463))
+    - Tags: [[blue]] 
+- few weeks ago, I did a guided imagery session in which I saw the black, bitter bile of professional jealousy being removed from me by a kindly monkey, who placed it in the earth, where it dissolved and became harmless. A couple of days later my young stepson called to say that his first book had been accepted for publication. I waited for the grip of jealousy, but, astonishingly, felt nothing but happiness for his success. ([Location 468](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=468))
+    - Tags: [[blue]] 
+- I felt then a remarkable sensation. It was as if my entire body was being emptied of what it no longer needed and was instantly filled with something else. The sensation was of light and energy, a kind of tingling current moving through me. ([Location 480](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=480))
+    - Tags: [[pink]] 
+- "actor" ([Location 491](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=491))
+- desire to control ([Location 491](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=491))
+    - Tags: [[blue]] 
+- willingness, ([Location 492](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=492))
+- anxiety ([Location 493](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=493))
+- "Then comes the acid test: can we stay sober, keep in emotional balance, and live to good purpose under all conditions?" ([Location 520](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=520))
+    - Tags: [[blue]] 
+- indulged in self-pity, resentment, fear ([Location 523](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=523))
+- which didn't solve the problem. ([Location 523](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=523))
+- Instead of giving up, or giving in to despair, these AAs were able to respond to life's challenges and stay sober — and "keep in emotional balance and live to good purpose." ([Location 524](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=524))
+    - Tags: [[orange]] 
+- expected of me. ([Location 528](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=528))
+- When the shadows of my past were placed in the light, I was thankful for the "design for living" that the Twelve Steps provide. ([Location 576](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=576))
+- Someone has said that the greatest gift we can give our family is peace of mind; I agree wholeheartedly. ([Location 581](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=581))
+    - Tags: [[pink]] 
+- I am a work in progress. ([Location 584](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=584))
+    - Tags: [[blue]] 
+- I didn't have a clue what my little girl liked or wanted. ([Location 592](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=592))
+    - Tags: [[orange]] 
+- This provided me with the opportunity to make some necessary changes. ([Location 595](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=595))
+    - Tags: [[orange]] 
+- I discovered that everything I thought really mattered no longer did. ([Location 599](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=599))
+    - Tags: [[orange]] 
+- I found that the little things I took for granted on a daily basis were the things that meant the most. ([Location 599](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=599))
+    - Tags: [[pink]] 
+- strive for more ambitious outcomes. ([Location 603](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=603))
+    - Tags: [[orange]] 
+- Each setback I encounter is really just another opportunity in disguise. ([Location 607](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=607))
+- It is another chance for me to become a better human being. If life can get better for me within the walls of this prison, then I know it can get better for everyone. ([Location 608](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=608))
+    - Tags: [[blue]] 
+- Although I stopped mentioning this to my wife, I would often revisit the thought — i.e., the resentment. ([Location 625](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=625))
+    - Tags: [[pink]] 
+- and let him relieve me of my desire for things to be my way. ([Location 628](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=628))
+    - Tags: [[orange]] 
+- My difficulty was of my own making. ([Location 631](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=631))
+    - Tags: [[blue]] 
+- This is evident when I am trying to get other people to do things the way I think is best — the way that would best suit my desires. ([Location 631](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=631))
+- first needed to stop practicing my defects of character and doing what wasn't working (Step Six). ([Location 634](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=634))
+    - Tags: [[pink]] 
+- When life is easy, I usually assume it's God's way and I'm quite spiritual. ([Location 661](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=661))
+    - Tags: [[blue]] 
+- What I've had to figure out is that I can't figure anything out ([Location 662](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=662))
+- life has its ups and downs. ([Location 663](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=663))
+    - Tags: [[orange]] 
+- my lack of compassion for my own physical and emotional hardships. ([Location 664](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=664))
+    - Tags: [[pink]] 
+- yet I'm still living in fear and having physical, spiritual, and emotional blues. ([Location 668](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=668))
+    - Tags: [[pink]] 
+- My life is so uncomfortable now, and there seems no sign of change, and yet I know from those around me that time takes time. ([Location 670](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=670))
+- that I am talking about my feelings. ([Location 674](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=674))
+    - Tags: [[blue]] 
+- alone I cannot solve my problems, but that with God and the Fellowship, I can keep growing and living. ([Location 674](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=674))
+- to remember what it was like ([Location 676](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=676))
+    - Tags: [[orange]] 
+- There are winners and whiners, and sometimes I seem to embody both. I am, as my friends remind me, a human being. ([Location 677](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=677))
+    - Tags: [[orange]] 
+- Our book Twelve Steps and Twelve Traditions states that "well-grounded AAs seem to have ([Location 698](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=698))
+    - Tags: [[orange]] 
+- the ability, by God's grace, to take these troubles in stride and turn them into demonstrations of faith." ([Location 699](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=699))
+    - Tags: [[orange]] 
+- I was afraid of you. I was afraid of me. ([Location 713](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=713))
+    - Tags: [[orange]] 
+- fragile sanity ([Location 715](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=715))
+    - Tags: [[blue]] 
+- saw scorn in every eye, rebuff in every gesture. ([Location 716](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=716))
+    - Note: what was I bringing to life.
+- "…the alcoholic is an extreme example of self-will run riot …" – Alcoholics Anonymous, p. 62 ([Location 729](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=729))
+- As active alcoholics, most of us are self-centered, and when we come into AA, our behavior can still be motivated by selfishness, self-seeking, self-pity, and self-centered fear. ([Location 730](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=730))
+    - Tags: [[blue]] 
+- "The longer you are sober, the narrower the path." ([Location 741](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=741))
+- After his wife died, he began to rely on me and other sponsees for physical as well as emotional help. ([Location 745](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=745))
+    - Tags: [[blue]] 
+- During that time I began to suffer panic attacks. I had been a mental and emotional disaster most of my life with several mental hospitalizations, including electric shock treatment when I was twenty-five, and although AA and God removed these extreme problems, even thinking that they might return was a great threat. ([Location 747](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=747))
+    - Tags: [[pink]] 
+- I began to look for another sponsor and ran up against the brick wall — the available pool of sponsors mostly had been sober for less time than I had been. I began to discover that being on top is not just lonely, it hurts. ([Location 752](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=752))
+    - Tags: [[orange]] 
+- had never been willing to follow instructions. ([Location 758](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=758))
+    - Tags: [[orange]] 
+- I certainly do not encourage using a sponsor who has just gotten sober, but after a year or so, anyone with a good program should be able to sponsor anyone else. ([Location 760](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=760))
+    - Tags: [[pink]] 
+- length of sobriety has brought me lasting benefits, and I have been more productive and comfortable than I ever dreamed I could be. ([Location 762](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=762))
+- But I still have no seniority — I am always one drink away from a drunk. ([Location 763](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=763))
+    - Tags: [[blue]] 
+- I have never mastered the art of self-sponsorship, and I doubt that I ever will. ([Location 768](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=768))
+    - Tags: [[blue]] 
+- reached a balance: ([Location 784](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=784))
+    - Tags: [[orange]] 
+- righteous anger ([Location 805](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=805))
+- cops. Before I opened my mouth, however, I did a quick inventory, to determine whether my reasons for sharing were sound. ([Location 813](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=813))
+    - Tags: [[pink]] 
+- If my motives were self-seeking, in order to justify a lousy performance or to call attention to myself or to evoke pity, I kept quiet. ([Location 814](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=814))
+    - Tags: [[orange]] 
+- Never while I worked at the police station did I broadcast the fact that I was a recovering alcoholic, but neither did I hide it. I ([Location 821](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=821))
+- you get what you get; it's what you do with it that counts. ([Location 829](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=829))
+- Am I still learning? ([Location 831](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=831))
+    - Tags: [[blue]] 
+- incessant angry disputes among the committee members in my head, ([Location 845](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=845))
+- I didn't lie. ([Location 851](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=851))
+    - Tags: [[pink]] 
+- I struggle constantly with control and detachment. ([Location 852](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=852))
+    - Tags: [[orange]] 
+- Childish grandiosity still goads me to make a moral issue of every little dispute. ([Location 852](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=852))
+    - Tags: [[blue]] 
+- Some perverse instinct for unhappiness insists that I must be right. ([Location 853](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=853))
+- The part of my job that always catches me off-guard, though, is the palpable jolt of pleasure I get from little ways to be helpful — to be of service — to others, for which they are so genuinely grateful. ([Location 855](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=855))
+- But the real litmus test for me is not letting fear and repugnance at close contact with very ill, decrepit, dying people sever my connection with my Higher Power. Whatever sense of victimization, injustice, absurdity, fraud, or bitter irony my sick mind thrived on drunk, my present circumstances force me to confront every workday as a shortcoming I've not yet mastered. ([Location 857](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=857))
+    - Tags: [[pink]] 
+- You should say something, right? But principles you espouse insist on civility. Maybe restraint of tongue is the best you can do. ([Location 865](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=865))
+- And it's taught me to view the mess other alcoholics make of their lives as a kind of job security. ([Location 868](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=868))
+- loving marriage, fast friends, modest belongings, good health. This is what I tell God when I'm feeling resentful about what I've got. ([Location 870](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=870))
+    - Tags: [[orange]] 
+- am I still learning? ([Location 872](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=872))
+    - Tags: [[blue]] 
+- "If you were in heaven," he said, "you would save that last piece of pie for your brother. That's what heaven is like. It's a world where we all share and think of others' needs before we think of our own." ([Location 887](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=887))
+    - Tags: [[orange]] 
+- Even though a part of me understood how nice it would be if that degree of harmony was possible, ([Location 889](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=889))
+    - Tags: [[pink]] 
+- can see that I've spent enormous amounts of my time and energy arranging people, places, and things in order to get that piece of pie. ([Location 891](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=891))
+- Book: "Selfishness — self-centeredness! That, we think, is the root of our troubles." ([Location 894](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=894))
+    - Tags: [[pink]] 
+- I could see how much self-centeredness had contributed to my failure at life. ([Location 898](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=898))
+    - Tags: [[blue]] 
+- life. I was my own God; ([Location 900](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=900))
+    - Tags: [[blue]] 
+- Self-centeredness is a poison to my emotional system. It frustrates my every effort toward a comfortable and happy existence. ([Location 902](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=902))
+    - Tags: [[pink]] 
+- A terrible chain reaction begins. Fear sets in. Anger, resentment, and self-pity become my guiding forces. ([Location 902](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=902))
+    - Tags: [[orange]] 
+- My only escape is to put this awful selfishness aside and become involved with the world around me. ([Location 903](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=903))
+    - Tags: [[blue]] 
+- As a result, our own problems just naturally pale in comparison. ([Location 906](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=906))
+    - Tags: [[orange]] 
+- Whatever the problem was, it may still be there, but my attitude toward it has changed. ([Location 909](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=909))
+- Occasionally, I still catch myself saying something like: "Why is this happening to me?" or "What is it ever going to take to finally make me happy?" Blinded by my selfishness, I perceive things that way. But in truth, I don't believe it takes anything to be happy. It is an inside job, something I choose, or refuse to choose, for myself. Circumstances outside myself have nothing whatever to do with it. ([Location 911](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=911))
+    - Tags: [[blue]] 
+- My surrender to alcoholism was necessary to open my heart and mind to the healing love of God. ([Location 918](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=918))
+- When I joined Alcoholics Anonymous, you told me that if I would walk with you, I would be a free man; that I would never have to drink again if I would only follow twelve simple Steps. But, you told me that in order to keep what I had found, I would have to give it away. I would have to work with others, putting their needs before my own. Sometimes, I don't feel like doing this. I'm still a very selfish person. But I know that if I want to remain sober and free, then these are the things I must do. ([Location 919](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=919))
+    - Tags: [[blue]] 
+- "Above everything, we alcoholics must be rid of this selfishness. We must, or it kills us!" ([Location 922](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=922))
+    - Tags: [[pink]] 
+- I had always believed that the important thing was to be able to draw other people's attention toward myself. ([Location 927](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=927))
+- I felt I had to have this attention in order to establish my self-worth. ([Location 928](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=928))
+    - Tags: [[orange]] 
+- This was my only means of security. Today, I know that the opposite is true. ([Location 928](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=928))
+- The real gift of love is to be able to give it to others. The ([Location 929](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=929))
+    - Tags: [[pink]] 
+- While I was studying karate, I earned the fourth of five belts in three years. During that time, I learned more than just karate: I also learned what it was like to belong, and gained a sense of self and confidence, all the while in a safe place. ([Location 938](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=938))
+- I did not think that this was fair, so I showed her and quit. ([Location 948](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=948))
+- childhood — and childish — resentments, ([Location 954](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=954))
+    - Tags: [[orange]] 
+- When, exactly, was this humility my sponsor wanted for me supposed to kick in? ([Location 960](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=960))
+    - Tags: [[orange]] 
+- I wore no belt and sat with the white belts for eleven months. What amazed me was that after the first three or four months, I began to accept that I was, indeed, in the right place. ([Location 964](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=964))
+- absence of pride. ([Location 992](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=992))
+- All my life I'd been given to understand that to have no pride was contemptible. ([Location 995](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=995))
+    - Tags: [[blue]] 
+- The strongest of all the pleas about my drinking (and in the end the least effective) was: "Have you no pride?" Pride of self and of family, of school, of business or professional affiliation, of social and fraternal contacts, of parents, children, and sweethearts, of prejudices and of locality, of possessions and of physical attributes, of nationality, intelligence quotient and creed — these I had been encouraged by a pride-puffed world to esteem as the highest values. Now I was told they were excess baggage, to get rid of them and be "cut down to size." ([Location 995](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=995))
+    - Tags: [[orange]] 
+- Whenever one of my uncountable prides was touched I'd flare in resentment. ([Location 1002](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1002))
+    - Tags: [[pink]] 
+- .the rage and the brainstorm are not for us." Or I could ask "humbly" that ([Location 1010](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1010))
+    - Tags: [[pink]] 
+- They knew how to live, and soberly. ([Location 1018](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1018))
+    - Tags: [[orange]] 
+- I don't suppose I'm much more valuable to the Creator than any one of the others. ([Location 1022](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1022))
+- I'm here on borrowed time, on probation. For I'm alcoholic, enjoying an arrestment of a fatal disease. ([Location 1024](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1024))
+    - Tags: [[orange]] 
+- This certainly gives me no license to push people around, or get annoyed with them or rail at them for not being other than as they are. ([Location 1025](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1025))
+    - Tags: [[blue]] 
+- When a chick is born the main event is the arrival on the earth of a new kind of life. In the excitement of this fact, the smashing of the shell is all but forgotten. ([Location 1030](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1030))
+- unloaded my frustration of working with people who cared only for themselves. ([Location 1045](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1045))
+    - Tags: [[orange]] 
+- It was explained to me that to put our common welfare first, I would have to put myself second. ([Location 1053](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1053))
+- Tradition One meant "putting ourselves to the side and working for the greater good." ([Location 1053](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1053))
+    - Tags: [[pink]] 
+- It didn't take long for me to realize that in order to consider the common welfare of my work group, I had to be willing to let go of my resentments toward them, specifically toward my coworker. ([Location 1055](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1055))
+- I was both aware of and sorry for what I had done and in the future I would make every effort to support rather than embarrass him. ([Location 1060](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1060))
+    - Tags: [[blue]] 
+- This time, I had a different motive than before, designing to meet the needs of the presenter and the audience instead of my own desire to be paid more or singled out for praise. ([Location 1064](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1064))
+    - Tags: [[pink]] 
+- fostered confidence rather than panic ([Location 1067](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1067))
+- As I worked the First Tradition to the best of my ability, I noticed a sense of well-being at work and an increased interest in others. It had never occurred to me before that the results of working the Traditions might be the same as working the Steps. ([Location 1071](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1071))
+    - Tags: [[orange]] 
+- "ego deflation at depth" ([Location 1087](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1087))
+- to get off the center of the universe. ([Location 1088](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1088))
+    - Tags: [[orange]] 
+- There has been some improvement in the deflation department, I realized the other day. I no longer have to count the stars at night to make sure they are all out there and in their proper places. And so it is with supervising tides, sunrises, and the flow of rivers on either side of the continental divide, along with many other tasks of which I have been relieved. ([Location 1090](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1090))
+- I now have latitude to work on more personal items such as lying, procrastination, indecision, lust, remorse, guilt, and so forth. ([Location 1093](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1093))
+    - Tags: [[pink]] 
+- "It is easy to let up on the spiritual program of action and rest on our laurels. ([Location 1099](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1099))
+- What we really have is a daily reprieve contingent on the maintenance of our spiritual condition." ([Location 1101](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1101))
+- toolkit ([Location 1103](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1103))
+- healing relationships with family and friends, ([Location 1105](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1105))
+- connecting with a higher power of our understanding. ([Location 1105](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1105))
+- solutions ([Location 1106](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1106))
+- rather than focusing on problems ([Location 1106](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1106))
+- we can live peacefully, happily, and to good purpose in the world. ([Location 1106](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1106))
+- I want to say that I enjoyed the work. It wasn't drudgery for me. I was outdoors, in the parks, out in the sun and the wind, listening to the birds, watching the squirrels, and sometimes interacting with people in the park. ([Location 1125](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1125))
+- Then came a day, after about three years, when it occurred to me that I was done. I had made my amends to the town. I didn't have to do it anymore. ([Location 1129](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1129))
+    - Tags: [[orange]] 
+- From two meetings to one to zero can happen so swiftly when our thinking becomes distorted by ingratitude. ([Location 1145](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1145))
+- Soon, there was a resurgence of ego, a feeling that I no longer needed AA. ([Location 1150](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1150))
+    - Tags: [[blue]] 
+- Defects of character began to reappear. ([Location 1152](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1152))
+- But the meeting is where it really is at, and your home group is the hub of all your AA action. ([Location 1157](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1157))
+    - Tags: [[pink]] 
+- Yet I thought I detected an estrangement, not intentional, I'm sure, but discernible. ([Location 1160](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1160))
+    - Tags: [[orange]] 
+- After considerable deliberation that night, I finally headed for the meeting. Making that decision was like breaking through a brick wall. It seems that alcoholics are always breaking through walls of some kind. ([Location 1165](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1165))
+- firmly believe that our happiness in this program is commensurate with our activity or lack of ([Location 1173](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1173))
+- loss of gratitude. ([Location 1182](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1182))
+- thoughts have been pretty negative. ([Location 1190](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1190))
+    - Tags: [[pink]] 
+- (Today I would probably call that drabness peaceful, but I had no tolerance for peace in early sobriety.) ([Location 1212](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1212))
+- alcoholic, obsessive thinking. ([Location 1217](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1217))
+- You know the kind — where your mind picks an idea and chews on it from every angle until it's unrecognizable. ([Location 1217](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1217))
+    - Tags: [[pink]] 
+- In the meantime, I made myself and my family pretty miserable. ([Location 1219](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1219))
+- Meanwhile, back in church, I decided to apply the same principle: if it worked in AA, why wouldn't it work in church? ([Location 1224](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1224))
+    - Tags: [[orange]] 
+- Gone were my negativity and critical thoughts about the people around me. ([Location 1229](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1229))
+    - Tags: [[orange]] 
+- And the people were suddenly so much friendlier! Or ([Location 1230](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1230))
+- could it be me? It seemed that I was reaping what I sowed in every situation I entered. ([Location 1230](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1230))
+    - Tags: [[blue]] 
+- "It's not what you get out of it, it's what you bring into it," ([Location 1234](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1234))
+- ego deflation at depth.) ([Location 1235](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1235))
+    - Tags: [[orange]] 
+- my faith community had changed when I started bringing something to it, and how my connection to AA had grown when I brought more to that. ([Location 1237](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1237))
+    - Tags: [[pink]] 
+- At that time, I was finding meetings somewhat burdensome: it seemed as if the same people told the same stories over and over again. ([Location 1239](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1239))
+    - Tags: [[blue]] 
+- was spiritually fit, I was supposed to help another suffering alcoholic by being available at a meeting. It could be that my spiritual advisor was right: it was more important that I bring something to AA rather than simply take from it. That ([Location 1243](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1243))
+- was a turning point in my sobriety. ([Location 1245](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1245))
+    - Tags: [[orange]] 
+- If you offended once, you were never forgiven. Old slights were recalled and thrown in your face. No one in the family knew how to say, "I'm sorry." No one ever admitted he or she might be wrong. ([Location 1275](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1275))
+- kept to my side of the street. ([Location 1283](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1283))
+    - Tags: [[blue]] 
+- But the real miracle was that they began to realize that they could do the same thing toward those whom they had offended. ([Location 1286](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1286))
+    - Tags: [[pink]] 
+- At that moment, our friendship changed. Janice asked for my support, and I was completely willing to give everything I had to help her. ([Location 1312](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1312))
+    - Tags: [[orange]] 
+- listen to the silence. ([Location 1332](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1332))
+    - Tags: [[blue]] 
+- When I stop thinking, I find that it isn't silent at all. Even out here, miles from the city, life makes itself heard. ([Location 1332](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1332))
+- I don't worry, and just do each job as well as possible, it's enough. ([Location 1335](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1335))
+    - Tags: [[blue]] 
+- surprise to me to realize that I was alcoholic. ([Location 1337](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1337))
+- like many things that are hard or unpleasant, it has compensations. It keeps us strong, and we get to work out-of-doors. When my wife moved ([Location 1342](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1342))
+    - Tags: [[pink]] 
+- As we talked, it became clear to me that most of my problems had been caused by my drinking. ([Location 1346](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1346))
+    - Tags: [[orange]] 
+- My brain still works overtime. A large part of my recovery has been in learning how not to listen to myself. ([Location 1351](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1351))
+    - Tags: [[orange]] 
+- Worse, I slipped into the forever syndrome: I was doomed — I always had been, I always would be. ([Location 1357](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1357))
+- "Just do it," he repeated. "Don't think about it." "But that's why we have brains," I argued. "To help us understand the world, and make decisions based on that." ([Location 1361](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1361))
+    - Tags: [[pink]] 
+- "Just do what's in front of you, don't think, don't drink, and go to meetings." ([Location 1364](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1364))
+    - Tags: [[blue]] 
+- I thought about that. Eventually, I began to see that what I had called thinking was not thinking at all but a kind of squirrel cage of doubt and worry that went around the same issues over and over and always brought me back where I had started. ([Location 1366](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1366))
+    - Tags: [[pink]] 
+- As my stinking thinking progressed, I cared less and less for myself and almost nothing for the people who were closest to me. ([Location 1371](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1371))
+- self-conviction ([Location 1373](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1373))
+    - Tags: [[orange]] 
+- I began to drink more to cover that darkness inside. ([Location 1373](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1373))
+    - Tags: [[pink]] 
+- his sick thinking was of the terrors of war. ([Location 1388](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1388))
+    - Tags: [[blue]] 
+- While I still drank, there was one conclusion my thinking was not allowed to arrive at. Since the conclusion I avoided — that I drank too much — was at the heart of every problem, ([Location 1389](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1389))
+    - Tags: [[orange]] 
+- my thinking became circular and dishonest. It ([Location 1390](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1390))
+    - Tags: [[pink]] 
+- people were sharing their own shortcomings with the group, often to uproarious laughter. ([Location 1394](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1394))
+    - Tags: [[pink]] 
+- "You're as sick as you are secret," we say, and my goal now is to be an open book. ([Location 1395](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1395))
+- the book was merely ([Location 1401](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1401))
+- baggage. ([Location 1401](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1401))
+    - Tags: [[orange]] 
+- When I did, I became a little freer. I had one less dark secret to think about. ([Location 1402](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1402))
+    - Tags: [[orange]] 
+- Tony tells me that it's time to go home. I have been in outer space again, thinking, thinking. ([Location 1403](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1403))
+    - Tags: [[pink]] 
+- have fired accidental physics as the creator of my world and replaced it with my own understanding of a loving God. ([Location 1406](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1406))
+    - Tags: [[orange]] 
+- This brings peace. ([Location 1408](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1408))
+- It's only when I stop thinking about it, stop trying to run the show, that my life may become as God intends. ([Location 1411](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1411))
+    - Tags: [[blue]] 
+- Wear life like a loose garment. ([Location 1420](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1420))
+- Don't take myself so seriously. ([Location 1421](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1421))
+    - Tags: [[blue]] 
+- Count my blessings. ([Location 1422](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1422))
+    - Tags: [[pink]] 
+- Find another alcoholic to work with. ([Location 1423](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1423))
+    - Tags: [[orange]] 
+- Read the Big Book and go to a meeting. ([Location 1424](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1424))
+- "Take my advice — I'm not using it." ([Location 1425](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1425))
+    - Tags: [[orange]] 
+- Suddenly we were all full of gratitude and laughing at the insanity of self-pity and self-imposed depression. We remembered all the pain and confusion of our early days in Alcoholics Anonymous. ([Location 1430](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1430))
+    - Tags: [[blue]] 
+- I who was the cause of my anger at life. ([Location 1464](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1464))
+- profitable emptiness ([Location 1466](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1466))
+    - Tags: [[orange]] 
+- I must love (accept) myself, at least, so as to be able to stop being angry and start being open to all the gifts the AA life can bring. ([Location 1467](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1467))
+    - Tags: [[pink]] 
+- That was the way it was. ([Location 1480](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1480))
+- thin-skinned ([Location 1481](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1481))
+    - Tags: [[orange]] 
+- "monotonous" sobriety ([Location 1489](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1489))
+    - Tags: [[pink]] 
+- "He will show you how to create the Fellowship you crave." ([Location 1496](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1496))
+    - Tags: [[blue]] 
+- The love flowing from its pages encourages me to keep the blade of my sobriety ever sharp and gleaming, to cut through all the ignorance and terror that surround still-suffering alcoholics. ([Location 1498](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1498))
+    - Tags: [[pink]] 
+- Almost without realizing it, I was losing enough fear and gaining enough faith to feel okay. ([Location 1516](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1516))
+- that I was no longer afraid to be "happy, joyous, and free." ([Location 1517](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1517))
+    - Tags: [[orange]] 
+- "I am willing to love you, to accept you just as you are. I will not judge you nor expect you to do anything just to please me. There are no qualifications on this love. I will never suggest that you do anything I have not done. If you want what people with good sobriety have, then you will do what they have done — the Twelve Steps of this program." ([Location 1531](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1531))
+- I gain insights into myself and learn how God wants me to broaden my horizons in the program. ([Location 1538](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1538))
+    - Tags: [[orange]] 
+- The first is that as long as I am acting in a loving and caring manner, I am not responsible for how others react. ([Location 1541](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1541))
+- The second concept is, I feel, the clearest basis for sharing our insides with another: feelings are neither right nor wrong. It is what we do with our feelings that we should concentrate on. ([Location 1542](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1542))
+    - Tags: [[blue]] 
+- The one common element that runs through all these relationships is the strong desire to stay sober and to go beyond sobriety to full-fledged recovery. ([Location 1549](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1549))
+    - Tags: [[orange]] 
+- black man ([Location 1557](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1557))
+    - Tags: [[orange]] 
+- diabetic ([Location 1560](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1560))
+    - Tags: [[orange]] 
+- Since I've been diagnosed with diabetes, I have days when, for no apparent reason, I don't feel well. So I try to take it in stride, knowing full well that it will pass and that more than likely something will happen during the day to take my mind completely off how I feel, both physically and emotionally. ([Location 1560](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1560))
+    - Tags: [[pink]] 
+- "Frequent contact with newcomers and with others is the bright spot of our lives." ([Location 1571](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1571))
+    - Tags: [[pink]] 
+- garden-variety human being, ([Location 1572](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1572))
+- the things we get the most joy out of are the things that sometimes we don't want to do. ([Location 1572](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1572))
+    - Tags: [[blue]] 
+- I could tell he felt really good and his spirits were lifted. ([Location 1580](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1580))
+- bib for him ([Location 1581](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1581))
+    - Tags: [[orange]] 
+- wearing his food ([Location 1582](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1582))
+- You just do what you know is the right thing to do. ([Location 1584](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1584))
+    - Tags: [[orange]] 
+- "Man, you know, he sure has a good head on his shoulders and he's really educated." ([Location 1588](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1588))
+    - Tags: [[orange]] 
+- I said yes, but it doesn't do too much to help keep him sober, ([Location 1588](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1588))
+    - Tags: [[orange]] 
+- do. I told him he still has a pretty good life and it's up to him to make the best of it. ([Location 1591](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1591))
+- unity, service, and recovery ([Location 1602](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1602))
+    - Tags: [[orange]] 
+- think I am about as unique as ham and eggs. ([Location 1605](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1605))
+- Frequent contact with others and what I can do today to help others is the answer. ([Location 1605](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1605))
+    - Tags: [[pink]] 
+- I thought my problems would be solved if only. ([Location 1606](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1606))
+    - Tags: [[blue]] 
+- If only . . . then I'd be all right. ([Location 1606](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1606))
+    - Tags: [[blue]] 
+- moment to moment. ([Location 1609](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1609))
+    - Tags: [[orange]] 
+- one foot in front of the other and not questioning, ([Location 1609](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1609))
+    - Tags: [[blue]] 
+- And tonight as ([Location 1614](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1614))
+    - Tags: [[orange]] 
+- I lay my head on my pillow I can't think of one single thing that I did today that I have to go back and redo and make amends for. ([Location 1614](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1614))
+    - Tags: [[orange]] 
+- Sam ([Location 1617](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1617))
+    - Tags: [[pink]] 
+- estranged wife ([Location 1622](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1622))
+    - Tags: [[blue]] 
+- "God, please help me." ([Location 1629](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1629))
+    - Tags: [[orange]] 
+- And that is when it happened. At that very moment, my entire world and body seemed to stop. I felt something like warm honey being poured over my mind and body. I closed my eyes and lowered my head as this warm feeling completely covered me. As I opened my eyes to look at my feet, I fully expected to be standing in a puddle of this liquid! Of course, there was nothing there, but something inexplicable had happened because when I looked back up at my ex-wife, the only thing I was capable of feeling was – are you ready for this? – love. That's right – love. ([Location 1630](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1630))
+    - Tags: [[pink]] 
+- A love born of complete and total acceptance. ([Location 1635](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1635))
+- In trying to work the honesty part of the program, I had to admit that I did not always like to call on drunks and that I had little tolerance or patience with them. I accepted the calls because I had been taught from the beginning that my sobriety depended upon it. ([Location 1647](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1647))
+    - Tags: [[blue]] 
+- element of fear ([Location 1649](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1649))
+- I would be criticized by the group, ([Location 1649](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1649))
+    - Tags: [[orange]] 
+- This honest evaluation of my feelings was as far as I could get. I was filled with guilt and self-loathing because of my attitude. ([Location 1651](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1651))
+- St. Francis of Assisi, ([Location 1658](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1658))
+    - Tags: [[orange]] 
+- that he seek to love more than to be loved — not that he express love to its fullest, not that he express it at all, not that he seek it completely but only that he seek it more than he sought to be loved. ([Location 1660](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1660))
+    - Tags: [[pink]] 
+- We are our desires. ([Location 1665](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1665))
+- there are degrees in everything! ([Location 1668](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1668))
+    - Tags: [[blue]] 
+- God grant that I may continue to seek not so much to be loved as to love. ([Location 1672](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1672))
+- "honesty" ([Location 1686](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1686))
+- drinking was the grey world; ([Location 1700](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1700))
+    - Tags: [[pink]] 
+- sobriety is in full color. ([Location 1700](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1700))
+    - Tags: [[orange]] 
+- working on my spiritual life, ([Location 1707](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1707))
+- Even when I was an emotional and spiritual wreck, my material things had always provided a false sense of being okay. ([Location 1710](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1710))
+- What I remember most about that night is the rhythm of their breathing. ([Location 1715](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1715))
+    - Tags: [[blue]] 
+- I believe the divine to be incarnate in all things, ([Location 1721](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1721))
+    - Tags: [[pink]] 
+- I know to honor my Higher Power is to talk to him as if he were a person. I never ask him for things anymore, I don't believe he is a genie who grants wishes, but I do believe he gives me strength and hope and an appreciation of life and goodness. ([Location 1721](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1721))
+    - Tags: [[orange]] 
+- "They'll never make it. You have to do it the hard way; you have to suffer through your own personal crucifixion." ([Location 1738](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1738))
+    - Tags: [[orange]] 
+- seventy-eight, poor as a church mouse, housebound, and partially disabled by a couple of strokes. My floor furnace won't work; neither will my electric fire; and I'm full of the joys of spring, though it looks like snow on the Sandia Mountains. The secret is that I begin my day, every day, with "Good morning, my God. Thank you for a wonderful night's sleep." Thank God for the electric blanket! ([Location 1742](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1742))
+    - Tags: [[pink]] 
+- Then, I totter out to the kitchen, plug in the coffee, feed "all creatures great and small" (five cats, once strays, now beloved companions, and two dogs, likewise strays and devoted companions). ([Location 1745](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1745))
+    - Tags: [[blue]] 
+- While I'm doing those chores and the coffee is perking, I look out the kitchen window. Again, I could shout my praise and gratitude to God, for sparkling blue skies (they are gray now, and it does look like snow) and for a little ([Location 1747](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1747))
+    - Tags: [[blue]] 
+- apricot tree, a thing of great beauty, glowing golden. Oh, thank God! There's a little story to my apricot tree. It's five or six years old, and it sprouted from a pit I spat out as I walked through the garden on the way to hang out washing. When I saw that little seed, sitting there beside the path, I thought, "Well, God bless you! Maybe if I plant you right here, you will grow." So I did, and it did, and now I have all this beauty. I even had quite a crop of apricots this year! ([Location 1748](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1748))
+    - Tags: [[blue]] 
+- How good it is to be free of arrogance, sarcasm, lying, and cheating, to be totally honest with myself and my fellowman. ([Location 1757](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1757))
+    - Tags: [[orange]] 
+- twenty-five times 365 equals one. ([Location 1765](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1765))
+    - Tags: [[orange]] 
+- We all share the comradeship of having been sober this one day, which is the only day we really have. But as a friend reminded me a few days ago, ([Location 1765](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1765))
+- "Yeah it's one day at a time — in a row!" ([Location 1766](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1766))
+    - Tags: [[blue]] 
+- Sobriety has brought with it countless blessings, all of them in the form of people. ([Location 1767](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1767))
+    - Tags: [[orange]] 
+- One reason is that I laugh here more than anyplace else I go. ([Location 1771](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1771))
+- see in our own stories the absurdity of our actions, ([Location 1772](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1772))
+    - Tags: [[orange]] 
+- the laughter comes from knowing that someone else really understands what madness there is in alcoholism. ([Location 1773](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1773))
+    - Tags: [[pink]] 
+- the shock of self-recognition. ([Location 1775](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1775))
+    - Tags: [[orange]] 
+- poisons that live inside me. ([Location 1777](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1777))
+    - Tags: [[orange]] 
+- learn how to be human. ([Location 1779](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1779))
+    - Tags: [[blue]] 
+- in small increments of improvement that add up over the years, I learn to walk the walk of life together with you. ([Location 1780](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1780))
+    - Tags: [[orange]] 
+- discover the power in powerlessness, ([Location 1782](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1782))
+- surrender; ([Location 1782](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1782))
+    - Tags: [[blue]] 
+- to face myself without fear, even with pleasure; ([Location 1782](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1782))
+    - Tags: [[orange]] 
+- to be confessional and vulnerable, ([Location 1783](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1783))
+    - Tags: [[pink]] 
+- This is harder for me: to invest myself in others. ([Location 1786](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1786))
+    - Tags: [[blue]] 
+- getting better or I'm getting worse. ([Location 1788](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1788))
+    - Tags: [[pink]] 
+- I will become a bit more bad as I age, and a bit more, and more, until by the time I'm old I will have become all of what I only indulged in at forty, but relished at fifty, and was consumed by at sixty. ([Location 1789](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1789))
+- I become that which I loathe within me. A little liar become The Liar. A little thief becomes The Thief. A little sadist becomes the Marquis. A little whiner becomes The Total Self-Pitier. ([Location 1792](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1792))
+    - Tags: [[orange]] 
+- So, in summation, this is why I continue to come to meetings: I come for sobriety. I come to keep up my gratitude and subdue my taking-for-granted-tude. I come because this is where I laugh more than anywhere else. I come for the shock of self-recognition. I come for the antidote to pride. I come to learn how to be human. I come to learn how to love. ([Location 1795](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1795))
+    - Tags: [[orange]] 
+- pleasure ([Location 1802](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1802))
+    - Tags: [[pink]] 
+- I'd had the willingness to ask for help and then follow someone else's suggestions. ([Location 1829](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1829))
+- I saw too that I'd been given perseverance and stamina. ([Location 1831](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1831))
+- self-acceptance. ([Location 1834](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1834))
+    - Tags: [[blue]] 
+- I saw and trusted other people's good intentions. ([Location 1836](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1836))
+    - Tags: [[orange]] 
+- So I learned about the place of gratitude: the importance of recognizing that the gifts in my life were not of my own making. I did the footwork. But the results were up to God. ([Location 1839](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1839))
+    - Tags: [[pink]] 
+- Beyond working the Twelve Steps, I've never ([Location 1841](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1841))
+    - Tags: [[orange]] 
+- me the emotional and spiritual tools I'd need to acquire these things, and also gave me the choice of where and whether or not I wanted to use these tools. ([Location 1842](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1842))
+- emptiness. ([Location 1847](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1847))
+- The point is to pass it on. ([Location 1851](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1851))
+    - Tags: [[pink]] 
+- Not the joy of owning. The joy of living. To me, this is the Great Reality of Alcoholics Anonymous. ([Location 1854](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1854))
+    - Tags: [[blue]] 
+- making life a matter of today's concern ([Location 1861](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1861))
+    - Tags: [[orange]] 
+- during the now. ([Location 1865](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1865))
+- If we choose to retrogress into the past or project into the future, we'll be alone in our thinking, since God is not to be found in such areas. ([Location 1865](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1865))
+    - Note: ?
+- stinking thinking ([Location 1866](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1866))
+    - Tags: [[blue]] 
+- If we are to find spiritual growth and serenity, we must dress our minds each morning as carefully as we dress our bodies. ([Location 1870](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1870))
+    - Tags: [[pink]] 
+- Because each of us, at any moment, is the sum total of every choice he or she has ever made, it is not sheer fantasy to expect each day to be the best day we have yet lived. ([Location 1871](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1871))
+    - Tags: [[orange]] 
+- pay ourselves a friendly visit. ([Location 1874](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1874))
+- Ultimately, at our individual paces, we will get to know ourselves. ([Location 1875](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1875))
+    - Tags: [[blue]] 
+- Some AA members go so far as to contend that an unexamined day may hardly be worth living (to paraphrase Plato). ([Location 1875](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1875))
+    - Tags: [[orange]] 
+- It has to be sipped, one taste at a time, so that each drop of serenity can be fully savored. ([Location 1877](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1877))
+    - Tags: [[pink]] 
+- persistence ([Location 1878](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1878))
+    - Tags: [[blue]] 
+- fuller understanding of values. ([Location 1879](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1879))
+    - Tags: [[orange]] 
+- none of our real gifts can be stolen from us. We can lose them only through our own carelessness and complacency. ([Location 1880](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1880))
+    - Tags: [[pink]] 
+- avoid procrastination. ([Location 1882](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1882))
+    - Tags: [[orange]] 
+- We must avoid the use of the word "should." ([Location 1883](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1883))
+    - Tags: [[pink]] 
+- rationalization. ([Location 1884](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1884))
+    - Tags: [[orange]] 
+- It is best that we substitute the word "will." "I will do . . ." rather than "I should do . . ." ([Location 1884](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1884))
+- Our program assures us that all answers to our daily problems are found in living in the now. Solutions that worked for yesterday's woes might be outmoded today. And reaching into the future for answers is wishful thinking. ([Location 1885](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1885))
+    - Tags: [[orange]] 
+- a sober alcoholic who has one eye on yesterday and the other on tomorrow is likely to be cockeyed today. ([Location 1887](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1887))
+    - Tags: [[pink]] 
+- DURING MY DRINKING DAYS, my life was in free fall. I didn't think before I acted, didn't accept responsibility, didn't show up, and didn't behave morally or decently. To rationalize this behavior, I presented myself to myself and others as a free spirit and a hedonist. I really thought I was a pleasure-seeker when in fact I was merely seeking gratification for my addiction to alcohol. ([Location 1892](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1892))
+    - Tags: [[orange]] 
+- What does it mean to me to truly savor a sober life? The most important thing is that I'm in the present moment, not in the past or future; it means I don't speed by my life so fast it's just a blur; it means being quiet in my mind and not worrying about things I can't solve today or conducting conversations and arguments with people who aren't in the room. I often have to remind myself to slow down and stay in the moment. I live in Manhattan, where the preferred mode of existence is faster (cities gave us the term "rush hour," after all), and in the rush and the hurry I sometimes forget to breathe. Just last night, as I was walking down Broadway after work, I had to make myself stop to look at the evening sky and the last light fading on the tall buildings, take a deep breath from my belly, count my breaths from one to ten, and recall that life wasn't going to start sometime in the future: the moment was now to relax, breathe, look around me, be alive. Don't clench; don't grab; slow down. "Easy Does It" is very simple and very useful. Also useful is a small prayer or affirmation: please let me wear the world as a loose garment. ([Location 1902](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1902))
+- "self-centered fear," ([Location 1912](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1912))
+    - Tags: [[blue]] 
+- In all sincerity I told him, "I don't need the Steps to stay sober. The Fellowship of AA is enough to keep me sober." I kept slippin' and slidin' around the meetings, convinced I had this AA business all figured out. ([Location 1937](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1937))
+- They explained that the Promises were an end result of working the Steps to the best of my ability, ([Location 1963](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1963))
+    - Tags: [[orange]] 
+- freedom, ([Location 1966](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1966))
+    - Tags: [[blue]] 
+- I thought it meant doing what I pleased, when I pleased, without regard for consequences. ([Location 1967](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1967))
+    - Tags: [[pink]] 
+- Now I am truly free: to walk through any given day or situation without cringing in fear, exploding in rage, getting loaded, or self-destructing; to love, laugh, and know and appreciate the simple joys that come with being alive; to be a part of, instead of apart from, a society where I can serve an invaluable purpose; to recognize and utilize my own talents and abilities, as a writer, a worker, husband, stepfather and participating member in the Fellowship of Alcoholics Anonymous. I'm ([Location 1967](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1967))
+- I got to touch a tree for the first time in over three years! It was an oak tree, and the bark felt so good beneath my hand. I looked up through the branches and leaves to the sun shining through. The ground was littered with small twigs and real acorns that crunched beneath my feet. The trunk, which must have been seven or eight feet around, was covered with moss and lichens. I have never seen a more beautiful sight. As if that were not enough, a calico cat suddenly rubbed up against my leg and gave me permission to pet him while he drank from a water dish. I was dumbstruck with all the sensation. The feel of bark and cat fur, the sight of open space and green leaves — all this for a man who'd had none of them for years — were for me what climbing Mt. Everest must be to a free man. Then it ended. We left after my visit to the dentist, yet I will always carry that day with me as a symbol of God's grace and as a reminder to have gratitude for the small, mundane things of everyday life. ([Location 1992](https://readwise.io/to_kindle?action=open&asin=B008KS7A3E&location=1992))
+    - Tags: [[orange]] 

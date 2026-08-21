@@ -1,0 +1,72 @@
+# You Are Not Your Pain
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/41j4MWVCXIL._SL200_.jpg)
+
+## Metadata
+- Author: [[Vidyamala Burch, Danny Penman]]
+- Full Title: You Are Not Your Pain
+- Category: #books
+
+## Highlights
+- It will teach you how to reduce your suffering progressively, ([Location 124](https://readwise.io/to_kindle?action=open&asin=B00LDRAS8S&location=124))
+    - Tags: [[pink]] 
+- Breathworks ([Location 129](https://readwise.io/to_kindle?action=open&asin=B00LDRAS8S&location=129))
+    - Tags: [[pink]] 
+- The core mindfulness meditation techniques have been shown in many clinical trials to be at least as effective as drugs or counseling for relieving anxiety, stress, and depression.2 ([Location 135](https://readwise.io/to_kindle?action=open&asin=B00LDRAS8S&location=135))
+    - Tags: [[blue]] 
+- When it comes to pain, clinical trials show that mindfulness can be as effective as the most commonly prescribed painkillers, and some studies have shown it to be as powerful as morphine. ([Location 137](https://readwise.io/to_kindle?action=open&asin=B00LDRAS8S&location=137))
+- Imaging studies show that it soothes the brain patterns underlying pain, and over time, these changes take root ([Location 139](https://readwise.io/to_kindle?action=open&asin=B00LDRAS8S&location=139))
+    - Tags: [[orange]] 
+- and alter the structure of the brain itself so that you no longer feel pain with the same intensity. ([Location 139](https://readwise.io/to_kindle?action=open&asin=B00LDRAS8S&location=139))
+    - Tags: [[orange]] 
+- Mindfulness teaches you that pain naturally waxes and wanes. You learn to gently observe it, rather than be caught up in it, and when you do so, something remarkable happens: it begins to melt away of its own accord. ([Location 199](https://readwise.io/to_kindle?action=open&asin=B00LDRAS8S&location=199))
+    - Tags: [[pink]] 
+- Each thought builds on the last and quickly turns into a vicious cycle that ends up amplifying your pain. ([Location 217](https://readwise.io/to_kindle?action=open&asin=B00LDRAS8S&location=217))
+    - Tags: [[pink]] 
+- such negative spirals can begin wearing tracks in the mind so that you become primed to suffer. ([Location 220](https://readwise.io/to_kindle?action=open&asin=B00LDRAS8S&location=220))
+- Over time, the brain actually becomes better at sensing pain. Brain scans confirm that people who suffer from chronic pain have more brain tissue dedicated to feeling the conscious sensations of pain.25 ([Location 222](https://readwise.io/to_kindle?action=open&asin=B00LDRAS8S&location=222))
+    - Tags: [[pink]] 
+- It’s almost as if the brain has turned up the volume to maximum and doesn’t know how to turn it down again. ([Location 224](https://readwise.io/to_kindle?action=open&asin=B00LDRAS8S&location=224))
+    - Tags: [[orange]] 
+- In practice, you can be in pain but you need not suffer. ([Location 228](https://readwise.io/to_kindle?action=open&asin=B00LDRAS8S&location=228))
+    - Tags: [[pink]] 
+- You’ll also be encouraged to break some of your unconscious habits of thinking and behaving. These can embed a surprising amount of suffering because much of what we think and feel is locked in place by ongoing ways of approaching the world. ([Location 266](https://readwise.io/to_kindle?action=open&asin=B00LDRAS8S&location=266))
+- By simply breaking some of your more ingrained habits, you will help dissolve your suffering. ([Location 267](https://readwise.io/to_kindle?action=open&asin=B00LDRAS8S&location=267))
+    - Tags: [[orange]] 
+- The doctors were puzzled by her pain. Several scans had shown that her neck had completely healed, but the pain stubbornly remained. ([Location 290](https://readwise.io/to_kindle?action=open&asin=B00LDRAS8S&location=290))
+    - Tags: [[blue]] 
+- Lately her doctor had begun suggesting antidepressants to lift her mood. Her response was always the same: “I’m not depressed,” she’d snap. “I’m angry because that man who drove into me has taken my life away. I used to dance all night. Now I can barely walk!” ([Location 295](https://readwise.io/to_kindle?action=open&asin=B00LDRAS8S&location=295))
+    - Tags: [[blue]] 
+- Claire and millions of others exist in a world of suffering, a place where even the simplest of tasks can amplify their pain. This often leads to anxiety, stress, depression, and exhaustion, each of which further enhances suffering in a downward spiral. Such vicious cycles are driven by newly discovered psychological forces that underlie the perception of pain. ([Location 302](https://readwise.io/to_kindle?action=open&asin=B00LDRAS8S&location=302))
+    - Tags: [[blue]] 
+- Gate Theory ([Location 313](https://readwise.io/to_kindle?action=open&asin=B00LDRAS8S&location=313))
+    - Tags: [[orange]] 
+- They suggest that there are “gates” in the brain and nervous system that, when open, allow you to experience pain. ([Location 314](https://readwise.io/to_kindle?action=open&asin=B00LDRAS8S&location=314))
+    - Tags: [[orange]] 
+- In a sense, the body sends a continuous low-level “chatter” of pain signals to the brain, but only when the gates are opened do the signals reach your conscious mind. ([Location 315](https://readwise.io/to_kindle?action=open&asin=B00LDRAS8S&location=315))
+    - Tags: [[blue]] 
+- These gates can also close, which is what happens when your pain lessens or fades away. ([Location 317](https://readwise.io/to_kindle?action=open&asin=B00LDRAS8S&location=317))
+- Pain is a sensation, which means that it is an interpretation made by the brain before it is consciously felt. ([Location 319](https://readwise.io/to_kindle?action=open&asin=B00LDRAS8S&location=319))
+    - Tags: [[pink]] 
+- To make this interpretation, the brain fuses together information from the mind as well as the body. ([Location 320](https://readwise.io/to_kindle?action=open&asin=B00LDRAS8S&location=320))
+    - Tags: [[blue]] 
+- This means that the thoughts and emotions flowing through your mind, both conscious and unconscious, have a dramatic effect on the intensity of your suffering. ([Location 321](https://readwise.io/to_kindle?action=open&asin=B00LDRAS8S&location=321))
+- chronic pain syndrome. ([Location 333](https://readwise.io/to_kindle?action=open&asin=B00LDRAS8S&location=333))
+- One possibility is that background “noise” in the nervous system becomes unduly amplified. ([Location 336](https://readwise.io/to_kindle?action=open&asin=B00LDRAS8S&location=336))
+    - Tags: [[blue]] 
+- primary suffering. ([Location 343](https://readwise.io/to_kindle?action=open&asin=B00LDRAS8S&location=343))
+    - Tags: [[orange]] 
+- “raw data” ([Location 343](https://readwise.io/to_kindle?action=open&asin=B00LDRAS8S&location=343))
+    - Tags: [[blue]] 
+- secondary suffering, ([Location 345](https://readwise.io/to_kindle?action=open&asin=B00LDRAS8S&location=345))
+    - Tags: [[orange]] 
+- which is made up of all the thoughts, feelings, emotions, and memories associated with the pain. ([Location 346](https://readwise.io/to_kindle?action=open&asin=B00LDRAS8S&location=346))
+- The pain and distress that you actually feel is a fusion of both primary and secondary suffering. ([Location 347](https://readwise.io/to_kindle?action=open&asin=B00LDRAS8S&location=347))
+    - Tags: [[blue]] 
+- If you can learn to tease apart the two flavors of suffering, you can greatly reduce—or even eliminate—your pain and distress. ([Location 348](https://readwise.io/to_kindle?action=open&asin=B00LDRAS8S&location=348))
+    - Tags: [[blue]] 
+- This is because secondary suffering tends to dissolve when you observe it with the mind’s compassionate eye. ([Location 349](https://readwise.io/to_kindle?action=open&asin=B00LDRAS8S&location=349))
+    - Tags: [[pink]] 
+- Mindfulness allows you to see the different elements of pain laid out in front of you. When you see this vista, something remarkable begins to happen: your suffering gradually begins to subside and evaporate like the mist on a summer’s morning. ([Location 350](https://readwise.io/to_kindle?action=open&asin=B00LDRAS8S&location=350))
+- although the sensation of pain is created by the mind, your suffering is still real. You do feel it. ([Location 352](https://readwise.io/to_kindle?action=open&asin=B00LDRAS8S&location=352))
+    - Tags: [[pink]] 

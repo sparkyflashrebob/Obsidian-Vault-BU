@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">846</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8b669b2b-35d6-4c87-b99b-0ffff942e8fa</dc:identifier>
+        <dc:title>The Teachings of Ajahn Chah - web version</dc:title>
+        <dc:creator opf:file-as="Chah, Ajahn" opf:role="aut">Ajahn Chah</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.9.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-05-19T04:44:20+00:00</dc:date>
+        <dc:description>All Dhammatalks by Ajahn Chah, also available at http://www.ajahnchah.org/book</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>Dhammatalk</dc:subject>
+        <dc:subject>Ajahn Chah</dc:subject>
+        <dc:subject>Ajaan Chah</dc:subject>
+        <dc:subject>Ajarn Chah</dc:subject>
+        <dc:subject>Buddha</dc:subject>
+        <dc:subject>Dhamma</dc:subject>
+        <dc:subject>Sangha</dc:subject>
+        <dc:subject>Vinaya</dc:subject>
+        <dc:subject>Discipline</dc:subject>
+        <dc:subject>Buddhism</dc:subject>
+        <dc:subject>Buddhist monk</dc:subject>
+        <dc:subject>bhikkhu</dc:subject>
+        <dc:subject>bhiksu</dc:subject>
+        <dc:subject>Wat Pah Nanachat</dc:subject>
+        <dc:subject>Wat Pa Nanachat</dc:subject>
+        <dc:subject>Wat Nong Pah Pong</dc:subject>
+        <dc:subject>Thailand</dc:subject>
+        <dc:subject>Morality</dc:subject>
+        <dc:subject>Meditation</dc:subject>
+        <dc:subject>Thai Forest Tradition</dc:subject>
+        <dc:subject>teaching.</dc:subject>
+        <meta content="{&quot;Ajahn Chah&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-01-29T04:33:12.191000+00:00" name="calibre:timestamp"/>
+        <meta content="Teachings of Ajahn Chah - web version, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

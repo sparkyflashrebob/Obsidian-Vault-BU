@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">49fbe7d7-e68d-497b-bf6f-582f38fbc3dd</dc:identifier>
+        <dc:title>Discernment: The Buddha's Strategies for Happiness II</dc:title>
+        <dc:creator opf:file-as="Bhikkhu, Thanissaro" opf:role="aut">Thanissaro Bhikkhu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.9.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-06-13T07:00:00+00:00</dc:date>
+        <dc:description>This book is an introduction to the Buddha’s teachings on how to use discernment to find an unending happiness. The book consists of passages from the Pali Canon and substantial introduction by Thanissaro Bhikkhu to provide context.</dc:description>
+        <dc:publisher>Metta Forest Monastery</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Dhamma</dc:subject>
+        <dc:subject>Dharma</dc:subject>
+        <dc:subject>Buddha</dc:subject>
+        <dc:subject>Buddhism</dc:subject>
+        <dc:subject>Pali Canon</dc:subject>
+        <dc:subject>Theravada</dc:subject>
+        <dc:subject>Study Guide</dc:subject>
+        <meta content="{&quot;Thanissaro Bhikkhu&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-01-29T04:01:42.400000+00:00" name="calibre:timestamp"/>
+        <meta content="Discernment: The Buddha's Strategies for Happiness II" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
