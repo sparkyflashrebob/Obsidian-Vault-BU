@@ -1,6 +1,6 @@
 ---
 tags:
-  - Difficulties-Criticism
+- difficulties-criticism
 ---
 
 4 Ways to project

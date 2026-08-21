@@ -1,7 +1,7 @@
 ---
 tags:
-  - "#namaste"
-  - "#honor_your-divinity"
+- namaste
+- honor-your-divinity
 ---
 
 

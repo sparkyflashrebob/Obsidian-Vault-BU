@@ -1,13 +1,13 @@
 ---
 aliases:
-  - Recovery & Trauma Practice
+- Recovery & Trauma Practice
 tags:
-  - ForTeaching
-  - trauma
-  - refuge
-  - safety
-  - staying_at_the_edges
-  - Peter_Levine
+- forteaching
+- trauma
+- refuge
+- safety
+- staying-at-the
+- peter-levine
 ---
 
 Recovery Trauma

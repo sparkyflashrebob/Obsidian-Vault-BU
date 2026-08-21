@@ -1,9 +1,9 @@
 ---
 aliases:
-  - The Point of Intersection
-  - ""
+- The Point of Intersection
+- ''
 tags:
-  - Quotes
+- quotes
 ---
 
 … But to apprehend

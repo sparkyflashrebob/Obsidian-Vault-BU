@@ -1,7 +1,7 @@
 ### Speakers:
 - **Speaker / Presenter**: Ajahn Sumedho
 - **Event / Source**: Audio Archive (Ajahn Sumedho - Practice Of Inner Listening - 19900518 - Insight Meditation Society - Retreat Center http---www.dharma.org.mp3)
-- **Tags / Topics**: #ajahn_sumedho, #fear-and-anxiety, #practice-of-inner-listening-1990051, #samatha-vipassana, #siladhara, #sound-of-silence
+- **Tags / Topics**: #ajahn_sumedho, #fear-and-anxiety, #practice-of-inner, #samatha-vipassana, #siladhara, #sound-of-silence
 ## Summary:
 
 ### Progression of Talk

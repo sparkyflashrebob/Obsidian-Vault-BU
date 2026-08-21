@@ -1,7 +1,7 @@
 ---
 tags:
-  - quotes
-  - Inspirational
+- quotes
+- inspirational
 ---
 
 Against the Flow

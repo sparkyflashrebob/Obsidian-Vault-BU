@@ -1,11 +1,11 @@
 ---
 tags:
-  - knowledge
-  - observation
-  - experimentation
-  - sensory_experience
-  - direct_interaction
-  - direct_experience
+- knowledge
+- observation
+- experimentation
+- sensory-experience
+- direct-interaction
+- direct-experience
 ---
 ##### user
 empirical knowledge

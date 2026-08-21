@@ -1,9 +1,9 @@
 ---
 aliases:
-  - "Meditation: Not Holding To Fixed Views (Ajahn Amaro)"
+- 'Meditation: Not Holding To Fixed Views (Ajahn Amaro)'
 tags:
-  - Views-ditthi
-  - Guided-Meditation-Reflections
+- views-ditthi
+- guided-meditation-reflections
 ---
 
 Guided Meditation

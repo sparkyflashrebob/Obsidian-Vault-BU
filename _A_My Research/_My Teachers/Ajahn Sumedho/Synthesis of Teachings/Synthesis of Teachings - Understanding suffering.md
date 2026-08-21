@@ -2,12 +2,13 @@
 date: 1991
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Understanding suffering"
-location_event: "108 Talks Series / Ajahn Sumedho Archives (Ajahn Sumedho - Understanding suffering (1991) - 32 - 108 Talks by Luang Por Sumedho.mp3.md)"
+talk_title: Understanding suffering
+location_event: 108 Talks Series / Ajahn Sumedho Archives (Ajahn Sumedho - Understanding
+  suffering (1991) - 32 - 108 Talks by Luang Por Sumedho.mp3.md)
 tags:
-  - ajahn-sumedho, understanding-suffering, consciousness, mindfulness, buddho
-  - dharma-talk
-  - spiritual-synthesis
+- mindfulness-practice
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Understanding suffering

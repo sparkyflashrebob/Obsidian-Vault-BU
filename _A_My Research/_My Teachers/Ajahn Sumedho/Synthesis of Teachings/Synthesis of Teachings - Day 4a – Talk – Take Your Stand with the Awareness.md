@@ -2,12 +2,13 @@
 date: 2026-08-08
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Day 4a – Talk – Take Your Stand with the Awareness"
-location_event: "Audio Archive (Ajahn Sumedho - Day 4a – Talk – Take Your Stand with the Awareness - 06 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Day 4a – Talk – Take Your Stand with the Awareness
+location_event: Audio Archive (Ajahn Sumedho - Day 4a – Talk – Take Your Stand with
+  the Awareness - 06 - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #bikkhu-sangha, #day-4a-talk-take-your-stand-with-th, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #samatha-vipassana, #sound-of-silence
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Day 4a – Talk – Take Your Stand with the Awareness

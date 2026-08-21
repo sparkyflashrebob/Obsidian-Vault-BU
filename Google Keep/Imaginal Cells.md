@@ -1,7 +1,7 @@
 ---
 tags:
-  - The-Mystery
-  - Story
+- the-mystery
+- story
 ---
 
 Imaginal Cells

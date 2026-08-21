@@ -2,12 +2,13 @@
 date: 2026-08-10
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Luang Por’s 70th Birthday Talk"
-location_event: "Audio Archive (Ajahn Sumedho - Luang Por’s 70th Birthday Talk - 0727 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Luang Por’s 70th Birthday Talk
+location_event: Audio Archive (Ajahn Sumedho - Luang Por’s 70th Birthday Talk - 0727
+  - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #bikkhu-sangha, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #karma-and-rebirth, #khandhas, #luang-por-chah, #luang-por-s-70th-birthday-talk, #samatha-vipassana, #siladhara, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Luang Por’s 70th Birthday Talk
@@ -15,7 +16,7 @@ tags:
 🧘 **Teacher / Speaker**: Ajahn Sumedho  
 📅 **Date of Talk**: 2026-08-10  
 📍 **Event / Source**: Audio Archive (Ajahn Sumedho - Luang Por’s 70th Birthday Talk - 0727 - Ajahn Sumedho Podcast by Amaravati.mp3)  
-🏷️ **Topics / Tags**: #ajahn_sumedho, #bikkhu-sangha, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #karma-and-rebirth, #khandhas, #luang-por-chah, #luang-por-s-70th-birthday-talk, #samatha-vipassana, #siladhara, #unborn  
+🏷️ **Topics / Tags**: #ajahn_sumedho, #bikkhu-sangha, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #karma-and-rebirth, #khandhas, #luang-por-chah, #luang-por-s, #samatha-vipassana, #siladhara, #unborn  
 
 ---
 

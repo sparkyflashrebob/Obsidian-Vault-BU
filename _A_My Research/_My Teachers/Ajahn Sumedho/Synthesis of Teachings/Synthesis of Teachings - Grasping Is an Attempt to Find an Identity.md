@@ -2,12 +2,13 @@
 date: 2026-08-09
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Grasping Is an Attempt to Find an Identity"
-location_event: "Audio Archive (Ajahn Sumedho - Grasping Is an Attempt to Find an Identity - 0319 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Grasping Is an Attempt to Find an Identity
+location_event: Audio Archive (Ajahn Sumedho - Grasping Is an Attempt to Find an Identity
+  - 0319 - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #grasping-is-an-attempt-to-find-an-i, #grounded-awareness, #karma-and-rebirth, #rationality-conceit, #samatha-vipassana, #sound-of-silence, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Grasping Is an Attempt to Find an Identity

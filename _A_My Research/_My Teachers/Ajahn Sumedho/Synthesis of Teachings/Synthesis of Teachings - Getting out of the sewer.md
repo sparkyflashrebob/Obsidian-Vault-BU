@@ -2,12 +2,13 @@
 date: 2006
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Getting out of the sewer"
-location_event: "Audio Archive (Ajahn Sumedho - Getting out of the sewer (2006) - 79 - 108 Talks by Luang Por Sumedho.mp3)"
+talk_title: Getting out of the sewer
+location_event: Audio Archive (Ajahn Sumedho - Getting out of the sewer (2006) - 79
+  - 108 Talks by Luang Por Sumedho.mp3)
 tags:
-  - #ajahn-sumedho, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #getting-out-of-the-sewer, #grounded-awareness, #karma-and-rebirth, #khandhas, #rationality-conceit, #siladhara, #sound-of-silence, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Getting out of the sewer

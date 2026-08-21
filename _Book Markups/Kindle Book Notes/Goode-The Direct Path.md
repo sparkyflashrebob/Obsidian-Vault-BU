@@ -61,7 +61,7 @@ Tattvopadesha — location: [482](kindle://book?action=open&asin=B01AL2ZN2G&loca
 objectivity is false. — location: [542](kindle://book?action=open&asin=B01AL2ZN2G&location=542) ^ref-12297
 
 ---
-Through the senses, you perceive only gross objects. As you transcend the first and reach the second stage, you perceive only subtle objects or ideas. In the last stage, everything appears as Consciousness. Notes on Spiritual Discourses of Shri Atmananda, Vol. 2, p. 199, Note #1025. — location: [586](kindle://book?action=open&asin=B01AL2ZN2G&location=586) ^ref-4021
+Through the senses, you perceive only gross objects. As you transcend the first and reach the second stage, you perceive only subtle objects or ideas. In the last stage, everything appears as Consciousness. Notes on Spiritual Discourses of Shri Atmananda, Vol. 2, p. 199, Note. — location: [586](kindle://book?action=open&asin=B01AL2ZN2G&location=586) ^ref-4021
 
 ---
 We want to be the separate enjoyer of everything, and we also want nothing to change. — location: [615](kindle://book?action=open&asin=B01AL2ZN2G&location=615) ^ref-45308

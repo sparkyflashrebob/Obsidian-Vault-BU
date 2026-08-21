@@ -2,12 +2,13 @@
 date: 2026-08-11
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Morning Reflection (199)"
-location_event: "Audio Archive (Ajahn Sumedho - Morning Reflection (199) - 0418 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Morning Reflection (199)
+location_event: Audio Archive (Ajahn Sumedho - Morning Reflection (199) - 0418 - Ajahn
+  Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #fear-and-anxiety, #morning-reflection-199, #sound-of-silence, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Morning Reflection (199)
@@ -15,7 +16,7 @@ tags:
 🧘 **Teacher / Speaker**: Ajahn Sumedho  
 📅 **Date of Talk**: 2026-08-11  
 📍 **Event / Source**: Audio Archive (Ajahn Sumedho - Morning Reflection (199) - 0418 - Ajahn Sumedho Podcast by Amaravati.mp3)  
-🏷️ **Topics / Tags**: #ajahn_sumedho, #anapanasati, #fear-and-anxiety, #morning-reflection-199, #sound-of-silence, #unborn  
+🏷️ **Topics / Tags**: #ajahn_sumedho, #anapanasati, #fear-and-anxiety, #morning-reflection, #sound-of-silence, #unborn  
 
 ---
 

@@ -1,8 +1,8 @@
 ---
 tags:
-  - Buddhist-Concepts
-  - "#type_of_mindfulness"
-  - "#langerian_mindfulness"
+- buddhist-concepts
+- type-of-mindfulness
+- langerian-mindfulness
 Created: 2023-10-14
 ---
 

@@ -2,12 +2,13 @@
 date: 2026-08-06
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Accepting Confusion as It Is"
-location_event: "Audio Archive (Ajahn Sumedho - Accepting Confusion as It Is - 0305 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Accepting Confusion as It Is
+location_event: Audio Archive (Ajahn Sumedho - Accepting Confusion as It Is - 0305
+  - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #accepting-confusion-as-it-is, #ajahn-sumedho, #anapanasati, #bikkhu-sangha, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #rationality-conceit, #samatha-vipassana, #siladhara, #sound-of-silence
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Accepting Confusion as It Is

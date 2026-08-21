@@ -1,8 +1,8 @@
 ---
 tags:
-  - Buddhist-Concepts
-  - Prayer-Book
-  - Inspirational
+- buddhist-concepts
+- prayer-book
+- inspirational
 Created: 2024-06-16
 ---
 

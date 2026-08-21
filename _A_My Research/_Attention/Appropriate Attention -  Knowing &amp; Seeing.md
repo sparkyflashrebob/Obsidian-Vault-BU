@@ -1,6 +1,7 @@
 ---
 tag: appropriate attention
-tags: appropriate_attention
+tags:
+- appropriate-attention
 ---
 Knowing & Seeing
 

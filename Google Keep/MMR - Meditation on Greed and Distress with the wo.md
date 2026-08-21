@@ -1,10 +1,10 @@
 ---
 aliases:
-  - MMR - Meditation on Greed and Distress with the world
+- MMR - Meditation on Greed and Distress with the world
 tags:
-  - "#meditation"
-  - "#greatergood"
-  - "#distress"
+- meditation
+- greatergood
+- distress
 ---
 
 A few weeks back in my talk I referred to the Instructions from the Satipattana Sutta, Four Foundation of Mindfulness.  

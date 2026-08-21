@@ -2,12 +2,13 @@
 date: 2026-08-09
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Evening Reflections – Retreat Sept 1998"
-location_event: "Audio Archive (Ajahn Sumedho - Evening Reflections – Retreat Sept 1998 - 1112 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Evening Reflections – Retreat Sept 1998
+location_event: Audio Archive (Ajahn Sumedho - Evening Reflections – Retreat Sept
+  1998 - 1112 - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #evening-reflections-retreat-sept-19, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #luang-por-chah, #rationality-conceit, #samatha-vipassana
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Evening Reflections – Retreat Sept 1998
@@ -15,7 +16,7 @@ tags:
 🧘 **Teacher / Speaker**: Ajahn Sumedho  
 📅 **Date of Talk**: 2026-08-09  
 📍 **Event / Source**: Audio Archive (Ajahn Sumedho - Evening Reflections – Retreat Sept 1998 - 1112 - Ajahn Sumedho Podcast by Amaravati.mp3)  
-🏷️ **Topics / Tags**: #ajahn_sumedho, #evening-reflections-retreat-sept-19, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #luang-por-chah, #rationality-conceit, #samatha-vipassana  
+🏷️ **Topics / Tags**: #ajahn_sumedho, #evening-reflections-retreat, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #luang-por-chah, #rationality-conceit, #samatha-vipassana  
 
 ---
 

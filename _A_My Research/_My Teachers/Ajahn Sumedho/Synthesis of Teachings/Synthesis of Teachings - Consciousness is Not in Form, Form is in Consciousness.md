@@ -2,12 +2,13 @@
 date: 2026-08-08
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Consciousness is Not in Form, Form is in Consciousness"
-location_event: "Audio Archive (Ajahn Sumedho - Consciousness is Not in Form, Form is in Consciousness - 41 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Consciousness is Not in Form, Form is in Consciousness
+location_event: Audio Archive (Ajahn Sumedho - Consciousness is Not in Form, Form
+  is in Consciousness - 41 - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #bikkhu-sangha, #consciousness-is-not-in-form-form-i, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #khandhas, #luang-por-chah, #rationality-conceit, #samatha-vipassana, #sound-of-silence, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Consciousness is Not in Form, Form is in Consciousness

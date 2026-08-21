@@ -1,8 +1,8 @@
 ---
 aliases:
-  - "Teach Your Children "
+- 'Teach Your Children '
 tags:
-  - Prayer-Book
+- prayer-book
 ---
 
 

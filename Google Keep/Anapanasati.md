@@ -1,6 +1,6 @@
 ---
 tags:
-  - Mindfulness-of-Breathing
+- mindfulness-of-breathing
 ---
 
 (MINDFULNESS OF BREATHING)

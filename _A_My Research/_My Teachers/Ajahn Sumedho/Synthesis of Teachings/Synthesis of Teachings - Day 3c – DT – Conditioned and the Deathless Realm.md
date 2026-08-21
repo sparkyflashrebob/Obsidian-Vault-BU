@@ -2,12 +2,13 @@
 date: 2026-08-08
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Day 3c – DT – Conditioned and the Deathless Realm"
-location_event: "Audio Archive (Ajahn Sumedho - Day 3c – DT – Conditioned and the Deathless Realm - 07 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Day 3c – DT – Conditioned and the Deathless Realm
+location_event: Audio Archive (Ajahn Sumedho - Day 3c – DT – Conditioned and the Deathless
+  Realm - 07 - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #bikkhu-sangha, #day-3c-dt-conditioned-and-the-death, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #samatha-vipassana, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Day 3c – DT – Conditioned and the Deathless Realm
@@ -15,7 +16,7 @@ tags:
 🧘 **Teacher / Speaker**: Ajahn Sumedho  
 📅 **Date of Talk**: 2026-08-08  
 📍 **Event / Source**: Audio Archive (Ajahn Sumedho - Day 3c – DT – Conditioned and the Deathless Realm - 07 - Ajahn Sumedho Podcast by Amaravati.mp3)  
-🏷️ **Topics / Tags**: #ajahn_sumedho, #bikkhu-sangha, #day-3c-dt-conditioned-and-the-death, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #samatha-vipassana, #unborn  
+🏷️ **Topics / Tags**: #ajahn_sumedho, #bikkhu-sangha, #day-3c-dt, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #samatha-vipassana, #unborn  
 
 ---
 

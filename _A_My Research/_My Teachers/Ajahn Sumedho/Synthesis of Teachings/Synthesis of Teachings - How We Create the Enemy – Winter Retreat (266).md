@@ -2,12 +2,13 @@
 date: 2026-08-10
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "How We Create the Enemy – Winter Retreat (266)"
-location_event: "Audio Archive (Ajahn Sumedho - How We Create the Enemy – Winter Retreat (266) - 0128 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: How We Create the Enemy – Winter Retreat (266)
+location_event: Audio Archive (Ajahn Sumedho - How We Create the Enemy – Winter Retreat
+  (266) - 0128 - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #fear-and-anxiety, #forgiveness-reconciliation, #how-we-create-the-enemy-winter-retr, #rationality-conceit, #siladhara, #sound-of-silence
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: How We Create the Enemy – Winter Retreat (266)

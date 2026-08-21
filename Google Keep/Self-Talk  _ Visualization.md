@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Self-Talk  & Visualization
+- Self-Talk  & Visualization
 tags:
-  - ForTeaching
+- forteaching
 ---

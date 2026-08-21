@@ -1,10 +1,11 @@
 ---
 aliases:
-  - MEDITATION ON GRATITUDE AND JOY (Jack Kornfield)
-  - ""
-  - "Kornfield, Jack. The Wise Heart (p. 399). Random House Publishing Group. Kindle Edition. "
+- MEDITATION ON GRATITUDE AND JOY (Jack Kornfield)
+- ''
+- 'Kornfield, Jack. The Wise Heart (p. 399). Random House Publishing Group. Kindle
+  Edition. '
 tags:
-  - Meditation
+- meditation
 ---
 
 With gratitude I remember the people, animals, plants, insects, creatures of the sky and sea, air and water, fire and earth, all whose joyful exertion blesses my life every day. 

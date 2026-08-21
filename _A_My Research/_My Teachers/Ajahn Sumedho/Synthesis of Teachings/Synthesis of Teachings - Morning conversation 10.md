@@ -2,12 +2,13 @@
 date: 2026-08-11
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Morning conversation 10"
-location_event: "Audio Archive (Ajahn Sumedho - Morning conversation 10 - 0316 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Morning conversation 10
+location_event: Audio Archive (Ajahn Sumedho - Morning conversation 10 - 0316 - Ajahn
+  Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #fear-and-anxiety, #four-noble-truths, #karma-and-rebirth, #luang-por-chah, #morning-conversation-10, #samatha-vipassana, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Morning conversation 10
@@ -15,7 +16,7 @@ tags:
 🧘 **Teacher / Speaker**: Ajahn Sumedho  
 📅 **Date of Talk**: 2026-08-11  
 📍 **Event / Source**: Audio Archive (Ajahn Sumedho - Morning conversation 10 - 0316 - Ajahn Sumedho Podcast by Amaravati.mp3)  
-🏷️ **Topics / Tags**: #ajahn_sumedho, #fear-and-anxiety, #four-noble-truths, #karma-and-rebirth, #luang-por-chah, #morning-conversation-10, #samatha-vipassana, #unborn  
+🏷️ **Topics / Tags**: #ajahn_sumedho, #fear-and-anxiety, #four-noble-truths, #karma-and-rebirth, #luang-por-chah, #morning-conversation, #samatha-vipassana, #unborn  
 
 ---
 

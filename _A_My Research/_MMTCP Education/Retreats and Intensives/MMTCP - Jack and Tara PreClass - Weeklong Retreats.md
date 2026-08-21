@@ -1,6 +1,6 @@
 ---
 tags:
-  - MMTCP-Program
+- mmtcp-program
 Created: 2023-10-14
 ---
 

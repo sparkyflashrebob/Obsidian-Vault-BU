@@ -2,12 +2,13 @@
 date: 2026-08-11
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Morning Reflection – Truth is Silence – 17 March 2010"
-location_event: "Audio Archive (Ajahn Sumedho - Morning Reflection – Truth is Silence – 17 March 2010 - 15 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Morning Reflection – Truth is Silence – 17 March 2010
+location_event: Audio Archive (Ajahn Sumedho - Morning Reflection – Truth is Silence
+  – 17 March 2010 - 15 - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #bikkhu-sangha, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #luang-por-chah, #morning-reflection-truth-is-silence, #rationality-conceit, #samatha-vipassana, #sound-of-silence, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Morning Reflection – Truth is Silence – 17 March 2010

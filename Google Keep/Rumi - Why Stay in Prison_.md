@@ -1,8 +1,8 @@
 ---
 aliases:
-  - Rumi - Why Stay in Prison.
+- Rumi - Why Stay in Prison.
 tags:
-  - Views-ditthi
+- views-ditthi
 ---
 
 "Why do you stay in prison when the door is so wide open? Move outside the tangle of fear - thinking.

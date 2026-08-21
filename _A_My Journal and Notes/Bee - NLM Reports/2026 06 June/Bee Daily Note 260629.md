@@ -1,22 +1,22 @@
 ---
-date: "2026-06-29"
+date: '2026-06-29'
 tags:
-  - identity-politics
-  - identity
-  - technical-automation
-  - head-and-heart-together
-  - personal-memories
-  - stories-and-reflections
-  - recovery-principles
-  - fellowship
-  - buddhist-principles
-  - physical-discomfort
-  - health-monitoring
-  - bee-reports
-  - daily-notes
-  - daily-diary
-  - bee-nlm-report
-  - activity-details-architecture
+- identity-politics
+- identity
+- technical-automation
+- head-and-heart
+- personal-memories
+- stories-and-reflections
+- recovery-principles
+- fellowship
+- buddhist-principles
+- physical-discomfort
+- health-monitoring
+- bee-reports
+- daily-notes
+- daily-diary
+- bee-nlm-report
+- activity-details-architecture
 ---
 
 # "Head and Heart Together" YouTube Live Stream Setup, Meal Delivery Budgeting, Butte Lake Camping Memories & Music Mixing

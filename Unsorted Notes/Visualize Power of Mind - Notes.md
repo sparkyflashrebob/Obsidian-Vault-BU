@@ -1,11 +1,11 @@
 ---
-Source: 
+Source: null
 tags:
-  - visualization
-  - Mind
-  - dreams
-  - goals
-  - subconscious
+- visualization
+- mind
+- dreams
+- goals
+- subconscious
 ---
 Stuck in a Rut?
 Dreams out of reach?

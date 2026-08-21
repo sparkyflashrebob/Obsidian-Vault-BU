@@ -1,8 +1,8 @@
 ---
 aliases:
-  - "The Four Bases of Power "
+- 'The Four Bases of Power '
 tags:
-  - Lists
+- lists
 ---
 
 Concentration (samādhi) due to:

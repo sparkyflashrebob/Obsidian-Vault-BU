@@ -3,23 +3,24 @@ date: 2026-08-06
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
 talk_title: 5 Worldly Dhammas Vs Awareness (113)
-location_event: Audio Archive (Ajahn Sumedho - 5 Worldly Dhammas Vs Awareness (113) - 0913 - Ajahn Sumedho Podcast by Amaravati.mp3)
+location_event: Audio Archive (Ajahn Sumedho - 5 Worldly Dhammas Vs Awareness (113)
+  - 0913 - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - 5-worldly-dhammas
-  - ajahn_sumedho
-  - bikkhu-sangha
-  - fear-and-anxiety
-  - four-noble-truths
-  - grounded-awareness
-  - luang-por-chah
-  - rationality-conceit
-  - samatha-vipassana
-  - siladhara
-  - sound-of-silence
-  - unborn
-  - dharma-talk
-  - spiritual-synthesis
-  - "#awareness"
+- 5-worldly-dhammas
+- ajahn-sumedho
+- bikkhu-sangha
+- fear-and-anxiety
+- four-noble-truths
+- grounded-awareness
+- luang-por-chah
+- rationality-conceit
+- samatha-vipassana
+- siladhara
+- sound-of-silence
+- unborn
+- dharma-talk
+- spiritual-synthesis
+- awareness
 ---
 
 # Synthesis of Teachings: 5 Worldly Dhammas Vs Awareness (113)

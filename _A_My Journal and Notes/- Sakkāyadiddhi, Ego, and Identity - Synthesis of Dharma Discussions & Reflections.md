@@ -1,21 +1,21 @@
 ---
-date: "2026-08-20"
+date: '2026-08-20'
 tags:
-  - sakkayadiddhi
-  - ego
-  - identity-view
-  - personality-view
-  - anatta
-  - non-self
-  - identity-politics
-  - dei-initiatives
-  - dharma-and-meditation
-  - buddhist-principles
-  - recovery-principles
-  - ajahn_sumedho
-  - self-care
-  - mindful-presence
-  - community-support
+- sakkayadiddhi
+- ego
+- identity-view
+- personality-view
+- anatta
+- non-self
+- identity-politics
+- dei-initiatives
+- dharma-and-meditation
+- buddhist-principles
+- recovery-principles
+- ajahn-sumedho
+- self-care
+- mindful-presence
+- community-support
 ---
 
 # Sakkāyadiddhi, Ego, and Identity: Synthesis of Dharma Discussions & Reflections

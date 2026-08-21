@@ -1,7 +1,7 @@
 ---
 tags:
-  - ForTeaching
-  - Compassion
+- forteaching
+- compassion
 ---
 
 A. Compassion is innate

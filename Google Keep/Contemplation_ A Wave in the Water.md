@@ -1,8 +1,8 @@
 ---
 aliases:
-  - "Contemplation: A Wave in the Water"
+- 'Contemplation: A Wave in the Water'
 tags:
-  - Contemplation
+- contemplation
 ---
 
 A brief teaching from Zen Master Thich Nhat Hanh

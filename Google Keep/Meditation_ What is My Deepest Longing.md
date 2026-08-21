@@ -1,8 +1,8 @@
 ---
 aliases:
-  - "Meditation: What is My Deepest Longing"
+- 'Meditation: What is My Deepest Longing'
 tags:
-  - Meditation
+- meditation
 ---
 
 Find a comfortable way of sitting, and allow yourself to relax and be at ease. With a receptive presence, become aware of the state of your heart. Is there a sense of openness or tightness? Of peace or anxiety? Of contentment or dissatisfaction? As you feel the region of your heart, direct the breath there, so you are gently breathing in and out of your heart. 

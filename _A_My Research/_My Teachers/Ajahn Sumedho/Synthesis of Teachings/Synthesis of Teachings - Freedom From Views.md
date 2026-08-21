@@ -2,12 +2,13 @@
 date: 2026-08-09
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Freedom From Views"
-location_event: "Audio Archive (Ajahn Sumedho - Freedom From Views - 0913 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Freedom From Views
+location_event: Audio Archive (Ajahn Sumedho - Freedom From Views - 0913 - Ajahn Sumedho
+  Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #freedom-from-views, #khandhas, #luang-por-chah, #rationality-conceit, #samatha-vipassana, #sound-of-silence
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Freedom From Views

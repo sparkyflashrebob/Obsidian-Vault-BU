@@ -1,4 +1,4 @@
-MMR #88-0B Mindfulness of Breathing 2 Start of Training
+MMR #88-0b Mindfulness of Breathing 2 Start of Training
 Last week started on our journey into the Anapanasati Sutta - MOB
 As we took our first step we turned towards the formal practice itself
 Coming back to the basics of being present of the here and now.

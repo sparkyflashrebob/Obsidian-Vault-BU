@@ -2,12 +2,13 @@
 date: 2026-08-09
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Dis-ease-Grumble-Grumble"
-location_event: "Audio Archive (Ajahn Sumedho - Dis-ease-Grumble-Grumble - 33 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Dis-ease-Grumble-Grumble
+location_event: Audio Archive (Ajahn Sumedho - Dis-ease-Grumble-Grumble - 33 - Ajahn
+  Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #bikkhu-sangha, #dis-ease-grumble-grumble, #forgiveness-reconciliation, #four-noble-truths, #grounded-awareness, #luang-por-chah, #rationality-conceit, #samatha-vipassana, #siladhara
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Dis-ease-Grumble-Grumble

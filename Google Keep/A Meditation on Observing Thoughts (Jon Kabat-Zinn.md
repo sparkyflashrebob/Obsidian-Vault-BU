@@ -1,9 +1,9 @@
 ---
 aliases:
-  - "A Meditation on Observing Thoughts (Jon Kabat-Zinn) "
+- 'A Meditation on Observing Thoughts (Jon Kabat-Zinn) '
 tags:
-  - Mindfulness-of-Thinking
-  - Guided-Meditation-Reflections
+- mindfulness-of-thinking
+- guided-meditation-reflections
 ---
 
 Take a few moments to settle into feeling the body as a whole, sitting and breathing, or lying down and breathing, riding the waves of the breath moment by moment, resting in awareness. An awareness that features the entirety of the body scape and the breath scape as they express themselves, moment by moment. Life unfolding here and now in the body, in awareness.

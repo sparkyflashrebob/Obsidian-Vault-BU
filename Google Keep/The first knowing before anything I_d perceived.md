@@ -1,8 +1,8 @@
 ---
 aliases:
-  - The first knowing before anything I'd perceived
+- The first knowing before anything I'd perceived
 tags:
-  - "#the_one_who_knows"
+- the-one-who
 ---
 
 

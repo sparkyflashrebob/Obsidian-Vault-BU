@@ -2,12 +2,13 @@
 date: 1984
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Inclining to nibbana"
-location_event: "Audio Archive (Ajahn Sumedho - Inclining to nibbana (1984) - 14 - 108 Talks by Luang Por Sumedho.mp3)"
+talk_title: Inclining to nibbana
+location_event: Audio Archive (Ajahn Sumedho - Inclining to nibbana (1984) - 14 -
+  108 Talks by Luang Por Sumedho.mp3)
 tags:
-  - #ajahn-sumedho, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #inclining-to-nibbana, #karma-and-rebirth, #samatha-vipassana, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Inclining to nibbana

@@ -1,8 +1,8 @@
 ---
 aliases:
-  - "MN 24 Ratha-vinita Sutta: Relay Chariots  "
+- 'MN 24 Ratha-vinita Sutta: Relay Chariots  '
 tags:
-  - Ethics
+- ethics
 ---
 
 "So, my friend, I will give you an analogy, for there are cases where it's through analogies that knowledgeable people can understand the meaning of what is being said. Suppose that while King Pasenadi Kosala was staying at Savatthi, some urgent business were to arise at Saketa; and that between Savatthi and Saketa seven relay chariots were made ready for him. Coming out the door of the inner palace in Savatthi, he would get in the first relay chariot. By means of the first relay chariot he would reach the second relay chariot. Getting out of the first relay chariot he would get in the second relay chariot. By means of the second relay chariot he would reach the third... by means of the third he would reach the fourth... by means of the fourth, the fifth... by means of the fifth, the sixth... by means of the sixth he would reach the seventh relay chariot. Getting out of the sixth relay chariot he would get in the seventh relay chariot. By means of the seventh relay chariot he would finally arrive at the door of the inner palace at Saketa. As he arrived there, his friends & companions, relatives & kin would ask him, 'Great king, did you come from Savatthi to the door of the inner palace in Saketa by means of this chariot?' Answering in what way, my friend, would King Pasenadi Kosala answer them correctly?"

@@ -1,6 +1,6 @@
 ---
 tags:
-  - Native-American-View
+- native-american-view
 ---
 
 

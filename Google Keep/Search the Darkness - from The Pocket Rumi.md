@@ -1,10 +1,10 @@
 ---
 aliases:
-  - “Search the Darkness,” from The Pocket Rumi, ed. by Kabir Helminski
-  - ""
+- “Search the Darkness,” from The Pocket Rumi, ed. by Kabir Helminski
+- ''
 tags:
-  - quotes
-  - Inspirational
+- quotes
+- inspirational
 ---
 
 Search the Darkness

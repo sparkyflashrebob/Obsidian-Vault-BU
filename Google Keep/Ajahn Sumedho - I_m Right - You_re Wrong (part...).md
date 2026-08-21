@@ -1,11 +1,11 @@
 ---
 aliases:
-  - Ajahn Sumedho - I'm Right - You're Wrong (part...)
+- Ajahn Sumedho - I'm Right - You're Wrong (part...)
 tags:
-  - Dhamma
-  - core
-  - Sakkaya-Ditthi
-  - Views-ditthi
+- dhamma
+- core
+- sakkaya-ditthi
+- views-ditthi
 ---
 
 Ajahn Sumedho - I'm Right - You're Wrong

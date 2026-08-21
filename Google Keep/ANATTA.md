@@ -1,7 +1,7 @@
 ---
 tags:
-  - Buddhist-Concepts
-  - "#not-self"
+- buddhist-concepts
+- not-self
 Created: 2024-06-16
 ---
 

@@ -2,12 +2,13 @@
 date: 1989
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Awakening from the dream of life"
-location_event: "Audio Archive (Ajahn Sumedho - Awakening from the dream of life (1989) - 27 - 108 Talks by Luang Por Sumedho.mp3)"
+talk_title: Awakening from the dream of life
+location_event: Audio Archive (Ajahn Sumedho - Awakening from the dream of life (1989)
+  - 27 - 108 Talks by Luang Por Sumedho.mp3)
 tags:
-  - #ajahn-sumedho, #awakening-from-the-dream-of-life, #fear-and-anxiety, #four-noble-truths, #karma-and-rebirth, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Awakening from the dream of life

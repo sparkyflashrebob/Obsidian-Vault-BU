@@ -1,9 +1,9 @@
 ---
 tags:
-  - core
-  - mindfulness
-  - ForTeaching
-  - Mindfulness-of-Thinking
+- core
+- mindfulness
+- forteaching
+- mindfulness-of-thinking
 ---
 
 Here are some further ways to investigate and learn about thought as you are growing in mindfulness.

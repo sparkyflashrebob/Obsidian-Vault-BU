@@ -1,6 +1,6 @@
 ---
 tags:
-  - Mindfulness-of-Emotions
+- mindfulness-of-emotions
 ---
 
 1st step - know feelings in themselves - curiostity

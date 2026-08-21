@@ -2,12 +2,13 @@
 date: 2026-08-08
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Chanting and Kathina Talk - 1000 - Amaravati 1988"
-location_event: "Audio Archive (Ajahn Sumedho - Chanting and Kathina Talk - 1000 - Amaravati 1988.mp3)"
+talk_title: Chanting and Kathina Talk - 1000 - Amaravati 1988
+location_event: Audio Archive (Ajahn Sumedho - Chanting and Kathina Talk - 1000 -
+  Amaravati 1988.mp3)
 tags:
-  - #ajahn-sumedho, #bikkhu-sangha, #chanting-and-kathina-talk-1000-amar, #siladhara
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Chanting and Kathina Talk - 1000 - Amaravati 1988
@@ -15,7 +16,7 @@ tags:
 🧘 **Teacher / Speaker**: Ajahn Sumedho  
 📅 **Date of Talk**: 2026-08-08  
 📍 **Event / Source**: Audio Archive (Ajahn Sumedho - Chanting and Kathina Talk - 1000 - Amaravati 1988.mp3)  
-🏷️ **Topics / Tags**: #ajahn_sumedho, #bikkhu-sangha, #chanting-and-kathina-talk-1000-amar, #siladhara  
+🏷️ **Topics / Tags**: #ajahn_sumedho, #bikkhu-sangha, #chanting-and-kathina, #siladhara  
 
 ---
 

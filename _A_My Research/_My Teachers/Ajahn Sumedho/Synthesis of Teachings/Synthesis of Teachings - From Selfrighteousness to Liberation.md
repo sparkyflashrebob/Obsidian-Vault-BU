@@ -2,12 +2,13 @@
 date: 2026-08-09
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "From Selfrighteousness to Liberation"
-location_event: "Audio Archive (Ajahn Sumedho - From Selfrighteousness to Liberation - 0525 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: From Selfrighteousness to Liberation
+location_event: Audio Archive (Ajahn Sumedho - From Selfrighteousness to Liberation
+  - 0525 - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #fear-and-anxiety, #four-noble-truths, #from-selfrighteousness-to-liberatio, #grounded-awareness, #karma-and-rebirth, #luang-por-chah, #samatha-vipassana, #sound-of-silence, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: From Selfrighteousness to Liberation

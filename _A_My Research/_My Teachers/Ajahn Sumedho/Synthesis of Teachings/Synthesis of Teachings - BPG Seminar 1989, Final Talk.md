@@ -2,12 +2,13 @@
 date: 2026-08-07
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "BPG Seminar 1989, Final Talk"
-location_event: "Audio Archive (Ajahn Sumedho - BPG Seminar 1989, Final Talk - 0000 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: BPG Seminar 1989, Final Talk
+location_event: Audio Archive (Ajahn Sumedho - BPG Seminar 1989, Final Talk - 0000
+  - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #bpg-seminar-1989-final-talk, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #metta, #sound-of-silence, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: BPG Seminar 1989, Final Talk
@@ -15,7 +16,7 @@ tags:
 🧘 **Teacher / Speaker**: Ajahn Sumedho  
 📅 **Date of Talk**: 2026-08-07  
 📍 **Event / Source**: Audio Archive (Ajahn Sumedho - BPG Seminar 1989, Final Talk - 0000 - Ajahn Sumedho Podcast by Amaravati.mp3)  
-🏷️ **Topics / Tags**: #ajahn_sumedho, #anapanasati, #bpg-seminar-1989-final-talk, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #metta, #sound-of-silence, #unborn  
+🏷️ **Topics / Tags**: #ajahn_sumedho, #anapanasati, #bpg-seminarfinal-talk, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #metta, #sound-of-silence, #unborn  
 
 ---
 

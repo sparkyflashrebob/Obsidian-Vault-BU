@@ -2,12 +2,13 @@
 date: 2026-08-09
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Fetters, The Opression Through an Unrecognised Sense of Self (233)"
-location_event: "Audio Archive (Ajahn Sumedho - Fetters, The Opression Through an Unrecognised Sense of Self (233) - 0123 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Fetters, The Opression Through an Unrecognised Sense of Self (233)
+location_event: Audio Archive (Ajahn Sumedho - Fetters, The Opression Through an Unrecognised
+  Sense of Self (233) - 0123 - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #bikkhu-sangha, #fear-and-anxiety, #fetters-the-opression-through-an-un, #four-noble-truths, #karma-and-rebirth, #luang-por-chah, #rationality-conceit, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Fetters, The Opression Through an Unrecognised Sense of Self (233)

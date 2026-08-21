@@ -1,7 +1,7 @@
 ### Speakers:
 - **Speaker / Presenter**: Ajahn Sumedho
 - **Event / Source**: Audio Archive (Ajahn Sumedho - The One Who Knows - 20110102 - UNK Unknown.mp3)
-- **Tags / Topics**: #ajahn_sumedho, #fear-and-anxiety, #grounded-awareness, #karma-and-rebirth, #luang-por-chah, #rationality-conceit, #the-one-who-knows-20110102-unk-unkn
+- **Tags / Topics**: #ajahn_sumedho, #fear-and-anxiety, #grounded-awareness, #karma-and-rebirth, #luang-por-chah, #rationality-conceit, #the-one-who
 ## Summary:
 
 ### Progression of Talk

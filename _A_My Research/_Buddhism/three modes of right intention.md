@@ -1,6 +1,6 @@
 ---
-subject: "Right Intention"
-tags: right intention
+subject: Right Intention
+tags: []
 ---
 1. renunciation 
 2. good will 

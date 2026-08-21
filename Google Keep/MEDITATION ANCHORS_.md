@@ -1,9 +1,9 @@
 ---
 aliases:
-  - "MEDITATION ANCHORS "
+- 'MEDITATION ANCHORS '
 tags:
-  - mmtcp
-  - Meditation-Info
+- mmtcp
+- meditation-info
 ---
 
 MEDITATION ANCHORS 

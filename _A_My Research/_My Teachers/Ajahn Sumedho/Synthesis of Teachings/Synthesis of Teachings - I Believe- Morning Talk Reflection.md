@@ -2,12 +2,13 @@
 date: 2026-08-10
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "I Believe- Morning Talk Reflection"
-location_event: "Audio Archive (Ajahn Sumedho - I Believe- Morning Talk Reflection - 05 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: I Believe- Morning Talk Reflection
+location_event: Audio Archive (Ajahn Sumedho - I Believe- Morning Talk Reflection
+  - 05 - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #bikkhu-sangha, #four-noble-truths, #i-believe-morning-talk-reflection, #karma-and-rebirth, #rationality-conceit, #samatha-vipassana, #siladhara, #sound-of-silence, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: I Believe- Morning Talk Reflection

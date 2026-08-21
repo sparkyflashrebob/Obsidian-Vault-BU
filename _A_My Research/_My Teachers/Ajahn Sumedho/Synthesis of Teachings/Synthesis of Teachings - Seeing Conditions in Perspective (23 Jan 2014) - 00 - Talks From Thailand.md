@@ -1,7 +1,7 @@
 ### Speakers:
 - **Speaker / Presenter**: Ajahn Sumedho
 - **Event / Source**: Audio Archive (Ajahn Sumedho - Seeing Conditions in Perspective (23 Jan 2014) - 00 - Talks From Thailand.mp3)
-- **Tags / Topics**: #ajahn_sumedho, #anapanasati, #fear-and-anxiety, #four-noble-truths, #seeing-conditions-in-perspective-23, #unborn
+- **Tags / Topics**: #ajahn_sumedho, #anapanasati, #fear-and-anxiety, #four-noble-truths, #seeing-conditions-in, #unborn
 ## Summary:
 
 ### Progression of Talk

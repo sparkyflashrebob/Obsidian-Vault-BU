@@ -1,12 +1,12 @@
 ---
 aliases:
-  - Aggregates/Skandha/Khandhas
+- Aggregates/Skandha/Khandhas
 tags:
-  - Buddhist-Concepts
-  - aggregates
-  - "#selfing"
-  - "#source_of_suffering"
-  - "#not_self"
+- buddhist-concepts
+- aggregates
+- selfing
+- source-of-suffering
+- not-self
 Created: 2024-06-16
 ---
 

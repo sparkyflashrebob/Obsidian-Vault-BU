@@ -2,12 +2,13 @@
 date: 2026-08-11
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Mindfulness, The Perspective of The Unborn – 22 October 2010"
-location_event: "Audio Archive (Ajahn Sumedho - Mindfulness, The Perspective of The Unborn – 22 October 2010 - 65 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Mindfulness, The Perspective of The Unborn – 22 October 2010
+location_event: Audio Archive (Ajahn Sumedho - Mindfulness, The Perspective of The
+  Unborn – 22 October 2010 - 65 - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #bikkhu-sangha, #fear-and-anxiety, #karma-and-rebirth, #luang-por-chah, #metta, #mindfulness-the-perspective-of-the, #rationality-conceit, #samatha-vipassana, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Mindfulness, The Perspective of The Unborn – 22 October 2010

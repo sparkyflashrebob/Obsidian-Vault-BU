@@ -1,8 +1,8 @@
 ---
 tags:
-  - core
-  - mindfulness
-  - Freedom
+- core
+- mindfulness
+- freedom
 ---
 
 “Bhikkhus, this is the direct path for the purification of beings, for the surmounting of sorrow and lamentation, for the disappearance of pain and grief, for the attainment of the true way, for the realisation of Nibbāna — namely, the four foundations of mindfulness.

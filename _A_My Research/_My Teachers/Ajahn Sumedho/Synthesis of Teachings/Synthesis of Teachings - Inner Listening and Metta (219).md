@@ -2,12 +2,13 @@
 date: 2026-08-10
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Inner Listening and Metta (219)"
-location_event: "Audio Archive (Ajahn Sumedho - Inner Listening and Metta (219) - 0912 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Inner Listening and Metta (219)
+location_event: Audio Archive (Ajahn Sumedho - Inner Listening and Metta (219) - 0912
+  - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #brahmaviharas, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #inner-listening-and-metta-219, #metta, #rationality-conceit, #samatha-vipassana, #siladhara, #sound-of-silence
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Inner Listening and Metta (219)
@@ -15,7 +16,7 @@ tags:
 🧘 **Teacher / Speaker**: Ajahn Sumedho  
 📅 **Date of Talk**: 2026-08-10  
 📍 **Event / Source**: Audio Archive (Ajahn Sumedho - Inner Listening and Metta (219) - 0912 - Ajahn Sumedho Podcast by Amaravati.mp3)  
-🏷️ **Topics / Tags**: #ajahn_sumedho, #anapanasati, #brahmaviharas, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #inner-listening-and-metta-219, #metta, #rationality-conceit, #samatha-vipassana, #siladhara, #sound-of-silence  
+🏷️ **Topics / Tags**: #ajahn_sumedho, #anapanasati, #brahmaviharas, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #inner-listening-and, #metta, #rationality-conceit, #samatha-vipassana, #siladhara, #sound-of-silence  
 
 ---
 

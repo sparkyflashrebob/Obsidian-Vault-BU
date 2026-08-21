@@ -2,12 +2,13 @@
 date: 2009
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Finding the constancy of the supernal mind"
-location_event: "Audio Archive (Ajahn Sumedho - Finding the constancy of the supernal mind (2009) - 96 - 108 Talks by Luang Por Sumedho.mp3)"
+talk_title: Finding the constancy of the supernal mind
+location_event: Audio Archive (Ajahn Sumedho - Finding the constancy of the supernal
+  mind (2009) - 96 - 108 Talks by Luang Por Sumedho.mp3)
 tags:
-  - #ajahn-sumedho, #bikkhu-sangha, #fear-and-anxiety, #finding-the-constancy-of-the-supern, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #khandhas, #rationality-conceit, #samatha-vipassana, #siladhara, #sound-of-silence, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Finding the constancy of the supernal mind

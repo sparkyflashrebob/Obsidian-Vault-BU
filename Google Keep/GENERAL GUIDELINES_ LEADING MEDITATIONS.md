@@ -1,9 +1,9 @@
 ---
 aliases:
-  - "GENERAL GUIDELINES: LEADING MEDITATIONS"
+- 'GENERAL GUIDELINES: LEADING MEDITATIONS'
 tags:
-  - mmtcp
-  - Meditation-Info
+- mmtcp
+- meditation-info
 ---
 
 GENERAL GUIDELINES: LEADING MEDITATIONS 

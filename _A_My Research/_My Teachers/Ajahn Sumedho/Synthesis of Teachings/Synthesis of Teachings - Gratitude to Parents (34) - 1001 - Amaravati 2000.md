@@ -2,12 +2,13 @@
 date: 2026-08-09
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Gratitude to Parents (34) - 1001 - Amaravati 2000"
-location_event: "Audio Archive (Ajahn Sumedho - Gratitude to Parents (34) - 1001 - Amaravati 2000.mp3)"
+talk_title: Gratitude to Parents (34) - 1001 - Amaravati 2000
+location_event: Audio Archive (Ajahn Sumedho - Gratitude to Parents (34) - 1001 -
+  Amaravati 2000.mp3)
 tags:
-  - #ajahn-sumedho, #bikkhu-sangha, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #gratitude-to-parents-34-1001-amarav, #grounded-awareness, #karma-and-rebirth, #luang-por-chah, #rationality-conceit, #samatha-vipassana, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Gratitude to Parents (34) - 1001 - Amaravati 2000

@@ -1,7 +1,7 @@
 ---
 tags:
-  - Dhamma
-  - core
+- dhamma
+- core
 ---
 
 Canonical sources

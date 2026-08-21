@@ -1,7 +1,7 @@
 ---
 tags:
-  - "#thinking"
-  - "#suffering"
+- thinking
+- suffering
 Author: Krishnamurti
 ---
 

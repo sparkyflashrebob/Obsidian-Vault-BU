@@ -1,9 +1,10 @@
 ---
 aliases:
-  - Stay together, friends. Don't scatter and sleep. Our friendship is made of being awake."
+- Stay together, friends. Don't scatter and sleep. Our friendship is made of being
+  awake."
 tags:
-  - quotes
-  - Spirituality
+- quotes
+- spirituality
 ---
 
 Rumi says, "Stay together, friends. Don't scatter and sleep. Our friendship is made of being

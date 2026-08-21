@@ -1,8 +1,8 @@
 ---
 aliases:
-  - Andy's Take on the World & Dharma
+- Andy's Take on the World & Dharma
 tags:
-  - ForTeaching
+- forteaching
 ---
 
 Article about the super-rich not being in touch with the rest of the world.

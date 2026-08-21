@@ -1,6 +1,6 @@
 ---
 tags:
-  - ForTeaching
+- forteaching
 ---
 
 Definitely. I just got off the phone with Capri 🥲 she was begging me to come over  I wish she got more attention but I get it kids are hard 

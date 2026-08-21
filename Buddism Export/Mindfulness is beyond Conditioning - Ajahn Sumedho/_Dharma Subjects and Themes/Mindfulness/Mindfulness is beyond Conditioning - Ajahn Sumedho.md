@@ -1,7 +1,7 @@
 ---
 tags:
-  - quotes
-  - Identity-View
+- quotes
+- identity-view
 ---
 
 Mindfulness is getting beyond the conditioning of the mind - to the true nature of the mind

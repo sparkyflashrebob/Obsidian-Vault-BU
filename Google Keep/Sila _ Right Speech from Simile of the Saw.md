@@ -1,8 +1,8 @@
 ---
 aliases:
-  - Sila & Right Speech from Simile of the Saw
+- Sila & Right Speech from Simile of the Saw
 tags:
-  - Right-Speech
+- right-speech
 ---
 
 Aspects of speech

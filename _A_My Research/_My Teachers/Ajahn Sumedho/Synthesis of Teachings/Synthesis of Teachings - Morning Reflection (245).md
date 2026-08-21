@@ -2,12 +2,13 @@
 date: 2026-08-11
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Morning Reflection (245)"
-location_event: "Audio Archive (Ajahn Sumedho - Morning Reflection (245) - 0920 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Morning Reflection (245)
+location_event: Audio Archive (Ajahn Sumedho - Morning Reflection (245) - 0920 - Ajahn
+  Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #morning-reflection-245, #sound-of-silence, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Morning Reflection (245)

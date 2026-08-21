@@ -2,12 +2,13 @@
 date: 2007
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "A crack in samsara"
-location_event: "108 Talks Series / Ajahn Sumedho Archives (Ajahn Sumedho - A crack in samsara (2007) - 87 - 108 Talks by Luang Por Sumedho.mp3.md)"
+talk_title: A crack in samsara
+location_event: 108 Talks Series / Ajahn Sumedho Archives (Ajahn Sumedho - A crack
+  in samsara (2007) - 87 - 108 Talks by Luang Por Sumedho.mp3.md)
 tags:
-  - ajahn-sumedho, a-crack-in-samsara, consciousness, mindfulness, buddho
-  - dharma-talk
-  - spiritual-synthesis
+- mindfulness-practice
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: A crack in samsara

@@ -1,6 +1,6 @@
 ---
 tags:
-  - Insight-Knowledge
+- insight-knowledge
 ---
 
 (1) One who develops the contemplation of impermanence

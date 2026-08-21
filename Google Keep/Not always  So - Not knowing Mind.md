@@ -1,4 +1,4 @@
 ---
 tags:
-  - The-Mystery
+- the-mystery
 ---

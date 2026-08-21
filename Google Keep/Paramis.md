@@ -1,6 +1,6 @@
 ---
 tags:
-  - Dhamma
+- dhamma
 ---
 
 Generosity — Dāna 

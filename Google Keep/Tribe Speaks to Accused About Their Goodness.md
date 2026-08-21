@@ -1,6 +1,6 @@
 ---
 tags:
-  - Story
+- story
 ---
 
 Alice Walker tells this story: 

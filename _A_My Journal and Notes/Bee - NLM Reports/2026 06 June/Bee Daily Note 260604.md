@@ -1,21 +1,20 @@
 ---
-date: "2026-06-04"
-
+date: '2026-06-04'
 tags:
-  - institute-for-mental-physics
-  - joshua-tree-retreat
-  - dharma-and-meditation
-  - housing-search
-  - petaluma-move
-  - recovery-fellowship
-  - buddhist-principles
-  - fellowship
-  - recovery-principles
-  - bee-reports
-  - daily-notes
-  - daily-diary
-  - bee-nlm-report
-  - activity-details-architecture
+- mental-physics
+- joshua-tree-retreat
+- dharma-and-meditation
+- housing-search
+- petaluma-move
+- recovery-fellowship
+- buddhist-principles
+- fellowship
+- recovery-principles
+- bee-reports
+- daily-notes
+- daily-diary
+- bee-nlm-report
+- activity-details-architecture
 ---
 
 # AI transcription errors discussion, Restaurant inquiry and casual chat, Oakland baseball series discussion

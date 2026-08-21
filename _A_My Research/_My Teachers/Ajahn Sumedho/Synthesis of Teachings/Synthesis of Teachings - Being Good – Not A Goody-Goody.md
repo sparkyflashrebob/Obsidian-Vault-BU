@@ -2,12 +2,13 @@
 date: 2026-08-08
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Being Good – Not A Goody-Goody"
-location_event: "Audio Archive (Ajahn Sumedho - Being Good – Not A Goody-Goody - 0212 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Being Good – Not A Goody-Goody
+location_event: Audio Archive (Ajahn Sumedho - Being Good – Not A Goody-Goody - 0212
+  - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #being-good-not-a-goody-goody, #bikkhu-sangha, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #grounded-awareness, #rationality-conceit, #siladhara, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Being Good – Not A Goody-Goody

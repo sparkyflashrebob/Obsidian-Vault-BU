@@ -1,6 +1,6 @@
 ---
 tags:
-  - Reflections
+- reflections
 ---
 
 Step 1: Find the Demon in Your Body

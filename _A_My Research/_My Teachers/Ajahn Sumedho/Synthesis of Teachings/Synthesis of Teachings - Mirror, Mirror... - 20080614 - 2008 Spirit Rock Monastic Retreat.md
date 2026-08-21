@@ -2,12 +2,13 @@
 date: 2026-08-11
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Mirror, Mirror... - 20080614 - 2008 Spirit Rock Monastic Retreat"
-location_event: "Audio Archive (Ajahn Sumedho - Mirror, Mirror... - 20080614 - 2008 Spirit Rock Monastic Retreat.mp3)"
+talk_title: Mirror, Mirror... - 20080614 - 2008 Spirit Rock Monastic Retreat
+location_event: Audio Archive (Ajahn Sumedho - Mirror, Mirror... - 20080614 - 2008
+  Spirit Rock Monastic Retreat.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #bikkhu-sangha, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #mirror-mirror-20080614-2008-spirit, #rationality-conceit, #siladhara, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Mirror, Mirror... - 20080614 - 2008 Spirit Rock Monastic Retreat

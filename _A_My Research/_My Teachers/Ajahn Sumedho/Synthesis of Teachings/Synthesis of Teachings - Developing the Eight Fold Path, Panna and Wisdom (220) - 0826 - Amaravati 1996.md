@@ -2,12 +2,14 @@
 date: 2026-08-08
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Developing the Eight Fold Path, Panna and Wisdom (220) - 0826 - Amaravati 1996"
-location_event: "Audio Archive (Ajahn Sumedho - Developing the Eight Fold Path, Panna and Wisdom (220) - 0826 - Amaravati 1996.mp3)"
+talk_title: Developing the Eight Fold Path, Panna and Wisdom (220) - 0826 - Amaravati
+  1996
+location_event: Audio Archive (Ajahn Sumedho - Developing the Eight Fold Path, Panna
+  and Wisdom (220) - 0826 - Amaravati 1996.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #bikkhu-sangha, #developing-the-eight-fold-path-pann, #fear-and-anxiety, #four-noble-truths, #rationality-conceit, #samatha-vipassana, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Developing the Eight Fold Path, Panna and Wisdom (220) - 0826 - Amaravati 1996

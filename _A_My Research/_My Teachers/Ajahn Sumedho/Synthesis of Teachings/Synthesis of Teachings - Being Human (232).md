@@ -2,12 +2,13 @@
 date: 2026-08-08
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Being Human (232)"
-location_event: "Audio Archive (Ajahn Sumedho - Being Human (232) - 0912 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Being Human (232)
+location_event: Audio Archive (Ajahn Sumedho - Being Human (232) - 0912 - Ajahn Sumedho
+  Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #being-human-232, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #samatha-vipassana, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Being Human (232)
@@ -15,7 +16,7 @@ tags:
 🧘 **Teacher / Speaker**: Ajahn Sumedho  
 📅 **Date of Talk**: 2026-08-08  
 📍 **Event / Source**: Audio Archive (Ajahn Sumedho - Being Human (232) - 0912 - Ajahn Sumedho Podcast by Amaravati.mp3)  
-🏷️ **Topics / Tags**: #ajahn_sumedho, #anapanasati, #being-human-232, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #samatha-vipassana, #unborn  
+🏷️ **Topics / Tags**: #ajahn_sumedho, #anapanasati, #being-human, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #samatha-vipassana, #unborn  
 
 ---
 

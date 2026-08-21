@@ -1,7 +1,7 @@
 ---
 Subject: Anger
 tags:
-  - "#anger"
+- anger
 ---
 
 

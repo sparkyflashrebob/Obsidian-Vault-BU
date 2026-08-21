@@ -1,7 +1,7 @@
 ### Speakers:
 - **Speaker / Presenter**: Ajahn Sumedho
 - **Event / Source**: Audio Archive (Ajahn Sumedho - Reflection on Consciousness  Day 3 – Morning Talk - 48 - Ajahn Sumedho Podcast by Amaravati.mp3)
-- **Tags / Topics**: #ajahn_sumedho, #anapanasati, #fear-and-anxiety, #four-noble-truths, #luang-por-chah, #reflection-on-consciousness-day-3-m, #sound-of-silence, #unborn
+- **Tags / Topics**: #ajahn_sumedho, #anapanasati, #fear-and-anxiety, #four-noble-truths, #luang-por-chah, #reflection-on-consciousness, #sound-of-silence, #unborn
 ## Summary:
 
 ### Progression of Talk

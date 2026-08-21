@@ -2,12 +2,13 @@
 date: 2026-08-09
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Grist for the Mill (214)"
-location_event: "Audio Archive (Ajahn Sumedho - Grist for the Mill (214) - 0212 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Grist for the Mill (214)
+location_event: Audio Archive (Ajahn Sumedho - Grist for the Mill (214) - 0212 - Ajahn
+  Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #fear-and-anxiety, #four-noble-truths, #grist-for-the-mill-214, #karma-and-rebirth, #rationality-conceit, #sound-of-silence, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Grist for the Mill (214)

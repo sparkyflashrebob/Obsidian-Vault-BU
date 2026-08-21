@@ -1,4 +1,4 @@
 ---
 tags:
-  - "#favorite_song_sayings"
+- favorite-song-sayings
 ---

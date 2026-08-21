@@ -1,6 +1,6 @@
 ---
 tags:
-  - Meditation
+- meditation
 ---
 
 Before we sit I'd like to remind us about the basic principles of Mindfulness Practice, also know as Insight or Vipasanna.

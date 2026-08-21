@@ -2,12 +2,13 @@
 date: 2026-08-08
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Day 8b – QA – Intuitive Intelligence Is Not Personal"
-location_event: "Audio Archive (Ajahn Sumedho - Day 8b – QA – Intuitive Intelligence Is Not Personal - 15 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Day 8b – QA – Intuitive Intelligence Is Not Personal
+location_event: Audio Archive (Ajahn Sumedho - Day 8b – QA – Intuitive Intelligence
+  Is Not Personal - 15 - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #bikkhu-sangha, #day-8b-qa-intuitive-intelligence-is, #fear-and-anxiety, #four-noble-truths, #karma-and-rebirth, #rationality-conceit, #samatha-vipassana, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Day 8b – QA – Intuitive Intelligence Is Not Personal
@@ -15,7 +16,7 @@ tags:
 🧘 **Teacher / Speaker**: Ajahn Sumedho  
 📅 **Date of Talk**: 2026-08-08  
 📍 **Event / Source**: Audio Archive (Ajahn Sumedho - Day 8b – QA – Intuitive Intelligence Is Not Personal - 15 - Ajahn Sumedho Podcast by Amaravati.mp3)  
-🏷️ **Topics / Tags**: #ajahn_sumedho, #bikkhu-sangha, #day-8b-qa-intuitive-intelligence-is, #fear-and-anxiety, #four-noble-truths, #karma-and-rebirth, #rationality-conceit, #samatha-vipassana, #unborn  
+🏷️ **Topics / Tags**: #ajahn_sumedho, #bikkhu-sangha, #day-8b-qa, #fear-and-anxiety, #four-noble-truths, #karma-and-rebirth, #rationality-conceit, #samatha-vipassana, #unborn  
 
 ---
 

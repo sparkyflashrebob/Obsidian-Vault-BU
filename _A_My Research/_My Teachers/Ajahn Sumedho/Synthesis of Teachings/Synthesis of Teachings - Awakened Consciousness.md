@@ -2,12 +2,13 @@
 date: 2026-08-07
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Awakened Consciousness"
-location_event: "Audio Archive (Ajahn Sumedho - Awakened Consciousness - 34 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Awakened Consciousness
+location_event: Audio Archive (Ajahn Sumedho - Awakened Consciousness - 34 - Ajahn
+  Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #awakened-consciousness, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #luang-por-chah, #rationality-conceit, #sound-of-silence, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Awakened Consciousness

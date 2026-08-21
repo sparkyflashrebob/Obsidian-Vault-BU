@@ -1,10 +1,10 @@
 ---
 aliases:
-  - "Core Training: MIndfulness of Body"
+- 'Core Training: MIndfulness of Body'
 tags:
-  - core
-  - ForTeaching
-  - Mindfulness-of-the-Body
+- core
+- forteaching
+- mindfulness-of-body
 ---
 
 Sitting - alert- with the spine not stiff - so somewhat relaxed

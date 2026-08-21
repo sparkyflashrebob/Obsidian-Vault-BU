@@ -1,8 +1,8 @@
 ---
 aliases:
-  - What is the Purpose of Spiritual Practice?
+- What is the Purpose of Spiritual Practice?
 tags:
-  - Meditation
+- meditation
 ---
 
 Walk with Moojibaba

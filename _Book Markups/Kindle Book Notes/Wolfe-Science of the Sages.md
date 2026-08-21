@@ -133,7 +133,7 @@ Capra says, “Subatomic particles…do not exist as isolated entities, but as i
 And of that debris—those ashes of matter, the raw elements of which your body is comprised—the physicist Joliet-Curie once calculated: the nuclei of all your atoms (which compose 99.9% of an atom’s mass) could be packed together into the volume of a minute speck of free-floating dust*—the kind you notice when sunlight streams through the window of a darkened room. — location: [1077](kindle://book?action=open&asin=B0085F7F32&location=1077) ^ref-49724
 
 ---
-Even then, how unique are “your” raw materials? Physicist Heinz Pagels: “The truth is that the entire material universe, with all its variety, is entirely made up out of quantum particles which are completely identical.” Physicist Nick Herbert echoes: “All quons, in the same state, are exactly alike….There is no difference whatsoever between electron #123 and electron #137.” — location: [1080](kindle://book?action=open&asin=B0085F7F32&location=1080) ^ref-6985
+Even then, how unique are “your” raw materials? Physicist Heinz Pagels: “The truth is that the entire material universe, with all its variety, is entirely made up out of quantum particles which are completely identical.” Physicist Nick Herbert echoes: “All quons, in the same state, are exactly alike….There is no difference whatsoever between electron and electron.” — location: [1080](kindle://book?action=open&asin=B0085F7F32&location=1080) ^ref-6985
 
 ---
 In fact, your identity is ultimately even more indistinct than this. Herbert: “The quantum world is not made up of ‘objects’. As Heisenberg puts it, ‘Atoms are not things’.” — location: [1083](kindle://book?action=open&asin=B0085F7F32&location=1083) ^ref-9272

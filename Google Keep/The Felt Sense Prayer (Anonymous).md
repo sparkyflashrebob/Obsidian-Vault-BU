@@ -1,8 +1,8 @@
 ---
 tags:
-  - Pleasure-and-Pain
-  - Mindfulness-of-Feeling
-  - Quotes
+- pleasure-and-pain
+- mindfulness-of-feeling
+- quotes
 ---
 
 "The Felt Sense Prayer." 

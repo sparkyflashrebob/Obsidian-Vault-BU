@@ -1,7 +1,7 @@
 ### Speakers:
 - **Speaker / Presenter**: Ajahn Sumedho
 - **Event / Source**: Audio Archive (Ajahn Sumedho - Question and Answers Day 3 – Morning Talk - 49 - Ajahn Sumedho Podcast by Amaravati.mp3)
-- **Tags / Topics**: #ajahn_sumedho, #fear-and-anxiety, #four-noble-truths, #karma-and-rebirth, #question-and-answers-day-3-morning, #rationality-conceit, #samatha-vipassana, #sound-of-silence, #unborn
+- **Tags / Topics**: #ajahn_sumedho, #fear-and-anxiety, #four-noble-truths, #karma-and-rebirth, #question-and-answers, #rationality-conceit, #samatha-vipassana, #sound-of-silence, #unborn
 ## Summary:
 
 ### Progression of Talk

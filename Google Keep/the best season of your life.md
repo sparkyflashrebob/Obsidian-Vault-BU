@@ -1,7 +1,7 @@
 ---
 tags:
-  - Lists
-  - Quotes
+- lists
+- quotes
 ---
 
 From the poet Wu Men: "Ten thousand flowers in spring, the moon in autumn, a cool

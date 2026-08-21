@@ -2,12 +2,13 @@
 date: 2026-08-10
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Leaving Amaravati (207)"
-location_event: "Audio Archive (Ajahn Sumedho - Leaving Amaravati (207) - 0920 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Leaving Amaravati (207)
+location_event: Audio Archive (Ajahn Sumedho - Leaving Amaravati (207) - 0920 - Ajahn
+  Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #four-noble-truths, #karma-and-rebirth, #leaving-amaravati-207, #samatha-vipassana
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Leaving Amaravati (207)
@@ -15,7 +16,7 @@ tags:
 🧘 **Teacher / Speaker**: Ajahn Sumedho  
 📅 **Date of Talk**: 2026-08-10  
 📍 **Event / Source**: Audio Archive (Ajahn Sumedho - Leaving Amaravati (207) - 0920 - Ajahn Sumedho Podcast by Amaravati.mp3)  
-🏷️ **Topics / Tags**: #ajahn_sumedho, #anapanasati, #four-noble-truths, #karma-and-rebirth, #leaving-amaravati-207, #samatha-vipassana  
+🏷️ **Topics / Tags**: #ajahn_sumedho, #anapanasati, #four-noble-truths, #karma-and-rebirth, #leaving-amaravati, #samatha-vipassana  
 
 ---
 

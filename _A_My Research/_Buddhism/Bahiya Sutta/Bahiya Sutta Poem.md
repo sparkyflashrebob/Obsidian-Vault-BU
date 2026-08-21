@@ -1,7 +1,7 @@
 ---
 tags:
-  - quotes
-  - Poems
+- quotes
+- poems
 ---
 
 Where water, earth,

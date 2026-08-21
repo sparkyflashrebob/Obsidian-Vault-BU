@@ -5,7 +5,7 @@ teacher: Ajahn Sumedho
 talk_title: "2006-05-25  Questions And Answers - 5 - 2006-05-20  AMV 10 Day Retreat http---www.amaravati.org (2)"
 location_event: "Audio Archive (Ajahn Sumedho - 2006-05-25  Questions And Answers - 5 - 2006-05-20  AMV 10 Day Retreat http---www.amaravati.org (2).mp3)"
 tags:
-  - #2006-05-25-questions-and-answers-5, #ajahn-sumedho, #anapanasati, #bikkhu-sangha, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #karma-and-rebirth, #luang-por-chah, #rationality-conceit, #siladhara, #sound-of-silence, #unborn
+  - #05-25-questions, #ajahn-sumedho, #anapanasati, #bikkhu-sangha, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #karma-and-rebirth, #luang-por-chah, #rationality-conceit, #siladhara, #sound-of-silence, #unborn
   - dharma-talk
   - spiritual-synthesis
 ---

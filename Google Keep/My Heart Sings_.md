@@ -1,8 +1,8 @@
 ---
 aliases:
-  - "My Heart Sings "
+- 'My Heart Sings '
 tags:
-  - Poems
+- poems
 ---
 
 The beauty of the trees,

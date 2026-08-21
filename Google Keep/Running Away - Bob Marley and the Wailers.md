@@ -1,6 +1,6 @@
 ---
 tags:
-  - Song-Lyrics
+- song-lyrics
 ---
 
 Running Away

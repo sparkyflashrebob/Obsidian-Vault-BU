@@ -2,12 +2,13 @@
 date: 2026-08-07
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Advice on Meditation (22 Jan 2014) - 00 - Talks From Thailand"
-location_event: "Audio Archive (Ajahn Sumedho - Advice on Meditation (22 Jan 2014) - 00 - Talks From Thailand.mp3)"
+talk_title: Advice on Meditation (22 Jan 2014) - 00 - Talks From Thailand
+location_event: Audio Archive (Ajahn Sumedho - Advice on Meditation (22 Jan 2014)
+  - 00 - Talks From Thailand.mp3)
 tags:
-  - #advice-on-meditation-22-jan-2014-00, #ajahn-sumedho, #anapanasati, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #sound-of-silence, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Advice on Meditation (22 Jan 2014) - 00 - Talks From Thailand

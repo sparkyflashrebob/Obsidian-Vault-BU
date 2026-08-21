@@ -42,7 +42,7 @@
 
 > objectivity is false.
 
-> Through the senses, you perceive only gross objects. As you transcend the first and reach the second stage, you perceive only subtle objects or ideas. In the last stage, everything appears as Consciousness. Notes on Spiritual Discourses of Shri Atmananda, Vol. 2, p. 199, Note #1025.
+> Through the senses, you perceive only gross objects. As you transcend the first and reach the second stage, you perceive only subtle objects or ideas. In the last stage, everything appears as Consciousness. Notes on Spiritual Discourses of Shri Atmananda, Vol. 2, p. 199, Note.
 
 > We want to be the separate enjoyer of everything, and we also want nothing to change.
 

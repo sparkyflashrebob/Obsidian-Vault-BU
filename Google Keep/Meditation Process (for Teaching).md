@@ -1,7 +1,7 @@
 ---
 tags:
-  - mmtcp
-  - ForTeaching
+- mmtcp
+- forteaching
 ---
 
 Base

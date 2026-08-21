@@ -1,8 +1,8 @@
 ---
 aliases:
-  - "Abhayagiri Retreat: Q&A on Choice/Reframing"
+- 'Abhayagiri Retreat: Q&A on Choice/Reframing'
 tags:
-  - Monastic-Retreat-Notes
+- monastic-retreat-notes
 ---
 
 Free will or fate?

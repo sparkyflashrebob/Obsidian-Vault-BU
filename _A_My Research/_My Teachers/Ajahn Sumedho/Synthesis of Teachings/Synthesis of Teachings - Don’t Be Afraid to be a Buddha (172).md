@@ -2,12 +2,13 @@
 date: 2026-08-09
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Don’t Be Afraid to be a Buddha (172)"
-location_event: "Audio Archive (Ajahn Sumedho - Don’t Be Afraid to be a Buddha (172) - 0208 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Don’t Be Afraid to be a Buddha (172)
+location_event: Audio Archive (Ajahn Sumedho - Don’t Be Afraid to be a Buddha (172)
+  - 0208 - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #bikkhu-sangha, #don-t-be-afraid-to-be-a-buddha-172, #fear-and-anxiety, #four-noble-truths, #luang-por-chah, #rationality-conceit, #samatha-vipassana, #sound-of-silence, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Don’t Be Afraid to be a Buddha (172)
@@ -15,7 +16,7 @@ tags:
 🧘 **Teacher / Speaker**: Ajahn Sumedho  
 📅 **Date of Talk**: 2026-08-09  
 📍 **Event / Source**: Audio Archive (Ajahn Sumedho - Don’t Be Afraid to be a Buddha (172) - 0208 - Ajahn Sumedho Podcast by Amaravati.mp3)  
-🏷️ **Topics / Tags**: #ajahn_sumedho, #anapanasati, #bikkhu-sangha, #don-t-be-afraid-to-be-a-buddha-172, #fear-and-anxiety, #four-noble-truths, #luang-por-chah, #rationality-conceit, #samatha-vipassana, #sound-of-silence, #unborn  
+🏷️ **Topics / Tags**: #ajahn_sumedho, #anapanasati, #bikkhu-sangha, #don-t-be, #fear-and-anxiety, #four-noble-truths, #luang-por-chah, #rationality-conceit, #samatha-vipassana, #sound-of-silence, #unborn  
 
 ---
 

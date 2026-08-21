@@ -2,12 +2,13 @@
 date: 2026-08-07
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Be Mindful, Don’t Trip Up"
-location_event: "Audio Archive (Ajahn Sumedho - Be Mindful, Don’t Trip Up - 0314 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Be Mindful, Don’t Trip Up
+location_event: Audio Archive (Ajahn Sumedho - Be Mindful, Don’t Trip Up - 0314 -
+  Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #be-mindful-don-t-trip-up, #bikkhu-sangha, #fear-and-anxiety, #forgiveness-reconciliation, #grounded-awareness, #karma-and-rebirth, #metta, #rationality-conceit, #siladhara, #sound-of-silence
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Be Mindful, Don’t Trip Up

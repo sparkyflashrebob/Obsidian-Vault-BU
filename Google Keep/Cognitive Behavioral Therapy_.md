@@ -1,8 +1,8 @@
 ---
 aliases:
-  - "Cognitive Behavioral Therapy "
+- 'Cognitive Behavioral Therapy '
 tags:
-  - Mind
+- mind
 ---
 
 Used for Relapse Prevention

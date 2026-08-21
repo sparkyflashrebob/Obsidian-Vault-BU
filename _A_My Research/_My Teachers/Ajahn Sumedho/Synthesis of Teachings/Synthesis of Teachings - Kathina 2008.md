@@ -2,12 +2,13 @@
 date: 2026-08-10
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Kathina 2008"
-location_event: "Audio Archive (Ajahn Sumedho - Kathina 2008 - 31 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Kathina 2008
+location_event: Audio Archive (Ajahn Sumedho - Kathina 2008 - 31 - Ajahn Sumedho Podcast
+  by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #kathina-2008, #rationality-conceit, #samatha-vipassana, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Kathina 2008
@@ -15,7 +16,7 @@ tags:
 🧘 **Teacher / Speaker**: Ajahn Sumedho  
 📅 **Date of Talk**: 2026-08-10  
 📍 **Event / Source**: Audio Archive (Ajahn Sumedho - Kathina 2008 - 31 - Ajahn Sumedho Podcast by Amaravati.mp3)  
-🏷️ **Topics / Tags**: #ajahn_sumedho, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #kathina-2008, #rationality-conceit, #samatha-vipassana, #unborn  
+🏷️ **Topics / Tags**: #ajahn_sumedho, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #kathina, #rationality-conceit, #samatha-vipassana, #unborn  
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 tags:
-  - Prayer-Book
+- prayer-book
 ---
 
 Simple Prayer

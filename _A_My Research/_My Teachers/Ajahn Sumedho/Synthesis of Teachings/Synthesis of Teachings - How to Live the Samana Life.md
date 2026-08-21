@@ -2,12 +2,13 @@
 date: 2026-08-10
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "How to Live the Samana Life"
-location_event: "Audio Archive (Ajahn Sumedho - How to Live the Samana Life - 0826 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: How to Live the Samana Life
+location_event: Audio Archive (Ajahn Sumedho - How to Live the Samana Life - 0826
+  - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #how-to-live-the-samana-life, #luang-por-chah, #rationality-conceit, #samatha-vipassana, #siladhara, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: How to Live the Samana Life

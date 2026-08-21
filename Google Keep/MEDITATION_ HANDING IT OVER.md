@@ -1,10 +1,10 @@
 ---
 aliases:
-  - "MEDITATION: HANDING IT OVER"
+- 'MEDITATION: HANDING IT OVER'
 tags:
-  - RAIN
-  - Fear
-  - Contemplation
+- rain
+- fear
+- contemplation
 ---
 
 Explore this meditation whenever you find yourself obsessing, worrying, and anxious about outcomes. Notice what happens when you entrust your difficulties to a larger universe. 

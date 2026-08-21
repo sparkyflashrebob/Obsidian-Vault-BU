@@ -2,12 +2,13 @@
 date: 2026-08-09
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Here And Now - 00 - 1999 Spirit Rock Monastic Retreat"
-location_event: "Audio Archive (Ajahn Sumedho - Here And Now - 00 - 1999 Spirit Rock Monastic Retreat.mp3)"
+talk_title: Here And Now - 00 - 1999 Spirit Rock Monastic Retreat
+location_event: Audio Archive (Ajahn Sumedho - Here And Now - 00 - 1999 Spirit Rock
+  Monastic Retreat.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #here-and-now-00-1999-spirit-rock-mo, #luang-por-chah, #samatha-vipassana, #sound-of-silence
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Here And Now - 00 - 1999 Spirit Rock Monastic Retreat
@@ -15,7 +16,7 @@ tags:
 🧘 **Teacher / Speaker**: Ajahn Sumedho  
 📅 **Date of Talk**: 2026-08-09  
 📍 **Event / Source**: Audio Archive (Ajahn Sumedho - Here And Now - 00 - 1999 Spirit Rock Monastic Retreat.mp3)  
-🏷️ **Topics / Tags**: #ajahn_sumedho, #anapanasati, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #here-and-now-00-1999-spirit-rock-mo, #luang-por-chah, #samatha-vipassana, #sound-of-silence  
+🏷️ **Topics / Tags**: #ajahn_sumedho, #anapanasati, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #here-and-now, #luang-por-chah, #samatha-vipassana, #sound-of-silence  
 
 ---
 

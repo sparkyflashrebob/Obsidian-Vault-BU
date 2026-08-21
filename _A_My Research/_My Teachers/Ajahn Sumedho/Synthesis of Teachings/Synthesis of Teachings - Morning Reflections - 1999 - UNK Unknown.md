@@ -2,12 +2,12 @@
 date: 2026-08-11
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Morning Reflections - 1999 - UNK Unknown"
-location_event: "Audio Archive (Ajahn Sumedho - Morning Reflections - 1999 - UNK Unknown.mp3)"
+talk_title: Morning Reflections - 1999 - UNK Unknown
+location_event: Audio Archive (Ajahn Sumedho - Morning Reflections - 1999 - UNK Unknown.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #fear-and-anxiety, #grounded-awareness, #morning-reflections-1999-unk-unknow, #sound-of-silence
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Morning Reflections - 1999 - UNK Unknown
@@ -15,7 +15,7 @@ tags:
 🧘 **Teacher / Speaker**: Ajahn Sumedho  
 📅 **Date of Talk**: 2026-08-11  
 📍 **Event / Source**: Audio Archive (Ajahn Sumedho - Morning Reflections - 1999 - UNK Unknown.mp3)  
-🏷️ **Topics / Tags**: #ajahn_sumedho, #anapanasati, #fear-and-anxiety, #grounded-awareness, #morning-reflections-1999-unk-unknow, #sound-of-silence  
+🏷️ **Topics / Tags**: #ajahn_sumedho, #anapanasati, #fear-and-anxiety, #grounded-awareness, #morning-reflectionsunk-unknow, #sound-of-silence  
 
 ---
 

@@ -1,8 +1,8 @@
 ---
 tags:
-  - Mind
-  - "#confirmation_bias"
-  - karma
+- mind
+- confirmation-bias
+- karma
 ---
 
 Starting at the bottom of the ladder, we have [[reality and facts]]. 

@@ -1,7 +1,7 @@
 ---
 tags:
-  - quotes
-  - Compassion
+- quotes
+- compassion
 ---
 
 Your path is not to seek for love but merely to seek and find all the barriers within yourself you have built against it. • RUMI

@@ -2,12 +2,13 @@
 date: 2026-08-09
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Fear and Control - 1115 - Amaravati 2001"
-location_event: "Audio Archive (Ajahn Sumedho - Fear and Control - 1115 - Amaravati 2001.mp3)"
+talk_title: Fear and Control - 1115 - Amaravati 2001
+location_event: Audio Archive (Ajahn Sumedho - Fear and Control - 1115 - Amaravati
+  2001.mp3)
 tags:
-  - #ajahn-sumedho, #fear-and-anxiety, #fear-and-control-1115-amaravati-200, #grounded-awareness, #rationality-conceit, #samatha-vipassana, #siladhara, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Fear and Control - 1115 - Amaravati 2001
@@ -15,7 +16,7 @@ tags:
 🧘 **Teacher / Speaker**: Ajahn Sumedho  
 📅 **Date of Talk**: 2026-08-09  
 📍 **Event / Source**: Audio Archive (Ajahn Sumedho - Fear and Control - 1115 - Amaravati 2001.mp3)  
-🏷️ **Topics / Tags**: #ajahn_sumedho, #fear-and-anxiety, #fear-and-control-1115-amaravati-200, #grounded-awareness, #rationality-conceit, #samatha-vipassana, #siladhara, #unborn  
+🏷️ **Topics / Tags**: #ajahn_sumedho, #fear-and-anxiety, #fear-and-control, #grounded-awareness, #rationality-conceit, #samatha-vipassana, #siladhara, #unborn  
 
 ---
 

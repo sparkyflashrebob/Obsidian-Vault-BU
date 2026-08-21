@@ -2,12 +2,13 @@
 date: 2026-08-09
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Dullness and Anger (23 June 2012) - 00 - Talks From Thailand"
-location_event: "Audio Archive (Ajahn Sumedho - Dullness and Anger (23 June 2012) - 00 - Talks From Thailand.mp3)"
+talk_title: Dullness and Anger (23 June 2012) - 00 - Talks From Thailand
+location_event: Audio Archive (Ajahn Sumedho - Dullness and Anger (23 June 2012) -
+  00 - Talks From Thailand.mp3)
 tags:
-  - #ajahn-sumedho, #dullness-and-anger-23-june-2012-00, #fear-and-anxiety
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Dullness and Anger (23 June 2012) - 00 - Talks From Thailand
@@ -15,7 +16,7 @@ tags:
 🧘 **Teacher / Speaker**: Ajahn Sumedho  
 📅 **Date of Talk**: 2026-08-09  
 📍 **Event / Source**: Audio Archive (Ajahn Sumedho - Dullness and Anger (23 June 2012) - 00 - Talks From Thailand.mp3)  
-🏷️ **Topics / Tags**: #ajahn_sumedho, #dullness-and-anger-23-june-2012-00, #fear-and-anxiety  
+🏷️ **Topics / Tags**: #ajahn_sumedho, #dullness-and-anger, #fear-and-anxiety  
 
 ---
 

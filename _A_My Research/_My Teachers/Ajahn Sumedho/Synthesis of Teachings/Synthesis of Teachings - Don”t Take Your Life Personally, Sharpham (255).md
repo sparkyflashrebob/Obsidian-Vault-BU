@@ -2,12 +2,13 @@
 date: 2026-08-09
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Don”t Take Your Life Personally, Sharpham (255)"
-location_event: "Audio Archive (Ajahn Sumedho - Don”t Take Your Life Personally, Sharpham (255) - 0804 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Don”t Take Your Life Personally, Sharpham (255)
+location_event: Audio Archive (Ajahn Sumedho - Don”t Take Your Life Personally, Sharpham
+  (255) - 0804 - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #don-t-take-your-life-personally-sha, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #rationality-conceit, #siladhara
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Don”t Take Your Life Personally, Sharpham (255)

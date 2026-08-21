@@ -2,12 +2,13 @@
 date: 2026-08-08
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Creating Buddha, Arahants and Self - 31 - Amaravati 2007"
-location_event: "Audio Archive (Ajahn Sumedho - Creating Buddha, Arahants and Self - 31 - Amaravati 2007.mp3)"
+talk_title: Creating Buddha, Arahants and Self - 31 - Amaravati 2007
+location_event: Audio Archive (Ajahn Sumedho - Creating Buddha, Arahants and Self
+  - 31 - Amaravati 2007.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #creating-buddha-arahants-and-self-3, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #luang-por-chah, #rationality-conceit, #samatha-vipassana, #siladhara
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Creating Buddha, Arahants and Self - 31 - Amaravati 2007
@@ -15,7 +16,7 @@ tags:
 🧘 **Teacher / Speaker**: Ajahn Sumedho  
 📅 **Date of Talk**: 2026-08-08  
 📍 **Event / Source**: Audio Archive (Ajahn Sumedho - Creating Buddha, Arahants and Self - 31 - Amaravati 2007.mp3)  
-🏷️ **Topics / Tags**: #ajahn_sumedho, #anapanasati, #creating-buddha-arahants-and-self-3, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #luang-por-chah, #rationality-conceit, #samatha-vipassana, #siladhara  
+🏷️ **Topics / Tags**: #ajahn_sumedho, #anapanasati, #creating-buddha-arahants, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #luang-por-chah, #rationality-conceit, #samatha-vipassana, #siladhara  
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 tags:
-  - core
-  - ForTeaching
+- core
+- forteaching
 ---
 
 Sanditthiko, Akaliko, Ehipassiko, Opanayiko. Paccattham veditabbo vinnuhi

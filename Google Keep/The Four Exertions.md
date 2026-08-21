@@ -1,8 +1,8 @@
 ---
 tags:
-  - core
-  - Right-Effort
-  - appropriate_attention
+- core
+- right-effort
+- appropriate-attention
 ---
 
 The Four Exertions

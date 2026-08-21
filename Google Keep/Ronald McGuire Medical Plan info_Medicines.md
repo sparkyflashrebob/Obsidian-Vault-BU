@@ -1,8 +1,8 @@
 ---
 aliases:
-  - Ronald McGuire Medical Plan info/Medicines
+- Ronald McGuire Medical Plan info/Medicines
 tags:
-  - Vital-Info
+- vital-info
 ---
 
 Meritain/aetna

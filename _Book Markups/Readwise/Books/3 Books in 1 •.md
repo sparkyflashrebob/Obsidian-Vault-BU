@@ -1,6 +1,6 @@
 ---
 tags:
-  - "#conscious_bias"
+- conscious-bias
 ---
 # 3 Books in 1 •
 

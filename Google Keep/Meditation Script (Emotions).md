@@ -1,6 +1,6 @@
 ---
 tags:
-  - Meditation
+- meditation
 ---
 
 Let yourself sit in an upright yet comfortable way.

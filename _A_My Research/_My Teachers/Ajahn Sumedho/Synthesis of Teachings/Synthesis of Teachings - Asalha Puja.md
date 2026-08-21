@@ -2,12 +2,13 @@
 date: 2026-08-07
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Asalha Puja"
-location_event: "Audio Archive (Ajahn Sumedho - Asalha Puja - 0818 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Asalha Puja
+location_event: Audio Archive (Ajahn Sumedho - Asalha Puja - 0818 - Ajahn Sumedho
+  Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #asalha-puja, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #rationality-conceit, #samatha-vipassana, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Asalha Puja

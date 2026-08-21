@@ -1,6 +1,6 @@
 ---
 tags:
-  - Quotes
+- quotes
 ---
 
 Thomas Merton quote:

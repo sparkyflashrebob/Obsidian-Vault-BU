@@ -1,6 +1,6 @@
 ---
 tags:
-  - Quotes
+- quotes
 ---
 
 As Buddhists, we know that ordinary hope is based in desire, wanting an outcome that could well be different from what will actually happen. Not getting what we hoped for is usually experienced as some kind of misfortune. Someone who is hopeful in this way has an expectation that always hovers in the background, the shadow of fear that one’s wishes will not be fulfilled. This ordinary hope is a subtle expression of fear and a form of suffering.

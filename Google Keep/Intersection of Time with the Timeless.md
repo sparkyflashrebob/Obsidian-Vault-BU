@@ -1,6 +1,6 @@
 ---
 tags:
-  - ForTeaching
+- forteaching
 ---
 
 Conditons 

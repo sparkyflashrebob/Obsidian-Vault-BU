@@ -1,6 +1,6 @@
 ---
 tags:
-  - Spirituality
+- spirituality
 ---
 
 Hallelujah Anyhow

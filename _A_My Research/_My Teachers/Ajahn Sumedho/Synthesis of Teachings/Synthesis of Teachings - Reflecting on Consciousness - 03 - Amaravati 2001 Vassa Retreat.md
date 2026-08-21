@@ -1,7 +1,7 @@
 ### Speakers:
 - **Speaker / Presenter**: Ajahn Sumedho
 - **Event / Source**: Audio Archive (Ajahn Sumedho - Reflecting on Consciousness - 03 - Amaravati 2001 Vassa Retreat.mp3)
-- **Tags / Topics**: #ajahn_sumedho, #fear-and-anxiety, #karma-and-rebirth, #reflecting-on-consciousness-03-amar
+- **Tags / Topics**: #ajahn_sumedho, #fear-and-anxiety, #karma-and-rebirth, #reflecting-on-consciousness
 ## Summary:
 
 ### Progression of Talk

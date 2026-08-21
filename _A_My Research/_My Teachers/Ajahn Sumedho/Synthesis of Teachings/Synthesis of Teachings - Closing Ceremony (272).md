@@ -2,12 +2,13 @@
 date: 2026-08-08
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Closing Ceremony (272)"
-location_event: "Audio Archive (Ajahn Sumedho - Closing Ceremony (272) - 0700 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Closing Ceremony (272)
+location_event: Audio Archive (Ajahn Sumedho - Closing Ceremony (272) - 0700 - Ajahn
+  Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #bikkhu-sangha, #closing-ceremony-272, #siladhara
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Closing Ceremony (272)
@@ -15,7 +16,7 @@ tags:
 🧘 **Teacher / Speaker**: Ajahn Sumedho  
 📅 **Date of Talk**: 2026-08-08  
 📍 **Event / Source**: Audio Archive (Ajahn Sumedho - Closing Ceremony (272) - 0700 - Ajahn Sumedho Podcast by Amaravati.mp3)  
-🏷️ **Topics / Tags**: #ajahn_sumedho, #bikkhu-sangha, #closing-ceremony-272, #siladhara  
+🏷️ **Topics / Tags**: #ajahn_sumedho, #bikkhu-sangha, #closing-ceremony, #siladhara  
 
 ---
 

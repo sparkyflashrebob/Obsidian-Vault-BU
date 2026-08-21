@@ -1,6 +1,6 @@
 ---
 tags:
-  - Inspirational
+- inspirational
 ---
 
 I thought of you when I read this quote from "The Four Noble Truths" by His Holiness the Dalai Lama -

@@ -1,8 +1,8 @@
 ---
 aliases:
-  - Anapansati - Mindfulness of In-&-Out Breathing
+- Anapansati - Mindfulness of In-&-Out Breathing
 tags:
-  - mindfulness_of_breathing
+- mindfulness-of-breathing
 url: https://www.accesstoinsight.org/tipitaka/mn/mn.118.than.html
 ---
 

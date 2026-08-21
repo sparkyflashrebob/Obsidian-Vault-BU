@@ -2,12 +2,13 @@
 date: 2026-08-08
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Day 9b – QA – Exploring Dualistic Conditioning"
-location_event: "Audio Archive (Ajahn Sumedho - Day 9b – QA – Exploring Dualistic Conditioning - 17 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Day 9b – QA – Exploring Dualistic Conditioning
+location_event: Audio Archive (Ajahn Sumedho - Day 9b – QA – Exploring Dualistic Conditioning
+  - 17 - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #bikkhu-sangha, #day-9b-qa-exploring-dualistic-condi, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #luang-por-chah, #rationality-conceit, #samatha-vipassana, #siladhara, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Day 9b – QA – Exploring Dualistic Conditioning
@@ -15,7 +16,7 @@ tags:
 🧘 **Teacher / Speaker**: Ajahn Sumedho  
 📅 **Date of Talk**: 2026-08-08  
 📍 **Event / Source**: Audio Archive (Ajahn Sumedho - Day 9b – QA – Exploring Dualistic Conditioning - 17 - Ajahn Sumedho Podcast by Amaravati.mp3)  
-🏷️ **Topics / Tags**: #ajahn_sumedho, #bikkhu-sangha, #day-9b-qa-exploring-dualistic-condi, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #luang-por-chah, #rationality-conceit, #samatha-vipassana, #siladhara, #unborn  
+🏷️ **Topics / Tags**: #ajahn_sumedho, #bikkhu-sangha, #day-9b-qa, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #luang-por-chah, #rationality-conceit, #samatha-vipassana, #siladhara, #unborn  
 
 ---
 

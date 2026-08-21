@@ -1,6 +1,6 @@
 ---
 tags:
-  - Brahmavihara/Paramis
+- brahmavihara/paramis
 ---
 
 

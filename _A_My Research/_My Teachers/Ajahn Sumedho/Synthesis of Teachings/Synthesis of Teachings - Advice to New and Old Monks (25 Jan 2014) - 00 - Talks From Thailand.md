@@ -2,12 +2,13 @@
 date: 2026-08-07
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Advice to New and Old Monks (25 Jan 2014) - 00 - Talks From Thailand"
-location_event: "Audio Archive (Ajahn Sumedho - Advice to New and Old Monks (25 Jan 2014) - 00 - Talks From Thailand.mp3)"
+talk_title: Advice to New and Old Monks (25 Jan 2014) - 00 - Talks From Thailand
+location_event: Audio Archive (Ajahn Sumedho - Advice to New and Old Monks (25 Jan
+  2014) - 00 - Talks From Thailand.mp3)
 tags:
-  - #advice-to-new-and-old-monks-25-jan, #ajahn-sumedho, #fear-and-anxiety, #luang-por-chah, #rationality-conceit, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Advice to New and Old Monks (25 Jan 2014) - 00 - Talks From Thailand

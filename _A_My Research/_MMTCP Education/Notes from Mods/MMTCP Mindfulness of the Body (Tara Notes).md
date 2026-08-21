@@ -1,6 +1,6 @@
 ---
 tags:
-  - ForTeaching
+- forteaching
 Created: 2024-07-21
 ---
 

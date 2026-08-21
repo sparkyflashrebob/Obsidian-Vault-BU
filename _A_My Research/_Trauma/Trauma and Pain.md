@@ -1,16 +1,16 @@
 ---
 tags:
-  - "#trauma"
-  - mindfulness
-  - resourcing
-  - titrating_and_pendulating
-  - senseofspace
-  - loving-kindness
-  - friendship
-  - counseling
-  - massage
-  - self-care
-  - group_support
+- trauma
+- mindfulness
+- resourcing
+- titrating-and-pendulating
+- senseofspace
+- loving-kindness
+- friendship
+- counseling
+- massage
+- self-care
+- group-support
 ---
 
 

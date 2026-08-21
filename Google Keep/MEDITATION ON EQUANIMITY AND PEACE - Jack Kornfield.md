@@ -1,8 +1,8 @@
 ---
 aliases:
-  - A MEDITATION ON EQUANIMITY AND PEACE (Jack Kornfield)
+- A MEDITATION ON EQUANIMITY AND PEACE (Jack Kornfield)
 tags:
-  - Meditation
+- meditation
 ---
 
 To cultivate the qualities of peace and equanimity, sit in a comfortable posture with your eyes closed. Bring a soft attention to your breath until your body and mind are calm. Reflect for a moment on the benefit of a mind that has balance and equanimity. Sense what a gift it can be to bring a peaceful heart to the world around you. Let yourself feel an inner sense of balance and ease. Then with each breath begin gently repeating such phrases as: 

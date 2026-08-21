@@ -1,20 +1,20 @@
 ---
 tags:
-  - bee-reports
-  - college-of-marin
-  - community-building
-  - concert-planning
-  - concerts
-  - daily-notes
-  - logging
-  - media-curation
-  - meditation
-  - meditation-group
-  - obsidian
-  - rise-up-sing-out
-  - workflow
-  - bee-nlm-report
-  - krisp-daily-summary
+- bee-reports
+- college-of-marin
+- community-building
+- concert-planning
+- concerts
+- daily-notes
+- logging
+- media-curation
+- meditation
+- meditation-group
+- obsidian
+- rise-up-sing
+- workflow
+- bee-nlm-report
+- krisp-daily-summary
 ---
 
 # Car Wi‑Fi Device Masking Identity, National Mobile TV Engineering Reflections, and Verifying note locations in folders

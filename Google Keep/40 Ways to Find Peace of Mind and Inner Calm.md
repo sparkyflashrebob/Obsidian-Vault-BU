@@ -1,6 +1,6 @@
 ---
 tags:
-  - Finding-Peace-and-Calm
+- peace-and-calm
 ---
 
 1. Listen to Music

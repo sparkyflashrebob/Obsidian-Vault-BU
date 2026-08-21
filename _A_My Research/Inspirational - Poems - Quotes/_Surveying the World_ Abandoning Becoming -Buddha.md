@@ -1,13 +1,13 @@
 ---
 aliases:
-  - '"Surveying the World" Abandoning Becoming (Buddha)'
+- '"Surveying the World" Abandoning Becoming (Buddha)'
 tags:
-  - "#becoming"
-  - "#abandoning"
-  - "#self"
-  - "#delight"
-  - "#fear"
-  - "#stress"
+- becoming
+- abandoning
+- self
+- delight
+- fear
+- stress
 Author: Buddha
 Title: Surveying the World
 ---

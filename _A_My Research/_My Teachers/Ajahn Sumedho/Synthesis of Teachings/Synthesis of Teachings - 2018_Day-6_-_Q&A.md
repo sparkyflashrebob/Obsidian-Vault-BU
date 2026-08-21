@@ -2,20 +2,21 @@
 date: 2026-08-06
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "2018_Day-6_-_Q&A"
-location_event: "Audio Archive (Ajahn Sumedho - 2018_Day-6_-_Q&A - 1209 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: 2018_Day-6_-_Q&A
+location_event: Audio Archive (Ajahn Sumedho - 2018_Day-6_-_Q&A - 1209 - Ajahn Sumedho
+  Podcast by Amaravati.mp3)
 tags:
-  - questions-and-answers
-  - ajahn_sumedho
-  - bikkhu-sangha
-  - four-noble-truths
-  - grounded-awareness
-  - luang-por-chah
-  - rationality-conceit
-  - samatha-vipassana
-  - unborn
-  - dharma-talk
-  - spiritual-synthesis
+- questions-and-answers
+- ajahn-sumedho
+- bikkhu-sangha
+- four-noble-truths
+- grounded-awareness
+- luang-por-chah
+- rationality-conceit
+- samatha-vipassana
+- unborn
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: 2018_Day-6_-_Q&A

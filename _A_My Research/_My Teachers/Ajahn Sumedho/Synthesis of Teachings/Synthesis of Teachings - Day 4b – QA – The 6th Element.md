@@ -2,12 +2,13 @@
 date: 2026-08-08
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Day 4b – QA – The 6th Element"
-location_event: "Audio Archive (Ajahn Sumedho - Day 4b – QA – The 6th Element - 07 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Day 4b – QA – The 6th Element
+location_event: Audio Archive (Ajahn Sumedho - Day 4b – QA – The 6th Element - 07
+  - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #bikkhu-sangha, #day-4b-qa-the-6th-element, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #rationality-conceit, #samatha-vipassana, #sound-of-silence
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Day 4b – QA – The 6th Element

@@ -34,7 +34,7 @@ The practice of maintaining a chronological record of daily interactions and tec
 \*   \*\*May 3: Spiritual Integration and Recovery Milestones\*\*
     \*   \*\*Exact Subject:\*\* AA Anniversary and Restoration Recovery intake coordination.
     \*   \*\*Summary:\*\* A synthesis of long-term recovery anchors and the enforcement of healthy interpersonal boundaries.
-    \*   \*\*Important Details:\*\* Attended an AA meeting focusing on "The Spiritual Angle" (Reading #101 from \*As Bill Sees It\*). Reconnected with Brian O’Donnell, a friend of 11 years with deep ties to Kathy and Gary. Discussed the "corporate turn" of Spirit Rock and Brian’s 500-mile Camino de Santiago pilgrimage.
+    \*   \*\*Important Details:\*\* Attended an AA meeting focusing on "The Spiritual Angle" (Reading from \*As Bill Sees It\*). Reconnected with Brian O’Donnell, a friend of 11 years with deep ties to Kathy and Gary. Discussed the "corporate turn" of Spirit Rock and Brian’s 500-mile Camino de Santiago pilgrimage.
     \*   \*\*Narrative Closure:\*\* Coordinated Ryan’s intake at Restoration Recovery in Auburn. Reinforced a policy of "Radical Non-Intervention," moving from a "Daddy Bear" fixer to a supportive observer as Ryan navigates his own "bottom."
 
 These daily logistics serve as a testament to personal agency, where the "small moments" of navigating a failing Medicare system or rescuing a mole provide the foundation for a life lived with open, non-judgmental presence.
@@ -75,7 +75,7 @@ The friction encountered with Social Security, Fidelity, and the sudden terminat
 The IONS discussion and the reunion with Brian O’Donnell highlight how shared focus—whether through the collective grief of 9/11 or the shared silence of a 500-mile pilgrimage—shifts the societal "atmospheric energy." Brian’s critique of Spirit Rock’s "corporate/subscription" turn offers a case study in how spiritual institutions can lose their "collective soul" when they prioritize fiscal growth over communal presence.
 
 #### Recovery & Spiritual Awakening
-The evolution of the "Spiritual Angle" is anchored in the narrator’s 40th birthday suicide attempt and subsequent 5150 hold—a "bottom" that necessitated a total surrender of the ego. By contrasting this history with the current 112-day chip and the discipline of "As Bill Sees It" Reading #101, we see the transformation from a "fear-based" existence to one defined by "God as a luxury to ask," moving from a state of crisis to a lifelong practice of ethical stability.
+The evolution of the "Spiritual Angle" is anchored in the narrator’s 40th birthday suicide attempt and subsequent 5150 hold—a "bottom" that necessitated a total surrender of the ego. By contrasting this history with the current 112-day chip and the discipline of "As Bill Sees It" Reading, we see the transformation from a "fear-based" existence to one defined by "God as a luxury to ask," moving from a state of crisis to a lifelong practice of ethical stability.
 
 \*\*\*
 

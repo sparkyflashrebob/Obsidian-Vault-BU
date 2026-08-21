@@ -2,12 +2,13 @@
 date: 2026-08-10
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Human Nature, Deliberate Thinking, Space Around Thought (233)"
-location_event: "Audio Archive (Ajahn Sumedho - Human Nature, Deliberate Thinking, Space Around Thought (233) - 0000 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Human Nature, Deliberate Thinking, Space Around Thought (233)
+location_event: Audio Archive (Ajahn Sumedho - Human Nature, Deliberate Thinking,
+  Space Around Thought (233) - 0000 - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #fear-and-anxiety, #four-noble-truths, #human-nature-deliberate-thinking-sp, #samatha-vipassana, #sound-of-silence
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Human Nature, Deliberate Thinking, Space Around Thought (233)

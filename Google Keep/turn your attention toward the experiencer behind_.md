@@ -1,9 +1,9 @@
 ---
 aliases:
-  - turn your attention toward the experiencer behind the experience
+- turn your attention toward the experiencer behind the experience
 tags:
-  - Daily-Reminders
-  - core
+- daily-reminders
+- core
 ---
 
 turn your attention toward the experiencer behind the experience, you may be able to awaken directly without prolonged seeking.

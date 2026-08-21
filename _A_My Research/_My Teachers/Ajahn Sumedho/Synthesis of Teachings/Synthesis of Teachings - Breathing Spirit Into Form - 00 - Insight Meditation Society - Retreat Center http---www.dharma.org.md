@@ -5,7 +5,7 @@ teacher: Ajahn Sumedho
 talk_title: "Breathing Spirit Into Form - 00 - Insight Meditation Society - Retreat Center http---www.dharma.org"
 location_event: "Audio Archive (Ajahn Sumedho - Breathing Spirit Into Form - 00 - Insight Meditation Society - Retreat Center http---www.dharma.org.mp3)"
 tags:
-  - #ajahn-sumedho, #anapanasati, #bikkhu-sangha, #breathing-spirit-into-form-00-insig, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #karma-and-rebirth, #luang-por-chah, #rationality-conceit, #samatha-vipassana, #siladhara, #unborn
+  - #ajahn-sumedho, #anapanasati, #bikkhu-sangha, #breathing-spirit-into, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #karma-and-rebirth, #luang-por-chah, #rationality-conceit, #samatha-vipassana, #siladhara, #unborn
   - dharma-talk
   - spiritual-synthesis
 ---
@@ -15,7 +15,7 @@ tags:
 🧘 **Teacher / Speaker**: Ajahn Sumedho  
 📅 **Date of Talk**: 2026-08-08  
 📍 **Event / Source**: Audio Archive (Ajahn Sumedho - Breathing Spirit Into Form - 00 - Insight Meditation Society - Retreat Center http---www.dharma.org.mp3)  
-🏷️ **Topics / Tags**: #ajahn_sumedho, #anapanasati, #bikkhu-sangha, #breathing-spirit-into-form-00-insig, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #karma-and-rebirth, #luang-por-chah, #rationality-conceit, #samatha-vipassana, #siladhara, #unborn  
+🏷️ **Topics / Tags**: #ajahn_sumedho, #anapanasati, #bikkhu-sangha, #breathing-spirit-into, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #karma-and-rebirth, #luang-por-chah, #rationality-conceit, #samatha-vipassana, #siladhara, #unborn  
 
 ---
 

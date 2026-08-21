@@ -1,6 +1,6 @@
 ---
 tags:
-  - Automobile-Info
+- automobile-info
 ---
 
 PL9005 main

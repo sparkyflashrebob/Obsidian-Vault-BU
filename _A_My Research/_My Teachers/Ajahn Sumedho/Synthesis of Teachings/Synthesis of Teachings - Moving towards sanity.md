@@ -2,12 +2,13 @@
 date: 2010
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Moving towards sanity"
-location_event: "Audio Archive (Ajahn Sumedho - Moving towards sanity (2010) - 108 - 108 Talks by Luang Por Sumedho.mp3)"
+talk_title: Moving towards sanity
+location_event: Audio Archive (Ajahn Sumedho - Moving towards sanity (2010) - 108
+  - 108 Talks by Luang Por Sumedho.mp3)
 tags:
-  - #ajahn-sumedho, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #moving-towards-sanity, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Moving towards sanity

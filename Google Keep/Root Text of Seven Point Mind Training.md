@@ -1,6 +1,6 @@
 ---
 tags:
-  - 7-Point-Mind-Training
+- 7-point-mind
 ---
 
 The root text of The Seven Points of Mind Training consists of seven main points. These are:

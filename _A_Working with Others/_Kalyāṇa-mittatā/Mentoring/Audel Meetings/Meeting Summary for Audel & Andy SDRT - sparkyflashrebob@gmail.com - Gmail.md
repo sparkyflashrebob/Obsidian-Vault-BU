@@ -2,15 +2,15 @@
 title: Meeting Summary for Audel & Andy SDRT - sparkyflashrebob@gmail.com - Gmail
 source: https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzQXKqkcxMcBsCdpNScljMWJFWJK
 author:
-  - "[[Gmail]]"
-published: 
+- '[[Gmail]]'
+published: null
 created: 2024-12-23
 description: Google's approach to email
 tags:
-  - clippings
-  - "#mindfulness_of_mind"
-  - "#knowing"
-  - "#observation"
+- clippings
+- mindfulness-of-mind
+- knowing
+- observation
 ---
 ![Starred](https://mail.google.com/mail/u/0/images/cleardot.gif)
 

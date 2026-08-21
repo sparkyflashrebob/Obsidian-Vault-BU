@@ -1,6 +1,6 @@
 ---
 tags:
-  - Meditation
+- meditation
 ---
 
 So with your eyes closed, take a moment to utterly and completely relax the breath. 

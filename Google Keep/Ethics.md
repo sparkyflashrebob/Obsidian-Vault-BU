@@ -1,6 +1,6 @@
 ---
 tags:
-  - Ethics
+- ethics
 ---
 
 "Aware of the suffering caused by the destruction of life, I vow to cultivate compassion and to learn the ways of protecting the lives of people, animals, and plants."

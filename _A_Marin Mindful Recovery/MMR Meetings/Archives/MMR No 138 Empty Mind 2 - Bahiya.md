@@ -1,12 +1,12 @@
 ---
 tags:
-  - "#dukkha"
-  - "#direct_experience"
-  - "#Consciousness"
-  - "#collectedness"
-  - cognition
-  - self-view
-  - selfing
+- dukkha
+- direct-experience
+- consciousness
+- collectedness
+- cognition
+- self-view
+- selfing
 ---
 So last week I ended with the question,
 how might we go about unconditioning the mind?

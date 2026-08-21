@@ -1,12 +1,12 @@
 ---
-"date:": today
+'date:': today
 Subject-Context: Right Effort
 tags:
-  - dharma
-  - right_effort
-  - nobleeightfoldpath
-  - striving
-  - energy
+- dharma
+- right-effort
+- nobleeightfoldpath
+- striving
+- energy
 Created: 2023-10-14
 ---
 Theme of AbhayaParisa 1st Tuesday 9/5/2023 In-Person

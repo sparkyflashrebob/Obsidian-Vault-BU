@@ -1,21 +1,21 @@
 ---
-date: "2026-05-30"
+date: '2026-05-30'
 tags:
-  - dharma-and-meditation
-  - buddhist-principles
-  - abhayagiri
-  - ajahn_sumedho
-  - family-updates
-  - jon-and-rupert
-  - recovery-principles
-  - clean-side-of-street
-  - fellowship
-  - rigorous-honesty
-  - bee-reports
-  - daily-notes
-  - daily-diary
-  - bee-nlm-report
-  - activity-details-architecture
+- dharma-and-meditation
+- buddhist-principles
+- abhayagiri
+- ajahn-sumedho
+- family-updates
+- jon-and-rupert
+- recovery-principles
+- clean-side-of-street
+- fellowship
+- rigorous-honesty
+- bee-reports
+- daily-notes
+- daily-diary
+- bee-nlm-report
+- activity-details-architecture
 ---
 
 # Abhayagiri Visit with Ajahn Pasano & Ajahn Sumedho Teachings, Daughter's Pregnancy & Engagement News, and Jon & Rupert Visit

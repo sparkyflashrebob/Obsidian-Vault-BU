@@ -2,12 +2,13 @@
 date: 2026-08-09
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Grasping the Teaching"
-location_event: "Audio Archive (Ajahn Sumedho - Grasping the Teaching - 0121 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Grasping the Teaching
+location_event: Audio Archive (Ajahn Sumedho - Grasping the Teaching - 0121 - Ajahn
+  Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #fear-and-anxiety, #four-noble-truths, #grasping-the-teaching, #karma-and-rebirth, #khandhas, #luang-por-chah, #rationality-conceit, #sound-of-silence, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Grasping the Teaching

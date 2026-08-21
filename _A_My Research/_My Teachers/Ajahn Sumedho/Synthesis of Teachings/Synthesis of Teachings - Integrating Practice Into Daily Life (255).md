@@ -2,12 +2,13 @@
 date: 2026-08-10
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Integrating Practice Into Daily Life (255)"
-location_event: "Audio Archive (Ajahn Sumedho - Integrating Practice Into Daily Life (255) - 0916 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Integrating Practice Into Daily Life (255)
+location_event: Audio Archive (Ajahn Sumedho - Integrating Practice Into Daily Life
+  (255) - 0916 - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #integrating-practice-into-daily-lif, #rationality-conceit, #samatha-vipassana, #sound-of-silence, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Integrating Practice Into Daily Life (255)

@@ -1,9 +1,9 @@
 ---
 aliases:
-  - Radical Friendship - 7 Qualities of a Spiritual Friend
+- Radical Friendship - 7 Qualities of a Spiritual Friend
 tags:
-  - ForTeaching
-  - Kalyāṇa-mittatā-Admirable-Friendship
+- forteaching
+- kalyāṇa-mittatā-admirable
 ---
 
 Spiritual Friendship

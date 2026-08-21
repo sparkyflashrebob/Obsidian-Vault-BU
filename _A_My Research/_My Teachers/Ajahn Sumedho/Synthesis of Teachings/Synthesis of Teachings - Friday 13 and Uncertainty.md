@@ -2,12 +2,13 @@
 date: 2026-08-09
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Friday 13 and Uncertainty"
-location_event: "Audio Archive (Ajahn Sumedho - Friday 13 and Uncertainty - 0213 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Friday 13 and Uncertainty
+location_event: Audio Archive (Ajahn Sumedho - Friday 13 and Uncertainty - 0213 -
+  Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #bikkhu-sangha, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #friday-13-and-uncertainty, #karma-and-rebirth, #luang-por-chah, #samatha-vipassana, #siladhara, #sound-of-silence, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Friday 13 and Uncertainty
@@ -15,7 +16,7 @@ tags:
 🧘 **Teacher / Speaker**: Ajahn Sumedho  
 📅 **Date of Talk**: 2026-08-09  
 📍 **Event / Source**: Audio Archive (Ajahn Sumedho - Friday 13 and Uncertainty - 0213 - Ajahn Sumedho Podcast by Amaravati.mp3)  
-🏷️ **Topics / Tags**: #ajahn_sumedho, #anapanasati, #bikkhu-sangha, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #friday-13-and-uncertainty, #karma-and-rebirth, #luang-por-chah, #samatha-vipassana, #siladhara, #sound-of-silence, #unborn  
+🏷️ **Topics / Tags**: #ajahn_sumedho, #anapanasati, #bikkhu-sangha, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #friday-13-and, #karma-and-rebirth, #luang-por-chah, #samatha-vipassana, #siladhara, #sound-of-silence, #unborn  
 
 ---
 

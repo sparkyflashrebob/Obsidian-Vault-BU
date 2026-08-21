@@ -1,7 +1,7 @@
 ### Speakers:
 - **Speaker / Presenter**: Ajahn Sumedho
 - **Event / Source**: Audio Archive (Ajahn Sumedho - Oceans of Good Action - 01 - Sunday Talks 2000.mp3)
-- **Tags / Topics**: #ajahn_sumedho, #bikkhu-sangha, #brahmaviharas, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #oceans-of-good-action-01-sunday-tal, #siladhara, #unborn
+- **Tags / Topics**: #ajahn_sumedho, #bikkhu-sangha, #brahmaviharas, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #oceans-of-good, #siladhara, #unborn
 ## Summary:
 
 ### Progression of Talk

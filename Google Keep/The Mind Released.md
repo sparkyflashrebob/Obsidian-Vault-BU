@@ -1,6 +1,6 @@
 ---
 tags:
-  - Nibanna-Enlightenment
+- nibanna-enlightenment
 ---
 
 Consciousness without feature,

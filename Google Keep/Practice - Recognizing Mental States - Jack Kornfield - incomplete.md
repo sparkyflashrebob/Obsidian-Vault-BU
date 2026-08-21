@@ -1,8 +1,8 @@
 ---
 aliases:
-  - "Practice: Recognizing Mental States _Jack K"
+- 'Practice: Recognizing Mental States _Jack K'
 tags:
-  - Meditation
+- meditation
 ---
 
 Chose a day when having difficulties to mindfully observe your mental states like and anthropologist without judgement or resistence

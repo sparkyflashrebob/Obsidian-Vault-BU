@@ -2,12 +2,14 @@
 date: 2026-08-08
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Buddhism in the UK - Remembering Pannavaddho Bhikkhu - 140727 - Amaravati 2014"
-location_event: "Audio Archive (Ajahn Sumedho - Buddhism in the UK - Remembering Pannavaddho Bhikkhu - 140727 - Amaravati 2014.mp3)"
+talk_title: Buddhism in the UK - Remembering Pannavaddho Bhikkhu - 140727 - Amaravati
+  2014
+location_event: Audio Archive (Ajahn Sumedho - Buddhism in the UK - Remembering Pannavaddho
+  Bhikkhu - 140727 - Amaravati 2014.mp3)
 tags:
-  - #ajahn-sumedho, #bikkhu-sangha, #buddhism-in-the-uk-remembering-pann, #fear-and-anxiety, #four-noble-truths, #luang-por-chah, #samatha-vipassana
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Buddhism in the UK - Remembering Pannavaddho Bhikkhu - 140727 - Amaravati 2014

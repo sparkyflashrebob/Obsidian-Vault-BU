@@ -1,7 +1,7 @@
 ---
 tags:
-  - Buddhist-Concepts
-  - "#non-duality"
+- buddhist-concepts
+- non-duality
 Created: 2024-07-21
 ---
 

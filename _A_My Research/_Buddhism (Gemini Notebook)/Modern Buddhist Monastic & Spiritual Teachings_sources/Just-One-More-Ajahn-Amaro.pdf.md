@@ -292,7 +292,7 @@ present if we have habituated ourselves to chase after what is pleasant and to p
 
 One of the natural outcomes of this increased freedom is the shift in attitude towards others. If the mind was once inclined towards resentment of the success of others, and the driving force of many of our desires was from seeing what they had and wanting the same, now the mind is more able to appreciate and consciously enjoy the happiness of others. We might not think of ourselves as particularly envious or jealous, nevertheless it is rare to be glad when the other person gets the green light and we have to wait; that someone else gets the parking space
 
-while we have to keep hunting for one; that someone else got the spot on the retreat with Luang Por Sumedho while you are #114 on the waiting list…
+while we have to keep hunting for one; that someone else got the spot on the retreat with Luang Por Sumedho while you are on the waiting list…
 
 Muditā – altruistic, appreciative joy, gladness at the good fortune of others – is a rare and precious quality. It is the very antithesis of taṇhā – the desire to get something for me – and the curmudgeonly attitudes of the jaded cynic. When feelings of like or dislike are fully understood and not followed blindly, the heart is free to expand in the blossoming of muditā, as well as the other brahma-vihāras. It is discovered that there are causes for joy all around us. Why should we not delight in a dog wrestling a stick, in an athlete triumphing over all obstacles, in someone else having the most impressive meditation posture?
 

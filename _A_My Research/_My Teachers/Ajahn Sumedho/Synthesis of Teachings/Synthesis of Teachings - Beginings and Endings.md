@@ -2,12 +2,13 @@
 date: 2026-08-08
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Beginings and Endings"
-location_event: "Audio Archive (Ajahn Sumedho - Beginings and Endings - 0218 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Beginings and Endings
+location_event: Audio Archive (Ajahn Sumedho - Beginings and Endings - 0218 - Ajahn
+  Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #beginings-and-endings, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #karma-and-rebirth, #luang-por-chah, #samatha-vipassana, #siladhara, #sound-of-silence, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Beginings and Endings

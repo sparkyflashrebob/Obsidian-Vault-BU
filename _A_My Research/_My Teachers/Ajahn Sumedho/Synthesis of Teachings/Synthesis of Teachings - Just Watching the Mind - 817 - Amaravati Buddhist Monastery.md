@@ -2,12 +2,13 @@
 date: 2026-08-10
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Just Watching the Mind - 817 - Amaravati Buddhist Monastery"
-location_event: "Audio Archive (Ajahn Sumedho - Just Watching the Mind - 817 - Amaravati Buddhist Monastery.mp3)"
+talk_title: Just Watching the Mind - 817 - Amaravati Buddhist Monastery
+location_event: Audio Archive (Ajahn Sumedho - Just Watching the Mind - 817 - Amaravati
+  Buddhist Monastery.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #grounded-awareness, #just-watching-the-mind-817-amaravat, #samatha-vipassana, #sound-of-silence, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Just Watching the Mind - 817 - Amaravati Buddhist Monastery
@@ -15,7 +16,7 @@ tags:
 🧘 **Teacher / Speaker**: Ajahn Sumedho  
 📅 **Date of Talk**: 2026-08-10  
 📍 **Event / Source**: Audio Archive (Ajahn Sumedho - Just Watching the Mind - 817 - Amaravati Buddhist Monastery.mp3)  
-🏷️ **Topics / Tags**: #ajahn_sumedho, #anapanasati, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #grounded-awareness, #just-watching-the-mind-817-amaravat, #samatha-vipassana, #sound-of-silence, #unborn  
+🏷️ **Topics / Tags**: #ajahn_sumedho, #anapanasati, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #grounded-awareness, #just-watching-the, #samatha-vipassana, #sound-of-silence, #unborn  
 
 ---
 

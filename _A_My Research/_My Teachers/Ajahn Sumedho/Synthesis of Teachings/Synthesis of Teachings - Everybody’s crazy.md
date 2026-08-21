@@ -2,12 +2,13 @@
 date: 2005
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Everybody’s crazy"
-location_event: "Audio Archive (Ajahn Sumedho - Everybody’s crazy (2005) - 70 - 108 Talks by Luang Por Sumedho.mp3)"
+talk_title: Everybody’s crazy
+location_event: Audio Archive (Ajahn Sumedho - Everybody’s crazy (2005) - 70 - 108
+  Talks by Luang Por Sumedho.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #bikkhu-sangha, #everybody-s-crazy, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #lay-retreat, #rationality-conceit, #samatha-vipassana, #sound-of-silence
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Everybody’s crazy

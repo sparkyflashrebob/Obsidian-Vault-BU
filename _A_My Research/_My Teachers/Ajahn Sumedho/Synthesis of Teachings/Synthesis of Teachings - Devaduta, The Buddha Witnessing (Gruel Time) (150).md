@@ -2,12 +2,13 @@
 date: 2026-08-08
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Devaduta, The Buddha Witnessing (Gruel Time) (150)"
-location_event: "Audio Archive (Ajahn Sumedho - Devaduta, The Buddha Witnessing (Gruel Time) (150) - 0122 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Devaduta, The Buddha Witnessing (Gruel Time) (150)
+location_event: Audio Archive (Ajahn Sumedho - Devaduta, The Buddha Witnessing (Gruel
+  Time) (150) - 0122 - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #devaduta-the-buddha-witnessing-grue, #fear-and-anxiety, #four-noble-truths, #karma-and-rebirth, #rationality-conceit, #siladhara
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Devaduta, The Buddha Witnessing (Gruel Time) (150)

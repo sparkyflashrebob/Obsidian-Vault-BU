@@ -1,7 +1,7 @@
 ---
 tags:
-  - Daily-Reminders
-  - core
+- daily-reminders
+- core
 ---
 
 1 Everyday set our aspirations for presence. Can we care about now?  Bookend day.

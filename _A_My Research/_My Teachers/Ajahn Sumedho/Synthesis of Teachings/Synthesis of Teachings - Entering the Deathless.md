@@ -2,12 +2,13 @@
 date: 1997
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Entering the Deathless"
-location_event: "Audio Archive (Ajahn Sumedho - Entering the Deathless (1997) - 44 - 108 Talks by Luang Por Sumedho.mp3)"
+talk_title: Entering the Deathless
+location_event: Audio Archive (Ajahn Sumedho - Entering the Deathless (1997) - 44
+  - 108 Talks by Luang Por Sumedho.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #bikkhu-sangha, #entering-the-deathless, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #rationality-conceit, #samatha-vipassana, #sound-of-silence, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Entering the Deathless

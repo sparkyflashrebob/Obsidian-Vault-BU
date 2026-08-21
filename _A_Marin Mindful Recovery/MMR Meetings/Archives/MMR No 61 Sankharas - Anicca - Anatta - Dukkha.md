@@ -1,5 +1,8 @@
 ---
-tags: Sankhara, conditions, experience
+tags:
+- sankhara
+- conditions
+- experience
 ---
 MMR#61 - Sankharas
 This week I found myself intrigued by Ajahn Sumedho’s talk on 

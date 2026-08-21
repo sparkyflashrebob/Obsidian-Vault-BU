@@ -1,8 +1,8 @@
 ---
 aliases:
-  - '"What is Life"'
+- '"What is Life"'
 tags:
-  - The-Mystery
+- the-mystery
 ---
 
 Crowfoot an elder from the Blackfoot tribe. "What is life? It is the flash of a

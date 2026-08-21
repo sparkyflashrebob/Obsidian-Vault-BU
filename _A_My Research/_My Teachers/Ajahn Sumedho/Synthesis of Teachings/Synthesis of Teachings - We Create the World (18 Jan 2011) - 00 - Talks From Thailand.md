@@ -1,7 +1,7 @@
 ### Speakers:
 - **Speaker / Presenter**: Ajahn Sumedho
 - **Event / Source**: Audio Archive (Ajahn Sumedho - We Create the World (18 Jan 2011) - 00 - Talks From Thailand.mp3)
-- **Tags / Topics**: #ajahn-sumedho, #fear-and-anxiety, #four-noble-truths, #unborn, #we-create-the-world-18-jan-2011-00
+- **Tags / Topics**: #ajahn-sumedho, #fear-and-anxiety, #four-noble-truths, #unborn, #we-create-the
 ## Summary:
 
 ### Progression of Talk

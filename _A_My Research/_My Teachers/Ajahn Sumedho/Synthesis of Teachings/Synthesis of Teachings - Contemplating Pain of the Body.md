@@ -2,12 +2,13 @@
 date: 2026-08-08
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Contemplating Pain of the Body"
-location_event: "Audio Archive (Ajahn Sumedho - Contemplating Pain of the Body - 0324 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Contemplating Pain of the Body
+location_event: Audio Archive (Ajahn Sumedho - Contemplating Pain of the Body - 0324
+  - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #bikkhu-sangha, #contemplating-pain-of-the-body, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #rationality-conceit, #sound-of-silence, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Contemplating Pain of the Body

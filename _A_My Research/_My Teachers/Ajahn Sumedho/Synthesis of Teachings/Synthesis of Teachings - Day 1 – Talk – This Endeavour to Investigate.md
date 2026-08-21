@@ -2,12 +2,13 @@
 date: 2026-08-08
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Day 1 – Talk – This Endeavour to Investigate"
-location_event: "Audio Archive (Ajahn Sumedho - Day 1 – Talk – This Endeavour to Investigate - 01 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Day 1 – Talk – This Endeavour to Investigate
+location_event: Audio Archive (Ajahn Sumedho - Day 1 – Talk – This Endeavour to Investigate
+  - 01 - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #bikkhu-sangha, #day-1-talk-this-endeavour-to-invest, #four-noble-truths, #samatha-vipassana, #sound-of-silence, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Day 1 – Talk – This Endeavour to Investigate
@@ -15,7 +16,7 @@ tags:
 🧘 **Teacher / Speaker**: Ajahn Sumedho  
 📅 **Date of Talk**: 2026-08-08  
 📍 **Event / Source**: Audio Archive (Ajahn Sumedho - Day 1 – Talk – This Endeavour to Investigate - 01 - Ajahn Sumedho Podcast by Amaravati.mp3)  
-🏷️ **Topics / Tags**: #ajahn_sumedho, #bikkhu-sangha, #day-1-talk-this-endeavour-to-invest, #four-noble-truths, #samatha-vipassana, #sound-of-silence, #unborn  
+🏷️ **Topics / Tags**: #ajahn_sumedho, #bikkhu-sangha, #day-1-talk, #four-noble-truths, #samatha-vipassana, #sound-of-silence, #unborn  
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 tags:
-  - Meditation
+- meditation
 ---
 
 Lying Down Meditation Suggestions:

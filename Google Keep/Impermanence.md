@@ -1,9 +1,9 @@
 ---
 tags:
-  - core
-  - 3_characteristics
-  - quotes
-  - Inspirational
+- core
+- 3-characteristics
+- quotes
+- inspirational
 ---
 
 Anguttara Nikaya - Sīha Sutta (Discourse on the Lion)

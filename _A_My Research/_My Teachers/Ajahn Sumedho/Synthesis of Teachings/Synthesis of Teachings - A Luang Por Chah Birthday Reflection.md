@@ -2,20 +2,20 @@
 date: 2026-08-06
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "A Luang Por Chah Birthday Reflection"
-location_event: "Audio Archive (Ajahn Sumedho - A Luang Por Chah Birthday Reflection - 0617 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: A Luang Por Chah Birthday Reflection
+location_event: Audio Archive (Ajahn Sumedho - A Luang Por Chah Birthday Reflection
+  - 0617 - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - luang-por-chah
-  - ajahn_sumedho
-  - bikkhu-sangha
-  - four-noble-truths
-  - grounded-awareness
-  - luang-por-chah
-  - rationality-conceit
-  - samatha-vipassana
-  - unborn
-  - dharma-talk
-  - spiritual-synthesis
+- luang-por-chah
+- ajahn-sumedho
+- bikkhu-sangha
+- four-noble-truths
+- grounded-awareness
+- rationality-conceit
+- samatha-vipassana
+- unborn
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: A Luang Por Chah Birthday Reflection

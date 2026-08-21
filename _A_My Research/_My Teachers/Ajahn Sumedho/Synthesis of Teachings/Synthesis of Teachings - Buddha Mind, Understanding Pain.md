@@ -2,12 +2,13 @@
 date: 2026-08-08
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Buddha Mind, Understanding Pain"
-location_event: "Audio Archive (Ajahn Sumedho - Buddha Mind, Understanding Pain - 0913 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Buddha Mind, Understanding Pain
+location_event: Audio Archive (Ajahn Sumedho - Buddha Mind, Understanding Pain - 0913
+  - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #buddha-mind-understanding-pain, #fear-and-anxiety, #four-noble-truths, #karma-and-rebirth, #rationality-conceit, #samatha-vipassana, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Buddha Mind, Understanding Pain

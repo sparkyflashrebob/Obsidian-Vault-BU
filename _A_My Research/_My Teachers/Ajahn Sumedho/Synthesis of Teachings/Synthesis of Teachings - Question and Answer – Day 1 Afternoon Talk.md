@@ -1,7 +1,7 @@
 ### Speakers:
 - **Speaker / Presenter**: Ajahn Sumedho
 - **Event / Source**: Audio Archive (Ajahn Sumedho - Question and Answer – Day 1 Afternoon Talk - 45 - Ajahn Sumedho Podcast by Amaravati.mp3)
-- **Tags / Topics**: #ajahn_sumedho, #bikkhu-sangha, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #question-and-answer-day-1-afternoon, #rationality-conceit, #samatha-vipassana, #unborn
+- **Tags / Topics**: #ajahn_sumedho, #bikkhu-sangha, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #question-and-answer, #rationality-conceit, #samatha-vipassana, #unborn
 ## Summary:
 
 ### Progression of Talk

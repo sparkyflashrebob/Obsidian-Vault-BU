@@ -1,8 +1,8 @@
 ---
 tags:
-  - core
-  - Views-ditthi
-  - Identity-View
+- core
+- views-ditthi
+- identity-view
 ---
 
 The views of six śramaṇa in the Pāli Canon

@@ -1,8 +1,8 @@
 ---
 aliases:
-  - Buddha's Words On Loving Kindness
+- Buddha's Words On Loving Kindness
 tags:
-  - Prayer-Book
+- prayer-book
 ---
 
 

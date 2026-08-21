@@ -2,12 +2,13 @@
 date: 2026-08-09
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Going into the Unkown – Siadhara Pabbajja"
-location_event: "Audio Archive (Ajahn Sumedho - Going into the Unkown – Siadhara Pabbajja - 1212 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Going into the Unkown – Siadhara Pabbajja
+location_event: Audio Archive (Ajahn Sumedho - Going into the Unkown – Siadhara Pabbajja
+  - 1212 - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #going-into-the-unkown-siadhara-pabb, #grounded-awareness, #luang-por-chah, #rationality-conceit, #samatha-vipassana, #siladhara, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Going into the Unkown – Siadhara Pabbajja

@@ -1,7 +1,7 @@
 ---
 tags:
-  - Prayer-Book
-  - spiritual_practice
+- prayer-book
+- spiritual-practice
 ---
 
 My Creator, I am now willing that you

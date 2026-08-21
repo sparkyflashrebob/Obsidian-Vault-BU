@@ -1,8 +1,8 @@
 ---
 aliases:
-  - Daily Reminder of Compassion & Peace
+- Daily Reminder of Compassion & Peace
 tags:
-  - Daily-Reminders
+- daily-reminders
 ---
 
 May I live today in Compassion & Peace

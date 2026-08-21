@@ -2,12 +2,13 @@
 date: 2026-08-08
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Consciousness and Perception – Winter Retreat (105)"
-location_event: "Audio Archive (Ajahn Sumedho - Consciousness and Perception – Winter Retreat (105) - 0121 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Consciousness and Perception – Winter Retreat (105)
+location_event: Audio Archive (Ajahn Sumedho - Consciousness and Perception – Winter
+  Retreat (105) - 0121 - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #consciousness-and-perception-winter, #fear-and-anxiety, #four-noble-truths, #khandhas, #samatha-vipassana, #sound-of-silence
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Consciousness and Perception – Winter Retreat (105)

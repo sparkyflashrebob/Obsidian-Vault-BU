@@ -2,12 +2,13 @@
 date: 1997
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Pure presence"
-location_event: "108 Talks Series / Ajahn Sumedho Archives (Ajahn Sumedho - Pure presence (1997) - 43 - 108 Talks by Luang Por Sumedho.mp3.md)"
+talk_title: Pure presence
+location_event: 108 Talks Series / Ajahn Sumedho Archives (Ajahn Sumedho - Pure presence
+  (1997) - 43 - 108 Talks by Luang Por Sumedho.mp3.md)
 tags:
-  - ajahn-sumedho, pure-presence, consciousness, mindfulness, buddho
-  - dharma-talk
-  - spiritual-synthesis
+- mindfulness-practice
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Pure presence

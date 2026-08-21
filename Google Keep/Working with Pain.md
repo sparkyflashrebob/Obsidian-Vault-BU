@@ -1,9 +1,9 @@
 ---
 tags:
-  - Pleasure-and-Pain
-  - Mindfulness-of-the-Body
-  - Mindfulness-of-Feeling
-  - mindfulness
+- pleasure-and-pain
+- mindfulness-of-body
+- mindfulness-of-feeling
+- mindfulness
 ---
 
 NOTES:

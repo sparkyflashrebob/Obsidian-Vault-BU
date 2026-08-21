@@ -2,12 +2,13 @@
 date: 2026-08-10
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Metta Is Receiving"
-location_event: "Audio Archive (Ajahn Sumedho - Metta Is Receiving - 0322 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Metta Is Receiving
+location_event: Audio Archive (Ajahn Sumedho - Metta Is Receiving - 0322 - Ajahn Sumedho
+  Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #khandhas, #metta, #metta-is-receiving, #samatha-vipassana, #siladhara, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Metta Is Receiving

@@ -1,26 +1,26 @@
 ---
 tags:
-  - twelve-step-framework
-  - ambient-sensors
-  - concert-planning
-  - concerts
-  - docker
-  - docker-desktop
-  - docker-setup
-  - home-monitoring
-  - household-logistics
-  - media-curation
-  - personal-development
-  - quantum
-  - quantum-physics
-  - recovery
-  - recovery-program
-  - rise-up-sing-out
-  - spiritual-inquiry
-  - temperature
-  - troubleshooting
-  - what-the-bleep-film
-  - plaud-daily-report
+- twelve-step-framework
+- ambient-sensors
+- concert-planning
+- concerts
+- docker
+- docker-desktop
+- docker-setup
+- home-monitoring
+- household-logistics
+- media-curation
+- personal-development
+- quantum
+- quantum-physics
+- recovery
+- recovery-program
+- rise-up-sing
+- spiritual-inquiry
+- temperature
+- troubleshooting
+- what-the-bleep
+- plaud-daily-report
 ---
 
 # Plaud Voice Archiving & Daily Activity Summary

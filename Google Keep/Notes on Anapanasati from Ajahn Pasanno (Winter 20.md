@@ -1,9 +1,9 @@
 ---
 aliases:
-  - Notes on Anapanasati from Ajahn Pasanno (Winter 2005 Retreat)
+- Notes on Anapanasati from Ajahn Pasanno (Winter 2005 Retreat)
 tags:
-  - core
-  - Mindfulness-of-Breathing
+- core
+- mindfulness-of-breathing
 ---
 
 Use a particular practice to establish a basis of awareness and attention. 

@@ -1,7 +1,7 @@
 ### Speakers:
 - **Speaker / Presenter**: Ajahn Sumedho
 - **Event / Source**: Audio Archive (Ajahn Sumedho - Turning On The Light - 19900520 - Insight Meditation Society - Retreat Center http---www.dharma.org.mp3)
-- **Tags / Topics**: #ajahn_sumedho, #bikkhu-sangha, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #karma-and-rebirth, #luang-por-chah, #samatha-vipassana, #siladhara, #turning-on-the-light-19900520-insig
+- **Tags / Topics**: #ajahn_sumedho, #bikkhu-sangha, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #karma-and-rebirth, #luang-por-chah, #samatha-vipassana, #siladhara, #turning-on-the
 ## Summary:
 
 ### Progression of Talk

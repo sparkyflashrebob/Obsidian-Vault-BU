@@ -2,12 +2,13 @@
 date: 2000
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Don’t take it personally"
-location_event: "Audio Archive (Ajahn Sumedho - Don’t take it personally (2000) - 52 - 108 Talks by Luang Por Sumedho.mp3)"
+talk_title: Don’t take it personally
+location_event: Audio Archive (Ajahn Sumedho - Don’t take it personally (2000) - 52
+  - 108 Talks by Luang Por Sumedho.mp3)
 tags:
-  - #ajahn-sumedho, #bikkhu-sangha, #don-t-take-it-personally, #four-noble-truths, #samatha-vipassana, #sound-of-silence
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Don’t take it personally

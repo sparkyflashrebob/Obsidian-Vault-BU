@@ -1,8 +1,8 @@
 ---
 tags:
-  - core
-  - dukkha
-  - Eckhart-Tolle
+- core
+- dukkha
+- eckhart-tolle
 ---
 
 Having the expectation for the world to make us happy.  For conditions to make us happy. People, places, life events. 

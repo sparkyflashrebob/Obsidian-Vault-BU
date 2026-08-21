@@ -2,12 +2,13 @@
 date: 2026-08-07
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Awareness is your Refuge- Day 12"
-location_event: "Audio Archive (Ajahn Sumedho - Awareness is your Refuge- Day 12 - 55 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Awareness is your Refuge- Day 12
+location_event: Audio Archive (Ajahn Sumedho - Awareness is your Refuge- Day 12 -
+  55 - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #awareness-is-your-refuge-day-12, #bikkhu-sangha, #fear-and-anxiety, #sound-of-silence, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Awareness is your Refuge- Day 12
@@ -15,7 +16,7 @@ tags:
 🧘 **Teacher / Speaker**: Ajahn Sumedho  
 📅 **Date of Talk**: 2026-08-07  
 📍 **Event / Source**: Audio Archive (Ajahn Sumedho - Awareness is your Refuge- Day 12 - 55 - Ajahn Sumedho Podcast by Amaravati.mp3)  
-🏷️ **Topics / Tags**: #ajahn_sumedho, #anapanasati, #awareness-is-your-refuge-day-12, #bikkhu-sangha, #fear-and-anxiety, #sound-of-silence, #unborn  
+🏷️ **Topics / Tags**: #ajahn_sumedho, #anapanasati, #awareness-is-your, #bikkhu-sangha, #fear-and-anxiety, #sound-of-silence, #unborn  
 
 ---
 

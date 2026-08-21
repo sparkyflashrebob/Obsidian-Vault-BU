@@ -1,25 +1,24 @@
 ---
-date: "2026-06-03"
-
+date: '2026-06-03'
 tags:
-  - institute-for-mental-physics
-  - joshua-tree-retreat
-  - personal-memories
-  - stories-and-reflections
-  - dharma-and-meditation
-  - family-updates
-  - recovery-fellowship
-  - buddhist-principles
-  - bee-reports
-  - daily-notes
-  - daily-diary
-  - joshua-tree-trip
-  - airbnb-stay
-  - desert-wildlife
-  - krishnamurti
-  - buddhist-cosmology
-  - bee-nlm-report
-  - activity-details-architecture
+- mental-physics
+- joshua-tree-retreat
+- personal-memories
+- stories-and-reflections
+- dharma-and-meditation
+- family-updates
+- recovery-fellowship
+- buddhist-principles
+- bee-reports
+- daily-notes
+- daily-diary
+- joshua-tree-trip
+- airbnb-stay
+- desert-wildlife
+- krishnamurti
+- buddhist-cosmology
+- bee-nlm-report
+- activity-details-architecture
 ---
 
 # Joshua Tree Trip: Four-Wheeling, Desert Wildlife, Krishnamurti Reading & Dinner in 29 Palms

@@ -2,12 +2,13 @@
 date: 2026-08-09
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Encouragement to Practice"
-location_event: "Audio Archive (Ajahn Sumedho - Encouragement to Practice - 0921 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Encouragement to Practice
+location_event: Audio Archive (Ajahn Sumedho - Encouragement to Practice - 0921 -
+  Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #bikkhu-sangha, #encouragement-to-practice, #fear-and-anxiety, #four-noble-truths, #karma-and-rebirth, #rationality-conceit, #sound-of-silence
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Encouragement to Practice

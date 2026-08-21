@@ -1,20 +1,20 @@
 ---
 tags:
-  - 12-step-framework
-  - bee-reports
-  - concert-planning
-  - concerts
-  - daily-notes
-  - logging
-  - media-curation
-  - obsidian
-  - personal-development
-  - recovery
-  - recovery-program
-  - rise-up-sing-out
-  - workflow
-  - bee-nlm-report
-  - krisp-daily-summary
+- 12-step-framework
+- bee-reports
+- concert-planning
+- concerts
+- daily-notes
+- logging
+- media-curation
+- obsidian
+- personal-development
+- recovery
+- recovery-program
+- rise-up-sing
+- workflow
+- bee-nlm-report
+- krisp-daily-summary
 ---
 
 # Weight loss and daily check-in, Scheduling meeting and sharing credit info, and Catching up with old friend

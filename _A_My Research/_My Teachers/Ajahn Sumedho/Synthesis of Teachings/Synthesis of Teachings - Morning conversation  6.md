@@ -2,12 +2,13 @@
 date: 2026-08-11
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Morning conversation  6"
-location_event: "Audio Archive (Ajahn Sumedho - Morning conversation  6 - 0312 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Morning conversation  6
+location_event: Audio Archive (Ajahn Sumedho - Morning conversation  6 - 0312 - Ajahn
+  Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #morning-conversation-6, #rationality-conceit, #samatha-vipassana, #sound-of-silence, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Morning conversation  6

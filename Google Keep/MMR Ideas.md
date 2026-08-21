@@ -1,6 +1,6 @@
 ---
 tags:
-  - MMR-Topics
+- mmr-topics
 ---
 
 

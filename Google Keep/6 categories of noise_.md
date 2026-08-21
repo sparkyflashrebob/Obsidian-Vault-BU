@@ -1,8 +1,8 @@
 ---
 aliases:
-  - "6 categories of noise "
+- '6 categories of noise '
 tags:
-  - Music-Concepts
+- music-concepts
 ---
 
 

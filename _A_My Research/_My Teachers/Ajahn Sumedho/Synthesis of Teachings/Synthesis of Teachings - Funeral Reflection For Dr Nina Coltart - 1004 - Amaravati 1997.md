@@ -2,12 +2,13 @@
 date: 2026-08-09
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Funeral Reflection For Dr Nina Coltart - 1004 - Amaravati 1997"
-location_event: "Audio Archive (Ajahn Sumedho - Funeral Reflection For Dr Nina Coltart - 1004 - Amaravati 1997.mp3)"
+talk_title: Funeral Reflection For Dr Nina Coltart - 1004 - Amaravati 1997
+location_event: Audio Archive (Ajahn Sumedho - Funeral Reflection For Dr Nina Coltart
+  - 1004 - Amaravati 1997.mp3)
 tags:
-  - #ajahn-sumedho, #four-noble-truths, #funeral-reflection-for-dr-nina-colt, #grounded-awareness, #samatha-vipassana, #sound-of-silence, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Funeral Reflection For Dr Nina Coltart - 1004 - Amaravati 1997

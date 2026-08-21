@@ -1,6 +1,6 @@
 ---
 tags:
-  - Power-of-Awareness-Notes
+- power-of-awareness
 ---
 
 Announcements in Facebook Group

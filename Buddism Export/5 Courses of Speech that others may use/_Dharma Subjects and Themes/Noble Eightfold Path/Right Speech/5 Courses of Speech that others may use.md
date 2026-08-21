@@ -1,11 +1,11 @@
 ---
 aliases:
-  - 5 Courses of Speech that others may use when they address you
+- 5 Courses of Speech that others may use when they address you
 tags:
-  - Buddhist-Concepts
-  - Right-Speech
-  - "#tolerance"
-  - "#eight_worldly_winds"
+- buddhist-concepts
+- right-speech
+- tolerance
+- eight-worldly-winds
 Created: 2024-07-21
 ---
 5 Courses of Speech

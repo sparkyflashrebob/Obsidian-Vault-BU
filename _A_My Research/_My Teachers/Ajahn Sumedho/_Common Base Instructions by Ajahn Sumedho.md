@@ -1,9 +1,9 @@
 ---
 tags:
-  - meditation_instructions
-  - ajahn_sumedho
-  - encouragement
-  - Sakkaya-Ditthi
+- meditation-instructions
+- ajahn-sumedho
+- encouragement
+- sakkaya-ditthi
 ---
 
 Listening

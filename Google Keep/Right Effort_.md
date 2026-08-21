@@ -1,9 +1,9 @@
 ---
 aliases:
-  - "Right Effort "
+- 'Right Effort '
 tags:
-  - four_noble_truths
-  - Noble-Eightfold-Path
+- four-noble-truths
+- noble-eightfold-path
 ---
 
 Right Effort

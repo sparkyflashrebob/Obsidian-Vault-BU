@@ -1,9 +1,9 @@
 ---
 aliases:
-  - Wise/Right Intention
+- Wise/Right Intention
 tags:
-  - Buddhist-Concepts
-  - Marin-Mindful-Recovery
+- buddhist-concepts
+- marin-mindful-recovery
 Created: 2023-10-14
 ---
 

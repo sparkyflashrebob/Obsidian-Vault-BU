@@ -2,12 +2,13 @@
 date: 2026-08-09
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Getting to the Root of Reality – Winter Retreat (81)"
-location_event: "Audio Archive (Ajahn Sumedho - Getting to the Root of Reality – Winter Retreat (81) - 0321 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Getting to the Root of Reality – Winter Retreat (81)
+location_event: Audio Archive (Ajahn Sumedho - Getting to the Root of Reality – Winter
+  Retreat (81) - 0321 - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #fear-and-anxiety, #four-noble-truths, #getting-to-the-root-of-reality-wint, #grounded-awareness, #khandhas, #samatha-vipassana, #sound-of-silence
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Getting to the Root of Reality – Winter Retreat (81)

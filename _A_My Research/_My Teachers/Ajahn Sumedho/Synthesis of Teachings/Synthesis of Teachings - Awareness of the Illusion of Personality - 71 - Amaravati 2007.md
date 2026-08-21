@@ -2,12 +2,13 @@
 date: 2026-08-07
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Awareness of the Illusion of Personality - 71 - Amaravati 2007"
-location_event: "Audio Archive (Ajahn Sumedho - Awareness of the Illusion of Personality - 71 - Amaravati 2007.mp3)"
+talk_title: Awareness of the Illusion of Personality - 71 - Amaravati 2007
+location_event: Audio Archive (Ajahn Sumedho - Awareness of the Illusion of Personality
+  - 71 - Amaravati 2007.mp3)
 tags:
-  - #ajahn-sumedho, #awareness-of-the-illusion-of-person, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #samatha-vipassana, #siladhara
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Awareness of the Illusion of Personality - 71 - Amaravati 2007

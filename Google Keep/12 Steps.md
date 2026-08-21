@@ -1,6 +1,6 @@
 ---
 tags:
-  - Recovery
+- recovery
 ---
 
 1. We admitted we were powerless over alcohol-that our lives had become unman ageable. 

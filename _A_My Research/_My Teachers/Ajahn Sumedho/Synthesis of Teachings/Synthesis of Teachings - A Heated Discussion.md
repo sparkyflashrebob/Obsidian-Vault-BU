@@ -2,20 +2,21 @@
 date: 2026-08-06
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "A Heated Discussion"
-location_event: "Audio Archive (Ajahn Sumedho - A Heated Discussion - 0207 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: A Heated Discussion
+location_event: Audio Archive (Ajahn Sumedho - A Heated Discussion - 0207 - Ajahn
+  Sumedho Podcast by Amaravati.mp3)
 tags:
-  - heated-discussion
-  - ajahn_sumedho
-  - bikkhu-sangha
-  - four-noble-truths
-  - grounded-awareness
-  - luang-por-chah
-  - rationality-conceit
-  - samatha-vipassana
-  - unborn
-  - dharma-talk
-  - spiritual-synthesis
+- heated-discussion
+- ajahn-sumedho
+- bikkhu-sangha
+- four-noble-truths
+- grounded-awareness
+- luang-por-chah
+- rationality-conceit
+- samatha-vipassana
+- unborn
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: A Heated Discussion

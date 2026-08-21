@@ -1,9 +1,9 @@
 ---
 tags:
-  - core
-  - Mindfulness-of-the-Body
-  - Meditation
-  - 3_characteristics
+- core
+- mindfulness-of-body
+- meditation
+- 3-characteristics
 ---
 
 # Inquiry

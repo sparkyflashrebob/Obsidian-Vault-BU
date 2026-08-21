@@ -1,7 +1,7 @@
 ### Speakers:
 - **Speaker / Presenter**: Ajahn Sumedho
 - **Event / Source**: Audio Archive (Ajahn Sumedho - Unconditional Love - 20050626 - Spirit Rock Meditation Center http---www.spiritrock.org-.mp3)
-- **Tags / Topics**: #ajahn_sumedho, #anapanasati, #brahmaviharas, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #grounded-awareness, #luang-por-chah, #rationality-conceit, #samatha-vipassana, #sound-of-silence, #unborn, #unconditional-love-20050626-spirit
+- **Tags / Topics**: #ajahn_sumedho, #anapanasati, #brahmaviharas, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #grounded-awareness, #luang-por-chah, #rationality-conceit, #samatha-vipassana, #sound-of-silence, #unborn, #unconditional-love-20050626
 ## Summary:
 
 ### Progression of Talk

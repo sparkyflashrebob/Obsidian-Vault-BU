@@ -1,9 +1,8 @@
 ---
 tags:
-  - Meditation
-  - mmtcp
-  - MMR-Topics
-  - Meditation
+- meditation
+- mmtcp
+- mmr-topics
 ---
 
 Simple repetitive action can develop calm and a greater sense of here and now

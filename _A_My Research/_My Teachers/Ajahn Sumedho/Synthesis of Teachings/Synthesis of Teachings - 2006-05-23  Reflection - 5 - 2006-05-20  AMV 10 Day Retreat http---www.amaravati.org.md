@@ -5,7 +5,7 @@ teacher: Ajahn Sumedho
 talk_title: "2006-05-23  Reflection - 5 - 2006-05-20  AMV 10 Day Retreat http---www.amaravati.org"
 location_event: "Audio Archive (Ajahn Sumedho - 2006-05-23  Reflection - 5 - 2006-05-20  AMV 10 Day Retreat http---www.amaravati.org.mp3)"
 tags:
-  - #2006-05-23-reflection-5-2006-05-20, #ajahn-sumedho, #anapanasati, #fear-and-anxiety, #four-noble-truths, #rationality-conceit, #siladhara
+  - #05-23-reflection, #ajahn-sumedho, #anapanasati, #fear-and-anxiety, #four-noble-truths, #rationality-conceit, #siladhara
   - dharma-talk
   - spiritual-synthesis
 ---

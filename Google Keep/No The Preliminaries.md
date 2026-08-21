@@ -1,6 +1,6 @@
 ---
 tags:
-  - 7-Point-Mind-Training
+- 7-point-mind
 ---
 
 1. First, train in the preliminaries.

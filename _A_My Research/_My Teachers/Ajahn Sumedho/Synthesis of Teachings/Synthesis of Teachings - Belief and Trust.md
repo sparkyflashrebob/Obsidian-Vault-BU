@@ -2,12 +2,13 @@
 date: 2026-08-08
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Belief and Trust"
-location_event: "Audio Archive (Ajahn Sumedho - Belief and Trust - 0603 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Belief and Trust
+location_event: Audio Archive (Ajahn Sumedho - Belief and Trust - 0603 - Ajahn Sumedho
+  Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #belief-and-trust
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Belief and Trust

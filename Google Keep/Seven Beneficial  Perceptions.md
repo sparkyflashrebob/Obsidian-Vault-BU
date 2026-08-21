@@ -1,7 +1,7 @@
 ---
 tags:
-  - Dhamma
-  - Views-ditthi
+- dhamma
+- views-ditthi
 ---
 
 1 Perception of the unattractive (shrink away from the sexual act)

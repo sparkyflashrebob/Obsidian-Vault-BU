@@ -2,12 +2,13 @@
 date: 2026-08-09
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Facing the Pain of Life – Winter Retreat (223)"
-location_event: "Audio Archive (Ajahn Sumedho - Facing the Pain of Life – Winter Retreat (223) - 0218 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Facing the Pain of Life – Winter Retreat (223)
+location_event: Audio Archive (Ajahn Sumedho - Facing the Pain of Life – Winter Retreat
+  (223) - 0218 - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #facing-the-pain-of-life-winter-retr, #fear-and-anxiety, #four-noble-truths, #karma-and-rebirth, #luang-por-chah, #samatha-vipassana, #sound-of-silence
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Facing the Pain of Life – Winter Retreat (223)

@@ -1,11 +1,11 @@
 ---
 tags:
-  - Forgiveness
-  - Paramis
-  - loving-kindness
-  - Compassion
-  - Internal-External-Collective
-  - Ethics
+- forgiveness
+- paramis
+- loving-kindness
+- compassion
+- internal-external-collective
+- ethics
 ---
 
 Linked Discourses 3

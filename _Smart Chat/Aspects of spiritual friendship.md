@@ -1,13 +1,13 @@
 ---
 tags:
-  - spiritual_friendship
-  - common_ground
-  - alignment
-  - authentic
-  - deep_listening
-  - spiritual_exploration
-  - sangha
-  - upasika
+- spiritual-friendship
+- common-ground
+- alignment
+- authentic
+- deep-listening
+- spiritual-exploration
+- sangha
+- upasika
 ---
 ##### user
 Aspects of spiritual friendship

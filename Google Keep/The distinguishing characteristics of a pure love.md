@@ -1,7 +1,7 @@
 ---
 tags:
-  - Paramis
-  - Compassion
+- paramis
+- compassion
 ---
 
 The distinguishing characteristics of a pure love are:

@@ -1,7 +1,7 @@
 ### Speakers:
 - **Speaker / Presenter**: Ajahn Sumedho
 - **Event / Source**: Audio Archive (Ajahn Sumedho - Pointing at You - 0216 - Amaravati 2005.mp3)
-- **Tags / Topics**: #ajahn_sumedho, #bikkhu-sangha, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #khandhas, #luang-por-chah, #pointing-at-you-0216-amaravati-2005, #rationality-conceit, #samatha-vipassana
+- **Tags / Topics**: #ajahn_sumedho, #bikkhu-sangha, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #khandhas, #luang-por-chah, #pointing-at-you, #rationality-conceit, #samatha-vipassana
 ## Summary:
 
 ### Progression of Talk

@@ -1,13 +1,13 @@
 ---
 tags:
-  - Dhamma
-  - core
-  - Views-ditthi
-  - Nibanna-Enlightenment
-  - Noble-Eightfold-Path
-  - Identity-View
-  - mindfulness
-  - 3_characteristics
+- dhamma
+- core
+- views-ditthi
+- nibanna-enlightenment
+- noble-eightfold-path
+- identity-view
+- mindfulness
+- 3-characteristics
 ---
 
 The Ten Fetters

@@ -1,9 +1,9 @@
 ---
 aliases:
-  - "Trouble "
+- 'Trouble '
 tags:
-  - Quotes
-  - Identity-View
+- quotes
+- identity-view
 ---
 
 Anything which is troubling you, anything that is irritating you, THAT is your teacher.

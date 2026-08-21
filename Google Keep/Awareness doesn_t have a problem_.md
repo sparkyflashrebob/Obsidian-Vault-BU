@@ -1,9 +1,9 @@
 ---
 aliases:
-  - Awareness doesn't have a problem.
+- Awareness doesn't have a problem.
 tags:
-  - quotes
-  - Identity-View
+- quotes
+- identity-view
 ---
 
 Awareness has already been open to your experience because it is happening. Awareness doesn't have a problem. In order to have a problem, the mind has to resist.

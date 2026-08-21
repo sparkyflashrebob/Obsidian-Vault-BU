@@ -1,6 +1,6 @@
 ---
 tag: definition
-tags: realm of practice
+tags: []
 ---
 
 - Object(s) perceived by the sensory and perceptive organs. The sphere of cognition. Sphere, realm, place. 

@@ -1,7 +1,7 @@
 ### Speakers:
 - **Speaker / Presenter**: Ajahn Sumedho
 - **Event / Source**: Audio Archive (Ajahn Sumedho - This Is Not The Ideal - 20080611 - 2008 Spirit Rock Monastic Retreat.mp3)
-- **Tags / Topics**: #ajahn_sumedho, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #luang-por-chah, #rationality-conceit, #sound-of-silence, #this-is-not-the-ideal-20080611-2008, #unborn
+- **Tags / Topics**: #ajahn_sumedho, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #luang-por-chah, #rationality-conceit, #sound-of-silence, #this-is-not, #unborn
 ## Summary:
 
 ### Progression of Talk

@@ -2,12 +2,13 @@
 date: 2026-08-08
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Commitment to Delusion – Mahga Puja"
-location_event: "Audio Archive (Ajahn Sumedho - Commitment to Delusion – Mahga Puja - 0226 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Commitment to Delusion – Mahga Puja
+location_event: Audio Archive (Ajahn Sumedho - Commitment to Delusion – Mahga Puja
+  - 0226 - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #bikkhu-sangha, #commitment-to-delusion-mahga-puja, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #siladhara, #sound-of-silence, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Commitment to Delusion – Mahga Puja

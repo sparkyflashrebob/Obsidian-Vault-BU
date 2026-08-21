@@ -1,14 +1,14 @@
 ---
 title: Know your Rights Trainings for Local Businesses - Google Search
 source: https://www.google.com/search?q=Know+your+Rights+Trainings+for+Local+Businesses&rlz=1C1RXQR_enUS1066US1066&oq=Know+your+Rights+Trainings+for+Local+Businesses&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRirAtIBCDYwNDVqMGo3qAIIsAIB8QVvWG5FkeMnog&sourceid=chrome&ie=UTF-8
-author: 
-published: 
+author: null
+published: null
 created: 2025-06-22
-description: 
+description: null
 tags:
-  - clippings
-  - "#constitution"
-  - "#human_rights"
+- clippings
+- constitution
+- human-rights
 ---
 ## Accessibility Links
 

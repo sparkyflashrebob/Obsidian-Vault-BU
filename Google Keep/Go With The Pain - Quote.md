@@ -1,8 +1,8 @@
 ---
 tags:
-  - Pleasure-and-Pain
-  - Mindfulness-of-Feeling
-  - quotes
+- pleasure-and-pain
+- mindfulness-of-feeling
+- quotes
 ---
 
 Anne Morrow Lindbergh.

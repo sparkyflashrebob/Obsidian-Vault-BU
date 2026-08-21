@@ -1,6 +1,6 @@
 ---
 tags:
-  - Marin-Mindful-Recovery
+- marin-mindful-recovery
 ---
 
 

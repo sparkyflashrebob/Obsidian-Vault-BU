@@ -1,8 +1,8 @@
 ---
 aliases:
-  - "Those who cannot change their minds cannot change anything. —GEORGE BERNARD SHAW "
+- 'Those who cannot change their minds cannot change anything. —GEORGE BERNARD SHAW '
 tags:
-  - Quotes
+- quotes
 ---
 
 Those who cannot change their minds cannot change anything. —GEORGE BERNARD SHAW

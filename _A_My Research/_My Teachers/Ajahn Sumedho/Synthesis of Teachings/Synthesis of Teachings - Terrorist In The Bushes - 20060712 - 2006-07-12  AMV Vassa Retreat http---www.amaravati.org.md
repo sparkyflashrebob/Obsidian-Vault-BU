@@ -1,7 +1,7 @@
 ### Speakers:
 - **Speaker / Presenter**: Ajahn Sumedho
 - **Event / Source**: Audio Archive (Ajahn Sumedho - Terrorist In The Bushes - 20060712 - 2006-07-12  AMV Vassa Retreat http---www.amaravati.org.mp3)
-- **Tags / Topics**: #ajahn_sumedho, #anapanasati, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #luang-por-chah, #siladhara, #terrorist-in-the-bushes-20060712-20, #unborn
+- **Tags / Topics**: #ajahn_sumedho, #anapanasati, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #luang-por-chah, #siladhara, #terrorist-in-the, #unborn
 ## Summary:
 
 ### Progression of Talk

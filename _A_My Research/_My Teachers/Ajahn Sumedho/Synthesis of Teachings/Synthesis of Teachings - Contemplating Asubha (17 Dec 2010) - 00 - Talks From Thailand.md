@@ -2,12 +2,13 @@
 date: 2026-08-08
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Contemplating Asubha (17 Dec 2010) - 00 - Talks From Thailand"
-location_event: "Audio Archive (Ajahn Sumedho - Contemplating Asubha (17 Dec 2010) - 00 - Talks From Thailand.mp3)"
+talk_title: Contemplating Asubha (17 Dec 2010) - 00 - Talks From Thailand
+location_event: Audio Archive (Ajahn Sumedho - Contemplating Asubha (17 Dec 2010)
+  - 00 - Talks From Thailand.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #bikkhu-sangha, #contemplating-asubha-17-dec-2010-00, #fear-and-anxiety
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Contemplating Asubha (17 Dec 2010) - 00 - Talks From Thailand
@@ -15,7 +16,7 @@ tags:
 🧘 **Teacher / Speaker**: Ajahn Sumedho  
 📅 **Date of Talk**: 2026-08-08  
 📍 **Event / Source**: Audio Archive (Ajahn Sumedho - Contemplating Asubha (17 Dec 2010) - 00 - Talks From Thailand.mp3)  
-🏷️ **Topics / Tags**: #ajahn_sumedho, #anapanasati, #bikkhu-sangha, #contemplating-asubha-17-dec-2010-00, #fear-and-anxiety  
+🏷️ **Topics / Tags**: #ajahn_sumedho, #anapanasati, #bikkhu-sangha, #contemplating-asubha, #fear-and-anxiety  
 
 ---
 

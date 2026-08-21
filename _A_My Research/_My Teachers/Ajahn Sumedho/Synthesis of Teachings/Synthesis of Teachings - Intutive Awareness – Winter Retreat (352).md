@@ -2,12 +2,13 @@
 date: 2026-08-10
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Intutive Awareness – Winter Retreat (352)"
-location_event: "Audio Archive (Ajahn Sumedho - Intutive Awareness – Winter Retreat (352) - 0322 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Intutive Awareness – Winter Retreat (352)
+location_event: Audio Archive (Ajahn Sumedho - Intutive Awareness – Winter Retreat
+  (352) - 0322 - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #intutive-awareness-winter-retreat-3, #karma-and-rebirth, #rationality-conceit, #samatha-vipassana, #sound-of-silence, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Intutive Awareness – Winter Retreat (352)
@@ -15,7 +16,7 @@ tags:
 🧘 **Teacher / Speaker**: Ajahn Sumedho  
 📅 **Date of Talk**: 2026-08-10  
 📍 **Event / Source**: Audio Archive (Ajahn Sumedho - Intutive Awareness – Winter Retreat (352) - 0322 - Ajahn Sumedho Podcast by Amaravati.mp3)  
-🏷️ **Topics / Tags**: #ajahn_sumedho, #anapanasati, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #intutive-awareness-winter-retreat-3, #karma-and-rebirth, #rationality-conceit, #samatha-vipassana, #sound-of-silence, #unborn  
+🏷️ **Topics / Tags**: #ajahn_sumedho, #anapanasati, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #intutive-awareness-winter, #karma-and-rebirth, #rationality-conceit, #samatha-vipassana, #sound-of-silence, #unborn  
 
 ---
 

@@ -1,5 +1,5 @@
 ---
 tags:
-  - core
-  - ForTeaching
+- core
+- forteaching
 ---

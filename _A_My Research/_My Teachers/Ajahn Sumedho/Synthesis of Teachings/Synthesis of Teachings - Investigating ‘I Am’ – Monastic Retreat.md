@@ -2,12 +2,13 @@
 date: 2026-08-10
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Investigating ‘I Am’ – Monastic Retreat"
-location_event: "Audio Archive (Ajahn Sumedho - Investigating ‘I Am’ – Monastic Retreat - 0200 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Investigating ‘I Am’ – Monastic Retreat
+location_event: Audio Archive (Ajahn Sumedho - Investigating ‘I Am’ – Monastic Retreat
+  - 0200 - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #fear-and-anxiety, #four-noble-truths, #investigating-i-am-monastic-retreat, #rationality-conceit, #samatha-vipassana, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Investigating ‘I Am’ – Monastic Retreat

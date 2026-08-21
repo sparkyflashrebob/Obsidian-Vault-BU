@@ -1,7 +1,7 @@
 ### Speakers:
 - **Speaker / Presenter**: Ajahn Sumedho
 - **Event / Source**: Audio Archive (Ajahn Sumedho - The Fourth Noble Truth - 00 - 1999 Spirit Rock Monastic Retreat.mp3)
-- **Tags / Topics**: #ajahn_sumedho, #brahmaviharas, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #karma-and-rebirth, #luang-por-chah, #metta, #samatha-vipassana, #sound-of-silence, #the-fourth-noble-truth-00-1999-spir, #unborn
+- **Tags / Topics**: #ajahn_sumedho, #brahmaviharas, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #karma-and-rebirth, #luang-por-chah, #metta, #samatha-vipassana, #sound-of-silence, #the-fourth-noble, #unborn
 ## Summary:
 
 ### Progression of Talk

@@ -1,8 +1,8 @@
 ---
 aliases:
-  - "Ajahn Sumedho stories "
+- 'Ajahn Sumedho stories '
 tags:
-  - Story
+- story
 ---
 
 Ajahn Chah food

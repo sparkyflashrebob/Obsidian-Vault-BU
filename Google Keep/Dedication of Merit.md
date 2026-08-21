@@ -1,6 +1,6 @@
 ---
 tags:
-  - Marin-Mindful-Recovery
+- marin-mindful-recovery
 ---
 
 Before we dedicate the merit of the practice to others, I invite you to look towards your own heart space - and to notice if there is anything that has or may need healing.  (pause)

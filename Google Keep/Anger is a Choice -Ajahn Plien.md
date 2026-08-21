@@ -1,6 +1,6 @@
 ---
 tags:
-  - Mindfulness-of-Emotions
+- mindfulness-of-emotions
 ---
 
 Remember, anger is a choice - a negative emotion allowed to run amok in one’s mind. Nobody actually “makes” another person angry. Anger arises in oneself. Anger can even be directed towards oneself. For example, if an activity undertaken does not yield the desired outcome, one might be disappointed and disgruntled at one’s own performance.

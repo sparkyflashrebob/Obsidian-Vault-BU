@@ -1,6 +1,6 @@
 ---
 tags:
-  - Zen
+- zen
 ---
 
 Not Knowing (continually in flux, being present, expanding the circle (centering & connection - circle of caring)

@@ -5,7 +5,7 @@ teacher: Ajahn Sumedho
 talk_title: "Ajahn Sumedho At Spirit Rock - 19950522 - SR Monday and Wednesday Talks https---www.spiritrock.org-"
 location_event: "Audio Archive (Ajahn Sumedho - Ajahn Sumedho At Spirit Rock - 19950522 - SR Monday and Wednesday Talks https---www.spiritrock.org-.mp3)"
 tags:
-  - #ajahn-sumedho, #ajahn-sumedho-at-spirit-rock-199505, #anapanasati, #fear-and-anxiety, #forgiveness-reconciliation, #grounded-awareness, #karma-and-rebirth, #siladhara, #unborn
+  - #ajahn-sumedho, #ajahn-sumedho-at, #anapanasati, #fear-and-anxiety, #forgiveness-reconciliation, #grounded-awareness, #karma-and-rebirth, #siladhara, #unborn
   - dharma-talk
   - spiritual-synthesis
 ---

@@ -2,12 +2,13 @@
 date: 2026-08-09
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Holiday For The Heart"
-location_event: "Audio Archive (Ajahn Sumedho - Holiday For The Heart - 0106 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Holiday For The Heart
+location_event: Audio Archive (Ajahn Sumedho - Holiday For The Heart - 0106 - Ajahn
+  Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #holiday-for-the-heart, #metta, #rationality-conceit, #samatha-vipassana, #siladhara, #sound-of-silence, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Holiday For The Heart

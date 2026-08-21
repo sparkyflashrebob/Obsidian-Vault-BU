@@ -2,12 +2,13 @@
 date: 2010
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Ideals do not have feelings"
-location_event: "Audio Archive (Ajahn Sumedho - Ideals do not have feelings (2010) - 102 - 108 Talks by Luang Por Sumedho.mp3)"
+talk_title: Ideals do not have feelings
+location_event: Audio Archive (Ajahn Sumedho - Ideals do not have feelings (2010)
+  - 102 - 108 Talks by Luang Por Sumedho.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #bikkhu-sangha, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #grounded-awareness, #ideals-do-not-have-feelings, #karma-and-rebirth, #rationality-conceit, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Ideals do not have feelings

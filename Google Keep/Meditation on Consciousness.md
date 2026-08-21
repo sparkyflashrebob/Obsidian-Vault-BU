@@ -1,6 +1,6 @@
 ---
 tags:
-  - Meditation
+- meditation
 ---
 
 A brief meditation can help you to understand. 

@@ -1,7 +1,7 @@
 ---
 tags:
-  - Mindfulness-of-Breathing
-  - quotes
+- mindfulness-of-breathing
+- quotes
 ---
 
 Breathe and you know that you are alive. 

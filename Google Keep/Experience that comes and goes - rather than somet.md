@@ -1,7 +1,7 @@
 ---
 aliases:
-  - Experience that comes and goes - rather than something we believe and get lost in.
+- Experience that comes and goes - rather than something we believe and get lost in.
 tags:
-  - core
-  - Depression
+- core
+- depression
 ---

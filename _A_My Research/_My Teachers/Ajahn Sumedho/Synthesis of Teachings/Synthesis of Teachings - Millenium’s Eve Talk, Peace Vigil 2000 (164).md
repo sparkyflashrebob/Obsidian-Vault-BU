@@ -2,12 +2,13 @@
 date: 2026-08-10
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Millenium’s Eve Talk, Peace Vigil 2000 (164)"
-location_event: "Audio Archive (Ajahn Sumedho - Millenium’s Eve Talk, Peace Vigil 2000 (164) - 1231 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Millenium’s Eve Talk, Peace Vigil 2000 (164)
+location_event: Audio Archive (Ajahn Sumedho - Millenium’s Eve Talk, Peace Vigil 2000
+  (164) - 1231 - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #bikkhu-sangha, #brahmaviharas, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #khandhas, #metta, #millenium-s-eve-talk-peace-vigil-20, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Millenium’s Eve Talk, Peace Vigil 2000 (164)
@@ -15,7 +16,7 @@ tags:
 🧘 **Teacher / Speaker**: Ajahn Sumedho  
 📅 **Date of Talk**: 2026-08-10  
 📍 **Event / Source**: Audio Archive (Ajahn Sumedho - Millenium’s Eve Talk, Peace Vigil 2000 (164) - 1231 - Ajahn Sumedho Podcast by Amaravati.mp3)  
-🏷️ **Topics / Tags**: #ajahn_sumedho, #bikkhu-sangha, #brahmaviharas, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #khandhas, #metta, #millenium-s-eve-talk-peace-vigil-20, #unborn  
+🏷️ **Topics / Tags**: #ajahn_sumedho, #bikkhu-sangha, #brahmaviharas, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #khandhas, #metta, #millenium-s-eve, #unborn  
 
 ---
 

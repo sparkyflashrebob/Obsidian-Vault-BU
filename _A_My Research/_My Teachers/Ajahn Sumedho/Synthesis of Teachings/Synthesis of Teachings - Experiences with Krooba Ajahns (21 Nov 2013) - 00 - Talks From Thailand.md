@@ -2,12 +2,13 @@
 date: 2026-08-09
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Experiences with Krooba Ajahns (21 Nov 2013) - 00 - Talks From Thailand"
-location_event: "Audio Archive (Ajahn Sumedho - Experiences with Krooba Ajahns (21 Nov 2013) - 00 - Talks From Thailand.mp3)"
+talk_title: Experiences with Krooba Ajahns (21 Nov 2013) - 00 - Talks From Thailand
+location_event: Audio Archive (Ajahn Sumedho - Experiences with Krooba Ajahns (21
+  Nov 2013) - 00 - Talks From Thailand.mp3)
 tags:
-  - #ajahn-sumedho, #bikkhu-sangha, #experiences-with-krooba-ajahns-21-n, #karma-and-rebirth, #luang-por-chah, #rationality-conceit, #siladhara
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Experiences with Krooba Ajahns (21 Nov 2013) - 00 - Talks From Thailand
@@ -15,7 +16,7 @@ tags:
 🧘 **Teacher / Speaker**: Ajahn Sumedho  
 📅 **Date of Talk**: 2026-08-09  
 📍 **Event / Source**: Audio Archive (Ajahn Sumedho - Experiences with Krooba Ajahns (21 Nov 2013) - 00 - Talks From Thailand.mp3)  
-🏷️ **Topics / Tags**: #ajahn_sumedho, #bikkhu-sangha, #experiences-with-krooba-ajahns-21-n, #karma-and-rebirth, #luang-por-chah, #rationality-conceit, #siladhara  
+🏷️ **Topics / Tags**: #ajahn_sumedho, #bikkhu-sangha, #experiences-with-krooba, #karma-and-rebirth, #luang-por-chah, #rationality-conceit, #siladhara  
 
 ---
 

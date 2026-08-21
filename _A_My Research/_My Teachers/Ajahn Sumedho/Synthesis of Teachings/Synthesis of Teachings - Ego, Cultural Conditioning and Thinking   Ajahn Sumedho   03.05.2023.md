@@ -2,10 +2,11 @@
 date: 2026-08-06
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Ego, Cultural Conditioning and Thinking   Ajahn Sumedho   03.05.2023"
-location_event: "108 Talks Series / Ajahn Sumedho Archives (Ego, Cultural Conditioning and Thinking   Ajahn Sumedho   03.05.2023.mp3.md)"
-tags:
-  - ajahn-sumedho, ego,-cultural-conditioning-and-thinking---ajahn-sumedho---03.05.2023, consciousness, mindfulness, buddho
+talk_title: Ego, Cultural Conditioning and Thinking   Ajahn Sumedho   03.05.2023
+location_event: 108 Talks Series / Ajahn Sumedho Archives (Ego, Cultural Conditioning
+  and Thinking   Ajahn Sumedho   03.05.2023.mp3.md)
+tags: []
+---ajahn-sumedho---03.05.2023, consciousness, mindfulness, buddho
   - dharma-talk
   - spiritual-synthesis
 ---

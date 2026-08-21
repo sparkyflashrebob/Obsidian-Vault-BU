@@ -1,6 +1,6 @@
 ---
 tags:
-  - four_noble_truths
+- four-noble-truths
 ---
 
 [Music]

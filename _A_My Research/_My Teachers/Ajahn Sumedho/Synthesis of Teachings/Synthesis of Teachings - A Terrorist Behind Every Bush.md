@@ -2,21 +2,22 @@
 date: 2026-08-06
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "A Terrorist Behind Every Bush"
-location_event: "Audio Archive (Ajahn Sumedho - A Terrorist Behind Every Bush - 02 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: A Terrorist Behind Every Bush
+location_event: Audio Archive (Ajahn Sumedho - A Terrorist Behind Every Bush - 02
+  - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - terrorist-behind-every-bush
-  - ajahn_sumedho
-  - bikkhu-sangha
-  - fear-and-anxiety
-  - four-noble-truths
-  - grounded-awareness
-  - luang-por-chah
-  - rationality-conceit
-  - samatha-vipassana
-  - unborn
-  - dharma-talk
-  - spiritual-synthesis
+- terrorist-behind-every
+- ajahn-sumedho
+- bikkhu-sangha
+- fear-and-anxiety
+- four-noble-truths
+- grounded-awareness
+- luang-por-chah
+- rationality-conceit
+- samatha-vipassana
+- unborn
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: A Terrorist Behind Every Bush

@@ -2,12 +2,13 @@
 date: 2009
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Are we helpless victims of sensitivity"
-location_event: "Audio Archive (Ajahn Sumedho - Are we helpless victims of sensitivity (2009) - 99 - 108 Talks by Luang Por Sumedho.mp3)"
+talk_title: Are we helpless victims of sensitivity
+location_event: Audio Archive (Ajahn Sumedho - Are we helpless victims of sensitivity
+  (2009) - 99 - 108 Talks by Luang Por Sumedho.mp3)
 tags:
-  - #ajahn-sumedho, #are-we-helpless-victims-of-sensitiv, #bikkhu-sangha, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #luang-por-chah, #rationality-conceit, #samatha-vipassana, #siladhara, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Are we helpless victims of sensitivity

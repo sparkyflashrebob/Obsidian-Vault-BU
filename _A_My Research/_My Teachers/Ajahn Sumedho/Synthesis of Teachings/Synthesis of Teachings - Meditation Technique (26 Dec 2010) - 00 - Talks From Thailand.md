@@ -2,12 +2,13 @@
 date: 2026-08-10
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Meditation Technique (26 Dec 2010) - 00 - Talks From Thailand"
-location_event: "Audio Archive (Ajahn Sumedho - Meditation Technique (26 Dec 2010) - 00 - Talks From Thailand.mp3)"
+talk_title: Meditation Technique (26 Dec 2010) - 00 - Talks From Thailand
+location_event: Audio Archive (Ajahn Sumedho - Meditation Technique (26 Dec 2010)
+  - 00 - Talks From Thailand.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #four-noble-truths, #karma-and-rebirth, #luang-por-chah, #meditation-technique-26-dec-2010-00, #samatha-vipassana
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Meditation Technique (26 Dec 2010) - 00 - Talks From Thailand
@@ -15,7 +16,7 @@ tags:
 🧘 **Teacher / Speaker**: Ajahn Sumedho  
 📅 **Date of Talk**: 2026-08-10  
 📍 **Event / Source**: Audio Archive (Ajahn Sumedho - Meditation Technique (26 Dec 2010) - 00 - Talks From Thailand.mp3)  
-🏷️ **Topics / Tags**: #ajahn_sumedho, #anapanasati, #four-noble-truths, #karma-and-rebirth, #luang-por-chah, #meditation-technique-26-dec-2010-00, #samatha-vipassana  
+🏷️ **Topics / Tags**: #ajahn_sumedho, #anapanasati, #four-noble-truths, #karma-and-rebirth, #luang-por-chah, #meditation-technique, #samatha-vipassana  
 
 ---
 

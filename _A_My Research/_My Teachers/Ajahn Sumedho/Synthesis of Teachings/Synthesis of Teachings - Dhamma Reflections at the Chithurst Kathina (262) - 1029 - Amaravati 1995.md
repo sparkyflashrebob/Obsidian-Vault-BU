@@ -2,12 +2,13 @@
 date: 2026-08-09
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Dhamma Reflections at the Chithurst Kathina (262) - 1029 - Amaravati 1995"
-location_event: "Audio Archive (Ajahn Sumedho - Dhamma Reflections at the Chithurst Kathina (262) - 1029 - Amaravati 1995.mp3)"
+talk_title: Dhamma Reflections at the Chithurst Kathina (262) - 1029 - Amaravati 1995
+location_event: Audio Archive (Ajahn Sumedho - Dhamma Reflections at the Chithurst
+  Kathina (262) - 1029 - Amaravati 1995.mp3)
 tags:
-  - #ajahn-sumedho, #bikkhu-sangha, #dhamma-reflections-at-the-chithurst, #fear-and-anxiety, #four-noble-truths, #rationality-conceit, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Dhamma Reflections at the Chithurst Kathina (262) - 1029 - Amaravati 1995

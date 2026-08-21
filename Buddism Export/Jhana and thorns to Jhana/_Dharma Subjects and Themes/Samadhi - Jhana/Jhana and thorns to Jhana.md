@@ -1,7 +1,8 @@
 ---
-tag: jhana, thornstojhana, sound, mentalactivity, breathing, concentration, tranquility, dharma
+tag: jhana, thornstojhana, sound, mentalactivity, breathing, concentration, tranquility,
+  dharma
 tags:
-  - Hindrances
+- hindrances
 Created: 2024-07-21
 ---
 Quite Secluded

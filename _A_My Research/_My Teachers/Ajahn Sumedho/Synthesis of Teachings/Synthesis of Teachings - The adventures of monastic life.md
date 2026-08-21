@@ -2,12 +2,13 @@
 date: 2003
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "The adventures of monastic life"
-location_event: "108 Talks Series / Ajahn Sumedho Archives (Ajahn Sumedho - The adventures of monastic life (2003) - 65 - 108 Talks by Luang Por Sumedho.mp3.md)"
+talk_title: The adventures of monastic life
+location_event: 108 Talks Series / Ajahn Sumedho Archives (Ajahn Sumedho - The adventures
+  of monastic life (2003) - 65 - 108 Talks by Luang Por Sumedho.mp3.md)
 tags:
-  - ajahn-sumedho, the-adventures-of-monastic-life, consciousness, mindfulness, buddho
-  - dharma-talk
-  - spiritual-synthesis
+- mindfulness-practice
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: The adventures of monastic life

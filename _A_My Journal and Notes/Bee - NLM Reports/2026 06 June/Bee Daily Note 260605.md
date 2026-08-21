@@ -1,22 +1,21 @@
 ---
-date: "2026-06-05"
-
+date: '2026-06-05'
 tags:
-  - ryan-recovery
-  - surrender
-  - institute-for-mental-physics
-  - joshua-tree-retreat
-  - dharma-and-meditation
-  - family-updates
-  - recovery-fellowship
-  - buddhist-principles
-  - fellowship
-  - recovery-principles
-  - bee-reports
-  - daily-notes
-  - daily-diary
-  - bee-nlm-report
-  - activity-details-architecture
+- ryan-recovery
+- surrender
+- mental-physics
+- joshua-tree-retreat
+- dharma-and-meditation
+- family-updates
+- recovery-fellowship
+- buddhist-principles
+- fellowship
+- recovery-principles
+- bee-reports
+- daily-notes
+- daily-diary
+- bee-nlm-report
+- activity-details-architecture
 ---
 
 # Reflecting on letting go, Discussing sinus health and dinner, Family recovery discussion

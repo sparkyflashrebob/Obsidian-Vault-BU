@@ -1,6 +1,6 @@
 ---
 tags:
-  - Mind
+- mind
 ---
 
 "The Fox and the Grapes"

@@ -1,7 +1,7 @@
 ---
 tags:
-  - Gratitude
-  - ForTeaching
+- gratitude
+- forteaching
 ---
 
 Offering teachings wisdom and compassion

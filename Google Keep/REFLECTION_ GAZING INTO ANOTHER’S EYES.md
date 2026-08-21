@@ -1,9 +1,9 @@
 ---
 aliases:
-  - "REFLECTION: GAZING INTO ANOTHER’S EYES"
+- 'REFLECTION: GAZING INTO ANOTHER’S EYES'
 tags:
-  - reflection
-  - Guided-Meditation-Reflections
+- reflection
+- guided-meditation-reflections
 ---
 
 This is one of the most valuable trainings I’ve found for dissolving trance. You might try it if you have a partner, family member, or friend who is willing to explore it with you.

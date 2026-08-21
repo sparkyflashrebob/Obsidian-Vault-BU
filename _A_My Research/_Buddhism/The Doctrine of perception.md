@@ -1,8 +1,8 @@
 ---
 tags:
-  - direct
-  - experience
-  - "#doctrine_of_perception"
+- direct
+- experience
+- doctrine-of-perception
 Created: 2023-03-02
 ---
 source

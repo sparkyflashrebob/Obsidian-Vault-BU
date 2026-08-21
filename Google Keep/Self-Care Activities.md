@@ -1,8 +1,8 @@
 ---
 tags:
-  - "#self-care"
-  - middle_way
-  - right_effort
+- self-care
+- middle-way
+- right-effort
 ---
 
 

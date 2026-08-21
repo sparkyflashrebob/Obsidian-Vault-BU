@@ -2,12 +2,13 @@
 date: 2026-08-10
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Listening to the Guilt- Morning Talk Reflection"
-location_event: "Audio Archive (Ajahn Sumedho - Listening to the Guilt- Morning Talk Reflection - 04 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Listening to the Guilt- Morning Talk Reflection
+location_event: Audio Archive (Ajahn Sumedho - Listening to the Guilt- Morning Talk
+  Reflection - 04 - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #karma-and-rebirth, #khandhas, #listening-to-the-guilt-morning-talk, #rationality-conceit, #samatha-vipassana
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Listening to the Guilt- Morning Talk Reflection

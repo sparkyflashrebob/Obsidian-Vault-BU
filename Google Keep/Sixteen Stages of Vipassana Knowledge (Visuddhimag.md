@@ -1,8 +1,8 @@
 ---
 aliases:
-  - Sixteen Stages of Vipassana Knowledge (Visuddhimagga)
+- Sixteen Stages of Vipassana Knowledge (Visuddhimagga)
 tags:
-  - Insight-Knowledge
+- insight-knowledge
 ---
 
 The Sixteen Stages of Vipassana Knowledge

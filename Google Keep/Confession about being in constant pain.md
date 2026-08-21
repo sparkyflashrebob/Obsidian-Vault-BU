@@ -1,7 +1,7 @@
 ---
 tags:
-  - Pleasure-and-Pain
-  - four_noble_truths
+- pleasure-and-pain
+- four-noble-truths
 ---
 
 Felt really good the last couple of week

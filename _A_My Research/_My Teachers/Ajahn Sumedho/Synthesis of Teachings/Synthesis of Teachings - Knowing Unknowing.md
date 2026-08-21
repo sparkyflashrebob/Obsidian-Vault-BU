@@ -2,12 +2,13 @@
 date: 2026-08-10
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Knowing Unknowing"
-location_event: "Audio Archive (Ajahn Sumedho - Knowing Unknowing - 17 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Knowing Unknowing
+location_event: Audio Archive (Ajahn Sumedho - Knowing Unknowing - 17 - Ajahn Sumedho
+  Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #knowing-unknowing, #luang-por-chah, #rationality-conceit, #siladhara
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Knowing Unknowing

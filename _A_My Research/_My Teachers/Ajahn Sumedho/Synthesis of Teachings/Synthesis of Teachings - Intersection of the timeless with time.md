@@ -2,12 +2,13 @@
 date: 2008
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Intersection of the timeless with time"
-location_event: "Audio Archive (Ajahn Sumedho - Intersection of the timeless with time (2008) - 93 - 108 Talks by Luang Por Sumedho.mp3)"
+talk_title: Intersection of the timeless with time
+location_event: Audio Archive (Ajahn Sumedho - Intersection of the timeless with time
+  (2008) - 93 - 108 Talks by Luang Por Sumedho.mp3)
 tags:
-  - #ajahn-sumedho, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #intersection-of-the-timeless-with-t, #karma-and-rebirth, #luang-por-chah, #samatha-vipassana, #sound-of-silence, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Intersection of the timeless with time

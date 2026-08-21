@@ -2,12 +2,13 @@
 date: 2026-08-10
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Kathina Talk, Tape 2 1989"
-location_event: "Audio Archive (Ajahn Sumedho - Kathina Talk, Tape 2 1989 - 1000 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Kathina Talk, Tape 2 1989
+location_event: Audio Archive (Ajahn Sumedho - Kathina Talk, Tape 2 1989 - 1000 -
+  Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #kathina-talk-tape-2-1989, #siladhara
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Kathina Talk, Tape 2 1989
@@ -15,7 +16,7 @@ tags:
 🧘 **Teacher / Speaker**: Ajahn Sumedho  
 📅 **Date of Talk**: 2026-08-10  
 📍 **Event / Source**: Audio Archive (Ajahn Sumedho - Kathina Talk, Tape 2 1989 - 1000 - Ajahn Sumedho Podcast by Amaravati.mp3)  
-🏷️ **Topics / Tags**: #ajahn_sumedho, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #kathina-talk-tape-2-1989, #siladhara  
+🏷️ **Topics / Tags**: #ajahn_sumedho, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #kathina-talk-tape, #siladhara  
 
 ---
 

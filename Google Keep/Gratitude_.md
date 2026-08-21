@@ -1,9 +1,9 @@
 ---
 aliases:
-  - "Gratitude "
+- 'Gratitude '
 tags:
-  - Gratitude
-  - Brahmavihara/Paramis
+- gratitude
+- brahmavihara/paramis
 ---
 
 Gratitude has two parts. 

@@ -1,7 +1,7 @@
 ---
 tags:
-  - Prayer-Book
-  - Inspirational
+- prayer-book
+- inspirational
 ---
 
 It is said that before entering the sea

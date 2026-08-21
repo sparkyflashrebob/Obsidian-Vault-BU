@@ -2,12 +2,13 @@
 date: 2026-08-10
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "I Would if I Could But ….."
-location_event: "Audio Archive (Ajahn Sumedho - I Would if I Could But ….. - 0511 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: I Would if I Could But …..
+location_event: Audio Archive (Ajahn Sumedho - I Would if I Could But ….. - 0511 -
+  Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #i-would-if-i-could-but, #luang-por-chah, #rationality-conceit, #samatha-vipassana
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: I Would if I Could But …..

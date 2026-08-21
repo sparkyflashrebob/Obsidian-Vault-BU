@@ -1,6 +1,6 @@
 ---
 tags:
-  - Meditation-Info
+- meditation-info
 ---
 
 It has been shown to increase alpha and theta brainwave activity, which makes you feel calmer. Meditation causes your adrenal glands to dial back production of the stress hormone cortisol. And it also increases blood flow to your brain, which may help lower anxiety while boosting memory.

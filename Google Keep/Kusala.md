@@ -1,12 +1,12 @@
 ---
 tags:
-  - Buddhist-Concepts
-  - "#faultless"
-  - "#pure"
-  - "#desirable_results"
-  - wise_attention
-  - "#moral"
-  - morally_good
+- buddhist-concepts
+- faultless
+- pure
+- desirable-results
+- wise-attention
+- moral
+- morally-good
 Created: 2024-06-16
 ---
 

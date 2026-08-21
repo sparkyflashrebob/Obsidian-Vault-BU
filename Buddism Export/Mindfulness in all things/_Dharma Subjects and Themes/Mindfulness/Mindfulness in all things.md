@@ -1,6 +1,6 @@
 ---
 tags:
-  - Right-Effort
+- right-effort
 ---
 
 maintain steady and continuous mindful awareness, always striving to keep a constant watch on the mind

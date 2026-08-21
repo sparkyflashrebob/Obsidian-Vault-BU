@@ -1,8 +1,8 @@
 ---
 aliases:
-  - Dos and Don'ts of Effective Public Speaking
+- Dos and Don'ts of Effective Public Speaking
 tags:
-  - Public-Speaking-Presentations
+- public-speaking-presentations
 ---
 
 Avoid these 17 mistakes

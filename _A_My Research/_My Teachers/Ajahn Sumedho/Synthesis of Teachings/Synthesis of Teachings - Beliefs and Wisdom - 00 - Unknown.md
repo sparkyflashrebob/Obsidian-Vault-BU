@@ -2,12 +2,12 @@
 date: 2026-08-08
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Beliefs and Wisdom - 00 - Unknown"
-location_event: "Audio Archive (Ajahn Sumedho - Beliefs and Wisdom - 00 - Unknown.mp3)"
+talk_title: Beliefs and Wisdom - 00 - Unknown
+location_event: Audio Archive (Ajahn Sumedho - Beliefs and Wisdom - 00 - Unknown.mp3)
 tags:
-  - #ajahn-sumedho, #beliefs-and-wisdom-00-unknown, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #khandhas, #luang-por-chah, #rationality-conceit, #samatha-vipassana, #sound-of-silence, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Beliefs and Wisdom - 00 - Unknown
@@ -15,7 +15,7 @@ tags:
 🧘 **Teacher / Speaker**: Ajahn Sumedho  
 📅 **Date of Talk**: 2026-08-08  
 📍 **Event / Source**: Audio Archive (Ajahn Sumedho - Beliefs and Wisdom - 00 - Unknown.mp3)  
-🏷️ **Topics / Tags**: #ajahn_sumedho, #beliefs-and-wisdom-00-unknown, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #khandhas, #luang-por-chah, #rationality-conceit, #samatha-vipassana, #sound-of-silence, #unborn  
+🏷️ **Topics / Tags**: #ajahn_sumedho, #beliefs-and-wisdom, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #khandhas, #luang-por-chah, #rationality-conceit, #samatha-vipassana, #sound-of-silence, #unborn  
 
 ---
 

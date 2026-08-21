@@ -1,8 +1,8 @@
 ---
 aliases:
-  - 10 Kinds of Insight Knowledge (Abhidhammattha-sangaha)
+- 10 Kinds of Insight Knowledge (Abhidhammattha-sangaha)
 tags:
-  - Insight-Knowledge
+- insight-knowledge
 ---
 
 (1) knowledge of comprehension, 

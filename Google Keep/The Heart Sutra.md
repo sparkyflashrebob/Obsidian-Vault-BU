@@ -1,8 +1,8 @@
 ---
 tags:
-  - core
-  - Nibanna-Enlightenment
-  - emptiness
+- core
+- nibanna-enlightenment
+- emptiness
 ---
 
 Avalokiteshvara, the Bodhisattva of Compassion, meditating deeply on Perfection of Wisdom, saw clearly that the five aspects of human existence are empty*, and so released himself from suffering.  

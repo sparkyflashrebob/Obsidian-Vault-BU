@@ -1,10 +1,10 @@
 ---
 aliases:
-  - "10-Minute Mindfulness Practice - Tame Bad Habits "
+- '10-Minute Mindfulness Practice - Tame Bad Habits '
 tags:
-  - mindfulness
-  - addiction_and_recovery
-  - Mindfulness-of-Feeling
+- mindfulness
+- addiction-and-recovery
+- mindfulness-of-feeling
 ---
 
 First, find a comfortable position. We can begin just by settling into a comfortable posture, whatever that posture is for us right now.

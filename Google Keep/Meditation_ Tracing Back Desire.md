@@ -1,8 +1,8 @@
 ---
 aliases:
-  - "Meditation: Tracing Back Desire"
+- 'Meditation: Tracing Back Desire'
 tags:
-  - Meditation
+- meditation
 ---
 
 Sit comfortably, and take a few full breaths, releasing tension and letting go with the out breath. Scan your life and sense where the energy of wanting might be taking over in some way and causing suffering. Bring to mind a particular situation that might regularly trigger the desire or the thoughts that most stimulate this wanting. Let the situation or thoughts be as clear and close as possible so you can feel the wanting alive inside you.

@@ -1,7 +1,7 @@
 ---
 tags:
-  - Paramis
-  - Quotes
+- paramis
+- quotes
 ---
 
 What I want in my life is compassion,

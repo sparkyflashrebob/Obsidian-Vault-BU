@@ -1,6 +1,6 @@
 ---
 tags:
-  - Automobile-Info
+- automobile-info
 ---
 
 H11 are driving lights

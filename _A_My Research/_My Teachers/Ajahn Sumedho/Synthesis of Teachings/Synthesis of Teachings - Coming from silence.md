@@ -2,12 +2,13 @@
 date: 2007
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Coming from silence"
-location_event: "108 Talks Series / Ajahn Sumedho Archives (Ajahn Sumedho - Coming from silence (2007) - 85 - 108 Talks by Luang Por Sumedho.mp3.md)"
+talk_title: Coming from silence
+location_event: 108 Talks Series / Ajahn Sumedho Archives (Ajahn Sumedho - Coming
+  from silence (2007) - 85 - 108 Talks by Luang Por Sumedho.mp3.md)
 tags:
-  - ajahn-sumedho, coming-from-silence, consciousness, mindfulness, buddho
-  - dharma-talk
-  - spiritual-synthesis
+- mindfulness-practice
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Coming from silence

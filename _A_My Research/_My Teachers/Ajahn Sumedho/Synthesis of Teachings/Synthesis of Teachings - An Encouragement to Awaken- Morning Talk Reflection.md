@@ -2,12 +2,13 @@
 date: 2026-08-07
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "An Encouragement to Awaken- Morning Talk Reflection"
-location_event: "Audio Archive (Ajahn Sumedho - An Encouragement to Awaken- Morning Talk Reflection - 12 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: An Encouragement to Awaken- Morning Talk Reflection
+location_event: Audio Archive (Ajahn Sumedho - An Encouragement to Awaken- Morning
+  Talk Reflection - 12 - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #an-encouragement-to-awaken-morning, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #khandhas, #rationality-conceit, #samatha-vipassana, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: An Encouragement to Awaken- Morning Talk Reflection

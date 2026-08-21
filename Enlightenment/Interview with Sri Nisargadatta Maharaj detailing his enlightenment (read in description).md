@@ -1,14 +1,16 @@
 ---
-title: Interview with Sri Nisargadatta Maharaj detailing his enlightenment (read in description)
+title: Interview with Sri Nisargadatta Maharaj detailing his enlightenment (read in
+  description)
 source: https://www.reddit.com/r/nonduality/comments/1jqba4q/interview_with_sri_nisargadatta_maharaj_detailing/
 author:
-  - "[[Gretev1]]"
+- '[[Gretev1]]'
 published: 2025-04-02
 created: 2025-04-04
-description: "Questioner: Kindly tell us how you realised. Maharaj: I met my Guru when I was 34 and realised by 37. Questioner: What happene"
+description: 'Questioner: Kindly tell us how you realised. Maharaj: I met my Guru
+  when I was 34 and realised by 37. Questioner: What happene'
 tags:
-  - clippings
-  - "#Nibanna-Enlightenment"
+- clippings
+- nibanna-enlightenment
 ---
 Questioner: Kindly tell us how you realised.
 

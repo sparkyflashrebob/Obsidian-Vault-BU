@@ -1,9 +1,9 @@
 ---
 tags:
-  - teaching
-  - mindfulness
-  - Meditation
-  - Contemplation
+- teaching
+- mindfulness
+- meditation
+- contemplation
 ---
 
 ---

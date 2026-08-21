@@ -1,9 +1,9 @@
 ---
 aliases:
-  - AN 11:16 The Blessings of Loving kindness
+- AN 11:16 The Blessings of Loving kindness
 tags:
-  - core
-  - Compassion
+- core
+- compassion
 ---
 
 The Blessings of Metta

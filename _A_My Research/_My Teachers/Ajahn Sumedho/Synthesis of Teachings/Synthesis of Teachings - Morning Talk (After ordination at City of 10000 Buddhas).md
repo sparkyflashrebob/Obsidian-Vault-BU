@@ -2,12 +2,13 @@
 date: 2026-08-11
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Morning Talk (After ordination at City of 10000 Buddhas)"
-location_event: "Audio Archive (Ajahn Sumedho - Morning Talk (After ordination at City of 10000 Buddhas) - 0904 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Morning Talk (After ordination at City of 10000 Buddhas)
+location_event: Audio Archive (Ajahn Sumedho - Morning Talk (After ordination at City
+  of 10000 Buddhas) - 0904 - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #bikkhu-sangha, #four-noble-truths, #karma-and-rebirth, #luang-por-chah, #morning-talk-after-ordination-at-ci, #samatha-vipassana, #siladhara, #sound-of-silence
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Morning Talk (After ordination at City of 10000 Buddhas)

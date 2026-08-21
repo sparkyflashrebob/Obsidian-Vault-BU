@@ -1,6 +1,6 @@
 ---
 tags:
-  - Grief
+- grief
 ---
 
 Elizabeth Kubler-Ross "On Death & Dying"

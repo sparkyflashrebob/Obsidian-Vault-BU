@@ -1,8 +1,8 @@
 ---
 tags:
-  - Quotes
-  - ajahn_chah
-  - dhamma
+- quotes
+- ajahn-chah
+- dhamma
 Created: 2024-06-16
 ---
 

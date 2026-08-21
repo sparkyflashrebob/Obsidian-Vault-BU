@@ -1,6 +1,6 @@
 ---
 tags:
-  - Quotes
+- quotes
 ---
 
 The vision of Dhamma is that if the mind is healed, strengthened and calmed; if we are no longer swept away by our ideas, doubts, plans, regrets, grudges and phobias (to name but a few) — then we can cross the floods and, to use a Buddhist metaphor, be standing on ‘the Other Shore.’

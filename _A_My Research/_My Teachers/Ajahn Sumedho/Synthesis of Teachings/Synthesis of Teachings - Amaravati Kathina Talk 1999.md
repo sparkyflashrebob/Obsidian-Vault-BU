@@ -2,12 +2,13 @@
 date: 2026-08-07
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Amaravati Kathina Talk 1999"
-location_event: "Audio Archive (Ajahn Sumedho - Amaravati Kathina Talk 1999 - 1114 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Amaravati Kathina Talk 1999
+location_event: Audio Archive (Ajahn Sumedho - Amaravati Kathina Talk 1999 - 1114
+  - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #amaravati-kathina-talk-1999, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #grounded-awareness, #metta, #samatha-vipassana, #siladhara
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Amaravati Kathina Talk 1999

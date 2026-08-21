@@ -2,12 +2,14 @@
 date: 2026-08-08
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Day 6b - QA - Gratitude, Patience and a Toddler on the Path - 11 - Retreat 2019 - Luang Por Sumedho"
-location_event: "Audio Archive (Ajahn Sumedho - Day 6b - QA - Gratitude, Patience and a Toddler on the Path - 11 - Retreat 2019 - Luang Por Sumedho.mp3)"
+talk_title: Day 6b - QA - Gratitude, Patience and a Toddler on the Path - 11 - Retreat
+  2019 - Luang Por Sumedho
+location_event: Audio Archive (Ajahn Sumedho - Day 6b - QA - Gratitude, Patience and
+  a Toddler on the Path - 11 - Retreat 2019 - Luang Por Sumedho.mp3)
 tags:
-  - #ajahn-sumedho, #bikkhu-sangha, #day-6b-qa-gratitude-patience-and-a, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #metta, #rationality-conceit, #samatha-vipassana
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Day 6b - QA - Gratitude, Patience and a Toddler on the Path - 11 - Retreat 2019 - Luang Por Sumedho
@@ -15,7 +17,7 @@ tags:
 🧘 **Teacher / Speaker**: Ajahn Sumedho  
 📅 **Date of Talk**: 2026-08-08  
 📍 **Event / Source**: Audio Archive (Ajahn Sumedho - Day 6b - QA - Gratitude, Patience and a Toddler on the Path - 11 - Retreat 2019 - Luang Por Sumedho.mp3)  
-🏷️ **Topics / Tags**: #ajahn_sumedho, #bikkhu-sangha, #day-6b-qa-gratitude-patience-and-a, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #metta, #rationality-conceit, #samatha-vipassana  
+🏷️ **Topics / Tags**: #ajahn_sumedho, #bikkhu-sangha, #day-6b-qa, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #metta, #rationality-conceit, #samatha-vipassana  
 
 ---
 

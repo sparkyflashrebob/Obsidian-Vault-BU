@@ -1,7 +1,7 @@
 ### Speakers:
 - **Speaker / Presenter**: Ajahn Sumedho
 - **Event / Source**: Audio Archive (Ajahn Sumedho - Role of Teacher and Sangha - 20080111 - UNK Unknown.mp3)
-- **Tags / Topics**: #ajahn_sumedho, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #luang-por-chah, #rationality-conceit, #role-of-teacher-and-sangha-20080111, #samatha-vipassana
+- **Tags / Topics**: #ajahn_sumedho, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #luang-por-chah, #rationality-conceit, #role-of-teacher, #samatha-vipassana
 ## Summary:
 
 ### Progression of Talk

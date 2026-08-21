@@ -2,12 +2,13 @@
 date: 1997
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "A rapport with all of life"
-location_event: "Audio Archive (Ajahn Sumedho - A rapport with all of life (1997) - 42 - 108 Talks by Luang Por Sumedho.mp3)"
+talk_title: A rapport with all of life
+location_event: Audio Archive (Ajahn Sumedho - A rapport with all of life (1997) -
+  42 - 108 Talks by Luang Por Sumedho.mp3)
 tags:
-  - #a-rapport-with-all-of-life, #ajahn-sumedho, #anapanasati, #bikkhu-sangha, #fear-and-anxiety, #forgiveness-reconciliation, #rationality-conceit, #samatha-vipassana, #siladhara, #sound-of-silence
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: A rapport with all of life

@@ -1,7 +1,7 @@
 ### Speakers:
 - **Speaker / Presenter**: Ajahn Sumedho
 - **Event / Source**: Audio Archive (Ajahn Sumedho - Timelessness (30 Dec 2010) - 00 - Talks From Thailand.mp3)
-- **Tags / Topics**: #ajahn_sumedho, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #samatha-vipassana, #timelessness-30-dec-2010-00-talks-f
+- **Tags / Topics**: #ajahn_sumedho, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #samatha-vipassana, #timelessness00-talks-f
 ## Summary:
 
 ### Progression of Talk

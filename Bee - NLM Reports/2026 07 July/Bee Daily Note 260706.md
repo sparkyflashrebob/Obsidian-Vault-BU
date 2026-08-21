@@ -1,24 +1,24 @@
 ---
 tags:
-  - 12-step-framework
-  - bee-reports
-  - daily-notes
-  - dubstep
-  - electronic-music
-  - logging
-  - media-curation
-  - obsidian
-  - palm-skin-productions
-  - personal-development
-  - quantum
-  - quantum-physics
-  - recovery
-  - recovery-program
-  - spiritual-inquiry
-  - what-the-bleep-film
-  - workflow
-  - bee-nlm-report
-  - krisp-daily-summary
+- 12-step-framework
+- bee-reports
+- daily-notes
+- dubstep
+- electronic-music
+- logging
+- media-curation
+- obsidian
+- palm-skin-productions
+- personal-development
+- quantum
+- quantum-physics
+- recovery
+- recovery-program
+- spiritual-inquiry
+- what-the-bleep
+- workflow
+- bee-nlm-report
+- krisp-daily-summary
 ---
 
 # Facing Motivation and Effort Challenges, Concerns over micro reactor safety, and Facilitator returns to group work

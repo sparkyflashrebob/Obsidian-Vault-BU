@@ -1,7 +1,7 @@
 ### Speakers:
 - **Speaker / Presenter**: Ajahn Sumedho
 - **Event / Source**: Audio Archive (Ajahn Sumedho - Right Effort is No Effort - 00 - Unknown.mp3)
-- **Tags / Topics**: #ajahn_sumedho, #anapanasati, #bikkhu-sangha, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #karma-and-rebirth, #right-effort-is-no-effort-00-unknow, #samatha-vipassana, #siladhara
+- **Tags / Topics**: #ajahn_sumedho, #anapanasati, #bikkhu-sangha, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #karma-and-rebirth, #right-effort-is, #samatha-vipassana, #siladhara
 ## Summary:
 
 ### Progression of Talk

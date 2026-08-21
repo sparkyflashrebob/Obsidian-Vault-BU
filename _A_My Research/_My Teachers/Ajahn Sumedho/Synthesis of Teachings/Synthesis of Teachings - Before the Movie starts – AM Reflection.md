@@ -2,12 +2,13 @@
 date: 2026-08-08
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Before the Movie starts – AM Reflection"
-location_event: "Audio Archive (Ajahn Sumedho - Before the Movie starts – AM Reflection - 06 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Before the Movie starts – AM Reflection
+location_event: Audio Archive (Ajahn Sumedho - Before the Movie starts – AM Reflection
+  - 06 - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #before-the-movie-starts-am-reflecti, #bikkhu-sangha, #brahmaviharas, #fear-and-anxiety, #four-noble-truths, #karma-and-rebirth, #khandhas, #siladhara, #sound-of-silence, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Before the Movie starts – AM Reflection

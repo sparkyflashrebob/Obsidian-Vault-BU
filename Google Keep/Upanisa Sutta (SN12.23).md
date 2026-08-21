@@ -1,7 +1,7 @@
 ---
 tags:
-  - ForTeaching
-  - Factors-for-Awakening
+- forteaching
+- factors-for-awakening
 ---
 
 Upanisa Sutta (SN 12.23):

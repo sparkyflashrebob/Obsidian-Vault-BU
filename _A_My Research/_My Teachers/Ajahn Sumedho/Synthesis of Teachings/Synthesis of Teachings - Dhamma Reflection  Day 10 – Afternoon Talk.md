@@ -2,12 +2,13 @@
 date: 2026-08-09
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Dhamma Reflection  Day 10 – Afternoon Talk"
-location_event: "Audio Archive (Ajahn Sumedho - Dhamma Reflection  Day 10 – Afternoon Talk - 52 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Dhamma Reflection  Day 10 – Afternoon Talk
+location_event: Audio Archive (Ajahn Sumedho - Dhamma Reflection  Day 10 – Afternoon
+  Talk - 52 - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #dhamma-reflection-day-10-afternoon, #fear-and-anxiety, #four-noble-truths, #karma-and-rebirth, #siladhara, #sound-of-silence, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Dhamma Reflection  Day 10 – Afternoon Talk
@@ -15,7 +16,7 @@ tags:
 🧘 **Teacher / Speaker**: Ajahn Sumedho  
 📅 **Date of Talk**: 2026-08-09  
 📍 **Event / Source**: Audio Archive (Ajahn Sumedho - Dhamma Reflection  Day 10 – Afternoon Talk - 52 - Ajahn Sumedho Podcast by Amaravati.mp3)  
-🏷️ **Topics / Tags**: #ajahn_sumedho, #anapanasati, #dhamma-reflection-day-10-afternoon, #fear-and-anxiety, #four-noble-truths, #karma-and-rebirth, #siladhara, #sound-of-silence, #unborn  
+🏷️ **Topics / Tags**: #ajahn_sumedho, #anapanasati, #dhamma-reflection-day, #fear-and-anxiety, #four-noble-truths, #karma-and-rebirth, #siladhara, #sound-of-silence, #unborn  
 
 ---
 

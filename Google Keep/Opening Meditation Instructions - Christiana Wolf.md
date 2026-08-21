@@ -1,7 +1,7 @@
 ---
 tags:
-  - mmtcp
-  - Meditation
+- mmtcp
+- meditation
 ---
 
 So I'm inviting you to just find that comfortable posture, closing the eyes, if that feels

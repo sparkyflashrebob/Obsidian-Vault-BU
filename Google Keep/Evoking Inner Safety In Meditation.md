@@ -1,8 +1,8 @@
 ---
 tags:
-  - Fear
-  - Compassion
-  - Mind-States
+- fear
+- compassion
+- mind-states
 ---
 
 There are three primary pathways for increasing inner safety through meditation: attention to body and breath; wise and loving messages; and mentally evoking a person, place, activity, or memory.

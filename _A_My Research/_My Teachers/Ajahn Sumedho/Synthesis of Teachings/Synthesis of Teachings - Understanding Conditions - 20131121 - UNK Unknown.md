@@ -1,7 +1,7 @@
 ### Speakers:
 - **Speaker / Presenter**: Ajahn Sumedho
 - **Event / Source**: Audio Archive (Ajahn Sumedho - Understanding Conditions - 20131121 - UNK Unknown.mp3)
-- **Tags / Topics**: #ajahn_sumedho, #anapanasati, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #karma-and-rebirth, #rationality-conceit, #samatha-vipassana, #unborn, #understanding-conditions-20131121-u
+- **Tags / Topics**: #ajahn_sumedho, #anapanasati, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #karma-and-rebirth, #rationality-conceit, #samatha-vipassana, #unborn, #understanding-conditions-20131121
 ## Summary:
 
 ### Progression of Talk

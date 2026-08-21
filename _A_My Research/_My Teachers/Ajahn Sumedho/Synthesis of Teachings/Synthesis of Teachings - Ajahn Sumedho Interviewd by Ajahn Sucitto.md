@@ -2,12 +2,13 @@
 date: 2026-08-07
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Ajahn Sumedho Interviewd by Ajahn Sucitto"
-location_event: "Audio Archive (Ajahn Sumedho - Ajahn Sumedho Interviewd by Ajahn Sucitto - 1100 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Ajahn Sumedho Interviewd by Ajahn Sucitto
+location_event: Audio Archive (Ajahn Sumedho - Ajahn Sumedho Interviewd by Ajahn Sucitto
+  - 1100 - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #ajahn-sumedho-interviewd-by-ajahn-s, #anapanasati, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #rationality-conceit, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Ajahn Sumedho Interviewd by Ajahn Sucitto

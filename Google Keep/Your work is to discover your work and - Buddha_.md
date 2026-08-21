@@ -1,9 +1,10 @@
 ---
 aliases:
-  - “Your work is to discover your work and then with all your heart to give yourself to it.” - Buddha
-  - ""
+- “Your work is to discover your work and then with all your heart to give yourself
+  to it.” - Buddha
+- ''
 tags:
-  - Quotes
+- quotes
 ---
 
 “Your work is to discover your work and then with all your heart to give yourself to it.”

@@ -1,10 +1,10 @@
 ---
 tags:
-  - addiction_and_recovery
-  - dukkha
-  - quotes
-  - appropriate_attention
-  - Freedom
+- addiction-and-recovery
+- dukkha
+- quotes
+- appropriate-attention
+- freedom
 ---
 
 As the poet William Blake declared, “Those who enter the gates of heaven are not beings who have no passions or who have curbed the passions, but those who have cultivated an understanding of them.”

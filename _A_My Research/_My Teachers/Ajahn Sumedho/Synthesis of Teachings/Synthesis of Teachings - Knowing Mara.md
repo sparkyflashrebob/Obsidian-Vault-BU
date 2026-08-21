@@ -2,12 +2,13 @@
 date: 2026-08-10
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Knowing Mara"
-location_event: "Audio Archive (Ajahn Sumedho - Knowing Mara - 0213 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Knowing Mara
+location_event: Audio Archive (Ajahn Sumedho - Knowing Mara - 0213 - Ajahn Sumedho
+  Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #knowing-mara, #samatha-vipassana, #siladhara, #sound-of-silence, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Knowing Mara

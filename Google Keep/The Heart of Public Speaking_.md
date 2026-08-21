@@ -1,8 +1,8 @@
 ---
 aliases:
-  - "The Heart of Public Speaking "
+- 'The Heart of Public Speaking '
 tags:
-  - Public-Speaking-Presentations
+- public-speaking-presentations
 ---
 
 "Tell a story and make a point" 

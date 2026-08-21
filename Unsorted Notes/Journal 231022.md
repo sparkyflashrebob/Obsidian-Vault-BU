@@ -1,6 +1,6 @@
 ---
 tags:
-  - Journal
+- journal
 ---
 Meditation wonderful
 follow experience in

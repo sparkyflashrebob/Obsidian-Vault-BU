@@ -1,12 +1,12 @@
 ---
 tags:
-  - core
-  - Spiritual-Bypassing
-  - Sakkaya-Ditthi
-  - Spirituality
-  - Freedom
-  - emptiness
-  - Story
+- core
+- spiritual-bypassing
+- sakkaya-ditthi
+- spirituality
+- freedom
+- emptiness
+- story
 ---
 
 Direct Knowing

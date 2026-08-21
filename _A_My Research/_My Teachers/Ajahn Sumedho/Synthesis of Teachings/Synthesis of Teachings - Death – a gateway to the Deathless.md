@@ -2,12 +2,13 @@
 date: 1993
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Death – a gateway to the Deathless"
-location_event: "Audio Archive (Ajahn Sumedho - Death – a gateway to the Deathless (1993) - 36 - 108 Talks by Luang Por Sumedho.mp3)"
+talk_title: Death – a gateway to the Deathless
+location_event: Audio Archive (Ajahn Sumedho - Death – a gateway to the Deathless
+  (1993) - 36 - 108 Talks by Luang Por Sumedho.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #bikkhu-sangha, #death-a-gateway-to-the-deathless, #fear-and-anxiety, #four-noble-truths, #rationality-conceit, #samatha-vipassana, #sound-of-silence, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Death – a gateway to the Deathless

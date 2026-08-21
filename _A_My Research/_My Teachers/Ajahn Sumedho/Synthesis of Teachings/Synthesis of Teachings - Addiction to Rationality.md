@@ -2,12 +2,13 @@
 date: 2010
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Addiction to rationality"
-location_event: "Audio Archive (Ajahn Sumedho - Addiction to rationality (2010) - 105 - 108 Talks by Luang Por Sumedho.mp3)"
+talk_title: Addiction to rationality
+location_event: Audio Archive (Ajahn Sumedho - Addiction to rationality (2010) - 105
+  - 108 Talks by Luang Por Sumedho.mp3)
 tags:
-  - #addiction-to-rationality, #ajahn-sumedho, #anapanasati, #bikkhu-sangha, #fear-and-anxiety, #grounded-awareness, #karma-and-rebirth, #luang-por-chah, #rationality-conceit, #samatha-vipassana
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Addiction to rationality

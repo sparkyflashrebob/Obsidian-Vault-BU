@@ -1,7 +1,7 @@
 ---
 tags:
-  - Sakkaya-Ditthi
-  - quotes
+- sakkaya-ditthi
+- quotes
 ---
 
 Shunryu Suzuki writes in Zen Mind, Beginner’s Mind: 

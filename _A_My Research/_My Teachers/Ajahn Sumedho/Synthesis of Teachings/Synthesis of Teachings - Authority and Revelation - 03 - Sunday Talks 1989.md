@@ -2,12 +2,13 @@
 date: 2026-08-07
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Authority and Revelation - 03 - Sunday Talks 1989"
-location_event: "Audio Archive (Ajahn Sumedho - Authority and Revelation - 03 - Sunday Talks 1989.mp3)"
+talk_title: Authority and Revelation - 03 - Sunday Talks 1989
+location_event: Audio Archive (Ajahn Sumedho - Authority and Revelation - 03 - Sunday
+  Talks 1989.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #authority-and-revelation-03-sunday, #fear-and-anxiety, #four-noble-truths, #samatha-vipassana, #siladhara
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Authority and Revelation - 03 - Sunday Talks 1989
@@ -15,7 +16,7 @@ tags:
 🧘 **Teacher / Speaker**: Ajahn Sumedho  
 📅 **Date of Talk**: 2026-08-07  
 📍 **Event / Source**: Audio Archive (Ajahn Sumedho - Authority and Revelation - 03 - Sunday Talks 1989.mp3)  
-🏷️ **Topics / Tags**: #ajahn_sumedho, #anapanasati, #authority-and-revelation-03-sunday, #fear-and-anxiety, #four-noble-truths, #samatha-vipassana, #siladhara  
+🏷️ **Topics / Tags**: #ajahn_sumedho, #anapanasati, #authority-and-revelation, #fear-and-anxiety, #four-noble-truths, #samatha-vipassana, #siladhara  
 
 ---
 

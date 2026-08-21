@@ -2,12 +2,13 @@
 date: 1981
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Effort, devotion, gratitude, joy"
-location_event: "108 Talks Series / Ajahn Sumedho Archives (Ajahn Sumedho - Effort, devotion, gratitude, joy (1981) - 10 - 108 Talks by Luang Por Sumedho.mp3.md)"
+talk_title: Effort, devotion, gratitude, joy
+location_event: 108 Talks Series / Ajahn Sumedho Archives (Ajahn Sumedho - Effort,
+  devotion, gratitude, joy (1981) - 10 - 108 Talks by Luang Por Sumedho.mp3.md)
 tags:
-  - ajahn-sumedho, effort,-devotion,-gratitude,-joy, consciousness, mindfulness, buddho
-  - dharma-talk
-  - spiritual-synthesis
+- mindfulness-practice
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Effort, devotion, gratitude, joy

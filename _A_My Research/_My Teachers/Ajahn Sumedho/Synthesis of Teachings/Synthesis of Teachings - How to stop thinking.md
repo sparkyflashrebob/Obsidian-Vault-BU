@@ -2,12 +2,13 @@
 date: 2004
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "How to stop thinking"
-location_event: "108 Talks Series / Ajahn Sumedho Archives (Ajahn Sumedho - How to stop thinking (2004) - 69 - 108 Talks by Luang Por Sumedho.mp3.md)"
+talk_title: How to stop thinking
+location_event: 108 Talks Series / Ajahn Sumedho Archives (Ajahn Sumedho - How to
+  stop thinking (2004) - 69 - 108 Talks by Luang Por Sumedho.mp3.md)
 tags:
-  - ajahn-sumedho, how-to-stop-thinking, consciousness, mindfulness, buddho
-  - dharma-talk
-  - spiritual-synthesis
+- mindfulness-practice
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: How to stop thinking

@@ -1,6 +1,6 @@
 ---
 tags:
-  - Quotes
+- quotes
 ---
 
 Archbishop Tutu who says in Africa when you ask someone "How are you?" the reply you

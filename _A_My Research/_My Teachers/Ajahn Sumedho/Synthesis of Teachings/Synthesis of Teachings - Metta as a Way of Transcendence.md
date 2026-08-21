@@ -2,12 +2,13 @@
 date: 2026-08-10
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Metta as a Way of Transcendence"
-location_event: "Audio Archive (Ajahn Sumedho - Metta as a Way of Transcendence - 0211 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Metta as a Way of Transcendence
+location_event: Audio Archive (Ajahn Sumedho - Metta as a Way of Transcendence - 0211
+  - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #brahmaviharas, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #karma-and-rebirth, #metta, #metta-as-a-way-of-transcendence, #samatha-vipassana, #sound-of-silence, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Metta as a Way of Transcendence

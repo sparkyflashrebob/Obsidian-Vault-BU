@@ -1,7 +1,7 @@
 ---
 tags:
-  - core
-  - Paramis
+- core
+- paramis
 ---
 
 Merit is not only a concept, but also a way of living.[53] The Pāli canon identifies three bases of merit (puññakiriyā-vatthu),[2][38][39] in order of difficulty:[54][note 1]

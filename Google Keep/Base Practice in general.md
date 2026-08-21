@@ -1,6 +1,6 @@
 ---
 tags:
-  - "#mindfulness_of_the_body"
+- mindfulness-of-body
 ---
 
 

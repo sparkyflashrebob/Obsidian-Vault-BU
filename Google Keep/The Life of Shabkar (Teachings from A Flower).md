@@ -1,6 +1,6 @@
 ---
 tags:
-  - Prayer-Book
+- prayer-book
 ---
 
 The following is an excerpt from The Life of Shabkar, a book of teachings by an eighteenth-century wandering Tibetan yogi, and is a powerful testament to the truth of change: 

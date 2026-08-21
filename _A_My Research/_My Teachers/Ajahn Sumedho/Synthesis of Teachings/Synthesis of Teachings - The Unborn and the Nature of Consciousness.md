@@ -2,12 +2,12 @@
 date: 2008-06-07
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "The Unborn and the Nature of Consciousness"
-location_event: "Spirit Rock Monastic Retreat / 108 Talks Series"
+talk_title: The Unborn and the Nature of Consciousness
+location_event: Spirit Rock Monastic Retreat / 108 Talks Series
 tags:
-  - ajahn-sumedho, unborn, consciousness, mindfulness, dualism, buddho
-  - dharma-talk
-  - spiritual-synthesis
+- mindfulness-practice
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: The Unborn and the Nature of Consciousness

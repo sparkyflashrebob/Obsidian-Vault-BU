@@ -1,8 +1,8 @@
 ---
 aliases:
-  - GUIDED MEDITATION ON PAIN AND DISCOMFORT [TRANSCRIPT]
+- GUIDED MEDITATION ON PAIN AND DISCOMFORT [TRANSCRIPT]
 tags:
-  - Meditation
+- meditation
 ---
 
 Sitting in a way that's comfortable for you, closing your eyes, and collecting your

@@ -1,6 +1,6 @@
 ---
 tags:
-  - Terminology
+- terminology
 ---
 
 Upaya (Sanskrit: upāya, expedient means, pedagogy) is a term used in Buddhism to refer to an aspect of guidance along the Buddhist paths to liberation where a conscious, voluntary action "is driven by an incomplete reasoning" about its direction. Upaya is often used with kaushalya (कौशल्य, "cleverness"), upaya-kaushalya meaning "skill in means".

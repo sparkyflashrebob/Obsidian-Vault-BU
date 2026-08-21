@@ -2,12 +2,13 @@
 date: 2026-08-10
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Learning From Suffering"
-location_event: "Audio Archive (Ajahn Sumedho - Learning From Suffering - 0716 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Learning From Suffering
+location_event: Audio Archive (Ajahn Sumedho - Learning From Suffering - 0716 - Ajahn
+  Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #karma-and-rebirth, #learning-from-suffering, #samatha-vipassana, #sound-of-silence, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Learning From Suffering

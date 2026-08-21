@@ -2,12 +2,13 @@
 date: 2026-08-08
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Buddhism – Present Moment Awareness"
-location_event: "Audio Archive (Ajahn Sumedho - Buddhism – Present Moment Awareness - 56 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Buddhism – Present Moment Awareness
+location_event: Audio Archive (Ajahn Sumedho - Buddhism – Present Moment Awareness
+  - 56 - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #bikkhu-sangha, #buddhism-present-moment-awareness, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #khandhas, #rationality-conceit, #siladhara, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Buddhism – Present Moment Awareness

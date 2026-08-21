@@ -1,9 +1,9 @@
 ---
 aliases:
-  - The Buddha's Words on Loving-Kindness
+- The Buddha's Words on Loving-Kindness
 tags:
-  - Paramis
-  - Chanting
+- paramis
+- chanting
 ---
 
 [This is what should be done] 

@@ -2,12 +2,13 @@
 date: 2026-08-10
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "How Do We Practice – Lay Retreat (166)"
-location_event: "Audio Archive (Ajahn Sumedho - How Do We Practice – Lay Retreat (166) - 0900 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: How Do We Practice – Lay Retreat (166)
+location_event: Audio Archive (Ajahn Sumedho - How Do We Practice – Lay Retreat (166)
+  - 0900 - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #how-do-we-practice-lay-retreat-166, #lay-retreat, #samatha-vipassana, #siladhara, #sound-of-silence
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: How Do We Practice – Lay Retreat (166)
@@ -15,7 +16,7 @@ tags:
 🧘 **Teacher / Speaker**: Ajahn Sumedho  
 📅 **Date of Talk**: 2026-08-10  
 📍 **Event / Source**: Audio Archive (Ajahn Sumedho - How Do We Practice – Lay Retreat (166) - 0900 - Ajahn Sumedho Podcast by Amaravati.mp3)  
-🏷️ **Topics / Tags**: #ajahn_sumedho, #anapanasati, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #how-do-we-practice-lay-retreat-166, #lay-retreat, #samatha-vipassana, #siladhara, #sound-of-silence  
+🏷️ **Topics / Tags**: #ajahn_sumedho, #anapanasati, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #how-do-we, #lay-retreat, #samatha-vipassana, #siladhara, #sound-of-silence  
 
 ---
 

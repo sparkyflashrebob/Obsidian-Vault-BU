@@ -2,12 +2,13 @@
 date: 1980
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "It’s my life, I’ll do what I want"
-location_event: "Audio Archive (Ajahn Sumedho - It’s my life, I’ll do what I want (1980) - 04 - 108 Talks by Luang Por Sumedho.mp3)"
+talk_title: It’s my life, I’ll do what I want
+location_event: Audio Archive (Ajahn Sumedho - It’s my life, I’ll do what I want (1980)
+  - 04 - 108 Talks by Luang Por Sumedho.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #brahmaviharas, #fear-and-anxiety, #four-noble-truths, #it-s-my-life-i-ll-do-what-i-want, #karma-and-rebirth, #metta, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: It’s my life, I’ll do what I want

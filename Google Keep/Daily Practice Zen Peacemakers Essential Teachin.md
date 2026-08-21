@@ -1,8 +1,8 @@
 ---
 aliases:
-  - Daily Practice (Zen Peacemakers) Essential Teachings of Dogen
+- Daily Practice (Zen Peacemakers) Essential Teachings of Dogen
 tags:
-  - Zen
+- zen
 ---
 
 Essential Teachings of Dogen

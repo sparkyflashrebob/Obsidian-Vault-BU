@@ -1,7 +1,7 @@
 ---
 tags:
-  - Vital-Info
-  - Medical
+- vital-info
+- medical
 ---
 
 

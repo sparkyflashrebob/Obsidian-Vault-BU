@@ -47,7 +47,7 @@ tags:
   *Summary*: "Maya, It looks we are pausing on moving from our current apartment at this time. Can you help us reverse any charges for placing the application, if possible? We really apprec..."
 
 - **To**: `The Grove Lux Apts <thegroveluxapts@emailrelay.com>` | **Subject**: Re: The Grove Lux Apts: Thank you for touring with me! (7:19 PM)
-  *Summary*: "Maya, FYI - we would to move forward with #0712. I will be filling out the application shortly. On Tue, Jun 23, 2026 at 6:12 PM Andy McGuire &lt;sparkyflashrebob@gmail.com&gt;..."
+  *Summary*: "Maya, FYI - we would to move forward with. I will be filling out the application shortly. On Tue, Jun 23, 2026 at 6:12 PM Andy McGuire &lt;sparkyflashrebob@gmail.com&gt;..."
 
 - **To**: `The Grove Lux Apts <thegroveluxapts@emailrelay.com>` | **Subject**: Re: The Grove Lux Apts: Thank you for touring with me! (6:12 PM)
   *Summary*: "Maya, Would you mind me coming up and doing some measurements for the Townhouse? I layouts on your website look a bit off so I would to confirm. 😁 On Tue, Jun 23, 2026 at 11:2..."

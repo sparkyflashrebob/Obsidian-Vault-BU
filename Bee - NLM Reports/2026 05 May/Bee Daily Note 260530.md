@@ -1,23 +1,23 @@
 ---
 tags:
-  - 12-step-framework
-  - bee-reports
-  - daily-notes
-  - logging
-  - monastic-teachings
-  - monasticism
-  - obsidian
-  - personal-development
-  - quantum
-  - quantum-physics
-  - recovery
-  - recovery-program
-  - spiritual-inquiry
-  - thai-forest-tradition
-  - what-the-bleep-film
-  - workflow
-  - bee-nlm-report
-  - krisp-daily-summary
+- 12-step-framework
+- bee-reports
+- daily-notes
+- logging
+- monastic-teachings
+- monasticism
+- obsidian
+- personal-development
+- quantum
+- quantum-physics
+- recovery
+- recovery-program
+- spiritual-inquiry
+- thai-forest-tradition
+- what-the-bleep
+- workflow
+- bee-nlm-report
+- krisp-daily-summary
 ---
 
 # Spiritual conversation with friend, Reflecting on Buddhist teachings, and Mindfulness and Awareness Discussion

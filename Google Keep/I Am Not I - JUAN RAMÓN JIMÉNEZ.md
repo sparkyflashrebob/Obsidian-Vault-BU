@@ -1,7 +1,7 @@
 ---
 tags:
-  - Identity-View
-  - Poems
+- identity-view
+- poems
 ---
 
 TRANSLATED BY ROBERT BLY

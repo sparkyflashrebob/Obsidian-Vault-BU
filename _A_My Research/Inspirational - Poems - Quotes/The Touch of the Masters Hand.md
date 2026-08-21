@@ -1,6 +1,8 @@
 ---
 Author: Myra 'Brooks' Welch
-tags: Inspirational, Poems
+tags:
+- inspirational
+- poems
 ---
 
 

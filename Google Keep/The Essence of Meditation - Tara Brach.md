@@ -1,8 +1,8 @@
 ---
 tags:
-  - core
-  - Meditation
-  - Meditation-Info
+- core
+- meditation
+- meditation-info
 ---
 
 Meditation is commonly described as a training of mental attention that awakens

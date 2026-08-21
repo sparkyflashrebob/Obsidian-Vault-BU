@@ -1,10 +1,10 @@
 ---
 tags:
-  - mmtcp
-  - core
-  - mindfulness
-  - ForTeaching
-  - Mindfulness-of-Thinking
+- mmtcp
+- core
+- mindfulness
+- forteaching
+- mindfulness-of-thinking
 ---
 
 1-minute practice (loving mindful awareness)

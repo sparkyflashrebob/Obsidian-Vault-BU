@@ -1,12 +1,12 @@
 ---
 tags:
-  - nourishment
-  - dhamma
-  - dharma
-  - "#phenomena"
-  - "#feeding"
-  - "#desire"
-  - "#the_four_nutriments_of_life"
+- nourishment
+- dhamma
+- dharma
+- phenomena
+- feeding
+- desire
+- the-four-nutriments
 Subject: Nourishment
 Created: 2023-10-14
 ---

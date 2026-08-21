@@ -2,12 +2,13 @@
 date: 2009
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Using the Dhammacakka Sutta for awakening"
-location_event: "108 Talks Series / Ajahn Sumedho Archives (Ajahn Sumedho - Using the Dhammacakka Sutta for awakening (2009) - 95 - 108 Talks by Luang Por Sumedho.mp3.md)"
+talk_title: Using the Dhammacakka Sutta for awakening
+location_event: 108 Talks Series / Ajahn Sumedho Archives (Ajahn Sumedho - Using the
+  Dhammacakka Sutta for awakening (2009) - 95 - 108 Talks by Luang Por Sumedho.mp3.md)
 tags:
-  - ajahn-sumedho, using-the-dhammacakka-sutta-for-awakening, consciousness, mindfulness, buddho
-  - dharma-talk
-  - spiritual-synthesis
+- mindfulness-practice
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Using the Dhammacakka Sutta for awakening

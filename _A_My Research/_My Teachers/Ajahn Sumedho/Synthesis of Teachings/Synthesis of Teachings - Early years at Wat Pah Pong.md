@@ -2,12 +2,13 @@
 date: 2009
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Early years at Wat Pah Pong"
-location_event: "Audio Archive (Ajahn Sumedho - Early years at Wat Pah Pong (2009) - 94 - 108 Talks by Luang Por Sumedho.mp3)"
+talk_title: Early years at Wat Pah Pong
+location_event: Audio Archive (Ajahn Sumedho - Early years at Wat Pah Pong (2009)
+  - 94 - 108 Talks by Luang Por Sumedho.mp3)
 tags:
-  - #ajahn-sumedho, #early-years-at-wat-pah-pong, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #luang-por-chah, #rationality-conceit, #samatha-vipassana, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Early years at Wat Pah Pong

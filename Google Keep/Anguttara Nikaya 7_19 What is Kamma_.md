@@ -1,8 +1,8 @@
 ---
 aliases:
-  - Anguttara Nikaya 7:19 What is Kamma?
+- Anguttara Nikaya 7:19 What is Kamma?
 tags:
-  - Karma
+- karma
 ---
 
 19 (9) Deities

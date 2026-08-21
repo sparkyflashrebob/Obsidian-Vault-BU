@@ -2,12 +2,13 @@
 date: 1978
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Brahma Viharas"
-location_event: "Audio Archive (Ajahn Sumedho - Brahma Viharas (1978) - 01 - 108 Talks by Luang Por Sumedho.mp3)"
+talk_title: Brahma Viharas
+location_event: Audio Archive (Ajahn Sumedho - Brahma Viharas (1978) - 01 - 108 Talks
+  by Luang Por Sumedho.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #brahma-viharas, #brahmaviharas, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #samatha-vipassana
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Brahma Viharas

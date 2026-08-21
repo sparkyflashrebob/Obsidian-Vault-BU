@@ -1,8 +1,8 @@
 ---
 aliases:
-  - Practical Recommendations for Teaching Mindfulness Effectively
+- Practical Recommendations for Teaching Mindfulness Effectively
 tags:
-  - ForTeaching
+- forteaching
 ---
 
 Develop strong practice foundations

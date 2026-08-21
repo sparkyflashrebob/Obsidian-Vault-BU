@@ -1,8 +1,9 @@
 ---
 aliases:
-  - Skills and Competencies for Responding to Frequently Asked Questions (FAQs) PLUS ANSWERING QUESTIONS NOTES
+- Skills and Competencies for Responding to Frequently Asked Questions (FAQs) PLUS
+  ANSWERING QUESTIONS NOTES
 tags:
-  - ForTeaching
+- forteaching
 ---
 
 This document contains important skills and competencies for responding to frequently asked questions (FAQs).

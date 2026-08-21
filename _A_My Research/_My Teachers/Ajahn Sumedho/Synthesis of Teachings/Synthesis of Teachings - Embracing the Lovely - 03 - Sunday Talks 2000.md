@@ -2,12 +2,13 @@
 date: 2026-08-09
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Embracing the Lovely - 03 - Sunday Talks 2000"
-location_event: "Audio Archive (Ajahn Sumedho - Embracing the Lovely - 03 - Sunday Talks 2000.mp3)"
+talk_title: Embracing the Lovely - 03 - Sunday Talks 2000
+location_event: Audio Archive (Ajahn Sumedho - Embracing the Lovely - 03 - Sunday
+  Talks 2000.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #embracing-the-lovely-03-sunday-talk, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #rationality-conceit, #samatha-vipassana, #sound-of-silence
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Embracing the Lovely - 03 - Sunday Talks 2000
@@ -15,7 +16,7 @@ tags:
 🧘 **Teacher / Speaker**: Ajahn Sumedho  
 📅 **Date of Talk**: 2026-08-09  
 📍 **Event / Source**: Audio Archive (Ajahn Sumedho - Embracing the Lovely - 03 - Sunday Talks 2000.mp3)  
-🏷️ **Topics / Tags**: #ajahn_sumedho, #anapanasati, #embracing-the-lovely-03-sunday-talk, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #rationality-conceit, #samatha-vipassana, #sound-of-silence  
+🏷️ **Topics / Tags**: #ajahn_sumedho, #anapanasati, #embracing-the-lovely, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #rationality-conceit, #samatha-vipassana, #sound-of-silence  
 
 ---
 

@@ -1,7 +1,7 @@
 ### Speakers:
 - **Speaker / Presenter**: Ajahn Sumedho
 - **Event / Source**: Audio Archive (Ajahn Sumedho - Day 8a – Talk – Adapt to Change with Wisdom - 14 - Ajahn Sumedho Podcast by Amaravati.mp3)
-- **Tags / Topics**: #ajahn_sumedho, #bikkhu-sangha, #day-8a-talk-adapt-to-change-with-wi, #fear-and-anxiety, #four-noble-truths, #samatha-vipassana, #unborn
+- **Tags / Topics**: #ajahn_sumedho, #bikkhu-sangha, #day-8a-talk, #fear-and-anxiety, #four-noble-truths, #samatha-vipassana, #unborn
 ## Summary:
 
 ### Progression of Talk

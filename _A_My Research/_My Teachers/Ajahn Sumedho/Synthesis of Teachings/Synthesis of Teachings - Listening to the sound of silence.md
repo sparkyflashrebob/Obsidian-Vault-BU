@@ -2,12 +2,13 @@
 date: 1999
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Listening to the sound of silence"
-location_event: "Audio Archive (Ajahn Sumedho - Listening to the sound of silence (1999) - 49 - 108 Talks by Luang Por Sumedho.mp3)"
+talk_title: Listening to the sound of silence
+location_event: Audio Archive (Ajahn Sumedho - Listening to the sound of silence (1999)
+  - 49 - 108 Talks by Luang Por Sumedho.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #bikkhu-sangha, #forgiveness-reconciliation, #grounded-awareness, #listening-to-the-sound-of-silence, #samatha-vipassana, #sound-of-silence
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Listening to the sound of silence

@@ -1,8 +1,8 @@
 ---
 aliases:
-  - " \"Take my advice — I'm not using it.\""
+- ' "Take my advice — I''m not using it."'
 tags:
-  - spiritual_practice
+- spiritual-practice
 ---
 
 1. Wear life like a loose garment. 

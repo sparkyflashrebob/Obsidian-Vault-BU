@@ -2,12 +2,13 @@
 date: 2026-08-09
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Dhamma as “The Real”"
-location_event: "Audio Archive (Ajahn Sumedho - Dhamma as “The Real” - 62 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Dhamma as “The Real”
+location_event: Audio Archive (Ajahn Sumedho - Dhamma as “The Real” - 62 - Ajahn Sumedho
+  Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #bikkhu-sangha, #brahmaviharas, #dhamma-as-the-real, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #luang-por-chah, #rationality-conceit, #samatha-vipassana, #siladhara, #sound-of-silence, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Dhamma as “The Real”

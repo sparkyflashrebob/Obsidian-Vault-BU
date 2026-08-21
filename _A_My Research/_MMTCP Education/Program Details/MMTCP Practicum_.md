@@ -1,9 +1,9 @@
 ---
 aliases:
-  - "MMTCP Practicum "
+- 'MMTCP Practicum '
 tags:
-  - mmtcp
-  - ForTeaching
+- mmtcp
+- forteaching
 Created: 2024-07-21
 ---
 

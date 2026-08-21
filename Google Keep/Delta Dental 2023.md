@@ -1,6 +1,6 @@
 ---
 tags:
-  - Medical
+- medical
 ---
 
 

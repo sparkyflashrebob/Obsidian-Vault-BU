@@ -1,6 +1,6 @@
 ---
 tags:
-  - Zen
+- zen
 ---
 
 Whatever position you choose, sitting in a chair, full lotus, half-lotus, Burmese, or kneeling with a cushion or bench, choose a posture you can hold comfortably for 30 minutes.

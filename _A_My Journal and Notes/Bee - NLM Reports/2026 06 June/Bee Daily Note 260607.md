@@ -1,26 +1,25 @@
 ---
-date: "2026-06-07"
-
+date: '2026-06-07'
 tags:
-  - amor-fati
-  - stoicism
-  - institute-for-mental-physics
-  - joshua-tree-retreat
-  - dharma-and-meditation
-  - health-monitoring
-  - housing-search
-  - petaluma-move
-  - physical-discomfort
-  - recovery-fellowship
-  - buddhist-principles
-  - fellowship
-  - recovery-principles
-  - sila
-  - bee-reports
-  - daily-notes
-  - daily-diary
-  - bee-nlm-report
-  - activity-details-architecture
+- amor-fati
+- stoicism
+- mental-physics
+- joshua-tree-retreat
+- dharma-and-meditation
+- health-monitoring
+- housing-search
+- petaluma-move
+- physical-discomfort
+- recovery-fellowship
+- buddhist-principles
+- fellowship
+- recovery-principles
+- sila
+- bee-reports
+- daily-notes
+- daily-diary
+- bee-nlm-report
+- activity-details-architecture
 ---
 
 # Receiving Trauma Healing Feedback, Desert trip conversations, Retirement relief from corporate pressure

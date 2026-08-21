@@ -1,23 +1,23 @@
 ---
 tags:
-  - bee-reports
-  - bonds
-  - cinema-analysis
-  - concert-planning
-  - concerts
-  - daily-notes
-  - dune
-  - dune-part-two
-  - fidelity-investments
-  - financial-inquiry
-  - fixed-income-strategy
-  - logging
-  - media-curation
-  - obsidian
-  - rise-up-sing-out
-  - workflow
-  - bee-nlm-report
-  - krisp-daily-summary
+- bee-reports
+- bonds
+- cinema-analysis
+- concert-planning
+- concerts
+- daily-notes
+- dune
+- dune-part-two
+- fidelity-investments
+- financial-inquiry
+- fixed-income-strategy
+- logging
+- media-curation
+- obsidian
+- rise-up-sing
+- workflow
+- bee-nlm-report
+- krisp-daily-summary
 ---
 
 # Mindfulness and ethical contemplation, Electronic bill setup technical difficulties, and Audit new automation data reports

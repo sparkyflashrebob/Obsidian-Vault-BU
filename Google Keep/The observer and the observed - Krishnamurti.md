@@ -1,7 +1,7 @@
 ---
 tags:
-  - "#observer"
-  - "#no_observer"
+- observer
+- no-observer
 Author: Krishnamurti
 ---
 

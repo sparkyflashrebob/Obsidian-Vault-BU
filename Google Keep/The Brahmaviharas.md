@@ -1,6 +1,6 @@
 ---
 tags:
-  - Paramis
+- paramis
 ---
 
 Love and compassion are necessities, not luxuries. Without them humanity cannot survive.

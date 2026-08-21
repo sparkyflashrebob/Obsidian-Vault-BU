@@ -2,12 +2,13 @@
 date: 2026-08-07
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Anagarika Ordination"
-location_event: "Audio Archive (Ajahn Sumedho - Anagarika Ordination - 74 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Anagarika Ordination
+location_event: Audio Archive (Ajahn Sumedho - Anagarika Ordination - 74 - Ajahn Sumedho
+  Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #anagarika-ordination, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #rationality-conceit, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Anagarika Ordination

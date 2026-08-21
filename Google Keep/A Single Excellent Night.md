@@ -1,6 +1,6 @@
 ---
 tags:
-  - Karma
+- karma
 ---
 
 “Let not a person revive the past 

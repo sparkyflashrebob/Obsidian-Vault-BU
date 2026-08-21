@@ -2,12 +2,13 @@
 date: 2001
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Happiness is being nobody"
-location_event: "Audio Archive (Ajahn Sumedho - Happiness is being nobody (2001) - 54 - 108 Talks by Luang Por Sumedho.mp3)"
+talk_title: Happiness is being nobody
+location_event: Audio Archive (Ajahn Sumedho - Happiness is being nobody (2001) -
+  54 - 108 Talks by Luang Por Sumedho.mp3)
 tags:
-  - #ajahn-sumedho, #bikkhu-sangha, #forgiveness-reconciliation, #four-noble-truths, #happiness-is-being-nobody, #luang-por-chah, #rationality-conceit, #samatha-vipassana, #siladhara
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Happiness is being nobody

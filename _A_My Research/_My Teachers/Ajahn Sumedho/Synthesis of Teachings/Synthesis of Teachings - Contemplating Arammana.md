@@ -2,12 +2,13 @@
 date: 2003
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Contemplating Arammana"
-location_event: "Audio Archive (Ajahn Sumedho - Contemplating Arammana (2003) - 64 - 108 Talks by Luang Por Sumedho.mp3)"
+talk_title: Contemplating Arammana
+location_event: Audio Archive (Ajahn Sumedho - Contemplating Arammana (2003) - 64
+  - 108 Talks by Luang Por Sumedho.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #contemplating-arammana, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #grounded-awareness, #luang-por-chah, #samatha-vipassana, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Contemplating Arammana

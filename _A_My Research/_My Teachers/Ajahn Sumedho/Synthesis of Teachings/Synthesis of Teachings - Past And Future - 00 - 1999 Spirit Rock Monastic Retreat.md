@@ -1,7 +1,7 @@
 ### Speakers:
 - **Speaker / Presenter**: Ajahn Sumedho
 - **Event / Source**: Audio Archive (Ajahn Sumedho - Past And Future - 00 - 1999 Spirit Rock Monastic Retreat.mp3)
-- **Tags / Topics**: #ajahn_sumedho, #anapanasati, #bikkhu-sangha, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #khandhas, #past-and-future-00-1999-spirit-rock, #rationality-conceit, #samatha-vipassana, #sound-of-silence
+- **Tags / Topics**: #ajahn_sumedho, #anapanasati, #bikkhu-sangha, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #khandhas, #past-and-future, #rationality-conceit, #samatha-vipassana, #sound-of-silence
 ## Summary:
 
 ### Progression of Talk

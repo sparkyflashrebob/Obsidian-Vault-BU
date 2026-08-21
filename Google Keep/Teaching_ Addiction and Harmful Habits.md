@@ -1,11 +1,11 @@
 ---
 aliases:
-  - "Teaching: Addiction and Harmful Habits"
+- 'Teaching: Addiction and Harmful Habits'
 tags:
-  - mmtcp
-  - mindfulness
-  - ForTeaching
-  - desire
+- mmtcp
+- mindfulness
+- forteaching
+- desire
 ---
 
 Students

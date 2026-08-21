@@ -2,12 +2,13 @@
 date: 2026-08-08
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Day 7c – DT – Generosity, Morality, and the Cultivation"
-location_event: "Audio Archive (Ajahn Sumedho - Day 7c – DT – Generosity, Morality, and the Cultivation - 19 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Day 7c – DT – Generosity, Morality, and the Cultivation
+location_event: Audio Archive (Ajahn Sumedho - Day 7c – DT – Generosity, Morality,
+  and the Cultivation - 19 - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #bikkhu-sangha, #day-7c-dt-generosity-morality-and-t, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #metta, #samatha-vipassana
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Day 7c – DT – Generosity, Morality, and the Cultivation
@@ -15,7 +16,7 @@ tags:
 🧘 **Teacher / Speaker**: Ajahn Sumedho  
 📅 **Date of Talk**: 2026-08-08  
 📍 **Event / Source**: Audio Archive (Ajahn Sumedho - Day 7c – DT – Generosity, Morality, and the Cultivation - 19 - Ajahn Sumedho Podcast by Amaravati.mp3)  
-🏷️ **Topics / Tags**: #ajahn_sumedho, #anapanasati, #bikkhu-sangha, #day-7c-dt-generosity-morality-and-t, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #metta, #samatha-vipassana  
+🏷️ **Topics / Tags**: #ajahn_sumedho, #anapanasati, #bikkhu-sangha, #day-7c-dt, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #metta, #samatha-vipassana  
 
 ---
 

@@ -1,7 +1,7 @@
 ### Speakers:
 - **Speaker / Presenter**: Ajahn Sumedho
 - **Event / Source**: Audio Archive (Ajahn Sumedho - What’s Noble About Suffering (107) - 0114 - Ajahn Sumedho Podcast by Amaravati.mp3)
-- **Tags / Topics**: #ajahn-sumedho, #anapanasati, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #khandhas, #samatha-vipassana, #sound-of-silence, #unborn, #what-s-noble-about-suffering-107
+- **Tags / Topics**: #ajahn-sumedho, #anapanasati, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #khandhas, #samatha-vipassana, #sound-of-silence, #unborn, #what-s-noble
 ## Summary:
 
 ### Progression of Talk

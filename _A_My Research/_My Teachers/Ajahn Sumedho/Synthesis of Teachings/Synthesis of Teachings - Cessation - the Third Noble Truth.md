@@ -2,12 +2,13 @@
 date: 1985
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Cessation - the Third Noble Truth"
-location_event: "Audio Archive (Ajahn Sumedho - Cessation - the Third Noble Truth (1985) - 15 - 108 Talks by Luang Por Sumedho.mp3)"
+talk_title: Cessation - the Third Noble Truth
+location_event: Audio Archive (Ajahn Sumedho - Cessation - the Third Noble Truth (1985)
+  - 15 - 108 Talks by Luang Por Sumedho.mp3)
 tags:
-  - #ajahn-sumedho, #bikkhu-sangha, #cessation-the-third-noble-truth, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #rationality-conceit, #samatha-vipassana, #sound-of-silence
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Cessation - the Third Noble Truth

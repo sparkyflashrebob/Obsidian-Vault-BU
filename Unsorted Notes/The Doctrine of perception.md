@@ -1,8 +1,8 @@
 ---
 tags:
-  - direct
-  - experience
-  - "#doctrine_of_perception"
+- direct
+- experience
+- doctrine-of-perception
 ---
 source
 file:///C:/Users/SparkyDesktop/Downloads/tah_suwannawong,+Journal+manager,+21_Mokesh+(V.3)%20(1).pdf

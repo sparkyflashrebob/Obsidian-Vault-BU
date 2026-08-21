@@ -1,7 +1,7 @@
 ---
 tags:
-  - mindfulness
-  - ForTeaching
+- mindfulness
+- forteaching
 ---
 
 3 LEVELS OF MINDFULNESS AS A GUIDE TO PEACEFULNESS

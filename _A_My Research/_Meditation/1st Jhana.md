@@ -1,5 +1,6 @@
 ---
-tags: Meditation
+tags:
+- meditation
 ---
 
 

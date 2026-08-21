@@ -1,7 +1,7 @@
 ---
 tags:
-  - Native-AMERICAN
-  - Right-Speech
+- native-american
+- right-speech
 ---
 
 This week, look for one or more opportunities to speak from your heart. Pick a topic, a person, and a moment that’s likely to go well. Before you talk:

@@ -2,12 +2,13 @@
 date: 1982
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Kamma and rebirth"
-location_event: "Audio Archive (Ajahn Sumedho - Kamma and rebirth (1982) - 12 - 108 Talks by Luang Por Sumedho.mp3)"
+talk_title: Kamma and rebirth
+location_event: Audio Archive (Ajahn Sumedho - Kamma and rebirth (1982) - 12 - 108
+  Talks by Luang Por Sumedho.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #fear-and-anxiety, #kamma-and-rebirth, #karma-and-rebirth, #rationality-conceit, #samatha-vipassana, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Kamma and rebirth

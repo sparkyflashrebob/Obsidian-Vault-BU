@@ -1,7 +1,7 @@
 ---
 Author: Rick Hansen
 tags:
-  - "#mindfulness"
+- mindfulness
 ---
 
 

@@ -1,7 +1,7 @@
 ### Speakers:
 - **Speaker / Presenter**: Ajahn Sumedho
 - **Event / Source**: Audio Archive (Ajahn Sumedho - The Way It Is - 00 - 1999 Spirit Rock Monastic Retreat.mp3)
-- **Tags / Topics**: #ajahn_sumedho, #anapanasati, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #grounded-awareness, #luang-por-chah, #samatha-vipassana, #sound-of-silence, #the-way-it-is-00-1999-spirit-rock-m, #unborn
+- **Tags / Topics**: #ajahn_sumedho, #anapanasati, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #grounded-awareness, #luang-por-chah, #samatha-vipassana, #sound-of-silence, #the-way-it, #unborn
 ## Summary:
 
 ### Progression of Talk

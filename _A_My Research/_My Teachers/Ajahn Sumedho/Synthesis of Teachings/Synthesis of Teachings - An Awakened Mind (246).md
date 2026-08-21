@@ -2,12 +2,13 @@
 date: 2026-08-07
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "An Awakened Mind (246)"
-location_event: "Audio Archive (Ajahn Sumedho - An Awakened Mind (246) - 0512 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: An Awakened Mind (246)
+location_event: Audio Archive (Ajahn Sumedho - An Awakened Mind (246) - 0512 - Ajahn
+  Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #an-awakened-mind-246, #bikkhu-sangha, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #samatha-vipassana, #sound-of-silence, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: An Awakened Mind (246)

@@ -1,8 +1,8 @@
 ---
 tags:
-  - jhana
-  - "#Meditation"
-  - "#concentration"
+- jhana
+- meditation
+- concentration
 ---
 
 

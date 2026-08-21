@@ -1,9 +1,9 @@
 ---
 aliases:
-  - TEN WAYS TO BRING LOVING-KINDNESS PRACTICE ALIVE IN YOUR DAILY LIFE
+- TEN WAYS TO BRING LOVING-KINDNESS PRACTICE ALIVE IN YOUR DAILY LIFE
 tags:
-  - loving-kindness
-  - Compassion
+- loving-kindness
+- compassion
 ---
 
 Set an intention to reflect, each morning for a week, on the goodness of the people you live with or see most regularly. Then, whenever you remember to during the day, silently offer them your prayers. 

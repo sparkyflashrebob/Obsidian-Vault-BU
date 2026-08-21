@@ -88,7 +88,7 @@
 
 > And of that debris&mdash;those ashes of matter, the raw elements of which your body is comprised&mdash;the physicist Joliet-Curie once calculated: the nuclei of all your atoms (which compose 99.9% of an atom&rsquo;s mass) could be packed together into the volume of a minute speck of free-floating dust*&mdash;the kind you notice when sunlight streams through the window of a darkened room.
 
-> Even then, how unique are &ldquo;your&rdquo; raw materials? Physicist Heinz Pagels: &ldquo;The truth is that the entire material universe, with all its variety, is entirely made up out of quantum particles which are completely identical.&rdquo; Physicist Nick Herbert echoes: &ldquo;All quons, in the same state, are exactly alike&hellip;.There is no difference whatsoever between electron #123 and electron #137.&rdquo;
+> Even then, how unique are &ldquo;your&rdquo; raw materials? Physicist Heinz Pagels: &ldquo;The truth is that the entire material universe, with all its variety, is entirely made up out of quantum particles which are completely identical.&rdquo; Physicist Nick Herbert echoes: &ldquo;All quons, in the same state, are exactly alike&hellip;.There is no difference whatsoever between electron and electron.&rdquo;
 
 > In fact, your identity is ultimately even more indistinct than this. Herbert: &ldquo;The quantum world is not made up of &lsquo;objects&rsquo;. As Heisenberg puts it, &lsquo;Atoms are not things&rsquo;.&rdquo;
 

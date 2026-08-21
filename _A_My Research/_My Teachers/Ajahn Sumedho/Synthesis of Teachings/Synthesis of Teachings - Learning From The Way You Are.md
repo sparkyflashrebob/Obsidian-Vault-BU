@@ -2,12 +2,13 @@
 date: 2026-08-10
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Learning From The Way You Are"
-location_event: "Audio Archive (Ajahn Sumedho - Learning From The Way You Are - 0306 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Learning From The Way You Are
+location_event: Audio Archive (Ajahn Sumedho - Learning From The Way You Are - 0306
+  - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #learning-from-the-way-you-are, #rationality-conceit, #samatha-vipassana, #siladhara, #sound-of-silence, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Learning From The Way You Are

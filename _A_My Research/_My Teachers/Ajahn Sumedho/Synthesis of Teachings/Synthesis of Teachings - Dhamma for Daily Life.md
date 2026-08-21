@@ -2,12 +2,13 @@
 date: 2026-08-09
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Dhamma for Daily Life"
-location_event: "Audio Archive (Ajahn Sumedho - Dhamma for Daily Life - 1005 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Dhamma for Daily Life
+location_event: Audio Archive (Ajahn Sumedho - Dhamma for Daily Life - 1005 - Ajahn
+  Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #dhamma-for-daily-life, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #metta, #sound-of-silence, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Dhamma for Daily Life

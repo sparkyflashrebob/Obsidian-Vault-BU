@@ -1,8 +1,8 @@
 ---
 tags:
-  - Dhamma
-  - core
-  - Identity-View
+- dhamma
+- core
+- identity-view
 ---
 
 Etymologically, kāya means "body," sakkāya means "existing body," and diṭṭhi means "view" (here implying a wrong view, as exemplified by the views in the table below).

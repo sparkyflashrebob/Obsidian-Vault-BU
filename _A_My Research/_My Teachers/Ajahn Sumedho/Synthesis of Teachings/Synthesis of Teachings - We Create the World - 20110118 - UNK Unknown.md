@@ -1,7 +1,7 @@
 ### Speakers:
 - **Speaker / Presenter**: Ajahn Sumedho
 - **Event / Source**: Audio Archive (Ajahn Sumedho - We Create the World - 20110118 - UNK Unknown.mp3)
-- **Tags / Topics**: #ajahn-sumedho, #fear-and-anxiety, #four-noble-truths, #luang-por-chah, #unborn, #we-create-the-world-20110118-unk-un
+- **Tags / Topics**: #ajahn-sumedho, #fear-and-anxiety, #four-noble-truths, #luang-por-chah, #unborn, #we-create-the
 ## Summary:
 
 ### Progression of Talk

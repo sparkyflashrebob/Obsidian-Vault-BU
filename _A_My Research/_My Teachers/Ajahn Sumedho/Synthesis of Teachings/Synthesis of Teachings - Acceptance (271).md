@@ -2,12 +2,13 @@
 date: 2026-08-06
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Acceptance (271)"
-location_event: "Audio Archive (Ajahn Sumedho - Acceptance (271) - 1201 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Acceptance (271)
+location_event: Audio Archive (Ajahn Sumedho - Acceptance (271) - 1201 - Ajahn Sumedho
+  Podcast by Amaravati.mp3)
 tags:
-  - #acceptance-271, #ajahn-sumedho, #brahmaviharas, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #khandhas, #metta, #rationality-conceit, #samatha-vipassana, #siladhara
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Acceptance (271)

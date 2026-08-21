@@ -2,12 +2,13 @@
 date: 1998
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "An empty wheel chair"
-location_event: "108 Talks Series / Ajahn Sumedho Archives (Ajahn Sumedho - An empty wheel chair (1998) - 46 - 108 Talks by Luang Por Sumedho.mp3.md)"
+talk_title: An empty wheel chair
+location_event: 108 Talks Series / Ajahn Sumedho Archives (Ajahn Sumedho - An empty
+  wheel chair (1998) - 46 - 108 Talks by Luang Por Sumedho.mp3.md)
 tags:
-  - ajahn-sumedho, an-empty-wheel-chair, consciousness, mindfulness, buddho
-  - dharma-talk
-  - spiritual-synthesis
+- mindfulness-practice
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: An empty wheel chair

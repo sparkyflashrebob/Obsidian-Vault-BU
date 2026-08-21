@@ -1,6 +1,6 @@
 ---
 tags:
-  - MMR-Topics
+- mmr-topics
 ---
 
 See [[_A_My Work/_A_My Teaching/_B_Marin Mindful Recovery/Topics]]

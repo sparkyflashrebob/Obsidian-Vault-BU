@@ -1,7 +1,7 @@
 ---
 tags:
-  - addiction_and_recovery
-  - quotes
+- addiction-and-recovery
+- quotes
 ---
 
 "It is easy to let up on the spiritual program of action

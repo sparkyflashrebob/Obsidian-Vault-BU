@@ -2,12 +2,13 @@
 date: 2026-08-08
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Beware of Idealism"
-location_event: "Audio Archive (Ajahn Sumedho - Beware of Idealism - 00 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Beware of Idealism
+location_event: Audio Archive (Ajahn Sumedho - Beware of Idealism - 00 - Ajahn Sumedho
+  Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #beware-of-idealism, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #rationality-conceit, #samatha-vipassana
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Beware of Idealism

@@ -1,9 +1,9 @@
 ---
 aliases:
-  - Never succumb to becoming Bitter.
+- Never succumb to becoming Bitter.
 tags:
-  - quotes
-  - Compassion
+- quotes
+- compassion
 ---
 
 Martin Luther King Jr. exhorted us, “Never succumb to the temptation of becoming bitter. As you press for justice, be sure to move with dignity and discipline, using only the instruments of love.”

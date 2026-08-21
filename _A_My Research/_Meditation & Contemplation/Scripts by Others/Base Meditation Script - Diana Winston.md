@@ -1,5 +1,6 @@
 ---
-tags: meditation_script
+tags:
+- meditation-script
 ---
 Really looking forward to practicing together
 With all that is going on in the world

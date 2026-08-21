@@ -1,20 +1,20 @@
 ---
 tags:
-  - bee-reports
-  - daily-notes
-  - distributed-model
-  - leadership
-  - logging
-  - obsidian
-  - organizational-strategy
-  - quantum
-  - quantum-physics
-  - spiritual-inquiry
-  - team-leadership
-  - what-the-bleep-film
-  - workflow
-  - bee-nlm-report
-  - krisp-daily-summary
+- bee-reports
+- daily-notes
+- distributed-model
+- leadership
+- logging
+- obsidian
+- organizational-strategy
+- quantum
+- quantum-physics
+- spiritual-inquiry
+- team-leadership
+- what-the-bleep
+- workflow
+- bee-nlm-report
+- krisp-daily-summary
 ---
 
 # Defining personal spiritual framework, First day office parking discussion, and Testing Voice Transcription App

@@ -1,6 +1,6 @@
 ---
 tags:
-  - Mind
+- mind
 ---
 
 1. Senses delayed from what is actually going on.

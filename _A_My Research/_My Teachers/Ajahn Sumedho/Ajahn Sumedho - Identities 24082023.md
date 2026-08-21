@@ -1,9 +1,9 @@
 ---
 Subject-Context: identity
 tags:
-  - identity_view
-  - sakkayaditthi
-  - conditioning
+- identity-view
+- sakkayaditthi
+- conditioning
 Teacher: Ajahn Sumedho
 ---
 

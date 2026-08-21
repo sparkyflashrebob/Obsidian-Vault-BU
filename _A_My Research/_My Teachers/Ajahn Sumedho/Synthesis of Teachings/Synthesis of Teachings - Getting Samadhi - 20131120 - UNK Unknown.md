@@ -2,12 +2,12 @@
 date: 2026-08-09
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Getting Samadhi - 20131120 - UNK Unknown"
-location_event: "Audio Archive (Ajahn Sumedho - Getting Samadhi - 20131120 - UNK Unknown.mp3)"
+talk_title: Getting Samadhi - 20131120 - UNK Unknown
+location_event: Audio Archive (Ajahn Sumedho - Getting Samadhi - 20131120 - UNK Unknown.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #bikkhu-sangha, #fear-and-anxiety, #getting-samadhi-20131120-unk-unknow, #grounded-awareness, #karma-and-rebirth, #luang-por-chah, #samatha-vipassana, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Getting Samadhi - 20131120 - UNK Unknown
@@ -15,7 +15,7 @@ tags:
 🧘 **Teacher / Speaker**: Ajahn Sumedho  
 📅 **Date of Talk**: 2026-08-09  
 📍 **Event / Source**: Audio Archive (Ajahn Sumedho - Getting Samadhi - 20131120 - UNK Unknown.mp3)  
-🏷️ **Topics / Tags**: #ajahn_sumedho, #anapanasati, #bikkhu-sangha, #fear-and-anxiety, #getting-samadhi-20131120-unk-unknow, #grounded-awareness, #karma-and-rebirth, #luang-por-chah, #samatha-vipassana, #unborn  
+🏷️ **Topics / Tags**: #ajahn_sumedho, #anapanasati, #bikkhu-sangha, #fear-and-anxiety, #getting-samadhi-20131120, #grounded-awareness, #karma-and-rebirth, #luang-por-chah, #samatha-vipassana, #unborn  
 
 ---
 

@@ -2,12 +2,13 @@
 date: 2026-08-07
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Be Intent on Seeing Dhamma (202)"
-location_event: "Audio Archive (Ajahn Sumedho - Be Intent on Seeing Dhamma (202) - 0700 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Be Intent on Seeing Dhamma (202)
+location_event: Audio Archive (Ajahn Sumedho - Be Intent on Seeing Dhamma (202) -
+  0700 - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #be-intent-on-seeing-dhamma-202, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #luang-por-chah, #rationality-conceit
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Be Intent on Seeing Dhamma (202)
@@ -15,7 +16,7 @@ tags:
 🧘 **Teacher / Speaker**: Ajahn Sumedho  
 📅 **Date of Talk**: 2026-08-07  
 📍 **Event / Source**: Audio Archive (Ajahn Sumedho - Be Intent on Seeing Dhamma (202) - 0700 - Ajahn Sumedho Podcast by Amaravati.mp3)  
-🏷️ **Topics / Tags**: #ajahn_sumedho, #anapanasati, #be-intent-on-seeing-dhamma-202, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #luang-por-chah, #rationality-conceit  
+🏷️ **Topics / Tags**: #ajahn_sumedho, #anapanasati, #be-intent-on, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #luang-por-chah, #rationality-conceit  
 
 ---
 

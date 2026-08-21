@@ -1,11 +1,11 @@
 ---
 tags:
-  - nourishment
-  - dhamma
-  - dharma
-  - "#phenomena"
-  - "#feeding"
-  - "#desire"
+- nourishment
+- dhamma
+- dharma
+- phenomena
+- feeding
+- desire
 Subject: Nourishment
 Created: 2024-06-16
 ---

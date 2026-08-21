@@ -2,12 +2,13 @@
 date: 2026-08-09
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Food - 00 - 1999 Spirit Rock Monastic Retreat"
-location_event: "Audio Archive (Ajahn Sumedho - Food - 00 - 1999 Spirit Rock Monastic Retreat.mp3)"
+talk_title: Food - 00 - 1999 Spirit Rock Monastic Retreat
+location_event: Audio Archive (Ajahn Sumedho - Food - 00 - 1999 Spirit Rock Monastic
+  Retreat.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #bikkhu-sangha, #fear-and-anxiety, #food-00-1999-spirit-rock-monastic-r, #four-noble-truths, #luang-por-chah, #samatha-vipassana, #siladhara
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Food - 00 - 1999 Spirit Rock Monastic Retreat
@@ -15,7 +16,7 @@ tags:
 🧘 **Teacher / Speaker**: Ajahn Sumedho  
 📅 **Date of Talk**: 2026-08-09  
 📍 **Event / Source**: Audio Archive (Ajahn Sumedho - Food - 00 - 1999 Spirit Rock Monastic Retreat.mp3)  
-🏷️ **Topics / Tags**: #ajahn_sumedho, #anapanasati, #bikkhu-sangha, #fear-and-anxiety, #food-00-1999-spirit-rock-monastic-r, #four-noble-truths, #luang-por-chah, #samatha-vipassana, #siladhara  
+🏷️ **Topics / Tags**: #ajahn_sumedho, #anapanasati, #bikkhu-sangha, #fear-and-anxiety, #food-00spirit-rock, #four-noble-truths, #luang-por-chah, #samatha-vipassana, #siladhara  
 
 ---
 

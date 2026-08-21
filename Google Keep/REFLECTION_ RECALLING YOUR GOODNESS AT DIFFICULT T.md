@@ -1,9 +1,9 @@
 ---
 aliases:
-  - "REFLECTION: RECALLING YOUR GOODNESS AT DIFFICULT TIMES"
+- 'REFLECTION: RECALLING YOUR GOODNESS AT DIFFICULT TIMES'
 tags:
-  - RAIN
-  - Meditation
+- rain
+- meditation
 ---
 
 When we are caught in the trance of unworthiness, it can be hard to believe in our own goodness. Bring yourself into presence in whatever way works best for you, and then try one or more of the following prompts. 

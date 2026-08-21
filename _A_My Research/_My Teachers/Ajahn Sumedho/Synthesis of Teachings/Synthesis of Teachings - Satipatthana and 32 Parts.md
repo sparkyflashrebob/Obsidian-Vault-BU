@@ -1,7 +1,7 @@
 ### Speakers:
 - **Speaker / Presenter**: Ajahn Sumedho
 - **Event / Source**: Audio Archive (Ajahn Sumedho - Satipatthana and 32 Parts - 0318 - Ajahn Sumedho Podcast by Amaravati.mp3)
-- **Tags / Topics**: #ajahn_sumedho, #anapanasati, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #rationality-conceit, #samatha-vipassana, #satipatthana-and-32-parts, #siladhara, #sound-of-silence, #unborn
+- **Tags / Topics**: #ajahn_sumedho, #anapanasati, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #rationality-conceit, #samatha-vipassana, #satipatthana-and-32, #siladhara, #sound-of-silence, #unborn
 ## Summary:
 
 ### Progression of Talk

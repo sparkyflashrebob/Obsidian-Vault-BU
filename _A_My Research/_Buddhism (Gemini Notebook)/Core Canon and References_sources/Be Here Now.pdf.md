@@ -2451,13 +2451,13 @@ Sat Prem. AUROBINDO OR ADVENTURES IN CONSCIOUSNESS SRI AUROBINDO ASHRAM, Pondich
 
 Where books may not be available at local bookstores, the following are book specialists of the oriental and occult, etc. SAMUEL WEISER, 734 Broadway, New York, NY 10003 (GR 7-8453) ORIENTALIA, INC. 61 Fourth Ave., New York, NY 10003 (473-6730) MASON’S BOOKSHOP, 789 Lexington Ave. New York, NY (832-8958) SHAMBALLA BOOKSTORES. Telegraph Ave., Berkeley, Calif. BROTHERHOOD OF LIFE, 110 Dartmouth St. S.E., Albuquerque, N. Mex. 87106. EAST-WEST BOOK SHOP, 1170 El Camino Real, Menlo Park, Calif. 94025. THE PILGRIM’S WAY BOOKSTORE, P.O. Box 1044, Carmel, Calif. 93921. PARAGON BOOK GALLERY, N.Y.C. FIELDS. San Francisco, California THE SPHINX, Cambridge, Mass. THE BODHI TREE, 8585 Melrose Ave., L.A., Ca., 90069 THE RAINBOW BRIDGE DISTRIBUTING COMPANY, P.O. Box 40208, San Francisco, California 94140. FREE CATALOG.
 
-from family and friends! RAM DASS: Tapes, books, and teaching schedules—Ram Dass Tape Library, 524 San Anselmo Avenue, #203, San Anselmo, CA 94960
+from family and friends! RAM DASS: Tapes, books, and teaching schedules—Ram Dass Tape Library, 524 San Anselmo Avenue,, San Anselmo, CA 94960
 
 (www.RamDassTapes.org).
 
-SWAHA: Bhagavan Dass and Amazing Grace, one cassette, $8—Ram Dass Tape Library, 524 San Anselmo Avenue, #203, San Anselmo, CA 94960 (www.RamDassTapes.org).
+SWAHA: Bhagavan Dass and Amazing Grace, one cassette, $8—Ram Dass Tape Library, 524 San Anselmo Avenue,, San Anselmo, CA 94960 (www.RamDassTapes.org).
 
-AH! Bhagavan Dass, one cassette, $8—Ram Dass Tape Library, 524 San Anselmo Avenue, #203, San Anselmo, CA 94960 (www.RamDassTapes.org).
+AH! Bhagavan Dass, one cassette, $8—Ram Dass Tape Library, 524 San Anselmo Avenue,, San Anselmo, CA 94960 (www.RamDassTapes.org).
 
 BHAGAVAN DASS: For information about programs, write c/o Harbin Hot Springs, P.O. Box 782, Middletown, CA 95461. PIR VILAYAT KHAN: For information on the Sufi Order of North America, write to P.O. Box 30065, Seattle, WA 98103. HARI DAS BABA: For information about programs, write to Mount Madonna Center, 445 Summit Road, Watsonville, CA 95076. FLAG MOUNTAIN: For prayer flags, T-shirts, and rubber stamps, write to Flag Mountain, Lama Foundation, Box 240, San Cristobal, NM 87564.
 

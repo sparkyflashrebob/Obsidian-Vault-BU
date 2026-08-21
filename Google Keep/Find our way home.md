@@ -1,8 +1,8 @@
 ---
 tags:
-  - "#ground_of_being"
-  - "#connection"
-  - "#Spirituality"
+- ground-of-being
+- connection
+- spirituality
 ---
 
 Stories

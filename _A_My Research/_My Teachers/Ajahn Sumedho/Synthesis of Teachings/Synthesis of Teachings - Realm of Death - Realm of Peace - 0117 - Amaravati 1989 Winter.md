@@ -1,7 +1,7 @@
 ### Speakers:
 - **Speaker / Presenter**: Ajahn Sumedho
 - **Event / Source**: Audio Archive (Ajahn Sumedho - Realm of Death - Realm of Peace - 0117 - Amaravati 1989 Winter.mp3)
-- **Tags / Topics**: #ajahn_sumedho, #anapanasati, #fear-and-anxiety, #four-noble-truths, #karma-and-rebirth, #luang-por-chah, #realm-of-death-realm-of-peace-0117, #samatha-vipassana, #sound-of-silence, #unborn
+- **Tags / Topics**: #ajahn_sumedho, #anapanasati, #fear-and-anxiety, #four-noble-truths, #karma-and-rebirth, #luang-por-chah, #realm-of-death, #samatha-vipassana, #sound-of-silence, #unborn
 ## Summary:
 
 ### Progression of Talk

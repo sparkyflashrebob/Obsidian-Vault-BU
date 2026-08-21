@@ -1,7 +1,7 @@
 ### Speakers:
 - **Speaker / Presenter**: Ajahn Sumedho
 - **Event / Source**: Audio Archive (Ajahn Sumedho - Perfect Understanding - 00 - Amaravarti Buddhist Monestary.mp3)
-- **Tags / Topics**: #ajahn_sumedho, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #perfect-understanding-00-amaravarti, #samatha-vipassana, #siladhara, #unborn
+- **Tags / Topics**: #ajahn_sumedho, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #perfect-understanding-00, #samatha-vipassana, #siladhara, #unborn
 ## Summary:
 
 ### Progression of Talk

@@ -2,12 +2,13 @@
 date: 2026-08-09
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Guided Vipassana Meditation"
-location_event: "Audio Archive (Ajahn Sumedho - Guided Vipassana Meditation - 0916 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Guided Vipassana Meditation
+location_event: Audio Archive (Ajahn Sumedho - Guided Vipassana Meditation - 0916
+  - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #guided-vipassana-meditation, #samatha-vipassana, #sound-of-silence
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Guided Vipassana Meditation

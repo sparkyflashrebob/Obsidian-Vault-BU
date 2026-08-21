@@ -1,10 +1,10 @@
 ---
 aliases:
-  - MMTCP Mindfulness & Mediation Core Teachings
+- MMTCP Mindfulness & Mediation Core Teachings
 tags:
-  - mmtcp
-  - core
-  - ForTeaching
+- mmtcp
+- core
+- forteaching
 Created: 2023-10-14
 ---
 

@@ -1,8 +1,8 @@
 ---
 tags:
-  - ForTeaching
-  - Mindfulness-of-Emotions
-  - Guided-Meditation-Reflections
+- forteaching
+- mindfulness-of-emotions
+- guided-meditation-reflections
 ---
 
 Base:

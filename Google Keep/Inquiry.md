@@ -1,6 +1,6 @@
 ---
 tags:
-  - ForTeaching
+- forteaching
 ---
 
 What are you aware of?

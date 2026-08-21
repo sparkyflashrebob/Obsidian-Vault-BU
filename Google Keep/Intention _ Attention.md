@@ -1,9 +1,9 @@
 ---
 aliases:
-  - Intention & Attention
+- Intention & Attention
 tags:
-  - core
-  - Inspirational
+- core
+- inspirational
 ---
 
 What we pay attention to and how..

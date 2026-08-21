@@ -2,12 +2,13 @@
 date: 2026-08-10
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Light At The End - 00 - 1999 Spirit Rock Monastic Retreat"
-location_event: "Audio Archive (Ajahn Sumedho - Light At The End - 00 - 1999 Spirit Rock Monastic Retreat.mp3)"
+talk_title: Light At The End - 00 - 1999 Spirit Rock Monastic Retreat
+location_event: Audio Archive (Ajahn Sumedho - Light At The End - 00 - 1999 Spirit
+  Rock Monastic Retreat.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #fear-and-anxiety, #four-noble-truths, #light-at-the-end-00-1999-spirit-roc, #samatha-vipassana, #siladhara
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Light At The End - 00 - 1999 Spirit Rock Monastic Retreat
@@ -15,7 +16,7 @@ tags:
 🧘 **Teacher / Speaker**: Ajahn Sumedho  
 📅 **Date of Talk**: 2026-08-10  
 📍 **Event / Source**: Audio Archive (Ajahn Sumedho - Light At The End - 00 - 1999 Spirit Rock Monastic Retreat.mp3)  
-🏷️ **Topics / Tags**: #ajahn_sumedho, #anapanasati, #fear-and-anxiety, #four-noble-truths, #light-at-the-end-00-1999-spirit-roc, #samatha-vipassana, #siladhara  
+🏷️ **Topics / Tags**: #ajahn_sumedho, #anapanasati, #fear-and-anxiety, #four-noble-truths, #light-at-the, #samatha-vipassana, #siladhara  
 
 ---
 

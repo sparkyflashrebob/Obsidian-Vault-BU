@@ -1,28 +1,28 @@
 ---
 tags:
-  - 12-step-framework
-  - ambient-sensors
-  - bee-reports
-  - daily-notes
-  - environmental-monitoring
-  - environmental-news
-  - home-monitoring
-  - household-logistics
-  - logging
-  - obsidian
-  - personal-development
-  - quantum
-  - quantum-physics
-  - recovery
-  - recovery-program
-  - spiritual-inquiry
-  - spokane-wildfires
-  - temperature
-  - what-the-bleep-film
-  - wildfires
-  - workflow
-  - bee-nlm-report
-  - krisp-daily-summary
+- 12-step-framework
+- ambient-sensors
+- bee-reports
+- daily-notes
+- environmental-monitoring
+- environmental-news
+- home-monitoring
+- household-logistics
+- logging
+- obsidian
+- personal-development
+- quantum
+- quantum-physics
+- recovery
+- recovery-program
+- spiritual-inquiry
+- spokane-wildfires
+- temperature
+- what-the-bleep
+- wildfires
+- workflow
+- bee-nlm-report
+- krisp-daily-summary
 ---
 
 # AI transcription errors discussion, Restaurant inquiry and casual chat, and Oakland baseball series discussion

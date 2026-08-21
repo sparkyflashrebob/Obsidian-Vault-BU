@@ -1,8 +1,8 @@
 ---
 tags:
-  - mindfulness
-  - Mindfulness-of-Thinking
-  - quotes
+- mindfulness
+- mindfulness-of-thinking
+- quotes
 ---
 
 Emily Dickinson was writing in one of her science-prescient poems:

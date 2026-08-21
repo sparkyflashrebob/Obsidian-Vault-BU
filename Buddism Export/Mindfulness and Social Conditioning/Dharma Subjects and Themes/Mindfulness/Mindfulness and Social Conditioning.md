@@ -1,7 +1,7 @@
 ---
 tags:
-  - mindfulness
-  - ForTeaching
+- mindfulness
+- forteaching
 ---
 
 Emotional Labor 

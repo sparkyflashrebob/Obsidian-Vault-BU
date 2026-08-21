@@ -2,12 +2,13 @@
 date: 2026-08-09
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Dissolving Into Silence"
-location_event: "Audio Archive (Ajahn Sumedho - Dissolving Into Silence - 30 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Dissolving Into Silence
+location_event: Audio Archive (Ajahn Sumedho - Dissolving Into Silence - 30 - Ajahn
+  Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #bikkhu-sangha, #dissolving-into-silence, #fear-and-anxiety, #four-noble-truths, #karma-and-rebirth, #luang-por-chah, #rationality-conceit, #samatha-vipassana, #siladhara, #sound-of-silence, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Dissolving Into Silence

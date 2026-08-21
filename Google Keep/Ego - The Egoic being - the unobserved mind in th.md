@@ -1,11 +1,11 @@
 ---
 aliases:
-  - Ego - The Egoic being - the unobserved mind in the absence of awareness.
+- Ego - The Egoic being - the unobserved mind in the absence of awareness.
 tags:
-  - "#quote"
-  - "#ego"
-  - "#awakening"
-  - "#self-destruct"
+- quote
+- ego
+- awakening
+- self-destruct
 ---
 [[book]]
 

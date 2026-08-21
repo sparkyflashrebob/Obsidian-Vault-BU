@@ -2,12 +2,14 @@
 date: 2026-08-10
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Me, Ajahn Sumedho, Center Of The Universe - 20080608 - 2008 Spirit Rock Monastic Retreat"
-location_event: "Audio Archive (Ajahn Sumedho - Me, Ajahn Sumedho, Center Of The Universe - 20080608 - 2008 Spirit Rock Monastic Retreat.mp3)"
+talk_title: Me, Ajahn Sumedho, Center Of The Universe - 20080608 - 2008 Spirit Rock
+  Monastic Retreat
+location_event: Audio Archive (Ajahn Sumedho - Me, Ajahn Sumedho, Center Of The Universe
+  - 20080608 - 2008 Spirit Rock Monastic Retreat.mp3)
 tags:
-  - #ajahn-sumedho, #me-ajahn-sumedho-center-of-the-univ
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Me, Ajahn Sumedho, Center Of The Universe - 20080608 - 2008 Spirit Rock Monastic Retreat

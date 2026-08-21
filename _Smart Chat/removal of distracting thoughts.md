@@ -1,9 +1,9 @@
 ---
-"Dates:": 11/02/2024
+'Dates:': 11/02/2024
 tags:
-  - removal_of_distracting_thoughts
-  - "#thinking"
-  - CBT
+- distracting-thoughts
+- thinking
+- cbt
 ---
 ##### user
 the removal of distracting thoughts

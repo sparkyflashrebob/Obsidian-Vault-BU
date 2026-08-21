@@ -1,6 +1,6 @@
 ---
 tags:
-  - ForTeaching
+- forteaching
 ---
 
 Vygotsky noted that good teachers shouldn't present material that is too difficult and "pull the students along."

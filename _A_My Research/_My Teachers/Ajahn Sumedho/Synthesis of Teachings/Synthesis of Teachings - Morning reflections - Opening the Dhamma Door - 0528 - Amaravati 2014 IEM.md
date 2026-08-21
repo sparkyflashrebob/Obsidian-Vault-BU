@@ -2,12 +2,14 @@
 date: 2026-08-11
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Morning reflections - Opening the Dhamma Door - 0528 - Amaravati 2014 IEM"
-location_event: "Audio Archive (Ajahn Sumedho - Morning reflections - Opening the Dhamma Door - 0528 - Amaravati 2014 IEM.mp3)"
+talk_title: Morning reflections - Opening the Dhamma Door - 0528 - Amaravati 2014
+  IEM
+location_event: Audio Archive (Ajahn Sumedho - Morning reflections - Opening the Dhamma
+  Door - 0528 - Amaravati 2014 IEM.mp3)
 tags:
-  - #ajahn-sumedho, #bikkhu-sangha, #four-noble-truths, #grounded-awareness, #morning-reflections-opening-the-dha, #samatha-vipassana
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Morning reflections - Opening the Dhamma Door - 0528 - Amaravati 2014 IEM

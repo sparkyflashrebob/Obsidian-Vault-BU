@@ -1,6 +1,6 @@
 ---
 tags:
-  - Native-AMERICAN
+- native-american
 ---
 
 -INTROSPECTION-

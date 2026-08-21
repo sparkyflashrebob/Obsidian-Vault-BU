@@ -996,7 +996,7 @@ On his way back from the Parliament of Religions in 1893, Dharmapāla had stoppe
 
 On March 30th 1895, the Viceroy Lord Elgin arrived in Gayā. He assured the municipal authorities and local Indian dignitaries who assembled to welcome him that his visit had nothing to do with the recent disturbances at the Mahābodhi Temple and shortly afterwards left for Bodh Gayā.258 Accompanied by a small group of English officers and the solicitous Mahant, the Viceroy entered the main
 
-257. The Lansdowne Collection, Correspondence with Persons in India, Vol. 121, #2616, 6th November, 1891; see Trevithick. 258. Ibid., Vol. 66, #194.
+257. The Lansdowne Collection, Correspondence with Persons in India, Vol. 121,, 6th November, 1891; see Trevithick. 258. Ibid., Vol. 66,.
 
 The Navel of the Earth
 

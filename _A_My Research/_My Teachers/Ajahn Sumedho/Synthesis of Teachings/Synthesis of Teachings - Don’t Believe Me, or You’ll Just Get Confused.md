@@ -2,12 +2,13 @@
 date: 2026-08-09
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Don’t Believe Me, or You’ll Just Get Confused"
-location_event: "Audio Archive (Ajahn Sumedho - Don’t Believe Me, or You’ll Just Get Confused - 0511 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Don’t Believe Me, or You’ll Just Get Confused
+location_event: Audio Archive (Ajahn Sumedho - Don’t Believe Me, or You’ll Just Get
+  Confused - 0511 - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #bikkhu-sangha, #don-t-believe-me-or-you-ll-just-get, #fear-and-anxiety, #forgiveness-reconciliation, #grounded-awareness, #luang-por-chah, #rationality-conceit, #samatha-vipassana, #sound-of-silence, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Don’t Believe Me, or You’ll Just Get Confused

@@ -2,12 +2,13 @@
 date: 2026-08-07
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Abiding in Space"
-location_event: "Audio Archive (Ajahn Sumedho - Abiding in Space - 0205 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Abiding in Space
+location_event: Audio Archive (Ajahn Sumedho - Abiding in Space - 0205 - Ajahn Sumedho
+  Podcast by Amaravati.mp3)
 tags:
-  - #abiding-in-space, #ajahn-sumedho, #anapanasati, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #karma-and-rebirth, #luang-por-chah, #rationality-conceit, #samatha-vipassana, #siladhara, #sound-of-silence, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Abiding in Space

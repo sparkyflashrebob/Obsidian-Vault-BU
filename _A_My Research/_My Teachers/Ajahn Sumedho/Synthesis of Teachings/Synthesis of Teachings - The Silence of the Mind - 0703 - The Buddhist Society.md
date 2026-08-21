@@ -1,7 +1,7 @@
 ### Speakers:
 - **Speaker / Presenter**: Ajahn Sumedho
 - **Event / Source**: Audio Archive (Ajahn Sumedho - The Silence of the Mind - 0703 - The Buddhist Society.mp3)
-- **Tags / Topics**: #ajahn_sumedho, #anapanasati, #fear-and-anxiety, #samatha-vipassana, #sound-of-silence, #the-silence-of-the-mind-0703-the-bu, #unborn
+- **Tags / Topics**: #ajahn_sumedho, #anapanasati, #fear-and-anxiety, #samatha-vipassana, #sound-of-silence, #the-silence-of, #unborn
 ## Summary:
 
 ### Progression of Talk

@@ -1,7 +1,7 @@
 ---
 tags:
-  - Quotes
-  - Inspirational
+- quotes
+- inspirational
 ---
 
 Inner Freedom: Liberation of the Heart

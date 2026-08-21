@@ -1,8 +1,8 @@
 ---
 tags:
-  - Lists
-  - Ethics
-  - Insight-Knowledge
+- lists
+- ethics
+- insight-knowledge
 ---
 
 Morality - Concentration - Wisdom

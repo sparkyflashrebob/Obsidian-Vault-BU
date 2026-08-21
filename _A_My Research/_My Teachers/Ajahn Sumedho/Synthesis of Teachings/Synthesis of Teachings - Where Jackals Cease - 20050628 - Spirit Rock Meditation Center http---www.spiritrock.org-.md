@@ -1,7 +1,7 @@
 ### Speakers:
 - **Speaker / Presenter**: Ajahn Sumedho
 - **Event / Source**: Audio Archive (Ajahn Sumedho - Where Jackals Cease - 20050628 - Spirit Rock Meditation Center http---www.spiritrock.org-.mp3)
-- **Tags / Topics**: #ajahn-sumedho, #bikkhu-sangha, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #luang-por-chah, #rationality-conceit, #samatha-vipassana, #siladhara, #sound-of-silence, #where-jackals-cease-20050628-spirit
+- **Tags / Topics**: #ajahn-sumedho, #bikkhu-sangha, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #luang-por-chah, #rationality-conceit, #samatha-vipassana, #siladhara, #sound-of-silence, #where-jackals-cease
 ## Summary:
 
 ### Progression of Talk

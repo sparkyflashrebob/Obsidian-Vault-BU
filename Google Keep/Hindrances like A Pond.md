@@ -1,7 +1,7 @@
 ---
 tags:
-  - Hindrances
-  - core
+- hindrances
+- core
 ---
 
   1.  Desire for Sense Pleasures

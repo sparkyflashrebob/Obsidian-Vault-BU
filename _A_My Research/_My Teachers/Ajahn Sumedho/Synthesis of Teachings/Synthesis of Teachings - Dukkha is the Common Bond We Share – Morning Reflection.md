@@ -2,12 +2,13 @@
 date: 2026-08-09
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Dukkha is the Common Bond We Share – Morning Reflection"
-location_event: "Audio Archive (Ajahn Sumedho - Dukkha is the Common Bond We Share – Morning Reflection - 65 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Dukkha is the Common Bond We Share – Morning Reflection
+location_event: Audio Archive (Ajahn Sumedho - Dukkha is the Common Bond We Share
+  – Morning Reflection - 65 - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #bikkhu-sangha, #dukkha-is-the-common-bond-we-share, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #luang-por-chah, #rationality-conceit, #samatha-vipassana, #siladhara, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Dukkha is the Common Bond We Share – Morning Reflection

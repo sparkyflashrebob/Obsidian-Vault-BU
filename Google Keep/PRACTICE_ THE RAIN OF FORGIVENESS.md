@@ -1,9 +1,8 @@
 ---
 aliases:
-  - "PRACTICE: THE RAIN OF FORGIVENESS"
+- 'PRACTICE: THE RAIN OF FORGIVENESS'
 tags:
-  - Meditation
-  - Meditation
+- meditation
 ---
 
 Forgiving others has two essential phases: The first is an inner process of healing the woundedness beneath the blame, and the second is bringing a compassionate attention to the other person involved. Please consider the first part below as a “stand alone” meditation, and practice it as long as it takes (days, months, years) to feel well established in self-compassion. Then, when you are ready, practice them both as a sequence.

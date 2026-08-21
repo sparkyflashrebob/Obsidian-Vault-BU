@@ -1,6 +1,6 @@
 ---
 tags:
-  - Music-Concepts
+- music-concepts
 ---
 
 Beats vs Bars vs Phrases

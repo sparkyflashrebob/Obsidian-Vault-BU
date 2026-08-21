@@ -1,6 +1,6 @@
 ---
 aliases:
-  - https://en.wikipedia.org/wiki/Wu_wei
+- https://en.wikipedia.org/wiki/Wu_wei
 tags:
-  - Wu-Wei
+- wu-wei
 ---

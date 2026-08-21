@@ -1,6 +1,6 @@
 ---
 tags:
-  - Identity-View
+- identity-view
 ---
 
 ...In his later years, when India had become electric with his message and kings themselves were bowing before him, people came to him even as they were to come to Jesus asking what he was.

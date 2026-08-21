@@ -1,7 +1,7 @@
 ### Speakers:
 - **Speaker / Presenter**: Ajahn Sumedho
 - **Event / Source**: Audio Archive (Ajahn Sumedho - What is Ajahn Chah Now - 20000916 - UNK Unknown.mp3)
-- **Tags / Topics**: #ajahn-sumedho, #fear-and-anxiety, #four-noble-truths, #luang-por-chah, #unborn, #what-is-ajahn-chah-now-20000916-unk
+- **Tags / Topics**: #ajahn-sumedho, #fear-and-anxiety, #four-noble-truths, #luang-por-chah, #unborn, #what-is-ajahn
 ## Summary:
 
 ### Progression of Talk

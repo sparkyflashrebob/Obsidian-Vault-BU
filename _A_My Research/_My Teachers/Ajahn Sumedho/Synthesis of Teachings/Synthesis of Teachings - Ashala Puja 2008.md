@@ -2,12 +2,13 @@
 date: 2026-08-07
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Ashala Puja 2008"
-location_event: "Audio Archive (Ajahn Sumedho - Ashala Puja 2008 - 22 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Ashala Puja 2008
+location_event: Audio Archive (Ajahn Sumedho - Ashala Puja 2008 - 22 - Ajahn Sumedho
+  Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #ashala-puja-2008, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #karma-and-rebirth, #khandhas, #rationality-conceit, #samatha-vipassana, #siladhara, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Ashala Puja 2008

@@ -2,12 +2,14 @@
 date: 2026-08-10
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "How to keep your head when all about you are losing theirs, and blaming it on you - 02 - Sunday Talks 2000"
-location_event: "Audio Archive (Ajahn Sumedho - How to keep your head when all about you are losing theirs, and blaming it on you - 02 - Sunday Talks 2000.mp3)"
+talk_title: How to keep your head when all about you are losing theirs, and blaming
+  it on you - 02 - Sunday Talks 2000
+location_event: Audio Archive (Ajahn Sumedho - How to keep your head when all about
+  you are losing theirs, and blaming it on you - 02 - Sunday Talks 2000.mp3)
 tags:
-  - #ajahn-sumedho, #bikkhu-sangha, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #grounded-awareness, #how-to-keep-your-head-when-all-abou, #rationality-conceit, #samatha-vipassana, #sound-of-silence
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: How to keep your head when all about you are losing theirs, and blaming it on you - 02 - Sunday Talks 2000

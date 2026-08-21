@@ -1,7 +1,7 @@
 ---
 tags:
-  - Compassion
-  - Meditation
+- compassion
+- meditation
 Teacher: TNH
 ---
 

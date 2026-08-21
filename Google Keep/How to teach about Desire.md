@@ -1,10 +1,10 @@
 ---
 tags:
-  - mindfulness
-  - Mindfulness-of-Thinking
-  - ForTeaching
-  - desire
-  - Mindfulness-of-Feeling
+- mindfulness
+- mindfulness-of-thinking
+- forteaching
+- desire
+- mindfulness-of-feeling
 ---
 
 Talk about attachment - healthy and unhealthy

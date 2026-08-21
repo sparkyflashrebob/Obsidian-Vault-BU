@@ -2,12 +2,13 @@
 date: 2026-08-10
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Investigating Consciousness"
-location_event: "Audio Archive (Ajahn Sumedho - Investigating Consciousness - 0110 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Investigating Consciousness
+location_event: Audio Archive (Ajahn Sumedho - Investigating Consciousness - 0110
+  - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #fear-and-anxiety, #four-noble-truths, #investigating-consciousness, #karma-and-rebirth, #luang-por-chah, #samatha-vipassana
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Investigating Consciousness

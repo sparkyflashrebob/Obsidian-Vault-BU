@@ -2,12 +2,13 @@
 date: 1978
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Asking yourself questions"
-location_event: "Audio Archive (Ajahn Sumedho - Asking yourself questions (1978) - 03 - 108 Talks by Luang Por Sumedho.mp3)"
+talk_title: Asking yourself questions
+location_event: Audio Archive (Ajahn Sumedho - Asking yourself questions (1978) -
+  03 - 108 Talks by Luang Por Sumedho.mp3)
 tags:
-  - #ajahn-sumedho, #asking-yourself-questions, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #rationality-conceit
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Asking yourself questions

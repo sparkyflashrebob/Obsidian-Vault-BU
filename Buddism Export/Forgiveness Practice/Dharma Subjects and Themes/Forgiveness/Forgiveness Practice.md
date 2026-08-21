@@ -1,7 +1,7 @@
 ---
 Subject: Forgiveness
 tags:
-  - "#forgiveness"
+- forgiveness
 ---
 **
 

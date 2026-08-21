@@ -1,6 +1,6 @@
 ---
 tags:
-  - Mindfulness-of-Feeling
+- mindfulness-of-feeling
 ---
 
 pleasant or unpleasant, light or intense.

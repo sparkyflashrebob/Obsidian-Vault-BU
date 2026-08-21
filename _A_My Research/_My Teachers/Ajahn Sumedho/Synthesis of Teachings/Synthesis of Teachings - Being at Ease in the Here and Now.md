@@ -2,12 +2,13 @@
 date: 2026-08-08
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Being at Ease in the Here and Now"
-location_event: "Audio Archive (Ajahn Sumedho - Being at Ease in the Here and Now - 0105 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Being at Ease in the Here and Now
+location_event: Audio Archive (Ajahn Sumedho - Being at Ease in the Here and Now -
+  0105 - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #being-at-ease-in-the-here-and-now, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #karma-and-rebirth, #luang-por-chah, #rationality-conceit, #samatha-vipassana, #siladhara, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Being at Ease in the Here and Now

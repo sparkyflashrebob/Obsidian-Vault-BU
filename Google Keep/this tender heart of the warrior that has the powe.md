@@ -1,9 +1,9 @@
 ---
 aliases:
-  - this tender heart of the warrior that has the power to heal the world
+- this tender heart of the warrior that has the power to heal the world
 tags:
-  - Quotes
-  - Compassion
+- quotes
+- compassion
 ---
 
 Chogyam Trungpa Rinpoche. "When you awaken your heart, you find to your surprise that your heart is empty. You find you're looking into space. Who are you? Where are you? What is your heart?

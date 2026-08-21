@@ -1,6 +1,6 @@
 ---
 tags:
-  - Internal-External-Collective
+- internal-external-collective
 ---
 
 Intention is linked with impact

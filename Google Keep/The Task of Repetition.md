@@ -1,6 +1,6 @@
 ---
 tags:
-  - Inspirational
+- inspirational
 ---
 
 The Task of Repetition | April 29, 2015

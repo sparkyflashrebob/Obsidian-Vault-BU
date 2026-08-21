@@ -1,7 +1,7 @@
 ---
 tags:
-  - addiction_and_recovery
-  - trauma
+- addiction-and-recovery
+- trauma
 ---
 
 Animals fight flight freeze

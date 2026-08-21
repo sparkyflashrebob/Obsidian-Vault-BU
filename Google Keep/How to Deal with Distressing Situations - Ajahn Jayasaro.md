@@ -1,9 +1,8 @@
 ---
 aliases:
-  - How to Deal with Distressing Situations - Ajahn Jayasaro
+- How to Deal with Distressing Situations - Ajahn Jayasaro
 tags:
-  - Mindfulness-of-Feeling
-  - Mindfulness-of-Feeling
+- mindfulness-of-feeling
 ---
 
 1. Having a Sense of Readiness

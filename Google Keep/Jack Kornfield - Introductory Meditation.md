@@ -1,8 +1,8 @@
 ---
 aliases:
-  - "Jack Kornfield - Introductory Meditation "
+- 'Jack Kornfield - Introductory Meditation '
 tags:
-  - Meditation
+- meditation
 ---
 
 So let's start for a moment with just a little practice arriving where we are. Find a way to sit just for the next three or four minutes in a comfortable and dignified posture. You can sit on a chair. You can sit on the floor, on a cushion or a bench, whatever way your body is comfortable and at ease on the earth. 

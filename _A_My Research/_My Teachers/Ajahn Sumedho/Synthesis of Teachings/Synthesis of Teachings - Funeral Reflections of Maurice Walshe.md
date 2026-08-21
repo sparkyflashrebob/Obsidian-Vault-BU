@@ -2,12 +2,13 @@
 date: 2026-08-09
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Funeral Reflections of Maurice Walshe"
-location_event: "Audio Archive (Ajahn Sumedho - Funeral Reflections of Maurice Walshe - 0504 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Funeral Reflections of Maurice Walshe
+location_event: Audio Archive (Ajahn Sumedho - Funeral Reflections of Maurice Walshe
+  - 0504 - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #bikkhu-sangha, #forgiveness-reconciliation, #funeral-reflections-of-maurice-wals, #luang-por-chah, #samatha-vipassana, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Funeral Reflections of Maurice Walshe

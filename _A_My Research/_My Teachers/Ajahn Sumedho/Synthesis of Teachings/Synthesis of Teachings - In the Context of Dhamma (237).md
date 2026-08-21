@@ -2,12 +2,13 @@
 date: 2026-08-10
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "In the Context of Dhamma (237)"
-location_event: "Audio Archive (Ajahn Sumedho - In the Context of Dhamma (237) - 0912 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: In the Context of Dhamma (237)
+location_event: Audio Archive (Ajahn Sumedho - In the Context of Dhamma (237) - 0912
+  - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #in-the-context-of-dhamma-237, #metta, #rationality-conceit, #samatha-vipassana, #sound-of-silence
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: In the Context of Dhamma (237)
@@ -15,7 +16,7 @@ tags:
 🧘 **Teacher / Speaker**: Ajahn Sumedho  
 📅 **Date of Talk**: 2026-08-10  
 📍 **Event / Source**: Audio Archive (Ajahn Sumedho - In the Context of Dhamma (237) - 0912 - Ajahn Sumedho Podcast by Amaravati.mp3)  
-🏷️ **Topics / Tags**: #ajahn_sumedho, #anapanasati, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #in-the-context-of-dhamma-237, #metta, #rationality-conceit, #samatha-vipassana, #sound-of-silence  
+🏷️ **Topics / Tags**: #ajahn_sumedho, #anapanasati, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #in-the-context, #metta, #rationality-conceit, #samatha-vipassana, #sound-of-silence  
 
 ---
 

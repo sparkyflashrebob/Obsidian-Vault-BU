@@ -1,7 +1,7 @@
 ### Speakers:
 - **Speaker / Presenter**: Ajahn Sumedho
 - **Event / Source**: Audio Archive (Ajahn Sumedho - Magha Puja 2009 - 07 - Ajahn Sumedho Podcast by Amaravati.mp3)
-- **Tags / Topics**: #ajahn_sumedho, #anapanasati, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #luang-por-chah, #magha-puja-2009, #rationality-conceit, #samatha-vipassana, #sound-of-silence, #unborn
+- **Tags / Topics**: #ajahn_sumedho, #anapanasati, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #luang-por-chah, #magha-puja, #rationality-conceit, #samatha-vipassana, #sound-of-silence, #unborn
 ## Summary:
 
 ### Progression of Talk

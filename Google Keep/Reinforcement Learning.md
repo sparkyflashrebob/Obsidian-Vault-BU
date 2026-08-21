@@ -1,6 +1,6 @@
 ---
 tags:
-  - Psychology
+- psychology
 ---
 
 Instead of relying on willpower, the brain makes choices and forms behavior based on a built-in, primitive, reward-based system called reinforcement learning. Whenever the brain has a choice, it gravitates toward the more rewarding option.

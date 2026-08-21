@@ -1,27 +1,27 @@
 ---
 tags:
-  - 12-step-framework
-  - ambient-sensors
-  - concert-planning
-  - concerts
-  - docker
-  - docker-desktop
-  - docker-setup
-  - home-monitoring
-  - household-logistics
-  - media-curation
-  - personal-development
-  - quantum
-  - quantum-physics
-  - recovery
-  - recovery-program
-  - rise-up-sing-out
-  - spiritual-inquiry
-  - temperature
-  - troubleshooting
-  - what-the-bleep-film
-  - bee-nlm-report
-  - krisp-daily-summary
+- 12-step-framework
+- ambient-sensors
+- concert-planning
+- concerts
+- docker
+- docker-desktop
+- docker-setup
+- home-monitoring
+- household-logistics
+- media-curation
+- personal-development
+- quantum
+- quantum-physics
+- recovery
+- recovery-program
+- rise-up-sing
+- spiritual-inquiry
+- temperature
+- troubleshooting
+- what-the-bleep
+- bee-nlm-report
+- krisp-daily-summary
 ---
 
 # Docker troubleshooting and device setup, Concert plans and news browsing, and Sharing recovery steps update

@@ -1,6 +1,6 @@
 ---
 tags:
-  - Music-Production
+- music-production
 ---
 
 Can’t find what you’re looking for? Create your own noises. Below are some ideas to get you started on making some of your own atmospheric effects.

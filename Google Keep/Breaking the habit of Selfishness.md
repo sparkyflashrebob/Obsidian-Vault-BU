@@ -1,6 +1,6 @@
 ---
 tags:
-  - Inspirational
+- inspirational
 ---
 
 1. With a determination to accomplish the highest welfare for all sentient beings who surpass even a wish-granting jewel I will hold them supremely dear.

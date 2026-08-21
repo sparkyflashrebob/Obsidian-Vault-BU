@@ -1,8 +1,8 @@
 ---
 tags:
-  - Sakkaya-Ditthi
-  - quotes
-  - Spirituality
+- sakkaya-ditthi
+- quotes
+- spirituality
 ---
 
 “In Louisville, at the corner of Fourth and Walnut, in the center of the shopping district, I was suddenly overwhelmed with the realization that I loved all these people, that they were mine and I theirs, that we could not be alien to one another even though we were total strangers. It was like waking from a dream of separateness, of spurious self-isolation in a special world. . . .

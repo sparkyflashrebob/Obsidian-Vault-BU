@@ -1,7 +1,7 @@
 ---
 tags:
-  - Prayer-Book
-  - Inspirational
+- prayer-book
+- inspirational
 ---
 
 She's in the sun,

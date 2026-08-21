@@ -1,7 +1,7 @@
 ---
 tags:
-  - Sakkaya-Ditthi
-  - quotes
+- sakkaya-ditthi
+- quotes
 ---
 
 Marcus Aurelius

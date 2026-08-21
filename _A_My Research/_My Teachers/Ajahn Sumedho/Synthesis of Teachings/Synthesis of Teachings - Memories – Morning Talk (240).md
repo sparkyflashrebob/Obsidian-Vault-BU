@@ -2,12 +2,13 @@
 date: 2026-08-10
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Memories – Morning Talk (240)"
-location_event: "Audio Archive (Ajahn Sumedho - Memories – Morning Talk (240) - 0919 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Memories – Morning Talk (240)
+location_event: Audio Archive (Ajahn Sumedho - Memories – Morning Talk (240) - 0919
+  - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #memories-morning-talk-240
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Memories – Morning Talk (240)

@@ -1,8 +1,8 @@
 ---
 aliases:
-  - https://en.wikipedia.org/wiki/Ship_of_Theseus
+- https://en.wikipedia.org/wiki/Ship_of_Theseus
 tags:
-  - Identity-View
+- identity-view
 ---
 
 Identity View

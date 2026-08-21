@@ -1,7 +1,7 @@
 ### Speakers:
 - **Speaker / Presenter**: Ajahn Sumedho
 - **Event / Source**: Audio Archive (Ajahn Sumedho - Senual Pleasure - 00 - Unknown.m4a)
-- **Tags / Topics**: #ajahn_sumedho, #anapanasati, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #samatha-vipassana, #senual-pleasure-00-unknown, #sound-of-silence
+- **Tags / Topics**: #ajahn_sumedho, #anapanasati, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #samatha-vipassana, #senual-pleasure-00, #sound-of-silence
 ## Summary:
 
 ### Progression of Talk

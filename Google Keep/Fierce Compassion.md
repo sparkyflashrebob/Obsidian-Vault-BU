@@ -1,7 +1,6 @@
 ---
 tags:
-  - Compassion
-  - Compassion
+- compassion
 ---
 
 "yin" is being with - comforting-connecting and validating the pain of another

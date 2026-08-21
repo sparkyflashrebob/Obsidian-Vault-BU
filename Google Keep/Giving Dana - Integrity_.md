@@ -1,8 +1,8 @@
 ---
 aliases:
-  - "Giving Dana - Integrity "
+- 'Giving Dana - Integrity '
 tags:
-  - Brahmavihara/Paramis
+- brahmavihara/paramis
 ---
 
 Rules:

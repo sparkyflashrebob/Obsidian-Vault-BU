@@ -1,4 +1,4 @@
 ---
 tags:
-  - Insights-Reminders
+- insights-reminders
 ---

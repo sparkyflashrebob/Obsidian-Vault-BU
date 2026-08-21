@@ -1,13 +1,13 @@
 ---
 tags:
-  - views
-  - self
-  - Past-Present-Future
-  - inappropriate
-  - attention
-  - fetter
-  - stress
-  - dukkha
+- views
+- self
+- past-present-future
+- inappropriate
+- attention
+- fetter
+- stress
+- dukkha
 ---
 
 This is how he attends inappropriately: 

@@ -1,8 +1,8 @@
 ---
 tags:
-  - "#connection"
-  - "#karma"
-  - "#two_wolves"
+- connection
+- karma
+- two-wolves
 ---
 
 

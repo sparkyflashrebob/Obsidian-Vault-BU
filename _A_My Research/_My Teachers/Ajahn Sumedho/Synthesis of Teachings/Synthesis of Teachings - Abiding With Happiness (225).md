@@ -2,12 +2,13 @@
 date: 2026-08-06
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Abiding With Happiness (225)"
-location_event: "Audio Archive (Ajahn Sumedho - Abiding With Happiness (225) - 0518 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Abiding With Happiness (225)
+location_event: Audio Archive (Ajahn Sumedho - Abiding With Happiness (225) - 0518
+  - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #abiding-with-happiness-225, #ajahn-sumedho, #anapanasati, #brahmaviharas, #fear-and-anxiety, #four-noble-truths, #karma-and-rebirth, #metta, #rationality-conceit, #samatha-vipassana, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Abiding With Happiness (225)
@@ -15,7 +16,7 @@ tags:
 🧘 **Teacher / Speaker**: Ajahn Sumedho  
 📅 **Date of Talk**: 2026-08-06  
 📍 **Event / Source**: Audio Archive (Ajahn Sumedho - Abiding With Happiness (225) - 0518 - Ajahn Sumedho Podcast by Amaravati.mp3)  
-🏷️ **Topics / Tags**: #abiding-with-happiness-225, #ajahn_sumedho, #anapanasati, #brahmaviharas, #fear-and-anxiety, #four-noble-truths, #karma-and-rebirth, #metta, #rationality-conceit, #samatha-vipassana, #unborn  
+🏷️ **Topics / Tags**: #abiding-with-happiness, #ajahn_sumedho, #anapanasati, #brahmaviharas, #fear-and-anxiety, #four-noble-truths, #karma-and-rebirth, #metta, #rationality-conceit, #samatha-vipassana, #unborn  
 
 ---
 

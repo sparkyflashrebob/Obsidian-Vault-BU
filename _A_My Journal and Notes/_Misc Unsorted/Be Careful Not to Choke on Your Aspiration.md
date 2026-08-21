@@ -1,6 +1,6 @@
 ---
 tags:
-  - Sakkaya-Ditthi
-  - desire
-  - humility
+- sakkaya-ditthi
+- desire
+- humility
 ---

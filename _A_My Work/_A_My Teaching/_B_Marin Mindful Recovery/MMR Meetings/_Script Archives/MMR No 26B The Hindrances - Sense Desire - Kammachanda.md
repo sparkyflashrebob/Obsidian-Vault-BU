@@ -1,5 +1,7 @@
 ---
-tags: Hindrances, mindful-of-mind-objects
+tags:
+- hindrances
+- mindful-of-mind
 ---
 MMR#26B Kammachanda (Continued)
 Today we will mostly spend time discussing this first Hindrance - Kammachanda otherwise known as [[Sense-Desire]]. [[Chanda]] simply means desire. [[Kama]] is a strong word referring to sense pleasure, sensual passion, and sexual lust. Together they refer to compulsive

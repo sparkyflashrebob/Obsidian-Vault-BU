@@ -1,6 +1,6 @@
 ---
 tags:
-  - Poems
+- poems
 ---
 
 A shooting star, a clouding of the sight, 

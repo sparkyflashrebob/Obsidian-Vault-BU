@@ -2,12 +2,13 @@
 date: 2026-08-07
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Awakened Reality- Afternoon Talk Reflection"
-location_event: "Audio Archive (Ajahn Sumedho - Awakened Reality- Afternoon Talk Reflection - 21 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Awakened Reality- Afternoon Talk Reflection
+location_event: Audio Archive (Ajahn Sumedho - Awakened Reality- Afternoon Talk Reflection
+  - 21 - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #awakened-reality-afternoon-talk-ref, #four-noble-truths, #karma-and-rebirth, #rationality-conceit, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Awakened Reality- Afternoon Talk Reflection

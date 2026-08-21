@@ -2,12 +2,13 @@
 date: 2026-08-10
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Metta- The Way of Total Acceptance"
-location_event: "Audio Archive (Ajahn Sumedho - Metta- The Way of Total Acceptance - 0918 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Metta- The Way of Total Acceptance
+location_event: Audio Archive (Ajahn Sumedho - Metta- The Way of Total Acceptance
+  - 0918 - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #fear-and-anxiety, #karma-and-rebirth, #metta, #metta-the-way-of-total-acceptance, #rationality-conceit, #siladhara
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Metta- The Way of Total Acceptance

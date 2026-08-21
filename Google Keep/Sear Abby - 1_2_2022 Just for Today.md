@@ -1,9 +1,9 @@
 ---
 aliases:
-  - Sear Abby - 1/2/2022 Just for Today
+- Sear Abby - 1/2/2022 Just for Today
 tags:
-  - Spirituality
-  - just_for_today
+- spirituality
+- just-for-today
 ---
 
 Dear Abby: A new year brings a chance to shed old habits, if only for a day

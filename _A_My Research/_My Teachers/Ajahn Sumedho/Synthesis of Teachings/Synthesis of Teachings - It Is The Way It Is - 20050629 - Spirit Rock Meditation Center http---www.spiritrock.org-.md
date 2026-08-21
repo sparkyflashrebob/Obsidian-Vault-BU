@@ -5,7 +5,7 @@ teacher: Ajahn Sumedho
 talk_title: "It Is The Way It Is - 20050629 - Spirit Rock Meditation Center http---www.spiritrock.org-"
 location_event: "Audio Archive (Ajahn Sumedho - It Is The Way It Is - 20050629 - Spirit Rock Meditation Center http---www.spiritrock.org-.mp3)"
 tags:
-  - #ajahn-sumedho, #fear-and-anxiety, #four-noble-truths, #it-is-the-way-it-is-20050629-spirit, #karma-and-rebirth, #luang-por-chah, #rationality-conceit, #samatha-vipassana, #sound-of-silence, #unborn
+  - #ajahn-sumedho, #fear-and-anxiety, #four-noble-truths, #it-is-the, #karma-and-rebirth, #luang-por-chah, #rationality-conceit, #samatha-vipassana, #sound-of-silence, #unborn
   - dharma-talk
   - spiritual-synthesis
 ---
@@ -15,7 +15,7 @@ tags:
 🧘 **Teacher / Speaker**: Ajahn Sumedho  
 📅 **Date of Talk**: 2026-08-10  
 📍 **Event / Source**: Audio Archive (Ajahn Sumedho - It Is The Way It Is - 20050629 - Spirit Rock Meditation Center http---www.spiritrock.org-.mp3)  
-🏷️ **Topics / Tags**: #ajahn_sumedho, #fear-and-anxiety, #four-noble-truths, #it-is-the-way-it-is-20050629-spirit, #karma-and-rebirth, #luang-por-chah, #rationality-conceit, #samatha-vipassana, #sound-of-silence, #unborn  
+🏷️ **Topics / Tags**: #ajahn_sumedho, #fear-and-anxiety, #four-noble-truths, #it-is-the, #karma-and-rebirth, #luang-por-chah, #rationality-conceit, #samatha-vipassana, #sound-of-silence, #unborn  
 
 ---
 

@@ -3612,7 +3612,7 @@ Google Scholar
 
 https://scholar.google.com/scholar\_lookup?journal=J.%20Clin.%20Psychol&title=Immigration%20stress%20and%20alcohol%20use%20severity%20among%20recently%20immigrated%20Hispanic%20adults:%20Examining%20moderating%20effects%20of%20gender,%20immigration%20status%20and%20social%20support&author=M%20Cano&author=M%20Sanchez&author=M%20Trepka&author=FR%20Dillon&author=DM%20Sheehan&volume=73&issue=3&publication\_year=2017&pages=294-307&pmid=27228112&doi=10.1002/jclp.22330&
 
-Carney R, Stratford B, Moore K, Rojas A, Daneri M, 2015. What works for reducing problem behaviors in early childhood: Lessons from experimental evaluations. Publication #2015–32. Bethesda, MD: Child Trends.  \[
+Carney R, Stratford B, Moore K, Rojas A, Daneri M, 2015. What works for reducing problem behaviors in early childhood: Lessons from experimental evaluations. Publication–32. Bethesda, MD: Child Trends.  \[
 
 Google Scholar
 

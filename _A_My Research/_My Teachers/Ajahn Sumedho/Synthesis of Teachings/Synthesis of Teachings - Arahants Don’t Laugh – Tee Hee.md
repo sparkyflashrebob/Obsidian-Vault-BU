@@ -2,12 +2,13 @@
 date: 2026-08-07
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Arahants Don’t Laugh – Tee Hee"
-location_event: "Audio Archive (Ajahn Sumedho - Arahants Don’t Laugh – Tee Hee - 0311 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Arahants Don’t Laugh – Tee Hee
+location_event: Audio Archive (Ajahn Sumedho - Arahants Don’t Laugh – Tee Hee - 0311
+  - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #arahants-don-t-laugh-tee-hee, #brahmaviharas, #fear-and-anxiety, #four-noble-truths, #karma-and-rebirth, #samatha-vipassana, #siladhara, #sound-of-silence, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Arahants Don’t Laugh – Tee Hee

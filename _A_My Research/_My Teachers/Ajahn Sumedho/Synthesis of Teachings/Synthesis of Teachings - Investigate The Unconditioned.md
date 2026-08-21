@@ -2,12 +2,13 @@
 date: 2026-08-10
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Investigate The Unconditioned"
-location_event: "Audio Archive (Ajahn Sumedho - Investigate The Unconditioned - 19 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Investigate The Unconditioned
+location_event: Audio Archive (Ajahn Sumedho - Investigate The Unconditioned - 19
+  - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #investigate-the-unconditioned, #karma-and-rebirth, #metta, #rationality-conceit, #samatha-vipassana, #siladhara, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Investigate The Unconditioned

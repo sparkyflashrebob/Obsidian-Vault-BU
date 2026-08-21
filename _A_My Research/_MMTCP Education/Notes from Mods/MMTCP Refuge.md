@@ -1,6 +1,6 @@
 ---
 tags:
-  - Refuge-Triple-Gem
+- refuge-triple-gem
 Created: 2024-07-21
 ---
 

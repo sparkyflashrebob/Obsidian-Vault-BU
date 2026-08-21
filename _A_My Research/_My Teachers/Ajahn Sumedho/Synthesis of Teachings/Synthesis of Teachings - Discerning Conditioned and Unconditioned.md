@@ -2,12 +2,13 @@
 date: 2026-08-09
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Discerning Conditioned and Unconditioned"
-location_event: "Audio Archive (Ajahn Sumedho - Discerning Conditioned and Unconditioned - 19 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Discerning Conditioned and Unconditioned
+location_event: Audio Archive (Ajahn Sumedho - Discerning Conditioned and Unconditioned
+  - 19 - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #bikkhu-sangha, #discerning-conditioned-and-uncondit, #fear-and-anxiety, #four-noble-truths, #karma-and-rebirth, #luang-por-chah, #samatha-vipassana, #siladhara, #sound-of-silence, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Discerning Conditioned and Unconditioned

@@ -1,7 +1,7 @@
 ---
 tags:
-  - Prayer-Book
-  - Inspirational
+- prayer-book
+- inspirational
 ---
 
 FIVE SUBJECTS FOR FREQUENT RECOLLECTION 

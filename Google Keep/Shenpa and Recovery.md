@@ -1,6 +1,6 @@
 ---
 tags:
-  - addiction_and_recovery
+- addiction-and-recovery
 ---
 
 Tibetian - an unwillingness of human beings to let go of certain thoughts, particularly those that cause us suffering.

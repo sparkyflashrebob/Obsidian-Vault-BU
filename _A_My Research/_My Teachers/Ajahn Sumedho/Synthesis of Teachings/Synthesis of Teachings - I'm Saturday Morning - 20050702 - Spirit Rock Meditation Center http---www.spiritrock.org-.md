@@ -5,7 +5,7 @@ teacher: Ajahn Sumedho
 talk_title: "I'm Saturday Morning - 20050702 - Spirit Rock Meditation Center http---www.spiritrock.org-"
 location_event: "Audio Archive (Ajahn Sumedho - I'm Saturday Morning - 20050702 - Spirit Rock Meditation Center http---www.spiritrock.org-.mp3)"
 tags:
-  - #ajahn-sumedho, #bikkhu-sangha, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #i-m-saturday-morning-20050702-spiri, #luang-por-chah, #samatha-vipassana, #unborn
+  - #ajahn-sumedho, #bikkhu-sangha, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #i-m-saturday, #luang-por-chah, #samatha-vipassana, #unborn
   - dharma-talk
   - spiritual-synthesis
 ---
@@ -15,7 +15,7 @@ tags:
 🧘 **Teacher / Speaker**: Ajahn Sumedho  
 📅 **Date of Talk**: 2026-08-10  
 📍 **Event / Source**: Audio Archive (Ajahn Sumedho - I'm Saturday Morning - 20050702 - Spirit Rock Meditation Center http---www.spiritrock.org-.mp3)  
-🏷️ **Topics / Tags**: #ajahn_sumedho, #bikkhu-sangha, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #i-m-saturday-morning-20050702-spiri, #luang-por-chah, #samatha-vipassana, #unborn  
+🏷️ **Topics / Tags**: #ajahn_sumedho, #bikkhu-sangha, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #i-m-saturday, #luang-por-chah, #samatha-vipassana, #unborn  
 
 ---
 

@@ -1,10 +1,10 @@
 ---
 aliases:
-  - "Core Training: Mindfulness of Emotions"
+- 'Core Training: Mindfulness of Emotions'
 tags:
-  - core
-  - ForTeaching
-  - Mindfulness-of-Emotions
+- core
+- forteaching
+- mindfulness-of-emotions
 ---
 
 Taking your seat in an upright and yet comfortable way.

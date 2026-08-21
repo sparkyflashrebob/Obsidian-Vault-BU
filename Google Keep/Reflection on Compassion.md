@@ -1,6 +1,6 @@
 ---
 tags:
-  - Compassion
+- compassion
 ---
 
 Reflect –

@@ -1,7 +1,7 @@
 ### Speakers:
 - **Speaker / Presenter**: Ajahn Sumedho
 - **Event / Source**: Audio Archive (Ajahn Sumedho - Paying Attention - 00 - 2006-05-20  AMV 10 Day Retreat http---www.amaravati.org.mp3)
-- **Tags / Topics**: #ajahn_sumedho, #bikkhu-sangha, #four-noble-truths, #luang-por-chah, #paying-attention-00-2006-05-20-amv, #sound-of-silence
+- **Tags / Topics**: #ajahn_sumedho, #bikkhu-sangha, #four-noble-truths, #luang-por-chah, #paying-attention-0005, #sound-of-silence
 ## Summary:
 
 ### Progression of Talk

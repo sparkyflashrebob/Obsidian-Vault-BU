@@ -1,7 +1,7 @@
 ---
 tags:
-  - Prayer-Book
-  - spiritual_practice
+- prayer-book
+- spiritual-practice
 ---
 
 God, I offer myself to Thee to build with

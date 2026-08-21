@@ -1,9 +1,9 @@
 ---
 aliases:
-  - Mindfulness and Meditation Relevant to What we are going thru every day
+- Mindfulness and Meditation Relevant to What we are going thru every day
 tags:
-  - Quotes
-  - life
+- quotes
+- life
 ---
 
 What was most important to me was how the practices of mindfulness and meditation were relevant to what I was actually going through every day. And of course I would imagine this to be true for most practitioners, regardless of the circumstances of their background, families of origin, or difficulties that they have experienced.

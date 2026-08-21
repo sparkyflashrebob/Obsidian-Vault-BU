@@ -1,8 +1,8 @@
 ---
 aliases:
-  - "The Right to Ask Questions "
+- 'The Right to Ask Questions '
 tags:
-  - Inspirational
+- inspirational
 ---
 
 The Right to Ask Questions | May 1, 2015

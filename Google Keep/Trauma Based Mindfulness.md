@@ -1,7 +1,7 @@
 ---
 tags:
-  - trauma
-  - window_of_tolerance
+- trauma
+- window-of-tolerance
 ---
 
 Rule Stay with the window of tolerance

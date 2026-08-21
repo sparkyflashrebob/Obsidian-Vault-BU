@@ -1,8 +1,8 @@
 ---
 tags:
-  - Inspirational
-  - emptiness
-  - dukkha
+- inspirational
+- emptiness
+- dukkha
 ---
 
 There is that sphere of being 

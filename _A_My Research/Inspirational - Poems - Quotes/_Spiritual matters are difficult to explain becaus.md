@@ -1,10 +1,11 @@
 ---
 aliases:
-  - '"Spiritual matters are difficult to explain because you must live with them in order to fully understand them."'
-  - -- Thomas Yellowtail, CROW
+- '"Spiritual matters are difficult to explain because you must live with them in
+  order to fully understand them."'
+- -- Thomas Yellowtail, CROW
 Theme: spiritual matters
 tags:
-  - "#direct_experience"
+- direct-experience
 ---
 
 Elder's Meditation of the Day - April 11

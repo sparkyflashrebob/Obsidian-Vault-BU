@@ -1,9 +1,9 @@
 ---
 aliases:
-  - the checkpoint series mindful breathing
-  - exercise with Jennifer Hale
+- the checkpoint series mindful breathing
+- exercise with Jennifer Hale
 tags:
-  - Meditation
+- meditation
 ---
 
 find a comfortable position sitting or lying down if you'd like to you can

@@ -1,7 +1,7 @@
 ---
 tags:
-  - core
-  - Noble-Eightfold-Path
+- core
+- noble-eightfold-path
 ---
 
 We suffer (the first noble truth) because we are ignorant about the true nature of ourselves and our reality (the second noble truth). Mistakenly believing in a solid,

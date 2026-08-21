@@ -1,7 +1,7 @@
 ---
 tags:
-  - Quotes
-  - Compassion
+- quotes
+- compassion
 ---
 
 “Compassion can be described as letting ourselves be touched by the vulnerability and suffering that is within ourselves and all beings.

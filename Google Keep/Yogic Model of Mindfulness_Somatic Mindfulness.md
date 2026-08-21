@@ -1,9 +1,9 @@
 ---
 aliases:
-  - Yogic Model of Mindfulness/Somatic Mindfulness
+- Yogic Model of Mindfulness/Somatic Mindfulness
 tags:
-  - mindfulness
-  - Mindfulness-of-the-Body
+- mindfulness
+- mindfulness-of-body
 ---
 
 Attention emerges from deep within the body

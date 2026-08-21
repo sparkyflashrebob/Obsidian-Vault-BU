@@ -2,13 +2,14 @@
 title: Scholar GPT
 source: https://chatgpt.com/g/g-kZ0eYXlJe-scholar-gpt/c/68fe7954-9964-8326-8575-cac6182a0962
 author:
-  - "[[Gil Fronsdhal Teachings ChatGPT]]"
-published:
+- '[[Gil Fronsdhal Teachings ChatGPT]]'
+published: null
 created: 2025-10-26
-description: ChatGPT is your AI chatbot for everyday use. Chat with the most advanced AI to explore ideas, solve problems, and learn faster.
+description: ChatGPT is your AI chatbot for everyday use. Chat with the most advanced
+  AI to explore ideas, solve problems, and learn faster.
 tags:
-  - clippings
-  - "#perception"
+- clippings
+- perception
 ---
 How do scholars and educators view perception? And how does this differ from the Buddhist interpretation of perception? Likewise with Neural scientists.
 

@@ -1,8 +1,8 @@
 ---
 aliases:
-  - "Topics for Discussion: Kathāvatthu Sutta  (AN 3:68)"
+- 'Topics for Discussion: Kathāvatthu Sutta  (AN 3:68)'
 tags:
-  - MMR-Topics
+- mmr-topics
 ---
 Those who discuss
 when angered, dogmatic, arrogant,

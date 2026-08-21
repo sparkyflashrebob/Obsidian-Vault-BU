@@ -1,24 +1,24 @@
 ---
 tags:
-  - 12-step-framework
-  - ambient-sensors
-  - bee-reports
-  - concert-planning
-  - concerts
-  - daily-notes
-  - home-monitoring
-  - household-logistics
-  - logging
-  - media-curation
-  - obsidian
-  - personal-development
-  - recovery
-  - recovery-program
-  - rise-up-sing-out
-  - temperature
-  - workflow
-  - bee-nlm-report
-  - krisp-daily-summary
+- 12-step-framework
+- ambient-sensors
+- bee-reports
+- concert-planning
+- concerts
+- daily-notes
+- home-monitoring
+- household-logistics
+- logging
+- media-curation
+- obsidian
+- personal-development
+- recovery
+- recovery-program
+- rise-up-sing
+- temperature
+- workflow
+- bee-nlm-report
+- krisp-daily-summary
 ---
 
 # Recovery Meeting on Fear, Joshua Tree vacation stories shared, and Recovery meeting and daily errands

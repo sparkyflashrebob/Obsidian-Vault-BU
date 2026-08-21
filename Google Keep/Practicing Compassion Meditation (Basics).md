@@ -1,8 +1,8 @@
 ---
 tags:
-  - ForTeaching
-  - Compassion
-  - Meditation
+- forteaching
+- compassion
+- meditation
 ---
 
 1. Let yourself sit in a centered and quiet way.

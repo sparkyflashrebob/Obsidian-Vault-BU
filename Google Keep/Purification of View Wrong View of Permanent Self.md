@@ -1,8 +1,8 @@
 ---
 aliases:
-  - Purification of View (Wrong View of Permanent Self)
+- Purification of View (Wrong View of Permanent Self)
 tags:
-  - Buddhist-Concepts
+- buddhist-concepts
 Created: 2024-06-16
 ---
 

@@ -1,7 +1,7 @@
 ---
 tags:
-  - Compassion
-  - Story
+- compassion
+- story
 ---
 
 The Kenyan-born poet

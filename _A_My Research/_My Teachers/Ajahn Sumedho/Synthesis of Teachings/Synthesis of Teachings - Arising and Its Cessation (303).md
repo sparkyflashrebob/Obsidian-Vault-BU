@@ -2,12 +2,13 @@
 date: 2026-08-07
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Arising and Its Cessation (303)"
-location_event: "Audio Archive (Ajahn Sumedho - Arising and Its Cessation (303) - 0919 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Arising and Its Cessation (303)
+location_event: Audio Archive (Ajahn Sumedho - Arising and Its Cessation (303) - 0919
+  - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #arising-and-its-cessation-303, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #rationality-conceit, #sound-of-silence, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Arising and Its Cessation (303)

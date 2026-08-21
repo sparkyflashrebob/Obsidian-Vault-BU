@@ -1,6 +1,6 @@
 ---
 tags:
-  - Mind
+- mind
 ---
 
 Confirmation bias, also called myside bias, is the tendency to search for or interpret information in a way that confirms one's beliefs or hypotheses.[Note 1][1] People display this bias when they gather or remember information selectively, or when they interpret it in a biased way. The effect is stronger for emotionally charged issues and for deeply entrenched beliefs. People also tend to interpret ambiguous evidence as supporting their existing position. Biased search, interpretation and memory have been invoked to explain attitude polarization (when a disagreement becomes more extreme even though the different parties are exposed to the same evidence), belief perseverance (when beliefs persist after the evidence for them is shown to be false), the irrational primacy effect (a greater reliance on information encountered early in a series) and illusory correlation (when people falsely perceive an association between two events or situations).

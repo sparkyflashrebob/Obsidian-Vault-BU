@@ -1,6 +1,6 @@
 ---
 tags:
-  - Compassion
+- compassion
 ---
 
 Turning Towards.  Leaning in. Being with.

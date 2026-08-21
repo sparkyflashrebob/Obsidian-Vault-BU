@@ -1,8 +1,8 @@
 ---
 aliases:
-  - Ajahn Sumedho - Follow Your Heart, Intuition, or Trusting Awareness
+- Ajahn Sumedho - Follow Your Heart, Intuition, or Trusting Awareness
 tags:
-  - Brahmavihara/Paramis
+- brahmavihara/paramis
 ---
 
 These are just words - intellect - dualistic - right and wrong, etc.

@@ -2,12 +2,13 @@
 date: 2005
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Unspoken immanent awareness"
-location_event: "108 Talks Series / Ajahn Sumedho Archives (Ajahn Sumedho - Unspoken immanent awareness (2005) - 73 - 108 Talks by Luang Por Sumedho.mp3.md)"
+talk_title: Unspoken immanent awareness
+location_event: 108 Talks Series / Ajahn Sumedho Archives (Ajahn Sumedho - Unspoken
+  immanent awareness (2005) - 73 - 108 Talks by Luang Por Sumedho.mp3.md)
 tags:
-  - ajahn-sumedho, unspoken-immanent-awareness, consciousness, mindfulness, buddho
-  - dharma-talk
-  - spiritual-synthesis
+- mindfulness-practice
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Unspoken immanent awareness

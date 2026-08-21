@@ -2,12 +2,13 @@
 date: 2026-08-08
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Consciousness (28 June 2013) - 00 - Talks From Thailand"
-location_event: "Audio Archive (Ajahn Sumedho - Consciousness (28 June 2013) - 00 - Talks From Thailand.mp3)"
+talk_title: Consciousness (28 June 2013) - 00 - Talks From Thailand
+location_event: Audio Archive (Ajahn Sumedho - Consciousness (28 June 2013) - 00 -
+  Talks From Thailand.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #bikkhu-sangha, #consciousness-28-june-2013-00-talks, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #khandhas, #luang-por-chah, #samatha-vipassana, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Consciousness (28 June 2013) - 00 - Talks From Thailand
@@ -15,7 +16,7 @@ tags:
 🧘 **Teacher / Speaker**: Ajahn Sumedho  
 📅 **Date of Talk**: 2026-08-08  
 📍 **Event / Source**: Audio Archive (Ajahn Sumedho - Consciousness (28 June 2013) - 00 - Talks From Thailand.mp3)  
-🏷️ **Topics / Tags**: #ajahn_sumedho, #anapanasati, #bikkhu-sangha, #consciousness-28-june-2013-00-talks, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #khandhas, #luang-por-chah, #samatha-vipassana, #unborn  
+🏷️ **Topics / Tags**: #ajahn_sumedho, #anapanasati, #bikkhu-sangha, #consciousness00-talks, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #khandhas, #luang-por-chah, #samatha-vipassana, #unborn  
 
 ---
 

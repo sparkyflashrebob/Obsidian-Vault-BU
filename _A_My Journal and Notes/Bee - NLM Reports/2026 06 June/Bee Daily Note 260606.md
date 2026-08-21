@@ -1,22 +1,21 @@
 ---
-date: "2026-06-06"
-
+date: '2026-06-06'
 tags:
-  - institute-for-mental-physics
-  - joshua-tree-retreat
-  - dharma-and-meditation
-  - health-monitoring
-  - physical-discomfort
-  - recovery-fellowship
-  - buddhist-principles
-  - fellowship
-  - recovery-principles
-  - samvega
-  - bee-reports
-  - daily-notes
-  - daily-diary
-  - bee-nlm-report
-  - activity-details-architecture
+- mental-physics
+- joshua-tree-retreat
+- dharma-and-meditation
+- health-monitoring
+- physical-discomfort
+- recovery-fellowship
+- buddhist-principles
+- fellowship
+- recovery-principles
+- samvega
+- bee-reports
+- daily-notes
+- daily-diary
+- bee-nlm-report
+- activity-details-architecture
 ---
 
 # Energy healing class reflections, Helping with Notebook LM setup, Dinner planning miscommunication

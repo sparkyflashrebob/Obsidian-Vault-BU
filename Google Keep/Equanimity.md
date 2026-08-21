@@ -1,7 +1,7 @@
 ---
 tags:
-  - Brahmavihara/Paramis
-  - quotes
+- brahmavihara/paramis
+- quotes
 ---
 
 If your mind becomes firm like a rock

@@ -2,12 +2,12 @@
 date: 2026-08-08
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Being Honest - 15 - Amaravati Sunday"
-location_event: "Audio Archive (Ajahn Sumedho - Being Honest - 15 - Amaravati Sunday.mp3)"
+talk_title: Being Honest - 15 - Amaravati Sunday
+location_event: Audio Archive (Ajahn Sumedho - Being Honest - 15 - Amaravati Sunday.mp3)
 tags:
-  - #ajahn-sumedho, #being-honest-15-amaravati-sunday, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #luang-por-chah, #rationality-conceit, #siladhara
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Being Honest - 15 - Amaravati Sunday
@@ -15,7 +15,7 @@ tags:
 🧘 **Teacher / Speaker**: Ajahn Sumedho  
 📅 **Date of Talk**: 2026-08-08  
 📍 **Event / Source**: Audio Archive (Ajahn Sumedho - Being Honest - 15 - Amaravati Sunday.mp3)  
-🏷️ **Topics / Tags**: #ajahn_sumedho, #being-honest-15-amaravati-sunday, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #luang-por-chah, #rationality-conceit, #siladhara  
+🏷️ **Topics / Tags**: #ajahn_sumedho, #being-honest-15, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #luang-por-chah, #rationality-conceit, #siladhara  
 
 ---
 

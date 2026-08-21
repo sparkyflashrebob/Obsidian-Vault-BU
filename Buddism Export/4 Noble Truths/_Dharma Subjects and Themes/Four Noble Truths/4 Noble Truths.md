@@ -1,8 +1,8 @@
 ---
 tags:
-  - four_noble_truths
-  - dharma
-  - "#conditionality"
+- four-noble-truths
+- dharma
+- conditionality
 Created: 2024-07-21
 ---
 This is suffering

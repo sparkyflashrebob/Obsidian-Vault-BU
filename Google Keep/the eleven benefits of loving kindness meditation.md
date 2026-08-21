@@ -1,6 +1,6 @@
 ---
 tags:
-  - Paramis
+- paramis
 ---
 
 1. You will sleep easily

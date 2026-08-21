@@ -1,6 +1,6 @@
 ---
 tags:
-  - Quotes
+- quotes
 ---
 
 Watching the moon at midnight, solitary, mid-sky, I knew myself completely, No part left out. —IZUMI SHIKIBU

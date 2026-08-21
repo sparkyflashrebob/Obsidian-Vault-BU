@@ -1,7 +1,7 @@
 ---
 tags:
-  - mmtcp
-  - RAIN
+- mmtcp
+- rain
 ---
 
 Reflect on a "stuck place" where we are getting caught in difficult emotions

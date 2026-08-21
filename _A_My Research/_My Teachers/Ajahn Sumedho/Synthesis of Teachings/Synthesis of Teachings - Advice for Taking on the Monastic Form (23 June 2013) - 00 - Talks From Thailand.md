@@ -2,12 +2,14 @@
 date: 2026-08-07
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Advice for Taking on the Monastic Form (23 June 2013) - 00 - Talks From Thailand"
-location_event: "Audio Archive (Ajahn Sumedho - Advice for Taking on the Monastic Form (23 June 2013) - 00 - Talks From Thailand.mp3)"
+talk_title: Advice for Taking on the Monastic Form (23 June 2013) - 00 - Talks From
+  Thailand
+location_event: Audio Archive (Ajahn Sumedho - Advice for Taking on the Monastic Form
+  (23 June 2013) - 00 - Talks From Thailand.mp3)
 tags:
-  - #advice-for-taking-on-the-monastic-f, #ajahn-sumedho, #anapanasati, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #khandhas, #luang-por-chah, #rationality-conceit, #samatha-vipassana
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Advice for Taking on the Monastic Form (23 June 2013) - 00 - Talks From Thailand

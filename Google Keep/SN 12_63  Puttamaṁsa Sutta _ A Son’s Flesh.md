@@ -1,8 +1,8 @@
 ---
 aliases:
-  - SN 12:63  Puttamaṁsa Sutta | A Son’s Flesh
+- SN 12:63  Puttamaṁsa Sutta | A Son’s Flesh
 tags:
-  - Buddhist-Concepts
+- buddhist-concepts
 Created: 2024-06-16
 ---
 

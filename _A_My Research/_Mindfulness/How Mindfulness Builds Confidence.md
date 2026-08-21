@@ -2,13 +2,14 @@
 title: How Mindfulness Builds Confidence
 source: https://www.lionsroar.com/how-mindfulness-builds-confidence/
 author:
-  - "[[Lion’s Roar]]"
+- '[[Lion’s Roar]]'
 published: 2025-01-28
 created: 2025-02-09
-description: Ethan Nichtern on how mindfulness can help you “take your seat” and trust yourself — to trust your decisions and your ability to navigate whatever arises.
+description: Ethan Nichtern on how mindfulness can help you “take your seat” and trust
+  yourself — to trust your decisions and your ability to navigate whatever arises.
 tags:
-  - clippings
-  - "#trust_your_own_mind"
+- clippings
+- trust-your-own
 ---
 Cultivating #confidence isn’t always what comes to mind when people think of mindfulness, nor the reason why they decide to practice meditation or study Buddhism. We often start out looking to #reduce_stress or just generally be more grateful and #present for all the little moments of daily life. But in talking to people over the years, I’ve found that just below an initial set of attractions to Buddhist practice lurk questions of #self-worth. People want to work with their insecurities. They want to learn how to #trust the choices they make and trust that they’ll be capable of navigating the unknown.
 

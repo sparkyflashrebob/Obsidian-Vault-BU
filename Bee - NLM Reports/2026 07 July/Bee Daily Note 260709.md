@@ -1,27 +1,27 @@
 ---
 tags:
-  - 12-step-framework
-  - ambient-sensors
-  - cinema-analysis
-  - college-of-marin
-  - community-building
-  - dune
-  - dune-part-two
-  - home-monitoring
-  - household-logistics
-  - media-curation
-  - meditation
-  - meditation-group
-  - personal-development
-  - quantum
-  - quantum-physics
-  - recovery
-  - recovery-program
-  - spiritual-inquiry
-  - temperature
-  - what-the-bleep-film
-  - bee-nlm-report
-  - krisp-daily-summary
+- 12-step-framework
+- ambient-sensors
+- cinema-analysis
+- college-of-marin
+- community-building
+- dune
+- dune-part-two
+- home-monitoring
+- household-logistics
+- media-curation
+- meditation
+- meditation-group
+- personal-development
+- quantum
+- quantum-physics
+- recovery
+- recovery-program
+- spiritual-inquiry
+- temperature
+- what-the-bleep
+- bee-nlm-report
+- krisp-daily-summary
 ---
 
 # Documenting recurring health patterns, AI-Powered Information Management System, and Making burial arrangements

@@ -1,8 +1,8 @@
 ---
 tags:
-  - Consciousness
-  - Nibanna-Enlightenment
-  - Freedom
+- consciousness
+- nibanna-enlightenment
+- freedom
 ---
 
 Just as if there were a roofed house or a roofed hall

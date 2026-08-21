@@ -1,7 +1,7 @@
 ### Speakers:
 - **Speaker / Presenter**: Ajahn Sumedho
 - **Event / Source**: Audio Archive (Ajahn Sumedho - The God Of Deathlessness - 20080609 - 2008 Spirit Rock Monastic Retreat.mp3)
-- **Tags / Topics**: #ajahn_sumedho, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #karma-and-rebirth, #samatha-vipassana, #sound-of-silence, #the-god-of-deathlessness-20080609-2, #unborn
+- **Tags / Topics**: #ajahn_sumedho, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #karma-and-rebirth, #samatha-vipassana, #sound-of-silence, #the-god-of, #unborn
 ## Summary:
 
 ### Progression of Talk

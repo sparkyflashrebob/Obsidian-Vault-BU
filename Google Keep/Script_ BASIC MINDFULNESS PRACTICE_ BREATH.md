@@ -1,9 +1,9 @@
 ---
 aliases:
-  - "Script: BASIC MINDFULNESS PRACTICE: BREATH"
+- 'Script: BASIC MINDFULNESS PRACTICE: BREATH'
 tags:
-  - mmtcp
-  - Meditation-Info
+- mmtcp
+- meditation-info
 ---
 
 BASIC MINDFULNESS PRACTICE: BREATH (8 MINUTES) 

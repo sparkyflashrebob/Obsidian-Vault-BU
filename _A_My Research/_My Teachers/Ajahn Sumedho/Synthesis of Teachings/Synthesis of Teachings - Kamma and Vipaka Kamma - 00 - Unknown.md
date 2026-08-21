@@ -2,12 +2,12 @@
 date: 2026-08-10
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Kamma and Vipaka Kamma - 00 - Unknown"
-location_event: "Audio Archive (Ajahn Sumedho - Kamma and Vipaka Kamma - 00 - Unknown.mp3)"
+talk_title: Kamma and Vipaka Kamma - 00 - Unknown
+location_event: Audio Archive (Ajahn Sumedho - Kamma and Vipaka Kamma - 00 - Unknown.mp3)
 tags:
-  - #ajahn-sumedho, #bikkhu-sangha, #fear-and-anxiety, #grounded-awareness, #kamma-and-vipaka-kamma-00-unknown, #karma-and-rebirth, #samatha-vipassana, #sound-of-silence, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Kamma and Vipaka Kamma - 00 - Unknown
@@ -15,7 +15,7 @@ tags:
 🧘 **Teacher / Speaker**: Ajahn Sumedho  
 📅 **Date of Talk**: 2026-08-10  
 📍 **Event / Source**: Audio Archive (Ajahn Sumedho - Kamma and Vipaka Kamma - 00 - Unknown.mp3)  
-🏷️ **Topics / Tags**: #ajahn_sumedho, #bikkhu-sangha, #fear-and-anxiety, #grounded-awareness, #kamma-and-vipaka-kamma-00-unknown, #karma-and-rebirth, #samatha-vipassana, #sound-of-silence, #unborn  
+🏷️ **Topics / Tags**: #ajahn_sumedho, #bikkhu-sangha, #fear-and-anxiety, #grounded-awareness, #kamma-and-vipaka, #karma-and-rebirth, #samatha-vipassana, #sound-of-silence, #unborn  
 
 ---
 

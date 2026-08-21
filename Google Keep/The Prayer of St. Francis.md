@@ -1,7 +1,7 @@
 ---
 tags:
-  - Prayer-Book
-  - spiritual_practice
+- prayer-book
+- spiritual-practice
 ---
 
 Lord, make me a channel of thy peace,

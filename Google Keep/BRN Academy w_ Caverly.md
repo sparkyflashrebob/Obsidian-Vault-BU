@@ -1,8 +1,8 @@
 ---
 aliases:
-  - BRN Academy w/ Caverly
+- BRN Academy w/ Caverly
 tags:
-  - Buddhist-Recovery-Network-BRN
+- buddhist-recovery
 ---
 
 6/21/2020

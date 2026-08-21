@@ -1,16 +1,16 @@
 ---
 tags:
-  - bee-reports
-  - daily-notes
-  - logging
-  - obsidian
-  - quantum
-  - quantum-physics
-  - spiritual-inquiry
-  - what-the-bleep-film
-  - workflow
-  - bee-nlm-report
-  - krisp-daily-summary
+- bee-reports
+- daily-notes
+- logging
+- obsidian
+- quantum
+- quantum-physics
+- spiritual-inquiry
+- what-the-bleep
+- workflow
+- bee-nlm-report
+- krisp-daily-summary
 ---
 
 # Identity, Ethics, Politics, and Technology, YouTube streaming setup troubleshooting, and Live streaming technical problems troubleshooting

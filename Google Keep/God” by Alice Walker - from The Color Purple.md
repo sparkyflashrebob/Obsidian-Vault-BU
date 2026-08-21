@@ -1,7 +1,7 @@
 ---
 tags:
-  - quotes
-  - God
+- quotes
+- god
 ---
 
 God ain’t a he or a she, but a it.

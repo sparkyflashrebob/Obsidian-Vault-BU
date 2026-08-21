@@ -1,9 +1,9 @@
 ---
 aliases:
-  - "Contemplation: When You Are in Harmony"
+- 'Contemplation: When You Are in Harmony'
 tags:
-  - quotes
-  - Contemplation
+- quotes
+- contemplation
 ---
 
 Charlotte Joko Beck, founding teacher of the Zen Center of San Diego:

@@ -1,7 +1,7 @@
 ---
 tags:
-  - Mindfulness-of-Breathing
-  - Quotes
+- mindfulness-of-breathing
+- quotes
 ---
 
 She sat at the back and they said she was shy,

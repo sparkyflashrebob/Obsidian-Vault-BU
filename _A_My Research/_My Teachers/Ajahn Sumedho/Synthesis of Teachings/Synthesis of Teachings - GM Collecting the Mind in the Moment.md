@@ -2,12 +2,13 @@
 date: 2026-08-09
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "GM Collecting the Mind in the Moment"
-location_event: "Audio Archive (Ajahn Sumedho - GM Collecting the Mind in the Moment - 0305 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: GM Collecting the Mind in the Moment
+location_event: Audio Archive (Ajahn Sumedho - GM Collecting the Mind in the Moment
+  - 0305 - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #brahmaviharas, #fear-and-anxiety, #four-noble-truths, #gm-collecting-the-mind-in-the-momen, #grounded-awareness, #metta, #samatha-vipassana, #siladhara, #sound-of-silence
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: GM Collecting the Mind in the Moment

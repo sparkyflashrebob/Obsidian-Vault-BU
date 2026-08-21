@@ -2,12 +2,13 @@
 date: 2026-08-07
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Awareness and Ambition"
-location_event: "Audio Archive (Ajahn Sumedho - Awareness and Ambition - 10 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Awareness and Ambition
+location_event: Audio Archive (Ajahn Sumedho - Awareness and Ambition - 10 - Ajahn
+  Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #awareness-and-ambition, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #karma-and-rebirth, #luang-por-chah, #rationality-conceit, #samatha-vipassana, #sound-of-silence, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Awareness and Ambition

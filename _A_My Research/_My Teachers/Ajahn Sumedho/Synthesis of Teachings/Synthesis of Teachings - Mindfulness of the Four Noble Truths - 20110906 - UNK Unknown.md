@@ -2,12 +2,13 @@
 date: 2026-08-11
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Mindfulness of the Four Noble Truths - 20110906 - UNK Unknown"
-location_event: "Audio Archive (Ajahn Sumedho - Mindfulness of the Four Noble Truths - 20110906 - UNK Unknown.mp3)"
+talk_title: Mindfulness of the Four Noble Truths - 20110906 - UNK Unknown
+location_event: Audio Archive (Ajahn Sumedho - Mindfulness of the Four Noble Truths
+  - 20110906 - UNK Unknown.mp3)
 tags:
-  - #ajahn-sumedho, #fear-and-anxiety, #four-noble-truths, #mindfulness-of-the-four-noble-truth, #rationality-conceit, #samatha-vipassana
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Mindfulness of the Four Noble Truths - 20110906 - UNK Unknown

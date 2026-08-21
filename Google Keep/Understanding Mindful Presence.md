@@ -1,8 +1,8 @@
 ---
 Subject: Mindful Presence
 tags:
-  - presence
-  - "#mindfulnesss"
+- presence
+- mindfulnesss
 ---
 
 Comments:

@@ -1,7 +1,7 @@
 ---
 tags:
-  - Stream-Entry
-  - suttas
+- stream-entry
+- suttas
 ---
 
 The Buddha once asked his followers, as he scratched the surface of the dirt with his fingernail, would the amount of dirt under his fingernail be more or less than the great earth itself.  They answered that the amount of dirt under his fingernail is very small in comparision.  

@@ -1,11 +1,11 @@
 ---
 aliases:
-  - How Does Meditation Practice Develop the MInd? - Ajahn Amaro
+- How Does Meditation Practice Develop the MInd? - Ajahn Amaro
 tags:
-  - core
-  - Views-ditthi
-  - Meditation
-  - mindfulness
+- core
+- views-ditthi
+- meditation
+- mindfulness
 ---
 
 Meditation - this is what we call food for the heart or what really nourishes us as a human.

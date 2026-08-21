@@ -1,9 +1,9 @@
 ---
 aliases:
-  - "Script: BASIC MINDFULNESS PRACTICE: BREATH AND BODY"
+- 'Script: BASIC MINDFULNESS PRACTICE: BREATH AND BODY'
 tags:
-  - mmtcp
-  - Meditation-Info
+- mmtcp
+- meditation-info
 ---
 
 Script for Guided Meditation 

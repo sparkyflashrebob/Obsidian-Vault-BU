@@ -2,12 +2,13 @@
 date: 2026-08-07
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Affirming The Unconditioned Here And Now"
-location_event: "Audio Archive (Ajahn Sumedho - Affirming The Unconditioned Here And Now - 14 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Affirming The Unconditioned Here And Now
+location_event: Audio Archive (Ajahn Sumedho - Affirming The Unconditioned Here And
+  Now - 14 - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #affirming-the-unconditioned-here-an, #ajahn-sumedho, #anapanasati, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #khandhas, #metta, #rationality-conceit, #sound-of-silence, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Affirming The Unconditioned Here And Now

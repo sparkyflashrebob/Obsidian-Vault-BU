@@ -1,7 +1,7 @@
 ---
 tags:
-  - addiction_and_recovery
-  - quotes
+- addiction-and-recovery
+- quotes
 ---
 
 Buddhist psychology differentiates between healthy and unhealthy desire. Then it leads us to a freedom that is larger than the desire realm, where we can transform desire into true abundance.

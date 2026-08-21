@@ -2,12 +2,13 @@
 date: 1981
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Opinions"
-location_event: "108 Talks Series / Ajahn Sumedho Archives (Ajahn Sumedho - Opinions (1981) - 09 - 108 Talks by Luang Por Sumedho.mp3.md)"
+talk_title: Opinions
+location_event: 108 Talks Series / Ajahn Sumedho Archives (Ajahn Sumedho - Opinions
+  (1981) - 09 - 108 Talks by Luang Por Sumedho.mp3.md)
 tags:
-  - ajahn-sumedho, opinions, consciousness, mindfulness, buddho
-  - dharma-talk
-  - spiritual-synthesis
+- mindfulness-practice
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Opinions

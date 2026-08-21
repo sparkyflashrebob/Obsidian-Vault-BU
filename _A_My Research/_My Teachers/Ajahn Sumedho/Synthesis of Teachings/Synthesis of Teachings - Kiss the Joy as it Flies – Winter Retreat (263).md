@@ -2,12 +2,13 @@
 date: 2026-08-10
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Kiss the Joy as it Flies – Winter Retreat (263)"
-location_event: "Audio Archive (Ajahn Sumedho - Kiss the Joy as it Flies – Winter Retreat (263) - 0224 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Kiss the Joy as it Flies – Winter Retreat (263)
+location_event: Audio Archive (Ajahn Sumedho - Kiss the Joy as it Flies – Winter Retreat
+  (263) - 0224 - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #fear-and-anxiety, #four-noble-truths, #kiss-the-joy-as-it-flies-winter-ret, #rationality-conceit, #samatha-vipassana, #siladhara, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Kiss the Joy as it Flies – Winter Retreat (263)

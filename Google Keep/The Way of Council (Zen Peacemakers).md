@@ -1,6 +1,6 @@
 ---
 tags:
-  - Zen
+- zen
 ---
 
 The Way Of Council

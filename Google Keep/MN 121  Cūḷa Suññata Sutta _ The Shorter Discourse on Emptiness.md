@@ -1,9 +1,9 @@
 ---
 aliases:
-  - MN 121  Cūḷa Suññata Sutta | The Shorter Discourse on Emptiness
+- MN 121  Cūḷa Suññata Sutta | The Shorter Discourse on Emptiness
 tags:
-  - Buddhist-Concepts
-  - "#suttas"
+- buddhist-concepts
+- suttas
 Created: 2024-06-16
 ---
 

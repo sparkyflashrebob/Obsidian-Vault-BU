@@ -1,7 +1,7 @@
 ---
 tags:
-  - Quotes
-  - Poems
+- quotes
+- poems
 ---
 
 The Unbroken

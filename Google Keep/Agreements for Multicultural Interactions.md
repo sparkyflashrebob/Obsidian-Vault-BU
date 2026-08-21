@@ -1,8 +1,8 @@
 ---
 tags:
-  - mmtcp
-  - appropriate_attention
-  - Interaction
+- mmtcp
+- appropriate-attention
+- interaction
 ---
 
 “Guidelines for Productive Work Sessions” 

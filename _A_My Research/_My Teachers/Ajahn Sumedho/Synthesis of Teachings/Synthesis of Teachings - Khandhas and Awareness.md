@@ -2,12 +2,13 @@
 date: 2026-08-10
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Khandhas and Awareness"
-location_event: "Audio Archive (Ajahn Sumedho - Khandhas and Awareness - 09 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Khandhas and Awareness
+location_event: Audio Archive (Ajahn Sumedho - Khandhas and Awareness - 09 - Ajahn
+  Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #khandhas, #khandhas-and-awareness, #rationality-conceit, #samatha-vipassana, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Khandhas and Awareness

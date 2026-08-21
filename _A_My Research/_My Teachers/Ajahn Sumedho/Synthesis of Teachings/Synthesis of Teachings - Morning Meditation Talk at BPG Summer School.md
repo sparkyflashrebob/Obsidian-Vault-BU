@@ -2,12 +2,13 @@
 date: 2026-08-11
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Morning Meditation Talk at BPG Summer School"
-location_event: "Audio Archive (Ajahn Sumedho - Morning Meditation Talk at BPG Summer School - 0805 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Morning Meditation Talk at BPG Summer School
+location_event: Audio Archive (Ajahn Sumedho - Morning Meditation Talk at BPG Summer
+  School - 0805 - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #bikkhu-sangha, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #karma-and-rebirth, #morning-meditation-talk-at-bpg-summ, #samatha-vipassana, #sound-of-silence
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Morning Meditation Talk at BPG Summer School

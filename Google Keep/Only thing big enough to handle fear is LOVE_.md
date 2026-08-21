@@ -1,7 +1,7 @@
 ---
 aliases:
-  - Only thing big enough to handle fear is LOVE
-  - ""
+- Only thing big enough to handle fear is LOVE
+- ''
 tags:
-  - Grief
+- grief
 ---

@@ -1,7 +1,7 @@
 ---
 tags:
-  - Buddhist-Concepts
-  - spiritual_practice
+- buddhist-concepts
+- spiritual-practice
 Created: 2024-06-16
 ---
 

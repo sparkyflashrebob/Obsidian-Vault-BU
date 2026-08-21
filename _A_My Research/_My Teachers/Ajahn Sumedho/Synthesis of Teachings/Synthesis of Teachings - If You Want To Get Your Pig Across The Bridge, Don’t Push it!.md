@@ -2,12 +2,13 @@
 date: 2026-08-10
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "If You Want To Get Your Pig Across The Bridge, Don’t Push it!"
-location_event: "Audio Archive (Ajahn Sumedho - If You Want To Get Your Pig Across The Bridge, Don’t Push it! - 0000 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: If You Want To Get Your Pig Across The Bridge, Don’t Push it!
+location_event: Audio Archive (Ajahn Sumedho - If You Want To Get Your Pig Across
+  The Bridge, Don’t Push it! - 0000 - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #if-you-want-to-get-your-pig-across, #karma-and-rebirth, #rationality-conceit, #siladhara, #sound-of-silence
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: If You Want To Get Your Pig Across The Bridge, Don’t Push it!

@@ -2,12 +2,13 @@
 date: 2026-08-09
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Follow Your Heart Your Intuition or Trust Awareness"
-location_event: "Audio Archive (Ajahn Sumedho - Follow Your Heart Your Intuition or Trust Awareness - 2904 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Follow Your Heart Your Intuition or Trust Awareness
+location_event: Audio Archive (Ajahn Sumedho - Follow Your Heart Your Intuition or
+  Trust Awareness - 2904 - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #fear-and-anxiety, #follow-your-heart-your-intuition-or, #four-noble-truths, #grounded-awareness, #rationality-conceit, #samatha-vipassana, #siladhara
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Follow Your Heart Your Intuition or Trust Awareness

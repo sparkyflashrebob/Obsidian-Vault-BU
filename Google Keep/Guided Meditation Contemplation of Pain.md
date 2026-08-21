@@ -1,11 +1,11 @@
 ---
 tags:
-  - Pleasure-and-Pain
-  - core
-  - ForTeaching
-  - Mindfulness-of-the-Body
-  - Mindfulness-of-Feeling
-  - Meditation
+- pleasure-and-pain
+- core
+- forteaching
+- mindfulness-of-body
+- mindfulness-of-feeling
+- meditation
 ---
 
 Start by bringing awareness into the areas of contact that the body has right now -  with the chair or whatever you're sitting on. Feeling the feet on the ground. Your seat on the chair.

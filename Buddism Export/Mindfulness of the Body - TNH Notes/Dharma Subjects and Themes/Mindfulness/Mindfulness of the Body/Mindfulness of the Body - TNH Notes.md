@@ -1,6 +1,6 @@
 ---
 tags:
-  - Mindfulness-of-the-Body
+- mindfulness-of-body
 ---
 
 From Anapansati MOB

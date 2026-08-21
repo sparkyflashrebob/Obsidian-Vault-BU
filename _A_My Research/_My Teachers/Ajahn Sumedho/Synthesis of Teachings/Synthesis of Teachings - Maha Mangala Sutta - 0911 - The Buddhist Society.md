@@ -2,12 +2,13 @@
 date: 2026-08-10
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Maha Mangala Sutta - 0911 - The Buddhist Society"
-location_event: "Audio Archive (Ajahn Sumedho - Maha Mangala Sutta - 0911 - The Buddhist Society.mp3)"
+talk_title: Maha Mangala Sutta - 0911 - The Buddhist Society
+location_event: Audio Archive (Ajahn Sumedho - Maha Mangala Sutta - 0911 - The Buddhist
+  Society.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #fear-and-anxiety, #maha-mangala-sutta-0911-the-buddhis, #samatha-vipassana, #sound-of-silence, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Maha Mangala Sutta - 0911 - The Buddhist Society
@@ -15,7 +16,7 @@ tags:
 🧘 **Teacher / Speaker**: Ajahn Sumedho  
 📅 **Date of Talk**: 2026-08-10  
 📍 **Event / Source**: Audio Archive (Ajahn Sumedho - Maha Mangala Sutta - 0911 - The Buddhist Society.mp3)  
-🏷️ **Topics / Tags**: #ajahn_sumedho, #anapanasati, #fear-and-anxiety, #maha-mangala-sutta-0911-the-buddhis, #samatha-vipassana, #sound-of-silence, #unborn  
+🏷️ **Topics / Tags**: #ajahn_sumedho, #anapanasati, #fear-and-anxiety, #maha-mangala-sutta, #samatha-vipassana, #sound-of-silence, #unborn  
 
 ---
 

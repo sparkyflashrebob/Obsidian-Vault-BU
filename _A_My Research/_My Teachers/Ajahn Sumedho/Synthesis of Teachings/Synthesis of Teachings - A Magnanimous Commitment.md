@@ -2,22 +2,23 @@
 date: 2026-08-06
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "A Magnanimous Commitment"
-location_event: "Audio Archive (Ajahn Sumedho - A Magnanimous Commitment - 11 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: A Magnanimous Commitment
+location_event: Audio Archive (Ajahn Sumedho - A Magnanimous Commitment - 11 - Ajahn
+  Sumedho Podcast by Amaravati.mp3)
 tags:
-  - magnanimous-commitment
-  - ajahn_sumedho
-  - bikkhu-sangha
-  - fear-and-anxiety
-  - four-noble-truths
-  - grounded-awareness
-  - luang-por-chah
-  - rationality-conceit
-  - samatha-vipassana
-  - siladhara
-  - unborn
-  - dharma-talk
-  - spiritual-synthesis
+- magnanimous-commitment
+- ajahn-sumedho
+- bikkhu-sangha
+- fear-and-anxiety
+- four-noble-truths
+- grounded-awareness
+- luang-por-chah
+- rationality-conceit
+- samatha-vipassana
+- siladhara
+- unborn
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: A Magnanimous Commitment

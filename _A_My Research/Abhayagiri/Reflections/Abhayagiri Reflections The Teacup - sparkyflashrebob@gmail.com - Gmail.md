@@ -1,15 +1,15 @@
 ---
-title: "[Abhayagiri Reflections] The Teacup - sparkyflashrebob@gmail.com - Gmail"
+title: '[Abhayagiri Reflections] The Teacup - sparkyflashrebob@gmail.com - Gmail'
 source: https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzQXKDhjgKvHRgRnLfXhMJhrsXfk
 author:
-  - "[[Gmail]]"
-published: 
+- '[[Gmail]]'
+published: null
 created: 2024-11-23
 description: Google's approach to email
 tags:
-  - clippings
-  - "#material_posessions"
-  - "#worry"
+- clippings
+- material-posessions
+- worry
 ---
 Ajahn Chah
 

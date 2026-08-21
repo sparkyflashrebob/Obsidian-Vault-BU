@@ -1,6 +1,6 @@
 ---
 tags:
-  - Recovery
+- recovery
 ---
 
 Hello my name is ____________. I serve this meeting as your Teleservice Rep.

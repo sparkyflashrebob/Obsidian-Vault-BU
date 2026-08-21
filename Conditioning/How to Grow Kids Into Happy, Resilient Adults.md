@@ -2,13 +2,14 @@
 title: How to Grow Kids Into Happy, Resilient Adults
 source: https://www.psychologytoday.com/us/blog/primal-world-beliefs-unpacked/202504/how-to-grow-kids-into-happy-resilient-adults
 author:
-  - "[[Psychology Today]]"
-published: 
+- '[[Psychology Today]]'
+published: null
 created: 2025-04-26
-description: A study in eight countries suggests steps any parent can take to help shape their children into resilient adults who see the world as a positive place.
+description: A study in eight countries suggests steps any parent can take to help
+  shape their children into resilient adults who see the world as a positive place.
 tags:
-  - clippings
-  - "#conditioning"
+- clippings
+- conditioning
 ---
 ###### Resilience
 

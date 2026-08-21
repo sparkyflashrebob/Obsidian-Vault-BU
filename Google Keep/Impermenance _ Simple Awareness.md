@@ -1,10 +1,10 @@
 ---
 aliases:
-  - Impermenance & Simple Awareness
+- Impermenance & Simple Awareness
 tags:
-  - 3_characteristics
-  - quotes
-  - mindfulness
+- 3-characteristics
+- quotes
+- mindfulness
 ---
 
 “This vanishes, that vanishes, but that which knows

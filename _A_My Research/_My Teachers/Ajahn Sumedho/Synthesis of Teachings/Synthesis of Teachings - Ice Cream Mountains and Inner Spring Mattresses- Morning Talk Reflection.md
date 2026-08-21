@@ -2,12 +2,13 @@
 date: 2026-08-10
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Ice Cream Mountains and Inner Spring Mattresses- Morning Talk Reflection"
-location_event: "Audio Archive (Ajahn Sumedho - Ice Cream Mountains and Inner Spring Mattresses- Morning Talk Reflection - 27 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Ice Cream Mountains and Inner Spring Mattresses- Morning Talk Reflection
+location_event: Audio Archive (Ajahn Sumedho - Ice Cream Mountains and Inner Spring
+  Mattresses- Morning Talk Reflection - 27 - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #ice-cream-mountains-and-inner-sprin, #karma-and-rebirth, #khandhas, #rationality-conceit, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Ice Cream Mountains and Inner Spring Mattresses- Morning Talk Reflection

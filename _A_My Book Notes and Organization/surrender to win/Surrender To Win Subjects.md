@@ -1,6 +1,6 @@
 ---
 tags:
-  - Surrender-To-WIN
+- surrender-to-win
 ---
 
 

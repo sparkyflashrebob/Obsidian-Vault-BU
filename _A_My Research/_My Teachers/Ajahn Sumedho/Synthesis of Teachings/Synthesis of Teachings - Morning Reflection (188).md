@@ -2,12 +2,13 @@
 date: 2026-08-11
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Morning Reflection (188)"
-location_event: "Audio Archive (Ajahn Sumedho - Morning Reflection (188) - 0416 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Morning Reflection (188)
+location_event: Audio Archive (Ajahn Sumedho - Morning Reflection (188) - 0416 - Ajahn
+  Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #bikkhu-sangha, #fear-and-anxiety, #grounded-awareness, #morning-reflection-188, #rationality-conceit, #sound-of-silence
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Morning Reflection (188)
@@ -15,7 +16,7 @@ tags:
 🧘 **Teacher / Speaker**: Ajahn Sumedho  
 📅 **Date of Talk**: 2026-08-11  
 📍 **Event / Source**: Audio Archive (Ajahn Sumedho - Morning Reflection (188) - 0416 - Ajahn Sumedho Podcast by Amaravati.mp3)  
-🏷️ **Topics / Tags**: #ajahn_sumedho, #anapanasati, #bikkhu-sangha, #fear-and-anxiety, #grounded-awareness, #morning-reflection-188, #rationality-conceit, #sound-of-silence  
+🏷️ **Topics / Tags**: #ajahn_sumedho, #anapanasati, #bikkhu-sangha, #fear-and-anxiety, #grounded-awareness, #morning-reflection, #rationality-conceit, #sound-of-silence  
 
 ---
 

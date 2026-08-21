@@ -1,7 +1,7 @@
 ---
 tags:
-  - mmtcp
-  - ForTeaching
+- mmtcp
+- forteaching
 ---
 
 Reflection on the intention of the heart

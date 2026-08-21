@@ -1,7 +1,7 @@
 ---
 tags:
-  - quotes
-  - Contemplation
+- quotes
+- contemplation
 ---
 
 Dawn Scott, a local Insight Meditation Teacher and head of the Family Program at Spirit Rock, she says”

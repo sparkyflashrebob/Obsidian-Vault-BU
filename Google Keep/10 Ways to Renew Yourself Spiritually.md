@@ -1,6 +1,6 @@
 ---
 tags:
-  - Spirituality
+- spirituality
 ---
 
 Has Your Spiritual Practice Plateaued? For ages, human beings have longed to know their true nature. ...

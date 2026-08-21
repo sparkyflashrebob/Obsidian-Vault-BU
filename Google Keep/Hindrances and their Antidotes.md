@@ -1,6 +1,6 @@
 ---
 tags:
-  - Hindrances
+- hindrances
 ---
 
 1. Sensual desire - nurished by unwise attention on them - denurishing by a)learning to meditate on impure objects, b) devoting oneself to meditation on the impure, c) guarding the sense doors, d) moderation in eating, e) noble friendship*, f) suitable conversation**

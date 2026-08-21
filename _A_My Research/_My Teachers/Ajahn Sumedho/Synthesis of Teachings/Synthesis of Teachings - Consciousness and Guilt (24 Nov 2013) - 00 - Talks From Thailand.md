@@ -2,12 +2,13 @@
 date: 2026-08-08
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Consciousness and Guilt (24 Nov 2013) - 00 - Talks From Thailand"
-location_event: "Audio Archive (Ajahn Sumedho - Consciousness and Guilt (24 Nov 2013) - 00 - Talks From Thailand.mp3)"
+talk_title: Consciousness and Guilt (24 Nov 2013) - 00 - Talks From Thailand
+location_event: Audio Archive (Ajahn Sumedho - Consciousness and Guilt (24 Nov 2013)
+  - 00 - Talks From Thailand.mp3)
 tags:
-  - #ajahn-sumedho, #consciousness-and-guilt-24-nov-2013, #fear-and-anxiety, #four-noble-truths, #karma-and-rebirth, #rationality-conceit, #samatha-vipassana, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Consciousness and Guilt (24 Nov 2013) - 00 - Talks From Thailand

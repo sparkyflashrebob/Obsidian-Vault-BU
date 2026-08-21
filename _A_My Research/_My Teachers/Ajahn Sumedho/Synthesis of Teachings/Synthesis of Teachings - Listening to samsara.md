@@ -2,12 +2,13 @@
 date: 2007
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Listening to samsara"
-location_event: "Audio Archive (Ajahn Sumedho - Listening to samsara (2007) - 84 - 108 Talks by Luang Por Sumedho.mp3)"
+talk_title: Listening to samsara
+location_event: Audio Archive (Ajahn Sumedho - Listening to samsara (2007) - 84 -
+  108 Talks by Luang Por Sumedho.mp3)
 tags:
-  - #ajahn-sumedho, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #khandhas, #listening-to-samsara, #luang-por-chah, #rationality-conceit, #samatha-vipassana, #sound-of-silence, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Listening to samsara

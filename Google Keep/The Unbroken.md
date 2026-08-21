@@ -1,7 +1,7 @@
 ---
 tags:
-  - Paramis
-  - Quotes
+- paramis
+- quotes
 ---
 
 The Unbroken by Rashani

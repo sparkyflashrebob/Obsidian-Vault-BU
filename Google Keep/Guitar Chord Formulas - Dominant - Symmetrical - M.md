@@ -1,8 +1,8 @@
 ---
 aliases:
-  - Guitar Chord Formulas - Dominant - Symmetrical - Misc
+- Guitar Chord Formulas - Dominant - Symmetrical - Misc
 tags:
-  - Music-Concepts
+- music-concepts
 ---
 
 

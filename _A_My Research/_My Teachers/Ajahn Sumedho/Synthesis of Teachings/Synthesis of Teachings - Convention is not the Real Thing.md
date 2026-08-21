@@ -2,12 +2,13 @@
 date: 2026-08-08
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Convention is not the Real Thing"
-location_event: "Audio Archive (Ajahn Sumedho - Convention is not the Real Thing - 1201 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Convention is not the Real Thing
+location_event: Audio Archive (Ajahn Sumedho - Convention is not the Real Thing -
+  1201 - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #bikkhu-sangha, #convention-is-not-the-real-thing, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #samatha-vipassana, #siladhara, #sound-of-silence, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Convention is not the Real Thing

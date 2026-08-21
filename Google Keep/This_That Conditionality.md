@@ -1,8 +1,8 @@
 ---
 aliases:
-  - This/That Conditionality
+- This/That Conditionality
 tags:
-  - Dhamma
+- dhamma
 ---
 
 (1) When this is, that is.

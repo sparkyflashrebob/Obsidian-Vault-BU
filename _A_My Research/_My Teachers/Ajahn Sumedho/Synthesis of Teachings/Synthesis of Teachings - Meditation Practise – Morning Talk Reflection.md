@@ -2,12 +2,13 @@
 date: 2026-08-10
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Meditation Practise – Morning Talk Reflection"
-location_event: "Audio Archive (Ajahn Sumedho - Meditation Practise – Morning Talk Reflection - 46 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Meditation Practise – Morning Talk Reflection
+location_event: Audio Archive (Ajahn Sumedho - Meditation Practise – Morning Talk
+  Reflection - 46 - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #grounded-awareness, #lay-retreat, #meditation-practise-morning-talk-re, #rationality-conceit, #samatha-vipassana, #sound-of-silence
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Meditation Practise – Morning Talk Reflection

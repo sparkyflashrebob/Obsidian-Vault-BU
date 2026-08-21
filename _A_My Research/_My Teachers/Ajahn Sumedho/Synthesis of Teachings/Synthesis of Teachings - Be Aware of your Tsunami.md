@@ -2,12 +2,13 @@
 date: 2026-08-07
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Be Aware of your Tsunami"
-location_event: "Audio Archive (Ajahn Sumedho - Be Aware of your Tsunami - 0117 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Be Aware of your Tsunami
+location_event: Audio Archive (Ajahn Sumedho - Be Aware of your Tsunami - 0117 - Ajahn
+  Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #be-aware-of-your-tsunami, #bikkhu-sangha, #fear-and-anxiety, #forgiveness-reconciliation, #four-noble-truths, #karma-and-rebirth, #luang-por-chah, #samatha-vipassana
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Be Aware of your Tsunami

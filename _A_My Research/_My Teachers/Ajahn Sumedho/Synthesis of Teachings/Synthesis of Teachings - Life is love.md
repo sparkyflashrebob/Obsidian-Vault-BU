@@ -2,12 +2,13 @@
 date: 1995
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Life is love"
-location_event: "Audio Archive (Ajahn Sumedho - Life is love (1995) - 40 - 108 Talks by Luang Por Sumedho.mp3)"
+talk_title: Life is love
+location_event: Audio Archive (Ajahn Sumedho - Life is love (1995) - 40 - 108 Talks
+  by Luang Por Sumedho.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #fear-and-anxiety, #four-noble-truths, #life-is-love, #rationality-conceit, #samatha-vipassana, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Life is love

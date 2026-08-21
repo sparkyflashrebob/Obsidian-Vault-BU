@@ -2,12 +2,13 @@
 date: 2026-08-10
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Life is A Dome of Many-Coloured Glass"
-location_event: "Audio Archive (Ajahn Sumedho - Life is A Dome of Many-Coloured Glass - 24 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Life is A Dome of Many-Coloured Glass
+location_event: Audio Archive (Ajahn Sumedho - Life is A Dome of Many-Coloured Glass
+  - 24 - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #khandhas, #life-is-a-dome-of-many-coloured-gla, #luang-por-chah, #rationality-conceit, #samatha-vipassana
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Life is A Dome of Many-Coloured Glass

@@ -1,6 +1,6 @@
 ---
 tags:
-  - Recovery
+- recovery
 ---
 
 Alcoholics Anonymous is a fellowship of men and women who share their ex perience, strength and hope with each other that they may solve their common problem and help others to recover from alcoholism,

@@ -2,12 +2,13 @@
 date: 2026-08-08
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Body Sweeping Meditation (301)"
-location_event: "Audio Archive (Ajahn Sumedho - Body Sweeping Meditation (301) - 0910 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Body Sweeping Meditation (301)
+location_event: Audio Archive (Ajahn Sumedho - Body Sweeping Meditation (301) - 0910
+  - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #body-sweeping-meditation-301, #fear-and-anxiety
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Body Sweeping Meditation (301)
@@ -15,7 +16,7 @@ tags:
 🧘 **Teacher / Speaker**: Ajahn Sumedho  
 📅 **Date of Talk**: 2026-08-08  
 📍 **Event / Source**: Audio Archive (Ajahn Sumedho - Body Sweeping Meditation (301) - 0910 - Ajahn Sumedho Podcast by Amaravati.mp3)  
-🏷️ **Topics / Tags**: #ajahn_sumedho, #anapanasati, #body-sweeping-meditation-301, #fear-and-anxiety  
+🏷️ **Topics / Tags**: #ajahn_sumedho, #anapanasati, #body-sweeping-meditation, #fear-and-anxiety  
 
 ---
 

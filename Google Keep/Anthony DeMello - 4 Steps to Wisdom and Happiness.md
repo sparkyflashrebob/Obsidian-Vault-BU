@@ -1,6 +1,6 @@
 ---
 tags:
-  - Spirituality
+- spirituality
 ---
 
 Step One: Get In Touch With Your Negative Feelings.

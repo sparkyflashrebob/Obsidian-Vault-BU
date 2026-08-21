@@ -1,38 +1,38 @@
 ---
 tags:
-  - ambient-sensors
-  - canopy
-  - canopy-library-service
-  - cinema-analysis
-  - crispr
-  - crispr-automation
-  - crispr-ng-script
-  - digital-streaming
-  - distributed-model
-  - dubstep
-  - dune
-  - dune-part-two
-  - electronic-music
-  - environmental-monitoring
-  - environmental-news
-  - home-monitoring
-  - household-logistics
-  - leadership
-  - media-curation
-  - organizational-strategy
-  - palm-skin-productions
-  - quality-auditing
-  - service-evaluation
-  - software-automation
-  - speech-recognition
-  - spokane-wildfires
-  - team-leadership
-  - temperature
-  - transcription
-  - voice-to-text-engine
-  - wildfires
-  - bee-nlm-report
-  - krisp-daily-summary
+- ambient-sensors
+- canopy
+- canopy-library-service
+- cinema-analysis
+- crispr
+- crispr-automation
+- crispr-ng-script
+- digital-streaming
+- distributed-model
+- dubstep
+- dune
+- dune-part-two
+- electronic-music
+- environmental-monitoring
+- environmental-news
+- home-monitoring
+- household-logistics
+- leadership
+- media-curation
+- organizational-strategy
+- palm-skin-productions
+- quality-auditing
+- service-evaluation
+- software-automation
+- speech-recognition
+- spokane-wildfires
+- team-leadership
+- temperature
+- transcription
+- voice-to-text
+- wildfires
+- bee-nlm-report
+- krisp-daily-summary
 ---
 
 # Cultivating Shared Leadership Within Teams, Speech recognition mislabels personal names, and Running CRISPR analysis with disruption

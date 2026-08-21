@@ -2,12 +2,13 @@
 date: 2026-08-09
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Disbelief in the Complaining Mind as an Upaya – Winter Retreat (176)"
-location_event: "Audio Archive (Ajahn Sumedho - Disbelief in the Complaining Mind as an Upaya – Winter Retreat (176) - 0124 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Disbelief in the Complaining Mind as an Upaya – Winter Retreat (176)
+location_event: Audio Archive (Ajahn Sumedho - Disbelief in the Complaining Mind as
+  an Upaya – Winter Retreat (176) - 0124 - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #bikkhu-sangha, #disbelief-in-the-complaining-mind-a, #fear-and-anxiety, #four-noble-truths, #karma-and-rebirth, #khandhas, #rationality-conceit, #samatha-vipassana, #siladhara
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Disbelief in the Complaining Mind as an Upaya – Winter Retreat (176)

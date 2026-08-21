@@ -1,7 +1,7 @@
 ---
 tags:
-  - RAIN
-  - Mindfulness-of-Emotions
+- rain
+- mindfulness-of-emotions
 ---
 
 The Practice

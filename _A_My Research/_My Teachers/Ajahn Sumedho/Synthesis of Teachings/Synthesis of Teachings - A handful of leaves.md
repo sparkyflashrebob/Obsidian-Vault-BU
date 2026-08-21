@@ -2,20 +2,21 @@
 date: 2026-08-06
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "A handful of leaves"
-location_event: "Audio Archive (Ajahn Sumedho - A handful of leaves - 1122 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: A handful of leaves
+location_event: Audio Archive (Ajahn Sumedho - A handful of leaves - 1122 - Ajahn
+  Sumedho Podcast by Amaravati.mp3)
 tags:
-  - handful-of-leaves
-  - ajahn_sumedho
-  - bikkhu-sangha
-  - four-noble-truths
-  - grounded-awareness
-  - luang-por-chah
-  - rationality-conceit
-  - samatha-vipassana
-  - unborn
-  - dharma-talk
-  - spiritual-synthesis
+- handful-of-leaves
+- ajahn-sumedho
+- bikkhu-sangha
+- four-noble-truths
+- grounded-awareness
+- luang-por-chah
+- rationality-conceit
+- samatha-vipassana
+- unborn
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: A handful of leaves

@@ -1,6 +1,6 @@
 ---
 tags:
-  - Buddhist-Concepts
+- buddhist-concepts
 Created: 2023-10-14
 ---
 

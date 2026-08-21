@@ -1,11 +1,11 @@
 ---
 Title: Bodhinyana
 Author: Ajahn Chah
-ISBN: ""
+ISBN: ''
 Subject: A Gift of Dhamma
 tags:
-  - "#Mind"
-  - "#dhamma"
+- mind
+- dhamma
 ---
 
 MY Notes:

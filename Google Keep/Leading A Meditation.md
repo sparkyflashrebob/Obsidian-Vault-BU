@@ -1,7 +1,7 @@
 ---
 tags:
-  - core
-  - Meditation
+- core
+- meditation
 ---
 
 

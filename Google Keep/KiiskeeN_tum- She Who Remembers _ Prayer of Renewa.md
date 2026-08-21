@@ -1,9 +1,9 @@
 ---
 aliases:
-  - "KiiskeeN'tum- She Who Remembers : Prayer of Renewal"
+- 'KiiskeeN''tum- She Who Remembers : Prayer of Renewal'
 tags:
-  - Prayer-Book
-  - Native-American-View
+- prayer-book
+- native-american-view
 ---
 
 

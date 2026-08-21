@@ -2,12 +2,13 @@
 date: 2026-08-08
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Decerning the Real from the Unreal (162)"
-location_event: "Audio Archive (Ajahn Sumedho - Decerning the Real from the Unreal (162) - 0221 - Ajahn Sumedho Podcast by Amaravati.mp3)"
+talk_title: Decerning the Real from the Unreal (162)
+location_event: Audio Archive (Ajahn Sumedho - Decerning the Real from the Unreal
+  (162) - 0221 - Ajahn Sumedho Podcast by Amaravati.mp3)
 tags:
-  - #ajahn-sumedho, #bikkhu-sangha, #decerning-the-real-from-the-unreal, #fear-and-anxiety, #four-noble-truths, #luang-por-chah, #samatha-vipassana, #siladhara, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Decerning the Real from the Unreal (162)

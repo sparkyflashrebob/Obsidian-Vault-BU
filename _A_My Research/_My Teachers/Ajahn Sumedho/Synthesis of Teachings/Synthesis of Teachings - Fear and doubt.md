@@ -2,12 +2,13 @@
 date: 1978
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Fear and doubt"
-location_event: "Audio Archive (Ajahn Sumedho - Fear and doubt (1978) - 02 - 108 Talks by Luang Por Sumedho.mp3)"
+talk_title: Fear and doubt
+location_event: Audio Archive (Ajahn Sumedho - Fear and doubt (1978) - 02 - 108 Talks
+  by Luang Por Sumedho.mp3)
 tags:
-  - #ajahn-sumedho, #fear-and-anxiety, #fear-and-doubt, #forgiveness-reconciliation, #four-noble-truths, #grounded-awareness, #rationality-conceit
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Fear and doubt

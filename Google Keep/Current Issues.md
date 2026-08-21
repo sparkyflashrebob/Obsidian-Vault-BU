@@ -1,6 +1,6 @@
 ---
 tags:
-  - Journal
+- journal
 ---
 
 Up and down health - especially sinuses 

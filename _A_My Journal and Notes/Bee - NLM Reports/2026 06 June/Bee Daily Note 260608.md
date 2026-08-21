@@ -1,19 +1,18 @@
 ---
-date: "2026-06-08"
-
+date: '2026-06-08'
 tags:
-  - institute-for-mental-physics
-  - joshua-tree-retreat
-  - housing-search
-  - petaluma-move
-  - recovery-fellowship
-  - fellowship
-  - recovery-principles
-  - bee-reports
-  - daily-notes
-  - daily-diary
-  - bee-nlm-report
-  - activity-details-architecture
+- mental-physics
+- joshua-tree-retreat
+- housing-search
+- petaluma-move
+- recovery-fellowship
+- fellowship
+- recovery-principles
+- bee-reports
+- daily-notes
+- daily-diary
+- bee-nlm-report
+- activity-details-architecture
 ---
 
 # Morning routine and health check, House sale and moving plans, Watching basketball game highlights together

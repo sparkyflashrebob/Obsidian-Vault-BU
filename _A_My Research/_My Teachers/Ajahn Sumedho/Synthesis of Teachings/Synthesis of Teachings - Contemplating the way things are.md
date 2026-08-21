@@ -2,12 +2,13 @@
 date: 1987
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Contemplating the way things are"
-location_event: "108 Talks Series / Ajahn Sumedho Archives (Ajahn Sumedho - Contemplating the way things are (1987) - 21 - 108 Talks by Luang Por Sumedho.mp3.md)"
+talk_title: Contemplating the way things are
+location_event: 108 Talks Series / Ajahn Sumedho Archives (Ajahn Sumedho - Contemplating
+  the way things are (1987) - 21 - 108 Talks by Luang Por Sumedho.mp3.md)
 tags:
-  - ajahn-sumedho, contemplating-the-way-things-are, consciousness, mindfulness, buddho
-  - dharma-talk
-  - spiritual-synthesis
+- mindfulness-practice
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Contemplating the way things are

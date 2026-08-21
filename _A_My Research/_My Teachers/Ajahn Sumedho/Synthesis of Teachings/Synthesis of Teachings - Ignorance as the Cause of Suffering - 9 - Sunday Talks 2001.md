@@ -2,12 +2,13 @@
 date: 2026-08-10
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Ignorance as the Cause of Suffering - 9 - Sunday Talks 2001"
-location_event: "Audio Archive (Ajahn Sumedho - Ignorance as the Cause of Suffering - 9 - Sunday Talks 2001.mp3)"
+talk_title: Ignorance as the Cause of Suffering - 9 - Sunday Talks 2001
+location_event: Audio Archive (Ajahn Sumedho - Ignorance as the Cause of Suffering
+  - 9 - Sunday Talks 2001.mp3)
 tags:
-  - #ajahn-sumedho, #bikkhu-sangha, #fear-and-anxiety, #forgiveness-reconciliation, #grounded-awareness, #ignorance-as-the-cause-of-suffering, #samatha-vipassana, #siladhara
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Ignorance as the Cause of Suffering - 9 - Sunday Talks 2001

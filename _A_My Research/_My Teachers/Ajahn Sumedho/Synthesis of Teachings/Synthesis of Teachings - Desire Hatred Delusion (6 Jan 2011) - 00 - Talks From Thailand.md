@@ -2,12 +2,13 @@
 date: 2026-08-08
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Desire Hatred Delusion (6 Jan 2011) - 00 - Talks From Thailand"
-location_event: "Audio Archive (Ajahn Sumedho - Desire Hatred Delusion (6 Jan 2011) - 00 - Talks From Thailand.mp3)"
+talk_title: Desire Hatred Delusion (6 Jan 2011) - 00 - Talks From Thailand
+location_event: Audio Archive (Ajahn Sumedho - Desire Hatred Delusion (6 Jan 2011)
+  - 00 - Talks From Thailand.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #bikkhu-sangha, #desire-hatred-delusion-6-jan-2011-0, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #luang-por-chah, #rationality-conceit, #samatha-vipassana
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Desire Hatred Delusion (6 Jan 2011) - 00 - Talks From Thailand
@@ -15,7 +16,7 @@ tags:
 🧘 **Teacher / Speaker**: Ajahn Sumedho  
 📅 **Date of Talk**: 2026-08-08  
 📍 **Event / Source**: Audio Archive (Ajahn Sumedho - Desire Hatred Delusion (6 Jan 2011) - 00 - Talks From Thailand.mp3)  
-🏷️ **Topics / Tags**: #ajahn_sumedho, #anapanasati, #bikkhu-sangha, #desire-hatred-delusion-6-jan-2011-0, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #luang-por-chah, #rationality-conceit, #samatha-vipassana  
+🏷️ **Topics / Tags**: #ajahn_sumedho, #anapanasati, #bikkhu-sangha, #desire-hatred-delusion0, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #luang-por-chah, #rationality-conceit, #samatha-vipassana  
 
 ---
 

@@ -1,9 +1,9 @@
 ---
 aliases:
-  - "Manataka: Daily Acceptance Prayer "
+- 'Manataka: Daily Acceptance Prayer '
 tags:
-  - Prayer-Book
-  - Native-American-View
+- prayer-book
+- native-american-view
 ---
 
 

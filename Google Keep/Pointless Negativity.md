@@ -1,6 +1,6 @@
 ---
 tags:
-  - Insights-Reminders
+- insights-reminders
 ---
 
 Look for this.

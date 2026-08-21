@@ -1,6 +1,6 @@
 ---
 tags:
-  - Music-Concepts
+- music-concepts
 ---
 ![[Guitar Chord Formulas.png]]
 

@@ -1,7 +1,7 @@
 ---
 tags:
-  - core
-  - Spirituality
+- core
+- spirituality
 ---
 
 Sun Faced Buddha, Moon Faced Buddha

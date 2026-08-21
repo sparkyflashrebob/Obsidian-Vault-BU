@@ -5,7 +5,7 @@ teacher: Ajahn Sumedho
 talk_title: "Contemplation Isn't Analytical - 19910307 - ABM Unknown http---www.abhayagiri.org"
 location_event: "Audio Archive (Ajahn Sumedho - Contemplation Isn't Analytical - 19910307 - ABM Unknown http---www.abhayagiri.org.mp3)"
 tags:
-  - #ajahn-sumedho, #anapanasati, #bikkhu-sangha, #contemplation-isn-t-analytical-1991, #fear-and-anxiety, #four-noble-truths, #khandhas, #rationality-conceit, #samatha-vipassana, #sound-of-silence, #unborn
+  - #ajahn-sumedho, #anapanasati, #bikkhu-sangha, #contemplation-isn-t, #fear-and-anxiety, #four-noble-truths, #khandhas, #rationality-conceit, #samatha-vipassana, #sound-of-silence, #unborn
   - dharma-talk
   - spiritual-synthesis
 ---
@@ -15,7 +15,7 @@ tags:
 🧘 **Teacher / Speaker**: Ajahn Sumedho  
 📅 **Date of Talk**: 2026-08-08  
 📍 **Event / Source**: Audio Archive (Ajahn Sumedho - Contemplation Isn't Analytical - 19910307 - ABM Unknown http---www.abhayagiri.org.mp3)  
-🏷️ **Topics / Tags**: #ajahn_sumedho, #anapanasati, #bikkhu-sangha, #contemplation-isn-t-analytical-1991, #fear-and-anxiety, #four-noble-truths, #khandhas, #rationality-conceit, #samatha-vipassana, #sound-of-silence, #unborn  
+🏷️ **Topics / Tags**: #ajahn_sumedho, #anapanasati, #bikkhu-sangha, #contemplation-isn-t, #fear-and-anxiety, #four-noble-truths, #khandhas, #rationality-conceit, #samatha-vipassana, #sound-of-silence, #unborn  
 
 ---
 

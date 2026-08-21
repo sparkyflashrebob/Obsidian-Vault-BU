@@ -1,9 +1,9 @@
 ---
 tags:
-  - Mindfulness-of-Thinking
-  - Sankhara
-  - skillful
-  - Brahmavihara
+- mindfulness-of-thinking
+- sankhara
+- skillful
+- brahmavihara
 ---
 
 Removal of Distracting Thoughts  -- Vitakkasaṇṭhāna Sutta - Majhima Nikaya 20

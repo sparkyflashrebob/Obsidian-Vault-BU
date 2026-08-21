@@ -2,12 +2,13 @@
 date: 2009
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Entering the sacred place"
-location_event: "Audio Archive (Ajahn Sumedho - Entering the sacred place (2009) - 97 - 108 Talks by Luang Por Sumedho.mp3)"
+talk_title: Entering the sacred place
+location_event: Audio Archive (Ajahn Sumedho - Entering the sacred place (2009) -
+  97 - 108 Talks by Luang Por Sumedho.mp3)
 tags:
-  - #ajahn-sumedho, #anapanasati, #bikkhu-sangha, #entering-the-sacred-place, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #luang-por-chah, #rationality-conceit, #siladhara, #unborn
-  - dharma-talk
-  - spiritual-synthesis
+- none
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Entering the sacred place

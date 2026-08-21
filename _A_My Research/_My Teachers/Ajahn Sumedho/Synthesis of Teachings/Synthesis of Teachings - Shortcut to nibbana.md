@@ -2,12 +2,13 @@
 date: 2006
 type: dharma-talk-synthesis
 teacher: Ajahn Sumedho
-talk_title: "Shortcut to nibbana"
-location_event: "108 Talks Series / Ajahn Sumedho Archives (Ajahn Sumedho - Shortcut to nibbana (2006) - 83 - 108 Talks by Luang Por Sumedho.mp3.md)"
+talk_title: Shortcut to nibbana
+location_event: 108 Talks Series / Ajahn Sumedho Archives (Ajahn Sumedho - Shortcut
+  to nibbana (2006) - 83 - 108 Talks by Luang Por Sumedho.mp3.md)
 tags:
-  - ajahn-sumedho, shortcut-to-nibbana, consciousness, mindfulness, buddho
-  - dharma-talk
-  - spiritual-synthesis
+- mindfulness-practice
+- dharma-talk
+- spiritual-synthesis
 ---
 
 # Synthesis of Teachings: Shortcut to nibbana

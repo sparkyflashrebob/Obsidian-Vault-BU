@@ -1,8 +1,8 @@
 ---
 tags:
-  - mmtcp
-  - Meditation
-  - Meditation-Info
+- mmtcp
+- meditation
+- meditation-info
 ---
 
 Simple and repetitive actions can develop calm and a greater sense of here and now

@@ -1,6 +1,6 @@
 ---
 tags:
-  - Story
+- story
 ---
 
 In the mid-1950s, a new highway in Bangkok was routed through an ancient temple, and the monks were forced to relocate a massive clay statue of the Buddha that had been loved and venerated for many generations. A crane was brought in, but as they began to lift the Buddha, its huge weight shifted, and the clay began to crack. They quickly lowered the statue to the ground and, knowing a storm was coming, covered it with a tarp. 

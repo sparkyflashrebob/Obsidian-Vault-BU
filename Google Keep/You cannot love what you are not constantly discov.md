@@ -1,8 +1,8 @@
 ---
 aliases:
-  - You cannot love what you are not constantly discovering anew
+- You cannot love what you are not constantly discovering anew
 tags:
-  - Quotes
+- quotes
 ---
 
 Look for things in them that you might have missed because of familiarity, for familiarity breeds staleness, blindness, and boredom. You cannot love what you cannot see afresh. You cannot love what you are not constantly discovering anew. • ANTHONY DE MELLO

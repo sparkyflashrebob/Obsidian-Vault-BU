@@ -6370,7 +6370,7 @@ Cambridge Insight Meditation Center 331 Broadway Cambridge, MA 02139
 
 www.cimc.info
 
-InsightLA 2633 Lincoln Blvd, #206 Santa Monica, CA 90405-2005
+InsightLA 2633 Lincoln Blvd, Santa Monica, CA 90405-2005
 
 www.insightla.org
 

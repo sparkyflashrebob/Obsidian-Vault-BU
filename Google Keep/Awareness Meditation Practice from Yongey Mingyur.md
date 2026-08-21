@@ -1,8 +1,8 @@
 ---
 aliases:
-  - Awareness Meditation Practice (from Yongey Mingyur Rinpoche)
+- Awareness Meditation Practice (from Yongey Mingyur Rinpoche)
 tags:
-  - Meditation
+- meditation
 ---
 
 Begin by finding a comfortable posture, upright yet relaxed. Bring your attention to the breath. Notice the sensations that you experience as the breath comes in and out. There is no need to control the breath in any way. Simply observe it, and see if you can notice the simple knowing quality of mind.

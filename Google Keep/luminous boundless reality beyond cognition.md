@@ -1,5 +1,5 @@
 ---
 tags:
-  - Spirituality
-  - Grief
+- spirituality
+- grief
 ---

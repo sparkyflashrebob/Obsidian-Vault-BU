@@ -1,14 +1,18 @@
 ---
-title: Confirmed - the 'mental blackout' is not laziness or absent-mindedness, but a real brain phenomenon that affects up to 20% of our time - here's how it affects you
+title: Confirmed - the 'mental blackout' is not laziness or absent-mindedness, but
+  a real brain phenomenon that affects up to 20% of our time - here's how it affects
+  you
 source: https://unionrayo.com/en/mind-blanking-scientific-discovery/
 author:
-  - "[[Unión Rayo EN]]"
+- '[[Unión Rayo EN]]'
 published: 2025-05-07
 created: 2025-05-07
-description: "Maybe you’ve experienced it. You’re doing something or talking, and suddenly: boom. Brain short-circuit. Almost like your mind suddenly shuts off. Suddenly no"
+description: 'Maybe you’ve experienced it. You’re doing something or talking, and
+  suddenly: boom. Brain short-circuit. Almost like your mind suddenly shuts off. Suddenly
+  no'
 tags:
-  - clippings
-  - mind_blanking
+- clippings
+- mind-blanking
 ---
 ![Confirmed - the 'mental blackout' is not laziness or absent-mindedness, but a real brain phenomenon that affects up to 20% of our time - here's how it affects you](https://unionrayo.com/en/wp-content/uploads/2025/05/mind-blanking-scientific-discovery-750x422.jpg "Confirmed - the 'mental blackout' is not laziness or absent-mindedness, but a real brain phenomenon that affects up to 20% of our time - here's how it affects you 1")
 

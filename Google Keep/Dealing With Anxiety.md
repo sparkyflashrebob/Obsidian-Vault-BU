@@ -1,6 +1,6 @@
 ---
 tags:
-  - Mind-States
+- mind-states
 ---
 
 When anxiety creeps in, Sam, who lives in New York, visualizes being in his favorite place doing something he enjoys.

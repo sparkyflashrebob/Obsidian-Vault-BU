@@ -1,4 +1,4 @@
 ---
 tags:
-  - Mindfulness-of-Thinking
+- mindfulness-of-thinking
 ---

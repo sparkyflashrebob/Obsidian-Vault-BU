@@ -1,7 +1,7 @@
 ---
 tags:
-  - core
-  - Nibanna-Enlightenment
+- core
+- nibanna-enlightenment
 ---
 
 Ajahn Chah - 'the reality of non-grasping' (his definition for Nibbāna)

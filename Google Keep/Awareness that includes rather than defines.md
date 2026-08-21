@@ -1,8 +1,8 @@
 ---
 tags:
-  - Dhamma
-  - core
-  - Nibanna-Enlightenment
-  - Consciousness
-  - Contemplation
+- dhamma
+- core
+- nibanna-enlightenment
+- consciousness
+- contemplation
 ---
