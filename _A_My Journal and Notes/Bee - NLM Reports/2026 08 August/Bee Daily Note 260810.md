@@ -42,12 +42,121 @@ tags:
 ---
 
 ## 🌅 Your Day Ahead Email Brief
-- **Subject**: `💌 Your Day Ahead 08/10/2026` (7:03 AM)
+- **Subject**: `💌 Your Day Ahead 08/10/2026`
 
-> ...
-> 
-> ---
-> CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact labs-cc-support@google.com or disconnect here: https://myaccount.google.com/connections#:~:text=CC
+...
+
+---
+CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact labs-cc-support@google.com or disconnect here: https://myaccount.google.com/connections#:~:text=CC
+ 
+ 👋 Happy Monday, Andy! Here's your daily brief. 
+ ✉️ Reply for updates or corrections 
+
+ Top of mind 
+ 
+    5 min  Set up your new IRC Workspace account for insightretreatcenter.org to access Google Drive and Gmail. The password reset link expires today, Monday, Aug 10 [🔗&nbsp; View email ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873001685409639625) [📅&nbsp; Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Set+up+IRC+Workspace+account&dates=20260810T090000%2F20260810T091500&ctz=America%2FLos_Angeles&details=Password+reset+link+expires+today%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19fe3d1bfa8cacc9&location=&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com).
+   
+     Sign in and set a new password to maintain access to collaboration tools. 
+    
+    15 min  Review the IRC volunteer documentation and troubleshoot the missing edit button issue you reported to John O'Connor [🔗&nbsp; View document ](https://docs.google.com/document/d/17eiAhIe-j8qBkI1d7si0el8nHXZMWofV8vyE8PeLvvU/edit?pli=1&tab=t.0) [🔗&nbsp; View email ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872727749439993466) [📅&nbsp; Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Review+IRC+volunteer+documentation&dates=20260810T100000%2F20260810T103000&ctz=America%2FLos_Angeles&details=Troubleshoot+missing+edit+button.+Doc%3A+https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F17eiAhIe-j8qBkI1d7si0el8nHXZMWofV8vyE8PeLvvU%2Fedit%3Fpli%3D1%26tab%3Dt.0&location=&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com).
+   
+     Verify if the edit button is visible after signing into your new Workspace account [✉️&nbsp; Reply ](mailto:sparkyflashrebob@gmail.com?subject=Re%3A%20Voluntering&body=Hi%20John%2C%20I%27m%20setting%20up%20my%20new%20Workspace%20account%20now%20and%20will%20check%20if%20the%20edit%20button%20appears%20once%20I%27m%20signed%20in.%20I%27ll%20let%20you%20know%20what%20I%20find.). 
+    
+   Today • 7:00 AM •  Morning Practice Zoom w/ Ed Brown  (1h 15m) [✨&nbsp; Join Zoom ](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=M3Z1bW84dnE4aHVwdnYwMWwxN2Eyc2FrM2tfMjAyNjA4MTBUMTQwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0&ctz=America/Los_Angeles).
+   
+     Schedule: 7:00 free writing, 7:15 brief talk, 7:30 sitting, 7:55 visiting. Password: beyond. 
+    
+   Today • 6:30 PM •  Audel & Andy SDRT  (1h) with Audel Salazar [✨&nbsp; Join Meet ](https://meet.google.com/ytq-jeoq-umi) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=aGNhZ3A5cHIyZGZhZjlrNGl2cXU5cDhyajZfMjAyNjA4MTFUMMDEzMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0&ctz=America/Los_Angeles).
+   
+     Note: This meeting is now conducted via Google Meet. 
+    
+   Today • 10:32 PM •  High Tide Alert (>6.5') - Corte Madera Creek  (30m) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=NGUwcjE2ZXJpMHJjNjJraGZqcDU4aGtiYWcgc3Bhcmt5Zmxhc2hyZWJvYkBt&ctz=America/Los_Angeles).
+   
+     Predicted Peak: 6.878 feet at Station ID 9414874. 
+    
+   You have several updates from yesterday, Sunday, Aug 9.
+   
+      Whole Foods:  Payment of $189.72 processed for groceries including turkey burger and Indian flavors family meals [🔗&nbsp; View receipt ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873072363577827417). 
+      Google Play:  Four purchases totaling $13.04 for AutoWear, Tasker, and Voice Recorder upgrades [🔗&nbsp; View receipt ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873064697145997265). 
+      Shared Resources:  You shared a [🔗&nbsp; Darebee fitness resource ](https://share.google/YQMnPp8FTDOivr9oo) and an article on [🔗&nbsp; Pocket AI note-taking ](https://share.google/2qnCyw9mDDcSgW9O4) with yourself. 
+      Suggestion:  Explore Darebee's [🔗&nbsp; Beginner Workouts Collection ](https://darebee.com/collections/beginner-workouts.html) or compare [🔗&nbsp; Pocket AI vs PLAUD ](https://www.youtube.com/watch?v=T9IaVyfMVWc) for your note-taking setup. 
+    
+ 
+
+ FYI 
+ 
+   Tue, Aug 11 • 7:00 AM •  Morning Practice Zoom w/ Ed Brown  (1h 15m) [✨&nbsp; Join Zoom ](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=M3Z1bW84dnE4aHVwdnYwMWwxN2Eyc2FrM2tfMjAyNjA4MTFUMTQwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0&ctz=America/Los_Angeles).
+   
+     Password: beyond. 
+    
+   Tue, Aug 11 • 11:00 AM •  MINDFULNESS MEDITATION CLUB  (1h 30m) at Rm 11, Elizabeth Deedy Hall, College of Marin, 835 College Ave, Kentfield, CA [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=MTJkNG03cm9mcm1wdG81YmVuNWo0bm0wOHZfMjAyNjA4MTFUMTgwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0&ctz=America/Los_Angeles) [🔗&nbsp; Map ](https://www.google.com/maps/search/?api=1&query=835+College+Ave%2C+Kentfield%2C+CA).
+   
+     Parking costs $4 in most lots; Lot P13 is free but a half-mile walk away. 
+    
+   Tue, Aug 11 • 11:28 PM •  High Tide Alert (>6.5') - Corte Madera Creek  (30m) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=ZTR0M3Rlc2lwNzU4bGZsMDNwMHVjdGE1bGcgc3Bhcmt5Zmxhc2hyZWJvYkBt&ctz=America/Los_Angeles).
+   
+     Predicted Peak: 6.726 feet. 
+    
+   Consider registering for upcoming Fidelity educational webinars [🔗&nbsp; Register here ](https://www.fidelity.com/webinars).
+   
+      Crypto:  Tue, Aug 11 at 9:00 AM PT (Noon ET) regarding buying crypto [🔗&nbsp; View email ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872515490013115004) [📅&nbsp; Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fidelity+Webinar%3A+Buying+Crypto&dates=20260811T090000%2F20260811T100000&ctz=America%2FLos_Angeles&details=Register%3A+https%3A%2F%2Fwww.fidelity.com%2Fwebinars&location=Online&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com). 
+      Roth IRA:  Wed, Aug 12 at 11:00 AM PT (2:00 PM ET) covering Roth IRA details [🔗&nbsp; View email ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872515490013115004) [📅&nbsp; Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fidelity+Webinar%3A+Roth+IRA+Details&dates=20260812T110000%2F20260812T120000&ctz=America%2FLos_Angeles&details=Register%3A+https%3A%2F%2Fwww.fidelity.com%2Fwebinars&location=Online&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com). 
+      Retirement Health Care:  Thu, Aug 13 at 9:00 AM PT (Noon ET) regarding budgeting for health care and Medicare [🔗&nbsp; View email ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872878914188296635) [📅&nbsp; Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fidelity+Webinar%3A+Budgeting+for+Health+Care+and+Medicare&dates=20260813T090000%2F20260813T100000&ctz=America%2FLos_Angeles&details=Register%3A+https%3A%2F%2Fwww.fidelity.com%2Fwebinars&location=Online&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com). 
+      Long-Term Care:  Thu, Aug 20 regarding financial protection strategies [🔗&nbsp; View email ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872878914188296635) [📅&nbsp; Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fidelity+Webinar%3A+Long-Term+Care+Financial+Protection&dates=20260820T090000%2F20260820T100000&ctz=America%2FLos_Angeles&details=Register%3A+https%3A%2F%2Fwww.fidelity.com%2Fwebinars&location=Online&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com). 
+    
+   Your Amazon order for Gold Bond Medicated Body Powder ($7.97) is estimated to arrive by Thu, Aug 13 [🔗&nbsp; View order ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872441285405707376) [📅&nbsp; Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Amazon+Arrival%3A+Gold+Bond+Medicated+Body+Powder&dates=20260813T090000%2F20260813T093000&ctz=America%2FLos_Angeles&details=Order%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19fc3f6daf620c70&location=&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com).
+   
+     The delivery window is currently open (Aug 8 - Aug 13). 
+    
+   Ongoing events through the week.
+   
+      King Tides:  Continuing through Thu, Aug 13. 
+      Raiders Training Camp:  Continuing through Sun, Aug 30. 
+    
+ 
+
+ CC Calendar Updates 
+ 
+   Checked yesterday's emails for schedule changes. None detected. 
+ 
+
+ Have a wonderful day! 
+
+
+
+
+
+  
+     
+     
+     
+       
+         
+       
+       
+         CC - Google Labs 
+         
+          [sparkyflashrebob+cc@gmail.com](mailto:sparkyflashrebob+cc@gmail.com)
+         
+       
+     
+   
+  
+   
+   
+     💬 What do you think about this email? 
+     
+      [ 👍 ](https://docs.google.com/forms/d/e/1FAIpQLSfGPGkFp-YwBA_vcSLpUqSo9glbxn-0rKy8i3O2hUhl9IS_Xg/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8D+Useful)
+      [ 👎 ](https://docs.google.com/forms/d/e/1FAIpQLSfGPGkFp-YwBA_vcSLpUqSo9glbxn-0rKy8i3O2hUhl9IS_Xg/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8E+Not+useful)
+     
+     
+      🔬 Want to help improve CC further? [Sign up for user research opportunities](https://forms.gle/mSZLnsScUpa9i42b7).
+     
+   
+  
+   
+   
+    CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact [labs-cc-support@google.com](mailto:labs-cc-support@google.com) or disconnect [here](https://myaccount.google.com/connections#:~:text=CC).  Known issue: 🔗 source links do not always work on mobile.
 
 ---
 

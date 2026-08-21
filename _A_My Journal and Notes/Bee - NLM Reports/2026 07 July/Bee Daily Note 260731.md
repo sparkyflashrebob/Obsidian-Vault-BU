@@ -56,12 +56,102 @@ tags:
 ---
 
 ## 🌅 Your Day Ahead Email Brief
-- **Subject**: `💌 Your Day Ahead 07/31/2026` (7:04 AM)
+- **Subject**: `💌 Your Day Ahead 07/31/2026`
 
-> ...
-> 
-> ---
-> CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact labs-cc-support@google.com or disconnect here: https://myaccount.google.com/connections#:~:text=CC
+...
+
+---
+CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact labs-cc-support@google.com or disconnect here: https://myaccount.google.com/connections#:~:text=CC
+ 
+ 👋 Happy Friday, Andy! Here's your daily brief. 
+ ✉️ Reply for updates or corrections 
+
+ Top of mind 
+ 
+    5 min  Confirm your rent payment of $2,705.00 for Larkspur Isle, which is scheduled for withdrawal and delivery today, Friday, July 31st [🔗&nbsp; view details ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871856687614211673) [📅&nbsp; Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Confirm+Rent+Payment&dates=20260731T090000%2F20260731T100000&ctz=America%2FLos_Angeles&details=Confirm+rent+payment+of+%242%2C705.00+for+Larkspur+Isle.+Details%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19fa2bbd67af3659&location=Larkspur+Isle&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com).
+   
+     Funds are scheduled for withdrawal from your Bank of America account ending in DRIVE. 
+    
+   Today • All Day •  Raiders Training Camp  [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=MTJrNHNnMXMyZ2VrcWthMnU3cmw3djE4N3Ygc3Bhcmt5Zmxhc2hyZWJvYkBt).
+   
+      Fan Info:  Official training camp updates and FAQs [🔗&nbsp; View ](https://www.raiders.com/training-camp/) 
+    
+   Your Amazon skincare order (#112-1564847-9504205) is estimated to arrive between today, Friday, July 31st and Monday, August 3rd [🔗&nbsp; view order ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871375578408725412) [📅&nbsp; Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Amazon+Order+Arrival+Deadline&dates=20260803T090000%2F20260803T100000&ctz=America%2FLos_Angeles&details=Amazon+skincare+order+%28%23112-1564847-9504205%29+arrival+deadline.+Details%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19f8762c7064aba4&location=Larkspur&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com). 
+   Recent account and order updates from yesterday, Thursday, July 30th.
+   
+      Amazon:  Wireless accessories were delivered to your front door or porch in Larkspur [🔗&nbsp; view order ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872197132036721250). 
+      Bank of America:  Your SparkyBank statement for the account ending in 0372 is available for online review [🔗&nbsp; view statement ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872199029352406187). 
+      Quicken:  Your account password was successfully changed [🔗&nbsp; view notification ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872124004386079676). 
+      Prime Video:  You started an annual Prime Video Ultra plan for $45.99/year, set to renew on July 31, 2027 [🔗&nbsp; view receipt ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872206858425049461) [📅&nbsp; Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Prime+Video+Renewal+Reminder&dates=20270731T090000%2F20270731T100000&ctz=America%2FLos_Angeles&details=Prime+Video+Ultra+plan+renewal+%28%2445.99%2Fyear%29.+Details%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19fb6a37e679a175&location=&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com). 
+      Substack:  Your post 'Beyond the Broken Story' on Head & Heart Together received 16 views [🔗&nbsp; view stats ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872205976856826783). 
+    
+ 
+
+ FYI 
+ 
+   Sat, Aug 1 • 7:00 PM •  Saturday Night Puja  (2h) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=NjVpamNvcGc2Y3BqZWI5ZzcwcG1hYjlrNzRwajRiYjFjNWdtNGI5Z2NwaTYyZTMxY2NwNjJjMW1jZ18yMDI2MDgwMlQwMjAwMDBaIHNwYXJreWZsYXNocmVib2JAbQ). 
+   Sun, Aug 2 • 5:00 PM •  Living Mindfully: Finding Stability  (1.5h) via [✨&nbsp; Google Meet ](https://meet.google.com/dhf-mnbc-qkn) [🔗&nbsp; view details ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872161325332248676) [📅&nbsp; View Event ](https://www.google.com/calendar/event?eid=cTZtMnZzb2UwaDNoY2wza2R0czQ3cW5scmxfMjAyNjA4MDNUMDAwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0).
+   
+     The gathering will focus on exploring stability through daily life practice, featuring Ajahn Chah's teachings and the scriptural story of the 'dog-duty and ox-duty ascetics'. 
+    
+    5 min  Download your Krisp meeting data export before the link expires on Mon, Aug 3 [🔗&nbsp; view export ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871925555744456838) [📅&nbsp; Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Download+Krisp+Export&dates=20260803T100000%2F20260803T110000&ctz=America%2FLos_Angeles&details=Download+Krisp+meeting+data+export+before+link+expires.+Details%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19fa6a60041fc086&location=&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com).
+   
+     The file 'Krisp_meetings_2026-07-28_03-16-11-422.zip' was exported on July 27th. 
+    
+    15 min  Check your Marin County DSA membership status by Mon, Aug 3 to maintain Discussion Board access [🔗&nbsp; view policy ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871377510283841584) [📅&nbsp; Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Check+DSA+Membership+Status&dates=20260803T110000%2F20260803T120000&ctz=America%2FLos_Angeles&details=Check+Marin+County+DSA+membership+status+to+maintain+Discussion+Board+access.+Details%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19f877ee3d1f9030&location=proof.dsausa.org&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com).
+   
+     Verify your status at [🔗&nbsp; proof.dsausa.org ](https://proof.dsausa.org) using your membership email and Discussion Board password. 
+     If monthly dues were not paid within the last month, restart payments or request a waiver before the new policy takes full effect on Tue, Aug 4. 
+    
+   Fri, Aug 14 • Your PG&E AutoPay of $130.43 is scheduled for withdrawal from your SparkyBank account ending in 0372 [🔗&nbsp; view bill ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872158528494837117) [📅&nbsp; Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=PG%26E+AutoPay+Reminder&dates=20260814T090000%2F20260814T100000&ctz=America%2FLos_Angeles&details=PG%26E+AutoPay+of+%24130.43+scheduled+for+withdrawal.+Details%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19fb3e4336271d7d&location=SparkyBank+account+ending+in+0372&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com).
+   
+     Confirmation number: YW47VSRTTX. 
+    
+ 
+
+ CC Calendar Updates 
+ 
+   New:  Living Mindfully Gathering  — August 2, 2026 5:00pm PT · [🔗&nbsp; Source email ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872161325332248676) · [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=YjJwMm9hc2liNDVqaHRlajJudmRwNG84MTggOWNlMWM5MDAyM2U4ZjI5MmZjMTEwNzRlNzZkOTQ3MWYzZmJlOWQxNDVjYjk0OWQ4MDY0NWM2ZDYwZjBlOGQyNUBn) 
+   💡 We've added a new setting to keep your calendar clean! You can now turn on Skip duplicates at labs.google.com/cc/settings so CC won't create events that are already on your primary calendar moving forward. Note: With this setting on, CC will ignore events already on your primary calendar—it won't sync or update them on your CC calendar. 
+ 
+
+ Have a wonderful day! 
+
+
+
+
+
+  
+     
+     
+     
+       
+         
+       
+       
+         CC - Google Labs 
+         
+          [sparkyflashrebob+cc@gmail.com](mailto:sparkyflashrebob+cc@gmail.com)
+         
+       
+     
+   
+  
+   
+   
+     💬 What do you think about this email? 
+     
+      [ 👍 ](https://docs.google.com/forms/d/e/1FAIpQLSfGPGkFp-YwBA_vcSLpUqSo9glbxn-0rKy8i3O2hUhl9IS_Xg/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8D+Useful)
+      [ 👎 ](https://docs.google.com/forms/d/e/1FAIpQLSfGPGkFp-YwBA_vcSLpUqSo9glbxn-0rKy8i3O2hUhl9IS_Xg/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8E+Not+useful)
+     
+     
+      🔬 Want to help improve CC further? [Sign up for user research opportunities](https://forms.gle/mSZLnsScUpa9i42b7).
+     
+   
+  
+   
+   
+    CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact [labs-cc-support@google.com](mailto:labs-cc-support@google.com) or disconnect [here](https://myaccount.google.com/connections#:~:text=CC).  Known issue: 🔗 source links do not always work on mobile.
 
 ---
 

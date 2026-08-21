@@ -48,12 +48,104 @@ tags:
 ---
 
 ## 🌅 Your Day Ahead Email Brief
-- **Subject**: `💌 Your Day Ahead 07/26/2026` (7:04 AM)
+- **Subject**: `💌 Your Day Ahead 07/26/2026`
 
-> ...
-> 
-> ---
-> CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact labs-cc-support@google.com or disconnect here: https://myaccount.google.com/connections#:~:text=CC
+...
+
+---
+CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact labs-cc-support@google.com or disconnect here: https://myaccount.google.com/connections#:~:text=CC
+ 
+ 👋 Happy Sunday, Andy! Here's your daily brief. 
+ ✉️ Reply for updates or corrections 
+
+ Top of mind 
+ 
+    5 min  Download your Krisp meeting data export before the link expires today, Sunday, July 26th [🔗&nbsp; Download link ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871203371556748382) [📅&nbsp; Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Reminder%3A+Download+Krisp+Data+Export&dates=20260726T070000%2F20260726T235959&ctz=America%2FLos_Angeles&details=Download+your+Krisp+meeting+data+export+before+the+link+expires.+Link%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19f7d98d68273c5e&location=Online&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com). 
+   Today •  Raiders Training Camp  (All day) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=MTJrNHNnMXMyZ2VrcWthMnU3cmw3djE4N3Ygc3Bhcmt5Zmxhc2hyZWJvYkBt). 
+   Today • 6:00 PM •  Sunday Sangha (Donald Rothberg) . Weekly meditation program for Marin Sangha. Visit [🔗&nbsp; Marin Sangha ](http://www.MarinSangha.org) for details and join links [🔗&nbsp; View email ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871524457693539140) [📅&nbsp; Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sunday+Sangha+%28Donald+Rothberg%29&dates=20260726T180000%2F20260726T200000&ctz=America%2FLos_Angeles&details=Weekly+meditation+program+for+Marin+Sangha+with+Donald+Rothberg.+Visit+http%3A%2F%2Fwww.MarinSangha.org+for+details.&location=Online%2FMarin+Sangha&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com). 
+   Today • 7:00 AM •  Morning Practice Zoom w/ Ed Brown  (1h 15m) [✨&nbsp; Join Zoom ](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=M3Z1bW84dnE4aHVwdnYwMWwxN2Eyc2FrM2tfMjAyNjA3MjZUMTQwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0). 
+   Today • 8:00 AM •  Pariyatti Presents: Beyond Day Ten  (1h) with Cori Bilyayev [✨&nbsp; Join Zoom ](https://us06web.zoom.us/w/86826085307?tk=1hvks2sXUxMTYYwlA325NB6YhFl0NmGEhOSZaXDzJuk.DQkAAAAUNzzruxZ5RU82elFkTlJrV0gzSjdPVjU5V2FnAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&pwd=ge95vv1mJQXQ2YD0lLerdUNzhBJ4af.1) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=MjB1M2RxZHEyZ3ZnbXZxOGlxNm5iNzZhcGggc3Bhcmt5Zmxhc2hyZWJvYkBt).
+   
+     Virtual session for students continuing Vipassana practice at home. Meeting ID: 868 2608 5307, Passcode: books. Dial-in Passcode: 150165. 
+    
+   Today • 9:30 AM •  930AM Meeting  (1h) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=YzhyajJvOWs2aGkzOGJiMWNvc21hYjlrNzFoNjhiOW82OHJtY2I5bDYwczM0ZDM0Y2dxajRvaGc2c18yMDI2MDcyNlQxNjMwMDBaIHNwYXJreWZsYXNocmVib2JAbQ). 
+   Today • 4:00 PM •  Marin DSA Beer and Roses Monthly Social  (2h) at Pond Farm Brewing Co., 1848 4th St, San Rafael, CA 94901 [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=MTBvMWJnaDJ2NzRvczY0dDFpcjJhOTlxdXUgc3Bhcmt5Zmxhc2hyZWJvYkBt) [🔗&nbsp; Map ](https://www.google.com/maps/search/?api=1&query=Pond+Farm+Brewing+Co.%2C+1848+4th+St%2C+San+Rafael%2C+CA+94901%2C+USA).
+   
+     Monthly social to meet comrades in DSA. Many members will be wearing red. 
+    
+   Today • 5:00 PM •  Living Mindfully Meditation and Council Meeting  (1h 30m) [✨&nbsp; Join Meet ](https://meet.google.com/oxf-rdfm-kmn) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=cTZtMnZzb2UwaDNoY2wza2R0czQ3cW5scmxfMjAyNjA3MjdUMDAwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0).
+   
+     Focus on practices that help shift from mental rumination to somatic stability, including a 20-minute resourced sit and nervous system regulation tools. 
+    
+   You had several updates yesterday, Saturday, July 25th.
+   
+      Amazon:  Home item delivered to your front door in Larkspur ($33.42). [🔗&nbsp; View order ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871740018584260587) 
+      Whole Foods:  Payment of $40.67 at the San Rafael location for groceries and prepared foods. [🔗&nbsp; View receipt ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871732858219034914) 
+      DROP Platform:  Successfully connected your Login.gov account to the Delete Request and Opt-out Platform. [🔗&nbsp; View email ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871707558956560733) 
+      Spiritual Reflection:  Shared a Facebook link regarding 'Bowing to God vs Buddha'. [🔗&nbsp; View link ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871729646444634642) 
+    
+ 
+
+ FYI 
+ 
+   Mon, Jul 27 • 7:00 AM •  Morning Practice Zoom w/ Ed Brown  (1h 15m) [✨&nbsp; Join Zoom ](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=M3Z1bW84dnE4aHVwdnYwMWwxN2Eyc2FrM2tfMjAyNjA3MjdUMTQwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0). 
+   Mon, Jul 27 • 6:30 PM •  Audel & Andy SDRT  (1h) [✨&nbsp; Join Meet ](https://meet.google.com/ytq-jeoq-umi) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=aGNhZ3A5cHIyZGZhZjlrNGl2cXU5cDhyajZfMjAyNjA3MjhUMDEzMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0). 
+   Two items are expected to arrive this week.
+   
+      Skincare Item:  Estimated arrival between Tue, Jul 28 and Mon, Aug 3. [🔗&nbsp; View order ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871375578408725412) [📅&nbsp; Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Delivery%3A+Skincare+Item&dates=20260728T090000%2F20260728T235959&ctz=America%2FLos_Angeles&details=Estimated+arrival+for+skincare+item.+Order%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19f8762c7064aba4&location=Home&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com) 
+      Earth Funeral:  Welcome pack for Andrea Axtell's prearrangements expected by Wed, Jul 29. [🔗&nbsp; View details ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871147898847175753) [📅&nbsp; Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Delivery%3A+Earth+Funeral+Welcome+Pack&dates=20260729T090000%2F20260729T235959&ctz=America%2FLos_Angeles&details=Welcome+pack+for+Andrea+Axtell%27s+prearrangements+expected.+Details%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19f7a719a9012449&location=Home&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com) 
+    
+   Wed, Jul 29 •  Lion's Roar Weekly Live Meditation  with resident teacher Ofosu Jones-Quartey [🔗&nbsp; Join at lionsroar.com ](https://www.lionsroar.com/weekly-meditation) [🔗&nbsp; View email ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1869472369605837139) [📅&nbsp; Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Lion%27s+Roar+Weekly+Live+Meditation&dates=20260729T090000%2F20260729T100000&ctz=America%2FLos_Angeles&details=Weekly+live+meditation+with+resident+teacher+Ofosu+Jones-Quartey.+Join+at+https%3A%2F%2Fwww.lionsroar.com%2Fweekly-meditation&location=Online&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com). 
+   Sun, Aug 2 • 6:00 PM •  Sunday Sangha (Donald Rothberg) . Weekly meditation program for Marin Sangha. Visit [🔗&nbsp; Marin Sangha ](http://www.MarinSangha.org) for details [🔗&nbsp; View email ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871524457693539140) [📅&nbsp; Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sunday+Sangha+%28Donald+Rothberg%29&dates=20260802T180000%2F20260802T193000&ctz=America%2FLos_Angeles&details=Weekly+meditation+program+for+Marin+Sangha+with+Donald+Rothberg.+Visit+http%3A%2F%2Fwww.MarinSangha.org+for+details.&location=Online%2FMarin+Sangha&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com). 
+   Two premiere events are scheduled for later this year.
+   
+      Lanterns:  Premiere on HBO on Sun, Aug 16. [🔗&nbsp; View invite ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871705871205214753) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=NXJma2U4aXNmdmtmaWtpM2NuZWYzZzZxbnQgc3Bhcmt5Zmxhc2hyZWJvYkBt) 
+      The Rings of Power:  Season 3 launch on Wed, Nov 11. [🔗&nbsp; View invite ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871705823800815543) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=N3I0bmtxczIzdDlrZWdoNjIyamY0bjU5MnEgc3Bhcmt5Zmxhc2hyZWJvYkBt) 
+    
+ 
+
+ CC Calendar Updates 
+ 
+   New:  Pariyatti Presents: Beyond Day Ten with Cori Bilyayev  — July 26, 2026 8:00am PT · [🔗&nbsp; Source email ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871696059404729629) · [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=OW1qMjlmdGtzanJpMWVzMWU1ajkzZ3BrNXMgOWNlMWM5MDAyM2U4ZjI5MmZjMTEwNzRlNzZkOTQ3MWYzZmJlOWQxNDVjYjk0OWQ4MDY0NWM2ZDYwZjBlOGQyNUBn) 
+ 
+
+ Have a wonderful day! 
+
+
+
+
+
+  
+     
+     
+     
+       
+         
+       
+       
+         CC - Google Labs 
+         
+          [sparkyflashrebob+cc@gmail.com](mailto:sparkyflashrebob+cc@gmail.com)
+         
+       
+     
+   
+  
+   
+   
+     💬 What do you think about this email? 
+     
+      [ 👍 ](https://docs.google.com/forms/d/e/1FAIpQLSfGPGkFp-YwBA_vcSLpUqSo9glbxn-0rKy8i3O2hUhl9IS_Xg/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8D+Useful)
+      [ 👎 ](https://docs.google.com/forms/d/e/1FAIpQLSfGPGkFp-YwBA_vcSLpUqSo9glbxn-0rKy8i3O2hUhl9IS_Xg/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8E+Not+useful)
+     
+     
+      🔬 Want to help improve CC further? [Sign up for user research opportunities](https://forms.gle/mSZLnsScUpa9i42b7).
+     
+   
+  
+   
+   
+    CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact [labs-cc-support@google.com](mailto:labs-cc-support@google.com) or disconnect [here](https://myaccount.google.com/connections#:~:text=CC).  Known issue: 🔗 source links do not always work on mobile.
 
 ---
 

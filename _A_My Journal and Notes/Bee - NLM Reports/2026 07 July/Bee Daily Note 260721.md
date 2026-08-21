@@ -38,12 +38,101 @@ tags:
 ---
 
 ## 🌅 Your Day Ahead Email Brief
-- **Subject**: `💌 Your Day Ahead 07/21/2026` (7:00 AM)
+- **Subject**: `💌 Your Day Ahead 07/21/2026`
 
-> ...
-> 
-> ---
-> CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact labs-cc-support@google.com or disconnect here: https://myaccount.google.com/connections#:~:text=CC
+...
+
+---
+CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact labs-cc-support@google.com or disconnect here: https://myaccount.google.com/connections#:~:text=CC
+ 
+ 👋 Enjoy your Tuesday, Andy! Here's your daily brief. 
+ ✉️ Reply for updates or corrections 
+
+ Top of mind 
+ 
+   Today • 7:00 AM •  Morning Practice Zoom w/ Ed Brown  (1h 15m) [✨&nbsp; Join Zoom ](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=M3Z1bW84dnE4aHVwdnYwMWwxN2Eyc2FrM2tfMjAyNjA3MjFUMTQwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0).
+   
+     Password: beyond. Schedule: 7:00 free writing, 7:15 brief talk, 7:30 sitting, 7:55 visiting. 
+    
+   Today • 11:00 AM •  MINDFULNESS MEDITATION CLUB  (1h 30m) at Building 10, College of Marin – Indian Valley Campus, 1800 Ignacio Blvd, Novato, CA [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=NzRjZ2ZybDYwNGsyZzJlcjZtMXFtNm41NjZfMjAyNjA3MjFUMTgwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0) [🔗&nbsp; Directions ](https://www.google.com/maps/search/?api=1&query=Building+10%2C+College+of+Marin+%E2%80%93+Indian+Valley+Campus%2C+1800+Ignacio+Blvd%2C+Novato%2C+CA).
+   
+     Parking is $4 in Lot P2 or Lot 3. Use the [🔗&nbsp; online system ](https://marin.thepermitstore.com/purchase.php) or kiosks. 
+     Building 10 is accessible via the footbridge from Lot P2. 
+    
+ 
+
+ On your calendar 
+ 
+   Today • 7:00 AM •  Morning Practice Zoom w/ Ed Brown  (1h 15m) [✨&nbsp; Join Zoom ](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=M3Z1bW84dnE4aHVwdnYwMWwxN2Eyc2FrM2tfMjAyNjA3MjFUMTQwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0).
+   
+     Password: beyond. Schedule: 7:00 free writing, 7:15 brief talk, 7:30 sitting, 7:55 visiting. 
+    
+   Today • 11:00 AM •  MINDFULNESS MEDITATION CLUB  (1h 30m) at Building 10, College of Marin – Indian Valley Campus, 1800 Ignacio Blvd, Novato, CA [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=NzRjZ2ZybDYwNGsyZzJlcjZtMXFtNm41NjZfMjAyNjA3MjFUMTgwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0) [🔗&nbsp; Directions ](https://www.google.com/maps/search/?api=1&query=Building+10%2C+College+of+Marin+%E2%80%93+Indian+Valley+Campus%2C+1800+Ignacio+Blvd%2C+Novato%2C+CA).
+   
+     Parking is $4 in Lot P2 or Lot 3. Use the [🔗&nbsp; online system ](https://marin.thepermitstore.com/purchase.php) or kiosks. 
+     Building 10 is accessible via the footbridge from Lot P2. 
+    
+   Wed, Jul 22 •  Tony's Birthday  (All day) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=OHY4ZmNuZmg0N2VpYnFobW92NWpjOGM3Y2lfMjAyNjA3MjIgc3Bhcmt5Zmxhc2hyZWJvYkBt). 
+   Wed, Jul 22 • 7:00 AM •  Morning Practice Zoom w/ Ed Brown  (1h 15m) [✨&nbsp; Join Zoom ](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=M3Z1bW84dnE4aHVwdnYwMWwxN2Eyc2FrM2tfMjAyNjA3MjJUMTQwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0). 
+   Wed, Jul 22 • 2:10 PM •  Go to class  (20m) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=N2QwanA1NG5iMTkzMDdvMDluanYycTdubmNfMjAyNjA3MjJUMjExMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0). 
+   Wed, Jul 22 • 2:30 PM •  Tai Chi  (1h) at Corte Madera Community Center, 498 Tamalpais Dr, Corte Madera, CA 94925 [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=NzZpdXJnaXY2MWM4bGo4aGNjMm9vYmVhM2ZfMjAyNjA3MjJUMjEzMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0) [🔗&nbsp; Directions ](https://www.google.com/maps/search/?api=1&query=Corte+Madera+Community+Center%2C+498+Tamalpais+Dr%2C+Corte+Madera%2C+CA+94925). 
+ 
+
+ FYI 
+ 
+   You have several events scheduled for Wed, Jul 22.
+   
+      Tony's Birthday:  All day [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=OHY4ZmNuZmg0N2VpYnFobW92NWpjOGM3Y2lfMjAyNjA3MjIgc3Bhcmt5Zmxhc2hyZWJvYkBt) 
+      Suggestion:  Birthday dinner at The Boardroom in Novato [🔗&nbsp; View ](https://theboardroomnovato.com/) 
+      Suggestion:  Italian dinner at Aurora Ristorante [🔗&nbsp; View ](https://auroranovato.com/) 
+      Morning Practice Zoom:  7:00 AM - 8:15 AM [✨&nbsp; Join Zoom ](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09) 
+      Go to class:  2:10 PM - 2:30 PM [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=N2QwanA1NG5iMTkzMDdvMDluanYycTdubmNfMjAyNjA3MjJUMjExMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0) 
+      Tai Chi:  2:30 PM - 3:30 PM at Corte Madera Community Center [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=NzZpdXJnaXY2MWM4bGo4aGNjMm9vYmVhM2ZfMjAyNjA3MjJUMjEzMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0) [🔗&nbsp; Directions ](https://www.google.com/maps/search/?api=1&query=Corte+Madera+Community+Center%2C+498+Tamalpais+Dr%2C+Corte+Madera%2C+CA+94925) 
+    
+   Your Earth Funeral welcome pack is expected to arrive by Fri, Jul 24 [🔗&nbsp; View details ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870362527398373514) [📅&nbsp; Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Check+for+Earth+Funeral+welcome+pack&dates=20260724T090000%2F20260724T093000&ctz=America%2FLos_Angeles&details=Check+for+the+arrival+of+the+Earth+Funeral+welcome+pack+%285+membership+cards+and+insurance+policy+confirmation%29.&location=&add=).
+   
+     The pack includes 5 membership cards. Insurance policy confirmation from Homesteaders Life Company is also pending [✉️&nbsp; Reply ](mailto:planahead@earthfuneral.com?subject=Re%3A%20Prearrangement%20Approved&body=Hi%20Nicole%2C%20I%27m%20checking%20in%20on%20the%20status%20of%20the%20insurance%20policy%20confirmation%20from%20Homesteaders%20Life%20Company.%20Thanks%2C%20Andy). 
+     For updates, contact Nicole Smith or the Care Team at [🔗&nbsp; 877-327-4109 ](tel:8773274109). 
+    
+ 
+
+ Have a wonderful day! 
+
+
+
+
+
+  
+     
+     
+     
+       
+         
+       
+       
+         CC - Google Labs 
+         
+          [sparkyflashrebob+cc@gmail.com](mailto:sparkyflashrebob+cc@gmail.com)
+         
+       
+     
+   
+  
+   
+   
+     💬 What do you think about this email? 
+     
+      [ 👍 ](https://docs.google.com/forms/d/e/1FAIpQLSc1bdcDhGCWZQ131lTfvHGeyv76Zlcz6sXLV30gBtQbCzHyIQ/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8D+Useful)
+      [ 👎 ](https://docs.google.com/forms/d/e/1FAIpQLSc1bdcDhGCWZQ131lTfvHGeyv76Zlcz6sXLV30gBtQbCzHyIQ/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8E+Not+useful)
+     
+     
+      🔬 Want to help improve CC further? [Sign up for user research opportunities](https://forms.gle/mSZLnsScUpa9i42b7).
+     
+   
+  
+   
+   
+    CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact [labs-cc-support@google.com](mailto:labs-cc-support@google.com) or disconnect [here](https://myaccount.google.com/connections#:~:text=CC).  Known issue: 🔗 source links do not always work on mobile.
 
 ---
 

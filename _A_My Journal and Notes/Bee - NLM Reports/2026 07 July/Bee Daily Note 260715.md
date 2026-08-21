@@ -73,12 +73,132 @@ tags:
 ---
 
 ## 🌅 Your Day Ahead Email Brief
-- **Subject**: `💌 Your Day Ahead 07/15/2026` (7:00 AM)
+- **Subject**: `💌 Your Day Ahead 07/15/2026`
 
-> ...
-> 
-> ---
-> CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact labs-cc-support@google.com or disconnect here: https://myaccount.google.com/connections#:~:text=CC
+...
+
+---
+CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact labs-cc-support@google.com or disconnect here: https://myaccount.google.com/connections#:~:text=CC
+ 
+ 👋 Happy Wednesday, Andy! Here's your daily brief. 
+ ✉️ Reply for updates or corrections 
+
+ Top of mind 
+ 
+    5 min  Review your Kaiser monthly health plan premium bill, which is now available online for Ronald McGuire [🔗&nbsp; View bill ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870709431177795318) [📅&nbsp; Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Pay+Kaiser+bill&dates=20260715T100000%2F20260715T101500&ctz=America%2FLos_Angeles&details=Review+and+pay+Kaiser+monthly+health+plan+premium+bill+for+Ronald+McGuire.&location=&add=).
+   
+     AutoPay settings can be managed at kp.org. 
+    
+   Consider applying for ESCOM club status for your meditation group to gain access to their mailing list of approximately 3,200 names [🔗&nbsp; Apply here ](https://escomnews.com/clubs-new-club-application/) [📅&nbsp; Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Apply+for+ESCOM+club+status&dates=20260716T100000%2F20260716T103000&ctz=America%2FLos_Angeles&details=Apply+for+ESCOM+club+status+for+meditation+group+to+gain+access+to+mailing+list.&location=&add=).
+   
+     Will Meecham suggested this on Tue, Jul 14, as a way to help with outreach even if the group meets off-site. 
+    
+   Your "Head & Heart Together" Substack successfully launched on Tue, Jul 14, with the first post "Aspects of Honesty" already receiving engagement [🔗&nbsp; View publication ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870727704972218783).
+   
+     Custom promotional assets (videos and images) were generated for the "Aspects of Honesty" post to use for social media promotion [🔗&nbsp; View assets ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870729391604764450). 
+    
+ 
+
+ On your calendar 
+ 
+   Today •  World Cup  (All day) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=NXZldnVrOTBic21oNjlvaGNnMzdoZWkyMHQgc3Bhcmt5Zmxhc2hyZWJvYkBt).
+   
+     Ongoing tournament through Mon, Jul 20. 
+    
+   Today •  1st Regular SSI Payment $3027  (All day) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=MjRsdDNndmFkdDFtNWt0cWVpbTRtOGYyNzIgc3Bhcmt5Zmxhc2hyZWJvYkBt). 
+   Today •  Giorgio Harris  (All day) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=MnJna3AxNmE5cGhscWdxaDV2anJzdTYzN2dfMjAyNjA3MTUgc3Bhcmt5Zmxhc2hyZWJvYkBt). 
+   Today • 7:00 AM •  Morning Practice Zoom w/ Ed Brown  (1h 15m) [✨&nbsp; Join Zoom ](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09).
+   
+     Schedule: Free writing (7:00), brief talk (7:15), sitting (7:30), and visiting (7:55). Password: beyond. 
+    
+   Today • 9:00 AM •  For What It’s Worth: Bonds, yields, and markets  (1h) [🔗&nbsp; Attend Webinar ](http://Fidelityevents.com/bonds-yields-markets/virtual?guest-access-hash=NDU5Mzk2NjUwfDg3NzA3NTYyMXwxNzgzNDYzNDUxOzNlZGUyNDk1Y2Y1ZDUzY2E4NjZmMDIzZDAwMzhjNzNkZTZmNTZiMTdiMDFjODAxYjAxNTNhOTdiYWVkY2RkOWE%3D).
+   
+     Fidelity virtual event covering market charts and fundamentals. 
+    
+   Today • 12:00 PM •  England vs Argentina  (2h 30m) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=NDExNnFtNjJkcjdsMzAyaTY5ZTczdjc2bmQgc3Bhcmt5Zmxhc2hyZWJvYkBt). 
+   Today • 2:10 PM •  Go to class  (20m) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=N2QwanA1NG5iMTkzMDdvMDluanYycTdubmNfMjAyNjA3MTVUMjExMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0). 
+   Today • 2:30 PM •  Tai Chi  (1h) at Corte Madera Community Center, 498 Tamalpais Dr, Corte Madera, CA 94925 [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=NzZpdXJnaXY2MWM4bGo4aGNjMm9vYmVhM2ZfMjAyNjA3MTVUMjEzMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0) [🔗&nbsp; Directions ](https://www.google.com/maps/search/?api=1&query=Corte+Madera+Community+Center%2C+498+Tamalpais+Dr%2C+Corte+Madera%2C+CA+94925%2C+USA).
+   
+     Regular weekly session. 
+    
+   Today • 5:00 PM •  Watch England vs Argentina  (1h) with Andrea Axtell [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=NTEyY2k4bHE2ZWZoMmhodG5kbXJrMDIzMzEgc3Bhcmt5Zmxhc2hyZWJvYkBt).
+   
+     Soccer viewing event confirmed with Andrea on Mon, Jul 13. 
+    
+ 
+
+ FYI 
+ 
+   Fidelity is hosting additional educational webinars this week [🔗&nbsp; Register ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1869978508637051485).
+   
+      High Net Worth Bond Desk:  Today, Wed, Jul 15, from 11:00 AM to 12:00 PM PT (2:00 PM ET) [📅&nbsp; Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fidelity%3A+High+Net+Worth+Bond+Desk&dates=20260715T110000%2F20260715T120000&ctz=America%2FLos_Angeles&details=Educational+webinar+covering+market+charts+and+fundamentals.&location=Virtual&add=). 
+      Starting Small (Investing Basics):  Thu, Jul 16, from 9:00 AM to 10:00 AM PT (Noon ET) [📅&nbsp; Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fidelity%3A+Starting+Small+%28Investing+Basics%29&dates=20260716T090000%2F20260716T100000&ctz=America%2FLos_Angeles&details=Educational+webinar+on+investing+basics.&location=Virtual&add=). 
+    
+   Updates from the Larkspur Isle HOA Board of Directors as of Tue, Jul 14 [🔗&nbsp; View updates ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870710632786265529).
+   
+      Management Transition:  Moving to OMNI Community Management effective Sat, Aug 1. 
+      Board Meeting:  The next Open Board Meeting is on Wed, Jul 22, at 6:30 PM via Zoom [📅&nbsp; Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Larkspur+Isle+HOA+Open+Board+Meeting&dates=20260722T183000%2F20260722T193000&ctz=America%2FLos_Angeles&details=Open+Board+Meeting+via+Zoom.&location=Zoom&add=). 
+      Projects:  Lawn replacement and storm drain repairs are scheduled for summer 2026. 
+    
+   You are confirmed and fully paid for the silent Labor Day Insight Retreat at Spirit Rock from Wed, Sep 2, to Mon, Sep 7 [🔗&nbsp; View confirmation ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870708372233567392) [📅&nbsp; Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Spirit+Rock%3A+Silent+Labor+Day+Insight+Retreat&dates=20260902T000000%2F20260907T235959&ctz=America%2FLos_Angeles&details=Silent+Labor+Day+Insight+Retreat+at+Spirit+Rock.+Confirmed+and+fully+paid.&location=Spirit+Rock+Insight+Meditation+Center&add=).
+   
+     Total cost of $1,850.00 was covered by a $1,375.00 scholarship and a final payment of $475.00 made on Tue, Jul 14. 
+    
+   Michelle Bogart sent the arrangement link for Andrea Axtell's Earth Funeral enrollment on Tue, Jul 14 [🔗&nbsp; View link ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870273222914971510).
+   
+     You are waiting for funds to transfer (approximately one month) before finalizing these arrangements. 
+    
+   Recent financial and account activity as of Tue, Jul 14.
+   
+      Fidelity:  A transfer of $4,995.00 to Bank of America was successfully processed [🔗&nbsp; View status ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870691899691139149). 
+      Bank of America:  A payment of $4,995.00 for the Business Credit Card ending in 7069 was posted [🔗&nbsp; View payment ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870720903004533277). 
+      Apple:  Purchased three songs by Flashbaxx for $3.57 billed to Visa ending in 6681 [🔗&nbsp; View receipt ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870740751644643681). 
+      Google Health:  Weekly report shows an average of 4,032 steps per day and an average weight of 240.0 lbs [🔗&nbsp; View report ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870695108555649597). 
+    
+   New engagement on your Substack publication from Tue, Jul 14.
+   
+      Starla Faye:  Sent a supportive message and shared your link with her friend [🔗&nbsp; View message ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870730317571908497) [✉️&nbsp; Reply ](mailto:no-reply@substack.com?subject=Re%3A%20%F0%9F%92%AC%20New%20messages%20from%20Starla%20Faye&body=Hi%20Starla%2C%20thank%20you%20so%20much%20for%20your%20supportive%20message%20and%20for%20sharing%20the%20link%20with%20your%20friend%21%20I%20really%20appreciate%20the%20encouragement.). 
+      Purposeful Writer:  Joined as a new free subscriber [🔗&nbsp; View subscriber ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870732177917379073). 
+    
+ 
+
+ Have a wonderful day! 
+
+
+
+
+
+  
+     
+     
+     
+       
+         
+       
+       
+         CC - Google Labs 
+         
+          [sparkyflashrebob+cc@gmail.com](mailto:sparkyflashrebob+cc@gmail.com)
+         
+       
+     
+   
+  
+   
+   
+     💬 What do you think about this email? 
+     
+      [ 👍 ](https://docs.google.com/forms/d/e/1FAIpQLSc1bdcDhGCWZQ131lTfvHGeyv76Zlcz6sXLV30gBtQbCzHyIQ/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8D+Useful)
+      [ 👎 ](https://docs.google.com/forms/d/e/1FAIpQLSc1bdcDhGCWZQ131lTfvHGeyv76Zlcz6sXLV30gBtQbCzHyIQ/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8E+Not+useful)
+     
+     
+      🔬 Want to help improve CC further? [Sign up for user research opportunities](https://forms.gle/mSZLnsScUpa9i42b7).
+     
+   
+  
+   
+   
+    CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact [labs-cc-support@google.com](mailto:labs-cc-support@google.com) or disconnect [here](https://myaccount.google.com/connections#:~:text=CC).  Known issue: 🔗 source links do not always work on mobile.
 
 ---
 

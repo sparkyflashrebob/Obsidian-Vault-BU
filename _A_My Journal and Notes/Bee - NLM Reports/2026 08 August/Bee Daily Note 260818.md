@@ -44,12 +44,112 @@ tags:
 ---
 
 ## 🌅 Your Day Ahead Email Brief
-- **Subject**: `💌 Your Day Ahead 08/18/2026` (7:04 AM)
+- **Subject**: `💌 Your Day Ahead 08/18/2026`
 
-> ...
-> 
-> ---
-> CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact labs-cc-support@google.com or disconnect here: https://myaccount.google.com/connections#:~:text=CC
+...
+
+---
+CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact labs-cc-support@google.com or disconnect here: https://myaccount.google.com/connections#:~:text=CC
+ 
+ 👋 Enjoy your Tuesday, Andy! Here's your daily brief. 
+ ✉️ Reply for updates or corrections 
+
+ Top of mind 
+ 
+    15 min  Contact PG&E to resolve the failed eBill activation for your account ending in 5624 [🔗&nbsp; View details ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873754394592390179) [✉️&nbsp; Reply ](mailto:Fidelity.Alerts@fidelity.com?subject=Re%3A%20Fidelity%20Alerts%3A%20We%20couldn%27t%20complete%20your%20eBill%20enrollment%20for%20Pacific%20Gas%20%26%20Electric%20%28PG%26E%29&body=Hello%20PG%26E%20Support%2C%20I%20received%20a%20notification%20that%20my%20eBill%20activation%20for%20account%20ending%20in%205624%20failed.%20Could%20you%20please%20help%20me%20resolve%20this%3F).
+   
+     The enrollment failed on Mon, Aug 17, possibly due to an address mismatch or incorrect account details. 
+    
+    5 min  Confirm your interest in the Insight Retreat Center recording team with John O'Connor at [✉️&nbsp; john@insightretreatcenter.org ](mailto:john@insightretreatcenter.org) [🔗&nbsp; View email ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873810874919587462) [✉️&nbsp; Reply ](mailto:john@insightretreatcenter.org?subject=Re%3A%20IRC%20recordings&body=Hi%20John%2C%20I%27m%20definitely%20interested%20in%20joining%20the%20recording%20team.%20Apologies%20for%20missing%20the%20previous%20emails%20sent%20to%20my%20IRC%20workspace%20address.%20Looking%20forward%20to%20hearing%20more.).
+   
+     John noted on Mon, Aug 17, that he hasn't received a response to emails sent to your new IRC workspace address. 
+    
+    10 min  Review the new search result matching your personal information and request removal if necessary via the Google Search Console [🔗&nbsp; View dashboard ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873795345322564552).
+   
+     A match for 'Ronald McGuire' was detected on Mon, Aug 17. 
+    
+   Today •  Raiders Training Camp  (All day) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=MTJrNHNnMXMyZ2VrcWthMnU3cmw3djE4N3Ygc3Bhcmt5Zmxhc2hyZWJvYkBt&ctz=America/Los_Angeles). 
+   Today • 11:00 AM •  MINDFULNESS MEDITATION CLUB (Novato Campus)  (1.5h) at Building 10, College of Marin – Indian Valley Campus, 1800 Ignacio Blvd, Novato, CA [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=NzRjZ2ZybDYwNGsyZzJlcjZtMXFtNm41NjZfMjAyNjA4MThUMTgwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0&ctz=America/Los_Angeles) [🔗&nbsp; Map ](https://www.google.com/maps/search/?api=1&query=1800+Ignacio+Blvd%2C+Novato%2C+CA).
+   
+     Parking is $4 in campus lots (except Sundays). You can pay via the [🔗&nbsp; online system ](https://marin.thepermitstore.com/purchase.php) or at lot kiosks. 
+     For the closest accessible parking, use Lot 3 and cross the small bridge near Building 10. 
+      Suggestion:  Grab a coffee at Trailhead or Rustic Bakery in Novato after meditation [🔗&nbsp; View ](https://www.trailheadnovato.com/). 
+    
+ 
+
+ FYI 
+ 
+   Wed, Aug 19 • 1:00 AM •  Regular SSI Payment  (1h) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=MGM0cGlwNmFkZXA4YWFmZ3Zlczk3NWxwbXJfMjAyNjA4MTlUMDgwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0&ctz=America/Los_Angeles). 
+   Wed, Aug 19 • 2:10 PM •  Go to class  (20m) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=N2QwanA1NG5iMTkzMDdvMDluanYycTdubmNfMjAyNjA4MTlUMjExMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0&ctz=America/Los_Angeles). 
+   Wed, Aug 19 • 2:30 PM •  Tai Chi  (1h) at Corte Madera Community Center, 498 Tamalpais Dr, Corte Madera, CA 94925 [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=NzZpdXJnaXY2MWM4bGo4aGNjMm9vYmVhM2ZfMjAyNjA4MTlUMjEzMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0&ctz=America/Los_Angeles) [🔗&nbsp; Map ](https://www.google.com/maps/search/?api=1&query=498+Tamalpais+Dr%2C+Corte+Madera%2C+CA+94925). 
+   Wed, Aug 19 • 6:00 PM •  Oakland Democracy Reform Town Hall  (2h) at Oakland Grove, 499 37th Street, Oakland, CA 94609 [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=b2djbTNtMGRkYjgwM2NuM2I4ZGttaTg3cDQgc3Bhcmt5Zmxhc2hyZWJvYkBt&ctz=America/Los_Angeles) [🔗&nbsp; Map ](https://www.google.com/maps/search/?api=1&query=499+37th+Street%2C+Oakland%2C+CA+94609).
+   
+     Doors open at 5:30 PM for food and networking. Remember to bring your phone. 
+     Street parking is available at the venue, or use the MacArthur BART parking garage two blocks away. 
+    
+   Fri, Aug 21 • 1:30 PM •  In-Person Visit: Dr. Benjamin Hunter  (1h) at SAN RAFAEL DOWNTOWN-SRD, 1033 Third Street, 3rd Floor, San Rafael, CA 94901-3107 [🔗&nbsp; View source ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873341516382108117) [🔗&nbsp; Map ](https://www.google.com/maps/search/?api=1&query=1033+Third+Street%2C+San+Rafael%2C+CA+94901-3107) [📅&nbsp; View Event ](https://www.google.com/calendar/event?eid=NGRoajM2cXFlN29jczlxODk2ZDJtcGs2ODIgc3Bhcmt5Zmxhc2hyZWJvYkBt&ctz=America/Los_Angeles).
+   
+     Plan to arrive 15-25 minutes early for parking and construction. Bring your membership card and ID. 
+    
+   Mon, Aug 31 •  Monthly payment to Marin Alano Club  ($20.00) is scheduled for delivery from your Fidelity account ending in 1490 [🔗&nbsp; View source ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873753819303798744) [📅&nbsp; Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Confirm+Marin+Alano+Club+Payment&dates=20260831T090000%2F20260831T093000&ctz=America%2FLos_Angeles&details=Verify+that+the+%2420+payment+from+Fidelity+account+ending+in+1490+was+delivered+to+Marin+Alano+Club.&location=&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com). 
+   Review recent updates and activity from Mon, Aug 17.
+   
+      Amazon Delivery:  Your decor item was delivered to your porch in Larkspur [🔗&nbsp; View order ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873806440928252648). 
+      NFL Sunday Ticket:  Successfully purchased the 2026 season for $234.00; your YouTube TV subscription will automatically renew on Aug 13, 2027 [🔗&nbsp; View receipt ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873820800424878704). 
+      Substack:  Published 'Who Is Listening When You Speak to Yourself?' and generated social media promotion assets [🔗&nbsp; View post ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873819467241897502). 
+      Glasp AI:  Registered for Glasp and YouTube Summary; use discount code WELCOME for your account [🔗&nbsp; View welcome email ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873805841910340186). 
+      Krisp:  Your exported meeting data is ready for download until Mon, Aug 24 [🔗&nbsp; View export ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873794926194375501). 
+      Research:  You shared a link regarding US Forest Service glyphosate spraying in California [🔗&nbsp; View source ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873836796269673944). 
+    
+ 
+
+ CC Calendar Updates 
+ 
+   Updated:  Oakland Democracy Reform Town Hall  — August 19, 2026 6:00pm PT · [🔗&nbsp; Source email ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873821093231631588) · [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=NzkyYmlzdWxyZzQxZDhrNXJwMHR2cmNoYXMgOWNlMWM5MDAyM2U4ZjI5MmZjMTEwNzRlNzZkOTQ3MWYzZmJlOWQxNDVjYjk0OWQ4MDY0NWM2ZDYwZjBlOGQyNUBn)
+   
+     New location: Oakland Grove, 499 37th Street, Oakland, CA 94609 
+     Event details updated 
+    
+   New:  Bay Area DSA Social  — September 20, 2026 1:00pm PT · [🔗&nbsp; Source email ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873807234525391288) · [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=ZmtkM2QwaWRtY21za2pvcWM3ZmhpOTg4ajAgOWNlMWM5MDAyM2U4ZjI5MmZjMTEwNzRlNzZkOTQ3MWYzZmJlOWQxNDVjYjk0OWQ4MDY0NWM2ZDYwZjBlOGQyNUBn) 
+ 
+
+ Have a wonderful day! 
+
+
+
+
+
+  
+     
+     
+     
+       
+         
+       
+       
+         CC - Google Labs 
+         
+          [sparkyflashrebob+cc@gmail.com](mailto:sparkyflashrebob+cc@gmail.com)
+         
+       
+     
+   
+  
+   
+   
+     💬 What do you think about this email? 
+     
+      [ 👍 ](https://docs.google.com/forms/d/e/1FAIpQLSfGPGkFp-YwBA_vcSLpUqSo9glbxn-0rKy8i3O2hUhl9IS_Xg/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8D+Useful)
+      [ 👎 ](https://docs.google.com/forms/d/e/1FAIpQLSfGPGkFp-YwBA_vcSLpUqSo9glbxn-0rKy8i3O2hUhl9IS_Xg/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8E+Not+useful)
+     
+     
+      🔬 Want to help improve CC further? [Sign up for user research opportunities](https://forms.gle/mSZLnsScUpa9i42b7).
+     
+   
+  
+   
+   
+    CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact [labs-cc-support@google.com](mailto:labs-cc-support@google.com) or disconnect [here](https://myaccount.google.com/connections#:~:text=CC).  Known issue: 🔗 source links do not always work on mobile.
 
 ---
 

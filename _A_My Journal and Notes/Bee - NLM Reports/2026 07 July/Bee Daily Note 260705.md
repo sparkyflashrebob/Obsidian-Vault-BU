@@ -40,12 +40,96 @@ tags:
 ---
 
 ## 🌅 Your Day Ahead Email Brief
-- **Subject**: `💌 Your Day Ahead 07/05/2026` (7:00 AM)
+- **Subject**: `💌 Your Day Ahead 07/05/2026`
 
-> ...
-> 
-> ---
-> CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact labs-cc-support@google.com or disconnect here: https://myaccount.google.com/connections#:~:text=CC
+...
+
+---
+CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact labs-cc-support@google.com or disconnect here: https://myaccount.google.com/connections#:~:text=CC
+ 
+ 👋 Happy Sunday, Andy! Here's your daily brief. 
+ ✉️ Reply for updates or corrections 
+
+ Top of mind 
+ 
+    15 min  Review June 2026 Fidelity investment statements for accounts ending in 1490, 3435, 1128, and 2492 [🔗&nbsp; View notification ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1869788651236646339) [📅&nbsp; Remind Me ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Review+Fidelity+investment+statements&dates=20260705T100000%2F20260705T101500&ctz=America%2FLos_Angeles&details=Review+accounts+ending+in+1490%2C+3435%2C+1128%2C+and+2492.&location=&add=).
+   
+     Statements and regulatory disclosures were made available on July 4 for the period ending June 30, 2026. 
+    
+    15 min  Complete the OneCal account setup by connecting your calendars to synchronize availability and prevent scheduling conflicts [🔗&nbsp; View reminder ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1869738895144129112) [📅&nbsp; Remind Me ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Complete+OneCal+account+setup&dates=20260705T110000%2F20260705T111500&ctz=America%2FLos_Angeles&details=Connect+calendars+to+synchronize+availability.&location=&add=). 
+    30 min  Review new career and housing opportunities identified on July 4.
+   
+      Career:  Event Operations Supervisor (Encore, Napa) [🔗&nbsp; View Job ](https://jobs.encoreglobal.com/en/job/napa/event-operations-supervisor-audio-visual-stanly-ranch/6228/96323267056) and Senior AV Automation Engineer (Salesforce, San Francisco) [🔗&nbsp; View Job ](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Senior-AV-Automation-Engineer_JR345569). 
+      Housing:  2BR units in San Rafael (Lincoln Ave, $2,850+) and Petaluma (The Grove Luxury Apartments, $2,089+) [🔗&nbsp; Redfin update ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1869818776958589095) [🔗&nbsp; Apartment List ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1869817036895226777). 
+    
+ 
+
+ On your calendar 
+ 
+   Sun, Jul 5 • 7:00 AM •  Morning Practice Zoom w/ Ed Brown  (1h 15m) [✨&nbsp; Join Zoom ](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=M3Z1bW84dnE4aHVwdnYwMWwxN2Eyc2FrM2tfMjAyNjA3MDVUMTQwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0).
+   
+     Sunday schedule: 7:00 sitting, 7:10 lecture, 7:55 visiting. Use password 'beyond' to join. 
+    
+   Sun, Jul 5 • 7:30 AM •  LOTTERY FOR AL GREEN @ STERNGROVE  (1h) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=Mmc5ajEwdjN2aTQxdmw1dWVydmV1NTZjczUgc3Bhcmt5Zmxhc2hyZWJvYkBt). 
+   Sun, Jul 5 • 9:30 AM •  930AM Meeting  (1h) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=YzhyajJvOWs2aGkzOGJiMWNvc21hYjlrNzFoNjhiOW82OHJtY2I5bDYwczM0ZDM0Y2dxajRvaGc2c18yMDI2MDcwNVQxNjMwMDBaIHNwYXJreWZsYXNocmVib2JAbQ). 
+   Mon, Jul 6 • 8:00 AM •  Landlord property inspection  (9h) [✨&nbsp; Join Meet ](https://meet.google.com/bes-vwvt-zhs) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=Y2hpajhwaG1jY3BtMmJiNGNncDMyYjlrNjFpM2NiOXBjbGgzMmJiNmNwZ204cGhnY2NxMzJvOWc2MCBzcGFya3lmbGFzaHJlYm9iQG0). 
+   Mon, Jul 6 • 5:00 PM •  USA vs Belgium  (2h 30m) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=NnBoamNjMWo2Y3JtMmI5cDY1aDY2YjlrY2NxMzhiOXA3MHNqZ2I5amNrcjNlYzMyY2hoM2VlMzE2ZyBzcGFya3lmbGFzaHJlYm9iQG0). 
+   Mon, Jul 6 • 6:30 PM •  Audel & Andy SDRT  (1h) [✨&nbsp; Join Meet ](https://meet.google.com/ytq-jeoq-umi) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=aGNhZ3A5cHIyZGZhZjlrNGl2cXU5cDhyajZfMjAyNjA3MDdUMDEzMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0).
+   
+     Note: Meeting is via Google Meet from here on. 
+    
+   Fri, Jul 10 • 3:30 PM •  SimaSpace Virtual Meet & Greet  (30m) [🔗&nbsp; View invite ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1869804186823543377) [📅&nbsp; Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=SimaSpace+Virtual+Meet+%26+Greet&dates=20260710T153000%2F20260710T160000&ctz=America%2FLos_Angeles&details=Rescheduled+session+with+the+SimaSpace+team+via+Zoom.&location=Zoom&add=).
+   
+     Rescheduled session with the SimaSpace team via Zoom. 
+    
+ 
+
+ FYI 
+ 
+   Local safety alerts and technical reference materials for your awareness.
+   
+      Safety Alerts:  Recent Nextdoor reports include an indecent exposure incident in Sausalito (July 2), a flipped car and gunshots in Bolinas, and an apartment fire in San Rafael [🔗&nbsp; Nextdoor reports ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1869802783122939846) [🔗&nbsp; Sausalito report ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1869753569227832590). 
+      Technical Manuals:  Troubleshooting guides for your Surface Laptop 4 [🔗&nbsp; Surface Guide ](https://support.microsoft.com/en-us/surface/surface-help-learning-microsoft-support-88016662-9935-fdcc-33ef-993f40b57a53), Nvidia SHIELD TV [🔗&nbsp; SHIELD Guide ](https://www.nvidia.com/en-us/shield/support/shield-tv/troubleshooting-shield/), and other household devices are accessible via the Fing app [🔗&nbsp; View manuals ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1869811920313986808). 
+    
+ 
+
+ Have a wonderful day! 
+
+
+
+
+
+  
+     
+     
+     
+       
+         
+       
+       
+         CC - Google Labs 
+         
+          [sparkyflashrebob+cc@gmail.com](mailto:sparkyflashrebob+cc@gmail.com)
+         
+       
+     
+   
+  
+   
+   
+     💬 What do you think about this email? 
+     
+      [ 👍 ](https://docs.google.com/forms/d/e/1FAIpQLSc1bdcDhGCWZQ131lTfvHGeyv76Zlcz6sXLV30gBtQbCzHyIQ/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8D+Useful)
+      [ 👎 ](https://docs.google.com/forms/d/e/1FAIpQLSc1bdcDhGCWZQ131lTfvHGeyv76Zlcz6sXLV30gBtQbCzHyIQ/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8E+Not+useful)
+     
+     
+      🔬 Want to help improve CC further? [Sign up for user research opportunities](https://forms.gle/mSZLnsScUpa9i42b7).
+     
+   
+  
+   
+   
+    CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact [labs-cc-support@google.com](mailto:labs-cc-support@google.com) or disconnect [here](https://myaccount.google.com/connections#:~:text=CC).  Known issue: 🔗 source links do not always work on mobile.
 
 ---
 

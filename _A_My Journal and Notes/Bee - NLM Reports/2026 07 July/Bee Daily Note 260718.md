@@ -41,12 +41,113 @@ tags:
 ---
 
 ## 🌅 Your Day Ahead Email Brief
-- **Subject**: `💌 Your Day Ahead 07/18/2026` (7:02 AM)
+- **Subject**: `💌 Your Day Ahead 07/18/2026`
 
-> ...
-> 
-> ---
-> CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact labs-cc-support@google.com or disconnect here: https://myaccount.google.com/connections#:~:text=CC
+...
+
+---
+CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact labs-cc-support@google.com or disconnect here: https://myaccount.google.com/connections#:~:text=CC
+ 
+ 👋 Happy Saturday, Andy! Here's your daily brief. 
+ ✉️ Reply for updates or corrections 
+
+ Top of mind 
+ 
+   Health Alert: A parasitic outbreak (cyclosporiasis) has been linked to shredded iceberg lettuce from a California supplier, affecting Taco Bell chains in several states [🔗&nbsp; View alert ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871000076576919884).
+   
+     The FDA confirmed the outbreak originated from a California supplier. 
+    
+    5 min  Consider attending the Good Trouble street protest in Point Reyes Station today, Saturday, July 18th from 11:30 AM to 1:00 PM [🔗&nbsp; View email ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870810931550230629) [📅&nbsp; Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Good+Trouble+Street+Protest&dates=20260718T113000%2F20260718T130000&ctz=America%2FLos_Angeles&details=Music+and+singing+as+part+of+the+John+Lewis+Weekend+of+Action.+Source%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19f674a158f81865&location=Point+Reyes+Station%2C+CA&add=).
+   
+     The event features music and singing as part of the John Lewis Weekend of Action. 
+    
+   The rally previously scheduled for today, Saturday, July 18th at Civic Center Drive in San Rafael has been cancelled [🔗&nbsp; View update ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870811295178129802).
+   
+     Note: The 'Good Trouble Lives On' event at the San Rafael farmer's market on Sun, Jul 19th is still on your calendar. 
+    
+   Today • 12:00 PM •  World Cup 3rd Place Game  (3h) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=N2ppbTczMXZydXMwOWhpMzc4bTNscWFhamsgc3Bhcmt5Zmxhc2hyZWJvYkBt). 
+   Today • 5:30 PM •  Warriors vs Lakers Summer League  (2h) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=NWNwbDR0dmYzdnNvM2V2bjNuc2dhcG9sZGogc3Bhcmt5Zmxhc2hyZWJvYkBt). 
+   Today • 7:00 PM •  Saturday Night Puja  (2h) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=NjVpamNvcGc2Y3BqZWI5ZzcwcG1hYjlrNzRwajRiYjFjNWdtNGI5Z2NwaTYyZTMxY2NwNjJjMW1jZ18yMDI2MDcxOVQwMjAwMDBaIHNwYXJreWZsYXNocmVib2JAbQ). 
+ 
+
+ On your calendar 
+ 
+   Today • 12:00 PM •  World Cup 3rd Place Game  (3h) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=N2ppbTczMXZydXMwOWhpMzc4bTNscWFhamsgc3Bhcmt5Zmxhc2hyZWJvYkBt). 
+   Today • 5:30 PM •  Warriors vs Lakers Summer League  (2h) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=NWNwbDR0dmYzdnNvM2V2bjNuc2dhcG9sZGogc3Bhcmt5Zmxhc2hyZWJvYkBt). 
+   Today • 7:00 PM •  Saturday Night Puja  (2h) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=NjVpamNvcGc2Y3BqZWI5ZzcwcG1hYjlrNzRwajRiYjFjNWdtNGI5Z2NwaTYyZTMxY2NwNjJjMW1jZ18yMDI2MDcyNlQwMjAwMDBaIHNwYXJreWZsYXNocmVib2JAbQ). 
+   Sun, Jul 19 • 7:00 AM •  Morning Practice Zoom w/ Ed Brown  (1h 15m) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=M3Z1bW84dnE4aHVwdnYwMWwxN2Eyc2FrM2tfMjAyNjA3MTlUMTQwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0).
+   
+     Join via [✨&nbsp; Zoom ](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09) (Password: beyond). 
+    
+   Sun, Jul 19 • 9:30 AM •  930AM Meeting  (1h) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=YzhyajJvOWs2aGkzOGJiMWNvc21hYjlrNzFoNjhiOW82OHJtY2I5bDYwczM0ZDM0Y2dxajRvaGc2c18yMDI2MDcxOVQxNjMwMDBaIHNwYXJreWZsYXNocmVib2JAbQ). 
+   Sun, Jul 19 • 10:00 AM •  SAN RAFAEL Good Trouble Lives On  (1h 30m) at Marin County Civic Center, 3501 Civic Center Dr, San Rafael, CA 94903 [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=MjhmMzZsNG9sbGxkNTIzdmZ1ZDExbHVub2kgc3Bhcmt5Zmxhc2hyZWJvYkBt) [🔗&nbsp; Directions ](https://www.google.com/maps/search/?api=1&query=Marin+County+Civic+Center%2C+3501+Civic+Center+Dr%2C+San+Rafael%2C+CA%2C+94903).
+   
+     Meet at the free speech area at the first entrance to the farmers market closest to the Civic Center. 
+    
+   Sun, Jul 19 • 12:00 PM •  World Cup FINAL  (3h) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=MnY1Z2hjZzlkMjVtMjRjN2l1ODFvbWhyaWogc3Bhcmt5Zmxhc2hyZWJvYkBt). 
+   Sun, Jul 19 • 5:00 PM •  Socialism and the Black Radical Tradition  (1h 30m) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=X2M4c2plcXJsZDhzbXVkajNlMHBqMHA5aGQwcjMwcnJhNjFoamlyajVjaG5qY2NqamQ5aDZjZGJhNnBubXVvamFjZ29uMGRqMWR0bDZjb3BwNjByNmFzajI2NWkzYXI5aWVkbm40cGo0ZGMgc3Bhcmt5Zmxhc2hyZWJvYkBt).
+   
+     Featuring Cori Bush and Chris Rabb. Join via [✨&nbsp; Zoom ](https://dsausa.zoom.us/w/83208101017?tk=qa_TlVhoD7QjZV_G6Z_uZroEDymMM35hvFVuBQsjwEs.DQkAAAATX5bcmRZwanNRcDhVbVRveWhDTlJmSVZlVy13AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&uuid=WN_eLadiCqjSCuxpfJYWMa6Ew). 
+    
+ 
+
+ FYI 
+ 
+    10 min  Prepare for the AASF Marin Teleservice Business Meeting on Mon, Jul 20th [🔗&nbsp; View email ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871003643015144951) [📅&nbsp; Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=AASF+Marin+Teleservice+Business+Meeting&dates=20260720T180000%2F20260720T200000&ctz=America%2FLos_Angeles&details=Orientation+at+6%3A00+PM.+Meeting+at+6%3A45+PM.+Zoom%3A+https%3A%2F%2Fus02web.zoom.us%2Fj%2F84707673404+%28ID%3A+847+0767+3404%2C+PW%3A+1821%29.+Source%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19f723e67b6125f7&location=https%3A%2F%2Fus02web.zoom.us%2Fj%2F84707673404&add=).
+   
+     Orientation starts at 6:00 PM, followed by the meeting at 6:45 PM via [✨&nbsp; Zoom ](https://us02web.zoom.us/j/84707673404) (ID: 847 0767 3404, PW: 1821). 
+     Reply to Brian at [✉️&nbsp; teleservice@aasfmarin.org ](mailto:teleservice@aasfmarin.org) with any agenda items [✉️&nbsp; Reply ](mailto:telecomms@aasfmarin.org?subject=Re%3A%20Teleservice%20Business%20Meeting%2C%20Mon%20July%2020th&body=Hi%20Brian%2C%0A%0AI%27m%20planning%20to%20attend%20the%20Teleservice%20Business%20Meeting%20on%20Monday.%20Here%20are%20a%20few%20agenda%20items%20I%27d%20like%20to%20discuss%3A%20%0A%0A%5BInsert%20Items%5D%0A%0AThanks%2C%0AAndy). 
+    
+   Upcoming community and social events on Sat, Jul 25th.
+   
+      Council Potluck:  Gathering from 5:30 PM to 9:00 PM at 1721 Pine Ave, Petaluma, CA 94954 [🔗&nbsp; View details ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870356188618275932) [🔗&nbsp; Map ](https://www.google.com/maps/search/?api=1&query=1721+Pine+Ave%2C+Petaluma%2C+CA+94954) [📅&nbsp; View Event ](https://www.google.com/calendar/event?eid=YzlpM2dvcGw2ZGkzY2JiMmM4cDZjYjlrNmdvbTZiYjJjOWkzMmJiM2M0cG1jZWI0NjFoMzhlMW1jZyBzcGFya3lmbGFzaHJlYm9iQG0). 
+      ⏱️ 5m • Maria Muldaur Concert:  Consider attending the Jazzabelle Quintet performance at 7:30 PM at 549 Magnolia Ave, Larkspur, CA 94939 [🔗&nbsp; View flyer ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870918013705802430) [🔗&nbsp; Map ](https://www.google.com/maps/search/?api=1&query=549+Magnolia+Ave%2C+Larkspur%2C+CA+94939) [📅&nbsp; Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Maria+Muldaur+Concert+%28Jazzabelle+Quintet%29&dates=20260725T193000%2F20260725T213000&ctz=America%2FLos_Angeles&details=Performance+at+7%3A30+PM.+Source%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19f6d6055ad052be&location=549+Magnolia+Ave%2C+Larkspur%2C+CA+94939&add=). 
+    
+   Administrative and account updates.
+   
+      ⏱️ 10m • FasTrak:  Your July statement was issued on Jul 12th. Review for any discrepancies within 30 days [🔗&nbsp; Review statement ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871031658798710807) [📅&nbsp; Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Review+FasTrak+July+Statement&dates=20260731T090000%2F20260731T100000&ctz=America%2FLos_Angeles&details=Review+for+discrepancies+within+30+days+of+July+12th.+Source%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19f73d616a350017&location=&add=). 
+      PDF Help:  Account created on Jul 17th for [✉️&nbsp; sparkyflashrebob@gmail.com ](mailto:sparkyflashrebob@gmail.com). Credentials available in [🔗&nbsp; source email ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870989970735838801). 
+      PIXLR:  Subscription payment of $3.99 USD processed via PayPal (Visa Debit ending in 6681) on Jul 17th [🔗&nbsp; View receipt ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870991665329704702). 
+    
+ 
+
+ Enjoy your weekend! 
+
+
+
+
+
+  
+     
+     
+     
+       
+         
+       
+       
+         CC - Google Labs 
+         
+          [sparkyflashrebob+cc@gmail.com](mailto:sparkyflashrebob+cc@gmail.com)
+         
+       
+     
+   
+  
+   
+   
+     💬 What do you think about this email? 
+     
+      [ 👍 ](https://docs.google.com/forms/d/e/1FAIpQLSc1bdcDhGCWZQ131lTfvHGeyv76Zlcz6sXLV30gBtQbCzHyIQ/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8D+Useful)
+      [ 👎 ](https://docs.google.com/forms/d/e/1FAIpQLSc1bdcDhGCWZQ131lTfvHGeyv76Zlcz6sXLV30gBtQbCzHyIQ/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8E+Not+useful)
+     
+     
+      🔬 Want to help improve CC further? [Sign up for user research opportunities](https://forms.gle/mSZLnsScUpa9i42b7).
+     
+   
+  
+   
+   
+    CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact [labs-cc-support@google.com](mailto:labs-cc-support@google.com) or disconnect [here](https://myaccount.google.com/connections#:~:text=CC).  Known issue: 🔗 source links do not always work on mobile.
 
 ---
 

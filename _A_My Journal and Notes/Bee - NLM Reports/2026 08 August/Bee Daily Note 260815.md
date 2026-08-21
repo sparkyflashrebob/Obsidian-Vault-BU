@@ -39,12 +39,131 @@ tags:
 ---
 
 ## 🌅 Your Day Ahead Email Brief
-- **Subject**: `💌 Your Day Ahead 08/15/2026` (7:03 AM)
+- **Subject**: `💌 Your Day Ahead 08/15/2026`
 
-> ...
-> 
-> ---
-> CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact labs-cc-support@google.com or disconnect here: https://myaccount.google.com/connections#:~:text=CC
+...
+
+---
+CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact labs-cc-support@google.com or disconnect here: https://myaccount.google.com/connections#:~:text=CC
+ 
+ 👋 Happy Saturday, Andy! Here's your daily brief. 
+ ✉️ Reply for updates or corrections 
+
+ Top of mind 
+ 
+    5 min  A monthly insurance payment of $275.02 for Ronald McGuire is scheduled for automatic withdrawal today, Saturday August 15th, from the debit card ending in 6681 [🔗&nbsp; View billing info ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873434683643479102).
+   
+     Associated with State Farm Billing Account #1182-5264-02. 
+    
+    5 min  Verify your 'Send to Kindle' request for sparkyflashrebob@kindle.com. Amazon received this request on Friday, August 14th, and you must click the verification link within 48 hours to ensure delivery [🔗&nbsp; Verify request ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873536465563454309) [📅&nbsp; Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Reminder%3A+Kindle+Verification+Deadline&dates=20260816T100000%2F20260816T110000&ctz=America%2FLos_Angeles&details=Verify+your+%27Send+to+Kindle%27+request+for+sparkyflashrebob%40kindle.com.+Amazon+received+this+request+on+Friday%2C+August+14th.&location=Online&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com). 
+    15 min  Renew your Zoom paid subscription to prevent the permanent deletion of your Cloud Recordings on Saturday, August 22nd. The subscription expired on July 23rd [🔗&nbsp; Renew subscription ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871491449104332815) [📅&nbsp; Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Reminder%3A+Renew+Zoom+Subscription&dates=20260822T090000%2F20260822T100000&ctz=America%2FLos_Angeles&details=Renew+your+Zoom+paid+subscription+to+prevent+the+permanent+deletion+of+your+Cloud+Recordings.&location=Online&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com). 
+    15 min  View and reply to a new secure message from your Kaiser Permanente care team received on Friday, August 14th [🔗&nbsp; Kaiser Portal ](https://kp.org/newmessage). 
+   Today •  Arlo Valencia-McGuire's birthday  (All day) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=Y29xM2NjaG02b3BqZWJiMmNoaWpjYjlrNjRxM2liYjFja3FqMGJiNDY5aDY4cGI2NmdvNjhlMzU2OF8yMDI2MDgxNSBzcGFya3lmbGFzaHJlYm9iQG0&ctz=America/Los_Angeles). 
+   Today •  Raiders Training Camp  (All day) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=MTJrNHNnMXMyZ2VrcWthMnU3cmw3djE4N3Ygc3Bhcmt5Zmxhc2hyZWJvYkBt&ctz=America/Los_Angeles).
+   
+     Ongoing through Sunday, August 30th. 
+    
+   Today •  Abhayagiri Thanksgiving Retreat Announcement  (All day) [📅&nbsp; View details ](https://www.google.com/calendar/event?eid=Nm5kNWhoYWp1NTBobnZsbzBsYWUxNWVjNXMgc3Bhcmt5Zmxhc2hyZWJvYkBt&ctz=America/Los_Angeles).
+   
+     Registration for the retreat is now open. 
+    
+   Today • 9:30 AM •  Consider: Spirit Rock Poetry Day  (7h) at Spirit Rock Meditation Center, 5000 Sir Francis Drake Blvd, Woodacre, CA 94973 [🔗&nbsp; Register ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871544828640250331) [🔗&nbsp; Map ](https://www.google.com/maps/search/?api=1&query=5000+Sir+Francis+Drake+Blvd%2C+Woodacre%2C+CA+94973) [📅&nbsp; Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Spirit+Rock+Poetry+Day&dates=20260815T093000%2F20260815T163000&ctz=America%2FLos_Angeles&details=Theme%3A+%27The+Harshness+and+Softness+of+the+World%27%2C+led+by+Phillip+Moffitt.+Participants+will+read+selected+poems+to+each+other+as+part+of+the+meditation+practice.&location=5000+Sir+Francis+Drake+Blvd%2C+Woodacre%2C+CA+94973&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com).
+   
+     Theme: 'The Harshness and Softness of the World', led by Phillip Moffitt. Participants will read selected poems to each other as part of the meditation practice. 
+    
+   Today • 11:30 AM •  Living Transmission of Love from the Other Side  (1h 30m) Online via Zoom [🔗&nbsp; Join meeting ](https://app.acuityscheduling.com/schedule.php?owner=12569473&action=zoom&uniqueID=2c7d9813bd2115c2998d94866dc3e591&ownerID=12569473).
+   
+     Preparation: Create a quiet space with a blanket, pillow, and eye covering for the 30-minute meditation portion. 
+     Facilitated by Robin Aisha Landsong. Donations are welcome. 
+    
+   Today • 7:00 PM •  Saturday Night Puja  (2h) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=NjVpamNvcGc2Y3BqZWI5ZzcwcG1hYjlrNzRwajRiYjFjNWdtNDY5Z2NwaTYyZTMxY2NwNjJjMW1jZ18yMDI2MDgxNlQwMjAwMDBaIHNwYXJreWZsYXNocmVib2JAbQ&ctz=America/Los_Angeles). 
+   The second anniversary of #BeBraveDay is today, Saturday August 15th [🔗&nbsp; See details ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872424803496189828).
+   
+     Community groups organized by Visibility Brigade will converge on bridges and overpasses across the nation to show solidarity. 
+      Nearby action:  Bridge visibility at I-80 Richmond overpass [🔗&nbsp; Learn More ](https://indivisibleeb.org/event/be-brave-day-overpass-visibility-brigade-action-i-80-richmond/). 
+    
+   Updates on recent orders and payments from Friday, August 14th.
+   
+      Pacific Catch:  Payment of $65.02 processed for Order #199 at the Corte Madera location [🔗&nbsp; View receipt ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873553296574795778) [🔗&nbsp; Map ](https://www.google.com/maps/search/?api=1&query=Pacific+Catch%2C+Corte+Madera%2C+CA). 
+      Ugift 529:  A gift request is currently processing. Funds will post to the account within five business days once received [🔗&nbsp; Check status ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873532426100737689). 
+      Amazon:  Order #D01-0237656-2499411 placed for the Kindle edition of 'The Terrible Paradox of Self-Awareness' [🔗&nbsp; View order ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873569702348144897). 
+      MilitaryKart:  Order #50527 placed for a Solar-USB Dual Charger ($40.98), shipping to your Larkspur home [🔗&nbsp; View confirmation ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873551144265779223) [🔗&nbsp; Map ](https://www.google.com/maps/search/?api=1&query=326+Larkspur+Plaza+Dr%2C+Larkspur%2C+CA+94939). 
+    
+   Summary of research and articles shared on Friday, August 14th.
+   
+      Cat Behavior:  Research on cat play habits from The Conversation [🔗&nbsp; Read more ](https://share.google/wHGeg9K23DjEkhI7M). 
+      Stoicism:  A quote from Marcus Aurelius on the nature of loss and change [🔗&nbsp; View quote ](https://share.google/1mpE0qIYAwQsT4ll4). 
+      Waymo:  News regarding the approved expansion of Waymo services in the Bay Area [🔗&nbsp; Read news ](https://share.google/GWoApu6cssSx8L6sb). 
+      Robin Landsong Film:  The film 'A Return to Belonging: Veterans Healing Trauma through Singing Medicine' has been released [🔗&nbsp; Watch on YouTube ](https://www.youtube.com/watch?v=CU2QAuKxRro). 
+    
+ 
+
+ FYI 
+ 
+   Sun, Aug 16 •  Lanterns Premiere on HBO  (All day) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=NXJma2U4aXNmdmtmaWtpM2NuZWYzZzZxbnQgc3Bhcmt5Zmxhc2hyZWJvYkBt&ctz=America/Los_Angeles). 
+   Sun, Aug 16 • 9:30 AM •  930AM Meeting  (1h) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=YzhyajJvOWs2aGkzOGJiMWNvc21hYjlrNzFoNjhiOW82OHJtY2I5bDYwczM0ZDM0Y2dxajRvaGc2c18yMDI2MDgxNlQxNjMwMDBaIHNwYXJreWZsYXNocmVib2JAbQ&ctz=America/Los_Angeles). 
+   Sun, Aug 16 • 5:00 PM •  Living Mindfully Meditation Group Meeting  (1h 30m) [✨&nbsp; Join meeting ](https://meet.google.com/oxf-rdfm-kmn).
+   
+     Theme: Examining internal dialogue and how commentary on experience often serves as the root of suffering. Facilitated online via Google Meet. 
+    
+   Consider pre-ordering the Kindle release 'Still Ambitious' by Todd Perelmuter, available on Sun, Aug 16th for $0.99 [🔗&nbsp; View on Amazon ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873557889243684374) [📅&nbsp; Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Reminder%3A+Pre-order+%27Still+Ambitious%27&dates=20260816T110000%2F20260816T120000&ctz=America%2FLos_Angeles&details=Pre-order+the+Kindle+release+%27Still+Ambitious%27+by+Todd+Perelmuter%2C+available+for+%240.99.&location=Online&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com). 
+   Upcoming deadlines for the Spirit Rock Labor Day Insight Retreat (Sep 2-7).
+   
+      Wed, Aug 19:  Final deadline for any remaining unpaid balances [🔗&nbsp; View retreat info ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873365599884191342) [📅&nbsp; Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Reminder%3A+Spirit+Rock+Retreat+Balance+Due&dates=20260819T090000%2F20260819T100000&ctz=America%2FLos_Angeles&details=Final+deadline+for+any+remaining+unpaid+balances+for+the+Spirit+Rock+Labor+Day+Insight+Retreat.&location=Online&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com). 
+     Note: Your required questionnaire and headshot were successfully completed on August 6th. 
+    
+   Sat, Aug 22 • 5:00 PM •  First VQ Prep Meeting  (1h 30m) at the Larkspur Plaza home [✨&nbsp; Join online ](https://meet.google.com/nqh-jmxe-iev) [🔗&nbsp; Map ](https://www.google.com/maps/search/?api=1&query=326+Larkspur+Plaza+Dr%2C+Larkspur%2C+CA+94939).
+   
+     Organized by Andrea Axtell for retreat preparation. 
+    
+ 
+
+ CC Calendar Updates 
+ 
+   Updated:  Living Transmission of Love from the Other Side  — August 15, 2026 11:30am PT · [🔗&nbsp; Source email ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873548266048147672) · [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=b3VoMWZxYm5rdDdsYmxqOWMyODBramgyM28gOWNlMWM5MDAyM2U4ZjI5MmZjMTEwNzRlNzZkOTQ3MWYzZmJlOWQxNDVjYjk0OWQ4MDY0NWM2ZDYwZjBlOGQyNUBn)
+   
+     New location: Online via Zoom 
+     Event details updated 
+    
+ 
+
+ Have a wonderful day! 
+
+
+
+
+
+  
+     
+     
+     
+       
+         
+       
+       
+         CC - Google Labs 
+         
+          [sparkyflashrebob+cc@gmail.com](mailto:sparkyflashrebob+cc@gmail.com)
+         
+       
+     
+   
+  
+   
+   
+     💬 What do you think about this email? 
+     
+      [ 👍 ](https://docs.google.com/forms/d/e/1FAIpQLSfGPGkFp-YwBA_vcSLpUqSo9glbxn-0rKy8i3O2hUhl9IS_Xg/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8D+Useful)
+      [ 👎 ](https://docs.google.com/forms/d/e/1FAIpQLSfGPGkFp-YwBA_vcSLpUqSo9glbxn-0rKy8i3O2hUhl9IS_Xg/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8E+Not+useful)
+     
+     
+      🔬 Want to help improve CC further? [Sign up for user research opportunities](https://forms.gle/mSZLnsScUpa9i42b7).
+     
+   
+  
+   
+   
+    CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact [labs-cc-support@google.com](mailto:labs-cc-support@google.com) or disconnect [here](https://myaccount.google.com/connections#:~:text=CC).  Known issue: 🔗 source links do not always work on mobile.
 
 ---
 

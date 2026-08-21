@@ -49,12 +49,92 @@ tags:
 ---
 
 ## 🌅 Your Day Ahead Email Brief
-- **Subject**: `💌 Your Day Ahead 08/05/2026` (7:00 AM)
+- **Subject**: `💌 Your Day Ahead 08/05/2026`
 
-> ...
-> 
-> ---
-> CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact labs-cc-support@google.com or disconnect here: https://myaccount.google.com/connections#:~:text=CC
+...
+
+---
+CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact labs-cc-support@google.com or disconnect here: https://myaccount.google.com/connections#:~:text=CC
+ 
+ 👋 Happy Wednesday, Andy! Here's your daily brief. 
+ ✉️ Reply for updates or corrections 
+
+ Top of mind 
+ 
+   Today •  Raiders Training Camp  (All day) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=MTJrNHNnMXMyZ2VrcWthMnU3cmw3djE4N3Ygc3Bhcmt5Zmxhc2hyZWJvYkBt&ctz=America/Los_Angeles). 
+   Today • 7:00 AM •  Morning Practice Zoom w/ Ed Brown  (1h 15m) [✨&nbsp; Join Zoom ](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=M3Z1bW84dnE4aHVwdnYwMWwxN2Eyc2FrM2tfMjAyNjA4MDVUMTQwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0&ctz=America/Los_Angeles).
+   
+     Schedule: 7:00 free writing, 7:15 brief talk, 7:30 sitting, 7:55 visiting. Password: beyond. 
+    
+    1 hr  Consider joining the Fidelity educational webinar 'Understanding managed futures' at 9:00 AM PDT (Noon ET) [🔗&nbsp; Register ](https://Fidelity.com/webinars) [📅&nbsp; Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fidelity+Webinar%3A+Understanding+managed+futures&dates=20260805T090000%2F20260805T100000&ctz=America%2FLos_Angeles&details=Educational+webinar+on+managed+futures.&location=https%3A%2F%2FFidelity.com%2Fwebinars&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com). 
+   Today • 10:15 AM •  Meet Aunt Melissa at De Young Museum  (1h) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=Y2NwbWNvcGo2aGkzZWJiM2NrcDM0YjlrNjRzbTZiOW82a29qY2I5ZzY0b20yZTM2NnNwamdjOW82byBzcGFya3lmbGFzaHJlYm9iQG0&ctz=America/Los_Angeles) [🔗&nbsp; Map ](https://www.google.com/maps/search/?api=1&query=De+Young+Museum%2C+San+Francisco%2C+CA). 
+    2 hr  Consider attending the CLARA De-Escalation Training with Mel Duncan from 2:00 PM to 4:00 PM PDT (4:00 PM - 6:00 PM CDT) [✨&nbsp; Register ](https://us02web.zoom.us/meeting/register/zbNQm2ggQeqZha9Wnc1vwg#/registration) [📅&nbsp; Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=CLARA+De-Escalation+Training&dates=20260805T140000%2F20260805T160000&ctz=America%2FLos_Angeles&details=Interactive+session+hosted+by+the+Metta+Center+for+Nonviolence+focuses+on+conflict+resolution+and+relationship-building.&location=https%3A%2F%2Fus02web.zoom.us%2Fmeeting%2Fregister%2FzbNQm2ggQeqZha9Wnc1vwg%23%2Fregistration&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com).
+   
+     This interactive session hosted by the Metta Center for Nonviolence focuses on conflict resolution and relationship-building. 
+     Note: This session overlaps with your scheduled class and Tai Chi. 
+    
+   Today • 2:10 PM •  Go to class  (20m) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=N2QwanA1NG5iMTkzMDdvMDluanYycTdubmNfMjAyNjA4MDVUMjExMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0&ctz=America/Los_Angeles). 
+   Today • 2:30 PM •  Tai Chi  (1h) at Corte Madera Community Center, 498 Tamalpais Dr, Corte Madera, CA 94925 [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=NzZpdXJnaXY2MWM4bGo4aGNjMm9vYmVhM2ZfMjAyNjA4MDVUMjEzMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0&ctz=America/Los_Angeles) [🔗&nbsp; Directions ](https://www.google.com/maps/search/?api=1&query=498+Tamalpais+Dr%2C+Corte+Madera%2C+CA+94925). 
+ 
+
+ FYI 
+ 
+   Thu, Aug 6 • 7:00 AM •  Morning Practice Zoom w/ Ed Brown  (1h 15m) [✨&nbsp; Join Zoom ](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=M3Z1bW84dnE4aHVwdnYwMWwxN2Eyc2FrM2tfMjAyNjA4MDZUMTQwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0&ctz=America/Los_Angeles). 
+   Thu, Aug 6 • 11:00 AM •  Fidelity Webinar: In the Money (Options trading)  (1h) [🔗&nbsp; Register ](https://Fidelity.com/webinars) [📅&nbsp; Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fidelity+Webinar%3A+In+the+Money+%28Options+trading%29&dates=20260806T110000%2F20260806T120000&ctz=America%2FLos_Angeles&details=Educational+webinar+on+options+trading.&location=https%3A%2F%2FFidelity.com%2Fwebinars&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com). 
+   Your Amazon order for Gold Bond Medicated Body Powder is delayed [🔗&nbsp; View order ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872441285405707376).
+   
+     New Estimated Arrival: Sat, Aug 8 to Thu, Aug 13 [📅&nbsp; Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Check+Amazon+delivery+%28Gold+Bond%29&dates=20260808T090000%2F20260808T093000&ctz=America%2FLos_Angeles&details=Check+for+delayed+Amazon+order+arrival.&location=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19fc3f6daf620c70&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com). 
+    
+   Several Fidelity educational webinars are scheduled for next week [🔗&nbsp; Register ](https://Fidelity.com/webinars).
+   
+      Tue, Aug 11 (9:00 AM PDT):  Should I buy crypto right now? [📅&nbsp; Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fidelity+Webinar%3A+Should+I+buy+crypto+right+now%3F&dates=20260811T090000%2F20260811T100000&ctz=America%2FLos_Angeles&details=Educational+webinar+on+crypto.&location=https%3A%2F%2FFidelity.com%2Fwebinars&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com) 
+      Wed, Aug 12 (11:00 AM PDT):  All about the Roth IRA [📅&nbsp; Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fidelity+Webinar%3A+All+about+the+Roth+IRA&dates=20260812T110000%2F20260812T120000&ctz=America%2FLos_Angeles&details=Educational+webinar+on+Roth+IRAs.&location=https%3A%2F%2FFidelity.com%2Fwebinars&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com) 
+      Thu, Aug 13 (9:00 AM PDT):  Health care costs in retirement [📅&nbsp; Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fidelity+Webinar%3A+Health+care+costs+in+retirement&dates=20260813T090000%2F20260813T100000&ctz=America%2FLos_Angeles&details=Educational+webinar+on+health+care+costs.&location=https%3A%2F%2FFidelity.com%2Fwebinars&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com) 
+    
+ 
+
+ CC Calendar Updates 
+ 
+   New:  King Tides  — August 9, 2026 - August 13, 2026 · [🔗&nbsp; Source email ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872619839261915357) · [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=aXI3N2I5NDBmam5xbzdxN2YzZW82cGU3M28gOWNlMWM5MDAyM2U4ZjI5MmZjMTEwNzRlNzZkOTQ3MWYzZmJlOWQxNDVjYjk0OWQ4MDY0NWM2ZDYwZjBlOGQyNUBn) 
+ 
+
+ Have a wonderful day! 
+
+
+
+
+
+  
+     
+     
+     
+       
+         
+       
+       
+         CC - Google Labs 
+         
+          [sparkyflashrebob+cc@gmail.com](mailto:sparkyflashrebob+cc@gmail.com)
+         
+       
+     
+   
+  
+   
+   
+     💬 What do you think about this email? 
+     
+      [ 👍 ](https://docs.google.com/forms/d/e/1FAIpQLSfGPGkFp-YwBA_vcSLpUqSo9glbxn-0rKy8i3O2hUhl9IS_Xg/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8D+Useful)
+      [ 👎 ](https://docs.google.com/forms/d/e/1FAIpQLSfGPGkFp-YwBA_vcSLpUqSo9glbxn-0rKy8i3O2hUhl9IS_Xg/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8E+Not+useful)
+     
+     
+      🔬 Want to help improve CC further? [Sign up for user research opportunities](https://forms.gle/mSZLnsScUpa9i42b7).
+     
+   
+  
+   
+   
+    CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact [labs-cc-support@google.com](mailto:labs-cc-support@google.com) or disconnect [here](https://myaccount.google.com/connections#:~:text=CC).  Known issue: 🔗 source links do not always work on mobile.
 
 ---
 

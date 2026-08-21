@@ -44,12 +44,124 @@ tags:
 ---
 
 ## 🌅 Your Day Ahead Email Brief
-- **Subject**: `💌 Your Day Ahead 08/02/2026` (7:00 AM)
+- **Subject**: `💌 Your Day Ahead 08/02/2026`
 
-> ...
-> 
-> ---
-> CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact labs-cc-support@google.com or disconnect here: https://myaccount.google.com/connections#:~:text=CC
+...
+
+---
+CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact labs-cc-support@google.com or disconnect here: https://myaccount.google.com/connections#:~:text=CC
+ 
+ 👋 Happy Sunday, Andy! Here's your daily brief. 
+ ✉️ Reply for updates or corrections 
+
+ Top of mind 
+ 
+    5 min  Download your Krisp meeting data export before the link expires today, Sunday, August 2nd [🔗&nbsp; View email ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871831495691559380) [📅&nbsp; Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Reminder%3A+Download+Krisp+meeting+data&dates=20260802T090000%2F20260802T091500&ctz=America%2FLos_Angeles&details=Link+expires+today.+View+email%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19fa14d3f41561d4&location=&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com).
+   
+     The file 'Krisp_meetings_2026-07-27_02-00-11-499.zip' was exported on July 26th. 
+    
+    5 min  Consider attending the Marin Sangha Sunday program with guest teacher Donald Rothberg today, Sunday, August 2nd (6:00 PM – 7:30 PM) [🔗&nbsp; View details ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871524457693539140) [🔗&nbsp; Add Event ](https://marinsangha.org/schedule).
+   
+     Visit [🔗&nbsp; Marin Sangha ](http://www.MarinSangha.org) for the program schedule and join links. 
+    
+   Today • All Day •  Raiders Training Camp  [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=MTJrNHNnMXMyZ2VrcWthMnU3cmw3djE4N3Ygc3Bhcmt5Zmxhc2hyZWJvYkBt). 
+   Today • 7:00 AM •  Morning Practice Zoom w/ Ed Brown  (1h 15m) via [✨&nbsp; Zoom ](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09) (Password: beyond) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=M3Z1bW84dnE4aHVwdnYwMWwxN2Eyc2FrM2tfMjAyNjA4MDJUMTQwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0).
+   
+     Sunday Schedule: 7:00 sitting, 7:10 lecture, 7:55 visiting. 
+    
+   Today • 9:30 AM •  930AM Meeting  (1h) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=YzhyajJvOWs2aGkzOGJiMWNvc21hYjlrNzFoNjhiOW82OHJtY2I5bDYwczM0ZDM0Y2dxajRvaGc2c18yMDI2MDgwMlQxNjMwMDBaIHNwYXJreWZsYXNocmVib2JAbQ). 
+   Today • 5:00 PM •  Living Mindfully Meditation Group  (1h 30m) via [✨&nbsp; Google Meet ](https://meet.google.com/dhf-mnbc-qkn) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=cTZtMnZzb2UwaDNoY2wza2R0czQ3cW5scmxfMjAyNjA4MDNUMDAwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0).
+   
+     Focus: 'Finding Stability' through daily life practice. 
+     Teachings: Ajahn Chah's insights on ending suffering and the scriptural story of the 'dog-duty and ox-duty ascetics' regarding meditation without wisdom [🔗&nbsp; View details ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872161325332248676). 
+    
+   Your Amazon order for a wireless accessory is estimated to arrive today, Sunday, August 2nd [🔗&nbsp; View order ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872338502110710459) [🔗&nbsp; Map ](https://www.google.com/maps/search/?api=1&query=Larkspur%2C+CA) [📅&nbsp; Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Delivery%3A+Amazon+wireless+accessory&dates=20260802T100000%2F20260802T101500&ctz=America%2FLos_Angeles&details=Order+%23111-3662877-3606618.+View+order%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19fbe1f295988abb&location=Larkspur%2C+CA&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com).
+   
+     Order #111-3662877-3606618 was shipped yesterday for a total of $24.02. 
+    
+   You performed several account updates and security changes yesterday, Saturday, August 1st.
+   
+      Passwords Changed:  Successfully updated passwords for UCSF MyChart, USPS, Etsy, iHerb, Safeway, iLok, Plugin Alliance, and The Great Courses [🔗&nbsp; View USPS update ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872385336710348990). 
+      FedEx Security:  Enabled 2FA and location restrictions on your account [🔗&nbsp; View security ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872383023838466561). 
+      Registrations:  Successfully joined the CityDirect Network and verified your email [🔗&nbsp; View welcome ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872384841755978269). 
+      Websites:  Search traffic monitoring is now active for both [🔗&nbsp; Dragonfly Lodge ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872387435730453298) and [🔗&nbsp; Head & Heart Together ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872381921031618197). 
+    
+ 
+
+ FYI 
+ 
+   Mon, Aug 3 • All Day •  Lisa Marie Harris died  [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=Y2hpM2ljajE2NHIzNGJiMTYwcjMyYjlrNjhxamNiYjI3MHMzMmJiNTZzcmoyZDlpNjhzMzRjcG43NF8yMDI2MDgwMyBzcGFya3lmbGFzaHJlYm9iQG0). 
+   Mon, Aug 3 • 7:00 AM •  Morning Practice Zoom w/ Ed Brown  (1h 15m) via [✨&nbsp; Zoom ](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=M3Z1bW84dnE4aHVwdnYwMWwxN2Eyc2FrM2tfMjAyNjA4MDNUMTQwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0).
+   
+     Monday Schedule: 7:00 free writing, 7:15 brief talk, 7:30 sitting, 7:55 visiting. 
+    
+   Your Amazon order for a skincare item is estimated to arrive by Mon, Aug 3 [🔗&nbsp; View order ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871375578408725412) [📅&nbsp; Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Delivery%3A+Amazon+skincare+item&dates=20260803T100000%2F20260803T101500&ctz=America%2FLos_Angeles&details=Order+%23112-1564847-9504205.+View+order%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19f8762c7064aba4&location=Larkspur%2C+CA&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com).
+   
+     Order #112-1564847-9504205 was placed on July 21st for $8.71. 
+    
+   Mon, Aug 3 • 6:30 PM •  Audel & Andy SDRT  (1h) with Audel Salazar via [✨&nbsp; Google Meet ](https://meet.google.com/ytq-jeoq-umi) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=aGNhZ3A5cHIyZGZhZjlrNGl2cXU5cDhyajZfMjAyNjA4MDRUMDEzMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0). 
+   Sat, Aug 8 • 5:00 PM •  Zen Life Creative Residency Offering  (1h 30m) featuring hybrid Dharma offerings [🔗&nbsp; View details ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1869723673252275664) [📅&nbsp; Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Zen+Life+Creative+Residency+Offering&dates=20260808T170000%2F20260808T183000&ctz=America%2FLos_Angeles&details=Hybrid+Dharma+offerings.+View+details%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19f297c64c5725d0&location=Zen+Life+%26+Meditation+Center+%2F+Zoom&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com).
+   
+     This is a hybrid event available at the Zen Life & Meditation Center and via Zoom. 
+    
+   Sun, Aug 9 • 8:00 AM •  Sunday Morning Zen  (1h) hosted by Zen Life & Meditation Center [🔗&nbsp; View details ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1869723673252275664) [📅&nbsp; Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sunday+Morning+Zen&dates=20260809T080000%2F20260809T090000&ctz=America%2FLos_Angeles&details=Free+program+exploring+Buddha+Dharma.+View+details%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19f297c64c5725d0&location=Zen+Life+%26+Meditation+Center&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com).
+   
+     This is a free program exploring Buddha Dharma through movement and expression. 
+    
+   Your T-Mobile bill for August is ready, with autopay scheduled for Wed, Aug 19 [🔗&nbsp; View bill ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872363421720905066) [📅&nbsp; Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Reminder%3A+T-Mobile+Autopay&dates=20260819T090000%2F20260819T091500&ctz=America%2FLos_Angeles&details=Total%3A+%2471.93.+View+bill%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19fbf89ca21c056a&location=&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com).
+   
+     The total of $71.93 for the account ending in 0801 will be charged to your Visa ending in 6681. 
+    
+   Summary of recent financial and subscription updates.
+   
+      Quicken:  Your August spending plan shows expected income of $2,250.00 against expected bills of $3,310.90 [🔗&nbsp; View plan ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872379927092854249). 
+      Apple TV:  A monthly payment of $12.99 was processed on August 1st; the subscription renews on September 1st [🔗&nbsp; View receipt ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872346519439589275). 
+      Amazon:  You purchased the movie 'In The Grey' ($5.99) and a guided imagery book on August 1st [🔗&nbsp; View movie order ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872373277972441178). 
+    
+ 
+
+ CC Calendar Updates 
+ 
+   Checked yesterday's emails for schedule changes. None detected. 
+ 
+
+ Enjoy your Sunday! 
+
+
+
+
+
+  
+     
+     
+     
+       
+         
+       
+       
+         CC - Google Labs 
+         
+          [sparkyflashrebob+cc@gmail.com](mailto:sparkyflashrebob+cc@gmail.com)
+         
+       
+     
+   
+  
+   
+   
+     💬 What do you think about this email? 
+     
+      [ 👍 ](https://docs.google.com/forms/d/e/1FAIpQLSfGPGkFp-YwBA_vcSLpUqSo9glbxn-0rKy8i3O2hUhl9IS_Xg/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8D+Useful)
+      [ 👎 ](https://docs.google.com/forms/d/e/1FAIpQLSfGPGkFp-YwBA_vcSLpUqSo9glbxn-0rKy8i3O2hUhl9IS_Xg/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8E+Not+useful)
+     
+     
+      🔬 Want to help improve CC further? [Sign up for user research opportunities](https://forms.gle/mSZLnsScUpa9i42b7).
+     
+   
+  
+   
+   
+    CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact [labs-cc-support@google.com](mailto:labs-cc-support@google.com) or disconnect [here](https://myaccount.google.com/connections#:~:text=CC).  Known issue: 🔗 source links do not always work on mobile.
 
 ---
 

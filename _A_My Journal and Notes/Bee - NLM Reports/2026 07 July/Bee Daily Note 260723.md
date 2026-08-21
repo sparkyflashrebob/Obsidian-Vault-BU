@@ -52,12 +52,106 @@ tags:
 ---
 
 ## 🌅 Your Day Ahead Email Brief
-- **Subject**: `💌 Your Day Ahead 07/23/2026` (7:02 AM)
+- **Subject**: `💌 Your Day Ahead 07/23/2026`
 
-> ...
-> 
-> ---
-> CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact labs-cc-support@google.com or disconnect here: https://myaccount.google.com/connections#:~:text=CC
+...
+
+---
+CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact labs-cc-support@google.com or disconnect here: https://myaccount.google.com/connections#:~:text=CC
+ 
+ 👋 Happy Thursday, Andy! Here's your daily brief. 
+ ✉️ Reply for updates or corrections 
+
+ Top of mind 
+ 
+    5 min  Review your 2026 BankAmericard Rewards mid-year summary, which became available yesterday, Jul 22 [🔗&nbsp; View summary ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871480870349884529) [📅&nbsp; Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Review+BankAmericard+Rewards+summary&dates=20260723T090000%2F20260723T090500&ctz=America%2FLos_Angeles&details=Review+mid-year+summary%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19f8d5efa124cc71&location=&add=). 
+   Your Amazon account shows several updates from yesterday, Jul 22 [🔗&nbsp; View orders ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871447945446546047).
+   
+      Delivered:  Bedding, drugstore items, lighting, and fans were left near your front door in Larkspur. 
+      Purchased:  Kindle editions of 'Devotions' and 'Dog Songs' by Mary Oliver, and 'The Poetry of Impermanence, Mindfulness, and Joy' [🔗&nbsp; View order ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871466058874638228). 
+    
+   Today • 7:00 AM •  Morning Practice Zoom w/ Ed Brown  (1h 15m) [✨&nbsp; Join Zoom ](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09) [📅&nbsp; View Event ](https://www.google.com/calendar/event?eid=M3Z1bW84dnE4aHVwdnYwMWwxN2Eyc2FrM2tfMjAyNjA3MjNUMTQwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0).
+   
+     Password: beyond. Schedule includes free writing, a brief talk, and sitting. 
+    
+   Today •  William (Sean) Teters (1948)  (All day) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=MGptbG9sNGtzbTVnOGZnbDlncmQzanBrZzhfMjAyNjA3MjMgc3Bhcmt5Zmxhc2hyZWJvYkBt). 
+   Today •  Sam Shiver's birthday  (All day) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=aWFhM2JpaGQ5ZDgwcDQ3NWxlbGZwb3YxNmdfMjAyNjA3MjMgc3Bhcmt5Zmxhc2hyZWJvYkBt). 
+   Today •  Raiders Training Camp  (All day) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=MTJrNHNnMXMyZ2VrcWthMnU3cmw3djE4N3Ygc3Bhcmt5Zmxhc2hyZWJvYkBt).
+   
+     Training camp runs through Sun, Aug 30. 
+    
+   Today • 5:00 PM •  Living Mindfully Meditation  (1h) [✨&nbsp; Join Meet ](https://meet.google.com/dhf-mnbc-qkn) [📅&nbsp; Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Living+Mindfully+Meditation&dates=20260723T170000%2F20260723T180000&ctz=America%2FLos_Angeles&details=Weekly+group+meditation+and+council+meeting+facilitated+by+you.+Join+Meet%3A+https%3A%2F%2Fmeet.google.com%2Fdhf-mnbc-qkn&location=&add=).
+   
+     Weekly group meditation and council meeting facilitated by you. 
+    
+ 
+
+ FYI 
+ 
+    5 min  Download your exported Krisp meeting data before the link expires on Sun, Jul 26 [🔗&nbsp; Download zip ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871203371556748382) [📅&nbsp; Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Download+Krisp+meeting+data&dates=20260725T100000%2F20260725T100500&ctz=America%2FLos_Angeles&details=Download+before+link+expires%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19f7d98d68273c5e&location=&add=). 
+   Sun, Jul 26 • 8:00 AM •  Pariyatti Presents: Beyond Day Ten  (Virtual) [✨&nbsp; Join Zoom ](https://us06web.zoom.us/w/86826085307?tk=1hvks2sXUxMTYYwlA325NB6YhFl0NmGEhOSZaXDzJuk.DQkAAAAUNzzruxZ5RU82elFkTlJrV0gzSjdPVjU5V2FnAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&pwd=ge95vv1mJQXQ2YD0lLerdUNzhBJ4af.1) [📅&nbsp; View Event ](https://www.google.com/calendar/event?eid=MjB1M2RxZHEyZ3ZnbXZxOGlxNm5iNzZhcGggc3Bhcmt5Zmxhc2hyZWJvYkBt).
+   
+     Virtual session with Cori Bilyayev. Meeting ID: 868 2608 5307, Passcode: books. 
+    
+   Consider attending the Corte Madera Summer Concert on Sun, Jul 26 at 5:00 PM [🔗&nbsp; View details ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870918013705802430) [📅&nbsp; Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Corte+Madera+Summer+Concert%3A+lucky+break&dates=20260726T170000%2F20260726T190000&ctz=America%2FLos_Angeles&details=Corte+Madera+Town+Park%2C+498+Tamalpais+Dr%2C+Corte+Madera%2C+CA+94925.+Details%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19f6d6055ad052be&location=498+Tamalpais+Dr%2C+Corte+Madera%2C+CA+94925&add=).
+   
+      lucky break:  Performing at Corte Madera Town Park, 498 Tamalpais Dr, Corte Madera, CA 94925 [🔗&nbsp; Map ](https://www.google.com/maps/search/?api=1&query=498+Tamalpais+Dr%2C+Corte+Madera%2C+CA+94925). 
+      Suggestion:  lucky break is a 24-year-old SF-based indie rock artist [🔗&nbsp; Learn More ](https://marinarts.org/event/lucky-break-at-corte-madera-summer-concerts/). 
+    
+   Your Amazon skincare order is estimated to arrive between Tue, Jul 28 and Mon, Aug 3 [🔗&nbsp; View order ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871375578408725412) [📅&nbsp; Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Check+Amazon+skincare+delivery&dates=20260728T090000%2F20260728T090500&ctz=America%2FLos_Angeles&details=Estimated+arrival+window+starts+today.+Order%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19f8762c7064aba4&location=&add=). 
+   Consider attending upcoming community events in August [🔗&nbsp; View info ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871454108146866759).
+   
+      National Night Out:  Tue, Aug 4 at 5:30 PM at the Central Marin Police Station, 250 Doherty Drive, Larkspur [🔗&nbsp; Map ](https://www.google.com/maps/search/?api=1&query=250+Doherty+Drive%2C+Larkspur%2C+CA+94939) [📅&nbsp; Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=National+Night+Out&dates=20260804T173000%2F20260804T193000&ctz=America%2FLos_Angeles&details=Central+Marin+Police+Station%2C+250+Doherty+Drive%2C+Larkspur.+Info%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19f8bd98918a1a47&location=250+Doherty+Drive%2C+Larkspur%2C+CA+94939&add=). 
+      First Responder Night:  Fri, Aug 7 at 6:00 PM at Live on the Avenue in San Anselmo [🔗&nbsp; Map ](https://www.google.com/maps/search/?api=1&query=San+Anselmo%2C+CA) [📅&nbsp; Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=First+Responder+Night&dates=20260807T180000%2F20260807T200000&ctz=America%2FLos_Angeles&details=Live+on+the+Avenue+in+San+Anselmo.+Info%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19f8bd98918a1a47&location=San+Anselmo%2C+CA&add=). 
+    
+   Consider attending Bach's St. Matthew Passion on Mon, Aug 24 from 5:30 PM to 7:30 PM [🔗&nbsp; View invitation ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871480941481806491) [📅&nbsp; Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bach%27s+St.+Matthew+Passion&dates=20260824T173000%2F20260824T193000&ctz=America%2FLos_Angeles&details=Performance+and+discussion+at+Dolby+Laboratories%2C+San+Francisco.+Invitation%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19f8d60030efca9b&location=Dolby+Laboratories%2C+San+Francisco%2C+CA&add=).
+   
+     Performance and discussion at Dolby Laboratories, San Francisco [🔗&nbsp; Map ](https://www.google.com/maps/search/?api=1&query=Dolby+Laboratories%2C+San+Francisco%2C+CA). 
+    
+ 
+
+ CC Calendar Updates 
+ 
+   Checked yesterday's emails for schedule changes. None detected. 
+ 
+
+ Have a wonderful day! 
+
+
+
+
+
+  
+     
+     
+     
+       
+         
+       
+       
+         CC - Google Labs 
+         
+          [sparkyflashrebob+cc@gmail.com](mailto:sparkyflashrebob+cc@gmail.com)
+         
+       
+     
+   
+  
+   
+   
+     💬 What do you think about this email? 
+     
+      [ 👍 ](https://docs.google.com/forms/d/e/1FAIpQLSfGPGkFp-YwBA_vcSLpUqSo9glbxn-0rKy8i3O2hUhl9IS_Xg/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8D+Useful)
+      [ 👎 ](https://docs.google.com/forms/d/e/1FAIpQLSfGPGkFp-YwBA_vcSLpUqSo9glbxn-0rKy8i3O2hUhl9IS_Xg/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8E+Not+useful)
+     
+     
+      🔬 Want to help improve CC further? [Sign up for user research opportunities](https://forms.gle/mSZLnsScUpa9i42b7).
+     
+   
+  
+   
+   
+    CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact [labs-cc-support@google.com](mailto:labs-cc-support@google.com) or disconnect [here](https://myaccount.google.com/connections#:~:text=CC).  Known issue: 🔗 source links do not always work on mobile.
 
 ---
 

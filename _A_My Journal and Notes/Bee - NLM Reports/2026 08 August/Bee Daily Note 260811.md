@@ -41,12 +41,119 @@ tags:
 ---
 
 ## 🌅 Your Day Ahead Email Brief
-- **Subject**: `💌 Your Day Ahead 08/11/2026` (7:03 AM)
+- **Subject**: `💌 Your Day Ahead 08/11/2026`
 
-> ...
-> 
-> ---
-> CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact labs-cc-support@google.com or disconnect here: https://myaccount.google.com/connections#:~:text=CC
+...
+
+---
+CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact labs-cc-support@google.com or disconnect here: https://myaccount.google.com/connections#:~:text=CC
+ 
+ 👋 Enjoy your Tuesday, Andy! Here's your daily brief. 
+ ✉️ Reply for updates or corrections 
+
+ Top of mind 
+ 
+    5 min  Consider registering for the Fidelity webinar 'Should I buy crypto right now?' starting at 9:00 AM PT (Noon ET) [🔗&nbsp; Register here ](https://Fidelity.com/webinars) [🔗&nbsp; View details ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872515490013115004) [📅&nbsp; Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fidelity+Webinar%3A+Should+I+buy+crypto+right+now%3F&dates=20260811T090000%2F20260811T100000&ctz=America%2FLos_Angeles&details=Register+at+https%3A%2F%2FFidelity.com%2Fwebinars.+Part+of+the+Fidelity+Educational+Events+series+regarding+market+charts+and+fundamentals.&location=Online&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com).
+   
+     This is part of the Fidelity Educational Events series regarding market charts and fundamentals. 
+    
+   Today • 7:00 AM •  Morning Practice Zoom w/ Ed Brown  (1h 15m) [✨&nbsp; Join Zoom ](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09) [📅&nbsp; View Event ](https://www.google.com/calendar/event?eid=M3Z1bW84dnE4aHVwdnYwMWwxN2Eyc2FrM2tfMjAyNjA4MTFUMTQwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0&ctz=America/Los_Angeles).
+   
+     Use password  beyond  to enter. 
+     Daily schedule: 7:00 free writing, 7:15 brief talk, 7:30 sitting, 7:55 visiting. 
+    
+   Today • 11:00 AM •  MINDFULNESS MEDITATION CLUB (Novato Campus)  (1.5h) at Rm 11, Elizabeth Deedy Hall, College of Marin, 835 College Ave, Kentfield, CA [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=MTJkNG03cm9mcm1wdG81YmVuNWo0bm0wOHZfMjAyNjA4MTFUMTgwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0&ctz=America/Los_Angeles) [🔗&nbsp; Directions ](https://www.google.com/maps/search/?api=1&query=835+College+Ave%2C+Kentfield%2C+CA).
+   
+     Parking is $4 in lots P1, P6, P7, or P9. Use the [🔗&nbsp; online system ](https://marin.thepermitstore.com/purchase.php) or lot kiosks. 
+     Cross the pedestrian bridge at the north end of P6. Deedy Hall is ahead on the left; the ESCOM Center (SS 11) is on the lower level between the cafeteria and the John Lennon mural. 
+      Suggestion:  Post-practice coffee nearby at [🔗&nbsp; Pink Owl Coffee ](https://pinkowlcoffee.com/) or [🔗&nbsp; Half Day Cafe ](https://www.halfdaycafe.net/). 
+    
+   Today • 11:28 PM •  ⚠️ High Tide Alert (>6.5') - Corte Madera Creek  (30m) [📅&nbsp; View details ](https://www.google.com/calendar/event?eid=ZTR0M3Rlc2lwNzU4bGZsMDNwMHVjdGE1bGcgc3Bhcmt5Zmxhc2hyZWJvYkBt&ctz=America/Los_Angeles).
+   
+     Predicted Peak: 6.726 feet at Station 9414874. 
+    
+   Ongoing all-day events for today, Tuesday, Aug 11.
+   
+      Raiders Training Camp:  Through Aug 30. [📅&nbsp; View ](https://www.google.com/calendar/event?eid=MTJrNHNnMXMyZ2VrcWthMnU3cmw3djE4N3Ygc3Bhcmt5Zmxhc2hyZWJvYkBt&ctz=America/Los_Angeles) 
+      King Tides:  Through Aug 13. [📅&nbsp; View ](https://www.google.com/calendar/event?eid=NnNvajBlOW02a3NtYWJiMjZvcWphYjlrNzByNmFiOXBjOWk2YWI5bjY5Z2ppY3BpY3BpMzJwMWljOCBzcGFya3lmbGFzaHJlYm9iQG0&ctz=America/Los_Angeles) 
+    
+ 
+
+ FYI 
+ 
+   Wed, Aug 12 • 1:00 AM •  2026 Perseid meteor shower  (4h) [📅&nbsp; View ](https://www.google.com/calendar/event?eid=NWM3dWlhZzVqaWljOWtxNWZyM3NpZTBsbDMgc3Bhcmt5Zmxhc2hyZWJvYkBt&ctz=America/Los_Angeles).
+   
+      Suggestion:  Best local viewing spots include [🔗&nbsp; Mount Tam ](https://www.reddit.com/r/Marin/comments/1mooa91/best_place_to_view_perseid_meteor_shower_in_marin/), Point Reyes, or Mendocino Magic. 
+    
+   Wed, Aug 12 • 5:21 AM •  Planetary Alignment Best  (30m) [📅&nbsp; View ](https://www.google.com/calendar/event?eid=M3JqcmQ4bXJndmpsbmNtdHA2aW01ZnMxZmQgc3Bhcmt5Zmxhc2hyZWJvYkBt&ctz=America/Los_Angeles). 
+   Wed, Aug 12 • 7:00 AM •  Morning Practice Zoom w/ Ed Brown  (1h 15m) [✨&nbsp; Join Zoom ](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09). 
+   Wed, Aug 12 • 11:00 AM •  Fidelity Webinar: All about the Roth IRA  (1h) [🔗&nbsp; Register ](https://Fidelity.com/webinars) [🔗&nbsp; Source ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872515490013115004) [📅&nbsp; Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fidelity+Webinar%3A+All+about+the+Roth+IRA&dates=20260812T110000%2F20260812T120000&ctz=America%2FLos_Angeles&details=Register+at+https%3A%2F%2FFidelity.com%2Fwebinars.+Source%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19fc82eacaa5f27c&location=Online&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com).
+   
+     Scheduled for 2:00 PM ET. 
+    
+   Wed, Aug 12 • 2:10 PM •  Go to class  (20m) [📅&nbsp; View ](https://www.google.com/calendar/event?eid=N7QwanA1NG5iMTkzMDdvMDluanYycTdubmNfMjAyNjA4MTJUMjExMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0&ctz=America/Los_Angeles). 
+   Wed, Aug 12 • 2:30 PM •  Tai Chi  (1h) at Corte Madera Community Center, 498 Tamalpais Dr, Corte Madera, CA 94925 [📅&nbsp; View ](https://www.google.com/calendar/event?eid=NzZpdXJnaXY2MWM4bGo4aGNjMm9vYmVhM2ZfMjAyNjA4MTJUMjEzMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0&ctz=America/Los_Angeles) [🔗&nbsp; Directions ](https://www.google.com/maps/search/?api=1&query=498+Tamalpais+Dr%2C+Corte+Madera%2C+CA+94925). 
+   Thu, Aug 13 • 9:00 AM •  Fidelity Webinar: Health care costs in retirement  (1h) [🔗&nbsp; Register ](https://Fidelity.com/webinars) [🔗&nbsp; Source ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872515490013115004) [📅&nbsp; Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fidelity+Webinar%3A+Health+care+costs+in+retirement&dates=20260813T090000%2F20260813T100000&ctz=America%2FLos_Angeles&details=Register+at+https%3A%2F%2FFidelity.com%2Fwebinars.+Source%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19fc82eacaa5f27c&location=Online&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com).
+   
+     Scheduled for Noon ET. 
+    
+   Fri, Aug 14 • 2:45 PM •  TT Drop In Clinic!  (3.5h) at Room 4, Suite 220, SIMA SPACE, 300 Tamal Plaza, Corte Madera, CA 94925 [🔗&nbsp; Source ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872009470605248856) [🔗&nbsp; Directions ](https://www.google.com/maps/search/?api=1&query=300+Tamal+Plaza%2C+Corte+Madera%2C+CA+94925) [📅&nbsp; View Event ](https://www.google.com/calendar/event?eid=NnBoNmNwYjM2MHNqOGJiNTY0c21jYjlrNjhyNmFiOW9jcGhtOGI5bWM4cjY2ZTFwNjlqNjZjcjQ2NCBzcGFya3lmbGFzaHJlYm9iQG0&ctz=America/Los_Angeles).
+   
+     Coordinated via Andrea Axtell; part of the SimaSpace Consultation project. 
+     Virtual options: [✨&nbsp; Google Meet 1 ](https://meet.google.com/cba-nsxe-mwg) or [✨&nbsp; Google Meet 2 ](https://meet.google.com/vro-ohfn-yjx). 
+    
+   Fri, Aug 14 •  PG&E Bill AutoPay Scheduled  [🔗&nbsp; Source ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872158528494837117) [📅&nbsp; Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=PG%26E+Bill+AutoPay+Scheduled+%28%24130.43%29&dates=20260814T090000%2F20260814T100000&ctz=America%2FLos_Angeles&details=Automatic+payment+of+%24130.43+for+account+ending+in+7562.+Confirmation%3A+YW47VSRTTX.+Source%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19fb3e4336271d7d&location=Online&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com).
+   
+     Automatic payment of $130.43 for account ending in 7562 will be billed from SparkyBank account ending in 0372. 
+     Confirmation: YW47VSRTTX. 
+    
+ 
+
+ CC Calendar Updates 
+ 
+   New:  Dinner & Visit with the Folks  — August 21, 2026 6:00pm PT · [🔗&nbsp; Source email ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873177542846393326) · [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=ZjhrZnRwNHJzMDM1MjNoNXFnOGM1bjdxazAgOWNlMWM5MDAyM2U4ZjI5MmZjMTEwNzRlNzZkOTQ3MWYzZmJlOWQxNDVjYjk0OWQ4MDY0NWM2ZDYwZjBlOGQyNUBn) 
+   New:  Marin DSA Special Meeting: 2028 Presidential Endorsement Discussion  — August 23, 2026 12:00pm PT · [🔗&nbsp; Source email ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873204886416286399) · [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=N2x1ODl1bDhlb2Nhc2diYmRwZW00NzI2bm8gOWNlMWM5MDAyM2U4ZjI5MmZjMTEwNzRlNzZkOTQ3MWYzZmJlOWQxNDVjYjk0OWQ4MDY0NWM2ZDYwZjBlOGQyNUBn) 
+   New:  New Years' Spirit Walk!  — January 1, 2027 2:00pm PT - January 3, 2027 2:00pm PT · [🔗&nbsp; Source email ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873181641740507368) · [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=cG1wMjcwZWVucDhkajltb25odTI1cXFxazggOWNlMWM5MDAyM2U4ZjI5MmZjMTEwNzRlNzZkOTQ3MWYzZmJlOWQxNDVjYjk0OWQ4MDY0NWM2ZDYwZjBlOGQyNUBn) 
+   New:  Susie's Special Topic JSJ Class: Nervous System  — February 19, 2027 8:30am PT - February 21, 2027 6:00pm PT · [🔗&nbsp; Source email ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873180435100494088) · [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=OWY1dTBkM3VobGRnMXVpbGVpczVtbTU4MG8gOWNlMWM5MDAyM2U4ZjI5MmZjMTEwNzRlNzZkOTQ3MWYzZmJlOWQxNDVjYjk0OWQ4MDY0NWM2ZDYwZjBlOGQyNUBn) 
+ 
+
+ Have a wonderful day! 
+
+
+
+
+
+  
+     
+     
+     
+       
+         
+       
+       
+         CC - Google Labs 
+         
+          [sparkyflashrebob+cc@gmail.com](mailto:sparkyflashrebob+cc@gmail.com)
+         
+       
+     
+   
+  
+   
+   
+     💬 What do you think about this email? 
+     
+      [ 👍 ](https://docs.google.com/forms/d/e/1FAIpQLSfGPGkFp-YwBA_vcSLpUqSo9glbxn-0rKy8i3O2hUhl9IS_Xg/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8D+Useful)
+      [ 👎 ](https://docs.google.com/forms/d/e/1FAIpQLSfGPGkFp-YwBA_vcSLpUqSo9glbxn-0rKy8i3O2hUhl9IS_Xg/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8E+Not+useful)
+     
+     
+      🔬 Want to help improve CC further? [Sign up for user research opportunities](https://forms.gle/mSZLnsScUpa9i42b7).
+     
+   
+  
+   
+   
+    CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact [labs-cc-support@google.com](mailto:labs-cc-support@google.com) or disconnect [here](https://myaccount.google.com/connections#:~:text=CC).  Known issue: 🔗 source links do not always work on mobile.
 
 ---
 

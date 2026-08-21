@@ -63,12 +63,113 @@ tags:
 ---
 
 ## 🌅 Your Day Ahead Email Brief
-- **Subject**: `💌 Your Day Ahead 08/04/2026` (7:04 AM)
+- **Subject**: `💌 Your Day Ahead 08/04/2026`
 
-> ...
-> 
-> ---
-> CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact labs-cc-support@google.com or disconnect here: https://myaccount.google.com/connections#:~:text=CC
+...
+
+---
+CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact labs-cc-support@google.com or disconnect here: https://myaccount.google.com/connections#:~:text=CC
+ 
+ 👋 Enjoy your Tuesday, Andy! Here's your daily brief. 
+ ✉️ Reply for updates or corrections 
+
+ Top of mind 
+ 
+    15 min  Check your DSA dues and membership status today, Tuesday, Aug 4, to avoid lapsing under the new policy [🔗&nbsp; View details ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871377510283841584) [📅&nbsp; Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Check+DSA+dues+and+membership+status&dates=20260804T080000%2F20260804T081500&ctz=America%2FLos_Angeles&details=Verify+status+at+proof.dsausa.org.+Ref%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19f877ee3d1f9030&location=&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com).
+   
+     Verify your status at [🔗&nbsp; proof.dsausa.org ](https://proof.dsausa.org) using your membership email and Discussion Board password. 
+    
+    15 min  Decide on the location for the 'Living Mindfully' ESCOM club (Kentfield campus or Tamal Vista) following Will Meecham's follow-up request yesterday [🔗&nbsp; View email ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872525903127931579) [✉️&nbsp; Reply ](mailto:willspirit@icloud.com?subject=Re%3A%20club&body=Hi%20Will%2C%20thanks%20for%20the%20follow-up.%20Regarding%20the%20%27Living%20Mindfully%27%20ESCOM%20club%20location...).
+   
+     Will Meecham will order a parking pass for you if meetings are held on the College of Marin campus. 
+    
+    10 min  Review and request removal of personal information found on Google Search yesterday [🔗&nbsp; Review result ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872537704009127390) [📅&nbsp; Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Review+and+request+removal+of+personal+info+from+Google&dates=20260804T083000%2F20260804T084000&ctz=America%2FLos_Angeles&details=Requests+at+myactivity.google.com.+Ref%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19fc971ee3fd55de&location=&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com).
+   
+     Requests can be made directly at [🔗&nbsp; myactivity.google.com ](https://myactivity.google.com). 
+    
+   Today • All Day •  Raiders Training Camp  [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=MTJrNHNnMXMyZ2VrcWthMnU3cmw3djE4N3Ygc3Bhcmt5Zmxhc2hyZWJvYkBt). 
+   Today • 7:00 AM •  Morning Practice Zoom w/ Ed Brown  (1h 15m) [✨&nbsp; Join Zoom ](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09).
+   
+     Password: beyond 
+    
+   Today • 9:00 AM PT •  Fidelity Webinar: What are the charts telling us?  (1h) [🔗&nbsp; Register ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872515490013115004) [📅&nbsp; Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fidelity+Webinar%3A+What+are+the+charts+telling+us%3F&dates=20260804T090000%2F20260804T100000&ctz=America%2FLos_Angeles&details=Register%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19fc82eacaa5f27c&location=&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com). 
+   Today • 11:00 AM •  MINDFULNESS MEDITATION CLUB  (1h 30m) at Building 10, College of Marin – Indian Valley Campus, 1800 Ignacio Blvd, Novato, CA [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=MW9pam1lbm1uMDU5amo5ajRiZHBlczk3YTJfMjAyNjA4MDRUMTgwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0) [🔗&nbsp; Directions ](https://www.google.com/maps/search/?api=1&query=Building+10%2C+College+of+Marin+%E2%80%93+Indian+Valley+Campus%2C+1800+Ignacio+Blvd%2C+Novato%2C+CA).
+   
+     Parking is $4 in Lot P2 or P3. Free parking is available in the upper level of Lot P5. 
+    
+   Today • 11:00 AM PT •  Fidelity Webinar: Market Sense  (1h) [🔗&nbsp; Register ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872515490013115004) [📅&nbsp; Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fidelity+Webinar%3A+Market+Sense&dates=20260804T110000%2F20260804T120000&ctz=America%2FLos_Angeles&details=Register%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19fc82eacaa5f27c&location=&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com).
+   
+     Note: This webinar overlaps with your Mindfulness Meditation Club meeting. 
+    
+   Today • 5:00 PM •  [AbhayaParisa] First Tuesday in Berkeley - Ajahn Nyaniko  (4h 30m) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=Mm9zMDMzNGdjZDB2Y2ZmMmdxNTVzaWpuaTRfMjAyNjA4MDVUMDAwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0). 
+ 
+
+ FYI 
+ 
+   Wed, Aug 5 • 7:00 AM •  Morning Practice Zoom w/ Ed Brown  (1h 15m) [✨&nbsp; Join Zoom ](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09). 
+   Wed, Aug 5 • 10:15 AM •  Meet Aunt Melissa at De Young Museum  (1h) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=Y2NwbWNvcGo2aGkzZWJiM2NrcDM0YjlrNjRzbTZiOW82a29qY2I5ZzY0b20yZTM2NnNwamdjOW82byBzcGFya3lmbGFzaHJlYm9iQG0). 
+   Wed, Aug 5 • 2:10 PM •  Go to class  (20m) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=N2QwanA1NG5iMTkzMDdvMDluanYycTdubmNfMjAyNjA4MDVUMjExMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0). 
+   Wed, Aug 5 • 2:30 PM •  Tai Chi  (1h) at Corte Madera Community Center, 498 Tamalpais Dr, Corte Madera, CA 94925 [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=NzZpdXJnaXY2MWM4bGo4aGNjMm9vYmVhM2ZfMjAyNjA4MDVUMjEzMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0) [🔗&nbsp; Directions ](https://www.google.com/maps/search/?api=1&query=Corte+Madera+Community+Center%2C+498+Tamalpais+Dr%2C+Corte+Madera%2C+CA+94925). 
+   Consider attending upcoming Fidelity educational webinars [🔗&nbsp; Register ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872515490013115004).
+   
+      Wed, Aug 5 (9:00 AM PT):  Understanding managed futures [📅&nbsp; Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fidelity+Webinar%3A+Understanding+managed+futures&dates=20260805T090000%2F20260805T100000&ctz=America%2FLos_Angeles&details=Register%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19fc82eacaa5f27c&location=&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com). 
+      Thu, Aug 6 (11:00 AM PT):  In the Money (Options trading) [📅&nbsp; Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fidelity+Webinar%3A+In+the+Money+%28Options+trading%29&dates=20260806T110000%2F20260806T120000&ctz=America%2FLos_Angeles&details=Register%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19fc82eacaa5f27c&location=&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com). 
+      Tue, Aug 11 (9:00 AM PT):  Should I buy crypto right now? [📅&nbsp; Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fidelity+Webinar%3A+Should+I+buy+crypto+right+now%3F&dates=20260811T090000%2F20260811T100000&ctz=America%2FLos_Angeles&details=Register%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19fc82eacaa5f27c&location=&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com). 
+      Wed, Aug 12 (11:00 AM PT):  All about the Roth IRA [📅&nbsp; Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fidelity+Webinar%3A+All+about+the+Roth+IRA&dates=20260812T110000%2F20260812T120000&ctz=America%2FLos_Angeles&details=Register%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19fc82eacaa5f27c&location=&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com). 
+      Thu, Aug 13 (9:00 AM PT):  Health care costs in retirement [📅&nbsp; Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fidelity+Webinar%3A+Health+care+costs+in+retirement&dates=20260813T090000%2F20260813T100000&ctz=America%2FLos_Angeles&details=Register%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19fc82eacaa5f27c&location=&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com). 
+    
+   Recent updates regarding your accounts and orders.
+   
+      Substack Stats:  July 2026 review for 'Head & Heart Together' shows 24 free subscribers and 76 post reads [🔗&nbsp; View stats ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872511867902440258). 
+      Xfinity:  An automatic payment of $71.39 was successfully processed on Aug 3 [🔗&nbsp; View confirmation ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872504236272790759). 
+      Amazon:  Your pantry item (Order #111-4154381-0057825) was delivered to your front door in Larkspur on Aug 3 [🔗&nbsp; View order ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872546534742919150). 
+      Fandango:  You purchased 'Captain Marvel' in UHD for $9.99 on Aug 3 [🔗&nbsp; View receipt ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872567858297133120). 
+      Temu:  Your order (#PO-211-17507820867193132) was delivered to your front door on Aug 2 [🔗&nbsp; View tracking ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872446195359727319). 
+    
+ 
+
+ CC Calendar Updates 
+ 
+   New:  Lakers vs. Warriors (Preseason)  — October 6, 2026 7:00pm PT · [🔗&nbsp; Source email ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872515889947236590) · [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=bGpnbzdqdW83ZDRoZ2tkY3YxdDBpcjlpYWcgOWNlMWM5MDAyM2U4ZjI5MmZjMTEwNzRlNzZkOTQ3MWYzZmJlOWQxNDVjYjk0OWQ4MDY0NWM2ZDYwZjBlOGQyNUBn) 
+ 
+
+ Make it count! 
+
+
+
+
+
+  
+     
+     
+     
+       
+         
+       
+       
+         CC - Google Labs 
+         
+          [sparkyflashrebob+cc@gmail.com](mailto:sparkyflashrebob+cc@gmail.com)
+         
+       
+     
+   
+  
+   
+   
+     💬 What do you think about this email? 
+     
+      [ 👍 ](https://docs.google.com/forms/d/e/1FAIpQLSfGPGkFp-YwBA_vcSLpUqSo9glbxn-0rKy8i3O2hUhl9IS_Xg/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8D+Useful)
+      [ 👎 ](https://docs.google.com/forms/d/e/1FAIpQLSfGPGkFp-YwBA_vcSLpUqSo9glbxn-0rKy8i3O2hUhl9IS_Xg/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8E+Not+useful)
+     
+     
+      🔬 Want to help improve CC further? [Sign up for user research opportunities](https://forms.gle/mSZLnsScUpa9i42b7).
+     
+   
+  
+   
+   
+    CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact [labs-cc-support@google.com](mailto:labs-cc-support@google.com) or disconnect [here](https://myaccount.google.com/connections#:~:text=CC).  Known issue: 🔗 source links do not always work on mobile.
 
 ---
 

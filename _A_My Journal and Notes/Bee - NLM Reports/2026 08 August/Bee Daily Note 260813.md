@@ -38,12 +38,205 @@ tags:
 ---
 
 ## 🌅 Your Day Ahead Email Brief
-- **Subject**: `💌 Your Day Ahead 08/13/2026` (7:01 AM)
+- **Subject**: `💌 Your Day Ahead 08/13/2026`
 
-> ...
+👋 Hey Andy,
+
+Thanks for the catch! I’ve updated my records to reflect that the Living Mindfully meetings have officially moved to Sunday evenings at 5:00 PM. I’ll make sure the Thursday sessions stop crashing your daily briefs from now on.
+
+[Living Mindfully Sunday Update](https://calendar.google.com/calendar/event?action=VIEW&eid=cTZtMnZzb2UwaDNoY2wza2R0czQ3cW5scmwgc3Bhcmt5Zmxhc2hyZWJvYkBt&tok=MjYjc3Bhcmt5Zmxhc2hyZWJvYkBnbWFpbC5jb21mZWRhNGQ0NWFiMmNhNzA2YmMwMzAyZTI4ZDk1OTIzYjNmZGFkM2Rh&ctz=America%2FLos_Angeles&hl=en&es=1)
+
+Catch you on the next one!
+
+---
+CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact labs-cc-support@google.com or disconnect here: https://myaccount.google.com/connections#:~:text=CC
+
+On Fri, Aug 21, 2026 at 9:08 AM sparkyflashrebob@gmail.com wrote:
+> You are still showing the Living Mindfully meetings on Thursdays when they
+> had been moved to Sunday evenings. Please correct this on future reports.
 > 
-> ---
-> CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact labs-cc-support@google.com or disconnect here: https://myaccount.google.com/connections#:~:text=CC
+> Andy McGuire (he/him)
+> (415)637-0348 (cell)
+> sparkyflashrebob@gmail.com
+> 
+> 
+> 
+> On Thu, Aug 13, 2026 at 7:01 AM wrote:
+> 
+> > 👋 Happy Thursday, Andy! Here's your daily brief.
+> > ✉️ Reply for updates or corrections
+> > Top of mind
+> >
+> > - 30 min Pick up your Kaiser prescriptions (LEV, LOS, MON) by the end
+> > of the day today, Thursday, Aug 13th, at the San Rafael Downtown Pharmacy
+> > 🔗 View details
+> >
+> > 📅 Add Reminder
+> >.
+> >
+> > - Location: 1033 Third Street, San Rafael, CA 94901-3107 🔗 Map
+> >
+> > - Note: The SIM prescription must be picked up by Friday, Aug 14th.
+> > - Consider attending the Fidelity 'Health Care Costs in Retirement'
+> > webinar today, Thursday, Aug 13th at 9:00 AM PT (Noon ET) 🔗 Register
+> >
+> > 📅 Add Event
+> >.
+> >
+> > - Part 1 of the series covers budgeting for healthcare, HSAs,
+> > Medicare options, and IRMAA charges.
+> > - Today • All Day • *King Tides* and *Raiders Training Camp* 📅 Training
+> > Camp Details
+> >
+> > 📅 View Event
+> >
+> > 🔗 Tide Chart
+> >
+> >.
+> > - Today • 5:00 PM • *Living Mindfully Meditation* (1h) hosted by you ✨ Join
+> > Meeting 🔗 See invitation
+> >
+> > 📅 Add Event
+> >.
+> >
+> > - This overlaps with the Raiders PreSeason game starting at 5:00 PM.
+> > - Today • 5:00 PM • *Raiders PreSeason* (3.5h) 📅 View game
+> >
+> >.
+> > - The Robin Landsong film premiere, 'Veterans Healing Trauma through
+> > Singing Medicine,' takes place today, Thursday, Aug 13th 🔗 View
+> > details
+> >
+> > 📅 Add Event
+> >
+> >.
+> > - Your Amazon order for Gold Bond Medicated Body Powder is expected to
+> > arrive by today, Thursday, Aug 13th 🔗 Track order
+> >
+> > 📅 Add Reminder
+> >
+> >.
+> >
+> > FYI
+> >
+> > - 30 min Pick up your remaining SIM prescription by Friday, Aug 14th
+> > at the San Rafael Downtown Medical Offices Pharmacy 🔗 View info
+> >
+> > 📅 Add Reminder
+> >
+> >.
+> > - Fri, Aug 14 • 2:45 PM • *TT Drop In Clinic!* (3.5h) at 300 Tamal
+> > Vista Blvd suite 220 room 4, Corte Madera, CA 94925 ✨ Join Video
+> > 🔗 Map
+> >
+> > 📅 View Event
+> >.
+> >
+> > - Attending with Andrea Axtell.
+> > - Sun, Aug 16 • *Upcoming Subscriptions & Premieres*
+> > - *Canva Pro:* Your monthly subscription will automatically renew
+> > for $18.00 today 🔗 Manage account
+> >
+> >.
+> > - *Lanterns Premiere:* Series premiere on HBO; invitation accepted
+> > by Andrea Axtell 🔗 View details
+> >
+> > 📅 View Event
+> >
+> >.
+> > - Thu, Aug 20 • *Fidelity Webinar Part 2* (Noon ET) regarding
+> > long-term care costs and financial protection strategies 🔗 Register
+> >
+> > 📅 Add Event
+> >
+> >.
+> > - Fri, Aug 21 • 1:30 PM • *In-Person Visit: Dr. Benjamin Hunter* at
+> > San Rafael Downtown-SRD, 1033 Third Street, 3rd Floor, San Rafael, CA 94901
+> > 🔗 Map
+> >
+> > 📅 View Event
+> >.
+> >
+> > - Plan to arrive 15-25 minutes early for parking. Bring your
+> > membership card and ID 🔗 View appointment
+> >
+> >.
+> > - Wed, Sep 2 • 2:30 PM • *Labor Day Insight Retreat* (Ends Mon, Sep 7)
+> > at Spirit Rock Meditation Center in Woodacre, CA 🔗 View retreat
+> > details
+> >.
+> >
+> > - Check-in is between 2:30 PM and 4:30 PM. Ensure you have your
+> > final payment settled by Wednesday, Aug 19th 📅 Add Reminder
+> >
+> >.
+> > - Recent activity on your 'Head & Heart Together' Substack 🔗 Visit
+> > Substack.
+> > - *Engagement:* Andrea Axtell liked your post 'Talking to Yourself'
+> > on Wednesday, Aug 12th 🔗 View notification
+> >
+> >.
+> > - *Promotion:* Shareable video and image assets are now available
+> > for your latest post 🔗 View assets
+> >
+> >.
+> >
+> > CC Calendar Updates
+> >
+> > - New: *Adult and Family Medicine Appointment* — August 21, 2026
+> > 1:30pm PT · 🔗 Source email
+> >
+> > · 📅 View event
+> >
+> > - Updated: *Labor Day Insight Retreat* — September 2, 2026 - September
+> > 6, 2026 · 🔗 Source email
+> >
+> > · 📅 View event
+> >
+> > - New location: Spirit Rock Meditation Center
+> > - Event details updated
+> >
+> > Have a wonderful day!
+> > ------------------------------
+> > 
+ 👋 Hey Andy, 
+ Thanks for the catch! I’ve updated my records to reflect that the Living Mindfully meetings have officially moved to Sunday evenings at 5:00 PM. I’ll make sure the Thursday sessions stop crashing your daily briefs from now on. 
+ [Living Mindfully Sunday Update](https://calendar.google.com/calendar/event?action=VIEW&amp;eid=cTZtMnZzb2UwaDNoY2wza2R0czQ3cW5scmwgc3Bhcmt5Zmxhc2hyZWJvYkBt&amp;tok=MjYjc3Bhcmt5Zmxhc2hyZWJvYkBnbWFpbC5jb21mZWRhNGQ0NWFiMmNhNzA2YmMwMzAyZTI4ZDk1OTIzYjNmZGFkM2Rh&amp;ctz=America%2FLos_Angeles&amp;hl=en&amp;es=1) 
+ Catch you on the next one!  
+     
+     
+     
+       
+         
+       
+       
+         CC - Google Labs 
+         
+          [sparkyflashrebob+cc@gmail.com](mailto:sparkyflashrebob+cc@gmail.com)
+         
+       
+     
+   
+  
+   
+   
+     💬 What do you think about this email? 
+     
+      [ 👍 ](https://docs.google.com/forms/d/e/1FAIpQLSfGPGkFp-YwBA_vcSLpUqSo9glbxn-0rKy8i3O2hUhl9IS_Xg/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8D+Useful)
+      [ 👎 ](https://docs.google.com/forms/d/e/1FAIpQLSfGPGkFp-YwBA_vcSLpUqSo9glbxn-0rKy8i3O2hUhl9IS_Xg/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8E+Not+useful)
+     
+     
+      🔬 Want to help improve CC further? [Sign up for user research opportunities](https://forms.gle/mSZLnsScUpa9i42b7).
+     
+   
+  
+   
+   
+    CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact [labs-cc-support@google.com](mailto:labs-cc-support@google.com) or disconnect [here](https://myaccount.google.com/connections#:~:text=CC).  Known issue: 🔗 source links do not always work on mobile.
+   
+  
+
+    On Fri, Aug 21, 2026 at 9:08 AM sparkyflashrebob@gmail.com wrote:   You are still showing the Living Mindfully meetings on Thursdays when they had been moved to Sunday evenings. Please correct this on future reports.  Andy McGuire (he/him) (415)637-0348 (cell) sparkyflashrebob@gmail.com    On Thu, Aug 13, 2026 at 7:01 AM wrote:  &gt; 👋 Happy Thursday, Andy! Here&#x27;s your daily brief. &gt; ✉️ Reply for updates or corrections &gt; Top of mind &gt; &gt; - 30 min Pick up your Kaiser prescriptions (LEV, LOS, MON) by the end &gt; of the day today, Thursday, Aug 13th, at the San Rafael Downtown Pharmacy &gt; 🔗 View details &gt; &gt; 📅 Add Reminder &gt;. &gt; &gt; - Location: 1033 Third Street, San Rafael, CA 94901-3107 🔗 Map &gt; &gt; - Note: The SIM prescription must be picked up by Friday, Aug 14th. &gt; - Consider attending the Fidelity &#x27;Health Care Costs in Retirement&#x27; &gt; webinar today, Thursday, Aug 13th at 9:00 AM PT (Noon ET) 🔗 Register &gt; &gt; 📅 Add Event &gt;. &gt; &gt; - Part 1 of the series covers budgeting for healthcare, HSAs, &gt; Medicare options, and IRMAA charges. &gt; - Today • All Day • *King Tides* and *Raiders Training Camp* 📅 Training &gt; Camp Details &gt; &gt; 📅 View Event &gt; &gt; 🔗 Tide Chart &gt; &gt;. &gt; - Today • 5:00 PM • *Living Mindfully Meditation* (1h) hosted by you ✨ Join &gt; Meeting 🔗 See invitation &gt; &gt; 📅 Add Event &gt;. &gt; &gt; - This overlaps with the Raiders PreSeason game starting at 5:00 PM. &gt; - Today • 5:00 PM • *Raiders PreSeason* (3.5h) 📅 View game &gt; &gt;. &gt; - The Robin Landsong film premiere, &#x27;Veterans Healing Trauma through &gt; Singing Medicine,&#x27; takes place today, Thursday, Aug 13th 🔗 View &gt; details &gt; &gt; 📅 Add Event &gt; &gt;. &gt; - Your Amazon order for Gold Bond Medicated Body Powder is expected to &gt; arrive by today, Thursday, Aug 13th 🔗 Track order &gt; &gt; 📅 Add Reminder &gt; &gt;. &gt; &gt; FYI &gt; &gt; - 30 min Pick up your remaining SIM prescription by Friday, Aug 14th &gt; at the San Rafael Downtown Medical Offices Pharmacy 🔗 View info &gt; &gt; 📅 Add Reminder &gt; &gt;. &gt; - Fri, Aug 14 • 2:45 PM • *TT Drop In Clinic!* (3.5h) at 300 Tamal &gt; Vista Blvd suite 220 room 4, Corte Madera, CA 94925 ✨ Join Video &gt; 🔗 Map &gt; &gt; 📅 View Event &gt;. &gt; &gt; - Attending with Andrea Axtell. &gt; - Sun, Aug 16 • *Upcoming Subscriptions &amp; Premieres* &gt; - *Canva Pro:* Your monthly subscription will automatically renew &gt; for $18.00 today 🔗 Manage account &gt; &gt;. &gt; - *Lanterns Premiere:* Series premiere on HBO; invitation accepted &gt; by Andrea Axtell 🔗 View details &gt; &gt; 📅 View Event &gt; &gt;. &gt; - Thu, Aug 20 • *Fidelity Webinar Part 2* (Noon ET) regarding &gt; long-term care costs and financial protection strategies 🔗 Register &gt; &gt; 📅 Add Event &gt; &gt;. &gt; - Fri, Aug 21 • 1:30 PM • *In-Person Visit: Dr. Benjamin Hunter* at &gt; San Rafael Downtown-SRD, 1033 Third Street, 3rd Floor, San Rafael, CA 94901 &gt; 🔗 Map &gt; &gt; 📅 View Event &gt;. &gt; &gt; - Plan to arrive 15-25 minutes early for parking. Bring your &gt; membership card and ID 🔗 View appointment &gt; &gt;. &gt; - Wed, Sep 2 • 2:30 PM • *Labor Day Insight Retreat* (Ends Mon, Sep 7) &gt; at Spirit Rock Meditation Center in Woodacre, CA 🔗 View retreat &gt; details &gt;. &gt; &gt; - Check-in is between 2:30 PM and 4:30 PM. Ensure you have your &gt; final payment settled by Wednesday, Aug 19th 📅 Add Reminder &gt; &gt;. &gt; - Recent activity on your &#x27;Head &amp; Heart Together&#x27; Substack 🔗 Visit &gt; Substack. &gt; - *Engagement:* Andrea Axtell liked your post &#x27;Talking to Yourself&#x27; &gt; on Wednesday, Aug 12th 🔗 View notification &gt; &gt;. &gt; - *Promotion:* Shareable video and image assets are now available &gt; for your latest post 🔗 View assets &gt; &gt;. &gt; &gt; CC Calendar Updates &gt; &gt; - New: *Adult and Family Medicine Appointment* — August 21, 2026 &gt; 1:30pm PT · 🔗 Source email &gt; &gt; · 📅 View event &gt; &gt; - Updated: *Labor Day Insight Retreat* — September 2, 2026 - September &gt; 6, 2026 · 🔗 Source email &gt; &gt; · 📅 View event &gt; &gt; - New location: Spirit Rock Meditation Center &gt; - Event details updated &gt; &gt; Have a wonderful day! &gt; ------------------------------ &gt;
 
 ---
 

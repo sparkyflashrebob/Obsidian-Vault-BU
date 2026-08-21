@@ -47,12 +47,110 @@ tags:
 ---
 
 ## 🌅 Your Day Ahead Email Brief
-- **Subject**: `💌 Your Day Ahead 08/12/2026` (7:01 AM)
+- **Subject**: `💌 Your Day Ahead 08/12/2026`
 
-> ...
-> 
-> ---
-> CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact labs-cc-support@google.com or disconnect here: https://myaccount.google.com/connections#:~:text=CC
+...
+
+---
+CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact labs-cc-support@google.com or disconnect here: https://myaccount.google.com/connections#:~:text=CC
+ 
+ 👋 Enjoy your Wednesday, Andy! Here's your daily brief. 
+ ✉️ Reply for updates or corrections 
+
+ Top of mind 
+ 
+    5 min  Review your new medical test results available in the Kaiser Permanente portal as of Aug 11 [🔗&nbsp; View results ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873243048121551052).
+   
+     Results are for Ronald McGuire. 
+    
+   Today • 7:00 AM •  Morning Practice Zoom w/ Ed Brown  (1h 15m) [✨&nbsp; Join Zoom ](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=M3Z1bW84dnE4aHVwdnYwMWwxN2Eyc2FrM2tfMjAyNjA4MTJUMTQwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0&ctz=America/Los_Angeles).
+   
+     Schedule: Free writing (7:00), brief talk (7:15), sitting (7:30), visiting (7:55). Use password: beyond. 
+    
+   Today • 11:00 AM •  Fidelity Webinar: All about the Roth IRA  (1h) [🔗&nbsp; Register ](https://Fidelity.com/webinars) [🔗&nbsp; View details ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872515490013115004) [📅&nbsp; Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fidelity+Webinar%3A+All+about+the+Roth+IRA&dates=20260812T110000%2F20260812T120000&ctz=America%2FLos_Angeles&details=Educational+session+covering+market+fundamentals+and+Roth+IRA+specifics.&location=Fidelity.com%2Fwebinars&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com).
+   
+     This educational session covers market fundamentals and Roth IRA specifics. 
+    
+   Today • 2:10 PM •  Go to class  (20m) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=N2QwanA1NG5iMTkzMDdvMDluanYycTdubmNfMjAyNjA4MTJUMjExMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0&ctz=America/Los_Angeles). 
+   Today • 2:30 PM •  Tai Chi  (1h) at Corte Madera Community Center, 498 Tamalpais Dr, Corte Madera, CA 94925 [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=NzZpdXJnaXY2MWM4bGo4aGNjMm9vYmVhM2ZfMjAyNjA4MTJUMjEzMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0&ctz=America/Los_Angeles) [🔗&nbsp; Map ](https://www.google.com/maps/search/?api=1&query=498+Tamalpais+Dr%2C+Corte+Madera%2C+CA+94925%2C+USA). 
+   Ongoing • All Day •  King Tides  (Ending Thu, Aug 13) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=NnNvajBlOW02a3NtYWJiMjZvcWphYjlrNzByNmFiOXBjOWk2YWI5bjY5Z2ppY3BpY3BpMzJwMWljOCBzcGFya3lmbGFzaHJlYm9iQG0&ctz=America/Los_Angeles). 
+   Ongoing • All Day •  Raiders Training Camp  (Ending Aug 30) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=MTJrNHNnMXMyZ2VrcWthMnU3cmw3djE4N3Ygc3Bhcmt5Zmxhc2hyZWJvYkBt&ctz=America/Los_Angeles). 
+ 
+
+ FYI 
+ 
+   Several events are scheduled for Thu, Aug 13.
+   
+      Perseid meteor shower peaks:  1:00 AM – 5:00 AM [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=MGV2OGt0OXFjczU4MHM5OGtqNHMyYm1rdWQgc3Bhcmt5Zmxhc2hyZWJvYkBt&ctz=America/Los_Angeles) 
+      Morning Practice Zoom:  7:00 AM – 8:15 AM. Guided chakra meditation and basics [✨&nbsp; Join Zoom ](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09) [📅&nbsp; View Event ](https://www.google.com/calendar/event?eid=M3Z1bW84dnE4aHVwdnYwMWwxN2Eyc2FrM2tfMjAyNjA4MTNUMTQwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0&ctz=America/Los_Angeles) 
+      Fidelity Webinar:  9:00 AM PT (Noon ET). Health care costs in retirement [🔗&nbsp; Register ](https://Fidelity.com/webinars) [📅&nbsp; Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fidelity+Webinar%3A+Health+care+costs+in+retirement&dates=20260813T090000%2F20260813T100000&ctz=America%2FLos_Angeles&details=Webinar+covering+health+care+costs+in+retirement.&location=Fidelity.com%2Fwebinars&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com) 
+      Raiders PreSeason:  5:00 PM – 8:30 PM [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=NTd1djltNWc3aDVmZG90cTJzcDRibDIyazYgc3Bhcmt5Zmxhc2hyZWJvYkBt&ctz=America/Los_Angeles) 
+      Film Premiere:  Robin Landsong's film 'Veterans Healing Trauma through Singing Medicine' premieres Thu, Aug 13 [🔗&nbsp; View details ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873271602372092169) [📅&nbsp; Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Film+Premiere%3A+Robin+Landsong%27s+film+%27Veterans+Healing+Trauma+through+Singing+Medicine%27&dates=20260813T000000%2F20260813T235959&ctz=America%2FLos_Angeles&details=Premiere+of+Robin+Landsong%27s+film+%27Veterans+Healing+Trauma+through+Singing+Medicine%27.&location=&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com) 
+    
+   Planning for Sat, Aug 15.
+   
+      Spirit Rock Poetry Day:  9:30 AM – 4:30 PM PT. Phillip Moffitt leads 'The Harshness and Softness of the World' [🔗&nbsp; Register ](https://spiritrock.org) [📅&nbsp; Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Spirit+Rock+Poetry+Day%3A+Phillip+Moffitt+leads+%27The+Harshness+and+Softness+of+the+World%27&dates=20260815T093000%2F20260815T163000&ctz=America%2FLos_Angeles&details=Day-long+poetry+session+with+Phillip+Moffitt%3A+%27The+Harshness+and+Softness+of+the+World%27.&location=Spirit+Rock+%28spiritrock.org%29&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com) 
+      Robin Landsong Session:  11:30 AM PT. 90-minute 'Living Transmission of Love from the Other Side' via Zoom [🔗&nbsp; Join link ](https://app.acuityscheduling.com/schedule.php?owner=12569473&action=zoom&uniqueID=2c7d9813bd2115c2998d94866dc3e591&ownerID=12569473) [📅&nbsp; View Event ](https://www.google.com/calendar/event?eid=Y2dvNjJvcG43MG9qMGJiMmM5Z202YjlrY2hpNmFiOW9jNWg2OGI5amNkaTNjb2I0NjByajZjcGs2byBzcGFya3lmbGFzaHJlYm9iQG0&ctz=America/Los_Angeles) 
+      Be Brave Day:  Second anniversary organized by Visibility Brigade. Community groups will gather on overpasses and bridges [🔗&nbsp; See details ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872424803496189828) [📅&nbsp; Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Be+Brave+Day+%28organized+by+Visibility+Brigade%29&dates=20260815T000000%2F20260815T235959&ctz=America%2FLos_Angeles&details=Second+anniversary+organized+by+Visibility+Brigade.+Community+groups+gathering+on+overpasses+and+bridges.&location=Overpasses+and+bridges&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com) 
+    
+   Upcoming financial commitments and community meetings.
+   
+      State Farm Bill:  $275.02 scheduled for automated payment on Sat, Aug 15 for account ending in 5264-02 [🔗&nbsp; View bill ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872000795219518901) [📅&nbsp; Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Reminder%3A+State+Farm+Bill+Payment+%28%24275.02%29&dates=20260815T080000%2F20260815T090000&ctz=America%2FLos_Angeles&details=Automated+payment+for+account+ending+in+5264-02.&location=&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com) 
+      Canva Pro Renewal:  $18.00 monthly charge begins automatically on Sun, Aug 16 [🔗&nbsp; View trial info ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873252496374654958) [📅&nbsp; Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Reminder%3A+Canva+Pro+Renewal+%28%2418.00%29&dates=20260816T080000%2F20260816T090000&ctz=America%2FLos_Angeles&details=Monthly+charge+begins+automatically.&location=&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com) 
+      ESCOM Council Meeting:  Wed, Aug 19. Meeting for approval of the 'Living Mindfully' club application [🔗&nbsp; View status ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870812586257874023) [📅&nbsp; Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=ESCOM+Council+Meeting%3A+%27Living+Mindfully%27+club+application&dates=20260819T090000%2F20260819T100000&ctz=America%2FLos_Angeles&details=Meeting+for+approval+of+the+%27Living+Mindfully%27+club+application.&location=&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com) 
+      T-Mobile Bill:  $71.93 AutoPay scheduled for Wed, Aug 19 using Visa ending in 6681 [🔗&nbsp; View account ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872363421720905066) [📅&nbsp; Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Reminder%3A+T-Mobile+Bill+AutoPay+%28%2471.93%29&dates=20260819T080000%2F20260819T090000&ctz=America%2FLos_Angeles&details=AutoPay+using+Visa+ending+in+6681.&location=&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com) 
+    
+   Review your weekly activity and account status updates received on Aug 11.
+   
+      Google Health:  50,770 total steps for the week of Aug 2 to Aug 8 (avg 7,253/day). Best day was Sunday (11,063 steps). Average weight: 240.0lb [🔗&nbsp; View report ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873229040627949513) 
+      Substack Stats:  'Softening the Armor' received 28 views, primarily from Facebook and email [🔗&nbsp; View stats ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873263141551100228) 
+      Apple Purchase:  $6.45 billed on Aug 10 for 5 iTunes songs, including 'You're My Soul and Inspiration' and 'Atom Dream' [🔗&nbsp; View receipt ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873225869779830423) 
+      Prime Video:  Home region successfully set to San Francisco-Oak-San Jose (94939) [🔗&nbsp; View notice ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873286777364119908) 
+    
+ 
+
+ CC Calendar Updates 
+ 
+   Checked yesterday's emails for schedule changes. None detected. 
+ 
+
+ Stay focused! 
+
+
+
+
+
+  
+     
+     
+     
+       
+         
+       
+       
+         CC - Google Labs 
+         
+          [sparkyflashrebob+cc@gmail.com](mailto:sparkyflashrebob+cc@gmail.com)
+         
+       
+     
+   
+  
+   
+   
+     💬 What do you think about this email? 
+     
+      [ 👍 ](https://docs.google.com/forms/d/e/1FAIpQLSfGPGkFp-YwBA_vcSLpUqSo9glbxn-0rKy8i3O2hUhl9IS_Xg/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8D+Useful)
+      [ 👎 ](https://docs.google.com/forms/d/e/1FAIpQLSfGPGkFp-YwBA_vcSLpUqSo9glbxn-0rKy8i3O2hUhl9IS_Xg/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8E+Not+useful)
+     
+     
+      🔬 Want to help improve CC further? [Sign up for user research opportunities](https://forms.gle/mSZLnsScUpa9i42b7).
+     
+   
+  
+   
+   
+    CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact [labs-cc-support@google.com](mailto:labs-cc-support@google.com) or disconnect [here](https://myaccount.google.com/connections#:~:text=CC).  Known issue: 🔗 source links do not always work on mobile.
 
 ---
 

@@ -50,12 +50,119 @@ tags:
 ---
 
 ## 🌅 Your Day Ahead Email Brief
-- **Subject**: `💌 Your Day Ahead 08/09/2026` (7:00 AM)
+- **Subject**: `💌 Your Day Ahead 08/09/2026`
 
-> ...
-> 
-> ---
-> CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact labs-cc-support@google.com or disconnect here: https://myaccount.google.com/connections#:~:text=CC
+...
+
+---
+CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact labs-cc-support@google.com or disconnect here: https://myaccount.google.com/connections#:~:text=CC
+ 
+ 👋 Happy Sunday, Andy! Here's your daily brief. 
+ ✉️ Reply for updates or corrections 
+
+ Top of mind 
+ 
+    15 min  Set up your new IRC Workspace account by signing in and setting a password to access Drive and Gmail. The reset link expires on Mon, Aug 10 [🔗&nbsp; View email ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873001685409639625) [📅&nbsp; Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Set+up+IRC+Workspace+account&dates=20260810T090000%2F20260810T100000&ctz=America%2FLos_Angeles&details=Reset+link+expires+today.+Check+email%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19fe3d1bfa8cacc9&location=&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com).
+   
+     This account is for your volunteering work with the Insight Retreat Center (IRC). 
+    
+   Today • All Day •  Raiders Training Camp  [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=MTJrNHNnMXMyZ2VrcWthMnU3cmw3djE4N3Ygc3Bhcmt5Zmxhc2hyZWJvYkBt&ctz=America/Los_Angeles). 
+   Today • All Day •  King Tides  [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=NnNvajBlOW02a3NtYWJiMjZvcWphYjlrNzByNmFiOXBjOWk2YWI5bjY5Z2ppY3BpMzJwMWljOCBzcGFya3lmbGFzaHJlYm9iQG0&ctz=America/Los_Angeles). 
+   Today • 7:00 AM •  Morning Practice Zoom w/ Ed Brown  (1h 15m) [✨&nbsp; Join Zoom ](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09).
+   
+     Password: beyond 
+     Schedule: 7:00 sitting, 7:10 lecture, 7:55 visiting. 
+    
+   Today • 9:30 AM •  930AM Meeting  (1h) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=YzhyajJvOWs2aGkzOGJiMWNvc21hYjlrNzFoNjhiOW82OHJtY2I5bDYwczM0ZDM0Y2dxajRvaGc2c18yMDI2MDgwOVQxNjMwMDBaIHNwYXJreWZsYXNocmVib2JAbQ&ctz=America/Los_Angeles). 
+   Today • 5:00 PM •  Living Mindfully Meditation Group Meeting  (1.5h) [✨&nbsp; Join meeting ](https://meet.google.com/dhf-mnbc-qkn).
+   
+     Theme: 'Softening the Armor – Waking Up to Global Kinship', exploring somatic micro-practices to move from isolation into interconnectedness [🔗&nbsp; View details ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872804935364636869). 
+     Note: The calendar also lists an alternative link (https://meet.google.com/oxf-rdfm-kmn) for this recurring gathering. 
+    
+   Today • 9:34 PM •  High Tide Alert (>6.5') - Corte Madera Creek  (30m) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=YmtnOWdwZ2owbzZ1ZDlvdmp1Y3YwMnZqajAgc3Bhcmt5Zmxhc2hyZWJvYkBt&ctz=America/Los_Angeles).
+   
+     Predicted Peak: 6.866 feet at Station 9414874. 
+    
+   You have several recent updates regarding your personal projects and privacy.
+   
+      Privacy:  Google approved the removal of search results containing personal info for Ronald McGuire from anywho.com and searchpeoplefree.com on Sat, Aug 8 [🔗&nbsp; View status ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872973696297013004). 
+      Smart Home:  You shared research on Sat, Aug 8 about repurposing old phones into advanced smart home controllers [🔗&nbsp; See research ](https://share.google.com/rQ4DoPA8nS8GQREll). 
+      Suggestion:  Use Action Blocks to create a custom home automation control center [🔗&nbsp; Learn More ](https://www.youtube.com/watch?v=gGl9BTX2CuU) 
+      Suggestion:  Set up AutomationManager as a server on your old device [🔗&nbsp; Read ](https://www.reddit.com/r/homeautomation/comments/wak175/best_automationcentralized_smart_home_app_for/) 
+      Community:  You responded to Hugh Bricarelli on Sat, Aug 8 regarding his spiritual journey and commitment to practice [🔗&nbsp; View thread ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872892760418049303). 
+    
+ 
+
+ FYI 
+ 
+   Mon, Aug 10 • 7:00 AM •  Morning Practice Zoom w/ Ed Brown  (1h 15m) [✨&nbsp; Join Zoom ](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09).
+   
+     Password: beyond 
+     Schedule: 7:00 free writing, 7:15 brief talk, 7:30 sitting, 7:55 visiting. 
+    
+   Mon, Aug 10 • 6:30 PM •  Audel & Andy SDRT  (1h) with Audel Salazar [✨&nbsp; Join meeting ](https://meet.google.com/ytq-jeoq-umi).
+   
+     Note: This meeting is now conducted via Google Meet. 
+    
+   Mon, Aug 10 • 10:32 PM •  High Tide Alert (>6.5') - Corte Madera Creek  (30m) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=NGUwcjE2ZXJpMHJjNjJraGZqcDU4aGtiYWcgc3Bhcmt5Zmxhc2hyZWJvYkBt&ctz=America/Los_Angeles).
+   
+     Predicted Peak: 6.878 feet. 
+    
+   Consider registering for upcoming Fidelity educational webinars [🔗&nbsp; Register here ](https://www.fidelity.com/webinars).
+   
+      Tue, Aug 11:  Should I buy crypto right now? (Noon ET). 
+      Wed, Aug 12:  All about the Roth IRA (2:00 PM ET). 
+      Thu, Aug 13:  Health care costs in retirement (Noon ET). 
+    
+   Two events are scheduled for Sun, Aug 16.
+   
+      DSA Housing Call:  Monthly California DSA call regarding rent control strategies from 5:00 PM to 6:30 PM PT [🔗&nbsp; Register ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872883547770010977). 
+      Lanterns Premiere:  Scheduled viewing of the 'Lanterns' premiere on HBO, confirmed with Andrea Axtell [🔗&nbsp; View invite ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871705871205214753) [📅&nbsp; View Event ](https://www.google.com/calendar/event?eid=NXJma2U4aXNmdmtmaWtpM2NuZWYzZzZxbnQgc3Bhcmt5Zmxhc2hyZWJvYkBt&ctz=America/Los_Angeles). 
+    
+ 
+
+ CC Calendar Updates 
+ 
+   Checked yesterday's emails for schedule changes. None detected. 
+ 
+
+ Have a peaceful Sunday! 
+
+
+
+
+
+  
+     
+     
+     
+       
+         
+       
+       
+         CC - Google Labs 
+         
+          [sparkyflashrebob+cc@gmail.com](mailto:sparkyflashrebob+cc@gmail.com)
+         
+       
+     
+   
+  
+   
+   
+     💬 What do you think about this email? 
+     
+      [ 👍 ](https://docs.google.com/forms/d/e/1FAIpQLSfGPGkFp-YwBA_vcSLpUqSo9glbxn-0rKy8i3O2hUhl9IS_Xg/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8D+Useful)
+      [ 👎 ](https://docs.google.com/forms/d/e/1FAIpQLSfGPGkFp-YwBA_vcSLpUqSo9glbxn-0rKy8i3O2hUhl9IS_Xg/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8E+Not+useful)
+     
+     
+      🔬 Want to help improve CC further? [Sign up for user research opportunities](https://forms.gle/mSZLnsScUpa9i42b7).
+     
+   
+  
+   
+   
+    CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact [labs-cc-support@google.com](mailto:labs-cc-support@google.com) or disconnect [here](https://myaccount.google.com/connections#:~:text=CC).  Known issue: 🔗 source links do not always work on mobile.
 
 ---
 

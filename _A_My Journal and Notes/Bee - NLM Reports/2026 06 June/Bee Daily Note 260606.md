@@ -44,12 +44,105 @@ tags:
 ---
 
 ## 🌅 Your Day Ahead Email Brief
-- **Subject**: `💌 Your Day Ahead 06/06/2026` (7:00 AM)
+- **Subject**: `💌 Your Day Ahead 06/06/2026`
 
-> ...
-> 
-> ---
-> CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact labs-cc-support@google.com or disconnect here: https://myaccount.google.com/connections#:~:text=CC
+...
+
+---
+CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact labs-cc-support@google.com or disconnect here: https://myaccount.google.com/connections#:~:text=CC
+ 
+ 👋 Happy Saturday, Andy! Here's your daily brief. 
+ ✉️ Reply for updates or corrections 
+
+ Top of mind 
+ 
+    15 min  Manage the lease termination and security deposit return for Ryan McGuire (Ryan Faulkenberry) at 138 Underhill Drive, Napa, CA, following the move-out date of Tue, Jun 9 [🔗&nbsp; View notice ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1864641328947822825) [📅&nbsp; Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Ryan+McGuire+Move-out+%2F+Lease+Termination&dates=20260609T090000%2F20260609T100000&ctz=America%2FLos_Angeles&details=Manage+lease+termination+and+security+deposit+return+for+138+Underhill+Drive%2C+Napa.+Move-out+date+for+Ryan+McGuire.&location=138+Underhill+Drive%2C+Napa%2C+CA&add=).
+   
+     Ensure property management (WPM) processes the refund to the new mailing address provided on May 26. 
+     James is specifically restricted from handling any funds or involvement in the refund process. 
+     Contact Mindy Wyman at [✉️&nbsp; mindy@wymanpm.com ](mailto:mindy@wymanpm.com) for clarification on the refund process [✉️&nbsp; Email ](mailto:?subject=Clarification%20on%20refund%20process%20for%20138%20Underhill%20Drive&body=Hi%20Mindy%2C%0A%0AI%27m%20writing%20to%20clarify%20the%20refund%20process%20for%20the%20security%20deposit%20for%20the%20property%20at%20138%20Underhill%20Drive%2C%20Napa.%20Please%20ensure%20the%20refund%20is%20processed%20to%20the%20new%20mailing%20address%20provided%20on%20May%2026.%0A%0ABest%20regards%2C%0AAndy%20McGuire). 
+    
+    5 min  Decide whether to attend the 'Suds, Snacks, and Socialism' forum on left unity today, Sat, Jun 6, from 2:00 PM to 4:00 PM in Berkeley or online [🔗&nbsp; See announcement ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1867190676582395255) [📅&nbsp; Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Suds%2C+Snacks%2C+and+Socialism+Forum&dates=20260606T140000%2F20260606T160000&ctz=America%2FLos_Angeles&details=Forum+on+left+unity.&location=Berkeley+%2F+Online&add=). 
+    5 min  Purchase 'The Anthemic Selection Volume 7' from Framewerk on Bandcamp before the limited release ends today, Sat, Jun 6 [🔗&nbsp; View final call ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1867182125766858842) [📅&nbsp; Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Purchase+%27The+Anthemic+Selection+Volume+7%27&dates=20260606T100000%2F20260606T110000&ctz=America%2FLos_Angeles&details=Final+call+for+limited+release+from+Framewerk+on+Bandcamp.&location=&add=). 
+    10 min  Review the new rental listing at 1934 9th Ave, Oakland ($2,095/mo, 2 bed/1 bath) as part of your housing search [🔗&nbsp; View listing ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1867185803046042831) [🔗&nbsp; Map ](https://www.google.com/maps/search/?api=1&query=1934+9th+Ave%2C+Oakland). 
+    5 min  Review and manage the Facebook post tag from Andrea Axtell-McGuire to decide if it should be added to your timeline [🔗&nbsp; View notification ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1867174203426352153). 
+ 
+
+ On your calendar 
+ 
+   Sat, Jun 6 • 7:00 AM •  Breakfast Options  (1h)
+   
+      Larry & Milt’s Western Cafe:  58890 29 Palms Hwy, Yucca Valley, CA 92284 [🔗&nbsp; Map ](https://www.google.com/maps/search/?api=1&query=58890+29+Palms+Hwy%2C+Yucca+Valley%2C+CA+92284) 
+      The Country Kitchen:  61768 29 Palms Hwy, Joshua Tree, CA 92252 [🔗&nbsp; Map ](https://www.google.com/maps/search/?api=1&query=61768+29+Palms+Hwy%2C+Joshua+Tree%2C+CA+92252) 
+    
+   Sat, Jun 6 • 8:30 AM •  Drive to Class  (30m) 
+   Sat, Jun 6 • 9:00 AM •  JSJ 5 day Basic Seminar with Susie Plettner!  (8.5h) at Institute of Mentalphysics, 59700 29 Palms Hwy, Joshua Tree, CA 92252 [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=NzBxajhwMzE2MHA2NmI5ZzZsajNlYjlrYzloamliOW82dGlqZ2I5b2NkaDNpZDMxNmdyNjhlMW1jNCBzcGFya3lmbGFzaHJlYm9iQG0) [🔗&nbsp; Map ](https://www.google.com/maps/search/?api=1&query=59700+29+Palms+Hwy%2C+Joshua+Tree%2C+CA+92252). 
+   Sat, Jun 6 • 4:00 PM •  The Copper Room (Yucca Airport)  (1h) - Tentative at 57360 Aviation Dr, Yucca Valley, CA 92284 [🔗&nbsp; Map ](https://www.google.com/maps/search/?api=1&query=57360+Aviation+Dr%2C+Yucca+Valley%2C+CA+92284). 
+   Sat, Jun 6 • All Day •  Mass Tasley's BD  [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=MDV0bGxxZW03NGViaHAxbWdpMjlrMWNuZWVfMjAyNjA2MDYgc3Bhcmt5Zmxhc2hyZWJvYkBt). 
+   Sat, Jun 6 • All Day •  Coursiv Subscription  [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=MnNkMzBjMmdwazg2YmVjNTEzbDR0czJyb21fMjAyNjA2MDYgc3Bhcmt5Zmxhc2hyZWJvYkBt). 
+   Ongoing •  Joshua Tree Stay (AirBNB)  at 61664 Crest Circle Drive, Joshua Tree, CA 92252 [🔗&nbsp; Map ](https://www.google.com/maps/search/?api=1&query=61664+Crest+Circle+Drive%2C+Joshua+Tree%2C+CA+92252). 
+ 
+
+ FYI 
+ 
+   Several upcoming events and invitations require your attention.
+   
+      Abhayagiri Monastery:  Upāsika Day program 'Developing the Factor of Interest' on Sat, Jun 13, from 9:00 AM to 4:00 PM via Zoom or YouTube [🔗&nbsp; See news ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1867188681493199831) [📅&nbsp; Save ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Abhayagiri+Monastery%3A+Up%C4%81sika+Day&dates=20260613T090000%2F20260613T160000&ctz=America%2FLos_Angeles&details=Up%C4%81sika+Day+program+%27Developing+the+Factor+of+Interest%27&location=Zoom+%2F+YouTube&add=). 
+      Council Gathering:  Potluck hosted by Andrea Axtell in Petaluma on Sat, Jun 20, from 5:30 PM to 8:30 PM [🔗&nbsp; See invite ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1867125983509200686) [📅&nbsp; Save ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Council+Gathering+Potluck&dates=20260620T173000%2F20260620T203000&ctz=America%2FLos_Angeles&details=Potluck+hosted+by+Andrea+Axtell&location=Petaluma&add=). 
+      Ugress Livestreams:  Ugress.TV #047 on Thu, Jun 11, and 'The Lost World' film concert on Sun, Jun 21 [🔗&nbsp; See update ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1867145511947047135). 
+      EBMC Oakland:  'Watering Our Roots, Planting Seeds' event on Sat, Jul 11, from 12:30 PM to 5:00 PM [🔗&nbsp; See notification ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1867186773587709116) [📅&nbsp; Save ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=EBMC+Oakland+Event&dates=20260711T123000%2F20260711T170000&ctz=America%2FLos_Angeles&details=%27Watering+Our+Roots%2C+Planting+Seeds%27+event&location=Oakland&add=). 
+    
+   Status updates on orders and potential purchases.
+   
+      Liquid Sound Design:  Signed 'Shamans in Space' copies are delayed until at least Mon, Jun 8, following a parcel recovery [🔗&nbsp; See update ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1867167032926924931). 
+      SinuVox:  Red light nasal congestion relief device link sent to self on June 5 [🔗&nbsp; View link ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1867182156125786930). 
+      Suggestion:  Read Trustpilot reviews for SinuVox [🔗&nbsp; View ](https://www.trustpilot.com/review/sinuvox.com). 
+    
+   Reference and community safety notes.
+   
+      Kīlauea Activity:  Volcanic activity remains paused; fountaining episode 49 is likely to begin in 9-14 days as of June 5 [🔗&nbsp; See update ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1867185075481835365). 
+      Larkspur Isle Safety:  Community warning regarding local predators following a rabbit death [🔗&nbsp; See post ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1867187254091447443). 
+      Climate Research:  CNN article regarding potential impacts of new rules on climate science research funding [🔗&nbsp; Read article ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1867165127762970432). 
+    
+ 
+
+ Enjoy your weekend! 
+
+
+
+
+
+  
+     
+     
+     
+       
+         
+       
+       
+         CC - Google Labs 
+         
+          [sparkyflashrebob+cc@gmail.com](mailto:sparkyflashrebob+cc@gmail.com)
+         
+       
+     
+   
+  
+   
+   
+     💬 What do you think about this email? 
+     
+      [ 👍 ](https://docs.google.com/forms/d/e/1FAIpQLSc1bdcDhGCWZQ131lTfvHGeyv76Zlcz6sXLV30gBtQbCzHyIQ/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8D+Useful)
+      [ 👎 ](https://docs.google.com/forms/d/e/1FAIpQLSc1bdcDhGCWZQ131lTfvHGeyv76Zlcz6sXLV30gBtQbCzHyIQ/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8E+Not+useful)
+     
+     
+      🔬 Want to help improve CC further? [Sign up for user research opportunities](https://forms.gle/mSZLnsScUpa9i42b7).
+     
+   
+  
+   
+   
+    CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact [labs-cc-support@google.com](mailto:labs-cc-support@google.com) or disconnect [here](https://myaccount.google.com/connections#:~:text=CC).  Known issue: 🔗 source links do not always work on mobile.
 
 ---
 

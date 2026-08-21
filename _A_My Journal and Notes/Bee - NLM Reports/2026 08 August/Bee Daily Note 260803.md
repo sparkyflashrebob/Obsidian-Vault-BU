@@ -45,12 +45,108 @@ tags:
 ---
 
 ## 🌅 Your Day Ahead Email Brief
-- **Subject**: `💌 Your Day Ahead 08/03/2026` (7:01 AM)
+- **Subject**: `💌 Your Day Ahead 08/03/2026`
 
-> ...
-> 
-> ---
-> CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact labs-cc-support@google.com or disconnect here: https://myaccount.google.com/connections#:~:text=CC
+...
+
+---
+CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact labs-cc-support@google.com or disconnect here: https://myaccount.google.com/connections#:~:text=CC
+ 
+ 👋 Happy Monday, Andy! Here's your daily brief. 
+ ✉️ Reply for updates or corrections 
+
+ Top of mind 
+ 
+    15 min  Update your DSA membership status by end of day today to maintain access to the Discussion Board. Check your status at [🔗&nbsp; proof.dsausa.org ](https://proof.dsausa.org) using your membership email and Discussion Board password. If dues haven't been paid in the last month, you'll need to restart payments or request a waiver before the new policy takes effect on Tue, Aug 4 [🔗&nbsp; View policy update ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871377510283841584) [📅&nbsp; Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Update+DSA+membership+status&dates=20260803T170000%2F20260803T171500&ctz=America%2FLos_Angeles&details=Check+status+at+proof.dsausa.org.+Dues+policy+changes+tomorrow.&location=&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com).
+   
+     The new policy regarding membership expiration dates takes full effect on Tue, Aug 4. 
+    
+    5 min  Download your Krisp meeting data export ('Krisp_meetings_2026-07-28_03-16-11-422.zip') before the link expires today [🔗&nbsp; Download link ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871925555744456838) [📅&nbsp; Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Download+Krisp+meeting+data+export&dates=20260803T120000%2F20260803T120500&ctz=America%2FLos_Angeles&details=Link+expires+today%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19fa6a60041fc086&location=&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com).
+   
+     The export was successfully generated on Jul 27. 
+    
+   Today • 7:00 AM •  Morning Practice Zoom w/ Ed Brown  (1h 15m) [✨&nbsp; Zoom Link ](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09) [📅&nbsp; View Event ](https://www.google.com/calendar/event?eid=M3Z1bW84dnE4aHVwdnYwMWwxN2Eyc2FrM2tfMjAyNjA4MDNUMTQwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0).
+   
+     Schedule: 7:00 free writing, 7:15 brief talk, 7:30 sitting, 7:55 visiting. Password: beyond. 
+    
+   Today • 6:30 PM •  Audel & Andy SDRT  (1h) with Audel Salazar via [✨&nbsp; Google Meet ](https://meet.google.com/ytq-jeoq-umi) [📅&nbsp; View Event ](https://www.google.com/calendar/event?eid=aGNhZ3A5cHIyZGZhZjlrNGl2cXU5cDhyajZfMjAyNjA4MDRUMDEzMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0).
+   
+     Note: Meetings are now conducted via Google Meet. 
+    
+   Today • All Day •  Raiders Training Camp  (Ongoing through Aug 30) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=MTJrNHNnMXMyZ2VrcWthMnU3cmw3djE4N3Ygc3Bhcnx5Zmxhc2hyZWJvYkBt). 
+   Today • All Day •  Lisa Marie Harris died  [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=Y2hpM2ljajE2NHIzNGJiMTYwcjMyYjlrNjhxamNiYjI3MHMzMmJiNTZzcmoyZDlpNjhzMzRjcG43NF8yMDI2MDgwMyBzcGFya3lmbGFzaHJlYm9iQG0). 
+   An Amazon pantry item (Order #111-4154381-0057825) is estimated to arrive today in Larkspur [🔗&nbsp; View order ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872450855201480225) [📅&nbsp; Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Check+Amazon+delivery&dates=20260803T180000%2F20260803T180500&ctz=America%2FLos_Angeles&details=Estimated+arrival+today+in+Larkspur.+Order+%23111-4154381-0057825.&location=Larkspur&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com). 
+   Summary of recent activity from Sun, Aug 2:
+   
+      Deliveries:  A Temu order (#PO-211-17507820867193132) and an Amazon wireless accessory (#111-3662877-3606618) were delivered to your front door in Larkspur [🔗&nbsp; Temu status ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872446195359727319) [🔗&nbsp; Amazon status ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872445324544757747). 
+      Finances:  A $268.79 grocery payment was made at Whole Foods San Rafael [🔗&nbsp; View receipt ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872440470796438735), and 4,890 BofA cash rewards ($48.90) were redeemed for deposit into your savings account [🔗&nbsp; View update ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872457572800481389). 
+      Culture & Learning:  You registered for a MARINet library card (Barcode: 21111013026463, PIN: 0411) [🔗&nbsp; View registration ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872478945159609386), and reserved tickets and made a $5 donation to the Fine Arts Museums of San Francisco [🔗&nbsp; View tickets ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872467634234300545) [🔗&nbsp; View donation ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872467633831680209). 
+      AI Research:  You shared two articles with yourself: 'The End-to-End Agentic AI Pipeline' [🔗&nbsp; Read article ](https://share.google/xpZF6KLRlCu8BWsRi) and '3 game-changing NotebookLM workflows' [🔗&nbsp; Read article ](https://share.google/RR5sylD49NZltD53q). 
+    
+ 
+
+ FYI 
+ 
+   Tue, Aug 4 • 7:00 AM •  Morning Practice Zoom w/ Ed Brown  (1h 15m) [✨&nbsp; Zoom Link ](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09) [📅&nbsp; View Event ](https://www.google.com/calendar/event?eid=M3Z1bW84dnE4aHVwdnYwMWwxN2Eyc2FrM2tfMjAyNjA4MDRUMTQwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0).
+   
+     Schedule: 7:00 free writing, 7:15 brief talk, 7:30 sitting, 7:55 visiting. Password: beyond. 
+    
+   Tue, Aug 4 • 11:00 AM •  MINDFULNESS MEDITATION CLUB (Novato Campus)  (1h 30m) at Building 10, College of Marin – Indian Valley Campus, 1800 Ignacio Blvd, Novato, CA [🔗&nbsp; Directions ](https://www.google.com/maps/search/?api=1&query=Building+10%2C+College+of+Marin+%E2%80%93+Indian+Valley+Campus%2C+1800+Ignacio+Blvd%2C+Novato%2C+CA) [📅&nbsp; View Event ](https://www.google.com/calendar/event?eid=MW9pam1lbm1uMDU5amo5ajRiZHBlczk3YTJfMjAyNjA4MDRUMTgwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0).
+   
+     Parking costs $4 via kiosks or the [🔗&nbsp; online system ](https://marin.thepermitstore.com/purchase.php). Closest accessible parking is in Lot 3. 
+    
+   Tue, Aug 4 • 5:00 PM •  [AbhayaParisa] First Tuesday in Berkeley - Ajahn Nyaniko  (4h 30m) [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=Mm9zMDMzNGdjZDB2Y2ZmMmdxNTVzaWpuaTRfMjAyNjA4MDVUMDAwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0). 
+   Consider registering for the CLARA De-Escalation Training with Mel Duncan on Wed, Aug 5 from 2:00 PM to 4:00 PM PDT (4:00 PM - 6:00 PM CDT). This interactive session hosted by the Metta Center for Nonviolence focuses on frameworks for conflict de-escalation [✨&nbsp; Register here ](https://us02web.zoom.us/meeting/register/zbNQm2ggQeqZha9Wnc1vwg#/registration) [🔗&nbsp; Learn More ](https://mettacenter.substack.com/p/study-and-training-with-metta). 
+   Your Amazon order for Gold Bond Medicated Body Powder is delayed and now estimated to arrive between Sat, Aug 8 and Thu, Aug 13 [🔗&nbsp; View order ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872441285405707376). 
+   Sat, Aug 15 •  Be Brave Day  (2nd Anniversary). Community groups will gather on overpasses and bridges nationwide to show solidarity [🔗&nbsp; View info ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872424803496189828) [📅&nbsp; Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Be+Brave+Day+%282nd+Anniversary%29&dates=20260815T090000%2F20260815T170000&ctz=America%2FLos_Angeles&details=Community+groups+gathering+on+overpasses+and+bridges+nationwide.&location=Nationwide&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com). 
+ 
+
+ CC Calendar Updates 
+ 
+   Updated:  Sunday Living Mindfully Meditation Group Meeting  — August 2, 2026 5:00pm PT · [🔗&nbsp; Source email ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872161325332248676) · [📅&nbsp; View event ](https://www.google.com/calendar/event?eid=c3I5MjE2aTZlZXFhdmZidWFibHBmYmczMWMgOWNlMWM5MDAyM2U4ZjI5MmZjMTEwNzRlNzZkOTQ3MWYzZmJlOWQxNDVjYjk0OWQ4MDY0NWM2ZDYwZjBlOGQyNUBn)
+   
+     New location: Google Meet: https://meet.google.com/dhf-mnbc-qkn 
+     Event details updated 
+    
+ 
+
+ Stay focused! 
+
+
+
+
+
+  
+     
+     
+     
+       
+         
+       
+       
+         CC - Google Labs 
+         
+          [sparkyflashrebob+cc@gmail.com](mailto:sparkyflashrebob+cc@gmail.com)
+         
+       
+     
+   
+  
+   
+   
+     💬 What do you think about this email? 
+     
+      [ 👍 ](https://docs.google.com/forms/d/e/1FAIpQLSfGPGkFp-YwBA_vcSLpUqSo9glbxn-0rKy8i3O2hUhl9IS_Xg/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8D+Useful)
+      [ 👎 ](https://docs.google.com/forms/d/e/1FAIpQLSfGPGkFp-YwBA_vcSLpUqSo9glbxn-0rKy8i3O2hUhl9IS_Xg/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8E+Not+useful)
+     
+     
+      🔬 Want to help improve CC further? [Sign up for user research opportunities](https://forms.gle/mSZLnsScUpa9i42b7).
+     
+   
+  
+   
+   
+    CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact [labs-cc-support@google.com](mailto:labs-cc-support@google.com) or disconnect [here](https://myaccount.google.com/connections#:~:text=CC).  Known issue: 🔗 source links do not always work on mobile.
 
 ---
 
