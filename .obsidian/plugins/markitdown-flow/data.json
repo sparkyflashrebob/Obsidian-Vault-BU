@@ -1,0 +1,32 @@
+{
+  "pythonPath": "python",
+  "enablePlugins": false,
+  "pluginArgs": [],
+  "docintelEndpoint": "",
+  "docintelCredential": "",
+  "llmApiKey": "",
+  "outputPath": "",
+  "assetExtractionEnabled": false,
+  "assetSubfolderTemplate": "{filename}-assets",
+  "inputBasePath": "",
+  "enableBatchProgress": true,
+  "enableContextMenu": true,
+  "enableRecursiveConversion": false,
+  "outputFilenameTemplate": "{filename}",
+  "enableDragDrop": true,
+  "enableAutoFrontmatter": false,
+  "autoTags": "",
+  "conversionHistory": [
+    {
+      "inputFile": "G:\\Google Drive (260611)\\Obsidian Master Vault\\Flashrebob Obsidian\\markitdown-output\\tmp_1785355455996_kortex-prompts-backup-2026-07-29.json",
+      "outputFile": "G:\\Google Drive (260611)\\Obsidian Master Vault\\Flashrebob Obsidian\\markitdown-output\\kortex-prompts-backup-2026-07-29.md",
+      "timestamp": "2026-07-29T20:04:17.134Z",
+      "success": true,
+      "processingTimeMs": 1134,
+      "assetsExtracted": 0
+    }
+  ],
+  "imagePipelineEnabled": false,
+  "ocrLang": "kor+eng",
+  "imagePipelineAdvancedConfig": "{\n  \"ocr_engines\": [\n    \"tesseract\",\n    \"easyocr\"\n  ],\n  \"ocr_confidence_threshold\": 70,\n  \"enable_ocr_ensemble\": true,\n  \"enable_table_extraction\": true,\n  \"preprocess_deskew\": true,\n  \"deskew_method\": \"auto\",\n  \"confidence_weight_engine_conf\": 0.3,\n  \"confidence_weight_agreement\": 0.35,\n  \"confidence_weight_length\": 0.15,\n  \"confidence_weight_cleanliness\": 0.1,\n  \"confidence_weight_stdev_inv\": 0.1\n}"
+}

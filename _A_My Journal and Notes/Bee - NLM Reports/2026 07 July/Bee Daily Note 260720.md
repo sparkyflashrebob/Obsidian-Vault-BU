@@ -38,218 +38,87 @@ tags:
 ---
 
 ## 🌅 Your Day Ahead Email Brief
-- **Subject**: `💌 Your Day Ahead 07/20/2026`
+- **Subject**: `💌 Your Day Ahead 07/20/2026` (7:00 AM)
 
-...
-
----
-CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact labs-cc-support@google.com or disconnect here: https://myaccount.google.com/connections#:~:text=CC
- 
- 👋 Happy Monday, Andy! Here's your daily brief. 
- ✉️ Reply for updates or corrections 
-
- Top of mind 
- 
-    5 min  Verify your YUMPU account to activate PDF-to-ePaper publishing for your sparkyflashrebob@gmail.com account [🔗  Verify account ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871187099269491508) [📅  Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Reminder%3A+Verify+YUMPU+account&dates=20260720T090000%2F20260720T090500&ctz=America%2FLos_Angeles&details=Verify+account+to+activate+PDF-to-ePaper+publishing.+Email%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19f7cac0b8406b34&location=Online&add=).
-   
-     Account was created on Sun, Jul 19. Verification is required to enable all publishing features. 
-    
-   Today •  Capri's Birthday  (All day) [📅  View event ](https://www.google.com/calendar/event?eid=NjhxM2NvcG82b3JtYWJiNmNjbzZhYjlrY2RpamliOXA2Y3M2NGI5aTcwcjMwZTFuNjRyMzBwOWo2OF8yMDI2MDcyMCBzcGFya3lmbGFzaHJlYm9iQG0).
-   
-     This is an all-day event on your calendar. 
-      Gift Idea:  'Double Digits' Birthday Shirt [🔗  View ](https://www.etsy.com/market/10_yo_girl_gifts) 
-      Gift Idea:  Wash Away Hair Chalk Kit [🔗  View ](https://www.uncommongoods.com/sets/gifts-for-10-year-old-girls) 
-      Gift Idea:  Wireless Karaoke Machine [🔗  View ](https://nationaltoday.com/gift-guides/gifts-for-10-year-olds/) 
-    
-   Today • 7:00 AM •  Morning Practice Zoom w/ Ed Brown  (1h 15m) [✨  Join Zoom ](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09) [📅  View event ](https://www.google.com/calendar/event?eid=M3Z1bW84dnE4aHVwdnYwMWwxN2Eyc2FrM2tfMjAyNjA3MjBUMTQwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0).
-   
-     Schedule: 7:00 free writing, 7:15 brief talk, 7:30 sitting, 7:55 visiting. Use password 'beyond' to join. 
-    
-   ⏱️ 1h 30m • Attend the AASF Marin Teleservice Monthly Business Meeting via Zoom starting at 6:00 PM today [✨  Join Meeting ](https://us02web.zoom.us/j/84707673404) [📅  Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=AASF+Marin+Teleservice+Monthly+Business+Meeting&dates=20260720T180000%2F20260720T193000&ctz=America%2FLos_Angeles&details=Orientation+for+new+volunteers+at+6%3A00+PM.+Business+meeting+begins+at+6%3A45+PM+%28ID%3A+847+0767+3404%2C+PW%3A+1821%29.+Zoom%3A+https%3A%2F%2Fus02web.zoom.us%2Fj%2F84707673404&location=https%3A%2F%2Fus02web.zoom.us%2Fj%2F84707673404&add=).
-   
-      6:00 PM:  Orientation for new volunteers. 
-      6:45 PM:  Business meeting begins (ID: 847 0767 3404, PW: 1821). 
-     The committee is currently looking for a Sunday Daily Coordinator. [🔗  View email ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871003643015144951) 
-    
-   Status: A mobile check deposit of $300.00 is expected to post to your Advantage Plus Banking account ending in 0372 today [🔗  View deposit ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871092588688760757).
-   
-     Confirmation #3685147821. The deposit was initiated on Sat, Jul 18. 
-    
-   Status: Your Amazon household order ($60.28) is scheduled for delivery today [🔗  Track order ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871166572888147249).
-   
-     Order #111-7808588-2853838 includes Bedding and Lighting & Fans items. 
-    
- 
-
- On your calendar 
- 
-   Today •  Capri's Birthday  (All day) [📅  View event ](https://www.google.com/calendar/event?eid=NjhxM2NvcG82b3JtYWJiNmNjbzZhYjlrY2RpamliOXA2Y3M2NGI5aTcwcjMwZTFuNjRyMzBwOWo2OF8yMDI2MDcyMCBzcGFya3lmbGFzaHJlYm9iQG0). 
-   Today • 7:00 AM •  Morning Practice Zoom w/ Ed Brown  (1h 15m) [✨  Join Zoom ](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09) [📅  View event ](https://www.google.com/calendar/event?eid=M3Z1bW84dnE4aHVwdnYwMWwxN2Eyc2FrM2tfMjAyNjA3MjBUMTQwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0).
-   
-     Password: beyond 
-    
-   Tue, Jul 21 • 7:00 AM •  Morning Practice Zoom w/ Ed Brown  (1h 15m) [✨  Join Zoom ](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09) [📅  View event ](https://www.google.com/calendar/event?eid=M3Z1bW84dnE4aHVwdnYwMWwxN2Eyc2FrM2tfMjAyNjA3MjFUMTgwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0).
-   
-     Password: beyond 
-    
-   Tue, Jul 21 • 11:00 AM •  MINDFULNESS MEDITATION CLUB  (1h 30m) at Building 10, College of Marin – Indian Valley Campus, 1800 Ignacio Blvd, Novato, CA [📅  View event ](https://www.google.com/calendar/event?eid=NzRjZ2ZybDYwNGsyZzJlcjZtMXFtNm41NjZfMjAyNjA3MjFUMTgwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0) [🔗  Directions ](https://www.google.com/maps/search/?api=1&query=Building+10%2C+College+of+Marin+%E2%80%93+Indian+Valley+Campus%2C+1800+Ignacio+Blvd%2C+Novato%2C+CA).
-   
-     Parking costs $4 in Lot P2. Accessible parking is available in Lot 3 near the small bridge. 
-    
- 
-
- FYI 
- 
-   Upcoming events and expected deliveries for the next few weeks.
-   
-      Tue, Jul 21:  Morning Practice Zoom at 7:00 AM and Mindfulness Meditation Club at 11:00 AM. 
-      Sun, Jul 26:  Your Krisp meeting data export link expires. [🔗  Download zip ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871203371556748382) [📅  Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Reminder%3A+Krisp+meeting+data+export+link+expires&dates=20260726T090000%2F20260726T091500&ctz=America%2FLos_Angeles&details=Download+zip+from+email%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19f7d98d68273c5e&location=Online&add=) 
-      Wed, Jul 29:  Expected arrival of Andrea Axtell's Earth Funeral welcome pack, including 5 membership cards. [🔗  View details ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871147898847175753) 
-      Sat, Aug 8:  Shawn's Celebration of Life memorial service from 1:00 PM to 3:00 PM at 1736 Kerry Ln, Santa Rosa, CA 95403 [🔗  View email ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871156792762465161) [🔗  Directions ](https://www.google.com/maps/search/?api=1&query=1736+Kerry+Ln%2C+Santa+Rosa%2C+CA+95403) [📅  View Event ](https://www.google.com/calendar/event?eid=NnNxajRkOXA2cGltMmI5amNncTMyYjlrNjRxNmNiYjI2OWhtY2JiMjcwcm1hb2IzNjhyM2NjcjJjZyBzcGFya3lmbGFzaHJlYm9iQG0). 
-    
-   Recent activity and updates from Sun, Jul 19.
-   
-      Substack:  Published 'The Personal Toll' and 'The Pillars of Truth' to Head & Heart Together. [🔗  View posts ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871171426178855132) 
-      Shopping:  Purchased three coaching Kindle books and 'Just Be A Good Human' gear from TeePublic ($36.05). [🔗  Amazon order ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871210280256702116) [🔗  TeePublic order ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871202578709527451) 
-      Groceries:  Total of $213.02 spent at Whole Foods Market - San Rafael. [🔗  View receipt ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871178269928283059) 
-      Home:  Andrea noted that Lori recently used a baking soda and vinegar hack to successfully clear a bathroom drain. [🔗  View email ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871167418147028197) 
-      Tools:  Web Highlights now supports direct PDF uploads, and UJAM confirmed receipt of your support request. [🔗  Web Highlights ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871182302050405515) [🔗  UJAM ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871186875127478311) 
-    
- 
-
- Have a wonderful day! 
-
-
-
-
-
-  
-     
-     
-     
-       
-         
-       
-       
-         CC - Google Labs 
-         
-          [sparkyflashrebob+cc@gmail.com](mailto:sparkyflashrebob+cc@gmail.com)
-         
-       
-     
-   
-  
-   
-   
-     💬 What do you think about this email? 
-     
-      [👍 ](https://docs.google.com/forms/d/e/1FAIpQLSc1bdcDhGCWZQ131lTfvHGeyv76Zlcz6sXLV30gBtQbCzHyIQ/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8D+Useful)
-      [👎 ](https://docs.google.com/forms/d/e/1FAIpQLSc1bdcDhGCWZQ131lTfvHGeyv76Zlcz6sXLV30gBtQbCzHyIQ/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8E+Not+useful)
-     
-     
-      🔬 Want to help improve CC further? [Sign up for user research opportunities](https://forms.gle/mSZLnsScUpa9i42b7).
-     
-   
-  
-   
-   
-    CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact [labs-cc-support@google.com](mailto:labs-cc-support@google.com) or disconnect [here](https://myaccount.google.com/connections#:~:text=CC).  Known issue: 🔗 source links do not always work on mobile.
+> ...
+> 
+> ---
+> CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact labs-cc-support@google.com or disconnect here: https://myaccount.google.com/connections#:~:text=CC
 
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Standing Up Against Injustice**
-- **Understanding Self-Honesty Through Perceptual Bias**
-- **Plugin version compatibility troubleshooting**
-- **Podcast intro video development**
-- **Logo replacement for video branding**
-- **Video Playback Control Technical Support**
-- **Troubleshooting OBS video editing issues**
-- **Gemini Logo Replacement Quota Exhausted**
-- **Video Editing Logo Replacement Problems**
-- **College Football, Food, Immigration, Equity**
-- **Creating YouTube video template**
-- **Therapeutic session and tech learning**
-- **AI Image Editing Session**
-- **Andy's reaction to news events**
+- **Standing Up Against Injustice**: Recorded and processed during today's transcript sessions.
+- **Understanding Self-Honesty Through Perceptual Bias**: Recorded and processed during today's transcript sessions.
+- **Plugin version compatibility troubleshooting**: Recorded and processed during today's transcript sessions.
+- **Podcast intro video development**: Recorded and processed during today's transcript sessions.
+- **Logo replacement for video branding**: Recorded and processed during today's transcript sessions.
+- **Video Playback Control Technical Support**: Recorded and processed during today's transcript sessions.
+- **Troubleshooting OBS video editing issues**: Recorded and processed during today's transcript sessions.
+- **Gemini Logo Replacement Quota Exhausted**: Recorded and processed during today's transcript sessions.
+- **Video Editing Logo Replacement Problems**: Recorded and processed during today's transcript sessions.
+- **College Football, Food, Immigration, Equity**: Recorded and processed during today's transcript sessions.
+- **Creating YouTube video template**: Recorded and processed during today's transcript sessions.
+- **Therapeutic session and tech learning**: Recorded and processed during today's transcript sessions.
+- **AI Image Editing Session**: Recorded and processed during today's transcript sessions.
+- **Andy's reaction to news events**: Recorded and processed during today's transcript sessions.
 
 ---
 
-# 📖 Activity Details
----
-
-## 🌅 Morning Activity Details
-
-### 1. Standing Up Against Injustice (8:48 AM – 9:10 AM)
+## 📖 Detailed Subject Matter
+#### Standing Up Against Injustice (8:48 AM – 9:10 AM)
 Andy engaged in an extensive personal storytelling session, sharing multiple experiences from his life focused on themes of standing up for others and intervening in dangerous situations. He began by describing a dream he had about being in the mountains, then moved into more serious childhood memories including his sister Shelly being molested when he was six years old at 42nd and Grove. He shared a frightening high school incident where he was nearly assaulted by an older student who lured him to buy records but then tried to put boots on him - Andy escaped by running all the way from East Oakland to West Oakland in the middle of the night. Throughout his work experiences, particularly in dining services at colleges, Andy consistently intervened when he saw people being mistreated, including defending a Black woman from harassment and standing up for others in various public situations. His stories revealed a consistent pattern of taking action when witnessing injustice, even at personal risk.
 
-
-### 2. Understanding Self-Honesty Through Perceptual Bias (11:07 AM – 11:14 AM)
+#### Understanding Self-Honesty Through Perceptual Bias (11:07 AM – 11:14 AM)
 Andy was engaged in creating educational content about stoic philosophy, specifically focusing on "the architecture of self-honesty." He delivered a structured teaching session exploring how individuals can honestly examine themselves by moving beyond personal narratives toward direct present-moment experience. The content emphasized recognizing how everyone perceives reality through their own biased lenses. This appears to be part of Andy's educational or content creation activities, possibly for a podcast, video series, or teaching material.
 
-
-## ☀️ Afternoon Activity Details
-
-### 1. Plugin version compatibility troubleshooting (12:32 PM – 12:44 PM)
+#### Plugin version compatibility troubleshooting (12:32 PM – 12:44 PM)
 Andy was troubleshooting a technical issue with OBS Studio and Stream Deck software compatibility. He reported that OBS Studio's plugin version 5.4.2 was not properly communicating with the Stream Deck plugin version 3.x. The conversation indicated this was related to a team streaming setup (team Twitcher) and Andy was experiencing limited screenshot options on his Stream Deck mobile app.
 
-
-### 2. Podcast intro video development (1:24 PM – 1:35 PM)
+#### Podcast intro video development (1:24 PM – 1:35 PM)
 Andy is working on creating a YouTube podcast intro video for his show "Head and Heart Together." He met with someone (likely a designer or video editor) to discuss developing video options that incorporate his existing logo. The conversation focused on customizing the video to use his personal logo rather than a generic video logo.
 
-
-### 3. Logo replacement for video branding (1:35 PM – 1:49 PM)
+#### Logo replacement for video branding (1:35 PM – 1:49 PM)
 Andy was multitasking while consuming media content from a show called "Head and Heart Together." During this session, he was simultaneously working on video editing tasks, specifically focusing on replacing graphics and logos at the end of the video. He made three distinct editing requests: replacing a revealing graphic with the show's logo, replacing an end video logo, and requesting a transparent version of the final logo. The media content appeared to be educational or discussion-based programming with a focus on intellectual and emotional integration.
 
-
-### 4. Video Playback Control Technical Support (2:01 PM – 2:14 PM)
+#### Video Playback Control Technical Support (2:01 PM – 2:14 PM)
 Andy was listening to the "Head and Heart" podcast while simultaneously troubleshooting technical issues with video playback functionality. He was experiencing problems with DLC (Downloadable Content) where he wanted more control over video timing - specifically requesting the ability to pause videos at the very end to prevent them from going to black, and to have videos load in a paused state at the beginning. He also has a birthday reminder set up for Capri Ann Atton's birthday on July 20th.
 
-
-### 5. Troubleshooting OBS video editing issues (2:15 PM – 2:46 PM)
+#### Troubleshooting OBS video editing issues (2:15 PM – 2:46 PM)
 Andy was working on video creation and editing technical issues while background media (a "Head and Heart Together" podcast intro) played in his environment. He was experiencing multiple technical problems including microphone setup questions, OBS software functionality issues, and video editing constraints where he couldn't change graphics at the end of his videos despite using a paid plan that had reached its quota limit. The conversation involved troubleshooting these content creation challenges, with Andy attempting to create a video with a specific prompt while dealing with software limitations and technical frustrations.
 
-
-### 6. Gemini Logo Replacement Quota Exhausted (2:47 PM – 3:01 PM)
+#### Gemini Logo Replacement Quota Exhausted (2:47 PM – 3:01 PM)
 Andy was working through technical issues with his video editing workflow, specifically dealing with Google Gemini AI quota limitations and CapCut logo replacement functionality. While some background media was playing (appears to be a podcast or radio show about "head and heart together"), Andy was troubleshooting how to replace a logo that was incorrectly generated by Gemini at the end of one of his videos. He had prepared a custom logo for replacement but was blocked by quota restrictions that prevented him from making the desired changes.
 
-
-### 7. Video Editing Logo Replacement Problems (3:06 PM – 3:56 PM)
+#### Video Editing Logo Replacement Problems (3:06 PM – 3:56 PM)
 This conversation captures Andy's tech support needs and wellness-focused daily routines. The primary focus is on video editing challenges with CapCut software, where Andy seeks help with overlay functions and logo replacement in his projects. He expresses particular frustration with AI guidance that he feels has led him "down the wrong path" during his editing process.
 
 In personal exchanges, Andy discusses re-establishing morning and evening walking routines, mentioning he walked earlier and is trying to get back into that groove. He demonstrates body awareness when noting someone's "pain body" issues and discusses the timing of walks in relation to dinner.
 
-
-### 8. College Football, Food, Immigration, Equity (4:00 PM – 4:46 PM)
+#### College Football, Food, Immigration, Equity (4:00 PM – 4:46 PM)
 The conversation was a casual, multi-topic discussion covering college football coaching changes at Cal, food preferences and restaurant memories (particularly recalling a sandwich shop with celery cream cheese sandwiches), Mark Cuban's employee equity proposal for addressing income inequality, and meal planning logistics. The discussion included sharing green card statistics by country and social observations about social media algorithms. There was also news discussion about a federal judge blocking the Kroger-Albertsons merger and a police shooting incident, followed by practical meal planning and portion control conversations.
 
-
-### 9. Creating YouTube video template (4:46 PM – 5:01 PM)
+#### Creating YouTube video template (4:46 PM – 5:01 PM)
 Andy spent this session working on video editing and template creation for YouTube content. He successfully resolved logo replacement issues and created a comprehensive template for his "Head and Heart Together" series. The work involved technical video editing processes including overlay creation, speed adjustments, and export procedures. Andy expressed satisfaction with the final template that will serve as the foundation for future YouTube videos, allowing for smooth transitions into his on-camera segments.
 
-
-## 🌙 Evening Activity Details
-
-### 1. Therapeutic session and tech learning (5:47 PM – 6:41 PM)
+#### Therapeutic session and tech learning (5:47 PM – 6:41 PM)
 Based on the transcript analysis, here's a summary of Andy's recent interactions and experiences:
 
 
 
 Andy spent the day engaged in multiple activities including technical setup for his content creation work, receiving therapeutic treatment, processing personal memories, and participating in philosophical discussions. The main activities included: working with OBS software for his "Head and Heart Together" show production, receiving a therapeutic touch session from Andrea to address neck and back pain, sharing a vivid dream involving childhood experiences, and engaging in political commentary about Trump and narcissistic behavior patterns.
 
-
-### 2. AI Image Editing Session (7:07 PM – 7:31 PM)
+#### AI Image Editing Session (7:07 PM – 7:31 PM)
 Based on the transcript, here's a summary of Andy's conversation:
 
 
 
 Andy was engaged in a detailed photo review session, providing specific feedback about image quality and requesting modifications. He identified multiple issues including anatomical problems ("This lady has three arms" and "Her head and body is not in the right proportions"), technical concerns about how photos relate to source material, and requested that one arm be removed from a problematic image. His comments suggest he was working with someone who either generates, edits, or manages photos, and he was offering constructive criticism about the results.
 
-
-### 3. Andy's reaction to news events (7:47 PM – 7:59 PM)
+#### Andy's reaction to news events (7:47 PM – 7:59 PM)
 Andy and Andrea engaged in casual conversation while watching TV news coverage. They discussed several current events including the Tate Brothers' arrest and potential extradition to England, with both expressing concerns about people who "flaunt the rules." Andy cautioned Andrea about a Taylor Farms lettuce recall, advising against purchasing their products. They also watched coverage of severe weather affecting Florida and preparing to hit the Northeast, along with other breaking news stories including a home invasion incident and a boat crash at a dock. Andy asked Andrea about recommended coffee consumption, suggesting 3-5 eight-ounce cups (400mg caffeine) as a healthy amount. Andrea brought Andy tea during the conversation, suggesting a caring domestic interaction. The conversation concluded naturally as one of them needed to leave.
 
-- **Atmosphere**:
+# Atmosphere
 The atmosphere appears relaxed and conversational, with Andy and Andrea enjoying a typical evening together watching news. Their exchanges are matter-of-fact with shared concern about current events, mixed with personal care (Andrea bringing tea) and practical questions (coffee consumption advice).
 
 # Key Take aways
@@ -263,7 +132,7 @@ The atmosphere appears relaxed and conversational, with Andy and Andrea enjoying
 # Action items
 *No specific action items identified in this conversation*
 
-
+---
 
 ## 🗣️ Personal Monologues & Direct Thoughts
 #### Standing Up Against Injustice (8:48 AM – 9:10 AM)
@@ -350,4 +219,4 @@ The atmosphere appears relaxed and conversational, with Andy and Andrea enjoying
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-21 06:21:38*
+*Report automatically generated on 2026-08-22 06:21:05*

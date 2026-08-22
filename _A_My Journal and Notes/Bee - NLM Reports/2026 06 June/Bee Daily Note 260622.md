@@ -50,51 +50,38 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Home tour for 1440 Ramona**
-- **Mattress Shopping with Spouse**
-- **Organizing documents and supporting daughter**
-- **Moving plans and housing search**
-- **Moving and life changes discussion**
-- **House hunting and childhood trauma**
-- **Housing Search Stress Discussion**
-- **House hunting with partner**
+- **Home tour for 1440 Ramona**: Recorded and processed during today's transcript sessions.
+- **Mattress Shopping with Spouse**: Recorded and processed during today's transcript sessions.
+- **Organizing documents and supporting daughter**: Recorded and processed during today's transcript sessions.
+- **Moving plans and housing search**: Recorded and processed during today's transcript sessions.
+- **Moving and life changes discussion**: Recorded and processed during today's transcript sessions.
+- **House hunting and childhood trauma**: Recorded and processed during today's transcript sessions.
+- **Housing Search Stress Discussion**: Recorded and processed during today's transcript sessions.
+- **House hunting with partner**: Recorded and processed during today's transcript sessions.
 
 ---
 
-# 📖 Activity Details
----
-
-## 🌅 Morning Activity Details
-
-### 1. Home tour for 1440 Ramona (11:17 AM – 11:26 AM)
+## 📖 Detailed Subject Matter
+#### Home tour for 1440 Ramona (11:17 AM – 11:26 AM)
 Andy was watching or listening to a real estate listing video for a property at 1440 Ramona Lane in Petaluma, California. The video featured a virtual tour of a three-bedroom, one-bathroom home with new paint, plank vinyl flooring, a semi-finished garage with door opener and backyard access, and a living room with kitchen access. The property is located near Dow Boulevard with convenient access to shopping, Highway 101, and schools. This was background media consumption, not an active conversation.
 
-
-## ☀️ Afternoon Activity Details
-
-### 1. Mattress Shopping with Spouse — 📍 Leave for Mancini's Sleep World @ 620 Francisco Blvd E, San Rafael, CA 94901, USA (3:12 PM – 4:01 PM)
+#### Mattress Shopping with Spouse — 📍 Leave for Mancini's Sleep World @ 620 Francisco Blvd E, San Rafael, CA 94901, USA (3:12 PM – 4:01 PM)
 *Context / Event Alignment*: Overlaps with scheduled Calendar event **Leave for Mancini's Sleep World** @ 620 Francisco Blvd E, San Rafael, CA 94901, USA.
 
 Andy and Andrea visited Mancini's Sleep World in San Rafael to shop for a new mattress. They worked with a salesperson named Jason to evaluate options, ultimately selecting a queen mattress with adjustable base for approximately $2,000. Andy shared his history of developing frozen shoulder from memory foam mattresses, which influenced their preference for firmer options. They discussed bed height concerns due to aging and camping-related mobility needs, and arranged delivery timing around Andy's Wednesday 2pm commitment and Thursday video conferencing schedule. After leaving the store, Andy and Andrea discussed their ongoing housing search, with Andy expressing strong preference for a place in a forested, secluded environment and planning to give notice to their current Edgewater residence.
 
-
-### 2. Organizing documents and supporting daughter (4:07 PM – 5:17 PM)
+#### Organizing documents and supporting daughter (4:07 PM – 5:17 PM)
 Andy spent time organizing documents and boxes at home with Andrea, going through wedding paperwork from 2015 and discovering their marriage certificate situation needed clarification—Judge Jack had certified them but they weren't sure if they had properly filed for the license at City Hall. They discussed their upcoming move to Petaluma, planning furniture layout for the new apartment, measuring bed heights, and scheduling a storage unit visit for Friday. Andy also had an emotional phone call with his daughter Ryan, who was flying to LA to enter a 90-day program at ABC Recovery Center (which Andrea was simultaneously researching). Andy emphasized "sobriety first," warning Ryan that her addiction was a disease that wanted to kill her and that one drink could trigger a full relapse. He also mentioned he planned to unfriend/block Jamers on social media due to concerning posts. Andy took a brief call from a rental property they had already rejected. He and Andrea finalized their decision on the Petaluma apartment, acknowledging it wasn't perfect (no third bedroom, some parking constraints) but that they needed to stop escalating their budget. They discussed amenities like the 24/7 gym, pool, and basketball court. Andy also asked an AI assistant about space planning software for the new place.
 
-
-## 🌙 Evening Activity Details
-
-### 1. Moving plans and housing search (5:20 PM – 5:58 PM)
+#### Moving plans and housing search (5:20 PM – 5:58 PM)
 Andy was in a casual household conversation with his partner and Andrea, discussing their upcoming move and various logistics. The conversation covered multiple threads: Andy's belated Father's Day text to Duncan (who is camping at McCloud with family), housing search frustrations including outdated rental listings and calling landlords directly, and moving preparations including bed delivery scheduled for Wednesday and a target move date around the 17th. They discussed packing strategies, concerns about mold in the new space requiring protective gear, and coordinating with their current landlord (EAH) about prorated rent and overlapping days. Andy shared memories of commuting with Tim Bohan—driving him when Tim's license was suspended, then discovering Tim was driving illegally anyway. The group also joked about getting a pet for the new place, with mentions of a therapy cat or "little loodle."
 
-
-### 2. Moving and life changes discussion — 📍 Audel & Andy SDRT (6:33 PM – 7:12 PM)
+#### Moving and life changes discussion — 📍 Audel & Andy SDRT (6:33 PM – 7:12 PM)
 *Context / Event Alignment*: Overlaps with scheduled Calendar event **Audel & Andy SDRT**.
 
 Andy had a Google Meet video call with Audel Salazar, catching up after some time apart. They spent the first several minutes troubleshooting audio issues with headsets and microphones before the call stabilized. Andy shared that he and Andrea are moving from Larkspur to Petaluma—specifically to an area called The Grove, about 25 miles north. He described it as a more multicultural and liberal area compared to their current neighborhood, with amenities including a gym, four pools, tennis courts, and proximity to nature and bird habitats. They'll have redwood trees nearby, indicating coastal fog influence. Andy mentioned they just bought a new bed and he's facing the challenge of moving after 18 years in one place, noting he can't do the physical moving alone like he used to. The conversation shifted to parenting philosophy, comparing their own childhoods—characterized by freedom, minimal supervision, and "being raised by wolves"—to modern intensive parenting with online grade portals, scheduled activities, and constant monitoring. Andy reflected on how gender roles have reversed, with his son taking on more childcare than the mother, and how economic pressures now require dual incomes. They discussed "re-parenting" oneself and recognizing generational patterns in their own parenting. The call ended somewhat abruptly as Audel needed to leave after about 15 minutes.
 
-
-### 3. House hunting and childhood trauma — 📍 Audel & Andy SDRT (7:23 PM – 8:52 PM)
+#### House hunting and childhood trauma — 📍 Audel & Andy SDRT (7:23 PM – 8:52 PM)
 *Context / Event Alignment*: Overlaps with scheduled Calendar event **Audel & Andy SDRT**.
 
 Andy spent time with Andrea actively house-hunting in the Sonoma/Napa area, reviewing rental listings on Zillow, measuring floor plans, and discussing furniture placement and consolidation. They evaluated multiple properties including a place on Ramona Lane and options in Penngrove, prioritizing flood zone safety, commute feasibility, and staying within their $3,000/month budget. Andy used a flood zone app to check properties and noted their current location is in a hazard zone requiring flood insurance, while a potential new location was in a 500-year flood zone—much safer.
@@ -103,15 +90,13 @@ Interwoven with the housing search, Andy shared deeply personal childhood trauma
 
 Andy also confirmed upcoming meeting schedules with his sponsee Audel—they're meeting June 6th, skipping the following week, meeting the week of July 4th, then off for two weeks, resuming July 20th. He mentioned having an abdominal aortic aneurysm (AAA) scan scheduled.
 
-
-### 4. Housing Search Stress Discussion (8:56 PM – 9:21 PM)
+#### Housing Search Stress Discussion (8:56 PM – 9:21 PM)
 Andy and Andrea discussed their ongoing housing search, focusing on affordability constraints and storage needs. They have an application pending on a property but are struggling to find places within budget. Andy noted an open house for a "Ramona place" tomorrow at 4:30 PM, which he had previously mentioned he'd need to pick Andrea up from work to attend. They debated whether to continue searching through December or shelve the hunt temporarily, with tension emerging around space requirements—Andrea wanting room for her practice/gym equipment, Andy concerned about fitting bookcases and his desk/music setup. They discussed putting items in storage and rearranging existing space. Andy expressed frustration with the endless search process and wanting to avoid stress. Andrea acknowledged they don't make enough money to afford what they want without depleting savings, which is risky at their life stage. They agreed to visit the Ramona property tomorrow and decide from there. Andy also mentioned concerns about flooding at their current home, referencing recent high tide, storm surge, and rain events.
 
-
-### 5. House hunting with partner (9:42 PM – 10:12 PM)
+#### House hunting with partner (9:42 PM – 10:12 PM)
 Andy and his partner Andrea were reviewing rental property listings together, discussing potential homes at "Fifty Tamil Road" and "Forest Grove/Forest Knolls." They examined photos and floor plans, focusing on whether their existing furniture would fit, particularly in living rooms with fireplaces that take up entire walls. They considered alternatives including asking about units without fireplaces or opting for a flat layout instead. They scheduled a Thursday afternoon viewing and discussed the need to consolidate belongings and potentially get a new bed. Andy also reacted to NBA trade news he was watching/reading, mentioning Bam Adebayo to the Heat, Bobby Portis, Cam Reddish to Atlanta, and Miami trading "our whole team."
 
-
+---
 
 ## 🗣️ Personal Monologues & Direct Thoughts
 #### Organizing documents and supporting daughter (4:07 PM – 5:17 PM)
@@ -208,4 +193,4 @@ Andy and his partner Andrea were reviewing rental property listings together, di
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-21 06:18:52*
+*Report automatically generated on 2026-08-22 06:18:21*

@@ -19,7 +19,7 @@ To be understood... as to understand.
 To be loved... as to love
 For:
 It is in giving... that we are receive.
-It is in perdoning... that we are pardoned
+It is in pardoning... that we are pardoned
 It is in dying... that we are born to eternal life
 
 ![[15c554a6da1.ae75a419c2da0197.jpg]]

@@ -39,157 +39,31 @@ tags:
 ---
 
 ## 🌅 Your Day Ahead Email Brief
-- **Subject**: `💌 Your Day Ahead 08/15/2026`
+- **Subject**: `💌 Your Day Ahead 08/15/2026` (7:03 AM)
 
-...
-
----
-CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact labs-cc-support@google.com or disconnect here: https://myaccount.google.com/connections#:~:text=CC
- 
- 👋 Happy Saturday, Andy! Here's your daily brief. 
- ✉️ Reply for updates or corrections 
-
- Top of mind 
- 
-    5 min  A monthly insurance payment of $275.02 for Ronald McGuire is scheduled for automatic withdrawal today, Saturday August 15th, from the debit card ending in 6681 [🔗  View billing info ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873434683643479102).
-   
-     Associated with State Farm Billing Account #1182-5264-02. 
-    
-    5 min  Verify your 'Send to Kindle' request for sparkyflashrebob@kindle.com. Amazon received this request on Friday, August 14th, and you must click the verification link within 48 hours to ensure delivery [🔗  Verify request ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873536465563454309) [📅  Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Reminder%3A+Kindle+Verification+Deadline&dates=20260816T100000%2F20260816T110000&ctz=America%2FLos_Angeles&details=Verify+your+%27Send+to+Kindle%27+request+for+sparkyflashrebob%40kindle.com.+Amazon+received+this+request+on+Friday%2C+August+14th.&location=Online&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com). 
-    15 min  Renew your Zoom paid subscription to prevent the permanent deletion of your Cloud Recordings on Saturday, August 22nd. The subscription expired on July 23rd [🔗  Renew subscription ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871491449104332815) [📅  Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Reminder%3A+Renew+Zoom+Subscription&dates=20260822T090000%2F20260822T100000&ctz=America%2FLos_Angeles&details=Renew+your+Zoom+paid+subscription+to+prevent+the+permanent+deletion+of+your+Cloud+Recordings.&location=Online&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com). 
-    15 min  View and reply to a new secure message from your Kaiser Permanente care team received on Friday, August 14th [🔗  Kaiser Portal ](https://kp.org/newmessage). 
-   Today •  Arlo Valencia-McGuire's birthday  (All day) [📅  View event ](https://www.google.com/calendar/event?eid=Y29xM2NjaG02b3BqZWJiMmNoaWpjYjlrNjRxM2liYjFja3FqMGJiNDY5aDY4cGI2NmdvNjhlMzU2OF8yMDI2MDgxNSBzcGFya3lmbGFzaHJlYm9iQG0&ctz=America/Los_Angeles). 
-   Today •  Raiders Training Camp  (All day) [📅  View event ](https://www.google.com/calendar/event?eid=MTJrNHNnMXMyZ2VrcWthMnU3cmw3djE4N3Ygc3Bhcmt5Zmxhc2hyZWJvYkBt&ctz=America/Los_Angeles).
-   
-     Ongoing through Sunday, August 30th. 
-    
-   Today •  Abhayagiri Thanksgiving Retreat Announcement  (All day) [📅  View details ](https://www.google.com/calendar/event?eid=Nm5kNWhoYWp1NTBobnZsbzBsYWUxNWVjNXMgc3Bhcmt5Zmxhc2hyZWJvYkBt&ctz=America/Los_Angeles).
-   
-     Registration for the retreat is now open. 
-    
-   Today • 9:30 AM •  Consider: Spirit Rock Poetry Day  (7h) at Spirit Rock Meditation Center, 5000 Sir Francis Drake Blvd, Woodacre, CA 94973 [🔗  Register ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871544828640250331) [🔗  Map ](https://www.google.com/maps/search/?api=1&query=5000+Sir+Francis+Drake+Blvd%2C+Woodacre%2C+CA+94973) [📅  Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Spirit+Rock+Poetry+Day&dates=20260815T093000%2F20260815T163000&ctz=America%2FLos_Angeles&details=Theme%3A+%27The+Harshness+and+Softness+of+the+World%27%2C+led+by+Phillip+Moffitt.+Participants+will+read+selected+poems+to+each+other+as+part+of+the+meditation+practice.&location=5000+Sir+Francis+Drake+Blvd%2C+Woodacre%2C+CA+94973&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com).
-   
-     Theme: 'The Harshness and Softness of the World', led by Phillip Moffitt. Participants will read selected poems to each other as part of the meditation practice. 
-    
-   Today • 11:30 AM •  Living Transmission of Love from the Other Side  (1h 30m) Online via Zoom [🔗  Join meeting ](https://app.acuityscheduling.com/schedule.php?owner=12569473&action=zoom&uniqueID=2c7d9813bd2115c2998d94866dc3e591&ownerID=12569473).
-   
-     Preparation: Create a quiet space with a blanket, pillow, and eye covering for the 30-minute meditation portion. 
-     Facilitated by Robin Aisha Landsong. Donations are welcome. 
-    
-   Today • 7:00 PM •  Saturday Night Puja  (2h) [📅  View event ](https://www.google.com/calendar/event?eid=NjVpamNvcGc2Y3BqZWI5ZzcwcG1hYjlrNzRwajRiYjFjNWdtNDY5Z2NwaTYyZTMxY2NwNjJjMW1jZ18yMDI2MDgxNlQwMjAwMDBaIHNwYXJreWZsYXNocmVib2JAbQ&ctz=America/Los_Angeles). 
-   The second anniversary of #BeBraveDay is today, Saturday August 15th [🔗  See details ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872424803496189828).
-   
-     Community groups organized by Visibility Brigade will converge on bridges and overpasses across the nation to show solidarity. 
-      Nearby action:  Bridge visibility at I-80 Richmond overpass [🔗  Learn More ](https://indivisibleeb.org/event/be-brave-day-overpass-visibility-brigade-action-i-80-richmond/). 
-    
-   Updates on recent orders and payments from Friday, August 14th.
-   
-      Pacific Catch:  Payment of $65.02 processed for Order #199 at the Corte Madera location [🔗  View receipt ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873553296574795778) [🔗  Map ](https://www.google.com/maps/search/?api=1&query=Pacific+Catch%2C+Corte+Madera%2C+CA). 
-      Ugift 529:  A gift request is currently processing. Funds will post to the account within five business days once received [🔗  Check status ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873532426100737689). 
-      Amazon:  Order #D01-0237656-2499411 placed for the Kindle edition of 'The Terrible Paradox of Self-Awareness' [🔗  View order ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873569702348144897). 
-      MilitaryKart:  Order #50527 placed for a Solar-USB Dual Charger ($40.98), shipping to your Larkspur home [🔗  View confirmation ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873551144265779223) [🔗  Map ](https://www.google.com/maps/search/?api=1&query=326+Larkspur+Plaza+Dr%2C+Larkspur%2C+CA+94939). 
-    
-   Summary of research and articles shared on Friday, August 14th.
-   
-      Cat Behavior:  Research on cat play habits from The Conversation [🔗  Read more ](https://share.google/wHGeg9K23DjEkhI7M). 
-      Stoicism:  A quote from Marcus Aurelius on the nature of loss and change [🔗  View quote ](https://share.google/1mpE0qIYAwQsT4ll4). 
-      Waymo:  News regarding the approved expansion of Waymo services in the Bay Area [🔗  Read news ](https://share.google/GWoApu6cssSx8L6sb). 
-      Robin Landsong Film:  The film 'A Return to Belonging: Veterans Healing Trauma through Singing Medicine' has been released [🔗  Watch on YouTube ](https://www.youtube.com/watch?v=CU2QAuKxRro). 
-    
- 
-
- FYI 
- 
-   Sun, Aug 16 •  Lanterns Premiere on HBO  (All day) [📅  View event ](https://www.google.com/calendar/event?eid=NXJma2U4aXNmdmtmaWtpM2NuZWYzZzZxbnQgc3Bhcmt5Zmxhc2hyZWJvYkBt&ctz=America/Los_Angeles). 
-   Sun, Aug 16 • 9:30 AM •  930AM Meeting  (1h) [📅  View event ](https://www.google.com/calendar/event?eid=YzhyajJvOWs2aGkzOGJiMWNvc21hYjlrNzFoNjhiOW82OHJtY2I5bDYwczM0ZDM0Y2dxajRvaGc2c18yMDI2MDgxNlQxNjMwMDBaIHNwYXJreWZsYXNocmVib2JAbQ&ctz=America/Los_Angeles). 
-   Sun, Aug 16 • 5:00 PM •  Living Mindfully Meditation Group Meeting  (1h 30m) [✨  Join meeting ](https://meet.google.com/oxf-rdfm-kmn).
-   
-     Theme: Examining internal dialogue and how commentary on experience often serves as the root of suffering. Facilitated online via Google Meet. 
-    
-   Consider pre-ordering the Kindle release 'Still Ambitious' by Todd Perelmuter, available on Sun, Aug 16th for $0.99 [🔗  View on Amazon ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873557889243684374) [📅  Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Reminder%3A+Pre-order+%27Still+Ambitious%27&dates=20260816T110000%2F20260816T120000&ctz=America%2FLos_Angeles&details=Pre-order+the+Kindle+release+%27Still+Ambitious%27+by+Todd+Perelmuter%2C+available+for+%240.99.&location=Online&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com). 
-   Upcoming deadlines for the Spirit Rock Labor Day Insight Retreat (Sep 2-7).
-   
-      Wed, Aug 19:  Final deadline for any remaining unpaid balances [🔗  View retreat info ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873365599884191342) [📅  Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Reminder%3A+Spirit+Rock+Retreat+Balance+Due&dates=20260819T090000%2F20260819T100000&ctz=America%2FLos_Angeles&details=Final+deadline+for+any+remaining+unpaid+balances+for+the+Spirit+Rock+Labor+Day+Insight+Retreat.&location=Online&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com). 
-     Note: Your required questionnaire and headshot were successfully completed on August 6th. 
-    
-   Sat, Aug 22 • 5:00 PM •  First VQ Prep Meeting  (1h 30m) at the Larkspur Plaza home [✨  Join online ](https://meet.google.com/nqh-jmxe-iev) [🔗  Map ](https://www.google.com/maps/search/?api=1&query=326+Larkspur+Plaza+Dr%2C+Larkspur%2C+CA+94939).
-   
-     Organized by Andrea Axtell for retreat preparation. 
-    
- 
-
- CC Calendar Updates 
- 
-   Updated:  Living Transmission of Love from the Other Side  — August 15, 2026 11:30am PT · [🔗  Source email ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873548266048147672) · [📅  View event ](https://www.google.com/calendar/event?eid=b3VoMWZxYm5rdDdsYmxqOWMyODBramgyM28gOWNlMWM5MDAyM2U4ZjI5MmZjMTEwNzRlNzZkOTQ3MWYzZmJlOWQxNDVjYjk0OWQ4MDY0NWM2ZDYwZjBlOGQyNUBn)
-   
-     New location: Online via Zoom 
-     Event details updated 
-    
- 
-
- Have a wonderful day! 
-
-
-
-
-
-  
-     
-     
-     
-       
-         
-       
-       
-         CC - Google Labs 
-         
-          [sparkyflashrebob+cc@gmail.com](mailto:sparkyflashrebob+cc@gmail.com)
-         
-       
-     
-   
-  
-   
-   
-     💬 What do you think about this email? 
-     
-      [👍 ](https://docs.google.com/forms/d/e/1FAIpQLSfGPGkFp-YwBA_vcSLpUqSo9glbxn-0rKy8i3O2hUhl9IS_Xg/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8D+Useful)
-      [👎 ](https://docs.google.com/forms/d/e/1FAIpQLSfGPGkFp-YwBA_vcSLpUqSo9glbxn-0rKy8i3O2hUhl9IS_Xg/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8E+Not+useful)
-     
-     
-      🔬 Want to help improve CC further? [Sign up for user research opportunities](https://forms.gle/mSZLnsScUpa9i42b7).
-     
-   
-  
-   
-   
-    CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact [labs-cc-support@google.com](mailto:labs-cc-support@google.com) or disconnect [here](https://myaccount.google.com/connections#:~:text=CC).  Known issue: 🔗 source links do not always work on mobile.
+> ...
+> 
+> ---
+> CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact labs-cc-support@google.com or disconnect here: https://myaccount.google.com/connections#:~:text=CC
 
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Mindfulness and Ethical Living Discussions**
-- **Meditation practice and spiritual guidance**
-- **Phone-Watch Sync Settings Issues**
-- **Profile configuration troubleshooting session**
-- **Galaxy Watch Recording System Troubleshooting**
-- **Audio Recording Setup and Query**
-- **AI transcription conversation misidentification issues**
+- **Mindfulness and Ethical Living Discussions**: Recorded and processed during today's transcript sessions.
+- **Meditation practice and spiritual guidance**: Recorded and processed during today's transcript sessions.
+- **Phone-Watch Sync Settings Issues**: Recorded and processed during today's transcript sessions.
+- **Profile configuration troubleshooting session**: Recorded and processed during today's transcript sessions.
+- **Galaxy Watch Recording System Troubleshooting**: Recorded and processed during today's transcript sessions.
+- **Audio Recording Setup and Query**: Recorded and processed during today's transcript sessions.
+- **AI transcription conversation misidentification issues**: Recorded and processed during today's transcript sessions.
 
 ---
 
-# 📖 Activity Details
----
-
-## 🌅 Morning Activity Details
-
-### 1. Mindfulness and Ethical Living Discussions (9:37 AM – 11:23 AM)
+## 📖 Detailed Subject Matter
+#### Mindfulness and Ethical Living Discussions (9:37 AM – 11:23 AM)
 This conversation involves Andy engaging in a multi-topic discussion with Jon and other speakers covering health challenges, technical issues, financial planning, and philosophical explorations. Andy shares his experiences with a failed automated report system, discusses a book about self-awareness and suffering, expresses concerns about surveillance technology, recounts a vivid dream, and explores financial management strategies including credit card consolidation and investment accounts.
 
-
-## ☀️ Afternoon Activity Details
-
-### 1. Meditation practice and spiritual guidance — 📍 Living Transmission of Love from the Other Side (Robin's Calendar) @ Click to join meeting: https://app.acuityscheduling.com/schedule.php?owner=12569473&action=zoom&uniqueID=2c7d9813bd2115c2998d94866dc3e591&ownerID=12569473 (1:05 PM – 2:01 PM)
+#### Meditation practice and spiritual guidance — 📍 Living Transmission of Love from the Other Side (Robin's Calendar) @ Click to join meeting: https://app.acuityscheduling.com/schedule.php?owner=12569473&action=zoom&uniqueID=2c7d9813bd2115c2998d94866dc3e591&ownerID=12569473 (1:05 PM – 2:01 PM)
 *Context / Event Alignment*: Overlaps with scheduled Calendar event **Living Transmission of Love from the Other Side (Robin's Calendar)** @ Click to join meeting: https://app.acuityscheduling.com/schedule.php?owner=12569473&action=zoom&uniqueID=2c7d9813bd2115c2998d94866dc3e591&ownerID=12569473.
 
 # Meditation Practice and Spiritual Teaching
@@ -197,15 +71,14 @@ This conversation involves Andy engaging in a multi-topic discussion with Jon an
 
 Andy engaged in a deep discussion about meditation techniques and spiritual practice, sharing insights about his evolved approach to mindfulness. He described moving away from trying to force or conjure specific states during meditation, instead focusing on simply being present with breath awareness. This shift has led to more natural development of concentration and the arising of positive mental factors like sukha (happiness) and first absorption states. Andy also recounted a profound vision where he was transported by spiritual guides on a giant bird, experienced intense chakra activations, and received guidance about staying on his spiritual path and maintaining pure intentions in service to others.
 
-
-### 2. Phone-Watch Sync Settings Issues (2:02 PM – 2:16 PM)
+#### Phone-Watch Sync Settings Issues (2:02 PM – 2:16 PM)
 Andy is experiencing technical difficulties with device synchronization and audio recording app connectivity. He's troubleshooting issues with his phone and watch not syncing properly, while also grappling with confusion about folder organization for file transfers. The conversation centers on his attempts to resolve these technical problems and test automatic transfer functionality.
 
-- **Atmosphere**:
+# Atmosphere
 
 Frustrated and methodical, Andy is working through technical problems systematically while expressing confusion about the current setup. He's in problem-solving mode, narrating his actions as he tests different settings and procedures.
 
-- **Key Takeaways**:
+# Key Takeaways
 
 - Andy is experiencing connectivity issues with his audio recording app and nearby devices settings
 - Phone-to-watch synchronization has stopped working despite settings being enabled
@@ -214,22 +87,21 @@ Frustrated and methodical, Andy is working through technical problems systematic
 - Has a Raiders Training Camp event scheduled for late July through August 2026
 - Has accepted invitations for Arlo Valencia-McGuire's birthday (August 15, 2011) and Thanksgiving Retreat 2026 announcement
 
-- **Action Items**:
+# Action Items
 
 - Determine optimal folder structure for device syncing
 - Test automatic transfer functionality at 2:09
 - Investigate phone/watch pairing and synchronization settings
 - Resolve audio recording app connectivity issues with nearby devices
 
-
-### 3. Profile configuration troubleshooting session (2:23 PM – 2:41 PM)
+#### Profile configuration troubleshooting session (2:23 PM – 2:41 PM)
 Andy engaged in a brief conversation about task management profiles, seeking clarification about two automated profiles: "hourly engine" and "watch recording" with specific timing parameters (7 AM to 11 PM). He expressed confusion about which tasks to keep and how to properly configure the profiles after encountering errors following the deletion of his hourly loop profile.
 
-- **Atmosphere**:
+# Atmosphere
 
 The conversation was brief and technical, with Andy showing some frustration about configuration issues while the unknown speaker provided minimal, direct responses.
 
-- **Key Takeaways**:
+# Key Takeaways
 
 - Andy has two task profiles that need clarification: "hourly engine" and "watch recording"
 - The hourly engine is currently set from 5:59 AM to 10:59 PM but is turned off
@@ -238,31 +110,28 @@ The conversation was brief and technical, with Andy showing some frustration abo
 - The watch recording profile timing (7 AM to 11 PM) is unclear to him
 - He appears to be working with some kind of automated task or monitoring system
 
-- **Action Items**:
+# Action Items
 
 - Resolve profile configuration conflicts between "hourly engine" and "watch recording"
 - Determine proper timing settings for the five tasks Andy manages
 - Fix errors resulting from the deletion of the hourly loop profile
 
-
-### 4. Galaxy Watch Recording System Troubleshooting (2:42 PM – 3:57 PM)
+#### Galaxy Watch Recording System Troubleshooting (2:42 PM – 3:57 PM)
 # Watch Audio Recording System Troubleshooting
 
 
 Andy spent this session troubleshooting technical issues with his watch-based audio recording system. He was working to diagnose problems with automated task scheduling, button controls (green for start, red for stop), and sync functionality between his watch and phone. The session involved extensive testing of recording profiles, manual button activation, and examining task configurations to resolve issues with the auto-start recording functionality.
 
-
-### 5. Audio Recording Setup and Query (3:59 PM – 4:09 PM)
+#### Audio Recording Setup and Query (3:59 PM – 4:09 PM)
 Andy was having a conversation about his phone's audio recording settings and inquired about the status of a work project called "Ajan Somato transcriptions and synthesis." He was troubleshooting his phone's audio recorder app that apparently activates at 3:59 AM, expressing concern about battery life since the phone wasn't charging properly. He planned to adjust the settings from "wake up" mode to automatic mode. The conversation shifted to work matters when Andy asked Jon for an update on a specific project.
 
-
-### 6. AI transcription conversation misidentification issues (4:10 PM – 5:16 PM)
+#### AI transcription conversation misidentification issues (4:10 PM – 5:16 PM)
 - Andy
 
 
 Andy spent this day addressing multiple technical challenges with his conversation transcription and reporting systems, while coordinating several personal and retreat-related activities. He dealt with algorithmic misidentification issues where his AI transcription was incorrectly flagging simple conversations with his wife Andrea as collaborative work. He also worked on applications for the upcoming Thanksgiving retreat, needing physical supplies like envelopes for check submission. Throughout conversations with various contacts including someone named Jon, he discussed his active retirement life filled with meditation groups, website work, journaling projects, and writing aspirations.
 
-
+---
 
 ## 🗣️ Personal Monologues & Direct Thoughts
 #### Mindfulness and Ethical Living Discussions (9:37 AM – 11:23 AM)
@@ -352,4 +221,4 @@ Andy spent this day addressing multiple technical challenges with his conversati
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-21 06:24:25*
+*Report automatically generated on 2026-08-22 06:23:51*

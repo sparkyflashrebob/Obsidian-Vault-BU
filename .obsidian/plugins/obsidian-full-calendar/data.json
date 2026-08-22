@@ -1,0 +1,21 @@
+{
+  "calendarSources": [
+    {
+      "type": "local",
+      "color": "#332828",
+      "directory": "/"
+    },
+    {
+      "type": "ical",
+      "color": "#21157f",
+      "url": "https://calendar.google.com/calendar/ical/sparkyflashrebob%40gmail.com/private-c4d1888c64c01b612453a2de6078f4f0/basic.ics"
+    }
+  ],
+  "defaultCalendar": 0,
+  "firstDay": 0,
+  "initialView": {
+    "desktop": "timeGridWeek",
+    "mobile": "timeGrid3Days"
+  },
+  "timeFormat24h": false
+}

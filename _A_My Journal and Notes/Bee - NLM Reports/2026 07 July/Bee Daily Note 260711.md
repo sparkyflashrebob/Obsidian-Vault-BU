@@ -56,36 +56,32 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Website creation customer service call**
-- **Finding free web hosting alternatives**
-- **Website setup and food cleanup**
-- **Website Development Session**
-- **Website deployment troubleshooting using GitHub**
-- **Website design and updates session**
-- **Technical blog setup session**
-- **Remove blogs, update FAQ info**
-- **Argentina vs. Switzerland Commentary**
-- **Technical work loss recovery**
+- **Website creation customer service call**: Recorded and processed during today's transcript sessions.
+- **Finding free web hosting alternatives**: Recorded and processed during today's transcript sessions.
+- **Website setup and food cleanup**: Recorded and processed during today's transcript sessions.
+- **Website Development Session**: Recorded and processed during today's transcript sessions.
+- **Website deployment troubleshooting using GitHub**: Recorded and processed during today's transcript sessions.
+- **Website design and updates session**: Recorded and processed during today's transcript sessions.
+- **Technical blog setup session**: Recorded and processed during today's transcript sessions.
+- **Remove blogs, update FAQ info**: Recorded and processed during today's transcript sessions.
+- **Argentina vs. Switzerland Commentary**: Recorded and processed during today's transcript sessions.
+- **Technical work loss recovery**: Recorded and processed during today's transcript sessions.
 
 ---
 
-# 📖 Activity Details
----
-
-## 🌅 Morning Activity Details
-
-### 1. Website creation customer service call (7:11 AM – 8:28 AM)
+## 📖 Detailed Subject Matter
+#### Website creation customer service call (7:11 AM – 8:28 AM)
 This conversation captures a multi-faceted day for Andy involving personal health discussions, creative content exploration, and practical website management. The day began with conversations about wellness practices and physical symptoms, including neck pain and dietary recommendations. Andy discussed his health history, including quitting smoking around 2005-2007 and subsequent developments like penicillin allergies.
 
 The conversation shifted to content creation and media consumption, with Andy analyzing Bill Burr comedy routines and noting the trend of content creators "regurgitating" existing material through reaction videos and commentary rather than original creation. He expressed interest in developing his own counter-narrative content to add different perspectives to public discourse.
 
 A significant portion was dedicated to practical website management, where Andy engaged with a hosting service representative about his domains "HeadHeartTogether" and "Dragonfly Lodge Healing Arts." Given his fixed Social Security income, he was carefully weighing the $120/year hosting costs against potential free alternatives, ultimately deciding to research cheaper options while considering the logistical challenges of managing domains and hosting separately.
 
-- **Atmosphere**:
+# Atmosphere
 
 The tone was conversational and practical, balancing personal reflections with problem-solving discussions. There was noticeable frustration when encountering technical limitations and cost barriers, balanced with philosophical observations about media consumption and content creation ethics. The website discussion revealed Andy's prudent approach to spending decisions on a fixed income.
 
-- **Key Takeaways**:
+# Key Takeaways
 
 - Andy experienced neck pain and discussed the importance of dietary adjustments during periods of not feeling well
 - He reflected on his fitness history, noting how regular activity creates both physical and mental attunement
@@ -95,46 +91,39 @@ The tone was conversational and practical, balancing personal reflections with p
 - Health discussions included personal history with smoking cessation and subsequent allergic reactions
 - Andy expressed interest in developing original content that offers alternative perspectives to mainstream narratives
 
-- **Action Items**:
+# Action Items
 
 - Research free or low-cost website building alternatives to the $120/year hosting option
 - Continue developing original commentary content to share on social media platforms
 - Monitor neck pain and apply wellness strategies discussed during the conversation
 - Consider ways to improve social media engagement beyond current algorithm limitations
 
-
-### 2. Finding free web hosting alternatives — 📍 Larkspur Isle - Water Shut off - Building 9 (9:10 AM – 10:37 AM)
+#### Finding free web hosting alternatives — 📍 Larkspur Isle - Water Shut off - Building 9 (9:10 AM – 10:37 AM)
 *Context / Event Alignment*: Overlaps with scheduled Calendar event **Larkspur Isle - Water Shut off - Building 9**.
 
 Andy engaged in multiple conversations while background media played, focusing on website management and neighborhood concerns. He discussed exploring free web hosting alternatives (GitHub Pages) to avoid paying $120/year for current hosting, planning to rebuild three personal blogs. He also addressed neighborhood flooding issues affecting cars in parking areas and updated cryptocurrency alert settings. The conversation included mixed media content covering travel (Guatemala/Mayan ruins), sports (NBA draft picks), and technology discussions that played in the background.
 
-
-### 3. Website setup and food cleanup — 📍 Larkspur Isle Water Shut-off (Bldg 9) (10:37 AM – 11:11 AM)
+#### Website setup and food cleanup — 📍 Larkspur Isle Water Shut-off (Bldg 9) (10:37 AM – 11:11 AM)
 *Context / Event Alignment*: Overlaps with scheduled Calendar event **Larkspur Isle Water Shut-off (Bldg 9)**.
 
 Andy engaged in multiple conversations covering building renovations, website hosting decisions, and household management tasks. He participated in discussions about commercial building modifications involving structural changes like tearing down walls and floor restructuring. In a separate conversation, he explored website hosting costs, noting that domain registration costs around $15 annually and discussing Google's sale of their domain services to GoDaddy. Later, he handled practical household matters including food storage, sink cleaning issues, and dish washing. The conversation appears to conclude with him listening to web development tutorial content.
 
-
-### 4. Website Development Session — 📍 Larkspur Isle Water Shut-off (Bldg 9) (11:44 AM – 1:32 PM)
+#### Website Development Session — 📍 Larkspur Isle Water Shut-off (Bldg 9) (11:44 AM – 1:32 PM)
 *Context / Event Alignment*: Overlaps with scheduled Calendar event **Larkspur Isle Water Shut-off (Bldg 9)**.
 
 Andy collaborated with Andrea on website development work for her healing arts practice, Dragonfly Healing Arts. The session involved comprehensive editing and restructuring of the existing website template, focusing on branding updates, content modifications, and service pricing adjustments. Key activities included creating a custom dragonfly logo, updating service descriptions for Jin Shin Jyutsu and therapeutic touch treatments, revising pricing structure from $60-70/hour, and preparing the site for GitHub deployment.
 
-
-## ☀️ Afternoon Activity Details
-
-### 1. Website deployment troubleshooting using GitHub (2:21 PM – 2:59 PM)
+#### Website deployment troubleshooting using GitHub (2:21 PM – 2:59 PM)
 Andy was troubleshooting website deployment issues with a companion, working to resolve problems with files not properly publishing to GitHub. They encountered technical difficulties where the website wasn't displaying pages correctly, and were navigating through GitHub Desktop's interface to push changes. Andy was explaining GitHub's function as a global code repository while working through the specific deployment problems they were experiencing.
 
-
-### 2. Website design and updates session (3:01 PM – 3:48 PM)
+#### Website design and updates session (3:01 PM – 3:48 PM)
 Andy spent this session working on website design modifications with a collaborator, while simultaneously handling arrangements for a Labor Day retreat. The main website work focused on implementing his preferred color scheme (described as "terravada colors"), darkening fonts for better visibility, replacing the homepage image with meditation-themed visuals, and transitioning his weekly meeting platform from Zoom to Google Meet. Concurrently, discussions unfolded about a Labor Day retreat where Andy had secured a scholarship, with pricing ranging from $800-3000 (with $1200 as basic rates), leading to financial arrangements where Andrea offered to help cover costs.
 
-- **Atmosphere**:
+# Atmosphere
 
 The atmosphere was collaborative and productive, with Andy taking an active role in directing website changes while engaging in practical personal planning. There was a sense of accomplishment in completing website modifications efficiently, and warmth in the mutual support around retreat arrangements.
 
-- **Key Takeaways**:
+# Key Takeaways
 
 - Andy successfully implemented his preferred color scheme and visual branding on his website
 - Transitioned weekly meeting format from Zoom to Google Meet with new link integration
@@ -144,7 +133,7 @@ The atmosphere was collaborative and productive, with Andy taking an active role
 - Removed several paid service features from website offerings
 - Andrea offered financial assistance for retreat costs as a gesture of support
 
-- **Action Items**:
+# Action Items
 
 - Continue website development and publish with basic changes in place
 - Restore functionality to blog links on the website
@@ -152,31 +141,28 @@ The atmosphere was collaborative and productive, with Andy taking an active role
 - Complete financial arrangements with Andrea for retreat payment
 - Finalize retreat registration with scholarship applied
 
-
-### 3. Technical blog setup session (4:27 PM – 4:37 PM)
+#### Technical blog setup session (4:27 PM – 4:37 PM)
 Andy was working on technical modifications to his personal website, specifically converting page categories from "articles" to "blog" while troubleshooting various technical roadblocks. He was in the process of setting up blog functionality through his Obsidian system and was considering adding a featured calendar for the week. The conversation was interrupted by practical scheduling questions about meal timing around 5 o'clock, with Andy indicating he would pause his technical work to address those needs.
 
-- **Atmosphere**:
+# Atmosphere
 Focused and technical, with Andy concentrated on his computer work while maintaining casual conversation. There was a sense of being in the midst of problem-solving and implementation of website improvements.
 
-- **Key Takeaways**:
+# Key Takeaways
 - Andy successfully updated his website to change "articles" to "blog" in the main navigation
 - He has a new Obsidian workflow for blog creation and publishing that he's testing
 - He's working through various technical challenges with his website setup
 - He had planned to add a featured calendar component but was waiting due to uncertainty about editing app access
 - Meal scheduling was discussed for around 5 o'clock, indicating normal household routine coordination
 
-- **Action Items**:
+# Action Items
 - Complete blog post publishing that was in progress
 - Resolve editing app access issues for future website modifications
 - Address the 5 o'clock meal timing coordination
 
-
-### 4. Remove blogs, update FAQ info (4:37 PM – 4:51 PM)
+#### Remove blogs, update FAQ info (4:37 PM – 4:51 PM)
 Andy provided specific website update instructions to a colleague during a work conversation. He directed the removal of two blogs from an existing page while maintaining placeholder space for future content. On the contact page's FAQ section, he requested updating references from "Zoom session" to "Google Meet session" and provided exact wording for the updated FAQ answer explaining how to join meetings (either through direct calendar links or by emailing for a link). He also addressed questions about service fees, clarifying that all current services are free and funded by someone named Donna, though future consultation fees may be introduced later.
 
-
-### 5. Argentina vs. Switzerland Commentary (4:53 PM – 8:14 PM)
+#### Argentina vs. Switzerland Commentary (4:53 PM – 8:14 PM)
 Andy spent this session engaged in multiple concurrent activities centered around World Cup soccer viewing and technology work. The primary focus was watching Argentina vs Switzerland soccer matches while simultaneously troubleshooting website/blog technical issues. He provided enthusiastic commentary on gameplay, player performances, and match outcomes, particularly noting England's victory over Norway (2-1) with Bellingham scoring twice and discussing potential final matchups.
 
 While watching sports content, Andy worked on resolving DNS configuration and security certificate issues for his website, expressing frustration with the technical complexity but noting success in getting systems working. He utilized Google's AI code generation tools to assist with troubleshooting.
@@ -185,11 +171,11 @@ The session included practical household discussions with Andrea about meal plan
 
 A notable moment was Andy's use of voice commands to control his smart home environment, instructing Google to turn off the television, demonstrating integration of technology into his daily routines.
 
-- **Atmosphere**:
+# Atmosphere
 
 The atmosphere was energetic and multifaceted - a blend of sports enthusiasm, technical focus, and domestic normalcy. Andy displayed typical sports fan reactions with animated commentary on referee calls, player performances, and strategic observations. The tone shifted to focused concentration during technology troubleshooting, then relaxed during casual conversations about food and daily planning.
 
-- **Key Takeaways**:
+# Key Takeaways
 
 - Successfully watched World Cup soccer matches with Argentina vs Switzerland as the main focus
 - Worked through technical challenges with website/blog setup using AI assistance
@@ -198,19 +184,16 @@ The atmosphere was energetic and multifaceted - a blend of sports enthusiasm, te
 - Consumed multiple media streams simultaneously (sports, news, documentaries)
 - Showed particular interest in match analysis and tournament progression predictions
 
-- **Action Items**:
+# Action Items
 
 - Continue monitoring World Cup match outcomes and tournament progression
 - Complete any remaining technical setup for website/blog functionality
 - Plan grocery shopping and meal preparation based on discussed food inventory
 
-
-## 🌙 Evening Activity Details
-
-### 1. Technical work loss recovery (11:03 PM – 11:15 PM)
+#### Technical work loss recovery (11:03 PM – 11:15 PM)
 Andy was working on website improvements, specifically repositioning an events calendar to the top of the site. He experienced significant technical difficulties with content being lost or corrupted during the editing process, requiring him to reconstruct lost work multiple times. He was discussing these challenges with at least one other person during the conversation, ultimately deciding to publish an abbreviated version of the content while he works to resolve the technical issues. The conversation included casual remarks about being tired and some light banter about glasses.
 
-
+---
 
 ## 🗣️ Personal Monologues & Direct Thoughts
 #### Website creation customer service call (7:11 AM – 8:28 AM)
@@ -293,4 +276,4 @@ Andy was working on website improvements, specifically repositioning an events c
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-21 06:20:40*
+*Report automatically generated on 2026-08-22 06:20:08*

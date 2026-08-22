@@ -50,147 +50,44 @@ tags:
 ---
 
 ## 🌅 Your Day Ahead Email Brief
-- **Subject**: `💌 Your Day Ahead 07/19/2026`
+- **Subject**: `💌 Your Day Ahead 07/19/2026` (7:03 AM)
 
-...
-
----
-CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact labs-cc-support@google.com or disconnect here: https://myaccount.google.com/connections#:~:text=CC
- 
- 👋 Happy Sunday, Andy! Here's your daily brief. 
- ✉️ Reply for updates or corrections 
-
- Top of mind 
- 
-    5 min  Verify your UJAM account and support portal access to finalize your setup [🔗  Verify Account ](https://auth0.ujam.com/u/email-verification?ticket=1XS5cvTEjDg08m5uAzjqQNfovYfM3ONk).
-   
-     A separate verification is also required for your anonymous support request [🔗  Verify Support ](https://support.ujam.com/verification/anonymous_request/kSRNo03TNwIl6J5dGaTaCB0wn?locale=1). 
-    
-    10 min  Follow up with Nicole Skibola regarding your Marin DSA fee waiver request to ensure your membership remains active [🔗  View email ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871079756389411387) [✉️  Reply ](mailto:sparkyflashrebob@gmail.com?subject=Re%3A%20Marin%20DSA%20-%20Urgent%20Membership%20Billing%20Issue%20for%20Monthly%20Dues&body=Hi%20Nicole%2C%20thank%20you%20for%20looking%20into%20the%20fee%20waiver%20process%20for%20me.%20Please%20let%20me%20know%20what%20the%20next%20steps%20are%20for%20re-applying.%20Best%2C%20Andy).
-   
-     Nicole is investigating the process for re-applying with a waiver due to your fixed income status. 
-    
-   T-Mobile AutoPay of $71.92 for account ending in 0801 is scheduled to process today using your Visa ending in 6681 [🔗  View bill ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1869623372726038681). 
-   Your $300.00 mobile check deposit for the Bank of America account ending in 0372 is expected to post on Mon, Jul 20 [🔗  View confirmation ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871092588688760757). 
-   Consider your 5:00 PM schedule today, as you have three overlapping commitments and interests.
-   
-      DSA Call:  Socialism and the Black Radical Tradition featuring Cori Bush [✨  Join Zoom ](https://dsausa.zoom.us/w/83208101017?tk=qa_TlVhoD7QjZV_G6Z_uZroEDymMM35hvFVuBQsjwEs.DQkAAAATX5bcmRZwanNRcDhVbVRveWhDTlJmSVZlVy13AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&uuid=WN_eLadiCqjSCuxpfJYWMa6Ew) [📅  View Event ](https://www.google.com/calendar/event?eid=X2M4c2plcXJsZDhzbXVkajNlMHBqMHA5aGQwcjMwcnJhNjFoamlyajVjaG5qY2NqamQ5aDZjZGJhNnBubXVvamFjZ29uMGRqMWR0bDZjb3BwNjByNmFzajI2NWkzYXI5aWVkbm40cGo0ZGMgc3Bhcmt5Zmxhc2hyZWJvYkBt) 
-      Meditation:  Weekly Living Mindfully Council Meeting [✨  Join Meet ](https://meet.google.com/oxf-rdfm-kmn?hs=224) [📅  View Event ](https://www.google.com/calendar/event?eid=cTZtMnZzb2UwaDNoY2wza2R0czQ3cW5scmxfMjAyNjA3MjdUMDAwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0) 
-      Concert:  The Westones performing at Corte Madera Town Park [🔗  View details ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870918013705802430) [📅  Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Concert%3A+The+Westones&dates=20260719T170000%2F20260719T190000&ctz=America%2FLos_Angeles&details=The+Westones+performing+at+Corte+Madera+Town+Park.&location=Corte+Madera+Town+Park%2C+CA&add=) 
-    
- 
-
- On your calendar 
- 
-   Today • 7:00 AM •  Morning Practice Zoom w/ Ed Brown  (1h 15m) [✨  Join Zoom ](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09).
-   
-     Sunday schedule includes a sitting at 7:00 AM, lecture at 7:10 AM, and visiting at 7:55 AM. Use password 'beyond'. 
-    
-   Today • 10:00 AM •  SAN RAFAEL Good Trouble Lives On  (1h 30m) at Marin County Civic Center, 3501 Civic Center Dr, San Rafael, CA 94903 [🔗  View details ](https://www.mobilize.us/john-lewis-actions/event/988292/) [🔗  Directions ](https://www.google.com/maps/search/?api=1&query=Marin+County+Civic+Center%2C+3501+Civic+Center+Dr%2C+San+Rafael%2C+CA%2C+94903).
-   
-     Gather at the free speech area near the first entrance to the farmers market. The event includes music and a 30-minute march through the grounds. 
-    
-   Today • 12:00 PM •  World Cup FINAL  (3h) [📅  View event ](https://www.google.com/calendar/event?eid=MnY1Z2hjZzlkMjVtMjRjN2l1ODFvbWhyaWogc3Bhcmt5Zmxhc2hyZWJvYkBt). 
-   Today • 5:00 PM •  Socialism and the Black Radical Tradition  (1h 30m) featuring Cori Bush and Chris Rabb [✨  Join Zoom ](https://dsausa.zoom.us/w/83208101017?tk=qa_TlVhoD7QjZV_G6Z_uZroEDymMM35hvFVuBQsjwEs.DQkAAAATX5bcmRZwanNRcDhVbVRveWhDTlJmSVZlVy13AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&uuid=WN_eLadiCqjSCuxpfJYWMa6Ew).
-   
-     Webinar ID: 832 0810 1017. Dial-in available at [🔗  +1 507 473 4847 ](tel:+15074734847). 
-    
-   Mon, Jul 20 •  Capri's Birthday  [📅  View event ](https://www.google.com/calendar/event?eid=NjhxM2NvcG82b3JtYWJiNmNjbzZhYjlrY2RpamliOXA2Y3M2NGI5aTcwcjMwZTFuNjRyMzBwOWo2OF8yMDI2MDcyMCBzcGFya3lmbGFzaHJlYm9iQG0). 
-   Mon, Jul 20 • 7:00 AM •  Morning Practice Zoom w/ Ed Brown  (1h 15m) [✨  Join Zoom ](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09).
-   
-     Monday schedule includes free writing at 7:00 AM, a brief talk at 7:15 AM, and sitting at 7:30 AM. 
-    
- 
-
- FYI 
- 
-   Upcoming community and social events for the week ahead.
-   
-      HOA Meeting:  The Larkspur Isle Open Board Meeting is scheduled for Wed, Jul 22 at 6:30 PM via Zoom. [🔗  View update ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870710632786265529) [📅  Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Larkspur+Isle+HOA+Open+Board+Meeting&dates=20260722T183000%2F20260722T200000&ctz=America%2FLos_Angeles&details=Open+Board+Meeting+via+Zoom.&location=Zoom&add=) 
-      Brunch with Kiera:  Social visit and brunch with Kiera McGuire in Larkspur on Sat, Jul 25 from 10:30 AM to 2:30 PM. [🔗  View invite ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871088121830360375) [📅  View Event ](https://www.google.com/calendar/event?eid=YzRvNjJjOWk2a29tYWJiMWM1aW02YjlrNmdvamViOXA2a3MzNGI5bjYxaTM0ZWIzY2dyajhwMXA2cyBzcGFya3lmbGFzaHJlYm9iQG0) 
-      Pariyatti Presentation:  'Beyond Day Ten' virtual session with Cori Bilyayev on Sun, Jul 26 at 8:00 AM. [✨  Join Zoom ](https://us06web.zoom.us/w/86826085307?tk=1hvks2sXUxMTYYwlA325NB6YhFl0NmGEhOSZaXDzJuk.DQkAAAAUNzzruxZ5RU82elFkTlJrV0gzSjdPVjU5V2FnAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&pwd=ge95vv1mJQXQ2YD0lLerdUNzhBJ4af.1) [📅  View Event ](https://www.google.com/calendar/event?eid=MjB1M2RxZHEyZ3ZnbXZxOGlxNm5iNzZhcGggc3Bhcmt5Zmxhc2hyZWJvYkBt) 
-      Summer Concert:  'lucky break' performs at Corte Madera Town Park on Sun, Jul 26 at 5:00 PM. [🔗  View flyer ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870918013705802430) [📅  Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Summer+Concert%3A+lucky+break&dates=20260726T170000%2F20260726T190000&ctz=America%2FLos_Angeles&details=%27lucky+break%27+performs+at+Corte+Madera+Town+Park.&location=Corte+Madera+Town+Park%2C+CA&add=) 
-    
- 
-
- Enjoy your Sunday! 
-
-
-
-
-
-  
-     
-     
-     
-       
-         
-       
-       
-         CC - Google Labs 
-         
-          [sparkyflashrebob+cc@gmail.com](mailto:sparkyflashrebob+cc@gmail.com)
-         
-       
-     
-   
-  
-   
-   
-     💬 What do you think about this email? 
-     
-      [👍 ](https://docs.google.com/forms/d/e/1FAIpQLSc1bdcDhGCWZQ131lTfvHGeyv76Zlcz6sXLV30gBtQbCzHyIQ/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8D+Useful)
-      [👎 ](https://docs.google.com/forms/d/e/1FAIpQLSc1bdcDhGCWZQ131lTfvHGeyv76Zlcz6sXLV30gBtQbCzHyIQ/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8E+Not+useful)
-     
-     
-      🔬 Want to help improve CC further? [Sign up for user research opportunities](https://forms.gle/mSZLnsScUpa9i42b7).
-     
-   
-  
-   
-   
-    CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact [labs-cc-support@google.com](mailto:labs-cc-support@google.com) or disconnect [here](https://myaccount.google.com/connections#:~:text=CC).  Known issue: 🔗 source links do not always work on mobile.
+> ...
+> 
+> ---
+> CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact labs-cc-support@google.com or disconnect here: https://myaccount.google.com/connections#:~:text=CC
 
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **All Dressed Up Not Going**
-- **Government Corporate Accountability Reform**
-- **Soccer Teams Argentina Spain Analysis**
-- **Andy's Meditation Coaching, Gerrymandering, Massage**
-- **Washing Produce Techniques Discussion**
-- **Using Google for office lighting**
-- **DSA Electoral Organizing Call**
-- **Sports political personal conversation**
+- **All Dressed Up Not Going**: Recorded and processed during today's transcript sessions.
+- **Government Corporate Accountability Reform**: Recorded and processed during today's transcript sessions.
+- **Soccer Teams Argentina Spain Analysis**: Recorded and processed during today's transcript sessions.
+- **Andy's Meditation Coaching, Gerrymandering, Massage**: Recorded and processed during today's transcript sessions.
+- **Washing Produce Techniques Discussion**: Recorded and processed during today's transcript sessions.
+- **Using Google for office lighting**: Recorded and processed during today's transcript sessions.
+- **DSA Electoral Organizing Call**: Recorded and processed during today's transcript sessions.
+- **Sports political personal conversation**: Recorded and processed during today's transcript sessions.
 
 ---
 
-# 📖 Activity Details
----
-
-## 🌅 Morning Activity Details
-
-### 1. All Dressed Up Not Going (8:42 AM – 9:18 AM)
+## 📖 Detailed Subject Matter
+#### All Dressed Up Not Going (8:42 AM – 9:18 AM)
 Andy spent the morning wrestling with a decision about attending a local protest march near the civic center, ultimately deciding against participating despite being dressed and ready to go. His internal conflict centered on the protest's location in the Pacific Center area, which he felt lacked sufficient public exposure compared to downtown San Francisco protests. During this deliberation, he engaged in philosophical discussions about animal treatment and food sourcing, defending his choice to shop at Whole Foods while acknowledging the need for humane treatment of food animals.
 
 The conversation shifted to current food safety concerns, with Andy researching proper washing techniques for fruits and vegetables due to ongoing "intestinal bug" concerns. He expressed frustration with corporate subsidies for data centers and AI industry practices, viewing them as anti-human and favoring corporate interests over people. His analytical mind led him to consider writing a piece titled "dressed up and not going" about the psychological experience of preparing for action but ultimately not following through.
 
-
-### 2. Government Corporate Accountability Reform — 📍 SAN RAFAEL Good Trouble Lives On @ Marin County Civic Center, 3501 Civic Center Dr, San Rafael, CA, 94903 (11:22 AM – 11:47 AM)
+#### Government Corporate Accountability Reform — 📍 SAN RAFAEL Good Trouble Lives On @ Marin County Civic Center, 3501 Civic Center Dr, San Rafael, CA, 94903 (11:22 AM – 11:47 AM)
 *Context / Event Alignment*: Overlaps with scheduled Calendar event **SAN RAFAEL Good Trouble Lives On** @ Marin County Civic Center, 3501 Civic Center Dr, San Rafael, CA, 94903.
 
 Andy engaged in a focused content creation session, working with an AI assistant (Gemini) to develop blog posts on institutional integrity and social responsibility. He provided detailed commentary on government honesty, corporate transparency, and accountability systems. The session involved generating multiple pieces of content, including requests for blog posts about vegetable/fruit care and government integrity. Andy articulated his vision for rebuilding institutional trust through public grading systems, salary incentives tied to public good, and enhanced transparency requirements for both government agencies and corporations.
 
-
-## ☀️ Afternoon Activity Details
-
-### 1. Soccer Teams Argentina Spain Analysis — 📍 World Cup FINAL (2:13 PM – 2:21 PM)
+#### Soccer Teams Argentina Spain Analysis — 📍 World Cup FINAL (2:13 PM – 2:21 PM)
 *Context / Event Alignment*: Overlaps with scheduled Calendar event **World Cup FINAL**.
 
 Andy was watching a soccer match between Argentina and Spain and engaging in commentary with others in the room. He read online comments about Argentina playing defensively while discussing the superiority of Spanish teams and their roster of European league stars. The conversation included clarification about player locations, specifically noting that Messi is now playing in the United States rather than for Argentina.
 
-
-### 2. Andy's Meditation Coaching, Gerrymandering, Massage — 📍 World Cup FINAL (2:55 PM – 3:15 PM)
+#### Andy's Meditation Coaching, Gerrymandering, Massage — 📍 World Cup FINAL (2:55 PM – 3:15 PM)
 *Context / Event Alignment*: Overlaps with scheduled Calendar event **World Cup FINAL**.
 
 Based on the provided transcript, there doesn't appear to have been an actual conversation involving Andy that was captured. Instead, the audio consists of background media content playing in his environment. Here's what was recorded during this period:
@@ -199,19 +96,17 @@ Based on the provided transcript, there doesn't appear to have been an actual co
 
 No direct conversation with Andy was captured during this recording period. Instead, ambient media content was playing in the background, including three distinct audio segments: a meditation/coaching monologue discussing executive coaching and meditation techniques; political commentary focused on gerrymandering, Trump administration pressure tactics, and recent developments in Alabama and Tennessee; and a massage therapy tutorial providing professional advice about client assessment and session management.
 
-
-### 3. Washing Produce Techniques Discussion (3:18 PM – 3:35 PM)
+#### Washing Produce Techniques Discussion (3:18 PM – 3:35 PM)
 Andy had a casual conversation with his companion while preparing food, covering several topics. He chose not to attend a local farmers market due to crowds, opting instead to stay home and write two blog posts about honesty using AI assistance. They discussed proper food safety methods for washing fruits and vegetables, specifically using baking soda solution for surface pesticides and vinegar for bacteria and molds. Andy mentioned establishing a walking routine timed for an hour before sunset and his ongoing weight management efforts, currently maintaining around 240 pounds. They also discussed meal planning for the week, including meatloaf, potato salad, and mixed greens salad.
 
-
-### 4. Using Google for office lighting (4:30 PM – 4:45 PM)
+#### Using Google for office lighting (4:30 PM – 4:45 PM)
 Andy was engaged in casual household conversations while consuming news content, discussing current events including local city management issues and technology service disruptions. The conversation covered municipal news, autonomous vehicle service problems, and business transactions involving power supply sales. Andy utilized voice assistant technology to control home lighting while participating in the discussions.
 
-- **Atmosphere**:
+# Atmosphere
 
 Relaxed, domestic environment with casual news consumption and household conversation. Mixed focus between current events discussion and practical household matters like lighting control and equipment sales.
 
-- **Key Takeaways**:
+# Key Takeaways
 
 - Discussed news about South Lago City Manager's arrest on burglary charges
 - Talked about Waymo autonomous vehicle service shutdown due to traffic light power issues
@@ -220,25 +115,21 @@ Relaxed, domestic environment with casual news consumption and household convers
 - Discussed selling a power supply as part of business transactions
 - Used Google voice commands to control office lighting, demonstrating smart home integration
 
-- **Action Items**:
+# Action Items
 
 No specific action items identified from this conversation.
 
-
-## 🌙 Evening Activity Details
-
-### 1. DSA Electoral Organizing Call — 📍 Socialism and the Black Radical Tradtion Ft. Cori Bush and Chris Rabb @ https://dsausa.zoom.us/w/83208101017?tk=qa_TlVhoD7QjZV_G6Z_uZroEDymMM35hvFVuBQsjwEs.DQkAAAATX5bcmRZwanNRcDhVbVRveWhDTlJmSVZlVy13AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&uuid=WN_eLadiCqjSCuxpfJYWMa6Ew (5:24 PM – 5:38 PM)
+#### DSA Electoral Organizing Call — 📍 Socialism and the Black Radical Tradtion Ft. Cori Bush and Chris Rabb @ https://dsausa.zoom.us/w/83208101017?tk=qa_TlVhoD7QjZV_G6Z_uZroEDymMM35hvFVuBQsjwEs.DQkAAAATX5bcmRZwanNRcDhVbVRveWhDTlJmSVZlVy13AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&uuid=WN_eLadiCqjSCuxpfJYWMa6Ew (5:24 PM – 5:38 PM)
 *Context / Event Alignment*: Overlaps with scheduled Calendar event **Socialism and the Black Radical Tradtion Ft. Cori Bush and Chris Rabb** @ https://dsausa.zoom.us/w/83208101017?tk=qa_TlVhoD7QjZV_G6Z_uZroEDymMM35hvFVuBQsjwEs.DQkAAAATX5bcmRZwanNRcDhVbVRveWhDTlJmSVZlVy13AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&uuid=WN_eLadiCqjSCuxpfJYWMa6Ew.
 
 Andy participated in a DSA (Democratic Socialists of America) organizing meeting focused on "Socialism and the Black Radical Tradition" featuring Cori Bush and Chris Rabb. The meeting ran from 7-9pm PT and covered electoral organizing work, candidate interviews, endorsements, and building organizational capacity for socialist political organizing. Andy was multitasking during this political call, making personal household notes about laundry schedules and preparing rice while actively participating in and recording the meeting content.
 
-
-### 2. Sports political personal conversation — 📍 Socialism and the Black Radical Tradtion Ft. Cori Bush and Chris Rabb @ https://dsausa.zoom.us/w/83208101017?tk=qa_TlVhoD7QjZV_G6Z_uZroEDymMM35hvFVuBQsjwEs.DQkAAAATX5bcmRZwanNRcDhVbVRveWhDTlJmSVZlVy13AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&uuid=WN_eLadiCqjSCuxpfJYWMa6Ew (5:54 PM – 8:04 PM)
+#### Sports political personal conversation — 📍 Socialism and the Black Radical Tradtion Ft. Cori Bush and Chris Rabb @ https://dsausa.zoom.us/w/83208101017?tk=qa_TlVhoD7QjZV_G6Z_uZroEDymMM35hvFVuBQsjwEs.DQkAAAATX5bcmRZwanNRcDhVbVRveWhDTlJmSVZlVy13AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&uuid=WN_eLadiCqjSCuxpfJYWMa6Ew (5:54 PM – 8:04 PM)
 *Context / Event Alignment*: Overlaps with scheduled Calendar event **Socialism and the Black Radical Tradtion Ft. Cori Bush and Chris Rabb** @ https://dsausa.zoom.us/w/83208101017?tk=qa_TlVhoD7QjZV_G6Z_uZroEDymMM35hvFVuBQsjwEs.DQkAAAATX5bcmRZwanNRcDhVbVRveWhDTlJmSVZlVy13AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&uuid=WN_eLadiCqjSCuxpfJYWMa6Ew.
 
 Andy spent the evening engaged in multiple activities including watching sports broadcasts, political discussions, and philosophical conversations with Andrea. The session included active commentary on soccer and basketball matches, home lighting setup discussions, and Buddhist practice conversations.
 
-
+---
 
 ## 🗣️ Personal Monologues & Direct Thoughts
 #### All Dressed Up Not Going (8:42 AM – 9:18 AM)
@@ -314,4 +205,4 @@ Andy spent the evening engaged in multiple activities including watching sports 
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-21 06:21:32*
+*Report automatically generated on 2026-08-22 06:21:00*

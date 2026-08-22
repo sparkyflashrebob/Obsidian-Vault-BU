@@ -50,22 +50,18 @@ tags:
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **AA Meeting on Humility and Recovery**
-- **Preparing Joshua Tree Trip**
-- **Exploring Plaud wearable options**
-- **Testing Bee app transcription features**
-- **Keys, oregano, and tech troubleshooting**
-- **Recovery meeting reflections and observations**
-- **Watching movies and political commentary**
+- **AA Meeting on Humility and Recovery**: Recorded and processed during today's transcript sessions.
+- **Preparing Joshua Tree Trip**: Recorded and processed during today's transcript sessions.
+- **Exploring Plaud wearable options**: Recorded and processed during today's transcript sessions.
+- **Testing B app transcription features**: Recorded and processed during today's transcript sessions.
+- **Keys, oregano, and tech troubleshooting**: Recorded and processed during today's transcript sessions.
+- **Recovery meeting reflections and observations**: Recorded and processed during today's transcript sessions.
+- **Watching movies and political commentary**: Recorded and processed during today's transcript sessions.
 
 ---
 
-# 📖 Activity Details
-
-## 🌅 Morning Activity Details
-
-### 1. AA Meeting on Humility and Recovery (9:08 AM – 10:52 AM)
-
+## 📖 Detailed Subject Matter
+#### AA Meeting on Humility and Recovery (9:08 AM – 10:52 AM)
 ## Main Thoughts
 
 You shared at an AA meeting about how sobriety helped you reconnect with your own inherent values and goodness—qualities that had been masked by trying to navigate life on your own. You reflected on growing up without strong mentors and having to essentially teach yourself, which led to some convoluted paths, especially in high school. A key insight you offered was that your difficulties are largely self-created—you're powerless over alcohol and many circumstances, but learning not to make yourself the problem has been central to your recovery. You also talked about your concept of a higher power: since you've never seen God and much religious belief feels like passed-down tradition, you've come to relate to "nature" as your higher power—something undeniable that you can turn your will over to for right, good, orderly direction. You expressed gratitude for the rooms and for being of service rather than just taking.
@@ -118,10 +114,10 @@ You're in prep mode for a trip down to Joshua Tree and took a few minutes to rel
 #### Exploring Plaud wearable options (1:35 PM – 1:55 PM)
 Andy was researching the Plaud wearable recording device and its ecosystem after someone prompted him to turn off a TV that had been playing in the background (which featured a Keystone Cops reference). He was asking a series of practical questions about the product's functionality, pricing, and flexibility—particularly whether he could avoid additional subscriptions by using his existing transcription service and whether the hardware would work independently of Plaud's paid app ecosystem.
 
-#### Testing Bee app transcription features — 📍 Bolinas Spring Picnic Social  @ 145 Birch Rd, Bolinas, CA 94924, USA (2:55 PM – 3:21 PM)
+#### Testing B app transcription features — 📍 Bolinas Spring Picnic Social  @ 145 Birch Rd, Bolinas, CA 94924, USA (2:55 PM – 3:21 PM)
 *Context / Event Alignment*: Overlaps with scheduled Calendar event **Bolinas Spring Picnic Social ** @ 145 Birch Rd, Bolinas, CA 94924, USA.
 
-Andy was troubleshooting and testing a voice assistant app (referred to as "Bee app") that he's been using to capture daily activities and transcripts. He was frustrated with several limitations: the app cannot share raw audio files due to encryption, the transcriptions contain frequent hallucinations including fabricated conversations with other people, and it repeatedly misidentifies his wife Andrea's name. He discovered a workaround that might work better for him—possibly using a "double tap" function and voice commands like "B list all the things I have done today" to generate cleaner notes he can then edit, allowing him to discard the problematic full transcript data.
+Andy was troubleshooting and testing a voice assistant app (referred to as "B app") that he's been using to capture daily activities and transcripts. He was frustrated with several limitations: the app cannot share raw audio files due to encryption, the transcriptions contain frequent hallucinations including fabricated conversations with other people, and it repeatedly misidentifies his wife Andrea's name. He discovered a workaround that might work better for him—possibly using a "double tap" function and voice commands like "B list all the things I have done today" to generate cleaner notes he can then edit, allowing him to discard the problematic full transcript data.
 
 #### Keys, oregano, and tech troubleshooting — 📍 Bolinas Spring Picnic Social  @ 145 Birch Rd, Bolinas, CA 94924, USA (3:43 PM – 4:10 PM)
 *Context / Event Alignment*: Overlaps with scheduled Calendar event **Bolinas Spring Picnic Social ** @ 145 Birch Rd, Bolinas, CA 94924, USA.
@@ -203,7 +199,7 @@ Andy spent time at home with his partner, engaging in light domestic activities 
 - **Recorded Account**: *"Unknown: It says right here that word insult has a surprisingly physical, athletic, and aggressive history."*
 - **Recorded Account**: *"Unknown: I can't remember exactly how long it lasted, but it was during 94, 95."*
 - **Recorded Account**: *"Andy did his "little walking thing" — hip recovery still going, though he mentioned very little hip tightening now (consistent with recent progress)"*
-- **Recorded Account**: *"Andy and his partner discussed mailing a shirt to someone named Toddale and debated which post office location to use (D Street, Centerville, Pixley, Larkspur, canal area)"*
+- **Recorded Account**: *"Andy and his partner discussed mailing a shirt to someone named Toddale and debated which post office location to use (D Street, Centerville, Pixley, Larksburg, canal area)"*
 
 ---
 
@@ -226,4 +222,4 @@ Andy spent time at home with his partner, engaging in light domestic activities 
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-21 06:16:50*
+*Report automatically generated on 2026-08-22 06:16:19*

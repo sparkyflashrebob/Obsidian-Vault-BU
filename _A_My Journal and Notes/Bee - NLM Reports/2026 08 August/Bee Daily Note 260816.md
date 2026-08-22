@@ -54,184 +54,70 @@ tags:
 ---
 
 ## 🌅 Your Day Ahead Email Brief
-- **Subject**: `💌 Your Day Ahead 08/16/2026`
+- **Subject**: `💌 Your Day Ahead 08/16/2026` (7:02 AM)
 
-...
-
----
-CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact labs-cc-support@google.com or disconnect here: https://myaccount.google.com/connections#:~:text=CC
- 
- 👋 Happy Sunday, Andy! Here's your daily brief. 
- ✉️ Reply for updates or corrections 
-
- Top of mind 
- 
-    15 min  Decide on the hybrid meeting format for the Living Mindfully club [🔗  View email ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873633550186929844) [✉️  Reply ](mailto:willspirit@icloud.com?subject=Re%3A%20club&body=Hi%20Will%2C%20thanks%20for%20reaching%20out.%20Regarding%20the%20hybrid%20meeting%20format%20for%20the%20Living%20Mindfully%20club%2C%20I%27ve%20been%20considering%20using%20a%20laptop%20with%20a%20second%20camera%20for%20the%20Kentfield%20meetings.%20Do%20you%20think%20this%20setup%20will%20be%20sufficient%20for%20our%20promotional%20materials%2C%20or%20should%20we%20look%20into%20something%20more%20robust%3F).
-   
-     Will Meecham inquired on Sat, Aug 15 if the club will be hybrid in-person and online. 
-     Consider if your proposed setup—using a laptop and a second camera for Kentfield meetings—is sufficient for promotional materials.  Suggestion:  [🔗  View setup guide ](https://medium.com/@drmaxlwilson/a-low-budget-hybrid-guide-for-small-conferences-5819b8aae1b8) 
-    
-   Your Canva Pro monthly subscription ($18.00 plus tax) is scheduled to renew automatically today, Sunday, Aug 16, following the trial period [🔗  View billing ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873252496374654958). 
-   Consider pre-ordering the Kindle release 'Still Ambitious: How to Succeed...' by Todd Perelmuter, which launches today, Sunday, Aug 16, for $0.99 [🔗  View on Amazon ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873557889243684374).
-   
-      Suggestion:  Read a recent [🔗  review ](https://www.eastwesticism.org/spiritual-meditation-books/) of Todd's work. 
-    
-   Today • 9:30 AM •  9:30 AM Meeting  (1h) [📅  View event ](https://www.google.com/calendar/event?eid=YzhyajJvOWs2aGkzOGJiMWNvc21hYjlrNzFoNjhiOW82OHJtY2I5bDYwczM0ZDM0Y2dxajRvaGc2c18yMDI2MDgxNlQxNjMwMDBaIHNwYXJreWZsYXNocmVib2JAbQ&ctz=America/Los_Angeles). 
-   Today • 5:00 PM •  Living Mindfully Meditation Group Meeting  (1.5h) via [✨  Google Meet ](https://meet.google.com/oxf-rdfm-kmn) [📅  View event ](https://www.google.com/calendar/event?eid=cTZtMnZzb2UwaDNoY2wza2R0czQ3cW5scmxfMjAyNjA4MTdUMDAwMDAwWiBzcGFya3lmbGFzamVib2JAbQ&ctz=America/Los_Angeles).
-   
-     Theme: Examining internal dialogue and how commentary on experience often serves as the root of suffering. 
-     Key topics: The Reactive Mind, Projection of Judgment, and Deep Inner Listening. 
-     Join link: [✨  https://meet.google.com/oxf-rdfm-kmn ](https://meet.google.com/oxf-rdfm-kmn) 
-    
-   Today •  Lanterns Premiere on HBO  (All day) [📅  View event ](https://www.google.com/calendar/event?eid=NXJma2U4aXNmdmtmaWtpM2NuZWYzZzZxbnQgc3Bhcmt5Zmxhc2hyZWJvYkBt&ctz=America/Los_Angeles).
-   
-     Scheduled viewing for the series premiere; invitation accepted by Andrea Axtell. 
-    
-   Today •  Raiders Training Camp  (Ongoing through Sun, Aug 30) [📅  View details ](https://www.google.com/calendar/event?eid=MTJrNHNnMXMyZ2VrcWthMnU3cmw3djE4N3Ygc3Bhcmt5Zmxhc2hyZWJvYkBt&ctz=America/Los_Angeles). 
-   Your Amazon order #111-7477466-8437811 ($173.71) is estimated to arrive in Larkspur today, Sunday, Aug 16 [🔗  View order ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873650996275727657) [🔗  Map ](https://www.google.com/maps/search/?api=1&query=326+Larkspur+Plaza+Dr%2C+Larkspur%2C+CA). 
- 
-
- FYI 
- 
-    5 min  Pay any remaining balance for the Spirit Rock Labor Day Insight Retreat by Wed, Aug 19 [🔗  View details ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873365599884191342) [📅  Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Remind+Me%3A+Pay+Spirit+Rock+balance&dates=20260819T090000%2F20260819T100000&ctz=America%2FLos_Angeles&details=Pay+any+remaining+balance+for+the+Spirit+Rock+Labor+Day+Insight+Retreat.+Reference%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19ff88166b88a66e&location=&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com).
-   
-     You previously fully paid the registration balance on Jul 14, but check for any additional unpaid fees. 
-     The silent retreat runs from Wed, Sep 2 to Mon, Sep 7. 
-    
-   T-Mobile AutoPay is scheduled to process a payment of $71.93 on Wed, Aug 19, using your Visa ending in 6681 [🔗  View bill ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872363421720905066). 
-   Thu, Aug 27 •  Living Mindfully Club ESCOM Council Review  [🔗  View email ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873633550186929844) [📅  Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Living+Mindfully+Club+ESCOM+Council+Review&dates=20260827T090000%2F20260827T100000&ctz=America%2FLos_Angeles&details=ESCOM+Council+will+review+the+proposal+for+the+Living+Mindfully+Club.+Approval+expected.+Reference%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F1a007bc976255eb4&location=&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com).
-   
-     Will Meecham confirmed the council will review your proposal on this date. Approval is expected, with meetings potentially starting the first week of Sep. 
-    
-   Wed, Sep 2 • 2:30 PM •  Labor Day Insight Retreat (Spirit Rock)  starts in Woodacre, CA [🔗  View retreat info ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873365599884191342) [📅  Add Event ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Labor+Day+Insight+Retreat+%28Spirit+Rock%29&dates=20260902T143000%2F20260907T110000&ctz=America%2FLos_Angeles&details=Labor+Day+Insight+Retreat+at+Spirit+Rock.+Check-in+2%3A30+PM+-+4%3A30+PM+in+the+Dining+Hall.+Silent+retreat+guidelines+apply.+Reference%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19ff88166b88a66e&location=Spirit+Rock+Meditation+Center%2C+Woodacre%2C+CA&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com).
-   
-     Check-in is from 2:30 PM to 4:30 PM in the Dining Hall; dinner is served. You must arrive by 4:30 PM. 
-     The retreat ends at 11:00 AM on Mon, Sep 7. 
-     Guidelines: Silent retreat rules apply; no technology, books, or intoxicants; scent-free hygiene products required. 
-    
-   Review your Bay Area FasTrak statement for Aug 2026 by Fri, Sep 11, to question any charges [🔗  View statement ](https://www.bayareafastrak.org/vector/account/home/correspondence.do?from=email&correspondenceId=QkFUQV9TVE1UXzIwMjYwODEyMDEwMTAxXzEwNTA2MjE4Ni5QREY=) [📅  Add Reminder ](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Remind+Me%3A+Review+FasTrak+statement&dates=20260911T090000%2F20260911T100000&ctz=America%2FLos_Angeles&details=Review+Aug+2026+FasTrak+statement+to+question+any+charges.+Reference%3A+https%3A%2F%2Fwww.bayareafastrak.org%2Fvector%2Faccount%2Fhome%2Fcorrespondence.do%3Ffrom%3Demail%26correspondenceId%3DQkFUQV9TVE1UXzIwMjYwODEyMDEwMTAxXzEwNTA2MjE4Ni5QREY%3D&location=&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com). 
-   Summary of recent research updates and account activity.
-   
-      Research:  Andrea Axtell shared feedback on recent research regarding cat play (watch for ear/tail irritation) and noted Waymo's Bay Area expansion as 'inevitable'. 
-      Purchases:  You purchased three iTunes songs on Fri, Aug 14 ($3.27) and ordered the Kindle edition of 'Loving Bravely' on Sat, Aug 15. 
-    
- 
-
- CC Calendar Updates 
- 
-   Updated:  Living Transmission of Love from the Other Side  — August 15, 2026 11:30am PT · [🔗  Source email ](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873614985992522535) · [📅  View event ](https://www.google.com/calendar/event?eid=b3VoMWZxYm5rdDdsYmxqOWMyODBramgyM28gOWNlMWM5MDAyM2U4ZjI5MmZjMTEwNzRlNzZkOTQ3MWYzZmJlOWQxNDVjYjk0OWQ4MDY0NWM2ZDYwZjBlOGQyNUBn)
-   
-     New location: https://app.acuityscheduling.com/schedule.php?owner=12569473&action=zoom&uniqueID=2c7d9813bd2115c2998d94866dc3e591&ownerID=12569473 
-     Event details updated 
-    
- 
-
- Have a wonderful day! 
-
-
-
-
-
-  
-     
-     
-     
-       
-         
-       
-       
-         CC - Google Labs 
-         
-          [sparkyflashrebob+cc@gmail.com](mailto:sparkyflashrebob+cc@gmail.com)
-         
-       
-     
-   
-  
-   
-   
-     💬 What do you think about this email? 
-     
-      [👍 ](https://docs.google.com/forms/d/e/1FAIpQLSfGPGkFp-YwBA_vcSLpUqSo9glbxn-0rKy8i3O2hUhl9IS_Xg/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8D+Useful)
-      [👎 ](https://docs.google.com/forms/d/e/1FAIpQLSfGPGkFp-YwBA_vcSLpUqSo9glbxn-0rKy8i3O2hUhl9IS_Xg/viewform?usp=pp_url&entry.1818558954=%F0%9F%91%8E+Not+useful)
-     
-     
-      🔬 Want to help improve CC further? [Sign up for user research opportunities](https://forms.gle/mSZLnsScUpa9i42b7).
-     
-   
-  
-   
-   
-    CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact [labs-cc-support@google.com](mailto:labs-cc-support@google.com) or disconnect [here](https://myaccount.google.com/connections#:~:text=CC).  Known issue: 🔗 source links do not always work on mobile.
+> ...
+> 
+> ---
+> CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact labs-cc-support@google.com or disconnect here: https://myaccount.google.com/connections#:~:text=CC
 
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Technical troubleshooting and transcription status check**
-- **Overload, memory, health, civilization reflections**
-- **Content creation and business setup**
-- **Deposit letter, email list, alarm**
-- **Wildfire Betting Should Be Outlawed**
-- **Creating December 27th Meeting Event**
-- **Right Speech Within**
-- **Event planning, tech, family prep**
-- **Testing braille headphones for meeting**
-- **Living Mindfully: Internal Dialogue Practice**
-- **Buddhist Approach to Right Speech**
-- **Talk preparation and delivery reflection**
-- **Impermanence, Mindfulness, Joy**
+- **Technical troubleshooting and transcription status check**: Recorded and processed during today's transcript sessions.
+- **Overload, memory, health, civilization reflections**: Recorded and processed during today's transcript sessions.
+- **Content creation and business setup**: Recorded and processed during today's transcript sessions.
+- **Deposit letter, email list, alarm**: Recorded and processed during today's transcript sessions.
+- **Wildfire Betting Should Be Outlawed**: Recorded and processed during today's transcript sessions.
+- **Creating December 27th Meeting Event**: Recorded and processed during today's transcript sessions.
+- **Right Speech Within**: Recorded and processed during today's transcript sessions.
+- **Event planning, tech, family prep**: Recorded and processed during today's transcript sessions.
+- **Testing braille headphones for meeting**: Recorded and processed during today's transcript sessions.
+- **Living Mindfully: Internal Dialogue Practice**: Recorded and processed during today's transcript sessions.
+- **Buddhist Approach to Right Speech**: Recorded and processed during today's transcript sessions.
+- **Talk preparation and delivery reflection**: Recorded and processed during today's transcript sessions.
+- **Impermanence, Mindfulness, Joy**: Recorded and processed during today's transcript sessions.
 
 ---
 
-# 📖 Activity Details
-
-## 🌅 Morning Activity Details
-
-### 1. Technical troubleshooting and transcription status check (8:00 AM – 8:12 AM)
+## 📖 Detailed Subject Matter
+#### Technical troubleshooting and transcription status check (8:00 AM – 8:12 AM)
 Andy is actively troubleshooting technical issues with automation apps on his mobile devices while managing transcription projects. He removed the Wear Audio Recorder app from both his phone and watch to resolve persistent popup issues, but wants to verify that no background processes are still running. He's also inquiring about the status of Ajahn Somedo transcription work and requesting to continue or complete that process.
 
-
-### 2. Overload, memory, health, civilization reflections — 📍 930AM Meeting (9:30 AM – 9:47 AM)
+#### Overload, memory, health, civilization reflections — 📍 930AM Meeting (9:30 AM – 9:47 AM)
 *Context / Event Alignment*: Overlaps with scheduled Calendar event **930AM Meeting**.
 
 Andy engaged in a personal reflection session focused on health, wellness, and philosophical contemplation. He reported that his head issues were feeling lighter after completing his morning routine of drinking water, taking a walk, and practicing meditation. However, he noted increased physical discomfort over the past couple of months, which he attributes to working on his posture and walking habits, viewing it as part of his personal growth process.
 
 Looking ahead, Andy mentioned an upcoming busy period with a "Q" approaching, noting the current date as September 16th. His thoughts shifted to broader civilizational themes, reflecting on how societies throughout history - particularly Greek and Roman civilizations - have organized their cities and social structures. He referenced a Psychology Today article about modern life's accelerating pace, suggesting that humanity may not be adequately prepared for all the rapid technological and social changes.
 
-
-### 3. Content creation and business setup — 📍 930AM Meeting (9:56 AM – 10:17 AM)
+#### Content creation and business setup — 📍 930AM Meeting (9:56 AM – 10:17 AM)
 *Context / Event Alignment*: Overlaps with scheduled Calendar event **930AM Meeting**.
 
 Andy engaged in philosophical reading and business planning activities while ambient sports media played in the background. He recited content from Riokon and the Bahia Sutta, considering how to incorporate these into his work. He set a Google reminder to import Kindle sync items to Obsidian at 1 PM. His conversation with a business partner focused on web development collaboration, including discussions about shared workspace setup, website updates, email management systems, and implementing unsubscribe functionality for subscriber communications.
 
-
-### 4. Deposit letter, email list, alarm — 📍 930AM Meeting (10:35 AM – 10:51 AM)
+#### Deposit letter, email list, alarm — 📍 930AM Meeting (10:35 AM – 10:51 AM)
 *Context / Event Alignment*: Overlaps with scheduled Calendar event **930AM Meeting**.
 
 Andy was managing daily errands and administrative tasks while experiencing a minor physical discomfort. He used voice assistants to organize his tasks and set reminders, including handling Thanksgiving retreat logistics and email list management. The interaction included dealing with a loose ligament issue and troubleshooting a Google Maps display problem with his vehicle location.
 
-
-## ☀️ Afternoon Activity Details
-
-### 1. Wildfire Betting Should Be Outlawed (12:02 PM – 12:16 PM)
+#### Wildfire Betting Should Be Outlawed (12:02 PM – 12:16 PM)
 Andy expressed strong moral objections to people betting on wildfires, viewing it as betting on others' misfortune that should be prohibited. He voiced concerns about the potential for such betting systems to incentivize arson. Andy also noted having a busy week planned, specifically mentioning an Oakland Democracy Reform Town Hall hosted by the Pro Rep Coalition.
 
-
-### 2. Creating December 27th Meeting Event (1:12 PM – 1:27 PM)
+#### Creating December 27th Meeting Event (1:12 PM – 1:27 PM)
 Andy appears to have been attempting to set up a calendar event or meeting for December 27th while navigating some technical or communication difficulties with others in the household. The conversation shows signs of frustration around phone usage, room arrangements, and perhaps some smart home device or communication system that wasn't working as expected.
 
-- **Atmosphere**:
+# Atmosphere
 
 The conversation had a tense, fragmented quality with overlapping speakers and apparent technical difficulties. Multiple speakers seemed confused or frustrated with the communication setup, and there were references to room usage and phone arrangements that created friction.
 
-- **Key Takeaways**:
+# Key Takeaways
 
 - Andy was working on creating a "bright meeting" scheduled for December 27th
 - There were technical issues with some kind of announcement or communication system that multiple people were trying to use
 - The conversation suggests household tensions around phone usage and room arrangements
 - Andy mentioned wanting to "shout" or connect with someone during the call
 - Multiple people were present and having difficulty coordinating their communication
-
 
 ## Calendar Context
 
@@ -251,11 +137,11 @@ Technical discussions included troubleshooting communication systems and interne
 #### Testing braille headphones for meeting (4:39 PM – 4:46 PM)
 Andy is preparing for an upcoming Raiders Training Camp event he's organizing, taking practical steps to ensure everything runs smoothly. He's gathered water and tea for hydration, and is carefully testing his headphone setup to ensure his braille/phone accessibility system works properly with the Dell computer he's using for the event. Andy plans to arrive 10 minutes early to accommodate early arrivals and troubleshoot any technical issues.
 
-- **Atmosphere**:
+# Atmosphere
 
 The conversation has a focused, preparatory atmosphere with Andy being methodical about his event setup. The tone is collaborative, with others present acknowledging his preparations and offering support.
 
-- **Key Takeaways**:
+# Key Takeaways
 
 - Andy is hosting/organizing a Raiders Training Camp event from July 23 - August 31, 2026
 - He has specific accessibility needs requiring braille support with his phone system
@@ -263,7 +149,7 @@ The conversation has a focused, preparatory atmosphere with Andy being methodica
 - He prioritizes being well-prepared by arriving early and having necessary supplies (water, tea)
 - He's organized with plans for the HBO "Lanterns" premiere on August 16-17 with a guest
 
-- **Action Items**:
+# Action Items
 
 - Complete headphone/braille setup testing before the event
 - Ensure Dell computer accessibility system is functioning properly
@@ -391,4 +277,4 @@ Andy participated in an intimate reading session of "The Poetry of Impermanence,
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-21 06:24:32*
+*Report automatically generated on 2026-08-22 06:23:58*
