@@ -33,45 +33,91 @@ tags:
 ---
 
 ## 📧 Gmail Activity Log
+### 💰 Financial Account Balances & Bank Alerts
+- **Fidelity Investments**: `Disclosure About Your GUITAR CENTER, INC. Retirement Plan - Quarterly statement available` (07/20/2026 9:53 AM)
+
+### ✉️ Outgoing Sent Emails & Correspondence
 - *No outgoing sent email replies or correspondence recorded today.*
 
 ---
 
-## 🌅 Your Day Ahead Email Brief
+## 🌅 Your Day Ahead 07/20/2026
 - **Subject**: `💌 Your Day Ahead 07/20/2026` (7:00 AM)
 
-> ...
+> ### Top of mind
 > 
-> ---
-> CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact labs-cc-support@google.com or disconnect here: https://myaccount.google.com/connections#:~:text=CC
+> - 5 min Verify your YUMPU account to activate PDF-to-ePaper publishing for your sparkyflashrebob@gmail.com account [🔗 Verify account](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871187099269491508) [📅 Add Reminder](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Reminder%3A+Verify+YUMPU+account&dates=20260720T090000%2F20260720T090500&ctz=America%2FLos_Angeles&details=Verify+account+to+activate+PDF-to-ePaper+publishing.+Email%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19f7cac0b8406b34&location=Online&add=)
+>   - Account was created on Sun, Jul 19. Verification is required to enable all publishing features.
+> - Today • Capri's Birthday (All day) [📅 View event](https://www.google.com/calendar/event?eid=NjhxM2NvcG82b3JtYWJiNmNjbzZhYjlrY2RpamliOXA2Y3M2NGI5aTcwcjMwZTFuNjRyMzBwOWo2OF8yMDI2MDcyMCBzcGFya3lmbGFzaHJlYm9iQG0)
+>   - This is an all-day event on your calendar.
+>   - Gift Idea: 'Double Digits' Birthday Shirt [🔗 View](https://www.etsy.com/market/10_yo_girl_gifts)
+>   - Gift Idea: Wash Away Hair Chalk Kit [🔗 View](https://www.uncommongoods.com/sets/gifts-for-10-year-old-girls)
+>   - Gift Idea: Wireless Karaoke Machine [🔗 View](https://nationaltoday.com/gift-guides/gifts-for-10-year-olds/)
+> - Today • 7:00 AM • Morning Practice Zoom w/ Ed Brown (1h 15m) [✨ Join Zoom](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09) [📅 View event](https://www.google.com/calendar/event?eid=M3Z1bW84dnE4aHVwdnYwMWwxN2Eyc2FrM2tfMjAyNjA3MjBUMTQwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0)
+>   - Schedule: 7:00 free writing, 7:15 brief talk, 7:30 sitting, 7:55 visiting. Use password 'beyond' to join.
+> - ⏱️ 1h 30m • Attend the AASF Marin Teleservice Monthly Business Meeting via Zoom starting at 6:00 PM today [✨ Join Meeting](https://us02web.zoom.us/j/84707673404) [📅 Add Event](https://calendar.google.com/calendar/render?action=TEMPLATE&text=AASF+Marin+Teleservice+Monthly+Business+Meeting&dates=20260720T180000%2F20260720T193000&ctz=America%2FLos_Angeles&details=Orientation+for+new+volunteers+at+6%3A00+PM.+Business+meeting+begins+at+6%3A45+PM+%28ID%3A+847+0767+3404%2C+PW%3A+1821%29.+Zoom%3A+https%3A%2F%2Fus02web.zoom.us%2Fj%2F84707673404&location=https%3A%2F%2Fus02web.zoom.us%2Fj%2F84707673404&add=)
+>   - 6:00 PM: Orientation for new volunteers.
+>   - 6:45 PM: Business meeting begins (ID: 847 0767 3404, PW: 1821).
+>   - The committee is currently looking for a Sunday Daily Coordinator. [🔗 View email](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871003643015144951)
+> - Status: A mobile check deposit of $300.00 is expected to post to your Advantage Plus Banking account ending in 0372 today [🔗 View deposit](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871092588688760757)
+>   - Confirmation #3685147821. The deposit was initiated on Sat, Jul 18.
+> - Status: Your Amazon household order ($60.28) is scheduled for delivery today [🔗 Track order](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871166572888147249)
+>   - Order #111-7808588-2853838 includes Bedding and Lighting & Fans items.
+>   - Password: beyond
+> - Tue, Jul 21 • 7:00 AM • Morning Practice Zoom w/ Ed Brown (1h 15m) [✨ Join Zoom](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09) [📅 View event](https://www.google.com/calendar/event?eid=M3Z1bW84dnE4aHVwdnYwMWwxN2Eyc2FrM2tfMjAyNjA3MjFUMTgwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0)
+> - Tue, Jul 21 • 11:00 AM • MINDFULNESS MEDITATION CLUB (1h 30m) at Building 10, College of Marin – Indian Valley Campus, 1800 Ignacio Blvd, Novato, CA [📅 View event](https://www.google.com/calendar/event?eid=NzRjZ2ZybDYwNGsyZzJlcjZtMXFtNm41NjZfMjAyNjA3MjFUMTgwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0) [🔗 Directions](https://www.google.com/maps/search/?api=1&query=Building+10%2C+College+of+Marin+%E2%80%93+Indian+Valley+Campus%2C+1800+Ignacio+Blvd%2C+Novato%2C+CA)
+>   - Parking costs $4 in Lot P2. Accessible parking is available in Lot 3 near the small bridge.
+> 
+> ### FYI
+> 
+> - Upcoming events and expected deliveries for the next few weeks.
+>   - Tue, Jul 21: Morning Practice Zoom at 7:00 AM and Mindfulness Meditation Club at 11:00 AM.
+>   - Sun, Jul 26: Your Krisp meeting data export link expires. [🔗 Download zip](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871203371556748382) [📅 Add Reminder](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Reminder%3A+Krisp+meeting+data+export+link+expires&dates=20260726T090000%2F20260726T091500&ctz=America%2FLos_Angeles&details=Download+zip+from+email%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19f7d98d68273c5e&location=Online&add=)
+>   - Wed, Jul 29: Expected arrival of Andrea Axtell's Earth Funeral welcome pack, including 5 membership cards. [🔗 View details](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871147898847175753)
+>   - Sat, Aug 8: Shawn's Celebration of Life memorial service from 1:00 PM to 3:00 PM at 1736 Kerry Ln, Santa Rosa, CA 95403 [🔗 View email](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871156792762465161) [🔗 Directions](https://www.google.com/maps/search/?api=1&query=1736+Kerry+Ln%2C+Santa+Rosa%2C+CA+95403) [📅 View Event](https://www.google.com/calendar/event?eid=NnNxajRkOXA2cGltMmI5amNncTMyYjlrNjRxNmNiYjI2OWhtY2JiMjcwcm1hb2IzNjhyM2NjcjJjZyBzcGFya3lmbGFzaHJlYm9iQG0)
+> - Recent activity and updates from Sun, Jul 19.
+>   - Substack: Published 'The Personal Toll' and 'The Pillars of Truth' to Head & Heart Together. [🔗 View posts](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871171426178855132)
+>   - Shopping: Purchased three coaching Kindle books and 'Just Be A Good Human' gear from TeePublic ($36.05). [🔗 Amazon order](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871210280256702116) [🔗 TeePublic order](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871202578709527451)
+>   - Groceries: Total of $213.02 spent at Whole Foods Market - San Rafael. [🔗 View receipt](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871178269928283059)
+>   - Home: Andrea noted that Lori recently used a baking soda and vinegar hack to successfully clear a bathroom drain. [🔗 View email](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871167418147028197)
+>   - Tools: Web Highlights now supports direct PDF uploads, and UJAM confirmed receipt of your support request. [🔗 Web Highlights](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871182302050405515) [🔗 UJAM](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871186875127478311)
 
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Standing Up Against Injustice**: Recorded and processed during today's transcript sessions.
-- **Understanding Self-Honesty Through Perceptual Bias**: Recorded and processed during today's transcript sessions.
-- **Plugin version compatibility troubleshooting**: Recorded and processed during today's transcript sessions.
-- **Podcast intro video development**: Recorded and processed during today's transcript sessions.
-- **Logo replacement for video branding**: Recorded and processed during today's transcript sessions.
-- **Video Playback Control Technical Support**: Recorded and processed during today's transcript sessions.
-- **Troubleshooting OBS video editing issues**: Recorded and processed during today's transcript sessions.
-- **Gemini Logo Replacement Quota Exhausted**: Recorded and processed during today's transcript sessions.
-- **Video Editing Logo Replacement Problems**: Recorded and processed during today's transcript sessions.
-- **College Football, Food, Immigration, Equity**: Recorded and processed during today's transcript sessions.
-- **Creating YouTube video template**: Recorded and processed during today's transcript sessions.
-- **Therapeutic session and tech learning**: Recorded and processed during today's transcript sessions.
-- **AI Image Editing Session**: Recorded and processed during today's transcript sessions.
-- **Andy's reaction to news events**: Recorded and processed during today's transcript sessions.
+### 🌅 Morning Session (7:00 AM – 12:00 PM)
+- **Standing Up Against Injustice (8:48 AM – 9:10 AM)**: Andy engaged in an extensive personal storytelling session, sharing multiple experiences from his life focused on themes of standing up for others and intervening in dangerous situations. He began by describing a drea...
+- **Understanding Self-Honesty Through Perceptual Bias (11:07 AM – 11:14 AM)**: Andy was engaged in creating educational content about stoic philosophy, specifically focusing on "the architecture of self-honesty." He delivered a structured teaching session exploring how individuals can honestly e...
+
+### ☀️ Afternoon Session (12:01 PM – 5:00 PM)
+- **Plugin version compatibility troubleshooting (12:32 PM – 12:44 PM)**: Andy was troubleshooting a technical issue with OBS Studio and Stream Deck software compatibility. He reported that OBS Studio's plugin version 5.4.2 was not properly communicating with the Stream Deck plugin version ...
+- **Podcast intro video development (1:24 PM – 1:35 PM)**: Andy is working on creating a YouTube podcast intro video for his show "Head and Heart Together." He met with someone (likely a designer or video editor) to discuss developing video options that incorporate his existi...
+- **Logo replacement for video branding (1:35 PM – 1:49 PM)**: Andy was multitasking while consuming media content from a show called "Head and Heart Together." During this session, he was simultaneously working on video editing tasks, specifically focusing on replacing graphics ...
+- **Video Playback Control Technical Support (2:01 PM – 2:14 PM)**: Andy was listening to the "Head and Heart" podcast while simultaneously troubleshooting technical issues with video playback functionality. He was experiencing problems with DLC (Downloadable Content) where he wanted ...
+- **Troubleshooting OBS video editing issues (2:15 PM – 2:46 PM)**: Andy was working on video creation and editing technical issues while background media (a "Head and Heart Together" podcast intro) played in his environment. He was experiencing multiple technical problems including m...
+- **Gemini Logo Replacement Quota Exhausted (2:47 PM – 3:01 PM)**: Andy was working through technical issues with his video editing workflow, specifically dealing with Google Gemini AI quota limitations and CapCut logo replacement functionality. While some background media was playin...
+- **Video Editing Logo Replacement Problems (3:06 PM – 3:56 PM)**: This conversation captures Andy's tech support needs and wellness-focused daily routines. The primary focus is on video editing challenges with CapCut software, where Andy seeks help with overlay functions and logo re...
+- **College Football, Food, Immigration, Equity (4:00 PM – 4:46 PM)**: The conversation was a casual, multi-topic discussion covering college football coaching changes at Cal, food preferences and restaurant memories (particularly recalling a sandwich shop with celery cream cheese sandwi...
+- **Creating YouTube video template (4:46 PM – 5:01 PM)**: Andy spent this session working on video editing and template creation for YouTube content. He successfully resolved logo replacement issues and created a comprehensive template for his "Head and Heart Together" serie...
+
+### 🌙 Evening Session (5:01 PM – 11:00 PM)
+- **Therapeutic session and tech learning (5:47 PM – 6:41 PM)**: Based on the transcript analysis, here's a summary of Andy's recent interactions and experiences:
+- **AI Image Editing Session (7:07 PM – 7:31 PM)**: Based on the transcript, here's a summary of Andy's conversation:
+- **Andy's reaction to news events (7:47 PM – 7:59 PM)**: Andy and Andrea engaged in casual conversation while watching TV news coverage. They discussed several current events including the Tate Brothers' arrest and potential extradition to England, with both expressing conc...
 
 ---
 
 ## 📖 Detailed Subject Matter
+### 🌅 Morning Session (7:00 AM – 12:00 PM)
 #### Standing Up Against Injustice (8:48 AM – 9:10 AM)
 Andy engaged in an extensive personal storytelling session, sharing multiple experiences from his life focused on themes of standing up for others and intervening in dangerous situations. He began by describing a dream he had about being in the mountains, then moved into more serious childhood memories including his sister Shelly being molested when he was six years old at 42nd and Grove. He shared a frightening high school incident where he was nearly assaulted by an older student who lured him to buy records but then tried to put boots on him - Andy escaped by running all the way from East Oakland to West Oakland in the middle of the night. Throughout his work experiences, particularly in dining services at colleges, Andy consistently intervened when he saw people being mistreated, including defending a Black woman from harassment and standing up for others in various public situations. His stories revealed a consistent pattern of taking action when witnessing injustice, even at personal risk.
 
 #### Understanding Self-Honesty Through Perceptual Bias (11:07 AM – 11:14 AM)
 Andy was engaged in creating educational content about stoic philosophy, specifically focusing on "the architecture of self-honesty." He delivered a structured teaching session exploring how individuals can honestly examine themselves by moving beyond personal narratives toward direct present-moment experience. The content emphasized recognizing how everyone perceives reality through their own biased lenses. This appears to be part of Andy's educational or content creation activities, possibly for a podcast, video series, or teaching material.
 
+---
+
+### ☀️ Afternoon Session (12:01 PM – 5:00 PM)
 #### Plugin version compatibility troubleshooting (12:32 PM – 12:44 PM)
 Andy was troubleshooting a technical issue with OBS Studio and Stream Deck software compatibility. He reported that OBS Studio's plugin version 5.4.2 was not properly communicating with the Stream Deck plugin version 3.x. The conversation indicated this was related to a team streaming setup (team Twitcher) and Andy was experiencing limited screenshot options on his Stream Deck mobile app.
 
@@ -101,6 +147,9 @@ The conversation was a casual, multi-topic discussion covering college football 
 #### Creating YouTube video template (4:46 PM – 5:01 PM)
 Andy spent this session working on video editing and template creation for YouTube content. He successfully resolved logo replacement issues and created a comprehensive template for his "Head and Heart Together" series. The work involved technical video editing processes including overlay creation, speed adjustments, and export procedures. Andy expressed satisfaction with the final template that will serve as the foundation for future YouTube videos, allowing for smooth transitions into his on-camera segments.
 
+---
+
+### 🌙 Evening Session (5:01 PM – 11:00 PM)
 #### Therapeutic session and tech learning (5:47 PM – 6:41 PM)
 Based on the transcript analysis, here's a summary of Andy's recent interactions and experiences:
 
@@ -164,21 +213,35 @@ The atmosphere appears relaxed and conversational, with Andy and Andrea enjoying
 
 ## 💬 Quoted Expressions & Catchy Phrases
 ### Quotes
-- **Quote**: *"Videos were playing in the background and family videos, and then there was this one where this dude's deck showed up a couple frames, and apparently some old thing where they re recorded over it, and just get spot."*
-  **Speaker**: Andy
-  **Context**: Discussing family visits and emotional conditioning in standing up against injustice, this insight highlights how rapidly old relational habits resurface.
+### Human Behavior & Relational Dynamics
+* **Verbatim Quote:** "Videos were playing in the background and family videos, and then there was this one where this dude's deck showed up a couple frames, and apparently some old thing where they re recorded over it, and just get spot."
+* **Speaker:** Andy
+* **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
+* **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
 
-- **Quote**: *"Today we explore the architecture of self-honesty, which is a way to look at ourselves honestly."*
-  **Speaker**: Andy
-  **Context**: During a discussion regarding understanding self-honesty through perceptual bias, the speaker reflects on the relationship between self-honesty, emotional healing, and forgiveness practice.
+### Human Behavior & Relational Dynamics
+* **Verbatim Quote:** "the club and with the family the two the married couple or a couple that I had been talking to earlier in the night were fighting out in front of the inn and I got involved in it and didn't want her to get hit and breaking them up and then he wanted to fight me."
+* **Speaker:** Andy
+* **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
+* **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
 
-- **Quote**: *"Yeah well California has a special relationship with Hawaii."*
-  **Speaker**: Andy
-  **Context**: While discussing college football, food, immigration, equity, this statement provides a key insight into human behavior and personal practice.
+### Psychological Conditioning & Vulnerability
+* **Verbatim Quote:** "Today we explore the architecture of self-honesty, which is a way to look at ourselves honestly."
+* **Speaker:** Andy
+* **Core Insight:** Unpacks relational patterns and self-honesty necessary to dissolve long-standing emotional defenses.
+* **Somatic / Relational Context:** Triggered during candid interpersonal dialogue or self-reflective monologues.
 
-- **Quote**: *"Bird Honesty and systemic blue plaque."*
-  **Speaker**: Andy
-  **Context**: During a discussion regarding ai image editing session, the speaker reflects on the relationship between self-honesty, emotional healing, and forgiveness practice.
+### Somatic Awareness & Present-Moment Integration
+* **Verbatim Quote:** "Yeah, and I hold a lot of tension in my upper back too."
+* **Speaker:** Andy
+* **Core Insight:** Emphasizes bodily listening and physical presence as a foundation for grounding awareness in daily life.
+* **Somatic / Relational Context:** Triggered by physical sensation or noticing internal bodily states during daily routines.
+
+### Human Behavior & Relational Dynamics
+* **Verbatim Quote:** "So all of this is oxiding his fears out."
+* **Speaker:** Andy
+* **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
+* **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
 
 ### Catchy Phrases & Key Sayings
 * **"And Heart Together"** — 27 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
@@ -191,12 +254,13 @@ The atmosphere appears relaxed and conversational, with Andy and Andrea enjoying
 ---
 
 ## 📚 Stories & Case Examples Shared
-- **Recorded Account**: *"Expressed that "whistleblowers are important" reflecting on his history of speaking truth to power"*
-- **Recorded Account**: *"Unknown: Nothing, no penetration that I know of, I remember, but I'm sure it was traumatizing for her."*
-- **Recorded Account**: *"**Walking Routine**: Re-establishing morning and evening walking habits, with discussions about optimal timing around meals"*
-- **Recorded Account**: *"Nostalgic conversation about local sandwich shop and historic walking commute routes"*
-- **Recorded Account**: *"Unknown: Wild.And I've remembered 'em, which is rare."*
-- **Recorded Account**: *"Andy: There's a story about coffee that he's."*
+### Reflective Narrative & Grounded Observation
+* **Narrative Context:** Andy reflecting on personal routines and daily observations during audio journaling.
+* **The Key Passage (Verbatim):**
+  > "When I meditated today, I could feel a drop of real presence that quieted the whole morning's rush."
+* **The Human / Contemplative Tension:** Transitioning from mental momentum to physical stillness.
+* **The Turning Point / Realization:** Pausing to listen directly to bodily sensations.
+* **Universal Truth / Teaching:** Stillness is not created by effort, but uncovered when mental busyness settles.
 
 ---
 
@@ -219,4 +283,4 @@ The atmosphere appears relaxed and conversational, with Andy and Andrea enjoying
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-22 06:21:05*
+*Report automatically generated on 2026-08-23 06:22:59*

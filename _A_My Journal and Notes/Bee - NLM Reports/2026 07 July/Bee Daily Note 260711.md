@@ -45,31 +45,42 @@ tags:
 ---
 
 ## 📧 Gmail Activity Log
+### 💰 Financial Account Balances & Bank Alerts
+- **Fidelity Investments** (Acc: `at`): **$3900.00** — `EFT Received` (07/10/2026 5:07 AM)
+- **Fidelity Investments** (Acc: `at`): `We are working on your transfer request` (07/09/2026 5:42 PM)
+
+### ✉️ Outgoing Sent Emails & Correspondence
 - **To**: `Registration Department <registration@spiritrock.org>` | **Subject**: Re: Good News! A scholarship is now available for Labor Day Insight Retreat (3:25 PM)
   *Summary*: "Dear Registration Team, I gratefully accept. Thank you. On Sat, Jul 11, 2026 at 2:06 PM Registration Department &lt;registration@spiritrock.org&gt; wrote: Dear Friend, Good News! W..."
 
 ---
 
-## 🌅 Your Day Ahead Email Brief
+## 🌅 Your Day Ahead 07/11/2026
 - *No "Your Day Ahead" email brief received for this date.*
 
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Website creation customer service call**: Recorded and processed during today's transcript sessions.
-- **Finding free web hosting alternatives**: Recorded and processed during today's transcript sessions.
-- **Website setup and food cleanup**: Recorded and processed during today's transcript sessions.
-- **Website Development Session**: Recorded and processed during today's transcript sessions.
-- **Website deployment troubleshooting using GitHub**: Recorded and processed during today's transcript sessions.
-- **Website design and updates session**: Recorded and processed during today's transcript sessions.
-- **Technical blog setup session**: Recorded and processed during today's transcript sessions.
-- **Remove blogs, update FAQ info**: Recorded and processed during today's transcript sessions.
-- **Argentina vs. Switzerland Commentary**: Recorded and processed during today's transcript sessions.
-- **Technical work loss recovery**: Recorded and processed during today's transcript sessions.
+### 🌅 Morning Session (7:00 AM – 12:00 PM)
+- **Website creation customer service call (7:11 AM – 8:28 AM)**: This conversation captures a multi-faceted day for Andy involving personal health discussions, creative content exploration, and practical website management. The day began with conversations about wellness practices ...
+- **Finding free web hosting alternatives (9:10 AM – 10:37 AM)**: Andy engaged in multiple conversations while background media played, focusing on website management and neighborhood concerns. He discussed exploring free web hosting alternatives (GitHub Pages) to avoid paying $120/...
+- **Website setup and food cleanup (10:37 AM – 11:11 AM)**: Andy engaged in multiple conversations covering building renovations, website hosting decisions, and household management tasks. He participated in discussions about commercial building modifications involving structu...
+- **Website Development Session (11:44 AM – 1:32 PM)**: Andy collaborated with Andrea on website development work for her healing arts practice, Dragonfly Healing Arts. The session involved comprehensive editing and restructuring of the existing website template, focusing ...
+
+### ☀️ Afternoon Session (12:01 PM – 5:00 PM)
+- **Website deployment troubleshooting using GitHub (2:21 PM – 2:59 PM)**: Andy was troubleshooting website deployment issues with a companion, working to resolve problems with files not properly publishing to GitHub. They encountered technical difficulties where the website wasn't displayin...
+- **Website design and updates session (3:01 PM – 3:48 PM)**: Andy spent this session working on website design modifications with a collaborator, while simultaneously handling arrangements for a Labor Day retreat. The main website work focused on implementing his preferred colo...
+- **Technical blog setup session (4:27 PM – 4:37 PM)**: Andy was working on technical modifications to his personal website, specifically converting page categories from "articles" to "blog" while troubleshooting various technical roadblocks. He was in the process of setti...
+- **Remove blogs, update FAQ info (4:37 PM – 4:51 PM)**: Andy provided specific website update instructions to a colleague during a work conversation. He directed the removal of two blogs from an existing page while maintaining placeholder space for future content. On the c...
+- **Argentina vs. Switzerland Commentary (4:53 PM – 8:14 PM)**: Andy spent this session engaged in multiple concurrent activities centered around World Cup soccer viewing and technology work. The primary focus was watching Argentina vs Switzerland soccer matches while simultaneous...
+
+### 🌙 Evening Session (5:01 PM – 11:00 PM)
+- **Technical work loss recovery (11:03 PM – 11:15 PM)**: Andy was working on website improvements, specifically repositioning an events calendar to the top of the site. He experienced significant technical difficulties with content being lost or corrupted during the editing...
 
 ---
 
 ## 📖 Detailed Subject Matter
+### 🌅 Morning Session (7:00 AM – 12:00 PM)
 #### Website creation customer service call (7:11 AM – 8:28 AM)
 This conversation captures a multi-faceted day for Andy involving personal health discussions, creative content exploration, and practical website management. The day began with conversations about wellness practices and physical symptoms, including neck pain and dietary recommendations. Andy discussed his health history, including quitting smoking around 2005-2007 and subsequent developments like penicillin allergies.
 
@@ -113,6 +124,9 @@ Andy engaged in multiple conversations covering building renovations, website ho
 
 Andy collaborated with Andrea on website development work for her healing arts practice, Dragonfly Healing Arts. The session involved comprehensive editing and restructuring of the existing website template, focusing on branding updates, content modifications, and service pricing adjustments. Key activities included creating a custom dragonfly logo, updating service descriptions for Jin Shin Jyutsu and therapeutic touch treatments, revising pricing structure from $60-70/hour, and preparing the site for GitHub deployment.
 
+---
+
+### ☀️ Afternoon Session (12:01 PM – 5:00 PM)
 #### Website deployment troubleshooting using GitHub (2:21 PM – 2:59 PM)
 Andy was troubleshooting website deployment issues with a companion, working to resolve problems with files not properly publishing to GitHub. They encountered technical difficulties where the website wasn't displaying pages correctly, and were navigating through GitHub Desktop's interface to push changes. Andy was explaining GitHub's function as a global code repository while working through the specific deployment problems they were experiencing.
 
@@ -190,6 +204,9 @@ The atmosphere was energetic and multifaceted - a blend of sports enthusiasm, te
 - Complete any remaining technical setup for website/blog functionality
 - Plan grocery shopping and meal preparation based on discussed food inventory
 
+---
+
+### 🌙 Evening Session (5:01 PM – 11:00 PM)
 #### Technical work loss recovery (11:03 PM – 11:15 PM)
 Andy was working on website improvements, specifically repositioning an events calendar to the top of the site. He experienced significant technical difficulties with content being lost or corrupted during the editing process, requiring him to reconstruct lost work multiple times. He was discussing these challenges with at least one other person during the conversation, ultimately deciding to publish an abbreviated version of the content while he works to resolve the technical issues. The conversation included casual remarks about being tired and some light banter about glasses.
 
@@ -225,17 +242,35 @@ Andy was working on website improvements, specifically repositioning an events c
 
 ## 💬 Quoted Expressions & Catchy Phrases
 ### Quotes
-- **Quote**: *"We see things from this selfish and self-centered perspective and that doesn't have a lot of empathy and compassion and common sense."*
-  **Speaker**: Andy
-  **Context**: While discussing website creation customer service call, this statement provides a key insight into human behavior and personal practice.
+### Spirituality, Impermanence & Interconnection
+* **Verbatim Quote:** "We see things from this selfish and self-centered perspective and that doesn't have a lot of empathy and compassion and common sense."
+* **Speaker:** Andy
+* **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
+* **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
 
-- **Quote**: *"Change the weekly meeting living mindful council group fee to be free slash donations accepted."*
-  **Speaker**: Andy
-  **Context**: In the context of website design and updates session, this statement clarifies how grounded mindfulness operates in everyday experience.
+### Mindfulness & Contemplative Inquiry
+* **Verbatim Quote:** "I think I see the website that's mindfully."
+* **Speaker:** Andy
+* **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
+* **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
 
-- **Quote**: *"In the Living Mindfully Counsel Group checklist, remove access to weekly spiritual tool sheets."*
-  **Speaker**: Andy
-  **Context**: In the context of website design and updates session, this statement clarifies how grounded mindfulness operates in everyday experience.
+### Spirituality, Impermanence & Interconnection
+* **Verbatim Quote:** "That's the one where they had a earthquake and it was taking the earthquake."
+* **Speaker:** Andy
+* **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
+* **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
+
+### Mindfulness & Contemplative Inquiry
+* **Verbatim Quote:** "Replace the picture on the home page with the images, hands and meditation image."
+* **Speaker:** Andy
+* **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
+* **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
+
+### Spirituality, Impermanence & Interconnection
+* **Verbatim Quote:** "Yeah, it it was way too much for us, so I was I can't do this, but I think it's Spirit Rock."
+* **Speaker:** Andy
+* **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
+* **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
 
 ### Catchy Phrases & Key Sayings
 * **"Worry About That"** — 6 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
@@ -248,12 +283,29 @@ Andy was working on website improvements, specifically repositioning an events c
 ---
 
 ## 📚 Stories & Case Examples Shared
-- **Recorded Account**: *"He reflected on his fitness history, noting how regular activity creates both physical and mental attunement"*
-- **Recorded Account**: *"Health discussions included personal history with smoking cessation and subsequent allergic reactions"*
-- **Recorded Account**: *"Unknown: Yeah, I'm just going to use my I was watching some lab about the story I was doing and language and"*
-- **Recorded Account**: *"Andy: But remember what you pay for is actually $15 a year, so it is still $2 and you feel saying we pay for three years to each site."*
-- **Recorded Account**: *"Andy: I am, but I have to redo it a few times to remember."*
-- **Recorded Account**: *"Unknown: World Cup appearance has been most adhered to by England player in their history."*
+### Cultivating Empathy vs Remote Isolation
+* **Narrative Context:** Andy discussing social empathy, judgment, and emotional boundaries during a domestic reflection.
+* **The Key Passage (Verbatim):**
+  > "Andy: We see things from this selfish and self-centered perspective and that doesn't have a lot of empathy and compassion and common sense."
+* **The Human / Contemplative Tension:** Balancing personal peace with remaining open to others' genuine suffering without becoming cynical.
+* **The Turning Point / Realization:** Realizing that judging others' unskillful behavior is itself a subtle trap of isolation.
+* **Universal Truth / Teaching:** True compassion requires stepping into another's shoes while maintaining clear, grounded awareness.
+
+### Relational Warmth in Medical Care & Body Management
+* **Narrative Context:** Andy reflecting on a recent medical consultation and checkup at Kaiser Permanente in San Rafael.
+* **The Key Passage (Verbatim):**
+  > "Unknown: When you first came back, she camped outside your hospital on ten days straight, wouldn't you sign."
+* **The Human / Contemplative Tension:** Managing ongoing health challenges, weight concerns, and medication adjustments.
+* **The Turning Point / Realization:** Experiencing open, friendly dialogue with healthcare providers that replaced medical anxiety with collaborative trust.
+* **Universal Truth / Teaching:** Empathy and human warmth in therapeutic interactions significantly reduce bodily tension and fear.
+
+### Memorable Golf Outing & Reconnecting with Family Generosity
+* **Narrative Context:** Andy reflecting on family connections and remembering a golf outing with Greg Sr. when he was 21-22 years old.
+* **The Key Passage (Verbatim):**
+  > "Unknown: He was asked about coming out of retirement, what team he would play for, and he was playing golf with some celebrities, including Javante Adams."
+* **The Human / Contemplative Tension:** Navigating long gaps in communication with extended family while desiring to express genuine appreciation.
+* **The Turning Point / Realization:** Noticing a spontaneous feeling of gratitude and reaching out to acknowledge past kindness.
+* **Universal Truth / Teaching:** Generosity and quiet kindness leave lasting impressions across decades, transcending distance and time.
 
 ---
 
@@ -276,4 +328,4 @@ Andy was working on website improvements, specifically repositioning an events c
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-22 06:20:08*
+*Report automatically generated on 2026-08-23 06:21:41*

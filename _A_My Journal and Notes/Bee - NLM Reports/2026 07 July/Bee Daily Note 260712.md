@@ -39,29 +39,40 @@ tags:
 ---
 
 ## 📧 Gmail Activity Log
+### 💰 Financial Account Balances & Bank Alerts
+- **Fidelity Investments**: `We are working on your transfer request` (07/13/2026 3:25 PM)
+- **Bank of America**: **$675.00, $675.00** — `Andrea Axtell sent you $675.00` (07/13/2026 11:50 AM)
+
+### ✉️ Outgoing Sent Emails & Correspondence
 - **To**: `Bob McConnell <bob@contact-mgt.com>, Peter King <peterhking@outlook.com>, Will Meecham <willspirit@icloud.com>, Kevin Jensen-Unger <kevinunger321@gmail.com>, Bill Vela <velalawoffice@gmail.com>, John Benet <red415@gmail.com>, Kiera McGuire <kmcguire4638@gmail.com>, Audel Salazar <audel.a.salazar@gmail.com>, Edwynen Nazarian <Edwynen@comcast.net>, Matt Ford <Chaotzutbp@yahoo.com>, Colette Sweeny <colettesweeny@icloud.com>, Andrea Axtell <dragonflylodge.aa@gmail.com>, Debra Jensen-Unger <djensenunger@gmail.com>, Nick Franklin <nickfranklin23@gmail.com>, Hugh Bricarelli <hughb80@gmail.com>, Georgie Rayner <georgiekat@comcast.net>` | **Subject**: Living Mindfully Meditation (10:38 AM)
   *Summary*: "Hello , Following up on my last email about living mindfully. Interest in the Living Mindfully Council session was nonexistent, so I have decided to move forward with the meditatio..."
 
 ---
 
-## 🌅 Your Day Ahead Email Brief
+## 🌅 Your Day Ahead 07/12/2026
 - *No "Your Day Ahead" email brief received for this date.*
 
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Organizing Thursday Meditation Group Sessions**: Recorded and processed during today's transcript sessions.
-- **Pages CMS Blog Implementation Challenges**: Recorded and processed during today's transcript sessions.
-- **CMS blog publishing layout index**: Recorded and processed during today's transcript sessions.
-- **Header, Footer, and Link Updates**: Recorded and processed during today's transcript sessions.
-- **Website Development and Script Creation**: Recorded and processed during today's transcript sessions.
-- **Meditation Retreat Planning Discussion**: Recorded and processed during today's transcript sessions.
-- **Warriors vs Thunder Game Commentary**: Recorded and processed during today's transcript sessions.
-- **Third eye and consciousness explained**: Recorded and processed during today's transcript sessions.
+### 🌅 Morning Session (7:00 AM – 12:00 PM)
+- **Organizing Thursday Meditation Group Sessions (10:15 AM – 10:40 AM)**: Andy is establishing an independent meditation group called "HeadHeart Together" after a council session didn't go as planned. He's coordinating the group through his website (HeadHeartTogether.com) and setting up Goo...
+- **Pages CMS Blog Implementation Challenges (11:22 AM – 12:23 PM)**: Andy engaged in a collaborative web development session to update his Jin Shin Jyutsu website. The work focused on modifying the services page by adjusting logo placement and replacing images, then implementing a blog...
+
+### ☀️ Afternoon Session (12:01 PM – 5:00 PM)
+- **CMS blog publishing layout index (12:30 PM – 1:02 PM)**: Andy encountered technical issues with his Pages CMS interface where a saved blog post remained stuck in "editing" mode and failed to publish to his GitHub-hosted website. He discussed multiple blog functionality impr...
+- **Header, Footer, and Link Updates (2:10 PM – 2:30 PM)**: Andy provided technical website feedback for the "Head and Heart Together" website, identifying several specific functionality and content issues that need correction. He reported problems with navigation links, incor...
+- **Website Development and Script Creation (2:41 PM – 3:39 PM)**: Andy was engaged in two main activities during this conversation: technical web development work and preparing content for a meditation/teaching session on self-honesty. He was working on website updates using GitHub ...
+- **Meditation Retreat Planning Discussion (4:47 PM – 5:46 PM)**: Andy engaged in a multifaceted conversation covering retreat planning, media subscriptions, spiritual practice, and current events. The primary focus was on planning for a meditation retreat scheduled for September 2n...
+
+### 🌙 Evening Session (5:01 PM – 11:00 PM)
+- **Warriors vs Thunder Game Commentary (5:46 PM – 6:52 PM)**: Andy was watching a Golden State Warriors vs Oklahoma City Thunder basketball game with companions, engaging in typical sports commentary while also having a meaningful conversation with Andrea about profile photo qua...
+- **Third eye and consciousness explained (9:41 PM – 9:58 PM)**: Andy was engaged in an interactive conversation where he observed gauges on what he referred to as the "Bonaire Bridge" (likely a local landmark he's familiar with). During this time, he shared detailed scientific inf...
 
 ---
 
 ## 📖 Detailed Subject Matter
+### 🌅 Morning Session (7:00 AM – 12:00 PM)
 #### Organizing Thursday Meditation Group Sessions — 📍 930AM Meeting (10:15 AM – 10:40 AM)
 *Context / Event Alignment*: Overlaps with scheduled Calendar event **930AM Meeting**.
 
@@ -92,6 +103,9 @@ Andy's tone is focused and solution-oriented. He appears confident in moving for
 #### Pages CMS Blog Implementation Challenges (11:22 AM – 12:23 PM)
 Andy engaged in a collaborative web development session to update his Jin Shin Jyutsu website. The work focused on modifying the services page by adjusting logo placement and replacing images, then implementing a blog system using Pages CMS. Andy encountered technical difficulties with the CMS configuration and sought both immediate problem-solving and strategic advice about blog functionality integration.
 
+---
+
+### ☀️ Afternoon Session (12:01 PM – 5:00 PM)
 #### CMS blog publishing layout index (12:30 PM – 1:02 PM)
 Andy encountered technical issues with his Pages CMS interface where a saved blog post remained stuck in "editing" mode and failed to publish to his GitHub-hosted website. He discussed multiple blog functionality improvements including image scaling, displaying blog dates and tags, ensuring new posts appear on the main blog page, and adding a sidebar index organized by date or tags. Andy sought assistance with reorganizing the blog layout to have individual posts on the left side with the index sidebar on the right.
 
@@ -126,6 +140,9 @@ The atmosphere was collaborative and focused, with a mix of technical problem-so
 #### Meditation Retreat Planning Discussion (4:47 PM – 5:46 PM)
 Andy engaged in a multifaceted conversation covering retreat planning, media subscriptions, spiritual practice, and current events. The primary focus was on planning for a meditation retreat scheduled for September 2nd-7th, discussing logistics, costs, and participation options. The conversation also included practical discussions about streaming service bundle pricing and philosophical discussions about group dynamics in recovery settings.
 
+---
+
+### 🌙 Evening Session (5:01 PM – 11:00 PM)
 #### Warriors vs Thunder Game Commentary (5:46 PM – 6:52 PM)
 Andy was watching a Golden State Warriors vs Oklahoma City Thunder basketball game with companions, engaging in typical sports commentary while also having a meaningful conversation with Andrea about profile photo quality and web standards. The session included casual sports discussion, basketball game viewing, and practical advice-giving about digital image quality for online profiles.
 
@@ -171,25 +188,35 @@ No clear action items emerged from this conversation transcript.
 
 ## 💬 Quoted Expressions & Catchy Phrases
 ### Quotes
-- **Quote**: *"I would to provide a follow-up from my last email message about living mindfully."*
-  **Speaker**: Andy
-  **Context**: In the context of organizing thursday meditation group sessions, this statement clarifies how grounded mindfulness operates in everyday experience.
+### Mindfulness & Contemplative Inquiry
+* **Verbatim Quote:** "I would to provide a follow-up from my last email message about living mindfully."
+* **Speaker:** Andy
+* **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
+* **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
 
-- **Quote**: *"format will be similar to what I had with Marin Mindful Recovery, but will not be strictly for those in recovery."*
-  **Speaker**: Andy
-  **Context**: In the context of organizing thursday meditation group sessions, this statement clarifies how grounded mindfulness operates in everyday experience.
+### Mindfulness & Contemplative Inquiry
+* **Verbatim Quote:** "The council session did not go well, so I have decided that I should just move forward with the meditation group."
+* **Speaker:** Andy
+* **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
+* **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
 
-- **Quote**: *"He will be interested, he will be open to anybody that is interested in mindfulness or spiritual practices."*
-  **Speaker**: Andy
-  **Context**: In the context of organizing thursday meditation group sessions, this statement clarifies how grounded mindfulness operates in everyday experience.
+### Mindfulness & Contemplative Inquiry
+* **Verbatim Quote:** "format will be similar to what I had with Marin Mindful Recovery, but will not be strictly for those in recovery."
+* **Speaker:** Andy
+* **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
+* **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
 
-- **Quote**: *"First subject that I would to cover would be honesty, focusing prim pro focusing primarily on self-honesty."*
-  **Speaker**: Andy
-  **Context**: During a discussion regarding website development and script creation, the speaker reflects on the relationship between self-honesty, emotional healing, and forgiveness practice.
+### Somatic Awareness & Present-Moment Integration
+* **Verbatim Quote:** "He will be interested, he will be open to anybody that is interested in mindfulness or spiritual practices."
+* **Speaker:** Andy
+* **Core Insight:** Emphasizes bodily listening and physical presence as a foundation for grounding awareness in daily life.
+* **Somatic / Relational Context:** Triggered by physical sensation or noticing internal bodily states during daily routines.
 
-- **Quote**: *"Delete the words live meeting past and leave the architecture of self-honesty."*
-  **Speaker**: Andy
-  **Context**: During a discussion regarding website development and script creation, the speaker reflects on the relationship between self-honesty, emotional healing, and forgiveness practice.
+### Spirituality, Impermanence & Interconnection
+* **Verbatim Quote:** "Please revise this and use my signature."
+* **Speaker:** Andy
+* **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
+* **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
 
 ### Catchy Phrases & Key Sayings
 * **"The The The The The"** — 8 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
@@ -202,9 +229,21 @@ No clear action items emerged from this conversation transcript.
 ---
 
 ## 📚 Stories & Case Examples Shared
-- **Recorded Account**: *"**Current Events**: Andy shared news updates about Mitch McConnell's hospitalization following a fall, noting treatment for mild pneumonia and absence of serious conditions stroke or heart attack."*
-- **Recorded Account**: *"Unknown: But you're you're open you're silent that yeah, I remember the last two times one was the two girls from New Jersey and I sat with my mentor what's your name"*
-- **Recorded Account**: *"Unknown: We'll tell a little bit of his story."*
+### Relational Warmth in Medical Care & Body Management
+* **Narrative Context:** Andy reflecting on a recent medical consultation and checkup at Kaiser Permanente in San Rafael.
+* **The Key Passage (Verbatim):**
+  > "Current Events**: Andy shared news updates about Mitch McConnell's hospitalization following a fall, noting treatment for mild pneumonia and absence of serious conditions stroke or heart attack."
+* **The Human / Contemplative Tension:** Managing ongoing health challenges, weight concerns, and medication adjustments.
+* **The Turning Point / Realization:** Experiencing open, friendly dialogue with healthcare providers that replaced medical anxiety with collaborative trust.
+* **Universal Truth / Teaching:** Empathy and human warmth in therapeutic interactions significantly reduce bodily tension and fear.
+
+### Relational Warmth in Medical Care & Body Management
+* **Narrative Context:** Andy reflecting on a recent medical consultation and checkup at Kaiser Permanente in San Rafael.
+* **The Key Passage (Verbatim):**
+  > "Andy: Oh, Mitch McConnell says fall led to hospitalization, breaking weeks of silence about his health condition."
+* **The Human / Contemplative Tension:** Managing ongoing health challenges, weight concerns, and medication adjustments.
+* **The Turning Point / Realization:** Experiencing open, friendly dialogue with healthcare providers that replaced medical anxiety with collaborative trust.
+* **Universal Truth / Teaching:** Empathy and human warmth in therapeutic interactions significantly reduce bodily tension and fear.
 
 ---
 
@@ -227,4 +266,4 @@ No clear action items emerged from this conversation transcript.
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-22 06:20:14*
+*Report automatically generated on 2026-08-23 06:21:49*

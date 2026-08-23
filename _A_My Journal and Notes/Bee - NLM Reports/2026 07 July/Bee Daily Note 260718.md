@@ -35,38 +35,80 @@ tags:
 ---
 
 ## 📧 Gmail Activity Log
+### 💰 Financial Account Balances & Bank Alerts
+- **Bank of America**: **$300.00, $0.00** — `We received your mobile check deposit` (07/18/2026 3:15 PM)
+
+### ✉️ Outgoing Sent Emails & Correspondence
 - **To**: `Nicole Skibola <nskibola@gmail.com>` | **Subject**: Re: Marin DSA - Urgent Membership Billing Issue for Monthly Dues (4:32 PM)
   *Summary*: "Nicole, Please check with your National Office on this. I was give a years grace so they could keep me as a member. I am on a fixed income and need to reduce costs. I hope you unde..."
 
 ---
 
-## 🌅 Your Day Ahead Email Brief
+## 🌅 Your Day Ahead 07/18/2026
 - **Subject**: `💌 Your Day Ahead 07/18/2026` (7:02 AM)
 
-> ...
+> ### Top of mind
 > 
-> ---
-> CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact labs-cc-support@google.com or disconnect here: https://myaccount.google.com/connections#:~:text=CC
+> - Health Alert: A parasitic outbreak (cyclosporiasis) has been linked to shredded iceberg lettuce from a California supplier, affecting Taco Bell chains in several states [🔗 View alert](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871000076576919884)
+>   - The FDA confirmed the outbreak originated from a California supplier.
+> - 5 min Consider attending the Good Trouble street protest in Point Reyes Station today, Saturday, July 18th from 11:30 AM to 1:00 PM [🔗 View email](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870810931550230629) [📅 Add Event](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Good+Trouble+Street+Protest&dates=20260718T113000%2F20260718T130000&ctz=America%2FLos_Angeles&details=Music+and+singing+as+part+of+the+John+Lewis+Weekend+of+Action.+Source%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19f674a158f81865&location=Point+Reyes+Station%2C+CA&add=)
+>   - The event features music and singing as part of the John Lewis Weekend of Action.
+> - The rally previously scheduled for today, Saturday, July 18th at Civic Center Drive in San Rafael has been cancelled [🔗 View update](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870811295178129802)
+>   - Note: The 'Good Trouble Lives On' event at the San Rafael farmer's market on Sun, Jul 19th is still on your calendar.
+> - Today • 12:00 PM • World Cup 3rd Place Game (3h) [📅 View event](https://www.google.com/calendar/event?eid=N2ppbTczMXZydXMwOWhpMzc4bTNscWFhamsgc3Bhcmt5Zmxhc2hyZWJvYkBt)
+> - Today • 5:30 PM • Warriors vs Lakers Summer League (2h) [📅 View event](https://www.google.com/calendar/event?eid=NWNwbDR0dmYzdnNvM2V2bjNuc2dhcG9sZGogc3Bhcmt5Zmxhc2hyZWJvYkBt)
+> - Today • 7:00 PM • Saturday Night Puja (2h) [📅 View event](https://www.google.com/calendar/event?eid=NjVpamNvcGc2Y3BqZWI5ZzcwcG1hYjlrNzRwajRiYjFjNWdtNGI5Z2NwaTYyZTMxY2NwNjJjMW1jZ18yMDI2MDcxOVQwMjAwMDBaIHNwYXJreWZsYXNocmVib2JAbQ)
+> - Today • 7:00 PM • Saturday Night Puja (2h) [📅 View event](https://www.google.com/calendar/event?eid=NjVpamNvcGc2Y3BqZWI5ZzcwcG1hYjlrNzRwajRiYjFjNWdtNGI5Z2NwaTYyZTMxY2NwNjJjMW1jZ18yMDI2MDcyNlQwMjAwMDBaIHNwYXJreWZsYXNocmVib2JAbQ)
+> - Sun, Jul 19 • 7:00 AM • Morning Practice Zoom w/ Ed Brown (1h 15m) [📅 View event](https://www.google.com/calendar/event?eid=M3Z1bW84dnE4aHVwdnYwMWwxN2Eyc2FrM2tfMjAyNjA3MTlUMTQwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0)
+>   - Join via [✨ Zoom](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09) (Password: beyond).
+> - Sun, Jul 19 • 9:30 AM • 930AM Meeting (1h) [📅 View event](https://www.google.com/calendar/event?eid=YzhyajJvOWs2aGkzOGJiMWNvc21hYjlrNzFoNjhiOW82OHJtY2I5bDYwczM0ZDM0Y2dxajRvaGc2c18yMDI2MDcxOVQxNjMwMDBaIHNwYXJreWZsYXNocmVib2JAbQ)
+> - Sun, Jul 19 • 10:00 AM • SAN RAFAEL Good Trouble Lives On (1h 30m) at Marin County Civic Center, 3501 Civic Center Dr, San Rafael, CA 94903 [📅 View event](https://www.google.com/calendar/event?eid=MjhmMzZsNG9sbGxkNTIzdmZ1ZDExbHVub2kgc3Bhcmt5Zmxhc2hyZWJvYkBt) [🔗 Directions](https://www.google.com/maps/search/?api=1&query=Marin+County+Civic+Center%2C+3501+Civic+Center+Dr%2C+San+Rafael%2C+CA%2C+94903)
+>   - Meet at the free speech area at the first entrance to the farmers market closest to the Civic Center.
+> - Sun, Jul 19 • 12:00 PM • World Cup FINAL (3h) [📅 View event](https://www.google.com/calendar/event?eid=MnY1Z2hjZzlkMjVtMjRjN2l1ODFvbWhyaWogc3Bhcmt5Zmxhc2hyZWJvYkBt)
+> - Sun, Jul 19 • 5:00 PM • Socialism and the Black Radical Tradition (1h 30m) [📅 View event](https://www.google.com/calendar/event?eid=X2M4c2plcXJsZDhzbXVkajNlMHBqMHA5aGQwcjMwcnJhNjFoamlyajVjaG5qY2NqamQ5aDZjZGJhNnBubXVvamFjZ29uMGRqMWR0bDZjb3BwNjByNmFzajI2NWkzYXI5aWVkbm40cGo0ZGMgc3Bhcmt5Zmxhc2hyZWJvYkBt)
+>   - Featuring Cori Bush and Chris Rabb. Join via [✨ Zoom](https://dsausa.zoom.us/w/83208101017?tk=qa_TlVhoD7QjZV_G6Z_uZroEDymMM35hvFVuBQsjwEs.DQkAAAATX5bcmRZwanNRcDhVbVRveWhDTlJmSVZlVy13AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&uuid=WN_eLadiCqjSCuxpfJYWMa6Ew)
+> 
+> ### FYI
+> 
+> - 10 min Prepare for the AASF Marin Teleservice Business Meeting on Mon, Jul 20th [🔗 View email](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871003643015144951) [📅 Add Event](https://calendar.google.com/calendar/render?action=TEMPLATE&text=AASF+Marin+Teleservice+Business+Meeting&dates=20260720T180000%2F20260720T200000&ctz=America%2FLos_Angeles&details=Orientation+at+6%3A00+PM.+Meeting+at+6%3A45+PM.+Zoom%3A+https%3A%2F%2Fus02web.zoom.us%2Fj%2F84707673404+%28ID%3A+847+0767+3404%2C+PW%3A+1821%29.+Source%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19f723e67b6125f7&location=https%3A%2F%2Fus02web.zoom.us%2Fj%2F84707673404&add=)
+>   - Orientation starts at 6:00 PM, followed by the meeting at 6:45 PM via [✨ Zoom](https://us02web.zoom.us/j/84707673404) (ID: 847 0767 3404, PW: 1821).
+>   - Reply to Brian at [✉️ teleservice@aasfmarin.org](mailto:teleservice@aasfmarin.org) with any agenda items [✉️ Reply](mailto:telecomms@aasfmarin.org?subject=Re%3A%20Teleservice%20Business%20Meeting%2C%20Mon%20July%2020th&body=Hi%20Brian%2C%0A%0AI%27m%20planning%20to%20attend%20the%20Teleservice%20Business%20Meeting%20on%20Monday.%20Here%20are%20a%20few%20agenda%20items%20I%27d%20like%20to%20discuss%3A%20%0A%0A%5BInsert%20Items%5D%0A%0AThanks%2C%0AAndy)
+> - Upcoming community and social events on Sat, Jul 25th.
+>   - Council Potluck: Gathering from 5:30 PM to 9:00 PM at 1721 Pine Ave, Petaluma, CA 94954 [🔗 View details](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870356188618275932) [🔗 Map](https://www.google.com/maps/search/?api=1&query=1721+Pine+Ave%2C+Petaluma%2C+CA+94954) [📅 View Event](https://www.google.com/calendar/event?eid=YzlpM2dvcGw2ZGkzY2JiMmM4cDZjYjlrNmdvbTZiYjJjOWkzMmJiM2M0cG1jZWI0NjFoMzhlMW1jZyBzcGFya3lmbGFzaHJlYm9iQG0)
+>   - ⏱️ 5m • Maria Muldaur Concert: Consider attending the Jazzabelle Quintet performance at 7:30 PM at 549 Magnolia Ave, Larkspur, CA 94939 [🔗 View flyer](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870918013705802430) [🔗 Map](https://www.google.com/maps/search/?api=1&query=549+Magnolia+Ave%2C+Larkspur%2C+CA+94939) [📅 Add Event](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Maria+Muldaur+Concert+%28Jazzabelle+Quintet%29&dates=20260725T193000%2F20260725T213000&ctz=America%2FLos_Angeles&details=Performance+at+7%3A30+PM.+Source%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19f6d6055ad052be&location=549+Magnolia+Ave%2C+Larkspur%2C+CA+94939&add=)
+> - Administrative and account updates.
+>   - ⏱️ 10m • FasTrak: Your July statement was issued on Jul 12th. Review for any discrepancies within 30 days [🔗 Review statement](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871031658798710807) [📅 Add Reminder](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Review+FasTrak+July+Statement&dates=20260731T090000%2F20260731T100000&ctz=America%2FLos_Angeles&details=Review+for+discrepancies+within+30+days+of+July+12th.+Source%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19f73d616a350017&location=&add=)
+>   - PDF Help: Account created on Jul 17th for [✉️ sparkyflashrebob@gmail.com](mailto:sparkyflashrebob@gmail.com) . Credentials available in [🔗 source email](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870989970735838801)
+>   - PIXLR: Subscription payment of $3.99 USD processed via PayPal (Visa Debit ending in 6681) on Jul 17th [🔗 View receipt](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870991665329704702)
 
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Authentic Living and Practical Matters**: Recorded and processed during today's transcript sessions.
-- **Meditation techniques and spiritual devotion**: Recorded and processed during today's transcript sessions.
-- **Shoulder rehab, honesty talk, game**: Recorded and processed during today's transcript sessions.
-- **Document review and paperwork organization**: Recorded and processed during today's transcript sessions.
-- **Summer League Basketball Madness**: Recorded and processed during today's transcript sessions.
-- **Lock screen accessibility options explained**: Recorded and processed during today's transcript sessions.
+### 🌅 Morning Session (7:00 AM – 12:00 PM)
+- **Authentic Living and Practical Matters (7:48 AM – 8:52 AM)**: This conversation took place during what appears to be a casual gathering, with Andy, Andrea, and others discussing daily life topics ranging from coffee experiences to financial planning. Andy shared practical knowle...
+- **Meditation techniques and spiritual devotion (9:00 AM – 9:40 AM)**: Andy engaged in post-meditation reflections and discussions, focusing on trauma-informed mindfulness practices. He described his meditation experience involving awareness of physical sensations while maintaining lovin...
+
+### ☀️ Afternoon Session (12:01 PM – 5:00 PM)
+- **Shoulder rehab, honesty talk, game (1:28 PM – 1:41 PM)**: Andy spent the evening at home working on adapting a talk about honesty for YouTube delivery, which requires a different approach than his usual group presentations. He engaged in casual conversation with Andrea and h...
+- **Document review and paperwork organization (3:08 PM – 3:18 PM)**: Andy engaged in a practical administrative session with Andrea and another person to organize financial documents and insurance paperwork. The conversation centered on reimbursement matters, insurance coverage for bod...
+- **Summer League Basketball Madness (4:39 PM – 8:20 PM)**: Andy spent this session primarily watching and listening to background media content, with brief conversational interactions with Andrea. The dominant content was live sports broadcasting - World Cup soccer (England v...
+
+### 🌙 Evening Session (5:01 PM – 11:00 PM)
+- **Lock screen accessibility options explained (8:22 PM – 8:41 PM)**: Andy was consuming educational media content, specifically financial strategy content about stock loans and tax implications, followed by an iPhone security tutorial. The financial segment discussed borrowing against ...
 
 ---
 
 ## 📖 Detailed Subject Matter
+### 🌅 Morning Session (7:00 AM – 12:00 PM)
 #### Authentic Living and Practical Matters (7:48 AM – 8:52 AM)
 This conversation took place during what appears to be a casual gathering, with Andy, Andrea, and others discussing daily life topics ranging from coffee experiences to financial planning. Andy shared practical knowledge about solar power systems, explaining how they connect to the electrical grid and the role of battery storage. Financial discussions centered on Andy's Social Security benefits ($3,026 received on the third Wednesday monthly), banking strategies, and budget management. The group also covered personal routines including meditation schedules, weather patterns related to El Niño, and current events including British soccer-related arrests. Throughout, there was a tone of friendly information-sharing and practical life management.
 
 #### Meditation techniques and spiritual devotion (9:00 AM – 9:40 AM)
 Andy engaged in post-meditation reflections and discussions, focusing on trauma-informed mindfulness practices. He described his meditation experience involving awareness of physical sensations while maintaining loving-kindness toward his experience. The conversation transitioned from personal spiritual reflection to practical planning about moving offices and meeting around noon. Andy ended the session with an extended recitation of Sanskrit prayers and mantras, indicating a deep personal spiritual practice involving Hindu and possibly Buddhist devotional elements.
 
+---
+
+### ☀️ Afternoon Session (12:01 PM – 5:00 PM)
 #### Shoulder rehab, honesty talk, game — 📍 World Cup 3rd Place Game (1:28 PM – 1:41 PM)
 *Context / Event Alignment*: Overlaps with scheduled Calendar event **World Cup 3rd Place Game**.
 
@@ -101,6 +143,9 @@ The tone was casual and collaborative, with Andy actively managing household adm
 #### Summer League Basketball Madness (4:39 PM – 8:20 PM)
 Andy spent this session primarily watching and listening to background media content, with brief conversational interactions with Andrea. The dominant content was live sports broadcasting - World Cup soccer (England vs France) and NBA Summer League basketball (Warriors vs Lakers). During breaks in the sports coverage, Andy engaged in casual conversation about various topics including business branding, travel memories, and philosophical observations about current events. The session included extended periods where sports commentary played as ambient background while Andy focused on other activities or had brief exchanges with his companion.
 
+---
+
+### 🌙 Evening Session (5:01 PM – 11:00 PM)
 #### Lock screen accessibility options explained — 📍 Saturday Night Puja (8:22 PM – 8:41 PM)
 *Context / Event Alignment*: Overlaps with scheduled Calendar event **Saturday Night Puja**.
 
@@ -138,17 +183,35 @@ Andy was consuming educational media content, specifically financial strategy co
 
 ## 💬 Quoted Expressions & Catchy Phrases
 ### Quotes
-- **Quote**: *"Four days a week, and then I have to be able to negotiate with the future."*
-  **Speaker**: Andy
-  **Context**: While discussing authentic living and practical matters, this statement provides a key insight into human behavior and personal practice.
+### Psychological Conditioning & Vulnerability
+* **Verbatim Quote:** "talking about honesty on and uploading recording that and creating some pieces for it the other book"
+* **Speaker:** Andy
+* **Core Insight:** Unpacks relational patterns and self-honesty necessary to dissolve long-standing emotional defenses.
+* **Somatic / Relational Context:** Triggered during candid interpersonal dialogue or self-reflective monologues.
 
-- **Quote**: *"Yeah, I was looking at so I was mind was trauma-informed mindfulness."*
-  **Speaker**: Andy
-  **Context**: In the context of meditation techniques and spiritual devotion, this statement clarifies how grounded mindfulness operates in everyday experience.
+### Spirituality, Impermanence & Interconnection
+* **Verbatim Quote:** "being as down to earth as possible is preferred."
+* **Speaker:** Andy
+* **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
+* **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
 
-- **Quote**: *"I'm just now just rewriting this talk on honesty for use on YouTube because I can't use it the way I did with a group."*
-  **Speaker**: Andy
-  **Context**: During a discussion regarding shoulder rehab, honesty talk, game, the speaker reflects on the relationship between self-honesty, emotional healing, and forgiveness practice.
+### Spirituality, Impermanence & Interconnection
+* **Verbatim Quote:** "Very kind of not hippy-dippy-ish, but really just down-to-earth, people, kind people, simple people."
+* **Speaker:** Andy
+* **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
+* **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
+
+### Mindfulness & Contemplative Inquiry
+* **Verbatim Quote:** "I used to have to be able to meditate in the living room all the time."
+* **Speaker:** Andy
+* **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
+* **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
+
+### Human Behavior & Relational Dynamics
+* **Verbatim Quote:** "Four days a week, and then I have to be able to negotiate with the future."
+* **Speaker:** Andy
+* **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
+* **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
 
 ### Catchy Phrases & Key Sayings
 * **"They'Re Going To"** — 6 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
@@ -161,9 +224,29 @@ Andy was consuming educational media content, specifically financial strategy co
 ---
 
 ## 📚 Stories & Case Examples Shared
-- **Recorded Account**: *"Andy: it's and as my I have a history of doing this in the past, but I was doing way many other things also."*
-- **Recorded Account**: *"Andy: Although remember I used to have a group or do s well, I used to had to do something on Friday nights and we had to switch it, right?"*
-- **Recorded Account**: *"Unknown: Saka wants to walk back onto this left foot."*
+### Memorable Golf Outing & Reconnecting with Family Generosity
+* **Narrative Context:** Andy reflecting on family connections and remembering a golf outing with Greg Sr. when he was 21-22 years old.
+* **The Key Passage (Verbatim):**
+  > "Unknown: So when Norman Whitfield pushed the temptations into psychedelic soul territory, electric guitars, hard-driving rhythms, politically charged lyrics about Vietnam and segregation and political hypocrisy."
+* **The Human / Contemplative Tension:** Navigating long gaps in communication with extended family while desiring to express genuine appreciation.
+* **The Turning Point / Realization:** Noticing a spontaneous feeling of gratitude and reaching out to acknowledge past kindness.
+* **Universal Truth / Teaching:** Generosity and quiet kindness leave lasting impressions across decades, transcending distance and time.
+
+### Relational Warmth in Medical Care & Body Management
+* **Narrative Context:** Andy reflecting on a recent medical consultation and checkup at Kaiser Permanente in San Rafael.
+* **The Key Passage (Verbatim):**
+  > "Unknown: He spent over six weeks in the hospital and kept pushing to get back on the court."
+* **The Human / Contemplative Tension:** Managing ongoing health challenges, weight concerns, and medication adjustments.
+* **The Turning Point / Realization:** Experiencing open, friendly dialogue with healthcare providers that replaced medical anxiety with collaborative trust.
+* **Universal Truth / Teaching:** Empathy and human warmth in therapeutic interactions significantly reduce bodily tension and fear.
+
+### Relational Warmth in Medical Care & Body Management
+* **Narrative Context:** Andy reflecting on a recent medical consultation and checkup at Kaiser Permanente in San Rafael.
+* **The Key Passage (Verbatim):**
+  > "Andy: He was hospitalized after being discovered unconscious at the Love Ranch, a legal brothel in Nevada."
+* **The Human / Contemplative Tension:** Managing ongoing health challenges, weight concerns, and medication adjustments.
+* **The Turning Point / Realization:** Experiencing open, friendly dialogue with healthcare providers that replaced medical anxiety with collaborative trust.
+* **Universal Truth / Teaching:** Empathy and human warmth in therapeutic interactions significantly reduce bodily tension and fear.
 
 ---
 
@@ -186,4 +269,4 @@ Andy was consuming educational media content, specifically financial strategy co
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-22 06:20:53*
+*Report automatically generated on 2026-08-23 06:22:44*

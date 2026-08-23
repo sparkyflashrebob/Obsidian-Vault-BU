@@ -39,31 +39,41 @@ tags:
 ---
 
 ## 📧 Gmail Activity Log
+### 💰 Financial Account Balances & Bank Alerts
+- **Fidelity Investments**: `Fidelity Alerts: We couldn't complete your eBill enrollment for Pacific Gas & Electric (PG&E)` (08/22/2026 12:01 PM)
+
+### ✉️ Outgoing Sent Emails & Correspondence
 - **To**: `Amazon Kindle <sparkyflashrebob@kindle.com>` | **Subject**: Buddhadhamma (1:41 PM)
   *Summary*: "-- Andy McGuire (he/him) (415)637-0348 (cell) sparkyflashrebob@gmail.com..."
 
 ---
 
-## 🌅 Your Day Ahead Email Brief
+## 🌅 Your Day Ahead 06/13/2026
 - *No "Your Day Ahead" email brief received for this date.*
 
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Qigong breathing foundations lesson**: Recorded and processed during today's transcript sessions.
-- **Testing Gemini Live journaling workflow**: Recorded and processed during today's transcript sessions.
-- **Andy asks about custom phone alerts**: Recorded and processed during today's transcript sessions.
-- **Window Shopping Disappointment**: Recorded and processed during today's transcript sessions.
-- **Buddhist Study on Wholesome Desire**: Recorded and processed during today's transcript sessions.
-- **Body awareness meditation practice**: Recorded and processed during today's transcript sessions.
-- **Heating and plant mold discussion**: Recorded and processed during today's transcript sessions.
-- **Kindle issues and dinner planning**: Recorded and processed during today's transcript sessions.
-- **Knicks Championship and Soccer**: Recorded and processed during today's transcript sessions.
-- **Flooded Parking Lot Car Rescue**: Recorded and processed during today's transcript sessions.
+### 🌅 Morning Session (7:00 AM – 12:00 PM)
+- **Qigong breathing foundations lesson (7:58 AM – 8:19 AM)**: Andy was watching a qigong instruction video on TV, likely as part of his ongoing interest in body-based practices and mindful movement. The video covered foundational standing posture (wuji/standing ball), hand posit...
+- **Testing Gemini Live journaling workflow (9:14 AM – 9:34 AM)**: Andy was outdoors observing wildlife during what appears to be a walk or nature excursion, noting a white heron, geese, crows, and numerous swallows. He also noticed some litter or unusual containers on the walkway. T...
+- **Andy asks about custom phone alerts (10:31 AM – 10:39 AM)**: Andy was listening to a Buddhist retreat livestream in the background while independently troubleshooting how to add custom notification sounds to his Samsung S24 for Google Calendar alerts. The retreat audio featured...
+- **Window Shopping Disappointment (11:34 AM – 12:03 PM)**: Andy was in an environment with significant background media playing — advertisements (Hyper's "Torch Flask," Simple Soup pool treatment) and a political commentary video by "Bick Myers" comparing Democratic and Repub...
+
+### ☀️ Afternoon Session (12:01 PM – 5:00 PM)
+- **Buddhist Study on Wholesome Desire (1:10 PM – 1:47 PM)**: Andy participated in a Buddhist dharma session focused on the nature of desire, specifically the distinction between *tanha* (craving) and *chanda* (wholesome desire). The session included formal precept recitation, a...
+- **Body awareness meditation practice (2:06 PM – 2:16 PM)**: Andy was listening to a recorded dharma talk or meditation podcast focused on body-awareness practices for processing difficult emotions. The teaching emphasized moving beyond intellectual analysis of fear, anxiety, a...
+- **Heating and plant mold discussion (3:14 PM – 3:28 PM)**: Andy was at home with a partner or household member, apologizing for the temperature and explaining he'd been trying to heat the place up before their arrival. He was also troubleshooting why something was spoiling qu...
+- **Kindle issues and dinner planning (3:29 PM – 3:44 PM)**: Andy spent much of his day dealing with frustrating administrative tasks, including issues with "Viagiris" and "Posta Day" documentation that sent him on a "wild goose chase." He also encountered technical problems wi...
+- **Knicks Championship and Soccer (4:40 PM – 8:53 PM)**: Andy and Andrea spent an evening watching sports broadcasts together at home, primarily the NBA Finals (Knicks vs. Spurs) and FIFA World Cup 2026 matches (Morocco vs. Brazil, Scotland vs. Haiti). Andy was more engaged...
+
+### 🌙 Evening Session (5:01 PM – 11:00 PM)
+- **Flooded Parking Lot Car Rescue (11:38 PM – 11:46 PM)**: Andy was watching television in the background while someone else discussed parking logistics and timing. He then used a voice command to turn off the TV ("Google, turn off the TV"), after which he joined an in-person...
 
 ---
 
 ## 📖 Detailed Subject Matter
+### 🌅 Morning Session (7:00 AM – 12:00 PM)
 #### Qigong breathing foundations lesson (7:58 AM – 8:19 AM)
 Andy was watching a qigong instruction video on TV, likely as part of his ongoing interest in body-based practices and mindful movement. The video covered foundational standing posture (wuji/standing ball), hand positions for balancing yin/yang energy with differences for male and female practitioners, breathing exercises connecting to the lower dantian, and a "two-stage looking breath" technique for expanding awareness through belly, ribs, and chest. Andy turned off the TV at the end using a Google voice command. No actual conversation or interaction occurred.
 
@@ -80,6 +90,9 @@ Andy was listening to a Buddhist retreat livestream in the background while inde
 #### Window Shopping Disappointment (11:34 AM – 12:03 PM)
 Andy was in an environment with significant background media playing — advertisements (Hyper's "Torch Flask," Simple Soup pool treatment) and a political commentary video by "Bick Myers" comparing Democratic and Republican party positions using Mary Howitt's "The Spider and the Fly" as a framing device. The actual conversation was brief and fragmented, involving Andy and at least one other person engaged in searching for something together. Andy expressed dislike for window shopping ("Boy, I don't like the window shop"), while the other person noted it "feeds my craving." The interaction was characterized by overlapping, spatially-confused dialogue with repeated questions about location ("Where is it?").
 
+---
+
+### ☀️ Afternoon Session (12:01 PM – 5:00 PM)
 #### Buddhist Study on Wholesome Desire — 📍 Reading & Q&A (1:10 PM – 1:47 PM)
 *Context / Event Alignment*: Overlaps with scheduled Calendar event **Reading & Q&A**.
 
@@ -99,6 +112,9 @@ Andy spent much of his day dealing with frustrating administrative tasks, includ
 #### Knicks Championship and Soccer (4:40 PM – 8:53 PM)
 Andy and Andrea spent an evening watching sports broadcasts together at home, primarily the NBA Finals (Knicks vs. Spurs) and FIFA World Cup 2026 matches (Morocco vs. Brazil, Scotland vs. Haiti). Andy was more engaged with the basketball content, sharing historical knowledge about the 1970s Knicks championship team (Willis Reed, Walt Frazier, Dave DeBusschere, Bill Bradley) and noting Warriors coach Mike Brown's appearance. Andrea was less invested, at one point saying "I only was watching it because you were" and "I don't need to see the New York Knicks." Their conversation wove between game commentary, domestic activities (preparing chicken, dealing with a fly in the house), and deeper discussions about recovery community dynamics, theology, and financial planning.
 
+---
+
+### 🌙 Evening Session (5:01 PM – 11:00 PM)
 #### Flooded Parking Lot Car Rescue (11:38 PM – 11:46 PM)
 Andy was watching television in the background while someone else discussed parking logistics and timing. He then used a voice command to turn off the TV ("Google, turn off the TV"), after which he joined an in-person conversation about recent flooding. Andy shared that he had been walking through floodwater at ground level, threw something in the car, and drove around the block to check if it was okay. He expressed gratitude toward Patrick for help during the situation and suggested they should thank him again.
 
@@ -126,25 +142,35 @@ Andy was watching television in the background while someone else discussed park
 
 ## 💬 Quoted Expressions & Catchy Phrases
 ### Quotes
-- **Quote**: *"Most people out in the world world act normal, hack fine, and then they don't have relationship issues, gets, envy or jealousy, that kind of stuff going on or competition."*
-  **Speaker**: Andy
-  **Context**: While discussing knicks championship and soccer, this statement provides a key insight into human behavior and personal practice.
+### Spirituality, Impermanence & Interconnection
+* **Verbatim Quote:** "You can kind of facing this earth."
+* **Speaker:** Andy
+* **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
+* **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
 
-- **Quote**: *"But he posted about his friend who was an alpha male too, who was supposed to go in the rehab and all the relationship, but this guy was helping them and the guy ended up calling him."*
-  **Speaker**: Andy
-  **Context**: While discussing knicks championship and soccer, this statement provides a key insight into human behavior and personal practice.
+### Spirituality, Impermanence & Interconnection
+* **Verbatim Quote:** "This earth is a highway at some point, connecting heaven."
+* **Speaker:** Andy
+* **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
+* **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
 
-- **Quote**: *"But that's on another level that you that, I, Buddhists and other people bring into play, this conditioning thing."*
-  **Speaker**: Andy
-  **Context**: While discussing knicks championship and soccer, this statement provides a key insight into human behavior and personal practice.
+### Mindfulness & Contemplative Inquiry
+* **Verbatim Quote:** "Inner muscles that you don't breathe."
+* **Speaker:** Andy
+* **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
+* **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
 
-- **Quote**: *"And the reason why I'm fighting so much on this is God is conditioning, another form of conditioning."*
-  **Speaker**: Andy
-  **Context**: While discussing knicks championship and soccer, this statement provides a key insight into human behavior and personal practice.
+### Somatic Awareness & Present-Moment Integration
+* **Verbatim Quote:** "You're putting energy into those tension."
+* **Speaker:** Andy
+* **Core Insight:** Emphasizes bodily listening and physical presence as a foundation for grounding awareness in daily life.
+* **Somatic / Relational Context:** Triggered by physical sensation or noticing internal bodily states during daily routines.
 
-- **Quote**: *"One thing about these sporting events that bring awareness to other countries involved."*
-  **Speaker**: Andrea
-  **Context**: In the context of knicks championship and soccer, this statement clarifies how grounded mindfulness operates in everyday experience.
+### Spirituality, Impermanence & Interconnection
+* **Verbatim Quote:** "Intention for being more spiritual, high-teen, balanced."
+* **Speaker:** Andy
+* **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
+* **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
 
 ### Catchy Phrases & Key Sayings
 * **"The More One Acts"** — 4 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
@@ -158,12 +184,13 @@ Andy was watching television in the background while someone else discussed park
 ---
 
 ## 📚 Stories & Case Examples Shared
-- **Recorded Account**: *"Andy: Hipped up poop and found strange containers on the walkway."*
-- **Recorded Account**: *"Unknown: Or if you'd to go outside and walk on a trail for a little bit and continue to keep to yourself more or less more, then that's also good."*
-- **Recorded Account**: *"Unknown: Other things about me, man, I got the most top 200 album entries in the history of hip-hop, besides NBA New York, which she just surpassed me last year."*
-- **Recorded Account**: *"Andy was pre-heating the space before someone arrived, showing consideration for a partner/household member's comfort"*
-- **Recorded Account**: *"Andrea: Just to walk in and see if either the owners are in."*
-- **Recorded Account**: *"Andy walked through floodwater at ground level and tested his car by driving around the block afterward"*
+### Reflective Narrative & Grounded Observation
+* **Narrative Context:** Andy reflecting on personal routines and daily observations during audio journaling.
+* **The Key Passage (Verbatim):**
+  > "When I meditated today, I could feel a drop of real presence that quieted the whole morning's rush."
+* **The Human / Contemplative Tension:** Transitioning from mental momentum to physical stillness.
+* **The Turning Point / Realization:** Pausing to listen directly to bodily sensations.
+* **Universal Truth / Teaching:** Stillness is not created by effort, but uncovered when mental busyness settles.
 
 ---
 
@@ -186,4 +213,4 @@ Andy was watching television in the background while someone else discussed park
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-22 06:17:29*
+*Report automatically generated on 2026-08-23 06:18:01*

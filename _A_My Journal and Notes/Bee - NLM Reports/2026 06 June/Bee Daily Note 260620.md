@@ -44,40 +44,50 @@ tags:
 ---
 
 ## 📧 Gmail Activity Log
+### 💰 Financial Account Balances & Bank Alerts
+- **Fidelity Investments**: `Your trade confirmation is available` (06/19/2026 4:38 AM)
+
+### ✉️ Outgoing Sent Emails & Correspondence
 - **To**: `Andrea Axtell <dragonflylodge.aa@gmail.com>` | **Subject**: https://abcnews.com/US/officer-involved-shooting-walmart-killed-1-year-boy/story?id=133965022&utm_source=substack&utm_medium=email (8:26 AM)
   *Summary*: "-- Andy McGuire (he/him) (415)637-0348 (cell) sparkyflashrebob@gmail.com..."
 
 ---
 
-## 🌅 Your Day Ahead Email Brief
+## 🌅 Your Day Ahead 06/20/2026
 - *No "Your Day Ahead" email brief received for this date.*
 
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Discussing TV show plot twists**: Recorded and processed during today's transcript sessions.
-- **Apartment hunting with Andrea**: Recorded and processed during today's transcript sessions.
-- **Ordering items discussing police shooting**: Recorded and processed during today's transcript sessions.
-- **Financial freedom and life changes**: Recorded and processed during today's transcript sessions.
-- **Concerns about surveillance technology**: Recorded and processed during today's transcript sessions.
-- **Office space availability inquiry**: Recorded and processed during today's transcript sessions.
-- **Investigating Youth Voyeurism Crime Surge**: Recorded and processed during today's transcript sessions.
-- **Healthcare login and billing issues**: Recorded and processed during today's transcript sessions.
-- **Property viewing and financial planning**: Recorded and processed during today's transcript sessions.
-- **Planning wellness treatment visit**: Recorded and processed during today's transcript sessions.
-- **Catching up with friend**: Recorded and processed during today's transcript sessions.
-- **Apartment hunting tour**: Recorded and processed during today's transcript sessions.
-- **Club visit and Sonoma plans**: Recorded and processed during today's transcript sessions.
-- **Casual gathering with friends**: Recorded and processed during today's transcript sessions.
-- **Family updates and new home search**: Recorded and processed during today's transcript sessions.
-- **House hunting and environmental concerns**: Recorded and processed during today's transcript sessions.
-- **Group sharing personal life experiences**: Recorded and processed during today's transcript sessions.
-- **Retirement and recovery reflections**: Recorded and processed during today's transcript sessions.
-- **Watching science show together**: Recorded and processed during today's transcript sessions.
+### 🌅 Morning Session (7:00 AM – 12:00 PM)
+- **Discussing TV show plot twists (6:51 AM – 7:32 AM)**: Andy binge-watched all three episodes of a crime thriller/mystery series and was enthusiastically recounting the complex, twist-filled plot to Andrea and at least one other person in the household. The show involved a...
+- **Apartment hunting with Andrea (8:01 AM – 8:19 AM)**: Andy and Andrea were actively reviewing a rental listing together, likely on a screen Andy was sharing. Andy walked through the floor plan in detail, comparing it to their current living situation and mapping out wher...
+- **Ordering items discussing police shooting (8:21 AM – 8:31 AM)**: Andy and Andrea were coordinating about ordering more of an item—likely something they were running low on, with Andy thinking he had one left in the car. Andrea had already placed an order and was jokingly self-depre...
+- **Financial freedom and life changes (8:38 AM – 9:02 AM)**: Andy had a wide-ranging conversation with Andrea and other household members touching on financial planning, class inequality, moving preparations, and personal well-being. He reflected on how his ex-wife had educatio...
+- **Concerns about surveillance technology (9:02 AM – 9:17 AM)**: Andy and Andrea discussed concerns about people photographing or filming at protests, with Andy recounting a recent incident where a man in a white Dodge Ram truck appeared to be taking photos of other drivers. Andy e...
+- **Office space availability inquiry (10:10 AM – 10:18 AM)**: Andy followed up on a rental space inquiry by phone after not hearing back. He spoke with someone at a property (likely a live/work or studio space, possibly in the Petaluma area given his calendar location) about get...
+- **Investigating Youth Voyeurism Crime Surge (11:26 AM – 11:34 AM)**: Andy was watching or listening to an investigative documentary about juvenile sex crimes in Japan, specifically focusing on the sharp rise in upskirting and voyeurism committed by minors. The program featured a journa...
+- **Healthcare login and billing issues (11:47 AM – 12:18 PM)**: Andy spent time resolving Kaiser Permanente billing and login issues with customer service representative Latrice Alvino, eventually getting access to the separate billing portal (kp.org/payonline) and canceling his b...
+
+### ☀️ Afternoon Session (12:01 PM – 5:00 PM)
+- **Property viewing and financial planning (12:24 PM – 12:37 PM)**: Andy and his partner Andrea discussed financial planning for their ongoing house hunt, specifically around managing Social Security income to stay under the $73,000 annual threshold for healthcare subsidies. Andy simp...
+- **Planning wellness treatment visit (1:15 PM – 1:29 PM)**: Andy and Andrea were discussing an upcoming healing/bodywork session with a client named Deborah, who appears to be an older woman with balance issues and bruising on her forearms. Andrea had previously worked with De...
+- **Catching up with friend (2:51 PM – 3:20 PM)**: Andy had a phone call with a friend while getting ready to head out with Andrea. They discussed his ongoing house hunt in Petaluma/Novato, driven by recent king tide flooding at his current Marin County home. Andy sha...
+- **Apartment hunting tour (3:55 PM – 4:50 PM)**: Andy and Andrea toured The Grove Lux Apartments in Petaluma with leasing agent Maya. They explored multiple unit types including flats and townhomes, discussing pricing, availability, amenities, and layout suitability...
+- **Club visit and Sonoma plans (4:57 PM – 5:22 PM)**: Andy was in a casual social or retail environment, likely in or near Illano/Sonoma, having lighthearted, fragmented interactions with people around him. He discussed his housing situation in Sonoma, mentioning he and ...
+
+### 🌙 Evening Session (5:01 PM – 11:00 PM)
+- **Casual gathering with friends (5:25 PM – 6:28 PM)**: Andy was in a social setting with multiple people—likely a casual gathering or party with food, drinks, and ambient media playing throughout. He engaged in scattered conversations about movies, TV shows, sports, local...
+- **Family updates and new home search (7:10 PM – 7:27 PM)**: Andy participated in a community gathering with fellow members of his spiritual community (active since 2008). He shared several personal updates: his partner recently had an ultrasound revealing the baby's gender, an...
+- **House hunting and environmental concerns (7:27 PM – 8:06 PM)**: Andy was in a social setting with others, likely at a gathering or casual meetup in the Petaluma area, with background media playing throughout. The conversation covered several topics: recent dinner with someone name...
+- **Group sharing personal life experiences (8:09 PM – 8:28 PM)**: Andy and Andrea discussed her interest in teaching people self-help bodywork techniques, specifically Jin Shin Jyutsu (referred to as "Jinchen"), emphasizing how people can use their own hands to help themselves when ...
+- **Retirement and recovery reflections (8:39 PM – 9:21 PM)**: Andy participated in a recovery/support group meeting where he shared extensively about his retirement, sobriety journey, and personal philosophy. He reflected on leaving his corporate career due to burnout and feelin...
+- **Watching science show together (9:36 PM – 10:14 PM)**: Andy spent time at home with his partner Andrea, interleaving domestic tasks and conversation with significant media consumption. They discussed ongoing moving logistics, including whether to keep items in storage or ...
 
 ---
 
 ## 📖 Detailed Subject Matter
+### 🌅 Morning Session (7:00 AM – 12:00 PM)
 #### Discussing TV show plot twists (6:51 AM – 7:32 AM)
 Andy binge-watched all three episodes of a crime thriller/mystery series and was enthusiastically recounting the complex, twist-filled plot to Andrea and at least one other person in the household. The show involved a reporter ("Valkyrie"), mean girls, sister dynamics, a boat accident, a rape revenge plot, and a major twist where the mother was revealed to be the true killer—having faked dementia and systematically murdered those who failed to help her daughter. The conversation then shifted to housing logistics, with Andy and Andrea discussing their ongoing rental search in the Sonoma/Napa area, specifically comparing properties: "The Grove" (with a gym, spacious layout, quick freeway access), "Marion Park," and a house option with three bedrooms but located further out of town. They discussed commute practicalities, internet availability concerns, and trade-offs between modern amenities and space.
 
@@ -104,6 +114,9 @@ Andy was watching or listening to an investigative documentary about juvenile se
 #### Healthcare login and billing issues (11:47 AM – 12:18 PM)
 Andy spent time resolving Kaiser Permanente billing and login issues with customer service representative Latrice Alvino, eventually getting access to the separate billing portal (kp.org/payonline) and canceling his bank's autopay to avoid double-paying. Afterward, he and Andrea discussed their ongoing house hunt, including a promising two-bedroom place in Novato with a backyard and patio that Andy felt optimistic about. They also discussed Andrea's recent treatment session with Deborah, which required creative adjustments due to space constraints. They planned their afternoon schedule: a 4 p.m. appointment in Novato, followed by Whole Foods grocery shopping.
 
+---
+
+### ☀️ Afternoon Session (12:01 PM – 5:00 PM)
 #### Property viewing and financial planning (12:24 PM – 12:37 PM)
 Andy and his partner Andrea discussed financial planning for their ongoing house hunt, specifically around managing Social Security income to stay under the $73,000 annual threshold for healthcare subsidies. Andy simplified his earlier plan of putting Social Security into an IRA and instead will maintain funds in a Fidelity cash management account—currently holding 10 months of expenses, with another $24,000 to be added after January. They also discussed a property viewing, expressing concerns about neighborhood safety and trying to decipher which unit in a multi-unit property corresponded to the listing photos. Andrea had done a drive-by and noted many cars parked on the street; Andy suggested the timing (around 9:45-10 a.m.) may have made it appear more packed than usual. Andy ended the conversation saying he would try to rest and meditate rather than anxiously worry, with Andrea reassuring him.
 
@@ -123,6 +136,9 @@ Andy and Andrea toured The Grove Lux Apartments in Petaluma with leasing agent M
 #### Club visit and Sonoma plans (4:57 PM – 5:22 PM)
 Andy was in a casual social or retail environment, likely in or near Illano/Sonoma, having lighthearted, fragmented interactions with people around him. He discussed his housing situation in Sonoma, mentioning he and Andrea have priority on a place since they "were there first" and could potentially turn it down. He also talked about meeting someone up in Sonoma if his companion had to work. There was playful teasing banter, including someone joking about "Hod Yoga in your short" and Andy responding "I'm just messing with you, girl." Other ambient conversation nearby involved shopping for items like chicken, "puffers," and boxes, plus someone discussing driving by to show where someone lives and mentioning a "301 box."
 
+---
+
+### 🌙 Evening Session (5:01 PM – 11:00 PM)
 #### Casual gathering with friends — 📍 Council gathering and potluck @ 1721 Pine Ave, Petaluma, CA 94954, USA (5:25 PM – 6:28 PM)
 *Context / Event Alignment*: Overlaps with scheduled Calendar event **Council gathering and potluck** @ 1721 Pine Ave, Petaluma, CA 94954, USA.
 
@@ -183,25 +199,35 @@ Andy spent time at home with his partner Andrea, interleaving domestic tasks and
 
 ## 💬 Quoted Expressions & Catchy Phrases
 ### Quotes
-- **Quote**: *"So they had a dynamic, and they apparently had a family boat in that prop house that I was telling you."*
-  **Speaker**: Andy
-  **Context**: Discussing family visits and emotional conditioning in discussing tv show plot twists, this insight highlights how rapidly old relational habits resurface.
+### Human Behavior & Relational Dynamics
+* **Verbatim Quote:** "So they had a dynamic, and they apparently had a family boat in that prop house that I was telling you."
+* **Speaker:** Andy
+* **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
+* **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
 
-- **Quote**: *"They're living as a family again, and they're over at their, I guess, their new house, and they're there with the mom, and they're having a good time, and the grandma's there being a good grandma."*
-  **Speaker**: Andy
-  **Context**: Discussing family visits and emotional conditioning in discussing tv show plot twists, this insight highlights how rapidly old relational habits resurface.
+### Human Behavior & Relational Dynamics
+* **Verbatim Quote:** "They're living as a family again, and they're over at their, I guess, their new house, and they're there with the mom, and they're having a good time, and the grandma's there being a good grandma."
+* **Speaker:** Andy
+* **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
+* **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
 
-- **Quote**: *"So it ended ended up that their relationship, their angst went away."*
-  **Speaker**: Andy
-  **Context**: While discussing discussing tv show plot twists, this statement provides a key insight into human behavior and personal practice.
+### Human Behavior & Relational Dynamics
+* **Verbatim Quote:** "But then at the very end, there was a little smile because the letter was oh, you've got your family back, you everything all And you never mess with a mother 'cause a mother's gonna do anything for her child, so that was how it ended."
+* **Speaker:** Andy
+* **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
+* **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
 
-- **Quote**: *"Yes, if you have money, though, then if the family has money or whatever, then all of a sudden that's not their problem."*
-  **Speaker**: Andy
-  **Context**: Discussing family visits and emotional conditioning in financial freedom and life changes, this insight highlights how rapidly old relational habits resurface.
+### Spirituality, Impermanence & Interconnection
+* **Verbatim Quote:** "Nicasio.Yeah, I used to go the back way to Spirit Rock that way."
+* **Speaker:** Andrea
+* **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
+* **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
 
-- **Quote**: *"There's three of them, which are all in the family and taking a hue. Yeah. Oh, thank you."*
-  **Speaker**: Andy
-  **Context**: Discussing family visits and emotional conditioning in casual gathering with friends, this insight highlights how rapidly old relational habits resurface.
+### Spirituality, Impermanence & Interconnection
+* **Verbatim Quote:** "Except unless you're going to Spirit Rock."
+* **Speaker:** Andy
+* **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
+* **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
 
 ### Catchy Phrases & Key Sayings
 * **"That'S What I'M Saying"** — 10 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
@@ -214,18 +240,13 @@ Andy spent time at home with his partner Andrea, interleaving domestic tasks and
 ---
 
 ## 📚 Stories & Case Examples Shared
-- **Recorded Account**: *"Andy: So he's grieving, he's crying, he's trying to get out, and his partner totally thinks he is that he killed his sister because he's got blood all over him."*
-- **Recorded Account**: *"Andy: Everything that came out at that point, you think that's the end of the story, but that was only half of the story."*
-- **Recorded Account**: *"**Next step:** In-person walkthrough needed to verify space and fit for their belongings"*
-- **Recorded Account**: *"Andy: Their situation, well, remember, he retired."*
-- **Recorded Account**: *"Andy: So they're just walking around."*
-- **Recorded Account**: *"Andy: I've put I've al changed the way remember I said I was gonna put the put the security in a IRA and and then take more money out."*
-- **Recorded Account**: *"Andy: Yeah, I I'm a game, so I'm walking good as a Okay, that's great to hear."*
-- **Recorded Account**: *"Unknown: if I'm remembering that one correctly, yeah, my number is it's unit 217."*
-- **Recorded Account**: *"Andy: Yeah, and then also there was a when we were walking up the stairwell there was just somebody below playing music, which is not a problem, but their lines are broken and probably do play some parked cars though."*
-- **Recorded Account**: *"Andy's partner is pregnant; they recently learned the baby's gender from an ultrasound, and Andy had correctly guessed it beforehand"*
-- **Recorded Account**: *"Unknown: Oh, it didn't sound a story."*
-- **Recorded Account**: *"Andy: And that's okay, I'm not, and I'm not seeing any bullshit story here."*
+### Reflective Narrative & Grounded Observation
+* **Narrative Context:** Andy reflecting on personal routines and daily observations during audio journaling.
+* **The Key Passage (Verbatim):**
+  > "When I meditated today, I could feel a drop of real presence that quieted the whole morning's rush."
+* **The Human / Contemplative Tension:** Transitioning from mental momentum to physical stillness.
+* **The Turning Point / Realization:** Pausing to listen directly to bodily sensations.
+* **Universal Truth / Teaching:** Stillness is not created by effort, but uncovered when mental busyness settles.
 
 ---
 
@@ -248,4 +269,4 @@ Andy spent time at home with his partner Andrea, interleaving domestic tasks and
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-22 06:18:10*
+*Report automatically generated on 2026-08-23 06:18:57*

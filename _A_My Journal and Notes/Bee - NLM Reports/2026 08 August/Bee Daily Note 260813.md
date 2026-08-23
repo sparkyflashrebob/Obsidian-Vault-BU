@@ -33,45 +33,88 @@ tags:
 ---
 
 ## 📧 Gmail Activity Log
+### 💰 Financial Account Balances & Bank Alerts
+- **Fidelity Investments**: `Tax changes: What to watch next` (08/13/2026 6:13 AM)
+
+### ✉️ Outgoing Sent Emails & Correspondence
 - *No outgoing sent email replies or correspondence recorded today.*
 
 ---
 
-## 🌅 Your Day Ahead Email Brief
+## 🌅 Your Day Ahead 08/13/2026
 - **Subject**: `💌 Your Day Ahead 08/13/2026` (7:01 AM)
 
-> ...
+> ### Top of mind
 > 
-> ---
-> CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact labs-cc-support@google.com or disconnect here: https://myaccount.google.com/connections#:~:text=CC
+> - 30 min Pick up your Kaiser prescriptions (LEV, LOS, MON) by the end of the day today, Thursday, Aug 13th, at the San Rafael Downtown Pharmacy [🔗 View details](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873149001460447967) [📅 Add Reminder](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Reminder%3A+Pick+up+Kaiser+prescriptions+%28LEV%2C+LOS%2C+MON%29&dates=20260813T170000%2F20260813T180000&ctz=America%2FLos_Angeles&details=Pick+up+Kaiser+prescriptions+%28LEV%2C+LOS%2C+MON%29+at+the+San+Rafael+Downtown+Pharmacy.&location=1033+Third+Street%2C+San+Rafael%2C+CA+94901-3107&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com)
+>   - Location: 1033 Third Street, San Rafael, CA 94901-3107 [🔗 Map](https://www.google.com/maps/search/?api=1&query=1033+Third+Street%2C+San+Rafael%2C+CA+94901-3107)
+>   - Note: The SIM prescription must be picked up by Friday, Aug 14th.
+> - Consider attending the Fidelity 'Health Care Costs in Retirement' webinar today, Thursday, Aug 13th at 9:00 AM PT (Noon ET) [🔗 Register](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872878914188296635) [📅 Add Event](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fidelity+Webinar%3A+Health+Care+Costs+in+Retirement+%28Part+1%29&dates=20260813T090000%2F20260813T100000&ctz=America%2FLos_Angeles&details=Part+1+covers+budgeting+for+healthcare%2C+HSAs%2C+Medicare+options%2C+and+IRMAA+charges.&location=Online&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com)
+>   - Part 1 of the series covers budgeting for healthcare, HSAs, Medicare options, and IRMAA charges.
+> - Today • All Day • King Tides and Raiders Training Camp [📅 Training Camp Details](https://www.google.com/calendar/event?eid=MTJrNHNnMXMyZ2VrcWthMnU3cmw3djE4N3Ygc3Bhcmt5Zmxhc2hyZWJvYkBt&ctz=America/Los_Angeles) [📅 View Event](https://www.google.com/calendar/event?eid=NnNvajBlOW02a3NtYWJiMjZvcWphYjlrNzByNmFiOXBjOWk2YWI5bjY5Z2ppY3BpY3BpMzJwMWljOCBzcGFya3lmbGFzaHJlYm9iQG0&ctz=America/Los_Angeles) [🔗 Tide Chart](https://www.tide-forecast.com/locations/Gallinas-Creek-San-Pablo-Bay-California/tides/latest)
+> - Today • 5:00 PM • Living Mindfully Meditation (1h) hosted by you [✨ Join Meeting](https://meet.google.com/dhf-mnbc-qkn) [🔗 See invitation](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870530893822212187) [📅 Add Event](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Living+Mindfully+Meditation&dates=20260813T170000%2F20260813T180000&ctz=America%2FLos_Angeles&details=Hosted+by+Andy+McGuire.+Bridging+Mind%2C+Heart%2C+and+Daily+Life.&location=https%3A%2F%2Fmeet.google.com%2Fdhf-mnbc-qkn&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com)
+>   - This overlaps with the Raiders PreSeason game starting at 5:00 PM.
+> - Today • 5:00 PM • Raiders PreSeason (3.5h) [📅 View game](https://www.google.com/calendar/event?eid=NTd1djltNWc3aDVmZG90cTJzcDRibDIyazYgc3Bhcmt5Zmxhc2hyZWJvYkBt&ctz=America/Los_Angeles)
+> - The Robin Landsong film premiere, 'Veterans Healing Trauma through Singing Medicine,' takes place today, Thursday, Aug 13th [🔗 View details](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873271602372092169) [📅 Add Event](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Robin+Landsong+Film+Premiere&dates=20260813T190000%2F20260813T210000&ctz=America%2FLos_Angeles&details=Veterans+Healing+Trauma+through+Singing+Medicine.&location=See+details+in+email&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com)
+> - Your Amazon order for Gold Bond Medicated Body Powder is expected to arrive by today, Thursday, Aug 13th [🔗 Track order](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872441285405707376) [📅 Add Reminder](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Reminder%3A+Amazon+order+arriving+%28Gold+Bond+Powder%29&dates=20260813T190000%2F20260813T200000&ctz=America%2FLos_Angeles&details=Gold+Bond+Medicated+Body+Powder+expected+to+arrive.+Check+tracking+for+updates.&location=Home&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com)
+> 
+> ### FYI
+> 
+> - 30 min Pick up your remaining SIM prescription by Friday, Aug 14th at the San Rafael Downtown Medical Offices Pharmacy [🔗 View info](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873149001460447967) [📅 Add Reminder](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Reminder%3A+Pick+up+SIM+prescription&dates=20260814T160000%2F20260814T170000&ctz=America%2FLos_Angeles&details=Pick+up+remaining+SIM+prescription+at+the+San+Rafael+Downtown+Medical+Offices+Pharmacy.&location=1033+Third+Street%2C+San+Rafael%2C+CA+94901-3107&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com)
+> - Fri, Aug 14 • 2:45 PM • TT Drop In Clinic ! (3.5h) at 300 Tamal Vista Blvd suite 220 room 4, Corte Madera, CA 94925 [✨ Join Video](https://meet.google.com/cba-nsxe-mwg) [🔗 Map](https://www.google.com/maps/search/?api=1&query=300+Tamal+Vista+Blvd+suite+220+room+4%2C+Corte+Madera%2C+CA+94925%2C+USA) [📅 View Event](https://www.google.com/calendar/event?eid=NnBoNmNwYjM2MHNqOGJiNTY0c21jYjlrNjhyNmFiOW9jcGhtOGI5bWM4cjY2ZTFwNjlqNjZjcjQ2NCBzcGFya3lmbGFzaHJlYm9iQG0&ctz=America/Los_Angeles)
+>   - Attending with Andrea Axtell.
+> - Sun, Aug 16 • Upcoming Subscriptions & Premieres
+>   - Canva Pro: Your monthly subscription will automatically renew for $18.00 today [🔗 Manage account](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873252496374654958)
+>   - Lanterns Premiere: Series premiere on HBO; invitation accepted by Andrea Axtell [🔗 View details](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871705871205214753) [📅 View Event](https://www.google.com/calendar/event?eid=NXJma2U4aXNmdmtmaWtpM2NuZWYzZzZxbnQgc3Bhcmt5Zmxhc2hyZWJvYkBt&ctz=America/Los_Angeles)
+> - Thu, Aug 20 • Fidelity Webinar Part 2 (Noon ET) regarding long-term care costs and financial protection strategies [🔗 Register](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872878914188296635) [📅 Add Event](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fidelity+Webinar%3A+Health+Care+Costs+in+Retirement+%28Part+2%29&dates=20260820T090000%2F20260820T100000&ctz=America%2FLos_Angeles&details=Part+2+regarding+long-term+care+costs+and+financial+protection+strategies.&location=Online&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com)
+> - Fri, Aug 21 • 1:30 PM • In-Person Visit: Dr. Benjamin Hunter at San Rafael Downtown-SRD, 1033 Third Street, 3rd Floor, San Rafael, CA 94901 [🔗 Map](https://www.google.com/maps/search/?api=1&query=1033+Third+Street%2C+San+Rafael%2C+CA+94901-3107) [📅 View Event](https://www.google.com/calendar/event?eid=NGRoajM2cXFlN29jczlxODk2ZDJtcGs2ODIgc3Bhcmt5Zmxhc2hyZWJvYkBt&ctz=America/Los_Angeles)
+>   - Plan to arrive 15-25 minutes early for parking. Bring your membership card and ID [🔗 View appointment](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873341516382108117)
+> - Wed, Sep 2 • 2:30 PM • Labor Day Insight Retreat (Ends Mon, Sep 7) at Spirit Rock Meditation Center in Woodacre, CA [🔗 View retreat details](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873365599884191342)
+>   - Check-in is between 2:30 PM and 4:30 PM. Ensure you have your final payment settled by Wednesday, Aug 19th [📅 Add Reminder](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Reminder%3A+Spirit+Rock+Final+Payment+Due&dates=20260819T090000%2F20260819T100000&ctz=America%2FLos_Angeles&details=Final+payment+due+for+Spirit+Rock+Labor+Day+Insight+Retreat.&location=Spirit+Rock+Meditation+Center&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com)
+> - Recent activity on your 'Head & Heart Together' Substack [🔗 Visit Substack](https://headandhearttogether.substack.com)
+>   - Engagement: Andrea Axtell liked your post 'Talking to Yourself' on Wednesday, Aug 12th [🔗 View notification](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873349817001664877)
+>   - Promotion: Shareable video and image assets are now available for your latest post [🔗 View assets](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873349740835647434)
+> 
+> ### CC Calendar Updates
+> 
+> - New: Adult and Family Medicine Appointment — August 21, 2026 1:30pm PT · [🔗 Source email](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873341516382108117) · [📅 View event](https://www.google.com/calendar/event?eid=N3VrcHNjM2tqOHBjczJ1OGltYmh1YnBmcmcgOWNlMWM5MDAyM2U4ZjI5MmZjMTEwNzRlNzZkOTQ3MWYzZmJlOWQxNDVjYjk0OWQ4MDY0NWM2ZDYwZjBlOGQyNUBn)
+> - Updated: Labor Day Insight Retreat — September 2, 2026 - September 6, 2026 · [🔗 Source email](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873365599884191342) · [📅 View event](https://www.google.com/calendar/event?eid=Z2M0OTM0dmt2cDhvMmYyYWdkYmJrajVlMXMgOWNlMWM5MDAyM2U4ZjI5MmZjMTEwNzRlNzZkOTQ3MWYzZmJlOWQxNDVjYjk0OWQ4MDY0NWM2ZDYwZjBlOGQyNUBn)
+>   - New location: Spirit Rock Meditation Center
+>   - Event details updated
 
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Casual conversation about daily life**: Recorded and processed during today's transcript sessions.
-- **Daily reflection journal template design**: Recorded and processed during today's transcript sessions.
-- **Troubleshooting Obsidian Template Issues**: Recorded and processed during today's transcript sessions.
-- **Report Review and Feedback Session**: Recorded and processed during today's transcript sessions.
-- **Daily Report System Feedback Session**: Recorded and processed during today's transcript sessions.
-- **Audio Recording Troubleshooting Session**: Recorded and processed during today's transcript sessions.
-- **Personal reflections on teaching identity**: Recorded and processed during today's transcript sessions.
-- **Facebook ad discovery and quick exit**: Recorded and processed during today's transcript sessions.
-- **Research extraction and business promotion**: Recorded and processed during today's transcript sessions.
-- **Recording test with AI concerns**: Recorded and processed during today's transcript sessions.
-- **Audio testing before football game**: Recorded and processed during today's transcript sessions.
-- **Audio recorder troubleshooting on watch**: Recorded and processed during today's transcript sessions.
-- **Setting up hourly recording schedule**: Recorded and processed during today's transcript sessions.
-- **Customizing AI writing style conversation**: Recorded and processed during today's transcript sessions.
-- **Content search: broken story reference**: Recorded and processed during today's transcript sessions.
-- **Creative development session**: Recorded and processed during today's transcript sessions.
-- **Playing with pet Fluffy**: Recorded and processed during today's transcript sessions.
-- **I hear weird noises again**: Recorded and processed during today's transcript sessions.
-- **Questioning Mental Factors and Vocal Expression**: Recorded and processed during today's transcript sessions.
-- **Spiritual breakthrough and noble silence**: Recorded and processed during today's transcript sessions.
+### 🌅 Morning Session (7:00 AM – 12:00 PM)
+- **Casual conversation about daily life (8:37 AM – 9:44 AM)**: This conversation captures Andy throughout a day marked by health challenges, technical frustrations, and ongoing wellness practices. Andy experienced multiple physical symptoms including a sore throat, stomach ache, ...
+- **Daily reflection journal template design (9:45 AM – 9:59 AM)**: Andy was listening to instructional audio content about a daily journal template system designed for Obsidian note-taking. The tutorial explained a structured approach to daily journaling with specific sections for tr...
+- **Troubleshooting Obsidian Template Issues (10:12 AM – 10:30 AM)**: Andy experienced technical difficulties with his Obsidian note-taking system during this conversation. He encountered freezing issues when trying to select template file locations, asked about configuring daily notes ...
+- **Report Review and Feedback Session (10:32 AM – 11:31 AM)**: Andy spent the morning reviewing and providing detailed feedback on his automated daily report system, identifying multiple quality issues that need correction. He's frustrated with the system's tendency to miscategor...
+- **Daily Report System Feedback Session (11:31 AM – 12:38 PM)**: Andy spent this session refining his automated daily report system and clarifying the distinction between human conversations and computer interactions in his documentation. He was working on converting rough outlines...
+
+### ☀️ Afternoon Session (12:01 PM – 5:00 PM)
+- **Audio Recording Troubleshooting Session (12:38 PM – 1:25 PM)**: Andy engaged in two distinct conversations: a meaningful philosophical discussion about friendship, giving, and Buddhist concepts of compassion, followed by technical troubleshooting of audio recording applications on...
+- **Personal reflections on teaching identity (1:27 PM – 2:14 PM)**: Andy was listening to a podcast episode that combined product review content about voice transcription devices with broader discussions about meditation teaching and entrepreneurship. During the podcast, he worked on ...
+- **Facebook ad discovery and quick exit (2:23 PM – 2:31 PM)**: Andy was browsing Facebook when he encountered an attractive advertisement that caught his attention. After being drawn to what appeared to be a shopping-related ad, he quickly recognized that it was just bookmarked p...
+- **Research extraction and business promotion (2:32 PM – 3:55 PM)**: This conversation captures Andy in his typical morning routine, engaging in multiple discussions about content organization, business promotion, technology troubleshooting, and daily life logistics. Andy was working o...
+- **Recording test with AI concerns (4:03 PM – 5:00 PM)**: Andy engaged in a multi-faceted conversation that blended personal technology troubleshooting, philosophical discussions, and reactions to current events. The conversation took place in his home environment where he w...
+
+### 🌙 Evening Session (5:01 PM – 11:00 PM)
+- **Audio testing before football game (5:02 PM – 5:13 PM)**: Andy is preparing to leave for a football game after dealing with some household arrangements and technical recording issues. Throughout the conversation, he references ongoing activities including working in his comp...
+- **Audio recorder troubleshooting on watch (5:14 PM – 5:54 PM)**: Andy was unable to watch a sports game due to technical issues, which prompted him to return to troubleshooting an audio recording system. He worked on configuring a "wear recorder" app, testing recording settings on ...
+- **Setting up hourly recording schedule (6:00 PM – 6:21 PM)**: Andy was working on setting up an automated recording system and then shifted to watching/commentating on a Raiders football game. He focused on configuring recording schedules during waking hours and testing system f...
+- **Customizing AI writing style conversation (6:23 PM – 6:33 PM)**: Andy was consuming news and media content while reflecting aloud on his preferences for AI-assisted writing. He was considering how to maintain his natural conversational writing style when using Gemini, preferring si...
+- **Content search: broken story reference (6:37 PM – 6:46 PM)**: Andy was working on content creation, specifically searching for examples of his writing that captures his natural speaking style. He was looking for a piece about relationships with friends that he mentioned as "the ...
+- **Creative development session (6:49 PM – 7:05 PM)**: Andy is working on expanding his writing about "right speech" to include concepts of being honest and kind. He's successfully resolved technical recording issues that were previously problematic, testing a new solutio...
+- **Playing with pet Fluffy (7:05 PM – 7:21 PM)**: Andy had a brief, gentle conversation with Fluffy (likely his cat) during what appears to be a quiet moment. He reassured Fluffy not to be afraid and made casual observations about birds they could both observe. The c...
+- **I hear weird noises again (7:24 PM – 7:31 PM)**: Andy is dealing with an ongoing wildlife/rodent intrusion issue in his home, specifically around a ceramic tub area. He has been monitoring the situation for some time and has done some research on similar problems. T...
+- **Questioning Mental Factors and Vocal Expression (8:41 PM – 8:52 PM)**: Andy is engaged in philosophical study, specifically examining Buddhist texts about mental factors and vocal activity. He is grappling with concepts related to directed thought and evaluation as "mainsprings of vocal ...
+- **Spiritual breakthrough and noble silence (9:11 PM – 9:25 PM)**: Andy engaged in a reflective monologue discussing his research on meditation practices and a recent work breakthrough. He explored concepts of "noble silence" and "second jhana" in meditation, realizing that periods o...
 
 ---
 
 ## 📖 Detailed Subject Matter
+### 🌅 Morning Session (7:00 AM – 12:00 PM)
 #### Casual conversation about daily life (8:37 AM – 9:44 AM)
 This conversation captures Andy throughout a day marked by health challenges, technical frustrations, and ongoing wellness practices. Andy experienced multiple physical symptoms including a sore throat, stomach ache, headache, and intestinal problems over three days that limited his activity. Despite feeling unwell, he maintained his commitment to health practices including meditation and energy work.
 
@@ -94,6 +137,9 @@ Andy spent the morning reviewing and providing detailed feedback on his automate
 #### Daily Report System Feedback Session (11:31 AM – 12:38 PM)
 Andy spent this session refining his automated daily report system and clarifying the distinction between human conversations and computer interactions in his documentation. He was working on converting rough outlines into full Dharma talks, referencing his primary Buddhist teachers including Tanisaro Biku. The session involved identifying systemic issues with time-stamping in his daily notes, where activities from different times of day were being incorrectly grouped together. He also had a phone conversation with Kevin and engaged in discussions about animal empathy during pregnancy.
 
+---
+
+### ☀️ Afternoon Session (12:01 PM – 5:00 PM)
 #### Audio Recording Troubleshooting Session (12:38 PM – 1:25 PM)
 Andy engaged in two distinct conversations: a meaningful philosophical discussion about friendship, giving, and Buddhist concepts of compassion, followed by technical troubleshooting of audio recording applications on his phone. The philosophical conversation explored the difference between empathy and compassion, focusing on how helping others brings personal fulfillment through "esteemable acts." The technical discussion involved resolving issues between Whisper and Tasker audio recording apps, including microphone permissions and recording functionality.
 
@@ -132,6 +178,9 @@ The core interaction involved discussing AI technology and data management frust
 
 The conversation also covered practical daily matters including dinner planning, and Andy demonstrated his technical experimentation with audio transcription tools like Whisper, which he was testing to distinguish between his voice and background television content.
 
+---
+
+### 🌙 Evening Session (5:01 PM – 11:00 PM)
 #### Audio testing before football game — 📍 Raiders PreSeason (5:02 PM – 5:13 PM)
 *Context / Event Alignment*: Overlaps with scheduled Calendar event **Raiders PreSeason**.
 
@@ -268,25 +317,35 @@ Contemplative and introspective. The tone reflects someone processing personal g
 
 ## 💬 Quoted Expressions & Catchy Phrases
 ### Quotes
-- **Quote**: *"To say Dhamma talk, not donor talk."*
-  **Speaker**: Andy
-  **Context**: While discussing casual conversation about daily life, this statement provides a key insight into human behavior and personal practice.
+### Human Behavior & Relational Dynamics
+* **Verbatim Quote:** "She owns Mervin Family Chiropractic over on San Clemente."
+* **Speaker:** Andy
+* **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
+* **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
 
-- **Quote**: *"I'll be expanding on my blog post about talking to yourself in our next meeting living mindfully on Sunday at 5 p. m."*
-  **Speaker**: Andy
-  **Context**: In the context of research extraction and business promotion, this statement clarifies how grounded mindfulness operates in everyday experience.
+### Mindfulness & Contemplative Inquiry
+* **Verbatim Quote:** "You can do meditation now if you want."
+* **Speaker:** Andy
+* **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
+* **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
 
-- **Quote**: *"That's that was at Spirit Lock family retreat one year. Okay."*
-  **Speaker**: Andy
-  **Context**: Discussing family visits and emotional conditioning in research extraction and business promotion, this insight highlights how rapidly old relational habits resurface.
+### Mindfulness & Contemplative Inquiry
+* **Verbatim Quote:** "Yeah, I mean the meditation with T T folks."
+* **Speaker:** Andy
+* **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
+* **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
 
-- **Quote**: *"But the fact of the matter is that now because they've had the breakthrough with it's kind of physics versus quantum physics."*
-  **Speaker**: Andy
-  **Context**: While discussing recording test with ai concerns, this statement provides a key insight into human behavior and personal practice.
+### Spirituality, Impermanence & Interconnection
+* **Verbatim Quote:** "The spiritual and societal insights are overall really pretty weak, too."
+* **Speaker:** Andy
+* **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
+* **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
 
-- **Quote**: *"With quantum physics, they create computers and the internet and all this other stuff."*
-  **Speaker**: Andy
-  **Context**: While discussing recording test with ai concerns, this statement provides a key insight into human behavior and personal practice.
+### Mindfulness & Contemplative Inquiry
+* **Verbatim Quote:** "Are things that I'm interested in doing, but they're not actual insights into meditation or human behavior, which is the focus for what this section is about."
+* **Speaker:** Andy
+* **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
+* **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
 
 ### Catchy Phrases & Key Sayings
 * **"Rise Up Sing Out"** — 1 occurrence — *Context:* Community songbook title referenced during music organization.
@@ -300,13 +359,29 @@ Contemplative and introspective. The tone reflects someone processing personal g
 ---
 
 ## 📚 Stories & Case Examples Shared
-- **Recorded Account**: *"Covered physical activity tracking (walking, exercise, meditation)"*
-- **Recorded Account**: *"**Time Management**: Dinner ran 6:30-9 PM, no walking accomplished, spending significant time on report corrections"*
-- **Recorded Account**: *"**Content Creation Focus**: Working on developing a full Dharma talk from rough outline, drawing from teachings by Ajahn Semedo, Ajahn Amaro, Ajahn Passaneau, and Ajahn Yanniko, with Tanisaro Biku as a primary teacher"*
-- **Recorded Account**: *"Andy: Provide a condensed version of the story."*
-- **Recorded Account**: *"Andy: So I've got my lab work, my pharmacy, and I'm doctor."*
-- **Recorded Account**: *"Content search: broken story reference"*
-- **Recorded Account**: *"Andy: I think I'm going to try and go for a walk."*
+### The Raw Power of Nature at Hot Pots & Waterfalls
+* **Narrative Context:** Andy recalling a recent trip to a local waterfall and hot springs.
+* **The Key Passage (Verbatim):**
+  > "Andy: They can, sense the baby and they can smell the baby and yeah, and with the hormones of the mom and all that stuff and it's really it's an incredible beautiful thing that nature recognizes it."
+* **The Human / Contemplative Tension:** Contrast between daily technical routines and the overwhelming force of flooded natural waters.
+* **The Turning Point / Realization:** Feeling awed and grounded by the unscheduled immensity of nature.
+* **Universal Truth / Teaching:** Immersing oneself in nature breaks static mental conditioning and restores awe.
+
+### Cultivating Empathy vs Remote Isolation
+* **Narrative Context:** Andy discussing social empathy, judgment, and emotional boundaries during a domestic reflection.
+* **The Key Passage (Verbatim):**
+  > "Empathy vs. Compassion**: Distinguished between feeling someone's pain (empathy) and being motivated to help (compassion)"
+* **The Human / Contemplative Tension:** Balancing personal peace with remaining open to others' genuine suffering without becoming cynical.
+* **The Turning Point / Realization:** Realizing that judging others' unskillful behavior is itself a subtle trap of isolation.
+* **Universal Truth / Teaching:** True compassion requires stepping into another's shoes while maintaining clear, grounded awareness.
+
+### Cultivating Empathy vs Remote Isolation
+* **Narrative Context:** Andy discussing social empathy, judgment, and emotional boundaries during a domestic reflection.
+* **The Key Passage (Verbatim):**
+  > "Unknown: So there's empathy and there's compassion."
+* **The Human / Contemplative Tension:** Balancing personal peace with remaining open to others' genuine suffering without becoming cynical.
+* **The Turning Point / Realization:** Realizing that judging others' unskillful behavior is itself a subtle trap of isolation.
+* **Universal Truth / Teaching:** True compassion requires stepping into another's shoes while maintaining clear, grounded awareness.
 
 ---
 
@@ -329,4 +404,4 @@ Contemplative and introspective. The tone reflects someone processing personal g
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-22 06:23:38*
+*Report automatically generated on 2026-08-23 06:26:14*

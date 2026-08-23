@@ -38,6 +38,11 @@ tags:
 ---
 
 ## 📧 Gmail Activity Log
+### 💰 Financial Account Balances & Bank Alerts
+- **Fidelity Investments**: `Disclosure About Your GUITAR CENTER, INC. Retirement Plan - Quarterly statement available` (07/20/2026 9:53 AM)
+- **Bank of America**: **$300.00, $0.00** — `We received your mobile check deposit` (07/18/2026 3:15 PM)
+
+### ✉️ Outgoing Sent Emails & Correspondence
 - **To**: `Andrea Axtell <dragonflylodge.aa@gmail.com>` | **Subject**: Baking Soda and Vinegars (11:06 AM)
   *Summary*: "I am going to bring these in for washing fruits and vegi&#39;s but there are many uses we could try. https://home.howstuffworks.com/home-improvement/household-hints-tips/cleaning-o..."
 
@@ -49,29 +54,61 @@ tags:
 
 ---
 
-## 🌅 Your Day Ahead Email Brief
+## 🌅 Your Day Ahead 07/19/2026
 - **Subject**: `💌 Your Day Ahead 07/19/2026` (7:03 AM)
 
-> ...
+> ### Top of mind
 > 
-> ---
-> CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact labs-cc-support@google.com or disconnect here: https://myaccount.google.com/connections#:~:text=CC
+> - 5 min Verify your UJAM account and support portal access to finalize your setup [🔗 Verify Account](https://auth0.ujam.com/u/email-verification?ticket=1XS5cvTEjDg08m5uAzjqQNfovYfM3ONk)
+>   - A separate verification is also required for your anonymous support request [🔗 Verify Support](https://support.ujam.com/verification/anonymous_request/kSRNo03TNwIl6J5dGaTaCB0wn?locale=1)
+> - 10 min Follow up with Nicole Skibola regarding your Marin DSA fee waiver request to ensure your membership remains active [🔗 View email](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871079756389411387) [✉️ Reply](mailto:sparkyflashrebob@gmail.com?subject=Re%3A%20Marin%20DSA%20-%20Urgent%20Membership%20Billing%20Issue%20for%20Monthly%20Dues&body=Hi%20Nicole%2C%20thank%20you%20for%20looking%20into%20the%20fee%20waiver%20process%20for%20me.%20Please%20let%20me%20know%20what%20the%20next%20steps%20are%20for%20re-applying.%20Best%2C%20Andy)
+>   - Nicole is investigating the process for re-applying with a waiver due to your fixed income status.
+> - T-Mobile AutoPay of $71.92 for account ending in 0801 is scheduled to process today using your Visa ending in 6681 [🔗 View bill](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1869623372726038681)
+> - Your $300.00 mobile check deposit for the Bank of America account ending in 0372 is expected to post on Mon, Jul 20 [🔗 View confirmation](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871092588688760757)
+> - Consider your 5:00 PM schedule today, as you have three overlapping commitments and interests.
+>   - DSA Call: Socialism and the Black Radical Tradition featuring Cori Bush [✨ Join Zoom](https://dsausa.zoom.us/w/83208101017?tk=qa_TlVhoD7QjZV_G6Z_uZroEDymMM35hvFVuBQsjwEs.DQkAAAATX5bcmRZwanNRcDhVbVRveWhDTlJmSVZlVy13AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&uuid=WN_eLadiCqjSCuxpfJYWMa6Ew) [📅 View Event](https://www.google.com/calendar/event?eid=X2M4c2plcXJsZDhzbXVkajNlMHBqMHA5aGQwcjMwcnJhNjFoamlyajVjaG5qY2NqamQ5aDZjZGJhNnBubXVvamFjZ29uMGRqMWR0bDZjb3BwNjByNmFzajI2NWkzYXI5aWVkbm40cGo0ZGMgc3Bhcmt5Zmxhc2hyZWJvYkBt)
+>   - Meditation: Weekly Living Mindfully Council Meeting [✨ Join Meet](https://meet.google.com/oxf-rdfm-kmn?hs=224) [📅 View Event](https://www.google.com/calendar/event?eid=cTZtMnZzb2UwaDNoY2wza2R0czQ3cW5scmxfMjAyNjA3MjdUMDAwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0)
+>   - Concert: The Westones performing at Corte Madera Town Park [🔗 View details](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870918013705802430) [📅 Add Event](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Concert%3A+The+Westones&dates=20260719T170000%2F20260719T190000&ctz=America%2FLos_Angeles&details=The+Westones+performing+at+Corte+Madera+Town+Park.&location=Corte+Madera+Town+Park%2C+CA&add=)
+> - Today • 7:00 AM • Morning Practice Zoom w/ Ed Brown (1h 15m) [✨ Join Zoom](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09)
+>   - Sunday schedule includes a sitting at 7:00 AM, lecture at 7:10 AM, and visiting at 7:55 AM. Use password 'beyond'.
+> - Today • 10:00 AM • SAN RAFAEL Good Trouble Lives On (1h 30m) at Marin County Civic Center, 3501 Civic Center Dr, San Rafael, CA 94903 [🔗 View details](https://www.mobilize.us/john-lewis-actions/event/988292/) [🔗 Directions](https://www.google.com/maps/search/?api=1&query=Marin+County+Civic+Center%2C+3501+Civic+Center+Dr%2C+San+Rafael%2C+CA%2C+94903)
+>   - Gather at the free speech area near the first entrance to the farmers market. The event includes music and a 30-minute march through the grounds.
+> - Today • 12:00 PM • World Cup FINAL (3h) [📅 View event](https://www.google.com/calendar/event?eid=MnY1Z2hjZzlkMjVtMjRjN2l1ODFvbWhyaWogc3Bhcmt5Zmxhc2hyZWJvYkBt)
+> - Today • 5:00 PM • Socialism and the Black Radical Tradition (1h 30m) featuring Cori Bush and Chris Rabb [✨ Join Zoom](https://dsausa.zoom.us/w/83208101017?tk=qa_TlVhoD7QjZV_G6Z_uZroEDymMM35hvFVuBQsjwEs.DQkAAAATX5bcmRZwanNRcDhVbVRveWhDTlJmSVZlVy13AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&uuid=WN_eLadiCqjSCuxpfJYWMa6Ew)
+>   - Webinar ID: 832 0810 1017. Dial-in available at [🔗 +1 507 473 4847](tel:+15074734847)
+> - Mon, Jul 20 • Capri's Birthday [📅 View event](https://www.google.com/calendar/event?eid=NjhxM2NvcG82b3JtYWJiNmNjbzZhYjlrY2RpamliOXA2Y3M2NGI5aTcwcjMwZTFuNjRyMzBwOWo2OF8yMDI2MDcyMCBzcGFya3lmbGFzaHJlYm9iQG0)
+> - Mon, Jul 20 • 7:00 AM • Morning Practice Zoom w/ Ed Brown (1h 15m) [✨ Join Zoom](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09)
+>   - Monday schedule includes free writing at 7:00 AM, a brief talk at 7:15 AM, and sitting at 7:30 AM.
+> 
+> ### FYI
+> 
+> - Upcoming community and social events for the week ahead.
+>   - HOA Meeting: The Larkspur Isle Open Board Meeting is scheduled for Wed, Jul 22 at 6:30 PM via Zoom. [🔗 View update](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870710632786265529) [📅 Add Event](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Larkspur+Isle+HOA+Open+Board+Meeting&dates=20260722T183000%2F20260722T200000&ctz=America%2FLos_Angeles&details=Open+Board+Meeting+via+Zoom.&location=Zoom&add=)
+>   - Brunch with Kiera: Social visit and brunch with Kiera McGuire in Larkspur on Sat, Jul 25 from 10:30 AM to 2:30 PM. [🔗 View invite](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871088121830360375) [📅 View Event](https://www.google.com/calendar/event?eid=YzRvNjJjOWk2a29tYWJiMWM1aW02YjlrNmdvamViOXA2a3MzNGI5bjYxaTM0ZWIzY2dyajhwMXA2cyBzcGFya3lmbGFzaHJlYm9iQG0)
+>   - Pariyatti Presentation: 'Beyond Day Ten' virtual session with Cori Bilyayev on Sun, Jul 26 at 8:00 AM. [✨ Join Zoom](https://us06web.zoom.us/w/86826085307?tk=1hvks2sXUxMTYYwlA325NB6YhFl0NmGEhOSZaXDzJuk.DQkAAAAUNzzruxZ5RU82elFkTlJrV0gzSjdPVjU5V2FnAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&pwd=ge95vv1mJQXQ2YD0lLerdUNzhBJ4af.1) [📅 View Event](https://www.google.com/calendar/event?eid=MjB1M2RxZHEyZ3ZnbXZxOGlxNm5iNzZhcGggc3Bhcmt5Zmxhc2hyZWJvYkBt)
+>   - Summer Concert: 'lucky break' performs at Corte Madera Town Park on Sun, Jul 26 at 5:00 PM. [🔗 View flyer](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870918013705802430) [📅 Add Event](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Summer+Concert%3A+lucky+break&dates=20260726T170000%2F20260726T190000&ctz=America%2FLos_Angeles&details=%27lucky+break%27+performs+at+Corte+Madera+Town+Park.&location=Corte+Madera+Town+Park%2C+CA&add=)
 
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **All Dressed Up Not Going**: Recorded and processed during today's transcript sessions.
-- **Government Corporate Accountability Reform**: Recorded and processed during today's transcript sessions.
-- **Soccer Teams Argentina Spain Analysis**: Recorded and processed during today's transcript sessions.
-- **Andy's Meditation Coaching, Gerrymandering, Massage**: Recorded and processed during today's transcript sessions.
-- **Washing Produce Techniques Discussion**: Recorded and processed during today's transcript sessions.
-- **Using Google for office lighting**: Recorded and processed during today's transcript sessions.
-- **DSA Electoral Organizing Call**: Recorded and processed during today's transcript sessions.
-- **Sports political personal conversation**: Recorded and processed during today's transcript sessions.
+### 🌅 Morning Session (7:00 AM – 12:00 PM)
+- **All Dressed Up Not Going (8:42 AM – 9:18 AM)**: Andy spent the morning wrestling with a decision about attending a local protest march near the civic center, ultimately deciding against participating despite being dressed and ready to go. His internal conflict cent...
+- **Government Corporate Accountability Reform (11:22 AM – 11:47 AM)**: Andy engaged in a focused content creation session, working with an AI assistant (Gemini) to develop blog posts on institutional integrity and social responsibility. He provided detailed commentary on government hones...
+
+### ☀️ Afternoon Session (12:01 PM – 5:00 PM)
+- **Soccer Teams Argentina Spain Analysis (2:13 PM – 2:21 PM)**: Andy was watching a soccer match between Argentina and Spain and engaging in commentary with others in the room. He read online comments about Argentina playing defensively while discussing the superiority of Spanish ...
+- **Andy's Meditation Coaching, Gerrymandering, Massage (2:55 PM – 3:15 PM)**: Based on the provided transcript, there doesn't appear to have been an actual conversation involving Andy that was captured. Instead, the audio consists of background media content playing in his environment. Here's w...
+- **Washing Produce Techniques Discussion (3:18 PM – 3:35 PM)**: Andy had a casual conversation with his companion while preparing food, covering several topics. He chose not to attend a local farmers market due to crowds, opting instead to stay home and write two blog posts about ...
+- **Using Google for office lighting (4:30 PM – 4:45 PM)**: Andy was engaged in casual household conversations while consuming news content, discussing current events including local city management issues and technology service disruptions. The conversation covered municipal ...
+
+### 🌙 Evening Session (5:01 PM – 11:00 PM)
+- **DSA Electoral Organizing Call (5:24 PM – 5:38 PM)**: Andy participated in a DSA (Democratic Socialists of America) organizing meeting focused on "Socialism and the Black Radical Tradition" featuring Cori Bush and Chris Rabb. The meeting ran from 7-9pm PT and covered ele...
+- **Sports political personal conversation (5:54 PM – 8:04 PM)**: Andy spent the evening engaged in multiple activities including watching sports broadcasts, political discussions, and philosophical conversations with Andrea. The session included active commentary on soccer and bask...
 
 ---
 
 ## 📖 Detailed Subject Matter
+### 🌅 Morning Session (7:00 AM – 12:00 PM)
 #### All Dressed Up Not Going (8:42 AM – 9:18 AM)
 Andy spent the morning wrestling with a decision about attending a local protest march near the civic center, ultimately deciding against participating despite being dressed and ready to go. His internal conflict centered on the protest's location in the Pacific Center area, which he felt lacked sufficient public exposure compared to downtown San Francisco protests. During this deliberation, he engaged in philosophical discussions about animal treatment and food sourcing, defending his choice to shop at Whole Foods while acknowledging the need for humane treatment of food animals.
 
@@ -82,6 +119,9 @@ The conversation shifted to current food safety concerns, with Andy researching 
 
 Andy engaged in a focused content creation session, working with an AI assistant (Gemini) to develop blog posts on institutional integrity and social responsibility. He provided detailed commentary on government honesty, corporate transparency, and accountability systems. The session involved generating multiple pieces of content, including requests for blog posts about vegetable/fruit care and government integrity. Andy articulated his vision for rebuilding institutional trust through public grading systems, salary incentives tied to public good, and enhanced transparency requirements for both government agencies and corporations.
 
+---
+
+### ☀️ Afternoon Session (12:01 PM – 5:00 PM)
 #### Soccer Teams Argentina Spain Analysis — 📍 World Cup FINAL (2:13 PM – 2:21 PM)
 *Context / Event Alignment*: Overlaps with scheduled Calendar event **World Cup FINAL**.
 
@@ -119,6 +159,9 @@ Relaxed, domestic environment with casual news consumption and household convers
 
 No specific action items identified from this conversation.
 
+---
+
+### 🌙 Evening Session (5:01 PM – 11:00 PM)
 #### DSA Electoral Organizing Call — 📍 Socialism and the Black Radical Tradtion Ft. Cori Bush and Chris Rabb @ https://dsausa.zoom.us/w/83208101017?tk=qa_TlVhoD7QjZV_G6Z_uZroEDymMM35hvFVuBQsjwEs.DQkAAAATX5bcmRZwanNRcDhVbVRveWhDTlJmSVZlVy13AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&uuid=WN_eLadiCqjSCuxpfJYWMa6Ew (5:24 PM – 5:38 PM)
 *Context / Event Alignment*: Overlaps with scheduled Calendar event **Socialism and the Black Radical Tradtion Ft. Cori Bush and Chris Rabb** @ https://dsausa.zoom.us/w/83208101017?tk=qa_TlVhoD7QjZV_G6Z_uZroEDymMM35hvFVuBQsjwEs.DQkAAAATX5bcmRZwanNRcDhVbVRveWhDTlJmSVZlVy13AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&uuid=WN_eLadiCqjSCuxpfJYWMa6Ew.
 
@@ -151,21 +194,35 @@ Andy spent the evening engaged in multiple activities including watching sports 
 
 ## 💬 Quoted Expressions & Catchy Phrases
 ### Quotes
-- **Quote**: *"write a blog post about honesty in terms of government, capitalism, and the law."*
-  **Speaker**: Andy
-  **Context**: During a discussion regarding government corporate accountability reform, the speaker reflects on the relationship between self-honesty, emotional healing, and forgiveness practice.
+### Psychological Conditioning & Vulnerability
+* **Verbatim Quote:** "write a blog post about honesty in terms of government, capitalism, and the law."
+* **Speaker:** Andy
+* **Core Insight:** Unpacks relational patterns and self-honesty necessary to dissolve long-standing emotional defenses.
+* **Somatic / Relational Context:** Triggered during candid interpersonal dialogue or self-reflective monologues.
 
-- **Quote**: *"On top of that, they need to be held accountable both by the institutions that support society."*
-  **Speaker**: Andy
-  **Context**: While discussing government corporate accountability reform, this statement provides a key insight into human behavior and personal practice.
+### Human Behavior & Relational Dynamics
+* **Verbatim Quote:** "On top of that, they need to be held accountable both by the institutions that support society."
+* **Speaker:** Andy
+* **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
+* **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
 
-- **Quote**: *"Actually, I used AI to help me write two blog posts on honesty, one from I wanted to say something about the government and business and all the stuff I've been holding in and feeling, ."*
-  **Speaker**: Andy
-  **Context**: During a discussion regarding washing produce techniques discussion, the speaker reflects on the relationship between self-honesty, emotional healing, and forgiveness practice.
+### Mindfulness & Contemplative Inquiry
+* **Verbatim Quote:** "That's the problem with meditation coaching, guys."
+* **Speaker:** Andy
+* **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
+* **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
 
-- **Quote**: *"The most people get feed them every day. Yeah. Restricting their culture."*
-  **Speaker**: Andy
-  **Context**: While discussing sports political personal conversation, this statement provides a key insight into human behavior and personal practice.
+### Mindfulness & Contemplative Inquiry
+* **Verbatim Quote:** "Is what is meditation coaching?"
+* **Speaker:** Andy
+* **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
+* **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
+
+### Mindfulness & Contemplative Inquiry
+* **Verbatim Quote:** "And this is when I had just returned from a big trip where I traveled my backpack through Asia to learn in my practice and yoga and meditation."
+* **Speaker:** Andy
+* **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
+* **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
 
 ### Catchy Phrases & Key Sayings
 * **"That'S What I'M Saying"** — 4 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
@@ -178,11 +235,13 @@ Andy spent the evening engaged in multiple activities including watching sports 
 ---
 
 ## 📚 Stories & Case Examples Shared
-- **Recorded Account**: *"Unknown: But I'm going to get my butt out there and do a walk."*
-- **Recorded Account**: *"Andy: I was looking about how to prepare food, and this report spoke more to washing walking and things unrelated to that."*
-- **Recorded Account**: *"Unknown: But first, I'd to start with a story of when I first started my own executive coaching business when I was living in Los Angeles."*
-- **Recorded Account**: *"He's working to establish a consistent exercise routine, particularly walking during safer evening hours"*
-- **Recorded Account**: *"Unknown: We're going to pass 200, 000 very because we are able to work so high, so smooth, and so I think in terms of telling that story and carrying it out, we've seen so much everything that's happening this year."*
+### Reflective Narrative & Grounded Observation
+* **Narrative Context:** Andy reflecting on personal routines and daily observations during audio journaling.
+* **The Key Passage (Verbatim):**
+  > "When I meditated today, I could feel a drop of real presence that quieted the whole morning's rush."
+* **The Human / Contemplative Tension:** Transitioning from mental momentum to physical stillness.
+* **The Turning Point / Realization:** Pausing to listen directly to bodily sensations.
+* **Universal Truth / Teaching:** Stillness is not created by effort, but uncovered when mental busyness settles.
 
 ---
 
@@ -205,4 +264,4 @@ Andy spent the evening engaged in multiple activities including watching sports 
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-22 06:21:00*
+*Report automatically generated on 2026-08-23 06:22:52*

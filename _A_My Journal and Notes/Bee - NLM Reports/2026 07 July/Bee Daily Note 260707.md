@@ -49,37 +49,75 @@ tags:
 ---
 
 ## 📧 Gmail Activity Log
+### 💰 Financial Account Balances & Bank Alerts
+- **Bank of America** (Acc: `name`): `We sent you a secure message` (07/08/2026 3:35 PM)
+- **Fidelity Investments** (Acc: `2492`): **$8900.00** — `Fidelity Alerts: EFT processed successfully` (07/08/2026 11:11 AM)
+- **Fidelity Investments**: `We are working on your transfer request` (07/08/2026 9:20 AM)
+
+### ✉️ Outgoing Sent Emails & Correspondence
 - *No outgoing sent email replies or correspondence recorded today.*
 
 ---
 
-## 🌅 Your Day Ahead Email Brief
+## 🌅 Your Day Ahead 07/07/2026
 - **Subject**: `💌 Your Day Ahead 07/06/2026` (7:00 AM)
 
-> ...
+> ### Top of mind
 > 
-> ---
-> CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact labs-cc-support@google.com or disconnect here: https://myaccount.google.com/connections#:~:text=CC
+> - 5 min Verify the security of your Google account and review the recent access granted to Duplicati to ensure the authorization was intentional [🔗 Security Alert](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1869899115890630956) [📅 Add Reminder](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Verify+Google+account+security+%28Duplicati%29&dates=20260706T090000%2F20260706T091500&ctz=America%2FLos_Angeles&details=Review+recent+access+granted+to+Duplicati+to+ensure+the+authorization+was+intentional.&location=&add=)
+>   - This alert was triggered for your sparkyflashrebob@gmail.com account on Sunday evening.
+> - 10 min Respond to three unread Instagram direct messages from Katie Mc Guire, Eric Miga, and John Mazetronic [🔗 Instagram Notification](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1869905239709329458) [📅 Add Reminder](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Respond+to+Instagram+DMs&dates=20260706T100000%2F20260706T101500&ctz=America%2FLos_Angeles&details=Reply+to+Katie+Mc+Guire%2C+Eric+Miga%2C+and+John+Mazetronic.&location=&add=)
+>   - These messages have been pending since Sunday evening.
+> - 15 min Review new 2BR apartment leads in Pinole and Oakland provided by Apartment List for your ongoing residential search [🔗 View Matches](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1869907740086259202)
+>   - The Villas at Harbor Pointe (Pinole): Units starting at $2,244 [🔗 View Reviews](https://www.apartmentratings.com/ca/pinole/villas-at-harbor-pointe_510724876194564/)
+>   - Orion (Oakland): Units starting at $3,174 [🔗 View Reviews](https://www.apartmentratings.com/ca/oakland/orion_9199332346275184950/)
+> - Mon, Jul 6 • 7:00 AM • Morning Practice Zoom w/ Ed Brown (1h 15m) [✨ Join Zoom](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09)
+>   - Password: beyond
+>   - Schedule: 7:00 free writing, 7:15 brief talk, 7:30 sitting, 7:55 visiting
+> - Mon, Jul 6 • 8:00 AM • Landlord Property Inspection (9h) at 326 Larkspur Plaza Drive [🔗 View Invite](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1869722805479480548) [🔗 Map](https://www.google.com/maps/search/?api=1&query=326+Larkspur+Plaza+Drive)
+>   - This inspection is for Irah, Bodhi, and Koda's residence and is scheduled to conclude by 5:00 PM.
+> - Mon, Jul 6 • 5:00 PM • USA vs Belgium (2h 30m) [📅 View Event](https://www.google.com/calendar/event?eid=NnBoamNjMWo2Y3JtMmI5cDY1aDY2YjlrY2NxMzhiOXA3MHNqZ2I5amNrcjNlYzMyY2hoM2VlMzE2ZyBzcGFya3lmbGFzaHJlYm9iQG0)
+> - Tue, Jul 7 • 7:00 AM • Morning Practice Zoom w/ Ed Brown (1h 15m) [✨ Join Zoom](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09)
+> - Tue, Jul 7 • 9:00 AM • Fidelity Webinar: What are the charts telling us? (1h) [🔗 Attend Event](http://Fidelityevents.com/charts070726/virtual?guest-access-hash=NDU5MzAxNDU1fDg3NjE3MDkxM3wxNzgyNzY1MTg0O2Y3NjIxMTgyMWM2NjQ3ODIyZjQ2YzRhMzk2MWUxNzRiZDM2OTM1MWRmZjc1NGE4MDU1ODQxNDMxZjNhNzk1ZTY%3D)
+>   - Recommended to join via desktop for the best experience.
+> - Tue, Jul 7 • 12:00 PM • Earth Funeral Webinar (1h) [🔗 View Link](https://u23564772.ct.sendgrid.net/ls/click?upn=u001.-2FaHWX6WARnCX2mnJvgByjx1o2wtOzUHWrLQkvcAjdyZfonAmbm1YftXxqBLZdDaXBvxlBeVQOLpTG5ii5O96rjti8RIe-2B1SqsfXiI10nJg5ZzNqybx1dhuj5Z2gVASV-2FHZ8o3wZDVGGnCLUOpejcbeJLox2MoxVjf0dRcCyDe-2F1R7F-2BXs-2BWwuGPl053agrXW7a6eq621Zv294VbUbd3wBnCffa6zf-2FdYn0vj62PQ3aCekjvmFUgJ9VSzHxn7cBHDiRMgP8HeOUBkigoCECqxlxYM6N8SPm0d0vnYxOOlBb8-3DyIaF_MJCYLwyT2nXaA8C4dlYQwnlxhVFAhWqH77RYJ6HtkghVytmpaXWkrv6YEqjnNXQ6fryx7HoNHBEhAnWGewB0LQz90QDV9-2BuufQ-2F6rysBogHs9G4VgfknQrRuPLieSkeVLGeMWdHoqBvxNwM92aLCe9E-2FahGfWfWUNyG9GFpt5r-2B2rAlL8g5GhpFIbg-2FhkbkhJVtdew5Z7rEEZ5yTyOrExvYh0OdxsqJU8DWE6nLwHPnC-2F6i3ntsgzjTMUr4yRQJ6MZM0Gsan1RwHRlREK-2FR6vTlRK4M4C0Sx36sxgGhfWG2p72puPjpay8-2FoEyhaaKRMNs0SmUf5OjLnVqsXa4towU-2BmJezNvwz6nXvlEYzI5-2FBhdoz0Xs4PmoU2kgCZjpj0KmZHpVvi4A5YtZAU3WNfMnSwgAF-2Bbp40BxOyriJh7Bs-3D)
+> - Ongoing Events & Reminders:
+>   - World Cup: Ongoing through Jul 20 [📅 View Event](https://www.google.com/calendar/event?eid=NXZldnVrOTBic21oNjlvaGNnMzdoZWkyMHQgc3Bhcmt5Zmxhc2hyZWJvYkBt)
+>   - Coursiv Subscription: Active today and tomorrow [📅 View Event](https://www.google.com/calendar/event?eid=MnNkMzBjMmdwazg2YmVjNTEzbDR0czJyb21fMjAyNjA3MDYgc3Bhcmt5Zmxhc2hyZWJvYkBt)
+>   - Victoria Gentle Memorial: Tue, Jul 7 (Anniversary of passing in 2019) [📅 View Event](https://www.google.com/calendar/event?eid=NmdzbTRlOWxjZGltYWJiNTcwcGoyYjlrYzVoNjhiYjE2bGltNGI5aTZsaTZjb2I2NnBnbTJwMzQ2MF8yMDI2MDcwNyBzcGFya3lmbGFzaHJlYm9iQG0)
+> 
+> ### FYI
+> 
+> - Track your incoming shipments and community updates.
+>   - Amazon Delivery: Your Linenspa Memory Foam Mattress Topper is expected to arrive at the Larkspur address tomorrow, Tue, Jul 7 [🔗 Tracking Info](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1869901336111571249)
+>   - Insta360 Shipment: The Link 2C Standard Bundle has been shipped to the Larkspur Plaza Dr address [🔗 Shipment Notification](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1869872915596404192)
+>   - Buddhist Studies: Review the latest update on the Temple Construction project and fundraising efforts by David Roylance for the Chiang Mai community [🔗 Temple Update](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1869865656911214957)
 
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Handling Sports Disappointment Through Mindfulness**: Recorded and processed during today's transcript sessions.
-- **Investment strategy consultation**: Recorded and processed during today's transcript sessions.
-- **Philosophical Discussion on Krishnamurti's Teachings**: Recorded and processed during today's transcript sessions.
-- **Andy Monitors Breaking News Summary**: Recorded and processed during today's transcript sessions.
-- **Schedule discount consultation call**: Recorded and processed during today's transcript sessions.
-- **Funeral pre-payment vs insurance planning**: Recorded and processed during today's transcript sessions.
-- **Penalty Shootout**: Recorded and processed during today's transcript sessions.
-- **Space rental and end-of-life planning**: Recorded and processed during today's transcript sessions.
-- **Funeral Options and Budget Discussion**: Recorded and processed during today's transcript sessions.
-- **Financial seminar learning discussion**: Recorded and processed during today's transcript sessions.
-- **Home repairs meet quantum theory**: Recorded and processed during today's transcript sessions.
-- **Mount Hood Educational Presentation**: Recorded and processed during today's transcript sessions.
+### 🌅 Morning Session (7:00 AM – 12:00 PM)
+- **Handling Sports Disappointment Through Mindfulness (7:59 AM – 8:41 AM)**: Andy engaged in a wide-ranging conversation covering practical concerns, philosophical reflections, and personal experiences. The discussion moved between everyday frustrations (phone connectivity issues, landlord ins...
+- **Investment strategy consultation (9:29 AM – 9:43 AM)**: Andy participated in an investment education session focused on technical analysis and portfolio management strategies. He actively engaged with learning material about stock trading concepts, specifically asking ques...
+- **Philosophical Discussion on Krishnamurti's Teachings (10:22 AM – 10:44 AM)**: Andy was engaged in deep philosophical reflection on Krishnamurti's teachings about meditation, mind patterns, and psychological freedom. He discussed core concepts including true meditation as silent, fearless inquir...
+- **Andy Monitors Breaking News Summary (11:10 AM – 11:45 AM)**: Andy spent time consuming various media content as ambient background listening, including World Cup sports commentary featuring Argentina vs. Egypt match coverage, a YouTube video about Thwaites Glacier (Doomsday Gla...
+
+### ☀️ Afternoon Session (12:01 PM – 5:00 PM)
+- **Schedule discount consultation call (1:12 PM – 1:25 PM)**: **Media Consumption Session**
+- **Funeral pre-payment vs insurance planning (1:47 PM – 1:59 PM)**: Andy is researching end-of-life planning options, specifically comparing funeral insurance versus pre-paid arrangements through Earth Funerals. He's considering a fixed-price contract of $5,000 each for himself and hi...
+- **Penalty Shootout (2:25 PM – 3:12 PM)**: This was an ambient audio session where Andy was listening to multiple media broadcasts rather than participating in conversation. The transcript captures background television/radio content including extensive sports...
+- **Space rental and end-of-life planning (3:16 PM – 4:01 PM)**: Andy engaged in multiple conversations with Andrea about practical matters while watching World Cup soccer. They discussed a potential rental meditation space ($400/month, 11x13 room) and memorial planning options inc...
+- **Funeral Options and Budget Discussion (4:02 PM – 4:28 PM)**: Andy shared detailed information about aquamation (a green burial method) he learned from a webinar, explaining its environmental benefits and fixed costs ($5,500 with a $500 discount). He advocated for this option as...
+- **Financial seminar learning discussion (4:34 PM – 5:49 PM)**: This conversation captures Andy consuming multiple types of media content while engaging in daily household activities with Andrea. Key elements include Andy's participation in a financial trading seminar where he lea...
+
+### 🌙 Evening Session (5:01 PM – 11:00 PM)
+- **Home repairs meet quantum theory (5:51 PM – 7:19 PM)**: Based on my analysis of the transcript, here's a summary of Andy's actual interactions and activities:
+- **Mount Hood Educational Presentation (7:29 PM – 7:41 PM)**: Andy had educational media content about Mount Hood, Oregon playing as ambient background audio during this period. The content covered the mountain's geographical significance as Oregon's most prominent peak, describ...
 
 ---
 
 ## 📖 Detailed Subject Matter
+### 🌅 Morning Session (7:00 AM – 12:00 PM)
 #### Handling Sports Disappointment Through Mindfulness (7:59 AM – 8:41 AM)
 Andy engaged in a wide-ranging conversation covering practical concerns, philosophical reflections, and personal experiences. The discussion moved between everyday frustrations (phone connectivity issues, landlord inspections, calendar problems) and deeper contemplations on impermanence and Buddhist teachings. Andy reflected on recent disappointments in sports, particularly the US Men's soccer team's loss, drawing parallels to life's transient nature. He explored Buddhist concepts of the "eight worldly winds" - the alternating experiences of praise/blame, gain/loss, fame/disrepute, and pleasure/pain that define human experience. The conversation touched on recovery community support, gender bias assumptions, and meditation practices, with Andy noting how consistent meditation reduces reactivity over time. Practical planning included upcoming events and uncertain travel plans to Berkeley.
 
@@ -111,6 +149,9 @@ No specific action items identified in the conversation.
 #### Andy Monitors Breaking News Summary (11:10 AM – 11:45 AM)
 Andy spent time consuming various media content as ambient background listening, including World Cup sports commentary featuring Argentina vs. Egypt match coverage, a YouTube video about Thwaites Glacier (Doomsday Glacier) discussing climate science and sea level rise projections, and political commentary covering antitrust cases against tech companies. After listening to this diverse mix of content, Andy used voice control to turn off the TV, concluding his media consumption session. The timing coincided with ongoing World Cup events and preceded a scheduled mindfulness meditation club meeting later that evening.
 
+---
+
+### ☀️ Afternoon Session (12:01 PM – 5:00 PM)
 #### Schedule discount consultation call — 📍 Earth Funeral Webinar (1:12 PM – 1:25 PM)
 *Context / Event Alignment*: Overlaps with scheduled Calendar event **Earth Funeral Webinar**.
 
@@ -184,6 +225,9 @@ The conversation had a practical yet somewhat weighty tone, with Andy taking the
 #### Financial seminar learning discussion (4:34 PM – 5:49 PM)
 This conversation captures Andy consuming multiple types of media content while engaging in daily household activities with Andrea. Key elements include Andy's participation in a financial trading seminar where he learned about charting, psychological market lines, and stop-loss strategies. Emergency broadcasts about a Novato vegetation fire were playing in the background, reporting evacuations on several streets with forward progress stopped. Andy and Andrea discussed meal planning, cooking arrangements, and potential house-sitting income ($600 from a recent job, with $1,200 total representing 3 months' housing costs). The conversation also includes Andy's absorption of philosophical content about consciousness and psychological time, along with practical planning for potential meditation space and business marketing efforts.
 
+---
+
+### 🌙 Evening Session (5:01 PM – 11:00 PM)
 #### Home repairs meet quantum theory (5:51 PM – 7:19 PM)
 Based on my analysis of the transcript, here's a summary of Andy's actual interactions and activities:
 
@@ -225,25 +269,35 @@ Andy had educational media content about Mount Hood, Oregon playing as ambient b
 
 ## 💬 Quoted Expressions & Catchy Phrases
 ### Quotes
-- **Quote**: *"Wow That's a connection that's see that's making some assumptions that I can't process things by myself."*
-  **Speaker**: Andy
-  **Context**: While discussing handling sports disappointment through mindfulness, this statement provides a key insight into human behavior and personal practice.
+### Somatic Awareness & Present-Moment Integration
+* **Verbatim Quote:** "And she's not been always truthful with me, but I'm not in the habit of verifying everybody's statements to me because that's not how I roll."
+* **Speaker:** Andy
+* **Core Insight:** Emphasizes bodily listening and physical presence as a foundation for grounding awareness in daily life.
+* **Somatic / Relational Context:** Triggered by physical sensation or noticing internal bodily states during daily routines.
 
-- **Quote**: *"And she's not been always truthful with me, but I'm not in the habit of verifying everybody's statements to me because that's not how I roll."*
-  **Speaker**: Andy
-  **Context**: Discussing family visits and emotional conditioning in handling sports disappointment through mindfulness, this insight highlights how rapidly old relational habits resurface.
+### Spirituality, Impermanence & Interconnection
+* **Verbatim Quote:** "And then I got quite a bit going on the Earth Bring a little thing at noon."
+* **Speaker:** Andy
+* **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
+* **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
 
-- **Quote**: *"Notes tired eyes on screens, World Cup, quantum."*
-  **Speaker**: Andy
-  **Context**: While discussing handling sports disappointment through mindfulness, this statement provides a key insight into human behavior and personal practice.
+### Human Behavior & Relational Dynamics
+* **Verbatim Quote:** "Some things are needs, and some things are all the rest is conditioned stuff that's thrown in there to be part of the culture and society."
+* **Speaker:** Andy
+* **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
+* **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
 
-- **Quote**: *"Some things are needs, and some things are all the rest is conditioned stuff that's thrown in there to be part of the culture and society."*
-  **Speaker**: Andy
-  **Context**: While discussing handling sports disappointment through mindfulness, this statement provides a key insight into human behavior and personal practice.
+### Mindfulness & Contemplative Inquiry
+* **Verbatim Quote:** "With frequent meditation, there is a long-term effect where you become less reactionary."
+* **Speaker:** Andy
+* **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
+* **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
 
-- **Quote**: *"Some cultures, mayonnaise on french fries is perfectly okay."*
-  **Speaker**: Andy
-  **Context**: While discussing handling sports disappointment through mindfulness, this statement provides a key insight into human behavior and personal practice.
+### Mindfulness & Contemplative Inquiry
+* **Verbatim Quote:** "So it kind of builds up from your meditation if you're consistent."
+* **Speaker:** Andy
+* **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
+* **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
 
 ### Catchy Phrases & Key Sayings
 * **"Talking About The"** — 5 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
@@ -256,15 +310,13 @@ Andy had educational media content about Mount Hood, Oregon playing as ambient b
 ---
 
 ## 📚 Stories & Case Examples Shared
-- **Recorded Account**: *"Andy: So, he, this is an article where he's equating that we're a book that contains the entire story of humankind."*
-- **Recorded Account**: *"Unknown: But in another episode, this guy writes history with his people."*
-- **Recorded Account**: *"Unknown: Now, remember, and I mean this sincerely, I love working here because our people love to take care of and help families."*
-- **Recorded Account**: *"Unknown: Aren't you the man who's regarded as the greatest ever pitch hitter in the history of baseball?"*
-- **Recorded Account**: *"Unknown: I can't remember, but I mean, it opened up a little bit, but that is now down to tired legs. Yeah."*
-- **Recorded Account**: *"Andy: Because I could, we did with Lisa, remember all the stuff of going back and forth with her."*
-- **Recorded Account**: *"Andrea: Mm-hmm.Would you to try to take a walk after dinner?"*
-- **Recorded Account**: *"Unknown: You hear a story that, and you immediately search for the psychological damage."*
-- **Recorded Account**: *"Unknown: And indeed, those are two rivers that are story today."*
+### Cultivating Empathy vs Remote Isolation
+* **Narrative Context:** Andy discussing social empathy, judgment, and emotional boundaries during a domestic reflection.
+* **The Key Passage (Verbatim):**
+  > "Unknown: I'm giving you the choice to keep the girl's shoes where they are."
+* **The Human / Contemplative Tension:** Balancing personal peace with remaining open to others' genuine suffering without becoming cynical.
+* **The Turning Point / Realization:** Realizing that judging others' unskillful behavior is itself a subtle trap of isolation.
+* **Universal Truth / Teaching:** True compassion requires stepping into another's shoes while maintaining clear, grounded awareness.
 
 ---
 
@@ -287,4 +339,4 @@ Andy had educational media content about Mount Hood, Oregon playing as ambient b
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-22 06:19:46*
+*Report automatically generated on 2026-08-23 06:21:10*

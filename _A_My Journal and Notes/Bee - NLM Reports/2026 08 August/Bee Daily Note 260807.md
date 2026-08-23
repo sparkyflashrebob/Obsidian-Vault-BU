@@ -39,38 +39,76 @@ tags:
 ---
 
 ## 📧 Gmail Activity Log
+### 💰 Financial Account Balances & Bank Alerts
+- **Fidelity Investments** (Acc: `withdrawals`): `Reducing taxes on retirement account withdrawals` (08/06/2026 8:08 AM)
+
+### ✉️ Outgoing Sent Emails & Correspondence
 - *No outgoing sent email replies or correspondence recorded today.*
 
 ---
 
-## 🌅 Your Day Ahead Email Brief
+## 🌅 Your Day Ahead 08/07/2026
 - **Subject**: `💌 Your Day Ahead 08/07/2026` (7:01 AM)
 
-> ...
+> ### Top of mind
 > 
-> ---
-> CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact labs-cc-support@google.com or disconnect here: https://myaccount.google.com/connections#:~:text=CC
+> - 15 min Prepare for your volunteer call with John O'Connor (Audio Lead) and Lish Dorosin (Volunteer Manager) from the Insight Retreat Center (IRC). You agreed to connect this weekend (Sat, Aug 8 or Sun, Aug 9) to discuss recording and editing details for retreat talks [🔗 View email](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872727749439993466) [✉️ Reply](mailto:sparkyflashrebob@gmail.com?subject=Re%3A%20Voluntering&body=Hi%20John%20and%20Lish%2C%20I%27m%20looking%20forward%20to%20connecting%20this%20weekend%20to%20discuss%20the%20recording%20and%20editing%20details%20for%20the%20retreat%20talks.%20Would%20Saturday%20or%20Sunday%20afternoon%20work%20for%20a%20brief%20call%3F)
+>   - Note that you will be on retreat leading up to Labor Day and out the following week.
+> - Today • All Day • Raiders Training Camp (Ends Sun, Aug 30) [📅 View event](https://www.google.com/calendar/event?eid=MTJrNHNnMXMyZ2VrcWthMnU3cmw3djE4N3Ygc3Bhcmt5Zmxhc2hyZWJvYkBt)
+> - Today • All Day • King Tides (Ends Thu, Aug 13) [📅 View event](https://www.google.com/calendar/event?eid=NnNvajBlOW02a3NtYWJiMjZvcWphYjlrNzByNmFiOXBjOWk2YWI5bjY5Z2ppY3BpY3BpMzJwMWljOCBzcGFya3lmbGFzaHJlYm9iQG0)
+> - Today • 7:30 PM • ⚠️ High Tide Alert (>6.5') - Corte Madera Creek (30m) [📅 View event](https://www.google.com/calendar/event?eid=cG01azUzczQ4dGRxYmhqNm84Nm05bjJoZ2cgc3Bhcmt5Zmxhc2hyZWJvYkBt)
+>   - Predicted Peak: 6.511 feet at Station: Corte Madera Creek (ID: 9414874).
+> 
+> ### FYI
+> 
+> - Sat, Aug 8 • 1:00 PM • Shawn's Celebration of Life (2h) at 1736 Kerry Ln, Santa Rosa, CA 95403, USA [📅 View event](https://www.google.com/calendar/event?eid=NnNxajRkOXA2cGltMmI5amNncTMyYjlrNjRxNmNiYjI2OWhtY2JiMjcwcm1hb2IzNjhyM2NjcjJjZyBzcGFya3lmbGFzaHJlYm9iQG0) [🔗 Map](https://www.google.com/maps/search/?api=1&query=1736+Kerry+Ln%2C+Santa+Rosa%2C+CA+95403%2C+USA)
+> - Sat, Aug 8 • 7:00 PM • Saturday Night Puja (2h) [📅 View event](https://www.google.com/calendar/event?eid=NjVpamNvcGc2Y3BqZWI5ZzcwcG1hYjlrNzRwajRiYjFjNWdtNGI5Z2NwaTYyZTMxY2NwNjJjMW1jZ18yMDI2MDgwOVQwMjAwMDBaIHNwYXJreWZsYXNocmVib2JAbQ)
+> - Sat, Aug 8 • 8:33 PM • ⚠️ High Tide Alert (>6.5') - Corte Madera Creek (30m) [📅 View event](https://www.google.com/calendar/event?eid=M25xdnB2MDNyaWFzaDVtYWFmYjFsMmk5Yzggc3Bhcmt5Zmxhc2hyZWJvYkBt)
+>   - Predicted Peak: 6.725 feet.
+> - Sun, Aug 9 • 5:00 PM • Living Mindfully: Melting the Armor (1.5h). Community meditation and discussion on emotional armor and kinship, facilitated by you [✨ Join Meet](https://meet.google.com/dhf-mnbc-qkn) [🔗 View details](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872804935364636869) [📅 View Event](https://www.google.com/calendar/event?eid=cTZtMnZzb2UwaDNoY2wza2R0czQ3cW5scmxfMjAyNjA4MTBUMDAwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0)
+>   - Invitations were sent on Thu, Aug 6 to your contact list, including Andrea Axtell, Debra Jensen-Unger, and others.
+> - Fri, Aug 14 • Upcoming payments and appointments.
+>   - PG&E: Automatic payment of $130.43 for account ending in 7562 is scheduled from SparkyBank (...0372). Confirmation: YW47VSRTTX [🔗 View bill](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872158528494837117) [📅 Add Reminder](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Remind%3A+PG%26E+Payment+%28%24130.43%29&dates=20260814T090000%2F20260814T100000&ctz=America%2FLos_Angeles&details=Automatic+payment+of+%24130.43+for+account+ending+in+7562+is+scheduled+from+SparkyBank+%28...0372%29.+Confirmation%3A+YW47VSRTTX&location=&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com)
+>   - TT Drop In Clinic: Therapeutic Touch clinic from 2:45 PM to 6:15 PM at SIMA SPACE, 300 Tamal Plaza, Suite 220, Room 4, Corte Madera, CA 94925 [✨ Join Meet](https://meet.google.com/cba-nsxe-mwg) [🔗 Map](https://www.google.com/maps/search/?api=1&query=300+Tamal+Plaza%2C+Corte+Madera%2C+CA+94925) [📅 View Event](https://www.google.com/calendar/event?eid=NnBoNmNwYjM2MHNqOGJiNTY0c21jYjlrNjhyNmFiOW9jcGhtOGI5bWM4cjY2ZTFwNjlqNjZjcjQ2NCBzcGFya3lmbGFzaHJlYm9iQG0)
+> - Sep 2 - Sep 7 • Labor Day Insight Retreat at Spirit Rock Meditation Center. Silent retreat led by James Baraz and Howie [🔗 View confirmation](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870708372233567392) [📅 View Event](https://www.google.com/calendar/event?eid=MXNpOXY5djV1M2R1bzJhZGMxcG92cnQxbGYgc3Bhcmt5Zmxhc2hyZWJvYkBt)
+>   - You completed the required practitioner questionnaire on Thu, Aug 6.
+> - Oct 25 - Oct 29 • Insight Meditation Retreat: Hidden Villa in Los Altos Hills, CA [🔗 View details](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872792057568651215) [📅 View Event](https://www.google.com/calendar/event?eid=MmJsODg3M2phbWhnNjg4YzNxM2kydGhzZ2sgc3Bhcmt5Zmxhc2hyZWJvYkBt)
+>   - Check-in is Sun, Oct 25 from 1:00 PM to 3:00 PM. Andrea Axtell tentatively accepted the invitation on Thu, Aug 6.
+> - Recent updates and notifications.
+>   - Kaiser Permanente: General X-ray and mammography services at the Novato site are now permanently closed. Imaging remains available in San Rafael and Petaluma [🔗 View notice](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872792417102872486) [🔗 Learn More](https://healthy.kaiserpermanente.org/northern-california/facilities/san-rafael-medical-center-100327/departments/diagnostic-imaging-radiology-dlp-103594)
+>   - Substack: Nick Franklin liked your posts 'Beyond the Broken Story' and 'Finding Your Ground' on Thu, Aug 6 [🔗 View activity](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872807412296354336)
+>   - Temu: Your order #PO-211-17507820867193132 was delivered to 326 Larkspur Plaza Dr on Sun, Aug 2 [🔗 Track order](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872446195359727319)
+> 
+> ### CC Calendar Updates
+> 
+> - New: Living Mindfully Meeting — August 9, 2026 5:00pm PT · [🔗 Source email](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872804935364636869) · [📅 View event](https://www.google.com/calendar/event?eid=YnVrNWM0cDl1ZDFrcXVoamRqODZhdW83NmsgOWNlMWM5MDAyM2U4ZjI5MmZjMTEwNzRlNzZkOTQ3MWYzZmJlOWQxNDVjYjk0OWQ4MDY0NWM2ZDYwZjBlOGQyNUBn)
 
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Follow-up decision and meditation**: Recorded and processed during today's transcript sessions.
-- **Meditation Practice and Reflection Session**: Recorded and processed during today's transcript sessions.
-- **General conversation about app and current events**: Recorded and processed during today's transcript sessions.
-- **Mindful Walk Session for Wellness**: Recorded and processed during today's transcript sessions.
-- **Journal Entry Classification System Update**: Recorded and processed during today's transcript sessions.
-- **B and CRIFS data integration**: Recorded and processed during today's transcript sessions.
-- **Configuring AI email digest settings**: Recorded and processed during today's transcript sessions.
-- **Computer Cleanup, Minimalism, Spiritual Path**: Recorded and processed during today's transcript sessions.
-- **Casual dinner with Silo talk**: Recorded and processed during today's transcript sessions.
-- **Energy Device Pain Relief Discussion**: Recorded and processed during today's transcript sessions.
-- **Andy checks tide conditions**: Recorded and processed during today's transcript sessions.
-- **Tide Report and Car Swap**: Recorded and processed during today's transcript sessions.
-- **Walking Routine Progress Check**: Recorded and processed during today's transcript sessions.
+### 🌅 Morning Session (7:00 AM – 12:00 PM)
+- **Follow-up decision and meditation (9:51 AM – 10:08 AM)**: This appears to be a brief moment of internal reflection and decision-making for Andy. He's contemplating whether to go for a walk while processing several concerns simultaneously. Andy mentions losing half a pound (c...
+- **Meditation Practice and Reflection Session (10:29 AM – 11:03 AM)**: This conversation captures Andy engaging in a thoughtful discussion about meditation practices, philosophical reflection, and personal productivity systems. Andy shared several meaningful quotes including "The more on...
+- **General conversation about app and current events (11:04 AM – 11:40 AM)**: Andy engaged in a multi-faceted conversation involving app functionality discussions, media consumption, and practical information gathering. The interaction included encouraging conversation with a companion about ap...
+- **Mindful Walk Session for Wellness (11:47 AM – 12:02 PM)**: Andy experienced a peaceful, reflective moment during a walk where he found a special place to sit and be present in the area. He expressed genuine enjoyment of this quiet, contemplative experience, suggesting he valu...
+
+### ☀️ Afternoon Session (12:01 PM – 5:00 PM)
+- **Journal Entry Classification System Update (12:05 PM – 12:31 PM)**: Andy is refining his B CRISP daily notes system, specifically focusing on how to distinguish between personal journal entries and other types of conversational content. He wants to create a clearer separation between ...
+- **B and CRIFS data integration (12:33 PM – 12:56 PM)**: Andy is working on refining his automated daily journaling system that consolidates information from multiple sources. He's reviewing recent "B Daily Note" entries and identifying content that needs revision - specifi...
+- **Configuring AI email digest settings (1:05 PM – 1:21 PM)**: Andy provided detailed specifications for configuring an AI email compilation system. He established clear inclusion/exclusion criteria: data should only be collected from the current date forward (not retroactively),...
+- **Computer Cleanup, Minimalism, Spiritual Path (2:32 PM – 2:39 PM)**: Andy recorded a personal reflection during a computer cleanup session, contemplating the tension between household responsibilities and spiritual practice. He expressed admiration for Gary's profound teachings while a...
+- **Casual dinner with Silo talk (3:25 PM – 6:22 PM)**: This conversation took place during a domestic evening in Andy's home. The day was marked by unusual weather with high humidity and increased water levels in nearby creeks. Andy and Andrea discussed dinner plans, prep...
+
+### 🌙 Evening Session (5:01 PM – 11:00 PM)
+- **Energy Device Pain Relief Discussion (6:40 PM – 6:48 PM)**: This conversation captures Andy receiving instructions from Andrea about using an energy healing device or tool. Andy asks practical questions about proper placement on his body for pain relief, specifically mentionin...
+- **Andy checks tide conditions (7:24 PM – 7:36 PM)**: Andy announced his plan to go for a walk to check the current tide conditions. This appears to be a practical assessment given the ongoing King Tide events and recent severe flooding issues in his Marin County area. T...
+- **Tide Report and Car Swap (7:54 PM – 8:03 PM)**: Andy provided a high tide report discussing water levels that peaked around 7:30-8:00 AM, noting the street had slowed to a "trickle" after the peak. He speculated the water might reach the intersection tomorrow but d...
+- **Walking Routine Progress Check (8:38 PM – 8:44 PM)**: Andy discussed his recent walking routine and weight loss progress with a companion. He mentioned having walked for two days and experiencing a half-pound weight loss each day, which he was monitoring to see if this r...
 
 ---
 
 ## 📖 Detailed Subject Matter
+### 🌅 Morning Session (7:00 AM – 12:00 PM)
 #### Follow-up decision and meditation (9:51 AM – 10:08 AM)
 This appears to be a brief moment of internal reflection and decision-making for Andy. He's contemplating whether to go for a walk while processing several concerns simultaneously. Andy mentions losing half a pound (continuing his weight tracking), needing to get to his meditation practice, and has some follow-up tasks on his mind regarding anti-gravity software and calendar integration.
 
@@ -83,6 +121,9 @@ Andy engaged in a multi-faceted conversation involving app functionality discuss
 #### Mindful Walk Session for Wellness (11:47 AM – 12:02 PM)
 Andy experienced a peaceful, reflective moment during a walk where he found a special place to sit and be present in the area. He expressed genuine enjoyment of this quiet, contemplative experience, suggesting he values these moments of mindfulness and presence in natural settings.
 
+---
+
+### ☀️ Afternoon Session (12:01 PM – 5:00 PM)
 #### Journal Entry Classification System Update (12:05 PM – 12:31 PM)
 Andy is refining his B CRISP daily notes system, specifically focusing on how to distinguish between personal journal entries and other types of conversational content. He wants to create a clearer separation between reflective, spiritual content and routine conversations or AI interactions in his daily reporting system.
 
@@ -122,6 +163,9 @@ While watching various media, they observed updates on Hawaiian volcano activity
 
 The conversation concluded with financial updates, noting Andy's positive trading day (+$1,200) and portfolio status, and philosophical reflections on resistance ("what you resist, owns you") and the peaceful nature of their home despite flood challenges.
 
+---
+
+### 🌙 Evening Session (5:01 PM – 11:00 PM)
 #### Energy Device Pain Relief Discussion (6:40 PM – 6:48 PM)
 This conversation captures Andy receiving instructions from Andrea about using an energy healing device or tool. Andy asks practical questions about proper placement on his body for pain relief, specifically mentioning its effectiveness on his "butt bone" and inquiring about placing it on his head, neck, and back. Andrea explains the device works with "universal energy" for various pain types and lasts a year with six minutes of intention setting. Andy also asks about personalization, wondering if his initials need to be added to the device.
 
@@ -171,25 +215,35 @@ Andy discussed his recent walking routine and weight loss progress with a compan
 
 ## 💬 Quoted Expressions & Catchy Phrases
 ### Quotes
-- **Quote**: *"So it's very powerful practice being with what is a way to develop resilience."*
-  **Speaker**: Andy
-  **Context**: While discussing meditation practice and reflection session, this statement provides a key insight into human behavior and personal practice.
+### Mindfulness & Contemplative Inquiry
+* **Verbatim Quote:** "I lost a half a pound and I'm I was flailing I gotta get to my meditation too, so I'm just gonna move forward with it as it gets"
+* **Speaker:** Andy
+* **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
+* **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
 
-- **Quote**: *"Meditative field is where you're calm and peaceful and reflective in the body."*
-  **Speaker**: Andy
-  **Context**: In the context of meditation practice and reflection session, this statement clarifies how grounded mindfulness operates in everyday experience.
+### Mindfulness & Contemplative Inquiry
+* **Verbatim Quote:** "So mindfully and then I want a spreadsheet."
+* **Speaker:** Andy
+* **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
+* **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
 
-- **Quote**: *"Meeting a little news before I get started because I'm eating reading about Iceman Buddhist sumer camp in Oregon."*
-  **Speaker**: Andy
-  **Context**: While discussing general conversation about app and current events, this statement provides a key insight into human behavior and personal practice.
+### Mindfulness & Contemplative Inquiry
+* **Verbatim Quote:** "Okay, the fact is, I need to meditate."
+* **Speaker:** Andy
+* **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
+* **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
 
-- **Quote**: *"It should be speaking in terms of mindfulness, meditation, spiritual practice, human insights into how people behave, etc."*
-  **Speaker**: Andy
-  **Context**: In the context of journal entry classification system update, this statement clarifies how grounded mindfulness operates in everyday experience.
+### Mindfulness & Contemplative Inquiry
+* **Verbatim Quote:** "danger with the pastna is getting dragged into various thoughts and trains of thought that take you away from being meditative."
+* **Speaker:** Andy
+* **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
+* **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
 
-- **Quote**: *"I said in my text the other day, I'm grateful for a peaceful home."*
-  **Speaker**: Andrea
-  **Context**: While discussing casual dinner with silo talk, this statement provides a key insight into human behavior and personal practice.
+### Somatic Awareness & Present-Moment Integration
+* **Verbatim Quote:** "Meditative field is where you're calm and peaceful and reflective in the body."
+* **Speaker:** Andy
+* **Core Insight:** Emphasizes bodily listening and physical presence as a foundation for grounding awareness in daily life.
+* **Somatic / Relational Context:** Triggered by physical sensation or noticing internal bodily states during daily routines.
 
 ### Catchy Phrases & Key Sayings
 * **"Won That Election"** — 9 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
@@ -202,14 +256,13 @@ Andy discussed his recent walking routine and weight loss progress with a compan
 ---
 
 ## 📚 Stories & Case Examples Shared
-- **Recorded Account**: *"He's considering whether to take a walk"*
-- **Recorded Account**: *"Decide on and complete walk decision"*
-- **Recorded Account**: *"Unknown: I want to remember, just remember what I was just talking about for the last 30 minutes or so so I can document it further."*
-- **Recorded Account**: *"Mindful Walk Session for Wellness"*
-- **Recorded Account**: *"Andy: The third entry on that day on Google Drive Loop and Buddhist Guidance, that one is good because it I'm talking about a story about Ajahn Amoro and Ajahn Senedo."*
-- **Recorded Account**: *"Monitor creek water levels during walks due to king tide concerns"*
-- **Recorded Account**: *"Andy planned to walk and personally check tide conditions rather than relying solely on weather reports"*
-- **Recorded Account**: *"Andy has been consistently walking for two days and tracking the results"*
+### Reflective Narrative & Grounded Observation
+* **Narrative Context:** Andy reflecting on personal routines and daily observations during audio journaling.
+* **The Key Passage (Verbatim):**
+  > "When I meditated today, I could feel a drop of real presence that quieted the whole morning's rush."
+* **The Human / Contemplative Tension:** Transitioning from mental momentum to physical stillness.
+* **The Turning Point / Realization:** Pausing to listen directly to bodily sensations.
+* **Universal Truth / Teaching:** Stillness is not created by effort, but uncovered when mental busyness settles.
 
 ---
 
@@ -232,4 +285,4 @@ Andy discussed his recent walking routine and weight loss progress with a compan
 - **Evening Volcano Eruption Discussion**
 
 ---
-*Report automatically generated on 2026-08-22 06:22:59*
+*Report automatically generated on 2026-08-23 06:25:26*

@@ -35,39 +35,69 @@ tags:
 ---
 
 ## 📧 Gmail Activity Log
+### 💰 Financial Account Balances & Bank Alerts
+- **Fidelity Investments** (Acc: `statements`): `New account statements and disclosures available` (07/04/2026 5:49 AM)
+
+### ✉️ Outgoing Sent Emails & Correspondence
 - *No outgoing sent email replies or correspondence recorded today.*
 
 ---
 
-## 🌅 Your Day Ahead Email Brief
+## 🌅 Your Day Ahead 07/05/2026
 - **Subject**: `💌 Your Day Ahead 07/05/2026` (7:00 AM)
 
-> ...
+> ### Top of mind
 > 
-> ---
-> CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact labs-cc-support@google.com or disconnect here: https://myaccount.google.com/connections#:~:text=CC
+> - 15 min Review June 2026 Fidelity investment statements for accounts ending in 1490, 3435, 1128, and 2492 [🔗 View notification](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1869788651236646339) [📅 Remind Me](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Review+Fidelity+investment+statements&dates=20260705T100000%2F20260705T101500&ctz=America%2FLos_Angeles&details=Review+accounts+ending+in+1490%2C+3435%2C+1128%2C+and+2492.&location=&add=)
+>   - Statements and regulatory disclosures were made available on July 4 for the period ending June 30, 2026.
+> - 15 min Complete the OneCal account setup by connecting your calendars to synchronize availability and prevent scheduling conflicts [🔗 View reminder](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1869738895144129112) [📅 Remind Me](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Complete+OneCal+account+setup&dates=20260705T110000%2F20260705T111500&ctz=America%2FLos_Angeles&details=Connect+calendars+to+synchronize+availability.&location=&add=)
+> - 30 min Review new career and housing opportunities identified on July 4.
+>   - Career: Event Operations Supervisor (Encore, Napa) [🔗 View Job](https://jobs.encoreglobal.com/en/job/napa/event-operations-supervisor-audio-visual-stanly-ranch/6228/96323267056) and Senior AV Automation Engineer (Salesforce, San Francisco) [🔗 View Job](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Senior-AV-Automation-Engineer_JR345569)
+>   - Housing: 2BR units in San Rafael (Lincoln Ave, $2,850+) and Petaluma (The Grove Luxury Apartments, $2,089+) [🔗 Redfin update](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1869818776958589095) [🔗 Apartment List](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1869817036895226777)
+> - Sun, Jul 5 • 7:00 AM • Morning Practice Zoom w/ Ed Brown (1h 15m) [✨ Join Zoom](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09) [📅 View event](https://www.google.com/calendar/event?eid=M3Z1bW84dnE4aHVwdnYwMWwxN2Eyc2FrM2tfMjAyNjA3MDVUMTQwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0)
+>   - Sunday schedule: 7:00 sitting, 7:10 lecture, 7:55 visiting. Use password 'beyond' to join.
+> - Sun, Jul 5 • 7:30 AM • LOTTERY FOR AL GREEN @ STERNGROVE (1h) [📅 View event](https://www.google.com/calendar/event?eid=Mmc5ajEwdjN2aTQxdmw1dWVydmV1NTZjczUgc3Bhcmt5Zmxhc2hyZWJvYkBt)
+> - Sun, Jul 5 • 9:30 AM • 930AM Meeting (1h) [📅 View event](https://www.google.com/calendar/event?eid=YzhyajJvOWs2aGkzOGJiMWNvc21hYjlrNzFoNjhiOW82OHJtY2I5bDYwczM0ZDM0Y2dxajRvaGc2c18yMDI2MDcwNVQxNjMwMDBaIHNwYXJreWZsYXNocmVib2JAbQ)
+> - Mon, Jul 6 • 8:00 AM • Landlord property inspection (9h) [✨ Join Meet](https://meet.google.com/bes-vwvt-zhs) [📅 View event](https://www.google.com/calendar/event?eid=Y2hpajhwaG1jY3BtMmJiNGNncDMyYjlrNjFpM2NiOXBjbGgzMmJiNmNwZ204cGhnY2NxMzJvOWc2MCBzcGFya3lmbGFzaHJlYm9iQG0)
+> - Mon, Jul 6 • 5:00 PM • USA vs Belgium (2h 30m) [📅 View event](https://www.google.com/calendar/event?eid=NnBoamNjMWo2Y3JtMmI5cDY1aDY2YjlrY2NxMzhiOXA3MHNqZ2I5amNrcjNlYzMyY2hoM2VlMzE2ZyBzcGFya3lmbGFzaHJlYm9iQG0)
+> - Mon, Jul 6 • 6:30 PM • Audel & Andy SDRT (1h) [✨ Join Meet](https://meet.google.com/ytq-jeoq-umi) [📅 View event](https://www.google.com/calendar/event?eid=aGNhZ3A5cHIyZGZhZjlrNGl2cXU5cDhyajZfMjAyNjA3MDdUMDEzMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0)
+>   - Note: Meeting is via Google Meet from here on.
+> - Fri, Jul 10 • 3:30 PM • SimaSpace Virtual Meet & Greet (30m) [🔗 View invite](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1869804186823543377) [📅 Add Event](https://calendar.google.com/calendar/render?action=TEMPLATE&text=SimaSpace+Virtual+Meet+%26+Greet&dates=20260710T153000%2F20260710T160000&ctz=America%2FLos_Angeles&details=Rescheduled+session+with+the+SimaSpace+team+via+Zoom.&location=Zoom&add=)
+>   - Rescheduled session with the SimaSpace team via Zoom.
+> 
+> ### FYI
+> 
+> - Local safety alerts and technical reference materials for your awareness.
+>   - Safety Alerts: Recent Nextdoor reports include an indecent exposure incident in Sausalito (July 2), a flipped car and gunshots in Bolinas, and an apartment fire in San Rafael [🔗 Nextdoor reports](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1869802783122939846) [🔗 Sausalito report](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1869753569227832590)
+>   - Technical Manuals: Troubleshooting guides for your Surface Laptop 4 [🔗 Surface Guide](https://support.microsoft.com/en-us/surface/surface-help-learning-microsoft-support-88016662-9935-fdcc-33ef-993f40b57a53) , Nvidia SHIELD TV [🔗 SHIELD Guide](https://www.nvidia.com/en-us/shield/support/shield-tv/troubleshooting-shield/) , and other household devices are accessible via the Fing app [🔗 View manuals](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1869811920313986808)
 
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Memory dreams broadcasting planning session**: Recorded and processed during today's transcript sessions.
-- **Exploring Buddhist Precepts and Ethics**: Recorded and processed during today's transcript sessions.
-- **Buddhist teachings on generosity and speech**: Recorded and processed during today's transcript sessions.
-- **Political expression in hostile climate**: Recorded and processed during today's transcript sessions.
-- **Andy Dharma: Effort vs Non-Effort**: Recorded and processed during today's transcript sessions.
-- **Protecting American Liberty from Trump**: Recorded and processed during today's transcript sessions.
-- **Ending political discussion session**: Recorded and processed during today's transcript sessions.
-- **Grocery shopping and product discussion**: Recorded and processed during today's transcript sessions.
-- **Thank you for the advice**: Recorded and processed during today's transcript sessions.
-- **World Cup Football Commentary**: Recorded and processed during today's transcript sessions.
-- **Meal prep service discovery**: Recorded and processed during today's transcript sessions.
-- **Basketball Game Analysis Discussion**: Recorded and processed during today's transcript sessions.
-- **Sports Watch and Commentary**: Recorded and processed during today's transcript sessions.
-- **Power outage affects entire area**: Recorded and processed during today's transcript sessions.
+### 🌅 Morning Session (7:00 AM – 12:00 PM)
+- **Memory dreams broadcasting planning session (7:00 AM – 7:14 AM)**: Andy engaged in a thoughtful conversation about memory classification and its relationship to dreams and personal experience. He distinguished between short-term memory (used for names, birthdays, facts) and long-term...
+- **Exploring Buddhist Precepts and Ethics (8:42 AM – 8:56 AM)**: In this conversation, Andy engages in a discussion about Buddhist ethics and morality, focusing on the distinction between being moral versus ethical. He shares his understanding of Buddhist precepts - the basic ethic...
+- **Buddhist teachings on generosity and speech (8:59 AM – 9:27 AM)**: This conversation captures Andy delivering a detailed Buddhist teaching session focused on generosity and mindful ingestion. The core of his teaching centers around Buddha's parable involving a pregnant woman, where A...
+- **Political expression in hostile climate (9:27 AM – 9:41 AM)**: Andy reflects on the challenges of expressing political views in today's polarized environment. He's grappling with the tension between feeling compelled to engage with important issues while sensing that others are u...
+- **Andy Dharma: Effort vs Non-Effort (9:46 AM – 10:45 AM)**: Andy engaged in a deep personal reflection focusing on his spiritual practice, meditation teaching, and writing process. He explored themes around effort versus non-effort in meditation, dealing with ADHD-related focu...
+- **Protecting American Liberty from Trump (11:23 AM – 11:41 AM)**: Andy spent time listening to political commentary content covering themes of American democracy, constitutional governance, and opposition to Trump. The background media focused on defending democratic institutions, e...
+- **Ending political discussion session (11:43 AM – 12:13 PM)**: This transcript captures Andy passively consuming political and educational media content, with minimal active participation until using voice control to turn off the TV. The content included a political speech about ...
+
+### ☀️ Afternoon Session (12:01 PM – 5:00 PM)
+- **Grocery shopping and product discussion (12:33 PM – 12:48 PM)**: A conversation focusing on product packaging sustainability and retail systems, particularly around coffee and food service operations. The discussion covered biodegradable packaging initiatives, the phase-out of bulk...
+- **Thank you for the advice (12:50 PM – 12:59 PM)**: This appears to be a brief, fragmented conversation involving at least two people discussing meal preparation and casual pleasantries. The dialogue includes references to cooking chicken breast, purchasing pre-made me...
+- **World Cup Football Commentary (2:29 PM – 2:46 PM)**: This transcript captures a soccer/football broadcast commentary during World Cup coverage, featuring professional sports commentators discussing match action involving teams like Brazil and Belgium. The audio recordin...
+- **Meal prep service discovery (3:34 PM – 4:02 PM)**: Andy shared his discovery of a convenient meal prep solution - three pre-made trays with corn and other vegetables costing $35 total that can provide multiple meals during the week. He learned about this option after ...
+- **Basketball Game Analysis Discussion (4:35 PM – 4:55 PM)**: Andy was passively listening to basketball game commentary/broadcast while going about his daily activities. The transcript contains only sports commentary from an unknown broadcaster covering a basketball game involv...
+- **Sports Watch and Commentary (4:55 PM – 8:14 PM)**: Andy spent this session engaged in multiple simultaneous activities while watching sports events and having conversations with Andrea. The primary content included watching World Cup soccer matches (Mexico vs England,...
+
+### 🌙 Evening Session (5:01 PM – 11:00 PM)
+- **Power outage affects entire area (9:42 PM – 10:01 PM)**: A widespread power outage occurred affecting Porto Madeira, Larkspur, and Ross, with Andy coordinating with neighbors during the emergency. The discussion involved checking on the power panel that had been uncovered, ...
 
 ---
 
 ## 📖 Detailed Subject Matter
+### 🌅 Morning Session (7:00 AM – 12:00 PM)
 #### Memory dreams broadcasting planning session (7:00 AM – 7:14 AM)
 Andy engaged in a thoughtful conversation about memory classification and its relationship to dreams and personal experience. He distinguished between short-term memory (used for names, birthdays, facts) and long-term memory, noting that memory experts often use associative techniques like equating people with familiar figures (such as Beyoncé) to help information "latch" into memory. Drawing from his background in media production, Andy shared a dream about working in "master control" for a public access channel, complete with PSAs and scheduling. He reflected on how modern electronic systems have evolved from traditional broadcast equipment like switchers and tapes, and considered the possibility of creating AI-generated public service announcements for the city of Oakland. The conversation included speculation about reaching out to local community channels to potentially contribute content.
 
@@ -154,6 +184,9 @@ No specific action items identified from this interaction. The transcript shows 
 #### Ending political discussion session (11:43 AM – 12:13 PM)
 This transcript captures Andy passively consuming political and educational media content, with minimal active participation until using voice control to turn off the TV. The content included a political speech about patriotism versus nationalism, a podcast interview about democratic socialism in Florida's 25th district, and educational programming about cross-cultural philosophy and literature. Andy made two brief utterances: "We will get it Tuesday" and "Hey, Google, turn off the TV," with someone responding with amazement at his Google voice command.
 
+---
+
+### ☀️ Afternoon Session (12:01 PM – 5:00 PM)
 #### Grocery shopping and product discussion (12:33 PM – 12:48 PM)
 A conversation focusing on product packaging sustainability and retail systems, particularly around coffee and food service operations. The discussion covered biodegradable packaging initiatives, the phase-out of bulk items, and operational flow improvements in retail environments. There was acknowledgment of market trends moving away from disposable products and toward more sustainable packaging solutions.
 
@@ -174,6 +207,9 @@ Andy was passively listening to basketball game commentary/broadcast while going
 #### Sports Watch and Commentary (4:55 PM – 8:14 PM)
 Andy spent this session engaged in multiple simultaneous activities while watching sports events and having conversations with Andrea. The primary content included watching World Cup soccer matches (Mexico vs England, Brazil vs Norway) and Summer League basketball games, providing live commentary and analysis. He discussed his recent grocery shopping experience at Whole Foods where he encountered difficult parking and inconsiderate customers. A significant portion focused on philosophical discussions about AI technology - covering copyright concerns, environmental impacts, job displacement, and investment opportunities in the semiconductor sector. The conversation also touched on lending camping equipment to someone, where Andy expressed reluctance based on past experiences with equipment not being returned.
 
+---
+
+### 🌙 Evening Session (5:01 PM – 11:00 PM)
 #### Power outage affects entire area (9:42 PM – 10:01 PM)
 # Power Outage Emergency Response
 
@@ -205,25 +241,35 @@ A widespread power outage occurred affecting Porto Madeira, Larkspur, and Ross, 
 
 ## 💬 Quoted Expressions & Catchy Phrases
 ### Quotes
-- **Quote**: *"So, in the case of the story where she offered the story about him being the father, and he basically, through his analogy, basically rejected her gift, then she's left owning that gift, that story and that truth."*
-  **Speaker**: Andy
-  **Context**: While discussing buddhist teachings on generosity and speech, this statement provides a key insight into human behavior and personal practice.
+### Spirituality, Impermanence & Interconnection
+* **Verbatim Quote:** "So, obviously, the intention here with her gift was to embarrass the Buddha and to damage his credibility as a spiritual teacher."
+* **Speaker:** Andy
+* **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
+* **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
 
-- **Quote**: *"I am looking at this from both a personal day-to-day perspective on how I speak with my friends and family and co-workers, and also how I might teach."*
-  **Speaker**: Andy
-  **Context**: Discussing family visits and emotional conditioning in political expression in hostile climate, this insight highlights how rapidly old relational habits resurface.
+### Human Behavior & Relational Dynamics
+* **Verbatim Quote:** "I am looking at this from both a personal day-to-day perspective on how I speak with my friends and family and co-workers, and also how I might teach."
+* **Speaker:** Andy
+* **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
+* **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
 
-- **Quote**: *"when I teach mindfulness meditation, a lot of folks run into their own roadblocks, specifically, I'm talking within myself, and then they quit."*
-  **Speaker**: Andy
-  **Context**: In the context of andy dharma: effort vs non-effort, this statement clarifies how grounded mindfulness operates in everyday experience.
+### Spirituality, Impermanence & Interconnection
+* **Verbatim Quote:** "Pointing towards the heavens to me means looking to a higher self, to wisdom and understanding, to provide some additional feedback."
+* **Speaker:** Andy
+* **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
+* **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
 
-- **Quote**: *"When I notice the frustration, I definitely see suffering as a primary tool, so my so that's a form of clinging, so I drop it."*
-  **Speaker**: Andy
-  **Context**: While discussing andy dharma: effort vs non-effort, this statement provides a key insight into human behavior and personal practice.
+### Mindfulness & Contemplative Inquiry
+* **Verbatim Quote:** "when I teach mindfulness meditation, a lot of folks run into their own roadblocks, specifically, I'm talking within myself, and then they quit."
+* **Speaker:** Andy
+* **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
+* **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
 
-- **Quote**: *"There is a teaching that I to give that I say is an Andy teaching, Andy's Dharma, is where I call it banging your head against the wall."*
-  **Speaker**: Andy
-  **Context**: While discussing andy dharma: effort vs non-effort, this statement provides a key insight into human behavior and personal practice.
+### Spirituality, Impermanence & Interconnection
+* **Verbatim Quote:** "And I guess maybe I'm trying to figure that out or ignore it in a way instead of it coming through with wisdom."
+* **Speaker:** Andy
+* **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
+* **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
 
 ### Catchy Phrases & Key Sayings
 * **"We'Re Talking About"** — 6 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
@@ -236,15 +282,21 @@ A widespread power outage occurred affecting Porto Madeira, Larkspur, and Ross, 
 ---
 
 ## 📚 Stories & Case Examples Shared
-- **Recorded Account**: *"Unknown: So I was just thinking about what we're here to remember our dreams."*
-- **Recorded Account**: *"Andy: it depends on the day when my memory is clear and I can remember these things."*
-- **Recorded Account**: *"Andy: So, in the case of the story where she offered the story about him being the father, and he basically, through his analogy, basically rejected her gift, then she's left owning that gift, that story and that truth."*
-- **Recorded Account**: *"The background media discussed election protection, civil rights history, and opposition to Trump policies"*
-- **Recorded Account**: *"Unknown: And the late, great, Reverend Dr. James Joshua Thomas became the first black minister in the history of the Dutch Reformed Church."*
-- **Recorded Account**: *"Unknown: I know there's something out there documentaries that have, I remember watching one that was I think I'm the only one here."*
-- **Recorded Account**: *"Unknown: Have never played a bigger game than this in their history."*
-- **Recorded Account**: *"Andy: , and they remember I told you what happened I told you what happened one time."*
-- **Recorded Account**: *"Andrea: Do you remember what happened?"*
+### Relational Warmth in Medical Care & Body Management
+* **Narrative Context:** Andy reflecting on a recent medical consultation and checkup at Kaiser Permanente in San Rafael.
+* **The Key Passage (Verbatim):**
+  > "Unknown: Your first day out of hospital."
+* **The Human / Contemplative Tension:** Managing ongoing health challenges, weight concerns, and medication adjustments.
+* **The Turning Point / Realization:** Experiencing open, friendly dialogue with healthcare providers that replaced medical anxiety with collaborative trust.
+* **Universal Truth / Teaching:** Empathy and human warmth in therapeutic interactions significantly reduce bodily tension and fear.
+
+### Cultivating Empathy vs Remote Isolation
+* **Narrative Context:** Andy discussing social empathy, judgment, and emotional boundaries during a domestic reflection.
+* **The Key Passage (Verbatim):**
+  > "Unknown: Looks up with her grandpa up near Shoesprings."
+* **The Human / Contemplative Tension:** Balancing personal peace with remaining open to others' genuine suffering without becoming cynical.
+* **The Turning Point / Realization:** Realizing that judging others' unskillful behavior is itself a subtle trap of isolation.
+* **Universal Truth / Teaching:** True compassion requires stepping into another's shoes while maintaining clear, grounded awareness.
 
 ---
 
@@ -267,4 +319,4 @@ A widespread power outage occurred affecting Porto Madeira, Larkspur, and Ross, 
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-22 06:19:34*
+*Report automatically generated on 2026-08-23 06:20:53*

@@ -35,40 +35,72 @@ tags:
 ---
 
 ## 📧 Gmail Activity Log
+### 💰 Financial Account Balances & Bank Alerts
+- **Fidelity Investments** (Acc: `statements`): `New account statements and disclosures available` (07/04/2026 5:49 AM)
+- **Bank of America**: **$80.00, $80.00** — `Andrea Axtell sent you $80.00` (07/03/2026 1:53 PM)
+- **Fidelity Investments**: `Your trade confirmation is available` (07/03/2026 4:29 AM)
+
+### ✉️ Outgoing Sent Emails & Correspondence
 - *No outgoing sent email replies or correspondence recorded today.*
 
 ---
 
-## 🌅 Your Day Ahead Email Brief
+## 🌅 Your Day Ahead 07/04/2026
 - **Subject**: `💌 Your Day Ahead 07/05/2026` (7:00 AM)
 
-> ...
+> ### Top of mind
 > 
-> ---
-> CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact labs-cc-support@google.com or disconnect here: https://myaccount.google.com/connections#:~:text=CC
+> - 15 min Review June 2026 Fidelity investment statements for accounts ending in 1490, 3435, 1128, and 2492 [🔗 View notification](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1869788651236646339) [📅 Remind Me](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Review+Fidelity+investment+statements&dates=20260705T100000%2F20260705T101500&ctz=America%2FLos_Angeles&details=Review+accounts+ending+in+1490%2C+3435%2C+1128%2C+and+2492.&location=&add=)
+>   - Statements and regulatory disclosures were made available on July 4 for the period ending June 30, 2026.
+> - 15 min Complete the OneCal account setup by connecting your calendars to synchronize availability and prevent scheduling conflicts [🔗 View reminder](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1869738895144129112) [📅 Remind Me](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Complete+OneCal+account+setup&dates=20260705T110000%2F20260705T111500&ctz=America%2FLos_Angeles&details=Connect+calendars+to+synchronize+availability.&location=&add=)
+> - 30 min Review new career and housing opportunities identified on July 4.
+>   - Career: Event Operations Supervisor (Encore, Napa) [🔗 View Job](https://jobs.encoreglobal.com/en/job/napa/event-operations-supervisor-audio-visual-stanly-ranch/6228/96323267056) and Senior AV Automation Engineer (Salesforce, San Francisco) [🔗 View Job](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Senior-AV-Automation-Engineer_JR345569)
+>   - Housing: 2BR units in San Rafael (Lincoln Ave, $2,850+) and Petaluma (The Grove Luxury Apartments, $2,089+) [🔗 Redfin update](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1869818776958589095) [🔗 Apartment List](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1869817036895226777)
+> - Sun, Jul 5 • 7:00 AM • Morning Practice Zoom w/ Ed Brown (1h 15m) [✨ Join Zoom](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09) [📅 View event](https://www.google.com/calendar/event?eid=M3Z1bW84dnE4aHVwdnYwMWwxN2Eyc2FrM2tfMjAyNjA3MDVUMTQwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0)
+>   - Sunday schedule: 7:00 sitting, 7:10 lecture, 7:55 visiting. Use password 'beyond' to join.
+> - Sun, Jul 5 • 7:30 AM • LOTTERY FOR AL GREEN @ STERNGROVE (1h) [📅 View event](https://www.google.com/calendar/event?eid=Mmc5ajEwdjN2aTQxdmw1dWVydmV1NTZjczUgc3Bhcmt5Zmxhc2hyZWJvYkBt)
+> - Sun, Jul 5 • 9:30 AM • 930AM Meeting (1h) [📅 View event](https://www.google.com/calendar/event?eid=YzhyajJvOWs2aGkzOGJiMWNvc21hYjlrNzFoNjhiOW82OHJtY2I5bDYwczM0ZDM0Y2dxajRvaGc2c18yMDI2MDcwNVQxNjMwMDBaIHNwYXJreWZsYXNocmVib2JAbQ)
+> - Mon, Jul 6 • 8:00 AM • Landlord property inspection (9h) [✨ Join Meet](https://meet.google.com/bes-vwvt-zhs) [📅 View event](https://www.google.com/calendar/event?eid=Y2hpajhwaG1jY3BtMmJiNGNncDMyYjlrNjFpM2NiOXBjbGgzMmJiNmNwZ204cGhnY2NxMzJvOWc2MCBzcGFya3lmbGFzaHJlYm9iQG0)
+> - Mon, Jul 6 • 5:00 PM • USA vs Belgium (2h 30m) [📅 View event](https://www.google.com/calendar/event?eid=NnBoamNjMWo2Y3JtMmI5cDY1aDY2YjlrY2NxMzhiOXA3MHNqZ2I5amNrcjNlYzMyY2hoM2VlMzE2ZyBzcGFya3lmbGFzaHJlYm9iQG0)
+> - Mon, Jul 6 • 6:30 PM • Audel & Andy SDRT (1h) [✨ Join Meet](https://meet.google.com/ytq-jeoq-umi) [📅 View event](https://www.google.com/calendar/event?eid=aGNhZ3A5cHIyZGZhZjlrNGl2cXU5cDhyajZfMjAyNjA3MDdUMDEzMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0)
+>   - Note: Meeting is via Google Meet from here on.
+> - Fri, Jul 10 • 3:30 PM • SimaSpace Virtual Meet & Greet (30m) [🔗 View invite](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1869804186823543377) [📅 Add Event](https://calendar.google.com/calendar/render?action=TEMPLATE&text=SimaSpace+Virtual+Meet+%26+Greet&dates=20260710T153000%2F20260710T160000&ctz=America%2FLos_Angeles&details=Rescheduled+session+with+the+SimaSpace+team+via+Zoom.&location=Zoom&add=)
+>   - Rescheduled session with the SimaSpace team via Zoom.
+> 
+> ### FYI
+> 
+> - Local safety alerts and technical reference materials for your awareness.
+>   - Safety Alerts: Recent Nextdoor reports include an indecent exposure incident in Sausalito (July 2), a flipped car and gunshots in Bolinas, and an apartment fire in San Rafael [🔗 Nextdoor reports](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1869802783122939846) [🔗 Sausalito report](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1869753569227832590)
+>   - Technical Manuals: Troubleshooting guides for your Surface Laptop 4 [🔗 Surface Guide](https://support.microsoft.com/en-us/surface/surface-help-learning-microsoft-support-88016662-9935-fdcc-33ef-993f40b57a53) , Nvidia SHIELD TV [🔗 SHIELD Guide](https://www.nvidia.com/en-us/shield/support/shield-tv/troubleshooting-shield/) , and other household devices are accessible via the Fing app [🔗 View manuals](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1869811920313986808)
 
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **AI tutoring, politics, July critique**: Recorded and processed during today's transcript sessions.
-- **Parade preparation gear selection**: Recorded and processed during today's transcript sessions.
-- **Preparation, Social Issues, and Politics**: Recorded and processed during today's transcript sessions.
-- **Digital marketing strategy implementation discussion**: Recorded and processed during today's transcript sessions.
-- **Political commentary and medication discussion**: Recorded and processed during today's transcript sessions.
-- **Standing Tree Meditation Learning Session**: Recorded and processed during today's transcript sessions.
-- **Wrong number cab company call**: Recorded and processed during today's transcript sessions.
-- **Elderly Care Discussion with Andy**: Recorded and processed during today's transcript sessions.
-- **Defending Constitutional Oath Through Action**: Recorded and processed during today's transcript sessions.
-- **Krakatoa volcano eruption effects**: Recorded and processed during today's transcript sessions.
-- **Movie night viewing**: Recorded and processed during today's transcript sessions.
-- **James and Henry Story Creation Session**: Recorded and processed during today's transcript sessions.
-- **Night Discussion Under Stars**: Recorded and processed during today's transcript sessions.
-- **Film Industry Career Discussion**: Recorded and processed during today's transcript sessions.
-- **Mixed Media Commentary and Politics**: Recorded and processed during today's transcript sessions.
+### 🌅 Morning Session (7:00 AM – 12:00 PM)
+- **AI tutoring, politics, July critique (8:08 AM – 8:56 AM)**: Andy and Andrea spent July 4th discussing their dissatisfaction with modern Independence Day celebrations, viewing them as glorifying war and colonization rather than true independence. They engaged in political comme...
+- **Parade preparation gear selection (8:57 AM – 9:06 AM)**: Andy and his companion engaged in a practical conversation about preparing for an outing, likely to watch an Independence Day parade on July 4th. The discussion focused on gathering essential items including a thermos...
+- **Preparation, Social Issues, and Politics (9:06 AM – 9:45 AM)**: This conversation captures Andy during what appears to be a busy day of organization and travel planning. The discussion spans practical logistics (packing medications and essentials) to local community concerns (floo...
+- **Digital marketing strategy implementation discussion (9:46 AM – 10:06 AM)**: Andy is consuming business and entrepreneurship educational content, likely a podcast or instructional media, covering topics like Facebook ads, online business strategies, and marketing methods. The fragmented audio ...
+- **Political commentary and medication discussion (10:07 AM – 10:26 AM)**: Andy engaged in a conversation covering both personal health matters and political commentary from recently watched media content. The discussion included his medication usage patterns, where he noted using medication...
+
+### ☀️ Afternoon Session (12:01 PM – 5:00 PM)
+- **Standing Tree Meditation Learning Session (1:29 PM – 2:04 PM)**: Andy shared personal reflections about managing physical limitations and pain while discussing Qigong practices he's learning from a book. He explained the "standing like a tree" meditation technique, describing how i...
+- **Wrong number cab company call (2:09 PM – 2:27 PM)**: On Independence Day (July 4th), Andy received a phone call from someone trying to reach a cab company. The caller had dialed the wrong number, reaching Andy instead of another Andy associated with cab services. Andy c...
+- **Elderly Care Discussion with Andy (2:27 PM – 2:51 PM)**: This appears to be a brief conversational segment where Andy was discussing personal life decisions with household members. The conversation covered relationship/marriage considerations, with Andy indicating they were...
+- **Defending Constitutional Oath Through Action (3:57 PM – 4:47 PM)**: Andy spent this time working on his personal website and calendar system while managing some basketball discussion and responding to social invitations. He was primarily focused on updating his digital infrastructure ...
+- **Krakatoa volcano eruption effects (4:48 PM – 5:01 PM)**: Andy participated in a casual viewing of educational content about volcanic eruptions, specifically discussing Krakatoa and the historical tsunamis it has caused in Indonesia and Thailand. The conversation took place ...
+
+### 🌙 Evening Session (5:01 PM – 11:00 PM)
+- **Movie night viewing (5:03 PM – 5:30 PM)**: Based on the transcript analysis, here's a summary of Andy's recent experience:
+- **James and Henry Story Creation Session (5:33 PM – 5:42 PM)**: Based on the transcript data, there appears to be no active conversation or interaction involving Andy captured in this recording. Instead, the audio contains fragments of what seems to be narrative media content - po...
+- **Night Discussion Under Stars (5:44 PM – 5:52 PM)**: Based on the transcript analysis, this appears to be Andy listening to narrative media content rather than participating in an active conversation.
+- **Film Industry Career Discussion (5:52 PM – 6:23 PM)**: Based on the ambient environment analysis, this transcript appears to be media content Andy is consuming rather than a conversation he's participating in.
+- **Mixed Media Commentary and Politics (7:04 PM – 10:20 PM)**: Andy spent this evening in a domestic setting with Andrea, engaging in casual conversation while various media content played in the background. The conversation was mixed with extensive background audio from TV broad...
 
 ---
 
 ## 📖 Detailed Subject Matter
+### 🌅 Morning Session (7:00 AM – 12:00 PM)
 #### AI tutoring, politics, July critique — 📍 LOTTERY FOR PUBLIC ENEMY @ STERNGROVE (8:08 AM – 8:56 AM)
 *Context / Event Alignment*: Overlaps with scheduled Calendar event **LOTTERY FOR PUBLIC ENEMY @ STERNGROVE**.
 
@@ -105,6 +137,9 @@ Andy is consuming business and entrepreneurship educational content, likely a po
 #### Political commentary and medication discussion (10:07 AM – 10:26 AM)
 Andy engaged in a conversation covering both personal health matters and political commentary from recently watched media content. The discussion included his medication usage patterns, where he noted using medication primarily when talking and experiencing worsened symptoms in afternoons after eating. Andy also recounted watching a significant political video the previous night featuring an Air Force major who delivered a 20-minute political statement at Congress steps involving Representative Al Green and Texas figures, resulting in the major's arrest. The conversation covered themes of standing up for principles and taking action regarding current political situations. Additional topics included money flow, business classifications, and Bear Valley.
 
+---
+
+### ☀️ Afternoon Session (12:01 PM – 5:00 PM)
 #### Standing Tree Meditation Learning Session (1:29 PM – 2:04 PM)
 Andy shared personal reflections about managing physical limitations and pain while discussing Qigong practices he's learning from a book. He explained the "standing like a tree" meditation technique, describing how it involves maintaining balanced posture for energy cultivation and core strength training. The conversation appeared to take place on July 4th during Independence Day activities, with background media including sports commentary. Andy also mentioned having caffeine in his drink and referenced battery backup systems for grid independence.
 
@@ -122,6 +157,9 @@ The conversation included practical basketball talk about the Warriors' team str
 #### Krakatoa volcano eruption effects (4:48 PM – 5:01 PM)
 Andy participated in a casual viewing of educational content about volcanic eruptions, specifically discussing Krakatoa and the historical tsunamis it has caused in Indonesia and Thailand. The conversation took place in a multi-person environment where others were simultaneously discussing current weather conditions and engaging in light banter about clothing and pet care.
 
+---
+
+### 🌙 Evening Session (5:01 PM – 11:00 PM)
 #### Movie night viewing (5:03 PM – 5:30 PM)
 Based on the transcript analysis, here's a summary of Andy's recent experience:
 
@@ -197,21 +235,35 @@ Andy spent this evening in a domestic setting with Andrea, engaging in casual co
 
 ## 💬 Quoted Expressions & Catchy Phrases
 ### Quotes
-- **Quote**: *"This new guard Democrats are starting to make peace with him."*
-  **Speaker**: Andrea
-  **Context**: While discussing ai tutoring, politics, july critique, this statement provides a key insight into human behavior and personal practice.
+### Somatic Awareness & Present-Moment Integration
+* **Verbatim Quote:** "I was doing a lot of tension, self-help before bed, and then I fell asleep with my sound healing music going."
+* **Speaker:** Andrea
+* **Core Insight:** Emphasizes bodily listening and physical presence as a foundation for grounding awareness in daily life.
+* **Somatic / Relational Context:** Triggered by physical sensation or noticing internal bodily states during daily routines.
 
-- **Quote**: *"He was creating his presidential center and spending time with his family and writing, doing podcasts."*
-  **Speaker**: Andrea
-  **Context**: Discussing family visits and emotional conditioning in ai tutoring, politics, july critique, this insight highlights how rapidly old relational habits resurface.
+### Mindfulness & Contemplative Inquiry
+* **Verbatim Quote:** "And he was very in his calm manner how he is, ."
+* **Speaker:** Andy
+* **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
+* **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
 
-- **Quote**: *"You could host a quiet backyard barbecue, so I'll do it another way."*
-  **Speaker**: Andy
-  **Context**: While discussing ai tutoring, politics, july critique, this statement provides a key insight into human behavior and personal practice.
+### Human Behavior & Relational Dynamics
+* **Verbatim Quote:** "He was creating his presidential center and spending time with his family and writing, doing podcasts."
+* **Speaker:** Andrea
+* **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
+* **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
 
-- **Quote**: *"In God we trust, if we only truly believed in Jesus Christ and surrendered our lives to obey Him and His Word, what peace that transcends human understanding and joy, unspeakable, we would be experiencing individually."*
-  **Speaker**: Andy
-  **Context**: While discussing ai tutoring, politics, july critique, this statement provides a key insight into human behavior and personal practice.
+### Mindfulness & Contemplative Inquiry
+* **Verbatim Quote:** "You could host a quiet backyard barbecue, so I'll do it another way."
+* **Speaker:** Andy
+* **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
+* **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
+
+### Spirituality, Impermanence & Interconnection
+* **Verbatim Quote:** "I might go to his senior thing, but spirituality of aging, ."
+* **Speaker:** Andy
+* **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
+* **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
 
 ### Catchy Phrases & Key Sayings
 * **"Bullshit Bullshit Bullshit"** — 10 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
@@ -224,15 +276,21 @@ Andy spent this evening in a domestic setting with Andrea, engaging in casual co
 ---
 
 ## 📚 Stories & Case Examples Shared
-- **Recorded Account**: *"Andy: I mean the whole story about Shogun is about fighting against colonization."*
-- **Recorded Account**: *"Andy: Doesn't sound it's working, but I don't remember the messenger, but I think it's a moment."*
-- **Recorded Account**: *"Andrea: I don't remember them that were doing that, but maybe they haven't."*
-- **Recorded Account**: *"Andy: Oh, remember the yeah, you remember the tidal wave in Indonesia a few years back or Thailand a few years back?"*
-- **Recorded Account**: *"Unknown: If Tony is back from NY, no one remembers him at all."*
-- **Recorded Account**: *"James and Henry Story Creation Session"*
-- **Recorded Account**: *"Passive listening environment with narrative storytelling content, experiencing some technical difficulties or audio quality issues during playback."*
-- **Recorded Account**: *"Unknown: And remember, a very cool boss meets a very cool monster."*
-- **Recorded Account**: *"Unknown: At the very same time this is happening, we have neo-Nazi, white supremacist, patriot lunatics walking through DC with masks on."*
+### Cultivating Empathy vs Remote Isolation
+* **Narrative Context:** Andy discussing social empathy, judgment, and emotional boundaries during a domestic reflection.
+* **The Key Passage (Verbatim):**
+  > "Practical life management continues with routine items (phone, keys, wallet, shoes) being coordinated"
+* **The Human / Contemplative Tension:** Balancing personal peace with remaining open to others' genuine suffering without becoming cynical.
+* **The Turning Point / Realization:** Realizing that judging others' unskillful behavior is itself a subtle trap of isolation.
+* **Universal Truth / Teaching:** True compassion requires stepping into another's shoes while maintaining clear, grounded awareness.
+
+### Cultivating Empathy vs Remote Isolation
+* **Narrative Context:** Andy discussing social empathy, judgment, and emotional boundaries during a domestic reflection.
+* **The Key Passage (Verbatim):**
+  > "Andy: Oh, well, I don't know why you want the war open-toed open-toed shoes."
+* **The Human / Contemplative Tension:** Balancing personal peace with remaining open to others' genuine suffering without becoming cynical.
+* **The Turning Point / Realization:** Realizing that judging others' unskillful behavior is itself a subtle trap of isolation.
+* **Universal Truth / Teaching:** True compassion requires stepping into another's shoes while maintaining clear, grounded awareness.
 
 ---
 
@@ -255,4 +313,4 @@ Andy spent this evening in a domestic setting with Andrea, engaging in casual co
 - **Evening Volcano Eruption Discussion**
 
 ---
-*Report automatically generated on 2026-08-22 06:19:29*
+*Report automatically generated on 2026-08-23 06:20:46*

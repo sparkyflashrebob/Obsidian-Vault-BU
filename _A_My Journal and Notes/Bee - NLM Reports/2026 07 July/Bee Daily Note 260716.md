@@ -43,34 +43,79 @@ tags:
 ---
 
 ## 📧 Gmail Activity Log
+### 💰 Financial Account Balances & Bank Alerts
+- **Bank of America** (Acc: `TwoAndiesPreferred`): **$0.00, $0.00** — `Your credit card statement is available` (07/16/2026 8:17 AM)
+- **Fidelity Investments**: `Your trade confirmation is available` (07/16/2026 3:04 AM)
+
+### ✉️ Outgoing Sent Emails & Correspondence
 - **To**: `Will Meecham <willspirit@icloud.com>` | **Subject**: Re: Club (10:07 PM)
   *Summary*: "Will, That is fine. No need to apologize or worry about this until they meet. 🙂 Thank you for turning me on to this. On Wed, Jul 15, 2026 at 5:25 PM Will Meecham &lt;willspirit@icl..."
 
 ---
 
-## 🌅 Your Day Ahead Email Brief
+## 🌅 Your Day Ahead 07/16/2026
 - **Subject**: `💌 Your Day Ahead 07/16/2026` (7:00 AM)
 
-> ...
+> ### Top of mind
 > 
-> ---
-> CC is an experimental AI productivity agent and can make mistakes, so double-check it. For support/feedback, contact labs-cc-support@google.com or disconnect here: https://myaccount.google.com/connections#:~:text=CC
+> - 1 hr Consider attending the Fidelity webinar 'Starting small (investing basics)' today, Thursday, Jul 16, from 9:00 AM to 10:00 AM PDT [🔗 Register here](https://www.fidelity.com/webinars) [📅 Add Event](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fidelity+Webinar%3A+Starting+Small&dates=20260716T090000%2F20260716T100000&ctz=America%2FLos_Angeles&details=Investing+basics+webinar.+Register+at+https%3A%2F%2Fwww.fidelity.com%2Fwebinars&location=Online&add=)
+>   - This session is part of the mid-July educational series [🔗 View series](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1869978508637051485)
+> - 15 min Review your new Kaiser Medicare Part C Explanation of Benefits (EOB) statement, available in the portal as of 2026-07-15 [🔗 View portal](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870769910335603601) [📅 Add Reminder](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Review+Kaiser+EOB&dates=20260716T100000%2F20260716T101500&ctz=America%2FLos_Angeles&details=Review+statement+for+Ronald+McGuire+account+ending+in+0372.&location=&add=)
+>   - The statement is for Ronald McGuire's account ending in 0372.
+> - 30 min Continue securing the 6 founding members required for the 'Living Mindfully' ESCOM club application at the College of Marin [🔗 View application details](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870812586257874023) [✉️ Email](mailto:?subject=Follow-up%3A%20Living%20Mindfully%20ESCOM%20Club%20Founding%20Members&body=Hi%20everyone%2C%0A%0AI%27m%20following%20up%20on%20my%20previous%20email%20regarding%20the%20%27Living%20Mindfully%27%20ESCOM%20club%20application%20at%20the%20College%20of%20Marin.%20We%20are%20still%20looking%20for%20a%20few%20more%20founding%20members%20to%20get%20the%20club%20officially%20started.%0A%0AAs%20a%20reminder%2C%20founding%20members%20just%20need%20to%20provide%20their%20address%20and%20email%E2%80%94there%20are%20no%20active%20commitment%20requirements.%0A%0AIf%20you%27re%20interested%20in%20supporting%20this%2C%20please%20let%20me%20know%21%0A%0ABest%2C%0AAndy)
+>   - You reached out to 16 contacts on 2026-07-15. Andrea Axtell and Will Meecham have already confirmed their support.
+>   - Founding members must provide their address and email but have no active commitment requirements.
+> - Today • 7:00 AM • Morning Practice Zoom w/ Ed Brown (1h 15m) [✨ Join Zoom](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09)
+>   - Schedule: Free writing (7:00), brief talk (7:15), sitting (7:30), and visiting (7:55).
+>   - Thursday special: Includes a guided 'chakra' meditation. Password: beyond.
+> - Today • 12:00 PM • Sit for Peace (1h) at San Francisco City Hall, 1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102 [📅 View event](https://www.google.com/calendar/event?eid=MXEyNjZ0cnE3YWI2MGVwcHZsbmVjMDd2aWxfMjAyNjA3MTZUMTkwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0) [🔗 Map](https://www.google.com/maps/search/?api=1&query=San+Francisco+City+Hall%2C+1+Dr+Carlton+B+Goodlett+Pl%2C+San+Francisco%2C+CA+94102%2C+USA)
+> - Today • 5:00 PM • Living Mindfully Meditation and Council Meeting (1h 30m) [✨ Join Meet](https://meet.google.com/dhf-mnbc-qkn)
+>   - Topic: 'The Architecture of Self-Honesty.' Includes a 20-minute somatic meditation followed by inquiry and group discussion [📅 View agenda](https://www.google.com/calendar/event?eid=Njd2ZmtjcW9wNjFqOWhwM2tzdGI2OGthY3JfMjAyNjA3MTdUMDAwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0)
+> - Fri, Jul 17 • Quit Smoking Anniversary [📅 View event](https://www.google.com/calendar/event?eid=NTB0czVnYml2M2xwcXVzM3FocXBtbXQ5Y2NfMjAyNjA3MTcgc3Bhcmt5Zmxhc2hyZWJvYkBt)
+>   - Celebrating the anniversary of quitting in 2007.
+> - Fri, Jul 17 • 2:20 PM • The Odyssey in Premium Large Format (1h) at CinemaWest Fairfax Theatre & Giant Screen, 9 Broadway, Fairfax, CA 94930 [📅 View event](https://www.google.com/calendar/event?eid=YWJzMWttNDNydmZvcThtMzVsY2szcmczNTAgc3Bhcmt5Zmxhc2hyZWJvYkBt) [🔗 Map](https://www.google.com/maps/search/?api=1&query=CinemaWest+Fairfax+Theatre+%26+Giant+Screen%2C+9+Broadway%2C+Fairfax%2C+CA%2C+94930)
+>   - Payment of $33.50 for one General and one Senior ticket was authorized via PayPal on 2026-07-15 [🔗 View receipt](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870812144046372386)
+> - Until Mon, Jul 20 • World Cup [📅 View event](https://www.google.com/calendar/event?eid=NXZldnVrOTBic21oNjlvaGNnMzdoZWkyMHQgc3Bhcmt5Zmxhc2hyZWJvYkBt)
+> 
+> ### FYI
+> 
+> - Several actions are planned for the John Lewis 'Good Trouble' Weekend (Jul 17–19) [🔗 View details](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870810931550230629)
+>   - Sat, Jul 18: Consider the Pt Reyes Good Trouble Protest from 11:30 AM to 1:00 PM at Point Reyes Station [📅 Add Event](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Pt+Reyes+Good+Trouble+Protest&dates=20260718T113000%2F20260718T130000&ctz=America%2FLos_Angeles&details=Good+Trouble+Protest+action.&location=Point+Reyes+Station&add=) . Note: The San Rafael rally previously scheduled for 10:00 AM was cancelled [🔗 Cancellation notice](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870811295178129802)
+>   - Sun, Jul 19: Consider the San Rafael Farmers Market Action from 10:00 AM to 11:30 AM at N San Pedro Dr and Civic Center Dr [🔗 Map](https://www.google.com/maps/search/?api=1&query=North+San+Pedro+Drive+and+Civic+Center+Drive%2C+San+Rafael%2C+CA) . You have already RSVP'd for the 'SAN RAFAEL Good Trouble Lives On' action later that day [🔗 View RSVP](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870806587302005844) [📅 View Event](https://www.google.com/calendar/event?eid=MjhmMzZsNG9sbGxkNTIzdmZ1ZDExbHVub2kgc3Bhcmt5Zmxhc2hyZWJvYkBt)
+> - Upcoming administrative deadlines and community updates.
+>   - T-Mobile: Your bill of $71.92 is due on Sun, Jul 19. AutoPay is scheduled for your Visa ending in 6681 [🔗 View bill](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1869623372726038681) [📅 Add Reminder](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Pay+T-Mobile+Bill&dates=20260719T090000%2F20260719T091500&ctz=America%2FLos_Angeles&details=Bill+of+%2471.92+due.+AutoPay+scheduled+for+Visa+ending+in+6681.&location=&add=)
+>   - Krisp: Your meeting data export from 2026-07-15 is available for download until Wed, Jul 22 [🔗 Download zip](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870801397541808319) [📅 Add Reminder](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Download+Krisp+Meeting+Data&dates=20260722T090000%2F20260722T091500&ctz=America%2FLos_Angeles&details=Meeting+data+export+available+for+download.&location=&add=)
+>   - ESCOM Club: The next Council meeting for club approval is scheduled for Wed, Aug 19 [🔗 View email](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870812586257874023) [📅 Add Event](https://calendar.google.com/calendar/render?action=TEMPLATE&text=ESCOM+Club+Council+Meeting&dates=20260819T100000%2F20260819T113000&ctz=America%2FLos_Angeles&details=Meeting+for+club+approval.&location=College+of+Marin&add=)
+>   - Dragonfly Lodge: Andrea Axtell's professional website, dragonflylodgehealingarts.com, officially launched on 2026-07-15 [🔗 View announcement](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870793313446589179)
+>   - Fundraisers: Verified fundraisers are active for the families of Johan Sebastián Durán Guerrero and Lorenzo Salgado Araujo following recent ICE enforcement encounters [🔗 View details](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1870805693735941299) [🔗 Learn More](https://www.newsweek.com/joan-sebastian-guerrero-fundraiser-for-colombian-killed-by-ice-nears-300k-12197170)
 
 ---
 
 ## 💡 Key Points, Subjects and Themes
-- **Teaching Material Compilation Process**: Recorded and processed during today's transcript sessions.
-- **Trauma-informed health teaching for society**: Recorded and processed during today's transcript sessions.
-- **Returning to meditation teaching**: Recorded and processed during today's transcript sessions.
-- **Online meditation session setup**: Recorded and processed during today's transcript sessions.
-- **Meditation Group Self-Honesty Teaching Session**: Recorded and processed during today's transcript sessions.
-- **Buddhist teaching preparation and business planning**: Recorded and processed during today's transcript sessions.
-- **Andy's speculation about Silo secrets**: Recorded and processed during today's transcript sessions.
-- **Web page update and spam**: Recorded and processed during today's transcript sessions.
+### 🌅 Morning Session (7:00 AM – 12:00 PM)
+- *No specific audio recorded during morning hours.*
+
+### ☀️ Afternoon Session (12:01 PM – 5:00 PM)
+- **Teaching Material Compilation Process (12:55 PM – 1:03 PM)**: Andy spent the day engaged in multiple creative and educational activities, including rewriting scripts for evening discussions, practicing Qigong, consolidating a creative manual, and exporting recovery center teachi...
+- **Trauma-informed health teaching for society (1:54 PM – 2:14 PM)**: Andy is actively consolidating and refining his extensive collection of recovery and health teaching materials. He spent time organizing information from his years of "pack rot" work and early recovery content, which ...
+- **Returning to meditation teaching (3:30 PM – 3:52 PM)**: Andy had a friendly conversation with Nick updating him on his recent re-engagement with meditation teaching and retreat activities. Andy discussed restarting his meditation group (currently Thursdays at 5 PM, conside...
+- **Online meditation session setup (4:59 PM – 5:14 PM)**: Andy was facilitating a virtual meditation and council meeting, managing technical setup and logistics while discussing content preparation and scheduling adjustments with another participant. He worked through platfo...
+
+### 🌙 Evening Session (5:01 PM – 11:00 PM)
+- **Meditation Group Self-Honesty Teaching Session (5:18 PM – 6:17 PM)**: Andy led the inaugural meeting of his "Living Mindfully Meditation Group" via video conference, delivering a comprehensive teaching on "the architecture of self-honesty" that spanned Buddhist philosophy, psychological...
+- **Buddhist teaching preparation and business planning (6:26 PM – 7:52 PM)**: This conversation captures Andy engaging in multiple activities with Andrea and others, including philosophical presentation preparation, troubleshooting AI image generation issues, discussing business planning for Ji...
+- **Andy's speculation about Silo secrets (7:55 PM – 9:14 PM)**: Andy spent time watching the TV series "Silo" and engaged in active commentary throughout the viewing. He sought information about the show's future seasons, learning there are four planned. During breaks, he reflecte...
+- **Web page update and spam (9:15 PM – 9:29 PM)**: Andy spent time troubleshooting technical issues across multiple platforms - updating a webpage while dealing with an older computer that struggled with updates, resolving spam text message problems by implementing bl...
 
 ---
 
 ## 📖 Detailed Subject Matter
+### 🌅 Morning Session (7:00 AM – 12:00 PM)
+- *No specific audio recorded during morning hours.*
+
+---
+
+### ☀️ Afternoon Session (12:01 PM – 5:00 PM)
 #### Teaching Material Compilation Process (12:55 PM – 1:03 PM)
 Andy spent the day engaged in multiple creative and educational activities, including rewriting scripts for evening discussions, practicing Qigong, consolidating a creative manual, and exporting recovery center teachings into his Obsidian knowledge management system. He reflected on how AI writing assistance has transformed his approach to content creation, describing himself as feeling "more like a collator than an author." The conversation explored different teaching methodologies, comparing spontaneous teaching approaches to structured group study methods that benefit from writing support.
 
@@ -131,6 +176,9 @@ The conversation had a warm, collegial tone with Andy showing genuine excitement
 #### Online meditation session setup (4:59 PM – 5:14 PM)
 Andy was facilitating a virtual meditation and council meeting, managing technical setup and logistics while discussing content preparation and scheduling adjustments with another participant. He worked through platform features including participant management, screen sharing, and chat functionality while preparing to deliver meditation content he had spent considerable time developing.
 
+---
+
+### 🌙 Evening Session (5:01 PM – 11:00 PM)
 #### Meditation Group Self-Honesty Teaching Session (5:18 PM – 6:17 PM)
 # Living Mindfully Meditation Group Session Summary
 
@@ -218,25 +266,35 @@ Andy spent time troubleshooting technical issues across multiple platforms - upd
 
 ## 💬 Quoted Expressions & Catchy Phrases
 ### Quotes
-- **Quote**: *"I am looking to talk about this in the context of society at large and for people not necessarily to be in recovery centers."*
-  **Speaker**: Andy
-  **Context**: While discussing trauma-informed health teaching for society, this statement provides a key insight into human behavior and personal practice.
+### Spirituality, Impermanence & Interconnection
+* **Verbatim Quote:** "It doesn't seem there are a lot of sources, or at least in terms of the graphics that are presented here, that talks about dealing with trauma, and that should be a focus, really, for us to have compassion and use resources, practices relating the trauma with recovery."
+* **Speaker:** Andy
+* **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
+* **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
 
-- **Quote**: *"I'm not necessarily looking to teach this in terms of recovery, but in society at large."*
-  **Speaker**: Andy
-  **Context**: While discussing trauma-informed health teaching for society, this statement provides a key insight into human behavior and personal practice.
+### Human Behavior & Relational Dynamics
+* **Verbatim Quote:** "I am looking to talk about this in the context of society at large and for people not necessarily to be in recovery centers."
+* **Speaker:** Andy
+* **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
+* **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
 
-- **Quote**: *"So, talking to a person who is hurt, damaged, that may not know that and suffering the effects of it."*
-  **Speaker**: Andy
-  **Context**: While discussing trauma-informed health teaching for society, this statement provides a key insight into human behavior and personal practice.
+### Human Behavior & Relational Dynamics
+* **Verbatim Quote:** "I'm not necessarily looking to teach this in terms of recovery, but in society at large."
+* **Speaker:** Andy
+* **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
+* **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
 
-- **Quote**: *"Yeah, and I may not, and I'm not going to necessarily, everything I'm going to teach is going to be mindfulness, and you're going to know it's going to be Terravada."*
-  **Speaker**: Andy
-  **Context**: In the context of returning to meditation teaching, this statement clarifies how grounded mindfulness operates in everyday experience.
+### Spirituality, Impermanence & Interconnection
+* **Verbatim Quote:** "I got signatures, so I'm good, so you don't have to worry about that."
+* **Speaker:** Andy
+* **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
+* **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
 
-- **Quote**: *"But I don't know if you're what I'm going to do is right now I've got kind of a I'm I'm embedding those teachings into the general teachings, that's why I'm calling it living mindfully."*
-  **Speaker**: Andy
-  **Context**: In the context of returning to meditation teaching, this statement clarifies how grounded mindfulness operates in everyday experience.
+### Mindfulness & Contemplative Inquiry
+* **Verbatim Quote:** "And he has a meditation group."
+* **Speaker:** Andy
+* **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
+* **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
 
 ### Catchy Phrases & Key Sayings
 * **"It'S Going To Be"** — 5 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
@@ -249,11 +307,29 @@ Andy spent time troubleshooting technical issues across multiple platforms - upd
 ---
 
 ## 📚 Stories & Case Examples Shared
-- **Recorded Account**: *"Andy: So tonight, as we look at the architecture of our own honesty, remembering that our speech is not merely information, it's the manifestation of our state of mind."*
-- **Recorded Account**: *"Andy: If you need to, you can lie down, as long as you remember that our intention here is to be wakeful and not to sleep."*
-- **Recorded Account**: *"Andy: Just walk through, be very, I mean, we're respectful."*
-- **Recorded Account**: *"He engages deeply with TV narratives, analyzing character psychology and story structure"*
-- **Recorded Account**: *"Unknown: Yeah, I do remember something I'm doing today."*
+### Cultivating Empathy vs Remote Isolation
+* **Narrative Context:** Andy discussing social empathy, judgment, and emotional boundaries during a domestic reflection.
+* **The Key Passage (Verbatim):**
+  > "Andy: It doesn't seem there are a lot of sources, or at least in terms of the graphics that are presented here, that talks about dealing with trauma, and that should be a focus, really, for us to have compassion and use resources, practices relating the trauma with recovery."
+* **The Human / Contemplative Tension:** Balancing personal peace with remaining open to others' genuine suffering without becoming cynical.
+* **The Turning Point / Realization:** Realizing that judging others' unskillful behavior is itself a subtle trap of isolation.
+* **Universal Truth / Teaching:** True compassion requires stepping into another's shoes while maintaining clear, grounded awareness.
+
+### Cultivating Empathy vs Remote Isolation
+* **Narrative Context:** Andy discussing social empathy, judgment, and emotional boundaries during a domestic reflection.
+* **The Key Passage (Verbatim):**
+  > "Andy: So, overall, in Western culture, in particular, we grapple with the complex relationships between honesty and other values, such as loyalty, compassion, and pursuit of individual and collective goals, right?"
+* **The Human / Contemplative Tension:** Balancing personal peace with remaining open to others' genuine suffering without becoming cynical.
+* **The Turning Point / Realization:** Realizing that judging others' unskillful behavior is itself a subtle trap of isolation.
+* **Universal Truth / Teaching:** True compassion requires stepping into another's shoes while maintaining clear, grounded awareness.
+
+### Cultivating Empathy vs Remote Isolation
+* **Narrative Context:** Andy discussing social empathy, judgment, and emotional boundaries during a domestic reflection.
+* **The Key Passage (Verbatim):**
+  > "Andy: Without honesty, to face your own mental states jealousy, anger, or greed, without pretense, you cannot practice mindfulness or develop compassion."
+* **The Human / Contemplative Tension:** Balancing personal peace with remaining open to others' genuine suffering without becoming cynical.
+* **The Turning Point / Realization:** Realizing that judging others' unskillful behavior is itself a subtle trap of isolation.
+* **Universal Truth / Teaching:** True compassion requires stepping into another's shoes while maintaining clear, grounded awareness.
 
 ---
 
@@ -276,4 +352,4 @@ Andy spent time troubleshooting technical issues across multiple platforms - upd
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-22 06:20:41*
+*Report automatically generated on 2026-08-23 06:22:27*
