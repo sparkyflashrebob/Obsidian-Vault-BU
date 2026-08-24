@@ -36,6 +36,12 @@ tags:
 
 ---
 
+## 👥 Group Gatherings & Multi-Participant Key Points
+{{GROUP_GATHERINGS}}
+
+
+---
+
 ## 📖 Detailed Subject Matter
 {{DETAILED_SUBJECT_MATTER}}
 

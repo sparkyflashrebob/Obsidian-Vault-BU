@@ -73,6 +73,32 @@ tags:
 
 ---
 
+## 👥 Group Gatherings & Multi-Participant Key Points
+#### First day office parking discussion (6:01 PM – 6:09 PM)
+* **Meeting Synopsis**: Andy spent time with his wife Andrea (whom he affectionately calls "sweetie" and "my new wife") discussing her first day at a new office while simultaneously troubleshooting a voice transcription app. The conversation was interspersed with background media—likely a podcast or video featuring someone discussing their interests in music, politics, spirituality, science, and quantum physics, plus geology videos Andy was watching (including a "Kill Away a Volcano" livestream). Andrea parked in a two-hour zone on 3rd Street near a dollar store and was relieved not to get a ticket, though Andy was surprised she took the risk. She found the office easily but got caught at red lights on 4th Street and considered taking the train instead. Andy suggested parking near Marin Services for Men on Mission Street for easier access. Throughout, Andy was frustrated trying to figure out how to properly identify and label voices in the app, noting it kept showing "Unknown" for Andrea and reading auto-generated titles like "Unknown recounts first day in new office."
+* **Key Points by Participant**:
+  * **Andy**: Shared on "Okay, what are my hobbies?"
+  * **Andrea** (Wife): Shared on "It was my first day in the new office, and I found it easily, and I got in easily, and I parked easily, but I was a bit nervous that I might get a ticket, but I didn't."
+
+#### Testing Voice Transcription App (6:09 PM – 6:28 PM)
+* **Meeting Synopsis**: Andy was testing and configuring a new voice transcription app, comparing it to his existing workflow while running errands and chatting with Andrea at home. He successfully tagged Andrea's voice in the app after some initial confusion with speaker labels, and was pleased to find the app is free with no subscription. He picked up a package containing three bottles of medication and discussed Andrea's freelance work. He also expressed frustration about having to fill out a form again for his birthday, noting he's 66 years late in getting it. Some background media content (possibly a podcast about voice technology featuring someone named Nas) was playing while he worked with the app.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "It says me so I'm going to say process."
+  * **Andrea** (Wife): Shared on "My boot's name is Gumbo Jackson."
+
+#### Spiritual guidance on suffering (6:29 PM – 7:04 PM)
+* **Meeting Synopsis**: Andy had a video call with Adele, offering spiritual guidance and support while also troubleshooting technical issues. The conversation spanned from practical matters like video platform licensing changes (Teams/Zoom/Google Meet) to deep Buddhist philosophical discussion. Andy shared his recent experience attending an IONS seminar on consciousness and intention, where he had to speak very close to the microphone so a participant could hear him. He spent much of the conversation validating Adele's struggles with school and life changes, framing her suffering through Buddhist concepts like the three types of dukkha (pain, formations/conditioned experience, and change), dependent origination, papancha (mental proliferation), clinging, becoming, and sakkaya-ditthi (self-identity view). He recommended the documentary *What the Bleep Do We Know?* while noting his skepticism about the Ramtha channeling claims of JZ Knight. Andy mentioned he was wearing a thirtieth anniversary T-shirt he received as a gift, and that he hadn't yet meditated that day—planning to do so for 20-30 minutes after the call, having found that duration works well for him.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "Yeah, I've got another pole stand thing in the way over here, so it just won't move over this way."
+
+#### Discussing perception and consciousness (7:20 PM – 7:47 PM)
+* **Meeting Synopsis**: Andy had a conversation with a Dharma brother, sharing recent learnings and spiritual reflections before their upcoming trip to Joshua Tree. He discussed how expectations shape perception, connecting a Big Think video his friend shared to the film *What the Bleep*, karma, and AA's concept of "stinking thinking." He recounted attending Abayagiri monastery's 30th anniversary celebration, where he reflected on karma as "experiencing what you cultivate." Andy also summarized Candace Pert's book *The Field*, highlighting her discovery of opiate receptors and her later work at NIH on peptides and receptors, which he found spiritually significant. He planned to share a Joe Dispenza quote from the film. They confirmed their Joshua Tree departure for tomorrow morning and discussed calendar coordination for the following week.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "No, but that's related to this what the bleep thing I was talking about earlier."
+
+
+---
+
 ## 📖 Detailed Subject Matter
 ### 🌅 Morning Session (7:00 AM – 12:00 PM)
 #### Defining personal spiritual framework — 📍 Prep for Trip (9:19 AM – 9:27 AM)
@@ -207,4 +233,4 @@ Andy had a conversation with a Dharma brother, sharing recent learnings and spir
 - **Evening Volcano Eruption Discussion**
 
 ---
-*Report automatically generated on 2026-08-23 06:16:28*
+*Report automatically generated on 2026-08-24 06:17:11*

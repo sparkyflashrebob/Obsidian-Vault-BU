@@ -40,7 +40,8 @@ tags:
 
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
-- **Fidelity Investments**: `Fidelity Alerts: We couldn't complete your eBill enrollment for Pacific Gas & Electric (PG&E)` (08/22/2026 12:01 PM)
+- **Fidelity Investments** (Acc: `Summary`): **$255668.69, $25958.89** — `Fidelity Alerts: Account Summary` (08/24/2026 3:51 AM)
+- **Bank of America** (Acc: `SparkyBank`): **$7969.30** — `Your Available Balance` (08/23/2026 7:37 AM)
 
 ### ✉️ Outgoing Sent Emails & Correspondence
 - **To**: `Amazon Kindle <sparkyflashrebob@kindle.com>` | **Subject**: Buddhadhamma (1:41 PM)
@@ -65,10 +66,34 @@ tags:
 - **Body awareness meditation practice (2:06 PM – 2:16 PM)**: Andy was listening to a recorded dharma talk or meditation podcast focused on body-awareness practices for processing difficult emotions. The teaching emphasized moving beyond intellectual analysis of fear, anxiety, a...
 - **Heating and plant mold discussion (3:14 PM – 3:28 PM)**: Andy was at home with a partner or household member, apologizing for the temperature and explaining he'd been trying to heat the place up before their arrival. He was also troubleshooting why something was spoiling qu...
 - **Kindle issues and dinner planning (3:29 PM – 3:44 PM)**: Andy spent much of his day dealing with frustrating administrative tasks, including issues with "Viagiris" and "Posta Day" documentation that sent him on a "wild goose chase." He also encountered technical problems wi...
-- **Knicks Championship and Soccer (4:40 PM – 8:53 PM)**: Andy and Andrea spent an evening watching sports broadcasts together at home, primarily the NBA Finals (Knicks vs. Spurs) and FIFA World Cup 2026 matches (Morocco vs. Brazil, Scotland vs. Haiti). Andy was more engaged...
 
 ### 🌙 Evening Session (5:01 PM – 11:00 PM)
+- **Knicks Championship and Soccer (4:40 PM – 8:53 PM)**: Andy and Andrea spent an evening watching sports broadcasts together at home, primarily the NBA Finals (Knicks vs. Spurs) and FIFA World Cup 2026 matches (Morocco vs. Brazil, Scotland vs. Haiti). Andy was more engaged...
 - **Flooded Parking Lot Car Rescue (11:38 PM – 11:46 PM)**: Andy was watching television in the background while someone else discussed parking logistics and timing. He then used a voice command to turn off the TV ("Google, turn off the TV"), after which he joined an in-person...
+
+---
+
+## 👥 Group Gatherings & Multi-Participant Key Points
+#### Qigong breathing foundations lesson (7:58 AM – 8:19 AM)
+* **Meeting Synopsis**: Andy was watching a qigong instruction video on TV, likely as part of his ongoing interest in body-based practices and mindful movement. The video covered foundational standing posture (wuji/standing ball), hand positions for balancing yin/yang energy with differences for male and female practitioners, breathing exercises connecting to the lower dantian, and a "two-stage looking breath" technique for expanding awareness through belly, ribs, and chest. Andy turned off the TV at the end using a Google voice command. No actual conversation or interaction occurred.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "Hey, Google, turn off the TV."
+
+#### Testing Gemini Live journaling workflow (9:14 AM – 9:34 AM)
+* **Meeting Synopsis**: Andy was outdoors observing wildlife during what appears to be a walk or nature excursion, noting a white heron, geese, crows, and numerous swallows. He also noticed some litter or unusual containers on the walkway. The recording spans at least two days of activity, suggesting he's been using his ambient capture setup for extended journaling sessions. He spent significant time contemplating and troubleshooting his AI-assisted journaling workflow—specifically whether Gemini Live is suitable for this purpose and how to effectively use it. He's also questioning whether CRISP (his transcription/recording system) can combine multiple session segments into unified reports, as he's finding himself frequently starting and stopping recordings during what are essentially continuous discussions.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "There's a heron, a white heron."
+
+#### Window Shopping Disappointment (11:34 AM – 12:03 PM)
+* **Meeting Synopsis**: Andy was in an environment with significant background media playing — advertisements (Hyper's "Torch Flask," Simple Soup pool treatment) and a political commentary video by "Bick Myers" comparing Democratic and Republican party positions using Mary Howitt's "The Spider and the Fly" as a framing device. The actual conversation was brief and fragmented, involving Andy and at least one other person engaged in searching for something together. Andy expressed dislike for window shopping ("Boy, I don't like the window shop"), while the other person noted it "feeds my craving." The interaction was characterized by overlapping, spatially-confused dialogue with repeated questions about location ("Where is it?").
+* **Key Points by Participant**:
+  * **Andy**: Shared on "Boy, I don't the window shop."
+
+#### Kindle issues and dinner planning (3:29 PM – 3:44 PM)
+* **Meeting Synopsis**: Andy spent much of his day dealing with frustrating administrative tasks, including issues with "Viagiris" and "Posta Day" documentation that sent him on a "wild goose chase." He also encountered technical problems with Amazon's Kindle search function. He spent some time reviewing Buddhist materials though found himself somewhat confused by the content. Later, he discussed meal planning with Andrea, mentioning a large bag of barley he'd purchased and suggesting they cook chicken with barley and vegetables. A news broadcast about protests in Albania against a Trump family development project was playing in the background.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "I basically spent the whole day dealing with the Viagiris, the Posta Day, and then actually going on a wild goose chase for some documentation that they were talking about."
+
 
 ---
 
@@ -109,12 +134,12 @@ Andy was at home with a partner or household member, apologizing for the tempera
 #### Kindle issues and dinner planning (3:29 PM – 3:44 PM)
 Andy spent much of his day dealing with frustrating administrative tasks, including issues with "Viagiris" and "Posta Day" documentation that sent him on a "wild goose chase." He also encountered technical problems with Amazon's Kindle search function. He spent some time reviewing Buddhist materials though found himself somewhat confused by the content. Later, he discussed meal planning with Andrea, mentioning a large bag of barley he'd purchased and suggesting they cook chicken with barley and vegetables. A news broadcast about protests in Albania against a Trump family development project was playing in the background.
 
-#### Knicks Championship and Soccer (4:40 PM – 8:53 PM)
-Andy and Andrea spent an evening watching sports broadcasts together at home, primarily the NBA Finals (Knicks vs. Spurs) and FIFA World Cup 2026 matches (Morocco vs. Brazil, Scotland vs. Haiti). Andy was more engaged with the basketball content, sharing historical knowledge about the 1970s Knicks championship team (Willis Reed, Walt Frazier, Dave DeBusschere, Bill Bradley) and noting Warriors coach Mike Brown's appearance. Andrea was less invested, at one point saying "I only was watching it because you were" and "I don't need to see the New York Knicks." Their conversation wove between game commentary, domestic activities (preparing chicken, dealing with a fly in the house), and deeper discussions about recovery community dynamics, theology, and financial planning.
-
 ---
 
 ### 🌙 Evening Session (5:01 PM – 11:00 PM)
+#### Knicks Championship and Soccer (4:40 PM – 8:53 PM)
+Andy and Andrea spent an evening watching sports broadcasts together at home, primarily the NBA Finals (Knicks vs. Spurs) and FIFA World Cup 2026 matches (Morocco vs. Brazil, Scotland vs. Haiti). Andy was more engaged with the basketball content, sharing historical knowledge about the 1970s Knicks championship team (Willis Reed, Walt Frazier, Dave DeBusschere, Bill Bradley) and noting Warriors coach Mike Brown's appearance. Andrea was less invested, at one point saying "I only was watching it because you were" and "I don't need to see the New York Knicks." Their conversation wove between game commentary, domestic activities (preparing chicken, dealing with a fly in the house), and deeper discussions about recovery community dynamics, theology, and financial planning.
+
 #### Flooded Parking Lot Car Rescue (11:38 PM – 11:46 PM)
 Andy was watching television in the background while someone else discussed parking logistics and timing. He then used a voice command to turn off the TV ("Google, turn off the TV"), after which he joined an in-person conversation about recent flooding. Andy shared that he had been walking through floodwater at ground level, threw something in the car, and drove around the block to check if it was okay. He expressed gratitude toward Patrick for help during the situation and suggested they should thank him again.
 
@@ -213,4 +238,4 @@ Andy was watching television in the background while someone else discussed park
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-23 06:18:01*
+*Report automatically generated on 2026-08-24 06:18:47*

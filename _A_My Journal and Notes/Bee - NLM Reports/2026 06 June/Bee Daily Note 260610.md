@@ -79,6 +79,28 @@ tags:
 
 ---
 
+## 👥 Group Gatherings & Multi-Participant Key Points
+#### Andy prepares roast chicken (3:18 PM – 3:52 PM)
+* **Meeting Synopsis**: Andy and Andrea spent time together at their Joshua Tree accommodation during a hot day (94°F), staying indoors to avoid the heat. Andy prepared a roasted chicken dinner following a recipe he'd gotten from Jim, reading aloud steps including patting the bird dry, seasoning with olive oil, salt, and pepper, stuffing with lemon, garlic, and herbs, and roasting at 425°F for about an hour and fifteen minutes. They discussed using their large glass Pyrex dish for the chicken and decided on potatoes and onions as sides rather than rice. Andrea mentioned depending on Zach for a ride the next day, with Andy offering to drive her if needed. Andy also shared a musical discovery with Andrea—playing the folk song "Get Up, Get Up, You Lazy Loaf" by The Weavers, then explaining how French hip-hop group Chinese Man had sampled it, tracing the lineage from 1950s American folk to modern French hip-hop.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "What's the matter?"
+  * **Andrea** (Wife): Shared on "We are pretty close to the floor, so maybe that'll do something."
+
+#### Workplace gossip and chicken prices (5:31 PM – 5:55 PM)
+* **Meeting Synopsis**: Andrea had a difficult day at work involving uncomfortable interactions with coworkers, including overhearing colleagues talking about her after she left a room. She discussed this with Andy, expressing her frustration with the workplace gossip culture, particularly around a coworker named Laurie who engages in frequent gossip about others. Andrea reflected on how some people use putting others down as a form of social connection, and affirmed her preference for feeling awkward rather than participating in gossip. Andy listened and validated her perspective, connecting it to broader observations about people living "outside of themselves" through othering behaviors and low emotional vibrations.
+* **Key Points by Participant**:
+  * **Andrea** (Wife): Shared on "I had a couple of interactions at work with some co-workers that let me have the bad taste in my mouth, and it's kind of been sitting in my stomach."
+  * **Andy**: Shared on "So other than Nori."
+
+#### Office Space Search Discussion (8:07 PM – 8:28 PM)
+* **Meeting Synopsis**: Andy discussed an upcoming book titled "Regime Change" about Trump's reaction to Epstein-related coverage, then shifted to a practical conversation with Andrea and another person about renting office space in the San Rafael/Los Gatos area. They compared options including a $404/month space, a $700 option near Highway 101, and a building on Lucas Valley Road near Kaiser. Andy noted free parking validation at Devilon's lot and Lundy's. He specified wanting a room large enough to host a meditation group. Andrea contributed detailed local knowledge about Los Gatos area buildings and walking paths.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "There's a book coming out called Regime Change where some reporters interviewed a thousand people about Trump and the Epstein situation and they had somehow they got some insigh..."
+  * **Andrea** (Wife): Shared on "The one I really that it seems that part of the 101 is $700."
+
+
+---
+
 ## 📖 Detailed Subject Matter
 ### 🌅 Morning Session (7:00 AM – 12:00 PM)
 #### Kaiser billing frustration and app feedback (10:27 AM – 10:38 AM)
@@ -215,4 +237,4 @@ Andy discussed an upcoming book titled "Regime Change" about Trump's reaction to
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-23 06:17:39*
+*Report automatically generated on 2026-08-24 06:18:25*

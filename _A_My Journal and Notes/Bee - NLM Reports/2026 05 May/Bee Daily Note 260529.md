@@ -93,10 +93,15 @@ tags:
 - **Concert plans and news browsing (3:15 PM – 3:32 PM)**: Andy was multitasking between searching for concert tickets, listening to a news podcast/broadcast, and preparing to take a shower. He found information about a "Rise Up, Sing Out" concert (likely featuring Snow Kings...
 - **Sharing recovery steps update (3:46 PM – 4:06 PM)**: Andy was having a casual conversation with someone while doing household tasks together. They were organizing or putting away bottles, with Andy offering to grab extras from his clean stash in the back. Andy mentioned...
 - **Streaming show setup discussion (4:09 PM – 4:17 PM)**: Andy and someone at home (likely a partner or household member) were figuring out how to watch a show together. The other person suggested bringing a chair in to watch without headphones, but Andy proposed streaming i...
-- **Quantum Spirituality Documentary Viewing (4:33 PM – 8:23 PM)**: Andy and Sarah spent an evening watching the 2004 documentary "What the Bleep Do We Know!?" while managing domestic tasks and having wide-ranging conversations. They rotated their mattress, changed sheets, ate leftove...
 
 ### 🌙 Evening Session (5:01 PM – 11:00 PM)
-- *No specific audio recorded during evening hours.*
+- **Quantum Spirituality Documentary Viewing (4:33 PM – 8:23 PM)**: Andy and Sarah spent an evening watching the 2004 documentary "What the Bleep Do We Know!?" while managing domestic tasks and having wide-ranging conversations. They rotated their mattress, changed sheets, ate leftove...
+
+---
+
+## 👥 Group Gatherings & Multi-Participant Key Points
+- *No multi-participant group gatherings recorded today.*
+
 
 ---
 
@@ -119,13 +124,11 @@ Andy was having a casual conversation with someone while doing household tasks t
 #### Streaming show setup discussion (4:09 PM – 4:17 PM)
 Andy and someone at home (likely a partner or household member) were figuring out how to watch a show together. The other person suggested bringing a chair in to watch without headphones, but Andy proposed streaming it to the TV in the living room instead. Andy walked them through using Chrome to cast/screen-share to the TV, mentioning he'd done this successfully before with another show they couldn't find elsewhere. Andy also mentioned not feeling well when taking showers.
 
-#### Quantum Spirituality Documentary Viewing (4:33 PM – 8:23 PM)
-Andy and Sarah spent an evening watching the 2004 documentary "What the Bleep Do We Know!?" while managing domestic tasks and having wide-ranging conversations. They rotated their mattress, changed sheets, ate leftover burritos with broccoli, and discussed the film's themes of quantum physics, consciousness, and spirituality. Andy experienced some physical discomfort including neck pain and post-shower weirdness, and they applied CBD/magnesium oil. Sarah shared memories of her Jin Shin Jyutsu and therapeutic touch community in Guerneville/Petaluma, and they discussed California politics including redistricting and Democratic primary races. Andy searched for and found the documentary song "Time to Get Wise" by Eamon Tobin, and they explored the DVD's extensive "Quantum Edition" bonus features.
-
 ---
 
 ### 🌙 Evening Session (5:01 PM – 11:00 PM)
-- *No specific audio recorded during evening hours.*
+#### Quantum Spirituality Documentary Viewing (4:33 PM – 8:23 PM)
+Andy and Sarah spent an evening watching the 2004 documentary "What the Bleep Do We Know!?" while managing domestic tasks and having wide-ranging conversations. They rotated their mattress, changed sheets, ate leftover burritos with broccoli, and discussed the film's themes of quantum physics, consciousness, and spirituality. Andy experienced some physical discomfort including neck pain and post-shower weirdness, and they applied CBD/magnesium oil. Sarah shared memories of her Jin Shin Jyutsu and therapeutic touch community in Guerneville/Petaluma, and they discussed California politics including redistricting and Democratic primary races. Andy searched for and found the documentary song "Time to Get Wise" by Eamon Tobin, and they explored the DVD's extensive "Quantum Edition" bonus features.
 
 ---
 
@@ -211,4 +214,4 @@ Andy and Sarah spent an evening watching the 2004 documentary "What the Bleep Do
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-23 06:16:05*
+*Report automatically generated on 2026-08-24 06:16:48*

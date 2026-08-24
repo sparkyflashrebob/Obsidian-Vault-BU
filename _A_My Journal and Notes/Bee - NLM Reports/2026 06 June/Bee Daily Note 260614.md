@@ -44,7 +44,8 @@ tags:
 
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
-- **Fidelity Investments**: `Fidelity Alerts: We couldn't complete your eBill enrollment for Pacific Gas & Electric (PG&E)` (08/22/2026 12:01 PM)
+- **Fidelity Investments** (Acc: `Summary`): **$255668.69, $25958.89** — `Fidelity Alerts: Account Summary` (08/24/2026 3:51 AM)
+- **Bank of America** (Acc: `SparkyBank`): **$7969.30** — `Your Available Balance` (08/23/2026 7:37 AM)
 
 ### ✉️ Outgoing Sent Emails & Correspondence
 - *No outgoing sent email replies or correspondence recorded today.*
@@ -75,6 +76,32 @@ tags:
 - **TV show and flooding discussion (10:04 PM – 10:14 PM)**: Andy was discussing the Apple TV series *Severance* with a companion (likely Andrea or Kerry based on trip context), describing a recent episode's cliffhanger involving a disc, headphones, and a planetary eye shield. ...
 - **Flood Concerns and Moving Plans (10:38 PM – 11:04 PM)**: Andy and his household members were monitoring rising water levels around their property during a storm, with concern that flooding could be worse than the previous night. Andy checked specific water measurements (6.5...
 - **NOAA flood alert automation script (11:25 PM – 11:37 PM)**: Andy created an automated Google script that monitors Puerto Madera Creek water levels via NOAA data and automatically adds calendar notifications when levels exceed 6.75 feet. The script is set to monitor a month in ...
+
+---
+
+## 👥 Group Gatherings & Multi-Participant Key Points
+#### Recovery Meeting on Fear (9:13 AM – 11:07 AM)
+* **Meeting Synopsis**: Andy was listening to an Alcoholics Anonymous meeting recording focused on the topic of fear, while simultaneously engaging in casual conversations with people around him about breakfast plans, phone settings, and daily logistics. During the AA meeting, Andy shared his own experience with severe panic attacks that once made it difficult for him to drive, and how connecting with a Buddhist teacher running an "awakening joy" class, talking with monks, and eventually developing faith helped him overcome his fear. He noted that he never took anxiety medication a psychiatrist prescribed—just knowing it was available in a drawer was enough comfort. He emphasized that faith is the antidote to fear. In his surrounding conversations, Andy discussed waiting to eat breakfast until he knew if others were going, mentioned his air-conditioned place set to 74 degrees, helped someone troubleshoot turning off Do Not Disturb on an iPhone, and briefly explained that someone named Claudia wasn't around because they were out of town.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "Good.Thank you very much."
+
+#### Joshua Tree vacation stories shared (11:07 AM – 11:26 AM)
+* **Meeting Synopsis**: Andy was having a conversation with someone—likely his companion Kerry or Andrea—recapping a recent trip to the Joshua Tree area and reflecting on travel habits, accommodations, and health routines. He discussed staying at a three-bedroom rental with a pool and hot tub, noting they paid around $900 for the stay versus what would have been $1,200+ at a hotel. The hot tub was mainly usable at night when it cooled down, and the pool was too cold to fully enjoy. He mentioned focusing on family during the trip rather than inviting others, and highlighted "Kitchen in the Desert" as a standout restaurant. He also described doing advance scouting of Joshua Tree and the main area on Joshua Street before his wife Sarah arrived for her training. The conversation touched on past trips including Yosemite and the 395 route through Lone Pine, Sparkle, and Mount Whitney. Andy also mentioned driving someone to Lundy. Toward the end, there was discussion about exercise, weight management struggles, and a need to do laundry.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "Oh, I was going to say, oh, when I normally I only eat half of it and I give it away."
+
+#### Recovery meeting and daily errands (11:35 AM – 12:06 PM)
+* **Meeting Synopsis**: Andy spent time with Andrea looking at a potential new apartment/space, comparing it favorably to another option they'd seen. They discussed room features, natural light, plants, and window arrangements. Later, Andy recounted his morning 9 AM recovery meeting to someone—he'd gone with Stephen, walked from Trees and Johnny's restaurant, and found the pre-meeting chit-chat and multiple overlapping conversations irritating to his sensitivity. The meeting topic was fear, and Andy shared about his panic experiences. He also discussed his frustration with the masculine "God/him" language in meetings, preferring to conceptualize nature/natural forces as feminine energy, and talked through meditation experiences including intense "brain turns inside out" sensations and physical constriction ("the claw") that he associates with self-traumatization. He and Andrea also discussed flooding/tide information (7.1 high tides), food shopping plans (cutting back on purchases, getting lemons, mint, cucumber, fruit, avocados), and Andrea's massage therapy certification process—researching requirements, insurance, website needs, and comparing herself to a practitioner in Mill Valley who's been active since 1974.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "Okay.This is definitely a nicer place than the other one. Yeah."
+  * **Andrea** (Wife): Shared on "So we have had two other conversations but I'm sorry that only coming in but our key."
+
+#### Watching Netherlands Japan Soccer Game (3:16 PM – 3:38 PM)
+* **Meeting Synopsis**: Andy was watching Women's World Cup soccer with Andrea, discussing a Netherlands-Japan match that ended 2-2. He mentioned napping through the 0-0 first half and waking up when goals were scored. They also joked about a "sandwich spot" and discussed someone named Pat giving something to Marlena. Andrea shared seeing someone jogging while kicking a soccer ball down the street. Andy commented on unusual traffic conditions without rain. A political hearing was playing in the background on TV, but neither engaged with it.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "When the goalie move."
+  * **Andrea** (Wife): Shared on "Which is your sandwich is my spot, which is speaking!"
+
 
 ---
 
@@ -238,4 +265,4 @@ Andy created an automated Google script that monitors Puerto Madera Creek water 
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-23 06:18:09*
+*Report automatically generated on 2026-08-24 06:18:57*

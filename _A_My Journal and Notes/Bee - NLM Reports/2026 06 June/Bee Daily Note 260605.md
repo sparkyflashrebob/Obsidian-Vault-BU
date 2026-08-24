@@ -106,6 +106,32 @@ tags:
 
 ---
 
+## 👥 Group Gatherings & Multi-Participant Key Points
+#### Reflecting on letting go (7:34 AM – 7:47 AM)
+* **Meeting Synopsis**: Andy is spending time outdoors on a porch or patio at an Airbnb in Joshua Tree with Andrea and another companion (likely Sarah, his partner). He is processing several emotional stressors: his daughter Ryan's apparent relapse and reconnection with someone named Jamers, and his frustration with current political events. Despite this, he is actively working to maintain spiritual balance through Buddhist practice, referencing the "eight-worldly winds" and planning to practice and regain equanimity. The group is enjoying wildlife observations including doves, a hummingbird, and what Andrea suspects was a kangaroo mouse. Andy assists someone with positioning for sun protection and discusses the porch maintenance needs at his own home. He mentions reviewing his "B notes" (likely personal reflections or Buddhist study notes) and expresses that this Joshua Tree trip is particularly meaningful and memorable for him.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "So, definitely being colored by Ryan's relapse and the reasoning, well, the fact that she's back with Jamers apparently and back to square one is really disheartening."
+  * **Andrea** (Wife): Shared on "I think that might have been a kangaroo mouse we saw."
+
+#### Discussing sinus health and dinner (7:57 AM – 8:18 AM)
+* **Meeting Synopsis**: Andy is staying at an Airbnb in Joshua Tree with Andrea and at least one other travel companion, attending a 5-day Jin Shin Jyutsu basic seminar with Susie Plettner at the Joshua Tree Retreat Center. The group is dealing with various health discomforts related to the desert environment—Andrea has jaw tension and mouth soreness, while Andy is experiencing significant sinus drainage, headaches, and ear/throat issues that he attributes to altitude adjustment. He's filled multiple tissues with sinus drainage and jokes he'll finally normalize to the environment just in time to leave, then face reverse adjustment going home. The group is coordinating dinner plans for the evening, with Andy suggesting they make a reservation and give an approximate head count and time (around 7pm) to avoid rushing. Andy shared an anecdote about a Facebook ad for a red light nasal therapy device ($79-175) marketed by a former ENT, which he found intriguing but wants to research more before purchasing. There's casual banter about food—including someone sneaking snacks with a "bulge in my cheek" that reminded Andy of Goenka and an old peanut butter sandwich story.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "You don't have any proxy care."
+  * **Andrea** (Wife): Shared on "Tension.I know there's a really sore spot in my mouth."
+
+#### Family recovery discussion (8:29 AM – 8:44 AM)
+* **Meeting Synopsis**: Andy had an emotionally heavy phone conversation with a close family member (likely his daughter or another adult child) while staying at his Airbnb in Joshua Tree. They discussed Ryan's relapse into addiction, her connection to someone named Jane/James (possibly "Jamers"), and the painful impact on the family—especially Capri (a young child who was deeply attached to Ryan and is now being protected from contact). Andy expressed feeling violated because Ryan had seemed positive just days before. Both agreed Ryan needs to surrender and take her own recovery steps, with Andy emphasizing he won't enable her. The conversation also touched on Kayla currently having her baby, and the family member mentioned their own pregnancy ("my belly's getting big").
+* **Key Points by Participant**:
+  * **Andy**: Shared on "Said, yeah, she's with Jamers."
+
+#### Dinner reservation and trip planning (5:50 PM – 6:50 PM)
+* **Meeting Synopsis**: Andy and his partner Andrea are wrapping up their stay at a Joshua Tree Airbnb with a heated pool and hot tub, where they are attending a 5-day Jin Shin Jyutsu Basic Seminar with Susie Plettner at the Institute of Mentalphysics. They are coordinating dinner reservations for their final nights, with Andy managing OpenTable bookings for a group that has grown to 10-11 people. Andy spent part of the day hiking at Key View, a mountaintop overlook with panoramic views of Coachella Valley and the Salton Sea. They are also navigating gift shop purchases (T-shirt sizing confusion), wildlife encounters at the pool, and practical matters like a melted Tiger Balm container left in the car. Andrea mentions her hand shaking has been noticeable, and they discuss taking photos together.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "There are no tables available at 845, so you have to tell them to ask them tomorrow."
+
+
+---
+
 ## 📖 Detailed Subject Matter
 ### 🌅 Morning Session (7:00 AM – 12:00 PM)
 #### Reflecting on letting go — 📍 Joshua Tree for JSJ 5 day Basic Seminar with Susie Plettner! @ Institute of Mentalphysics aka Joshua Tree Retreat Center, 59700 29 Palms Hwy, Joshua Tree, CA 92252, USA (7:34 AM – 7:47 AM)
@@ -243,4 +269,4 @@ Andy was watching sports analysis programming during his stay at a Joshua Tree A
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-23 06:16:59*
+*Report automatically generated on 2026-08-24 06:17:44*

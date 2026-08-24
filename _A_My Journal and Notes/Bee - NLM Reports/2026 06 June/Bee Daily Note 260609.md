@@ -66,6 +66,21 @@ tags:
 
 ---
 
+## 👥 Group Gatherings & Multi-Participant Key Points
+#### Andy turns off political TV (10:02 AM – 10:22 AM)
+* **Meeting Synopsis**: Andy was in a room with the TV playing in the background while ambient audio captured multiple programs. The TV cycled through: a news documentary about data center expansion in Atlanta suburbs and its political implications (featuring resident Beverly Morris and interviews about community impact); a C-SPAN congressional floor speech commemorating the 59th anniversary of the USS Liberty incident, with a representative calling for formal investigation and resolution; and finally a music production tutorial show called "Del Shi" about arranging loops. Andy's only direct participation was giving a voice command at the end to turn off the TV.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "Google, turn off the T V"
+
+#### Movie plans and daily life (4:06 PM – 8:23 PM)
+* **Meeting Synopsis**: Andy and Andrea spent time together managing household logistics, planning entertainment, and consuming various media. They discussed grocery shopping and meal planning, with Andy noting he bought fresh vegetables and fruit while trying to eat an avocado daily. They had ongoing frustration with a movie ticket subscription service that wasn't allowing advance purchases for new releases, leading Andy to consider canceling and returning to Fandango. They planned to see "Disclosure Day" on Friday at 1:30 PM at Fairfax. Andrea had work logistics to sort out regarding parking after changes at her office. They watched women's soccer (USWNT vs. Brazil), a YouTube video about TV production trucks, and later a crime drama series (possibly "Will Trent"). Andy also watched boxing highlights of a Japanese champion fighter he recently discovered, impressed by his multi-division success at a young age. They dealt with Netflix account management and some confusion about viewing history. Andy researched the Etruscans after learning about an upcoming museum exhibit at the Legion of Honor, which they considered attending with others who had already bought four tickets.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "So I'm putting my Vivilon I'm never gonna use this meal thing for Vivilon."
+  * **Andrea** (Wife): Shared on "If we're ever both sick and we need to have something delivered to us, you will meal."
+
+
+---
+
 ## 📖 Detailed Subject Matter
 ### 🌅 Morning Session (7:00 AM – 12:00 PM)
 #### Planning morning routine and activities (9:50 AM – 9:59 AM)
@@ -200,4 +215,4 @@ Andy and Andrea spent time together managing household logistics, planning enter
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-23 06:17:31*
+*Report automatically generated on 2026-08-24 06:18:17*

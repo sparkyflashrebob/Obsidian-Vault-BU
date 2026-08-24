@@ -117,13 +117,38 @@ tags:
 - **Creating December 27th Meeting Event (1:12 PM – 1:27 PM)**: Andy appears to have been attempting to set up a calendar event or meeting for December 27th while navigating some technical or communication difficulties with others in the household. The conversation shows signs of ...
 - **Right Speech Within (1:51 PM – 3:03 PM)**: Andy facilitated the "Eddie Mindful and Meditation" group meeting, providing comprehensive teaching on Buddhist psychology and inner dialogue. The session included welcome remarks, group agreements establishment, guid...
 - **Event planning, tech, family prep (3:04 PM – 4:26 PM)**: This evening conversation took place as Andy returned home from shopping and went through his evening routine. The discussion covered multiple practical matters including meal preparation (fish with vegetables), house...
-- **Testing braille headphones for meeting (4:39 PM – 4:46 PM)**: Andy is preparing for an upcoming Raiders Training Camp event he's organizing, taking practical steps to ensure everything runs smoothly. He's gathered water and tea for hydration, and is carefully testing his headpho...
-- **Living Mindfully: Internal Dialogue Practice (4:46 PM – 5:26 PM)**: Andy successfully hosted and facilitated his weekly "Living Mindfully Meditation Group Meeting" with another participant in attendance. The session included standard group agreements, check-ins, teaching on internal d...
 
 ### 🌙 Evening Session (5:01 PM – 11:00 PM)
+- **Testing braille headphones for meeting (4:39 PM – 4:46 PM)**: Andy is preparing for an upcoming Raiders Training Camp event he's organizing, taking practical steps to ensure everything runs smoothly. He's gathered water and tea for hydration, and is carefully testing his headpho...
+- **Living Mindfully: Internal Dialogue Practice (4:46 PM – 5:26 PM)**: Andy successfully hosted and facilitated his weekly "Living Mindfully Meditation Group Meeting" with another participant in attendance. The session included standard group agreements, check-ins, teaching on internal d...
 - **Buddhist Approach to Right Speech (5:43 PM – 6:47 PM)**: Andy led a comprehensive Buddhist teaching session during the Living Mindfully Meditation Group Meeting. The session focused on "Right Speech" and understanding the mind as a dynamic committee of different voices rath...
 - **Talk preparation and delivery reflection (6:48 PM – 7:49 PM)**: Andy engaged in a reflective conversation about his meditation and teaching content creation process. He received positive feedback on a recent talk, noting the conversational and clear delivery style. Andy discussed ...
 - **Impermanence, Mindfulness, Joy (11:01 PM – 11:08 PM)**: Andy participated in an intimate reading session of "The Poetry of Impermanence, Mindfulness and Joy," working through page 14 of 246. The conversation centered on a passage about Ryokan, the Buddhist monk who joyfull...
+
+---
+
+## 👥 Group Gatherings & Multi-Participant Key Points
+#### Content creation and business setup (9:56 AM – 10:17 AM)
+* **Meeting Synopsis**: Andy engaged in philosophical reading and business planning activities while ambient sports media played in the background. He recited content from Riokon and the Bahia Sutta, considering how to incorporate these into his work. He set a Google reminder to import Kindle sync items to Obsidian at 1 PM. His conversation with a business partner focused on web development collaboration, including discussions about shared workspace setup, website updates, email management systems, and implementing unsubscribe functionality for subscriber communications.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "So, in the Riokon's quote where he's playing with the village children I kick the ball and they sing, They kick and I sing Time is forgotten, the hours fly People by point passi..."
+
+#### Creating December 27th Meeting Event (1:12 PM – 1:27 PM)
+* **Meeting Synopsis**: Andy appears to have been attempting to set up a calendar event or meeting for December 27th while navigating some technical or communication difficulties with others in the household. The conversation shows signs of frustration around phone usage, room arrangements, and perhaps some smart home device or communication system that wasn't working as expected.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "Create new event bright meetings for December twenty-sevent on the"
+
+#### Right Speech Within (1:51 PM – 3:03 PM)
+* **Meeting Synopsis**: Andy facilitated the "Eddie Mindful and Meditation" group meeting, providing comprehensive teaching on Buddhist psychology and inner dialogue. The session included welcome remarks, group agreements establishment, guided meditation instruction, and an extensive dharma talk exploring how our internal commentary shapes our experience. Andy covered key concepts including the committee model of the mind, right speech beginning with internal dialogue, and practical techniques for transforming unskillful inner conversations into compassionate self-communication.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "Hello, and good evening."
+
+#### Event planning, tech, family prep (3:04 PM – 4:26 PM)
+* **Meeting Synopsis**: This evening conversation took place as Andy returned home from shopping and went through his evening routine. The discussion covered multiple practical matters including meal preparation (fish with vegetables), household organization (knife storage), and personal planning. Andy spent significant time setting up Eventbrite events - one for an Oakland democracy event he wants to attend, and another for advertising his own "living mindfully" speaking engagements. He also worked on editing a speech that appears to be Buddhist-focused, expressing satisfaction with the content despite concerns about speaking stamina.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "My spoon is too big."
+  * **Jon**: Shared on "How was your day?"
+
 
 ---
 
@@ -158,22 +183,6 @@ Andy expressed strong moral objections to people betting on wildfires, viewing i
 #### Creating December 27th Meeting Event (1:12 PM – 1:27 PM)
 Andy appears to have been attempting to set up a calendar event or meeting for December 27th while navigating some technical or communication difficulties with others in the household. The conversation shows signs of frustration around phone usage, room arrangements, and perhaps some smart home device or communication system that wasn't working as expected.
 
-# Atmosphere
-
-The conversation had a tense, fragmented quality with overlapping speakers and apparent technical difficulties. Multiple speakers seemed confused or frustrated with the communication setup, and there were references to room usage and phone arrangements that created friction.
-
-# Key Takeaways
-
-- Andy was working on creating a "bright meeting" scheduled for December 27th
-- There were technical issues with some kind of announcement or communication system that multiple people were trying to use
-- The conversation suggests household tensions around phone usage and room arrangements
-- Andy mentioned wanting to "shout" or connect with someone during the call
-- Multiple people were present and having difficulty coordinating their communication
-
-## Calendar Context
-
-Andy has several scheduled events including Raiders Training Camp (July 23 - August 31, 2026) and a "Lanterns - Premiere on HBO" event (August 16-17, 2026) that was confirmed with another attendee (dragonflylodge.aa@gmail.com).
-
 #### Right Speech Within (1:51 PM – 3:03 PM)
 # Meditation Group Meeting Summary
 
@@ -185,36 +194,17 @@ This evening conversation took place as Andy returned home from shopping and wen
 
 Technical discussions included troubleshooting communication systems and internet connectivity issues, with Andy providing suggestions for better user permissions and system security. The conversation also covered planning for a baby shower, with Andy being mindful of not overpurchasing when multiple family members are contributing gifts.
 
+---
+
+### 🌙 Evening Session (5:01 PM – 11:00 PM)
 #### Testing braille headphones for meeting (4:39 PM – 4:46 PM)
 Andy is preparing for an upcoming Raiders Training Camp event he's organizing, taking practical steps to ensure everything runs smoothly. He's gathered water and tea for hydration, and is carefully testing his headphone setup to ensure his braille/phone accessibility system works properly with the Dell computer he's using for the event. Andy plans to arrive 10 minutes early to accommodate early arrivals and troubleshoot any technical issues.
-
-# Atmosphere
-
-The conversation has a focused, preparatory atmosphere with Andy being methodical about his event setup. The tone is collaborative, with others present acknowledging his preparations and offering support.
-
-# Key Takeaways
-
-- Andy is hosting/organizing a Raiders Training Camp event from July 23 - August 31, 2026
-- He has specific accessibility needs requiring braille support with his phone system
-- He uses a Dell computer for his phone accessibility setup and has tested it to be clear
-- He prioritizes being well-prepared by arriving early and having necessary supplies (water, tea)
-- He's organized with plans for the HBO "Lanterns" premiere on August 16-17 with a guest
-
-# Action Items
-
-- Complete headphone/braille setup testing before the event
-- Ensure Dell computer accessibility system is functioning properly
-- Arrive 10 minutes early for event to accommodate early attendees
-- Have water and tea available during the event
 
 #### Living Mindfully: Internal Dialogue Practice — 📍 Living Mindfully Meditation Group Meeting (4:46 PM – 5:26 PM)
 *Context / Event Alignment*: Overlaps with scheduled Calendar event **Living Mindfully Meditation Group Meeting**.
 
 Andy successfully hosted and facilitated his weekly "Living Mindfully Meditation Group Meeting" with another participant in attendance. The session included standard group agreements, check-ins, teaching on internal dialogue, and guided meditation practice.
 
----
-
-### 🌙 Evening Session (5:01 PM – 11:00 PM)
 #### Buddhist Approach to Right Speech — 📍 Living Mindfully Meditation Group Meeting (5:43 PM – 6:47 PM)
 *Context / Event Alignment*: Overlaps with scheduled Calendar event **Living Mindfully Meditation Group Meeting**.
 
@@ -365,4 +355,4 @@ Andy participated in an intimate reading session of "The Poetry of Impermanence,
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-23 06:26:40*
+*Report automatically generated on 2026-08-24 06:27:36*

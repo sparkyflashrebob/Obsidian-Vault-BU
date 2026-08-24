@@ -22,45 +22,47 @@ tags:
 ---
 
 ## 🌅 Your Day Ahead 08/23/2026
-- **Subject**: `💌 Your Day Ahead 08/22/2026` (7:01 AM)
+- **Subject**: `💌 Your Day Ahead 08/23/2026` (7:01 AM)
 
 > ### Top of mind
 > 
-> - 10 min Renew your Zoom paid subscription by end of day today, Sat, Aug 22, to prevent the permanent deletion of your cloud recordings [🔗 View alert](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871491449104332815) [📅 Add Reminder](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Renew+Zoom+Subscription&dates=20260822T160000%2F20260822T170000&ctz=America%2FLos_Angeles&details=Renew+your+Zoom+paid+subscription+to+prevent+permanent+deletion+of+cloud+recordings.&location=&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com)
->   - Your subscription expired on Jul 23, and recordings are scheduled for removal 30 days after that notice.
->   - For future Living Mindfully meetings, you intend to use the College of Marin license managed by Lucky.
-> - 5 min Review and reply to the new secure message from your Kaiser Permanente care team received on Fri, Aug 21 [🔗 View message](https://kp.org/newmessage) [📅 Add Reminder](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Review+Kaiser+Message&dates=20260822T110000%2F20260822T113000&ctz=America%2FLos_Angeles&details=Review+and+reply+to+secure+message+from+Kaiser+care+team.&location=https%3A%2F%2Fkp.org%2Fnewmessage&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com)
-> - Today • Raiders Training Camp (All day) [📅 View event](https://www.google.com/calendar/event?eid=MTJrNHNnMXMyZ2VrcWthMnU3cmw3djE4N3Ygc3Bhcmt5Zmxhc2hyZWJvYkBt&ctz=America/Los_Angeles)
-> - Today • 5:00 PM • First VQ prep meeting (1.5h) with Andrea Axtell at your home, 326 Larkspur Plaza Dr, Larkspur, CA [✨ Join Meet](https://meet.google.com/nqh-jmxe-iev) [📅 View event](https://www.google.com/calendar/event?eid=NzBzbWNjYjVjbGdqaWJiM2NvczY2YjlrNjBwNmFiOW82c3MzY2I5bWNvbzNpZWI2NmtvNjZwaGg2NCBzcGFya3lmbGFzaHJlYm9iQG0&ctz=America/Los_Angeles) [🔗 Map](https://www.google.com/maps/search/?api=1&query=326+Larkspur+Plaza+Dr%2C+Larkspur%2C+CA)
-> - Recent Amazon delivery activity for your home in Larkspur.
->   - Scheduled for today, Sat, Aug 22: Two health care orders (#111-1533984-2025867 and #111-6338749-5005064), including wax ear plugs and snack foods [🔗 View order](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1874185383229415128) [📅 Add Reminder](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Amazon+Delivery+Expected&dates=20260822T190000%2F20260822T200000&ctz=America%2FLos_Angeles&details=Amazon+orders+%23111-1533984-2025867+and+%23111-6338749-5005064+%28wax+ear+plugs+and+snack+foods%29+scheduled+for+today.&location=Larkspur%2C+CA&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com)
->   - Delivered on Fri, Aug 21: One order of snack foods (#111-1252979-5624269) was left at your front door [🔗 View details](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1874185117297900850)
+> - 15 min Provide Mixed In Key support with specific tagging details to resolve your investigation. You need to send screenshots of your settings and tags (before/after processing) along with the audio file formats [🔗 view support email](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1874231529604414209)
+>   - Contact: [✉️ Andy (Mixed In Key)](mailto:support@mixedinkey.com) [✉️ Email](mailto:?subject=Mixed%20In%20Key%20Support%20Investigation&body=Hi%20Andy%2C%0A%0AFollowing%20up%20on%20the%20support%20investigation%20regarding%20Mixed%20In%20Key%20tagging.%20I%27ve%20attached%20the%20requested%20screenshots%20of%20my%20settings%20and%20tags%20%28both%20before%20and%20after%20processing%29%2C%20along%20with%20the%20audio%20file%20formats%20used.%20%0A%0ALooking%20forward%20to%20your%20help%20in%20resolving%20this.%0A%0ABest%2C%0AAndy%20McGuire)
+> - 30 min Contact PG&E to resolve an eBill enrollment failure for your account ending in 5624. Fidelity was unable to activate the service on Sat, Aug 22, possibly due to an address mismatch or an existing setup on the PG&E website [🔗 view notification](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1874251283286168222)
+>   - Reach out to [🔗 Pacific Gas & Electric](https://www.pge.com) directly for assistance [🔗 Read](https://www.pge.com/en/account/manage-my-account/troubleshooting-pge-com-login.html)
+> - Review recent financial updates processed on Wed, Aug 19 and notified on Sat, Aug 22.
+>   - Payroll: A deposit of $3,027.00 from Avdg, Llc (Ronald McGuire) was received into your account ending in 0372 [🔗 view deposit](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1874275837942499802)
+>   - State Farm: A payment of $275.02 was processed from your account ending in 0372 [🔗 view payment](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1874275837190419493)
+>   - T-Mobile: A payment of $71.93 was processed from your account ending in 0372 [🔗 view payment](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1874275837190419493)
+> - Today • 12:00 AM • Raiders Training Camp (All day) through Sun, Aug 30 [📅 View event](https://www.google.com/calendar/event?eid=MTJrNHNnMXMyZ2VrcWthMnU3cmw3djE4N3Ygc3Bhcmt5Zmxhc2hyZWJvYkBt&ctz=America/Los_Angeles)
+> - Today • 9:30 AM • 930AM Meeting (1h) [📅 View event](https://www.google.com/calendar/event?eid=YzhyajJvOWs2aGkzOGJiMWNvc21hYjlrNzFoNjhiOW82OHJtY2I5bDYwczM0ZDM0Y2dxajRvaGc2c18yMDI2MDgyM1QxNjMwMDBaIHNwYXJreWZsYXNocmVib2JAbQ&ctz=America/Los_Angeles)
+> - Today • 12:00 PM • Marin DSA Special Meeting: 2028 Presidential Endorsement Discussion (2h) at Robson-Harrington House, 237 Crescent Rd Suite 4, San Anselmo, CA 94960 [📅 View event](https://www.google.com/calendar/event?eid=NzJ1a2wzamVhMGdwY2U3YmY5ZGhrdDUxYzQgc3Bhcmt5Zmxhc2hyZWJvYkBt&ctz=America/Los_Angeles) [🔗 Map](https://www.google.com/maps/search/?api=1&query=Robson-Harrington+House%2C+237+Crescent+Rd+Suite+4%2C+San+Anselmo%2C+CA+94960)
+>   - Attendance is limited to members in good standing. A chapter social at Creekside Pizza will follow the meeting [🔗 Menu](https://www.creeksidesa.com/menu/)
+>   - Preparation: Read the background article by the Co-Chairs and consider the discussion questions.
+>   - Parking: Free street parking is available in the surrounding neighborhood.
+>   - Kindly [🔗 RSVP](https://airtable.com/appKraqKcErI1GAmz/pag9ZJ2jctUB3v19y/form) if you haven't already.
+> - Today • 5:00 PM • Living Mindfully Meditation Group Meeting (1.5h) [📅 View event](https://www.google.com/calendar/event?eid=cTZtMnZzb2UwaDNoY2wza2R0czQ3cW5scmxfMjAyNjA4MjRUMDAwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0&ctz=America/Los_Angeles)
+>   - Join the weekly online sanctuary via [✨ Google Meet](https://meet.google.com/oxf-rdfm-kmn?hs=224)
+>   - The session includes guided centering, somatic grounding, wisdom reflection, and shared community presence.
 > 
 > ### FYI
 > 
-> - Sun, Aug 23 • 9:30 AM • 930AM Meeting (1h) [📅 View event](https://www.google.com/calendar/event?eid=YzhyajJvOWs2aGkzOGJiMWNvc21hYjlrNzFoNjhiOW82OHJtY2I5bDYwczM0ZDM0Y2dxajRvaGc2c18yMDI2MDgyM1QxNjMwMDBaIHNwYXJreWZsYXNocmVib2JAbQ&ctz=America/Los_Angeles)
-> - Sun, Aug 23 • 12:00 PM • Marin DSA Special Meeting: 2028 Presidential Endorsement (2h) at Robson-Harrington House, 237 Crescent Rd Suite 4, San Anselmo, CA 94960 [📅 View event](https://www.google.com/calendar/event?eid=NzJ1a2wzamVhMGdwY2U3YmY5ZGhrdDUxYzQgc3Bhcmt5Zmxhc2hyZWJvYkBt&ctz=America/Los_Angeles) [🔗 Directions](https://www.google.com/maps/search/?api=1&query=237+Crescent+Rd+Suite+4+San+Anselmo+CA+94960)
->   - Attendance is limited to members in good standing. A chapter social at Creekside Pizza will follow the meeting.
->   - Preparation: Read the background article by the Co-Chairs and consider the discussion questions.
->   - Social: Creekside Pizza is open daily 12pm-9pm with happy hour from 4pm-5pm [🔗 View Menu](https://www.creeksidesa.com/menu/)
-> - Sun, Aug 23 • 5:00 PM • Living Mindfully Meditation Group Meeting (1.5h) [✨ Join Meet](https://meet.google.com/oxf-rdfm-kmn) [📅 View event](https://www.google.com/calendar/event?eid=cTZtMnZzb2UwaDNoY2wza2R0czQ3cW5scmxfMjAyNjA4MjRUMDAwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0&ctz=America/Los_Angeles)
->   - Weekly online gathering focusing on somatic grounding, wisdom reflection, and shared presence.
-> - Consider attending the tribute for Robert Chandler on Tue, Aug 25 from 11:00 AM to 12:30 PM at the Kentfield ESCOM room [🔗 View info](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873865654139794440) [📅 View Event](https://www.google.com/calendar/event?eid=NGZjN244N241NThvdXR2bzVjN2hiMGxoNW1fMjAyNjA4MjVUMTgwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0&ctz=America/Los_Angeles)
-> - Consider attending the Oakland People's Arms Embargo (OPAE) Endorser Townhall on Sat, Aug 29 from 11:00 AM to 3:00 PM [🔗 View invite](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1872145070644969978) [📅 Add Event](https://calendar.google.com/calendar/render?action=TEMPLATE&text=OPAE+Endorser+Townhall&dates=20260829T110000%2F20260829T150000&ctz=America%2FLos_Angeles&details=Oakland+People%27s+Arms+Embargo+%28OPAE%29+Endorser+Townhall.+Lunch+will+be+provided.&location=Oakland%2C+CA&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com)
->   - In-person meeting for endorsing organizations; lunch will be provided.
-> - You have a $2.25 Amazon promotional credit available, earned on Fri, Aug 21, which will automatically apply to your next digital order. The credit expires on Dec 15 [🔗 View reward](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1874185378455827866)
-> - Recent updates related to your Democracy Reform activism interest [🔗 Source](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1874151487064211496)
->   - ALPR Action: The National Week of Action Against Automated License Plate Readers (ALPRs) concludes today, Sat, Aug 22.
->   - Investigation Guide: A new checklist for investigating local Flock ALPR systems is now available from 50501.
->   - Legal: Disney and ABC filed a lawsuit on Aug 18 to stop an early FCC review of eight broadcast licenses.
->   - Global: The first group of deportees arrived in Liberia on Aug 20 under a new third-country agreement.
+> - Mon, Aug 24 • 6:30 PM • Audel & Andy SDRT (1h) [📅 View event](https://www.google.com/calendar/event?eid=aGNhZ3A5cHIyZGZhZjlrNGl2cXU5cDhyajZfMjAyNjA4MjVUMDEzMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0&ctz=America/Los_Angeles)
+>   - Join via [✨ Google Meet](https://meet.google.com/ytq-jeoq-umi)
+> - Wed, Aug 26 • Consider several PG&E and Plaud AI updates occurring mid-week.
+>   - Plaud AI: Your free trial for the Annual Unlimited Plan ends on Wed, Aug 26. If not canceled, your Visa ending in 6681 will be charged $239.99 for the year [🔗 view trial info](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873897874195369589) [📅 Add Reminder](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Reminder%3A+Plaud+AI+Trial+Ends+Tomorrow&dates=20260825T090000%2F20260825T100000&ctz=America%2FLos_Angeles&details=Your+free+trial+for+the+Plaud+AI+Annual+Unlimited+Plan+ends+tomorrow.+If+not+canceled%2C+your+Visa+ending+in+6681+will+be+charged+%24239.99.&location=online&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com)
+>   - PG&E Virtual Town Hall: A session for North Coast and Marin residents is scheduled for Wed, Aug 26 from 5:30 PM to 6:30 PM. It covers wildfire safety and outage preparedness [🔗 view invitation](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873551006704544836) [📅 Add Event](https://calendar.google.com/calendar/render?action=TEMPLATE&text=PG%26E+Virtual+Town+Hall%3A+Wildfire+Safety&dates=20260826T173000%2F20260826T183000&ctz=America%2FLos_Angeles&details=Wildfire+safety+and+outage+preparedness+session+for+North+Coast+and+Marin+residents.&location=Online+%2F+Virtual+Town+Hall&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com)
+>   - Budget Billing: PG&E offered an optional Budget Billing enrollment on Sat, Aug 22 to average your monthly energy costs [🔗 enroll at pge.com](https://www.pge.com)
+> - Recent Amazon activity for items ordered and delivered in Larkspur, CA.
+>   - Earth Prayers: You purchased the Kindle edition of 'Earth Prayers' for $6.24 on Sat, Aug 22 [🔗 view order](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1874291790248925400)
+>   - Deliveries: Two packages containing health care items and snack foods were delivered to your front door on Sat, Aug 22 [🔗 view delivery](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1874276765072554056) [🔗 view delivery](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1874276765298832450)
+> - Ongoing updates for your digital tools and subscriptions.
+>   - Google Workspace: A weekly recap issued on Fri, Aug 21 highlights new Gemini features in Notebook and Chat, and a user blocking feature for Google Calendar [🔗 view recap](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1874206381996360674)
+>   - Zoom AI: Your account is approaching its monthly AI usage limit for note-taking and meeting summaries as of Sat, Aug 22 [🔗 view notification](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1874234850679462197)
 > 
 > ### CC Calendar Updates
 > 
-> - Updated: Marin DSA Special Meeting: 2028 Presidential Endorsement — August 23, 2026 12:00pm PT · [🔗 Source email](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1874163490248521095) · [📅 View event](https://www.google.com/calendar/event?eid=N2x1ODl1bDhlb2Nhc2diYmRwZW00NzI2bm8gOWNlMWM5MDAyM2U4ZjI5MmZjMTEwNzRlNzZkOTQ3MWYzZmJlOWQxNDVjYjk0OWQ4MDY0NWM2ZDYwZjBlOGQyNUBn)
->   - New location: Robson-Harrington House, Robson-Harrington Park, 237 Crescent Road, San Anselmo
->   - Event details updated
-> - New: The Dog Stars Opens — August 28, 2026 · [🔗 Source email](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1874153328909166178) · [📅 View event](https://www.google.com/calendar/event?eid=MG0zZDdsbjRrNWdpcTAzdGxjM3NxOGUzNjQgOWNlMWM5MDAyM2U4ZjI5MmZjMTEwNzRlNzZkOTQ3MWYzZmJlOWQxNDVjYjk0OWQ4MDY0NWM2ZDYwZjBlOGQyNUBn)
+> - New: Mary Oliver Film at the Lark — August 25, 2026 5:20pm PT · [🔗 Source email](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1874242460189164497) · [📅 View event](https://www.google.com/calendar/event?eid=amhoc21iZDd1bmhiMXBwMWdpN2txYjIwZjAgOWNlMWM5MDAyM2U4ZjI5MmZjMTEwNzRlNzZkOTQ3MWYzZmJlOWQxNDVjYjk0OWQ4MDY0NWM2ZDYwZjBlOGQyNUBn)
 
 ---
 
@@ -74,4 +76,4 @@ tags:
 
 ---
 
-*Report automatically generated on 2026-08-23 06:30:09*
+*Report automatically generated on 2026-08-23 23:30:07*

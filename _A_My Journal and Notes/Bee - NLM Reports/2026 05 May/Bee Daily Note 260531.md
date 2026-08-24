@@ -62,10 +62,16 @@ tags:
 - **Exploring Plaud wearable options (1:35 PM – 1:55 PM)**: Andy was researching the Plaud wearable recording device and its ecosystem after someone prompted him to turn off a TV that had been playing in the background (which featured a Keystone Cops reference). He was asking ...
 - **Testing B app transcription features (2:55 PM – 3:21 PM)**: Andy was troubleshooting and testing a voice assistant app (referred to as "B app") that he's been using to capture daily activities and transcripts. He was frustrated with several limitations: the app cannot share ra...
 - **Keys, oregano, and tech troubleshooting (3:43 PM – 4:10 PM)**: Andy and his wife Andrea were at home together in a relaxed domestic setting. They discussed organizing keys for Andrea's new office space (Suite C4), with Andy helping sort out multiple new keys including a blue-dott...
-- **Recovery meeting reflections and observations (4:44 PM – 5:50 PM)**: Andy was reflecting on his morning recovery meeting and the value of in-person fellowship. He noted that Keith flaked on a planned breakfast with Stephen, which bugged him a bit — a reminder of how he makes time for t...
 
 ### 🌙 Evening Session (5:01 PM – 11:00 PM)
+- **Recovery meeting reflections and observations (4:44 PM – 5:50 PM)**: Andy was reflecting on his morning recovery meeting and the value of in-person fellowship. He noted that Keith flaked on a planned breakfast with Stephen, which bugged him a bit — a reminder of how he makes time for t...
 - **Watching movies and political commentary (6:08 PM – 8:17 PM)**: Andy spent time at home with his partner, engaging in light domestic activities while multiple forms of media played in the background. They discussed errands including mailing a shirt and locating rechargeable batter...
+
+---
+
+## 👥 Group Gatherings & Multi-Participant Key Points
+- *No multi-participant group gatherings recorded today.*
+
 
 ---
 
@@ -137,6 +143,9 @@ Andy was troubleshooting and testing a voice assistant app (referred to as "B ap
 
 Andy and his wife Andrea were at home together in a relaxed domestic setting. They discussed organizing keys for Andrea's new office space (Suite C4), with Andy helping sort out multiple new keys including a blue-dotted one for Nevada storage and separate inside/outside keys. Andy mentioned their friend Stephen works in that building frequently. The conversation shifted to health remedies—Andrea advocated for oregano oil for an earache while Andy was more cautious about proper dilution, leading to playful teasing. Andy was also troubleshooting his Android phone, trying to edit how Andrea's contact appears and unpins from his desktop when she texts. They touched on Andy's ongoing health concerns, including a current painful condition he's monitoring (possibly shingles-related), recalling his mother's experience with widespread outbreaks and Dr. Wu's past treatments on his back. Andy mentioned he'd done some dinner prep and planned to research packing information on his computer.
 
+---
+
+### 🌙 Evening Session (5:01 PM – 11:00 PM)
 #### Recovery meeting reflections and observations — 📍 Bolinas Spring Picnic Social  @ 145 Birch Rd, Bolinas, CA 94924, USA (4:44 PM – 5:50 PM)
 *Context / Event Alignment*: Overlaps with scheduled Calendar event **Bolinas Spring Picnic Social ** @ 145 Birch Rd, Bolinas, CA 94924, USA.
 
@@ -175,9 +184,6 @@ He also noticed he'd gained a pound — no surprise given three meals plus desse
 - Background media included detailed reporting on Pentagon leaders making fitness-based ticket lists for the June 14th UFC White House event — hot weather, lighting rigs, staging on the South Lawn
 - Long documentary segment on Reagan-era economic policy: privatization, union-busting, student debt origins, racialized welfare rhetoric, "welfare queen" myth, crack vs. powder cocaine sentencing disparities
 
----
-
-### 🌙 Evening Session (5:01 PM – 11:00 PM)
 #### Watching movies and political commentary (6:08 PM – 8:17 PM)
 Andy spent time at home with his partner, engaging in light domestic activities while multiple forms of media played in the background. They discussed errands including mailing a shirt and locating rechargeable batteries. Andy tracked his steps at 5,200 and joked about his "$1.7 million bill." The bulk of the captured audio consists of ambient media consumption: political news commentary about Trump, a science/religion documentary featuring Carl Sagan-style content, a religious/secular debate from the YouTube channel "Skeptic Scriptura," a colorized classic gangster/crime film, and a Spider-Man origin story film. Andy occasionally commented on the media but was primarily focused on household tasks and conversation with his partner.
 
@@ -290,4 +296,4 @@ Andy spent time at home with his partner, engaging in light domestic activities 
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-23 06:16:20*
+*Report automatically generated on 2026-08-24 06:17:03*

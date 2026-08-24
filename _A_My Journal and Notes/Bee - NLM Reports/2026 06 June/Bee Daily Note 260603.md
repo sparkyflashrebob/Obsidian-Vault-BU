@@ -80,6 +80,33 @@ tags:
 
 ---
 
+## 👥 Group Gatherings & Multi-Participant Key Points
+#### Supporting Ryan's recovery journey (6:49 AM – 7:15 AM)
+* **Meeting Synopsis**: Andy had a phone call with his daughter Ryan while staying at an Airbnb in Joshua Tree with Andrea. Ryan is currently in a rehab/treatment program. Andy was checking in about Ryan's post-treatment plans because he's facing financial strain—he was unexpectedly asked to contribute to her program costs, and he's concerned about pressure from Ryan's mom (his ex-partner) who tends to act out of fear and will pay then resent it. Andy was frustrated that George and Katie hadn't consulted him given his 26 years of sobriety and experience navigating recovery systems. Ryan shared she's planning to attend trade school, find work, and secure an apartment rather than staying in the program for the full two months. Andy strongly encouraged her to take control of her own decisions, be the "driver" of her recovery, and not let others' fear dictate her choices. He also expressed concern that bypassing state rehab might mean missing out on free housing assistance, job training, and other support services. Ryan sounded healthy and positive—she's been going to the gym and has a good routine. Andy sent her Epictetus/Stoic material the day before as guidance. They ended on a supportive note with Andy emphasizing he's 100% behind her. After the call, Andy noted that Andrea had asked him to turn off background media, so he switched to quieter activities. He also corrected a recording note: they were discussing heating/cooling the Airbnb house in the desert, not garage talk.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "You went to the gym."
+
+#### Rehab discussion and household errands (7:21 AM – 7:39 AM)
+* **Meeting Synopsis**: Andy and Andrea discussed a woman in rehab (likely a family member) who is feeling better than she has in a long time. Andy had a direct conversation with her, assessing whether she's mentally stable and encouraging her to pursue vocational/job training rather than staying in treatment indefinitely. He emphasized setting clear boundaries about not providing indefinite support, while still being willing to help her get on her feet. They discussed financial pressures from paying for the rehab facility and the woman's limited choices about where she was placed. Andy also mentioned she didn't have a choice in where she was sent. The conversation had background TV noise, including what appeared to be a product infomercial about a dish sponge and later furniture/cleaning products. Andy was also doing something physical at the end—putting on a hood because it was hot, and later searching through supplies for nasal spray (Nasacort), listing various items he had on hand including Pepto-Bismol, Advil, hand soap, Q-tips, and masks.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "Well, that's why I put the hood this on to block it because then it was so hot."
+  * **Andrea** (Wife): Shared on "She feels better than she ever has or has in a long time."
+
+#### Fixing door and discussing politics (7:43 AM – 8:21 AM)
+* **Meeting Synopsis**: Andy and Andrea were at home doing routine maintenance tasks while following California primary election coverage on TV or radio. Andy oiled a squeaky door hinge using vegetable oil after finding their olive oil was lower quality than advertised. They discussed their upcoming Joshua Tree trip (June 2-9), with Andy noting he hoped to sleep better once there. A significant portion of the conversation involved Andy reacting to election results showing Schiff leading and Katie Porter at only 5%, with Andy expressing frustration that Porter didn't drop out sooner and potentially split the progressive vote. They also noticed a green night light in the bathroom that automatically illuminates the space. Background media included election analysis and what appeared to be a nature video featuring rabbits.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "And in the bathroom, in the middle of the night, I didn't need to worry about it because when you walk in there's a there's a green light for the so it came right on this right ..."
+  * **Andrea** (Wife): Shared on "There's some olive oil or somebody and just get a paper towel and there."
+
+#### House tour and safety concerns (8:23 AM – 8:39 AM)
+* **Meeting Synopsis**: Andy and Andrea are staying at an Airbnb in Joshua Tree (61664 Crest Circle Drive) during a trip from June 2-8, 2026. Andy was having casual conversations with family members about bathroom safety, childhood memories, and local wildlife. He expressed concern about someone (likely an older family member) safely getting in and out of bathtubs, offering use of his walk-in shower as a safer alternative. They reminisced about childhood homes, including a "hippie house" with back porch access. Andy and Andrea observed quail and other desert wildlife, with Andy noting the surprising abundance of creatures in the desert environment. The conversation touched on plans for the next day, including going out for breakfast.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "Yeah, you're gonna be at school, so you're gonna have to be school is a good thing."
+  * **Andrea** (Wife): Shared on "They're this big and long and skinny and they're running whenever you're going to secure two of them."
+
+
+---
+
 ## 📖 Detailed Subject Matter
 ### 🌅 Morning Session (7:00 AM – 12:00 PM)
 #### Supporting Ryan's recovery journey (6:49 AM – 7:15 AM)
@@ -224,4 +251,4 @@ Andy was in a casual social gathering with multiple people while staying at an A
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-23 06:16:44*
+*Report automatically generated on 2026-08-24 06:17:28*

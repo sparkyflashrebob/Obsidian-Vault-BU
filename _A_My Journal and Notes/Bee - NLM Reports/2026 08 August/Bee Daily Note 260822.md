@@ -20,7 +20,7 @@ tags:
 # Addiction Recovery: Surrender and Healing, Recovery meeting gratitude and tolerance, and Meeting attendance documentation challenges
 
 📅 **Date**: Saturday, August 22, 2026 (2026-08-22)
-👥 **Attendees**: Andrea (Wife), Andy, Unidentified Physical Speaker (Query needed)
+👥 **Attendees**: Andrea (Wife), Andrea (Wife), Andy
 📊 **Total Bee Conversations Processed**: 14
 
 ---
@@ -111,6 +111,33 @@ tags:
 ### 🌙 Evening Session (5:01 PM – 11:00 PM)
 - **Smart Home Light Adjustment (4:33 PM – 4:55 PM)**: Andy engaged in a morning conversation with household members while preparing coffee, discussing coffee preferences and ingredients. The interaction took place in the living room where Andy demonstrated his Google sma...
 - **Vision Quest Preparation Ceremony (4:56 PM – 9:06 PM)**: Andy hosted and facilitated the first vision quest preparation meeting at his home with a group of participants including Jon, Joe, and others. The session began with Andy introducing the four-direction altar setup, u...
+
+---
+
+## 👥 Group Gatherings & Multi-Participant Key Points
+#### Addiction Recovery: Surrender and Healing (7:13 AM – 7:40 AM)
+* **Meeting Synopsis**: Andy participated in an addiction recovery support group meeting, delivering a personal sharing about his 26+ years of sobriety since April 12, 2000. The conversation began with Andy asking for a moment of silence to honor a deceased friend named "Jimbo," who was also part of their recovery community. Andy then shared his personal story of addiction and recovery, discussing his challenging childhood in Riverside and Richmond, his academic success despite family chaos, and his eventual rock bottom on his 40th birthday when he attempted suicide. He emphasized the themes of surrender, meditation practice, avoiding selfish behavior, and the importance of being curious about life rather than judgmental toward others.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "But I know you better do thy will, take away my difficulties, the victory over them."
+
+#### Recovery meeting gratitude and tolerance (7:57 AM – 8:46 AM)
+* **Meeting Synopsis**: Andy participated in a 12-step fellowship meeting where he shared about his recovery journey and spiritual concepts. He discussed his belief in God as "energy and love" and emphasized themes of patience, tolerance, and not "making yourself a problem" in relationships. The meeting included discussions about newcomers and recovery challenges. Later, Andy had conversations about daily routines, sleep difficulties, meal planning, and shopping for baby shower gifts, expressing a desire to be prudent with expenses while still being generous.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "Make sure all of me now remove from me single defect character in some way my useless to you and my fellows grant me strength as I go out from here to do your baby on them"
+  * **Andrea** (Wife): Shared on "I'm going to go disgusting."
+
+#### Meeting attendance documentation challenges (8:53 AM – 9:52 AM)
+* **Meeting Synopsis**: During this conversation, Andy discussed several key topics while managing his daily routine. He addressed issues with his transcription and note-taking system, specifically noting that morning/afternoon/evening divisions that were previously included in his daily reports are no longer appearing. He provided clarification about a recent dinner with Keith and Holly, who are Andrea's parents, at a Himalayan restaurant in San Rafael, followed by a visit to their home. The conversation included practical discussions about scheduling (arranging a Tuesday 5 PM calendar entry) and logistical matters like parking structure repairs affecting his usual routes.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "We should be getting better transcripts from the plaid transcription process."
+  * **Andrea** (Wife): Shared on "Yeah.And it's naturally that, Yeah. the house and energy to give your body energy, shining body helps heal you."
+
+#### Reflecting on Life's Spiritual Purpose (9:53 AM – 10:18 AM)
+* **Meeting Synopsis**: This conversation captures Andy's reflective philosophical thinking followed by hands-on practical collaboration. The discussion opens with Andy sharing insights about spiritual practices, particularly focusing on honesty and giving to others as core principles. He explores how attitude and wisdom help navigate life's inevitable challenges without unnecessary suffering. The conversation transitions to a collaborative hardware assembly task where Andy guides Jon through assembling modular components, demonstrating methodical problem-solving and clear instructional communication.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "Yeah, I I'm I'm not here to football or the yeah, honestly that's not how it works, but that's the only main thing but I guess I mean I got a lot of I knew one, two, six but I l..."
+  * **Andrea** (Wife): Shared on "I'm talking about all"
+
 
 ---
 
@@ -297,4 +324,4 @@ Andrea hosted and facilitated the first vision quest preparation meeting at her 
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-23 09:16:59*
+*Report automatically generated on 2026-08-24 06:28:39*

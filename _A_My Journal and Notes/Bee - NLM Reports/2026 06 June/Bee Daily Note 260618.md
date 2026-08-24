@@ -78,12 +78,36 @@ tags:
 - **Discussing class participation concerns (1:27 PM – 1:35 PM)**: Andy had a conversation with a companion (likely Andrea or a close friend) about a teacher or instructor they both know. They discussed this person's tendency to talk a lot during sessions, with Andy's companion notin...
 - **Helping with tech and photos (1:43 PM – 2:20 PM)**: Andy was in a social setting with others, likely at home or a casual gathering, with ambient TV/radio playing in the background. He actively helped someone troubleshoot WiFi connectivity issues on their phone, advisin...
 - **Weight loss and furniture discussion (2:22 PM – 2:34 PM)**: Andy had a brief moment of speech while ambient media played in his environment. The background audio included what appeared to be an alternative medicine or biohacking podcast discussing energy systems (TFH, Tream, Q...
-- **Driving and dining with friends (4:50 PM – 5:57 PM)**: Andy drove with Holly and Andrea to the Richmond District in San Francisco for dinner at Dragon Beaux on Geary Street, followed by a planned visit to the Palace of the Legion of Honor for an Etruscan exhibition with a...
 
 ### 🌙 Evening Session (5:01 PM – 11:00 PM)
+- **Driving and dining with friends (4:50 PM – 5:57 PM)**: Andy drove with Holly and Andrea to the Richmond District in San Francisco for dinner at Dragon Beaux on Geary Street, followed by a planned visit to the Palace of the Legion of Honor for an Etruscan exhibition with a...
 - **House Hunting and Health Concerns (6:00 PM – 6:51 PM)**: Andy and his partner spent the day house-hunting in Sonoma, viewing a two-bedroom property with a nice patio and flowering vines but smaller bedrooms than their current place. They came close to taking it but ultimate...
 - **Watching Obama Center opening (7:06 PM – 8:33 PM)**: Andy spent time at home with Dave watching TV coverage of the Obama Presidential Center dedication ceremony in Chicago on June 19, 2026 (Juneteenth). Before turning on the TV, Andy and Dave discussed space planning fo...
 - **Watching soccer game highlights (8:36 PM – 9:18 PM)**: Andy spent time watching World Cup soccer match highlights with his partner, catching up on multiple games from June 18th including Mexico vs. South Korea and other matches. He opted to focus on key plays rather than ...
+
+---
+
+## 👥 Group Gatherings & Multi-Participant Key Points
+#### House hunting with Cynthia (10:39 AM – 11:39 AM)
+* **Meeting Synopsis**: Andy and Andrea toured a rental property at 783 Verano Avenue in Sonoma with the landlord, following a drive through the area where they initially got a bit lost navigating around Broadway, Fifth Street, and Verona Avenue. The property is a small house with two bedrooms, a walk-in shower, a sunroom (not fully permitted), a garbage room, and outdoor space with a garden area. Andy explicitly introduced himself and Andrea to the landlord, and they discussed their situation: Andrea works as a dispatcher and has a commute, while Andy is retired from a corporate engineering career and now focuses on energy healing work. They mentioned their current home is in a flood-prone area with rising costs as key reasons for moving. The landlord explained the property's history involving his mother-in-law and noted tenant responsibilities would include garbage and utilities. Andy mentioned his excellent credit rating and stable finances from Social Security and a rollover IRA. The couple left with rental applications, debating whether to commit immediately—aware another interested party viewed the property after them—or take until the next morning to decide after consulting Andrea's parents. They discussed furniture placement, including where to put their shrine, bookshelves, and pantry items, noting the kitchen has less cabinet space than their current place.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "I've got excellent credit rating."
+
+#### Searching for new home (12:44 PM – 1:23 PM)
+* **Meeting Synopsis**: Andy and his partner Andrea spent time together researching rental properties and planning their upcoming move, while also coordinating timing for a meeting with someone named Holly. They discussed packing strategies, with Andy favoring a simple box-per-room labeling system. Andy discovered his car had been scratched and was visibly frustrated. They evaluated several properties online, focusing on practical concerns like closet space, kitchen layout, bathroom size, and storage capacity—ultimately rejecting one option because the bedrooms and bathrooms were too small despite liking other features. They also researched flood zone maps for potential areas, looking at FEMA flood data for locations in Novato and Corte Madera, with particular attention to areas near Highway 37, Lucky Drive, and Edgewater Place. They noted that friends Will and Andy (different Andy) as well as Belief and Stewart live in flood-prone areas near Novato Creek. They confirmed that Nevada also experiences flooding and that the danger zone for heavy rain typically runs December through January, giving them a target window to move before then. They planned to express interest in properties without committing to immediate move-in dates, hoping to secure something for October or later.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "I'm sure he's all enough to give up the thing."
+
+#### Helping with tech and photos (1:43 PM – 2:20 PM)
+* **Meeting Synopsis**: Andy was in a social setting with others, likely at home or a casual gathering, with ambient TV/radio playing in the background. He actively helped someone troubleshoot WiFi connectivity issues on their phone, advising them to turn off WiFi to force cell service usage for photo uploads. There was lighthearted conversation about photo habits—someone (likely Andrea) taking many pictures of him, and photo booths at movie theaters. Andy also mentioned California's planned ban on "tabletop team" (likely tabletop tin/foil or a substance-related ban) due to overdose deaths. The group was watching World Cup matches, with an evening outing planned to the Palace of the Legion of Honor for the Etruscan exhibition followed by dinner at Dragon Beaux.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "This is what you want here because now you're keeping your head warm."
+
+#### Weight loss and furniture discussion (2:22 PM – 2:34 PM)
+* **Meeting Synopsis**: Andy had a brief moment of speech while ambient media played in his environment. The background audio included what appeared to be an alternative medicine or biohacking podcast discussing energy systems (TFH, Tream, Q3/Q24) and their relationship to symptoms like overheating and constipation, as well as a travel or interior design show featuring commentary on antique furniture pieces from China, Japan, and France. The calendar shows Andy had plans for June 18th to attend the Etruscan exhibit at the Palace of the Legion of Honor with others, followed by dinner at Dragon Beaux on Geary.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "So that's something that's been recently"
+
 
 ---
 
@@ -140,14 +164,14 @@ Andy was in a social setting with others, likely at home or a casual gathering, 
 
 Andy had a brief moment of speech while ambient media played in his environment. The background audio included what appeared to be an alternative medicine or biohacking podcast discussing energy systems (TFH, Tream, Q3/Q24) and their relationship to symptoms like overheating and constipation, as well as a travel or interior design show featuring commentary on antique furniture pieces from China, Japan, and France. The calendar shows Andy had plans for June 18th to attend the Etruscan exhibit at the Palace of the Legion of Honor with others, followed by dinner at Dragon Beaux on Geary.
 
+---
+
+### 🌙 Evening Session (5:01 PM – 11:00 PM)
 #### Driving and dining with friends — 📍 Palace of Legion of Honor Etruscan exhibit w folks & dinner at Dragon Beaux on Geary (4:50 PM – 5:57 PM)
 *Context / Event Alignment*: Overlaps with scheduled Calendar event **Palace of Legion of Honor Etruscan exhibit w folks & dinner at Dragon Beaux on Geary**.
 
 Andy drove with Holly and Andrea to the Richmond District in San Francisco for dinner at Dragon Beaux on Geary Street, followed by a planned visit to the Palace of the Legion of Honor for an Etruscan exhibition with another couple. The evening involved navigating parking challenges, sharing nostalgic stories about his grandmother's old neighborhood near Arguelo and Palm Streets, his past work as a vacuum repairman on Clement Street, and his time as Director of Performing Arts at San Francisco State. Over dinner, the group discussed menu items including scallops, mushrooms, garlic tea shoots, and noodle dishes while a documentary about ancient civilizations and museum collections played in the background. Andrea mentioned a recent sewer pipe replacement project visible from her apartment window, and the group discussed neighborhood changes, local stores, and a past dim sum experience using makeshift steaming methods.
 
----
-
-### 🌙 Evening Session (5:01 PM – 11:00 PM)
 #### House Hunting and Health Concerns — 📍 Palace of Legion of Honor Etruscan exhibit w folks & dinner at Dragon Beaux on Geary (6:00 PM – 6:51 PM)
 *Context / Event Alignment*: Overlaps with scheduled Calendar event **Palace of Legion of Honor Etruscan exhibit w folks & dinner at Dragon Beaux on Geary**.
 
@@ -257,4 +281,4 @@ Andy spent time watching World Cup soccer match highlights with his partner, cat
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-23 06:18:41*
+*Report automatically generated on 2026-08-24 06:19:30*

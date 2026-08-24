@@ -44,7 +44,8 @@ tags:
 
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
-- **Fidelity Investments**: `Fidelity Alerts: We couldn't complete your eBill enrollment for Pacific Gas & Electric (PG&E)` (08/22/2026 12:01 PM)
+- **Fidelity Investments** (Acc: `Summary`): **$255668.69, $25958.89** — `Fidelity Alerts: Account Summary` (08/24/2026 3:51 AM)
+- **Bank of America** (Acc: `SparkyBank`): **$7969.30** — `Your Available Balance` (08/23/2026 7:37 AM)
 
 ### ✉️ Outgoing Sent Emails & Correspondence
 - *No outgoing sent email replies or correspondence recorded today.*
@@ -109,6 +110,32 @@ tags:
 - **Philippines earthquake and tsunami alert (5:51 PM – 6:50 PM)**: Andy is at an Airbnb in Joshua Tree with Andrea and at least one other companion, preparing for their departure after a stay. The morning involves packing up food, taking out garbage, and coordinating cleanup. While d...
 - **Group gathering with diverse conversations (7:08 PM – 10:34 PM)**: Andy joined a group dinner gathering at Kitchen in the Desert in Twentynine Palms, likely connected to the "Heal at Your Own Pace" event or retreat community. The evening involved meeting new people, sharing personal ...
 - **Netflix profile mishap morning (10:47 PM – 11:20 PM)**: Andy was at the Joshua Tree Airbnb with Andrea and at least one other companion, troubleshooting a Netflix login issue where Andy accidentally deleted his own profile (including his saved "Sparky" profile and watchlis...
+
+---
+
+## 👥 Group Gatherings & Multi-Participant Key Points
+#### Receiving Trauma Healing Feedback (6:45 AM – 6:58 AM)
+* **Meeting Synopsis**: Andrea shared feedback she received during a class or therapy session, where two different students commented that her presence felt supportive during their trauma work—like she was encouraging energy to move through. She found this encouraging and somewhat soothing. Meanwhile, Andy was at their Joshua Tree Airbnb with background TV or media playing, and he briefly mistook the sound of the refrigerator making ice for a car driving on the carport.
+* **Key Points by Participant**:
+  * **Andrea** (Wife): Shared on "The two different students in class gave me feedback about my trauma and they said it felt good, I was encouraging the energy to move through."
+  * **Andy**: Shared on "Sometimes I feel that's a car driving on the carport and now I realize refrigerator you're making ice."
+
+#### Desert trip conversations (6:59 AM – 8:27 AM)
+* **Meeting Synopsis**: Andy is wrapping up a Joshua Tree Airbnb stay with Andrea and at least one other companion, packing up and coordinating departure logistics. The group discussed practical matters like lighting issues in the rental, laundry drying in the desert climate, and route planning for their exit through Yucca Valley toward Lucan Valley. Andy offered to handle cleanup and coffee prep while others were out. He also mentioned wanting to squeeze in a final late-night hot tub session before leaving. The conversation included a mix of social commentary from Andy on racism, sexism, and media culture (Kardashians, OnlyFans-type platforms), and lighter exchanges about kaiju movies with Andrea and another person.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "Yeah, I mean, it looks I mean, I think it's clean that's that's just using water out of clean yeah to clean to clean it off a little bit."
+  * **Andrea** (Wife): Shared on "It's creepy because if they just have a camera and they don't actually see that face each other, they're detached from the whole thing and they just don't care because they're g..."
+
+#### Human Common Ancestry Discussion (10:47 AM – 10:58 AM)
+* **Meeting Synopsis**: Andy listened to a podcast or educational video about mathematical genealogy while staying at his Airbnb in Joshua Tree. The content explored how mathematical models demonstrate that every human alive today shares a most recent common ancestor from approximately 3,000 years ago (between 1400 BCE and 300 BCE). Andy actively processed the information aloud, working through the timeline calculations and seeking clarification on the "identical ancestors point" (IAP) — the further-back threshold (5,000–7,400 years ago) where ancestral lineages converge so completely that everyone from that era who has living descendants is an ancestor to all present-day humans. He was particularly focused on understanding whether this model implied humans existed before this period who left no modern descendants, and how exponential ancestor doubling creates inevitable lineage overlap.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "Because 3, 000 years ago from now would be somewhere around see 22, 000, so the 1, 000-year BC would be the earliest date, correct?"
+
+#### Emergency Response Training Scenario (11:03 AM – 1:00 PM)
+* **Meeting Synopsis**: Andy was at his Airbnb in Joshua Tree, CA during his stay from June 2–9, 2026, while attending a 5-day Jin Shin Jyutsu basic seminar with Susie Plettner at the Institute of Mentalphysics. The recorded period consisted almost entirely of him consuming various media content across multiple screens or devices—rapidly hopping between genres including medical dramas, political news and commentary, sports broadcasts (track and field, baseball, boxing documentaries), music production tutorials (Ableton/tech house), true crime content, courtroom proceedings, stand-up comedy, and progressive political satire. Andy made only one brief verbal contribution during a boxing documentary about Riddick Bowe vs. Pierre Coetzer, describing Coetzer as coming "straight at you like a 2-2 train, like a fastball." The session suggests extended passive media consumption, likely while resting or doing other activities, during his retreat downtime.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "What we have here in Kutzer is a guy who comes straight at you a 2-2 train, a fastball."
+
 
 ---
 
@@ -281,4 +308,4 @@ Andy was at the Joshua Tree Airbnb with Andrea and at least one other companion,
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-23 06:17:17*
+*Report automatically generated on 2026-08-24 06:18:02*

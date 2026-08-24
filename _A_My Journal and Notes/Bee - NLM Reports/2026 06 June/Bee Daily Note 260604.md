@@ -78,13 +78,32 @@ tags:
 - **Political Discussions and Music Production (12:30 PM – 1:37 PM)**: Andy was at his Joshua Tree Airbnb during a multi-day stay (June 2–9, 2026) while attending a Jin Shin Jyutsu 5-day Basic Seminar with Susie Plettner at the Institute of Mentalphysics. The ambient recording captured b...
 - **Krishnamurti spiritual reflections and insights (3:11 PM – 4:02 PM)**: Andy spent time at his Joshua Tree Airbnb (June 2-9 stay) engaged in deep spiritual study and personal reflection. He was listening to and actively annotating Jiddu Krishnamurti lectures, specifically working through ...
 - **Testing avatar video generation (4:17 PM – 4:30 PM)**: Andy was at his Joshua Tree Airbnb experimenting with avatar/video generation technology while a science education video from "Sparky Flash Rebob" about quantum mechanics played repeatedly in the background. He set up...
-- **TV package pricing discrepancy explained (4:47 PM – 4:55 PM)**: Andy was troubleshooting a YouTube TV pricing discrepancy while at his Joshua Tree Airbnb. He noticed his bill showed $71.99 for his package, but an article referenced a $64.99 price. He queried a digital assistant to...
 
 ### 🌙 Evening Session (5:01 PM – 11:00 PM)
+- **TV package pricing discrepancy explained (4:47 PM – 4:55 PM)**: Andy was troubleshooting a YouTube TV pricing discrepancy while at his Joshua Tree Airbnb. He noticed his bill showed $71.99 for his package, but an article referenced a $64.99 price. He queried a digital assistant to...
 - **Joshua Tree trip planning (5:57 PM – 6:39 PM)**: Andy and Andrea are staying at an Airbnb in Joshua Tree with a heated pool and hot tub, attending a 5-day Jin Shin Jyutsu basic seminar with Susie Plettner at the Joshua Tree Retreat Center. During this conversation, ...
 - **Bad food and hair mystery (7:20 PM – 7:44 PM)**: Andy is on a trip to Joshua Tree with Andrea, staying at an Airbnb with a heated pool, jacuzzi, and outdoor amenities. During this ambient capture, he was engaged in casual domestic and social interactions including n...
 - **Scattered conversation about work (8:23 PM – 8:44 PM)**: This appears to be background media audio captured during Andy's stay at a Joshua Tree Airbnb (June 2–9, 2026). The transcript consists entirely of fragmented broadcast content—likely a documentary, podcast, or radio ...
 - **Troubleshooting outlet and light wiring (9:05 PM – 9:19 PM)**: Andy and Andrea were troubleshooting an electrical outlet at their Airbnb in Joshua Tree. Andy discovered that one of the outlets was tied to a light switch, meaning devices plugged into it would lose power when the s...
+
+---
+
+## 👥 Group Gatherings & Multi-Participant Key Points
+#### Restaurant inquiry and casual chat (7:01 AM – 7:33 AM)
+* **Meeting Synopsis**: Andy was at a local restaurant or café near his Joshua Tree Airbnb, inquiring about their dinner hours and menu options. He spoke with a staff member named Jeff, learning they serve burgers but not breakfast items. The environment had background media playing throughout—sports commentary, music industry discussion, and music lyrics—creating a somewhat noisy atmosphere. Andy was gathering information about dining options while staying in the area for a Jin Shin Jyutsu seminar.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "That that's better for you, sign."
+
+#### Krishnamurti spiritual reflections and insights (3:11 PM – 4:02 PM)
+* **Meeting Synopsis**: Andy spent time at his Joshua Tree Airbnb (June 2-9 stay) engaged in deep spiritual study and personal reflection. He was listening to and actively annotating Jiddu Krishnamurti lectures, specifically working through highlighted passages from "the first talk on listening and attention." He methodically processed Krishnamurti's teachings on conditioning, seeking, patience, perseverance, and "revolution of mind" — connecting them to his own meditation experiences, Buddhist practice (eight worldly winds, equanimity, sankaras), and recovery framework. He also listened to Christian Murdy birdie content and later reacted to political news about IRS/tax immunity issues. Throughout, he managed practical matters like recycling cans, drinking coffee, finishing Ricola, and doing a sinus rinse, while noting the abundance of doves in the area. He planned to transfer his Krishnamurti notes into Notebook LM from PDF.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "We have a lot of doves here today, a lot of doves in this area."
+
+#### Joshua Tree trip planning (5:57 PM – 6:39 PM)
+* **Meeting Synopsis**: Andy and Andrea are staying at an Airbnb in Joshua Tree with a heated pool and hot tub, attending a 5-day Jin Shin Jyutsu basic seminar with Susie Plettner at the Joshua Tree Retreat Center. During this conversation, they discussed dinner options in the area while navigating a stressful situation with Andy's daughter Ryan, who has relapsed and is stranded at a train station overnight. They also dealt with technical issues connecting Andrea's phone and watch, and coordinated domestic details like shower usage and pool/hot tub temperatures.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "You're Lukey, huh?"
+
 
 ---
 
@@ -138,14 +157,14 @@ Andy spent time at his Joshua Tree Airbnb (June 2-9 stay) engaged in deep spirit
 
 Andy was at his Joshua Tree Airbnb experimenting with avatar/video generation technology while a science education video from "Sparky Flash Rebob" about quantum mechanics played repeatedly in the background. He set up an avatar by capturing his head movements and recording his voice, then waited for the system to generate a second video. The ambient environment was dominated by looping social media content about quantum mechanics, which Andy briefly parodied at one point.
 
+---
+
+### 🌙 Evening Session (5:01 PM – 11:00 PM)
 #### TV package pricing discrepancy explained — 📍 Joshua Tree for JSJ 5 day Basic Seminar with Susie Plettner! @ Institute of Mentalphysics aka Joshua Tree Retreat Center, 59700 29 Palms Hwy, Joshua Tree, CA 92252, USA (4:47 PM – 4:55 PM)
 *Context / Event Alignment*: Overlaps with scheduled Calendar event **Joshua Tree for JSJ 5 day Basic Seminar with Susie Plettner!** @ Institute of Mentalphysics aka Joshua Tree Retreat Center, 59700 29 Palms Hwy, Joshua Tree, CA 92252, USA.
 
 Andy was troubleshooting a YouTube TV pricing discrepancy while at his Joshua Tree Airbnb. He noticed his bill showed $71.99 for his package, but an article referenced a $64.99 price. He queried a digital assistant to understand the difference. The assistant clarified that the lower price was a promotional rate for new subscribers (typically for the first 12 months), while Andy's higher rate reflects the standard pricing as an existing customer without promotional discounts.
 
----
-
-### 🌙 Evening Session (5:01 PM – 11:00 PM)
 #### Joshua Tree trip planning — 📍 Joshua Tree for JSJ 5 day Basic Seminar with Susie Plettner! @ Institute of Mentalphysics aka Joshua Tree Retreat Center, 59700 29 Palms Hwy, Joshua Tree, CA 92252, USA (5:57 PM – 6:39 PM)
 *Context / Event Alignment*: Overlaps with scheduled Calendar event **Joshua Tree for JSJ 5 day Basic Seminar with Susie Plettner!** @ Institute of Mentalphysics aka Joshua Tree Retreat Center, 59700 29 Palms Hwy, Joshua Tree, CA 92252, USA.
 
@@ -265,4 +284,4 @@ Andy and Andrea were troubleshooting an electrical outlet at their Airbnb in Jos
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-23 06:16:52*
+*Report automatically generated on 2026-08-24 06:17:36*

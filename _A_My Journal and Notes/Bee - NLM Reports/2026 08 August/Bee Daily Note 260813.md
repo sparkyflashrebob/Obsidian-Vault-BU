@@ -113,6 +113,30 @@ tags:
 
 ---
 
+## 👥 Group Gatherings & Multi-Participant Key Points
+#### Casual conversation about daily life (8:37 AM – 9:44 AM)
+* **Meeting Synopsis**: This conversation captures Andy throughout a day marked by health challenges, technical frustrations, and ongoing wellness practices. Andy experienced multiple physical symptoms including a sore throat, stomach ache, headache, and intestinal problems over three days that limited his activity. Despite feeling unwell, he maintained his commitment to health practices including meditation and energy work.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "Friends chatting whatever we've been."
+
+#### Report Review and Feedback Session (10:32 AM – 11:31 AM)
+* **Meeting Synopsis**: Andy spent the morning reviewing and providing detailed feedback on his automated daily report system, identifying multiple quality issues that need correction. He's frustrated with the system's tendency to miscategorize content, miss important spiritual terminology, and include inaccurate collaborator information. The session revealed ongoing health concerns including constipation, headaches, and ankle discomfort, alongside continued work on Dharma talk preparation and technical data management issues.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "Yeah, I'm still constipated and has a this is a big issue for me right now."
+
+#### Daily Report System Feedback Session (11:31 AM – 12:38 PM)
+* **Meeting Synopsis**: Andy spent this session refining his automated daily report system and clarifying the distinction between human conversations and computer interactions in his documentation. He was working on converting rough outlines into full Dharma talks, referencing his primary Buddhist teachers including Tanisaro Biku. The session involved identifying systemic issues with time-stamping in his daily notes, where activities from different times of day were being incorrectly grouped together. He also had a phone conversation with Kevin and engaged in discussions about animal empathy during pregnancy.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "Please update the attendee extraction and references to Tanisaro Biku to be"
+
+#### Personal reflections on teaching identity (1:27 PM – 2:14 PM)
+* **Meeting Synopsis**: Andy was listening to a podcast episode that combined product review content about voice transcription devices with broader discussions about meditation teaching and entrepreneurship. During the podcast, he worked on improving his CRISP reporting automation system, specifically adding template functionality for additional reflections. He had a significant internal reflection about his identity as both a meditation teacher and former engineer, expressing uncertainty about his teaching effectiveness and audience building challenges.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "Does Crisp have a phone app?"
+
+
+---
+
 ## 📖 Detailed Subject Matter
 ### 🌅 Morning Session (7:00 AM – 12:00 PM)
 #### Casual conversation about daily life (8:37 AM – 9:44 AM)
@@ -142,25 +166,6 @@ Andy spent this session refining his automated daily report system and clarifyin
 ### ☀️ Afternoon Session (12:01 PM – 5:00 PM)
 #### Audio Recording Troubleshooting Session (12:38 PM – 1:25 PM)
 Andy engaged in two distinct conversations: a meaningful philosophical discussion about friendship, giving, and Buddhist concepts of compassion, followed by technical troubleshooting of audio recording applications on his phone. The philosophical conversation explored the difference between empathy and compassion, focusing on how helping others brings personal fulfillment through "esteemable acts." The technical discussion involved resolving issues between Whisper and Tasker audio recording apps, including microphone permissions and recording functionality.
-
-# Atmosphere
-
-The conversation had two contrasting tones - a warm, reflective discussion about human connection and generosity, followed by focused technical problem-solving. The philosophical portion felt intimate and contemplative, while the technical segment demonstrated frustration but persistent troubleshooting effort.
-
-# Key Takeaways
-
-- **Philosophical Discussion**: Explored Buddhist concepts of giving and receiving, emphasizing that allowing someone to be generous toward you is itself a gift
-- **Empathy vs. Compassion**: Distinguished between feeling someone's pain (empathy) and being motivated to help (compassion)
-- **Self-Worth Through Service**: Discussed how helping others builds self-esteem through "esteemable acts"
-- **Technical Issues**: Resolving conflicts between Whisper and Tasker audio recording apps, including microphone permissions and system access
-- **Audio Testing**: Conducted live microphone testing to verify recording functionality after troubleshooting
-- **Data Management**: Cleaned up unused audio files and recordings to streamline the system
-
-# Action Items
-
-- Continue monitoring audio recording system functionality at 3 PM to verify proper operation
-- Potentially explore Pocket Pro or other wearable audio recording solutions as alternatives
-- Complete cleanup of unused audio files and ensure active recording system is working properly
 
 #### Personal reflections on teaching identity (1:27 PM – 2:14 PM)
 Andy was listening to a podcast episode that combined product review content about voice transcription devices with broader discussions about meditation teaching and entrepreneurship. During the podcast, he worked on improving his CRISP reporting automation system, specifically adding template functionality for additional reflections. He had a significant internal reflection about his identity as both a meditation teacher and former engineer, expressing uncertainty about his teaching effectiveness and audience building challenges.
@@ -196,24 +201,6 @@ Andy was unable to watch a sports game due to technical issues, which prompted h
 
 Andy was working on setting up an automated recording system and then shifted to watching/commentating on a Raiders football game. He focused on configuring recording schedules during waking hours and testing system functionality before transitioning to sports commentary.
 
-# Atmosphere
-
-Technical problem-solving mode transitioning to casual sports commentary, with Andy narrating both his technical work and the game in real-time.
-
-# Key Takeaways
-
-- Andy set up automated recording for daytime hours only (7am-11pm) instead of 24/7 recording
-- He cleaned up existing recording files on Google Drive and tested the recording functionality
-- He stopped a recording at 6:07pm and planned to start generating test data by talking extensively
-- Andy provided detailed live commentary on a Raiders football game, mentioning specific players and game progression
-- He noted the game reached halftime and planned to return to his other tasks
-
-# Action Items
-
-- Complete report fixes that were initially aborted
-- Run tests tomorrow morning using the automated recording system with actual natural data
-- Continue generating audio content during evening hours to build test data
-
 #### Customizing AI writing style conversation — 📍 Raiders PreSeason (6:23 PM – 6:33 PM)
 *Context / Event Alignment*: Overlaps with scheduled Calendar event **Raiders PreSeason**.
 
@@ -223,25 +210,6 @@ Andy was consuming news and media content while reflecting aloud on his preferen
 *Context / Event Alignment*: Overlaps with scheduled Calendar event **Raiders PreSeason**.
 
 Andy was working on content creation, specifically searching for examples of his writing that captures his natural speaking style. He was looking for a piece about relationships with friends that he mentioned as "the broken story" to potentially use for subscription content or newsletters. During this process, he encountered a "No matches" response when searching through his files, indicating he couldn't locate the specific writing example he was seeking.
-
-# Atmosphere
-
-Focused and slightly frustrated - Andy was engaged in the methodical process of content curation but running into obstacles finding the right material to showcase his authentic voice.
-
-# Key Takeaways
-
-- Andy was actively working on content creation, seeking authentic writing examples
-- He specifically wanted to find writing that sounds like his natural speaking patterns
-- The target content appears to involve friendship relationships and is titled "the broken story"
-- He was planning to use this for subscription/reader engagement content
-- His search through files/documents came up empty, requiring him to look elsewhere for the material
-- May be related to sports content based on upcoming Raiders events on his calendar
-
-# Action Items
-
-- Continue searching for "the broken story" writing example in other file locations
-- Consider creating new authentic content rather than locating existing pieces
-- Determine alternative content options for subscription material if original piece remains unavailable
 
 #### Creative development session — 📍 Raiders PreSeason (6:49 PM – 7:05 PM)
 *Context / Event Alignment*: Overlaps with scheduled Calendar event **Raiders PreSeason**.
@@ -265,23 +233,6 @@ Andy is engaged in philosophical study, specifically examining Buddhist texts ab
 
 #### Spiritual breakthrough and noble silence (9:11 PM – 9:25 PM)
 Andy engaged in a reflective monologue discussing his research on meditation practices and a recent work breakthrough. He explored concepts of "noble silence" and "second jhana" in meditation, realizing that periods of mental quiet are actually valuable meditative states rather than problems to be filled. He shared a work-related victory where he returned to an earlier approach for recordings that had initially failed, which ultimately led to success. Andy also reflected on a teaching from a vision quest experience where he got lost in bushes and had to back out the way he came. The conversation ended as Andy expressed fatigue, stating his "brain is stopping."
-
-# Atmosphere
-
-Contemplative and introspective. The tone reflects someone processing personal growth and discoveries, mixing philosophical insights with practical work challenges. There's a sense of satisfaction in both spiritual understanding and professional progress.
-
-# Key Takeaways
-
-- Andy was researching meditation concepts around "talk and vichara" and directed evaluation
-- He learned that "noble silence" during meditation is actually "second jhana" - a valuable meditative state
-- He experienced relief realizing that mental quiet during meditation is beneficial rather than problematic
-- He had a work breakthrough with recordings by returning to an earlier approach he had proposed
-- He drew connections between getting stuck in work and a vision quest experience where he had to backtrack
-- He ended the conversation expressing fatigue and mental exhaustion
-
-# Action Items
-
-- No specific action items were mentioned in this reflective session
 
 ---
 
@@ -404,4 +355,4 @@ Contemplative and introspective. The tone reflects someone processing personal g
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-23 06:26:14*
+*Report automatically generated on 2026-08-24 06:27:10*

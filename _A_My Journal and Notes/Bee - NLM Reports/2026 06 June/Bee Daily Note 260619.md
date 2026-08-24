@@ -82,6 +82,34 @@ tags:
 
 ---
 
+## 👥 Group Gatherings & Multi-Participant Key Points
+#### Searching for new apartment (6:56 AM – 7:43 AM)
+* **Meeting Synopsis**: Andy and Andrea spent a morning together making coffee, organizing books, and coordinating schedules while browsing apartment listings. They discussed decluttering their current space—consolidating duplicate books (Andy noted he has Marcus Aurelius *Meditations* "in triplicate, duplicate, quadruplet"), sorting paperwork, and deciding what to keep versus recycle. Andy mentioned his college books and Buddhist texts ($80 hardcovers he wants to retain) are in different shelves, and they're using boxes to temporarily stage items. They also reviewed upcoming calendar commitments: Andy has a radiology appointment, an Alan Watts event, and three hour-long ETF/financial education sessions he's auditing. Toward the end, they looked at San Francisco rental listings together, including a $2,600 two-bedroom near Telegraph/56th with nice ceilings and proximity to Whole Foods, and another in the "ocean view area"—though Andy noted it's more upper Mission near the 280. They also wistfully discussed ideal locations like Point Reyes/West Marin.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "How about I can move it with this or that?"
+  * **Andrea** (Wife): Shared on "all those stuff how much is that much? 2600."
+
+#### Massage business pricing advice (10:47 AM – 10:57 AM)
+* **Meeting Synopsis**: Andy was giving practical business advice to someone (likely Andrea or a companion) about starting a private practice in hands-on therapeutic work, likely massage or bodywork. He recommended beginning with an affordable rate of $50/hour, scaling up to $75–100 as the practice grows, and using a sliding scale model. He noted that the treatment he had just provided could legitimately command $80 or more. Andy suggested focusing on building clientele to fill specific days (like Fridays) to eventually replace other income sources. The conversation also touched on logistical timing around a potential move, with Andrea indicating that completing a MOOC (massive open online course) might happen before relocating.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "Yeah.I'm gonna put my my best on right now. Yeah."
+  * **Andrea** (Wife): Shared on "So probably the MOOC will come first before I get huh the move will be moving."
+
+#### Exploring Studio Rental Opportunity (11:39 AM – 12:07 PM)
+* **Meeting Synopsis**: Andy and Andrea spent time together researching and discussing a potential studio rental at 3020 Bridgeway in Sausalito for their respective practices—Andrea's healing work and Andy's meditation teaching. They explored the location via Google Maps and Street View, noting it appears to be a single-floor artist studio-type space with parking, lobby access, and bathrooms. The space is approximately 400 square feet, and they discussed a Fridays-only arrangement where Andrea could see clients and Andy might host a small evening meditation group. They strategized about pricing ($40/person), scheduling back-to-back appointments with buffer time, and promotional needs like business cards. Andrea planned to reply to the landlord describing both their practices and requesting a viewing. Andy encouraged her throughout, framing this as valuable learning experience for understanding the practical challenges of running a practice.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "Well, looks neat there, regardless."
+  * **Andrea** (Wife): Shared on "All Fridays, yeah."
+
+#### Planning open house event logistics (12:09 PM – 12:19 PM)
+* **Meeting Synopsis**: Andy was discussing work arrangement possibilities with Andrea and at least one other person, likely related to someone they know who is concerned about moving and maintaining control over their situation. The conversation centered on creative scheduling approaches—specifically setting up structured time blocks and "open door" availability rather than traditional drop-in models. Andy was actively brainstorming how this person could proactively schedule and promote their services rather than passively waiting for people to arrive, seeing it as an opportunity to introduce people to their work in a more controlled way.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "She's really concerned about moving."
+  * **Andrea** (Wife): Shared on "So that'd be neat to do it a three or four hour time block."
+
+
+---
+
 ## 📖 Detailed Subject Matter
 ### 🌅 Morning Session (7:00 AM – 12:00 PM)
 #### Searching for new apartment (6:56 AM – 7:43 AM)
@@ -238,4 +266,4 @@ Andy spent an evening watching the USA vs. Australia soccer match with Andrea, p
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-23 06:18:49*
+*Report automatically generated on 2026-08-24 06:19:38*

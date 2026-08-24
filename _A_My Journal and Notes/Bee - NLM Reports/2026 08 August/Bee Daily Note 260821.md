@@ -119,6 +119,31 @@ tags:
 
 ---
 
+## 👥 Group Gatherings & Multi-Participant Key Points
+#### Calendar Sync Failure Solutions (8:51 AM – 10:03 AM)
+* **Meeting Synopsis**: Andy engaged in a troubleshooting conversation addressing multiple technical and personal matters. The discussion covered Google Calendar synchronization issues where his "Living Mindfully meeting" was incorrectly showing on Thursdays instead of the new Friday evening schedule. He experienced problems with Gmail-based report updates and data head reports not reflecting recent changes to his schedule. Technical difficulties were also addressed with his Obsidian and GitHub integration, including issues with the AI tagger plugin and key management in Google AI Studio. On the personal front, Andy discussed health concerns including an upcoming eye doctor appointment for eye floaters and expressed discouragement about recent weight gain, balanced with positive reflection on meditation practice helping him connect with inner goodness and reduce tension.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "Incorporate this into the reports where we have this information."
+
+#### Family updates, golf, and appreciation (10:15 AM – 10:23 AM)
+* **Meeting Synopsis**: Andy recorded a personal message sharing family updates and expressing gratitude. He mentioned that Greg Jr. had a baby in June and recalled a memorable golf outing with Greg Sr. when Andy was 21-22 years old. Despite limited recent communication, Andy wanted to reach out to acknowledge Greg Sr.'s past kindness and share the recent family news. The conversation ended with warm wishes and appreciation.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "Okay, I spent a few minutes updating Shelly's extended family while her three sons, Greg Jr. , had a baby in June, and so I looked at the other ones too."
+
+#### Perps, NDAs, and Personal Gratitude (10:32 AM – 10:50 AM)
+* **Meeting Synopsis**: Andy engaged in a thoughtful conversation covering financial regulations and government transparency. He asked questions about how perp walks impact normal investors trading ETFs and stocks, and inquired about laws regarding non-disclosure agreements with public officials. The discussion shifted to personal matters where Andy expressed sincere gratitude to Jon, referring to him as "brother" and mentioning that something he did (a "love tap") was successful. Andy emphasized his appreciation for their relationship and expressed overall contentment with his life, stating he was glad he had reached out to Jon.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "How does how do perps affect normal investors who trade in EFTs and stocks?"
+  * **Jon**: Shared on "A three broke down under attack every night."
+
+#### Unique Golfing Experience with Family (10:51 AM – 10:57 AM)
+* **Meeting Synopsis**: Andy reflected on his day, sharing that reading news and connecting with family members was particularly meaningful for him. He specifically mentioned Greg Senior, who is Shelly's ex-husband, describing him as someone who has always been kind to Andy and once took him golfing - noting it was the only time Andy has ever been golfing. The tone was appreciative and conversational, suggesting these family connections were a positive highlight of his day.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "So reading the news took quite a bit of time and connecting with family members was cool."
+
+
+---
+
 ## 📖 Detailed Subject Matter
 ### 🌅 Morning Session (7:00 AM – 12:00 PM)
 #### Medicine, coffee, and football chat (7:48 AM – 8:15 AM)
@@ -393,4 +418,4 @@ This appears to be a fragmented conversation covering several topics: Andy remin
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-23 08:04:09*
+*Report automatically generated on 2026-08-24 06:28:30*

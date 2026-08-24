@@ -1,4 +1,4 @@
-**Summary:** Noel Knockwood (1932–2014) was a profoundly influential Mi'kmaq spiritual leader, human rights advocate, educator, and _Keptin_ (Captain) of the Mi'kmaq Grand Council (_Sante' Mawi'omi_). He played a central role in revitalizing traditional Indigenous spirituality in Eastern Canada during an era of intense cultural suppression, serving as a vital bridge between centuries-old oral traditions and modern institutional spaces.
+**Summary:** Noel Knockwood (1932–2014) was a profoundly influential Mi'kmaq spiritual leader, human rights advocate, educator, and _Keptin_ (Captain) of the [[Mi'kmaq]] Grand Council (_Sante' Mawi'omi_). He played a central role in revitalizing traditional Indigenous spirituality in Eastern Canada during an era of intense cultural suppression, serving as a vital bridge between centuries-old oral traditions and modern institutional spaces.
 #mi-k_maq #Msit_No_-kmaq
 ### 1. Spiritual Leadership & the Grand Council
 
@@ -18,9 +18,9 @@
 
 ### 3. Core Spiritual Teachings & Philosophy
 
-- **All My Relations (_Msit No'kmaq_):** Knockwood’s prayers consistently emphasized the foundational Mi'kmaq principle of _Msit No'kmaq_—recognizing that humans, animals, plants, waters, and the cosmos form one interconnected web of kinship with no hierarchy of domination.
+- **All My Relations (_Msit No'kmaq_):** Knockwood’s prayers consistently emphasized the foundational Mi'kmaq principle of [[_Msit No'kmaq_]]—recognizing that humans, animals, plants, waters, and the cosmos form one interconnected web of kinship with no hierarchy of domination.
     
-- **Seven Sacred Gifts:** In his teachings across schools, universities, and healing lodges, he centered personal conduct around ancestral values: Love, Respect, Courage, Honesty, Wisdom, Humility, and Truth.
+- [[**Seven Sacred Gifts:**]] In his teachings across schools, universities, and healing lodges, he centered personal conduct around ancestral values: [[Love, Respect, Courage, Honesty, Wisdom, Humility, and Truth]].
     
 - **Earth as Living Sanctuary:** His invocations, including the Four Directions prayer published in _Earth Prayers_, reflect his belief that the land is not a resource to exploit, but an animate teacher that mirrors the inner seasons of the human heart.
     
@@ -32,7 +32,7 @@
 - **Korean War Veteran:** Prior to his public spiritual career, he served with the Royal Canadian Regiment in the Korean War (1951–1952), a period that informed his later commitment to peace, reconciliation, and healing post-traumatic wounds.
 
 
-**Summary:** _Etuaptmumk_ (Two-Eyed Seeing) is a foundational guiding principle introduced by Mi'kmaq Elder Albert Marshall in 2004. It teaches us to view the world through two distinct lenses simultaneously: using one eye to see the strengths of Indigenous ways of knowing, and using the other eye to see the strengths of Western sciences and methodologies—learning to use both eyes together for the benefit of all living beings.
+**Summary:** [[_Etuaptmumk_]] ([[Two-Eyed Seeing]]) is a foundational guiding principle introduced by Mi'kmaq Elder Albert Marshall in 2004. It teaches us to view the world through two distinct lenses simultaneously: using one eye to see the strengths of Indigenous ways of knowing, and using the other eye to see the strengths of Western sciences and methodologies—learning to use both eyes together for the benefit of all living beings.
 
 ### 1. The Core Philosophy of _Etuaptmumk_
 
@@ -80,17 +80,17 @@ In contemporary contemplative and healing spaces, _Etuaptmumk_ serves as a power
 - **Epistemic Humility:** It invites modern thinkers and practitioners to step away from intellectual dominance and sit in a circle of shared wisdom, recognizing that no single culture holds a monopoly on truth.
 
 
-**Summary:** _Netukulimk_ (pronounced _ne-du-goo-lemk_) is the traditional Mi'kmaq guiding philosophy and sacred law governing how humans harvest from the natural world. It defines a sacred covenant of sustainability: taking only what is necessary for individual and community sustenance, with deep reverence, without waste, and ensuring that the integrity and abundance of creation remain intact for the next seven generations.
+**Summary:** [[_Netukulimk_]] (pronounced _ne-du-goo-lemk_) is the traditional Mi'kmaq guiding philosophy and sacred law governing how humans harvest from the natural world. It defines a sacred covenant of sustainability: taking only what is necessary for individual and community sustenance, with deep reverence, without waste, and ensuring that the integrity and abundance of creation remain intact for the next seven generations. #sustainabiliity
 
 ### 1. The Core Meaning of _Netukulimk_
 
 The Mi'kmaq Grand Council (_Sante' Mawi'omi_) formally defines _Netukulimk_ as the use of the natural bounty provided by the Creator for the self-support and well-being of the individual and the community by achieving adequate nutrition, clothing, shelter, medicine, and livelihoods:
 
-- **Sacred Limit:** It forbids greed, hoarding, exploitation, or taking anything beyond one's true needs.
+- **[[Sacred Limit]]:** It forbids greed, hoarding, exploitation, or taking anything beyond one's true needs.
     
-- **Non-Compromise:** A harvest is only legitimate if it does not impair, diminish, or compromise the natural balance and biological diversity of the ecosystem.
+- **[[Non-Compromise]]:** A harvest is only legitimate if it does not impair, diminish, or compromise the natural balance and biological diversity of the ecosystem.
     
-- **Co-Existence over Ownership:** Land, water, animals, and plants are not viewed as commodities or "natural resources" to be bought and sold, but as gifts provided by the Creator to be stewarded collaboratively.
+- **[[Co-Existence over Ownership]]:** Land, water, animals, and plants are not viewed as commodities or "natural resources" to be bought and sold, but as gifts provided by the Creator to be stewarded collaboratively.
     
 
 ### 2. The Four Pillars of the Practice
@@ -105,7 +105,7 @@ In daily life, hunting, fishing, foraging, and governance, _Netukulimk_ is enact
     
 - **Relationship (_Msit No'kmaq_):** Acting from the lived reality that all parts of creation are related kin ("All My Relations"). You do not pillage or deplete your own family.
     
-
+#responsibility #respect #reciprocity #relationship 
 ### 3. Contrasting _Netukulimk_ with Modern Resource Management
 
 |**Dimension**|**Modern Industrial Resource Model**|**Mi'kmaq Netukulimk Model**|
@@ -125,8 +125,8 @@ _Netukulimk_ is not merely an ancient concept; it forms the legal and cultural f
 - **Community-Led Fisheries and Forestry:** Modern Mi'kmaq marine and forest managers use _Netukulimk_ as an ecological standard, setting seasonal limits, protecting spawning grounds, and rejecting clear-cutting in favor of selective, regenerative practices.
 
 
-**Summary:** The **Seven Generations Principle** is an ancient philosophical and governing law originating with the _Haudenosaunee_ (Iroquois Confederacy / People of the Longhouse) via the Great Law of Peace (_Gayanashagowa_). It dictates that every major decision made today—whether social, political, or ecological—must be evaluated by its impact on the seventh generation yet unborn. It shifts human awareness from short-term personal gain to deep, multigenerational stewardship and accountability.
-
+**Summary:** The **[[Seven Generations Principle]]** is an ancient philosophical and governing law originating with the _Haudenosaunee_ (Iroquois Confederacy / People of the Longhouse) via the Great Law of Peace ([[_Gayanashagowa_]]). It dictates that every major decision made today—whether social, political, or ecological—must be evaluated by its impact on the seventh generation yet unborn. It shifts human awareness from short-term personal gain to deep, multigenerational stewardship and accountability.
+#great_law_of_peace 
 ### 1. Origins in the Great Law of Peace (_Gayanashagowa_)
 
 The foundational roots of the Seven Generations principle come from the constitution of the Haudenosaunee Confederacy (composed of the Mohawk, Oneida, Onondaga, Cayuga, Seneca, and later Tuscarora nations):
@@ -142,22 +142,22 @@ The foundational roots of the Seven Generations principle come from the constitu
 
 Rather than viewing time as a flat linear timeline, the principle places the present generation directly in the **center** of a seven-generation continuum:
 
-- **Looking Back Three Generations:** Honoring the wisdom, struggles, language, and cultural gifts handed down by **Great-Grandparents, Grandparents, and Parents**.
+- **[[Looking Back Three Generations]]:** Honoring the wisdom, struggles, language, and cultural gifts handed down by **Great-Grandparents, Grandparents, and Parents**.
     
-- **The Present Center:** The current generation living right now, acting as the responsible custodians and bridge.
+- **[[The Present Center]]:** The current generation living right now, acting as the responsible custodians and bridge.
     
-- **Looking Forward Three Generations:** Taking active responsibility for the world that will be inherited by **Children, Grandchildren, and Great-Grandchildren**.
+- **[[Looking Forward Three Generations]]:** Taking active responsibility for the world that will be inherited by **Children, Grandchildren, and Great-Grandchildren**.
     
-- **Direct Relational Span:** A person might reasonably hold their great-grandparents' hands as a child and their great-grandchildren's hands as an elder—making all seven generations an intimate, living circle of human relationship rather than an abstract future.
+- **[[Direct Relational Span]]:** A person might reasonably hold their great-grandparents' hands as a child and their great-grandchildren's hands as an elder—making all seven generations an intimate, living circle of human relationship rather than an abstract future.
     
 
 ### 3. Core Pillars in Practice and Governance
 
-- **Resource Conservatism & Restraint:** Trees are not clear-cut, waters are not fouled, and game is not over-hunted because doing so robs future generations of their basic birthright to clean air, fresh water, and fertile soil.
+- **[[Resource Conservatism & Restraint]]:** Trees are not clear-cut, waters are not fouled, and game is not over-hunted because doing so robs future generations of their basic birthright to clean air, fresh water, and fertile soil.
     
-- **Consensus-Based Decision Making:** Community deliberations take time. Fast, impulsive decisions driven by immediate financial return or convenience are seen as inherently dangerous.
+- **[[Consensus-Based Decision Making]]:** Community deliberations take time. Fast, impulsive decisions driven by immediate financial return or convenience are seen as inherently dangerous.
     
-- **Intergenerational Justice:** Inheriting an intact world without debt—ecological, financial, or moral—is considered the primary ethical test of good leadership.
+- **[[Intergenerational Justice]]:** Inheriting an intact world without debt—ecological, financial, or moral—is considered the primary ethical test of good leadership.
     
 
 ### 4. Contemporary Applications & Global Relevance
@@ -168,8 +168,8 @@ Rather than viewing time as a flat linear timeline, the principle places the pre
     
 - **Community Healing and Cultural Continuity:** Indigenous wellness initiatives use the Seven Generations framework to address intergenerational trauma—recognizing that while historical trauma may ripple forward, seven generations of intentional healing, ceremony, and language revival can permanently heal ancestral lines.
 
-**Summary:** The **Great Law of Peace** (_Gayanashagowa_) is the oral constitution of the Haudenosaunee Confederacy, established centuries before European contact. It represents one of the world’s oldest participatory democracies, pioneering a sophisticated federal system of checks and balances, individual liberties, consensus governance, and Clan Mother oversight that directly informed modern democratic principles and the structure of the U.S. Constitution.
-
+**Summary:** The **Great Law of Peace** (_[[Gayanashagowa]]_) is the oral constitution of the Haudenosaunee Confederacy, established centuries before European contact. It represents one of the world’s oldest participatory democracies, pioneering a sophisticated federal system of checks and balances, individual liberties, consensus governance, and Clan Mother oversight that directly informed modern democratic principles and the structure of the U.S. Constitution.
+#great_law_of_peace 
 ### 1. Origins and the Great Peacemaker
 
 Centuries ago, across what is now upstate New York and southeastern Canada, five sovereign nations—the **Mohawk, Oneida, Onondaga, Cayuga, and Seneca** (later joined by the **Tuscarora**)—were trapped in cycles of blood feud and warfare.
@@ -215,6 +215,6 @@ The Haudenosaunee framework provided a living, practical model of federal union 
 
 ### 4. Key Contrasts with Western Governance
 
-- **Inclusion vs. Exclusion:** In the original Haudenosaunee model, women possessed direct political power and property rights—rights denied to women in Western democracies until the 20th century.
+- **[[Inclusion vs. Exclusion]]:** In the original Haudenosaunee model, women possessed direct political power and property rights—rights denied to women in Western democracies until the 20th century.
     
-- **Earth Kinship vs. Property Ownership:** Governance under the Great Law includes an explicit duty of care to the natural world, plants, waters, and animals, rather than treating nature solely as an economic asset to be partitioned.
+- **[[Earth Kinship vs. Property Ownership]]:** Governance under the Great Law includes an explicit duty of care to the natural world, plants, waters, and animals, rather than treating nature solely as an economic asset to be partitioned.

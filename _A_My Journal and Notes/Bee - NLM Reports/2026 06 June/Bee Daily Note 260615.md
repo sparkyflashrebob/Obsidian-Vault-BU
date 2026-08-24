@@ -37,7 +37,8 @@ tags:
 
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
-- **Fidelity Investments**: `Fidelity Alerts: We couldn't complete your eBill enrollment for Pacific Gas & Electric (PG&E)` (08/22/2026 12:01 PM)
+- **Fidelity Investments** (Acc: `Summary`): **$255668.69, $25958.89** — `Fidelity Alerts: Account Summary` (08/24/2026 3:51 AM)
+- **Bank of America** (Acc: `SparkyBank`): **$7969.30** — `Your Available Balance` (08/23/2026 7:37 AM)
 
 ### ✉️ Outgoing Sent Emails & Correspondence
 - **To**: `6bbe84613efb353a87047a8cc3ef3460@hous.craigslist.org` | **Subject**: 783 Verano Avenue, Sonoma, CA 95476 (3:31 PM)
@@ -67,13 +68,39 @@ tags:
 ### ☀️ Afternoon Session (12:01 PM – 5:00 PM)
 - **House Hunting in Sonoma (3:19 PM – 4:04 PM)**: Andy and Andrea spent time together reviewing housing options in the Sonoma/Napa area while Andy also shared updates on his Social Security benefits. Andy confirmed his Social Security payments have started—he receive...
 - **Medical experience and casual chat (4:10 PM – 4:25 PM)**: Andy went downtown for what appears to be a blood draw, where he strategically prepared by staying hydrated to make his veins more accessible—an experiment that seemed to work well with the phlebotomist, an Asian woma...
-- **House Hunting Discussion (4:34 PM – 4:55 PM)**: Andy, Andrea, and at least one other person were actively house-hunting together, looking at rental listings in Northern California. They discussed several properties, including a rural Sonoma/Petaluma area cottage fo...
 
 ### 🌙 Evening Session (5:01 PM – 11:00 PM)
+- **House Hunting Discussion (4:34 PM – 4:55 PM)**: Andy, Andrea, and at least one other person were actively house-hunting together, looking at rental listings in Northern California. They discussed several properties, including a rural Sonoma/Petaluma area cottage fo...
 - **House hunting and tech trends (5:05 PM – 5:39 PM)**: Andy and Andrea discussed their ongoing housing search, with Andrea showing him a rental listing in Sonoma that featured mountain views. They weighed the trade-offs: the Sonoma house would cost $300-400 more than thei...
 - **World Cup and Wellness Chat (5:40 PM – 7:52 PM)**: Andy spent time watching World Cup soccer highlights with Andrea and possibly another person, actively commenting on matches including Spain's 0-0 draw, Belgium vs. Egypt, and Saudi Arabia's performance. They also wat...
 - **Thyroid results and deer encounter (8:46 PM – 9:01 PM)**: Andy was having a health conversation with someone at home about his thyroid condition. His thyroid reading was "off the charts" with an underactive result, requiring him to increase his medication and possibly adjust...
 - **Jin Shin Thyroid Healing Session (9:19 PM – 9:38 PM)**: Andy participated in a hands-on Jin Shin Jyutsu learning session with Andrea and at least one other person, focused specifically on energy flows for thyroid support. Andy used Gemini to research the "main central vert...
+
+---
+
+## 👥 Group Gatherings & Multi-Participant Key Points
+#### Family conflict and health concerns (8:36 AM – 8:48 AM)
+* **Meeting Synopsis**: Andy woke up preoccupied with his daughter Ryan's situation and the strain it's placing on family relationships, particularly with his ex-partner (Ryan's mother). He observed how addiction-related shame often drives wedges between family members, citing multiple cases including friends whose daughters experienced similar struggles. He planned to text his ex to share his feelings about this pattern. His morning routine includes going outside for water and a walk, plus tasks like disposing of electronics and scheduling a thyroid blood test. While outside, he had a brief interaction with neighbors or workers about parking arrangements, water lines, and carport spots—coordinating about vehicle placement and noting someone's car had been "flying" (driving fast).
+* **Key Points by Participant**:
+  * **Andy**: Shared on "Woke up this morning thinking about Ryan avoiding my situation, her situation with my mom's."
+
+#### House Hunting in Sonoma (3:19 PM – 4:04 PM)
+* **Meeting Synopsis**: Andy and Andrea spent time together reviewing housing options in the Sonoma/Napa area while Andy also shared updates on his Social Security benefits. Andy confirmed his Social Security payments have started—he received a back-payment for May and will get $3,026 monthly beginning July 15th, with regular payments on the third Wednesday of each month. He noted their combined income will be around $73,000/year, which should qualify them for significant healthcare subsidies. They looked at a specific property at 783 Verano Avenue in Sonoma, which they found charming with a sunroom, nearby Sonoma Plaza, and the Sonoma Overlook Trail within walking distance. They discussed commute logistics (about 30 minutes for Andrea via Highway 37), and Andy researched whether the property is in a floodplain using online maps. They also briefly looked at Redwood Landing in Novato as a backup option. Andy planned to reach out to the Sonoma property contact immediately.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "Hold on just a second."
+  * **Andrea** (Wife): Shared on "I haven't seen the one about Social Security."
+
+#### House Hunting Discussion (4:34 PM – 4:55 PM)
+* **Meeting Synopsis**: Andy, Andrea, and at least one other person were actively house-hunting together, looking at rental listings in Northern California. They discussed several properties, including a rural Sonoma/Petaluma area cottage for ~$3,000/month that Andy found appealing despite being $500 more than their current rent, and a Chapman Lane property in Petaluma described as a funky farmhouse-style house with a garage and French doors. They also looked at apartments in Novato and Petaluma as fallback options. Andy expressed a firm budget ceiling around $3,000 and strong preference for keeping access to their current hiking areas like Bear Valley, even if they moved. The group shared links, screened listings for pet policies, and discussed trade-offs between rural charm, square footage, commute distance, and cost.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "Yeah, I call this one too."
+  * **Andrea** (Wife): Shared on "There's no pets so they can have a pet there."
+
+#### House hunting and tech trends (5:05 PM – 5:39 PM)
+* **Meeting Synopsis**: Andy and Andrea discussed their ongoing housing search, with Andrea showing him a rental listing in Sonoma that featured mountain views. They weighed the trade-offs: the Sonoma house would cost $300-400 more than their current rent, which Andy felt was financially stretching given they "don't have endless money." They discussed commute logistics, with Andy noting the backup at Highway 37/Sears Point merge and suggesting Andrea might prefer the "back way" through Sonoma. They also touched on high tides affecting the area (tomorrow being the last day), and Andrea mentioned her positive experience commuting from Napa in the past. The conversation shifted to technology—Andy was excited about new Gemini AI features including live translation and "Project Genie," plus a Google Drive organization tool. They also discussed political concerns, with both agreeing that "him getting out of office is the most important thing in our world" and that recovery would take years. Andy reflected on Prop 13's damage to school funding, Reagan's racism, and was relieved Arnold Schwarzenegger turned out to be a better Republican governor than expected due to Kennedy family influence.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "That's what I'm saying."
+
 
 ---
 
@@ -96,12 +123,12 @@ Andy and Andrea spent time together reviewing housing options in the Sonoma/Napa
 #### Medical experience and casual chat (4:10 PM – 4:25 PM)
 Andy went downtown for what appears to be a blood draw, where he strategically prepared by staying hydrated to make his veins more accessible—an experiment that seemed to work well with the phlebotomist, an Asian woman who had better success than previous technicians. He and a companion discussed cucumber mint drinks afterward. Later, Andy reacted to a news broadcast about a B-52 bomber crash at Edwards Air Force Base with fatalities, commenting on the severity of the destruction.
 
-#### House Hunting Discussion (4:34 PM – 4:55 PM)
-Andy, Andrea, and at least one other person were actively house-hunting together, looking at rental listings in Northern California. They discussed several properties, including a rural Sonoma/Petaluma area cottage for ~$3,000/month that Andy found appealing despite being $500 more than their current rent, and a Chapman Lane property in Petaluma described as a funky farmhouse-style house with a garage and French doors. They also looked at apartments in Novato and Petaluma as fallback options. Andy expressed a firm budget ceiling around $3,000 and strong preference for keeping access to their current hiking areas like Bear Valley, even if they moved. The group shared links, screened listings for pet policies, and discussed trade-offs between rural charm, square footage, commute distance, and cost.
-
 ---
 
 ### 🌙 Evening Session (5:01 PM – 11:00 PM)
+#### House Hunting Discussion (4:34 PM – 4:55 PM)
+Andy, Andrea, and at least one other person were actively house-hunting together, looking at rental listings in Northern California. They discussed several properties, including a rural Sonoma/Petaluma area cottage for ~$3,000/month that Andy found appealing despite being $500 more than their current rent, and a Chapman Lane property in Petaluma described as a funky farmhouse-style house with a garage and French doors. They also looked at apartments in Novato and Petaluma as fallback options. Andy expressed a firm budget ceiling around $3,000 and strong preference for keeping access to their current hiking areas like Bear Valley, even if they moved. The group shared links, screened listings for pet policies, and discussed trade-offs between rural charm, square footage, commute distance, and cost.
+
 #### House hunting and tech trends (5:05 PM – 5:39 PM)
 Andy and Andrea discussed their ongoing housing search, with Andrea showing him a rental listing in Sonoma that featured mountain views. They weighed the trade-offs: the Sonoma house would cost $300-400 more than their current rent, which Andy felt was financially stretching given they "don't have endless money." They discussed commute logistics, with Andy noting the backup at Highway 37/Sears Point merge and suggesting Andrea might prefer the "back way" through Sonoma. They also touched on high tides affecting the area (tomorrow being the last day), and Andrea mentioned her positive experience commuting from Napa in the past. The conversation shifted to technology—Andy was excited about new Gemini AI features including live translation and "Project Genie," plus a Google Drive organization tool. They also discussed political concerns, with both agreeing that "him getting out of office is the most important thing in our world" and that recovery would take years. Andy reflected on Prop 13's damage to school funding, Reagan's racism, and was relieved Arnold Schwarzenegger turned out to be a better Republican governor than expected due to Kennedy family influence.
 
@@ -211,4 +238,4 @@ Andy participated in a hands-on Jin Shin Jyutsu learning session with Andrea and
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-23 06:18:18*
+*Report automatically generated on 2026-08-24 06:19:06*

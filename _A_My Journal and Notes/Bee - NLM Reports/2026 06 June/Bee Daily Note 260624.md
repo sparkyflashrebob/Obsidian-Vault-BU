@@ -85,6 +85,33 @@ tags:
 
 ---
 
+## 👥 Group Gatherings & Multi-Participant Key Points
+#### Emotional breakup conversation (9:11 AM – 10:41 AM)
+* **Meeting Synopsis**: Andy had a tense, emotional phone call with a close partner (likely Andrea) about relationship volatility and indecision. He expressed frustration at being "pulled around" and kept "in limbo," stating the back-and-forth was too much for him. He mentioned taking inventory of their belongings for potential flood damage and refused to invest more effort until decisions were finalized. The call ended with "I love you too. Bye." Following this, Andy dictated notes about organizing a mind map by key areas and source groupings for a research or study project. The remainder of the recording consisted of extensive background media playing in his environment, including NBA mock draft analysis, a boxing documentary about "Skye," an AOC town hall confrontation video, looped election integrity news coverage, a political speech on revolutionary politics and Black history, a football quarterback interview, a medical explainer by "Dr. Eric" about blood pressure medications, and a Northern California earthquake report (magnitude ~5.4 near Willits with Bay Area shake alerts).
+* **Key Points by Participant**:
+  * **Andy**: Shared on "This is too much for me to go through back and forth and get pulled around."
+
+#### Moving day with back pain (3:18 PM – 3:45 PM)
+* **Meeting Synopsis**: Andy and Andrea were actively packing and preparing their home for a bed delivery scheduled for 5:30–7:30 PM, having rescheduled from an earlier time. Andy's back went out while breaking down their bed frame—he accidentally broke a piece while trying to collapse it, with screws coming loose and a side piece breaking off. He had it roped down for easier carrying. The bedroom was in disarray and not worth entering. Andrea was emotionally overloaded and expressed she had been feeling that way for a while. Andy stated he was done putting effort toward something they were discussing, and didn't want to talk about it further. They discussed which books to keep, agreeing to hold onto recovery books; Andy noted he had multiple copies and Kindle versions. Andy had skipped Tai Chi that day to wait for the delivery. He also mentioned looking at rentals in Hilo, Hawaii, where houses were $2,100–2,500 for 3BR/2BA, joking he'd have to quit his job and commute from there. Background TV included news/weather broadcasts and what appeared to be a real estate or house-hunting show, which Andy was verbally reacting to.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "-oh.It's lightning flute."
+  * **Andrea** (Wife): Shared on "Okay.Is it what part of it, your lower back?"
+
+#### Meal kit subscription stress (3:51 PM – 4:13 PM)
+* **Meeting Synopsis**: Andy and Andrea were in a household setting working through practical decisions together. They spent time comparing meal kit delivery services (including "chef," "purple," and "home chef"), with Andy expressing frustration about subscription pricing—particularly a $53/week auto-renewal that would total roughly $200/month. He felt locked into commitments before being able to see menus. They eventually settled on trying a service with a discounted first week.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "yeah, they want of course everybody's wanna see the pay."
+  * **Andrea** (Wife): Shared on "Oh, and then there was that one that was weird, but the food was really good."
+
+#### Watching sports and news (4:15 PM – 7:08 PM)
+* **Meeting Synopsis**: Andy spent time with Andrea and others in the household on June 24, 2026, while a new bed was being delivered that evening. They sorted through books together, deciding what to keep and give away, including a semantics book, Eleanor Hannah's books, and various Native American story collections. Andy shared mindfulness techniques for muscle pain and discussed his collected Native American stories including "How Coyote Got His Name" from the Oconogon/Lake Band and Shasta/Karuk creation stories. They also discussed Andrea's father wanting to take her to lunch after his medical treatment the next day.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "You talk to your to Aunt Melissa?"
+  * **Andrea** (Wife): Shared on "We were talking about in class, and Brennan already had it. Oh."
+
+
+---
+
 ## 📖 Detailed Subject Matter
 ### 🌅 Morning Session (7:00 AM – 12:00 PM)
 #### Market Analysis on Iran Negotiations (8:27 AM – 8:36 AM)
@@ -260,4 +287,4 @@ Andy spent time with a companion at home, sharing stories and watching various m
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-23 06:19:29*
+*Report automatically generated on 2026-08-24 06:20:20*

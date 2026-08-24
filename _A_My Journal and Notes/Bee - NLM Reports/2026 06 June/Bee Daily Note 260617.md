@@ -75,6 +75,26 @@ tags:
 
 ---
 
+## 👥 Group Gatherings & Multi-Participant Key Points
+#### Scheduling meeting and sharing credit info (9:14 AM – 9:32 AM)
+* **Meeting Synopsis**: Andy scheduled a Thursday morning appointment for 11 AM–12 PM to view a property at 783 Robinson Street in Sonoma, coordinating with a contact whose caller ID shows as "Tenthy out." He planned to bring his wife Andrea, who is off work that day, though they have a later event with her parents. He noted the timing works well for traffic patterns. The property appears to have a driveway going to the back, which they briefly discussed. Andy also prepared to send financial documentation to Peter, a financial professional, including a credit score snapshot. He mentioned his retirement income sources (Social Security and a self-managed retirement account), Andrea's full-time work schedule (four days a week), and was working through verifying his credit score notice settings.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "Your c comes up as Tenthy out. Yeah. Yeah, no problem."
+
+#### Catching up with old friend (10:09 AM – 11:35 AM)
+* **Meeting Synopsis**: Andy had a long, wide-ranging visit with his longtime friend Dave in Mill Valley. They went for a walk around the neighborhood, discussing Andy's recent retirement, house-hunting with Andrea in Sonoma, financial planning strategies, health challenges, and their shared history in recovery and meditation communities. Dave showed Andy how to use voice notes and Google Notebook LM on his phone to help with memory and organization. They also discussed family dynamics, political concerns, and made plans to stay in better touch going forward.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "So I figure out I'll let you ask so hands off two different kinds."
+
+#### Comedy show ticket prices (10:49 PM – 10:57 PM)
+* **Meeting Synopsis**: Andy and Andrea discussed upcoming comedy shows in the area, with Andrea mentioning that Cliff Cash would be performing in Sonoma in July. Andy expressed sticker shock at current comedy ticket prices, having researched several comedians including Joss Johnson and found them too expensive for his budget. He contrasted this with their past Simple Minds concert, which they paid about $82 per ticket for after fees. Andy's threshold seems to be around $100-125 for entertainment, noting that Sonoma isn't Vegas and he needs to be selective about which shows to attend.
+* **Key Points by Participant**:
+  * **Andrea** (Wife): Shared on "I'm going to Cliff Cash is going to be in Sonoma in July."
+  * **Andy**: Shared on "I looked at the prices at all those comedy comedians."
+
+
+---
+
 ## 📖 Detailed Subject Matter
 ### 🌅 Morning Session (7:00 AM – 12:00 PM)
 #### Weight loss and daily check-in (6:25 AM – 6:35 AM)
@@ -213,4 +233,4 @@ Andy and Andrea discussed upcoming comedy shows in the area, with Andrea mention
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-23 06:18:33*
+*Report automatically generated on 2026-08-24 06:19:22*

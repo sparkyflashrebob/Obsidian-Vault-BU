@@ -22,14 +22,14 @@ Before we start -- some housekeeping.
 Land Acknowledgment: 
 
 I'd like to begin by acknowledging that I am on ancestral Coast Miwok/Ohlone territory.
-And I like to  do this to formally to recognize and to honor the indigenous communities who originally stewarded the land where this virtual meeting is taking place.  
+And I like to  do this to formally to recognize and to honor the indigenous communities who originally stewarded the land where this virtual meeting is taking place for me.  
 I extend this welcome to you from wherever you are and your perspective environment.  
 
 We have a few Basic Group Agreements other than using common courtesy that I would like to remind ourselves of. 
 
 It is my hope that what is shared in the room stays in the room to preserve privacy and trust. We would like this to be a safe space for everyone regardless of background or identity and this helps.
 
-We should try to speak from our own personal experience whenever possible and also refrain from giving advice unless explicitly asked for. 
+We should try to speak from our own personal experience whenever possible and to refrain from giving advice unless explicitly asked for. 
 
 This meeting is not intended to define right or wrong or to debate but to raise topics of spiritual value for us to use in our lives. 
 

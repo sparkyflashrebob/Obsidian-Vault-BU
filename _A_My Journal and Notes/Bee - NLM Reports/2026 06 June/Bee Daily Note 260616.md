@@ -72,6 +72,27 @@ tags:
 
 ---
 
+## 👥 Group Gatherings & Multi-Participant Key Points
+#### Watching World Cup with others (3:25 PM – 5:58 PM)
+* **Meeting Synopsis**: Andy spent time with Andrea watching recorded World Cup soccer matches, including France vs. Senegal and Iraq vs. Norway, while simultaneously managing household logistics and discussing their upcoming move. The day involved physical therapy exercises for neck/thyroid area, coordinating medical appointments, and navigating frustrations around vitamin scheduling and lab work timing. Andy also actively tracked political news, discussing the Iran nuclear deal terms (14-point memorandum brokered by Vance), and the Patel FBI whistleblower story. They discussed simplifying their lifestyle, eating habits, and grocery shopping options near their potential new place, including Molly Stone's acquisition of United Market stores and Cardano's market. Andy mentioned buying an Ohlone indigenous history book for his research notebook and planned to swap out their flag for a Buddhist or UN flag at the new place.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "How am I supposed to do it?"
+  * **Andrea** (Wife): Shared on "I was gonna do the other one, there's twenty-two right here at the base of the collar."
+
+#### Watching World Cup with friends (6:01 PM – 8:08 PM)
+* **Meeting Synopsis**: Andy spent the day with Andrea, starting with a walk in their neighborhood where they met and chatted with neighbors Melinda, Edward, and Ivan about local wildlife including pheasants, hawks, coyotes, deer, and otters. They discussed flooding patterns near Silver Street and exchanged observations about the area. Later, Andy participated in some kind of physical wellness activity with Andrea involving hand positioning exercises, during which he experienced discomfort and sweating. The majority of the day was spent watching the World Cup, specifically Argentina vs. Algeria on Telemundo in Spanish, which frustrated Andy as he struggled to get English captions working through Google Assistant and considered trying Gemini Live Translate. He and Andrea watched Messi score multiple goals and discussed soccer traditions like fan chanting. The evening news came on afterward, covering a tragic ocean drowning in Santa Cruz County and other stories.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "Okay, sweetie, you've got your line your logic and reasoning is working when I'm having a very preserved stomach, you've got right."
+  * **Andrea** (Wife): Shared on "And you want the pad of the thumb to be over your ring fingernail which you can do that."
+
+#### Thyroid test results discussion (10:40 PM – 10:51 PM)
+* **Meeting Synopsis**: Andy and Andrea discussed Andy's recent thyroid lab results, which showed elevated TSH with normal T3 and T4 levels—indicating subclinical hypothyroidism. Andy read and explained the medical information from his Google Drive, interpreting it as a mild/borderline underactive thyroid that likely requires a medication adjustment. He also identified a potential contributing factor: new vitamins he's been taking may be interfering with his thyroid medication absorption, and he decided to stop taking them with his medication and instead take them with food. He's waiting for his doctor's response before making further changes. They also briefly touched on Andy's ongoing weight concerns and his frustration with feeling mentally sluggish.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "So my results are actually my TSH is high and the T3 and the T4 are normal."
+
+
+---
+
 ## 📖 Detailed Subject Matter
 ### 🌅 Morning Session (7:00 AM – 12:00 PM)
 #### Medical results and housing plans (8:26 AM – 8:50 AM)
@@ -222,4 +243,4 @@ Andy and Andrea discussed Andy's recent thyroid lab results, which showed elevat
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-23 06:18:26*
+*Report automatically generated on 2026-08-24 06:19:14*

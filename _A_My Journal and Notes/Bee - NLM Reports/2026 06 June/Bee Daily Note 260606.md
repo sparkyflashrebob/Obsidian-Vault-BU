@@ -39,7 +39,8 @@ tags:
 
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
-- **Fidelity Investments**: `Fidelity Alerts: We couldn't complete your eBill enrollment for Pacific Gas & Electric (PG&E)` (08/22/2026 12:01 PM)
+- **Fidelity Investments** (Acc: `Summary`): **$255668.69, $25958.89** — `Fidelity Alerts: Account Summary` (08/24/2026 3:51 AM)
+- **Bank of America** (Acc: `SparkyBank`): **$7969.30** — `Your Available Balance` (08/23/2026 7:37 AM)
 
 ### ✉️ Outgoing Sent Emails & Correspondence
 - **To**: `hi@bee.computer` | **Subject**: Bee Feedback (6:29 AM)
@@ -101,13 +102,40 @@ tags:
 ### ☀️ Afternoon Session (12:01 PM – 5:00 PM)
 - **Political News Briefing (12:27 PM – 12:36 PM)**: Andy was listening to a political news podcast or broadcast while staying at his Airbnb in Joshua Tree. The program covered several topics: Donald Trump's displeasure about someone not attending a UFC event on the Whi...
 - **Busy Saturday Breakfast Observations (12:48 PM – 1:51 PM)**: Andy was at a busy restaurant or café in the Palm Springs area on a Saturday, observing the lively tourist and local scene while on a phone call. He noted an interesting fellow who sat next to him—someone who pointed ...
-- **Reflecting on political transformation videos (4:51 PM – 4:53 PM)**: Andy recorded a personal note while staying at his Airbnb in Joshua Tree, summarizing several politically and socially heavy videos he watched earlier in the day. He mentioned content from David Brooks on a "civilizat...
 
 ### 🌙 Evening Session (5:01 PM – 11:00 PM)
+- **Reflecting on political transformation videos (4:51 PM – 4:53 PM)**: Andy recorded a personal note while staying at his Airbnb in Joshua Tree, summarizing several politically and socially heavy videos he watched earlier in the day. He mentioned content from David Brooks on a "civilizat...
 - **Discussing government conspiracy theories (5:59 PM – 6:26 PM)**: Andy was traveling with his partner Andrea in Joshua Tree, navigating local streets while discussing several videos he had recently watched. The main focus was a detailed research video by "Dre Dossier" investigating ...
 - **Video discussion with Andy (6:31 PM – 6:50 PM)**: Andy was watching a video at his Joshua Tree Airbnb (staying at 61664 Crest Circle Drive through June 9th). The video appeared to be conspiracy-themed content about government controls, underground bunkers, and record...
 - **Discussing LA and Bay Area (7:01 PM – 7:23 PM)**: While at his Joshua Tree Airbnb, Andy was listening to a lifestyle interview or podcast about city living (LA, Toronto, Salt Lake City, Bay Area) while simultaneously engaging in casual conversation and activities aro...
 - **Watching crime show together (7:24 PM – 8:54 PM)**: Andy was at his Airbnb in Joshua Tree with Andrea, spending the evening watching television together. They were viewing and discussing a mix of content including a crime drama (with characters Helen, Rachel, Marianne,...
+
+---
+
+## 👥 Group Gatherings & Multi-Participant Key Points
+#### Energy healing class reflections (6:20 AM – 7:12 AM)
+* **Meeting Synopsis**: Andy is at a Jin Shin Jyutsu (JSJ) 5-day basic seminar at the Joshua Tree Retreat Center with Andrea, staying at an Airbnb nearby. The conversation captures them processing their experiences from the training, with Andy expressing frustration about his ambient recording app generating wildly inaccurate biographical "facts" about him (claiming he traveled during the Iran war, had colleagues named Kira and Dylan, etc.). The core of their discussion centers on Andrea's discomfort with how the JSJ instructor shushed her when she mentioned having a pacemaker, and their shared reflections on maintaining spiritual groundedness, the eight worldly winds, and what constitutes respectful energy work practice. They discuss how some practitioners talk during treatments rather than working in silence, and how to subtly reinforce better practices through positive feedback.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "Yes.They gave me two."
+  * **Andrea** (Wife): Shared on "Things you're the Army Corps of Engineers or you're in the military."
+
+#### Helping with Notebook LM setup (7:13 AM – 7:31 AM)
+* **Meeting Synopsis**: While staying at an Airbnb in Joshua Tree, Andy helped Andrea set up **Notebook LM** (Google's AI note-taking tool) to organize her class materials. Andrea's instructor was going to share class slides, and Andy offered to convert them to PDF and upload them as sources in Notebook LM. He walked through how to query specific sources within the tool, including referencing source #34, and noted that Andrea was focusing on "ED" (likely a course topic or specialization). The conversation happened with sports commentary playing in the background.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "When you get those slides, I can turn them to PDF and put them in a notebook LM for you if you want to."
+  * **Andrea** (Wife): Shared on "Not right now, but I did it when we were at home."
+
+#### Dinner planning miscommunication (7:46 AM – 7:54 AM)
+* **Meeting Synopsis**: Andy and Andrea had a tense conversation about coordinating a group dinner reservation during their Joshua Tree trip. Andy was frustrated that Andrea hadn't confirmed who was attending dinner, putting him at risk of losing a $25 per person deposit. Andrea explained she had breaks throughout the day to check with people but hadn't checked her phone earlier when Andy first asked. Andy felt Andrea's plan to ask people individually during breaks was different from what he'd understood and less efficient than a simple group message. He pressed for urgency since the restaurant would charge him regardless, and ultimately suggested Andrea's group could make their own arrangements if they couldn't confirm soon.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "Okay, 'cause I I I I guess you don't want to speak up loud, but it would be easier if you would just do it out loud."
+  * **Andrea** (Wife): Shared on "We have breaks throughout the day."
+
+#### Restaurant reservation and body scan meditation (9:22 AM – 9:38 AM)
+* **Meeting Synopsis**: While walking outdoors in Joshua Tree, Andy handled restaurant reservation logistics by calling and texting to modify a reservation from OpenTable, trying to reduce the party size to six and potentially move the time earlier. He then reflected on maintaining awareness and equanimity while managing practical tasks, noticing his surroundings including many dogs (initially misidentified as pigeons). During this time, he was also listening to a guided meditation or body scan recording that moved through physical sensation inventory—nerve pain, neck and shoulder tension, itching, release—and environmental imagery of desert warmth and wind, concluding with a "Fantasy story" segment.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "Find a reservation in the open table."
+
 
 ---
 
@@ -161,14 +189,14 @@ Andy was listening to a political news podcast or broadcast while staying at his
 
 Andy was at a busy restaurant or café in the Palm Springs area on a Saturday, observing the lively tourist and local scene while on a phone call. He noted an interesting fellow who sat next to him—someone who pointed at the menu rather than speaking, and was reading on his phone. Andy mentioned the place was packed with a "whole different crew" than usual, likely due to weekend tourists getting out of town, reminiscent of how people used to go to Big Bear. He was coordinating plans to meet someone around 5:45 PM to avoid waiting in the car for twenty minutes, not wanting to arrive too early and feel like he was interrupting anything. The ambient environment included extensive background media: a track and field broadcast featuring Quincy Wilson's record-breaking 400m race, a *House M.D.* episode with Dr. Philip Weber, a congressional hearing with inflation polling exchanges, the 1996 film *The Substitute*, and a lengthy true crime documentary about the 1982 cold case murder of Karen Stitt and the 2022 arrest of Gary Gene Ramirez in Hawaii.
 
+---
+
+### 🌙 Evening Session (5:01 PM – 11:00 PM)
 #### Reflecting on political transformation videos — 📍 Joshua Tree for JSJ 5 day Basic Seminar with Susie Plettner! @ Institute of Mentalphysics aka Joshua Tree Retreat Center, 59700 29 Palms Hwy, Joshua Tree, CA 92252, USA (4:51 PM – 4:53 PM)
 *Context / Event Alignment*: Overlaps with scheduled Calendar event **Joshua Tree for JSJ 5 day Basic Seminar with Susie Plettner!** @ Institute of Mentalphysics aka Joshua Tree Retreat Center, 59700 29 Palms Hwy, Joshua Tree, CA 92252, USA.
 
 Andy recorded a personal note while staying at his Airbnb in Joshua Tree, summarizing several politically and socially heavy videos he watched earlier in the day. He mentioned content from David Brooks on a "civilizational moment," Arthur Neo Howe on America's looming civic transformation, and "the grey/dre dossier" covering disturbing topics including secondvote.gov and connections to Trump's ballroom. He noted he was about to return to watching more YouTube videos on these subjects. He also expressed ongoing frustration with his recording app's tendency to hallucinate, explaining why he had been trying to pause it.
 
----
-
-### 🌙 Evening Session (5:01 PM – 11:00 PM)
 #### Discussing government conspiracy theories — 📍 Joshua Tree for JSJ 5 day Basic Seminar with Susie Plettner! @ Institute of Mentalphysics aka Joshua Tree Retreat Center, 59700 29 Palms Hwy, Joshua Tree, CA 92252, USA (5:59 PM – 6:26 PM)
 *Context / Event Alignment*: Overlaps with scheduled Calendar event **Joshua Tree for JSJ 5 day Basic Seminar with Susie Plettner!** @ Institute of Mentalphysics aka Joshua Tree Retreat Center, 59700 29 Palms Hwy, Joshua Tree, CA 92252, USA.
 
@@ -310,4 +338,4 @@ Andy was at his Airbnb in Joshua Tree with Andrea, spending the evening watching
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-23 06:17:08*
+*Report automatically generated on 2026-08-24 06:17:52*

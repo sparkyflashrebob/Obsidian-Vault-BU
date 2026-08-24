@@ -74,15 +74,43 @@ tags:
 - **Planning wellness treatment visit (1:15 PM – 1:29 PM)**: Andy and Andrea were discussing an upcoming healing/bodywork session with a client named Deborah, who appears to be an older woman with balance issues and bruising on her forearms. Andrea had previously worked with De...
 - **Catching up with friend (2:51 PM – 3:20 PM)**: Andy had a phone call with a friend while getting ready to head out with Andrea. They discussed his ongoing house hunt in Petaluma/Novato, driven by recent king tide flooding at his current Marin County home. Andy sha...
 - **Apartment hunting tour (3:55 PM – 4:50 PM)**: Andy and Andrea toured The Grove Lux Apartments in Petaluma with leasing agent Maya. They explored multiple unit types including flats and townhomes, discussing pricing, availability, amenities, and layout suitability...
-- **Club visit and Sonoma plans (4:57 PM – 5:22 PM)**: Andy was in a casual social or retail environment, likely in or near Illano/Sonoma, having lighthearted, fragmented interactions with people around him. He discussed his housing situation in Sonoma, mentioning he and ...
 
 ### 🌙 Evening Session (5:01 PM – 11:00 PM)
+- **Club visit and Sonoma plans (4:57 PM – 5:22 PM)**: Andy was in a casual social or retail environment, likely in or near Illano/Sonoma, having lighthearted, fragmented interactions with people around him. He discussed his housing situation in Sonoma, mentioning he and ...
 - **Casual gathering with friends (5:25 PM – 6:28 PM)**: Andy was in a social setting with multiple people—likely a casual gathering or party with food, drinks, and ambient media playing throughout. He engaged in scattered conversations about movies, TV shows, sports, local...
 - **Family updates and new home search (7:10 PM – 7:27 PM)**: Andy participated in a community gathering with fellow members of his spiritual community (active since 2008). He shared several personal updates: his partner recently had an ultrasound revealing the baby's gender, an...
 - **House hunting and environmental concerns (7:27 PM – 8:06 PM)**: Andy was in a social setting with others, likely at a gathering or casual meetup in the Petaluma area, with background media playing throughout. The conversation covered several topics: recent dinner with someone name...
 - **Group sharing personal life experiences (8:09 PM – 8:28 PM)**: Andy and Andrea discussed her interest in teaching people self-help bodywork techniques, specifically Jin Shin Jyutsu (referred to as "Jinchen"), emphasizing how people can use their own hands to help themselves when ...
 - **Retirement and recovery reflections (8:39 PM – 9:21 PM)**: Andy participated in a recovery/support group meeting where he shared extensively about his retirement, sobriety journey, and personal philosophy. He reflected on leaving his corporate career due to burnout and feelin...
 - **Watching science show together (9:36 PM – 10:14 PM)**: Andy spent time at home with his partner Andrea, interleaving domestic tasks and conversation with significant media consumption. They discussed ongoing moving logistics, including whether to keep items in storage or ...
+
+---
+
+## 👥 Group Gatherings & Multi-Participant Key Points
+#### Discussing TV show plot twists (6:51 AM – 7:32 AM)
+* **Meeting Synopsis**: Andy binge-watched all three episodes of a crime thriller/mystery series and was enthusiastically recounting the complex, twist-filled plot to Andrea and at least one other person in the household. The show involved a reporter ("Valkyrie"), mean girls, sister dynamics, a boat accident, a rape revenge plot, and a major twist where the mother was revealed to be the true killer—having faked dementia and systematically murdered those who failed to help her daughter. The conversation then shifted to housing logistics, with Andy and Andrea discussing their ongoing rental search in the Sonoma/Napa area, specifically comparing properties: "The Grove" (with a gym, spacious layout, quick freeway access), "Marion Park," and a house option with three bedrooms but located further out of town. They discussed commute practicalities, internet availability concerns, and trade-offs between modern amenities and space.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "I finished at his and hers. Yeah."
+  * **Andrea** (Wife): Shared on "So I thought that the partner had shot Valkyrie in it, so with Lesbian that had been shot."
+
+#### Apartment hunting with Andrea (8:01 AM – 8:19 AM)
+* **Meeting Synopsis**: Andy and Andrea were actively reviewing a rental listing together, likely on a screen Andy was sharing. Andy walked through the floor plan in detail, comparing it to their current living situation and mapping out where their furniture would go. He noted the layout would be a "mirror image" of what they have now, with space for their couch, his chair, TV, and shrine. The unit has two bedrooms, a large living room, and one bathroom with a dual sink. Andy pointed out that the smaller bedroom would work well as an office. They discussed doing an in-person walkthrough to confirm their belongings would fit. Andy also shared that he used to live nearby on 4th Street in a recovery house and was familiar with the commute, which would involve only about 10 minutes on the freeway during peak traffic. He mentioned having three properties under consideration, with one yet to respond. Andrea was simultaneously searching for additional spaces and noted she was finding more options for "Sabah" as well.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "You get it all I am."
+  * **Andrea** (Wife): Shared on "I'm finding some more interesting, I'm finding more spaces for Sabah too."
+
+#### Ordering items discussing police shooting (8:21 AM – 8:31 AM)
+* **Meeting Synopsis**: Andy and Andrea were coordinating about ordering more of an item—likely something they were running low on, with Andy thinking he had one left in the car. Andrea had already placed an order and was jokingly self-deprecating about how many she got. Andy then brought up a news story about a police shooting at a Mississippi Walmart where officers fired into a car during a reported shoplifting of diapers, killing a one-year-old baby. He expressed bitter sarcasm about the incident, framing it as corporate property being prioritized over human life.
+* **Key Points by Participant**:
+  * **Andrea** (Wife): Shared on "Can you recall if I can have four or five?"
+  * **Andy**: Shared on "I think I have one left, so I should order one too. Yeah."
+
+#### Financial freedom and life changes (8:38 AM – 9:02 AM)
+* **Meeting Synopsis**: Andy had a wide-ranging conversation with Andrea and other household members touching on financial planning, class inequality, moving preparations, and personal well-being. He reflected on how his ex-wife had educational resources available during their time in Oakland but didn't take advantage of them until after their divorce, using this as a springboard to discuss how wealth enables life choices that poor people simply don't have. He detailed his tax strategy of putting Social Security payments into a traditional IRA to stay in a lower tax bracket and reduce taxable income. The group discussed maintaining momentum on their house-hunting efforts rather than losing energy after a move, with Andy noting he's in "foot soldier mode" doing the practical work. Andrea expressed excitement about positive changes but noted she needs to manage her energy levels. They also discussed bed comfort and sleep quality, with Andy sharing his technique of rotating sleeping positions to avoid hip and shoulder pain.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "I'm focusing completely on trying to."
+  * **Andrea** (Wife): Shared on "Free time, Will and Mandy have been retired for some."
+
 
 ---
 
@@ -133,12 +161,12 @@ Andy had a phone call with a friend while getting ready to head out with Andrea.
 
 Andy and Andrea toured The Grove Lux Apartments in Petaluma with leasing agent Maya. They explored multiple unit types including flats and townhomes, discussing pricing, availability, amenities, and layout suitability for their needs. Their timeline is flexible between August 1st and October, with a hard budget ceiling. They have a cat and are considering future dog ownership, requiring clarification on breed restrictions. They also viewed the property's pool and laundry facilities during the tour.
 
-#### Club visit and Sonoma plans (4:57 PM – 5:22 PM)
-Andy was in a casual social or retail environment, likely in or near Illano/Sonoma, having lighthearted, fragmented interactions with people around him. He discussed his housing situation in Sonoma, mentioning he and Andrea have priority on a place since they "were there first" and could potentially turn it down. He also talked about meeting someone up in Sonoma if his companion had to work. There was playful teasing banter, including someone joking about "Hod Yoga in your short" and Andy responding "I'm just messing with you, girl." Other ambient conversation nearby involved shopping for items like chicken, "puffers," and boxes, plus someone discussing driving by to show where someone lives and mentioning a "301 box."
-
 ---
 
 ### 🌙 Evening Session (5:01 PM – 11:00 PM)
+#### Club visit and Sonoma plans (4:57 PM – 5:22 PM)
+Andy was in a casual social or retail environment, likely in or near Illano/Sonoma, having lighthearted, fragmented interactions with people around him. He discussed his housing situation in Sonoma, mentioning he and Andrea have priority on a place since they "were there first" and could potentially turn it down. He also talked about meeting someone up in Sonoma if his companion had to work. There was playful teasing banter, including someone joking about "Hod Yoga in your short" and Andy responding "I'm just messing with you, girl." Other ambient conversation nearby involved shopping for items like chicken, "puffers," and boxes, plus someone discussing driving by to show where someone lives and mentioning a "301 box."
+
 #### Casual gathering with friends — 📍 Council gathering and potluck @ 1721 Pine Ave, Petaluma, CA 94954, USA (5:25 PM – 6:28 PM)
 *Context / Event Alignment*: Overlaps with scheduled Calendar event **Council gathering and potluck** @ 1721 Pine Ave, Petaluma, CA 94954, USA.
 
@@ -269,4 +297,4 @@ Andy spent time at home with his partner Andrea, interleaving domestic tasks and
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-23 06:18:57*
+*Report automatically generated on 2026-08-24 06:19:46*
