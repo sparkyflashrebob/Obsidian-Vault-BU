@@ -240,6 +240,8 @@ It goes like this.
 
 Goldstein, Joseph. Mindfulness (pp. 41-42). Sounds True. Kindle Edition. 
 
+
+
 ### Commentary from MMR 138
 A few comments 
 1st from Analayo

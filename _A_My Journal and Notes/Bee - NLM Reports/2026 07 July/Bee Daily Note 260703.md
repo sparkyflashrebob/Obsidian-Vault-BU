@@ -34,9 +34,7 @@ tags:
 
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
-- **Fidelity Investments** (Acc: `statements`): `New account statements and disclosures available` (07/04/2026 5:49 AM)
 - **Bank of America**: **$80.00, $80.00** — `Andrea Axtell sent you $80.00` (07/03/2026 1:53 PM)
-- **Fidelity Investments**: `Your trade confirmation is available` (07/03/2026 4:29 AM)
 
 ### ✉️ Outgoing Sent Emails & Correspondence
 - **To**: `Andrea Axtell <dragonflylodge.aa@gmail.com>` | **Subject**: Flyer 2 (2:35 PM)
@@ -275,4 +273,4 @@ Andy spent this period engaged in watching multiple sports broadcasts, primarily
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-24 06:21:29*
+*Report automatically generated on 2026-08-25 06:25:06*

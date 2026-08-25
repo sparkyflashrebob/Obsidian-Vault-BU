@@ -1,10 +1,10 @@
 ---
 URL: "https://www.amazon.com/dp/B00H6UOITQ"
 Glasp URL: "https://glasp.co/9aPuAlSY4cSgR8ymS3kzJvsZ0oY2/kindle/B00H6UOITQ"
-Author: "Your Kindle Notes For:"
+Author: "Tulku Urgyen Rinpoche, Chokyi Nyima Rinpoche ; Tsikey Chokling Rinpoche ; Tsoknyi Rinpoche ;, Erik Pema Kunsang, and Mingyur Rinpoche"
 Thumbnail: "https://m.media-amazon.com/images/I/31Wk0AE0GWL.jpg"
 Tags: []
-Last updated: 2026-08-17
+Last updated: 2026-08-24
 ---
 #### Highlights & Notes
 

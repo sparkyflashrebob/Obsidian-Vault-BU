@@ -4,7 +4,7 @@ Glasp URL: "https://glasp.co/9aPuAlSY4cSgR8ymS3kzJvsZ0oY2/kindle/B01MZ3N6WB"
 Author: "John Brehm"
 Thumbnail: "https://m.media-amazon.com/images/I/81Zx6Yl+JsL.jpg"
 Tags: []
-Last updated: 2026-08-17
+Last updated: 2026-08-24
 ---
 #### Highlights & Notes
 
@@ -38,5 +38,15 @@ Last updated: 2026-08-17
 > Living in the full knowledge that everything changes changes everything. It loosens our grasp and lets the world become what it truly is, a source of amazement and amusement.
 
 > Han Shan says: Once you realize this floating life is the perfect mirage of change, it&rsquo;s breathtaking &mdash; this wild joy at wandering boundless and free.
+
+> Freedom from craving and from fixed ideas of self lets us experience the world as a friendly place
+
+> When we let go of insisting that we are who we think we are and that the world should give us exactly and only what we want, all things shine forth.
+
+> the difference between satisfying a desire and being released from desire, which is the difference between pleasure and peace. But we are conditioned to prefer pleasure, and to pursue it relentlessly, rather than to relax into joy.
+
+> When Ryōkan, on his daily rounds of alms gathering, is hijacked by the village children, he happily puts aside his begging bowl and joins in their singsongs and kickball. And when his behavior arouses the scorn of more practical-minded adults, Ryōkan asserts the deep power and absolute rightness of his joy: I kick the ball and they sing, they kick and I sing. Time is forgotten, the hours fly. People passing by point at me and laugh: &ldquo;Why are you acting like such a fool?&rdquo; I nod my head and don&rsquo;t answer. I could say something, but why? Do you want to know what&rsquo;s in my heart? From the beginning of time: just this! just this!
+
+> just this moment, nothing added, pure consciousness stripped clean of all our self-centered stories and desires.
 
 

@@ -42,10 +42,7 @@ tags:
 
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
-- **Fidelity Investments** (Acc: `Link`): `Account Link Request Details` (06/18/2026 2:35 AM)
-- **Fidelity Investments**: `New FIDELITY GOVERNMENT MONEY MARKET prospectus available` (06/17/2026 10:48 PM)
-- **Fidelity Investments** (Acc: `s`): `Fidelity Alerts: We're working to link your accounts` (06/17/2026 9:56 AM)
-- **Bank of America** (Acc: `TwoAndiesPreferred`): **$0.00, $0.00** — `Your credit card statement is available` (06/17/2026 8:17 AM)
+- **Bank of America** (Acc: `TwoAndiesPreferred - 6263`): **$0.00, $0.00** — `Your credit card statement is available` (06/17/2026 8:17 AM)
 
 ### ✉️ Outgoing Sent Emails & Correspondence
 - **To**: `peter.pinfield@comcast.net` | **Subject**: Credit Score (9:32 AM)
@@ -233,4 +230,4 @@ Andy and Andrea discussed upcoming comedy shows in the area, with Andrea mention
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-24 06:19:22*
+*Report automatically generated on 2026-08-25 06:21:43*

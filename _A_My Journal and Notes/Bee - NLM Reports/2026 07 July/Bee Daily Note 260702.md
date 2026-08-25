@@ -45,8 +45,6 @@ tags:
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
 - **Bank of America**: **$80.00, $80.00** — `Andrea Axtell sent you $80.00` (07/03/2026 1:53 PM)
-- **Fidelity Investments**: `Your trade confirmation is available` (07/03/2026 4:29 AM)
-- **Fidelity Investments**: `New FIDELITY GOVERNMENT MONEY MARKET prospectus available` (07/01/2026 4:17 AM)
 
 ### ✉️ Outgoing Sent Emails & Correspondence
 - *No outgoing sent email replies or correspondence recorded today.*
@@ -258,4 +256,4 @@ Andy spent an evening in a media-rich environment, simultaneously engaging with 
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-24 06:21:22*
+*Report automatically generated on 2026-08-25 06:24:54*

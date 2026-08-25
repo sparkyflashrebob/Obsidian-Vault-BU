@@ -1,0 +1,2 @@
+**The Three Watches of the Night:** 
+The Buddha's process of reflecting on his past lives (0:57), observing the karma-driven rebirth of other beings (1:56), and finally realizing the **ending of the asava (outflows)**, which keep the mind entangled in suffering (

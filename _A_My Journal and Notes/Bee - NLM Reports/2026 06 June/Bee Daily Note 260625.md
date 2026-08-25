@@ -49,9 +49,6 @@ tags:
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
 - **Bank of America** (Acc: `number`): **$2705.00** — `We've sent your payment to Edgewater Place/Larkspur Isle as requested` (06/25/2026 1:45 AM)
-- **Fidelity Investments** (Acc: `1490`): **$2500.00** — `Fidelity Alerts: EFT processed successfully` (06/24/2026 11:03 AM)
-- **Fidelity Investments**: `We are working on your transfer request` (06/24/2026 10:57 AM)
-- **Fidelity Investments** (Acc: `information`): `Updated account information—Automatic Transfer or Withdrawal Established` (06/23/2026 9:24 PM)
 
 ### ✉️ Outgoing Sent Emails & Correspondence
 - **To**: `Mindy Wyman <mindy@wymanpm.com>` | **Subject**: Re: 138 Underhill Drive (10:13 AM)
@@ -258,4 +255,4 @@ Andy was engaging in conversation about World Cup soccer match results, discussi
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-24 06:20:29*
+*Report automatically generated on 2026-08-25 06:23:26*

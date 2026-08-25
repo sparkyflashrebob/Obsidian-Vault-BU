@@ -48,11 +48,7 @@ tags:
 
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
-- **Fidelity Investments** (Acc: `1490`): **$2250.00** — `Fidelity Alerts: EFT processed successfully` (07/29/2026 2:50 PM)
-- **Bank of America**: **$150.00, $150.00** — `Andrea Axtell sent you $150.00` (07/29/2026 6:02 AM)
-- **Fidelity Investments**: `Your trade confirmation is available` (07/29/2026 2:09 AM)
 - **Bank of America** (Acc: `number`): `Automatic payment scheduled for EDGEWATER PLACE/LARKSPUR ISLE as requested` (07/28/2026 8:55 AM)
-- **Bank of America** (Acc: `number`): **$2705.00** — `We've sent your payment to Edgewater Place/Larkspur Isle as requested` (07/27/2026 1:40 AM)
 
 ### ✉️ Outgoing Sent Emails & Correspondence
 - **To**: `Andrea Axtell <dragonflylodge.aa@gmail.com>` | **Subject**:  (10:22 AM)
@@ -330,4 +326,4 @@ Andy engaged in a conversation about using ChatGPT to research political questio
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-24 06:24:51*
+*Report automatically generated on 2026-08-25 06:30:04*

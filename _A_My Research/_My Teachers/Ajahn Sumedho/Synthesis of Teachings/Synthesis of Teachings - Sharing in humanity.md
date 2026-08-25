@@ -1,7 +1,7 @@
 ### Speakers:
 - **Speaker / Presenter**: Ajahn Sumedho
-- **Event / Source**: Audio Archive (Ajahn Sumedho - Sharing in humanity (2002) - 58 - 108 Talks by Luang Por Sumedho.mp3)
-- **Tags / Topics**: #ajahn_sumedho, #anapanasati, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #khandhas, #luang-por-chah, #sharing-in-humanity, #siladhara, #sound-of-silence, #unborn
+- **Event / Source**: Audio Archive (Ajahn Sumedho - Sharing in Humanity - 0116 - Ajahn Sumedho Podcast by Amaravati.mp3)
+- **Tags / Topics**: #ajahn-sumedho, #anapanasati, #bikkhu-sangha, #fear-and-anxiety, #four-noble-truths, #grounded-awareness, #karma-and-rebirth, #khandhas, #luang-por-chah, #sharing-in-humanity, #siladhara, #sound-of-silence, #unborn
 ## Summary:
 
 ### Progression of Talk

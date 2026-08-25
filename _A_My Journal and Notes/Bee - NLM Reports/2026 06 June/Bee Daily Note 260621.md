@@ -36,8 +36,12 @@ tags:
 
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
-- **Fidelity Investments** (Acc: `Summary`): **$255668.69, $25958.89** — `Fidelity Alerts: Account Summary` (08/24/2026 3:51 AM)
-- **Bank of America** (Acc: `SparkyBank`): **$7969.30** — `Your Available Balance` (08/23/2026 7:37 AM)
+- **Bank of America** (Acc: `SparkyBank - 0372`): **$7806.84** — `Your Available Balance` (08/25/2026 3:39 AM)
+- **Fidelity Investments** (Total Value: **$272,270.76** across 4 accounts):
+  - Account `XXXXX2492`: **$255,326.38** | Settled Cash: $25,958.89 (08/25/2026 3:49 AM)
+  - Account `XXXXX1490`: **$13,241.00** | Settled Cash: $12,458.53 (08/25/2026 3:48 AM)
+  - Account `XXXXX1128`: **$3,703.20** | Settled Cash: $42.45 (08/25/2026 3:49 AM)
+  - Account `XXXXX3435`: **$0.18** | Settled Cash: $0.18 (08/25/2026 3:47 AM)
 
 ### ✉️ Outgoing Sent Emails & Correspondence
 - **To**: `Bridget Lyons <bridgetl@westgaterealestate.com>` | **Subject**: Re: Rentals Managed with Westgate Real Estate- how to navigate website steps (11:27 AM)
@@ -227,4 +231,4 @@ Andy spent time with Andrea and Audel in a domestic setting, with significant ba
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-24 06:19:55*
+*Report automatically generated on 2026-08-25 06:22:38*

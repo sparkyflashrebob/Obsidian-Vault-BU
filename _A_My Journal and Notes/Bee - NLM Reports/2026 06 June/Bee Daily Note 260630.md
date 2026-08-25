@@ -37,9 +37,6 @@ tags:
 
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
-- **Fidelity Investments**: `Your trade confirmation is available` (07/01/2026 10:03 AM)
-- **Fidelity Investments**: `New FIDELITY GOVERNMENT MONEY MARKET prospectus available` (07/01/2026 4:17 AM)
-- **Fidelity Investments** (Acc: `1490`): **$2250.00** — `Fidelity Alerts: EFT processed successfully` (06/29/2026 3:00 PM)
 - **Bank of America** (Acc: `from`): `Security alert: Your User ID was used to log in from a new device at 5:03 p.m. ET on Jun 29` (06/29/2026 2:03 PM)
 
 ### ✉️ Outgoing Sent Emails & Correspondence
@@ -215,4 +212,4 @@ Andy spent this period primarily consuming media content in his living environme
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-24 06:21:07*
+*Report automatically generated on 2026-08-25 06:24:30*

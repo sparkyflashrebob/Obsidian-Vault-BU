@@ -50,10 +50,6 @@ tags:
 ### 💰 Financial Account Balances & Bank Alerts
 - **Bank of America**: `Your statement is available` (07/30/2026 8:22 PM)
 - **Bank of America** (Acc: `number`): `Automatic payment scheduled for PG & E as requested` (07/30/2026 9:38 AM)
-- **Fidelity Investments**: `Fidelity Alerts:  You agreed to our third-party connection user agreement` (07/29/2026 10:20 PM)
-- **Fidelity Investments** (Acc: `1490`): **$2250.00** — `Fidelity Alerts: EFT processed successfully` (07/29/2026 2:50 PM)
-- **Bank of America**: **$150.00, $150.00** — `Andrea Axtell sent you $150.00` (07/29/2026 6:02 AM)
-- **Fidelity Investments**: `Your trade confirmation is available` (07/29/2026 2:09 AM)
 
 ### ✉️ Outgoing Sent Emails & Correspondence
 - **To**: `kortexnotebooklm@gmail.com` | **Subject**: Notebook Link Broken (3:59 PM)
@@ -326,4 +322,4 @@ Housing costs were discussed when Brent was shocked to learn Andy's rent is $2,7
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-24 06:25:09*
+*Report automatically generated on 2026-08-25 06:30:33*
