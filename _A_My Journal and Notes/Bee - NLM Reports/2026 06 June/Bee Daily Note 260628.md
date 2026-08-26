@@ -40,7 +40,7 @@ tags:
 
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
-- **Bank of America**: **$150.00, $150.00** — `Andrea Axtell sent you $150.00` (06/28/2026 6:36 AM)
+- **Bank of America** (Acc: `Unknown Account`): **$150.00** — `Andrea Axtell sent you $150.00` (06/28/2026 6:36 AM)
 
 ### ✉️ Outgoing Sent Emails & Correspondence
 - **To**: `Will Meecham <willspirit@icloud.com>` | **Subject**: Re: Meditation (9:15 AM)
@@ -248,4 +248,4 @@ This conversation/interaction appears to be primarily ambient audio capture with
 - **Evening Volcano Eruption Discussion**
 
 ---
-*Report automatically generated on 2026-08-25 06:24:06*
+*Report automatically generated on 2026-08-26 06:22:37*

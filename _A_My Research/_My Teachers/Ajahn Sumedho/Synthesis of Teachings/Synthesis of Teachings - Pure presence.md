@@ -1,7 +1,7 @@
 ### Speakers:
 - **Speaker / Presenter**: Ajahn Sumedho
 - **Event / Source**: Audio Archive (Ajahn Sumedho - Pure presence (1997) - 43 - 108 Talks by Luang Por Sumedho.mp3)
-- **Tags / Topics**: #ajahn-sumedho, #fear-and-anxiety, #four-noble-truths, #karma-and-rebirth, #pure-presence, #rationality-conceit, #samatha-vipassana, #siladhara, #sound-of-silence, #unborn
+- **Tags / Topics**: #ajahn-sumedho, #pure-presence
 ## Summary:
 
 ### Progression of Talk

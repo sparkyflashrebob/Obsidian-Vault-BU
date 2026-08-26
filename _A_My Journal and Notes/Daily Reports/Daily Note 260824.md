@@ -49,10 +49,10 @@ tags:
 
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
-- **Bank of America** (Total Available Balance: **$9,873.21** across 2 accounts):
+- **Bank of America** (Total Available Balance: **$9,873.21** across 2 accounts — <font color="red"><b>-$159.88 (Down)</b></font>):
   - Account `SparkyBank - 0372`: **$7,809.42** (08/24/2026 6:27 AM)
   - Account `TwoAndiesSave - 6171`: **$2,063.79** (08/24/2026 6:36 AM)
-- **Fidelity Investments** (Total Value: **$272,647.05** across 4 accounts):
+- **Fidelity Investments** (Total Value: **$272,647.05** across 4 accounts — <font color="green"><b>+$272,647.05 (Up)</b></font>):
   - Account `XXXXX2492`: **$255,668.69** | Settled Cash: $25,958.89 (08/24/2026 3:51 AM)
   - Account `XXXXX1490`: **$13,265.23** | Settled Cash: $12,458.53 (08/24/2026 3:48 AM)
   - Account `XXXXX1128`: **$3,712.95** | Settled Cash: $42.45 (08/24/2026 3:49 AM)

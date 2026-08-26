@@ -36,7 +36,7 @@ tags:
 
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
-- **Bank of America**: **$675.00, $675.00** — `Andrea Axtell sent you $675.00` (07/13/2026 11:50 AM)
+- **Bank of America** (Acc: `Unknown Account`): **$675.00** — `Andrea Axtell sent you $675.00` (07/13/2026 11:50 AM)
 
 ### ✉️ Outgoing Sent Emails & Correspondence
 - *No outgoing sent email replies or correspondence recorded today.*
@@ -239,4 +239,4 @@ Andy engaged in a conversation about a retreat location that appears to be a spi
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-25 06:27:03*
+*Report automatically generated on 2026-08-26 06:25:12*

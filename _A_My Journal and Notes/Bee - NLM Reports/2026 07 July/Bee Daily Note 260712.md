@@ -40,7 +40,7 @@ tags:
 
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
-- **Bank of America**: **$675.00, $675.00** — `Andrea Axtell sent you $675.00` (07/13/2026 11:50 AM)
+- **Bank of America** (Acc: `Unknown Account`): **$675.00** — `Andrea Axtell sent you $675.00` (07/13/2026 11:50 AM)
 
 ### ✉️ Outgoing Sent Emails & Correspondence
 - **To**: `Bob McConnell <bob@contact-mgt.com>, Peter King <peterhking@outlook.com>, Will Meecham <willspirit@icloud.com>, Kevin Jensen-Unger <kevinunger321@gmail.com>, Bill Vela <velalawoffice@gmail.com>, John Benet <red415@gmail.com>, Kiera McGuire <kmcguire4638@gmail.com>, Audel Salazar <audel.a.salazar@gmail.com>, Edwynen Nazarian <Edwynen@comcast.net>, Matt Ford <Chaotzutbp@yahoo.com>, Colette Sweeny <colettesweeny@icloud.com>, Andrea Axtell <dragonflylodge.aa@gmail.com>, Debra Jensen-Unger <djensenunger@gmail.com>, Nick Franklin <nickfranklin23@gmail.com>, Hugh Bricarelli <hughb80@gmail.com>, Georgie Rayner <georgiekat@comcast.net>` | **Subject**: Living Mindfully Meditation (10:38 AM)
@@ -229,4 +229,4 @@ Andy was engaged in an interactive conversation where he observed gauges on what
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-25 06:26:50*
+*Report automatically generated on 2026-08-26 06:25:00*

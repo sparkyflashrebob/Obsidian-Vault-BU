@@ -1,7 +1,7 @@
 ### Speakers:
 - **Speaker / Presenter**: Ajahn Sumedho
-- **Event / Source**: Audio Archive (Ajahn Sumedho - What is The Holy Life - 0324 - Ajahn Sumedho Podcast by Amaravati.mp3)
-- **Tags / Topics**: #ajahn-sumedho, #bikkhu-sangha, #fear-and-anxiety, #grounded-awareness, #karma-and-rebirth, #metta, #samatha-vipassana, #sound-of-silence, #what-is-the-holy-life
+- **Event / Source**: Audio Archive (Ajahn Sumedho - What is The Holy Life - 18 - Ajahn Sumedho Podcast by Amaravati.mp3)
+- **Tags / Topics**: #ajahn-sumedho, #bikkhu-sangha, #fear-and-anxiety, #grounded-awareness, #karma-and-rebirth, #metta, #rationality-conceit, #samatha-vipassana, #sound-of-silence, #what-is-the-holy-life
 ## Summary:
 
 ### Progression of Talk

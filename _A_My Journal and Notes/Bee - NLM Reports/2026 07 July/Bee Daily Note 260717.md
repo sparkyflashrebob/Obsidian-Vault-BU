@@ -36,8 +36,9 @@ tags:
 
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
-- **Bank of America**: **$300.00, $0.00** — `We received your mobile check deposit` (07/18/2026 3:15 PM)
-- **Bank of America** (Acc: `TwoAndiesPreferred - 6263`): **$0.00, $0.00** — `Your credit card statement is available` (07/16/2026 8:17 AM)
+- **Bank of America** (Total Available Balance: **$300.00** across 2 accounts):
+  - Account `Unknown Account`: **$300.00** (07/18/2026 3:15 PM)
+  - Account `TwoAndiesPreferred - 6263`: **$0.00** (07/16/2026 8:17 AM)
 
 ### ✉️ Outgoing Sent Emails & Correspondence
 - *No outgoing sent email replies or correspondence recorded today.*
@@ -333,4 +334,4 @@ Andy engaged in a phone conversation with a household member while background me
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-25 06:27:57*
+*Report automatically generated on 2026-08-26 06:25:57*
