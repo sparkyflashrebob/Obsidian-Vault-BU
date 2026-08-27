@@ -25,7 +25,12 @@ tags:
 
 📅 **Date**: Wednesday, June 24, 2026 (2026-06-24)
 👥 **Attendees**: Andrea (Wife), Andy
-📊 **Total Bee Conversations Processed**: 9
+🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
+📊 **Total Plaud Conversations Processed**: **0**
+📊 **Total Bee Conversations Processed**: **0**
+
+### ⚠️ Pipeline Status & Data Ingestion Warnings
+- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
 
 ---
 
@@ -212,19 +217,17 @@ Andy spent time with a companion at home, sharing stories and watching various m
 * **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
 * **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
 
-### Human Behavior & Relational Dynamics
+### Societal Truisms & Cultural Realities
 * **Verbatim Quote:** "I think about black people in a very pronounced way when we come to revolution because the exploitation, the enslavement, the dehumanization and the degradation that's been inflicted on black people is foundational to this society and their system."
 * **Speaker:** Andy
-* **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
-* **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
+* **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
+* **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
 
 ### Catchy Phrases & Key Sayings
-* **"Here'S Another One"** — 8 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"Freedom Of Speech"** — 4 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"You Don'T Have To"** — 4 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+- *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-- *No unusual or humorous nicknames recorded today.*
+* **Donald Trump** — *Context:* Former U.S. President mentioned in news commentaries.
 
 ---
 
@@ -283,4 +286,4 @@ Andy spent time with a companion at home, sharing stories and watching various m
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-26 06:21:55*
+*Report automatically generated on 2026-08-27 06:23:46*

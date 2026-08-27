@@ -17,7 +17,12 @@ tags:
 
 📅 **Date**: Tuesday, June 16, 2026 (2026-06-16)
 👥 **Attendees**: Andrea (Wife), Andy
-📊 **Total Bee Conversations Processed**: 8
+🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
+📊 **Total Plaud Conversations Processed**: **0**
+📊 **Total Bee Conversations Processed**: **0**
+
+### ⚠️ Pipeline Status & Data Ingestion Warnings
+- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
 
 ---
 
@@ -38,7 +43,7 @@ tags:
 
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
-- **Bank of America** (Acc: `TwoAndiesPreferred - 6263`): **$0.00** — `Your credit card statement is available` (06/17/2026 8:17 AM)
+- *No automated financial balance alert emails received yet today.*
 
 ### ✉️ Outgoing Sent Emails & Correspondence
 - **To**: `6bbe84613efb353a87047a8cc3ef3460@hous.craigslist.org` | **Subject**: Re: 783 Verano Avenue, Sonoma, CA 95476 (7:58 AM)
@@ -156,11 +161,17 @@ Andy and Andrea discussed Andy's recent thyroid lab results, which showed elevat
 
 ## 💬 Quoted Expressions & Catchy Phrases
 ### Quotes
-### Human Behavior & Relational Dynamics
+### Societal Truisms & Cultural Realities
+* **Verbatim Quote:** "So, in this video, I'm going to show you several examples of this in action and how to solve a new contact transition point instead of forcing two busy sections of this together."
+* **Speaker:** Andy
+* **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
+* **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
+
+### Societal Truisms & Cultural Realities
 * **Verbatim Quote:** "You furthermore, it's going to be those little things because these games aren't society by uses better."
 * **Speaker:** Andy
-* **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
-* **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
+* **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
+* **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
 
 ### Human Behavior & Relational Dynamics
 * **Verbatim Quote:** "I'm I think he was born in England and he was starting to Philadelphia and his family and the only reason he was born in the USA because they wouldn't allow his mom to fly back to Europe."
@@ -168,11 +179,11 @@ Andy and Andrea discussed Andy's recent thyroid lab results, which showed elevat
 * **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
 * **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
 
-### Human Behavior & Relational Dynamics
+### Societal Truisms & Cultural Realities
 * **Verbatim Quote:** "It seems there's two, but if you have soccer and labor, you're doing society or kind of autistic about their fans, John."
 * **Speaker:** Andy
-* **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
-* **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
+* **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
+* **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
 
 ### Human Behavior & Relational Dynamics
 * **Verbatim Quote:** "It translates to discrimination between the and the fear."
@@ -180,19 +191,11 @@ Andy and Andrea discussed Andy's recent thyroid lab results, which showed elevat
 * **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
 * **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
 
-### Mindfulness & Contemplative Inquiry
-* **Verbatim Quote:** "It is not a long text, but it contains a single exercise that is more precise than almost anything else written about the nature of awareness, not a meditation, not a visualization, a logical lip, step by step, leg by leg."
-* **Speaker:** Andy
-* **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
-* **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
-
 ### Catchy Phrases & Key Sayings
-* **"It'S Going To Be"** — 8 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"A Little Bit More"** — 6 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"In The Middle Of"** — 6 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+- *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-- *No unusual or humorous nicknames recorded today.*
+* **Donald Trump** — *Context:* Former U.S. President mentioned in news commentaries.
 
 ---
 
@@ -242,4 +245,4 @@ Andy and Andrea discussed Andy's recent thyroid lab results, which showed elevat
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-26 06:20:29*
+*Report automatically generated on 2026-08-27 06:21:54*

@@ -15,7 +15,12 @@ tags:
 
 📅 **Date**: Saturday, August 15, 2026 (2026-08-15)
 👥 **Attendees**: Andy, Unidentified Physical Speaker (Query needed)
-📊 **Total Bee Conversations Processed**: 7
+🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
+📊 **Total Plaud Conversations Processed**: **0**
+📊 **Total Bee Conversations Processed**: **0**
+
+### ⚠️ Pipeline Status & Data Ingestion Warnings
+- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
 
 ---
 
@@ -34,7 +39,7 @@ tags:
 
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
-- **Bank of America** (Acc: `TwoAndiesPreferred - 6263`): **$0.00** — `Your credit card statement is available` (08/16/2026 8:22 AM)
+- *No automated financial balance alert emails received yet today.*
 
 ### ✉️ Outgoing Sent Emails & Correspondence
 - **To**: `Will Meecham <willspirit@icloud.com>` | **Subject**: Re: club (4:25 PM)
@@ -246,12 +251,10 @@ Andy spent this day addressing multiple technical challenges with his conversati
 * **Somatic / Relational Context:** Triggered by physical sensation or noticing internal bodily states during daily routines.
 
 ### Catchy Phrases & Key Sayings
-* **"The Green Button"** — 7 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"A Little Bit More"** — 3 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"I Want To Be Able"** — 3 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+- *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-- *No unusual or humorous nicknames recorded today.*
+- *No public figures or notable historical figures referenced today.*
 
 ---
 
@@ -285,4 +288,4 @@ Andy spent this day addressing multiple technical challenges with his conversati
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-26 06:30:33*
+*Report automatically generated on 2026-08-27 06:35:25*

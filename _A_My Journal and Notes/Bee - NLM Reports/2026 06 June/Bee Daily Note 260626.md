@@ -21,7 +21,12 @@ tags:
 
 📅 **Date**: Friday, June 26, 2026 (2026-06-26)
 👥 **Attendees**: Andrea (Wife), Andy
-📊 **Total Bee Conversations Processed**: 7
+🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
+📊 **Total Plaud Conversations Processed**: **0**
+📊 **Total Bee Conversations Processed**: **0**
+
+### ⚠️ Pipeline Status & Data Ingestion Warnings
+- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
 
 ---
 
@@ -40,7 +45,7 @@ tags:
 
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
-- **Bank of America** (Acc: `number`): **$2,705.00** — `We've sent your payment to Edgewater Place/Larkspur Isle as requested` (06/25/2026 1:45 AM)
+- *No automated financial balance alert emails received yet today.*
 
 ### ✉️ Outgoing Sent Emails & Correspondence
 - *No outgoing sent email replies or correspondence recorded today.*
@@ -178,12 +183,10 @@ The session was characterized by Andy's passive media consumption punctuated by 
 * **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
 
 ### Catchy Phrases & Key Sayings
-* **"Our Solar System"** — 7 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"The Ecliptic Plane"** — 6 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"The Solar System"** — 4 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+- *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-- *No unusual or humorous nicknames recorded today.*
+* **Donald Trump** — *Context:* Former U.S. President mentioned in news commentaries.
 
 ---
 
@@ -241,4 +244,4 @@ The session was characterized by Andy's passive media consumption punctuated by 
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-26 06:22:13*
+*Report automatically generated on 2026-08-27 06:24:12*

@@ -17,7 +17,12 @@ tags:
 
 📅 **Date**: Saturday, July 18, 2026 (2026-07-18)
 👥 **Attendees**: Andrea (Wife), Andy
-📊 **Total Bee Conversations Processed**: 6
+🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
+📊 **Total Plaud Conversations Processed**: **0**
+📊 **Total Bee Conversations Processed**: **0**
+
+### ⚠️ Pipeline Status & Data Ingestion Warnings
+- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
 
 ---
 
@@ -36,7 +41,7 @@ tags:
 
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
-- **Bank of America** (Acc: `Unknown Account`): **$300.00** — `We received your mobile check deposit` (07/18/2026 3:15 PM)
+- *No automated financial balance alert emails received yet today.*
 
 ### ✉️ Outgoing Sent Emails & Correspondence
 - **To**: `Nicole Skibola <nskibola@gmail.com>` | **Subject**: Re: Marin DSA - Urgent Membership Billing Issue for Monthly Dues (4:32 PM)
@@ -196,6 +201,12 @@ Andy was consuming educational media content, specifically financial strategy co
 * **Core Insight:** Unpacks relational patterns and self-honesty necessary to dissolve long-standing emotional defenses.
 * **Somatic / Relational Context:** Triggered during candid interpersonal dialogue or self-reflective monologues.
 
+### Societal Truisms & Cultural Realities
+* **Verbatim Quote:** "work was one of them when it was also meant working with people and I was just constantly busy with that kind of stuff."
+* **Speaker:** Andy
+* **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
+* **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
+
 ### Spirituality, Impermanence & Interconnection
 * **Verbatim Quote:** "being as down to earth as possible is preferred."
 * **Speaker:** Andy
@@ -214,19 +225,11 @@ Andy was consuming educational media content, specifically financial strategy co
 * **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
 * **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
 
-### Human Behavior & Relational Dynamics
-* **Verbatim Quote:** "Four days a week, and then I have to be able to negotiate with the future."
-* **Speaker:** Andy
-* **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
-* **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
-
 ### Catchy Phrases & Key Sayings
-* **"They'Re Going To"** — 6 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"For Golden State"** — 6 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"The Summer League"** — 5 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+- *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-- *No unusual or humorous nicknames recorded today.*
+* **Donald Trump** — *Context:* Former U.S. President mentioned in news commentaries.
 
 ---
 
@@ -276,4 +279,4 @@ Andy was consuming educational media content, specifically financial strategy co
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-26 06:26:06*
+*Report automatically generated on 2026-08-27 06:29:21*

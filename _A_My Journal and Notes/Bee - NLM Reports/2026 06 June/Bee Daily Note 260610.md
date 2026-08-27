@@ -25,7 +25,12 @@ tags:
 
 📅 **Date**: Wednesday, June 10, 2026 (2026-06-10)
 👥 **Attendees**: Andrea (Wife), Andy
-📊 **Total Bee Conversations Processed**: 12
+🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
+📊 **Total Plaud Conversations Processed**: **0**
+📊 **Total Bee Conversations Processed**: **0**
+
+### ⚠️ Pipeline Status & Data Ingestion Warnings
+- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
 
 ---
 
@@ -44,7 +49,7 @@ tags:
 
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
-- **Bank of America** (Acc: `number`): **$0.00** — `You added Kaiser Foundation Health Plan as a payee` (06/10/2026 10:59 AM)
+- *No automated financial balance alert emails received yet today.*
 
 ### ✉️ Outgoing Sent Emails & Correspondence
 - *No outgoing sent email replies or correspondence recorded today.*
@@ -196,12 +201,11 @@ Andy discussed an upcoming book titled "Regime Change" about Trump's reaction to
 * **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
 
 ### Catchy Phrases & Key Sayings
-* **"Get Up Get Up Get"** — 11 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"Get Up Get Down Get"** — 7 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"Up Get Down Get Up"** — 7 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+- *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-* **Buddha** — *Context:* Distinctive proper noun or creative handle captured in transcript.
+* **Buddha** — *Context:* Historical founder of Buddhism and source of Dhamma teachings.
+* **Donald Trump** — *Context:* Former U.S. President mentioned in news commentaries.
 
 ---
 
@@ -235,4 +239,4 @@ Andy discussed an upcoming book titled "Regime Change" about Trump's reaction to
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-26 06:19:18*
+*Report automatically generated on 2026-08-27 06:20:20*

@@ -1,7 +1,5 @@
 ---
 tags:
-  - master-daily-report
-  - unified-report
   - 12-step-framework
   - ambient-sensors
   - bonds
@@ -29,8 +27,17 @@ tags:
 # Financial report troubleshooting session, Managing reports during retreat schedule, and Spiritual encouragement for Andrea's challenges
 
 📅 **Date**: Monday, August 24, 2026 (2026-08-24)
-👥 **Attendees**: Andy, Audel (SDRT Collaborator), Unidentified Physical Speaker (Query needed)
-📊 **Total Bee Conversations Processed**: 15
+👥 **Attendees**: Andy, Unidentified Physical Speaker (Query needed)
+🎙️ **Primary Data Source**: **Plaud Local PC Ingest (Direct API + Local Whisper AI)**
+📊 **Plaud Sessions Processed (PRIMARY)**: **7**
+📊 **Bee Sessions Processed (SECONDARY BACKUP)**: **15**
+
+### ⚙️ Pipeline Status & Data Ingestion Log
+- ⚡ **Plaud Direct Ingest**: ✅ **Active** (0 Cloud Minutes Spent, 0 Phone Taps Needed)
+- 🎙️ **Local Whisper AI Transcripts**: ✅ **Active**
+- 🐝 **Bee Secondary Backup**: ✅ **Active** (Gap-Filling Only)
+- 📧 **Gmail & Financial Ingest**: ✅ **Active**
+- 📅 **Google Calendar**: ✅ **Active**
 
 ---
 
@@ -52,7 +59,7 @@ tags:
 - **Bank of America** (Total Available Balance: **$9,873.21** across 2 accounts — <font color="red"><b>-$159.88 (Down)</b></font>):
   - Account `SparkyBank - 0372`: **$7,809.42** (08/24/2026 6:27 AM)
   - Account `TwoAndiesSave - 6171`: **$2,063.79** (08/24/2026 6:36 AM)
-- **Fidelity Investments** (Total Value: **$272,647.05** across 4 accounts — <font color="green"><b>+$272,647.05 (Up)</b></font>):
+- **Fidelity Investments** (Total Value: **$272,647.05** across 4 accounts):
   - Account `XXXXX2492`: **$255,668.69** | Settled Cash: $25,958.89 (08/24/2026 3:51 AM)
   - Account `XXXXX1490`: **$13,265.23** | Settled Cash: $12,458.53 (08/24/2026 3:48 AM)
   - Account `XXXXX1128`: **$3,712.95** | Settled Cash: $42.45 (08/24/2026 3:49 AM)
@@ -287,14 +294,12 @@ Andy had a brief, casual conversation with someone nearby about a meeting that m
 * **Somatic / Relational Context:** Triggered by physical sensation or noticing internal bodily states during daily routines.
 
 ### Catchy Phrases & Key Sayings
-* **"A Couple Of Days"** — 4 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"Share Your Screen"** — 4 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"A Whole Bunch Of"** — 4 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+- *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-* **Audel** — *Context:* Frequent collaborator and co-participant in SDRT discussions.
-* **Buddha** — *Context:* Distinctive proper noun or creative handle captured in transcript.
-* **Audel** — *Context:* Distinctive proper noun or creative handle captured in transcript.
+* **Mary Oliver** — *Context:* Famous American poet and Pulitzer Prize winner featured in the documentary screening at The Lark / Rafael Theater.
+* **Bahiya** — *Context:* Historical disciple of the Buddha associated with the Bahiya Sutta teaching.
+* **Buddha** — *Context:* Historical founder of Buddhism and source of Dhamma teachings.
 
 ---
 
@@ -336,4 +341,4 @@ Andy had a brief, casual conversation with someone nearby about a meeting that m
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-25 09:08:37*
+*Report automatically generated on 2026-08-27 08:54:51*

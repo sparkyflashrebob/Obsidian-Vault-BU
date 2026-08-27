@@ -25,7 +25,12 @@ tags:
 
 📅 **Date**: Saturday, June 20, 2026 (2026-06-20)
 👥 **Attendees**: Andrea (Wife), Andy
-📊 **Total Bee Conversations Processed**: 19
+🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
+📊 **Total Plaud Conversations Processed**: **0**
+📊 **Total Bee Conversations Processed**: **0**
+
+### ⚠️ Pipeline Status & Data Ingestion Warnings
+- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
 
 ---
 
@@ -258,12 +263,10 @@ Andy spent time at home with his partner Andrea, interleaving domestic tasks and
 * **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
 
 ### Catchy Phrases & Key Sayings
-* **"That'S What I'M Saying"** — 10 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"Was The One That"** — 6 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"Looking Forward To"** — 6 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+- *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-- *No unusual or humorous nicknames recorded today.*
+* **Donald Trump** — *Context:* Former U.S. President mentioned in news commentaries.
 
 ---
 
@@ -297,4 +300,4 @@ Andy spent time at home with his partner Andrea, interleaving domestic tasks and
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-26 06:21:07*
+*Report automatically generated on 2026-08-27 06:22:48*

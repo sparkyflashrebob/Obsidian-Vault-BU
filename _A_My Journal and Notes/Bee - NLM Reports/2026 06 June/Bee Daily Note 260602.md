@@ -17,7 +17,12 @@ tags:
 
 📅 **Date**: Tuesday, June 02, 2026 (2026-06-02)
 👥 **Attendees**: Andy
-📊 **Total Bee Conversations Processed**: 4
+🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
+📊 **Total Plaud Conversations Processed**: **0**
+📊 **Total Bee Conversations Processed**: **0**
+
+### ⚠️ Pipeline Status & Data Ingestion Warnings
+- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
 
 ---
 
@@ -37,7 +42,7 @@ tags:
 
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
-- **Bank of America** (Acc: `Unknown Account`): **$0.00** — `RONALD, we're excited to welcome you to BofA Rewards™` (06/02/2026 9:57 AM)
+- *No automated financial balance alert emails received yet today.*
 
 ### ✉️ Outgoing Sent Emails & Correspondence
 - *No outgoing sent email replies or correspondence recorded today.*
@@ -112,19 +117,17 @@ Andy was watching or listening to a crime/action movie or TV show featuring a pl
 
 ## 💬 Quoted Expressions & Catchy Phrases
 ### Quotes
-### Somatic Awareness & Present-Moment Integration
+### Human Behavior & Relational Dynamics
 * **Verbatim Quote:** "Nobody in our family used to live there."
 * **Speaker:** Andy
-* **Core Insight:** Emphasizes bodily listening and physical presence as a foundation for grounding awareness in daily life.
-* **Somatic / Relational Context:** Triggered by physical sensation or noticing internal bodily states during daily routines.
+* **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
+* **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
 
 ### Catchy Phrases & Key Sayings
-* **"Might Be A Little"** — 2 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"Might Be A Little Bit"** — 2 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"What You'Re Doing"** — 2 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+- *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-- *No unusual or humorous nicknames recorded today.*
+- *No public figures or notable historical figures referenced today.*
 
 ---
 
@@ -158,4 +161,4 @@ Andy was watching or listening to a crime/action movie or TV show featuring a pl
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-26 06:17:45*
+*Report automatically generated on 2026-08-27 06:18:11*

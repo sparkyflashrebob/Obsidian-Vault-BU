@@ -17,7 +17,12 @@ tags:
 
 📅 **Date**: Friday, July 17, 2026 (2026-07-17)
 👥 **Attendees**: Andrea (Wife), Andy
-📊 **Total Bee Conversations Processed**: 17
+🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
+📊 **Total Plaud Conversations Processed**: **0**
+📊 **Total Bee Conversations Processed**: **0**
+
+### ⚠️ Pipeline Status & Data Ingestion Warnings
+- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
 
 ---
 
@@ -36,9 +41,7 @@ tags:
 
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
-- **Bank of America** (Total Available Balance: **$300.00** across 2 accounts):
-  - Account `Unknown Account`: **$300.00** (07/18/2026 3:15 PM)
-  - Account `TwoAndiesPreferred - 6263`: **$0.00** (07/16/2026 8:17 AM)
+- *No automated financial balance alert emails received yet today.*
 
 ### ✉️ Outgoing Sent Emails & Correspondence
 - *No outgoing sent email replies or correspondence recorded today.*
@@ -263,12 +266,10 @@ Andy engaged in a phone conversation with a household member while background me
 * **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
 
 ### Catchy Phrases & Key Sayings
-* **"Recording In Progress"** — 5 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"That'S What I'M Saying"** — 4 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"I Thought It Was"** — 4 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+- *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-* **Ed Brown** — *Context:* Zen teacher and Tassajara bread book author associated with morning practice Zoom sessions.
+* **Ed Brown** — *Context:* Zen teacher and Tassajara bread book author.
 
 ---
 
@@ -334,4 +335,4 @@ Andy engaged in a phone conversation with a household member while background me
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-26 06:25:57*
+*Report automatically generated on 2026-08-27 06:29:09*

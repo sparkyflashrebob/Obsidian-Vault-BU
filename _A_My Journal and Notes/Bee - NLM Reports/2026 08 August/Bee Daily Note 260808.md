@@ -29,7 +29,12 @@ tags:
 
 📅 **Date**: Saturday, August 08, 2026 (2026-08-08)
 👥 **Attendees**: Andrea (Wife), Andy
-📊 **Total Bee Conversations Processed**: 17
+🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
+📊 **Total Plaud Conversations Processed**: **0**
+📊 **Total Bee Conversations Processed**: **0**
+
+### ⚠️ Pipeline Status & Data Ingestion Warnings
+- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
 
 ---
 
@@ -50,12 +55,12 @@ tags:
 
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
-- **Bank of America** (Acc: `SparkyBank - 0372`): **$7,917.84** — `Your Available Balance` (08/26/2026 3:40 AM)
-- **Fidelity Investments** (Total Value: **$273,352.78** across 4 accounts):
-  - Account `XXXXX2492`: **$256,383.22** | Settled Cash: $25,958.89 (08/26/2026 3:47 AM)
-  - Account `XXXXX1490`: **$13,254.18** | Settled Cash: $12,458.53 (08/26/2026 3:49 AM)
-  - Account `XXXXX1128`: **$3,715.20** | Settled Cash: $42.45 (08/26/2026 3:47 AM)
-  - Account `XXXXX3435`: **$0.18** | Settled Cash: $0.18 (08/26/2026 3:50 AM)
+- **Bank of America** (Acc: `SparkyBank - 0372`): **$7,872.95** — `Your Available Balance` (08/27/2026 3:38 AM)
+- **Fidelity Investments** (Total Value: **$271,011.48** across 4 accounts):
+  - Account `XXXXX2492`: **$256,293.90** | Settled Cash: $25,958.89 (08/27/2026 3:48 AM)
+  - Account `XXXXX1490`: **$11,004.45** | Settled Cash: $10,208.53 (08/27/2026 3:46 AM)
+  - Account `XXXXX1128`: **$3,712.95** | Settled Cash: $42.45 (08/27/2026 3:48 AM)
+  - Account `XXXXX3435`: **$0.18** | Settled Cash: $0.18 (08/27/2026 3:47 AM)
 
 ### ✉️ Outgoing Sent Emails & Correspondence
 - **To**: `hughb80 <hughb80@gmail.com>` | **Subject**: Re: Spiritual journey (11:09 AM)
@@ -298,19 +303,17 @@ Andy was reviewing daily reports and noticed a data discrepancy in his calendar 
 * **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
 * **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
 
-### Mindfulness & Contemplative Inquiry
-* **Verbatim Quote:** "Now also what I was doing was just drafting my drafting in the whole field of awareness."
+### Societal Truisms & Cultural Realities
+* **Verbatim Quote:** "I think Holly's actually good distraction for you to watch her flood about and do her things and not focus on herself so much."
 * **Speaker:** Andy
-* **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
-* **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
+* **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
+* **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
 
 ### Catchy Phrases & Key Sayings
-* **"That'S All Right"** — 5 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"And Then There'S"** — 4 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"On The Other Side"** — 4 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+- *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-- *No unusual or humorous nicknames recorded today.*
+- *No public figures or notable historical figures referenced today.*
 
 ---
 
@@ -368,4 +371,4 @@ Andy was reviewing daily reports and noticed a data discrepancy in his calendar 
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-26 06:29:32*
+*Report automatically generated on 2026-08-27 06:34:04*

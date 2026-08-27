@@ -21,7 +21,12 @@ tags:
 
 📅 **Date**: Friday, July 10, 2026 (2026-07-10)
 👥 **Attendees**: Andrea (Wife), Andy
-📊 **Total Bee Conversations Processed**: 13
+🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
+📊 **Total Plaud Conversations Processed**: **0**
+📊 **Total Bee Conversations Processed**: **0**
+
+### ⚠️ Pipeline Status & Data Ingestion Warnings
+- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
 
 ---
 
@@ -189,11 +194,11 @@ Andy participated in a brief conversation with neighbors or local officials rega
 * **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
 * **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
 
-### Somatic Awareness & Present-Moment Integration
+### Human Behavior & Relational Dynamics
 * **Verbatim Quote:** "Yeah, nobody in the family's ever going to use my horse gear."
 * **Speaker:** Andrea
-* **Core Insight:** Emphasizes bodily listening and physical presence as a foundation for grounding awareness in daily life.
-* **Somatic / Relational Context:** Triggered by physical sensation or noticing internal bodily states during daily routines.
+* **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
+* **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
 
 ### Human Behavior & Relational Dynamics
 * **Verbatim Quote:** "I do I've just been this way for probably part of my conditioning as a child."
@@ -208,12 +213,10 @@ Andy participated in a brief conversation with neighbors or local officials rega
 * **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
 
 ### Catchy Phrases & Key Sayings
-* **"What Do You Think"** — 4 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"You Don'T Have To"** — 3 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"That Monsoon Moisture"** — 3 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+- *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-- *No unusual or humorous nicknames recorded today.*
+- *No public figures or notable historical figures referenced today.*
 
 ---
 
@@ -263,4 +266,4 @@ Andy participated in a brief conversation with neighbors or local officials rega
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-26 06:24:43*
+*Report automatically generated on 2026-08-27 06:27:32*

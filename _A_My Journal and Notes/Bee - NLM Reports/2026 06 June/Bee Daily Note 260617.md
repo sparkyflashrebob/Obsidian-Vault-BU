@@ -21,7 +21,12 @@ tags:
 
 📅 **Date**: Wednesday, June 17, 2026 (2026-06-17)
 👥 **Attendees**: Andrea (Wife), Andy
-📊 **Total Bee Conversations Processed**: 8
+🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
+📊 **Total Plaud Conversations Processed**: **0**
+📊 **Total Bee Conversations Processed**: **0**
+
+### ⚠️ Pipeline Status & Data Ingestion Warnings
+- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
 
 ---
 
@@ -42,7 +47,7 @@ tags:
 
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
-- **Bank of America** (Acc: `TwoAndiesPreferred - 6263`): **$0.00** — `Your credit card statement is available` (06/17/2026 8:17 AM)
+- *No automated financial balance alert emails received yet today.*
 
 ### ✉️ Outgoing Sent Emails & Correspondence
 - **To**: `peter.pinfield@comcast.net` | **Subject**: Credit Score (9:32 AM)
@@ -144,6 +149,12 @@ Andy and Andrea discussed upcoming comedy shows in the area, with Andrea mention
 
 ## 💬 Quoted Expressions & Catchy Phrases
 ### Quotes
+### Societal Truisms & Cultural Realities
+* **Verbatim Quote:** "I I think I just have to get busy boxing and I, start organizing what I'm or something."
+* **Speaker:** Andy
+* **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
+* **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
+
 ### Human Behavior & Relational Dynamics
 * **Verbatim Quote:** "So I know a client and family up there, right in that area off of Verano."
 * **Speaker:** Andy
@@ -156,31 +167,23 @@ Andy and Andrea discussed upcoming comedy shows in the area, with Andrea mention
 * **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
 * **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
 
-### Human Behavior & Relational Dynamics
-* **Verbatim Quote:** "doesn't want to play with family."
+### Societal Truisms & Cultural Realities
+* **Verbatim Quote:** "That's but I'm actually we've been now that I'm retired, we've more recently since we've been paying attention."
 * **Speaker:** Andy
-* **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
-* **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
+* **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
+* **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
 
-### Human Behavior & Relational Dynamics
-* **Verbatim Quote:** "Maybe we're supposed to be married to this family."
+### Societal Truisms & Cultural Realities
+* **Verbatim Quote:** "Well, I guess, it's hard to keep the balance paying attention to stuff, and stuff."
 * **Speaker:** Andy
-* **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
-* **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
-
-### Human Behavior & Relational Dynamics
-* **Verbatim Quote:** "They got fear they want to be us to be available on the house."
-* **Speaker:** Andy
-* **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
-* **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
+* **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
+* **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
 
 ### Catchy Phrases & Key Sayings
-* **"One Of The Things"** — 3 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"Have One With My"** — 3 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"I Have One With My"** — 3 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+- *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-- *No unusual or humorous nicknames recorded today.*
+* **Jack Kornfield** — *Context:* Pioneer American mindfulness teacher and author.
 
 ---
 
@@ -230,4 +233,4 @@ Andy and Andrea discussed upcoming comedy shows in the area, with Andrea mention
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-26 06:20:40*
+*Report automatically generated on 2026-08-27 06:22:07*

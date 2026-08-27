@@ -24,7 +24,12 @@ tags:
 
 📅 **Date**: Monday, August 17, 2026 (2026-08-17)
 👥 **Attendees**: Andy, Unidentified Physical Speaker (Query needed)
-📊 **Total Bee Conversations Processed**: 16
+🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
+📊 **Total Plaud Conversations Processed**: **0**
+📊 **Total Bee Conversations Processed**: **0**
+
+### ⚠️ Pipeline Status & Data Ingestion Warnings
+- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
 
 ---
 
@@ -272,13 +277,10 @@ Andy was preparing to watch a movie and made popcorn while having a brief conver
 * **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
 
 ### Catchy Phrases & Key Sayings
-* **"I'M Just Going To"** — 5 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"Fast Track Statement"** — 5 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"I Don'T Know What"** — 4 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+- *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-* **Audel** — *Context:* Frequent collaborator and co-participant in SDRT discussions.
-* **Andy Audell** — *Context:* Distinctive proper noun or creative handle captured in transcript.
+- *No public figures or notable historical figures referenced today.*
 
 ---
 
@@ -328,4 +330,4 @@ Andy was preparing to watch a movie and made popcorn while having a brief conver
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-26 06:31:14*
+*Report automatically generated on 2026-08-27 06:36:14*

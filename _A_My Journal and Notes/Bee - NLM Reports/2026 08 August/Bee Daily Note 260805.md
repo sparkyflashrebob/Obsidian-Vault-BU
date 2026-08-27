@@ -17,7 +17,12 @@ tags:
 
 📅 **Date**: Wednesday, August 05, 2026 (2026-08-05)
 👥 **Attendees**: Andrea (Wife), Andy
-📊 **Total Bee Conversations Processed**: 12
+🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
+📊 **Total Plaud Conversations Processed**: **0**
+📊 **Total Bee Conversations Processed**: **0**
+
+### ⚠️ Pipeline Status & Data Ingestion Warnings
+- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
 
 ---
 
@@ -234,11 +239,11 @@ Andy recounted witnessing a series of concerning incidents on Magnolia Street. H
 * **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
 * **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
 
-### Somatic Awareness & Present-Moment Integration
+### Human Behavior & Relational Dynamics
 * **Verbatim Quote:** "Everybody in the family having different conversations."
 * **Speaker:** Andy
-* **Core Insight:** Emphasizes bodily listening and physical presence as a foundation for grounding awareness in daily life.
-* **Somatic / Relational Context:** Triggered by physical sensation or noticing internal bodily states during daily routines.
+* **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
+* **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
 
 ### Spirituality, Impermanence & Interconnection
 * **Verbatim Quote:** "They think there may be a representation of the two minor spirits."
@@ -252,19 +257,17 @@ Andy recounted witnessing a series of concerning incidents on Magnolia Street. H
 * **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
 * **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
 
-### Human Behavior & Relational Dynamics
-* **Verbatim Quote:** "Well, then, what ended up happening to a family of 12, and one of the kids of the 12 was playing a video game, and he was so loud his headphones weren't working, or whatever."
+### Mindfulness & Contemplative Inquiry
+* **Verbatim Quote:** "So it sounds it's just basically a meditation retreat out there and you're TT."
 * **Speaker:** Andy
-* **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
-* **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
+* **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
+* **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
 
 ### Catchy Phrases & Key Sayings
-* **"Dream Dream Dream"** — 12 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"Dream Dream Dream Dream"** — 11 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"Dream Dream Dream Dream Dream"** — 10 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+- *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-* **De Young** — *Context:* Fine Arts Museum of San Francisco featured during daily cultural outings.
+- *No public figures or notable historical figures referenced today.*
 
 ---
 
@@ -298,4 +301,4 @@ Andy recounted witnessing a series of concerning incidents on Magnolia Street. H
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-26 06:28:54*
+*Report automatically generated on 2026-08-27 06:33:16*

@@ -25,7 +25,12 @@ tags:
 
 📅 **Date**: Sunday, July 26, 2026 (2026-07-26)
 👥 **Attendees**: Andrea (Wife), Andy
-📊 **Total Bee Conversations Processed**: 13
+🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
+📊 **Total Plaud Conversations Processed**: **0**
+📊 **Total Bee Conversations Processed**: **0**
+
+### ⚠️ Pipeline Status & Data Ingestion Warnings
+- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
 
 ---
 
@@ -44,7 +49,7 @@ tags:
 
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
-- **Bank of America** (Acc: `number`): **$2,705.00** — `We've sent your payment to Edgewater Place/Larkspur Isle as requested` (07/27/2026 1:40 AM)
+- *No automated financial balance alert emails received yet today.*
 
 ### ✉️ Outgoing Sent Emails & Correspondence
 - *No outgoing sent email replies or correspondence recorded today.*
@@ -255,11 +260,11 @@ The conversation also covered health and wellness topics, including Andy's weigh
 * **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
 * **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
 
-### Human Behavior & Relational Dynamics
+### Societal Truisms & Cultural Realities
 * **Verbatim Quote:** "It depends on what your belief in God has you also believe in society."
 * **Speaker:** Andy
-* **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
-* **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
+* **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
+* **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
 
 ### Spirituality, Impermanence & Interconnection
 * **Verbatim Quote:** "I was talking one time, and a lady said to me, I said, I believe God created the heaven and the earth."
@@ -274,12 +279,10 @@ The conversation also covered health and wellness topics, including Andy's weigh
 * **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
 
 ### Catchy Phrases & Key Sayings
-* **"That'S What I Was"** — 5 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"Chemical Munitions Against"** — 4 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"Thank You For That"** — 4 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+- *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-- *No unusual or humorous nicknames recorded today.*
+* **Rumi** — *Context:* Famous 13th-century Persian poet and Sufi mystic.
 
 ---
 
@@ -329,4 +332,4 @@ The conversation also covered health and wellness topics, including Andy's weigh
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-26 06:27:11*
+*Report automatically generated on 2026-08-27 06:30:54*

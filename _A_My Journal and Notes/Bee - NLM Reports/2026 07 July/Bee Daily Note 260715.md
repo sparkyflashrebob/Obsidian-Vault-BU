@@ -28,7 +28,12 @@ tags:
 
 📅 **Date**: Wednesday, July 15, 2026 (2026-07-15)
 👥 **Attendees**: Andrea (Wife), Andy
-📊 **Total Bee Conversations Processed**: 12
+🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
+📊 **Total Plaud Conversations Processed**: **0**
+📊 **Total Bee Conversations Processed**: **0**
+
+### ⚠️ Pipeline Status & Data Ingestion Warnings
+- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
 
 ---
 
@@ -56,9 +61,7 @@ tags:
 
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
-- **Bank of America** (Total Available Balance: **$4,995.00** across 2 accounts):
-  - Account `DETAILS`: **$4,995.00** (07/14/2026 12:43 PM)
-  - Account `TwoAndiesPreferred - 6263`: **$0.00** (07/16/2026 8:17 AM)
+- *No automated financial balance alert emails received yet today.*
 
 ### ✉️ Outgoing Sent Emails & Correspondence
 - **To**: `Will Meecham <willspirit@icloud.com>` | **Subject**: Re: Club (4:21 PM)
@@ -314,12 +317,10 @@ Andy spent the day focused on establishing a meditation group at College of Mari
 * **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
 
 ### Catchy Phrases & Key Sayings
-* **"Department Of Justice"** — 16 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"The Federal Reserve"** — 13 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"The Department Of"** — 13 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+- *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-* **Buddha** — *Context:* Distinctive proper noun or creative handle captured in transcript.
+* **Buddha** — *Context:* Historical founder of Buddhism and source of Dhamma teachings.
 
 ---
 
@@ -377,4 +378,4 @@ Andy spent the day focused on establishing a meditation group at College of Mari
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-26 06:25:37*
+*Report automatically generated on 2026-08-27 06:28:43*

@@ -21,7 +21,12 @@ tags:
 
 📅 **Date**: Sunday, August 02, 2026 (2026-08-02)
 👥 **Attendees**: Andrea (Wife), Andy
-📊 **Total Bee Conversations Processed**: 11
+🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
+📊 **Total Plaud Conversations Processed**: **0**
+📊 **Total Bee Conversations Processed**: **0**
+
+### ⚠️ Pipeline Status & Data Ingestion Warnings
+- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
 
 ---
 
@@ -40,7 +45,7 @@ tags:
 
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
-- **Bank of America** (Acc: `Unknown Account`): **$0.00** — `Your auto-redeemed cash rewards are on the way` (08/02/2026 4:48 PM)
+- *No automated financial balance alert emails received yet today.*
 
 ### ✉️ Outgoing Sent Emails & Correspondence
 - *No outgoing sent email replies or correspondence recorded today.*
@@ -258,10 +263,8 @@ Andy engaged in a brief conversation discussing physical discomfort, particularl
 * **"Second Arrow Concept"** — 1 occurrence — *Context:* Buddhist psychological metaphor for secondary emotional reactivity.
 
 ### Notable Names Mentioned
-* **Jeffy** — *Context:* Affectionate reference to household companion/pet associated with meditation sessions.
-* **Jeffy** — *Context:* Distinctive proper noun or creative handle captured in transcript.
-* **Buddha** — *Context:* Distinctive proper noun or creative handle captured in transcript.
-* **Dhamma** — *Context:* Distinctive proper noun or creative handle captured in transcript.
+* **Buddha** — *Context:* Historical founder of Buddhism and source of Dhamma teachings.
+* **Donald Trump** — *Context:* Former U.S. President mentioned in news commentaries.
 
 ---
 
@@ -319,4 +322,4 @@ Andy engaged in a brief conversation discussing physical discomfort, particularl
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-26 06:28:28*
+*Report automatically generated on 2026-08-27 06:32:39*

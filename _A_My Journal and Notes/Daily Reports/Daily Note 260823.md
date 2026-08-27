@@ -1,7 +1,5 @@
 ---
 tags:
-  - master-daily-report
-  - unified-report
   - ambient-sensors
   - bee-reports
   - college-of-marin
@@ -27,7 +25,16 @@ tags:
 
 📅 **Date**: Sunday, August 23, 2026 (2026-08-23)
 👥 **Attendees**: Andy, Unidentified Physical Speaker (Query needed)
-📊 **Total Bee Conversations Processed**: 15
+🎙️ **Primary Data Source**: **Plaud Local PC Ingest (Direct API + Local Whisper AI)**
+📊 **Plaud Sessions Processed (PRIMARY)**: **6**
+📊 **Bee Sessions Processed (SECONDARY BACKUP)**: **15**
+
+### ⚙️ Pipeline Status & Data Ingestion Log
+- ⚡ **Plaud Direct Ingest**: ✅ **Active** (0 Cloud Minutes Spent, 0 Phone Taps Needed)
+- 🎙️ **Local Whisper AI Transcripts**: ✅ **Active**
+- 🐝 **Bee Secondary Backup**: ✅ **Active** (Gap-Filling Only)
+- 📧 **Gmail & Financial Ingest**: ✅ **Active**
+- 📅 **Google Calendar**: ✅ **Active**
 
 ---
 
@@ -46,8 +53,9 @@ tags:
 
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
-- **Bank of America** (Acc: `SparkyBank - 0372`): **$7969.30** — `Your Available Balance` (08/23/2026 7:37 AM)
-- **Bank of America** (Acc: `TwoAndiesSave - 6171`): **$2063.79** — `Your Available Balance` (08/23/2026 7:30 AM)
+- **Bank of America** (Total Available Balance: **$10,033.09** across 2 accounts):
+  - Account `SparkyBank - 0372`: **$7,969.30** (08/23/2026 7:37 AM)
+  - Account `TwoAndiesSave - 6171`: **$2,063.79** (08/23/2026 7:30 AM)
 
 ### ✉️ Outgoing Sent Emails & Correspondence
 - *No outgoing sent email replies or correspondence recorded today.*
@@ -108,7 +116,7 @@ tags:
 - **Andy plans to explore the Great Law of Peace further. (10:11 AM – 10:31 AM)**: principles really had an effect on me to know Knockwood, who was a get to a very profound inspirational Micmac spiritual leader. So Micmac Canada, Canadian.
 - **Andy begins planning for future gatherings and reviews current needs. (10:53 AM – 11:15 AM)**: Yeah. In the future where there are group gatherings at dinners, birthdays, meditation group meetings, etc. Provide a synopsis of the meeting and the key points made, if available.
 - **Andy identifies voice recognition errors and plans to switch from B to Plaid. (11:15 AM – 11:46 AM)**: If I didn't necessarily need to know whether it was morning, afternoon, or evening, could we determine the order in which events occur with the plot? If we ignored needing the morning, evening, and afternoon designati...
-- **Session 8 (11:56 AM – 12:03 PM)**: Can I specific a specific heat note to my watch, like my shopping list? There is no way to add my note to my watch so that it just pops up.
+- **Session 14 (11:56 AM – 12:03 PM)**: Can I specific a specific heat note to my watch, like my shopping list? There is no way to add my note to my watch so that it just pops up.
 
 ### ☀️ Afternoon Session (12:01 PM – 5:00 PM)
 - **Andy decides on meatballs for the family meal. (12:10 PM – 12:20 PM)**: Just two. So what we do is we split it up to the week.
@@ -172,7 +180,7 @@ Dialogue recorded: Yeah. In the future where there are group gatherings at dinne
 #### Andy identifies voice recognition errors and plans to switch from B to Plaid. (11:15 AM – 11:46 AM)
 Dialogue recorded: If I didn't necessarily need to know whether it was morning, afternoon, or evening, could we determine the order in which events occur with the plot? If we ignored needing the morning, evening, and afternoon designations, could we determine with Laud...
 
-#### Session 8 — 📍 Marin DSA Special Meeting: 2028 Presidential Endorsement Discussion @ Robson-Harrington House, 237 Crescent Rd Suite 4, San Anselmo, CA 94960, USA (11:56 AM – 12:03 PM)
+#### Session 14 — 📍 Marin DSA Special Meeting: 2028 Presidential Endorsement Discussion @ Robson-Harrington House, 237 Crescent Rd Suite 4, San Anselmo, CA 94960, USA (11:56 AM – 12:03 PM)
 *Context / Event Alignment*: Overlaps with scheduled Calendar event **Marin DSA Special Meeting: 2028 Presidential Endorsement Discussion** @ Robson-Harrington House, 237 Crescent Rd Suite 4, San Anselmo, CA 94960, USA.
 
 Dialogue recorded: Can I specific a specific heat note to my watch, like my shopping list? There is no way to add my note to my watch so that it just pops up. Okay, I want to be able to open up my Go Google at the grocery store and bring up my shopping list. I don't wa...
@@ -280,16 +288,24 @@ Andy led a dharma teaching session focusing on the Bahia Sutta from Buddhist tea
 * **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
 
 ### Catchy Phrases & Key Sayings
-* **"We Don'T Need To"** — 6 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"There Is Only The"** — 5 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"Don'T Know About"** — 4 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+- *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-* **Buddha** — *Context:* Distinctive proper noun or creative handle captured in transcript.
+* **Buddha** — *Context:* Historical founder of Buddhism and source of Dhamma teachings.
+* **Jack Kornfield** — *Context:* Pioneer American mindfulness teacher and author.
+* **Donald Trump** — *Context:* Former U.S. President mentioned in news commentaries.
 
 ---
 
 ## 📚 Stories & Case Examples Shared
+### Cultivating Empathy vs Remote Isolation
+* **Narrative Context:** Andy discussing social empathy, judgment, and emotional boundaries during a domestic reflection.
+* **The Key Passage (Verbatim):**
+  > "And that's not what I'm talking about here. I'm talking a sense of understanding, compassion, empathy, peace, that brings about."
+* **The Human / Contemplative Tension:** Balancing personal peace with remaining open to others' genuine suffering without becoming cynical.
+* **The Turning Point / Realization:** Realizing that judging others' unskillful behavior is itself a subtle trap of isolation.
+* **Universal Truth / Teaching:** True compassion requires stepping into another's shoes while maintaining clear, grounded awareness.
+
 ### Cultivating Empathy vs Remote Isolation
 * **Narrative Context:** Andy discussing social empathy, judgment, and emotional boundaries during a domestic reflection.
 * **The Key Passage (Verbatim):**
@@ -302,14 +318,6 @@ Andy led a dharma teaching session focusing on the Bahia Sutta from Buddhist tea
 * **Narrative Context:** Andy discussing social empathy, judgment, and emotional boundaries during a domestic reflection.
 * **The Key Passage (Verbatim):**
   > "He reflected on maintaining loving, compassionate awareness during difficult sits"
-* **The Human / Contemplative Tension:** Balancing personal peace with remaining open to others' genuine suffering without becoming cynical.
-* **The Turning Point / Realization:** Realizing that judging others' unskillful behavior is itself a subtle trap of isolation.
-* **Universal Truth / Teaching:** True compassion requires stepping into another's shoes while maintaining clear, grounded awareness.
-
-### Cultivating Empathy vs Remote Isolation
-* **Narrative Context:** Andy discussing social empathy, judgment, and emotional boundaries during a domestic reflection.
-* **The Key Passage (Verbatim):**
-  > "He practiced recognizing and having compassion for unhealthy mental states"
 * **The Human / Contemplative Tension:** Balancing personal peace with remaining open to others' genuine suffering without becoming cynical.
 * **The Turning Point / Realization:** Realizing that judging others' unskillful behavior is itself a subtle trap of isolation.
 * **Universal Truth / Teaching:** True compassion requires stepping into another's shoes while maintaining clear, grounded awareness.
@@ -343,4 +351,4 @@ Andy led a dharma teaching session focusing on the Bahia Sutta from Buddhist tea
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-24 09:53:51*
+*Report automatically generated on 2026-08-27 08:53:38*

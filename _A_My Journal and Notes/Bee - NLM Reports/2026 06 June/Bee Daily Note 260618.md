@@ -25,7 +25,12 @@ tags:
 
 📅 **Date**: Thursday, June 18, 2026 (2026-06-18)
 👥 **Attendees**: Andrea (Wife), Andy, Holly (Keith's Wife (Andrea's Mother through 2nd Marriage)), Keith (Andrea's Father (Paternal Parent))
-📊 **Total Bee Conversations Processed**: 16
+🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
+📊 **Total Plaud Conversations Processed**: **0**
+📊 **Total Bee Conversations Processed**: **0**
+
+### ⚠️ Pipeline Status & Data Ingestion Warnings
+- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
 
 ---
 
@@ -227,15 +232,10 @@ Andy spent time watching World Cup soccer match highlights with his partner, cat
 * **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
 
 ### Catchy Phrases & Key Sayings
-* **"I Thought It Was"** — 5 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"Yeah That'S What"** — 4 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"That'S What I'M Saying"** — 4 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+- *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-* **Bunny Runner** — *Context:* Affectionate nickname used for Andy's wife in conversation.
-* **Afghan Buddhas** — *Context:* Distinctive proper noun or creative handle captured in transcript.
-* **Afghan Buddha** — *Context:* Distinctive proper noun or creative handle captured in transcript.
-* **Buddha** — *Context:* Distinctive proper noun or creative handle captured in transcript.
+* **Buddha** — *Context:* Historical founder of Buddhism and source of Dhamma teachings.
 
 ---
 
@@ -277,4 +277,4 @@ Andy spent time watching World Cup soccer match highlights with his partner, cat
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-26 06:20:50*
+*Report automatically generated on 2026-08-27 06:22:23*

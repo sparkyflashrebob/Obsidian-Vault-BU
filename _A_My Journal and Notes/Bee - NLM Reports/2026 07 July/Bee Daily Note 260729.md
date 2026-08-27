@@ -21,7 +21,12 @@ tags:
 
 📅 **Date**: Wednesday, July 29, 2026 (2026-07-29)
 👥 **Attendees**: Andrea (Wife), Andy
-📊 **Total Bee Conversations Processed**: 12
+🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
+📊 **Total Plaud Conversations Processed**: **0**
+📊 **Total Bee Conversations Processed**: **0**
+
+### ⚠️ Pipeline Status & Data Ingestion Warnings
+- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
 
 ---
 
@@ -41,7 +46,7 @@ tags:
 
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
-- **Bank of America** (Acc: `Unknown Account`): **$150.00** — `Andrea Axtell sent you $150.00` (07/29/2026 6:02 AM)
+- *No automated financial balance alert emails received yet today.*
 
 ### ✉️ Outgoing Sent Emails & Correspondence
 - *No outgoing sent email replies or correspondence recorded today.*
@@ -256,37 +261,36 @@ Andy spent the evening having a relaxed conversation with Andrea and household m
 * **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
 * **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
 
+### Societal Truisms & Cultural Realities
+* **Verbatim Quote:** "I guess it's hearing the background noise."
+* **Speaker:** Andy
+* **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
+* **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
+
 ### Mindfulness & Contemplative Inquiry
 * **Verbatim Quote:** "Sharp?Five days of meditating."
 * **Speaker:** Andrea
 * **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
 * **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
 
-### Somatic Awareness & Present-Moment Integration
-* **Verbatim Quote:** "I just wanted to give you a love tap and tell you I think about you and I care, and I hope you're doing well, and the family and everybody."
-* **Speaker:** Andy
-* **Core Insight:** Emphasizes bodily listening and physical presence as a foundation for grounding awareness in daily life.
-* **Somatic / Relational Context:** Triggered by physical sensation or noticing internal bodily states during daily routines.
-
 ### Human Behavior & Relational Dynamics
-* **Verbatim Quote:** "Are you going to do something with the family tonight?"
+* **Verbatim Quote:** "I just wanted to give you a love tap and tell you I think about you and I care, and I hope you're doing well, and the family and everybody."
 * **Speaker:** Andy
 * **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
 * **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
 
-### Mindfulness & Contemplative Inquiry
-* **Verbatim Quote:** "Meditate.And then in the try not to eat in the evening."
+### Societal Truisms & Cultural Realities
+* **Verbatim Quote:** "Yeah, it's all gone. No. Yeah. Okay, well, I know I've kept you way longer than I should because I know how busy you are."
 * **Speaker:** Andy
-* **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
-* **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
+* **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
+* **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
 
 ### Catchy Phrases & Key Sayings
-* **"She Was Going To"** — 5 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"I Didn'T Want To"** — 4 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"Was Going To Kill"** — 4 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+- *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-* **Buddha** — *Context:* Distinctive proper noun or creative handle captured in transcript.
+* **Buddha** — *Context:* Historical founder of Buddhism and source of Dhamma teachings.
+* **Donald Trump** — *Context:* Former U.S. President mentioned in news commentaries.
 
 ---
 
@@ -320,4 +324,4 @@ Andy spent the evening having a relaxed conversation with Andrea and household m
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-26 06:27:46*
+*Report automatically generated on 2026-08-27 06:31:41*

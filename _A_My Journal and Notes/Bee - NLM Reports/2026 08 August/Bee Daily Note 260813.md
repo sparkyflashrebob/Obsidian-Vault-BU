@@ -15,7 +15,12 @@ tags:
 
 📅 **Date**: Thursday, August 13, 2026 (2026-08-13)
 👥 **Attendees**: Andrea (Wife), Andy, Unidentified Physical Speaker (Query needed)
-📊 **Total Bee Conversations Processed**: 20
+🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
+📊 **Total Plaud Conversations Processed**: **0**
+📊 **Total Bee Conversations Processed**: **0**
+
+### ⚠️ Pipeline Status & Data Ingestion Warnings
+- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
 
 ---
 
@@ -274,6 +279,12 @@ Andy engaged in a reflective monologue discussing his research on meditation pra
 * **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
 * **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
 
+### Societal Truisms & Cultural Realities
+* **Verbatim Quote:** "That's okay, you can make noise."
+* **Speaker:** Andy
+* **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
+* **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
+
 ### Mindfulness & Contemplative Inquiry
 * **Verbatim Quote:** "You can do meditation now if you want."
 * **Speaker:** Andy
@@ -292,20 +303,12 @@ Andy engaged in a reflective monologue discussing his research on meditation pra
 * **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
 * **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
 
-### Mindfulness & Contemplative Inquiry
-* **Verbatim Quote:** "Are things that I'm interested in doing, but they're not actual insights into meditation or human behavior, which is the focus for what this section is about."
-* **Speaker:** Andy
-* **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
-* **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
-
 ### Catchy Phrases & Key Sayings
-* **"Rise Up Sing Out"** — 1 occurrence — *Context:* Community songbook title referenced during music organization.
+- *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-* **Ajahn Amaro** — *Context:* Abhayagiri Monastery abbot mentioned regarding Thai Forest teachings.
-* **Dhamma** — *Context:* Distinctive proper noun or creative handle captured in transcript.
-* **Buddha** — *Context:* Distinctive proper noun or creative handle captured in transcript.
-* **Ajahn Amaro** — *Context:* Distinctive proper noun or creative handle captured in transcript.
+* **Buddha** — *Context:* Historical founder of Buddhism and source of Dhamma teachings.
+* **Ajahn Amaro** — *Context:* Abhayagiri Monastery abbot and Theravada author.
 
 ---
 
@@ -355,4 +358,4 @@ Andy engaged in a reflective monologue discussing his research on meditation pra
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-26 06:30:17*
+*Report automatically generated on 2026-08-27 06:35:02*

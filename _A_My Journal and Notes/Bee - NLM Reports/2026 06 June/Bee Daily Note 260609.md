@@ -17,7 +17,12 @@ tags:
 
 📅 **Date**: Tuesday, June 09, 2026 (2026-06-09)
 👥 **Attendees**: Andrea (Wife), Andy
-📊 **Total Bee Conversations Processed**: 8
+🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
+📊 **Total Plaud Conversations Processed**: **0**
+📊 **Total Bee Conversations Processed**: **0**
+
+### ⚠️ Pipeline Status & Data Ingestion Warnings
+- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
 
 ---
 
@@ -36,7 +41,7 @@ tags:
 
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
-- **Bank of America** (Acc: `number`): **$0.00** — `You added Kaiser Foundation Health Plan as a payee` (06/10/2026 10:59 AM)
+- *No automated financial balance alert emails received yet today.*
 
 ### ✉️ Outgoing Sent Emails & Correspondence
 - *No outgoing sent email replies or correspondence recorded today.*
@@ -178,10 +183,10 @@ Andy and Andrea spent time together managing household logistics, planning enter
 * **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
 
 ### Catchy Phrases & Key Sayings
-* **"Rise Up Sing Out"** — 1 occurrence — *Context:* Community songbook title referenced during music organization.
+- *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-* **De Young** — *Context:* Fine Arts Museum of San Francisco featured during daily cultural outings.
+* **Donald Trump** — *Context:* Former U.S. President mentioned in news commentaries.
 
 ---
 
@@ -215,4 +220,4 @@ Andy and Andrea spent time together managing household logistics, planning enter
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-26 06:19:08*
+*Report automatically generated on 2026-08-27 06:20:06*

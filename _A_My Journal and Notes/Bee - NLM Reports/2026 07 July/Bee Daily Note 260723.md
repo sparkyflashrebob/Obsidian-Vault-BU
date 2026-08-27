@@ -29,7 +29,12 @@ tags:
 
 📅 **Date**: Thursday, July 23, 2026 (2026-07-23)
 👥 **Attendees**: Andrea (Wife), Andy
-📊 **Total Bee Conversations Processed**: 18
+🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
+📊 **Total Plaud Conversations Processed**: **0**
+📊 **Total Bee Conversations Processed**: **0**
+
+### ⚠️ Pipeline Status & Data Ingestion Warnings
+- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
 
 ---
 
@@ -48,9 +53,7 @@ tags:
 
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
-- **Bank of America** (Total Available Balance: **$0.00** across 2 accounts):
-  - Account `from`: **$0.00** (07/24/2026 7:26 AM)
-  - Account `Unknown Account`: **$0.00** (07/22/2026 10:07 PM)
+- *No automated financial balance alert emails received yet today.*
 
 ### ✉️ Outgoing Sent Emails & Correspondence
 - *No outgoing sent email replies or correspondence recorded today.*
@@ -283,6 +286,18 @@ Andy is engaged in reviewing and editing written material about Buddhist mindful
 * **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
 * **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
 
+### Societal Truisms & Cultural Realities
+* **Verbatim Quote:** "No, I I mean overflowingly busy."
+* **Speaker:** Andy
+* **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
+* **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
+
+### Societal Truisms & Cultural Realities
+* **Verbatim Quote:** "So I've been busy, busier than ever."
+* **Speaker:** Andy
+* **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
+* **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
+
 ### Spirituality, Impermanence & Interconnection
 * **Verbatim Quote:** "Never.You are a water girl and I'm an earth guy."
 * **Speaker:** Andy
@@ -295,25 +310,11 @@ Andy is engaged in reviewing and editing written material about Buddhist mindful
 * **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
 * **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
 
-### Human Behavior & Relational Dynamics
-* **Verbatim Quote:** "Or I'm not saying all the time because I don't know him well enough, but I think with me that there's been this dynamic that's been set up since he was a kid that was perpetuated by the family."
-* **Speaker:** Andy
-* **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
-* **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
-
-### Spirituality, Impermanence & Interconnection
-* **Verbatim Quote:** "Wisdom would say that the rock is heavy and to not try to lift it."
-* **Speaker:** Andy
-* **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
-* **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
-
 ### Catchy Phrases & Key Sayings
-* **"The Bedroom Light"** — 10 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"Bless Your Heart"** — 5 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"Google Turn On The"** — 3 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+- *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-* **Buddha** — *Context:* Distinctive proper noun or creative handle captured in transcript.
+* **Buddha** — *Context:* Historical founder of Buddhism and source of Dhamma teachings.
 
 ---
 
@@ -363,4 +364,4 @@ Andy is engaged in reviewing and editing written material about Buddhist mindful
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-26 06:26:46*
+*Report automatically generated on 2026-08-27 06:30:20*

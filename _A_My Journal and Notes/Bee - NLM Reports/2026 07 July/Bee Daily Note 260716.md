@@ -25,7 +25,12 @@ tags:
 
 📅 **Date**: Thursday, July 16, 2026 (2026-07-16)
 👥 **Attendees**: Andrea (Wife), Andy
-📊 **Total Bee Conversations Processed**: 8
+🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
+📊 **Total Plaud Conversations Processed**: **0**
+📊 **Total Bee Conversations Processed**: **0**
+
+### ⚠️ Pipeline Status & Data Ingestion Warnings
+- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
 
 ---
 
@@ -44,7 +49,7 @@ tags:
 
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
-- **Bank of America** (Acc: `TwoAndiesPreferred - 6263`): **$0.00** — `Your credit card statement is available` (07/16/2026 8:17 AM)
+- *No automated financial balance alert emails received yet today.*
 
 ### ✉️ Outgoing Sent Emails & Correspondence
 - **To**: `Will Meecham <willspirit@icloud.com>` | **Subject**: Re: Club (10:07 PM)
@@ -214,17 +219,17 @@ Andy spent time troubleshooting technical issues across multiple platforms - upd
 * **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
 * **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
 
-### Human Behavior & Relational Dynamics
+### Societal Truisms & Cultural Realities
 * **Verbatim Quote:** "I am looking to talk about this in the context of society at large and for people not necessarily to be in recovery centers."
 * **Speaker:** Andy
-* **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
-* **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
+* **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
+* **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
 
-### Human Behavior & Relational Dynamics
+### Societal Truisms & Cultural Realities
 * **Verbatim Quote:** "I'm not necessarily looking to teach this in terms of recovery, but in society at large."
 * **Speaker:** Andy
-* **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
-* **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
+* **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
+* **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
 
 ### Spirituality, Impermanence & Interconnection
 * **Verbatim Quote:** "I got signatures, so I'm good, so you don't have to worry about that."
@@ -232,19 +237,19 @@ Andy spent time troubleshooting technical issues across multiple platforms - upd
 * **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
 * **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
 
-### Mindfulness & Contemplative Inquiry
-* **Verbatim Quote:** "And he has a meditation group."
+### Societal Truisms & Cultural Realities
+* **Verbatim Quote:** "That might get some good attention to the men."
 * **Speaker:** Andy
-* **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
-* **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
+* **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
+* **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
 
 ### Catchy Phrases & Key Sayings
-* **"It'S Going To Be"** — 5 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"And Then There'S"** — 4 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"Of The Committee"** — 4 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+- *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-* **Buddha** — *Context:* Distinctive proper noun or creative handle captured in transcript.
+* **William James** — *Context:* Renowned American philosopher and psychologist (Pragmatism) referenced in mindfulness discussion.
+* **Buddha** — *Context:* Historical founder of Buddhism and source of Dhamma teachings.
+* **Jack Kornfield** — *Context:* Pioneer American mindfulness teacher and author.
 
 ---
 
@@ -294,4 +299,4 @@ Andy spent time troubleshooting technical issues across multiple platforms - upd
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-26 06:25:46*
+*Report automatically generated on 2026-08-27 06:28:55*

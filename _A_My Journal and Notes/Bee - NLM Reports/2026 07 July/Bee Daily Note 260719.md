@@ -17,7 +17,12 @@ tags:
 
 📅 **Date**: Sunday, July 19, 2026 (2026-07-19)
 👥 **Attendees**: Andrea (Wife), Andy
-📊 **Total Bee Conversations Processed**: 8
+🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
+📊 **Total Plaud Conversations Processed**: **0**
+📊 **Total Bee Conversations Processed**: **0**
+
+### ⚠️ Pipeline Status & Data Ingestion Warnings
+- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
 
 ---
 
@@ -39,7 +44,7 @@ tags:
 
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
-- **Bank of America** (Acc: `Unknown Account`): **$300.00** — `We received your mobile check deposit` (07/18/2026 3:15 PM)
+- *No automated financial balance alert emails received yet today.*
 
 ### ✉️ Outgoing Sent Emails & Correspondence
 - **To**: `Andrea Axtell <dragonflylodge.aa@gmail.com>` | **Subject**: Baking Soda and Vinegars (11:06 AM)
@@ -196,17 +201,11 @@ Andy spent the evening engaged in multiple activities including watching sports 
 
 ## 💬 Quoted Expressions & Catchy Phrases
 ### Quotes
-### Psychological Conditioning & Vulnerability
-* **Verbatim Quote:** "write a blog post about honesty in terms of government, capitalism, and the law."
-* **Speaker:** Andy
-* **Core Insight:** Unpacks relational patterns and self-honesty necessary to dissolve long-standing emotional defenses.
-* **Somatic / Relational Context:** Triggered during candid interpersonal dialogue or self-reflective monologues.
-
-### Human Behavior & Relational Dynamics
+### Societal Truisms & Cultural Realities
 * **Verbatim Quote:** "On top of that, they need to be held accountable both by the institutions that support society."
 * **Speaker:** Andy
-* **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
-* **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
+* **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
+* **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
 
 ### Mindfulness & Contemplative Inquiry
 * **Verbatim Quote:** "That's the problem with meditation coaching, guys."
@@ -226,13 +225,18 @@ Andy spent the evening engaged in multiple activities including watching sports 
 * **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
 * **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
 
+### Societal Truisms & Cultural Realities
+* **Verbatim Quote:** "People always wonder what I noticed for anybody."
+* **Speaker:** Andy
+* **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
+* **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
+
 ### Catchy Phrases & Key Sayings
-* **"That'S What I'M Saying"** — 4 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"Fruits And Vegetables"** — 3 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"The Benefit Of The"** — 3 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+- *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-* **Buddha** — *Context:* Distinctive proper noun or creative handle captured in transcript.
+* **Buddha** — *Context:* Historical founder of Buddhism and source of Dhamma teachings.
+* **Donald Trump** — *Context:* Former U.S. President mentioned in news commentaries.
 
 ---
 
@@ -266,4 +270,4 @@ Andy spent the evening engaged in multiple activities including watching sports 
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-26 06:26:15*
+*Report automatically generated on 2026-08-27 06:29:34*

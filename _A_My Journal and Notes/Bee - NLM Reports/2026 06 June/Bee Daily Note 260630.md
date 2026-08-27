@@ -17,7 +17,12 @@ tags:
 
 📅 **Date**: Tuesday, June 30, 2026 (2026-06-30)
 👥 **Attendees**: Andy
-📊 **Total Bee Conversations Processed**: 6
+🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
+📊 **Total Plaud Conversations Processed**: **0**
+📊 **Total Bee Conversations Processed**: **0**
+
+### ⚠️ Pipeline Status & Data Ingestion Warnings
+- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
 
 ---
 
@@ -37,7 +42,7 @@ tags:
 
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
-- **Bank of America** (Acc: `from`): **$0.00** — `Security alert: Your User ID was used to log in from a new device at 5:03 p.m. ET on Jun 29` (06/29/2026 2:03 PM)
+- *No automated financial balance alert emails received yet today.*
 
 ### ✉️ Outgoing Sent Emails & Correspondence
 - *No outgoing sent email replies or correspondence recorded today.*
@@ -173,12 +178,10 @@ Andy spent this period primarily consuming media content in his living environme
 * **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
 
 ### Catchy Phrases & Key Sayings
-* **"I'M Just Going To"** — 3 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"That'S One Of The"** — 2 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"I Wanted To Come"** — 2 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+- *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-* **Buddha** — *Context:* Distinctive proper noun or creative handle captured in transcript.
+* **Buddha** — *Context:* Historical founder of Buddhism and source of Dhamma teachings.
 
 ---
 
@@ -212,4 +215,4 @@ Andy spent this period primarily consuming media content in his living environme
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-26 06:22:59*
+*Report automatically generated on 2026-08-27 06:25:14*

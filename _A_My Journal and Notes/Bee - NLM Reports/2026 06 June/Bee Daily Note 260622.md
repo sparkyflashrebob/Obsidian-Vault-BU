@@ -20,8 +20,13 @@ tags:
 # Home tour for 1440 Ramona, Mattress Shopping with Spouse, and Organizing documents and supporting daughter
 
 📅 **Date**: Monday, June 22, 2026 (2026-06-22)
-👥 **Attendees**: Andrea (Wife), Andy, Audel (SDRT Collaborator)
-📊 **Total Bee Conversations Processed**: 8
+👥 **Attendees**: Andrea (Wife), Andy
+🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
+📊 **Total Plaud Conversations Processed**: **0**
+📊 **Total Bee Conversations Processed**: **0**
+
+### ⚠️ Pipeline Status & Data Ingestion Warnings
+- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
 
 ---
 
@@ -203,15 +208,10 @@ Andy and his partner Andrea were reviewing rental property listings together, di
 * **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
 
 ### Catchy Phrases & Key Sayings
-* **"That'S What I'M Saying"** — 8 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"I Just Wanted To"** — 5 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"We Could Do That"** — 4 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+- *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-* **Audel** — *Context:* Frequent collaborator and co-participant in SDRT discussions.
-* **Audell** — *Context:* Distinctive proper noun or creative handle captured in transcript.
-* **Audel Salazar** — *Context:* Distinctive proper noun or creative handle captured in transcript.
-* **Audel** — *Context:* Distinctive proper noun or creative handle captured in transcript.
+- *No public figures or notable historical figures referenced today.*
 
 ---
 
@@ -245,4 +245,4 @@ Andy and his partner Andrea were reviewing rental property listings together, di
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-26 06:21:31*
+*Report automatically generated on 2026-08-27 06:23:16*

@@ -17,7 +17,12 @@ tags:
 
 📅 **Date**: Saturday, June 06, 2026 (2026-06-06)
 👥 **Attendees**: Andrea (Wife), Andy
-📊 **Total Bee Conversations Processed**: 14
+🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
+📊 **Total Plaud Conversations Processed**: **0**
+📊 **Total Bee Conversations Processed**: **0**
+
+### ⚠️ Pipeline Status & Data Ingestion Warnings
+- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
 
 ---
 
@@ -39,12 +44,12 @@ tags:
 
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
-- **Bank of America** (Acc: `SparkyBank - 0372`): **$7,917.84** — `Your Available Balance` (08/26/2026 3:40 AM)
-- **Fidelity Investments** (Total Value: **$273,352.78** across 4 accounts):
-  - Account `XXXXX2492`: **$256,383.22** | Settled Cash: $25,958.89 (08/26/2026 3:47 AM)
-  - Account `XXXXX1490`: **$13,254.18** | Settled Cash: $12,458.53 (08/26/2026 3:49 AM)
-  - Account `XXXXX1128`: **$3,715.20** | Settled Cash: $42.45 (08/26/2026 3:47 AM)
-  - Account `XXXXX3435`: **$0.18** | Settled Cash: $0.18 (08/26/2026 3:50 AM)
+- **Bank of America** (Acc: `SparkyBank - 0372`): **$7,872.95** — `Your Available Balance` (08/27/2026 3:38 AM)
+- **Fidelity Investments** (Total Value: **$271,011.48** across 4 accounts):
+  - Account `XXXXX2492`: **$256,293.90** | Settled Cash: $25,958.89 (08/27/2026 3:48 AM)
+  - Account `XXXXX1490`: **$11,004.45** | Settled Cash: $10,208.53 (08/27/2026 3:46 AM)
+  - Account `XXXXX1128`: **$3,712.95** | Settled Cash: $42.45 (08/27/2026 3:48 AM)
+  - Account `XXXXX3435`: **$0.18** | Settled Cash: $0.18 (08/27/2026 3:47 AM)
 
 ### ✉️ Outgoing Sent Emails & Correspondence
 - **To**: `hi@bee.computer` | **Subject**: Bee Feedback (6:29 AM)
@@ -287,12 +292,10 @@ Andy was at his Airbnb in Joshua Tree with Andrea, spending the evening watching
 * **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
 
 ### Catchy Phrases & Key Sayings
-* **"No No No No No No"** — 10 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"The United States"** — 5 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"I Don'T Know What"** — 4 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+- *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-- *No unusual or humorous nicknames recorded today.*
+* **Donald Trump** — *Context:* Former U.S. President mentioned in news commentaries.
 
 ---
 
@@ -342,4 +345,4 @@ Andy was at his Airbnb in Joshua Tree with Andrea, spending the evening watching
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-26 06:18:31*
+*Report automatically generated on 2026-08-27 06:19:20*

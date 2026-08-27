@@ -28,7 +28,12 @@ tags:
 
 📅 **Date**: Saturday, July 25, 2026 (2026-07-25)
 👥 **Attendees**: Andrea (Wife), Andy
-📊 **Total Bee Conversations Processed**: 16
+🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
+📊 **Total Plaud Conversations Processed**: **0**
+📊 **Total Bee Conversations Processed**: **0**
+
+### ⚠️ Pipeline Status & Data Ingestion Warnings
+- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
 
 ---
 
@@ -48,7 +53,7 @@ tags:
 
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
-- **Bank of America** (Acc: `from`): **$0.00** — `Security alert: Your User ID was used to log in from a new device at 10:26 a.m. ET on Jul 24` (07/24/2026 7:26 AM)
+- *No automated financial balance alert emails received yet today.*
 
 ### ✉️ Outgoing Sent Emails & Correspondence
 - *No outgoing sent email replies or correspondence recorded today.*
@@ -281,11 +286,11 @@ Andy was actively managing his home's temperature during this conversation, adju
 
 ## 💬 Quoted Expressions & Catchy Phrases
 ### Quotes
-### Somatic Awareness & Present-Moment Integration
+### Psychological Conditioning & Vulnerability
 * **Verbatim Quote:** "how my how I get motivated instead of so what I noticed was is okay, I did this, I have this talk on honesty, but and I haven't really given it to anybody, but I've given to you."
 * **Speaker:** Andy
-* **Core Insight:** Emphasizes bodily listening and physical presence as a foundation for grounding awareness in daily life.
-* **Somatic / Relational Context:** Triggered by physical sensation or noticing internal bodily states during daily routines.
+* **Core Insight:** Unpacks relational patterns and self-honesty necessary to dissolve long-standing emotional defenses.
+* **Somatic / Relational Context:** Triggered during candid interpersonal dialogue or self-reflective monologues.
 
 ### Mindfulness & Contemplative Inquiry
 * **Verbatim Quote:** "Cause that was to me that was something that was important to me as when I came up in my meditation."
@@ -312,15 +317,10 @@ Andy was actively managing his home's temperature during this conversation, adju
 * **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
 
 ### Catchy Phrases & Key Sayings
-* **"That'S What I'M Saying"** — 12 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"You Don'T Have To"** — 10 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"I'M Going To Show"** — 10 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+- *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-* **Bunny Runner** — *Context:* Affectionate nickname used for Andy's wife in conversation.
-* **Bunny Runner** — *Context:* Distinctive proper noun or creative handle captured in transcript.
-* **Buddha** — *Context:* Distinctive proper noun or creative handle captured in transcript.
-* **Dhamma** — *Context:* Distinctive proper noun or creative handle captured in transcript.
+* **Buddha** — *Context:* Historical founder of Buddhism and source of Dhamma teachings.
 
 ---
 
@@ -394,4 +394,4 @@ Andy was actively managing his home's temperature during this conversation, adju
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-26 06:27:03*
+*Report automatically generated on 2026-08-27 06:30:43*

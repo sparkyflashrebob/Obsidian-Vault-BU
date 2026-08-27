@@ -16,8 +16,13 @@ tags:
 # Parliamentary debate on Israel Palestine conflict, Florida python invasion ecology discussion, and Comparing prices and family chat
 
 📅 **Date**: Sunday, June 21, 2026 (2026-06-21)
-👥 **Attendees**: Andrea (Wife), Andy, Audel (SDRT Collaborator)
-📊 **Total Bee Conversations Processed**: 7
+👥 **Attendees**: Andrea (Wife), Andy, Unidentified Physical Speaker (Query needed)
+🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
+📊 **Total Plaud Conversations Processed**: **0**
+📊 **Total Bee Conversations Processed**: **0**
+
+### ⚠️ Pipeline Status & Data Ingestion Warnings
+- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
 
 ---
 
@@ -36,12 +41,12 @@ tags:
 
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
-- **Bank of America** (Acc: `SparkyBank - 0372`): **$7,917.84** — `Your Available Balance` (08/26/2026 3:40 AM)
-- **Fidelity Investments** (Total Value: **$273,352.78** across 4 accounts):
-  - Account `XXXXX2492`: **$256,383.22** | Settled Cash: $25,958.89 (08/26/2026 3:47 AM)
-  - Account `XXXXX1490`: **$13,254.18** | Settled Cash: $12,458.53 (08/26/2026 3:49 AM)
-  - Account `XXXXX1128`: **$3,715.20** | Settled Cash: $42.45 (08/26/2026 3:47 AM)
-  - Account `XXXXX3435`: **$0.18** | Settled Cash: $0.18 (08/26/2026 3:50 AM)
+- **Bank of America** (Acc: `SparkyBank - 0372`): **$7,872.95** — `Your Available Balance` (08/27/2026 3:38 AM)
+- **Fidelity Investments** (Total Value: **$271,011.48** across 4 accounts):
+  - Account `XXXXX2492`: **$256,293.90** | Settled Cash: $25,958.89 (08/27/2026 3:48 AM)
+  - Account `XXXXX1490`: **$11,004.45** | Settled Cash: $10,208.53 (08/27/2026 3:46 AM)
+  - Account `XXXXX1128`: **$3,712.95** | Settled Cash: $42.45 (08/27/2026 3:48 AM)
+  - Account `XXXXX3435`: **$0.18** | Settled Cash: $0.18 (08/27/2026 3:47 AM)
 
 ### ✉️ Outgoing Sent Emails & Correspondence
 - **To**: `Bridget Lyons <bridgetl@westgaterealestate.com>` | **Subject**: Re: Rentals Managed with Westgate Real Estate- how to navigate website steps (11:27 AM)
@@ -172,6 +177,12 @@ Andy spent time with Andrea and Audel in a domestic setting, with significant ba
 * **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
 * **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
 
+### Societal Truisms & Cultural Realities
+* **Verbatim Quote:** "The Nazis seek to destroy Polish culture and the Polish nation and eliminate any resistance by arresting and murdering Poles."
+* **Speaker:** Andy
+* **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
+* **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
+
 ### Human Behavior & Relational Dynamics
 * **Verbatim Quote:** "Jenny, who grew up in an evangelical family, was also influenced by Nazi."
 * **Speaker:** Andy
@@ -184,20 +195,12 @@ Andy spent time with Andrea and Audel in a domestic setting, with significant ba
 * **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
 * **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
 
-### Mindfulness & Contemplative Inquiry
-* **Verbatim Quote:** "While four of them, Van Baklaf, Gervais Steinhoff, Elizabeth Bager, and George Hardee's cries and pleaded for their life, only one, Jenny Wann, who had celebrated her 24th birthday the day before, remained calm."
-* **Speaker:** Andy
-* **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
-* **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
-
 ### Catchy Phrases & Key Sayings
-* **"They'Re Going To"** — 5 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"That'S What I'M Saying"** — 5 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"There'S A Lot Of"** — 4 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+- *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-* **Audel** — *Context:* Frequent collaborator and co-participant in SDRT discussions.
-* **Audel** — *Context:* Distinctive proper noun or creative handle captured in transcript.
+* **Donald Trump** — *Context:* Former U.S. President mentioned in news commentaries.
+* **Malcolm X** — *Context:* Civil rights leader referenced in historical commentary.
 
 ---
 
@@ -231,4 +234,4 @@ Andy spent time with Andrea and Audel in a domestic setting, with significant ba
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-26 06:21:24*
+*Report automatically generated on 2026-08-27 06:23:08*

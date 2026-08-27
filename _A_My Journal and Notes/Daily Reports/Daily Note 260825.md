@@ -1,7 +1,5 @@
 ---
 tags:
-  - master-daily-report
-  - unified-report
   - 12-step-framework
   - bee-reports
   - college-of-marin
@@ -26,8 +24,17 @@ tags:
 # Morning Check-In About Body Pain, Planning Sermon and Meditation Class, and Managing Past Google Tasks Occurrences
 
 📅 **Date**: Tuesday, August 25, 2026 (2026-08-25)
-👥 **Attendees**: Andy, Audel (SDRT Collaborator)
-📊 **Total Bee Conversations Processed**: 11
+👥 **Attendees**: Andy, Unidentified Physical Speaker (Query needed)
+🎙️ **Primary Data Source**: **Plaud Local PC Ingest (Direct API + Local Whisper AI)**
+📊 **Plaud Sessions Processed (PRIMARY)**: **5**
+📊 **Bee Sessions Processed (SECONDARY BACKUP)**: **11**
+
+### ⚙️ Pipeline Status & Data Ingestion Log
+- ⚡ **Plaud Direct Ingest**: ✅ **Active** (0 Cloud Minutes Spent, 0 Phone Taps Needed)
+- 🎙️ **Local Whisper AI Transcripts**: ✅ **Active**
+- 🐝 **Bee Secondary Backup**: ✅ **Active** (Gap-Filling Only)
+- 📧 **Gmail & Financial Ingest**: ✅ **Active**
+- 📅 **Google Calendar**: ✅ **Active**
 
 ---
 
@@ -143,7 +150,7 @@ tags:
 * **Meeting Synopsis**: Andy attended a Mindfulness Meditation Club gathering at College of Marin in Kentfield. The group shared cookies, personal experiences of grief and meaningful coincidences, and reflections on meditation, emotional overwhelm, climate distress, and compassion. Afterward, Andy spoke with others about Andrea’s poorly attended event and the challenge of promoting meditation groups. He also reflected privately on feeling physically unwell, using meditation to stay with difficult emotions, and studying mindfulness teachings on pain, discomfort, and fixed views.
 * **Key Points by Participant**:
   * **Andy**: Shared on "That's the whole point of it, sure."
-  * **Audel** (SDRT Collaborator): Shared on "How do rigid views cause destruction in us?"
+  * **Audel** (Wife (Andrea)): Shared on "How do rigid views cause destruction in us?"
 
 
 ---
@@ -228,6 +235,12 @@ Andy and Audel spent the evening preparing for and attending a Mary Oliver film 
 
 ## 💬 Quoted Expressions & Catchy Phrases
 ### Quotes
+### Societal Truisms & Cultural Realities
+* **Verbatim Quote:** "All that noise is a kind of a hammer drill holes in the ground span."
+* **Speaker:** Andy
+* **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
+* **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
+
 ### Mindfulness & Contemplative Inquiry
 * **Verbatim Quote:** "Oh boy, and I have I have an hour and a half before I have to go to the meditation class."
 * **Speaker:** Andy
@@ -246,30 +259,33 @@ Andy and Audel spent the evening preparing for and attending a Mary Oliver film 
 * **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
 * **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
 
-### Spirituality, Impermanence & Interconnection
-* **Verbatim Quote:** "Yeah, I was thinking about the bird at the good earth with the damaged, mangled right leg story as a key aspect of dealing with life's difficulties and in an upright manner."
+### Societal Truisms & Cultural Realities
+* **Verbatim Quote:** "It's what I call hats, whatever is at the top of your attention, then that is the that's what leads."
 * **Speaker:** Andy
-* **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
-* **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
-
-### Mindfulness & Contemplative Inquiry
-* **Verbatim Quote:** "He called, because he had read his dad's emails from the meditation card."
-* **Speaker:** Andy
-* **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
-* **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
+* **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
+* **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
 
 ### Catchy Phrases & Key Sayings
-* **"City Of The City"** — 7 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"Of The City Of The"** — 7 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"The City Of The City"** — 7 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+* **"What Interpretation Serves The Moment"** — 1 occurrence — *Context:* Pragmatist philosophical reflection on unprovable coincidences.
+* **"You Do Not Have To Walk On Your Knees"** — 3 occurrences — *Context:* Poetic line from Mary Oliver's 'Wild Geese' recited during screening.
 
 ### Notable Names Mentioned
-* **Audel** — *Context:* Frequent collaborator and co-participant in SDRT discussions.
-* **Audel** — *Context:* Distinctive proper noun or creative handle captured in transcript.
+* **Mary Oliver** — *Context:* Famous American poet and Pulitzer Prize winner featured in the documentary screening at The Lark / Rafael Theater.
+* **William James** — *Context:* Renowned American philosopher and psychologist (Pragmatism) referenced in mindfulness discussion.
+* **Rumi** — *Context:* Famous 13th-century Persian poet and Sufi mystic.
+* **Louise Shriver** — *Context:* Journalist and interviewer featured in Mary Oliver documentary.
 
 ---
 
 ## 📚 Stories & Case Examples Shared
+### Cultivating Empathy vs Remote Isolation
+* **Narrative Context:** Andy discussing social empathy, judgment, and emotional boundaries during a domestic reflection.
+* **The Key Passage (Verbatim):**
+  > "I perform as running shoes that help me put in the work."
+* **The Human / Contemplative Tension:** Balancing personal peace with remaining open to others' genuine suffering without becoming cynical.
+* **The Turning Point / Realization:** Realizing that judging others' unskillful behavior is itself a subtle trap of isolation.
+* **Universal Truth / Teaching:** True compassion requires stepping into another's shoes while maintaining clear, grounded awareness.
+
 ### Cultivating Empathy vs Remote Isolation
 * **Narrative Context:** Andy discussing social empathy, judgment, and emotional boundaries during a domestic reflection.
 * **The Key Passage (Verbatim):**
@@ -315,4 +331,4 @@ Andy and Audel spent the evening preparing for and attending a Mary Oliver film 
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-26 08:59:25*
+*Report automatically generated on 2026-08-27 08:56:27*

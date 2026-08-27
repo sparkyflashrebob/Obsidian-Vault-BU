@@ -24,8 +24,13 @@ tags:
 # All-Day Audio Capture with Wearables, Voice‑ambient separation for watch recordings, and Testing watch audio recording
 
 📅 **Date**: Sunday, August 09, 2026 (2026-08-09)
-👥 **Attendees**: Andrea (Wife), Andy, Audel (SDRT Collaborator)
-📊 **Total Bee Conversations Processed**: 14
+👥 **Attendees**: Andrea (Wife), Andy, Unidentified Physical Speaker (Query needed)
+🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
+📊 **Total Plaud Conversations Processed**: **0**
+📊 **Total Bee Conversations Processed**: **0**
+
+### ⚠️ Pipeline Status & Data Ingestion Warnings
+- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
 
 ---
 
@@ -45,7 +50,7 @@ tags:
 
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
-- **Bank of America** (Acc: `TwoAndiesEmergencyOnly - 7069`): **$0.00** — `Your credit card statement is available` (08/10/2026 10:32 AM)
+- *No automated financial balance alert emails received yet today.*
 
 ### ✉️ Outgoing Sent Emails & Correspondence
 - **To**: `"John O'Connor" <john@insightretreatcenter.org>` | **Subject**: Re: Voluntering (12:10 AM)
@@ -127,7 +132,7 @@ tags:
 #### Testing watch audio recording (9:51 AM – 10:22 AM)
 * **Meeting Synopsis**: Andy provided technical support to Audel for setting up an audio recording workflow from a watch device to phone storage and Google Drive synchronization. The conversation focused on troubleshooting app permissions and testing the complete audio transfer pipeline. Audel had installed an "audio recorder" app on their phone but initially encountered permission issues that prevented proper functionality. Andy guided them through testing the system's behavior, particularly focusing on automatic pause settings that trigger when there's silence. The session included practical testing where Audel made a test recording to verify the entire chain from watch recording to phone storage to Google Drive backup was working correctly.
 * **Key Points by Participant**:
-  * **Audel** (SDRT Collaborator): Shared on "On my phone, I don't see theudio recorder app listed."
+  * **Audel** (Wife (Andrea)): Shared on "On my phone, I don't see theudio recorder app listed."
 
 #### Wear OS voice sync challenge (10:28 AM – 11:07 AM)
 * **Meeting Synopsis**: Andy was testing and troubleshooting his Wear OS voice recorder app and its phone companion app, experiencing synchronization issues between the two platforms. He experimented with various features including auto-start/stop functionality and explored options to trigger recordings from his phone. Meanwhile, background conversations included Andrea discussing grocery shopping needs (plums, apples, berries, spinach, bell peppers, kombucha, water, carrots, juice, and ginger) while music played in the environment. Andy also commented on his physical condition, noting back pain but finding walking beneficial for movement and strain relief.
@@ -285,15 +290,10 @@ Andy facilitated a "Living Mindfully" group session focused on practical approac
 * **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
 
 ### Catchy Phrases & Key Sayings
-* **"That'S What I'M Saying"** — 4 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"It'S Going To Be"** — 4 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"Thank You Very Much"** — 3 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+- *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-* **Bunny Runner** — *Context:* Affectionate nickname used for Andy's wife in conversation.
-* **Audel** — *Context:* Frequent collaborator and co-participant in SDRT discussions.
-* **Audel** — *Context:* Distinctive proper noun or creative handle captured in transcript.
-* **Camaro** — *Context:* Distinctive proper noun or creative handle captured in transcript.
+- *No public figures or notable historical figures referenced today.*
 
 ---
 
@@ -327,4 +327,4 @@ Andy facilitated a "Living Mindfully" group session focused on practical approac
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-26 06:29:42*
+*Report automatically generated on 2026-08-27 06:34:15*

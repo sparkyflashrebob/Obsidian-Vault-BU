@@ -17,7 +17,12 @@ tags:
 
 📅 **Date**: Monday, June 29, 2026 (2026-06-29)
 👥 **Attendees**: Andy
-📊 **Total Bee Conversations Processed**: 10
+🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
+📊 **Total Plaud Conversations Processed**: **0**
+📊 **Total Bee Conversations Processed**: **0**
+
+### ⚠️ Pipeline Status & Data Ingestion Warnings
+- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
 
 ---
 
@@ -36,7 +41,7 @@ tags:
 
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
-- **Bank of America** (Acc: `from`): **$0.00** — `Security alert: Your User ID was used to log in from a new device at 5:03 p.m. ET on Jun 29` (06/29/2026 2:03 PM)
+- *No automated financial balance alert emails received yet today.*
 
 ### ✉️ Outgoing Sent Emails & Correspondence
 - *No outgoing sent email replies or correspondence recorded today.*
@@ -188,25 +193,23 @@ The timing coincides with Andy's scheduled Social Security payment arrival (arou
 * **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
 * **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
 
-### Human Behavior & Relational Dynamics
+### Societal Truisms & Cultural Realities
 * **Verbatim Quote:** "Revise the description to include including topics on society in general."
 * **Speaker:** Andy
-* **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
-* **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
+* **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
+* **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
 
-### Spirituality, Impermanence & Interconnection
-* **Verbatim Quote:** "How much you love, how gently you live, how gracefully you let go of the things not meant for you."
+### Societal Truisms & Cultural Realities
+* **Verbatim Quote:** "Yeah they weighing me down Yeah, they weighing me down somebody's had a busy day Yeah I'm trying to figure out a way to get back into teaching I actually not specifically teaching yet, but a couple of things came up."
 * **Speaker:** Andy
-* **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
-* **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
+* **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
+* **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
 
 ### Catchy Phrases & Key Sayings
-* **"And Heart Together"** — 4 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"I Don'T Know Why"** — 3 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"Head And Heart Together"** — 3 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+- *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-- *No unusual or humorous nicknames recorded today.*
+* **Jack Kornfield** — *Context:* Pioneer American mindfulness teacher and author.
 
 ---
 
@@ -240,4 +243,4 @@ The timing coincides with Andy's scheduled Social Security payment arrival (arou
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-26 06:22:47*
+*Report automatically generated on 2026-08-27 06:24:58*

@@ -21,7 +21,12 @@ tags:
 
 📅 **Date**: Friday, August 21, 2026 (2026-08-21)
 👥 **Attendees**: Andrea (Wife), Andy, Holly (Keith's Wife (Andrea's Mother through 2nd Marriage)), Keith (Andrea's Father (Paternal Parent))
-📊 **Total Bee Conversations Processed**: 19
+🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
+📊 **Total Plaud Conversations Processed**: **0**
+📊 **Total Bee Conversations Processed**: **0**
+
+### ⚠️ Pipeline Status & Data Ingestion Warnings
+- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
 
 ---
 
@@ -299,12 +304,10 @@ This appears to be a fragmented conversation covering several topics: Andy remin
 * **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
 
 ### Catchy Phrases & Key Sayings
-* **"That'S What I Was"** — 5 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"And Then There'S"** — 5 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"We'Re Talking About"** — 4 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+- *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-- *No unusual or humorous nicknames recorded today.*
+- *No public figures or notable historical figures referenced today.*
 
 ---
 
@@ -418,4 +421,4 @@ This appears to be a fragmented conversation covering several topics: Andy remin
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-26 06:32:17*
+*Report automatically generated on 2026-08-27 06:37:25*

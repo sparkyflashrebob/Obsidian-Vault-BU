@@ -24,7 +24,12 @@ tags:
 
 📅 **Date**: Saturday, May 30, 2026 (2026-05-30)
 👥 **Attendees**: Andy
-📊 **Total Bee Conversations Processed**: 6
+🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
+📊 **Total Plaud Conversations Processed**: **0**
+📊 **Total Bee Conversations Processed**: **0**
+
+### ⚠️ Pipeline Status & Data Ingestion Warnings
+- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
 
 ---
 
@@ -44,7 +49,7 @@ tags:
 
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
-- **Bank of America** (Acc: `Unknown Account`): **$0.00** — `Your statement is available` (05/28/2026 8:28 PM)
+- *No automated financial balance alert emails received yet today.*
 
 ### ✉️ Outgoing Sent Emails & Correspondence
 - **To**: `hi@bee.computer` | **Subject**: Bee Feedback (9:06 PM)
@@ -156,22 +161,20 @@ Andy and his partner Sarah spent the evening winding down together after separat
 * **Core Insight:** Unpacks relational patterns and self-honesty necessary to dissolve long-standing emotional defenses.
 * **Somatic / Relational Context:** Triggered during candid interpersonal dialogue or self-reflective monologues.
 
-### Somatic Awareness & Present-Moment Integration
+### Psychological Conditioning & Vulnerability
 * **Verbatim Quote:** "it's I mean, the very fewer, I have it really, I've learned to, if I can't be honest for some reason, which very rarely does it I mean I mean the honesty is I don't need to share everything with everybody, what I mean?"
 * **Speaker:** Andy
-* **Core Insight:** Emphasizes bodily listening and physical presence as a foundation for grounding awareness in daily life.
-* **Somatic / Relational Context:** Triggered by physical sensation or noticing internal bodily states during daily routines.
+* **Core Insight:** Unpacks relational patterns and self-honesty necessary to dissolve long-standing emotional defenses.
+* **Somatic / Relational Context:** Triggered during candid interpersonal dialogue or self-reflective monologues.
 
 ### Catchy Phrases & Key Sayings
-* **"Cause And Effect"** — 3 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"Redwood Valley California"** — 3 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"Well Well Well Well"** — 3 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+- *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-* **Ajahn Sumedho** — *Context:* Renowned Theravada Buddhist monastic teacher referenced in spiritual discussions.
-* **Ajahn Amaro** — *Context:* Abhayagiri Monastery abbot mentioned regarding Thai Forest teachings.
-* **Ajahn Sumedho** — *Context:* Distinctive proper noun or creative handle captured in transcript.
-* **Dhamma** — *Context:* Distinctive proper noun or creative handle captured in transcript.
+* **Buddha** — *Context:* Historical founder of Buddhism and source of Dhamma teachings.
+* **Ajahn Sumedho** — *Context:* Renowned Theravada Buddhist monastic teacher.
+* **Ajahn Amaro** — *Context:* Abhayagiri Monastery abbot and Theravada author.
+* **Ajahn Pasano** — *Context:* Abhayagiri Monastery founding abbot.
 
 ---
 
@@ -205,4 +208,4 @@ Andy and his partner Sarah spent the evening winding down together after separat
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-26 06:17:05*
+*Report automatically generated on 2026-08-27 06:17:14*

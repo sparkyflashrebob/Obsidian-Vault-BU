@@ -14,8 +14,13 @@ tags:
 # Audio system troubleshooting session, Human-Centered Daily Report Mindfulness Reflection, and Setting up preferred communication methods
 
 📅 **Date**: Wednesday, August 19, 2026 (2026-08-19)
-👥 **Attendees**: Andy, Audel (SDRT Collaborator), Unidentified Physical Speaker (Query needed)
-📊 **Total Bee Conversations Processed**: 15
+👥 **Attendees**: Andy, Unidentified Physical Speaker (Query needed)
+🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
+📊 **Total Plaud Conversations Processed**: **0**
+📊 **Total Bee Conversations Processed**: **0**
+
+### ⚠️ Pipeline Status & Data Ingestion Warnings
+- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
 
 ---
 
@@ -34,12 +39,12 @@ tags:
 
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
-- **Bank of America** (Acc: `SparkyBank - 0372`): **$7,917.84** — `Your Available Balance` (08/26/2026 3:40 AM)
-- **Fidelity Investments** (Total Value: **$273,352.78** across 4 accounts):
-  - Account `XXXXX2492`: **$256,383.22** | Settled Cash: $25,958.89 (08/26/2026 3:47 AM)
-  - Account `XXXXX1490`: **$13,254.18** | Settled Cash: $12,458.53 (08/26/2026 3:49 AM)
-  - Account `XXXXX1128`: **$3,715.20** | Settled Cash: $42.45 (08/26/2026 3:47 AM)
-  - Account `XXXXX3435`: **$0.18** | Settled Cash: $0.18 (08/26/2026 3:50 AM)
+- **Bank of America** (Acc: `SparkyBank - 0372`): **$7,872.95** — `Your Available Balance` (08/27/2026 3:38 AM)
+- **Fidelity Investments** (Total Value: **$271,011.48** across 4 accounts):
+  - Account `XXXXX2492`: **$256,293.90** | Settled Cash: $25,958.89 (08/27/2026 3:48 AM)
+  - Account `XXXXX1490`: **$11,004.45** | Settled Cash: $10,208.53 (08/27/2026 3:46 AM)
+  - Account `XXXXX1128`: **$3,712.95** | Settled Cash: $42.45 (08/27/2026 3:48 AM)
+  - Account `XXXXX3435`: **$0.18** | Settled Cash: $0.18 (08/27/2026 3:47 AM)
 
 ### ✉️ Outgoing Sent Emails & Correspondence
 - *No outgoing sent email replies or correspondence recorded today.*
@@ -134,7 +139,7 @@ tags:
 * **Key Points by Participant**:
   * **Andy**: Shared on "Of meditation before the Dharma."
   * **Jon**: Shared on "What was happening here?"
-  * **Audel** (SDRT Collaborator): Shared on "So it's catching me there."
+  * **Audel** (Wife (Andrea)): Shared on "So it's catching me there."
 
 
 ---
@@ -239,6 +244,12 @@ Andy engaged in conversations with political canvassers advocating for removal o
 * **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
 * **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
 
+### Societal Truisms & Cultural Realities
+* **Verbatim Quote:** "I'm a busy bee crazy, crazy She So Andy's state of affairs this morning after spending another 45 minutes trying to get the things straightened out there with these reports."
+* **Speaker:** Andy
+* **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
+* **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
+
 ### Mindfulness & Contemplative Inquiry
 * **Verbatim Quote:** "What the memories of this day, the memories of my experience would I want to reflect to others when I talk about mindfulness and living a life, a purposeful life?"
 * **Speaker:** Andy
@@ -251,27 +262,18 @@ Andy engaged in conversations with political canvassers advocating for removal o
 * **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
 * **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
 
-### Spirituality, Impermanence & Interconnection
+### Societal Truisms & Cultural Realities
 * **Verbatim Quote:** "What I'm doing right now is important And It is easier to speak it than to write it Okay, so I think I'm going to go and proceed with thinking about Dharma and there's a lot of noise right now."
 * **Speaker:** Andy
-* **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
-* **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
-
-### Mindfulness & Contemplative Inquiry
-* **Verbatim Quote:** "Hopefully I can get it you get in the meditation I'm supposed to go to this thing at five and I'm supposed to go to Tai Chi Let's see if I go to either of them My phone wow, these tires, his phone stuff is what's going on."
-* **Speaker:** Andy
-* **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
-* **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
+* **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
+* **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
 
 ### Catchy Phrases & Key Sayings
-* **"Thank You So Much"** — 10 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"Notes Report Automation"** — 4 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"I Don'T Remember"** — 4 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+- *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-* **Ed Brown** — *Context:* Zen teacher and Tassajara bread book author associated with morning practice Zoom sessions.
-* **Audel** — *Context:* Frequent collaborator and co-participant in SDRT discussions.
-* **Audel** — *Context:* Distinctive proper noun or creative handle captured in transcript.
+* **Ed Brown** — *Context:* Zen teacher and Tassajara bread book author.
+* **Donald Trump** — *Context:* Former U.S. President mentioned in news commentaries.
 
 ---
 
@@ -313,4 +315,4 @@ Andy engaged in conversations with political canvassers advocating for removal o
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-26 06:31:52*
+*Report automatically generated on 2026-08-27 06:36:58*

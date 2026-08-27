@@ -27,8 +27,13 @@ tags:
 # Financial report troubleshooting session, Managing reports during retreat schedule, and Spiritual encouragement for Andrea's challenges
 
 📅 **Date**: Monday, August 24, 2026 (2026-08-24)
-👥 **Attendees**: Andy, Audel (SDRT Collaborator), Unidentified Physical Speaker (Query needed)
-📊 **Total Bee Conversations Processed**: 15
+👥 **Attendees**: Andy, Unidentified Physical Speaker (Query needed)
+🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
+📊 **Total Plaud Conversations Processed**: **0**
+📊 **Total Bee Conversations Processed**: **0**
+
+### ⚠️ Pipeline Status & Data Ingestion Warnings
+- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
 
 ---
 
@@ -47,7 +52,7 @@ tags:
 
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
-- **Bank of America** (Total Available Balance: **$9,873.21** across 2 accounts):
+- **Bank of America** (Total Available Balance: **$9,873.21** across 2 accounts — <font color="red"><b>-$159.88 (Down)</b></font>):
   - Account `SparkyBank - 0372`: **$7,809.42** (08/24/2026 6:27 AM)
   - Account `TwoAndiesSave - 6171`: **$2,063.79** (08/24/2026 6:36 AM)
 - **Fidelity Investments** (Total Value: **$272,647.05** across 4 accounts):
@@ -285,14 +290,12 @@ Andy had a brief, casual conversation with someone nearby about a meeting that m
 * **Somatic / Relational Context:** Triggered by physical sensation or noticing internal bodily states during daily routines.
 
 ### Catchy Phrases & Key Sayings
-* **"A Couple Of Days"** — 4 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"Share Your Screen"** — 4 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"A Whole Bunch Of"** — 4 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+- *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-* **Audel** — *Context:* Frequent collaborator and co-participant in SDRT discussions.
-* **Buddha** — *Context:* Distinctive proper noun or creative handle captured in transcript.
-* **Audel** — *Context:* Distinctive proper noun or creative handle captured in transcript.
+* **Mary Oliver** — *Context:* Famous American poet and Pulitzer Prize winner featured in the documentary screening at The Lark / Rafael Theater.
+* **Bahiya** — *Context:* Historical disciple of the Buddha associated with the Bahiya Sutta teaching.
+* **Buddha** — *Context:* Historical founder of Buddhism and source of Dhamma teachings.
 
 ---
 
@@ -334,4 +337,4 @@ Andy had a brief, casual conversation with someone nearby about a meeting that m
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-26 06:34:18*
+*Report automatically generated on 2026-08-27 06:39:39*

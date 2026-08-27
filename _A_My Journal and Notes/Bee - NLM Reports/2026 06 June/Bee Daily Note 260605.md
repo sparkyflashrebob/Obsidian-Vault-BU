@@ -17,7 +17,12 @@ tags:
 
 📅 **Date**: Friday, June 05, 2026 (2026-06-05)
 👥 **Attendees**: Andrea (Wife), Andy
-📊 **Total Bee Conversations Processed**: 8
+🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
+📊 **Total Plaud Conversations Processed**: **0**
+📊 **Total Bee Conversations Processed**: **0**
+
+### ⚠️ Pipeline Status & Data Ingestion Warnings
+- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
 
 ---
 
@@ -39,7 +44,7 @@ tags:
 
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
-- **Bank of America** (Acc: `from`): **$0.00** — `Security alert: Your User ID was used to log in from a new device at 9:06 p.m. ET on Jun 03` (06/03/2026 6:06 PM)
+- *No automated financial balance alert emails received yet today.*
 
 ### ✉️ Outgoing Sent Emails & Correspondence
 - **To**: `Andy McGuire <andy.mcguire@avdg.com>` | **Subject**: Researchers say this new Trump rule could destroy American science as we know it. They’re fighting back - Reading Mode (6:50 AM)
@@ -230,12 +235,10 @@ Andy was watching sports analysis programming during his stay at a Joshua Tree A
 * **Somatic / Relational Context:** Triggered by physical sensation or noticing internal bodily states during daily routines.
 
 ### Catchy Phrases & Key Sayings
-* **"There'S A Really"** — 2 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"All The People That"** — 2 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"I Don'T Recommend"** — 2 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+- *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-- *No unusual or humorous nicknames recorded today.*
+* **Donald Trump** — *Context:* Former U.S. President mentioned in news commentaries.
 
 ---
 
@@ -269,4 +272,4 @@ Andy was watching sports analysis programming during his stay at a Joshua Tree A
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-26 06:18:16*
+*Report automatically generated on 2026-08-27 06:19:00*

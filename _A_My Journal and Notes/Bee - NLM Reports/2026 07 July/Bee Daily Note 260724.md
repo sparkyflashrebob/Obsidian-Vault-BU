@@ -17,7 +17,12 @@ tags:
 
 📅 **Date**: Friday, July 24, 2026 (2026-07-24)
 👥 **Attendees**: Andrea (Wife), Andy
-📊 **Total Bee Conversations Processed**: 13
+🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
+📊 **Total Plaud Conversations Processed**: **0**
+📊 **Total Bee Conversations Processed**: **0**
+
+### ⚠️ Pipeline Status & Data Ingestion Warnings
+- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
 
 ---
 
@@ -36,7 +41,7 @@ tags:
 
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
-- **Bank of America** (Acc: `from`): **$0.00** — `Security alert: Your User ID was used to log in from a new device at 10:26 a.m. ET on Jul 24` (07/24/2026 7:26 AM)
+- *No automated financial balance alert emails received yet today.*
 
 ### ✉️ Outgoing Sent Emails & Correspondence
 - *No outgoing sent email replies or correspondence recorded today.*
@@ -218,6 +223,12 @@ Andy is configuring smart home devices in his living space, working with another
 * **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
 * **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
 
+### Societal Truisms & Cultural Realities
+* **Verbatim Quote:** "Dad just out of blue said, told her he wants to give her attention treatment."
+* **Speaker:** Andrea
+* **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
+* **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
+
 ### Human Behavior & Relational Dynamics
 * **Verbatim Quote:** "even when I'm talking about the family stuff right now, sativity."
 * **Speaker:** Andy
@@ -236,19 +247,11 @@ Andy is configuring smart home devices in his living space, working with another
 * **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
 * **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
 
-### Somatic Awareness & Present-Moment Integration
-* **Verbatim Quote:** "And that's why most extension cords now have to have circuit breakers on them."
-* **Speaker:** Andy
-* **Core Insight:** Emphasizes bodily listening and physical presence as a foundation for grounding awareness in daily life.
-* **Somatic / Relational Context:** Triggered by physical sensation or noticing internal bodily states during daily routines.
-
 ### Catchy Phrases & Key Sayings
-* **"No No No No No No"** — 8 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"Staying Focused In"** — 5 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"Staying Focused In The"** — 5 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+- *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-- *No unusual or humorous nicknames recorded today.*
+* **Donald Trump** — *Context:* Former U.S. President mentioned in news commentaries.
 
 ---
 
@@ -298,4 +301,4 @@ Andy is configuring smart home devices in his living space, working with another
 - **Evening Volcano Eruption Discussion**
 
 ---
-*Report automatically generated on 2026-08-26 06:26:55*
+*Report automatically generated on 2026-08-27 06:30:32*

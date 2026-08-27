@@ -21,7 +21,12 @@ tags:
 
 📅 **Date**: Friday, August 14, 2026 (2026-08-14)
 👥 **Attendees**: Andrea (Wife), Andy, Unidentified Physical Speaker (Query needed)
-📊 **Total Bee Conversations Processed**: 14
+🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
+📊 **Total Plaud Conversations Processed**: **0**
+📊 **Total Bee Conversations Processed**: **0**
+
+### ⚠️ Pipeline Status & Data Ingestion Warnings
+- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
 
 ---
 
@@ -281,12 +286,11 @@ This conversation captures Andy in his home environment, multi-tasking across se
 * **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
 
 ### Catchy Phrases & Key Sayings
-* **"What You'Re Doing"** — 5 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"Recording On The"** — 4 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"There'S A Lot Of"** — 4 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+- *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-* **Buddha** — *Context:* Distinctive proper noun or creative handle captured in transcript.
+* **Buddha** — *Context:* Historical founder of Buddhism and source of Dhamma teachings.
+* **Donald Trump** — *Context:* Former U.S. President mentioned in news commentaries.
 
 ---
 
@@ -328,4 +332,4 @@ This conversation captures Andy in his home environment, multi-tasking across se
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-26 06:30:26*
+*Report automatically generated on 2026-08-27 06:35:14*

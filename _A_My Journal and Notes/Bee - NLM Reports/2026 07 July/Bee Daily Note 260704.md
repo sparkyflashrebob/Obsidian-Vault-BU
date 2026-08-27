@@ -17,7 +17,12 @@ tags:
 
 📅 **Date**: Saturday, July 04, 2026 (2026-07-04)
 👥 **Attendees**: Andrea (Wife), Andy
-📊 **Total Bee Conversations Processed**: 15
+🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
+📊 **Total Plaud Conversations Processed**: **0**
+📊 **Total Bee Conversations Processed**: **0**
+
+### ⚠️ Pipeline Status & Data Ingestion Warnings
+- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
 
 ---
 
@@ -244,25 +249,23 @@ Andy spent this evening in a domestic setting with Andrea, engaging in casual co
 * **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
 * **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
 
+### Societal Truisms & Cultural Realities
+* **Verbatim Quote:** "Since 4th of July celebrations often involve large crowds, loud noises and fireworks, many people look for alternatives."
+* **Speaker:** Andy
+* **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
+* **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
+
 ### Mindfulness & Contemplative Inquiry
 * **Verbatim Quote:** "You could host a quiet backyard barbecue, so I'll do it another way."
 * **Speaker:** Andy
 * **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
 * **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
 
-### Spirituality, Impermanence & Interconnection
-* **Verbatim Quote:** "I might go to his senior thing, but spirituality of aging, ."
-* **Speaker:** Andy
-* **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
-* **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
-
 ### Catchy Phrases & Key Sayings
-* **"Bullshit Bullshit Bullshit"** — 10 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"The United States"** — 8 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"Bullshit Bullshit Bullshit Bullshit"** — 8 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+- *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-- *No unusual or humorous nicknames recorded today.*
+* **Donald Trump** — *Context:* Former U.S. President mentioned in news commentaries.
 
 ---
 
@@ -304,4 +307,4 @@ Andy spent this evening in a domestic setting with Andrea, engaging in casual co
 - **Evening Volcano Eruption Discussion**
 
 ---
-*Report automatically generated on 2026-08-26 06:23:40*
+*Report automatically generated on 2026-08-27 06:26:09*

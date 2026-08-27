@@ -21,7 +21,12 @@ tags:
 
 📅 **Date**: Sunday, June 28, 2026 (2026-06-28)
 👥 **Attendees**: Andrea (Wife), Andy
-📊 **Total Bee Conversations Processed**: 8
+🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
+📊 **Total Plaud Conversations Processed**: **0**
+📊 **Total Bee Conversations Processed**: **0**
+
+### ⚠️ Pipeline Status & Data Ingestion Warnings
+- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
 
 ---
 
@@ -40,7 +45,7 @@ tags:
 
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
-- **Bank of America** (Acc: `Unknown Account`): **$150.00** — `Andrea Axtell sent you $150.00` (06/28/2026 6:36 AM)
+- *No automated financial balance alert emails received yet today.*
 
 ### ✉️ Outgoing Sent Emails & Correspondence
 - **To**: `Will Meecham <willspirit@icloud.com>` | **Subject**: Re: Meditation (9:15 AM)
@@ -169,6 +174,12 @@ This conversation/interaction appears to be primarily ambient audio capture with
 
 ## 💬 Quoted Expressions & Catchy Phrases
 ### Quotes
+### Societal Truisms & Cultural Realities
+* **Verbatim Quote:** "Oh, I found out I turned off my noise maker in the car."
+* **Speaker:** Andy
+* **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
+* **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
+
 ### Mindfulness & Contemplative Inquiry
 * **Verbatim Quote:** "Do you remember my conversation about secularism, mindfulness?"
 * **Speaker:** Andy
@@ -187,26 +198,18 @@ This conversation/interaction appears to be primarily ambient audio capture with
 * **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
 * **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
 
-### Mindfulness & Contemplative Inquiry
-* **Verbatim Quote:** "So call it attention training and meta-awareness."
+### Societal Truisms & Cultural Realities
+* **Verbatim Quote:** "Frame it around universal psychological and philosophical tools for navigating modern stress, blending the attention training of Theravada Buddhism with the cognitive framing of Stoism without the religious dogma."
 * **Speaker:** Andy
-* **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
-* **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
-
-### Human Behavior & Relational Dynamics
-* **Verbatim Quote:** "Instead of discussing the dissolution of the ego, frame it as learning directly emotions while being overwhelmed."
-* **Speaker:** Andy
-* **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
-* **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
+* **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
+* **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
 
 ### Catchy Phrases & Key Sayings
-* **"Get Up Get Up Get"** — 5 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"They Were Having"** — 4 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"The Psychiatric Industry"** — 4 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+- *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-* **Abhayagiri** — *Context:* Distinctive proper noun or creative handle captured in transcript.
-* **Buddha** — *Context:* Distinctive proper noun or creative handle captured in transcript.
+* **Buddha** — *Context:* Historical founder of Buddhism and source of Dhamma teachings.
+* **Donald Trump** — *Context:* Former U.S. President mentioned in news commentaries.
 
 ---
 
@@ -248,4 +251,4 @@ This conversation/interaction appears to be primarily ambient audio capture with
 - **Evening Volcano Eruption Discussion**
 
 ---
-*Report automatically generated on 2026-08-26 06:22:37*
+*Report automatically generated on 2026-08-27 06:24:45*

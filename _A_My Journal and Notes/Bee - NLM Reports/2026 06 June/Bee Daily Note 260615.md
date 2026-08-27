@@ -16,8 +16,13 @@ tags:
 # Family conflict and health concerns, Discussing judgment and wisdom, and House Hunting in Sonoma
 
 📅 **Date**: Monday, June 15, 2026 (2026-06-15)
-👥 **Attendees**: Andrea (Wife), Andy, Audel (SDRT Collaborator)
-📊 **Total Bee Conversations Processed**: 9
+👥 **Attendees**: Andrea (Wife), Andy
+🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
+📊 **Total Plaud Conversations Processed**: **0**
+📊 **Total Bee Conversations Processed**: **0**
+
+### ⚠️ Pipeline Status & Data Ingestion Warnings
+- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
 
 ---
 
@@ -37,12 +42,12 @@ tags:
 
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
-- **Bank of America** (Acc: `SparkyBank - 0372`): **$7,917.84** — `Your Available Balance` (08/26/2026 3:40 AM)
-- **Fidelity Investments** (Total Value: **$273,352.78** across 4 accounts):
-  - Account `XXXXX2492`: **$256,383.22** | Settled Cash: $25,958.89 (08/26/2026 3:47 AM)
-  - Account `XXXXX1490`: **$13,254.18** | Settled Cash: $12,458.53 (08/26/2026 3:49 AM)
-  - Account `XXXXX1128`: **$3,715.20** | Settled Cash: $42.45 (08/26/2026 3:47 AM)
-  - Account `XXXXX3435`: **$0.18** | Settled Cash: $0.18 (08/26/2026 3:50 AM)
+- **Bank of America** (Acc: `SparkyBank - 0372`): **$7,872.95** — `Your Available Balance` (08/27/2026 3:38 AM)
+- **Fidelity Investments** (Total Value: **$271,011.48** across 4 accounts):
+  - Account `XXXXX2492`: **$256,293.90** | Settled Cash: $25,958.89 (08/27/2026 3:48 AM)
+  - Account `XXXXX1490`: **$11,004.45** | Settled Cash: $10,208.53 (08/27/2026 3:46 AM)
+  - Account `XXXXX1128`: **$3,712.95** | Settled Cash: $42.45 (08/27/2026 3:48 AM)
+  - Account `XXXXX3435`: **$0.18** | Settled Cash: $0.18 (08/27/2026 3:47 AM)
 
 ### ✉️ Outgoing Sent Emails & Correspondence
 - **To**: `6bbe84613efb353a87047a8cc3ef3460@hous.craigslist.org` | **Subject**: 783 Verano Avenue, Sonoma, CA 95476 (3:31 PM)
@@ -203,12 +208,10 @@ Andy participated in a hands-on Jin Shin Jyutsu learning session with Andrea and
 * **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
 
 ### Catchy Phrases & Key Sayings
-* **"I Was Looking At"** — 5 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"Yeah That'S Right"** — 4 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"Telling You About"** — 3 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+- *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-- *No unusual or humorous nicknames recorded today.*
+* **Donald Trump** — *Context:* Former U.S. President mentioned in news commentaries.
 
 ---
 
@@ -242,4 +245,4 @@ Andy participated in a hands-on Jin Shin Jyutsu learning session with Andrea and
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-26 06:20:20*
+*Report automatically generated on 2026-08-27 06:21:42*

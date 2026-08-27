@@ -24,8 +24,13 @@ tags:
 # Morning Check-In About Body Pain, Planning Sermon and Meditation Class, and Managing Past Google Tasks Occurrences
 
 📅 **Date**: Tuesday, August 25, 2026 (2026-08-25)
-👥 **Attendees**: Andy, Audel (SDRT Collaborator)
-📊 **Total Bee Conversations Processed**: 11
+👥 **Attendees**: Andy, Unidentified Physical Speaker (Query needed)
+🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
+📊 **Total Plaud Conversations Processed**: **0**
+📊 **Total Bee Conversations Processed**: **0**
+
+### ⚠️ Pipeline Status & Data Ingestion Warnings
+- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
 
 ---
 
@@ -46,11 +51,10 @@ tags:
 
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
-- **Bank of America** (Total Available Balance: **$10,020.63** across 3 accounts):
+- **Bank of America** (Total Available Balance: **$9,870.63** across 2 accounts — <font color="red"><b>-$2.58 (Down)</b></font>):
   - Account `SparkyBank - 0372`: **$7,806.84** (08/25/2026 3:39 AM)
   - Account `TwoAndiesSave - 6171`: **$2,063.79** (08/25/2026 3:36 AM)
-  - Account `Unknown Account`: **$150.00** (08/25/2026 8:06 AM)
-- **Fidelity Investments** (Total Value: **$272,270.76** across 4 accounts):
+- **Fidelity Investments** (Total Value: **$272,270.76** across 4 accounts — <font color="red"><b>-$376.29 (Down)</b></font>):
   - Account `XXXXX2492`: **$255,326.38** | Settled Cash: $25,958.89 (08/25/2026 3:49 AM)
   - Account `XXXXX1490`: **$13,241.00** | Settled Cash: $12,458.53 (08/25/2026 3:48 AM)
   - Account `XXXXX1128`: **$3,703.20** | Settled Cash: $42.45 (08/25/2026 3:49 AM)
@@ -142,7 +146,7 @@ tags:
 * **Meeting Synopsis**: Andy attended a Mindfulness Meditation Club gathering at College of Marin in Kentfield. The group shared cookies, personal experiences of grief and meaningful coincidences, and reflections on meditation, emotional overwhelm, climate distress, and compassion. Afterward, Andy spoke with others about Andrea’s poorly attended event and the challenge of promoting meditation groups. He also reflected privately on feeling physically unwell, using meditation to stay with difficult emotions, and studying mindfulness teachings on pain, discomfort, and fixed views.
 * **Key Points by Participant**:
   * **Andy**: Shared on "That's the whole point of it, sure."
-  * **Audel** (SDRT Collaborator): Shared on "How do rigid views cause destruction in us?"
+  * **Audel** (Wife (Andrea)): Shared on "How do rigid views cause destruction in us?"
 
 
 ---
@@ -227,6 +231,12 @@ Andy and Audel spent the evening preparing for and attending a Mary Oliver film 
 
 ## 💬 Quoted Expressions & Catchy Phrases
 ### Quotes
+### Societal Truisms & Cultural Realities
+* **Verbatim Quote:** "All that noise is a kind of a hammer drill holes in the ground span."
+* **Speaker:** Andy
+* **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
+* **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
+
 ### Mindfulness & Contemplative Inquiry
 * **Verbatim Quote:** "Oh boy, and I have I have an hour and a half before I have to go to the meditation class."
 * **Speaker:** Andy
@@ -245,26 +255,21 @@ Andy and Audel spent the evening preparing for and attending a Mary Oliver film 
 * **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
 * **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
 
-### Spirituality, Impermanence & Interconnection
-* **Verbatim Quote:** "Yeah, I was thinking about the bird at the good earth with the damaged, mangled right leg story as a key aspect of dealing with life's difficulties and in an upright manner."
+### Societal Truisms & Cultural Realities
+* **Verbatim Quote:** "It's what I call hats, whatever is at the top of your attention, then that is the that's what leads."
 * **Speaker:** Andy
-* **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
-* **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
-
-### Mindfulness & Contemplative Inquiry
-* **Verbatim Quote:** "He called, because he had read his dad's emails from the meditation card."
-* **Speaker:** Andy
-* **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
-* **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
+* **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
+* **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
 
 ### Catchy Phrases & Key Sayings
-* **"City Of The City"** — 7 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"Of The City Of The"** — 7 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"The City Of The City"** — 7 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+* **"What Interpretation Serves The Moment"** — 1 occurrence — *Context:* Pragmatist philosophical reflection on unprovable coincidences.
+* **"You Do Not Have To Walk On Your Knees"** — 1 occurrence — *Context:* Poetic line from Mary Oliver's 'Wild Geese' recited during screening.
 
 ### Notable Names Mentioned
-* **Audel** — *Context:* Frequent collaborator and co-participant in SDRT discussions.
-* **Audel** — *Context:* Distinctive proper noun or creative handle captured in transcript.
+* **Mary Oliver** — *Context:* Famous American poet and Pulitzer Prize winner featured in the documentary screening at The Lark / Rafael Theater.
+* **William James** — *Context:* Renowned American philosopher and psychologist (Pragmatism) referenced in mindfulness discussion.
+* **Rumi** — *Context:* Famous 13th-century Persian poet and Sufi mystic.
+* **Louise Shriver** — *Context:* Journalist and interviewer featured in Mary Oliver documentary.
 
 ---
 
@@ -314,4 +319,4 @@ Andy and Audel spent the evening preparing for and attending a Mary Oliver film 
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-26 06:35:43*
+*Report automatically generated on 2026-08-27 06:41:14*

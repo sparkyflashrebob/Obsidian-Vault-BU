@@ -21,7 +21,12 @@ tags:
 
 📅 **Date**: Friday, August 07, 2026 (2026-08-07)
 👥 **Attendees**: Andrea (Wife), Andy
-📊 **Total Bee Conversations Processed**: 13
+🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
+📊 **Total Plaud Conversations Processed**: **0**
+📊 **Total Bee Conversations Processed**: **0**
+
+### ⚠️ Pipeline Status & Data Ingestion Warnings
+- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
 
 ---
 
@@ -254,12 +259,10 @@ Andy discussed his recent walking routine and weight loss progress with a compan
 * **Somatic / Relational Context:** Triggered by physical sensation or noticing internal bodily states during daily routines.
 
 ### Catchy Phrases & Key Sayings
-* **"Won That Election"** — 9 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"Who Won That Election"** — 6 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"Oh Oh Oh Oh Oh Oh"** — 6 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+- *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-* **Bunny Runner** — *Context:* Affectionate nickname used for Andy's wife in conversation.
+* **Donald Trump** — *Context:* Former U.S. President mentioned in news commentaries.
 
 ---
 
@@ -293,4 +296,4 @@ Andy discussed his recent walking routine and weight loss progress with a compan
 - **Evening Volcano Eruption Discussion**
 
 ---
-*Report automatically generated on 2026-08-26 06:29:16*
+*Report automatically generated on 2026-08-27 06:33:45*

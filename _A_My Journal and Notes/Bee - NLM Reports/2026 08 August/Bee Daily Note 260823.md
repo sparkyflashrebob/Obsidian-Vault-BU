@@ -25,7 +25,12 @@ tags:
 
 📅 **Date**: Sunday, August 23, 2026 (2026-08-23)
 👥 **Attendees**: Andy, Unidentified Physical Speaker (Query needed)
-📊 **Total Bee Conversations Processed**: 15
+🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
+📊 **Total Plaud Conversations Processed**: **0**
+📊 **Total Bee Conversations Processed**: **0**
+
+### ⚠️ Pipeline Status & Data Ingestion Warnings
+- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
 
 ---
 
@@ -279,12 +284,11 @@ Andy led a dharma teaching session focusing on the Bahia Sutta from Buddhist tea
 * **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
 
 ### Catchy Phrases & Key Sayings
-* **"We Don'T Need To"** — 6 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"There Is Only The"** — 5 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"Don'T Know About"** — 4 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+- *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-* **Buddha** — *Context:* Distinctive proper noun or creative handle captured in transcript.
+* **Buddha** — *Context:* Historical founder of Buddhism and source of Dhamma teachings.
+* **Jack Kornfield** — *Context:* Pioneer American mindfulness teacher and author.
 
 ---
 
@@ -342,4 +346,4 @@ Andy led a dharma teaching session focusing on the Bahia Sutta from Buddhist tea
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-26 06:33:11*
+*Report automatically generated on 2026-08-27 06:38:23*

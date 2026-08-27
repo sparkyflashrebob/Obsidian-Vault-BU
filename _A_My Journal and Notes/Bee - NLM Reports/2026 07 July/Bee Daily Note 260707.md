@@ -29,7 +29,12 @@ tags:
 
 📅 **Date**: Tuesday, July 07, 2026 (2026-07-07)
 👥 **Attendees**: Andrea (Wife), Andy
-📊 **Total Bee Conversations Processed**: 12
+🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
+📊 **Total Plaud Conversations Processed**: **0**
+📊 **Total Bee Conversations Processed**: **0**
+
+### ⚠️ Pipeline Status & Data Ingestion Warnings
+- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
 
 ---
 
@@ -50,7 +55,7 @@ tags:
 
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
-- **Bank of America** (Acc: `name`): **$0.00** — `We sent you a secure message` (07/08/2026 3:35 PM)
+- *No automated financial balance alert emails received yet today.*
 
 ### ✉️ Outgoing Sent Emails & Correspondence
 - *No outgoing sent email replies or correspondence recorded today.*
@@ -243,11 +248,11 @@ Andy had educational media content about Mount Hood, Oregon playing as ambient b
 
 ## 💬 Quoted Expressions & Catchy Phrases
 ### Quotes
-### Somatic Awareness & Present-Moment Integration
+### Human Behavior & Relational Dynamics
 * **Verbatim Quote:** "And she's not been always truthful with me, but I'm not in the habit of verifying everybody's statements to me because that's not how I roll."
 * **Speaker:** Andy
-* **Core Insight:** Emphasizes bodily listening and physical presence as a foundation for grounding awareness in daily life.
-* **Somatic / Relational Context:** Triggered by physical sensation or noticing internal bodily states during daily routines.
+* **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
+* **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
 
 ### Spirituality, Impermanence & Interconnection
 * **Verbatim Quote:** "And then I got quite a bit going on the Earth Bring a little thing at noon."
@@ -255,11 +260,17 @@ Andy had educational media content about Mount Hood, Oregon playing as ambient b
 * **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
 * **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
 
-### Human Behavior & Relational Dynamics
+### Societal Truisms & Cultural Realities
 * **Verbatim Quote:** "Some things are needs, and some things are all the rest is conditioned stuff that's thrown in there to be part of the culture and society."
 * **Speaker:** Andy
-* **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
-* **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
+* **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
+* **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
+
+### Societal Truisms & Cultural Realities
+* **Verbatim Quote:** "Some cultures, mayonnaise on french fries is perfectly okay."
+* **Speaker:** Andy
+* **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
+* **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
 
 ### Mindfulness & Contemplative Inquiry
 * **Verbatim Quote:** "With frequent meditation, there is a long-term effect where you become less reactionary."
@@ -267,19 +278,11 @@ Andy had educational media content about Mount Hood, Oregon playing as ambient b
 * **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
 * **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
 
-### Mindfulness & Contemplative Inquiry
-* **Verbatim Quote:** "So it kind of builds up from your meditation if you're consistent."
-* **Speaker:** Andy
-* **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
-* **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
-
 ### Catchy Phrases & Key Sayings
-* **"Talking About The"** — 5 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"They Were Talking"** — 5 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"Were Talking About"** — 5 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+- *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-- *No unusual or humorous nicknames recorded today.*
+* **Donald Trump** — *Context:* Former U.S. President mentioned in news commentaries.
 
 ---
 
@@ -313,4 +316,4 @@ Andy had educational media content about Mount Hood, Oregon playing as ambient b
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-26 06:24:15*
+*Report automatically generated on 2026-08-27 06:26:53*

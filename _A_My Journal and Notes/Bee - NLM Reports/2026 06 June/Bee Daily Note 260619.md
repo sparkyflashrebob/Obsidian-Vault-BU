@@ -21,7 +21,12 @@ tags:
 
 📅 **Date**: Friday, June 19, 2026 (2026-06-19)
 👥 **Attendees**: Andrea (Wife), Andy
-📊 **Total Bee Conversations Processed**: 9
+🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
+📊 **Total Plaud Conversations Processed**: **0**
+📊 **Total Bee Conversations Processed**: **0**
+
+### ⚠️ Pipeline Status & Data Ingestion Warnings
+- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
 
 ---
 
@@ -170,6 +175,12 @@ Andy spent an evening watching the USA vs. Australia soccer match with Andrea, p
 
 ## 💬 Quoted Expressions & Catchy Phrases
 ### Quotes
+### Societal Truisms & Cultural Realities
+* **Verbatim Quote:** "I think it's better without the computer noise."
+* **Speaker:** Andy
+* **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
+* **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
+
 ### Spirituality, Impermanence & Interconnection
 * **Verbatim Quote:** "we can refresh the spirit log."
 * **Speaker:** Andy
@@ -188,25 +199,17 @@ Andy spent an evening watching the USA vs. Australia soccer match with Andrea, p
 * **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
 * **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
 
-### Mindfulness & Contemplative Inquiry
-* **Verbatim Quote:** "My husband's a meditation teacher."
-* **Speaker:** Andrea
-* **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
-* **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
-
-### Spirituality, Impermanence & Interconnection
-* **Verbatim Quote:** "A lot of times early in the game, the refuge stuff that goal without showing a yellow card in."
+### Societal Truisms & Cultural Realities
+* **Verbatim Quote:** "I think the whole I think the whole of the they're doing some tree service I think is what that noise is."
 * **Speaker:** Andy
-* **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
-* **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
+* **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
+* **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
 
 ### Catchy Phrases & Key Sayings
-* **"That'S What I Was"** — 6 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"The United States"** — 6 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"That'S What I'M Saying"** — 5 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+- *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-- *No unusual or humorous nicknames recorded today.*
+- *No public figures or notable historical figures referenced today.*
 
 ---
 
@@ -264,4 +267,4 @@ Andy spent an evening watching the USA vs. Australia soccer match with Andrea, p
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-26 06:21:00*
+*Report automatically generated on 2026-08-27 06:22:37*

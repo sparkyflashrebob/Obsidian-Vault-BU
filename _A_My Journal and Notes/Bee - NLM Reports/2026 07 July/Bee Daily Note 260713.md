@@ -17,7 +17,12 @@ tags:
 
 📅 **Date**: Monday, July 13, 2026 (2026-07-13)
 👥 **Attendees**: Andrea (Wife), Andy
-📊 **Total Bee Conversations Processed**: 9
+🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
+📊 **Total Plaud Conversations Processed**: **0**
+📊 **Total Bee Conversations Processed**: **0**
+
+### ⚠️ Pipeline Status & Data Ingestion Warnings
+- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
 
 ---
 
@@ -36,7 +41,7 @@ tags:
 
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
-- **Bank of America** (Acc: `Unknown Account`): **$675.00** — `Andrea Axtell sent you $675.00` (07/13/2026 11:50 AM)
+- *No automated financial balance alert emails received yet today.*
 
 ### ✉️ Outgoing Sent Emails & Correspondence
 - *No outgoing sent email replies or correspondence recorded today.*
@@ -200,12 +205,10 @@ Andy engaged in a conversation about a retreat location that appears to be a spi
 * **Somatic / Relational Context:** Triggered during candid interpersonal dialogue or self-reflective monologues.
 
 ### Catchy Phrases & Key Sayings
-* **"Going To Go Here"** — 6 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"What Brings You Here"** — 6 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"I'M Just Going To"** — 5 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+- *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-- *No unusual or humorous nicknames recorded today.*
+- *No public figures or notable historical figures referenced today.*
 
 ---
 
@@ -239,4 +242,4 @@ Andy engaged in a conversation about a retreat location that appears to be a spi
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-26 06:25:12*
+*Report automatically generated on 2026-08-27 06:28:10*

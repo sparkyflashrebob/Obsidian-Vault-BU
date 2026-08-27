@@ -29,7 +29,12 @@ tags:
 
 📅 **Date**: Tuesday, July 28, 2026 (2026-07-28)
 👥 **Attendees**: Andrea (Wife), Andy
-📊 **Total Bee Conversations Processed**: 12
+🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
+📊 **Total Plaud Conversations Processed**: **0**
+📊 **Total Bee Conversations Processed**: **0**
+
+### ⚠️ Pipeline Status & Data Ingestion Warnings
+- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
 
 ---
 
@@ -48,7 +53,7 @@ tags:
 
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
-- **Bank of America** (Acc: `number`): **$0.00** — `Automatic payment scheduled for EDGEWATER PLACE/LARKSPUR ISLE as requested` (07/28/2026 8:55 AM)
+- *No automated financial balance alert emails received yet today.*
 
 ### ✉️ Outgoing Sent Emails & Correspondence
 - **To**: `Andrea Axtell <dragonflylodge.aa@gmail.com>` | **Subject**:  (10:22 AM)
@@ -271,12 +276,10 @@ Andy engaged in a conversation about using ChatGPT to research political questio
 * **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
 
 ### Catchy Phrases & Key Sayings
-* **"You Don'T Want To"** — 4 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"You Have To Take"** — 3 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"You Have To Take It"** — 3 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+- *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-* **Buddha** — *Context:* Distinctive proper noun or creative handle captured in transcript.
+* **Buddha** — *Context:* Historical founder of Buddhism and source of Dhamma teachings.
 
 ---
 
@@ -326,4 +329,4 @@ Andy engaged in a conversation about using ChatGPT to research political questio
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-26 06:27:34*
+*Report automatically generated on 2026-08-27 06:31:25*

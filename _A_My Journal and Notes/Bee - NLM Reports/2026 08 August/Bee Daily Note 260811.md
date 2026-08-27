@@ -17,7 +17,12 @@ tags:
 
 📅 **Date**: Tuesday, August 11, 2026 (2026-08-11)
 👥 **Attendees**: Andrea (Wife), Andy
-📊 **Total Bee Conversations Processed**: 15
+🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
+📊 **Total Plaud Conversations Processed**: **0**
+📊 **Total Bee Conversations Processed**: **0**
+
+### ⚠️ Pipeline Status & Data Ingestion Warnings
+- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
 
 ---
 
@@ -261,12 +266,10 @@ Later, Andy focused on practical flood management, observing water systems, pump
 * **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
 
 ### Catchy Phrases & Key Sayings
-* **"Western New Guinea"** — 9 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"To My Google Drive"** — 3 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"Now I'M Going To"** — 3 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+- *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-- *No unusual or humorous nicknames recorded today.*
+- *No public figures or notable historical figures referenced today.*
 
 ---
 
@@ -300,4 +303,4 @@ Later, Andy focused on practical flood management, observing water systems, pump
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-26 06:29:59*
+*Report automatically generated on 2026-08-27 06:34:39*

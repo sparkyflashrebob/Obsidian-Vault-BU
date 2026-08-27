@@ -21,7 +21,12 @@ tags:
 
 📅 **Date**: Sunday, May 31, 2026 (2026-05-31)
 👥 **Attendees**: Andy
-📊 **Total Bee Conversations Processed**: 7
+🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
+📊 **Total Plaud Conversations Processed**: **0**
+📊 **Total Bee Conversations Processed**: **0**
+
+### ⚠️ Pipeline Status & Data Ingestion Warnings
+- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
 
 ---
 
@@ -232,13 +237,11 @@ Andy spent time at home with his partner, engaging in light domestic activities 
 * **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
 
 ### Catchy Phrases & Key Sayings
-* **"People That Have"** — 6 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"A Little Bit More"** — 6 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"The Second Floor"** — 6 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+- *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-* **Buddha** — *Context:* Distinctive proper noun or creative handle captured in transcript.
-* **Dhamma** — *Context:* Distinctive proper noun or creative handle captured in transcript.
+* **Buddha** — *Context:* Historical founder of Buddhism and source of Dhamma teachings.
+* **Donald Trump** — *Context:* Former U.S. President mentioned in news commentaries.
 
 ---
 
@@ -296,4 +299,4 @@ Andy spent time at home with his partner, engaging in light domestic activities 
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-26 06:17:13*
+*Report automatically generated on 2026-08-27 06:17:27*

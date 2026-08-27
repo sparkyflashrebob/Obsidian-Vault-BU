@@ -25,7 +25,12 @@ tags:
 
 📅 **Date**: Thursday, July 02, 2026 (2026-07-02)
 👥 **Attendees**: Andrea (Wife), Andy
-📊 **Total Bee Conversations Processed**: 13
+🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
+📊 **Total Plaud Conversations Processed**: **0**
+📊 **Total Bee Conversations Processed**: **0**
+
+### ⚠️ Pipeline Status & Data Ingestion Warnings
+- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
 
 ---
 
@@ -44,7 +49,7 @@ tags:
 
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
-- **Bank of America** (Acc: `Unknown Account`): **$80.00** — `Andrea Axtell sent you $80.00` (07/03/2026 1:53 PM)
+- *No automated financial balance alert emails received yet today.*
 
 ### ✉️ Outgoing Sent Emails & Correspondence
 - *No outgoing sent email replies or correspondence recorded today.*
@@ -186,11 +191,17 @@ Andy spent an evening in a media-rich environment, simultaneously engaging with 
 
 ## 💬 Quoted Expressions & Catchy Phrases
 ### Quotes
-### Mindfulness & Contemplative Inquiry
+### Societal Truisms & Cultural Realities
+* **Verbatim Quote:** "I think a lot of things you don't understand, I'm not sure paying attention."
+* **Speaker:** Andy
+* **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
+* **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
+
+### Societal Truisms & Cultural Realities
 * **Verbatim Quote:** "if you don't, you might pay attention to it now, but I may not be mindful, not be mindful of it to know to see the process of our pattern, so over time."
 * **Speaker:** Andy
-* **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
-* **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
+* **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
+* **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
 
 ### Mindfulness & Contemplative Inquiry
 * **Verbatim Quote:** "Okay, I'm gonna go and meditate for quite for a few minutes."
@@ -198,31 +209,26 @@ Andy spent an evening in a media-rich environment, simultaneously engaging with 
 * **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
 * **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
 
-### Somatic Awareness & Present-Moment Integration
-* **Verbatim Quote:** "I'm starting to notice the tension around that area thinking and thought arising from a place unknown."
+### Societal Truisms & Cultural Realities
+* **Verbatim Quote:** "When you bring attention to something, shine a light on it."
 * **Speaker:** Andy
-* **Core Insight:** Emphasizes bodily listening and physical presence as a foundation for grounding awareness in daily life.
-* **Somatic / Relational Context:** Triggered by physical sensation or noticing internal bodily states during daily routines.
+* **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
+* **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
 
-### Spirituality, Impermanence & Interconnection
-* **Verbatim Quote:** "Allowing people to bring up things and using my efforts to point towards spiritual practices, other ways of looking at things other than the stories themselves."
+### Societal Truisms & Cultural Realities
+* **Verbatim Quote:** "So, the idea of paying attention to whatever is the most prominent is a very good practice."
 * **Speaker:** Andy
-* **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
-* **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
-
-### Spirituality, Impermanence & Interconnection
-* **Verbatim Quote:** "I registered for w a webinar on for Earth funeral."
-* **Speaker:** Andy
-* **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
-* **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
+* **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
+* **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
 
 ### Catchy Phrases & Key Sayings
-* **"You Don'T Have To"** — 6 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"Now I'M Going To"** — 4 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"They'Re Going To"** — 3 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+- *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-* **Buddha** — *Context:* Distinctive proper noun or creative handle captured in transcript.
+* **Buddha** — *Context:* Historical founder of Buddhism and source of Dhamma teachings.
+* **Rumi** — *Context:* Famous 13th-century Persian poet and Sufi mystic.
+* **Jack Kornfield** — *Context:* Pioneer American mindfulness teacher and author.
+* **Donald Trump** — *Context:* Former U.S. President mentioned in news commentaries.
 
 ---
 
@@ -256,4 +262,4 @@ Andy spent an evening in a media-rich environment, simultaneously engaging with 
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-26 06:23:19*
+*Report automatically generated on 2026-08-27 06:25:42*

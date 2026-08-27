@@ -39,7 +39,12 @@ tags:
 
 📅 **Date**: Tuesday, August 04, 2026 (2026-08-04)
 👥 **Attendees**: Andrea (Wife), Andy
-📊 **Total Bee Conversations Processed**: 12
+🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
+📊 **Total Plaud Conversations Processed**: **0**
+📊 **Total Bee Conversations Processed**: **0**
+
+### ⚠️ Pipeline Status & Data Ingestion Warnings
+- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
 
 ---
 
@@ -240,6 +245,12 @@ Andy shared information about a free digital TV service called "Canopy" that lib
 
 ## 💬 Quoted Expressions & Catchy Phrases
 ### Quotes
+### Societal Truisms & Cultural Realities
+* **Verbatim Quote:** "Turn on the accent, turn on noise."
+* **Speaker:** Andy
+* **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
+* **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
+
 ### Mindfulness & Contemplative Inquiry
 * **Verbatim Quote:** "I also want to change true mindfulness to just plainly mindfulness."
 * **Speaker:** Andy
@@ -264,22 +275,11 @@ Andy shared information about a free digital TV service called "Canopy" that lib
 * **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
 * **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
 
-### Human Behavior & Relational Dynamics
-* **Verbatim Quote:** "I believe the same thing for section three because we're talking about natural human reactions and then understand modern Western society."
-* **Speaker:** Andy
-* **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
-* **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
-
 ### Catchy Phrases & Key Sayings
-* **"Go Go Go Go Go Go"** — 73 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"Blah Blah Blah Blah"** — 5 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"Wind Driven Runs"** — 4 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+- *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-* **Ajahn Amaro** — *Context:* Abhayagiri Monastery abbot mentioned regarding Thai Forest teachings.
-* **Pugelist** — *Context:* Electronic music producer/artist mentioned during music curation.
-* **Palm Skin** — *Context:* Classic dubstep/downtempo music act referenced during track sorting.
-* **Pugelist** — *Context:* Distinctive proper noun or creative handle captured in transcript.
+* **Ajahn Amaro** — *Context:* Abhayagiri Monastery abbot and Theravada author.
 
 ---
 
@@ -329,4 +329,4 @@ Andy shared information about a free digital TV service called "Canopy" that lib
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-26 06:28:44*
+*Report automatically generated on 2026-08-27 06:33:02*

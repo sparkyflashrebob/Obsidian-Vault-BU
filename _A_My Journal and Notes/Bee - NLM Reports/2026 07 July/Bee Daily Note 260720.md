@@ -15,7 +15,12 @@ tags:
 
 📅 **Date**: Monday, July 20, 2026 (2026-07-20)
 👥 **Attendees**: Andrea (Wife), Andy
-📊 **Total Bee Conversations Processed**: 14
+🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
+📊 **Total Plaud Conversations Processed**: **0**
+📊 **Total Bee Conversations Processed**: **0**
+
+### ⚠️ Pipeline Status & Data Ingestion Warnings
+- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
 
 ---
 
@@ -254,12 +259,10 @@ Andy and Andrea engaged in casual conversation while watching TV news coverage. 
 * **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
 
 ### Catchy Phrases & Key Sayings
-* **"And Heart Together"** — 27 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"Head And Heart Together"** — 26 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"To Head And Heart"** — 23 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+- *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-- *No unusual or humorous nicknames recorded today.*
+- *No public figures or notable historical figures referenced today.*
 
 ---
 
@@ -293,4 +296,4 @@ Andy and Andrea engaged in casual conversation while watching TV news coverage. 
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-26 06:26:22*
+*Report automatically generated on 2026-08-27 06:29:46*

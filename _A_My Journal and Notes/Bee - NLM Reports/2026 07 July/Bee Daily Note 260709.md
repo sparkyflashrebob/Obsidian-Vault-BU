@@ -28,7 +28,12 @@ tags:
 
 📅 **Date**: Thursday, July 09, 2026 (2026-07-09)
 👥 **Attendees**: Andrea (Wife), Andy
-📊 **Total Bee Conversations Processed**: 13
+🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
+📊 **Total Plaud Conversations Processed**: **0**
+📊 **Total Bee Conversations Processed**: **0**
+
+### ⚠️ Pipeline Status & Data Ingestion Warnings
+- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
 
 ---
 
@@ -232,12 +237,10 @@ This conversation primarily revolved around Andy's immediate concerns regarding 
 * **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
 
 ### Catchy Phrases & Key Sayings
-* **"That'S What I'M Saying"** — 8 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"Thank You Very Much"** — 5 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"In The Bottom Of"** — 5 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+- *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-- *No unusual or humorous nicknames recorded today.*
+* **Donald Trump** — *Context:* Former U.S. President mentioned in news commentaries.
 
 ---
 
@@ -271,4 +274,4 @@ This conversation primarily revolved around Andy's immediate concerns regarding 
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-26 06:24:35*
+*Report automatically generated on 2026-08-27 06:27:19*

@@ -17,7 +17,12 @@ tags:
 
 📅 **Date**: Friday, June 12, 2026 (2026-06-12)
 👥 **Attendees**: Andrea (Wife), Andy
-📊 **Total Bee Conversations Processed**: 10
+🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
+📊 **Total Plaud Conversations Processed**: **0**
+📊 **Total Bee Conversations Processed**: **0**
+
+### ⚠️ Pipeline Status & Data Ingestion Warnings
+- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
 
 ---
 
@@ -38,7 +43,7 @@ tags:
 
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
-- **Bank of America** (Acc: `number`): **$0.00** — `Automatic payment scheduled for EDGEWATER PLACE/LARKSPUR ISLE as requested` (06/11/2026 11:39 AM)
+- *No automated financial balance alert emails received yet today.*
 
 ### ✉️ Outgoing Sent Emails & Correspondence
 - *No outgoing sent email replies or correspondence recorded today.*
@@ -214,12 +219,10 @@ Andy and Andrea spent time together watching the USA vs. Paraguay FIFA World Cup
 * **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
 
 ### Catchy Phrases & Key Sayings
-* **"They'Re Going To"** — 6 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"The United States"** — 5 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"Of These Players"** — 4 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+- *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-- *No unusual or humorous nicknames recorded today.*
+- *No public figures or notable historical figures referenced today.*
 
 ---
 
@@ -261,4 +264,4 @@ Andy and Andrea spent time together watching the USA vs. Paraguay FIFA World Cup
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-26 06:19:34*
+*Report automatically generated on 2026-08-27 06:20:44*

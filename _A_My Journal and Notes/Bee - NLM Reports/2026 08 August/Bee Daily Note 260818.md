@@ -17,7 +17,12 @@ tags:
 
 📅 **Date**: Tuesday, August 18, 2026 (2026-08-18)
 👥 **Attendees**: Andy, Unidentified Physical Speaker (Query needed)
-📊 **Total Bee Conversations Processed**: 14
+🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
+📊 **Total Plaud Conversations Processed**: **0**
+📊 **Total Bee Conversations Processed**: **0**
+
+### ⚠️ Pipeline Status & Data Ingestion Warnings
+- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
 
 ---
 
@@ -259,12 +264,10 @@ Andy spent the evening in a relaxed media consumption and conversation mode, wat
 * **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
 
 ### Catchy Phrases & Key Sayings
-* **"I Don'T Know What"** — 7 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"I'M Going To Go To"** — 3 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"Don'T Know Where"** — 3 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+- *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-- *No unusual or humorous nicknames recorded today.*
+* **Donald Trump** — *Context:* Former U.S. President mentioned in news commentaries.
 
 ---
 
@@ -314,4 +317,4 @@ Andy spent the evening in a relaxed media consumption and conversation mode, wat
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-26 06:31:36*
+*Report automatically generated on 2026-08-27 06:36:40*

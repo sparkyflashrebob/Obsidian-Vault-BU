@@ -15,7 +15,12 @@ tags:
 
 📅 **Date**: Friday, July 03, 2026 (2026-07-03)
 👥 **Attendees**: Andrea (Wife), Andy
-📊 **Total Bee Conversations Processed**: 12
+🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
+📊 **Total Plaud Conversations Processed**: **0**
+📊 **Total Bee Conversations Processed**: **0**
+
+### ⚠️ Pipeline Status & Data Ingestion Warnings
+- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
 
 ---
 
@@ -34,7 +39,7 @@ tags:
 
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
-- **Bank of America** (Acc: `Unknown Account`): **$80.00** — `Andrea Axtell sent you $80.00` (07/03/2026 1:53 PM)
+- *No automated financial balance alert emails received yet today.*
 
 ### ✉️ Outgoing Sent Emails & Correspondence
 - **To**: `Andrea Axtell <dragonflylodge.aa@gmail.com>` | **Subject**: Flyer 2 (2:35 PM)
@@ -207,31 +212,29 @@ Andy spent this period engaged in watching multiple sports broadcasts, primarily
 * **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
 * **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
 
+### Societal Truisms & Cultural Realities
+* **Verbatim Quote:** "distractions, such as sound getting comfortable, sitting posture."
+* **Speaker:** Andy
+* **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
+* **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
+
+### Societal Truisms & Cultural Realities
+* **Verbatim Quote:** "For the illusion of distraction"
+* **Speaker:** Andy
+* **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
+* **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
+
 ### Mindfulness & Contemplative Inquiry
 * **Verbatim Quote:** "Adding the whole attitude towards practice ardent, alert, mindful, clearly knowing."
 * **Speaker:** Andy
 * **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
 * **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
 
-### Somatic Awareness & Present-Moment Integration
-* **Verbatim Quote:** "What is mindfulness of the body?"
-* **Speaker:** Andy
-* **Core Insight:** Emphasizes bodily listening and physical presence as a foundation for grounding awareness in daily life.
-* **Somatic / Relational Context:** Triggered by physical sensation or noticing internal bodily states during daily routines.
-
-### Mindfulness & Contemplative Inquiry
-* **Verbatim Quote:** "ation two mindfulness of feeling tone"
-* **Speaker:** Andy
-* **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
-* **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
-
 ### Catchy Phrases & Key Sayings
-* **"I'M Just Going To"** — 7 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"And I'M Going To"** — 6 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"What I'M Going To"** — 5 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+- *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-- *No unusual or humorous nicknames recorded today.*
+- *No public figures or notable historical figures referenced today.*
 
 ---
 
@@ -273,4 +276,4 @@ Andy spent this period engaged in watching multiple sports broadcasts, primarily
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-26 06:23:30*
+*Report automatically generated on 2026-08-27 06:25:56*

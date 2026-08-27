@@ -24,8 +24,13 @@ tags:
 # Desire vs Security, Walking, Unconcerned to Cash Concern, and Branding and logo design consultation
 
 📅 **Date**: Monday, July 27, 2026 (2026-07-27)
-👥 **Attendees**: Andrea (Wife), Andy, Audel (SDRT Collaborator)
-📊 **Total Bee Conversations Processed**: 13
+👥 **Attendees**: Andrea (Wife), Andy
+🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
+📊 **Total Plaud Conversations Processed**: **0**
+📊 **Total Bee Conversations Processed**: **0**
+
+### ⚠️ Pipeline Status & Data Ingestion Warnings
+- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
 
 ---
 
@@ -44,7 +49,7 @@ tags:
 
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
-- **Bank of America** (Acc: `number`): **$2,705.00** — `We've sent your payment to Edgewater Place/Larkspur Isle as requested` (07/27/2026 1:40 AM)
+- *No automated financial balance alert emails received yet today.*
 
 ### ✉️ Outgoing Sent Emails & Correspondence
 - *No outgoing sent email replies or correspondence recorded today.*
@@ -262,12 +267,11 @@ Andy engaged in a brief conversation about weather alerts and commute planning, 
 * **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
 
 ### Catchy Phrases & Key Sayings
-* **"The Original Tree"** — 4 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"She Was Yelling At"** — 4 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"Was Yelling At Me"** — 4 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+- *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-* **Buddha** — *Context:* Distinctive proper noun or creative handle captured in transcript.
+* **Buddha** — *Context:* Historical founder of Buddhism and source of Dhamma teachings.
+* **Donald Trump** — *Context:* Former U.S. President mentioned in news commentaries.
 
 ---
 
@@ -325,4 +329,4 @@ Andy engaged in a brief conversation about weather alerts and commute planning, 
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-26 06:27:20*
+*Report automatically generated on 2026-08-27 06:31:06*

@@ -1,7 +1,5 @@
 ---
 tags:
-  - master-daily-report
-  - unified-report
   - 12-step-framework
   - ambient-sensors
   - bee-reports
@@ -23,7 +21,16 @@ tags:
 
 📅 **Date**: Saturday, August 22, 2026 (2026-08-22)
 👥 **Attendees**: Andrea (Wife), Andrea (Wife), Andy
-📊 **Total Bee Conversations Processed**: 14
+🎙️ **Primary Data Source**: **Plaud Local PC Ingest (Direct API + Local Whisper AI)**
+📊 **Plaud Sessions Processed (PRIMARY)**: **9**
+📊 **Bee Sessions Processed (SECONDARY BACKUP)**: **14**
+
+### ⚙️ Pipeline Status & Data Ingestion Log
+- ⚡ **Plaud Direct Ingest**: ✅ **Active** (0 Cloud Minutes Spent, 0 Phone Taps Needed)
+- 🎙️ **Local Whisper AI Transcripts**: ✅ **Active**
+- 🐝 **Bee Secondary Backup**: ✅ **Active** (Gap-Filling Only)
+- 📧 **Gmail & Financial Ingest**: ✅ **Active**
+- 📅 **Google Calendar**: ✅ **Active**
 
 ---
 
@@ -42,8 +49,7 @@ tags:
 
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
-- **Bank of America** (Acc: `SparkyBank`): **$7969.30** — `Your Available Balance` (08/23/2026 7:37 AM)
-- **Fidelity Investments**: `Fidelity Alerts: We couldn't complete your eBill enrollment for Pacific Gas & Electric (PG&E)` (08/22/2026 12:01 PM)
+- *No automated financial balance alert emails received yet today.*
 
 ### ✉️ Outgoing Sent Emails & Correspondence
 - *No outgoing sent email replies or correspondence recorded today.*
@@ -256,19 +262,18 @@ Andrea hosted and facilitated the first vision quest preparation meeting at her 
 * **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
 * **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
 
-### Spirituality, Impermanence & Interconnection
+### Societal Truisms & Cultural Realities
 * **Verbatim Quote:** "And yeah, seeing I just want to say that whatever draws your attention to having some kind of spiritual connection is important."
 * **Speaker:** Andy
-* **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
-* **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
+* **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
+* **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
 
 ### Catchy Phrases & Key Sayings
-* **"You'Re Not Going"** — 10 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"You'Re Not Going To"** — 10 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"You Don'T Have To"** — 5 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+- *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-* **Buddha** — *Context:* Distinctive proper noun or creative handle captured in transcript.
+* **Buddha** — *Context:* Historical founder of Buddhism and source of Dhamma teachings.
+* **Donald Trump** — *Context:* Former U.S. President mentioned in news commentaries.
 
 ---
 
@@ -276,15 +281,23 @@ Andrea hosted and facilitated the first vision quest preparation meeting at her 
 ### Cultivating Empathy vs Remote Isolation
 * **Narrative Context:** Andy discussing social empathy, judgment, and emotional boundaries during a domestic reflection.
 * **The Key Passage (Verbatim):**
-  > "He described meditation as initially "jumbled" but important for developing self-compassion and inner peace"
+  > "But if I can take a peaceful attitude, if I can have some compassion for myself, enough I could be loving towards myself, and I can sit with that, then that settles down. That actually promotes peace inside of me."
 * **The Human / Contemplative Tension:** Balancing personal peace with remaining open to others' genuine suffering without becoming cynical.
 * **The Turning Point / Realization:** Realizing that judging others' unskillful behavior is itself a subtle trap of isolation.
 * **Universal Truth / Teaching:** True compassion requires stepping into another's shoes while maintaining clear, grounded awareness.
 
+### Relational Warmth in Medical Care & Body Management
+* **Narrative Context:** Andy reflecting on a recent medical consultation and checkup at Kaiser Permanente in San Rafael.
+* **The Key Passage (Verbatim):**
+  > "I agree, I got sober in San Alina hospital, so right there."
+* **The Human / Contemplative Tension:** Managing ongoing health challenges, weight concerns, and medication adjustments.
+* **The Turning Point / Realization:** Experiencing open, friendly dialogue with healthcare providers that replaced medical anxiety with collaborative trust.
+* **Universal Truth / Teaching:** Empathy and human warmth in therapeutic interactions significantly reduce bodily tension and fear.
+
 ### Cultivating Empathy vs Remote Isolation
 * **Narrative Context:** Andy discussing social empathy, judgment, and emotional boundaries during a domestic reflection.
 * **The Key Passage (Verbatim):**
-  > "Andy: But if I can take a peaceful attitude, if I can have some compassion for myself, and if I can be loving towards myself, and I can sit with that, then that settles down."
+  > "He described meditation as initially "jumbled" but important for developing self-compassion and inner peace"
 * **The Human / Contemplative Tension:** Balancing personal peace with remaining open to others' genuine suffering without becoming cynical.
 * **The Turning Point / Realization:** Realizing that judging others' unskillful behavior is itself a subtle trap of isolation.
 * **Universal Truth / Teaching:** True compassion requires stepping into another's shoes while maintaining clear, grounded awareness.
@@ -326,4 +339,4 @@ Andrea hosted and facilitated the first vision quest preparation meeting at her 
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-23 11:32:59*
+*Report automatically generated on 2026-08-27 08:52:50*

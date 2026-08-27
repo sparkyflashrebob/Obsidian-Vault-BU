@@ -25,7 +25,12 @@ tags:
 
 📅 **Date**: Thursday, June 25, 2026 (2026-06-25)
 👥 **Attendees**: Andrea (Wife), Andy
-📊 **Total Bee Conversations Processed**: 11
+🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
+📊 **Total Plaud Conversations Processed**: **0**
+📊 **Total Bee Conversations Processed**: **0**
+
+### ⚠️ Pipeline Status & Data Ingestion Warnings
+- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
 
 ---
 
@@ -48,7 +53,7 @@ tags:
 
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
-- **Bank of America** (Acc: `number`): **$2,705.00** — `We've sent your payment to Edgewater Place/Larkspur Isle as requested` (06/25/2026 1:45 AM)
+- *No automated financial balance alert emails received yet today.*
 
 ### ✉️ Outgoing Sent Emails & Correspondence
 - **To**: `Mindy Wyman <mindy@wymanpm.com>` | **Subject**: Re: 138 Underhill Drive (10:13 AM)
@@ -185,6 +190,12 @@ Andy was engaging in conversation about World Cup soccer match results, discussi
 
 ## 💬 Quoted Expressions & Catchy Phrases
 ### Quotes
+### Societal Truisms & Cultural Realities
+* **Verbatim Quote:** "I'll take I'll take it because the next three hours I'm going to be busy."
+* **Speaker:** Andy
+* **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
+* **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
+
 ### Human Behavior & Relational Dynamics
 * **Verbatim Quote:** "I'll bucket this under the macro category because it's certainly outside of markets, but elections and what do elections mean for markets?"
 * **Speaker:** Andy
@@ -209,19 +220,11 @@ Andy was engaging in conversation about World Cup soccer match results, discussi
 * **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
 * **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
 
-### Human Behavior & Relational Dynamics
-* **Verbatim Quote:** "The day after Christmas, my nephew went back to the tree looking for more presents, thinking that gift exchanges were now a daily part of the Sheets family lifestyle."
-* **Speaker:** Andy
-* **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
-* **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
-
 ### Catchy Phrases & Key Sayings
-* **"Can Help Investors"** — 6 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"Want To Continue"** — 5 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"A Little Bit More"** — 5 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+- *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-* **Camaro** — *Context:* Distinctive proper noun or creative handle captured in transcript.
+- *No public figures or notable historical figures referenced today.*
 
 ---
 
@@ -255,4 +258,4 @@ Andy was engaging in conversation about World Cup soccer match results, discussi
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-26 06:22:05*
+*Report automatically generated on 2026-08-27 06:24:00*

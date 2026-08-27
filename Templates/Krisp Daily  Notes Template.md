@@ -9,7 +9,7 @@ tags:
 
 📅 **Date**: {{FORMATTED_DATE}} ({{DATE}})
 👥 **Attendees**: {{ATTENDEES}}
-📊 **Total Bee Conversations Processed**: {{CONVERSATIONS_COUNT}}
+{{HEADER_DIAGNOSTICS_BLOCK}}
 
 ---
 

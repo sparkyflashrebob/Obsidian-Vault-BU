@@ -21,7 +21,12 @@ tags:
 
 📅 **Date**: Monday, August 03, 2026 (2026-08-03)
 👥 **Attendees**: Andrea (Wife), Andy
-📊 **Total Bee Conversations Processed**: 13
+🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
+📊 **Total Plaud Conversations Processed**: **0**
+📊 **Total Bee Conversations Processed**: **0**
+
+### ⚠️ Pipeline Status & Data Ingestion Warnings
+- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
 
 ---
 
@@ -40,7 +45,7 @@ tags:
 
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
-- **Bank of America** (Acc: `Unknown Account`): **$0.00** — `Your auto-redeemed cash rewards are on the way` (08/02/2026 4:48 PM)
+- *No automated financial balance alert emails received yet today.*
 
 ### ✉️ Outgoing Sent Emails & Correspondence
 - **To**: `peter king <peterhking@outlook.com>` | **Subject**: Re: Finding Stability on Life's Terms: Join Our Next Group Session (7:34 PM)
@@ -236,12 +241,10 @@ Andy discusses his technical workflow for managing digital notebooks, specifical
 * **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
 
 ### Catchy Phrases & Key Sayings
-* **"And Heart Together"** — 15 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"Head And Heart Together"** — 15 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"I'M Going To Go To"** — 9 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+- *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-- *No unusual or humorous nicknames recorded today.*
+* **Donald Trump** — *Context:* Former U.S. President mentioned in news commentaries.
 
 ---
 
@@ -275,4 +278,4 @@ Andy discusses his technical workflow for managing digital notebooks, specifical
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-26 06:28:36*
+*Report automatically generated on 2026-08-27 06:32:51*

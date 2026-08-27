@@ -21,7 +21,12 @@ tags:
 
 📅 **Date**: Wednesday, August 12, 2026 (2026-08-12)
 👥 **Attendees**: Andrea (Wife), Andy
-📊 **Total Bee Conversations Processed**: 14
+🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
+📊 **Total Plaud Conversations Processed**: **0**
+📊 **Total Bee Conversations Processed**: **0**
+
+### ⚠️ Pipeline Status & Data Ingestion Warnings
+- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
 
 ---
 
@@ -247,11 +252,11 @@ This conversation represents a complex ambient listening session where Andy was 
 * **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
 * **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
 
-### Mindfulness & Contemplative Inquiry
+### Societal Truisms & Cultural Realities
 * **Verbatim Quote:** "But as part of my mindfulness practice, I'm trying to pay attention to this Because this is where I can actually get caught in ways that may not be helpful for me."
 * **Speaker:** Andy
-* **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
-* **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
+* **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
+* **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
 
 ### Human Behavior & Relational Dynamics
 * **Verbatim Quote:** "I find that looking at my habits and my defects of character have to be looked at constantly, but also I have to forgive myself when I run into them and keep moving forward, trying to purify what I can."
@@ -266,12 +271,10 @@ This conversation represents a complex ambient listening session where Andy was 
 * **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
 
 ### Catchy Phrases & Key Sayings
-* **"Journal And Notes"** — 5 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"My Journal And Notes"** — 5 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"Going To Have To"** — 5 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+- *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-* **Dhamma** — *Context:* Distinctive proper noun or creative handle captured in transcript.
+- *No public figures or notable historical figures referenced today.*
 
 ---
 
@@ -306,4 +309,4 @@ This conversation represents a complex ambient listening session where Andy was 
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-26 06:30:09*
+*Report automatically generated on 2026-08-27 06:34:51*

@@ -21,7 +21,12 @@ tags:
 
 📅 **Date**: Wednesday, June 03, 2026 (2026-06-03)
 👥 **Attendees**: Andrea (Wife), Andy
-📊 **Total Bee Conversations Processed**: 10
+🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
+📊 **Total Plaud Conversations Processed**: **0**
+📊 **Total Bee Conversations Processed**: **0**
+
+### ⚠️ Pipeline Status & Data Ingestion Warnings
+- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
 
 ---
 
@@ -42,9 +47,7 @@ tags:
 
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
-- **Bank of America** (Total Available Balance: **$1,300.00** across 2 accounts):
-  - Account `0372`: **$1,300.00** (06/03/2026 6:43 AM)
-  - Account `from`: **$0.00** (06/03/2026 6:06 PM)
+- *No automated financial balance alert emails received yet today.*
 
 ### ✉️ Outgoing Sent Emails & Correspondence
 - *No outgoing sent email replies or correspondence recorded today.*
@@ -207,12 +210,11 @@ Andy was in a casual social gathering with multiple people while staying at an A
 * **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
 
 ### Catchy Phrases & Key Sayings
-* **"You Don'T Need To"** — 3 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"Care Of Yourself"** — 3 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"Take Care Of Yourself"** — 3 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+- *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-* **Buddha** — *Context:* Distinctive proper noun or creative handle captured in transcript.
+* **Buddha** — *Context:* Historical founder of Buddhism and source of Dhamma teachings.
+* **Donald Trump** — *Context:* Former U.S. President mentioned in news commentaries.
 
 ---
 
@@ -246,4 +248,4 @@ Andy was in a casual social gathering with multiple people while staying at an A
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-26 06:17:56*
+*Report automatically generated on 2026-08-27 06:18:28*

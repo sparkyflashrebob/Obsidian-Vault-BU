@@ -15,7 +15,12 @@ tags:
 
 📅 **Date**: Wednesday, July 01, 2026 (2026-07-01)
 👥 **Attendees**: Andy
-📊 **Total Bee Conversations Processed**: 5
+🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
+📊 **Total Plaud Conversations Processed**: **0**
+📊 **Total Bee Conversations Processed**: **0**
+
+### ⚠️ Pipeline Status & Data Ingestion Warnings
+- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
 
 ---
 
@@ -137,19 +142,17 @@ Andy spent this period at home watching World Cup soccer matches while engaging 
 * **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
 * **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
 
-### Human Behavior & Relational Dynamics
-* **Verbatim Quote:** "Don't use Fandeo if you're allergic to it, or if you or someone in your family had MTV or NEN2."
+### Societal Truisms & Cultural Realities
+* **Verbatim Quote:** "This country didn't go on the world today."
 * **Speaker:** Andy
-* **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
-* **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
+* **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
+* **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
 
 ### Catchy Phrases & Key Sayings
-* **"One Two Three Four"** — 7 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"The United States"** — 7 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"The Empire State"** — 6 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+- *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-- *No unusual or humorous nicknames recorded today.*
+- *No public figures or notable historical figures referenced today.*
 
 ---
 
@@ -183,4 +186,4 @@ Andy spent this period at home watching World Cup soccer matches while engaging 
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-26 06:23:07*
+*Report automatically generated on 2026-08-27 06:25:26*

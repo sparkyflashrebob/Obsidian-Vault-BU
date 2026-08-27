@@ -21,7 +21,12 @@ tags:
 
 📅 **Date**: Saturday, August 22, 2026 (2026-08-22)
 👥 **Attendees**: Andrea (Wife), Andrea (Wife), Andy
-📊 **Total Bee Conversations Processed**: 14
+🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
+📊 **Total Plaud Conversations Processed**: **0**
+📊 **Total Bee Conversations Processed**: **0**
+
+### ⚠️ Pipeline Status & Data Ingestion Warnings
+- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
 
 ---
 
@@ -253,19 +258,18 @@ Andrea hosted and facilitated the first vision quest preparation meeting at her 
 * **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
 * **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
 
-### Spirituality, Impermanence & Interconnection
+### Societal Truisms & Cultural Realities
 * **Verbatim Quote:** "And yeah, seeing I just want to say that whatever draws your attention to having some kind of spiritual connection is important."
 * **Speaker:** Andy
-* **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
-* **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
+* **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
+* **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
 
 ### Catchy Phrases & Key Sayings
-* **"You'Re Not Going"** — 10 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"You'Re Not Going To"** — 10 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"You Don'T Have To"** — 5 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+- *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-* **Buddha** — *Context:* Distinctive proper noun or creative handle captured in transcript.
+* **Buddha** — *Context:* Historical founder of Buddhism and source of Dhamma teachings.
+* **Donald Trump** — *Context:* Former U.S. President mentioned in news commentaries.
 
 ---
 
@@ -323,4 +327,4 @@ Andrea hosted and facilitated the first vision quest preparation meeting at her 
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-26 06:32:29*
+*Report automatically generated on 2026-08-27 06:37:37*

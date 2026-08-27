@@ -29,7 +29,12 @@ tags:
 
 📅 **Date**: Saturday, June 27, 2026 (2026-06-27)
 👥 **Attendees**: Andrea (Wife), Andy
-📊 **Total Bee Conversations Processed**: 12
+🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
+📊 **Total Plaud Conversations Processed**: **0**
+📊 **Total Bee Conversations Processed**: **0**
+
+### ⚠️ Pipeline Status & Data Ingestion Warnings
+- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
 
 ---
 
@@ -48,7 +53,7 @@ tags:
 
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
-- **Bank of America** (Acc: `Unknown Account`): **$0.00** — `Your statement is available` (06/27/2026 8:24 PM)
+- *No automated financial balance alert emails received yet today.*
 
 ### ✉️ Outgoing Sent Emails & Correspondence
 - **To**: `Will Meecham <willspirit@icloud.com>` | **Subject**: Re: Meditation (4:11 PM)
@@ -227,12 +232,10 @@ The day included personal reflections on mortality and wanting to avoid burdenin
 * **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
 
 ### Catchy Phrases & Key Sayings
-* **"Chamber Of Secrets"** — 7 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"The Chamber Of Secrets"** — 6 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"Have Your Attention"** — 3 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+- *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-- *No unusual or humorous nicknames recorded today.*
+* **Donald Trump** — *Context:* Former U.S. President mentioned in news commentaries.
 
 ---
 
@@ -282,4 +285,4 @@ The day included personal reflections on mortality and wanting to avoid burdenin
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-26 06:22:23*
+*Report automatically generated on 2026-08-27 06:24:28*

@@ -29,7 +29,12 @@ tags:
 
 📅 **Date**: Thursday, June 04, 2026 (2026-06-04)
 👥 **Attendees**: Andy
-📊 **Total Bee Conversations Processed**: 14
+🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
+📊 **Total Plaud Conversations Processed**: **0**
+📊 **Total Bee Conversations Processed**: **0**
+
+### ⚠️ Pipeline Status & Data Ingestion Warnings
+- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
 
 ---
 
@@ -50,9 +55,7 @@ tags:
 
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
-- **Bank of America** (Total Available Balance: **$1,300.00** across 2 accounts):
-  - Account `0372`: **$1,300.00** (06/03/2026 6:43 AM)
-  - Account `from`: **$0.00** (06/03/2026 6:06 PM)
+- *No automated financial balance alert emails received yet today.*
 
 ### ✉️ Outgoing Sent Emails & Correspondence
 - *No outgoing sent email replies or correspondence recorded today.*
@@ -219,6 +222,12 @@ Andy and Andrea were troubleshooting an electrical outlet at their Airbnb in Jos
 * **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
 * **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
 
+### Societal Truisms & Cultural Realities
+* **Verbatim Quote:** "I'm sure everyone is taking advantage of this."
+* **Speaker:** Andy
+* **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
+* **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
+
 ### Human Behavior & Relational Dynamics
 * **Verbatim Quote:** "Has there ever been a taxpayer who had his tax return relief to the family?"
 * **Speaker:** Andy
@@ -237,19 +246,11 @@ Andy and Andrea were troubleshooting an electrical outlet at their Airbnb in Jos
 * **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
 * **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
 
-### Somatic Awareness & Present-Moment Integration
-* **Verbatim Quote:** "I mean, again, nobody, no citizen gets that kind of treatment."
-* **Speaker:** Andy
-* **Core Insight:** Emphasizes bodily listening and physical presence as a foundation for grounding awareness in daily life.
-* **Somatic / Relational Context:** Triggered by physical sensation or noticing internal bodily states during daily routines.
-
 ### Catchy Phrases & Key Sayings
-* **"I'M Just Going To"** — 5 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"You Believe That"** — 4 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"Do You Believe That"** — 4 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+- *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-- *No unusual or humorous nicknames recorded today.*
+* **Donald Trump** — *Context:* Former U.S. President mentioned in news commentaries.
 
 ---
 
@@ -283,4 +284,4 @@ Andy and Andrea were troubleshooting an electrical outlet at their Airbnb in Jos
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-26 06:18:08*
+*Report automatically generated on 2026-08-27 06:18:47*

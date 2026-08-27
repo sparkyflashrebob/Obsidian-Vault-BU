@@ -25,7 +25,12 @@ tags:
 
 📅 **Date**: Wednesday, July 08, 2026 (2026-07-08)
 👥 **Attendees**: Andy
-📊 **Total Bee Conversations Processed**: 8
+🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
+📊 **Total Plaud Conversations Processed**: **0**
+📊 **Total Bee Conversations Processed**: **0**
+
+### ⚠️ Pipeline Status & Data Ingestion Warnings
+- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
 
 ---
 
@@ -45,7 +50,7 @@ tags:
 
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
-- **Bank of America** (Acc: `name`): **$0.00** — `We sent you a secure message` (07/08/2026 3:35 PM)
+- *No automated financial balance alert emails received yet today.*
 
 ### ✉️ Outgoing Sent Emails & Correspondence
 - *No outgoing sent email replies or correspondence recorded today.*
@@ -183,12 +188,10 @@ This recording captures Andy in a typical daily environment with multiple media 
 * **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
 
 ### Catchy Phrases & Key Sayings
-* **"Oh Oh Oh Oh Oh Oh"** — 11 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"Five Three Four Five"** — 7 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
-* **"Five Three Three"** — 5 occurrences — *Context:* Distinctive conversational expression recorded across today's dialogue.
+- *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-- *No unusual or humorous nicknames recorded today.*
+- *No public figures or notable historical figures referenced today.*
 
 ---
 
@@ -238,4 +241,4 @@ This recording captures Andy in a typical daily environment with multiple media 
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-26 06:24:24*
+*Report automatically generated on 2026-08-27 06:27:04*
