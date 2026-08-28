@@ -87,7 +87,7 @@ Cetokhila Sutta - The Wilderness of the Heart - M 16.26
 - energetic engagement required for the development of the [[fous bases of spiritual power]] or [[Roads to Success]]
 - consisting in concentration due to zeal ([[chanda]]) and determined striving
 - concentration due to energy ([[viriya]])
-- concentration due to purity of mind ([[Citta]]) and determined striving
+- concentration due to purity of mind ([[_A_My Research/_Buddhism/Mindfulness/Mindfulness of Mind/Citta/Citta]]) and determined striving
 - concentration due to investigation ([[vimamsa]]) and determined striving
 - concentration due to enthusiasm ([[ussolhi]])
 
@@ -168,7 +168,7 @@ Ajahn Sumedho
 - persistence applied in a more balanced way but non-reflective 
 - obedience out of blind devotion 
 - lacking
-	- [[Yoniso Manasikara]] wise reflection
+	- [[_A_My Research/_Buddhism/Contemplation/Yoniso Manasikara]] wise reflection
 	- [[dhamma-vicaya]] investigation of qualities
 	-  or [[vimamsa]] examination of results
 - effort futile

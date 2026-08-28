@@ -70,7 +70,7 @@ The main way that this principle is applied in the Suttas
   - is as sequence of 12 factors
   - each dependent on its predecessor
 
-[[Dependent Origination]] Factors
+[[Unsorted Notes/Dependent Origination]] Factors
 1. [[Ignorance]]
 2. [[Volition]]
 3. [[Consciousness]]** (see monkey branch to branch)
@@ -161,7 +161,7 @@ This conditionality is a Chain of Events - that follow natural law
 - that is fixed, stable & invariable thru all time
 - it is seen as  "[[real, not unreal, not otherwise]]"
 
-[[Dependent Origination]]
+[[Unsorted Notes/Dependent Origination]]
 Two perspective of note
 1st Take
 - and great discovery night of Buddha's enlightenment
@@ -175,7 +175,7 @@ Two perspective of note
 - and how each ceases with the ceasing of the other
 - discovered the path to enlightenment
 
-[[Dependent Origination]] provides a dynamic perspective on [[non-self]]
+[[Unsorted Notes/Dependent Origination]] provides a dynamic perspective on [[non-self]]
 - that complements analytical perspective of the [[the five aggregates]]
 - where the process of rebirth & causation occur <u>without an underlying subject</u>, a substantial self, of one existence to the next.
 - This taking it out of the personal is important

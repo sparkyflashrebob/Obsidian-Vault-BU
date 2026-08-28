@@ -18,7 +18,7 @@ And the [[outward practices of meditation]].
 [[Servitude]], which I might want to talk about a second here about. 
 Services and no brainer. 
 
-And something that doesn't get talked about too much in in Western. Society that is I think important is having a sense of [[Google Keep/Ethics]] something. I've got to look at. 
+And something that doesn't get talked about too much in in Western. Society that is I think important is having a sense of [[Ethics Quotes]] something. I've got to look at. 
 
 Who know it's I might look come up with something else outwardly. 
 

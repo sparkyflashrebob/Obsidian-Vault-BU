@@ -93,59 +93,48 @@
           "fh": 200
         },
         {
-          "kind": "daily",
-          "title": "Today",
-          "x": 0,
-          "y": 2,
-          "w": 6,
-          "h": 5,
-          "id": "card-mt6grhux-1-7551",
-          "fx": 0,
-          "fw": 0.495,
-          "fy": 216,
-          "fh": 524
-        },
-        {
-          "kind": "tasks",
-          "title": "Tasks",
-          "x": 6,
-          "y": 2,
-          "w": 6,
-          "h": 5,
-          "tasks": {},
-          "id": "card-mt6grhux-2-777",
-          "fx": 0.5050000000000001,
-          "fw": 0.495,
-          "fy": 216,
-          "fh": 524
-        },
-        {
           "kind": "schedule",
           "title": "Calendar",
           "x": 0,
           "y": 7,
           "w": 8,
           "h": 6,
-          "schedule": {},
+          "schedule": {
+            "chips": {},
+            "sources": []
+          },
           "id": "card-mt6grhux-3-6758",
           "fx": 0,
-          "fw": 0.6633333333333334,
-          "fy": 756,
+          "fw": 0.57375,
+          "fy": 245,
           "fh": 632
         },
         {
           "kind": "recent",
           "title": "Recent",
-          "count": 8,
           "x": 8,
           "y": 7,
           "w": 4,
           "h": 4,
           "id": "card-mt6grhux-4-5912",
-          "fx": 0.6733333333333335,
-          "fw": 0.3266666666666667,
-          "fy": 756,
-          "fh": 416
+          "fx": 0.66875,
+          "fw": 0.326875,
+          "fy": 706,
+          "fh": 416,
+          "recentTypes": [
+            "markdown",
+            "images",
+            "pdf",
+            "documents",
+            "excalidraw",
+            "canvas",
+            "bases",
+            "videos",
+            "presentations",
+            "spreadsheets",
+            "audio",
+            "other"
+          ]
         },
         {
           "kind": "favorites",
@@ -155,9 +144,9 @@
           "w": 4,
           "h": 3,
           "id": "card-mt6grhux-5-3101",
-          "fx": 0.6733333333333335,
-          "fw": 0.3266666666666667,
-          "fy": 1188,
+          "fx": 0.673125,
+          "fw": 0.326875,
+          "fy": 1138,
           "fh": 308
         },
         {
@@ -171,7 +160,7 @@
           "id": "card-mt6grhux-6-8083",
           "fx": 0,
           "fw": 0.495,
-          "fy": 1404,
+          "fy": 1462,
           "fh": 200
         },
         {
@@ -183,9 +172,9 @@
           "w": 6,
           "h": 2,
           "id": "card-mt6grhux-7-9170",
-          "fx": 0.5050000000000001,
-          "fw": 0.495,
-          "fy": 1512,
+          "fx": 0.339375,
+          "fw": 0.321875,
+          "fy": 1138,
           "fh": 200
         },
         {
@@ -196,9 +185,9 @@
           "w": 4,
           "h": 2,
           "id": "card-mt6grhux-8-7757",
-          "fx": 0,
-          "fw": 0.3266666666666667,
-          "fy": 1620,
+          "fx": 0.331875,
+          "fw": 0.326875,
+          "fy": 914,
           "fh": 200
         },
         {
@@ -210,16 +199,48 @@
           "w": 8,
           "h": 3,
           "id": "card-mt6grhux-9-1258",
-          "fx": 0.3366666666666667,
-          "fw": 0.6633333333333334,
-          "fy": 1728,
+          "fx": 0.158125,
+          "fw": 0.663125,
+          "fy": 1720,
           "fh": 308
         },
         {
           "kind": "rss",
           "title": "Reading",
           "rss": {
-            "sources": []
+            "sources": [
+              {
+                "id": "rss-mtd4mdxw-2189",
+                "name": "Abhayagiri News",
+                "url": "http://feed.abhayagiri.org/abhayagiri-news"
+              },
+              {
+                "id": "rss-mtd4shqn-5763",
+                "name": "Abhayagiri Reflections",
+                "url": "https://www.abhayagiri.org/reflections.rss"
+              },
+              {
+                "id": "rss-mtd4ts9b-4149",
+                "name": "Abhayagiri Talks",
+                "url": "https://www.abhayagiri.org/talks.rss"
+              },
+              {
+                "id": "rss-mtd4ue11-7631",
+                "name": "Physics World",
+                "url": "https://physicsworld.com/feed/"
+              },
+              {
+                "id": "rss-mtd506dh-7302",
+                "name": "Neuroscience News",
+                "url": "https://neurosciencenews.com/feed/"
+              },
+              {
+                "id": "rss-mtd5fbte-1051",
+                "name": "",
+                "url": ""
+              }
+            ],
+            "itemLimit": 10
           },
           "x": 0,
           "y": 17,
@@ -227,37 +248,39 @@
           "h": 5,
           "id": "card-mt6grhux-10-3879",
           "fx": 0,
-          "fw": 0.3266666666666667,
-          "fy": 1836,
+          "fw": 0.326875,
+          "fy": 914,
           "fh": 524
         },
         {
           "kind": "weather",
           "title": "Weather",
-          "weather": {},
+          "weather": {
+            "place": {
+              "name": "Larkspur",
+              "region": "California, United States",
+              "lat": 37.93409,
+              "lon": -122.53525,
+              "timezone": "America/Los_Angeles"
+            },
+            "style": "detailed",
+            "tempUnit": "f",
+            "windUnit": "mph",
+            "precipUnit": "inch",
+            "showPrecip": true,
+            "showUv": true,
+            "showPressure": true,
+            "showSun": true
+          },
           "x": 4,
           "y": 19,
           "w": 4,
           "h": 3,
           "id": "card-mt6grhux-11-6496",
-          "fx": 0.3366666666666667,
-          "fw": 0.3266666666666667,
-          "fy": 2052,
-          "fh": 308
-        },
-        {
-          "kind": "pet",
-          "title": "Pet",
-          "pet": {},
-          "x": 8,
-          "y": 19,
-          "w": 3,
-          "h": 4,
-          "id": "card-mt6grhux-12-302",
-          "fx": 0.6733333333333335,
-          "fw": 0.2425,
-          "fy": 2052,
-          "fh": 416
+          "fx": 0.58375,
+          "fw": 0.41625,
+          "fy": 245,
+          "fh": 360
         },
         {
           "kind": "dataview",

@@ -26,7 +26,7 @@ tags:
 📅 **Date**: Tuesday, August 25, 2026 (2026-08-25)
 👥 **Attendees**: Andy, Unidentified Physical Speaker (Query needed)
 🎙️ **Primary Data Source**: **Plaud Local PC Ingest (Direct API + Local Whisper AI)**
-📊 **Plaud Sessions Processed (PRIMARY)**: **5**
+📊 **Plaud Sessions Processed (PRIMARY)**: **6**
 📊 **Bee Sessions Processed (SECONDARY BACKUP)**: **11**
 
 ### ⚙️ Pipeline Status & Data Ingestion Log
@@ -331,4 +331,4 @@ Andy and Audel spent the evening preparing for and attending a Mary Oliver film 
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-27 08:56:27*
+*Report automatically generated on 2026-08-27 16:45:33*

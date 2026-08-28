@@ -14,7 +14,7 @@ views:
       - tags
     sort: []
     columnSize:
-      file.name: 234
+      file.name: 572
       file.folder: 331
       file.tags: 73
       note.author: 65

@@ -43,6 +43,13 @@ This repository contains pre-extracted quotes, parables, and key takeaways from 
 > **Status:** `[STATUS: Ready to Post]`
 > **Source:** *[The Architecture of Ease](file:///G:/Google%20Drive%20%28260611%29/Obsidian%20Master%20Vault/Flashrebob%20Obsidian/The%20Architecture%20of%20Ease%20-%20Why%20Peace%20Can%E2%80%99t%20Be%20Forced%20%28and%20How%20to%20Plant%20It%20Instead%29.md)*
 
+> [!QUOTE] Internal Investigation & Protective Stories
+> *"Spiritual practice is an invitation to shift our energy away from a strictly outward analysis and move that inwards towards an internal investigation. We are here to contemplate and investigate the protective stories that obscure us from seeing the whole truth."*
+> 
+> **Status:** `[STATUS: Ready to Post]`
+> **Tags:** `#HHT-Quotes` `#HHT-SelfHonesty` `#HHT-Mindfulness`
+
+
 ---
 
 ## 2. Internal Commentary & How We Talk to Ourselves

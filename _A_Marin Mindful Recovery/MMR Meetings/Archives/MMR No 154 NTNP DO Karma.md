@@ -76,7 +76,7 @@ The main way that this principle is applied in the Suttas
   - is as sequence of 12 factors
   - each dependent on its predecessor
 
-[[Dependent Origination]] Factors
+[[Unsorted Notes/Dependent Origination]] Factors
 1. [[Ignorance]]
 2. [[Volition]]
 3. [[Consciousness]]** (see monkey branch to branch)
@@ -154,7 +154,7 @@ A Chain of Events - that follow the natural law - the law of nature
 - and how each ceases with the ceasing of the other
 - he discovered the path to enlightenment
 
-[[Dependent Origination]] provides a dynamic perspective on [[non-self]]
+[[Unsorted Notes/Dependent Origination]] provides a dynamic perspective on [[non-self]]
 - and complements the analytical perspective of the [[the five aggregates]]
 - because The process of causation occurs <u>without any specific underlying subject</u>, substantial self, of one existence to the next.
 - it is a set of causes and conditions with each being

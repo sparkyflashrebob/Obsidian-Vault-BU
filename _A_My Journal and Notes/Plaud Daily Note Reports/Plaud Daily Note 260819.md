@@ -134,11 +134,11 @@ tags:
 
 ## 📋 Action Items & Follow-Ups
 # **@AwnDee**
-- [ ] Review CALPIRG online petition and toxic packaging legislation - [TBD]
-- [ ] Draft written blog post and Dharma talk structure for the Bahiya Sutta - [TBD]
-- [ ] Add John Kirkham as a "Dharma friend" in personal contact records - [TBD]
+- [x] Review CALPIRG online petition and toxic packaging legislation - [TBD] ✅ 2026-08-27
+- [x] Draft written blog post and Dharma talk structure for the Bahiya Sutta - [TBD] ✅ 2026-08-27
+- [x] Add John Kirkham as a "Dharma friend" in personal contact records - [TBD] ✅ 2026-08-27
 - [ ] Follow up with John O'Connor regarding Insight Retreat Center volunteering - [TBD]
-- [ ] Respond to text messages from sister Shelley - [TBD]
+- [x] Respond to text messages from sister Shelley - [TBD] ✅ 2026-08-27
 
 ---
 # *Report automatically generated on 2026-08-20 (Exact Header Hierarchy Specification)*

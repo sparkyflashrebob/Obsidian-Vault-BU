@@ -14,7 +14,7 @@ Deathless
 # Chapter 1: The Signless
 - sign and its absence
 	- [[perception]]
-	- [[bare awareness]]
+	- [[_A_My Research/_Buddhism/Bare Awareness]]
 		- forstall the arising of defilements
 			- grasping at signs
 		- also relates to experience of pain
