@@ -1,6 +1,6 @@
 ---
 tag: neighborhoodconcentration, concentration, dharma
-Created: 2023-10-14
+Created: 2024-07-21
 ---
 [[Neighborhood Concentration]] is attained as soon as the Hindrances disappear. Freedom from Hindrances is the only condition. 
 Unsteady - collapses and arises

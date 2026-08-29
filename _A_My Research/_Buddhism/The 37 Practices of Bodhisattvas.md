@@ -1,4 +1,4 @@
-[[_A_My Research/Dharma Subjects and Themes/The 37 Practices of Bodhisattvas]]
+[[_A_My Research/_Buddhism/The 37 Practices of Bodhisattvas]]
 Gyalsey Thokmay Sangpo
 
 The Thirty-seven Practices of Bodhisattvas

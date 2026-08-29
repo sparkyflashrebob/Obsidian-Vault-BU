@@ -1,8 +1,8 @@
 ---
 tag: mindfulnessofthebody, dharma
-Created: 2023-10-14
+Created: 2024-07-21
 ---
-([[_A_My Research/Dharma Subjects and Themes/Mindfulness/Mindfulness of the Body/kāye kāyānupassī]]),
+([[_A_My Research/_Buddhism/Mindfulness/Mindfulness of the Body/kāye kāyānupassī]]),
 
 138 The repetition in the phrase “[[contemplating the body as a body]]” (kāye kāyānupassī), according to MA, has the purpose of precisely determining the object of contemplation and of isolating that object from others with which it might be confused. Thus, in this practice, the body should be contemplated as such, and not one’s feelings, ideas, and emotions concerning it. 
 The phrase also means that the body should be contemplated simply as a body and not as a man, a woman, a self, or a living being. 

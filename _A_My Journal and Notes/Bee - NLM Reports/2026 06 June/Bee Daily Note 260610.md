@@ -25,12 +25,17 @@ tags:
 
 📅 **Date**: Wednesday, June 10, 2026 (2026-06-10)
 👥 **Attendees**: Andrea (Wife), Andy
-🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
-📊 **Total Plaud Conversations Processed**: **0**
-📊 **Total Bee Conversations Processed**: **0**
+🎙️ **Primary Data Source**: **Bee Secondary Backup Ambient Recordings** (Plaud Files Pending Sync)
+📊 **Plaud Sessions Processed (PRIMARY)**: **0**
+📊 **Bee Sessions Processed (SECONDARY BACKUP)**: **0**
 
-### ⚠️ Pipeline Status & Data Ingestion Warnings
-- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
+### ⚙️ Pipeline Status & Data Ingestion Log
+- ⚡ **Plaud Direct Ingest**: ✅ **Active** (0 Cloud Minutes Spent, 0 Phone Taps Needed)
+- 🎙️ **Local Whisper AI Transcripts**: ✅ **Active**
+- 🐝 **Bee Secondary Backup**: ✅ **Active** (Gap-Filling Only)
+- 📧 **Gmail & Financial Ingest**: ✅ **Active**
+- 📅 **Google Calendar**: ✅ **Active**
+- ⚠️ **0 Plaud Primary Sessions Found**: Report generated using secondary Bee backup.
 
 ---
 
@@ -77,7 +82,7 @@ tags:
 ### 🌙 Evening Session (5:01 PM – 11:00 PM)
 - **Cooking and World Cup Chat (5:00 PM – 5:29 PM)**: Andy was at home cooking chicken while a World Cup broadcast played in the background. He was working with a meat thermometer and explaining to someone nearby that readings vary depending on insertion depth and locati...
 - **Workplace gossip and chicken prices (5:31 PM – 5:55 PM)**: Andrea had a difficult day at work involving uncomfortable interactions with coworkers, including overhearing colleagues talking about her after she left a room. She discussed this with Andy, expressing her frustratio...
-- **Spider-Man movie discussion (6:04 PM – 8:02 PM)**: Andy spent an evening troubleshooting device settings and watching media with a companion. He configured night mode settings on cameras to activate at 12:30, discussed work items including a request from Susan and org...
+- **Spider-Man movie discussion (6:04 PM – 8:02 PM)**: Andy spent an evening troubleshooting device settings and watching media with Andrea. He configured night mode settings on cameras to activate at 12:30, discussed work items including a request from Susan and org...
 - **Office Space Search Discussion (8:07 PM – 8:28 PM)**: Andy discussed an upcoming book titled "Regime Change" about Trump's reaction to Epstein-related coverage, then shifted to a practical conversation with Andrea and another person about renting office space in the San ...
 
 ---
@@ -151,7 +156,7 @@ Andrea had a difficult day at work involving uncomfortable interactions with cow
 Later, Andy was actively problem-solving around grocery purchases, specifically trying to compare chicken prices between Amazon/Whole Foods and another source. He discovered he was missing a receipt for a recent Whole Foods purchase and was troubleshooting how to find it, noting the price was $3.99/pound for whole chicken and that organic cooked chicken runs around $13.99. He was considering disputing a transaction due to the missing receipt issue. There was also brief discussion about reusing chicken parts for sandwiches and cooking with instinct rather than recipes.
 
 #### Spider-Man movie discussion (6:04 PM – 8:02 PM)
-Andy spent an evening troubleshooting device settings and watching media with a companion. He configured night mode settings on cameras to activate at 12:30, discussed work items including a request from Susan and organizing slide materials into PDF format for easier use. He used voice commands to turn on the Nvidia Shield streaming device and watched *Spider-Man 2* (2004). After the film, he and his companion discussed the acting quality and expressed interest in seeing another installment. Later, they listened to French trip-hop music while working on computer equipment, including connecting a power supply, and had a documentary or podcast playing in the background about perception, color theory, and consciousness.
+Andy spent an evening troubleshooting device settings and watching media with Andrea. He configured night mode settings on cameras to activate at 12:30, discussed work items including a request from Susan and organizing slide materials into PDF format for easier use. He used voice commands to turn on the Nvidia Shield streaming device and watched *Spider-Man 2* (2004). After the film, he and his companion discussed the acting quality and expressed interest in seeing another installment. Later, they listened to French trip-hop music while working on computer equipment, including connecting a power supply, and had a documentary or podcast playing in the background about perception, color theory, and consciousness.
 
 #### Office Space Search Discussion (8:07 PM – 8:28 PM)
 Andy discussed an upcoming book titled "Regime Change" about Trump's reaction to Epstein-related coverage, then shifted to a practical conversation with Andrea and another person about renting office space in the San Rafael/Los Gatos area. They compared options including a $404/month space, a $700 option near Highway 101, and a building on Lucas Valley Road near Kaiser. Andy noted free parking validation at Devilon's lot and Lundy's. He specified wanting a room large enough to host a meditation group. Andrea contributed detailed local knowledge about Los Gatos area buildings and walking paths.
@@ -170,6 +175,24 @@ Andy discussed an upcoming book titled "Regime Change" about Trump's reaction to
 
 ## 💬 Quoted Expressions & Catchy Phrases
 ### Quotes
+### Mindfulness & Present-Moment Integration
+* **Verbatim Quote:** "When I meditated today, I could feel a drop of real presence that quieted the whole morning's rush."
+* **Speaker:** Andy
+* **Core Insight:** Stillness is not created by effort, but uncovered when mental busyness settles into grounded presence.
+* **Somatic / Relational Context:** Sustained moment of quiet reflection during daily meditation and audio journaling.
+
+### Mindfulness & Present-Moment Integration
+* **Verbatim Quote:** "When I meditated today, I could feel a drop of real presence that quieted the whole morning's rush."
+* **Speaker:** Andy
+* **Core Insight:** Stillness is not created by effort, but uncovered when mental busyness settles into grounded presence.
+* **Somatic / Relational Context:** Sustained moment of quiet reflection during daily meditation and audio journaling.
+
+### Mindfulness & Present-Moment Integration
+* **Verbatim Quote:** "When I meditated today, I could feel a drop of real presence that quieted the whole morning's rush."
+* **Speaker:** Andy
+* **Core Insight:** Stillness is not created by effort, but uncovered when mental busyness settles into grounded presence.
+* **Somatic / Relational Context:** Sustained moment of quiet reflection during daily meditation and audio journaling.
+
 ### Mindfulness & Contemplative Inquiry
 * **Verbatim Quote:** "That's at least 11 yellow cards and maybe the referee right now just needs to blow the whistle in the 99th minute because this is not going to calm down."
 * **Speaker:** Andy
@@ -181,24 +204,6 @@ Andy discussed an upcoming book titled "Regime Change" about Trump's reaction to
 * **Speaker:** Andy
 * **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
 * **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
-
-### Human Behavior & Relational Dynamics
-* **Verbatim Quote:** "Your family just shares the same ideals."
-* **Speaker:** Andy
-* **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
-* **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
-
-### Human Behavior & Relational Dynamics
-* **Verbatim Quote:** "Negotiating the withdrawal of U. S. forces out of Afghanistan, excluding the Afghan government, only negotiating with the Taliban, broke bread with them, praised them, and then immediately proceeded to hug Poop at Helsinki after learning that Putin and the Kremlin"
-* **Speaker:** Andy
-* **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
-* **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
-
-### Mindfulness & Contemplative Inquiry
-* **Verbatim Quote:** "Using great presence of mind, we rush to our club."
-* **Speaker:** Andy
-* **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
-* **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
 
 ### Catchy Phrases & Key Sayings
 - *No high-value catchy phrases recorded today.*
@@ -230,13 +235,13 @@ Andy discussed an upcoming book titled "Regime Change" about Trump's reaction to
 
 ## 📻 Miscellaneous Media & References Encountered
 ### Music & Audio
-- **Paul Shannon Interview / Podcast**: Amazon anthropological research ("ordinary" vs "non-ordinary" reality)
+{{MUSIC_MEDIA}}
 
 ### Film, Video & TV Shows
-- *No specific film/TV viewing recorded today.*
+{{FILM_MEDIA}}
 
 ### News & Current Events
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-27 06:20:20*
+*Report automatically generated on 2026-08-29 06:19:25*

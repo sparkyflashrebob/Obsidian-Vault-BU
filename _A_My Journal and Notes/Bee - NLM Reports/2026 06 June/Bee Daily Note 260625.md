@@ -25,12 +25,17 @@ tags:
 
 📅 **Date**: Thursday, June 25, 2026 (2026-06-25)
 👥 **Attendees**: Andrea (Wife), Andy
-🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
-📊 **Total Plaud Conversations Processed**: **0**
-📊 **Total Bee Conversations Processed**: **0**
+🎙️ **Primary Data Source**: **Bee Secondary Backup Ambient Recordings** (Plaud Files Pending Sync)
+📊 **Plaud Sessions Processed (PRIMARY)**: **0**
+📊 **Bee Sessions Processed (SECONDARY BACKUP)**: **0**
 
-### ⚠️ Pipeline Status & Data Ingestion Warnings
-- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
+### ⚙️ Pipeline Status & Data Ingestion Log
+- ⚡ **Plaud Direct Ingest**: ✅ **Active** (0 Cloud Minutes Spent, 0 Phone Taps Needed)
+- 🎙️ **Local Whisper AI Transcripts**: ✅ **Active**
+- 🐝 **Bee Secondary Backup**: ✅ **Active** (Gap-Filling Only)
+- 📧 **Gmail & Financial Ingest**: ✅ **Active**
+- 📅 **Google Calendar**: ✅ **Active**
+- ⚠️ **0 Plaud Primary Sessions Found**: Report generated using secondary Bee backup.
 
 ---
 
@@ -87,8 +92,8 @@ tags:
 - **Conflict resolution masterclass discussion (4:11 PM – 4:44 PM)**: Andy spent time at home dealing with ongoing king tide flooding in his Marin County area, coordinating with Andrea and another household member about car relocation and tide timing. They discussed flood delays, street...
 
 ### 🌙 Evening Session (5:01 PM – 11:00 PM)
-- **Discussing politics immigration and economy (4:53 PM – 5:06 PM)**: Andy had an impassioned political discussion with a companion, sharing his views on current US policy debates. He argued that people advocating for Israel should not be blamed at present, and that political leaders ne...
-- **Fire aftermath with GPS navigation (5:11 PM – 6:03 PM)**: Andy was navigating via GPS while driving with a companion nicknamed "Ship," discussing a local wildfire that started above the Caldecott Tunnel. The conversation took place while driving through burned hillside areas...
+- **Discussing politics immigration and economy (4:53 PM – 5:06 PM)**: Andy had an impassioned political discussion with Andrea, sharing his views on current US policy debates. He argued that people advocating for Israel should not be blamed at present, and that political leaders ne...
+- **Fire aftermath with GPS navigation (5:11 PM – 6:03 PM)**: Andy was navigating via GPS while driving with Andrea nicknamed "Ship," discussing a local wildfire that started above the Caldecott Tunnel. The conversation took place while driving through burned hillside areas...
 - **Theme park ride safety briefing (6:35 PM – 6:45 PM)**: Andy was consuming background media content that appears to be from an entertainment venue or theatrical production. The audio consists of professional dialogue between venue staff or production team members discussin...
 - **California earthquake fault discovery discussion (8:32 PM – 9:01 PM)**: Andy had a casual conversation with a household member while consuming various media content. The interaction covered multiple topics including street activities in Oakland (referred to as "sideshow" behaviors like do...
 - **Sports Results and Trump's Scouting (9:03 PM – 9:12 PM)**: Andy was engaging in conversation about World Cup soccer match results, discussing the United States' loss to Turkey (3-2) while noting they had already advanced to the round of sixteen. He was tracking multiple match...
@@ -158,10 +163,10 @@ Toward the end, Andy recounted a Fidelity meeting where he learned one of the re
 
 ### 🌙 Evening Session (5:01 PM – 11:00 PM)
 #### Discussing politics immigration and economy (4:53 PM – 5:06 PM)
-Andy had an impassioned political discussion with a companion, sharing his views on current US policy debates. He argued that people advocating for Israel should not be blamed at present, and that political leaders need to be aggressive and focused on core issues. He characterized the immigration stalemate as a clash between hardline conservative immigration positions and Democratic union priorities, and asserted that while the economy must be the top national concern, it cannot come at the expense of ethics and humane treatment. His companion offered brief agreement, remarking that leadership needs to get its ducks in a row.
+Andy had an impassioned political discussion with Andrea, sharing his views on current US policy debates. He argued that people advocating for Israel should not be blamed at present, and that political leaders need to be aggressive and focused on core issues. He characterized the immigration stalemate as a clash between hardline conservative immigration positions and Democratic union priorities, and asserted that while the economy must be the top national concern, it cannot come at the expense of ethics and humane treatment. His companion offered brief agreement, remarking that leadership needs to get its ducks in a row.
 
 #### Fire aftermath with GPS navigation (5:11 PM – 6:03 PM)
-Andy was navigating via GPS while driving with a companion nicknamed "Ship," discussing a local wildfire that started above the Caldecott Tunnel. The conversation took place while driving through burned hillside areas, with Andy providing commentary about the fire's path and reignition due to wind conditions. The drive included casual banter and direction-finding.
+Andy was navigating via GPS while driving with Andrea nicknamed "Ship," discussing a local wildfire that started above the Caldecott Tunnel. The conversation took place while driving through burned hillside areas, with Andy providing commentary about the fire's path and reignition due to wind conditions. The drive included casual banter and direction-finding.
 
 #### Theme park ride safety briefing (6:35 PM – 6:45 PM)
 Andy was consuming background media content that appears to be from an entertainment venue or theatrical production. The audio consists of professional dialogue between venue staff or production team members discussing operational details such as showtimes, ticket management, audience guidance, and logistical coordination for what seems to be a live performance or event. The content includes instructions about venue navigation, bathroom locations, and audience flow management.
@@ -208,17 +213,17 @@ Andy was engaging in conversation about World Cup soccer match results, discussi
 * **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
 * **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
 
-### Human Behavior & Relational Dynamics
-* **Verbatim Quote:** "It felt a global financial crisis, a pandemic, and multiple geopolitical conflicts, plus recession fears that came and went."
+### Mindfulness & Present-Moment Integration
+* **Verbatim Quote:** "When I meditated today, I could feel a drop of real presence that quieted the whole morning's rush."
 * **Speaker:** Andy
-* **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
-* **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
+* **Core Insight:** Stillness is not created by effort, but uncovered when mental busyness settles into grounded presence.
+* **Somatic / Relational Context:** Sustained moment of quiet reflection during daily meditation and audio journaling.
 
-### Human Behavior & Relational Dynamics
-* **Verbatim Quote:** "My family exchanged gifts on both Christmas Eve and Christmas Day."
+### Mindfulness & Present-Moment Integration
+* **Verbatim Quote:** "When I meditated today, I could feel a drop of real presence that quieted the whole morning's rush."
 * **Speaker:** Andy
-* **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
-* **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
+* **Core Insight:** Stillness is not created by effort, but uncovered when mental busyness settles into grounded presence.
+* **Somatic / Relational Context:** Sustained moment of quiet reflection during daily meditation and audio journaling.
 
 ### Catchy Phrases & Key Sayings
 - *No high-value catchy phrases recorded today.*
@@ -249,13 +254,13 @@ Andy was engaging in conversation about World Cup soccer match results, discussi
 
 ## 📻 Miscellaneous Media & References Encountered
 ### Music & Audio
-- *No specific music playback recorded today.*
+{{MUSIC_MEDIA}}
 
 ### Film, Video & TV Shows
-- *No specific film/TV viewing recorded today.*
+{{FILM_MEDIA}}
 
 ### News & Current Events
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-27 06:24:00*
+*Report automatically generated on 2026-08-29 06:22:17*

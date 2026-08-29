@@ -1,6 +1,6 @@
 ---
 tag: dharma
-Created: 2023-10-14
+Created: 2024-07-21
 ---
 Hua-yen Buddhism[edit]
 Main article: Huayan school

@@ -1,6 +1,6 @@
 ---
 tag: tenprecepts, ditthi, 62beliefs, dhamma
-Created: 2023-10-14
+Created: 2024-07-21
 ---
 https://en.wikipedia.org/wiki/Brahmaj%C4%81la_Sutta
 

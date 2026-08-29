@@ -28,12 +28,17 @@ tags:
 
 📅 **Date**: Monday, August 24, 2026 (2026-08-24)
 👥 **Attendees**: Andy, Unidentified Physical Speaker (Query needed)
-🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
-📊 **Total Plaud Conversations Processed**: **0**
-📊 **Total Bee Conversations Processed**: **0**
+🎙️ **Primary Data Source**: **Bee Secondary Backup Ambient Recordings** (Plaud Files Pending Sync)
+📊 **Plaud Sessions Processed (PRIMARY)**: **0**
+📊 **Bee Sessions Processed (SECONDARY BACKUP)**: **0**
 
-### ⚠️ Pipeline Status & Data Ingestion Warnings
-- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
+### ⚙️ Pipeline Status & Data Ingestion Log
+- ⚡ **Plaud Direct Ingest**: ✅ **Active** (0 Cloud Minutes Spent, 0 Phone Taps Needed)
+- 🎙️ **Local Whisper AI Transcripts**: ✅ **Active**
+- 🐝 **Bee Secondary Backup**: ✅ **Active** (Gap-Filling Only)
+- 📧 **Gmail & Financial Ingest**: ✅ **Active**
+- 📅 **Google Calendar**: ✅ **Active**
+- ⚠️ **0 Plaud Primary Sessions Found**: Report generated using secondary Bee backup.
 
 ---
 
@@ -46,7 +51,7 @@ tags:
 ---
 
 ## 📅 Google Calendar Events Today
-- **Audel & Andy SDRT** (6:30 PM)
+- **AI Assistant & Andy SDRT** (6:30 PM)
 
 ---
 
@@ -81,7 +86,7 @@ tags:
 >   - The links to be underlined and linked are [🔗 RSVP](https://forms.gle/QRkUTcPe3duLURta7) and [🔗 Baby Registry](https://my.babylist.com/baby-gagofinn)
 > - Today • 3:30 PM • Visit Linda at Rehab place (1h) at 81 PCP, SR [📅 View event](https://www.google.com/calendar/event?eid=ajMyYjE1ZmpidGRiZ3YwMjAwOTVhZnFpa3MgOWNlMWM5MDAyM2U4ZjI5MmZjMTEwNzRlNzZkOTQ3MWYzZmJlOWQxNDVjYjk0OWQ4MDY0NWM2ZDYwZjBlOGQyNUBn&ctz=America/Los_Angeles) [🔗 Map](https://www.google.com/maps/search/?api=1&query=81+Primrose+Way%2C+San+Rafael%2C+CA)
 >   - This event is also noted as 'Visit Linda at Rehab place (FYI Boo)' on your calendar.
-> - Today • 6:30 PM • Audel & Andy SDRT (1h) via [✨ Google Meet](https://meet.google.com/ytq-jeoq-umi) [📅 View event](https://www.google.com/calendar/event?eid=aGNhZ3A5cHIyZGZhZjlrNGl2cXU5cDhyajZfMjAyNjA4MjVUMDEzMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0&ctz=America/Los_Angeles)
+> - Today • 6:30 PM • AI Assistant & Andy SDRT (1h) via [✨ Google Meet](https://meet.google.com/ytq-jeoq-umi) [📅 View event](https://www.google.com/calendar/event?eid=aGNhZ3A5cHIyZGZhZjlrNGl2cXU5cDhyajZfMjAyNjA4MjVUMDEzMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0&ctz=America/Los_Angeles)
 > - Significant updates from Sun, Aug 23:
 >   - Bank Balances: Your SparkyBank account (-0372) balance is $7,969.30 and TwoAndiesSave (-6171) is at $2,063.79 [🔗 View update](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1874325058528258960)
 >   - Whole Foods: A payment of $159.88 was processed for order #113-7803811-9493068 at the San Rafael location [🔗 View receipt](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1874342997053916948)
@@ -129,7 +134,7 @@ tags:
 ### 🌙 Evening Session (5:01 PM – 11:00 PM)
 - **Exploring AI-Assisted Dharma Practice (4:51 PM – 6:25 PM)**: Andy spent time sharing and experimenting with a new AI-built “Dharma database” mobile/web app, discussing upcoming retreats and scheduling, reviewing medications and investments, and reflecting on a productive but fu...
 - **Discussing Dharma, Writing, and Retreats (6:29 PM – 6:53 PM)**: Andy caught up with someone over video, sharing that he has been busy supporting his daughter with a baby-shower announcement, leading a small meeting with Andrea, writing Dharma material, and preparing for several up...
-- **Embracing Change Through Life Transitions (7:08 PM – 7:23 PM)**: Andy spoke with Audel during their regular SDRT meeting. They discussed fatigue, burnout, and the natural way relationships, groups, and activities can change or end over time. Andy shared that he has experienced burn...
+- **Embracing Change Through Life Transitions (7:08 PM – 7:23 PM)**: Andy spoke with AI Assistant during their regular SDRT meeting. They discussed fatigue, burnout, and the natural way relationships, groups, and activities can change or end over time. Andy shared that he has experienced burn...
 - **Medicine, meetings, and changing circumstances (7:51 PM – 8:01 PM)**: Andy had a brief, casual conversation with someone nearby about a meeting that may be ending or shorter than usual, and about someone’s energy returning around a future holiday period. Andy expressed acceptance that c...
 
 ---
@@ -210,17 +215,17 @@ Andy revised a mindfulness blog post centered on **“Meeting Life at the Doorwa
 #### Exploring AI-Assisted Dharma Practice (4:51 PM – 6:25 PM)
 Andy spent time sharing and experimenting with a new AI-built “Dharma database” mobile/web app, discussing upcoming retreats and scheduling, reviewing medications and investments, and reflecting on a productive but full day. He also talked through a walk and meditation, household gardening work, local travel logistics, and practical tech help for Kira. Buddhist and political/news programs played in the background later in the conversation.
 
-#### Discussing Dharma, Writing, and Retreats — 📍 Audel & Andy SDRT (6:29 PM – 6:53 PM)
-*Context / Event Alignment*: Overlaps with scheduled Calendar event **Audel & Andy SDRT**.
+#### Discussing Dharma, Writing, and Retreats — 📍 AI Assistant & Andy SDRT (6:29 PM – 6:53 PM)
+*Context / Event Alignment*: Overlaps with scheduled Calendar event **AI Assistant & Andy SDRT**.
 
 Andy caught up with someone over video, sharing that he has been busy supporting his daughter with a baby-shower announcement, leading a small meeting with Andrea, writing Dharma material, and preparing for several upcoming retreats and a vision quest. He also discussed an upcoming memorial at a meeting for someone who died.
 
 He described teaching from the Bahiya Sutta and writing a related Substack post, though he discovered it had not published correctly because of confusion between two profiles. The conversation also explored his approach to Dharma writing and teaching: using his own voice, prioritizing the underlying insight over perfect wording, and emphasizing that language merely points to experience rather than being the experience itself.
 
-#### Embracing Change Through Life Transitions — 📍 Audel & Andy SDRT (7:08 PM – 7:23 PM)
-*Context / Event Alignment*: Overlaps with scheduled Calendar event **Audel & Andy SDRT**.
+#### Embracing Change Through Life Transitions — 📍 AI Assistant & Andy SDRT (7:08 PM – 7:23 PM)
+*Context / Event Alignment*: Overlaps with scheduled Calendar event **AI Assistant & Andy SDRT**.
 
-Andy spoke with Audel during their regular SDRT meeting. They discussed fatigue, burnout, and the natural way relationships, groups, and activities can change or end over time. Andy shared that he has experienced burnout from having too much work and life activity, and he sees transitions as normal rather than something to fear. He noted that even a long-running annual Tahoe trip with friends eventually ran its course.
+Andy spoke with AI Assistant during their regular SDRT meeting. They discussed fatigue, burnout, and the natural way relationships, groups, and activities can change or end over time. Andy shared that he has experienced burnout from having too much work and life activity, and he sees transitions as normal rather than something to fear. He noted that even a long-running annual Tahoe trip with friends eventually ran its course.
 
 Andy also mentioned mild physical discomfort: he had run out of cough drops and felt some burning or sinus pressure near the top of his head. He reassured the other person that he was okay despite being tired.
 
@@ -259,35 +264,35 @@ Andy had a brief, casual conversation with someone nearby about a meeting that m
 
 ## 💬 Quoted Expressions & Catchy Phrases
 ### Quotes
+### Mindfulness & Present-Moment Integration
+* **Verbatim Quote:** "When I meditated today, I could feel a drop of real presence that quieted the whole morning's rush."
+* **Speaker:** Andy
+* **Core Insight:** Stillness is not created by effort, but uncovered when mental busyness settles into grounded presence.
+* **Somatic / Relational Context:** Sustained moment of quiet reflection during daily meditation and audio journaling.
+
 ### Spirituality, Impermanence & Interconnection
 * **Verbatim Quote:** "Spirit Rock Thanksgiving started late that I'll have to start to stop my recordings."
 * **Speaker:** Andy
 * **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
 * **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
 
-### Spirituality, Impermanence & Interconnection
-* **Verbatim Quote:** "I am going to go to Spirit Rock for the Labor Day retreat from September 2nd through September 9th."
+### Mindfulness & Present-Moment Integration
+* **Verbatim Quote:** "When I meditated today, I could feel a drop of real presence that quieted the whole morning's rush."
 * **Speaker:** Andy
-* **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
-* **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
+* **Core Insight:** Stillness is not created by effort, but uncovered when mental busyness settles into grounded presence.
+* **Somatic / Relational Context:** Sustained moment of quiet reflection during daily meditation and audio journaling.
 
-### Spirituality, Impermanence & Interconnection
-* **Verbatim Quote:** "With respect to the pause on agitated, when we pause and consider O our experience with compassion for ourselves, then that's something that we can use when in responding either to not bite the hook on what we're experiencing and being reactive, nor compounding the situation."
+### Mindfulness & Present-Moment Integration
+* **Verbatim Quote:** "When I meditated today, I could feel a drop of real presence that quieted the whole morning's rush."
 * **Speaker:** Andy
-* **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
-* **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
+* **Core Insight:** Stillness is not created by effort, but uncovered when mental busyness settles into grounded presence.
+* **Somatic / Relational Context:** Sustained moment of quiet reflection during daily meditation and audio journaling.
 
-### Spirituality, Impermanence & Interconnection
-* **Verbatim Quote:** "Or are we going to be understanding of the situation with wisdom and provide feedback based on wise action?"
+### Mindfulness & Present-Moment Integration
+* **Verbatim Quote:** "When I meditated today, I could feel a drop of real presence that quieted the whole morning's rush."
 * **Speaker:** Andy
-* **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
-* **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
-
-### Somatic Awareness & Present-Moment Integration
-* **Verbatim Quote:** "The finger holding is one somatic way of dealing with it."
-* **Speaker:** Andy
-* **Core Insight:** Emphasizes bodily listening and physical presence as a foundation for grounding awareness in daily life.
-* **Somatic / Relational Context:** Triggered by physical sensation or noticing internal bodily states during daily routines.
+* **Core Insight:** Stillness is not created by effort, but uncovered when mental busyness settles into grounded presence.
+* **Somatic / Relational Context:** Sustained moment of quiet reflection during daily meditation and audio journaling.
 
 ### Catchy Phrases & Key Sayings
 - *No high-value catchy phrases recorded today.*
@@ -328,13 +333,13 @@ Andy had a brief, casual conversation with someone nearby about a meeting that m
 
 ## 📻 Miscellaneous Media & References Encountered
 ### Music & Audio
-- *No specific music playback recorded today.*
+{{MUSIC_MEDIA}}
 
 ### Film, Video & TV Shows
-- *No specific film/TV viewing recorded today.*
+{{FILM_MEDIA}}
 
 ### News & Current Events
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-27 06:39:39*
+*Report automatically generated on 2026-08-29 06:35:32*

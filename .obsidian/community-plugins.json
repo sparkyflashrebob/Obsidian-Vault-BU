@@ -32,5 +32,6 @@
   "obsidian-markdown-export-plugin",
   "glasp",
   "obsidian-git",
-  "hearth"
+  "hearth",
+  "obsidian-linter"
 ]

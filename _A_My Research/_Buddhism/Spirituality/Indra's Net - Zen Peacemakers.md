@@ -1,6 +1,6 @@
 ---
 tag: indra'snet, connection, reflection, dharma
-Created: 2023-10-14
+Created: 2024-07-21
 ---
 Indra was an ancient king of India who thought a great deal of himself. One day he went to the royal architect and said that he wanted to leave a monument of himself, something which all people would appreciate. The king’s architect created <u>an immense net which extended throughout all space and time</u>. And the king’s treasurer placed a <u>bright, shining pearl at each node of the net so that every pearl was reflected in every other pearl.</u> And each single pearl, each person, each event, contains the whole of Indra’s Net, including all of space and time.
 

@@ -3,7 +3,7 @@ tag: mindfulness
 ---
 
 The Foundations of Mindfulness
-	[[_My Research/Dharma Subjects and Themes/Suttas/Majjhima Nikaya/The Direct Path]]
+	[[_unsorted from computer/Ebooks/Unknown/attitude (798)/Dharma Subjects and Themes/Suttas/Majjhima Nikaya/The Direct Path]]
 	purification of beings
 	surmounting of sorrow and lamintation
 	disappearance of pain and grief
@@ -17,7 +17,7 @@ Body, Feelings, Mind, Mind-Objects
 	mindful
 	putting away covetousness and grief for the world
 
-# [[Unsorted Notes/Mindfulness of the Body]]
+# [[_A_My Research/_Buddhism/Mindfulness/Mindfulness of the Body/Mindfulness of the body]]
 
 ## [[_My Research/Dharma Subjects and Themes/Mindfulness 1/Mindfulness of Breathing/Mindfulness of Breathing]]
 	Gone to the forest or the root of a tree or an empty hut
@@ -68,7 +68,7 @@ fire element
 water element
 Skilled butcher has killed a cow and cut it up to pieces
 
-## [[_A_My Research/Dharma Subjects and Themes/Mindfulness/Mindfulness of the Body/Nine Charnel Ground Contemplations]]
+## [[_A_My Research/_Buddhism/_Dharma Subjects and Themes/Mindfulness 1/Mindfulness of the Body/Nine Charnel Ground Contemplations]]
 Corspe thrown aside in a charnel ground
 	one, two, three days dead, bloated, livid, oozing matter
 		"This body too is of the same nature, it will be like that, it is not exempt from that fate"
@@ -76,7 +76,7 @@ Corspe thrown aside in a charnel ground
 	2 skeleton with flesh and blood (no skin), 3 fleshless skeleton 	4 without flesh and blood 5 disconnectee bones
  ##clarify charnel contemplations##
 
-# [[_A_My Research/Dharma Subjects and Themes/Mindfulness/Mindfulness of Feeling/Mindfulness of Feeling]]
+# [[_A_My Research/_Buddhism/_Dharma Subjects and Themes/Mindfulness 1/Mindfulness of Feeling/Mindfulness of Feeling]]
 Pleasant
 Unpleasant
 Neigther Pleasant-nor-Unpleasant

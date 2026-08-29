@@ -1,4 +1,4 @@
--   [[_A_My Research/Dharma Subjects and Themes/Tibetian/7 Point Mind Training]][The Seven Points of Training the Mind - Lions Roar](https://www.lionsroar.com/the-seven-points-of-training-the-mind/)
+-   [[_A_My Research/_Buddhism/Tibetian/7 Point Mind Training]][The Seven Points of Training the Mind - Lions Roar](https://www.lionsroar.com/the-seven-points-of-training-the-mind/)
     -   - Point One: The Preliminaries
         -   First, train in the preliminaries
     -   - Point Two: Absolute & Relative Bodhicitta

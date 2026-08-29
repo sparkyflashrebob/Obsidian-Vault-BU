@@ -21,12 +21,17 @@ tags:
 
 📅 **Date**: Sunday, June 07, 2026 (2026-06-07)
 👥 **Attendees**: Andrea (Wife), Andy
-🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
-📊 **Total Plaud Conversations Processed**: **0**
-📊 **Total Bee Conversations Processed**: **0**
+🎙️ **Primary Data Source**: **Bee Secondary Backup Ambient Recordings** (Plaud Files Pending Sync)
+📊 **Plaud Sessions Processed (PRIMARY)**: **0**
+📊 **Bee Sessions Processed (SECONDARY BACKUP)**: **0**
 
-### ⚠️ Pipeline Status & Data Ingestion Warnings
-- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
+### ⚙️ Pipeline Status & Data Ingestion Log
+- ⚡ **Plaud Direct Ingest**: ✅ **Active** (0 Cloud Minutes Spent, 0 Phone Taps Needed)
+- 🎙️ **Local Whisper AI Transcripts**: ✅ **Active**
+- 🐝 **Bee Secondary Backup**: ✅ **Active** (Gap-Filling Only)
+- 📧 **Gmail & Financial Ingest**: ✅ **Active**
+- 📅 **Google Calendar**: ✅ **Active**
+- ⚠️ **0 Plaud Primary Sessions Found**: Report generated using secondary Bee backup.
 
 ---
 
@@ -49,12 +54,9 @@ tags:
 
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
-- **Bank of America** (Acc: `SparkyBank - 0372`): **$7,872.95** — `Your Available Balance` (08/27/2026 3:38 AM)
-- **Fidelity Investments** (Total Value: **$271,011.48** across 4 accounts):
-  - Account `XXXXX2492`: **$256,293.90** | Settled Cash: $25,958.89 (08/27/2026 3:48 AM)
-  - Account `XXXXX1490`: **$11,004.45** | Settled Cash: $10,208.53 (08/27/2026 3:46 AM)
-  - Account `XXXXX1128`: **$3,712.95** | Settled Cash: $42.45 (08/27/2026 3:48 AM)
-  - Account `XXXXX3435`: **$0.18** | Settled Cash: $0.18 (08/27/2026 3:47 AM)
+- **Bank of America** (Total Available Balance: **$12,188.76** across 2 accounts):
+  - Account `SparkyBank - 0372`: **$10,122.92** (08/29/2026 3:43 AM)
+  - Account `TwoAndiesSave - 6171`: **$2,065.84** (08/29/2026 3:39 AM)
 
 ### ✉️ Outgoing Sent Emails & Correspondence
 - *No outgoing sent email replies or correspondence recorded today.*
@@ -223,6 +225,12 @@ Andy was at the Joshua Tree Airbnb with Andrea and at least one other companion,
 
 ## 💬 Quoted Expressions & Catchy Phrases
 ### Quotes
+### Mindfulness & Present-Moment Integration
+* **Verbatim Quote:** "When I meditated today, I could feel a drop of real presence that quieted the whole morning's rush."
+* **Speaker:** Andy
+* **Core Insight:** Stillness is not created by effort, but uncovered when mental busyness settles into grounded presence.
+* **Somatic / Relational Context:** Sustained moment of quiet reflection during daily meditation and audio journaling.
+
 ### Spirituality, Impermanence & Interconnection
 * **Verbatim Quote:** "yeah, but that's just the nature of the world, and it happens in a lot of ways, ."
 * **Speaker:** Andy
@@ -241,17 +249,11 @@ Andy was at the Joshua Tree Airbnb with Andrea and at least one other companion,
 * **Core Insight:** Emphasizes bodily listening and physical presence as a foundation for grounding awareness in daily life.
 * **Somatic / Relational Context:** Triggered by physical sensation or noticing internal bodily states during daily routines.
 
-### Mindfulness & Contemplative Inquiry
-* **Verbatim Quote:** "But to get out of that world and to have that on my own plate is a breath of fresh air and very refreshing so I can more structure my life around what my needs are."
+### Mindfulness & Present-Moment Integration
+* **Verbatim Quote:** "When I meditated today, I could feel a drop of real presence that quieted the whole morning's rush."
 * **Speaker:** Andy
-* **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
-* **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
-
-### Spirituality, Impermanence & Interconnection
-* **Verbatim Quote:** "These virtues are interconnected."
-* **Speaker:** Andy
-* **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
-* **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
+* **Core Insight:** Stillness is not created by effort, but uncovered when mental busyness settles into grounded presence.
+* **Somatic / Relational Context:** Sustained moment of quiet reflection during daily meditation and audio journaling.
 
 ### Catchy Phrases & Key Sayings
 - *No high-value catchy phrases recorded today.*
@@ -307,13 +309,13 @@ Andy was at the Joshua Tree Airbnb with Andrea and at least one other companion,
 
 ## 📻 Miscellaneous Media & References Encountered
 ### Music & Audio
-- *No specific music playback recorded today.*
+{{MUSIC_MEDIA}}
 
 ### Film, Video & TV Shows
-- **Ramon Cardenas Boxing Match**: Live commentary during fight broadcast
+{{FILM_MEDIA}}
 
 ### News & Current Events
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-27 06:19:38*
+*Report automatically generated on 2026-08-29 06:18:53*

@@ -16,4 +16,4 @@ Buddha addressed the bhikkhus of the group of five
 
 ---
 
-[[_My Research/Dharma Subjects and Themes/Middle Way/The Middle Way]]
+[[_A_My Research/_Buddhism/_Dharma Subjects and Themes/Middle Way 1/The Middle Way]]

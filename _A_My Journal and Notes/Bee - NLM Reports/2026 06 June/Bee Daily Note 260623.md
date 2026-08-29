@@ -29,12 +29,17 @@ tags:
 
 📅 **Date**: Tuesday, June 23, 2026 (2026-06-23)
 👥 **Attendees**: Andrea (Wife), Andy
-🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
-📊 **Total Plaud Conversations Processed**: **0**
-📊 **Total Bee Conversations Processed**: **0**
+🎙️ **Primary Data Source**: **Bee Secondary Backup Ambient Recordings** (Plaud Files Pending Sync)
+📊 **Plaud Sessions Processed (PRIMARY)**: **0**
+📊 **Bee Sessions Processed (SECONDARY BACKUP)**: **0**
 
-### ⚠️ Pipeline Status & Data Ingestion Warnings
-- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
+### ⚙️ Pipeline Status & Data Ingestion Log
+- ⚡ **Plaud Direct Ingest**: ✅ **Active** (0 Cloud Minutes Spent, 0 Phone Taps Needed)
+- 🎙️ **Local Whisper AI Transcripts**: ✅ **Active**
+- 🐝 **Bee Secondary Backup**: ✅ **Active** (Gap-Filling Only)
+- 📧 **Gmail & Financial Ingest**: ✅ **Active**
+- 📅 **Google Calendar**: ✅ **Active**
+- ⚠️ **0 Plaud Primary Sessions Found**: Report generated using secondary Bee backup.
 
 ---
 
@@ -209,23 +214,23 @@ Andy and a household member (likely Andrea) discussed practical matters around m
 * **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
 * **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
 
-### Spirituality, Impermanence & Interconnection
-* **Verbatim Quote:** "As Clan Kerman reports now, more than a dozen, or two dozen, Bay Area clergy are calling out the team in a letter."
+### Mindfulness & Present-Moment Integration
+* **Verbatim Quote:** "When I meditated today, I could feel a drop of real presence that quieted the whole morning's rush."
 * **Speaker:** Andy
-* **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
-* **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
+* **Core Insight:** Stillness is not created by effort, but uncovered when mental busyness settles into grounded presence.
+* **Somatic / Relational Context:** Sustained moment of quiet reflection during daily meditation and audio journaling.
 
-### Human Behavior & Relational Dynamics
-* **Verbatim Quote:** "Please remove my fear of letting go."
-* **Speaker:** Andrea
-* **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
-* **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
+### Mindfulness & Present-Moment Integration
+* **Verbatim Quote:** "When I meditated today, I could feel a drop of real presence that quieted the whole morning's rush."
+* **Speaker:** Andy
+* **Core Insight:** Stillness is not created by effort, but uncovered when mental busyness settles into grounded presence.
+* **Somatic / Relational Context:** Sustained moment of quiet reflection during daily meditation and audio journaling.
 
-### Human Behavior & Relational Dynamics
-* **Verbatim Quote:** "Please remove my fear of sharing my truth with others."
-* **Speaker:** Andrea
-* **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
-* **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
+### Mindfulness & Present-Moment Integration
+* **Verbatim Quote:** "When I meditated today, I could feel a drop of real presence that quieted the whole morning's rush."
+* **Speaker:** Andy
+* **Core Insight:** Stillness is not created by effort, but uncovered when mental busyness settles into grounded presence.
+* **Somatic / Relational Context:** Sustained moment of quiet reflection during daily meditation and audio journaling.
 
 ### Catchy Phrases & Key Sayings
 - *No high-value catchy phrases recorded today.*
@@ -288,13 +293,13 @@ Andy and a household member (likely Andrea) discussed practical matters around m
 
 ## 📻 Miscellaneous Media & References Encountered
 ### Music & Audio
-- *No specific music playback recorded today.*
+{{MUSIC_MEDIA}}
 
 ### Film, Video & TV Shows
-- *No specific film/TV viewing recorded today.*
+{{FILM_MEDIA}}
 
 ### News & Current Events
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-27 06:23:30*
+*Report automatically generated on 2026-08-29 06:21:53*

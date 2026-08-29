@@ -1,6 +1,9 @@
 ---
-tag: jhana, thornstojhana, sound, mentalactivity, breathing, concentration, tranquility, dharma
-Created: 2023-10-14
+tag: jhana, thornstojhana, sound, mentalactivity, breathing, concentration, tranquility,
+  dharma
+tags:
+- hindrances
+Created: 2024-07-21
 ---
 Quite Secluded
 Absence of hindrances

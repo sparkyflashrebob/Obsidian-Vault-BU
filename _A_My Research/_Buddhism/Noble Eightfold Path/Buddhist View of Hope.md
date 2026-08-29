@@ -2,7 +2,7 @@
 Author: Oren Jay Sofer and others
 Website: https://www.lionsroar.com/ask-the-teachers-what-is-the-buddhist-view-of-hope/
 tag: hope, dharma
-Created: 2023-10-14
+Created: 2024-07-21
 ---
 The Buddha's teachings are fundamentally hopeful
 

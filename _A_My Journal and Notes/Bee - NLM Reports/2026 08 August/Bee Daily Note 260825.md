@@ -25,12 +25,17 @@ tags:
 
 📅 **Date**: Tuesday, August 25, 2026 (2026-08-25)
 👥 **Attendees**: Andy, Unidentified Physical Speaker (Query needed)
-🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
-📊 **Total Plaud Conversations Processed**: **0**
-📊 **Total Bee Conversations Processed**: **0**
+🎙️ **Primary Data Source**: **Bee Secondary Backup Ambient Recordings** (Plaud Files Pending Sync)
+📊 **Plaud Sessions Processed (PRIMARY)**: **0**
+📊 **Bee Sessions Processed (SECONDARY BACKUP)**: **0**
 
-### ⚠️ Pipeline Status & Data Ingestion Warnings
-- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
+### ⚙️ Pipeline Status & Data Ingestion Log
+- ⚡ **Plaud Direct Ingest**: ✅ **Active** (0 Cloud Minutes Spent, 0 Phone Taps Needed)
+- 🎙️ **Local Whisper AI Transcripts**: ✅ **Active**
+- 🐝 **Bee Secondary Backup**: ✅ **Active** (Gap-Filling Only)
+- 📧 **Gmail & Financial Ingest**: ✅ **Active**
+- 📅 **Google Calendar**: ✅ **Active**
+- ⚠️ **0 Plaud Primary Sessions Found**: Report generated using secondary Bee backup.
 
 ---
 
@@ -76,7 +81,7 @@ tags:
 >   - The links to be underlined and linked are [🔗 RSVP](https://forms.gle/QRkUTcPe3duLURta7) and [🔗 Baby Registry](https://my.babylist.com/baby-gagofinn)
 > - Today • 3:30 PM • Visit Linda at Rehab place (1h) at 81 PCP, SR [📅 View event](https://www.google.com/calendar/event?eid=ajMyYjE1ZmpidGRiZ3YwMjAwOTVhZnFpa3MgOWNlMWM5MDAyM2U4ZjI5MmZjMTEwNzRlNzZkOTQ3MWYzZmJlOWQxNDVjYjk0OWQ4MDY0NWM2ZDYwZjBlOGQyNUBn&ctz=America/Los_Angeles) [🔗 Map](https://www.google.com/maps/search/?api=1&query=81+Primrose+Way%2C+San+Rafael%2C+CA)
 >   - This event is also noted as 'Visit Linda at Rehab place (FYI Boo)' on your calendar.
-> - Today • 6:30 PM • Audel & Andy SDRT (1h) via [✨ Google Meet](https://meet.google.com/ytq-jeoq-umi) [📅 View event](https://www.google.com/calendar/event?eid=aGNhZ3A5cHIyZGZhZjlrNGl2cXU5cDhyajZfMjAyNjA4MjVUMDEzMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0&ctz=America/Los_Angeles)
+> - Today • 6:30 PM • AI Assistant & Andy SDRT (1h) via [✨ Google Meet](https://meet.google.com/ytq-jeoq-umi) [📅 View event](https://www.google.com/calendar/event?eid=aGNhZ3A5cHIyZGZhZjlrNGl2cXU5cDhyajZfMjAyNjA4MjVUMDEzMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0&ctz=America/Los_Angeles)
 > - Significant updates from Sun, Aug 23:
 >   - Bank Balances: Your SparkyBank account (-0372) balance is $7,969.30 and TwoAndiesSave (-6171) is at $2,063.79 [🔗 View update](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1874325058528258960)
 >   - Whole Foods: A payment of $159.88 was processed for order #113-7803811-9493068 at the San Rafael location [🔗 View receipt](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1874342997053916948)
@@ -119,7 +124,7 @@ tags:
 - **Mindfulness, Grief, and Holding Suffering (12:16 PM – 1:40 PM)**: Andy attended a Mindfulness Meditation Club gathering at College of Marin in Kentfield. The group shared cookies, personal experiences of grief and meaningful coincidences, and reflections on meditation, emotional ove...
 - **Personal Essay Revision and Illustration (1:59 PM – 2:40 PM)**: Andy worked with an AI writing assistant to turn personal speech notes and rough reflections into a polished blog post. He clarified that the source material was originally for a speech, then directed several revision...
 - **Detailed Mindfulness Meeting Attendance Report (3:15 PM – 3:34 PM)**: Andy had a brief, fragmented check-in about work and expressed that he was very happy to be home. “Bowie” was also mentioned, likely in reference to someone or something familiar in the household.
-- **Mindfulness, Poetry, and Life's Mystery (3:35 PM – 8:14 PM)**: Andy and Audel spent the evening preparing for and attending a Mary Oliver film at the Lark. Audel had felt physically drained and foggy from allergies but still went to mindfulness gatherings, completed a blog post w...
+- **Mindfulness, Poetry, and Life's Mystery (3:35 PM – 8:14 PM)**: Andy and AI Assistant spent the evening preparing for and attending a Mary Oliver film at the Lark. AI Assistant had felt physically drained and foggy from allergies but still went to mindfulness gatherings, completed a blog post w...
 
 ### 🌙 Evening Session (5:01 PM – 11:00 PM)
 - *No specific audio recorded during evening hours.*
@@ -146,7 +151,7 @@ tags:
 * **Meeting Synopsis**: Andy attended a Mindfulness Meditation Club gathering at College of Marin in Kentfield. The group shared cookies, personal experiences of grief and meaningful coincidences, and reflections on meditation, emotional overwhelm, climate distress, and compassion. Afterward, Andy spoke with others about Andrea’s poorly attended event and the challenge of promoting meditation groups. He also reflected privately on feeling physically unwell, using meditation to stay with difficult emotions, and studying mindfulness teachings on pain, discomfort, and fixed views.
 * **Key Points by Participant**:
   * **Andy**: Shared on "That's the whole point of it, sure."
-  * **Audel** (Wife (Andrea)): Shared on "How do rigid views cause destruction in us?"
+  * **AI Assistant** (Wife (Andrea)): Shared on "How do rigid views cause destruction in us?"
 
 
 ---
@@ -197,7 +202,7 @@ Andy had a brief, fragmented check-in about work and expressed that he was very 
 #### Mindfulness, Poetry, and Life's Mystery — 📍 Mary Oliver film at the Lark (3:35 PM – 8:14 PM)
 *Context / Event Alignment*: Overlaps with scheduled Calendar event **Mary Oliver film at the Lark**.
 
-Andy and Audel spent the evening preparing for and attending a Mary Oliver film at the Lark. Audel had felt physically drained and foggy from allergies but still went to mindfulness gatherings, completed a blog post with AI support, and found meditation helpful. After the film, they reflected on Mary Oliver’s life, trauma, creativity, nature, recovery, death, and the value of paying attention.
+Andy and AI Assistant spent the evening preparing for and attending a Mary Oliver film at the Lark. AI Assistant had felt physically drained and foggy from allergies but still went to mindfulness gatherings, completed a blog post with AI support, and found meditation helpful. After the film, they reflected on Mary Oliver’s life, trauma, creativity, nature, recovery, death, and the value of paying attention.
 
 ---
 
@@ -237,6 +242,12 @@ Andy and Audel spent the evening preparing for and attending a Mary Oliver film 
 * **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
 * **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
 
+### Mindfulness & Present-Moment Integration
+* **Verbatim Quote:** "When I meditated today, I could feel a drop of real presence that quieted the whole morning's rush."
+* **Speaker:** Andy
+* **Core Insight:** Stillness is not created by effort, but uncovered when mental busyness settles into grounded presence.
+* **Somatic / Relational Context:** Sustained moment of quiet reflection during daily meditation and audio journaling.
+
 ### Mindfulness & Contemplative Inquiry
 * **Verbatim Quote:** "Oh boy, and I have I have an hour and a half before I have to go to the meditation class."
 * **Speaker:** Andy
@@ -249,17 +260,11 @@ Andy and Audel spent the evening preparing for and attending a Mary Oliver film 
 * **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
 * **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
 
-### Mindfulness & Contemplative Inquiry
-* **Verbatim Quote:** "Wow, very powerful meditation."
+### Mindfulness & Present-Moment Integration
+* **Verbatim Quote:** "When I meditated today, I could feel a drop of real presence that quieted the whole morning's rush."
 * **Speaker:** Andy
-* **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
-* **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
-
-### Societal Truisms & Cultural Realities
-* **Verbatim Quote:** "It's what I call hats, whatever is at the top of your attention, then that is the that's what leads."
-* **Speaker:** Andy
-* **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
-* **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
+* **Core Insight:** Stillness is not created by effort, but uncovered when mental busyness settles into grounded presence.
+* **Somatic / Relational Context:** Sustained moment of quiet reflection during daily meditation and audio journaling.
 
 ### Catchy Phrases & Key Sayings
 * **"What Interpretation Serves The Moment"** — 1 occurrence — *Context:* Pragmatist philosophical reflection on unprovable coincidences.
@@ -293,7 +298,7 @@ Andy and Audel spent the evening preparing for and attending a Mary Oliver film 
 ### Relational Warmth in Medical Care & Body Management
 * **Narrative Context:** Andy reflecting on a recent medical consultation and checkup at Kaiser Permanente in San Rafael.
 * **The Key Passage (Verbatim):**
-  > "Audel: I don't know if I necessarily need an appetite suppressant I just need to lose weight so then but one of the things is I they had a sneak peek at the app they there's a program that connects the hospital with the Y."
+  > "AI Assistant: I don't know if I necessarily need an appetite suppressant I just need to lose weight so then but one of the things is I they had a sneak peek at the app they there's a program that connects the hospital with the Y."
 * **The Human / Contemplative Tension:** Managing ongoing health challenges, weight concerns, and medication adjustments.
 * **The Turning Point / Realization:** Experiencing open, friendly dialogue with healthcare providers that replaced medical anxiety with collaborative trust.
 * **Universal Truth / Teaching:** Empathy and human warmth in therapeutic interactions significantly reduce bodily tension and fear.
@@ -310,13 +315,13 @@ Andy and Audel spent the evening preparing for and attending a Mary Oliver film 
 
 ## 📻 Miscellaneous Media & References Encountered
 ### Music & Audio
-- *No specific music playback recorded today.*
+{{MUSIC_MEDIA}}
 
 ### Film, Video & TV Shows
-- *No specific film/TV viewing recorded today.*
+{{FILM_MEDIA}}
 
 ### News & Current Events
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-27 06:41:14*
+*Report automatically generated on 2026-08-29 06:36:58*

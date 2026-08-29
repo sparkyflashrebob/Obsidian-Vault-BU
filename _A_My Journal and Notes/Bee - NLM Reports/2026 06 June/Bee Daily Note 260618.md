@@ -25,12 +25,17 @@ tags:
 
 📅 **Date**: Thursday, June 18, 2026 (2026-06-18)
 👥 **Attendees**: Andrea (Wife), Andy, Holly (Keith's Wife (Andrea's Mother through 2nd Marriage)), Keith (Andrea's Father (Paternal Parent))
-🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
-📊 **Total Plaud Conversations Processed**: **0**
-📊 **Total Bee Conversations Processed**: **0**
+🎙️ **Primary Data Source**: **Bee Secondary Backup Ambient Recordings** (Plaud Files Pending Sync)
+📊 **Plaud Sessions Processed (PRIMARY)**: **0**
+📊 **Bee Sessions Processed (SECONDARY BACKUP)**: **0**
 
-### ⚠️ Pipeline Status & Data Ingestion Warnings
-- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
+### ⚙️ Pipeline Status & Data Ingestion Log
+- ⚡ **Plaud Direct Ingest**: ✅ **Active** (0 Cloud Minutes Spent, 0 Phone Taps Needed)
+- 🎙️ **Local Whisper AI Transcripts**: ✅ **Active**
+- 🐝 **Bee Secondary Backup**: ✅ **Active** (Gap-Filling Only)
+- 📧 **Gmail & Financial Ingest**: ✅ **Active**
+- 📅 **Google Calendar**: ✅ **Active**
+- ⚠️ **0 Plaud Primary Sessions Found**: Report generated using secondary Bee backup.
 
 ---
 
@@ -68,15 +73,15 @@ tags:
 - **Planning move and daily routines (6:40 AM – 7:27 AM)**: Andy and his partner Andrea discussed their upcoming morning plans while navigating a busy schedule that includes a trip to see Andy's parents, a car wash, and breakfast. They worked through timing logistics for leavi...
 - **Discussing apartment hunting and finances (7:40 AM – 8:02 AM)**: Andy and his partner Andrea discussed a rental property in Petaluma priced at $1,350 (later clarified as $2,750-$2,850 for two similar units), a two-bedroom, one-bathroom place located near SMART train tracks. They co...
 - **Organizing and labeling rooms (8:13 AM – 8:28 AM)**: Andy was coordinating moving and organizing tasks with someone (likely Andrea or a household member). They discussed labeling boxes for different areas of the home—specifically a "living room shrine," multiple living ...
-- **Moving to new apartment together (8:30 AM – 9:20 AM)**: Andy was at a diner or restaurant with a companion (likely Andrea), ordering breakfast items including a pancake special, regular coffee, and a cocoa meal. The conversation spanned multiple topics: they discussed rece...
+- **Moving to new apartment together (8:30 AM – 9:20 AM)**: Andy was at a diner or restaurant with Andrea (likely Andrea), ordering breakfast items including a pancake special, regular coffee, and a cocoa meal. The conversation spanned multiple topics: they discussed rece...
 - **Receipt app and parking directions (9:21 AM – 9:46 AM)**: Andy was in a car with at least one companion, likely Andrea or someone close, running errands or traveling somewhere that would take about 40 minutes. They discussed using a Google Drive folder called "Stack" for org...
-- **Exploring Sonoma town together (10:19 AM – 10:34 AM)**: Andy drove through downtown Sonoma with a companion (likely Andrea) to explore the area as part of their ongoing house-hunting efforts. They navigated through Sonoma Plaza, the historic mission district, and central t...
+- **Exploring Sonoma town together (10:19 AM – 10:34 AM)**: Andy drove through downtown Sonoma with Andrea (likely Andrea) to explore the area as part of their ongoing house-hunting efforts. They navigated through Sonoma Plaza, the historic mission district, and central t...
 - **House hunting with Cynthia (10:39 AM – 11:39 AM)**: Andy and Andrea toured a rental property at 783 Verano Avenue in Sonoma with the landlord, following a drive through the area where they initially got a bit lost navigating around Broadway, Fifth Street, and Verona Av...
 
 ### ☀️ Afternoon Session (12:01 PM – 5:00 PM)
 - **Searching for new home together (12:06 PM – 12:35 PM)**: Andy and Andrea discussed their ongoing housing search, reviewing rental options and debating trade-offs between apartments and houses in the North Bay area. They walked through several properties they had viewed, inc...
 - **Searching for new home (12:44 PM – 1:23 PM)**: Andy and his partner Andrea spent time together researching rental properties and planning their upcoming move, while also coordinating timing for a meeting with someone named Holly. They discussed packing strategies,...
-- **Discussing class participation concerns (1:27 PM – 1:35 PM)**: Andy had a conversation with a companion (likely Andrea or a close friend) about a teacher or instructor they both know. They discussed this person's tendency to talk a lot during sessions, with Andy's companion notin...
+- **Discussing class participation concerns (1:27 PM – 1:35 PM)**: Andy had a conversation with Andrea (likely Andrea or a close friend) about a teacher or instructor they both know. They discussed this person's tendency to talk a lot during sessions, with Andy's companion notin...
 - **Helping with tech and photos (1:43 PM – 2:20 PM)**: Andy was in a social setting with others, likely at home or a casual gathering, with ambient TV/radio playing in the background. He actively helped someone troubleshoot WiFi connectivity issues on their phone, advisin...
 - **Weight loss and furniture discussion (2:22 PM – 2:34 PM)**: Andy had a brief moment of speech while ambient media played in his environment. The background audio included what appeared to be an alternative medicine or biohacking podcast discussing energy systems (TFH, Tream, Q...
 
@@ -124,7 +129,7 @@ Andy and his partner Andrea discussed a rental property in Petaluma priced at $1
 Andy was coordinating moving and organizing tasks with someone (likely Andrea or a household member). They discussed labeling boxes for different areas of the home—specifically a "living room shrine," multiple living room and office bookcases—and strategizing how to transport items efficiently. Andy planned to borrow a dolly from Leonard (after momentarily confusing the name with "Oscar") to make the move easier. They also discussed handling clothes, with Andy mentioning he had boxes already stored upstairs that he needed to retrieve. The conversation had a practical, task-oriented focus with some light frustration and self-deprecating moments as Andy worked through the logistics.
 
 #### Moving to new apartment together (8:30 AM – 9:20 AM)
-Andy was at a diner or restaurant with a companion (likely Andrea), ordering breakfast items including a pancake special, regular coffee, and a cocoa meal. The conversation spanned multiple topics: they discussed recent car/insurance matters that appear resolved ("got our license plate and everything"), met someone new in a workplace or social context ("new guy pleased to meet you"), and had extensive back-and-forth about upcoming moving logistics. The move is planned within the next month and a half, with detailed discussions about room arrangements, closet space, storage solutions, and concerns about their cars and parking distance. Andy mentioned his former gym routine near the "main drag" and expressed interest in a gym location near their potential new place. There was also discussion about being good tenants and some financial matter involving "half a million dollars" in savings or value.
+Andy was at a diner or restaurant with Andrea (likely Andrea), ordering breakfast items including a pancake special, regular coffee, and a cocoa meal. The conversation spanned multiple topics: they discussed recent car/insurance matters that appear resolved ("got our license plate and everything"), met someone new in a workplace or social context ("new guy pleased to meet you"), and had extensive back-and-forth about upcoming moving logistics. The move is planned within the next month and a half, with detailed discussions about room arrangements, closet space, storage solutions, and concerns about their cars and parking distance. Andy mentioned his former gym routine near the "main drag" and expressed interest in a gym location near their potential new place. There was also discussion about being good tenants and some financial matter involving "half a million dollars" in savings or value.
 
 #### Receipt app and parking directions (9:21 AM – 9:46 AM)
 Andy was in a car with at least one companion, likely Andrea or someone close, running errands or traveling somewhere that would take about 40 minutes. They discussed using a Google Drive folder called "Stack" for organizing receipts, and Andy showed someone how to use a dual wireless charging setup in the car—preferring wired charging for his own device but not minding wireless for the other person's. They navigated parking behind a building near a lawn area, noting the street was quiet. Andy observed kids singing nearby and asked his companion about previously hearing mariachi music on their street. They discussed optimal travel days (Sunday through Wednesday) to avoid afternoon traffic backups to the speedway, and considered taking back roads from Bedlam to Highway via Lakeville Road rather than the main route.
@@ -132,7 +137,7 @@ Andy was in a car with at least one companion, likely Andrea or someone close, r
 #### Exploring Sonoma town together — 📍 Travel to Sonoma (10:19 AM – 10:34 AM)
 *Context / Event Alignment*: Overlaps with scheduled Calendar event **Travel to Sonoma**.
 
-Andy drove through downtown Sonoma with a companion (likely Andrea) to explore the area as part of their ongoing house-hunting efforts. They navigated through Sonoma Plaza, the historic mission district, and central town areas, with Andy pointing out landmarks from past visits including the Basiani Theater, a bakery/restaurant, Mary's Pizza, and a hotel where someone named Dave Mon worked. Andy considered stopping at the Whole Foods shopping center for coffee and noted the pride flag display. The companion expressed admiration for the area's charm, mentioning they wanted to replicate something from their own home. Their dog was present in the car and reacting to the surroundings. Andy recalled previous map/route complaints from someone named Tony about traffic and lights in the town center.
+Andy drove through downtown Sonoma with Andrea (likely Andrea) to explore the area as part of their ongoing house-hunting efforts. They navigated through Sonoma Plaza, the historic mission district, and central town areas, with Andy pointing out landmarks from past visits including the Basiani Theater, a bakery/restaurant, Mary's Pizza, and a hotel where someone named Dave Mon worked. Andy considered stopping at the Whole Foods shopping center for coffee and noted the pride flag display. The companion expressed admiration for the area's charm, mentioning they wanted to replicate something from their own home. Their dog was present in the car and reacting to the surroundings. Andy recalled previous map/route complaints from someone named Tony about traffic and lights in the town center.
 
 #### House hunting with Cynthia — 📍 Travel to Sonoma (10:39 AM – 11:39 AM)
 *Context / Event Alignment*: Overlaps with scheduled Calendar event **Travel to Sonoma**.
@@ -153,7 +158,7 @@ Andy and his partner Andrea spent time together researching rental properties an
 #### Discussing class participation concerns — 📍 Palace of Legion of Honor Etruscan exhibit w folks & dinner at Dragon Beaux on Geary (1:27 PM – 1:35 PM)
 *Context / Event Alignment*: Overlaps with scheduled Calendar event **Palace of Legion of Honor Etruscan exhibit w folks & dinner at Dragon Beaux on Geary**.
 
-Andy had a conversation with a companion (likely Andrea or a close friend) about a teacher or instructor they both know. They discussed this person's tendency to talk a lot during sessions, with Andy's companion noting the teacher has "gotten better" and that some of what he discussed was valuable despite his verbosity. Andy shared his perspective that the teacher's extensive talking actually serves a purpose—without that explanatory framing, students would just be "mechanically doing it" without genuine connection to the deeper practice. Andy also expressed appreciation for being able to share these activities with his conversation partner.
+Andy had a conversation with Andrea (likely Andrea or a close friend) about a teacher or instructor they both know. They discussed this person's tendency to talk a lot during sessions, with Andy's companion noting the teacher has "gotten better" and that some of what he discussed was valuable despite his verbosity. Andy shared his perspective that the teacher's extensive talking actually serves a purpose—without that explanatory framing, students would just be "mechanically doing it" without genuine connection to the deeper practice. Andy also expressed appreciation for being able to share these activities with his conversation partner.
 
 #### Helping with tech and photos — 📍 Palace of Legion of Honor Etruscan exhibit w folks & dinner at Dragon Beaux on Geary (1:43 PM – 2:20 PM)
 *Context / Event Alignment*: Overlaps with scheduled Calendar event **Palace of Legion of Honor Etruscan exhibit w folks & dinner at Dragon Beaux on Geary**.
@@ -268,13 +273,13 @@ Andy spent time watching World Cup soccer match highlights with his partner, cat
 
 ## 📻 Miscellaneous Media & References Encountered
 ### Music & Audio
-- *No specific music playback recorded today.*
+{{MUSIC_MEDIA}}
 
 ### Film, Video & TV Shows
-- *No specific film/TV viewing recorded today.*
+{{FILM_MEDIA}}
 
 ### News & Current Events
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-27 06:22:23*
+*Report automatically generated on 2026-08-29 06:20:59*

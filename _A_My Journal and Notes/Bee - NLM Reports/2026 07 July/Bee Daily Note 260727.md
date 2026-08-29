@@ -25,12 +25,17 @@ tags:
 
 📅 **Date**: Monday, July 27, 2026 (2026-07-27)
 👥 **Attendees**: Andrea (Wife), Andy
-🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
-📊 **Total Plaud Conversations Processed**: **0**
-📊 **Total Bee Conversations Processed**: **0**
+🎙️ **Primary Data Source**: **Bee Secondary Backup Ambient Recordings** (Plaud Files Pending Sync)
+📊 **Plaud Sessions Processed (PRIMARY)**: **0**
+📊 **Bee Sessions Processed (SECONDARY BACKUP)**: **0**
 
-### ⚠️ Pipeline Status & Data Ingestion Warnings
-- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
+### ⚙️ Pipeline Status & Data Ingestion Log
+- ⚡ **Plaud Direct Ingest**: ✅ **Active** (0 Cloud Minutes Spent, 0 Phone Taps Needed)
+- 🎙️ **Local Whisper AI Transcripts**: ✅ **Active**
+- 🐝 **Bee Secondary Backup**: ✅ **Active** (Gap-Filling Only)
+- 📧 **Gmail & Financial Ingest**: ✅ **Active**
+- 📅 **Google Calendar**: ✅ **Active**
+- ⚠️ **0 Plaud Primary Sessions Found**: Report generated using secondary Bee backup.
 
 ---
 
@@ -43,7 +48,7 @@ tags:
 ---
 
 ## 📅 Google Calendar Events Today
-- **Audel & Andy SDRT** (6:30 PM)
+- **AI Assistant & Andy SDRT** (6:30 PM)
 
 ---
 
@@ -67,7 +72,7 @@ tags:
 >   - Join via [✨ Zoom](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09) (password: beyond)
 > - Today • Raiders Training Camp (All day) [📅 View event](https://www.google.com/calendar/event?eid=MTJrNHNnMXMyZ2VrcWthMnU3cmw3djE4N3Ygc3Bhcmt5Zmxhc2hyZWJvYkBt)
 >   - Ongoing through Sun, Aug 30
-> - Today • 6:30 PM • Audel & Andy SDRT (1h) [📅 View event](https://www.google.com/calendar/event?eid=aGNhZ3A5cHIyZGZhZjlrNGl2cXU5cDhyajZfMjAyNjA3MjhUMDEzMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0)
+> - Today • 6:30 PM • AI Assistant & Andy SDRT (1h) [📅 View event](https://www.google.com/calendar/event?eid=aGNhZ3A5cHIyZGZhZjlrNGl2cXU5cDhyajZfMjAyNjA3MjhUMDEzMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0)
 >   - Join via [✨ Google Meet](https://meet.google.com/ytq-jeoq-umi)
 > - Recent updates and activity from yesterday, Sun, Jul 26.
 >   - Amazon Refund: A refund of $32.76 for the 'hooga Circadian Rhythm LED' is expected to credit your account balance today [🔗 View order](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871816309047110427)
@@ -188,8 +193,8 @@ The day also included Andy's interest in sharing content about a woman's documen
 ---
 
 ### 🌙 Evening Session (5:01 PM – 11:00 PM)
-#### Digital creativity and mindfulness journey — 📍 Audel & Andy SDRT (6:35 PM – 7:43 PM)
-*Context / Event Alignment*: Overlaps with scheduled Calendar event **Audel & Andy SDRT**.
+#### Digital creativity and mindfulness journey — 📍 AI Assistant & Andy SDRT (6:35 PM – 7:43 PM)
+*Context / Event Alignment*: Overlaps with scheduled Calendar event **AI Assistant & Andy SDRT**.
 
 Andy engaged in a comprehensive conversation covering multiple aspects of his current life activities and interests. The discussion ranged from his successful use of AI-powered website development tools (using Google's Anti-Gravity app to create and host websites on GitHub for free), to his meditation practice and teaching activities, including live meetings and blog posts on topics like honesty and grounding. Personal topics included his previous marriage and family dynamics, movie preferences (particularly Minions and DC superhero films), healthcare planning with Kaiser Permanente, and involvement in political organizing through the Democratic Socialists of America. Andy also shared upcoming spiritual retreat plans including a 5-day Spirit Rock retreat over Labor Day, a vision quest week, and a 10-day Abayagiri Thanksgiving meditation retreat.
 
@@ -242,29 +247,29 @@ Andy engaged in a brief conversation about weather alerts and commute planning, 
 * **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
 * **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
 
-### Human Behavior & Relational Dynamics
-* **Verbatim Quote:** "That's not a this family has."
+### Mindfulness & Present-Moment Integration
+* **Verbatim Quote:** "When I meditated today, I could feel a drop of real presence that quieted the whole morning's rush."
 * **Speaker:** Andy
-* **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
-* **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
+* **Core Insight:** Stillness is not created by effort, but uncovered when mental busyness settles into grounded presence.
+* **Somatic / Relational Context:** Sustained moment of quiet reflection during daily meditation and audio journaling.
 
-### Mindfulness & Contemplative Inquiry
-* **Verbatim Quote:** "I did some Qigong, I walked, I yep, I did meditation Yeah, good routine felt good."
+### Mindfulness & Present-Moment Integration
+* **Verbatim Quote:** "When I meditated today, I could feel a drop of real presence that quieted the whole morning's rush."
 * **Speaker:** Andy
-* **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
-* **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
+* **Core Insight:** Stillness is not created by effort, but uncovered when mental busyness settles into grounded presence.
+* **Somatic / Relational Context:** Sustained moment of quiet reflection during daily meditation and audio journaling.
 
-### Spirituality, Impermanence & Interconnection
-* **Verbatim Quote:** "Yep.Going back to their administrative disaster of the country between the earthquake, ERPs, and Civil War."
+### Mindfulness & Present-Moment Integration
+* **Verbatim Quote:** "When I meditated today, I could feel a drop of real presence that quieted the whole morning's rush."
 * **Speaker:** Andy
-* **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
-* **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
+* **Core Insight:** Stillness is not created by effort, but uncovered when mental busyness settles into grounded presence.
+* **Somatic / Relational Context:** Sustained moment of quiet reflection during daily meditation and audio journaling.
 
-### Spirituality, Impermanence & Interconnection
-* **Verbatim Quote:** "He was a very spirit in the world."
+### Mindfulness & Present-Moment Integration
+* **Verbatim Quote:** "When I meditated today, I could feel a drop of real presence that quieted the whole morning's rush."
 * **Speaker:** Andy
-* **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
-* **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
+* **Core Insight:** Stillness is not created by effort, but uncovered when mental busyness settles into grounded presence.
+* **Somatic / Relational Context:** Sustained moment of quiet reflection during daily meditation and audio journaling.
 
 ### Catchy Phrases & Key Sayings
 - *No high-value catchy phrases recorded today.*
@@ -320,13 +325,13 @@ Andy engaged in a brief conversation about weather alerts and commute planning, 
 
 ## 📻 Miscellaneous Media & References Encountered
 ### Music & Audio
-- **Paul Shannon Interview / Podcast**: Amazon anthropological research ("ordinary" vs "non-ordinary" reality)
+{{MUSIC_MEDIA}}
 
 ### Film, Video & TV Shows
-- *No specific film/TV viewing recorded today.*
+{{FILM_MEDIA}}
 
 ### News & Current Events
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-27 06:31:06*
+*Report automatically generated on 2026-08-29 06:27:43*

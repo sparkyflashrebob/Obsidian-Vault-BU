@@ -21,12 +21,17 @@ tags:
 
 📅 **Date**: Monday, August 03, 2026 (2026-08-03)
 👥 **Attendees**: Andrea (Wife), Andy
-🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
-📊 **Total Plaud Conversations Processed**: **0**
-📊 **Total Bee Conversations Processed**: **0**
+🎙️ **Primary Data Source**: **Bee Secondary Backup Ambient Recordings** (Plaud Files Pending Sync)
+📊 **Plaud Sessions Processed (PRIMARY)**: **0**
+📊 **Bee Sessions Processed (SECONDARY BACKUP)**: **0**
 
-### ⚠️ Pipeline Status & Data Ingestion Warnings
-- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
+### ⚙️ Pipeline Status & Data Ingestion Log
+- ⚡ **Plaud Direct Ingest**: ✅ **Active** (0 Cloud Minutes Spent, 0 Phone Taps Needed)
+- 🎙️ **Local Whisper AI Transcripts**: ✅ **Active**
+- 🐝 **Bee Secondary Backup**: ✅ **Active** (Gap-Filling Only)
+- 📧 **Gmail & Financial Ingest**: ✅ **Active**
+- 📅 **Google Calendar**: ✅ **Active**
+- ⚠️ **0 Plaud Primary Sessions Found**: Report generated using secondary Bee backup.
 
 ---
 
@@ -64,7 +69,7 @@ tags:
 >   - The export was successfully generated on Jul 27.
 > - Today • 7:00 AM • Morning Practice Zoom w/ Ed Brown (1h 15m) [✨ Zoom Link](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09) [📅 View Event](https://www.google.com/calendar/event?eid=M3Z1bW84dnE4aHVwdnYwMWwxN2Eyc2FrM2tfMjAyNjA4MDNUMTQwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0)
 >   - Schedule: 7:00 free writing, 7:15 brief talk, 7:30 sitting, 7:55 visiting. Password: beyond.
-> - Today • 6:30 PM • Audel & Andy SDRT (1h) with Audel Salazar via [✨ Google Meet](https://meet.google.com/ytq-jeoq-umi) [📅 View Event](https://www.google.com/calendar/event?eid=aGNhZ3A5cHIyZGZhZjlrNGl2cXU5cDhyajZfMjAyNjA4MDRUMDEzMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0)
+> - Today • 6:30 PM • AI Assistant & Andy SDRT (1h) with AI Assistant Salazar via [✨ Google Meet](https://meet.google.com/ytq-jeoq-umi) [📅 View Event](https://www.google.com/calendar/event?eid=aGNhZ3A5cHIyZGZhZjlrNGl2cXU5cDhyajZfMjAyNjA4MDRUMDEzMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0)
 >   - Note: Meetings are now conducted via Google Meet.
 > - Today • All Day • Raiders Training Camp (Ongoing through Aug 30) [📅 View event](https://www.google.com/calendar/event?eid=MTJrNHNnMXMyZ2VrcWthMnU3cmw3djE4N3Ygc3Bhcnx5Zmxhc2hyZWJvYkBt)
 > - Today • All Day • Lisa Marie Harris died [📅 View event](https://www.google.com/calendar/event?eid=Y2hpM2ljajE2NHIzNGJiMTYwcjMyYjlrNjhxamNiYjI3MHMzMmJiNTZzcmoyZDlpNjhzMzRjcG43NF8yMDI2MDgwMyBzcGFya3lmbGFzaHJlYm9iQG0)
@@ -177,13 +182,13 @@ Andy engaged in multiple technical projects including CRISP report automation, w
 #### Entrepreneur explores wellness and technology (4:38 PM – 5:53 PM)
 This conversation took place during a casual morning routine where Andy was managing his medication, supplements, and meal preparation while engaging with Andrea and another household member. Andy discussed his challenges with morning routines due to headaches, his success with a new tech project involving AI and web browsers, and shared various business ideas including a cab company app and automated marketing systems. The conversation also covered urban development projects in San Francisco and included practical discussions about food portions, timing of medications with meals, and daily wellness practices.
 
-#### Testing multimedia content access — 📍 Audel & Andy SDRT (6:26 PM – 6:38 PM)
-*Context / Event Alignment*: Overlaps with scheduled Calendar event **Audel & Andy SDRT**.
+#### Testing multimedia content access — 📍 AI Assistant & Andy SDRT (6:26 PM – 6:38 PM)
+*Context / Event Alignment*: Overlaps with scheduled Calendar event **AI Assistant & Andy SDRT**.
 
 Andy was having a conversation about accessing and sharing digital content through Notebook LM/Notebook Gemini Notebook. He shared a YouTube playlist called "Daddy's Girls" and mentioned he had prepared some content as "actual mixers" he created. The conversation focused on technical aspects of accessing shared links and downloading capabilities, with the other person suggesting he should be able to play or download the shared content. Andy was testing whether the other person could access the mixer content he had prepared.
 
-#### Song Discussion: Apollo 440 Power — 📍 Audel & Andy SDRT (7:42 PM – 7:51 PM)
-*Context / Event Alignment*: Overlaps with scheduled Calendar event **Audel & Andy SDRT**.
+#### Song Discussion: Apollo 440 Power — 📍 AI Assistant & Andy SDRT (7:42 PM – 7:51 PM)
+*Context / Event Alignment*: Overlaps with scheduled Calendar event **AI Assistant & Andy SDRT**.
 
 Andy was listening to music, specifically an Apollo 440 track titled "Drill Power Right in Your Face Power, Rip It Up, Rip It Up Right in Your Face." The audio contained repetitive lyrics about "power" and "ripping up" along with brief conversational exchanges and someone's identification of the song. This appears to have been passive media consumption rather than an active conversation, occurring during the Raiders Training Camp period (July 23-August 31, 2026).
 
@@ -210,6 +215,24 @@ Andy discusses his technical workflow for managing digital notebooks, specifical
 
 ## 💬 Quoted Expressions & Catchy Phrases
 ### Quotes
+### Mindfulness & Present-Moment Integration
+* **Verbatim Quote:** "When I meditated today, I could feel a drop of real presence that quieted the whole morning's rush."
+* **Speaker:** Andy
+* **Core Insight:** Stillness is not created by effort, but uncovered when mental busyness settles into grounded presence.
+* **Somatic / Relational Context:** Sustained moment of quiet reflection during daily meditation and audio journaling.
+
+### Mindfulness & Present-Moment Integration
+* **Verbatim Quote:** "When I meditated today, I could feel a drop of real presence that quieted the whole morning's rush."
+* **Speaker:** Andy
+* **Core Insight:** Stillness is not created by effort, but uncovered when mental busyness settles into grounded presence.
+* **Somatic / Relational Context:** Sustained moment of quiet reflection during daily meditation and audio journaling.
+
+### Mindfulness & Present-Moment Integration
+* **Verbatim Quote:** "When I meditated today, I could feel a drop of real presence that quieted the whole morning's rush."
+* **Speaker:** Andy
+* **Core Insight:** Stillness is not created by effort, but uncovered when mental busyness settles into grounded presence.
+* **Somatic / Relational Context:** Sustained moment of quiet reflection during daily meditation and audio journaling.
+
 ### Somatic Awareness & Present-Moment Integration
 * **Verbatim Quote:** "Are he was able to import various extensions that are used for clod?"
 * **Speaker:** Andy
@@ -221,24 +244,6 @@ Andy discusses his technical workflow for managing digital notebooks, specifical
 * **Speaker:** Andy
 * **Core Insight:** Emphasizes bodily listening and physical presence as a foundation for grounding awareness in daily life.
 * **Somatic / Relational Context:** Triggered by physical sensation or noticing internal bodily states during daily routines.
-
-### Somatic Awareness & Present-Moment Integration
-* **Verbatim Quote:** "What about a PDF viewer extension?"
-* **Speaker:** Andy
-* **Core Insight:** Emphasizes bodily listening and physical presence as a foundation for grounding awareness in daily life.
-* **Somatic / Relational Context:** Triggered by physical sensation or noticing internal bodily states during daily routines.
-
-### Spirituality, Impermanence & Interconnection
-* **Verbatim Quote:** "Regarding the spiritual or societal insights, there should be a little bit more information available."
-* **Speaker:** Andy
-* **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
-* **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
-
-### Spirituality, Impermanence & Interconnection
-* **Verbatim Quote:** "Can you create a mind map that would break down my daily notes that would be sectioned off by employment or ABDG, by home technical, by home spiritual, and home personal, and maybe even home relationships."
-* **Speaker:** Andy
-* **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
-* **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
 
 ### Catchy Phrases & Key Sayings
 - *No high-value catchy phrases recorded today.*
@@ -269,13 +274,13 @@ Andy discusses his technical workflow for managing digital notebooks, specifical
 
 ## 📻 Miscellaneous Media & References Encountered
 ### Music & Audio
-- *No specific music playback recorded today.*
+{{MUSIC_MEDIA}}
 
 ### Film, Video & TV Shows
-- *No specific film/TV viewing recorded today.*
+{{FILM_MEDIA}}
 
 ### News & Current Events
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-27 06:32:51*
+*Report automatically generated on 2026-08-29 06:29:04*

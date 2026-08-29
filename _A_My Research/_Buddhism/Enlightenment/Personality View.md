@@ -1,6 +1,6 @@
 ---
 tag: sakkayaditthi, ditthi, views, sotapanna, dharma
-Created: 2023-10-14
+Created: 2024-07-21
 ---
 Sakayya ditthi
 

@@ -1,6 +1,6 @@
 ---
 tag: mindfulness, relaxing, slowingdown, presence, dharma
-Created: 2023-10-14
+Created: 2024-07-21
 ---
 Fast or slow
 Types of food

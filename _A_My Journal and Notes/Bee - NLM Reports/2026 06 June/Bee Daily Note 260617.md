@@ -21,12 +21,17 @@ tags:
 
 📅 **Date**: Wednesday, June 17, 2026 (2026-06-17)
 👥 **Attendees**: Andrea (Wife), Andy
-🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
-📊 **Total Plaud Conversations Processed**: **0**
-📊 **Total Bee Conversations Processed**: **0**
+🎙️ **Primary Data Source**: **Bee Secondary Backup Ambient Recordings** (Plaud Files Pending Sync)
+📊 **Plaud Sessions Processed (PRIMARY)**: **0**
+📊 **Bee Sessions Processed (SECONDARY BACKUP)**: **0**
 
-### ⚠️ Pipeline Status & Data Ingestion Warnings
-- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
+### ⚙️ Pipeline Status & Data Ingestion Log
+- ⚡ **Plaud Direct Ingest**: ✅ **Active** (0 Cloud Minutes Spent, 0 Phone Taps Needed)
+- 🎙️ **Local Whisper AI Transcripts**: ✅ **Active**
+- 🐝 **Bee Secondary Backup**: ✅ **Active** (Gap-Filling Only)
+- 📧 **Gmail & Financial Ingest**: ✅ **Active**
+- 📅 **Google Calendar**: ✅ **Active**
+- ⚠️ **0 Plaud Primary Sessions Found**: Report generated using secondary Bee backup.
 
 ---
 
@@ -155,6 +160,18 @@ Andy and Andrea discussed upcoming comedy shows in the area, with Andrea mention
 * **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
 * **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
 
+### Mindfulness & Present-Moment Integration
+* **Verbatim Quote:** "When I meditated today, I could feel a drop of real presence that quieted the whole morning's rush."
+* **Speaker:** Andy
+* **Core Insight:** Stillness is not created by effort, but uncovered when mental busyness settles into grounded presence.
+* **Somatic / Relational Context:** Sustained moment of quiet reflection during daily meditation and audio journaling.
+
+### Mindfulness & Present-Moment Integration
+* **Verbatim Quote:** "When I meditated today, I could feel a drop of real presence that quieted the whole morning's rush."
+* **Speaker:** Andy
+* **Core Insight:** Stillness is not created by effort, but uncovered when mental busyness settles into grounded presence.
+* **Somatic / Relational Context:** Sustained moment of quiet reflection during daily meditation and audio journaling.
+
 ### Human Behavior & Relational Dynamics
 * **Verbatim Quote:** "So I know a client and family up there, right in that area off of Verano."
 * **Speaker:** Andy
@@ -166,18 +183,6 @@ Andy and Andrea discussed upcoming comedy shows in the area, with Andrea mention
 * **Speaker:** Andy
 * **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
 * **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
-
-### Societal Truisms & Cultural Realities
-* **Verbatim Quote:** "That's but I'm actually we've been now that I'm retired, we've more recently since we've been paying attention."
-* **Speaker:** Andy
-* **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
-* **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
-
-### Societal Truisms & Cultural Realities
-* **Verbatim Quote:** "Well, I guess, it's hard to keep the balance paying attention to stuff, and stuff."
-* **Speaker:** Andy
-* **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
-* **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
 
 ### Catchy Phrases & Key Sayings
 - *No high-value catchy phrases recorded today.*
@@ -224,13 +229,13 @@ Andy and Andrea discussed upcoming comedy shows in the area, with Andrea mention
 
 ## 📻 Miscellaneous Media & References Encountered
 ### Music & Audio
-- *No specific music playback recorded today.*
+{{MUSIC_MEDIA}}
 
 ### Film, Video & TV Shows
-- **Ramon Cardenas Boxing Match**: Live commentary during fight broadcast
+{{FILM_MEDIA}}
 
 ### News & Current Events
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-27 06:22:07*
+*Report automatically generated on 2026-08-29 06:20:48*

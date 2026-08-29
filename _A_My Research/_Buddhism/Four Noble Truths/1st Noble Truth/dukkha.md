@@ -1,4 +1,4 @@
-Buddha enumerates 8 kinds of [[_unsorted from computer/Ebooks/Unknown/attitude (798)/Dharma Subjects and Themes/Four Noble Truths/1st Noble Truth/dukkha]] 
+Buddha enumerates 8 kinds of [[_A_My Research/_Buddhism/_Dharma Subjects and Themes/Four Noble Truths 1/1st Noble Truth/dukkha]] 
 		1. Birth 
 		2. Old Age 
 		3. Sickness 
@@ -38,7 +38,7 @@ Dukkha
 		when examined
 		turns out to be impermanent and therefore unreliable
 		unable to provide lasting satisfaction
-	pointing to the ultimate release from [[_unsorted from computer/Ebooks/Unknown/attitude (798)/Dharma Subjects and Themes/Four Noble Truths/1st Noble Truth/dukkha]] 
+	pointing to the ultimate release from [[_A_My Research/_Buddhism/_Dharma Subjects and Themes/Four Noble Truths 1/1st Noble Truth/dukkha]] 
 		what lies beyond the sphere of transience and mortality.
 		in [[nibbana]] 
 			the unconditioned state free from birth, decay and death 

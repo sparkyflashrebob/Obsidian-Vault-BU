@@ -1,6 +1,6 @@
 ---
 tag: liberation, vimutti, dharma
-Created: 2023-10-14
+Created: 2024-07-21
 ---
 from Encyclopedia of Buddhism, Malalasekera, Weeraratne, Vol VIII, Dhammacammam Pavattitam appativattiyam
 Vimutti covers both Final liberation thru destruction of all unwholesomeness and as well as liberation that falls short of being the ultimate goal of early Buddhism

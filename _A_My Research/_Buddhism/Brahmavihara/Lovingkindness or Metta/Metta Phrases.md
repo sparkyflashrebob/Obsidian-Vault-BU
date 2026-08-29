@@ -1,6 +1,6 @@
 ---
 tag: metta_phrases, dharma
-Created: 2023-10-14
+Created: 2024-07-21
 ---
 May I be free from enmity.
 May I be free from hurtfulness.

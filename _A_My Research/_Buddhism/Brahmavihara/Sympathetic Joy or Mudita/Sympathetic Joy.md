@@ -1,1 +1,1 @@
-[[_A_My Research/Dharma Subjects and Themes/Brahmavihara/Sympathetic Joy or Mudita/Sympathetic Joy]][How to Practice Sympathetic Joy - Lions Roar](https://www.lionsroar.com/how-to-practice-sympathetic-joy/) sympathetic joy
+[[_A_My Research/_Buddhism/Brahmavihara/Sympathetic Joy or Mudita/Sympathetic Joy]][How to Practice Sympathetic Joy - Lions Roar](https://www.lionsroar.com/how-to-practice-sympathetic-joy/) sympathetic joy

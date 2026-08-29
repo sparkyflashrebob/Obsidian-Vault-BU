@@ -1,6 +1,6 @@
 ---
 tag: merit, dharma
-Created: 2023-10-14
+Created: 2024-07-21
 ---
 Merit is not only a concept, but also a way of living. The Pāli canon identifies three bases of merit (puññakiriyā-vatthu), in order of difficulty:
 

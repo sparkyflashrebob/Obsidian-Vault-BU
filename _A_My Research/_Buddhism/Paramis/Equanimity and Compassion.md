@@ -1,4 +1,4 @@
--   [[_A_My Research/Dharma Subjects and Themes/Paramis/Equanimity and Compassion]][[Brahmaviharas]]
+-   [[_A_My Research/_Buddhism/Paramis/Equanimity and Compassion]][[Brahmaviharas]]
     -   [[Equanimity or equipoise]], upek(k)hā, from an etymological perspective suggests a mental attitude of “looking upon”, not an indifferent “looking away”. The term thus conveys an [[_My Research/Dharma Subjects and Themes/Subjects & Themes/Awareness]] of whatever is happening combined with [[mental balance]] and the [[absence of favoring or opposing]].
     -   **[[Compassion to relate to Equanimity]]**
         -   works for [[Roam-Export-1674627649766/sympathetic joy]]
@@ -15,7 +15,7 @@
                 -   tend to aversion
             -   [[Roam-Export-1674627649766/sympathetic joy]] for those who are happy
                 -   tend to passion
-            -   [[_My Research/Dharma Subjects and Themes/Brahmavihara/Lovingkindness or Metta/Metta]] applies to those who are neither
+            -   [[_unsorted from computer/Ebooks/Unknown/attitude (798)/Dharma Subjects and Themes/Brahmavihara/Lovingkindness or Metta/Metta]] applies to those who are neither
                 -   tend to ignorance
             -   **[[Google Keep/Equanimity]] comes as the wish for each of these types of living beings to be free from the respective defilement**
         -   aspiration to be free from aversion, passion and ignorance

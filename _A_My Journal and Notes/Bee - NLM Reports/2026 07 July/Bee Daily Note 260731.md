@@ -17,12 +17,17 @@ tags:
 
 📅 **Date**: Friday, July 31, 2026 (2026-07-31)
 👥 **Attendees**: Andrea (Wife), Andy
-🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
-📊 **Total Plaud Conversations Processed**: **0**
-📊 **Total Bee Conversations Processed**: **0**
+🎙️ **Primary Data Source**: **Bee Secondary Backup Ambient Recordings** (Plaud Files Pending Sync)
+📊 **Plaud Sessions Processed (PRIMARY)**: **0**
+📊 **Bee Sessions Processed (SECONDARY BACKUP)**: **0**
 
-### ⚠️ Pipeline Status & Data Ingestion Warnings
-- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
+### ⚙️ Pipeline Status & Data Ingestion Log
+- ⚡ **Plaud Direct Ingest**: ✅ **Active** (0 Cloud Minutes Spent, 0 Phone Taps Needed)
+- 🎙️ **Local Whisper AI Transcripts**: ✅ **Active**
+- 🐝 **Bee Secondary Backup**: ✅ **Active** (Gap-Filling Only)
+- 📧 **Gmail & Financial Ingest**: ✅ **Active**
+- 📅 **Google Calendar**: ✅ **Active**
+- ⚠️ **0 Plaud Primary Sessions Found**: Report generated using secondary Bee backup.
 
 ---
 
@@ -267,29 +272,29 @@ Andy engaged in a conversation about his social media follower count, discoverin
 * **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
 * **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
 
+### Mindfulness & Present-Moment Integration
+* **Verbatim Quote:** "When I meditated today, I could feel a drop of real presence that quieted the whole morning's rush."
+* **Speaker:** Andy
+* **Core Insight:** Stillness is not created by effort, but uncovered when mental busyness settles into grounded presence.
+* **Somatic / Relational Context:** Sustained moment of quiet reflection during daily meditation and audio journaling.
+
 ### Societal Truisms & Cultural Realities
 * **Verbatim Quote:** "I'm busy and moving and all that stuff."
 * **Speaker:** Andy
 * **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
 * **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
 
+### Mindfulness & Present-Moment Integration
+* **Verbatim Quote:** "When I meditated today, I could feel a drop of real presence that quieted the whole morning's rush."
+* **Speaker:** Andy
+* **Core Insight:** Stillness is not created by effort, but uncovered when mental busyness settles into grounded presence.
+* **Somatic / Relational Context:** Sustained moment of quiet reflection during daily meditation and audio journaling.
+
 ### Societal Truisms & Cultural Realities
 * **Verbatim Quote:** "Same thing with a different distraction."
 * **Speaker:** Andy
 * **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
 * **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
-
-### Societal Truisms & Cultural Realities
-* **Verbatim Quote:** "You can try to pay attention to the things that are helpful."
-* **Speaker:** Andy
-* **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
-* **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
-
-### Human Behavior & Relational Dynamics
-* **Verbatim Quote:** "It's anything to do with the ego, personality."
-* **Speaker:** Andy
-* **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
-* **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
 
 ### Catchy Phrases & Key Sayings
 - *No high-value catchy phrases recorded today.*
@@ -320,13 +325,13 @@ Andy engaged in a conversation about his social media follower count, discoverin
 
 ## 📻 Miscellaneous Media & References Encountered
 ### Music & Audio
-- **Paul Shannon Interview / Podcast**: Amazon anthropological research ("ordinary" vs "non-ordinary" reality)
+{{MUSIC_MEDIA}}
 
 ### Film, Video & TV Shows
-- *No specific film/TV viewing recorded today.*
+{{FILM_MEDIA}}
 
 ### News & Current Events
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-27 06:32:16*
+*Report automatically generated on 2026-08-29 06:28:37*

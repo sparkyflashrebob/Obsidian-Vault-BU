@@ -1,6 +1,6 @@
 ---
 tag: dharma, caste, conduct, right speech
-Created: 2023-10-14
+Created: 2024-07-21
 ---
 Teach the character of a true man and an untrue man
 

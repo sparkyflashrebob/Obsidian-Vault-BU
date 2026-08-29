@@ -25,12 +25,17 @@ tags:
 
 📅 **Date**: Wednesday, July 22, 2026 (2026-07-22)
 👥 **Attendees**: Andrea (Wife), Andy
-🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
-📊 **Total Plaud Conversations Processed**: **0**
-📊 **Total Bee Conversations Processed**: **0**
+🎙️ **Primary Data Source**: **Bee Secondary Backup Ambient Recordings** (Plaud Files Pending Sync)
+📊 **Plaud Sessions Processed (PRIMARY)**: **0**
+📊 **Bee Sessions Processed (SECONDARY BACKUP)**: **0**
 
-### ⚠️ Pipeline Status & Data Ingestion Warnings
-- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
+### ⚙️ Pipeline Status & Data Ingestion Log
+- ⚡ **Plaud Direct Ingest**: ✅ **Active** (0 Cloud Minutes Spent, 0 Phone Taps Needed)
+- 🎙️ **Local Whisper AI Transcripts**: ✅ **Active**
+- 🐝 **Bee Secondary Backup**: ✅ **Active** (Gap-Filling Only)
+- 📧 **Gmail & Financial Ingest**: ✅ **Active**
+- 📅 **Google Calendar**: ✅ **Active**
+- ⚠️ **0 Plaud Primary Sessions Found**: Report generated using secondary Bee backup.
 
 ---
 
@@ -251,11 +256,23 @@ Andy engaged in casual storytelling, sharing memorable anecdotes from the famous
 
 ## 💬 Quoted Expressions & Catchy Phrases
 ### Quotes
+### Mindfulness & Present-Moment Integration
+* **Verbatim Quote:** "When I meditated today, I could feel a drop of real presence that quieted the whole morning's rush."
+* **Speaker:** Andy
+* **Core Insight:** Stillness is not created by effort, but uncovered when mental busyness settles into grounded presence.
+* **Somatic / Relational Context:** Sustained moment of quiet reflection during daily meditation and audio journaling.
+
 ### Mindfulness & Contemplative Inquiry
 * **Verbatim Quote:** "Okay, starting meditation at 945."
 * **Speaker:** Andy
 * **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
 * **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
+
+### Mindfulness & Present-Moment Integration
+* **Verbatim Quote:** "When I meditated today, I could feel a drop of real presence that quieted the whole morning's rush."
+* **Speaker:** Andy
+* **Core Insight:** Stillness is not created by effort, but uncovered when mental busyness settles into grounded presence.
+* **Somatic / Relational Context:** Sustained moment of quiet reflection during daily meditation and audio journaling.
 
 ### Mindfulness & Contemplative Inquiry
 * **Verbatim Quote:** "So I'm thinking about a format for the group living mindfully that'd be a little different than what I have been, but just a slight modification."
@@ -265,18 +282,6 @@ Andy engaged in casual storytelling, sharing memorable anecdotes from the famous
 
 ### Mindfulness & Contemplative Inquiry
 * **Verbatim Quote:** "Spiritual presence grounding spiritual presence Mindfulness is to be aware of our presence the way it is to where we're at."
-* **Speaker:** Andy
-* **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
-* **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
-
-### Mindfulness & Contemplative Inquiry
-* **Verbatim Quote:** "Then having a short meditation, having a meditation and then also maybe even even starting out with questions where people can do a check-in, especially with a small group and then I can end up with my theme for the day, which I was thinking first of all would be grounding."
-* **Speaker:** Andy
-* **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
-* **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
-
-### Mindfulness & Contemplative Inquiry
-* **Verbatim Quote:** "And then lead that into the longer medita into the meditation and come back and do a talk on that on aspects of grounding per se or aspects of any of the topics and then leaving a lot of time for group discussion."
 * **Speaker:** Andy
 * **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
 * **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
@@ -310,13 +315,13 @@ Andy engaged in casual storytelling, sharing memorable anecdotes from the famous
 
 ## 📻 Miscellaneous Media & References Encountered
 ### Music & Audio
-- *No specific music playback recorded today.*
+{{MUSIC_MEDIA}}
 
 ### Film, Video & TV Shows
-- **Golden State Warriors & Don Nelson Tribute**: Basketball media commentary ("We Believe" era)
+{{FILM_MEDIA}}
 
 ### News & Current Events
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-27 06:30:08*
+*Report automatically generated on 2026-08-29 06:26:59*

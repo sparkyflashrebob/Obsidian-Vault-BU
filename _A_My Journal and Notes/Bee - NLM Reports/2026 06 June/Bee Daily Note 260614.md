@@ -25,12 +25,17 @@ tags:
 
 📅 **Date**: Sunday, June 14, 2026 (2026-06-14)
 👥 **Attendees**: Andrea (Wife), Andy
-🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
-📊 **Total Plaud Conversations Processed**: **0**
-📊 **Total Bee Conversations Processed**: **0**
+🎙️ **Primary Data Source**: **Bee Secondary Backup Ambient Recordings** (Plaud Files Pending Sync)
+📊 **Plaud Sessions Processed (PRIMARY)**: **0**
+📊 **Bee Sessions Processed (SECONDARY BACKUP)**: **0**
 
-### ⚠️ Pipeline Status & Data Ingestion Warnings
-- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
+### ⚙️ Pipeline Status & Data Ingestion Log
+- ⚡ **Plaud Direct Ingest**: ✅ **Active** (0 Cloud Minutes Spent, 0 Phone Taps Needed)
+- 🎙️ **Local Whisper AI Transcripts**: ✅ **Active**
+- 🐝 **Bee Secondary Backup**: ✅ **Active** (Gap-Filling Only)
+- 📧 **Gmail & Financial Ingest**: ✅ **Active**
+- 📅 **Google Calendar**: ✅ **Active**
+- ⚠️ **0 Plaud Primary Sessions Found**: Report generated using secondary Bee backup.
 
 ---
 
@@ -49,12 +54,9 @@ tags:
 
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
-- **Bank of America** (Acc: `SparkyBank - 0372`): **$7,872.95** — `Your Available Balance` (08/27/2026 3:38 AM)
-- **Fidelity Investments** (Total Value: **$271,011.48** across 4 accounts):
-  - Account `XXXXX2492`: **$256,293.90** | Settled Cash: $25,958.89 (08/27/2026 3:48 AM)
-  - Account `XXXXX1490`: **$11,004.45** | Settled Cash: $10,208.53 (08/27/2026 3:46 AM)
-  - Account `XXXXX1128`: **$3,712.95** | Settled Cash: $42.45 (08/27/2026 3:48 AM)
-  - Account `XXXXX3435`: **$0.18** | Settled Cash: $0.18 (08/27/2026 3:47 AM)
+- **Bank of America** (Total Available Balance: **$12,188.76** across 2 accounts):
+  - Account `SparkyBank - 0372`: **$10,122.92** (08/29/2026 3:43 AM)
+  - Account `TwoAndiesSave - 6171`: **$2,065.84** (08/29/2026 3:39 AM)
 
 ### ✉️ Outgoing Sent Emails & Correspondence
 - *No outgoing sent email replies or correspondence recorded today.*
@@ -82,7 +84,7 @@ tags:
 
 ### 🌙 Evening Session (5:01 PM – 11:00 PM)
 - **Watching shows and discussing politics (6:57 PM – 7:34 PM)**: Andy spent an evening with his partner Andrea watching and discussing various media content, including a Yellowstone/Old Faithful livestream where he actively analyzed volcanic activity and tephra formations, politica...
-- **TV show and flooding discussion (10:04 PM – 10:14 PM)**: Andy was discussing the Apple TV series *Severance* with a companion (likely Andrea or Kerry based on trip context), describing a recent episode's cliffhanger involving a disc, headphones, and a planetary eye shield. ...
+- **TV show and flooding discussion (10:04 PM – 10:14 PM)**: Andy was discussing the Apple TV series *Severance* with Andrea (likely Andrea or Kerry based on trip context), describing a recent episode's cliffhanger involving a disc, headphones, and a planetary eye shield. ...
 - **Flood Concerns and Moving Plans (10:38 PM – 11:04 PM)**: Andy and his household members were monitoring rising water levels around their property during a storm, with concern that flooding could be worse than the previous night. Andy checked specific water measurements (6.5...
 - **NOAA flood alert automation script (11:25 PM – 11:37 PM)**: Andy created an automated Google script that monitors Puerto Madera Creek water levels via NOAA data and automatically adds calendar notifications when levels exceed 6.75 feet. The script is set to monitor a month in ...
 
@@ -157,7 +159,7 @@ Andy and Andrea watched the "Rise Up, Sing Out" benefit concert for the Committe
 Andy spent an evening with his partner Andrea watching and discussing various media content, including a Yellowstone/Old Faithful livestream where he actively analyzed volcanic activity and tephra formations, political comedy from "The Good Liars" about Trump, and a Texas political ad. He also explained plot developments from Netflix's "3 Body Problem" that he was picking up on rewatch, including the incoming alien fleet, the religious faction that wants to be taken over, and the murder of the Game of Thrones actor's character. He mentioned needing to follow up with someone who hadn't returned his call, discussed meal timing and sunburn recovery from a recent outing, and noted he was adding items to his list. They also watched content about Albania protests and browsed YouTube together looking at various political and music videos, including a French reggae band La Interloupe.
 
 #### TV show and flooding discussion (10:04 PM – 10:14 PM)
-Andy was discussing the Apple TV series *Severance* with a companion (likely Andrea or Kerry based on trip context), describing a recent episode's cliffhanger involving a disc, headphones, and a planetary eye shield. The conversation shifted when they noticed flooding beginning outside their Joshua Tree area accommodation. Both decided to go out and assess the situation on foot rather than staying inside, with Andy noting he needed the distraction to avoid eating when he didn't want to. Andy used a Google voice command to turn off the TV before heading out.
+Andy was discussing the Apple TV series *Severance* with Andrea (likely Andrea or Kerry based on trip context), describing a recent episode's cliffhanger involving a disc, headphones, and a planetary eye shield. The conversation shifted when they noticed flooding beginning outside their Joshua Tree area accommodation. Both decided to go out and assess the situation on foot rather than staying inside, with Andy noting he needed the distraction to avoid eating when he didn't want to. Andy used a Google voice command to turn off the TV before heading out.
 
 #### Flood Concerns and Moving Plans (10:38 PM – 11:04 PM)
 Andy and his household members were monitoring rising water levels around their property during a storm, with concern that flooding could be worse than the previous night. Andy checked specific water measurements (6.53, 7.03, and 7.01), confirming tonight's levels would be the highest. He took photos showing water nearly reaching their walkway. The conversation shifted to house-hunting plans, with Andy actively researching rentals in Novato, Sonoma, and Petaluma, considering commute times and floodplain risks. He found a potential house in Petaluma near where "Elisa's rental" was located, about 20 minutes away. They discussed decluttering and storage needs, with Andy noting they have far too many dishes and glasses. The household is proactively preparing for a move, with one person planning to accelerate packing and add storage solutions.
@@ -263,13 +265,13 @@ Andy created an automated Google script that monitors Puerto Madera Creek water 
 
 ## 📻 Miscellaneous Media & References Encountered
 ### Music & Audio
-- *No specific music playback recorded today.*
+{{MUSIC_MEDIA}}
 
 ### Film, Video & TV Shows
-- *No specific film/TV viewing recorded today.*
+{{FILM_MEDIA}}
 
 ### News & Current Events
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-27 06:21:22*
+*Report automatically generated on 2026-08-29 06:20:13*

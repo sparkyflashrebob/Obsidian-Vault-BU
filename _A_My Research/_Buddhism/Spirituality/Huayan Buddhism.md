@@ -1,6 +1,6 @@
 ---
 tag: jewelofIndra, buddhavairocana, connection, interbeing, dharma
-Created: 2023-10-14
+Created: 2024-07-21
 ---
  It is filled with mystical and visionary imagery, focusing on the Buddha Vairocana, who is said to pervade every atom of the entire universe with his magical creations and emanations as a way to help all beings:
 

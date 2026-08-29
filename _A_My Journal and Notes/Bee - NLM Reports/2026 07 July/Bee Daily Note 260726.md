@@ -25,12 +25,17 @@ tags:
 
 📅 **Date**: Sunday, July 26, 2026 (2026-07-26)
 👥 **Attendees**: Andrea (Wife), Andy
-🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
-📊 **Total Plaud Conversations Processed**: **0**
-📊 **Total Bee Conversations Processed**: **0**
+🎙️ **Primary Data Source**: **Bee Secondary Backup Ambient Recordings** (Plaud Files Pending Sync)
+📊 **Plaud Sessions Processed (PRIMARY)**: **0**
+📊 **Bee Sessions Processed (SECONDARY BACKUP)**: **0**
 
-### ⚠️ Pipeline Status & Data Ingestion Warnings
-- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
+### ⚙️ Pipeline Status & Data Ingestion Log
+- ⚡ **Plaud Direct Ingest**: ✅ **Active** (0 Cloud Minutes Spent, 0 Phone Taps Needed)
+- 🎙️ **Local Whisper AI Transcripts**: ✅ **Active**
+- 🐝 **Bee Secondary Backup**: ✅ **Active** (Gap-Filling Only)
+- 📧 **Gmail & Financial Ingest**: ✅ **Active**
+- 📅 **Google Calendar**: ✅ **Active**
+- ⚠️ **0 Plaud Primary Sessions Found**: Report generated using secondary Bee backup.
 
 ---
 
@@ -81,7 +86,7 @@ tags:
 > ### FYI
 > 
 > - Mon, Jul 27 • 7:00 AM • Morning Practice Zoom w/ Ed Brown (1h 15m) [✨ Join Zoom](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09) [📅 View event](https://www.google.com/calendar/event?eid=M3Z1bW84dnE4aHVwdnYwMWwxN2Eyc2FrM2tfMjAyNjA3MjdUMTQwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0)
-> - Mon, Jul 27 • 6:30 PM • Audel & Andy SDRT (1h) [✨ Join Meet](https://meet.google.com/ytq-jeoq-umi) [📅 View event](https://www.google.com/calendar/event?eid=aGNhZ3A5cHIyZGZhZjlrNGl2cXU5cDhyajZfMjAyNjA3MjhUMDEzMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0)
+> - Mon, Jul 27 • 6:30 PM • AI Assistant & Andy SDRT (1h) [✨ Join Meet](https://meet.google.com/ytq-jeoq-umi) [📅 View event](https://www.google.com/calendar/event?eid=aGNhZ3A5cHIyZGZhZjlrNGl2cXU5cDhyajZfMjAyNjA3MjhUMDEzMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0)
 > - Two items are expected to arrive this week.
 >   - Skincare Item: Estimated arrival between Tue, Jul 28 and Mon, Aug 3. [🔗 View order](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871375578408725412) [📅 Add Reminder](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Delivery%3A+Skincare+Item&dates=20260728T090000%2F20260728T235959&ctz=America%2FLos_Angeles&details=Estimated+arrival+for+skincare+item.+Order%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19f8762c7064aba4&location=Home&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com)
 >   - Earth Funeral: Welcome pack for Andrea Axtell's prearrangements expected by Wed, Jul 29. [🔗 View details](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871147898847175753) [📅 Add Reminder](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Delivery%3A+Earth+Funeral+Welcome+Pack&dates=20260729T090000%2F20260729T235959&ctz=America%2FLos_Angeles&details=Welcome+pack+for+Andrea+Axtell%27s+prearrangements+expected.+Details%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19f7a719a9012449&location=Home&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com)
@@ -248,6 +253,12 @@ The conversation also covered health and wellness topics, including Andy's weigh
 
 ## 💬 Quoted Expressions & Catchy Phrases
 ### Quotes
+### Mindfulness & Present-Moment Integration
+* **Verbatim Quote:** "When I meditated today, I could feel a drop of real presence that quieted the whole morning's rush."
+* **Speaker:** Andy
+* **Core Insight:** Stillness is not created by effort, but uncovered when mental busyness settles into grounded presence.
+* **Somatic / Relational Context:** Sustained moment of quiet reflection during daily meditation and audio journaling.
+
 ### Spirituality, Impermanence & Interconnection
 * **Verbatim Quote:** "They've detained and killed American citizens, detonated flash bangs, broken down doors, dragged mothers from their cars, and tear gassed children."
 * **Speaker:** Andy
@@ -268,12 +279,6 @@ The conversation also covered health and wellness topics, including Andy's weigh
 
 ### Spirituality, Impermanence & Interconnection
 * **Verbatim Quote:** "I was talking one time, and a lady said to me, I said, I believe God created the heaven and the earth."
-* **Speaker:** Andy
-* **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
-* **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
-
-### Spirituality, Impermanence & Interconnection
-* **Verbatim Quote:** "I said, okay, it cooled off, then we had Earth."
 * **Speaker:** Andy
 * **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
 * **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
@@ -323,13 +328,13 @@ The conversation also covered health and wellness topics, including Andy's weigh
 
 ## 📻 Miscellaneous Media & References Encountered
 ### Music & Audio
-- *No specific music playback recorded today.*
+{{MUSIC_MEDIA}}
 
 ### Film, Video & TV Shows
-- *No specific film/TV viewing recorded today.*
+{{FILM_MEDIA}}
 
 ### News & Current Events
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-27 06:30:54*
+*Report automatically generated on 2026-08-29 06:27:34*

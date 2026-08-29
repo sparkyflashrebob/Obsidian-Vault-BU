@@ -1,6 +1,6 @@
 ---
 tag: equanimity, dharma
-Created: 2023-10-14
+Created: 2024-07-21
 ---
 If your mind becomes firm like a rock
 and no longer shakes

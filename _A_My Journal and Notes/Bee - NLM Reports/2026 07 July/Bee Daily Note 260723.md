@@ -29,12 +29,17 @@ tags:
 
 📅 **Date**: Thursday, July 23, 2026 (2026-07-23)
 👥 **Attendees**: Andrea (Wife), Andy
-🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
-📊 **Total Plaud Conversations Processed**: **0**
-📊 **Total Bee Conversations Processed**: **0**
+🎙️ **Primary Data Source**: **Bee Secondary Backup Ambient Recordings** (Plaud Files Pending Sync)
+📊 **Plaud Sessions Processed (PRIMARY)**: **0**
+📊 **Bee Sessions Processed (SECONDARY BACKUP)**: **0**
 
-### ⚠️ Pipeline Status & Data Ingestion Warnings
-- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
+### ⚙️ Pipeline Status & Data Ingestion Log
+- ⚡ **Plaud Direct Ingest**: ✅ **Active** (0 Cloud Minutes Spent, 0 Phone Taps Needed)
+- 🎙️ **Local Whisper AI Transcripts**: ✅ **Active**
+- 🐝 **Bee Secondary Backup**: ✅ **Active** (Gap-Filling Only)
+- 📧 **Gmail & Financial Ingest**: ✅ **Active**
+- 📅 **Google Calendar**: ✅ **Active**
+- ⚠️ **0 Plaud Primary Sessions Found**: Report generated using secondary Bee backup.
 
 ---
 
@@ -109,7 +114,7 @@ tags:
 - **Troubleshooting Smart Light Device Control (11:58 AM – 12:25 PM)**: Andy spent time in his bedroom working with Google Assistant to control smart lighting, testing various commands and brightness levels. He successfully experimented with turning lights on/off and adjusting settings to...
 
 ### ☀️ Afternoon Session (12:01 PM – 5:00 PM)
-- **Andy gives analog alarm clock (12:41 PM – 12:48 PM)**: Andy engaged in a conversation about seating arrangements with a companion, expressing his desire to have his personal space while still being able to sit together. He gifted an analog alarm clock to the other person,...
+- **Andy gives analog alarm clock (12:41 PM – 12:48 PM)**: Andy engaged in a conversation about seating arrangements with Andrea, expressing his desire to have his personal space while still being able to sit together. He gifted an analog alarm clock to the other person,...
 - **Dealing with AI trauma content filters (1:22 PM – 1:46 PM)**: Andy discussed his ongoing frustration with AI tools (Notebook LM and Gemini) consistently rejecting his attempts to create reports about his personal trauma history. Both platforms refuse to process or analyze the co...
 - **Mindfulness Practice and Grounding Techniques (2:24 PM – 3:19 PM)**: Andy delivered an educational presentation on mindfulness and Buddhist spiritual practices, focusing on grounding techniques and practical applications. The talk covered the four aspects of mindfulness as defined by t...
 - **Meal Planning with Vegetarian Options (3:23 PM – 3:33 PM)**: This conversation took place during a domestic household discussion in the kitchen/dining area, where Andy, Andrea, and others discussed practical household matters including meal planning, recipe organization, and te...
@@ -144,7 +149,7 @@ tags:
   * **Andy**: Shared on "How do I remove a device from Google Home?"
 
 #### Andy gives analog alarm clock (12:41 PM – 12:48 PM)
-* **Meeting Synopsis**: Andy engaged in a conversation about seating arrangements with a companion, expressing his desire to have his personal space while still being able to sit together. He gifted an analog alarm clock to the other person, explaining its simple, non-digital features and the benefit of reducing phone dependency. The interaction demonstrated Andy's thoughtful consideration for others' needs and his preference for simpler, analog solutions over smart technology.
+* **Meeting Synopsis**: Andy engaged in a conversation about seating arrangements with Andrea, expressing his desire to have his personal space while still being able to sit together. He gifted an analog alarm clock to the other person, explaining its simple, non-digital features and the benefit of reducing phone dependency. The interaction demonstrated Andy's thoughtful consideration for others' needs and his preference for simpler, analog solutions over smart technology.
 * **Key Points by Participant**:
   * **Andy**: Shared on "I sure would make space for you where we could have if you and I ended up right next to each other."
 
@@ -185,7 +190,7 @@ Andy spent time in his bedroom working with Google Assistant to control smart li
 
 ### ☀️ Afternoon Session (12:01 PM – 5:00 PM)
 #### Andy gives analog alarm clock (12:41 PM – 12:48 PM)
-Andy engaged in a conversation about seating arrangements with a companion, expressing his desire to have his personal space while still being able to sit together. He gifted an analog alarm clock to the other person, explaining its simple, non-digital features and the benefit of reducing phone dependency. The interaction demonstrated Andy's thoughtful consideration for others' needs and his preference for simpler, analog solutions over smart technology.
+Andy engaged in a conversation about seating arrangements with Andrea, expressing his desire to have his personal space while still being able to sit together. He gifted an analog alarm clock to the other person, explaining its simple, non-digital features and the benefit of reducing phone dependency. The interaction demonstrated Andy's thoughtful consideration for others' needs and his preference for simpler, analog solutions over smart technology.
 
 #### Dealing with AI trauma content filters (1:22 PM – 1:46 PM)
 Andy discussed his ongoing frustration with AI tools (Notebook LM and Gemini) consistently rejecting his attempts to create reports about his personal trauma history. Both platforms refuse to process or analyze the content, prompting Andy to wonder if mentioning "revolution" in his narratives triggered safety restrictions. He explored potential solutions including editing reports to remove specific names, though he noted the reports were specifically about his own experiences. The conversation revealed broader concerns about AI's inability to provide meaningful context when processing difficult personal content, with Andy expressing frustration that the systems "can't distinguish between" different types of challenging material that humans can naturally contextualize.
@@ -286,6 +291,18 @@ Andy is engaged in reviewing and editing written material about Buddhist mindful
 * **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
 * **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
 
+### Mindfulness & Present-Moment Integration
+* **Verbatim Quote:** "When I meditated today, I could feel a drop of real presence that quieted the whole morning's rush."
+* **Speaker:** Andy
+* **Core Insight:** Stillness is not created by effort, but uncovered when mental busyness settles into grounded presence.
+* **Somatic / Relational Context:** Sustained moment of quiet reflection during daily meditation and audio journaling.
+
+### Mindfulness & Present-Moment Integration
+* **Verbatim Quote:** "When I meditated today, I could feel a drop of real presence that quieted the whole morning's rush."
+* **Speaker:** Andy
+* **Core Insight:** Stillness is not created by effort, but uncovered when mental busyness settles into grounded presence.
+* **Somatic / Relational Context:** Sustained moment of quiet reflection during daily meditation and audio journaling.
+
 ### Societal Truisms & Cultural Realities
 * **Verbatim Quote:** "No, I I mean overflowingly busy."
 * **Speaker:** Andy
@@ -297,18 +314,6 @@ Andy is engaged in reviewing and editing written material about Buddhist mindful
 * **Speaker:** Andy
 * **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
 * **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
-
-### Spirituality, Impermanence & Interconnection
-* **Verbatim Quote:** "Never.You are a water girl and I'm an earth guy."
-* **Speaker:** Andy
-* **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
-* **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
-
-### Spirituality, Impermanence & Interconnection
-* **Verbatim Quote:** "I'm water and air and you're earth and fire. Yeah."
-* **Speaker:** Andy
-* **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
-* **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
 
 ### Catchy Phrases & Key Sayings
 - *No high-value catchy phrases recorded today.*
@@ -355,13 +360,13 @@ Andy is engaged in reviewing and editing written material about Buddhist mindful
 
 ## 📻 Miscellaneous Media & References Encountered
 ### Music & Audio
-- *No specific music playback recorded today.*
+{{MUSIC_MEDIA}}
 
 ### Film, Video & TV Shows
-- **Golden State Warriors & Don Nelson Tribute**: Basketball media commentary ("We Believe" era)
+{{FILM_MEDIA}}
 
 ### News & Current Events
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-27 06:30:20*
+*Report automatically generated on 2026-08-29 06:27:09*

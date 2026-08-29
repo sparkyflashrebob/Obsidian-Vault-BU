@@ -27,13 +27,18 @@ tags:
 # Meditation Philosophy and Practical Application, Light control and Elisa delays, and Keyboard vs Voice Input Confusion
 
 📅 **Date**: Saturday, July 25, 2026 (2026-07-25)
-👥 **Attendees**: Andrea (Wife), Andy
-🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
-📊 **Total Plaud Conversations Processed**: **0**
-📊 **Total Bee Conversations Processed**: **0**
+👥 **Attendees**: Andrea (Wife), Andy, Kiera (Andy's Daughter)
+🎙️ **Primary Data Source**: **Bee Secondary Backup Ambient Recordings** (Plaud Files Pending Sync)
+📊 **Plaud Sessions Processed (PRIMARY)**: **0**
+📊 **Bee Sessions Processed (SECONDARY BACKUP)**: **0**
 
-### ⚠️ Pipeline Status & Data Ingestion Warnings
-- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
+### ⚙️ Pipeline Status & Data Ingestion Log
+- ⚡ **Plaud Direct Ingest**: ✅ **Active** (0 Cloud Minutes Spent, 0 Phone Taps Needed)
+- 🎙️ **Local Whisper AI Transcripts**: ✅ **Active**
+- 🐝 **Bee Secondary Backup**: ✅ **Active** (Gap-Filling Only)
+- 📧 **Gmail & Financial Ingest**: ✅ **Active**
+- 📅 **Google Calendar**: ✅ **Active**
+- ⚠️ **0 Plaud Primary Sessions Found**: Report generated using secondary Bee backup.
 
 ---
 
@@ -131,11 +136,11 @@ tags:
 - **Satellite Trucks, Buddhist Teachings, Ontario (3:57 PM – 4:34 PM)**: Andy engaged in a multi-layered day involving spiritual practice, digital organization, and media consumption. He spent time explaining Buddhist philosophy to companions, specifically clarifying that prostration is an...
 
 ### 🌙 Evening Session (5:01 PM – 11:00 PM)
-- **Conversation covering multiple topics (4:42 PM – 5:03 PM)**: Andy was in a vehicle with a companion, navigating through what appears to be a North Bay route while listening to various ambient media content. The conversation focused on finding efficient travel routes, with Andy ...
+- **Conversation covering multiple topics (4:42 PM – 5:03 PM)**: Andy was in a vehicle with Andrea, navigating through what appears to be a North Bay route while listening to various ambient media content. The conversation focused on finding efficient travel routes, with Andy ...
 - **Moving and therapy discussion (5:06 PM – 5:18 PM)**: Andy was engaged in a casual conversation while traveling with Andrea and others, discussing various topics including therapy appointments, navigation directions, weather conditions, and local references. The group ap...
 - **Emergency preparedness and response discussion (5:24 PM – 6:11 PM)**: Andy engaged in multiple conversations during what appears to be a social gathering or community event. Key topics included mobility discussions where someone shared they'd recently started using a cane after a leg in...
 - **Community adventure planning session (9:00 PM – 9:12 PM)**: Andy engaged in an extensive social conversation with friends covering work challenges, recent travel experiences, and future group expedition planning. The discussion included workplace conflicts with a difficult bos...
-- **Driving and Visiting Andy (9:17 PM – 9:30 PM)**: Andy engaged in a meaningful conversation with a companion, sharing personal stories about helping someone in recovery who had lost their driver's license. Andy provided transportation by driving the person's car, pic...
+- **Driving and Visiting Andy (9:17 PM – 9:30 PM)**: Andy engaged in a meaningful conversation with Andrea, sharing personal stories about helping someone in recovery who had lost their driver's license. Andy provided transportation by driving the person's car, pic...
 - **Setting Up Home Weather Station (9:33 PM – 9:55 PM)**: Andy had a casual evening conversation with a household member, likely Andrea, discussing a mix of media content and household projects. The conversation covered recognition of movie content, Andy's drum performance f...
 - **Home Control, Distance, and Flirt (9:55 PM – 10:09 PM)**: This appears to be a brief, casual conversation involving Andy and at least one other person (likely Andrea, given the domestic context and personal nature of the comments). The discussion involves some kind of task o...
 - **House cooling system adjustment (10:16 PM – 10:23 PM)**: Andy was actively managing his home's temperature during this conversation, adjusting window and fan configurations to cool down the house. He has a temperature gauge positioned outside near his plants, and during the...
@@ -219,7 +224,7 @@ Andy engaged in a multi-layered day involving spiritual practice, digital organi
 
 ### 🌙 Evening Session (5:01 PM – 11:00 PM)
 #### Conversation covering multiple topics (4:42 PM – 5:03 PM)
-Andy was in a vehicle with a companion, navigating through what appears to be a North Bay route while listening to various ambient media content. The conversation focused on finding efficient travel routes, with Andy considering options related to College of Marin. Background audio included a coffee shop menu listing drinks and motivational content about "new beginnings." Andy was looking for ways to shorten the journey while being aware of local route changes.
+Andy was in a vehicle with Andrea, navigating through what appears to be a North Bay route while listening to various ambient media content. The conversation focused on finding efficient travel routes, with Andy considering options related to College of Marin. Background audio included a coffee shop menu listing drinks and motivational content about "new beginnings." Andy was looking for ways to shorten the journey while being aware of local route changes.
 
 #### Moving and therapy discussion (5:06 PM – 5:18 PM)
 Andy was engaged in a casual conversation while traveling with Andrea and others, discussing various topics including therapy appointments, navigation directions, weather conditions, and local references. The group appeared to be driving or in transit, with Andy asking for directions and mentioning unfamiliarity with the northward freeway route. There was discussion about physical therapy treatment for someone's leg injury, and casual references to Oakland police ("popo") based on Andy's previous city employment experience.
@@ -241,7 +246,7 @@ Other topics included meditation practices, with someone offering to help him se
 Andy engaged in an extensive social conversation with friends covering work challenges, recent travel experiences, and future group expedition planning. The discussion included workplace conflicts with a difficult boss, detailed accounts of a witnessed boat sinking incident, and planning for a spiritual/educational journey involving Native American traditions in the Mono Lake area.
 
 #### Driving and Visiting Andy (9:17 PM – 9:30 PM)
-Andy engaged in a meaningful conversation with a companion, sharing personal stories about helping someone in recovery who had lost their driver's license. Andy provided transportation by driving the person's car, picking them up for meetings, and dropping them off at the Larkspur ferry terminal for work commutes to San Francisco. The conversation included memories of routine McDonald's breakfast stops during northbound trips and discussions about wedding locations at Elamita Del Prado. The interaction concluded with warm farewells and expressions of mutual care between Andy and his companion.
+Andy engaged in a meaningful conversation with Andrea, sharing personal stories about helping someone in recovery who had lost their driver's license. Andy provided transportation by driving the person's car, picking them up for meetings, and dropping them off at the Larkspur ferry terminal for work commutes to San Francisco. The conversation included memories of routine McDonald's breakfast stops during northbound trips and discussions about wedding locations at Elamita Del Prado. The interaction concluded with warm farewells and expressions of mutual care between Andy and his companion.
 
 #### Setting Up Home Weather Station (9:33 PM – 9:55 PM)
 Andy had a casual evening conversation with a household member, likely Andrea, discussing a mix of media content and household projects. The conversation covered recognition of movie content, Andy's drum performance from earlier in the evening, and practical setup of a new weather monitoring device. Andy explained the features of a digital temperature/humidity gauge with weather forecasting capabilities that was being installed in their home. The discussion included positioning various household items and the functionality of the device's sensors and automated features.
@@ -385,13 +390,13 @@ Andy was actively managing his home's temperature during this conversation, adju
 
 ## 📻 Miscellaneous Media & References Encountered
 ### Music & Audio
-- *No specific music playback recorded today.*
+{{MUSIC_MEDIA}}
 
 ### Film, Video & TV Shows
-- *No specific film/TV viewing recorded today.*
+{{FILM_MEDIA}}
 
 ### News & Current Events
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-27 06:30:43*
+*Report automatically generated on 2026-08-29 06:27:26*

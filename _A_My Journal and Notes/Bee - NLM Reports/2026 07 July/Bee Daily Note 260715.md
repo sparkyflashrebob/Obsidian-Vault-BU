@@ -28,12 +28,17 @@ tags:
 
 📅 **Date**: Wednesday, July 15, 2026 (2026-07-15)
 👥 **Attendees**: Andrea (Wife), Andy
-🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
-📊 **Total Plaud Conversations Processed**: **0**
-📊 **Total Bee Conversations Processed**: **0**
+🎙️ **Primary Data Source**: **Bee Secondary Backup Ambient Recordings** (Plaud Files Pending Sync)
+📊 **Plaud Sessions Processed (PRIMARY)**: **0**
+📊 **Bee Sessions Processed (SECONDARY BACKUP)**: **0**
 
-### ⚠️ Pipeline Status & Data Ingestion Warnings
-- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
+### ⚙️ Pipeline Status & Data Ingestion Log
+- ⚡ **Plaud Direct Ingest**: ✅ **Active** (0 Cloud Minutes Spent, 0 Phone Taps Needed)
+- 🎙️ **Local Whisper AI Transcripts**: ✅ **Active**
+- 🐝 **Bee Secondary Backup**: ✅ **Active** (Gap-Filling Only)
+- 📧 **Gmail & Financial Ingest**: ✅ **Active**
+- 📅 **Google Calendar**: ✅ **Active**
+- ⚠️ **0 Plaud Primary Sessions Found**: Report generated using secondary Bee backup.
 
 ---
 
@@ -67,7 +72,7 @@ tags:
 - **To**: `Will Meecham <willspirit@icloud.com>` | **Subject**: Re: Club (4:21 PM)
   *Summary*: "Will, Looks we got enough people that me, so thank you. Please see the attached. On Wed, Jul 15, 2026 at 12:25 PM Andy McGuire &lt;sparkyflashrebob@gmail.com&gt; wrote: C..."
 
-- **To**: `Bob McConnell <bob@contact-mgt.com>, Peter King <peterhking@outlook.com>, Will Meecham <willspirit@icloud.com>, Kevin Jensen-Unger <kevinunger321@gmail.com>, Bill Vela <velalawoffice@gmail.com>, John Benet <red415@gmail.com>, Kiera McGuire <kmcguire4638@gmail.com>, Audel Salazar <audel.a.salazar@gmail.com>, Edwynen Nazarian <Edwynen@comcast.net>, Matt Ford <Chaotzutbp@yahoo.com>, Colette Sweeny <colettesweeny@icloud.com>, Andrea Axtell <dragonflylodge.aa@gmail.com>, Debra Jensen-Unger <djensenunger@gmail.com>, Nick Franklin <nickfranklin23@gmail.com>, Hugh Bricarelli <hughb80@gmail.com>, Georgie Rayner <georgiekat@comcast.net>` | **Subject**: Living Mindfully ESCOM Club Member Application Support (1:11 PM)
+- **To**: `Bob McConnell <bob@contact-mgt.com>, Peter King <peterhking@outlook.com>, Will Meecham <willspirit@icloud.com>, Kevin Jensen-Unger <kevinunger321@gmail.com>, Bill Vela <velalawoffice@gmail.com>, John Benet <red415@gmail.com>, Kiera McGuire <kmcguire4638@gmail.com>, AI Assistant Salazar <audel.a.salazar@gmail.com>, Edwynen Nazarian <Edwynen@comcast.net>, Matt Ford <Chaotzutbp@yahoo.com>, Colette Sweeny <colettesweeny@icloud.com>, Andrea Axtell <dragonflylodge.aa@gmail.com>, Debra Jensen-Unger <djensenunger@gmail.com>, Nick Franklin <nickfranklin23@gmail.com>, Hugh Bricarelli <hughb80@gmail.com>, Georgie Rayner <georgiekat@comcast.net>` | **Subject**: Living Mindfully ESCOM Club Member Application Support (1:11 PM)
   *Summary*: "Hello Friends, I am applying to start a mindfulness meditation club at the College of Marin called Living Mindfully. The club will offer an in-person space for group meditation and..."
 
 - **To**: `Will Meecham <willspirit@icloud.com>` | **Subject**: Re: Club (12:25 PM)
@@ -369,13 +374,13 @@ Andy spent the day focused on establishing a meditation group at College of Mari
 
 ## 📻 Miscellaneous Media & References Encountered
 ### Music & Audio
-- *No specific music playback recorded today.*
+{{MUSIC_MEDIA}}
 
 ### Film, Video & TV Shows
-- *No specific film/TV viewing recorded today.*
+{{FILM_MEDIA}}
 
 ### News & Current Events
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-27 06:28:43*
+*Report automatically generated on 2026-08-29 06:25:56*

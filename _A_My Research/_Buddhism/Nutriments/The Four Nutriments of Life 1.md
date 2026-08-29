@@ -1,7 +1,7 @@
 ---
 tag: nutriments, dharma
 website: https://www.accesstoinsight.org/lib/authors/nyanaponika/wheel105.html
-Created: 2023-10-14
+Created: 2024-07-21
 ---
 "All beings subsist on nutriment"
 According to the Buddha, this one single fact about life deserves to be remembered, contemplated, and understood.

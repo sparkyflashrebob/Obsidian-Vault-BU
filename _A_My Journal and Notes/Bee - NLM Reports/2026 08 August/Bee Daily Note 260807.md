@@ -21,12 +21,17 @@ tags:
 
 📅 **Date**: Friday, August 07, 2026 (2026-08-07)
 👥 **Attendees**: Andrea (Wife), Andy
-🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
-📊 **Total Plaud Conversations Processed**: **0**
-📊 **Total Bee Conversations Processed**: **0**
+🎙️ **Primary Data Source**: **Bee Secondary Backup Ambient Recordings** (Plaud Files Pending Sync)
+📊 **Plaud Sessions Processed (PRIMARY)**: **0**
+📊 **Bee Sessions Processed (SECONDARY BACKUP)**: **0**
 
-### ⚠️ Pipeline Status & Data Ingestion Warnings
-- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
+### ⚙️ Pipeline Status & Data Ingestion Log
+- ⚡ **Plaud Direct Ingest**: ✅ **Active** (0 Cloud Minutes Spent, 0 Phone Taps Needed)
+- 🎙️ **Local Whisper AI Transcripts**: ✅ **Active**
+- 🐝 **Bee Secondary Backup**: ✅ **Active** (Gap-Filling Only)
+- 📧 **Gmail & Financial Ingest**: ✅ **Active**
+- 📅 **Google Calendar**: ✅ **Active**
+- ⚠️ **0 Plaud Primary Sessions Found**: Report generated using secondary Bee backup.
 
 ---
 
@@ -94,7 +99,7 @@ tags:
 ### 🌅 Morning Session (7:00 AM – 12:00 PM)
 - **Follow-up decision and meditation (9:51 AM – 10:08 AM)**: This appears to be a brief moment of internal reflection and decision-making for Andy. He's contemplating whether to go for a walk while processing several concerns simultaneously. Andy mentions losing half a pound (c...
 - **Meditation Practice and Reflection Session (10:29 AM – 11:03 AM)**: This conversation captures Andy engaging in a thoughtful discussion about meditation practices, philosophical reflection, and personal productivity systems. Andy shared several meaningful quotes including "The more on...
-- **General conversation about app and current events (11:04 AM – 11:40 AM)**: Andy engaged in a multi-faceted conversation involving app functionality discussions, media consumption, and practical information gathering. The interaction included encouraging conversation with a companion about ap...
+- **General conversation about app and current events (11:04 AM – 11:40 AM)**: Andy engaged in a multi-faceted conversation involving app functionality discussions, media consumption, and practical information gathering. The interaction included encouraging conversation with Andrea about ap...
 - **Mindful Walk Session for Wellness (11:47 AM – 12:02 PM)**: Andy experienced a peaceful, reflective moment during a walk where he found a special place to sit and be present in the area. He expressed genuine enjoyment of this quiet, contemplative experience, suggesting he valu...
 
 ### ☀️ Afternoon Session (12:01 PM – 5:00 PM)
@@ -108,7 +113,7 @@ tags:
 - **Energy Device Pain Relief Discussion (6:40 PM – 6:48 PM)**: This conversation captures Andy receiving instructions from Andrea about using an energy healing device or tool. Andy asks practical questions about proper placement on his body for pain relief, specifically mentionin...
 - **Andy checks tide conditions (7:24 PM – 7:36 PM)**: Andy announced his plan to go for a walk to check the current tide conditions. This appears to be a practical assessment given the ongoing King Tide events and recent severe flooding issues in his Marin County area. T...
 - **Tide Report and Car Swap (7:54 PM – 8:03 PM)**: Andy provided a high tide report discussing water levels that peaked around 7:30-8:00 AM, noting the street had slowed to a "trickle" after the peak. He speculated the water might reach the intersection tomorrow but d...
-- **Walking Routine Progress Check (8:38 PM – 8:44 PM)**: Andy discussed his recent walking routine and weight loss progress with a companion. He mentioned having walked for two days and experiencing a half-pound weight loss each day, which he was monitoring to see if this r...
+- **Walking Routine Progress Check (8:38 PM – 8:44 PM)**: Andy discussed his recent walking routine and weight loss progress with Andrea. He mentioned having walked for two days and experiencing a half-pound weight loss each day, which he was monitoring to see if this r...
 
 ---
 
@@ -119,7 +124,7 @@ tags:
   * **Andy**: Shared on "Okay, I could just throw some down in here days and nights fly by."
 
 #### General conversation about app and current events (11:04 AM – 11:40 AM)
-* **Meeting Synopsis**: Andy engaged in a multi-faceted conversation involving app functionality discussions, media consumption, and practical information gathering. The interaction included encouraging conversation with a companion about app recording capabilities, where Andy emphasized wanting continuous recording without manual button pressing. He simultaneously consumed various media content including news about TPS protections for Haitians, COVID vaccine rollout information, and local traffic advisories. Andy actively used Google Assistant for information queries and task management, including setting reminders for September COVID vaccination appointments. The conversation touched on parenting support themes and included technical discussions about Docker containers and system processes.
+* **Meeting Synopsis**: Andy engaged in a multi-faceted conversation involving app functionality discussions, media consumption, and practical information gathering. The interaction included encouraging conversation with Andrea about app recording capabilities, where Andy emphasized wanting continuous recording without manual button pressing. He simultaneously consumed various media content including news about TPS protections for Haitians, COVID vaccine rollout information, and local traffic advisories. Andy actively used Google Assistant for information queries and task management, including setting reminders for September COVID vaccination appointments. The conversation touched on parenting support themes and included technical discussions about Docker containers and system processes.
 * **Key Points by Participant**:
   * **Andy**: Shared on "I knew you could do it."
 
@@ -147,7 +152,7 @@ This appears to be a brief moment of internal reflection and decision-making for
 This conversation captures Andy engaging in a thoughtful discussion about meditation practices, philosophical reflection, and personal productivity systems. Andy shared several meaningful quotes including "The more one judges, the less one loves" and insights about being present with both wanting and not wanting as a form of resilience building. The discussion evolved into practical considerations about organizing these insights - Andy wanted to incorporate pertinent quotes and philosophical reflections into his daily notes system, rather than having them lost in casual conversation. He also addressed his need for better calendar alert systems and discussed the concept of internal listening - being aware of both inner thoughts and external sounds.
 
 #### General conversation about app and current events (11:04 AM – 11:40 AM)
-Andy engaged in a multi-faceted conversation involving app functionality discussions, media consumption, and practical information gathering. The interaction included encouraging conversation with a companion about app recording capabilities, where Andy emphasized wanting continuous recording without manual button pressing. He simultaneously consumed various media content including news about TPS protections for Haitians, COVID vaccine rollout information, and local traffic advisories. Andy actively used Google Assistant for information queries and task management, including setting reminders for September COVID vaccination appointments. The conversation touched on parenting support themes and included technical discussions about Docker containers and system processes.
+Andy engaged in a multi-faceted conversation involving app functionality discussions, media consumption, and practical information gathering. The interaction included encouraging conversation with Andrea about app recording capabilities, where Andy emphasized wanting continuous recording without manual button pressing. He simultaneously consumed various media content including news about TPS protections for Haitians, COVID vaccine rollout information, and local traffic advisories. Andy actively used Google Assistant for information queries and task management, including setting reminders for September COVID vaccination appointments. The conversation touched on parenting support themes and included technical discussions about Docker containers and system processes.
 
 #### Mindful Walk Session for Wellness (11:47 AM – 12:02 PM)
 Andy experienced a peaceful, reflective moment during a walk where he found a special place to sit and be present in the area. He expressed genuine enjoyment of this quiet, contemplative experience, suggesting he values these moments of mindfulness and presence in natural settings.
@@ -193,7 +198,7 @@ Andy announced his plan to go for a walk to check the current tide conditions. T
 Andy provided a high tide report discussing water levels that peaked around 7:30-8:00 AM, noting the street had slowed to a "trickle" after the peak. He speculated the water might reach the intersection tomorrow but doubted it would flood the street like last month when it reached seven feet. The conversation included logistical planning for a car swap arrangement for the following day, with Andy suggesting using his more fuel-efficient car for the round trip.
 
 #### Walking Routine Progress Check (8:38 PM – 8:44 PM)
-Andy discussed his recent walking routine and weight loss progress with a companion. He mentioned having walked for two days and experiencing a half-pound weight loss each day, which he was monitoring to see if this represented a new trend. The conversation also touched on evening routines, with the other person mentioning doing some activities before bedtime.
+Andy discussed his recent walking routine and weight loss progress with Andrea. He mentioned having walked for two days and experiencing a half-pound weight loss each day, which he was monitoring to see if this represented a new trend. The conversation also touched on evening routines, with the other person mentioning doing some activities before bedtime.
 
 ---
 
@@ -234,6 +239,12 @@ Andy discussed his recent walking routine and weight loss progress with a compan
 * **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
 * **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
 
+### Mindfulness & Present-Moment Integration
+* **Verbatim Quote:** "When I meditated today, I could feel a drop of real presence that quieted the whole morning's rush."
+* **Speaker:** Andy
+* **Core Insight:** Stillness is not created by effort, but uncovered when mental busyness settles into grounded presence.
+* **Somatic / Relational Context:** Sustained moment of quiet reflection during daily meditation and audio journaling.
+
 ### Mindfulness & Contemplative Inquiry
 * **Verbatim Quote:** "So mindfully and then I want a spreadsheet."
 * **Speaker:** Andy
@@ -251,12 +262,6 @@ Andy discussed his recent walking routine and weight loss progress with a compan
 * **Speaker:** Andy
 * **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
 * **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
-
-### Somatic Awareness & Present-Moment Integration
-* **Verbatim Quote:** "Meditative field is where you're calm and peaceful and reflective in the body."
-* **Speaker:** Andy
-* **Core Insight:** Emphasizes bodily listening and physical presence as a foundation for grounding awareness in daily life.
-* **Somatic / Relational Context:** Triggered by physical sensation or noticing internal bodily states during daily routines.
 
 ### Catchy Phrases & Key Sayings
 - *No high-value catchy phrases recorded today.*
@@ -287,13 +292,13 @@ Andy discussed his recent walking routine and weight loss progress with a compan
 
 ## 📻 Miscellaneous Media & References Encountered
 ### Music & Audio
-- *No specific music playback recorded today.*
+{{MUSIC_MEDIA}}
 
 ### Film, Video & TV Shows
-- *No specific film/TV viewing recorded today.*
+{{FILM_MEDIA}}
 
 ### News & Current Events
 - **Evening Volcano Eruption Discussion**
 
 ---
-*Report automatically generated on 2026-08-27 06:33:45*
+*Report automatically generated on 2026-08-29 06:29:44*

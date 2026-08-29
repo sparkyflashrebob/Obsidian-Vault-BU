@@ -21,12 +21,17 @@ tags:
 
 📅 **Date**: Sunday, August 02, 2026 (2026-08-02)
 👥 **Attendees**: Andrea (Wife), Andy
-🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
-📊 **Total Plaud Conversations Processed**: **0**
-📊 **Total Bee Conversations Processed**: **0**
+🎙️ **Primary Data Source**: **Bee Secondary Backup Ambient Recordings** (Plaud Files Pending Sync)
+📊 **Plaud Sessions Processed (PRIMARY)**: **0**
+📊 **Bee Sessions Processed (SECONDARY BACKUP)**: **0**
 
-### ⚠️ Pipeline Status & Data Ingestion Warnings
-- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
+### ⚙️ Pipeline Status & Data Ingestion Log
+- ⚡ **Plaud Direct Ingest**: ✅ **Active** (0 Cloud Minutes Spent, 0 Phone Taps Needed)
+- 🎙️ **Local Whisper AI Transcripts**: ✅ **Active**
+- 🐝 **Bee Secondary Backup**: ✅ **Active** (Gap-Filling Only)
+- 📧 **Gmail & Financial Ingest**: ✅ **Active**
+- 📅 **Google Calendar**: ✅ **Active**
+- ⚠️ **0 Plaud Primary Sessions Found**: Report generated using secondary Bee backup.
 
 ---
 
@@ -83,7 +88,7 @@ tags:
 >   - Monday Schedule: 7:00 free writing, 7:15 brief talk, 7:30 sitting, 7:55 visiting.
 > - Your Amazon order for a skincare item is estimated to arrive by Mon, Aug 3 [🔗 View order](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1871375578408725412) [📅 Add Reminder](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Delivery%3A+Amazon+skincare+item&dates=20260803T100000%2F20260803T101500&ctz=America%2FLos_Angeles&details=Order+%23112-1564847-9504205.+View+order%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19f8762c7064aba4&location=Larkspur%2C+CA&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com)
 >   - Order #112-1564847-9504205 was placed on July 21st for $8.71.
-> - Mon, Aug 3 • 6:30 PM • Audel & Andy SDRT (1h) with Audel Salazar via [✨ Google Meet](https://meet.google.com/ytq-jeoq-umi) [📅 View event](https://www.google.com/calendar/event?eid=aGNhZ3A5cHIyZGZhZjlrNGl2cXU5cDhyajZfMjAyNjA4MDRUMDEzMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0)
+> - Mon, Aug 3 • 6:30 PM • AI Assistant & Andy SDRT (1h) with AI Assistant Salazar via [✨ Google Meet](https://meet.google.com/ytq-jeoq-umi) [📅 View event](https://www.google.com/calendar/event?eid=aGNhZ3A5cHIyZGZhZjlrNGl2cXU5cDhyajZfMjAyNjA4MDRUMDEzMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0)
 > - Sat, Aug 8 • 5:00 PM • Zen Life Creative Residency Offering (1h 30m) featuring hybrid Dharma offerings [🔗 View details](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1869723673252275664) [📅 Add Event](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Zen+Life+Creative+Residency+Offering&dates=20260808T170000%2F20260808T183000&ctz=America%2FLos_Angeles&details=Hybrid+Dharma+offerings.+View+details%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19f297c64c5725d0&location=Zen+Life+%26+Meditation+Center+%2F+Zoom&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com)
 >   - This is a hybrid event available at the Zen Life & Meditation Center and via Zoom.
 > - Sun, Aug 9 • 8:00 AM • Sunday Morning Zen (1h) hosted by Zen Life & Meditation Center [🔗 View details](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1869723673252275664) [📅 Add Event](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sunday+Morning+Zen&dates=20260809T080000%2F20260809T090000&ctz=America%2FLos_Angeles&details=Free+program+exploring+Buddha+Dharma.+View+details%3A+https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%2F19f297c64c5725d0&location=Zen+Life+%26+Meditation+Center&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com)
@@ -103,7 +108,7 @@ tags:
 
 ## 💡 Key Points, Subjects and Themes
 ### 🌅 Morning Session (7:00 AM – 12:00 PM)
-- **Meditation and app performance issues (9:15 AM – 9:28 AM)**: Andy engaged in a meditation practice discussion with a companion, sharing insights about his contemplative experience and technique. He described a progression from simply being present with whatever arose to achievi...
+- **Meditation and app performance issues (9:15 AM – 9:28 AM)**: Andy engaged in a meditation practice discussion with Andrea, sharing insights about his contemplative experience and technique. He described a progression from simply being present with whatever arose to achievi...
 - **Budgeting, errands, and groceries (9:34 AM – 9:51 AM)**: Andy is conducting his morning routine, providing a detailed breakdown of his monthly budget totaling approximately $5,775. He specifically mentions rent at $5,275.27, utilities (PGE $150), insurance ($75), food ($1,0...
 - **Animal realm Buddhist teachings summary (10:52 AM – 11:02 AM)**: Andy is engaged in focused philosophical study and preparation, specifically exploring Buddhist teachings about the animal realm and concepts of rebirth. He is working to understand and distill complex Buddhist cosmol...
 
@@ -147,7 +152,7 @@ tags:
 #### Meditation and app performance issues — 📍 930AM Meeting (9:15 AM – 9:28 AM)
 *Context / Event Alignment*: Overlaps with scheduled Calendar event **930AM Meeting**.
 
-Andy engaged in a meditation practice discussion with a companion, sharing insights about his contemplative experience and technique. He described a progression from simply being present with whatever arose to achieving a deeper meditative state, then transitioning to mindfulness of breath and body awareness when mental content subsided. There was also some domestic interaction - Andy accidentally opened one of Andrea's boxes, mistaking it for his own. During the same period, technical troubleshooting was occurring involving a slow-performing mobile app, with response times of 5-10 seconds for actions.
+Andy engaged in a meditation practice discussion with Andrea, sharing insights about his contemplative experience and technique. He described a progression from simply being present with whatever arose to achieving a deeper meditative state, then transitioning to mindfulness of breath and body awareness when mental content subsided. There was also some domestic interaction - Andy accidentally opened one of Andrea's boxes, mistaking it for his own. During the same period, technical troubleshooting was occurring involving a slow-performing mobile app, with response times of 5-10 seconds for actions.
 
 #### Budgeting, errands, and groceries — 📍 930AM Meeting (9:34 AM – 9:51 AM)
 *Context / Event Alignment*: Overlaps with scheduled Calendar event **930AM Meeting**.
@@ -247,17 +252,17 @@ Andy engaged in a brief conversation discussing physical discomfort, particularl
 * **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
 * **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
 
+### Mindfulness & Present-Moment Integration
+* **Verbatim Quote:** "When I meditated today, I could feel a drop of real presence that quieted the whole morning's rush."
+* **Speaker:** Andy
+* **Core Insight:** Stillness is not created by effort, but uncovered when mental busyness settles into grounded presence.
+* **Somatic / Relational Context:** Sustained moment of quiet reflection during daily meditation and audio journaling.
+
 ### Mindfulness & Contemplative Inquiry
 * **Verbatim Quote:** "It was a nice meditation, though, really."
 * **Speaker:** Andy
 * **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
 * **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
-
-### Spirituality, Impermanence & Interconnection
-* **Verbatim Quote:** "Right now, a massive wildfire spirit, Washington, and thousands of families are made."
-* **Speaker:** Andy
-* **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
-* **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
 
 ### Catchy Phrases & Key Sayings
 * **"Second Arrow Concept"** — 1 occurrence — *Context:* Buddhist psychological metaphor for secondary emotional reactivity.
@@ -313,13 +318,13 @@ Andy engaged in a brief conversation discussing physical discomfort, particularl
 
 ## 📻 Miscellaneous Media & References Encountered
 ### Music & Audio
-- *No specific music playback recorded today.*
+{{MUSIC_MEDIA}}
 
 ### Film, Video & TV Shows
-- *No specific film/TV viewing recorded today.*
+{{FILM_MEDIA}}
 
 ### News & Current Events
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-27 06:32:39*
+*Report automatically generated on 2026-08-29 06:28:55*

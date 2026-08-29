@@ -1,6 +1,6 @@
 ---
 tag: mettasutta, chanting, dharma
-Created: 2023-10-14
+Created: 2024-07-21
 ---
 [This is what should be done] 
 By one who is skilled in goodness 

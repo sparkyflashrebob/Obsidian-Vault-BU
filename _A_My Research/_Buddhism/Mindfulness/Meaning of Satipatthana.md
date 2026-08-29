@@ -1,6 +1,6 @@
 ---
 tag: dharma, sati, mindfulness, memory
-Created: 2023-10-14
+Created: 2024-07-21
 ---
 136 
 The word satipaṭṭhāna is a compound term. The first part, sati, originally meant “memory,” but in Pali Buddhist usage it far more frequently bears the meaning of attentiveness directed to the present — hence the makeshift rendering “mindfulness.” 

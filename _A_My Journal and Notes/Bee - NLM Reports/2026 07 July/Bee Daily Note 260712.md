@@ -21,12 +21,17 @@ tags:
 
 📅 **Date**: Sunday, July 12, 2026 (2026-07-12)
 👥 **Attendees**: Andrea (Wife), Andy
-🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
-📊 **Total Plaud Conversations Processed**: **0**
-📊 **Total Bee Conversations Processed**: **0**
+🎙️ **Primary Data Source**: **Bee Secondary Backup Ambient Recordings** (Plaud Files Pending Sync)
+📊 **Plaud Sessions Processed (PRIMARY)**: **0**
+📊 **Bee Sessions Processed (SECONDARY BACKUP)**: **0**
 
-### ⚠️ Pipeline Status & Data Ingestion Warnings
-- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
+### ⚙️ Pipeline Status & Data Ingestion Log
+- ⚡ **Plaud Direct Ingest**: ✅ **Active** (0 Cloud Minutes Spent, 0 Phone Taps Needed)
+- 🎙️ **Local Whisper AI Transcripts**: ✅ **Active**
+- 🐝 **Bee Secondary Backup**: ✅ **Active** (Gap-Filling Only)
+- 📧 **Gmail & Financial Ingest**: ✅ **Active**
+- 📅 **Google Calendar**: ✅ **Active**
+- ⚠️ **0 Plaud Primary Sessions Found**: Report generated using secondary Bee backup.
 
 ---
 
@@ -48,7 +53,7 @@ tags:
 - *No automated financial balance alert emails received yet today.*
 
 ### ✉️ Outgoing Sent Emails & Correspondence
-- **To**: `Bob McConnell <bob@contact-mgt.com>, Peter King <peterhking@outlook.com>, Will Meecham <willspirit@icloud.com>, Kevin Jensen-Unger <kevinunger321@gmail.com>, Bill Vela <velalawoffice@gmail.com>, John Benet <red415@gmail.com>, Kiera McGuire <kmcguire4638@gmail.com>, Audel Salazar <audel.a.salazar@gmail.com>, Edwynen Nazarian <Edwynen@comcast.net>, Matt Ford <Chaotzutbp@yahoo.com>, Colette Sweeny <colettesweeny@icloud.com>, Andrea Axtell <dragonflylodge.aa@gmail.com>, Debra Jensen-Unger <djensenunger@gmail.com>, Nick Franklin <nickfranklin23@gmail.com>, Hugh Bricarelli <hughb80@gmail.com>, Georgie Rayner <georgiekat@comcast.net>` | **Subject**: Living Mindfully Meditation (10:38 AM)
+- **To**: `Bob McConnell <bob@contact-mgt.com>, Peter King <peterhking@outlook.com>, Will Meecham <willspirit@icloud.com>, Kevin Jensen-Unger <kevinunger321@gmail.com>, Bill Vela <velalawoffice@gmail.com>, John Benet <red415@gmail.com>, Kiera McGuire <kmcguire4638@gmail.com>, AI Assistant Salazar <audel.a.salazar@gmail.com>, Edwynen Nazarian <Edwynen@comcast.net>, Matt Ford <Chaotzutbp@yahoo.com>, Colette Sweeny <colettesweeny@icloud.com>, Andrea Axtell <dragonflylodge.aa@gmail.com>, Debra Jensen-Unger <djensenunger@gmail.com>, Nick Franklin <nickfranklin23@gmail.com>, Hugh Bricarelli <hughb80@gmail.com>, Georgie Rayner <georgiekat@comcast.net>` | **Subject**: Living Mindfully Meditation (10:38 AM)
   *Summary*: "Hello , Following up on my last email about living mindfully. Interest in the Living Mindfully Council session was nonexistent, so I have decided to move forward with the meditatio..."
 
 ---
@@ -223,13 +228,13 @@ Andy was engaged in an interactive conversation where he observed gauges on what
 
 ## 📻 Miscellaneous Media & References Encountered
 ### Music & Audio
-- *No specific music playback recorded today.*
+{{MUSIC_MEDIA}}
 
 ### Film, Video & TV Shows
-- **Golden State Warriors & Don Nelson Tribute**: Basketball media commentary ("We Believe" era)
+{{FILM_MEDIA}}
 
 ### News & Current Events
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-27 06:27:55*
+*Report automatically generated on 2026-08-29 06:25:17*

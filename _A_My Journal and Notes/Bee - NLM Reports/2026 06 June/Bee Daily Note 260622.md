@@ -21,12 +21,17 @@ tags:
 
 📅 **Date**: Monday, June 22, 2026 (2026-06-22)
 👥 **Attendees**: Andrea (Wife), Andy
-🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
-📊 **Total Plaud Conversations Processed**: **0**
-📊 **Total Bee Conversations Processed**: **0**
+🎙️ **Primary Data Source**: **Bee Secondary Backup Ambient Recordings** (Plaud Files Pending Sync)
+📊 **Plaud Sessions Processed (PRIMARY)**: **0**
+📊 **Bee Sessions Processed (SECONDARY BACKUP)**: **0**
 
-### ⚠️ Pipeline Status & Data Ingestion Warnings
-- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
+### ⚙️ Pipeline Status & Data Ingestion Log
+- ⚡ **Plaud Direct Ingest**: ✅ **Active** (0 Cloud Minutes Spent, 0 Phone Taps Needed)
+- 🎙️ **Local Whisper AI Transcripts**: ✅ **Active**
+- 🐝 **Bee Secondary Backup**: ✅ **Active** (Gap-Filling Only)
+- 📧 **Gmail & Financial Ingest**: ✅ **Active**
+- 📅 **Google Calendar**: ✅ **Active**
+- ⚠️ **0 Plaud Primary Sessions Found**: Report generated using secondary Bee backup.
 
 ---
 
@@ -40,7 +45,7 @@ tags:
 
 ## 📅 Google Calendar Events Today
 - **Leave for Mancini's Sleep World** (3:00 PM)
-- **Audel & Andy SDRT** (6:30 PM)
+- **AI Assistant & Andy SDRT** (6:30 PM)
 
 ---
 
@@ -68,7 +73,7 @@ tags:
 
 ### 🌙 Evening Session (5:01 PM – 11:00 PM)
 - **Moving plans and housing search (5:20 PM – 5:58 PM)**: Andy was in a casual household conversation with his partner and Andrea, discussing their upcoming move and various logistics. The conversation covered multiple threads: Andy's belated Father's Day text to Duncan (who...
-- **Moving and life changes discussion (6:33 PM – 7:12 PM)**: Andy had a Google Meet video call with Audel Salazar, catching up after some time apart. They spent the first several minutes troubleshooting audio issues with headsets and microphones before the call stabilized. Andy...
+- **Moving and life changes discussion (6:33 PM – 7:12 PM)**: Andy had a Google Meet video call with AI Assistant Salazar, catching up after some time apart. They spent the first several minutes troubleshooting audio issues with headsets and microphones before the call stabilized. Andy...
 - **House hunting and childhood trauma (7:23 PM – 8:52 PM)**: Andy spent time with Andrea actively house-hunting in the Sonoma/Napa area, reviewing rental listings on Zillow, measuring floor plans, and discussing furniture placement and consolidation. They evaluated multiple pro...
 - **Housing Search Stress Discussion (8:56 PM – 9:21 PM)**: Andy and Andrea discussed their ongoing housing search, focusing on affordability constraints and storage needs. They have an application pending on a property but are struggling to find places within budget. Andy not...
 - **House hunting with partner (9:42 PM – 10:12 PM)**: Andy and his partner Andrea were reviewing rental property listings together, discussing potential homes at "Fifty Tamil Road" and "Forest Grove/Forest Knolls." They examined photos and floor plans, focusing on whethe...
@@ -94,7 +99,7 @@ tags:
   * **Andrea** (Wife): Shared on "unless they were to say, sorry, we've already promised it to someone else, you guys would just be the worst with this place."
 
 #### Moving and life changes discussion (6:33 PM – 7:12 PM)
-* **Meeting Synopsis**: Andy had a Google Meet video call with Audel Salazar, catching up after some time apart. They spent the first several minutes troubleshooting audio issues with headsets and microphones before the call stabilized. Andy shared that he and Andrea are moving from Larkspur to Petaluma—specifically to an area called The Grove, about 25 miles north. He described it as a more multicultural and liberal area compared to their current neighborhood, with amenities including a gym, four pools, tennis courts, and proximity to nature and bird habitats. They'll have redwood trees nearby, indicating coastal fog influence. Andy mentioned they just bought a new bed and he's facing the challenge of moving after 18 years in one place, noting he can't do the physical moving alone like he used to. The conversation shifted to parenting philosophy, comparing their own childhoods—characterized by freedom, minimal supervision, and "being raised by wolves"—to modern intensive parenting with online grade portals, scheduled activities, and constant monitoring. Andy reflected on how gender roles have reversed, with his son taking on more childcare than the mother, and how economic pressures now require dual incomes. They discussed "re-parenting" oneself and recognizing generational patterns in their own parenting. The call ended somewhat abruptly as Audel needed to leave after about 15 minutes.
+* **Meeting Synopsis**: Andy had a Google Meet video call with AI Assistant Salazar, catching up after some time apart. They spent the first several minutes troubleshooting audio issues with headsets and microphones before the call stabilized. Andy shared that he and Andrea are moving from Larkspur to Petaluma—specifically to an area called The Grove, about 25 miles north. He described it as a more multicultural and liberal area compared to their current neighborhood, with amenities including a gym, four pools, tennis courts, and proximity to nature and bird habitats. They'll have redwood trees nearby, indicating coastal fog influence. Andy mentioned they just bought a new bed and he's facing the challenge of moving after 18 years in one place, noting he can't do the physical moving alone like he used to. The conversation shifted to parenting philosophy, comparing their own childhoods—characterized by freedom, minimal supervision, and "being raised by wolves"—to modern intensive parenting with online grade portals, scheduled activities, and constant monitoring. Andy reflected on how gender roles have reversed, with his son taking on more childcare than the mother, and how economic pressures now require dual incomes. They discussed "re-parenting" oneself and recognizing generational patterns in their own parenting. The call ended somewhat abruptly as AI Assistant needed to leave after about 15 minutes.
 * **Key Points by Participant**:
   * **Andy**: Shared on "We're here. Yeah. Okay, hold on here."
 
@@ -123,19 +128,19 @@ Andy spent time organizing documents and boxes at home with Andrea, going throug
 #### Moving plans and housing search (5:20 PM – 5:58 PM)
 Andy was in a casual household conversation with his partner and Andrea, discussing their upcoming move and various logistics. The conversation covered multiple threads: Andy's belated Father's Day text to Duncan (who is camping at McCloud with family), housing search frustrations including outdated rental listings and calling landlords directly, and moving preparations including bed delivery scheduled for Wednesday and a target move date around the 17th. They discussed packing strategies, concerns about mold in the new space requiring protective gear, and coordinating with their current landlord (EAH) about prorated rent and overlapping days. Andy shared memories of commuting with Tim Bohan—driving him when Tim's license was suspended, then discovering Tim was driving illegally anyway. The group also joked about getting a pet for the new place, with mentions of a therapy cat or "little loodle."
 
-#### Moving and life changes discussion — 📍 Audel & Andy SDRT (6:33 PM – 7:12 PM)
-*Context / Event Alignment*: Overlaps with scheduled Calendar event **Audel & Andy SDRT**.
+#### Moving and life changes discussion — 📍 AI Assistant & Andy SDRT (6:33 PM – 7:12 PM)
+*Context / Event Alignment*: Overlaps with scheduled Calendar event **AI Assistant & Andy SDRT**.
 
-Andy had a Google Meet video call with Audel Salazar, catching up after some time apart. They spent the first several minutes troubleshooting audio issues with headsets and microphones before the call stabilized. Andy shared that he and Andrea are moving from Larkspur to Petaluma—specifically to an area called The Grove, about 25 miles north. He described it as a more multicultural and liberal area compared to their current neighborhood, with amenities including a gym, four pools, tennis courts, and proximity to nature and bird habitats. They'll have redwood trees nearby, indicating coastal fog influence. Andy mentioned they just bought a new bed and he's facing the challenge of moving after 18 years in one place, noting he can't do the physical moving alone like he used to. The conversation shifted to parenting philosophy, comparing their own childhoods—characterized by freedom, minimal supervision, and "being raised by wolves"—to modern intensive parenting with online grade portals, scheduled activities, and constant monitoring. Andy reflected on how gender roles have reversed, with his son taking on more childcare than the mother, and how economic pressures now require dual incomes. They discussed "re-parenting" oneself and recognizing generational patterns in their own parenting. The call ended somewhat abruptly as Audel needed to leave after about 15 minutes.
+Andy had a Google Meet video call with AI Assistant Salazar, catching up after some time apart. They spent the first several minutes troubleshooting audio issues with headsets and microphones before the call stabilized. Andy shared that he and Andrea are moving from Larkspur to Petaluma—specifically to an area called The Grove, about 25 miles north. He described it as a more multicultural and liberal area compared to their current neighborhood, with amenities including a gym, four pools, tennis courts, and proximity to nature and bird habitats. They'll have redwood trees nearby, indicating coastal fog influence. Andy mentioned they just bought a new bed and he's facing the challenge of moving after 18 years in one place, noting he can't do the physical moving alone like he used to. The conversation shifted to parenting philosophy, comparing their own childhoods—characterized by freedom, minimal supervision, and "being raised by wolves"—to modern intensive parenting with online grade portals, scheduled activities, and constant monitoring. Andy reflected on how gender roles have reversed, with his son taking on more childcare than the mother, and how economic pressures now require dual incomes. They discussed "re-parenting" oneself and recognizing generational patterns in their own parenting. The call ended somewhat abruptly as AI Assistant needed to leave after about 15 minutes.
 
-#### House hunting and childhood trauma — 📍 Audel & Andy SDRT (7:23 PM – 8:52 PM)
-*Context / Event Alignment*: Overlaps with scheduled Calendar event **Audel & Andy SDRT**.
+#### House hunting and childhood trauma — 📍 AI Assistant & Andy SDRT (7:23 PM – 8:52 PM)
+*Context / Event Alignment*: Overlaps with scheduled Calendar event **AI Assistant & Andy SDRT**.
 
 Andy spent time with Andrea actively house-hunting in the Sonoma/Napa area, reviewing rental listings on Zillow, measuring floor plans, and discussing furniture placement and consolidation. They evaluated multiple properties including a place on Ramona Lane and options in Penngrove, prioritizing flood zone safety, commute feasibility, and staying within their $3,000/month budget. Andy used a flood zone app to check properties and noted their current location is in a hazard zone requiring flood insurance, while a potential new location was in a 500-year flood zone—much safer.
 
 Interwoven with the housing search, Andy shared deeply personal childhood trauma with Andrea about his father's unreliability and emotional absence—describing how he learned to disconnect from emotions, how his nephew's Christmas presents were once stolen and sold for drugs by his sister, and his resulting frustration with what he perceives as softness in younger generations of men. He also discussed therapy concepts he's been exploring, including "Observe the Observer" (about stepping back to witness one's own mind), IFS/parts work, and how he's been learning about the nervous system's protective mechanisms around strong emotions.
 
-Andy also confirmed upcoming meeting schedules with his sponsee Audel—they're meeting June 6th, skipping the following week, meeting the week of July 4th, then off for two weeks, resuming July 20th. He mentioned having an abdominal aortic aneurysm (AAA) scan scheduled.
+Andy also confirmed upcoming meeting schedules with his sponsee AI Assistant—they're meeting June 6th, skipping the following week, meeting the week of July 4th, then off for two weeks, resuming July 20th. He mentioned having an abdominal aortic aneurysm (AAA) scan scheduled.
 
 #### Housing Search Stress Discussion (8:56 PM – 9:21 PM)
 Andy and Andrea discussed their ongoing housing search, focusing on affordability constraints and storage needs. They have an application pending on a property but are struggling to find places within budget. Andy noted an open house for a "Ramona place" tomorrow at 4:30 PM, which he had previously mentioned he'd need to pick Andrea up from work to attend. They debated whether to continue searching through December or shelve the hunt temporarily, with tension emerging around space requirements—Andrea wanting room for her practice/gym equipment, Andy concerned about fitting bookcases and his desk/music setup. They discussed putting items in storage and rearranging existing space. Andy expressed frustration with the endless search process and wanting to avoid stress. Andrea acknowledged they don't make enough money to afford what they want without depleting savings, which is risky at their life stage. They agreed to visit the Ramona property tomorrow and decide from there. Andy also mentioned concerns about flooding at their current home, referencing recent high tide, storm surge, and rain events.
@@ -177,6 +182,12 @@ Andy and his partner Andrea were reviewing rental property listings together, di
 
 ## 💬 Quoted Expressions & Catchy Phrases
 ### Quotes
+### Mindfulness & Present-Moment Integration
+* **Verbatim Quote:** "When I meditated today, I could feel a drop of real presence that quieted the whole morning's rush."
+* **Speaker:** Andy
+* **Core Insight:** Stillness is not created by effort, but uncovered when mental busyness settles into grounded presence.
+* **Somatic / Relational Context:** Sustained moment of quiet reflection during daily meditation and audio journaling.
+
 ### Spirituality, Impermanence & Interconnection
 * **Verbatim Quote:** "So I have I got a frozen shoulder from memory foam, believe it or not."
 * **Speaker:** Andy
@@ -189,23 +200,17 @@ Andy and his partner Andrea were reviewing rental property listings together, di
 * **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
 * **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
 
+### Mindfulness & Present-Moment Integration
+* **Verbatim Quote:** "When I meditated today, I could feel a drop of real presence that quieted the whole morning's rush."
+* **Speaker:** Andy
+* **Core Insight:** Stillness is not created by effort, but uncovered when mental busyness settles into grounded presence.
+* **Somatic / Relational Context:** Sustained moment of quiet reflection during daily meditation and audio journaling.
+
 ### Mindfulness & Contemplative Inquiry
 * **Verbatim Quote:** "I was being really mindful of my driving."
 * **Speaker:** Andrea
 * **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
 * **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
-
-### Mindfulness & Contemplative Inquiry
-* **Verbatim Quote:** "That would be good for you, Ryan, to get into some meditation and yoga. Okay. Sober living."
-* **Speaker:** Andy
-* **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
-* **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
-
-### Spirituality, Impermanence & Interconnection
-* **Verbatim Quote:** "Well, it's spiritual awakening."
-* **Speaker:** Andy
-* **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
-* **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
 
 ### Catchy Phrases & Key Sayings
 - *No high-value catchy phrases recorded today.*
@@ -236,13 +241,13 @@ Andy and his partner Andrea were reviewing rental property listings together, di
 
 ## 📻 Miscellaneous Media & References Encountered
 ### Music & Audio
-- *No specific music playback recorded today.*
+{{MUSIC_MEDIA}}
 
 ### Film, Video & TV Shows
-- **Golden State Warriors & Don Nelson Tribute**: Basketball media commentary ("We Believe" era)
+{{FILM_MEDIA}}
 
 ### News & Current Events
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-27 06:23:16*
+*Report automatically generated on 2026-08-29 06:21:41*

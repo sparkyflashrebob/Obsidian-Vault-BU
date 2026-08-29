@@ -1,6 +1,6 @@
 ---
 tag: dharma
-Created: 2023-10-14
+Created: 2024-07-21
 ---
 21. “Moreover, quite secluded from sensual pleasures, secluded from unwholesome states, an untrue man enters upon and abides in the first jhāna, which is accompanied by applied and sustained thought, with rapture and pleasure born of seclusion. He considers thus: ‘I have gained the attainment of the first jhāna; but these other bhikkhus have not gained the attainment of the first jhāna.’ So he lauds himself and disparages others because of his attainment of the first jhāna. This too is the character of an untrue man. “But a true man considers thus: ‘Non-identification even with the attainment of the first jhāna has been declared by the Blessed One; for in whatever way they conceive, the fact is ever other than that.’1066 [43] So, putting non-identification first, he neither lauds himself nor disparages others because of his attainment of the first jhāna. This too is the character of a true man.
 

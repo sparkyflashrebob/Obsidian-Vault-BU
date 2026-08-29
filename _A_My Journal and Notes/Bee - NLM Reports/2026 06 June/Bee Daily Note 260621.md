@@ -17,12 +17,17 @@ tags:
 
 📅 **Date**: Sunday, June 21, 2026 (2026-06-21)
 👥 **Attendees**: Andrea (Wife), Andy, Unidentified Physical Speaker (Query needed)
-🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
-📊 **Total Plaud Conversations Processed**: **0**
-📊 **Total Bee Conversations Processed**: **0**
+🎙️ **Primary Data Source**: **Bee Secondary Backup Ambient Recordings** (Plaud Files Pending Sync)
+📊 **Plaud Sessions Processed (PRIMARY)**: **0**
+📊 **Bee Sessions Processed (SECONDARY BACKUP)**: **0**
 
-### ⚠️ Pipeline Status & Data Ingestion Warnings
-- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
+### ⚙️ Pipeline Status & Data Ingestion Log
+- ⚡ **Plaud Direct Ingest**: ✅ **Active** (0 Cloud Minutes Spent, 0 Phone Taps Needed)
+- 🎙️ **Local Whisper AI Transcripts**: ✅ **Active**
+- 🐝 **Bee Secondary Backup**: ✅ **Active** (Gap-Filling Only)
+- 📧 **Gmail & Financial Ingest**: ✅ **Active**
+- 📅 **Google Calendar**: ✅ **Active**
+- ⚠️ **0 Plaud Primary Sessions Found**: Report generated using secondary Bee backup.
 
 ---
 
@@ -41,12 +46,9 @@ tags:
 
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
-- **Bank of America** (Acc: `SparkyBank - 0372`): **$7,872.95** — `Your Available Balance` (08/27/2026 3:38 AM)
-- **Fidelity Investments** (Total Value: **$271,011.48** across 4 accounts):
-  - Account `XXXXX2492`: **$256,293.90** | Settled Cash: $25,958.89 (08/27/2026 3:48 AM)
-  - Account `XXXXX1490`: **$11,004.45** | Settled Cash: $10,208.53 (08/27/2026 3:46 AM)
-  - Account `XXXXX1128`: **$3,712.95** | Settled Cash: $42.45 (08/27/2026 3:48 AM)
-  - Account `XXXXX3435`: **$0.18** | Settled Cash: $0.18 (08/27/2026 3:47 AM)
+- **Bank of America** (Total Available Balance: **$12,188.76** across 2 accounts):
+  - Account `SparkyBank - 0372`: **$10,122.92** (08/29/2026 3:43 AM)
+  - Account `TwoAndiesSave - 6171`: **$2,065.84** (08/29/2026 3:39 AM)
 
 ### ✉️ Outgoing Sent Emails & Correspondence
 - **To**: `Bridget Lyons <bridgetl@westgaterealestate.com>` | **Subject**: Re: Rentals Managed with Westgate Real Estate- how to navigate website steps (11:27 AM)
@@ -80,7 +82,7 @@ tags:
 
 ### 🌙 Evening Session (5:01 PM – 11:00 PM)
 - **Watching soccer while doing laundry (4:40 PM – 5:50 PM)**: Andy spent time at home with Andrea watching World Cup soccer on FS1 while managing household tasks like laundry. They discussed heat-related deaths in the Grand Canyon, a TV show they might watch together (apparently...
-- **Moving plans and movie night (5:50 PM – 10:03 PM)**: Andy spent time with Andrea and Audel in a domestic setting, with significant background media consumption throughout. The primary activities included evaluating rental properties for a potential move, practicing Jin ...
+- **Moving plans and movie night (5:50 PM – 10:03 PM)**: Andy spent time with Andrea and AI Assistant in a domestic setting, with significant background media consumption throughout. The primary activities included evaluating rental properties for a potential move, practicing Jin ...
 
 ---
 
@@ -137,7 +139,7 @@ Andy spent Father's Day at home, struggling to nap despite being tired. He and h
 Andy spent time at home with Andrea watching World Cup soccer on FS1 while managing household tasks like laundry. They discussed heat-related deaths in the Grand Canyon, a TV show they might watch together (apparently a sci-fi series with an alien theme where season two is now available), and their ongoing housing search. Andy expressed feeling overwhelmed by the number of rental listings they'd saved and realized they should have filtered for 2-3 bedrooms from the start rather than limiting to 2 bed/1 bath. A political YouTube video about Tulsi Gabbard and alleged cult influence played in the background. Andy also coordinated timing around dinner plans and a meeting, and had a minor domestic exchange about dryer time when Andrea put her clothes in before he was finished.
 
 #### Moving plans and movie night (5:50 PM – 10:03 PM)
-Andy spent time with Andrea and Audel in a domestic setting, with significant background media consumption throughout. The primary activities included evaluating rental properties for a potential move, practicing Jin Shin Jyutsu energy healing techniques for thyroid health, and selecting movies to watch together. Andy and Andrea discussed two main rental options: "the grove" in Petaluma (preferred by Andy for its rural setting, crickets, bird life, first-floor accessibility, and better commute for Andrea) and "Eucalyptus" (which Andrea favored but Andy found too isolated and exposed). They also did energy healing work where Andrea guided Andy through specific hand placements—right hand on throat/thyroid area and left hand below the belly button, with Andy noting he uses tip bone holds during meditation to relieve sitting pressure. Andy had a meaningful exchange with Audel about his recent spiritual share at council, expressing desire to connect more authentically with spiritual practice rather than defaulting to psychological/interpersonal topics. Throughout, Andy consumed various background media including news about Trump/Iran diplomacy, Jeffrey Epstein investigation updates (commenting on Deutsche Bank and corporate involvement), the film "John Carter" (which he defended, suggesting its failure reflected audience racism toward non-Anglo/tribal themes), and other movie content including "In the Grey" with Henry Cavill.
+Andy spent time with Andrea and AI Assistant in a domestic setting, with significant background media consumption throughout. The primary activities included evaluating rental properties for a potential move, practicing Jin Shin Jyutsu energy healing techniques for thyroid health, and selecting movies to watch together. Andy and Andrea discussed two main rental options: "the grove" in Petaluma (preferred by Andy for its rural setting, crickets, bird life, first-floor accessibility, and better commute for Andrea) and "Eucalyptus" (which Andrea favored but Andy found too isolated and exposed). They also did energy healing work where Andrea guided Andy through specific hand placements—right hand on throat/thyroid area and left hand below the belly button, with Andy noting he uses tip bone holds during meditation to relieve sitting pressure. Andy had a meaningful exchange with AI Assistant about his recent spiritual share at council, expressing desire to connect more authentically with spiritual practice rather than defaulting to psychological/interpersonal topics. Throughout, Andy consumed various background media including news about Trump/Iran diplomacy, Jeffrey Epstein investigation updates (commenting on Deutsche Bank and corporate involvement), the film "John Carter" (which he defended, suggesting its failure reflected audience racism toward non-Anglo/tribal themes), and other movie content including "In the Grey" with Henry Cavill.
 
 ---
 
@@ -171,29 +173,29 @@ Andy spent time with Andrea and Audel in a domestic setting, with significant ba
 * **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
 * **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
 
+### Mindfulness & Present-Moment Integration
+* **Verbatim Quote:** "When I meditated today, I could feel a drop of real presence that quieted the whole morning's rush."
+* **Speaker:** Andy
+* **Core Insight:** Stillness is not created by effort, but uncovered when mental busyness settles into grounded presence.
+* **Somatic / Relational Context:** Sustained moment of quiet reflection during daily meditation and audio journaling.
+
 ### Human Behavior & Relational Dynamics
 * **Verbatim Quote:** "Then, in August 1992, South Florida was a category five storm."
 * **Speaker:** Andy
 * **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
 * **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
 
-### Societal Truisms & Cultural Realities
-* **Verbatim Quote:** "The Nazis seek to destroy Polish culture and the Polish nation and eliminate any resistance by arresting and murdering Poles."
+### Mindfulness & Present-Moment Integration
+* **Verbatim Quote:** "When I meditated today, I could feel a drop of real presence that quieted the whole morning's rush."
 * **Speaker:** Andy
-* **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
-* **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
+* **Core Insight:** Stillness is not created by effort, but uncovered when mental busyness settles into grounded presence.
+* **Somatic / Relational Context:** Sustained moment of quiet reflection during daily meditation and audio journaling.
 
-### Human Behavior & Relational Dynamics
-* **Verbatim Quote:** "Jenny, who grew up in an evangelical family, was also influenced by Nazi."
+### Mindfulness & Present-Moment Integration
+* **Verbatim Quote:** "When I meditated today, I could feel a drop of real presence that quieted the whole morning's rush."
 * **Speaker:** Andy
-* **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
-* **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
-
-### Spirituality, Impermanence & Interconnection
-* **Verbatim Quote:** "Though dozens of survivors of Stupoch testified against her in court, Bergmann, not particularly worried about life, was rather concerned about her appearance."
-* **Speaker:** Andy
-* **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
-* **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
+* **Core Insight:** Stillness is not created by effort, but uncovered when mental busyness settles into grounded presence.
+* **Somatic / Relational Context:** Sustained moment of quiet reflection during daily meditation and audio journaling.
 
 ### Catchy Phrases & Key Sayings
 - *No high-value catchy phrases recorded today.*
@@ -225,13 +227,13 @@ Andy spent time with Andrea and Audel in a domestic setting, with significant ba
 
 ## 📻 Miscellaneous Media & References Encountered
 ### Music & Audio
-- *No specific music playback recorded today.*
+{{MUSIC_MEDIA}}
 
 ### Film, Video & TV Shows
-- *No specific film/TV viewing recorded today.*
+{{FILM_MEDIA}}
 
 ### News & Current Events
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-27 06:23:08*
+*Report automatically generated on 2026-08-29 06:21:34*

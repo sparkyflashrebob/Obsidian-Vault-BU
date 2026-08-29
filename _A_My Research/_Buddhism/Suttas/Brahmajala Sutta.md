@@ -1,7 +1,7 @@
 ---
 tag: Nagarjuna, emptiness, dharma, views
 Sutta: DN 1 All-Embracing Net of Views
-Created: 2023-10-14
+Created: 2024-07-21
 ---
 https://en.wikipedia.org/wiki/Brahmaj%C4%81la_Sutta
 

@@ -1,4 +1,4 @@
-[[_A_My Research/_Buddhism/_Dharma Subjects and Themes/Four Noble Truths/1st Noble Truth/First Noble Truth]]
+[[_A_My Research/_Buddhism/Four Noble Truths/1st Noble Truth/First Noble Truth]]
 Four Noble Truths
 
 Three aspects

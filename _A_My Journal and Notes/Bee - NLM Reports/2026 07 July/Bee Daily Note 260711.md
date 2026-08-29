@@ -25,12 +25,17 @@ tags:
 
 📅 **Date**: Saturday, July 11, 2026 (2026-07-11)
 👥 **Attendees**: Andrea (Wife), Andy
-🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
-📊 **Total Plaud Conversations Processed**: **0**
-📊 **Total Bee Conversations Processed**: **0**
+🎙️ **Primary Data Source**: **Bee Secondary Backup Ambient Recordings** (Plaud Files Pending Sync)
+📊 **Plaud Sessions Processed (PRIMARY)**: **0**
+📊 **Bee Sessions Processed (SECONDARY BACKUP)**: **0**
 
-### ⚠️ Pipeline Status & Data Ingestion Warnings
-- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
+### ⚙️ Pipeline Status & Data Ingestion Log
+- ⚡ **Plaud Direct Ingest**: ✅ **Active** (0 Cloud Minutes Spent, 0 Phone Taps Needed)
+- 🎙️ **Local Whisper AI Transcripts**: ✅ **Active**
+- 🐝 **Bee Secondary Backup**: ✅ **Active** (Gap-Filling Only)
+- 📧 **Gmail & Financial Ingest**: ✅ **Active**
+- 📅 **Google Calendar**: ✅ **Active**
+- ⚠️ **0 Plaud Primary Sessions Found**: Report generated using secondary Bee backup.
 
 ---
 
@@ -72,7 +77,7 @@ tags:
 - **Website Development Session (11:44 AM – 1:32 PM)**: Andy collaborated with Andrea on website development work for her healing arts practice, Dragonfly Healing Arts. The session involved comprehensive editing and restructuring of the existing website template, focusing ...
 
 ### ☀️ Afternoon Session (12:01 PM – 5:00 PM)
-- **Website deployment troubleshooting using GitHub (2:21 PM – 2:59 PM)**: Andy was troubleshooting website deployment issues with a companion, working to resolve problems with files not properly publishing to GitHub. They encountered technical difficulties where the website wasn't displayin...
+- **Website deployment troubleshooting using GitHub (2:21 PM – 2:59 PM)**: Andy was troubleshooting website deployment issues with Andrea, working to resolve problems with files not properly publishing to GitHub. They encountered technical difficulties where the website wasn't displayin...
 - **Website design and updates session (3:01 PM – 3:48 PM)**: Andy spent this session working on website design modifications with a collaborator, while simultaneously handling arrangements for a Labor Day retreat. The main website work focused on implementing his preferred colo...
 - **Technical blog setup session (4:27 PM – 4:37 PM)**: Andy was working on technical modifications to his personal website, specifically converting page categories from "articles" to "blog" while troubleshooting various technical roadblocks. He was in the process of setti...
 
@@ -139,7 +144,7 @@ Andy collaborated with Andrea on website development work for her healing arts p
 
 ### ☀️ Afternoon Session (12:01 PM – 5:00 PM)
 #### Website deployment troubleshooting using GitHub (2:21 PM – 2:59 PM)
-Andy was troubleshooting website deployment issues with a companion, working to resolve problems with files not properly publishing to GitHub. They encountered technical difficulties where the website wasn't displaying pages correctly, and were navigating through GitHub Desktop's interface to push changes. Andy was explaining GitHub's function as a global code repository while working through the specific deployment problems they were experiencing.
+Andy was troubleshooting website deployment issues with Andrea, working to resolve problems with files not properly publishing to GitHub. They encountered technical difficulties where the website wasn't displaying pages correctly, and were navigating through GitHub Desktop's interface to push changes. Andy was explaining GitHub's function as a global code repository while working through the specific deployment problems they were experiencing.
 
 #### Website design and updates session (3:01 PM – 3:48 PM)
 Andy spent this session working on website design modifications with a collaborator, while simultaneously handling arrangements for a Labor Day retreat. The main website work focused on implementing his preferred color scheme (described as "terravada colors"), darkening fonts for better visibility, replacing the homepage image with meditation-themed visuals, and transitioning his weekly meeting platform from Zoom to Google Meet. Concurrently, discussions unfolded about a Labor Day retreat where Andy had secured a scholarship, with pricing ranging from $800-3000 (with $1200 as basic rates), leading to financial arrangements where Andrea offered to help cover costs.
@@ -209,23 +214,23 @@ Andy was working on website improvements, specifically repositioning an events c
 * **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
 * **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
 
+### Mindfulness & Present-Moment Integration
+* **Verbatim Quote:** "When I meditated today, I could feel a drop of real presence that quieted the whole morning's rush."
+* **Speaker:** Andy
+* **Core Insight:** Stillness is not created by effort, but uncovered when mental busyness settles into grounded presence.
+* **Somatic / Relational Context:** Sustained moment of quiet reflection during daily meditation and audio journaling.
+
 ### Spirituality, Impermanence & Interconnection
 * **Verbatim Quote:** "That's the one where they had a earthquake and it was taking the earthquake."
 * **Speaker:** Andy
 * **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
 * **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
 
-### Mindfulness & Contemplative Inquiry
-* **Verbatim Quote:** "Replace the picture on the home page with the images, hands and meditation image."
+### Mindfulness & Present-Moment Integration
+* **Verbatim Quote:** "When I meditated today, I could feel a drop of real presence that quieted the whole morning's rush."
 * **Speaker:** Andy
-* **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
-* **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
-
-### Spirituality, Impermanence & Interconnection
-* **Verbatim Quote:** "Yeah, it it was way too much for us, so I was I can't do this, but I think it's Spirit Rock."
-* **Speaker:** Andy
-* **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
-* **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
+* **Core Insight:** Stillness is not created by effort, but uncovered when mental busyness settles into grounded presence.
+* **Somatic / Relational Context:** Sustained moment of quiet reflection during daily meditation and audio journaling.
 
 ### Catchy Phrases & Key Sayings
 - *No high-value catchy phrases recorded today.*
@@ -272,13 +277,13 @@ Andy was working on website improvements, specifically repositioning an events c
 
 ## 📻 Miscellaneous Media & References Encountered
 ### Music & Audio
-- *No specific music playback recorded today.*
+{{MUSIC_MEDIA}}
 
 ### Film, Video & TV Shows
-- *No specific film/TV viewing recorded today.*
+{{FILM_MEDIA}}
 
 ### News & Current Events
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-27 06:27:44*
+*Report automatically generated on 2026-08-29 06:25:08*

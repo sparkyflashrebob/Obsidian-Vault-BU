@@ -1,7 +1,7 @@
 ---
 tag: abhidhamma, defining, agent, instrument, sheer_activity, citta
 ---
-[[_A_My Research/Dharma Subjects and Themes/Mindfulness/Mindfulness of Mind/Citta/Citta]]
+[[_A_My Research/_Buddhism/Mindfulness/Mindfulness of Mind/Citta/Citta]]
 As an Agent = that which knows the object
 As and Instrument = with the help of other concomitants know the object
 By sheer activity = is a knowing of the the object

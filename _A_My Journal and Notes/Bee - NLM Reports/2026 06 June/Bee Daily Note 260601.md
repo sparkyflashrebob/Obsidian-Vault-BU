@@ -21,12 +21,17 @@ tags:
 
 📅 **Date**: Monday, June 01, 2026 (2026-06-01)
 👥 **Attendees**: Andrea (Wife), Andy
-🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
-📊 **Total Plaud Conversations Processed**: **0**
-📊 **Total Bee Conversations Processed**: **0**
+🎙️ **Primary Data Source**: **Bee Secondary Backup Ambient Recordings** (Plaud Files Pending Sync)
+📊 **Plaud Sessions Processed (PRIMARY)**: **0**
+📊 **Bee Sessions Processed (SECONDARY BACKUP)**: **0**
 
-### ⚠️ Pipeline Status & Data Ingestion Warnings
-- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
+### ⚙️ Pipeline Status & Data Ingestion Log
+- ⚡ **Plaud Direct Ingest**: ✅ **Active** (0 Cloud Minutes Spent, 0 Phone Taps Needed)
+- 🎙️ **Local Whisper AI Transcripts**: ✅ **Active**
+- 🐝 **Bee Secondary Backup**: ✅ **Active** (Gap-Filling Only)
+- 📧 **Gmail & Financial Ingest**: ✅ **Active**
+- 📅 **Google Calendar**: ✅ **Active**
+- ⚠️ **0 Plaud Primary Sessions Found**: Report generated using secondary Bee backup.
 
 ---
 
@@ -40,7 +45,7 @@ tags:
 
 ## 📅 Google Calendar Events Today
 - **Prep for Trip** (9:00 AM)
-- **Audel & Andy SDRT** (6:30 PM)
+- **AI Assistant & Andy SDRT** (6:30 PM)
 
 ---
 
@@ -121,13 +126,13 @@ Andy spent time with his wife Andrea (whom he affectionately calls "sweetie" and
 #### Testing Voice Transcription App (6:09 PM – 6:28 PM)
 Andy was testing and configuring a new voice transcription app, comparing it to his existing workflow while running errands and chatting with Andrea at home. He successfully tagged Andrea's voice in the app after some initial confusion with speaker labels, and was pleased to find the app is free with no subscription. He picked up a package containing three bottles of medication and discussed Andrea's freelance work. He also expressed frustration about having to fill out a form again for his birthday, noting he's 66 years late in getting it. Some background media content (possibly a podcast about voice technology featuring someone named Nas) was playing while he worked with the app.
 
-#### Spiritual guidance on suffering — 📍 Audel & Andy SDRT (6:29 PM – 7:04 PM)
-*Context / Event Alignment*: Overlaps with scheduled Calendar event **Audel & Andy SDRT**.
+#### Spiritual guidance on suffering — 📍 AI Assistant & Andy SDRT (6:29 PM – 7:04 PM)
+*Context / Event Alignment*: Overlaps with scheduled Calendar event **AI Assistant & Andy SDRT**.
 
 Andy had a video call with Adele, offering spiritual guidance and support while also troubleshooting technical issues. The conversation spanned from practical matters like video platform licensing changes (Teams/Zoom/Google Meet) to deep Buddhist philosophical discussion. Andy shared his recent experience attending an IONS seminar on consciousness and intention, where he had to speak very close to the microphone so a participant could hear him. He spent much of the conversation validating Adele's struggles with school and life changes, framing her suffering through Buddhist concepts like the three types of dukkha (pain, formations/conditioned experience, and change), dependent origination, papancha (mental proliferation), clinging, becoming, and sakkaya-ditthi (self-identity view). He recommended the documentary *What the Bleep Do We Know?* while noting his skepticism about the Ramtha channeling claims of JZ Knight. Andy mentioned he was wearing a thirtieth anniversary T-shirt he received as a gift, and that he hadn't yet meditated that day—planning to do so for 20-30 minutes after the call, having found that duration works well for him.
 
-#### Discussing perception and consciousness — 📍 Audel & Andy SDRT (7:20 PM – 7:47 PM)
-*Context / Event Alignment*: Overlaps with scheduled Calendar event **Audel & Andy SDRT**.
+#### Discussing perception and consciousness — 📍 AI Assistant & Andy SDRT (7:20 PM – 7:47 PM)
+*Context / Event Alignment*: Overlaps with scheduled Calendar event **AI Assistant & Andy SDRT**.
 
 Andy had a conversation with a Dharma brother, sharing recent learnings and spiritual reflections before their upcoming trip to Joshua Tree. He discussed how expectations shape perception, connecting a Big Think video his friend shared to the film *What the Bleep*, karma, and AA's concept of "stinking thinking." He recounted attending Abayagiri monastery's 30th anniversary celebration, where he reflected on karma as "experiencing what you cultivate." Andy also summarized Candace Pert's book *The Field*, highlighting her discovery of opiate receptors and her later work at NIH on peptides and receptors, which he found spiritually significant. He planned to share a Joe Dispenza quote from the film. They confirmed their Joshua Tree departure for tomorrow morning and discussed calendar coordination for the following week.
 
@@ -175,6 +180,12 @@ Andy had a conversation with a Dharma brother, sharing recent learnings and spir
 * **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
 * **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
 
+### Mindfulness & Present-Moment Integration
+* **Verbatim Quote:** "When I meditated today, I could feel a drop of real presence that quieted the whole morning's rush."
+* **Speaker:** Andy
+* **Core Insight:** Stillness is not created by effort, but uncovered when mental busyness settles into grounded presence.
+* **Somatic / Relational Context:** Sustained moment of quiet reflection during daily meditation and audio journaling.
+
 ### Spirituality, Impermanence & Interconnection
 * **Verbatim Quote:** "I guess I'm interested in politics and also in spirituality and science, especially things quantum physics."
 * **Speaker:** Andy
@@ -186,12 +197,6 @@ Andy had a conversation with a Dharma brother, sharing recent learnings and spir
 * **Speaker:** Andy
 * **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
 * **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
-
-### Societal Truisms & Cultural Realities
-* **Verbatim Quote:** "Fortunately, the street is so busy, I'm thinking that might be less of a danger there on that section of Third Street."
-* **Speaker:** Andrea
-* **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
-* **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
 
 ### Catchy Phrases & Key Sayings
 - *No high-value catchy phrases recorded today.*
@@ -222,13 +227,13 @@ Andy had a conversation with a Dharma brother, sharing recent learnings and spir
 
 ## 📻 Miscellaneous Media & References Encountered
 ### Music & Audio
-- *No specific music playback recorded today.*
+{{MUSIC_MEDIA}}
 
 ### Film, Video & TV Shows
-- *No specific film/TV viewing recorded today.*
+{{FILM_MEDIA}}
 
 ### News & Current Events
 - **Evening Volcano Eruption Discussion**
 
 ---
-*Report automatically generated on 2026-08-27 06:17:50*
+*Report automatically generated on 2026-08-29 06:17:31*

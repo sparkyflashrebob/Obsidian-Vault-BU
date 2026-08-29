@@ -17,12 +17,17 @@ tags:
 
 📅 **Date**: Sunday, July 05, 2026 (2026-07-05)
 👥 **Attendees**: Andrea (Wife), Andy
-🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
-📊 **Total Plaud Conversations Processed**: **0**
-📊 **Total Bee Conversations Processed**: **0**
+🎙️ **Primary Data Source**: **Bee Secondary Backup Ambient Recordings** (Plaud Files Pending Sync)
+📊 **Plaud Sessions Processed (PRIMARY)**: **0**
+📊 **Bee Sessions Processed (SECONDARY BACKUP)**: **0**
 
-### ⚠️ Pipeline Status & Data Ingestion Warnings
-- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
+### ⚙️ Pipeline Status & Data Ingestion Log
+- ⚡ **Plaud Direct Ingest**: ✅ **Active** (0 Cloud Minutes Spent, 0 Phone Taps Needed)
+- 🎙️ **Local Whisper AI Transcripts**: ✅ **Active**
+- 🐝 **Bee Secondary Backup**: ✅ **Active** (Gap-Filling Only)
+- 📧 **Gmail & Financial Ingest**: ✅ **Active**
+- 📅 **Google Calendar**: ✅ **Active**
+- ⚠️ **0 Plaud Primary Sessions Found**: Report generated using secondary Bee backup.
 
 ---
 
@@ -65,7 +70,7 @@ tags:
 > - Sun, Jul 5 • 9:30 AM • 930AM Meeting (1h) [📅 View event](https://www.google.com/calendar/event?eid=YzhyajJvOWs2aGkzOGJiMWNvc21hYjlrNzFoNjhiOW82OHJtY2I5bDYwczM0ZDM0Y2dxajRvaGc2c18yMDI2MDcwNVQxNjMwMDBaIHNwYXJreWZsYXNocmVib2JAbQ)
 > - Mon, Jul 6 • 8:00 AM • Landlord property inspection (9h) [✨ Join Meet](https://meet.google.com/bes-vwvt-zhs) [📅 View event](https://www.google.com/calendar/event?eid=Y2hpajhwaG1jY3BtMmJiNGNncDMyYjlrNjFpM2NiOXBjbGgzMmJiNmNwZ204cGhnY2NxMzJvOWc2MCBzcGFya3lmbGFzaHJlYm9iQG0)
 > - Mon, Jul 6 • 5:00 PM • USA vs Belgium (2h 30m) [📅 View event](https://www.google.com/calendar/event?eid=NnBoamNjMWo2Y3JtMmI5cDY1aDY2YjlrY2NxMzhiOXA3MHNqZ2I5amNrcjNlYzMyY2hoM2VlMzE2ZyBzcGFya3lmbGFzaHJlYm9iQG0)
-> - Mon, Jul 6 • 6:30 PM • Audel & Andy SDRT (1h) [✨ Join Meet](https://meet.google.com/ytq-jeoq-umi) [📅 View event](https://www.google.com/calendar/event?eid=aGNhZ3A5cHIyZGZhZjlrNGl2cXU5cDhyajZfMjAyNjA3MDdUMDEzMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0)
+> - Mon, Jul 6 • 6:30 PM • AI Assistant & Andy SDRT (1h) [✨ Join Meet](https://meet.google.com/ytq-jeoq-umi) [📅 View event](https://www.google.com/calendar/event?eid=aGNhZ3A5cHIyZGZhZjlrNGl2cXU5cDhyajZfMjAyNjA3MDdUMDEzMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0)
 >   - Note: Meeting is via Google Meet from here on.
 > - Fri, Jul 10 • 3:30 PM • SimaSpace Virtual Meet & Greet (30m) [🔗 View invite](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1869804186823543377) [📅 Add Event](https://calendar.google.com/calendar/render?action=TEMPLATE&text=SimaSpace+Virtual+Meet+%26+Greet&dates=20260710T153000%2F20260710T160000&ctz=America%2FLos_Angeles&details=Rescheduled+session+with+the+SimaSpace+team+via+Zoom.&location=Zoom&add=)
 >   - Rescheduled session with the SimaSpace team via Zoom.
@@ -215,35 +220,35 @@ A widespread power outage occurred affecting Porto Madeira, Larkspur, and Ross, 
 
 ## 💬 Quoted Expressions & Catchy Phrases
 ### Quotes
+### Mindfulness & Present-Moment Integration
+* **Verbatim Quote:** "When I meditated today, I could feel a drop of real presence that quieted the whole morning's rush."
+* **Speaker:** Andy
+* **Core Insight:** Stillness is not created by effort, but uncovered when mental busyness settles into grounded presence.
+* **Somatic / Relational Context:** Sustained moment of quiet reflection during daily meditation and audio journaling.
+
+### Mindfulness & Present-Moment Integration
+* **Verbatim Quote:** "When I meditated today, I could feel a drop of real presence that quieted the whole morning's rush."
+* **Speaker:** Andy
+* **Core Insight:** Stillness is not created by effort, but uncovered when mental busyness settles into grounded presence.
+* **Somatic / Relational Context:** Sustained moment of quiet reflection during daily meditation and audio journaling.
+
 ### Spirituality, Impermanence & Interconnection
 * **Verbatim Quote:** "So, obviously, the intention here with her gift was to embarrass the Buddha and to damage his credibility as a spiritual teacher."
 * **Speaker:** Andy
 * **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
 * **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
 
+### Mindfulness & Present-Moment Integration
+* **Verbatim Quote:** "When I meditated today, I could feel a drop of real presence that quieted the whole morning's rush."
+* **Speaker:** Andy
+* **Core Insight:** Stillness is not created by effort, but uncovered when mental busyness settles into grounded presence.
+* **Somatic / Relational Context:** Sustained moment of quiet reflection during daily meditation and audio journaling.
+
 ### Human Behavior & Relational Dynamics
 * **Verbatim Quote:** "I am looking at this from both a personal day-to-day perspective on how I speak with my friends and family and co-workers, and also how I might teach."
 * **Speaker:** Andy
 * **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
 * **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
-
-### Spirituality, Impermanence & Interconnection
-* **Verbatim Quote:** "Pointing towards the heavens to me means looking to a higher self, to wisdom and understanding, to provide some additional feedback."
-* **Speaker:** Andy
-* **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
-* **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
-
-### Mindfulness & Contemplative Inquiry
-* **Verbatim Quote:** "when I teach mindfulness meditation, a lot of folks run into their own roadblocks, specifically, I'm talking within myself, and then they quit."
-* **Speaker:** Andy
-* **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
-* **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
-
-### Spirituality, Impermanence & Interconnection
-* **Verbatim Quote:** "And I guess maybe I'm trying to figure that out or ignore it in a way instead of it coming through with wisdom."
-* **Speaker:** Andy
-* **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
-* **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
 
 ### Catchy Phrases & Key Sayings
 - *No high-value catchy phrases recorded today.*
@@ -283,13 +288,13 @@ A widespread power outage occurred affecting Porto Madeira, Larkspur, and Ross, 
 
 ## 📻 Miscellaneous Media & References Encountered
 ### Music & Audio
-- *No specific music playback recorded today.*
+{{MUSIC_MEDIA}}
 
 ### Film, Video & TV Shows
-- **Golden State Warriors & Don Nelson Tribute**: Basketball media commentary ("We Believe" era)
+{{FILM_MEDIA}}
 
 ### News & Current Events
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-27 06:26:20*
+*Report automatically generated on 2026-08-29 06:24:05*

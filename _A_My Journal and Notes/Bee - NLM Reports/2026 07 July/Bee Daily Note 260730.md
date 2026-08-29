@@ -29,12 +29,17 @@ tags:
 
 📅 **Date**: Thursday, July 30, 2026 (2026-07-30)
 👥 **Attendees**: Andrea (Wife), Andy
-🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
-📊 **Total Plaud Conversations Processed**: **0**
-📊 **Total Bee Conversations Processed**: **0**
+🎙️ **Primary Data Source**: **Bee Secondary Backup Ambient Recordings** (Plaud Files Pending Sync)
+📊 **Plaud Sessions Processed (PRIMARY)**: **0**
+📊 **Bee Sessions Processed (SECONDARY BACKUP)**: **0**
 
-### ⚠️ Pipeline Status & Data Ingestion Warnings
-- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
+### ⚙️ Pipeline Status & Data Ingestion Log
+- ⚡ **Plaud Direct Ingest**: ✅ **Active** (0 Cloud Minutes Spent, 0 Phone Taps Needed)
+- 🎙️ **Local Whisper AI Transcripts**: ✅ **Active**
+- 🐝 **Bee Secondary Backup**: ✅ **Active** (Gap-Filling Only)
+- 📧 **Gmail & Financial Ingest**: ✅ **Active**
+- 📅 **Google Calendar**: ✅ **Active**
+- ⚠️ **0 Plaud Primary Sessions Found**: Report generated using secondary Bee backup.
 
 ---
 
@@ -59,10 +64,10 @@ tags:
 - **To**: `kortexnotebooklm@gmail.com` | **Subject**: Notebook Link Broken (3:59 PM)
   *Summary*: "I no longer find any of my notebooks in the Chrome extension, nor do I see my prompts in Gemini Notebook I used to. Andy McGuire (he/him) (415)637-0348 (cell) sparkyflashrebob..."
 
-- **To**: `Bob McConnell <bob@contact-mgt.com>, Peter King <peterhking@outlook.com>, Will Meecham <willspirit@icloud.com>, Kevin Jensen-Unger <kevinunger321@gmail.com>, Bill Vela <velalawoffice@gmail.com>, John Benet <red415@gmail.com>, Kiera McGuire <kmcguire4638@gmail.com>, Audel Salazar <audel.a.salazar@gmail.com>, Edwynen Nazarian <Edwynen@comcast.net>, Matt Ford <Chaotzutbp@yahoo.com>, Colette Sweeny <colettesweeny@icloud.com>, Andrea Axtell <dragonflylodge.aa@gmail.com>, Debra Jensen-Unger <djensenunger@gmail.com>, Nick Franklin <nickfranklin23@gmail.com>, Hugh Bricarelli <hughb80@gmail.com>, Georgie Rayner <georgiekat@comcast.net>` | **Subject**: Finding Stability on Life's Terms: Join Our Next Group Session (10:24 AM)
+- **To**: `Bob McConnell <bob@contact-mgt.com>, Peter King <peterhking@outlook.com>, Will Meecham <willspirit@icloud.com>, Kevin Jensen-Unger <kevinunger321@gmail.com>, Bill Vela <velalawoffice@gmail.com>, John Benet <red415@gmail.com>, Kiera McGuire <kmcguire4638@gmail.com>, AI Assistant Salazar <audel.a.salazar@gmail.com>, Edwynen Nazarian <Edwynen@comcast.net>, Matt Ford <Chaotzutbp@yahoo.com>, Colette Sweeny <colettesweeny@icloud.com>, Andrea Axtell <dragonflylodge.aa@gmail.com>, Debra Jensen-Unger <djensenunger@gmail.com>, Nick Franklin <nickfranklin23@gmail.com>, Hugh Bricarelli <hughb80@gmail.com>, Georgie Rayner <georgiekat@comcast.net>` | **Subject**: Finding Stability on Life's Terms: Join Our Next Group Session (10:24 AM)
   *Summary*: "Dear friends, When life gets messy, busy, or difficult, it is natural to look for quick relief. We often treat mindfulness as a &quot;short-term hack&quot;—a temporary escape from..."
 
-- **To**: `Bob McConnell <bob@contact-mgt.com>, Peter King <peterhking@outlook.com>, Will Meecham <willspirit@icloud.com>, Kevin Jensen-Unger <kevinunger321@gmail.com>, Bill Vela <velalawoffice@gmail.com>, John Benet <red415@gmail.com>, Kiera McGuire <kmcguire4638@gmail.com>, Audel Salazar <audel.a.salazar@gmail.com>, Edwynen Nazarian <Edwynen@comcast.net>, Matt Ford <Chaotzutbp@yahoo.com>, Colette Sweeny <colettesweeny@icloud.com>, Andrea Axtell <dragonflylodge.aa@gmail.com>, Debra Jensen-Unger <djensenunger@gmail.com>, Nick Franklin <nickfranklin23@gmail.com>, Hugh Bricarelli <hughb80@gmail.com>, Georgie Rayner <georgiekat@comcast.net>` | **Subject**: Finding Stability on Life's Terms: Join Our Next Group Session (10:18 AM)
+- **To**: `Bob McConnell <bob@contact-mgt.com>, Peter King <peterhking@outlook.com>, Will Meecham <willspirit@icloud.com>, Kevin Jensen-Unger <kevinunger321@gmail.com>, Bill Vela <velalawoffice@gmail.com>, John Benet <red415@gmail.com>, Kiera McGuire <kmcguire4638@gmail.com>, AI Assistant Salazar <audel.a.salazar@gmail.com>, Edwynen Nazarian <Edwynen@comcast.net>, Matt Ford <Chaotzutbp@yahoo.com>, Colette Sweeny <colettesweeny@icloud.com>, Andrea Axtell <dragonflylodge.aa@gmail.com>, Debra Jensen-Unger <djensenunger@gmail.com>, Nick Franklin <nickfranklin23@gmail.com>, Hugh Bricarelli <hughb80@gmail.com>, Georgie Rayner <georgiekat@comcast.net>` | **Subject**: Finding Stability on Life's Terms: Join Our Next Group Session (10:18 AM)
   *Summary*: "Dear friends, When life gets messy, busy, or difficult, it is natural to look for quick relief. We often treat mindfulness as a &quot;short-term hack&quot;—a temporary escape from..."
 
 ---
@@ -264,11 +269,11 @@ Housing costs were discussed when Brent was shocked to learn Andy's rent is $2,7
 * **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
 * **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
 
-### Spirituality, Impermanence & Interconnection
-* **Verbatim Quote:** "in my signature on my emails and Gmail, I have an image that I have in my signature that does not show up in preview and I'm not sure if it shows up when emailing."
+### Mindfulness & Present-Moment Integration
+* **Verbatim Quote:** "When I meditated today, I could feel a drop of real presence that quieted the whole morning's rush."
 * **Speaker:** Andy
-* **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
-* **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
+* **Core Insight:** Stillness is not created by effort, but uncovered when mental busyness settles into grounded presence.
+* **Somatic / Relational Context:** Sustained moment of quiet reflection during daily meditation and audio journaling.
 
 ### Catchy Phrases & Key Sayings
 - *No high-value catchy phrases recorded today.*
@@ -315,13 +320,13 @@ Housing costs were discussed when Brent was shocked to learn Andy's rent is $2,7
 
 ## 📻 Miscellaneous Media & References Encountered
 ### Music & Audio
-- *No specific music playback recorded today.*
+{{MUSIC_MEDIA}}
 
 ### Film, Video & TV Shows
-- *No specific film/TV viewing recorded today.*
+{{FILM_MEDIA}}
 
 ### News & Current Events
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-27 06:31:58*
+*Report automatically generated on 2026-08-29 06:28:23*

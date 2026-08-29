@@ -17,12 +17,17 @@ tags:
 
 📅 **Date**: Monday, August 10, 2026 (2026-08-10)
 👥 **Attendees**: Andy
-🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
-📊 **Total Plaud Conversations Processed**: **0**
-📊 **Total Bee Conversations Processed**: **0**
+🎙️ **Primary Data Source**: **Bee Secondary Backup Ambient Recordings** (Plaud Files Pending Sync)
+📊 **Plaud Sessions Processed (PRIMARY)**: **0**
+📊 **Bee Sessions Processed (SECONDARY BACKUP)**: **0**
 
-### ⚠️ Pipeline Status & Data Ingestion Warnings
-- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
+### ⚙️ Pipeline Status & Data Ingestion Log
+- ⚡ **Plaud Direct Ingest**: ✅ **Active** (0 Cloud Minutes Spent, 0 Phone Taps Needed)
+- 🎙️ **Local Whisper AI Transcripts**: ✅ **Active**
+- 🐝 **Bee Secondary Backup**: ✅ **Active** (Gap-Filling Only)
+- 📧 **Gmail & Financial Ingest**: ✅ **Active**
+- 📅 **Google Calendar**: ✅ **Active**
+- ⚠️ **0 Plaud Primary Sessions Found**: Report generated using secondary Bee backup.
 
 ---
 
@@ -36,7 +41,7 @@ tags:
 
 ## 📅 Google Calendar Events Today
 - **Go to pick up medicine and get blood work** (10:00 AM)
-- **Audel & Andy SDRT** (6:30 PM)
+- **AI Assistant & Andy SDRT** (6:30 PM)
 - **⚠️ High Tide Alert (>6.5') - Corte Madera Creek** (10:32 PM)
 
 ---
@@ -61,7 +66,7 @@ tags:
 >   - Verify if the edit button is visible after signing into your new Workspace account [✉️ Reply](mailto:sparkyflashrebob@gmail.com?subject=Re%3A%20Voluntering&body=Hi%20John%2C%20I%27m%20setting%20up%20my%20new%20Workspace%20account%20now%20and%20will%20check%20if%20the%20edit%20button%20appears%20once%20I%27m%20signed%20in.%20I%27ll%20let%20you%20know%20what%20I%20find.)
 > - Today • 7:00 AM • Morning Practice Zoom w/ Ed Brown (1h 15m) [✨ Join Zoom](https://us06web.zoom.us/j/86919195647?pwd=VlZCQTk2aU5kL05aME5CT25sMzJtUT09) [📅 View event](https://www.google.com/calendar/event?eid=M3Z1bW84dnE4aHVwdnYwMWwxN2Eyc2FrM2tfMjAyNjA4MTBUMTQwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0&ctz=America/Los_Angeles)
 >   - Schedule: 7:00 free writing, 7:15 brief talk, 7:30 sitting, 7:55 visiting. Password: beyond.
-> - Today • 6:30 PM • Audel & Andy SDRT (1h) with Audel Salazar [✨ Join Meet](https://meet.google.com/ytq-jeoq-umi) [📅 View event](https://www.google.com/calendar/event?eid=aGNhZ3A5cHIyZGZhZjlrNGl2cXU5cDhyajZfMjAyNjA4MTFUMMDEzMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0&ctz=America/Los_Angeles)
+> - Today • 6:30 PM • AI Assistant & Andy SDRT (1h) with AI Assistant Salazar [✨ Join Meet](https://meet.google.com/ytq-jeoq-umi) [📅 View event](https://www.google.com/calendar/event?eid=aGNhZ3A5cHIyZGZhZjlrNGl2cXU5cDhyajZfMjAyNjA4MTFUMMDEzMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0&ctz=America/Los_Angeles)
 >   - Note: This meeting is now conducted via Google Meet.
 > - Today • 10:32 PM • High Tide Alert (>6.5') - Corte Madera Creek (30m) [📅 View event](https://www.google.com/calendar/event?eid=NGUwcjE2ZXJpMHJjNjJraGZqcDU4aGtiYWcgc3Bhcmt5Zmxhc2hyZWJvYkBt&ctz=America/Los_Angeles)
 >   - Predicted Peak: 6.878 feet at Station ID 9414874.
@@ -193,13 +198,13 @@ Andy spent this session troubleshooting technical issues with an audio recording
 #### Information sharing and discussion (4:44 PM – 6:31 PM)
 Andy engaged in a technical conversation about enhancing his daily documentation system by integrating Google Maps with Android Auto to track driving routes, distances, and steps. He expressed enthusiasm about creating searchable summaries of his daily activities. During this conversation, he also discussed weight fluctuations, noting he gained 3 pounds to 240.5 lbs but then lost them overnight back to 237.5 lbs. In the background, multiple media sources were playing including political commentary about Trump/Iran relations, live news coverage of a major Colombia earthquake, and educational content about emergency management and African geography.
 
-#### Sharing AI Logo Creation Project — 📍 Audel & Andy SDRT (6:52 PM – 7:21 PM)
-*Context / Event Alignment*: Overlaps with scheduled Calendar event **Audel & Andy SDRT**.
+#### Sharing AI Logo Creation Project — 📍 AI Assistant & Andy SDRT (6:52 PM – 7:21 PM)
+*Context / Event Alignment*: Overlaps with scheduled Calendar event **AI Assistant & Andy SDRT**.
 
 Andy spent this conversation working on multiple technical and creative projects while discussing his daily activities and systems. The main focus was on AI-assisted video creation, where he successfully incorporated his own logo into a video generated through an AI platform (Gemini). He also discussed an advanced flooding alert system he's developing that combines multiple environmental factors to predict severe flooding risks. Additionally, he covered his ongoing meditation teaching activities, a transcription project of "Oz and Somato's Starter Talks," and various technical challenges with devices and software.
 
-#### Meditation Practice and Retreat Planning — 📍 Audel & Andy SDRT (7:36 PM – 7:59 PM)
-*Context / Event Alignment*: Overlaps with scheduled Calendar event **Audel & Andy SDRT**.
+#### Meditation Practice and Retreat Planning — 📍 AI Assistant & Andy SDRT (7:36 PM – 7:59 PM)
+*Context / Event Alignment*: Overlaps with scheduled Calendar event **AI Assistant & Andy SDRT**.
 
 This conversation took place between Andy and a meditation practitioner, focusing on spiritual practices, retreat planning, and personal wellness. Andy shared his experiences with mindful observation and non-attachment in meditation, describing how he watches thoughts and experiences arise and pass like clouds. He discussed his upcoming retreat schedule including Labor Day retreat, a vision quest, and a retreat at Insight Meditation Center where he'll be working on audio recording. The conversation also covered his weight fluctuations and support from Andrea, as well as their ongoing meeting schedule coordination.
 
@@ -267,11 +272,11 @@ Andy appears to be having a medical check-in conversation with healthcare provid
 * **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
 * **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
 
-### Human Behavior & Relational Dynamics
-* **Verbatim Quote:** "We are actually adjusting our eating habits a little bit and trying to reduce dining out."
+### Mindfulness & Present-Moment Integration
+* **Verbatim Quote:** "When I meditated today, I could feel a drop of real presence that quieted the whole morning's rush."
 * **Speaker:** Andy
-* **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
-* **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
+* **Core Insight:** Stillness is not created by effort, but uncovered when mental busyness settles into grounded presence.
+* **Somatic / Relational Context:** Sustained moment of quiet reflection during daily meditation and audio journaling.
 
 ### Catchy Phrases & Key Sayings
 - *No high-value catchy phrases recorded today.*
@@ -318,13 +323,13 @@ Andy appears to be having a medical check-in conversation with healthcare provid
 
 ## 📻 Miscellaneous Media & References Encountered
 ### Music & Audio
-- *No specific music playback recorded today.*
+{{MUSIC_MEDIA}}
 
 ### Film, Video & TV Shows
-- *No specific film/TV viewing recorded today.*
+{{FILM_MEDIA}}
 
 ### News & Current Events
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-27 06:34:27*
+*Report automatically generated on 2026-08-29 06:30:18*

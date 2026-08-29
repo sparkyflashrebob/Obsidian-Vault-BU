@@ -25,12 +25,17 @@ tags:
 
 📅 **Date**: Wednesday, June 24, 2026 (2026-06-24)
 👥 **Attendees**: Andrea (Wife), Andy
-🎙️ **Primary Data Source**: **Bee Continuous Ambient Recordings** (Plaud Files Bypassed / Pending Sync)
-📊 **Total Plaud Conversations Processed**: **0**
-📊 **Total Bee Conversations Processed**: **0**
+🎙️ **Primary Data Source**: **Bee Secondary Backup Ambient Recordings** (Plaud Files Pending Sync)
+📊 **Plaud Sessions Processed (PRIMARY)**: **0**
+📊 **Bee Sessions Processed (SECONDARY BACKUP)**: **0**
 
-### ⚠️ Pipeline Status & Data Ingestion Warnings
-- ⚠️ **ATTENTION: 0 Plaud conversations processed today.** Plaud is set as your PRIMARY source. Report was built using secondary Bee ambient recordings.
+### ⚙️ Pipeline Status & Data Ingestion Log
+- ⚡ **Plaud Direct Ingest**: ✅ **Active** (0 Cloud Minutes Spent, 0 Phone Taps Needed)
+- 🎙️ **Local Whisper AI Transcripts**: ✅ **Active**
+- 🐝 **Bee Secondary Backup**: ✅ **Active** (Gap-Filling Only)
+- 📧 **Gmail & Financial Ingest**: ✅ **Active**
+- 📅 **Google Calendar**: ✅ **Active**
+- ⚠️ **0 Plaud Primary Sessions Found**: Report generated using secondary Bee backup.
 
 ---
 
@@ -82,7 +87,7 @@ tags:
 
 ### 🌙 Evening Session (5:01 PM – 11:00 PM)
 - **Adjustable bed delivery setup (7:10 PM – 8:28 PM)**: Andy and Andrea had an adjustable bed delivered and assembled at their home, with Andy coordinating the delivery truck's arrival by phone and directing it to park correctly. During setup, they worked with the installa...
-- **Helping stranger at hospital (8:49 PM – 9:26 PM)**: Andy spent time with a companion at home, sharing stories and watching various media content. He recounted helping a Hispanic couple navigate a hospital—realizing they had taken an Uber and needed directions to the pi...
+- **Helping stranger at hospital (8:49 PM – 9:26 PM)**: Andy spent time with Andrea at home, sharing stories and watching various media content. He recounted helping a Hispanic couple navigate a hospital—realizing they had taken an Uber and needed directions to the pi...
 
 ---
 
@@ -164,7 +169,7 @@ Andy and Andrea had an adjustable bed delivered and assembled at their home, wit
 #### Helping stranger at hospital — 📍 Bed Delivered (8:49 PM – 9:26 PM)
 *Context / Event Alignment*: Overlaps with scheduled Calendar event **Bed Delivered**.
 
-Andy spent time with a companion at home, sharing stories and watching various media content. He recounted helping a Hispanic couple navigate a hospital—realizing they had taken an Uber and needed directions to the pickup location in Lot B after the husband's radiology procedure. He reflected on how his approachable, trustworthy energy makes strangers feel comfortable seeking his help. There was brief physical interaction as he worked on flexibility/movement exercises with some difficulty. They watched dramatic disaster footage (building collapse/earthquake scene), a space/rocket science video explaining orbital mechanics and escape velocity, and political rally footage with critical commentary.
+Andy spent time with Andrea at home, sharing stories and watching various media content. He recounted helping a Hispanic couple navigate a hospital—realizing they had taken an Uber and needed directions to the pickup location in Lot B after the husband's radiology procedure. He reflected on how his approachable, trustworthy energy makes strangers feel comfortable seeking his help. There was brief physical interaction as he worked on flexibility/movement exercises with some difficulty. They watched dramatic disaster footage (building collapse/earthquake scene), a space/rocket science video explaining orbital mechanics and escape velocity, and political rally footage with critical commentary.
 
 ---
 
@@ -205,6 +210,12 @@ Andy spent time with a companion at home, sharing stories and watching various m
 * **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
 * **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
 
+### Mindfulness & Present-Moment Integration
+* **Verbatim Quote:** "When I meditated today, I could feel a drop of real presence that quieted the whole morning's rush."
+* **Speaker:** Andy
+* **Core Insight:** Stillness is not created by effort, but uncovered when mental busyness settles into grounded presence.
+* **Somatic / Relational Context:** Sustained moment of quiet reflection during daily meditation and audio journaling.
+
 ### Human Behavior & Relational Dynamics
 * **Verbatim Quote:** "I love the Muslims that would kill my family, okay?"
 * **Speaker:** Andy
@@ -216,12 +227,6 @@ Andy spent time with a companion at home, sharing stories and watching various m
 * **Speaker:** Andy
 * **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
 * **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
-
-### Societal Truisms & Cultural Realities
-* **Verbatim Quote:** "I think about black people in a very pronounced way when we come to revolution because the exploitation, the enslavement, the dehumanization and the degradation that's been inflicted on black people is foundational to this society and their system."
-* **Speaker:** Andy
-* **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
-* **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
 
 ### Catchy Phrases & Key Sayings
 - *No high-value catchy phrases recorded today.*
@@ -276,14 +281,13 @@ Andy spent time with a companion at home, sharing stories and watching various m
 
 ## 📻 Miscellaneous Media & References Encountered
 ### Music & Audio
-- *No specific music playback recorded today.*
+{{MUSIC_MEDIA}}
 
 ### Film, Video & TV Shows
-- **Ramon Cardenas Boxing Match**: Live commentary during fight broadcast
-- **Golden State Warriors & Don Nelson Tribute**: Basketball media commentary ("We Believe" era)
+{{FILM_MEDIA}}
 
 ### News & Current Events
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-27 06:23:46*
+*Report automatically generated on 2026-08-29 06:22:06*

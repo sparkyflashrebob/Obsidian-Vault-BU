@@ -32,7 +32,7 @@ _dmccown@wcupa.edu_
 
 a group context, as education rather than therapy (sometimes delivered by medical or mental health experts, sometimes not), for a heterogeneous population—with the emphasis on “what’s right with you.”
 
-![](file:///C:/Users/SPARKY~1/AppData/Local/Temp/msohtmlclip1/01/clip_image002.gif) _Black, D.S. (2014). Mindfulness-based interventions: An antidote to suffering in the context of substance use, misuse, and addiction. Substance Use & Misuse, 49(5):487._
+![](../attachment/a614c00ca566cbfb9e3da0492bb8fc68.gif) _Black, D.S. (2014). Mindfulness-based interventions: An antidote to suffering in the context of substance use, misuse, and addiction. Substance Use & Misuse, 49(5):487._
 
 _*Data obtained from a search for “mindfulness” in the Web of Science database. Search limited to research-related articles. Book-related material excluded._
 
@@ -60,7 +60,7 @@ _*Data obtained from a search for “mindfulness” in the Web of Science databa
 
   
 
-_![Philadelphia+Magic+Gardens-1.jpg](file:///C:/Users/SPARKY~1/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg)![philadelphia-magic-05.jpg](file:///C:/Users/SPARKY~1/AppData/Local/Temp/msohtmlclip1/01/clip_image006.jpg)_
+_![](../attachment/918b42ead6538efb2fc8ddff74da593c.jpg)![](../attachment/e08ec4b5ea335aacefa0320b48f10602.jpg)_
 
             I’m going to offer you thirteen different scavenged pieces—shiny, colorful, solid, precariously balanced—from my ever-growing collection.  Maybe you can be patient and let them build towards something, or maybe you can appreciate each for its own sake.  Just see what happens.
 
@@ -194,7 +194,7 @@ _We cannot prevent ourselves from being spontaneously responsive_ _to events occ
 
             _Non-pathologizing_ refers to that defining perspective that “if you are breathing there is more right with you than there is wrong.” Ideally, no labels are invoked in the
 
-![](file:///C:/Users/SPARKY~1/AppData/Local/Temp/msohtmlclip1/01/clip_image008.jpg)
+![](../attachment/96e87777cba2fe4691fdc1b1f7b110b2.jpg)
 
 _The interweaving of the doing and non-doing dimensions is ultimately  
 infused with the quality of friendship, Aristotle’s_ teleia philia.

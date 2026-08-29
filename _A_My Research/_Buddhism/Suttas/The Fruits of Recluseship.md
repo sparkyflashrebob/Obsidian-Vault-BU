@@ -2,7 +2,7 @@
 [[Sammannaphala Sutta]]
 
 
-also see [[_A_My Research/Dharma Subjects and Themes/Suttas/Brahmajala Sutta]]
+also see [[_A_My Research/_Buddhism/Suttas/Brahmajala Sutta]]
 
 First Fruit - Becoming a monk/recluse one should be venerated and respected regardless of previous status ( such as being a slave)
 

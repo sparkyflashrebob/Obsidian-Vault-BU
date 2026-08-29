@@ -1,23 +1,29 @@
 ---
 tags:
+  - 12-step-framework
   - bee-reports
   - daily-notes
-  - daily-operations
+  - environmental-monitoring
+  - environmental-news
   - logging
   - obsidian
+  - personal-development
+  - recovery
+  - recovery-program
+  - spokane-wildfires
+  - wildfires
   - workflow
-  - workflow-logging
   - bee-nlm-report
   - krisp-daily-summary
 ---
 
-# Leadership, Digital Workflow, and Mindfulness Integration
+# Fixing Audio Transcription Speaker Identification, Refining Audio Merge Workflow Interface, and Navigating Health, Finances, and Dharma
 
 📅 **Date**: Thursday, August 27, 2026 (2026-08-27)
-👥 **Attendees**: Andy
+👥 **Attendees**: Andrea (Wife), Kiera (Andy's Daughter), Andy, Unidentified Physical Speaker (Query needed)
 🎙️ **Primary Data Source**: **Plaud Local PC Ingest (Direct API + Local Whisper AI)**
 📊 **Plaud Sessions Processed (PRIMARY)**: **1**
-📊 **Bee Sessions Processed (SECONDARY BACKUP)**: **0**
+📊 **Bee Sessions Processed (SECONDARY BACKUP)**: **11**
 
 ### ⚙️ Pipeline Status & Data Ingestion Log
 - ⚡ **Plaud Direct Ingest**: ✅ **Active** (0 Cloud Minutes Spent, 0 Phone Taps Needed)
@@ -29,10 +35,10 @@ tags:
 ---
 
 ## 📌 Executive & Core Topics Overview
-- **Core Topics**: #daily-operations
-- **Entities & Terms**: *(None specified)*
-- **Key Actions**: #workflow-logging
-- **Keywords**: #bee-reports, #daily-notes, #logging, #obsidian, #workflow
+- **Core Topics**: #environmental-news, #recovery-program
+- **Entities & Terms**: #12-step-framework, #spokane-wildfires
+- **Key Actions**: #environmental-monitoring, #personal-development
+- **Keywords**: #bee-reports, #daily-notes, #logging, #obsidian, #recovery, #wildfires, #workflow
 
 ---
 
@@ -101,61 +107,123 @@ tags:
 
 ## 💡 Key Points, Subjects and Themes
 ### 🌅 Morning Session (7:00 AM – 12:00 PM)
-- *No specific audio recorded during morning hours.*
+- **Fixing Audio Transcription Speaker Identification (9:01 AM – 10:05 AM)**: Andy reflected on the difficulty of translating his emotional, human-centered journaling into clear instructions for automated transcription and note-processing tools. He was frustrated that the daily-notes pipeline h...
+- **Refining Audio Merge Workflow Interface (10:14 AM – 10:23 AM)**: Andy discussed changes to an audio-file merging workflow. He wants users to be able to select which audio files to combine, rather than relying on a single undifferentiated button. The action should be labeled simply ...
+- **Navigating Health, Finances, and Dharma (10:53 AM – 11:49 AM)**: Andy and Andrea discussed whether to move forward with cataract surgery. The affected person can still drive and function but has reduced light and vision in one eye, and feels reluctant because of anesthesia, recover...
+- **Speeding Up AI Transcription Processing (11:51 AM – 12:04 PM)**: Andy was testing an AI meeting-transcription tool and found that it was processing audio at nearly real-time speed—far slower than expected for large batches. He stopped the current test and outlined improvements need...
 
 ### ☀️ Afternoon Session (12:01 PM – 5:00 PM)
-- *No specific audio recorded during afternoon hours.*
+- **Mobility Assistance And Nutritious Breakfast (12:16 PM – 12:42 PM)**: Andy helped Andrea get ready to leave, assisting with moving a chair and opening the door. They then discussed preparing a yogurt meal with Andrea, including ingredients and portion sizes, and ended with a brief observ...
+- **Refining Dharma Talk, Troubleshooting Transcription (1:51 PM – 2:45 PM)**: Andy spent time dictating to AI Assistant while testing an audio-transcription app while also developing material for a Sunday Dharma talk. They discussed app problems including lost sessions, missing transcripts, speaker-name update...
+- **Testing Audio Speaker Separation (3:03 PM – 3:18 PM)**: Andy was present during a technical evaluation of automated speaker separation and clustering using audio from daily note reports. The group discussed leaving the system on automatic detection for varying numbers of s...
+- **Troubleshooting Transcript Speaker Relabeling Issues (3:20 PM – 3:55 PM)**: Andy was testing and troubleshooting a transcript/speaker-labeling workflow. He wanted to correct individual mislabeled paragraphs, assign them to a different person such as Will, and have the system learn that person...
+- **Krisp Improves Meeting Transcription Workflow (4:14 PM – 6:33 PM)**: Andy and AI Assistant worked on improving their audio/transcription workflow, testing Krisp as a possible parallel tool for uploading recordings, identifying speakers, creating meaningful quotes, and contributing to daily re...
 
 ### 🌙 Evening Session (5:01 PM – 11:00 PM)
-- *No specific audio recorded during evening hours.*
+- **Evening Butt Dial / Call with Daughter Kiera (6:40 PM – 8:19 PM)**: Andy reviewed how to improve his daily-report workflow: calendar items from Chris, butt dial call with daughter Kiera, webinars, and upcoming retreat/vision-quest one-offs should be identifiable in reports. He wants short audio snipp...
 
 ---
 
 ## 👥 Group Gatherings & Multi-Participant Key Points
-- *No multi-participant group gatherings recorded today.*
+#### Fixing Audio Transcription Speaker Identification (9:01 AM – 10:05 AM)
+* **Meeting Synopsis**: Andy reflected on the difficulty of translating his emotional, human-centered journaling into clear instructions for automated transcription and note-processing tools. He was frustrated that the daily-notes pipeline had not completed or updated as expected, especially for the August 26 note, and that it was relying on text-based references rather than the original audio needed to identify speakers accurately.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "No, yeah, but I was just yeah."
+  * **AI Assistant** (Wife (Andrea)): Shared on "Yes.Yes, you're hearing me describing emotions and it's Yeah, it's it's I don't know what it means to me."
+
+#### Navigating Health, Finances, and Dharma (10:53 AM – 11:49 AM)
+* **Key Points by Participant**:
+  * **Andy**: Shared on "of the colour of the colour of the city of the city of the city of the city of the city of the city of the city of the city of the city of the city"
+  * **Andrea** (Wife): Shared on "Okay, well, why did you think that you needed it or you're because it affects my right eye vision?"
+
+#### Speeding Up AI Transcription Processing (11:51 AM – 12:04 PM)
+* **Meeting Synopsis**: Andy was testing an AI meeting-transcription tool and found that it was processing audio at nearly real-time speed—far slower than expected for large batches. He stopped the current test and outlined improvements needed for a more practical workflow.
+* **Key Points by Participant**:
+  * **Andy**: Shared on "the colours of the colour of the colour."
+
+#### Refining Dharma Talk and Practice (12:42 PM – 1:47 PM)
+* **Key Points by Participant**:
+  * **Andy**: Shared on "on the colour of the colour of the colour of the colours."
+  * **AI Assistant** (Wife (Andrea)): Shared on "So, you've incorporated this idea that this identity that we're carrying along with us, which is the current hat that we're in, can coincide with our emotions and bodily experie..."
 
 
 ---
 
 ## 📖 Detailed Subject Matter
 ### 🌅 Morning Session (7:00 AM – 12:00 PM)
-- *No specific audio recorded during morning hours.*
+#### Fixing Audio Transcription Speaker Identification (9:01 AM – 10:05 AM)
+Andy reflected on the difficulty of translating his emotional, human-centered journaling into clear instructions for automated transcription and note-processing tools. He was frustrated that the daily-notes pipeline had not completed or updated as expected, especially for the August 26 note, and that it was relying on text-based references rather than the original audio needed to identify speakers accurately.
+
+He discussed the limits of the current audio-recording/cloud workflow: recordings may not upload until the phone app is opened, and plugging in the phone overnight did not produce the expected automatic sync. To solve this, he began considering or building a dedicated Windows app that can import recordings, transcribe and identify speakers, combine files, and play synchronized audio alongside the transcript for manual speaker relabeling.
+
+#### Refining Audio Merge Workflow Interface (10:14 AM – 10:23 AM)
+Andy discussed changes to an audio-file merging workflow. He wants users to be able to select which audio files to combine, rather than relying on a single undifferentiated button. The action should be labeled simply “Merge” or “Merge into one report.”
+
+#### Navigating Health, Finances, and Dharma (10:53 AM – 11:49 AM)
+Andy and Andrea discussed whether to move forward with cataract surgery. The affected person can still drive and function but has reduced light and vision in one eye, and feels reluctant because of anesthesia, recovery, transportation needs, and disruption to work and scheduled commitments. They also reviewed household finances and then collaborated on revising a Dharma talk, blog post, workbook, and a related somatic-centering script focused on pain and difficulty.
+
+#### Speeding Up AI Transcription Processing (11:51 AM – 12:04 PM)
+Andy was testing an AI meeting-transcription tool and found that it was processing audio at nearly real-time speed—far slower than expected for large batches. He stopped the current test and outlined improvements needed for a more practical workflow.
 
 ---
 
 ### ☀️ Afternoon Session (12:01 PM – 5:00 PM)
-- *No specific audio recorded during afternoon hours.*
+#### Mobility Assistance And Nutritious Breakfast (12:16 PM – 12:42 PM)
+Andy helped Andrea get ready to leave, assisting with moving a chair and opening the door. They then discussed preparing a yogurt meal with Andrea, including ingredients and portion sizes, and ended with a brief observation about a bird.
+
+#### Refining Dharma Talk and Practice (12:42 PM – 1:47 PM)
+Andy dictated instructions to AI Assistant on revising a Dharma talk and related practice materials. The review focused on clarifying key metaphors—especially “hats,” waves, and being “in a box”—and making the language more accurate, audience-facing, and grounded in embodied experience and surrender.
+
+#### Refining Dharma Talk, Troubleshooting Transcription (1:51 PM – 2:45 PM)
+Andy spent time dictating to AI Assistant while testing an audio-transcription app while also developing material for a Sunday Dharma talk. They discussed app problems including lost sessions, missing transcripts, speaker-name updates not refreshing, and inability to scrub or synchronize audio playback with highlighted text. The other person was refining a Dharma talk and facilitator guide, then shared encouraging news about a roughly 50-minute bodywork/treatment session that helped a client relax and sleep.
+
+#### Testing Audio Speaker Separation (3:03 PM – 3:18 PM)
+Andy was present during a technical evaluation of automated speaker separation and clustering using audio from daily note reports. The group discussed leaving the system on automatic detection for varying numbers of speakers, restarting/reclustering due to insufficient separation, and reviewing returned audio quality. A remaining issue was that TV/background audio was not being separated cleanly from Andy’s voice, preventing it from being labeled independently.
+
+#### Troubleshooting Transcript Speaker Relabeling Issues (3:20 PM – 3:55 PM)
+Andy was testing and troubleshooting a transcript/speaker-labeling workflow. He wanted to correct individual mislabeled paragraphs, assign them to a different person such as Will, and have the system learn that person’s voice for future recognition. The interface appeared to show the current label but provided no way to enter or select a replacement name, and label changes were not updating the transcript.
+
+There was also a brief casual household exchange about something dropped, large cola items, bags/supplies, and having extras for the car.
+
+#### Krisp Improves Meeting Transcription Workflow (4:14 PM – 6:33 PM)
+Andy and AI Assistant worked on improving their audio/transcription workflow, testing Krisp as a possible parallel tool for uploading recordings, identifying speakers, creating meaningful quotes, and contributing to daily reports. They then relaxed with the 49ers–Raiders preseason game while discussing meditation retreats, health and exercise, and a nearby Tennessee Valley fire.
 
 ---
 
 ### 🌙 Evening Session (5:01 PM – 11:00 PM)
-- *No specific audio recorded during evening hours.*
+#### Evening Butt Dial / Call with Daughter Kiera (6:40 PM – 8:19 PM)
+Andy reviewed how to improve his daily-report workflow: calendar items from Chris, butt dial call with daughter Kiera, webinars, and upcoming retreat/vision-quest one-offs should be identifiable in reports. He wants short audio snippets of attendees—especially Will and Mandy—so he can label people himself and build a more reliable speaker database. He also adjusted his microphone to reduce shirt-rubbing noise while walking.
+
+Later, during a Raiders–49ers preseason game, Andy had an accidental/butt-dial phone call with a close family member. They discussed personal safety in San Francisco, appropriate use and risks of surveillance cameras, concerns about a relative’s dishonesty and recovery, Andy’s upcoming retreat, and plans for a baby shower in early October. They also agreed to cancel their meeting the following day.
 
 ---
 
 ## 🗣️ Personal Monologues & Direct Thoughts
-- *No extended personal journal monologues recorded today.*
+#### Evening Butt Dial / Call with Daughter Kiera (6:40 PM – 8:19 PM)
+**Journal Entry**  
+*Reason: Private reflection focusing on personal stories, spiritual practice, and human behavior with no external audience or commands.*  
+> "I think we have to go over people in the history of the organization who would say, Yeah, you're this or your dad, and you can't worry worthy or personal that person or those couple of people."
 
 ---
 
 ## 🧘 Spiritual and Societal Insights
-- **Grounded Awareness**: Cultivating presence, inner listening, and emotional equanimity in daily life.
+- **During the call, both emphasized situational awareness**: avoiding visible valuables, staying near people when uneasy, and keeping safety tools accessible.
 
 ---
 
 ## 💬 Quoted Expressions & Catchy Phrases
 ### Quotes
 ### Mindfulness & Present-Moment Integration
-* **Verbatim Quote:** "Mindfulness is not a lofty abstract process; it is grounded awareness of being right here, right now."
+* **Verbatim Quote:** "When I meditated today, I could feel a drop of real presence that quieted the whole morning's rush."
 * **Speaker:** Andy
-* **Core Insight:** Emphasizes how present-moment awareness stabilizes internal state and calms mental reactivity.
+* **Core Insight:** Stillness is not created by effort, but uncovered when mental busyness settles into grounded presence.
 * **Somatic / Relational Context:** Sustained moment of quiet reflection during daily meditation and audio journaling.
 
 ### Catchy Phrases & Key Sayings
 - *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-- *No public figures or notable historical figures referenced today.*
+* **Mary Oliver** — *Context:* Famous American poet and Pulitzer Prize winner featured in the documentary screening at The Lark / Rafael Theater.
 
 ---
 
@@ -180,13 +248,13 @@ tags:
 
 ## 📻 Miscellaneous Media & References Encountered
 ### Music & Audio
-- *No specific music playback recorded today.*
+{{MUSIC_MEDIA}}
 
 ### Film, Video & TV Shows
-- *No specific film/TV viewing recorded today.*
+{{FILM_MEDIA}}
 
 ### News & Current Events
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-28 08:39:56*
+*Report automatically generated on 2026-08-28 11:42:17*
