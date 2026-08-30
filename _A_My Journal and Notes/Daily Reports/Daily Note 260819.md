@@ -16,7 +16,7 @@ tags:
 📅 **Date**: Wednesday, August 19, 2026 (2026-08-19)
 👥 **Attendees**: Andy, Unidentified Physical Speaker (Query needed)
 🎙️ **Primary Data Source**: **Plaud Local PC Ingest (Direct API + Local Whisper AI)**
-📊 **Plaud Sessions Processed (PRIMARY)**: **4**
+📊 **Plaud Sessions Processed (PRIMARY)**: **1**
 📊 **Bee Sessions Processed (SECONDARY BACKUP)**: **15**
 
 ### ⚙️ Pipeline Status & Data Ingestion Log
@@ -43,11 +43,9 @@ tags:
 
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
-- **Fidelity Investments** (Total Value: **$271,011.48** across 4 accounts):
-  - Account `XXXXX2492`: **$256,293.90** | Settled Cash: $25,958.89 (08/27/2026 3:48 AM)
-  - Account `XXXXX1490`: **$11,004.45** | Settled Cash: $10,208.53 (08/27/2026 3:46 AM)
-  - Account `XXXXX1128`: **$3,712.95** | Settled Cash: $42.45 (08/27/2026 3:48 AM)
-  - Account `XXXXX3435`: **$0.18** | Settled Cash: $0.18 (08/27/2026 3:47 AM)
+- **Bank of America** (Total Available Balance: **$12,188.76** across 2 accounts):
+  - Account `SparkyBank - 0372`: **$10,122.92** (08/29/2026 3:43 AM)
+  - Account `TwoAndiesSave - 6171`: **$2,065.84** (08/29/2026 3:39 AM)
 
 ### ✉️ Outgoing Sent Emails & Correspondence
 - *No outgoing sent email replies or correspondence recorded today.*
@@ -142,7 +140,7 @@ tags:
 * **Key Points by Participant**:
   * **Andy**: Shared on "Of meditation before the Dharma."
   * **Jon**: Shared on "What was happening here?"
-  * **Audel** (Wife (Andrea)): Shared on "So it's catching me there."
+  * **AI Assistant** (Wife (Andrea)): Shared on "So it's catching me there."
 
 
 ---
@@ -211,7 +209,12 @@ Andy engaged in conversations with political canvassers advocating for removal o
 #### Human-Centered Daily Report Mindfulness Reflection (8:28 AM – 10:19 AM)
 **Journal Entry**  
 *Reason: Private reflection focusing on inner awareness, personal psychology, and spiritual practice with no external audience or commands.*  
-> "Within my organizal organized structure for the daily notes for either the B or the plod, do I have a file in my web dev information that gives me an overall picture of the purpose for the notes? Is it the CRISP and B Daily Notes Report Automation, System Comp and Technical Reference? Let's change those from CRISP and B daily notes report automation just to daily report notes report automation since they will apply to any reporting that we do. Device we use currently that is the B for the plod, or in our case right now, both B and plod. make sure this is also done in the web dev information folder in my flask flash rebob obsidian notes We use the audio from Andrea on the 17th, where she describes her family to use as a voice imprint for her. Did you add this to the Plaud Voice directory? Okay. I was looking in the Plaud Voice directory and I did not see hers. I'm seeing just mine. Looks like we were losing slightly different folders here. I don't need any voice profiles in the obsidian folders, those are all either text or PDF-based files. My voice profile and Andrew's voice profile are not in the same folder. Oh boy, I'm organizing this computer. I will combine the plod voice directory and the plod voice profiles folders then into the plaid voice profiles I'm a busy bee crazy, crazy, crazy She So Andy's state of affairs this morning after spending another 45 minutes trying to get the things straightened out there with these reports. I'm getting tired of it. The B is very, very flawed, but it's pretty simple because we can download all the transcripts so that we can get the audio and catching up, drinking my glass of water my mind's great. Okay.I'm gonna leave the chair in here."
+> "Within my organizal organized structure for the daily notes for either the B or the plod, do I have a file in my web dev information that gives me an overall picture of the purpose for the notes? Is it the Krisp and B Daily Notes Report Automation, System Comp and Technical Reference? Let's change those from Krisp and B daily notes report automation just to daily report notes report automation since they will apply to any reporting that we do. Device we use currently that is the B for the plod, or in our case right now, both B and plod. make sure this is also done in the web dev information folder in my flask flash rebob obsidian notes We use the audio from Andrea on the 17th, where she describes her family to use as a voice imprint for her. Did you add this to the Plaud Voice directory? Okay. I was looking in the Plaud Voice directory and I did not see hers. I'm seeing just mine. Looks like we were losing slightly different folders here. I don't need any voice profiles in the obsidian folders, those are all either text or PDF-based files. My voice profile and Andrew's voice profile are not in the same folder. Oh boy, I'm organizing this computer. I will combine the plod voice directory and the plod voice profiles folders then into the plaid voice profiles I'm a busy bee crazy, crazy, crazy She So Andy's state of affairs this morning after spending another 45 minutes trying to get the things straightened out there with these reports. I'm getting tired of it. The B is very, very flawed, but it's pretty simple because we can download all the transcripts so that we can get the audio and catching up, drinking my glass of water my mind's great. Okay.I'm gonna leave the chair in here."
+
+#### Human-Centered Daily Report Mindfulness Reflection (8:28 AM – 10:19 AM)
+**One-Sided Chatbot Prompt**  
+*Reason: Task-oriented instruction asking an external assistant or chatbot for document revisions or procedural help.*  
+> "This is my office, by the way. Speaking about the EWI, my musical instrument that I have that broke and I haven't repaired it. I was thinking about the piano. I have to move the chair in there. Realize that uh don't have the a lot of room, but I think there's a room. You gotta gotta gotta gotta I guess I shouldn't uh my back is cramping up now. Uh-huh.Prize I do have to do. Uh Okay. I'll get back in here today and do the uh Lahid thing. So what can I learn from the Ben right now? freedom comes down. Let me see if I can get to the uh report on my obsidian if it sinks or not. I got a headache Drive sync, thinks, folders, plod. Oh, this plod thing doesn't I don't know if it works anymore or not my journal and notes. So that's why What if I make it one way? Now I'm only uploading to So I'm wondering if this um I'm I'm feeling my body right now it's like the uh hangover from dealing with trying to organize the reports this morning. I'm feeling the hangover from that. I think it affects the mood. Be sure I don't hear the upstairs neighbor, nor do I hear the blowers going off. Everything is now muffled. My reports are intended to be like a daily diary a diary, a diary of my life focusing on my thoughts and my interactions with the world. It's not meant to capture everything. And I feel it's gi if it's it's not getting the nuances of my from me per se. It's taking them from a high or it's skipping over them like they don't exist. So like right now my reflection is really important. This is what's important to me but if I were to look at any of the reports tomorrow it would mainly skip over this. Yesterday in my one note that I talked about in the morning that was picked up by the flawed, I read the transcript and the first thing is about how how wonderful the bees were I mean the birds were but none of that is referenced in anything so it's somehow the reports in way that don't doesn't speak to the humanity of living and that's what I would like that report to be because what I would like to document is the humanity of my existence a lot of the details getting these reports and things all those are unimportant in a way they are unimportant they're high level things and they should say the report should say he spent five hours trying to fix a report and spent five minutes meditating which is essentially the truth roughly here or there a few minutes yeah noting laughter noting humor I saw in one of the plaid things where he was kind of like a psychoanalyst. I guess I would see that would be a good thing to add. There's like a mood, an atmosphere. I saw that from the B report. They call it atmosphere. The mood. And that can be inferred through the speech, either by directly saying what my mood is, or through the way that the recordings pick up the audio, which the V can't do that because it's already stripped out, but we can do that with the flawed notes. I noticed the plod had very little reports other than that one that talked about kind of like a diary And that's what I would like is a diary kind of diary splash journal so this is it you know the same thing diary is writing about your interpersonal world and a journal is doing kind of the same thing so I don't know the difference between I mean I guess a diary is something that's private and a journal is um not necessarily Yeah, it would be nice to find a way to get that to happen, meaning have it more of a diary journal focus and eliminate any references to um I don't know what they're eliminate. I'd have to look at that maybe just condense the uh any of the uh technical discussion other than to um the human element of it, meaning where I'm ex pressing frustration or elation and maybe why, yeah, a couple lines summary I don't need any more than that it's all minutia, everything is here other than gone, lost. I'm doing all this 'cause it's kind of hard to write this type of stuff down or remember it. Yeah, the interactions that are the the important things, the things that the memories yeah, what do I want to remember? What the memories of this day, the memories of my experience would I want to reflect to others when I talk about mindfulness and living a life, a purposeful life? Am I even living a purposeful life? It seems like so much of what I'm doing is running around that, just trying to slide it up and never getting to the point. It's not, not never. When I sit down and write and think and contemplate and like this right now, this is important. What I'm doing right now is important And It is easier to speak it than to write it Okay, so I think I'm going to go and proceed with uh thinking about Dharma and there's a lot of noise right now. Hopefully I can get it you get in the meditation I'm supposed to go to uh this thing at um five and I'm supposed to go to Tai Chi Let's see if I go to either of them My phone wow, these tires, his phone stuff is what's going on. Okay, so I forgot already what I was trying to do here. I go to my phone, I see a text message from Andrea about my sister. My mind goes to that."
 
 #### Human-Centered Daily Report Mindfulness Reflection (8:28 AM – 10:19 AM)
 **Journal Entry**  
@@ -221,12 +224,12 @@ Andy engaged in conversations with political canvassers advocating for removal o
 #### Human-Centered Daily Report Mindfulness Reflection (8:28 AM – 10:19 AM)
 **Journal Entry**  
 *Reason: Private reflection focusing on personal stories, spiritual practice, and human behavior with no external audience or commands.*  
-> "Okay, I'm okay. I'm doing a lot of actually this other gun, John I'm trying to reach, he is with Insight Meditation Center, so down in the peninsula. So I'm gonna do some volunteer work for them with some of their recordings and stuff, so I'm just kind of hook up with them and so uh Nina, maybe I do. I've been I don't know them very well, um, but I may I'm not sure. Uh I'm I'm not sure. Anyway, I've I did a qu uh a r retreat there at Nella a few years back, and I was going and actually going to hear some of those Sunday morning talks for a while, but it's kind of far away for me to drive that all the time, so it's infrequent. But anyway, I'm just getting, I'm trying to get more and more involved in the Dharma in as well as I can, and I'm teaching again and I'm actually going to do a college of Marin thing with a mindfulness group thing. So I've been pretty busy that way stuff. I have a website, blog post, I'm just doing all of it again, which I had done in the past. Yeah, I had been burnt out, so I kind of got away from it, but now I'm getting back into it because I'm not working anymore."
+> "Ultimately, I believe this is true. It's lonely when you think about it from overall my story, what I've gone through is exclusive to me."
 
 #### Human-Centered Daily Report Mindfulness Reflection (8:28 AM – 10:19 AM)
-**Journal Entry**  
-*Reason: Private reflection focusing on inner awareness, personal psychology, and spiritual practice with no external audience or commands.*  
-> "What I'm going to do is I'm going to add you to my book as a Dharma friend, and then that will be helpful. So yeah, I appreciate it. You're doing all right, huh?"
+**One-Sided Chatbot Prompt**  
+*Reason: Task-oriented instruction asking an external assistant or chatbot for document revisions or procedural help.*  
+> "And the point is that when there is there can only be one dominant male, the other ones are subordinates, and then sometimes they get kicked out and they have to go and develop their own pride they're they're on their own. But anyway, I've always been that way. I've been on my own path. I've done, you know none of the other siblings of mine went to college or had any whole education. Shelly did, but she did all of hers through the military. And I know she did other education afterwards, but you know, Diana and Lisa and Chris they didn't really do anything that's that's um and uh maybe yeah, that's all formulated when you're in your teens and uh I don't know how they experience life that way, they never had the drive for that, or society never encouraged them for that. I don't even know if they were good students or not, you know. Shelly was a well, she always says that she was an average student, and I believe her there, but Nero put me on a pedestal, but I was smarter than everybody. And That's smarts are there are different levels to that for sure as I've been discussing, reflecting upon my memory of shit in terms of like immediate I think I just kind of slip over those kinds of things or pick out the more bigger details, you know in what in my mind are the bigger details. You know, my mind just focused on is more on the big picture versus the some of the fine points, and yet as a teacher, as a mindfulness teacher, I'm just trying to point people back inward. Because that's what it's all about. Actually, being human is what it's all about. Being comfortable in your own skin and being at peace within yourself. You don't need a religion for that. But can you have internal peace without having some understanding of the world that is peaceful? I don't think you."
 
 ---
 
@@ -309,13 +312,13 @@ Andy engaged in conversations with political canvassers advocating for removal o
 
 ## 📻 Miscellaneous Media & References Encountered
 ### Music & Audio
-- *No specific music playback recorded today.*
+{{MUSIC_MEDIA}}
 
 ### Film, Video & TV Shows
-- *No specific film/TV viewing recorded today.*
+{{FILM_MEDIA}}
 
 ### News & Current Events
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-27 08:52:07*
+*Report automatically generated on 2026-08-29 12:39:41*

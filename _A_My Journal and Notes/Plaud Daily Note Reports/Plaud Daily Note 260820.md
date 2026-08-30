@@ -154,7 +154,7 @@ Happy Thursday, Andy! Here's your daily brief.
 ---
 
 ## 📚 Stories & Case Examples Shared
-- **Recorded Account**: *"Plaud NotePin voice archiving and DriveSync automation verified clean."*
+
 
 ---
 

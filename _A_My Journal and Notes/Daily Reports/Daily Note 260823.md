@@ -26,7 +26,7 @@ tags:
 📅 **Date**: Sunday, August 23, 2026 (2026-08-23)
 👥 **Attendees**: Andy, Unidentified Physical Speaker (Query needed)
 🎙️ **Primary Data Source**: **Plaud Local PC Ingest (Direct API + Local Whisper AI)**
-📊 **Plaud Sessions Processed (PRIMARY)**: **6**
+📊 **Plaud Sessions Processed (PRIMARY)**: **1**
 📊 **Bee Sessions Processed (SECONDARY BACKUP)**: **15**
 
 ### ⚙️ Pipeline Status & Data Ingestion Log
@@ -88,7 +88,7 @@ tags:
 > 
 > ### FYI
 > 
-> - Mon, Aug 24 • 6:30 PM • Audel & Andy SDRT (1h) [📅 View event](https://www.google.com/calendar/event?eid=aGNhZ3A5cHIyZGZhZjlrNGl2cXU5cDhyajZfMjAyNjA4MjVUMDEzMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0&ctz=America/Los_Angeles)
+> - Mon, Aug 24 • 6:30 PM • AI Assistant & Andy SDRT (1h) [📅 View event](https://www.google.com/calendar/event?eid=aGNhZ3A5cHIyZGZhZjlrNGl2cXU5cDhyajZfMjAyNjA4MjVUMDEzMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0&ctz=America/Los_Angeles)
 >   - Join via [✨ Google Meet](https://meet.google.com/ytq-jeoq-umi)
 > - Wed, Aug 26 • Consider several PG&E and Plaud AI updates occurring mid-week.
 >   - Plaud AI: Your free trial for the Annual Unlimited Plan ends on Wed, Aug 26. If not canceled, your Visa ending in 6681 will be charged $239.99 for the year [🔗 view trial info](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873897874195369589) [📅 Add Reminder](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Reminder%3A+Plaud+AI+Trial+Ends+Tomorrow&dates=20260825T090000%2F20260825T100000&ctz=America%2FLos_Angeles&details=Your+free+trial+for+the+Plaud+AI+Annual+Unlimited+Plan+ends+tomorrow.+If+not+canceled%2C+your+Visa+ending+in+6681+will+be+charged+%24239.99.&location=online&add=&src=9ce1c90023e8f292fc11074e76d9471f3fbe9d145cb949d80645c6d60f0e8d25@group.calendar.google.com)
@@ -116,7 +116,7 @@ tags:
 - **Andy plans to explore the Great Law of Peace further. (10:11 AM – 10:31 AM)**: principles really had an effect on me to know Knockwood, who was a get to a very profound inspirational Micmac spiritual leader. So Micmac Canada, Canadian.
 - **Andy begins planning for future gatherings and reviews current needs. (10:53 AM – 11:15 AM)**: Yeah. In the future where there are group gatherings at dinners, birthdays, meditation group meetings, etc. Provide a synopsis of the meeting and the key points made, if available.
 - **Andy identifies voice recognition errors and plans to switch from B to Plaid. (11:15 AM – 11:46 AM)**: If I didn't necessarily need to know whether it was morning, afternoon, or evening, could we determine the order in which events occur with the plot? If we ignored needing the morning, evening, and afternoon designati...
-- **Session 14 (11:56 AM – 12:03 PM)**: Can I specific a specific heat note to my watch, like my shopping list? There is no way to add my note to my watch so that it just pops up.
+- **Session 9 (11:56 AM – 12:03 PM)**: Can I specific a specific heat note to my watch, like my shopping list? There is no way to add my note to my watch so that it just pops up.
 
 ### ☀️ Afternoon Session (12:01 PM – 5:00 PM)
 - **Andy decides on meatballs for the family meal. (12:10 PM – 12:20 PM)**: Just two. So what we do is we split it up to the week.
@@ -133,7 +133,7 @@ tags:
 
 ## 👥 Group Gatherings & Multi-Participant Key Points
 #### Processing meeting transcripts for VisionQuest (8:24 AM – 8:34 AM)
-* **Meeting Synopsis**: Andy was organizing his thoughts about processing meeting materials from a VisionQuest gathering held the previous evening. He was planning to create detailed transcript reports for different portions of the event, including his dharma sharing session at 7 a.m. and various meetings, using his established CRISP reporting system. Andy recognized he could generate separate reports for specific activities like dinner discussions and general meetings from the recordings he collected. He confirmed that he had completed his "quiet time" activities and was determining how to structure this ongoing organizational approach moving forward.
+* **Meeting Synopsis**: Andy was organizing his thoughts about processing meeting materials from a VisionQuest gathering held the previous evening. He was planning to create detailed transcript reports for different portions of the event, including his dharma sharing session at 7 a.m. and various meetings, using his established Krisp reporting system. Andy recognized he could generate separate reports for specific activities like dinner discussions and general meetings from the recordings he collected. He confirmed that he had completed his "quiet time" activities and was determining how to structure this ongoing organizational approach moving forward.
 * **Key Points by Participant**:
   * **Andy**: Shared on "So continuing to unpack the house from VisionQuest meeting here last night I think all I'd have to do is one of the things I could do is ask for a specific transcript for specif..."
 
@@ -158,7 +158,7 @@ tags:
 ## 📖 Detailed Subject Matter
 ### 🌅 Morning Session (7:00 AM – 12:00 PM)
 #### Processing meeting transcripts for VisionQuest (8:24 AM – 8:34 AM)
-Andy was organizing his thoughts about processing meeting materials from a VisionQuest gathering held the previous evening. He was planning to create detailed transcript reports for different portions of the event, including his dharma sharing session at 7 a.m. and various meetings, using his established CRISP reporting system. Andy recognized he could generate separate reports for specific activities like dinner discussions and general meetings from the recordings he collected. He confirmed that he had completed his "quiet time" activities and was determining how to structure this ongoing organizational approach moving forward.
+Andy was organizing his thoughts about processing meeting materials from a VisionQuest gathering held the previous evening. He was planning to create detailed transcript reports for different portions of the event, including his dharma sharing session at 7 a.m. and various meetings, using his established Krisp reporting system. Andy recognized he could generate separate reports for specific activities like dinner discussions and general meetings from the recordings he collected. He confirmed that he had completed his "quiet time" activities and was determining how to structure this ongoing organizational approach moving forward.
 
 #### Organizing recordings for pre-CAI documentation (8:35 AM – 8:41 AM)
 An individual shared reminiscences about organizational dreams and documentation experimentation from a previous period (described as "pre-CAI"). The speaker reflected on their role in what appeared to be a collaborative documentation project involving recording and organizing various materials. They described themselves as being in a support capacity, contributing as "one of many nameless faces" in the collaborative effort rather than taking a primary leadership role.
@@ -180,7 +180,7 @@ Dialogue recorded: Yeah. In the future where there are group gatherings at dinne
 #### Andy identifies voice recognition errors and plans to switch from B to Plaid. (11:15 AM – 11:46 AM)
 Dialogue recorded: If I didn't necessarily need to know whether it was morning, afternoon, or evening, could we determine the order in which events occur with the plot? If we ignored needing the morning, evening, and afternoon designations, could we determine with Laud...
 
-#### Session 14 — 📍 Marin DSA Special Meeting: 2028 Presidential Endorsement Discussion @ Robson-Harrington House, 237 Crescent Rd Suite 4, San Anselmo, CA 94960, USA (11:56 AM – 12:03 PM)
+#### Session 9 — 📍 Marin DSA Special Meeting: 2028 Presidential Endorsement Discussion @ Robson-Harrington House, 237 Crescent Rd Suite 4, San Anselmo, CA 94960, USA (11:56 AM – 12:03 PM)
 *Context / Event Alignment*: Overlaps with scheduled Calendar event **Marin DSA Special Meeting: 2028 Presidential Endorsement Discussion** @ Robson-Harrington House, 237 Crescent Rd Suite 4, San Anselmo, CA 94960, USA.
 
 Dialogue recorded: Can I specific a specific heat note to my watch, like my shopping list? There is no way to add my note to my watch so that it just pops up. Okay, I want to be able to open up my Go Google at the grocery store and bring up my shopping list. I don't wa...
@@ -231,7 +231,7 @@ Andy led a dharma teaching session focusing on the Bahia Sutta from Buddhist tea
 #### Processing meeting transcripts for VisionQuest (8:24 AM – 8:34 AM)
 **Journal Entry**  
 *Reason: Private reflection focusing on inner awareness, personal psychology, and spiritual practice with no external audience or commands.*  
-> "Okay, so you're So continuing to unpack the house from VisionQuest meeting here last night I think all I'd have to do is one of the things I could do is ask for a specific transcript for specific portions of the day like I can talk about like dinner or meetings those can be separate reports that I can create from the recordings I got the crisp thing so for Saturday I've got the crisp thing from my dharma my not my dharma talk but my sharing at the 7 a. m. and then I have I can get a report of the of the meeting transcript of the meeting so I can do that with no problem I can probably even use the same yeah I could just do a generic repeating report I think on that um Um trying to work through that now. That would be just something I'll do moving forward. So otherwise we've done a quiet time, I think."
+> "Okay, so you're So continuing to unpack the house from VisionQuest meeting here last night I think all I'd have to do is one of the things I could do is ask for a specific transcript for specific portions of the day like I can talk about like dinner or meetings those can be separate reports that I can create from the recordings I got the krisp thing so for Saturday I've got the krisp thing from my dharma my not my dharma talk but my sharing at the 7 a. m. and then I have I can get a report of the of the meeting transcript of the meeting so I can do that with no problem I can probably even use the same yeah I could just do a generic repeating report I think on that um Um trying to work through that now. That would be just something I'll do moving forward. So otherwise we've done a quiet time, I think."
 
 #### Meditation discomfort management (8:53 AM – 9:08 AM)
 **Journal Entry**  
@@ -243,10 +243,15 @@ Andy led a dharma teaching session focusing on the Bahia Sutta from Buddhist tea
 *Reason: Private reflection focusing on inner awareness, personal psychology, and spiritual practice with no external audience or commands.*  
 > "principles really had an effect on me to know Knockwood, who was a get to a very profound inspirational Micmac spiritual leader. So Micmac Canada, Canadian. He was responsible for, he was kind of like the spiritual leader, held the sacred pipe. He revived a lot of traditional ceremonies and he actually brought in teaching into addiction and healing work. So now I understand why his poem is in there. So anyway, the one of the course, you know, from the four core group of teachings he taught philosophy related to M, All My Relations, let's say it different, and Dakota that we use in our group here. Then there's this certain sacred gifts which were respect, courage, honesty, wisdom, humility, and truth, which are pretty neat principles in themselves. And I think I really love that that he promoted that. And I'm just highlighting some of these things as I go. And the Earth is a living sanctuary. So his prayers, Four Directions Prayer published in the Earth Prayers. Anyway, he was very inspirational and the Bikmac were involved in teaching Two Eyed Singh, Itua Putmunk. Seeing the world through two distinct lenses, the one the strength of the indigenous ways and the other ways of knowing and using the other's eyes to s see the strength of western sciences. So anyway, a lot of these stuff, uh, things are very and uh I I find very uh complementary and important. Um and then some of these other ones that are really good for ecology, like uh Nidu Gum Lumek Limk, uh which is uh sacred um sustainability, taking only what's necessary for the individual community, a sacred limit, uh, homely uh non-compromise, arging only what is legitimate and doesn't impair diminish biodiversity, and coexistence over um ownership. Yeah, and there's a lot more that I would like to review a little bit later and add to the seven generations principles, etcetera."
 
-#### Living Mindfully Meditation Meeting (5:00 PM – 5:19 PM)
+#### Andy plans to explore the Great Law of Peace further. (10:11 AM – 10:31 AM)
+**One-Sided Chatbot Prompt**  
+*Reason: Task-oriented instruction asking an external assistant or chatbot for document revisions or procedural help.*  
+> "little dangerous more medical plants than I'm thinking about a little bit maybe I have to do and explain you know did I do it or did I not going back to the Native Americans and this whole Southern Generations principle also has a couple of things involved in it. It was these origins of what they call the Great Law of Peace, which is Guyana Sago Law. You notice where the six councils came together apparently and became peacemakers instructed them that their skins must be seven spans thick to resist anger, offense, and personal ego, and their minds look far ahead. There's a quote here: Look and listen for the welfare of the whole people, and always have in view not only the present but also the coming generation, even those whose faces are yet not beneath the service of the ground, the unborn generation. Wish I knew where that quote came from. And then the Council of Women and Clan Mothers held significant authority in selecting and holding accountable the male chiefs, ensuring that governance remained focused on the long-term domestic, ecological, and spiritual security of future families. So this post-seven generations looking back three generations, honoring the wisdom, struggles, and language and culture handed down by our great-grandparents, grandparents, and parents. Then we have the present center, and then we have that where we look forward through generations. This includes our generation, our children, our grandchildren, and great-grandchildren, you know, taking responsibility that they'll inherit the world that we provide. And then holding all of that span together. Those whole kind of core pillars of practice and governance is, you know, we conserve resources and engage in restraint. We built consensus and decision-making, and then there's intergenerational injustice that is applied. Going back to making my oatmeal. I just want to finish this. This whole idea of a great law of peace, you know. There's a whole bunch here. I want to explore there. But very interesting that part of that is it influenced the founding of the U. S. government and Constitution. Franklin said it would be strange thing it would be a strange thing if the six nations of ignorant savages would be capable of forming a scheme for such a union, and yet that a life union should be impractical for ten or a dozen English colonies. So he's talking about going forming the government. And then there's a Senate resolution with fifth states in Senate Resolution 331 in 1988. The confederation of the original thirteen colonies and one into one specific republic was influenced by the political system developed by the Iroquois Confederacy, as were many of the democratic principles which are incorporated into the Constitution itself. Interesting in admission. Inclusion of women right off the bat birth kinship, men kinship, and property ownership. Government under great law includes explicit duty of care to the natural world, plants, waters, and animals, rather than treating nature solely as an economic aspect to be partitioned. Uh So where's that chlorias?"
+
+#### Andy begins planning for future gatherings and reviews current needs. (10:53 AM – 11:15 AM)
 **Journal Entry**  
 *Reason: Private reflection focusing on personal stories, spiritual practice, and human behavior with no external audience or commands.*  
-> "So I'll check in for myself. Uh I am uh a little tired myself having some needed tea. I think it's a few little things, but uh I'll I'll muffle through them. It's okay. We are getting a little boring, but we'll see how it works with that. Um but otherwise I'm in good spirits. I'm very happy with how things are progressing for my organizational activities and things. And hopefully that's going to settle down so I can be more involved in the content of things. I was mentioning with you some earlier things that I was researching today and looking forward to digging in and having an organized method of way of dealing with it. So yeah, that's that. Okay, so thank you. So I was noticing what my old mind was doing while getting ready for this meeting. Okay.Uh so in reality the the moment is quite simple. We're here just with a couple of us and a few friends, quiet space. And I've got some notes and things that were in front of me and some things to talk about. But that's all that there actually is going on. But right before my start point, you know, my mind started spinning a whole secondary disaster. Not much today because I've been practicing this, you know, wondering if I was going to say or make any sense, whether I was going to be coherent or I was just going to ramble on, freeze up, which has happened to me a couple times, and fall on my fall, you know, flat on my face. I don't know about you, but I frequently feel that I'm on your ballot at times, right? And we do this kinda all the time. We take s a simple neutral moment and we pile on a you know, worry and stories on top of it. And then we wonder why we feel like we're just using my term banging our heads against the wall. So later after we sit, I want to talk some more about why we do that and how we can step out of that ex restriction that we cause. So as we move into our meditation today, we can just let all those stories rest for a while right now. We don't need to fix anything. We don't need to perform. And we don't need to argue with how things are or are or not. We can just show up and take a breath together and let things be exactly as they are. So with that, bringing this intention to our overall practice tonight and to our meditation as we move on now. So with that, a yes, question. Okay, I might do that. I'll mute my mic and open the door after I get the instructions. Thank you. Thank you. So what I'll do is I'll invite us to find a comfortable and upright posture while we settle into a moment of meditation."
+> "In the future where there are group gatherings at dinners, birthdays, meditation group meetings, etc. Provide a synopsis of the meeting and the key points made, if available."
 
 ---
 
@@ -278,13 +283,13 @@ Andy led a dharma teaching session focusing on the Bahia Sutta from Buddhist tea
 ### Spirituality, Impermanence & Interconnection
 * **Verbatim Quote:** "We pray that we may be aligned with you so that your power may flow through us and be expressed by us for the good of this planet Earth and all living beings upon it."
 * **Speaker:** Andy
-* **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
+* **Core Insight:** Reflects on spiritual wisdom, impermanence, and releasing rigid ego attachments.
 * **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
 
 ### Spirituality, Impermanence & Interconnection
 * **Verbatim Quote:** "Do which page this poem comes in, Earth Prayers?"
 * **Speaker:** Andy
-* **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
+* **Core Insight:** Reflects on spiritual wisdom, impermanence, and releasing rigid ego attachments.
 * **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
 
 ### Catchy Phrases & Key Sayings
@@ -293,7 +298,7 @@ Andy led a dharma teaching session focusing on the Bahia Sutta from Buddhist tea
 ### Notable Names Mentioned
 * **Buddha** — *Context:* Historical founder of Buddhism and source of Dhamma teachings.
 * **Jack Kornfield** — *Context:* Pioneer American mindfulness teacher and author.
-* **Donald Trump** — *Context:* Former U.S. President mentioned in news commentaries.
+* **Ed Brown** — *Context:* Zen teacher and Tassajara bread book author.
 
 ---
 
@@ -301,23 +306,31 @@ Andy led a dharma teaching session focusing on the Bahia Sutta from Buddhist tea
 ### Cultivating Empathy vs Remote Isolation
 * **Narrative Context:** Andy discussing social empathy, judgment, and emotional boundaries during a domestic reflection.
 * **The Key Passage (Verbatim):**
-  > "And that's not what I'm talking about here. I'm talking a sense of understanding, compassion, empathy, peace, that brings about."
+  > "But if I can take a peaceful attitude, if I can have some compassion for myself, enough I could be loving towards myself, and I can sit with that, then that settles down. That actually promotes peace inside of me."
 * **The Human / Contemplative Tension:** Balancing personal peace with remaining open to others' genuine suffering without becoming cynical.
 * **The Turning Point / Realization:** Realizing that judging others' unskillful behavior is itself a subtle trap of isolation.
 * **Universal Truth / Teaching:** True compassion requires stepping into another's shoes while maintaining clear, grounded awareness.
+
+### Relational Warmth in Medical Care & Body Management
+* **Narrative Context:** Andy reflecting on a recent medical consultation and checkup at Kaiser Permanente in San Rafael.
+* **The Key Passage (Verbatim):**
+  > "I agree, I got sober in San Alina hospital, so right there."
+* **The Human / Contemplative Tension:** Managing ongoing health challenges, weight concerns, and medication adjustments.
+* **The Turning Point / Realization:** Experiencing open, friendly dialogue with healthcare providers that replaced medical anxiety with collaborative trust.
+* **Universal Truth / Teaching:** Empathy and human warmth in therapeutic interactions significantly reduce bodily tension and fear.
+
+### Memorable Golf Outing & Reconnecting with Family Generosity
+* **Narrative Context:** Andy reflecting on family connections and remembering a golf outing with Greg Sr. when he was 21-22 years old.
+* **The Key Passage (Verbatim):**
+  > "Andrew made it sound it was Greg. It's baby."
+* **The Human / Contemplative Tension:** Navigating long gaps in communication with extended family while desiring to express genuine appreciation.
+* **The Turning Point / Realization:** Noticing a spontaneous feeling of gratitude and reaching out to acknowledge past kindness.
+* **Universal Truth / Teaching:** Generosity and quiet kindness leave lasting impressions across decades, transcending distance and time.
 
 ### Cultivating Empathy vs Remote Isolation
 * **Narrative Context:** Andy discussing social empathy, judgment, and emotional boundaries during a domestic reflection.
 * **The Key Passage (Verbatim):**
   > "Contemplative, introspective, and practice-focused. Andy was working skillfully with discomfort and challenging states of mind, maintaining a compassionate and loving approach to his meditation practice."
-* **The Human / Contemplative Tension:** Balancing personal peace with remaining open to others' genuine suffering without becoming cynical.
-* **The Turning Point / Realization:** Realizing that judging others' unskillful behavior is itself a subtle trap of isolation.
-* **Universal Truth / Teaching:** True compassion requires stepping into another's shoes while maintaining clear, grounded awareness.
-
-### Cultivating Empathy vs Remote Isolation
-* **Narrative Context:** Andy discussing social empathy, judgment, and emotional boundaries during a domestic reflection.
-* **The Key Passage (Verbatim):**
-  > "He reflected on maintaining loving, compassionate awareness during difficult sits"
 * **The Human / Contemplative Tension:** Balancing personal peace with remaining open to others' genuine suffering without becoming cynical.
 * **The Turning Point / Realization:** Realizing that judging others' unskillful behavior is itself a subtle trap of isolation.
 * **Universal Truth / Teaching:** True compassion requires stepping into another's shoes while maintaining clear, grounded awareness.
@@ -342,13 +355,13 @@ Andy led a dharma teaching session focusing on the Bahia Sutta from Buddhist tea
 
 ## 📻 Miscellaneous Media & References Encountered
 ### Music & Audio
-- *No specific music playback recorded today.*
+{{MUSIC_MEDIA}}
 
 ### Film, Video & TV Shows
-- *No specific film/TV viewing recorded today.*
+{{FILM_MEDIA}}
 
 ### News & Current Events
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-27 08:53:38*
+*Report automatically generated on 2026-08-29 12:40:57*

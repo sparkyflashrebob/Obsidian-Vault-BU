@@ -129,7 +129,7 @@ tags:
 - **Exploring Feeling Tone Before Judgment (3:59 PM – 4:21 PM)**: Andy had an informal conversation with another person after or around a sitting/meditation period. Andy said he was able to sit again for the final ten minutes but felt somewhat cramped and busy. The discussion moved ...
 
 ### 🌙 Evening Session (5:01 PM – 11:00 PM)
-- **Watching Dark City, Discussing Memory (4:54 PM – 7:33 PM)**: Andy spent an evening at home with Audel, eating and talking about well-being, meditation, exercise, and physical limitations. They discussed a self-help video about loving difficult people, Buddhist/Dharma concepts f...
+- **Watching Dark City, Discussing Memory (4:54 PM – 7:33 PM)**: Andy spent an evening at home with AI Assistant, eating and talking about well-being, meditation, exercise, and physical limitations. They discussed a self-help video about loving difficult people, Buddhist/Dharma concepts f...
 
 ---
 
@@ -137,20 +137,20 @@ tags:
 #### Meeting Attribution And Report Adjustments (8:37 AM – 9:09 AM)
 * **Meeting Synopsis**: Andy reviewed and corrected speaker attribution notes from a meditation meeting, then refined requirements for a financial report covering Bank of America and Fidelity balances. He also appeared to be checking balances or report behavior live while making adjustments.
 * **Key Points by Participant**:
-  * **Audel** (Wife (Andrea)): Shared on "Mandy quote number three is accurate"
+  * **AI Assistant** (Wife (Andrea)): Shared on "Mandy quote number three is accurate"
   * **Andy**: Shared on "Let's see what happens here."
 
 #### Improving Daily Reports Transcript Accuracy (10:29 AM – 11:44 AM)
 * **Meeting Synopsis**: Andy briefly discussed meditation, breathing, coffee, and playful ham-radio-style jokes. He then reviewed and gave detailed feedback on his daily-note/report workflow, using the August 26 daily note as an example. He noted that he and Andrea had walked to a Mary Oliver documentary screening at the Lark Rafael Theater, but this important event was missing or inconsistently represented in the report.
 * **Key Points by Participant**:
-  * **Audel** (Wife (Andrea)): Shared on "Where's that at?"
+  * **AI Assistant** (Wife (Andrea)): Shared on "Where's that at?"
   * **Andy**: Shared on "the city of the city,"
 
 #### Troubleshooting Automated Audio Transcript Failures (11:47 AM – 12:57 PM)
 * **Meeting Synopsis**: Andy was troubleshooting his Plaud daily-transcript automation and became frustrated that recent daily files were reporting only “quiet ambient background” rather than capturing usable conversations. He revisited questions about encrypted versus unencrypted audio, API authorization/token expiration, browser-generated transcripts, subscriptions, USB/phone-based audio access, and whether nightly phone unlocking is required. He ultimately unlocked his phone and paused to calm himself through breathing.
 * **Key Points by Participant**:
   * **Andy**: Shared on ", and the colour of the city of the city of the city of the city of the city of the city of the city of the city of the city of the city of the city of the city of the city of t..."
-  * **Audel** (Wife (Andrea)): Shared on "When I do when I use Flaud, the app on my browser, and I click generate, then I'm going to be using minutes."
+  * **AI Assistant** (Wife (Andrea)): Shared on "When I do when I use Flaud, the app on my browser, and I click generate, then I'm going to be using minutes."
 
 #### Planning Retirement Around Her Wellbeing (3:38 PM – 3:55 PM)
 * **Meeting Synopsis**: Andy had a supportive conversation with a friend about health, exercise, medication changes, retirement, and the financial and emotional challenges facing the friend’s partner. The friend is concerned that his partner—around 80 and living with a disability—may be pushing herself to keep working longer than is healthy. They discussed Social Security options, modest income needs, and the possibility of easing her transition into retirement while she develops a client-based or energy-work practice.
@@ -172,7 +172,7 @@ Andy was listening to what sounded like a health or exercise program about chron
 #### Improving Daily Reports Transcript Accuracy (10:29 AM – 11:44 AM)
 Andy briefly discussed meditation, breathing, coffee, and playful ham-radio-style jokes. He then reviewed and gave detailed feedback on his daily-note/report workflow, using the August 26 daily note as an example. He noted that he and Andrea had walked to a Mary Oliver documentary screening at the Lark Rafael Theater, but this important event was missing or inconsistently represented in the report.
 
-Andy emphasized that Andrea is being incorrectly identified as “Adele/Audel,” clarified that Adele is a separate person in Nebraska, and asked for voice-profile-based verification. He also raised concerns that Plod recordings and transcripts have not been consistently ingested since August 19, undermining the accuracy of the daily reports.
+Andy emphasized that Andrea is being incorrectly identified as “Adele/AI Assistant,” clarified that Adele is a separate person in Nebraska, and asked for voice-profile-based verification. He also raised concerns that Plod recordings and transcripts have not been consistently ingested since August 19, undermining the accuracy of the daily reports.
 
 #### Troubleshooting Automated Audio Transcript Failures (11:47 AM – 12:57 PM)
 Andy was troubleshooting his Plaud daily-transcript automation and became frustrated that recent daily files were reporting only “quiet ambient background” rather than capturing usable conversations. He revisited questions about encrypted versus unencrypted audio, API authorization/token expiration, browser-generated transcripts, subscriptions, USB/phone-based audio access, and whether nightly phone unlocking is required. He ultimately unlocked his phone and paused to calm himself through breathing.
@@ -202,7 +202,7 @@ The other person described repeatedly troubleshooting a reporting automation tha
 
 ### 🌙 Evening Session (5:01 PM – 11:00 PM)
 #### Watching Dark City, Discussing Memory (4:54 PM – 7:33 PM)
-Andy spent an evening at home with Audel, eating and talking about well-being, meditation, exercise, and physical limitations. They discussed a self-help video about loving difficult people, Buddhist/Dharma concepts for recognizing suffering without spiraling, and the importance of pacing oneself when discomfort becomes overwhelming.
+Andy spent an evening at home with AI Assistant, eating and talking about well-being, meditation, exercise, and physical limitations. They discussed a self-help video about loving difficult people, Buddhist/Dharma concepts for recognizing suffering without spiraling, and the importance of pacing oneself when discomfort becomes overwhelming.
 
 They compared similar new eyeglasses, noted smoke in the area—possibly from prescribed burns or fireplaces—and later watched *Dark City* together. Both were enthusiastic about the film’s concept, imagery, and ending. They also discussed future streaming plans, including possibly subscribing to HBO later to catch up on *Game of Thrones*, while nearing the end of *Silo*.
 
@@ -211,10 +211,25 @@ News footage about catastrophic glacier-related flooding in Nepal/Tibet prompted
 ---
 
 ## 🗣️ Personal Monologues & Direct Thoughts
+#### Planning Retirement Around Her Wellbeing (3:38 PM – 3:55 PM)
+**One-Sided Chatbot Prompt**  
+*Reason: Task-oriented instruction asking an external assistant or chatbot for document revisions or procedural help.*  
+> "Give me a chance to get some exercise. Yeah.I mean, I go out walking just once or twice a day every day and so I'm I uh I already got something, but I don't what I'm doing today or that's that's so hopefully your immunity built up so it will body to reality. I don't know, I've had a community, you know, I'm on three meditations and I didn't go I didn't go get the shot where they want to go every day or whatever they want to do or anything possible. So I'm changing my medicine right now. So based on my new day so I don't know how compatible it is for me right now. So we'll see if it's gonna get in."
+
+#### Planning Retirement Around Her Wellbeing (3:38 PM – 3:55 PM)
+**One-Sided Chatbot Prompt**  
+*Reason: Task-oriented instruction asking an external assistant or chatbot for document revisions or procedural help.*  
+> "So you could you can retire and get benefits. I feel eight percent less per year, eight percent from that per year, eight percent. That's what I did because they cut off my attention. I get to choose whether I special security or not. Yeah."
+
 #### Watching Dark City, Discussing Memory (4:54 PM – 7:33 PM)
 **Journal Entry**  
 *Reason: Private reflection focusing on inner awareness, personal psychology, and spiritual practice with no external audience or commands.*  
 > "Thank you for coming and seeing me under that shutting notes. I'm further my studies. I don't understand. You say you're my husband's foster, but he never mentioned you. The truth is, Mrs. Murdoch, John has been coming to see you for quite some time. He has been grappling with dealings with trail, spending some marriage with difficulties."
+
+#### Watching Dark City, Discussing Memory (4:54 PM – 7:33 PM)
+**One-Sided Chatbot Prompt**  
+*Reason: Task-oriented instruction asking an external assistant or chatbot for document revisions or procedural help.*  
+> "Just take what they give me, Hustle Dick. Can I see what I'm on the certain guy?"
 
 #### Watching Dark City, Discussing Memory (4:54 PM – 7:33 PM)
 **Journal Entry**  
@@ -232,7 +247,7 @@ News footage about catastrophic glacier-related flooding in Nepal/Tibet prompted
 ### Quotes
 ### Mindfulness & Contemplative Inquiry
 * **Verbatim Quote:** "I was not the host facilitator for that after that 11 to 1230 meditation group."
-* **Speaker:** Audel
+* **Speaker:** AI Assistant
 * **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
 * **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
 
@@ -256,7 +271,7 @@ News footage about catastrophic glacier-related flooding in Nepal/Tibet prompted
 
 ### Mindfulness & Contemplative Inquiry
 * **Verbatim Quote:** "This is not a sermon, it's a Dharma talk to talk about mindfulness, meditation, etc. Sermons are religious and associated with baptism, etc."
-* **Speaker:** Audel
+* **Speaker:** AI Assistant
 * **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
 * **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
 
@@ -290,13 +305,13 @@ News footage about catastrophic glacier-related flooding in Nepal/Tibet prompted
 
 ## 📻 Miscellaneous Media & References Encountered
 ### Music & Audio
-- *No specific music playback recorded today.*
+{{MUSIC_MEDIA}}
 
 ### Film, Video & TV Shows
-- *No specific film/TV viewing recorded today.*
+{{FILM_MEDIA}}
 
 ### News & Current Events
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-27 12:10:33*
+*Report automatically generated on 2026-08-29 12:45:24*

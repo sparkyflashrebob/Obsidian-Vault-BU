@@ -22,7 +22,7 @@ tags:
 📅 **Date**: Saturday, August 22, 2026 (2026-08-22)
 👥 **Attendees**: Andrea (Wife), Andrea (Wife), Andy
 🎙️ **Primary Data Source**: **Plaud Local PC Ingest (Direct API + Local Whisper AI)**
-📊 **Plaud Sessions Processed (PRIMARY)**: **9**
+📊 **Plaud Sessions Processed (PRIMARY)**: **1**
 📊 **Bee Sessions Processed (SECONDARY BACKUP)**: **14**
 
 ### ⚙️ Pipeline Status & Data Ingestion Log
@@ -225,6 +225,11 @@ Andrea hosted and facilitated the first vision quest preparation meeting at her 
 > "So I got the room to myself for the year. It worked out for me, but I feel real bad about the consequences of some of our actions sometimes, you know, how we impact others. And then um but anyway, um and then I'm talking a lot about high school because it was transitioned where I got eventually my grades started degrading. I wasn't getting into the program on the VM, which was broadcast communications. And I ended up getting involved with a group of people in politics there at the campus and student government. And this one group of people I connected with were people who drank and smoked weed and they were actually people I should have never been around because I was not like them. They were racist and sexist and I kind of looked beyond it and I can't believe from my background. Oh, I didn't say Mike some from a mixed background. I have my father was my two of my stepfathers were black and I have a mixed family. I grew up in black neighborhoods. I've always been around very diverse groups of people, different groups of ideas. You know, it didn't really matter what your sexual orientation was or what was going on with you. We were very liberal, and that's the mindset I've had my whole life. But anyway, these guys were not that way. I ended up dropping out of high school and then at some point I found a girlfriend and ended up wanting to marry her within three months. She was just like me. She was also one of us, although she never recognized it at the time. And my marriage, my first marriage, was very combative. What changed, we were using and drinking and fighting, and I was a good person and deep down she is too, but just kept on making a lot of, you know, we weren't right, we weren't stable. And then um but then I had my my my daughter, uh, Ryan, when I was forty at this time, so 16 years married. But at 40, um, uh, she was born and it changed me as a person. All of a sudden I had a purpose where I you know, I had always just I had no purpose before then, and uh so um I ended up going moving to Napa and going and getting uh have a full-time job and full-time family and uh going to school to become an engineer and I did that and struggled and then I got with that and then we were having troubles the whole time. Eventually, I did get a job as a truck engineer."
 
 #### Addiction Recovery: Surrender and Healing (7:13 AM – 7:40 AM)
+**One-Sided Chatbot Prompt**  
+*Reason: Task-oriented instruction asking an external assistant or chatbot for document revisions or procedural help.*  
+> "My disease ramped up. I was uh I was um doing I ended up doing crack seeing hookers and eventually on my actually on my 40th birthday that was my 40th birthday when I crashed and burned. On my 40th birthday it was opening for Pat Bell Park and I wanted to celebrate my 40th birthday and I had nobody to celebrate with. I went to go see my hooker girlfriend to get crack and I went and bought a bottle of Jack Daniels and I went on and started partying by myself. Ended up getting into a fight with my ex-wife at this point and tried to commit suicide. So that was my bottom right there. It was up in one thing I talk about a lot is that the theme for me is surrendering. I finally woke up. I ended up have my stomach pumped. They sent me to the psych ward for three days. They asked me if I wanted to go downstairs. This is at St. Alina and I said I didn't know what was downstairs. I said yes I'll go. That was a rehab and then all of a sudden I met you guys and I was like whoa there's a whole bunch of people like me and I wasn't alone anymore. It was if when I tried to commit suicide I was all alone right and all of a sudden I was with you and that was a wonderful thing and I mean I've meet some I've you know I moved to Nevado so an area I'd never been I'd never been in Vince County and I eventually got hooked up by Dave Moss to come down to the 7 a. m. for breakfast at the Dominican Club and tell story pegs here. I'll tell a story about Bob. We were at breakfast and my first time and apparently Pat was going to ask Bob if he could be a spa if he would be a sponsor. And Bob turned to me and said, Hey, that guy needs a sponsor and ended up that's how I got Pat as my sponsor. And I'm very grateful for that because I got absorbed into recovery seven days a week, morning and evening. I was going to meetings, secretarying meetings, did that full burn for many, many years. As you guys know, love the 7 a. m. , love the people I've met, you know, and I've learned a lot about life. I've learned a lot about people. You know, that's I think there's some things that really have spurred me on. And I know I have just a few minutes here, but learning about being curious about life and learning about how people act and how we are and getting to understand that better is maybe more tolerant. And so for me to look at, I try to take when I judge others, I try to apply how I can apply that to me, and that helps me so much. So when I see when someone isn't going through certain situations very well or behaving a certain way, I don't try, I try not, I do, but I try not to condemn them, but to turn that inward and ask me, how am I like that? How am I, you know, how do I act out? A lot of my theme that I've been moving towards is, you know, is how can I get out of myself and how can I heal myself and how can I look to be a better person for the world and not, you know, for myself? It just can't be selfish. If it's all selfish, that's part of the sickness and the disease right there. And so I've turned to try to help others in different ways. Many of you know that I'm big on, I got, when I was doing the third step, I got pushed back into my Buddhism and into my into I'm I'm not God fearing and you know when I go and one of the things I was thinking of is that when I look for God's will for me it's a blank I never get an answer okay there's nothing there even when I look for it at me there's nothing there so and you know and so for me I know that it's something that I've connected but I have created my own word for God because it's I want some God is a to me it places that is some person that's going to save me there's nobody's going to save me and so I have to look for the universe for the energy you know something bigger than that and the death bigger than God I hate to say for me that's the way I view it and so that has been my path um I've been I've tried to teach others I have meditation groups I'm getting back into teaching now after getting burned out for a few years of everything I've retired so now I'm no longer working and I'm actually paying attention to my health a little bit more now I'm to I'm paying attention to my not just living with the stress of life but actually trying to become more of a more of the person that I've I've always had the excuse I can't be me because I got these all these obligations and things I got to do and or these circumstances are in my way and so I'm trying to put emphasis on that to grow to continue to grow and so far so good. And yeah, seeing you know, I just want to say that whatever draws your attention to having some kind of spiritual connection is important. It doesn't have to be a certain way and you may not even fully understand it. But if you give it a chance, when you meditate, and this is something I like to talk a lot, when you meditate and you go inside, a lot of it's very jumbled in there. There's a lot of guard, you know, it's not smooth sailing. And so that could be very disheartening for us because we take it on as us."
+
+#### Addiction Recovery: Surrender and Healing (7:13 AM – 7:40 AM)
 **Journal Entry**  
 *Reason: Private reflection focusing on inner awareness, personal psychology, and spiritual practice with no external audience or commands.*  
 > "That's who I am. That's just the way it is right now. But if I can take a peaceful attitude, if I can have some compassion for myself, and if I can be loving towards myself, and I can sit with that, then that settles down. That actually promotes peace inside of me. And when you have that peace, that's something that you can work with and develop and expand. And when you can do that in yourself, then I can start looking towards helping others. But if I'm not peaceful myself, if I'm bitter, angry, resentful, you know, we all know what those things are. We all know they're in us already. We don't need somebody to tell us what right from wrong is."
@@ -232,91 +237,163 @@ Andrea hosted and facilitated the first vision quest preparation meeting at her 
 ---
 
 ## 🧘 Spiritual and Societal Insights
-- **Key recovery principles Andy discussed include**: avoiding judgment of others by turning it inward, focusing on helping others rather than being selfish, and the importance of meditation practice
+- **Surrender as the Gateway to Recovery**
+  - **Core Observation:** Andy describes surrender not as defeat but as the essential turning point that made recovery possible. The moment of hitting bottom — a suicide attempt on his 40th birthday — became the opening through which he entered sobriety and community.
+  - **Systemic / Psychological Context:** Multiple speakers, including Justin and Bernie, echo this theme. Bernie notes that people like them are conditioned not to surrender, making the act of surrender a profound counter-cultural and psychological shift. Justin connects surrender to finally accepting the disease model of addiction rather than using it as an excuse.
+  - **Practical Application:** Recognizing surrender as an active, courageous choice rather than passive failure allows individuals to reframe their lowest moments as catalysts for transformation.
+
+- **Not Making Yourself a Problem**
+  - **Core Observation:** Andy introduces the concept of not making oneself a problem — recognizing when one's own unresolved inner state places a burden on others — as a spiritual and relational discipline.
+  - **Systemic / Psychological Context:** This connects to self-awareness practices and the idea that unprocessed trauma, resentment, and ego-driven behavior create ripple effects in relationships and communities. Justin reinforces this by identifying the compulsive creation of chaos and conflict as a learned behavioral pattern rooted in family trauma.
+  - **Practical Application:** Regularly asking "How am I making myself a problem right now?" serves as a practical self-inventory tool that reduces harm in relationships and supports collective well-being.
+
+- **Inner Peace as a Prerequisite for Helping Others**
+  - **Core Observation:** Andy states that one cannot effectively help others or shine a light outward while internally consumed by anger, resentment, or unrest. Inner peace must be cultivated first.
+  - **Systemic / Psychological Context:** This reflects principles found in contemplative psychology and nervous system regulation — that a dysregulated internal state limits one's capacity for empathy and effective action. Neha reinforces this by describing her own experience of being unable to settle into a parasympathetic state during a period of stress.
+  - **Practical Application:** Prioritizing personal spiritual and emotional maintenance — through meditation, step work, or self-compassion — is not selfish but foundational to genuine service to others.
+
+- **Selfishness as a Core Feature of the Disease**
+  - **Core Observation:** Andy identifies selfishness — the inability to get out of oneself — as central to the sickness of addiction, not merely a character flaw.
+  - **Systemic / Psychological Context:** This aligns with psychological models of addiction that describe self-centeredness as both a symptom and a sustaining mechanism of the disease. The antidote, as described, is an outward orientation: service, teaching, and helping others.
+  - **Practical Application:** Actively seeking ways to contribute to others — through sponsorship, meditation groups, or simple presence — serves as a direct counter to the self-referential loop of addictive thinking.
+
+- **Meditation and the Turbulent Inner Landscape**
+  - **Core Observation:** Andy describes the interior experience of meditation as often jumbled and unsettled, cautioning against interpreting this turbulence as a personal failing or a reflection of who one truly is.
+  - **Systemic / Psychological Context:** This reflects well-documented experiences in contemplative practice where the initial encounter with one's own mind can be disorienting. The instruction to meet this with self-compassion rather than judgment mirrors trauma-informed mindfulness approaches.
+  - **Practical Application:** Approaching meditation with compassion and patience — rather than expecting immediate calm — allows practitioners to stay with the practice long enough for genuine peace to emerge and stabilize.
+
+- **Spiritual Connection Without Prescribed Form**
+  - **Core Observation:** Andy articulates a spirituality that does not conform to traditional theistic frameworks. He describes God as insufficient language for what he seeks — something larger, more universal — and emphasizes that the form of spiritual connection matters less than the sincerity of the seeking.
+  - **Systemic / Psychological Context:** This reflects the AA tradition of "God as we understood him" and speaks to the broader psychological need for meaning and transcendence that does not require institutional religion. Don and Peg also describe personal, non-dogmatic relationships with a higher power.
+  - **Practical Application:** Allowing individuals to define their own spiritual language and framework increases accessibility to recovery and reduces the barrier of religious alienation for those who are non-theistic or spiritually unaffiliated.
+
+- **Trauma as Conditioning That Persists Into Adult Life**
+  - **Core Observation:** Andy, Don, Justin, and Pam all describe early childhood trauma — chaotic households, abusive or absent parents, poverty, fear — as formative conditioning that shaped their adult behavior, relationships, and addictive patterns.
+  - **Systemic / Psychological Context:** This reflects the well-established relationship between adverse childhood experiences and addiction, mental health challenges, and relational dysfunction. The stories collectively illustrate how unprocessed trauma becomes encoded as behavioral defaults.
+  - **Practical Application:** Naming and acknowledging the origins of one's patterns — through step work, therapy, or shared testimony — is a necessary step in interrupting those patterns and building new responses.
+
+- **The Fellowship as Antidote to Isolation**
+  - **Core Observation:** Andy describes the moment of entering AA after his suicide attempt as the first time he was no longer alone. The discovery of community — people like him — was itself a healing force.
+  - **Systemic / Psychological Context:** Isolation is both a symptom and an accelerant of addiction. The communal structure of AA directly addresses this by providing belonging, accountability, and shared identity. Pam echoes this, noting she learned to love people through AA.
+  - **Practical Application:** Consistent meeting attendance and active participation in fellowship — not just sobriety maintenance — is itself a therapeutic intervention that addresses the relational wounds underlying addiction.
+
 
 ---
 
 ## 💬 Quoted Expressions & Catchy Phrases
 ### Quotes
-### Human Behavior & Relational Dynamics
-* **Verbatim Quote:** "The days and nights fly by and noticing a lot of aging, a lot of our family passing on and very grateful for the life that I have today."
-* **Speaker:** Andy
-* **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
-* **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
+* **"I don't need to make myself a problem. When I make myself a problem, I put my burden on others."**
+  - **Attributed To:** Andy McGuire
+  - **Significance:** Distills a mature spiritual and relational ethic — that self-awareness and inner work are acts of service to others, not merely personal development.
 
-### Human Behavior & Relational Dynamics
-* **Verbatim Quote:** "Family moved up to the Bay Area to Richmond, Point Richmond, when I was about three."
-* **Speaker:** Andy
-* **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
-* **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
+* **"If it's all selfish, that's part of the sickness and the disease right there."**
+  - **Attributed To:** Andy McGuire
+  - **Significance:** Names selfishness not as a moral failing but as a diagnostic marker of the disease itself, reframing the path outward as treatment rather than virtue.
 
-### Human Behavior & Relational Dynamics
-* **Verbatim Quote:** "I have my father was my two of my stepfathers were black and I have a mixed family."
-* **Speaker:** Andy
-* **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
-* **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
+* **"When you meditate and you go inside, a lot of it's very jumbled in there. That's just the way it is right now."**
+  - **Attributed To:** Andy McGuire
+  - **Significance:** Normalizes the difficult interior experience of contemplative practice, reducing the shame and discouragement that cause people to abandon meditation prematurely.
 
-### Human Behavior & Relational Dynamics
-* **Verbatim Quote:** "There were some behaviors that I could not accept anymore and I finally left and it devastated me."
-* **Speaker:** Andy
-* **Core Insight:** Examines social habits, cultural conditioning, and shared human behavior in everyday interactions.
-* **Somatic / Relational Context:** Observed during social exchanges and reflections on group relationships.
+* **"We bang our head against the wall because we keep on messing up. But one day, you decide not to step in that pothole."**
+  - **Attributed To:** Andy McGuire
+  - **Significance:** Captures the gradual, non-linear nature of behavioral change — that repetition and persistence eventually produce a moment of genuine choice where the old pattern is no longer automatic.
 
-### Societal Truisms & Cultural Realities
-* **Verbatim Quote:** "And yeah, seeing I just want to say that whatever draws your attention to having some kind of spiritual connection is important."
-* **Speaker:** Andy
-* **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
-* **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
+* **"Guys like us, we don't surrender. What the hell's that? I'd rather lose a leg and an arm before I give up."**
+  - **Attributed To:** Bernie
+  - **Significance:** Honestly names the psychological resistance to surrender that is characteristic of the addictive personality, making the act of surrender all the more significant when it finally occurs.
+
+* **"I think for the longest time I thought I'll go to these meetings, I'll hit reset, and then I can quietly or slowly let the alcohol back in."**
+  - **Attributed To:** Justin
+  - **Significance:** Exposes the self-deception mechanism common in early recovery — the bargaining mindset that treats sobriety as temporary rather than as a permanent reorientation.
+
+* **"AA is assisted living."**
+  - **Attributed To:** Pam
+  - **Significance:** A concise and disarming reframe that acknowledges the ongoing, structural nature of the support AA provides — not a cure but a sustained community of care.
+
+* **"I learned to love in Alcoholics Anonymous."**
+  - **Attributed To:** Pam
+  - **Significance:** Speaks to the transformative relational capacity that recovery can restore or build for the first time in people whose early lives did not model healthy love.
+
+* **"Alcoholics Anonymous is my purpose in life. It's what has saved my life."**
+  - **Attributed To:** Don Raymond
+  - **Significance:** Reflects the way the program provides not only sobriety but existential meaning — a sense of purpose that many in addiction had never previously experienced.
 
 ### Catchy Phrases & Key Sayings
 - *No high-value catchy phrases recorded today.*
 
 ### Notable Names Mentioned
-* **Buddha** — *Context:* Historical founder of Buddhism and source of Dhamma teachings.
-* **Donald Trump** — *Context:* Former U.S. President mentioned in news commentaries.
+- *No public figures or notable historical figures referenced today.*
+
 
 ---
 
 ## 📚 Stories & Case Examples Shared
-### Cultivating Empathy vs Remote Isolation
-* **Narrative Context:** Andy discussing social empathy, judgment, and emotional boundaries during a domestic reflection.
-* **The Key Passage (Verbatim):**
-  > "But if I can take a peaceful attitude, if I can have some compassion for myself, enough I could be loving towards myself, and I can sit with that, then that settles down. That actually promotes peace inside of me."
-* **The Human / Contemplative Tension:** Balancing personal peace with remaining open to others' genuine suffering without becoming cynical.
-* **The Turning Point / Realization:** Realizing that judging others' unskillful behavior is itself a subtle trap of isolation.
-* **Universal Truth / Teaching:** True compassion requires stepping into another's shoes while maintaining clear, grounded awareness.
 
-### Relational Warmth in Medical Care & Body Management
-* **Narrative Context:** Andy reflecting on a recent medical consultation and checkup at Kaiser Permanente in San Rafael.
-* **The Key Passage (Verbatim):**
-  > "I agree, I got sober in San Alina hospital, so right there."
-* **The Human / Contemplative Tension:** Managing ongoing health challenges, weight concerns, and medication adjustments.
-* **The Turning Point / Realization:** Experiencing open, friendly dialogue with healthcare providers that replaced medical anxiety with collaborative trust.
-* **Universal Truth / Teaching:** Empathy and human warmth in therapeutic interactions significantly reduce bodily tension and fear.
+### Andy McGuire — His Own Story
+- Born in Riverside, California; family moved to Richmond Point in the Bay Area when he was about three
+- Parents divorced; mother's partner for eight or nine years was a heroin addict
+- Grew up in lower Richmond and later Oakland amid significant chaos and trauma
+- Beat up in eighth grade by a group; mother arranged transfer to Berkeley schools, which he described as a turning point and a godsend
+- Attended West Campus Berkeley High; was a straight-A student and football player
+- First got drunk around age twelve on a trip to the North Shore of Oahu in Hawaii
+- Began smoking and drinking at summer camp while working at the horse corral
+- Attended San Francisco State; grades declined; did not get into broadcast communications program
+- Got involved in student government with a group he described as racist and sexist, which he found incompatible with his background growing up in diverse, mixed communities
+- Dropped out; met a woman and wanted to marry her within three months; first marriage was combative, marked by using, drinking, and fighting
+- Daughter Ryan was born when he was 40, after 16 years of marriage; her birth gave him purpose for the first time
+- Moved to Napa; worked full time, raised a family, went to school to become an engineer
+- Got a job as a truck engineer with access to games and events; described it as an ideal job
+- Personal life continued to deteriorate; left the marriage; disease escalated
+- On his 40th birthday — the opening of Bell Park — he had no one to celebrate with; went to see a woman he was involved with to get crack, bought a bottle of Jack Daniels, got into a fight with his ex-wife, and attempted suicide
+- Had his stomach pumped; sent to a psychiatric ward for three days at St. Helena
+- Agreed to go to the rehab downstairs; encountered AA for the first time and felt he was no longer alone
+- Moved to Marin County; connected by Dave Moss to the 7am breakfast at the Dominican Club
+- At his first breakfast, Bob pointed him toward Por as a sponsor; he was absorbed into recovery, attending meetings seven days a week, morning and evening
 
-### Cultivating Empathy vs Remote Isolation
-* **Narrative Context:** Andy discussing social empathy, judgment, and emotional boundaries during a domestic reflection.
-* **The Key Passage (Verbatim):**
-  > "He described meditation as initially "jumbled" but important for developing self-compassion and inner peace"
-* **The Human / Contemplative Tension:** Balancing personal peace with remaining open to others' genuine suffering without becoming cynical.
-* **The Turning Point / Realization:** Realizing that judging others' unskillful behavior is itself a subtle trap of isolation.
-* **Universal Truth / Teaching:** True compassion requires stepping into another's shoes while maintaining clear, grounded awareness.
+### Andy McGuire — Story About Bob and Por
+- At Andy's first 7am breakfast, Por was apparently going to ask Bob to be his sponsor
+- Bob turned to Andy and said that guy needs a sponsor, pointing to Por
+- That exchange resulted in Por becoming Andy's sponsor
 
-### Relational Warmth in Medical Care & Body Management
-* **Narrative Context:** Andy reflecting on a recent medical consultation and checkup at Kaiser Permanente in San Rafael.
-* **The Key Passage (Verbatim):**
-  > "Andy: I grew I got sober at Saint Helena Hospital, so right there."
-* **The Human / Contemplative Tension:** Managing ongoing health challenges, weight concerns, and medication adjustments.
-* **The Turning Point / Realization:** Experiencing open, friendly dialogue with healthcare providers that replaced medical anxiety with collaborative trust.
-* **Universal Truth / Teaching:** Empathy and human warmth in therapeutic interactions significantly reduce bodily tension and fear.
+### Don Raymond — Childhood Neighbor Story
+- Grew up in poverty; lived near alleys that were her playground
+- Directly across from her house lived a Black family
+- She was often hungry and would sneak over and knock on their door
+- The wife would answer; the husband could be heard telling her to stop feeding those people
+- The wife would hide a couple of slices of bread behind her back and give them to Don without her husband seeing
+- Don described the family's two sons as people she was close with and said she would never forget them
 
-### Cultivating Empathy vs Remote Isolation
-* **Narrative Context:** Andy discussing social empathy, judgment, and emotional boundaries during a domestic reflection.
-* **The Key Passage (Verbatim):**
-  > "Jon: He's on shoes, but if I have to get started and Oh, she's on the she took an earlier text, but she wasn't going to be able to make the quest case work this year."
-* **The Human / Contemplative Tension:** Balancing personal peace with remaining open to others' genuine suffering without becoming cynical.
-* **The Turning Point / Realization:** Realizing that judging others' unskillful behavior is itself a subtle trap of isolation.
-* **Universal Truth / Teaching:** True compassion requires stepping into another's shoes while maintaining clear, grounded awareness.
+### Don Raymond — Her Own Story
+- Had an alcoholic father who beat the family
+- Education was cut short at age 15 due to pregnancy; chose to keep the baby; her son now lives in San Francisco and she is proud of him
+- Connected with Andy's meditation and Buddhism teachings and relies on them when facing difficulties
+
+### Justin — His Own Story
+- Not new to AA but describes himself as new to finally committing to it
+- Has approximately ten to eleven days of sobriety at the time of the meeting
+- Pattern of going to meetings, resetting, then slowly allowing alcohol back in, which would lead directly to cocaine use
+- Has a wife who has stood by him through years of this cycle
+- Father had the same disease; Justin describes finally accepting that he has it too
+- Family background marked by constant chaos creation, which he struggles not to replicate
+
+### Pam — Post Office and Car Stories
+- Now living in assisted living in Ventura, Southern California
+- Went to the front desk to find a nearby post office; received a phone number; was uncertain whether it was a post office or something else but could not bring herself to ask a follow-up question
+- Described this as a lifelong pattern rooted in childhood: she was only ever allowed one question and never a follow-up
+- Practiced self-compassion by praising herself for having gone and asked at all, and planning to try again
+- Has a car that was driven down to her location; afraid to go start it because she fears the battery is dead and has built up a catastrophe scenario around it
+- Asked a man at the desk where parking section 61 was; he pointed to a tree; she realized she still needed to ask how to get there but again could not ask the follow-up question
+
+### Neha — Story About Jim Boo
+- Described Jim as her ideal of a person: someone who walked the walk with a smile, willing to help wherever needed, who would drop everything in the middle of the night to assist someone
+- Said she always told him she wanted to be like him
+- Referenced him in the past tense, mourning his passing
+
+### Stephen D — Story About Jim Boo
+- Jim had some health issues recently but nothing that seemed too pressing
+- Likely died of a heart attack; had a prior heart issue a few years back
+- Jim's daughter had just gotten married approximately one month before his death; Stephen had seen Jim at the wedding
+
 
 ---
 
@@ -330,13 +407,13 @@ Andrea hosted and facilitated the first vision quest preparation meeting at her 
 
 ## 📻 Miscellaneous Media & References Encountered
 ### Music & Audio
-- *No specific music playback recorded today.*
+{{MUSIC_MEDIA}}
 
 ### Film, Video & TV Shows
-- *No specific film/TV viewing recorded today.*
+{{FILM_MEDIA}}
 
 ### News & Current Events
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-27 08:52:50*
+*Report automatically generated on 2026-08-29 12:40:15*

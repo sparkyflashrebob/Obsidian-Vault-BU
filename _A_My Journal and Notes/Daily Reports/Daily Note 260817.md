@@ -25,7 +25,7 @@ tags:
 📅 **Date**: Monday, August 17, 2026 (2026-08-17)
 👥 **Attendees**: Andy, Unidentified Physical Speaker (Query needed)
 🎙️ **Primary Data Source**: **Plaud Local PC Ingest (Direct API + Local Whisper AI)**
-📊 **Plaud Sessions Processed (PRIMARY)**: **15**
+📊 **Plaud Sessions Processed (PRIMARY)**: **1**
 📊 **Bee Sessions Processed (SECONDARY BACKUP)**: **16**
 
 ### ⚙️ Pipeline Status & Data Ingestion Log
@@ -74,8 +74,8 @@ tags:
 > - A payment of $242.65 was made to Whole Foods Market - San Rafael on Sunday, Aug 16 [🔗 View receipt](https://gmail.app.goo.gl/?link=https%3A//mail.google.com/mail/%3Faccount%3Dsparkyflashrebob%40gmail.com%26tf%3Dcv%23th%3D%23thread-f%3A1873704973111445921)
 >   - Items included Turkey Meatloaf, Rosemary Chicken, organic produce, and Marin Kombucha. Transaction ID: MJ5AGH8WWP.
 > - Today • Raiders Training Camp (All Day) [📅 View event](https://www.google.com/calendar/event?eid=MTJrNHNnMXMyZ2VrcWthMnU3cmw3djE4N3Ygc3Bhcmt5Zmxhc2hyZWJvYkBt&ctz=America/Los_Angeles)
-> - Today • 6:30 PM • Audel & Andy SDRT (1h) via [✨ Google Meet](https://meet.google.com/ytq-jeoq-umi) [📅 View event](https://www.google.com/calendar/event?eid=aGNhZ3A5cHIyZGZhZjlrNGl2cXU5cDhyajZfMjAyNjA4MThUMDEzMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0&ctz=America/Los_Angeles)
->   - Note: Both attendees have currently declined this invitation. You might want to reach out to Audel to reschedule.
+> - Today • 6:30 PM • AI Assistant & Andy SDRT (1h) via [✨ Google Meet](https://meet.google.com/ytq-jeoq-umi) [📅 View event](https://www.google.com/calendar/event?eid=aGNhZ3A5cHIyZGZhZjlrNGl2cXU5cDhyajZfMjAyNjA4MThUMDEzMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0&ctz=America/Los_Angeles)
+>   - Note: Both attendees have currently declined this invitation. You might want to reach out to AI Assistant to reschedule.
 > 
 > ### FYI
 > 
@@ -240,6 +240,11 @@ Andy was preparing to watch a movie and made popcorn while having a brief conver
 *Reason: Private reflection focusing on inner awareness, personal psychology, and spiritual practice with no external audience or commands.*  
 > "Regarding the D and PLOD daily reports, I would like to start incorporating the information from your day ahead that I receive from the automation that comes in my email and includes that brief in that report near the section on emails sent. So, right after the city of the What I would like to do is have them listed in the report, but then go review them on my own to audit what is required to keep. They should only be incorporated into reports from today on. change fast to be incorporated starting from April twenty seventh, twenty twenty six and onwards where available Talking to oneself The nature of honesty"
 
+#### Digital life organization review (11:51 AM – 12:24 PM)
+**One-Sided Chatbot Prompt**  
+*Reason: Task-oriented instruction asking an external assistant or chatbot for document revisions or procedural help.*  
+> "So I updated actually a re-downloaded starting point. I Think I've got my priorities all the five ways, but that's something I'm going to be mindful of. So I updated, I redownloaded all the living minds from the from the first one to the uh current one from Krisp and put them in the appropriate folders and putting the uh recordings in a separate file and then the ND files are in the flash revolve obsidian, which is cool. So I'm going to unsubscribe to Chef. This is part of the thing I want to go and deal with on I don't mind looking, having my name in the white pages as my address. That's okay. So if I go here and I look at my my day ahead for today to have more than one oh, yeah, so so just looking at what's going on here, just talking about deciding on my plot, pin notes, and description plan right now, I'm just going to see if my recordings are good. That's what I spend most of my time on. So all of that is going to be just put on hold for maybe a week or so. Okay, noting I got some deliveries, I made a payment the whole schools, which is true. I've got a note for Raiders training camp just because I'm keeping a track of that. And then today, for some reason, okay, so we've declined this invitation, so it is cancelled for the day, and I don't understand why it's on the calendar because it is not on my actual calendar itself. Okay.Then the rest of the week, Mindfulness Meditation Club, that is ongoing. I'm not going ever to the Nevada campuses. Well, I don't want to say never, but that's not my plan. Right now, I plan to just do my own F Com thing, which Will and I are emailing each other and following that back and forth by getting that set up. To start sometime in the middle to end of September, ordered something for Kira that's still scheduled for delivery. I'm hoping to go to this Ultimate Democracy Reform Town Hall tomorrow. We'll see about that. It's on my schedule right now. The fidelity webinars, I'm not going to attend them really much more except for special cases."
+
 ---
 
 ## 🧘 Spiritual and Societal Insights
@@ -259,7 +264,7 @@ Andy was preparing to watch a movie and made popcorn while having a brief conver
 ### Spirituality, Impermanence & Interconnection
 * **Verbatim Quote:** ", so how does knowledge turn into wisdom?"
 * **Speaker:** Andy
-* **Core Insight:** Highlights fundamental interconnectedness, self-forgiveness, and releasing rigid ego attachments.
+* **Core Insight:** Reflects on spiritual wisdom, impermanence, and releasing rigid ego attachments.
 * **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
 
 ### Psychological Conditioning & Vulnerability
@@ -325,13 +330,13 @@ Andy was preparing to watch a movie and made popcorn while having a brief conver
 
 ## 📻 Miscellaneous Media & References Encountered
 ### Music & Audio
-- **Paul Shannon Interview / Podcast**: Amazon anthropological research ("ordinary" vs "non-ordinary" reality)
+{{MUSIC_MEDIA}}
 
 ### Film, Video & TV Shows
-- *No specific film/TV viewing recorded today.*
+{{FILM_MEDIA}}
 
 ### News & Current Events
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-27 08:51:20*
+*Report automatically generated on 2026-08-29 12:38:58*

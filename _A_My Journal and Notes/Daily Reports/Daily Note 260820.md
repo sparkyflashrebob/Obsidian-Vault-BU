@@ -22,7 +22,7 @@ tags:
 📅 **Date**: Thursday, August 20, 2026 (2026-08-20)
 👥 **Attendees**: Andy, Unidentified Physical Speaker (Query needed)
 🎙️ **Primary Data Source**: **Plaud Local PC Ingest (Direct API + Local Whisper AI)**
-📊 **Plaud Sessions Processed (PRIMARY)**: **5**
+📊 **Plaud Sessions Processed (PRIMARY)**: **1**
 📊 **Bee Sessions Processed (SECONDARY BACKUP)**: **11**
 
 ### ⚙️ Pipeline Status & Data Ingestion Log
@@ -49,11 +49,9 @@ tags:
 
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
-- **Fidelity Investments** (Total Value: **$271,011.48** across 4 accounts):
-  - Account `XXXXX2492`: **$256,293.90** | Settled Cash: $25,958.89 (08/27/2026 3:48 AM)
-  - Account `XXXXX1490`: **$11,004.45** | Settled Cash: $10,208.53 (08/27/2026 3:46 AM)
-  - Account `XXXXX1128`: **$3,712.95** | Settled Cash: $42.45 (08/27/2026 3:48 AM)
-  - Account `XXXXX3435`: **$0.18** | Settled Cash: $0.18 (08/27/2026 3:47 AM)
+- **Bank of America** (Total Available Balance: **$12,188.76** across 2 accounts):
+  - Account `SparkyBank - 0372`: **$10,122.92** (08/29/2026 3:43 AM)
+  - Account `TwoAndiesSave - 6171`: **$2,065.84** (08/29/2026 3:39 AM)
 
 ### ✉️ Outgoing Sent Emails & Correspondence
 - *No outgoing sent email replies or correspondence recorded today.*
@@ -221,9 +219,14 @@ Andy spent time troubleshooting technical issues with uploading his Obsidian vau
 > "So, how can I go about this? Why is it important for me to figure this out? I'm doing a whole bunch more talking because I'm thinking about this this recording of this. And then I'm also talking a lot to AI because well, that's because in a lot of ways it's easier to talk about it than lots of writing on it. Now, everything I'm doing here is a journal entry, has nothing to do with actual instructions to the computer. But how does it the journ the the recording all that? I have to separate these things out myself, but hmm, how do I go about that and why? I think probably the key points for my journal would be just tracking how my day goes in order. So, like right now, it's the morning time, and I'm working on the daily reports. I'm doing a reflection, I've had some interaction with Andrea. So, those are, and I have some prep for my daily activities, so that's not in order, but maybe it's the order of things and what I'm doing during those times that should be as far as the timeline. So, maybe it's a trying to formulate an idea here: timeline of activities and then pull out the important aspects. So, those would be any activities like taking a walk. Um doing a journal entry like what I'm doing now interactions with people and that's going to be primarily Andrea and the people, a few different people I run into, which should be either a calendar or I'll just have to note them and then my activities meditation reading the news watching YouTube or T V So yeah, I think I I just I like it so if I were to change this, it would be like a daily daily blow-by-blow Uh ing of my talking interactions isn't that's the only way that they can be distinguished as far as my timeline from the transcripts And then integrating my schedule and that calendar, that AI email I get in the morning will talk about some of the things that I have to do task-wise plus my tasks okay."
 
 #### Fixing daily report formatting errors (10:27 AM – 11:42 AM)
-**Journal Entry**  
-*Reason: Private reflection focusing on personal stories, spiritual practice, and human behavior with no external audience or commands.*  
-> "An example of a story that should be highlighted would be on the 260529 for Andrea Shared Memories of her Jinshin Jutsuit Touch community in Guerneville. So this should be highlighted as a story in that section. Memories are the stories that we're trying to define. In the report on twenty six zero five twenty nine regarding the documentary song Time to Get Wise, it is by William Orbitt and not Eamon Tobin. On 260529, there are no evening activity details at all, a generic line. Is there anything that can be added to that? This should be something that should be evaluated when something generic like this is placed. On 260530 there is a reference to Ajan's tomato when that is Ajan's emedo. twenty six five thirty one still has the mislabeled sections and is not formatted properly. For instance, in the activity details, one dot session discussion one is something that we fixed, supposedly fixed in all the other reports. This needs to be verified as I'm going report by report. So making sure that they are following our format. B pioneer should be B pioneer."
+**One-Sided Chatbot Prompt**  
+*Reason: Task-oriented instruction asking an external assistant or chatbot for document revisions or procedural help.*  
+> "It is a little bit warm, isn't it? The physical and mental challenges can be included in the activity details if required. Otherwise, this section can be removed. To say attendees slash participants Did we actually have fifteen flawed recordings that we processed? I really like this report much better than our previous reports. Please update all the B daily notes using this and revise our daily notes report automation to use this format for all reports. I do not see that the B B daily notes from twenty six five twenty nine to current date have been updated. I do not believe that all of the reports have been rerun because I am looking at the twenty six five thirty one, for example, and it does not follow our new format. None of the details on these reports, for example, on twenty six zero five thirty one have any details in them. What was discussed Did you do this for all of the old existing daily reports? It looks like all of the D B daily reports are not individual based on the day. They now seem to have repeating information. I'm also noticing that a lot of these B conversations process is showing one when there were multiple different sync files that were done from the B. I'm seeing multiple errors with the reports now. For instance, on 260603, the description talks about Ryan supporting Ryan's recovery journey, etc. I'm seeing multiple issues. For instance, on the twenty six0603B Daily Report, the note talks about supporting Ryan's recovery, but there is no details to this day at all. I would like you to look at all of the data that is used for the reports and rebuild the reports for each day so that they reflect or accurate. Notes in the B, the B daily notes that say Sarah to be Andrea Multiple existing reports have a generic daily time line and activities that do not reflect what actually occurred during the day. Same thing is occurring in the activity details. They all have a session discussion one instead of a specific, and then there is a bullet that says summary that doesn't fall in line with the rest with our how we are doing these reports. Each issue raised should be separated. afternoon activity details need to be individually separated. So two different topics should be not in the same listing. For instance, on twenty six oh six twenty two for the mattress shopping with spouse the discuss after those leaving after leaving the store section should be separated into a separate point because it was a separate topic. Now there's something wrong with the afternoon activity details as the bullet point is now shown as a header 2, which is causing all of the details to be in a larger font. The day, daily timeline and activities, morning activities details should be header two. The specific details, for instance, one, two, three, four, those lines can be header three, but the bullet points underneath it should be normal. The afternoon activities details should be header two. Likewise, with evening activity details I am looking at twenty six twenty nine, and this does not look to see does not look like it's been implemented. when principles such as rigorous honesty, keeping my side of the street clean, etcetera, and Buddhist principles similarly are raised, they should be flagged and tagged. Make sure these are updated in all of the notes. She's a busy girl. I'm talking about you. Andrea's references to John is referring to her brother John, J-O-N, and his cat, Rupert. should be separated by bullet points when they talk about different subjects. All of the separate subjects should be tagged."
+
+#### Fixing daily report formatting errors (10:27 AM – 11:42 AM)
+**One-Sided Chatbot Prompt**  
+*Reason: Task-oriented instruction asking an external assistant or chatbot for document revisions or procedural help.*  
+> "You're not Sarah anymore. I never was Sarah. I know, that's what I'm saying. And then also, they had Luper the dog. No, I'm happy I'm getting through the ninny gritty here. So, almost done. I revamped it. What I'm doing is I'm trying to get it so I can tag something when I talk about a certain subject. I can just do a search on that really quick, and all the instances will pop up when I've talked about it. Which is what I'm trying to get to. Give me a while and see what we're doing today. Oh boy. Any references to someone at home or likely a partner or household member should be changed to Andrea. It's gonna look nice when they're done. Yeah."
 
 ---
 
@@ -294,13 +297,13 @@ Andy spent time troubleshooting technical issues with uploading his Obsidian vau
 
 ## 📻 Miscellaneous Media & References Encountered
 ### Music & Audio
-- *No specific music playback recorded today.*
+{{MUSIC_MEDIA}}
 
 ### Film, Video & TV Shows
-- *No specific film/TV viewing recorded today.*
+{{FILM_MEDIA}}
 
 ### News & Current Events
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-08-27 08:52:26*
+*Report automatically generated on 2026-08-29 12:39:56*

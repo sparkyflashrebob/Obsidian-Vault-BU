@@ -52,6 +52,14 @@ Note that there will be plenty of time in the 2nd half of the meeting for more o
 
 Wherever you are arriving from today—whether you’re coming in from a hectic workday, sitting in traffic, or just dealing with the ordinary noise of the week—I want to invite you to simply set down your bags.
 
+
+> Walking through the forest at Wat Pah Pong, Ajahn Chah once pointed toward the canopy:
+> 
+> *"Look at that tree over there. It is crooked and bent. Look at that other tree; it is tall and straight. Another one is short and thick. Do the trees argue with each other? Does the crooked tree complain to the straight one? Does the straight tree look down on the crooked one?*
+> 
+> *Nature is just as it is. Trees don't suffer over their shape. It is only human beings who look at each other and say, 'You shouldn't be like that, you should be like this.' Understand people the way you understand the forest trees—each growing according to its conditions."*
+
+
 You don't need to perform here. You don't need to put on a good front, or pretend you have everything all figured out. If you arrived feeling tired, let yourself be tired. If your body is carrying an ache, or your mind is still spinning out about something that happened an hour ago, that is completely okay. All of that belongs.
 
 [Pause]
@@ -63,6 +71,12 @@ So let’s take a moment together to arrive in our bodies, find our seats, and s
 Let’s bring this intention into our overall practice tonight and to the meditation period that we will now move into.
 
 ### Guided Meditation Transition (Standard)
+
+
+
+
+
+
 
 
 
