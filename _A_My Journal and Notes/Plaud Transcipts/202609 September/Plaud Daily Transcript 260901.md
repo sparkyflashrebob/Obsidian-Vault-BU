@@ -1,0 +1,1032 @@
+# Plaud Daily Transcript - Tuesday, September 01, 2026
+- **Date**: 2026-09-01
+- **Total Audio Sessions Processed**: 3
+- **Generated**: 2026-09-04 03:03:27
+
+---
+
+## 🎙️ Session 1: 2026-09-01 09:23:27 (5h00m)
+- **Source File**: `2026-09-01 09_23_27.mp3`
+- **Audio ID**: `08057b805e6355e2fee3fda9ca4b9609`
+
+- **[00:00 - End] (Andy)**: - **[9:23:27 AM] Andy**: Okay, so I'm starting up the recorders, both of them plot and be at 9.23 after having spent about an hour, maybe even a little bit more, reviewing some old notes and getting some clarification, clarifying them with anti-gravity in our reports. I could see I could do a lot more of this because I'm just finding so many things that are being placed in, aren't whole. The pieces are not completely coming together but I'm hoping to give enough feedback eventually this will be fluid and complete. I have all these things that I've been trying to deal with the last few months. I'm afraid I'm going to lose all that context because it's just not been drawn out clear enough. I already went through this where I added yesterday where I asked that these voice journals be placed in the daily reports.
+- **[9:26:02 AM] Andy**: There are a bit of gas after I drink water, and I need to take my meds. I don't know what to do, but I'm going to have to do it again, I'm going to put it in the fridge and put it in I'm going to do a little bit more of this, wow and Some bread now, you see how I hear it, I don't know if I'm going to be able to do it, but I'm not going One time we had this group of people over here. It must have been for a council the last time I forget that date. That was a couple of months back, I think, when Alisa was moving and couldn't hold it. But anyway, yeah, it came up because I was just in the bathroom just taken vitamins and doing, you know, normal stuff that you do. People do to get ready in the morning. There was a lady, one of the folks that were over at the house. I think it was Tina. Anyway, my bathroom, once you flush it, takes quite a bit of time to refill up. I don't know if it's because I put the, I restricted the flow by putting up a day on it and or not but I think it was acting that way even before when we first got it installed but the comment is really more about people like little annoyances where you know like we like to flush after we defecate you know and so we can't that annoys us. These little things actually can be little hooks that you know we have idiosyncrasies that we have you know where we things have to be a certain way and if we don't get to do those things then we're definitely displeases us. So that's the end of that reflection.
+- **[9:32:34 AM] Andy**: The community we're in has been devastated with the floods and been having some issues for quite a few years with actually the landscaping itself. So they've been slowly upgrading over the last couple years, but with the floods it really became clear that the grass, the outside lawn was not very, is not maintained well enough to look good and you know there's water that comes up the curve and so they change it all in the area to these kind of more a drought-resistant plants in a lot of rocks so they're actually they planted the plant they've done all the planting and now they're putting in the final touches with the rocks. So it's been quite loud the last couple days.
+- **[9:34:19 AM] Andy**: just another note that different subjects within should be bulleted separately, so that they stand out.
+- **[9:36:03 AM] Andy**: . . . . I'm sorry, I'm sorry
+- **[9:37:31 AM] Andy**: I'm going to do a little bit more of this, just a little bit more of this, I'm sorry Okay, I'm doing a test of the where audio recorder again because I really might want to use this for the times when I have like dharma talks and things.
+- **[9:40 AM] Andy**: I'm sorry, I'm sorry
+- **[9:42:40 AM] Andy**: I'm going to do a little bit more of this. I'm going to do a little bit more. I'm sorry, I'm sorry I'm going to do a little bit more of this, You're just of the where Audi over
+- **[9:45:27 AM] Andy**: I'm going to do a little bit more of this, and then I'm going to do a little bit more of this and then I'm going to do a little bit more of this,
+- **[9:46:25 AM] Andy**: I'm sorry, I'm sorry I'm going to do a little bit more of this, just a little bit more, I'm going to do a little bit of the rest of the exercise and I'm going to do a little bit of the exercise and I
+- **[9:48:23 AM] Andy**: I'm sorry, I'm sorry
+- **[9:50:23 AM] Andy**: I'm sorry, I'm sorry I'm going to do a little bit of the rest of the exercise and I'm going to do a little bit of the exercise and I
+- **[9:52:23 AM] Andy**: I'm going to do a little bit more of this, but I'm going to do a little bit more.
+- **[9:53:22 AM] Andy**: I'm going to do a little bit of it, I'm going
+- **[9:54:52 AM] Andy**: I'm going to do a little bit more of this. I'm going to do a little bit more.
+- **[9:55:50 AM] Andy**: I'm going to do a little bit more of this.
+- **[9:56:46 AM] Andy**: I'm going to have a little bit of a little I'm going to do a little bit of the rest of the I'm going to put it in here, and I'm going I don't know what to do, but I don't know what to do I'm going to do a little bit more of this.
+- **[9:59:42 AM] Andy**: I'm sorry, I'm sorry I'm going to do a little bit more of this,
+- **[10:01:08 AM] Andy**: I'm going to do a little bit more of this, I'm going to do a little bit more of this. I'm going to do a little bit more. I'm going to do a little bit more of this, I'm going to do a little bit more of this. I'm going to do a little bit more. I'm going to do a little bit of the same thing on the other side as the other
+- **[10:05:28 AM] Andy**: This is the first time I've ever seen this kind of thing. I've never seen this before. I'm going to do a little bit more of this, but I'm going to do a little bit more of this. I'm going to do a little bit more. I'm sorry, I'm sorry
+- **[10:07:48 AM] Andy**: I'm going to do a little bit more of this, I'm going to do a little bit more of this. I'm going to do a little bit more. I'm going to do a little bit more of this.
+- **[10:08 AM] Andy**: I'm going to do a little bit more of this. I'm going to do a little bit more. Thank you very much for joining us today, and thank you very
+- **[10:11:36 AM] Andy**: I really enjoy reading psychology today because it aligns with my thirst for and thirst for knowledge about human behavior. It also provides me some additional feedback input from quote experts on human behavior in terms of spirituality and you know and in other factors of just being a human being. So according to this article on research on varieties of purpose and happiness, I was intrigued to see what they found. interesting how they actually found seven different types. And my inkling was is that some of them were actually part of the same purpose, for instance, Religious, self-expansive, and transpersonal purpose, I guess they could be broken up, but they are very closely related in my opinion. A lot of this made a lot of sense. For instance, where younger participants were who reported no purpose and a personal a cumulative purpose. This makes sense. On many levels, I remember speaking to my daughters about what they wanted to do with life and for many, many years, even into adulthood, I got a lot of not really having any idea. This is not uncommon on young people, but sort of foreign to my upbringing. As far as career, I had a lot of interest in things. I believe the first was marine biologists because the Jacque Cousteau shows so impacted me. changed over the years, but I always had a sense of where I wanted to go career-wise. And once I did choose a career, I found it really difficult to even think about doing something out, it turns out in my life I just kind of transitioned to different aspects of the same career. When I was graduating high school, I was thinking about what I was interested in, and I had been the sports reporter and actually the editor of the high school paper, so I thought I'd get into journalism. My mother worked at a cable TV company and I was able to volunteer and be a part of the people who were doing the video production. out of when I dropped out of college, I decided to get into broadcast communications to further my education at San Francisco State but eventually dropped out. I found it difficult to get into my major and there were other pressures. Number one being I was worried about getting drafted and I fell into a depression, all the while I was really just learning how to be an adult and having difficulty as I got around the wrong crowd, I was very fortunate to be able to go back to that cable company and to work as an employee and shortly thereafter become the manager of the video production arm of the company. the cable company closed. I actually ended up developing a video cable channel for the city of Oakland and worked there for quite a few years. At a certain point, I started thinking about my future as some of the students who were I were around, were furthering the careers with reputable television companies and I was thinking about where I was going. I got an AS degree and broadcast communication and became an engineer for a mobile video production company. It was a dream job, but again life is life and it led to my career was good, but my home life was falling apart. I end up getting a divorce and as a part of my rebuilding my life I changed my career slightly by getting into audio AV. Design and integration.
+- **[10:22:30 AM] Andy**: The point of this is that as far as careers concerned, I was very fortunate and didn't about it too much. This is where my personal difficulties, non-career things started to have more of an influence. Actually it came back to when I was married and my first child was born. I'm not sure I had a sense of purpose before then. But once I became a father, a dad, it was all about something bigger than me. I really depended on this to give me sort of identity. I love my career and what I was doing. It brought me a lot of fulfillment. But it still was lacking something for me personally, another area. So this is where this sense of purpose is involved. I call this hats, the different hats wear in our life, the different masks wear in identities. And I wasn't really comfortable with my personal identity, but it was very comfortable in my career and being a father, those hats. So when my marriage fell apart and I couldn't And so my relationship as a father changed. I grabbed onto that new relationship as a father, but I still needed to deal with me. So that is one, do I start turning towards more spiritual values? When I started to learn more about me, in a lot of ways I was very fragile. My upbringing was very difficult, and although I seem to be doing well inside, there was more that was coming out in my, in how I, the decisions in my life.
+- **[10:27:33 AM] Andy**: I was very lonely before I got married and then found that my relationships were not fulfilling me. Being a father changed that somewhat and it became a new identity that I really needed badly. But even that was not enough.
+- **[10:28:25 AM] Andy**: I realized that being a father was only fulfilling part of my wholeness. I was not with them day to day and they had other lives, my daughters. I had no rights to my son as he was inherited through my marriage. And although I loved him very much, I was not able to connect with him after the divorce. This is a continuation of what happened even when I was married. Is the family really took him away from me for the most part? I tried to be a positive influence for him, but I'm not sure how much of an impact I had on him. I'm grateful that he seems to be a great, a good man and a wonderful father. So back to this idea of purpose and about young people, yeah, it could take a while. It took me until 40 to start turning towards other aspects of my life. So where the transition happens is maybe different with different people. The article mentions that older groups are less oriented around personal accumulative purpose, while altruistic and transpersonal purpose increase with age, peaking among people 65 to 74, which is where I'm at right now. I'll briefly mention that in terms of gender, they found that women were more oriented around transpersonal and self-expansive purpose, which they noted aligns with women tend to be more focused on spirituality than men. I think this is part of the problem that is currently being paid more attention to with men. Now this is generic, but I don't see that men tend to more focus on themselves. They gain their identity from their accumulations and their being providers. has changed recently because folks cannot survive just with one income anymore. And the other point is that men seem to not be dependable in terms of being in terms of a family.
+- **[10:34:13 AM] Andy**: In many ways, women don't need men anymore to fulfill them. I am happy for how this has impacted women. If men were to spend more times on being more spiritual and connected with others, I believe their happiness would greatly increase. But there's also this sense of being a man, being independent that gets in the way. We are all dependent, and so this idea of independent is of an illusion. Yet men seem to cling to this, and this is why there are so many troubles in the world I believe. The findings of the report confirm this as participants who had no sense of purpose tended to report substantially lower levels of happiness, and the whole idea of having just a survival purpose was also strongly negative associated with happiness. And this makes sense because if you're in survival mode or trying to get a career or have no purpose at all, obviously you're not going to be very happy if that's how you see your life. As you become more secure, which I believe everybody should have this sense of security in the world. Then, at that point, then you can give to others. And this is where the other senses of purpose come into play. I'm perplexed by those who find direction through religious faith, but not surprised It's about some other form of established framework of meaning. religions have failed us completely because Religion has been used to harm others greatly through the course of history.
+- **[10:39:19 AM] Andy**: I do believe that those who follow their faith in a manner that supports them in ways to be more loving, kind, compassionate, etc. there are those who take it that way. But then again there are also those who become so extreme in their views that they want to subjugate others, and I don't see how that fits into any religious paradigm. On the other hand, having another established framework of meaning does have some value. And that's why I read Psychology Today because understanding human behavior in general provides us an established framework of meaning that we can build upon. In terms of happiness, having an altruistic purpose of helping others and contributing positively to society does lead to happiness, as well as seeking personal growth, creativity, learning, fulfillment, and developing one's potential, and having a transpersonal purpose of seeing something larger than the individual. So this so-called spiritual orientation, developing these aspects of our lives, had been and very fulfilling.
+- **[10:42:14 AM] Andy**: There is this idea within Western society that we have choices in this world. I disagree somewhat that apart from survival purpose, we can choose the goals to which we devote our energy and attention because this ignores the other sense of way the world conditions us.
+- **[10:43:36 AM] Andy**: If you are so privileged to have a roof over your head, food on the table, have a stable home life, yeah, then maybe you might feel comfortable enough in your life to look to bigger things. This is what we should be focusing on in our society to making things stable for people in their lives as best we can. This is where equal opportunity for everyone should become, should be available, but that's not the history of human society that we actually live in. I didn't necessarily choose to become a father, but once I did, it gave me another purpose in life. I guess I had a choice in that.
+- **[10:45:31 AM] Andy**: . . . . But for many years I felt I had this hole in me that needed to be fulfilled. the way my default way of thinking about it was it being filled from the outside. I know that's not the only way now. for external things to fulfillness only partially helps. And on top of that, it's unreliable because it's constantly changing. As I got to understand myself better, then I started seeing other parts of me that needed nurturing. This is where these other areas of having purpose come into play. I believe that something is overlooked is that just by being born gives us a sense of purpose. Learning to fit in society in a way that gives us meaning is what this is all about. this sense of purpose means. We all have to find our way given our particular circumstances. This can lead us to doing things summer skillful and sermon on skillful. many times this feel can feel not like you have a choice, but that you're scrambling to find something to help us to feel more comfortable in our own skin. The second part to the summary of the article actually I think is hinted on the head. It states that the findings imply that the most effective types of purpose is not voluntary and that transpersonal purpose involves a sense of purpose that is being uncovered and expressed rather than created. So this is where we learned from, this is where Wisdom comes in. As we navigate our lives, we can learn from our experience. whole sense of letting go and allowing life to unfold. Once we have that base foundation of security is something that is within all of us. As a society we should try to strive for providing this foundation of security for everyone so that we can finally flourish as a society and the humanity can focus on the more important things of being more loving.
+- **[10:53:19 AM] Andy**: Here is a another one of my journals that I would like to turn into a blog post on my website head in heart together and my sub-stat blog. Please review and formulate a blog post for us to develop. I'm sorry, I'm sorry
+- **[10:55:49 AM] Andy**: I'm sorry, I'm sorry
+- **[10:56:49 AM] Andy**: I'm going to do a little bit more of this. I'm going to do a little bit more. I love the idea of this. move forward.
+- **[10:58:02 AM] Andy**: I'm going to do a little bit more of this.
+- **[10:59:28 AM] Andy**: I'm going to do a little bit more of that, I'm going to do a little bit more
+- **[11:00:28 AM] Andy**: I'm going to do a little bit more of this. I'm going to do a little bit more. I'm sorry, I'm sorry I'm going to do a little bit more of this and I'm going to do a little I'm sorry, I'm sorry I'm going to do a little bit more of this, and I'm going to do a little bit more of this, I'm going to do a little bit more of this. I'm going to do a little bit more. I would like to include slightly less of my personal story and focus a little bit more.
+- **[11:04:46 AM] Andy**: On having a society that worked to promote this basic sense of security and equality for everyone. So this sense of purpose can develop. And we are in survival mode and that hat is the top hat. We really can't look at the world as a whole. A lot of poor people are in this mode where they have to juggle multiple jobs and not being able to pay their bills or being involved in difficult relationships that relate to our conditioning and it's these things that prevent us from making a society that benefits It's all.
+- **[11:07:21 AM] Andy**: Please generate a full rewritten draft. The bridge happened when I was forced when my marriage fell apart and my identity turned I had to look more inward towards for a filament.
+- **[11:09:04 AM] Andy**: At this time, I barely had enough money to survive. And head very little possessions.
+- **[11:09:59 AM] Andy**: My path had to become more spiritually oriented. My sense of purpose at this time was to grow inwardly. to understand myself and how human beings worked.
+- **[11:17 AM] Andy**: I agree that we should emphasize more to have the time in the mental space which I found as a result of this transition with my divorce to find my purpose. And I had just enough basic safety of a safety net to survive, but I wasn't focused on accumulation at all because it was beyond my reach. the systematic foundation is very important. Being grounded empathy is also very important. I have, as I have grown as a person, I am much more sensitive to those around me. homeless people and people with mental illness, who don't seem to be getting help, sats me greatly. And then we live in a society that wants to hide them and shove them in the corner, pretend that they don't exist, or to throw them in prison, and somehow places the blame on them versus other than society is just completely a wrong path, it's not very compassionate society. This has got to change. As a society, we have to choose what it is, what it is our purpose as a whole. If it is entirely an individual thing, then it is benefiting some and not everyone. If we think of everyone else, then we can all be provided, we can all provide each other with the foundation of safety and security so that we are able to become more happy because our emphasis and our purpose will have changed to one that's more grounded in a holistic view of the world.
+- **[11:16:19 AM] Andy**: I'm going to do a little bit more of this, just a little bit more of this
+- **[11:17 AM] Andy**: I'm going to do a little bit more of this. I'm going to do a little bit more.
+- **[11:19:45 AM] Andy**: I'm going to do a little bit more of this. I'm going to do a little bit more. I'm sorry, I'm sorry
+- **[11:21:13 AM] Andy**: I'm sorry, I'm sorry
+- **[11:22:13 AM] Andy**: Can you help me find a photo that reflects something in nature for contemplation? It should not have any people in it. I'm going to do a little bit more of this. I'm going to add a little bit of salt and a little I'm going to do it.
+- **[11:24:59 AM] Andy**: I'm going to do a little bit more of this, I'm going to do a little bit more,
+- **[11:25:55 AM] Andy**: I'm going to do a little bit more of this. I'm going to do a little bit more. I'm going to do a little bit more of this. I'm going to do a little bit more. I'm going to do a little bit more of this. I'm going to do a little bit more.
+- **[11:27:49 AM] Andy**: I'm going to do a little bit more of this, I'm going to do a little bit of the same thing on the other side as the other I'm going to put it on the other side of the head. I'm going to put it on the other side. Before I do that, I want to finish the blog post information. I need a SEO description, some recommended tags.
+- **[11:30:29 AM] Andy**: I'm going to do a little bit more of this. I'm going to do a little bit more. Yes, I would like to post something to Facebook as a social media twosor. I'm going to do a little bit more of this and I'm going to do a little
+- **[11:32:49 AM] Andy**: So
+- **[11:33:47 AM] Andy**: I'm going to do a little bit more of this, I'm going to do a little I'm sorry, I'm sorry I'm going to do a little bit more of this. I'm going to add a little bit of salt, a little I'm going to add a little bit of salt and a little bit of salt.
+- **[11:36:13 AM] Andy**: I'm going to do a little bit more of this and I'm going to do a little
+- **[11:37:13 AM] Andy**: I'm going to do a little bit of the same thing on the other side as the other I'm sorry, I'm sorry I'm going to do a little bit more of this, I'm going to do a little bit more of this and I'm going to do a little
+- **[11:39:41 AM] Andy**: I'm going to put it on the top of the head, and I'm going to put it on the top of the head, I'm going to do a little bit more of that, I'm going to do a little bit more Yeah.
+- **[11:41:11 AM] Andy**: I'm going to do a little bit more of this, I'm going to do a little bit more,
+- **[11:42:09 AM] Andy**: I'm going to do a little bit more of this, but I'm going to do a little bit more of this and I'm going to do a little bit more of this. I'm going to do a little bit more. I'm going to add a little bit of salt and a little
+- **[11:44:35 AM] Andy**: I'm going to do a little bit of the rest of the I'm going to do a little bit more of this.
+- **[11:46:01 AM] Andy**: I'm going to do a little bit more of this. I'm going to do a little bit more.
+- **[11:46:59 AM] Andy**: I'm going to do the same for you guys, I'm going to do a little bit more of this and I'm going to do a little bit more of this. I'm going to add a little bit of salt and a little I'm sorry, I'm sorry I'm going to do a little bit more of this. I'm going to do a little bit more. I'm going to put it on the top of the head, I'm
+- **[11:50:53 AM] Andy**: I'm going to do a little bit more of this, but I'm going to do a little bit more of this . . . . I'm going to do a little bit more of this and I'm going to do a little
+- **[11:53:19 AM] Andy**: I'm going to do a little bit more of this, but I'm going to do a little bit more,
+- **[11:54:17 AM] Andy**: I'm going to do a little bit more of this, a little bit I'm going to do a little bit more of this. I'm going to do a little bit more. I'm going to do a little bit more of this. I'm going to do a little bit more of this, I'm going to do a little bit more of this and I'm going to do a little I'm going to put it on the other side of the head, and I'm going to put it on the other side of the head
+- **[11:58:35 AM] Andy**: I'm going to do a little bit more of this and I'm going to do a little bit more of this. I'm going to do a little bit more. I'm going to do a little bit more of this. I'm going to do a little bit more.
+- **[12:01 PM] Andy**: I'm going to do a little bit more of this, I'm going to do a little bit more,
+- **[12:01:59 PM] Andy**: I'm going to do a little bit more of this. I'm going to do a little bit more. I'm going to do a little bit more of this. I'm going to do a little bit more. I'm happy that I'm doing it. This is a big fire.
+- **[12:03:49 PM] Andy**: I'm going to put it in the oven and I'm going Okay. I'm going to put it in the fridge and put it in So excited to see you guys. I'm going to put it in the fridge and put it in Here we go!
+- **[12:06:56 PM] Andy**: Well, just stupid! Hmm.
+- **[12:07:56 PM] Andy**: Okay. Green onion. Okay... Yeah.
+- **[12:09:10 PM] Andy**: any of the four I'm going to put it in the fridge and I'm going to cut it into small pieces, so I'm going to put it in the fridge and put it in I'm going to put the I'm going to put in the oven.
+- **[12:31 PM] Andy**: I'm going to cut it into small pieces, so I'm going It feels pretty good. Hey, Google, turn on the shield. I don't know what to say, but I don't know what to say But out of search, this gentleman is recognized for one minute. Mr. Speaker, depending on your situation, the President signs the SDFiles Transparency Act, and the government continues to withhold over 3 million files. That's why we've introduced the SDFiles Transparency Act to bring the fight to the state force, accountability to the Department of Justice, and closure for survivors. We want perfect traders of these crimes to be investigated and prosecuted. men like Jess Staley, Leon Black, Wes Drexner, David Copperfield, Waffle Alchemist, Tom Pritzker, Flynn Dumont, Frederick Prakai, and Lardo C.O. Gerrani, John Luke Spanell, conveniently dead by suicide in prison, Daniel C. odd, recently discovered dead in pairs, Ramsey Alcoly, and Prince Andrew, who committed six crimes in the United States too, and women like Leslie Brock, not a victim, who conspired As fired with Epstein's traffic other women, perhaps hearing these names will shame the Department of Justice into delivering justice. I yield back.
+- **[12:16:08 PM] Andy**: Recently on the All-In podcast, Chairman Palpatilla said he'd identified who the villains are in this story, and it's him and his life. Let's roll this. Tokyo Valley has completely lost what's really great. It was a place for weirdos, for people at the fringes, for people that really were idealistic. And it has become something that's far from that now. It is the equivalent of what Harvard used to be. It's a credentialing place. It's a place you come to say, oh, I came to Silicon Valley. I was going to start up. I got into YC. When we came, we used to aspire to meet the Bill Campbell's of the World, like Moritz's, John Doors. Those folks are gone. We used to aspire to work for Steve Jobs. He's not here. And in that breach, all we have done is focused on making money in every single way. But again, hand over fist. And I think again, there's nothing wrong with that. Now is the point where we need to do a better job of acknowledging it and trying to do a little bit better. And every time we film, we'll give it a chance to better and we're not the hatred builds. The animus as you said, David, builds. And that's what we're seeing. We're extremely excited to bring on our next guest, perhaps the foremost scholar on wealth and quality, who doubles as an advocate for doing the way with the very thing he studies. In France, he's both vilified and celebrated as the father of what's known as the Zookven tax, a 2% tax that applies to people worth more than 100 million euros. Now, before Professor Gabriel Zookven joins us, let's do a quick one-one of the problem. Now, we all know that we're living in an era where the very rich are getting richer, adding much faster pace than at any time, certainly in the last 100 years. We don't even need charts or graphs for that. We can all just look around. I've been recording on this trend now since the beginning of my journalism career, which began in the run up to the great financial crisis. What I've come to realize, though, is that we in the media have not done a good enough job explaining why this wealth inequality is getting so out of whack matters. We haven't explained how it directly comes out of your pocket. We've talked about how it's wrong for the rich to have more power than anyone else and to be able to buy elections. But that misses the more immediate problem that the super-rich are getting rich by making new, actively poorer. Now, here's how to understand that. In the 1970s and 1980s, as the rich were pushing to massively lower taxes on themselves, then you regulate the economy and make it legal to move capital easily across borders in search of the cheapest labor that relied on a few metaphors, like triple-down economics and a rising tide that lifts all boats. After the rich, Dr. Wins, a not surprising thing happened, the tide stopped lifting. Since 2000, Western economies have grown at an average of one to two percent. That's it. The amount of the economy owned by the super rich, meanwhile, has grown many, many times more than that. If it was open as debt in his life to studying that phenomenon, so in a moment we can get some detail from him of what we know about the scale of this incredible divergence, but to suffice it to say, it's been absolutely cute. So think about it. If their wealth has gotten many times bigger over the past 25 years, and wealth overall has barely grown, where did their wealth come from? It came from youth, of course. I don't understand this better. Think about our economy as holding three different kinds of wealth. Public wealth, normal people's wealth, and the wealth of the super rich. Public wealth is some of the obvious things like schools or hospitals or apartments or land owned directly by the public. When the public owns the schools and the buildings themselves, it's much cheaper for members of the public to go here. Well formed by normal people is obvious too. We're talking about whole ownership, retirement assets, pensions, cars, that sort of thing. Every year that the wealth of the super rich grows faster than everybody else's, they have to do something with that extra money that they now have. Because the two weeks to be able to spend it buying new stuff, they buy assets, they buy houses which drives up the cost of housing, they buy stocks which drives up the price of the stock market, they buy companies directly as we've seen with the rise in private equity industry, then they loop those companies, sell off the parts, have the company file for bankruptcy and take the money in the pension fund to pay themselves off for their trouble. A normal company that once made say paper products or sold toys and supported an economy working for normal people in a small town is wiped out and the money flowed to the top. Now that people at the top have even more money, and now they have to buy more assets, you see how this goes. So what you might notice though, is that things haven't gotten as bad as quickly as you might think. People haven't gone immediately from middle class to object poverty. That's because while the very rich have been buying up everybody's assets, leaving everyone owning nothing, they swap that out for loans. In the run up to the financial crisis, the super rich, loaded up American homeowners within over 10 months of debt, when they could no longer pay that debt, the government failed out the super rich, but took the homes from tens of billions of people. Yep. During COVID, we shut the economy down, borrowed a historic amount of money, and then effectively gave that money to the top 0.1%. Committing more new billionaires than at any time in history. Trump's new AI policy has directed hundreds of billions in borrowed money to the AI industry, money that is again flowing straight to the top. The money we are borrowing increasingly comes from the very rich who are now charging even higher interest rates. We're now paying more interest on our debt than we are on the phone. That means that every month we are transferring billions of dollars from the public directly to the 1%, who are then using those billions to buy more assets, pricing new out of being able to own anything. So now we've sold off most of the public assets, and the assets held by normal people are joining. What we're left with is the government heavily in debt, where all people drown in debt too, and all of us owing that money to the super rich. Now is the time it's getting dangerous. The rich don't need to be as gentle with us as they did before, because we don't really have anything anymore that they want, or we don't have much at least. There's a YouTube channel in the UK that's got a terrific job of mainstreaming all of these ideas, and it's called Gary's Economics. And the homework assignment for people watching, bringing points now is to switch over to Gary's Economics. Go find a couple of the videos that make sense to you, watch those, and watch, you know, assemble until you fully grasp what's at stake here. He does a very good job of putting instructions in the base quite simply. If we want to fund our growing deficits, the money has to come from somewhere. Either we have to raise taxes on the super rich, raise taxes on the middle class and the upper middle class, or we have to all get poorer by slashing the government, which would raise your cost of education, housing, healthcare, and so on. Now, I know what some of you might be thinking, no, there's a fourth option. We can end the super wars and stop funding Israel and stop wasting money on stupid things. Great, yes. If you watch this program regularly, both Emily and I will immediately agree with doing all of that. Ender wars, cut the ways, jail the fraudsters, but even if you cut the entire Pentagon and lock up every fake Medicaid ripoff in Miami, that still won't do it, because the gap is too wide. And if you have it fixed the problem, we identify it at the top. The primary problem is that the speed with which the rich are guiding up resources is faster than anything else. It is swallowing up everything. We have to reverse that trend. The rich have to start giving staff some of their wealth to normal people rather than the other way around. The only way to do this is to tax their wealth. So, joining us all to discuss this is Professor Sof from himself, Professor Graverslow. Thank you so much for being here. Thanks for having me. So, wanted to start by getting your action to Chema's assessment there, that Silicon Valley has basically kind of been destroyed by the pursuit of greed. As you've been involved in so many of the debates both in Europe and the United States how to respond to this kind of yawning wealth inequality. What are you noticing change? Yeah, I think I share that assessment and you need to see it today with the reaction of the most income value dealer there to proposition three. That's going to be an attack. That's going to be the balance. You can keep your story up, you can send there. They'll send you hundreds of millions of dollars of tragedy shoots, which would be a very modest, one-time tax of five percent of the wealth of different ideolares, frankly, around the era in the oil, which has grown by more than 200 percent just over the last couple of years. I think this is really indeed illustrative of how the income value has changed, or whether that's the case. One of the big criticisms of the Wealth Packs that obviously is similar, because you've received this crisis. Many times I've read you from a Forbes contributor here who specifically is writing about you. It uses the example of the UK. It just said the UK is an example of the recent policies of the Tories and Labor have allegedly scared all the billionaires off to either Milan or Dubai, which is something that the chamas of the world say would certainly happen in California. It's been one of the ads I'm on, I'm Donnie in New York City. response to the argument that everyone's just going to leave? Well, then the empirical evidence is not consistent with that view, so of course if you text us with a range, some of them are going to try to relocate system for low-tax state, but the identity structure is very clear in finding that those relocation responses is, of course, law of the number two, and that's more important, in my view, is that this migration of high net wealth in these videos is not a law of nature, like gravity. It's a policy choice. You can structure taxes in such a way that there's not going to be We've got plenty of ability to avoid the type of moving to some low-tax state. To find some, in the case of the 10-point area tax. It's a one-time tax that would be owned by the area, who will leave California, who will resident of California, as of January 1st of 2026. It's just too late to move the 10-point area tax in November of November by relocating to the United States. Now, if you think about the wealth tax of the national level, if the US has a federal wealth tax, the US taxes it deserves based on their citizenship. Many, if you move to another country, you still have to pay federal taxes as if you were still leaving in the US. And I think this is something that many other countries should in-rate, not exactly the US system from some variation very, they could say, for instance, if you believe for a long time in the UK, and now you move to Dubai, then you have to contain that in the UK for 10 or 20 years, and we can debate the details, but what is important is the idea that this house migration is a policy Well, tax, which is, but it's just too complicated and kind of well, it's just, is a different These income is obvious. Company pays you a wage. But if you're in wage for $100, the tax is $15. You owe $15 with that $100. Quite simple, whereas well exists largely in assets, whether their equities which are rising in value have the sole or the painting. People have a hundred buys and paintings. For $100,000, now it's worth a million dollars. So it adds that to New York until you're that well. And they say, it's too complicated for us to do that. Now, Representative Rokhan, how can we represent Silicon Valley? It has recently presented a solution to some of the billionaires in New York. And he said, well, we can value your well. Let's say it comes to $1 billion. We can make the government do a non-report line, which we can use to data tax. If you're well then declines, you don't know that money that with the government just eats it. But the US, but the government then takes a 2% share and takes 2% of the shares, and you get to puritize down with some other product, financial product. So as you've been involved in this for so long, and you're fighting for the Brooklyn back, as they call it in France, what are the mechanisms that you've come up with, and for the policymakers come up with the overcome this objection that this is all just too complicated. You know, these arguments found very similar to the arguments that the importance of the progressive income tax were made to here. I don't know how to do that, I don't know how to do it, I don't know how to do That's what we're going to do right now, that's what we're going to do.
+- **[12:31:58 PM] Andy**: So that's the reason we should still look at the differences between this, and I don't really like that. But for some of the things that we've got to create, you know what I'm saying? We're talking about some of the problems. We're talking about some of the problems that we've got to deal with. in terms of what's possible solutions that you make, unless you want to stop somewhere, in a week, one state, hoping to perform any kind of, to do it for us, and to thenals try, by example, that those problems pass in the system. One of the concerns coming from the right that I would have is, does it create a worse more crowding system if you have it, let me just ask for your response to that, like, dude, is there a concern? Because my preference would be something like a flat tax, closed loopholes, raise revenue that way, but obviously there are problems with that approach too, nothing's perfect. On the other hand, if we do a one-time tax like this, it does seem like the system will still, people really love the people, so find ways to gain the system. So how are you thinking about the possibilities of further cronism or worsening, exacerbating that problem that already obviously exists? I think that one by one, in the ideal sex system, you have a main contacts, you have a inheritance of a state tax of marital credit for reasons, and you also have a wealth tax on the super rich, just because for them, the income tax is not enough. When it's extremely wealthy, it's just very easy to organize your wealth, such that this wealth will generate no, very no taxable income, and that's how you end up in situations where people like, you know, must, or jet bezels, or Larry Page, and some years, they report know of their unique taxable income and they don't pay income tax. And this problem has been long understood, including by countries in the U.S. One interesting element is foreign strengths in the late 1940s. There was a commission by U.S. economist to advise the new Japanese government of World War II on how to deal with the tax system. For you, democracy is starting from the ground zero after World War II, how should the So the tax system looks like, and it's in the field coalition with people like William D. Craig, who went on to win the Nobel Prize in Economics, and what they said is, let's say, look, there should be a highly progressive income tax, just like in the US of the time with top modular income tax rate of 18, 19% but also on top of this, there has to be a tax based on wealth just because of the super rich wealth is a much better indicator of their ability to pay taxes, that income, which is very easy to manipulate. So that's why we need to work out. And California, being in a task, it's a one-time task. So don't get me wrong. That's not enough. No one thinks that you can, no one believes that you can think and this cultural problem just with a one-time task. But the reason it's so important is because first, as the tax of billionaire wealth enacted anywhere in the world. And we couldn't have a massive ripple effect, just by demonstrating that the billionaires, they don't have to, we don't have to accept that they are bound to do their own power analysis highly, free of tax, which is the current situation. We can actually address that issue very So one of the other objections that I heard, and this is, I don't know if this is from the left or the right, one would be that a well tax that ends up forcing the .1% to sell assets to pay this tax ends up then pushing down asset values, and so the government ends not really actually getting anything. All they do is kind of reduce the amount of paper well that exists in the world. It just ends up being some paperwork and a parallel argument is that even if they do end up extracting some of that, well, it ends up being inflationary because the super rich have a maximum amount of wealth that they can actually consume at any given moment. If you take some of that and spread it around the middle class, they're going to actually consume it, which then drives up prices and doesn't, and has a similar effect of just kind of moving paper around. What's the reaction? What's the response to those criticisms? I'm the thinkin' bunch, you know, I think of the revenues from the west out to the case of California, 90% of the revenue would go to healthcare and go to making sure that people don't produce access to Medicaid, which we otherwise. Hey Google, turn off the shield.
+- **[12:38:02 PM] Andy**: I'm going to do a little bit more of this,
+- **[12:39:56 PM] Andy**: I'm going to do a little bit more of that, I'm going to do a little bit more of this, I'm going to do a little bit more, Fraud was identified on my account and I want to make sure or consider all of the charges that are being brought up because some of them still seem to be pending, checking, I just want to talk to somebody Thank you. Welcome to Bank of America, this call may be recorded, to get started, please enter the last four digits of either your ATM debit card number or your social security number or tax ID. 3375. Thanks for being a valiant BFA rewards preferred plus member. You're checking account available balances. $7,184.43. You can save money on interest by transferring higher rate non-backed of America balances to your credit card. or use the available credit on your account to pay for a large expense. To learn more, say, my offers now or at the main menu. If you were, please tell me what you're calling about. Talk to an agent. To speak to someone about your credit card, say card. Otherwise, please remain on the line to see to an associate. Before I transfer you, if you or your spouse is currently a service member on active duty, and you're interested in learning about how Bank of America supports the military, press one. Otherwise, for all other service, please remain on the line.
+- **[12:44:41 PM] Andy**: Please hold. Well, I connect you. You're all maybe monitored for quality assurance.
+- **[12:44:51 PM] Andy**: Hello. Thank you for being in the data for the client. My name is for shop located in Albuquerque. My name is Albuquerque. First and last name. It's Ron up McGuire. Okay, so I got a notice of lots of suspicious charges on my account, and it looks like you are somehow is being processed and I just want to make sure it I think I identified earlier in the day that there is questionable charges and what I'm seeing here on my account which is a little strange is it looks like you're crediting me something and then now I'm seeing things coming off so I'm you know I just wanted to I don't I'm not sure what is being processed as a result of it so yeah so I saw like if you look at my account from the start of the day I had like almost ten thousand dollars. Then I started getting I'm seeing on my thing that I'm getting credited for things but that are being offset, which I believe. So I just wanted it looks like it is it's happening that it was discovered and I just want to make sure that's exactly when I'm seeing because I mean at one point I had almost $18,000 in my account, which is way high than normal. Okay. We've certainly done the right thing by calling this require. I definitely appreciate you confirming to make sure this activity is being looked at. And just to make sure that you're doing your two diligence. I am seeking a link here, and I just definitely see what you mean. I do all these strange Facebook pictures. Yes, those are the ones that are in question. Yeah, meta, and then there's a couple of them. I mean, in Dublin, I don't, you know, I don't live in Dublin. And I don't, you know, there's various, they're all mainly around Facebook. It looks like there is a couple of odd ones at some San Jose store, just a couple of minor ones, I guess, I don't know where this came from. Um, I definitely appreciate you, um, Sam's Club and, yeah, I think I've seen a The Native American has done the fraudulent activity though in the case. Right. You've definitely done what you should do by answering. No, I'm not recognizing these transactions. Okay. This is a description. From what I can see here on my side, I see a ton of reversals. And I'm at its highest, I see what you mean I can see where your balance is going well up to 18,000. And what that is because the American has recognized your recording of eight notes. These are not my transactions, and we stopped those transactions from coming out of your account. So because we stopped the transactions, they actually reverse them and credit to them back to the account. That's not necessarily saying that you did have that large balance that you're not used to seeing. but it is showing on record things here, putting those funds back to be a kill. What will happen is the fraud process will take place and forgive me, I'm not actually the fraud department, so I'm... Yeah, no problem. Is how long it's going to take for them to remove the transactions? The transactions will come off of the account completely and if we'll be in the same way, we're never there. and your balance will come back to when it should be, which would be that $10,000? Yeah, my rent just went through, so it should be somewhere around $7,200. So I see that's where it's showing right now. Okay, so what happens is what I was confused about is I looked at my phone and then I'm seeing these bills, these things come off and it's there's no flag to them. So I couldn't tell whether I needed to contest them as new or not. So what I think what I'll do is I'm going to be away for a while. What I'll do is I'll just have to come back and then contest them then if there's something different. You know what I mean? I guess I see what I should do. That would definitely be my suggestion is that if you see anything to be there right now in the processing stage, again, I can confirm exactly how long it takes these transactions fall off with slightly processing excuse me. Yeah. I'm sorry, but only with slightly processing. I couldn't say it might be, you know, sometimes it can be a few more days than that when you confirm the professional activity. I wouldn't say anything on it and read it by mistake, but you will face the transactions no longer be listed on the account, but if you see anything, it is possible to no longer Okay, and I don't see I don't think I see a problem here. I see most of what they've caught pretty much everything it started with the Dub one thing that's been, you know, been reversed. So I'll do that. Thank you. I just wanted to make sure I wasn't skipping a step or I had actually, I had actually pushed a button to contest it. But I was thinking it was already contested. So I got confused. So I'm going to undo that. You know, I'm saying, you see, I'm saying I would. Yeah. So okay. Thank you very much. I appreciate you spending time with me. Absolutely, absolutely my pleasure and again it's my pleasure to help a preferred plus PVA member. If you receive a survey, my name is Rochelle, let me know how I treated you today, okay? Okay, thank you. Take care. Thank you. Bye now. Bye.
+- **[12:52:11 PM] Andy**: I'm going to do a little bit more of this, but I'm going to do a little bit more of this. On pages CMS, how do I insert a photo into a blog post I've created? The drop down and the visual post editor only shows text or a heading etc. no way of selecting an image.
+- **[12:54:05 PM] Andy**: I'm going to add a little bit of salt and a little I'm going to do a little bit more of this and I'm going to do a little Ah, the slash command is what worked. Thank you.
+- **[12:55:58 PM] Andy**: I'm going to do a little bit more of that, I'm going to do a little bit more of that and then a So, I got hacked, financially Bank of America caught it, and conversation about reversing in there. I'm going to do a little bit more of this, I'm going to do a little Now, I'm going to start with a little bit of a little bit
+- **[12:58:40 PM] Andy**: I'm going to do a little bit of this, I'm going to do a little bit more of this. I'm going to do a little bit more.
+- **[1:00:38 PM] Andy**: I'm going to add a little bit of salt and a little bit of salt and a little Ah...
+- **[1:02:38 PM] Andy**: I'm going to do a little bit more of this. I'm going to do a little bit more.
+- **[1:04:36 PM] Andy**: I'm sorry, I'm sorry I'm going to do a little bit more of this and I'm going to do a little bit more of this. I'm going to do a little bit more.
+- **[1:07:04 PM] Andy**: I'm going to do a little bit more of this, a little bit Get pillars of truth.
+- **[1:08:34 PM] Andy**: I'm going to do a little bit more of that, and I'm Aspects of honesty. And take some exercises,
+- **[1:09:34 PM] Andy**: like a trance, I'm going to do a little bit more of this, but I'm going to do a little bit more of this, I'm going to do a little bit of the same thing on the other side as the other I'm going to do a little bit more of this, I'm going to do a little I'm going to put it in the middle of the pot and put it in and copy and Wow.
+- **[1:12:56 PM] Andy**: I'm going to do a little bit of it. I'm going to do a little bit more of this. I'm going to do a little bit more. I'm going to do a little bit more of this. I'm going to do a little bit more. Ok. Breaking the trance. I'm sorry, I'm sorry I'm going to do a little bit more of this. I'm going to do a little bit more. I'm going to do a little bit more of this. I'm going to do a little bit more. I don't know if you're going to see me or you I'm going to do a little bit more of this, a little bit I don't know if I'm going to be able to do it, but I'm not going
+- **[1:19 PM] Andy**: I'm going to add a little bit of water to make sure the water is not too thick, so I'm going to add a little bit of water to make sure the water is not too thick. I'm going to add a little bit of water to make sure the water is not too thick, so I'm going to add a little bit of water to make sure the water is not too thick. I don't know what I'm talking about, but I don't Oh, that's right.
+- **[1:20:17 PM] Andy**: So maybe I take these. These are too thick.
+- **[1:20:39 PM] Andy**: I don't know what to do, but I'm going to do a little bit more, I'm going to Okay. Different耶. Okay.
+- **[1:22:03 PM] Andy**: I'm getting thermals, I'm trying them on at least, and I'm getting Okay, back a bit more, I gotta get my strength up, don't I? I think the Okay. Come to me. I should... Okay, put these together, maybe you can get this, but I think this is easy to do. I don't want it rolled up on the head, and I'm not going to have it all.
+- **[1:24:58 PM] Andy**: after Good luck tonight.
+- **[1:25:57 PM] Andy**: Okay.
+- **[1:26:27 PM] Andy**: I'm sorry, I'm sorry Okay, thermos, I've saved all this.
+- **[1:27:47 PM] Andy**: This is the first time I've ever done this, but I'm not sure if I can do it, but I'm Move up. I'm going to do a little bit of the same thing on the other side as the other
+- **[1:29:47 PM] Andy**: I'm going to do a little bit more of this, I'm going to do a little bit more, I don't know if I'm going to be able to do it, I don't know if I'm going to be able to do I'm going to do a little bit more of this. I'm going to do a little bit more.
+- **[1:31:43 PM] Andy**: I'm going to do a little bit more of this, I'm going to do a little bit more of this. I'm going to do a little bit more.
+- **[1:33:37 PM] Andy**: I'm going to do a little bit of the same thing on the other side as the other I am noticing on the head and a heart together calendar of events that the next event is mentioning something for the first at 5 p.m. but there is no event. Are you looking at the head and heart together calendar for this or are you looking at my personal calendar for this.
+- **[1:35:26 PM] Andy**: . . . . I'm going to do a little bit more of this, I would like to keep the canceled meetings, canceled scheduled meetings on the calendar so that they're clearly show on the web page when they are canceled. I do not want to show the calendar events where they are all day where it is basically for information about being around that does not go into the next event Lest.
+- **[1:37:47 PM] Andy**: Okay, I'm doing some cleanup of head and heart together, the calendar of events. I know there was something else for Andrea that I wanted to do, but I'm now forgetting what it was.
+- **[1:39:15 PM] Andy**: I'm going to do a little bit more of this. was the get hub site updated and Yes, please commit.
+- **[1:41:32 PM] Andy**: I'm going to do a little bit more of this. For my living mindfully website, I am using this as my cover page. I am not particularly happy with the line explore practical ancient insights along with candid reflections on the modern states of humanity. It's the second part that I don't really like. I was wondering if you can come up with another way of saying that line.
+- **[1:43:51 PM] Andy**: I'm going to do a little bit more of this and I'm going to do a little Change the bottom paragraphs first line to this. I'm going to add a little bit of salt and a little bit of salt.
+- **[1:46:19 PM] Andy**: I'm going to do a little bit more of this. I'm going to do a little bit more.
+- **[1:47:43 PM] Andy**: Oh
+- **[1:48:13 PM] Andy**: I'm going to do a little bit more of this. I'm going to do a little bit more. I'm going to do a little bit more of this. I'm sorry, I'm sorry I'm going to do a little bit more of this. I'm going to do a little bit more. I'm sorry, I'm sorry I'm going to do a little bit more of this. I'm going to do a little bit more. I'm going to do a little bit more of this. I'm going to do a little bit more. I'm going to do a little bit more of this. I'm going to do a little bit more. I'm going to do a little bit more of this, just a little bit more of this, I'm going to do a little bit more of this. I'm going to do a little bit more of this, and a little bit more of this,
+- **[1:53:52 PM] Andy**: I'm going to do a little bit more of this. It looks like the latest update has not gone through on GitHub. New Verify.
+- **[1:55:00 PM] Andy**: I'm going to do a little bit more of this. I'm going to do a little bit more. I'm going to have a little bit of a little
+- **[1:56:28 PM] Andy**: I'm going to have a little bit of a little I'm going to add a little bit of salt and a little the yellow page
+- **[1:58 PM] Andy**: I am looking at the index page, index HDML, and I am looking at the index page, index HTML and I do not see that the wording has been updated.
+- **[1:59:56 PM] Andy**: I'm going to do a little bit of the same thing on the other side as the other I'm going to put it on the top of my head, and I'm going to put it on the top of my head, I see we updated the bottom section which is titled Discover Interpiece, a Compassionate Meditation Community and what I was asking for was updating the section above on cultivating empathy and resilience, living life mindfully in the first line of that bottom paragraph that says explore.
+- **[2:04 PM] Andy**: I'm going to do a little bit more of this. I'm going to do a little bit more. I'm sorry, I'm sorry I don't know what to say, but I don't know what to say I'm going to add a little bit of salt and a little
+- **[2:04:32 PM] Andy**: I'm going to put it on the top of the head, I'm This is the first time I've ever seen this kind of thing. I've never seen this before. I'm going to add a little bit of salt and a little I'm going to do a little bit more of this, I'm going to do a little bit more,
+- **[2:06:58 PM] Andy**: I'm sorry, I'm sorry Hmm.
+- **[2:07:58 PM] Andy**: I'm going to do a little bit more of this. I'm going to do a little bit more. This is the first time I've ever seen this kind of thing. I've never seen this before. This is the first time I've ever seen this kind of thing, but I've never seen this before. Whoa. Whoa!
+- **[2:09:55 PM] Andy**: I'm sorry, I'm sorry
+- **[2:10:55 PM] Andy**: I'm going to do a little bit of the same thing on the other side as the other
+- **[2:12:25 PM] Andy**: I'm going to add a little bit of salt and a little I'm going to do a little bit more of this and I'm going to do a little
+- **[2:13:55 PM] Andy**: I'm going to do a little bit more of this, a little bit This is the first time I've ever done this, I've never done this before, I've . . . . I'm going to have to go to the bathroom to see if I can get out of the room and see if I'm sorry, I'm sorry I'm going to do a little bit more of this, I'm going to do a little
+- **[2:17:53 PM] Andy**: I'm going to put it on the top of the head, I'm You have to do the same
+- **[2:19:23 PM] Andy**: I'm going to do a little bit more of this. I'm going to do a little bit more. I'm going to do a little bit more of this, and I'm going to do a little bit more of this and I'm going to do a little bit more of this, I'm sorry, I'm sorry I'm going to add a little bit of salt and a little
+- **[2:22:17 PM] Andy**: I'm going to do a little bit more of this. I'm going to do a little bit more. I'm going to put it in the middle of the box, and I'm going to put it in the middle of the box,
+
+---
+
+## 🎙️ Session 2: 2026-09-01 14:23:28 (4h40m)
+- **Source File**: `2026-09-01 14_23_28.mp3`
+- **Audio ID**: `ac216b2b3d42f134e72f6268a6a7ee3e`
+
+- **[00:00 - End] (Andy)**: I'm going to do a little bit more of this.
+I'm going to do a little bit more.
+Can you subscribe to the New York Times and get the Athletic?
+I'm going to do a little bit more of this.
+I'm going to do a little bit more.
+Windmill sound of windm возвращation and windmill sound of windmill awai syla sound natural towns of windmill sound of windm
+Daduannngangani whovocades into windmill sound of windm
+I'm going to do a little bit more of this,
+I'm going to do a little bit more,
+Im going to do a little bit more,
+I'm going to do a little bit more,
+Let's start putting revision dates for the report right after the plod and B sessions process.
+Let's include the time also.
+Okay.
+Is it possible to use antigravity to create something like home automations, like Google Home,
+or to create QSIS control systems, or Crestron control systems,
+and interfaces,
+like Google Home, or Google Home.
+Okay.
+your home. Okay I'm obviously not going anywhere tonight I decided I was
+gonna I was gonna stay with you so I'm just my last night for a while. I am but
+I'd rather you know it's my last night before you know leaving with you so I
+decided a long time ago I was gonna go yeah do what you need
+and then like getting along right now. I was that way at least the switch is
+gonna run into truck I don't know that was all confusing. Yeah I didn't even I kept
+starting to write something and I erased it and I'm not gonna wait until I
+didn't see them hmm for what we did six people just coming for three days it
+was fine everyone trucking to rotate but for a quest when we have more gear
+where they're longer period of time they have their full backpack in addition to
+bringing drugs, bringing water just everything is like on a bigger scale for
+I mean so for us we're gonna bring our clothes our tent I mean we could get a
+backpack but we really don't need it I mean we're I mean chairs yeah that's
+a lot of what we stored in one of the trucks is like all the chairs would go
+in there all of the tubs would go in there the water bottles the pup tents and
+like I said the water bottles and the containers are the big things the easy
+up can put that on our we could put that on our roof that would be
+helpful in the truck we may not have space for it would that would take up
+of our car really with the drum we could put the drum behind our seat up high
+and flat because I don't I mean and then so we can drive and then we
+could still put stuff underneath it if necessary a few things but we would
+need to slide in all the long stuff in anyway so we'd have to fold the seats
+down yeah so our chairs and the pup tents and then our clothes and our tent
+alter yeah we're gonna be full but if we we have to we can strap
+something on the roof so oh shoot I need to look for that right now yeah so what
+of those things called cinch straps for car roof okay I found him here
+ten feet foot 12 feet no but we're gonna yeah they would be flat and we don't we
+won't putting a lot of weight on them I think 150 pounds is a max but I am
+looking here at whoa I don't want to get super long ones I found them 12 foot and 10 foot
+okay I got those coming tomorrow
+what's that okay
+do you like to eat them whenever you would like sweetie pie okay
+I don't want to eat them I don't want to eat them
+Oh, shit
+H Opera, and I don't want to eat them I don't have to eat them I don't want to eat them
+I want to sit you on my stool and give you a tissue.
+What are you talking about?
+Sitting on my stool and you're still what?
+Oh, that's stool, that's not what I...
+Yeah.
+Yeah, this little round swively thing.
+Yeah.
+Oh.
+Yeah, that's the one thing about being such a short time, we don't get a lot of...
+But I didn't want to play any extra burden on anybody to have to do anything.
+You're going to have to fend for yourself for the rest of the week.
+I think all of the cashews and all of the peanuts have begun and the...
+He says, shall we go on to soups to be gone?
+I need dinner over here and going back over to the house.
+I've already figured out of my days off I'm coming right home to make coffee.
+Oh shoot, that sucks.
+Yeah, I'd have to take the whole coffee maker and...
+Take it.
+Yeah, take it.
+You get my filters.
+Yeah, just take it.
+Take it because you shouldn't have to have coffee all day.
+Oh man.
+Dad has a cold drip stuff but I don't really care for it.
+We could always take the French press.
+Yeah.
+But I think you could be using the French press.
+I'm going to have to take it.
+At work.
+Go under.
+Yeah.
+Make it on demand.
+Preground.
+And then bring the French press and heat up the...
+There you go.
+Take it.
+Oh.
+Ah.
+It's absolutely well if there's that joint there.
+Yeah, but the whole back goes out with it.
+Ah.
+I might do a...
+Okay.
+Here we go Andy.
+These are beans of green.
+I'm glad they're really good this week.
+Um.
+So.
+This morning.
+Look at my phone.
+You can get a weird text message.
+And.
+So.
+Said something about approve payments.
+So I.
+Quickly.
+I quickly went to my.
+Computer.
+And my phone the app.
+And somebody I.
+I had declined them all.
+Somebody had gotten my bank card number.
+Or, you know, debit card.
+And was trying to charge up a whole bunch of stuff.
+Like $5,000, $7,000 for the stuff.
+Oh, so be it.
+I got in touch with you saying this really fraudulent activity.
+You kind of think?
+Mm-hmm.
+I got reversed.
+So.
+Good.
+But then I got a little confused later on.
+I relaxed.
+Because I saw they were doing something about it.
+They're usually pretty good.
+Is this your credit card or debit card?
+Debit.
+Oh.
+Yeah.
+And it was all.
+It was all Facebook.
+Kind of mainly purchases.
+Which is funny.
+So somebody probably hacked through Facebook.
+But Facebook didn't show any of their payments approved.
+So.
+It's like somebody was able to access it.
+You know, through Facebook or something.
+I don't know.
+Anyway.
+So, um, then I called.
+I was saying that I was trying on my phone.
+So I was going to check the challenge them.
+But I decided to call Bank of America.
+So I talked to a lady.
+And she said she wasn't with the fraud department.
+But the daily look like they were in the process of what they did first.
+Which is weird.
+They start crediting me money first.
+So they ballooned up to almost $19,000.
+And then they were removing it again.
+So.
+That's why I called.
+I was concerned about what they were doing.
+And she said frequently that's what they do.
+So anyway.
+I'm not worried about it.
+I got paid.
+Looks like everything was caught.
+There was a one charge for Sam's club.
+And there was a bunch of other ones through Facebook.
+I don't know what they were buying.
+But all that.
+But it was.
+So it was to me was a Facebook act.
+I don't know if I trust Facebook.
+I don't think they really care about us as people.
+You know what I mean?
+So.
+Anyway.
+So I'm.
+I believe we're okay.
+And then they said, hey, you've been with us for.
+49 years.
+Yeah.
+But anyway.
+Yeah, that was a.
+That took a part of my day.
+Otherwise, I was doing pretty good mouth stuff.
+I'm.
+Auditing some more of the reports.
+And.
+Hopefully we'll get there.
+And then.
+No cost.
+That's why I'm doing all this.
+I could have just paid for money for it.
+But.
+No long one.
+I think it's going to be helpful.
+And I wrote another blog post.
+So that was neat.
+So I another psychology today article where I.
+They were talking about purpose and life.
+And they find seven different things.
+And so I.
+Basically, I'm just using it as.
+I did a again, the same thing.
+I did a journal thing.
+Just commenting on what.
+They were saying.
+It might take on it.
+And then when I took that information, I put it in a gym.
+And I said, hey, this creative bug post out of it.
+And we created a beautiful.
+I mean, it's creative.
+It is helpful for.
+For taking my.
+My journal stuff.
+And creating a coherent kind of flow and stuff.
+So.
+It's probably cheating.
+I'm not that good of a writer.
+But.
+I have no problem with it.
+Because it's actually all coming from me.
+It's all my own ideas.
+My own and a lot of my own words.
+You know, just.
+They're cleaning up my language.
+And you know, I'm making it.
+Flow together.
+So it's all me.
+It's all my concepts.
+And I think that's the important thing.
+You could say A.I. is whatever.
+But it's I'm the one that's giving it.
+You guys write it.
+Mm-hmm.
+Yeah.
+Mean is way I see it is like, okay.
+You ask it to do a picture for you.
+You're the one that's telling you what kind of picture you want.
+Kind of media, but kind of.
+Yeah.
+One and I think about this way.
+There are many people who write books.
+Who use ghost writers to do the writing for them.
+Right.
+And that's a legitimate thing that is accepted around.
+Yeah, especially famous people who are not known
+with their writing skills.
+Or like the Dalai Lama.
+How many books has he written?
+Hundreds.
+He's not writing all those books.
+He's directing his minions with, you know, input from them.
+Mm-hmm.
+You know what I'm saying?
+It's Dalai Lama.
+He's probably got a whole book writing group of people, you know.
+They're taking what he's doing as teachings.
+Mm-hmm.
+So anyway, to me, I can ease.
+I feel like I'm in the same thing.
+Like I said, but kind of switched it for me was like, okay.
+So a music producer isn't necessarily a musician.
+They're like a curator.
+You know, four things.
+Two minutes and more.
+Both.
+Yeah.
+And I think it's better.
+A lot of them just have a musical eye, you know, or a musical ear.
+I mean, for say.
+You know what I mean?
+And...
+Yeah.
+Same thing with movies.
+That's what I'm saying.
+I said, the producer doesn't make the movie.
+They hire a director and they have art people and they have camera people
+and they have actors and they have all these people to do all this work
+to make the movie.
+So I'm fine with that.
+That means.
+Mm-hmm.
+So, yeah.
+I think it's...
+It's here to stay.
+It's how to be...
+You know, I'm not going to just go and take somebody's whole idea
+and sell it for mine.
+A lot of people do.
+It's thinking like those books, Buddhist books.
+The Buddha, those people wrote this stuff originally hundreds of years ago.
+So they're just taking the same concepts, changing a few things to make it current
+and making it their own.
+And that's what I refuse to do.
+I mean...
+So anyway, just kind of like I'm trying to justify you because I know how much of a die-hard...
+It's like a mangler.
+Yeah.
+I'm sorry.
+How much of a die-hard chromaticist or whatever?
+You're very...
+Mm-hmm.
+It might be my Anson celebration.
+I could be very picky about things.
+Mm-hmm. Things have to be a certain way.
+No breaking the rules.
+Yeah.
+Kind of like to be blessed like that.
+Yeah. Well...
+You'll figure it out how it works for you.
+And I'm cool with that too.
+I'm trying to see my own.
+I'm trying to do a lot of things during the day to try to keep my health in good place.
+Mm-hmm.
+Your motivation and my mood, I've got to be upright whatever.
+Mm-hmm. That's good.
+I like that.
+Some days are just a grind and I just want to go home.
+That's what today was like.
+Mm-hmm.
+Yeah.
+That's why eventually when I realized I can get out of it, I did.
+Sweetie.
+Yeah.
+Some of the numbers get up.
+That's what I keep on saying for you.
+Soon as the number is good, right?
+Mm-hmm.
+That's hopefully, let's see if we can get the numbers right.
+I'm well worried myself about it.
+The economy is teetering in many ways.
+Because of the orange man in charge and his cronies.
+Mm-hmm.
+I was watching.
+It's crooked.
+Oh, it's too crooked-gasted.
+Yeah.
+Criminal characters.
+Yeah.
+I was watching a few videos today on billionaire taxes and stuff.
+Some really good reports.
+Breaking, whatever.
+That site that it was not the main people, but they have two other people.
+They have another group that do also support them.
+And they had this guy from France who has espoused a 2% billionaire tax in Europe.
+And debated it and the whole deal.
+So it was talking about that difficulties of the tax.
+And a lot of it really is because billionaires don't have income.
+They have assets.
+Right.
+So they argue that-
+Mostly like passive incomes.
+No.
+They own property and stocks that were given to them.
+And right.
+So that's why a lot of them, what they do is they-
+Guess how they get their income.
+They borrow.
+That's right.
+You don't get taxed on borrowed money.
+Stunning money.
+Yeah.
+But they don't have-
+It's not income.
+So guess what?
+They can borrow on assets and pay that off from their assets and never have any income.
+Yeah.
+Never get taxed.
+Yeah.
+So that's the problem right now.
+And so there's a lot of-
+But this one-
+Still, I didn't watch the whole thing because I was having breakfast when I was-
+But so they're-
+They're coming out with some solutions.
+So oh, the other thing is that the-
+That the democratic establishment is basically against it.
+Yeah.
+It's the people that want it, but not the Democrats.
+So if you look at the-
+If you look at the, you know, all of the power-
+The people in power, they're against it.
+Well, that's a problem.
+I'm worrying about that because then guess what?
+That's going to prevent people from voting blue because of the Democrats are just a shitty.
+Why would you vote for people you don't even like in the first place?
+We might.
+Well, that's the worry.
+So I'm-
+We'll see how it is.
+I think that the people will speak up and just have to deal with it as we go.
+Yeah.
+Just as long as we get that freak out of there first.
+I think just somebody came to get their mail.
+I saw Patrick had done his laundry and he may have checked his mailbox.
+Yeah.
+You probably put down as a-
+This guy Benjamin.
+Benjamin, Benjamin.
+What is he saying?
+He's saying why he doesn't live in Texas anymore and I don't know.
+So we have another, so Terrence had the baby yesterday.
+Sierra?
+Yeah.
+And-
+You have another great name.
+Yeah.
+F.I.S.
+I'm full of garlic home and I'm sick, so-
+Okay.
+Do you want to watch it darken at it?
+Sure.
+Or do you want to see something else?
+That's okay, hi.
+Do you have any football?
+I don't know if it's okay.
+I don't know.
+I wonder if it's going to heat up again though.
+If it's going to be, I mean, it could stay just like this, but-
+It's been pretty, uh, wintery, um, starting, you know, it's already the fall, which is-
+I like the fall.
+Okay, I don't need to see any recaps anymore if we stay synced.
+Oh, I'll wait till he get back though.
+Did you find him?
+Is he okay?
+What?
+What happened?
+He's in love with him too.
+So it's a glove triangle.
+Oh.
+I forgot how he got captured.
+All right, she got killed.
+Oh, she got killed.
+I take the blame for what happened.
+Yes, Jason, I take the blame for what happened.
+You came back and you were not prepared.
+You were not prepared to kill him.
+Unwell as you are.
+I don't want to make it.
+It's as long as you think it's yourself that others, the situation isn't going to go on.
+Did you- did you send him away?
+Yeah, the answer was-
+I'm just trying to help you remember the brilliant man you are.
+And this incredible thing you created.
+Thank you.
+That's why I got a second box.
+Oh, okay.
+Because he was so nice.
+Yeah, it was.
+It was great.
+$100.
+What?
+It's like you're trying to sleep with me.
+I am definitely trying to sleep with you.
+But, you know, it's a bit of a minute.
+Don't get me wrong.
+It's amazing.
+Hey, hey.
+Hi.
+Oh, my God.
+I can't leave this.
+Mike, because I'm getting our card back.
+So, you should love her.
+Oh, come and say hi.
+I know.
+I'm glad you did.
+You can see it.
+Yeah.
+See you.
+All right.
+Yeah.
+Bye.
+Yeah.
+Bye.
+What's going on?
+How are dinner party?
+At the house.
+Yeah.
+We talked about it.
+Okay.
+Later.
+Bye.
+Yeah.
+See you.
+Bye.
+Yeah.
+Bye.
+Yeah.
+Bye.
+What's going on?
+Yeah.
+We talked about it.
+Yeah.
+Fake it.
+So, you make it.
+See, that's the wrong application for it.
+Okay.
+Where is that woman that killed my woman?
+Yeah.
+That's the change.
+Who is this?
+You see the journalist?
+This is my grandpa.
+He put exactly the week left.
+And did I get anything?
+I'm waiting for something.
+Please.
+Your family was in the aviation?
+You mean?
+You brought a velocity 52 years ago.
+Built jet engines.
+Is that you and him?
+That burns down and I'll see you on it.
+Okay.
+You wish me.
+Please.
+This way.
+So, Jason Desmond.
+You worked here for her?
+Eight years.
+You wanted to watch her in your son?
+No, more than a year now.
+No one day he did this job for work.
+And I was in the social service.
+No one had it.
+Lie.
+She didn't want to help you.
+Water.
+No.
+Okay.
+Bye.
+Anyway.
+What?
+No.
+Okay.
+You know, I did speak to the police when Jason first went to see.
+What do you guys do here?
+Are they?
+What does that mean?
+Research and development.
+Oh!
+No.
+I know what it means.
+What do you make?
+She still can keep us across from the human processes.
+That's the mouthful.
+You know, there was another woman, Blair Kaplan.
+She worked her too, right?
+Yeah, left.
+Yeah, she went missing.
+Anything else you have?
+Yeah, hit everyone here really hard.
+So where is she and Jason in the same group?
+No, Blair was in the processes.
+What's all about?
+Jason definitely checked in with John at our general three nights ago.
+He didn't know.
+No, imagine.
+Is he okay?
+I don't know.
+He left the hospital before I got there, but he was apparently seeing it in the art show.
+Blair, that night?
+I saw him in my fridge, I don't see him.
+It's me.
+No.
+Oh, she had?
+That lie.
+You had to find him.
+At the end of his...
+Yeah.
+According to my predecessor's notes, he was in a relationship with another woman.
+Dr. Manioukiss?
+I don't think I have.
+I don't even know.
+How was life at the Leeskill?
+Awesome. Super great.
+So she shot her?
+Baby.
+I told her to remember she had to watch me.
+Because she's a deeply unstable person.
+For refusal treatment for her business deal.
+I warned you about hiring her.
+Enough.
+Did she mention delay?
+Did it detect it?
+Of course it did.
+She called her PD, so close to connecting her.
+That's what she said.
+Delay of all of it.
+You know what happens if they do.
+You must be the one who will be good person.
+It's been a year in the house.
+That's the box came along.
+That's the sack of Billy.
+We have poor people missing.
+And now they know about it.
+Well, he somehow found a way back.
+How?
+What did you do that?
+It wasn't his fault.
+The way you're doing it.
+So three people are missing.
+Four people are missing.
+Maybe there's more people.
+I don't know sicher.
+So what he scrummed his notes.
+He's activity.
+That's why I wanted more testing.
+There's so much we don't know.
+I did.
+That's it.
+It's a security there though.
+You can do this.
+Security.
+What's your name?
+I'm scared.
+So you understand who's from?
+She is.
+She was an opera.
+Let's just look at someone.
+Anyway, that I remember, so did you tell her or anyone about this place?
+I don't know this place.
+In your eyes.
+Close.
+Light exactly water we protect here.
+That would justify killing the person.
+It's made for anyone, it doesn't.
+This is me, everyone here has given everything to your work every day.
+And any one of us laid out our lives to protect it.
+Including you.
+Especially.
+I would.
+You forgot what we built.
+So show me.
+Okay, here we go.
+We get to see the cube.
+This is smart.
+To big old computer processor.
+It's right there.
+Builds a 1H cube that could put in a moment.
+And I try to disengage superposition.
+I actually create what's sure to get out of that.
+This cat is right.
+When you start to go up and toss it.
+Never finish.
+Never try to raise the foot here at the bottom of the alternative environment.
+Superposition stages.
+So you remember you stopped before.
+Is this some kind of a valley in that camp that you had to?
+Jason, you came up with so much more.
+I see underneath that alloy there's a layer of active adaptor shield that you can develop.
+Dad did it.
+Dad, fuck.
+It follows from all materials.
+The Jerry Fields, council law, whatever.
+Radiation or sound.
+Try to make it inside.
+It's like the world's most advanced noise canceling headphones.
+The noise and everything.
+It gives off a robust and a big field of exchange of metric.
+Not since.
+The world's biggest CPU chip.
+I didn't know you were the first to go inside in return.
+There are others left.
+The coordinators can't be inside.
+How many were there?
+Three.
+Three in this.
+First of all, you see the blade going to be turned.
+You start talking about going next.
+You can try to just switch it, but.
+How the fuck you got here?
+Said you built the box.
+You should be wanting to figure out how it works if you did.
+What happened now to that there's because...
+We'll put on call too.
+You don't even have any idea what you're saying, you're fooling.
+Eventually.
+Yeah, we get to see what happened.
+Okay, saying goodbye.
+Okay.
+Don't go, don't go.
+Don't move.
+Don't go.
+Don't do this, girl.
+Okay.
+So someone came back?
+You said anyone I want?
+Guys, what?
+Let's call it a birthday present.
+Happy birthday.
+Is that the one?
+Yeah, it's kind of expensive.
+Okay, it's cool.
+Yeah, what else do you need?
+Wheels.
+I have a cell phone.
+Come on.
+Yeah, he's thinking he's rich.
+You done it tomorrow night?
+I'm sorry.
+You're not ending all the other guys' money.
+Well, you don't want to see a...
+Bara and Mike?
+Who?
+G.G. and Marcus can do that too.
+Oh, yeah.
+That new bow to theirs is pretty sweet, huh?
+Let's try connecting to a social memory.
+Media.
+Charlie, what's Blair's last name?
+Space known?
+Wait, what?
+Blair.
+The last name.
+I've got to write everybody name.
+Kaplan, I think.
+Kaplan.
+Whoa.
+Not the other dudes.
+Missing.
+Did the other one...
+Oh, there she is.
+She's the one from...
+The Ark Gallery.
+Oh.
+Thank you, mother.
+Oh.
+She wants to make sure they're here better.
+Yeah.
+Is anyone working?
+Yeah.
+It's like one day, every single thing about yourself.
+Really?
+I guess you really don't remember me.
+I should start over.
+Amanda, look.
+What's your role, layer?
+I'm a psychiatrist.
+Just release my...
+I treat the box badly.
+Train.
+Co-train.
+Mental conditioning for horse environments,
+emotional regulation, type of focus.
+I oversupprise from Adam and Perry.
+Did you ever write this?
+So you said that you and I lived together.
+It's over a year.
+Day that I disappeared.
+What happened?
+We...
+We woke up that morning.
+I think we found something was bothering here.
+You had to see the next girl from the back before.
+You said you were fine.
+I said he didn't believe you.
+He didn't like to do something.
+He insisted on what?
+I don't know.
+I don't know the shower.
+You were hot.
+I must be out of nothing, right?
+I don't know what other experiments could be.
+There's a lot of time.
+The extreme stress situation.
+It triggers the cadranical tension.
+The normal memory function.
+In the absence of structural brain damage.
+It can take a lot of time.
+What if I'm not the person that I have to tell you?
+Yeah.
+You're different.
+He's not the same person.
+I'm not me.
+I'm the person that everybody else thinks of.
+He had the nail on the head.
+So she's thinking about that.
+There's two of them.
+Come on, Amanda.
+Uh-oh.
+You're on.
+I'm on.
+Call me two minutes.
+Terry.
+How you been?
+No.
+You must love being a lawyer.
+Yeah, I like being a lawyer.
+I mean, sorry.
+I don't know.
+I'm happy to see you.
+I'm happy to see you too.
+Yeah, you look great.
+Thank you.
+I'll go.
+Thank you very much.
+Yeah.
+I'll see you, man.
+I've always wanted to see you.
+Oh.
+I mean, it's our point.
+It's my seeing thing.
+I can't wait to see you.
+I live there.
+There you go.
+He's got you.
+So, uh, Charlie, he's thinking, uh,
+he's still thinking you're at school.
+Oh, and, uh, what about honor?
+He must be a senior now.
+Yeah, yeah.
+Hunter is still thinking it's both fucking crazy.
+He's failing to class.
+I don't think he's going to get into his state.
+You can imagine how much time we've had.
+Oh.
+Sorry.
+Just excuse me.
+No.
+Okay.
+That's one of the things I'm going to do.
+Hey, why?
+So wait a minute.
+You're right.
+So.
+Yeah.
+Okay.
+Thank you.
+You need to die coke.
+I'm killed for die coke.
+Yeah.
+Hello.
+Hi.
+These two.
+Yeah.
+Those three.
+Yeah.
+Okay.
+He's nervous as hell.
+You have to go like the way I gave you the
+head.
+Come here.
+Now.
+Come.
+osen good.
+I hear you look at the old house, but here it goes, no, it's too bad, it's hard to see it in this world.
+I think the reason why you don't remember anything about your life is because of what it was.
+I'm going to ask you a few questions and I'm just going to write a little bit of a trip.
+No.
+I'm going to tell you how far I miss the trip.
+I'm going to tell you how far I'm at the trip.
+I don't want you to tell the right.
+I don't want you to tell the school where you publish your life.
+You're in a pasta.
+Another version of the Jason music.
+What are you talking about?
+Where's our chase?
+How did you use the box to get to this world?
+He deserved that.
+Kill this wife.
+Kill you, you know.
+He deserved that.
+I don't know.
+They got the enforcer in there.
+It's my extraordinary life.
+He deserved that.
+I would rather spend time with the people in this room than the best people in the world.
+I don't know.
+Good job.
+I'm doing it.
+I'm only spanking you because I love you.
+I don't know.
+Oh.
+I don't know.
+Okay.
+That's a pretty cute one.
+Yeah.
+Close the door and go through another door.
+Yeah.
+
+---
+
+## 🎙️ Session 3: 2026-08-31 21:44:06 (13s)
+- **Source File**: `2026-08-31 21_44_06.mp3`
+- **Audio ID**: `989ef829188926be0cf7662d7a39a740`
+
+- **[00:00 - End] (Andy)**: You're so absorbent, lots of laughs.
+
+---

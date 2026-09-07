@@ -1,7 +1,7 @@
 # Plaud Daily Transcript - Monday, August 31, 2026
 - **Date**: 2026-08-31
 - **Total Audio Sessions Processed**: 6
-- **Generated**: 2026-09-01 10:10:56
+- **Generated**: 2026-09-03 03:03:28
 
 ---
 
@@ -14,934 +14,27 @@ most meaning out of my reports.
 I wish there was a way to flag them.
 I will try to remember these things as I review the reports so that I could note them.
 So I can add assistance to the reports when need be.
-I will try to remember these things as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as
-review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review the reports as I review
-The devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking
-the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up
-the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking up the devices are not picking
+I will try to remember these things as I review the reports as I review
+The devices are not picking up the devices are not picking
 I think I have a few but I might have to inquire with the doctor
 Hey Google add a task for me for later today to check with my doctor about adding a buta raw
-for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for
-for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for
-for for for
-for for for for for for for
-for for for for for for for
-for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for
-for for for
-for for for for for
-for for for for for for
-for for for for for
-for for for for for for
-for for for for for
-for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for
-for for for
-for for for for for
-for for for for for
-for for for for for
-for for for for for for
-for for for for for
-for for for for for
-for for for for for
-for for for for for
-for for for for for
-for for for for for
-for for for for for
-for for for for for
-and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and
-and and and and and
-and and and and and and and and and and and and and and of
-that that that that that that that that that that that thatthat evening
-I don't know if I'm going to be able to do it, but I'm going to be able to do it, but I'm going to be able to do it, but I'm going to be able to do it, but I'm going to be able to do it, but I'm going to be able to do it, but I'm going to be able to do it, but I'm going to be able to do it, but I'm going to be able to do it, but I'm going to be able to do it, but I'm going to be able to do it, but I'm going to be able to do it, but I'm going to be able to do it, but I'm going to be able to do it, but I'm going to be able to do it, but I'm going to be able to do it, but I'm going to be able to do it, but I'm going to be able to do it, but I'm going to be able to do it, but I'm going to be able to do it
-to do it.
+of
+that evening
+I don't know if I'm going to be able to do it, but I'm going to be able to do it.
 I'm going to be able to do it.
 That's a 50-degree angle scene.
 I'm going to be able to do it.
 eat hat
 two viral ones get that
 I'm going to have to go to the other side to see if I'm going to be able to get out of here.
-I'm going to have to go to the other side to see if I'm going to be able to get out of here.
-I'm going to have to go to the other side to see if I'm going to be able to get out of here.
-I'm going to have to go to the other side to see if I'm going to be able to get out of here.
-I'm going to have to go to the other side to see if I'm going to be able to get out of here.
-I'm going to have to go to the other side to see if I'm going to be able to get out of here.
-I'm going to have to go to the other side to see if I'm going to be able to get out of here.
 I think this is a single sheet I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-I'm looking for.
-Okay.
-Okay.
-Okay.
 Okay.
 Oops.
 Hmm.
 Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
 Suggest an appropriate image that might fit into this.
 Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
 I don't really think we need to go any further with this.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
 Okay.
 
 ---
@@ -950,201 +43,21 @@ Okay.
 - **Source File**: `2026-08-31 15_00_41.mp3`
 - **Audio ID**: `ae81172d0eb4b6adb70ed7d49a74ae9b`
 
-- **[00:00 - End] (Andy)**: I'm going to put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in
-and put it in the fridge and put it in the fridge and put it in
-and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the
-fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge
-and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the
-fridge and put it in the fridge and put it in the fridge
-and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the
-freezer and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge And put it in the fridge and put it in a fridge and put it. your hand is in it and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and put it in the fridge and印 it.
-This is the first time I've ever done this before, so I'm going to try to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me
-to make it easier for me to make it easier
-for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for
-me to make it easier for me
-to make it easier for me to make it easier for me
-to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me
-to make it easier for me
-to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for
-me to make it easier for me
-to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me
-to make it easier for me
-to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for me to make it easier for
-for me to make it easier for me
-to make it easier for me to make it easier for me to make it easier for me
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
-Wow!
+- **[00:00 - End] (Andy)**: I'm going to put it in the fridge and put it in the fridge and put it in
+and put it in the fridge and put it in the
+freezer and put it in the fridge and put it in a fridge and put it. your hand is in it and put it in the fridge and印 it.
+This is the first time I've ever done this before, so I'm going to try to make it easier for me
 Wow!
 hahaha
 That's really strong
 Wow!
 Wow...
-Wow...
-Wow...
 I saw myself
 Anyways
 Wow...
-I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry
-I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry
-I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I
-I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry
-I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I
-I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry , I'm latency, I'm sorry , I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry . I'm sorry,, I'm sorry . . . . . I'm sorry, that's the monsoon stuff that's coming in, I'm sorry, I'm sorry, I'm sorry, that's someone, I'm sorry, i'm sorry . . . I'm sorry , that's someone, I'm sorry. the monsoon stuff that's coming in, I'm sorry, I'laughs, I guess that you don't know, I'm sorry
+I'm sorry, I
+I'm sorry, I'm sorry, I
+I'm sorry, I'm sorry , I'm latency, I'm sorry . I'm sorry,, I'm sorry . . . . . I'm sorry, that's the monsoon stuff that's coming in, I'm sorry, that's someone, I'm sorry . . . I'm sorry , that's someone, I'm sorry. the monsoon stuff that's coming in, I'm sorry, I'laughs, I guess that you don't know, I'm sorry
 And it's affecting us.
 That's what I was telling you about.
 I don't forget that was it yesterday.
@@ -1173,7 +86,7 @@ Okay, still.
 If two of us don't want to have a truck, we can bring.
 Okay, well, that's what I won't worry about it right now.
 I just want to get to know where I was coming from.
-I mean, I don't know what the way it is is like where,
+I mean, I don't know what the way it is like where,
 unless you're, they're sharing the costs with it.
 You know, my feeling, that's all I'm saying.
 So it's true though, this is the first year she has not had
@@ -1200,9 +113,9 @@ you don't have to do anything for me okay but what I'm saying I don't need it
 I'm already packed without it
 what you're looking for them that's neat to know
 wonder what's happening you're wearing the shirt what are you talking about
-do you sure you sure?
+do you sure?
 pretty good actually I did another I
-yeah yeah it did I have I did my usual you know updating the report thing I'm
+yeah it did I have I did my usual you know updating the report thing I'm
 making some you know I have to go and kind of correct it on some of the things
 in there which is getting very minor now but it's good things I'm
 correcting like where they attribute things to the wrong person or
@@ -1216,18 +129,18 @@ actually I just saw Sunni there it actually I don't know if I told you about
 this or not but when I came home from the grocery store yesterday I was
 getting ready to get out of the car there was an old woman sitting on the
 bench right there kind of where my car parks and she had her head down in her
-between her legs and she just looked down down Trotten and then so she was
+between her legs and she just looked down Trotten and then so she was
 noticing me and I was noticing her for a while so it took me a second to get
 out of the car and everything and I was just thinking about her and I got the
 food and packed myself up and you know get myself prepped to walk in the house
 and then I was walking by her walking got out of the car and I was getting ready
 to walk in the house I asked her if she was okay out of concern so she turned
 to me and she says why would you ask me if I'm okay I you don't even know who I
-am and I said well I care about how how people are doing and when I see them
+am and I said well I care about how people are doing and when I see them
 where they might be where there might be some concern I asked I check in with
 them and that's I think that's how to surprise her but it did and I was very
 pleased with my response to her you know she because she was kind of
-confrontational in a way and I said and said and I what I said to her and then
+confrontational in a way and I said and I what I said to her and then
 she and then she said not really she I forget exactly what she said afterwards
 and I said well all you needed to say is that you know that everything's fine or
 whatever you needed to say you didn't need to provide you know come back and
@@ -1236,20 +149,19 @@ it's like hey just say that you know what's all it's simple that and I said and
 I just turned and left so I dropped it very quick but it was something that
 was very important that I thought I'd handle that really skillfully I was
 caring I said of something that was you know very touching I think for her
-it reached her you know a certain way and and then I didn't let it bother me
+it reached her you know a certain way and then I didn't let it bother me
 that she was you know she was grisly you know and she you could tell she was
-like an an old Irish woman where it was kind of like you know I'm not I don't
+like an old Irish woman where it was kind of like you know I'm not I don't
 want to stereotype anything but you know when people come and they don't you
 could tell by her question of me you don't even know me why would you ask me
 that you know is how people are mine your own business stay out of everybody's
-business or whatever yeah she yeah so anyway and and then so the the my little
+business or whatever yeah she yeah so anyway and then so the my little
 recorder was very clear what I was doing it didn't mention that in my
 report and so why not you know that was a big deal I'm one I interact with talk
 about human interaction things is the most important thing we're catching
 capturing that's exactly what I want the whole thing you know so and that's
 why I'm frustrated with the quotes in the various other parts which are not
-catching these things and then I had to go back out oh I took the garbage out
-I took the garbage out when I took the garbage out then I ran into sunny and I
+catching these things and then I had to go back out oh I took the garbage out when I took the garbage out then I ran into sunny and I
 had an interaction with her and I was telling her oh I was going on retreat and
 she's saying oh can you afford that and I said I got a scholarship I told her
 the whole thing and she was you know she didn't know about it so you're
@@ -1259,157 +171,33 @@ anyway that was our interaction and it was cool but I wanted those
 things to be show up you know those are the most important things and so
 anyway I when I was doing the journaling today this is the last thing I'll
 say is that I actually am having it now when I ever do any journaling or
-anything like that the voice journal whatever I want to I want to summary in a
+anything like that the voice journal whatever I want to summary in a
 transcript of what I talked about so we'll see if it happens tonight well this
 is you see the red dot on yeah so it's on and this thing is green on this one
-here doesn't record any audio it what it does is it it converts it just to
+here doesn't record any audio it what it does is it converts it just to
 data that it deals with it so it's always you know ending up sending data
 not you know constantly but in batches yeah it's part of the problem with
-why it doesn't have a good AI anyway I see you're you're going yeah they're
+why it doesn't have a good AI anyway I see you're going yeah they're
 recording and I made a mistake the other day and didn't record part of the
-day but I'm it's okay okay anyway enjoy I see you in a minute
-is it possible
+day but I'm it's okay anyway enjoy I see you in a minute
 is it possible for me to use my GitHub backup so that I can sync my obsidian on
 on my tablet question mark
 okay Noah Dale tonight so I am in the mode for retreat so I'm getting there
 I'm packed and getting ready to read and do things enjoy what are you doing
 that's what's that little bag you're carrying with you that's not a lot of
 laundry you got two other bags in there when are you gonna do those all right
-I'll do two at a time oh no no no no you don't have to do that because I said
+I'll do two at a time oh no you don't have to do that because I said
 that I just wanted to understand your method that's you don't have to yeah no
 problem
 oh my gosh it's definable you could get it's not the forty two or one
-one
 Can you do a pulse?
 Have you dry your blood?
 Okay.
 Ah.
 I'm going to do a little bit more of this.
 I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
-I'm going to do a little bit more.
 You're day okay?
 I'm stepping down.
-I'm stepping down.
-It's a bit of time.
-It's a bit of time.
-It's a bit of time.
 It's a bit of time.
 It's exactly what I said today.
 I'm reading the earth prayer's book.
@@ -1452,7 +240,7 @@ I become part of it, the herbs, the fir tree.
 I become part of it, the morning mists, the clouds, the gathering.
 I become part of it.
 I love it.
-I was just talking about this this morning.
+I was just talking about this morning.
 That's why I was talking about what they journal.
 I wanted to catch these things.
 I didn't mean to interrupt you. I'm sorry.
@@ -1477,8 +265,6 @@ Well, it helps when you're quiet.
 But you're coming in where, yeah, your body language can still be angry.
 Holding yards for people.
 Yeah.
-Yeah.
-Yeah.
 All that comes part of it.
 It's really neat.
 Yeah, like how Jack was...
@@ -1499,7 +285,7 @@ But I don't remember the type of Buddhism it was.
 It may have been Zen.
 But I was talking with him about, you know, I was talking about core Buddhist stuff with him.
 He said, yeah, it was really wonderful to go out there.
-And then all of a sudden all the stuff we were talking about was there.
+And then all of a sudden all the stuff were talking about was there.
 It's like, yes.
 Yeah, I felt grateful.
 It's like, oh, great.
@@ -1535,7 +321,7 @@ You know, it's like that is a way that the media and why...
 How things plant seeds.
 Yeah.
 I noticed something really interesting of the concept of decolonizing all these different fields.
-The therapy of teaching, of social science.
+Therapy of teaching, of social science.
 It's really coming out.
 Oh good.
 It's your therapist.
@@ -1549,11 +335,11 @@ But they didn't say, you know, they didn't use anything about race.
 It was nothing about that.
 It was about using, you know, positive words, you know, in all situations.
 And I objected to it.
-And I had a lot, I had a lot, I really good feedback.
+And I had a lot, I really good feedback.
 So if you read the, the sub-stack, I think it's fairly clear my perspective.
 And so what I did was I basically just went through and did I...
 I don't like affirmation.
-No, no, no, that's not what I did.
+No, that's not what I did.
 What I did was I read through the, the blog post and I went point by point and talked about it.
 I talked about my perspective.
 What I did liked and didn't like.
@@ -1575,7 +361,7 @@ because that's where they're coming from and they're using that speech.
 They may not have other speech that they could use or, you know what I'm saying?
 And so if you're criticizing and you're saying, you know, obviously it's careful, you know, we talk about, you know, I should have done this.
 There's certain ones that we talk about, I should have, you know, as one of the main ones, right.
-And we talk about it. We want people to encourage people. I wasn't putting that encouraging people down, but I was, I was, I was objecting to everything always has to be positive.
+And we talk about it. We want people to encourage people. I wasn't putting that encouraging people down, but I was, I was objecting to everything always has to be positive.
 It's kind of like this manifesting thing, you know, it's like that.
 So anyway, I think I was.
 Everything is balanced. I think all that everything is pushing for everything all the time is realistic.
@@ -1588,464 +374,30 @@ Don't you know, I'm not saying inject yourself with it. I'm just saying, you kno
 If somebody is expressing frustration or, you know, whatever their negativity is, or they're, you know, that we don't have to auto correct them.
 And that's one of the things that I think the woke, which is interesting. The other side of what you're talking about was how decolonizing is adding in waking up, which is why it's called the woke.
 We're trying to wake up the world to the truth of things versus the white washed.
-Right in Chinese, that's like, no.
-Yeah.
-Yeah.
-Yeah.
+Right in Chinese, that's Yeah.
 The only thing I want to say on that is that I think it's good to call it out.
 I think, but at a certain point, then I think the way we go about it should be done in a genuine compassionate matter, as, you know, as best we can.
-We could say that, hey, look at this is, you know, this is doesn't tell a complete story, you know, or, you know, we can, we can clarify things, which is, I think, very helpful.
+We could say that, hey, look at this is, you know, this is doesn't tell a complete story, you know, or, you know, we can clarify things, which is, I think, very helpful.
 And I think that's kind of what the, the kind of the backlash is when people, when, quote, white people are feeling like they're being battered for the whole history of the world, which maybe, or maybe that they weren't a part of.
 No, listen to you.
 Well, yeah, but who's going to like, okay, do you deserve that?
 My ancestors do, so I'll take my part in it.
 I know, and I understand that, but you're, but at the same point, you don't want to poison you.
 Yeah, it's a systemic thing. It's not one.
-Yeah, but obviously the people need to have thick skin, thin thick skin about it, because if they just take on, oh, that's an a personal attack to me, it's not, it's a, it's a clarification to the whole of history that's been slanted, you know.
+Yeah, but obviously the people need to have thick skin, thin thick skin about it, because if they just take on, oh, that's an a personal attack to me, it's not, it's a clarification to the whole of history that's been slanted, you know.
 And society that's slanted, it's slanted, you know, favoritism to, you know, a certain class of, quote, class of people that it's tailored towards is, but it's been, it's been happening forever in human history.
 Unfortunately, imagine on the history that we've lost, because we don't know the true picture.
 It's pretty gruesome in a lot of ways, because we know the Catholic Church.
 Okay, your clock is, is expiring.
-That's neat that you observed that, though. I like that. Thank you.
-Thank you.
-Load number two, my love.
+That's neat that you observed that, though. I like that. Thank you. Load number two, my love.
 You want me to prep the dinner?
 Would you mind?
 Got that hard.
 I'm a lazy loof. You shouldn't talk to yourself that way.
-Ha, ha, ha, ha, ha, ha, ha.
+Ha, ha.
 Lou, Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-Lou.
-I got the van if necessary.
-I got the van if necessary.
-I got the van if necessary.
-I got the van if necessary.
-I got the van if necessary.
-I got the van if necessary.
-I got the van if necessary.
-I got the van if necessary.
-I got the van if necessary.
-I got the van if necessary.
-I got the van if necessary.
 I got the van if necessary.
 No.
-No.
-This came in from Mark.
-This came in from Mark.
-This came in from Mark.
-This came in from Mark.
-This came in from Mark.
-This came in from Mark.
-This came in from Mark.
-This came in from Mark.
-This came in from Mark.
-This came in from Mark.
-This came in from Mark.
-This came in from Mark.
 This came in from Mark.
 I think that she is just that she's done to be honest with you.
 I think that to be honest I really do think that she's been a slow backtrack for a while now.
@@ -2055,7 +407,7 @@ I think that to the point where she's even talking about you know she's got othe
 That's why I was asking about her dedication from the first place.
 Yeah that's right but those are her you know different priorities and I'm again I'm not faulting her.
 I'm not. I'm just saying that it's obvious that you know she's taking this.
-She thought I was going to work out now she's seeing that the dynamics are changing and you know it's whatever and I just think that that's fair you know.
+She thought I was going to work out now she's seeing that the dynamics are changing and you know it's whatever and I just think that's fair you know.
 I think she was well I don't want to try to figure her out but I'm going to have a conversation with her sometimes soon.
 Yeah.
 We get a little more.
@@ -2087,53 +439,7 @@ Not my monkey not my zoo.
 Yeah.
 Oh.
 Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
 Hey Google turn on the shield.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
 Yeah.
 Joe says he's going.
 He just said it.
@@ -2164,68 +470,13 @@ And of course at the time the document is ratified.
 We didn't have that document.
 Yeah.
 We didn't have that document.
-We didn't have that document.
-We didn't have that document.
-We didn't have that document.
-We didn't have that document.
-We didn't have that document.
-We didn't have that document.
-We didn't have that document.
-We didn't have that document.
-We didn't have that document.
-We didn't have that document.
-We didn't have that document.
-We didn't have that document.
-We didn't have that document.
-We didn't have that document.
-We didn't have that document.
-We didn't have that document.
-We didn't have that document.
 How did the writers of the Constitution have a thought about the Internet?
-Explain that.
-Explain that.
-Explain that.
-Explain that.
-Explain that.
-Explain that.
-Explain that.
-Explain that.
-Explain that.
-Explain that.
-Explain that.
-Explain that.
-Explain that.
-Explain that.
-Explain that.
-Explain that.
-Explain that.
-Explain that.
-Explain that.
-Explain that.
-Explain that.
-Explain that.
-Explain that.
-Explain that.
-Explain that.
-Explain that.
-Explain that.
-Explain that.
-Explain that.
-Explain that.
 Explain that.
 Explain the.
 Explain that.
-Explain that.
-Explain that.
-Explain that.
-Explain that.
-Explain that.
-Explain that.
-Explain that.
-Explain that.
 a couple of centuries ago, right?
 True, and with respect to law, oftentimes,
-borders must draw an analogy.
+borders must draw analogy.
 You know, quite seriously, isn't that pretty weird?
 I frankly don't think it is that the majority of today
 is putting forth a sexualist.
@@ -2254,7 +505,7 @@ where instead of paying retail when they're buying wholesale,
 we can't negotiate on behalf of consumers.
 That was a press here, sir.
 Senator, the briefest file on behalf of the client,
-the position was not that that would be impermissible.
+the position was not that would be impermissible.
 Sorry, here is your personal position.
 Well, I can't state my personal position
 because it's a matter of getting litigation under the candidate.
@@ -2402,7 +653,7 @@ wiggle, land, hit, F-R, right?
 So you have double trumps just flying,
 throwing random numbers out, right?
 The hybrid planes they can share, they can change anywhere.
-You're like, you're like, well, he said 100,000.
+You're like, well, he said 100,000.
 So it should have to be somewhere, you know?
 Or it could have gotten me a lot out of it.
 You know, I know.
@@ -2508,16 +759,6 @@ Hands off.
 Stay away!
 Huh?
 Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Please.
-Please.
-Please.
 Please.
 I think you create a really astribut.
 You've got to ask for the things you want.
@@ -2547,7 +788,7 @@ You might have to have the rest tomorrow.
 I mean, you might or not leave me here.
 If I go to see I was on POS now.
 Oh.
-I'm going to have to have time.
+I'm going to have time.
 Okay.
 Yeah.
 Ask the interpersonal part about it.
@@ -2667,7 +908,7 @@ So I get back from the retreat and then start it when we get back a little bit f
 the finishing question.
 I have a feeling we're going to have weather this year.
 It could just the way that monsoon weather patterns have been over the deserts.
-It's been a thing for movies, movies, movies, movies.
+It's been a thing for movies, movies.
 Hurricane going up there.
 I don't know if we've missed this, but it's always going to be unsettled behind it.
 The forecast is not available for that time frame yet, I saw.
@@ -2696,7 +937,7 @@ Especially since we're going to take our little car and that, like, six gas.
 Which one?
 Yeah, it still uses more gas than mine.
 It does.
-Remember, we use more gas when we thought when we went to Joshua Tree.
+Remember, we use more gas when we thought when went to Joshua Tree.
 Yeah.
 But I think we're going to need that all wheel drive.
 No, we will.
@@ -2739,10 +980,8 @@ But I'll get those on a bungees.
 I know, but I can buy a couple straps for us to use on that roof, okay?
 Cool.
 I'll get maybe four.
-Four.
 Four ones, I know I can trust.
 Because I know we've had them before.
-Two that way.
 Two that way.
 You have to cross them also.
 Yeah.
@@ -2796,56 +1035,11 @@ You should probably measure that.
 I'll go and measure it.
 What?
 Uh-oh.
-Uh-oh.
 Where's your food?
-It's done, right?
-Yeah.
-Okay.
-Okay.
+It's done, Okay.
 You stopped your clock.
 Oh my gosh.
 I learned.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay!
-Okay.
-Okay.
-Yeah.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
 Okay.
 Alright.
 Okay.
@@ -2863,8 +1057,6 @@ Yeah, let's try and close it.
 You can go like that.
 Is that running?
 Yeah, I just reset it. It's not going anywhere.
-Yeah.
-Yeah.
 Yeah.
 Ah.
 For nearly three years, we watched a live stream genocide unfold in Gaza.
@@ -2890,9 +1082,6 @@ And each time, this happens.
 Those against?
 Encounter?
 Those against?
-Those against?
-Those against?
-Those against?
 So when the US offers a new way of bringing peace to Gaza through the border,
 the council immediately approves that.
 You might be thinking, why?
@@ -2904,7 +1093,7 @@ Whichever way you want to read it, you are an executionist.
 It greenlines the borders without seeing its most important document,
 the Florida Peace Charter, which is revealed two months later.
 First, membership is in by only for countries and individuals.
-For countries, a billion dollars is a price tag for a long term term.
+For countries, a billion dollars is a price tag for a long term.
 Palestinians have no real decision-making power,
 but Israel and Prime Minister Benjamin Netanyahu are invited to join as a member state.
 Second, Trump has made lifetime chairman of the board,
@@ -2913,38 +1102,8 @@ Which means, even after he's no longer president, Trump keeps that role as a pri
 Third, the board's open private big house that are harder to track or scrutinize.
 Like the case in Washington, Alabama.
 The board's open private big house.
-The board's open private big house.
-The board's open private big house.
-The board's open private big house.
-The board's open private big house.
-The board's open private big house.
-The board's open private big house.
-The board's open private big house.
-The board's open private big house.
-The board's open private big house.
-The board's open private big house.
-The board's open private big house.
-The board's open private big house.
-The board's open private big house.
-The board's open private big house.
-The board's open private big house.
-The board's open private big house.
-The board's open private big house.
-The board's open private big house.
-The board's open private big house.
-The board's open private big house.
-The board's open private big house.
-The board's open private big house.
-The board's open private big house.
-The board's open private big house.
-The board's open private big house.
-The board's open private big house.
-The board's open private big house.
-The board's open private big house.
-Significes Significes Significes Right away.
-Significes Significes Significes Significes Significes Significes Significes
-Significes Significes Significes Significes Significes Significes Significes Significes Significes Significes Significes Significes
-Significes Significes Significes Significes Significes Significes Significes Significes Ended.
+Significes Right away.
+Significes Ended.
 This is the nancy grays for Illinois space telescope.
 For simply rolling for shortage.
 This is the nancy grays for Illinois space telescope.
@@ -3234,7 +1393,7 @@ to be able to work well with this method.
 But again, to use this method,
 it actually works in factored any quadratic expression.
 Even quadratic for the 8 value is not one,
-and also quadratic that are going to have to have
+and also quadratic that are going to have
 irrational or imaginary numbers in their factors.
 So keep watching till the end,
 and I'll show you all those different types of quadratics
@@ -3288,7 +1447,6 @@ To my wife and me do this,
 say this on the car payment.
 I use the home insurance
 to buy insurance to the market.
-This is Mid-Autumn.
 This is Mid-Autumn.
 In 2021, he and his wife bought a house
 and started looking for insurance.
@@ -3415,123 +1573,9 @@ Well, it means that it
 would be a better
 future.
 It's a good idea.
-It's a good idea.
-It's a good idea.
-It's a good idea.
-It's a good idea.
-It's a good idea.
-It's a good idea.
-It's a good idea.
-It's a good idea.
-It's a good idea.
-It's a good idea.
-It's a good idea.
-It's a good idea.
-It's a good idea.
-It's a good idea.
-It's a good idea.
-It's a good idea.
-It's a good idea.
-It's a good idea.
-It's a good idea.
-It's a good idea.
-It's a good idea.
-It's a good idea.
-It's a good idea.
-It's a good idea.
-It's a good idea.
-It's a good idea.
-It's a good idea.
-It's a good idea.
-It's a good idea.
-It's a good idea.
-It's a good idea.
-It's a good idea.
-It's a good idea.
-It's a good idea.
 I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-I see them in the commercial.
-They will help and share information.
-They will help and share information.
 They will help and share information.
 They are going to help and share information.
-They will help and share information.
 They will help and share information.
 Would you like to ask anyone's regards here yesterday?
 Would you like to ask anyone's regards here?
@@ -3585,10 +1629,8 @@ You wouldn't believe me if I told you.
 This is where it sounds like.
 Where the hell did my wife, you have a wife?
 I don't know.
-I don't know.
 Resilience.
 It's green versus red.
-Yellow.
 Yellow.
 Just the last comment, sorry.
 You know, I don't think so.
@@ -3631,7 +1673,6 @@ which one is a
 He's an impostor, he's sleeping with somebody else's woman.
 Yeah, he has a better taste than that guy, because he's richer.
 Yeah. He's on the one that's right.
-Yeah.
 Yeah.
 Where is she at?
 Sorry to wake you.
@@ -3676,7 +1717,6 @@ And this one is like low-pitched.
 Take that off.
 Okay, try it.
 Hey, Jason.
-Hi.
 Hi.
 First of all, after we're done.
 So does anyone want to take a shot?
@@ -3742,10 +1782,6 @@ That's how to go up against tomorrow,
 unfortunately, not only?
 Yeah, it's Daniel.
 She says,
-I know the artist.
-I know the artist.
-I know the artist.
-I know the artist.
 I know the artist.
 I know Daniel.
 Jason?
@@ -3844,18 +1880,6 @@ You call me today?
 Right.
 Yeah.
 You wanted to help me pass the job off there.
-You wanted to help me pass the job off there.
-You wanted to help me pass the job off there.
-You wanted to help me pass the job off there.
-You wanted to help me pass the job off there.
-You wanted to help me pass the job off there.
-You wanted to help me pass the job off there.
-You wanted to help me pass the job off there.
-You wanted to help me pass the job off there.
-You wanted to help me pass the job off there.
-You wanted to help me pass the job off there.
-You wanted to help me pass the job off there.
-You wanted to help me pass the job off there.
 So, what?
 What do you think I said?
 Well, strong disagree.
@@ -3866,30 +1890,15 @@ There's another one.
 He's talking about love.
 Just show her that you're answering and play it in the close team at best.
 So, be a loop.
-Be a loop.
-Be a loop.
 It's cool.
 Non-termino.
-the
-the
-the
-the
 OK.
 Hey.
 Come on.
 Shh.
-Shh.
-Shh.
-Shh.
-Shh.
-Shh.
-Shh.
-Shh.
-Shh.
 Now it's just three left.
 Ah, that's good.
 Wait a minute.
-Shh.
 Shh.
 I have to do this.
 I have to do that.
@@ -3943,153 +1952,20 @@ First time.
 Now, there, bro.
 This is what I know.
 You were my place in the brownstone.
-You were my place in the brownstone.
-You were my place in the brownstone.
-You were my place in the brownstone.
-You were my place in the brownstone.
-You were my place in the brownstone.
-You were my place in the brownstone.
-You were my place in the brownstone.
-You were my place in the brownstone.
-You were my place in the brownstone.
-You were my place in the brownstone.
-You were my place in the brownstone.
-You were my place in the brownstone.
-You were my place in the brownstone.
-You were my place in the brownstone.
-You were my place in the brownstone.
-You were my place in the brownstone.
-You were my place in the brownstone.
-You were my place in the brownstone.
-You were my place in the brownstone.
 That is Principle.
 This is Principle.
-This is Principle.
-This is Principle.
-This is Principle.
-问问问问问问問问 asks asked ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask ask August.
+问问问問问 asks asked ask August.
 Sell ridesmple to 소�ishaka
 Oh, you're seeing, oh, they're seeing each other.
 He doesn't know what just is.
 Uh-oh.
 All the signs.
 Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
 She's trained for the marathon.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
 Uh-oh.
 He's getting on both sides of the universe.
 Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
 Fuck.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
-Uh-oh.
 Uh-oh.
 
 ---
@@ -4099,507 +1975,6 @@ Uh-oh.
 - **Audio ID**: `c381d55328b404639a8ff4212f3bcb0e`
 
 - **[00:00 - End] (Andy)**: I'm going to do a little bit of the rest of the exercise.
-I'm going to do a little bit of the rest of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
-I'm going to do a little bit of the exercise.
 I'm going to do a little bit of the exercise.
 
 ---
@@ -4608,86 +1983,15 @@ I'm going to do a little bit of the exercise.
 - **Source File**: `2026-08-30 07_56_37.mp3`
 - **Audio ID**: `ecf759f1944bd38b4ecaf6575ef463e3`
 
-- **[00:00 - End] (Andy)**: I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry
+- **[00:00 - End] (Andy)**: I'm sorry, I
+I'm sorry, I'm sorry
+I'm sorry, I
 I'm sorry, I'm sorry, I'm sorry, I'm sorry
-I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I
-I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry
-I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I
-I'm sorry, I'm sorry, I'm sorry
-I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I
-'m sorry, I'm sorry, I'm sorry, I'm sorry
-I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I
-I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry
-I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I
+I'm sorry, I
 I'm sorry, I'm sorry, I'm sorry, I'm sorry
-I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I
-I'm sorry, I'm sorry, I'm sorry, I'm sorry
-I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I
-I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry
-I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I
-'m sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry
-I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I
-'m sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry
-I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I
-'m sorry, I'm sorry, I'm sorry, I'm sorry
-I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I
-'m sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry
-I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I
-I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry
-I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I
-I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry
-I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I
-I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry
-I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I
-I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry
-I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I
-I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry
-I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I
-I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry
-I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I
-'m sorry, I'm sorry, I'm sorry, I'm sorry
-I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I
-'m sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry
-I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I
-I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry
-I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I
-'m sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry
-I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I
-'m sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry
-I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I
-I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry
-I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I
-I'm sorry, I'm sorry, I'm sorry, I'm sorry
-I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I
-I'm sorry, I'm sorry, I'm sorry
-I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I
-I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry
-I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I
-I'm sorry, I'm sorry, I'm sorry, I'm sorry
-I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I
-'m sorry, I'm sorry, I'm sorry, I'm sorry
-I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I
-'m sorry, I'm sorry, I'm sorry, I'm sorry
-I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I
-'m sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry
-I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I
-I'm sorry, I'm sorry, I'm sorry, I'm sorry
-I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I
-I'm sorry, I'm sorry, I'm sorry
-I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I
-I'm sorry, I'm sorry, I'm sorry, I'm sorry
-I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I
-I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry
-I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I
-I'm sorry, I'm sorry, I'm sorry, I'm sorry
-I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I
-I'm sorry, I'm sorry, I'm sorry, I'm sorry
-I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I
-I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry
-I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I
-I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry
-I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I
-have this chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chin chinanding
+I'm sorry, I
+I'm sorry, I'm sorry, I
+have this chinanding
 Okay, the SCOM Club thing has gone through, I'm getting emails on that and also, so they've
 connected me with somebody and they're going to be getting that arranged for me and that
 needs to be bringing in the work lab top there and uh...
@@ -4705,11 +2009,9 @@ anything even though I had a light, anyway, so nothing was recorded, so I, yeah,
 save this one too, I'm talking about my shirt here, I'm getting ready for the retreat, I've got a couple
 of shirts here, I should probably bring, so I'm going to just save them here,
 wow, those shirts are right here,
-yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah
-yeah, yeah, yeah
+yeah
 so I'm going to take up at 8, now it's 8.40 and I'm just now moving around because I'm concerned about
 but I'll be good on things like that one in the morning.
-I got a...
 I got a...
 I got one thing at a time here.
 Yeah.
@@ -4746,16 +2048,6 @@ And if there's any holes in the plot,
 you know, replace it with the plot data.
 And if there's any holes in the plot,
 you know, replace it with the plot data,
-replace it with the plot data,
-replace it with the plot data,
-replace it with the plot data,
-replace it with the plot data,
-replace it with the plot data,
-replace it with the plot data,
-replace it with the plot data,
-replace it with the plot data,
-replace it with the plot data,
-replace it with the plot data,
 replace it with the plot data.
 I see in the pipeline status notice
 that the B secondary backup is active
@@ -4764,102 +2056,6 @@ But there was almost a whole day of gap here that it was not caught.
 So this already should have been noticed.
 I don't know why none of the B sessions were processed.
 I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-I'm going to do a little bit more of this,
-go a little bit more of this,
-go a little bit more of this,
-go a little bit more of this,
-go a little bit more of this,
-go a little bit more of this,
 go a little bit more of this,
 go a little bit.
 The conversation I had about places and memories
@@ -4889,13 +2085,11 @@ He lives on the east coast.
 It was Jack who described feeling deeply moted by the community's compassion, gratitude and connection.
 I provided feedback back to his conversation.
 Thank you.
-Thank you.
 In the afternoon session where it talks about developing Christian spiritual insights report.
 The second line was that a camp companion was developing reports for Chris and asked for help uploading materials. That was me, Andy.
 In that same section, there was mixed conversation put in here. So on the last line they desired later they talked about hair care.
 That was me talking with my wife, Andrea. So that is a separate item discussed and should not be involved with the developing Christian spiritual insights report at all.
 Oh.
-Thank you.
 Thank you.
 I am deleting all of the spiritual personal monologues and direct bots.
 Because none of them make any sense at all.
@@ -4906,13 +2100,9 @@ I like the revised quote that was recently added because that is something that 
 Thank you.
 This should be noted for future.
 Thank you.
-Thank you.
 It looks like you captured Jack's stories and case examples.
 I wish we could do this for myself and what I share and for other situations.
 In the miscellaneous media and references encountered, it was already noted very clear that we watched Kill Bill.
-Thank you.
-Thank you.
-Thank you.
 Thank you.
 I am wondering now why this is just now being updated.
 It is okay that the literal versus intent of not catching that I was joking with Andrea.
@@ -4922,17 +2112,11 @@ Otherwise, thank you for this feedback.
 Thank you.
 Is there a typical time when we are getting the Bank of America and Fidelity alert emails?
 Thank you.
-Thank you.
-Thank you.
 Hey, I am just planning on food through Wednesday.
 Is that okay?
 I can make sure we have all the other things like breakfast so that you can have it.
 You might give me your feedback before I go shopping.
 Okay, I am sure it's fine.
-Thank you.
-Thank you.
-Thank you.
-Thank you.
 Thank you.
 One of my nostrils is blocked.
 A couple of coffee at 9.25.
@@ -4945,23 +2129,8 @@ But for me, I do feel that overall, there is a certain point where I usually go 
 That's what they talk about.
 I feel like I am a regular human being.
 Okay.
-Okay.
-I feel like I am a regular human being.
 I feel like I am a regular human being.
 Thank you.
-Thank you.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
 Okay.
 How do I use my Samsung Galaxy Watch and reply to texts in particular?
 I don't.
@@ -4969,8 +2138,6 @@ Let's go ahead and answer a few.
 I think text first because I know how to get to where I can do a reply, but I don't see a use the mic button there.
 Let me check the settings for you.
 Let me know when you have found the message again and are ready to continue.
-Okay.
-Okay.
 Okay.
 The screen where I saw that looks different.
 Now when I go to the messages, I do see a microphone, but I'm not seeing the same message for some reason.
@@ -5042,453 +2209,21 @@ And now it's going to be, it leaves me.
 I have to come back. See, this is why I try to document my mind jumping from thing to thing.
 And the key core ideas get lost within the minutia of all the things in my head that come up that I associate.
 So I think now that I'm dealing with the watch again, starting up, that the issue I'm having may be when I'm getting Google messages versus Samsung messages.
-Okay, I have no notifications.
+Okay, I have notifications.
 And we're here and there.
 There's a little weird thing on my phone now.
 Not aware she'd be disabled, I believe, at this point.
 I don't want to use Samsung.
 I don't want to use Google messages.
-I don't want to use Google messages.
 I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-I don't want to use Google.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
 Okay.
 Hey Google, turn on the shield.
 Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
 Why would my phone get hot in my car when I'm using Android Auto?
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
 Okay.
 This seems to be a recent turn of events because I had my phone forever using Android Auto wirelessly until recently.
 So, actually take that back.
 This seems to be a recent issue that's come up because it hasn't been that way in the past.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
 Okay.
 Wow.
 Dedicated.
@@ -5504,100 +2239,15 @@ He's got friends.
 It's just really not my nerves.
 Have a good day.
 Cheers.
-Cheers.
 Oh yeah.
-Yeah.
 I'm going to order.
 I'm going to get there.
 Cheers.
-Cheers.
-Cheers.
-Cheers.
-Cheers.
-Cheers.
-Cheers.
-Cheers.
-Cheers.
-Cheers.
-Cheers.
-Cheers.
-Cheers.
-Cheers.
-Cheers.
-Cheers.
-Cheers.
-Cheers.
-Cheers.
-Cheers.
-Cheers.
-Cheers.
-Cheers.
-Cheers.
-Cheers.
-Cheers.
-Cheers.
-Cheers.
-Cheers.
-Cheers.
-Cheers.
-Cheers.
-Cheers.
-Cheers.
-Cheers.
-Cheers.
-Cheers.
-Cheers.
-Cheers.
-Cheers.
-Cheers.
-Cheers.
-Cheers.
-Cheers.
-Cheers.
-Cheers.
 ��.
 Cheers.
-Cheers.
-Cheers.
-Cheers.
-Cheers.
-Cheers.
-Cheers.
-Cheers.
-Cheers.
-Cheers.
 This is one of the most famous restaurants in the world.
-This is one of the most famous restaurants in the world.
-This is one of the most famous restaurants in the world.
-This is one of the most famous restaurants in the world.
-This is one of the most famous restaurants in the world.
-This is one of the most famous restaurants in the world.
-This is one of the most famous restaurants in the world.
-This is one of the most famous restaurants in the world.
-This is one of the most famous restaurants in the world.
-This is one of the most famous restaurants in the world.
-This is one of the most famous restaurants in the world.
-This is one of the most famous restaurants in the world.
-There is one of the most famous restaurants in the world.
 There is one of the most famous restaurants in the world.
 This is the first time I've ever been to a place like this in my life that I've never seen before.
-This is the first time I've ever seen a place like this in my life that I've never seen before.
-This is the first time I've ever seen a place like this in my life that I've never seen before.
-This is the first time I've ever seen a place like this in my life that I've never seen before.
-This is the first time I've ever seen a place like this in my life that I've never seen before.
-This is the first time I've ever seen a place like this in my life that I've never seen before.
-This is the first time I've ever seen a place like this in my life that I've never seen before.
-This is the first time I've ever seen a place like this in my life that I've never seen before.
-This is the first time I've ever seen a place like this in my life that I've never seen before.
-This is the first time I've ever seen a place like this in my life that I've never seen before.
-This is the first time I've ever seen a place like this in my life that I've never seen before.
-This is the first time I've ever seen a place like this in my life that I've never seen before.
-This is the first time I've ever seen a place like this in my life that I've never seen before.
-This is the first time I've ever seen a place like this in my life that I've never seen before.
-This is the first time I've ever seen a place like this in my life that I've never seen before.
-This is the first time I've ever seen a place like this in my life that I've never seen before.
-This is the first time I've ever seen a place like this in my life that I've never seen before.
-This is the first time I've ever seen a place like this in my life that I've never seen before.
 This is the first time I've ever seen a place like this in my life that I've never seen before.
 Hi there.
 Come on imagine.
@@ -5612,71 +2262,11 @@ Uh, you're right.
 I guess I get a z-nail, yeah.
 There you go.
 Good man.
-Good man.
-Good man.
-Good man.
-Good man.
-Good man.
-Good man.
-Good man.
-Good man.
-Good man.
-Good man.
 Okay.
-Good man.
-Good man.
-Good man.
-Good man.
-Good man.
-Good man.
-Good man.
-Good man.
-Good man.
-Good man.
-Good man.
-Good man.
-Good man.
-Good man.
-Good man.
-Good man.
-Good man.
-Good man.
-Good man.
-Good man.
-Good man.
-Good man.
-Good man.
-Good man.
-Good man.
-Good man.
-Good man.
-Good man.
-Good man.
-Good man.
-Good man.
-Good man.
-Good man.
-Good man.
 Good man.
 Interesting.
 Good man.
-Good man.
-Good man.
-Good man.
-Good man.
-Good man.
-Good man.
-Good man.
-Good man.
-Good man.
-Good man.
 Very strange.
-Good man.
-Good man.
-Good man.
-Good man.
-Good man.
-Good man.
 Good man.
 Time is up to five minutes.
 Hey Google, send that.
@@ -5685,60 +2275,11 @@ Hey Google, stop that.
 Stop.
 Time is up to twenty minutes.
 Hey Google, stop that.
-Hey Google, stop that.
-Hey Google, stop that.
-Hey Google, stop that.
-Hey Google, stop that.
-Hey Google, stop that.
-Hey Google, stop that.
-Hey Google, stop that.
-Hey Google, stop that.
-Hey Google, stop that.
-Hey Google, stop that.
-Hey Google, stop that.
-Hey Google, stop that.
-Hey Google, stop that.
-Hey Google, stop that.
-Hey Google, stop that.
-Hey Google, stop that.
-Hey Google, stop that.
-Hey Google, stop that.
-Hey Google, stop that.
-Hey Google, stop that.
-Hey Google, stop that.
-Hey Google, stop that.
-Hey Google, stop that.
-Hey Google, stop that.
-Hey Google, stop that.
-Hey Google, stop that.
-Hey Google, stop that.
-Hey Google, stop that.
-Hey Google, stop that.
-Hey Google, stop that.
-Hey Google, stop that.
-Hey Google, stop that.
-Hey Google, stop that.
-Hey Google, stop that.
 So, I'm watching Manchester United, my favorite premier will be your soccer team on the
 international side of France, supporter, but I'd like a lot of teams, but family
-of course, I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a
-lot of teams, but I'd like a lot of teams.
-But I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a
-lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but
-I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot
-I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot
-I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams
-I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot
-I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams
-I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot
-of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams
-I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot
-I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot
-I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot
-I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot
-I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot
-I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams
-I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, so I'd like a lot of teams, so I'd like a lot of teams, so I'd like a lot of teams, so I'd like a lot of teams, but I'd like a lot of teams, so I'd like a lot of teams, so I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of teams, but I'll like a lot of teams, but I'd like a lot
+of course, I'd like a lot of teams, but I'd like a lot of teams.
+But I'd like a lot of teams, but I'd like a lot
+of teams, but I'd like a lot of teams, so I'd like a lot of teams, so I'd like a lot of teams, but I'll like a lot of teams, but I'd like a lot
 
 ---
 
@@ -5746,10 +2287,7 @@ I'd like a lot of teams, but I'd like a lot of teams, but I'd like a lot of team
 - **Source File**: `2026-08-30 12_56_37.mp3`
 - **Audio ID**: `6b5bac3a2498d8787b3e3a103b5679fa`
 
-- **[00:00 - End] (Andy)**: I don't know what to do, I don't know what to do, I don't know what to do, I don't know what to do, I don't know what to do, I don't know what to do, I don't know what to do, I don't know what to do, I don't know what to do, I don't know what to do, I don't know what to do, I don't know what to do, I don't know what to do, I don't know what to do, I don't know what to do, I don't know what to do, I don't know what to do, I don't know what to do, I don't know what to do, I don't know what to do, I don't know what to do, I don't know what to do, I don't know what to do, I don't know what to do, I don't know what to do, I don't know what to do, I don't know what to do, I don't know what to do
-I don't know what to do, I don't know what to do, I don't know
-what to do, I don't know what to do, I don't know what to do,
-I don't know what to do, I don't know what to do, I don't know what to do, I don't know what to do,
+- **[00:00 - End] (Andy)**: I don't know what to do, I don't know what to do,
 is not mysterious, it's just quiet.
 So start with the sentence, everything else hangs on.
 This isn't just a debt crisis, it's also a lender strike.
@@ -5812,7 +2350,6 @@ servicing its debt.
 The same 10 months a year earlier cost $846 billion.
 And the comparison is what matters.
 Social security spending grew 5% this year.
-Medicare, 8%.
 Medicare, 8%.
 Interest, 14%.
 Interest is now growing close to twice as fast
@@ -6064,7 +2601,7 @@ Jake spent that entire Sunday researching what
 Mike owned when he found it made his sick.
 These four asset types had done the same thing
 in every major crisis going back 100 years.
-Thank you $29,200, $12,200, $12,200.
+Thank you $29,200, $12,200.
 Every single time markets collapsed,
 these same assets surged, and almost nobody owned them,
 less than 2% of investors.
@@ -6103,7 +2640,7 @@ It's hard to make a living.
 You work all these hours to come to the store, and it's ridiculous.
 The prices are way too high.
 No one can make a living in this economy right now.
-We don't want to have them have them grow up.
+We don't want to have them grow up.
 So remember that when you have to pay a little bit more in your $4, it's okay.
 I'll never apologize.
 I said to the right thing, does America feel great again?
@@ -6131,7 +2668,6 @@ which he was running to be a president, was that they kept saying everything's g
 The fundamental economy are great.
 You're going into the door and those are hunting.
 You don't realize it.
-You don't realize it.
 But the American people are like, oh hell no, we're mad.
 It's just that they're going to be trusted then.
 But it's a little bit different because Donald Trump is out there pretending it's the fundamental and actual reality.
@@ -6146,97 +2682,6 @@ A pandemic rarely elected.
 The health minister, Trump and his fellow Republicans, they charged in Washington in 2024.
 Which they promised to you to defeat the scourge of inflation and flash the propagate their remember of the New York Times.
 It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-It's been in there.
-Hold on!
-Hold on!
-Hold on!
 Hold on!
 That was Solemn's challenge.
 The challenge is that
@@ -6282,15 +2727,6 @@ So I'll explain what it is,
 my results and my advice for you.
 If you don't know me, my name's Yusip, I'm a medical doctor and I'm now run,
 propane, or a marketing agency full-time.
-And I've spent years following different modalities.
-And I've spent years following different modalities.
-And I've spent years following different modalities.
-And I've spent years following different modalities.
-And I've spent years following different modalities.
-And I've spent years following different modalities.
-And I've spent years following different modalities.
-And I've spent years following different modalities.
-And I've spent years following different modalities.
 And I've spent years following different modalities.
 When notes move in the same direction, we tend to perceive them
 like a school of fish, a mass moving as one.
@@ -6382,7 +2818,7 @@ Move down, we land on B flat.
 Before, we might have thought of the motion to D because...
 Oh, is expand and reformed the United States Supreme Court.
 Well, folks, we've seen signs over the past several months
-that Democrats are starting to understand that that is a necessary first step.
+that Democrats are starting to understand that is a necessary first step.
 But something just happened on my TV, which is a massive step forward
 in terms of making this a priority for the Democratic Party.
 And that is one of the most powerful and individual members of the Democratic Party,
@@ -6399,1129 +2835,27 @@ If you end up liking this video, you want to support the channel.
 Please be sure...
 Okay, hey Google, turn off the...
 ...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
 ... ...
 ...
 ... ...
-... ...
-... ...
-... ...
-... ...
-... ...
-... ...
-... ...
-... ...
-... ...
-... ...
-... ...
-... ...
-... ...
-... ...
-... ... ...
-... ... ...
-... ... ...
-... ... ...
-... ... ... ...
-... ... ...
-... ... ...
-... ... ...
-... ... ... ... ... ... ...
-... ... ...
-... ... ...
-... ... ...
-... ... ...
-... ... ... ...
-... ... ...
-... ... ... ... ... ... ...
-... ... ... ...
-... ... ... ...
-... ... ...
-... ...
-... ... ...
-... ...
-... ...
-... ...
-... ... ...
-... ...
-... ...
-... ...
-... ... ... ... ...
 Oh my God.
 ...
 Oh my God.
 ... ...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
 ...
 Fuck.
-...
 ...
 Wow.
 ...
-...
-...
-...
-...
 Fuck.
 ...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
+... ...
 ...
 ... ...
 ...
 ... ...
 ...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
 ... ...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-... ...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
-...
 ...
 
 ---
@@ -7536,7 +2870,7 @@ This is kind of the main way that I actually work with things, just watching and
 The other part of this is that when the mind starts building a runaway story of self-pity
 or self-alone, we can pause.
 We can look at it with mindfulness to notice that this is occurring, but we can also drop
-the mental commentary and then sit and sit and sit and turn directly towards this whole
+the mental commentary and then sit and turn directly towards this whole
 body.
 And ask ourselves, can I be with this experience just for this breath?
 That single, honest question cuts through the mental noise and lands us right back in
@@ -7589,14 +2923,8 @@ your mind might suspend?
 How quickly does the mind jump from the raw sensation to feelings of self-pity, frustration
 are feeling completely unknowing?
 So with that, I'll turn it over to the group here for discussion.
-I call it punning, as you know, yeah, right.
-Yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah
-yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah
-Yeah.
-No.
+I call it punning, as you know, No.
 All right.
-All right.
-.
 .
 ..
 Great.
@@ -7614,12 +2942,12 @@ a lot of what we bring to the table can actually, and the best point of this who
 here is that we can complicate things, or we can look to be a solution to dealing with
 these things.
 Not like you're going to make those things go away, right, it not happen, that's impossible,
-but we, a lot of times we act like that, that that's, that we want, you know, we, we,
+but we, a lot of times we act like that, that's, that we want, you know, we,
 we, it's, this is basic need in us, of, we want good things, so we don't want bad things,
 it's a very fundamental, you know, fundamental to us, and when bad things happen to us, we,
-we don't like it, and there's many ways that psychologically, we, we deal with those
+we don't like it, and there's many ways that psychologically, we deal with those
 things.
-I mentioned the punting, I told you that that sometimes you just need to pun, you know,
+I mentioned the punting, I told you that sometimes you just need to pun, you know,
 when you're tired, you've been having a difficult day, there is no reason, there's no, nothing
 wrong with treating yourself with kindness and compassion for what you have to go through,
 and that, and I think I actually do feel, feel that skillful, it can be skillful, it's,
@@ -7646,12 +2974,12 @@ and I'm forgetting credit at the moment, and I hope that, I can remember before 
 of that, end of the night, but, oh, you know, there's a couple of standard things I always
 bring up too, that I like to talk about, and one of those things is that, when you're
 experiencing something, it's already happened, right, the pain is already there, the root,
-the root necessity is already there, the, the situation is, whatever the situation is,
-at the moment, it's already happened, it's already happening, and, and we can't prevent
+the root necessity is already there, the situation is, whatever the situation is,
+at the moment, it's already happened, it's already happening, and we can't prevent
 those things from happening, because we're already in it, right, it's impossible for
 that to happen, so really, to me, the skillful part of it is actually learning how to not
-suffer from that, and, and that's the whole point of it, how do we learn not to suffer,
-and using different lenses, I like to use the, in Buddhism, these, these different perspectives
+suffer from that, and that's the whole point of it, how do we learn not to suffer,
+and using different lenses, I like to use the, in Buddhism, these different perspectives
 as lenses for us, learning to be more skillful at being human beings and living our lives,
 so if we could learn to see things from, okay, we, I didn't use any specific Buddhist
 terms here, but I'll mention some of them now, seeing things in terms of a Nietzsche
@@ -7660,12 +2988,12 @@ no, you know, that's, just as I mentioned, you know, things are happening, it's 
 you can't grab anything and keep it good, can't have just good times, you know, and the bad times
 are, and also are in permanent, so even though we can, we can think that they're permanent, you know,
 we can, it's like, when is this going to end, you know, kind of thing, but being able to see
-change as a natural process, and then, and, and, and as a result of that, it becomes less personal,
+change as a natural process, and then, and as a result of that, it becomes less personal,
 because it's not, we're doing something, it's life happening, so that is the, and not a part of it,
 it's like, okay, this is, we can take our pains as something personal, and it's very easy to do
 all that stuff, but the, the bigger picture we forget about those things is, it's like, you're a
-human being, that's why we feel that, you know, we have, we have, we have, we're experiencing human
-things, and if not personal to us, you know, as, as, in the individuals we are, we're experiencing it,
+human being, that's why we feel that, you know, we have, we're experiencing human
+things, and if not personal to us, you know, as, in the individuals we are, we're experiencing it,
 but it's not something that we necessarily are responsible for, so I think that's another thing
 that's really important, that we're experiencing a human life, and just like any other creature is
 experiencing their lives according to, to their, how they were born, what they were born into, a deer
@@ -7675,10 +3003,10 @@ a human, just like the deer, and then learning to see things as terms of sufferi
 important, that we don't want to amplify that, and that's something I was trying to point out in
 this talk, is that we can take things, take them personally, and make a mountain out of them,
 and we can actually, the danger is, again, back to what I was mentioning about with karma, is that
-we end up taking those things on as an identity, and then every time we, we, something comes up,
+we end up taking those things on as an identity, and then every time we, something comes up,
 we, it's like, that's our identity, that's us, we're suffering beings that's experiencing this
 suffering situation, and that is really something that we need to catch ourselves on, I believe,
-because this, again, that's another way that karma, we create, we create our lives, we're co-creating
+because this, again, that's another way that karma, we create our lives, we're co-creating
 our lives with this. So, it's, to me, this is all about being, the mindfulness part is being aware
 of these things, wearing aware of them when they come up in our lives, aware, and so that we can
 remember that, you know, we use this mindfulness so that we can, oh, we can remember these things,
@@ -7730,7 +3058,7 @@ pain times resistance equals suffering, no resistance, no suffering.
 Life is going to bring its share friction. We're going to run into the days,
 our bodies are going to have rough mornings, and things are not going to always go according to
 our plans. That's the raw physical situation, no discovering, discomfort that's just part of
-being human. The suffering only begins when we fight reality, when we not not cold the steering
+being human. The suffering only begins when we fight reality, when we not cold the steering
 well, and we demand that this moment be something else. As we move into the rest of our week,
 notice when you run into your own red lights, when the shoulders tense up,
 or the mind starts dripping to complaint, see if you can catch it, and relax,
@@ -7765,13 +3093,8 @@ I will see you on September 27th.
 peux
 Let's move something going on.
 Oh, I'm so happy.
-Oh, I'm so happy.
-I'm so happy.
-Oh, man.
 Oh, man.
 I can't look out for a bit of a...
-What the fuck?
-What the fuck?
 What the fuck?
 Oh.
 Here I took a few...
@@ -7780,7 +3103,6 @@ Great.
 Okay.
 Next, I can...
 Oh, I'm sorry, I didn't feel good.
-Do what?
 Do what?
 I'm sorry, I don't get it.
 We got a few things to do here, don't we?
@@ -7791,7 +3113,6 @@ Be right.
 I'll get it going here.
 Just have to watch.
 I don't just have to watch.
-Oh, man.
 Oh, man.
 You know, we don't need that.
 Oh, I'll pour it out.
@@ -7814,54 +3135,13 @@ Yeah, I'm going to put the fish in there in a second.
 Here's the way.
 Hunter y'all.
 Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
 I mean, too bad.
-Sorry if we got about the fact that we were...
+Sorry if we got about the fact that were...
 I thought about the corn for the later in the week for you,
 because I didn't want to buy a spare gas.
 And I said, corn will last.
 And then the next thing I know, I forgot about dinner tonight.
 I could have got broccoli for that.
-Okay.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
 Okay.
 Stella, all right.
 You guys good?
@@ -7895,209 +3175,7 @@ And then lastly, just thank you to everyone who showed up here.
 All of you who are about health care industry.
 All of you, you know, we deserve better.
 Ah!
-Ah!
-Ah!
-Ah!
 When I started this career, I believed a...
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
-Ah!
 Ah!
 Receivers of, because that's what a lot of fans and the onlookers have talked about, and even Coach Kubiak has talked about, he needs somebody to step up.
 But when I look there, you got a little bit of experience at the top of the Duret Young.
@@ -8154,77 +3232,11 @@ But the pieces that they have in place, along with you think about trade zoom,
 who do something that's Christmas party night, can play anywhere on the office.
 That's his life.
 That's the name of the whole thing that's mine.
-That's the name of the whole thing that's mine.
-That's the name of the whole thing that's mine.
 Okay.
 Getting to the nitty-gritty.
 I don't know.
-I don't know.
-I don't know.
-I don't know.
-I don't know.
-I don't know.
-I don't know.
-I don't know.
-I don't know.
-I don't know.
-I don't know.
-I don't know.
-I don't know.
-I don't know.
-I don't know.
-I don't know.
-I don't know.
-I don't know.
-I don't know.
-I don't know.
-I don't know.
-I don't know.
-I don't know.
-I don't know.
-I don't know.
-I don't know.
-I don't know.
-I don't know.
-I don't know.
-I don't know.
-I don't know.
-I don't know.
-I don't know.
-I don't know.
-I don't know.
-I don't know.
-I don't know.
-I don't know.
-I don't know.
-I don't know.
-I don't know.
-I don't know.
-I don't know.
-I don't know.
-I don't know.
-I don't know.
-I don't know.
-I don't know.
-I don't know.
-I don't know.
-I don't know.
-I don't know.
-I don't know.
-I don't know.
-I don't know.
-I don't know.
-I don't know.
-I don't know.
-I don't know.
-I don't know.
-I don't know.
-I don't know.
-I don't know.
-I don't know.
-I don't know.
 Well that's us.
-minutes and pulling it all out okay who's you like to drink yes yes yeah
+minutes and pulling it all out okay who's you like to drink yes yeah
 whoa no
 The
 Today, after they successfully abandons, they contain two people from Bantam Ranch and
@@ -8266,72 +3278,6 @@ I didn't put the fish in the bottom.
 I don't know if it'll get down the plate.
 Uh oh.
 Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
 This is the one with the knee base.
 This is the one with the chest spine.
 Yeah.
@@ -8342,8 +3288,6 @@ Yeah, he's putting the leg out.
 Yeah.
 I'm going to go for the leg.
 This is the chest spine.
-This is the chest spine.
-Um, this is the chest spine.
 Um, this is the chest spine.
 Uh-huh.
 Um, how about this?
@@ -8354,32 +3298,24 @@ And uh,
 I think this is a significant deal for a long time.
 Thank you.
 Uh-huh.
-Uh-huh.
 This is the chest spine.
 This is the lower height.
 This is the chest spine.
 This is the lower height.
 Um,
 this is the lower height.
-This is the lower height.
 The lower height?
 The lower height.
-The lower height.
-The lower height.
-The lower height.
 Yeah, because all those pieces, uh,
-It's like mostly about the original range.
 It's like mostly about the original range.
 Uh-huh.
 And uh,
 So, in fact, that's why I'm going to measure it, I'm going to use my brain to say, ah,
-I'm going to use my brain, I'm going to use my brain, I'm going to use my brain, I'm going
+I'm going to use my brain, I'm going
 to use my brain ground, where are the brain ground.
 By a laughter, the cold of photoside.
 I'm going to get two cold saline rings.
 Yeah, I'm going to go down the baja, down the winner.
-That's it.
-That's it.
 That's it.
 The vitamin?
 Yeah.
@@ -8390,13 +3326,12 @@ That's not my name.
 This is a man.
 Vitamin.
 Why are you left?
-I'm going to have to have that pleasure like Jesus.
+I'm going to have that pleasure like Jesus.
 Wow.
 You like my answer?
 No, I want to do this one now, but I don't know if it's a name.
 That's what I want to do.
 It's figure when you pull it out.
-That was great.
 That was great.
 I don't know if I can have something sent to me on schedule all the time.
 Yeah.
@@ -8427,7 +3362,6 @@ So you could think about those from a lot of countries that have ocean and South
 Southeast.
 Monsoons might happen in Cuba, you know, places in Mexico.
 Yeah.
-Yeah.
 Why you might have them.
 Right.
 So that's, you know, you get those storms.
@@ -8437,18 +3371,11 @@ Not even.
 You left the computer.
 Very kind.
 Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
-Okay.
 There's a little suit if you want it.
 Yeah.
 Take the mugs over there and trade it in here.
 There you go.
 Not much, but nice.
-Nice.
 Pretty good today, not so bad.
 Yeah.
 Oh my gosh.
@@ -8478,7 +3405,6 @@ It can destroy 70,000 or people from their territory.
 Fueled by the paranoid field, missing the greatest technologist of science in history.
 It just loves the nearest world.
 Only partly.
-Only partly.
 It doesn't happen.
 The potential is so great.
 If I did not bring this to the attention of the Pentagon, oh, I wouldn't find it.
@@ -8488,11 +3414,6 @@ The identity has some sort of anti-grabble.
 It still doesn't know where it is.
 It's like a way to fill the gene of it.
 We just need to find the trick.
-It's like a way to fill the gene of it.
-It's like a way to fill the gene of it.
-It's like a way to fill the gene of it.
-It's like a way to fill the gene of it.
-It's like a way to fill the gene of it.
 It's like a way to fill the gene of it.
 No.
 Sir.
@@ -8515,10 +3436,6 @@ I actually think so.
 Well, this is a part of the design that you came up with.
 It's not.
 It wouldn't be limited to just flying again.
-It could fly anywhere.
-It could fly anywhere.
-It could fly anywhere.
-It could fly anywhere.
 It could fly anywhere.
 Of course, it could fly anywhere.
 It didn't look very expected.
@@ -8567,7 +3484,7 @@ The old age of the ocean has never been as hot as it is right now in August befo
 We've got a range new announcement by Donald Trump.
 Okay, and you were in the white T-shirt to try and see camera?
 Yes.
-I remember that we went out for dinner and coffee and not see a strange post from the president.
+I remember that went out for dinner and coffee and not see a strange post from the president.
 It didn't seem like a lot to ask for, but here we are.
 The first time in the press freedom of the press.
 Uh-oh.
@@ -8575,12 +3492,12 @@ And so people are free.
 Hi, it's Kim.
 Unfortunately, I'm not going to be able to attend the vision quest.
 I'll be in Florida for my friends, Kevin's pre-trial.
-His trial, the guy that killed somebody, drunk drunk driving and killed somebody.
+His trial, the guy that killed somebody, drunk driving and killed somebody.
 Her friend.
 Yes.
 What is Trump trying to do?
 Okay, I missed this.
-We've got friends who are waiting to do an announcement by Donald Trump.
+We've got friends who are waiting to do announcement by Donald Trump.
 I'm going to throw them right here on the screen.
 The first one is the fake pulls used by our crooked media are out of control.
 And something must be done about it at CC to the rescue.
@@ -8647,8 +3564,8 @@ wait to hear the official news on the two-way spots and are they worried
 perhaps about LJ Cryer's hamstrings his durability because he thought
 Cryer might get an opportunity at this role he still may in the two-way spot now
 the other roster spot goes to George Nguyen. If you're not familiar with
-40% he's really kind of like an ethical Anthony Lang. Yeah I said I said it but
-what he is is he's a chubby fundamental shooter what does he go six seven six
+40% he's really kind of like an ethical Anthony Lang. Yeah I said it but
+what he is he's a chubby fundamental shooter what does he go six seven six
 eight but he's spicy too he's a spy he's an irritant not to the level of like a
 deal in Brooks but a couple not just a lot of that where it's like he enjoys
 getting underguys kids he'll be physical there's some oh him and dreamer I love
@@ -8660,19 +3577,19 @@ I didn't know he was still gonna be in the league this is his 11th season we
 signed until at $3.9 million one year deal he's 33 years old and look again the
 best thing and if he is healthy there will be a handful of games this coming
 season where you're like dang the Yang just think just right like the Opie games
-like he hit two four four threes took a charge got us in the bonus you know
-dang the Yang's little five minutes there bro like that was that that was the
+like he hit two four threes took a charge got us in the bonus you know
+dang the Yang's little five minutes there bro like that was that was the
 difference in the game however 33 years old what was he doing left well he was
 on the Utah Jazz and he didn't play because he had a four-minute parcel
 stress reaction in his left foot micro-struction of the bottle and a whole
 bunch of big words he had a footage a stress reaction get the scene
 no okay so we see if he makes it
-in a way that like honestly honestly there would be so many more evil things
+in a way that like honestly there would be so many more evil things
 that any other president imagine Hillary or Kamala had won and then anyone lost
 a dollar on milk like that would be like a markedly different world than us
 watching beef and gasoline and all the things that he promised would go down
 and not that I believe them it was one of his days where when someone who's
-really trying to lay the touch and they love you you're like sure I'm not
+really trying to lay the touch and they love you're like sure I'm not
 disappointed if I believe them I'm more just disappointed in us I thought that
 like the French you look at the French right and they were like maybe we get
 back retirement for two years and they burned cars yeah we are so passive yeah
@@ -8680,7 +3597,7 @@ that has been surprising I agree I know the full 60 seconds of how scared I was
 about to say something though it put me in jail and you know what that's
 something that yes I struggled with and you made the right decision yeah because
 we also we have a free we're yeah oh come on hey I have to follow and get you
-here but it's over it but it's not following it's joining before before you go
+here but it's over it but it's not following it's joining before you go
 yeah I realize a question Dustin Lance Black do you go by Dustin for do I
 Lance for you by Dustin Lance or do you go by Dustin Lance Black depending on
 what I like you're not yeah to your friends Lance wow interesting for you
@@ -8712,16 +3629,16 @@ moment before I even said before you do you look at the show and I previous
 thought about you as a person about how polished you are as a human being oh I'm
 so deeply broken inside this is all compensation for sure a little enclosed
 for my husband I combed my hair I mean these aren't things I
-need more so it's it's it's also right away can we talk about having all
+need more so it's also right away can we talk about having all
 together yeah social media it's so fucking boring so I'm gonna strip down
-naked by the end of this show great great you'll run out of time to say
+naked by the end of this show great you'll run out of time to say
 Coney 2012 and we'll go from there yeah no just all it's true all of the
-dysfunctional people are more interested like all like all of the people who I
+dysfunctional people are more interested like all of the people who I
 would like to get to know are the people who probably don't really have it
 together when people have it together they're kind of finished it's like when
 you see a sexy person at the gym you're like all right you did it okay stop
-you can stop now you know I mean because they're just they're just over there
-maintaining their hotness and you're like you're done cooking like like go have
+you can stop now you know I mean because they're just over there
+maintaining their hotness and you're like you're done cooking like go have
 pizza all right why are you laughing
 I want to talk about a developing story which is there's a new roller coaster
 that's going to open at Universal and I was actually expected about this in
@@ -8731,16 +3648,16 @@ of the Universal Carcassier and back up and it's the first big roller coaster
 that they built there and they didn't say since they started constructing it
 like don't worry we're testing it to make sure it doesn't affect studios or
 film things to be very quiet and be shockingly quiet roller coaster it's
-gonna be there's gonna be no noise from this thing they forgot something which
+gonna be there's gonna be noise from this thing they forgot something which
 is that people scream on a roller coaster and so they feel it's amazing
 super sophisticated roller coaster but if you live in the neighborhood on the
-other side of that hill and I am I am well be a nifty I believe in building I
+other side of that hill and I am well be a nifty I believe in building I
 don't like the idea of it how do I participate in that when I thought this
 home there's a scream every two to three minutes that's all that was
 like a little bit consoles the people who are here the roller coaster anything
 but just as someone who would live in bad neighborhoods at least it's a roller
 coaster they know what it is every time the screams I heard of the bill
-the night I'm like I don't even know what that that's such an important point
+the night I'm like I don't even know what that's such an important point
 I've but imagine if you're living in a house and you know that the reason people
 are screaming is because of universe like it's like a big corporation yes I
 did to build a roller coaster outside of your house and I don't know what the idea
@@ -8757,16 +3674,15 @@ the top yeah I think there's no bag isn't a brazen arm for sure I do with a
 roller coaster adding a bubble on top it's like a whole thing you know yeah I mean
 I'm sure it changes something and then the bubble could always pop off I guess
 but like if you have bubbles are flying into the community of
-Valley yeah yeah several years by falling bubble from the universal studios
+Valley yeah several years by falling bubble from the universal studios
 co-op that's a great job yeah you can go ask an emin ball gag you can get
 sort of like that like when the safety belt comes down and walk around and be like
-you know you know you know you see right in the back like ball gag right yeah
-yeah yeah yeah yeah yeah yeah yeah yeah it's the part of that it's the
+you know you see right in the back like ball gag right yeah it's the part of that it's the
 thing range drives and everybody get the ball gag I think it's all this is much
 better than a bubble idea and you know what you're not getting ideas like this
 in natural all right okay these shows you never know anything about
 you want to try a dark matter we can I was a guy to know you with my wife
-my serving the net until you because I see you tap tap tapy it's like okay
+my serving the net until you because I see you tapy it's like okay
 I found out something interesting about there was an article I read there's a
 group called the conversation they have a sub stack and they're the other
 conversation so anyway they have some interesting conversations one to I read
@@ -8775,12 +3691,12 @@ beings are naturally lactose intolerant we're not designed to drink cow's milk
 so what they did was the dairy industry had excess milk they were trying to
 sell kind of like what they did with large and all that stuff back in the day so
 what they did was they figured that they could pawn it off on the government
-that part listen to this pawn it off on the government government and have the
+that part listen to this pawn it off on the government and have the
 school have all the schools provide milk to the kids that's how they started
 making school milk the things for kids yes but then the other thing is then
 they also it's they made it racist so then it was like oh you're because some
 groups of people are naturally not lactose intolerant and they're black people so
-what ended up happening was is they they created this whole storyline basically
+what ended up happening was is they created this whole storyline basically
 how telling you know telling the stories like or actually with it I don't know
 if it's their lactose and their lactose intolerant too but they look fun to get
 all off and race as inferior and so what they were doing so and it had to do
@@ -8793,8 +3709,6 @@ Jennifer Colley
 Now, that was that other show that they canceled, I think, where they would go into multi-universes
 No, this is not. Yeah, they canceled that show. I'd like that show, actually. That's not the show.
 All right, here we go. Good, here on the ship.
-On the ship.
-Okay, here we go.
 Okay, here we go.
 I don't remember this at all.
 Yeah, at least.
@@ -8814,460 +3728,6 @@ Why would you give up that start that big important thing at the very end of the
 I don't know, I don't know.
 You know, there are less agonizing words for you to avoid your hands.
 Jeez.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
-Yeah.
 Yeah.
 
 ---

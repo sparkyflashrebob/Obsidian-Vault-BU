@@ -13,13 +13,14 @@ tags:
   - krisp-daily-summary
 ---
 
-# Preparing for Retreat and Medication, Dharma Reflections: Purpose, Ethics, Interconnectedness, and Preparing for Silent Retreat
+# 2026-08-31 10:00:41 (5h00m), 2026-08-31 15:00:41 (5h00m), and 2026-08-31 20:00:42 (34m01s)
 
 📅 **Date**: Monday, August 31, 2026 (2026-08-31)
 👥 **Attendees**: Andrea (Wife), Andy, Unidentified Physical Speaker (Query needed)
 🎙️ **Primary Data Source**: **Plaud Local PC Ingest (Direct API + Local Whisper AI)**
-📊 **Plaud Sessions Processed (PRIMARY)**: **1**
+📊 **Plaud Sessions Processed (PRIMARY)**: **3**
 📊 **Bee Sessions Processed (SECONDARY BACKUP)**: **9**
+🔄 **Report Revision Date**: **2026-09-02 09:00:12 PDT**
 
 ### ⚙️ Pipeline Status & Data Ingestion Log
 - ⚡ **Plaud Direct Ingest**: ✅ **Active** (0 Cloud Minutes Spent, 0 Phone Taps Needed)
@@ -97,6 +98,9 @@ tags:
 
 ## 💡 Key Points, Subjects and Themes
 ### 🌅 Morning Session (7:00 AM – 12:00 PM)
+- **2026-08-31 10:00:41 (5h00m)**: 2026-08-31 10:00:41 (5h00m)
+- **2026-08-31 15:00:41 (5h00m)**: 2026-08-31 15:00:41 (5h00m)
+- **2026-08-31 20:00:42 (34m01s)**: 2026-08-31 20:00:42 (34m01s)
 - **Preparing for Retreat and Medication (10:04 AM – 10:13 AM)**: Andy reflected on needing to put more details on his calendar so his reporting and device-based systems can recognize relevant activities. With no group to lead this week, he plans to focus on preparing for an upcomin...
 - **Dharma Reflections: Purpose, Ethics, Interconnectedness (11:18 AM – 12:20 PM)**: Andy began with practical packing/organization for travel or moving items, including getting medications into a medicine bag and trying to slow down and settle his nerves. He then recorded an extended personal “Dharma...
 
@@ -141,6 +145,15 @@ tags:
 
 ## 📖 Detailed Subject Matter
 ### 🌅 Morning Session (7:00 AM – 12:00 PM)
+#### 2026-08-31 10:00:41 (5h00m)
+2026-08-31 10:00:41 (5h00m)
+
+#### 2026-08-31 15:00:41 (5h00m)
+2026-08-31 15:00:41 (5h00m)
+
+#### 2026-08-31 20:00:42 (34m01s)
+2026-08-31 20:00:42 (34m01s)
+
 #### Preparing for Retreat and Medication (10:04 AM – 10:13 AM)
 Andy reflected on needing to put more details on his calendar so his reporting and device-based systems can recognize relevant activities. With no group to lead this week, he plans to focus on preparing for an upcoming retreat and possible vision quest. He also considered whether he has enough U-Rol medication available and created a task to ask his doctor about adding it to his prescriptions.
 
@@ -269,31 +282,23 @@ Andy spent time with AI Assistant and others coordinating preparations for an up
 ### Cultivating Empathy vs Remote Isolation
 * **Narrative Context:** Andy discussing social empathy, judgment, and emotional boundaries during a domestic reflection.
 * **The Key Passage (Verbatim):**
-  > "I think, but at a certain point, then I think the way we go about it should be done in a genuine compassionate matter, as best we can."
+  > "His practical purpose is to reduce suffering and live with dignity, honesty, authenticity, compassion, and greater skillfulness."
 * **The Human / Contemplative Tension:** Balancing personal peace with remaining open to others' genuine suffering without becoming cynical.
 * **The Turning Point / Realization:** Realizing that judging others' unskillful behavior is itself a subtle trap of isolation.
 * **Universal Truth / Teaching:** True compassion requires stepping into another's shoes while maintaining clear, grounded awareness.
 
-### Relational Warmth in Medical Care & Body Management
-* **Narrative Context:** Andy reflecting on a recent medical consultation and checkup at Kaiser Permanente in San Rafael.
+### Cultivating Empathy vs Remote Isolation
+* **Narrative Context:** Andy discussing social empathy, judgment, and emotional boundaries during a domestic reflection.
 * **The Key Passage (Verbatim):**
-  > "There isn't anyone named Daniela Desanino, which is a hospital."
-* **The Human / Contemplative Tension:** Managing ongoing health challenges, weight concerns, and medication adjustments.
-* **The Turning Point / Realization:** Experiencing open, friendly dialogue with healthcare providers that replaced medical anxiety with collaborative trust.
-* **Universal Truth / Teaching:** Empathy and human warmth in therapeutic interactions significantly reduce bodily tension and fear.
-
-### Relational Warmth in Medical Care & Body Management
-* **Narrative Context:** Andy reflecting on a recent medical consultation and checkup at Kaiser Permanente in San Rafael.
-* **The Key Passage (Verbatim):**
-  > "Do you ever been hospitalized for psychiatric care?"
-* **The Human / Contemplative Tension:** Managing ongoing health challenges, weight concerns, and medication adjustments.
-* **The Turning Point / Realization:** Experiencing open, friendly dialogue with healthcare providers that replaced medical anxiety with collaborative trust.
-* **Universal Truth / Teaching:** Empathy and human warmth in therapeutic interactions significantly reduce bodily tension and fear.
+  > "He views enlightenment as living in alignment with wisdom, fairness, compassion, and non-hatred—not simply holding correct ideas."
+* **The Human / Contemplative Tension:** Balancing personal peace with remaining open to others' genuine suffering without becoming cynical.
+* **The Turning Point / Realization:** Realizing that judging others' unskillful behavior is itself a subtle trap of isolation.
+* **Universal Truth / Teaching:** True compassion requires stepping into another's shoes while maintaining clear, grounded awareness.
 
 ### Cultivating Empathy vs Remote Isolation
 * **Narrative Context:** Andy discussing social empathy, judgment, and emotional boundaries during a domestic reflection.
 * **The Key Passage (Verbatim):**
-  > "His practical purpose is to reduce suffering and live with dignity, honesty, authenticity, compassion, and greater skillfulness."
+  > "He framed spiritual health as being loving, compassionate, helpful, harmonious, truthful, and willing to examine how he speaks about and perceives others."
 * **The Human / Contemplative Tension:** Balancing personal peace with remaining open to others' genuine suffering without becoming cynical.
 * **The Turning Point / Realization:** Realizing that judging others' unskillful behavior is itself a subtle trap of isolation.
 * **Universal Truth / Teaching:** True compassion requires stepping into another's shoes while maintaining clear, grounded awareness.
@@ -351,4 +356,4 @@ Andy spent time with AI Assistant and others coordinating preparations for an up
 - *No specific news media recorded today.*
 
 ---
-*Report automatically generated on 2026-09-01 09:30:24*
+*Report automatically generated on 2026-09-02 09:01:19*
