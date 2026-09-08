@@ -275,7 +275,7 @@ var import_obsidian3 = require("obsidian");
 var path3 = __toESM(require("path"));
 
 // src/config.ts
-var ATTACHMENT_URL_REGEXP = /!\[\[((.*?)\.(\w+))(?:\s*\|\s*(?<width>\d+%?)\s*(?:[*|x]\s*(?<height>\d+%?))?)?\]\]/g;
+var ATTACHMENT_URL_REGEXP = /!\[\[((.*?)\.(\w+))(?:\s*(?<metadata>(?:\|(?<width>\d+%?)(?:[*|x](?<height>\d+%?))?|\\\|(?<escapedWidth>\d+%?)(?:[*|x](?<escapedHeight>\d+%?))?|\|[^\]]*|\\\|[^\]]*|#[^\]]*)))?\]\]/g;
 var MARKDOWN_ATTACHMENT_URL_REGEXP = /!\[(.*?)\]\(((.*?)\.(\w+))\)/g;
 var EMBED_URL_REGEXP = /!\[\[([\s\S]*?)\]\]/g;
 var EMBED_METADATA_REGEXP = /^---(?:\n|\r\n)[\s\S]*?(?:\n|\r\n)---(?:\n|\r\n)?/;
@@ -358,7 +358,16 @@ async function markdownToHTML(plugin, inputFile, inputContent) {
 async function getImageLinks(markdown) {
   const imageLinks = markdown.matchAll(ATTACHMENT_URL_REGEXP);
   const markdownImageLinks = markdown.matchAll(MARKDOWN_ATTACHMENT_URL_REGEXP);
-  return Array.from(imageLinks).concat(Array.from(markdownImageLinks));
+  return Array.from(imageLinks).concat(Array.from(markdownImageLinks)).map((match) => {
+    var _a, _b, _c, _d, _e;
+    return {
+      rawImageLink: match[0],
+      imageLink: match[0].startsWith("![[") ? match[1] : match[2],
+      metadata: match[0].startsWith("![[") ? ((_a = match.groups) == null ? void 0 : _a.metadata) || "" : "",
+      width: ((_b = match.groups) == null ? void 0 : _b.width) || ((_c = match.groups) == null ? void 0 : _c.escapedWidth),
+      height: ((_d = match.groups) == null ? void 0 : _d.height) || ((_e = match.groups) == null ? void 0 : _e.escapedHeight)
+    };
+  });
 }
 async function getEmbeds(markdown) {
   const embeds = markdown.matchAll(EMBED_URL_REGEXP);
@@ -538,7 +547,7 @@ async function tryCopyImage(plugin, filename, contentPath) {
       const vaultName = plugin.app.vault.getName();
       const fileNameWithoutExt = filename.replace(/\.[^/.]+$/, "");
       for (const index in imageLinks) {
-        const urlEncodedImageLink = imageLinks[index][7 - imageLinks[index].length];
+        const urlEncodedImageLink = imageLinks[index].imageLink;
         let imageLink = "";
         try {
           imageLink = decodeURIComponent(urlEncodedImageLink).replace(/\.\.\//g, "");
@@ -550,7 +559,8 @@ async function tryCopyImage(plugin, filename, contentPath) {
         const imageLinkMd5 = plugin.settings.fileNameEncode ? (0, import_md5.default)(imageLink) : fileName;
         const imageExt = path2.extname(imageLink);
         const ifile = plugin.app.metadataCache.getFirstLinkpathDest(imageLink, contentPath);
-        const filePath = ifile !== null ? ifile.path : path2.join(path2.dirname(contentPath), imageLink);
+        const imageFile = ifile || plugin.app.vault.getAbstractFileByPath(path2.join(path2.dirname(contentPath), imageLink));
+        const filePath = imageFile !== null ? imageFile.path : path2.join(path2.dirname(contentPath), imageLink);
         if (urlEncodedImageLink.startsWith("http")) {
           continue;
         }
@@ -562,7 +572,7 @@ async function tryCopyImage(plugin, filename, contentPath) {
         try {
           if (!fileExists(targetPath)) {
             if (plugin.settings.output.startsWith("/") || path2.win32.isAbsolute(plugin.settings.output)) {
-              const resourceOsPath = getResourceOsPath(plugin, ifile);
+              const resourceOsPath = getResourceOsPath(plugin, imageFile instanceof import_obsidian2.TFile ? imageFile : null);
               fs.copyFileSync(resourceOsPath, targetPath);
             } else {
               await plugin.app.vault.adapter.copy(filePath, targetPath);
@@ -789,7 +799,6 @@ function convertMarkdownToText(plugin, markdown) {
 async function tryCopyMarkdownByRead(plugin, { file, outputFormat, outputSubPath = "." }) {
   try {
     await plugin.app.vault.adapter.read(file.path).then(async (content) => {
-      var _a;
       const imageLinks = await getImageLinks(content);
       const vaultName = plugin.app.vault.getName();
       const fileNameWithoutExt = file.name.replace(/\.[^/.]+$/, "");
@@ -799,8 +808,9 @@ async function tryCopyMarkdownByRead(plugin, { file, outputFormat, outputSubPath
         await tryCreateFolder(plugin, path2.join(plugin.settings.relAttachPath ? plugin.settings.output : resolvedAttachPath, plugin.settings.includeFileName ? file.name.replace(".md", "") : "", plugin.settings.relAttachPath ? resolvedAttachPath : ""));
       }
       for (const index in imageLinks) {
-        const rawImageLink = imageLinks[index][0];
-        const urlEncodedImageLink = imageLinks[index][7 - imageLinks[index].length];
+        const rawImageLink = imageLinks[index].rawImageLink;
+        const urlEncodedImageLink = imageLinks[index].imageLink;
+        const imageMetadata = plugin.settings.GFM ? "" : imageLinks[index].metadata;
         let imageLink = "";
         try {
           imageLink = decodeURIComponent(urlEncodedImageLink).replace(/\.\.\//g, "");
@@ -821,7 +831,7 @@ async function tryCopyMarkdownByRead(plugin, { file, outputFormat, outputSubPath
           continue;
         }
         if (plugin.settings.displayImageAsHtml) {
-          const { width = null, height = null } = ((_a = imageLinks[index]) == null ? void 0 : _a.groups) || {};
+          const { width = null, height = null } = imageLinks[index];
           const formatSize = (value) => {
             if (!value)
               return "";
@@ -829,10 +839,12 @@ async function tryCopyMarkdownByRead(plugin, { file, outputFormat, outputSubPath
           };
           const style = width && height ? ` style='width: ${formatSize(width)}; height: ${formatSize(height)};'` : width ? ` style='width: ${formatSize(width)};'` : height ? ` style='height: ${formatSize(height)};'` : "";
           content = content.replace(rawImageLink, `<img src="${hashLink}"${style} />`);
-        } else if (plugin.settings.GFM) {
+        } else if (plugin.settings.convertWikiLinksToMarkdown && rawImageLink.startsWith("![[")) {
           content = content.replace(rawImageLink, GFM_IMAGE_FORMAT.format(hashLink));
+        } else if (plugin.settings.GFM) {
+          content = content.replace(rawImageLink, GFM_IMAGE_FORMAT.format(hashLink + imageMetadata));
         } else {
-          content = content.replace(urlEncodedImageLink, hashLink);
+          content = content.replace(rawImageLink, rawImageLink.startsWith("![[") ? `![[${hashLink}${imageMetadata}]]` : rawImageLink.replace(urlEncodedImageLink, hashLink));
         }
       }
       if (plugin.settings.removeOutgoingLinkBrackets) {

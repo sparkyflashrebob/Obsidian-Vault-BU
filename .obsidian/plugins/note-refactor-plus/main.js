@@ -178,6 +178,7 @@ var en = {
   "settings.duplicate": "Duplicate",
   "settings.delete": "Delete",
   "settings.copy-suffix": " (copy)",
+  "notice.cannot-delete-last-profile": "At least one profile is required.",
   // ── Notices ──────────────────────────────────────────────────────────────
   "notice.import-success": "Imported Note Refactor settings as a new profile.",
   "notice.import-not-found": "Note Refactor data.json not found. Is the plugin installed?",
@@ -200,6 +201,7 @@ var en = {
   "notice.profile-name-required": "Profile name is required.",
   "notice.pattern-empty": "Filename pattern cannot be empty.",
   "notice.template-not-found": "Warning: template file not found: {path}",
+  "notice.template-no-content-var": "Template has no {{content}} \u2014 extracted text will be appended after the template body.",
   // ── Commands ─────────────────────────────────────────────────────────────
   "cmd.extract-with-profile": "Extract selection (choose profile\u2026)",
   "cmd.extract-with-default-profile": "Extract selection (default profile)",
@@ -353,6 +355,7 @@ var ja = {
   "settings.duplicate": "\u8907\u88FD",
   "settings.delete": "\u524A\u9664",
   "settings.copy-suffix": " (\u30B3\u30D4\u30FC)",
+  "notice.cannot-delete-last-profile": "\u30D7\u30ED\u30D5\u30A1\u30A4\u30EB\u306F\u6700\u4F4E1\u3064\u5FC5\u8981\u3067\u3059\u3002",
   // ── Notices ──────────────────────────────────────────────────────────────
   "notice.import-success": "Note Refactor \u306E\u8A2D\u5B9A\u3092\u30D7\u30ED\u30D5\u30A1\u30A4\u30EB\u3068\u3057\u3066\u30A4\u30F3\u30DD\u30FC\u30C8\u3057\u307E\u3057\u305F\u3002",
   "notice.import-not-found": "Note Refactor \u306E data.json \u304C\u898B\u3064\u304B\u308A\u307E\u305B\u3093\u3002\u30D7\u30E9\u30B0\u30A4\u30F3\u304C\u30A4\u30F3\u30B9\u30C8\u30FC\u30EB\u3055\u308C\u3066\u3044\u308B\u304B\u78BA\u8A8D\u3057\u3066\u304F\u3060\u3055\u3044\u3002",
@@ -375,6 +378,7 @@ var ja = {
   "notice.profile-name-required": "\u30D7\u30ED\u30D5\u30A1\u30A4\u30EB\u540D\u306F\u5FC5\u9808\u3067\u3059\u3002",
   "notice.pattern-empty": "\u30D5\u30A1\u30A4\u30EB\u540D\u30D1\u30BF\u30FC\u30F3\u3092\u5165\u529B\u3057\u3066\u304F\u3060\u3055\u3044\u3002",
   "notice.template-not-found": "\u8B66\u544A: \u30C6\u30F3\u30D7\u30EC\u30FC\u30C8\u30D5\u30A1\u30A4\u30EB\u304C\u898B\u3064\u304B\u308A\u307E\u305B\u3093: {path}",
+  "notice.template-no-content-var": "\u30C6\u30F3\u30D7\u30EC\u30FC\u30C8\u306B {{content}} \u304C\u3042\u308A\u307E\u305B\u3093\u3002\u62BD\u51FA\u30C6\u30AD\u30B9\u30C8\u306F\u30C6\u30F3\u30D7\u30EC\u30FC\u30C8\u306E\u672B\u5C3E\u306B\u81EA\u52D5\u8FFD\u8A18\u3055\u308C\u307E\u3059\u3002",
   // ── Commands ─────────────────────────────────────────────────────────────
   "cmd.extract-with-profile": "\u9078\u629E\u7BC4\u56F2\u3092\u62BD\u51FA\uFF08\u30D7\u30ED\u30D5\u30A1\u30A4\u30EB\u3092\u9078\u629E\u2026\uFF09",
   "cmd.extract-with-default-profile": "\u9078\u629E\u7BC4\u56F2\u3092\u62BD\u51FA\uFF08\u30C7\u30D5\u30A9\u30EB\u30C8\u30D7\u30ED\u30D5\u30A1\u30A4\u30EB\uFF09",
@@ -530,11 +534,16 @@ function promptConflict(app, basename, folder) {
         });
       },
       onAppend: async () => {
-        const file = app.vault.getAbstractFileByPath(
+        const abstractFile = app.vault.getAbstractFileByPath(
           joinNotePath(folder, basename)
         );
-        const originalContent = await app.vault.read(file);
-        resolve({ action: "append", file, originalContent });
+        if (!(abstractFile instanceof import_obsidian3.TFile)) {
+          new import_obsidian3.Notice(t("notice.target-not-found", { path: joinNotePath(folder, basename) }));
+          resolve({ action: "cancel" });
+          return;
+        }
+        const originalContent = await app.vault.read(abstractFile);
+        resolve({ action: "append", file: abstractFile, originalContent });
       },
       onCancel: () => resolve({ action: "cancel" })
     }).open();
@@ -637,7 +646,11 @@ async function applyTemplate(app, templatePath, ctx) {
     throw new Error(`Template file not found: ${templatePath}`);
   }
   const raw = await app.vault.read(file);
-  return expandVariables(raw, ctx);
+  const expanded = expandVariables(raw, ctx);
+  if (!raw.includes("{{content}}") && ctx.content) {
+    return expanded.trimEnd() + "\n\n" + ctx.content;
+  }
+  return expanded;
 }
 function formatDate(d, fmt) {
   return fmt.replace("YYYY", String(d.getFullYear())).replace("MM", pad(d.getMonth() + 1)).replace("DD", pad(d.getDate())).replace("HH", pad(d.getHours())).replace("mm", pad(d.getMinutes())).replace("ss", pad(d.getSeconds()));
@@ -674,8 +687,8 @@ async function resolveFilename(app, profile, firstLine) {
   }
 }
 function promptFilename(app, defaultValue) {
-  return new Promise((resolve, reject) => {
-    new FilenamePromptModal(app, defaultValue, resolve, reject).open();
+  return new Promise((resolve) => {
+    new FilenamePromptModal(app, defaultValue, resolve, () => resolve(null)).open();
   });
 }
 var FilenamePromptModal = class extends import_obsidian5.Modal {
@@ -698,7 +711,7 @@ var FilenamePromptModal = class extends import_obsidian5.Modal {
           this.submit();
         }
       });
-      setTimeout(() => text.inputEl.focus(), 0);
+      window.setTimeout(() => text.inputEl.focus(), 0);
     });
     new import_obsidian5.Setting(this.contentEl).addButton(
       (btn) => btn.setButtonText(t("filename-prompt.create")).setCta().onClick(() => this.submit())
@@ -708,7 +721,7 @@ var FilenamePromptModal = class extends import_obsidian5.Modal {
   }
   onClose() {
     if (!this._submitted) {
-      this.onCancel(new Error("Cancelled"));
+      this.onCancel();
     }
   }
   submit() {
@@ -720,7 +733,7 @@ var FilenamePromptModal = class extends import_obsidian5.Modal {
   cancel() {
     this._submitted = true;
     this.close();
-    this.onCancel(new Error("Cancelled"));
+    this.onCancel();
   }
 };
 
@@ -878,9 +891,11 @@ var FileSuggesterModal = class extends import_obsidian6.FuzzySuggestModal {
   }
   onClose() {
     super.onClose();
-    if (!this.chosen) {
-      this.reject(new Error("File selection cancelled"));
-    }
+    window.setTimeout(() => {
+      if (!this.chosen) {
+        this.reject(new Error("File selection cancelled"));
+      }
+    }, 0);
   }
 };
 function pickFile(app) {
@@ -913,9 +928,8 @@ async function extractSelection(app, profile, editor, sourceFile, undoStack) {
   const selectionFrom = editor.getCursor("from");
   const selectionTo = editor.getCursor("to");
   try {
-    const folder = resolveDestinationFolder(profile, sourceFile);
-    await ensureFolder(app, folder);
     const basename = await resolveFilename(app, profile, selection.firstLine);
+    if (basename === null) return null;
     const sourceContentBefore = await app.vault.read(sourceFile);
     if (profile.target.mode === "append-existing") {
       return appendSelectionToExisting(
@@ -930,6 +944,8 @@ async function extractSelection(app, profile, editor, sourceFile, undoStack) {
         (text) => editor.replaceRange(text, selectionFrom, selectionTo)
       );
     }
+    const folder = resolveDestinationFolder(profile, sourceFile);
+    await ensureFolder(app, folder);
     const resolution = await resolveConflict(app, folder, basename, profile.conflictPolicy);
     if (resolution.action === "cancel") return null;
     const effectivePath = resolution.action === "create" ? resolution.path : resolution.file.path;
@@ -986,6 +1002,7 @@ async function extractSelection(app, profile, editor, sourceFile, undoStack) {
   }
 }
 async function splitFromCursor(app, profile, editor, sourceFile, undoStack) {
+  var _a;
   const cursorLine = editor.getCursor("from").line;
   const totalLines = editor.lineCount();
   const lines = [];
@@ -1001,15 +1018,17 @@ async function splitFromCursor(app, profile, editor, sourceFile, undoStack) {
     return null;
   }
   const replaceInSource = (text) => {
-    const lastLine = totalLines - 1;
+    const lastLine = editor.lineCount() - 1;
     editor.replaceRange(
       text,
       { line: cursorLine, ch: 0 },
       { line: lastLine, ch: editor.getLine(lastLine).length }
     );
   };
+  const firstNonEmptyLine = (_a = lines.find((line) => line.trim().length > 0)) != null ? _a : "";
   try {
-    const basename = await resolveFilename(app, profile, lines[0]);
+    const basename = await resolveFilename(app, profile, firstNonEmptyLine);
+    if (basename === null) return null;
     const sourceContentBefore = await app.vault.read(sourceFile);
     if (profile.target.mode === "append-existing") {
       return appendSelectionToExisting(
@@ -1172,6 +1191,7 @@ async function extractHeadingAtCursor(app, profile, editor, sourceFile, undoStac
     return null;
   }
   const basename = await resolveFilename(app, profile, range.heading.heading);
+  if (basename === null) return null;
   return doExtract(app, profile, editor, sourceFile, range, headings, basename, undoStack);
 }
 async function splitByHeadingLevel(app, profile, editor, sourceFile, level, undoStack) {
@@ -1195,7 +1215,8 @@ async function splitByHeadingLevel(app, profile, editor, sourceFile, level, undo
       range,
       allHeadings,
       basename,
-      null
+      null,
+      true
     );
     if (file) created.unshift(file);
   }
@@ -1211,6 +1232,7 @@ async function splitByHeadingLevel(app, profile, editor, sourceFile, level, undo
         notes: created.length === 1 ? t("notice.split-notes-singular") : t("notice.split-notes-plural")
       })
     );
+    await openAfterExtract(app, profile, created[0]);
   }
   return created;
 }
@@ -1264,7 +1286,7 @@ function findParentHeading(allHeadings, heading) {
   }
   return "";
 }
-async function resolveFolder(profile, sourceFile) {
+function resolveFolder(profile, sourceFile) {
   var _a, _b;
   switch (profile.destination.mode) {
     case "fixed":
@@ -1282,9 +1304,9 @@ async function ensureFolder2(app, folder) {
   if (existing) throw new Error(`"${folder}" is a file, not a folder.`);
   await app.vault.createFolder(folder);
 }
-async function doExtract(app, profile, editor, sourceFile, range, allHeadings, basename, undoStack) {
+async function doExtract(app, profile, editor, sourceFile, range, allHeadings, basename, undoStack, suppressOpen = false) {
   try {
-    const folder = await resolveFolder(profile, sourceFile);
+    const folder = resolveFolder(profile, sourceFile);
     await ensureFolder2(app, folder);
     const sourceContentBefore = undoStack ? editor.getValue() : "";
     const { content, effectiveEndLine } = readRange(editor, range);
@@ -1335,11 +1357,8 @@ async function doExtract(app, profile, editor, sourceFile, range, allHeadings, b
     if (replacement) {
       editor.replaceRange(replacement, { line: range.startLine, ch: 0 });
     }
-    if (profile.afterExtract !== "none") {
-      const leaf = app.workspace.getLeaf(
-        profile.afterExtract === "open-new-pane" ? "split" : false
-      );
-      await leaf.openFile(newFile);
+    if (!suppressOpen) {
+      await openAfterExtract(app, profile, newFile);
     }
     return newFile;
   } catch (error) {
@@ -1378,7 +1397,7 @@ var ProfileSuggester = class extends import_obsidian9.FuzzySuggestModal {
     }
   }
   onChooseItem(profile) {
-    this.onChoose(profile);
+    void this.onChoose(profile);
   }
 };
 
@@ -1400,7 +1419,7 @@ async function undoLastExtract(app, undoStack) {
     for (const path of snapshot.createdFilePaths) {
       const file = app.vault.getAbstractFileByPath(path);
       if (file instanceof import_obsidian10.TFile) {
-        await app.vault.delete(file);
+        await app.fileManager.trashFile(file);
       }
     }
     if (snapshot.targetFilePath && snapshot.targetContentBefore !== void 0) {
@@ -1566,9 +1585,11 @@ function registerProfileCommand(plugin, profile) {
     name: t("cmd.extract-profile", { name: profile.name }),
     editorCallback: async (editor, ctx) => {
       if (!ctx.file) return;
-      incrementUsage(plugin.settings, profile.id);
+      const current = getProfileById(plugin.settings, profile.id);
+      if (!current) return;
+      incrementUsage(plugin.settings, current.id);
       await saveSettings(plugin, plugin.settings);
-      await extractSelection(plugin.app, profile, editor, ctx.file, plugin.undoStack);
+      await extractSelection(plugin.app, current, editor, ctx.file, plugin.undoStack);
     }
   });
 }
@@ -1676,7 +1697,7 @@ var ProfileEditorModal = class extends import_obsidian12.Modal {
   }
   // -------------------------------------------------------------------------
   sectionHeading(parent, key) {
-    parent.createEl("h3", { text: t(key), cls: "nrp-section-heading" });
+    new import_obsidian12.Setting(parent).setName(t(key)).setHeading().settingEl.addClass("nrp-section-heading");
   }
   renderBasicSection(el) {
     this.sectionHeading(el, "profile.section.basic");
@@ -1685,7 +1706,6 @@ var ProfileEditorModal = class extends import_obsidian12.Modal {
         this.draft.name = v;
       })
     );
-    let iconPreview;
     const iconSetting = new import_obsidian12.Setting(el).setName(t("profile.icon")).setDesc(t("profile.icon-desc")).addText(
       (txt) => txt.setValue(this.draft.icon).onChange((v) => {
         this.draft.icon = v;
@@ -1697,7 +1717,7 @@ var ProfileEditorModal = class extends import_obsidian12.Modal {
         }
       })
     );
-    iconPreview = iconSetting.controlEl.createDiv("nrp-icon-preview");
+    const iconPreview = iconSetting.controlEl.createDiv("nrp-icon-preview");
     try {
       (0, import_obsidian12.setIcon)(iconPreview, this.draft.icon || "file-text");
     } catch (e) {
@@ -1742,27 +1762,32 @@ var ProfileEditorModal = class extends import_obsidian12.Modal {
   }
   renderFilenameSection(el) {
     this.sectionHeading(el, "profile.section.filename");
-    let patternEl;
+    let patternInput;
     new import_obsidian12.Setting(el).setName(t("profile.filename-rule")).addDropdown(
       (dd) => dd.addOption("first-line", t("profile.filename-rule.first-line")).addOption("prompt", t("profile.filename-rule.prompt")).addOption("pattern", t("profile.filename-rule.pattern")).setValue(this.draft.filenameRule.mode).onChange((mode) => {
         if (mode === "pattern") {
-          const prev = this.draft.filenameRule.mode === "pattern" ? this.draft.filenameRule.pattern : t("profile.pattern-placeholder");
+          const prev = this.draft.filenameRule.mode === "pattern" ? this.draft.filenameRule.pattern : "";
           this.draft.filenameRule = { mode: "pattern", pattern: prev };
+          patternInput.setValue(prev);
         } else {
           this.draft.filenameRule = {
             mode
           };
         }
-        patternEl.style.display = mode === "pattern" ? "" : "none";
+        patternEl.toggleClass("nrp-hidden", mode !== "pattern");
       })
     );
-    const initPattern = this.draft.filenameRule.mode === "pattern" ? this.draft.filenameRule.pattern : t("profile.pattern-placeholder");
-    patternEl = new import_obsidian12.Setting(el).setName(t("profile.pattern")).setDesc(t("profile.pattern-desc")).addText(
-      (txt) => txt.setPlaceholder(t("profile.pattern-placeholder")).setValue(initPattern).onChange((v) => {
+    const initPattern = this.draft.filenameRule.mode === "pattern" ? this.draft.filenameRule.pattern : "";
+    const patternEl = new import_obsidian12.Setting(el).setName(t("profile.pattern")).setDesc(t("profile.pattern-desc")).addText((txt) => {
+      patternInput = txt;
+      txt.setPlaceholder(t("profile.pattern-placeholder")).setValue(initPattern).onChange((v) => {
         this.draft.filenameRule = { mode: "pattern", pattern: v };
-      })
-    ).settingEl;
-    patternEl.style.display = this.draft.filenameRule.mode === "pattern" ? "" : "none";
+      });
+    }).settingEl;
+    patternEl.toggleClass(
+      "nrp-hidden",
+      this.draft.filenameRule.mode !== "pattern"
+    );
   }
   renderContentTransformsSection(el) {
     this.sectionHeading(el, "profile.section.content-transforms");
@@ -1784,7 +1809,6 @@ var ProfileEditorModal = class extends import_obsidian12.Modal {
   }
   renderDestinationSection(el) {
     this.sectionHeading(el, "profile.section.destination");
-    let fixedPathEl;
     const initFixed = this.draft.destination.mode === "fixed" ? this.draft.destination.path : "";
     new import_obsidian12.Setting(el).setName(t("profile.destination")).addDropdown(
       (dd) => dd.addOption(
@@ -1801,23 +1825,24 @@ var ProfileEditorModal = class extends import_obsidian12.Modal {
             mode
           };
         }
-        fixedPathEl.style.display = mode === "fixed" ? "" : "none";
+        fixedPathEl.toggleClass("nrp-hidden", mode !== "fixed");
       })
     );
     let fixedPathInput;
-    fixedPathEl = new import_obsidian12.Setting(el).setName(t("profile.folder-path")).setDesc(t("profile.folder-path-desc")).addText((txt) => {
+    const fixedPathEl = new import_obsidian12.Setting(el).setName(t("profile.folder-path")).setDesc(t("profile.folder-path-desc")).addText((txt) => {
       fixedPathInput = txt;
       txt.setPlaceholder(t("profile.folder-path-placeholder")).setValue(initFixed).onChange((v) => {
         this.draft.destination = { mode: "fixed", path: v };
       });
       new FolderSuggest(this.app, txt.inputEl);
     }).settingEl;
-    fixedPathEl.style.display = this.draft.destination.mode === "fixed" ? "" : "none";
+    fixedPathEl.toggleClass(
+      "nrp-hidden",
+      this.draft.destination.mode !== "fixed"
+    );
   }
   renderTargetSection(el) {
     this.sectionHeading(el, "profile.section.target");
-    let appendDetailsEl;
-    let headingNameEl;
     const initIsAppend = this.draft.target.mode === "append-existing";
     const initAppend = initIsAppend ? this.draft.target : {
       mode: "append-existing",
@@ -1833,11 +1858,14 @@ var ProfileEditorModal = class extends import_obsidian12.Modal {
           const cur = this.draft.target.mode === "append-existing" ? this.draft.target : initAppend;
           this.draft.target = { ...cur, mode: "append-existing" };
         }
-        appendDetailsEl.style.display = mode === "append-existing" ? "" : "none";
+        appendDetailsEl.toggleClass(
+          "nrp-hidden",
+          mode !== "append-existing"
+        );
       })
     );
-    appendDetailsEl = el.createDiv("nrp-setting-group");
-    appendDetailsEl.style.display = initIsAppend ? "" : "none";
+    const appendDetailsEl = el.createDiv("nrp-setting-group");
+    appendDetailsEl.toggleClass("nrp-hidden", !initIsAppend);
     new import_obsidian12.Setting(appendDetailsEl).setName(t("profile.target-file")).setDesc(t("profile.target-file-desc")).addText((txt) => {
       txt.setPlaceholder(t("profile.target-file-placeholder")).setValue(initAppend.targetPath).onChange((v) => {
         if (this.draft.target.mode === "append-existing") {
@@ -1851,17 +1879,23 @@ var ProfileEditorModal = class extends import_obsidian12.Modal {
         if (this.draft.target.mode === "append-existing") {
           this.draft.target.position = pos;
         }
-        headingNameEl.style.display = pos === "under-heading" ? "" : "none";
+        headingNameEl.toggleClass(
+          "nrp-hidden",
+          pos !== "under-heading"
+        );
       })
     );
-    headingNameEl = new import_obsidian12.Setting(appendDetailsEl).setName(t("profile.heading-name")).setDesc(t("profile.heading-name-desc")).addText(
+    const headingNameEl = new import_obsidian12.Setting(appendDetailsEl).setName(t("profile.heading-name")).setDesc(t("profile.heading-name-desc")).addText(
       (txt) => txt.setValue(initAppend.headingName).onChange((v) => {
         if (this.draft.target.mode === "append-existing") {
           this.draft.target.headingName = v;
         }
       })
     ).settingEl;
-    headingNameEl.style.display = initAppend.position === "under-heading" ? "" : "none";
+    headingNameEl.toggleClass(
+      "nrp-hidden",
+      initAppend.position !== "under-heading"
+    );
   }
   renderTemplateSection(el) {
     this.sectionHeading(el, "profile.section.template");
@@ -1907,6 +1941,10 @@ var ProfileEditorModal = class extends import_obsidian12.Modal {
       if (!(tplFile instanceof import_obsidian12.TFile)) {
         new import_obsidian12.Notice(t("notice.template-not-found", { path: this.draft.templatePath }));
         return;
+      }
+      const raw = await this.app.vault.read(tplFile);
+      if (!raw.includes("{{content}}")) {
+        new import_obsidian12.Notice(t("notice.template-no-content-var"));
       }
     }
     this.draft.name = name;
@@ -1979,7 +2017,7 @@ var PreviewModal = class extends import_obsidian12.Modal {
 var import_obsidian13 = require("obsidian");
 async function importNoteRefactorSettings(app) {
   const dataPath = (0, import_obsidian13.normalizePath)(
-    ".obsidian/plugins/note-refactor-obsidian/data.json"
+    `${app.vault.configDir}/plugins/note-refactor-obsidian/data.json`
   );
   let raw;
   try {
@@ -2043,240 +2081,187 @@ var NrpSettingsTab = class extends import_obsidian14.PluginSettingTab {
     super(app, plugin);
     this.nrpPlugin = plugin;
   }
-  display() {
-    const { containerEl } = this;
-    containerEl.empty();
-    this.renderGlobalSettings(containerEl);
-    this.renderCompatibilitySection(containerEl);
-    this.renderProfileList(containerEl);
+  getSettingDefinitions() {
+    return [
+      this.buildGlobalSettingsGroup(),
+      this.buildCompatibilityGroup(),
+      this.buildProfileList()
+    ];
   }
   // -------------------------------------------------------------------------
-  renderGlobalSettings(el) {
-    new import_obsidian14.Setting(el).setName(t("settings.global-heading")).setHeading();
-    new import_obsidian14.Setting(el).setName(t("settings.show-context-menu")).setDesc(t("settings.show-context-menu-desc")).addToggle(
-      (tog) => tog.setValue(this.nrpPlugin.settings.showContextMenu).onChange(async (v) => {
-        this.nrpPlugin.settings.showContextMenu = v;
-        await saveSettings(this.nrpPlugin, this.nrpPlugin.settings);
-      })
-    );
-    new import_obsidian14.Setting(el).setName(t("settings.context-menu-items")).setDesc(t("settings.context-menu-items-desc")).addSlider(
-      (s) => s.setLimits(1, 10, 1).setValue(this.nrpPlugin.settings.contextMenuTopN).setDynamicTooltip().onChange(async (v) => {
-        this.nrpPlugin.settings.contextMenuTopN = v;
-        await saveSettings(this.nrpPlugin, this.nrpPlugin.settings);
-      })
-    );
+  async persist() {
+    await saveSettings(this.nrpPlugin, this.nrpPlugin.settings);
   }
-  renderCompatibilitySection(el) {
-    new import_obsidian14.Setting(el).setName(t("settings.compat-heading")).setHeading();
-    new import_obsidian14.Setting(el).setName(t("settings.import-nr")).setDesc(t("settings.import-nr-desc")).addButton(
-      (btn) => btn.setButtonText(t("settings.import-nr-btn")).onClick(async () => {
-        let result;
-        try {
-          result = await importNoteRefactorSettings(this.app);
-        } catch (e) {
-          new import_obsidian14.Notice(t("notice.import-failed"));
+  buildGlobalSettingsGroup() {
+    return {
+      type: "group",
+      heading: t("settings.global-heading"),
+      items: [
+        {
+          name: t("settings.show-context-menu"),
+          desc: t("settings.show-context-menu-desc"),
+          control: {
+            type: "toggle",
+            key: "showContextMenu"
+          }
+        },
+        {
+          name: t("settings.context-menu-items"),
+          desc: t("settings.context-menu-items-desc"),
+          control: {
+            type: "slider",
+            key: "contextMenuTopN",
+            min: 1,
+            max: 10,
+            step: 1
+          }
+        }
+      ]
+    };
+  }
+  buildCompatibilityGroup() {
+    return {
+      type: "group",
+      heading: t("settings.compat-heading"),
+      items: [
+        {
+          name: t("settings.import-nr"),
+          desc: t("settings.import-nr-desc"),
+          render: (setting) => {
+            setting.addButton(
+              (btn) => btn.setButtonText(t("settings.import-nr-btn")).onClick(async () => {
+                let result;
+                try {
+                  result = await importNoteRefactorSettings(this.app);
+                } catch (e) {
+                  new import_obsidian14.Notice(t("notice.import-failed"));
+                  return;
+                }
+                if (!result) {
+                  new import_obsidian14.Notice(t("notice.import-not-found"));
+                  return;
+                }
+                this.nrpPlugin.settings.profiles.push(result.profile);
+                await this.persist();
+                registerProfileCommand(this.nrpPlugin, result.profile);
+                if (result.templateContent) {
+                  new import_obsidian14.Notice(
+                    t("notice.import-template-note", {
+                      template: result.templateContent
+                    })
+                  );
+                }
+                new import_obsidian14.Notice(t("notice.import-success"));
+                this.update();
+              })
+            );
+          }
+        }
+      ]
+    };
+  }
+  buildProfileList() {
+    const profiles = this.nrpPlugin.settings.profiles;
+    return {
+      type: "list",
+      heading: t("settings.profiles-heading"),
+      onReorder: (oldIndex, newIndex) => {
+        const [moved] = this.nrpPlugin.settings.profiles.splice(oldIndex, 1);
+        this.nrpPlugin.settings.profiles.splice(newIndex, 0, moved);
+        void this.persist();
+        this.update();
+      },
+      onDelete: (index) => {
+        const list = this.nrpPlugin.settings.profiles;
+        if (list.length <= 1) {
+          new import_obsidian14.Notice(t("notice.cannot-delete-last-profile"));
+          this.update();
           return;
         }
-        if (!result) {
-          new import_obsidian14.Notice(t("notice.import-not-found"));
-          return;
+        const [removed] = list.splice(index, 1);
+        if (this.nrpPlugin.settings.defaultProfileId === removed.id) {
+          this.nrpPlugin.settings.defaultProfileId = list[0].id;
         }
-        this.nrpPlugin.settings.profiles.push(result.profile);
-        await saveSettings(this.nrpPlugin, this.nrpPlugin.settings);
-        registerProfileCommand(this.nrpPlugin, result.profile);
-        if (result.templateContent) {
-          new import_obsidian14.Notice(
-            t("notice.import-template-note", {
-              template: result.templateContent
-            })
-          );
-        }
-        new import_obsidian14.Notice(t("notice.import-success"));
-        this.display();
-      })
-    );
-  }
-  renderProfileList(el) {
-    new import_obsidian14.Setting(el).setName(t("settings.profiles-heading")).setHeading().addButton(
-      (btn) => btn.setButtonText(t("settings.add-profile")).setCta().onClick(() => {
-        const newProfile = createDefaultProfile({
-          id: crypto.randomUUID(),
-          name: t("settings.new-profile-name"),
-          description: ""
-        });
-        new ProfileEditorModal(
-          this.app,
-          newProfile,
-          true,
-          async (saved) => {
+        removeProfileCommand(this.nrpPlugin, removed.id);
+        void this.persist();
+        this.update();
+      },
+      addItem: {
+        name: t("settings.add-profile"),
+        action: () => {
+          const newProfile = createDefaultProfile({
+            id: crypto.randomUUID(),
+            name: t("settings.new-profile-name"),
+            description: ""
+          });
+          new ProfileEditorModal(this.app, newProfile, true, async (saved) => {
             this.nrpPlugin.settings.profiles.push(saved);
-            await saveSettings(this.nrpPlugin, this.nrpPlugin.settings);
+            await this.persist();
             registerProfileCommand(this.nrpPlugin, saved);
-            this.display();
-          }
-        ).open();
-      })
-    );
-    const listEl = el.createDiv("nrp-profile-list");
-    let dragFromIndex = null;
-    this.nrpPlugin.settings.profiles.forEach((profile, i) => {
-      this.renderProfileItem(listEl, profile, i, {
-        onDragStart: () => {
-          dragFromIndex = i;
-        },
-        onDrop: async () => {
-          if (dragFromIndex === null || dragFromIndex === i) return;
-          const [moved] = this.nrpPlugin.settings.profiles.splice(dragFromIndex, 1);
-          this.nrpPlugin.settings.profiles.splice(i, 0, moved);
-          dragFromIndex = null;
-          await saveSettings(this.nrpPlugin, this.nrpPlugin.settings);
-          this.display();
-        },
-        onMoveUp: async () => {
-          if (i === 0) return;
-          const p = this.nrpPlugin.settings.profiles;
-          [p[i - 1], p[i]] = [p[i], p[i - 1]];
-          await saveSettings(this.nrpPlugin, this.nrpPlugin.settings);
-          this.display();
-        },
-        onMoveDown: async () => {
-          const p = this.nrpPlugin.settings.profiles;
-          if (i >= p.length - 1) return;
-          [p[i], p[i + 1]] = [p[i + 1], p[i]];
-          await saveSettings(this.nrpPlugin, this.nrpPlugin.settings);
-          this.display();
-        },
-        onSetDefault: async () => {
-          this.nrpPlugin.settings.defaultProfileId = profile.id;
-          await saveSettings(this.nrpPlugin, this.nrpPlugin.settings);
-          this.display();
-        },
-        onEdit: () => {
-          new ProfileEditorModal(
-            this.app,
-            profile,
-            false,
-            async (saved) => {
-              this.nrpPlugin.settings.profiles[i] = saved;
-              await saveSettings(this.nrpPlugin, this.nrpPlugin.settings);
-              this.display();
-            }
-          ).open();
-        },
-        onDuplicate: async () => {
-          const copy = structuredClone(profile);
-          copy.id = crypto.randomUUID();
-          copy.name = `${profile.name}${t("settings.copy-suffix")}`;
-          this.nrpPlugin.settings.profiles.splice(i + 1, 0, copy);
-          await saveSettings(this.nrpPlugin, this.nrpPlugin.settings);
-          registerProfileCommand(this.nrpPlugin, copy);
-          this.display();
-        },
-        onDelete: async () => {
-          if (this.nrpPlugin.settings.profiles.length <= 1) return;
-          this.nrpPlugin.settings.profiles.splice(i, 1);
-          if (this.nrpPlugin.settings.defaultProfileId === profile.id) {
-            this.nrpPlugin.settings.defaultProfileId = this.nrpPlugin.settings.profiles[0].id;
-          }
-          removeProfileCommand(this.nrpPlugin, profile.id);
-          await saveSettings(this.nrpPlugin, this.nrpPlugin.settings);
-          this.display();
+            this.update();
+          }).open();
         }
-      });
-    });
+      },
+      items: profiles.map((profile, index) => this.buildProfileItem(profile, index))
+    };
   }
-  renderProfileItem(listEl, profile, index, handlers) {
+  buildProfileItem(profile, index) {
     const isDefault = profile.id === this.nrpPlugin.settings.defaultProfileId;
-    const isFirst = index === 0;
-    const isLast = index === this.nrpPlugin.settings.profiles.length - 1;
-    const isOnly = this.nrpPlugin.settings.profiles.length === 1;
-    const item = listEl.createDiv({ cls: "nrp-profile-item" });
-    item.setAttribute("draggable", "true");
-    const handle = item.createDiv("nrp-drag-handle");
-    (0, import_obsidian14.setIcon)(handle, "grip-vertical");
-    item.addEventListener("dragstart", (e) => {
-      handlers.onDragStart();
-      if (e.dataTransfer) e.dataTransfer.effectAllowed = "move";
-      item.classList.add("nrp-dragging");
-    });
-    item.addEventListener("dragend", () => {
-      item.classList.remove("nrp-dragging");
-      listEl.querySelectorAll(".nrp-drag-over").forEach((el) => el.classList.remove("nrp-drag-over"));
-    });
-    item.addEventListener("dragover", (e) => {
-      e.preventDefault();
-      if (e.dataTransfer) e.dataTransfer.dropEffect = "move";
-      item.classList.add("nrp-drag-over");
-    });
-    item.addEventListener("dragleave", () => {
-      item.classList.remove("nrp-drag-over");
-    });
-    item.addEventListener("drop", (e) => {
-      e.preventDefault();
-      item.classList.remove("nrp-drag-over");
-      handlers.onDrop();
-    });
-    const iconEl = item.createDiv("nrp-profile-icon");
-    try {
-      (0, import_obsidian14.setIcon)(iconEl, profile.icon || "file-text");
-    } catch (e) {
-      (0, import_obsidian14.setIcon)(iconEl, "file-text");
-    }
-    const info = item.createDiv("nrp-profile-info");
-    const nameEl = info.createEl("span", {
-      text: profile.name,
-      cls: "nrp-profile-name"
-    });
-    if (isDefault) {
-      nameEl.createEl("span", {
-        text: ` ${t("settings.default-badge")}`,
-        cls: "nrp-default-badge"
-      });
-    }
-    info.createEl("span", {
-      text: profile.description,
-      cls: "nrp-profile-desc"
-    });
-    const reorder = item.createDiv("nrp-reorder-btns");
-    const upBtn = reorder.createEl("button", {
-      cls: "clickable-icon"
-    });
-    (0, import_obsidian14.setIcon)(upBtn, "chevron-up");
-    if (isFirst) upBtn.setAttribute("disabled", "true");
-    else upBtn.addEventListener("click", () => handlers.onMoveUp());
-    const downBtn = reorder.createEl("button", {
-      cls: "clickable-icon"
-    });
-    (0, import_obsidian14.setIcon)(downBtn, "chevron-down");
-    if (isLast) downBtn.setAttribute("disabled", "true");
-    else downBtn.addEventListener("click", () => handlers.onMoveDown());
-    const actions = item.createDiv("nrp-profile-actions");
-    const defaultBtn = actions.createEl("button", {
-      text: isDefault ? t("settings.default-active") : t("settings.set-default"),
-      cls: isDefault ? "nrp-btn-default-active" : ""
-    });
-    if (!isDefault) {
-      defaultBtn.addEventListener("click", () => handlers.onSetDefault());
-    }
-    const editBtn = actions.createEl("button", {
-      cls: "clickable-icon",
-      attr: { "aria-label": t("settings.edit") }
-    });
-    (0, import_obsidian14.setIcon)(editBtn, "pencil");
-    editBtn.addEventListener("click", () => handlers.onEdit());
-    const dupBtn = actions.createEl("button", {
-      cls: "clickable-icon",
-      attr: { "aria-label": t("settings.duplicate") }
-    });
-    (0, import_obsidian14.setIcon)(dupBtn, "copy");
-    dupBtn.addEventListener("click", () => handlers.onDuplicate());
-    const delBtn = actions.createEl("button", {
-      cls: "clickable-icon mod-warning",
-      attr: { "aria-label": t("settings.delete") }
-    });
-    (0, import_obsidian14.setIcon)(delBtn, "trash-2");
-    if (isOnly) delBtn.setAttribute("disabled", "true");
-    else delBtn.addEventListener("click", () => handlers.onDelete());
+    return {
+      name: profile.name,
+      render: (setting) => {
+        setting.nameEl.empty();
+        const iconEl = setting.nameEl.createSpan("nrp-profile-icon");
+        try {
+          (0, import_obsidian14.setIcon)(iconEl, profile.icon || "file-text");
+        } catch (e) {
+          (0, import_obsidian14.setIcon)(iconEl, "file-text");
+        }
+        setting.nameEl.createSpan({ text: profile.name });
+        if (isDefault) {
+          setting.nameEl.createSpan({
+            text: ` ${t("settings.default-badge")}`,
+            cls: "nrp-default-badge"
+          });
+        }
+        setting.setDesc(profile.description);
+        setting.addButton((btn) => {
+          btn.setButtonText(
+            isDefault ? t("settings.default-active") : t("settings.set-default")
+          );
+          if (isDefault) {
+            btn.setDisabled(true);
+          } else {
+            btn.onClick(async () => {
+              this.nrpPlugin.settings.defaultProfileId = profile.id;
+              await this.persist();
+              this.update();
+            });
+          }
+        });
+        setting.addExtraButton(
+          (btn) => btn.setIcon("pencil").setTooltip(t("settings.edit")).onClick(() => {
+            new ProfileEditorModal(this.app, profile, false, async (saved) => {
+              this.nrpPlugin.settings.profiles[index] = saved;
+              await this.persist();
+              registerProfileCommand(this.nrpPlugin, saved);
+              this.update();
+            }).open();
+          })
+        );
+        setting.addExtraButton(
+          (btn) => btn.setIcon("copy").setTooltip(t("settings.duplicate")).onClick(async () => {
+            const copy = structuredClone(profile);
+            copy.id = crypto.randomUUID();
+            copy.name = `${profile.name}${t("settings.copy-suffix")}`;
+            this.nrpPlugin.settings.profiles.splice(index + 1, 0, copy);
+            await this.persist();
+            registerProfileCommand(this.nrpPlugin, copy);
+            this.update();
+          })
+        );
+      }
+    };
   }
 };
 
@@ -2345,9 +2330,6 @@ var NoteRefactorPlusPlugin = class extends import_obsidian15.Plugin {
     registerCommands(this);
     registerContextMenu(this);
     this.addSettingTab(new NrpSettingsTab(this.app, this));
-  }
-  async onunload() {
-    await saveSettings(this, this.settings);
   }
 };
 

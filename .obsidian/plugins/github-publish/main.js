@@ -346,12 +346,21 @@ async function listUserRepos(token) {
   }
   return repos;
 }
-async function createRepo(token, name, isPrivate = false, autoInit = false) {
+async function createRepo(token, name, isPrivate = false, autoInit = false, homepage) {
   return githubRequest(token, "POST", "/user/repos", {
     name,
     private: isPrivate,
-    auto_init: autoInit
+    auto_init: autoInit,
+    ...homepage ? { homepage } : {}
   });
+}
+async function updateRepoHomepage(token, owner, repo, homepage) {
+  return githubRequest(token, "PATCH", `/repos/${owner}/${repo}`, {
+    homepage
+  });
+}
+function githubPagesUrl(owner, repo) {
+  return `https://${owner}.github.io/${repo}/`;
 }
 async function resolveRepository(token, username, repoName, mode) {
   if (mode === "existing") {
@@ -362,8 +371,9 @@ async function resolveRepository(token, username, repoName, mode) {
       created: false
     };
   }
+  const homepage = githubPagesUrl(username, repoName);
   try {
-    const created = await createRepo(token, repoName, false, false);
+    const created = await createRepo(token, repoName, false, false, homepage);
     return {
       owner: created.owner.login,
       repoName: created.name,
@@ -373,6 +383,7 @@ async function resolveRepository(token, username, repoName, mode) {
     if (error instanceof GitHubApiError && error.status === 422) {
       log(`Repository ${username}/${repoName} already exists \u2014 continuing publish`);
       const existing = await getRepo(token, username, repoName);
+      await updateRepoHomepage(token, existing.owner.login, existing.name, homepage);
       return {
         owner: existing.owner.login,
         repoName: existing.name,
@@ -794,7 +805,6 @@ async function createBranchRefGraphQL(token, repositoryNodeId, branch, commitOid
 }
 
 // src/github/contents.ts
-var MAX_FILE_BYTES = 100 * 1024 * 1024;
 async function putFileContents(token, owner, repo, path, content, message) {
   const existingSha = await getFileContentsSha(token, owner, repo, path);
   log(
@@ -840,7 +850,7 @@ function bytesToBase64(bytes) {
 }
 
 // src/github/git.ts
-var MAX_FILE_BYTES2 = 100 * 1024 * 1024;
+var MAX_FILE_BYTES = 100 * 1024 * 1024;
 var GIT_RETRY_STATUSES = [409];
 async function ensureRepositoryReadyForGit(token, owner, repo, onStatus) {
   const repoInfo = await getRepo(token, owner, repo);
@@ -910,7 +920,7 @@ async function initializeRepository(token, owner, repo) {
 }
 async function createInitialCommit(token, owner, repo, files, message, onProgress) {
   for (const file of files) {
-    if (file.content.byteLength > MAX_FILE_BYTES2) {
+    if (file.content.byteLength > MAX_FILE_BYTES) {
       throw new Error(`File too large for GitHub (>100MB): ${file.path}`);
     }
   }
@@ -945,7 +955,7 @@ async function createContentUpdateCommit(token, owner, repo, files, deletes, mes
     throw new Error("No content changes to publish.");
   }
   for (const file of files) {
-    if (file.content.byteLength > MAX_FILE_BYTES2) {
+    if (file.content.byteLength > MAX_FILE_BYTES) {
       throw new Error(`File too large for GitHub (>100MB): ${file.path}`);
     }
   }
@@ -1443,31 +1453,38 @@ function publishBundleContextFromSite(site) {
 }
 
 // src/publish/ensureQuartzHomePage.ts
-var QUARTZ_INDEX_PATH = "content/index.md";
-function ensureQuartzHomePage(contentFiles, siteName) {
-  if (contentFiles.some((file) => file.path === QUARTZ_INDEX_PATH)) {
-    return contentFiles;
+var INDEX_FILENAME = "index.md";
+async function ensureQuartzHomePage(vault, contentFolder, siteName) {
+  const indexPath = contentFolder ? `${contentFolder}/${INDEX_FILENAME}` : INDEX_FILENAME;
+  if (vault.getAbstractFileByPath(indexPath)) {
+    return false;
   }
   const markdown = `---
 title: ${escapeYamlString(siteName)}
 ---
 
-Welcome to **${siteName}**.
+This file has been created automatically by GitHub Publish plugin. Quartz expects a 'index.md' at the top level to render the home page of your site, feel free to edit the title and write your content!
 `;
-  return [
-    ...contentFiles,
-    {
-      path: QUARTZ_INDEX_PATH,
-      content: new TextEncoder().encode(markdown),
-      encoding: "utf-8"
-    }
-  ];
+  await vault.create(indexPath, markdown);
+  return true;
 }
 function escapeYamlString(value) {
   if (/[:#{}[\],&*?|>!'"%@`]|^\s|\s$/.test(value)) {
     return `"${value.replace(/\\/g, "\\\\").replace(/"/g, '\\"')}"`;
   }
   return value;
+}
+
+// src/publish/siteReadme.ts
+var COMMUNITY_PLUGIN_URL = "https://community.obsidian.md/plugins/github-publish";
+function buildPublishedSiteReadme() {
+  const markdown = `Site published with Quartz with the help of the [GitHub Publish](${COMMUNITY_PLUGIN_URL}) Obsidian plugin.
+`;
+  return {
+    path: "README.md",
+    content: new TextEncoder().encode(markdown),
+    encoding: "utf-8"
+  };
 }
 
 // src/publish/initialPublish.ts
@@ -1477,11 +1494,11 @@ async function runInitialPublish(app, token, username, config, onProgress) {
     repo: config.repoName
   });
   onProgress({ phase: "preparing", message: "Scanning vault folder\u2026" });
-  let { files: contentFiles, warnings } = await scanVaultFolder(app.vault, config.contentFolder);
+  await ensureQuartzHomePage(app.vault, config.contentFolder, config.siteName);
+  const { files: contentFiles, warnings } = await scanVaultFolder(app.vault, config.contentFolder);
   if (contentFiles.length === 0) {
     throw new Error("No publishable files found in the selected folder.");
   }
-  contentFiles = ensureQuartzHomePage(contentFiles, config.siteName);
   onProgress({ phase: "preparing", message: "Loading publish toolchain\u2026" });
   assertPublishToolchainReady();
   onProgress({
@@ -1498,7 +1515,11 @@ async function runInitialPublish(app, token, username, config, onProgress) {
   }
   const bundleContext = publishBundleContextFromConfig(config, owner);
   const toolchainFiles = loadPublishToolchainFiles(bundleContext);
-  const allFiles = sortUploadFiles([...toolchainFiles, ...contentFiles]);
+  const siteFiles = [...toolchainFiles, ...contentFiles];
+  if (config.repoMode === "create" || resolved.created) {
+    siteFiles.push(buildPublishedSiteReadme());
+  }
+  const allFiles = sortUploadFiles(siteFiles);
   log(`Prepared ${contentFiles.length} content files and ${toolchainFiles.length} toolchain files`, {
     fileCount: allFiles.length,
     quartzCommitSha: bundleContext.quartzCommitSha
@@ -1544,7 +1565,7 @@ async function runInitialPublish(app, token, username, config, onProgress) {
     repo: repoName,
     commitSha,
     manifest,
-    liveUrl: `https://${owner}.github.io/${repoName}/`,
+    liveUrl: githubPagesUrl(owner, repoName),
     configHash,
     toolchainHash
   };
@@ -2835,7 +2856,7 @@ async function checkLiveSite(liveUrl) {
 // src/buildFlags.ts
 var showAdvancedSettings = false;
 var isDevBuild = false;
-var buildCommit = "3fd1d29";
+var buildCommit = "5d1c779";
 
 // src/ui/UntrackSiteModal.ts
 var import_obsidian11 = require("obsidian");
