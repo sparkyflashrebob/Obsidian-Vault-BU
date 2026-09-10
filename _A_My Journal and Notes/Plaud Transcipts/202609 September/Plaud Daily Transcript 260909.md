@@ -1,0 +1,368 @@
+# Plaud Daily Transcript - Wednesday, September 09, 2026
+- **Date**: 2026-09-09
+- **Total Audio Sessions Processed**: 3
+- **Generated**: 2026-09-10 14:11:33
+
+---
+
+## 🎙️ Session 1: 2026-09-09 06:25:56 (5h00m)
+- **Source File**: `2026-09-09 06_25_56.mp3`
+- **Audio ID**: `a49047d03d950b7692b932e244790e09`
+
+- **[00:00 - End] (Speaker / Group)**: - **[6:26:26 AM] Andy**: he's a little bit over here.
+- **[6:27:10 AM] Andy**: nausea.
+- **[6:27:11 AM] Andrea**: No thanks a lot. It's good.
+- **[6:27:16 AM] Andy**: Water.
+- **[6:27:17 AM] Andrea**: You sweaty though.
+- **[6:27:19 AM] Andy**: That's one of the things that happened to me in the morning. That's something no look at. I think health wise. Because when you It actually affected me when I It's walking down the wall to me. I'm already sweating and I haven't been dying.
+- **[6:27:53 AM] Andy**: Can you keep your glasses? Yeah I think I'm going to have to go to the bathroom.
+- **[6:28:01 AM] Andrea**: And then I'll cover the house. Okay so Oh shit.
+- **[6:29:09 AM] Andy**: So they're too low or too high?
+- **[6:29:14 AM] Andrea**: I'm not sure they're just they're not the ones that are working with my eye.
+- **[6:29:20 AM] Andy**: Oh because when I was last at the glass place they showed me how to adjust them. You adjust the nose bridge and it brings it lower or higher. Because I didn't and I didn't know my old glasses are that way. and I went and came home and I adjusted it and I got a mortars center of my eye.
+- **[6:29:44 AM] Andy**: You just you know you have to make them closer or wider so that it falls on the bridge a little bit differently.
+- **[6:29:54 AM] Andy**: Well you may have to move one of you know I'm saying you'll have to adjust if that'll have to be how it's adjusted.
+- **[6:30:04 AM] Andy**: You want me to try with you later today because it's really minor.
+- **[6:30:22 AM] Andy**: Oh okay sorry.
+- **[6:30:29 AM] Andy**: Yeah it helped me because mine was the same thing. In fact even they have a little thing where they put the center of your eyeball where they're supposed to be in the glasses And then when you get them it's like well wait a minute. It's not allowed. So I learned how to just mine.
+- **[6:30:57 AM] Andy**: There's a copy of what you wanted. I saw that sweet pie and it's gourmet shit. That's kind of a KCD. I had a little bit of my leftover coffee and I'm going to blend in a little bit.
+- **[6:31:18 AM] Andrea**: But it made it strenchro.
+- **[6:31:21 AM] Andy**: Ah neat.
+- **[6:31:24 AM] Andrea**: It's going to be really hot but maybe we don't go climbing around the storage until tomorrow morning.
+- **[6:31:30 AM] Andy**: Yeah that's fine. It's fine. We're going to do laundry tomorrow too. You and I are professionals. We can get through all this stuff. And you know I mean just kind of figure out where we get the water bottles out get the stuff out, put it down so we know where it is. And then for us I got to go through my yeah that stuff is we have those things we'll get it ready yeah maybe I'll do some cleaning of the office a little bit to make some room for
+- **[6:32:07 AM] Andy**: floor space yeah I got my sleeping bags already out it was what I took with me to the uh right so I found that already but all my stuff is over there where the camping stuff is in the right it's really easy other than the cuts so our chairs are in the closet here sweetly bowing to you do do a booboo
+- **[7:29:21 AM] Andy**: There is a lot of Carbonara gochujang. activates flavor and vielener
+- **[7:50:52 AM] Andy**: There we go.
+- **[8:12:16 AM] Andrea**: a little bit of salt,
+- **[8:15:06 AM] Andrea**: I'm going to add a little bit of water to make sure it's not too thick.
+- **[8:15:27 AM] Andy**: if you're going to be able to do it but you're going to be able to do it.
+- **[8:34:05 AM] Andrea**: I'm going to add a little bit of water to make sure that the water is not too thick.
+- **[9:12:36 AM] Andy**: Alright I don't think I can adjust the Clod's meeting modes.
+- **[9:19:34 AM] Andy**: are being confused in the current file I'm working on. So when I infer Andrea's turns a lot of them are actually sunny also mixed up. And when I press the play button then there to listen, nothing goes. So I can't hear anything.
+- **[9:31:37 AM] Andrea**: if I can do it.
+- **[9:47:21 AM] Andrea**: a little bit more,
+- **[9:48:53 AM] Andy**: Okay so all this morning has been reviewing voice prints and hoping that it gets so good that I rarely need to do it because I'll focus on the unrecognized and then just briefly They look at the other ones to see if they're accurate and then I shouldn't have to do this as they've thrown too much except for like retreats and special meetings or things like
+- **[9:50:12 AM] Andrea**: top your headumbling
+- **[10:03:04 AM] Andrea**: just a little bit more,
+- **[10:17:23 AM] Andrea**: I'm going to put it in the middle of the room.
+- **[10:20:13 AM] Andrea**: I'm going to put it on the other side.
+- **[10:29:00 AM] Andrea**: What is the forecast for the next 10 days?
+- **[10:32:14 AM] Andy**: OK so now we have
+- **[10:34:34 AM] Andy**: I'll put this in the fridge and put it in the fridge. Let's make the last one registers.
+- **[10:35:48 AM] Andy**: Let's heat it up well
+- **[10:36:18 AM] Andy**: Hey Google is there a way for me to keep Hard boiled eggs is for a week If I am going camping.
+- **[10:36:58 AM] Andy**: To keep hard boiled eggs safe for a week while camping you must maintain a constant temperature of 40 degrees Fahrenheit or lower. The best method is to keep the eggs in their shelves and pack them in a high quality insulated cooler with plenty of ice or freezer packs. It is important to keep the cooler in the shade open it up in frequently as possible and ensure the eggs are not sitting in water as the ice melt. If you cannot maintain a temperature of 40 degrees Fahrenheit or below you should not consume hard boiled egg for that duration.
+- **[10:38:51 AM] Andy**: Let's just stay here. You missed it? 5. 5. 7. 8.
+- **[10:39:24 AM] Andrea**: 9. 9.
+- **[10:39:31 AM] Andy**: 10. 10.
+- **[10:42:18 AM] Andy**: Anyone else who has questions?
+- **[10:47:08 AM] Andy**: Remix with Blue Blue having a very difficult day and do do soothing her.
+- **[10:57:37 AM] Andy**: I'm going to put the
+- **[11:01:35 AM] Andrea**: Good side Duke uh,
+- **[11:02:32 AM] Andrea**: who's a doc car
+- **[11:02:41 AM] Andy**: We need to follow.
+- **[11:03:37 AM] Andrea**: You are. In any way so far it's a little rough.
+- **[11:04:22 AM] Andrea**: not a lot.
+- **[11:05:30 AM] Andy**: You decide to cut up.
+
+---
+
+## 🎙️ Session 2: 2026-09-09 11:25:57 (5h00m)
+- **Source File**: `2026-09-09 11_25_57.mp3`
+- **Audio ID**: `5cead813733e8d10aa334c23e72a1032`
+
+- **[00:00 - End] (Speaker / Group)**: - **[11:27:28 AM] Andy**: Ooooooh
+- **[11:27:58 AM] Andrea**: I'm going to have to go to the other side to see if I'm going to be able to get out of here.
+- **[1:40:35 PM] Andy**: So I haven't done partly anything today the tramp drilling and I'm preparing for the bidding quest. I have no reading really hopefully.
+- **[1:41:08 PM] Andrea**: I could get this.
+- **[1:41:11 PM] Andy**: Just follow the script but I want to be able to have some idea before I go into some of these things. So it's just partially what I have to do I think.
+- **[1:41:27 PM] Andy**: I'm going to have a little bit of water to make sure I don't get too much water in the water.
+- **[1:42:17 PM] Andy**: What is it?
+- **[1:44:17 PM] Andrea**: Sticks 2 concentration
+- **[1:44:47 PM] Andy**: Do bring it to me.
+- **[1:45:39 PM] Andy**: Hmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+- **[1:46:41 PM] Andrea**: a little bit of this,
+- **[1:48:59 PM] Andrea**: I'm going to have to go back to my room.
+- **[1:49:25 PM] Andy**: Let's make it!
+- **[2:10:25 PM] Andy**: Create an image of a desert rising up to a mountain rocky mountain with horses in the the background sagebrush using the following words.
+- **[2:38:44 PM] Andrea**: Let's see how this one grows. What do you have there?
+- **[2:38:54 PM] Andy**: We love the other.
+- **[2:53:42 PM] Andy**: the workers go to the game thing oh gosh yeah I would just go there and I would just trashed a giant so I was loving the eggs Oh good That's an idea Yeah Oh you sound great I know Don't bump into people Yeah that's what I do I do I go underneath the awning somewhere Yeah Oh you're in right field First you're okay third baseline well that's the sun gets there's more shade there as the There you go it's home.
+- **[2:54:50 PM] Andy**: Oh great.
+- **[2:55:01 PM] Andy**: Oh they are? What ending is it in? Oh games almost over. Okay well you sound great.
+- **[2:55:38 PM] Andy**: That's right I hope you're not going to be a Giants fan though But you know what you may not much have a choice Because there is no more age You have to be the lost Vegas age Yes going to be a Giants game But Oakland has a minor league team now I I forgot what they call them the ballers or whatever.
+- **[2:56:15 PM] Andy**: Oh how are you doing? Okay you sound great. Okay great.
+- **[2:56:31 PM] Andy**: Yeah so I. Okay Is any change in the date at all or saying Okay Okay I hope it's not a week before when I'm gone but I'll be right back Yeah Hold it in girl Hold it in Okay. Yeah 60 days would be actually perfect because that's the middle of November before I go on retreat is by a year or so Perfect. Do it for me girl Do it for me. Okay okay that's neat when speaking you know Oh that's great When are you going to stop working?
+- **[2:57:35 PM] Andy**: Oh okay so you're going to start a whole okay that's good You have some time up to it.
+- **[2:57:48 PM] Andy**: The curve yeah I mean that's all it cuz if somebody let me see it but you know early
+- **[2:58:08 PM] Andy**: Oh you see you forgot about me already damn you Yeah it always is I just got back from retreat and physically challenging I have my physical challenges No real piece will sit but I got a lot out of it and I'm continuing to hopefully build upon it So I think I have to continue doing what I'm doing I think. Getting up my back is deep one and then I have some neck issues so I changed my that was my major thing that's my neck issues so I've got I've changed the Hello and you know I'm always tweaking I have like five different setups you know? So yeah I'm always tweaking trends you know and I can do some weight, which I've lost you know just a pound here or there so not much.
+- **[2:59:26 PM] Andrea**: Yeah that's going to happen soon I really like the fall.
+- **[2:59:35 PM] Andy**: Football girl Football season So yeah Yeah I'm preparing I'm going to be the spiritual elder for this retreat so I'm preparing I mean we're going to vision class so I'm reading poems and trying to write things and you know get things studying up for it yeah so yeah that's what I'm doing today and then I got a political meeting and I got another meditation group meeting here shortly and so I'm just that's today and then two days yeah we leave Saturday morning so I'll be gone Saturday morning for a week okay well all right I love you so much thank you for calling me you're the light of my day all right Love you. Bye.
+- **[3:03:40 PM] Andy**: right there,
+- **[3:14:37 PM] Andrea**: Oh there!
+- **[3:14:57 PM] Andy**: Oh it's here. Haha. Today is your birthday. You're going to have a good time. Haha.
+- **[3:15:27 PM] Andy**: Oh boy. I don't want to go out there.
+- **[3:17:56 PM] Andy**: I'm working on doing my job it's going to be for the next week other than muscle trying to organize you know just my thoughts around when I want to share kind of thing. So yeah it's really neat what I'm doing I got a thing I've got here that I've already I'm going to share it with you just so you can look at it and know what you're talking about maybe. Great It's hard to make fun of super low strokes and then I get to see it until a little later. Well what if I bring it to you? Yeah I'm okay That's fine You can just throw it in the trash Whatever you want to do I'm not that I'm doing this just for me and you think she's too rough. never did that Well you might I mean you might do that but I'm not going to worry about it So it's like let's let's how you just info I'm not worried about it That's really not So it's really good stuff And yeah I'm not worried about it I know other
+- **[3:19:38 PM] Andy**: folks didn't necessarily go out of my way but like I said I don't want to be I want to feel kind of authentic what I'm doing here.
+- **[3:19:48 PM] Andrea**: So I don't have much memory I see that well why is Kevin taking yours?
+- **[3:20:03 PM] Andy**: I know but it's okay.
+- **[4:03:49 PM] Andrea**: Hello Lucky?
+- **[4:04:09 PM] Andy**: Hey Andy. Hello Lucky Hey Andy You got me No I understand this is a transition time for many folks so that was going to be happening. I am I'm actually no will for quite a long time And we've been working together on various things related to you know mindfulness meditation et cetera So he was I just want to talk to me about it and encourage me to participate and read a group you know. So I've been doing this for about you know it's like 15 maybe 16 years on my own. And so I just wanted to to me it's very helpful for folks. So I just want to you know carry it forth as best I can. Yes.
+- **[4:06:03 PM] Andy**: I don't have a problem with zoom at all. I'm an advanced zoomer and if there's any I just need to be able to get the I don't, you know I'm now a fixed income I don't really pay for anything that way so I need a you know some access to some method of being able to hold the meeting where they don't show it down after 40 minutes and they call that kind of stuff. And then I'll have some other things. I have to figure out like I've got a couple of cameras here and I've got a both-lap top that I can use because I've known that it is AV gear is actually in the over where the board table is and not Functional for a circle group So I'm going to bring a couple of cameras and I they don't have an owl I guess they took the owl over to the other site
+- **[4:06:55 PM] Andy**: So I don't have an owl or an access So I'm going to just to do my best to win it You know to get it going.
+- **[4:07:26 PM] Andy**: Yeah I'm going to have the other camera right now I'll figure a way to do it. I have some speakers I might also be able to use over there I don't want to fill out the whole thing with a bunch of equipment because that's kind of not the point in some So I'm going to show up early the first time and then they'll probably be some hiccups. So we'll have to be probably modified for the you know at the very beginning if I can't, I don't want to spend my time just worried about that for say And we can like I said, I can put like a speaker to it that everybody can hear if somebody talks and they won't be able to see that'll probably be the biggest thing I'll have to figure out how I mean they just won't be able to see so they'll have to hear
+- **[4:08:39 PM] Andy**: Yeah and now have a camera so they'll be able to see those folks on a view and that's what the owl will do would improve that and it's also a speaker so it would make that easier and so yeah I'm just going to have to wing it for a little bit I have I've been there so I was out and he actually has a large monitor in the back that everybody could see and there's a monitor that they can all turn to and look but we don't have that available at the other place so yeah yeah they got a different layout there yeah so it's okay it's the way it is so we'll have to figure we'll have to you know work with it that way and I'm okay with it I mean I mean I have to be with it there's really not much choice you know So you know no such thing as a roll-around monitor or anything like that is there?
+- **[4:10:12 PM] Andy**: I've never used a projector Is that something that maybe as you go there and see how that works out and then I could see maybe I could use that because at least if they could see people in the far end that would be really kind of nice.
+- **[4:10:39 PM] Andy**: Well no see another way I could do it is is become a remote site to that meaning turn that on and join the meeting separately from that site joining on You see I'm saying and then make myself a host Then that way you know I'm saying so then that's you know you have to do some two-step in there but it could be done and so yeah that's what I would want to come and show up maybe be a separate day and you know set that up and test it Which I'll be glad to do I'm going to be gone as the reason why I delayed until the the 24th I believe we talked about the first one is because I'm getting ready to go and be in a way from humanity for another week and a half So I'm going to be coming back that following Sunday before so I have to do something early in that week if I can.
+- **[4:11:46 PM] Andy**: Okay Ken who would I range to go and visit the space and have access to that if that happens you know when that? I think it's on Thursday Yeah it's on Thursday too.
+- **[4:12:07 PM] Andy**: Okay and I just need to know the schedule then to know when I could actually access it I guess.
+- **[4:12:22 PM] Andy**: Right that's right.
+- **[4:12:23 PM] Andrea**: Okay I'll ask him about that and ask him what kind of two-hour block I can get just to go in there before anybody else is and play around with it.
+- **[4:13:06 PM] Andy**: okay well maybe I'm the impetus for that you know where we can I can help with that like I said I have some background and I could help with that with you know with no problem.
+- **[4:13:49 PM] Andy**: Okay okay I'm looking Did you already add it?
+- **[4:13:58 PM] Andy**: I well what I'm doing is I'm going to the SCOM clubs where the list is to see if I, I've got you.
+- **[4:14:19 PM] Andy**: Yeah we just need to get him to make you know and all that so that he knows what that is of if it's a different length or not. I'm not sure.
+- **[4:14:32 PM] Andrea**: So I don't see where it was talking about so I think I saw it in the beginning. So I had some civic considerations for 12 meters.
+- **[4:15:10 PM] Andy**: Great.
+- **[4:15:14 PM] Andrea**: yeah great yep yep yeah, Oh okay got you That's weird Okay.
+- **[4:15:54 PM] Andy**: Okay Okay.
+- **[4:16:10 PM] Andrea**: no My company I had we had both Microsoft Teams and Zoom full accounts.
+- **[4:16:28 PM] Andy**: We had I've got like every name to mankind We were uh had them at our company. So I was an admin for my own account you know I got my own license and everything. So they had some admin set in this of course with some of the things. But yeah I'm fully you know fully competent and dealing with anything zoom wise that you guys have given us access for you know what I'm saying. So I have the desktop application. I just disconnected all my calendars and everything. But I still have the desktop app so it's really you know I have that. Yes I just call it zoom and then it's called zoom workplace and then they have the whole thing where they want you to be in their room environment and everything and like I said I have a lot my old log in and it's just limited to you know I don't have full access to
+- **[4:17:48 PM] Andy**: everything which is cool with me PC yeah there's got your they've got the little icon for you that you have you're available for you and it tells you with your green or not Yeah I have all that Yeah So you're going to give me a you're going to basically add me to your account is a is one of the users And And then that way I'll be able to yeah I'll be able to access it that way as I host. That's right. I am not sure at this time what I would normally do is if somebody reaches out to me then What I would do is normally you know since they have my e-mail or whatever what I would do is I would you could do that by joining the meeting and then you could click on and give them a link to the phone if need be unless you yeah unless you include that in
+- **[4:19:20 PM] Andy**: the link somehow you know.
+- **[4:19:22 PM] Andrea**: yeah you know we'll include it because one of the other things I'm planning
+- **[4:19:47 PM] Andy**: on doing is I'm thinking of having guest speakers who may be zooming in so if they have to use their phones sometimes then that's an option for us. So no problem.
+- **[4:20:27 PM] Andrea**: Yes.
+- **[4:20:40 PM] Andrea**: So at the end of the day I just want you to count the same things as currently in your account. So we don't want that.
+- **[4:21:08 PM] Andy**: Sparky Yes Sparky Flash Rebob Yep no problem And right now I'm not sure who that might be So I mean either my wife to do it or I might have will So we'll see how that works out So right now let me just get back to you when that happens Yeah.
+- **[4:22:27 PM] Andrea**: Gmail.
+- **[4:23:05 PM] Andy**: thing because sometimes it's browser-based so what I'll have to do is when I've first do that I'll do it with my laptop okay
+- **[4:23:57 PM] Andrea**: Yep yep.
+- **[4:24:29 PM] Andrea**: We're talking about this one a lot of events a lot of the audience that insert this text.
+- **[4:24:33 PM] Andy**: Yeah okay so it's that you want me to create template with it okay?
+- **[4:25:08 PM] Andy**: Oh GMO protects you. Okay when we get it then we'll have to if there's any issue then.
+- **[4:25:17 PM] Andrea**: We'll be in the first gen of A.U Mod we'll stay out for it.
+- **[4:25:40 PM] Andrea**: We'll be in the next round.
+- **[4:25:43 PM] Andy**: Uh-oh. Uh-oh.
+
+---
+
+## 🎙️ Session 3: 2026-09-09 16:25:58 (3h08m)
+- **Source File**: `2026-09-09 16_25_58.mp3`
+- **Audio ID**: `0a3cb94e06f210485a66b3badd42c2e5`
+
+- **[00:00 - End] (Speaker / Group)**: - **[4:27:48 PM] Andy**: Oh yeah I have one password so I yeah. They haven't been hacked. You never know.
+- **[4:29:28 PM] Andy**: okay I got it hold on so I'm gonna click on the host there's the clubs the thing there and then here's the meeting so okay so I'm gonna log out alright some log out here sign out okay now I'm gonna copy this just in foe home I'm just take a second. Come on come on. Take that one. And then do it. Move it over to the password. And then the password. Right now.
+- **[4:30:44 PM] Andy**: Okay now I'm looking for the one-time code now. Oh well okay I think it's here I got it come in here hold on it's gone Okay I believe I am in Hold on I am in And so I am good to go I'm going to save this information here And yeah so I'm good to go And then you're sending me another email stuff resume oh it's the same line got you okay I just I just saved it so it was unread so I could come back to it so yep I'm good you know I just eat the so I have the information I can just follow up with The will the oh okay so hold on a second so you're invited here is the text and clue with your email and your so okay right here the woman copy the and from the information from the meeting so I'm just going to copy it and here's the text including
+- **[4:32:46 PM] Andy**: your email to attendees. Okay so far I'm going to do this and I'm going to create an email so I was in an email I'm going to compose. Put on them just putting the phone on my ear. Okay hello. Lucky. I can't cap. I'll just create another list or if I get it I would do that. So one on let me copy your I have to yeah I'll I'll Okay well I'm adding you right now and I'm saying test zoom email and then I'll create,
+- **[4:34:12 PM] Andy**: I'll add you to it for the future okay? Not right now so I am above the send email right now. So I just send it.
+- **[4:34:42 PM] Andy**: I just copied exactly what you had in the thing. Here you got it
+- **[4:35:28 PM] Andy**: Great Wonderful and you got the phone I see the moment you've actually reduced it because normally They have a long string of stuff there so this should be simple enough not too hard.
+- **[4:35:47 PM] Andy**: no problem it's perfect. And the password is embedded so don't need the password when they click on the link and you're good to go. Yeah I just think what I want to do is see like I said I'm not going to be here I'm leaving we're leaving you know Saturday So I'll be here for over a week So I have to just get was well before I go and see if I can find out a time to go. a time to go and go to the site and test it yeah that's yeah that'd be great yeah that would be great yeah I'll let you know as soon as I arrange that also he has to put the link on the invite on the site so people know what's there That's great Yeah Not so bad Yeah Well it's nice meeting you and thank you for taking your time to do this and setting me up I'm really looking excited to be of service you know So Okay Wonderful Yeah Okay. All right you take care sir Have a good night Bye.
+- **[4:37:53 PM] Andy**: Okay so what I need to do.
+- **[4:38:05 PM] Andy**: I'm free so
+- **[4:41:20 PM] Lucky (ESCOM)**: Yes. Can you do it later I just want to get the email set up here.
+- **[4:44:16 PM] Andy**: Okay we've got you that you've got a few minutes before the big blue ha ha ha isn't Wednesday isn't this one they're having the uh oh wonder I can relax and look at that chicken
+- **[4:44:59 PM] Andrea**: yeah this feels so cool in here yes my office is
+- **[4:45:13 PM] Andrea**: Yeah well vote early and then some other news came not about there so it's gonna be back
+- **[4:45:40 PM] Andy**: and for it you may I'm going to figure out what we're going to do if I see it to walk in a balance I'm afraid they're going to tell you the problem with your signature Yeah I'm getting old. It's me.
+- **[4:46:04 PM] Andrea**: Good day. This is my first run in class. You know right now. It's just that. It is dancing up and down. I'm very calm on the outside setting side of the team.
+- **[4:46:35 PM] Andy**: Did you like my modification the booboo and doodoo this morning?
+- **[4:46:41 PM] Andrea**: You didn't see it?
+- **[4:46:43 PM] Andy**: I thought you would have been thrilled. No text to you. Oh my gosh. Oh I was stuck it up so she could go. Need us that one afterward with you jumping up in the air. All right yeah.
+- **[4:47:05 PM] Andrea**: Yes. I looked up to you.
+- **[4:47:08 PM] Andy**: Did that one? I did. This was the same thing I did before. Did you do a variation of this where I'm consoling her? I did. I did like that one. And did you see my quote?
+- **[4:47:22 PM] Andrea**: Yes.
+- **[4:47:23 PM] Andy**: Did I did? I was when I saw that I'm like, and then he posted one twice in the group that Tony's. No I did mine twice but I thought I deleted it before I did because it had a line in there that I didn't want to include it in it. But it's fine there's didn't there.
+- **[4:47:42 PM] Andrea**: You've done me the ones from Tony and you've done George. He's seen as a group.
+- **[4:47:49 PM] Andy**: Yeah but I deleted it So I'm missing. See I'm going to see one.
+- **[4:48:05 PM] Andy**: So for some reason maybe you're on hot potato. Yeah So this is neat when I was doing my report. It found a quote from me. Because if I'm not I had written back on my fourth vision quest that's down here. This is why I'm trying to collect stuff you know. I spend a lot of time with eggs trying to teach my integrally things. I recognize your voice you all women what? Mandy you sonny just does not recognize it. I think that's not how to teach it. So it's between you and me because I mean you don't.
+- **[4:49:14 PM] Andy**: You don't face him much.
+- **[4:49:15 PM] Andrea**: I was super polite I was super powers he's made him say I'd be sick.
+- **[4:49:21 PM] Andy**: Well you want to be heard right? That would nitpick you off. And you have all the women by people.
+- **[4:49:34 PM] Andy**: So we have different vocal ranges. So it's science it has nothing to do with the AI. It's turning to him in voice but they narrow it down so that they get the essence of you know the language so it's a slight variation.
+- **[4:50:02 PM] Andy**: Oh I have a joint. The key. The global patriarchy at work. See it got you mad now. No but what I'm doing is guess what? So now for you just for you you get three different invoice in print. Not one three so we can identify you.
+- **[4:50:30 PM] Andrea**: The other issue is that you're a little away distant so that compounds it.
+- **[4:50:42 PM] Andy**: So what do you have to do to check your voice increase the volume tweak it that's Andrea. What if I take a bow and silence at home?
+- **[4:51:02 PM] Andrea**: Sure well go ahead and do it.
+- **[4:51:11 PM] Andy**: The boarding life but don't get the AI get moving get you.
+- **[4:51:18 PM] Andrea**: Not me.
+- **[4:51:20 PM] Andy**: Well they're all hanging out.
+- **[4:51:24 PM] Andrea**: We have enough of this stuff for tomorrow. We have new followers who we do have corn.
+- **[4:51:36 PM] Andy**: Okay there it is.
+- **[4:51:39 PM] Andrea**: And there's some less of a solid from the other day. Okay we'll do that.
+- **[4:51:51 PM] Andy**: I'm going to get a whole chicken and break it up but this is better I think. I have to go cut it out very tight and if I just use these I'll just pull them apart.
+- **[4:52:46 PM] Andrea**: So that was the S-com thing got my zoom account for S-com so good I'm going to follow
+- **[4:53:11 PM] Andy**: a bit give back from the vision quest for them seeing if I kind of line up you know,
+- **[4:53:25 PM] Andrea**: guest teachers for speakers so we decided about that and we'll see how we can get
+- **[4:53:42 PM] Andy**: I think that would bring in people who would like to get Jack Clemphale to do it and have be awesome and be overflowing with people great advertising for us Tom.
+- **[4:54:15 PM] Andrea**: And hopefully it's a great story by Jack.
+- **[4:54:24 PM] Andy**: I can't wait. I wonder what again transcript over 40 for that.
+- **[4:54:30 PM] Andrea**: They're not on there yet.
+- **[4:54:34 PM] Andy**: I'm really like me I have to put them on your arm so that's good for them I am seen
+- **[4:54:51 PM] Andrea**: I'm putting their talks on Dermotene but I'm not scared of rockers. But if you pull the story out of the blue you've got an email from your craniums.
+- **[4:55:19 PM] Andy**: We're going to do this 60,000 100,000 people festival far away from the Russian border. They want him to give like an invocation or a little he's going to be there in person to speak for a crowd a concert crowd about compassion love, I know kindness man. Awesome. And he accepted. Well he didn't play the way he don't score. He was really perfect. He didn't know if he was going to go or not. But if I accepted,
+- **[4:56:04 PM] Andy**: so next month or whatever.
+- **[4:56:08 PM] Andrea**: Awesome. This is still a little dry. The guy and the kid that boxed my food in the bag put tape on this and it's one of It goes far it's not waterproof it's pretty easy and I try it now.
+- **[4:57:34 PM] Andrea**: Thanks so much! I'm so sorry.
+- **[4:58:28 PM] Andrea**: I'm going to do a little bit of the same thing. Yeah I did everything. I'm going to do the same thing. I'm going to do the first and my way.
+- **[4:58:46 PM] Andy**: And then when the voice match you doing for a while,
+- **[4:58:51 PM] Andrea**: I do the same thing too. If I could set this up and have the port to be more accurate it's been much much
+- **[4:59:04 PM] Andy**: time on it.
+- **[4:59:05 PM] Andrea**: It's great. I have to buy a toilet there. You want?
+- **[4:59:36 PM] Andy**: Oh please I didn't have any netting this morning when I met a day in so let's do a little bit from there but it may take a couple of days for it to dry down and then we're going out there so I can be tested again.
+- **[4:59:55 PM] Andrea**: You can't be helped. I wish I had gotten a candy pot if he didn't I wish I had gotten a candy pot if he
+- **[5:00:30 PM] Andy**: It begins to get
+- **[5:00:35 PM] Andrea**: last step you must do up. Yeah well I was worried about herself this way. Were you precise in time? Oh no where there's it. He当ed with white. Yeah chicken's done. I'm going to get out of here.
+- **[5:01:51 PM] Andrea**: I'm not sure whether I asked him the time it was. It was very difficult to hear anything that was left off as cool.
+- **[5:02:39 PM] Andrea**: Good night.
+- **[5:03:33 PM] Andy**: why I got that alert it's like I'm just put by black. Yeah but did you see that it added It showed how much the effect is? It's the tension Yeah Right now already.
+- **[5:04:09 PM] Andrea**: It's pretty super high when it goes over it.
+- **[5:04:18 PM] Andy**: Well we'll see. This is that.
+- **[5:04:20 PM] Andrea**: Yes come on. Take a look.
+- **[5:04:31 PM] Andy**: I know it's just a little time to be so here.
+- **[5:04:38 PM] Andrea**: Yeah because I was with this type of people too.
+- **[5:04:43 PM] Andy**: So that's my my my AI friend. I'm happy I'm doing it. Two screens of mine came out. Big old red screen. And then the email it's like Jesus Christ. Did you get an email? It did. You got a text Sue? Wonderful. Oh I did now.
+- **[5:05:15 PM] Andy**: Awesome And I wrote that which is really impressive in here I saw that I make sure I could see it because I was like going through the testing and it's like I can't see it. Make it bigger. So where's that?
+- **[5:05:49 PM] Andy**: This is a fry too because in September it's not November.
+- **[5:06:00 PM] Andy**: Yeah I'm worried. Let's talk some other programs let's talk about make blurry through there because they've talked about the times when it's come back and the way humans see what they say oh this is a one time of being No the whole California Valley is one big freaking lake What are you talking about That's why Sacramento all those dikes and things like that Oh man it's fucked up. Come on I mean it's like everywhere Stockton all those places have done the same thing.
+- **[5:06:54 PM] Andrea**: And to Larry is only dealing with the Southern California the San Joaquin Valley part the lower part not the upper part but the Lake
+- **[5:07:10 PM] Andy**: Tlairi was ready Oh look at the red he was. Can you imagine they took all that water by the 1860s?
+- **[5:07:26 PM] Andrea**: Oh that water was done.
+- **[5:07:40 PM] Andrea**: Don't be alarmed if you see I've sandbagged the whole bottom floor I'm just gonna do the
+- **[5:08:00 PM] Andy**: walkway up to I want to keep it away from the below the planners right and can't go So when you go any further and right here where this concrete is it goes higher than that.
+- **[5:08:14 PM] Andrea**: It's going to get in the house. Which is what I'm concerned about. I'm not worried about cars We can move those. Since we have a
+- **[5:08:26 PM] Andy**: Since we have a very nice meeting with him.
+- **[5:08:41 PM] Andrea**: There he is. Thank you.
+- **[5:08:56 PM] Andrea**: You do I feel like you want to go to TV with me.
+- **[5:09:02 PM] Andy**: Ah sure.
+- **[5:09:04 PM] Andrea**: You do I feel like you want to TV with me.
+- **[5:09:07 PM] Andy**: Ah sure. You do I feel like you want to TV with me. Ah sure.
+- **[5:09:16 PM] Andy**: I need to run the TV you want to fly. Bobo's gonna whack me! That's mean! I did so kind of hard to see! I'm so wacky!
+- **[5:09:49 PM] Andrea**: I don't feel like seeing someone argumentable other Briton music or something like that, That's the reason even I'm happy we're going in kind of crabby.
+- **[5:10:32 PM] Andy**: I should get it done. Some of the other ones.
+- **[5:10:44 PM] Andrea**: You got a little weight on it I can do both.
+- **[5:10:48 PM] Andy**: I'm just warm in the water I think. Okay if you want. It's not hard. Who brought this? Don't look at me.
+- **[5:11:01 PM] Andrea**: Jeez.
+- **[5:11:06 PM] Andy**: Okay Ouch Yeah That's the one thing I got to watch out for.
+- **[5:17:13 PM] Andrea**: I'm going to have to go to the bathroom to see if there's anything I can do to make sure I don't have to go to the bathroom.
+- **[5:19:03 PM] Andrea**: Oh geez!
+- **[5:19:48 PM] Andrea**: haha
+- **[5:20:18 PM] Andrea**: I'm not sure if I can do it.
+- **[5:20:54 PM] Andy**: Awesome.
+- **[5:21:03 PM] Andrea**: HA HA. I love that singing wheel.
+- **[5:21:14 PM] Andy**: Oh Kira is killing me. Oh I love that one. At first I thought that was a somebody bending over and then showing their butt. At first I thought I saw that was somebody bending over bending their butt.
+- **[5:22:36 PM] Andy**: Shearing love
+- **[5:22:50 PM] Andy**: I hope you like it Now that's the saying we couldn't coin
+- **[5:23:36 PM] Andy**: What's better you did number two? No I put a red cloth on my iPad.
+- **[5:24:19 PM] Andy**: For hugging I might take my flat one I'm just looking, Ooh I saw a very powerful speaker yesterday. It was a professor I was at a lecture at San Jose City College. Some professor he was talking about the history of racism. He was slamming Maga Boy. He was talking about how white was graded. It was basically Europeans. were killing He said this way He says before whiteness was born Europeans were killing each other all over the place France were killing the English were killing the Irish Everybody hated the Germans And he just talked about the whole thing of
+- **[5:25:34 PM] Andy**: it used to happen And then the colonizers decided that and the white people, The rich white people decided that they needed a way to control everything. So they created the used poor white people against poor black and brown people. And then that's been how the whole white thing got created. It's been basically perpetuated for all this time so they can keep their money Right that's what the Civil War is about.
+- **[5:26:28 PM] Andy**: This food supports all passenger. Can I look real quick and see what it is?
+- **[5:26:40 PM] Andy**: He was studying how insulin works in the liver and he needed a boring control enzyme to measure it. He picked acid possible mostly because he didn't care about it. Then the numbers came back impossible. He split liver tissue into fractions measured each one, and the pieces added up to more enzyme activity than the whole tissue he started with, like pouring one cup of water into five glasses and getting six cups back. It was nearly a week ago so he put the tubes in the refrigerator and went home. Five days later he ran the same test on the same sample. The activity had climbed again on its own in the cold with nobody touching it. That failed experiment for the Nobel Prize.
+- **[5:27:21 PM] Andy**: It also set up a second scientist working alone in Tokyo 40 years later, to explain the whole thing at the level of genius. At the end of their story since one group you can buy at any American grocery store, first restore. Pomegranate. There's also a catch hiding in your own gut that decides whether it does anything for you and all against that. The Belgian was Christian the Duke and what he worked out from those refrigerated tubes was strange. The enzyme was never inactive.
+- **[5:27:52 PM] Andy**: It was locked up sealed inside a tiny bag with a membrane around unable to reach anything until that bad tour of the group reasing a thorn toward them. So did Lenin slip for killing the rest of them when he sailed. That's why the numbers kept climbing in the bridge. He had found a new part of the cell. He named it the lysosome. Now here's the detail that still gets me. To do never actually saw a lysosome. His laboratory did not own a microscope. He worked out the existence of an entire cellular structure
+- **[5:28:23 PM] Andy**: by spinning tissue in a centrifuge and doing a rhythmic take on what came out. When he accepted the Nobel Prize in Physiology or Medicine in 1974, a highly lectured exploring cell with a central community, a visiting colleague from New York had to come take the first photographs of what he had already described. So what were these bags doing? By 1963 answer was clear about it. Cells were using them to digest their only worn-out bugs. Did you do any work for that?
+- **[5:28:52 PM] Andy**: That's really good Recycling. In several terms biology still uses endocytosis and exocytosis. One of them was a topical self-eating naming it matter-moving in its sounds. For that this was a scattered pile of odd observations nobody would have connected. I think that's what the citadel starts does it? It's easier. Which is going to apply for maintenance. And you're good. What did you could not give it as a mechanism? Which genes ran it?
+- **[5:29:19 PM] Andy**: That question sat almost untouched for close to 30 years. just forward to 1988 Tokyo. Yoshinori Osoomi was 43 and had just been handed his own laboratory for the first time. Say for a second 43. Most of his peers had been running last for 10 years while he worked on other people's questions. When he finally got to pick his own he chose unfashionable ground on purpose. He had said his motivation was doing something nobody else was doing. So he went after the yeast vacuole the compartment that does the same job our lysosomes do. At the time it was written off as a garbage bag. He had one enormous problem.
+- **[5:29:59 PM] Andy**: Knees and cells are tiny and their inside looked like a smear under a light microscope. Oh soon he wasn't even sure on top of you happened. So he built a trap and this is my favorite experiment in modern biology. He used new yeast missing the digestive enzymes inside the vacuole. His reasoning if these cells were dumping garbage into the vacuole and nothing in their contredit the garbage would pile up. A pile is much easier to see than a single particle. Then he started them because starvation was already known to trigger this in animal cells. Yes fasting.
+- **[5:30:34 PM] Andy**: It works. Within about an hour the vacuoles filled with tiny wobble of blobs bouncing around like debris in a snow globe. He was watching a top of you happen live in a living cell for the first time. He published that in 1992. Within a year his team had screened thousands of news and pulled out 15 genes essential to the process now called the ATG genes. In 2016 Osoomi received a Nobel Prize in physiology or medicine with no co-recipients for discovering the mechanisms of a top of you. So where does dinner come into this?
+- **[5:31:11 PM] Andy**: There's a specific flavor of autophagy called mitophagy. It targets your mitochondria the structures that turn food and oxygen into usable energy. Making energy produces reactive byproducts that damage the same machinery producing them. So over the years you accumulate mitocondria that are still there still taking up space, and running badly. My topogy tags those sphaley units for removing them so better ones can take over. One compound has more human-clinical trial evidence behind it for switching on mitophagy than almost anything else you can name. It's called uralithin A Quick question. Which food contains uralithin A None of them.
+- **[5:31:52 PM] Andy**: Not a single one on the plane. You cannot buy it. You cannot grow it. No plant on earth makes it. uralithin A is what researchers call a postbiotic. Your gut bacteria make it inside out of raw material to make it. raw material is a family of large polyphenols called elagitannins. Polyphenols. And just common food sources pomegranate. Pomegranate carries an elagitannin called pomegranate.
+- **[5:32:16 PM] Andy**: Our boil. Which happens to be the largest and molecular weight polyphenol currently known to science. It's a huge molecule. Far too big to cross your intestinal wall of one piece. It never enters your bloodstream intact. So the chain runs like this. You meet pomegranate. the collagen reaches your colon mostly unabsorbed and gets broken into a lactic acid Then specific gut bacteria including gourdly bacteria cellulose bacteria convert that into your lip and A.
+- **[5:32:44 PM] Andy**: Only then is it absorbed and only then does it reach your muscle cells. Your body does not make this compound The bacteria renting space inside you make it Which leads to the obvious question, what if you don't have those bacteria This is the most useful thing in this video and it gets left out of almost every pomegranate video on YouTube. Researchers sort people into urolythin metabolic types based on what their gut actually does with alleged handles. About 40% of people are efficient producers. They have the right bacterial species and when they eat pomegranate or walnuts urolythin eggs shows up in their blood.
+- **[5:33:21 PM] Andy**: About 30% produce some but it levels too low to matter. And about 30% produce essentially none. They can keep pomegranate daily for a year and generate almost nothing because the converting bacteria aren't there in meaningful numbers. Think about what that does to research. For years clinical results on pomegranate polyphenols came back inconsistent and nobody could explain why. Many of those trials were quietly mixing producers and non-producers together which smears any real signal intervals. Here's a number that makes it concrete.
+- **[5:33:55 PM] Andy**: In a four-month randomized trial in middle-aged adults researchers measured uralithin-A in participants' blood before anything started only about 15% had any detectable uralithin-A at baseline. What did those trials show? In that study published in Cell Reports Medicine in 2022 88 overweight sedentary adults aged 40 to 64 took placebo or 500 or 1,000 milligrams on uralivine A daily for four months with no added exercise. Hamstring strength improved significantly at both doses roughly 12% over placebo. A separate trial in JAMA Network Open tested 1,000 milligrams in adults aged 65 to 90 in Seattle, and I'd rather you hear this straight. The primary outcomes missed.
+- **[5:34:46 PM] Andy**: Six-minute walk distance and hand muscle ATP production did not beat placebo. Muscle endurance and blood markers of mitochondrial health did include real effects modest size, reported honestly by the researchers. Let's get practical starting with the mistake, because it's a big one. Monicologic is barely in the airless. It's not really in those red jewels to school these year now.
+- **[5:35:11 PM] Andy**: It's concentrated in the peel and the white picky membrane. The part's everyone throws in the trash. The peel is about half the fruit's weight and holds most of the polypinos. That has a consequence you can use today. Olive oil shows it. Hands squeezed from arrows alone contains very little pubic allagium. Commercial juice pressed from the whole fruit, peel included is a different product.
+- **[5:35:33 PM] Andy**: With pubic allagium commonly measured between 1,500 and 1,900 milligrams per meter. In this one case the industrial version is the stronger source I don't get to say that often So in your kitchen eat the arrows for the fiber vitamin C potassium and anthocyanides and treat half a cup as a serving For the elagitannins look for juice pressed from whole fruit labeled 100% pomegranate juice no added sugar not a blend 4 to 8 ounces is plenty and treat it as
+- **[5:36:51 PM] Andy**: Ronan!
+- **[5:39:17 PM] Andy**: Blueberries. Oh absence of food. It's fasting.
+- **[5:40:09 PM] Andy**: Glad I ran into that. Trump says firefighters carried him from ground zero oh my god did you hear that that Trump has having them renaming lakes all around the country and Google is doing it because they say they have no world choice They need his you know support I was like I wish I could freaking Oh my gosh.
+- **[5:40:59 PM] Andy**: It's crazy Anyway I'm glad I ran into that one Yeah,
+- **[5:42:05 PM] Andy**: That's why I think that we're at this transition now see?
+- **[5:42:35 PM] Andy**: There's no way to get back.
+- **[5:45:45 PM] Andy**: She needs to tell him what she knows.
+- **[5:46:24 PM] Andy**: It's not working.
+- **[5:49:05 PM] Andy**: Oh this is great.
+- **[5:50:13 PM] Andy**: Ooh.
+- **[5:50:23 PM] Andy**: Very nice.
+- **[5:52:21 PM] Andy**: Edible cups Nice.
+- **[5:52:46 PM] Andy**: The Obama building. Trump's probably is doing it in his grave he won't see this.
+- **[5:59:39 PM] Andy**: There you go. She's gone.
+- **[5:59:43 PM] Andrea**: Where is it now?
+- **[6:00:44 PM] Andy**: Goodbye. It looks awesome. We couldn't go anywhere without them.
+- **[6:01:03 PM] Andy**: What if they lived to 200? And I hope they do.
+- **[6:02:10 PM] Andy**: Wish you really loved that dude
+- **[6:03:32 PM] Andy**: Oh boy.
+- **[6:06:11 PM] Andy**: We're on the gallery yet.
+- **[6:06:28 PM] Andy**: It's a big persona.
+- **[6:11:01 PM] Andy**: So mom yeah but he's a disappointment to the mom okay sing her again.
+- **[6:12:42 PM] Andy**: Take care of that That's a nice thing You know he knows all about her
+- **[6:14:45 PM] Andy**: Oh it's a threat.
+- **[6:14:53 PM] Andy**: Well she has to get a court order for that. Unless Trump was around there,
+- **[6:15:05 PM] Andy**: Yeah so he can leave. He's getting too high. It's getting too high. Okay get out of the way.
+- **[6:17:40 PM] Andy**: the one dude that he got what a bastard. And he got him super drunk.
+- **[6:18:04 PM] Andy**: though he's covering his ass. What a bastard.
+- **[6:18:51 PM] Andy**: What a bastard!
+- **[6:18:59 PM] Andy**: There was a train. I didn't notice it before.
+- **[6:22:34 PM] Andy**: Is it concrete on the floor?
+- **[6:22:41 PM] Andy**: here concrete on the floor
+- **[6:23:41 PM] Andy**: Go to the bar does he know me?
+- **[6:24:01 PM] Andy**: Yes this and I know you. What are you drinking What's going on?
+- **[6:24:23 PM] Andy**: So last couple of episodes is going to be uh So the last couple episodes is going to be
+- **[6:26:31 PM] Andy**: Oh I already texted Mason.
+- **[6:27:04 PM] Andy**: You didn't get to get a gun. Showing somebody.
+- **[6:27:46 PM] Andrea**: Uh yeah.
+- **[6:29:10 PM] Andy**: Smart he's gonna have to confront him
+- **[6:30:37 PM] Andy**: Wrong way. The other way.
+- **[6:30:57 PM] Andy**: nine episodes to get down to here for eight episodes.
+- **[6:31:11 PM] Andy**: Seven episodes to get here.
+- **[6:31:19 PM] Andy**: Some interesting. read more of these before okay you're gonna say you want to watch another one okay we can I know you we remember we're talking about two seasons of these things it's not like we have one season that's it we've got 13 episodes okay 11 12 and 13 are gonna are out so we have six more to go So I'm trying to plan to see your head. That's an arbitrary three. Well thanks season one.
+- **[6:32:35 PM] Andy**: Sweetie we could watch another one if you'd like I'm not going to deny you of your urges
+- **[6:32:51 PM] Andy**: Okay you heard me. Okay fine You got it.
+- **[6:33:04 PM] Andy**: I've been going to watch more than one.
+- **[6:33:13 PM] Andy**: No I guess not.
+- **[6:36:20 PM] Andrea**: That would be unfair.
+- **[6:36:33 PM] Andy**: Right there. Season finale. Episode nine. So that's cool We'll watch it tomorrow We'll have a nice relaxing evening on
+- **[6:39:26 PM] Andy**: You can't I'm
+- **[6:43:19 PM] Andy**: Fuck
+- **[6:44:15 PM] Andy**: That one No that's the mean one there. The mean one is no. He's the nice one You could tell by their faces. That guy's a mean one He's a killer See We have different ways of looking at him See?
+- **[6:45:32 PM] Andy**: So the sweater is a good way you think so who are these two following each other are the three of them?
+- **[6:45:44 PM] Andy**: It could be mold
+- **[6:45:53 PM] Andy**: But this is the ones the nice guy also these two are eating oh my gosh Four four He killed one of them.
+- **[6:53:35 PM] Andy**: Oh God five husbands!
+- **[6:53:50 PM] Andy**: Hey buddy. You're a vagrant.
+- **[6:55:01 PM] Andy**: I'm on D1 and on D2.
+- **[6:55:21 PM] Andy**: Did you talk to Andy C347 about that?
+- **[6:55:59 PM] Andy**: Without my permission?
+- **[6:56:10 PM] Andy**: Without consulting me no? Geez! You have your own life or something? You got off to the spare rock and now you're full of pieces in there. I even thought I was at I've had like three different times I wanted to talk to you about something that's come up that I had. So was it it was James or Howie they started up bringing up all these reminders I have on the 5 oh James Ross brought up the 5 recollections and they have every day to come up on my watch the 4 right strivings so they were talking about these things like I have I have another one they don't look at that nobody talks about that I have but it was funny.
+- **[6:57:16 PM] Andy**: It's like I have these every day I get these I just say complete but you know the one about old age,
+- **[6:57:35 PM] Andy**: He's this one smokes his car sweetie we've seen them smoke us a guard
+- **[6:58:29 PM] Andy**: Yes.
+- **[6:58:35 PM] Andy**: What is he doing this for?
+- **[6:59:36 PM] Andy**: He's safe.
+- **[7:05:08 PM] Andy**: Trying to avoid the guy.
+- **[7:06:59 PM] Andy**: You're all right it's beautiful.
+- **[7:07:45 PM] Andy**: And he stood there. And then we've got a bad leg it's going to kill him too.
+- **[7:09:34 PM] Andy**: to be in the news that he died.
+- **[7:10:26 PM] Andy**: He almost has no choice.
+- **[7:11:00 PM] Andy**: He thinks he's got a flat.
+- **[7:12:31 PM] Andy**: Thank you.
+- **[7:12:49 PM] Andy**: Oh he's going to tell her.
+- **[7:14:45 PM] Andy**: Ha That was a good one.
+- **[7:20:30 PM] Andy**: Ah He came!
+- **[7:21:33 PM] Andy**: Run!
+- **[7:22:11 PM] Andy**: over her now. it's a wrong line out.
+- **[7:24:25 PM] Andy**: Now there's going to be a hundred in this season on next to next year. which one Jason one which one one A one B one C which one did you like about of them Well there's what there's a A B and C Okay we got a stop We do So two o'clock
+- **[7:25:33 PM] Andy**: ecological change.
+- **[7:25:58 PM] Andy**: A record short-term heavy rain alert was also issues across I.G. Rick and A.
+- **[7:26:08 PM] Andy**: Oh my gosh.
+- **[7:26:37 PM] Andy**: Oh my gosh almost to the top of the rail.
+- **[7:26:47 PM] Andy**: And that's a street.
+- **[7:26:57 PM] Andy**: Yeah from water down below. That's can't it's like our manhole here.
+- **[7:27:11 PM] Andy**: Jeez!
+- **[7:29:44 PM] Andy**: Well whose date are you following?
+- **[7:29:54 PM] Andy**: You can ignore my alert my statistician thing that says six inches above that. Yeah but six of five is okay for us sweetie. Seven we'd have to worry. So I wouldn't worry about it, so he could go out there and look.
+- **[7:30:27 PM] Andy**: Okay I'm gonna get into my science fiction and stuff stuff.
+
+---
