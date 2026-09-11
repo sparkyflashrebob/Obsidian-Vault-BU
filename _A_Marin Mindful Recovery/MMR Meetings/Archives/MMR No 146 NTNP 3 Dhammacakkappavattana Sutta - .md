@@ -5,7 +5,7 @@ Subject: Dhammacakkappavattana Sutta, 4 Noble Truths
 tag: 4_Noble_Truths, wheel of dhamma
 ---
 Last week began with a more detailed review of the [[_A_My Research/_Buddhism/_Dharma Subjects and Themes/Suttas 1/Dhammacakkapavattana Sutta]]:
-Emphasis on exploring [[_A_My Research/_Buddhism/_Dharma Subjects and Themes/Middle Way 1/The Middle Way]]
+Emphasis on exploring [[_unsorted from computer/Ebooks/Unknown/attitude (798)/Dharma Subjects and Themes/Middle Way/The Middle Way]]
 	The Setting 
 		7 weeks after his enlightenment
 		the Buddha goes to the [[bhikkhus of the group of five]]
@@ -18,7 +18,7 @@ Emphasis on exploring [[_A_My Research/_Buddhism/_Dharma Subjects and Themes/Mid
 		reflecting on a meditation where he experienced profound peace as a boy
 		gave up acseticism 
 		
-This where where we left off as we had an extensive discuss of what the Buddha called [[_A_My Research/_Buddhism/_Dharma Subjects and Themes/Middle Way 1/The Middle Way]] or [[The Middle Path]]
+This where where we left off as we had an extensive discuss of what the Buddha called [[_unsorted from computer/Ebooks/Unknown/attitude (798)/Dharma Subjects and Themes/Middle Way/The Middle Way]] or [[The Middle Path]]
 	suggested that any spiritual seeker should 
 		avoid the extremes of 
 			the pursuit of sensual pleasures 

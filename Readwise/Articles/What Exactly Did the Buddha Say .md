@@ -31,3 +31,4 @@
 - Agama ([View Highlight](https://read.readwise.io/read/01h1r3ngc8c44zqvh17dk7kqdq))
 - “that which has come down” ([View Highlight](https://read.readwise.io/read/01h1r3nj47ajda026j3q20zwyy))
 - Fourth Buddhist Council ([View Highlight](https://read.readwise.io/read/01h1r3pe6ctkmdqcxt3630f9ss))
+- The Pali Canon is probably the most complete set of Buddha’s teachings that we have today and most of its content is now available in English ([View Highlight](https://read.readwise.io/read/01h1r3g1beexn867m7gv2mqdx1))

@@ -3,7 +3,7 @@ tags:
 - mmr-topics
 ---
 
-See [[_A_Marin Mindful Recovery/Topics]]
+See [[_A_My Work/_A_My Teaching/_B_Marin Mindful Recovery/Topics]]
 - Old Clouds TNH Passages
 - Removing Negativity
 - [[Anica Anatta Dukkha]]

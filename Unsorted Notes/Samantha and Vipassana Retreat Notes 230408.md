@@ -1,3 +1,6 @@
+---
+Created: 2023-04-08
+---
 So starting out pre-retreat with a headache congestion sore throat not very good shape back hurting knees tender perfect for the start of a very treat
 
 Another pre retreat thought was with terms of tasking and doing so generally I'm not looking for so much to do especially in my home life a very lazy with that not brushing my teeth like I should blah blah blah blah blah

@@ -1,5 +1,6 @@
 ---
 Meeting: Revielle In the Clouds Sun 7AM
+Created: 2023-03-12
 ---
 Used the God over and over inserting even where it was not i.e. "him"
 Section 6 The Joy of Living

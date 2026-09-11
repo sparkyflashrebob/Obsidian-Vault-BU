@@ -1,5 +1,6 @@
 ---
 tag: powerofawareness, core principles
+Created: 2023-03-14
 ---
 Step out of Judgement of ourselves and others (see Start Where You Are)
 Step out of reactivity

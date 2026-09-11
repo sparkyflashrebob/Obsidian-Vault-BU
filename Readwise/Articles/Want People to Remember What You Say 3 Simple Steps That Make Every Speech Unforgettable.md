@@ -120,3 +120,4 @@
 - [people will start to believe even an obviously untrue statement if they hear it repeated enough times](https://bigthink.com/neuropsych/repetition-lie-truth-propaganda/). ([View Highlight](https://read.readwise.io/read/01gtr60dtwnny8ejvv7h88pka5))
 - spaced repetition ([View Highlight](https://read.readwise.io/read/01gtr60pjy7xrpam9kpbzghqxj))
 - -[make a genuine connection with your audience](https://www.inc.com/minda-zetlin/want-people-to-remember-what-you-say-it-all-comes-down-to-1-simple-rule.html). ([View Highlight](https://read.readwise.io/read/01gtr61hwsaca55n27h8hv64dj))
+- -[make a genuine connection with your audience](https://www.inc.com/minda-zetlin/want-people-to-remember-what-you-say-it-all-comes-down-to-1-simple-rule.html). ([View Highlight](https://read.readwise.io/read/01gtr61hwsaca55n27h8hv64dj))**

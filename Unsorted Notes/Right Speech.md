@@ -1,3 +1,6 @@
+---
+Created: 2023-05-06
+---
 Abandoning false speech, he abstains from false speech. He speaks the truth, holds to the truth, is firm, reliable, no deceiver of the world. ([View Highlight](https://read.readwise.io/read/01gzsb4xbv20rv79kbx68gavrs))
 - "Abandoning divisive speech he abstains from divisive speech. ([View Highlight](https://read.readwise.io/read/01gzsb52g7kpkf5xd2c57zk4tt))
 - "Abandoning abusive speech, he abstains from abusive speech. ([View Highlight](https://read.readwise.io/read/01gzsb55reveez9sde6t7g4xvn))

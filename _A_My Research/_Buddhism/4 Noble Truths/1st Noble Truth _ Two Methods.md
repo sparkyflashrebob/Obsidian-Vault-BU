@@ -82,4 +82,4 @@ Things That Can Be Put Together - refers to conditioned phenomena but specific t
 
 
 
-![[The Five Aggregates.png]]
+![](../attachment/84fbb51a283365e8d01dd422be0033be.png)

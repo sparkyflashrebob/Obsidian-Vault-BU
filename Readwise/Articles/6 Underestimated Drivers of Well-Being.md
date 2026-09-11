@@ -35,3 +35,4 @@
 - 6. Transcendence ([View Highlight](https://read.readwise.io/read/01gy444136smrgjteq1kn36w39))
 - including greater longevity, coping skills, and health-related quality of life (even during terminal illness), and less anxiety, depression, and [suicide](https://www.psychologytoday.com/intl/basics/suicide). ([View Highlight](https://read.readwise.io/read/01gy444nqpccrhtx9t4w3hcagk))
 - Other studies have found that addressing a patient’s spiritual needs enhances recovery from illness. ([View Highlight](https://read.readwise.io/read/01gy444vaks4b92s3j7enmnb78))
+- https://www.mayoclinicproceedings.org/article/S0025-6196(11)62799-7/pdf)[eligious or spiritual involvement is associated with better health outcomes](https://www.mayoclinicproceedings.org/article/S0025-6196(11)62799-7/pdf), ([View Highlight](https://read.readwise.io/read/01gy444cry009x9fnxys31229t))

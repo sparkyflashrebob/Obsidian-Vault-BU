@@ -12,10 +12,14 @@ views:
       - title
       - tag
       - tags
-    sort: []
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: file.folder
+        direction: ASC
     columnSize:
-      file.name: 572
-      file.folder: 331
+      file.name: 556
+      file.folder: 754
       file.tags: 73
       note.author: 65
       note.created: 49

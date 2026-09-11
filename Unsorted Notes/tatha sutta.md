@@ -1,3 +1,6 @@
+---
+Created: 2023-07-04
+---
 https://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.020.than.html
 
 "Monks, these four things are real, not unreal, not otherwise. Which four?

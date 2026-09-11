@@ -96,7 +96,7 @@ clarity.
 So as we come back to it, we can go back to that.
 Then its being able to extend this stability of being peaceful, wholesome and clear.
 So with Mindfulness of Feeling - we will want to attend to how these feelings condition the mind.
-Here is Ajahan Pasanno's [[Winnie-the-Pooh]] Winnie The Pooh stories - so I will tell you one of his Winn the Pooh stories.
+Here is Ajahan Pasanno's [[_A_My Research/_Buddhism/_Dharma Subjects and Themes/Dharma of Winnie-the-Pooh]] Winnie The Pooh stories - so I will tell you one of his Winn the Pooh stories.
 Winn the Pooh was sitting under a tree -
 he hears a buzzing noise -
 buzzing and buzzing (looking around)

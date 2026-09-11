@@ -2,7 +2,7 @@
 Date: 3/12/2023
 tag: emptiness, dharma, dependent_origination, conditionality, sphereofconsciousness, perception of earth
 Title: MMR No 137 Empty Mind 1
-Created: 2023-10-14
+Created: 2024-06-16
 ---
 ---
 ## Infinite Consciousness

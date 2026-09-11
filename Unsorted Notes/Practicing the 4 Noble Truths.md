@@ -1,3 +1,6 @@
+---
+Created: 2023-03-05
+---
 So how do you practice the for Noble truths enter 
 the first noble truth
 This one is pretty plain I think in this core to the whole thing is us looking directly at what we're experiencing head-on versus yeah how are we looking at it not versus but how are we looking at what we're experiencing so when we're experiencing something that might be unpleasant and how are we where we looking at it are we resisting in any kind of way and then if it's on the pleasure side the the opposite if we're experiencing pleasure how are we are we just gravitating toward it now one of the interesting caveats to all this is that that is also there's this balance this middle way where now I am practicing cultivating well-being versus cultivating or being so how do we go about that without recognizing what the difficult that we're experiencing then likewise I think probably the hardest part would be something that we're not interested in because we may not even be aware of it so this is where mindfulness I think comes into play is like what is present and what isn't present and one of the deeper aspects of what Buddhist practice is

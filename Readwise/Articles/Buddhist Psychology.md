@@ -56,3 +56,6 @@
 - Only by giving those things which cause us pain permanence and substance do we give them the power to hurt us more. ([View Highlight](https://read.readwise.io/read/01h2sjaw3z6y815a781j45ereb))
 - We wind up fearing, not that which can harm us, but our fears themselves. ([View Highlight](https://read.readwise.io/read/01h2sjb2b9e2e1vsn3bpjsgwzb))
 - **Suffering can be extinguished**. ([View Highlight](https://read.readwise.io/read/01h2sj6cw8rmgj31x301zmhatj))
+- [[ignorance]]*When ignorant people see someone who is old, they are disgusted and horrified, even though they too will be old some day.  I thought to myself:  I don’t want to be like the ignorant people.  After that, I couldn’t feel the usual intoxication with youth anymore.*
+- [[noble doubt]][[dicernment]]*It is proper for you... to doubt, to be uncertain.... Do not go upon what has been acquired by repeated hearing; nor upon tradition; nor upon rumor; nor upon what is in a scripture; nor upon surmise; nor upon an axiom; nor upon specious reasoning; nor upon a bias towards a notion that has been pondered over; nor upon another's seeming ability; nor upon the consideration, 'The monk is our teacher....'*
+- [[Aggregates]]**The structure of the mind**

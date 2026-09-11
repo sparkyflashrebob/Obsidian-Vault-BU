@@ -1,5 +1,5 @@
 Review of approaches to 4NT
-- [[_A_My Research/_Buddhism/_Dharma Subjects and Themes/Middle Way 1/The Middle Way]] (brief mention but profound) in each moment - [[_Book Markups/Readwise/Books/Mindfulness]] always required
+- [[_unsorted from computer/Ebooks/Unknown/attitude (798)/Dharma Subjects and Themes/Middle Way/The Middle Way]] (brief mention but profound) in each moment - [[_Book Markups/Readwise/Books/Mindfulness]] always required
 - notice [[Google Keep/Dukkha]] - not quite right - [[craving and clinging]] - [[letting go]] - knowing this is possible - how to go about it - scholarly & warrior knowledge
 - recognizing body and mind - [[aggregates]] - pull towards experiences we want and like - push away from things we do not want to experience or like - body and mind
 - [[non-self]] leads to emphasis on the personal reflection of what we take as me and mine - my body - my feelings - my perceptions and thoughts about things - taking consciousness for granted - taking what is not ours as ours (not-self)
@@ -54,7 +54,7 @@ Coming back to the subject of Craving (again)
   - if we do not exercise restraint and self-control - each of the senses run toward their object
   - but if tied to a post (with mindfulness) - they will pull different directions but eventually become fatigued, settle down and become still
   - This is the mind in meditation being pulled about - but with mindfulness as our anchor - eventually the senses lay down and become quiet and peaceful
-  - This is why [[Unsorted Notes/Mindfulness of the Body]] is emphasized as a method of training
+  - This is why [[_A_My Research/_Buddhism/Mindfulness/Mindfulness of the Body/Mindfulness of the body]] is emphasized as a method of training
 
 I offer this for our consideration.
 

@@ -1,6 +1,7 @@
 ---
 subject: ""
 tag: gratitude
+Created: 2023-07-04
 ---
 [https://greatergood.berkeley.edu/article/item/why_gratitude_is_good](https://greatergood.berkeley.edu/article/item/why_gratitude_is_good)
 

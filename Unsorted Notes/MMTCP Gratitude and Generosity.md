@@ -1,3 +1,6 @@
+---
+Created: 2023-07-04
+---
 Offering teachings wisdom and compassion  
 build upon these  
 Teachings for a life of happiness - life arts of happiness  

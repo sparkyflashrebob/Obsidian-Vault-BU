@@ -1,3 +1,6 @@
+---
+Created: 2023-05-09
+---
 https://en.wikipedia.org/wiki/Soyen_Shaku
 
 famous for speech Parliament of World Religions, Chicago, Sept 1893 

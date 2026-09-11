@@ -1,1 +1,0 @@
-Two Extremes should not be followed

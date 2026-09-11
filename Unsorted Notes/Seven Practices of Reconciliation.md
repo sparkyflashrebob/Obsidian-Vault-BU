@@ -1,3 +1,6 @@
+---
+Created: 2023-06-05
+---
 Saptadhikarana-shamatha:
 
 The first practice is sammukha-vinaya or Face-to-Face Sitting. According to this practice, the dispute must be stated before the entire convocation of bhikkhus, with both sides of the conflict present. This is to avoid private conversations about the conflict, which inevitably influence people against one side or the other, creating further discord and tension. 

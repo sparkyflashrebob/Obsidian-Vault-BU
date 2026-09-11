@@ -1,3 +1,6 @@
+---
+Created: 2023-06-03
+---
 Living in Harmony with others is ultimately a part of the four Noble Truths learning to live in harmony with others and it's not by yeah so what is it not by getting conditions straight
 
 Why do we get along cuz we want to oh I'm going to bring that up that's the part of the whole thing the milk and honey yeah

@@ -1,3 +1,6 @@
+---
+Created: 2023-05-06
+---
 see [[_A_My Research/_Buddhism/_Dharma Subjects and Themes/Paramis 1/The Highest Blessings]] from the Abhayagiri chanting book 
 Mangala Sutta: Blessings
 

@@ -1,3 +1,6 @@
+---
+Created: 2023-04-24
+---
 See [[Subjects]] for ideas for teachings, writing ideas
 [[Organize Obsidian Notes]]
 https://mattgiaro.com/organize-notes-obsidian/#Limitations_of_organizing_your_notes_using_Folders
@@ -12,7 +15,7 @@ https://ashidakim.com/zenkoans
 
 https://handfulofleaves.life/
 
-[[The Doctrine of perception]]
+[[The Doctrine of Perception]]
 
 [[Wise Reflection 1]]
 

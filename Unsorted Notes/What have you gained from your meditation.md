@@ -1,3 +1,6 @@
+---
+Created: 2023-06-19
+---
 # Buddha was asked, “What have you gained from meditation?”
 
 By Alvin Alexander. Last updated: June 14, 2017

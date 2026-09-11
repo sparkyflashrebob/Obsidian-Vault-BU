@@ -3,6 +3,7 @@ tag: 4_Noble_Truths, reality, stress, origination, cessation
 Source: SN 56.20 PTS S v 430
 Translator: Thanissaro Bhikkhu
 URL: https://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.020.than.html
+Created: 2023-04-28
 ---
 "Monks, these four things are real, not unreal, not otherwise. Which four?
 

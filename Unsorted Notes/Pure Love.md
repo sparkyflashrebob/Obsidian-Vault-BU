@@ -1,6 +1,7 @@
 ---
 tag: pure love
 subject: Pure Love
+Created: 2023-07-04
 ---
 The distinguishing characteristics of a pure love are:
 

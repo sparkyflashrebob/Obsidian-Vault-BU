@@ -1,3 +1,6 @@
+---
+Created: 2023-06-05
+---
 1. Sharing a common space such as a forest or home. 
 2. Sharing the essentials of daily life together. 
 3. Observing the precepts together. 

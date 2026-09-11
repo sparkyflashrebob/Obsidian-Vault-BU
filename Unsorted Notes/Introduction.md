@@ -1,3 +1,6 @@
+---
+Created: 2023-10-14
+---
 # Hitting a bottom
 April is the start of the Major League Baseball season and it is spring time.  The weather is starting to get warmer. Nature is buzzing with new life, the flower are blooming. And there is lots to look forward to.  That is, if life seems to be going your way.
 

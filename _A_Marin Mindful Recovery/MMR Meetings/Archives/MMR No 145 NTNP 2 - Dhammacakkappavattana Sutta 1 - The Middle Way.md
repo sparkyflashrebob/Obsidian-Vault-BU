@@ -165,12 +165,12 @@ May switch between different interpretations
 In a traditional way 
 This [[_A_My Research/_Buddhism/_Dharma Subjects and Themes/Middle Way 1/middle way]] is the [[Noble Eightfold Path]]
 	namely 
-		[[_A_My Research/_Buddhism/_Dharma Subjects and Themes/Noble Eightfold Path 1/Right View/Right View]] or [[Right Understanding]]
+		[[_unsorted from computer/Ebooks/Unknown/attitude (798)/Dharma Subjects and Themes/Noble Eightfold Path/Right View/Right View]] or [[Right Understanding]]
 		[[Right Thought]] or [[Right Intention]] 
-		[[Right Speech]] 
+		[[Unsorted Notes/Right Speech]] 
 		[[Right Action]] 
 		[[Right Livelihood]]
-		[[Right Effort]]
+		[[Unsorted Notes/Right Effort]]
 		[[Right Mindfulness]]
 		[[Right Concentration]]
 

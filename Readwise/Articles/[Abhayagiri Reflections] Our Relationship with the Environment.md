@@ -1,12 +1,12 @@
 # [Abhayagiri Reflections] Our Relationship with the Environment
 
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article3.5c705a01b476.png)
+![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article1.be6829243bc3.png)
 
 ## Metadata
-- Author: [[google.com]]
+- Author: [[Abhayagiri Sangha]]
 - Full Title: [Abhayagiri Reflections] Our Relationship with the Environment
 - Category: #articles
-- URL: https://mail.google.com/mail/u/0/#inbox/FMfcgzGsmDrQHXJTtmdNtjQFZjhbPmhQ
+- URL: https://mail.google.com/mail/u/0/#inbox/fmfcgzgsmdrqhxjttmdntjqfzjhbpmhq
 
 ## Highlights
 - When a negative feeling like irritation comes up, it can be challenging to want to be truly awake to that irritation. At those moments, one just needs to trust in this practice because one’s intentions are good. ([View Highlight](https://read.readwise.io/read/01gzpy51bttaj9y4r81r00axm2))
@@ -48,7 +48,6 @@
 - A more skillful attitude would be to wish that they would see the error of their ways and then use their good fortune for greater good. ([View Highlight](https://read.readwise.io/read/01gzmn3jd9ar69erxr3jfgqbss))
 - The best way to strengthen your discernment and truth in developing these two brahmavihāras is to think about the Buddha’s teachings on kamma and rebirth. These teachings provide a context that makes it easier to feel compassion and empathetic joy in difficult situations. They do this by helping you to see why these attitudes are appropriate and actually good for you. ([View Highlight](https://read.readwise.io/read/01gzmn4jvzvc91p6ghqwr6raqk))
 - these two brahmavihāras not only test your discernment, truth, generosity, and calm, but they also make these qualities stronger.” ([View Highlight](https://read.readwise.io/read/01gzmn4w0rx80rq2my92yqd5g7))
-- I VOW NOT TO BURN OUT ([View Highlight](https://read.readwise.io/read/01h4h8td371xjj4gm83p9jkhy5))
 - Buddhism does not subscribe to the idea that this world is the work of a creator god and does not give the natural world we live in any theological importance ([View Highlight](https://read.readwise.io/read/01gybr7zasbm8vm4q99cjyyz81))
 - It is seen as a phenomenon existing in its present state due to a flow of causes and conditions ([View Highlight](https://read.readwise.io/read/01gybr84cbh256s6v9t3xfecrg))
 - Our challenge as a species is to relate to the physical world in a way that best sustains its capacity to sustain us. ([View Highlight](https://read.readwise.io/read/01gybr89j2zj1vp4bdfpq86d41))
@@ -59,11 +58,11 @@
 - The education in intellect requires us to investigate the causes and conditions that underlie a sustainable future for the human race. ([View Highlight](https://read.readwise.io/read/01gybra0chqtca0dva60yz5rgd))
 - It involves understanding the consequences of our smallest acts of consumption on the planet as a whole. ([View Highlight](https://read.readwise.io/read/01gybra3snn0a1wbmjh83qfb0w))
 - It means seeing the drawbacks of our current path. ([View Highlight](https://read.readwise.io/read/01gybra7s6ezxpe39mw75xyvpp))
+- I VOW NOT TO BURN OUT ([View Highlight](https://read.readwise.io/read/01h4h8td371xjj4gm83p9jkhy5))
 - Seeing the atrocities committed by terrorists, I wonder how it is that humans can be so lacking in humanity. And I do my best to hold it all skillfully. ([View Highlight](https://read.readwise.io/read/01hdq802ajk8wqxnzdqmcg5mnp))
 - The one thing I do know is that having my heart filled with hatred is not going to bring more peace. ([View Highlight](https://read.readwise.io/read/01hdq81a4cc03j62r4frpds1vm))
 - As the Buddha famously said: “Hatred never ceases by hatred. Hatred ceases by love alone. This is an ancient and eternal law.” ([View Highlight](https://read.readwise.io/read/01hdq81ed93m6ar85v0sebjvxk))
 - Martin Luther King Jr.’s words:
-  "The ultimate weakness of violence is that it is a descending spiral, begetting the very thing it seeks to destroy. Instead of diminishing evil, it multiplies it. Through violence you murder the hater, but you do not murder hate. In fact, violence merely increases hate. Returning violence for violence multiplies violence, adding deeper darkness to a night already devoid of stars. Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate: Only love can do that." ([View Highlight](https://read.readwise.io/read/01hdq7z9pax7s5t5xtfav8kmss))
 - “an eye for an eye, a tooth for a tooth.“ ([View Highlight](https://read.readwise.io/read/01hdq8218mn1nkhm3n7c7wsds7))
 - One of the most moving responses in this terrible conflict is a [9-minute video](https://r20.rs6.net/tn.jsp?f=001wxHSixZ2lZfZxWR68yScXjEZowI5pEP2EvDrrpVrB1CorWuNbN4hOKuyO6DP7ODPv1Wjtzo5qNqcyD6KE6R7sk2n5HFd9UqpYHNW6scrVuPQf0uAUOhEIlJnXsuOu0DrtD9WYthuXB1Qg0aq4lnKojQY9M-ZXqVg9lB15CJpVYEJOQtbjBD2_YVQXWmbLYDUmG7tGoeLG_SMhlREDMgJQO9J3fA8xU_XvVXPpDecay7YxvMj9Y0d1I__3s0gd_8ylSZUZknvyynmFdtD5gsrH1N9uly2LHZ_pl2GyD32n_0fsE8ycXBLQsDakAulqrsoUw4DQnGYWfI-M7QYeaxf8DPnI6ulQKvMOzkfq4RUDtdyD-_5p_s6CSRrb7iLyZpmTr2krheXk2kZiie7W61yjp5EzhbA6B_V&c=3R4Pw5USg_oEKMP1ypxNadZMfiOqOsQkXcHOMl9MFBffvPnWPxtbKQ==&ch=Zx9_cvRwPSDSZ1yu8xiPX7fWF58WnWiOdaZgWV8a25fhiiU5m8KMSg==) of a 19-year old Israeli girl who survived the Hamas bombing on October 7 when the kibbutz she lives on was attacked. She lost many friends and was herself severely traumatized as she spoke into the camera fiercely admonishing all who could listen. Her message through all of her grief and anger was, “Do not talk to me about revenge. I lose some of my strength every time I hear the word revenge…Look inside, very well, deep inside. Ask yourself what your values are.” ([View Highlight](https://read.readwise.io/read/01hdq82x1nrjc5bc2wnzam2ht3))
 - “Over many years, I and colleagues have been bringing groups of Israelis to the West Bank to spend a weekend on peace-making workshops with Palestinians, at times when the dominant voices said that peace was impossible and only violence and suppression worked. We found that our tools of deep listening, sharing our pain and daily life experiences, and being in each other’s shoes, created a lasting bond and showed all of us that peace was possible. The truth of our shared vulnerability creates an opportunity for transformation.” ([View Highlight](https://read.readwise.io/read/01hdq83y5b5sc3p2g938vz69gt))

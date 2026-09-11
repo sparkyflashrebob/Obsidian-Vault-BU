@@ -1,3 +1,6 @@
+---
+Created: 2023-05-29
+---
 [https://en.wikipedia.org/wiki/Pali_Canon]
 
 |[1. Vinaya Piṭaka](https://en.wikipedia.org/wiki/Vinaya_Pi%E1%B9%ADaka "Vinaya Piṭaka")|

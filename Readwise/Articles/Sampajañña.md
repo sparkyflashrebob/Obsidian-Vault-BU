@@ -16,3 +16,4 @@
 - "clear comprehension" ([View Highlight](https://read.readwise.io/read/01gtb4ygbpj7qx6fe25crd45pg))
 - "clear knowing" ([View Highlight](https://read.readwise.io/read/01gtb4ynepf9rbsndjg3z5gvnk))
 - gocara ([View Highlight](https://read.readwise.io/read/01gtb5k7451zdp5esevkmsj9bb))
+- "The mental process by which one continuously monitors one's own body and mind. In the practice of śamatha, its principal function is to note the occurrence of laxity and excitation."[[_A_My Research/_Buddhism/_Dharma Subjects and Themes/Logic and Philosophy 1/Catuskoti]](https://en.wikipedia.org/wiki/Sampaja%C3%B1%C3%B1a#cite_note-:0-1) ([View Highlight](https://read.readwise.io/read/01gtb4xnvfgqsr12y5nr2twasw))

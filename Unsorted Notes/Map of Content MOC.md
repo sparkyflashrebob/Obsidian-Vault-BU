@@ -1,5 +1,6 @@
 ---
 tag: obsidian
+Created: 2023-04-23
 ---
 notes that help you to organize your notes 
 

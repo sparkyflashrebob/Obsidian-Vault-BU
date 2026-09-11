@@ -1,7 +1,7 @@
 # Plaud Daily Transcript - Wednesday, September 09, 2026
 - **Date**: 2026-09-09
 - **Total Audio Sessions Processed**: 3
-- **Generated**: 2026-09-10 14:11:33
+- **Generated**: 2026-09-11 05:57:23
 
 ---
 
@@ -161,7 +161,7 @@
 - **[4:35:47 PM] Andy**: no problem it's perfect. And the password is embedded so don't need the password when they click on the link and you're good to go. Yeah I just think what I want to do is see like I said I'm not going to be here I'm leaving we're leaving you know Saturday So I'll be here for over a week So I have to just get was well before I go and see if I can find out a time to go. a time to go and go to the site and test it yeah that's yeah that'd be great yeah that would be great yeah I'll let you know as soon as I arrange that also he has to put the link on the invite on the site so people know what's there That's great Yeah Not so bad Yeah Well it's nice meeting you and thank you for taking your time to do this and setting me up I'm really looking excited to be of service you know So Okay Wonderful Yeah Okay. All right you take care sir Have a good night Bye.
 - **[4:37:53 PM] Andy**: Okay so what I need to do.
 - **[4:38:05 PM] Andy**: I'm free so
-- **[4:41:20 PM] Lucky (ESCOM)**: Yes. Can you do it later I just want to get the email set up here.
+- **[4:41:20 PM] Andy**: Yes. Can you do it later I just want to get the email set up here.
 - **[4:44:16 PM] Andy**: Okay we've got you that you've got a few minutes before the big blue ha ha ha isn't Wednesday isn't this one they're having the uh oh wonder I can relax and look at that chicken
 - **[4:44:59 PM] Andrea**: yeah this feels so cool in here yes my office is
 - **[4:45:13 PM] Andrea**: Yeah well vote early and then some other news came not about there so it's gonna be back

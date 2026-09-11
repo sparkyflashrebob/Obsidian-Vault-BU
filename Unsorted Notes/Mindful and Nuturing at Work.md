@@ -1,3 +1,6 @@
+---
+Created: 2023-03-17
+---
 Not always true all levels
 not just a lemming
 common purpose for the group to be profitable

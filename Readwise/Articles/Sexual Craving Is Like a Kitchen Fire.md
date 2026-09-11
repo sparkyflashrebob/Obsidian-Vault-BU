@@ -15,3 +15,5 @@
 - This is really the only way in which we can truly come to understand reality ([View Highlight](https://read.readwise.io/read/01gv01gkbkwed6mng8ydnzmm81))
 - only a perception and interpretation in our own mind ([View Highlight](https://read.readwise.io/read/01gv01gtj7s0cpsnacb1dnpxxc))
 - most importantly, it is in our own mind that we can end *dukkha*. ([View Highlight](https://read.readwise.io/read/01gv01h240d05c7zk7zfbmdxte))
+- [[buddhist understanding]] the Buddha understands it through how we perceive and interpret it ([View Highlight](https://read.readwise.io/read/01gv01g58z5cnw2bgvmazas0y6))
+- most importantly, it is in our own mind that we can end *[[Google Keep/Dukkha]]*. ([View Highlight](https://read.readwise.io/read/01gv01h240d05c7zk7zfbmdxte))
