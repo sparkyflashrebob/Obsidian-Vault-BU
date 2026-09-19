@@ -10,3 +10,8 @@ Abandoning false speech, he abstains from false speech. He speaks the truth, hol
 - that is in accordance with the goal ([View Highlight](https://read.readwise.io/read/01gzsb5pspjkj6p31k4bzsrcv7))
 - He speaks words worth treasuring, seasonable, reasonable, circumscribed, connected with the goal. ([View Highlight](https://read.readwise.io/read/01gzsb5ypqhvzckp3s15db0chb))
 
+### Ajahn Brahm: Practical Buddhist Philosophy on Speech & Relationships
+- When folks are not respected, our speech naturally tends to become negative and critical.
+- Lack of positivity moves speech toward harm.
+- Teach kids and ourselves a positive, supportive language.
+- Notice how negativity creates distance, while respectful, affirming speech builds safety and connection.

@@ -171,3 +171,18 @@ as best I am able.
 Let yourself gently repeat these three directions for forgiveness until you feel a release in your heart. For some great pains you may not feel a release but only the burden and the anguish or the anger you have held. Touch this softly. Be forgiving of yourself for not being ready to let go and move on.
 
 Forgiveness cannot be forced; it cannot be artificial. Simply continue the practice and let the words and images work gradually in their own way. In time you can make the forgiveness meditation a regular part of your life, letting go of the past and opening your heart to each new moment with a wise loving-kindness.
+
+### The 12 Principles of Forgiveness in Buddhism
+
+1. Understand what forgiveness is NOT (it is not condoning harm, forgetting, or forced reconciliation) and what it IS (freeing your own heart).
+2. Sense the suffering that comes with the inability to forgive (the poison of holding a hot coal).
+3. Reflect on the benefits of a loving heart.
+4. Discover (in relation to your identity): you don't have to stay loyal to your suffering or past wounds.
+5. Understand that forgiveness is a process, step by step, not a single one-time event.
+6. Set your intention: Make the conscious aspiration to forgive.
+7. Seek forgiveness from those you have harmed (in body, speech, or mind).
+8. Forgive yourself for ways you have hurt yourself or others out of ignorance or fear.
+9. Begin the forgiveness of those who have hurt you.
+10. Grieve the loss, hurt, and broken trust honestly without denial.
+11. Extend forgiveness to situations, systems, and conditions of life.
+12. Rest in the freedom of an unburdened, spacious heart.

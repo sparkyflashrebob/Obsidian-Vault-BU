@@ -55,7 +55,7 @@ So this blog post would be more about my notes on this, like what's above, and t
 
 ## 🔗 Related References
 - [[LM 07 - Compendium of Journal Entries and Practice Notes on Pain and Difficulty]]
-- [[_ 20260821 Theme Compilation_ Start]]
+- [[Comprehensive Book Theme Compilation Report]]
 - [[The Crux of the Practice with Difficulties - RAM 240225]]
 It's difficult to think when you have head pain or any kind of pain at all because that is what's leading. It's what I call hats. Whatever is at the top of your attention, that is what leads 
 

@@ -347,7 +347,7 @@ Ajahn Sumedho:
 
 ## Positive Aspects of contentment
 ### Aggi Sutta: role of tranquility, concentration & equanimity
-- [[Google Keep/7 Factors of Awakening]] using symbol of tending a bonfire
+- [[7 Factors of Awakening 1]] using symbol of tending a bonfire
 - restate section from sutta used above when the mind is excited
 	- wrong time to develop [[investigation of qualities]], [[energy]], [[rapture]]
 	- mind difficult to calm down by these

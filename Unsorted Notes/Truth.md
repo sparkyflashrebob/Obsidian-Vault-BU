@@ -9,4 +9,7 @@ The Buddha believed that truth is a set of tools and methods that are always cha
 [[Unsorted Notes/Two Truths Doctrine]]
 In Hua-yen Buddhism, truth and falsehood are understood to encompass and interpenetrate each other, and vice versa. Similarly, good and evil are understood to encompass and interpenetrate each other. 
 [[Readwise/Books/The Four Noble Truths]]
-The Four Noble Truths identify the unsatisfactory nature of existence, its cause, and a state where suffering and its causes are absent. The truths also set forth a path to reach that state. 
+The Four Noble Truths identify the unsatisfactory nature of existence, its cause, and a state where suffering and its causes are absent. The truths also set forth a path to reach that state.
+
+> *"Truth, here, is simply the way things work; true knowledge is gauged by how skillfully one can manipulate them."*  
+> — Note on pragmatic truth in Buddhist epistemology.

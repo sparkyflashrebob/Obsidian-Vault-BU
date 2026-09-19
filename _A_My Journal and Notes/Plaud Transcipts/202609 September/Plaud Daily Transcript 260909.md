@@ -1,155 +1,13 @@
 # Plaud Daily Transcript - Wednesday, September 09, 2026
 - **Date**: 2026-09-09
 - **Total Audio Sessions Processed**: 3
-- **Generated**: 2026-09-11 05:57:23
+- **Generated**: 2026-09-19 05:33:45
 
 ---
 
-## 🎙️ Session 1: 2026-09-09 06:25:56 (5h00m)
-- **Source File**: `2026-09-09 06_25_56.mp3`
-- **Audio ID**: `a49047d03d950b7692b932e244790e09`
-
-- **[00:00 - End] (Speaker / Group)**: - **[6:26:26 AM] Andy**: he's a little bit over here.
-- **[6:27:10 AM] Andy**: nausea.
-- **[6:27:11 AM] Andrea**: No thanks a lot. It's good.
-- **[6:27:16 AM] Andy**: Water.
-- **[6:27:17 AM] Andrea**: You sweaty though.
-- **[6:27:19 AM] Andy**: That's one of the things that happened to me in the morning. That's something no look at. I think health wise. Because when you It actually affected me when I It's walking down the wall to me. I'm already sweating and I haven't been dying.
-- **[6:27:53 AM] Andy**: Can you keep your glasses? Yeah I think I'm going to have to go to the bathroom.
-- **[6:28:01 AM] Andrea**: And then I'll cover the house. Okay so Oh shit.
-- **[6:29:09 AM] Andy**: So they're too low or too high?
-- **[6:29:14 AM] Andrea**: I'm not sure they're just they're not the ones that are working with my eye.
-- **[6:29:20 AM] Andy**: Oh because when I was last at the glass place they showed me how to adjust them. You adjust the nose bridge and it brings it lower or higher. Because I didn't and I didn't know my old glasses are that way. and I went and came home and I adjusted it and I got a mortars center of my eye.
-- **[6:29:44 AM] Andy**: You just you know you have to make them closer or wider so that it falls on the bridge a little bit differently.
-- **[6:29:54 AM] Andy**: Well you may have to move one of you know I'm saying you'll have to adjust if that'll have to be how it's adjusted.
-- **[6:30:04 AM] Andy**: You want me to try with you later today because it's really minor.
-- **[6:30:22 AM] Andy**: Oh okay sorry.
-- **[6:30:29 AM] Andy**: Yeah it helped me because mine was the same thing. In fact even they have a little thing where they put the center of your eyeball where they're supposed to be in the glasses And then when you get them it's like well wait a minute. It's not allowed. So I learned how to just mine.
-- **[6:30:57 AM] Andy**: There's a copy of what you wanted. I saw that sweet pie and it's gourmet shit. That's kind of a KCD. I had a little bit of my leftover coffee and I'm going to blend in a little bit.
-- **[6:31:18 AM] Andrea**: But it made it strenchro.
-- **[6:31:21 AM] Andy**: Ah neat.
-- **[6:31:24 AM] Andrea**: It's going to be really hot but maybe we don't go climbing around the storage until tomorrow morning.
-- **[6:31:30 AM] Andy**: Yeah that's fine. It's fine. We're going to do laundry tomorrow too. You and I are professionals. We can get through all this stuff. And you know I mean just kind of figure out where we get the water bottles out get the stuff out, put it down so we know where it is. And then for us I got to go through my yeah that stuff is we have those things we'll get it ready yeah maybe I'll do some cleaning of the office a little bit to make some room for
-- **[6:32:07 AM] Andy**: floor space yeah I got my sleeping bags already out it was what I took with me to the uh right so I found that already but all my stuff is over there where the camping stuff is in the right it's really easy other than the cuts so our chairs are in the closet here sweetly bowing to you do do a booboo
-- **[7:29:21 AM] Andy**: There is a lot of Carbonara gochujang. activates flavor and vielener
-- **[7:50:52 AM] Andy**: There we go.
-- **[8:12:16 AM] Andrea**: a little bit of salt,
-- **[8:15:06 AM] Andrea**: I'm going to add a little bit of water to make sure it's not too thick.
-- **[8:15:27 AM] Andy**: if you're going to be able to do it but you're going to be able to do it.
-- **[8:34:05 AM] Andrea**: I'm going to add a little bit of water to make sure that the water is not too thick.
-- **[9:12:36 AM] Andy**: Alright I don't think I can adjust the Clod's meeting modes.
-- **[9:19:34 AM] Andy**: are being confused in the current file I'm working on. So when I infer Andrea's turns a lot of them are actually sunny also mixed up. And when I press the play button then there to listen, nothing goes. So I can't hear anything.
-- **[9:31:37 AM] Andrea**: if I can do it.
-- **[9:47:21 AM] Andrea**: a little bit more,
-- **[9:48:53 AM] Andy**: Okay so all this morning has been reviewing voice prints and hoping that it gets so good that I rarely need to do it because I'll focus on the unrecognized and then just briefly They look at the other ones to see if they're accurate and then I shouldn't have to do this as they've thrown too much except for like retreats and special meetings or things like
-- **[9:50:12 AM] Andrea**: top your headumbling
-- **[10:03:04 AM] Andrea**: just a little bit more,
-- **[10:17:23 AM] Andrea**: I'm going to put it in the middle of the room.
-- **[10:20:13 AM] Andrea**: I'm going to put it on the other side.
-- **[10:29:00 AM] Andrea**: What is the forecast for the next 10 days?
-- **[10:32:14 AM] Andy**: OK so now we have
-- **[10:34:34 AM] Andy**: I'll put this in the fridge and put it in the fridge. Let's make the last one registers.
-- **[10:35:48 AM] Andy**: Let's heat it up well
-- **[10:36:18 AM] Andy**: Hey Google is there a way for me to keep Hard boiled eggs is for a week If I am going camping.
-- **[10:36:58 AM] Andy**: To keep hard boiled eggs safe for a week while camping you must maintain a constant temperature of 40 degrees Fahrenheit or lower. The best method is to keep the eggs in their shelves and pack them in a high quality insulated cooler with plenty of ice or freezer packs. It is important to keep the cooler in the shade open it up in frequently as possible and ensure the eggs are not sitting in water as the ice melt. If you cannot maintain a temperature of 40 degrees Fahrenheit or below you should not consume hard boiled egg for that duration.
-- **[10:38:51 AM] Andy**: Let's just stay here. You missed it? 5. 5. 7. 8.
-- **[10:39:24 AM] Andrea**: 9. 9.
-- **[10:39:31 AM] Andy**: 10. 10.
-- **[10:42:18 AM] Andy**: Anyone else who has questions?
-- **[10:47:08 AM] Andy**: Remix with Blue Blue having a very difficult day and do do soothing her.
-- **[10:57:37 AM] Andy**: I'm going to put the
-- **[11:01:35 AM] Andrea**: Good side Duke uh,
-- **[11:02:32 AM] Andrea**: who's a doc car
-- **[11:02:41 AM] Andy**: We need to follow.
-- **[11:03:37 AM] Andrea**: You are. In any way so far it's a little rough.
-- **[11:04:22 AM] Andrea**: not a lot.
-- **[11:05:30 AM] Andy**: You decide to cut up.
-
----
-
-## 🎙️ Session 2: 2026-09-09 11:25:57 (5h00m)
-- **Source File**: `2026-09-09 11_25_57.mp3`
-- **Audio ID**: `5cead813733e8d10aa334c23e72a1032`
-
-- **[00:00 - End] (Speaker / Group)**: - **[11:27:28 AM] Andy**: Ooooooh
-- **[11:27:58 AM] Andrea**: I'm going to have to go to the other side to see if I'm going to be able to get out of here.
-- **[1:40:35 PM] Andy**: So I haven't done partly anything today the tramp drilling and I'm preparing for the bidding quest. I have no reading really hopefully.
-- **[1:41:08 PM] Andrea**: I could get this.
-- **[1:41:11 PM] Andy**: Just follow the script but I want to be able to have some idea before I go into some of these things. So it's just partially what I have to do I think.
-- **[1:41:27 PM] Andy**: I'm going to have a little bit of water to make sure I don't get too much water in the water.
-- **[1:42:17 PM] Andy**: What is it?
-- **[1:44:17 PM] Andrea**: Sticks 2 concentration
-- **[1:44:47 PM] Andy**: Do bring it to me.
-- **[1:45:39 PM] Andy**: Hmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
-- **[1:46:41 PM] Andrea**: a little bit of this,
-- **[1:48:59 PM] Andrea**: I'm going to have to go back to my room.
-- **[1:49:25 PM] Andy**: Let's make it!
-- **[2:10:25 PM] Andy**: Create an image of a desert rising up to a mountain rocky mountain with horses in the the background sagebrush using the following words.
-- **[2:38:44 PM] Andrea**: Let's see how this one grows. What do you have there?
-- **[2:38:54 PM] Andy**: We love the other.
-- **[2:53:42 PM] Andy**: the workers go to the game thing oh gosh yeah I would just go there and I would just trashed a giant so I was loving the eggs Oh good That's an idea Yeah Oh you sound great I know Don't bump into people Yeah that's what I do I do I go underneath the awning somewhere Yeah Oh you're in right field First you're okay third baseline well that's the sun gets there's more shade there as the There you go it's home.
-- **[2:54:50 PM] Andy**: Oh great.
-- **[2:55:01 PM] Andy**: Oh they are? What ending is it in? Oh games almost over. Okay well you sound great.
-- **[2:55:38 PM] Andy**: That's right I hope you're not going to be a Giants fan though But you know what you may not much have a choice Because there is no more age You have to be the lost Vegas age Yes going to be a Giants game But Oakland has a minor league team now I I forgot what they call them the ballers or whatever.
-- **[2:56:15 PM] Andy**: Oh how are you doing? Okay you sound great. Okay great.
-- **[2:56:31 PM] Andy**: Yeah so I. Okay Is any change in the date at all or saying Okay Okay I hope it's not a week before when I'm gone but I'll be right back Yeah Hold it in girl Hold it in Okay. Yeah 60 days would be actually perfect because that's the middle of November before I go on retreat is by a year or so Perfect. Do it for me girl Do it for me. Okay okay that's neat when speaking you know Oh that's great When are you going to stop working?
-- **[2:57:35 PM] Andy**: Oh okay so you're going to start a whole okay that's good You have some time up to it.
-- **[2:57:48 PM] Andy**: The curve yeah I mean that's all it cuz if somebody let me see it but you know early
-- **[2:58:08 PM] Andy**: Oh you see you forgot about me already damn you Yeah it always is I just got back from retreat and physically challenging I have my physical challenges No real piece will sit but I got a lot out of it and I'm continuing to hopefully build upon it So I think I have to continue doing what I'm doing I think. Getting up my back is deep one and then I have some neck issues so I changed my that was my major thing that's my neck issues so I've got I've changed the Hello and you know I'm always tweaking I have like five different setups you know? So yeah I'm always tweaking trends you know and I can do some weight, which I've lost you know just a pound here or there so not much.
-- **[2:59:26 PM] Andrea**: Yeah that's going to happen soon I really like the fall.
-- **[2:59:35 PM] Andy**: Football girl Football season So yeah Yeah I'm preparing I'm going to be the spiritual elder for this retreat so I'm preparing I mean we're going to vision class so I'm reading poems and trying to write things and you know get things studying up for it yeah so yeah that's what I'm doing today and then I got a political meeting and I got another meditation group meeting here shortly and so I'm just that's today and then two days yeah we leave Saturday morning so I'll be gone Saturday morning for a week okay well all right I love you so much thank you for calling me you're the light of my day all right Love you. Bye.
-- **[3:03:40 PM] Andy**: right there,
-- **[3:14:37 PM] Andrea**: Oh there!
-- **[3:14:57 PM] Andy**: Oh it's here. Haha. Today is your birthday. You're going to have a good time. Haha.
-- **[3:15:27 PM] Andy**: Oh boy. I don't want to go out there.
-- **[3:17:56 PM] Andy**: I'm working on doing my job it's going to be for the next week other than muscle trying to organize you know just my thoughts around when I want to share kind of thing. So yeah it's really neat what I'm doing I got a thing I've got here that I've already I'm going to share it with you just so you can look at it and know what you're talking about maybe. Great It's hard to make fun of super low strokes and then I get to see it until a little later. Well what if I bring it to you? Yeah I'm okay That's fine You can just throw it in the trash Whatever you want to do I'm not that I'm doing this just for me and you think she's too rough. never did that Well you might I mean you might do that but I'm not going to worry about it So it's like let's let's how you just info I'm not worried about it That's really not So it's really good stuff And yeah I'm not worried about it I know other
-- **[3:19:38 PM] Andy**: folks didn't necessarily go out of my way but like I said I don't want to be I want to feel kind of authentic what I'm doing here.
-- **[3:19:48 PM] Andrea**: So I don't have much memory I see that well why is Kevin taking yours?
-- **[3:20:03 PM] Andy**: I know but it's okay.
-- **[4:03:49 PM] Andrea**: Hello Lucky?
-- **[4:04:09 PM] Andy**: Hey Andy. Hello Lucky Hey Andy You got me No I understand this is a transition time for many folks so that was going to be happening. I am I'm actually no will for quite a long time And we've been working together on various things related to you know mindfulness meditation et cetera So he was I just want to talk to me about it and encourage me to participate and read a group you know. So I've been doing this for about you know it's like 15 maybe 16 years on my own. And so I just wanted to to me it's very helpful for folks. So I just want to you know carry it forth as best I can. Yes.
-- **[4:06:03 PM] Andy**: I don't have a problem with zoom at all. I'm an advanced zoomer and if there's any I just need to be able to get the I don't, you know I'm now a fixed income I don't really pay for anything that way so I need a you know some access to some method of being able to hold the meeting where they don't show it down after 40 minutes and they call that kind of stuff. And then I'll have some other things. I have to figure out like I've got a couple of cameras here and I've got a both-lap top that I can use because I've known that it is AV gear is actually in the over where the board table is and not Functional for a circle group So I'm going to bring a couple of cameras and I they don't have an owl I guess they took the owl over to the other site
-- **[4:06:55 PM] Andy**: So I don't have an owl or an access So I'm going to just to do my best to win it You know to get it going.
-- **[4:07:26 PM] Andy**: Yeah I'm going to have the other camera right now I'll figure a way to do it. I have some speakers I might also be able to use over there I don't want to fill out the whole thing with a bunch of equipment because that's kind of not the point in some So I'm going to show up early the first time and then they'll probably be some hiccups. So we'll have to be probably modified for the you know at the very beginning if I can't, I don't want to spend my time just worried about that for say And we can like I said, I can put like a speaker to it that everybody can hear if somebody talks and they won't be able to see that'll probably be the biggest thing I'll have to figure out how I mean they just won't be able to see so they'll have to hear
-- **[4:08:39 PM] Andy**: Yeah and now have a camera so they'll be able to see those folks on a view and that's what the owl will do would improve that and it's also a speaker so it would make that easier and so yeah I'm just going to have to wing it for a little bit I have I've been there so I was out and he actually has a large monitor in the back that everybody could see and there's a monitor that they can all turn to and look but we don't have that available at the other place so yeah yeah they got a different layout there yeah so it's okay it's the way it is so we'll have to figure we'll have to you know work with it that way and I'm okay with it I mean I mean I have to be with it there's really not much choice you know So you know no such thing as a roll-around monitor or anything like that is there?
-- **[4:10:12 PM] Andy**: I've never used a projector Is that something that maybe as you go there and see how that works out and then I could see maybe I could use that because at least if they could see people in the far end that would be really kind of nice.
-- **[4:10:39 PM] Andy**: Well no see another way I could do it is is become a remote site to that meaning turn that on and join the meeting separately from that site joining on You see I'm saying and then make myself a host Then that way you know I'm saying so then that's you know you have to do some two-step in there but it could be done and so yeah that's what I would want to come and show up maybe be a separate day and you know set that up and test it Which I'll be glad to do I'm going to be gone as the reason why I delayed until the the 24th I believe we talked about the first one is because I'm getting ready to go and be in a way from humanity for another week and a half So I'm going to be coming back that following Sunday before so I have to do something early in that week if I can.
-- **[4:11:46 PM] Andy**: Okay Ken who would I range to go and visit the space and have access to that if that happens you know when that? I think it's on Thursday Yeah it's on Thursday too.
-- **[4:12:07 PM] Andy**: Okay and I just need to know the schedule then to know when I could actually access it I guess.
-- **[4:12:22 PM] Andy**: Right that's right.
-- **[4:12:23 PM] Andrea**: Okay I'll ask him about that and ask him what kind of two-hour block I can get just to go in there before anybody else is and play around with it.
-- **[4:13:06 PM] Andy**: okay well maybe I'm the impetus for that you know where we can I can help with that like I said I have some background and I could help with that with you know with no problem.
-- **[4:13:49 PM] Andy**: Okay okay I'm looking Did you already add it?
-- **[4:13:58 PM] Andy**: I well what I'm doing is I'm going to the SCOM clubs where the list is to see if I, I've got you.
-- **[4:14:19 PM] Andy**: Yeah we just need to get him to make you know and all that so that he knows what that is of if it's a different length or not. I'm not sure.
-- **[4:14:32 PM] Andrea**: So I don't see where it was talking about so I think I saw it in the beginning. So I had some civic considerations for 12 meters.
-- **[4:15:10 PM] Andy**: Great.
-- **[4:15:14 PM] Andrea**: yeah great yep yep yeah, Oh okay got you That's weird Okay.
-- **[4:15:54 PM] Andy**: Okay Okay.
-- **[4:16:10 PM] Andrea**: no My company I had we had both Microsoft Teams and Zoom full accounts.
-- **[4:16:28 PM] Andy**: We had I've got like every name to mankind We were uh had them at our company. So I was an admin for my own account you know I got my own license and everything. So they had some admin set in this of course with some of the things. But yeah I'm fully you know fully competent and dealing with anything zoom wise that you guys have given us access for you know what I'm saying. So I have the desktop application. I just disconnected all my calendars and everything. But I still have the desktop app so it's really you know I have that. Yes I just call it zoom and then it's called zoom workplace and then they have the whole thing where they want you to be in their room environment and everything and like I said I have a lot my old log in and it's just limited to you know I don't have full access to
-- **[4:17:48 PM] Andy**: everything which is cool with me PC yeah there's got your they've got the little icon for you that you have you're available for you and it tells you with your green or not Yeah I have all that Yeah So you're going to give me a you're going to basically add me to your account is a is one of the users And And then that way I'll be able to yeah I'll be able to access it that way as I host. That's right. I am not sure at this time what I would normally do is if somebody reaches out to me then What I would do is normally you know since they have my e-mail or whatever what I would do is I would you could do that by joining the meeting and then you could click on and give them a link to the phone if need be unless you yeah unless you include that in
-- **[4:19:20 PM] Andy**: the link somehow you know.
-- **[4:19:22 PM] Andrea**: yeah you know we'll include it because one of the other things I'm planning
-- **[4:19:47 PM] Andy**: on doing is I'm thinking of having guest speakers who may be zooming in so if they have to use their phones sometimes then that's an option for us. So no problem.
-- **[4:20:27 PM] Andrea**: Yes.
-- **[4:20:40 PM] Andrea**: So at the end of the day I just want you to count the same things as currently in your account. So we don't want that.
-- **[4:21:08 PM] Andy**: Sparky Yes Sparky Flash Rebob Yep no problem And right now I'm not sure who that might be So I mean either my wife to do it or I might have will So we'll see how that works out So right now let me just get back to you when that happens Yeah.
-- **[4:22:27 PM] Andrea**: Gmail.
-- **[4:23:05 PM] Andy**: thing because sometimes it's browser-based so what I'll have to do is when I've first do that I'll do it with my laptop okay
-- **[4:23:57 PM] Andrea**: Yep yep.
-- **[4:24:29 PM] Andrea**: We're talking about this one a lot of events a lot of the audience that insert this text.
-- **[4:24:33 PM] Andy**: Yeah okay so it's that you want me to create template with it okay?
-- **[4:25:08 PM] Andy**: Oh GMO protects you. Okay when we get it then we'll have to if there's any issue then.
-- **[4:25:17 PM] Andrea**: We'll be in the first gen of A.U Mod we'll stay out for it.
-- **[4:25:40 PM] Andrea**: We'll be in the next round.
-- **[4:25:43 PM] Andy**: Uh-oh. Uh-oh.
-
----
-
-## 🎙️ Session 3: 2026-09-09 16:25:58 (3h08m)
+## 🎙️ Session 1: 2026-09-09 16:25:58 (3h08m)
 - **Source File**: `2026-09-09 16_25_58.mp3`
-- **Audio ID**: `0a3cb94e06f210485a66b3badd42c2e5`
+- **Audio ID**: `of_0a3cb94e06f210485a66b3badd42c2e5`
 
 - **[00:00 - End] (Speaker / Group)**: - **[4:27:48 PM] Andy**: Oh yeah I have one password so I yeah. They haven't been hacked. You never know.
 - **[4:29:28 PM] Andy**: okay I got it hold on so I'm gonna click on the host there's the clubs the thing there and then here's the meeting so okay so I'm gonna log out alright some log out here sign out okay now I'm gonna copy this just in foe home I'm just take a second. Come on come on. Take that one. And then do it. Move it over to the password. And then the password. Right now.
@@ -364,5 +222,147 @@
 - **[7:29:44 PM] Andy**: Well whose date are you following?
 - **[7:29:54 PM] Andy**: You can ignore my alert my statistician thing that says six inches above that. Yeah but six of five is okay for us sweetie. Seven we'd have to worry. So I wouldn't worry about it, so he could go out there and look.
 - **[7:30:27 PM] Andy**: Okay I'm gonna get into my science fiction and stuff stuff.
+
+---
+
+## 🎙️ Session 2: 2026-09-09 11:25:57 (5h00m)
+- **Source File**: `2026-09-09 11_25_57.mp3`
+- **Audio ID**: `of_5cead813733e8d10aa334c23e72a1032`
+
+- **[00:00 - End] (Speaker / Group)**: - **[11:27:28 AM] Andy**: Ooooooh
+- **[11:27:58 AM] Andrea**: I'm going to have to go to the other side to see if I'm going to be able to get out of here.
+- **[1:40:35 PM] Andy**: So I haven't done partly anything today the tramp drilling and I'm preparing for the bidding quest. I have no reading really hopefully.
+- **[1:41:08 PM] Andrea**: I could get this.
+- **[1:41:11 PM] Andy**: Just follow the script but I want to be able to have some idea before I go into some of these things. So it's just partially what I have to do I think.
+- **[1:41:27 PM] Andy**: I'm going to have a little bit of water to make sure I don't get too much water in the water.
+- **[1:42:17 PM] Andy**: What is it?
+- **[1:44:17 PM] Andrea**: Sticks 2 concentration
+- **[1:44:47 PM] Andy**: Do bring it to me.
+- **[1:45:39 PM] Andy**: Hmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+- **[1:46:41 PM] Andrea**: a little bit of this,
+- **[1:48:59 PM] Andrea**: I'm going to have to go back to my room.
+- **[1:49:25 PM] Andy**: Let's make it!
+- **[2:10:25 PM] Andy**: Create an image of a desert rising up to a mountain rocky mountain with horses in the the background sagebrush using the following words.
+- **[2:38:44 PM] Andrea**: Let's see how this one grows. What do you have there?
+- **[2:38:54 PM] Andy**: We love the other.
+- **[2:53:42 PM] Andy**: the workers go to the game thing oh gosh yeah I would just go there and I would just trashed a giant so I was loving the eggs Oh good That's an idea Yeah Oh you sound great I know Don't bump into people Yeah that's what I do I do I go underneath the awning somewhere Yeah Oh you're in right field First you're okay third baseline well that's the sun gets there's more shade there as the There you go it's home.
+- **[2:54:50 PM] Andy**: Oh great.
+- **[2:55:01 PM] Andy**: Oh they are? What ending is it in? Oh games almost over. Okay well you sound great.
+- **[2:55:38 PM] Andy**: That's right I hope you're not going to be a Giants fan though But you know what you may not much have a choice Because there is no more age You have to be the lost Vegas age Yes going to be a Giants game But Oakland has a minor league team now I I forgot what they call them the ballers or whatever.
+- **[2:56:15 PM] Andy**: Oh how are you doing? Okay you sound great. Okay great.
+- **[2:56:31 PM] Andy**: Yeah so I. Okay Is any change in the date at all or saying Okay Okay I hope it's not a week before when I'm gone but I'll be right back Yeah Hold it in girl Hold it in Okay. Yeah 60 days would be actually perfect because that's the middle of November before I go on retreat is by a year or so Perfect. Do it for me girl Do it for me. Okay okay that's neat when speaking you know Oh that's great When are you going to stop working?
+- **[2:57:35 PM] Andy**: Oh okay so you're going to start a whole okay that's good You have some time up to it.
+- **[2:57:48 PM] Andy**: The curve yeah I mean that's all it cuz if somebody let me see it but you know early
+- **[2:58:08 PM] Andy**: Oh you see you forgot about me already damn you Yeah it always is I just got back from retreat and physically challenging I have my physical challenges No real piece will sit but I got a lot out of it and I'm continuing to hopefully build upon it So I think I have to continue doing what I'm doing I think. Getting up my back is deep one and then I have some neck issues so I changed my that was my major thing that's my neck issues so I've got I've changed the Hello and you know I'm always tweaking I have like five different setups you know? So yeah I'm always tweaking trends you know and I can do some weight, which I've lost you know just a pound here or there so not much.
+- **[2:59:26 PM] Andrea**: Yeah that's going to happen soon I really like the fall.
+- **[2:59:35 PM] Andy**: Football girl Football season So yeah Yeah I'm preparing I'm going to be the spiritual elder for this retreat so I'm preparing I mean we're going to vision class so I'm reading poems and trying to write things and you know get things studying up for it yeah so yeah that's what I'm doing today and then I got a political meeting and I got another meditation group meeting here shortly and so I'm just that's today and then two days yeah we leave Saturday morning so I'll be gone Saturday morning for a week okay well all right I love you so much thank you for calling me you're the light of my day all right Love you. Bye.
+- **[3:03:40 PM] Andy**: right there,
+- **[3:14:37 PM] Andrea**: Oh there!
+- **[3:14:57 PM] Andy**: Oh it's here. Haha. Today is your birthday. You're going to have a good time. Haha.
+- **[3:15:27 PM] Andy**: Oh boy. I don't want to go out there.
+- **[3:17:56 PM] Andy**: I'm working on doing my job it's going to be for the next week other than muscle trying to organize you know just my thoughts around when I want to share kind of thing. So yeah it's really neat what I'm doing I got a thing I've got here that I've already I'm going to share it with you just so you can look at it and know what you're talking about maybe. Great It's hard to make fun of super low strokes and then I get to see it until a little later. Well what if I bring it to you? Yeah I'm okay That's fine You can just throw it in the trash Whatever you want to do I'm not that I'm doing this just for me and you think she's too rough. never did that Well you might I mean you might do that but I'm not going to worry about it So it's like let's let's how you just info I'm not worried about it That's really not So it's really good stuff And yeah I'm not worried about it I know other
+- **[3:19:38 PM] Andy**: folks didn't necessarily go out of my way but like I said I don't want to be I want to feel kind of authentic what I'm doing here.
+- **[3:19:48 PM] Andrea**: So I don't have much memory I see that well why is Kevin taking yours?
+- **[3:20:03 PM] Andy**: I know but it's okay.
+- **[4:03:49 PM] Andrea**: Hello Lucky?
+- **[4:04:09 PM] Andy**: Hey Andy. Hello Lucky Hey Andy You got me No I understand this is a transition time for many folks so that was going to be happening. I am I'm actually no will for quite a long time And we've been working together on various things related to you know mindfulness meditation et cetera So he was I just want to talk to me about it and encourage me to participate and read a group you know. So I've been doing this for about you know it's like 15 maybe 16 years on my own. And so I just wanted to to me it's very helpful for folks. So I just want to you know carry it forth as best I can. Yes.
+- **[4:06:03 PM] Andy**: I don't have a problem with zoom at all. I'm an advanced zoomer and if there's any I just need to be able to get the I don't, you know I'm now a fixed income I don't really pay for anything that way so I need a you know some access to some method of being able to hold the meeting where they don't show it down after 40 minutes and they call that kind of stuff. And then I'll have some other things. I have to figure out like I've got a couple of cameras here and I've got a both-lap top that I can use because I've known that it is AV gear is actually in the over where the board table is and not Functional for a circle group So I'm going to bring a couple of cameras and I they don't have an owl I guess they took the owl over to the other site
+- **[4:06:55 PM] Andy**: So I don't have an owl or an access So I'm going to just to do my best to win it You know to get it going.
+- **[4:07:26 PM] Andy**: Yeah I'm going to have the other camera right now I'll figure a way to do it. I have some speakers I might also be able to use over there I don't want to fill out the whole thing with a bunch of equipment because that's kind of not the point in some So I'm going to show up early the first time and then they'll probably be some hiccups. So we'll have to be probably modified for the you know at the very beginning if I can't, I don't want to spend my time just worried about that for say And we can like I said, I can put like a speaker to it that everybody can hear if somebody talks and they won't be able to see that'll probably be the biggest thing I'll have to figure out how I mean they just won't be able to see so they'll have to hear
+- **[4:08:39 PM] Andy**: Yeah and now have a camera so they'll be able to see those folks on a view and that's what the owl will do would improve that and it's also a speaker so it would make that easier and so yeah I'm just going to have to wing it for a little bit I have I've been there so I was out and he actually has a large monitor in the back that everybody could see and there's a monitor that they can all turn to and look but we don't have that available at the other place so yeah yeah they got a different layout there yeah so it's okay it's the way it is so we'll have to figure we'll have to you know work with it that way and I'm okay with it I mean I mean I have to be with it there's really not much choice you know So you know no such thing as a roll-around monitor or anything like that is there?
+- **[4:10:12 PM] Andy**: I've never used a projector Is that something that maybe as you go there and see how that works out and then I could see maybe I could use that because at least if they could see people in the far end that would be really kind of nice.
+- **[4:10:39 PM] Andy**: Well no see another way I could do it is is become a remote site to that meaning turn that on and join the meeting separately from that site joining on You see I'm saying and then make myself a host Then that way you know I'm saying so then that's you know you have to do some two-step in there but it could be done and so yeah that's what I would want to come and show up maybe be a separate day and you know set that up and test it Which I'll be glad to do I'm going to be gone as the reason why I delayed until the the 24th I believe we talked about the first one is because I'm getting ready to go and be in a way from humanity for another week and a half So I'm going to be coming back that following Sunday before so I have to do something early in that week if I can.
+- **[4:11:46 PM] Andy**: Okay Ken who would I range to go and visit the space and have access to that if that happens you know when that? I think it's on Thursday Yeah it's on Thursday too.
+- **[4:12:07 PM] Andy**: Okay and I just need to know the schedule then to know when I could actually access it I guess.
+- **[4:12:22 PM] Andy**: Right that's right.
+- **[4:12:23 PM] Andrea**: Okay I'll ask him about that and ask him what kind of two-hour block I can get just to go in there before anybody else is and play around with it.
+- **[4:13:06 PM] Andy**: okay well maybe I'm the impetus for that you know where we can I can help with that like I said I have some background and I could help with that with you know with no problem.
+- **[4:13:49 PM] Andy**: Okay okay I'm looking Did you already add it?
+- **[4:13:58 PM] Andy**: I well what I'm doing is I'm going to the SCOM clubs where the list is to see if I, I've got you.
+- **[4:14:19 PM] Andy**: Yeah we just need to get him to make you know and all that so that he knows what that is of if it's a different length or not. I'm not sure.
+- **[4:14:32 PM] Andrea**: So I don't see where it was talking about so I think I saw it in the beginning. So I had some civic considerations for 12 meters.
+- **[4:15:10 PM] Andy**: Great.
+- **[4:15:14 PM] Andrea**: yeah great yep yep yeah, Oh okay got you That's weird Okay.
+- **[4:15:54 PM] Andy**: Okay Okay.
+- **[4:16:10 PM] Andrea**: no My company I had we had both Microsoft Teams and Zoom full accounts.
+- **[4:16:28 PM] Andy**: We had I've got like every name to mankind We were uh had them at our company. So I was an admin for my own account you know I got my own license and everything. So they had some admin set in this of course with some of the things. But yeah I'm fully you know fully competent and dealing with anything zoom wise that you guys have given us access for you know what I'm saying. So I have the desktop application. I just disconnected all my calendars and everything. But I still have the desktop app so it's really you know I have that. Yes I just call it zoom and then it's called zoom workplace and then they have the whole thing where they want you to be in their room environment and everything and like I said I have a lot my old log in and it's just limited to you know I don't have full access to
+- **[4:17:48 PM] Andy**: everything which is cool with me PC yeah there's got your they've got the little icon for you that you have you're available for you and it tells you with your green or not Yeah I have all that Yeah So you're going to give me a you're going to basically add me to your account is a is one of the users And And then that way I'll be able to yeah I'll be able to access it that way as I host. That's right. I am not sure at this time what I would normally do is if somebody reaches out to me then What I would do is normally you know since they have my e-mail or whatever what I would do is I would you could do that by joining the meeting and then you could click on and give them a link to the phone if need be unless you yeah unless you include that in
+- **[4:19:20 PM] Andy**: the link somehow you know.
+- **[4:19:22 PM] Andrea**: yeah you know we'll include it because one of the other things I'm planning
+- **[4:19:47 PM] Andy**: on doing is I'm thinking of having guest speakers who may be zooming in so if they have to use their phones sometimes then that's an option for us. So no problem.
+- **[4:20:27 PM] Andrea**: Yes.
+- **[4:20:40 PM] Andrea**: So at the end of the day I just want you to count the same things as currently in your account. So we don't want that.
+- **[4:21:08 PM] Andy**: Sparky Yes Sparky Flash Rebob Yep no problem And right now I'm not sure who that might be So I mean either my wife to do it or I might have will So we'll see how that works out So right now let me just get back to you when that happens Yeah.
+- **[4:22:27 PM] Andrea**: Gmail.
+- **[4:23:05 PM] Andy**: thing because sometimes it's browser-based so what I'll have to do is when I've first do that I'll do it with my laptop okay
+- **[4:23:57 PM] Andrea**: Yep yep.
+- **[4:24:29 PM] Andrea**: We're talking about this one a lot of events a lot of the audience that insert this text.
+- **[4:24:33 PM] Andy**: Yeah okay so it's that you want me to create template with it okay?
+- **[4:25:08 PM] Andy**: Oh GMO protects you. Okay when we get it then we'll have to if there's any issue then.
+- **[4:25:17 PM] Andrea**: We'll be in the first gen of A.U Mod we'll stay out for it.
+- **[4:25:40 PM] Andrea**: We'll be in the next round.
+- **[4:25:43 PM] Andy**: Uh-oh. Uh-oh.
+
+---
+
+## 🎙️ Session 3: 2026-09-09 06:25:56 (5h00m)
+- **Source File**: `2026-09-09 06_25_56.mp3`
+- **Audio ID**: `of_a49047d03d950b7692b932e244790e09`
+
+- **[00:00 - End] (Speaker / Group)**: - **[6:26:26 AM] Andy**: he's a little bit over here.
+- **[6:27:10 AM] Andy**: nausea.
+- **[6:27:11 AM] Andrea**: No thanks a lot. It's good.
+- **[6:27:16 AM] Andy**: Water.
+- **[6:27:17 AM] Andrea**: You sweaty though.
+- **[6:27:19 AM] Andy**: That's one of the things that happened to me in the morning. That's something no look at. I think health wise. Because when you It actually affected me when I It's walking down the wall to me. I'm already sweating and I haven't been dying.
+- **[6:27:53 AM] Andy**: Can you keep your glasses? Yeah I think I'm going to have to go to the bathroom.
+- **[6:28:01 AM] Andrea**: And then I'll cover the house. Okay so Oh shit.
+- **[6:29:09 AM] Andy**: So they're too low or too high?
+- **[6:29:14 AM] Andrea**: I'm not sure they're just they're not the ones that are working with my eye.
+- **[6:29:20 AM] Andy**: Oh because when I was last at the glass place they showed me how to adjust them. You adjust the nose bridge and it brings it lower or higher. Because I didn't and I didn't know my old glasses are that way. and I went and came home and I adjusted it and I got a mortars center of my eye.
+- **[6:29:44 AM] Andy**: You just you know you have to make them closer or wider so that it falls on the bridge a little bit differently.
+- **[6:29:54 AM] Andy**: Well you may have to move one of you know I'm saying you'll have to adjust if that'll have to be how it's adjusted.
+- **[6:30:04 AM] Andy**: You want me to try with you later today because it's really minor.
+- **[6:30:22 AM] Andy**: Oh okay sorry.
+- **[6:30:29 AM] Andy**: Yeah it helped me because mine was the same thing. In fact even they have a little thing where they put the center of your eyeball where they're supposed to be in the glasses And then when you get them it's like well wait a minute. It's not allowed. So I learned how to just mine.
+- **[6:30:57 AM] Andy**: There's a copy of what you wanted. I saw that sweet pie and it's gourmet shit. That's kind of a KCD. I had a little bit of my leftover coffee and I'm going to blend in a little bit.
+- **[6:31:18 AM] Andrea**: But it made it strenchro.
+- **[6:31:21 AM] Andy**: Ah neat.
+- **[6:31:24 AM] Andrea**: It's going to be really hot but maybe we don't go climbing around the storage until tomorrow morning.
+- **[6:31:30 AM] Andy**: Yeah that's fine. It's fine. We're going to do laundry tomorrow too. You and I are professionals. We can get through all this stuff. And you know I mean just kind of figure out where we get the water bottles out get the stuff out, put it down so we know where it is. And then for us I got to go through my yeah that stuff is we have those things we'll get it ready yeah maybe I'll do some cleaning of the office a little bit to make some room for
+- **[6:32:07 AM] Andy**: floor space yeah I got my sleeping bags already out it was what I took with me to the uh right so I found that already but all my stuff is over there where the camping stuff is in the right it's really easy other than the cuts so our chairs are in the closet here sweetly bowing to you do do a booboo
+- **[7:29:21 AM] Andy**: There is a lot of Carbonara gochujang. activates flavor and vielener
+- **[7:50:52 AM] Andy**: There we go.
+- **[8:12:16 AM] Andrea**: a little bit of salt,
+- **[8:15:06 AM] Andrea**: I'm going to add a little bit of water to make sure it's not too thick.
+- **[8:15:27 AM] Andy**: if you're going to be able to do it but you're going to be able to do it.
+- **[8:34:05 AM] Andrea**: I'm going to add a little bit of water to make sure that the water is not too thick.
+- **[9:12:36 AM] Andy**: Alright I don't think I can adjust the Clod's meeting modes.
+- **[9:19:34 AM] Andy**: are being confused in the current file I'm working on. So when I infer Andrea's turns a lot of them are actually sunny also mixed up. And when I press the play button then there to listen, nothing goes. So I can't hear anything.
+- **[9:31:37 AM] Andrea**: if I can do it.
+- **[9:47:21 AM] Andrea**: a little bit more,
+- **[9:48:53 AM] Andy**: Okay so all this morning has been reviewing voice prints and hoping that it gets so good that I rarely need to do it because I'll focus on the unrecognized and then just briefly They look at the other ones to see if they're accurate and then I shouldn't have to do this as they've thrown too much except for like retreats and special meetings or things like
+- **[9:50:12 AM] Andrea**: top your headumbling
+- **[10:03:04 AM] Andrea**: just a little bit more,
+- **[10:17:23 AM] Andrea**: I'm going to put it in the middle of the room.
+- **[10:20:13 AM] Andrea**: I'm going to put it on the other side.
+- **[10:29:00 AM] Andrea**: What is the forecast for the next 10 days?
+- **[10:32:14 AM] Andy**: OK so now we have
+- **[10:34:34 AM] Andy**: I'll put this in the fridge and put it in the fridge. Let's make the last one registers.
+- **[10:35:48 AM] Andy**: Let's heat it up well
+- **[10:36:18 AM] Andy**: Hey Google is there a way for me to keep Hard boiled eggs is for a week If I am going camping.
+- **[10:36:58 AM] Andy**: To keep hard boiled eggs safe for a week while camping you must maintain a constant temperature of 40 degrees Fahrenheit or lower. The best method is to keep the eggs in their shelves and pack them in a high quality insulated cooler with plenty of ice or freezer packs. It is important to keep the cooler in the shade open it up in frequently as possible and ensure the eggs are not sitting in water as the ice melt. If you cannot maintain a temperature of 40 degrees Fahrenheit or below you should not consume hard boiled egg for that duration.
+- **[10:38:51 AM] Andy**: Let's just stay here. You missed it? 5. 5. 7. 8.
+- **[10:39:24 AM] Andrea**: 9. 9.
+- **[10:39:31 AM] Andy**: 10. 10.
+- **[10:42:18 AM] Andy**: Anyone else who has questions?
+- **[10:47:08 AM] Andy**: Remix with Blue Blue having a very difficult day and do do soothing her.
+- **[10:57:37 AM] Andy**: I'm going to put the
+- **[11:01:35 AM] Andrea**: Good side Duke uh,
+- **[11:02:32 AM] Andrea**: who's a doc car
+- **[11:02:41 AM] Andy**: We need to follow.
+- **[11:03:37 AM] Andrea**: You are. In any way so far it's a little rough.
+- **[11:04:22 AM] Andrea**: not a lot.
+- **[11:05:30 AM] Andy**: You decide to cut up.
 
 ---

@@ -39,4 +39,9 @@ Fabrication
 
 [https://www.lionsroar.com/it-all-depends/](https://www.lionsroar.com/it-all-depends/)
 
+---
 
+### Sutta Citation: The Three Types of Fabrication (MN 44)
+> [Visākha:] *"And what, lady, are bodily fabrications, what are verbal fabrications, what are mental fabrications?"*  
+> [Sister Dhammadinnā:] *"In-&-out breathing is bodily, bound up with the body, therefore is it called a bodily fabrication. Directed thought & evaluation are verbal, bound up with speech, therefore are they called verbal fabrications. Perception & feeling are mental, bound up with the mind, therefore are they called mental fabrications."*  
+> — **MN 44 (Cūḷavedalla Sutta)**

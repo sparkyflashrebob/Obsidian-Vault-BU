@@ -1,0 +1,1671 @@
+# Plaud Daily Transcript - Saturday, September 12, 2026
+- **Date**: 2026-09-12
+- **Total Audio Sessions Processed**: 4
+- **Generated**: 2026-09-19 05:33:45
+
+---
+
+## 🎙️ Session 1: 2026-09-12 17:00:43 (4h05m)
+- **Source File**: `2026-09-12 17_00_43.mp3`
+
+- **[5:00:43 PM] Unassigned**: Buddy you or do you have a large flag or something I brought some blaze orange hanker chips yeah I got a white t-shirt okay you know what I use on mine up there I had a huge 4x8 happy baby yeah that would be good yeah that would be good but I didn't bring it sorry I'm just gonna you know I'm not going out I may just go to my old spot where I'll out west over there At the end of the road and then you've gone You didn't like the one where Andrea's spot Oh I like that a lot. There's a lot that's a neat area there In fact she went on the face facing us and I like the face on the other side where you will haul That's what Debra and I did I think there's tiger There was definitely air out there definitely in that line. Definitely because I was in there and I heard it.
+
+- **[5:01:41 PM] Unassigned**: And I said what else? Kind of a noise It was snuffling and then it sounded like it was purring. And it was like you know like a gun. It's like what else is making that noise? I think it was the mountain line. And I just sat there going. Well you mentioned you went up to that peak there. One year the second time I went out I went up there and something had peed in my sleeping bag with me. Are you sure? I'm sure it.
+
+- **[5:02:14 PM] Unassigned**: That was me Andy. I'm going to go to the other section. I mean that was you know I would have you know. So I'm like how did that happen? And I mean it was on the outside. It wasn't me like it wasn't on the inside. Okay that's another clue. So you think it was a mountain line? Who know I mean who knows how many different kind of animals could be yeah there was this other animals here Back and not for a while but when you're there was she's not a child
+
+- **[5:02:47 PM] Unassigned**: I'm gonna be up there Okay there are a couple of years to start up over there and you go wow that bike is straight behind you you hear? Oh man that makes sense. I was on a truck in the Mojave in the middle of freaking nowhere. And I had those coyotes and I kept getting closer and it was a pack of them. I was a little scared. I've never heard of a human being attacked on a building. That's what they say. I know it's just off I didn't want to be the first but then they started they're getting closer and then they were getting farther and farther Yeah too bad I had I was just on the retreat last week and
+
+- **[5:03:35 PM] Unassigned**: Every night coyotes howl and you felt they were right outside your window and I recorded them in one night It was like three in the morning I couldn't go back to sleep it was like so it startled me and it was and then they were the other ones they were like earlier 9 p.m or whatever 10 p.m and they were where was this spirit ride oh yeah so when we did that in San Abinisha we were trying to count there were some idiots introduced them as they say that's not the story after they came from but they were very They would be on your street and they would start howling and then they'd catch something on a beer and you'd feel over by 20 of them. I mean you would just you know in the winter if I took the truck in the dusk you'd see
+
+- **[5:04:28 PM] Unassigned**: a coyote fucking walk in my ears and out of the street you know that's not the natural environment really. Okay you want me to blow your mind? I was talking to a guy after the retreat so we were at the coffee shop there in Fairfax and I'm talking to him about our retreat. And he said we had 18 turkeys that were on the property there the whole time right? He saw a coyote and a turkey feet from each other. They're off yeah. A stare off no attack.
+
+- **[5:05:04 PM] Unassigned**: There were people around though. The coyote didn't move and they were just like right there. Yeah and apparently and then the Kiety just kind of walked away but I've never heard of Can you imagine a stand-off like that right with one turkey and one Turkey but if we've got to figure it that in life for all the other animals on this It's a they can't afford to get injured So every whatever no problem So this definitely I could do something on you know You get away with it Are you getting infection? You know whatever you just do Oh yeah I'm in your dad Yeah Well those guys are figuring out It's you know how serious is this and how would I get that guy would I get an injured right not to the second
+
+- **[5:05:46 PM] Unassigned**: Nature that they're making Yeah still too out Well I I was watching a Video what I think last night where I'll help a whole bunch of bowloons going to parking pines Yeah and they were trying to attack the parking pines and And the porcupine just kept on stabbing them with these quills. All of them got them and they got them in the chest of gum. Do they hands am I multiple to the hand? They're whining trying to get them pulled out. And those two are starving. Oh my gosh they did.
+
+- **[5:06:18 PM] Unassigned**: The rubber guards are smart. You figured they were smart but they were really persistent. They were so curious and so wanted to get this thing. And they never got it. The porcupine got away. I was running up the quills and there's 3,000 I hear quills and something like that and they've got a lot of ammo
+
+- **[5:06:45 PM] Unassigned**: Thank you Mark I think you may have got it to the hot man
+
+- **[5:10:01 PM] Unassigned**: Oh my gosh you're such an angel oh man okay let me get out of the way of the door that darner killed me yes I saw I was planning on doing it So we get this set up. Just order to get this set up.
+
+- **[5:11:11 PM] Unassigned**: Okay sweetie I'm so happy for you.
+
+- **[5:11:21 PM] Unassigned**: Where is the driver? I just hope that he could get a little more. Here we do. There's a uh I think there's a little huck inside somewhere.
+
+- **[5:12:19 PM] Unassigned**: You got it it's an hour and a half.
+
+- **[5:12:49 PM] Unassigned**: You know do you see what I did with it? You know you see what I did with it? I'm just
+
+- **[5:13:27 PM] Unassigned**: I know. I'm trying to
+
+- **[5:13:40 PM] Unassigned**: I think it looks like a nest. Can you pull thatps? So jealous it was easier in yours to pull out but here give me your give me your before you It doesn't lock This leg is not locked Oh I see how it locks You have to it fully extended and then it snapped like that I don't think yours is locked on that end Pull it out the opposite way from you No no you're letting me do it I want to show you here if I show you a picture Come back and sit on this See that one See how So that's not fully extended when you fully extended it locks up into the leg. So here just try this one first. Yeah give me that give me your stuff in the way you know I hope you.
+
+- **[5:15:30 PM] Unassigned**: Yeah but it's not okay there you go pull that one out it's not pulled out all the way yet but it may be at the lock Okay Okay All right.
+
+- **[5:16:25 PM] Unassigned**: I'm going to get this out 40 seconds I'm going to get this out 20 seconds I'm going to get this out sweetie. That's good. I have an alarm for 6.30 just to get ready I think they could.
+
+- **[5:18:38 PM] Unassigned**: those wife
+
+- **[5:18:49 PM] Unassigned**: There's a lot of people here but there's a lot of people here but there's a lot of people here but there's a lot of people here
+
+- **[5:19:49 PM] Unassigned**: I have a knife to put it on the back of my head and I'm going to put it on the back of my head and I'm going to put it on the back of my head and I'm going to put it on the back of my head I'm going there. I'm going to pop up. There we go. There we go. We are going to get in the Fürst You ready to sit on it? Oh we can lick it. Wait in the night.
+
+- **[5:21:36 PM] Unassigned**: Did we bring the pig light? I have a flat face with the music that I'm playing. Yeah me too. In fact I have my little headband thing that I can inflate. Okay we can do that okay we'll be fine.
+
+- **[5:22:32 PM] Unassigned**: I just wish it were a little bit different. One more tip I'm cutting off the bed and I'm going to get out of this.
+
+- **[5:23:02 PM] Unassigned**: It's so funny to put all this energy out it's not really sweating because it's sweating. And it's so you know a humid I mean dry but you have to watch it so that's a sign right there. You have to turn water all the time. What's your life? I haven't done what's the life that's worth. What's your life? Well she's got a lot of likes in this water. She's been 20 years in a whole thing. What's the same bad idea?
+
+- **[5:23:52 PM] Unassigned**: I'm trying to make fun do you need to get out? You know what I'm trying to do and just uh and just my stuffy little bit without anything, is what you're doing. And slide this up eventually. I'm looking for this one.
+
+- **[5:25:03 PM] Unassigned**: You are? I'm telling you I'm going to bring that one huh? I think it's a lot easier to fill up. So I'll have to bring my own tent I got it I see We can put it up right next to each other.
+
+- **[5:25:21 PM] Unassigned**: Remember we bought a standing one. We need some wire we got. But you can't put the cost in. Okay So you're saying that you have a tent Your little tent has a same square foot. space is at the bottom of this one but it's really small. I won't know that for sure until I try that. Okay but you get my drift. But you can sleep. We just probably sleep in it with our cloth. So this one?
+
+- **[5:25:59 PM] Unassigned**: I'm going to take it to the park and put it there. And now we only have a more draft. You can't take it through. Just a front line it's not.
+
+- **[5:26:17 PM] Unassigned**: No it's not me.
+
+- **[5:26:30 PM] Unassigned**: It's not me.
+
+- **[5:26:37 PM] Unassigned**: When you think of both of them as an at-site. and then in short that would be it.
+
+- **[5:27:32 PM] Unassigned**: And that's your nod because it would be hard for you to twist down your end. Yeah it's good man. I would say yeah okay close it up once you close it up you just do it right now so they get colder I feel good in the middle here bring it in in the middle put that underneath.
+
+- **[5:29:08 PM] Unassigned**: breaks and blows oh I think it's here right there
+
+- **[5:30:36 PM] Unassigned**: Where are you going to put your blue buffy waters out? I'm in the back I'm in the corner I'm in the corner I'm in the corner I'm in the corner I'm in the corner I'm in the corner I'm in the corner I'm in the corner I'm in the corner I That's why I made all that mess with the ground. I'm seeing this too heavy ahead.
+
+- **[5:32:13 PM] Unassigned**: Something's broken down still. You need to bring my warmer jacket down there I guess.
+
+- **[5:33:03 PM] Unassigned**: Oh yeah and then I just need 1 hour and 30 seconds to get my nerves.
+
+- **[5:35:31 PM] Unassigned**: I think I got I got more than more I got we're in my back it's right here I think. I don't have a sacred bag I don't bring up the radios yet. Put those right here of course.
+
+- **[5:37:01 PM] Unassigned**: Yeah I got it.
+
+- **[5:39:00 PM] Unassigned**: I'm going to do. We're at the end of the day.
+
+- **[5:39:34 PM] Unassigned**: They have a lot of nerve it's his best use by August 29 2027 how could water have an expiration date? So it's bogus it's probably the material they got in there or something. Thank you. I'm gonna go down I'm gonna go down too I'm just trying to use her water and I am yeah I think I put the flashlight up there I hope I did. You can get modest if you sit on this side and then I will try to we're gonna have I have some time tomorrow I'm putting a jacket I have a jacket down there. I'm going to shoot in the jacket
+
+- **[5:43:49 PM] Unassigned**: why why
+
+- **[5:44:15 PM] Unassigned**: Right around here. It's trying to find some. There.
+
+- **[5:44:26 PM] Unassigned**: Good. Nice job. Good. Good.
+
+- **[5:44:37 PM] Unassigned**: Good. Good. Good. Good. Good. Good. Good. Let me see what he got. Yeah I've met the same artist foods. Pat and I got into a little different time.
+
+- **[5:45:10 PM] Unassigned**: I'm fine. I'm good. If you find one or two positions with a different color, you've got one that's probably one of those. It's bigger.
+
+- **[5:45:26 PM] Unassigned**: I think I'm probably right there.
+
+- **[5:45:36 PM] Unassigned**: you need help? no wait alright yeah I'm gonna stand we're gonna be quick I don't care I'll tell you where to play it go for it I can't get enough stuff I can't wait I'm gonna hide it over here that's fine that'll be fine from 4
+
+- **[5:46:13 PM] Unassigned**: three jackpots nothing? I can bit we're holding up here okay we're gonna win Okay Um let's turn it out.
+
+- **[5:46:41 PM] Unassigned**: Okay well Victor you're exhausted. As I said today it's working great.
+
+- **[5:47:03 PM] Unassigned**: I had a sponsor who made it for me yeah someone both some both Andrew and I both knowing Yeah he is a sad story Yeah He was a you know I forget Yeah he was a native. using the 7 a.m for a bit yeah I hadn't been pringing it out just because in some ways it's not my primary path but it does have special significance to both of us so So I decided this time do we need to tighten that up? It looks like it's wobbling something when you're yeah we probably should when you push on one end or the other okay when we move it we'll uh so yeah just thought because my role is different this year, I'm a base camp that maybe it will be appropriate. Yeah I have a little one that Peter gave me.
+
+- **[5:48:50 PM] Unassigned**: Oh nice. I should have brought it. Hmm I lose track of things. Oh uh as soon as I got this I hung it. I have like little shrines around my whole house. How many do we have? probably four or five She uses the top of the dressers as shrines and I had two bookcases as a shrine plus plus we've got in the living room So we got a mall over to place So this is on I have posters on the wall so I have a little area where it's been sitting untouched What are you doing You want some help Back?
+
+- **[5:49:47 PM] Unassigned**: Okay Kevin I help you.
+
+- **[5:50:17 PM] Unassigned**: I jammed it in there to keep it tight. I'm going to take a look at this, I'm going to take a look at this, I'm going to take a look at this, I'm going to take a look at this, I'm going to take a look at this, I'm going to take a look at this I'm going to take a look at this, I'm going to take a look at this, I'm going to take a look at this,
+
+- **[5:50:56 PM] Unassigned**: I'm going to take a look at this, I'm going to take a look at this, I'm going to take a look at this, I'm going to take a look at this, I'm going to take a look at this, The chair is so probably up to land down if you're not using the wind in the wind.
+
+- **[5:51:38 PM] Unassigned**: ouch.
+
+- **[5:51:52 PM] Unassigned**: We just built this p build on the Who's gonna use that one? Do you bring your keys? Do you bring your keys? I don't have them. Just put that in the car when you
+
+- **[5:52:46 PM] Unassigned**: Check here stand there.
+
+- **[5:53:40 PM] Unassigned**: Very windy day.
+
+- **[5:56:12 PM] Unassigned**: You're going to uh you've got the beater.
+
+- **[5:56:32 PM] Unassigned**: I can also I can also share mine because I have I may not be able to give you a moment
+
+- **[5:57:02 PM] Unassigned**: I'm going to have a look at this one, I'm going to have a look at this one, I'm going to have a look at this one, I'm going to have a look at this one, I'm going to have a look at this one, I'm going to have a look at this one, I'm going to have a look at this one, I'm going to have a look at this one, I'm going to have a look at this one, I'm going to have a look at this one,
+
+- **[5:57:22 PM] Unassigned**: I'm going to have a look at this one, I'm going to have a look at this one, I'm going to have a look at this one,
+
+- **[5:59:58 PM] Unassigned**: I'm a little tired I'm a little tired.
+
+- **[6:00:28 PM] Unassigned**: I didn't say the whole day to day so like it's gonna be the night I think yeah so it's It's going to be a rough night maybe. Yeah there.
+
+- **[6:01:11 PM] Unassigned**: Let me see if I can get another update. I had a couple bars at one point.
+
+- **[6:01:25 PM] Unassigned**: Oh there's some snorkels out.
+
+- **[6:01:34 PM] Unassigned**: That's what I was making last time it was getting hot. Oh thank you. I'm like putting it away. I'm like I don't have an in me to make breakfast. In fact I think I got an extra taco I didn't eat at the place because I didn't know it's size they were they're huge they're whole meals well I'm grateful for you taking on the food yeah or that do you actually talk to people when you provide counseling and talk to them about their their their love language okay some therapists I can imagine bring it up as a main thing when you check connecting couples you know
+
+- **[6:02:53 PM] Unassigned**: I don't necessarily use the formal love language I'm without because for you I don't know. yeah. I mean I think people you know will come into especially I'm not I'm not stereotyping women but they actually are better at relationships than guys. So they probably think about it in a way that's more meaningful I think in a way more empathetic with that or the more sensitive to that. You have a thing to think more too. Yeah I know. You have a fairly good head.
+
+- **[6:03:29 PM] Unassigned**: They do. Yeah women do think more men and brain dead. But anyway but I would imagine that that might help them to actually process the relationships. Maybe I'm thinking here. You know people in early recovery It should not process their own issues. Well a lot of times yeah because co-dependency is so powerful. We talk about co-dependency a lot. But you know we come in with our narrative and the cleaning.
+
+- **[6:04:02 PM] Unassigned**: Yeah stories yeah. And it's like just leave that lump right now and focus on yourself. We don't need to decide which regulations. Yeah that's part of the sickness the story I think. So turning the attention inward yeah. So the other therapist I think no there's one other therapist that's in recovery in the other one part. See I think that's a mistake. I used to think that was mistakes but I did some really good therapist. No I'm not saying that but I think that there's a mistake in that because I think there's a sensitivity to what It's like how can you I mean you have to have some sensitivity to what they're going through.
+
+- **[6:04:46 PM] Unassigned**: Yeah and it's to a certain extent because if you're just really if you're just like a scientist Okay and you treat everything clinically
+
+- **[6:05:02 PM] Unassigned**: Right you have that's what I'm saying yeah You have to connect to the person and you know
+
+- **[6:05:16 PM] Unassigned**: it sure can yeah in fact a lot of I've seen that kind of actually is scary thought to think of you got a therapist that you know are they even well you know you don't even know you know I mean and they hide behind their their expertise I know that's what I'm saying but for the most part most of the them been that I know I had when I was at St Alina I had two of my counselors who were therapists and they were both in recovery although they couldn't really admit what you know they're the anonymity part you run into that you know um well I mean really you don't well they they kept it separate where they you know kind of where they live and where they're so that there's like no backtalk you know you know I mean no for you?
+
+- **[6:06:28 PM] Unassigned**: I mean I hold my own anonymity. Well that's what I'm saying. I mean you don't share with your patients in recovery that you're in recovery also do you? And I relate to the material. Oh right. Yes. Yes. I mean I'm not going to like tell them how I'm like deeply cross as being the material in my current life but I'll use
+
+- **[6:07:02 PM] Unassigned**: an example of like oh my God when I first got sober by boring this is what my brain is.
+
+- **[6:07:12 PM] Unassigned**: Yeah I actually I share a thing about that. I mean I think I would too. So I think that's the best. if you can relate to them and you can express that to them so that because I think that people want to know that they're understood is really a herd is really important and you know I mean if somebody's you know I've had some just medical doctors for say that they They could only prescribe me with medical you know they had no clue that maybe there was anything other than give you a pill or give you or cut you up to the house through the duck and that like I was dealing with them with my head ache and she's okay. She what?
+
+- **[6:08:09 PM] Unassigned**: Oh she fell and the wind was blowing us around when we were setting up our tent. Luckily Mark came and saved us and helped us give us a third leg if you know what I mean. It was very I'm very grateful for that. I'm pretty happy with my tent it's the best size. Yeah you got probably it. For me. It was easier to put up too huh? They'd have the new ones now that just this one yeah I'm cold but yeah the one's very deaf. Jesus I wish we had one of those.
+
+- **[6:08:45 PM] Unassigned**: You know I like so I can stand up in this I don't think anybody knows. Well that's what we wanted to get a bigger tent We had one that was we have one that we couldn't even send it to meditate. One time we went on a backpacking backcountry and we went last and they have this loop where you can go to like eight or ten lakes It's beautiful So when we got to this place where we were staying, it was mosquito infested So luckily I had planned on it by I had brought one of those nets you throw over you those don't work but we tried it for a while we were still I mean there was like hundreds of them I mean it was and in fact we were the lake was what the the thing that was spawning and criffing them and so we and when we tried to get into the tent to meditate we couldn't really sit in
+
+- **[6:09:55 PM] Unassigned**: there I mean it was like we had to lay down in there only So we decided we were going to get up one we could sit in which we did We got one and we were using that one.
+
+- **[6:10:11 PM] Unassigned**: They could stand up and put you caught Yeah we were trying to make room for us to, You know if you're going to be sitting in a bay camp we can love to read it we're going to have to read it. Well we're going to be yeah.
+
+- **[6:10:32 PM] Unassigned**: Yeah I was yeah. But it's pretty nice to be able to I love my car because I can sit on it and then I can stand up. right I got a yeah my cot is she's got that mine is not very solid you know it kind of droops a little so I got one of those memory foam kind of Christians that I can put on it I got one I can't get one for this time too so I'm not looking around that giant thing She said she should have seen her trying to use her foot at the inflators.
+
+- **[6:11:46 PM] Unassigned**: I think my clock my timing was so I have a I have this program well I have a computer program that's basically an AI agent and I've been doing so much with it give you a couple examples we're worried about flooding in our area so I asked it to create this, get these take the National Weather Service data on the storms the ground saturation from rain the storm surge coming in and I had to do a report and then And when it's over six and a half feet then put something on my calendar and give me a red flag on my computer that we need to address it. So I did that but I did it. And then I saw another report came out that there's another anomaly called the Kelvin way that we're is gonna affect us and that's when the the sea gets warm it actually has an additional
+
+- **[6:13:10 PM] Unassigned**: way that's a slow wave that lasts for like three or four months to pass because it's huge and it's coming our way so then I updated my thing to incorporate the Kelvin wave which is right now Now six inches act in addition that makes a difference. So anyway so I have it doing that and I asked it to tell me when was sunset happening at this latitude and we were looking at the angle or the mountains and the angle of the sun. And so that's when I came up with you know when the sunset is. Okay nerdy. I know I just wanted to know so I had an alert.
+
+- **[6:14:10 PM] Unassigned**: I did.
+
+- **[6:14:24 PM] Unassigned**: This will be our difficult day.
+
+- **[6:14:54 PM] Unassigned**: Look at you You got it on. You got it on your hips right? You got it on your hips? You can tell me how it comes to go out. How to strap on the federal and the tent. Okay but you're gonna bring your water out first right? Okay okay. And then you want to make sure that all of it, put as much as you can lower the weight on your hips, the bottom part.
+
+- **[6:15:35 PM] Unassigned**: Yeah that's where the water's going. Yeah well you'll know that now, but you want that when you have your other stuff. Yeah we want to tie it low. Tie it low. Put the weight on the bottom. Yeah put the weight because that's the strongest part of your bag. Here it sounds a little scared so I'm going to keep it. Oh what they have he has straps.
+
+- **[6:16:04 PM] Unassigned**: And you do have some straps on there. Yeah there's a lot of straps on there. Yeah I wouldn't know where to go with them.
+
+- **[6:16:21 PM] Unassigned**: I didn't there's some here though I didn't bring it because we didn't think we needed it. Um uh Kevin said he had a bunch of bunches but okay I might need help when it comes time to go out strapping on the tent well get everything you can as much as you can on the inside that's clean yeah and then when you strapping it in they're not help you Yeah I'll just say I think that yeah I've packed it in the bedroll I might be able to put that on the bedroll And I dropped my drum I dropped my drum on the last on the you know and actually I lost it and I had I came down the mountain and I realized it fell off and I had to go back up I love did you find it when you went back up Oh yeah I knew it was at the steep hardest part that's how it fell you know where I was good one that's good up there that's coyote yeah
+
+- **[6:17:17 PM] Unassigned**: I ran up that mountain twice then I wish I was in that shape now oh boy yeah okay maybe I go So see if we can get out of here too much. We need to mark.
+
+- **[6:17:58 PM] Unassigned**: Would you like tea? Sure I would always like tea. I like hot things to drink. Yeah this is a little cool. Yeah I drink. I drink. I do too. I do too. Actually that's supposed to actually cool you down. Yeah because it's something like a cyclone.
+
+- **[6:18:18 PM] Unassigned**: I'm just setting this up so I don't have to do it tomorrow or anything in the dark. Shit. So if I follow the cattle I'm going to go along with the sheep. Will the grass keep going? Go on flip the board. Are we going to win? Yeah it's fun.
+
+- **[6:18:42 PM] Unassigned**: Uh-oh.
+
+- **[6:18:56 PM] Unassigned**: I'm going to have a look at this, I'm going to have a look at this, I'm going to have a look at this, I'm going to have a look at this, I'm going to have a look at this, I'm going to have a look at this I'm going to have a look at this, I'm going to have a look at this, I'm going to have a look at this, I'm going to have a look at this,
+
+- **[6:19:16 PM] Unassigned**: I'm going to have a look at this, I'm going to have a look at this, I'm going to have a look at this, I'm going to have a look at this, Oh yeah he offered it to us but
+
+- **[6:19:54 PM] Unassigned**: Yeah he's an angel to us thank you so thank you for knowing me. That's what community is all about.
+
+- **[6:20:46 PM] Unassigned**: I'm jealous. Might have to get another one. I don't want to hear it Okay I know it's good I'm playing. Is that a four man or three man or two? You know the way it's a two man because that's the one person being. So is everybody eating sitting down and eating? No there's some snacks in there though. I've got some stuff from leftover so I'm gonna eat two. All right one more V8 you know you can snack on them. All right we're going to grab these for a V8.
+
+- **[6:21:28 PM] Unassigned**: OK grab these. They're eating to have counsel at the end. Yeah we're going to grab these for a big time.
+
+- **[6:21:40 PM] Unassigned**: So I saw it a couple of days ago.
+
+- **[6:22:02 PM] Unassigned**: So now now a couple.
+
+- **[6:22:16 PM] Unassigned**: Gotta be a circle.
+
+- **[6:22:27 PM] Unassigned**: There's five clusters seven others. I was surprised when we were near Lake Tau it was like 82 or something like that. me redriving that was weird it was warmer up there than it was down here oh yes it's so sad that fire that went all the way through there man remember I mean I don't love going over that pass or no cars or anything Yeah we're really nice.
+
+- **[6:23:36 PM] Unassigned**: Yeah and then it's just really going across the straight guide to these emities. The center values you know there's not much touching there it's pretty obvious. Yeah I have a senior pass now so like no fees. I used it at Joshua Tree I used it at um how much does a senior pass uh it's like, um 60 I think yeah so eight no I got the perpetual so I think my 80 perpetual, wow forever and at what sorry i don't want to get political but luckily didn't have the president on it and um it was a ram and my my initials are uh r-a-m so it's kind of been always been um kind of like an emblem kind of for me and then I am guess I'll tell you I'm beyond it I'd be on that Ronald Andrew McGuire
+
+- **[6:24:47 PM] Unassigned**: but I don't really like the Ronald part That was my father's name who I never met. That's why Ralph Ralph Stewart. Ralph R.S.R. Ralph R.S.R. But then his dad had to file for bankruptcies with his bakery so they changed their name and family. What did that do? Why did you do that? Because you could hide from predators that way You could have didn't you Right in the way What's that in Los Angeles?
+
+- **[6:25:36 PM] Unassigned**: No I think it was it was still in
+
+- **[6:25:48 PM] Unassigned**: Listing them in order for their greens and everything and Stuart wanted to mess with them so he said no actually my last name is Stanley so that I had to redo the whole treat I'm wondering if they changed their back when we got married Oh So a bunch of them had changed back to Ruben over time but he had been new tiering new to name Stanley and I'm like if If you want me to take your name I'm not going to take a made-up name. yeah. But did his father mother still go Take me to my revenge? Revenge okay.
+
+- **[6:26:26 PM] Unassigned**: So the whole family decided to do it. Dinner. No it was Dinner half dinner. The matter is better. For the business. The left over is It's going to be cheese. And then I think his parents were living with the boys too.
+
+- **[6:26:49 PM] Unassigned**: Yeah that's I'm it always surprises me. I would never think to go in. I don't go to change my name for this reason and that reason. Well I mean you can't do it anymore. Because everybody can see everything about it. every connection right nobody so when we were dating I knew in this and I was in the kitchen one day and I objected I saw his British capacitor and it said Ralph Rubin and I was like Ralph Rubin I'm like what's the cool stuff? Did you get mad at me if I call him Ralph? You have to call him Ralph and see what they say for him.
+
+- **[6:27:50 PM] Unassigned**: That's what I'm saying what if I call him Ralph? But how do you legally when you've changed it legally do you think you've changed it legally? So what's the Everett Stewart before that? He was Ralph Stewart. Okay so he went by his middle name yeah. Now he's Stewart Ralph's? Oh wow. But it was really funny because he had just moved he had just moved up to Paris. He's going to like be living for his parents. And he got married and changed his name.
+
+- **[6:28:21 PM] Unassigned**: So one of his like customs and things. Oh like I think you're super gay. You married your husband and changed your name. So yeah in our honeymoon I would move his family. She did a sign. She ran again. Let us know when they you see that that sun gets close because we're not far away.
+
+- **[6:29:07 PM] Unassigned**: King of shenanigans huh? That's very good.
+
+- **[6:29:49 PM] Unassigned**: Yeah it'd be a long. Yeah it's going to be about twenty-four minutes I think. I got my alarm at the sunset alarm 30 minutes. That one is oat milk. I got some oat milk too. that will pay for this. You're waiting for everyone else right? We're just sitting here. We're going to start drumming a few minutes. We're just waiting for the fun.
+
+- **[6:31:30 PM] Unassigned**: So last night I broke a tooth a mizakrown so it's on my it's broken but it's come out at the post and re-semined it but it broke again yeah so mine I just I'm not wearing it but I have a retainer but it's probably but that was the tooth that was whole thing it down so I got to watch when I eat a little bit because one side wobbling yeah well I bet the cheese and it pulled it out so yeah it did so I got a the tooth is at home it's safe our way to we get back and it's not infected or anything so just inconvenience no pain but so is that It's not an implant It's just a post I don't have an implant because my the bone is not built up enough for that So I'd have to Yeah she's just a little early but it's okay.
+
+- **[6:34:32 PM] Unassigned**: I don't think I'm going to be able to do it but I don't think I'm going to be able to do it.
+
+- **[6:37:12 PM] Unassigned**: I can't look at it.
+
+- **[6:39:06 PM] Unassigned**: Are we like playoff? Are you guys okay?
+
+- **[6:39:18 PM] Unassigned**: I'm sorry. I'm sorry. Maybe they could slide to it. Maybe they could slide to it. Maybe they could slide to it. I was just doing it on one of the beat on the one. Here you go alright.
+
+- **[6:40:53 PM] Unassigned**: I love you I love you
+
+- **[6:42:23 PM] Unassigned**: Here we go.
+
+- **[6:43:23 PM] Unassigned**: He did the alfair back here
+
+- **[6:43:53 PM] Unassigned**: come on guys
+
+- **[6:44:43 PM] Unassigned**: Yeah he's at the photo statue there yeah oh okay Mary just look at the woman, I could see it with a oh I guess he's hugging a child or whatever we are. Did you remember seeing it and it's the spot that we both go to out west where that big red rock is? Have you ever looked this way? Did you know what kind of materials? No it's a remote it's a remote drama it's a it's a remote drama it's a remote drama it's a remote drama it's a remote drama it's a remote drama it's a remote drama it's a remote drama it's native oh nice yeah very nice yeah from like to what they do on total polls yeah I might like to take a picture if this is the real life oh yeah this one is also the company the native people that I bought this from I'm trying to find it and you can pitch from like 50 different patterns and they can't
+
+- **[6:46:32 PM] Unassigned**: tame them. But this is real life.
+
+- **[6:46:55 PM] Unassigned**: Yeah there is no rain in the forecast no thunderstorms or anything it's such a I love it when they stand in front of me. I love it It's favorite thing.
+
+- **[6:47:35 PM] Unassigned**: Yeah that's pretty good. Or for me. That's right. Wait. Wait.
+
+- **[6:47:48 PM] Unassigned**: You saw it. Yeah absolutely.
+
+- **[6:49:49 PM] Unassigned**: I have my taco. Are you gonna miss me off?
+
+- **[6:50:15 PM] Unassigned**: Yeah I have my taco.
+
+- **[6:50:25 PM] Unassigned**: Yeah it's just bliss.
+
+- **[6:50:48 PM] Unassigned**: I'm going to put this in here for everybody to get it be sure that it doesn't hurt. I'm going to put this in here for everybody to get it be sure that it doesn't hurt. You did? Yeah we do. We put up new and alright.
+
+- **[6:51:28 PM] Unassigned**: We're trapped. I don't want to have five stuff in my hands. Five six seven. Amazing. Oh good. I'm going to have those things in the back room. That's good. You know what I'm talking about? Oh huh? You need them.
+
+- **[6:51:45 PM] Unassigned**: I want to talk to the market. Jeez you don't find them. Has anybody seen a little container of emergency hatch? Right here. There's more than 1,000 of them right here. Is this a very teeta? Yeah there we go. Do you like stuff? Perfect. Please if you would.
+
+- **[6:52:00 PM] Unassigned**: So what? Yeah I think seven and two and a half gallons is good. So 16 ounces and right gallons with that 32 a gallon is at 168 no yeah 32 is a port, So four times thirty two is one twenty eight Yeah so you're going to one twenty eight four I mean you would just get it you know eight is fine you get one more all right. All right perfect. Well I think we do the math Oh well we're cheating a little bit but you know you He doesn't have to be precise. That's the end of the trip.
+
+- **[6:53:03 PM] Unassigned**: You're saying that um, I just should have put on more water it seems like it's going to try that if we're tired of it. It seems like there is some bad uh uh, Is there a problem? It's yeah. It really does. no I don't want it plastic. So I'm going to go get my metal stuff so I'm going to get my metal cap here.
+
+- **[6:55:01 PM] Unassigned**: So she texted me back you go for a dad I support you in every way. That was the baby smile. So speaking of neurotic you guys I would appreciate it if you would see me. Uh-oh. I am anxious about the deer mice and huntivirus. You know it's um a couple of people that got a little hair right out here. Not here but in Mono County. And there's lots of deer mice around here. That's why I'm always like this. Oh deer mice.
+
+- **[6:55:44 PM] Unassigned**: And the other thing's said it. Well but you don't have to hang out there too. Make sure the tops are on the food bins and everything put away. That makes sense. That's why I'm like derotic about. That's my egg. That's what? I've seen a lot of them. That's it. The deer or the mic?
+
+- **[6:56:08 PM] Unassigned**: The deer mic. It's really cute. It's so far today. It's really white. That's it we have it. I think that's a smart warning. no.
+
+- **[6:56:36 PM] Unassigned**: I'm about to die yeah.
+
+- **[6:56:44 PM] Unassigned**: Randall. It's funny you were doing all that work and you know sweating really I mean so there's a lot to set up and move really quick and I didn't sweat and you know it's because we're up here in the desert.
+
+- **[6:57:15 PM] Unassigned**: Yeah I'm already getting a little bit of a adjustment here
+
+- **[6:57:29 PM] Unassigned**: So we can do council first and then eat We're not doing dinner Okay we're snacking Oh so I can eat my taco anytime.
+
+- **[6:57:52 PM] Unassigned**: And we're going to have kind of a brief council right? Good I'm falling asleep but I'm heading to Amida today. I'm getting gasified during this morning so I'm going to go to the bathroom. We're going to come back and see what we're going to do. Okay so we're going to stop all those waterfalls from our face. This is so nice. I was so excited. There you are. Yeah you stated that when you're recalling a story I'm wondering if you're about to find it. And if nothing else I'm practicing lying.
+
+- **[6:58:36 PM] Unassigned**: Just waiting. Just waiting. You're supposed to be thinking or anything. Which is like putting out the intention. It's not the intention. It's not the intention. It's not the intention. It's not the intention. I know it's always like that that like heart rate agency drive up to see if there's any way to face cams like
+
+- **[6:59:23 PM] Unassigned**: Yeah I thought we did pretty good with it. They are requested there it wasn't us I mean I wasn't looking at camp you know you kept up as a tree Yeah yeah I was worried about you when it started out as a rocket Yeah. I remember you saying that It's good to get washed out Right. Did you question the tree Yeah Wow It came up a day later something you heard your Why does it be I was working maybe Yeah and you'd hurt your back That's why you just with Yeah I love it up there Yeah I love that you can look out at hummingbird canyon and then it's not pretty with the green and the aspirin starting to change or you could turn around and face all this Yeah they're very nice You think you can go out to your old place isn't it?
+
+- **[7:00:42 PM] Unassigned**: I might I'm not sure. I might.
+
+- **[7:00:54 PM] Unassigned**: You can see these. The Tunisus the pet. That was used over there in that track. I'm going inside looking at the lava graveyard. In your turf? You know what it's bad but it's close. Other wrong hat's up.
+
+- **[7:01:14 PM] Unassigned**: I know somebody's doing that.
+
+- **[7:01:52 PM] Unassigned**: was Oh yeah we brought kind of like simple things that he just warm up.
+
+- **[7:02:13 PM] Unassigned**: Yeah we might
+
+- **[7:02:30 PM] Unassigned**: Thank you for the tea. Thank you for the tea.
+
+- **[7:03:10 PM] Unassigned**: Dr RGZ please go to the emergency room. It's alive and well. I heard one. I just think it's part of humanity. We have to challenge ourselves. I think that there's people that aren't alcoholists that have church. I think everyone has to. It's you. I'm not a alcoholic. And I have all of those.
+
+- **[7:03:37 PM] Unassigned**: I'm sure. no way Yeah in fact yeah we're not. But if it's not creatures we die Yeah. They're great people. Yeah I don't think that we people that get away with you know being like, There's different ways that people act in the world that you know that there's really addictive and you know sex gambling you know there's all kinds of things that you know that they're not recovering people you know that never get what about perpetual liars? You're right you know what I'm saying? And he's on the golf course in June big. Yeah I mean there's different things. That's what I mean.
+
+- **[7:04:31 PM] Unassigned**: You know and those are kind of controlling behaviors. You know you're trying to control others, manipulate you know. Yep that's the entrance and exit. I think that all the moving and everything just really woke that up in full speed. Yeah it'll do that. When moving and I went to the first meeting on Mammnus, the people who had been showing us lately moving, and they thought like we're newcomers.
+
+- **[7:05:04 PM] Unassigned**: We're really flattens with them. We didn't do it here. And especially because all of my boys don't have the best executive functioning. So like
+
+- **[7:05:22 PM] Unassigned**: Yeah I have to like organize things or it's all or it's their ship.
+
+- **[7:05:32 PM] Unassigned**: That's sad The men are so not together. I've been there together in some ways but they're not another. I think my daughter is the same now. No this is us. They all have like serious ADHD. Yeah they'd know nothing but I'm being on that in their phones and he can't blame him in a way. Well I mean Matt had ADHD before there would be one had phone. Yeah it was significant and I've tried to help her and finally gave in to the medication. The doctors said actually the kids that aren't treated are more likely to come with addict.
+
+- **[7:06:31 PM] Unassigned**: I'm like oh yeah we're self-medicating. What's the medication? Well Matt takes utera which is non stimulant and no it takes 5 am which is what's interesting. But you know it's interesting too. Matt has like the distracted type and he didn't want to take it. And I started them on the medication nowhere when he got in the car accident and told I was in the car. I asked him I said did you take the medication last night? And he's like no.
+
+- **[7:07:11 PM] Unassigned**: Yeah so it yeah because he just you know. Does it help them help them focus? It helps max focus it helps Noah focus but it also helps him with like, We need a little knife to take with them it's got scissors a toothpick a file I have a big Yeah I got a little one I mean the next one I might
+
+- **[7:08:28 PM] Unassigned**: Well I mean there is there was somebody was attacked by a mountain line a few years ago, way but he was playing he was he was hunting coyotes and he was being like injured Elks That's smart Yeah that's smart yeah so if you're not calling doing an injured Elks call But you know remember we've all been here time from the Gulf of Coyote and then the last time they're being there it hasn't been a zero coyote and that's what most likely means is that there's a mountain line there here Okay if there are coyotes it doesn't sound a mountain line. Thanks for that.
+
+- **[7:09:41 PM] Unassigned**: Oh we were just so loud blinded. So loud and all my comforts. It was a trip and a selfie with me. Really good. I think I was the only one. You guys still see how you made the television first. What do you buddy hear from him? You like to come to the movies. It's getting cold. Uh the very busy I'm nervous about letting things go.
+
+- **[7:10:10 PM] Unassigned**: And this is the thing we can do that are next to the pool is a public bath bottle.
+
+- **[7:10:20 PM] Unassigned**: Do you have any of the most beautiful sessions I've come down? Like one of the most beautiful sessions I've come down. Like one of the most beautiful sessions I've come down. Like one of the most beautiful sessions I've come down. Like one of the most beautiful sessions I've come down. Like one of the most beautiful sessions I've come down. Like one of the most beautiful sessions I've come down. Like one of the most beautiful sessions I've come down. Like one of the most beautiful sessions I've come down. We're here reading some of our books.
+
+- **[7:10:49 PM] Unassigned**: Yes I would. On my Was I still? Yeah on my walk. Yeah the other morning. Yes the other morning. What is that Friday morning Yeah there's the morning Really Seemed like anything.
+
+- **[7:11:20 PM] Unassigned**: labyrinth up there So I walked the labyrinth and somebody left a beautiful a little saying up there a little reading back next to the wall here Kevin can you see? Oh yeah I'm good with that. That's your history. I'll be back in a little while. I heard of this guy. So let's compliment him.
+
+- **[7:12:05 PM] Unassigned**: This is the beginning of the new day. You have been given this day to use as you will. You can waste it or you can use it for good. What you do today is important because you are exchanging a day of your life for it. When tomorrow comes this day will be gone forever. In its place is something that you have left behind. Let it be something good. That was really nice of somebody to leave up at the Labyrinth in the center. It was a really great walk. It was a good part of the reason.
+
+- **[7:12:55 PM] Unassigned**: Yeah I kind of was preparing a few different things for us. because I just thought it was an important and a different role than I kind of look at what I'm doing a little bit.
+
+- **[7:13:22 PM] Unassigned**: I have a few prayers. I think one of the first ones is probably the most important one right now is this one. We don't step into the wilderness alone. We step into it together forming a circle of witnesses as you prepare to face your own silence. Know that the courage of the person sitting next to you is a mirror of the courage inside of you. I think that's probably the most important thing. I would like to share that there's a couple of things that we hadn't known since we've been coming here. And then Andrew and I were talking about it a little bit. So this territory is known as the Kuta-Duka-A's native tribe.
+
+- **[7:14:20 PM] Unassigned**: Say that again. kuta duka So yeah and what it means is that it means the alkali pulpai eaters So the people who eat alkali pulpai which is namana later So that's how they name themselves here And there were a couple other tribes that were in the area but more one was towards mammoth and one further yeast but this is the group that lived here So that was important huh? Is that the name of the stuff they eat? Yes and they name their tribe their identity is based on what they eat. Oh it's a plant? What is it A plant of animal? It's in the Popeye that it's kind of like a
+
+- **[7:15:13 PM] Unassigned**: It's like a grill for friends who order a grill. Yeah the comes out of the water. The grill your life is? Flanked in their seaweed or whatever it goes like but whatever so they dried it out in block wonder how they And then they could trade it You know I don't think there's any more than that Oh yeah there is Yeah it's just they didn't nobody did anymore Other probably the fish and you know the animals that are that do that Yeah so I thought that was actually Something that was really important to just you know I the training I was entering in they always were talking about honoring the land and that's what we're
+
+- **[7:15:55 PM] Unassigned**: doing here. This whole practice about us and that we're doing here is not honoring a tradition that's not ours that we're borrowing for our own spiritual growth and they used it for boys turning into men and so that they can get a name right That's the whole idea for the vision. And I guess the only other thing is that that's why I wanted to say that that prayer is because the whole idea of us being in community together is really important and that we, I kind of take all these treats that I do you know fear of luck and this and all the meditation retreats I do. I really enjoy getting in that whole spirit kind of like you're honoring the whole practice of being spiritual and grounding ourselves and being so that to me that's really kind
+
+- **[7:17:07 PM] Unassigned**: of important for us to do that and to take this kind of serious you know. So if anything I just want like I've been saying before it's just a reminder just remind us that you know we are doing stuff that we're taking serious and we want to put our best effort into it and that you know you guys know the place very well already and you know what it does for you and just reminding us of trying to keep that in mind you know as we're here on the land and that we're as we go forth with the remaining time that we're here so that's really I just wanted to say I hope that's helpful oh yeah yeah they're but they had vans. There are different things that are different names. They come with eight.
+
+- **[7:18:11 PM] Unassigned**: What was your two thing? That a trout eaters? It's a cat eaters from Washington.
+
+- **[7:18:20 PM] Unassigned**: But was it a cat? Was it a fish here? Not here. This is another tribe we're talking about. No but I thought that they brought the trout into you. Well thank you very much. Um um underneath um on central arch. This park came to mind when we were coming in. I couldn't remember all of it but I love this one. I see with the wind.
+
+- **[7:19:03 PM] Unassigned**: The wind. Indian prayer. Great spirit. He's voice like here in the wind. This breath gives life to the world. Hear me. I come to you as one of your many children. I am small and busy. I need your strength and wisdom. And may I walk in beauty.
+
+- **[7:19:19 PM] Unassigned**: I think that was our prayer toward coming in. make my eyes behold red and purple sunset make my hands respect the things that you have made on my ears sharp to hear your voice and make me wise so that I may know the things that you need for the children Make me strong not to be inferior to my brothers but be able to fight my own greatest enemy myself Nice make me ever ready to come with keen hands and sweet eyes so So that when life fades and the fate of sunset my spirit will come to you without shame. Yellow lot cheeks of the sleigh. Oh me. Yeah I just really liked that. When he came in and the wind I always remember my first vision class coming in and packed
+
+- **[7:20:08 PM] Unassigned**: thing. You know listen the wind listen. You know he was making it kind of very real and I loved what you were saying earlier And he'd like you know we take this seriously, and then the one time he got so upset when we were all kidding and joking around, kind of mean we wouldn't go out there and drum, he got really upset. He's like oh my God. And I think some of us maybe have been fairly new
+
+- **[7:20:36 PM] Unassigned**: but he was visibly upset but not really like wow. This is yeah not to be taken lightly, I think we all understand that very much so now and you know the best we can I'm really looking forward for you on Monday. I've just been really tired as Mark has and our journey up here was not perfect because we're over tired overspent and Oh no not treading you off but we agree with you.
+
+- **[7:21:21 PM] Unassigned**: So I think I'm being pulled kind of east.
+
+- **[7:21:32 PM] Unassigned**: maybe I'll have changed by Monday or tomorrow but I want to keep it really simple because I love going west also if I play the soon to bear but I am thinking going down right near the cathedral where I've been before I'm just you know maybe planting a lot of my stuff out there tomorrow before I got the Monday just so there you are I hope everyone rests well and thank you for the nice I've been a snack at least I thought the potato was delicious. I was under the impression that I had chips. Look. I hope. No problem no.
+
+- **[7:22:14 PM] Unassigned**: On his invention this chair I brought it. It's my older gift chair. And anyone who's talking to me you did it. Is there a tag that's sitting low? Or is there a dislike team? That's nothing to do with it. Thank you. I'm also kind of thinking of it it's the honorary of this year and for Jack. Come on here. I've been here all the questions that wanted to come in here.
+
+- **[7:22:48 PM] Unassigned**: Yeah right here. It's also kind of built up with the physical things of those. That's nice. That's nice. It's honorary plate. This is mine. This is mine. They are working bro. We'll take one. One minute's hatch is done.
+
+- **[7:23:08 PM] Unassigned**: I'm looking like you guys follow taking a 2 teams. And again, we make all announcements get one two. It started this year it starts a week a first one and it's kind of life. Yeah I like it um so um yeah I just think it's kind of cold like it's like, So yeah that's really cool so I am the person I believe who started paying and telling new people you can't fuck this up however I have to come clean the reason I say that is I'm telling it to myself yeah because I'm afraid I'm gonna fuck it up every time and so like because we were talking about like I said it was something about being afraid of weather and and he said oh you're afraid of
+
+- **[7:24:52 PM] Unassigned**: So we're starting to think about what I'm afraid of. I'm not really afraid of well there's a little bit maybe you know if it gets severe, I'm a person that lives in an apartment and has a refrigerator and a bathroom with a shower and a comfy bed like all of us right? And I'm not a backpacker so there's a little bit of nervousness about that. There's a little bit of nervousness about it you know putting them out in wine comes and I would taste the air in the middle of it and I'd say that I'm afraid of what I'm going to do to myself in my mind because I'm not really even afraid of that. So I'm afraid I was fucking in. I'm afraid that I won't bring something good back you know that I'm going to have
+
+- **[7:25:57 PM] Unassigned**: me you know time with myself but I'm not going to really bring back strength and more love and more goodness and more focus on the things that are important and more clarity about how to be with Deborah and how to be with my supporting myself out there in the world and the things that I'm looking at needing to desire and to have a transformation. So that's what I'm afraid of but I think it's a healthy fear. I do think that it's just because it's so important to me. And at least if that's something to me when we first got on the land, said that it just don't work so hard. I heard that for you. I'm tread lightly tread lightly man and I just thought yeah tread lightly on the land but I
+
+- **[7:27:11 PM] Unassigned**: I was scared of that it's tread lightly on myself so that was really good tread lightly on myself. Oh oh oh oh.
+
+- **[7:27:31 PM] Unassigned**: Well I just kind of spoke I close.
+
+- **[7:27:41 PM] Unassigned**: Ah yeah I'm just going to enjoy and be and ask for clarity and guidance and wisdom on certain things as fast as possible so on and so forth harmony within all these things. and um yeah I like spending time out there I just really over the years really like I can feel I'm just to be cut off from all that noise television phone and everything I know, I know. And that's it. That was here. Hello. There you go. Hi Mark Roaming out.
+
+- **[7:28:42 PM] Unassigned**: I'm we're shooting at the moment I think I'm going to mix the Austin mix So um, it's hard to even just stay awake And uh I didn't seek that last night I was not getting gathered by time 30 So I'm going to excuse myself and uh see I'll see you in the Good morning everyone see you tomorrow. Oh good morning. Thank you guys.
+
+- **[7:29:08 PM] Unassigned**: Do we show them there? Are you treating? Yes. But no I'm fine. We're almost done. Yeah couple I just want to add one more thing that I can't think of Lisa remind me of, when she was talking about Rosh Hashanah. That's cool I had forgot about that Yeah and that something that we you know all of the in thinking about like the land here that we it can hold all traditions no
+
+- **[7:29:49 PM] Unassigned**: tradition I'll believe you know and it can hold sorrow it can hold your grit it's very kind to you And for us for everyone to allow it you know, that's one of the things that's beautiful about what we learn from the desert here is that when we let go and it absorbs us that it holds everything So yeah, I'm glad that the whole reflection that's a beautiful thing to add so that's all for me. I'm really grateful that I can be here to support you guys and let me know if there's anything I can do. He named me laughing wind on my first vision question I'm telling you y'all it's kind kind of humorous for me now find myself not getting mad at the wind at all. Well a little bit you know a little nervous about carrying my water and a little nervous about breaking down my tent and my little sight that I nested into and breaking that
+
+- **[7:31:39 PM] Unassigned**: down and finding enough spot out there and setting it back up but you know I just kept wasn't away at it and sure enough I got my poles set and I've popped a tent you know. It worked. It had these little tiny six inch steaks. It's pretty iffy about holding in the tent but I made it work somehow. But it was still there one night. The last time I walked away from it just the point that I didn't bring a wedding ring showing and my zoonies ring in New Mexico yeah Just always give me a nice you get a minute So I could leave a wedding ring here for you guys to pray over Yeah a little nervous but there's so much in setting up that pointed me to focus survival When I had
+
+- **[7:33:10 PM] Unassigned**: my focus tuned in to the fact that this is part of survival it was easy to just keep doing one thing after the other thing a little bit comforting and that that I was doing what I needed to to survive like I think I'm needing to do this quest to survive to to get the yarns that place of loss but at any rate keeping the faith great spirit out there everywhere is going to give me some guidance and give me some me some slushing more than likely flimsy slushing. Yeah and I want to thank you all for putting all your efforts into making this happen. That's just so much to be grateful for. I'm so impressed with Andy he saw that CHP and he knew my life was losing. My registration was overdue and he pulled over so the CHP could go by that was the coolest
+
+- **[7:34:49 PM] Unassigned**: thing on the whole of that place. I was looking too far. I'll hold everybody.
+
+- **[7:35:22 PM] Unassigned**: Are you? So I think the car is very good at dancing. So we're just thinking to get up and go for the car. The percolator on the stove is all set up and just need to turn it on. Which car was it set up? Percolator for With the coffee. Oh on the car. Oh great. I just put the coffee in the water so I didn't think it was your dog.
+
+- **[7:35:53 PM] Unassigned**: You only know when my alarm is going off. Yeah I said it for 30 minutes before whatever. Oh no. Hey! You're great. I'm looking at some tape here. Also I want to remind everybody I have Also I want to remind everybody I have three back jacks and one of them the pegs have worn through so when you set it down on the ground the pegs want to go into the ground and you could probably find a rock to go under each one or something like that.
+
+- **[7:36:43 PM] Unassigned**: The other two are fine so stay there for the moving. I'm gonna take the plant one with me one side. Fine let's go.
+
+- **[7:36:58 PM] Unassigned**: So you're putting everything in the bag.
+
+- **[7:37:33 PM] Unassigned**: Oh I'm going to have to go through some of this.
+
+- **[7:38:25 PM] Unassigned**: This is not in the back we should move everything to the right.
+
+- **[7:39:15 PM] Unassigned**: Yeah fine I got it I think.
+
+- **[7:39:45 PM] Unassigned**: Do you want the rattle?
+
+- **[7:40:57 PM] Unassigned**: I don't want to go up either. I like it. I like it. Oh dude. I want it to be I'm going to go up either. I'm going to have to go to the other side to see if I'm going to be able to get out of here. I'm going to have to go to the other side to see if I'm going to be able to get out of here. You don't know how to go or where you're heading?
+
+- **[7:46:15 PM] Unassigned**: I'm going to try and put this cover over it and help with the wind. I'm going to try and put this cover over it. We hope it will end.
+
+- **[7:52:13 PM] Unassigned**: I have to tell him that right here to do that he can go now if you want he can get you on that.
+
+- **[7:52:57 PM] Unassigned**: I got the line here.
+
+- **[7:53:27 PM] Unassigned**: I'm going to wear my thermos first this is going to be hopefully the wind is going Maybe more from the west that way.
+
+- **[7:54:17 PM] Unassigned**: Okay then Oh yeah this is really a stuff in here.
+
+- **[7:55:13 PM] Unassigned**: yeah this is just draining on there being cold and in the desert that's That's the D.R.
+
+- **[7:55:41 PM] Unassigned**: That is that beautiful.
+
+- **[7:55:55 PM] Unassigned**: Yeah I saw them. You know the stuff. Joe is this not running tail Need a clean act? Oh my god.
+
+- **[7:56:29 PM] Unassigned**: You know thermal temperature is sleeping back it's raining too probably 30 it's gonna be good that's a period wow I don't think that matters. Oh they're pretty. Okay I'm just gonna
+
+- **[7:57:20 PM] Unassigned**: I saw a video to the other night it was a Mexican band with the Cortean and Congres, but they were full band they were kind of modern but they did a rendition of killing a nail of that was awesome So the you know it's on killing in the name of the band I was so enamored with the guitar player it was awesome version man and they were changing and using his spent you know Spanish it was awesomely powerful I want you to hear when we get back it sounds cool yeah it was just it's in my up in on my mind
+
+- **[7:59:05 PM] Unassigned**: I thought I saw some dry lightning a couple of times when I was walking up here Oh shoot I don't like that. Are you saying that that's your what? I don't want it to catch fire.
+
+- **[7:59:22 PM] Unassigned**: I'm trying to get it to all that right now. right now so a first chance is to try not to take and write them in and if they do it it's a great time and then
+
+- **[7:59:51 PM] Unassigned**: so I'm like I don't want to interfere with these I have to get my medicines first. So where have I had to have?
+
+- **[8:00:13 PM] Unassigned**: So where have I had to have? I'll put it all back in here.
+
+- **[8:00:32 PM] Unassigned**: Oh no. Jackets.
+
+- **[8:00:39 PM] Unassigned**: Jesus.
+
+- **[8:00:44 PM] Unassigned**: Hat.
+
+- **[8:00:49 PM] Unassigned**: You need to find out what you're trying to do.
+
+- **[8:01:39 PM] Unassigned**: there it is right on the bottom
+
+- **[8:03:02 PM] Unassigned**: I'm sorry. It's not when I know they're at.
+
+- **[8:03:11 PM] Unassigned**: He's on the floor. He's on the floor. We're gonna slide down a little bit. The other way you're like going to our head. You got to stop here. You're flatter than me. Yeah it didn't get me on my head it's going.
+
+- **[8:03:39 PM] Unassigned**: Okay though.
+
+- **[8:03:46 PM] Unassigned**: It's here.
+
+- **[8:04:18 PM] Unassigned**: You can probably get in the bottle.
+
+- **[8:04:24 PM] Unassigned**: This one is no water.
+
+- **[8:05:24 PM] Unassigned**: Like that.
+
+- **[8:05:30 PM] Unassigned**: I remember I came up to have the cake. You should write it. I don't want to take the cake out of you. And that reminds me of thank you so I see you through here and I gotta find my So here it is here it is here it is here it is here it is here it is here it is here it is here it is here it is here it is here it is here it is here So my uh Your pulse is working.
+
+- **[8:06:39 PM] Unassigned**: Okay I can't. I'm not sure if you're okay.
+
+- **[8:06:53 PM] Unassigned**: What if I have these other pack of 5,000 right here? Well I'm thinking I'll dry out. I'm gonna give you one sure.
+
+- **[8:08:07 PM] Unassigned**: Got to be already in here. This is very few bugs here. That's fine.
+
+- **[8:08:48 PM] Unassigned**: We'll put the pointer up. We'll keep it from being super close. But tonight we're going to be in 3D. Oh that's right. That's something good isn't it? It's so much to do. So where did I put that stuff now? Oh that's right here. That's right here. Oh that's right.
+
+- **[8:09:17 PM] Unassigned**: Here's the charger. The charger here because it doesn't have like,
+
+- **[8:09:25 PM] Unassigned**: there's a little rate. I thought I had both batteries. For a better reason not being found at one but in the middle of the church at one minute which is where I am.
+
+- **[8:09:59 PM] Unassigned**: So let me see if I can do it.
+
+- **[8:10:29 PM] Unassigned**: Come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come I'll put it in the back of your head. I'll put it in the back of your head. I'll put it in the back of your head. I'll put it in the back of your head. I'll put it in the back of your head. I'll put it in the back of your head. I'll put it in the back of your head. I'll put it in the back of your head. I'll put it in the back of your head.
+
+- **[8:11:17 PM] Unassigned**: I'll put it in the back of your head. I'll put it in the back of your head. I'll put it in the back of your head. I'll put it in the back of your head. Thank you!
+
+- **[8:12:03 PM] Unassigned**: If you don't see where I'm going to have to sleep. You know? Did you hear that? Did you sleep with me? I see someone in there. Oh shit. But maybe that's what you mean that's what you mean that's what you mean that's what you mean that's shit.
+
+- **[8:12:31 PM] Unassigned**: Oh I need to do it. So do not disturb them. You can do that for me.
+
+- **[8:12:53 PM] Unassigned**: Just don't worry I'm sorry. oops
+
+- **[8:13:19 PM] Unassigned**: Wow Flex would you like one of your shelter's black? You can do part of this one that everybody has done you know everything is now.
+
+- **[8:13:55 PM] Unassigned**: I can charge you if you want or if you can find a phone okay so you're in the next It's a little much probably a little bit.
+
+- **[8:14:38 PM] Unassigned**: Ah you need to watch.
+
+- **[8:14:49 PM] Unassigned**: Which one do you have? I'm going to work on how I got the change in my watch too. Okay here's the fifty-four and I'm just charging. I'm going to do the 9th 64th 2nd 2nd 2nd 4th 2nd 4th 2nd 4th 2nd, I hope I'm watching the church right now.
+
+- **[8:16:12 PM] Unassigned**: no it's okay.
+
+- **[8:19:34 PM] Unassigned**: Hmm You're tired? Ah I'm just trying to get this thing in my mind.
+
+- **[8:19:52 PM] Unassigned**: I'm going to so high. There's no doubt about it. Can you? Nothing we can do about it. Okay so I'm just trying to get it. Are you done? Really Yeah. I'm just free. I'm just free.
+
+- **[8:20:11 PM] Unassigned**: I'm just free. I'm just free. I'm just free. I'm just free. I'm just free.
+
+- **[8:20:28 PM] Unassigned**: I'm just free.
+
+- **[8:22:59 PM] Unassigned**: I'm going to go to the other side.
+
+- **[8:34:37 PM] Unassigned**: This is the first time I've ever seen this kind of thing in my life. I've never seen this kind of thing in my life. I've never seen this kind of thing in my life. I've never seen this kind of thing in my life. I've never seen this kind of thing in my life. I've never seen this kind of thing in my life. I've never seen this kind of thing in my life.
+
+## 🎙️ Session 2: 2026-09-12 12:00:42 (5h00m)
+- **Source File**: `2026-09-12 12_00_42.mp3`
+
+- **[12:00:42 PM] Unassigned**: I'm going to have to go to the other side to see if I'm going to be able to get out of here. I'm going to have to go to the other side to see if I'm going to be able to get out of here.
+
+- **[12:01:32 PM] Unassigned**: I'm going to have to go to the other side of the road. I'm going to have to go to the other side of the road. I'm going to have to go to the other side of the road. I'm going to have to go to the other side of the road. I'm going to have to go to the other side of the road. I'm going to have to go to the other side of the road. My medicine bag I have some but Let's just put some right here in the door if you don't have any of those in there.
+
+- **[12:03:17 PM] Unassigned**: Did u say?
+
+- **[12:03:27 PM] Unassigned**: Was that a huge grudge? I'm so excited. I'm so excited. I'm so excited. The guy working in the story was saying, that that's not going to be so high. He said our president is having some low gas prices, and all my energy is getting better. He doesn't matter. That's why I wish he would go.
+
+- **[12:03:54 PM] Unassigned**: This is what he is. Here we go there we go there we go there we go there we go there we go there we go there we go there we go there we go there we go there we go there we go there we go there we go
+
+- **[12:04:56 PM] Unassigned**: They're eating. Everybody does. Bathroom is over here if you guys need to go. They're eating. Bathroom is over here if you guys need to go. Jason come on.
+
+- **[12:05:59 PM] Unassigned**: I think this is one bathroom around here. I got it. I got that. There's a line.
+
+- **[12:07:17 PM] Unassigned**: Yeah but we got behind some one I mean that is my RV which breaks us a whole time down the hill finally was able to pass them. Did you make a plan? We did. You were tiny.
+
+- **[12:07:47 PM] Unassigned**: Hopefully we can get the base camp together before the winds pick up. How's it going? How's it going? Well the National Weather Service gave it a red flag day today. It is? It is. Red. When you look at the only buying it says red so the rest of the week looks great so today it's supposed to be cool and change.
+
+- **[12:08:15 PM] Unassigned**: Oh good. Yeah a little bit 50 miles an hour. 50. Oh you said 50 and I oh my gosh. You might want to set up tomorrow but that's it.
+
+- **[12:08:55 PM] Unassigned**: You know I'm going to get something in a minute Thank you. You guys been here a while? Look. I guess you did. Good work guys. 15 minutes.
+
+- **[12:09:39 PM] Unassigned**: We saw them getting gassed. We saw them getting gassed. Where? Where is that? Where we fill up. Good to know
+
+- **[12:10:21 PM] Unassigned**: Okay well you gave him back the bike
+
+- **[12:10:54 PM] Unassigned**: I'm a surgeon. I'm a surgeon. I'm a surgeon. I'm a surgeon. I'm a surgeon. I'm a surgeon. I'm a surgeon. I'm a surgeon. I'm a surgeon. I'm a surgeon.
+
+- **[12:11:04 PM] Unassigned**: I'm a surgeon. I'm a surgeon. I'm a surgeon. I'm a surgeon. I'm a surgeon. I'm a surgeon. I'm a surgeon. I'm a surgeon. I'm a surgeon. I'm a surgeon.
+
+- **[12:11:14 PM] Unassigned**: I'm a surgeon. I'm a surgeon. I'm a surgeon. I'm a surgeon. I'm a surgeon. I'm a surgeon. I'm a surgeon. I'm a surgeon. I'm a surgeon. And I also have two ladies on the other side of this one.
+
+- **[12:11:30 PM] Unassigned**: I think so. Yes. Ron? Thank you. Thank you. Thank you. Yeah I got you there.
+
+- **[12:11:53 PM] Unassigned**: Oh I got something like you.
+
+- **[12:12:01 PM] Unassigned**: Don't know. I'm going to look around you. We picked you because it looked like our dogs. We came through one other time and we went out over there. Let's help. I believe you. I believe you. Let me know how you like us. We'll do it too. Thank you.
+
+- **[12:12:28 PM] Unassigned**: Thank you Cheryl. See ya.
+
+- **[12:12:36 PM] Unassigned**: I'm trying to chew her over the world we can order. There's no solution there are only people who know each other. There are only people who know each other. There are only people who know each other. There are only people who know each other. There are only people who know each other. There are only people who know each other. There are only people who know each other. There are only people who know each other. There are only people who know each other.
+
+- **[12:12:51 PM] Unassigned**: There are only people who know each other. There are only people who know each other. There are only people who know each other. There are only people who know each other. There are only people who know each other. There are only people who know each other. There are only people who know each other. There are only people who know each other. There are only people who know each other. There are only people who know each other.
+
+- **[12:13:01 PM] Unassigned**: That's what you like. I'm very very very, very very, very, very, very, very, very, very, very,
+
+- **[12:13:13 PM] Unassigned**: very, very, very, very, very, very, very, very, very, very,
+
+- **[12:13:23 PM] Unassigned**: very, very, very very, very, very, very, very, Yes please
+
+- **[12:14:30 PM] Unassigned**: It's not how it's supposed to be it's a big thing. It's not straight it's not too straight. It's a big thing it's not too straight. It's a big thing it's not too straight. It's a big thing it's not too straight. It's a big thing it's not too straight. It's a big thing it's a big thing. It's a big thing it's a big thing. It's a big thing it's a big thing. It's a big thing it's a big thing.
+
+- **[12:14:54 PM] Unassigned**: It's a big thing it's a big thing. It's a big thing it's a big thing. yeah But the fact that it could be easy for you to go on a business trip or you got some company ideas. I love it. I love it. I love it. I love it. I love it.
+
+- **[12:15:46 PM] Unassigned**: I love it. I love it. I love it. I love it. I love it. I love it. Oh what's the couple iron bucks for? I think you know. Yeah what's the command of the company? Well you know.
+
+- **[12:16:00 PM] Unassigned**: Oh you guys ordered all of them. Oh we're giving you the sh**. We're giving you the sh**. No but we got the email. We're giving you the email. We're giving you the email. We're giving you the email. You can't even use them. You're sorry you have to have the sh**. I just want to talk to that guy.
+
+- **[12:16:17 PM] Unassigned**: You want to know?
+
+- **[12:17:50 PM] Unassigned**: That's what I'm trying to say that's what I'm trying to say that's what I'm trying to say that's what I'm trying to
+
+- **[12:18:30 PM] Unassigned**: My brother was going in here for the entire book and a play team. no.
+
+- **[12:19:16 PM] Unassigned**: There's some time I go for a big surprise. I want you there. Good night. Good morningnings. Nice to see you. Thank you for meeting one mom. Yeah okay. Is that the first program? Uh yeah. Who.
+
+- **[12:19:46 PM] Unassigned**: You know it's down my old uh trying to get you know my first gift that was for them out. We had a laughing do that. So it's fine. So fine you're fine.
+
+- **[12:20:16 PM] Unassigned**: Yeah you too. You can't do that to me. So you can't put all the last time. Just push but we have to do because it's only a lot of time. So what you do? No I don't advise that I think we need to step them on and be stood on to that kind of view. Why did those teams not push? They were going out with that. Oh yeah I am. But that doesn't mean that we were meant to win.
+
+- **[12:20:53 PM] Unassigned**: But it's not hard looking you want to take it? No I don't think so. No but just to do it in the future. Is it so Yeah. It's perfect. It's fine. It'll be fine. It'll be fine. It'll be fine. As long as it doesn't happen it'll be fine.
+
+- **[12:21:07 PM] Unassigned**: It'll be fine. It'll be fine. It'll be fine. It'll be fine. It'll be fine. It'll be fine. It'll be fine. It'll be fine. It'll be fine. It'll be fine.
+
+- **[12:21:17 PM] Unassigned**: It'll be fine. It'll be fine. It'll be fine. It'll be fine. It'll be fine. I'm going to go right in the back of the box. Right now I'm at the street. That's a little bit of a mucket. And I'm just going to have to hang the wheels just with the world bike.
+
+- **[12:21:33 PM] Unassigned**: Well you can't fly. I'm here because we want to do that. Yeah I ride. And then we're going to ride. But I'm going to go right in the back. I'm going to put the buttons in the back. And I'm going to put the buttons in the back. I'm going to put the buttons in the back. So how wide are you and how high do you get? Seven and a half hours a week.
+
+- **[12:21:54 PM] Unassigned**: That's the remedialization I saw. When we went up there maybe thousands of times. I took up the time. When did you teach you Wendy? We got 90s 90s 80s. 90s 60s. 90s 60s 60s.
+
+- **[12:22:11 PM] Unassigned**: That's all people of mine man. I had my first year in Thailand. Yeah we went down and my Prius and then burned the brake truck and I said yeah I started smelling mine huh? Yeah I was burning the Prius I said something a light thing. I just just geared it down.
+
+- **[12:22:43 PM] Unassigned**: That's right. 250,000 Oh my god It's a diesel they just Yeah they're good to buy Yeah I'll have a diesel. Big big block to 7.3 liters Wow 402 begins with the gas price here for him. $1800 to miles. That's what it came up to. Can you see it? There's $185 for 17 gallons. It's crazy. I mean yeah it's $890. I thought you'd be better miles.
+
+- **[12:23:20 PM] Unassigned**: Oh you do? Oh I get 12. $199. $199. Oh well get it don't get it. Go get it. Here's it too hot. Here. I just bought myself a new one. I'm going to put you on speaker you're lucky for something else.
+
+- **[12:24:26 PM] Unassigned**: They had a Steven. Hey Steven. Where is the burger bar?
+
+- **[12:24:42 PM] Unassigned**: 69? I was probably Wait what?
+
+- **[12:24:56 PM] Unassigned**: Now maybe it was an old coaster. Is that all you have? Are you going to get anything new? Is it not even a ride that you normally do? Yes we're meeting and then we're heading in.
+
+- **[12:25:41 PM] Unassigned**: Oh yes now. Okay so yeah we are still in the road we're just taking a break.
+
+- **[12:26:43 PM] Unassigned**: The question is what is the answer to this question? Yes the answer is what is the answer to this question? The answer is what is the answer to this question? The answer is what is the answer to this question? The answer is what is the answer to this question? The answer is what is the answer to this question? The answer is what is the answer to this question? The answer is what is the answer to this question? The answer is what is the answer to this question? The answer is what is the answer to this question?
+
+- **[12:27:03 PM] Unassigned**: The answer is what is the answer to this question? The answer is what is the answer to this question? The answer is what is the answer to this question? The answer is what is the answer to this question? We can take to the east for a few minutes. So we rely on that. We just drop away in the middle of five steps. That's right. We're not about to start. We're not about to start.
+
+- **[12:27:24 PM] Unassigned**: We're not about to start. We're not about to start. We're not about to start. We're not about to start. We're not about to start. We're not about to start. We're not about to start. We're not about to start. We're not about to start. We're not about to start.
+
+- **[12:27:34 PM] Unassigned**: We're not about to start. We're not about to start. We're not about to start. We're not about to start. We're not about to start. You can ask what you need to know. You start with what you need to know. You start with what you need to know. You start with what you need to know. You start with what you need to know.
+
+- **[12:27:47 PM] Unassigned**: You start with what you need to know. You start with what you need to know. You start with what you need to know. You start with what you need to know. You start with what you need to know. You start with what you need to know. You start with what you need to know. You start with what you need to know. You start with what you need to know. You start with what you need to know.
+
+- **[12:27:57 PM] Unassigned**: You start with what you need to know. You start with what you need to know. You start with what you need to know. You start with what you need to know. You start with what you need to know. No I'm going to say I know I've got the time for the rest of the time and time and time and time and time and time and time and time and time and time and time and time and time and time and time and time and time and time
+
+- **[12:29:02 PM] Unassigned**: Yeah when we have counsel he was not I have I'm going to have like your cup of to a coffee club a note a theme. Okay freezing. You know the theme is like a black tea though. Oh that's a different theme. Yeah that's a nice thing that that theme is. It does it does a bunch of cool things. It's going to be a point where it's a caffeine, it's a gyrilic and to that but I have two, and I like it.
+
+- **[12:29:57 PM] Unassigned**: and I love the hours you know. I love a cup of tea up on a tea, and after him you know I couldn't really copy that, but a cup of tea so it's good to hear. It's good to hear. Yeah but I mean I've seen my whole life I've been able to drink coffee up until like seven o'clock and I am still a little nervous, and I haven't seen it yet. But now I can't do that and I don't want to get nervous.
+
+- **[12:30:25 PM] Unassigned**: I think both of us because I don't see a thing. Actually now right now it's on the lower back of the road. Good.
+
+- **[12:30:39 PM] Unassigned**: And then I went up in the morning. I tried to reach up the mountain. I didn't come to the top. I think it's through. It might be a wide range. And I think that we're going to be up. I'm going to look at my block. I look like swinging something down. I might fall over a small wall. I'm going to go back to the station.
+
+- **[12:30:56 PM] Unassigned**: I'm going to go back to the station. I'm going to go back to the station. I'm going to go back to the station. I'm going to go back to the station. I'm going to go back to the station. I'm going to go back to the station. I'm going to go back to the station. I'm going to go back to the station. I'm going to go back to the station. I'm going to go back to the station.
+
+- **[12:31:16 PM] Unassigned**: I'm going to go back to the station. I'm going to go back to the station. I'm going to go back to the station. I think my body can have another thing in my soul so I'm going to do that too I'll do that too I'll do that too I'll do that too I'll do that too I'll do that too I'll do that too I'll do that too I'll do that I'm going to go to the other side of the building. I'm going to go to the other side of the building. I'm going to go to the other side of the building. I'm going to go to the other side of the building. I'm going to go to the other side of the building. I'm going to go to the other side of the building.
+
+- **[12:31:59 PM] Unassigned**: I'm going to go to the other side of the building. I'm going to go to the other side of the building. I'm going to go to the other side of the building. I'm going to go to the other side of the building. I'm going to go to the other side of the building. I'm going to go to the other side of the building. I'm going to go to the other side of the building. I'm going to go to the other side of the building.
+
+- **[12:32:37 PM] Unassigned**: Yeah yeah he started going there I thought that's what I'm going to work for I'm going to work for the group I don't think I'm going to be able to do that I think that's what I'm going to work for I think that's what I'm going to work for I think that's what I'm going to work for
+
+- **[12:33:37 PM] Unassigned**: yeah So I was wondering if there was another parking lot or something near missing in this town. So there's a lot to see out there. There's a lot to see out there and a lot to see out there. There's a lot to see out there and a lot to see out there. There's a lot to see out there and a lot to see out there. There's a lot to see out there and a lot to see out there. This is like my first time parking there I didn't know if it was parking lot A or parking lot B.
+
+- **[12:35:24 PM] Unassigned**: What are you looking at? I'm looking at you. They are busies or something. You are going to board the busing more. We'll call it that. And how did you do that? Yeah how was your plan? How was your plan? It was so quiet. I was dropping down my home,
+
+- **[12:35:44 PM] Unassigned**: going to the lake, going to the lake, going to the lake, going to the lake. and the new week And it was that quiet in the bird. There's nothing new for me to talk about. A lot of memories. It's a nice drive on 37 to the bird. Did you see that? That's one of the goals.
+
+- **[12:36:10 PM] Unassigned**: Eating on the fries there. Oh yeah. You were driving. You didn't know. But I did see them. Yeah the further you got towards Vallejo the prettier guy by the Barcelona. Yeah there's a part right at the end where it's more tighter. Title. No it's a serious point that you can't see because it's too far away. But you drive right up in it before you get into Vallejo.
+
+- **[12:36:39 PM] Unassigned**: And in fact it said flooding flooding flood zone right there. That's right there in Vallejo. But that's just before then there was a whole stretch that looked like you could see like little waves inside just coming in and out or whatever. And all of the seagulls were there, lined up for like maybe a mile like eating whatever they were getting. Those were literally my mother being there just to get caught in here.
+
+- **[12:37:12 PM] Unassigned**: What are you talking about right now? How's it going? Definitely they're really so unique but that's different from the part that we have about one year right which is very different from one year right but it's a lot of fun a lot of fun. I do have a dog in the man. We're going to have to make sure that we have receiving some light so that we can see what we're going to do. We're going to have to make sure that we can see what we're going to do. Yeah I'm waiting for everything to end. My God for it to end. I wasn't going on here. I helped with me.
+
+- **[12:38:26 PM] Unassigned**: But don't worry. We're having a good year. We're having a good year. We're having a good year. We're having a good year. We're having a good year. We're having a good year. We're having a good year. We're having a good year. We're having a good year.
+
+- **[12:38:36 PM] Unassigned**: We're having a good year. We're having a good year. We're having a good year. We're having a good year. We're having a good year. I hope that your mother won't get some real high chance with their children. Max will be in your house. Max is girlfriend.
+
+- **[12:40:28 PM] Unassigned**: Yeah there's a mobile station kind of here and there's an A-test. Not just for us. Everybody knows the mobile station.
+
+- **[12:41:12 PM] Unassigned**: Please let that get hard that's a good thing for me.
+
+- **[12:41:53 PM] Unassigned**: I walked down still as far as I can. There's something in there it's like, oh I've got to let it go. It's happening and you don't realize it's happening. As someone said to your buddy, like some of this process you can slow keeping the next party or whatever, and it's actually what you are. Is that any move? If you do have to let it go,
+
+- **[12:42:20 PM] Unassigned**: you can get your full anxiety, and you can stay on the side even. That's good. What do you remember of I and I? I've never forgotten how to live. I remember. I remember. I remember. I remember. I remember.
+
+- **[12:42:39 PM] Unassigned**: I remember. I remember. I remember. I remember. I remember. I remember. I remember. I remember. I remember. I remember.
+
+- **[12:42:51 PM] Unassigned**: I just want to talk to Megan I want to know what it's better for me than that I think it's better for me to talk to him more and talk to him more and talk to him more and talk to him more and talk to him more and talk to him more and talk to him more and All that stuff was on the rock back. I was like a skeleton I'd say at the beginning of the morning. Where's the water? You know what I mean? I think that might go here. I think that might go here. I think that might go here. I think that might go here. I think that might go here.
+
+- **[12:43:34 PM] Unassigned**: I think that might go here. I think that might go here. I think that might go here. I think that might go here. I think that might go here. I think that might go here. I think that might go here. I think that might go here. I think that might go here. I think that might go here.
+
+- **[12:43:44 PM] Unassigned**: I think that might go here. I think that might go here. I think that might go here. I was wondering that would be a good spot too by the water let me fill up the water. I was wondering that would be a good spot too by the water where we fill up the water. Yeah that's for the right shirt. Yeah I think it feels like it's for the coldest. If anybody needs to stop at those bills they'll be for and then meet at the water and meet at the water. That'll be our separate thing over the straight side of the water. Yeah that's good okay.
+
+- **[12:45:07 PM] Unassigned**: Ahh Would you sure do it? How'd you do?
+
+- **[12:45:21 PM] Unassigned**: You better Are you仲 60?
+
+- **[12:45:33 PM] Unassigned**: Yum yum I've got you this morning You know they won't go on these four hours. Everybody need you. You need a winter time you know right? Yeah stay here in the building here. Don't forget that all the time is hot. I know. I appreciate you too. Why?
+
+- **[12:46:00 PM] Unassigned**: You're right. Are you doing with this one?
+
+- **[12:46:09 PM] Unassigned**: One perfect call and get on with the call. Again just call me right? Just get on with the call. Yeah bye. Two three. Would I be able to get on with the call?
+
+- **[12:46:28 PM] Unassigned**: Thank you. Thank you. There's a lot of people here who are looking for a place to sit and sit and sit and sit and sit and sit and sit and sit and sit and sit and sit and sit
+
+- **[12:47:00 PM] Unassigned**: You can tag up to the street maybe. But he's there looking happy to come over. I'm really looking for him right now. I need to hit him.
+
+- **[12:47:17 PM] Unassigned**: What I know who he is.
+
+- **[12:47:23 PM] Unassigned**: I go.
+
+- **[12:47:30 PM] Unassigned**: There you go Gonna box it back up Yeah those birds are gonna get to it man I saw them They were looking for it. They're gonna all carry it away.
+
+- **[12:47:48 PM] Unassigned**: Oh no it isn't It's okay.
+
+- **[12:48:00 PM] Unassigned**: I have learned a lot from these kinds of birds. When I was dying you know about the Fairfax. You know Fairfax though? A little bit. There's a good earth. There's a good earth. So good earth has a deli in the old location they were at, where the bike shop is now. And when in there and had some months we had a mitral patio area out there where you can eat.
+
+- **[12:48:34 PM] Unassigned**: And so I was there in St Petersburg they were like geez are these for you or blackbirds? These are blackbirds yeah. And there was so one of them had like the right foot was mangled it was basically just a stump. You know had left foot was fine but the right foot was all damaged and everything. And it was acting just like all the other birds, just like these are acting right now. And I'm like that's my idol right? That's somebody that you can learn a lot from. It was just treating life.
+
+- **[12:49:08 PM] Unassigned**: You know this is the way life is and just caring on it. So that's the messages. We like it all that's the message. Yeah it's like they just play okay, they're just normal right they just adapt. And we do too actually but we just we don't see it you know? There were always we always adapt. And you know wherever I mean that's why people can live in the desert and you have ocean and the high altitudes and that whatever,
+
+- **[12:49:41 PM] Unassigned**: is where you're so adaptable. And you think people who have you know, all kinds of physical issues and various things, and they'll all be willing to adapt. They're going to be able to do that. That's what I'm saying. Sometimes weFinish and do that. Yeah trading our minds. It's a lot of fun. Five just for fun.
+
+- **[12:50:04 PM] Unassigned**: What do you think? What do I do?
+
+- **[12:50:13 PM] Unassigned**: What do you think? The battle of art. I'm getting a lot of people. Well I know about that. How about that Bill?
+
+- **[12:50:28 PM] Unassigned**: Yeah about letting down about the animals.
+
+- **[12:50:36 PM] Unassigned**: How many trees? Yeah over and over again that's what you need to do about it. Yeah and most of them they're all in a good value. But what the other stuff is going. And the way he said it yeah. And it's a good way to put it in. And again on the left hand. That's what you just see over here. That's important. That's an important thing to see if you can let it in.
+
+- **[12:51:09 PM] Unassigned**: And I was on this conversation and think just last week. And that was one of the things that came up is like human beings who so lived their present lives all with this idea of it's nothing that says something that has to do to make it better. I just change it. Instead of being just living in the present and you know so preoccupied with the past or the future that they're not here. And that's a pretty sad thing when there's that's true about how Melissa did it in. It might be a good argument for my calling to do this. That's a good reason for me to let her out.
+
+- **[12:51:55 PM] Unassigned**: Yeah I know. It's not okay for me to be able to let her out. Because I don't want to let her out. No I'm not. That's trying to be somebody. Is that going to be somebody else? That's my Rocky I think right.
+
+- **[12:52:23 PM] Unassigned**: Oh that's good.
+
+- **[12:52:34 PM] Unassigned**: Why is it so slippery?
+
+- **[12:53:10 PM] Unassigned**: That's the way it's going that's the way it is that's the way it's going that's the way it's going that's the way it's going that's the way it's going that's the way it's going, You know right here right now who's doing that? You know is it? Okay that's what I'm doing.
+
+- **[12:53:54 PM] Unassigned**: There's a lot of things going on.
+
+- **[12:54:02 PM] Unassigned**: You know they're trying to check yourself before you rest yourself.
+
+- **[12:54:15 PM] Unassigned**: And then with my advance the idea is don't be judging the farm be compassionate and understanding and see if there's another way of being destructive. But you know we can listen to that part. Yeah kindness and love it's the choir for all of us. All right we're ready let's go we're ready. Yeah we want to kill him. No let's do the dress. That's the yeah that's the evil one. Ha ha ha. Hey so you got it where we're heating?
+
+- **[12:54:58 PM] Unassigned**: Eventually at the water. I forget how he gets in. okay that's really easy so when you see the mobile station at the right when we turn right and get the mobile instead of turning into the mobile station go up the hill and it's about a quarter mile up on the left from there no right wherever the vining is when you get to nicely then you make the right into the mobile but just go up the hill a quarter mile and where that's where we're at so You know what nicely is right you know the restaurant we eat normally here okay There's a mobile yeah show them where it's like you're going to the Extremity there's a turn to the Extremity and there's a mobile station and left just go pass that about
+
+- **[12:55:47 PM] Unassigned**: A quarter mile on the left side you'll see a water fill up we'll be there
+
+- **[12:55:59 PM] Unassigned**: We're going there's only one turn to make right? Okay so we're going on 395. When you go past Lyslis there's the turn right that goes in your simmity. Okay when you make that right turn there's a mobile station there. So we've here and we fill up with this don't go to the left in the mobile station just keep going up like you're going to your cemetery and right at the bottom right out quarter mile on the left side. No that's not yet there's only one turn. That's only one turn to the right.
+
+- **[12:57:25 PM] Unassigned**: I'm not going. I'm just going around.
+
+- **[12:57:36 PM] Unassigned**: I'm going to keep myself from getting there. Well already there's a lot of like second-assing judging and um marches like, let's get there and get it all over where and all this stuff in the mic. That's not the answer we want to answer we want to let go to the end so I've been trying to talk with everybody about. You do say the one that always bothered you to survive here in the morning. Well I don't even get in the blame there but I'm just saying that we want to And that's it I want to see if we can tolerate that 7 2 1 4 1 4 1 4 3 2 3 4 1 4 1 4 1 4 1 4 1 4 1 4 1 4 1 4 1 4 1 4 1 4 1 4 1 4 1 4 1 4 1 4 1 4 1 4 1 4 1 4 1 4 1 4 1
+
+- **[12:59:19 PM] Unassigned**: You can get the water and then everybody can do stuff like that but I mean I can just do it. Hey girl I'm gonna wait here why don't you just follow me That was my own question.
+
+- **[1:00:25 PM] Unassigned**: You do what we found. Everybody's got their own thing there. I don't think it's everybody I think Odisha's already been softening like to be honest with you I don't it's right I'm just trying to see her mark and she's been a little bit But like I said I think everybody sees a world in the air it seems well as a world in I think there's gonna be a lot of fun there.
+
+- **[1:01:52 PM] Unassigned**: When everybody's. and he's alone.
+
+- **[1:02:22 PM] Unassigned**: That's it that's it that's it that's it that's it that's it that's it that's it that's it that's it that's it that's it That's right that's right.
+
+- **[1:03:22 PM] Unassigned**: I'm going to move on to the down go down down down down down down down down down down down down down down down down down down down down down down down,
+
+- **[1:04:22 PM] Unassigned**: You remember how the angler gets stuck to the floor when it comes back? Right up it's not an angler or an angler or an angler or an angler.
+
+- **[1:06:47 PM] Unassigned**: I'm not sure if I'm not sure if I'm not sure if I'm not sure if I'm not sure if I'm not sure if I'm not sure if I'm not sure if I'm not Now we're going right to the water yeah up to the water another place else to do that. That's what I'm saying Mark was right on it but that he was telling us to look at it and We can hurry up and get back in as much as we can that's not what we want so it's like like that was my that's interesting so I'm trying to get up okay. We're here you know it's like oh we crossed the line. Oh we've already crossed the line. We've crossed the line three weeks ago and started this reference. Actually this is part of it you know? And you know I can't look at any of those things.
+
+- **[1:08:40 PM] Unassigned**: So I'm going to get that drop but I'll We're two of us working really hard. Now I'm going to You know? I'm going to look at that. It's pretty hard to get out of those things. Yeah I love that there are a whole bunch by the city of St Matthews Buckstown and C.O. Bulls and Buckstown and C.O. I'm looking forward to seeing you in the next video thank you very much see you in the next video see you in the next video see you in the next video see you in the next video see you in the next video see you in I did it again I'll go warm it up for a few days if you want to have a piece of
+
+- **[1:10:51 PM] Unassigned**: I was trying to solve seven no,
+
+- **[1:12:44 PM] Unassigned**: You know what I'm doing to some of these things I'm not going to show them yeah I don't want to do this. Yeah I'm not so what I am going to make an effort is to go through the first and the fastest way that I'm going to do it. I don't mind if you do about all of this now it's just like you know it's like you know it's like you know it's like you know it's like you know it's like you know it's like you know it's like you know
+
+- **[1:14:41 PM] Unassigned**: So the black floor can be from the urinary right? That's what the face looks like during the night. And that looks you know like a load times you'd actually do stuff like that like, is that chest for the area or is that for? Yeah like that. I know that the area is there. There's a nice amazing place to go. I guess it's an asshole man isn't it? It's not the top of the map.
+
+- **[1:15:32 PM] Unassigned**: Yeah as you see there's a thing that's moving. Um it's moving uh moving. I'm going to switch there and uh, great what was it um, where you go there, great moving. There's similar to the top, but yeah. Great.
+
+- **[1:16:26 PM] Unassigned**: Oh wait oh wait oh wait oh wait oh wait oh wait oh wait oh wait oh wait oh wait oh wait oh wait oh wait oh wait oh wait oh wait oh wait oh wait oh
+
+- **[1:17:26 PM] Unassigned**: Well I like it I like it I like it I like it I like it I like it I like it I like it I like it I like it I like it I like it I like it I Yeah I like that I like that I like that I like that I like that I like that I like that I like that I like that I like that I like that I like that I like that I There's a lot of viewers who are getting to this one and so there's just a bunch of judges. And an observation of what we're going to do. But this is the kind of plan I'm going to do.
+
+- **[1:18:50 PM] Unassigned**: I was just about to jump right there that's it, you can have a walk around here. What's going on? One of the ways we went was the way we drove behind it, it's a grand amount of fun of it. It's a grand amount of fun of it. There's a lot of fun. There's a lot of fun. There's a lot of fun. There's a lot of fun.
+
+- **[1:19:16 PM] Unassigned**: There's a lot of fun. I'm flying from the toilet. I'm going to go to the toilet. I'm going to go to the toilet.
+
+- **[1:19:35 PM] Unassigned**: There we go.
+
+- **[1:19:49 PM] Unassigned**: You're like a man you're like a man you're like a woman you're like a man you're like a man you're like a man you're like a man you're like a man you're like a man you're like a man you This is a mountain bike some steps on it, training how to take a few photos, not the perfect photos. This is better than the rest of it.
+
+- **[1:20:49 PM] Unassigned**: I'm going to have a quick look at it. I'm going to have a quick look at it. I'm going to have a quick look at it. I'm going to have a quick look at it. I'm going to have a quick look at it. I'm going to have a quick look at it. I'm going to have a quick look at it. I'm going to have a quick look at it. I'm going to have a quick look at it. I'm going to have a quick look at it.
+
+- **[1:21:09 PM] Unassigned**: I'm going to have a quick look at it. I'm going to have a quick look at it. I'm going to have a quick look at it.
+
+- **[1:21:45 PM] Unassigned**: I'm going that way I'm going that way I'm going that way I'm going that way. I can't see anything I can't see anything I can't see anything I can't see anything.
+
+- **[1:22:44 PM] Unassigned**: Right now it's back to right. That's the tablet. It's for you. It's for you. It's for you. It's for you. It's for you. It's for you. It's for you. It's for you.
+
+- **[1:22:58 PM] Unassigned**: It's for you. It's for you. It's for you. It's for you. It's for you. It's for you. It's for you. It's for you. It's for you.
+
+- **[1:23:38 PM] Unassigned**: no And you do that and you also make the next contact and you can send it to the other side of the board to send it to the other side of the board.
+
+- **[1:24:38 PM] Unassigned**: You know a lot of these things are going to be a little bit too much for a job. You know a lot of these things are going to be a little bit too much for a job. I'm going to have a little time to go and do this again and I'm going to start with a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a
+
+- **[1:26:25 PM] Unassigned**: No I'm trying not to but I want to make sure that the force is to work with you and I'm going to pour you in. You're doing that you're doing that you're doing that you're doing that.
+
+- **[1:26:55 PM] Unassigned**: I'm going to go to the other side. I'm going to go to the other side. I'm going to go to the other side. That's good.
+
+- **[1:28:46 PM] Unassigned**: This is the first time I've ever seen this kind of thing in my life that I've never seen before. I've never seen this kind of thing in my life that I've never seen before. I've never seen this kind of thing in my life that I've never seen before. I've never seen this kind of thing in my life that I've never seen before. I've never seen this kind of thing in my life that I've never seen before. I've never seen this kind of thing in my life that I've never seen before.
+
+- **[1:30:15 PM] Unassigned**: Chickens accuracy is 1 2 3 2 3 2 1 0 3 2 0 2 1 0, That was the one that was wonderful drive that was.
+
+- **[1:30:53 PM] Unassigned**: Yeah they're not. They're getting their eyes in the gap. They're getting their eyes in the gap. I think they're really hard on earth. So they're getting their eyes in the gap. That's the first time it's going to happen it's going to happen it's going to happen.
+
+- **[1:32:16 PM] Unassigned**: I'm going to have to go to the other side of the road to get to the other side of the road I'm going to have to go to the other side of the road to get to the other side of the road We had the same idea and I saw the CHP said let's pull over that in passes Is that because I saw you remember I saw when you put in brilliant you are so brilliant Yeah I come on what the hell is he pulling over for? And then it doesn't matter. That's saving your ass. We were both wondering where he was pulling over. I put a saving your ass. He saw me I was really scared.
+
+- **[1:33:17 PM] Unassigned**: And then he got a protector. I did. I'm the next guy. You don't know how much I'm a protector man. I'm trying to thank you. That was brilliant. I can go on shit. I hope that you see it. We don't see my life. I think you just dropped me.
+
+- **[1:33:35 PM] Unassigned**: Yeah that's what I was doing buddy. She's trying to save the water.
+
+- **[1:33:51 PM] Unassigned**: Okay we got to get two more. Can you reach over there? We're gonna have to put these all in the back here though. So when we move them we got to move a bag.
+
+- **[1:34:13 PM] Unassigned**: No no I I felt it
+
+- **[1:34:23 PM] Unassigned**: Oh okay sorry about that
+
+- **[1:34:35 PM] Unassigned**: to your left No that's not it but that's okay It's to your left in the rock. It might be the same.
+
+- **[1:35:05 PM] Unassigned**: Oh that is cold. Woo! I had their freezing. Here here here. Back here in the back.
+
+- **[1:35:19 PM] Unassigned**: I have to be close now doesn't it? Yeah I didn't keep turning. Oh you know why because the valve wasn't closed. Yeah wait a minute before you put it on Joe make sure the valve is closed. See that You'll see it Oh look at it. Look at the inside Okay you'll see it when the valve is. Oh it's not too deep right? Yeah because otherwise the water would come out
+
+- **[1:36:34 PM] Unassigned**: I'm going to go in with it. That's only 40 pounds. It feels like the five times eight is 40 pounds. Yeah you want the valve sideways like this I think close that or pointing all the way back If you're looking at areas it's open No all the way back Oh that's that's that Yeah that back Yeah Yeah so it really is only one direction open
+
+- **[1:37:54 PM] Unassigned**: We might want to use the other one. The other one don't do that. the challenge on the oh I know what it is it's a back pressure from the hose being smaller okay I'm I'm going to go into the bushes. Did I do it? You've got to dig with the bush. I do.
+
+- **[1:39:02 PM] Unassigned**: You might need more. You got to hold it.
+
+- **[1:39:11 PM] Unassigned**: Oh people. Because of people? We got the people. You find a tree?
+
+- **[1:39:36 PM] Unassigned**: At least that we're gonna do sevens in the shade.
+
+- **[1:40:06 PM] Unassigned**: It sounds like you're in the right cradle of mine. Is it the right cradle of mine? Why? Because I didn't want to be in the parking lot? Oh because I was going to try. Yes. And then she let me know about the little chip between the markings Stuart and so on. Yeah you have in the middle of two worlds there. So yeah so yeah it really is that I didn't know if there's a name tag at the moment. Yeah I know that's it.
+
+- **[1:40:45 PM] Unassigned**: And then I started to call my names for all yeah not all because there's a lot of Jews for here, also against murdering killing anybody. That's the point that keeps getting your just like nobody wants to get that nobody dies. then Mark with the deck they stood with the deck so he said I'm not going over there very good Oh So they both like And I'm just like really Actually I actually had a I had a So the time we were having breakfast and steward had our heavy discussion. It actually helped us out to actually be able to have a dialogue.
+
+- **[1:41:34 PM] Unassigned**: Hopefully it can soften when you get out of dialogue. All good. Well yes. I live with one foot in each side. Yeah she does. Is there still a side? Yes unfortunately. Unfortunately there is. Because people are dumb. I think there's there's there's there's some on both sides.
+
+- **[1:42:00 PM] Unassigned**: From originally. So that's like he at least doesn't like trunks anymore. That's good. That's good. That's good. That's good. That's good. He's like some of his colleagues at first. Now he's just like I don't understand why they folks just don't understand. We don't want anybody to be murked killed nobody zero
+
+- **[1:42:29 PM] Unassigned**: We are we are Nobody killed No I'm not here Oh it's just about I'm gonna push it down push it down Oh there you go Turn it off please Otherwise the lake up the hill is going to fill up this river here down here. You know he goes into the ground and goes back into the watershed. Yeah does that go into the water lake or does it go somewhere where that goes?
+
+- **[1:43:13 PM] Unassigned**: I bet it does. Yeah he must have done all that yeah. All right let's go. Wait. Here are the teeth. You feel a bit stranded beneath our teeth. He's our hands. He wants.
+
+- **[1:43:44 PM] Unassigned**: I recognize in this moment that we are right here The park. There are many czymes in the park. uma f Mapo. individuals just palas. Here surround us a square, but a harshness for anesarties. The water boat's wide, showing. We just watered a chic mist from the
+
+- **[1:44:18 PM] Unassigned**: To me I feel where I'm not I'm not in Santa Rosa California and I'm not I'm not dwelling on I don't even know what I'm not dwelling on because I'm not dwelling on it. And by recognizing that we're here now we have already slightly this love maybe that's her life. So one of the things is in psychology is that when you get angry those hormones you chemicals blow in our body for a very long time and it can be really easy when we reflect in the body and feel that stuff We think back to that the anger and think that there's still that anger and that anger is done So all that's just residue that's going to keep on and letting it go to keep on It's going to keep getting more and more deleted as we present and allow it to just be And so for us to remember that we're not that it's not here right this moment and then just try to be what President is
+
+- **[1:45:52 PM] Unassigned**: here which is what he's talking about with our feet with our bodies. So it's going to be a little more labyrinth for breathing and the club is saying the Andy the cool thing about having just set up a camp on our first day here is that we do want to be taking notes we don't want to be pitching camps for notes and tables and I've been putting up our stuff but I guess it's hard to find my track. So what if you go around briefly and look around and check in how you're doing? It's probably how you're doing with your stuff right? If I'd have a new opportunity work in the shop keep getting a little hoax what I don't if I could shone on fear here having to just keep her with me and my heart and my mind it is very new to me but she used to do this with us and it was one of the things I treasureed
+
+- **[1:47:29 PM] Unassigned**: most in our life together So this I knew it would be hard because I would be picking up her a lot more than thinking of her every feeling of her So I wasn't thinking of her before I had this way but you just saw her. eating up her at all thinking of the shop Then I bought her I know with her body being like it was she's glad to be out of it It was not safe for serving her anymore. And I'm grateful that she hasn't doesn't have to deal with that. And I keep telling her and myself that I will do the best to carry what she's taught on to others. Which is the incredible ability to listen and feel and have people know that they were were heard and seen as they are and as whatever it was they were going through She had such
+
+- **[1:48:41 PM] Unassigned**: a gift of doing that And I will try and carry that forward Yeah So I hear I am on a new experience that used to have her physically with me and now is only with me in the spirit and memory And that's new to me Join him on a new front a new front.
+
+- **[1:49:20 PM] Unassigned**: Hi everyone I'm Denise I'm Cumberhart. to be here Thank you Andrea for starting this off I felt it like I feel my ground in the earth I'm just switching off It's really nice A bit check Okay Listening to the water Yeah The water is just oh my god That's just put me right back Right now. Now very much needed just quiet stillness and taking every advantage of being a house here and the work you do is just like oh thank you very very very thank you. I'm thinking of that but loving and giving in time companions in our tribe and her Jo accompanying us this time and sharing this grief. Yeah I'm not hurt.
+
+- **[1:50:34 PM] Unassigned**: Is that a nice thing right here? I have songs in my heart. I have songs buzzing around in my head. I feel I feel a lot of love for all of you and I feel I feel like we're really gonna take care of each other That we don't always but that's an idea We're a family in this week and we're here for each other as well We're a great spirit and ancestors in the land, but we're here for each other That's what I'm getting and getting strong You guys are really here for me and I'm really good for you thank you very much thanks everybody all right, well Mark we're moving out first off I'd like to thank the cheers to the people that had kept you working and we're so bored and I'm talking to the being mindful from once the
+
+- **[1:52:04 PM] Unassigned**: The ceremony takes place and the drive out before we sort of walk on to the land are just being mindful and maybe cheering out some thoughts fighting stuff away clearing the path and being open. And that's why I wanted to choose before I get there. As like jokes there was some leg there's some leg time going on but I'm still I'm feeling anxious and excited and like I was sharing with these people on my way up here I was feeling You know where you'd like to go in the middle of the road? You know where you'd like to go in the middle of the road? You know where you'd like to go in the middle of the road? You know where you'd like to go in the middle of the road?
+
+- **[1:52:53 PM] Unassigned**: You know where you'd like to go in the middle of the road? You know where you'd like to go in the middle of the road? You know where you'd like to go in the middle of the road? You know where you'd like to go in the middle of the road? You know where you'd like to go in the middle of the road? You know where you'd like to go in the middle of the road? You know where you'd like to go in the middle of the road? You know where you'd like to go in the middle of the road? You know where you'd like to go in the middle of the road? I'm waiting to hear what you want in here though.
+
+- **[1:53:22 PM] Unassigned**: Yeah you know. You thought it was probably like you shared with me that? Yeah yeah that's the look. Yeah thank you. Everybody's here ready?
+
+- **[1:53:44 PM] Unassigned**: Well I wanted to hear a few words for you. Me too. What would you like to hear in the background?
+
+- **[1:53:58 PM] Unassigned**: My experience of hard-a-day has been difficult. Firstly difficult for me. I wanted to do this circle at the take-off pond but it went completely out of my head. At the time I didn't even think of this. It was really drunken and we were drumming beautifully and then everybody was cheering. We'd be there around. So that was the first thing the second thing was there was just in a series of challenges for me so I'm turning in as much as I can. The series of what? The challenges. The third thing is to re-harmstick in the car in the way here in the way to Bitsquirt.
+
+- **[1:54:46 PM] Unassigned**: And um since you think that I have to stop you are the client. So I feel a lot better now I think I'm just going to take it easy and you know I'll do my part in setting everything up. And we're going to have the marvelous time. It all happens I've been using this visualization tool that I learned from one of my rear-lays on YouTube. I like to watch Psychics and stuff I mean she's just really gotten into it in the last few months. And one of them my favorite is from South Africa and she's in the Z. And she's not saying visualize it as if it's already happened. And pretty much with language like it's already happened. So the last few days I've been saying, And when they got to base camp and we got to our elder base camp there was no living there.
+
+- **[1:55:51 PM] Unassigned**: And I didn't visualize that. It variations like there's no tent no cars no people. There's no parking space. Right right. There's no parking space. Oh my god. So I visualized it just being empty like this picture but it took class three. We've got some free food for Steve. So yeah. Thank you.
+
+- **[1:56:19 PM] Unassigned**: Oh oh. The thing is we do have a backup station. It's real so well. We like that. We can choose our older one cured with water in there. And then the views might be at least a moment first. Or who's leading? So no the plugin and bit of things. Yeah we do. Alright!
+
+- **[1:56:43 PM] Unassigned**: I am looking forward to that one! There you go!
+
+- **[1:57:09 PM] Unassigned**: I mean we covered it well and it happened to show that you've come to hold me. Yeah for sure.
+
+- **[1:57:39 PM] Unassigned**: I'm glad I got it an opportunity to say that part about the anger oh letting go of emotions and thinking you know it was more or not enough so by anger it was more so by having emotions and having stuff coming up with us and feeling that and thinking that's what's going on yeah home yeah I think I have
+
+- **[1:58:38 PM] Unassigned**: Oh my no we find it. Is that nice? It's utility roads. I would so much more than these. So many roads. Toward utility roads. But you don't. So that this is utility roads that it's telling us the details of the names. So that this is you know it's telling us the details of the names that the Anglos have created for you today not or what Trump told Google to name it. And when we get out to our submissions you want to be careful about how you do it.
+
+- **[1:59:28 PM] Unassigned**: I can't. But yeah. You're actually knowing that you've been part of it. You really want to honor them. They're the ones. Who said you've caught up? Who said you've caught up? Yeah uh-uh. It's the people of
+
+- **[1:59:54 PM] Unassigned**: Kutza is the alkali.
+
+- **[2:00:12 PM] Unassigned**: With everybody here.
+
+- **[2:00:19 PM] Unassigned**: What's that? Market in New York. What's that? So I told you I think about my mental life experience the vision. I have in my west five in the end of the year where I was playing in my circle, And it's like in a half-a-way state and it saw a wind hand about the happening over by the wall as a and they were practically on the ground and I think it was here. It was here at the beginning of the season. It was here at the ground and one under it wasn't there.
+
+- **[2:01:28 PM] Unassigned**: Yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes Oh yeah further out west yeah because I was close
+
+- **[2:02:28 PM] Unassigned**: I'm waiting for you to catch me now. I'm going to go. We'll go four miles to the world okay? Come on please. Did you hear that And I'm glad I pulled over. Did you hear what Joe and Kevin said? Did you realize why did he pull over? So I'm a officer. Ha ha ha ha. It's like yeah.
+
+- **[2:03:13 PM] Unassigned**: I'm looking for people. I'm looking out for people. I see those. Just that he's never captured. I am. I am. I am. I can see that. I can see that.
+
+- **[2:04:55 PM] Unassigned**: I'll lead you to the right way I'll be sorry he turned over to us when I go in here, I'll be sorry to turn it over as soon as I come in here we've got some problems in here. That's not it it's just a long row. I got it it was meant to be turning out I got it I'm doing it now it's a back That's why we're here well no that's all right you'll see don't tell us.
+
+- **[2:07:20 PM] Unassigned**: a little bit more. there
+
+- **[2:07:32 PM] Unassigned**: I am going to There they are they're both there we're dead I'm just not going to eat jokes you're far Oh well this drink this is how it turned out to be. That's where it gets. That's where it gets. But we're in because of clouds. You know what's that made out in the middle of the window?
+
+- **[2:08:49 PM] Unassigned**: What's that?
+
+- **[2:09:01 PM] Unassigned**: I have some more but I'll ask for a later. That's fine right now.
+
+- **[2:09:11 PM] Unassigned**: You can go back in and get into the body.
+
+- **[2:10:16 PM] Unassigned**: Don't forget to let you look at the times of the town.
+
+- **[2:10:53 PM] Unassigned**: You know I even have mapped out the trails to get the best spot. I'm just going to have to pass by dogs.
+
+- **[2:12:04 PM] Unassigned**: I know it's a ~~~ Ny-wah was one Ny'ah was the last one
+
+- **[2:12:18 PM] Unassigned**: Ny-Jah Ny Наah Ny-Jah Ny-Jah Ny-Jah Ny-Jah NUMBER Ny-Jah Ny-Jah Ny-Jah Ny-Jah Ny-Jah You got you got you got you got you got you got you got you got you got you got you got you got you got you got you got you got you got you got you Down down down down down down down down down down down down down down down down down down down down down down down down down down down Oh I'm sure we all were we weren't anything at all.
+
+- **[2:14:04 PM] Unassigned**: Can you have something to help? Yes do you have to try to do something… Does he understand? Yes he does. is the people of
+
+- **[2:14:37 PM] Unassigned**: the positive uh that's right
+
+- **[2:14:49 PM] Unassigned**: their favorite type is I'm not sure if you've got you've got you've got you've got you've got you've got you've got you've got you've got you've got you've got you've got you've You cut you cut is a word you know that word you cut you cut you cut you cut you cut you cut you cut, This is the profile a lot of stuff like profile and this new car is here. And then the stuff is here for you. Now collide profile here people react. I'm going back I'm going back I'm going back I'm going back I'm going back I'm going back I'm going back I'm going back I'm going
+
+- **[2:17:11 PM] Unassigned**: 4th road 1-man and 75
+
+- **[2:18:31 PM] Unassigned**: Yeah that's right. Yeah you come.
+
+- **[2:18:48 PM] Unassigned**: I know it's Kusa because they sell a KO the EA the EU the AI the mouse the AI, Don't stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop stop I know it's one of the books I've written like yeah it's different then it gets me confused because it's spelled in a plural in a way and one so it doesn't make any sense I think you need to be here be here be here be here be here be here be here be here be here be here be here be here be here be here be here be here be here be here
+
+- **[2:21:31 PM] Unassigned**: Did you guys visualize the notice? I did. I know. Well just like in the dark matter, like your fears can interfere with it, so I noticed that it's done. But when you're worried about it, then there's a hindered and there's a That's not it. Did you get it?
+
+- **[2:21:58 PM] Unassigned**: I was watching that after I heard about that. Ah ha ha ha yes. It's like that it's like you know what it's all about. That's what I'm saying. You might have heard.
+
+- **[2:22:20 PM] Unassigned**: Well one thing I wanted to I don't want to direct people. like you know I mean as a part of the way of um but um so funny and like uh, Kevin today I I do all the things where he's been. I don't want to think about I'm not in Santa Rosa so by by saying that, he actually gave birth to the idea of you know what I mean? So uh but that might mean it can't be just what happens is definitely a real thing on something you just need to come to mind. That's what you're really trying to do. So if you're afraid you're gonna be afraid because you're not saying yes. It's like what a long time is saying that sort of positive,
+
+- **[2:23:23 PM] Unassigned**: yeah that's good. Like now there's just all of the positive, like the positive, positive positive. Yeah but you gotta get to that point. That's what we do. It's not a brand new way. Like you have to look at how it is. It is the committee. That is exactly what the perfect committee is.
+
+- **[2:23:42 PM] Unassigned**: It's just how you define the committee. Maybe this is it. and all of the parties that make an aspect of what we are going to do this year are positive and things that come on in the personal knowledge of these wishes that we really have. All of the things that we're looking for that we're moving on to, all that's part of it and they all have a charge on us now.
+
+- **[2:24:28 PM] Unassigned**: Yeah it's the back I want to open up the back to my shoes. I want to love the house. But I think that might be I'll give my hand in the other side of the house. I'm going to try this I'm going to go down. Did you got hit?
+
+- **[2:24:58 PM] Unassigned**: By a danger of hotter than I am.
+
+- **[2:25:13 PM] Unassigned**: Thank you for starting that was rounding up the automatic experience and the grounding I love what the need for that is so the other is the river you know anything that you need to hear you need to touch it you need to know it.
+
+- **[2:27:06 PM] Unassigned**: I'm going I've been going I've been going I've been going I've been going I've been going I've been going I've been going I've been going It's coming forward so I can get it out it's up and it's ready to sit back over there. There's so many forward so before we go right into one okay there we go I'm just It's the end of our round.
+
+- **[2:28:08 PM] Unassigned**: I'm Menschen events. I can't comment who you have.
+
+- **[2:28:26 PM] Unassigned**: YOU'RE NOT CEzahlONE.
+
+- **[2:30:57 PM] Unassigned**: That's it huh? That's it huh? That's it huh?
+
+- **[2:31:27 PM] Unassigned**: Yeah it says to me my voice but I think you might be closer I mean some music I might I feel about the road you know there's a fine and then there's a fine. And the better. The better. I'm wearing a clothes and a shirt.
+
+- **[2:32:16 PM] Unassigned**: That's fine that's the problem my foot's fine that's the problem, I'm very close to that. I'm very close to that. I'm very close to that. I'm very close to that. I'm very close to that. I'm very close to that.
+
+- **[2:32:54 PM] Unassigned**: I'm very close to that. I'm very close to that. I'm very close to that. I'm very close to that. I'm very close to that.
+
+- **[2:33:34 PM] Unassigned**: Seven minutes left nine minutes left four minutes left nine minutes left ten minutes left ten minutes left ten minutes left ten minutes left ten minutes left ten minutes left ten minutes left ten minutes left I'm going to stop. I'm going to stop. I'm going to stop. I'm going to go right to the curb here. What are you saying? Is that right? Does anybody here? Is that right? Is that right?
+
+- **[2:34:27 PM] Unassigned**: Is that right? I know. I'm going right. Right here.
+
+- **[2:35:01 PM] Unassigned**: There's that will we'll get there in a second there's a horse right over there
+
+- **[2:35:31 PM] Unassigned**: Yeah it's over there just over you can't it's right there there's a rock right there you can almost see it but we think there's a horse there oh smell that I have some But the doctor is if we want to look to the camp area. We've got go left camera department. Yeah we're going up there anyway. We're not going to worry about it right now. I have faith that when we got there there was no air. You too? It's not me. You too.
+
+- **[2:36:17 PM] Unassigned**: I am told. I am told. Yeah they're doing around the gas station look at that. Sir are we going to sit on the body of a car? That's her new people. There's nobody new here. Just old people.
+
+- **[2:36:54 PM] Unassigned**: What is that supposed to be? I feel old! I work on all these old ones. I have to leave all five of the clusters to ask us to ask for permission. See you guys fun and I'll cut the little frothers. See you guys at our last slide of the week. I'll see you guys here. I think it's Thursday and I'll always see you guys again.
+
+- **[2:38:48 PM] Unassigned**: I can't do it. No I'm happy to them. Happy to them. So here's some of you up there that might just be a day to do this. There's a good boy flying here on the way.
+
+- **[2:39:53 PM] Unassigned**: I'm going to say that you're going to use that. I'm going to say that you're going to use that. Woo! Woo!
+
+- **[2:40:21 PM] Unassigned**: Big spirit whose voice I hear in the wind. I come to you as a humble person.
+
+- **[2:40:35 PM] Unassigned**: Yeah we're real scary.
+
+- **[2:41:03 PM] Unassigned**: I'm just
+
+- **[2:41:09 PM] Unassigned**: Do you see your car up there? I don't see any of that. We'll see it in my car. Now where we have to deal with it we have to deal with it.
+
+- **[2:41:26 PM] Unassigned**: I love that.
+
+- **[2:41:58 PM] Unassigned**: I'm waiting for Denise to get in.
+
+- **[2:42:28 PM] Unassigned**: So I can climb up here and get in my car. It's been bothering me out.
+
+- **[2:42:46 PM] Unassigned**: If you do get our spot I'm going to try and just be the furthest out and let them move closer. I think they're the anchors the wind they're not going to be moving we are so I'm going to pull in first and then get them moving so you're all right. Oh yeah pull as close as you can. March 50th on day 1st you know by that day you can see the mountains green and green. Are you sure it's full of mountains? We're going to have to go on the second day to see the green. I used to have to get on the side of the curb because I can't it was dug out so I couldn't. They've been horses those horses don't hear it. Yeah I just see that one down below. Yeah I was questioning because like okay it now looks like a rock so you know I mean,
+
+- **[2:44:00 PM] Unassigned**: There's more done right here. Fairly fresh too. A lot of down here. This is where my car has problems. It's a mixture of yours and the way it's like a champ. I don't think anybody's here sweetie. I don't see anybody I see nobody I see no cars for you We're going in We're taking over. Told you nobody's here. It's our home It's our home for the week.
+
+- **[2:44:58 PM] Unassigned**: Hey!
+
+- **[2:45:03 PM] Unassigned**: It was obvious. It was unloaded. Yeah all down here. Ch свой. Chichin. We have been able to be here so long. Woo! Woo! Woo! Chichin!
+
+- **[2:45:24 PM] Unassigned**: Ha Ha Ha Ha! Chichin! Woo!
+
+- **[2:46:01 PM] Unassigned**: Oh yeah let's see! Good luck! See you on my way!
+
+- **[2:46:14 PM] Unassigned**: Oh it's accepted There's somewhere. Okay there's one more.
+
+- **[2:46:27 PM] Unassigned**: There it is! Well I went this here. No you weren't here in 90, here then I don't think.
+
+- **[2:46:54 PM] Unassigned**: We were here quest leaders.
+
+- **[2:47:01 PM] Unassigned**: Yeah yeah I was on that side.
+
+- **[2:47:09 PM] Unassigned**: Oh I know it. It was stepped out.
+
+- **[2:47:17 PM] Unassigned**: This is all new to me. Yeah so this is our main base camp. The second base camp is right up there. The road goes up and over to the left and it's right over there where you see the little thing. Yeah there's a picture of all those guys and he's in it right? Well all guys that's not him that was with Robert on the rock there. I decided to park far away so that you guys could park closer to where you're not moving, so all we have to tie down to the wind. I think that you guys do you know what I mean?
+
+- **[2:48:08 PM] Unassigned**: Because this is where we'll all be right here right? I mean I was just looking at it but we want to be able to tie the truss to the wind. I mean I mean How does it be funny? Just spread out with no tie down. We haven't used the tie down for a while. I mean
+
+- **[2:48:36 PM] Unassigned**: Alright look.
+
+- **[2:49:00 PM] Unassigned**: We're going all over by the rock Yeah you know where it goes
+
+- **[2:49:09 PM] Unassigned**: You think she just grabbed the truck over there? What's the point? What did we do that had? Over and wide.
+
+- **[2:49:39 PM] Unassigned**: Is itfield? Sorta here. Michael get back into the circle here. Circle here? A circle. Yeah get up the circle here. We have enough for everybody.
+
+- **[2:51:29 PM] Unassigned**: Yeah so fruit goes over there can't hold on. By the water. You're an EZF bird easier to put up the bite. We only have one yeah. Oh you only brought one? Yes. Okay Andreas I tried two. So okay. We only brought one. And I followed her lead so I'm surprised.
+
+- **[2:51:57 PM] Unassigned**: Maybe we have two. She's bringing it down yeah I'm fine with that one right? You guys need help? I'll just come back to that.
+
+- **[2:52:38 PM] Unassigned**: I'm putting that chairs over here so we know. What can I help you with Mark? Yeah maybe it's your hobby to make a goal for you. Oh that's a plan. That's cool. 쟤� lash
+
+- **[2:53:33 PM] Unassigned**: The water could not why don't you put it by the water?
+
+- **[2:54:19 PM] Unassigned**: I'm going to have to go to the other side to see if there's anything else I can do to make sure I don't have to go to the other side. I'm going to have to go to the other side to see if there's anything else I can do to make sure I don't have to go to the other side. Right there yeah. Do you want the other one to let go? No that's good. So we need to decide where they're going they have to set up a tent of the easy up first. I get it I get it I get it I get it I get it I get it I get it I get it I get it I get it I get it I get it I get it I get it I get it I get it I get it
+
+- **[2:57:08 PM] Unassigned**: Oh there we go. Be sure. We need to bring the little mic. There's no way we can throw that in the way. Yeah I don't remember when I remember a little line right front but I think that's what it was like when I was a kid. I don't remember when I remember a little line right front but I think that's what it was like when I was a kid. You know it's funny when we were going to look for the propane I'm like why are we looking at it the night before relieving? We should have seen Jim got rid of him. We're lucky that we have him but I'm just saying it's like,
+
+- **[2:58:12 PM] Unassigned**: The night before we leave he's not the time to scramble for a potential. This is probably the first time they've told me so. Yeah we'll get the other.
+
+- **[2:58:42 PM] Unassigned**: She does You just have to stack it right And she's cheap storage if she's got this.
+
+- **[2:59:02 PM] Unassigned**: All righty What do we do next? The kitchen and the kitchen again. We're gonna go. Easy up. Home and easy is there? The heart with the next hardest thing. I guess the next hardest thing would be getting the easy up and where we're going to use it. Then put the kitchen up and that's the big thing. That's the bottom Then we can put it up the way. the easy after out here already she's got the puffier
+
+- **[2:59:46 PM] Unassigned**: this one this one and my people like that yeah that looks for her this is the one we were eating yeah that was actually better for her I'm going to start with the new one all the way to this kind of thing stuff iron. I'm going to start with the new one all the way to this kind of thing stuff iron. I'll destroy it.
+
+- **[3:00:36 PM] Unassigned**: That's not nice.
+
+- **[3:01:10 PM] Unassigned**: here. We knew there was going to be a wind of it for today so it should die down that's it. down here with the cover and oh put the cover over over there at least I've put her cover see that thing right there yeah Oh it might be in a little way.
+
+- **[3:01:55 PM] Unassigned**: Oh look at that it ripped it it didn't have much to it. You have a car down there. Feel good.
+
+- **[3:02:13 PM] Unassigned**: This is open.
+
+- **[3:02:19 PM] Unassigned**: This one is used here. This one is used here. This one is a box.
+
+- **[3:02:29 PM] Unassigned**: Yeah we're doing the topway for all of it. You can get this button down. Oh great. I'm not going to say anything else. I want you to leave the lake. Ha ha ha ha.
+
+- **[3:03:08 PM] Unassigned**: You want me to pull this thing? Oh there we go. Oh this is so much easier. Ha ha ha.
+
+- **[3:03:22 PM] Unassigned**: to snap in the way The front's over here. Okay that's what I'm talking about.
+
+- **[3:03:37 PM] Unassigned**: There.
+
+- **[3:03:46 PM] Unassigned**: Oh you're on me. I'm on me yeah. I'm on D I'm on D You're on D She's Andy I'm on D
+
+- **[3:04:19 PM] Unassigned**: I went on the top of the mountain.
+
+- **[3:04:27 PM] Unassigned**: And this time gotta be one in the bottom. Well that's not something. Five foot one at a time. Did you hold this top? Thank you.
+
+- **[3:04:42 PM] Unassigned**: This is my best brother.
+
+- **[3:04:54 PM] Unassigned**: The wind's pumping. Yeah maybe we will have to leave the truck out. I think we yeah let's just leave. Joe's got some pies outside. You guys all have pies available? Pies? Yeah something that we can tweak. Oh yeah there's a box there's a whole bunch of guys there. And now I'm going to listen to the box aren't you? So have you got those books?
+
+- **[3:05:25 PM] Unassigned**: Is this the kitchen? I guess so yeah. What's turning it? Yeah turn it over. What do we want the door to be? That way right? Where's the rock probably? Where? Storage. Well we're just be exiting out in the morning in the dining area so maybe we'll
+
+- **[3:05:51 PM] Unassigned**: rotate it. Yeah turn it all the way around in 180. Joe turn around. Keep going. Okay hold on. I'm gonna help you here. Hey come on Joe. I'm going to help you here. It's like a vehicle. Okay come on Joe.
+
+- **[3:06:05 PM] Unassigned**: I'm going to do it. Do it. Do it. Do it. Do it. Do it. Do it. I'm going over here. We found the bag. That way you can do it here.
+
+- **[3:06:18 PM] Unassigned**: I'm also shooting more. It's going. Right here. You know if you have a side seat you can walk either way. So I think uh. So I think we've got some sticks there. I think we can top it up a bit more so yeah.
+
+- **[3:06:44 PM] Unassigned**: I see this one didn't get laid. It's already been more clean. I've got to move this leg lower.
+
+- **[3:06:59 PM] Unassigned**: to my foot one foundation in I do throw it aside I guess. Thank you. There's some things there's some clothesline. Yeah just a little talk and get it in.
+
+- **[3:07:29 PM] Unassigned**: Oh the steak has a steak hole. Yeah you're right Mr Brown. Yeah he's not going to work too. This one that takes care of him over the whole thing. That's what I'm talking about. I took care of the chicken. This one. You can see him off I think. You can see him off. You used to hear him.
+
+- **[3:08:03 PM] Unassigned**: You could hear him yeah. Then we had to help him off. That's the situation right now. You can see him off. There he is. bla bla bla all right
+
+- **[3:09:24 PM] Unassigned**: I'm not putting it up I'm waiting for circle to be made but I'm just putting it near What do you need I'm not right now I'm still trying to I I want to need to put some sunscreen on then I'll help Hold on I'm trying We have tried to get the bag out though so it's varied right now so I'm just a few minutes right away yeah yeah I'm already trying to get tuna I need some sunscreen I'm going to go to the other side of the road I'm going to the other side of the road I'm going to the other side of the road I'm going to the other side of the road I
+
+- **[3:12:31 PM] Unassigned**: I'm going to go to the other side of the building. I'm going to the other side of the building. I'm going to the other side of the building. I'm going to the other side of the building. I'm going to the other side of the building. I'm going to the other side of the building. I'm going to the other side of the building. I'm going to the other side of the building. I'm going to the other side of the building. I'm going to the other side of the building.
+
+- **[3:12:51 PM] Unassigned**: I'm going to the other side of the building. I'm going to the other side of the building. I'm going to the other side of the building. I'm going to the other side of the building.
+
+- **[3:13:59 PM] Unassigned**: I don't even know what you're doing. I don't even know what you're doing. I don't even know what you're doing. I don't even know what you're doing. I don't even know what you're doing. I don't even know what you're doing. I don't even know what you're doing. I don't even know what you're doing. I don't even know what you're doing. I don't even know what you're doing.
+
+- **[3:14:10 PM] Unassigned**: I don't even know what you're doing. I don't even know what you're doing. I don't even know what you're doing. I don't even know what you're doing. I don't even know what you're doing. I don't even know what you're doing. I don't even know what you're doing. I don't even know what you're doing.
+
+- **[3:14:48 PM] Unassigned**: I'm going to have to get out of here and get out of here and get out of here and get out of here and get out of here and get out of here and get out of here and get out
+
+- **[3:15:48 PM] Unassigned**: We're just going to move it we're just going to move it this way outside of the plant. Okay so when we eat one thing I think of is the doors are on the We'll take one of the doors this way and this that way. From Marco yeah go that way. Going. Well right here. I was just taking a door from the kitchen to the here, and then the same thing out. I can see the other way. What do we do?
+
+- **[3:17:07 PM] Unassigned**: I'm only going with the rhythm. I sure the door is of that nature. With the wind. okay that's fine basically the same thing, he just further away that's all we're trying to get it all of the plants they're behind it okay here we go yeah this is it you need help there yeah okay we'll be there in a second I had to put sunscreen on our so I was going to triple and burn and by the way I have a la gel if anybody I need it.
+
+- **[3:19:25 PM] Unassigned**: Hey can I use that mallet for a minute? I am going to put these things for the chicken heat and fire and we are going to go a little bit deeper now. I'm going to try that down it's going to be interfering a bit. If you want to tie these down I'm doing that with this one right now. Yeah no I think if we want to if you put this way here with this way facing, some of us will just walk over and rip the tent down. Well I'm not doing it here you've been just different I think this side. Oh yeah I can shorten that one at all I can shorten it but yeah shorten it it's shortened again.
+
+- **[3:21:02 PM] Unassigned**: Isn't that way we're not tripping on it? Yeah there you go. There's no one to take over here. Or maybe I tied it in the middle maybe you could do it in the middle here or in the thing. I never figured figure out how to make those little tides of locking in you got them. Yeah it's going to slide.
+
+- **[3:21:59 PM] Unassigned**: Maybe we can't rely on them at all. They just provide extra support right? Yeah just time here for now. I'm not going to get any support from Tyler. I've got a minefield here Maybe we just like somebody's going to trip. I feel like this is already supposed to be a secure Yeah it's not angered. When we figure that out we get the mean one Yeah yeah. Yeah the wind is going to be a red or whatever you said well let me assume we might be what we're seeing right now. Oh this is wild right flag.
+
+- **[3:22:54 PM] Unassigned**: It's just like a red flag. maybe the worst of it we know it's a deep experience for us from this. Yeah we have. Well we've had to lie to Frankie and Mike with Mike. Dude oh they're not. He's trying to get down. People are flying down the street. All the bikes are tense. Well even though they were staking they were staking down. Good enough.
+
+- **[3:23:16 PM] Unassigned**: Oh by the way.
+
+- **[3:23:21 PM] Unassigned**: Yeah I do that. I'm gonna get us the Lambo
+
+- **[3:23:46 PM] Unassigned**: I think you can take that one already Yeah so I'm gonna double take this one No it's up here double thing on the ground. We've got to do that. You can see what we've made for you Joe. Where's that thing? Good idea.
+
+- **[3:24:15 PM] Unassigned**: Probably hit a rock John. No it's a good idea. Okay I'm going to get it I'm going to do it. Can we take them one of the empty tubs?
+
+- **[3:24:39 PM] Unassigned**: You guys are alive. Well he's putting them there right now. But I'm not we're going to I'll test it later. We're just going to find this one. The name ones are all in here.
+
+- **[3:25:49 PM] Unassigned**: Oh nothing goes in there it's really good to go in this one she's going to get who goes It's been cooking for you right? Yeah put all the base stamps in too. It looks like the only one that's under the table before.
+
+- **[3:26:27 PM] Unassigned**: But I don't think we need to put all the parts in. For dry food to be heard. Yeah for dry food to be heard. Yeah for dry food to be heard.
+
+- **[3:26:41 PM] Unassigned**: Oh I have to do the mattress. Ok got team going to kick so umm. Those are all tarps but I think we did this for the back of the truck yeah I see. I don't even know how we got up getting them all. You know what can we do the same? I'm gonna put that one here. What I'm gonna do is I'm gonna use this as a way to dignify don't get just cornered. You know what I mean? So if it's there it's gonna walk around it. So I'm trying to put it it's like a flag.
+
+- **[3:27:44 PM] Unassigned**: Yeah yeah good idea. I'm trying to I like it. We got to we go here. Well I put that one there because I know she'll, she'll she's pretty particular about where things go in the kitchen. Sorry. That's all right. I'm usually trying to use your own words. This is her head.
+
+- **[3:28:03 PM] Unassigned**: no. She was listening. I knew she was listening. I know. AHAHAHAHAHAHA yeah Yeah that's the drainage area yeah we're the bees are going to be hanging out. It's not BCs it's a yellow jacket it's nothing to be Yeah there's something to come for it. I just made that up yeah.
+
+- **[3:29:26 PM] Unassigned**: Okay well I knew that your argument had a hole in it, so it's like something's coming over there. Bears or horses are gonna come after that water.
+
+- **[3:29:47 PM] Unassigned**: I'm going to go right on the other side and there's a toy like that is up above those rocks to the other side of the house. She just showed me the long walk. Yeah so normally what happens is I'm going to go right over here. Okay great. Yeah this spot comes with the bike of us. Yeah no there's a nice spot right here. So if you feed normally we go in the first landing. They go in the second landing.
+
+- **[3:30:25 PM] Unassigned**: And where's where's she go? She's out in the middle of the field here somewhere. Yeah there's that tree over there. If you're in here you want to be in the rock. I just want to be protected by the rocks. But that's a bathroom huh?
+
+- **[3:30:45 PM] Unassigned**: you don't you know then you're out of the like after the second set of rocks here, you set it But yeah when you go on that you can see the rocks the lower rocks right over there Oh yeah over in there So by going to the second set kind of go on the other side of the rock by the way. What keeps going is the cross by the rock. You see right there where it keeps a little dark area right there by the tree? Second nearest spot. This is a place in the back and near a way keeps going. How about between the second set where the V is,
+
+- **[3:31:25 PM] Unassigned**: and that looks like an old place and it's up there. Coming down in between there beyond orange. It's a back room it's just here right? It's uh it may be either one like one one two kind of thing you know I I don't get one but I know right behind you but if I go up further it's like I said the third, third set of rods you can go on the other side of that. So what I would do is just go up there just bring those maybe your sleeping bag and then Just find the spot and that way you get to the middle. Yeah I get my tent. My weird weirder.
+
+- **[3:32:12 PM] Unassigned**: That's it over.
+
+- **[3:32:18 PM] Unassigned**: Oh yeah it's probably over here behind the bridge. where the big drum is.
+
+- **[3:32:49 PM] Unassigned**: And I put your bag right here. I see it. I love you.
+
+- **[3:35:18 PM] Unassigned**: I'm just laughing I'm just laughing I'm just laughing I'm just laughing I'm just laughing I'm just laughing I'm just laughing I'm just
+
+- **[3:36:14 PM] Unassigned**: Remove the drum over. Because I need to get over there. I'm just letting it I'm just yeah that's that green one for me.
+
+- **[3:37:07 PM] Unassigned**: back in the car. So white is the north so it's this way?
+
+- **[3:37:36 PM] Unassigned**: Oh we have to find the site. So I think we can pull that one up. Got it? Do you think we can get in here? it's pretty quick. It's going to fall all the way.
+
+- **[3:37:57 PM] Unassigned**: We're going to wait for the record again fed up before we do this.
+
+- **[3:39:16 PM] Unassigned**: Then this is mainly set right?
+
+- **[3:39:29 PM] Unassigned**: Okay well you want to do that now? I know but we have to get our tent set up before we do. That's okay. I'll get stuff up here there. If you want to know what you could do set up the rod and set up where the first hole is going to be and you have to put everything down. I got kind of a I did it back.
+
+- **[3:40:24 PM] Unassigned**: How did you put it? I did a north already. I think.
+
+- **[3:42:45 PM] Unassigned**: Detective
+
+- **[3:43:45 PM] Unassigned**: I have a tent too you know I'm trying to figure out where to hold you guys were going so
+
+- **[3:44:15 PM] Unassigned**: Andrew has but not me. No problem. You okay? Mark you okay?
+
+- **[3:44:32 PM] Unassigned**: I'm walking down there street. I know.
+
+- **[3:44:45 PM] Unassigned**: Do you mind the burp behind you? Well there's three spots right here and so I need to take one of them.
+
+- **[3:46:09 PM] Unassigned**: You got your stuff you got your stuff? You got yourself down the hill a little way okay yeah there's a spot underneath the tree here I'm not gonna take it too small for us that's why I put parts behind that tree there and this is thinking on too close to them but there's three spots right there I can't oh I can't take it away but that spot's too small if I were to put a single person Yeah I gotta take square tent I take that one. Okay yeah I wanted to get on the other side of the rock. Oh you can look in the other side of the rock? Oh yeah Yeah. This is the better side.
+
+- **[3:47:18 PM] Unassigned**: It's just yeah. It's just along this rock and it's really harder to get to. You have to go through the yeah. You'd have to go back a little ways back to actually get a gun. And I don't want to go around far away from base camp because you guys are going to be gone most of the time. You guys are going to take your stuff and go. We're going to be here so. I'm going to set up here.
+
+- **[3:47:49 PM] Unassigned**: no. I'm not worried about that. I mean if people fight and make love or what do they do that's their thing.
+
+- **[3:48:01 PM] Unassigned**: I'm going to take a look at this, I'm going to take a look at this, I'm going to take a look at this, I'm going to take a look at this, I'm going to take a look at this, I'm going to take a look at this I'm going to take a look at this, I'm going to take a look at this, I'm going to take a look at this, I'm going to take a look at this,
+
+- **[3:48:21 PM] Unassigned**: I'm going to take a look at this, I'm going to take a look at this, I'm going to take a look at this, I'm going to take a look at this, We've never had anyone behind us. Well the problem is there's no more big black spots. We need a big enough tent. I don't want to be five miles away. We're not going to be watching base camp. base camp or whatever you do we can help report it in the net like a play track.
+
+- **[3:49:07 PM] Unassigned**: We just got used to helping anyone not to do it. There's three flat spots here and I have a big tent in the other way. No worries we'll just give you a more time. You just better not score but hate yourself. I don't need more but he does. I need to need scores enough for the three of us. So I wear earplugs. I do too. You and I are good. Andrea snores too so perfect.
+
+- **[3:49:43 PM] Unassigned**: Sandra how do you you used to be oh you're both of you? By herself when she was single she would be by herself. But now we sleep close to each other. What's going on? What's going on? What's going on? You were up to the end of the year. Don't be afraid of anything. I was I was uh we were there last year. Second base camp.
+
+- **[3:50:02 PM] Unassigned**: And we were you guys are further than us. We were we had more room up there to set up and separate. Oh you mean up here? We were up there. We were in a second base camp. Oh even those last year. Yeah but when did I tell me when? So I'm a proper. I was not married to Andrea then and I 2000 and three to go to the devil deck.
+
+- **[3:50:23 PM] Unassigned**: I was never with Andrea when we were questing, questing except for the maybe one time, and I took a single spot up here. There's plenty of single spots up there, but I never had a seat here. Look at that my family sees my own. I liked the last two a couple of years. You guys were all down there. I see what they're saying. I remember we were on their journey on our own.
+
+- **[3:50:44 PM] Unassigned**: Remember we were at James? James had the big trailer and he went way over over there. We Andrew and I weren't together then. So I was separate from her. She was down there. She was down there and I was up there. They were right. My pet little Mike. We're right there. Frankie and Andrew we're getting blown about out there.
+
+- **[3:51:08 PM] Unassigned**: You hold that little round over there. You're all right there? Good stuff I think. Okay I'll leave. Get out of here. Here's the shot and you're on to the hand with your tent. I'm doing enough. I need three. Why do you have to have four in front? I think we have everything.
+
+- **[3:51:28 PM] Unassigned**: You need to matter Van Denise? I'm playing. I was trying to just think that one word that people do a lot you know.
+
+- **[3:52:35 PM] Unassigned**: Right next to me is Penelope you're back here. There's a Penelope on the back here.
+
+- **[3:52:47 PM] Unassigned**: There you are so just put me back in the chest.
+
+- **[3:53:35 PM] Unassigned**: I'm going to have to go to bed now I'm going to have to go to bed now I'm going to have to go to bed now I'm going to have to go to bed now I'm going
+
+- **[3:55:35 PM] Unassigned**: I'm going to go to the other side of the road. I'm going to the other side of the road. I'm going to the other side of the road. I'm going to the other side of the road. I'm going to the other side of the road. I'm going to the other side of the road. I'm going to the other side of the road. I'm going to the other side of the road. I'm going to the other side of the road. I'm going to the other side of the road.
+
+- **[3:55:55 PM] Unassigned**: I'm going to the other side of the road. I'm going to the other side of the road. I'm going to the other side of the road. I'm going to the other side of the road.
+
+- **[3:56:33 PM] Unassigned**: Over to the bed. the east or the west or the south Where's the gate Where is it Do you have it down yet? Well why don't you put me in the uh where are you going to be? I got light mitckenin. Beats tracwheel. So with that vine. Here. Light with few 12 and then. If it's breaking out I don't have to shoot? I'm putting the heavy ones on this side.
+
+- **[3:58:21 PM] Unassigned**: Is that the gate there?
+
+- **[3:58:41 PM] Unassigned**: If you need to scan and walk right? We're putting the back back somewhere in here. I'm putting the back of the gate there.
+
+- **[3:59:55 PM] Unassigned**: morning from Guatemala y Anddrop and try to pick up the trash I'll be better back. I'm walking in and I want to walk around. Oh you know I have to get some room to walk around. I'll put it to one foot. I didn't do that. Insightably yeah. Not on the foot. Right let's do it in time.
+
+- **[4:00:45 PM] Unassigned**: That's why you need to get back. That's it. That's it.
+
+- **[4:01:02 PM] Unassigned**: I'm trying to flip that.
+
+- **[4:01:12 PM] Unassigned**: Ouch. This is going to start off the length of it.
+
+- **[4:01:50 PM] Unassigned**: You know my drum went Oh it's right there. That's just right somebody.
+
+- **[4:02:11 PM] Unassigned**: I'm almost down my whole bottle.
+
+- **[4:02:50 PM] Unassigned**: We had it somewhere over here and Sam was here so almost close to where we got it. and the chairs are set up we can move it just outside of it. Right like this.
+
+- **[4:04:19 PM] Unassigned**: I'm going to drop him for now.
+
+- **[4:04:32 PM] Unassigned**: What are you going to put away? Oh yeah I'm just putting there for now.
+
+- **[4:05:14 PM] Unassigned**: honey I'm going to put I have mine in a car. You can tell you're on I have mine. Yeah they do and they fly around and I think we should put everything we want want to keep in here I got to put my drum in here at 9.2 Okay I need help I can't I need to I can't do anything without you to establish the base So I'm just I have to wait for you I got us right by Mark and Denise and so I need I need a vote
+
+- **[4:08:54 PM] Unassigned**: I'm not you.
+
+- **[4:09:24 PM] Unassigned**: I'm going to have a look at the
+
+- **[4:09:53 PM] Unassigned**: Multiple people in the pooper stoopers why? People are peeing in the poo spot or people are pooing in a pee spot. I got up further and behind the rocket I'm right over on the opposite side of their tent. Okay so you're so close to that see where the holes are in this rock right here? That's kind of the farthest part that anybody goes pee. you're a little bit away okay yeah but what I'm saying is in view of anybody bending over like I said yeah that's well that's why I want to go behind the tree but no that's it that's fine you're behind a rock is good That's what I do when I go I go and find go I find a spot under a rock and under a tree
+
+- **[4:11:31 PM] Unassigned**: If I could find both together then they got shade and security right near each other What oh my gosh your duties are So you put your chair out in the circles Did you show the circles? Everybody knows it's around the circle I guess oh
+
+- **[4:11:56 PM] Unassigned**: Might you have I have four emergency Electro-Ice we got plenty In two and a half gallons of water This had it's not first put a couple more You have two and two and a half one Two and a half gallon and I have four in that Four packages But I mean now we see that No we have packages good for a glass of water About uh that is correct
+
+- **[4:12:21 PM] Unassigned**: So you need a few more Two or three more We've got plenty for you Okay She's got
+
+- **[4:12:31 PM] Unassigned**: There's a box with a whole bunch of different electrolytes in them Just go in the kitchen Go in the kitchen where they yeah going to kitchen you see it a be out Open I lost you over there. It's all by the coffee pot and then you'll see a long cylinder where a rectangular bar sitting on the table. And then there's a whole bunch of packets and there's some packets I recognize. And there's some noons and different things like that which are still in this. Thank you. So you're grabbing that stuff first and we can come back
+
+- **[4:13:22 PM] Unassigned**: I'm going to bring my car The pillows since you're bringing them all up I'll bring pillows now bring your thing
+
+- **[4:13:40 PM] Unassigned**: I'm going to kill him. Ready? Just leave it open.
+
+- **[4:14:40 PM] Unassigned**: Yeah we can make a path that way. before Steve was petrol. I think I need my kind of one of you.
+
+- **[4:15:31 PM] Unassigned**: Baby for you? So I'm my boss to be behind this tree. Looking now looks like it's a little bit different. That's a flat you can see it it's a flat but it's a little bit sloped, but it's not as bad as I was thinking about it but it's been here a few days. We go up there we'll film this one. There's this one. But now it's home with bears a little further down but out that way. Do you like that one up here?
+
+- **[4:16:25 PM] Unassigned**: It's really easy Yeah that one. It's gonna cost to be here and here. Here you just have to move from probably 15 times back.
+
+- **[4:16:48 PM] Unassigned**: I'll get it out there. Right there down here from the leg that way. I mean,
+
+- **[4:18:00 PM] Unassigned**: but there's actually further up right behind it the big size is small for us.
+
+- **[4:18:30 PM] Unassigned**: Yeah well I know we have to get the poles in right that we keep. I mean every night but I'm not sure right now let's get this and it goes over there.
+
+- **[4:19:24 PM] Unassigned**: Yeah I think we can get him out if we don't worry about it. Just trying to find him in the center. To grab him. So there's a big one for this stuff. Just to bottom. Just flip it over.
+
+- **[4:19:54 PM] Unassigned**: There you go. Now the center is It's all up here. Oh it's hard on you.
+
+- **[4:20:15 PM] Unassigned**: You've got to get to the other one like this. It should be longer now. Okay for Jimmy's favor put your side down one side down you should have done. Okay oh and you know what I think this is the door I'm holding You have to grab the other one in the back so I can get this to be where you were.
+
+- **[4:21:22 PM] Unassigned**: Let go of that you know. Sweetie just grab that right there. You don't walk that way. It's a very strong get off that way. We can go that way. We can go right here. Go further away. Hey did you see this? It is that night.
+
+- **[4:22:33 PM] Unassigned**: That night. That was the night definitely. It's just the wind bothering you. It's just the wind bothering you.
+
+- **[4:22:46 PM] Unassigned**: This is how we have these things so this one is I this one has no color on it, This one has no color on it but it's either red one you see it's a main one you see that? to that middle that's the main one right there these two are so both of these okay so what's this this one
+
+- **[4:23:51 PM] Unassigned**: those two yours
+
+- **[4:23:57 PM] Unassigned**: lay it down for me
+
+- **[4:24:05 PM] Unassigned**: All right so now stand up on it yeah there it is all right so do me a favor I need that one alone it's kind of important this goes in that corner there,
+
+- **[4:24:35 PM] Unassigned**: Yes in the hole okay that one goes over there let go of that one. Okay you have to rebuild this. No don't worry about that put it back down please. You guys are going to come in this way. You can think that you just did before. Yeah here she is. I'm going to get that one that's a commuterium. Right here. Orn. Alright.
+
+- **[4:26:19 PM] Unassigned**: There you go. Alright. I'm going to get that one. You know? Yes. There we go. And it's in orange. You got it? Uh they're hidden close to the frame. They're going to look badly to win.
+
+- **[4:26:42 PM] Unassigned**: Do you want to join in here? Let's see here. One thing. I guess you guys can figure out how this goes in the center where it is. I guess we got how this goes in the center whether it's a clip or not so it is an external frame. We're not. I'm just getting that one there. You know do you do any favor and if you have the rest of the metal things and take them off to keep them up everything off to keep them down because we have the corners.
+
+- **[4:27:20 PM] Unassigned**: Yeah there you go. Those would be for the other parts of the frame. Thank you. All right so now then I have her just hold there. OK then I'm going to have her come here and grab the center for me. And we're going to pin it down. We're going to pin it down and then we could do the edges. And then we'll find in the nail. So come here come here. You know I want you to go in the middle go in the very middle here and go with that,
+
+- **[4:27:54 PM] Unassigned**: and you should see some black clips or I think you can even maybe even, those here and there oh I just I'm gonna block the bit over there, the door here is that right I think I found it and then what's happened is there's a little zipper thing here I'm the door is here you know that might let you go here It's just two dollars Yeah the front door to be by where Andrew is right now. I'm just trying to find there's a little thing right here that you unzip.
+
+- **[4:28:55 PM] Unassigned**: It's right here but you need to make sure oh, it's not worth not the pull it goes before you put it up so that's you need to be Hold on that's what I'm trying to figure Yeah so it looks like that This go is in the center here so we are rotated so sorry I do I'm just just there I really go for it now oh well go for it nice well since British take all the I have to send her right now in my hand we have to get this hole through here first and I can probably just do it manually let me see what you do right here.
+
+- **[4:29:59 PM] Unassigned**: Yeah the kids are in a bag on the floor somewhere but we're not there yet okay we're Yeah I think there's the green to the green background yeah yeah
+
+- **[4:30:53 PM] Unassigned**: I was worried this is a stuffy
+
+- **[4:30:59 PM] Unassigned**: I know I'm going over to the other side. Yep I'm going to the other side. I'm going to go over to the other side. Oh my. You see a mark there? I think that's where we're going to go. Okay yeah. We have to because we have to rotate it the whole thing
+
+- **[4:31:53 PM] Unassigned**: Yeah once we get them in there they are okay so oh no problem. They let go of that one thing. I'm going to try and rotate this and get that main piece. So they're right there. No no don't worry about the park door. They'll break this up there guys. So once you be given a quick break see? As you're starting over. It's easy for us to get the frame in you can just pull it out of the way yeah yeah, yeah so pull it out and just turn it like that center part again it's
+
+- **[4:32:41 PM] Unassigned**: White. Is it white? White yeah. You have to do this first and then it's basically the whole frame over and over. I'm going to do shots with the other end. I got it. It's challenging all of it I'm challenging with the tension and we're helping and he does range. I think that's why they're getting through this hole here. It's an ordinary line.
+
+- **[4:34:11 PM] Unassigned**: That's not going through either.
+
+- **[4:34:21 PM] Unassigned**: Is it not there? I sort of if it's pitched isn't it here? That's where I'm trying to get to the middle. Oh you got lots of it. I mean you see I'm trying to get that. That's a long length. Oh my God. I want to make sure
+
+- **[4:35:43 PM] Unassigned**: So it's in your fall in your sleeves you can make it in the main fall that's what I was trying to do. And as far as you want to ask is this a lot of fall? Is this a lot of fall right? Yes there's a lot of fall right? Yes there's a lot of fall right? Yes there's a lot of fall right? Yes there's a lot of fall right? Yes there's a lot of fall right? Yes there's a lot of fall right? Yes there's a lot of fall right?
+
+- **[4:36:04 PM] Unassigned**: Yes there's a lot of fall right? Yes there's a lot of fall right? Yes there's a lot of fall right? Yes there's a lot of fall right? Yes there's a lot of fall right? That's all right you're here helping us at the foot. You can't see it. Of course. But that doesn't seem like enough. See this piece here?
+
+- **[4:36:20 PM] Unassigned**: Is there another one of those that was
+
+- **[4:36:29 PM] Unassigned**: I think it's this here. This is it. Let's see right here. Yeah but I don't I think they're connected this one's connected to that one and this is connected You can't take them apart What about this angle Does it bend down like that? Yes and then this is the frame for the whole frame right here center frame. There's no way that's way too long for that to be seen. That's one thing that's what I'm looking at here Hey hold on just a second.
+
+- **[4:37:02 PM] Unassigned**: Just hold that down a bit. Just a little bit. Hold on hold on. Oh yeah it could be low.
+
+- **[4:37:16 PM] Unassigned**: There's this one here. Hold here. It's going to be the smaller diameter. I wonder if I had it right. You know what? I wonder if I had it right. look at where they go through here just like that we had it right all on so it's just that part of the white that you need maybe oh yeah that makes to it there so that's there's another pole something else or the other poles that will come up will be thinner and they'll go to maybe One move out there.
+
+- **[4:37:52 PM] Unassigned**: This is the case. What was it guys? I mean now we can do it. Oh no what I'm going to do is because we got this. We can now pull out the arm. The orange. And attach the legs. So go ahead. Can you keep this off? How about this?
+
+- **[4:38:08 PM] Unassigned**: Go up on your horn over there. And then we're just going to get it orange right there. So orange see it? There you go. I got this. I got this. I got this.
+
+- **[4:38:27 PM] Unassigned**: Don't get hit in the face. Alright I got you. Okay you got that one? I'm going to wait for it. Here's this one down here. Well that one's fine. Sorry. I'm trying this.
+
+- **[4:38:48 PM] Unassigned**: Go ahead and see if you can put it in the ground now try to hold it down. There you go. I think I'm going to grab the one in the can. Okay so I'm grabbing this one? I'm grabbing an orange? And I'm going to try and get it to you.
+
+- **[4:39:18 PM] Unassigned**: You got this on you? Oh yeah I can't get it. no problem. This is a difficult one to put together. It's a規see. I should have graded it and you picked it. You know it's probably trying to get it. That's it I'm almost tempted Okay. Sue me a favor Go ahead Mark. And see if you have some orange ones that fit to your legs.
+
+- **[4:39:51 PM] Unassigned**: I do Okay. I'm excited to do this one.
+
+- **[4:40:05 PM] Unassigned**: There you go.
+
+- **[4:40:10 PM] Unassigned**: I think there's just another one that goes across okay.
+
+- **[4:40:32 PM] Unassigned**: So now just to buy them loose ones and those are the Christ ones because I'll hold these. So that's something else? They come over and they come over across into these gray things.
+
+- **[4:41:08 PM] Unassigned**: Hold on there. I'm shooting houses in front of the house. No not that one
+
+- **[4:41:26 PM] Unassigned**: It goes in another direction hold on nightman keep I got a hole for it It's the gray in front to my side of the orange
+
+- **[4:41:44 PM] Unassigned**: and you can see that hole right there the first one right there it's going to go down there. There you go. You need to use here. Here. There you go. I need to get the boat down there. Okay so we're going to go
+
+- **[4:42:07 PM] Unassigned**: Now we've got and then release Now we've got one more and this seems to go into the post of them I'm just keeping that there's two Yeah I'm just gonna put them there Right now Like that Okay. Alright he's here he's gonna bring it over to you grab that put that in the brake
+
+- **[4:43:40 PM] Unassigned**: We are in the new walker. We got it. We got it. We got it all. Thanks.
+
+- **[4:44:33 PM] Unassigned**: Yeah there's a door way they come again. So we just need that down and look what we do is go back this out here and see. Man I'm not very sturdy in the tunnel. It does look like that. Got the other side. Let's go there up.
+
+- **[4:44:57 PM] Unassigned**: This is a very comfy over here guys. You want to heal it? I want that pad. Don't worry. We're just going to put our cots you'll see our cots go right here. So go ahead sweetie you can let go and go ahead and get in there and put our cots inside. We'll flatten it out and get it stretched out for you So mark your almost time. Yeah I see you did And we'll slide it over Let's wait a second please. Yeah I just wanted to weigh it down no people are going to go wrong. I put the other one in this corner you can see.
+
+- **[4:45:34 PM] Unassigned**: Oh it's over here I tricked you. You don't have to pull it all over the place. You're gonna have to put some stakes in. You have to put some stakes in huh?
+
+- **[4:45:58 PM] Unassigned**: what we'll figure that out in a second okay I'm trying to this is blowing the way still so you don't have this all the way in the corner but we can't let these blow away
+
+- **[4:46:28 PM] Unassigned**: Keep it. Fuck! Fuck!
+
+- **[4:46:37 PM] Unassigned**: You can get up here. Here. Alright that's where the next is at Short Pogo's here. yeah that's probably there's another one yet I want to make sure her needs well I'm gonna I'm trying to I don't want this to look any more, otherwise.
+
+- **[4:47:44 PM] Unassigned**: Where that boom goes where that boom goes.
+
+- **[4:48:02 PM] Unassigned**: Yeah I'll move it further out just like we need to change just to get it in. Got it. Got it. You have a lot of things? Tons. For every. I even have extra. I'm going to pull this out here. There you go. There you go.
+
+- **[4:48:35 PM] Unassigned**: There you go. There you go. There you go. Sorry. No problem. Put it in that one. Oh sorry. Got it. I'll show you guys down this hill.
+
+- **[4:49:02 PM] Unassigned**: Maybe too soft here huh? I might uh I might tie it to the tree. Yeah a bit rough here so
+
+- **[4:49:17 PM] Unassigned**: how do you do the man do you? Back there you can't hear anything. I'm taking care of myself. You're the guy. Right now. What's up? There he goes. Alright here's the basket.
+
+- **[4:50:16 PM] Unassigned**: but if you can move these and go yeah what
+
+- **[4:51:46 PM] Unassigned**: What Hey Mark. You know it's Mark and he's a few. Yeah I'm going to be one thing. Good. Well let me reallgay the top of the top. That's straightening. I know that's right. I think if you want. If you're finished then just post to the board. That's your mind now.
+
+- **[4:52:08 PM] Unassigned**: I know. I still like you up maybe. I'll have to do right here. Right now. We're going to bring our heavy shit up now. And we're going to I think we're going to do we're going to make a path around you so we've even used to privacy. Yeah let's get down. What was the race? Don't worry about the race. Don't worry about the race.
+
+- **[4:52:27 PM] Unassigned**: We're going to be we're going to be on the ground. Don't be like that. Hey Denmark. Do you need favor of starting the race? Can you clean up the rest camp? Would you leave it out so that we could access it and maybe clean up the rest of the spots? You know what we clean out our stuff out here but I'm going to rake it real quick so it looks more natural yeah I am chopping it so bad
+
+- **[4:53:03 PM] Unassigned**: I did emergency
+
+- **[4:53:13 PM] Unassigned**: Sorry
+
+- **[4:53:43 PM] Unassigned**: You're going to have to watch the stuff here take every time. I'm full with that one. That's great. I don't think we
+
+- **[4:54:25 PM] Unassigned**: I don't think we So that must have to do This is where you're going to dress. Oh don't worry about it. What I'm going to do is I'm going to put my foot right over this area. It shouldn't be easier than this. Because you can just go through here to the other side.
+
+- **[4:54:54 PM] Unassigned**: So this is our path.
+
+- **[4:55:24 PM] Unassigned**: I'm trying to do it. I'm trying to do it. I'm actually not doing too bad on this tire now. I'm trying to just keep in our bite. Oh I'm just thinking about the I'm not going anywhere. So alright so this came off once before I think Wild Bill tried to go up there he went to the saddle. Don't go to Laos! Don't go to Laos? Stay in Cambodia.
+
+- **[4:56:41 PM] Unassigned**: Do you remember the conversation do you? Stay in Vietnam. So I think that somebody will be able to try to go up there. I don't think he went far over because it's quite a waste. And I actually have a map on my phone that I can show you a picture of what it kind of looks like there. But I'll just say that if you go up there, there is another path that we used to use last year. If you go to the left does that see you can go between? Yeah I didn't even go up there.
+
+- **[4:57:15 PM] Unassigned**: Yeah between these two formations. That's really nice. Any kind of eagles right? Didn't you find them? Like an eagle's nest up there. I steer it at night actually. So that's there. So that's kind of an exploratory. Andrea Spot is that first set of rocks right there? Yeah definitely.
+
+- **[4:57:34 PM] Unassigned**: There's a nine there. There were nine went up there. You went behind there. And my spot when you get behind there, all the way up the hill I mean, Yeah that's where I went okay yeah I climbed all the way up to the top over there you did and the most incredible water the most beautiful walker there you take yeah it's great there's an easy way to get up there by the way that's another hand I can give it is I went I went this way and in between there there's another valley straight for those right if you go straight over there with those blocks heard yeah there's another valley over there and
+
+- **[4:58:14 PM] Unassigned**: actually the way I found my spot is I went to the valley went to the other end and said it suddenly drowned down and then I instead of coming straight back camp I followed the ridge and that's how I got up the top of the hill really easily but it's like you're already on you're just on the top of the whole You're not in the lead season
+
+- **[4:58:41 PM] Unassigned**: I think that one right here is the one that Pat and Mark went to but you want to talk to Mark I've been over there Okay not not I mean I went over to exploring Yeah okay so apparently that has a chapel there too I think like you're in an enclosed area and your spires and everything and then we've gone if you go up here to the road and turn left see that there's like a nose right there in a rock that looks like a face on it with a nose and a mouth okay that's where a second or other base camp was so that road goes out and then a few of us have gone out that road and there's like different cuddians in that that saddle that we were just talking about the Stephen and Lisa Stewart went through it comes out on that side I've been over there many times for Andrea I've been over there too Bring your stuff to the end of the road into the truck So you go into the road and you keep going and you get to that red rock Yeah
+
+- **[4:59:53 PM] Unassigned**: Yeah I mean it's possible you can go to the saddle and find something up in that area for sure. There's lots of great spots up there. I bet you there are. It's a lot farther than it looks though. It is That's what I was when cautioning you. Yeah because I know because it's just going up to the road end. It's just going up to those rocks. Oh I know That's when I started cutting across. That's going all the way over there That's a long way. But you know it's it's deceptive.
+
+- **[5:00:22 PM] Unassigned**: It's not a pure amount of wine but if you're a human, I mean you're really just looking for some place isolated and pretty that you can settle down for you know you're not going to be. I'm seeing myself going that way. So I just wonder. Where would you you would need to find somebody else.
+
+## 🎙️ Session 3: 2026-09-12 09:38:24 (2h22m)
+- **Source File**: `2026-09-12 09_38_24.mp3`
+
+- **[9:41:20 AM] Unassigned**: I'm going out for a hike huh? I was trying to tell you that but it seemed indetermined to go. Is it okay? No I don't think I saw my chair because it's a bit wet. Hide your breathing. I didn't want to go for a hike out there when we were going on an old adventure here. So I didn't want to go. I'm going to keep that open here. open here for a while okay And if you want to close it just push this button.
+
+- **[9:42:36 AM] Unassigned**: Yeah why not So what are they not? I just have to find some places when you sit anywhere and it's like okay I'm not sure. I'm tired of this now or can I change it to a different one or something longer instead of this? I actually like them a lot so I'm going to find more and I'm going to say hold on. You ready to use this now?
+
+- **[9:43:09 AM] Unassigned**: That's the first line.
+
+- **[9:43:39 AM] Unassigned**: You can turn turn turn turn turn turn turn turn turn turn turn turn turn turn turn turn turn turn turn turn turn turn turn turn turn turn
+
+- **[9:45:39 AM] Unassigned**: This is the first time I've ever seen this kind of thing in my life and I've never seen this kind of thing in my life and I've never seen this kind of thing in my
+
+- **[9:47:09 AM] Unassigned**: I'm going to turn it around for a little more. I'm going to turn it around for a little more. I'm going to turn it around for a little more. I'm going to turn it around for a little more. I'm going to turn it around for a little more. I'm going to turn it around for a little more. I'm going to turn it around for a little more. I'm going to turn it around for a little more. I'm going to turn it around for a little more. I'm going to turn it around for a little more.
+
+- **[9:47:29 AM] Unassigned**: I'm going to turn it around for a little more. I'm going to turn it around for a little more. I'm going to turn it around for a little more. I'm going to turn it around for a little more.
+
+- **[9:48:07 AM] Unassigned**: That's a big sugar fire. That's a very hard one. You have to have the fire. Where are you going? Up somewhere do you think you're in there? There we go. We're in there. There we go. There we go. There we go.
+
+- **[9:48:34 AM] Unassigned**: There we go. There we go. There we go. There we go. There we go. There we go. There we go. There we go. There we go. There we go.
+
+- **[9:48:44 AM] Unassigned**: There we go. There we go. There we go. There we go. There we go. There we go. There we go. There we go. There we go. There we go.
+
+- **[9:48:54 AM] Unassigned**: There we go. There we go.
+
+- **[9:50:26 AM] Unassigned**: I'm going to leave now I'm going to leave now I'm going to leave now I'm going to leave now I'm going to leave now I'm going to leave now I'm going to leave now
+
+- **[9:51:26 AM] Unassigned**: I'm sure I'll be able to do this for the next couple of days and I'm sure I'll be able
+
+- **[9:53:56 AM] Unassigned**: Oh granted. I was thinking man this is fucking somebody who approached me. Fire.
+
+- **[9:57:42 AM] Unassigned**: Take a few sugar. Take me on. Now the taste is
+
+- **[9:57:53 AM] Unassigned**: it might be.
+
+- **[9:58:03 AM] Unassigned**: I look forward to the next one. Next slide is this.
+
+- **[9:58:42 AM] Unassigned**: Oh man I think it's accessible to us yet because the man behind the original one here is yet. This is the closest one you know.
+
+- **[9:59:32 AM] Unassigned**: I have a little turn left but you can take the lead.
+
+- **[10:00:10 AM] Unassigned**: If you want to tap it straight on hello yeah. Bye bye officer. Bye bye out the hedge download. This is the first time I've ever seen this kind of thing in my life I've never seen it before I've never seen it before I've never seen it before I've never seen it before I've never seen it before,
+
+- **[10:01:49 AM] Unassigned**: Yeah this is that fire that went all the way through the south part of a small river. Oh man. Seven feet in the fire.
+
+- **[10:02:21 AM] Unassigned**: Now we're going to go on the plateau. Yeah there's someone going to go on this side here. Here's the plateau.
+
+- **[10:05:21 AM] Unassigned**: This is the first time I've ever been to a place like this in my life that I've never seen before. I've never seen a place like this in my life that I've never seen before. I've never seen a place like this in my life that I've never seen before. I've never seen a place like this in my life that I've never seen before. I've never seen a place like this in my life that I've never seen before.
+
+- **[10:07:16 AM] Unassigned**: This way is 4 miles yeah. Just 24 miles now. How's that? How's that? How's that fine? How's that? How's that fine? What you gonna do?
+
+- **[10:08:28 AM] Unassigned**: We're going to be in the middle of the road we're going to be in the middle of the road we're going to be in the Yeah it's also
+
+- **[10:09:08 AM] Unassigned**: Oh it's not here it's not the back of the vehicle. It's there it's there. It's there it's there. It's there it's there. It's there it's there. It's there it's there. It's there it's there. It's there it's there. It's there it's there. I'm sorry I didn't mean to do that I'm just in the post I do the work I'm just in the wild I'm just in the wild I'm just in the wild I'm just in the wild I'm just in the wild I'm just in the wild I'm just
+
+- **[10:09:56 AM] Unassigned**: This is my seat my seat my seat my seat my seat my seat my seat my seat my seat my seat my seat my seat my seat my seat my seat my seat my seat, You're a man you're a man you're a man you're a man you're a man you're a man you're a man you're a man you're a man you're a man you're a I'm going to have to wait wait wait wait wait wait wait wait wait wait wait wait wait wait wait wait wait wait wait wait wait wait wait wait wait I'm going to take a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little Oh no. Where? Right up there which is the most beautiful. Oh really? That's fine. Yeah I'm fine I could make the merger bind.
+
+- **[10:12:28 AM] Unassigned**: What did that mean? What did that mean? What did that mean? What did that mean? What did that mean? What did that mean? I remember that. We drove to What did that mean? Yeah that was all I'm not as young as I used to be
+
+- **[10:13:16 AM] Unassigned**: There's not before I head of it it's only like five miles ahead of it. Yeah I can hear it. Yeah we're coming up.
+
+- **[10:13:49 AM] Unassigned**: This track is killer.
+
+- **[10:14:09 AM] Unassigned**: Oh I had a heart attack over here.
+
+- **[10:15:36 AM] Unassigned**: I love seeing the Bellード on our entire life. It sounds like coming home.
+
+- **[10:16:10 AM] Unassigned**: You need to keep moving.
+
+- **[10:16:36 AM] Unassigned**: We're walking! We're walking.
+
+- **[10:17:06 AM] Unassigned**: fuchsia fuchsia fuchsia
+
+- **[10:18:51 AM] Unassigned**: I'm so glad that I was able to see it I'm so glad that I was able to see it I'm so glad that I was able to see it I'm so glad that I was There's a lot of water there's a lot of water there's a lot of water there's a lot of water there's a lot of water there's a lot of water there's a lot of water Hello Carson. It's very little. How low? How low can you go?
+
+- **[10:20:07 AM] Unassigned**: Hello can you go?
+
+- **[10:20:15 AM] Unassigned**: Look at all their faces. First time faces. I'm stuck at the counter I'm stuck at the counter I'm stuck at the counter I'm stuck at the counter I'm stuck at the counter I'm stuck at the counter Here we hit the big 10. We're going to the upper 10 and the upper 10. Other than that how are we going to go? We're going to go to the upper 10. We're going to go to the upper 10. We're going to go to the upper 10. We're going to go to the upper 10.
+
+- **[10:21:03 AM] Unassigned**: We're going to go to the upper 10. We're going to go to the upper 10. We're going to go to the upper 10. We're going to go to the upper 10. We're going to go to the upper 10. We're going to go to the upper 10. We're going to go to the upper 10. We're going to go to the upper 10. We're going to go to the upper 10. We're going to go to the upper 10.
+
+- **[10:21:14 AM] Unassigned**: We're going to go to the upper 10. There is a lake so it is still 8.9. Thank you everyone!
+
+- **[10:21:51 AM] Unassigned**: Don't wait so long on this.
+
+- **[10:22:03 AM] Unassigned**: Yeah my specific drawing how do you like it? Don't let me pick on. Ooh look! I love you I love you. Think he can really get out of it.
+
+- **[10:22:45 AM] Unassigned**: Okay well.
+
+- **[10:23:03 AM] Unassigned**: He keeps falling so loud there. We can't change the level. We can't change the level. We can't change the level.
+
+- **[10:23:16 AM] Unassigned**: You have? Yep in my future world. Definitely going to happen soon.
+
+- **[10:24:05 AM] Unassigned**: We just need to get out of there and then we go out. We might not be here. We just need to get out of there. We just need to get out of there. We just need to get out of there. We just need to get out of there. We just need to get out of there. We just need to get out of there. We just need to get out of there. We just need to get out of there.
+
+- **[10:24:27 AM] Unassigned**: We just need to get out of there. We just need to get out of there. We just need to get out of there. Because this is the democraft purge is divided here really wrong just a lot of progress there because there was also a lot of serious democrafts like thousands. I'm going to get some of it I'm going to get some of it I'm going to get some of it I'm going to get some of it I'm going to get some of
+
+- **[10:26:00 AM] Unassigned**: I'm going to start the fire I'm going to start the fire I'm going to start the fire I'm going to start the fire I'm going to start the fire I'm going to start the fire I'm 10 to go. I'm 10 to go. I'm 10 to go. I'm 10 to go. I'm 10 to go. I'm 10 to go. I'm 10 to go. I'm 10 to go. I'm 10 to go.
+
+- **[10:26:39 AM] Unassigned**: I'm 10 to go. I'm 10 to go. I'm 10 to go. I'm 10 to go. I'm 10 to go. I'm 10 to go. I'm 10 to go. I'm 10 to go. I'm 10 to go. I'm 10 to go.
+
+- **[10:26:49 AM] Unassigned**: I'm 10 to go. I'm 10 to go. I'm 10 to go. I'm 10 to go. I'm 10 to go. I'm 10 to go. I'm 10 to go. I'm 10 to go. Where does the Drake ship emerge? Does it appear parker?
+
+- **[10:27:15 AM] Unassigned**: Infected parker?"
+
+- **[10:27:49 AM] Unassigned**: I'm going to go over there but I'm going to go over there. I'm going to go over there. I'm going to go over there. I'm going to go over there. I'm going to go over there. I'm going to go over there. I'm going to go over there. I'm going to go over there. I'm going to go over there. I'm going to go over there.
+
+- **[10:28:09 AM] Unassigned**: I'm going to go over there. I'm going to go over there. I'm going to go over there. I'm going to go over there. I'm going to go over there. That's right that's right that's right that's right that's right that's right that's right that's right that's right that's right that's right that's right that's right I'm going to go to the other side. I'm going to go to the other side. I'm going to go to the other side. I'm going to go to the other side.
+
+- **[10:28:56 AM] Unassigned**: I'm going to go to the other side. I'm going to go to the other side. I'm going to go to the other side. I'm going to go to the other side. I'm going to go to the other side. I'm going to go to the other side. I'm going to go to the other side. I'm going to go to the other side. I'm going to go to the other side. I'm going to go to the other side.
+
+- **[10:29:40 AM] Unassigned**: I stopped drilling right behind greatest academic lightly, and I looked up to him, We're going to the left please. You have to go to the right. Go to the right. Go to the right. Go to the right. Go to the right. Go to the right. Go to the right.
+
+- **[10:30:09 AM] Unassigned**: Go to the right. Go to the right. Go to the right. Go to the right. Go to the right. Go to the right. Go to the right. Go to the right. Go to the left. Go to the left.
+
+- **[10:30:19 AM] Unassigned**: Go to the right. Go to the right. Go to the right. Go to the right. Go to the right. Go to the right. Go to the right. Go to the right. Go to the right.
+
+- **[10:30:58 AM] Unassigned**: thing drop. Let's do that.
+
+- **[10:31:51 AM] Unassigned**: I like it I like it I like it I like it I like it I like it I like it I like it I like it I like it I like it I like it
+
+- **[10:33:21 AM] Unassigned**: Hey penny It's like a few little towns.
+
+- **[10:33:52 AM] Unassigned**: That was it.
+
+- **[10:33:59 AM] Unassigned**: I'm not going to go free.
+
+- **[10:34:08 AM] Unassigned**: And you're out of town. There's the air of the alley and that is a little pretty coming out here as well. Not as bad as on the way up huh? If you have to come through. And the right side. And fold it out so you don't squeeze it but If you have to do this side you have to side.
+
+- **[10:35:12 AM] Unassigned**: Because as long as I'm okay now, it kind of starts going on this end of the day. It's a problem.
+
+- **[10:35:36 AM] Unassigned**: You want to have a beautiful view of the sea? You want to have a beautiful view of the sea? You want to have a beautiful view of the sea? You want to have a beautiful view of the sea? You want to have a beautiful view of the sea? You want to have a beautiful view of the sea? You want to have a beautiful view of the sea? You want to have a beautiful view of the sea? You want to have a beautiful view of the sea? You want to have a beautiful view of the sea?
+
+- **[10:35:56 AM] Unassigned**: You want to have a beautiful view of the sea? You want to have a beautiful view of the sea? You want to have a beautiful view of the sea? I'm going to get my blinds back. All right all right all right all right all right all right.
+
+- **[10:36:59 AM] Unassigned**: There's some people down here you hear them? Yeah that's what it looks like.
+
+- **[10:37:24 AM] Unassigned**: Now they're being bothered.
+
+- **[10:37:40 AM] Unassigned**: history. No idea what that was about to happen wing fire it was just a release from second How cold is the water? can hear me They're doing some kind of surveys Quality water quality is something.
+
+- **[10:38:54 AM] Unassigned**: You did.
+
+- **[10:39:07 AM] Unassigned**: 学 &学 Buddhism
+
+- **[10:39:30 AM] Unassigned**: You're funny
+
+- **[10:40:01 AM] Unassigned**: No fishing from the bridge. No fishing from the bridge. I'm not a thinking one.
+
+- **[10:40:45 AM] Unassigned**: Can I see it?
+
+- **[10:41:12 AM] Unassigned**: I'm sure that I don't understand why I'm thinking about that.
+
+- **[10:41:26 AM] Unassigned**: Exit the parking lot It's just going to do this here.
+
+- **[10:41:42 AM] Unassigned**: Gamer focal Okay you're welcome other day aren't you? Yeah they might be. Might be. Because they need a car out of somewhere. Let's say one.
+
+- **[10:42:33 AM] Unassigned**: Yeah I wouldn't have a windy day here. Wind of earth great class of earth grass-dwelling earth.
+
+- **[10:42:52 AM] Unassigned**: I think we must out on the weather other than the wind, because the day is the end of the day.
+
+- **[10:43:01 AM] Unassigned**: It looks all like it's mild not high. Oh these Americans flag. I helped you with the shaders! I will tell you what was the reason!
+
+- **[10:45:21 AM] Unassigned**: So we gotta remember when Joe comes back Joe has to come to our house to find us a pet I don't do a lot. I just want to remember for more we have the objective being able to do it at that time. I want to have that stuff
+
+- **[10:46:03 AM] Unassigned**: at that time. I want to have that stuff at that time. We don't have that much to go in there so it's good to put it in the leaves as far as it's as good. This is good. This is after our cover. This is really not that much we got in there.
+
+- **[10:46:39 AM] Unassigned**: Water things in there.
+
+- **[10:46:48 AM] Unassigned**: Not that much. That's not much. Not much. Yeah I think I'm going to get this one out. I'm on the wrong road. I think I'm going to get this one out of the way.
+
+- **[10:47:19 AM] Unassigned**: Nice.
+
+- **[10:47:27 AM] Unassigned**: I'm going to go back to the So I was thinking about that Now this is the god Thank you very much for having me
+
+- **[10:49:28 AM] Unassigned**: How do you get this far? We're here we're here we're here we're here we're here we're here we're here we're here we're here we're here we're here we're here we're here we're here The bottom of the valley.
+
+- **[10:51:18 AM] Unassigned**: This is where we get that big old turn up I remember right beautiful looking up and I think I remember it.
+
+- **[10:53:29 AM] Unassigned**: I know I got you I'm playing with you when I did that. You got me down Okay. No you're going no down further if you have to browse. And they go to the dam there and they go down there and they go down there and they go down there and they go down there and they go down there and they go down there This is the first time I've ever seen this kind of thing in my life. I've never seen this kind of thing in my life. I've never seen this kind of thing in my life. I've never seen this kind of thing in my life.
+
+- **[10:55:17 AM] Unassigned**: All the way down down down down down down down down down down down down down down down down down down down down down down down down down, You're behind us you're back down there.
+
+- **[10:57:44 AM] Unassigned**: Yeah I think this is a good good good good good good good good good good good good good good good good good good good good good good good good, Behind the back side is the back out of the nose not through the back of the nose.
+
+- **[10:58:30 AM] Unassigned**: I'm not going to And what you want to do You do every one You want to let's have some fun One two one two one two one two one two one two one two one two one two one two one two one two one two one two one two one two one two
+
+- **[10:59:18 AM] Unassigned**: in a different town Where's you all gone? In the west zone Where's your mapping through the south coast of Roosevelt located on New India And there's teams on the Sabit We've Makes a lovely pot. otsgold
+
+- **[10:59:51 AM] Unassigned**: can't drive What do you use to brush away? A brush brush. Oh I just use my whiskers to use. What's the function what's the function what's the function what's the function what's the function what's the function what's the function what's the yeah Look at that there's a lot of those. And it gets longer with it. And it gets longer with it. And it gets longer with it.
+
+- **[11:01:20 AM] Unassigned**: And it gets longer with it. And it gets longer with it. And it gets longer with it. And it gets longer with it. And it gets longer with it. And it gets longer with it. And it gets longer with it. And it gets longer with it. And it gets longer with it. I'm so sorry I'm so sorry I'm so sorry I'm so sorry I'm so sorry I'm so sorry I'm so sorry I'm so sorry I'm so sorry I'm so sorry I'm so
+
+- **[11:02:08 AM] Unassigned**: I know there's one there I know it's going to be talked about it's a weird lock for me because at one point in a way it's just a big serve back.
+
+- **[11:03:27 AM] Unassigned**: Do it with everyone. Do it with everyone. Do it with everyone. Do it with everyone. Do it with everyone. Do it with everyone. Do it with everyone. Do it with everyone. Do it with everyone. Do it with everyone.
+
+- **[11:03:47 AM] Unassigned**: Do it with everyone. Do it with everyone. Do it with everyone. Do it with everyone. You know what you want to do what you want to do what you want to do what you want to do what you want to do what you want to do what you want to do
+
+- **[11:07:13 AM] Unassigned**: I hope they don't hurt.
+
+- **[11:07:43 AM] Unassigned**: I love these socks and they have more than three of them. Yes because the nails break which it does. You don't need to do that you don't need to do that you don't need to do that you don't need to do that you don't need to do that you don't need to do that
+
+- **[11:09:27 AM] Unassigned**: I hand it straight one.
+
+- **[11:10:57 AM] Unassigned**: So far I've only done this right. There's a spare out. I'm out of the blue blue blue blue blue blue blue blue blue blue blue blue blue blue blue blue blue blue blue blue blue blue blue blue blue,
+
+- **[11:11:54 AM] Unassigned**: figure I'm back I just need to get the gel on my body. It's down down down down down down down down down down down down down down down down down down down down down down down down down down The baby feel good. 5. 4. 5. 5.
+
+- **[11:13:22 AM] Unassigned**: 5. 5. 5. 5. 5. 5. 6. 5. 5. 6.
+
+- **[11:14:42 AM] Unassigned**: This is Fred's time to fly he's rolling but let's see how about him.
+
+- **[11:16:05 AM] Unassigned**: We just got your sign your section just went through we've got the arms data, We're on 3.95 now. Ha ha ha.
+
+- **[11:16:47 AM] Unassigned**: 40 minutes for further bar.
+
+- **[11:18:28 AM] Unassigned**: I'm going to have to go back to the other side to see if I can go back to the other side to see if I can go back to the other side to see if I can go back to the other side
+
+- **[11:19:28 AM] Unassigned**: This is the first time I've ever seen this kind of thing in my life I've never seen this kind of thing in my life I've never seen this kind of thing in my life I've never seen this kind of thing in my life I've I have this message for all of you all of you all of you all of you all of you all of you all of you all of you all of you all of you all of you all of you all of
+
+- **[11:21:57 AM] Unassigned**: They just cut out a little bit it's like that it's hard it's hard it's hard it's hard it's hard it's hard it's hard it's hard it's hard it's hard it's hard it's hard it's hard it's hard, I know you can be very confident with it. It's like this is a long shot. I think the work was.
+
+- **[11:23:25 AM] Unassigned**: I'm going to do it again I'm going to do it again I'm going to do it again I'm going to do it again I'm going to do it again I'm going to do it again
+
+- **[11:25:55 AM] Unassigned**: We're going to go straight to the road our monster but we're going to go straight to the road.
+
+- **[11:28:52 AM] Unassigned**: I'm going to do the light here. The light here. The light here. The light here. The light here. The light here. The light here. The light here. The light here. The light here.
+
+- **[11:29:12 AM] Unassigned**: The light here. The light here. The light here.
+
+- **[11:31:46 AM] Unassigned**: How about three? You know that three?
+
+- **[11:34:13 AM] Unassigned**: I'm going to go up there I'm going to go up there I'm going to go up there I'm going to go up there I'm going to go up there I'm going to go up there
+
+- **[11:38:11 AM] Unassigned**: We'll tap around there on the edges of everybody's hands and then we'll turn it around and then we'll tap around and then we'll tap around and then we'll tap around and then we'll tap around and then we'll tap
+
+- **[11:40:11 AM] Unassigned**: This is the first time I've ever done this before so I'm going to try to make sure that I don't have to worry too much about it. This is the first time I've ever done this before so I'm going to try to make sure that I don't have to worry too much about it.
+
+- **[11:41:31 AM] Unassigned**: I'm going to have a little bit of air just a little bit of air and just a little bit of air and just a little bit of air and just a little bit of air and just a little bit of air and just a There you can go in and go in. I was like a dreamer. I was like a dreamer. I was like a dreamer. I'm going to cut them out a little free.
+
+- **[11:44:03 AM] Unassigned**: This is the first time I've ever seen this kind of thing in my life, but I've never seen it before. I've never seen it before but I've never seen it before, but I've never seen it before, but I've never seen it before, Here they are. Good good good.
+
+- **[11:45:48 AM] Unassigned**: So it's good water. I'll be where you want to go I'm good.
+
+- **[11:47:14 AM] Unassigned**: One of our books with some info i'll give you. I'm going to go to the other side of the road I'm going to the other side of the road I'm going to the other side of the road I'm going to the other side of the road I
+
+- **[11:48:38 AM] Unassigned**: I think the gas in the air is all that low but it's a lot of rain fog you know, You don't know what you're going to do you don't know what you're going to do. And I'll show you what you're going to do. You're going to do what you're going to do. I'll show you what you're going to do. I'll show you what you're going to do. I'll show you what you're going to do. I'll show you what you're going to do. I'll show you what you're going to do. I'll show you what you're going to do.
+
+- **[11:49:13 AM] Unassigned**: I'll show you what you're going to do. I'll show you what you're going to do. I'll show you what you're going to do. I'll show you what you're going to do. I'll show you what you're going to do. I'll show you what you're going to do. I'll show you what you're going to do. I'm not sure if I'm fine I'm not sure if I'm fine I'm not sure if I'm fine I'm not sure if I'm fine I'm not sure if I'm Which I like so much. Oh what you doing?
+
+- **[11:50:30 AM] Unassigned**: That's the one for that.
+
+- **[11:51:14 AM] Unassigned**: If it will take longer to five hours out. The next step is to go back to the other side of the head and go back to the other side of the head and go back to the other side of the head and go back to the other side of the over and over and over and over and over and over and over and over and over and over and over and over and over and over and over and over and over and over We both love. We love each other. We love each other. We love each other. We love each other. We love each other. We love each other.
+
+- **[11:52:40 AM] Unassigned**: We love each other. We love each other. We love each other. We love each other. We love each other. We love each other. We love each other. You know you know you know you know you know you know you know you know you know you know you know you know you know you
+
+- **[11:55:18 AM] Unassigned**: Drugs are also
+
+- **[11:55:25 AM] Unassigned**: One minute for a soul. Okay six seconds.
+
+- **[11:56:48 AM] Unassigned**: I'm going to have to do this one I'm going to have to do this one I'm going to have to do this one I'm going to have to do this one I'm going You're a master you're a master you're a master you're a master you're a master you're a master you're a master you're a master you're a
+
+- **[11:59:06 AM] Unassigned**: Do you have two eyes and four eyes for you? I'll do it. I'll do it. I'll do it. I'll do it. I'll do it. I'll do it. I'll do it. I'll do it. I'll do it.
+
+- **[11:59:21 AM] Unassigned**: I'll do it. I'll do it. I'll do it. I'll do it. I'll do it. I'll do it. I'll do it. I'll do it. I'll do it. I'll do it.
+
+- **[11:59:31 AM] Unassigned**: I'll do it. I'll do it. I'll do it.
+
+## 🎙️ Session 4: 2026-09-12 05:07:03 (4h31m)
+- **Source File**: `2026-09-12 05_07_03.mp3`
+- **Audio ID**: `of_931a9611b672ee7259d92f988459321b`
+
+- **[00:00 - End] (Speaker / Group)**: (Audio captured; quiet ambient background / no distinct dialogue detected)
+
+---

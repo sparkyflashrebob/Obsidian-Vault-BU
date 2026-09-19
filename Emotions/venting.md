@@ -65,3 +65,7 @@ _An earlier version of this article was published in April 2024._
 copy stored here
 "F:\Obsidian Master Vault\Flashrebob Obsidian\Documents\PDF\Psychology\1-s2.0-S0272735824000357-main.pdf"
 
+### Notes on the Catharsis Myth
+- **Freud's Catharsis Theory ("Let it all out")**: Psychological science has proven this is a myth. Venting anger aggressively does not reduce hostility; it rehearses and amplifies it.
+- *"Venting anger is like using gasoline to put out a fire."*
+- **Neuroplasticity**: What you practice grows stronger ("The thoughts you water are the ones that grow"). Venting deepens the neural grooves of rage and raises blood pressure.

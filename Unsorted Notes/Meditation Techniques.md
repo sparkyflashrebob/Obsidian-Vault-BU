@@ -21,3 +21,8 @@ Concentration (samādhi): This is another factor of awakening.
 Equanimity (upekkhā): The final factor of awakening, equanimity is a balanced stillness of mind that can accommodate whatever naturally arises. The Buddha called the seven factors the "anti-hindrances" because he believed that practicing them would counteract the "Five Hindrances" that keep people stuck in delusion and incline the mind toward 
 
 [[Jhana features]]
+
+### Point vs. Whole Body Breath Awareness
+- **Point Focus**: Focusing on the breath as it passes a specific spot (e.g. upper lip, tip of the nose). Emphasized in Goenka (Ānāpāna) and classic concentration/visuddhimagga approaches.
+- **Whole Breath Awareness**: Experiencing the whole body of the breath, long and short, in and out throughout the torso. Emphasized in the *Satipaṭṭhāna Sutta* and Thai Forest tradition.
+- *Insight*: Both techniques offer distinct benefits; point focus sharpens one-pointed samādhi, while whole-breath awareness balances energy and relaxes physical tension.

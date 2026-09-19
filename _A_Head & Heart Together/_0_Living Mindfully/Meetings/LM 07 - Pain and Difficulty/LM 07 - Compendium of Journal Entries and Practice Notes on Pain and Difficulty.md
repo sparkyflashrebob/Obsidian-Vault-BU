@@ -104,6 +104,6 @@ It serves as the core reference repository for **Living Mindfully Meeting LM 07:
 
 ## 🔗 Related Notes & References
 - [[LM 07- Rough Notes on Pain and Difficulty]]
-- [[_ 20260821 Theme Compilation_ Start]]
+- [[Comprehensive Book Theme Compilation Report]]
 - [[The Crux of the Practice with Difficulties - RAM 240225]]
 - [[- Sakkāyadiddhi, Ego, and Identity - Synthesis of Dharma Discussions & Reflections]]

@@ -45,3 +45,10 @@ The text of this page ("Uposatha Observance Days", by Access to Insight) is lice
 
 How to cite this document (a suggested style): "Uposatha Observance Days", edited by Access to Insight. Access to Insight (Legacy Edition), 30 November 2013, http://www.accesstoinsight.org/ptf/dhamma/sila/uposatha.html .
 Help | Site map | About | Contact | Terms of use
+
+### Major Buddhist Holidays & Observance Festivals
+
+* **Māgha Pūjā (usually February)**: Commemorates the spontaneous gathering of 1,250 enlightened arahants before the Buddha, where he delivered the *Ovāda-pātimokkha* (the fundamental ethical summary of the Dhamma).
+* **Visākha Pūjā / Vesak (usually May - 'Buddha Day')**: Commemorates three central milestones in the Buddha's life: his birth, supreme enlightenment, and final parinibbāna under the sal trees.
+* **Asāḷha Pūjā (usually July - 'Dhamma Day')**: Commemorates the Buddha's first sermon, the *Dhammacakkappavattana Sutta* (Setting in Motion the Wheel of the Dhamma) to the five ascetics, and the founding of the Sangha. Marks the beginning of the Vassa rains retreat.
+* **Pavāraṇā Day (usually October)**: The conclusion of the Vassa retreat, where monastics invite feedback and reconciliation from one another.

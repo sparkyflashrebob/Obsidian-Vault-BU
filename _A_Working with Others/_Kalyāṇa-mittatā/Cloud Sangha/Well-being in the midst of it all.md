@@ -34,7 +34,7 @@ still-point that is always there
 revolutionary thing
 not become so involved that is happening
 
-[[5 spiritual powers]]
+[[5 Spiritual Powers]]
 - faith/confidence
 - entergy
 - mindfulness

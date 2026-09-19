@@ -2,6 +2,8 @@
 tags: []
 ---
 
+> **Parent Folder & Main Guide**: [[7 Factors of Awakening]] | [[7 Factors of Enlightenment]]
+
 Mindfulness
 How we are attentive to the Present
 - Not Forgetting (not wobbling or drifting off)

@@ -20,3 +20,32 @@ This evaluation of seven awakening factors is one of the "Seven Sets" of "Awaken
 The Pali word _bojjhanga_ is a compound of _[bodhi](https://en.wikipedia.org/wiki/Bodhi "Bodhi")_ ("awakening," "enlightenment") and _anga_ ("factor").[[3]](https://en.wikipedia.org/wiki/Seven_Factors_of_Awakening#cite_note-3)
 
 ![[7 Factors of Awakening 1.png]]
+
+---
+
+### Additional Contemplation & Citations
+> *"1) mindfulness, 2) investigation-of-dharmas, 3) energy, 4) joy, 5) tranquillity, 6) concentration, 7) equanimity."*  
+> — **Bhikkhu Anālayo**, *Compassion and Emptiness in Early Buddhist Meditation*
+
+
+---
+
+## Related Notes & Core Study Guides
+
+- **Core Factor Definitions**: [[7 Factors of Enlightenment]]
+- **Cultivation & Means**: [[The Means to Awaken]]
+- **Practice & Specific Aspects**: [[Seven Factors of Awakening]]
+- **Gil Fronsdal Teaching Notes**: [[7 factors of awakening Gil Fronsdhal]]
+- **Mindfulness of Dharmas Studies**:
+  - [[7 Factors of Awakening - Enlightenment]]
+  - [[7 Factors of Awakening - GenAI search result]]
+  - [[3 Defects of A Listener]]
+- **Marin Mindful Recovery (MMR) Application Series**:
+  - [[MMR No 37 The Seven Factors of Awakening]]
+  - [[MMR No 38 The Factors of Awakening II - Investigation]]
+  - [[MMR No 39 Seven Factors - Mindfulness]]
+  - [[MMR No 40 Factors of Awakening - Viriya]]
+  - [[MMR No 41 Seven Factors of Awakening - Piti - Rapture]]
+  - [[MMR No 42 Factors of Awakening - Passaddi]]
+  - [[MMR No 43 Factors of Awakening - Samadhi]]
+  - [[MMR No 44 Factors of Awakening - Equanimity]]

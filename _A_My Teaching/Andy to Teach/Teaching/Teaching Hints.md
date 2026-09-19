@@ -1,3 +1,6 @@
 - You tell them what you're going to tell them, you tell them, and then you tell them what you told them."
 - Short 15 min.
 - In any conversation during which the temperature has started to rise, wait 10 seconds before you respond.
+
+- Vygotsky noted that good teachers shouldn't present material that is too difficult and "pull the students along."
+- The teacher's job is to move the student's mind forward step-by-step (Zone of Proximal Development).

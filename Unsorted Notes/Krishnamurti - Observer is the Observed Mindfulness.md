@@ -19,3 +19,8 @@ However, it's important to note:
  * Mindfulness is often presented as a technique or skill to be cultivated. Krishnamurti, on the other hand, was wary of techniques and methods. He believed that true understanding arises through direct inquiry and self-observation.
  * The ultimate goal of mindfulness, for many, is to reduce stress and improve well-being. Krishnamurti's focus was on freedom from suffering altogether, which he believed could only be achieved by understanding the root causes of suffering.
 Despite these nuances, mindfulness practices can be valuable tools for exploring the ideas presented by Krishnamurti.
+
+### J. Krishnamurti & Quantum Perspectives
+- *The Observer is the Observed*: If you believe the division is real, you experience conflict. The act of division prevents direct perception.
+- Thinking affects what we observe; we cannot completely separate the witness from the experience.
+- Resonance with quantum theory (quantum potential, nonlocality, participatory observer).

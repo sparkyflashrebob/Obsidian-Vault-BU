@@ -41,4 +41,9 @@ Dukkha
 	pointing to the ultimate release from [[_A_My Research/_Buddhism/_Dharma Subjects and Themes/Four Noble Truths 1/1st Noble Truth/dukkha]] 
 		what lies beyond the sphere of transience and mortality.
 		in [[nibbana]] 
-			the unconditioned state free from birth, decay and death 
+			the unconditioned state free from birth, decay and death
+
+---
+
+### Key Points on Craving & Clinging
+* Types of craving and clinging: stop creating; attachment to 5 khandhas.

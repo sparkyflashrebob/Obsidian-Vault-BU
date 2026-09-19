@@ -140,5 +140,13 @@ Sources and related content[](/faq#citation)
 
 [https://en.wikipedia.org/wiki/Dharma#:~:text=of%20all%20life.-,This%20includes%20duties%2C%20rights%2C%20laws%2C%20conduct%2C%20virtues%20and,to%20%22expand%20the%20mind%22.
 
+---
 
+### Canonical Sutta: Crossing the Flood (SN 1.1)
+> [Deva:] *"How, dear sir, did you cross the flood?"*  
+> [Buddha:] *"By not halting, friend, and by not straining I crossed the flood."*  
+> [Deva:] *"But how is it, dear sir, that by not halting and by not straining you crossed the flood?"*  
+> [Buddha:] *"When I came to a standstill, friend, then I sank; but when I struggled, then I got swept away. It is in this way, friend, that by not halting and by not straining I crossed the flood."*  
+> — **SN 1.1 (Oghataraṇa Sutta)**
 
+*Note: The floods (*ogha*) in the Dhamma represent the fourfold āsavas: sensuality (*kāma*), becoming (*bhava*), views (*diṭṭhi*), and ignorance (*avijjā*).*

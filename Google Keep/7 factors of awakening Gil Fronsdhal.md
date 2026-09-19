@@ -2,6 +2,8 @@
 tags: []
 ---
 
+> **Parent Folder & Main Guide**: [[7 Factors of Awakening]] | [[7 Factors of Enlightenment]]
+
 Light bulb unwrap the tape brighter
 Still forest pond leave it alone  the mind settle clarity arises
 Taking a pack off
