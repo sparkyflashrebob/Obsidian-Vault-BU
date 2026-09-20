@@ -21,7 +21,7 @@ tags:
 🎙️ **Primary Data Source**: **Bee Secondary Backup Ambient Recordings** (Plaud Files Pending Sync)
 📊 **Plaud Sessions Processed (PRIMARY)**: **0**
 📊 **Bee Sessions Processed (SECONDARY BACKUP)**: **8**
-🔄 **Report Revision Date**: **2026-09-19 05:40:10 PDT**
+🔄 **Report Revision Date**: **2026-09-19 08:45:18 PDT**
 ### ⚙️ Pipeline Status & Data Ingestion Log
 - ⚡ **Plaud Direct Ingest**: ✅ **Active** (0 Cloud Minutes Spent, 0 Phone Taps Needed)
 - 🎙️ **Local Whisper AI Transcripts**: ✅ **Active**
@@ -49,6 +49,16 @@ tags:
 - Account `XXXXX2492`: **$254,365.62** | Settled Cash: $26,033.85 (09/18/2026 3:51 AM)
 - Account `XXXXX1490`: **$10,838.25** | Settled Cash: $10,043.40 (09/18/2026 3:48 AM)
 - Account `XXXXX1128`: **$3,708.49** | Settled Cash: $3,708.49 (09/18/2026 5:10 AM)
+### 🏃 Physical Activity & Health (Google Health)
+> *Aggregated from Google Health, Samsung Health & Connected Partner Apps.*
+- **Weekly Summary (Sep 6 - Sep 12)**:
+- 👟 **Total Steps**: **41,761** steps (Avg: **5,966** steps/day | Best Day: **10,962**)
+- 📍 **Total Distance**: **0.50** miles
+- 🔥 **Calories**: **1,863** avg. kcal/day
+- **Month Total (September Summary)**:
+- 👟 **Total Steps**: **41,761** steps (Daily Avg: **5,966** steps/day)
+- 📍 **Total Distance**: **0.50** miles (Daily Avg: **0.07** mi/day)
+- 🔥 **Calories**: **1,863** avg. kcal/day
 ### ✉️ Outgoing Sent Emails & Correspondence
 - *No outgoing sent email replies or correspondence recorded today.*
 ---
@@ -164,4 +174,4 @@ Dialogue recorded: I have some too. That's a bruise. I don't have a shoulder
 ### News & Current Events
 - *No specific news media recorded today.*
 ---
-*Report automatically generated on 2026-09-19 05:40:46*
+*Report automatically generated on 2026-09-19 08:45:56*
