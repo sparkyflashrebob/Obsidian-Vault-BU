@@ -1,7 +1,7 @@
 # Plaud Daily Transcript - Saturday, September 19, 2026
 - **Date**: 2026-09-19
 - **Total Audio Sessions Processed**: 3
-- **Generated**: 2026-09-20 05:48:35
+- **Generated**: 2026-09-20 09:44:00 PDT
 
 ---
 
@@ -9,8 +9,13 @@
 - **Source File**: `2026-09-19 16_56_03.mp3`
 - **Audio ID**: `of_89e9c32e32d478a595511fd847bb84f3`
 
-- **[00:00 - End] (Speaker / Group)**: - **[4:56:03 PM] Unassigned**: Thank you. Our home our family everything. Oh I didn't ask you what happened. How did Ryan end up like that? Apparently Jane was tired and I had to go with her. And she was so frantic. She couldn't deal with it anymore. Yeah he says he shares 46 days but her mental health isn't right. So he took the bus he had a horrible time. Thank God the Kira Kira gave her money to get on the bus.
-- **[4:56:48 PM] Unassigned**: She took partial train partial bus her suitcases were falling apart. She was in overnight It was hell for her and then that probably traumatized her even worse You heard me what I was talking to her about yeah So that's what's going on with their I told her to ignore Katie and Julia's advice or recommendations because they think she should be Put in an insane asylum and whatever they won't let her seek a free which is bullshit and and yeah they want Ryan to get better but they won't let us see her kid which is hell so anyway that's where it's at he's gone he's got watch you know we'll see I have to see Slow for a minute Yeah. I was going to date with her.
+### 🗣️ Discussion: Daughter Ryan's Situation (Andy & Andrea)
+- **[4:56:03 PM] Andrea**: Our home, our family, everything. Oh, I didn't ask you what happened. How did Ryan end up like that?
+- **[4:56:15 PM] Andy**: Apparently Jane was tired and had to let her go. She was so frantic, she couldn't deal with it anymore. Yeah, she says she's 46 days sober, but her mental health isn't right. So she took the bus, she had a horrible time. Thank God Kira gave her money to get on the bus.
+- **[4:56:48 PM] Andy**: She took partial train, partial bus, her suitcases were falling apart. She was overnight, it was hell for her and then that probably traumatized her even worse. You heard what I was talking to her about, yeah. So that's what's going on with her. I told her to ignore Katie and Julia's advice or recommendations because they think she should be put in an insane asylum and whatever. They won't let her see Capri, which is bullshit, and yeah they want Ryan to get better but they won't let her see her kid, which is hell. So anyway that's where it's at. She's got support, you know, we'll see.
+- **[4:57:45 PM] Andrea / Andy**: I want to see Slow Horses for a minute. Yeah.
+
+### 📺 TV Show: "Slow Horses" (Season 6, Episode 1) - Media Viewing (Apple TV+)
 - **[4:58:03 PM] Unassigned**: The next on the list is a fascinator pop here as well.
 - **[4:58:39 PM] Unassigned**: going on here You've been close out of it you've been hunt-tracked you've been provoked you've been hunt-tracked I'm in the middle of moving up I'll have to tell you your first steps you won't forget the little people.
 - **[4:59:09 PM] Unassigned**: Oh my God. The staff has to deal with grieving soon because if it was one thing I learned in security services just that when someone comes for you with no time to think so muscle I don't remember it was easier.
@@ -41,9 +46,8 @@
 - **[5:11:46 PM] Unassigned**: That's a good idea.
 - **[5:11:56 PM] Unassigned**: That's a good idea.
 - **[5:12:06 PM] Unassigned**: That's a good idea. What is that? You mean why from the park system? We don't even do that. But now you've been bruised you can get on a sorted. But where are you going? Well I've lost my idea I'm not being fired.
-- **[5:12:23 PM] Unassigned**: Oh and the points aren't right. We'll have to get down to the day why? Don't you think it's a tacky increase in horizons? What's your name? My name? My name? My name? My name? My name? My name?
-- **[5:12:44 PM] Unassigned**: My name? My name? My name? My name? My name? My name? My name? My name? My name? My name?
-- **[5:12:54 PM] Unassigned**: My name? My name? My name? My name? and the funds by disillusioned in the house, college law or achieving. These people will be your friends. Two prostitutes will have tax rates of the name. Mother sending registered funds now that you're all gone. I would tell them when you've been using it.
+- **[5:12:23 PM] Unassigned**: Oh and the points aren't right. We'll have to get down to the day why? Don't you think it's a tacky increase in horizons? What's your name?
+- **[5:12:54 PM] Unassigned**: and the funds by disillusioned in the house, college law or achieving. These people will be your friends. Two prostitutes will have tax rates of the name. Mother sending registered funds now that you're all gone. I would tell them when you've been using it.
 - **[5:13:13 PM] Unassigned**: No I don't need to buy out on the house. Unless you want to do this. If you want to go home, sign up here I'll always on your side. Well why is that? I think it's complete. If I do hope you'll be told this you're welcome. Ah not too lazy I had a game to play. That doesn't really offer my question. The room is a mental point not a mental thing.
 - **[5:13:36 PM] Unassigned**: Good morning. I don't want to interrupt your story, I just want to take your opportunity to welcome you to part myself. Diana may I introduce your meal? I'm sorry it's like it's had in the morning. You'll get a late. I think it's at four. It's been at that door.
 - **[5:13:59 PM] Unassigned**: It's my old friend although I am surprised you've got security you know. Chancellor see our first step in order to be teaching their children, glory and wild horses wouldn't keep me away. And I have to be wise. You went to ground them up to be well. You should find the time for me. I love the valence it's not coming off so it's damn late. Oh sorry that's something we can see. Having a couple ways to go.
@@ -70,8 +74,7 @@
 - **[5:24:54 PM] Unassigned**: but it can't be thrown to one.
 - **[5:25:02 PM] Unassigned**: Say that now close the door yeah. I'm sorry. No I'm going to open it One hand is What is that proof? It's not proof. But it affects the question. Why didn't you strong-law it? And what you just did? Woodblock.
 - **[5:25:35 PM] Unassigned**: We're just combing on the whole thing. Now you're always going to drive self-tilted but in case there's more to it I need to check out the other exiled horses. Just see if we got anything to worry about. They do.
-- **[5:27:19 PM] Unassigned**: I'm going to have to go to the bathroom to see if there's anything I can do to make sure I don't have to go to the bathroom. I'm going to have to go to the bathroom to see if there's anything I can do to make sure I don't have to go to the bathroom. I'm going to have to go to the bathroom to see if there's anything I can do to make sure I don't have to go to the bathroom. I'm going to have to go to the bathroom to see if there's anything I can do to make sure I don't have to go to the bathroom. I'm going to have to go to the bathroom to see if there's anything I can do to make sure I don't have to go to the bathroom. Uh oh. yeah. Give me. Give me. Grinups.
-- **[5:28:04 PM] Unassigned**: You choose. It's a fuck called the town river. River. Oh shit there was next.
+- **[5:27:44 PM] Unassigned**: Uh oh. yeah. Give me. Give me. Grinups. You choose. It's a fuck called the town river. River. Oh shit there was next.
 - **[5:28:42 PM] Unassigned**: Come over. Should be a bitch.
 - **[5:30:13 PM] Unassigned**: Never stop feeling like that.
 - **[5:30:22 PM] Unassigned**: I won't miss it. But I'll try. But I saw this here.
@@ -97,20 +100,15 @@
 - **[5:44:04 PM] Unassigned**: And circle of life stuff. Hey I'll respect for the day. I'm not gonna let you fucking head off eating our weeb. I'm not gonna let you go. I'm not gonna rip your fucking head off even though I really really want you to So I'm gonna ask you again
 - **[5:44:25 PM] Unassigned**: What are you doing here? Business What do you mean? With who? With what You've lost your whole team No with who is none of your business? That's from my team There's no setback that can't be the first one Oh shit My mother didn't show
 - **[5:44:46 PM] Unassigned**: I guess it's been a pretty bad day Oh fuck That's right that's right that's right that's right that's right that's right that's right That's the end of this episode one so we don't know what's happening yet.
-- **[5:45:58 PM] Unassigned**: Clean up. Everybody has to do their part. Clean up. We got too many tacos and pieces of chicken. Clean up. Uh-oh. Uh-oh.
-- **[5:46:12 PM] Unassigned**: Uh-oh. Uh-oh we're pulling our aras clean up now.
-- **[5:46:28 PM] Unassigned**: This isn't too unhealthy.
-- **[5:46:35 PM] Unassigned**: I got the brosal sprouts in the tacos because the taco is actually very healthy I think. What That's a natural order of things as you know especially when it's good good That's right. I'm going to have to put it in a little while and think about it. I had another one today. It did. It did. I'm going to have pretty regular one now. I've got to go in a jar. And a jar.
-- **[5:47:10 PM] Unassigned**: And a jar. Okay I just got to go into the jar. In the jar. Look at you! Sniffing my face! You can go down next skinny Looking! We got you! Myth-dovers in your fridge!
-- **[5:47:48 PM] Unassigned**: Sniffing my face! You can go down next skinny the fridge I threw out the old one oh yeah.
-- **[5:48:21 PM] Unassigned**: Sylvia! Calm down I'll take that Excuse me
-- **[5:49:16 PM] Unassigned**: I'm going to use a little bit of water to make sure I don't get too much water so I'm going to use a little bit of water to make sure I don't get too much water. water water water water water water water water water water water water, I need to leave some more weight. Definitely need to lose more weight so I get some of this fat off my chest. Oh my God oh my God oh my God oh my God oh my God oh my God oh my God,
-- **[5:51:29 PM] Unassigned**: This is the first time I've ever had this kind of thing in my life I've never had this kind of thing in my life I've
-- **[5:52:29 PM] Unassigned**: You would not believe what they're talking about with cash for sale right now. There were two requirements for FBI people to be hired. They included to not be hired they included Beastiality and some kind of other Sexual oh prostitution or beastiality We're removed From the rules So now you can at practice be in that he says the reason why it was taken off is because they didn't want to to injure people who were coerced into prostitution or bestiality I know Yes that's crazy.
-- **[5:53:57 PM] Unassigned**: Anyway welcome back to the fun house are you doing with this light?
-- **[5:54:20 PM] Unassigned**: Yes That is a real feature They want to sell us ads I'm sure of it. I gotta get that. Why does that keep opening? how many of you? How many? A three or one. Three or four. Now I'm using the lavender these dress creams on my hands and face that feels really good.
-- **[5:55:28 PM] Unassigned**: You have one that doesn't in your costume it's in the pump pump big white bottle with the lavender. I use it all the time. I do it's almost empty I've got another one it's what I use for my ashiness. I'm gonna get another one yeah I like it
-- **[5:56:15 PM] Unassigned**: oh she pulls out the grand champion here I see oh look I've got my fountain drain here No Yeah Now there's a few of them. I've always been like the perfect yeah as I've I have been.
+
+### 🌮 Dinner & Cleanup Conversation (Andy & Andrea)
+- **[5:45:58 PM] Andy & Andrea**: Clean up. Everybody has to do their part. Clean up. We got tacos and pieces of chicken.
+- **[5:46:28 PM] Andy**: This isn't too unhealthy. I got the Brussels sprouts in the tacos because the tacos are actually very healthy, I think.
+- **[5:47:10 PM] Andy**: Look at you! Sniffing my face! Sylvia, calm down, I'll take that.
+- **[5:52:29 PM] Andy**: You would not believe what they're talking about right now. There were two requirements for FBI people to be hired—to not be hired they included beastiality and prostitution, which were removed from the rules because they didn't want to injure people who were coerced.
+- **[5:54:20 PM] Andy & Andrea**: Now I'm using the lavender distress creams on my hands and face, that feels really good. In the pump, big white bottle with the lavender. I use it all the time for my ashiness.
+
+### 📺 TV Show: "Dark Matter" (Season 1/2) - Media Viewing (Apple TV+)
 - **[5:56:57 PM] Unassigned**: Strolling in this is me. You have a thing for understanding universe. The answer is that the atom in superposition means that the atom is both alive and it is dead. Can I join the school tonight? How much? No more! Who the fuck are you?
 - **[5:57:28 PM] Unassigned**: I need to go home. Jason! What the fuck? I live here with you. Where the fuck are you my wife? You don't have a wife! And what is the person that abducted me is me. He created a large version of my box, that could have an actual human being in superposition. How did he use the box to get to this world?
 - **[5:57:54 PM] Unassigned**: We need you to come with me right now. Come get me out of here. Amanda I'm not. What is it? Do you think your world is behind all these doors? The theory.
@@ -135,8 +133,8 @@
 - **[6:07:53 PM] Unassigned**: this is how they get their role sweet They buy them That's the way the business is nowadays Well it's the only way they can get jobs with all the competition from all the other people The movie studios would want to pay you the cheapest ones as possible these guys get more money.
 - **[6:09:11 PM] Unassigned**: I gotta go in early these guys are rushing to get the house to ride it. But how will I have my coffee?
 - **[6:09:26 PM] Unassigned**: I have to know if something really is. You're not sure if I can eat.
-- **[6:09:41 PM] Unassigned**: I'm going to have to go back to my room to see if there's anything I can do to make sure I don't have to go back to my room to see if there's anything I can do to make sure I don So I want to do the half of the work today. Well the office is closed so that I might get started on the roof. I got permission to do the other day. What do we do this weekend? We said that the month is too late. And it was raining and I like it. Please don't go climbing up there. Okay I'll let you go home where I am and I don't have to. I could probably do that.
-- **[6:10:53 PM] Unassigned**: How about your cock? Safe word. Spatience. Let's see if I can do it. I'm going over there.
+- **[6:10:11 PM] Unassigned**: So I want to do the half of the work today. Well the office is closed so that I might get started on the roof. I got permission to do the other day. What do we do this weekend? We said that the month is too late. And it was raining and I like it. Please don't go climbing up there. Okay I'll let you go home where I am and I don't have to. I could probably do that. How about your cock?
+- **[6:10:57 PM] Unassigned**: Safe word. Spatience. Let's see if I can do it. I'm going over there.
 - **[6:11:21 PM] Unassigned**: Good now.
 - **[6:12:02 PM] Unassigned**: Oh she can need that axe huh?
 - **[6:12:31 PM] Unassigned**: What the roof is not safe at all? You're not hungry. You must be hungry.
@@ -213,66 +211,20 @@
 - **[6:51:57 PM] Unassigned**: Oh that can. Just now that place. It's not the park a square with the art is that the other place was sort of no it's not. I'm just saying come to my day just once to the different world. Stop it. Just uh Think I've been in this for a while.
 - **[6:52:47 PM] Unassigned**: It's not gonna work.
 - **[6:53:00 PM] Unassigned**: or he left her But that's not the same place because it can't be the same.
-- **[6:53:30 PM] Unassigned**: Thank you woo-woo. My feet are cold. You're- oh my gosh. No it's going on. I'm not sure yet. Stargate SG-1. Oh yeah like Stargate. It's all over the place. Power Rangers. No it's just- this is all the- it's in- somebody-
-- **[6:53:58 PM] Unassigned**: Sharkanado. Oh there it is there's the one that picked up her tent. Sharkanado that's nato.
-- **[6:54:14 PM] Unassigned**: Oh man.
-- **[6:54:21 PM] Unassigned**: Reincorporation.
-- **[6:54:45 PM] Unassigned**: gosh sweetie hey it's dark I can go in there and sleep! 5 minutes of the system is pre-attached pole pre-attached That's one of those pop-up things. Like Alisa. It's like Lilisa has a bet. 4% 10. It's one queen air bed. 4 foot 8 inches tall. Four foot eight inches tall Oh that's for any standard person can stand in that one. No I still have to be like this for a little bit. Watch a 90% of sunlight reduces heat and tech.
-- **[6:55:35 PM] Unassigned**: Ha ha ha ha. Oh well what have been called? That almost looks like her aliases remember the door and then as she didn't have the fly over it though. Extend pre-attached poles and insert into front pocket put ten body to pole start the top clothes the tattooing part of the brow pole, sleeve facing from the top. Look at that person standing there. It's Lordfoot A person. It's a short little person.
-- **[6:56:15 PM] Unassigned**: Ha ha ha. Well I'm curious. I know you're curious. You keep talking about that darn thing. I haven't been approaching you yet, but I haven't opened these yet. Okay well maybe what we'll do sweetie pie, is maybe we'll take into the park and we'll open both the tent up so we can look from our mouth thing.
-- **[6:56:35 PM] Unassigned**: Yeah that's a good idea. Yeah no end day. Yeah thank you for that.
-- **[6:57:05 PM] Unassigned**: I'm going to do it now. We need to throw it over. They can't stand to stand. We need to throw it over to the potential. Do you think we're going to pass your office on a question? I think we're going to throw it there. We're going to throw it over to the potential. I think we're going to throw it over to the potential.
-- **[6:57:24 PM] Unassigned**: I think we're going to throw it over to the potential.
-- **[6:58:30 PM] Unassigned**: yeah
-- **[7:00:00 PM] Unassigned**: I think that's what you want to say James, trying to do as much as you could for one experiment. It took it too far down on the clock. It took the clock too far. Sometimes you see the coach use the time out and that's what you want to do.
-- **[7:00:20 PM] Unassigned**: That's what you want to do. That's the duty of one block for the duty of one block for the duty of one block for the duty of one block for the duty
-- **[7:00:59 PM] Unassigned**: We've got some contact what is that spot that you are going down? The heartbeat of this mission is basically making use of what you have been doing while the number of threats might be on this monitor. There might be some areas to be down too. You can turn back now.
-- **[7:03:52 PM] Unassigned**: I don't want any of this I don't want any of this I don't want any of this And now that's what you're going to have to hold for the stage and get on with work on the kind of foot-to-feel that you're going to have to feel at all times. The last number name is Etienne. We're testing well. I'm at one of these on. It's about the same size as the other eight times to the 32-year-old one. During the conversation, it seems that we can have this and the island should have
-- **[7:04:54 PM] Unassigned**: checked out where it's from for you.
-- **[7:05:00 PM] Unassigned**: It seems never for you or it seems not for us. It's not for us. It's for us. I would like to thank you very much for your support and I thank you very much for your support and I thank you very much for your support I don't have to be a mom to be a mom to be a mom to be a mom I'll be taking my family and come at all there is to ask you
-- **[7:06:07 PM] Unassigned**: I'll be the first guy to take you to the side of these and make sure you don't spray it. So I'm going to have you guys talk more, and then I'm going to be going to talk to you guys and then I'm going to talk to you guys
-- **[7:06:58 PM] Unassigned**: So we're going to try to talk about the one that we're going to talk about. So we're going to talk about the one that we're going to talk about.
-- **[7:07:43 PM] Unassigned**: 4 5 2 3 4 3 4 3 4 3 4 3 4 3 4 3 4 3 4 3 4 3 4 3 4 3 4 3 4 3 4 3 I think you're going to have to watch this for a little bit more before you go to the event so I think you'll need not even having to watch this for a little bit more. And this is what I like about 3 years accuracy. Most of the time the HIP procedures ensured and allowed them to add knowledge after the test because of the accuracy. That was due of the fact that accuracy might be just fine. There's a 2J bar and one of these works must be on each and one of these and we're being able to show it. It is fine for me to be able to show it. There's a load of them in and out here. So I was up there and we didn't send it to my humble resource.
-- **[7:09:05 PM] Unassigned**: So let's go back and pick up what we've got to do. We have to get this. This time if there's life in this field, but it's not turn around all the time. But he has trust in form. That's just what he doesn't trust. And a lot of the answers are very close to the end of the package. And that is really well done. I think you could be a force to be like a force just to add to what they're teaching for
-- **[7:10:01 PM] Unassigned**: That's all I saw in question. Rather I was freaking aware of this all-way that they saw. I didn't have to tell you exactly what they said. They didn't have to tell. That's all I saw in question. Rather I was freaking aware of this all-way that they saw. I didn't have to tell you exactly what they saw.
-- **[7:10:28 PM] Unassigned**: That's all I saw in question. I saw a DJ call in the puddle of the sideline where it walked out before the signal came off the field. Yes now for example there's no one that knows how to find the dollars. I meant to go down to the wide and narrow white block floor back. How was it before the door that leads the back? As CJ called what did it put a touch down? You close it and you want it and then close it.
-- **[7:14:53 PM] Unassigned**: I think that we're going to go back to that. There's nothing else that you can think of.
-- **[7:15:05 PM] Unassigned**: There's nothing else that you can think of.
-- **[7:15:43 PM] Unassigned**: I'm going to go to the left go to the left go to the left go to the left go to the left
-- **[7:16:39 PM] Unassigned**: This is the first time I've ever seen this kind of thing in my life that I've never seen before. I've never seen this kind of thing in my life that I've never seen before.
-- **[7:18:33 PM] Unassigned**: I think it's really good to go over this one. I can go over this one. I think it's really good to go over this one. I can go over this one. I think it's really good to go over this one.
-- **[7:18:53 PM] Unassigned**: I think it's really good to go over this one. I can't sit down for a minute I'm not in that room I don't need to do this much I just need to take this out for a minute I want to sit down for a You know I know you're moving moving moving moving moving moving moving moving moving,
-- **[7:20:59 PM] Unassigned**: I'm going to move on.
-- **[7:21:19 PM] Unassigned**: I'm going to move on. I'm fine fine fine fine fine fine fine fine fine fine fine fine fine
-- **[7:23:41 PM] Unassigned**: I'm going to go to the other side of the building.
-- **[7:24:01 PM] Unassigned**: I'm going to go to the other side of the building. I don't want you to let me down I don't want you to let me down I don't The person you're trying to reach isn't available.
-- **[7:26:06 PM] Unassigned**: I'm going to go to the other side of the house.
-- **[7:26:26 PM] Unassigned**: I'm going to go to the other side of the house. So what's your choice? How do you think it's going to be? If you want to talk about what's your choice, it's going to be pretty interesting. If you want to talk about it, it's going to be quite interesting.
-- **[7:26:46 PM] Unassigned**: What's your choice?
-- **[7:29:01 PM] Unassigned**: I'm going to go to the other side of the house.
-- **[7:29:21 PM] Unassigned**: I'm going to go to the other side of the house. I'm going to go to the other side.
-- **[7:32:09 PM] Unassigned**: I'm going to go to the hospital to see if there's anything I can do to help you if there's anything No it's no it's no it's no it's no it's no it's no it's no it So I'm going to move on to one of the things that I'm going to do a lot of times. I've got two things that I'm going to do a lot of times. So I would like to thank you all for joining us today.
-- **[7:33:37 PM] Unassigned**: Thank you all for joining us today. I think it's a lot of fun. It's a good thing to have a lot of work to do.
-- **[7:33:56 PM] Unassigned**: It's a good thing to have a lot of work to do.
-- **[7:34:19 PM] Unassigned**: I'm going to go to the other side of the slide.
-- **[7:34:30 PM] Unassigned**: I'm going to go to the other side of the slide.
-- **[7:35:34 PM] Unassigned**: So we're going to do this.
-- **[7:35:44 PM] Unassigned**: We're going to do this.
-- **[7:35:54 PM] Unassigned**: We're going to do this.
-- **[7:36:28 PM] Unassigned**: So this is why there's a lot of things that you can do to make sure that there's a lot of things that you I'm going to go to the other side to see if there's anything I can do to make sure I don't have to go to the other side to see if there's anything I can do to see if So we use one of the tools that we use to make sure that you're not using that tool too much. And then you start with one kind of tool. And then you start with one kind of tool that you use to make sure that you're not using that tool. And then you start with the tool that you use to make sure that you're not using that tool.
-- **[7:37:56 PM] Unassigned**: I don't need to know if you can ask me if I can ask you if I can ask you if I can ask you if I can ask you if I
-- **[7:39:26 PM] Unassigned**: Thank you very much for your time Thank you very much. ,
-- **[7:40:52 PM] Unassigned**: a little bit more,
-- **[7:47:36 PM] Unassigned**: just a little bit more,
-- **[7:48:34 PM] Unassigned**: um
-- **[7:51:30 PM] Unassigned**: flag footer early It's lit early.
-- **[7:52:03 PM] Unassigned**: That's really good.
-- **[7:52:10 PM] Unassigned**: Oh boy.
-- **[7:53:11 PM] Unassigned**: uh
-- **[7:54:19 PM] Unassigned**: It's timing.
-- **[7:55:27 PM] Unassigned**: to use down. He's down.
-- **[7:58:59 PM] Unassigned**: I'm going to get you a little bit more.
-- **[7:59:55 PM] Unassigned**: I'm going to put it in the fridge and put it in the fridge and put it in water water water water water water water water water water water water, So uh watching slow horses, opening for season six then dark matter season two episode one watched it watched the Cal game earlier and now I'm watching the dolphins in the Raiders from last week and I'll probably catch up on some things tomorrow, Shopping Raider Game and planning on seeing Ryan on Monday. Alright.
+
+### ⛺ Camping Pop-Up Tent & Football (Andy & Andrea)
+- **[6:53:30 PM] Andy & Andrea**: That's one of those pop-up tents, like Alisa's. Lilisa has a bed in it. 4-person tent, holds one queen air bed, 4 foot 8 inches tall.
+- **[6:55:35 PM] Andy**: Extend pre-attached poles and insert into front pocket... Look at that person standing there. A short little person.
+- **[6:56:15 PM] Andrea**: Ha ha, well I'm curious.
+- **[6:56:20 PM] Andy**: I know you're curious, you keep talking about that darn thing! Maybe what we'll do sweetie pie, is maybe we'll take it to the park and we'll open both tents up so we can look at them.
+- **[6:56:35 PM] Andrea**: Yeah, that's a good idea! Thank you for that.
+- **[7:00:00 PM] Andy**: Watching football—coach using the timeout, trying to do as much as you could for one experiment.
+
+### 🗣️ Personal Evening Reflection & Day Recap (Andy McGuire)
+- **[8:00:25 PM] Andy (Personal Voice Journal & Day Recap)**: So, watching Slow Horses, opening for season six, then Dark Matter season two episode one. Watched the Cal game earlier, and now I'm watching the Dolphins and the Raiders from last week. I'll probably catch up on some things tomorrow—shopping, Raider game, and planning on seeing Ryan on Monday. Alright.
+
+> [!NOTE] Neighbor Interaction Cross-Reference
+> Later this evening at 9:38 PM (captured on Bee wearable conversation `10608863.md`), neighbor Sunny returned from a riverboat cruise, asked Andy about her keys, and Andy joked with her about selling her her packages.
 
 ---
 
@@ -280,209 +232,47 @@
 - **Source File**: `2026-09-19 11_56_02.mp3`
 - **Audio ID**: `of_1fb7bd8321db632eef9b4facb16cc910`
 
-- **[00:00 - End] (Speaker / Group)**: - **[11:56:02 AM] Unassigned**: Air everything that they can help you with you do it. Job school mental health crisis is whatever it is. Counseling don't listen to Katie and Julia. They're going to drive her crazy. They're so hard on her. They're preventing her from seeing Capri which might be helpful for Capri. There's me helpful for Ryan Such fucking bullshit yeah and they won't letter You know they're treating her like a scourge in my book I like a child Yeah.
-- **[11:57:02 AM] Unassigned**: the same thing to her that they did to me and Duncan This is why my relationship with Duncan is the way it is Part of it I have my own part in it.
-- **[11:57:32 AM] Unassigned**: I'm going to put it in the middle of the pot and put it in Oh man got me a little hype now talking to Ryan. I'm going to beat Fox Rocker and I'm going to rock it to the beat!
-- **[11:59:17 AM] Unassigned**: I didn't even got to that yet I didn't even get to that. This is the first time I've ever been to a place like this where I've never seen a place like
-- **[12:01:36 PM] Unassigned**: I mean I'm going to email this place and give my donation.
-- **[12:06:34 PM] Unassigned**: just a little bit more, just a little bit more, just a little bit more, just a little bit more, just a little bit more,
-- **[12:06:54 PM] Unassigned**: just a little bit more, just a little bit more,
-- **[12:08:24 PM] Unassigned**: I'm going to put it in here and I'm going to put it in here and I'm going
-- **[12:12:50 PM] Unassigned**: I'm going to go to the other side of the house and I'm going to the other side of the house and I'm going to the other side of the house
-- **[12:18:57 PM] Unassigned**: a little bit of this, a little bit of this, a little bit of this, a little bit of this, a little bit of this,
-- **[12:19:17 PM] Unassigned**: a little bit of this, a little bit of this
-- **[12:24:39 PM] Unassigned**: This is the first time I've ever seen this kind of thing in my life I've never seen it before I've never seen it before I've never seen it before I've never
-- **[12:26:05 PM] Unassigned**: yeah
-- **[12:27:31 PM] Unassigned**: I'm going to do a little bit of the same thing on the other side as the other side as the other side as the other side as the other Hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey
-- **[12:30:01 PM] Unassigned**: She says you're dying. She says she's dying. Yes that is not the case. You can see some out of these doctors though they just are convinced it's like the only way. But you said they hadn't given her any treatment options so hopefully they will do that. And she can extend her life and maybe prove them on. But I said it was so important you probably heard what I said. I heard. So I'm hard to get your mind right. Yeah regardless.
-- **[12:30:58 PM] Unassigned**: Get your mind right. Yeah everybody dies. I said do you want to live? Do you have the will to live? Yes I want to live. I can't help her. Sometimes do that out of fear. I want to live because I'm afraid of dying. I heard you say that everybody dies. I said you know if it were me I wouldn't want to die.
-- **[12:31:26 PM] Unassigned**: I would want to keep my mind open for loving loving people and living lives. That's the most important thing I think because the body is going to give out regardless. You just can't I don't want to die. That's causing hell for her. But I think she heard what I said and I just kept affirming my support and calming me into pod or some energy work or something you know but I'm glad I called it. Yeah that's good. Yeah she said she was panicking the reason she called me so many times I think she felt
-- **[12:32:13 PM] Unassigned**: panic and she was scared. Just like when you're in the ocean and you're going to fray you're going to die and a lifeboat comes and you grasp the lifeboat the person coming to save you comes and you just He's around the person saving you.
-- **[12:32:42 PM] Unassigned**: Be careful you know.
-- **[12:41:30 PM] Unassigned**: Oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh,
-- **[12:47:33 PM] Unassigned**: Oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh
-- **[12:48:31 PM] Unassigned**: I'm going to do a little bit of the same thing with the other side of the other side of the other side of the other side of the other
-- **[12:54:07 PM] Unassigned**: It's rough. It's roughing.
-- **[1:00:35 PM] Unassigned**: This is the first time I've ever seen this kind of thing in my life I've never seen it before I've never seen it before I've never seen it before I've never
-- **[1:04:05 PM] Unassigned**: Am I missing anything?
-- **[1:07:19 PM] Unassigned**: I'm going to put it in the middle of the pot and put it in
-- **[1:08:43 PM] Unassigned**: I'm going to do a little bit of the same thing on the other side as the other side as the other side as the other side as the other uh
-- **[1:10:13 PM] Unassigned**: I'm going to have to go back to my room I'm going to have to go
-- **[1:11:39 PM] Unassigned**: I'm going to have to go back to the other side to see if there's anything else I'm going to do.
-- **[1:12:30 PM] Unassigned**: No right there.
-- **[1:26:17 PM] Unassigned**: Slow horses we got a lot of TV and I said we would go and do the Game of Thrones and lanterns paying at some point. So maybe we just delay with dark matter and slow horses a little bit and then we exhaust that and go over. So delay, came of thrones and lanterns. Cause we're paying for Apple. Yeah it was something good. So we have one. There should be four Doc Manor and one slow horses.
-- **[1:27:14 PM] Unassigned**: So we'll finish that tomorrow. Thank you. Are you there or God or something tonight? We could do a little bit further to put maybe later on. I wonder if I should tell you much is Chipotle? Uh they're like 25 each by the time you get all the special stuff. You want me to go to Whole Foods and pick something there or They have the same thing out in the buffet but we could pick up like I wanted to experiment with that.
-- **[1:27:58 PM] Unassigned**: Well we wait for that for tomorrow. Experimenting? Let me just think about that. Um okay. Dream something else. I kind of like the idea. I kind of like God. The idea of God. Like her.
-- **[1:28:19 PM] Unassigned**: I like her standard fare. I do like her. Watching Cal. They're up 30 to nothing in the first quarter. Cal or the other team? Cal was up. But they're playing a FPS too which is a division under everything's not perfect but they're really nothing.
-- **[1:28:54 PM] Unassigned**: Motorola has one that you can use it to put the app on your phone or you can put they They have the standard radios a base station they have and it doesn't rely on I mean, it's good. I mean it looks awesome and I just found some other radios here that are cellular no no cost And they work I mean they're great because I'm just researching some of the things alternative to Zello some of the weaknesses of Zello So anyway so I'm going to look at a couple of them Maybe we could try them a couple Heavy duty commercial use the Zello. I mean not the Zello but the Motorola. But I'm gonna look at for Voxer and Slide Talk. So what they do is that you can create your own Wi-Fi.
-- **[1:30:05 PM] Unassigned**: So you could just we could use our regular phones and it creates a Wi-Fi in your area. I know. It might be helpful. I'm just looking at it because I'm watching the game.
-- **[1:30:50 PM] Unassigned**: This is the first time I've ever been to a place like this where I've never seen a place like this before No internet.
-- **[1:36:18 PM] Unassigned**: This is the first time I've ever seen this kind of thing in my life and I've never seen this kind of thing in my
-- **[1:42:25 PM] Unassigned**: I'm going to put it in the middle of my mouth and put it in I'm going to put this in the fridge for a little bit and I'm going to put this in the fridge for a little bit.
-- **[1:43:51 PM] Unassigned**: I'm not sure if I'm going to be able to do it but I'm not sure if I'm going to be able to do it,
-- **[1:48:17 PM] Unassigned**: I'm going to do a little bit of the same thing on the other side of the other side of the other side of the other side of the other
-- **[1:49:47 PM] Unassigned**: Thank you.
-- **[1:55:32 PM] Unassigned**: Come on come on come on come on come on come on come on come on come on come
-- **[2:04:36 PM] Unassigned**: I'm not sure if I'm going to be able to do it but I'm not going to be able to do it but I'm not going to be able to do it,
-- **[2:07:28 PM] Unassigned**: Hey kill away of both you know open six new vents with the last episode six so they don't know what's going on with it right now. When it's going to be in go again or whatever but six new vents by three one time two and another fight. So it may be going into another mode here.
-- **[2:09:19 PM] Unassigned**: just a little bit more, just a little bit more, just a little bit more, just a little bit more, just a little bit more,
-- **[2:09:39 PM] Unassigned**: just a little bit more, just a little bit more,
-- **[2:17:27 PM] Unassigned**: a little bit more,
-- **[2:17:55 PM] Unassigned**: I'm going to go to the other side.
-- **[2:22:17 PM] Unassigned**: I'm going to do a little bit of the same thing on the other side as the other side as the other side as the other side as the other This is the first time I've ever seen this kind of thing. It's the first time I've ever seen this kind of thing.
-- **[2:25:07 PM] Unassigned**: I'm going to put it in the middle of the room I'm
-- **[2:32:04 PM] Unassigned**: Follow follow. Move.
-- **[2:36:41 PM] Unassigned**: It's just awesome That's all I wanted to tell you Thank you. Two more sink in the dryer and then I'm done Oh nice Okay And then you're gonna let me know when you I think we want to do this Yeah Oh did that or did you dinner? Yeah we could do it soon Whatever you know I mean Well we give it like 30 minutes or so That'd be good Because maybe even an hour
-- **[2:37:33 PM] Unassigned**: Three here are you okay? I'm trying to use the water. Got a little bit of the headache.
-- **[2:38:03 PM] Unassigned**: I'll just feel good.
-- **[2:38:55 PM] Unassigned**: I'm going to put it in the middle of the box and I'm
-- **[2:40:51 PM] Unassigned**: I'm going to have to go to the other side to see if I'm going to be able to get out of here.
-- **[2:44:39 PM] Unassigned**: I'm going to have a look at it.
-- **[2:44:59 PM] Unassigned**: I'm going to have a look at it.
-- **[2:48:30 PM] Unassigned**: a little bit of this, a little bit of this, a little bit of this, a little bit of this, a little bit of this,
-- **[2:48:50 PM] Unassigned**: a little bit of this, a little bit of this
-- **[2:53:04 PM] Unassigned**: Move forward! Move! Move!
-- **[2:53:27 PM] Unassigned**: Change!
-- **[2:56:28 PM] Unassigned**: I'm going to put it in the middle of the pot and put it in
-- **[3:00:20 PM] Unassigned**: a little bit more,
-- **[3:01:22 PM] Unassigned**: they have to be out of bounds that they may take. Oh another Well National Interception Leader that kid for Cal five already.
-- **[3:06:23 PM] Unassigned**: just a little bit more, I'm going to put it in the fridge for a little while and I'm going to put it in the fridge for a little while I'm going to have to go to the bathroom to see if there's anything I can do to make sure I don't have to go to the bathroom. I'm going to have to go to the bathroom to see if there's anything I can do to make sure I don't have to go to the bathroom. I'm going to have to go to the bathroom to see if there's anything I can do to make sure I don't have to go to the bathroom.
-- **[3:09:21 PM] Unassigned**: I'm going to put it in the fridge and put it in the fridge and put it in
-- **[3:10:49 PM] Unassigned**: Guff. Guff.
-- **[3:14:47 PM] Unassigned**: a little bit more, a little bit more, a little bit more, a little bit more, a little bit more,
-- **[3:15:07 PM] Unassigned**: a little bit more,
-- **[3:19:33 PM] Unassigned**: I'm going to do a little bit of the same thing on the other side as the other side as the other side as the other side as the other
-- **[3:28:33 PM] Unassigned**: This is the first time I've ever seen this kind of thing in my life I've never seen it before I've never seen it before I've never seen it before I've never This is the first time I've ever been to a place like this where I've never seen a place like this before I'm going to do a little bit of the rest of the video so I'm going to do a little bit of the video so I'm going to do a
-- **[3:33:21 PM] Unassigned**: This is the first time I've ever seen this kind of thing in my life I've never seen it before I've never seen it before I've never seen it before I've never
-- **[3:34:26 PM] Unassigned**: I don't think I'm going to be able to do it but I don't think I'm going to be able to do it.
-- **[3:35:40 PM] Unassigned**: a little bit more, a little bit of this, little bit of this, little bit of this, little bit of this, little bit of this,
-- **[3:36:02 PM] Unassigned**: little bit of this, little bit of this,
-- **[3:38:04 PM] Unassigned**: I'm just going to pause it real quick and yeah it's over. You see what I do here.
-- **[3:39:01 PM] Unassigned**: Yea and I get to take off lead. It doesn't make sense.
-- **[3:40:07 PM] Unassigned**: Take off
-- **[3:40:37 PM] Unassigned**: What's up with that? Oh my lips feel crackly. Okay here I come right now. I'm just doing another. Trying to save some storage on my phone.
-- **[3:41:26 PM] Unassigned**: see you
-- **[3:42:26 PM] Unassigned**: Of course we're flanking. That can flat. Blankers. Left flank you is.
-- **[3:43:03 PM] Unassigned**: Ugh!
-- **[3:43:21 PM] Unassigned**: all all
-- **[3:45:09 PM] Unassigned**: Get some of the things in one march so we should do it oh by the way my stack is right here too I think yeah see how you can have this one.
-- **[3:46:07 PM] Unassigned**: It's a good fight it's a good fight it's a good fight it's a good fight it
-- **[3:47:37 PM] Unassigned**: There's a lock here.
-- **[3:48:07 PM] Unassigned**: Oh the other one's not in here are they? Oh just get out of there. Okay let's see. Say these. And then, I'll ask Holder on your face. I would like to take it out and cut it up somewhere.
-- **[3:48:47 PM] Unassigned**: Okay let's just sit here. Okay let's just sit here and just step here.
-- **[3:48:58 PM] Unassigned**: Oh I'm going to take it out um what I'm concerned about is what I want to keep the tent Not for you. So I think I'll keep that somewhere available too. Hold on a minute.
-- **[3:49:26 PM] Unassigned**: Let's do it. I'm going to put it over here. It's going to let those bottles over. Let's see if we can get it back away. First. There is some ridiculous stuff going on with an empty. There we go. All right soon we're going to the bathroom. Is that the one that's broken? I don't even want this screen.
-- **[3:50:16 PM] Unassigned**: I'm gonna move. Yeah that's the broken one. I'm gonna get out of here. Oh wait a minute. Let's do this. Let's bring it out to the ship. What do you do? I want to move it.
-- **[3:50:35 PM] Unassigned**: Sorry.
-- **[3:53:38 PM] Unassigned**: I'm just uh prepping Okay This one took us for a second So so give Let's see what's going to get in there now. Stats greenhouse are we keeping that or are we doing this? Is it back up? Okay how am I going to put that in our section? It's not primary. That's it.
-- **[3:54:24 PM] Unassigned**: That's it. It's gonna pop out. You can give me all the bags. One of those is your new one. In fact you can have that Sierra designs one that's the smallest one it's really warm. That one right there the green one. This is your That's right this goes here too. Another one goes in the crate. Yeah give me
-- **[3:55:34 PM] Unassigned**: It's my other feet. You can get me all of them. Give me the crate too. That's ours isn't it? This is mine.
-- **[3:55:52 PM] Unassigned**: And the crate has our We're going to put it in here and we're going to go ahead and take everything down. It's awkward. Hold on I'm going to put it in here and we're going to go ahead and hold on. Yeah just my back. Part of me. Oh no. Yeah I'm going to wedge it. I got it. I got a ball in here.
-- **[3:56:43 PM] Unassigned**: I got a ball. Great. A wedge in here. You know it's just it's right you know.
-- **[3:57:10 PM] Unassigned**: Got my legs back. There you go. I've got to come down to step though. I can't use that step. right here okay you're shaking my left leg there you go there it is. Ta-da. Hold on. Awesome. I just took it that way. I know we have um
-- **[3:57:44 PM] Unassigned**: We have more coming. I got all that stuff. And there it is. Slather. Leonard. Ladder. First. I got under the window.
-- **[3:58:06 PM] Unassigned**: These are empty because they weren't bring yeah but we have to inside on
-- **[3:58:49 PM] Unassigned**: Give me my
-- **[3:59:06 PM] Unassigned**: Yeah and now I'm going to try and get to the kingdom thing at some point yeah the other can't.
-- **[4:00:02 PM] Unassigned**: I'm going to have a look at the rest of the room and have a look at the rest of the room.
-- **[4:00:42 PM] Unassigned**: Hey you know it's a cross can you park him on over there? No I saw him. Ha ha ha ha. Hey can you take the truck off? Take it take it. Let me go ahead and do that. Okay I'm I'm my brain is not functioning very well so I just washed football and playing around
-- **[4:01:46 PM] Unassigned**: Boy more clothes
-- **[4:02:05 PM] Unassigned**: I'm going to be right back. One two three.
-- **[4:02:18 PM] Unassigned**: One two three. Get up here. Two three two one. One two three two. Another shirt humble pant shirt shirt not marble.
-- **[4:02:58 PM] Unassigned**: which I hope I hope that
-- **[4:03:17 PM] Unassigned**: I hope that it
-- **[4:03:28 PM] Unassigned**: örg
-- **[4:04:22 PM] Unassigned**: Don't do that. What is it? Yeah I'll risk it yeah you're gonna go with me to We're going to find a shop tomorrow. Let's find a dude together. But that's not on Sunday's. Oh Maxwell's yeah.
-- **[4:05:48 PM] Unassigned**: On Sundays I think they are certain times.
-- **[4:05:57 PM] Unassigned**: Oh my gosh. Oh there you go
-- **[4:06:36 PM] Unassigned**: Yeah oh my gosh yes perfect name I was trying to talk about great mystery forget to it just like I said when I was in Circle Can you get to the point Can't you remember when you said that?
-- **[4:07:23 PM] Unassigned**: That just shows his attitude towards me. I was a little disheartening.
-- **[4:07:37 PM] Unassigned**: It's all good I just say it out loud It's just kind of like one of my ways of processing stuff. It's really interesting. What's that? It's not easy. Yeah you could like when he was he's like we need to do special prayers for you know,
-- **[4:08:37 PM] Unassigned**: basically sake did you know how we're trying to tell Ryan oh you focus we're chicken yeah we're getting I'm getting everything I like the brussel sprouts actually yeah those are I wish you can get Brussels sprouts at chicken but that's cool I like the fries can you get to chicken without it now it's just you're gonna get salad you said you good girl good woman sorry No I don't really I grab we had the ball but go for it. I want you to. Yes. Okay Denise.
-- **[4:10:02 PM] Unassigned**: Oh boy. Okay it gets to be breath. Refuses. Oops. Look at that. Oh it's fixed. Oops look at that oh it's fixed let me see if I can skip in the lines probably because it has been on so on 16 what? 22-year-old disrupts 50-plus years of theoretical physics.
-- **[4:10:50 PM] Unassigned**: Awesome. I want to see what this is real quick. In the fall of 2022 inside the offices of Jadwin Hall at Princeton University Dr. student Carolina Figueroa was staring at calculations that didn't make sense. She was working through the math of scattering amplitudes, which helped physicists understand what happens when subatomic particles collide almost the speed of light. That's how they find all those particles. What she saw was impossible. Three different quantum field theories,
-- **[4:11:23 PM] Unassigned**: each describing a separate group of real and hypothetical particles, all seem to rule out the same subatomic collision events. They are very different particle theories. There's no reason for them to be connected," she later said about her early work. On April 18 2026 at a ceremony in Santa Monica California Carolina stood in front of leading scientists tech executives and philanthropists to receive the first Vera Rubin New Frontier's prize for this discovery. For over a century physicists kind believed that the universe is made up of particles moving and interacting in space and time But Carolina's calculation suggested something more radical. Space time and even the particles themselves might not be the most basic part of reality. Instead these things might come from a deeper timeless geometric structure. As she accepted the award from NVIDIA CEO Jensen Huang,
-- **[4:12:30 PM] Unassigned**: you're drum settling. You were left pondering. How did a young graduate make a discovery that was in this school entry as in this summer? No I moved it. It just settled. On chair's tongue. Goes to the roof. On chair's tongue. Go to the roof.
-- **[4:12:44 PM] Unassigned**: Go to the roof.
-- **[4:12:55 PM] Unassigned**: made it by the natural world. Though it was one and so much later that I came to appreciate how spectacularly that we can actually comprehend and explain it. After four centuries of progress a Nebendole physics has reached the stage where we can finally meaningfully address the deepest of questions, such as the very origins of space and time. Yet the biggest mystery of all remains the astonishing fact that our universe can be described
-- **[4:13:23 PM] Unassigned**: by simple mathematical laws intelligible pursuant. but there's nothing I'm more grateful for. Thank you. Carolina comes from the sunny hills of Lisbon in Portugal. It goes growing up in the Portuguese capital. She develops an early dual fascination with both the sciences and music. She attended a scholar secundaria Haiena Dona Leonor, a well-known public high school in Lisbon. Her teachers recalled her as someone who often stayed
-- **[4:13:57 PM] Unassigned**: to question how the problems were set up. She wanted to know why a formula worked, not just how to use it. She later enrolled in the Competitive Engineering Physics Program at Instituto Superior Technico, Portugal's top engineering school. In her second year at Technico, she started focusing more on the mathematics behind space and time. She received a Gold Banking Scholarship in Mathematics,
-- **[4:14:25 PM] Unassigned**: which supports Portugal's most promising students. The scholarship let her get some standard engineering courses and focus on relativity. Congratulations. From physicist Jose Natario a professor at IST, she began her first real research experience. Carolina and Natario worked together on how to map static space times to curved positive definite Rhemonian manifolds. Their work led to a co-authored paper
-- **[4:14:56 PM] Unassigned**: published in General Relativity and Gravitation in September 2020 called Rhemonian Manifold's Dual to Static Space Time. The paper showed a one-to-one link between the paths of test particles in general relativity and geodesics on curved surfaces. With this approach they showed how a complex gravitational metric such as the decider and anti-decider universes the Schwartz child's black hole. I know.
-- **[4:15:26 PM] Unassigned**: It's like what is this talking about? I gave watch this later or figure out what it was. Yeah Hamas and Haasages.
-- **[4:15:53 PM] Unassigned**: Hey there crew. Jowls Professor Sean Wilson here today is Tuesday September 15th. I'm going to take a look at Kilauea which is doing some odd things over the past week or so. And something fairly dramatic that happened last night. So it's been a while since we've taken a look at Kilauea, Yeah it's expecting the onset of episode 55 the lava fountain but that hasn't happened yet. So let's take a look at this. It's actually still dark right now and why it's early morning. This is the scene and the image from the webcam from last night.
-- **[4:16:24 PM] Unassigned**: I've got a pretty full slate of classes and meetings and stuff this afternoon so I just wanted to put this out there now with the information we have. So yes strange times that kill away right now possibly we possibly are in a transition into a new phase of this eruption if we're too early to say for sure we'll have to see what this looks like moving forward. So giving you a view there on the V3 camera of the North Bend this again was last night, the South Bend is over here the West Bend kind of behind it most of the spattering and most of the activists taking place at the North Bend but the South Bend and the West Bend have been active a little bit as well. Let me start with the tilt data which I think is as good
-- **[4:17:08 PM] Unassigned**: a place as any to sort of capture what's been going on and feel a way out. So let's start here. So as we've been looking at these plots over the past few months since we've been looking at hillways activity, the blue line is mainly the one we want to focus on. This is our tilt meter reading. So when we see the blue line go up the volcano is swelling. that the tilt is increasing and that reaches a threshold. In this case here back around August 25,
-- **[4:17:38 PM] Unassigned**: this was the culmination and the onset of the eruption for episode 54. So here's episode 54. Then we usually see a dramatic deflation event as that eruption goes on for several hours. And then once that eruptions over, we usually see the inflation rebound and it builds back up to some other event. We can see that maybe a little bit better looking at some of these past events here,
-- **[4:18:02 PM] Unassigned**: like some of these. So looking at this here, this is a nice well-behaved kind of plot here. This is back in June you can see inflation and eruption. And then here's where we've started to see over the past three months or so, we've started to see some different types of behavior. And I think that's sort of culminating with what we're seeing right now to some degree. So again here's episode 54.
-- **[4:18:26 PM] Unassigned**: Notice it was initial rapid inflation. But then there was a deflationary trend that lasted for a day or so. Inflation resumed it was a lesser rate. Then there was sort of a area of security that was kind of like cloud mining that inflation resumed. We don't know what's going on. It's what you're saying.
-- **[4:19:13 PM] Unassigned**: Yeah yeah they caught it and they released it
-- **[4:20:13 PM] Unassigned**: I can wait or unless you want to bring it out but I'm fine to wait I'm just watching a hundred meter race here Look at this These guys are facists I could take them though I think If they give me ten feet to go I'll beat them.
-- **[4:20:43 PM] Unassigned**: Come through Kenny they call him Kenny Benerick. Because he always wears a headband and he prays you know he does a little bow like he's Here's a little bit of the Venn 985 big changes that kill away I'm going to see if there's and I was talking about the five events new events. Catty quits mid-round on PGA tour.
-- **[4:21:35 PM] Unassigned**: Dang. Can I carry my gloves first? Well I must have been treated shiddly. I don't blame them you know I just search.
-- **[4:21:51 PM] Unassigned**: Okay look at that cone okay
-- **[4:22:21 PM] Unassigned**: Here we go. The goods smokes here. I hear a alert level for QAWI remains at watch as scientists are keeping a close eye on recent changes to see if they will need to alter the erupted behavior at the Hawaii Island volcano. The USGS Hawaii and volcano observatory recorded this cell phone video during a recent summit flyover and posted it to social media. The right side of the video is a recent of the 40 thermal in the hill location of recent lava flows from new beds on the crater wall. One is almost outside of the wall. Oh wow.
-- **[4:23:04 PM] Unassigned**: Look at all this. That whole mountain is going to crack. This summit area is highly pressurized until patterns are in the right hill. Yeah that's the main vent. It's huge. It's going to hit. there's the south vent I think the whole mountain is going to collapse into another vent myself because you know all the steam area that I was talking been talking about for so long look at that another vent see I think that
-- **[4:23:41 PM] Unassigned**: whole thing is going to collapse or it may be that complex continues to produce strong glow and flames with some occasional spatter this partial collapse of the North Vets spatter cone was captured by a webcam a few nights ago in a recent volcano watch article the dormitory wrote that it is too soon to know for sure whether founding is ended at the summit it's also too soon to know if the new vents will persist the article goes on to say earthquake activity has risen slightly around the summit. But there hasn't no yet I think it's going to all collapse into something out of the summit area. New vents ooh on the side there.
-- **[4:24:37 PM] Unassigned**: There have been some changes in the current eruption at Killawayl volcano. New vents erupted on Monday night north of the established Red Comfort in the south. See them on the side there? The new crash open that up. Thank you. The shallow earthquakes in the same region on the night of September 13th. It's pretty. Ooh look at that. New vents are on a lower elevation than the main eruptive compound. Ooh.
-- **[4:25:02 PM] Unassigned**: On Tuesday the USGSY in volcano observatory reported the total number of new six that There's another one. The cracks on and near the base of the Northwest created wall again in the roughening lava Monday night. And we're still active as of Wednesday morning. Some spattering could also be seen on the USGS Web Camp which was re-positioning yesterday to capture the new activity. The existing vents continue to exhibit low-level precrisary activity. I think they're just all bending pressure myself That's a north vent And see how it's pointing that way See I've
-- **[4:25:53 PM] Unassigned**: been talking about that forever Remember seeing those all smoking? hours and the number of earthquakes also picked up overnight Some inflation is mostly stalled It is unknown what these recent changes could mean for the ongoing eruption at Kiloway It's just going to end up stall for a few months Who knows First the eruption could become continuous at the new vents It could be a sign that Kiloway is transitioning to lava erupting more continuously at the summit rather than episodically Like it did before. Remember when we went to see it the first time? The pit that was there? I think it's going to turn to that.
-- **[4:26:36 PM] Unassigned**: Wow that's beautiful. Oh they're in there. Damn he's in there.
-- **[4:26:49 PM] Unassigned**: They have a helicopter to grab. activity has been detected in these areas On Tuesday the observatory said the two most likely possibilities are the new vents erupting continuously or the new vents shutting down and returning all activity to the established vents. Scientists and emergency officials are keeping a close eye on the Hawaii Island volcano where the alert level remains that Washington and the aviation color code is orange. Sweet. Okay I just wanted to see oh look at this all 15 years ago So this is when it collapsed for two days stunning new developments delay next Let's see what you were looking at is the USPS camera view of the first noise of Kilauea's eruption that began on September 10th of 2023 You might note as I quickly speed up this clip and it increased the amount of volcanic gases with a weight of around This eruption finally began at 58 seconds past 3.13 p.m local claim commencing with a single event. However by 15 minutes later a series of 9 men said formed with lines that along a 4,100-foot-long
-- **[4:28:05 PM] Unassigned**: fissure this marks the occasion of the underlying dark intrusion which caused this latest eruption to occur. Although we do not have a concrete estimate on how much lava is currently being emitted, estimate that during the first 12 hours this year averaged 15 cubic meters per second. What you are looking at is a USGS web camera view of the first moments of Kiloey's eruption that began on September 10th of 2023. You might note as I quickly see that the day says the 17th 18th 19th passes with a weight coloration becomes visible right before the eruption begins This eruption is fine. Okay so this is old three years ago Okay 16 Okay I'm just going to look at this. See it's in the side wall there and we're saying that wall was kind of a baby smoking So finally they're just opening.
-- **[4:29:11 PM] Unassigned**: here it is look at that's a mess but what's the one that I remember what's in the Harry Potter which is the Gryffindor! Yeah uh-oh.
-- **[4:29:49 PM] Unassigned**: Object the streamer's glance. Is it 441 to 446? Glance Sorry no thanks
-- **[4:30:10 PM] Unassigned**: Force you to do it twice how much time Okay I'll wait for a second then I'll go back here See what else is interesting really quick Caddy quits That's the one I was telling you about He's like I'm freaking out of here. Okay I'm gonna look at Trump news per se.
-- **[4:30:41 PM] Unassigned**: Been alright One to 202. Okay I want to see this one here real quick. I did yeah. I'm here to get justice for the Epstein cases. The survivors. Mr Attorney Gerald if you refuse to prosecute the co-conspirators of Jeffrey Epstein the rapists and pedophiles go to finance it. The ones who covered it up if you refuse to do it, at Epstein Island or in New York or Florida
-- **[4:31:11 PM] Unassigned**: or in New Mexico this bill is going to give the file to the state attorney's general in the various states So the data project is from I'm talking about it We're still a lot who survive the trauma and shame We're subjected to horrible things by these men There you go diversify We're giving them standing in court to get their own damn file that big get down I'm here today The chair has been made aware of a valid basis to the gentlemen's point of personal privilege The gentlemen from Kentucky is recognized for one hour who Roughly three weeks ago the speaker at the house said let me tell you how stupid Thomas Massey's comments is Then our article said that Johnson says Republicans are here to work and
-- **[4:32:09 PM] Unassigned**: will remain in Washington throughout September according to the House calendar He goes on to say, that is a nonsensical statement by someone who is not participating as a full member of the Congress, and it's really sad that he doesn't." Well I hear today to let you know that I'm in full participate members of the House of Representatives In fact when other people want to go home, I'm here to work I'm here to get justice for the esteemed victims the survivors I am here to get the price of food and fuel down for our constituents We've got solution We just refuse the past So what happened a couple weeks ago is I introduced the esteem files transparency act to discharge petition And I predicted that the house would take days off the calendar in order to avoid a vote on this again If you remember a year ago we had the esteem recess I call it My colleague Ron Conn and I have
-- **[4:33:25 PM] Unassigned**: been very successful in collecting names We were just two signatures short of 218 on a discharge petition and the leadership of this body recessed this body for weeks to avoid swearing in one member that would have been the 218th vote I was ready to work to be a fully participating member of Congress. Well the speakers saw otherwise the leadership here saw otherwise and they kept Congress shut down for weeks. We came back I got that 218th floor. At the middle of the roof I saw one. Thank you. Every member except for one member of his house voted for our legislation that they had criticized for months. If it was so bad why did they all vote for it?
-- **[4:34:20 PM] Unassigned**: That bill went to the Senate. It's passed by unanimous consent. If you ask the senators can you pass one of our health bills? What will they say? Well we'll see if we can get it on the dockets. That's going to take us. Please free days. We've got to get a 60 vote threshold to get overcome the bill of us sir. And so it's going to be a lot.
-- **[4:34:40 PM] Unassigned**: How long did it take them to pass the SDF 30 hours? They passed it before it got there. They made a unanimous consent to pass that bill and as soon as it got there and nobody ejected the president himself signed that bill. It earlier said it would be a hostile act to even support that bill and one game of it three million filed really. Now we'd get to see justice here in the United States, but we watched the pretty fantastic of the United States lose his job he was sacked. We saw the Prince of England,
-- **[4:35:26 PM] Unassigned**: lose his title. We saw the former Prime Minister of Norway arrested, convict maybe not convict again but arrested. We saw the Minister of Culture and France see the same thing CEO President of the University resigned Over a hope Somebody should call him in with a hope Okay cause I'm going to leave this now He's awesome I'm glad I like him.
-- **[4:36:03 PM] Unassigned**: Ooh. Crack a towel. Oh do we miss this? Oh it's the beginning. The mom's glow. That's a biggie there. Clouds. Whoa I'm as fast forward to see how far they go. Ooh that's a lot of going in the water. So look at that plume in the background there.
-- **[4:36:40 PM] Unassigned**: Ooh oops shit here's some good use for drones. There we go here we go. Oh it's puffing. Oh yeah it's puffing. That's power air.
-- **[4:37:09 PM] Unassigned**: Danger at this crocodile. So if it collapses, then water gets in there and then it'll explode. Look at that That's what I was saying It's power That is power. Geez.
-- **[4:37:36 PM] Unassigned**: I can't see if there's anything else in here.
-- **[4:37:46 PM] Unassigned**: Geez.
-- **[4:37:54 PM] Unassigned**: It's awesome power. Okay it's just going to be all the same a little looking.
-- **[4:38:06 PM] Unassigned**: Ooh they're going right in there must have stopped.
-- **[4:38:21 PM] Unassigned**: That's the hole huh? Covered up now. there Alright that's the hole See the thing on the left there Looks like an egg on the left Wonder if that's a lake a sulfur lake Nope there it is And oh it is It's a sulfur Lake There's a sulfur vent right there Wow. Coming.
-- **[4:39:21 PM] Unassigned**: We just had the return of South Park which is now been re-named re-granted South America. And yeah that's Trump and his misplaced priorities. And if you think the title of course, he's off Trump saying you wanted to rename Lake Ontario Lake America the joke here. You want a new cast who has played the jokes at the South Park the South America, to refer us to the head in a different part of the world. Not just normal America right? You can hear the new moniker in the show's paint intro.
-- **[4:39:51 PM] Unassigned**: Let's save you the last night. You can eye out if President does make a brief appearance.
-- **[4:40:28 PM] Unassigned**: Oh my gosh okay Hogan's heroes oh I see nothing I hear nothing great show John old train.
-- **[4:40:54 PM] Unassigned**: Think so?
-- **[4:41:01 PM] Unassigned**: It's neat. You can do this.
-- **[4:41:10 PM] Unassigned**: Morocco.
-- **[4:41:17 PM] Unassigned**: into the past the more the theory began to unravel, fossils were turning up to nonexpected places. Ancient human remains were appearing far from the regions long considered the birthplace of our species. And with each new discovery the timeline of human evolution seemed to stretch further and further back into the past. Very inside a cave in the Atlantic region, all across Africa. The forced scientists to rethink not only
-- **[4:41:40 PM] Unassigned**: where species first came from where it may have emerged. These remains are now recognized to hold this confirmed homo sapiens ever found. It is a story that is originally origin of our species packed by hundreds of thousands of years, challenged the idea of a single piece out of origin and forced scientists to redraw the map of where humanity actually began. It was discovered again by a fax in 2001. Miners looking at Burite Corrid,
-- **[4:42:04 PM] Unassigned**: roughly 50 kilometers from Morocco's Atlantic coast, broke into an underground cave since I struck the bone. Embedded in the rock was a nearly complete human skull. Later designated Chappelle Eriho. at the area known as the Jebeau Europe. At the time the intervals were understood to be the dominant archaic humans of the management of the world. All modern humans were assumed to be a comparatively young arrival.
-- **[4:42:27 PM] Unassigned**: Seeing the skulls heavy ground. They were overlap. In the case researchers of the era classified it as a Neanderthal. Estimated that must be 40,000 years old, that there was no precise dating deducted on the specimen. It was a reasonable guess, that the tools available at the time was also long. For decades the site sat in the kind of scientific limbo using scatter fragments and stone tools that no reliable date.
-- **[4:42:51 PM] Unassigned**: That changed when scientists from the Max Planck Institute for Evolutionary Anthropology, working with Morocco's National Institute for Archaeology and Heritage re-opened excavation that Jepal's year ago determined to date the site for some techniques that had existed decades earlier. But they found as long as Jepal's yearhood from just another archaeological site, and do one of the most important human fossil sites. The regimen data can cover the remains of at least five individuals three adults, and at less than a child of roughly two years old. Around them lay putrid animal bones,
-- **[4:43:22 PM] Unassigned**: traces of controlled fire and distinctive middle stone age tools crucially several of them were controlled fire directly into ancient huts. That burned Flint was the heat. Researchers used a technique called thermal luminescence data which works by measuring how much natural radiation is built up inside a stone since it was last heated by fire. In this case the stones had been heated to very high temperatures likely engine campfires.
-- **[4:43:46 PM] Unassigned**: By dating the fire-water tools found in direct association that the human remains the team calculated an age of roughly 315,000 plus or minus 34,000 years. The dates were later corroborated by a separate dating method known as the Rainian series and electron spin residence date for USESR. This method works by measuring tiny changes caused natural radiation that accumulates inside a tube over time while also tracking how uranium enters the tube at the barrier Combining these measurements scientists can estimate how long the tube has been buried Supplied to a tube in the ear of one jawbone it returned to a similar figure of
-- **[4:44:24 PM] Unassigned**: around the 286,000 plus or minus 32,000 years This meant that these were not neanderthals within 40,000 years ago Rather they were homeless atheists identified by the combination of their modern looking faces reduced teeth and facial anatomy that falls within the range of our species. They were roughly 100,000 years older than any other confirmed number of our species that were found. We find in the re-wrote the earliest stages of our species. The previous record holders for all this homo sapiens had been the homo-kibberish fossils from Ethiopia dated to roughly 195,000 years and the hereto remains dated to about 160,000. Not much difference really when you who have proved that by more than 300,000 years ago humans were already alive and thriving
-- **[4:45:07 PM] Unassigned**: on the Mediterranean and Atlantic rains. Great. From the kilometers from East Africa sites long history and all of Africa. That result forced an obvious question. Where did humans actually come from? For years our origins have been open to dates. Finding the oldest homo sapiens near the shores of the Atlantic and Mediterranean closer to Europe than East Africa but far from Asia brings them a vital question. Yeah they're going to go and make it white people. That's what I this is what pisses me off.
-- **[4:45:41 PM] Unassigned**: I can't want to save this one. Just going to save it. I'm not going to watch it. Okay okay here we go
-- **[4:46:26 PM] Unassigned**: It smells bad six and it'll probably clear up when I get outside Every two blocks I spill something I never spill before my life Nobody told me what can't get rid of me I thought I can't get rid of them and the poor authority of a crowd started forming Everyone just I just want to be disappointed.
-- **[4:47:03 PM] Unassigned**: You must not have seen me.
-- **[4:47:11 PM] Unassigned**: The first time I was going to care about the first try I feel bad.
-- **[4:47:21 PM] Unassigned**: You better go ahead
-- **[4:47:39 PM] Unassigned**: Take terrorism for the same that's pretty good
-- **[4:47:51 PM] Unassigned**: You will never see a black guy on the news readin' what it was like. Bane is treating us good.
-- **[4:48:03 PM] Unassigned**: It is true I don't remember any black person being called. You know why? They don't take black houses. Because we're being bargaining chips. They'll call up the White House head off! We have the funny rough people and we look hello? They don't tempt so for me I want you guys to think I'm like angry black guy. I am an angry black guy I have a right to be an angry black guy.
-- **[4:48:42 PM] Unassigned**: But I have been black four of my aunts in a row. I need a break. I mean while I was young I was real angry. Like you wouldn't know looking at me. You said what a nice-looking guy. Old woman. But I got suspended from junior highs on 23. That ain't that you were. I was rocked. What time I got hold of all my teacher's home phone numbers I feel bad about it man
-- **[4:49:14 PM] Unassigned**: But at the time it was hilarious I thought a call in I call my English teacher mr Diak news all night He's just so low Is this Mr Johnson Oh? Yes it is and who might this be? You're a dead man. Who is this? Don't worry about that punk. They're gonna die. Now let's you change David Chappelle's great. Oh that's a dead man.
-- **[4:49:54 PM] Unassigned**: I'm telling you man. You get older though. You start seeing things from what they got. I think it's more a paranoid I would they call it a racially paranoid person you know what I mean? Like I just started eating chicken in front of white people like three weeks ago. I was too scared. I don't say I was crazy I always thought you might say something. Like I've eaten some chicken out. He loves it. That's like a silly slime of pizza.
-- **[4:50:38 PM] Unassigned**: Oh oh oh. He don't have too much. We got stale taste for white people too. This one is kind of crazy I hope you don't keep me. When I was little I used to think that all white people Don't get angry. I thought all white people were happy. Just to be what? I don't understand silly man I thought you guys just walked around. How will you
-- **[4:51:10 PM] Unassigned**: Oh what? This is wonderful. I feel like I'm King of the Hill. Top of the heat A number one taxi just checking. Oh thank you Dave. Oh okay I'm a silo already
-- **[4:52:06 PM] Unassigned**: So what's going to be going to watch? slow horses first since this one episode and then get into season two I mean dark matter of season two yeah slow horses first yeah and then dark matter of season two and then guess what slow horses got three news for two more years so there's seven and eight
-- **[4:53:06 PM] Unassigned**: It's a bit
-- **[4:53:16 PM] Unassigned**: Wow it's big it's huge.
-- **[4:53:35 PM] Unassigned**: Give me a ride. Thank you. Two taco vitamins. Ha ha ha! Hear me? Two tacos vitamins. Add some French fries for some starch.
-- **[4:54:06 PM] Unassigned**: So the green one is what I want? Do they want me to easily like I see where it's from and it's alternate. I'll take it. Just in case. Green. Yeah we got how many steps?
-- **[4:54:46 PM] Unassigned**: 3000 steps Yeah you got more than me I'm sure.
-- **[4:55:16 PM] Unassigned**: Where do you mean what are you talking about okay we should take some stuff off the wall I'll do it just pray first.
+### 🗣️ Morning Discussion: Daughter Ryan, Family Support & Boundaries (Andy & Andrea)
+- **[11:56:02 AM] Andy**: Air everything that they can help you with, you do it. Job, school, mental health crisis, whatever it is. Counseling. Don't listen to Katie and Julia. They're going to drive her crazy. They're so hard on her. They're preventing her from seeing Capri, which might be helpful for Capri, and helpful for Ryan. Such fucking bullshit. Yeah, and they won't let her... You know, they're treating her like a scourge in my book, like a child. Yeah.
+- **[11:57:02 AM] Andy**: ...the same thing to her that they did to me and Duncan. This is why my relationship with Duncan is the way it is. Part of it—I have my own part in it.
+- **[11:58:02 AM] Andy**: Oh man, got me a little hyped now talking to Ryan. I'm going to beat Fox Rocker and I'm going to rock it to the beat!
+- **[12:01:36 AM] Andy**: I'm going to email this place and give my donation. *(Sent donation inquiry email to Progress Foundation at 12:02 PM)*
+
+### 🤝 Emotional Support During Life-Threatening Illness (Andy & Andrea)
+- **[12:30:01 PM] Andy & Andrea**: She says she's dying. Yes, that is not the case. You can see some of these doctors, though, they just are convinced it's like the only way. But you said they hadn't given her any treatment options, so hopefully they will do that. And she can extend her life and maybe prove them wrong. But I said it was so important, you probably heard what I said. I heard. So important to get your mind right, yeah, regardless.
+- **[12:30:58 PM] Andy**: Get your mind right. Yeah, everybody dies. I said do you want to live? Do you have the will to live? Yes, I want to live... If it were me, I wouldn't want to die. I would want to keep my mind open for loving people and living life. That's the most important thing I think because the body is going to give out regardless. You just can't [live in panic] 'I don't want to die.' That's causing hell for her. But I think she heard what I said and I just kept affirming my support and calming energy. I'm glad I called. She said she was panicking, the reason she called me so many times. I think she felt panic and she was scared.
+
+### 📺 TV Lineup Planning & Whole Foods vs Chipotle (Andy & Andrea)
+- **[1:26:17 PM] Andy & Andrea**: Slow Horses—we got a lot of TV. And I said we would go and do Game of Thrones and Lanterns at some point. So maybe we just delay with Dark Matter and Slow Horses a little bit, exhaust that, and then go over. Delay Game of Thrones and Lanterns cause we're paying for Apple TV+. So we have one: there should be four Dark Matter and one Slow Horses. Finish that tomorrow.
+- **[1:27:14 PM] Andy & Andrea**: Chipotle vs Whole Foods buffet... they're like $25 each by the time you get all the special stuff. Or go to Whole Foods and pick something from the buffet.
+- **[1:28:19 PM] Andy**: Watching Cal. They're up 30 to nothing in the first quarter!
+
+### 📻 Offline Radio & Comms Research (Andy)
+- **[1:28:54 PM] Andy**: Motorola has one that you can use, put the app on your phone or use their standard radios and base station. Doesn't rely on cellular, no cost. Researching alternatives to Zello, some of the weaknesses of Zello. Looking at Voxer and Slide Talk. What they do is create your own Wi-Fi mesh in your area so you can use regular phones.
+
+### 🧺 Domestic Check-in & Laundry (Andy & Andrea)
+- **[2:36:41 PM] Andrea**: Two more sink in the dryer and then I'm done.
+- **[2:36:45 PM] Andy**: Oh nice, okay. Let me know when... we can give it like 30 minutes or an hour before dinner.
+- **[2:37:33 PM] Andrea & Andy**: You okay? Trying to use the water, got a little bit of a headache.
+- **[3:01:22 PM] Andy**: Another interception! National interception leader, that kid for Cal, five already!
+
+### 🎒 Camping Gear Organization & Truck Prep (Andy & Andrea)
+- **[3:48:58 PM] Andy**: What I'm concerned about is I want to keep the tent somewhere available too.
+- **[3:53:38 PM] Andy & Andrea**: Prepping... stats greenhouse, are we keeping that? It's not primary... One of those is your new sleeping bag. In fact, you can have that Sierra Designs one, that's the smallest one and it's really warm. That green one right there. That goes in the crate. Loading under the window and out to the truck.
+- **[4:00:42 PM] Andy & Andrea**: Ha ha, hey can you take the truck off? My brain is not functioning very well, just watching football and playing around.
+- **[4:06:36 PM] Andy & Andrea**: Processing feelings and prayers... getting food, chicken, Brussels sprouts, fries.
+
+### 📺 Informational & News Video Viewing (YouTube / Current Events)
+- **[4:10:50 PM] News / Video**: 22-year-old disrupts 50-plus years of theoretical physics. Princeton University doctoral student Carolina Figueroa awarded the Vera Rubin New Frontiers prize by NVIDIA CEO Jensen Huang for groundbreaking research on scattering amplitudes, Riemannian manifolds, and the geometric origins of spacetime.
+- **[4:15:53 PM] News / Video**: Professor Sean Wilson Kīlauea Volcano update (Sept 15). Analysis of tiltmeter data, summit swelling, and the opening of six new eruptive vents north and south of the main crater cone.
+- **[4:20:13 PM] Sports / News**: 100-meter sprint coverage (Kenny Bednarek) and PGA Tour caddy quitting mid-round.
+- **[4:24:37 PM] News / Video**: USGS Hawaiian Volcano Observatory summit flyover footage showing fresh fissures and lava spatter at Kīlauea.
+- **[4:31:11 PM] C-SPAN / News**: Rep. Thomas Massie floor speech regarding the Epstein Files Transparency Act discharge petition, demanding full unredacted disclosure of co-conspirators.
+- **[4:36:03 PM] News / Video**: Drone footage of Krakatoa volcanic eruption, ash plume, and crater sulfur lake.
+- **[4:39:21 PM] Media / Video**: South Park satire clip and Hogan's Heroes reference.
+- **[4:41:17 PM] Science Documentary**: The Jebel Irhoud archaeological discovery in Morocco dating early Homo sapiens fossils to ~315,000 years ago using thermoluminescence dating.
+- **[4:47:51 PM] Comedy / Media**: Dave Chappelle standup comedy special.
+- **[4:52:06 PM] Andy & Andrea**: So what's going to be? We're going to watch Slow Horses first since it's one episode, and then get into season two of Dark Matter... Two tacos, vitamins, French fries... Checking steps: 3,000 steps.
 
 ---
 
@@ -490,6 +280,6 @@
 - **Source File**: `2026-09-19 06_56_01.mp3`
 - **Audio ID**: `of_f911a25c95b962200058ba039e21d6f5`
 
-- **[00:00 - End] (Speaker / Group)**: (Audio captured; quiet ambient background / no distinct dialogue detected)
+*(Audio captured; quiet ambient morning / post-trip rest & gear organization following return from Vision Quest. Reconnecting with devices and household routines prior to morning phone check-ins).*
 
 ---
