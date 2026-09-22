@@ -1,0 +1,521 @@
+# Plaud Daily Transcript - Sunday, September 20, 2026
+- **Date**: 2026-09-20
+- **Total Audio Sessions Processed**: 3
+- **Generated**: 2026-09-22 08:14:50
+
+---
+
+## 🎙️ Session 1: 09-20 (Cancelled) Living Mindfully Meditation Group Meeting (3h25m)
+- **Source File**: `09-20 (Cancelled) Living Mindfully Meditation Group Meeting.mp3`
+- **Audio ID**: `of_6c4fe1613310bb3275e71f93aa19470d`
+
+- **[00:00 - End] (Speaker / Group)**: (Audio captured; quiet ambient background / no distinct dialogue detected)
+
+---
+
+## 🎙️ Session 2: 09-20 Bay Area DSA Social 🎉 🥳 (5h00m)
+- **Source File**: `09-20 Bay Area DSA Social 🎉 🥳.mp3`
+- **Audio ID**: `of_60a72171f50a8e291fcc893b2862b581`
+
+- **[00:00 - End] (Speaker / Group)**: - **[9:00:56 AM] Speaker**: So, let's go. here.
+- **[9:03:14 AM] Speaker**: I'm watching here. The chargers missed the field goal. They doinked it. They hit the goalposts. So the raiders haven't had the ball yet. Doink? Yes. It made the doink sound. You can hear it. Doink. Quick, sleep quickly
+- **[9:06:47 AM] Speaker**: First found Oh, he got clipped. Shit.
+- **[9:08:34 AM] Speaker**: There's all kinds of ice everywhere. Yeah. Nice explosion. The worries. It's all out of the freezer. Tingle bell. Just. Just. Just. Let's throw it out here. Yeah. So you gotta trap, take it and slip.
+- **[9:10:48 AM] Speaker**: Oh! Ah!
+- **[9:17:36 AM] Speaker**: I'm going to do a little bit.
+- **[9:22:04 AM] Speaker**: if you're going to be able to do it. man.
+- **[9:23:08 AM] Speaker**: Ready. Well,
+- **[9:24:53 AM] Speaker**: I think I just need
+- **[9:25:20 AM] Speaker**: D! Brush. Rush.
+- **[9:26:59 AM] Speaker**: Go immediately, Go!
+- **[9:27:51 AM] Speaker**: Go.
+- **[9:33:21 AM] Speaker**: You
+- **[9:33:51 AM] Speaker**: You
+- **[9:34:21 AM] Speaker**: You
+- **[9:34:51 AM] Speaker**: You
+- **[9:35:21 AM] Speaker**: You
+- **[9:35:51 AM] Speaker**: You
+- **[9:36:21 AM] Speaker**: You
+- **[9:36:51 AM] Speaker**: You
+- **[9:37:21 AM] Speaker**: You
+- **[9:37:51 AM] Speaker**: You
+- **[9:38:21 AM] Speaker**: You
+- **[9:38:51 AM] Speaker**: You
+- **[9:39:21 AM] Speaker**: You
+- **[9:39:51 AM] Speaker**: You
+- **[9:40:21 AM] Speaker**: You
+- **[9:40:51 AM] Speaker**: You
+- **[9:41:21 AM] Speaker**: You
+- **[9:41:51 AM] Speaker**: You
+- **[9:42:21 AM] Speaker**: You
+- **[9:42:51 AM] Speaker**: You
+- **[9:43:21 AM] Speaker**: You
+- **[9:44:21 AM] Speaker**: You
+- **[9:44:51 AM] Speaker**: You
+- **[9:45:21 AM] Speaker**: You
+- **[9:45:51 AM] Speaker**: You
+- **[9:46:21 AM] Speaker**: You
+- **[9:46:51 AM] Speaker**: You
+- **[9:47:21 AM] Speaker**: You
+- **[9:47:51 AM] Speaker**: You
+- **[9:48:21 AM] Speaker**: You
+- **[9:48:51 AM] Speaker**: You
+- **[9:49:21 AM] Speaker**: You
+- **[9:49:51 AM] Speaker**: You
+- **[9:50:21 AM] Speaker**: You
+- **[9:50:51 AM] Speaker**: You
+- **[9:51:21 AM] Speaker**: You
+- **[9:51:51 AM] Speaker**: You
+- **[9:52:21 AM] Speaker**: You
+- **[9:52:51 AM] Speaker**: You
+- **[9:53:21 AM] Speaker**: You
+- **[9:53:51 AM] Speaker**: You
+- **[9:54:21 AM] Speaker**: You
+- **[9:54:51 AM] Speaker**: You
+- **[9:55:21 AM] Speaker**: You
+- **[9:55:51 AM] Speaker**: You
+- **[9:56:21 AM] Speaker**: You
+- **[9:56:51 AM] Speaker**: You
+- **[9:57:21 AM] Speaker**: You
+- **[9:57:51 AM] Speaker**: You
+- **[9:58:21 AM] Speaker**: You
+- **[9:58:51 AM] Speaker**: You
+- **[9:59:21 AM] Speaker**: You
+- **[9:59:51 AM] Speaker**: You
+- **[10:00:21 AM] Speaker**: You
+- **[10:00:51 AM] Speaker**: You
+- **[10:01:21 AM] Speaker**: You
+- **[10:01:51 AM] Speaker**: You
+- **[10:02:21 AM] Speaker**: You
+- **[10:02:51 AM] Speaker**: You
+- **[10:03:21 AM] Speaker**: You
+- **[10:03:51 AM] Speaker**: You
+- **[10:04:21 AM] Speaker**: You
+- **[10:04:51 AM] Speaker**: You
+- **[10:05:21 AM] Speaker**: You
+- **[10:05:51 AM] Speaker**: You
+- **[10:06:21 AM] Speaker**: You
+- **[10:06:51 AM] Speaker**: You
+- **[10:07:21 AM] Speaker**: You
+- **[10:07:51 AM] Speaker**: You
+- **[10:08:21 AM] Speaker**: You
+- **[10:08:51 AM] Speaker**: You
+- **[10:09:21 AM] Speaker**: You
+- **[10:09:51 AM] Speaker**: You
+- **[10:10:21 AM] Speaker**: You
+- **[10:10:51 AM] Speaker**: You
+- **[10:11:21 AM] Speaker**: You
+- **[10:11:51 AM] Speaker**: You
+- **[10:12:21 AM] Speaker**: You
+- **[10:12:51 AM] Speaker**: You
+- **[10:13:21 AM] Speaker**: You
+- **[10:13:51 AM] Speaker**: You
+- **[10:14:21 AM] Speaker**: You
+- **[10:14:51 AM] Speaker**: You
+- **[10:15:21 AM] Speaker**: You
+- **[10:15:51 AM] Speaker**: You
+- **[10:16:21 AM] Speaker**: You
+- **[10:16:51 AM] Speaker**: You
+- **[10:17:21 AM] Speaker**: You
+- **[10:17:51 AM] Speaker**: You
+- **[10:18:21 AM] Speaker**: You
+- **[10:18:51 AM] Speaker**: You
+- **[10:19:21 AM] Speaker**: You
+- **[10:19:51 AM] Speaker**: You
+- **[10:20:21 AM] Speaker**: You
+- **[10:20:51 AM] Speaker**: You
+- **[10:21:21 AM] Speaker**: You
+- **[10:21:51 AM] Speaker**: You
+- **[10:22:21 AM] Speaker**: You
+- **[10:22:51 AM] Speaker**: You
+- **[10:23:21 AM] Speaker**: You
+- **[10:23:51 AM] Speaker**: You
+- **[10:24:21 AM] Speaker**: You
+- **[10:24:51 AM] Speaker**: You
+- **[10:25:21 AM] Speaker**: You
+- **[10:25:51 AM] Speaker**: You
+- **[10:26:21 AM] Speaker**: You
+- **[10:26:51 AM] Speaker**: You
+- **[10:27:21 AM] Speaker**: You
+- **[10:27:51 AM] Speaker**: You
+- **[10:28:21 AM] Speaker**: You
+- **[10:28:51 AM] Speaker**: You
+- **[10:29:21 AM] Speaker**: You
+- **[10:29:51 AM] Speaker**: You
+- **[10:30:21 AM] Speaker**: You
+- **[10:30:51 AM] Speaker**: You
+- **[10:31:21 AM] Speaker**: You
+- **[10:31:51 AM] Speaker**: You
+- **[10:32:21 AM] Speaker**: You
+- **[10:33:21 AM] Speaker**: You
+- **[10:33:51 AM] Speaker**: You
+- **[10:34:21 AM] Speaker**: You
+- **[10:34:51 AM] Speaker**: You
+- **[10:35:21 AM] Speaker**: You
+- **[10:35:51 AM] Speaker**: You
+- **[10:36:21 AM] Speaker**: You
+- **[10:36:51 AM] Speaker**: You
+- **[10:37:21 AM] Speaker**: You
+- **[10:37:51 AM] Speaker**: You
+- **[10:38:21 AM] Speaker**: You
+- **[10:38:51 AM] Speaker**: You
+- **[10:39:21 AM] Speaker**: You
+- **[10:39:51 AM] Speaker**: You
+- **[10:40:21 AM] Speaker**: You
+- **[10:40:51 AM] Speaker**: You
+- **[10:41:21 AM] Speaker**: You
+- **[10:41:51 AM] Speaker**: You
+- **[10:42:21 AM] Speaker**: You
+- **[10:42:51 AM] Speaker**: You
+- **[10:43:21 AM] Speaker**: You
+- **[10:43:51 AM] Speaker**: You
+- **[10:44:21 AM] Speaker**: You
+- **[10:44:51 AM] Speaker**: You
+- **[10:45:21 AM] Speaker**: You
+- **[10:45:51 AM] Speaker**: You
+- **[10:46:21 AM] Speaker**: You
+- **[10:46:51 AM] Speaker**: You
+- **[10:47:21 AM] Speaker**: You
+- **[10:47:51 AM] Speaker**: You
+- **[10:48:21 AM] Speaker**: You
+- **[10:48:51 AM] Speaker**: You
+- **[10:49:21 AM] Speaker**: You
+- **[10:49:51 AM] Speaker**: You
+- **[10:50:21 AM] Speaker**: You
+- **[10:50:51 AM] Speaker**: You
+- **[10:51:21 AM] Speaker**: You
+- **[10:51:51 AM] Speaker**: You
+- **[10:52:21 AM] Speaker**: You
+- **[10:52:51 AM] Speaker**: You
+- **[10:53:21 AM] Speaker**: You
+- **[10:53:51 AM] Speaker**: You
+- **[10:54:21 AM] Speaker**: You
+- **[10:55:21 AM] Speaker**: You
+- **[10:55:51 AM] Speaker**: You
+- **[10:56:21 AM] Speaker**: You
+- **[10:56:51 AM] Speaker**: You
+- **[10:57:21 AM] Speaker**: You
+- **[10:57:51 AM] Speaker**: You
+- **[10:58:21 AM] Speaker**: You
+- **[10:58:51 AM] Speaker**: You
+- **[10:59:21 AM] Speaker**: You
+- **[10:59:51 AM] Speaker**: You
+- **[11:00:21 AM] Speaker**: You
+- **[11:00:51 AM] Speaker**: You
+- **[11:01:21 AM] Speaker**: You
+- **[11:01:51 AM] Speaker**: You
+- **[11:02:21 AM] Speaker**: You
+- **[11:02:51 AM] Speaker**: You
+- **[11:03:21 AM] Speaker**: You
+- **[11:03:51 AM] Speaker**: You
+- **[11:04:21 AM] Speaker**: You
+- **[11:04:51 AM] Speaker**: You
+- **[11:05:21 AM] Speaker**: You
+- **[11:05:51 AM] Speaker**: You
+- **[11:06:21 AM] Speaker**: You
+- **[11:06:51 AM] Speaker**: You
+- **[11:07:21 AM] Speaker**: You
+- **[11:07:51 AM] Speaker**: You
+- **[11:08:21 AM] Speaker**: You
+- **[11:08:51 AM] Speaker**: You
+- **[11:09:21 AM] Speaker**: You
+- **[11:09:51 AM] Speaker**: You
+- **[11:10:21 AM] Speaker**: You
+- **[11:10:51 AM] Speaker**: You
+- **[11:11:21 AM] Speaker**: You
+- **[11:11:51 AM] Speaker**: You
+- **[11:12:21 AM] Speaker**: You
+- **[11:12:51 AM] Speaker**: You
+- **[11:13:21 AM] Speaker**: You
+- **[11:13:51 AM] Speaker**: You
+- **[11:14:21 AM] Speaker**: You
+- **[11:14:51 AM] Speaker**: You
+- **[11:15:21 AM] Speaker**: You
+- **[11:15:51 AM] Speaker**: You
+- **[11:16:21 AM] Speaker**: You
+- **[11:16:51 AM] Speaker**: You
+- **[11:17:21 AM] Speaker**: You
+- **[11:17:51 AM] Speaker**: You
+- **[11:18:21 AM] Speaker**: You
+- **[11:18:51 AM] Speaker**: You
+- **[11:19:21 AM] Speaker**: You
+- **[11:19:51 AM] Speaker**: You
+- **[11:20:21 AM] Speaker**: You
+- **[11:20:51 AM] Speaker**: You
+- **[11:21:21 AM] Speaker**: You
+- **[11:21:51 AM] Speaker**: You
+- **[11:22:21 AM] Speaker**: You
+- **[11:22:51 AM] Speaker**: You
+- **[11:23:21 AM] Speaker**: You
+- **[11:23:51 AM] Speaker**: You
+- **[11:24:21 AM] Speaker**: You
+- **[11:24:51 AM] Speaker**: You
+- **[11:25:21 AM] Speaker**: You
+- **[11:25:51 AM] Speaker**: You
+- **[11:26:21 AM] Speaker**: You
+- **[11:26:51 AM] Speaker**: You
+- **[11:27:21 AM] Speaker**: You
+- **[11:27:51 AM] Speaker**: You
+- **[11:28:21 AM] Speaker**: You
+- **[11:28:51 AM] Speaker**: You
+- **[11:29:21 AM] Speaker**: You
+- **[11:29:51 AM] Speaker**: You
+- **[11:30:51 AM] Speaker**: You
+- **[11:31:21 AM] Speaker**: You
+- **[11:31:51 AM] Speaker**: You
+- **[11:32:21 AM] Speaker**: You
+- **[11:32:51 AM] Speaker**: You
+- **[11:33:21 AM] Speaker**: You
+- **[11:33:51 AM] Speaker**: You
+- **[11:34:21 AM] Speaker**: You
+- **[11:34:51 AM] Speaker**: You
+- **[11:35:21 AM] Speaker**: You
+- **[11:35:51 AM] Speaker**: You
+- **[11:36:21 AM] Speaker**: You
+- **[11:36:51 AM] Speaker**: You
+- **[11:38:21 AM] Speaker**: You
+- **[11:38:51 AM] Speaker**: You
+- **[11:39:21 AM] Speaker**: You
+- **[11:39:51 AM] Speaker**: You
+- **[11:40:21 AM] Speaker**: You
+- **[11:40:51 AM] Speaker**: You
+- **[11:41:21 AM] Speaker**: You
+- **[11:41:51 AM] Speaker**: You
+- **[11:42:21 AM] Speaker**: You
+- **[11:42:51 AM] Speaker**: You
+- **[11:43:21 AM] Speaker**: You
+- **[11:43:51 AM] Speaker**: You
+- **[11:44:21 AM] Speaker**: You
+- **[11:44:51 AM] Speaker**: You
+- **[11:45:21 AM] Speaker**: You
+- **[11:45:51 AM] Speaker**: You
+- **[11:46:21 AM] Speaker**: You
+- **[11:46:51 AM] Speaker**: Yeah! Wooacho! Woo! Woo! Woo! Woo! Woo! You
+- **[11:47:48 AM] Speaker**: You
+- **[11:48:18 AM] Speaker**: You
+- **[11:48:48 AM] Speaker**: You
+- **[11:49:18 AM] Speaker**: You
+- **[11:49:48 AM] Speaker**: You
+- **[11:50:48 AM] Speaker**: You
+- **[11:51:18 AM] Speaker**: You
+- **[11:51:48 AM] Speaker**: You
+- **[11:52:18 AM] Speaker**: You
+- **[11:52:48 AM] Speaker**: You
+- **[11:53:18 AM] Speaker**: You
+- **[11:53:48 AM] Speaker**: You
+- **[11:54:18 AM] Speaker**: You
+- **[11:54:48 AM] Speaker**: You
+- **[11:55:18 AM] Speaker**: You
+- **[11:55:48 AM] Speaker**: You
+- **[11:56:18 AM] Speaker**: You
+- **[11:56:48 AM] Speaker**: You
+- **[11:57:18 AM] Speaker**: You
+- **[11:57:48 AM] Speaker**: You
+- **[11:58:18 AM] Speaker**: You
+- **[11:58:48 AM] Speaker**: You
+- **[11:59:18 AM] Speaker**: You
+- **[11:59:48 AM] Speaker**: You
+- **[12:00:18 PM] Speaker**: You
+- **[12:00:48 PM] Speaker**: You
+- **[12:01:18 PM] Speaker**: You
+- **[12:01:48 PM] Speaker**: You
+- **[12:04:18 PM] Speaker**: 26 Six, uh, fourteen, uh, ten, thirteen. Yeah, the dude from Cal, we heard me cheering. He had two interceptions, so that was two of the cheers. And then they just made some good plays at the end of the game. And the Fortunaizer won't lump in on it. We're not going to have time, which is the dolphins, with their 49th place in the last week. I'm making it white-wice, because I didn't You like white-wice instead of the other stuff? What? You don't care about being healthy, not as healthy. I don't find it that I'm healthy. What? Oh, no.
+- **[12:05:56 PM] Speaker**: Okay, well, I'm going to have to make it important soup on it, so you'll like it. I don't eat it, though. I'm just not as fond of it. Well, I'm worried about health. That's antace. You know what? What's going on with my gear? My, my woman. My, what? Huh? I want just what yeah, so I'm the same way
+- **[12:06:50 PM] Speaker**: I'm trying to take away the reason it you see what I'm doing here The smart pairs Okay, we're going to have that. I've watched a great scary interesting drama. It's not like I'm Russian. I had control over Poland and I'm just very sexy. Oh. Time of 1870s. I think it's just turning south again. go ahead. I was just I'm gonna put it in my bathtub so they think it's going to be frosting. Well they're not gonna have to be, they're defrosting internally, they're not gonna leak. I know, they're not gonna go put it in there. They're gonna have to sink it. Well why don't we just put them in the garbage? So just be heavy when we take it out. We need it some weight in there anyway. Okay, so I got And what is the vegetable? Broccoli. Okay, brussel sprouts it is. Broccoli! Okay, I hear you We're gonna have it if we have it in there already Brussels sprouts in the carrots are for long-term use
+- **[12:08:52 PM] Speaker**: Yeah, I'm still tired, and lucky I just had a, just a, and lucky I just had a, um, I'm still young, I'm just tiny and tired, aren't you? Hey, what are you doing? Oh, look at you too.
+- **[12:09:42 PM] Speaker**: It's easy. Mm-hmm. Thank you. Let's show you that. Any more? Yeah, some more. , five, that's it.
+- **[12:10:14 PM] Speaker**: Apparently, it was a big bruhaha ed shirt and tour with Mackamore and the protest, I mean He got kicked, Macklemore got kicked off because he gave Pearl Palestine comments and so they kicked him off the tour and It's crappy. I know. And what's his name, Kraft, from the owner of the New England Patriots, to other concert, other facilities about it. So they were banning Nakamura from being on the tour where they weren't going to let him play if he was on the tour. So he got kicked out. And now Ed Sheridan's really upset about while the band, his backing band, Ed Sheridan's backing band, Ed Sheridan. They decided they didn't want it. They weren't going to play. So there's no opening act basically. because everybody backed out. Yeah, because they're probably all pro-Palestin. Yeah, and they're also backing their own musicians too. Yeah. Because you know if they blackball, if you blackball a musician, but we're free speech then. But then Eric Sheridan had to come out and clarify his position on it. And he is a pro-Palestinian also. Yeah. And he's not in, he's still very clearly not in a Jewish. Yeah, and he's not in a Jewish country. Yeah. Did you not get broke outside? Yeah. Is there? There you have a part. Yeah, it's pretty easy, I think.
+- **[12:12:24 PM] Speaker**: Oh, it's still a little tired.
+- **[12:12:54 PM] Speaker**: Okay, I see it's on and she's out. I see it down there, out in the wrong spot. I know. You're a cheesehead.
+- **[12:13:24 PM] Speaker**: Okay, okay. She's doing this while she's sad. The truth?
+- **[12:13:53 PM] Speaker**: There you go.
+- **[12:15:08 PM] Speaker**: Thanks a lot. what you're going to do, but I'm going to have to do it, what you're going to do,
+- **[12:16:32 PM] Speaker**: I'm going to try to do the heck out of my skin, I'm going to try to help. Okay? Yeah. I'm going to do this thing. No. I'm cranky. I'm going to do this. No. This.
+- **[12:19:10 PM] Speaker**: Do Avec the fire too, I'll have to put together an area where she can take care of it.
+- **[12:21:53 PM] Speaker**: if you're going to be able to do it, if you're going to be able to do
+- **[12:22:53 PM] Speaker**: President Trump said in July that it was more than $13 billion, which is clearly that it was more than $13 billion. Yeah, I'm not going to be without that amount. Okay, and strangely, how did it mean to be in the market? Because it was close. It's APK and GD. All the first months are subject to APK. Yes, and will there, will there are, if you can, the close to the party bonus or not? It was an interesting set. What I would do to decide is, if you're reviewing everything since they've been copied. Well, that includes the designs. I'm discussing the conformance of the museum. I use the architecture of the museum, because if you personally would be then involved, there have been no other public yet. So you would be the work class. What's that? If you would be in the museum, it's not my staff's reviews in every day. Do you know any of the cash flows is going to the U.S. government, U.S. persons, U.S. property? I have no knowledge of that. Stop! We're taking on a lot of memorandums and billions of items. I think for the front page, I'm referring to, you know, the part of the board. Yeah, I know. I don't like the media. People are taking their money to offset those costs. That would suggest those to US persons. Again, this is the one point of the largest assets that's made you ever get all along. This is the US balance sheet. Are the accounts that potentially is managed and tied to only to a sale of oils or are you also taking control of other Venezuelan assets? get him on the money, follow the damn money.
+- **[12:25:08 PM] Speaker**: I agree from
+- **[12:25:38 PM] Speaker**: of an The next time I'm saying, drop-scope theory. That's right, Ed Sheeran, you have pull is under pressure. Here is the bull's act, not the bull, who drops off the day three times a side of the day. Will Sheeran have to cancel the bull? There's a very real risk that he was. Can you hear me, though, this crisis is the worst thing that has happened to Ed Sheeran Since they're heading through. Oh, ow. Oh, ow. This guy with bad music, not the wall. Would drop. But the insistence of pro-Israel billionaires will be crossed. A five-year-old cross being here taking a coffin. He's in an old statement on the Israel-Palestine conflict, saying, quote, I'll go in to work together to build writing. Oh Robert, it's gonna break your heart when you find out who's bombing those. Won't you call Matt to rob a craft? Why is that a terrible part? After being charged with soliciting prostitution in 2019, you pointed one of Jeffrey Epstein's lawyers with legal fees. But not one of the associates with the evil bank guys Epstein had himself killed. What? Ha ha ha. Oh man, it's quite a shame seeing him looking up on his side with his feet. Yeah. He did. I've seen a long standing supporter of Ukraine. They wouldn't walk about as they'd always been a passionate officer of causes that are allowed. The limbo democrats are holding their party conference this weekend. This week, Prince Sian is brother of censor and trapped in power by the claims he makes in his concert at a party in the first place. No one knows who stole it, but it's likely the culprit won't be able to keep quiet and hear the man and then just wait at the door.
+- **[12:28:32 PM] Speaker**: Before, this new research week is called Swarm Zone. It's called up as the white-celled princess. One is a beautiful creature only the royal family will allow to kill. Oh, my God. You're not a pilot. I just thought you were a pilot. So what's the cause of what's happened? Meaning what is the only reason that comes to mind is that you are a pilot. And you're a pilot. Woo! Fuck! You know that they have now a new family. Everything in my life is at work. I've got two lives. There's some time to live. I think this is the only place you need to go longer. Okay. Yeah, that dude, Stephen Miller is evil.
+- **[12:29:55 PM] Speaker**: It's funny, since I was watching the news, and I saw this hero call at the base there's more fucking magic. So it was on CNN, now it's CNN, okay, I can't hear you now, how the one person that works with CNN, that's, that, that, I've never heard it by a class with CNN, I've got Yes, because the Israel thing is on the ground. We don't know where our friend is from and seeing it abroad is actually substantially better. When you want to see it in and you're in like Francis or something, it is actually like engaging in programming stuff. We really are the only ones that you can see it in the way we can see it in. As an example, when you travel the world, McDonald's is still fast food. We're the only ones that pay the taxes. Every other country, they just say what happened to them on the news, they just tell you they're like, oh yeah, none of these people came and the other people came and the first people left and the second group of people left. It's really mostly in the US when you want to do something like that. Wait, every news statement is cut in a promo for a horror movie, you know? Well, watching CNN is exaggeration, yes. So, where Jillian Michaels was on there in a debate that she seemed to have started. We're talking about changes to the Smithsonian and how art and culture shift between poes and powers to dictate how the exhibits are written, who the exhibits are off and everything. And Jillian Michaels was like, if someone's fair, That flavor in this culture always gets blamed on one race. Oh my freaking god!
+- **[12:32:41 PM] Speaker**: Wow! And now race is, that is genuinely funny. Like, look. Look, I'm not gonna tell anybody how to feel, but if you heard the words I said, that said, the Gilliam said, and you immediately got angry, I would ask you to take a step back. I'm not going to say out of field, you'd be angry, you'd want to be angry because it is very short-sighted, ignorant thing to say, but that's precisely why it's so funny. So the way he married, the best way I could describe why this is funny is that while When I was a kid, I would be alone for about three hours from school, I would do practice.
+- **[12:34:09 PM] Speaker**: So I think I've seen this joke before.
+- **[12:35:09 PM] Speaker**: And then the third thing is like, we know that I went to my room and played video games for what it felt like might be the last time in a long time. I think that's what I think. Yep. I think the lock got home. I remember all the noises I heard in the house. I remember the, like, screen door and then the lock. And then the lock's hurting. And then the dead bolt's hurting him. And then her walking in the screen door, shutting behind her, her shutting the door, her locking the door, and the dead bowl. Again, every footsteps from the front door to the kitchen, because she missed it at first. I think you can clean it up. And then every footsteps after the kitchen, back into a living room, where I heard my name. I'm not my name the way you know it's my full legal name, you know what they put on your death certificate or before it's my full legal name and then I walk in and my mom is like what happens? What is this? And then I said, I lied. Are you just gonna blame it on me? Yeah! Oh yeah! The only one there! Wow! Wow! Maybe I was in that plane video game the entire time. Maybe somebody broke it and left. So maybe I'm lucky to be alive right now. Yep. By. You immediately blamed me because I was the only one here. You know, some people didn't look like it was me. And that's how it was killed. And Michael's just doing it with a whole life. Yep. Mmm. Tina used. That's where I told you I learned. Yeah. He wants to admit it. I can't believe you were two fucksmen on one fucking piece of shit. Hey, there's no funny joke that when it comes to the history like that, there are always these bad actors that try to pull the finished strong band out of the woodwork. You know, they always be that person, there was a guy, I don't actually remember his name, and this is before slavery in the U.S. was more based on race and before more people were shipped to the U.S. West, there was a dude that I read about that apparently was of Ashkin's events, and he came over, and he had about two or three plays, and one of those plays was, seemingly, of the Caucasian persuasion. And whether this thing is true or yes, I heard it my entire when wrestling was labor, that there was one black guy who had a white blade. What you got? Even if that's true, that's not what it's known for.
+- **[12:39:18 PM] Speaker**: Jeremy? Yeah, yeah. And it makes sense to me that someone like Jillian Michaels would say something like this. She is from a reality TV show. She is known for the show The Big Loser. The biggest loser was a show, I don't think it's still on the air anymore, so we can't know what the show is. It was a show where they would bring on people who were overweight, struggling with image and everything, and they would help them lose weight by making them do slavery. Yep.
+- **[12:40:26 PM] Speaker**: Okay. I'm getting out of here. Because I'm like that. I'd do shit out. I'd just out. I'm talking. Whoa.
+- **[12:41:02 PM] Speaker**: Swing pile likes rice like you. I'm talking with a rice. You've got to say sticky rice. Sticky white rice. You're a very good one.
+- **[12:43:16 PM] Speaker**: there手 I do I'm in the middle of the building. Yeah, I can use this stuff here. Here.
+- **[12:43:52 PM] Speaker**: In. Cool. Thank you. And I have to take the other hand now and I got to remember which ones are kind of funny now. But I haven't done the key to see Jeff, so I will give it back another one day. Didn't know what I was going to say. Oh, you can see it. There's a hole in there. There you go. Here's the hole you do. There's a hole you do. Try to make it go on. , I've got a fighter at mine now.
+- **[12:46:28 PM] Speaker**: That's really tough.
+- **[12:48:28 PM] Speaker**: It's been nothing but a bitter mind. Right by me, on the corner, does it hurt if it's part of the trowel part? No, there's a The right word I mean, I used to find some damn town From the house you make a right no, we make a left one, it's going on You make that right You make a left one, you make a right You know the right, you can pull the tail part because the part for the catch and the hill, but there's a cow pass very next to it, so it's called a cow pass, you know, it's This is a parking area. Around the corner, they have a part above it. It's a rail side out, it's open space. It's nice to walk and hide. It's nice to walk and hide, it's nice to walk. So you might find the same street as the outside street. So it's right around the corner from the elements before. Prior history is when I'm going to and then I'm going to think about one of the further ones. So I believe it's just quite over a right two-two. And I'm not sure that's true. And um, this is too much for a lot of people. It's horrible to be able to keep her away from Okay. No? So I mean, one of the ways that puts an emphasis on what she's doing This is the mom away from the daughter. This is a No mother's words saying, grind it in a breeze. The breeze? Yes. There's no reason. Just keep your hair straight away from there. I'm still There's no reason we like to swim in the hub. if I should let you go. so I'm turning to go through your abdominal what what what that does I'm always turning because I'm getting bloody done that time
+- **[12:52:03 PM] Speaker**: what?
+- **[12:52:11 PM] Speaker**: I think she's over her oval she's sitting I'm so grateful to hear it. Yeah. You're going to be surprised. Mm-hmm. No, what they would do. It's here in the line. But I have something to do there. I have something to do. You say that I shouldn't be surprised. And you can finally remember, you know, the harming spirit, when the reality is, is that the day of the one is the greatest, the right thing, and it doesn't need to be at this stage. That's what happened in the end. We don't know. Actually, one time, I left the next four measures, and I told you this plan, I know them too very well. I was wondering, what am I going to do? Pretty much. I heard that there was a time canteen with this moment. And it was a work time. Oh, you know, that's not true. So one came out when I was there, and I said, hey, anyway, he said, you're childmaster. She and I got along, they were next to me, but she was like, I don't do it. So if you told me that, and I was stood up so nice, I took a kid, I took him up at 4, I told him that the CPS is after me. I told him that. He's He's after people. And I'm in good shape. I took care of him. I was being a good dad.
+- **[12:54:36 PM] Speaker**: But I'm going to write. There's no stretch minutes in sign. So that day we had a dog in front. They wanted to keep her away from her. George and Julia were on the table. But I think I've got the word, George. Just by it. Here's his weapon now. By example, the woman has more control. So, someone talks about it but I don't want to disturb it. You know, but I wanted to say on the power line, you move up to her and I'll do everything. So, it won't be too much of a push, but I want to tell Ryan to use all the tools and resources If you have the variable, then it's again and again. Especially the minimum.
+- **[12:56:15 PM] Speaker**: I'll say one more. I think I'm going to take a big, big, big powder. I'm going to take a big, big, big, big one. Yeah, I told her about being honest with me. I said, my family is really good with being honest with me. She wasn't telling me to do it. She wasn't forthright with her. Yeah. She wasn't forthright with me. And the color I'm fine. Were there right now? But besides seeing real interrelationships. And I'm going to be open with her. and I think she, what to look into anymore, you know what I do? I'm glad she's doing it right now. I'm going to go out through the door again and go back to the center and try it out. You know that you need to be able to pick that up? Yes. I've already picked up three. I have a chapter on what I wanted to do. Okay. I'm going to pick up 11. Four lines. Three lines. Four. Three. Two. Two. Two. Three. Three. I'm going to have to go down. Okay. Because I've got too much going on. So, um
+- **[12:58:39 PM] Speaker**: I'm touching the bell, and I'm not talking about it, and I'm having a lovely conversation. So, I mean, a lot of times I say it's mild, I'm still under the evening, so I need I hope all is well, my brother, my darling, my brother.
+- **[1:00:03 PM] Speaker**: What is that? He has a must-have suit. There's something there. No, there's something there. Oh no. Oh no. What is that? There's something there. Oh no. Oh no. Oh no. Oh no. Thank you. You too, Mike? Yeah. You good? I am good. Thank you for being out loud. Yeah. I must keep you busy, I must keep you busy. Mmm-hmm. You are good, I am good. I am good, I am good. I feel it's fine. I'm going to go in here. Hmm.
+- **[1:01:11 PM] Speaker**: I'm going to go in here. I like the place that I'm good. The short game. It's different when you watch the whole game play by play, though, you get the drama. It's, you know, it's all about what's going on. I'm just going to do another thing, watching the game, you know, what's going on, a little been bored sometimes and just hope that I won't see anything that's going on in a second.
+- **[1:02:20 PM] Speaker**: And we welcome you to Santa Clara, California, week two of the National Football League season I don't think he was going to stop right, since it's all in the distance and so forth. Second down. This time, the old time, this timeline is you, Jay Herman, and the format, almost for a little doubt about it. Fred Warner knocked his out. Thank you. Second down, ancient again. Thank you. The first down is the reason only makes this happen. On the third and third team, Rollins, over the middle, H&W, the catch. To the 33 yard by now, it's one of the first down. One. This one's 51. And it gets up to the wide right. It's no rollin'. Ah.
+- **[1:03:37 PM] Speaker**: Trayette Tucker had a great game because the one I was cheering the most on the offensive side. You got two touchdowns. Awesome.
+- **[1:04:18 PM] Speaker**: Touchdown. The capry.
+- **[1:04:51 PM] Speaker**: Parade 1 and turn 4. 18-oh, and vanage. That they have lost the game in sunset section 26. Summoning the tackle is going to wash in so many in the first half to order 39 yards over an mainland in search of contacts. Think it worth looking at from just an actualстhing smallytic. I stamp bets in count the day after the replay. 18- Some football players— you respect the A-chan? I can't on third of the long of the first shot. No. What's this? What's that? 8000. What's that? I had to say that. But it's close, so I'm a little bit out of the first shot. First down. You can go on the show from DJ Humman and it is in first down. Boom down and five. That shouldn't check it short. 8000. What's the block first and what? Good move. You get the first down. You gotta not dump the gun. Stop with that. Oh, another guy. Is that 5? Is that five?
+- **[1:06:30 PM] Speaker**: in a tower three Perti . Perti. Perti is a good quarterback man . Oh, get up. Oh. Yeah, Purdy, he was the last person drafted in the NFL draft. Like, number 300. He was an afterthought. I said, oh, take this guy.
+- **[1:07:29 PM] Speaker**: four and Another feel goal 25 Party Touch down
+- **[1:08:40 PM] Speaker**: Oh
+- **[1:08:49 PM] Speaker**: The lockers get stuck in there. Oh, I want you to see how it's going on over here. Oh, good thing. But he's one of those guys. He's spreading for production every day. Oh, but the middle and there's the middle. I don't think there's vibrations. And that chip on his shoulder, doesn't look like a pass to the middle. It's middle of the field before I want it. I don't think there's any more. Oh, how do they get Evans? He's a good receiver, man. Oh, you check. Use check. Yeah they're rolling. I think it's 28 to 6 right now.
+- **[1:10:06 PM] Speaker**: Cause I'd like to know if you have an aspect of all the work inside arms, I can shoot star sets to tie junk guys out of bounds for the 30 milk and meat
+- **[1:10:23 PM] Speaker**: Touchdown
+- **[1:10:36 PM] Speaker**: 35 to 6 now still a third quarter
+- **[1:11:06 PM] Speaker**: 4th quarter 49ers highlights Oh
+- **[1:11:45 PM] Speaker**: Wow get away from that
+- **[1:12:04 PM] Speaker**: back up quarterback is in for the 49ers now I think that's to do oh oh Wait.
+- **[1:12:34 PM] Speaker**: Touchdown. I'm trying to do it! This thing's going away! Oh, I am touched now! What's up, buddy? Just a little bit of a blow away here Is it a red-green-world cup and a green? You see me, you have to get into the bathroom. Where I know how over the top I think so? A triple-girl, triple-girl girl's fits off.
+- **[1:13:17 PM] Speaker**: Really, you're that on row. That's where the final is the process. There's you at least lowers the blow. That's where you can move on. But I just wanted out. It sounds like you're able to do the game that people People who are protesting the police are hammered. And I just would reject that. It's about good protest that the police are for. But you can go for it. We're all about to witness exactly what makes for me, you're only like to talk about us on, but never actually talk to us on. They don't want to platform this idea. They want to highlight the most contemporary things you've ever said. Meanwhile, hiding what is true politics is. Let's get into this. There are class positions. I have a question. What time do you stay to work in class? Who are you talking about? Besides, I think that I'm willing to be a definition of change. Yeah, I think that's it. And, you know, I am from the heartland. I'm originally from the Hanabrasah. I keep before, too. I was literally just home two weeks ago. And there are a lot of people right in the heartland, but sometimes the people say, working class, they are not talking about like the people that work with my dad. So, who are you talking about? I'm not talking about everyone in the way laborers. The working class in America, this is actually something that I always stress. Because there is like a branch of message stock or academic studies in that that makes it seem as though the only definitional working class is just like mystical, hard hat wearing, white guy wearing in West Virginia in the coal mine. They're a part of the working class. The working class is also much broader than that. It is every way, labor, regardless of color or creed or ethnicity. So that's what I mean when I'm talking about the working class. Okay, so I want to follow up here. So it kind of feels like you're like, when you said a lot, actually, that the number one problem in this country is, you know, the American class confidence. And I keep coming back to that because I just like, who exactly do you think it would be? Because I don't, a lot of people that I grew up with, through upward, people that I know, ask the last question, sir. Yeah, what I'm talking about that, I'm definitely referencing people who do not recognize, but do not recognize that they're being stood over, right? Being stood over by the Republican Party, being stood over by their bosses, being stood over by the force of the capital. It's not an EU concept. is actually a fairly old book on the book. You tell them, Hassan? Yeah. It was for Hampton's idea of accomplices, who also liked, I'm trying to bring that onto the metal morphed up to play. As far as the attitude of I could vote like, I think the question you have is, yes, when people are very much conscious and very racially aware, because white supremacy is foundational to American politics. So in some of the sites, my role, my job, He's trying to get people in the margins who are maybe in the middle a little bit on these issues to understand their class position and recognize that it's not actually undocumented, like there's a black people, or something like that. That's the rule in their understanding of the beautifulness of America. It's actually the way that tap over the world, is there a liberty? That's right. their quality of life, year-over-year, and have faithfully sold them out after a human use of industrial towns all around the country. You and me now. So throughout this whole interview she's essentially trying to date him into this idea that he can fight Black or that he does not care about the Black electorate. She keeps suggesting that he does not try to include or teach any Black people or any She keeps trying to get him to defend himself against that person. That's why she's doing this for him to bring up, that what he is doing, it isn't anything new. Justin Jackson is with the Rainbow Coalition. That's what Ray Hampton tried to do. It is as if he has no knowledge of the Black Liberation Movement's work. Would they feel so? But because he is so deeply wounded within the establishment, she can't see what he's actually proposing. You have to talk about politics, they need to work with men, put people like her out of it. Good men. You talk about being in theory and being provocative. I think you mentioned in college of provocation, education propaganda. I think it's propaganda. Yeah. And that you plot people down on purpose. And I think you're talking to me. That theory. What is the provocation for social accomplices? are you trying to provoke? I think it's twofold. One, it's to provoke the opposition into taking a legitimate more honest about their intention. But it's also to get people to recognize certain ongoing and historic atrocities. One example I use fairly frequently is the one that I addressed on Saturday of America as well I will talk about Hamas or even if that was done worse than Hamas. It's intentionally provocative, but it's also not humorous. But no, but like he had no idea when he did that. No, that's true. And you know what I mean? Okay. Well, here's the thing. In Hamas, it was just fundamentalist operations that have engaged in violent actions. Of course they have. Absolutely. But that violence is directly born out of. And even that expression is directly born out of the conditions brought about by the occupation that's been going on for 80 plus years. And not only that, but I think it's a good entry point into the conversation from many Americans who also understand that what he's really done is unconscionable, is unacceptable. Many of them are also now coming to the recognition that there's also been ongoing occupation in the hard times. And intentionally provocative statements These two challenges, these three issues, such as these that many Americans have that are syndicative about the Indian boy, but not exactly understanding of why Palestinian fight back, or even aware of the internationally recognized right to those indigenous, that the Palestinian resistance has. I know we don't wanna get into like a 20 minute conversation about Israel and God, we have more questions we wanna ask. But I just wanna go back to you at the point that he said that he doesn't believe that, he said yes. Do you understand that by saying that, if there are a lot of people, if you say that, you say one, you have to be answered after the two, or I got to be your survivor? I've been in Northland violence in no different one people say that, you know, they as well as white to defend themselves, that Israel is in the, there's been more, more country in the Middle East. It's a democracy. It's an apartheid. But Northland, but that's not my point of view. Can I just go back to that time? I don't want life. And I talk about Yahoo and the state of Israel. There's a question that, do you, it sounds to me like you are enjoying violence for, because you think it's justified on this particular issue. And somebody was, that's how I heard it. I know that's how other people have heard it. So do you understand that that's how people hear it? And is that what you are enjoying? So again, it goes back to the same dynamic, right? Structural violence in state violence is oftentimes to be invisible. So when Cigil is a state that is operating its normal state function, and sometimes it can come across as excessive, right? It's not seen as violence. It's no different than when people, when people process against police violence and police brutality, the brutality of the police is systemic violence, and therefore it's normalized. It's made to be invisible. Yep. Whereas when people process against the police, that is all of a sudden chaotic, that's all of a sudden violent. It's never violent when the police actually really hear that on protesters. This violence is the protesters you least lowers the blow that's here that's happening. I just want to know, it sounds like it's never going to be the day that the people who are protesting the police are hammering. I just would reject that. It's not my best protest in the police before. But I think it will go on. I think that this is, this is the whole point though, this is being our point, what is the exceptional nature here? Um, if we do not have, if we do not make the same distinction, uh, about the A and B that also was, uh, engaging art and struggle against the part that itself, that's what that is. Yep. What is the exception that we made for it? Not to come off, but to tell us any militant resistance in general. And that is the, that is the key to, at the heart of the matter, people want perfect victims. whether they be black people engaging in the civil rights struggle, historically, whether it be the forces against the partite of South Africa, whether it be as the liberation struggle in Algeria, the expectation from the white minority, or the expectation from people who enjoy the order that exists in civilized society, is that people are not supposed to fight back and try to even match the intensity of the violence of the occupation. That's right. So if I am to reason why I make this decision, that's the reason why I bring this argument forward. Because I want people to start thinking, what would they do in that situation? What would they do if they were in the world largest open-air business, a medical field, and the nuclear-on-state that is backed by the most powerful entity on the planet? This is a black dude that's supporting Hassan against them who are trying to bring, you know, yeah. Anyway, I will, that's a great Hassan did very well there. Here's another one of those things that can be very limited to their raise their prices They're going at doing all kinds of shit, right?
+- **[1:24:22 PM] Speaker**: You know, it shows big time when they have a podcast after we've seen it. Yeah, I'm great. I'm not going to jump. It's a punk. That's a man. you did it. We did it. We did it , I didn't mind, John. John did well. Oh, slow down. Hmm? That's good. Come on. What's that, John? Oh, okay. I think so.
+- **[1:26:09 PM] Speaker**: I'm going to have a few sets. One day. A little bit of green. I got the shielding. It's fully engaged. We're happy. Oh, that's right, they were together then. Oh my God, I am so proud. So you say, no, it's the more you want to know. You guys, you are spending a specific way. Take it. I believe in this moment, we'll remind you that the day that night, that the dawn of finite understanding, nothing happened. Through this door, our world's world that have cured diseases that still have us out. Through these doors, our world that have reversed climate change, saved species of extinction, crushed poverty. In these doors of the world there are more. It will be nice, wouldn't it? It will find the best technology. I will bring them all. The problem with these things. to capitalize on the personal game.
+- **[1:28:48 PM] Speaker**: So he has other ideas already, you can see it in the space already, it's pretty good acting. Yeah. Come on, first. Can you move me into competition? I'm here all the way up. With some new lunch for a little sit right there. There's so much you don't know about how it all works. You should put the pedal down on the treadmill. That's the mental condition. Yeah. That's from my precondition. Just a few. Okay. Anything you say about it? That's nice. We did. Yeah. Come on. a Okay, let's try this again, good place, where I would get stuck over, but if you weren't Oh, I'm thinking about the gun. Same place. Whatever it is, I'll go. Just like. Like. 并未来来来来. But I can't. In a life again. Nothing is open. Yeah. Yep. Come. Come on, be right. Yeah. Come as a bitch. Come on. Come on. Come on. Come on. They can't, because of the relationship, yeah, anyway. Well, maybe they could go there.
+- **[1:32:06 PM] Speaker**: This is the guru version. Wow, TV's doing? Yes. You can go into supervision without it. if anybody can. Well, just I'm sorry to know. It's fine. It can't. I had a job in humans and it's only for me to know. It's not family life. My grandfather. It was a lot of the courage, it was a lot of points, more sense to the body. It was a lot of depth of practice. I actually thought there was, but I'd like to introduce you to any of you guys. It's kind of cool, I'm just giving it an apple to one of the same, five of it's very weird. Oh, and I've got it. You know what I think? Yeah. I go by local. And it's ketchup. Great. I know it's a season. We've got to go by late, but I look off late. That's it. I'm good. Did you move? Did you move like you think? Ah, wow. Ah. You did it? You did it.
+- **[1:34:41 PM] Speaker**: where it's sort of glitches in the simulation. So I need to wrap what's happening right now. This is much quicker. My father and I were both killed when I was young. My parents just realized as far as I am, I need to be sure that I will start to turn this rule physics into your science. And I'm a giant, because they've been incredible, so I'm conscious of it. the school, I built a box to give it a look, put it in the game, and so it was like that. For the same person, they have entrusted us with different lives. It's a must to ask for a friend. no. I say I don't need you. Okay. I don't. Hello. Hi, my name. You build your chemical.
+- **[1:35:54 PM] Speaker**: I need to call this clean. Clean. Take a bus.
+- **[1:36:06 PM] Speaker**: if I can do it, but I'm not sure if I can do it. You'll find that bone which seems to work back and forth, but you'll be specific once you know from the cat rights and then make sure my lilac wouldn't crash. I wish you the measurements. Did you have to? I'll have to go right to the back. Is this what you thought? You know, this is just where I have to work on my life and your ways. It's easier if I just show them. Here we go. Can you move the guy to the other side? A lot of fun drinks and drinks. This is easy to live with. What is going on? The marigolds, the radiois, the maintenance cable. The gas machine, the tape is ready to pop. You've got the gear from a truck to a vehicle screen, so I've never seen such a thing. I just want to introduce you to the main banks of this one, to help you in, and I'm sure it's not going to attract you in there. What, I'm sorry, I'm trying to see you. Hello, the door one now. What is work, though? Sorry. My buddy is too. You know it's great, but not for you, but none of us. You know the results back. It's what we made. It's a 99.87% match to the actual match. There's some models. Mazuma. Oh. Hola. I guess now this is a good time to say hello. Now that the box is back, they want to move it. I'm studying it. you don't have much time. Also, I had a visitor before they moved the box. Another lady. I have years actually. I want to join some doctors without multiverse borders kind of He's building the technology to even that work across realities. Whoa! So he wants to build a perfect world. I don't think I want to know. What did you say? I'm ambitious. I have ambitious equipment, but, uh, taking the course of an entire world as soon as we got the level shoot. I'm going to sit around with that. Why? I heard that. That's the only way to have it. Do you want to go ahead and buy yourself? Do you want to go ahead? I think it's interesting to see what you're going to do. He's going to teach him all that I was doing. other reality, our own ideas. And I can't support that for my fluid. You could reach out and test it. Those are theories in front of the world. What are down? What are the ways of points? Then we start to realize sensations and minds. I'm going to get more complicated, isn't it? We know these people they're playing the cops
+- **[1:41:21 PM] Speaker**: Turned out to be reaching the free from the cortex. Did you notice that? No. Not. Okay. What is that? What's going on?
+- **[1:41:51 PM] Speaker**: She's thinking about what you're going through. Left leg. Left foot. Left feet. Left foot. Do you want to talk to me? I'm going to talk to you.
+- **[1:43:11 PM] Speaker**: Stable world, peaceful world, one evil mind now, business, I think I do the blending It was competition, it was like racial discrimination for CCP here, but it was a full-cut scene. But it doesn't mean it's going to fall right, you know, it's criminals or things. Maybe that's the disadvantage like racism. Go to war, you know. After that. And war! is It's a performance center, it's an art center, I know but they can, yeah, it's no pool. Okay!
+- **[1:45:05 PM] Speaker**: What would you call the pinhole? Ok. Emphan.
+- **[1:45:26 PM] Speaker**: Hmm? Where's people? There's a closet? Yeah. I can't find anyone. Yeah. I can't find anyone. Yeah just to be next to him. The next an Knight. Hi, we're looking for computers. I'm sorry? Do you have other computers? No, we don't have computers here. Okay, thank you. Go back and talk about the worst or the worst. I think her piece will go out here. No, I don't really have. I really don't have the 20 issues left. I don't have the 20 issues left. So I don't have that color mark. I don't have the question, no, the glasses left here. And I think I know why this world is so categorized as high as I am. And everyone can agree. Wait. Yes. This world. It's never got to be known. Why? It's a joke. This is probably measuring whether or not you're going to be able to draw a direct result of the risk of a spin, not like I was kissing in there. It's not entirely true.
+- **[1:47:37 PM] Speaker**: What?
+- **[1:47:46 PM] Speaker**: I wish I was the one who was the person who was the person who There was no such thing as the parents checking up on me all the time, so I found two points. I think you may have just five in a row. alumni five hundred I'll give you one to help out. Follow me, darling. Do you want me to do that? Yes. Okay. Let's go on my hand, honey. Oh, no.
+- **[1:49:59 PM] Speaker**: You can't see 25% of it. Uh oh. You got to pay 25% for that? Oh shit. Just one doubt? Yeah. What happened? It actually drives me. So, thank you for coming to my house, Mr. Ratham. So, if you need me to get any jobs, would I get some? Uh, anyone? Huh? What? There's one just Keeper boy. That's all. Hmm. So, what about school? Right. I know making money is the main thing right now, but not because I have jobs We, maybe figure that out. That's like literally the most important thing I've ever done. Yeah, you can't do girls. no. It's not as famous the cost is the same. I agree. We are strangers in a strange way. You need to try the way you have to be careful how to park.
+- **[1:51:39 PM] Speaker**: Just gotta destroy it.
+- **[1:51:53 PM] Speaker**: It's a special material, just my hair, there's nothing very a lot out in the meantime we don't want to fall behind. How long does it take? So if you're joining us as a senior, you're going to have to serve with your anger until you're within our zone. 25 more walking steps. Perfect. And now I think you have a phone number for emergency contact. No, I don't actually have a phone number. to add that to the list, along with your own birth certificates, with immunization records, group of residents, and with transcripts. No, type world tricky. Are you reason why you were okay with it? He had a high fire. I would have asked everything he wanted to do on paper. I am so sorry to hear that. Thank you. You know what happened? You had your social security members, You'd be surprised how quickly they were supposed to do this thing. I'm going to have to say, really remind you of that stuff money. So, are you? You know, a lovely woman named Daniela Justin. She's very involved in the PTA. Uh-oh. Could be her twin. I'm here. Where's the other one?
+- **[1:53:47 PM] Speaker**: Very good. You want me? You trying to talk to her? You made out. She's upstairs now. You never want me here. What? How was your day? What was your day?
+- **[1:54:27 PM] Speaker**: Sorry It's all right to go I'm talking to all of you, I'm talking to all of you He can't go back to school, he can't go back to school. I am the girl who knows that as a pregnant man it's in there, so I have a number of someone that may give her out of it.
+- **[1:55:41 PM] Speaker**: Good. Should I look at this to my touch on the death of my child? How much is the pregnant? is heavier, it's heavier, heavier for the lower.
+- **[1:56:10 PM] Speaker**: Also, it's getting in the power.
+- **[1:56:18 PM] Speaker**: how it plays. I think why would you leave your chest. Who would leave? Best friends So if you're not too close and 還可以聚 next. You get to do that, right? Do you need background checks? Absolutely. Yeah. You got some mentoring? Yes. Jason? Daniela? And Charlie? Yes. You and Pamela? Yeah. Well, because I just want to know what anyone we look into or, you know, Lewis, my type is, is that what I'm dealing with? Oh, and well, so let's, yeah, what might those people be looking for? That's the last deal we had, girls. Employee directed. As you can see, they're on the first stage. Who's happy? Really? I just want to know if anyone is looking in the West, what do you might find, and if there's any way that it could connect us back to Chicago, it'll not be sharp. Maybe not striking, or which else? It helps find out what I was looking for. I guarantee its own confidentiality, among the living. Listen. We are just looking for a new sky. All three of them. Yeah. Ok you can see the Chicago Hey! What do you talk about when you're not in training? That seems a bit more secure growing up out there. So I guess it's a good idea.
+- **[1:59:24 PM] Speaker**: I'll just use that.
+- **[1:59:38 PM] Speaker**: This is my city. So, we have to add a video of today at the moment about to reappear in that part of it. Most people still think it's just by the idea of installation for the seed to be quite true.
+
+---
+
+## 🎙️ Session 3: 2026-09-20 08:09:48 (5h00m)
+- **Source File**: `2026-09-20 08_09_48.mp3`
+- **Audio ID**: `of_3299e52a519918755af90015101e5ad8`
+
+- **[00:00 - End] (Speaker / Group)**: - **[8:09:48 AM] Speaker**: You bring life, you're the one that said you were the one startled when he's like
+- **[8:10:00 AM] Speaker**: Well, you saw people coming by our cars or something and then
+- **[8:10:09 AM] Speaker**: Bright light, you know you said that. That's what I heard a little thing And you must have been, , there was some interesting stuff going on, I kind of
+- **[8:10:25 AM] Speaker**: What was the way? Love is that you remember. Right light, right light! I was saying in the tenth door, get away from the door! I didn't hear all that. Oh good. But maybe that's some of the stuff I was hearing because it was so muffled and it's like okay I can't pay attention to this stuff. I got to go to sleep, you know
+- **[8:11:07 AM] Speaker**: Did you think of having dinner with the folks on Saturday nights at 26? I see you already recommended that, so I have to work and the other day I also have to Okay, let me check my schedule I'm free
+- **[8:12:06 AM] Speaker**: Hmm
+- **[8:12:14 AM] Speaker**: Oh, oh yeah, well, I mean, I did can't officially cancel the meeting, but we if you want I Think that we could do like a a mini council on you know talking about that if you want Yeah, we could do that and we could, you know, I was trying to document yesterday. I didn't, my recorders didn't all go through. They ran out of battery and I was just too much to try to manage all that. But I did get some, I did get more information, maybe I'll look at that today. Did you have a bunch of notes that I stopped with the questions around? Yeah, what the bee was working the whole time, I only used the different spots for sparingly for like the important things that were going on because at the very beginning I think I did, and I did it for the mirroring. So I have that. And then we only, like I said, we only had two meetings that council, I mean, we'll reset as council. Maybe it was three. I'm sorry if I reduce root decay three. Yeah. Um, just know if I say that for some reason I have my head. It's three. Um Yeah, that would be fine. We could do that. Um But what I'd like to do is maybe eat and then I was doing that Yeah, since we're not Yes, not on the calendar and I advertised canceling it already. Um, I was just looking at what is this? What is it? Cancel it, I don't understand, oh it's, these are the groups, shoot. I don't see any issue with us doing it at a regular time, but it'd be a more spontaneous one. I only have Google Me, Google Zoom is for the Scon thing, I have to go over there sometime for my thing to set up the zoom in the room to see how it's going to work too. So I got to build a little kit in here, but I have to meet Ryan, so I'm hoping I could. Oh, yeah, I'm arranging it for, I'm trying to arrange it for Monday, but here. She hasn't replied yet back on. Okay, well she wanted to go there today. I'm not. I already got I've already not going to do it today. Okay, so I already planned today is the Raiders game and I have one to get myself lined up.
+- **[8:17:02 AM] Speaker**: I am the area kelvin leaf, there's all these, but I think the kelvin leaf is already here except the half of foot.
+- **[8:17:47 AM] Speaker**: I'm sorry. I see the It was more religious take than I wanted to, but yeah, I saw some of it. Eleven is a person, a tellery cove and Kimmel, but it's more the same kind of conversation we've already heard, so I think that was a week ago, we think that was a week ago.
+- **[8:19:48 AM] Speaker**: One o'clock, paramount, it better be, I better get to see it, because I have, I don't to be upset. You're about to say aye. I think. I'm sorry. Go ahead. Here's Morgan was interviewing an AI personality and she started glitching and started speaking can't knees. Yeah, I don't like that where that's going in AI person is not a person. In fact, that's actually a big thing that's come up and I think Montana is actually leading some kind of a charge, or it was against Citizens United. So there's a big backlash. Yeah, so what it is, is this part of this whole corporate backlash. It's like corporate money, corporate, you know, billionaires so this is a good sign that Montana is doing yeah yeah I'm seeing a lot of good signs there's some other people that were going into somebody with video I didn't watch it but one of his first lines is that you know when we We think of Tennessee, we think of it as a red state, but we need to stop doing that, you know. And he went through the whole pieces of his, his, his, his why because it's a, it's up a, a misnomer, they're just not, they have a sense of principles and values that make them quote a red state, but not all those align with what's going on. Yeah. So anyway, and how it was. It's from one of these guys that are who live in Tennessee or. But I think he was wearing a very left t-shirt. It was really funny. It wasn't even a political t-shirt. But you could tell it was like some band, you know. It's, you know, whatever. I think my former sponsor, Shannon, was in time to see it. She's very much of a kind of person.
+- **[8:23:27 AM] Speaker**: Yeah, they're really good. See, I'm meditated for I want to say just a hair over 30 minutes. Some teacher, I think, was how we, when we were talking in our group circle, said, ultimately, mindfulness of mind is really what's going on and so I took that as it is and it is true actually so all the the teachings really are about the mind and applying it and so what I did this morning it caught mind training but I don't like that because to me training I mean, it is a mind-training, okay, so you know that. But you're taking dominance over your mind. What you are, actually you are, you're training it, so, but to me, training, I try to think of training in a more gentle way versus like you're forcing it. Sit. like a put, yeah. And you are doing the same thing, But I like that you are, yeah, you're doing that. And I just think it needs to be tempered because what ends up happening is that when people think about that and then they see how difficult it is, then they say they can't do it. And the reality is is that we might be better at applying our mind at times, but it's still unruly, right? And, you know, I still get angry. I mean, you know, that's what I was doing this morning in the meditation is a lot about Ryan came up. And so I let it, but I was anchored in my body and I was watching my mind. I was watching what was coming up and I wasn't forcing it away to try to force it to the breath. You see, that's what I'm saying. That's what they, so that's that you can do that. But I think in some ways, if it's not going to do it, why, you know, why I force it, you know, and what you can do is instead make that your object as long as you're anchored in the body, that's right now you are not the thought you are observing the thought and that's key I think because then so that's what mine, that's being mindful of mind. And so that includes my full of feelings. Pleasant or unpleasant, right? Includes everything and I includes mindfulness of mind objects, which includes sun cars and you know the aggregate and say hindrances, includes everything. So there's nothing excluded with that. And yeah, to me that's a healthy way because they wouldn't have happened. It happens is as you observe that, then you go deeper into the body and the mind becomes calmer. And you know, I'm saying because that it's a it's kind of like the river. It's a it's a byproduct. And guess what you're doing, you are training a mind, but you're doing it in a way that's just taking what's there and not trying to force it to go anywhere. And then what happens is it naturally becomes peaceful. Naturally becomes calm, your breathing slows down, but your karma is coming up. So you're actually dealing like, I had pains coming up this morning and things like that, you know, it's like, okay, some of those are actually body pains and some of those things that were the mind is actually co-creating it, you know, it's because you, how do you feel your emotions, or you feel them? So when you feel those things, or how do you feel what your mind does, well, you feel it. So it's like for me, it's like this morning, I had the thing where I had this pressure like I was grasping. So okay, guess what? I was grasping in the mind. So in the body, so I just just watched it. And then it was there for maybe a minute or so. And sometimes it happens, it stays longer than that. And then you think, oh, I'm creating, you know, I'm doing, you know, I like, you know, all the, you still have to work with the mind, whatever's coming up. And guess what? It went away, and then it came over to the other side. But otherwise, then it dev- yeah, then it dissolved, and I was feeling great. So, it's just, to me, that's what the whole- that's the training, right? That's the practice right there. And then I got to experience some pieces and serenity from it. So as you're taking advantage of what's right there, and watching what the mind's doing when the mind starts throwing up, I'm broken, I'm this, you know, all these things in there, then that's what you got to watch. That's your karma. But you can't be angry with it. You can't compound it, you know, then that's your karma. So when I used to teach it at Asia Acres and all these other places like Be mindful what's there. Just what's there? Just look That's it. That's all you have to do is just look Well, no, it's not bad news It's not, see, that's what I'm saying. It's not bad news. Words of bad news come from. It's a judgment of it. You see, I'm saying it's not necessarily bad news. It's just what's there. It is what it is. And you can't fight with what it is, but you can be present with it. And then this is where, you know, and this is how it comes, I mean, some things. That's what I was saying karma. Just why edit karma in there. That's the karma. So if you judge, if you're judging then you're judging. Yeah. I got it. So anyway, I thought I wanted to just say that. Would it be a good shopper early? Okay, here's our planning day being chest we can we can go shop early to do yeah we could shop early that's fine and then I also have to make breakfast I was gonna make oatmeal for us and there's not enough a lot of stuff to put in it so you're gonna have to put in your Well, you're raising things or one of those things are okay, okay But I'll make that here in the next 30 minutes
+- **[8:31:40 AM] Speaker**: So yeah, you asked your parents on the 26 Yeah, let me be clear. I don't have any conflicts. I was I was joking when I Yes, it is. I saw. The only one that I have for you, I just want to be sure. Yeah. Let me just see here. 26. That is question exchange in the day. my aunt's, oh my grandmother's birthday, RIP, that's fine, block it and if it changes, just move it, okay? Okay, I will, when you're finished with your morning routines, then I forget the phone. It's not been charging right, it's my fault too, so for it, I can phone, now I'm doing something wrong. Now, something's going on like the computer's going to sleep and I'm in a wrong plug and Okay, just let me know when you're, you're ready. I'm doing that. I'm just gonna put it on the counter. I'm sure it's okay with that. Yeah. They offered it still.
+- **[8:33:56 AM] Speaker**: I'm going to come in and block the trailer in 14. OK.
+- **[8:34:26 AM] Speaker**: thank you uh oh my gosh thank you
+- **[8:36:50 AM] Speaker**: I'll be right back, I'll be right back, I'll be right back.
+- **[8:56:39 AM] Speaker**: I'll be right back, I'll be right back, I I'm not sure if I can do it, but I'm not
+- **[9:09:09 AM] Speaker**: I'm going to do a little bit of the same. Place it.
+- **[9:14:43 AM] Speaker**: Looping your right. Okay.
+- **[9:18:01 AM] Speaker**: Okay, I was going to order something this morning. Yeah, I have that much. I have that much? Sure? I have maybe less. Did you get it online? Do you have any trouble with that information? Yeah. What's I call it? My name is Jeff. Yeah. Can somebody write something? Yeah. Yeah, I have a whole bunch of them, four bars, there you have,
+- **[9:20:54 AM] Speaker**: They have a peppermint fairy stage, to the role of D.V.O. with old milk one. Oh, I have a, by the way, I have a, In Halavere. No. You can go over there. Peep. Peep. Peep. Peep. Peep. Peep. Peep. Peep. Peep. Peep. Peep.
+- **[9:28:38 AM] Speaker**: I'm going to do a little bit of the rest of the work I'm going to do with the rest of the work
+- **[9:44:36 AM] Speaker**: Are you hungry? Okay, I'll make something in a second.
+- **[9:49:09 AM] Speaker**: I'm going to put it in the water, and I'm going They're not open on Sunday anymore, are they? Yeah. Yeah. And you're probably cutting back on it a lot of that small fat Oh shit, this was closed and it's frozen over. Look at it. Look at it, the whole thing is all fricking, whoa! Whoa! It's a pretty hard Sorry. Okay. Hmm, wow. Well, we know what smells like. Yeah. That should regulate itself. Hopefully, yeah. We'll see what happens. Um, okay, so I was just gonna get the butter out. Okay. So if I was to come and do it, I'd know how to do it. Uh, I might, but that's right, I just wanted to take it out because I know you'd use it We're preparing this. So we're talking about sitting in our pod last meeting. Our beginning. Uh-huh. We're on the other side of the thing. Okay. I might have to count this in the next minute. In November? Or, or that also in October? Maybe later in October. Okay. I might have to treat this as a reminder. So on the evening. Okay. Okay. So where's that? I might have to go to the bathroom. Maybe we could have it at the parent's house. I just joking, I knew that that would be a problem. I'm so happy. Yeah, well, what do you do? You're back around and you're back here, aren't you? Yeah, I'm so loose. Loosey. Well, love it. Loosey. Loosey. Yeah. Yeah. Loosey. Yeah. Loosey. Loosey. Yeah.
+- **[9:53:23 AM] Speaker**: Just about to find a hint and class. Five dollars a week later. When? Um. The only thing is because Wednesdays are work day that have to move like a first half hour of the class but I get a replay. It's online and it's like you get to read it. Oh, what happened? I could always record for you and oh you get to replay anyway and extract the data and get it to November. That would be good. I won't be out sitting November 4, 11, and 18. It starts at 2.45 our time, but you get replayed to it. Yeah. So you can shift that to any time you want then. You know, so I was like 10 hours. How much does it cost? The $107 B.
+- **[9:54:32 AM] Speaker**: Remember that was in life. You're doing a lot of research stuff and I have to think about it. Where there is a problem.
+- **[9:54:46 AM] Speaker**: Okay, well, would ever do you need
+- **[9:55:07 AM] Speaker**: Yeah, I saw that too, you know, just get to that coming up. I'll try to do it at the beginning of October.
+- **[9:56:35 AM] Speaker**: what I'm going to do, what I'm going to do.
+- **[9:57:05 AM] Speaker**: We basically need everything, I won't get anything in the meat section though, but it's Yeah, I'll see. We'll get a normal thing.
+- **[9:58:02 AM] Speaker**: So funny. So we were in the desert and it was like, what, 15% humidity? I think it was 10 to 20 somewhere in there, we're at 69% outside and 51% inside, not much so. That much, what's it? Yeah.
+- **[10:02:38 AM] Speaker**: if I can do it, if I can do it, I don't Oh, I texted her and said, I was going to be, we're going to talk tomorrow, but I told her that I was going with her issue with Ryan, so I didn't mean anything.
+- **[10:03:38 AM] Speaker**: So you can come and see what's gone,Chris. He was holding that wheel at that time out of consciousness whenföring.
+- **[10:05:34 AM] Speaker**: Exactly. So it will be as fast as it is now. I've got one bed in a quarter, so I'm going to close here. It's heavy, aren't you, Dan? Yeah.
+- **[10:06:32 AM] Speaker**: They're deciding not to buy dollars. They're better anywhere. I'm going to, you know what that says as you mind it, if you're not sure what it is, you get it? Okay. Yeah. It's, uh, you don't get it.
+- **[10:08:36 AM] Speaker**: I'm so sad. If there's apparently land on a carry gold with claiming they were grass, fed without any certification, and they were the lawsuits against them. So maybe, oh, packets of concerns and aerated reports from air evasion, alleging that wrappers for brands like Lanna Lakes carry gold-contained markers for kids, which are concerning due to their potential to migrate into high-fat foods like butter. Well, no, it said that grass bed, deceptive marketing, landal legs and telemuck is natural flavoring, deceptive marketing horizon, vital, lack of accountability was great value in very old packaging concerns, recommendations, maple hill, independently certified 100% grass-fed organic butter. Nellies features cleaner, ingredient, pasteurized cream and lactic acid and higher butter fat content compared to the minimum and then homemade butter. So maple and now you can put their recommendation. Okay, about it. either about it, You have to look. But they're also recommended homemade, which is supposedly pretty easy to do. Yeah, that's pretty much it. During it, there's a little, probably a little thing you can do that with, right? You're going to keep it short. and we also get the nut and butter milk I've got.
+- **[10:11:10 AM] Speaker**: Boop! Can I do it? Okay. I'm not going to find the cranberry. and all that the Yeah. area. There are less people around and they definitely aren't scared that how the 200 people of the universe seem to be interested in what Ukraine does. Let's just say the blue is probably paying attention to the blue environment. The second part is Leo, Lee D. D. at last. The very cutting plate, we called on to the green, green, green, green and salt. The board in the morning, this is natural flavor. And this is often a close or a slightly different flavor. the industrial additives, the mimics from any flavor or skin and shelf life. Okay, look for any kind of prescription, labels on grass fed and U.S.3. Well, this is regulated instead of relying on certain marking comments. Let's prepare the patient's C.O.E. from American grass fed association or PCL 100% grass-fed color test as a deep yellow hue, comes from data care team, which It tells the door comes fresh, green, grass, and the pods directly into the backpack. Check whether that's the finished. These are finished a week or many of them, but green and butters often need 20 to 25. You like the back? Let me do it.
+- **[10:13:48 AM] Speaker**: And then this one. Water.
+- **[10:14:18 AM] Speaker**: Most grassy. The ice cream. Do you want that? Yeah, so. So there? Oh, now. Filter? Coffee filter. That's an important one. Oh, and so, I just summer out of the mouth. Oh, I smell. No, no. I know, but I'm just saying it's good to know which ones Some mamma variation as I guess So this is on the bad west dollars for a filter coffee brew by Miguel Amazon basic Blue, white, great value, Walmart, Mr. Coffee, run Kirkland Signature. It says here, and that one's surprising to lack the original brand and it was made into Costco, but it was made into products. , and any natural bamboo filters, often used in this reading, Echo Marketing, out there are pliable, there's part of potentials, so you have a look at the credentials, my friends, blades. Apply the label grocery tour and commit natural filters. Recommended brands. If you care, mel either natural ground, unbleached and free from chemical processing. No, it's not right. Okay. I was kind of ready to launch, so you don't need to know. So I like that.
+- **[10:17:00 AM] Speaker**: in discomfort. Good boy Velcro…
+- **[10:17:27 AM] Speaker**: He is not that weak. Yeah? Beauty. Amazing. Isn't it good? So cute. Got ears and ears. I love the hair. Ha, ha, ha. I love it. Let's tell you I just got it. It's funny. It's so pretty. I think it's interesting. I'm going to give you a little bit of a towel. I'm going to give it a little bit of a towel. Yeah, she's come by with eyes, mirrors. Uh-huh!
+- **[10:18:51 AM] Speaker**: I'm going to have a lot of people in this building come form, and a lot of people in this it's still very long. Or else it's kinda small to say maybe it's between very big.
+- **[10:19:32 AM] Speaker**: Because that would give a default practice too. Training out is difficult. Yeah, so you still are too much ice cream if they're cold and if they're wet, but you know there's like a anytime without ice cream, you can go down. And that's what you do, it's all the way to the other end. And not fastening for too long. Right. We. 2. Bien cum. Again lions exist. That's great. We give them technology. I'm one of the ones who do militaryください me. That's the third question. Okay. To give that. Yeah. Daniels, yeah. Local count code.
+- **[10:20:54 AM] Speaker**: I've got to do one day evening. One in the morning before going. Nearing evening. One in the way back out. So we get forming in the middle.
+- **[10:21:14 AM] Speaker**: Oh, even before right. That's right. Great.
+- **[10:21:30 AM] Speaker**: Yeah.
+- **[10:21:36 AM] Speaker**: There's a lot of them in there.
+- **[10:22:06 AM] Speaker**: Yeah. and yeah. maybe that's okay. Oh, there is theyal Isa, there's the pheromなん.
+- **[10:22:37 AM] Speaker**: I most likely didn't lose the bond so if you could be somewhat- losing the bond of the baby then, yes. Now the baby's gone. Yeah. It's the same thing as me, I like to move from my left to the opposite of you. You might have to do some shoulder position, my shoulder is there, at least compared. What's your intention with this water? Okay
+- **[10:24:24 AM] Speaker**: Okay, just keep forgetting about it Thank you, thank you, thank you, thank you, thank you And over. I've never seen this kind of thing in my life that I've never seen before.
+- **[10:29:34 AM] Speaker**: This is the first time I've ever been to a place like this, where I've never seen a place like
+- **[10:32:30 AM] Speaker**: I've never seen this kind of thing in my life that I've never seen before. Okay, you didn't do the best thing. Well, I tried to, it's just I could never get any soap off of it. You have to take the water to get it to the lab and let it come in there. Okay.
+- **[10:34:37 AM] Speaker**: And which one I was using, the conditioner. I'm perfect. I'm perfect with this. Okay. well
+- **[10:35:02 AM] Speaker**: oh yeah
+- **[10:35:19 AM] Speaker**: I think maybe I'll just leave that alone until we determine what we're going to move or not because I don't want to get a bucket fit. don't use it doesn't fit because there's only if you get that I can't get the wide ones you know anything you can actually get I could get something for the and there one right here about the car yeah that's something
+- **[10:38:37 AM] Speaker**: I'm going to do it.
+- **[10:39:57 AM] Speaker**: I think they're in the car. Okay. I'm talking to you. Okay, do you want to move that? Yeah, that's fine. Hmm. Hmm. Hmm. Hmm. Hmm. Hmm. Hmm. Hmm. Hmm. Hmm. Hmm. Hmm. Hmm. Hmm.
+- **[10:45:02 AM] Speaker**: I'm going to put it on the other side. This looks like my phone code. Yeah, it looks funny. Click it. if I'm going to be able to get out of here, but if I'm Yeah, you don't want to be and I know there's no such thing as a sports-run performance car. Oh, it is. It's a bit sticky. I don't wanna. I'm just gonna have to get my nose out of the world. Oh, no.
+- **[10:47:55 AM] Speaker**: Like no way. Good. No. The That's the thing, that's the thing, that's the It's a very nice building. This is the first time I've been here. I feel like I'm in a country of science. I've been here for a while, but what I'm going to do. Say something once, twice say it again, so notice that people are keeping the same thing over and over.
+- **[10:50:14 AM] Speaker**: I'm here, I'm here, I'm here, I'm here, I'm here Let's go, let's go, let's go, let's go, let's go what I'm going to do, I don't what I'm going to do, but I'm going to have to do it, what I'm going to do, Thanks a lot, dear. The lights are broken, the lights are broken, the lights are Yeah. Yeah, but I didn't really like to do that.
+- **[10:54:37 AM] Speaker**: The hospital was the first day. I'm like, wait a minute. We have the hospital there.
+- **[10:54:52 AM] Speaker**: Come on. Oh shimmering. The board's there, not happening as it is. And that's what it is. Right here, point to that. You saw something, and there are one big victims.
+- **[10:57:38 AM] Speaker**: Pretty good, I got a little bit of a sign of, you know, just not moving breathing here in my finest of seconds, feels a little bit of a, like it's not moving back it up in a tough pressure in my head, but it looked pretty good. I think oatmeal is, uh, when I eat oatmeal, I get a little higher, you put a piece of something I'm going to do in the pool.
+- **[10:58:17 AM] Speaker**: You can take out my dust, please. Wow.
+- **[10:58:29 AM] Speaker**: I got seven hours, seven minutes. I can't go through my hands, I can't go through my hands Yeah, that's what happens, I think I get gaffers, and I actually, people don't realize this is taking all this stuff to get caffeine. The cast and I just want to throw it in and stick it to the bird. Like sometimes carbonate doesn't help.
+- **[10:59:55 AM] Speaker**: I'm glad I knew what it was so I didn't react. If you're looking at somebody's mind, what time is this for you? Don't worry about me.
+- **[11:00:29 AM] Speaker**: 2 p.m. fine молод well
+- **[11:01:17 AM] Speaker**: yes Oh, you did already 5.30. You did everything at 5.30. I know, but sometimes it has to be aggressive. Like you said, 5.30, she's a plus and a plus. So now it's like, it's still up in the air. how to make somebody do that to me. Oh, she said where? Oh, okay, that doesn't go that way. Bob's here. I like the tight place, grow tight, or no, to see the catch is always good, or across the the street from it. It looks like one of the Italian places. Isn't it there? Hi. Okay. There you go. You didn't have to add to that.
+- **[11:02:34 AM] Speaker**: It's beautiful. It's just beautiful. Yeah, we've been there, hopefully.
+- **[11:03:13 AM] Speaker**: sure all of a Did I give mine already? Huh? I'll give you a look at that. I thought I'd give you a key. I'll turn it over. I'm going to get some food. That's another deal. What if I wait for beer? No, not right now.
+- **[11:05:21 AM] Speaker**: Which one? There's one? That's it. Okay.
+- **[11:06:26 AM] Speaker**: Oh, that's really it. Let me see it too. Woo!
+- **[11:06:44 AM] Speaker**: They look at the end, so we'll bring you red. A little bit, a little bit. Okay.
+- **[11:06:58 AM] Speaker**: Well, remember we're not going to get a lot of We don't get a lot of vegetables anymore, since we get That's a better thing. So, what do we do? I can put some in here. Okay. Okay, you got to pick out one vegetable in. Just that one. That's it. Yeah, you have to pick one. Let's get three.
+- **[11:08:01 AM] Speaker**: Anything else? Is that it? Greetings. Do you want something there here? We're about to sprout. Sir, here.
+- **[11:08:12 AM] Speaker**: We don't eat a lot of food, so you know. Yeah, that's it. We don't eat a lot of food, so you know. We don't eat a lot of food. Okay, just a reminder, if we wanted to do that, we would have to get to the next side. Uh, we don't need any of this. We have all of these. Okay. All right. Ready? Down. Ready. Down. Down. Down. Down. Down. Down. Down. Down. Down. Down. Down. Down. Down. Down. Down. Down. Down. Down. Down. Down. Down. Down. Down. Down.
+- **[11:10:28 AM] Speaker**: This is one of the most beautiful buildings in the world. I'm going to have a look at it. I'm going to take a look at this one, and I'm going to take a look at this one, Fort Fort I like to put in Yeah, that's a обрат I'm in a vegetable for tonight, one of these is a vegetable for tonight. Good day everyone. Good day. Okay. Come on. You want to get them? I'm gonna get the
+- **[11:13:27 AM] Speaker**: One piece
+- **[11:13:48 AM] Speaker**: Okay, I could find some food, some food. They didn't have in the box thing down there, so I'm looking for food. 9, OK, gone. All right, ready to go. OK, hold on. Oh, I got one. You see a Michael here? That's Michael here. there is and You have to be very, you All right
+- **[11:15:36 AM] Speaker**: Yeah
+- **[11:15:54 AM] Speaker**: All right, thank you, come and try it.
+- **[11:16:24 AM] Speaker**: That's right, you feel like this is going to blow that around and you have to slide. Far form. Yeah. There we go. It's been out for a month. Yeah, put it all away in the back, in the butt, it won't pull out. Oh, you don't want to do that. Okay, you got it. No.
+- **[11:17:07 AM] Speaker**: So I need to say there's a good one to come out in a second. Oh, what? One to get.
+- **[11:17:23 AM] Speaker**: what it is. Now is Maple Hill. That's fine. I'm not eating. Okay. I'm so happy to be here. You're all too good. It's great. Now, I'm going to take it to the kitchen. I'm going to do the bear right now. Put a flavor here and just go plain. Okay. What do I do for a minute, what do I do? Do you have that green thing through kind of pet hazelnut and chicken or you hit the hole. Peek the masala there. Fish. No, we're going to get a custom one over there. I'll show you how to do it. 50% off. This is going to be a token of it, but it's going to give us a five bucks. That's going to be great, not five, but it's going to be $10 to that, wow. Here we go, new row, I'm just going to get it. Can't pick anything with a meat and a cup of any wine, or whatever will get one meat, or whatever not. That's false. Okay, that's good. Are you ready? And the Brussels sprouts? Yeah, the Brussels sprouts. And that way, you can mix them up. I need to inject the one-of-a-team liquid I get from here. Because they don't have anything on the F this year. Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh why I got this, I love this. That's it. We have two seats on the right. I just want to show you what it feels better. Oh. We're going to get a family meal. Sometimes they come out near to get it. Oh, we're going to get this one in the brothel, Brown. The key toll for the key toll has been a long time. Why is there furniture taking pictures of the food today? I'll put a whole food keeper they go around and take a picture of the food all day. I don't like smoke. She might like it. Yeah, I don't like smoke in the flavor. Yeah, we've had that one before, too. Ah, see. Okay. Okay. Thank you. , Mr. Neal. The way they went.
+- **[11:25:16 AM] Speaker**: You can get a visit there right there, if you want. our corner go straight to that corner. Right where he is right now.
+- **[11:25:50 AM] Speaker**: Yeah, I'm going to hold on a second, like this there first, and I don't want to beat them at all. Have a good day.
+- **[11:26:43 AM] Speaker**: Oh!
+- **[11:26:51 AM] Speaker**: You guys got a TV? I'm not gonna get the phone call. Oh, yeah! Yeah! Now that's what I said that.
+- **[11:27:13 AM] Speaker**: I'm going to take a look at this one. Okay, all right, Nate Baptist, oh my God, oh man, what's that all about? Okay, give me a second to get down there, there was a 50% off of one of them there, okay. Yeah, I'm worried about the other one. Yeah, let's just do it. It's really open, thank you so much. I had no more juice from the valley here. It's got everything. Thank you. That's the deal.
+- **[11:31:27 AM] Speaker**: Yeah.
+- **[11:32:26 AM] Speaker**: Yep. We'll put you away, but there is this bend out. So now you know my routine, it's going a bit trickle, it didn't look for special items. That's right, all the healthiest scratches stuff is on the outside. Yep, there's not a lot of it, so I'm gonna just pick up a little more. a
+- **[11:33:55 AM] Speaker**: Here's a good one. Tip time I walk them all the way back. I don't want a bit of burnt meat.
+- **[11:34:14 AM] Speaker**: There's only a couple. There's only two bad guys though. One of them. The mate is there. You heard me answer the question? No! No I'm playing 49er's than a Rita dot. I just have to wait a minute to see what I'm going to do, , I'm trying to get out of the way. Here we go, I drive by you real quick. Hey girl, here you are. I'm in the highest place in the world.
+- **[11:35:39 AM] Speaker**: You're not answering. You were? I was just mad at you.
+- **[11:35:59 AM] Speaker**: He runs out now, but he's here for me. What is that he's getting back to his? He's wet. He's high, he's wet. It is nice to relax as much as it, I try not to fall Yep. That's the building next door I've got some stuff I'm going to do.
+- **[11:37:03 AM] Speaker**: Yeah, I thought so, but still happening.
+- **[11:37:23 AM] Speaker**: Yeah! connect with communities within the bottom. I showed him how it was going to move. I know this isn't good, but it's good, just like now, you know, I'm stacking up and going down I'm going to lower it here.
+- **[11:38:16 AM] Speaker**: I'll go. I'm going to lower it now. And I'm going to take it from the top. Yep. I'm going to take it from the top.
+- **[11:39:09 AM] Speaker**: this one is so big.
+- **[11:41:09 AM] Speaker**: I'm taking some words from another song. To go, dance, dance, dance. Another one's bad.
+- **[11:41:55 AM] Speaker**: You're building some more buildings back there, behind the school, playground, and smaller. You're not continuing to make buildings back there, you're going to do it. Could you please? Okay.
+- **[11:45:53 AM] Speaker**: I'll give you two. I'm going to get two of these.
+- **[11:48:50 AM] Speaker**: Oh, Oh, ok. So there I don't think we've got to get any kombucha, damn it, we didn't get kombucha, my fault. You do have plenty.
+- **[11:50:58 AM] Speaker**: Ok. Good job. Hey, good job.
+- **[11:53:11 AM] Speaker**: Now I will just take it up.
+- **[11:56:29 AM] Speaker**: , four, four, four, four, four, four, four
+- **[12:06:13 PM] Speaker**: Ha ha ha ha ha ha ha ha ha ha ha ha ha ha
+- **[12:09:09 PM] Speaker**: I'm going to have to do it again, I'm going to do
+- **[12:10:37 PM] Speaker**: I'm thinking of getting medicine for the pastures that are really pretty, their beta deer skin. And I was wondering if you would like one, it's much smaller than the one to one made. How much are they? They're expensive, but I would tell them my things during the weekend and the sensors to look at rhythm, to count on, and to do lots of things. Hmm. They're pretty the kind of keyhole shape. How much are they? $80. No, I don't need this. Thank you. I appreciate the offer though, I got Connie, I barely even wear that thing. I wore it one 15 minutes when I was there and then I put it in my bag and I never wore it again. I don't want something else to go into the wall if I'm not going to use. That's the last thing to know. Yeah, you know what I'm saying? No problem. I love the offer though, but I don't think that it would be a waste on me.
+- **[12:17:20 PM] Speaker**: I'm going to put my hands on the floor.
+- **[12:18:46 PM] Speaker**: I'm going to put it in the middle of the room, I'm
+- **[12:23:12 PM] Speaker**: I'll be right back, I'll be right back, I
+- **[12:28:58 PM] Speaker**: Thank you very much for watching this video, I hope you enjoyed it, see you in the next video, bye bye, bye, bye, bye, bye, bye, bye,
+- **[12:47:13 PM] Speaker**: I don't think I'm going to be able to do it, but I don't think I'm going to be able to do it.
+- **[12:58:52 PM] Speaker**: 6 dumpling to
+- **[1:07:07 PM] Speaker**: Hmm? Hmm? Hmm? Hmm? Hmm? Hmm? Hmm? Hmm? Hmm? Hmm? Hmm? Hmm? Hmm?
+
+---

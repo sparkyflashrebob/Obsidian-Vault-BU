@@ -50,18 +50,21 @@ tags:
 - Account `TwoAndiesSave - 6171`: **$2,002.11** (09/19/2026 3:35 AM)
 ### 🏃 Physical Activity & Health (Google Health)
 > *Aggregated from Google Health, Samsung Health & Connected Partner Apps.*
+
 - **Daily Total (Saturday, Sep 19)**:
   - 👟 **Total Steps**: **3,000** steps
-  - 📍 **Total Distance**: **1.35** miles
-  - 🔥 **Calories**: **1,863** kcal
-- **Weekly Summary (Aug 23 - Aug 29)**:
-  - 👟 **Total Steps**: **38,891** steps (Avg: **5,556** steps/day | Best Day: **12,538**)
-  - 📍 **Total Distance**: **3.94** miles
-  - 🔥 **Calories**: **1,863** avg. kcal/day
+  - 📍 **Total Distance**: **1.36** miles
+  - 🔥 **Calories**: **2,013** kcal (1,863 BMR + 150 active)
+
+- **Weekly Summary (Sep 6 - Sep 12)**:
+  - 👟 **Total Steps**: **41,761** steps (Avg: **5,966** steps/day | Best Day: **10,962**)
+  - 📍 **Total Distance**: **19.00** miles
+  - 🔥 **Calories**: **15,129** total kcal (Avg: **2,161** kcal/day | Baseline BMR: **1,863**)
+
 - **Month Total (September Summary)**:
-  - 👟 **Total Steps**: **38,891** steps (Daily Avg: **5,556** steps/day)
-  - 📍 **Total Distance**: **3.94** miles (Daily Avg: **0.56** mi/day)
-  - 🔥 **Calories**: **1,863** avg. kcal/day
+  - 👟 **Total Steps**: **86,998** steps (Daily Avg: **6,214** steps/day)
+  - 📍 **Total Distance**: **39.58** miles (Daily Avg: **2.83** mi/day)
+  - 🔥 **Calories**: **30,432** total kcal (Daily Avg: **2,174** kcal/day)
 ### ✉️ Outgoing Sent Emails & Correspondence
 - **To**: `Amazon Kindle <sparkyflashrebob@kindle.com>` | **Subject**: The Intelligent Heart - Ajahn Suwat (12:09 PM)
 *Summary*: "Andy McGuire (he/him) (415)637-0348 (cell) sparkyflashrebob@gmail.com "

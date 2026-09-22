@@ -39,22 +39,28 @@ tags:
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
 - **Bank of America** (Total Available Balance: **$10,705.59** across 2 accounts — <font color="red"><b>-$322.75 (Down)</b></font>):
-- Account `SparkyBank - 0372`: **$8,703.48** (09/20/2026 7:39 AM)
-- Account `TwoAndiesSave - 6171`: **$2,002.11** (09/20/2026 7:44 AM)
+  - Account `SparkyBank - 0372`: **$8,703.48** (09/20/2026 7:39 AM)
+  - Account `TwoAndiesSave - 6171`: **$2,002.11** (09/20/2026 7:44 AM)
+- **Fidelity Investments**:
+  - *No Daily Balance or Account Summary alerts issued on Sundays (markets closed for the weekend).*
+  - **Transaction Alert (3:10 PM PT / 6:10 PM ET)**: Online account transfer of **$2,708.49** initiated from Account `...1128` to Account `...2492`.
 ### 🏃 Physical Activity & Health (Google Health)
 > *Aggregated from Google Health, Samsung Health & Connected Partner Apps.*
+
 - **Daily Total (Sunday, Sep 20)**:
-  - 👟 **Total Steps**: **5,556** steps *(Daily Avg from Connected Health Sync)*
-  - 📍 **Total Distance**: **0.56** miles
-  - 🔥 **Calories**: **1,863** kcal
-- **Weekly Summary (Aug 23 - Aug 29)**:
-  - 👟 **Total Steps**: **38,891** steps (Avg: **5,556** steps/day | Best Day: **12,538**)
-  - 📍 **Total Distance**: **3.94** miles
-  - 🔥 **Calories**: **1,863** avg. kcal/day
+  - 👟 **Total Steps**: **5,966** steps *(Daily Avg from Connected Health Sync)*
+  - 📍 **Total Distance**: **2.71** miles
+  - 🔥 **Calories**: **2,161** kcal (1,863 BMR + 298 active)
+
+- **Weekly Summary (Sep 6 - Sep 12)**:
+  - 👟 **Total Steps**: **41,761** steps (Avg: **5,966** steps/day | Best Day: **10,962**)
+  - 📍 **Total Distance**: **19.00** miles
+  - 🔥 **Calories**: **15,129** total kcal (Avg: **2,161** kcal/day | Baseline BMR: **1,863**)
+
 - **Month Total (September Summary)**:
-  - 👟 **Total Steps**: **38,891** steps (Daily Avg: **5,556** steps/day)
-  - 📍 **Total Distance**: **3.94** miles (Daily Avg: **0.56** mi/day)
-  - 🔥 **Calories**: **1,863** avg. kcal/day
+  - 👟 **Total Steps**: **86,998** steps (Daily Avg: **6,214** steps/day)
+  - 📍 **Total Distance**: **39.58** miles (Daily Avg: **2.83** mi/day)
+  - 🔥 **Calories**: **30,432** total kcal (Daily Avg: **2,174** kcal/day)
 ### ✉️ Outgoing Sent Emails & Correspondence
 - *No outgoing sent email replies or correspondence recorded today.*
 ---
