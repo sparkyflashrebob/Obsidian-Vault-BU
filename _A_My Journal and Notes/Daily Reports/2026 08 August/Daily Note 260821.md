@@ -100,6 +100,20 @@ tags:
 
 ---
 
+## 💻 Antigravity AI Sessions & Creative Work Log
+> *Chronological record of interactive AI studio sessions, creative projects, and system maintenance.*
+
+- **Interacting with Antigravity with Blog Post Drafting & Creative Writing (8:30 AM – 9:41 AM)**:
+  - **Focus**: For some reason our dAILY notes have resorted to some other version that was not the way we had ended up yesterday. I...
+  - **Actions**: Executed automated verification scripts.
+  - **Outcome**: Popup Prompt Disabled & Backup Frequency Set to Daily!
+
+- **Interacting with Antigravity with Obsidian Vault Structure & Template Refinement (3:51 PM – 4:01 PM)**:
+  - **Focus**: Use my current journal and notes folders to compile a report that provides various themes for use in books, meaning: ...
+  - **Actions**: Executed automated verification scripts.
+  - **Outcome**: Understood!
+
+---
 ## 💡 Key Points, Subjects and Themes
 ### 🌅 Morning Session (7:00 AM – 12:00 PM)
 - **Medicine, coffee, and football chat (7:48 AM – 8:15 AM)**: Andy experienced a congested, under-the-weather morning while watching football and engaging in household conversations. He was watching a Raiders game with detailed play-by-play commentary, noting missed opportunitie...
