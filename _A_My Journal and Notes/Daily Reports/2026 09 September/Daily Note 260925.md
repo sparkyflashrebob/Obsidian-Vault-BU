@@ -22,18 +22,18 @@ tags:
 ---
 # 2026-09-25 07:52:44 (5h00m), Navigating Health While Building Community, and Blood Work and Vaccination Appointment
 📅 **Date**: Friday, September 25, 2026 (2026-09-25)
-👥 **Attendees**: Andy, Andrea (Wife), Unassigned + [⚠️ Unrecognized Frequent Speaker (Review needed)]
+👥 **Attendees**: Andrea (Wife), Andy, Andrea (Wife)
 🎙️ **Primary Data Source**: **Plaud Local PC Ingest (Direct API + Local Whisper AI)**
 📊 **Plaud Sessions Processed (PRIMARY)**: **2**
 📊 **Bee Sessions Processed (SECONDARY BACKUP)**: **8**
-🔄 **Report Revision Date**: **2026-09-26 08:09:29 PDT**
+🔄 **Report Revision Date**: **2026-09-26 08:35:21 PDT**
 ### ⚙️ Pipeline Status & Data Ingestion Log
 - ⚡ **Plaud Direct Ingest**: ✅ **Active** (0 Cloud Minutes Spent, 0 Phone Taps Needed)
 - 🎙️ **Local Whisper AI Transcripts**: ✅ **Active**
 - 🐝 **Bee Secondary Backup**: ✅ **Active** (Cross-referenced & Reconciled)
 - 📧 **Gmail & Financial Ingest**: ✅ **Active**
 - 📅 **Google Calendar**: ✅ **Active**
-- ⚠️ **Action Needed — Unrecognized Frequent Speaker**: Detected **190 turns** (7:53:05 AM – 3:25:03 PM). Please review in Voice & Speaker Studio to identify or tag.
+- 🗣️ **Speaker Verification**: ✅ All frequent speakers identified (Andy, Andrea)
 ---
 ## 📌 Executive & Core Topics Overview
 - **Core Topics**: #escom-living-mindfully, #recovery-program, #spiritual-retreat
@@ -194,31 +194,31 @@ After checking in at Spirit Rock, Andy had a casual conversation with two women 
 ---
 ## 💬 Quoted Expressions & Catchy Phrases
 ### Quotes
+### Societal Truisms & Cultural Realities
+* **Verbatim Quote:** "No I would but no I keep myself busy enough that I'm usually not bored and even"
+* **Speaker:** Andrea
+* **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
+* **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
+### Spirituality, Impermanence & Interconnection
+* **Verbatim Quote:** "every day in the morning we reach out to him and say he can capacity to soar into nature, we usually make easy ways for him to go to much swim on a mountain. For the guests he also learned how to walk, but until the day will come, as he"
+* **Speaker:** Andy
+* **Core Insight:** Reflects on spiritual wisdom, impermanence, and releasing rigid ego attachments.
+* **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
+### Societal Truisms & Cultural Realities
+* **Verbatim Quote:** "It covers my body. I know I'm trying to distract you from that. I want to distract you myself. Okay I'll let you get back to your distraction I needed a break from life. I'm using you to distract me from my break that I needed to go back to. I'm sorry I borrowed it."
+* **Speaker:** Andy
+* **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
+* **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
+### Spirituality, Impermanence & Interconnection
+* **Verbatim Quote:** "that we so often expect spiritual practice it's to be given to us and not something that we have to work towards with our actions and our attitudes."
+* **Speaker:** Andy
+* **Core Insight:** Reflects on spiritual wisdom, impermanence, and releasing rigid ego attachments.
+* **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
 ### Spirituality, Impermanence & Interconnection
 * **Verbatim Quote:** "Yeah, I the frozen horse."
 * **Speaker:** Andy
 * **Core Insight:** Reflects on spiritual wisdom, impermanence, and releasing rigid ego attachments.
 * **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
-### Societal Truisms & Cultural Realities
-* **Verbatim Quote:** "Busy starts at this one, ATC A California."
-* **Speaker:** Andy
-* **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
-* **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
-### Spirituality, Impermanence & Interconnection
-* **Verbatim Quote:** "We use the most imaginable place of day and the most magical place on earth."
-* **Speaker:** Andy
-* **Core Insight:** Reflects on spiritual wisdom, impermanence, and releasing rigid ego attachments.
-* **Somatic / Relational Context:** Prompted by quiet contemplation on nature, life path, and spiritual refuge.
-### Societal Truisms & Cultural Realities
-* **Verbatim Quote:** "Because connection to the switch is a sequence of attention and time."
-* **Speaker:** Andy
-* **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
-* **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
-### Mindfulness & Contemplative Inquiry
-* **Verbatim Quote:** "Just some more breathing room. 13 delays, seven and a half minutes."
-* **Speaker:** Andrea (Wife)
-* **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
-* **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
 ### Catchy Phrases & Key Sayings
 - *No high-value catchy phrases recorded today.*
 ### Notable Names Mentioned
@@ -257,4 +257,4 @@ After checking in at Spirit Rock, Andy had a casual conversation with two women 
 ### News & Current Events
 - *No specific news media recorded today.*
 ---
-*Report automatically generated on 2026-09-26 08:10:11*
+*Report automatically generated on 2026-09-26 08:36:03*

@@ -95,98 +95,66 @@
 - **Source File**: `2026-09-25 12_52_44.mp3`
 
 
-- **[12:55:14 PM] Unassigned**: I'm going to do that I'm going to do that I'm going to do that I'm going to do that I'm going to do that I'm going to do that I'm going to do that
 
-- **[1:01:02 PM] Unassigned**: You see? Yes. Yes. Say hello. Yes. Yes. Yes. Yes. Yes. Yes.
 
-- **[1:08:48 PM] Unassigned**: a little bit more, a little bit more, a little bit more, a little bit more, a little bit more, a little bit more, a little bit more, a little bit more, a little bit more, a little bit more,
 
-- **[1:09:08 PM] Unassigned**: a little bit more, a little bit more, a little bit more,
+- **[2:01:50 PM] Andrea**: I've never seen this kind of thing in my life that I've never seen before.
 
-- **[1:14:40 PM] Unassigned**: just a little bit more,
+- **[2:19:04 PM] Andrea**: So that is going to be an image for when the windhouse running not to fight the windhouse.
 
-- **[1:27:32 PM] Unassigned**: a little bit more,
+- **[2:19:28 PM] Andy**: is it you Wow you took ownership of that Make it a man Make them not yet a man. What do you call that Can't tell I want to be the pop-up Not the not a um I don't need you yet.
 
-- **[1:32:19 PM] Unassigned**: Thank you very much for your time thank you very much thank you very much thank you very much thank you very much thank you very much thank you very much, Yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes
+- **[2:20:03 PM] Andy**: Can't Should be an idiot.
 
-- **[1:34:19 PM] Unassigned**: I'm going to have a look at this. I'm going to have a look at this. I'm going to have a look at this. I'm going to have a look at this. I'm going to have a look at this. I'm going to have a look at this. I'm going to have a look at this. I'm going to have a look at this. I'm going to have a look at this. I'm going to have a look at this.
+- **[2:20:09 PM] Andrea**: Can you tell me?
 
-- **[1:34:39 PM] Unassigned**: I'm going to have a look at this. I'm going to have a look at this. I'm going to have a look at this.
+- **[2:20:13 PM] Andy**: Should we apply Right to the leg.
 
-- **[1:38:37 PM] Unassigned**: a little bit more, a little bit more, a little bit more, a little bit more, a little bit more, a little bit more, a little bit more, a little bit more, a little bit more, a little bit more,
+- **[2:45:27 PM] Andrea**: So I spent my
 
-- **[1:38:57 PM] Unassigned**: a little bit more, a little bit more,
+- **[2:45:57 PM] Andy**: most of my days so far working at the uh Buddhist uh an email that I got from um, Spirit Rock that had a link to a website that oh so was Spirit Rock how does they connected the Buddhist Insight Network So I researched a little bit of that ran into some teachings on a bunch of other teachers and incorporated that into my Flash Rebob Obsidian I downloaded I actually created some deep hub books some Amazon Kindle books I had to fill that in and then after I did a long period of that then I have gone back and I finished up this lot post for this when the desert wind howls and so now I am I just posted is both in sub-stack and on yeah sub-stack and on to get an art together So I have that posted now I'm looking towards actually revising this talk so that it now I'm going to use it with the derma talk for Sunday night.
 
-- **[1:50:13 PM] Unassigned**: okay
+- **[2:50:35 PM] Andy**: So okay regarding the structural congestion let's leave the open bridge open for right now while I focus on the main the metal arc of the main dermatologist is really what I want to focus on right now And what I want to do is the noticing the desert bird portion should be for the inquiry at the end of the talk where we rehash what you talk about and then lead that into the DNA portion of the meeting, which is the last third of a meeting. So I like the opportunities for improvement. especially to talk about more of what I see most folks dealing with with worrying about you know where life is kind of impinging on them instead of them being peaceful and happy be joyous and free.
 
-- **[1:55:41 PM] Unassigned**: and hurt me.
+- **[2:53:33 PM] Andy**: love pretty much everything that has been suggested so far other than ignoring the opening bridge for now because there's some other things I need to add There's two other sections before the main talk that I would like to deal with after we to get the main talk and the Q&A together.
 
-- **[2:01:50 PM] Unassigned**: I've never seen this kind of thing in my life that I've never seen before. I've never seen this kind of thing in my life that I've never seen before. I've never seen this kind of thing in my life that I've never seen before.
+- **[2:54:51 PM] Andrea**: Yeah and let's not forget on where life impanges on dealing with all of the stress stresses
 
-- **[2:09:14 PM] Unassigned**: Oh my God oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh,
+- **[2:55:09 PM] Andy**: a work of meeting obligations and being pushed to exhaustion.
 
-- **[2:19:04 PM] Unassigned**: So that is going to be an image for when the windhouse running not to fight the windhouse. is it you Wow you took ownership of that Make it a man Make them not yet a man. What do you call that Can't tell I want to be the pop-up Not the not a um I don't need you yet.
+- **[2:56:35 PM] Andrea**: In the second paragraph that leads with most days I don't want to lead with the idea of
 
-- **[2:20:03 PM] Unassigned**: Can't Should be an idiot. Can you tell me? Should we apply Right to the leg.
+- **[2:56:58 PM] Andy**: just realities of getting older I want to expand that to old age sickness and old age sickness and being in a human body So the pain and the stress right off the bat.
 
-- **[2:20:47 PM] Unassigned**: I'm not sure if I'm going to be able to do it but I'm not sure if I'm going to be able to do it but I'm not sure if I'm going to be able to do it but I'm not sure if I'm going to be able to do it,
+- **[2:57:39 PM] Andrea**: And the third paragraph where we so often are so often told I think that it's more accurate
 
-- **[2:23:15 PM] Unassigned**: I'm going to do a little bit of the rest of the video I'm going to do a little bit of the video I'm going to do a little bit of the video I'm going to do a little bit of the
+- **[2:57:56 PM] Andy**: that we so often expect spiritual practice like it's to be given to us and not something that we have to work towards with our actions and our attitudes.
 
-- **[2:24:47 PM] Unassigned**: just a little bit more, just a little bit more, just a little bit more, just a little bit more, just a little bit more, just a little bit more, just a little bit more, just a little bit more, just a little bit more, just a little bit more,
+- **[2:58:41 PM] Andy**: Instead of saying it reminds me of a trip I would like to reference the trip directly as a vision quest that happened a couple weeks ago or last week the end of last week. The first two days were gale-force wins. So while we were setting up our tent it was blowing us all over the place. After that the wins would pick up periodically especially in the afternoons. And one day we had a dust devil come in and then another burst of wind came in at the same time and blew one of our other folks this tent into the desert that we have to retreat and deep re-anchor down.
 
-- **[2:25:07 PM] Unassigned**: just a little bit more, just a little bit more, just a little bit more,
+- **[3:00:57 PM] Andy**: that we want things to be a magic switch and to be peaceful But what what happened is is that yeah you would talk about you know having some expectations that you're broken you're not it doesn't work you're not good enough those kinds of self-deprecating comments In the paragraph it took me a long time. That is actually a key to a lot of the practice there is so that our being human beings we have these five senses seeing hearing tasting touching feeling and then we have a mind that their job and their role is their function Seeing hearing and the mind is thinking. And the mind is generally trying to think about calculating our survival and keeping us alive. What we end up doing is taking all this personally and either pointing the finger outward as the what is coming in is the problem or that there is something wrong with us that we've got to fix We hardly ever stay in just a being peaceful and allowing things to unfold without interfering.
 
-- **[2:31:10 PM] Unassigned**: a little bit more,
+- **[3:03:07 PM] Andy**: I like the real trap springs where we compound our problems. It doesn't realize it is by our own actions that we are co-creating our experience by what what we take in.
 
-- **[2:35:50 PM] Unassigned**: I'm going to do a little bit of the same with the other side of the other side as well as the other side of the other side of the other side of the other side of the other side of the other side.
+- **[3:04:12 PM] Andy**: So let's see how these changes are included.
 
-- **[2:39:48 PM] Unassigned**: a little bit of this, a little bit of this, a little bit of this, a little bit of this, a little bit of this, a little bit of this, a little bit of this, a little bit of this, a little bit of this, a little bit of this,
+- **[3:07:10 PM] Andy**: I don't like the word magic deliverable I'd rather use a magic bullet unless you have some other option that would be better that denote you know magic I'm not miracle or fantasy open the suggestions there.
 
-- **[2:40:08 PM] Unassigned**: a little bit of this, a little bit of this,
+- **[3:08:23 PM] Andy**: a vision quest.
 
-- **[2:40:40 PM] Unassigned**: like that like that like that like that like that like that like that like that like that like that like that like that like that like that like that like
+- **[3:09:23 PM] Andy**: It doesn't that doesn't work so we need to find a replacement for that sentence.
 
-- **[2:45:03 PM] Unassigned**: I'm going to have to go to the other side of the house and see if there's anything I can do. I'm going to have to go to the other side of the house and see if there's anything I can do. I'm going to have to go to the other side of the house and see if there's anything I can do. I'm going to have to go to the other side of the house and see if there's anything I can do. I'm going to have to go to the other side of the house and see if there's anything I can do. So I spent my most of my days so far working at the uh Buddhist uh an email that I got from um, Spirit Rock that had a link to a website that oh so was Spirit Rock how does they connected the Buddhist Insight Network So I researched a little bit of that ran into some teachings on a bunch of other teachers and incorporated that into my Flash Rebob
+- **[3:18:17 PM] Andrea**: just a little bit more,
 
-- **[2:46:56 PM] Unassigned**: Obsidian I downloaded I actually created some deep hub books some Amazon Kindle books I had to fill that in and then after I did a long period of that then I have gone back and I finished up this lot post for this when the desert wind howls and so now I am I just posted is both in sub-stack and on yeah sub-stack and on to get an art together So I have that posted now I'm looking towards actually revising this talk so that it now I'm going to use it with the derma talk for Sunday night.
-
-- **[2:50:07 PM] Unassigned**: Okay so now I'm going to talk to Anti-Germanite about some transitions in that talk. So okay regarding the structural congestion let's leave the open bridge open for right now while I focus on the main the metal arc of the main dermatologist is really what I want to focus on right now And what I want to do is the noticing the desert bird portion should be for the inquiry at the end of the talk where we rehash what you talk about and then lead that into the DNA portion of the meeting, which is the last third of a meeting. So I like the opportunities for improvement. especially to talk about more of what I see most folks dealing with with worrying about you know where life is kind of impinging on them instead of them being peaceful and happy
-
-- **[2:52:15 PM] Unassigned**: be joyous and free.
-
-- **[2:52:45 PM] Unassigned**: Any questions with this new added feedback?
-
-- **[2:53:33 PM] Unassigned**: love pretty much everything that has been suggested so far other than ignoring the opening bridge for now because there's some other things I need to add There's two other sections before the main talk that I would like to deal with after we to get the main talk and the Q&A together.
-
-- **[2:54:51 PM] Unassigned**: Yeah and let's not forget on where life impanges on dealing with all of the stress stresses a work of meeting obligations and being pushed to exhaustion.
-
-- **[2:56:35 PM] Unassigned**: In the second paragraph that leads with most days I don't want to lead with the idea of just realities of getting older I want to expand that to old age sickness and old age sickness and being in a human body So the pain and the stress right off the bat.
-
-- **[2:57:39 PM] Unassigned**: And the third paragraph where we so often are so often told I think that it's more accurate that we so often expect spiritual practice like it's to be given to us and not something that we have to work towards with our actions and our attitudes.
-
-- **[2:58:41 PM] Unassigned**: Instead of saying it reminds me of a trip I would like to reference the trip directly as a vision quest that happened a couple weeks ago or last week the end of last week. The first two days were gale-force wins. So while we were setting up our tent it was blowing us all over the place. After that the wins would pick up periodically especially in the afternoons. And one day we had a dust devil come in and then another burst of wind came in at the same time and blew one of our other folks this tent into the desert that we have to retreat and deep re-anchor down.
-
-- **[3:00:29 PM] Unassigned**: I also think of expanding the paragraph that starts for years come I believe to include that we want things to be a magic switch and to be peaceful But what what happened is is that yeah you would talk about you know having some expectations that you're broken you're not it doesn't work you're not good enough those kinds of self-deprecating comments In the paragraph it took me a long time. That is actually a key to a lot of the practice there is so that our being human beings we have these five senses seeing hearing tasting touching feeling and then we have a mind that their job and their role is their function Seeing hearing and the mind is thinking. And the mind is generally trying to think about calculating our survival and keeping us alive. What we end up doing is taking all this personally and either pointing the finger outward as the what is coming in is the problem or
-
-- **[3:02:50 PM] Unassigned**: that there is something wrong with us that we've got to fix We hardly ever stay in just a being peaceful and allowing things to unfold without interfering. I like the real trap springs where we compound our problems. It doesn't realize it is by our own actions that we are co-creating our experience by what what we take in.
-
-- **[3:04:00 PM] Unassigned**: After that I like where we are going with this. So let's see how these changes are included.
-
-- **[3:07:10 PM] Unassigned**: I don't like the word magic deliverable I'd rather use a magic bullet unless you have some other option that would be better that denote you know magic I'm not miracle
-
-- **[3:07:56 PM] Unassigned**: In the paragraph that starts it reminds me I would like to be directly say on our 7-day a vision quest.
-
-- **[3:08:53 PM] Unassigned**: I don't like this short long long long long long long long long long long long long long long long long long long long long long long long long, It doesn't that doesn't work so we need to find a replacement for that sentence.
-
-- **[3:18:17 PM] Unassigned**: just a little bit more,
-
-- **[3:24:43 PM] Unassigned**: I've never seen this before. I've never seen this before. I've never seen this before. I've never seen this before. I've never seen this before. I've never seen this before. I've never seen this before. I've never seen this before. I've never seen this before. I've never seen this before.
-
-- **[3:25:03 PM] Unassigned**: I've never seen this before.
+- **[3:24:43 PM] Andrea**: I've never seen this before.
 
 ## 🎙️ Session 4: 2026-09-25 07:52:44 (5h00m)
 - **Source File**: `2026-09-25 07_52_44.mp3`
+
+
+
+
+
 
 
 
@@ -195,323 +163,273 @@
 
 - **[7:53:21 AM] Andy**: Pick an ado? A lot of things are going to go on.
 
-- **[7:53:42 AM] Unassigned**: What's the temperature going to be today? 90? 90? Yeah you know it doesn't go through your eyes eres at Rydy's. Oh boy. There's always the way. Something I won't say else. Baby crisis. Do you wish to sing again?
+- **[7:53:42 AM] Andrea**: What's the temperature going to be today?
 
-- **[7:58:47 AM] Unassigned**: Pull it through the head. Mike?
+- **[7:53:58 AM] Andy**: 90? 90? Yeah you know it doesn't go through your eyes eres at Rydy's.
 
-- **[7:59:39 AM] Unassigned**: 10 cents a share that's nothing these are really scanty these days oh I just got notice on the distribution and we look like one six eight inches now let's do that.
+- **[7:54:33 AM] Andrea**: Do you wish to sing again?
 
-- **[8:00:30 AM] Unassigned**: We want to see what we can do. I spoke to Gloria called me last night again and she wanted to explain to me that she's 87 years old she lost her husband a year ago she's been diagnosed with cancer and she's a go-getter but she gets tired And she does I think she was worried about overcommitting to our group You know to the group. And cute.
+- **[7:59:09 AM] Andy**: Mike?
 
-- **[8:01:45 AM] Unassigned**: Because I send an email to Will, calling her my mom. And now Will gave me a very complicated
+- **[7:59:39 AM] Andrea**: 10 cents a share that's nothing these are really scanty these days oh I just got
 
-- **[8:04:52 AM] Unassigned**: Hmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+- **[8:00:00 AM] Andy**: notice on the distribution and we look like one six eight inches now let's do that.
 
-- **[8:06:18 AM] Unassigned**: Ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah
+- **[8:00:58 AM] Andy**: I spoke to Gloria called me last night again and she wanted to explain to me that she's 87 years old she lost her husband a year ago she's been diagnosed with cancer and she's a go-getter but she gets tired And she does I think she was worried about overcommitting to our group You know to the group.
 
-- **[8:08:44 AM] Unassigned**: just a little bit more, just a little bit more, just a little bit more, just a little bit more, just a little bit more, just a little bit more, just a little bit more, just a little bit more, just a little bit more, just a little bit more,
+- **[8:01:40 AM] Andrea**: And cute.
 
-- **[8:09:04 AM] Unassigned**: just a little bit more, just a little bit more, just a little bit more,
+- **[8:01:45 AM] Andy**: Because I send an email to Will, calling her my mom. And now Will gave me a very complicated
 
-- **[8:10:50 AM] Unassigned**: Um um.
+- **[8:11:12 AM] Andrea**: No I would but no I keep myself busy enough that I'm usually not bored and even
 
-- **[8:11:12 AM] Unassigned**: No I would but no I keep myself busy enough that I'm usually not bored and even And if I have a sense of boredom then that means I have more space. So I'm in a little space with that as you know. You know how I could do is figure out what I'm going to eat. We have extra food in there. So we ate our trays so we're going to go with your parents we're going to go with your parents tomorrow night so that means we'll have to eat it Sunday night then okay. And we can use some of the stuff that plays and then we just have to remember the identity of the school that we use in the university. What do we do?
+- **[8:11:37 AM] Andy**: And if I have a sense of boredom then that means I have more space. So I'm in a little space with that as you know. You know how I could do is figure out what I'm going to eat. We have extra food in there. So we ate our trays so we're going to go with your parents we're going to go with your parents tomorrow night so that means we'll have to eat it Sunday night then okay. And we can use some of the stuff that plays and then we just have to remember the identity of the school that we use in the university. What we do? We do what we use in the university.
 
-- **[8:12:47 AM] Unassigned**: What we do? We do what we use in the university. I might just interact with her but I'm not going to have to. I think so. Please. Please. And I think she's sandwich. How much is what you're saying?
+- **[8:12:49 AM] Andy**: I might just interact with her but I'm not going to have to.
 
-- **[8:13:36 AM] Unassigned**: You can't just send me a cool friend that I got it I'm sure you can't get just the eye position. But when you take a man tell him have them check where the eye position is because This is supposed to put them as like I said with these with the bridge you know the bridge, it you know this is supposed to center in the eye you know. See like I see those your eye looks a little high in the glasses but your thing is fine. Those are regular glasses and not to brag they're not bifocal or they're not great. You've never so that made me part of it you know my eye got used to it took like three days two or three days so I have to get it just to do the um where um I would- Did you do my new lens or regular lens for the rest of your-
+- **[8:12:57 AM] Andrea**: Please. And I think she's sandwich.
 
-- **[8:15:10 AM] Unassigned**: No I have no more regressives. No I think it's a long description and I'd be awesome. How do you use your new lens for the rest of your- Yeah I understand that. Um I understand. That's a- out of things Oh the eyes out of sync Well you know my my understanding of when you're doing glass eyes like that it's all there are things that I believe that I people don't understand in terms of environment So meaning your eyes are going to change my eyes change to the day So like if I'm congested in the morning then I can't see Jack I mean I can see that
+- **[8:13:06 AM] Andy**: How much is what you're saying?
 
-- **[8:16:11 AM] Unassigned**: it's going to be out of whack Then what happens is that so it depends on when you get your I examined the timing of it and when they notice where your eyes are at as far as I'm They don't I don't think they think consider that
+- **[8:13:49 AM] Andy**: eye position.
 
-- **[8:17:05 AM] Unassigned**: working. Just do one damage and you have to so it's pretty easy.
+- **[8:13:50 AM] Andrea**: But when you take a man tell him have them check where the eye position is because
 
-- **[8:17:27 AM] Unassigned**: Ah you can get my hand. Right there. I can't do it I can't do it.
+- **[8:14:13 AM] Andy**: This is supposed to put them as like I said with these with the bridge you know the bridge, it you know this is supposed to center in the eye you know. See like I see those your eye looks a little high in the glasses but your thing is fine. Those are regular glasses and not to brag they're not bifocal or they're not great. You've never so that made me part of it you know my eye got used to it took like three days two or three days so I have to get it just to do the um where um I would- Did you do my new lens or regular lens for the rest of your- No I have no more regressives.
 
-- **[8:17:55 AM] Unassigned**: Hmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+- **[8:15:15 AM] Andrea**: No I think it's a long description and I'd be awesome. How do you use your new lens for the rest of your-
 
-- **[8:18:53 AM] Unassigned**: Press it like this. All right yeah. All right пош!
+- **[8:15:23 AM] Andy**: Yeah I understand that. Um I understand. That's a- out of things Oh the eyes out of sync Well you know my my understanding of when you're doing glass eyes like that it's all there are things that I believe that I people don't understand in terms of environment So meaning your eyes are going to change my eyes change to the day So like if I'm congested in the morning then I can't see Jack I mean I can see that it's going to be out of whack Then what happens is that so it depends on when you get your I examined the timing of it and when they notice where your eyes are at as far as I'm They don't I don't think they think consider that
 
-- **[8:19:25 AM] Unassigned**: High five.
+- **[8:16:58 AM] Andrea**: if I can make it easier for you but here you know you have to exercise while it's working. Just do one damage and you have to so it's pretty easy. if I can make it easier for you but if I can make it easier for
 
-- **[8:19:34 AM] Unassigned**: I'm going to see if you can tell. I'm going to see if you can tell. So I always will tell you about Gloria. Is that the word? Well it wasn't tell me anything about Gloria. I emailed Will and Gloria and I was just copying her on the correspondence because she wasn't the one that talked me about contacting Will as far as sending out bulky mouths So Will was very very interesting So he didn't really say anything to any groups Nothing was put out about my group at all And I guess some other ones So but he is the head of it So he sent me an email about back He probably never heard of thanking
+- **[8:17:20 AM] Andy**: you but if I can make it easier for you. Ah you can get my hand.
 
-- **[8:21:00 AM] Unassigned**: her He didn't really need to thank her I was you know maybe my mistake a bit I mean the way he sees email and I do it completely differently but that's cool I should have probably just not put her on the email thread A lot of times I just do that as a common encouraged the FYI so you know that I've done something you know so I didn't intend for everybody to be responded to and all that so but then you mentioned you know options on it and so it seems really kind of convoluted so what I'll All I'll do is I don't have contact with some three tested for COVID today. Three of us tested positive for COVID today I've been super sick since Tuesday night. I thought the sicknesses did to getting flu and COVID shots on Tuesday. We all think we picked it up at Port Fest.
+- **[8:17:55 AM] Andrea**: Hmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
 
-- **[8:22:36 AM] Unassigned**: Next uh whatever it is that's the next door. No I get emails about it. So this is what I wanted to look at.
+- **[8:19:04 AM] Andrea**: All right yeah.
 
-- **[8:23:07 AM] Unassigned**: Second Andy says you suggest using the full S-con mailing list. This is stored on constant contact. So a simplest way to the creative mailing is to go through that platform. I'm always hesitant to sit out from the aliens because I feel that people get too many. They unsubscribe. But I've noticed that other people wouldn't ask I'm fairly free about using the mailing list. So maybe I'm too cautious.
+- **[8:19:25 AM] Andrea**: High five.
 
-- **[8:23:35 AM] Unassigned**: Well how else are you supposed to get the news out about groups? So that's what kind of Anyway there are two ways we can approach things. I've already planned to send out an abbreviated email about clubs in mid-October. It would basically promote the three clubs, living mindfully dynamic mindfulness, plus opera and beyond. Two of us two of you could send me
+- **[8:19:34 AM] Andrea**: I'm going to see if you can tell.
 
-- **[8:24:01 AM] Unassigned**: whatever you want included. So I'm just going to say reply to all um hello Will I was joking when I mentioned about Gloria being my marketing agent because I just the way I deal with emails is I just include people at C.C so that they are aware I followed up on what we discussed. We don't need to include her in any other further marketing questions about the group at all. As far as what your plans are that's fine. We'll have to get the word out the best way we can and tell them. And I'm fine with that. Have a good weekend and I'll talk to you soon. Thank you.
+- **[8:19:49 AM] Andy**: So I always will tell you about Gloria. Is that the word? Well it wasn't tell me anything about Gloria. I emailed Will and Gloria and I was just copying her on the correspondence because she wasn't the one that talked me about contacting Will as far as sending out bulky mouths So Will was very very interesting So he didn't really say anything to any groups Nothing was put out about my group at all And I guess some other ones So but he is the head of it So he sent me an email about back He probably never heard of thanking her He didn't really need to thank her I was you know maybe my mistake a bit I mean the way he sees email and I do it completely differently but that's cool I should have
 
-- **[8:25:01 AM] Unassigned**: Take care. I will. I was joking when I meant to go out of the mind working out because of the way.
+- **[8:21:20 AM] Andy**: probably just not put her on the email thread A lot of times I just do that as a common encouraged the FYI so you know that I've done something you know so I didn't intend for everybody to be responded to and all that so but then you mentioned you know options on it and so it seems really kind of convoluted so what I'll All I'll do is I don't have contact with some three tested for COVID today. Three of us tested positive for COVID today I've been super sick since Tuesday night. I thought the sicknesses did to getting flu and COVID shots on Tuesday. We all think we picked it up at Port Fest.
 
-- **[8:25:58 AM] Unassigned**: All right so I'm going into that. It gets to be a like this big old mountain thing way too complicated just I'm not into Yeah it's just uh and I'm not going to question why it wasn't number four but that's okay. So I'll have Joy next week and there'll be it there's a new lady on the list it will sent me joy So I got two people on my mailing list or three because I got you So on my I have a contact And then what you can do is you know, you're going to have to do it from here. So I have S.com living mindfully and S.com associates I mean those are people. So I have Andrea Bill Vella Deborah Jensen Unger Hugh John Bennett Joyce Shepherd Michael and that Nick Franklin Peter King will meet him meet him.
+- **[8:22:36 AM] Andy**: Next uh whatever it is that's the next door. No I get emails about it. So this is what I wanted to look at.
 
-- **[8:27:57 AM] Unassigned**: So go ahead. So do you call the office yesterday to attend these two guys waiting up how they used to go? And frickin' physical I'm just starting to ask, would you talk to what I need to do at the no-value office at all? Does that have to do with my No I didn't know. Maybe you could have any of those in your head.
+- **[8:23:07 AM] Andy**: Second Andy says you suggest using the full S-con mailing list. This is stored on constant contact. So a simplest way to the creative mailing is to go through that platform. I'm always hesitant to sit out from the aliens because I feel that people get too many. They unsubscribe. But I've noticed that other people wouldn't ask I'm fairly free about using the mailing list. So maybe I'm too cautious.
 
-- **[8:28:27 AM] Unassigned**: You can do it very smoothly. Wonderful. You can do everything. You can do it on that. There you go. I'll have that again. Yeah so I'll send an email out with this group of people and I'll just keep adding to And then if I can get people out you know from my I just added a few of the old man and my info recovery people Nine of them I shut up to my meeting as you know and I might change the Sunday night meeting back to a Buddhist recovery thing so I can
+- **[8:23:35 AM] Andy**: Well how else are you supposed to get the news out about groups? So that's what kind of Anyway there are two ways we can approach things. I've already planned to send out an abbreviated email about clubs in mid-October. It would basically promote the three clubs, living mindfully dynamic mindfulness, plus opera and beyond. Two of us two of you could send me
 
-- **[8:29:25 AM] Unassigned**: advertise with a Buddhist recovery network Otherwise I'm running out of ideas and who to advertise with because there's nobody responding I could just kill the meditation group and just focus on the blog or I could just keep the group going and then just let I can get the blog post but the podcast going and the FCOM going and just wait to see how things develop that maybe just what I have to do. But I am putting work into it so that's kind of a fact. So I'm doing it for me which is fine. Like this one I have a blog that I'm kind of tying in the vision quest and with another teaching I got from my eyes on a prop note. So I have that ready.
+- **[8:24:01 AM] Andy**: whatever you want included. So I'm just going to say reply to all um hello Will I was joking when I mentioned about Gloria being my marketing agent because I just the way I deal with emails is I just include people at C.C so that they are aware I followed up on what we discussed. We don't need to include her in any other further marketing questions about the group at all. As far as what your plans are that's fine. We'll have to get the word out the best way we can and tell them. And I'm fine with that. Have a good weekend and I'll talk to you soon. Thank you.
 
-- **[8:30:36 AM] Unassigned**: I haven't pulled the plug on it yet because I'm, and I'm gonna use it for Sunday. So that's how I'm doing things. I'm writing a blog post about something either I write it before or after the meeting, depending on how which way I go so I don't waste my efforts and then well you know, create like three eight multiply things you know. So I'm basically working on two things instead of three you know instead of three things. I'm surprisingly busy now with all this stuff I got going in my life. So like this week I've had it's like you know I've got to achieve the thing going on and then I've got these medical appointments going on and then you know we've got moving
+- **[8:25:01 AM] Andy**: Take care. I will. I was joking when I meant to go out of the mind working out because of the way.
 
-- **[8:31:37 AM] Unassigned**: gear going on and just trying to fit it all in together yeah yeah so I mean it's just that as you know it's energy so I'm glad that I kind of like this morning my morning is shot because I'm dealing with medical stuff but I do pretty good in the morning I like the idea of having my meditation and then uh kind of um
+- **[8:25:58 AM] Andrea**: All right so I'm going into that.
 
-- **[8:32:22 AM] Unassigned**: yeah so today I'm not gonna walk in the morning so I'm gonna be walking around a little bit And the same thing that's what I did yesterday is that we did a walk and then I did a second walk. So I'm kind of managing that. I'm still steady on my weight 233.2 to 4 the last three days which is good so it's staying up now. I forgot on last night because I was in feeling so good. I know I may have more issues with ginger than I imagined. Oh I was supposed to be allergic to it. Yeah of course be allergic to it but I didn't realize.
+- **[8:26:05 AM] Andy**: It gets to be a like this big old mountain thing way too complicated just I'm not into Yeah it's just uh and I'm not going to question why it wasn't number four but that's okay.
 
-- **[8:33:05 AM] Unassigned**: So I was wondering I mean why was I sweating? And that's what I'm figuring okay what did I eat last night? I had cheese and I had ginger. Both of those both of those could cause me to get to burn up. So um one is analogy and then one is lactose intolerance and um I mean I could have a little bit of cheese that I had three or four pieces. It made me too much and then the ginger I mean I ate almost the whole tub of it the things half of it more than half of it. So yeah I was overheating last night and overheating the whole night and I didn't sleep as well That's probably because they ate late and so I have to you know it's like I'm hoping that
+- **[8:26:54 AM] Andy**: sent me joy So I got two people on my mailing list or three because I got you So on my I have a contact And then what you can do is you know, you're going to have to do it from here. So I have S.com living mindfully and S.com associates I mean those are people. So I have Andrea Bill Vella Deborah Jensen Unger Hugh John Bennett Joyce Shepherd Michael and that Nick Franklin Peter King will meet him meet him. So go ahead. So do you call the office yesterday to attend these two guys waiting up how they used to go? And frickin' physical I'm just starting to ask,
 
-- **[8:34:03 AM] Unassigned**: and I've been really good at not binging but like last night was kind of pseudo you know it's like I test the waters a little bit I mean I didn't totally binge out but I did eat beyond when I should have um let's see right You can go to the lab as one of the gummers, instead of going to one of their stays in the high-key fields For what? What kind of comments do you like when you're filming that? What do you think you said it and you look for a lad to get your blood work done? That looks like a mess at that hospital. There's so many people there. I feel the parking lot is full. When I go there it looks way busier.
+- **[8:28:12 AM] Andy**: would you talk to what I need to do at the no-value office at all? Does that have to do with my No I didn't know. Maybe you could have any of those in your head.
 
-- **[8:34:56 AM] Unassigned**: Sounds easy. I have to go there to get here. Well maybe you can get a satisfaction and don't have enough to see if they're doing it. I'm going to two places today I'm going to go visit the thing I've got a map of the whole territory that I've made. I'm going to make it more efficient to do it all at once. I don't mind I like driving my car I have to get gas too. So well I got to have to get automobile gas Okay I've got gas but I've won anything. What Why are you laughing at me? Geez. How wooed.
+- **[8:28:27 AM] Andy**: You can do it very smoothly. Wonderful. You can do everything. You can do it on that.
 
-- **[8:35:45 AM] Unassigned**: No I don't mind. Yeah yeah I don't mind. I've been watching the reaction videos. So one of them was where do I women at? A great one and the other one is, up yours in and then he says you know more on. It's funny. Blazing saddles. And then to see what else did I watch. I watched quite a few videos on Beatles albums people evaluating.
+- **[8:28:37 AM] Andrea**: There you go. I'll have that again.
 
-- **[8:36:24 AM] Unassigned**: You know it's so funny. that is a those evaluation videos that people watching other people what's the deal about them because these people really have not really aren't adding anything you know they're not experts they're you know you're just seeing them go You know their emotions are things and I think it's something to do with humans and emotion and you know curious about the people in their reactions it's that's what this whole tick-tock thing is like see me see me see me It's really interesting and I'm you know my whole blog posting I'm thinking of doing it's like I gotta get over this issue of you know I'm you know every time I've been in front of the camera I've been so awkward for a long time in front of
+- **[8:28:58 AM] Andy**: And then if I can get people out you know from my I just added a few of the old man and my info recovery people Nine of them I shut up to my meeting as you know and I might change the Sunday night meeting back to a Buddhist recovery thing so I can advertise with a Buddhist recovery network Otherwise I'm running out of ideas and who to advertise with because there's nobody responding I could just kill the meditation group and just focus on the blog or I could just keep the group going and then just let I can get the blog post but the podcast going and the FCOM going and just wait to see how things develop that maybe just what I have to do. But I am putting work into it so that's kind of a fact. So I'm doing it for me which is fine. Like this one I have a blog that I'm kind of tying in
 
-- **[8:37:41 AM] Unassigned**: the camera when I know that you know there was a time when I was working on the TV trucks where I used to like to go into the booth the broadcast booth when they're doing the games and kind of just sit I would sit in different areas you know mainly in the truck where I belong but I would sometimes go like at the broadcast booth because you know just because I'm bored and you know it's felt good to be a part of the team and just supporting them and whatever and so one time on my birthday I had gone up to the broadcast booth at the Giants game so I'm at the Giants game and I'm in the broadcast booth and they decide to say happy birthday to me So it's in the broadcast booth Oh you know what it may be at the day of my bottom too I didn't think about that Isn't that interesting Because
+- **[8:30:27 AM] Andy**: the vision quest and with another teaching I got from my eyes on a prop note. So I have that ready. I haven't pulled the plug on it yet because I'm, and I'm gonna use it for Sunday. So that's how I'm doing things. I'm writing a blog post about something either I write it before or after the meeting, depending on how which way I go so I don't waste my efforts and then well you know, create like three eight multiply things you know. So I'm basically working on two things instead of three you know instead of three things.
 
-- **[8:38:53 AM] Unassigned**: I know it was at PacBell And so when they pointed apparently when they were showing me it was showing me from the center field camera and then I saw what they were doing and I didn't know where the camera was and I'm the engineer I knew where the camera is working. So I'm like looking over the wrong camera and it just felt really awkward and then when I and so okay so that's one instant of it. But when I think about doing the podcast it's like I don't have all the perfect stuff. I don't have the studio. I don't have the you know there's something wrong that doesn't look right for me to fix. I have to fix it you know what I mean?
+- **[8:31:13 AM] Andy**: I'm surprisingly busy now with all this stuff I got going in my life. So like this week I've had it's like you know I've got to achieve the thing going on and then I've got these medical appointments going on and then you know we've got moving gear going on and just trying to fit it all in together yeah yeah so I mean it's just that as you know it's energy so I'm glad that I kind of like this morning my morning is shot because I'm dealing with medical stuff but I do pretty good in the morning I like the idea of having my meditation and then uh kind of um
 
-- **[8:39:49 AM] Unassigned**: I mean I guess I could clean up the office behind me and make it you know it's fine but yeah all these little imperfections you know my weight I have to be certain close to the camera to cut off my weight and you know all these different things. So anyway I'm going to have to when I do this blog posting then I have to get beyond that. You think so? I appreciate you being supportive of that. Yeah I think the blog the posts I've been posting have been okay. I do find myself judging more other people's blog posts that are there's one guy with a Buddhist one I'm really impressed with
+- **[8:32:22 AM] Andy**: yeah so today I'm not gonna walk in the morning so I'm gonna be walking around a little bit And the same thing that's what I did yesterday is that we did a walk and then I did a second walk. So I'm kind of managing that. I'm still steady on my weight 233.2 to 4 the last three days which is good so it's staying up now. I forgot on last night because I was in feeling so good. I know I may have more issues with ginger than I imagined. Oh I was supposed to be allergic to it. Yeah of course be allergic to it but I didn't realize.
 
-- **[8:41:15 AM] Unassigned**: So I get three or four of them. Buddhist philosophy. This guy Buddhist philosophy is really good. Who is he? he knew. Shut up. Yeah he is a name on it.
+- **[8:33:05 AM] Andy**: So I was wondering I mean why was I sweating? And that's what I'm figuring okay what did I eat last night? I had cheese and I had ginger. Both of those both of those could cause me to get to burn up. So um one is analogy and then one is lactose intolerance and um I mean I could have a little bit of cheese that I had three or four pieces. It made me too much and then the ginger I mean I ate almost the whole tub of it the things half of it more than half of it. So yeah I was overheating last night and overheating the whole night and I didn't sleep as well That's probably because they ate late and so I have to you know it's like I'm hoping that
 
-- **[8:41:51 AM] Unassigned**: by 48 watt se
+- **[8:34:03 AM] Andy**: and I've been really good at not binging but like last night was kind of pseudo you know it's like I test the waters a little bit I mean I didn't totally binge out but I did eat beyond when I should have um let's see right You can go to the lab as one of the gummers, instead of going to one of their stays in the high-key fields For what? What kind of comments do you like when you're filming that? What do you think you said it and you look for a lad to get your blood work done? That looks like a mess at that hospital. There's so many people there. I feel the parking lot is full. When I go there it looks way busier.
 
-- **[8:41:59 AM] Unassigned**: So I wonder what it says 540 merges to oh I can I can I can't just go yeah so man this guy's paying for a I know that it still means anyway so yeah so anyway I'm I shouldn't be comparing myself to others but anyway I am and this is how I improve and it's not a problem It's none of this is a problem but I'm just telling you what's in my head you know for me to then secretly work 49 Nice nice talking deal I'm going to leave 15 minutes itself.
+- **[8:34:56 AM] Andy**: Sounds easy. I have to go there to get here. Well maybe you can get a satisfaction and don't have enough to see if they're doing it. I'm going to two places today I'm going to go visit the thing I've got a map of the whole territory that I've made. I'm going to make it more efficient to do it all at once. I don't mind I like driving my car I have to get gas too. So well I got to have to get automobile gas Okay I've got gas but I've won anything. What Why are you laughing at me? Geez. How wooed.
 
-- **[8:43:56 AM] Unassigned**: I'm going to put it on your back, I'm going to put it on your back I'm going to put it on your back I'm going to put it on your back I'm going to put it on your back I'm going to put it on your back I'm going to put it on your back I'm going to put it on your back I'm going to put it on your back I'm going to put it on your back
+- **[8:35:45 AM] Andy**: No I don't mind. Yeah yeah I don't mind. I've been watching the reaction videos. So one of them was where do I women at? A great one and the other one is, up yours in and then he says you know more on. It's funny. Blazing saddles. And then to see what else did I watch. I watched quite a few videos on Beatles albums people evaluating.
 
-- **[8:44:16 AM] Unassigned**: I'm going to put it on your back I'm going to put it on your back I'm going to put it on your back I'm going to put it on your back
+- **[8:36:24 AM] Andy**: You know it's so funny. that is a those evaluation videos that people watching other people what's the deal about them because these people really have not really aren't adding anything you know they're not experts they're you know you're just seeing them go You know their emotions are things and I think it's something to do with humans and emotion and you know curious about the people in their reactions it's that's what this whole tick-tock thing is like see me see me see me It's really interesting and I'm you know my whole blog posting I'm thinking of doing it's like I gotta get over this issue of you know I'm you know every time I've been in front of the camera I've been so awkward for a long time in front of
 
-- **[8:46:48 AM] Unassigned**: it's
+- **[8:37:41 AM] Andy**: the camera when I know that you know there was a time when I was working on the TV trucks where I used to like to go into the booth the broadcast booth when they're doing the games and kind of just sit I would sit in different areas you know mainly in the truck where I belong but I would sometimes go like at the broadcast booth because you know just because I'm bored and you know it's felt good to be a part of the team and just supporting them and whatever and so one time on my birthday I had gone up to the broadcast booth at the Giants game so I'm at the Giants game and I'm in the broadcast booth and they decide to say happy birthday to me So it's in the broadcast booth Oh you know what it may be at the day of my bottom too I didn't think about that Isn't that interesting Because
 
-- **[8:48:56 AM] Unassigned**: Okay Macklemore announces free Palestine tour after Ed Sheridan thing it's great. Number three tour.
+- **[8:38:53 AM] Andy**: I know it was at PacBell And so when they pointed apparently when they were showing me it was showing me from the center field camera and then I saw what they were doing and I didn't know where the camera was and I'm the engineer I knew where the camera is working. So I'm like looking over the wrong camera and it just felt really awkward and then when I and so okay so that's one instant of it. But when I think about doing the podcast it's like I don't have all the perfect stuff. I don't have the studio. I don't have the you know there's something wrong that doesn't look right for me to fix. I have to fix it you know what I mean?
 
-- **[8:50:06 AM] Unassigned**: ASU removes Obama's name from scholarship program.
+- **[8:39:43 AM] Andy**: So it's like it's I got to get over that though. I mean I guess I could clean up the office behind me and make it you know it's fine but yeah all these little imperfections you know my weight I have to be certain close to the camera to cut off my weight and you know all these different things. So anyway I'm going to have to when I do this blog posting then I have to get beyond that. You think so? I appreciate you being supportive of that. Yeah I think the blog the posts I've been posting have been okay. I do find myself judging more other people's blog posts that are there's one guy with a Buddhist one I'm really impressed with
 
-- **[8:50:21 AM] Unassigned**: There's another state in the museum man this guy's other movie is going to be great.
+- **[8:41:15 AM] Andy**: So I get three or four of them. Buddhist philosophy. This guy Buddhist philosophy is really good. Who is he? he knew. Shut up. Yeah he is a name on it.
 
-- **[8:51:41 AM] Unassigned**: Calls go to remove pink as you in ICF ambassador over her Christmas of Macklemore.
+- **[8:41:51 AM] Andy**: by 48 watt se
 
-- **[8:56:22 AM] Unassigned**: good And I can now call my voice the first place.
+- **[8:41:59 AM] Andy**: So I wonder what it says 540 merges to oh I can I can I can't just go yeah so man this guy's paying for a I know that it still means anyway so yeah so anyway I'm I shouldn't be comparing myself to others but anyway I am and this is how I improve and it's not a problem It's none of this is a problem but I'm just telling you what's in my head you know for me to then secretly work 49 Nice nice talking deal I'm going to leave 15 minutes itself.
 
-- **[8:56:55 AM] Unassigned**: Intriguing. Is it even I mean it's in the news.
+- **[8:43:56 AM] Andy**: I'm going to put it on your back,
 
-- **[8:58:12 AM] Unassigned**: Okay I'll see you in a little bit.
+- **[8:48:56 AM] Andy**: Okay Macklemore announces free Palestine tour after Ed Sheridan thing it's great. Number three tour.
 
-- **[8:58:21 AM] Unassigned**: Oh the pomegranate I ate once I'd eat one of them. Freakin' horrible. Probably you can open up that one. It was so dry they weren't even red. I shouldn't have looked at it huh? Yeah but they shouldn't be sawing them when they're not you know. I mean it's supposed to I mean it's not like a cantaloupe or it might be a little premature or whatever. Yeah I'm going to break your teeth. You'll get a big kitty.
+- **[8:50:06 AM] Andy**: ASU removes Obama's name from scholarship program.
 
-- **[8:59:19 AM] Unassigned**: Yes. haha
+- **[8:56:42 AM] Andy**: And I can now call my voice the first place.
 
-- **[9:00:20 AM] Unassigned**: I'm going to jump forward and jump forward and jump forward and jump forward
+- **[8:56:55 AM] Andy**: Intriguing. Is it even I mean it's in the news.
 
-- **[9:02:20 AM] Unassigned**: yeah You're already here you're already here you're already here you're already here you're already here you're already here you're already here you're already
+- **[8:58:12 AM] Andy**: Okay I'll see you in a little bit.
 
-- **[9:04:20 AM] Unassigned**: Next up is the
+- **[8:58:21 AM] Andy**: Oh the pomegranate I ate once I'd eat one of them. Freakin' horrible. Probably you can open up that one. It was so dry they weren't even red. I shouldn't have looked at it huh? Yeah but they shouldn't be sawing them when they're not you know. I mean it's supposed to I mean it's not like a cantaloupe or it might be a little premature or whatever. You'll get a big kitty. Yes.
 
-- **[9:06:18 AM] Unassigned**: I think yeah I think I think I think I think I think I think I think I think I think I think I think I think I think I think I think I think I think I think I think I think I think I think I think
+- **[8:59:20 AM] Andy**: haha
 
-- **[9:07:48 AM] Unassigned**: I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I'm fine I'm fine I'm fine I'm fine I'm fine I'm fine I'm fine I'm fine I'm fine I'm fine I'm fine I'm fine I'm fine I'm fine I'm fine I'm fine I'm fine
+- **[9:04:20 AM] Andy**: Next up is the
 
-- **[9:09:18 AM] Unassigned**: Come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come I'm going to try to find a way to find a way to find a way to find a way to find a way to find a way to find a way to find a way to find a way to find a way to find a way to find
+- **[9:22:48 AM] Andy**: get
 
-- **[9:11:48 AM] Unassigned**: We'll be right back we'll be right back we'll be right back we'll be right back.
+- **[9:23:16 AM] Andy**: Good morning.
 
-- **[9:13:18 AM] Unassigned**: WAP WAP WAP WAP WAP WAP WAP WAP WAP WAP WAP WAP WAP WAP WAP WAP WAP WAP WAP WAP WAP WAP WAP WAP WAP WAP WAP WAP WAP WAP WAP WAP WAP WAP WAP WAP WAP WAP WAP WAP WAP W
+- **[9:23:26 AM] Andy**: Wake! Wake! Wake!
 
-- **[9:22:48 AM] Unassigned**: get
+- **[9:23:34 AM] Andy**: Wake! Wake!
 
-- **[9:23:16 AM] Unassigned**: Good morning.
+- **[9:23:46 AM] Andy**: I'll see the straps.
 
-- **[9:23:26 AM] Unassigned**: Wake! Wake! Wake!
+- **[9:24:00 AM] Andy**: The driver left, This is one of the most beautiful places in the world.
 
-- **[9:23:34 AM] Unassigned**: Wake! Wake!
+- **[9:24:38 AM] Andy**: I'm going to have to go to the other side of the road.
 
-- **[9:23:46 AM] Unassigned**: I'll see the straps.
+- **[9:26:02 AM] Andy**: Uh do you guys call it the tour guide? No I'll be so nervous. Alright.
 
-- **[9:24:00 AM] Unassigned**: The driver left, This is one of the most beautiful places in the world. This is one of the most beautiful places in the world. This is one of the most beautiful places in the world. This is one of the most beautiful places in the world. This is one of the most beautiful places in the world. This is one of the most beautiful places in the world. This is one of the most beautiful places in the world. I'm going to have to go to the other side of the road. I'm going to have to go to the other side of the road.
+- **[9:26:21 AM] Andy**: Good morning. Alright.
 
-- **[9:24:46 AM] Unassigned**: I'm going to have to go to the other side of the road. I'm going to have to go to the other side of the road. I'm going to have to go to the other side of the road. I'm going to have to go to the other side of the road.
+- **[9:26:31 AM] Andy**: Thank you.
 
-- **[9:25:32 AM] Unassigned**: five four five four five four five four five four five four five four five four five four five four five four five four five four five four Uh do you guys call it the tour guide? No I'll be so nervous. I'll be so nervous. Alright. Alright.
+- **[9:26:52 AM] Andy**: Okay I'll check there.
 
-- **[9:26:21 AM] Unassigned**: Good morning. Alright.
+- **[9:27:01 AM] Andy**: I'm going to take a look at it.
 
-- **[9:26:31 AM] Unassigned**: Thank you.
+- **[9:29:27 AM] Andy**: I'm going to go out and see if you can see what I'm going to do. I'm going to go out and see what I'm going to do. I'm going to go out and see if you can see what I'm going to do.
 
-- **[9:26:52 AM] Unassigned**: Okay I'll check there.
+- **[9:33:17 AM] Andy**: One more.
 
-- **[9:27:01 AM] Unassigned**: I'm going to take a look at it. I'm going to take a look at it. I'm going to take a look at it. I'm going to take a look at it. I'm going to take a look at it. I'm going to take a look at it. I'm going to take a look at it. I'm going to take a look at it. I'm going to take a look at it. I'm going to take a look at it.
+- **[9:33:45 AM] Andy**: I'm ready for the win. You have the wire? I need you to check your ID. Uh-oh Why? Why Yeah We have to check it. Oh I checked it out there when they checked in. Yeah No camera and nothing. I know we need to check it out. I have no problem I just wanted to make sure you said the wire. You said Ronald which I'm not used to.
 
-- **[9:27:21 AM] Unassigned**: I'm going to take a look at it. I'm going to take a look at it. I'm going to take a look at it.
+- **[9:34:09 AM] Andy**: I said on. Again?
 
-- **[9:29:27 AM] Unassigned**: I'm going to go out and see if you can see what I'm going to do. I'm going to go out and see what I'm going to do. I'm going to go out and see if you can see what I'm going to do. I'm going to go out and see if you can see what I'm going to do. I'm going to go out and see if you can see what I'm going to do. I'm going to go out and see if you can see what I'm going to do. I'm going to go out and see if you can see what I'm going to do. I'm going to go out and see if you can see what I'm going to do. I'm going to go out and see if you can see what I'm going to do. I'm going to go out and see if you can see what I'm going to do.
+- **[9:37:41 AM] Andy**: I'm going to take a look at it.
 
-- **[9:31:19 AM] Unassigned**: I'm going to go back I'm going to go back I'm going to go back I'm going to go back I'm going to go back I'm going to go back I'm going to go back
+- **[9:38:07 AM] Andy**: Nice. 3 policemen. 4 upon 5 in the 4 on Reach reach
 
-- **[9:33:17 AM] Unassigned**: One more. One more. One more. One more. One more. One more. One more. One more. One more. One more.
+- **[9:52:40 AM] Andy**: I'm going to have a look at this,
 
-- **[9:33:39 AM] Unassigned**: One more. One more. One more. I'm ready for the win. You have the wire? I need you to check your ID. Uh-oh Why? Why Yeah We have to check it. Oh I checked it out there when they checked in. Yeah No camera and nothing.
+- **[9:54:08 AM] Andy**: I'm going to have to go to the other side to see if I'm going to be able to get out of here.
 
-- **[9:34:02 AM] Unassigned**: I know we need to check it out. I have no problem I just wanted to make sure you said the wire. You said Ronald which I'm not used to. I said on. Again?
+- **[9:55:58 AM] Andy**: Hi good morning and are you a recoup code or provoked? Yeah quote quote. Do you have your Kaiser code? There you go. And your last name and end of your birthday? and then it's visor okay? You guys see it's okay right? I think about the next one. Did you want to do the 65 and over from the shot? Did you want to do the 65-minute overview shot?
 
-- **[9:37:41 AM] Unassigned**: I'm going to take a look at it. I'm going to take a look at it. I'm going to take a look at it. I'm going to take a look at it. I'm going to take a look at it. I'm going to take a look at it. I'm going to take a look at it. I'm going to take a look at it. I'm going to take a look at it. I'm going to take a look at it.
+- **[9:56:53 AM] Andy**: The hydro stage shot? Do you want to do on the same arm or the arm? Yeah same arm shot. I guess. Oh a center. How are you? Pretty good for yourself. I'm doing well. Can you do that? Yes please.
 
-- **[9:38:01 AM] Unassigned**: I'm going to take a look at it. I'm going to take a look at it. I'm going to take a look at it. Nice. 3 policemen. 4 upon 5 in the 4 on Reach reach
+- **[9:57:14 AM] Andy**: I think the first time I got it I did have to wait 15 minutes they recommended it because it was a little weird. Otherwise and then I'm going to have to go in and find it kind of reaction days later. Okay so now the problem that was I just got a little sick and yeah sure it was good. Yeah it wasn't. if it was that. Yeah it wasn't. if it was that.
 
-- **[9:52:40 AM] Unassigned**: I'm going to have a look at this, I'm going to have a look at this, I'm going to have a look at this, I'm going to have a look at this, I'm going to have a look at this, I'm going to have a look at this I'm going to have a look at this, I'm going to have a look at this, I'm going to have a look at this, I'm going to have a look at this,
+- **[9:58:33 AM] Andy**: I don't do all. You want to get ready for all of this?
 
-- **[9:53:00 AM] Unassigned**: I'm going to have a look at this, I'm going to have a look at this, I'm going to have a look at this, I'm going to have a look at this,
+- **[9:59:03 AM] Andy**: I think I have never seen that before 😅 perhaps this is that very beautiful I have never seen that before 😅 better take a closer look at this
 
-- **[9:54:08 AM] Unassigned**: I'm going to have to go to the other side to see if I'm going to be able to get out of here. I'm going to have to go to the other side to see if I'm going to be able to get out of here.
+- **[9:59:18 AM] Andrea**: Lift your legs awareness
 
-- **[9:55:28 AM] Unassigned**: I have seen it on my back come in I have seen it on my back come in I have seen it on my back come in I have seen it on my back come in I have seen Hi good morning and are you a recoup code or provoked? Yeah quote quote. Do you have your Kaiser code? Do you have your Kaiser code? There you go. There you go. And your last name and end of your birthday? and then it's visor okay? You guys see it's okay right?
+- **[9:59:20 AM] Andy**: comoyeon
 
-- **[9:56:35 AM] Unassigned**: I think about the next one. Did you want to do the 65 and over from the shot? Did you want to do the 65-minute overview shot? The hydro stage shot? Do you want to do on the same arm or the arm? Yeah same arm shot. I guess. Oh a center. How are you? Pretty good for yourself.
+- **[10:21:01 AM] Andrea**: Lop
 
-- **[9:57:02 AM] Unassigned**: I'm doing well. Can you do that? Yes please.
+- **[10:21:23 AM] Andy**: Hello this is Andy McGuire and I would like to just get in the appointment with Dragonfly healing arts to have some work done but I need to have it done in the next 15 to 30 minutes at the most so do you have express service? Thank you very much. Have a good day. You have to tell me you have to be called please. I called you won't pick up. I just saw your Facebook post and I'll call you in a minute. I'm considering this practice in the desert as my third. Okay I just read it.
 
-- **[9:57:14 AM] Unassigned**: I think the first time I got it I did have to wait 15 minutes they recommended it because it was a little weird. Otherwise and then I'm going to have to go in and find it kind of reaction days later. Okay so now the problem that was I just got a little sick and yeah sure it was good. Yeah it wasn't. Yeah it wasn't.
+- **[10:22:57 AM] Andy**: I knew what he did.
 
-- **[9:58:03 AM] Unassigned**: Thank you very much thank you very much thank you very much thank you very much thank you very much thank you very much thank you very much thank you very I don't do all. You want to get ready for all of this?
+- **[10:23:05 AM] Andy**: Oh but you didn't see the Facebook post though. Is it a call you in a minute? So I did it! I say what I'm gonna do and I do what I'm gonna say!
 
-- **[9:59:03 AM] Unassigned**: I think I have never seen that before 😅 perhaps this is that very beautiful I have never seen that before 😅 better take a closer look at this Lift your legs awareness comoyeon
+- **[10:23:36 AM] Andy**: That's okay that happens That's That happens in life sweetie. Also you did have a shot yesterday I know me too today
 
-- **[10:00:53 AM] Unassigned**: I have a white car behind me I have a white car behind me I have a white car behind me I have a white car behind me I have a white car behind me I have a white car behind me,
+- **[10:23:58 AM] Andy**: Why
 
-- **[10:03:49 AM] Unassigned**: You're going to be able to do it you're going to be able to do it you're going to be able to do it you're going to be able to do it you're going
+- **[10:24:04 AM] Andy**: Typical for me I have to drink a lot of Wawa and I have to come in at 803 in the morning if not then I have to wait for the next time I plump up Which is usually after dinner and I have drinking some a care white juice and Whatever bubbly stuff
 
-- **[10:21:01 AM] Unassigned**: Lop
+- **[10:24:29 AM] Andy**: Yeah I'm down why would I have to go back? They didn't get enough blood from you those blood suckers. No I have this happens to me all the time.
 
-- **[10:21:23 AM] Unassigned**: Hello this is Andy McGuire and I would like to just get in the appointment with Dragonfly healing arts to have some work done but I need to have it done in the next 15 to 30 minutes at the most so do you have express service? Thank you very much. Have a good day. You have to tell me you have to be called please. I called you won't pick up. I just saw your Facebook post and I'll call you in a minute. I'm considering this practice in the desert as my third. Okay I just read it.
+- **[10:24:53 AM] Andy**: Man somebody guzzles down yogurt. I like my yogurt for a minute What do I do?
 
-- **[10:22:57 AM] Unassigned**: I knew what he did.
+- **[10:25:10 AM] Andy**: I know it's over time. I have 14 photos of you here in the morning. Three two three.
 
-- **[10:23:05 AM] Unassigned**: Oh but you didn't see the Facebook post though. Is it a call you in a minute? So I did it! I say what I'm gonna do and I do what I'm gonna say!
+- **[10:25:28 AM] Andy**: I'm just playing with you sorry for interrupting your your your you're moving. I'll be out of here in a second. And I won't talk to you now.
 
-- **[10:23:36 AM] Unassigned**: That's okay that happens That's That happens in life sweetie. Also you did have a shot yesterday I know me too today
+- **[10:26:05 AM] Andy**: Where'd he in? which one did you get yours in I didn't want to put it on the most active arm
 
-- **[10:23:58 AM] Unassigned**: Why
+- **[10:27:10 AM] Andy**: I don't do too bad I get too heaping I follow your lead you're such a good example
 
-- **[10:24:04 AM] Unassigned**: Typical for me I have to drink a lot of Wawa and I have to come in at 803 in the morning if not then I have to wait for the next time I plump up Which is usually after dinner and I have drinking some a care white juice and Whatever bubbly stuff
+- **[10:27:39 AM] Andrea**: I think my fingers are hot and it just won't hurt.
 
-- **[10:24:29 AM] Unassigned**: Yeah I'm down why would I have to go back? They didn't get enough blood from you those blood suckers. No I have this happens to me all the time.
+- **[10:31:04 AM] Andrea**: But I can't do this because it almost feels like firm.
 
-- **[10:24:53 AM] Unassigned**: Man somebody guzzles down yogurt. I like my yogurt for a minute What do I do?
+- **[10:31:47 AM] Andrea**: I'm going to add some salt and pepper.
 
-- **[10:25:10 AM] Unassigned**: I know it's over time. I have 14 photos of you here in the morning. Three two three.
+- **[10:33:38 AM] Andy**: every day in the morning we reach out to him and say he can capacity to soar into nature, we usually make easy ways for him to go to much swim on a mountain. For the guests he also learned how to walk, but until the day will come, as he
 
-- **[10:25:28 AM] Unassigned**: I'm just playing with you sorry for interrupting your your your you're moving. I'll be out of here in a second. And I won't talk to you now.
+- **[10:37:43 AM] Andrea**: Bitter�잖 Bitter.
 
-- **[10:26:05 AM] Unassigned**: Where'd he in? which one did you get yours in I didn't want to put it on the most active arm
+- **[11:05:49 AM] Andy**: put it back inside as much as possible
 
-- **[10:27:10 AM] Unassigned**: I don't do too bad I get too heaping I follow your lead you're such a good example I think my fingers are hot and it just won't hurt.
+- **[11:06:02 AM] Andrea**: the cutting board should have been cleaned
 
-- **[10:31:04 AM] Unassigned**: But I can't do this because it almost feels like firm.
+- **[11:17:42 AM] Andy**: Chickpeas
 
-- **[10:31:47 AM] Unassigned**: I'm going to add some salt and pepper. And then I'm going to add some salt and pepper. And then I'm going to add some salt and pepper.
+- **[11:53:11 AM] Andrea**: I think
 
-- **[10:33:38 AM] Unassigned**: every day in the morning we reach out to him and say he can capacity to soar into nature, we usually make easy ways for him to go to much swim on a mountain. For the guests he also learned how to walk, but until the day will come, as he goes to school suddenly,
+- **[11:55:31 AM] Andrea**: Bye-bye!
 
-- **[10:37:31 AM] Unassigned**: I threw my left index finger to lower it off the bar but let's try and press it down to make that punch.
+- **[12:23:28 PM] Andrea**: I'm going to put it on the other side.
 
-- **[10:37:43 AM] Unassigned**: Bitter�잖 Bitter. Bitter Ney actually punch. Bitter Bitter. Bitter Bitter. I nied provoc Bitter. Qing Kun imit Pe practicing yeah?
+- **[12:39:32 PM] Andy**: I know you did I was not complaining Look at all that nice soap in there. That's it? I put the floor to the house from the basement and I put another piece of kids. Woo!
 
-- **[10:37:56 AM] Unassigned**: Voish Don't go Яim and Bitter ====
+- **[12:40:11 PM] Andrea**: No wonder!
 
-- **[10:47:15 AM] Unassigned**: I'm going to put this on the other side of the head. I'm going to put this on the other side. I'm going to put this on the other side of the head. I'm going to put this on the other side of the head. I'm going to put this on the other side of the head. I'm going to put this on the other side of the head. I'm going to put this on the other side of the head. I'm going to put this on the other side of the head. I'm going to put this on the other side of the head. I'm going to put this on the other side of the head.
+- **[12:40:13 PM] Andy**: It's so speakin' span and clean! You're a good one. So much in here. Oh yeah you know what I'm doing now? I found this other Buddhist site. I've been downloading they have all these modern teachers info so I was getting all the books playing them in my obsidian thing. So now I gotta go and back towards my real job which is to get my blog post out and to prepare for the meeting Meeting Sunday
 
-- **[10:47:35 AM] Unassigned**: I'm going to put this on the other side of the head. I'm going to put this on the other side of the head. I'm going to put this on the other side of the head. I'm going to put this on the other side of the head.
+- **[12:41:17 PM] Andy**: So many I shouldn't have it in the gap affirmation and it's really about applying it really so anyway which are you reading now Will you listen to our viewing Chinese drama Is it Taoist or Buddhist or Taoist or Taoism Taoism actually includes almost all of it. This is more political. Polarical. How was it? You know good. Yes. It's a difficult thing.
 
-- **[10:50:07 AM] Unassigned**: I'm going to do the same with the other side as the other side as the other side as the other side as the other side as the other side as the other side as the other side as the other side as the other side
+- **[12:42:08 PM] Andrea**: And the good people are in danger.
 
-- **[10:51:29 AM] Unassigned**: I'm going to put this on the top of the head and I'm going to put this on the top of the head and I'm going to put this on the top of the head and I'm going to put this on the top of the head,
+- **[12:42:12 PM] Andy**: Good versus evil that's kind of a big. It's a thing that humans have.
 
-- **[10:53:51 AM] Unassigned**: just a little bit more, just a little bit more, just a little bit more, just a little bit more, just a little bit more, just a little bit more, just a little bit more, just a little bit more, just a little bit more, just a little bit more,
+- **[12:42:25 PM] Andrea**: For good reason.
 
-- **[10:54:11 AM] Unassigned**: just a little bit more, just a little bit more, just a little bit more,
+- **[12:42:27 PM] Andy**: You know you've had a philosophy. It was a Friday night I saw a red cab or a blue cab when I was out blue Prius it was a blue Prius but it was no as big taxi. I didn't see the driver.
 
-- **[10:57:41 AM] Unassigned**: I'm going to cut it into small pieces so I'm going to cut it into small pieces so I'm going
+- **[12:43:02 PM] Andrea**: Where was it? It's a clipper. Can you probably go into the jacket and say it's all?
 
-- **[10:59:09 AM] Unassigned**: I'm going to put it in the middle of it and I'm going to put it in the middle of it and I'm going to put it in the middle of it and I'm
+- **[12:43:18 PM] Andy**: It was. Got one on but I saw it. Yeah I don't think I saw it if the uh don't think I saw that Kaiser. Kaiser? You know what? You like that Kaiser? This is so frickin' busy. There was like 50 cars getting out of the parking lot all at once. And 50 cars trying to get into the parking lot all at once. I mean 20 at least.
 
-- **[11:01:09 AM] Unassigned**: Hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey
+- **[12:43:50 PM] Andy**: I had to drive and turn right and go down the parking lot and come back around and try to get back out And that parked in the new park a lot across the street not in a lot where everybody tries to get into which is right nearby I went across the street in that one Those are all full That whole place is full I'm telling you people are circling trying to park Guess what I had I had a parking spot right next to where I got my my my lab work done and I found out when I was doing it I was going to do the little green thing that you know that allows you to do it with your phone So I saw it and it said okay so I was I was going to get an hour and I said $2 and then I looked down below it says plus D, $0.50. I'm like screw that but I went into the machine pulled out my credit card put it in took
 
-- **[11:04:35 AM] Unassigned**: a little bit of this, a little bit of this, a little bit of this, a little bit of this, a little bit of this, a little bit of this, a little bit of this, a little bit of this, a little bit of this, a little bit of this,
+- **[12:44:59 PM] Andy**: it out. It was only $1.50. So they were going to actually lying and charging a dollar instead of $0.50. 50 cents No that's something So it was the city only charged me a dollar 50 for an hour. And the app was saying it was two dollars but then they added a 50 cents charge on it. So screw them I'm going to I'm going to complain. two step in and bumping it up but you have a hell of a time driving in there there's the masses of people in there okay well I guess I'm unique I'm Hey Andy's gonna be there let's all go there at the same time he is. How long did you have to wait for your shot?
 
-- **[11:04:55 AM] Unassigned**: a little bit of this, a little bit of this,
+- **[12:46:14 PM] Andy**: Nothing. As soon as I got there they had a pool of like six or eight people giving the shot. So I had to get through all the baby carriages and the people in their walkers trying to get their shot. And I had to go around and almost knock over the baby to try to get back to the first of the community. to get inside I didn't navigate the hordes of people. Yeah I mean it was yeah since I walked in and grossing. Oh I'm back here Okay I'll try to get for you. Yeah that was her age Adrianna and yeah probably yeah and one lady when I was walking. So the phlebotomist lady asked me if I was dressed for Halloween. She's an Indian lady from India and I'm very conservative I could tell.
 
-- **[11:05:49 AM] Unassigned**: put it back inside as much as possible
+- **[12:47:32 PM] Andy**: So I'm like what do you mean? I like cats and dinosaurs. That's what I said actually. I know. That's why would she ask that? So no I like cats and dinosaurs and then in another lady she was walking with her father or whoever at the at the hellhole Kaiser on the path there. She liked it. Actually it's still got wrinkles on it because it doesn't come out so I have to do a cold iron thing on it to get all these wrinkles out because this is actually a plastic material.
 
-- **[11:06:02 AM] Unassigned**: the cutting board should have been cleaned away from the green and the RJ Like I'm going to cut it into bite-sized pieces so I'm going to cut it into bite-sized pieces so I'm going to cut it into bite-sized pieces so I'm I'm going to put it in the middle of the water and I'm going to put it in the water and I'm going to put it in the water and I'm going to put it in the water and I'm going to
+- **[12:48:29 PM] Andy**: It covers my body. I know I'm trying to distract you from that. I want to distract you myself. Okay I'll let you get back to your distraction I needed a break from life. I'm using you to distract me from my break that I needed to go back to. I'm sorry I borrowed it.
 
-- **[11:12:05 AM] Unassigned**: I'm going to use a little bit of water to make sure I don't get too much water in my mouth. I'm going to use a little bit of water to make sure I don't get too much water in my mouth.
+- **[12:48:59 PM] Andy**: I took away your snorinity. It's my idea. Do my thing. Okay go be cranky and do your thing. I hope you like it. It's my fault. You still have what hour and a half? 90 minutes. Okay sweetie boy. I'm going to go back in there and try to make sure you don't have any information.
 
-- **[11:12:55 AM] Unassigned**: I'm going to add a little bit of sugar. I'm going to add a little bit of sugar. I'm going to add a little bit of sugar.
+- **[12:49:38 PM] Andy**: Well they also signed up for the teacher group and the some other inner group thing that's where they talk about teaching and all that stuff. So it was helpful yeah. And I think I'm gonna post my meeting on their site. Okay it looks like I might be able to access
 
-- **[11:15:54 AM] Unassigned**: I'm going to have a look at you, I'm going to have a look at you, I'm going to have a look at you, I'm going to have a look at you, I'm going to have a look at you, I'm going to have a look at you I'm going to have a look at you, I'm going to have a look at you, I'm going to have a look at you, I'm going to have a look at you,
+- **[12:50:01 PM] Andrea**: my ginger birthday classes now.
 
-- **[11:16:14 AM] Unassigned**: I'm going to have a look at you, I'm going to have a look at you, I'm going to have a look at you, I'm going to have a look at you,
+- **[12:50:04 PM] Andy**: Oh okay it looks like it.
 
-- **[11:16:52 AM] Unassigned**: I'm going to use a little bit of water to make sure I don't get too much water so I'm going I'm going to use a little bit of water to make sure I don't get too much water so I'm going to use a little bit of water to make sure I don't get too much water. I'm going to use a little bit of water to make sure I don't get too much water so I'm going to use a little bit of water to make sure I don't get too much water. Chickpeas
+- **[12:50:06 PM] Andrea**: Yeah I have to give it a try when we're ready if we're going to try it.
 
-- **[11:23:35 AM] Unassigned**: I think it's a little bit different from what I've seen in the past. I think it's a little bit different from what I've seen in the past. I think it's a little bit different from what I've seen in the past. I think it's a little bit different from what I've seen in the past. I think it's a little bit different from what I've seen in the past.
+- **[12:50:10 PM] Andy**: Okay we have to do it Monday or Tuesday next Tuesday because I have Monday I have a day off. We could do it after a day off but it's going to be late and then Tuesday. You saw I signed up for some spaces for some groups that we could attend. They're just information only when we want to and for you to want to. I want to attend some of James's meetings and Eve Decker is teaching there for the next month. So and she's doing the grama of Ahara's and yeah and then Howie and I'm gonna connect with some of the other teachers just because you know so they connect with him.
 
-- **[11:28:35 AM] Unassigned**: I'm going to use a little bit of water to make sure I don't get too much water in my mouth. I'm going to use a little bit of water to make sure I don't get too much water in my mouth.
-
-- **[11:36:01 AM] Unassigned**: I'm going to go to wash my hands and wash my hands with water and wash my hands with water and wash my hands with water and wash my hands with water and wash my hands with water
-
-- **[11:44:04 AM] Unassigned**: a little bit more,
-
-- **[11:45:32 AM] Unassigned**: I'm going to use a little bit of water to make sure I don't get too much water so I'm going to use a little bit of water to make sure I don't get too much water. I'm going to use a little bit of water to make sure I don't get too much water so I'm going to use a little bit of water to make sure I don't get too much water.
-
-- **[11:55:31 AM] Unassigned**: Bye-bye!
-
-- **[11:57:59 AM] Unassigned**: I'm going to use a little bit of water to get rid of all the dirt and dirt that I've been using for a long time. I'm going to use a little bit of water to get rid of all the dirt and dirt that I've been using for a long time.
-
-- **[12:29:26 PM] Unassigned**: a little bit of this, a little bit of this, a little bit of this a little bit of this a little bit of this a little bit of this a little bit of this a little bit of this a little bit of this a little bit of this
-
-- **[12:29:46 PM] Unassigned**: a little bit of this a little bit of this a little bit of this
-
-- **[12:33:44 PM] Unassigned**: I'm going to have to go to the other side of the house. I'm going to have to go to the other side of the house. I'm going to have to go to the other side of the house. I'm going to have to go to the other side of the house. I'm going to have to go to the other side of the house. I'm going to have to go to the other side of the house. I'm going to have to go to the other side of the house. I'm going to have to go to the other side of the house. I'm going to have to go to the other side of the house. I'm going to have to go to the other side of the house.
-
-- **[12:34:04 PM] Unassigned**: I'm going to have to go to the other side of the house. I'm going to have to go to the other side of the house. I'm going to have to go to the other side of the house.
-
-- **[12:34:40 PM] Unassigned**: I'm not sure if I can do it but I'm sure I can do it but I'm sure I can do it but I'm sure I can do it but I'm sure I can
-
-- **[12:38:02 PM] Unassigned**: I'm going to have to get out of here and get out of here and get out of here and get out of here.
-
-- **[12:39:32 PM] Unassigned**: I know you did I was not complaining Look at all that nice soap in there. That's it? I put the floor to the house from the basement and I put another piece of kids. Woo! No wonder! It's so speakin' span and clean! You're a good one. You're good baby. So much in here. Oh yeah you know what I'm doing now?
-
-- **[12:40:25 PM] Unassigned**: I found this other Buddhist site. I've been downloading they have all these modern teachers info so I was getting all the books playing them in my obsidian thing. So now I gotta go and back towards my real job which is to get my blog post out and to prepare for the meeting Meeting Sunday
-
-- **[12:41:17 PM] Unassigned**: So many I shouldn't have it in the gap affirmation and it's really about applying it really so anyway which are you reading now Will you listen to our viewing Chinese drama Is it Taoist or Buddhist or Taoist or Taoism Taoism actually includes almost all of it. This is more political. Polarical. Polarical. How was it? You know good. Yes.
-
-- **[12:42:07 PM] Unassigned**: It's a difficult thing. And the good people are in danger. Good versus evil that's kind of a big. It's a thing that humans have. For good reason. You know you've had a philosophy. It was a Friday night I saw a red cab or a blue cab when I was out blue Prius it was a blue Prius but it was no as big taxi. I didn't see the driver. Where was it?
-
-- **[12:43:06 PM] Unassigned**: It's a clipper. Can you probably go into the jacket and say it's all? It was. Got one on but I saw it. Yeah I don't think I saw it if the uh don't think I saw that Kaiser. Kaiser? You know what? You like that Kaiser? This is so frickin' busy. There was like 50 cars getting out of the parking lot all at once.
-
-- **[12:43:42 PM] Unassigned**: And 50 cars trying to get into the parking lot all at once. I mean 20 at least. I had to drive and turn right and go down the parking lot and come back around and try to get back out And that parked in the new park a lot across the street not in a lot where everybody tries to get into which is right nearby I went across the street in that one Those are all full That whole place is full I'm telling you people are circling trying to park Guess what I had I had a parking spot right next to where I got my my my lab work done and I found out when I was doing it I was going to do the little green thing that you know that allows you to do it with your phone So I saw it and it said okay so I was I was going to get an hour and I said $2 and then I looked down below it says plus D,
-
-- **[12:44:50 PM] Unassigned**: $0.50. I'm like screw that but I went into the machine pulled out my credit card put it in took it out. It was only $1.50. So they were going to actually lying and charging a dollar instead of $0.50. 50 cents No that's something So it was the city only charged me a dollar 50 for an hour. And the app was saying it was two dollars but then they added a 50 cents charge on it. So screw them I'm going to I'm going to complain. two step in and bumping it up but you have a hell of a time driving in there there's the masses of people in there okay well I guess I'm unique I'm
-
-- **[12:46:05 PM] Unassigned**: Hey Andy's gonna be there let's all go there at the same time he is. How long did you have to wait for your shot? Nothing. As soon as I got there they had a pool of like six or eight people giving the shot. So I had to get through all the baby carriages and the people in their walkers trying to get their shot. And I had to go around and almost knock over the baby to try to get back to the first of the community. to get inside I didn't navigate the hordes of people. Yeah I mean it was yeah since I walked in and grossing. Oh I'm back here Okay I'll try to get for you. Yeah that was her age Adrianna and yeah probably yeah and one lady when I was walking.
-
-- **[12:47:18 PM] Unassigned**: So the phlebotomist lady asked me if I was dressed for Halloween. She's an Indian lady from India and I'm very conservative I could tell. So I'm like what do you mean? I like cats and dinosaurs. That's what I said actually. I know. That's why would she ask that? So no I like cats and dinosaurs and then in another lady she was walking with her father or whoever at the at the hellhole Kaiser on the path there. She liked it.
-
-- **[12:48:09 PM] Unassigned**: Actually it's still got wrinkles on it because it doesn't come out so I have to do a cold iron thing on it to get all these wrinkles out because this is actually a plastic material. It covers my body. I know I'm trying to distract you from that. I want to distract you myself. Okay I'll let you get back to your distraction I needed a break from life. I'm using you to distract me from my break that I needed to go back to. I'm sorry I borrowed it.
-
-- **[12:48:57 PM] Unassigned**: I'm sorry I borrowed it. I took away your snorinity. It's my idea. Do my thing. Okay go be cranky and do your thing. I hope you like it. It's my fault. You still have what hour and a half? 90 minutes. Okay sweetie boy.
-
-- **[12:49:29 PM] Unassigned**: I'm going to go back in there and try to make sure you don't have any information. Well they also signed up for the teacher group and the some other inner group thing that's where they talk about teaching and all that stuff. So it was helpful yeah. And I think I'm gonna post my meeting on their site. Okay it looks like I might be able to access my ginger birthday classes now. Oh okay it looks like it. Yeah I have to give it a try when we're ready if we're going to try it.
-
-- **[12:50:10 PM] Unassigned**: Okay we have to do it Monday or Tuesday next Tuesday because I have Monday I have a day off. We could do it after a day off but it's going to be late and then Tuesday. You saw I signed up for some spaces for some groups that we could attend. They're just information only when we want to and for you to want to. I want to attend some of James's meetings and Eve Decker is teaching there for the next month. So and she's doing the grama of Ahara's and yeah and then Howie and I'm gonna connect with some of the other teachers just because you know so they connect with him.
-
-- **[12:51:05 PM] Unassigned**: Okay okay all the way there.
+- **[12:51:05 PM] Andy**: Okay okay all the way there.
 
