@@ -15,13 +15,13 @@ tags:
 - bee-nlm-report
 - krisp-daily-summary
 ---
-# Preparing Gear and Troubleshooting Equipment, Sharing Family Memories and History, and Navigating Community Logistics And Conflict
+# 2026-09-26 08:08:34 (5h00m), Preparing Gear and Troubleshooting Equipment, and Sharing Family Memories and History
 📅 **Date**: Saturday, September 26, 2026 (2026-09-26)
 👥 **Attendees**: Andrea (Wife), Andy, Mark (Vision Quest Colleague), Holly & Keith (Andrea's Parents)
 🎙️ **Primary Data Source**: **Plaud Local PC Ingest (Direct API + Local Whisper AI)**
-📊 **Plaud Sessions Processed (PRIMARY)**: **2**
+📊 **Plaud Sessions Processed (PRIMARY)**: **4**
 📊 **Bee Sessions Processed (SECONDARY BACKUP)**: **13**
-🔄 **Report Revision Date**: **2026-09-27 08:25:21 PDT**
+🔄 **Report Revision Date**: **2026-09-27 13:17:49 PDT**
 ### ⚙️ Pipeline Status & Data Ingestion Log
 - ⚡ **Plaud Direct Ingest**: ✅ **Active** (0 Cloud Minutes Spent, 0 Phone Taps Needed)
 - 🎙️ **Local Whisper AI Transcripts**: ✅ **Active**
@@ -215,14 +215,14 @@ Back at home, Andy and Andrea checked on Andy's dedicated laptop running autonom
 * **Stewart** — *Context:* Husband of Elisa, discussed during council dynamics and Gaza–Israel community conflict.
 * **Elisa** — *Context:* Council colleague whose husband Stewart's viewpoints prompted community dialogue.
 * **Holly & Keith** — *Context:* Andrea's parents, joined for dinner at R'Noh Thai and evening home visit.
-* **Mark & Denise** — *Context:* Vision Quest colleagues who transported gear home to Petaluma.
+* **Mark & Denise** — *Context:* Vision Quest colleagues who transported gear home to Petaluma. (Note: Denise was out walking their dogs; discussions were strictly between Mark, Andrea, and Andy).
 
 ---
 
 ## 📚 Stories & Case Examples Shared
 
 ### 1️⃣ Vision Quest Gear Sorting & Council Dialogue at Mark's Petaluma Home
-* **Narrative Context:** Andy and Andrea traveled to Mark and Denise's home in Petaluma to collect the Vision Quest gear Mark had carried back from the wilderness. Only Mark was home.
+* **Narrative Context:** Andy and Andrea traveled to Mark and Denise's home in Petaluma to collect the Vision Quest gear Mark had carried back from the wilderness. Only Mark was home (Denise was out walking their dogs; discussions were strictly with Mark, Andrea, and Andy).
 * **The Key Passage (Verbatim):** While sorting lanterns, batteries, fuel, and folding chairs, Andy and Mark discussed the sharp tensions within their community council sparked by Elisa's husband Stewart's comments regarding the Gaza–Israeli divide. Andy underscored: *"A two-state solution is the only real path to peace. We have to keep the council larger than any one person's bigotry and hold onto basic human decency."*
 * **The Human / Contemplative Tension:** Holding a sacred community circle together when global political tragedies inflame personal sensitivities and risk fracturing fellowship.
 * **The Turning Point / Realization:** Acknowledging that political righteousness cannot supersede spiritual fellowship, and choosing dialogue, boundaries, and mutual respect.

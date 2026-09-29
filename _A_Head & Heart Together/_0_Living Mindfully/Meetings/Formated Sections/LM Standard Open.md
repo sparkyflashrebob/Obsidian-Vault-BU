@@ -3,9 +3,9 @@
 Hello and Good evening, 
 Welcome to this weeks Living Mindfully Meditation Meeting.
 
-I am grateful that you have taken this time out of your week to join us here.  I hope that you find this group supportive of both your internal spiritual practice and your external practice of engaging with the world at large.  
+I am grateful that you have taken this time out of your week to join us here.  And I hope that you find this group supportive of both your internal spiritual practice and your external practice - engaging with the world at large.  
 
-Why don’t we take a moment to intentionally arrive, to let go of what we had going on before we came into the meeting as best we can in this moment,  and to simply come into presence, grounding ourselves in our own bodies.
+Why don’t we take a moment to intentionally arrive, to release as best as we can what we had going on before we came into the meeting,  and to simply come into presence, grounding ourselves in our own bodies.
 
 Taking in a few calming breaths.
 
