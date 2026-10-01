@@ -1,14 +1,17 @@
 # Plaud Daily Transcript - Tuesday, September 29, 2026
 - **Date**: 2026-09-29
 - **Total Audio Sessions Processed**: 4
-- **Generated**: 2026-09-30 06:58:45
+- **Generated**: 2026-10-01 03:03:35
 
 ---
 
 ## 🎙️ Session 1: 2026-09-29 20:54:59 (46s)
 - **Source File**: `2026-09-29 20_54_59.mp3`
+- **Audio ID**: `of_c14b84fbf539ad066420322533aa26f9`
 
-- **[8:54:59 PM] Andy**: Okay so it is four minutes to nine so basically nine PM and I've had a long day and something that just came into my mind is maybe having an eGravity add what I was doing on the app in my daily reports while it's doing them so I think I'm going to do that. And then if there's much else I'm going to talk about tonight so I'm going to turn off the recordings.
+- **[00:00 - End] (Speaker / Group)**: - **[8:54:59 PM] Andy**: Okay so it is four minutes to nine so basically nine PM and I've had a long day and something that just came into my mind is maybe having an eGravity add what I was doing on the app in my daily reports while it's doing them so I think I'm going to do that. And then if there's much else I'm going to talk about tonight so I'm going to turn off the recordings.
+
+---
 
 ## 🎙️ Session 2: 09-29 Jin Shin for First Aid w Susie Plettner, part 1 (2h28m)
 - **Source File**: `09-29 Jin Shin for First Aid w Susie Plettner, part 1.mp3`
@@ -176,111 +179,60 @@
 
 ## 🎙️ Session 4: 2026-09-29 08:26:10 (5h00m)
 - **Source File**: `2026-09-29 08_26_10.mp3`
+- **Audio ID**: `of_950f1d3703c1d50254663883bccfbeba`
 
-
-- **[8:31:20 AM] Andy**: Okay so I'm thinking about thinking about how I am proceeding with all this stuff, We're meaning the misunderstanding between me and Andrea on what I was doing and and reports and documenting what I'm doing. documenting what I'm doing When the important thing is me developing the The teachings yeah I guess I could translate communication yeah the being able to to communicate effectively. Thomas Herobito in his book, that I was reading on the decision quest,
-
+- **[00:00 - End] (Speaker / Group)**: - **[8:31:20 AM] Andy**: Okay so I'm thinking about how I am proceeding with all this stuff, We're meaning the misunderstanding between me and Andrea on what I was doing and and reports and documenting what I'm doing. documenting what I'm doing When the important thing is me developing the The teachings yeah I guess I could translate communication yeah the being able to to communicate effectively. Thomas Herobito in his book, that I was reading on the decision quest,
 - **[8:33:51 AM] Andy**: actually spent a lot of time and I was in the middle of all that of talking about how words matter.
-
 - **[8:34:09 AM] Andy**: So I think I'm questioning you know whether I'm an effective communicator or not. And does that mean I'm going to abandon the messages I have? I don't think so. I think most of what I have to say is something that's common sense that is common to all of us to most of us.
-
 - **[8:34:59 AM] Andy**: own worlds And this is where we cause friction because our personal interests bump up against others And they're interests There's a lot of commonality that is common interest that gets glossed over and it's the differences that become the problems perceived differences. So all of this is really more of like a journal reflection right now on building up to what My theme is going to be for this coming Sunday and for the blog post. So I think what I'll do is a living mindfully and whenever I get some gas speakers to the I'll just call it the podcast and label who the guest is.
-
 - **[8:36:51 AM] Andy**: Okay let me go for a walk to see if I can help me a little bit.
-
 - **[8:38:13 AM] Andy**: The moon is still out almost full closed on the wires.
-
 - **[8:38:43 AM] Andy**: Good morning.
-
 - **[8:45:31 AM] Andy**: It's funny the things that you fight in your mind and the feeling that domestic The situation in the house it's like cooking and cleaning it.
-
 - **[8:46:19 AM] Andy**: But it was wild.
-
 - **[8:46:31 AM] Andy**: It seems like it is such a big fault it seems like it is going to take a few feet for any of the team here.
-
 - **[8:46:44 AM] Andy**: Also one of my straight thoughts was
-
 - **[8:46:51 AM] Andy**: putting in a $40,000 to get money. Keep. Yeah what?
-
 - **[8:51:28 AM] Andy**: No birds in the bird no feeder. Hi your dog admired you I can tell I did I did I did I you Fuck you there I can tell I'm here. That was wonderful. Hi there. That's a good day.
-
 - **[8:53:19 AM] Andy**: I do this I seem to be walking a bunch better and I have been no tightness or pain in the day. I'm not really I'm not walking yesterday.
-
 - **[8:53:38 AM] Andy**: Even one day I'll be walking. I think I'm not eating in the night I just leave.
-
 - **[8:56:23 AM] Andy**: little tightness in my right back to get the end of my walk.
-
 - **[8:58:23 AM] Andy**: I'm gonna try to do it fast.
-
 - **[8:58:53 AM] Andy**: Drowning care. Weird experiencing that time tunnel effect where it seems like things are moving away from you but your standing still and I'm out of the car so it's really We have something interesting perception something with?
-
 - **[9:01:17 AM] Andy**: Start meditation around 9.02 a.m.
-
 - **[10:08:48 AM] Andy**: I'm going to have to go to the other side to see if I'm going to be able to get out of here.
-
 - **[10:32:53 AM] Andy**: to things that are current.
-
 - **[10:36:00 AM] Andy**: So I am actually got all three recorders here and I'm going to do this Dahmer and Life Note for 260929 with the idea of me creating a journal entry or I'm thinking about what is pertinent for me that I would like to talk about. And one of the things that I've you know I keep coming coming back to is authenticity, which I have a report that I did here and some when I thought of authenticity I also thought about what brings satisfaction to life. I don't even know if I'm qualified to ask that question. I am in a certain sense that all human beings can ask that question and should ask that question. But one of the reasons why we wouldn't ask that if I'm even qualified is because I'm not sure I have a full life compared to some other comparisons outside you know.
-
 - **[10:37:48 AM] Andy**: I don't get to travel a lot I'm really not that close with a lot of family members. On either side or all the various sides of my relationships even when I try to put in effort to connect with people they seem to have other interests that preclude them from spending any time with me so there's this sense of I'm not alone because my relationship with my wife is I believe firm but at the same time I realize that I am my own being and she is her own being and that's really how I know I seek more to a clearer. Today earlier was reflecting on some of the misunderstandings about in our communication, we had the living mindfully meeting on Sunday night I decided to go ahead and stream it live on YouTube And I asked permission from the one other guest that came in Alicia was really nice to meet her But then and I asked and I repeated it when Andrea came
-
 - **[10:40:23 AM] Andy**: into the meeting because she came in a little later And she said she was fine with it. But then when I recounted it after editing the video last night she did not understand what I was doing and when I was explained to her I was really happy I was actually happy about being able to edit and hide the names and things like that She didn't care about me being happy about that She cared about the fact that I was she wasn't aware I was was streaming it that it went out to the world So that brought me some angst seeing that she completely it would completely over her head because I thought there was some understanding when there was none. So communication is very fickle between human beings. And I can't really account for her for why she
-
 - **[10:41:45 AM] Andy**: apparently acknowledged what I had talked to her about and got her permission on. Maybe it's because she was more distracted about there being another person in the room in the meeting which could have been the case but the reality of the relationship is that we spend some time together and then she has her priorities you know she lays down to rest her neck and to relax from her day and to regenerate that seems what she usually does and then you know we get we normally get together in the morning one were together and for a few minutes and I talked to her about life and she goes about her tasks and then finally I go about my tasks and a lot of her tasks around you know washing her dishes and eating and watching her TV and and charging her battery and it for her dystonia.
-
 - **[10:43:34 AM] Andy**: We get together for dinner and then sometimes we walk together and then we try to watch TV shows together You know we have our certain shows and then after the shows then we go our separate ways again So we get together on the common common needs that we have which is to eat to wake up and have coffee and and converse together on things.
-
 - **[10:45:38 AM] Andy**: I'm putting some of this on pause because I just got an email from Will on his meeting, mindfulness meeting that's occurring in I guess in the Nevada location but he has a zoom thing for it so I thought of another automation.
-
 - **[10:55:50 AM] Andy**: Can we automate the Gmail merge for sending the Google Contacts label for SCOM underscore living mindfully with the Gmail draft template living mindfully club meeting invite to run on Mondays and Wednesdays of every week. Then the Living Mindfully S-Com Club meetings are on the calendar. And on the weeks where it's not on the calendar send the same email send a reminder.
-
 - **[11:17:40 AM] Andy**: don't need to send me anymore I've got multiple.
-
 - **[11:43:30 AM] Andrea**: Don't you ever give up? When it's not sweet enough or if you're used to it
-
 - **[11:43:46 AM] Andy**: I was always worried
-
 - **[11:43:49 AM] Andrea**: I thought I was kind of a mere guy
-
 - **[11:43:52 AM] Andy**: And I was always like why? So far it's like
-
 - **[11:59:48 AM] Andy**: I'm going to try it with my own hands.
-
 - **[12:34:19 PM] Andy**: those in this folder.
-
 - **[12:47:42 PM] Andy**: It seems like a long time. I'm not even sure if I even have things more together.
-
 - **[12:47:59 PM] Andy**: I can't even count. And I have over 12,000 songs in my collection. I back them up and then I organize them into different collections so I can use them for DJing etc. And then I decide that that's not working because there's too much work. So I delete all the duplicates that I've made. Now that I've got anti-gravity I found it very easy for me to work on this with my life where I've got three different recorders on my hips and I create transcripts and I I try to collect daily notes on my activities because I'm trying to collect this information for a book and for my blog and for the meetings that I'm involved in with SCOM and my own meditation
-
 - **[12:49:15 PM] Andy**: group living mindfully I'm top of this then there's all the activities in life that come in the way Today my calendar is fairly clear but there's a meeting with the Mission Dharma folks later that like to attend but then Andrea is giving someone a treatment and we'll be getting back at a certain time to make a conflict with this and our eating activities are required. I guess I could skip out and just on my things which I don't do frequently just so that that we can eat together and participate where we can.
-
 - **[12:50:56 PM] Andy**: If we have a better copy in the root I would like to move that over to the folder where it's organized and delete the lower quality image. If we are talking about using the HEIC versus the JPEGs or PNGs if I necessarily want to keep the HEIC files. 3648 by 2736 is pretty good resolution.
-
 - **[12:52:50 PM] Andy**: Go ahead as you've suggested and run the four cross-folder match. Integrity has been a pain but it's also been a godsend because I am actually very very much more productive and a lot of the tediousness that I used to experience now has turned into patients and trying to uh converse with the end of gravity to get what is needed. It's funny the things that deal with computer oriented things we seem to do fairly well. We have a hiccup here and there. But when it comes to human terms meaning transcribing understanding what is being said, and interpreting that it gets a little bit more complicated. For instance I'm trying to find quotes of things that I've said that are inspiring or notable in terms of life and we seem to be having a lot of trouble with that. I've given quite a few examples of quotes that are acceptable that would be a good kind
-
 - **[12:54:50 PM] Andy**: of way of determining that but there's something missing.
-
 - **[12:55:50 PM] Andy**: The Buddha has some recommendations for right speech being that is it true is it beneficial, is the right time and is kind. The conflicts come where we is it true number one and is it beneficial? So what is truth? My feeling is that and what is beneficial also I think a lot of what I find beneficial and is also true has to do with how we deal with each other and where we are either beneficial or unvinificial And what I mean by beneficial is is where it's supportive of folks or where it is not supportive of folks.
-
-- **[12:57:19 PM] Andy**: In this society we place a lot more value on money What we spend it on and what we don't spend it on and what we want to spend it on is where it puts more money in our pockets and we don't want to spend it on where it benefits society because this takes it away from our pockets But there are certain things that we're willing to spend money on for instance war we seem to be endlessly spending money on war without question. We also don't want to spend money on things that we find questionable in terms of their value and that's a very important question question to have what has value Education has value maintaining the earth has value But this does not seem to be the case for a lot of folks in this country promoting health and well-being promoting infrastructure so that we can transport things and keep our economy afloat so that people are not harmed
-
+- **[12:57:19 PM] Andy**: In this society we place a lot more value on money What we spend it on and what we don't spend it on and what we want to spend it on is where it puts more money in our pockets and we don't want to spend it on where it benefits society because this takes it away from our pockets But there are certain things that we're willing to spend money on for instance war we seem to be endlessly spending money on war without question. We also don't want to spend money on things that we find questionable in terms of their value and that's a very important question to have what has value Education has value maintaining the earth has value But this does not seem to be the case for a lot of folks in this country promoting health and well-being promoting infrastructure so that we can transport things and keep our economy afloat so that people are not harmed
 - **[12:59:19 PM] Andy**: is a priority.
-
 - **[1:03:35 PM] Andy**: truth and beneficial So beneficial has the idea of being oh that's right it's going to talk right and wrong right right but not true true but not right.
-
 - **[1:04:55 PM] Andy**: right but not true true but not right. So this would talk about having views and opinions and comparing this with truth and being beneficial. you provide some research on this subject so that I might create a blog post from it.
-
 - **[1:18:24 PM] Andy**: harm people I am also thinking about the gift where the Buddha presents the story where he was speaking and one of his enemies had sent a woman in to claim that she was pregnant And he asked her about going to someone's house and bringing them a gift and what if they did not accept a gift and whose gift is it? how these two might also fit in so that I'm comfortable moving forward with a a long post about it.
-
 - **[1:20:28 PM] Andrea**: This is perfect.
-
 - **[1:20:50 PM] Andy**: I would like to tie in some of the issues that are happening in our society. for instance regarding immigration where people are feel where the story we have been told is that there's a bunch of criminals out here and who are creating fear in us but the reality is that there's a lot of people who are supporting us with their labor to bring us food etc. The view that others are the enemy. So the methods that are being used to correct this are cruel and unusual. What is being said to the masses is that they are bad people. in reality this is untrue and folks are not determining whether it's true or not. They believe it's true regardless of whether it really is the facts.
-
 - **[1:22:38 PM] Andy**: So we're seeing the results of this policy on immigration as it is tearing families apart, termed communities apart and a lot of people are being harmed.
-
 - **[1:23:31 PM] Andy**: I also like how the pieces connect in my blog posts.
-
 - **[1:23:55 PM] Andy**: I really love the story about the Buddha halting the war at the Rohini River. There might be some contests about the value of water especially that we have a lot of drought and a lack of fresh water for people these days but still it makes sense in terms of we change that to profit for corporations and for billionaires. The value of human blood is really the value of life is beyond measure and priceless and this is what is getting lost. So we're worried about being right in terms of cost but undervaluing human life and the benefit it would be for everybody versus just a few So this would include something like sacrificing for humanity Ideally it would be a given take that we would sacrifice
-
 - **[1:25:37 PM] Andy**: for humanity but that base that our social society would support human beings and lives, and this is getting lost. having compassion for the suffering of others is very much a part of this For instance in Gaza and Palestine,
 
+---
