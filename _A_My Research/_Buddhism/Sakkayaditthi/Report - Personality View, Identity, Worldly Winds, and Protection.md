@@ -1,21 +1,55 @@
+---
+title: "Personality View (Sakkāya-Diṭṭhi), Identity, Worldly Winds, and Protection"
+created: 2026-10-01
+updated: 2026-10-02
+type: master-report
+pillar: 1
+status: completed
+tags:
+  - buddhism
+  - sakkayaditthi
+  - identity-view
+  - anatta
+  - 5-aggregates
+  - 8-worldly-winds
+  - book-draft
+  - blog-essay
+  - living-mindfulness-sunday
+  - escom-club-thursday
+  - recovery-archive
+  - mindful-recovery
+  - voice-journal-pipeline
+---
+
 # Comprehensive Report: Personality View (*Sakkāya-Diṭṭhi*), Identity, the Eight Worldly Winds, and Safeguarding Against Attacks
 
 > **Location:** `_A_My Research/_Buddhism/Sakkayaditthi/`  
 > **Source Synthesis:** Vault research including *Understanding Identity View*, *Can a Person Realize Enlightenment*, *Belonging and Identity*, *Personality View*, *Developing the Self*, *Sedaka Sutta (The Acrobats)*, *Navigating the Storm: Eight Worldly Winds*, *Entertainers & Public Feedback*, and *Eight Verses of Training the Mind*.  
 > **Created:** 2026-10-01 11:31:00-07:00  
-> **Last Updated:** 2026-10-01 12:01:30-07:00  
+> **Last Updated:** 2026-10-02 13:45:00-07:00  
 > 
 > ### Version History & Updates
 > * **v1.0.0 (2026-10-01 11:31:00-07:00) — Initial Release:** Synthesized vault research on personality view (*sakkāya-diṭṭhi*), identity attachment, the eight worldly winds, public servants vs. entertainers, and safeguarding against attacks.
 > * **v1.1.0 (2026-10-01 11:57:46-07:00) — Master Consolidation & Expansions:** Integrated deep-dive sections on Pre-Emptive Fabrication (*saṅkhāra*), the Ownerless Aggregates cascade, the Economy of Praise (public safety vs. invisible labor), the Stoic Protector, Persona vs. Brand collapse, Evolutionary Overload, and the polarities of Depersonalization.
 > * **v1.2.0 (2026-10-01 12:01:30-07:00) — Strategic Integration & Creative Roadmap:** Documented central authorial intent establishing *Sakkāya-diṭṭhi* as the cornerstone theme across forthcoming books, blogs, meditation dharma talks, daily voice journal recordings, and workflow note synthesis.
+> * **v1.3.0 (2026-10-02 11:30:00-07:00) — The Triad Integration:** Formally cross-linked with its two sister master reports: [[Report - Saṅkhāra, Mental Fabrications, Ajahn Sumedhos Teaching on the Mother, and Mindful Recovery]] (`_A_My Research/_Buddhism/sankhara/`) and [[Report - The Observer, Reacting vs. Observing in Meditation, Mediation, and Active Life]] (`_A_My Research/_Buddhism/The Observer/`).
+> * **v1.4.0 (2026-10-02 13:45:00-07:00) — Taxonomy & Publication Hub:** Added standard YAML frontmatter tags for cross-vault indexing across books, blogs, Sunday/Thursday meditation groups, and recovery archives.
+> * **v1.5.0 (2026-10-02 14:15:00-07:00) — Tetralogy Expansion (Pillar 4 Integration):** Formally cross-linked with [[Report - Karma, Skillfulness, Sakkayaditthi, and Sankharas, How to Treat Experience]] (`_A_My Research/_Buddhism/Karma/`).
+> * **v1.6.0 (2026-10-02 14:24:00-07:00) — Foundational Overture Integration (Pentology):** Formally cross-linked with the book's primary opening treatise: [[Report - The Conditioning Process in Humans, Evolution, Consciousness, Karma, Trauma, and the Architecture of Freedom]] (`_A_My Research/_Buddhism/Conditioning/`), anchoring personality view (*sakkāya-diṭṭhi*) as a conditioned survival suit within the broader evolutionary, somatic, and karmic matrix.
 > 
-> > [!IMPORTANT] Author's Strategic Intent & Creative Roadmap
-> > **Featured Cornerstone Theme:** *Sakkāya-diṭṭhi* (Personality View) is designated as a foundational core subject across all creative, pedagogical, and reflective outputs:
-> > 1. **Forthcoming Books:** Serving as a primary structural pillar exploring identity formation, suffering, and freedom in modern life.
-> > 2. **Public Blogs & Essays:** Translating classical sutta psychology (the 5 Aggregates, Honeyball Sutta, Sedaka Sutta) into accessible modern inquiries.
-> > 3. **Meditation Teachings & Dharma Talks:** Practical instruction on catching pre-emptive mental fabrication (*saṅkhāra*), navigating the Eight Worldly Winds, and cultivating the "Observer."
-> > 4. **Daily Voice Journals & Automated Note Pipeline:** Active tracking across daily audio recordings (Plaud/Bee sync), personal reflections, and ongoing practice observations.
+> > [!IMPORTANT] Master Book Architecture Hub: The Five Works of Human Liberation
+> > This report is an integrated component in a five-part contemplative, scientific, and clinical master series:
+> > 0. **Foundational Overture:** [[Report - The Conditioning Process in Humans, Evolution, Consciousness, Karma, Trauma, and the Architecture of Freedom|The Conditioning Process in Humans]] — The primal predicament: evolution, consciousness, karma, somatic trauma, and the de-conditioning runway to freedom.
+> > 1. **Pillar 1 (Current File):** [[Report - Personality View, Identity, Worldly Winds, and Protection|Sakkāya-diṭṭhi (The Phantom Owner)]] — The architecture of self-defense, role entrapment, and vulnerability to the 8 Worldly Winds.
+> > 2. **Pillar 2:** [[Report - Saṅkhāra, Mental Fabrications, Ajahn Sumedhos Teaching on the Mother, and Mindful Recovery|Saṅkhāra (The Dramatic Conductor)]] — Cognitive construction, predictive processing, Ajahn Sumedho's Mother teaching, morphic resonance, and habit loops.
+> > 3. **Pillar 3:** [[Report - The Observer, Reacting vs. Observing in Meditation, Mediation, and Active Life|The Observer (The Seat of Freedom)]] — Moving from compulsive reaction to spacious awareness in meditation, mediation, and active daily life.
+> > 4. **Pillar 4:** [[Report - Karma, Skillfulness, Sakkayaditthi, and Sankharas, How to Treat Experience|Karma & Skillfulness (The Craft of Experience)]] — The operational engine: treating experience as old karma (*purāṇa-kamma*) met by liberating new action (*nava-kamma*).
+> > 
+> > **Multi-Channel Publication & Teaching Tracking:**
+> > • **Book & Essay Pillars:** `#book-draft` `#book-foundation` `#blog-essay`  
+> > • **Active Weekly Teaching:** `#living-mindfulness-sunday` (Sunday Evenings) | `#escom-club-thursday` (Thursdays 2 PM)  
+> > • **Recovery & Urge Surfing Archives:** `#recovery-archive` `#mindful-recovery`  
+> > • **Contemplative Core:** `#sakkayaditthi` `#sankhara` `#the-observer` `#anatta`
 
 ---
 

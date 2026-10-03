@@ -7309,7 +7309,7 @@ Created: 2023-10-14
 - [[N-big-dotover.gif]]
 - [[Neuroscience Hacks The Healing Power of Pleasure.md]]
 - [[Learning How To Think  - Choice]]
-- [[Meditation Retreat List.md]]
+- [[Meditation Retreat List]]
 - [[Duplicate notes]]
 - [[Kilroy Crates Estimation.md]]
 - [[AVDG_Obsidian/Templates/Kanban Tasking/AVDG Kanban FlowTasks.md]]

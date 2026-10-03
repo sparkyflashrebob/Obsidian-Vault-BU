@@ -149,6 +149,16 @@ Ajahn Chah was renowned for his direct, humorous, earthy, and uncompromising ped
 > 
 > *"Why are you trying to keep them separate? When you swallow the food, it all goes into the exact same stomach pot anyway! Look at your mind right now—look at the craving for the sweet and the aversion to the pungent. We do not eat to entertain our tongues or chase pleasant feelings. We eat simply as medicine to sustain the body for Dhamma practice."*
 
+### 21. The Silent Master in the Wheelchair (*Ajahn Nyaniko's Recollection*)
+> As recounted by Ajahn Nyaniko (Abbot of Abhayagiri Monastery), during the final ten years of Ajahn Chah's life (following a debilitating stroke in 1981), Luang Por Chah was completely paralyzed, wheelchair-bound, and unable to speak—cared for around the clock by devoted attendant monks who bathed, turned, and tube-fed him.
+> 
+> A young monk, fired up with spiritual ambition and high expectations, traveled thousands of miles across the globe to Wat Pah Pong specifically to meet the legendary forest meditation master and receive direct, personal Dhamma instructions. When he arrived at the monastery, he was ushered into Luang Por's quarters—only to find an elderly man slumped silently in a wheelchair, incommunicado, unable to move or speak a single word.
+> 
+> The young monk was crushed, furious, and deeply resentful. He complained bitterly: *"I came all this way across the ocean to get a great teaching from this world-renowned meditation master, and he can't even talk to me! It's a complete waste of time!"*
+> 
+> Seeing the young monk's distress, the senior monks gently reflected back to him:
+> *"What did you come to see? Did you come to see a charismatic personality entertain your ego with witty words? Luang Por is giving you the highest, most uncompromising Dhamma talk of your life right now! Look at the body: aging, sickness, and decay (*Jara, Byadhi, Marana*). Look at impermanence (*Anicca*) and not-self (*Anattā*). The body is just four elements breaking down in nature. If you cannot learn from his silent presence in that wheelchair, ten thousand words will never teach you."*
+
 ---
 
 ## 📚 3. Vault & Book Cross-References
