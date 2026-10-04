@@ -36,6 +36,7 @@ tags:
 > * **v1.4.0 (2026-10-02 13:45:00-07:00) — Taxonomy & Publication Hub:** Added standard YAML frontmatter tags for cross-vault indexing across books, blogs, Sunday/Thursday meditation groups, and recovery archives.
 > * **v1.5.0 (2026-10-02 14:15:00-07:00) — Tetralogy Expansion (Pillar 4 Integration):** Formally cross-linked with [[Report - Karma, Skillfulness, Sakkayaditthi, and Sankharas, How to Treat Experience]] (`_A_My Research/_Buddhism/Karma/`).
 > * **v1.6.0 (2026-10-02 14:24:00-07:00) — Foundational Overture Integration (Pentology):** Formally cross-linked with the book's primary opening treatise: [[Report - The Conditioning Process in Humans, Evolution, Consciousness, Karma, Trauma, and the Architecture of Freedom]] (`_A_My Research/_Buddhism/Conditioning/`), anchoring personality view (*sakkāya-diṭṭhi*) as a conditioned survival suit within the broader evolutionary, somatic, and karmic matrix.
+> * **v1.7.0 (2026-10-03 14:55:00-07:00) — Authenticity, Imposter Syndrome, Recovery, and Mental Health Expansion:** Added Section 9 synthesizing the non-self deconstruction of imposter syndrome, the fallacy of curated authenticity, terminal uniqueness in addiction recovery, and cognitive defusion in depression/anxiety, linked with master chapter draft: [[Authenticity, Imposter Syndrome, Recovery, and Mental Health -- The Dissolution of Sakkāya-Diṭṭhi]].
 > 
 > > [!IMPORTANT] Master Book Architecture Hub: The Five Works of Human Liberation
 > > This report is an integrated component in a five-part contemplative, scientific, and clinical master series:
@@ -585,7 +586,39 @@ When the mind moves through the barrier of fear and tastes genuine non-identific
 
 ---
 
-## 9. Conclusion: Returning to *Mundus* and True Freedom
+## 9. Sakkāya-Diṭṭhi in Authentic Living: Overcoming Imposter Syndrome, Healing Addiction, and Mental Health Liberation
+
+*(See companion master chapter draft: [[Authenticity, Imposter Syndrome, Recovery, and Mental Health -- The Dissolution of Sakkāya-Diṭṭhi]])*
+
+When *sakkāya-diṭṭhi* is brought out of abstract monastic philosophy and into daily modern living, it directly unlocks the root causes of our most painful psychological afflictions:
+
+### 9.1 The Paradox of Authenticity: Beyond the "Curated True Self"
+Modern culture idolizes "finding your authentic self"—an enterprise that inadvertently creates a new, anxious performance of curated vulnerability. From the perspective of *Anattā* (non-self):
+* There is no static, golden "true self" hidden inside the aggregates.
+* **True authenticity is *Yathābhūta-ñāṇadassana* (seeing things as they are)**: the courageous cessation of pretense (*māyā*). It is the radical honesty to acknowledge present reality—including insecurity, messy thoughts, or mistakes—without building an armored defense around them.
+
+### 9.2 Imposter Syndrome as the Direct Pathology of Identity View
+Imposter syndrome requires the fabrication of two contradictory fictions:
+1. *The Idealized Persona*: The flawless, competent, wise figure others allegedly see.
+2. *The Shadow Defective Self*: The secretly fraudulent, inadequate imposter terrified of exposure.
+
+**The Zen / Buddhist Inquiry: *Who is the Imposter?***  
+When attention investigates the five aggregates directly, where is the permanent "fraud" or "expert"? Skills, speech, learning, and errors are impersonal processes. Imposter syndrome dissolves not by inflating self-esteem (which merely strengthens the fragile facade), but by realizing that **both the genius and the fraud are empty labels (*paññatti*)**. Without an unchanging self to defend, you are free to simply show up and do the work.
+
+### 9.3 The Recovery Dimension: Terminal Uniqueness and Ego-Fatigue
+In addiction and compulsive behavior, *sakkāya-diṭṭhi* is lethal:
+* **Terminal Uniqueness (*Māna*)**: *"My pain is different; the rules don't apply to me."* This arrogance isolates the sufferer from community (*Sangha*).
+* **The Armor That Causes Relapse**: Maintaining a false front to hide inner shame burns out the prefrontal cortex and spikes allostatic load. Relapse is the desperate bid to numb the agony of ego-fatigue.
+* **Surrender as Non-Self**: Recovery begins with Step 1—the total collapse of the ego-control delusion. As captured in Andy's personal reflection (*"I'm a drunk—why would I judge this guy?"*), catching the ego trying to manufacture superiority is the doorway to radical humility and lifelong sobriety.
+
+### 9.4 Mental Health: Depression, Social Anxiety, and ACT
+* **Depression**: The petrification of transient negative feelings (*dukkha-vedanā*) into absolute identity (*"I am broken"*). Healing occurs through cognitive defusion and decentering.
+* **Social Anxiety**: The ego acting as an internal surveillance camera, assuming an imaginary courtroom is judging "me." Non-self turns attention outward into compassion and presence.
+* **Acceptance & Commitment Therapy (ACT)**: The clinical shift from **Self-as-Content** (rigid *sakkāya-diṭṭhi* narratives) to **Self-as-Context** (the spacious observing awareness that cannot be harmed by its contents).
+
+---
+
+## 10. Conclusion: Returning to *Mundus* and True Freedom
 
 Personality view thrives on the illusion of permanency, boundary, and control. When viewed through the lens of **Mundus**—the universe as a self-organizing natural reality:
 * We are transient configurations of 10 sextillion atoms per breath, hosts to 38 trillion bacteria destined to return to the biosphere under the Second Law of Thermodynamics.

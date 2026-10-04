@@ -22,6 +22,7 @@ Abhayagiri Monastic Retreat
 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017 
 2018 (Mt Madonna Center), 
 2019 (Applegate Retreat Center)
+2020, 2022 On-Line
 
 2017 Personal Retreat (10 days), 2020 Personal Retreat (7 days)
 

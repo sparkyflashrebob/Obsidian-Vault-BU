@@ -20,3 +20,8 @@ The way it is and all things for book
   ​Book - [[Sakkaya Ditthi]] So happy when we all get along very joyful
 
 #Confirmation_Bias
+
+
+### Key Chapter Drafts & Themes
+* [[Authenticity, Imposter Syndrome, Recovery, and Mental Health -- The Dissolution of Sakkāya-Diṭṭhi]]
+  * *Themes:* Authenticity without a fixed self (*Yathābhūta-ñāṇadassana*); Deconstructing Imposter Syndrome (*Who is the fraud?*); Addiction, terminal uniqueness (*māna*), and ego-fatigue relapse; Mental health (depression petrification, social anxiety surveillance camera, ACT Self-as-Context).

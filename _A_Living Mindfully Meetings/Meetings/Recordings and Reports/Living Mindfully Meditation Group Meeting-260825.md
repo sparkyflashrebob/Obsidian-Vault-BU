@@ -103,5 +103,5 @@ Key highlights included:
 
 ## 🔗 Related Notes
 - [[LM 07 - Compendium of Journal Entries and Practice Notes on Pain and Difficulty]]
-- [[Comprehensive Book Theme Compilation Report]]
+- [[Report - Comprehensive Book Theme Compilation Report]]
 - [[Daily Note 260825]]
