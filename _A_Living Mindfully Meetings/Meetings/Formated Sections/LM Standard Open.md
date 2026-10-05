@@ -4,12 +4,17 @@ Hello and Good evening, 
 Welcome to this weeks Living Mindfully Meditation Meeting.
 
 I am grateful that you have taken this time out of your week to join us here.  And I hope that you find this group supportive of both your internal spiritual practice and your external practice - engaging with the world at large.  
+The time is now, and now is the knowing"  Recollecting the here and now - and the way it is. 
+And as Jack Kornfield said, "**"Awakening is not a rare privilege reserved for a few saints or ascetics; it is the natural birthright of every human being."** — _The Wise Heart_"
 
-Why don’t we take a moment to intentionally arrive, to release as best as we can what we had going on before we came into the meeting,  and to simply come into presence, grounding ourselves in our own bodies.
+[PAUSE]
+
+So why don’t we take a moment to intentionally arrive, to release as best as we can what we had going on before we came into the meeting,  and to simply come into presence, grounding ourselves in our own bodies.
 
 Taking in a few calming breaths.
 
-And setting an intention to have an open <u>mind</u> and open <u>heart</u>. 
+And setting an intention to have an open <u>mind</u> and open <u>heart</u>.   To stay in the present moment - and knowing the way it is.
+
 [PAUSE]
 Thank you.
 
