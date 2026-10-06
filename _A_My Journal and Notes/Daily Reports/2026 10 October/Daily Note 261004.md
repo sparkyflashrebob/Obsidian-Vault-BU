@@ -15,21 +15,22 @@ tags:
 - bee-nlm-report
 - krisp-daily-summary
 ---
-# Evaluating device performance and reports
+# 2026-10-04 07_37_58, 2026-10-04 08_21_47, and Evaluating device performance and reports
 📅 **Date**: Sunday, October 04, 2026 (2026-10-04)
-👥 **Attendees**: Andy
-🎙️ **Primary Data Source**: **Bee Secondary Backup Ambient Recordings** (Plaud Files Pending Sync)
-📊 **Plaud Sessions Processed (PRIMARY)**: **0**
+👥 **Attendees**: Andy McGuire, Andrea McGuire (Wife)
+🎙️ **Primary Data Source**: **Linearity High-Fidelity & Plaud Local PC Ingest (Local Whisper AI)**
+📊 **Linearity Sessions Processed (PRIMARY)**: **1**
+📊 **Plaud Sessions Processed (PRIMARY)**: **5**
 📊 **Bee Sessions Processed (SECONDARY BACKUP)**: **1**
-🔄 **Report Revision Date**: **2026-10-05 03:00:44 PDT**
+🔄 **Report Revision Date**: **2026-10-05 14:49:04 PDT**
 ### ⚙️ Pipeline Status & Data Ingestion Log
 - ⚡ **Plaud Direct Ingest**: ✅ **Active** (0 Cloud Minutes Spent, 0 Phone Taps Needed)
+- 🎙️ **Linearity High-Fidelity Ingest**: ✅ **Active** (1 High-Fidelity Session Processed)
 - 🎙️ **Local Whisper AI Transcripts**: ✅ **Active**
 - 🐝 **Bee Secondary Backup**: ✅ **Active** (Cross-referenced & Reconciled)
 - 📧 **Gmail & Financial Ingest**: ✅ **Active**
 - 📅 **Google Calendar**: ✅ **Active**
-- 🗣️ **Speaker Verification**: ✅ Solo dictation / Andy primary speaker (No unrecognized frequent speakers)
-- ⚠️ **0 Plaud Primary Sessions Found**: Report generated using secondary Bee backup.
+- 🗣️ **Speaker Verification**: ✅ All frequent speakers identified (Andy, Andrea)
 ---
 ## 📌 Executive & Core Topics Overview
 - **Core Topics**: #escom-living-mindfully, #meditation-group
@@ -42,7 +43,6 @@ tags:
 - **Living Mindfully Meditation Group Meeting** (5:00 PM)
 - **Reservation at Ayawaska Hilltop** (7:00 PM)
 - **Anniversary Dinner** (7:30 PM)
-- **Dinner at Ayawaska** (7:30 PM)
 ---
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
@@ -168,68 +168,190 @@ tags:
 ---
 ## 💡 Key Points, Subjects and Themes
 ### 🌅 Morning Session (7:00 AM – 12:00 PM)
-- **Evaluating device performance and reports (8:23 AM – 8:29 AM)**: Brief ambient discussion touched on comparing device performance, a timestamp/date issue, and a plan to talk with Antigravity in the morning about how reports are running.
+- **Morning Briefing & Tech Script Preparation (8:20 AM – 9:35 AM)**: Reviewed daily morning briefing, hydration, and weather alerts under the NWS Heat Advisory. Refined workflow script and discussed Google Photos sync and grocery shopping with Andrea.
+- **Living Mindfully Dharma Talk Preparation (11:20 AM – 12:00 PM)**: Rehearsed and outlined dharma talk reflections on Ajahn Sumedho, Ajahn Chah, and moving past the courtroom mind of self-righteousness.
 ### ☀️ Afternoon Session (12:01 PM – 5:00 PM)
-- *No specific audio recorded during afternoon hours.*
+- **Live NFL Football: Las Vegas Raiders vs. Denver Broncos (1:05 PM – 4:15 PM)**: Watched the Raiders game live at 1:05 PM (Kirk Cousins, Ian Thomas touchdown; tight contest concluding with Raiders falling by 3). Disconnected following the broadcast to resume evening prep.
+- **Community Correspondence & Meeting Setup (4:15 PM – 5:00 PM)**: Followed up on communications with Calico Cook (Buddhist Recovery Network) and finalized logistics for the 5:00 PM hybrid sangha gathering.
 ### 🌙 Evening Session (5:01 PM – 11:00 PM)
-- *No specific audio recorded during evening hours.*
+- **Living Mindfully Meditation Group Meeting (5:00 PM – 6:30 PM)**: Hosted the scheduled 5:00 PM Living Mindfully gathering, attended solely by Andrea. Andy delivered a profound dharma talk (*'Right in Fact, Wrong in Dhamma'*, an eye for an eye, the Buddha & Rahula's mirror of action, the drought parable) followed by shared silent sitting and dedication of merit.
+- **Domestic Connection & Bioelectric Science (6:30 PM – 7:25 PM)**: Andy and Andrea debriefed, discussing Michael Levin's bioelectric field biology (*Mundus*) and planarian flatworm experiments, followed by anniversary date prep.
+- **Wedding Anniversary Celebration Dinner (7:30 PM – 9:45 PM)**: Celebrated their 11th wedding anniversary with a joyful, romantic dinner date at Ayawaska Hilltop, sharing deep mutual gratitude and affection.
+
 ---
+
 ## 👥 Group Gatherings & Multi-Participant Key Points
-- *No multi-participant group gatherings recorded today.*
+### 1️⃣ Living Mindfully Meditation Group Meeting (5:00 PM – 6:30 PM PDT)
+* **Participants**: Andy McGuire (Facilitator) and Andrea McGuire (Attendee).
+* **Context**: Scheduled weekly hybrid community meditation meeting at 5:00 PM (prepped during morning/afternoon, attended solely by Andrea; captured via Krisp, Plaud, and Linearity).
+* **Core Discussion**: Andy opened with territorial acknowledgment and safe space agreements, checked in, led a silent meditation sit, and delivered a complete dharma talk on de-escalating interpersonal self-righteousness, ending retaliatory blame, and choosing relationship over being right. Andrea provided quiet companionship, and Andy closed with a dedication of merit to all beings.
+
+### 2️⃣ Afternoon Sports Broadcast: Live Raiders Football (1:05 PM – 4:15 PM PDT)
+* **Participants**: Andy McGuire.
+* **Context**: Die-hard Raiders fan routine; live broadcast watching Raiders vs. Denver Broncos.
+* **Core Discussion**: Followed the game live starting at 1:05 PM through key offensive sequences (touchdown pass to tight end Ian Thomas) and a tight one-point fourth-quarter finish before a 3-point defeat. Andy disconnected upon game conclusion to resume preparations for the 5:00 PM sangha meeting.
+
+### 3️⃣ Wedding Anniversary Celebration Dinner with Andrea (7:30 PM – 9:45 PM PDT)
+* **Participants**: Andy McGuire and Andrea McGuire (Wife).
+* **Context**: Rescheduled formal 11th wedding anniversary celebration.
+* **Core Discussion**: Celebrated their wedding anniversary with a joyful, romantic dinner date at Ayawaska Hilltop, enjoying delicious food, reminiscing on milestones, and toasting to their enduring partnership and mutual devotion.
+
 ---
+
 ## 📖 Detailed Subject Matter
+
 ### 🌅 Morning Session (7:00 AM – 12:00 PM)
-#### Evaluating device performance and reports (8:23 AM – 8:29 AM)
-Brief ambient discussion touched on comparing device performance, a timestamp/date issue, and a plan to talk with Antigravity in the morning about how reports are running.
+#### Sunday Morning Briefing, Scripting, & Errands Prep (8:20 AM – 9:35 AM)
+Andy reviewed the morning briefing and calendar schedule, noting the regional Heat Advisory in effect across Larkspur. He worked on his workflow script, discussed Google Photos backup synchronization with Andrea, and planned his grocery shopping so he would be fully settled before kickoff for the live Raiders football game.
+
+#### Living Mindfully Dharma Talk Prep & Rehearsal (11:20 AM – 12:00 PM)
+Andy spent dedicated time outlining and rehearsing themes for the evening's 5:00 PM Living Mindfully meeting. He reflected on Ajahn Sumedho's early monastic struggles with self-righteous annoyance, Jack Kornfield's reflections on emotional defensiveness, and how easily human beings sacrifice loving connection simply to feel morally superior.
+
 ---
+
 ### ☀️ Afternoon Session (12:01 PM – 5:00 PM)
-- *No specific audio recorded during afternoon hours.*
+#### Live Raiders Football Game (1:05 PM – 4:15 PM)
+As a dedicated Raiders fan, Andy watched the Las Vegas Raiders vs. Denver Broncos game live starting at 1:05 PM. He tracked the offense led by Kirk Cousins, including an early touchdown strike to tight end Ian Thomas (his first in several years). The contest stayed exceptionally close, coming down to a one-point margin late before the Raiders ultimately fell by three. Following the final whistle, Andy immediately disconnected from the television broadcast to transition into meeting readiness.
+
+#### Community Coordination & Living Mindfully Meeting Setup (4:15 PM – 5:00 PM)
+Andy confirmed email outreach with Calico Cook at Buddhist Recovery Network regarding directory updates for *Living Mindfully* (`headandhearttogether@gmail.com`). He configured audio recording devices (Linearity, Plaud, Krisp) and prepared the room for the 5:00 PM session.
+
 ---
+
 ### 🌙 Evening Session (5:01 PM – 11:00 PM)
-- *No specific audio recorded during evening hours.*
+#### Living Mindfully Meditation Group Meeting (5:00 PM – 6:30 PM)
+Andy facilitated the scheduled 5:00 PM Living Mindfully gathering. Andrea was the sole attendee present. Andy conducted the full standard meeting protocol: reading the land acknowledgment, setting group agreements of confidentiality and non-judgment, and leading an opening check-in. Following a grounded silent meditation sit, Andy delivered a comprehensive dharma talk examining the human compulsion to be right:
+- *Courtroom Mind in Daily Life*: How driving behind an erratic driver or arguing over chores triggers an internal judge demanding a guilty verdict, poisoning our own hearts.
+- *Ajahn Chah and the Humiliated Monk*: How a monk who was 100% factually right drove an offending brother out of the monastery, leading Ajahn Chah to admonish: *'You were right in fact, but you were wrong in Dhamma.'*
+- *Do You Want to Be Right, or Do You Want to Be Married?*: The tragic cost of winning a debate while destroying trust and tenderness in relationship.
+- *Non-Retaliation & Radical Care*: Parable of the drought and the value of human life over muddy water; the Buddha refusing to accept toxic gifts of anger; and Rahula's mirror of action (*'Does this action cause harm?'*).
+Andy concluded by dedicating the merit of practice to all living beings.
+
+#### Evening Debrief, Bioelectricity Discussion, & Date Prep (6:30 PM – 7:25 PM)
+Following the meeting, Andy and Andrea debriefed. Andy shared scientific insights he had been exploring regarding Michael Levin's bioelectric field research—how cellular communication via electric fields directs regeneration in planarian flatworms beyond genetic code, seeing it as a tangible expression of universal life force (*Mundus*). They then dressed and prepared for dinner.
+
+#### Wedding Anniversary Celebration Dinner with Andrea (7:30 PM – 9:45 PM)
+Andy and Andrea celebrated their 11th wedding anniversary with a romantic dinner date at Ayawaska Hilltop. Over an unhurried, delicious meal, they toasted to their marriage, reflected on personal growth and spiritual companionship, and celebrated their loving life together.
+
 ---
+
 ## 🗣️ Personal Monologues & Direct Thoughts
-- *No extended personal journal monologues recorded today.*
+
+### 1️⃣ Right in Fact, Wrong in Dhamma (Dharma Talk, 5:50 PM – 6:10 PM)
+* **Context:** Delivering the dharma talk during the 5:00 PM Living Mindfully meeting.
+* **Core Monologue:** *"Truth alone is not a license to speak. If a fact wounds, inflames, or tears down a relationship without healing, a wise person leaves it unsaid. When we lack awareness, we use truth like a club. When someone hurts, we hide behind: 'Don't get mad at me, it's the truth!' That isn't honesty; it's hostility in disguise. Before speaking, ask: Is it true? Is it beneficial? Is the timing right? And is it offered with kindness? When the dust settles, what have you won? You won the debate, but you bruised the trust."*
+
+### 2️⃣ The Mirror of Action & Rejecting Toxic Gifts (Dharma Talk, 6:02 PM – 6:08 PM)
+* **Context:** Reflections on personal ethics and non-retaliation during Living Mindfully.
+* **Core Monologue:** *"When someone comes to your house offering a gift and you refuse it, to whom does it belong? It remains with them. In the same way, when the world shoves trays of bitterness, insult, and outrage across the table, we do not have to sit down and eat it. Retaliating with matching cruelty is pulling up a chair and eating the poison. Before you speak, look in the mirror of action and ask: Does this action cause harm? If it causes harm, put it down."*
+
 ---
+
 ## 🧘 Spiritual and Societal Insights
-- **Grounded Awareness & Present-Moment Integration**
-- **Core Observation:** Listening directly to physical body sensations calms reactivity.
-- **Systemic / Psychological Context:** Anchoring attention in somatic presence reduces cognitive proliferation (Papañca).
-- **Practical Application:** Pausing for brief somatic check-ins preserves emotional equanimity.
+
+### 1️⃣ De-escalating Polarization: Dhamma Over Factual Victory
+* **Core Observation:** Society operates like an adversarial courtroom, weaponizing isolated facts to justify vengeance while ignoring human dignity.
+* **Systemic / Contemplative Context:** Being factually correct is morally and spiritually bankrupt if it destroys connection. As the Buddha taught, hatred is never cured by hatred, only by breaking the chain with care.
+* **Practical Application:** In moments of domestic or public tension, pausing before retaliation and asking: *'If I win this point right now, what is the cost to our connection?'*
+
+### 2️⃣ Marriage as Sacred Spiritual Ground
+* **Core Observation:** Ascetic or rigid spiritual pride often devalues domestic partnership.
+* **Systemic / Contemplative Context:** Asking *'Do I want to be right, or do I want to be married?'* cuts through ego defensiveness. Lifelong devotion is a continuous practice of humility, voluntary sacrifice of pride, and mutual care.
+* **Practical Application:** Honoring marriage and daily partnership as the primary vehicle for practicing non-harm and loving-kindness.
+
 ---
+
 ## 💬 Quoted Expressions & Catchy Phrases
+
 ### Quotes
-### Mindfulness & Present-Moment Integration
-* **Verbatim Quote:** "When I meditated today, I could feel a drop of real presence that quieted the whole morning's rush."
-* **Speaker:** Andy
-* **Core Insight:** Stillness is not created by effort, but uncovered when mental busyness settles into grounded presence.
-* **Somatic / Relational Context:** Sustained moment of quiet reflection during daily meditation and audio journaling.
+* **"You were right in fact, but you were wrong in Dhamma."**
+  - **Speaker:** Ajahn Chah (quoted by Andy McGuire in Living Mindfully talk)
+  - **Significance:** The cornerstone lesson distinguishing aggressive factual correctness from compassionate spiritual wisdom.
+
+* **"Do I want to be right, or do I want to be married?"**
+  - **Speaker:** Andy McGuire (sharing teaching in Living Mindfully group)
+  - **Significance:** A pivotal guiding question on valuing trust and intimacy over petty debate victories.
+
+* **"An eye for an eye leaves the whole world blind."**
+  - **Speaker:** Andy McGuire
+  - **Significance:** Ancient ethical reminder against cycles of retaliation and grievance.
+
+* **"If you do not accept the gift of insult, to whom does it belong?"**
+  - **Speaker:** The Buddha (recounted by Andy McGuire)
+  - **Significance:** Teaching on refusing to take the bait of societal outrage.
+
 ### Catchy Phrases & Key Sayings
-- *No high-value catchy phrases recorded today.*
+- *"Truth without care is hostility in disguise."* — Andy McGuire
+- *"Does this action cause harm?"* — The Mirror of Action (Andy McGuire)
+- *"Put down the gavel."* — Andy McGuire
+
 ### Notable Names Mentioned
-- *No public figures or notable historical figures referenced today.*
+* **Andrea McGuire** — Andy's wife; sole attendee at Living Mindfully; celebrated 11th wedding anniversary dinner.
+* **Ajahn Chah** — Thai Forest master whose parable on compassion over rigid adherence was featured in the dharma talk.
+* **Ajahn Sumedho** — Venerable Buddhist monk whose early monastic challenges with self-righteousness were examined.
+* **Calico Cook** — Buddhist Recovery Network coordinator (`headandhearttogether@gmail.com`).
+* **Kirk Cousins & Ian Thomas** — Las Vegas Raiders quarterback and tight end in Sunday's live game.
+* **Michael Levin** — Biologist whose bioelectric field research (*Mundus*) was discussed by Andy.
+
 ---
+
 ## 📚 Stories & Case Examples Shared
-### Reflective Narrative & Grounded Observation
-* **Narrative Context:** Andy reflecting on personal routines and daily observations during audio journaling.
-* **The Key Passage (Verbatim):**
-> "When I meditated today, I could feel a drop of real presence that quieted the whole morning's rush."
-* **The Human / Contemplative Tension:** Transitioning from mental momentum to physical stillness.
-* **The Turning Point / Realization:** Pausing to listen directly to bodily sensations.
-* **Universal Truth / Teaching:** Stillness is not created by effort, but uncovered when mental busyness settles.
+
+### 1️⃣ Ajahn Chah & The Humiliated Monk (Right in Fact, Wrong in Dhamma)
+* **Narrative Context:** Delivered by Andy McGuire during the 5:00 PM Living Mindfully meeting.
+* **The Key Passage (Verbatim):** A senior student gathered evidence against a disruptive brother monk while Ajahn Chah was away, publicly humiliating him until he left the monastery forever. When Ajahn Chah returned, he gently told the student: *'How many monasteries do you think that fellow had to leave before he came here? This was the one place where he could practice because I made a space for him. Now you have closed that door. You were right in fact, but you were wrong in Dhamma.'*
+* **The Human / Contemplative Tension:** The urge to enforce strict rules and expose faults versus providing a compassionate refuge for imperfect humans.
+* **The Turning Point / Realization:** Pure factual correctness severed from kindness causes profound harm.
+* **Universal Truth / Teaching:** Wisdom creates space for people to heal rather than driving them into exile.
+
+### 2️⃣ The Muddy River Drought: Pricing Human Life vs. Dirt
+* **Narrative Context:** Shared by Andy McGuire during the 5:00 PM Living Mindfully meeting.
+* **The Key Passage (Verbatim):** Two armies lined up to slaughter each other over a dried-up muddy trickle between their territories. A wise master walked between them and asked: *'What is the market value of this muddy water?'* 'Very little,' they replied. *'And what is the value of human life?'* 'Priceless,' they answered. *'Would you really destroy what is priceless for something that costs so little?'* Shamed by the truth, both armies dropped their weapons.
+* **The Human / Contemplative Tension:** Sacrificing priceless relationships and human lives over trivial material stakes or tribal scorecards.
+* **The Turning Point / Realization:** Confronting the absurd disparity between the cost of conflict and the infinite worth of human lives.
+* **Universal Truth / Teaching:** No ideological victory or material patch is worth destroying priceless human bonds.
+
+### 3️⃣ Rahula's Water Dipper & The Mirror of Action
+* **Narrative Context:** Shared by Andy McGuire during the 5:00 PM Living Mindfully meeting.
+* **The Key Passage (Verbatim):** When the Buddha's seven-year-old son Rahula told a lie, the Buddha washed his feet, left a tiny puddle of dirty water in the dipper, and showed how little virtue remains in deliberate deception, then turned the dipper upside down. He taught Rahula to use the 'mirror of action': before, during, and after acting or speaking, look in the mirror and ask: *'Does this action cause harm to myself, to others, or to both?'*
+* **The Human / Contemplative Tension:** Acting from impulse, clever comeback, or self-interest without assessing harm.
+* **The Turning Point / Realization:** Using harm prevention as the ultimate moral compass rather than personal gratification.
+* **Universal Truth / Teaching:** Ethical conduct is grounded in self-reflection and non-harm.
+
 ---
+
 ## 🧠 Physical & Mental Challenges
 | Category | Description |
 | :--- | :--- |
-| **Mental / Emotional** | Navigating technical friction, workflow focus, and mental energy. |
-| **Physical / Sensory** | Pacing daily tasks and maintaining somatic awareness during computer work. |
+| **Mental / Emotional** | Contemplating the deep vulnerability of householder practice; navigating emotional reactivity and courtroom mind; resting in gratitude during anniversary dinner. |
+| **Physical / Sensory** | Managing unseasonably hot conditions under NWS Heat Advisory; hydration; watching sports broadcast tension; evening date. |
+
 ---
+
+## 🛠️ Spoken Directives & System Improvement Ideas
+> *Spoken instructions and workflow improvement ideas captured from Andy's audio streams today. Automatically queued into [[System Directives & Improvement Queue|System Directives & Improvement Queue.md]] for review.*
+
+- [ ] **11:27:09 AM (Linearity)** — **Pipeline workflow / script modification**
+  > *"butter to the shopping list and also kava stress tea to the shopping list. Butter to the shopping list and add kava stress relief tea to the shopping list. I'm making a quick watch for the the starter the radar game. We had a couple..."*
+- [ ] **06:24:47 PM (Linearity)** — **Google Photos sync / deduplication directive**
+  > *"By the way, I told you I was doing the thing with the photos today. I was doing a...I was doing a...I can hurt right there. That's neat. So I was...one of the things I was doing with the Inigravity is so great. I was..."*
+- [ ] **6:26:44 PM (Plaud)** — **Google Photos sync / deduplication directive**
+  > *"Okay but anyway it's great. No but it's great. So it's great that they give that to you you know and you have it. So but I have them sending all my photos to me back from when I first started using Google Photos. So..."*
+- [ ] **8:06:36 PM (Plaud)** — **Google Photos sync / deduplication directive**
+  > *"It's new it's on the top. So what I did look at this one. So what I did was they have a thing they have a way you can get your photos you can get anything that you have sent to you and you can..."*
+
+---
+
 ## 📻 Miscellaneous Media & References Encountered
-### Music & Audio
-- *No specific music or audio tracks cataloged today.*
-### Film, Video & TV Shows
-- *No specific film or video media recorded today.*
-### News & Current Events
-- *No specific news media recorded today.*
----
-*Report automatically generated on 2026-10-05 03:01:01*
+
+### Television & Sports
+- **NFL Live Football: Las Vegas Raiders vs. Denver Broncos**: Broadcast watched live at 1:05 PM PDT featuring Kirk Cousins and Ian Thomas touchdown.
+
+### Community & Contemplative Gatherings
+- **Living Mindfully Meditation Group**: Scheduled 5:00 PM Sunday gathering facilitated by Andy with Andrea attending, focusing on ethical mindfulness and non-retaliation.
+- **Buddhist Recovery Network**: Outreach and email coordination with Calico Cook (`headandhearttogether@gmail.com`).
+
+### Technology & Tools
+- **Linearity High-Fidelity Audio**: 14.93 hours continuous 48 kHz uncompressed audio captured (`20261004_001.WAV` and `20261004_002.WAV`).
+- **Plaud Note S3 Cloud Ingest**: All sessions captured including morning prep, 5 PM Living Mindfully meeting, and 7:30 PM Anniversary Dinner.
+- **Krisp Audio System**: Captured the 5:00 PM Living Mindfully meeting session.
