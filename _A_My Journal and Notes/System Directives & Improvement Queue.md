@@ -7,6 +7,15 @@
 
 ## 📥 Pending Review & Implementation
 
+- [ ] **[2026-10-05 04:26 PM - Plaud] Workflow improvement / instruction suggestion**:
+  > *"the maple one at first and then the maple one was seven bucks for two cubes and like a little expensive and then when I went searched on Gemini when I was in the store it it said that the Irish stuff was good so..."*
+  - **Status**: Pending Review
+
+- [ ] **[2026-10-05 02:43 PM - Plaud] Pipeline workflow / script modification**:
+  > *"additional instructions and means and ways that we can improve. Maybe we could stack those commands up so that they could be reviewed once we do the the transcriptions."*
+  - **Status**: Pending Review
+
+
 - [ ] **[2026-10-04 06:26 PM - Plaud] Google Photos sync / deduplication directive**:
   > *"Okay but anyway it's great. No but it's great. So it's great that they give that to you you know and you have it. So but I have them sending all my photos to me back from when I first started using Google Photos. So..."*
   - **Status**: Pending Review

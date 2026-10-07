@@ -13,6 +13,7 @@ tags:
 Created: 2026-10-03
 Companion Notes: "[[The Architecture of Stress and Suffering]]", "[[Report - The Architecture of Recovery - Sakkāya-Diṭṭhi, Trauma, Sangha, and the Path from Compulsion to Liberation]]"
 Status: Complete
+comments: ""
 ---
 
 # The Architecture of Trauma: Somatic Imprints, Karma, and the Unbinding of Suffering

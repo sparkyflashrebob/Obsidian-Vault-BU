@@ -1,0 +1,448 @@
+# Plaud Daily Transcript - Monday, October 05, 2026
+- **Date**: 2026-10-05
+- **Total Audio Sessions Processed**: 3
+- **Generated**: 2026-10-07 03:17:36
+
+---
+
+## 🎙️ Session 1: 2026-10-05 19:46:44 (1h36m)
+- **Source File**: `2026-10-05 19_46_44.mp3`
+- **Audio ID**: `of_5e455bc76aac80055c3585dd2a013510`
+
+- **[00:00 - End] (Speaker / Group)**: - **[8:06:44 PM] Andy**: It's admitted there online application. You're proud of yourself? So it's already been there when we go on Friday and I said jackalong text. There you go. Can I read it to you and I wrote?
+- **[8:07:08 PM] Andy**: I said I think brother I hope this find you well tonight Andy and I are sending you a hug. So you'll never get 12 each of these kisses and apparently it happens a lot which makes you feel a little better. So you completely forgot to get a marriage and start waiting 11 years ago. So this Friday we're going to the county clinic to make things nice. Someday I think I'll laugh about this and he just insists the living in sin so right now I feel a bit foolish. We thought we'd let you know if you were a big part of our wedding. We've been feeling embarrassed that we haven't told anyone else. Months of word at LOL.
+- **[8:07:56 PM] Andy**: We'd love you and send our best love wishes your way. Sorry do you feel bad for both of us if it's for cheeky bunch?
+- **[8:08:12 PM] Andy**: Can't recognize what it is.
+- **[8:08:14 PM] Andrea**: It seems it's going to be something.
+- **[8:13:29 PM] Andrea**: Yeah we did thank you.
+- **[8:14:29 PM] Andy**: By the way how do you know about all my stuff in the drawer here? Hey with you. Ah what do you think? You see when I was talking about finding it my doctor the worst about the doctor, he says what about that stuff in your drawer?
+- **[8:15:06 PM] Andy**: Yeah I think that's all my recovery stuff.
+- **[8:15:16 PM] Andy**: Oh yeah I got it I'm playing with you.
+- **[8:18:26 PM] Andy**: Do you like hard boiled eggs? I mean I've been buying 18 packs you know 18 eggs and so I've been eating like four eggs at a time but I got one pack that's with four extra eggs right now If you want me to boil them I can boil them for you I can boil them right now Just let them turn off the wall It's really easy to put them in that you make some water Oh you just put them in water and then you boil them for a while and then you turn off the water, and you let the water cool and you let everything cool and it soaks in the water and then you take them out. I mean I can easily do it right now.
+- **[8:20:45 PM] Andy**: Once you see it that'll be more beautiful.
+- **[8:27:17 PM] Andrea**: OK here it is
+- **[8:33:47 PM] Andy**: Oh here it is. Okay here it is.
+- **[8:34:16 PM] Andy**: Okay there's that.
+- **[8:37:25 PM] Andy**: I'm going to have to go to the other side of the road.
+- **[8:43:51 PM] Andrea**: Shhh.
+- **[8:44:21 PM] Andy**: I'm going to have a look at this one,
+- **[8:59:23 PM] Andy**: there
+- **[9:05:12 PM] Andy**: of 1989 10 10.
+- **[9:05:42 PM] Andy**: Stupid loans.
+- **[9:06:12 PM] Andrea**: NDSL Stuton Lone Default Letter 89.02.20
+- **[9:06:34 PM] Andy**: Hey bro.
+- **[9:07:02 PM] Andy**: It needs to be got bye bye.
+- **[9:07:16 PM] Andrea**: That's it for the two
+- **[9:08:34 PM] Andrea**: Now I can chill.
+- **[9:17:30 PM] Andy**: Your leg is still short.
+- **[9:19:29 PM] Andrea**: This is the first time I've ever seen this kind of thing, but I've never seen this before.
+
+---
+
+## 🎙️ Session 2: 2026-10-05 14:46:43 (5h00m)
+- **Source File**: `2026-10-05 14_46_43.mp3`
+- **Audio ID**: `of_496c48b79650dfd2992883bd3e9f38f7`
+
+- **[00:00 - End] (Speaker / Group)**: - **[2:54:01 PM] Andy**: Do I need WebRTC leak shield turned on?
+- **[2:56:17 PM] Andrea**: Hello.
+- **[2:56:47 PM] Andy**: Do I need WebRTC leak shield turns on?
+- **[3:03:56 PM] Andy**: It says that it is stopped right now.
+- **[3:12:24 PM] Andrea**: I'll do this.
+- **[3:17:09 PM] Andy**: I plan on just using for this editing session for the home assistant.
+- **[3:18:39 PM] Andrea**: Is VS Code something I have to also install to access because Control-Shift-P does nothing
+- **[3:18:54 PM] Andy**: for me.
+- **[3:20:22 PM] Andrea**: it should be open yes no I knew but I forgot no yes no I know
+- **[3:20:52 PM] Andy**: Hello.
+- **[3:21:03 PM] Andrea**: If I am actually on the laptop already in the living room I'm not at my desktop.
+- **[3:21:29 PM] Andy**: Yes and I'm answering your answer. I'm talking to both anagravity and you at the same time.
+- **[3:21:53 PM] Andy**: Oh that little one is a gift for you. You said you want flowers but when I was looking for something I wanted something alive. And I think I bruised them a little bit. I was trying to protect them but one of the petals is whack. It has siblings outside. It's cute. It's got a cute container. So did I take was there a sticker I missed?
+- **[3:22:29 PM] Andrea**: It looks cute to me so that's why wow that container is there
+- **[3:22:58 PM] Andy**: oh sweet I know that you didn't have a supply of tiny little containers like that so oh you you have a
+- **[3:23:28 PM] Andy**: Okay it looks like I ran out of time today so we'll have to do this some other time. Oh I kind of do because I'm uh if I don't then um, Yeah I got things going on here so yeah in fact today I felt like I've just had no time all day so this is why I was actually doing this because I was kind of finding I haven't
+- **[3:24:27 PM] Andy**: Yeah I haven't I love my little friend. Thank you for buying me more meat.
+- **[3:24:41 PM] Andrea**: Good time because I can't have a cat.
+- **[3:24:43 PM] Andy**: So I can't have a cat. Especially ugly ones like that one that looked like it was going to be very mean if it came here. it sure did and would how much of those cats cost they look like their custom yeah you know what I'm saying is it legal to transport cats like Like that? In fact they're not the ones paying the fare but still they can kind of like show them
+- **[3:25:41 PM] Andrea**: I think they had them in die carriers.
+- **[3:25:49 PM] Andrea**: Like John and Rupert.
+- **[3:25:51 PM] Andy**: windows they are so mean window they are so mean I had to leave me to the end I don't feel good about it Oh you did? I'm so good to be a generous Ungenerous? You said you were ungenerous? I think I told you a little bit about the woman that yelled at me on the phone for like
+- **[3:26:34 PM] Andrea**: five minutes. Because she was complaining about Laura.
+- **[3:26:38 PM] Andy**: Oh I told you in the car. It's like after a while it seemed like it was more about her dressing and then it was about what we actually did. Yeah you told me in two steps I think you told me about that Yeah because you hollered you got upset with Linda. Laura. The woman with the L you got upset with it. who these really these people are I've seen them like once in my life maybe. So anyway the same woman before she would never call us again because we were terrible, called about an hour before my ship was over and she wanted to quote, I'm calling for a courtesy ride for my uncle because he just missed his butt.
+- **[3:27:34 PM] Andy**: And she was expecting her free ride for him. Based on your rudeness? Based on the fact that she had a holistic complaint about Laura and David in here for last week. And we took care of all of it. We gave her the money we owe her. We gave her her cigarettes which she had dropped on the ground. And I thought we'd never hear from her again and she called today. And it would have been you be for me to ask one of the drivers can you give some guy a free ride from the best stuff I'm linking down to the transit center?
+- **[3:28:12 PM] Andrea**: Cause it's hot and he's old. But it just says no. And then I hang up the phone. Consider her comment for trading like shit.
+- **[3:28:37 PM] Andy**: Yeah but people They're gonna be yellow. But people in yellow and keep yellowing. Yeah the other thing that people do is they See she was given a clue to what she was expecting. So to me what happens is she's expecting a free ride. right so she was well no I say with from hers because you wronged her that's from from her mindset right from her mindset not your mindset you don't value her as a customer anymore. So you told her to go okay so yeah you did say you did go like that once.
+- **[3:29:36 PM] Andy**: say you did go like that once you went wow wow oh yeah you've got some Get off stuff in you girl
+- **[3:30:09 PM] Andy**: You are not with some people in college I could tell or maybe was your drape people it was
+- **[3:30:27 PM] Andy**: I'm playing with you sweetie pie you're You are a good one I did it.
+- **[3:31:11 PM] Andrea**: This is the
+- **[3:32:24 PM] Andy**: I'm doing it on the phone.
+- **[3:34:24 PM] Andrea**: It appears that the desktop from the laptop can connect to the desktop computer because
+- **[3:34:50 PM] Andy**: either the remote access to the server is not enabled the remote computer is turned off or the remote computer is not available on the network. I'm going to move into the office so I can have them right next to each other.
+- **[3:35:46 PM] Andy**: By the way I think what I'm going to do is for the what I think I'm going to do for this next retreat is I found that I could take the back off of that box I've got. Take it off and that way I have more space to sit on top of the box. the problem is it's too short for me so I'm shoved up and I so it's causing a problem but if I take the back off I can slide I can overlap the back and I just don't have back support but that's something I can work with with posture so So that's what I'm going to do. Because that other thing didn't work. It's too small. And yeah.
+- **[3:36:59 PM] Andrea**: Wait what's this
+- **[3:37:20 PM] Andy**: Mmm.
+- **[3:39:44 PM] Andy**: So I forgot to buy rice so I'm going to eat rice so hey these you're sniffing in my ears and giving me kisses too. I heard my weenie characters. I love it. That weenie? It was a weenie cactus. So I need to put something in here to sit. We have some of that so I'm going to soak some real quick. I'm going to puff this up with lots of barley until we bloat. So half a cup wow.
+- **[3:41:08 PM] Andy**: It's going to be so little oh well I'm going to do three quarter I is just going to waste but that's not going to be a quarter this is two thirds huh two thirds. It's likely even more than half.
+- **[3:41:54 PM] Andy**: I'm going to make a little bit of a hole in the middle of the hole. collaborations.
+- **[3:43:12 PM] Andy**: And I had I ate a muffin as you can see. It was very good however it may be very ill for a few minutes. Uh-oh. No light headed kind of like a like a like in your heart rate or my sugar level or something guy because it is starch and it is doze the offender During the years they've taken their busy measure. Yes.
+- **[4:16:57 PM] Andy**: not be found either they should be in Flash Rebob Obsidian somewhere or in the screenshots since nips from Google photos that you separated.
+- **[4:19:29 PM] Andy**: You mentioned something more close to 30 gigabyte.
+- **[4:19:49 PM] Andrea**: For the decoded your trauma seminar could those actually be in the flash revolve obsidian
+- **[4:20:16 PM] Andy**: Fold there somewhere.
+- **[4:22:07 PM] Andy**: have them in the flash re-bought obsidian folders.
+- **[4:23:02 PM] Andy**: Shame! Shiv,
+- **[4:23:10 PM] Andrea**: Shiv.
+- **[4:23:17 PM] Andy**: Shiv.
+- **[4:23:21 PM] Andrea**: Shiv.
+- **[4:23:27 PM] Andy**: Shiv Taj bluff,
+- **[4:24:49 PM] Andy**: What's that sweetie pie? Are you done with your show? I don't want to feel bigger. So I got here for carrots and one more broccoli just so that yeah because we kind of like broccoli and carrots almost never go bad So we can keep those for a while. And I got this older one here and it's been 280 on food but I had to stock up on couple of things extra Yeah I got one coffee I put in the back so the use they put the the newest thing I bought in the back back so the older coffee you know older things come to the front same thing with yogurt or whatever Oh and the butter so I did a quick little search when I was there because I couldn't find
+- **[4:26:43 PM] Andy**: the maple one at first and then the maple one was seven bucks for two cubes and like a little expensive and then when I went searched on Gemini when I was in the store it it said that the Irish stuff was good so I'm confused about what I saw why it said it wasn't and they have like a whole row of the Irish butter now but then I saw organic valley was on the equivalent to maple the maple one I get four butters for the same price as the other one or less so I made a financial decision and we'll So we'll just start using the organic one and I'm going to do some research on it for Great.
+- **[4:27:41 PM] Andrea**: And then let's see.
+- **[4:27:42 PM] Andy**: I've got chihuahua. What do you have that much would you like? Probably carrots. I'm going for carrots. I'm trying there's some juices that are open. I probably just eat them. There's another the the ginger thing too. I probably just eat those because I open it. Yes consume them which would be technically correct and is similar to eating.
+- **[4:28:20 PM] Andy**: Yes consuming them.
+- **[4:29:04 PM] Andy**: You scared me you sent me some pictures of some scary cats.
+- **[4:30:04 PM] Andy**: And I got a couple of soups so I saw a turkey and wild rice one that looks great so I've got to buy you another of our caviar and I loaded up on they had that potato salad broccoli salad So we've got broccoli salad again and green beans of course, and taters mashed potatoes and you got bread and chicken this time instead of the the water was stuck in the back so it was keeping me from preventing me from putting the food back there.
+- **[4:31:43 PM] Andy**: I am still alive but cropped but bent over and broken.
+- **[4:32:03 PM] Andrea**: What's your mind if it does switch here? We have the air beam.
+- **[4:32:21 PM] Andy**: Air beam. I think it was an AirBnB and we're in the heat warning through Thursday This is.
+- **[4:33:21 PM] Andy**: Is it It does more than me but yeah here. Oh yeah that's actually not so bad It's a little bit warmer than yesterday I didn't turn any fans on because it did so good the first day You know what I mean with it?
+- **[4:33:43 PM] Andy**: 900 degrees outside. why. You've got a ball west of Temperature outside. It's 86 degrees in sunny and long spur right now. No we What happened for that? It was a half the world that probably took that
+- **[4:34:02 PM] Andrea**: other than being used.
+- **[4:34:16 PM] Andy**: Yeah I saw some exercises that I probably should do in that last night one of them. It's good to bet earlier tonight and I can't go to bed any later than midnight. a daily 11.30 would be good for me because I like getting up it I liked yeah 11.30 is usually a good time I used to do that and then I would get up at 6.30 and that was a natural seven hours which is really kind of like my sweet spot anyway some usually I don't need an alarm for that at all because I you know seven hours and then some days I will sleep eight or nine hours which is nice I was talking a lot about stress today because I was noticing okay man I'm doing this computer stuff and And then you know kind of like anything that's going on in our life is creating stress. Anything when you think about it.
+- **[4:35:46 PM] Andy**: Yes I'm sorry I'm stressed. Yes yes. The board is stressful. Yes you get it. Waiting for the male to turn up is stressful. Yeah that's where is that fucking email man Axe?
+- **[4:36:08 PM] Andy**: That's exactly what I was trying to talk about last night you know? And you know what the disclaimer I gave at the very beginning, actually because I was thinking of you I said, I don't want her to think I'm accusing her of anything you know? And I was thinking you know I'm pointing. So that was one of the things I was talking I was doing my journaling this morning It's like, okay when I'm talking about myself and I'm trying to point out general habits of people.
+- **[4:36:44 PM] Andy**: Well it does but the problem is is the mind forget and then still connects. is he talking about me I think because I clearly said it multiple times And so one of the things I was reflecting on today is that is there a way through language that I could be more skillful at because one of the things in the book I'm reading from Tana Serobeku is about the four noble truths He has this whole freaking long chapter on how great the Buddha's words were based on him talking about suffering you know that he was really a good orator as far as choosing the right words with depending on the audience. So you know of course that points to me is lacking vocabulary lacking. One thing also that is how I talked about is the energy behind the words that I could raise you down.
+- **[4:37:54 PM] Andy**: Right intentions right presence right demeanor all that stuff is right into it. And you know so yeah all that stuff is important I agree. And ideally that doesn't have to be something that you get to happen to have fun, or to focus on it just hopefully it flows naturally. Well I think that it is and that's where this gets to be. It's really a difficult fine line between what ends up happening. Like I was telling you my discussion with Will It's like I'm talking about my way I understand human behavior and Dharma, right related to human behavior and then he's coming back countering that. That's not how I see it blah blah blah.
+- **[4:38:46 PM] Andy**: And I was like noticing myself like okay include. A bit different because there's the way that everyone can be right. Right So everybody's perspective is a it sounds like well I'm my view is more right than yours. Well see what you see the thing is is I I don't think he he meant it that way you know I'm saying but I felt myself like okay my my perspective is being negated here but then you you know what I actually said I said so really we could be so two different people and we really kind of agree You know so much That's where I came from it when I was actually talking with them but I still felt
+- **[4:39:37 PM] Andy**: You know Like like he said I like I was saying this I said Even though I know it is good to love everybody unconditionally I don't feel that way It's really what the conversation was about Yeah and I said I have to work at it And he said he felt on condition over there everybody which was strange. So then it's like okay wow I mean so without analyzing it now but I'm saying it's like, oh you know and then yeah so it got to be kind of strange that way when we have So many similar things that we back in totally different backgrounds but so similar in so many things otherwise. I mean it's really amazing how we we we gel that way.
+- **[4:40:40 PM] Andy**: But yeah that was actually the butt of the discussion and then there were some other parts to it. So I'm glad you're going to go to the class with me this week. I think you're going to be a peaceful thing just you and me again. I thought that stuff to do before Saturday but I think it will be time to do the cleaning and the prep shopping. Oh yeah I got a lot I got to clean out my bathroom shit. because I got all my stuff from the vision quest that I haven't cleaned up and that now I've added because I've got to give you your soap back that I'm not going to eat that stuff Yeah and I got and I I wish I had more I got to go through all that medicine and throw because I've got medicine back from 2000 when I got sick that I've kicked my bandages The various things that I've been
+- **[4:41:45 PM] Andy**: trying to clear out periodically well but if I want to put stuff in those drawers in there I need to make space in there So what I've been trying to do is throw out expired medicines and you know expired some things I don't I have like five or six toothpaces now you know like I changed to face a couple times and I had spares before I changed it. I found I didn't have what we got.
+- **[4:42:28 PM] Andrea**: Oh it's coming out probably.
+- **[4:42:31 PM] Andy**: Well I'm going to go back. Good it's hot clean and it's kind of clean up the back. But Friday I could put everything in a box and clean it up easily. So I'll probably end up doing mostly that because it's going to be much.
+- **[4:42:53 PM] Andrea**: I think I'd rather a post-coma storage thing. On Fridays it's just because my shoulder's been hurting.
+- **[4:43:01 PM] Andy**: I don't want to move. He's in one of my parents that's wasn't there.
+- **[4:43:09 PM] Andrea**: That's a good term in the case.
+- **[4:43:17 PM] Andy**: Yeah it's showing 87 degrees outside right now. 75 76 in here. No the 87 is what the thermostat thing outside is picking up. And the left side is it says it right here. Oh wait a minute indoor sensor is 87 Right you're right. That's not picking up all the actual heat Maybe I need to move it I wonder where I could put it that maybe I could put it near the plants by the window where the plants are.
+- **[4:44:21 PM] Andrea**: Check. Now let's see.
+- **[4:44:25 PM] Andy**: I have to go five more. I'm going to have to go five more minutes. Five minutes.
+- **[4:44:46 PM] Andrea**: Oh I misrated.
+- **[4:44:52 PM] Andy**: Seven minutes left. So I'm glad I can keep this box actually. Yeah that does open up more space for you. Yeah because I was shoved out and so I was having a hard time sitting on the damn thing. No that's the new cushion I took one of the cushions off You could sit on it Just put your hand on it so you know where it is Yeah there you go And then you cross your legs And then what I do is I take the little squares here I show you here.
+- **[4:45:53 PM] Andy**: I'm going to get my head right in there. I'm not your mother. That's a good one. Yeah I just put something in there to support them and then if there's not a I'm calling off and put this lift it up a little bit more and then I'll do this put one of these in here and that way they're in front of me.
+- **[4:46:39 PM] Andy**: Yeah that's it. What did you just say for you? You seem to think I've probably shoved them in there but you have to get an idea of what I do. But if you were shoved up where your butt was all falling off the thing he would be very young. See your butt's back there. God loves space. I know but you have space to go back. I'm not hanging off the back either but there's a little yeah it's good.
+- **[4:47:14 PM] Andy**: So anyway now you know what I need and you notice how your legs are kind of not Touching I mean they are because I see what you're doing there by your ankles but Yeah so that's the spot It just means I have to take the you can leave those on the side
+- **[4:47:37 PM] Andy**: No on the back further he out of the way so they don't trip you don't trip over him I'll put them back with it To identify Hey! You got room in there! Oh no!
+- **[4:48:08 PM] Andrea**: It's not all.
+- **[4:48:15 PM] Andy**: We're churned a fan out. You can feel it you have to feel something it helps you feel cooler. 93
+- **[4:50:15 PM] Andy**: are already rehearsing This situation where I know there are teams checking me out because they So um they're doing their due diligence on Northern Harrison. Northern Harrison A Modern Harrison's possibility of not doing well with the Arizona Department especially after he was the fourth pink of the draft in 2024. He could be after three years and both was asked about adding a wider receiver to deal with on Monday after the unfortunate loss of his parents with Jeep. And that's because you already have Jack Bess before you're around pay. Today on Interversary we're going to now get my neighbors to live with a concussion. We've actually not been playing this for so long. We've been playing this for so long.
+- **[4:51:20 PM] Andy**: Step in the right direction for the raiders and they should go off but even though they lost the game they have chances to go win this So they were told to tell when you can't just say Jesus They were they screwed up At the end Kansas City scored two touchdowns and 50 seconds at the end again
+- **[4:51:50 PM] Andy**: It's really just the greatest thing in the all-round flip. Play action over the top. Can't walk again in at 75 yards.
+- **[4:52:09 PM] Andy**: Find a baby Kyrie. This guy is really just fighting for a spot. The boy just lost her business. And I already did Kylo. This is highlights from the game
+- **[4:52:36 PM] Andy**: Baby Kyrie Whoa nice I think he should start Yeah nothing I think yaks Oh Yeah so it didn't only shot one for six Oh
+- **[4:53:19 PM] Andy**: Look at that play that did you see him how fast he's moving? Jesus
+- **[4:53:37 PM] Andy**: You missed the game sweetie now you're gonna get to meet
+- **[4:53:49 PM] Andy**: Hey! The hamsters playing with yeah. Garland to the clippers is a good move
+- **[4:54:47 PM] Andy**: Yeah he had good game He had the best game but I think the Warriors other than what this dude is. Yeah he's with the Lakers and they got rid of him. them Yeah it's the first game Uh-oh they've got Jones It's really good.
+- **[4:55:40 PM] Andy**: That guy That's for you That guy,
+- **[4:56:40 PM] Andy**: I like branded Williams. He doesn't have that. Uh oh that's great, oh I'm afraid they don't know I can't remember.
+- **[4:57:05 PM] Andy**: come back, I cheaper up right
+- **[4:57:14 PM] Andy**: point from the first thing is there a lot of eug Gardiner I'll be good. What��re you're looking for? Is it two-day flare now?
+- **[4:57:29 PM] Andy**: He's on the bike at EK. Where is he at? 24? I think I'm going to call him in 24. I think it's there. The longer right of one the way I did on that. Dick. 2445. 45. 45.
+- **[4:57:54 PM] Andy**: Uh-oh.
+- **[4:58:02 PM] Andy**: Roos are in the making.
+- **[4:58:37 PM] Andy**: Damn Damn him scoring
+- **[4:58:49 PM] Andy**: His shot looks different. Oh that's mountain.
+- **[4:59:10 PM] Andy**: Oh you know he looks like now. He looks like the dude we got rid of before that we liked. Ben Chenzoe yeah.
+- **[4:59:26 PM] Andy**: Damn.
+- **[4:59:33 PM] Andy**: Come back.
+- **[4:59:45 PM] Andy**: December January same thing with Moody yeah four months.
+- **[5:00:15 PM] Andy**: dropped the
+- **[5:00:29 PM] Andy**: out time Oh good pass though. Bassie is probably the big guy you were talking about. Yeah big guy. There he is. I heard he had a good game.
+- **[5:01:17 PM] Andy**: Down by 13 you can see a lot of highlight sweetie I Like the roster already
+- **[5:01:31 PM] Andy**: Oh man Man Brandon that dude is good yeah yeah he's another big guy uh-huh Yeah Fassie Yeah they're both centers Oh Fassie. No 45 oh look at that Harry he might be the odd man out too so that they got a stacked lineup oh well not with that defense that's for Keatsum Oh I love him Brandon that Brandon dude No 12 I'm talking about the little dude that missed Watch for 12 Right there in the back No 21 is that him No. 12 what the kid's? Brandon Williams yeah. That they call him the baby Kyrie.
+- **[5:03:19 PM] Andy**: Yeah great. Bassies. That's EK there huh? What is going on with this? Yeah okay we're just waiting for the I know but what it usually was here he is look at him 12 Yeah he looks great And he's with Dallas So he was playing good with them.
+- **[5:04:10 PM] Andy**: How they they caught up There he is. Oh Leon's Oh he looked a little different too. Nice.
+- **[5:05:25 PM] Andy**: Look at you
+- **[5:05:32 PM] Andy**: You got deep
+- **[5:06:28 PM] Andy**: I heard it I'm excited right now we got to win the game
+- **[5:06:36 PM] Andy**: I couldn't care. They found that time. So they got their two more big throws.
+- **[5:06:51 PM] Andy**: Okay let
+- **[5:06:59 PM] Andy**: move Fooey! Chucked it! It's a hundred degrees in here sweetie.
+- **[5:07:23 PM] Andy**: 100.0 Yeah now it's a hundred and one. What happened?
+- **[5:07:58 PM] Andy**: That's going to be what I thought it's lower than 155.
+- **[5:08:09 PM] Andy**: Yes!
+- **[5:08:20 PM] Andy**: 101.3!
+- **[5:08:28 PM] Andy**: That's for bad air It's not going to help that cool it.
+- **[5:08:42 PM] Andy**: Move around.
+- **[5:10:28 PM] Andy**: Wow this is you. I'm doing it here! 104!
+- **[5:11:13 PM] Andy**: Oh I'm fine I'm just saying I'm looking at the numbers. So I do just put the whole stick in here. This is the last of the maple. What are you up from your down there?
+- **[5:12:21 PM] Andy**: filed
+- **[5:12:36 PM] Andy**: Oh you want to try and go and see the marriage counts for Friday?
+- **[5:13:32 PM] Andy**: No it's a boy's luck line.
+- **[5:15:00 PM] Andrea**: I thought we'd know.
+- **[5:15:10 PM] Andy**: I think I could even.
+- **[5:15:20 PM] Andrea**: Like I was my mother is getting bored I just was trying to remember if we met with Jack
+- **[5:15:31 PM] Andy**: before the wedding.
+- **[5:22:50 PM] Andy**: This is where my
+- **[5:24:19 PM] Andy**: You like it? I'm good. You see what we like of you yeah? Yeah they almost have more than either. if they're hoping to see them but the stage is now standard they have coconut yogurt and
+- **[5:25:15 PM] Andy**: It's looking beautiful.
+- **[5:25:21 PM] Andrea**: It's like that.
+- **[5:25:50 PM] Andy**: Hey Google put prunes on the shopping list.
+- **[5:26:01 PM] Andy**: Donka.
+- **[5:26:12 PM] Andy**: Moving from that mind of yours let's think about it.
+- **[5:28:12 PM] Andy**: Is that true?
+- **[5:32:38 PM] Andrea**: Oh shit
+- **[5:32:46 PM] Andy**: Cha-ay! Ha-ha-ha-ha-a! No wonder Ha-ha-ha-ha-ha
+- **[5:41:06 PM] Andy**: I'm sure I don't like that I just gotta look if I can't get the record then I'll Because I have a whole bunch of court stuff that I thought I went through it already. I'll get report. But you have a bunch in your bathroom. Yeah I do have some of those
+- **[5:42:16 PM] Andrea**: I'm sorry.
+- **[5:42:57 PM] Andy**: I would get some miscellaneous person to sit in the background
+- **[5:43:15 PM] Andrea**: Yeah that's what I'm saying usually that's what I'm saying when I sign with a judge,
+- **[5:43:43 PM] Andy**: a judge they submit something I thought yeah
+- **[5:44:13 PM] Andy**: or if I come then may you law filing.
+- **[5:46:13 PM] Andrea**: Seriously.
+- **[5:46:53 PM] Andy**: No it's the nearest in my night looking for her. Wait.
+- **[5:47:09 PM] Andy**: Can't wait. Otherwise never get done.
+- **[5:47:23 PM] Andy**: I just looked at somebody damn forms which form it is to fill out.
+- **[5:47:37 PM] Andy**: That's Jim and I have been simpler.
+- **[5:47:44 PM] Andy**: You're looking at it but what you're looking at.
+- **[5:48:23 PM] Andrea**: This is the thing I was trying to do where I was trying to blow air through a towel.
+- **[5:48:35 PM] Andy**: So yeah okay so in person if the brain had a quick thought it's located in a service center. It's room 2.30 a.m in the second floor. So did you hire me I mean it's a 4 p.m.
+- **[5:49:03 PM] Andy**: I'm not just here to get there.
+- **[5:49:10 PM] Andy**: A couple of times I spent $85.00 so it's 93. And that's 1 p.m.
+- **[5:49:55 PM] Andy**: I'm going to the other side of the road.
+- **[5:50:51 PM] Andy**: No about 3.45 would be about work for me. If you're going in three go 3.30 so there's time to do paperwork. Okay great.
+- **[5:51:23 PM] Andy**: It's gonna stay all day.
+- **[5:54:37 PM] Andy**: gathering for a good Saturday which she invited me to and I think that we made things here then. It was a big day of my class so she just texted me and I said I'm sorry I'm not able to do that. Did you tell her why? You should tell her why. Which time? Yeah that might mean it's an end date of a priori engagement.
+- **[5:55:10 PM] Andrea**: I'm a wonderful fine.
+- **[5:55:12 PM] Andy**: That's great. Yeah she's talking to you.
+- **[5:55:22 PM] Andy**: Well that's those. I'm feeling like there's like he's going to leave it to a fine end.
+- **[5:55:28 PM] Andrea**: I'm afraid.
+- **[5:55:30 PM] Andy**: Yeah but we've got to be careful. and not taming themselves.
+- **[5:56:40 PM] Andy**: Wow there's only one cutting board that's safe. Titanium is a reading an article right now. Hospital grade titanium cutting board. Same board is used in surgical suites. Non-porous zero bacteria, chinchloronides linseedio dishwashers safe, five-time guarantee.
+- **[5:58:42 PM] Andrea**: I'm going to the other side of the road.
+- **[5:59:08 PM] Andrea**: Okay there you go.
+- **[5:59:33 PM] Andy**: Thank you. I mean and I moved to England. Yeah thank you. That cleans it up. It doesn't sound like I'm a player now. You're right.
+- **[5:59:54 PM] Andy**: To be honest I would let them break all of them. Two three years. never felt like this is an invitation for that should say what time it is
+- **[6:00:32 PM] Andrea**: You want to do that? Why is this on his armpit? So I'm worried about the baby she says she's fine but
+- **[6:01:32 PM] Andrea**: Well Godzilla minus zero is going to be a monster.
+- **[6:01:48 PM] Andy**: I'm just reading it seeing a news article saying it's
+- **[6:03:15 PM] Andrea**: How do they call him Waxle?
+- **[6:03:39 PM] Andy**: how they call them Waxle Yeah Waxle window board Waxle This is going to be a You read it for Wow.
+- **[6:06:30 PM] Andrea**: Jim's okay.
+- **[6:06:50 PM] Andy**: Jim Gormley. He sent me an in-vital party and in-depth I texted him about and called him and he says it was a hack. Now he just sent me a text to stop out of the blue so it's like do you find somebody else or what?
+- **[6:07:28 PM] Andy**: I'm just sitting here and I will go in my ears just starting to hurt.
+- **[6:07:47 PM] Andy**: He is sending me now. Oh really? Oh great. She doesn't have to worry about us. And vote often. I don't really. Trump says you can vote a whole bunch of times. I'm gonna do it. Just like the NBA will start getting. Hey why not?
+- **[6:08:18 PM] Andy**: Where's the website for that? We're voting often. You would get arrested. You would get arrested unless you're the governor of Texas Did you see that so crazy they talk about They're cheating all of this Oh yeah it's whatever somebody wants to shit say I
+- **[6:08:56 PM] Andrea**: 6,000
+- **[6:09:01 PM] Andy**: 6,000
+- **[6:09:06 PM] Andrea**: 6,000
+- **[6:09:13 PM] Andy**: 6,000 6,000 6,000 6 You like it even higher a little bit with the blocks instead of the things.
+- **[6:09:50 PM] Andrea**: Yeah I like sitting up Yeah there you go I like that It's great.
+- **[6:10:06 PM] Andy**: Yeah I'll be out of here here.
+- **[6:10:36 PM] Andy**: Hey Google what's the weather inside? Hey Google is it sunny inside? Hey Google you don't have eyes she's ignoring me now Now that's my child my joking voice.
+- **[6:11:46 PM] Andy**: I need to go.
+- **[6:11:52 PM] Andy**: Oh this is unbearable this stuff.
+- **[6:12:16 PM] Andy**: I'm going to have to go to the other side to see if I'm going to be able to get out of here.
+- **[6:16:17 PM] Andy**: Superior court or divorce.
+- **[6:30:29 PM] Andy**: Here he is. He just joined on in which is great. Awesome. I didn't have to invite you or do anything.
+- **[6:30:47 PM] Andrea**: I know.
+- **[6:30:50 PM] Andy**: Oh perfect. Okay that's great.
+- **[6:30:53 PM] Andrea**: I like that.
+- **[6:30:56 PM] Andy**: Okay I'm burning up here Our house is pretty darn warm right now We're in the middle of a a barn burner We don't have air conditioning or anything. So I got some fans and places but can you hear them by the way? Not yet. I want to just test that. We'll see. Yeah let me just ring a bell here. Make it always do a manual bell too.
+- **[6:31:48 PM] Andrea**: Can you like the high pitch ones anyway? Let's see here.
+- **[6:32:33 PM] Andy**: That's great. You like it? Hey sound like it. Haha.
+- **[6:32:39 PM] Andrea**: That's it.
+- **[6:32:40 PM] Andy**: Oh it has?
+- **[6:32:48 PM] Andy**: Oh anything you want to share or no?
+- **[6:32:58 PM] Andy**: I was shopping today at uh old foods And it's right it's a half a block away from San Rafael High. So everybody there was a bunch of kids in there, swarming whole foods for lunch stuff. I said okay. So anyway.
+- **[6:33:33 PM] Andy**: Okay that's kind of an answer so so you went to bed at 1.30? already.
+- **[6:34:09 PM] Andy**: Fire and hell That's not good.
+- **[6:34:13 PM] Andrea**: That's not good.
+- **[6:34:21 PM] Andy**: Oh my gosh. Man young people.
+- **[6:34:53 PM] Andy**: Yeah I heard that Oh I'm drinking water Nothing so excited Nothing to be excited about I'm just trying to drink more water anyway Yeah It's been okay I mean it's fine. I mean it's really fairly uneventful for my daughter I see my daughter had to cancel a baby shower because they got sick and then see what else I have my living mind-fling meditation meeting on Sunday and I kind of felt guilty about it in a I mean do you want to say guilty? I don't want to say guilty. I mean I do. I mean so I kind of you know how I am. I'm pretty direct to the point.
+- **[6:36:25 PM] Andy**: I kind of say it's kind of straight. I wish that's kind of like my reflections about, is I kind of wish that I could come up with vocabulary that's a little softer and even though I say it it doesn't feel soft you know I mean it's like I was like I kind of even did a disclaimer before I even did the talk you know saying hey you know I'm gonna I mean to be pointing out some things that it's not meant to be personal you know it's like for instance if I talk about anybody specifically generally I talk about me you know it's like okay try to use myself an example But I was basically talking about the J.J judge and jury you kind of fame you know how we judge people by how we think about things and it's all
+- **[6:37:38 PM] Andy**: from the personal view and rarely do we think about the other person that's involved or what might be going on with them you know that kind of stuff. So that's kind of what I talked about. Then I expanded that to society and I actually kind of I mentioned that we lose perspective, we lose perspective on what's important which is helping people caring for each other, nurturing our planet you know and right because it's about who's basically the topic It was called I'm right you know it's basically you know it was about you know right and wrong you know who's you know I'm right so you're there for your wrong kind of stuff. So yeah. Anyway so that was what to talk about but even though I gave a disclaimer and I actually made up a kind of mishmash a whole bunch of times where I'm behind somebody driving
+- **[6:38:51 PM] Andy**: and they're driving aradically or I'm judging them. So mainly that's what I was doing but I still felt it was It's pointing to something that's kind of natural you know it's the way our brains work. We're JJ it's all of us. We have to. It's instinctual you know. So and I think you know yeah it's about survival and that's what your kids are you know dealing with at school you know they're worried about how their relationships with people and how they look and you know comparing themselves and what the expectations are on them and you know all the various things that people all people not just teenagers but all people experience you know the details of their life. So that's a major thing in my mind right now it's funny but we were on the vision
+- **[6:40:05 PM] Andy**: quest. We had this I had a couple of little burstling interactions with people and none were initiated by me but I mean it could have been what I said but I didn't think I said anything that was all that controversial. So one guy we are talking about a friend of ours who uses this statement what's working you today. And for me to me that's an easy statement to understand what they mean by it. Well what's working you you know what I mean? And this guy was in our group. He says what that means.
+- **[6:41:01 PM] Andy**: And then I tried to chime in and he snapped at me so finally the conversation kept going with other people chiming in. Not me I couldn't I got shut down. So then I tried to reach out to him in a way I said oh well what do you think it means? was that simple of a question And he snapped at me again So I got up and I just took a walk. It's like okay I'm going to just call myself down here and you know whatever. We actually I actually worked with them on that to the whole thing and actually we became, we got closer I think as a you know as a view quest went on. And then there was another guy the same way but it was a little bit of a different interaction. And that one had to do with something simple.
+- **[6:42:06 PM] Andy**: We were washing dishes and I went to go help him and we were setting him up washing the dishes. were in the desert so it's dirty and you know we had these tubs we were using and you know we put we were putting certain things you know bits some vinegar and the clean water to kind of disinfect dead and you know various things we were doing and um so he's he's asking me about setting it up and I want to go tell him you know what I you know what what we had been doing for that washed dishes before there you know I had the night before and whatever and he snapped on me and he said it's a yes or no question So I said why don't you go and ask the person that told you then If you don't want to ask me you know he was you know, he had mentioned another person He said go ask them Don't ask me So I was a little
+- **[6:43:14 PM] Andy**: short with them but I thought it was a fair statement You know hey if you don't want to hear from me I'm not somebody you really bully Never really have you know I kind of it's like I don't want to be forceful in any kind of way but I don't let anybody bully me you know So anyway that kind of you know that that's that all that is But anyway I was you know kind of the stuff and the bulk of what I talked about really though is what about the government I'm really upset about how the immigration system works where they you know they have this idea that you know we're going to get rid of the criminals and yet I'm breaking up all these families and shit It's just such bullshit you know And so I was I was trying to speak to that is that we you know, We have these policies we have these spreadsheets we have these facts and figures.
+- **[6:44:14 PM] Andy**: We think we're right and then we go and make all these policies and things that we don't realize who all the people were harming. It's ridiculous it's horrible in fact and it gets me upset. So I wanted to speak about this this the personal that goes into the public you know what I mean? And it comes back. So I talked about Rice Beach and I you know and I so anyway that was what the talk I gave last night was about which I think is a good talk. I haven't edited it yet but I do feel like I was I just said it the way it is straight, you know.
+- **[6:44:56 PM] Andy**: Yeah so I'm weighing yeah I'm just weighing how I'm going to now I've just got kind of weighing my thought. So when I was out in the vision quest I read a book by Tennis Aero who you call I didn't read the whole book but I did pretty good quarter of it reading a book on the Four of what's true And one of the main things he kept talking about what got me thinking about this is and he spent like a long time longer than I thought he needed to in reality about how he was praising the Buddha's use of words And he got no doubt no question there I'm not questioning the Buddha's use of words but he made it almost feel like you can't talk to people unless you're at that level of a Buddha to you know to teach, you know or to talk about things.
+- **[6:46:05 PM] Andy**: And so I was look reflecting it back at me you know thinking about that. Oh okay sometimes my vocabulary a lot of times my vocabulary is very it's not as expanded as I wanted to be I'm not as eloquent and know come with all the exact words that I wish I had And I'm educated I could be exposed to more words I'm not contesting that. But I have a problem and this is all probably all me where we shouldn't discount people we just don't have words you know don't have a big big vocabulary you know what I mean? They still what they're saying has some kind of value. We shouldn't degrade folks who may be as whatever intellectual or educated or whatever's going on you know what I mean foggy brain or whatever we shouldn't integrate people because that's another thing that we do is we give
+- **[6:47:20 PM] Andy**: credence to people that can win an argument right People who can win an argument because they win the argument they think they're right What that's not true You know me so I think that that's so those are the These are kind of things I'm thinking of on the whatever you know in my own world I'm in. So you asked I told you. Yeah I'm grateful that I'm grateful I have this life where I can this is what I'm thinking about now more instead of. Instead of trying to satisfy my corporate bosses in their demands.
+- **[6:48:32 PM] Andy**: getting divorced at 50 and still being able to say everything I could you know because I was looking towards this It's like okay I'm gonna try and say everything I can. I'm never gonna be able to afford a house You know I'm not gonna be able to I'm gonna be poor in my life but I'm not poor I mean I'm not you know I mean I'm not starving. I'm not homeless but I definitely don't have a lot of money just man but that's okay. I don't need a lot you know. And I still find ways to spend money. That I should you know. So yeah. Anyway am I boring you?
+- **[6:49:26 PM] Andy**: Okay understood.
+- **[6:50:01 PM] Andy**: Yeah oh.
+- **[6:50:52 PM] Andy**: like to Berkeley high we had counselors and people you could talk to and they had And you know you could talk to people if you didn't mind talking to the big bat wolf because a lot of times the counselors and You know we had like what do they call them like fight like tent We had like five or six vice principals You know the ones that are walking around the campus Stopping all the fights and stuff you know Yeah or you when you got Kicked out of school you rarely saw the principal You saw a vice principal Kind of thing In fact I have a lady that's actually a very good story So I have very few connections with any people I mean I have nobody beyond the person I'm going to talk about right now And other than my sister who went to the same school I did But yeah,
+- **[6:51:54 PM] Andy**: Yeah Berkeley High was a very I was very blessed to go there and so when I was a sophomore, I've just been always involved and still looking to get involved and stuff. So I met walked into student activities they have a little portable there in the middle of the campus and I went in there and I became they recruited me and I became the sophomore vice president I didn't get elected I just was the empty position I just came showed up That's how I got involved in student politics But the lady there who was the head of student activities she was an adult you know kind of counselor kind of person Her name is the let Bennett and she was a dream lady, just awesome lady so she interfaced with a cheerleading squad and the cheer team and the you know all of the you know student activities.
+- **[6:53:01 PM] Andy**: She was the head of student activities basically and she interfaced with all the students. Wonderful lady just a super wonderful lady. She's my Facebook friend and she's been communicating with me and she's always saying oh you was such a dream kid a nice kid and all this stuff She's just in her upper 70s 80s somewhere on there So yeah very wonderful lady though just a wonderful lady A lot of people you know pillar of the community really a wonderful lady. So she's the one I know the yeah I have no other friends from earlier than then and it's a teacher that's it so yeah, Yeah they're good ones and some of the I mean they were really, we were very close I mean they were a good group of people that we were with at the
+- **[6:54:27 PM] Andy**: school then so that was yeah I'm very blessed that I got to go to Berkeley High. There's a lot of schools in our area here especially the ones in East Bay where they're getting football injuries and they don't have enough players to if they get them down to a certain level they have to cut their season off. So like I know and this is a team that was like one of the giants of the football in this area cut their whole schedule out they're closed it down. I know it sucks because it's kind of like a big part of school pride the teams you know team sports there in the area. So yeah skyline high closed down and a couple other ones like five or six so it's pretty sad injuries all like they couldn't feel you know they have to feel like 20 people
+- **[6:55:35 PM] Andy**: in the team or you actually need more than 22 to just even have offense and defense. And then you need 33 because you need you know you need ones on the kick-teens and said, yeah yeah you have less than that than you're double-dutying it and yeah it's it's a, So they're going to remember you in a few years. Mr Salazar coach Salazar. What a wonderful man he was.
+- **[6:56:42 PM] Andy**: Of course.
+- **[6:57:17 PM] Andy**: Yeah that's a thing and use reminded me of a thing in recovery that's that they talked about that's so good they're so true is like don't you know you shouldn't need to worry if you move to another area because in all of a sudden you start building community wherever you're at you know and so that's a yeah that's a great thing yeah and I did that that's in fact that's that's true so harder in where I wanted to I kind of wanted to grow community in Oakland never quite got there but yeah okay here here Here we go sir.
+- **[6:58:11 PM] Andrea**: I wonder what I need to do with this starting valve thing. Okay here we go.
+- **[7:19:33 PM] Andy**: What's up? What's in there?
+- **[7:19:59 PM] Andrea**: Yes.
+- **[7:20:03 PM] Andy**: Where is?
+- **[7:20:33 PM] Andy**: Oh so you're feeling lighter just by thinking about what you might do. these kids You're blessed man You're blessed I feel
+- **[7:21:54 PM] Andy**: Yeah I guess I'd take out there's something on.
+- **[7:22:21 PM] Andrea**: all
+- **[7:22:34 PM] Andy**: they If you see Shin Godzilla I love Godzilla so Shin Godzilla he comes out of the wall they don't know what's going on with him at the beginning of the meet, they don't even know what it is at the very beginning because it's just as big disturbance in the middle of Tokyo Bay and then all of a sudden it comes on land and it's like this floppy amphibious thing that has it's not even formed yet but it's kind of flopping around and it's scooting on the ground it's like sliming it's going up in this knell, but it's mass of course yeah but I love that movie and it's really evolving it's just kind of evolving you know so they show them kind of like morphosing into a Godzilla, you know it's like it's a really good movie if you ever want to watch it.
+- **[7:23:39 PM] Andy**: Yeah oh man have you seen Godzilla zero The first got zero zero zero The wasn't one the Academy Award What oh Yeah well the the second one's gonna come out So minus minus oh zero is coming up next so yeah it's gonna be the next one that's coming out and it's yes it's done by the Japanese yeah they got to make them into some spectacular or blockbuster things when it's better. Yeah the Japanese one, they are in fact it has real I mean, it has actors and it's stories about the actors
+- **[7:24:43 PM] Andy**: and the trauma they're going through in their lives. And so it's really one yeah one that, when Academy Award last when it came out last for best cinematography and that's saying something for a monster movie you know and the new one is coming out in a month so I'm like yeah and if you know who Gager is the three headed one the bad ass one so he's gonna fight the bad ass one in the but so it's kind of like going back to the roots of the original does awesome yeah and already the reviews have come out and they're saying like it should be best picture right now really that's amazing from critics to say that so anyway anyway but the other thing you mentioned about you know Pokemon they had the Pokemon conference
+- **[7:25:50 PM] Andy**: here two weeks ago So I saw a news article where the people were there at the conference and they were just stuff Apparently there was going to be this giveaway from these certain Pokemons so they're like LaLine was like for miles they were trying to get those Pokebots and they ran out of them So they had like 10,000 and they ran out of them And then the second day of the third day it happened they ended up having to close it early because the demand was like oh I hate it People go crazy or Pokemon Anyway, it's actually one of the things I like about human beings They've created all these ways creative ways to make games and make things interesting. Have you ever known where they go out and they bury treasure places or they put certain things in there I forget what they call that thing where you
+- **[7:27:02 PM] Andy**: Well what they do is a variation on it So what they'll do is they'll say, Okay okay who could collect the most there's a game? What's the name of that game called? It's a adult game where kind of like shoot, what is that called? Hold on just like I gotta find the name of that thing. I gotta find hold on I'm gonna ask. Yeah it's a what's the name of that game that adults do where they go and find treasure out in the city in unique places and they have to document that they found it and then
+- **[7:27:45 PM] Andy**: they have to leave like a note or something like that or leave something in it while they put it replace it with. Because one time Andrea and I were hiking and we ran into these three guys. Geocaching Yeah And so there's an official app and it's kind of like door to the explorer you know kind of thing But it's for adults And yeah, geocaching And my my my Andrew and I were hiking and we came up on these three guys and they were looking at a tree. And so I'm like hey what are you guys looking up in that tree for right? So we're geocaching and there's a box up there
+- **[7:28:44 PM] Andy**: we're trying to get to. And this is a funny story. Andrew doesn't like what I tell this story. But because I climbed the tree I went up there and climbed up the tree and I got the box for him. And he was upset because I was climbing the tree, because it's like do you know 20 feet up or whatever. And I was more nimble than so was you know man I'm yeah I was able to climb the tree you know problem and I'm a I'm a climber. I like climbing.
+- **[7:29:15 PM] Andy**: I don't you know it's it's uh but anyway I don't have uh I wish I had the strength to do it. But anyway she got upset because she thought I was going to get hurt. Yeah but it was for the people they were geocaching and so they had like you know a military little box with some pictures in it and a poem or a book and so you're supposed to take it and write in what you took and what you were leaving in its place and I guess they have game rewards and things like that But it's another game I felt these games that people invent that are they're pretty neat Yeah geocaching Yeah Californians you know. Yeah it's just like people play Minecraft Andrea's brother plays I think it was the game he plays he's always talked about Fortnite I think.
+- **[7:30:17 PM] Andy**: That's just like your Pokemon except it's not a Pokemon it's a game I think that's not a game but it's not really a game it's a card thing. My granddaughter when she had a birthday last year or the year before I think it was last year we went to it out in it was out in the minute it was a hot day that day but we went to it and it was at a pizza place one of those chucky cheeses or whatever but oh, it was a gym place so it was like a chucky cheese except they had gymnastics there so was really neat place and when we went there she had these little dolls and apparently everybody is I forget the what the name of the dolls are but they're kind of ugly dolls you know they're really not even but it's the same thing like collectors and you had to collect you know all the seven elevens and all the stores were selling out of
+- **[7:31:21 PM] Andy**: them and they were fighting over them because you're trying to find them Special one you know, kind of thing Yeah Anyway All came from baseball cards right That's the first things baseball cards and expand So all you young folks don't know all this history I think it's neat I think that people do those kinds of things. Yeah in fact you got to be 15 here. What other games are like this that adults do? There's several a letterboxing moons tech forward scavenger hunt weather resistant QR codes painted rock hunting book crossings there's a whole bunch of gains that people do Anyway I'm tired too I'm beat up and I stayed up too late also No no you're But an hour or two behind me so I had a knee.
+- **[7:33:15 PM] Andy**: So you're if I'm tired you're tired.
+- **[7:33:25 PM] Andy**: I heard that. All right man. And let me just check the calendar. Before we go I just like to always like to do that. So I believe we are the second I've got to expand it.
+- **[7:33:58 PM] Andy**: Yeah and then I think we're not under 19th no 19th. Yeah no 19th and no 26th so I'll be on retreat. So we will next our next meeting will be in November wow and then you're not going be the night and then we have one the 16th and then we don't have one the 23rd so we're going to be yeah scattering around here well good to have you meet be with you wish you health happiness good fortune And by fortune there's a lot of ways to be fortunate and to have but you know lots of that may not be money but it could be love or you know people in your life or all those kids that get to you You get to the friend and take care of a nurturer and you've got your young son and wife to take care of and then to take care of you and just yeah many blessings yeah thank
+- **[7:35:31 PM] Andy**: All right Take care All right Bye.
+- **[7:35:50 PM] Andy**: Okay now to find all the documents.
+- **[7:37:50 PM] Andy**: Here we go. Three runes.
+
+---
+
+## 🎙️ Session 3: 2026-10-05 09:46:42 (5h00m)
+- **Source File**: `2026-10-05 09_46_42.mp3`
+- **Audio ID**: `of_cd79a283c234368aa3314998e99038e0`
+
+- **[00:00 - End] (Speaker / Group)**: - **[9:47:52 AM] Andy**: This is the first time I've ever seen a place like this in my life that I've never seen before.
+- **[9:49:30 AM] Andy**: I'm going to put it on the other side.
+- **[9:57:04 AM] Andrea**: I used this application for most of the year with no problems and then when the changes
+- **[9:57:30 AM] Andy**: came to the company in terms of rebranding etc then things start falling apart for me. I do not have anything in my notebooks.
+- **[10:00:57 AM] Andy**: notebooks since you guys have transitioned over to this other company or whatever you guys are doing and I need and would like to get my prompts etc back I've logged in and out of the application still nothing in my Cortex dashboard Please these advice.
+- **[10:05:30 AM] Andy**: Thank God!
+- **[10:07:08 AM] Andy**: My wife is applying me to attend this week as she had to work and had other plans the previous week I hope it's all as well with you.
+- **[10:23:57 AM] Andrea**: but
+- **[10:30:37 AM] Andy**: I am seeing news reports that the wave is actually approaching San Diego and has not reached us yet but you are using this data.
+- **[10:30:53 AM] Andrea**: it scripts.
+- **[11:08:00 AM] Andy**: Okay so it's almost please 11 o'clock and I have not done too much at all I have I've been on shopping I've been on coffee I've been in water blue man I've been on water.
+- **[11:08:53 AM] Andy**: Second
+- **[11:10:24 AM] Andy**: how to cook some eggs.
+- **[11:11:24 AM] Andy**: I need it.
+- **[11:12:17 AM] Andy**: We don't have a sound at all.
+- **[11:15:07 AM] Participant**: Jesus
+- **[11:19:28 AM] Andrea**: .</i–</i></i</i></i></i></i Hoping for you going to two sessions a week.
+- **[11:35:07 AM] Andy**: Oh well now we're going round and round. With the
+- **[11:36:05 AM] Andy**: I'm going to put it on the other side of the door and I'm going to put it on the other side of the door.
+- **[11:37:49 AM] Andy**: Richard Risters God
+- **[11:37:53 AM] Andrea**: Richard Risters
+- **[11:38:48 AM] Andy**: I'm going to have to go to the other side to see if I'm going to be able to get out of here.
+- **[11:42:06 AM] Andy**: That's one here. What are they doing here? They're coming. I'm focused. This makes your sight.
+- **[11:42:22 AM] Andy**: Just sight.
+- **[11:42:28 AM] Andy**: Don't look at that.
+- **[11:42:36 AM] Andy**: At least initially.
+- **[11:44:36 AM] Andy**: This is clean. Why not? That says fire a lot of yeah it said to fire a lot of privacy
+- **[11:45:27 AM] Andy**: I think the only thing I worry about is the power now how long does the power last?
+- **[11:45:57 AM] Andy**: Alright. Shopping pass.
+- **[11:46:31 AM] Andy**: This one is vibration by the cosmos.
+- **[11:48:06 AM] Andy**: Okay so here is a little journal note that I would like to add and so just thinking about my talk from yesterday on I'm right you're wrong and the only thing this guy's right on my ass There's a biker I didn't want to hit him there's somebody driving fast behind me. Anyway the only concern I have about my talk last night and I did give a disclaimer was how it really does point the finger at folks in terms of their behavior and their thinking. And you know being direct about it there's nothing necessarily wrong with it per se. But I need to look at that and whether I was being,
+- **[11:49:43 AM] Andy**: so how the wording is is where, I mean the government I can say whatever you wanna say in society every word I wanna say, but when I talk about people, which is a lot about what we talk about with this, is making sure that my talks note how human because we're talking about human behavior how human it is without you don't want to and denigrate people or put them down. So that's the only thing that I would like to ensure
+- **[11:50:41 AM] Andy**: that I'm my tone and my demeanor, and my wording is most important I think, important because there's a lot of bad food as well That kind of syrup Bikku talks about Words were very um
+- **[11:51:15 AM] Andy**: Shit where is this? Um it's right in front of us.
+- **[11:51:27 AM] Andy**: Okay we're all good. Yeah my words it's an amazing agent for the most part I could ask them to help me with that but that's something I need to look at too. So end of journal.
+- **[11:52:01 AM] Andy**: Oh my fucking guy sorry for my language This is how people drive it's very scary. Let him pass me so I can get away from him because I really don't like it when he's driving.
+- **[11:53:03 AM] Andy**: I'm not minding being at the back of the bus.
+- **[11:58:53 AM] Andy**: heart Hannibal up. This is the run of jewels going.
+- **[12:01:16 PM] Andy**: You're having a nap here.
+- **[12:01:46 PM] Andy**: There we go again.
+- **[12:03:09 PM] Andy**: yeah that's something about retirement is that i'm going at my own pace now versus the work world pace and that feels comfortable so that's one of the benefits of retiring and not being manage that way by the world Although I do need to look at that on my own side as I mentioned my own karma. What am I doing?
+- **[12:04:05 PM] Andy**: mmm
+- **[12:04:27 PM] Andy**: so tall here
+- **[12:05:01 PM] Andy**: Hmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+- **[12:06:01 PM] Andy**: There's a lot of people here who are looking for a place to stay. They're looking for a place to stay. There's a lot of people here who are looking for a place to stay.
+- **[12:06:55 PM] Andy**: I'm going to have a look at what I'm going to do right now.
+- **[12:07:15 PM] Andy**: This is one of the most famous restaurants in the world.
+- **[12:09:13 PM] Andy**: I'm going to have a look at how it's going to look like when I'm going to be able to see what's going on.
+- **[12:11:42 PM] Andy**: I've never seen this kind of thing in my life.
+- **[12:12:05 PM] Andy**: This is one of the most famous restaurants in the world.
+- **[12:15:27 PM] Andy**: I'm going to take a look at it.
+- **[12:15:51 PM] Andy**: This is the first time I've ever seen such a big building in the past. It's the first time I've ever seen such a big building in the past. It's the first time I've seen such a big building in the past.
+- **[12:16:19 PM] Andy**: This is one of the most famous restaurants in the world.
+- **[12:17:13 PM] Andy**: I'm going to take a look at this.
+- **[12:17:39 PM] Andy**: There's a lot of people here but I think it's a lot of fun.
+- **[12:18:29 PM] Andy**: I'm going to take a look at some of the things that I'm going to do.
+- **[12:18:50 PM] Andy**: machenred This is the first time I've ever seen this kind of thing.
+- **[12:19:32 PM] Andy**: Paul Winta of course is white-born grits which is helping afford it.
+- **[12:20:30 PM] Andy**: We'll bend the verses white corn grits which is better for you.
+- **[12:24:10 PM] Andy**: This is one of the most famous restaurants in the world.
+- **[12:25:38 PM] Andy**: What was on my list of the best order butters to buy don't see like to see maple hill So finally but where's there any others?
+- **[12:26:34 PM] Andy**: This is the first time I've ever seen this kind of thing, but
+- **[12:27:00 PM] Andy**: This is one of the most famous restaurants in the world.
+- **[12:27:28 PM] Andy**: This is the first time I've ever seen this kind of thing, but I'm not sure if it's the first time I've ever seen it,
+- **[12:29:20 PM] Andy**: This is the first time I've ever seen it but it's not the first time I've ever seen it, it's the first time I've ever seen it it's the first time I've seen it,
+- **[12:30:13 PM] Andy**: This is one of the most famous restaurants in the world.
+- **[12:31:11 PM] Andy**: This is the first time I've ever had a restaurant like this in the past but I've never had a restaurant like this before. I'm going to get the family mail here. This is one of the most famous restaurants in the world.
+- **[12:32:15 PM] Andy**: So amazing. I don't want it. I'm going to say that. So all of these nothing all of these are fine. I love them. Thank you.
+- **[12:33:14 PM] Andy**: Hey hey.
+- **[12:33:25 PM] Andy**: More pounds.
+- **[12:33:40 PM] Andy**: You're gonna do fine. I know I can tell That's okay That's why I'm ensuring you You'll do a fine.
+- **[12:33:59 PM] Andy**: Probably going to need more. Uh-oh. Uh-oh. What's up? Coming over here. Oh my gosh. Whoa I got an extra. What's up coming over here
+- **[12:34:22 PM] Andy**: Oh my gosh whoa I got extra
+- **[12:34:37 PM] Andy**: Thank you have a good day
+- **[12:37:40 PM] Andy**: Yeah I see they're all here there's no problem. Okay I'm going to put it right here. In there.
+- **[12:38:54 PM] Andy**: Sometimes that twist thing that works I know I don't that's why I don't get the receipts or anything anymore I like it oh yeah okay whatever is more for me you guys okay you know what actually I actually do like that for a long time here and it didn't work and I have to go there I have to go to Amazon yeah I think I did it The next time I'll test it huh? I made this ball because it came better when it made it hard by the time.
+- **[12:39:42 PM] Andy**: Got you. There you go.
+- **[12:40:33 PM] Andy**: This is the first time I've ever seen this kind of thing.
+- **[12:40:57 PM] Andy**: This is the first time I've ever been here.
+- **[12:41:25 PM] Andy**: We're seeing the takeovers complete. You know what I mean. How do you roll the rope? You roll the rope now.
+- **[12:42:07 PM] Andy**: Thank you.
+- **[12:42:20 PM] Andy**: Take care.
+- **[12:43:19 PM] Andy**: I'm sorry.
+- **[12:44:11 PM] Andy**: I'm going to have to go to the other side to see if there's anything I can do to make sure I don't have to go to the other side.
+- **[12:46:01 PM] Andy**: ATTACK!
+- **[12:46:31 PM] Andy**: Get the chair going.
+- **[12:47:19 PM] Andy**: I'm leaving the Whole Foods 280 this time a little bit high but I got some extra stuff. It's been trying to stay close to 200 on average and I thought that was here.
+- **[12:48:35 PM] Andy**: haha
+- **[12:48:47 PM] Andy**: haha
+- **[12:49:00 PM] Andy**: I'm going to have a look at the view from the top of the mountain.
+- **[12:51:24 PM] Andy**: That Audi didn't even take no right in front of me.
+- **[12:52:24 PM] Andy**: I'm going to do this I'm going to do 70.
+- **[12:52:47 PM] Andy**: I'm going to do 70.
+- **[12:53:24 PM] Andy**: we're here
+- **[12:53:32 PM] Andy**: come on. We have a signal. Hear them choose. We got four more seconds.
+- **[12:54:33 PM] Andy**: kids
+- **[12:55:13 PM] Andy**: So thinking about my journal entry from before I'm going to add to that you know it's what to honest and what I mean by that is that I wouldn't want to limit my internal honesty as long as I'm kind right so back to right speech but the true is a beneficial is the right time and is it kind so for me that's a fine distinction so in speech I'm talking about speaking to others so I can give my internal truth but can that internal truth harm others I'm not being you know not sleeping around behind anybody's back or taking any actions those kinds that kind of way so you know that and I'm not saying anything cruel like berating anybody so you know that but the still there's more to it and you know our minds prepared to even hear the brutal honesty And does that because I have the saying that what I believe is that when I say something
+- **[12:57:07 PM] Andy**: about myself others project against that either with judging their own behavior right? And yeah how that reflects on them from their own perspective. So if I talk about something that's difficult then they may not want to hear that. In fact they probably won't want to hear that. Especially if it's something that's maybe traumatizing or not. But is that traumatizing them by hearing from somebody else's trauma?
+- **[12:57:53 PM] Andy**: Yeah that's a difficult question to ask I think.
+- **[12:58:01 PM] Andy**: Maybe it's more than one part meaning I can't just say the facts. You know hopefully it's something that inspires people encourages them to grow. grow and you know that's actually that is my intention but something things to miss the mark okay in the journal 1258 getting home at the unload groceries There is the
+- **[1:03:39 PM] Andy**: Got it it's on the hard line. Got him yes!
+- **[1:09:00 PM] Andrea**: I'm going to have to go to the other side to see if I'm going to be able to get out of here.
+- **[1:17:22 PM] Andy**: I got this. I'm going to put it on the other side of the door and I'm going to put it on the other side of the door.
+- **[1:17:51 PM] Andrea**: I'm going to put it on the other side of the door.
+- **[1:20:31 PM] Andy**: if I can do it or not but I think I can do it. if I can do it or not.
+- **[1:21:25 PM] Andy**: What happened?
+- **[1:28:51 PM] Andy**: end
+- **[1:37:25 PM] Andy**: This is how this slide would go.
+- **[1:38:41 PM] Andy**: I'm sorry.
+- **[1:52:27 PM] Andy**: No back
+- **[1:53:27 PM] Andy**: I'm going to go with that one and then
+- **[1:57:24 PM] Andy**: monthly meditation group meeting at 10 a.m when it's on my schedule for 5 p.m I was prepping for that meeting.
+- **[1:57:53 PM] Andy**: I am a Raiders fan and try to watch those games every game they have live as possible, but in this case it was live. I disconnected and then continued to prepare for the 5 o'clock meeting for my Living Mindfully Meditation Group which only Andrea attended and there is a crisp recording and transcript and notes on that.
+- **[1:59:34 PM] Andy**: practitioners provided some reflections. It couldn't have happened at that time. It had to have occurred somewhere between five and six thirty. And I think Andrea did not offer many reflections. So this is actually another one of my reflections and the vocal transcription should have identified and it is my voice.
+- **[2:00:59 PM] Andy**: living mindfully meeting and also in the prep talks.
+- **[2:03:09 PM] Andy**: I had some issues initially when I turned on the shield TV as after about 10 seconds the TV switch to another channel Test test I had some issues with turning on the the shield TV and it when I did so everything would turn on but then the channel on the ABR would switch to the smart the media input again What I did was as I went to the shield TV and actually engage the the CEC command to switch to the shield input and that seemed to have resolved it but I'm concerned about why that would be happening otherwise without that switch on the shield
+- **[2:04:25 PM] Andrea**: TV I'm not sure otherwise where we left this off I think we were troubleshooting trying
+- **[2:04:52 PM] Andy**: to get the AVR to work with the source inputs and so maybe we could test that now.
+- **[2:05:44 PM] Andy**: and I could test it there.
+- **[2:06:44 PM] Andy**: Now I am feeling yucky since I had that nothing I'm having some more coffee a slight headache and I'm gonna be sitting here in the living room testing the home assistant so why don't we see here?
+- **[2:14:07 PM] Andrea**: I'm going to put this on the top of the head and I'm going to put this on the top of the head.
+- **[2:22:01 PM] Andy**: I see it's still downloading to install.
+- **[2:22:31 PM] Andrea**: I see a status bar.
+- **[2:24:55 PM] Andy**: Here we go again.
+- **[2:27:43 PM] Andy**: maybe 50% so maybe it's still installing but it seems stalled.
+- **[2:29:38 PM] Andy**: So I dig on past that.
+- **[2:31:38 PM] Andy**: At this point I will try to stay up until myемон Floyd recognition accessibilityblindness should seem like I want to alert myself.
+- **[2:31:57 PM] Andy**: It looks like I have a Windows update is something that maybe that is affecting this and that's why we're waiting.
+- **[2:33:22 PM] Andy**: it says it's Windows 11 version 26H2 and I'm going to see what's in that so they update and hold on.
+- **[2:38:59 PM] Andy**: for another update which I think is the larger update so sorry delayed.
+- **[2:40:27 PM] Andy**: noticing my stress while working with the integrabity program and the laptop et cetera with computers. And just a little bit stress because I keep on running the roadblocks everywhere all the time. Seems I believe this is just the nature of working with the cute computers at this level getting fully competent to be able to per along because you're being more creative with it and knowing more what you're doing probably would bring some reduction in stress that I'm feeling. So there's you know how many things in life are we fully competent in? I'm probably more competent with computers and technology than most folks and I still
+- **[2:41:42 PM] Andy**: find it frustrating. And the idea is I think with technology companies is well they're supposed to design so that we reduce all that but there's some you know sometimes that's actually not the case.
+- **[2:42:06 PM] Andrea**: What is that up there?
+- **[2:42:10 PM] Andy**: So right now just trying to be patient and dealing with what is right in front of me, which is a lot about what life is all about basically so you can quote me on that last section there when we do the transcript.
+- **[2:43:19 PM] Andy**: additional instructions and means and ways that we can improve. Maybe we could stack those commands up so that they could be reviewed once we do the the transcriptions.
+
+---
