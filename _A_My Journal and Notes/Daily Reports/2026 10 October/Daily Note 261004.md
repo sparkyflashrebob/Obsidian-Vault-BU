@@ -22,7 +22,7 @@ tags:
 📊 **Linearity Sessions Processed (PRIMARY)**: **1**
 📊 **Plaud Sessions Processed (PRIMARY)**: **5**
 📊 **Bee Sessions Processed (SECONDARY BACKUP)**: **1**
-🔄 **Report Revision Date**: **2026-10-05 14:49:04 PDT**
+🔄 **Report Revision Date**: **2026-10-07 09:48:20 PDT**
 ### ⚙️ Pipeline Status & Data Ingestion Log
 - ⚡ **Plaud Direct Ingest**: ✅ **Active** (0 Cloud Minutes Spent, 0 Phone Taps Needed)
 - 🎙️ **Linearity High-Fidelity Ingest**: ✅ **Active** (1 High-Fidelity Session Processed)
@@ -52,17 +52,18 @@ tags:
 ### 🏃 Physical Activity & Health (Google Health)
 > *Aggregated exclusively from Google Health (Google Fit / Health Connect).*
 - **Daily Total (Sunday, Oct 04)**:
-- 👟 **Total Steps**: **5,313** steps *(Daily Avg from Connected Health Sync)*
-- 📍 **Total Distance**: **2.42** miles
-- 🔥 **Calories**: **2,336** kcal (2,070 BMR + 266 active)
-- **Weekly Summary (Sep 20 - Sep 26)**:
-- 👟 **Total Steps**: **37,194** steps (Avg: **5,313** steps/day | Best Day: **9,361**)
-- 📍 **Total Distance**: **7.29** miles
-- 🔥 **Calories**: **16,350** total kcal (Avg: **2,336** kcal/day | Baseline BMR: **2,070**)
+- 👟 **Total Steps**: **6,459** steps *(Daily Avg from Connected Health Sync)*
+- 📍 **Total Distance**: **2.94** miles
+- 🔥 **Calories**: **2,421** kcal (2,098 BMR + 323 active)
+- ⚖️ **Weight**: **234.2lb** *(Google Health)*
+- **Weekly Summary (Sep 27 - Oct 3)**:
+- 👟 **Total Steps**: **45,216** steps (Avg: **6,459** steps/day | Best Day: **8,944**)
+- 📍 **Total Distance**: **10.24** miles
+- 🔥 **Calories**: **16,947** total kcal (Avg: **2,421** kcal/day | Baseline BMR: **2,098**)
 - **Month Total (October Summary)**:
-- 👟 **Total Steps**: **37,194** steps (Daily Avg: **5,313** steps/day)
-- 📍 **Total Distance**: **7.29** miles (Daily Avg: **1.04** mi/day)
-- 🔥 **Calories**: **16,350** total kcal (Daily Avg: **2,336** kcal/day)
+- 👟 **Total Steps**: **45,216** steps (Daily Avg: **6,459** steps/day)
+- 📍 **Total Distance**: **10.24** miles (Daily Avg: **1.46** mi/day)
+- 🔥 **Calories**: **16,947** total kcal (Daily Avg: **2,421** kcal/day)
 ### ✉️ Outgoing Sent Emails & Correspondence
 - **To**: `Lucky <Lucky@lindbeck.us>` | **Subject**: Re: Monitor cart (2:08 PM)
 *Summary*: "Hello All, Does the owl need to be physically attached at the conference table? It would be more ideal if I used it over where the seating section is and I just connect it to the U "

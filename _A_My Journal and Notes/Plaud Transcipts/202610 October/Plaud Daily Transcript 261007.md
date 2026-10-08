@@ -1,0 +1,603 @@
+# Plaud Daily Transcript - Wednesday, October 07, 2026
+- **Date**: 2026-10-07
+- **Total Audio Sessions Processed**: 3
+- **Generated**: 2026-10-08 08:21:00
+
+---
+
+## 🎙️ Session 1: 2026-10-07 19:00:45 (2h24m)
+- **Source File**: `2026-10-07 19_00_45.mp3`
+- **Audio ID**: `of_a01c1071aa9875c281d41d6f173ae53d`
+
+- **[00:00 - End] (Speaker / Group)**: - **[7:00:45 PM] Andy**: Woo!
+- **[7:01:07 PM] Andy**: They see the gal from the baron Another woman from the Bay Area just quite a few from the Bay Area it's almost I think almost half to the people from the very other one. Kid are you finding me? Popeye! husband
+- **[7:01:46 PM] Andrea**: Harry you've wasted me some time.
+- **[7:01:49 PM] Andy**: You should've taken a shot because there's some reason for get it up the corner with this thing and I think that we're both dating and I can't resist you to date him when they want to push invisibilist Likehila inside and the corner already has one free goes for another? Yeah he's got the headband behind her that's the center there's a Burton's got the ball with the big hair going up because she's got it tied up the white girl yeah, Yep Thornton is I think the one that went right here to the corner and the bat went.
+- **[7:02:47 PM] Andy**: Yep the long red here and then the center her name.
+- **[7:02:53 PM] Andrea**: Oh Aisha's got down in the block.
+- **[7:03:04 PM] Andy**: Go to the middle. You can do it. You have test BDF5.
+- **[7:03:10 PM] Andrea**: Hold the state. Around the strength. The activity is the worst. They like it so much. They don't speak.
+- **[7:03:20 PM] Andy**: Oh you prick. And the most often to breathe out like this. By who else he is going. Who's the highlight of this? Stokes. Oh he is stoked.
+- **[7:03:30 PM] Andrea**: It's about to happen that's why I'm going to say, Lord you are in a problem outside this time. No good on the inside.
+- **[7:03:48 PM] Andy**: Great.
+- **[7:03:48 PM] Andrea**: Taking it to the deck.
+- **[7:03:50 PM] Andy**: You've been hurt.
+- **[7:03:51 PM] Andrea**: Too good.
+- **[7:03:56 PM] Andy**: Great. She's pretty good. We can swap back and forth if you want once it gets going. I know how you like the Warriors. I love the Warriors. Oh shit. Gary hit a three. What's going on what's the temperature one more day of this and they called you to work tomorrow so I said okay no they said as soon as you're done taking it in then you go drive over there you're supposed to go and drop your drop it off
+- **[7:05:17 PM] Andy**: They got it They said they reserve a parking spot for you
+- **[7:05:42 PM] Andy**: It's not funny
+- **[7:05:47 PM] Andrea**: When we asked about the rebound it said this is something that we've learned on every day they've been re-bounding to the second grade. And it goes like you have to back the bases of basketball always. Well I think for a Hall of Fame or life I think. Definitely should. What do you think?
+- **[7:06:45 PM] Andrea**: and we have General W and the A family watching this one.
+- **[7:06:53 PM] Andy**: This is from the heart of the game. Here's a overtime right now.
+- **[7:06:57 PM] Andrea**: We're in for Tuesday. Great. There's a OG.
+- **[7:07:00 PM] Andy**: These time it's out of the blue. That's what I am. We were talking about Becky Hermann and her passion
+- **[7:07:08 PM] Andrea**: about the rebounding battle.
+- **[7:07:10 PM] Andy**: I don't have to see it out a little bit. Yeah she absolutely.
+- **[7:08:13 PM] Andy**: I will show you another one three and a task that's going to be a book three.
+- **[7:08:20 PM] Andrea**: Why is it on the floor?
+- **[7:08:22 PM] Andy**: It's an intuition my bad.
+- **[7:08:25 PM] Andrea**: They can use a Asian Wilson jacky young and switch off of that with a piece of those and Gabby Williams.
+- **[7:08:34 PM] Andy**: They have such versatility in the length of the fence which is often what makes them so That's so challenging to try and find for those who don't know who that is. I'm proud of the age of looking at kids so far. This time Paul.
+- **[7:08:52 PM] Andy**: And by the nation by law Vegas. We got three basketballs.
+- **[7:09:02 PM] Andy**: For substitution for Vegas nearly the big three of Chelsea Gray Jackpot Asian workers on the floor I don't really know if she's playing with me but it's a nice thing for her to work. I should pass Yamamoto back in the hands of Williams. But that's because she had most of the way by Ray. Todd's now in her side for you.
+- **[7:09:25 PM] Andrea**: Shut the fuck up Violet. Just on her off day I guess. You don't see as they contemplate that. So when you talk about getting stopped you're everywhere. What they've done is that a lot of us have to get more clients on the job to find a friend who should have posted some money to do that. If you think any type of rhythm is getting more it's so far as you're making some moves like a thing. So let's just think you want to do that. I think I have a task for you to set up things for you. Those things are the one thing that you don't have in the season.
+- **[7:10:02 PM] Andy**: where he is. Don't down the car to tie it play it out with it. But we need in mind that if you don't let the camera want it to be you're gonna go ahead with the game. You heard that?
+- **[7:10:16 PM] Andrea**: The greatest mistake there. Y'all know to go to the depth.
+- **[7:10:20 PM] Andy**: Tarot aggressive step forward to do it. Step forward to bring me in. No further to look at all of it.
+- **[7:10:27 PM] Andrea**: Step now run to go to the state.
+- **[7:10:31 PM] Andy**: Up by double fidget.
+- **[7:10:33 PM] Andrea**: Yay man we are full.
+- **[7:10:40 PM] Andy**: That is an apple or pear each Aww eating the peep! And the bro home good one! What about Nana? You can go back to Toronto
+- **[7:11:32 PM] Andy**: I'm gonna go up against y'all I'm a moat soldier. Tipped away. Come to the corner. Breathe out battle. Land in the hands of all your fate.
+- **[7:11:44 PM] Andrea**: Go for a lesson.
+- **[7:11:45 PM] Andy**: Go around like a Thanks for having me. And we'll be teamed up.
+- **[7:11:51 PM] Andrea**: One last. I'm going to come here to the first race.
+- **[7:11:58 PM] Andy**: That elbow area rolled through boxes. Dortin apparently she gets a lot of fouls like that. Somebody was bitching about her in a game with Catlin. because they beat Katlyn Clark and them.
+- **[7:13:29 PM] Andy**: Oh that was a foul. They were so they was a delayed foul. They didn't call it. She said hey he's falder. Hey this is the one that's been really old right it's been there
+- **[7:14:11 PM] Andy**: Yeah hey she's like
+- **[7:14:27 PM] Andy**: I'm looking to my child. And that name is Amy. Hey man. Chad. Hey can you please use that baby? Can you please use that?
+- **[7:14:39 PM] Andrea**: So Natalie Nikosek she played works under Becky Hammond for a number of seasons of Nases.
+- **[7:14:45 PM] Andy**: Is it you? That's why I have to use that. You know what I'm just saying? She's saying that in the back of the TV. And that way the Nasek was a clean dollar That's really a hard thing to mean. They can never camp around the ground. There are so many men on the morning. I don't think there are any men that support the WNDA. What are they trying to do off there?
+- **[7:15:37 PM] Andy**: Take me in the high ground. There's this corner with a sword. Yeah why? I was creeping back! That was a creepy thing! How is it going? It's really cold! Well remember from my background that I've seen when I was doing, I was doing a college basketball and Stanford's got quite a background history at basketball and their whole support system everything.
+- **[7:16:40 PM] Andy**: They would sell out they had more support than maybe even the men. And I was doing all those games down there. Those Stanford women as gangs were pretty raucous. So I've seen in the Bay Area has a lot of support for women sports for sure.
+- **[7:17:10 PM] Andrea**: is caused by certain prescription mental health very easy. It's true. So talk to your talk to and visit theothercd.com
+- **[7:17:19 PM] Andy**: to learn about the anti-treatment option back in hell.
+- **[7:17:24 PM] Andrea**: People's hands are just one. It's one of the best items for it to get swept up in.
+- **[7:17:31 PM] Andy**: It can't fly. Move your way.
+- **[7:17:33 PM] Andrea**: Nintendo Switch Sports Resort. Ready everyone? Turn it up. Yeah it's $7.00 and now it's a record record right? Yeah it's $7.00. Oh it's $11.00. It's $11.00.
+- **[7:17:44 PM] Andy**: Oh it's $11.00. You say classic. Yeah it's $11.00. Oh it's $11.00.
+- **[7:17:59 PM] Andy**: I have a plan.
+- **[7:18:01 PM] Andrea**: All the jobs are in the state to do the CG.
+- **[7:18:08 PM] Andy**: Now through hot heat tears no new parts.
+- **[7:18:13 PM] Andrea**: I'm finding out the things you're writing. Get back so many that from AT&T for unlimited connection. For the second game in the world the belt for you has to leave after the first break.
+- **[7:18:28 PM] Andy**: So shoot I forgot I got some zappage.
+- **[7:18:58 PM] Andy**: All of 11 points for the agency were scored by Shelter Ray and
+- **[7:19:03 PM] Andrea**: eight of the Wilson's.
+- **[7:19:05 PM] Andy**: Reckon to team all of the three of us here. Each of them has a birthday ring for her. Give me the next ring. I eat them. I've been eating them. If you stand close to me I can just wipe myself on you.
+- **[7:19:56 PM] Andy**: That was weird She looked like she'd pulled them down. Why is this?
+- **[7:20:04 PM] Andrea**: Oh gather head and then they were kind of sliding into each other.
+- **[7:20:18 PM] Andy**: I'm going to put it in the bottom right now.
+- **[7:20:22 PM] Andrea**: This is what they did.
+- **[7:20:24 PM] Andy**: I'm going to crash you off at the black bar. Evan they need your shooting. It's too short on that part. Go back up. They're looking up to a bar. The second floor is underweight. Got Charles Jen.
+- **[7:21:13 PM] Andy**: Does there be a line right now?
+- **[7:21:24 PM] Andy**: We only watch winners
+- **[7:21:43 PM] Andy**: I'm one good I think yesterday I drink so much while I was floating It's difficult on me sweetie to be honest with you. It's just your pissing all day. You know at least I'm not working. That's the consolation prize for drinking a lot of water. You like how I flip it every time you do? That's the bathroom anytime you want. I like how I flipped it. That's what I flipped when I said about where the man really does. The rain just flew into the cage.
+- **[7:23:07 PM] Andy**: Was that a girl girl on the cage diamond thing? I think it was. Yeah that's neat
+- **[7:23:44 PM] Andy**: There's two slow You have to do it fast. You're going to move. Yeah he's like eat cute do it. Yeah see these kids do a little. That's gorgeous. That's the teetons. That's gorgeous. I want to see them. Wow look at them. really into it That's my list The great crowd Look at that.
+- **[7:24:41 PM] Andrea**: Yeah she hit the arm she hacked the arm
+- **[7:25:11 PM] Andy**: January
+- **[7:25:21 PM] Andrea**: She was still moving she didn't set herself she just ran into her that's why you got
+- **[7:25:46 PM] Andy**: stop That's what they talk call a moving screen She's just right Yep well that's a good example why they call it right That's a perfect example Oh the the Budipa The roller derby Yeah the roller derby.
+- **[7:26:40 PM] Andrea**: No look at her.
+- **[7:27:14 PM] Andy**: She did? She's a lefty too. It's really good to hear them talk you know what I mean so then you get a sense of who there is people.
+- **[7:28:00 PM] Andrea**: Oh it looks like it was on it.
+- **[7:28:11 PM] Andy**: That looked like that was good. Oh a travel. The guy ball got stuck behind her in her bait. Well she hit it and it stuck on her back. Oh my gosh okay we gotta switch to them now They're winners.
+- **[7:28:44 PM] Andy**: Yeah I know that Oh.
+- **[7:28:50 PM] Andy**: Dorton is doing it.
+- **[7:28:57 PM] Andy**: Yeah it's already halftime.
+- **[7:29:07 PM] Andrea**: Oh you want to do that now yeah the boys still have a little bit more room
+- **[7:29:39 PM] Andy**: Cayman! Jesus. That's really dope man. I thought it was a baby. You kinda might have a baby.
+- **[7:29:51 PM] Andrea**: I'm gonna put a shot on the camera. I'm gonna get you a cushion at the end. A lot of this one is with Gabby's bones on the bench. He's one of those three.
+- **[7:29:59 PM] Andy**: Jackie Yacht.
+- **[7:30:01 PM] Andrea**: He's too light.
+- **[7:30:03 PM] Andy**: time out
+- **[7:30:22 PM] Andy**: what's cool today
+- **[7:30:30 PM] Andrea**: Eric expanded access to a board of a child chair delivered results on homelessness, paid the way for 5000 new homes Eric Luching for State Assembly. Thank you very much. Thank you.
+- **[7:30:44 PM] Andy**: We are very very glad to be here and we've got a lot of dreams and continued to keep our eyes on that Sunday final. Back here at Ball Hall of People's Liberation first time in the fall, and I'm sure you will be at the dome as your history base.
+- **[7:30:58 PM] Andrea**: why you clapped when they missed.
+- **[7:31:18 PM] Andy**: What is she doing? she's doing pretty simple play
+- **[7:32:24 PM] Andy**: This time you're going to track multiple. Burton. Is that anything that's up for both the state?
+- **[7:32:36 PM] Andrea**: Are these six trees on the eighth day of the day?
+- **[7:32:39 PM] Andy**: There's no damage. Just over 10 in the regular season.
+- **[7:32:43 PM] Andrea**: Yeah me too.
+- **[7:32:44 PM] Andy**: So are you going to get in on the action? They're not getting me in easy shots.
+- **[7:33:02 PM] Andrea**: I think it's the first time this evening the first time in this series because in game one,
+- **[7:33:21 PM] Andy**: I'm going to have to make a row of two and a half knots. One and a half knots.
+- **[7:34:19 PM] Andy**: So they have to three more games in this round they can't. That's the five. That's the three. That's the five. So it's two two and one. Two here two there one back here but go into the fifth game. Oh Burton got hit. I'm looking to look at the playoff racket see what it says ESPN I use.
+- **[7:35:10 PM] Andrea**: 15 minutes.
+- **[7:35:11 PM] Andy**: Because how about these different apps I just have one.
+- **[7:35:15 PM] Andrea**: And this group straight in numbers is the motto. She said take them shake my fresh legs. And it shows channel adventure to the level point.
+- **[7:35:24 PM] Andy**: And I think that's where the contract was going. And the teachers are not playing but getting their operatives to use. The first big of team the point of that is that you need to walk from there to this and you send it through to the team.
+- **[7:35:41 PM] Andrea**: Money from Talbot Talbot re-answering the line and I did that as well.
+- **[7:35:47 PM] Andy**: Thank you.
+- **[7:35:48 PM] Andrea**: She brings the first ability and a ability to defend.
+- **[7:35:51 PM] Andy**: She does not defend the green. And she changes the title right hand from Talbot to trade off. The game of runs the momentum is important that you have to have time on either side of it.
+- **[7:36:47 PM] Andrea**: And then she breaks the table and right here, the A-hand woman knocked it out three point shots at something that she has done to the fourth of her career.
+- **[7:36:55 PM] Andy**: And then this is the finish of a delay that was threatening the A-hand woman. And she caught an A-hand. But the higher season in houses on the bottom,
+- **[7:37:05 PM] Andrea**: you part of why the one that's at all and you can't believe the stuff is too warm out. Tell me if Bongo's free throw has four rebounds
+- **[7:37:15 PM] Andy**: It's best to seven in the finals.
+- **[7:37:25 PM] Andy**: Oh I just went to the WNDA's play site instead of the hat.
+- **[7:37:45 PM] Andy**: Oh she got elbow in the face.
+- **[7:38:15 PM] Andy**: I actually don't mind that somebody has to have room to bring their elbows up. You can't just put your face in there expect people not to try to shoot the ball.
+- **[7:39:22 PM] Andrea**: The better game.
+- **[7:39:44 PM] Andrea**: I think it's you I don't hear you on my side.
+- **[7:39:48 PM] Andy**: Oh it sucks! You just want to go live with this one? Let's see them come back.
+- **[7:40:18 PM] Andy**: He just showed you some footage of the parents could storming the school board
+- **[7:40:30 PM] Andy**: They were playing around we're getting in here
+- **[7:40:48 PM] Andy**: Oh they got the third stringers already in there. Did you hear it? Because these guys were closing the game out last night. E.K wasn't ready there. Back to back.
+- **[7:41:12 PM] Andrea**: I don't feel so bad now sitting at these guys they're shaking the bulk of the
+- **[7:41:32 PM] Andy**: a little wild they're 99
+- **[7:42:21 PM] Andy**: Yeah he's good I like him He's been doing lay out all the others for people They're just not taking him. It's a little bit of Kyrie they called him. Yeah Williams Yeah They call him Little Baby Kyrie See There he is. You're the guy in Terry Elk and he's a midfielder to come out and then he can play with Elk. Did they hit ban? Did you guys see? Oh this is the Portland Telecast.
+- **[7:43:45 PM] Andrea**: Whatever color it is It'll fill players for years
+- **[7:43:59 PM] Andrea**: I have to make for us I'll call it my life I have to make for us that I was on college and I'm just having a surf shot of such an ins before they catch you so you stay in the chair with your surf shot.
+- **[7:44:28 PM] Andy**: All right I love it so much.
+- **[7:44:37 PM] Andy**: Look it's Jack's in my own.
+- **[7:44:39 PM] Andrea**: So I'm going to find the car.
+- **[7:44:49 PM] Andy**: Yeah he got hurt They lost their scene last year.
+- **[7:45:19 PM] Andrea**: I'm going to play the solo what's up with Prairie?
+- **[7:45:29 PM] Andrea**: That's good.
+- **[7:45:35 PM] Andrea**: I'm going to play off-stars the more.
+- **[7:45:49 PM] Andy**: while gotta
+- **[7:46:18 PM] Andy**: And I've been thoroughly impressed.
+- **[7:46:36 PM] Andy**: Dave dollar. Back. He's back with his team that he wants to be with.
+- **[7:46:58 PM] Andy**: It's just preseason They're trying to see who they're going to cut and who they're not. Who's going to send it to the G League? He's playing D with a whole heart and he's black and 99 what's his name? Kelly. Is it one of the creative combinations? Izzy and Cryer. What was the team?
+- **[7:47:25 PM] Andrea**: He's already the team. Well any of the law combinations?
+- **[7:48:04 PM] Andrea**: They're flush with them.
+- **[7:48:14 PM] Andy**: They're hanging right in there.
+- **[7:48:24 PM] Andrea**: I'm doing it with his footwork. You can create an opportunity. I learned the fact that he did libessions left hand through yeah. Lincoln jumped so over 50% of the floor last year.
+- **[7:48:40 PM] Andy**: Had it hit the three-point game to see it's the three-broom.
+- **[7:48:47 PM] Andrea**: They see also able to stretch the floor.
+- **[7:48:50 PM] Andy**: For now big position a little bit too big. people are complaining about their bills your family Facebook who's Amanda, No Amanda Okay well she's complaining about I got it on my feed and she was complaining about the PG knee and then your Kate says ours City of you call bills almost 800 months PG knee
+- **[7:49:45 PM] Andy**: They're talking about it.
+- **[7:50:01 PM] Andrea**: How are they back in He'll run the offense. Here's an offensive balance So do I get one of those points?
+- **[7:50:13 PM] Andrea**: Because the guys at bedtime with the NBA officials this past week at training camp where the NBA now they thin their game officials out To a practice for a game but they can see what it's called like They also had another officiating meeting They are well aware What those points are And they're trying to figure it out What can they get away with and what is so long or a lot
+- **[7:51:10 PM] Andy**: No freaking way
+- **[7:51:31 PM] Andy**: Up and down
+- **[7:51:49 PM] Andrea**: the most continuity of this team. This idea is obviously a few players coming in it takes back up for just a few years, but we haven't really been able to say that about the players in a while but there's
+- **[7:52:34 PM] Andy**: rial He's got a new team job drive it like that.
+- **[7:53:08 PM] Andrea**: How far are they going to push those boundaries?
+- **[7:53:44 PM] Andrea**: We all have spins through it.
+- **[7:53:55 PM] Andrea**: We all do it. I'm going to rock you the ability to fail.
+- **[7:54:02 PM] Andy**: Check it. Celtics During they were in the when the warriors beat him in the finals He was a they were looking forward to him developing But a lot of these big guys just travel to other teams.
+- **[7:54:28 PM] Andrea**: Oh there's what we claim that the sun is on. Church church.
+- **[7:54:39 PM] Andy**: There's a thing that I don't love.
+- **[7:54:54 PM] Andy**: Let they get sucked. They're mad with the warriors. Dirk
+- **[7:55:11 PM] Andrea**: That's very dark Yeah
+- **[7:55:27 PM] Andy**: A lot of W-A-M-D-A at S. Now the one.
+- **[7:55:54 PM] Andrea**: Oh I can do it on my butt.
+- **[7:56:01 PM] Andy**: He's gonna dunk it. Travel. Oh this is the new guy.
+- **[7:57:15 PM] Andrea**: I have that left side of the floor.
+- **[7:57:27 PM] Andy**: Holy! No he's going to teach him.
+- **[7:57:42 PM] Andy**: True. They're all pretty good warriors had a holiday I think it was yeah I think so So when he was a rookie
+- **[7:58:07 PM] Andy**: Yeah he's a little out of control I think he's gonna be just like a Westbrook We finally retired that's why he gets hurt He's just reckless Yeah just all speed and energy.
+- **[7:58:50 PM] Andy**: William's picked up the front of the freezer,
+- **[7:58:55 PM] Andrea**: Through no disconnection.
+- **[7:59:04 PM] Andrea**: and Shade Jarrett we tell the John Aram.
+- **[7:59:07 PM] Andy**: There's a number of guys on the team.
+- **[7:59:09 PM] Andrea**: Fire up again.
+- **[7:59:11 PM] Andy**: Yes athleticism on all NBA rosters. It's a lot of good athletes.
+- **[7:59:51 PM] Andy**: Oh god Travel.
+- **[8:00:13 PM] Andy**: It's got a shack deal.
+- **[8:00:24 PM] Andrea**: It's a lot of problems.
+- **[8:00:41 PM] Andy**: Bam! It's nice.
+- **[8:00:45 PM] Andrea**: please
+- **[8:01:04 PM] Andy**: 14 I think
+- **[8:01:15 PM] Andy**: Yes. The other one's reaching for Rob. Is he?
+- **[8:01:25 PM] Andy**: We saw somebody say the answer is the Rob we're seeing him on the floor now. You don't need me?
+- **[8:01:39 PM] Andrea**: He's getting that little team. Six more plays are late.
+- **[8:02:28 PM] Andy**: That's it.
+- **[8:02:42 PM] Andy**: See?
+- **[8:02:57 PM] Andy**: The car doesn't like it.
+- **[8:03:11 PM] Andrea**: all
+- **[8:03:25 PM] Andy**: been and I still be there. I still like to watch this last week
+- **[8:04:03 PM] Andy**: hopefully,
+- **[8:04:06 PM] Andrea**: And it's a perfect,
+- **[8:04:25 PM] Andy**: You have 18 months like that and it's like a monster. You can see that hurt too.
+- **[8:04:53 PM] Andrea**: Kevin
+- **[8:05:16 PM] Andy**: 11-18 Three throws.
+- **[8:05:32 PM] Andy**: 14.
+- **[8:05:48 PM] Andy**: Travel.
+- **[8:06:03 PM] Andrea**: Oh wow.
+- **[8:07:22 PM] Andrea**: I'm looking forward to seeing these green to golden they're not forks again and they're forks. Just be heading forward.
+- **[8:07:29 PM] Andy**: Go forward. Get on the other floor. Jump ball.
+- **[8:07:33 PM] Andrea**: Rinse the groove. Have the security.
+- **[8:07:41 PM] Andy**: Ready.
+- **[8:07:42 PM] Andrea**: For Wilson's free. To the nail. 19-12.
+- **[8:07:52 PM] Andy**: They blew it they had a
+- **[8:08:49 PM] Andrea**: You know what you have to do? You've got to go like you're doing that. A bear we can't hear it all of you. Give those important ten years. Your voice. You want to feel that? Yeah that's that playoff feeling.
+- **[8:09:03 PM] Andy**: It's two of yours.
+- **[8:09:05 PM] Andrea**: Be the sweat.
+- **[8:09:07 PM] Andy**: Wait this moment for me. Not even.
+- **[8:09:11 PM] Andrea**: She knows what I'm going on. And fire and love. Heartbreak. Heart attack. We're just warming up They're going to be chaos pressure ice and heat because this is the playoff thing we've got to do really.
+- **[8:09:31 PM] Andy**: What's the next game?
+- **[8:09:55 PM] Andrea**: you guys know we're talking about H.P South driving network right?
+- **[8:10:08 PM] Andy**: Yeah of course. South driving network.
+- **[8:10:11 PM] Andrea**: Oh Lord.
+- **[8:10:12 PM] Andy**: I'm trying to tell you.
+- **[8:10:13 PM] Andrea**: When you're facing Minnesota prostate cancer.
+- **[8:10:17 PM] Andy**: If you have PSMA-positive metastatic prostate cancer ask your doctor about provictive. It's now FDA-approved it's not a static diagnosis and can be used with home-loan therapy
+- **[8:10:30 PM] Andrea**: for men who are home-loan sensitive.
+- **[8:10:32 PM] Andy**: Provictive is not chemotherapy.
+- **[8:10:33 PM] Andrea**: It's a different treatment that targets PSMA-positive cells for more victories that look like this.
+- **[8:10:39 PM] Andy**: Provictive involves complex radioactivity which may increase the risk of cancer and caused
+- **[8:10:45 PM] Andrea**: very funny influence during an often used contraception during a 14 weeks after and talk to your doctor about ways to reduce the risk of exposing others to radiation during an hour.
+- **[8:10:54 PM] Andy**: So they can make our severe and life-threatening low levels of blood sub counts severe kidney problems saving fertility.
+- **[8:11:00 PM] Andrea**: So your doctor if you have weakness health and shortness of breath bleeding or bruising,
+- **[8:11:04 PM] Andy**: other side effects include laboratory of the mountains tiredness strength of the mountains.
+- **[8:11:11 PM] Andrea**: Ask about the victim because every day without cancer progression.
+- **[8:11:34 PM] Andrea**: I'm not sure where she is but where she is that's the only thing I see on this set that you're keeping your attention on your child. What is your name? The most interesting thing from her is she understands what is a state like a form of a state and the lost state of Asia.
+- **[8:12:02 PM] Andrea**: You understand what that states. You understand what the phone keeps calling out.
+- **[8:12:06 PM] Andy**: I wanted to put it in my doctorate. It was a 78-year-old boy. It was a mid-sized highlight. But she was really just reaching to the seat. I was prepared to have the seat. You were to play off the seat. It was so great for her. I was also interested. She's not very much to get to the seat.
+- **[8:12:20 PM] Andy**: She went to coming out. I didn't need the phone. She said provide for that seat.
+- **[8:12:50 PM] Andy**: There was
+- **[8:12:54 PM] Andrea**: I don't want to sell the sheltered land but I'm glad it's cheaper to make sure that you're on the beach trying to keep the lot bigger taste with it.
+- **[8:13:03 PM] Andy**: But when we talk about you we're trying to get back in back while being together. Go kids win!
+- **[8:13:24 PM] Andrea**: if you saw it but if that's really bad.
+- **[8:14:23 PM] Andrea**: every time she goes for that we don't smash her we're going to hide her in the back of the house of that.
+- **[8:14:31 PM] Andy**: They have everything that she has to have. And at the moment she wants us to block that. And she wants us to have everything that she has to have.
+- **[8:14:51 PM] Andy**: Yeah you just missed it girl.
+- **[8:15:21 PM] Andy**: play.
+- **[8:15:22 PM] Andrea**: Gray.
+- **[8:15:23 PM] Andy**: Secures it.
+- **[8:15:24 PM] Andrea**: We'll get active for it.
+- **[8:15:25 PM] Andy**: Missed. Down. Over you.
+- **[8:15:28 PM] Andrea**: Where.
+- **[8:15:49 PM] Andy**: That was the second one the second goal here in Game 2.
+- **[8:15:57 PM] Andrea**: Here's the key Alice. Here's the QW heart.
+- **[8:15:59 PM] Andy**: EQW heart.
+- **[8:16:02 PM] Andrea**: Fight on.
+- **[8:16:04 PM] Andy**: Too slow buddy. Too slow. Oh my god. You're good. Not at all.
+- **[8:16:12 PM] Andrea**: Y'all feel it? That's that playoff feeling. It's here to do it. We're just warming up They're going to be chaos pressure height and heat because this is going to be a fail and we've got it through the rain.
+- **[8:16:43 PM] Andy**: It all started with a sweater in 2001. Cashmere. And many cars. Celebrating 25 years of craft. Peter Wolf.
+- **[8:16:58 PM] Andrea**: Don't waste hours deciding what to watch. You are for nothing. It's getting too little TV. We've got more than famous than anywhere else. All for free. Good. I need the money Watch the way you want to watch him Get it.
+- **[8:17:15 PM] Andy**: Jerry I was playing live before I bring it all from the start. We have super girl to watch too you know or something will be.
+- **[8:17:26 PM] Andy**: Oh you're not interested in girls. I'm married to you. It's cool and grateful about that. Hey did I really see that?
+- **[8:17:45 PM] Andrea**: Some people might be flying. A lot has changed since we started selling a plane for 45 years ago.
+- **[8:17:54 PM] Andrea**: Today we have C-1 collection of inside a plane that's ready for next day delivery.
+- **[8:17:59 PM] Andy**: So whether you were free or you're late or you're walking, or you're left low or finally time for that ignition.
+- **[8:18:10 PM] Andy**: How long is it going? It's my story.
+- **[8:18:30 PM] Andy**: The age of open is step up to three per line.
+- **[8:18:34 PM] Andrea**: An opportunity for a three point play after that last bucket. out by Kyle Charles. The eighties is right now at 63 points number in day one. They finish the game with 60-SG for low and output all season, low and output in the playoffs in 2021. They've already surpassed us. Yeah and the whole of the day is new. They've done my solid job anytime, the vouchers have tried to open up the season and they played up all season for the four.
+- **[8:19:04 PM] Andy**: But it's not going down to 20,000 to 10,000.
+- **[8:19:08 PM] Andrea**: and make you look out of the water now playing in securing those two sets of rebound.
+- **[8:19:13 PM] Andy**: 16 points in sending after eight wills and six. Here's Burnt. S wills are trying to get faster to no avail. Burnt nothing. Shuffle up under five. Will you back to put it up? Shuffle up finally. Hey if you're a luck player,
+- **[8:19:36 PM] Andrea**: The vaults that meant the wrong things did not allow them to pass it into the ground. A 6-point game is the foot and it's been a tire accident. It wouldn't matter if the nature was the contact of one of the chunks of the race
+- **[8:19:52 PM] Andy**: or a lot of harm that had been attacked. It wouldn't matter if the vault had been a working chunk of it.
+- **[8:20:03 PM] Andrea**: Fowl before she could even put it on the deck.
+- **[8:20:21 PM] Andrea**: She'll start on deep in.
+- **[8:20:27 PM] Andrea**: Come on on the end bound try to get it to gray. But little Wilson.
+- **[8:20:33 PM] Andy**: Great looking to cope with it. Wait an hour. Great. Thanks for the effort. Keep going.
+- **[8:20:47 PM] Andy**: First at the point guard spot.
+- **[8:20:50 PM] Andrea**: It's a play call in the action.
+- **[8:20:54 PM] Andy**: Good chance.
+- **[8:21:29 PM] Andy**: I'm a little bit patient she's getting too much pain. Oh she's in her head.
+- **[8:21:43 PM] Andrea**: Now I have a 20 piece on the evening. Now I have a 20-piece on the evening.
+- **[8:22:03 PM] Andy**: We have seen the extended D-check by both states. 90 seconds on your left.
+- **[8:22:09 PM] Andrea**: Extra seconds to take to get into your set.
+- **[8:22:11 PM] Andy**: The Monday evening,
+- **[8:22:13 PM] Andrea**: It's just hustles hustling that's all
+- **[8:22:43 PM] Andrea**: to the back get it to take a seven, and I'll be able to finish with this machine. Great directly trapped in on the air.
+- **[8:22:53 PM] Andy**: Go Gaby. Two on the wall. Uh-oh. Burt and Fowl.
+- **[8:23:03 PM] Andy**: Uh-oh. She out How many did they get?
+- **[8:23:07 PM] Andrea**: Same thing as six. Six.
+- **[8:23:23 PM] Andrea**: I just think that's the work on the page. Back of hand and understanding. The importance of meeting Jackie on number four. There's still enough time left. Yeah but I think she's almost falling Yeah it's just like push
+- **[8:24:00 PM] Andy**: Right there
+- **[8:24:07 PM] Andy**: No care pat No She wasn't ahead. It's 5.33 o'clock here in the fourth quarter.
+- **[8:24:29 PM] Andrea**: Think I wait for you?
+- **[8:24:31 PM] Andy**: Have a hard time thinking that we'll be seeing that clear past five. It wasn't. Why does he generally not in the same line he's crying the first he doesn't get in her pathway. He's going to lay in the body and to work the force of power. He's going to lay the balance in the backboard but he doesn't go.
+- **[8:26:01 PM] Andy**: Uh-oh what's going on she's cracking out some cubes
+- **[8:26:31 PM] Andy**: Scott
+- **[8:27:01 PM] Andy**: Oh oh right there.
+- **[8:27:38 PM] Andy**: So it's right there to seven point games. We can get rid of the second one. Thornton yeah and they're similar body styles. That's the main deregulation that this can play. Jackie Young tries to stay with the assignment. Come on girls. She's on Wilbur. You can be round with that guy.
+- **[8:28:18 PM] Andy**: It's getting close.
+- **[8:28:32 PM] Andrea**: Here I have here's the big one.
+- **[8:28:34 PM] Andy**: Here's the big one.
+- **[8:28:38 PM] Andrea**: Now allow me to work and fight for it,
+- **[8:28:56 PM] Andrea**: Now allow me to work and fight for it,
+- **[8:28:58 PM] Andy**: and take this back and fall. Here's the big one.
+- **[8:30:31 PM] Andy**: Who me?
+- **[8:30:37 PM] Andy**: Great it's good to see you baby. Which yeah a lot of you so
+- **[8:30:41 PM] Andrea**: But that's right there. That's the belief. Because we believe in touchdown celebration. And definitely Christian we can't because of our celebration. And we believe Karen we'll people with smart solutions is just more reward. Because it feels better when everything and everyone works together.
+- **[8:31:02 PM] Andy**: That's the power of love.
+- **[8:31:04 PM] Andrea**: Yeah you probably know these TV moves.
+- **[8:31:08 PM] Andy**: Touch that but guess what?
+- **[8:31:10 PM] Andrea**: There's another TV. Totted disinnesia. It causes uncontrollable movements. Constant blinking. Mountain town movements. Totted disinnesia is caused by certain prescription mental health medications. It's true.
+- **[8:31:26 PM] Andy**: So talk to your doctor and give him medication so you can stop your medication. Oh I know. I know. But if you're not fine your health needs change. You need to charge for MSG for the long term. The weariness of today and tomorrow. The weariness is a help for you not to force the muscle flow, but the weariness is proven to reduce the atmosphere. One of these questions and do you think in long term? Don't take it you are allergic to the marine.
+- **[8:31:58 PM] Andrea**: I might help you marine.
+- **[8:31:59 PM] Andy**: Or do you think you can do this?
+- **[8:32:01 PM] Andrea**: The marine may cause allergic reactions to blood? One of the biggest amounts and difficult to breathe in.
+- **[8:32:07 PM] Andy**: Other stereocytes may increase the amount. A rare brain infection that usually leads to death
+- **[8:32:12 PM] Andrea**: or severe disability.
+- **[8:32:13 PM] Andy**: Oh great! Other injection?
+- **[8:32:15 PM] Andrea**: Decrease white blood flow count and let a problem.
+- **[8:32:18 PM] Andy**: PML. So before and during treatment, They also cost me the chemical intestinal problem. The most common fight back,
+- **[8:32:26 PM] Andrea**: a flushing and stomach problem.
+- **[8:32:28 PM] Andy**: And that is for a change. To the head here I'm going to need a surgery. PML. That's as all it's going to the worst it's going to get. PML.
+- **[8:32:46 PM] Andy**: It says death by PML. That's why I said what? Hi pretty mountain.
+- **[8:32:55 PM] Andrea**: Oh the speed.
+- **[8:32:57 PM] Andy**: Yeah it's a lot lot.
+- **[8:33:00 PM] Andrea**: Um what's the score it's?
+- **[8:33:03 PM] Andy**: Yikes.
+- **[8:33:05 PM] Andrea**: Time out for the floor report. Down by 17 but A's will fit on a mission particularly in the second half. We're 22 coming to third at E-1-4. Too many A-axis of right spot and money off the bench. 21 points above. And the average is used. That's 50 playoffs gap.
+- **[8:33:28 PM] Andy**: This can't be.
+- **[8:33:29 PM] Andrea**: For people present I'm from 23% as inside the game, powered by A-J-S and S-S-C. We're where we're at right now. Now a fine point that's going to be reshraining on the bottom of it and it's going to be all straight and round. It's on the right. Come on ready to change the movement. I'll get three.
+- **[8:33:53 PM] Andy**: It's your rebound. Come on. Good technique.
+- **[8:34:00 PM] Andrea**: She's a pro. All night long you can taste your Great
+- **[8:34:30 PM] Andrea**: We'll get the ball back too.
+- **[8:34:44 PM] Andy**: They do You could hear cops.
+- **[8:35:00 PM] Andy**: Charge sweetie charge she pushed off right there wing. right there.
+- **[8:35:27 PM] Andrea**: Right in the back.
+- **[8:35:46 PM] Andy**: And that's the thing you have picked over you.
+- **[8:36:20 PM] Andy**: What if he was taller wouldn't have been in the neck? It was to me it's just a push off.
+- **[8:36:44 PM] Andrea**: going to call this later
+- **[8:36:55 PM] Andy**: They're going to call us later.
+- **[8:37:13 PM] Andy**: Hope thing.
+- **[8:37:20 PM] Andy**: Okay we'll call it.
+- **[8:37:25 PM] Andrea**: It does not mean the characteristics of that so often the balance begins walking back so 3.25 to go.
+- **[8:37:37 PM] Andy**: Already a different showing in game 2.1. I'm going to make sure this is kind of why I'll take care of that to all of you. Great.
+- **[8:37:54 PM] Andrea**: I hope you're in the line.
+- **[8:37:56 PM] Andy**: Can't be willing to say.
+- **[8:38:01 PM] Andrea**: You've done pretty much as an exception.
+- **[8:38:05 PM] Andy**: I better release it on a plane.
+- **[8:38:09 PM] Andrea**: Cool. We've got a big shot. Let me see.
+- **[8:38:27 PM] Andrea**: Oops.
+- **[8:38:36 PM] Andy**: Oops.
+- **[8:39:39 PM] Andy**: What Oh my gosh That's worse than this game.
+- **[8:40:35 PM] Andy**: Collective like Russian nowhere
+- **[8:41:05 PM] Andrea**: The last thing we've done is big shots by Dana Evans. Chelsea Bray and Susanna are three and here we are.
+- **[8:41:14 PM] Andy**: In the background all you say is trying to take up two all of you. Characters Williams. To charge in the cage no.
+- **[8:41:25 PM] Andrea**: Bray. The character's a basketball.
+- **[8:41:29 PM] Andy**: He's got a bunch of all of babies.
+- **[8:41:30 PM] Andrea**: This is how they block me down.
+- **[8:42:02 PM] Andy**: It was pretty impressive.
+- **[8:42:11 PM] Andrea**: Come right back.
+- **[8:42:58 PM] Andrea**: Brown in no rush
+- **[8:43:47 PM] Andy**: And what the job on the South Sea is to keep the flight? That was clutch. So great. Right this way we're in the moment. And I will be off to the North Sea.
+- **[8:44:01 PM] Andrea**: I know I keep talking about the experience of the long-day devices but I have to get forward and take some credit. They went to OG and they didn't even got one without it. That gave me a shout in this building. I guess the way I came down came to life.
+- **[8:44:19 PM] Andy**: They have been in football for years and years.
+- **[8:44:25 PM] Andrea**: But when you go back to this game, you would walk the final three of the last four here and make a downplay maker to fall to the board.
+- **[8:44:34 PM] Andy**: There's a massive ocean there's a sea of green there's a situation that you go fast and make the workforce super fast.
+- **[8:44:48 PM] Andrea**: There's a sea of green there's a situation super fast.
+- **[8:45:02 PM] Andy**: no jump ball that's not right
+- **[8:46:02 PM] Andy**: You're not going to need to try to get the back of all backwards and jump ball you're going to be able to stay in good end with possession.
+- **[8:46:14 PM] Andrea**: I'm going to put it in 5.2. Left in this game. We're going to be jumping and jumping.
+- **[8:46:32 PM] Andy**: Another one.
+- **[8:46:40 PM] Andrea**: Oh she grabbed it They call her time out I guess.
+- **[8:47:10 PM] Andrea**: The referee is saying time out.
+- **[8:47:19 PM] Andy**: So they have the ball. You can pull that button.
+- **[8:47:27 PM] Andrea**: Your leg has a reset left. It does not allow you to pull. puzzle. 3.7 and 11-15 up blue.
+- **[8:47:39 PM] Andy**: oon.
+- **[8:48:37 PM] Andy**: yeah well the playoffs are different than everything else so as I'm Good.
+- **[8:49:14 PM] Andy**: They had a foul the guild
+- **[8:49:16 PM] Andrea**: That's good because I think it's good to play by seven hours to get the block in the first place. He pointed off at the possession. Definitely thousand out of here.
+- **[8:49:30 PM] Andy**: Oh shoot. Oh shoot
+- **[8:51:10 PM] Andy**: to the best free throw shooter right?
+- **[8:51:40 PM] Andy**: there was a big one This is a big one.
+- **[8:52:41 PM] Andy**: Here's a situation that you're looking at quite the same.
+- **[8:52:44 PM] Andrea**: You imagine they would go for a 40-point shot. It's not so. You have just about time.
+- **[8:52:49 PM] Andy**: You can run it and go for a push and send the game.
+- **[8:52:52 PM] Andrea**: But over you imagine a 3-point shot. Now you have multiple 3-point shots. You're about to score a data evidence.
+- **[8:52:57 PM] Andy**: The fourth insert is in the year. That's exactly how the angel woke up to 2-3. All five players have that position. But all for this suggestion you imagine we'll put them all in Chelsea break hands. and a lot of them on the screen come there and a lot of things need to be done for the championship in the world. You can picture that one that you both add to exactly how it will come back to you,
+- **[8:53:25 PM] Andrea**: because it's got lots of lights in it and you're going to break me up, that you can make yourself in the event of it. You're going to be able to take it all through that. I say it plays a team all the time.
+- **[8:53:34 PM] Andy**: I feel like the loose is going to come out of the chase.
+- **[8:54:02 PM] Andy**: Earlier.
+- **[8:54:29 PM] Andy**: Yeah no time out So I gotta do it right in.
+- **[8:54:59 PM] Andy**: Bert Maghan.
+- **[8:55:30 PM] Andy**: Damn Just squeezing these last seconds of the game aren't they? This is the free to they can use the end of the games are just free throws
+- **[8:55:59 PM] Andy**: You have been packing the bathroom all day long.
+- **[8:56:06 PM] Andrea**: So once you've been able to find this white sugar by the floor here for a long take, it's a lot of fun. It's just a ball with a hand-picked gap beyond.
+- **[8:56:16 PM] Andy**: And you want it to, it won't take valley,
+- **[8:56:18 PM] Andrea**: it gets in your head, and you crush it, and you do it instead.
+- **[8:56:21 PM] Andy**: So fell asleep.
+- **[8:56:24 PM] Andrea**: It's point four. Raised If you want to go on a show and watch
+- **[8:56:46 PM] Andy**: It's too very haff
+- **[8:56:58 PM] Andy**: come on,
+- **[8:57:13 PM] Andrea**: I think it's important that we have to pay.
+- **[8:57:19 PM] Andy**: We have to pay the money.
+- **[8:58:27 PM] Andy**: She wouldn't talk to our window like that. She has to you. Do you? Do you remember she's stuck into the stream? Are you going to watch the end of the game or what do you want to do? Okay I mean right at the last two seconds of the game uh
+- **[8:58:52 PM] Andy**: Who is good looking at me and think what are we doing I'm like okay
+- **[8:59:05 PM] Andy**: I left on the clock a lot of communication with the agency. She made one for me this year.
+- **[8:59:17 PM] Andy**: Oh get it! Yes!
+- **[8:59:21 PM] Andrea**: Woo-hoo!
+- **[8:59:35 PM] Andrea**: three five seven eight two six, and it's 25 years. Yes Forbes played in Cambridge.
+- **[8:59:46 PM] Andy**: Look at her she looks pissed.
+- **[8:59:48 PM] Andrea**: Yes. What do you want to say to yourself in
+- **[8:59:52 PM] Andy**: the position that you're struck that it is the whole thing? Jesus Christ is able to lay it down through and today, to hold propose confidence, and we will fight against the end.
+- **[9:00:28 PM] Andy**: Oh listen to you It's preseason sweetie I can't we can never lose That's We should never lose That is horrible It's not the American way.
+- **[9:01:06 PM] Andy**: Yep priors in there 18.
+- **[9:02:28 PM] Andy**: That's the point.
+- **[9:02:55 PM] Andy**: Hmm try it. Oh ow.
+- **[9:03:01 PM] Andrea**: The weird thing is there's a leg.
+- **[9:03:05 PM] Andy**: Okay I'm going to have to go out.
+- **[9:03:09 PM] Andrea**: I don't have a fun time. No laugh at himself.
+- **[9:03:46 PM] Andrea**: six threes Yep I would not be shot to see Chris Young blood having a game of
+- **[9:04:01 PM] Andrea**: It wasn't the kind of thing that showed career.
+- **[9:04:33 PM] Andrea**: And that's how I get what?
+- **[9:04:39 PM] Andy**: This is boring I don't like this.
+- **[9:05:15 PM] Andrea**: that's what you did up. What did you did up better?
+- **[9:05:22 PM] Andy**: Just a bit. I'm not going to step into trouble. I'm going to step into trouble.
+- **[9:06:00 PM] Andrea**: So we start with seeing this young group
+- **[9:06:01 PM] Andy**: have some fun stringing to be able to show.
+- **[9:06:24 PM] Andrea**: These are the steps in the lift here on MDA TV for the Association's post-game.
+- **[9:06:46 PM] Andy**: Rudy! Ha ha.
+- **[9:06:54 PM] Andy**: He was good.
+- **[9:07:03 PM] Andy**: There's a little brain.
+- **[9:07:18 PM] Andy**: Thompson's with the Pistons now too so they got rid of that Houston team also kind of got broken up a little bit KD's there the cellies.
+- **[9:07:55 PM] Andy**: I'm going to kill him now.
+- **[9:08:02 PM] Andrea**: She didn't have any left to fly.
+- **[9:08:12 PM] Andy**: I would look like I was going to be a guy with some wonderful guys!
+- **[9:08:24 PM] Andy**: Doris Burke.
+- **[9:08:42 PM] Andy**: You get to see the Portland broadcast people. It's not nice. You see none of it. We like her people.
+- **[9:08:54 PM] Andrea**: All over the place coming up for everybody to stay. You see through being alone. So I'm not you see. She's been really going to see her open. Really going to camp as far as just being the best person of themselves.
+- **[9:10:14 PM] Andy**: Some people you know what I mean so that they bring them with them. I mean if you've been working with somebody for 20 years and you know you go from team to team you know you bring them with you.
+- **[9:10:39 PM] Andrea**: But there's a lot of questions that gotta be ahead of the law for what he's doing.
+- **[9:10:53 PM] Andy**: I think it'd be worse if they had Okay see San Antonio you know you yeah you pick all the
+- **[9:12:06 PM] Andy**: What's this guy Terry's?
+- **[9:12:15 PM] Andrea**: Warriors have played well. I mean they're so short handed. Their stars aren't here.
+- **[9:12:26 PM] Andrea**: Which a lot of times is easier for younger players or guys
+- **[9:12:38 PM] Andrea**: I feel like they've done a little bit more than that.
+- **[9:12:40 PM] Andy**: Dave and Terry exhibit 10.
+- **[9:13:05 PM] Andrea**: How's it looking around comes it on for so hot Back in her name How's it It's rapid Go
+- **[9:13:17 PM] Andrea**: In the corner for an open Kelly for free that's off the mark. Now I head to so hot talk stand. The Blazers never wanted to play the game.
+- **[9:14:03 PM] Andy**: That was Kelly 22 points tonight.
+- **[9:15:28 PM] Andy**: Where are you going?
+- **[9:16:34 PM] Andrea**: So I'm the one with Sacramento started trying to pass retirement savings five bills $5,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000
+- **[9:17:58 PM] Andy**: So I'm going to rate with the mix last year after
+- **[9:18:01 PM] Andrea**: Coming over to the sand going home. Tomorrow I'm going out with a head of ring either way. I have a license. Yes.
+- **[9:18:14 PM] Andrea**: The water is aligned that you've heard the ambulance.
+- **[9:18:23 PM] Andrea**: I have a kid who you have that's here. He's so hot.
+- **[9:18:33 PM] Andrea**: My parents would never have let that out. It's getting a giant lawn. Yeah in college. Not a good place. What did you you thought you was in secret? You thought you was back to your boyfriend? Oh you thought you was my friend?
+- **[9:18:55 PM] Andrea**: Oh you were in a band.
+- **[9:19:30 PM] Andrea**: That's the musician that's the one he's done his entire life so I've been around it. So maybe if I ask both of them they say that it's done the color here then. Well that's what I think of being a big player,
+- **[9:19:58 PM] Andrea**: He had a lot of the guys It's been a lot of time.
+- **[9:20:01 PM] Andy**: We had John Thompson players shooting coach.
+- **[9:20:04 PM] Andrea**: A shooting guru known around the league.
+- **[9:20:07 PM] Andy**: Who have you known It's been a lot of time.
+- **[9:20:09 PM] Andrea**: And Jeremy Grant has helped Jeremy transform his stuff.
+- **[9:20:12 PM] Andy**: Not only with the presented but also with Danny Katzai.
+- **[9:20:21 PM] Andrea**: Bill and Fussi Young players got a long runway.
+- **[9:20:51 PM] Andrea**: But there are a lot of numbers available in there as well. I don't see that.
+- **[9:21:10 PM] Andrea**: It was also going to find us hot.
+- **[9:21:16 PM] Andrea**: It wasn't like this.
+- **[9:21:17 PM] Andy**: Once got that long like around then,
+- **[9:21:19 PM] Andrea**: around them A lot of guys wanted to look like having them so they didn't want to
+- **[9:21:30 PM] Andrea**: Well at the point blazing is leaking. That's how it's going to be.
+- **[9:21:41 PM] Andrea**: Open color green. Now we'll be out of the touch.
+- **[9:21:53 PM] Andrea**: Haven't talked much about Jonathan. Still technically a rookie played six games last year in Boston. The Blazers are going to challenge us. They are going to challenge us.
+- **[9:23:00 PM] Andrea**: if you're going to be able to do that.
+- **[9:23:26 PM] Andrea**: name and that's Sacramento on Tuesday and I'll finish up with these same golden state warriors a week from Friday where the regular season gets underway on October 21st.
+- **[9:23:48 PM] Andrea**: State I think Golden State won that game late that we did the game but it was the best
+- **[9:24:08 PM] Andrea**: And it's been a struggle for the whole lead, but the blazers have really struggled with accurate view, crossmen to the blaze.
+- **[9:24:14 PM] Andy**: For the first place number two push,
+- **[9:24:17 PM] Andrea**: to deep into the blaze cross the ball, what I'm about to do. Run up for elephants overturns to the end.
+- **[9:24:22 PM] Andy**: Yeah but they're saying it's more important than any with the rest game is going on
+
+---
+
+## 🎙️ Session 2: 2026-10-07 14:00:44 (5h00m)
+- **Source File**: `2026-10-07 14_00_44.mp3`
+- **Audio ID**: `of_ffb926be1bc603cdce32d3908a718aab`
+
+- **[00:00 - End] (Speaker / Group)**: (Audio captured; quiet ambient background / no distinct dialogue detected)
+
+---
+
+## 🎙️ Session 3: 2026-10-07 09:00:43 (5h00m)
+- **Source File**: `2026-10-07 09_00_43.mp3`
+- **Audio ID**: `of_ca0fd86013dba4e6ac9b4ecf024a4b61`
+
+- **[00:00 - End] (Speaker / Group)**: - **[9:02:48 AM] Andrea**: Okay okay so far I'm up just before 9 o'clock in the morning on 10-7 and starting
+- **[9:03:14 AM] Andy**: recordings right around 9 o'clock 901 902 Interesting I got a butt dial from Melissa Phillips who is Andrea's auntie and she accidentally called me again just a second ago and hung up so I'm sure it was another error I hope she's okay and in In the meantime I am still waking up.
+- **[9:10:08 AM] Andy**: Oh well.
+- **[9:21:30 AM] Andy**: all right so right off the bat I'm buying some songs I never I was watching we were watching lanterns my Andrea likes lanterns so we're watching it and there
+- **[9:22:37 AM] Andy**: over and over until he gets into a fist fight with somebody and then on purpose so he could a jail to talk to somebody Very funny Okay.
+- **[9:40:32 AM] Andy**: and I have to keep moving now so I see if I want to move in the night man I wasn't I was asleep.
+- **[9:40:59 AM] Andy**: Is that true or not?
+- **[9:41:00 AM] Andrea**: Oh well.
+- **[9:41:23 AM] Andy**: Does Google Health report my amount of sleep?
+- **[9:46:37 AM] Andy**: I'm watching the dietic dance and they're so cute.
+- **[9:47:24 AM] Andrea**: Okay two tapes.
+- **[9:51:55 AM] Andrea**: I'm going to run this time.
+- **[9:52:30 AM] Andrea**: I'm recognized.
+- **[9:53:06 AM] Andy**: by side with the linear recording I see in the report on 261006 there's an unrecognized speaker and I'm trying to find where that unrecognized speaker is.
+- **[9:54:22 AM] Andy**: me to be able to check out that unrecognized frequent speaker the recording is not on and the rest for me to be able to review.
+- **[9:55:45 AM] Andy**: I would say even less maybe two weeks is all we need in the Voice and Speakers Studio the last two weeks.
+- **[9:58:03 AM] Andy**: I am skipping meditation and my normal things so I need to go and watch my pinky. a pinkie I'm waking up very slowly and late It's almost 10 o'clock and I haven't done Jack I'm just taking me to bed Oh sorry but I just put my pants on too and I just I haven't even had my medicine yet I'm about to well Rumpel still skinned or whatever his name was. He I've been using his screws not to have been using his screws. look a bug crane so let's see what I'm doing yeah you're here yeah I hope so although I'm wearing this t-shirt that's too tight for me you probably need to change it again Anyway to hold it in my way it's holding it steady to 34 without doing too much effort So yeah I'm waiting for them
+- **[9:59:45 AM] Andy**: to tell me And your Aunt Melissa but my dog me in the middle of the night and then I got another so I called her and she seemed a little rushed anyway and then it was okay very short conversation and then she called me again but hung up so yeah anyway. Ideosed.
+- **[10:00:24 AM] Andy**: Second shirt change.
+- **[10:01:34 AM] Andy**: I'm going to Jちょ.
+- **[10:03:26 AM] Andrea**: So I'm sitting on my meditation box where I'm intending to use it for the The initiation of the tree at the end of the microphone.
+- **[10:08:12 AM] Andrea**: It's the end.
+- **[10:14:32 AM] Andy**: So I have to admit something here. When I give instructions to meditate usually I can't follow them because my body takes a long time to settle down usually I've got a lot of tension some kind of pain discomfort.
+- **[10:15:01 AM] Andrea**: My neck my sitting bones are
+- **[10:18:16 AM] Andy**: touch and notice that it brings my posture up more erect naturally When I was taught originally Some teacher don't forget I forget where were they. You watch the amount of tension between the thumbs. They can lightly touch and relax but it's another way to engage the tension that you're holding in the body This last sections in here where I've been talking into my journal on meditation practice from the start of the meditation to the completion And if I continue to talk I'm thinking about mine from this to the body.
+- **[10:37:47 AM] Andrea**: It will go turn on the office light.
+- **[10:52:42 AM] Andy**: Hey Google turn the office light off.
+- **[10:53:05 AM] Andrea**: ain't anything about it!
+- **[10:55:54 AM] Andrea**: Rest肩.
+- **[10:56:52 AM] Andy**: 10 megabytes And I would like to the scan does not do justice to the pictures So if I recreate this book what would be the steps that I would need to take?
+- **[11:05:03 AM] Andy**: Air
+- **[11:18:36 AM] Andy**: here.
+- **[11:24:20 AM] Andy**: photos can you correct the minor differences in the shapes so that things are more square? There are only a couple of photos that are like that for instance there's one where there's a square with some dots showing the four directions that could be arranged and also the snoopy comic can be fixed a little bit.
+- **[11:33:58 AM] Andy**: some of these might be duplicates already. Please check this file and add them to the album or see if we can add them to the albums
+- **[11:34:08 AM] Andrea**: that we already have.
+- **[11:36:34 AM] Andy**: Uh-oh.
+- **[11:39:30 AM] Andy**: Okay so we'll turn off the office light.
+- **[11:45:09 AM] Andy**: There is a sneak peak IMAX of Godzilla Friday the 9th through the 14th. Wanna go? I'm going to go and check in with the boys and see if they were interested also.
+- **[11:50:53 AM] Andy**: quest book and I will have it both as a PDF and an ebook soon I'll share it with you shortly.
+- **[11:58:10 AM] Andy**: speakers are and I'm doing okay. The only issue I'm having is that when I click on a clip the audio is not playing. just scrolls to match them but I can't play any of the audio to verify.
+- **[12:04:29 PM] Andy**: This is just taking a little time. haaaa
+- **[12:05:09 PM] Andy**: Invis
+- **[12:08:09 PM] Andy**: I'm going to have to go to the other side to see if I'm going to be able to get out of here.
+- **[12:13:31 PM] Andy**: I'm going to go to the bathroom.
+- **[12:21:39 PM] Andrea**: Okay so I'm going through this page for page 2. page.
+- **[12:23:24 PM] Andy**: There is some text at the very bottom of the page entitled What is a Vision Quest before Tony RoboShod's phone number that says an Echo Spiritual Program devoted to Vision Quest that is missing.
+- **[12:25:19 PM] Andy**: Page 1 of the PDF which says the purpose of this book does match the physical book.
+- **[12:26:41 PM] Andy**: Is there a way to eliminate that and also the image goes above after an American Indian prayer and before the wording starting with all great spirit?
+- **[12:27:40 PM] Andy**: of text and I'm not sure if it matches what is in the book because I'm looking radically us transformations thoroughly unprepared Yeah it seems like it's cut off after become a lie so only part of the quote is there in the bottom of that is not included. On page 5 there is a missing spacer with some characters between the paragraph ending rituals and the paragraphs starting in spite of the number. After all I'm noticing many of the pages the fonts are a little bit smaller than what is in the book. So it's not filling the page the same way that the scan did. I'm also seeing that the text margins are slightly justified smaller so that all the borders are squeezed more towards the left with a lot of space on the right.
+- **[12:31:01 PM] Andy**: Maybe they're in the wrong order.
+- **[12:31:22 PM] Andy**: Page 10 should have the graphic after the word separation and the quote in the lower right corner the image used is the wrong image. It doesn't show the cropped image without the quote that's in the bottom right. The image is actually flipped that was used. So this is the wrong image used here.
+- **[12:32:37 PM] Andy**: what was used in the book.
+- **[12:33:07 PM] Andy**: And many of the pages there is like a section title that is not spaced before the text that those.
+- **[12:33:52 PM] Andy**: Page 18 looks very close. I'm noticing that some of the header notation from the MD is transferring over to the PDF. And that should just show that it's a larger font or whatever it's like a heading. But the MD you know astroses should not be shown. This may be repeated elsewhere.
+- **[12:35:55 PM] Andy**: to the header. page 22 the quote should stand out so the spacing is not accurate on that.
+- **[12:36:50 PM] Andy**: Page 25 is missing the Snoopy cartoon after the word will recognize it instantly.
+- **[12:37:47 PM] Andy**: any graphics on it.
+- **[12:38:47 PM] Andy**: the graphic that should come right after re-incorporation emergency day and before re-incorporation mirroring circles.
+- **[12:39:34 PM] Andy**: the to fill the pages better the on page 34 the square showing the vision quest circle could be a little smaller. The page after page 36 which should have appendix A wilderness ethnic statement agreed upon by the wilderness council's guide that should be the only thing beyond that first There's also some extraneous word environment that doesn't make sense.
+- **[12:41:38 PM] Andy**: one and two which are kind of cut off and then it starts with point three and it looks like it's okay except on that page there is no number 8. same issue comes up with the appendix pb page where on that one page that should be naked ponies by Jay Allen Boone and Kenchip with all life and then the rest of that page blank and then where it comes in with naked ponies by that person with the full text that would be the next page and I do not see the page numbered from and the scan But it is listed here as page 44.
+- **[12:43:21 PM] Andy**: say when I was with a boy a few pictures interested me and it should be ending with watching him ride was an experience to be grateful for. The following page should start with until I reach the point and it should end with his hands in that position he slowly. And then the following page should start with made a complete circle with them and it should end with the final text is the big holy The same issue with Appendix C occurs where there is an introductory page that says Appendix C The Fire Prayer by Minnie Robeshad Mother of Little Rider And then there is a the next page is where the the prayer starts with the fire prayer by Minnie, Robeshad Mother of Little Rider and then goes through all great spirit and ends
+- **[12:44:40 PM] Andy**: with I give this prayer out of pure love. A Bindix D goes with the same issue where the title page should say a Pindix D followed by Books Recommended for Vision Quest but then it's blank it looks like there's an error here but we want to keep it as it is because the following page starts with haunt a yo and seated in the circle which and then ends with I will simply start over and that page with Han to Yo should have the image of the spiral circle with kind of a checker board for directions in the center of it and the lower right corner should be a lizard image. is called page 53 which starts with evoking the name of great spirit That is missing the graphics on the top left and the bottom right which is the lizard on the bottom right.
+- **[12:46:22 PM] Andy**: And it should have the title Wankantanka and then the text So Wankantanka is missing just before we evoke your name great spirit.
+- **[12:46:53 PM] Andy**: The page with the prayers to the four directions is missing the graphic on the top left and the lizard on the bottom right.
+- **[12:47:46 PM] Andy**: may be purchased through your local bookstore or by contacting loss-borted press that first before loss-border's press is missing.
+- **[12:48:10 PM] Andy**: Also on these last two pages that shows the books the titles themselves seven arrows earth prayers, Echo psychology the soil unearthed, coyote medicine the way of counsel et cetera, all those should be underlined.
+- **[12:49:52 PM] Andrea**: Don't worry.
+- **[12:50:22 PM] Andy**: Great this means that these audio files that have been converted can also be used for for our archive correct?
+- **[12:53:12 PM] Andy**: So we need to update my diorization file so this could be corrected.
+- **[1:13:34 PM] Andrea**: There is still something wrong with page 6.
+- **[1:13:50 PM] Andy**: The first and second paragraphs look right. the second paragraph should start with count the council circle and and do it around the circle The third paragraph should be usually a sacred object is passed and end with and pass the stick The next paragraph which is the fourth one is when we sit in Council many things and it should end in from the Council experience. And then the next paragraph should start with the following stories and excerpt from the Way of Council by Jackson Merman and Virginia Coil. And that starts the text underneath that I think his name was Joe ending the first paragraph with his education in old ways The next paragraph was shortly after Joe's return and ends with to join the circle as a witness So that's the short excerpt that ends page 6 and I think
+- **[1:15:05 PM] Andy**: it slightly indented so it's a smaller.
+- **[1:15:35 PM] Andy**: Pages 8 and 9 are still completely missing. Page 8 ends the story previously which starts with I didn't hear any debate and ends with nothing short of miraculous. H9 starts with the heading the medicine walk and then text that says the medicine walk comma a day's journey and ends with 1 2 3 4 5 6 paragraphs ending and preparation are likely to be. page 11 is missing a lot of text it looks like it starts at okay there's the quote and then when you load your pack and climb but there are 1 2 3 4 5 6 7 8 paragraphs total on the page that ends with the paragraph that starts as you begin preparation for the journey and ends with transformative process of severance.
+- **[1:18:11 PM] Andy**: incomplete where it's talking about the equipment list So the first three paragraphs it looks like there's only two shown So the first paragraph is the earliest inhabitants That one is missing The second paragraph starts with as you walk to your rendezvous and the third paragraph starts in assembling your gear That doesn't match anything at all that I'm seeing on the page And then in the equipment list section there is a central equipment list that starts with journal and pen and ends with moleskin for blisters And then there is a section called warm weather in quotations essential sunscreen and large brim hat And then under that there's optional equipment starting with sketchbook and ending with Poison Oak Medicine okay page 12 has a lot of items
+- **[1:19:34 PM] Andy**: missing In fact there are three paragraphs that don't look right They come after equipment. The earliest inhabitants is the first paragraph As you walk to your rendezvous is the second paragraph and in assembling your gears the third paragraph I don't see those at all. And then the essential equipment list is in three sections Essential equipment list, which starts with journal and pen and ends with mole skin for blisters. Then there's a section called warm weather and quotations is essential. And this should be sunscreen and a large brim hat. Then after that there's optional equipment which starts with a sketchbook and ends with poison oak medicine.
+- **[1:20:43 PM] Andy**: There is no header which says equipment and then it just says for those a custom should be the first paragraph. The second paragraph actually should start with headers and the header is journal and pin with two paragraphs then backpack with a paragraph then with water jugs with a paragraph then sleeping bag with a paragraph and then tarpaulin T-A-R-P-A-U-L-I-N with paragraph all on page 13 It looks like page 14 continues this issue and it looks just like the headings might be what's missing but there all should be a a heading number two I guess which says equipment which is underlying first. On page 15 there are two headings that are missing heat exhaustion and sunburn.
+- **[1:22:19 PM] Andy**: There should be three paragraphs that are under-risk associated with climate that start with the wilderness is not a dangerous place the second paragraph is four areas of risk R and the third paragraph shows our father son is our source of heat and light. Then there are two sections underneath that that one should be entitled heat exhaustion with a paragraph that says heat exhaustion and ending with take a sponge bath Then underneath that there is a heading for sunburn and then used sunscreen as a paragraph that It ends with along with the burn. So many errors here. age 16 looks like it doesn't have the paragraph headings either. Page 17 doesn't match at all either.
+- **[1:23:55 PM] Andy**: So it's under risk associated with animals and plants. That should start with a paragraph that says the Native Americans honored and end with carry a walking stick wherever you go. Then there should be a heading for large animals and a paragraph that says there are no large dangerous animals except for bears in the mountains which ends with will not harm there should be a heading for small animals and a paragraph there and then after that there should be a heading for snakes and then a couple of paragraphs following that The only snake that can harm you is the rattlesnake is paragraph one and paragraph two should say people get sick from snake bite. age 18 has none of the paragraph headers that belong in front of it and there is a section
+- **[1:25:13 PM] Andy**: for scorpions bee wasps and others tarantulas poison oak berries etc. The paragraph headers are also missing on page 19 and there should be two slips and falls and getting lost. And it looks like the paragraphs don't match this page either because the first words under risk associated with the terrain should see wilderness terrain can't be deceptive. And the last line underneath getting lost the paragraph would say orienting yourself to the universe.
+- **[1:26:54 PM] Andy**: It should be have something to do with emergencies so attitude so that it should be attitudes on this page and it should list emergencies and field hygiene underneath and under emergencies there are six things that are listed so that all the paragraphs are wrong on this page page 2. 23 looks like it's incorrect It should it does list rituals but the first paragraph should say we offer you these rituals as building blocks and then there should be a at the end of that paragraph that ends it seems meaningful fall to you There should be a header finding your place with one two three paragraphs ending in spot and then there should be another header for the stone pile where it starts with we require everyone to use the buddy system and ending with two paragraphs
+- **[1:28:25 PM] Andy**: with that the last paragraph saying, loving is part of your quest.
+- **[1:28:44 PM] Andy**: 24 is completely also wrong. There is a header called Rituals and then underneath that, there is a subheader called the fast and it starts a paragraph of all the ritual paths. There should be five paragraphs under this section the fast ending in the time to be heard. Then there's a section called crying for a vision which starts with our need for illumination, should end with the second paragraph saying cry for a vision your vision for your life. each five should have a header that says crying for vision continued and then two paragraphs then finding your name should be a subheader and that one should have I think that is actually
+- **[1:30:02 PM] Andy**: good already because there's three paragraphs ending and recognize it instantly with the cartoon and the statement under in a small paragraph after that So that looks good other than the two headers here.
+- **[1:30:43 PM] Andy**: Yeah the paragraphs are all wrong here for your dreams. It should be two paragraphs one with most people have at least one dream. And the second paragraph should end with unavailable and less spiritual surroundings. The section with listening to your mother should start a paragraph with the Aswarden people we tend to wink at ancient ideas. and then paragraphs later, the end should say ask them to teach you what you need to learn then watch and listen.
+- **[1:31:32 PM] Andy**: Page 27 should have a circle and a circle. the visual as a subheader and then there are five six paragraphs, the ritual starting with the ritual is perhaps the most important component in the first paragraph and the last paragraph should end with listen for it and obey. Wow this kind of sucks All these errors.
+- **[1:32:53 PM] Andy**: First of all it should start out the re-incorporation for many okay so the paragraph wording should start with the re-incorporation for many can be a challenging part of the vision quest and then there's one two there's two paragraphs the second paragraph should say darkness that follows illumination at the end and then there is a quote two quotes, one there's end quotes one quote says after somebody we sweep the floor advises the the young Yogi teacher and then after that there's continued which says before a satory the mountain is just a mountain ending with says the Zen Master Then after that, there's a paragraph that starts with Christian Mystics wrote This next paragraph should start with one person left us and then there's a quote I have cried this morning and tearful now ending with today a walktome alone and cried and then there's a paragraph
+- **[1:34:04 PM] Andy**: under that that starts with those of us who go directly with grace to the great spirit and ending with descent from the mountain top.
+- **[1:34:28 PM] Andy**: Page 31 is completely an error. There should be a subheader called the return. In there for the paragraphs that follow on that page which is 1 2 3 4 5 6 7 paragraphs. The first paragraph should start with the doubts that assail you as you come down from. And the last paragraphs should say completely it often seems that more courage is required to return to the world than to embark on the quest. Page 33 is missing the subtitle mirroring circles that is underlined.
+- **[1:36:05 PM] Andy**: And there's the spirit of the self. In each of those two sections there should be two. So I'm going to go with the whole page because it looks like it's all incorrect. So the first paragraph on the page 35 says the medicine wheel is an ancient symbol of the universe. At the end of the second paragraph should say each with its own purpose joys and sorrows then the next subheader should be the spirit of the East in quotations gold, eagle fire spring and then two paragraphs the medicine power of the East, the second paragraph ending with the time is sunrise when life awakens from sleep and then the paragraph under that should have a subheading of the
+- **[1:36:58 PM] Andy**: Spirit of the South with quotations red mouse earth summer and then two paragraphs, the medicine power of the South is growth and the second paragraph ending with the power of the living breathing earth is conspicuous at this time.
+- **[1:37:18 PM] Andrea**: Page 36 should have the Spirit of the West and the Spirit of the North and the Spirit of
+- **[1:37:37 PM] Andy**: the West should start with under the said having the medicine power of the West is introspection and the end of the second paragraph should say already received and lessons already learned. While the section on the Spirit of the North should start with the medicine power of the North as a first paragraph and then the second paragraph should be renew themselves and sleep from the coming new growth of spring.
+- **[1:38:37 PM] Andy**: on page 44 above the bi J Allen boon and kinship there should be the title of the poem which is naked ponies Page 45 should have six paragraphs and starting with until I reach the point where I could talk. Then the second paragraph starts with late one afternoon. The third paragraph starts thereafter whenever the three of us were together. The fourth paragraph is most expectantly one day. The fifth paragraph for some the three of us set still. For some time the three of us set still. And the final paragraph on this page should be the chief held up his two rugged hands. The following page looks good though.
+- **[1:40:29 PM] Andy**: 46.
+- **[1:41:17 PM] Andy**: that don't belong there on the graphic on the top left. like it might be showing the binding on the left side and then the word should say Hata-yō only by itself not Kanto-yō. like the same page graphic on the wankantanka page with the top left graphic showing the binding is the same error Also the actual text for wankantanka should be a little bigger to cover a lot of the spaced down towards the lizard So the font should be bigger It's a little
+- **[1:42:27 PM] Andrea**: small.
+- **[1:42:47 PM] Andy**: The wrong graphic was used for the top left corner of prayer to the four directions. It should be more like a spiral leafy thing versus the spiral with the squares in the middle. Actually it's the wrong graphic altogether. It should be the spiral with the square in the middle. So this is another instance where the text could be much bigger to fill the page.
+- **[1:46:33 PM] Andy**: For instance I'm worried that we're missing a lot of Andrea's beach.
+- **[1:48:03 PM] Andy**: identified I identified her once when she said amazing and then the other quote was identified with her but mainly but it was mainly me. So we're still not catching her very well. Is there a way to pause the audio? I can see I can play it but I can't turn it off.
+- **[1:49:37 PM] Andy**: or something like that.
+- **[1:50:07 PM] Andrea**: Well I gotta go in a few minutes don't I?
+- **[1:50:37 PM] Andy**: I'm not going to go to Tai Chi today not feeling up for it a little bit of a breathing concerns.
+- **[1:53:03 PM] Andy**: the plan refreshes. until the plan refreshes.
+
+---

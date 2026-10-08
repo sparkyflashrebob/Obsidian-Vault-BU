@@ -13,7 +13,7 @@ tags:
 ---
 # Leadership, Digital Workflow, and Mindfulness Integration
 📅 **Date**: Tuesday, October 06, 2026 (2026-10-06)
-👥 **Attendees**: Andy + [⚠️ Unrecognized Frequent Speaker (Review needed)](http://localhost:8765/?session=Plaud%20Daily%20Transcript%20261006&filter=unassigned)
+👥 **Attendees**: Andy + [⚠️ Unrecognized Frequent Speaker (Review needed)](http://localhost:8765/?session=10-06%20Mission%20Dharma%20%28TBD%29%20Howie%20Cohn%27s%20group&filter=unassigned)
 🎙️ **Primary Data Source**: **Plaud Local PC Ingest (Direct API + Local Whisper AI)**
 📊 **Plaud Sessions Processed (PRIMARY)**: **1**
 📊 **Bee Sessions Processed (SECONDARY BACKUP)**: **0**
@@ -24,7 +24,7 @@ tags:
 - 🐝 **Bee Secondary Backup**: ✅ **Active** (Cross-referenced & Reconciled)
 - 📧 **Gmail & Financial Ingest**: ✅ **Active**
 - 📅 **Google Calendar**: ✅ **Active**
-- ⚠️ **Action Needed — Unrecognized Frequent Speaker**: Detected **36 turns** (9:00:17 AM – 9:37:57 AM). Please review in [🎙️ Voice & Speaker Studio](http://localhost:8765/?session=Plaud%20Daily%20Transcript%20261006&filter=unassigned) to identify or tag.
+- ⚠️ **Action Needed — Unrecognized Frequent Speaker**: Detected **36 turns** (9:00:17 AM – 9:37:57 AM). Please review in [🎙️ Voice & Speaker Studio](http://localhost:8765/?session=10-06%20Mission%20Dharma%20%28TBD%29%20Howie%20Cohn%27s%20group&filter=unassigned) to identify or tag.
 ---
 ## 📌 Executive & Core Topics Overview
 - **Core Topics**: #flood-watch
