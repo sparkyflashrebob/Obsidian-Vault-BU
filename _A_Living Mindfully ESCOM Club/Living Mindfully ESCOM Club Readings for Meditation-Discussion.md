@@ -1,8 +1,8 @@
 ---
 title: "Living Mindfully ESCOM Club Readings for Meditation & Discussion"
 created: 2026-09-30
-updated: 2026-10-01
-version: 1.1
+updated: 2026-10-08
+version: 1.2
 type: meditation-readings
 category: living-mindfully
 tags:
@@ -12,10 +12,15 @@ tags:
   - readings
   - mindfulness
   - discussion-prompts
+  - hooponopono
+  - forgiveness
 ---
 
 ## 📜 Version History & Changes
 
+- **v1.2 (2026-10-08):**
+  - Added Reading 9: Untying the Cords (The Living Spirit of Ho‘oponopono) under Theme 5 (Reconciliation, Forgiveness & Unburdening the Heart).
+  - Added Hawaiian contemplative framework of *Kala* (unbinding) and *Pono* (restoring balance) with discussion prompts for elder reflection.
 - **v1.1 (2026-10-01):**
   - Added 3 new readings: Jon Kabat-Zinn (Reading 2: Non-Striving), Thich Nhat Hanh (Reading 3: Sacredness of the Ordinary), and Rumi (Reading 8: The Guest House).
   - Restructured and categorized all 8 readings into 4 thematic sections.
@@ -202,3 +207,32 @@ A curated collection of short readings, poems, and excerpts for the weekly Livin
 - **Reflection Prompts:**
   - *"Which 'unexpected visitor' (an emotion, an ache, a worry) has visited your guest house lately?"*
   - *"What might it look like to greet that feeling with gentle curiosity or hospitality rather than trying to push it out the front door?"*
+
+---
+
+## Theme 5: Reconciliation, Forgiveness & Unburdening the Heart
+
+### Reading 9: Untying the Cords: The Living Spirit of Ho‘oponopono
+**Adapted from the Ancestral Hawaiian Tradition of _Kala_ (Unbinding)**
+
+> "I unbind you, and in doing so, I unbind myself.  
+> I set down the burning stone of grievance.  
+> 
+> If I have caused harm in thought, word, or deed,  
+> knowingly or unknowingly,  
+> I ask that the knot be untangled.  
+> 
+> Where old memories pull like snagged fishing line,  
+> let the waters run clear and quiet.  
+> 
+> I am sorry for the armor I have carried.  
+> Please forgive the tightness of my judging mind.  
+> Thank you for the mirror of this human life.  
+> I return our relations to love,  
+> and restore the sacred balance of peace."  
+
+- **Why it works for this group:** Older adults frequently carry quiet burdens: long-standing family rifts, unspoken regrets, or the sheer exhaustion of holding grudges across decades. This reading reframes forgiveness not as "letting someone off the hook" or approving bad behavior, but as the liberating act of *Kala*—untying the knots that drain our own life force. It offers a gentle, dignified pathway to set down old baggage and clean the internal projector of memory.
+- **Reflection Prompts:**
+  - *"What does it feel like in your body when you hold onto an old resentment, versus the felt sense of setting it down?"*
+  - *"The Hawaiian word for forgiveness, 'Kala,' means to loosen, unbind, or set free. Who or what might you give yourself permission to gently unbind today—including yourself?"*
+
