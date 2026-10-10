@@ -7,6 +7,15 @@
 
 ## 📥 Pending Review & Implementation
 
+- [ ] **[2026-10-09 06:25 AM - Linearity] Workflow improvement / instruction suggestion**:
+  > *"The flood watch is for 11 a.m. to one today. We didn't see anything when we were out there regarding the engine classification safeguards. Is it possible to tell when two or more people are talking before classifying it as a monologue, a chatbot conversation...."*
+  - **Status**: Pending Review
+
+- [ ] **[2026-10-09 06:31 AM - Plaud] Workflow improvement / instruction suggestion**:
+  > *"with anti-gravity also and compare them to when chatbot things are happening I do a lot of speaking to the chatbots and sometimes I'm editing say blog posts of various documentation that has been written so I'm doing that kind of thing versus my initial..."*
+  - **Status**: Pending Review
+
+
 - [ ] **[2026-10-07 04:47 AM - Linearity] Audio storage / retention policy directive**:
   > *"I'm up just before 9 o'clock in the morning on 10-7 and starting the recordings right around 9 o'clock 901 902 interesting got a butt dial from Melissa Phillips who is Andrea's auntie and she accidentally called me again just a second ago when Han-Nep-Song..."*
   - **Status**: Pending Review

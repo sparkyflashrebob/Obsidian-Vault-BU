@@ -22,7 +22,7 @@ tags:
 📊 **Linearity Sessions Processed (PRIMARY)**: **1**
 📊 **Plaud Sessions Processed (PRIMARY)**: **4**
 📊 **Bee Sessions Processed (SECONDARY BACKUP)**: **0**
-🔄 **Report Revision Date**: **2026-10-09 09:31:11 PDT**
+🔄 **Report Revision Date**: **2026-10-09 10:57:40 PDT**
 ### ⚙️ Pipeline Status & Data Ingestion Log
 - ⚡ **Plaud Direct Ingest**: ✅ **Active** (0 Cloud Minutes Spent, 0 Phone Taps Needed)
 - 🎙️ **Linearity Hi-Fi Parallel Stream**: ✅ **Active** (1 High-Fidelity Session Processed)
@@ -183,6 +183,47 @@ tags:
   - **Focus**: I see we are not converting and archiving the Linear Recording.  Is this not in the System Health and Workflow Verifi...
   - **Actions**: Executed automated verification scripts.
   - **Outcome**: Yes, you are spot on.
+
+
+---
+
+## 🎙️ Wispr Voice Dictation & Input Activity
+### 🎙️ Wispr Voice Dictation Activity Log (177 dictations, 3,054 words)
+> *Captured via Wispr Flow speech-to-text system across Antigravity, Obsidian, and web applications.*
+
+**Application Distribution**:
+- **Antigravity**: 144 dictations
+- **Obsidian**: 17 dictations
+- **chrome**: 16 dictations
+
+#### ✏️ Collaborative Document & Blog Refinements (14 revisions)
+- **[11:28:16 AM]**: *"I would like to expand on."*
+- **[11:31:08 AM]**: *"With point number one, make sure that your language is gentle when referring to this misunderstanding."*
+- **[11:33:37 AM]**: *"If there is a poem associated with this word that would fit for my ESCom club, add it to that list that I we are running"*
+- **[11:50:16 AM]**: *"Can you include these principles and the things that I would like to include in my future book or books that I I'm looking to write?"*
+- **[12:18:26 PM]**: *"Many people value or devalue their ancestry based on what kind of family lineage they have. Mine is particular, is very broken. The last few generations, so I don't feel much of a connection with them."*
+- **[12:23:18 PM]**: *"There is a flip side to this in terms of credentialism."*
+- **[12:47:23 PM]**: *"I'm not sure that those who are highly intellectual, caught up in their own thinking, are cut off from the warmth of human kinship, but I do see that people who um are thinking mostly about themselves, where this can be the case."*
+- **[12:48:23 PM]**: *"Remove the section about my personal bottom from the perspective of mentioning suicide and overdose."*
+
+#### ⚡ Initial AI Task & Workflow Instructions (130 instructions)
+- **[09:40:54 AM]**: *"Which PDF version in the folder do I have is the correct version?"*
+- **[09:41:39 AM]**: *"Get rid of the version that is a dash one."*
+- **[09:43:22 AM]**: *"MD version lost its index or way for me to jump to the different sections"*
+- **[09:44:16 AM]**: *"The index page is there, but not the left column. It only says start."*
+- **[09:47:12 AM]**: *"On page of the MD file."*
+- **[09:47:24 AM]**: *"the image doesn't show, and it should be above the actual poem, starting with "O great spirit.""*
+- **[09:48:20 AM]**: *"In the introduction, there are a lot of paragraphs missing. Can you go through the MD file and make sure that it conforms to the finished product from the PDF to what we've done?"*
+- **[09:50:08 AM]**: *"With the MD file on the page where it's American Indian prayer, that graphic has bleed through from text on the reverse page that needs to be fixed. Also, the graphic should be above O Great Spirit."*
+
+#### 📝 Direct Obsidian Notes & Writing (17 entries)
+- **[09:48:06 AM]**: *"In the introduction, there are a lot of paragraphs missing."*
+- **[09:49:22 AM]**: *"In the MD file, the graphic on an American Indian prayer has some bleed through in it, and also it should be above the poem itself where it says, "O great Spirit.""*
+- **[12:46:38 PM]**: *"I am my authentic self. I'm the most at peace."*
+- **[03:18:45 PM]**: *"Andy and B. Allen."*
+- **[03:18:55 PM]**: *"They are live or lived in Sheres, Nevada. Andy has now passed away, and I'm going to post some information about their tribe here in a second. But I've related the story about his recovery where he's in a he was in the middle of desert in. Dirt road in a portable and didn't have any visitors for his AA meeting for a year and then it took off after that."*
+
+
 
 ---
 ## 💡 Key Points, Subjects and Themes

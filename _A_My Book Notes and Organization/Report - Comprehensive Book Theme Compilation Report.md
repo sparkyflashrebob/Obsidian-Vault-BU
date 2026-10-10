@@ -106,8 +106,10 @@ reports_integrated:
   * **The Multitude Within:** Deconstructing "The Committee"—the multi-voiced internal boardroom driven by Fear, Ego, Shame, and the constant urge for validation.
   * **Dismantling $Sakk\bar{a}ya-Di\h{t}\h{t}hi$:** Approaching personality view and ego defense mechanisms as spiritual teachers rather than enemies to be eradicated.
   * **Accusations are Confessions (The Thief's Suspicion):** Analyzing interpersonal projection. Realizing that when others judge or suspect your motives, they are projecting their own internal conditioning. *"If you are a thief, you are afraid others will steal from you."*
+  * **Cognitive Defusion, Skillful Means & The Terra Linda Assault:** Breaking free from the spell of "believing our thoughts" through the lens of unbidden, ego-dystonic intrusive thoughts (the baby stroller / dingo meme echo). Contrasting mindfulness defusion with the catastrophic danger of cognitive fusion—illustrated when an unstable neighbor literally equated a passing thought with identity and intent, launched a violent assault, and was physically restrained until police arrived. Exploring the Dharma lesson of container discernment (*Upāya*): recognizing that the world chronically conflates *Thought $\neq$ Identity $\neq$ Action*, requiring practitioners to exercise skillful caution about where and with whom they unpack the shadow mechanics of the mind, alongside Peter Levine's somatic survival discharge (post-crisis weeping).
+  * **The Mirror of Vulnerability & The Ratcheting Baseline (States vs. Traits):** Observing how speaking vulnerably about one's own internal struggles causes listeners to reflexively mirror and evaluate their own behavior. Examining the mechanics of Dharma absorption: how listening to spiritual teachings temporarily re-calibrates meditation practice and view (an altered state), and while consciousness inevitably snaps back toward its default setting, each cycle of listening and sitting permanently ratchets the baseline higher—gradually transforming temporary states into enduring traits (*Altered Traits* / Richie Davidson).
   * **The Parable of the Two Birds:** The First Bird (busy on the lower branch building nests/working) vs. The Second Bird (sitting higher, quietly observing). *"The second bird is inside the first bird."*
-* **Reference Literature:** Incorporating the *Honeyball Sutta* (*Madhupiṇḍika Sutta*) to show how unanchored minds spin raw sensory input into complex emotional suffering.
+* **Reference Literature:** Incorporating the *Honeyball Sutta* (*Madhupiṇḍika Sutta*) to show how unanchored minds spin raw sensory input into complex emotional suffering, alongside Peter Levine's *Waking the Tiger* on somatic survival discharge.
 
 ---
 
@@ -125,9 +127,9 @@ reports_integrated:
 #### Chapter 4: The Skinned Cow: Reclaiming Attention in the Digital Noise
 * **Subsections:**
   * **The Exposed Nervous System:** Exploring the parable of the "Skinned Cow"—exposed to and eaten alive by notifications, media algorithms, and political outrage.
-  * **The Fixed-View Trap:** Recognizing that rigid attachment to any ideological perspective is a direct highway to suffering (*Dukkha*).
+  * **The Fixed-View Trap:** Recognizing that rigid attachment to any ideological perspective is a direct highway to suffering (*Dukkha*). Integrating Master Nan-in's classic parable of **"A Cup of Tea"**—the imperative of cognitive humility (*Shoshin*) and emptying one's overflowing conceptual cup before genuine wisdom or presence can be received.
   * **The Intentional Gatekeeper:** Monitoring mental nutrition, stepping back from the attention economy, and choosing what to value.
-* **Reference Literature:** Integrating Thomas Nichols' *The Death of Expertise* to contextualize the systemic erosion of humility in modern public discourse.
+* **Reference Literature:** Integrating Thomas Nichols' *The Death of Expertise* to contextualize the systemic erosion of humility in modern public discourse, alongside *Zen Flesh, Zen Bones* (Paul Reps).
 
 ---
 
@@ -149,7 +151,11 @@ reports_integrated:
 * **Subsections:**
   * **The Hungry Ghost in Relationships:** Responding to daily demands with benevolence while maintaining healthy energetic boundaries to prevent codependency.
   * **Living Amends Framework:** Shifting from historic guilt into active, ongoing behavioral repair and accountability in close relationships.
-  * **The Calm Ripple Effect:** Utilizing the principle that a single grounded, mindful presence naturally stabilizes a chaotic environment.
+  * **The Calm Ripple Effect & Command Presence (The Bahamas Big Red Boat Flash Flood):** A sudden tropical deluge submerges an island beach, creating flash floods that sweep swimmers into the open sea. While crowds and cruise staff freeze in shock, Andy demonstrates dual-track stewardship—anchoring his son safely under a bridge column while barking authoritative commands to break the staff's paralysis and direct the rescue of a drowning woman.
+  * **The Plate-Glass Betrayal & The Genesis of Moral Courage (The Zim's Diner Knife Robbery):** Facing an armed knife robbery on Market Street in college while dozens of restaurant patrons passively watched through the illuminated plate-glass window. Escaping the blade, then storming inside to confront the diners' shameful spectator apathy—the foundational crucible that forged Andy's lifelong vow never to be a passive bystander when someone is in need.
+  * **Moral Courage & Speaking Up for What Is Right (The SF IMAX Confrontation):** Moving beyond the passive bystander effect to defend a displaced, vulnerable woman against intimidation in a darkened theater. Embodying fierce compassion (*Sammā Vācā* / *Sammā Kammanta*) and demonstrating to one's children that integrity requires taking a stand against bullying even in the presence of fear.
+  * **Breaking the Spectator Trance & Active Eldership (The Pier 39 Juggler Brawl):** Refusing to let schoolchildren absorb adult voyeurism or apathy during an Angel Island field trip. Stepping forward into a crowd of passive onlookers to halt a violent street brawl, demonstrating that mindfulness in the world means actively protecting peace: *"We can't just sit around and watch... we should always be helping."*
+  * **Institutional Compassion & The True Purpose of Governance (The SF Head Start Classroom & Mario):** Examining the fundamental civic and moral contract: *government should be focusing on supporting and helping people.* Contrasting the punitive default (expelling 250 dysregulated preschoolers daily nationwide) with trauma-informed care—where specialists like Sandra Solis use attunement, song, and presence to reach Mario, a non-verbal autistic toddler traumatized by his father's ICE deportation. Analyzing the collective moral duty to protect early childhood mental health and resist the political dismantlement of public safety nets (where 88% of public comments opposed deregulation), treating community care as actionable Bodhisattva practice.
 
 ---
 
