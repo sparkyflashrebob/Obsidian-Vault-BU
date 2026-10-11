@@ -378,27 +378,27 @@ And this brings us directly to **The Practice of Double Holding**:
 Here is the four-step practice you can keep in your pocket:
 
 ### 1. Acknowledge the Experience (Mindfulness / Clear Seeing)
-Don't gaslight yourself. When something unpleasant hits your senses, see it clearly and say it plainly:  
+There is no need to gaslight yourself. When something unpleasant hits your senses, see it clearly and say it plainly:  
 *"This is difficult. This entered my senses, it hurts, and it makes complete sense that my stomach is tight or knotted up."*  
 Clear seeing stops the exhausting game of pretending.
 
 ### 2. Notice What You're Adding On (Insight / Discernment)
-Catch the mind aggregate in the act. Ask yourself:  
+We can catch the mind aggregate in the act, gently asking ourselves:  
 *"What story am I building on top of this? Am I spinning disaster movies? Am I beating myself up?"*  
-Remember what the Buddha said: *What we think and ponder upon becomes the inclination of the mind.* Use clear seeing to put down the second arrow. Let the story drop.
+Remember what the Buddha said: *What we think and ponder upon becomes the inclination of the mind.* With clear seeing, we can put down the second arrow and let the story drop.
 
 ### 3. Comfort the Body with Kindness (Compassion / Open Heart)
-You cannot talk your stomach out of a knot with intellectual arguments. Speak to your body with the warmth of an open heart:
+We cannot talk our stomach out of a knot with intellectual arguments. We can speak to our body with the warmth of an open heart:
 * Place your palm flat on your upper belly or over your heart. Let the physical warmth sink in.
 * Take a slow, resetting breath: two gentle inhales through the nose, and a long, relaxing sigh out through the mouth.
 * Use compassion as an active aid, speaking to your body like a dear friend:  
   *"I know this feels threatening. I know you're unsettled. But right now, in this ten seconds, we are breathing. We are safe in this room. You can soften. Let me handle the practical situation outside."*
 
 ### 4. Take Grounded, Caring Action (Clear Seeing & Compassion in Motion)
-Soothing your nervous system isn't about becoming passive. It is about clearing your mind and opening your heart so you can take wise action:
-* You address the practical facts—the budget, the difficult conversation, the body's need for medical care or rest—without the panic.
-* You set healthy boundaries with rude people or negative news.
-* And if you need support, you reach out and ask for help without shame. In our culture, asking for help is often treated as a flaw, but reaching out is an act of deep wisdom and open-hearted human courage.
+Soothing our nervous system isn't about becoming passive. It is about clearing our mind and opening our heart so we can take wise, skillful action:
+* We address the practical facts—the budget, the difficult conversation, the body's need for medical care or rest—without the panic.
+* We set healthy boundaries with rude people or negative news.
+* And if we need support, we reach out and ask for help without shame. In our culture, asking for help is often treated as a flaw, but reaching out is an act of deep wisdom and open-hearted human courage.
 
 [pause / settling breath down into the belly]
 
@@ -453,16 +453,16 @@ The floor is open for anyone who would like to share.
 
 As we get ready to close our evening, here are a few simple signposts to keep in your pocket this week:
 
-* **Honor the Sensory Impact (First Arrow)**: Facing things we don't want to experience—bills, rude behavior, tough news, physical aches—is part of being human. Acknowledging that it hurts isn't negativity; it's honest presence. Stop gaslighting yourself.
+* **Honor the Sensory Impact (First Arrow)**: Facing things we don't want to experience—bills, rude behavior, tough news, physical aches—is part of being human. Acknowledging that it hurts isn't negativity; it's honest presence. There is no need to gaslight yourself.
 * **Catch What You Add On (Second Arrow)**: Notice the difference between the facts of experience and the stories the mind spins. Remember: *Whatever we frequently think and ponder about becomes the inclination of our mind.*
 * **The Knot is Biology, Not Failure**: When unwanted things enter our senses, the stomach naturally gets tight or knotted up. It's conditionality—our inner creature reacting to perceived threat. It doesn't mean you're broken.
-* **We Think About the Tiger When There Is No Tiger**: In the wild, a deer runs from danger, shakes off the shock when safe, and goes back to grazing. We keep the predator alive in our thoughts. Catch yourself when you are conjuring a tiger in a room where you are completely safe right now.
+* **We Think About the Tiger When There Is No Tiger**: In the wild, a deer runs from danger, shakes off the shock when safe, and goes back to grazing. We keep the predator alive in our thoughts. Noticing when we are conjuring a tiger in a room where we are completely safe at this moment.
 * **Inhabit the Space**: Viktor Frankl's space lives right between the sensory contact and what the mind adds on. You are not the knot; you are the spacious awareness observing it.
 * **Fly with Both Wings (Tara Brach's Teaching)**: 
   - **The Wing of Mindfulness (Clear Seeing)**: Seeing things as they actually are, with discernment that separates sensory facts from mental stories.
   - **The Wing of Compassion (The Open Heart)**: Meeting ourselves with active kindness, comforting the tight knot in the body, and moving into caring action in the world.
-* **Practice Double Holding**: Hold the truth of reality outside with clear seeing, and hold your inner being with an open, compassionate heart.
-* **Immediate Relief, Long-Term Freedom**: This practice relieves stress in the heat of the moment, but its lasting fruit is breaking the chronic habit of stress. Instead of burning your energy fueling worry, you reclaim that energy to deal with your life in a skillful, peaceful manner.
+* **The Practice of Double Holding**: Holding the truth of reality outside with clear seeing, and holding our inner being with an open, compassionate heart.
+* **Immediate Relief, Long-Term Freedom**: This practice relieves stress in the heat of the moment, but its lasting fruit is breaking the chronic habit of stress. Instead of burning our energy fueling worry, we reclaim that energy to deal with our lives in a skillful, peaceful manner.
 
 ---
 

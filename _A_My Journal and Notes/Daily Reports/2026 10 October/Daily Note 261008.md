@@ -17,12 +17,12 @@ tags:
 ---
 # 2026-10-08 03_26_37, Linearity Recording (03:26:37 AM – 03:48:09 PM PDT), and 2026-10-08 09:53:54 (5h00m)
 📅 **Date**: Thursday, October 08, 2026 (2026-10-08)
-👥 **Attendees**: Andy McGuire, Andrea McGuire (Wife), Living Mindfully ESCOM Club Members (College of Marin & Zoom), Insight Berkeley Sangha (Zoom)
+👥 **Attendees**: Andy McGuire, Andrea McGuire (Wife), Living Mindfully ESCOM Club (Andy facilitated solo / personal journal sit; Andrea absent due to illness), Insight Berkeley Sangha (Zoom)
 🎙️ **Primary Data Source**: **Linearity High-Fidelity & Plaud Local PC Ingest (Local Whisper AI)**
 📊 **Linearity Sessions Processed (PRIMARY)**: **1**
 📊 **Plaud Sessions Processed (PRIMARY)**: **4**
 📊 **Bee Sessions Processed (SECONDARY BACKUP)**: **0**
-🔄 **Report Revision Date**: **2026-10-09 10:57:40 PDT**
+🔄 **Report Revision Date**: **2026-10-10 16:14:02 PDT**
 ### ⚙️ Pipeline Status & Data Ingestion Log
 - ⚡ **Plaud Direct Ingest**: ✅ **Active** (0 Cloud Minutes Spent, 0 Phone Taps Needed)
 - 🎙️ **Linearity Hi-Fi Parallel Stream**: ✅ **Active** (1 High-Fidelity Session Processed)
@@ -94,7 +94,7 @@ tags:
 > - **8:00 AM – 9:00 AM:** [Regular service for BoKi](https://www.google.com/url?q=https://www.google.com/calendar/event?eid%3DNjRvamFkYjM3NHNqZ2I5Zzc0cDNlYjlrNjloamFiOXA2MWdtY2I5aGNncGo2Y2oxNzRxajZwOWxjZyBzcGFya3lmbGFzaHJlYm9iQG0&source=gmail&ust=1791556992251000&sa=E) at Toyota Marin *(Starting shortly)*
 > - **1:15 PM – 1:30 PM:** [Leave for ESCOM Club Meeting](https://www.google.com/url?q=https://www.google.com/calendar/event?eid%3DNGpjbTBkZDcxZzdvcjhsdG5iaWUwOHJlYjVfMjAyNjEwMDhUMjAxNTAwWiBzcGFya3lmbGFzaHJlYm9iQG0&source=gmail&ust=1791556992251000&sa=E)
 > - **2:00 PM – 3:30 PM:** [Living Mindfully ESCOM Club Meeting](https://www.google.com/url?q=https://www.google.com/calendar/event?eid%3DMmtqMDQwdGZkbjA2cnU0cms3N2V0cDEyNHNfMjAyNjEwMDhUMjEwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0&source=gmail&ust=1791556992251000&sa=E) *(College of Marin, Elizabeth Deedy Hall Rm 111 & Hybrid via Zoom)*
-> - **7:30 PM – 9:00 PM:** [Insight Berkeley Group](https://www.google.com/url?q=https://www.google.com/calendar/event?eid%3DMmVuMTAxMnNtODlpNnY4MW9vbGlnbXZzazVfMjAyNjEwMDlUMDIzMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0&source=gmail&ust=1791556992251000&sa=E) *(via Zoom)*
+>
 >
 >
 > #### ✉️ Key Unread Emails
@@ -116,8 +116,7 @@ tags:
 > - **Today's Commitments:**
 > - Head to Toyota Marin for [Regular service for BoKi](https://www.google.com/url?q=https://www.google.com/calendar/event?eid%3DNjRvamFkYjM3NHNqZ2I5Zzc0cDNlYjlrNjloamFiOXA2MWdtY2I5aGNncGo2Y2oxNzRxajZwOWxjZyBzcGFya3lmbGFzaHJlYm9iQG0&source=gmail&ust=1791556992252000&sa=E) (8:00 AM – 9:00 AM)
 > - Depart at 1:15 PM for [Living Mindfully ESCOM Club Meeting](https://www.google.com/url?q=https://www.google.com/calendar/event?eid%3DMmtqMDQwdGZkbjA2cnU0cms3N2V0cDEyNHNfMjAyNjEwMDhUMjEwMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0&source=gmail&ust=1791556992252000&sa=E) (2:00 PM – 3:30 PM)
-> - Join [Insight Berkeley Group](https://www.google.com/url?q=https://www.google.com/calendar/event?eid%3DMmVuMTAxMnNtODlpNnY4MW9vbGlnbXZzazVfMjAyNjEwMDlUMDIzMDAwWiBzcGFya3lmbGFzaHJlYm9iQG0&source=gmail&ust=1791556992252000&sa=E) (7:30 PM – 9:00 PM)
-> - **Daily Contemplation & Evening Routine:**
+> > - **Daily Contemplation & Evening Routine:**
 > - [4 Thoughts That Turn The Mind To Practice](https://www.google.com/url?q=https://tasks.google.com/task/quOVgpZbysEIRgG4?sa%3DDLSA_GEMINI&source=gmail&ust=1791556992252000&sa=E)
 > - [Buddhist Practice in Action](https://www.google.com/url?q=https://tasks.google.com/task/o7GRBus76TuXtK8l?sa%3DDLSA_GEMINI&source=gmail&ust=1791556992252000&sa=E) (6:00 PM)
 > - [10 Stoic Principles](https://www.google.com/url?q=https://tasks.google.com/task/hdaQnyarXm62Oxv0?sa%3DDLSA_GEMINI&source=gmail&ust=1791556992252000&sa=E) (6:30 PM)
@@ -232,7 +231,7 @@ tags:
 - **Reflections on Language & Elitism with Andrea (5:30 AM – 6:30 AM)**: Discussed social media debates over pronoun usage (`me and Tim` vs. `Tim and I`) and the broader pattern of intellectual elitism dividing society while deflecting attention from deeper moral issues. Andy showed Andrea local flood maps from January 2026 and shared an article on multi-spelling vocabulary words.
 - **Vehicle Service & Sangha Email Resolution (8:00 AM – 11:30 AM)**: Serviced BoKi at Toyota Marin. Resolved a workflow template bug that generated duplicate blank meeting invites for Living Mindfully, sending personal apology emails to Will Meecham, Shelby Fortney, and sangha members.
 ### ☀️ Afternoon Session (12:01 PM – 5:00 PM)
-- **Living Mindfully ESCOM Club Meeting at College of Marin (2:00 PM – 3:30 PM)**: Facilitated the weekly hybrid mindfulness gathering at College of Marin (Elizabeth Deedy Hall Rm 111 & Zoom), leading meditation and reflective dialogue on emotional grounding and somatic presence.
+- **Living Mindfully ESCOM Club Meeting & Solitary Contemplative Journaling (2:00 PM – 2:36 PM)**: Andy arrived at College of Marin (Elizabeth Deedy Hall Rm 111 & Zoom) for the weekly ESCOM club gathering. Finding himself the sole attendee (Andrea was resting at home due to illness; other members did not attend), Andy consciously chose to run the complete meeting protocol with himself as a dedicated personal journal and meditation sit. He read Jon Kabat-Zinn's passage on *The Practice of Non-Striving* (*Wherever You Go, There You Are*), explored how sensory grasping fuels the compulsive pressure to be productive, meditated silently for 17 minutes, reflected on mindfulness as a biofeedback mechanism, and recalled Pat's story of his Native American elder friend in Schurz, Nevada, who held recovery meetings alone in the desert for a year—inspiring the practice of tending to one's own side of the street regardless of turnout.
 - **Creative Writing & Philosophical Synthesis (3:45 PM – 4:45 PM)**: Drafted blog reflections on *Hoʻoponopono* (Hawaiian spiritual practice of reconciliation, forgiveness, and mental cleansing), synthesizing it with Stoic inversion, Buddhist ethics, and the primacy of lived experience over formal credentials.
 ### 🌙 Evening Session (5:01 PM – 11:00 PM)
 - **Domestic Connection & Evening Debrief with Andrea (5:30 PM – 7:25 PM)**: Andy and Andrea spent extensive domestic time together at home (captured via 2.5 hours of Plaud audio), sharing dinner, unwinding, and discussing the day's projects with mutual care and affection.
@@ -246,10 +245,10 @@ tags:
 * **Context**: Early morning kitchen conversation, ballot research, and creative sharing captured via Linearity and Plaud.
 * **Core Discussion**: Andy and Andrea researched California judicial candidates and propositions, enjoyed breakfast, reviewed Tony's memorial book and storage boxes, explored language and intellectual elitism, looked at local estuary flood maps, and discussed Hoʻoponopono.
 
-### 2️⃣ Living Mindfully ESCOM Club Meeting (2:00 PM – 3:30 PM PDT)
-* **Participants**: Andy McGuire (Facilitator) and ESCOM Club Members (In-Person & Zoom).
-* **Context**: Scheduled weekly hybrid community meditation meeting at College of Marin (Room 111 & Zoom).
-* **Core Discussion**: Andy led a silent meditation sit, opened community sharing, and guided contemplation on emotional grounding, non-judgmental awareness, and somatic presence.
+### 2️⃣ Living Mindfully ESCOM Club Meeting & Solitary Sit (2:00 PM – 2:36 PM PDT)
+* **Participants**: Andy McGuire (Sole Attendee & Facilitator); Andrea McGuire (Absent due to illness).
+* **Context**: Scheduled weekly hybrid community meditation meeting at College of Marin (Elizabeth Deedy Hall Rm 111 & Zoom). Finding no other attendees, Andy ran the full meeting format with himself as a spoken journal and meditation session.
+* **Core Discussion & Practice**: Andy embraced acceptance over ego-driven frustration (*sakkayaditthi*). He read Jon Kabat-Zinn on *The Practice of Non-Striving* (befriending whatever feeling is present rather than fixing it), discussed the senses grasping outward (noting sound as the primary distraction in deep absorption / first jhana), sat in silent meditation for 17 minutes, contemplated meditation as a biofeedback loop (awareness feeding body feeding awareness, noting how paying attention to tension over his eye intensified it), and drew strength from Pat's story of an elder holding meetings alone in a Nevada desert portable building for a year.
 
 ### 3️⃣ Evening Domestic Connection with Andrea (5:30 PM – 7:25 PM PDT)
 * **Participants**: Andy McGuire and Andrea McGuire (Wife).
@@ -279,8 +278,14 @@ Andy took BoKi to Toyota Marin for scheduled maintenance between 8:00 AM and 9:0
 ---
 
 ### ☀️ Afternoon Session (12:01 PM – 5:00 PM)
-#### Living Mindfully ESCOM Club Meeting (2:00 PM – 3:30 PM)
-Andy arrived at College of Marin to facilitate the weekly Living Mindfully ESCOM Club gathering in Elizabeth Deedy Hall (Room 111) with hybrid Zoom attendees. He led a grounding meditation sit, welcomed attendee check-ins, and guided the sangha through teachings on nervous system regulation, non-judgmental presence, and cultivating compassion amidst daily stress.
+#### Living Mindfully ESCOM Club Meeting & Solitary Journal Practice (2:00 PM – 2:36 PM)
+Andy set up in Elizabeth Deedy Hall (Room 111) at College of Marin with Zoom open for the weekly Living Mindfully ESCOM Club gathering. With Andrea resting at home due to illness and no other attendees signing in, Andy recalled an old speech class principle—*"They don't know if you made a mistake unless you let them know"*—and chose to run the complete meeting protocol with himself as a dedicated contemplative journal and meditation sit. He reflected that resisting or resenting an empty room would be an ego contraction (*sakkayaditthi*), meeting the situation with unconditional acceptance.
+
+Andy read Jon Kabat-Zinn's teaching on **The Practice of Non-Striving** from *Wherever You Go, There You Are*: in meditation, we do not have to try to get anywhere else, only allowing ourselves to be where we already are. He highlighted that while almost all human energy is spent trying to fix, adjust, manage, or improve things, non-striving invites us to befriend whatever feeling is present—whether fatigue or anxiety—lifting an enormous burden. He noted how older adults especially face internal pressure to remain productive, cautioning that mindfulness must never become another task or achievement metric to succeed at.
+
+Exploring the roots of distraction, Andy noted that our senses instinctively reach outward to grasp at stimuli, which directly fuels the compulsive urge for productivity ("what's next, next, next"). In deep absorption (*first jhana*), sound is the primary distraction as ears instinctively reach out and grasp auditory input. Practicing 'doing nothing' and watching the mind's impulse to engage offers a vital doorway to stillness, even amidst casual distractions like seeing people pass by the classroom window.
+
+Andy then held a 17-minute silent meditation sit. Following the sit, he reflected on a non-sectarian nature walk group facilitator who frames mindfulness as a **biofeedback mechanism**: awareness feeds back into somatic experience, which feeds back into awareness (being the observer of what we are observing). He observed that deliberate focus acts as an amplifier: noting subtle tension above his eye caused the sensation to intensify in real time. He also shared a profound story from his friend Pat about a Native American elder friend in Schurz / Elko, Nevada, who held recovery meetings alone in a portable trailer on a dusty desert road for nearly a year before a single rough biker walked in—exemplifying the dedication of showing up and tending to one's own side of the street regardless of turnout. Finally, Andy reflected on working with AI agents like Antigravity, noting that active checking and verification—not passive assumption—is vital in both technology and human relationships.
 
 #### Philosophical Writing: Hoʻoponopono & Intellectualism (3:45 PM – 4:45 PM)
 Following the meeting, Andy dedicated focused time to drafting upcoming blog essays and book reflections. He explored the Hawaiian practice of *Hoʻoponopono* (reconciliation, forgiveness, and mental cleansing), connecting 'cleaning the inner projector of the mind' with the Stoic inversion and Buddhist mindfulness. He emphasized the profound value of lived life experience and practical tradecraft over formal academic credentialism.
@@ -321,6 +326,11 @@ Andy joined the scheduled Insight Berkeley sitting group via Zoom, participating
 * **Context:** Dictating core themes for an upcoming blog essay and book chapter.
 * **Dialogue Excerpt:** *"Hoʻoponopono means reconciliation, forgiveness, and mental cleansing—translating into 'to make right and make good.' With point number one, make sure language is gentle when referring to misunderstanding. Put emphasis on cleaning the inner projector of the mind, connecting to the Stoic inversion. One of the main issues with writing blog posts is it feels like giving advice; I want to write the way I reflect inward on what I should do, and that others might consider."*
 
+### 6️⃣ Solitary Teaching & Practice: Non-Striving, Sensory Grasping, & Showing Up Alone (2:00 PM – 2:36 PM)
+* **Participants:** Andy McGuire (Sole Attendee & Facilitator).
+* **Context:** Spoken contemplative journal and 17-minute meditation sit in Elizabeth Deedy Hall Rm 111 at College of Marin.
+* **Dialogue Excerpt:** *"Currently I'm here alone. So my plan is to have a meeting with myself if necessary... Going back to my college days, taking the speech class: they don't know if you made a mistake unless you let them know... Andrea is not feeling well so she didn't make the effort to come out here. That is what it is. At this point, I'm definitely in acceptance of that, and if I wasn't, then that would be a sakkayaditthi, an ego thing... I think it's really important for us to check on, not just assume things—with humans too, not just AI... Pat talked about his Native American elder friend in Schurz, Nevada... going to a portable out in the middle of the desert on some dusty road and not having anybody come in for maybe a year, and somebody finally did come in, a biker dude. The dedication to his own practice... to really look at my side of the street regardless of what's happening... Kabat-Zinn said: In meditation you don't have to try to get anywhere else, you only have to allow yourself to be where you already are. The moment we stop trying to manufacture a better feeling and simply befriend the one we have, an enormous burden falls away... In deep practice, in the first jhana, sound is the number one distraction because our ears reach out and grab the sound... Sometimes I like to practice doing nothing and watching the urge for the mind to do something... Biofeedback is where you experience what you're experiencing, and that provides feedback to the body, and the body feeds back to us... I have tension over this eye, and when you pay attention to something, it becomes more into focus... I want to include all of this into my daily journal and notes because they're something that should be inclusive of what I teach."*
+
 ---
 
 ## 🧘 Spiritual and Societal Insights
@@ -340,6 +350,21 @@ Andy joined the scheduled Insight Berkeley sitting group via Zoom, participating
 * **Systemic / Contemplative Context:** Researching ballots together, cooking breakfast, sharing laughter over silly propositions, and debriefing the day anchor emotional safety and mutual devotion.
 * **Practical Application:** Treating daily marriage partnership as sacred ground for patience, humor, and unconditional presence.
 
+### 4️⃣ Non-Striving & Befriending What Is (Jon Kabat-Zinn)
+* **Core Observation:** The modern mind burns vast reserves of vital energy compulsively fixing, improving, and managing internal states.
+* **Systemic / Contemplative Context:** Dropping the pressure to manufacture a preferable feeling and gently befriending whatever is present (fatigue, anxiety, restlessness) dissolves the burden of performance. Mindfulness is not another achievement checklist or productivity metric; it is radical permission to be where we already are.
+* **Practical Application:** When an unpleasant feeling enters our senses, pausing the impulse to fix it, allowing the belly to soften, and meeting the sensation with warmth and non-striving acceptance.
+
+### 5️⃣ Dedication Independent of External Outcome: The Desert Portable Parable
+* **Core Observation:** We often tie our commitment to an activity to whether other people validate or participate in it.
+* **Systemic / Contemplative Context:** As exemplified by Pat's Native American elder friend who held recovery meetings in an empty Nevada desert trailer for a year before a single person arrived, true spiritual practice is rooted in tending to one's own side of the street. Showing up alone purifies motivation from ego validation (*sakkayaditthi*).
+* **Practical Application:** Holding space for mindfulness practice regardless of attendance or recognition, honoring dedication to the path as its own reward.
+
+### 6️⃣ Awareness as Biofeedback and the Amplification of Attention
+* **Core Observation:** Whatever physical sensation or thought we place our attention upon naturally intensifies and expands in our perceptual field.
+* **Systemic / Contemplative Context:** Awareness is an active biofeedback mechanism: mind perceives the body, body responds to mind. When attention fixes on tension (such as tightness around the eyes or a knotted belly), it can temporarily heighten the contraction unless held with spacious, non-grasping ease.
+* **Practical Application:** Noticing somatic tension without clutching or over-focusing, maintaining a panoramic field of awareness so sensations can arise and dissolve naturally.
+
 ---
 
 ## 💬 Quoted Expressions & Memorable Phrasings
@@ -348,6 +373,10 @@ Andy joined the scheduled Insight Berkeley sitting group via Zoom, participating
 - *"So many things he imprinted on me, that's why I keep talking about him. Missed him. I know. He was my brother... Here is the PDF, cleaned it all up, and the ePUB like a Kindle book with all the prayers."* — **Andy McGuire** (Reviewing Tony's memorial book with Andrea)
 - *"People think the person must not be educated or English is their second language. So what? Because this is an elitism... We have bigger fish to fry than that. We focus on the wrong things in the world."* — **Andy McGuire** (Discussing linguistic elitism with Andrea)
 - *"Hoʻoponopono means reconciliation, forgiveness, and mental cleansing—to make right and make good. Put emphasis on cleaning the inner projector of the mind, connecting to the Stoic inversion."* — **Andy McGuire** (Creative reflection on Hawaiian spirituality and Stoicism)
+- *"In meditation, you don't have to try to get anywhere else. You only have to allow yourself to be where you already are. This sounds simple, but it's actually radical. Almost all of our energy goes into trying to fix, adjust, manage, or improve things. Non-striving involves simply letting this moment be as it is. If you're tired, let yourself feel tired. If you're anxious, feel anxious. The moment we stop trying to manufacture a better feeling and simply befriend the one we have, an enormous burden falls away."* — **Jon Kabat-Zinn** (Read and contemplated by Andy McGuire during ESCOM meeting)
+- *"They don't know if you made a mistake unless you let them know."* — **Andy McGuire** (Recalling college speech class lesson during solitary ESCOM meeting)
+- *"I think it's really important for us to check on, not just assume things—with humans too, not just AI, but humans too."* — **Andy McGuire** (Contemplating proactive verification with technology and relationships)
+- *"Pat talked about his Native American elder friend in Schurz, Nevada... going to a portable out in the middle of the desert on a dusty road and not having anybody come in for maybe a year, and somebody finally did come in... That's an emphasis for me: to really look at my side of the street regardless of what's happening with me."* — **Andy McGuire** (Contemplating dedication to spiritual practice)
 - *"I know it's pretty colorful but it's almost in the body. Okay that's just so everyone knows we're good."* — **Andrea McGuire** (Evening domestic conversation with Andy)
 
 ---
@@ -355,11 +384,12 @@ Andy joined the scheduled Insight Berkeley sitting group via Zoom, participating
 ## 📻 Miscellaneous Media & References Encountered
 
 ### Community & Contemplative Gatherings
-- **Living Mindfully ESCOM Club Meeting**: Weekly Thursday afternoon gathering at College of Marin (Elizabeth Deedy Hall Rm 111 & Zoom), facilitated by Andy.
+- **Living Mindfully ESCOM Club Meeting**: Weekly Thursday afternoon gathering at College of Marin (Elizabeth Deedy Hall Rm 111 & Zoom). Facilitated solo by Andy as a personal journal reflection and 17-minute meditation sit exploring Jon Kabat-Zinn's *Wherever You Go, There You Are*, sensory grasping, biofeedback, and Pat's Nevada recovery story.
 - **Insight Berkeley Sangha**: Scheduled Thursday evening community sitting group via Zoom.
 - **Insight Retreat Center**: Coordination with John O'Connor regarding upcoming Saturday Zoom sessions.
 
 ### Technology & Audio Systems
 - **Linearity High-Fidelity Audio**: 12.4 hours continuous 48 kHz uncompressed audio captured (`20261008_001.WAV` and `20261008_001.mp3`).
 - **Plaud Note S3 Cloud Ingest**: Three separate sessions captured (Early Morning 03:26, ESCOM Club Meeting 09:53, and 2.5-hour Evening Connection with Andrea 18:03).
+- **Krisp AI Meeting Assistant**: High-accuracy transcription and meeting note generation for the 36-minute solo ESCOM session.
 - **Digital Publishing**: Cleaned PDF, Markdown, and Kindle-compatible ePUB formats completed for Tony's memorial book.
