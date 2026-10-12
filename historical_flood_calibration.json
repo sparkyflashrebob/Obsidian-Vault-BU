@@ -1,0 +1,4552 @@
+[
+  {
+    "date": "2026-10-11",
+    "photo_count": 11,
+    "max_verified_navd88": 7.633,
+    "max_verified_time": "2026-10-11 12:24",
+    "max_pred_navd88": 6.143,
+    "max_pred_time": "2026-10-11 12:18",
+    "max_surge_ft": 1.49,
+    "photos": [
+      {
+        "filename": "20261011_123907.mp4",
+        "time": "12:39:07",
+        "water_level_navd88": 7.57,
+        "gps": null,
+        "camera": null,
+        "active_tiers": [
+          "STREET_GUTTER (+0.87 ft)",
+          "STREET_CORNER (+0.62 ft)",
+          "STREET_CROWN (+0.26 ft)",
+          "PARKING_AISLE (+0.12 ft)",
+          "APPROACHING PRIUS_STALL (-0.18 ft)"
+        ]
+      },
+      {
+        "filename": "20261011_124023.mp4",
+        "time": "12:40:23",
+        "water_level_navd88": 7.57,
+        "gps": null,
+        "camera": null,
+        "active_tiers": [
+          "STREET_GUTTER (+0.87 ft)",
+          "STREET_CORNER (+0.62 ft)",
+          "STREET_CROWN (+0.26 ft)",
+          "PARKING_AISLE (+0.12 ft)",
+          "APPROACHING PRIUS_STALL (-0.18 ft)"
+        ]
+      },
+      {
+        "filename": "20261011_124156.heic",
+        "time": "12:41:57",
+        "water_level_navd88": 7.57,
+        "gps": {
+          "lat": 37.940873,
+          "lon": -122.534649,
+          "alt_m": 22.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.87 ft)",
+          "STREET_CORNER (+0.62 ft)",
+          "STREET_CROWN (+0.26 ft)",
+          "PARKING_AISLE (+0.12 ft)",
+          "APPROACHING PRIUS_STALL (-0.18 ft)"
+        ]
+      },
+      {
+        "filename": "20261011_124245.heic",
+        "time": "12:42:45",
+        "water_level_navd88": 7.57,
+        "gps": {
+          "lat": 37.940861,
+          "lon": -122.534643,
+          "alt_m": null
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.87 ft)",
+          "STREET_CORNER (+0.62 ft)",
+          "STREET_CROWN (+0.26 ft)",
+          "PARKING_AISLE (+0.12 ft)",
+          "APPROACHING PRIUS_STALL (-0.18 ft)"
+        ]
+      },
+      {
+        "filename": "20261011_124253.heic",
+        "time": "12:42:53",
+        "water_level_navd88": 7.57,
+        "gps": {
+          "lat": 37.940861,
+          "lon": -122.534643,
+          "alt_m": null
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.87 ft)",
+          "STREET_CORNER (+0.62 ft)",
+          "STREET_CROWN (+0.26 ft)",
+          "PARKING_AISLE (+0.12 ft)",
+          "APPROACHING PRIUS_STALL (-0.18 ft)"
+        ]
+      },
+      {
+        "filename": "20261011_124643.heic",
+        "time": "12:46:43",
+        "water_level_navd88": 7.521,
+        "gps": {
+          "lat": 37.940842,
+          "lon": -122.534835,
+          "alt_m": null
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.82 ft)",
+          "STREET_CORNER (+0.57 ft)",
+          "STREET_CROWN (+0.21 ft)",
+          "PARKING_AISLE (+0.07 ft)",
+          "APPROACHING PRIUS_STALL (-0.23 ft)"
+        ]
+      },
+      {
+        "filename": "20261011_124749.heic",
+        "time": "12:47:49",
+        "water_level_navd88": 7.521,
+        "gps": {
+          "lat": 37.940827,
+          "lon": -122.534793,
+          "alt_m": 28.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.82 ft)",
+          "STREET_CORNER (+0.57 ft)",
+          "STREET_CROWN (+0.21 ft)",
+          "PARKING_AISLE (+0.07 ft)",
+          "APPROACHING PRIUS_STALL (-0.23 ft)"
+        ]
+      },
+      {
+        "filename": "20261011_124757.heic",
+        "time": "12:47:56",
+        "water_level_navd88": 7.521,
+        "gps": {
+          "lat": 37.940827,
+          "lon": -122.534793,
+          "alt_m": 28.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.82 ft)",
+          "STREET_CORNER (+0.57 ft)",
+          "STREET_CROWN (+0.21 ft)",
+          "PARKING_AISLE (+0.07 ft)",
+          "APPROACHING PRIUS_STALL (-0.23 ft)"
+        ]
+      },
+      {
+        "filename": "20261011_124820.heic",
+        "time": "12:48:20",
+        "water_level_navd88": 7.521,
+        "gps": {
+          "lat": 37.940827,
+          "lon": -122.534793,
+          "alt_m": 28.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.82 ft)",
+          "STREET_CORNER (+0.57 ft)",
+          "STREET_CROWN (+0.21 ft)",
+          "PARKING_AISLE (+0.07 ft)",
+          "APPROACHING PRIUS_STALL (-0.23 ft)"
+        ]
+      },
+      {
+        "filename": "20261011_130111.heic",
+        "time": "13:01:11",
+        "water_level_navd88": 7.396,
+        "gps": {
+          "lat": 37.94086,
+          "lon": -122.534818,
+          "alt_m": 24.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.70 ft)",
+          "STREET_CORNER (+0.45 ft)",
+          "STREET_CROWN (+0.09 ft)",
+          "APPROACHING PARKING_AISLE (-0.05 ft)"
+        ]
+      },
+      {
+        "filename": "20261011_130116.heic",
+        "time": "13:01:16",
+        "water_level_navd88": 7.396,
+        "gps": {
+          "lat": 37.94086,
+          "lon": -122.534818,
+          "alt_m": 24.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.70 ft)",
+          "STREET_CORNER (+0.45 ft)",
+          "STREET_CROWN (+0.09 ft)",
+          "APPROACHING PARKING_AISLE (-0.05 ft)"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-10-10",
+    "photo_count": 6,
+    "max_verified_navd88": 7.518,
+    "max_verified_time": "2026-10-10 12:00",
+    "max_pred_navd88": 6.121,
+    "max_pred_time": "2026-10-10 11:48",
+    "max_surge_ft": 1.4,
+    "photos": [
+      {
+        "filename": "20261010_124609.heic",
+        "time": "12:46:09",
+        "water_level_navd88": 7.203,
+        "gps": {
+          "lat": 37.940858,
+          "lon": -122.535002,
+          "alt_m": 28.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.50 ft)",
+          "STREET_CORNER (+0.25 ft)",
+          "APPROACHING STREET_CROWN (-0.11 ft)",
+          "APPROACHING PARKING_AISLE (-0.25 ft)"
+        ]
+      },
+      {
+        "filename": "20261010_124619.heic",
+        "time": "12:46:19",
+        "water_level_navd88": 7.203,
+        "gps": {
+          "lat": 37.940858,
+          "lon": -122.535002,
+          "alt_m": 28.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.50 ft)",
+          "STREET_CORNER (+0.25 ft)",
+          "APPROACHING STREET_CROWN (-0.11 ft)",
+          "APPROACHING PARKING_AISLE (-0.25 ft)"
+        ]
+      },
+      {
+        "filename": "20261010_124646.heic",
+        "time": "12:46:46",
+        "water_level_navd88": 7.203,
+        "gps": {
+          "lat": 37.940858,
+          "lon": -122.535002,
+          "alt_m": 28.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.50 ft)",
+          "STREET_CORNER (+0.25 ft)",
+          "APPROACHING STREET_CROWN (-0.11 ft)",
+          "APPROACHING PARKING_AISLE (-0.25 ft)"
+        ]
+      },
+      {
+        "filename": "20261010_124742.heic",
+        "time": "12:47:43",
+        "water_level_navd88": 7.203,
+        "gps": {
+          "lat": 37.940858,
+          "lon": -122.534771,
+          "alt_m": 26.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.50 ft)",
+          "STREET_CORNER (+0.25 ft)",
+          "APPROACHING STREET_CROWN (-0.11 ft)",
+          "APPROACHING PARKING_AISLE (-0.25 ft)"
+        ]
+      },
+      {
+        "filename": "20261010_124947.heic",
+        "time": "12:49:47",
+        "water_level_navd88": 7.203,
+        "gps": {
+          "lat": 37.941207,
+          "lon": -122.534055,
+          "alt_m": 27.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.50 ft)",
+          "STREET_CORNER (+0.25 ft)",
+          "APPROACHING STREET_CROWN (-0.11 ft)",
+          "APPROACHING PARKING_AISLE (-0.25 ft)"
+        ]
+      },
+      {
+        "filename": "20261010_125241.heic",
+        "time": "12:52:41",
+        "water_level_navd88": 7.121,
+        "gps": {
+          "lat": 37.941197,
+          "lon": -122.534069,
+          "alt_m": 30.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.42 ft)",
+          "STREET_CORNER (+0.17 ft)",
+          "APPROACHING STREET_CROWN (-0.19 ft)"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-08-07",
+    "photo_count": 3,
+    "max_verified_navd88": 6.796,
+    "max_verified_time": "2026-08-07 19:00",
+    "max_pred_navd88": 6.497,
+    "max_pred_time": "2026-08-07 18:54",
+    "max_surge_ft": 0.3,
+    "photos": [
+      {
+        "filename": "20260807_193042.heic",
+        "time": "19:30:42",
+        "water_level_navd88": 6.694,
+        "gps": {
+          "lat": 37.940343,
+          "lon": -122.535285,
+          "alt_m": 19.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "APPROACHING STREET_GUTTER (-0.01 ft)"
+        ]
+      },
+      {
+        "filename": "20260807_193055.heic",
+        "time": "19:30:55",
+        "water_level_navd88": 6.694,
+        "gps": {
+          "lat": 37.94034,
+          "lon": -122.535284,
+          "alt_m": 20.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "APPROACHING STREET_GUTTER (-0.01 ft)"
+        ]
+      },
+      {
+        "filename": "20260807_193128.heic",
+        "time": "19:31:28",
+        "water_level_navd88": 6.694,
+        "gps": {
+          "lat": 37.940255,
+          "lon": -122.535268,
+          "alt_m": 26.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "APPROACHING STREET_GUTTER (-0.01 ft)"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-07-14",
+    "photo_count": 4,
+    "max_verified_navd88": 7.606,
+    "max_verified_time": "2026-07-14 23:54",
+    "max_pred_navd88": 7.134,
+    "max_pred_time": "2026-07-14 23:54",
+    "max_surge_ft": 0.47,
+    "photos": [
+      {
+        "filename": "20260714_000925.jpg",
+        "time": "00:09:25",
+        "water_level_navd88": 7.295,
+        "gps": {
+          "lat": 37.940779,
+          "lon": -122.53499,
+          "alt_m": 28.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.59 ft)",
+          "STREET_CORNER (+0.34 ft)",
+          "APPROACHING STREET_CROWN (-0.01 ft)",
+          "APPROACHING PARKING_AISLE (-0.16 ft)"
+        ]
+      },
+      {
+        "filename": "20260714_000933.jpg",
+        "time": "00:09:33",
+        "water_level_navd88": 7.295,
+        "gps": {
+          "lat": 37.940779,
+          "lon": -122.53499,
+          "alt_m": 28.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.59 ft)",
+          "STREET_CORNER (+0.34 ft)",
+          "APPROACHING STREET_CROWN (-0.01 ft)",
+          "APPROACHING PARKING_AISLE (-0.16 ft)"
+        ]
+      },
+      {
+        "filename": "20260714_001022.jpg",
+        "time": "00:10:22",
+        "water_level_navd88": 7.295,
+        "gps": {
+          "lat": 37.940781,
+          "lon": -122.534998,
+          "alt_m": 25.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.59 ft)",
+          "STREET_CORNER (+0.34 ft)",
+          "APPROACHING STREET_CROWN (-0.01 ft)",
+          "APPROACHING PARKING_AISLE (-0.16 ft)"
+        ]
+      },
+      {
+        "filename": "20260714_001046.jpg",
+        "time": "00:10:46",
+        "water_level_navd88": 7.295,
+        "gps": {
+          "lat": 37.940781,
+          "lon": -122.534998,
+          "alt_m": 25.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.59 ft)",
+          "STREET_CORNER (+0.34 ft)",
+          "APPROACHING STREET_CROWN (-0.01 ft)",
+          "APPROACHING PARKING_AISLE (-0.16 ft)"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-07-12",
+    "photo_count": 6,
+    "max_verified_navd88": 7.711,
+    "max_verified_time": "2026-07-12 22:12",
+    "max_pred_navd88": 7.208,
+    "max_pred_time": "2026-07-12 22:06",
+    "max_surge_ft": 0.5,
+    "photos": [
+      {
+        "filename": "20260712_225303.jpg",
+        "time": "22:53:03",
+        "water_level_navd88": 7.554,
+        "gps": {
+          "lat": 37.940726,
+          "lon": -122.535014,
+          "alt_m": null
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.85 ft)",
+          "STREET_CORNER (+0.60 ft)",
+          "STREET_CROWN (+0.24 ft)",
+          "PARKING_AISLE (+0.10 ft)",
+          "APPROACHING PRIUS_STALL (-0.20 ft)"
+        ]
+      },
+      {
+        "filename": "20260712_225350.jpg",
+        "time": "22:53:50",
+        "water_level_navd88": 7.554,
+        "gps": {
+          "lat": 37.940697,
+          "lon": -122.535012,
+          "alt_m": 28.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.85 ft)",
+          "STREET_CORNER (+0.60 ft)",
+          "STREET_CROWN (+0.24 ft)",
+          "PARKING_AISLE (+0.10 ft)",
+          "APPROACHING PRIUS_STALL (-0.20 ft)"
+        ]
+      },
+      {
+        "filename": "20260712_225519.jpg",
+        "time": "22:55:19",
+        "water_level_navd88": 7.554,
+        "gps": {
+          "lat": 37.940816,
+          "lon": -122.534574,
+          "alt_m": 27.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.85 ft)",
+          "STREET_CORNER (+0.60 ft)",
+          "STREET_CROWN (+0.24 ft)",
+          "PARKING_AISLE (+0.10 ft)",
+          "APPROACHING PRIUS_STALL (-0.20 ft)"
+        ]
+      },
+      {
+        "filename": "20260712_225539.jpg",
+        "time": "22:55:40",
+        "water_level_navd88": 7.554,
+        "gps": {
+          "lat": 37.940856,
+          "lon": -122.53457,
+          "alt_m": 29.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.85 ft)",
+          "STREET_CORNER (+0.60 ft)",
+          "STREET_CROWN (+0.24 ft)",
+          "PARKING_AISLE (+0.10 ft)",
+          "APPROACHING PRIUS_STALL (-0.20 ft)"
+        ]
+      },
+      {
+        "filename": "20260712_225636.jpg",
+        "time": "22:56:37",
+        "water_level_navd88": 7.554,
+        "gps": {
+          "lat": 37.941319,
+          "lon": -122.534275,
+          "alt_m": 28.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.85 ft)",
+          "STREET_CORNER (+0.60 ft)",
+          "STREET_CROWN (+0.24 ft)",
+          "PARKING_AISLE (+0.10 ft)",
+          "APPROACHING PRIUS_STALL (-0.20 ft)"
+        ]
+      },
+      {
+        "filename": "20260712_225702.jpg",
+        "time": "22:57:02",
+        "water_level_navd88": 7.488,
+        "gps": {
+          "lat": 37.941319,
+          "lon": -122.534275,
+          "alt_m": 28.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.79 ft)",
+          "STREET_CORNER (+0.54 ft)",
+          "STREET_CROWN (+0.18 ft)",
+          "PARKING_AISLE (+0.04 ft)"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-06-14",
+    "photo_count": 2,
+    "max_verified_navd88": 7.872,
+    "max_verified_time": "2026-06-14 23:18",
+    "max_pred_navd88": 7.156,
+    "max_pred_time": "2026-06-14 23:12",
+    "max_surge_ft": 0.72,
+    "photos": [
+      {
+        "filename": "20260614_221321.heic",
+        "time": "22:13:20",
+        "water_level_navd88": 7.468,
+        "gps": {
+          "lat": 37.940397,
+          "lon": -122.535148,
+          "alt_m": 29.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.77 ft)",
+          "STREET_CORNER (+0.52 ft)",
+          "STREET_CROWN (+0.16 ft)",
+          "PARKING_AISLE (+0.02 ft)"
+        ]
+      },
+      {
+        "filename": "20260614_223512.heic",
+        "time": "22:35:11",
+        "water_level_navd88": 7.695,
+        "gps": {
+          "lat": 37.940356,
+          "lon": -122.535302,
+          "alt_m": 28.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+1.00 ft)",
+          "STREET_CORNER (+0.75 ft)",
+          "STREET_CROWN (+0.39 ft)",
+          "PARKING_AISLE (+0.25 ft)",
+          "APPROACHING PRIUS_STALL (-0.05 ft)"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-02-16",
+    "photo_count": 2,
+    "max_verified_navd88": 7.38,
+    "max_verified_time": "2026-02-16 10:18",
+    "max_pred_navd88": 6.08,
+    "max_pred_time": "2026-02-16 10:18",
+    "max_surge_ft": 1.3,
+    "photos": [
+      {
+        "filename": "20260216_091958.heic",
+        "time": "09:19:58",
+        "water_level_navd88": 7.029,
+        "gps": {
+          "lat": 37.942617,
+          "lon": -122.537464,
+          "alt_m": 28.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.33 ft)",
+          "STREET_CORNER (+0.08 ft)"
+        ]
+      },
+      {
+        "filename": "20260216_092013.heic",
+        "time": "09:20:13",
+        "water_level_navd88": 7.029,
+        "gps": {
+          "lat": 37.942617,
+          "lon": -122.537464,
+          "alt_m": 28.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.33 ft)",
+          "STREET_CORNER (+0.08 ft)"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-02-01",
+    "photo_count": 4,
+    "max_verified_navd88": 7.255,
+    "max_verified_time": "2026-02-01 10:24",
+    "max_pred_navd88": 6.815,
+    "max_pred_time": "2026-02-01 10:24",
+    "max_surge_ft": 0.44,
+    "photos": [
+      {
+        "filename": "20260201_114653.heic",
+        "time": "11:46:53",
+        "water_level_navd88": 6.438,
+        "gps": {
+          "lat": 37.940163,
+          "lon": -122.535032,
+          "alt_m": 30.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": []
+      },
+      {
+        "filename": "20260201_115406.heic",
+        "time": "11:54:06",
+        "water_level_navd88": 6.379,
+        "gps": {
+          "lat": 37.94079,
+          "lon": -122.534972,
+          "alt_m": 24.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": []
+      },
+      {
+        "filename": "20260201_115543.heic",
+        "time": "11:55:44",
+        "water_level_navd88": 6.379,
+        "gps": {
+          "lat": 37.940791,
+          "lon": -122.534959,
+          "alt_m": 23.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": []
+      },
+      {
+        "filename": "20260201_115704.heic",
+        "time": "11:57:04",
+        "water_level_navd88": 6.271,
+        "gps": {
+          "lat": 37.940788,
+          "lon": -122.534953,
+          "alt_m": 25.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": []
+      }
+    ]
+  },
+  {
+    "date": "2026-01-05",
+    "photo_count": 23,
+    "max_verified_navd88": 7.692,
+    "max_verified_time": "2026-01-05 12:12",
+    "max_pred_navd88": 6.583,
+    "max_pred_time": "2026-01-05 12:06",
+    "max_surge_ft": 1.11,
+    "photos": [
+      {
+        "filename": "20260105_120750.heic",
+        "time": "12:07:50",
+        "water_level_navd88": 7.669,
+        "gps": {
+          "lat": 37.940953,
+          "lon": -122.534522,
+          "alt_m": 24.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.97 ft)",
+          "STREET_CORNER (+0.72 ft)",
+          "STREET_CROWN (+0.36 ft)",
+          "PARKING_AISLE (+0.22 ft)",
+          "APPROACHING PRIUS_STALL (-0.08 ft)"
+        ]
+      },
+      {
+        "filename": "20260105_120754.heic",
+        "time": "12:07:54",
+        "water_level_navd88": 7.669,
+        "gps": {
+          "lat": 37.940912,
+          "lon": -122.534534,
+          "alt_m": 26.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.97 ft)",
+          "STREET_CORNER (+0.72 ft)",
+          "STREET_CROWN (+0.36 ft)",
+          "PARKING_AISLE (+0.22 ft)",
+          "APPROACHING PRIUS_STALL (-0.08 ft)"
+        ]
+      },
+      {
+        "filename": "20260105_121021.mp4",
+        "time": "12:10:21",
+        "water_level_navd88": 7.692,
+        "gps": null,
+        "camera": null,
+        "active_tiers": [
+          "STREET_GUTTER (+0.99 ft)",
+          "STREET_CORNER (+0.74 ft)",
+          "STREET_CROWN (+0.38 ft)",
+          "PARKING_AISLE (+0.24 ft)",
+          "APPROACHING PRIUS_STALL (-0.06 ft)"
+        ]
+      },
+      {
+        "filename": "20260105_121246.heic",
+        "time": "12:12:46",
+        "water_level_navd88": 7.692,
+        "gps": {
+          "lat": 37.940556,
+          "lon": -122.53496,
+          "alt_m": 31.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.99 ft)",
+          "STREET_CORNER (+0.74 ft)",
+          "STREET_CROWN (+0.38 ft)",
+          "PARKING_AISLE (+0.24 ft)",
+          "APPROACHING PRIUS_STALL (-0.06 ft)"
+        ]
+      },
+      {
+        "filename": "20260105_121804.heic",
+        "time": "12:18:04",
+        "water_level_navd88": 7.665,
+        "gps": {
+          "lat": 37.940487,
+          "lon": -122.534848,
+          "alt_m": 30.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.96 ft)",
+          "STREET_CORNER (+0.71 ft)",
+          "STREET_CROWN (+0.36 ft)",
+          "PARKING_AISLE (+0.21 ft)",
+          "APPROACHING PRIUS_STALL (-0.08 ft)"
+        ]
+      },
+      {
+        "filename": "20260105_121807.heic",
+        "time": "12:18:07",
+        "water_level_navd88": 7.665,
+        "gps": {
+          "lat": 37.940509,
+          "lon": -122.534881,
+          "alt_m": 28.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.96 ft)",
+          "STREET_CORNER (+0.71 ft)",
+          "STREET_CROWN (+0.36 ft)",
+          "PARKING_AISLE (+0.21 ft)",
+          "APPROACHING PRIUS_STALL (-0.08 ft)"
+        ]
+      },
+      {
+        "filename": "20260105_121847.heic",
+        "time": "12:18:47",
+        "water_level_navd88": 7.665,
+        "gps": {
+          "lat": 37.94062,
+          "lon": -122.534964,
+          "alt_m": 27.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.96 ft)",
+          "STREET_CORNER (+0.71 ft)",
+          "STREET_CROWN (+0.36 ft)",
+          "PARKING_AISLE (+0.21 ft)",
+          "APPROACHING PRIUS_STALL (-0.08 ft)"
+        ]
+      },
+      {
+        "filename": "20260105_121850.heic",
+        "time": "12:18:50",
+        "water_level_navd88": 7.665,
+        "gps": {
+          "lat": 37.94062,
+          "lon": -122.534964,
+          "alt_m": 27.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.96 ft)",
+          "STREET_CORNER (+0.71 ft)",
+          "STREET_CROWN (+0.36 ft)",
+          "PARKING_AISLE (+0.21 ft)",
+          "APPROACHING PRIUS_STALL (-0.08 ft)"
+        ]
+      },
+      {
+        "filename": "20260105_132157.heic",
+        "time": "13:21:57",
+        "water_level_navd88": 7.117,
+        "gps": {
+          "lat": 37.940803,
+          "lon": -122.534976,
+          "alt_m": 27.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.42 ft)",
+          "STREET_CORNER (+0.17 ft)",
+          "APPROACHING STREET_CROWN (-0.19 ft)"
+        ]
+      },
+      {
+        "filename": "20260105_132205.heic",
+        "time": "13:22:05",
+        "water_level_navd88": 7.117,
+        "gps": {
+          "lat": 37.940803,
+          "lon": -122.534976,
+          "alt_m": 27.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.42 ft)",
+          "STREET_CORNER (+0.17 ft)",
+          "APPROACHING STREET_CROWN (-0.19 ft)"
+        ]
+      },
+      {
+        "filename": "20260105_132233.heic",
+        "time": "13:22:33",
+        "water_level_navd88": 7.117,
+        "gps": {
+          "lat": 37.940803,
+          "lon": -122.534976,
+          "alt_m": 27.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.42 ft)",
+          "STREET_CORNER (+0.17 ft)",
+          "APPROACHING STREET_CROWN (-0.19 ft)"
+        ]
+      },
+      {
+        "filename": "20260105_132318.heic",
+        "time": "13:23:18",
+        "water_level_navd88": 7.117,
+        "gps": {
+          "lat": 37.940806,
+          "lon": -122.534509,
+          "alt_m": 31.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.42 ft)",
+          "STREET_CORNER (+0.17 ft)",
+          "APPROACHING STREET_CROWN (-0.19 ft)"
+        ]
+      },
+      {
+        "filename": "20260105_132334.heic",
+        "time": "13:23:34",
+        "water_level_navd88": 7.117,
+        "gps": {
+          "lat": 37.940806,
+          "lon": -122.534509,
+          "alt_m": 31.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.42 ft)",
+          "STREET_CORNER (+0.17 ft)",
+          "APPROACHING STREET_CROWN (-0.19 ft)"
+        ]
+      },
+      {
+        "filename": "20260105_132449.heic",
+        "time": "13:24:49",
+        "water_level_navd88": 7.117,
+        "gps": {
+          "lat": 37.940862,
+          "lon": -122.534517,
+          "alt_m": 21.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.42 ft)",
+          "STREET_CORNER (+0.17 ft)",
+          "APPROACHING STREET_CROWN (-0.19 ft)"
+        ]
+      },
+      {
+        "filename": "20260105_132455.heic",
+        "time": "13:24:55",
+        "water_level_navd88": 7.117,
+        "gps": {
+          "lat": 37.940862,
+          "lon": -122.534517,
+          "alt_m": 21.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.42 ft)",
+          "STREET_CORNER (+0.17 ft)",
+          "APPROACHING STREET_CROWN (-0.19 ft)"
+        ]
+      },
+      {
+        "filename": "20260105_132559.heic",
+        "time": "13:25:59",
+        "water_level_navd88": 7.117,
+        "gps": {
+          "lat": 37.940824,
+          "lon": -122.534863,
+          "alt_m": 32.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.42 ft)",
+          "STREET_CORNER (+0.17 ft)",
+          "APPROACHING STREET_CROWN (-0.19 ft)"
+        ]
+      },
+      {
+        "filename": "20260105_142857.heic",
+        "time": "14:28:57",
+        "water_level_navd88": 5.628,
+        "gps": {
+          "lat": 37.940803,
+          "lon": -122.534892,
+          "alt_m": 12.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": []
+      },
+      {
+        "filename": "20260105_142914.heic",
+        "time": "14:29:14",
+        "water_level_navd88": 5.628,
+        "gps": {
+          "lat": 37.940803,
+          "lon": -122.534892,
+          "alt_m": 12.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": []
+      },
+      {
+        "filename": "20260105_142924.heic",
+        "time": "14:29:24",
+        "water_level_navd88": 5.628,
+        "gps": {
+          "lat": 37.940803,
+          "lon": -122.534892,
+          "alt_m": 12.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": []
+      },
+      {
+        "filename": "20260105_142940.heic",
+        "time": "14:29:40",
+        "water_level_navd88": 5.628,
+        "gps": {
+          "lat": 37.940803,
+          "lon": -122.534892,
+          "alt_m": 12.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": []
+      },
+      {
+        "filename": "20260105_143033.heic",
+        "time": "14:30:32",
+        "water_level_navd88": 5.628,
+        "gps": {
+          "lat": 37.940864,
+          "lon": -122.534771,
+          "alt_m": 32.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": []
+      },
+      {
+        "filename": "20260105_143036.heic",
+        "time": "14:30:36",
+        "water_level_navd88": 5.628,
+        "gps": {
+          "lat": 37.940864,
+          "lon": -122.534771,
+          "alt_m": 32.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": []
+      },
+      {
+        "filename": "20260105_143105.heic",
+        "time": "14:31:05",
+        "water_level_navd88": 5.628,
+        "gps": {
+          "lat": 37.940672,
+          "lon": -122.534546,
+          "alt_m": 44.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": []
+      }
+    ]
+  },
+  {
+    "date": "2026-01-04",
+    "photo_count": 51,
+    "max_verified_navd88": 7.997,
+    "max_verified_time": "2026-01-04 11:42",
+    "max_pred_navd88": 6.976,
+    "max_pred_time": "2026-01-04 11:18",
+    "max_surge_ft": 1.02,
+    "photos": [
+      {
+        "filename": "20260104_093810.heic",
+        "time": "09:38:10",
+        "water_level_navd88": 6.999,
+        "gps": {
+          "lat": 37.939338,
+          "lon": -122.535274,
+          "alt_m": 32.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.30 ft)",
+          "STREET_CORNER (+0.05 ft)"
+        ]
+      },
+      {
+        "filename": "20260104_102639.heic",
+        "time": "10:26:39",
+        "water_level_navd88": 7.623,
+        "gps": {
+          "lat": 37.940377,
+          "lon": -122.535001,
+          "alt_m": 33.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.92 ft)",
+          "STREET_CORNER (+0.67 ft)",
+          "STREET_CROWN (+0.31 ft)",
+          "PARKING_AISLE (+0.17 ft)",
+          "APPROACHING PRIUS_STALL (-0.13 ft)"
+        ]
+      },
+      {
+        "filename": "20260104_102649.heic",
+        "time": "10:26:49",
+        "water_level_navd88": 7.623,
+        "gps": {
+          "lat": 37.940377,
+          "lon": -122.535001,
+          "alt_m": 33.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.92 ft)",
+          "STREET_CORNER (+0.67 ft)",
+          "STREET_CROWN (+0.31 ft)",
+          "PARKING_AISLE (+0.17 ft)",
+          "APPROACHING PRIUS_STALL (-0.13 ft)"
+        ]
+      },
+      {
+        "filename": "20260104_102754.heic",
+        "time": "10:27:54",
+        "water_level_navd88": 7.688,
+        "gps": {
+          "lat": 37.940507,
+          "lon": -122.535135,
+          "alt_m": 38.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.99 ft)",
+          "STREET_CORNER (+0.74 ft)",
+          "STREET_CROWN (+0.38 ft)",
+          "PARKING_AISLE (+0.24 ft)",
+          "APPROACHING PRIUS_STALL (-0.06 ft)"
+        ]
+      },
+      {
+        "filename": "20260104_102809.jpg",
+        "time": "10:28:09",
+        "water_level_navd88": 7.688,
+        "gps": {
+          "lat": 37.940507,
+          "lon": -122.535135,
+          "alt_m": 38.1
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.99 ft)",
+          "STREET_CORNER (+0.74 ft)",
+          "STREET_CROWN (+0.38 ft)",
+          "PARKING_AISLE (+0.24 ft)",
+          "APPROACHING PRIUS_STALL (-0.06 ft)"
+        ]
+      },
+      {
+        "filename": "20260104_102817.heic",
+        "time": "10:28:17",
+        "water_level_navd88": 7.688,
+        "gps": {
+          "lat": 37.940507,
+          "lon": -122.535135,
+          "alt_m": 38.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.99 ft)",
+          "STREET_CORNER (+0.74 ft)",
+          "STREET_CROWN (+0.38 ft)",
+          "PARKING_AISLE (+0.24 ft)",
+          "APPROACHING PRIUS_STALL (-0.06 ft)"
+        ]
+      },
+      {
+        "filename": "20260104_102959.heic",
+        "time": "10:29:59",
+        "water_level_navd88": 7.688,
+        "gps": {
+          "lat": 37.940243,
+          "lon": -122.535197,
+          "alt_m": 31.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.99 ft)",
+          "STREET_CORNER (+0.74 ft)",
+          "STREET_CROWN (+0.38 ft)",
+          "PARKING_AISLE (+0.24 ft)",
+          "APPROACHING PRIUS_STALL (-0.06 ft)"
+        ]
+      },
+      {
+        "filename": "20260104_103007.heic",
+        "time": "10:30:07",
+        "water_level_navd88": 7.688,
+        "gps": {
+          "lat": 37.940243,
+          "lon": -122.535197,
+          "alt_m": 31.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.99 ft)",
+          "STREET_CORNER (+0.74 ft)",
+          "STREET_CROWN (+0.38 ft)",
+          "PARKING_AISLE (+0.24 ft)",
+          "APPROACHING PRIUS_STALL (-0.06 ft)"
+        ]
+      },
+      {
+        "filename": "20260104_103702.heic",
+        "time": "10:37:02",
+        "water_level_navd88": 7.731,
+        "gps": {
+          "lat": 37.940806,
+          "lon": -122.534573,
+          "alt_m": 36.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+1.03 ft)",
+          "STREET_CORNER (+0.78 ft)",
+          "STREET_CROWN (+0.42 ft)",
+          "PARKING_AISLE (+0.28 ft)",
+          "APPROACHING PRIUS_STALL (-0.02 ft)"
+        ]
+      },
+      {
+        "filename": "20260104_103951.heic",
+        "time": "10:39:51",
+        "water_level_navd88": 7.816,
+        "gps": {
+          "lat": 37.940843,
+          "lon": -122.534578,
+          "alt_m": 34.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+1.12 ft)",
+          "STREET_CORNER (+0.87 ft)",
+          "STREET_CROWN (+0.51 ft)",
+          "PARKING_AISLE (+0.37 ft)",
+          "PRIUS_STALL (+0.07 ft)"
+        ]
+      },
+      {
+        "filename": "20260104_113319.heic",
+        "time": "11:33:19",
+        "water_level_navd88": 7.99,
+        "gps": {
+          "lat": 37.940767,
+          "lon": -122.534948,
+          "alt_m": 32.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+1.29 ft)",
+          "STREET_CORNER (+1.04 ft)",
+          "STREET_CROWN (+0.68 ft)",
+          "PARKING_AISLE (+0.54 ft)",
+          "PRIUS_STALL (+0.24 ft)"
+        ]
+      },
+      {
+        "filename": "20260104_113326.heic",
+        "time": "11:33:26",
+        "water_level_navd88": 7.99,
+        "gps": {
+          "lat": 37.940767,
+          "lon": -122.534948,
+          "alt_m": 32.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+1.29 ft)",
+          "STREET_CORNER (+1.04 ft)",
+          "STREET_CROWN (+0.68 ft)",
+          "PARKING_AISLE (+0.54 ft)",
+          "PRIUS_STALL (+0.24 ft)"
+        ]
+      },
+      {
+        "filename": "20260104_113351.heic",
+        "time": "11:33:51",
+        "water_level_navd88": 7.99,
+        "gps": {
+          "lat": 37.940767,
+          "lon": -122.534948,
+          "alt_m": 32.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+1.29 ft)",
+          "STREET_CORNER (+1.04 ft)",
+          "STREET_CROWN (+0.68 ft)",
+          "PARKING_AISLE (+0.54 ft)",
+          "PRIUS_STALL (+0.24 ft)"
+        ]
+      },
+      {
+        "filename": "20260104_113410.heic",
+        "time": "11:34:10",
+        "water_level_navd88": 7.99,
+        "gps": {
+          "lat": 37.940767,
+          "lon": -122.534948,
+          "alt_m": 32.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+1.29 ft)",
+          "STREET_CORNER (+1.04 ft)",
+          "STREET_CROWN (+0.68 ft)",
+          "PARKING_AISLE (+0.54 ft)",
+          "PRIUS_STALL (+0.24 ft)"
+        ]
+      },
+      {
+        "filename": "20260104_113527.heic",
+        "time": "11:35:27",
+        "water_level_navd88": 7.99,
+        "gps": {
+          "lat": 37.9408,
+          "lon": -122.534537,
+          "alt_m": 32.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+1.29 ft)",
+          "STREET_CORNER (+1.04 ft)",
+          "STREET_CROWN (+0.68 ft)",
+          "PARKING_AISLE (+0.54 ft)",
+          "PRIUS_STALL (+0.24 ft)"
+        ]
+      },
+      {
+        "filename": "20260104_120953.heic",
+        "time": "12:09:53",
+        "water_level_navd88": 7.738,
+        "gps": {
+          "lat": 37.940829,
+          "lon": -122.534868,
+          "alt_m": 38.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+1.04 ft)",
+          "STREET_CORNER (+0.79 ft)",
+          "STREET_CROWN (+0.43 ft)",
+          "PARKING_AISLE (+0.29 ft)",
+          "APPROACHING PRIUS_STALL (-0.01 ft)"
+        ]
+      },
+      {
+        "filename": "20260104_121120.heic",
+        "time": "12:11:19",
+        "water_level_navd88": 7.738,
+        "gps": {
+          "lat": 37.940781,
+          "lon": -122.534944,
+          "alt_m": 32.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+1.04 ft)",
+          "STREET_CORNER (+0.79 ft)",
+          "STREET_CROWN (+0.43 ft)",
+          "PARKING_AISLE (+0.29 ft)",
+          "APPROACHING PRIUS_STALL (-0.01 ft)"
+        ]
+      },
+      {
+        "filename": "20260104_121132.heic",
+        "time": "12:11:32",
+        "water_level_navd88": 7.738,
+        "gps": {
+          "lat": 37.940781,
+          "lon": -122.534944,
+          "alt_m": 32.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+1.04 ft)",
+          "STREET_CORNER (+0.79 ft)",
+          "STREET_CROWN (+0.43 ft)",
+          "PARKING_AISLE (+0.29 ft)",
+          "APPROACHING PRIUS_STALL (-0.01 ft)"
+        ]
+      },
+      {
+        "filename": "20260104_121149.mp4",
+        "time": "12:11:49",
+        "water_level_navd88": 7.738,
+        "gps": null,
+        "camera": null,
+        "active_tiers": [
+          "STREET_GUTTER (+1.04 ft)",
+          "STREET_CORNER (+0.79 ft)",
+          "STREET_CROWN (+0.43 ft)",
+          "PARKING_AISLE (+0.29 ft)",
+          "APPROACHING PRIUS_STALL (-0.01 ft)"
+        ]
+      },
+      {
+        "filename": "20260104_121331.heic",
+        "time": "12:13:31",
+        "water_level_navd88": 7.738,
+        "gps": {
+          "lat": 37.94078,
+          "lon": -122.534574,
+          "alt_m": 33.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+1.04 ft)",
+          "STREET_CORNER (+0.79 ft)",
+          "STREET_CROWN (+0.43 ft)",
+          "PARKING_AISLE (+0.29 ft)",
+          "APPROACHING PRIUS_STALL (-0.01 ft)"
+        ]
+      },
+      {
+        "filename": "20260104_121338.heic",
+        "time": "12:13:38",
+        "water_level_navd88": 7.738,
+        "gps": {
+          "lat": 37.94078,
+          "lon": -122.534574,
+          "alt_m": 33.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+1.04 ft)",
+          "STREET_CORNER (+0.79 ft)",
+          "STREET_CROWN (+0.43 ft)",
+          "PARKING_AISLE (+0.29 ft)",
+          "APPROACHING PRIUS_STALL (-0.01 ft)"
+        ]
+      },
+      {
+        "filename": "20260104_121340.heic",
+        "time": "12:13:40",
+        "water_level_navd88": 7.738,
+        "gps": {
+          "lat": 37.94078,
+          "lon": -122.534574,
+          "alt_m": 33.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+1.04 ft)",
+          "STREET_CORNER (+0.79 ft)",
+          "STREET_CROWN (+0.43 ft)",
+          "PARKING_AISLE (+0.29 ft)",
+          "APPROACHING PRIUS_STALL (-0.01 ft)"
+        ]
+      },
+      {
+        "filename": "20260104_121351.heic",
+        "time": "12:13:51",
+        "water_level_navd88": 7.738,
+        "gps": {
+          "lat": 37.94078,
+          "lon": -122.534574,
+          "alt_m": 33.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+1.04 ft)",
+          "STREET_CORNER (+0.79 ft)",
+          "STREET_CROWN (+0.43 ft)",
+          "PARKING_AISLE (+0.29 ft)",
+          "APPROACHING PRIUS_STALL (-0.01 ft)"
+        ]
+      },
+      {
+        "filename": "20260104_121428.heic",
+        "time": "12:14:28",
+        "water_level_navd88": 7.738,
+        "gps": {
+          "lat": 37.94085,
+          "lon": -122.534257,
+          "alt_m": 39.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+1.04 ft)",
+          "STREET_CORNER (+0.79 ft)",
+          "STREET_CROWN (+0.43 ft)",
+          "PARKING_AISLE (+0.29 ft)",
+          "APPROACHING PRIUS_STALL (-0.01 ft)"
+        ]
+      },
+      {
+        "filename": "20260104_121436.heic",
+        "time": "12:14:36",
+        "water_level_navd88": 7.738,
+        "gps": {
+          "lat": 37.94085,
+          "lon": -122.534257,
+          "alt_m": 39.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+1.04 ft)",
+          "STREET_CORNER (+0.79 ft)",
+          "STREET_CROWN (+0.43 ft)",
+          "PARKING_AISLE (+0.29 ft)",
+          "APPROACHING PRIUS_STALL (-0.01 ft)"
+        ]
+      },
+      {
+        "filename": "20260104_121446.heic",
+        "time": "12:14:46",
+        "water_level_navd88": 7.738,
+        "gps": {
+          "lat": 37.94085,
+          "lon": -122.534257,
+          "alt_m": 39.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+1.04 ft)",
+          "STREET_CORNER (+0.79 ft)",
+          "STREET_CROWN (+0.43 ft)",
+          "PARKING_AISLE (+0.29 ft)",
+          "APPROACHING PRIUS_STALL (-0.01 ft)"
+        ]
+      },
+      {
+        "filename": "20260104_121604.heic",
+        "time": "12:16:04",
+        "water_level_navd88": 7.649,
+        "gps": {
+          "lat": 37.940864,
+          "lon": -122.534625,
+          "alt_m": 40.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.95 ft)",
+          "STREET_CORNER (+0.70 ft)",
+          "STREET_CROWN (+0.34 ft)",
+          "PARKING_AISLE (+0.20 ft)",
+          "APPROACHING PRIUS_STALL (-0.10 ft)"
+        ]
+      },
+      {
+        "filename": "20260104_122139.heic",
+        "time": "12:21:39",
+        "water_level_navd88": 7.56,
+        "gps": {
+          "lat": 37.941459,
+          "lon": -122.534881,
+          "alt_m": 37.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.86 ft)",
+          "STREET_CORNER (+0.61 ft)",
+          "STREET_CROWN (+0.25 ft)",
+          "PARKING_AISLE (+0.11 ft)",
+          "APPROACHING PRIUS_STALL (-0.19 ft)"
+        ]
+      },
+      {
+        "filename": "20260104_122152.heic",
+        "time": "12:21:52",
+        "water_level_navd88": 7.56,
+        "gps": {
+          "lat": 37.941459,
+          "lon": -122.534881,
+          "alt_m": 37.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.86 ft)",
+          "STREET_CORNER (+0.61 ft)",
+          "STREET_CROWN (+0.25 ft)",
+          "PARKING_AISLE (+0.11 ft)",
+          "APPROACHING PRIUS_STALL (-0.19 ft)"
+        ]
+      },
+      {
+        "filename": "20260104_122216.heic",
+        "time": "12:22:16",
+        "water_level_navd88": 7.56,
+        "gps": {
+          "lat": 37.941459,
+          "lon": -122.534881,
+          "alt_m": 37.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.86 ft)",
+          "STREET_CORNER (+0.61 ft)",
+          "STREET_CROWN (+0.25 ft)",
+          "PARKING_AISLE (+0.11 ft)",
+          "APPROACHING PRIUS_STALL (-0.19 ft)"
+        ]
+      },
+      {
+        "filename": "20260104_122226.heic",
+        "time": "12:22:26",
+        "water_level_navd88": 7.56,
+        "gps": {
+          "lat": 37.941459,
+          "lon": -122.534881,
+          "alt_m": 37.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.86 ft)",
+          "STREET_CORNER (+0.61 ft)",
+          "STREET_CROWN (+0.25 ft)",
+          "PARKING_AISLE (+0.11 ft)",
+          "APPROACHING PRIUS_STALL (-0.19 ft)"
+        ]
+      },
+      {
+        "filename": "20260104_122321.heic",
+        "time": "12:23:21",
+        "water_level_navd88": 7.56,
+        "gps": {
+          "lat": 37.941405,
+          "lon": -122.53462,
+          "alt_m": 36.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.86 ft)",
+          "STREET_CORNER (+0.61 ft)",
+          "STREET_CROWN (+0.25 ft)",
+          "PARKING_AISLE (+0.11 ft)",
+          "APPROACHING PRIUS_STALL (-0.19 ft)"
+        ]
+      },
+      {
+        "filename": "20260104_122348.jpg",
+        "time": "12:23:48",
+        "water_level_navd88": 7.56,
+        "gps": {
+          "lat": 37.94123,
+          "lon": -122.534209,
+          "alt_m": 33.6
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.86 ft)",
+          "STREET_CORNER (+0.61 ft)",
+          "STREET_CROWN (+0.25 ft)",
+          "PARKING_AISLE (+0.11 ft)",
+          "APPROACHING PRIUS_STALL (-0.19 ft)"
+        ]
+      },
+      {
+        "filename": "20260104_122353.heic",
+        "time": "12:23:53",
+        "water_level_navd88": 7.56,
+        "gps": {
+          "lat": 37.94123,
+          "lon": -122.534209,
+          "alt_m": 33.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.86 ft)",
+          "STREET_CORNER (+0.61 ft)",
+          "STREET_CROWN (+0.25 ft)",
+          "PARKING_AISLE (+0.11 ft)",
+          "APPROACHING PRIUS_STALL (-0.19 ft)"
+        ]
+      },
+      {
+        "filename": "20260104_122444.heic",
+        "time": "12:24:44",
+        "water_level_navd88": 7.56,
+        "gps": {
+          "lat": 37.941243,
+          "lon": -122.53411,
+          "alt_m": 30.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.86 ft)",
+          "STREET_CORNER (+0.61 ft)",
+          "STREET_CROWN (+0.25 ft)",
+          "PARKING_AISLE (+0.11 ft)",
+          "APPROACHING PRIUS_STALL (-0.19 ft)"
+        ]
+      },
+      {
+        "filename": "20260104_122529.heic",
+        "time": "12:25:29",
+        "water_level_navd88": 7.56,
+        "gps": {
+          "lat": 37.941243,
+          "lon": -122.53411,
+          "alt_m": 30.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.86 ft)",
+          "STREET_CORNER (+0.61 ft)",
+          "STREET_CROWN (+0.25 ft)",
+          "PARKING_AISLE (+0.11 ft)",
+          "APPROACHING PRIUS_STALL (-0.19 ft)"
+        ]
+      },
+      {
+        "filename": "20260104_122602.heic",
+        "time": "12:26:02",
+        "water_level_navd88": 7.56,
+        "gps": {
+          "lat": 37.941152,
+          "lon": -122.533968,
+          "alt_m": 36.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.86 ft)",
+          "STREET_CORNER (+0.61 ft)",
+          "STREET_CROWN (+0.25 ft)",
+          "PARKING_AISLE (+0.11 ft)",
+          "APPROACHING PRIUS_STALL (-0.19 ft)"
+        ]
+      },
+      {
+        "filename": "20260104_122623.heic",
+        "time": "12:26:23",
+        "water_level_navd88": 7.56,
+        "gps": {
+          "lat": 37.941152,
+          "lon": -122.533968,
+          "alt_m": 36.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.86 ft)",
+          "STREET_CORNER (+0.61 ft)",
+          "STREET_CROWN (+0.25 ft)",
+          "PARKING_AISLE (+0.11 ft)",
+          "APPROACHING PRIUS_STALL (-0.19 ft)"
+        ]
+      },
+      {
+        "filename": "20260104_122632.heic",
+        "time": "12:26:32",
+        "water_level_navd88": 7.56,
+        "gps": {
+          "lat": 37.941152,
+          "lon": -122.533968,
+          "alt_m": 36.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.86 ft)",
+          "STREET_CORNER (+0.61 ft)",
+          "STREET_CROWN (+0.25 ft)",
+          "PARKING_AISLE (+0.11 ft)",
+          "APPROACHING PRIUS_STALL (-0.19 ft)"
+        ]
+      },
+      {
+        "filename": "20260104_123109.heic",
+        "time": "12:31:10",
+        "water_level_navd88": 7.442,
+        "gps": {
+          "lat": 37.940806,
+          "lon": -122.534923,
+          "alt_m": 33.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.74 ft)",
+          "STREET_CORNER (+0.49 ft)",
+          "STREET_CROWN (+0.13 ft)",
+          "APPROACHING PARKING_AISLE (-0.01 ft)"
+        ]
+      },
+      {
+        "filename": "20260104_124103.heic",
+        "time": "12:41:03",
+        "water_level_navd88": 7.226,
+        "gps": {
+          "lat": 37.940824,
+          "lon": -122.534975,
+          "alt_m": 43.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.53 ft)",
+          "STREET_CORNER (+0.28 ft)",
+          "APPROACHING STREET_CROWN (-0.08 ft)",
+          "APPROACHING PARKING_AISLE (-0.22 ft)"
+        ]
+      },
+      {
+        "filename": "20260104_140424.heic",
+        "time": "14:04:24",
+        "water_level_navd88": 4.939,
+        "gps": {
+          "lat": 37.940765,
+          "lon": -122.534977,
+          "alt_m": 27.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": []
+      },
+      {
+        "filename": "20260104_140431.heic",
+        "time": "14:04:30",
+        "water_level_navd88": 4.939,
+        "gps": {
+          "lat": 37.940767,
+          "lon": -122.534975,
+          "alt_m": 28.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": []
+      },
+      {
+        "filename": "20260104_144651.heic",
+        "time": "14:46:51",
+        "water_level_navd88": 3.469,
+        "gps": {
+          "lat": 37.940753,
+          "lon": -122.534973,
+          "alt_m": 25.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": []
+      },
+      {
+        "filename": "20260104_144659.heic",
+        "time": "14:46:59",
+        "water_level_navd88": 3.469,
+        "gps": {
+          "lat": 37.940753,
+          "lon": -122.534973,
+          "alt_m": 25.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": []
+      },
+      {
+        "filename": "20260104_144710.heic",
+        "time": "14:47:10",
+        "water_level_navd88": 3.469,
+        "gps": {
+          "lat": 37.940753,
+          "lon": -122.534973,
+          "alt_m": 25.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": []
+      },
+      {
+        "filename": "20260104_144800.heic",
+        "time": "14:48:00",
+        "water_level_navd88": 3.469,
+        "gps": {
+          "lat": 37.940874,
+          "lon": -122.534714,
+          "alt_m": 34.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": []
+      },
+      {
+        "filename": "20260104_144817.heic",
+        "time": "14:48:17",
+        "water_level_navd88": 3.469,
+        "gps": {
+          "lat": 37.940874,
+          "lon": -122.534714,
+          "alt_m": 34.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": []
+      },
+      {
+        "filename": "20260104_154137.jpg",
+        "time": "15:41:37",
+        "water_level_navd88": 1.894,
+        "gps": null,
+        "camera": "Galaxy S24",
+        "active_tiers": []
+      },
+      {
+        "filename": "20260104_154358.heic",
+        "time": "15:43:58",
+        "water_level_navd88": 1.894,
+        "gps": {
+          "lat": 37.940892,
+          "lon": -122.534702,
+          "alt_m": 24.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": []
+      },
+      {
+        "filename": "Screenshot_20260104_125702_Chrome.jpg",
+        "time": "12:57:02",
+        "water_level_navd88": 6.917,
+        "gps": null,
+        "camera": null,
+        "active_tiers": [
+          "STREET_GUTTER (+0.22 ft)",
+          "APPROACHING STREET_CORNER (-0.03 ft)"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-01-03",
+    "photo_count": 1,
+    "max_verified_navd88": 8.459,
+    "max_verified_time": "2026-01-03 10:18",
+    "max_pred_navd88": 7.186,
+    "max_pred_time": "2026-01-03 10:24",
+    "max_surge_ft": 1.27,
+    "photos": [
+      {
+        "filename": "20260103_115730.jpg",
+        "time": "11:57:31",
+        "water_level_navd88": 7.508,
+        "gps": {
+          "lat": 38.031334,
+          "lon": -122.802523,
+          "alt_m": 18.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.81 ft)",
+          "STREET_CORNER (+0.56 ft)",
+          "STREET_CROWN (+0.20 ft)",
+          "PARKING_AISLE (+0.06 ft)",
+          "APPROACHING PRIUS_STALL (-0.24 ft)"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-01-02",
+    "photo_count": 39,
+    "max_verified_navd88": 8.157,
+    "max_verified_time": "2026-01-02 09:42",
+    "max_pred_navd88": 7.22,
+    "max_pred_time": "2026-01-02 09:36",
+    "max_surge_ft": 0.94,
+    "photos": [
+      {
+        "filename": "20260102_100045.heic",
+        "time": "10:00:45",
+        "water_level_navd88": 8.115,
+        "gps": {
+          "lat": 37.940753,
+          "lon": -122.534955,
+          "alt_m": 32.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+1.42 ft)",
+          "STREET_CORNER (+1.17 ft)",
+          "STREET_CROWN (+0.81 ft)",
+          "PARKING_AISLE (+0.67 ft)",
+          "PRIUS_STALL (+0.37 ft)",
+          "APPROACHING PARKING_PATH (-0.15 ft)"
+        ]
+      },
+      {
+        "filename": "20260102_100104.heic",
+        "time": "10:01:04",
+        "water_level_navd88": 8.115,
+        "gps": {
+          "lat": 37.940753,
+          "lon": -122.534955,
+          "alt_m": 32.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+1.42 ft)",
+          "STREET_CORNER (+1.17 ft)",
+          "STREET_CROWN (+0.81 ft)",
+          "PARKING_AISLE (+0.67 ft)",
+          "PRIUS_STALL (+0.37 ft)",
+          "APPROACHING PARKING_PATH (-0.15 ft)"
+        ]
+      },
+      {
+        "filename": "20260102_100130.heic",
+        "time": "10:01:30",
+        "water_level_navd88": 8.115,
+        "gps": {
+          "lat": 37.940753,
+          "lon": -122.534955,
+          "alt_m": 32.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+1.42 ft)",
+          "STREET_CORNER (+1.17 ft)",
+          "STREET_CROWN (+0.81 ft)",
+          "PARKING_AISLE (+0.67 ft)",
+          "PRIUS_STALL (+0.37 ft)",
+          "APPROACHING PARKING_PATH (-0.15 ft)"
+        ]
+      },
+      {
+        "filename": "20260102_100512.heic",
+        "time": "10:05:12",
+        "water_level_navd88": 8.092,
+        "gps": {
+          "lat": 37.940619,
+          "lon": -122.534637,
+          "alt_m": 24.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+1.39 ft)",
+          "STREET_CORNER (+1.14 ft)",
+          "STREET_CROWN (+0.78 ft)",
+          "PARKING_AISLE (+0.64 ft)",
+          "PRIUS_STALL (+0.34 ft)",
+          "APPROACHING PARKING_PATH (-0.18 ft)"
+        ]
+      },
+      {
+        "filename": "20260102_100627.heic",
+        "time": "10:06:27",
+        "water_level_navd88": 8.092,
+        "gps": {
+          "lat": 37.940798,
+          "lon": -122.534593,
+          "alt_m": 27.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+1.39 ft)",
+          "STREET_CORNER (+1.14 ft)",
+          "STREET_CROWN (+0.78 ft)",
+          "PARKING_AISLE (+0.64 ft)",
+          "PRIUS_STALL (+0.34 ft)",
+          "APPROACHING PARKING_PATH (-0.18 ft)"
+        ]
+      },
+      {
+        "filename": "20260102_100630.heic",
+        "time": "10:06:30",
+        "water_level_navd88": 8.092,
+        "gps": {
+          "lat": 37.940798,
+          "lon": -122.534593,
+          "alt_m": 27.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+1.39 ft)",
+          "STREET_CORNER (+1.14 ft)",
+          "STREET_CROWN (+0.78 ft)",
+          "PARKING_AISLE (+0.64 ft)",
+          "PRIUS_STALL (+0.34 ft)",
+          "APPROACHING PARKING_PATH (-0.18 ft)"
+        ]
+      },
+      {
+        "filename": "20260102_100731.heic",
+        "time": "10:07:31",
+        "water_level_navd88": 8.092,
+        "gps": {
+          "lat": 37.940946,
+          "lon": -122.534593,
+          "alt_m": 31.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+1.39 ft)",
+          "STREET_CORNER (+1.14 ft)",
+          "STREET_CROWN (+0.78 ft)",
+          "PARKING_AISLE (+0.64 ft)",
+          "PRIUS_STALL (+0.34 ft)",
+          "APPROACHING PARKING_PATH (-0.18 ft)"
+        ]
+      },
+      {
+        "filename": "20260102_100947.heic",
+        "time": "10:09:48",
+        "water_level_navd88": 8.043,
+        "gps": {
+          "lat": 37.941405,
+          "lon": -122.534635,
+          "alt_m": 26.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+1.34 ft)",
+          "STREET_CORNER (+1.09 ft)",
+          "STREET_CROWN (+0.73 ft)",
+          "PARKING_AISLE (+0.59 ft)",
+          "PRIUS_STALL (+0.29 ft)",
+          "APPROACHING PARKING_PATH (-0.23 ft)"
+        ]
+      },
+      {
+        "filename": "20260102_101002.heic",
+        "time": "10:10:02",
+        "water_level_navd88": 8.043,
+        "gps": {
+          "lat": 37.941405,
+          "lon": -122.534635,
+          "alt_m": 26.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+1.34 ft)",
+          "STREET_CORNER (+1.09 ft)",
+          "STREET_CROWN (+0.73 ft)",
+          "PARKING_AISLE (+0.59 ft)",
+          "PRIUS_STALL (+0.29 ft)",
+          "APPROACHING PARKING_PATH (-0.23 ft)"
+        ]
+      },
+      {
+        "filename": "20260102_101010.heic",
+        "time": "10:10:10",
+        "water_level_navd88": 8.043,
+        "gps": {
+          "lat": 37.941405,
+          "lon": -122.534635,
+          "alt_m": 26.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+1.34 ft)",
+          "STREET_CORNER (+1.09 ft)",
+          "STREET_CROWN (+0.73 ft)",
+          "PARKING_AISLE (+0.59 ft)",
+          "PRIUS_STALL (+0.29 ft)",
+          "APPROACHING PARKING_PATH (-0.23 ft)"
+        ]
+      },
+      {
+        "filename": "20260102_101441.heic",
+        "time": "10:14:41",
+        "water_level_navd88": 8.043,
+        "gps": {
+          "lat": 37.940845,
+          "lon": -122.534554,
+          "alt_m": 29.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+1.34 ft)",
+          "STREET_CORNER (+1.09 ft)",
+          "STREET_CROWN (+0.73 ft)",
+          "PARKING_AISLE (+0.59 ft)",
+          "PRIUS_STALL (+0.29 ft)",
+          "APPROACHING PARKING_PATH (-0.23 ft)"
+        ]
+      },
+      {
+        "filename": "20260102_101504.heic",
+        "time": "10:15:04",
+        "water_level_navd88": 7.984,
+        "gps": {
+          "lat": 37.940845,
+          "lon": -122.534554,
+          "alt_m": 29.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+1.28 ft)",
+          "STREET_CORNER (+1.03 ft)",
+          "STREET_CROWN (+0.67 ft)",
+          "PARKING_AISLE (+0.53 ft)",
+          "PRIUS_STALL (+0.23 ft)"
+        ]
+      },
+      {
+        "filename": "20260102_101520.heic",
+        "time": "10:15:20",
+        "water_level_navd88": 7.984,
+        "gps": {
+          "lat": 37.940845,
+          "lon": -122.534554,
+          "alt_m": 29.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+1.28 ft)",
+          "STREET_CORNER (+1.03 ft)",
+          "STREET_CROWN (+0.67 ft)",
+          "PARKING_AISLE (+0.53 ft)",
+          "PRIUS_STALL (+0.23 ft)"
+        ]
+      },
+      {
+        "filename": "20260102_101739.heic",
+        "time": "10:17:39",
+        "water_level_navd88": 7.984,
+        "gps": {
+          "lat": 37.940796,
+          "lon": -122.534947,
+          "alt_m": 25.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+1.28 ft)",
+          "STREET_CORNER (+1.03 ft)",
+          "STREET_CROWN (+0.67 ft)",
+          "PARKING_AISLE (+0.53 ft)",
+          "PRIUS_STALL (+0.23 ft)"
+        ]
+      },
+      {
+        "filename": "20260102_101802.heic",
+        "time": "10:18:01",
+        "water_level_navd88": 7.984,
+        "gps": {
+          "lat": 37.940796,
+          "lon": -122.534947,
+          "alt_m": 25.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+1.28 ft)",
+          "STREET_CORNER (+1.03 ft)",
+          "STREET_CROWN (+0.67 ft)",
+          "PARKING_AISLE (+0.53 ft)",
+          "PRIUS_STALL (+0.23 ft)"
+        ]
+      },
+      {
+        "filename": "20260102_101852.heic",
+        "time": "10:18:51",
+        "water_level_navd88": 7.984,
+        "gps": {
+          "lat": 37.940782,
+          "lon": -122.534943,
+          "alt_m": 27.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+1.28 ft)",
+          "STREET_CORNER (+1.03 ft)",
+          "STREET_CROWN (+0.67 ft)",
+          "PARKING_AISLE (+0.53 ft)",
+          "PRIUS_STALL (+0.23 ft)"
+        ]
+      },
+      {
+        "filename": "20260102_101926.jpg",
+        "time": "10:19:26",
+        "water_level_navd88": 7.984,
+        "gps": null,
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+1.28 ft)",
+          "STREET_CORNER (+1.03 ft)",
+          "STREET_CROWN (+0.67 ft)",
+          "PARKING_AISLE (+0.53 ft)",
+          "PRIUS_STALL (+0.23 ft)"
+        ]
+      },
+      {
+        "filename": "20260102_101931.jpg",
+        "time": "10:19:31",
+        "water_level_navd88": 7.984,
+        "gps": null,
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+1.28 ft)",
+          "STREET_CORNER (+1.03 ft)",
+          "STREET_CROWN (+0.67 ft)",
+          "PARKING_AISLE (+0.53 ft)",
+          "PRIUS_STALL (+0.23 ft)"
+        ]
+      },
+      {
+        "filename": "20260102_105100.heic",
+        "time": "10:51:00",
+        "water_level_navd88": 7.564,
+        "gps": {
+          "lat": 37.9409,
+          "lon": -122.534638,
+          "alt_m": 22.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.86 ft)",
+          "STREET_CORNER (+0.61 ft)",
+          "STREET_CROWN (+0.25 ft)",
+          "PARKING_AISLE (+0.11 ft)",
+          "APPROACHING PRIUS_STALL (-0.19 ft)"
+        ]
+      },
+      {
+        "filename": "20260102_105108.heic",
+        "time": "10:51:08",
+        "water_level_navd88": 7.495,
+        "gps": {
+          "lat": 37.940895,
+          "lon": -122.534638,
+          "alt_m": 23.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.79 ft)",
+          "STREET_CORNER (+0.54 ft)",
+          "STREET_CROWN (+0.19 ft)",
+          "PARKING_AISLE (+0.04 ft)"
+        ]
+      },
+      {
+        "filename": "20260102_105132.heic",
+        "time": "10:51:32",
+        "water_level_navd88": 7.495,
+        "gps": {
+          "lat": 37.940895,
+          "lon": -122.534638,
+          "alt_m": 23.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.79 ft)",
+          "STREET_CORNER (+0.54 ft)",
+          "STREET_CROWN (+0.19 ft)",
+          "PARKING_AISLE (+0.04 ft)"
+        ]
+      },
+      {
+        "filename": "20260102_105141.heic",
+        "time": "10:51:41",
+        "water_level_navd88": 7.495,
+        "gps": {
+          "lat": 37.940895,
+          "lon": -122.534638,
+          "alt_m": 23.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.79 ft)",
+          "STREET_CORNER (+0.54 ft)",
+          "STREET_CROWN (+0.19 ft)",
+          "PARKING_AISLE (+0.04 ft)"
+        ]
+      },
+      {
+        "filename": "20260102_105144.heic",
+        "time": "10:51:44",
+        "water_level_navd88": 7.495,
+        "gps": {
+          "lat": 37.940895,
+          "lon": -122.534638,
+          "alt_m": 23.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.79 ft)",
+          "STREET_CORNER (+0.54 ft)",
+          "STREET_CROWN (+0.19 ft)",
+          "PARKING_AISLE (+0.04 ft)"
+        ]
+      },
+      {
+        "filename": "20260102_105215.heic",
+        "time": "10:52:15",
+        "water_level_navd88": 7.495,
+        "gps": {
+          "lat": 37.940765,
+          "lon": -122.534545,
+          "alt_m": 22.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.79 ft)",
+          "STREET_CORNER (+0.54 ft)",
+          "STREET_CROWN (+0.19 ft)",
+          "PARKING_AISLE (+0.04 ft)"
+        ]
+      },
+      {
+        "filename": "20260102_105303.heic",
+        "time": "10:53:03",
+        "water_level_navd88": 7.495,
+        "gps": {
+          "lat": 37.940767,
+          "lon": -122.53455,
+          "alt_m": 21.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.79 ft)",
+          "STREET_CORNER (+0.54 ft)",
+          "STREET_CROWN (+0.19 ft)",
+          "PARKING_AISLE (+0.04 ft)"
+        ]
+      },
+      {
+        "filename": "20260102_105343.heic",
+        "time": "10:53:43",
+        "water_level_navd88": 7.495,
+        "gps": {
+          "lat": 37.940767,
+          "lon": -122.53455,
+          "alt_m": 21.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.79 ft)",
+          "STREET_CORNER (+0.54 ft)",
+          "STREET_CROWN (+0.19 ft)",
+          "PARKING_AISLE (+0.04 ft)"
+        ]
+      },
+      {
+        "filename": "20260102_105415.heic",
+        "time": "10:54:15",
+        "water_level_navd88": 7.495,
+        "gps": {
+          "lat": 37.940787,
+          "lon": -122.534733,
+          "alt_m": 28.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.79 ft)",
+          "STREET_CORNER (+0.54 ft)",
+          "STREET_CROWN (+0.19 ft)",
+          "PARKING_AISLE (+0.04 ft)"
+        ]
+      },
+      {
+        "filename": "20260102_105427.heic",
+        "time": "10:54:27",
+        "water_level_navd88": 7.495,
+        "gps": {
+          "lat": 37.940787,
+          "lon": -122.534733,
+          "alt_m": 28.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.79 ft)",
+          "STREET_CORNER (+0.54 ft)",
+          "STREET_CROWN (+0.19 ft)",
+          "PARKING_AISLE (+0.04 ft)"
+        ]
+      },
+      {
+        "filename": "20260102_105449.heic",
+        "time": "10:54:49",
+        "water_level_navd88": 7.495,
+        "gps": {
+          "lat": 37.940787,
+          "lon": -122.534733,
+          "alt_m": 28.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.79 ft)",
+          "STREET_CORNER (+0.54 ft)",
+          "STREET_CROWN (+0.19 ft)",
+          "PARKING_AISLE (+0.04 ft)"
+        ]
+      },
+      {
+        "filename": "20260102_105502.heic",
+        "time": "10:55:02",
+        "water_level_navd88": 7.495,
+        "gps": {
+          "lat": 37.9408,
+          "lon": -122.534941,
+          "alt_m": 28.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.79 ft)",
+          "STREET_CORNER (+0.54 ft)",
+          "STREET_CROWN (+0.19 ft)",
+          "PARKING_AISLE (+0.04 ft)"
+        ]
+      },
+      {
+        "filename": "20260102_125113.heic",
+        "time": "12:51:13",
+        "water_level_navd88": 4.089,
+        "gps": {
+          "lat": 37.940765,
+          "lon": -122.53501,
+          "alt_m": 22.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": []
+      },
+      {
+        "filename": "20260102_125115.heic",
+        "time": "12:51:15",
+        "water_level_navd88": 4.089,
+        "gps": {
+          "lat": 37.940765,
+          "lon": -122.53501,
+          "alt_m": 22.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": []
+      },
+      {
+        "filename": "20260102_125117.heic",
+        "time": "12:51:17",
+        "water_level_navd88": 4.089,
+        "gps": {
+          "lat": 37.940765,
+          "lon": -122.53501,
+          "alt_m": 22.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": []
+      },
+      {
+        "filename": "20260102_125123.heic",
+        "time": "12:51:23",
+        "water_level_navd88": 4.089,
+        "gps": {
+          "lat": 37.940765,
+          "lon": -122.53501,
+          "alt_m": 22.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": []
+      },
+      {
+        "filename": "20260102_125157.heic",
+        "time": "12:51:57",
+        "water_level_navd88": 4.089,
+        "gps": {
+          "lat": 37.940791,
+          "lon": -122.53496,
+          "alt_m": 28.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": []
+      },
+      {
+        "filename": "20260102_125159.heic",
+        "time": "12:51:59",
+        "water_level_navd88": 4.089,
+        "gps": {
+          "lat": 37.940791,
+          "lon": -122.53496,
+          "alt_m": 28.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": []
+      },
+      {
+        "filename": "20260102_125200.heic",
+        "time": "12:52:01",
+        "water_level_navd88": 4.089,
+        "gps": {
+          "lat": 37.940791,
+          "lon": -122.53496,
+          "alt_m": 28.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": []
+      },
+      {
+        "filename": "20260102_125202.heic",
+        "time": "12:52:02",
+        "water_level_navd88": 4.089,
+        "gps": {
+          "lat": 37.940791,
+          "lon": -122.53496,
+          "alt_m": 28.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": []
+      },
+      {
+        "filename": "20260102_125204.heic",
+        "time": "12:52:04",
+        "water_level_navd88": 4.089,
+        "gps": {
+          "lat": 37.940791,
+          "lon": -122.53496,
+          "alt_m": 28.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": []
+      }
+    ]
+  },
+  {
+    "date": "2026-01-01",
+    "photo_count": 12,
+    "max_verified_navd88": 7.99,
+    "max_verified_time": "2026-01-01 08:54",
+    "max_pred_navd88": 7.105,
+    "max_pred_time": "2026-01-01 08:42",
+    "max_surge_ft": 0.88,
+    "photos": [
+      {
+        "filename": "20260101_095013.heic",
+        "time": "09:50:13",
+        "water_level_navd88": 7.544,
+        "gps": {
+          "lat": 37.940815,
+          "lon": -122.534993,
+          "alt_m": 22.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.84 ft)",
+          "STREET_CORNER (+0.59 ft)",
+          "STREET_CROWN (+0.23 ft)",
+          "PARKING_AISLE (+0.09 ft)",
+          "APPROACHING PRIUS_STALL (-0.21 ft)"
+        ]
+      },
+      {
+        "filename": "20260101_095018.heic",
+        "time": "09:50:18",
+        "water_level_navd88": 7.544,
+        "gps": {
+          "lat": 37.940815,
+          "lon": -122.534993,
+          "alt_m": 22.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.84 ft)",
+          "STREET_CORNER (+0.59 ft)",
+          "STREET_CROWN (+0.23 ft)",
+          "PARKING_AISLE (+0.09 ft)",
+          "APPROACHING PRIUS_STALL (-0.21 ft)"
+        ]
+      },
+      {
+        "filename": "20260101_095021.heic",
+        "time": "09:50:21",
+        "water_level_navd88": 7.544,
+        "gps": {
+          "lat": 37.940815,
+          "lon": -122.534993,
+          "alt_m": 22.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.84 ft)",
+          "STREET_CORNER (+0.59 ft)",
+          "STREET_CROWN (+0.23 ft)",
+          "PARKING_AISLE (+0.09 ft)",
+          "APPROACHING PRIUS_STALL (-0.21 ft)"
+        ]
+      },
+      {
+        "filename": "20260101_095323.jpg",
+        "time": "09:53:22",
+        "water_level_navd88": 7.459,
+        "gps": null,
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.76 ft)",
+          "STREET_CORNER (+0.51 ft)",
+          "STREET_CROWN (+0.15 ft)",
+          "PARKING_AISLE (+0.01 ft)"
+        ]
+      },
+      {
+        "filename": "20260101_095328.jpg",
+        "time": "09:53:28",
+        "water_level_navd88": 7.459,
+        "gps": null,
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.76 ft)",
+          "STREET_CORNER (+0.51 ft)",
+          "STREET_CROWN (+0.15 ft)",
+          "PARKING_AISLE (+0.01 ft)"
+        ]
+      },
+      {
+        "filename": "20260101_095338.jpg",
+        "time": "09:53:39",
+        "water_level_navd88": 7.459,
+        "gps": null,
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.76 ft)",
+          "STREET_CORNER (+0.51 ft)",
+          "STREET_CROWN (+0.15 ft)",
+          "PARKING_AISLE (+0.01 ft)"
+        ]
+      },
+      {
+        "filename": "20260101_095355.jpg",
+        "time": "09:53:56",
+        "water_level_navd88": 7.459,
+        "gps": null,
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.76 ft)",
+          "STREET_CORNER (+0.51 ft)",
+          "STREET_CROWN (+0.15 ft)",
+          "PARKING_AISLE (+0.01 ft)"
+        ]
+      },
+      {
+        "filename": "20260101_095907.jpg",
+        "time": "09:59:07",
+        "water_level_navd88": 7.331,
+        "gps": null,
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.63 ft)",
+          "STREET_CORNER (+0.38 ft)",
+          "STREET_CROWN (+0.02 ft)",
+          "APPROACHING PARKING_AISLE (-0.12 ft)"
+        ]
+      },
+      {
+        "filename": "20260101_095917.jpg",
+        "time": "09:59:18",
+        "water_level_navd88": 7.331,
+        "gps": null,
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.63 ft)",
+          "STREET_CORNER (+0.38 ft)",
+          "STREET_CROWN (+0.02 ft)",
+          "APPROACHING PARKING_AISLE (-0.12 ft)"
+        ]
+      },
+      {
+        "filename": "20260101_095929.jpg",
+        "time": "09:59:29",
+        "water_level_navd88": 7.331,
+        "gps": null,
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.63 ft)",
+          "STREET_CORNER (+0.38 ft)",
+          "STREET_CROWN (+0.02 ft)",
+          "APPROACHING PARKING_AISLE (-0.12 ft)"
+        ]
+      },
+      {
+        "filename": "20260101_095952.jpg",
+        "time": "09:59:52",
+        "water_level_navd88": 7.331,
+        "gps": null,
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.63 ft)",
+          "STREET_CORNER (+0.38 ft)",
+          "STREET_CROWN (+0.02 ft)",
+          "APPROACHING PARKING_AISLE (-0.12 ft)"
+        ]
+      },
+      {
+        "filename": "20260101_095954.jpg",
+        "time": "09:59:54",
+        "water_level_navd88": 7.331,
+        "gps": null,
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.63 ft)",
+          "STREET_CORNER (+0.38 ft)",
+          "STREET_CROWN (+0.02 ft)",
+          "APPROACHING PARKING_AISLE (-0.12 ft)"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2025-12-31",
+    "photo_count": 9,
+    "max_verified_navd88": 7.373,
+    "max_verified_time": "2025-12-31 07:54",
+    "max_pred_navd88": 6.919,
+    "max_pred_time": "2025-12-31 07:54",
+    "max_surge_ft": 0.45,
+    "photos": [
+      {
+        "filename": "20251231_082927.heic",
+        "time": "08:29:27",
+        "water_level_navd88": 7.295,
+        "gps": {
+          "lat": 37.940853,
+          "lon": -122.534605,
+          "alt_m": 31.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.59 ft)",
+          "STREET_CORNER (+0.34 ft)",
+          "APPROACHING STREET_CROWN (-0.01 ft)",
+          "APPROACHING PARKING_AISLE (-0.16 ft)"
+        ]
+      },
+      {
+        "filename": "20251231_082947.heic",
+        "time": "08:29:47",
+        "water_level_navd88": 7.295,
+        "gps": {
+          "lat": 37.940853,
+          "lon": -122.534605,
+          "alt_m": 31.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.59 ft)",
+          "STREET_CORNER (+0.34 ft)",
+          "APPROACHING STREET_CROWN (-0.01 ft)",
+          "APPROACHING PARKING_AISLE (-0.16 ft)"
+        ]
+      },
+      {
+        "filename": "20251231_083348.heic",
+        "time": "08:33:47",
+        "water_level_navd88": 7.252,
+        "gps": {
+          "lat": 37.941254,
+          "lon": -122.534055,
+          "alt_m": 27.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.55 ft)",
+          "STREET_CORNER (+0.30 ft)",
+          "APPROACHING STREET_CROWN (-0.06 ft)",
+          "APPROACHING PARKING_AISLE (-0.20 ft)"
+        ]
+      },
+      {
+        "filename": "20251231_083404.heic",
+        "time": "08:34:04",
+        "water_level_navd88": 7.252,
+        "gps": {
+          "lat": 37.941256,
+          "lon": -122.534053,
+          "alt_m": 28.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.55 ft)",
+          "STREET_CORNER (+0.30 ft)",
+          "APPROACHING STREET_CROWN (-0.06 ft)",
+          "APPROACHING PARKING_AISLE (-0.20 ft)"
+        ]
+      },
+      {
+        "filename": "20251231_083413.heic",
+        "time": "08:34:13",
+        "water_level_navd88": 7.252,
+        "gps": {
+          "lat": 37.941256,
+          "lon": -122.534053,
+          "alt_m": 28.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.55 ft)",
+          "STREET_CORNER (+0.30 ft)",
+          "APPROACHING STREET_CROWN (-0.06 ft)",
+          "APPROACHING PARKING_AISLE (-0.20 ft)"
+        ]
+      },
+      {
+        "filename": "20251231_083423.heic",
+        "time": "08:34:23",
+        "water_level_navd88": 7.252,
+        "gps": {
+          "lat": 37.941256,
+          "lon": -122.534053,
+          "alt_m": 28.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.55 ft)",
+          "STREET_CORNER (+0.30 ft)",
+          "APPROACHING STREET_CROWN (-0.06 ft)",
+          "APPROACHING PARKING_AISLE (-0.20 ft)"
+        ]
+      },
+      {
+        "filename": "20251231_083459.heic",
+        "time": "08:34:59",
+        "water_level_navd88": 7.252,
+        "gps": {
+          "lat": 37.941409,
+          "lon": -122.534468,
+          "alt_m": 28.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.55 ft)",
+          "STREET_CORNER (+0.30 ft)",
+          "APPROACHING STREET_CROWN (-0.06 ft)",
+          "APPROACHING PARKING_AISLE (-0.20 ft)"
+        ]
+      },
+      {
+        "filename": "20251231_083521.heic",
+        "time": "08:35:21",
+        "water_level_navd88": 7.252,
+        "gps": {
+          "lat": 37.941409,
+          "lon": -122.534468,
+          "alt_m": 28.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.55 ft)",
+          "STREET_CORNER (+0.30 ft)",
+          "APPROACHING STREET_CROWN (-0.06 ft)",
+          "APPROACHING PARKING_AISLE (-0.20 ft)"
+        ]
+      },
+      {
+        "filename": "20251231_083559.heic",
+        "time": "08:35:59",
+        "water_level_navd88": 7.252,
+        "gps": {
+          "lat": 37.941485,
+          "lon": -122.534841,
+          "alt_m": 29.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.55 ft)",
+          "STREET_CORNER (+0.30 ft)",
+          "APPROACHING STREET_CROWN (-0.06 ft)",
+          "APPROACHING PARKING_AISLE (-0.20 ft)"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2025-12-06",
+    "photo_count": 1,
+    "max_verified_navd88": 7.288,
+    "max_verified_time": "2025-12-06 12:00",
+    "max_pred_navd88": 7.142,
+    "max_pred_time": "2025-12-06 11:24",
+    "max_surge_ft": 0.15,
+    "photos": [
+      {
+        "filename": "20251206_105519.jpg",
+        "time": "10:55:19",
+        "water_level_navd88": 7.101,
+        "gps": null,
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.40 ft)",
+          "STREET_CORNER (+0.15 ft)",
+          "APPROACHING STREET_CROWN (-0.21 ft)"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2024-12-15",
+    "photo_count": 1,
+    "max_verified_navd88": 7.301,
+    "max_verified_time": "2024-12-15 10:42",
+    "max_pred_navd88": 7.076,
+    "max_pred_time": "2024-12-15 10:24",
+    "max_surge_ft": 0.23,
+    "photos": [
+      {
+        "filename": "20241215_111813.jpg",
+        "time": "11:18:13",
+        "water_level_navd88": 6.937,
+        "gps": {
+          "lat": 37.940805,
+          "lon": -122.53459,
+          "alt_m": 33.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.24 ft)",
+          "APPROACHING STREET_CORNER (-0.01 ft)"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2024-12-14",
+    "photo_count": 1,
+    "max_verified_navd88": 8.22,
+    "max_verified_time": "2024-12-14 09:18",
+    "max_pred_navd88": 7.13,
+    "max_pred_time": "2024-12-14 09:36",
+    "max_surge_ft": 1.09,
+    "photos": [
+      {
+        "filename": "20241214_094631.jpg",
+        "time": "09:46:31",
+        "water_level_navd88": 8.066,
+        "gps": {
+          "lat": 37.94078,
+          "lon": -122.53493,
+          "alt_m": 29.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+1.37 ft)",
+          "STREET_CORNER (+1.12 ft)",
+          "STREET_CROWN (+0.76 ft)",
+          "PARKING_AISLE (+0.62 ft)",
+          "PRIUS_STALL (+0.32 ft)",
+          "APPROACHING PARKING_PATH (-0.20 ft)"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2024-12-13",
+    "photo_count": 2,
+    "max_verified_navd88": 7.403,
+    "max_verified_time": "2024-12-13 08:48",
+    "max_pred_navd88": 7.036,
+    "max_pred_time": "2024-12-13 08:54",
+    "max_surge_ft": 0.37,
+    "photos": [
+      {
+        "filename": "20241213_092159.jpg",
+        "time": "09:21:59",
+        "water_level_navd88": 7.193,
+        "gps": {
+          "lat": 0.0,
+          "lon": 0.0,
+          "alt_m": 0.0
+        },
+        "camera": "SM-G950U",
+        "active_tiers": [
+          "STREET_GUTTER (+0.49 ft)",
+          "STREET_CORNER (+0.24 ft)",
+          "APPROACHING STREET_CROWN (-0.12 ft)"
+        ]
+      },
+      {
+        "filename": "20241213_092214.jpg",
+        "time": "09:22:14",
+        "water_level_navd88": 7.193,
+        "gps": {
+          "lat": 0.0,
+          "lon": 0.0,
+          "alt_m": 0.0
+        },
+        "camera": "SM-G950U",
+        "active_tiers": [
+          "STREET_GUTTER (+0.49 ft)",
+          "STREET_CORNER (+0.24 ft)",
+          "APPROACHING STREET_CROWN (-0.12 ft)"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2024-11-20",
+    "photo_count": 1,
+    "max_verified_navd88": 6.031,
+    "max_verified_time": "2024-11-20 14:12",
+    "max_pred_navd88": 5.722,
+    "max_pred_time": "2024-11-20 13:54",
+    "max_surge_ft": 0.31,
+    "photos": [
+      {
+        "filename": "20241120_080742.jpg",
+        "time": "08:07:42",
+        "water_level_navd88": 3.696,
+        "gps": {
+          "lat": 37.941667,
+          "lon": -122.538918,
+          "alt_m": null
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": []
+      }
+    ]
+  },
+  {
+    "date": "2024-02-05",
+    "photo_count": 1,
+    "max_verified_navd88": 7.409,
+    "max_verified_time": "2024-02-05 06:48",
+    "max_pred_navd88": 5.961,
+    "max_pred_time": "2024-02-05 06:42",
+    "max_surge_ft": 1.45,
+    "photos": [
+      {
+        "filename": "20240205_081201.jpg",
+        "time": "08:12:01",
+        "water_level_navd88": 6.789,
+        "gps": {
+          "lat": 37.940871,
+          "lon": -122.534322,
+          "alt_m": 5.0
+        },
+        "camera": "Galaxy S24",
+        "active_tiers": [
+          "STREET_GUTTER (+0.09 ft)",
+          "APPROACHING STREET_CORNER (-0.16 ft)"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2023-01-09",
+    "photo_count": 5,
+    "max_verified_navd88": 6.901,
+    "max_verified_time": "2023-01-09 11:30",
+    "max_pred_navd88": 5.795,
+    "max_pred_time": "2023-01-09 12:06",
+    "max_surge_ft": 1.11,
+    "photos": [
+      {
+        "filename": "20230109_070103.jpg",
+        "time": "07:01:03",
+        "water_level_navd88": 4.883,
+        "gps": {
+          "lat": 0.0,
+          "lon": 0.0,
+          "alt_m": 0.0
+        },
+        "camera": "SM-G950U",
+        "active_tiers": []
+      },
+      {
+        "filename": "20230109_070143.jpg",
+        "time": "07:01:43",
+        "water_level_navd88": 4.883,
+        "gps": {
+          "lat": 0.0,
+          "lon": 0.0,
+          "alt_m": 0.0
+        },
+        "camera": "SM-G950U",
+        "active_tiers": []
+      },
+      {
+        "filename": "20230109_070212.jpg",
+        "time": "07:02:12",
+        "water_level_navd88": 4.883,
+        "gps": {
+          "lat": 0.0,
+          "lon": 0.0,
+          "alt_m": 0.0
+        },
+        "camera": "SM-G950U",
+        "active_tiers": []
+      },
+      {
+        "filename": "20230109_070220.jpg",
+        "time": "07:02:20",
+        "water_level_navd88": 4.883,
+        "gps": {
+          "lat": 0.0,
+          "lon": 0.0,
+          "alt_m": 0.0
+        },
+        "camera": "SM-G950U",
+        "active_tiers": []
+      },
+      {
+        "filename": "20230109_081148.jpg",
+        "time": "08:11:48",
+        "water_level_navd88": 5.205,
+        "gps": {
+          "lat": 0.0,
+          "lon": 0.0,
+          "alt_m": 0.0
+        },
+        "camera": "SM-G950U",
+        "active_tiers": []
+      }
+    ]
+  },
+  {
+    "date": "2023-01-05",
+    "photo_count": 19,
+    "max_verified_navd88": 7.77,
+    "max_verified_time": "2023-01-05 09:54",
+    "max_pred_navd88": 6.31,
+    "max_pred_time": "2023-01-05 09:42",
+    "max_surge_ft": 1.46,
+    "photos": [
+      {
+        "filename": "20230105_102330.jpg",
+        "time": "10:23:31",
+        "water_level_navd88": 7.577,
+        "gps": {
+          "lat": 37.940616,
+          "lon": -122.534071,
+          "alt_m": 41.0
+        },
+        "camera": "SM-G981V",
+        "active_tiers": [
+          "STREET_GUTTER (+0.88 ft)",
+          "STREET_CORNER (+0.63 ft)",
+          "STREET_CROWN (+0.27 ft)",
+          "PARKING_AISLE (+0.13 ft)",
+          "APPROACHING PRIUS_STALL (-0.17 ft)"
+        ]
+      },
+      {
+        "filename": "20230105_102338.jpg",
+        "time": "10:23:38",
+        "water_level_navd88": 7.577,
+        "gps": {
+          "lat": 37.940617,
+          "lon": -122.534097,
+          "alt_m": 44.0
+        },
+        "camera": "SM-G981V",
+        "active_tiers": [
+          "STREET_GUTTER (+0.88 ft)",
+          "STREET_CORNER (+0.63 ft)",
+          "STREET_CROWN (+0.27 ft)",
+          "PARKING_AISLE (+0.13 ft)",
+          "APPROACHING PRIUS_STALL (-0.17 ft)"
+        ]
+      },
+      {
+        "filename": "20230105_102356.jpg",
+        "time": "10:23:57",
+        "water_level_navd88": 7.577,
+        "gps": {
+          "lat": 37.940645,
+          "lon": -122.534096,
+          "alt_m": 51.0
+        },
+        "camera": "SM-G981V",
+        "active_tiers": [
+          "STREET_GUTTER (+0.88 ft)",
+          "STREET_CORNER (+0.63 ft)",
+          "STREET_CROWN (+0.27 ft)",
+          "PARKING_AISLE (+0.13 ft)",
+          "APPROACHING PRIUS_STALL (-0.17 ft)"
+        ]
+      },
+      {
+        "filename": "20230105_102435.jpg",
+        "time": "10:24:36",
+        "water_level_navd88": 7.577,
+        "gps": {
+          "lat": 37.940704,
+          "lon": -122.534106,
+          "alt_m": 0.0
+        },
+        "camera": "SM-G981V",
+        "active_tiers": [
+          "STREET_GUTTER (+0.88 ft)",
+          "STREET_CORNER (+0.63 ft)",
+          "STREET_CROWN (+0.27 ft)",
+          "PARKING_AISLE (+0.13 ft)",
+          "APPROACHING PRIUS_STALL (-0.17 ft)"
+        ]
+      },
+      {
+        "filename": "20230105_102504.jpg",
+        "time": "10:25:04",
+        "water_level_navd88": 7.577,
+        "gps": {
+          "lat": 37.940704,
+          "lon": -122.534106,
+          "alt_m": null
+        },
+        "camera": "SM-G981V",
+        "active_tiers": [
+          "STREET_GUTTER (+0.88 ft)",
+          "STREET_CORNER (+0.63 ft)",
+          "STREET_CROWN (+0.27 ft)",
+          "PARKING_AISLE (+0.13 ft)",
+          "APPROACHING PRIUS_STALL (-0.17 ft)"
+        ]
+      },
+      {
+        "filename": "20230105_102537.jpg",
+        "time": "10:25:37",
+        "water_level_navd88": 7.577,
+        "gps": {
+          "lat": 37.940854,
+          "lon": -122.534288,
+          "alt_m": 35.0
+        },
+        "camera": "SM-G981V",
+        "active_tiers": [
+          "STREET_GUTTER (+0.88 ft)",
+          "STREET_CORNER (+0.63 ft)",
+          "STREET_CROWN (+0.27 ft)",
+          "PARKING_AISLE (+0.13 ft)",
+          "APPROACHING PRIUS_STALL (-0.17 ft)"
+        ]
+      },
+      {
+        "filename": "20230105_102609.jpg",
+        "time": "10:26:09",
+        "water_level_navd88": 7.577,
+        "gps": {
+          "lat": 37.940854,
+          "lon": -122.534288,
+          "alt_m": 35.0
+        },
+        "camera": "SM-G981V",
+        "active_tiers": [
+          "STREET_GUTTER (+0.88 ft)",
+          "STREET_CORNER (+0.63 ft)",
+          "STREET_CROWN (+0.27 ft)",
+          "PARKING_AISLE (+0.13 ft)",
+          "APPROACHING PRIUS_STALL (-0.17 ft)"
+        ]
+      },
+      {
+        "filename": "20230105_102710.jpg",
+        "time": "10:27:10",
+        "water_level_navd88": 7.603,
+        "gps": {
+          "lat": 37.940819,
+          "lon": -122.534941,
+          "alt_m": 40.0
+        },
+        "camera": "SM-G981V",
+        "active_tiers": [
+          "STREET_GUTTER (+0.90 ft)",
+          "STREET_CORNER (+0.65 ft)",
+          "STREET_CROWN (+0.29 ft)",
+          "PARKING_AISLE (+0.15 ft)",
+          "APPROACHING PRIUS_STALL (-0.15 ft)"
+        ]
+      },
+      {
+        "filename": "20230105_102736.jpg",
+        "time": "10:27:37",
+        "water_level_navd88": 7.603,
+        "gps": {
+          "lat": 37.940803,
+          "lon": -122.53495,
+          "alt_m": null
+        },
+        "camera": "SM-G981V",
+        "active_tiers": [
+          "STREET_GUTTER (+0.90 ft)",
+          "STREET_CORNER (+0.65 ft)",
+          "STREET_CROWN (+0.29 ft)",
+          "PARKING_AISLE (+0.15 ft)",
+          "APPROACHING PRIUS_STALL (-0.15 ft)"
+        ]
+      },
+      {
+        "filename": "20230105_114505.jpg",
+        "time": "11:45:06",
+        "water_level_navd88": 6.251,
+        "gps": {
+          "lat": 37.940766,
+          "lon": -122.534944,
+          "alt_m": 28.0
+        },
+        "camera": "SM-G981V",
+        "active_tiers": []
+      },
+      {
+        "filename": "20230105_114521.jpg",
+        "time": "11:45:21",
+        "water_level_navd88": 6.251,
+        "gps": {
+          "lat": 37.940766,
+          "lon": -122.534944,
+          "alt_m": 28.0
+        },
+        "camera": "SM-G981V",
+        "active_tiers": []
+      },
+      {
+        "filename": "20230105_114526.jpg",
+        "time": "11:45:26",
+        "water_level_navd88": 6.251,
+        "gps": {
+          "lat": 37.940766,
+          "lon": -122.534944,
+          "alt_m": 28.0
+        },
+        "camera": "SM-G981V",
+        "active_tiers": []
+      },
+      {
+        "filename": "20230105_114530.jpg",
+        "time": "11:45:30",
+        "water_level_navd88": 6.251,
+        "gps": {
+          "lat": 37.940766,
+          "lon": -122.534944,
+          "alt_m": 28.0
+        },
+        "camera": "SM-G981V",
+        "active_tiers": []
+      },
+      {
+        "filename": "20230105_114702.jpg",
+        "time": "11:47:03",
+        "water_level_navd88": 6.251,
+        "gps": {
+          "lat": 37.940786,
+          "lon": -122.534728,
+          "alt_m": 32.0
+        },
+        "camera": "SM-G981V",
+        "active_tiers": []
+      },
+      {
+        "filename": "20230105_114711.jpg",
+        "time": "11:47:11",
+        "water_level_navd88": 6.251,
+        "gps": {
+          "lat": 37.940786,
+          "lon": -122.534728,
+          "alt_m": 32.0
+        },
+        "camera": "SM-G981V",
+        "active_tiers": []
+      },
+      {
+        "filename": "20230105_115339.jpg",
+        "time": "11:53:39",
+        "water_level_navd88": 6.248,
+        "gps": null,
+        "camera": null,
+        "active_tiers": []
+      },
+      {
+        "filename": "20230105_115407.jpg",
+        "time": "11:54:07",
+        "water_level_navd88": 6.248,
+        "gps": null,
+        "camera": null,
+        "active_tiers": []
+      },
+      {
+        "filename": "Screenshot_20230105-115203_Photos.jpg",
+        "time": "12:00:00",
+        "water_level_navd88": 6.11,
+        "gps": null,
+        "camera": null,
+        "active_tiers": []
+      },
+      {
+        "filename": "Screenshot_20230105-115223_Photos.jpg",
+        "time": "12:00:00",
+        "water_level_navd88": 6.11,
+        "gps": null,
+        "camera": null,
+        "active_tiers": []
+      }
+    ]
+  },
+  {
+    "date": "2022-01-03",
+    "photo_count": 3,
+    "max_verified_navd88": 7.619,
+    "max_verified_time": "2022-01-03 11:06",
+    "max_pred_navd88": 7.188,
+    "max_pred_time": "2022-01-03 11:00",
+    "max_surge_ft": 0.43,
+    "photos": [
+      {
+        "filename": "20220103_123509.jpg",
+        "time": "12:35:10",
+        "water_level_navd88": 6.648,
+        "gps": {
+          "lat": 37.940803,
+          "lon": -122.534859,
+          "alt_m": null
+        },
+        "camera": "SM-G981V",
+        "active_tiers": [
+          "APPROACHING STREET_GUTTER (-0.05 ft)"
+        ]
+      },
+      {
+        "filename": "20220103_123516.jpg",
+        "time": "12:35:16",
+        "water_level_navd88": 6.648,
+        "gps": {
+          "lat": 37.940803,
+          "lon": -122.534859,
+          "alt_m": null
+        },
+        "camera": "SM-G981V",
+        "active_tiers": [
+          "APPROACHING STREET_GUTTER (-0.05 ft)"
+        ]
+      },
+      {
+        "filename": "20220103_123518.jpg",
+        "time": "12:35:18",
+        "water_level_navd88": 6.648,
+        "gps": {
+          "lat": 37.940803,
+          "lon": -122.534859,
+          "alt_m": null
+        },
+        "camera": "SM-G981V",
+        "active_tiers": [
+          "APPROACHING STREET_GUTTER (-0.05 ft)"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2021-12-31",
+    "photo_count": 2,
+    "max_verified_navd88": 7.468,
+    "max_verified_time": "2021-12-31 08:36",
+    "max_pred_navd88": 6.996,
+    "max_pred_time": "2021-12-31 08:36",
+    "max_surge_ft": 0.47,
+    "photos": [
+      {
+        "filename": "20211231_105948.jpg",
+        "time": "10:59:48",
+        "water_level_navd88": 5.129,
+        "gps": {
+          "lat": 0.0,
+          "lon": 0.0,
+          "alt_m": 0.0
+        },
+        "camera": "SM-G950U",
+        "active_tiers": []
+      },
+      {
+        "filename": "20211231_110019.jpg",
+        "time": "11:00:19",
+        "water_level_navd88": 5.129,
+        "gps": {
+          "lat": -0.0,
+          "lon": -0.0,
+          "alt_m": null
+        },
+        "camera": "SM-G950U",
+        "active_tiers": []
+      }
+    ]
+  },
+  {
+    "date": "2021-10-24",
+    "photo_count": 3,
+    "max_verified_navd88": 6.93,
+    "max_verified_time": "2021-10-24 13:48",
+    "max_pred_navd88": 5.607,
+    "max_pred_time": "2021-10-24 13:42",
+    "max_surge_ft": 1.32,
+    "photos": [
+      {
+        "filename": "20211024_154314.jpg",
+        "time": "15:43:14",
+        "water_level_navd88": 5.749,
+        "gps": {
+          "lat": 37.940938,
+          "lon": -122.534429,
+          "alt_m": 9.1
+        },
+        "camera": "SM-G981V",
+        "active_tiers": []
+      },
+      {
+        "filename": "20211024_154321.jpg",
+        "time": "15:43:21",
+        "water_level_navd88": 5.749,
+        "gps": {
+          "lat": 37.940938,
+          "lon": -122.534429,
+          "alt_m": null
+        },
+        "camera": "SM-G981V",
+        "active_tiers": []
+      },
+      {
+        "filename": "20211024_154328.jpg",
+        "time": "15:43:28",
+        "water_level_navd88": 5.749,
+        "gps": {
+          "lat": 37.940938,
+          "lon": -122.534429,
+          "alt_m": null
+        },
+        "camera": "SM-G981V",
+        "active_tiers": []
+      }
+    ]
+  },
+  {
+    "date": "2020-12-13",
+    "photo_count": 2,
+    "max_verified_navd88": 7.278,
+    "max_verified_time": "2020-12-13 09:30",
+    "max_pred_navd88": 7.095,
+    "max_pred_time": "2020-12-13 09:36",
+    "max_surge_ft": 0.18,
+    "photos": [
+      {
+        "filename": "20201213_104507.jpg",
+        "time": "10:45:07",
+        "water_level_navd88": 6.609,
+        "gps": {
+          "lat": 37.940874,
+          "lon": -122.534601,
+          "alt_m": 34.6
+        },
+        "camera": "SM-G960U",
+        "active_tiers": [
+          "APPROACHING STREET_GUTTER (-0.09 ft)"
+        ]
+      },
+      {
+        "filename": "20201213_104511.jpg",
+        "time": "10:45:11",
+        "water_level_navd88": 6.609,
+        "gps": {
+          "lat": 37.940874,
+          "lon": -122.534601,
+          "alt_m": 34.6
+        },
+        "camera": "SM-G960U",
+        "active_tiers": [
+          "APPROACHING STREET_GUTTER (-0.09 ft)"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2020-03-07",
+    "photo_count": 1,
+    "max_verified_navd88": 6.668,
+    "max_verified_time": "2020-03-07 09:12",
+    "max_pred_navd88": 6.292,
+    "max_pred_time": "2020-03-07 09:06",
+    "max_surge_ft": 0.38,
+    "photos": [
+      {
+        "filename": "20200307_104620.jpg",
+        "time": "10:46:20",
+        "water_level_navd88": 5.631,
+        "gps": {
+          "lat": 37.940883,
+          "lon": -122.534466,
+          "alt_m": 16.5
+        },
+        "camera": "SM-G960U",
+        "active_tiers": []
+      }
+    ]
+  },
+  {
+    "date": "2019-12-22",
+    "photo_count": 3,
+    "max_verified_navd88": 7.61,
+    "max_verified_time": "2019-12-22 07:42",
+    "max_pred_navd88": 6.569,
+    "max_pred_time": "2019-12-22 08:00",
+    "max_surge_ft": 1.04,
+    "photos": [
+      {
+        "filename": "20191222_105803.jpg",
+        "time": "10:58:03",
+        "water_level_navd88": 4.634,
+        "gps": {
+          "lat": 37.940873,
+          "lon": -122.534661,
+          "alt_m": 28.0
+        },
+        "camera": "SM-G960U",
+        "active_tiers": []
+      },
+      {
+        "filename": "20191222_110033.jpg",
+        "time": "11:00:33",
+        "water_level_navd88": 4.634,
+        "gps": {
+          "lat": 37.94077,
+          "lon": -122.534904,
+          "alt_m": 39.6
+        },
+        "camera": "SM-G960U",
+        "active_tiers": []
+      },
+      {
+        "filename": "20191222_110045.jpg",
+        "time": "11:00:45",
+        "water_level_navd88": 4.634,
+        "gps": {
+          "lat": 37.94077,
+          "lon": -122.534904,
+          "alt_m": 39.6
+        },
+        "camera": "SM-G960U",
+        "active_tiers": []
+      }
+    ]
+  },
+  {
+    "date": "2019-05-16",
+    "photo_count": 1,
+    "max_verified_navd88": 6.642,
+    "max_verified_time": "2019-05-16 22:42",
+    "max_pred_navd88": 6.288,
+    "max_pred_time": "2019-05-16 22:42",
+    "max_surge_ft": 0.35,
+    "photos": [
+      {
+        "filename": "20190516_100657.jpg",
+        "time": "10:06:57",
+        "water_level_navd88": 5.277,
+        "gps": {
+          "lat": -0.0,
+          "lon": -0.0,
+          "alt_m": null
+        },
+        "camera": "SM-G950U",
+        "active_tiers": []
+      }
+    ]
+  },
+  {
+    "date": "2019-02-02",
+    "photo_count": 15,
+    "max_verified_navd88": 7.613,
+    "max_verified_time": "2019-02-02 09:30",
+    "max_pred_navd88": 6.13,
+    "max_pred_time": "2019-02-02 09:30",
+    "max_surge_ft": 1.48,
+    "photos": [
+      {
+        "filename": "20190202_114026.jpg",
+        "time": "11:40:25",
+        "water_level_navd88": 6.022,
+        "gps": null,
+        "camera": "SM-G950U",
+        "active_tiers": []
+      },
+      {
+        "filename": "20190202_114048.jpg",
+        "time": "11:40:48",
+        "water_level_navd88": 6.022,
+        "gps": null,
+        "camera": "SM-G950U",
+        "active_tiers": []
+      },
+      {
+        "filename": "20190202_114053.jpg",
+        "time": "11:40:53",
+        "water_level_navd88": 6.022,
+        "gps": null,
+        "camera": "SM-G950U",
+        "active_tiers": []
+      },
+      {
+        "filename": "20190202_114104.jpg",
+        "time": "11:41:04",
+        "water_level_navd88": 6.022,
+        "gps": null,
+        "camera": "SM-G950U",
+        "active_tiers": []
+      },
+      {
+        "filename": "20190202_114111(1).jpg",
+        "time": "11:41:11",
+        "water_level_navd88": 6.022,
+        "gps": {
+          "lat": 37.940238,
+          "lon": -122.534806,
+          "alt_m": 20.4
+        },
+        "camera": "SM-G950U",
+        "active_tiers": []
+      },
+      {
+        "filename": "20190202_114111.jpg",
+        "time": "11:41:11",
+        "water_level_navd88": 6.022,
+        "gps": {
+          "lat": 37.940238,
+          "lon": -122.534806,
+          "alt_m": 20.4
+        },
+        "camera": "SM-G950U",
+        "active_tiers": []
+      },
+      {
+        "filename": "20190202_114131(1).jpg",
+        "time": "11:41:31",
+        "water_level_navd88": 6.022,
+        "gps": {
+          "lat": 37.940387,
+          "lon": -122.534727,
+          "alt_m": 0.0
+        },
+        "camera": "SM-G950U",
+        "active_tiers": []
+      },
+      {
+        "filename": "20190202_114131.jpg",
+        "time": "11:41:31",
+        "water_level_navd88": 6.022,
+        "gps": {
+          "lat": 37.940387,
+          "lon": -122.534727,
+          "alt_m": 0.0
+        },
+        "camera": "SM-G950U",
+        "active_tiers": []
+      },
+      {
+        "filename": "20190202_114137.jpg",
+        "time": "11:41:37",
+        "water_level_navd88": 6.022,
+        "gps": null,
+        "camera": "SM-G950U",
+        "active_tiers": []
+      },
+      {
+        "filename": "20190202_114143.jpg",
+        "time": "11:41:43",
+        "water_level_navd88": 6.022,
+        "gps": null,
+        "camera": "SM-G950U",
+        "active_tiers": []
+      },
+      {
+        "filename": "20190202_114153(1).jpg",
+        "time": "11:41:53",
+        "water_level_navd88": 6.022,
+        "gps": {
+          "lat": 37.940387,
+          "lon": -122.534727,
+          "alt_m": 0.0
+        },
+        "camera": "SM-G950U",
+        "active_tiers": []
+      },
+      {
+        "filename": "20190202_114153.jpg",
+        "time": "11:41:53",
+        "water_level_navd88": 6.022,
+        "gps": {
+          "lat": 37.940387,
+          "lon": -122.534727,
+          "alt_m": 0.0
+        },
+        "camera": "SM-G950U",
+        "active_tiers": []
+      },
+      {
+        "filename": "20190202_114210.jpg",
+        "time": "11:42:10",
+        "water_level_navd88": 6.022,
+        "gps": null,
+        "camera": "SM-G950U",
+        "active_tiers": []
+      },
+      {
+        "filename": "20190202_114220.jpg",
+        "time": "11:42:20",
+        "water_level_navd88": 6.022,
+        "gps": null,
+        "camera": "SM-G950U",
+        "active_tiers": []
+      },
+      {
+        "filename": "20190202_114443.jpg",
+        "time": "11:44:43",
+        "water_level_navd88": 6.022,
+        "gps": null,
+        "camera": "SM-G950U",
+        "active_tiers": []
+      }
+    ]
+  },
+  {
+    "date": "2018-12-22",
+    "photo_count": 15,
+    "max_verified_navd88": 7.413,
+    "max_verified_time": "2018-12-22 10:06",
+    "max_pred_navd88": 6.928,
+    "max_pred_time": "2018-12-22 10:18",
+    "max_surge_ft": 0.49,
+    "photos": [
+      {
+        "filename": "20181222_114324_001.jpg",
+        "time": "11:43:24",
+        "water_level_navd88": 6.615,
+        "gps": {
+          "lat": 37.940993,
+          "lon": -122.534517,
+          "alt_m": 32.1
+        },
+        "camera": "SM-G950U",
+        "active_tiers": [
+          "APPROACHING STREET_GUTTER (-0.08 ft)"
+        ]
+      },
+      {
+        "filename": "20181222_114328(1).jpg",
+        "time": "11:43:28",
+        "water_level_navd88": 6.615,
+        "gps": {
+          "lat": 37.940993,
+          "lon": -122.534517,
+          "alt_m": 32.1
+        },
+        "camera": "SM-G950U",
+        "active_tiers": [
+          "APPROACHING STREET_GUTTER (-0.08 ft)"
+        ]
+      },
+      {
+        "filename": "20181222_114328.jpg",
+        "time": "11:43:28",
+        "water_level_navd88": 6.615,
+        "gps": {
+          "lat": 37.940993,
+          "lon": -122.534517,
+          "alt_m": 32.1
+        },
+        "camera": "SM-G950U",
+        "active_tiers": [
+          "APPROACHING STREET_GUTTER (-0.08 ft)"
+        ]
+      },
+      {
+        "filename": "20181222_114414.jpg",
+        "time": "11:44:14",
+        "water_level_navd88": 6.615,
+        "gps": null,
+        "camera": "SM-G950U",
+        "active_tiers": [
+          "APPROACHING STREET_GUTTER (-0.08 ft)"
+        ]
+      },
+      {
+        "filename": "20181222_114425(1).jpg",
+        "time": "11:44:25",
+        "water_level_navd88": 6.615,
+        "gps": {
+          "lat": 37.940925,
+          "lon": -122.53468,
+          "alt_m": 45.3
+        },
+        "camera": "SM-G950U",
+        "active_tiers": [
+          "APPROACHING STREET_GUTTER (-0.08 ft)"
+        ]
+      },
+      {
+        "filename": "20181222_114425.jpg",
+        "time": "11:44:25",
+        "water_level_navd88": 6.615,
+        "gps": {
+          "lat": 37.940925,
+          "lon": -122.53468,
+          "alt_m": 45.3
+        },
+        "camera": "SM-G950U",
+        "active_tiers": [
+          "APPROACHING STREET_GUTTER (-0.08 ft)"
+        ]
+      },
+      {
+        "filename": "20181222_114432.jpg",
+        "time": "11:44:32",
+        "water_level_navd88": 6.615,
+        "gps": null,
+        "camera": "SM-G950U",
+        "active_tiers": [
+          "APPROACHING STREET_GUTTER (-0.08 ft)"
+        ]
+      },
+      {
+        "filename": "20181222_114453(1).jpg",
+        "time": "11:44:53",
+        "water_level_navd88": 6.615,
+        "gps": {
+          "lat": 37.940925,
+          "lon": -122.53468,
+          "alt_m": 45.3
+        },
+        "camera": "SM-G950U",
+        "active_tiers": [
+          "APPROACHING STREET_GUTTER (-0.08 ft)"
+        ]
+      },
+      {
+        "filename": "20181222_114453.jpg",
+        "time": "11:44:53",
+        "water_level_navd88": 6.615,
+        "gps": {
+          "lat": 37.940925,
+          "lon": -122.53468,
+          "alt_m": 45.3
+        },
+        "camera": "SM-G950U",
+        "active_tiers": [
+          "APPROACHING STREET_GUTTER (-0.08 ft)"
+        ]
+      },
+      {
+        "filename": "20181222_114509(1).jpg",
+        "time": "11:45:09",
+        "water_level_navd88": 6.514,
+        "gps": {
+          "lat": 37.940925,
+          "lon": -122.53468,
+          "alt_m": 45.3
+        },
+        "camera": "SM-G950U",
+        "active_tiers": [
+          "APPROACHING STREET_GUTTER (-0.19 ft)"
+        ]
+      },
+      {
+        "filename": "20181222_114509.jpg",
+        "time": "11:45:09",
+        "water_level_navd88": 6.514,
+        "gps": {
+          "lat": 37.940925,
+          "lon": -122.53468,
+          "alt_m": 45.3
+        },
+        "camera": "SM-G950U",
+        "active_tiers": [
+          "APPROACHING STREET_GUTTER (-0.19 ft)"
+        ]
+      },
+      {
+        "filename": "20181222_114536(1).mp4",
+        "time": "11:45:36",
+        "water_level_navd88": 6.514,
+        "gps": null,
+        "camera": null,
+        "active_tiers": [
+          "APPROACHING STREET_GUTTER (-0.19 ft)"
+        ]
+      },
+      {
+        "filename": "20181222_114536.mp4",
+        "time": "11:45:36",
+        "water_level_navd88": 6.514,
+        "gps": null,
+        "camera": null,
+        "active_tiers": [
+          "APPROACHING STREET_GUTTER (-0.19 ft)"
+        ]
+      },
+      {
+        "filename": "20181222_114802(1).jpg",
+        "time": "11:48:02",
+        "water_level_navd88": 6.514,
+        "gps": {
+          "lat": 37.940792,
+          "lon": -122.53493,
+          "alt_m": 26.0
+        },
+        "camera": "SM-G950U",
+        "active_tiers": [
+          "APPROACHING STREET_GUTTER (-0.19 ft)"
+        ]
+      },
+      {
+        "filename": "20181222_114802.jpg",
+        "time": "11:48:02",
+        "water_level_navd88": 6.514,
+        "gps": {
+          "lat": 37.940792,
+          "lon": -122.53493,
+          "alt_m": 26.0
+        },
+        "camera": "SM-G950U",
+        "active_tiers": [
+          "APPROACHING STREET_GUTTER (-0.19 ft)"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2017-01-11",
+    "photo_count": 15,
+    "max_verified_navd88": 7.744,
+    "max_verified_time": "2017-01-11 10:00",
+    "max_pred_navd88": 7.067,
+    "max_pred_time": "2017-01-11 09:48",
+    "max_surge_ft": 0.68,
+    "photos": [
+      {
+        "filename": "20170111_110352-SparkyPC.jpg",
+        "time": "11:03:51",
+        "water_level_navd88": 7.088,
+        "gps": null,
+        "camera": "SCH-I545",
+        "active_tiers": [
+          "STREET_GUTTER (+0.39 ft)",
+          "STREET_CORNER (+0.14 ft)",
+          "APPROACHING STREET_CROWN (-0.22 ft)"
+        ]
+      },
+      {
+        "filename": "20170111_110352.jpg",
+        "time": "11:03:51",
+        "water_level_navd88": 7.088,
+        "gps": null,
+        "camera": "SCH-I545",
+        "active_tiers": [
+          "STREET_GUTTER (+0.39 ft)",
+          "STREET_CORNER (+0.14 ft)",
+          "APPROACHING STREET_CROWN (-0.22 ft)"
+        ]
+      },
+      {
+        "filename": "20170111_110403-SparkyPC.jpg",
+        "time": "11:04:02",
+        "water_level_navd88": 7.088,
+        "gps": null,
+        "camera": "SCH-I545",
+        "active_tiers": [
+          "STREET_GUTTER (+0.39 ft)",
+          "STREET_CORNER (+0.14 ft)",
+          "APPROACHING STREET_CROWN (-0.22 ft)"
+        ]
+      },
+      {
+        "filename": "20170111_110403.jpg",
+        "time": "11:04:02",
+        "water_level_navd88": 7.088,
+        "gps": null,
+        "camera": "SCH-I545",
+        "active_tiers": [
+          "STREET_GUTTER (+0.39 ft)",
+          "STREET_CORNER (+0.14 ft)",
+          "APPROACHING STREET_CROWN (-0.22 ft)"
+        ]
+      },
+      {
+        "filename": "20170111_110414-SparkyPC.jpg",
+        "time": "11:04:13",
+        "water_level_navd88": 7.088,
+        "gps": null,
+        "camera": "SCH-I545",
+        "active_tiers": [
+          "STREET_GUTTER (+0.39 ft)",
+          "STREET_CORNER (+0.14 ft)",
+          "APPROACHING STREET_CROWN (-0.22 ft)"
+        ]
+      },
+      {
+        "filename": "20170111_110414.jpg",
+        "time": "11:04:13",
+        "water_level_navd88": 7.088,
+        "gps": null,
+        "camera": "SCH-I545",
+        "active_tiers": [
+          "STREET_GUTTER (+0.39 ft)",
+          "STREET_CORNER (+0.14 ft)",
+          "APPROACHING STREET_CROWN (-0.22 ft)"
+        ]
+      },
+      {
+        "filename": "20170111_110424(1).jpg",
+        "time": "11:04:24",
+        "water_level_navd88": 7.088,
+        "gps": null,
+        "camera": "SCH-I545",
+        "active_tiers": [
+          "STREET_GUTTER (+0.39 ft)",
+          "STREET_CORNER (+0.14 ft)",
+          "APPROACHING STREET_CROWN (-0.22 ft)"
+        ]
+      },
+      {
+        "filename": "20170111_110424-SparkyPC.jpg",
+        "time": "11:04:24",
+        "water_level_navd88": 7.088,
+        "gps": null,
+        "camera": "SCH-I545",
+        "active_tiers": [
+          "STREET_GUTTER (+0.39 ft)",
+          "STREET_CORNER (+0.14 ft)",
+          "APPROACHING STREET_CROWN (-0.22 ft)"
+        ]
+      },
+      {
+        "filename": "20170111_110424.jpg",
+        "time": "11:04:24",
+        "water_level_navd88": 7.088,
+        "gps": null,
+        "camera": "SCH-I545",
+        "active_tiers": [
+          "STREET_GUTTER (+0.39 ft)",
+          "STREET_CORNER (+0.14 ft)",
+          "APPROACHING STREET_CROWN (-0.22 ft)"
+        ]
+      },
+      {
+        "filename": "20170111_110511(1).jpg",
+        "time": "11:05:11",
+        "water_level_navd88": 7.088,
+        "gps": null,
+        "camera": "SCH-I545",
+        "active_tiers": [
+          "STREET_GUTTER (+0.39 ft)",
+          "STREET_CORNER (+0.14 ft)",
+          "APPROACHING STREET_CROWN (-0.22 ft)"
+        ]
+      },
+      {
+        "filename": "20170111_110511(2).jpg",
+        "time": "11:05:11",
+        "water_level_navd88": 7.088,
+        "gps": null,
+        "camera": "SCH-I545",
+        "active_tiers": [
+          "STREET_GUTTER (+0.39 ft)",
+          "STREET_CORNER (+0.14 ft)",
+          "APPROACHING STREET_CROWN (-0.22 ft)"
+        ]
+      },
+      {
+        "filename": "20170111_110511.jpg",
+        "time": "11:05:11",
+        "water_level_navd88": 7.088,
+        "gps": null,
+        "camera": "SCH-I545",
+        "active_tiers": [
+          "STREET_GUTTER (+0.39 ft)",
+          "STREET_CORNER (+0.14 ft)",
+          "APPROACHING STREET_CROWN (-0.22 ft)"
+        ]
+      },
+      {
+        "filename": "20170111_110527(1).jpg",
+        "time": "11:05:26",
+        "water_level_navd88": 7.088,
+        "gps": null,
+        "camera": "SCH-I545",
+        "active_tiers": [
+          "STREET_GUTTER (+0.39 ft)",
+          "STREET_CORNER (+0.14 ft)",
+          "APPROACHING STREET_CROWN (-0.22 ft)"
+        ]
+      },
+      {
+        "filename": "20170111_110527(2).jpg",
+        "time": "11:05:26",
+        "water_level_navd88": 7.088,
+        "gps": null,
+        "camera": "SCH-I545",
+        "active_tiers": [
+          "STREET_GUTTER (+0.39 ft)",
+          "STREET_CORNER (+0.14 ft)",
+          "APPROACHING STREET_CROWN (-0.22 ft)"
+        ]
+      },
+      {
+        "filename": "20170111_110527.jpg",
+        "time": "11:05:26",
+        "water_level_navd88": 7.088,
+        "gps": null,
+        "camera": "SCH-I545",
+        "active_tiers": [
+          "STREET_GUTTER (+0.39 ft)",
+          "STREET_CORNER (+0.14 ft)",
+          "APPROACHING STREET_CROWN (-0.22 ft)"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2017-01-08",
+    "photo_count": 13,
+    "max_verified_navd88": 7.724,
+    "max_verified_time": "2017-01-08 07:30",
+    "max_pred_navd88": 6.512,
+    "max_pred_time": "2017-01-08 07:24",
+    "max_surge_ft": 1.21,
+    "photos": [
+      {
+        "filename": "20170108_095113(1).jpg",
+        "time": "09:51:12",
+        "water_level_navd88": 5.828,
+        "gps": null,
+        "camera": "SCH-I545",
+        "active_tiers": []
+      },
+      {
+        "filename": "20170108_095113.jpg",
+        "time": "09:51:12",
+        "water_level_navd88": 5.828,
+        "gps": null,
+        "camera": "SCH-I545",
+        "active_tiers": []
+      },
+      {
+        "filename": "20170108_095118(1).jpg",
+        "time": "09:51:18",
+        "water_level_navd88": 5.828,
+        "gps": null,
+        "camera": "SCH-I545",
+        "active_tiers": []
+      },
+      {
+        "filename": "20170108_095118.jpg",
+        "time": "09:51:18",
+        "water_level_navd88": 5.828,
+        "gps": null,
+        "camera": "SCH-I545",
+        "active_tiers": []
+      },
+      {
+        "filename": "20170108_095211-SparkyPC.jpg",
+        "time": "09:52:11",
+        "water_level_navd88": 5.828,
+        "gps": null,
+        "camera": "SCH-I545",
+        "active_tiers": []
+      },
+      {
+        "filename": "20170108_095211.jpg",
+        "time": "09:52:11",
+        "water_level_navd88": 5.828,
+        "gps": null,
+        "camera": "SCH-I545",
+        "active_tiers": []
+      },
+      {
+        "filename": "20170108_095242-SparkyPC.jpg",
+        "time": "09:52:42",
+        "water_level_navd88": 5.828,
+        "gps": null,
+        "camera": "SCH-I545",
+        "active_tiers": []
+      },
+      {
+        "filename": "20170108_095242.jpg",
+        "time": "09:52:42",
+        "water_level_navd88": 5.828,
+        "gps": null,
+        "camera": "SCH-I545",
+        "active_tiers": []
+      },
+      {
+        "filename": "20170108_095246(1).jpg",
+        "time": "09:52:46",
+        "water_level_navd88": 5.828,
+        "gps": null,
+        "camera": "SCH-I545",
+        "active_tiers": []
+      },
+      {
+        "filename": "20170108_095246.jpg",
+        "time": "09:52:46",
+        "water_level_navd88": 5.828,
+        "gps": null,
+        "camera": "SCH-I545",
+        "active_tiers": []
+      },
+      {
+        "filename": "20170108_095251(1).jpg",
+        "time": "09:52:51",
+        "water_level_navd88": 5.828,
+        "gps": null,
+        "camera": "SCH-I545",
+        "active_tiers": []
+      },
+      {
+        "filename": "20170108_095251(2).jpg",
+        "time": "09:52:51",
+        "water_level_navd88": 5.828,
+        "gps": null,
+        "camera": "SCH-I545",
+        "active_tiers": []
+      },
+      {
+        "filename": "20170108_095251.jpg",
+        "time": "09:52:51",
+        "water_level_navd88": 5.828,
+        "gps": null,
+        "camera": "SCH-I545",
+        "active_tiers": []
+      }
+    ]
+  },
+  {
+    "date": "2014-12-03",
+    "photo_count": 11,
+    "max_verified_navd88": 7.846,
+    "max_verified_time": "2014-12-03 09:00",
+    "max_pred_navd88": 6.608,
+    "max_pred_time": "2014-12-03 08:30",
+    "max_surge_ft": 1.24,
+    "photos": [
+      {
+        "filename": "20141203_092552.jpg",
+        "time": "09:25:51",
+        "water_level_navd88": 7.698,
+        "gps": null,
+        "camera": "SCH-I545",
+        "active_tiers": [
+          "STREET_GUTTER (+1.00 ft)",
+          "STREET_CORNER (+0.75 ft)",
+          "STREET_CROWN (+0.39 ft)",
+          "PARKING_AISLE (+0.25 ft)",
+          "APPROACHING PRIUS_STALL (-0.05 ft)"
+        ]
+      },
+      {
+        "filename": "20141203_092558.jpg",
+        "time": "09:25:57",
+        "water_level_navd88": 7.698,
+        "gps": null,
+        "camera": "SCH-I545",
+        "active_tiers": [
+          "STREET_GUTTER (+1.00 ft)",
+          "STREET_CORNER (+0.75 ft)",
+          "STREET_CROWN (+0.39 ft)",
+          "PARKING_AISLE (+0.25 ft)",
+          "APPROACHING PRIUS_STALL (-0.05 ft)"
+        ]
+      },
+      {
+        "filename": "20141203_092622.jpg",
+        "time": "09:26:22",
+        "water_level_navd88": 7.698,
+        "gps": null,
+        "camera": "SCH-I545",
+        "active_tiers": [
+          "STREET_GUTTER (+1.00 ft)",
+          "STREET_CORNER (+0.75 ft)",
+          "STREET_CROWN (+0.39 ft)",
+          "PARKING_AISLE (+0.25 ft)",
+          "APPROACHING PRIUS_STALL (-0.05 ft)"
+        ]
+      },
+      {
+        "filename": "20141203_092705.jpg",
+        "time": "09:27:04",
+        "water_level_navd88": 7.59,
+        "gps": null,
+        "camera": "SCH-I545",
+        "active_tiers": [
+          "STREET_GUTTER (+0.89 ft)",
+          "STREET_CORNER (+0.64 ft)",
+          "STREET_CROWN (+0.28 ft)",
+          "PARKING_AISLE (+0.14 ft)",
+          "APPROACHING PRIUS_STALL (-0.16 ft)"
+        ]
+      },
+      {
+        "filename": "20141203_093008.jpg",
+        "time": "09:30:07",
+        "water_level_navd88": 7.59,
+        "gps": null,
+        "camera": "SCH-I545",
+        "active_tiers": [
+          "STREET_GUTTER (+0.89 ft)",
+          "STREET_CORNER (+0.64 ft)",
+          "STREET_CROWN (+0.28 ft)",
+          "PARKING_AISLE (+0.14 ft)",
+          "APPROACHING PRIUS_STALL (-0.16 ft)"
+        ]
+      },
+      {
+        "filename": "20141203_101126.jpg",
+        "time": "10:11:26",
+        "water_level_navd88": 6.927,
+        "gps": null,
+        "camera": "SPH-L710\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+        "active_tiers": [
+          "STREET_GUTTER (+0.23 ft)",
+          "APPROACHING STREET_CORNER (-0.02 ft)"
+        ]
+      },
+      {
+        "filename": "20141203_101140.jpg",
+        "time": "10:11:39",
+        "water_level_navd88": 6.927,
+        "gps": null,
+        "camera": "SPH-L710\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+        "active_tiers": [
+          "STREET_GUTTER (+0.23 ft)",
+          "APPROACHING STREET_CORNER (-0.02 ft)"
+        ]
+      },
+      {
+        "filename": "20141203_101234.jpg",
+        "time": "10:12:33",
+        "water_level_navd88": 6.927,
+        "gps": null,
+        "camera": "SPH-L710\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+        "active_tiers": [
+          "STREET_GUTTER (+0.23 ft)",
+          "APPROACHING STREET_CORNER (-0.02 ft)"
+        ]
+      },
+      {
+        "filename": "20141203_101254.jpg",
+        "time": "10:12:54",
+        "water_level_navd88": 6.927,
+        "gps": null,
+        "camera": "SPH-L710\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+        "active_tiers": [
+          "STREET_GUTTER (+0.23 ft)",
+          "APPROACHING STREET_CORNER (-0.02 ft)"
+        ]
+      },
+      {
+        "filename": "20141203_101323.jpg",
+        "time": "10:13:23",
+        "water_level_navd88": 6.927,
+        "gps": null,
+        "camera": "SPH-L710\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+        "active_tiers": [
+          "STREET_GUTTER (+0.23 ft)",
+          "APPROACHING STREET_CORNER (-0.02 ft)"
+        ]
+      },
+      {
+        "filename": "20141203_101334.jpg",
+        "time": "10:13:34",
+        "water_level_navd88": 6.927,
+        "gps": null,
+        "camera": "SPH-L710\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+        "active_tiers": [
+          "STREET_GUTTER (+0.23 ft)",
+          "APPROACHING STREET_CORNER (-0.02 ft)"
+        ]
+      }
+    ]
+  }
+]

@@ -4,6 +4,8 @@
 ## 🎙️ Session 1: 2026-10-10 02_49_38
 - **Source File**: `2026-10-10 02_49_38.mp3`
 
+
+
 - **[2:53:55 AM] Andy**: Then you didn't then that's fine. She wasn't able to make it. Who can have their feelings? You think they're judging you on it? Then let them judge.
 
 - **[2:56:32 AM] Andy**: Well John gave me a thousand dollars that I had ceded for that already, and then I spent roughly five or six hundred dollars that you already ceded before. I mean if you want to contribute to that I mean that would be I mean I wouldn't have rejected. But you know sometimes I feel guilty it's not enough. But I think the I mean it's like how much you're giving yeah. So generally you would think hey Google stop. Let's see what it was doing. I'm sorry nothing is playing right now. Okay she's not a she but that's okay.
