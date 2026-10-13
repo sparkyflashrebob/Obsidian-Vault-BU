@@ -1,0 +1,1228 @@
+# Plaud Daily Transcript - Sunday, October 11, 2026
+- **Date**: 2026-10-11
+- **Total Audio Sessions Processed**: 3
+- **Generated**: 2026-10-13 07:13:19
+
+---
+
+## 🎙️ Session 1: 2026-10-11 19:34:07 (4h50m)
+- **Source File**: `2026-10-11 19_34_07.mp3`
+- **Audio ID**: `of_18cddd25547b6b5568ad4e41b0622f47`
+
+- **[00:00 - End] (Speaker / Group)**: - **[7:34:07 PM] Andy**: 8.25 That's going to be bad but we know that we can survive that We can go way worse. We can survive those And that's a relief We just got to move cars. By our hipwaters We'll move our cars and we actually have now a warning system. Actually I got four alerts now. how many alerts is not enough. I mean just ignore them They're just there. I'm going to choose a little more.
+- **[7:34:55 PM] Andrea**: Is she nibble?
+- **[7:34:58 PM] Andy**: Too much politely I gave you. Dammit
+- **[7:35:32 PM] Andy**: cricket.
+- **[7:36:26 PM] Andy**: I'm going to have a look at this one,
+- **[7:37:24 PM] Andy**: Why scrub daddy seems to be doing fine. Here we go.
+- **[7:38:09 PM] Andrea**: Yeah I mean we're going to be doing a little bit of a conversation.
+- **[7:38:21 PM] Andrea**: Then we're going to be doing some sort of a conversation. Now we're going to be doing some sort of a conversation. But also as a wonderful not a really good tie event,
+- **[7:38:33 PM] Andy**: which is the tie event that we're subsequently discussing. three feet of sea level rise. All of San Francisco all of the interior, from Richmond to San Jose all of it's included. All the flatlands.
+- **[7:39:27 PM] Andy**: So we're in that one right off the bat.
+- **[7:39:37 PM] Andrea**: one count 258 this is mostly in the trail, according to the rough marks for areas,
+- **[7:39:42 PM] Andy**: also the tight interaction with one and one
+- **[7:39:44 PM] Andrea**: and the marks for areas on the whole,
+- **[7:39:47 PM] Andy**: while marks in that area is mostly in the path of that area. So in the path of that area, you're going to have to go straight to the right side and you're going to have to go straight to the
+- **[7:40:03 PM] Andy**: Are we considering sea level rise in addition to the kelvin wave? I'm just asking I mean we can handle a two foot increase right? That was basically the gist of it okay see what it turns here.
+- **[7:42:20 PM] Andy**: captured In our long-term risk model we should examine how future sea level rice progressively alters each elevation tier.
+- **[7:42:48 PM] Andy**: This is right here Since 1990 relative sea level at the Golden Gate has risen by 2.4 that's not much Real-time integration because our system calculates the real-time anomaly as observed water level minus astronomical predictions that accumulated cycler C level rise is permanently baked into our positive of anomaly So that's great They're thinking it's going to get incrementally bigger each by 2030 to be half a foot and by 2040 to be three quarters of a foot and by 2050 to be 1.2 feet And it's got it all on each one So it says right here I'm gonna say yes I've got We'll have reports now that they're going in there and then I've got says even so our apartment level is at 10.33 feet above sea level even with plus 1.2 feet the all-time record flood in your area would rise to 9.66 leaving you eight inches of
+- **[7:44:38 PM] Andy**: buffer So that's our apartment A car is obviously going to be affected way before then The street parking cars could come unsustainable in 20 30, 2040 Carport would be some sustainable in 2040 2050 If I lived in 2050 that'd be 90 years old.
+- **[7:46:09 PM] Andy**: Nobel Prize-winning physicist Adam Reese has flagged a problem sitting at the very heart of modern cosmology. Our understanding of the universe may still be missing something fundamental. The James Webb Space Telescope was supposed to help settle a long-running disagreement over exactly how fast the universe is expanding. Instead Webb's precise new measurements have confirmed the disagreement is real. deepening a puzzle known as the Hubble Tension and re-opening a possibility few
+- **[7:46:38 PM] Andrea**: physicists raised lightly The Einstein's theory of gravity itself made you
+- **[7:46:43 PM] Andy**: revise it Here's how a century-old discovery about the cosmos turned into one of the most stubborn open questions in physics. They may they're talking about new science something maybe like the universe may not be what we think it is.
+- **[7:47:18 PM] Andy**: Things that were special.
+- **[7:47:29 PM] Andy**: M-M-M-A-A-T. The African philosophy the West doesn't want you to know. Living Truth Create Harmony Restore Balance.
+- **[7:47:43 PM] Andrea**: Before there was a course I was only.
+- **[7:47:46 PM] Andy**: The whole room was a couple. Mod. So I'm going to add this to my thing to research.
+- **[7:48:06 PM] Andy**: The min 100 meter semi final at the 2026 USATF outdoor championship were reaching boiling point.
+- **[7:48:15 PM] Andrea**: Benara has already delivered a witness in 9.82.
+- **[7:48:18 PM] Andy**: We need to hold on to the answer to the inset of the night and now it's time for Noah to lie.
+- **[7:48:40 PM] Andy**: because I'm not fully going to get training to any final.
+- **[7:49:20 PM] Andy**: I have a shot at the Melbourne National Park here at night night.
+- **[7:49:38 PM] Andy**: Let's take a ride. Here we go running make around my way ahead of Nullo Isle.
+- **[7:49:43 PM] Andrea**: But isn't with Nullo special?
+- **[7:49:56 PM] Andrea**: if that's a personal best leader in 975,
+- **[7:50:02 PM] Andy**: Since stars are so much better this year,
+- **[7:50:05 PM] Andrea**: that he's probably due for a personal best.
+- **[7:50:20 PM] Andy**: Oh my gosh!
+- **[7:50:30 PM] Andy**: There is a story older than writing.
+- **[7:50:34 PM] Andrea**: The sages of ancient India told it to their students.
+- **[7:50:39 PM] Andy**: It is a story about you.
+- **[7:50:59 PM] Andrea**: Two birds golden and terrible friends, it on the same tree One of them is the fruit sweet fruit and bitter The other is nothing. It simply watches The first bird is you and you know yourself The one who wants and wins and you lose it. The Sages call it the Jeeva. The second birth is also the one who has been watching all the life and has never once been hired.
+- **[7:51:44 PM] Andy**: They call it the suction the witness the suction and the tree in Maya the great So we thought of the world. When the fruit is fruit it's famous.
+- **[7:52:08 PM] Andrea**: That green job of man and that child is born. When the fruit is bitter it's moot. The job is lost. Someone lost it's gone.
+- **[7:52:21 PM] Andy**: Exactly the story of the night.
+- **[7:52:53 PM] Andrea**: I know that the stage is so large the first part is found by a chain of things to learn. I'll be there. From it I'll be later you'll tell you how to tell the real from the onion. From that I'll be mine and you'll go. You'll set the fire and mine. From the goal the saga and creation. Wanting and not wanting. From wanting. forward action and to reach the through direction of body again and again.
+- **[7:53:44 PM] Andy**: Break the hand into the deep groove Break the first link and the whole chain falls at one.
+- **[7:54:24 PM] Andrea**: You cannot breathe without it it is working even now for your eyes. What is it that the sage would not say? Nature they say. Not faith. Not short not long not blind.
+- **[7:54:52 PM] Andy**: This is exactly what we are talking about tonight.
+- **[7:55:22 PM] Andrea**: And the great thing turns over and lies.
+- **[7:55:27 PM] Andy**: if it comes back. That's what I think.
+- **[7:55:34 PM] Andrea**: You are that. Until one day the first bird stops eating. The group no longer finds it. The chamber calmer is broken. It's time and it seems that there was only about one breath.
+- **[7:56:03 PM] Andy**: great story.
+- **[7:57:13 PM] Andrea**: We've got a lot to know. This wasn't good enough. We're talking about their offer to remove it. We've got a guy who struggled. And I'll fill out a third round. if that's what I'm going to say but if that's what I'm going to say.
+- **[7:57:37 PM] Andy**: First we're going to go ahead and see what we're going to do.
+- **[7:57:43 PM] Andrea**: It wasn't a great experience it was overall outcome.
+- **[7:57:50 PM] Andrea**: It was called upon and I really appreciate all my teammates,
+- **[7:57:53 PM] Andy**: What he got to play can I see that real quick Oh because I turned away from the game because they were getting spanked. Look at the score. That's not even the bad part. That's what I'm saying. If he did I want to see what he did how he did.
+- **[7:58:48 PM] Andrea**: Just see.
+- **[7:59:00 PM] Andy**: Okay that's not him. Okay so they finally did score once but let me see what 45 here we go. There he is. well he's not the end of the game and they're down way big so it's just Get some experience in the real game game- going. Oh you're going to probably be agreed towing that lowernd though.
+- **[8:00:34 PM] Andy**: Just waiting for our drivers to leave the numbers here and trying to really get those offense so hard. It's Laville.
+- **[8:01:41 PM] Andy**: Yeah I don't think that I'll leave. Look at that. He got a pat in his lane but he got a pat he got a first down.
+- **[8:02:14 PM] Andrea**: First and ten.
+- **[8:02:16 PM] Andy**: First and ten. Nice. That was a bullet. Yeah he can throw.
+- **[8:02:31 PM] Andy**: You could be like a time radio
+- **[8:02:58 PM] Andy**: Well they did He didn't score though
+- **[8:03:22 PM] Andy**: The game so this is the end of the game but
+- **[8:03:35 PM] Andy**: Nice
+- **[8:03:48 PM] Andy**: Shit
+- **[8:03:55 PM] Andy**: Shit
+- **[8:04:46 PM] Andy**: four and five
+- **[8:04:56 PM] Andy**: all they're going with it so it's going to be incomplete they're going to turn it over
+- **[8:05:32 PM] Andy**: I can do it.
+- **[8:05:56 PM] Andy**: He dropped it!
+- **[8:06:02 PM] Andy**: Well we want to catch up with dark matter but we have gala thrones and lanterns so we We're going to run out of some things huh? We can pull into another month for ED. There's two more of these. I think. Let's go to 10. We could save these if we wanted to because we're going to pay for this
+- **[8:07:26 PM] Andy**: Oh virus.
+- **[8:07:35 PM] Andrea**: come here
+- **[8:08:05 PM] Andrea**: J Stranger Ray Lake National Guard, is the South of J.S Sharf the city district.
+- **[8:08:15 PM] Andy**: Pretty much so now. The first case of tonight is in terms
+- **[8:08:18 PM] Andrea**: of the confirmed in Chicago.
+- **[8:08:20 PM] Andy**: It's very quickly one of the highest For days although we thought the identified
+- **[8:08:26 PM] Andrea**: allocation deal her name was Camilla Holger. We need you to confirm that this is your situation.
+- **[8:08:58 PM] Andrea**: The Meng come up.
+- **[8:09:05 PM] Andy**: Come up come up. Through her her her!
+- **[8:09:15 PM] Andrea**: There's something calling it the blackest iris place.
+- **[8:09:18 PM] Andy**: Like iris place.
+- **[8:09:35 PM] Andy**: Him.
+- **[8:09:40 PM] Andy**: Don't hurt her. She's dead.
+- **[8:10:15 PM] Andrea**: He walked out of the Chicago Park to see a pool of water.
+- **[8:10:35 PM] Andrea**: In fear right? You missed him. They're not going to get to the cube. if they were telling us.
+- **[8:11:13 PM] Andrea**: Oh the versions. They put this button on it back. Oh it looks like you.
+- **[8:11:39 PM] Andy**: In our backyard. I'm glad we watched the shows. Picky I gotta be picky.
+- **[8:12:08 PM] Andrea**: One picky show?
+- **[8:12:13 PM] Andy**: One tonight. You can't make him kill you. And you're alive.
+- **[8:12:26 PM] Andrea**: How long have I been done?
+- **[8:12:30 PM] Andy**: I can't handle it.
+- **[8:12:34 PM] Andrea**: Make sure you're not alive. My hand died four years ago.
+- **[8:12:50 PM] Andrea**: Well I'm better now.
+- **[8:12:59 PM] Andrea**: Why don't you come to me now? I think I'm not. I talk to the fans. Do the same.
+- **[8:13:42 PM] Andy**: Well I'm sorry I didn't mean to tell you that.
+- **[8:13:49 PM] Andrea**: I'm not sure it's much complicated for me,
+- **[8:14:00 PM] Andrea**: I'm tearing apart,
+- **[8:14:07 PM] Andy**: Hope for it. Jason is the boss of both he comes like a son.
+- **[8:14:19 PM] Andrea**: He's a boss. He doesn't understand it. I don't even know.
+- **[8:14:39 PM] Andrea**: It's brought me back to some place old. As kids I never knew which was the real version of my father the one who had time or thought.
+- **[8:15:08 PM] Andy**: I'm going to move the base of all the burdens of my husband and we'll just hunt right back to ours.
+- **[8:16:26 PM] Andy**: What he was hoping for he wanted to restart. Hello it's in the house the door open in the house.
+- **[8:16:58 PM] Andrea**: Oh it can cover.
+- **[8:17:20 PM] Andy**: I call out the pyramid. Well the mind and Egyptian pyramids were literally built before but that's right. Other worlds seem from me. And the shape was more efficient. Hey. His purpose is that he's not the human.
+- **[8:18:07 PM] Andrea**: Is that you?
+- **[8:18:10 PM] Andy**: My partner in this project. You will be picked up.
+- **[8:18:19 PM] Andy**: Look at that. And you must be Blair.
+- **[8:18:23 PM] Andrea**: First one anyway.
+- **[8:18:26 PM] Andy**: Yeah I was getting volunteer for that.
+- **[8:18:29 PM] Andrea**: I was working about your experience with that. And what's that?
+- **[8:18:35 PM] Andy**: Oh it's a world start.
+- **[8:18:37 PM] Andrea**: You're mapping them?
+- **[8:18:38 PM] Andy**: Oh I mostly did entry at this point but Eventually we hope to organize it in more meaningful ways.
+- **[8:18:44 PM] Andrea**: How many are you mad? Is it a 74-year-old?
+- **[8:18:53 PM] Andy**: That's a basic medical act.
+- **[8:18:55 PM] Andrea**: We visit it when technological assets,
+- **[8:18:58 PM] Andy**: which there's a primary interest to us.
+- **[8:19:01 PM] Andrea**: If you think we have people's incredible smart cities.
+- **[8:19:06 PM] Andy**: You join us again?
+- **[8:19:09 PM] Andrea**: You know they're trained to question what these guys are.
+- **[8:19:12 PM] Andy**: I guess the guys over there.
+- **[8:19:19 PM] Andy**: Well we should think of things like omniscient conflict.
+- **[8:19:21 PM] Andrea**: Sometimes these cool worlds they're not trades.
+- **[8:19:24 PM] Andy**: A year ago we stopped using the box. It's that way you know how to enter.
+- **[8:19:29 PM] Andrea**: It's actually important isn't it? Not the one you know.
+- **[8:19:34 PM] Andy**: They're recruiting from this world. Brian!
+- **[8:19:39 PM] Andrea**: Let's get a friend of mine.
+- **[8:19:44 PM] Andy**: She's no another version of you. Ryan's the best thing about it.
+- **[8:19:51 PM] Andrea**: There's a 3D controller. It lasts a month.
+- **[8:19:54 PM] Andy**: Yeah you actually don't want to shoot up in words. Slap night and night.
+- **[8:19:58 PM] Andrea**: You get to go.
+- **[8:19:59 PM] Andy**: And we were so close. We were in a trowel.
+- **[8:20:01 PM] Andrea**: And we were at the beach. How did you build it in this world? Well we saw some tricky components from other worlds. I'm the rest of the velocity tech R&D.
+- **[8:20:16 PM] Andy**: Is it functional?
+- **[8:20:22 PM] Andy**: Power is the main issue. It's so big you can hold on for 20 minutes at a time. Somebody gets stuck in the middle of the world. Okay so how are you powering it?
+- **[8:20:32 PM] Andrea**: I don't but obviously you have to tell me the kitchen. Nuclear. It's just a scotch nuclear huh? Just a little bit.
+- **[8:20:45 PM] Andy**: 90X compared to BLG Mom.
+- **[8:20:50 PM] Andy**: No goods?
+- **[8:20:56 PM] Andy**: No goods? You were trying to solve your power issues with vision.
+- **[8:21:01 PM] Andrea**: Why do you make it so big?
+- **[8:21:04 PM] Andy**: Okay it looks like a lot but you do remember the original training.
+- **[8:21:07 PM] Andrea**: That's right.
+- **[8:21:08 PM] Andy**: Through the door of a world that I'm sure to be,
+- **[8:21:11 PM] Andrea**: is that still ravaged out. Through the door of a world that has reverent climate change, big species of extinction harsh poverty. Through the door of a world that have ended more. And we will live a big world.
+- **[8:21:24 PM] Andy**: We will find the best technology the brightest idea
+- **[8:21:27 PM] Andrea**: is when we will bring them home. by a lot of time to think about your vision when I was talking to you.
+- **[8:21:49 PM] Andy**: I've been thinking about the cube and the wall.
+- **[8:21:51 PM] Andrea**: What's your life going on that well?
+- **[8:21:53 PM] Andy**: What's that Can I just sit a little bit shut down?
+- **[8:21:56 PM] Andrea**: You don't want us if I could bring everybody up so we could get a tube this weekend? and he didn't hold her he didn't have a separator.
+- **[8:22:10 PM] Andrea**: That's the name of Stuart.
+- **[8:22:27 PM] Andrea**: That is a lot to be said below. Wouldn't the man just come to me? Yeah cool wires and no leaves.
+- **[8:22:37 PM] Andy**: What the shit Sheila?
+- **[8:22:39 PM] Andrea**: Get to the end.
+- **[8:22:41 PM] Andy**: So what is highly advanced? Not yet available in stores. Elocity-labeled technology doing is somewhere to ask you
+- **[8:22:49 PM] Andrea**: and a fucking abandoned school. These people are getting on whatever velocity is doing. You figured it out.
+- **[8:23:00 PM] Andy**: These people are clearly super-sophisticated corporate spies. But I know you don't get a shit about the band business,
+- **[8:23:08 PM] Andrea**: but the ones that you destroy in that McNamara tech,
+- **[8:23:12 PM] Andy**: I need to stop them and Oh corporate that's pretty nice.
+- **[8:23:16 PM] Andrea**: No pretty useful.
+- **[8:23:23 PM] Andy**: I'm going to do this world to see any dye that is polluted within the age of its life. Carbon levels spike to 700 ppm. Their scientists were able to build carbon scrubbers that could filter it in.
+- **[8:23:52 PM] Andrea**: 18 metric tons of the atmosphere a day. Who did quite a bit back from the break.
+- **[8:23:57 PM] Andy**: I brought those plants to many hurting worlds.
+- **[8:24:00 PM] Andrea**: But it was these years in cases.
+- **[8:24:17 PM] Andrea**: My God.
+- **[8:24:22 PM] Andy**: You could drive a semi-trosser here. Exactly. Get a foundation or more. Or refugees from a dying planet.
+- **[8:24:37 PM] Andy**: And has anyone traveled in the world?
+- **[8:24:42 PM] Andrea**: No one has. It's too dangerous.
+- **[8:24:45 PM] Andy**: Especially with power issue. But when you fire it up you do a position
+- **[8:24:51 PM] Andrea**: I'm guessing here if she was a rock house I'm not sure if she was a rock house I'm Here I am honey. Last night I heard about the day I asked your mother to marry me. I asked her if I could be your father. And I became an open unloved, fathered and cherished her for the most of her life. And I became your father.
+- **[8:26:12 PM] Andrea**: You're going to have to do my job now. I'm going to have to do my job now.
+- **[8:26:53 PM] Andrea**: Somebody's breaking in yeah he's going to steal the technology the papers he yeah,
+- **[8:27:21 PM] Andy**: We need to do it for his girlfriend or whatever this is.
+- **[8:27:51 PM] Andrea**: One day I'm going to tell you what day the day is going to come do you want to say that? I'm going to tell you what I'm telling you. I'm going to tell you what day the day is going to come.
+- **[8:28:12 PM] Andy**: Charlie has gone.
+- **[8:28:24 PM] Andy**: Oh where are you going?
+- **[8:28:28 PM] Andrea**: I don't want to get on trouble.
+- **[8:28:31 PM] Andy**: Oh that's okay he's home.
+- **[8:28:35 PM] Andrea**: Where are you going? I don't want to get on the trouble. No that's okay you won't. Are you just going to come to the other side for a few minutes to visit her front?
+- **[8:28:55 PM] Andy**: I'm just going to do it. She's going to come back now? You tell him that I called him.
+- **[8:29:10 PM] Andy**: Everything OK Dug
+- **[8:29:28 PM] Andrea**: Oh did you really come through? Wait Charlie? Why are you on my way? You're not in any danger.
+- **[8:29:46 PM] Andy**: I'm Laura I'm
+- **[8:29:48 PM] Andrea**: I'm a little excited that I've never met Charlie before. You've been traveling along? By the day in the other injuries,
+- **[8:30:07 PM] Andy**: what happened?
+- **[8:30:09 PM] Andrea**: Brinch hit me. It was in a forest where something was chasing me. I'm glad you made it here.
+- **[8:30:28 PM] Andy**: Another element.
+- **[8:30:31 PM] Andrea**: What is this point? My home.
+- **[8:30:37 PM] Andy**: I was freaking upstairs a couple of years ago.
+- **[8:30:40 PM] Andrea**: When I heard what sounded like an explosion that shook the bones of the house, I ran downstairs to find three intruders. A man named Jason Beston and a woman named Amanda Lucret. You've done my dad?
+- **[8:31:11 PM] Andrea**: Can you just cool with the box? Being in your house? But I'm thinking like that. Are you hungry? Uh Erd. Are you tired? You're welcome to sleep here for a few hours.
+- **[8:31:37 PM] Andy**: Have a guest for a month's air.
+- **[8:31:39 PM] Andrea**: A lot of people are staying here at the box. This couch both hands.
+- **[8:32:08 PM] Andy**: Hey Rich Stores you can't come to the home right now so I'm going to let you know.
+- **[8:32:32 PM] Andrea**: Jacob hey there. I just called Charlie and one of them is gone and yesterday I didn't put the mask on.
+- **[8:32:45 PM] Andy**: I know my dad's not but I know that I should be there in the show and I think he's gonna be there. He doesn't have any context for it.
+- **[8:33:21 PM] Andrea**: What do you know what's going on? Oh I'm sorry I can't hear you.
+- **[8:33:37 PM] Andrea**: You know it must be an important day of your life. The vision makes yourself. That's what you do.
+- **[8:33:49 PM] Andrea**: The brightest the cleanest the most beautiful the world I've ever met.
+- **[8:34:01 PM] Andrea**: It's not a perfect sight.
+- **[8:34:13 PM] Andrea**: Thank you for leaving I'm here. Go find your son.
+- **[8:35:02 PM] Andrea**: Okay the PI that I you know helped me with the thing I tried it's all back around. Well I'll see you. We're gonna get you.
+- **[8:35:34 PM] Andrea**: yeah. Yeah that's right.
+- **[8:35:37 PM] Andy**: We've got a place. We'll find a bone and square.
+- **[8:35:42 PM] Andrea**: And I work here in the Southern College.
+- **[8:35:47 PM] Andy**: What's your study?
+- **[8:35:48 PM] Andrea**: Architecture. That's great.
+- **[8:35:54 PM] Andrea**: Hey that's why I mentioned it. I'd like to I got a lot of crap. There's before I have to be honest with you.
+- **[8:36:10 PM] Andrea**: Yeah I'm not going to get crazy in here.
+- **[8:36:24 PM] Andy**: What's it feel?
+- **[8:36:31 PM] Andrea**: It was worth it.
+- **[8:36:57 PM] Andrea**: What information?
+- **[8:37:04 PM] Andrea**: The important thing for this to go. I'll be very familiar.
+- **[8:37:14 PM] Andrea**: The rest you leave right now.
+- **[8:37:16 PM] Andy**: What does it do if you lock him? or get someone to drag you and your family or finally getting your foot in the air. You're awesome no you're not moving. Jason Stewart does Charlie's school know? I'm not trying to mess up your life, but maybe we can help each other out. Oh good day. Good day son. Yeah yeah that's all good.
+- **[8:37:37 PM] Andy**: I'll have another one.
+- **[8:38:31 PM] Andrea**: I'll show you.
+- **[8:38:34 PM] Andy**: You'll leave me in my family a little forever. No I was going to get rid of him. He's giving him some of the Hey Matt! Sorry.
+- **[8:38:45 PM] Andrea**: Listen I hate to do this to you. I need to take off. I'm just going to spend a little bit of my life. It's a family in which it's good to get new.
+- **[8:39:14 PM] Andrea**: I have to do this.
+- **[8:39:31 PM] Andrea**: Tell him.
+- **[8:39:41 PM] Andy**: I will.
+- **[8:39:43 PM] Andrea**: Get my things.
+- **[8:39:52 PM] Andrea**: How did you take that off of you? So turns out my account for you in this world is there's a fuck up. One of the last days of the ground. So I had to go there.
+- **[8:40:06 PM] Andy**: But I didn't take a nice call on this one by the world.
+- **[8:40:09 PM] Andrea**: Now the last few years of being premiered take nothing that it should be. Hello. Thank you.
+- **[8:40:22 PM] Andrea**: Yeah well from the same world. Just in town.
+- **[8:40:38 PM] Andy**: Chitty Jason.
+- **[8:40:39 PM] Andrea**: What are you doing here?
+- **[8:40:44 PM] Andy**: I'm trying to help you.
+- **[8:40:46 PM] Andrea**: You see I make better work. I've got a guy in conflict.
+- **[8:40:53 PM] Andy**: So do you read?
+- **[8:40:57 PM] Andrea**: Yeah there we go.
+- **[8:41:05 PM] Andrea**: Have you ever been inside? I've heard enough stories to know that the car there's no space for someone like me. but I am very curious and I guess you're anything else? No thank you but I should probably get going. no you're my cat. I asked you why. You're in the box alone. Do you know what happens to my father right? He was kidnapped by a version of himself and tried to take over his mind. In your world did he ever make a pact?
+- **[8:41:58 PM] Andrea**: He did.
+- **[8:42:01 PM] Andy**: Along with a bunch of other versions. Jason?
+- **[8:42:29 PM] Andy**: Go check. Hi it's Daniela It's Jason there. No he's got a couple hours to go so he had a family emergency. Um if he comes back will you tell my calls and I'm at the house?
+- **[8:42:47 PM] Andrea**: Okay okay bye.
+- **[8:43:04 PM] Andrea**: She's going to be a little bit cute. What is her birthday? Not tonight.
+- **[8:43:24 PM] Andy**: You're wondering what she's going to end up being. Now she can try to keep him there and Nurse Ratchet.
+- **[8:43:36 PM] Andrea**: What do you want to do?
+- **[8:43:38 PM] Andy**: My dad said we saw the world with him. No still alive.
+- **[8:43:45 PM] Andrea**: And you want to be with him.
+- **[8:43:51 PM] Andrea**: This is your first time alone in the dark.
+- **[8:43:55 PM] Andy**: Everyone including yourself,
+- **[8:43:57 PM] Andrea**: is probably the scariest place it could be. And I'll let stuff swirling on it in your head. It can help you.
+- **[8:44:05 PM] Andy**: What do I do?
+- **[8:44:16 PM] Andy**: Would you excuse me for a minute?
+- **[8:44:48 PM] Andrea**: Okay Sorry Excuse me.
+- **[8:45:08 PM] Andrea**: It's really good to see you.
+- **[8:45:12 PM] Andy**: What do you get up to?
+- **[8:45:20 PM] Andrea**: You know just try to survive. It's like you I guess. You know it's just like you stole it. There's a man there a man of youth there's very little nothing left yeah.
+- **[8:45:47 PM] Andy**: There's only anything left in there like where they come from.
+- **[8:45:56 PM] Andy**: Well I'm not proud of it do they? So how can I leave Jacob?
+- **[8:46:03 PM] Andrea**: How to pray for him?
+- **[8:46:14 PM] Andrea**: Because I was I was like I was looking at myself didn't I? What do you mean by that?
+- **[8:46:30 PM] Andy**: Hey what about that? So you're going to be able to go out of the ship so you might have a fix.
+- **[8:46:46 PM] Andy**: Okay listen I wasn't going to do this a little later.
+- **[8:46:48 PM] Andrea**: She's not here.
+- **[8:46:53 PM] Andrea**: You started strong right? A little blue shape with the end of it.
+- **[8:47:00 PM] Andy**: We found each other again right?
+- **[8:47:10 PM] Andrea**: He's the devil and you're the devil too. But at first I was pretty lucky and I went to the box with so much fun and energy.
+- **[8:48:01 PM] Andrea**: Oh shit I have fear too Rednecks fucking A.
+- **[8:48:55 PM] Andrea**: Yeah they're creatures.
+- **[8:49:12 PM] Andy**: I can't hold on. Oh with her mind. No you didn't. It wasn't you. That's just a human. But if you're not to play put in your back.
+- **[8:49:30 PM] Andrea**: Yes. I built the book. I used the book. That means the book.
+- **[8:49:41 PM] Andy**: I'm sorry it is so then you build a bigger one are you letting your fucking mind go
+- **[8:50:03 PM] Andrea**: through it?
+- **[8:50:04 PM] Andy**: You let your stuck in mine. This is an uncontrollable unstoppable force. Stop!
+- **[8:50:34 PM] Andy**: Yeah it's an idealism but all of the offshoots he can't control all the offshoots. Yeah self you know.
+- **[8:50:51 PM] Andrea**: All right well how is there another family across the country that looks exactly like yours? How do people walk into this thing that's in there? How are you connected with the velocity? Well I'm really good at my job but I can't even begin to put the things in this I've been all over this thing inside out I can't find something that even can't and what it does. I know it's not very confusing and mysterious If I were you I'd just walk away and I'll be back. But you know you cannot know please not just trust me go and live your life forget about the past. I need to actually mean that but you don't even know. I need to know okay?
+- **[8:52:04 PM] Andrea**: You need to know. It's easier for us to show it.
+- **[8:52:26 PM] Andy**: Going in?
+- **[8:52:28 PM] Andrea**: Come on.
+- **[8:52:32 PM] Andy**: You're going in the back. Here because the pedal fell off.
+- **[8:52:40 PM] Andrea**: We need to press it. I'm going to get it back in.
+- **[8:52:53 PM] Andy**: I'm up Ready. Hey princesses. What did you say? Oh he's there already. See it's infinite already. So now he's done a bad thing the other Jason won but he did it because this guy was She's going to come.
+- **[8:54:43 PM] Andrea**: One Jason is an intro all these four together by me and old and family. Not everyone's the guest that's never been allowed.
+- **[8:55:00 PM] Andrea**: Get the way you want to go and you want to remember something.
+- **[8:55:24 PM] Andrea**: I remember I met a hospital that looked up to a bunch of dudes.
+- **[8:55:34 PM] Andrea**: My mom does videos of us being very young here. My favorite is this one my bag.
+- **[8:55:47 PM] Andy**: It's breaking this huge pile of weeds and you just keep pushing them all around us.
+- **[8:55:55 PM] Andrea**: The two of us are just laughing and the pile gets bigger and bigger. What does that that might just take you where you want to go?
+- **[8:56:21 PM] Andy**: She's got a whole bunch of them.
+- **[8:56:32 PM] Andy**: Oh she's getting ready to travel.
+- **[8:57:02 PM] Andrea**: They're going to just cross each other up back to this version. What do they do now?
+- **[8:57:28 PM] Andrea**: They're still looking for inches.
+- **[8:57:30 PM] Andy**: They're not gonna fucking find.
+- **[8:57:38 PM] Andrea**: Why?
+- **[8:57:40 PM] Andy**: I'm Dr Layton Madness.
+- **[8:57:42 PM] Andrea**: Now I have to speak with the both of you today.
+- **[8:57:45 PM] Andy**: Because of my company's involvement
+- **[8:57:47 PM] Andrea**: I would investigate in Chicago Park you know.
+- **[8:57:50 PM] Andy**: Now as you know there was hope that since you were able to somehow rejuvenate from the black iris play your bodies may contain the roadmap
+- **[8:57:58 PM] Andrea**: to developing the vaccine.
+- **[8:58:00 PM] Andy**: Unfortunately the testing came up.
+- **[8:58:04 PM] Andrea**: And all attention has been technically cute. They're hoping it's somehow here again.
+- **[8:58:10 PM] Andy**: We already dismantled the one that was moved The black ice pledge is freeing around the world and the United Green Lakes is agreed to cooperate with all critical data which includes the Q&A and all known information about the book. Well, But then it is from the fake union when we hit a clutch you both in 30 minutes.
+- **[8:58:32 PM] Andrea**: And that is an inquiry when we come and consider a really more intense. I brought you both to the change of clothes.
+- **[8:59:41 PM] Andy**: Come on.
+- **[8:59:49 PM] Andrea**: I'll be right back.
+- **[8:59:55 PM] Andrea**: I'll be right back.
+- **[9:00:03 PM] Andrea**: Okay Good luck.
+- **[9:00:05 PM] Andy**: Wait you're not coming with us? We have to canvas. If I hurry you're going to be like an artist.
+- **[9:00:11 PM] Andrea**: Where can't you?
+- **[9:00:12 PM] Andy**: No I need to stay inside on this.
+- **[9:00:14 PM] Andrea**: Why? Well you come back with you. This is my home. I'll have to meet this right. I'm sorry about this right. You're good people. You should have caught up with something that should have never been created.
+- **[9:00:29 PM] Andy**: You got eight minutes to leave the building. Drs for that
+- **[9:01:31 PM] Andy**: How far are we for the box?
+- **[9:01:54 PM] Andrea**: Six plus.
+- **[9:01:55 PM] Andy**: Here. I'll street access to the city's barricaded you'll take along the water.
+- **[9:02:00 PM] Andrea**: I have a lavender ring no auto injector in there let me get you guys a cup of water.
+- **[9:02:05 PM] Andy**: All along there are naval mines a plate that's made in Michigan to keep the refugees away.
+- **[9:02:11 PM] Andrea**: Oh god this place got really authority really. Fuckin' fast yeah.
+- **[9:02:15 PM] Andy**: I'm gonna go out there and trigger the explosion and stay at least possible. You'll hopefully draw the attention of those guarding the bots but that's not to do it. Hey please don't you guys You've been got the cure. My parents had it. We will.
+- **[9:02:37 PM] Andrea**: Thank you.
+- **[9:02:56 PM] Andy**: What the hell was that? Oh what do you think? what it is.
+- **[9:03:14 PM] Andy**: That's all. Come on. He's not going to make it. I'm not going to make it.
+- **[9:04:23 PM] Andy**: So she's going in there searching for Charlie. Uh-oh. Uh-oh we don't know what he ran to.
+- **[9:05:08 PM] Andy**: But we don't know what she saw. When she brought somebody in she brought somebody else in.
+- **[9:05:19 PM] Andrea**: I'm not going to do anything.
+- **[9:05:25 PM] Andrea**: Don't you find him? I'll use your strength on the other side.
+- **[9:05:33 PM] Andy**: I want to know everything she's doing.
+- **[9:05:40 PM] Andy**: More complicated.
+- **[9:05:49 PM] Andy**: Now they're gonna all be back again traveling now he's gonna go after her and the angle.
+- **[9:06:46 PM] Andy**: I think it was at the kitchen table it wasn't there. Yeah but what you're gonna do
+- **[9:07:36 PM] Andy**: There you just put it on top of it there. It's that guy again.
+- **[9:08:31 PM] Andy**: in two Bad Jason He sent them all out to go get that girl Blake or Blair or whatever That's what I'm saying. Bring her back. You told us you were not here. You heard me. You didn't say it. You said you were not here. You didn't say it. You got to. Good.
+- **[9:10:11 PM] Andy**: And you can't put it all around your heads. This is middle-aged right?
+- **[9:10:56 PM] Andy**: Yeah he went back through the tube he went over there he was going back there That's amazing Think about that Because that's my This is an important thing. Yeah yeah that's yeah.
+- **[9:11:55 PM] Andy**: I mean is that what's the emphasis of every single thing I think is themagic the atoms in this blanket here. Oh it is a foam frame but you can't paint it up. You'd have to get some kind of cork thing to put it on here. I have to use the sticky things probably. I say what you do is you get a real frame for it. And that way you don't get any sticky this intact.
+- **[9:12:33 PM] Andy**: I'll pay for it that's what you know. Yeah custom do it that cuz that I mean you spent a pretty thing on that
+- **[9:12:58 PM] Andy**: Well that's what I'm saying we got we got the space
+- **[9:13:05 PM] Andy**: But I think we can move it up that's what I'm saying we can move this up and then move the that there We could You could get that up and that down. Gittie. We can remove the wall. I'm just going to get rid of them put that up there over the wolves eye. Put that over above the wolves and see where the wolves are and see how big it takes. You might have to take the flags down there so they don't dig in.
+- **[9:14:30 PM] Andrea**: Oh I see.
+- **[9:14:32 PM] Andy**: Oh there you go. These are in the frame of the ship. You can even pick them up and go over there. Right there. That's cool.
+- **[9:14:43 PM] Andrea**: Over there. That's cool.
+- **[9:14:47 PM] Andy**: But still you should get it from you. Because you get back it's got to hit off then.
+- **[9:16:25 PM] Andy**: I'm going to have to get out of here.
+- **[9:17:00 PM] Andy**: Three hours left. That's a big pan. There's three arms down please.
+- **[9:17:20 PM] Andy**: I can't I can see nothing before.
+- **[9:17:29 PM] Andy**: And those are young babies. When they're fuzzy like that. That's why I said baby what are you doing? No me.
+- **[9:18:18 PM] Andrea**: is lazy because they can't grab remiles over you. This guy is born for a rookie and will the Warriors have a gem?
+- **[9:18:43 PM] Andrea**: It's only either an original like a fella green tea chopper of splice or a one-shot. Even AI generated vocals above your gram of panties will work better than having no vocal at all.
+- **[9:19:01 PM] Andrea**: You need to memorize no matter the language. Don't switch the jobs anywhere you get. For example this part is too easy. But the second one I did here I have just enough room to place open jobs.
+- **[9:21:25 PM] Andy**: I'm going to have to go to the other side to see if I'm going to be able to get out of here.
+- **[10:03:55 PM] Andrea**: I'm here.
+- **[11:24:24 PM] Andy**: He's still talking on the phone. You why you been talking on the phone?
+- **[11:24:48 PM] Andy**: perpetual
+- **[11:53:56 PM] Andy**: Ohhhh!
+
+---
+
+## 🎙️ Session 2: 2026-10-11 14:34:07 (5h00m)
+- **Source File**: `2026-10-11 14_34_07.mp3`
+- **Audio ID**: `of_d323bf2a69bbd28933804eaefd223712`
+
+- **[00:00 - End] (Speaker / Group)**: - **[2:39:47 PM] Andy**: So you could actually get in with no problem. The corner is still got a little bit of water on the ground but you could actually park and get into the house with no problem. But the water is receiving this.
+- **[2:42:06 PM] Andy**: Hello good evening Welcome to this week's leave and then living mindfully meditation meeting I'm great girl that you've taken time let up your busy with the join us here tonight and hope you find this circle supportive of both your internal spiritual practice and your external practice How we actually move through and engage with a world at large As we gather here we can remind ourselves of that simple grounding anchor The time is now and now is denoing We're recollecting the here and now and meeting the way things are in this very moment And as Jack Cornthowe reminds us awakening is not a rare privilege reserved for a few things for aesthetics It's the natural birthright of every human being It's your birthright.
+- **[2:43:37 PM] Andy**: So what we take a moment together and to intentionally arrive bringing the attention
+- **[2:44:03 PM] Andrea**: In other words the leasing is best we can whatever was pulling by us before we walked
+- **[2:44:26 PM] Andy**: to this room or a log down to the screen, who simply come into presence, growling ourselves here in our own physical bodies, taking a few calming settling breaths,
+- **[2:45:10 PM] Andy**: and setting an intention to cultivate what hera brok in the contemplative traditions call the two wings of spiritual freedom. having an open mind rooted in mindfulness and clear seeing an open heart rooted in kindness compassion and caring action to stay in the present moment and then know the way it is Thank you The Bishop first time joining us I'd like to offer a very special welcome Thank you for being here I look forward to getting to know you better and hope that you find this group in the official warm supportive and inclusive. Before we settle into our seat into the meeting,
+- **[2:46:09 PM] Andy**: a couple of housekeeping reminders I'd like to begin by acknowledging that I'm speaking from ancestral coast me walk alone and a lonely territory. I do this formally recognized at honor of the Indigenous Committee's originally stewarded land where this meeting is taking place for me. And I extend that same spirit of respect and welcome to you wherever you are respective environments tonight. you are in Yerks you are wherever you are in your respective environment tonight. We have a few basic agreements other than common courtesy that help us keep our circle safe,
+- **[2:46:59 PM] Andrea**: our group that's not a circle.
+- **[2:47:04 PM] Andy**: Confidentiality it is hope that what is shared in this room is stays in the room to We're with our trust privacy and safety for everyone regardless of background or identity.
+- **[2:47:22 PM] Andrea**: And this helps.
+- **[2:47:25 PM] Andy**: Speaking from the experience we try to speak from our direct personal experience whenever possible.
+- **[2:47:46 PM] Andy**: And then just okay I'm going to delete these pre-things in here because they make a little
+- **[2:47:55 PM] Andrea**: be clumsy for me and last the participation in check-ins and open discussion
+- **[2:48:24 PM] Andy**: is always completely voluntary. You're never under any pressure to share if you prefer to just listen and be present. Since there are only a few of us gathered here, I'd love to have an opportunity for a brief check-in. I invite you to state your name and a brief status report of your internal weather right now. Maybe whether you're happy to be here, or you're noticing some tightness in the shoulders, have a bit of foggy mind or a little bit sluggish and anything you'd like to
+- **[2:48:59 PM] Andy**: name is welcome And if you have any quick clarifying questions about our format before we sit in silence please feel free to ask Otherwise remember that there will be plenty of time in a second half of the meeting for open discussion or reflection.
+- **[2:49:36 PM] Andy**: something on the table I think it almost almost has been feeling lightly. It's that background hum of navigating daily life right now. is that's financial You go to a grocery store you look at the total at the register or you open up a You know I like a bill electric bill I wouldn't say it.
+- **[2:51:13 PM] Andy**: more about than more and more than money. It's opening your phone and seeing alarming news about the world it's dealing with someone acting rudely in traffic or at work it's living with an aching body or facing difficult circumstances completely beyond our control When life rings us things we don't want to experience We usually see people bounce between two extremes Either we fall onto the downward spiral with panic we get angry, in our own catastrophic stories and moves sleep.
+- **[2:52:17 PM] Andy**: ourselves to just stay positive or that everything happens for a reason We try to talk our cells out of our feelings but our bodies know better so pause We try to talk ourselves out of our feelings but our bodies know better Lying to ourselves doesn't and bring peace it just makes us feel alienated and exhausted.
+- **[2:53:10 PM] Andrea**: I've got not being truthful.
+- **[2:53:21 PM] Andy**: Not being truthful to ourselves doesn't bring peace. It just makes us feel alienated and exhausted. wondering why we just can't be calm. What wondering why we just can't be peaceful and calm.
+- **[2:53:41 PM] Andy**: So inquiry we're going to look at tonight and to really the heart of the, and the re really the heart. So the inquiry we're going to look at tonight.
+- **[2:53:57 PM] Andrea**: The theme for this evening is how do we ease our inner torment without gaslightings ourselves
+- **[2:54:18 PM] Andy**: about the difficult facts of our lives. good news is that for the next hour you don't have to fix the world outside You don't have to prove anything in this room You don't have to pretend you've got light figured out You can let the floor.
+- **[2:54:44 PM] Andrea**: You can let Mother Nature.
+- **[2:54:52 PM] Andy**: take your full weight As we let those words set up okay I'm in a break. Before I jump into this talk I want to offer my usual disclaimer These These reflections are offered strictly for your contemplation and spiritual practice and never as a judgment or reaction to anyone in particular. When I talk about using human clumsiness or getting tango up in fear I almost always and talking about myself too also the things I catch in my own heart These words are never meant to harm but only to shine a warm light on our shared experience I want to start tonight with that famous observation from Victor Frankl who survived
+- **[2:56:20 PM] Andrea**: in a concentration camp during War II He said, It means the stimulus and the response there is a space.
+- **[2:56:57 PM] Andy**: In that space is our power to choose our response and our response lies our growth and freedom. Now there's a profound insight most of us have heard it and intellectually we nod our heads. Thank you all for that reminder. Frankl speaks about this space between stimulus and the response.
+- **[2:57:36 PM] Andy**: On one side we have a stimulus something coming into our senses seeing a grocery total that shocks you opening a high electric bill hearing someone make rude or dismissive
+- **[2:57:50 PM] Andrea**: comments reading alarming news on your written or feeling an unexpected pain in your
+- **[2:58:14 PM] Andy**: one unwanted pain I'm just going to say a pain I don't use all this stuff We're feeling a pain in your lower back That is the stimulus coming through the senses On the other side, have the response The emotion that arises a jolt of anxiety or anger or dread or frustration accompanied by our body tightening up Frankl says there's a space between the two But what happens to that space When we're mindful our conditioning jumps right across it The sensory contact happens and before we even know what hit us the emotion is already taken over. stimulus and response seem fused together into a single and instantaneous action. And because we don't feel that space we immediately fall into two traps. We can immediately fall into one of two traps.
+- **[2:59:24 PM] Andy**: The first trap is the downward spiral spiral. Something happens that we don't want to experience a root encounter, a financial shock bad news and we punch straight into anger panic in the spare Our mind starts spinning Disaster movies and we just do in that dread until our sleep is wrecked.
+- **[3:00:04 PM] Andy**: trap or spiritual bypass. We try to talk to ourselves out of the pain we tell ourselves just the positive everything happens for a reason So we put a smile on our face but underneath our stomach is tight
+- **[3:00:24 PM] Andrea**: or nodded up And a lot of this just get caught up on this We can feel that something is
+- **[3:00:39 PM] Andy**: wrong And so we believe that there is something wrong And then we tell ourselves that we shouldn't be this way We judge ourselves I've been meditating for years I should be calmer than this What's wrong with me I shouldn't be feeling stressed or upset.
+- **[3:01:23 PM] Andy**: Pretending that things aren't difficult or pretending that you don't feel shaken when unwanted things happen isn't spiritual awakening is just gaslighting your own nervous system. So the real inquiry for our practice and really the heart of our theme tonight is how can we ease our inner tournament without gaslighting ourselves about the difficult facts of our lives. To understand this we can turn to one of the most practical teachings the Buddha offered. And one I bring up frequently here the teaching of the two arrows. The Buddha asked when an untrained person experiences pain or difficulty what happens? They sorrow grieve and lament. It's if they were shot by an arrow and then immediately shot by a second arrow. They feel two pains the physical impact and the mental torment.
+- **[3:02:31 PM] Andy**: Let's impact these two arrows actually in our lives our ordinary lives. The first arrow is the raw unavoidable impact of living as an embodied human being in an uncertain world. The Buddha spoke directly about things in this life that are stressful. What he called duke he pointed out the unavoidable realities we all face his old sage sickness and physical decline waking up to physical aches injuries or an aging body. separation from we love and cherish We lose people our roles our routines we care about. Being associated with what we dislike or hate having to deal with rude people, workplace friction rising prices disturbing news headlines or circumstances completely beyond our control Or not getting what we want having our plans unravel and our expectations disappointed.
+- **[3:03:35 PM] Andy**: And how do we encounter all these things? We experience them when they come into our senses through the eye the ear the nose the tongue the body and in particular the mind. When you see a grocery bill that is $80 higher or here's someone talk down to you at work or see conflict on the news, or feel your aching knee is the first arrow entering your senses. it is the actual factual impact it hurts it's not in your head it's simply part of being alive. And the first step of honest practice is honoring that first arrow without shame. This is hard This is what I'm experiencing.
+- **[3:04:33 PM] Andy**: and then makes complete sense that it feels unpleasant. The second arrow on the other hand is what our mind adds on top of that experience. This is what causes suffering us to suffer. It is story we spend about the impact the blame the catastrophic predictions and the attack on our character They don't respect me I'm failing The world is out to get me. I'm never going to make it." Now why does unwanted sensory contact hit us so intensely in the body Why does the stomach get tight or knighted up below the ribcage In early There was a fundamental law of conditionality there is this fundamental law of an early
+- **[3:05:36 PM] Andrea**: this Buddhism and in science in general Here is this fundamental law of
+- **[3:06:01 PM] Andy**: conditionality.
+- **[3:06:31 PM] Andy**: How do I pronounce?
+- **[3:07:38 PM] Andy**: 遺 up pach chah yate. which simply means when this exists that comes into be, comes to be and with the arising of this this arises. Things don't happen because you're broken. They happen because of causes and additions. Your conscious intellect understands modern concepts like checking accounts corporate politics, or international laws news. But the deeper older part of the nervous system is the focus that control your diaphragm and gut
+- **[3:08:35 PM] Andy**: are millions of years older than modern culture. Those systems only have two basic settings, safe and connected or threatened and endangered. When unwanted threatening information enters a senses whether it's a high bill an angry voice, or chaotic news and your body treats that sensory contact as a threat to survival to breathe it into the diaphragm locks up so So you stay still and stand for predators. is pulled away from digestion to fuel your muscles to to fight or run And the belly armors you know armors up to protect your soft organs And the physical that tight knotted
+- **[3:10:10 PM] Andy**: feeling in your stomach is in a character defect It's a failure of your it isn't a failure.
+- **[3:10:26 PM] Andy**: Of your mindfulness it is your inner creature reacting to the conditions of threat. When we do understand conditionality we don't have to get mad at our bodies, You can understand of course our body tightens up when conditions feel threatening. That's just nature doing what it's still to do. Think about what happens with nature and animals. Take a deer out in the meadow blah blah blah with human beings this is completely not the case. You just don't take it off. Sit our minds take over. We think about the tiger when there is no tiger paper bill and this leads us to look at the five aggregates that components that make up our moment-to-moment human experience We have the
+- **[3:11:18 PM] Andy**: physical body in form the feeling tone whether something feels pleasant unpleasant or neutral. our perceptions our consciousness and the crucial aggregate to mind our mental formations our thoughts and reactions. So right now I'm giving you some specific information to Buddhism and I hope it doesn't scare anyone, and it shouldn't because a lot of this is basically just categories of the way we could look at our experience regardless of any religion or spiritual perspective. you can test this out yourselves I hear somebody It was a street clear Yeah that's That's a very flat finch you and 24 hours to be scared yeah that is comforting
+- **[3:12:27 PM] Andy**: and there was some more information I got over there yeah eight inches of The rain in 24 hours is uh the view is great for us. And then another thing. And then it's a good job. And then the report also says that they've done some improvements since those last, I have a whole history of when this place is flooded. Because when I gave the pictures it went back through and looked at. And they said they've done some improvements for instance that there's too much rain coming down. They have some ways of holding up the water so that it doesn't all come in all at once. That's been part of it.
+- **[3:13:11 PM] Andy**: I can do the report and you can figure out where. But I think they just have a way of delaying the water so that it doesn't all come down rushing all at once. once Because remember what ends up happening is the problem is that we have the tides backing up and then we have the reins coming together That's when it floods Yeah and guess what No rain right now No rain And guess what the tied hide is four nothing low look at you all that's me that's very helpful yeah and you know what it is about actually been adding all these photos and been supporting the information or for making corrections so I mean I'm encouraged on some ways this is definitely so I can relax a little bit I you know we should still get the sandbags but but I also guess what I have two
+- **[3:14:44 PM] Andy**: So I have a way to warn us if our cars are in danger so I'm not going to get an alert that that need to be careful about our cars. Also when the street is going to be as passable so that's the second morning so now it'll give us a little bit of time. Not only will it tell us when it's impassable but it's tellable when it's cleared. So if we could get up on the boat we would have to be catastrophic and then if that's What's happening at the hood for those of you? What's happening about in 1988 or whatever I guess Magnolia the water got so high that it was up and affecting Magnolia and all that stuff and it's said of the 11 feet. So we're here at 10 foot 4.
+- **[3:15:56 PM] Andy**: I mean you know what I'm saying So it was that much higher So yeah.
+- **[3:16:56 PM] Andy**: The senses bring in the raw data of life sight sound physical sensation feeling tone registered as unpleasant and right there the mind aggregates jumps in to start running while. The Buddha gave us a brilliant operation about how the mind works he said whatever we frequently think and ponder about that becomes the inclination of our mind. Whatever we think about and ponder that becomes the inclination of the mind. If we spend our days taking unpleasant sensory experiences and constantly thinking and pondering about catastrophizing stories resentments and self-judgment are mind-naturally climbs towards bitterness dread and torment We carved that group deeper and deeper This is why we learn to distinguish the facts of experience from what we
+- **[3:18:12 PM] Andy**: had on We were all experiencing the facts and the senses And then what we the outline the mind's story the second arrow the high bill are groceries a high,
+- **[3:19:36 PM] Andrea**: Was that fine?
+- **[3:20:26 PM] Andrea**: I'm almost done I haven't gone through this completely yet.
+- **[3:20:44 PM] Andy**: Look at that difference. You're going to probably hear it in a few minutes anyway the column on up is the direct
+- **[3:20:50 PM] Andrea**: experience the first arrow entering through the senses this is the fact of human life. It requires practical navigation mic budgeting resting having a common boundary with
+- **[3:21:17 PM] Andy**: the co-worker or turning off the news to calm down the writers of the mine and time This is the story that myth the second arrow attacks or dignity
+- **[3:21:30 PM] Andrea**: the increase in the suffering for our cells.
+- **[3:24:26 PM] Andrea**: just a little bit more,
+- **[3:31:50 PM] Andy**: what it is I think the weather brings things on to me. That did notice the cooler temperatures today though. Very nice. That's it was 68 here this morning. This is a big nice sweater right?
+- **[3:32:32 PM] Andy**: Some pubs?
+- **[4:02:44 PM] Andrea**: doesn't need my thing.
+- **[4:05:08 PM] Andy**: You're hard work I want you to give me your awesome present.
+- **[4:05:17 PM] Andy**: Oh my gosh look at you. Oh guess what that is? Cinder cone. It's an adjustable hat. Why? It's been a little thing. I know they didn't have any other colors. Oh my gosh. Maybe like an old golfer?
+- **[4:05:47 PM] Andy**: What's that though?
+- **[4:05:53 PM] Andy**: Oh look at this so this is another app.
+- **[4:06:02 PM] Andy**: I think he's styling right out inside of the Wow I like color too yes very nice color it's in the acceptable range I'll come why you did that.
+- **[4:07:30 PM] Andy**: Mine is really specific. I mean it gives us intentions. I'll see you in the next one. You're awesome. You're a fucking idiot. I like it when you shop. Keep shopping. I got some shoes for me. Well beautiful I'm glad I'm trying to resist because you know there's always something I think it's pulling on here.
+- **[4:08:14 PM] Andy**: I think it's here.
+- **[4:08:27 PM] Andy**: Yeah just a little bit.
+- **[4:09:39 PM] Andy**: We leave.
+- **[4:13:07 PM] Andy**: That guy looks trucky in here.
+- **[4:15:02 PM] Andy**: Can I go out?
+- **[4:17:25 PM] Andy**: This is the first time I've ever seen this kind of thing, but I've never seen this before.
+- **[4:25:43 PM] Andy**: I'm going to cut it into small pieces and cut it into small pieces so that it doesn't get too thick. I'm going to cut it into small pieces so that it doesn't get too thick.
+- **[4:26:01 PM] Andy**: I'm going to cut it into small pieces so that it doesn't get too thick.
+- **[4:30:37 PM] Andy**: I was listening to it here. and you will get a podcast you need to be next to all of you in the kitchen. A liberalism is new now. And now everything attacks it. We everything in ancient history before liberalism the church, all of the sculptures and things like that is really about holding on the power so it's really off there and carrying you to a liberal school and going to a political school by surprise This is a blog post thing. You don't care the picture. I think this is the picture.
+- **[4:32:03 PM] Andy**: All that stuff is little liberal is what he calls it. And so he talks about liberalism being compassionate,
+- **[4:32:12 PM] Andrea**: people oriented.
+- **[4:32:14 PM] Andy**: And so there's all these things against it. And why it doesn't work? Or is trying to balance out all of the other shit that's going on it's a really good article I mean that kind of thing. Yeah so I want to watch the whole thing. Yeah reaffirms you know the first I thought he was going to attack it but he was really like just been doing research on it and trying you know and understanding standing at why it fails and why it doesn't. Sometimes it's just too kind you know. And so like for instance I was watching the other color
+- **[4:32:58 PM] Andy**: it was really Dana Bash that lady I'm seeing in. She came and she interviewed Laurie and Mayor Laurie about the right wings attacks on San Francisco. And she seems to be in favor of their cynicism And you know in a lot of ways I know she's pro-Israel big time and anyway it was mail-o-lawy. He was really he hit a really good job I thought you know he's talking about yeah sometimes we get caught up in our liberalism and we forget the big picture of what we're trying to do. I had to use his eggs to make and I need to get these eggs and polenta for breakfast.
+- **[4:34:08 PM] Andy**: I don't think I have too much but
+- **[4:34:38 PM] Andy**: Where
+- **[4:35:04 PM] Andy**: I just can't make it.
+- **[4:35:38 PM] Andy**: Didn't mean it felt fell down. It fell down.
+- **[4:35:51 PM] Andy**: Oh yeah that one just fell off here. Up here.
+- **[4:41:26 PM] Andrea**: Chick-hhh-chick-chuck-chuck
+- **[4:41:33 PM] Andy**: Check check.
+- **[4:42:01 PM] Andy**: You're coming back?
+- **[4:55:23 PM] Andrea**: So they can show me some more things. Last minute is about.
+- **[4:56:51 PM] Andrea**: Moving the Mindfully Meditation Group for October 11th 2026.
+- **[5:01:12 PM] Andy**: let me put it joining I don't see you okay for some reason I'm in another
+- **[5:01:22 PM] Andrea**: meeting I'm going to close this yeah let me go here
+- **[5:02:29 PM] Andrea**: Okay excuse me I'm doing some little bit of alignment here.
+- **[5:02:42 PM] Andrea**: Okay it's a little strange because I was in that meeting again I need to go and look at the notes to why I have a pre-set on my bookmark for the meeting and okay but glad here thank you sweetie I don't hear you let me close my door yeah do it right
+- **[5:03:43 PM] Andy**: Well I'm here. Okay go Good evening to this week's Living Mindfulness Meditation Meeting and grateful that you've taken this time out of your busy week to join me here tonight. And I hope that you find this circle this meeting supportive of both your internal spiritual practice and your external practice and how we actually move through and engage with the world at large. So also as we gather here we can remind ourselves that of the simple grounding anchor that Ajahn Somato likes to talk about that time is now and now is the mowing the only moment that we have So we're recollecting this here and now and meeting light the way things are in this very moment And also something from Jack Cornfield that I'd like to also
+- **[5:05:18 PM] Andy**: remind us about is that this awakening is not a rare privilege nor is it reserved for a few saints or aesthetics It's the natural birthright of every human being so it's your birthright It's my birthright this ability to awaken So what we take a moment to in a together to intentionally arrive to bring our attention inward releasing as best we can whatever was pulling us before we joined the meeting just something come into
+- **[5:06:05 PM] Andrea**: presence grounding ourselves here and own physical bodies in the space that we inhabit, taking a few calming settling breaths and setting an intention to cultivate which are
+- **[5:06:32 PM] Andy**: rock and many of the contemplative traditions call the two wings of spiritual freedom which are having an open mind rooted in mindfulness and clear
+- **[5:06:49 PM] Andrea**: seeing and have an open heart which is rooted in kindness compassion and and caring action just stay in the present moment
+- **[5:07:03 PM] Andy**: and do know what the way it is.
+- **[5:07:34 PM] Andy**: again by acknowledging that I am speaking from ancestral coast me walk in a lonely territory and I do this formally to recognize and honor the indigenous communities who originally stewarded the land where this virtual meeting for me is taking place and I extend that same spirit out of respect and welcome you wherever you are in your respective environment tonight And I you know Andrea just down the ballway from me. So we're in this together. We have a few basic group agreements other than common courtesy that I'd like to remind us that I hope to help keep the group safe. I hope that what we share in this room stays in the room.
+- **[5:08:30 PM] Andy**: And I know that will be between us to preserve trust privacy and safety for everyone, regardless of their background or identity. And I know this helps right? We should also try to speak from our own direct personal experience whenever possible, and to refrain from giving any unsolicited advice unless someone specifically asks for it. And then you can ask any kind of questions you want. And I do tend to have comments on things, but they're generally not personal unless you ask it to be. And the third thing is that this meeting is not intended to define if that write a wrong or to argue any viewpoints,
+- **[5:09:19 PM] Andy**: but to raise topics of spiritual and practical value for our everyday lives. And lastly participation check-ins in open discussion is always completely voluntary. You're never under any pressure of the share if you don't prefer to. You can just listen and be present. And since there are only a few of us today, actually a couple of us not even a few. I'd love to give you an opportunity
+- **[5:09:48 PM] Andy**: and myself to do a very brief check-in. So I'd invite you to state your name, of a brief 60-second report on your internal weather right now maybe noting if you're happy to be here or not and maybe you're noticing tightness near shoulders or having a foggy mind or feel tired sluggish or anything you'd like to comment on without you know,
+- **[5:10:13 PM] Andrea**: it doesn't have to be exactly that or whatever you'd like.
+- **[5:10:17 PM] Andy**: And I just also want to remind you before we do so that you know if you have any quick clarifying questions on our format Before we sit in silence you can ask that And then I want to just there will be plenty of time in the second half of the meeting for open discussion or reflection So if you want you can wait until then So with that I turn that over to my dear companion partner in life Andrea Hello Hello Oh thank you.
+- **[5:12:12 PM] Andrea**: Thank you.
+- **[5:13:14 PM] Andy**: Funny. There's a lot that's going to be relating to exactly what you were kind of talking about. Hope it doesn't stir you up. But a lot of that's going to it's related for sure. Okay and I'm going to check in and yeah I've got a lot of similar feelings to you. Raiders lost got pummeled today but I feel very calm right now very peaceful very
+- **[5:13:53 PM] Andrea**: contented and yeah that's I can I attribute that to I think my practice I mean
+- **[5:14:10 PM] Andy**: I'm getting used to or I'm getting used to it's sometimes as you know a subjective am I making that up just to fill in the space of the moment do I really feel this Like my practice is getting somewhere you know? But that's my feeling at this moment and there's nothing wrong with having feelings and thinking in a way I'm thinking But I'm very appreciative of how the way that is right now I'm very calm and yeah last night was another beautiful thing and that was also very peaceful and it felt very some of the feedback we got today about refuge and so I know I actually reiterated that multiple times last night and it
+- **[5:15:10 PM] Andrea**: hopefully that that was sinking in so very grateful for that So okay well thank you for the check-in.
+- **[5:15:26 PM] Andy**: Sorry I got a tickle Excuse me sorry.
+- **[5:15:31 PM] Andrea**: I have one I just stashed and I have to open another one I'm not sure anyway yeah thank you for that.
+- **[5:15:46 PM] Andy**: I will take that opportunity with me B So before we get into this period of meditation tonight, And I don't want to lay something on the table that I think is almost all of us have been feeling lately. That there's this background hum novelty and very you know our lives right now it could be a little bit different you know difficult to you know take. Sometimes it could be financial it could be anything actually but it could be financial, you know going to grocery store costing to be rising you know fast. maybe you get a bill and you feel that sinking feeling in your gut but it's also much more than money and I want to broaden that I talk about the financial right now because it's so in the news but I believe it's more than that It's open
+- **[5:16:47 PM] Andy**: your phone and you're seeing alarming news It's dealing with somebody who's maybe root to you in traffic or at work and it's also living in an aching body you know, that you know an aging body or it could be facing any difficult circumstances which are beyond our control So when life brings things that we don't want to experience we see we can see people bounce between two extreme you know extremities Either we fall downward into a downward spiral, might panic might get angry we might stew and catastrophic stories that proliferate in their mind they come up or maybe we find it difficult to sleep sound like you know, we may not sleep well Or the other alternative is that we might slap a coat of pain over you know telling ourselves just stay punositive or everything happens for a reason And there's nothing wrong with that I know the people are trying to
+- **[5:17:54 PM] Andy**: motivate themselves and actually that's could be skillful But we try to talk ourselves out of our feelings you know but our body's actually no better you know we might not be truthful to ourselves If we're not being truthful to ourselves does it bring about peace It just makes us it can make us feel more alienated and exhausted, wondering you know because we would wonder we want to know why can't I just be peaceful and calm a ton that's something that you know we we we feel that we we should do we should be that way So the inquiry we're going to look at tonight in a theme for this evening is how can do we ease our inner torment without gas
+- **[5:18:43 PM] Andy**: lighting ourselves You know about the difficulties that we face in our lives. And the good news is that for the next hour you don't have to fix the world outside You don't have to prove anything in this room here You don't have to pretend you've got it all figured out You could just let Mother Nature take your full weight and you can relax and let go. In the after meeting if you want to pick all that stuff up that's you know that's
+- **[5:19:13 PM] Andrea**: something that you can decide then.
+- **[5:19:18 PM] Andy**: So well endurance a period of meditation. I can meet my mic if I have to continue to sneeze and stuff so as we let these words settle Let us now enter a period of meditation together Take a moment to get yourself into whatever posture you'd like to maintain for the next 20 or so
+- **[5:19:44 PM] Andrea**: minutes Make yourself comfortable We're not here to stress ourselves out But we
+- **[5:19:55 PM] Andy**: You want to stay upright settling in for a wakefulness and presence feeling your physical
+- **[5:20:09 PM] Andrea**: body sitting in the room that you're in and sitting on the cushion feeling the
+- **[5:20:35 PM] Andrea**: not only seeing that you can relax the other The earth is supporting you.
+- **[5:20:48 PM] Andrea**: You can be doing a quick scan, noticing that there's any tension in the eyes, running at cheeks and jaw,
+- **[5:21:04 PM] Andrea**: letting your shoulders drop. Along your hands to relax rest loosely go ahead for wherever you feel comfortable.
+- **[5:22:15 PM] Andrea**: in your awareness of your body the same body breathing wherever it feels natural, Filling it either in the galley or in the chest maybe at the tip of the nose wherever feels most comfortable noticing this rhythm of breathing.
+- **[5:23:56 PM] Andy**: She just turned the camera off. just like your camera's off so this is a period of meditation.
+- **[5:26:19 PM] Andrea**: the next 20 minutes So we're in meditation right now you can ask questions after the meditation.
+- **[5:27:57 PM] Andy**: If I hear your talk I'm going to remove you from the call.
+- **[5:44:35 PM] Andrea**: Okay we'll take a five minute break and we'll come back for the drum attack in the Q&A.
+- **[5:45:05 PM] Andy**: Oh okay yeah I did a blanket in the evening so what I did was I didn't tell you but I got on the photos for covering that work again. Yeah I know so I'm on my list there now. This must have been some meeting where these all these people decided to join in. I was thinking when I was going to change it, I was wondering if it's fun or if my partner's not fun or if I'm not fine with it. I got this. What is really proud of us is that we're
+- **[5:45:52 PM] Andy**: just going to do beautifully. And I thought I could find pretty well. I wanted to show my face just like there's a real person here and I'm meditating you know stuff could turn out. I was gonna pray to them. Good. But I was between like wanting to laugh really hard and also say something like you guys make me sad. Like that. They're kind of like they all dropped off and I wasn't stopped admitting them after a while. So next lock comes so there's a lock that I couldn't join back in. So yeah I don't have as many controls as I could in Zoom.
+- **[5:46:29 PM] Andy**: So but I found a new thing so I could control that, and it just started to move. Whenever you may have them dealing with anything, there was a lock that's like you're gone. There's a lock. It's the way it is. You just put it left and when you open up here, Arc 3 is the world then you're going to have this Yeah especially right now. That's fine.
+- **[5:46:56 PM] Andy**: You know I don't want to shut down because of some idiots. I mean yes they're karma. Not mine. I was going to tell you if I thought a big state I was going to talk about the present. You're off of choice and then I don't take it. Take it Who's poison is it Oh I just that's why I was saying you skipped is it So we just got lasted with a whole bunch of people obviously young acting out talking during the meeting and So I had to gracefully just start kicking them out the call they eventually all dropped off.
+- **[5:48:40 PM] Andy**: That was a lot of time.
+- **[5:48:54 PM] Andrea**: Okay I am back. Yeah I think it's waffling you know but yeah the path does get you know narrow
+- **[5:49:27 PM] Andy**: and I'm glad I mean it was difficult for me even that but you know it was like okay, I was just watching what I was feeling and I didn't I wasn't out of control I was just trying to become and figure out what needed to go on and do Yeah Well for me I know for both of us,
+- **[5:49:46 PM] Andrea**: I think it's been months since we've had to deal with anything like that the last time is on Zoom,
+- **[5:49:51 PM] Andy**: But even that was like a long time ago. Yeah and Alisa Alisha she's still on the list. She's on the event bright things, but she just hadn't showed up lately. So anyway she's on my list, so I give her a sender emails now. Oh cool. I sent I found yeah I found out yeah I do that. So okay I don't wanna focus on them.
+- **[5:50:21 PM] Andrea**: Yeah no problem.
+- **[5:51:47 PM] Andrea**: Welcome back.
+- **[5:52:09 PM] Andy**: So before I jump into this talk I just want to offer my usual disclaimer. So these reflections are offered strictly for contemplation and for your spiritual practice and never as a judgment or reaction to anyone in particular. And usually when I talk about human circumstances or clumsiness or getting tangled up in fear, I'm almost talking about myself also right? The things I catch in my own heart. So these words are never meant to harm but only to shine a warm light on our shared human practice and experience. I wanted to start tonight with that famous observation from Victor Franco who survived being in a concentration camp during World War II.
+- **[5:53:03 PM] Andy**: He said between the stimulus and the response there is a space. in that space is our power to choose our response. And response lies our growth and our freedom. And that's indicated so far in the meany tonight. So now that's a profound insight. Most of us have heard of it. And intellectually we nod our heads right? And we both did. And we're thankful for that reminder. Frankl speaks about the space between the stimulus and the response.
+- **[5:53:40 PM] Andy**: So on the one side we have stimulus that's something that's coming into our senses that they were experiencing. Like I mentioned earlier the grocery bill or any kind of bill or maybe hearing someone talk rude to be having dismissive comments being rude when joining an online meeting You know reading alarming news maybe or just even just feeling like a pain in your back or your neck or whatever so that's just stimulus that's coming into our senses. Then the other side we have the response. The emotion that arises you know a jolt of anger or anxiety or dread or frustration, a company by our body tightening up and reacting So Frankl says there's a space between the two but what happens in that space Well what we're not
+- **[5:54:40 PM] Andy**: mindful are conditioning jumps right across it It's when the sensory contact happens before even know what hits us The motion is already taken over Maybe you noticed that in there what was happening in there earlier I think I did too It's already I'm already feeling what's happening And many times I mean we can see that the stimulation of respond are soon together until like the same thing the instantaneous reaction And because we don't feel that space we can immediately fall into one of two traps We could go into a downward spiral And this happens when we don't want the experience that we're experiencing you know read a counter or whatever it is. And we can plunge straight into anger panic and just scare into our reactivity. And our mind will actually start spinning up because after movies you know as we stew into that dread,
+- **[5:55:44 PM] Andy**: that are you know in our sleep he is wrecked. So Paul you guys want to close the door if you've got to close this door. So the first one is the Downward Spiral and the second one the second trap is we see a lot in our spiritual life and our spiritual work and that's what we call the gaslighting trap Or it could be simply a spiritual bypass This is where we try to talk to ourselves out of the pain that we're feeling we tell ourselves to just stay positive that everything happens for a reason. You know this is as I mentioned earlier this could be something that could be skillful, where we're trying to put on positive faith you know put a smile on our face put a positive twist on things. But underneath we still have a tight stomach. I can get all nodded up.
+- **[5:57:07 PM] Andy**: Or we can just cut up on this. And we can feel that like definitely something's wrong. And when we need to fix it we can tell ourselves that we shouldn't be this way or this shouldn't be this way. And we can judge ourselves for instance, like when it happens to me. I can sometimes it will come up on my head that I've been meditating for all this time and I should be calmer than this. I should just be able to just deal with this or maybe compound it by saying what's wrong
+- **[5:57:41 PM] Andrea**: with me.
+- **[5:57:44 PM] Andy**: So pretending that things aren't difficult or pretending that you don't feel shaken when on one of the things that happened isn't something with spiritual awakening. It's gaslighting our own nervous system. So the real inquiry for our practice and really for the theme of the tonight is, how can we ease our inner torment without gaslighting ourselves about the difficult facts that we face in our lives.
+- **[5:58:20 PM] Andrea**: So excuse me again.
+- **[5:58:25 PM] Andy**: So to understand this we can turn to one of the most practical teachings that the Buddha offered. Now I actually bring this up frequently This is the teaching on the two arrows. So the Buddha asked when an untrained person experienced our pain or difficulty what happens? And he said that they sorrow they grieve they lament as if they were shot by an arrow. And then immediately the shot by a second arrow so they feel two pains the physical impact and the mental torment. So we're going to unpack this right now. So this first arrow is the raw unavailable impact of living in a body human in a body in human being. You know where we're in this really uncertain world.
+- **[5:59:20 PM] Andy**: The Buddha called directly talked about things in this that were like this that are stressful. He called that duke. So that's the word for duke. And so what he did was he was pointing out the unavoidable realities we all face which is old age sickness and physical decline. I'm feeling that waking up with physical aches or you know an aging body but we can also feel Duke of by being separated from what we love and cherish you know losing people in our lives are changing roles and the routines and things that we care about. We can also feel Duke by being associated with what we dislike or hate.
+- **[6:00:08 PM] Andy**: So you know not having to deal with rude people or workplace friction or rising prices just serving news or any other circumstances that are completely beyond our control. The other way that he defined Dukas not getting what we want you know having our plans unravel or expectations disappointed. And so how do we encounter all these things? We experience some through our senses. We experience some through our eyes ears nose tongue body and in particular the mind. So when you see that grocery bill you know it's higher or someone talking down to you at work then that's the first arrow in airing our senses. It's an actual factual impact.
+- **[6:01:00 PM] Andy**: It hurts. It's not in our head. It's simply part of being alive right? And that's the first step of this on his practice is honoring that first arrow without chain So this is hard this is what I'm experiencing and it makes complete sense that it feels unpleasant The sacriot arrow on the other hand is what our mind adds on top of the experience And actually this is what causes us to suffer and this is the thing that we can actually do something about So it's the stories and things that we spend about the impact you know the blame the catastrophic predictions that we feel attack on our own character For instance we might
+- **[6:01:51 PM] Andy**: say they don't respect you that you're failing or you're never you know you never, things never go your way or you're not going to make it And I remember when my mind was constantly thinking like this Now why does unwanted sensory contact hit us so intensely in the body Why does the stomach get tight or not is out right below the ribcage? In early Buddhism and in science in general there is this fundamental law of conditionality what the text call e-da-pa-cha-ta-ya hard word to say and I wanted to say it to try it but this condition thing it simply means when And this exists that comes in to be and with the arising of this that arises that conditionality because of things causes there are conditions. Things don't happen because you're broken they happen because of causes and conditions.
+- **[6:02:53 PM] Andy**: Your conscious intellect understands modern concepts like checking counts politics and news but the deeper older parts of our nervous system circuits that control our body our diaphragm and our gut are millions of years older than the modern culture So these systems only have two basic settings safe and connected or threatened and endangered. When unwanted threatening information enters our senses and our body treats that as a threat to our society you know our breath gets tight that got shuts down you know it's basically pulling blood away from digesting the fuel your muscles so we can you know fight your flight right And the muscles can tighten to protect us in case you know for in case of some kind of physical below that might happen That tight knotted feeling in misstomach is in a character defect It is in a failure of your mindfulness It's your inner creature
+- **[6:04:00 PM] Andy**: reacting to the conditions of threat And when we understand conditionality we don't have to get mad at our bodies We understand of course the body tightens up when these conditions are here and they feel threatening That's the nature of what the body and the The mind was built to do it's a mind actually it's a predictor predicting our survival. So we could think about this in nature what happens with animals. So you take a deer in the meadow that deer is grazing peacefully in all of a sudden it spots a tiger or some other predator stalking it. So the survival alarm sounds instantly it hearts races it's muscles fire and it bolts a full speed across the field trying to get the safety. This is the difference.
+- **[6:04:53 PM] Andy**: Once that happens with the deer you know it's past the deer's safe you know safely stops. And usually I think what I've seen is that they tremble like they shake it off. And they go back to their peaceful lives just grazing in the grass. And that's as simple as it is. You know the deer doesn't you know stand by the you know the stream drinking water and saying what if the tiger comes back tomorrow and why did the tiger target me and you know those kinds of questions you know so that the animal doesn't carry the predator around. You know once the thread is gone it shakes it off and we're going to turn it back
+- **[6:05:34 PM] Andy**: so it's a space line. Human beings that's not the case. don't shake it off Instead our minds take over We think about the tiger when there is no tiger. So the paper bill is that tiger is just sitting there quietly on the kitchen counter. But in our heads it's the tiger that's mauling our future you know well-being. Someone made a sharp comment at work for two days a couple of days ago We're still paying, repaying we playing that comment in our head right while we're trying to go to sleep at night so there's no physical predator in the room but we're in because we're sitting in a safe place right now we're in a safe place of breathing air we have a roof over our heads but the mind keeps
+- **[6:06:25 PM] Andy**: bringing this fly of alarm bell which keeps our stomachs tight and not it up the days I'm in So this actually links us to look at what are called the five aggregates the components that make our moment to moment human experience We have this physical body in form There's the feeling tone There are where this is where you're feeling something that's pleasant or unpleasant or neutral We have our perception of things right We proceed things or we're conscious of things, so we have a conscious And then the crucial aggregate is the mind the mental formations and thoughts and reactions that we have So right now I'm giving you some information specific to Buddhism and I hope this doesn't scare you away and I know it doesn't scare you Andrea. And it shouldn't because a lot of this is basically just categories of the way that we look at
+- **[6:07:27 PM] Andy**: experience regardless of any religious or spiritual perspective and you can test it out yourselves right Are you aware of you know you have a body yes okay Do I feel things Yes do I perceive things right You know these things for yourself The The idea is that these senses bring in the raw data of life sight sound physical sensations, and the feeling tone registers as if something pleasant or unpleasant and then right there at that place that's where the mind jumps in and starts running wild. So the Buddha gave us this brilliant observation about how the mind works and this is something we might want to remember. However we frequently think and ponder about, that becomes the inclination of our mind.
+- **[6:08:25 PM] Andy**: So I just wanna let that land there. Whatever we frequently think and ponder about, that becomes the inclination of the mind. So we spend our days taking unpleasant sensory experiences and constantly thinking and pondering it and catastrophic devising these stories. these resentments and the self-judgment our mind will naturally incline towards bitterness, dread and torment. And in neuroscience they talk about having grooves in the brain so that we carve deeper grooves in our brain.
+- **[6:09:04 PM] Andy**: This is why we must learn to distinguish between the facts of our experience from what we add on. So the first error or from the second error. raw experience is the fact of coming into our senses right That's the raw experience What's happening out that we're sensing And then what we add on this is our the mind story and our reactivity So this can be like as I was talking about when we get the bill you know there's the the fact that we got the bill, But then there are some thoughts afterwards that I can't pay this bill or I can't take care of my family on worthless so that's the add-on or when someone speaks sharply or brutally at us that comes something we come in we hear and we start we add the add-on
+- **[6:09:57 PM] Andy**: this oh they don't respect us or they don't appreciate you or maybe you think people you are uncouth and you know whatever his thoughts come up that way right same thing with like when we get our alarming news you think you know the mind would start generating thoughts about everything's doomed the world is hopeless and nothing I do as matters and the same thing with even with like a step back or you know some chronic ache you could think our body is is no good it's ruined and and life is over and this is all part of this second era of things that we add. So we can look at the difference. On the left side there's our direct experience the first era, are the facts of life you know things that are part of life,
+- **[6:10:51 PM] Andy**: and it requires some practical navigation. We need to do budgets we might have to find boundaries with people or might have to turn off the news. This is called guardian of senses right? And on the right side this is the stuff that the mind adds on. That's the story the myth the second arrow, the things that attack our dignity and create endless inter-separate. A sensory event happens outside of our direct control, but we think about and ponder on that something we add on.
+- **[6:11:29 PM] Andy**: That's something we can catch. And that's somewhere where we can put on the brakes. And that brings us right back to Victor Frank Frankl's space. Where is that space? The space is right between the sensory experience and what the mind adds on. So when you see the bill when you hear the brutal remark, when you feel the a you pause. You notice the sensation. You notice the tight knot in your stomach.
+- **[6:11:59 PM] Andy**: Right then there you can realize the truth of the cause. And you can also know for yourself you are not the knot. You are the awareness that knows about the knot. The tight knot you know stomach is like a sudden squall blowing across the desert. It's windy it's turbulent but the open sky doesn't panic. the sky has plenty of room for the squal to pass without being plurmed. Now how do we rest in that open sky? And that's really the gist of things that we want. How do we live this out when we're on our cushions tonight?
+- **[6:12:43 PM] Andy**: Well Tarbrough often speaks of this as two wings of a bird that actually allows us to fly and be free. If a bird only had one wing or either wing is injured it cannot soar. It just flutters in circles on the ground. The first wing is mindfulness which actually tar off and all calls clear seeing the foundation of wisdom. One aspect of mindfulness is seeing clear things as they actually are. In the present moment without distortion, without denial and without gaslighting ourselves.
+- **[6:13:23 PM] Andy**: It is the clear eye that looks directly at what happens and discerns this is the raw sensory experience, this is the first arrow. And over there that's the story of my mind adding onto it. Clear seeing sees conditionality. It understands that we are the spacious awareness for the not we're not the not in the belly. The second wing is compassion an open heart loving kindness and caring action. As Torah teaches compassion is the wing that meets whatever is clearly seen with tenderness
+- **[6:14:04 PM] Andy**: rather than condemnation. It's what keeps our mindfulness from terming into cold clinical and overly intellectual exercises. So compassion's down it looks down at that tight non-stubbed stomach and says I see you hurting you're not broken I care about this suffering. And compassion doesn't just sit there it moves into action. That's the one difference between empathy and compassion. Compassion is about action. It takes wise caring and practical steps in the world to protect you to set boundaries and support those that we love.
+- **[6:14:47 PM] Andy**: Notice what happens if we try to navigate life with only one wing. If we only have clear seeing without compassion, we can become cynical dry and hypercritical. And we diagnose our stress. We see all of our flaws but our heart is shut down and cold. If we only have compassion without clear seeing, we slide right into sentimentality and wistful thinking and spiritual bypassing, we try to love our way through by denying reality, putting on a fake smile and gaslighting our own nervous system.
+- **[6:15:25 PM] Andy**: It's only when the head and the heart fly together, mindfulness and compassion clear searing, and an open heart that we could find genuine freedom and resilience. And this brings us to the last part, something that's new for me that I've formulated that's called the practice of double holding. So with clear seeing which is where we recognize experience as experience and then with the wing of compassion holding ourselves in the open heart in careless actions. So one hand is rooted in mindfulness and clear seeing so we can hold that you know, burnished outside of ourselves refusing to hide refusing to gaslight ourselves and meeting
+- **[6:16:15 PM] Andy**: reality as it comes into our senses is something that we can hold onto. We know that that's there. And then on the other hand we can have compassion and open heart. We hold our own body in mind with tenderness using kindness as an active medicine to suit or not and taking grounded caring action in the world So there's a four-step process you can keep in your pocket One is a acknowledge experience There's no need to gaslight yourselves So when something unpleasant interests senses you can see it clearly and plainly The second thing we can do is notice what you're adding on. So this is where we add insight and discernment right? We can catch the mind aggregate in the act,
+- **[6:17:10 PM] Andy**: jickily asking ourselves, what story am I building on top of this? Am I spinning disaster movies? Am I beating myself up? Remember what the Buddha said? What we think upon or upon becomes a inclination of our mind. With a clearer scene we could put down that second arrow and let the story drop The third thing we can do is comfort the body with kindness, with compassion and an open heart We cannot talk the stomach out of a knot with intellectual arguments We can speak to our body with an open heart maybe placing
+- **[6:17:51 PM] Andy**: your palm on your you know a felly and just you know feel that yourself feel it and let that that warmness of your hand on your you're not you know sink in. So it's a somatic experience You can take slow and set you know calming breaths to relax ourselves and have compassion We use compassion as an act of aid speaking to our body like a dear friend. I know this is threatening I know that you're unsettled but right now in this few seconds we are breathing. Right now we are safe in this room We can soften. So then the fourth step is to take grounded care and action This is clear seeing and compassion and motion. So we've soothing our nervousism isn't about becoming passive it's about clearing the mind opening our heart so we can take wise skillful action. We address the practical facts the budget the difficult conversation the bodies need
+- **[6:19:03 PM] Andy**: for medical care or rest without panic. We set healthy balconies with rude people or negative news and if we need support, We reach out and ask for help without shame. In our culture asking for help is often treated as a flaw but reaching out is an act of deep wisdom and open-hearted human courage. So now when we carry this kind of stress day after day it doesn't just stay you know, for an occasional reaction. It can become chronic. It turns into a deep automated automatic habit of mind. So we find ourselves living a state of continuous stress
+- **[6:19:51 PM] Andy**: and low grade of alarm. And that constant tension takes an enormous toll on us if we let it. It drains our life force wears down our physical health, and keeps us feeling perpetually exhausted. This is why practice is so vital, and it works on two distinct levels. In the immediate moment it gives us practical real-time relief. about you when I meditate. That's what I'm working on.
+- **[6:20:20 PM] Andy**: Whenever you experience something unwanted, whether you're looking at a bill or you're dealing with typical interaction at work, double-holding gives us a way to pause to soften the non-nostemic and to stop shooting that second arrow into ourselves, which just really causes a lot of our suffering. So we don't get caught in that downward spiral. But the long-term benefit is well, is where real freedom fives.
+- **[6:20:48 PM] Andy**: And this is I think something we had talked about earlier, just during the break. Over time we repeatedly practice clear seeing an open heart of kindness. We actually rewire that you know this habit of the mind. We stop running at that mental engine that keeps conjuring the tiger all day. and our nervous system finally gets the message that it could stand down. You become more peaceful more resilient,
+- **[6:21:18 PM] Andy**: and far less stressed overall. And think about when it gives us. It gives us our energy back. Instead of spending nearly all of our daily energy feeding the stress, fighting our own feelings, calves drop-izing, wrestling with our inner knots we claim our energy. we now have that spaciousness the vitality and the clear head to deal with our lives with far more skillful and a far more skillful and creative matter.
+- **[6:21:50 PM] Andy**: Now this brings us things to things that we don't want to experience and that's simply the reality of having a body in this world. But you don't have to add torment to pain you don't have to turn against yourself. In both wings of your practice look at your life with clear seeing of mindfulness and hold your human vulnerability with an open heart and the caring action of compassion. When both wings are strong you can cultivate any storm without losing your footing or your dignity. So I thank you for your practice and for your kind attention and we have a few minutes left I'll open it up for some comments and feedback and the rest is voice Can you
+- **[6:22:40 PM] Andrea**: have none Okay.
+- **[6:22:47 PM] Andy**: Okay I know what that means Oh you can't unmute Gotcha Oh thank you for remind me sorry about that Let me fix that and figure what that is Okay try it
+- **[6:23:08 PM] Andrea**: right now. That's fine.
+- **[6:23:42 PM] Andy**: them but that's okay We're sure on time based on all the things that happened to us tonight So I think what I'll do is I've actually repeated these Let me just summarize your quick and we can close right So as we get ready to close our evening here here a few signposts to keep in mind keep in our pocket this week So on or the sensory impact we all do we all know what's But the first arrow is facing things you don't want to experience. We really don't have much of a choice in a way. Once you're in it. And we can acknowledge that it hurts. That's not negativity.
+- **[6:24:32 PM] Andy**: It's just honest presence. There's no need to pretend it's otherwise. Catch what you can eat. What you add on that's something that I think is very helpful. And I try to catch with me. that second arrow notice the difference between what we're experiencing the facts of our experience and then the mind the things that the mind spins on top of it. And remember whatever we think and ponder upon becomes the inclination of our mind. So understanding that the knot is not as biology it's not failure you know it's not failure.
+- **[6:25:09 PM] Andy**: and unwanted things enter our you know experience them and we start getting tight knotted up. That's just causes and conditions you know, and the nature working to you know, reacting to the perceived threat it doesn't mean, it's not a personal thing for us that we have to take on it's me on the failure right? And when we think about the tiger you know the other this whole idea of thinking about the tiger when there is no tiger you know to notice that you know that we don't have to keep the predator alive in our thoughts noticing when we conjure a tiger in a room,
+- **[6:25:57 PM] Andy**: when there is none we can realize that we're completely safe here. And then actually coming back to Victor Frankl again we can inhabit that space. This space lives right between the sensory contact and the mind with the mind adds on. So you're not the not you are the spacious awareness that's observing it. Fly both wings the wing of mindfulness of clear seeing seeing things that they actually are with discernment and with compassion with an open heart meeting ourselves with act of kindness comforting the tiger you know a tight knot not the tiger let the tiger run away and moving into carrying action And practice this idea of double-holding you know holding the truth of reality and then also having this compassionate heart that also is also true And then remember and remind yourself about the both the immediate relief
+- **[6:27:10 PM] Andy**: and the long-term freedom that we gain from this practice It does relieve stress and it does have the lasting fruit that breaks the chronic habit of stress So instead of burning our energy feeling worried we claim that we reclaim that energy to deal with our lives
+- **[6:27:29 PM] Andrea**: in a skillful and peaceful manner. So going and now we'll bring the meeting to a close we can look at the real pressures
+- **[6:27:50 PM] Andy**: of navigating the world the instincts that's wired in our bodies and the courageous human and work of meeting our difficulties with these two wings of mindfulness and compassion. And a reminder that awakening isn't about escaping from life or pretending that you never hurt. It's about how we show up right in the middle of it all with our families out in the street at work and in the quiet hearts of our own hearts. So with all that to seal our practice tonight, We will practice meta so we offer these intentions of good will first to ourselves and then outward to all beings.
+- **[6:28:43 PM] Andy**: May I be safe and protected from harm. May I be healthy strong and at ease in this body. body May I meet whatever arises with wisdom patience and an open heart May I live with peace and remember my true dignity Now expanding this field of goodwill to encompass our loved or neighbors us in this circle in all beings everywhere navigating the difficulties of this earthly life May all beings be safe and protected May all beings find shelter or ease in understanding May all beings be free from inner torment and fear. It may all be remember through an in-nate word and that it peace. Thank you for your practice for your presence and your heart felt sharing tonight although even though you didn't say much I wish you a gentle grounded week ahead and I hope that
+- **[6:30:15 PM] Andy**: this has benefited for you tonight.
+- **[6:31:08 PM] Andy**: People were still trying to come into the meeting after we had done. if I've ever remembered experiencing that with the Buddhist recovery network. Meet landings you know what I mean? I don't remember it being that bad. That was I wonder where that group was from picture there was I don't think it was hackers. You know they were all the same group they all joined right after each other. So they were hackers would be like one-offs. That was a group That was a recovery center of people. I've seen them before.
+- **[6:32:35 PM] Andy**: It is That's why there's a lot of them.
+- **[6:32:41 PM] Andy**: And when you do get in there work on it. Zero two three work on it. There's some guy came in asking why he came here the first time when the first one. Oh yeah he asked me if I could keep doing that you know I mean that was going to be like There's plenty of them. I need that. There is too many. I didn't need them in the mess.
+- **[6:33:30 PM] Andy**: And he likes your fur and legs less.
+- **[6:33:39 PM] Andy**: I'm going to just wait for the time to come. I need to get a little bit of water. Do you think that's worth that?
+- **[6:34:02 PM] Andy**: I think I've got to get a pair of gloves.
+- **[6:34:11 PM] Andy**: Oh that's a big one.
+- **[6:34:19 PM] Andy**: You can open it I'm open to talk to you about it not fire but it's a whole
+- **[6:34:48 PM] Andy**: king give them I think these are two These are the lowest I was there from one good one.
+- **[6:35:29 PM] Andy**: This is me kind of admitting the facts of life I had to change my pants twice. the pants are in the laundry. This showed it. Just a little bit. And in fact I did it. I was in the room by myself. I was crazy. What happened to you? I was trying to drive my football. Oh I did fine.
+- **[6:36:02 PM] Andy**: Nobody showed up anyway. No I'm going to put it underneath the counter put it underneath with the toilet paper A- going over there. Yeah no problem. Um I'm trying to lie. Okay so to take a vegetable it's going to be broccoli.
+- **[6:37:15 PM] Andy**: You've got all this congees. Okay now I'm going to do this. I didn't show you how to cut a board thing. There's a thing hole. There's something. You don't need to have that screw in the bottom. There's only one kind of cutting board that does not carry it back. not carry back here. What did it do to the middle one?
+- **[6:37:48 PM] Andy**: It was a tight pain. That was $100. No no we're not. But you get a surgical with these in hospitals. Those anyone don't carry on that area, even with can't clean these. So they've got them in, they've got all the cuts, all the little cuts,
+- **[6:38:10 PM] Andy**: the shit they need to do. Oh I'm sorry sweetie oh yeah well I know I know sweetie I'm sorry I tried to be a good example and just keep it going, you know Well did you see one of the guys tried to bait me? Yeah and then there were a couple of them if you noticed they were changing their picture they had like big fat women and it's like I started just getting rid of them. Then some of them were being tricky about it they wanted to get caught and I just think they were and I just there was two that I didn't boot and then they left them their own
+- **[6:39:43 PM] Andy**: she was being quiet I think
+- **[6:39:52 PM] Andy**: yeah this is a Yeah sad.
+- **[6:40:04 PM] Andy**: But let's try the over cover sweetie. That's probably
+- **[6:40:26 PM] Andy**: Okay are you going to yeah we're probably going to be the night now. I didn't know. Alright.
+- **[6:41:08 PM] Andy**: I love you Steve. we did find I knew that was the one that was challenging for you I tried to keep the meditation going just so you could work through it I saw at the end that you were kind of like, Yeah not.
+- **[6:41:41 PM] Andy**: So fuck it.
+- **[6:42:17 PM] Andy**: That's not going to happen all the time but if it is I mean I always think I don't want to have been advertising But now I know so that's another thing I do They have to register as people So technically I blocked them They're always blocked So that's that You know unless they change their email address that's fine but that's kind there's going to be a stupid word in there more than a matter because everybody has to be trusted to join. I don't have it just open. That's me I'm not like that. Now if you're a good person register get it you know what I mean. I don't want to say that Somebody like didn't want to be you know want to be private and all that. I'm not
+- **[6:46:09 PM] Andy**: I'm going to have to go to the other side to see if I'm going to be able to get out of here.
+- **[6:48:19 PM] Andy**: form on the left. But if it's difficult to approach without a date it's no longer something that I need as a country or anything. It comes with all kinds of things.
+- **[6:48:50 PM] Andy**: You've got one of the capitalism on the right you've got all kinds of people who can find this threatening anti-backed because there's all kinds of things over there. And then I'll go left. You have people who are identified with first modern forms of the liberalism.
+- **[6:49:16 PM] Andrea**: people say there's no such thing as objective reality. It's really all just about discourse and it's about who controls the discourse.
+- **[6:49:25 PM] Andy**: And those who control the discourse control reality.
+- **[6:49:28 PM] Andrea**: So they say science is just a game that's being played for the benefit of privileged white male. They've talked in the past about you know the anthropocentric science.
+- **[6:49:38 PM] Andy**: They question the very idea that truth should even matter. They think it's politics all the way down.
+- **[6:49:44 PM] Andrea**: And that's how the deep foothold actually in the act is still at left. And all of the things you're circulating out there,
+- **[6:49:52 PM] Andy**: none of them is entirely new to them.
+- **[6:49:55 PM] Andrea**: Always is to understand from those ideas to make our case against them. You know they're not weak and stupid ideas. They're long ideas but they're not weak and stupid. The two main challenges I point to in my book on a post-ficion knowledge one is coming predominantly
+- **[6:50:16 PM] Andrea**: And another is coming predominantly from the right. And that's a campaign of anti-liberal propaganda.
+- **[6:50:27 PM] Andy**: They're quite different.
+- **[6:51:16 PM] Andrea**: So that quick drop the 49ers did hold with Jane and Tucker with the linebacker.
+- **[6:52:15 PM] Andrea**: up to the fabric. Miley by the way why won't somebody get in the control room on this way? The American economy has left a lot of things to do at the moment. But it's just a little hard for us. But still now by 20 when you all
+- **[6:52:38 PM] Andrea**: Michael this is in a long long way. This is the power.
+- **[6:54:13 PM] Andrea**: So there's things out there that's just that. Everything seems like the one thing I thought was if there's something like a bomb on it, it's too late to hide. if there's something that didn't stop it,
+- **[6:54:35 PM] Andrea**: they say,
+- **[6:54:40 PM] Andrea**: they can just think that
+- **[6:54:42 PM] Andy**: what the goal is or what I think I'll think of.
+- **[6:54:46 PM] Andrea**: I need you all to get the chance to be honest. First of all three times and 40 points for the fish.
+- **[6:54:54 PM] Andy**: Yes!
+- **[6:54:55 PM] Andrea**: First of all you've been sent all year in San Jose. War is a mercy now. You like this? This is your first time in San Jose. You've been sent all year.
+- **[6:55:39 PM] Andrea**: and this is up and it's in the pool. Hurry I'm afraid I'm going to need to happen as you can start anything so I'm going to be picked up in and sign out for a game where it's presented by Burger King. Another hunt before I throw down. Hurry I'm trying to think that it's the first day of the first hour. It just now was a moment when I left that corner earlier I was next to you about the challenge of blocking the other half of all of it. First of all again hurry and try. Swipe for anything.
+- **[6:56:18 PM] Andrea**: Please go through it. I'm out. Hurry. Take away from the staff. Close to you. Hurry. We can do it.
+- **[6:57:07 PM] Andrea**: I'm down.
+- **[6:59:33 PM] Andrea**: The ball is just not a secure error. You have the ball out in the lever order in a second order, drop it around with nobody. And you carry that ball like this like it's a walk drill. The ball's on it again. It's never too high or secure. I'm going to leave the ball.
+- **[6:59:59 PM] Andrea**: That's it. I'm looking at my back and forth. Time for us to reel. And this is the area we go on. Can't sit can't take off Carl Day. And the fourth parallel of my step is to go deep. The 10-year oil is tied in. Yes just on the coffee route. The corner is always going to win. On a four-zone I'm going to drive to the road
+- **[7:00:25 PM] Andrea**: and we're doing it somewhere else. I can't run on the road. I'm not going to have that for enough. A really solid one. We need to be making good things that very much effort to avoid which by now is all I know is to believe
+- **[7:00:45 PM] Participant**: jump.
+- **[7:00:49 PM] Andrea**: Oh things are left. I'm not even close.
+- **[7:01:55 PM] Andrea**: I don't have beer signs that I've written the box, the tackle inside the 25. I don't have beer signs that I've written the box, tackle inside the 25. I don't have beer signs that I've written the box,
+- **[7:02:22 PM] Andrea**: I guess the angle's okay.
+- **[7:02:24 PM] Andy**: Oh my God.
+- **[7:02:55 PM] Andrea**: It looks like he's maybe coming loose you're going to have to determine if it looks like the right leg is down. It gets you straight up here and gets you right by or and see if it's not a sound. It's tight It looks like a baby coming loose You're going to have to determine it It looks like the right leg is down. You don't know where do you think it was.
+- **[7:03:58 PM] Andy**: That's a big hit!
+- **[7:05:56 PM] Andrea**: Right now we got one.
+- **[7:06:09 PM] Andrea**: Marty,rated
+- **[7:06:20 PM] Andy**: Standon.
+- **[7:06:49 PM] Andrea**: Oh yeah that is definitely a touchdown. Same now we tried to break into the middle. He feels the coverage of the scramble just works the way in the back end line. Burn look at that. What the hell is going on here?
+- **[7:07:18 PM] Andrea**: I don't want to play fast. When you're in a different way, that's when you got a world in a place that's as good as a single other guy I don't want to get away. I want to know what you intend to do. When you're in a different way,
+- **[7:07:47 PM] Andrea**: We're going to have to go away. Things about why it's damn sad. It's just their day. But things don't go as they go away. And coverage always varies between yours. Longer and coverage. We're going to have to retire.
+- **[7:08:13 PM] Andrea**: We're going to retire. That's what it is. It works like that. if it works out for me. I'm going to see what's there for it. It's got a great block. It's here.
+- **[7:08:23 PM] Participant**: It's here.
+- **[7:09:41 PM] Andrea**: This is just a big corner row The perfect matchup on Jeff Jones. I love this gap one go. Working ten fire face a blip. Fire a little. Just like this. Run. Run. Run. Run. Run.
+- **[7:10:00 PM] Andrea**: Run. Run.
+- **[7:10:02 PM] Andy**: Run. Run.
+- **[7:10:04 PM] Andrea**: Run. Run. Run. Run. Run. Now this automatically gets reviewed from upstairs inside two minutes. We're on a great play and I'm right here. What happens? I just don't know what was right. There's a huge point.
+- **[7:10:22 PM] Andrea**: Who is not the field player? I'm from here in front of an early field fan.
+- **[7:10:27 PM] Andy**: I'm sorry Are you sorry again
+- **[7:11:27 PM] Andy**: I only thought I had that the fun I did because I had it it was in an article and Now there's a hole um it seems like it's too fast. Oh well. Um what did I do? I have to, Well look for that right here these spars. I didn't uh have to cut this down now. Please. Let's see what's going on.
+- **[7:12:36 PM] Andy**: Yeah here probably. I didn't uh I just didn't see the mess down in me but I picked out it. Yeah it's a pretty cool thing because I removed the top of it.
+- **[7:13:46 PM] Andy**: Yeah I think I do have it and maybe on the website I just want to remember I got I showed it to you one day you remember it's like shooting me in the back of the door?
+- **[7:14:37 PM] Andy**: I'm going to have to get out of here. I'm going to get out of here.
+- **[7:15:06 PM] Andrea**: I don't think I know what it is.
+- **[7:15:10 PM] Andy**: Turtle Island.
+- **[7:15:15 PM] Andrea**: Oh wait a minute. Stay here.
+- **[7:15:52 PM] Andrea**: I left the bag for 22.
+- **[7:16:48 PM] Andrea**: Yeah yeah I don't think they respond scammers or any I think they were just basically
+- **[7:17:17 PM] Andy**: Juvenile delinquettes young people this is the answer problem it's a problem they have no respect. It's a problem in men that's why I'm trying to get a reaction yeah it was all right. reaction Yeah it was a lot Yeah I'm sure Very immature I think there's a few maps like that around but I did see one.
+- **[7:18:21 PM] Andrea**: Oh wait a minute.
+- **[7:18:30 PM] Andrea**: I thought I had bought one a while ago.
+- **[7:18:35 PM] Andy**: Just some other things in here. Earth Science. It's in the door. Earth Science. There's a book called That Earth to rely on decolonized.
+- **[7:19:04 PM] Andy**: Yes I was really detailed. Well Library of Congress has one maps of native tribes native ministries as you can find them. Oh you want one for sale? No I'd rather not but there's a PDF I mean that's what I was saying. I think I looked through my history I might go find it because I remember a couple years ago showing it to you and how detailed it was yeah I did but if I downloaded it or where I put it.
+- **[7:20:39 PM] Andrea**: I'm going to look at this thing do you have all that?
+- **[7:20:43 PM] Andy**: You hand your office door there like a bunch of loosters. Oh you know those old posters science posters, I don't play them anymore I don't put on or maybe there's a couple of huge art ones.
+- **[7:21:10 PM] Andy**: Well I was tracking them down I was out for the deep and take more down. Do you want to find a place for the horses? I know I know where to put it. in the bedroom I'll show you All you have to do is just move the growth picture down and it up for there Yeah right on that wall there so you can see it every day.
+- **[7:21:48 PM] Andrea**: Yeah we're going to have to get a frame for it.
+- **[7:22:24 PM] Andrea**: Get out of there. I'll stick in there. You got my knife for the camera.
+- **[7:22:31 PM] Andy**: Do you know that place? I forget the name of that from all across the street from Monsido. They're expensive but they can make one for you. Could that mean that'll be a standard size?
+- **[7:23:05 PM] Andy**: But I didn't.
+- **[7:23:44 PM] Andrea**: I think I saw a web one that was even more detailed. Yeah this one's not the one I'm thinking of oh women.
+- **[7:24:56 PM] Andrea**: If my morning is a sunrise down on the Alcatraz do you miss people's day?
+- **[7:26:00 PM] Andrea**: Oh no.
+- **[7:26:55 PM] Andrea**: I'm going to do the oxygen. And how are you all having fun for two weeks?
+- **[7:27:50 PM] Andy**: Three weeks. And then um I'm gone at a certain point huh? The end of your thing? The last week. I probably have like one day at home in the area. I could bring a tray over there and eat with you too if you want.
+- **[7:28:48 PM] Andrea**: I think it's pretty cool to talk about too man.
+- **[7:28:58 PM] Andy**: Yeah it's a nice way to play too. Sometimes it's just like we do here. Not that hard. I think we're doing okay I mean financially we're I think we're overall we're doing pretty good. I can tell that you're saving money so that's good news and I think that you're going we're going to get a big fat refund on your insurance this year We're going to get a refund on that because that was all based on me making 135,000 a year versus
+- **[7:30:00 PM] Andrea**: and I only made 50,000 this year.
+- **[7:30:30 PM] Andy**: So we've been getting 2,500 times 6 so let's just say 18 the cheat so I don't have to buy supplies whatever so close to 18 and then we spent another car was 8 7 or 8 and beds were three or four The bed Yeah So let's just say that's 12 and then the funeral is 10 So 22 plus 7 22 plus 8 is 30 So 30 plus 50 is 80 So we're under 100,000 taxes So we're gonna be 80 we're gonna be way under the 12% tax thing So yeah and I was paying all those taxes like I was making 135,000 Well actually not because I was contributing to the 401k so I think based on our income this year they will have realized that you pay for the pay. So I think we'll get that back because you've been paying for right that's what I mean. I mean it may not be much but it's going to be a problem.
+- **[7:32:15 PM] Andy**: I don't think we're going to have to pay this year.
+- **[7:32:18 PM] Andrea**: We're going to get back.
+- **[7:32:24 PM] Andrea**: It's great.
+- **[7:32:34 PM] Andy**: If we can live here I guess I'm settled to live in here
+- **[7:32:38 PM] Andrea**: here and something else doesn't come up you know it doesn't come up for us.
+- **[7:32:45 PM] Andy**: I'm not going to get flooded. And it really it sounds like it's a hundred to 500 year floods. But we're in that danger of that happening. So it's just a matter of I mean there's no storms. you don't have to worry if there's a storm and it's not high tide we won't have to worry maybe because the Kelvin wave is going to add so I mean it's almost adding a foot and a half right now so when we're like we remember I was saying oh I'm I'm worried about that 7.25 foot well actually so imagine it to 5 is actually so 1.25 this just hit us the Kelvin wave said to 6 foot we got to worry about 6 foot and it's going to be almost all the time we're going to run into this and
+- **[7:33:54 PM] Andy**: worse Now imagine if there's a seven foot wave and then there's a foot in a quarter of kelvin.
+
+---
+
+## 🎙️ Session 3: 2026-10-11 09:34:06 (5h00m)
+- **Source File**: `2026-10-11 09_34_06.mp3`
+- **Audio ID**: `of_2f849ea5528f7c4cc3d10cbd3181a67d`
+
+- **[00:00 - End] (Speaker / Group)**: - **[9:34:06 AM] Andy**: Alright so right now I am moving away from the computer because I'm about to go into the football world and become a fan of the Raiders it's all about one-ish and then I am returning to getting ready for the Derma that's living Mindfully meeting this evening.
+- **[9:35:04 AM] Andy**: Okay and if I took my meds today. I don't think I did.
+- **[9:35:40 AM] Andy**: Okay that's fine.
+- **[9:36:32 AM] Andy**: Oh here a club for men that's it.
+- **[9:37:27 AM] Andrea**: I'm going to use a little bit of water to make sure I don't get too much water so I'm going to use a little bit of water to make sure I don't get too much water.
+- **[9:50:07 AM] Andrea**: Yeah,
+- **[9:54:52 AM] Andy**: Looking good I love you.
+- **[9:55:36 AM] Andy**: in Floyd County Arlene Gephardt and photojournalist Aspen has to talk with the candidates left out of the running. Voters are headed to the polls early this midterm election but some early voters in The Floyd County Indiana will need to cast their vote again. Over 570 voters were missing an entire race off of their ballots. Ballots approved by the Floyd County Clerk's office and the Floyd County Board of Elections.
+- **[9:56:02 AM] Andrea**: My thought process really went to the greater problem which is just the people who went to cast a ballot.
+- **[9:56:09 AM] Andy**: And you know their vote at least at that moment didn't count. And then there are people that have very very busy lives.
+- **[9:56:18 AM] Andrea**: And they went to the trouble of voting early and got to check that off the list. And now we're telling them they have to come back.
+- **[9:56:26 AM] Andy**: Democratic candidate Ellen Morrison Kelly faces Republican incumbent Elle Canable the Floyd County District Plan Commissioner race. Kelly says voters notified her that she and her opponent were left off the ballot.
+- **[9:56:37 AM] Andrea**: I don't think it was purposeful but I do think that it shows that some members of the
+- **[9:56:47 AM] Andy**: county government are not paying attention to their jobs.
+- **[9:56:52 AM] Andrea**: Both candidates live in New Albany which is required by their race.
+- **[9:56:55 AM] Andy**: Floyd County voters outside of New Albany were the ones impacted by the error. In a statement Friday to WHS-11 news Floyd County Democratic chair Adam Dickie put the
+- **[9:57:04 AM] Andrea**: blame on county clerk Danita Berks and the Republican leadership.
+- **[9:57:08 AM] Andy**: The Floyd County GOP fired back saying it was a bipartisan process involving both Republican
+- **[9:57:13 AM] Andrea**: and Democrats and stated the admission was missed by everyone.
+- **[9:57:18 AM] Andy**: Now those 572 voters will have the option to cast their ballots again.
+- **[9:57:22 AM] Andrea**: But they'll all receive a form in the mail and they can either bring that in person to a voting center or they can mail it in and then go to the voting center later on and and castes a new ballot.
+- **[9:57:35 AM] Andy**: And the watching board has safe guards in.
+- **[10:02:35 AM] Andy**: For the readers and the patrons and for sign-line reporting Melanie Gollum. Well they can't make her cut in this time. For the meeting touchdown passes. And the readers are averaging more than 28 points per game. And cousin Fred has been hospitalized. She has already established connection. With Clint Kuviack he told us the best football he ever played in the Minnesota. In 1921 when Kuviack was the first time way popular in the fight against her. Connection has carried over to Las Vegas. happens that the kumia has challenged you to take ownership of this often and given him the light
+- **[10:03:06 AM] Andy**: through clean and there are the championship minds that year and you can just feel that there are a different energy about this reader team that year. The other sprints were on 25 points or more in the first four games this season. Well you consider last season they only scored 25 or 4 points one time the entire season and as you said Kevin they've done that in all four games. Any more dollars will be kicking off for the New England Patriots. The one that draws the after-first fingers will receive the Patriots will take the second half kickoff. Deep at the number one kick-man in the league. Dylan Lobby along with Devon Topkins here we go the Patriots and the readers. And this is Devon Topkins just called out the practice squad and finds who'd happened by the 35 and he goes sailing into the Patriot bench on a return of 34 yards.
+- **[10:03:56 AM] Andy**: H-38 the Kirk Carson with another team last year at Lanna and now a reader. Well the 15th year in the NFL this is his fourth team and as Melanie just told us, his relationship with Clint Kubiak in this offense has made him very comfortable. There have been some additions to the offense from when he was last with Kubiak, particularly some of the protection schemes and words used when Kubiak was with Shane a hand. So look for a little bit of difference from those offense, from those offensive but they really put together a nice start to the season. Big news a rally bag Ash and Jenny who'll get the draw here on 1st and 10th and takes them to a figure of victory at defenders near the 39 did not practice chanting on Friday with knee and foot issues He is starting today All right matchups today you're watching.
+- **[10:04:43 AM] Andy**: One big thing you have to do is you have to uh from a sack stand point you need to protect Kirk Cousins Only five sacks allowed last year was well into the 60s. He's getting the ball out of his hands quickly and for the Patriots defense the last two weeks too sacks So they've got to find a way to put the pressure on her because it's good at getting the ball out of his hands quickly It's second down in six from the 39 They're starting quarterbacks today for the Patriot defense Charles Woods and Marcus Jones underneath And that's one of those players that's starting today Charles Woods both Christian Gonzalez is out. Along with Carlton Davis.
+- **[10:05:24 AM] Andy**: And seven of the line of scrimmage in a four-shell underneath. Woods was very aggressive. Watch the hit because in six years first pass the tip of the game. Getting pressurized and trying to cause confusion. can do is use that kind of defensive coordinator says we want to get multiple loose We want to be able to get pressure We also have to cause a little bit of hesitation for the quarter.
+- **[10:05:50 AM] Andy**: Shanty Rebecca. Five of the second eye for the past deep ends and cousins to the air Good cup. Under eight and good sleep. And going that time for Benson. With the coverage on the play. Turned in by Kindle Vendor. The front is right again. Signed to the at the roster.
+- **[10:06:08 AM] Andy**: covering on the plane Here comes the button Kevin how many times we've seen this but you come into this game and your top four corners are down for the game but the replacement's coming in You get a three and a half on the first possession by the Raiders You get some pressure on second down and that time nowhere for cousins to go with the football. Good first series for that nature is deep. AJ Cole will be turning 4 to Las Vegas and deep back his Marcus Jones. A lot of the moms are going to keep it away from him and rightly so are the best. That returning kicks in the league it's a 45-yard putt with a hang of 4-8. So here is a look at Trickman who is the runner up in MVP voting a season ago. Well it came to life last week in the second half. I've got to see offensive player of the week honors. You see there 54 rushing yards also led the team
+- **[10:06:59 AM] Andy**: and Josh McDaniels the offensive coordinator said, listen I have no hesitation about what Drake May is going to be or what type of player he's going to be as he continues to develop. He just has to remember he is just 24 years old. Stevenson and the pistol with the two tight ends back here and May on first intent and Robon Dray Stevenson. Well for his way with the handful of defenders, the group out near the 25 It is a game of four It'll be stuck in down in six and matchups. Numbers and players will be watching.
+- **[10:07:30 AM] Andy**: Well I'm looking at both these tackles Campbell and Moses against Cros. Because they like to flop in both sides They're going to take whatever advantage they can find and make it difficult for the Patriots the double team of whether it's with the chip or with the tied in. Because you're bouncing in so much that's going to be the matchup I'm looking for is that Resulient effort by Max Brown three starters out today. We're Steven to the back for your second six. Go and keep all the doubts. Get out of hold on to a flight fraud. We're stoked from the coverage in the Reader Secondary.
+- **[10:08:06 AM] Andy**: Fuck.
+- **[10:08:13 AM] Andy**: That's your first.
+- **[10:08:14 AM] Andrea**: Keep it.
+- **[10:08:16 AM] Andy**: And that's where they've improved but Stokes said the top of your screen their number five is going to be on dives I think what they're going to get is he's holding with that right hand That's such bullshit Shit
+- **[10:09:04 AM] Andy**: And of course AJ Brown who could come off I.R for Mike Prima next week. And of course no Matt Collins has been my live reporter here in the Winger. Yeah both these teams are beat up but a lot of guys are inactive today. But the Patriots really you know you start looking at wide receiver depth and corner depth. They're finding ways to piece it together. Tradeon Anderson was the back second down in nine time for me. Well I talked about giving Drake May time and that's really what they do tight end ends up blocking or slow-bought blocking Crosby after he releases late as the check-down Then Moses picks him up But you can't give Drake May that much time He's gonna find an opening and As you said Kevin put that ball right on the scoops.
+- **[10:10:00 AM] Andy**: Thoughts had just come off their best performance of the season last week. While they're starting that same momentum here in the opening drive and they're sitting on first in 10 they'll dance that he's cobbled up on the play and take him in get a former Patriot Adam Butler, is there a course that can you just suck it down 10? Well man and that's a key. What are you gonna do on first down?
+- **[10:10:19 AM] Andy**: As the deepness you wanna limit as much as possible, so you start forcing the situation, and both of these teams both of these coordinators, talk to us about first and second down successes but ultimately leads to having third down success and giving off the field. So good stop there on first down for the ringers deep. Fourth quarter cup backlash rate for the Patriots Henderson is the back second down 10 made in the air. Moses for block the time. Always gonna go deep.
+- **[10:10:44 AM] Andrea**: One more to go.
+- **[10:10:50 AM] Andy**: By stops. But it's first with it never recorded congress. People ain't been going. You can't let somebody free down the middle of the field and that's exactly what happens when you get made drink made up much time and you release the guy in the deep end Easy pizza yes.
+- **[10:11:29 AM] Andy**: Shoot.
+- **[10:11:44 AM] Andy**: first TD exception for almost this season for great playing who just threw his fifth touchdown pass of the year Well there's some going across the after that extra bonus out Not sure which way this family is going
+- **[10:12:14 AM] Andy**: He's back and relentless hallowed hearty but he's coming right here. He's open and blind wide but he's over at 3-0. I'm doing one try and talk.
+- **[10:12:31 AM] Andy**: No problem. Meet the Burger King game date menu. Achieving flavor press over and crispy chicken fries. Don't get more nacho cheese. Turns any day to game day. Throw the line of today. Do you hear that? That's not the 100th philix or spray on flavors or compromise of any kind just to freshly
+- **[10:12:52 AM] Andrea**: coat to these inventions for a full healthy life.
+- **[10:12:56 AM] Andy**: Fresh best better food for your better half. We're on a little behind today how do you want me to get back there so I've fallen some teeth? Waiting rooms.
+- **[10:13:05 AM] Andrea**: They can be tough for young homeowners turning into their parents.
+- **[10:13:07 AM] Andy**: What are you here for today? I'm justically just cleaning them. In and out. Easy peasy. over here Well if you can see it but let's just sit quietly and wait for our
+- **[10:13:16 AM] Andrea**: flight Gotcha I'm what they call a grinder Yeah,
+- **[10:13:21 AM] Andy**: I'm just if I don't see you for becoming your parents but we can't see anybody when you're But what I'm saying. I would have had normally large houses.
+- **[10:13:53 AM] Andy**: buy a screen You reach for something better. Get some new to conquer. New CVS third stage the fight is real and it's the best new show of the fall. New take on possible cases new play from the acclaim creates of the good one. You trained the AI that replaced you didn't you? Super Tito's fast paced and fun I know it is not legal to marry a chatbot, to certify fresh 100% on rotten tomatoes you're being turbid. You pretend to redefine the TV and it's just getting started. I'll give you a free massage for all. You pretend it was all new to CBS Thursday.
+- **[10:14:36 AM] Andy**: You can count on forgressive.com Burger King at BK. Have it your way you rule. Invite fresh bat better food for your better half. One of the lost talk to my games at NFL History, regular season or pro part of that march by the Patriots of Oregon, Robert Kraft Jonathan Kraft. Turn up the sound Jonathan that's what I tell you turn up the sound, and here's the kickoff after the touchdown passes. In and out of the end zone it'll be a touchback, back It'll be at the 35 yard line second position coming up for
+- **[10:15:15 AM] Andy**: wreckage So here's the penalty right here Max Crosby gets the headbutt right in
+- **[10:15:22 AM] Andrea**: front of the official waste feisty By the way the Raiders won here and the
+- **[10:15:30 AM] Andy**: opening game of last season by a touchdown Well I thought that they won by a touchdown and then look at the team directions They drafted the teams when the the Patriots lost the end of one and two at the start of the season and they went ten in a row and make it all the way to the Super Bowl.
+- **[10:15:49 AM] Andy**: First down Tim the chance in the back and everybody in tight. Tuck her on the move tuck her to James Wheat. And a girl with a field tackle over there by Tildor. It's a Gena 5 I'm first down. Our first trip to our CDO studios in Adam Shine. Kevin tried to form a raiders board back to no slip to Garrett Wilson thirty-three yards guys Are you kidding me?
+- **[10:16:36 AM] Andy**: and at the bottom of the pile Milton Williams with a game of three and Trent throughout to about the 28. Well it was Williams Kevin they got into the back building cause that cut back there trying to stretch it to the outside to get the cut it inside because Williams with great penetration up there to get up the field. The kickoff came from the 50 years we saw so the touchback makes it to the 20 and now they're at the 28 reps third down and two. And then the lobby is the back. They want for blocking causing one work. What a catch me.
+- **[10:17:18 AM] Andy**: Townfield my powers. It was where God marked his choice. Terrific reception. In the pay for your territory at the 48 pick at the 23. And I'll figure it out. Well there's different ways you've got to try to defend Bowers and then there's nine guys right at the line of skirmishing. It made a man You've got corner on Bowers They talked to us The coaches did about Bowers. Even though he's listed at the tight end you'd treat him more like a wide receiver. But that one on one because then we'll take it every time. I'll be with the dive but first in ten he's down to the 43 with a game of four and second down in six coming up.
+- **[10:17:51 AM] Andy**: Look at the all pro Brock Bowers who missed the first couple games of India. Well anytime you're going to lead company like that might take a first tight end ever in the hall of fame and showing wins the senior company to be in your profile. Lobby remains second down and sixth. This has first rush of the season moments ago. No other block at the left tackle and I'm the spruze again. Nice catch white bench that across the way. Cody White. It was out of mission in state 17 yard pickup signed to the add to roster from the practice squad last week comes up for the catch of the 17 One of the allegiance that Kirk cousin shows to Michigan State because they're asking about Cody White and getting familiar with him and he said listen
+- **[10:18:38 AM] Andy**: I've been following since he was at Michigan State because Kirk cousins weren't the Michigan State so he's trying to give as much love The display is possible but Cody White is really come on here the last couple of weeks and they were in the great sliding test
+- **[10:19:19 AM] Andy**: It's the pass and it went down the sidelines the receiver sees it and goes back for it the defender runs through the receiver. That's what happens with fire He doesn't get his head around to see it And the bowler's goes back for the football and there goes back for the football That's just the way it hits It's called nowadays with the receivers coming back to the ball It's either the painter that gets in the ball The Patriots have not allowed any first quarter points this season so far It's the Patriot defense in Jacksonville The only two The right now It's at 13-year What's it?
+- **[10:20:30 AM] Andy**: And then I safety See Mayor go to the flat We throw the corner before Jones is able to get his head around back shoulder Good little case of your 12 touchdown pass on the season for Kirk Cousins. My label said Bowers is the issue He is their Jackson Smith and Shippup. At the end coach let go of the Ackage carried over as the offensive coordinator, last year Wayne the Super Bowl for the Seahawks Bowers comes up with a touchdown Reception is third of the year a 13-yard strike from Kurt Cousin starting in Southern.
+- **[10:21:20 AM] Andy**: We simple ingredients never sounding so good. That new honey chicken biscuit from Popeyes now for five times.
+- **[10:21:33 AM] Andrea**: I'm a star on your team check out my game day drip.
+- **[10:21:52 AM] Andy**: It's custom. You get the games you watch your mace. Move up shoot. And if you don't have to write all the covers you'll be paid for that yourself. Switch to all state and you can save $900.
+- **[10:22:09 AM] Andrea**: Take notes.
+- **[10:22:13 AM] Andy**: No Mr Clean Magic Eraser makes the cleaning the impossible? It's possible. They're up great in less two times longer to cut through even more tough messes. And for a deep bathroom clean try the new Mr Clean shower and tub scrubber to cut through 100% of silks going grind. It's not just clean It's Mr Clean. Don't give a $6 meal deal. Get a medium-hot or iced coffee. Six crispy golden hash browns. Add a delicious bacon egg and cheese. It's don't give a $6 meal deal.
+- **[10:22:42 AM] Andy**: A meal for everyone. Fans have made NCIS Tuesday the best night on television. Back to work. Gas station chili dogs a bad coffee. It's about showing up every day honoring the heritage working hard and playing harder because there is no best but only better. Hey bro get me I'm open. Yeah we got to go back. And if the journey gave us hours. The front partner of the same Cisco 49ers Toyota,
+- **[10:23:32 AM] Andy**: let's go places. Putty day here is your life's stadium. In New England Foxboro Massachusetts, we've got two touchdown passes that start this one cousins. It is terrific all pro-tied in dollars. 13-yard touchdown pass powers and also got one on that blind for 23. The ensuing kickoff taken by Kyle Williams a reserve wide receiver. And he'll knife his way up the sideline now and get a return on the play of 30 yards. Sorry Mal. what's going on towards you or the flight.
+- **[10:24:10 AM] Andy**: I'm going to get you the flight then we'll give you a second. I'm not going to call it downstairs.
+- **[10:24:15 AM] Andrea**: Well thanks Gavin.
+- **[10:24:16 AM] Andy**: On Tuesday 15 cancer patients survivors and their guests, receive an invitation to attend Patriot State's pampering at Gillette Stadium. The day featured manicures massages facials jewelry making and much more. The 15 attendees also received a special surprise from Patriot's owner Robert Kraft. Christmas.
+- **[10:24:41 AM] Andy**: on her robber craft personally invited them to attend the past jump game. Next week how cool is that? Good stuff you better believe it first and then and if you don't get the tool on you'll pull it up the middle. And he got the first down he was ripped up by the Koby-D in the former Eagle. Let it be our first some reading space to the 27 yard line in the first and jump. There's a quick hand out here up the middle watch the block watch the job blocking here.
+- **[10:25:05 AM] Andy**: The lane that is going to be open no contact for at least 8 to 10 yards. yards Excellent job of executing up front and three different stunning right guards But when it's out they're opening it up now it is blown They got English in their names but back in the first inch and for the quarterback Drake May again your time Campbell the block downfield It's made downfield No surprise for the way this kid makes up her bad at rap stoops the tackle 17 yard pick-up by the way for the 44th. And I'll say it again maybe you have to get some pressure on Dr Knight the first series of this game. He had nearly 4.5 seconds on every half of 10th. That's how he is nearly just this much time to the net the old net long his system gets open and makes another great chance. Or you had two great receptions and that fourth quarter come back last week in order to
+- **[10:26:04 AM] Andy**: park first in 10 Here's the run And I'm not sure if the end is going to rip down, take it down on the play And it was the linebacker Tony Eichenberg No games I've eaten 10 So the first three weeks you see the numbers and in particular the interceptions and last week you really got his foot Well you see the TV passes you see the interceptions and of course the sacks you know giving him time to throw and average release time was over three seconds as we said today It's already over four and a round four and a half seconds So offensive line playing much better There goes my running himself 54 yards on the ground Last week in Schwartz the first brought down my chin Shining the first 48 of the Raiders in pitch of eight Oh that's that's part of what he does You know last week 54 yards versus he led this team on the ground and when
+- **[10:26:56 AM] Andy**: you give him room to escape Good job it protects in the raider strike bringing pressure with the blitz but there's that much of an opening go ahead and use your legs and that's what he does to set up this third and short Now the only back is Remundered Steven Shen and he'll join for that Creek May in his 30 out of North Carolina in the back hill with a third down and two The release He's brung with a black man on the line. Chase on the play. White bro Mary Steven's in with the catch. Working on play Walker. And I was downfield about the 33,
+- **[10:27:32 AM] Andy**: but we'll see what that frags about from Craig Rolls down our field. Hold it hold it. Off that number 76. The 10th artillery in play third hand. It's on the right tackle Morgan Moses. That right side has been a little bit inconsistent at this season. Well Moses he's going to be among getting caught. see him on the right here it comes into play there 76 on the edge you know
+- **[10:27:53 AM] Andy**: sometimes as a quarterback even when you don't have the flush watch you can step up in the pocket here there's room to step up in the pocket but sometimes as a quarterback you flush to create space and openings that's what he does there it gets to the outside that creates the lane to where he can get me as he picks and gets unfortunately the tackle doesn't know he's He's flushing so he gets a hold and now they move it back to their lungs. David's in the back May he will shuffle and drive. Here comes Crosby. They'll be short. Walker finishes him off.
+- **[10:28:23 AM] Andy**: Crosby Chase is in turn behind. And they're back to a 48 with a couple to go for a first down. For it. And McCall is free. Let's see what free will decide. Well May's pretty good size but he knows you've got Crosby Chase, and so we can't get down and then Walker just puts it on him. Fortunately it's a hang on to that football. Unfortunately there was this left shoulder that took the shot. Looks like the face here is aligned up to go for it here.
+- **[10:28:47 AM] Andy**: On fourth down do you like the goal? I do. I do try and get it with the hard count. You've got it at home. Let's try and get it with the hard count and be taken to the hard count. Long-range Stevenson the basket. They're just trying to get it with the hard count. No they're calling. Fourth and three. May.
+- **[10:29:04 AM] Andy**: Got it. First down to this. Shotgun of arms by Terran Johnson. I'm fourth in three and a pick up six. Me right there again with the accuracy to the 42 with the Raiders. Well they tried it with the shifts in the movement, make it look like they're going hard count to get you to draw you off side and then fun to football but instead after the shift of Steven set up in the pocket just a quick throw to the outside you catch him in man coverage. Some of that shifts in movement is to draw the attention of the quarterback
+- **[10:29:32 AM] Andy**: and given a weirdness of whether the deepens is in some of the man that friend with the alert on man you take the quick out for the first step Steven's in the back God's is on the move First in 10 Try and continue Just begin with the 11. poses a block Come on deep again and get ready Look at the dogs Stoke who's there Another blind. Well there is definitely contact It's just whether or not the ball was catchable. I think that's going to be the discussion is yes there was contact that pushed him out of the box but was the ball so far over there and there wasn't catchable there and they're in
+- **[10:30:11 AM] Andy**: the discussion right now you see the contact there it's easy to call right you push him there but the ball lands another That's an affair. He's just to divide. Both of us are far above.
+- **[10:30:23 AM] Andrea**: That's an affair. He's just to divide. Both of us are far above. That's an affair.
+- **[10:30:27 AM] Andy**: He's just to divide. Both of us are far above. That's an affair. He's just to divide. Both of us are far above. That's an affair. He's just to divide. Both of us are far above. That's an affair. He's just to divide.
+- **[10:30:37 AM] Andy**: Both of us are far above. That's an affair. He's just to divide. Both of us are far above. That's an affair. He's just to divide. Both of us are far above. That's an affair. Both of us are far above. That's an affair.
+- **[10:30:47 AM] Andy**: He's just to divide. Oh what's the problem with Stokes? You mentioned before last week they had more pre-smamp motion than they had at any of the time in this very short sample size of a season For three games of the season just over 50% in their motion and movement. Last week over 75% in motion and movement So you're seeing more of that today All that does is move the quarterback Hello hey yeah They get a third and three this this potential stock for the raiders defense on third down is big number one for the third down defense standpoint Uh sure
+- **[10:31:55 AM] Andy**: yeah it should be clear I think a two o'clock is over with so I mean it so but I'll let you get yeah sure you see the email I sent you about how it's all calculated yeah yep Yeah that's that that was yeah well that was what Patrick and I talked about he wants to let Kelly know and then I could send an email to sunny and whoever Yeah give the people give me a list of people I'll add them to the thread. All right Bye Bye.
+- **[10:33:06 AM] Andy**: formation Watch this going to be a clear out and then an angle behind it all. Excellent throw by May to put right on the number You put it all in numbers It's away from the defender You can protect the football as a receiver And that's what Henry does down just short and open One move is in as a Jack Lauer He is the back arc and is the full band with Gilliam out. All started off at 76. No I can't wait.
+- **[10:33:38 AM] Andrea**: Don't work that way. Already tackled.
+- **[10:33:46 AM] Andy**: Now taking the change in the personnel group taking all offensive linemen and two tight ends off the field and bringing in some smaller bodies to spread them out. She brought the winner there to defensive coordinator first year as deep as a corner Then the Z-line goes there for four seasons But I'll get an opportunity to call it up Steven's in the back The ender sales time to move and it's first to go all my great Stevenson
+- **[10:34:25 AM] Andy**: and with big plays along the way just a range of hits that blocks hat on the hat. There's nobody that's unblocked and then at the last second, it's the final order. Yeah you see Queen Walker jump in there but he overruns it, and they're able to cut back to getting to the ends of that right side. It was the right guard Brown and the right tackle Moses, that pushed the running back through for regardless. We'll try the extra point and it's 14 to 7 New England. Three red zone trips last week in Buffalo one of one today,
+- **[10:35:00 AM] Andy**: converting in four downs and up not by seven. When the game's on the line, take the smart flip. That's when it comes to your mind. Well so fine you can face smarter by earning higher interest. You can invest smarter with a so-fi financial planner. A far smarter would competitive rates. Download so-fi do everything after smarter money.
+- **[10:35:35 AM] Andy**: So-fi the number one bank in the U.S. Get your money right. Introducing Mike's hot iron stuff for Jersey Mike's and him Salami in fact would only look for the home. Forget about it. And it's only for a limited time. Forget about it. Actually remember that it might stop the dance of only a Jersey Mike's
+- **[10:36:06 AM] Andy**: Yeah I think he completely correct
+- **[10:36:18 AM] Andy**: It's the end of the game and they're going for two and so are you will you buy a four-piece signature chicken and get another one free from Popeyes?
+- **[10:36:34 AM] Andrea**: It's not football without food get game day deals on Uber Eats.
+- **[10:36:38 AM] Andy**: You're gone You got room for them You can't It's the fans over at the awards club. I got room for everyone. That's not right.
+- **[10:36:52 AM] Andrea**: She's hurting her.
+- **[10:36:54 AM] Andy**: Sorry ma'am. I see nobody named just ma'am say Roy I can't end here. Everyone is invited to the fainting award. Look up to your most rewarding season ever.
+- **[10:37:16 AM] Andy**: When flip-off makes you hungry order Uber Eats. And by so far the everything out for smarter money. But at the time of year it's left 10 miles away from where we are. There's a word to drink mate boy but right so many issues were very prominent in the first three games six trips One pay tree attached down in the red zone Last two games they're four or four. Well that just been much more efficient in what they're trying to get done in the offensive line way. It has been better the last two weeks as well. It'll be tough and he'll take the ball inside the five four lost rings. is what it's written a tackle made right there who is now the former giant coming through flag throne as the Patriots have been invented from a couple of radar pass interference
+- **[10:38:11 AM] Andy**: calls on those touchdowns rise to go up 14 to seven over Las Vegas.
+- **[10:38:26 AM] Andy**: There's no following the flight. And downstairs the Melanie Gollum. Well I got the Patriot defense new defending Brock Bowers was going to be a huge challenge today with the way Clankumiak moves come around. Is that curtail less than our means? They have to know where he's at all time. and they wanted to disrupt the timing of his route. So after that last bow and touchdown, Patriot safety coach Stop Booker,
+- **[10:38:46 AM] Andy**: hurdles are back into the defense together, so hey we're all in a statement please. We may play first you need all of it. Also down there coaching up this second area that's down to the corner today. That's always an active again today. This is one of the best clips and defenses in the NFL with the 50th on his right. It's Genji on first Genji on 10. I'm gonna block it there from the center,
+- **[10:39:06 AM] Andy**: Linda Bowling conscious way for a couple. Yeah at the bottom of the pile man. Take one Jones gain a horse. I get in six. Well just to piggyback those comments, that curve in the event's corner says, we want to try and cross some conditions for Kirk Cousins. We want to give him similar looks, but we also want to be the same look over and over again. They're going to have to take some opportunities in the risk.
+- **[10:39:26 AM] Andy**: And that means going to Manamand Defense. Marcus Jones has been matched up on Bauer's three times in Manamand Defense. He has two catches on two targets for 37 yards in the touchdown. So he's going to need some help with one on one on Bauer's. Guys it's just three and five. Can't see what get the calls. Second and sixth pushes for Pyle and they'll slide up close to it about a yard shy. As he's brought down on the plane by Linebacker Christian Ellis,
+- **[10:39:52 AM] Andy**: it is a gain of five it'll be third and one. And that's an important piece right there Kevin. That's one of the football effectively being four yards or more so that you keep the chance moving third and fourth now. And this is not a good one-man attack for the race. They have struggled but they're staying committed to it. Dr Heward will be under center with a flag and you saw on B-quartered accident for the first push. Now there are 10 former Steelers,
+- **[10:40:24 AM] Andy**: but eight seconds to go here in the first.
+- **[10:40:32 AM] Andy**: And a first quarter with a lot of flags. Offside off that
+- **[10:40:44 AM] Andrea**: 55 55
+- **[10:40:49 AM] Andy**: Center Tyler Runderball What I talk for the center to be over the ball normally they get centers a little bit of leeway That's such bullshit
+- **[10:41:19 AM] Andy**: So that's how it runs. Her cousin's with a 13-yard touchdown past $1. Patriots at the end of 1 by 7 on CBS.
+- **[10:41:28 AM] Andrea**: let's light the roof
+- **[10:41:52 AM] Andrea**: Judition now. Less inclusive. At Macy's.
+- **[10:41:57 AM] Andy**: The fragrance destination. Hey text this to your ex and see what they said. Buffalo Wildways pick 6 for 1999 is the perfect meal for two. That's like less than $10 a person. Congrats on your rekindled love. Pick 6 meal for two for 1999. Monarch is a mere example with that unbearable ish. When it uncontrolled despite topical treatments, a little treatment relieve itch fat with clear skin at last. Number of you have blocked the signaling from IL-31,
+- **[10:42:27 AM] Andy**: affluch the triggers to your symptoms of ICON. Do not take a allergic to nemovio. Stairs reaction may occur some severe. Tell your doctor about any medicines you take. If you experienceitis or plan to receive a life-backed scene. Demote common finds back to our headache, joy pain hides them up like Ask about nemovio today. If you keep making that face it's going to stay like that. I'm trying to get my own car insurance.
+- **[10:42:50 AM] Andy**: USAAA grandpa's in the military. He should membership with your mom so she could share with you. Easy. USAAA check if you're eligible today. You see yes Tuesday the newest NCIS chapter.
+- **[10:43:05 AM] Andrea**: He's only getting started. The final subject on the phone. This is so bad dude.
+- **[10:43:11 AM] Andy**: Stand on the lower hand. Let's do the working back part.
+- **[10:43:46 AM] Andy**: The number is through 15 minutes of purple. Here is the first one of the landing quarters third and five. Lobby the back. Let's see if the pressure comes. It does from every angle.
+- **[10:44:04 AM] Andrea**: And causes problems.
+- **[10:44:05 AM] Andy**: It's too complicated to stay on the side by words. And they were going for cutting white. The event hall squirt and climb. There's a familiar me. Guys at the line of screwage they're bringing the heat. Kirk Cousins has to get the ball out of his hands quickly as he takes a hit. I'd love to see Cody White come back for the ball. Listen here over on the far side of the field, the ball's floating.
+- **[10:44:29 AM] Andy**: The defenders driving on the ball is able to not get loose. Good break up there for the Patriots. Middle-winden A here in Foxboro AJ Cole, But Marcus Jones back inside the Patriot 20. Let it blunt in three possessions for Vegas. He's scored and attached to the best of ours. Blackthrone Jones to the nine hang up four six nine. As he'll leave and bounce and drive, and then wrestle about the 24.
+- **[10:45:02 AM] Andy**: And yet as I mentioned the flag is down. 50 yard blunt 14 yard return. As of now
+- **[10:45:19 AM] Andy**: We're gonna have re-punit or if they Take it at the end
+- **[10:45:33 AM] Andrea**: Top at your chances
+- **[10:45:36 AM] Andy**: And from Foxboro we'll be back in 30 seconds after this from Home Depot
+- **[10:45:41 AM] Andrea**: Nick's day with nose but speed wins every time. That's why he uses Express Delivery from the Home Depot.
+- **[10:45:49 AM] Andy**: Nick you still organising the garage today?
+- **[10:45:55 AM] Andrea**: Just the way I threw it up.
+- **[10:45:59 AM] Andy**: Get what you need delivered two hours or less with Express Delivery.
+- **[10:46:04 AM] Andrea**: So you can stay focused on the work that matters in there. or you know whatever else you're doing we all three starters around for the
+- **[10:46:16 AM] Andy**: big tree office we talked to Joshua Daniels he says who has made it healthily through the week to play as opposed to who isn't it right right set up one together a game plan and figuring out how to attack a deep that he says first we have to figure out who's gonna be available and then you We figure out how to attack with those people that are available. Swat to the ring of blood ears remind race demons in them that act feel it made. With six or seven so far Henderson on the move. Campbell the block time for May. At this nightline I am in catchable. He was looking for shoes and had a couple back there including the rookie Trayton Stoops.
+- **[10:46:56 AM] Andy**: It's second and ten the last try for New England. While they scored on both of their positions, He's getting a first down a third down and a man covers it quicks out through the outside. On our Henry get it down inside the one the penalty moves it back to the five. Nice blocking up front guys are able to get it in back to back scores on their two opening possessions. Steven's from the back five in the second area they're entering pressure Steven's in the call. Hard on nice block promotions breaking tackles. He's up to a 40 on line great individual effort there. by Stevenson to make him miss a couple of missed apples as well but Percy avoids it there to arm swing in the spin out of it
+- **[10:47:43 AM] Andy**: Stevenson remember late last week in Orchard Park came off with a knee injury but you can see he's out there he battled at this week took the necessary precautions coming in stands in there right now first attempt after his drop yard run They again up the middle they go and Steven's in our side. Now he got by Johnson who then he was brought down on the play mal by the company Dean after a day or seven. Yeah guys right here starting defensive tackle talk the Hemingway was taken into the blue medical tent with the unaffiliated neurosurhamic assault to be evaluated. They said taken him into the locker room for further evaluation. I'm told he has a stinger and he's questionable to return.
+- **[10:48:20 AM] Andy**: So they still have crossed me up there but they brought in in Vatakasi to take his place Malfengs River Andre Stevenson in the back It's sucking down in three and Stevenson trying to pry his way in there That is close but shy by about the length of a football the aforementioned Vatakasi was there with a gain of two and Trent that's it Unfortunately Vatakasi just pointed to the sideline and had his arm hanging low as he's waving at the sideline to have somebody get out there
+- **[10:48:58 AM] Andrea**: and replace him.
+- **[10:49:01 AM] Andy**: La Lulu will come in extra offensive lineman playing side-end here Third and
+- **[10:49:07 AM] Andrea**: short.
+- **[10:49:10 AM] Andy**: The organ is a full bat and Steven from the back and third and one who offers a block and there's time and may as on the move you see the flag and the He's there by Kway Walker who takes him out of bounds. Still I'm not challenging. Hold him. Well I try to get him with the hard play face. Third in the sorghy I think it's going to be a run, a run up the middle and instead it's a play face trying to take a shot at the field,
+- **[10:49:35 AM] Andrea**: but the raiders didn't fall all the way. Oppen you're 77. The check-out is finally replaying third down.
+- **[10:49:42 AM] Andy**: That's Ben Brown who has first started this season last week and first career started right guard who's called here You can easily see that right in the middle there but right on our reach across the chest pull the jersey pull them down Why not decline it and make it fork down because it probably don't for it unfortunately less than a yard in midfield. So go ahead and push them back make it a third long So they dream about a 35 yard touchdown pass to Douglas for me Come on defense Make a play. Anderson. And there's his treasure. Who goes above?
+- **[10:50:22 AM] Andrea**: There's his treasure.
+- **[10:50:23 AM] Andy**: He's got the first time. Who I'll play? Oh I'm sure that it's down to the 45th. It's a 16-yard game in a first-down, and some magic. Uh Josh McDaniel. Uh obviously Mr Sims, I don't think this is designed. I think having Sims, Watson's becomes a cross.
+- **[10:50:42 AM] Andy**: He can't record up in the middle, gets the ground underneath, and then he flips it to the outside I don't think that was the time but I think that was the system realizing that the defender left it open to the outside and he flips it out there they get the first down. That is down the road and it's the cause he speaks for the other hand looking for a block from Henry. And finally check a bunch in. He's got the first down he's at the rate of 33 34 pick up of 11.
+- **[10:51:15 AM] Andrea**: to get first house.
+- **[10:51:22 AM] Andy**: Oh that's not a good sign. Steven from the back.
+- **[10:51:29 AM] Andrea**: It's first in jam.
+- **[10:51:30 AM] Andy**: Try to get back at the 28th. Blocked by Campbell. May go in here. He's gone. Dops. He can't wait.
+- **[10:51:38 AM] Andrea**: Broken up on the plane.
+- **[10:51:40 AM] Andy**: I can't wait broken up on the plane. Nice job back there by Darryn Porter. We're just thinking here I know it's staying defensive back, a third round pick and he played him well. Dops beats him up the line little hesitation, but Porter doesn't give up on it. Excellent job getting the arm out and swiping the timing. The timing was perfect. Excellent job by Porter. If you're not going to turn around and locate the ball,
+- **[10:52:08 AM] Andy**: He walks the eyes in the hands of the receiver and that was just excellent timing to play an input. Here's the pitch up Stevenson looking for a block from Argon. He's tangled from behind him by Tommy Eigenberg as he swimmers his way down to about the 30 pick up of four player down Campbell. There was coming off a rough game last week in Orchard Park but began the season very well within his first three games. But if you see that what a training staff out there 11-17 first half we step aside on CBS. Can you send any mail to the marina request in the sailboat rental for this afternoon? Sure thing also marina. Say something nice to me. Is the marina boat rental email me back yet? Yes they have a cell phone available time for care.
+- **[10:53:00 AM] Andy**: Great hook it. So as you can see you can now use chat GPT boys to get things done on the go. Now how do you sell a boat? Oh great question. What a friend of a friend? What's up? Because man get the watch party by. Large fry and a large rat. I'm doing pretty good I'm uh watching the Raider game today and I have my meditation group later and uh yeah doing all right
+- **[10:53:57 AM] Andrea**: Some lost over 47 pounds. Your body your move your time to make a change, to move the weight and keep it off.
+- **[10:54:05 AM] Andy**: Don't take a few of your family had NTC,
+- **[10:54:08 AM] Andrea**: any N2 or if allergic to it.
+- **[10:54:10 AM] Andy**: Tell your provider if you plan to have surgery
+- **[10:54:11 AM] Andrea**: or procedure or breastfeeding pregnant or plan to eat.
+- **[10:54:14 AM] Andy**: Stop taking and get medical help right away if you get a lump or swelling in your neck, severe stomach pain or a serious allergic reaction. Serious side effects may include pancreas inflammation and gallbladder or severe stomach problems. When we go we may cause low blood sugar in people with diabetes especially if you take
+- **[10:54:28 AM] Andrea**: medicines for it.
+- **[10:54:29 AM] Andy**: All your prescribed refuges experience vision changes are heart-gracing and breast. Side effects of nausea vomiting and diarrhea can lead to dehydration which may cause kidney
+- **[10:54:37 AM] Andrea**: problems.
+- **[10:54:38 AM] Andy**: With we go we you can live lighter with less weight.
+- **[10:54:42 AM] Andrea**: Get started for a low price.
+- **[10:54:44 AM] Andy**: Ask your prescriber about what you go to kill today. TVS Thursday the new season Elzbeth each year. Oh Clay even a few from the door.
+- **[10:54:52 AM] Andrea**: That doesn't seem very same. With big new stars.
+- **[10:54:55 AM] Andy**: I'm insisting if you say so.
+- **[10:54:57 AM] Andrea**: Elzbeth TVS Thursday it's new time 9-8 etc.
+- **[10:55:04 AM] Andy**: Moments ago a little cable walking off is now in the blue tent. Now on airs on that story. A little
+- **[10:55:15 AM] Andy**: and it's a third and sixth and another drive by the Patriots.
+- **[10:55:24 AM] Andy**: Grounding.
+- **[10:55:45 AM] Andy**: on takeaways at night The number five in sex the reader defense is number one in forced fumbles I mean they come at you and they try to crowbar the ball free Well and Hunter Henry is going to be there The problem is his Henry's in games and blocking he has his
+- **[10:56:01 AM] Andrea**: back to Drake May while he gains. And then hit him on the right side that time with the blinth from Johnson and the pressure.
+- **[10:56:17 AM] Andy**: Yeah you see ten of Johnson come off the edge right there and the throw away may see his hunter Henry right in the middle watch Henry as he comes over. He's engaged there and so may throws it right at his feet. his feet The problem is like I said he's engaged in a block. Mitch Wieschowski will be punning. And you make stop for the Raiders' game That's the first stop of the day forcing this pun. While he is back again inside the 10 and the victory at plus the way it bugs. I was warning if you guys were moving or you had a place
+- **[10:57:27 AM] Andrea**: It's your cell it's a ball it's all over for you to see if you can turn this way. In turn this place is a rental as long as you know your office is a place.
+- **[10:57:48 AM] Andy**: Your golf balls your fancy coffee your giant TV it's everything in one place it's like Chwa everything investors need power and place. I'm a death. Yeah Chwa they can do everything. Invest trade get full service walk management,
+- **[10:58:03 AM] Andrea**: and anything in between figure out where to be sick.
+- **[10:58:07 AM] Andy**: And we have to buy that now.
+- **[10:58:08 AM] Andrea**: Yes Chwa.
+- **[10:58:09 AM] Andy**: Same place.
+- **[10:58:11 AM] Andrea**: Yes your way.
+- **[10:58:11 AM] Andy**: With Chwa.
+- **[10:58:13 AM] Andrea**: Don't breathe.
+- **[10:58:14 AM] Andy**: It smells green here what is it?
+- **[10:58:16 AM] Andrea**: It's my trash.
+- **[10:58:18 AM] Andy**: For great trash odor fighter reduce it to 99% of common
+- **[10:58:21 AM] Andrea**: trash odor. Reflating them with 45 days of precedent.
+- **[10:58:24 AM] Andy**: I'm glad that you're on maternity leave Maybe I can see you soon before going on retreat at least We are going to go and do the beach thing again protest next Saturday. It's just such a shame We're really looking forward to it. Tell them to go to the stadium. Market is a double-stay at it.
+- **[10:59:02 AM] Andrea**: Okay All right we'll get to our bus. We're gonna have soak the guyco. 15 minutes can save you 15% or more.
+- **[10:59:18 AM] Andy**: is the best 1099 you can eat. $10.99 you can eat!
+- **[10:59:25 AM] Andrea**: Guyco they don't follow the ball!
+- **[10:59:30 AM] Andy**: Amber express delivery from the Home Depot! In the following whatever week all suits along We'll see you on Sunday with Anna Bowen CBS and Carolina Plus. Jackson Bowen's chance is back at the right guard today Didn't play last week against the Chiefs But the green and green start of the first three games doesn't get to that for the three plots. And the 14 first and 10 Gen 2 back there with them and a put throw and ice catch across the way by free Tucker. And he's out close to the first house we now go to the field presented by ChatGPT in Maladagal. So thank God and Kurt hasn't told us that it's there. I actually love being the old guy in the locker room.
+- **[11:00:14 AM] Andy**: He jokes that his teammates have actually restored his faith in Gen Z because they're really great guys. He said the info was in the 90s but they're always there to remind him that he is from a different era Whether it's with movies or pop culture references He doesn't talk to another father at home too because he keeps up with all the young guys when he goes and he's more handsome We like that the first in ten There's the shades by Williams They have to throw it under dire straits and he gets it off to Michael Mayer Who is at above the 25 on again He had mentioned this earlier is to watch this play again and the heavy pressure from El Williams but Cousins was with now he's hit Coach Quinn Crubiac back in Minnesota and
+- **[11:00:56 AM] Andy**: now talked about it earlier but then relationship played a reason why he comes here. A big reason why because Kirk told us that that was one of his if not his most successful season was 2021 when when he was the offensive coordinator in the play collar and understanding what what Cousin likes most. Jesse with a short run on that strike it down Alice wrapped him up there is a gain of two or is it take a look at like Kurvee Alfred all by his dad Gary Kurvee and he also had the first two years of Minnesota was his quarterback coach and as a quarterback coach you build a much more strong relationship and then as you're playing callers so those two things together went on this on the opportunity with the Raiders open up he knew it would be a good good They could be at least a 15 different at-coach for the latest in the last 23 years. 36 7 8 they get the first half hours in the room bomb.
+- **[11:01:47 AM] Andy**: And then they hit the drums but it comes about Marcus Jones. It's a catcher on the 18th it's a first down for the Raiders on the 45th. While they catch him in his zone Blitz and they do a great tip of protection because the alarm pressure that the Patriots are bringing, they drop a defender on the deep bits of line out in the covers. Nobody underneath is going to be able to keep up with.
+- **[11:02:39 AM] Andy**: Not getting in there Trent the Raiders have faced a lot of eight man loading up the box. Jesus probably more than anybody When you think about it they're trying to force their hand. The Raiders as far as that number one receiver other than Bowers they're trying to get this one game stop. We just need to be the football player Up to the Bowers. 3-1 Jones was coming through and blowing it up well Cousins feels like he was outside the pocket in terms of outside the tackle box and the ball got past the line of scrimmage. So as far as an intentional grounding.
+- **[11:03:36 AM] Andy**: We're going to say to my dog we're going to hear it but now we're going to go ahead. Cooper Yankees call on the plays. Yes. They don't go in and fail.
+- **[11:03:42 AM] Andrea**: They don't.
+- **[11:03:43 AM] Andy**: Off that for 58.
+- **[11:03:44 AM] Andrea**: where he is.
+- **[11:03:46 AM] Andy**: Everybody first out. My power is Johnson. So some coaches give it up. Some don't show him paying the ticket back in Denver. And Cooper Yankees continuing to call the plays as he didn't see. I don't want to be go right and stick back to defensively. I'm going down in Houston. So uh you asked him about that. Can you ask him you're like listen, as a play caller taking over his headcoats,
+- **[11:04:04 AM] Andy**: trying to do both roles. We asked him how that helps. Like the boys the assistant headcoats helps a lot with game planning and helping out there, Rick then the offensive line coach has been a big part of the run game. So you've got to get balance on what he feels as good balance being both the play caller and the headcoats. Thousands and six and nine. We're in the touchdown pass and ready.
+- **[11:04:24 AM] Andy**: First and 15. Time off Raiders.
+- **[11:04:58 AM] Andy**: I'm going to have to go to the other side to see if I'm going to be able to get out of here.
+- **[11:06:52 AM] Andrea**: And um now we can talk a lot about it. We'll get a couple of Patriots injuries to update you on running backtracking on Henderson and then Angle injury.
+- **[11:06:59 AM] Andy**: He's responsible and let's tackle Little Campbell as a C injury. He is questionable but first there is gingerly mazerway in the locker room under their own power. But two keep players of Patriots are going to have to find a way to operate without on offense at least for the time being.
+- **[11:07:12 AM] Andrea**: I don't get it.
+- **[11:07:13 AM] Andy**: Now we thank you for that injury just piling up and we knew that the ginger is coming into today.
+- **[11:07:20 AM] Andrea**: He's looking for a crease inside and anytime as a defensive line he can make the runnyback
+- **[11:07:28 AM] Andy**: sprinting sideline to sideline and not create a window or lane for him to go. He's looking for a crease inside and anytime as a defensive line he can make the runnyback
+- **[11:07:45 AM] Andrea**: back sprinting sideline to sideline and not creating a window or lane for him to go.
+- **[11:07:50 AM] Andy**: Eventually your defensive axe are going to get there and be able to rally.
+- **[11:08:15 AM] Andy**: He's saving us.
+- **[11:08:45 AM] Andy**: in Let's move on to the side and complete pressure from what's in off the
+- **[11:08:49 AM] Andrea**: angle.
+- **[11:08:50 AM] Andy**: And Tony White moves in insight. Broad powers today. Well the dominant four top series in main covers on Jones is a jump all over the top of them. Knitting zone. He dropped you trying to zone. Blitz with extra pressure coming inside. Here's a man of image. And for the touchdown. The 20 different ways they tried with the blitz.
+- **[11:09:11 AM] Andy**: the blitz we saw it be some covers the blitz up the middle of dropping defense at one and out and Cousins was just able to get rid of it so another effective day so far for Bauer. Lobby remains it's the call walk it in and out down on the fly Akis I'm on a couple of them it's all to well knocking down the running band for the Raiders of their games
+- **[11:09:31 AM] Andrea**: are getting down. Well you want to get the run game going the Raiders want to get the run game going, listen this offense is based around the run game think about what they did in Seattle
+- **[11:09:40 AM] Andy**: They just don't have any much success with it and they continue to try but this new angle of defense is up to the challenge with another tackle running to like a string.
+- **[11:10:23 AM] Andy**: Which when cousin steps up and thunder retraces its steps And the door is no idea that the cousins is stepped up at that point That's great coverage in the secondary Which does all our cousins get the ball out of his hands
+- **[11:10:35 AM] Andrea**: And that allows that sack to happen That's where it gets plunged
+- **[11:10:39 AM] Andy**: Jones is back to getting an ancient gold plate
+- **[11:10:41 AM] Andrea**: For Vegas
+- **[11:10:46 AM] Andy**: And Jones is flying It's a 40-hour flight The curtain's here man Touchdown pass by man Touchdown run by Stevenson.
+- **[11:11:02 AM] Andrea**: The biggest movie of all time comes home Here he is.
+- **[11:11:49 AM] Andrea**: For everyone. And Doug. Here it is we move up 50 yard line.
+- **[11:11:56 AM] Andy**: Soon only tells us the whole stadium house.
+- **[11:11:58 AM] Andrea**: Everybody needs to walk past them. I just already sure it is.
+- **[11:12:01 AM] Andy**: Today people have created.
+- **[11:12:10 AM] Andrea**: It's like we're working. We're gonna have dinner.
+- **[11:12:15 AM] Andy**: Only A for what you need. We're going to have to stop the next threat before it strikes 60 minutes new tonight.
+- **[11:12:44 AM] Andrea**: Tonight you CBS Monday the only sign. Our mission is clear. FBI don't look! All of us has been us on every Monday. Mission's on.
+- **[11:12:57 AM] Andy**: Oh it ends on that.
+- **[11:12:58 AM] Andrea**: We'll show you what it is by Brian and Mike. FBI and CIA. We'll do it this week CBS Monday.
+- **[11:13:07 AM] Andy**: Well we got a bill family. All of us early morning the last of the great my dick and bass the way Friday by time all pro didn't go as a force to be reckoned with. That's the side end position winning an NFL championship with George Dallas and the Bears as Super Bowl with the Cowboys as a player that he returned to coach the Chicago Bears hired to find George Dallas as head coach he turned
+- **[11:13:35 AM] Andy**: And I'm so happy with the various franchise the history of Pro Football my good care passing at the age of 86.
+- **[11:13:45 AM] Andrea**: We just had a punt by the ringers.
+- **[11:13:48 AM] Andy**: In the end zones are stacked in the 20.
+- **[11:13:50 AM] Andrea**: Way back is Stevenson first in ten with play action.
+- **[11:13:53 AM] Andy**: And I'm going to go his chisel.
+- **[11:13:55 AM] Andrea**: With the call the run the spin in the Johnson. You got the first out of it.
+- **[11:14:01 AM] Andy**: up to the 835 by the game is 16 Well we did losing a great one in my dick As I said earlier the first tie-in ever to go into the
+- **[11:14:11 AM] Andrea**: football hall of fame and just a career as a player but even more so kind of the impact he made as a coach. I can't answer this Chicago Marist Preseason for three years with WBBM and Chicago. We see the games again but there's a George first and then
+- **[11:14:31 AM] Andy**: And we're running here by Corey Conner
+- **[11:14:39 AM] Andy**: We're usually in it's right behind Henderson is out with an ankle right now That was the run by Conner Well we've got to see what the flag is Kevin I think it it may be the Raiders in the neutral zone
+- **[11:14:51 AM] Andrea**: for a zone. No offense.
+- **[11:15:04 AM] Andy**: Again the Raiders are number one in the NFL coming into this week with 10 takeaways.
+- **[11:15:09 AM] Andrea**: Number one in the league. And this is kind of the former Arizona Cardle.
+- **[11:15:17 AM] Andy**: Well excellent punch-out by the Raiders getting there. The other teams are coming into the game. The Raiders are excellent taking the football away. They work plus three coming into the day.
+- **[11:15:27 AM] Andrea**: The Pagers are the other hand minus five. On the season. Jim Z Smith could step up.
+- **[11:15:38 AM] Andy**: Jim Z goes for back.
+- **[11:15:39 AM] Andrea**: Thirty-eight are doing one. And Carson Zwerves eight and twelve with a first and ten.
+- **[11:15:45 AM] Andy**: Your time ten to the enemy end of a 30-on line with Wacked by Ellis and picked up eight, they're at the 30-on line with maps. While Ellis airs with attack calls that curve with very couple of minutes, it's not going to backers. Both Ellis and Splane, is the focal point of that defense, but those two allowing you to do so many different things at the point call.
+- **[11:16:10 AM] Andrea**: A word there's the whole back saying it's too chancy. We'll check it out the middle and DJ Clay is with the block,
+- **[11:16:19 AM] Andy**: and the tackle is made by Julian Reed on a game of three on second two, and a first down to the 27. While Glase is playing better this year, and if you look at the progress he's made they're looking for him to continue, grow as a player and his protections have been better this season, and trying to get the run game going a little bit,
+- **[11:16:35 AM] Andrea**: that time able to pick up the first down on the ground.
+- **[11:16:38 AM] Andy**: This offensive line attaches to one sheen from the stutters
+- **[11:16:42 AM] Andrea**: This season that was last week to right
+- **[11:16:45 AM] Andy**: Right now the normal leg guard is back That is upstabilized on 1st and 10 With the end of the run it's up to 1st round
+- **[11:16:55 AM] Andrea**: It's time The draw flies with a lot in the right of 1 Smilled it out back to the 3rd with a loss
+- **[11:17:05 AM] Andy**: Tucker no place to run no place to hide. Tremont Jones is on the edge. You're counting on him to fight on the fake. Instead he's the Tucker coming right at him. And he's like no I'm not fighting up on that one.
+- **[11:17:17 AM] Andrea**: I'm just gonna go back here and make a big tap up for us.
+- **[11:17:24 AM] Andy**: It's a point in patient but Jones lobbing the back.
+- **[11:17:28 AM] Andrea**: Swagging twenty-one for Cazin's plays for block underneath.
+- **[11:17:32 AM] Andy**: And this will go. For Lobby who is finally brought down by Spongebob in the corner later on a game of seven and they make a whole little right there to the 31 of New England.
+- **[11:17:43 AM] Andrea**: Well it is a little bit else right now because you're right on the verge of that field of range and so just getting back into the number one small man is about a third down. It's still a third and 14 but if you're cousin you can't take a stab You've got to take a quick completion if you can Maybe even a draw or a scream.
+- **[11:18:01 AM] Andy**: If I get knocked down a few more range it almost looks like yeah I didn't wait until the two minute warning.
+- **[11:18:08 AM] Andrea**: Back down corner ramps for the pass.
+- **[11:18:11 AM] Andy**: End up up so far. It'll be the 14 for the waiters down by seven but I'm the move. Riding CBI.
+- **[11:18:22 AM] Andrea**: You can be a fan during the entire life you still have. What kind of things do you check these days anyway? Two beats for the close and one for the rest. The left throw right gotta hit the side in. And over the first truck step in. Not high that old dude. That's the thing about being a fan of it. You never know what that is. Hey fishin' to that hole. Step here.
+- **[11:18:56 AM] Andrea**: It's a class of care aspect-based and there's a variety of presents. People are anti-granting here. Oh no it ain't that grandly built. Optimize the capability. Off the cover it's wheat milk corn. The imagination sure of the course. Any person is possible. But the power of dreams. Reading the offense is a change. I'm running my new business for you for that's what I need the NPS store a blue
+- **[11:19:30 AM] Andrea**: Hey it is I can take it from here Notarizing printing Blue is the complete package Impressive now Let's run it back But though we're fifty five hundred locations They're the blue and air you at the UPS door They're like offense and special things and even I got that covered right Here's a winning play from Applebee. Get six free bonus wins to go.
+- **[11:19:56 AM] Andy**: Every week with your NFLs in the win ticket. I'm going to play a million Tampa Bay.
+- **[11:20:03 AM] Andrea**: My wife got a chandelier from two-man Jay Moore flashing through a bucket of coverage team
+- **[11:20:08 AM] Andy**: and outraging Cameron Johnson with an answer
+- **[11:20:10 AM] Andrea**: for an 86-year competition touchdown. You know fight for a win. Get six free weeks every week from Applebee. From Google.
+- **[11:20:19 AM] Andy**: I'm not gonna be good in the neighborhood. The NSF
+- **[11:20:29 AM] Andy**: proud partner of Team USA and by
+- **[11:20:34 AM] Andrea**: the UPS Store.
+- **[11:20:42 AM] Andy**: Come and imagine we're gonna watch today the linebackers the events of New England against East America, try them for the readers.
+- **[11:20:49 AM] Andrea**: The pack eat them,
+- **[11:20:51 AM] Andy**: the analytics data number two of the funding items coming into this game. Well if I go there, they're having a tough time. I thought I was going to have somebody
+- **[11:20:59 AM] Andrea**: at the top time. It's ours.
+- **[11:21:02 AM] Andy**: After the two of the Marines, they're down 14. Lock me the bag, please the block, get to the sign, pass it away, and please, protect her. and coverage down field by Kindle Builder.
+- **[11:21:17 AM] Andrea**: Again these starting corners the backups play well. Well they either wrote the inside line backers up in the A-gas, they showed pressure and they brought pressure to some overloads so you have to block feet inside and that time buyer coming free on the outside
+- **[11:21:30 AM] Andy**: forces cousins to throw it quickly trying to take the match up
+- **[11:21:33 AM] Andrea**: down the left side line to Tucker because it's by getting rid of it allows the opportunity for a few bullets in. was a 49-year drive by Matt J who is perfect this season for avoidance but she's last week in Vegas 49-year drive And he will have to find and miss off the first I'm back from Edville and this is my greatest 7. It had been a long run not a lot of gas left to the tank. That signal went for it and scored my set. Dollar signing big deal. We needed this score of $7,000.
+- **[11:22:33 AM] Andrea**: We need you to be able today. If you ask Kyle he wouldn't say he's competitive. Hey I'll loud. But at 9.42am Daniel's forecast model is called Honest and Beautiful. And honestly, and back out to Kyle. But no worries He just turned to co-pilot. See Kyle's not competitive.
+- **[11:22:59 AM] Andy**: It's not even a contestant.
+- **[11:23:01 AM] Andrea**: Thank you. What's that I think? Well this goes by much error level. If we suddenly break through cross-sensory traction, we'll go through real time.
+- **[11:23:14 AM] Andy**: We break this. Okay for choices. This is progress.
+- **[11:23:17 AM] Andrea**: Try for free.
+- **[11:23:19 AM] Andy**: So just thought about the whole thing with Whisper it'd be nice to be identified when it's a Whisper on the phone versus Whisper on the computer because Whisper on the phone is almost always either a I'm texting somebody like I was texting my daughter earlier, Kira or I am doing some kind of web search kind of thing That's on my
+- **[11:24:18 AM] Andrea**: It's wonderful I think you are treated to us from a period of time. Hey can we just find a prescription? We'll let you know that it's really young okay? For sure.
+- **[11:24:27 AM] Andy**: I'm actually not on the news.
+- **[11:24:28 AM] Andrea**: It's a legal prescription. I'm serious. This is the chemistry of our science works. I am strong. I can break down barriers. I can hire others to say that. First I can pay lives. But not by myself. Coming up from our CS studios in New York the Verizon Half-Time Report GB NAVORUS Coach
+- **[11:24:56 AM] Andy**: Collar Kyle Long stores news highlights as we climb in the NFL coming up on the Verizon Half-Time Report. LUMMO is still playing the left tackle Campbell who went in the tent after herching,
+- **[11:25:10 AM] Andrea**: a hurting ankle or knee or maybe both as you can see is upright but has not come back in. A missed field goal after a Patriot tumble and no harm for Nguyenla they take over after the missed 49-year-old Raider field. Oh check it out. Well I got three time odds Kevin so you have full use of the entire field here. You get the ball first to the second half. So you're trying to manage the clock so you don't get the Raider at any time. You want to go down and get some points and start off with the draw. Draw a play. Steven said up in the middle hit by Dean.
+- **[11:25:40 AM] Andy**: down 46 shot of line with a gain on the play of seven seconds and three The raider's signal in two timeouts The number one is stop him from scoring but if you can manage it so you can get some time back for your offense. Situational things that coaches like to talk about all the time and now with under a minute and a half to go in the first half both teams start to manage this
+- **[11:27:02 AM] Andy**: And back to the 37 yard line coming up for rise and have time with her to be on the guy scores news and I like If you rise and have time report next here on CBS of a patron Trent Green a lot only one second class We get buffalo down the gap They allowed nine in the first three games of the season Well and then some of that comes down the corner play right? the ball out quickly uh or he have been coming into this game and
+- **[11:27:32 AM] Andrea**: not taking sacks So some of
+- **[11:27:34 AM] Andy**: that balance you do the whole sense of line the backs the tight ends and of course your quarterback decision made. Second down 13. It's up to Hunter Henry. Those is a block. But there's another block in there from fuel trucker. And we're gonna take it to the
+- **[11:27:47 AM] Andy**: other yellow line. What are on Walker makes
+- **[11:27:50 AM] Andrea**: which not?
+- **[11:27:51 AM] Andy**: It's a catch and run. 20 seconds to go perfect timing on the play call Kevin they're rushing for dropping seven by their soft They're trying to keep it deep So as they're dropping in zone coverage they're actually setting up the screen Nobody reacts to it around. Enough guys react to it See the quick block on Crosby gets him going up field And then And here there's no contact until he's down near the 15 yard line. Ice block at the 2 by the center cheering Wilson.
+- **[11:28:29 AM] Andrea**: There is room from dry December this season. First and 10 at the 11th with the running back core clients.
+- **[11:28:41 AM] Andy**: May to the end. They get by Moses to the end.
+- **[11:29:18 AM] Andrea**: right arm. I thought maybe we're going to get
+- **[11:29:20 AM] Andy**: him with the boots off to get the separation. Instead it was Dean with the right arm wrapped around the waist. The action point away and good. 21 to 7.
+- **[11:29:29 AM] Andrea**: The Patriots coming off their feet
+- **[11:29:31 AM] Andy**: is right to the shoes of last week. We're at 21 to 7 the Patriots coming off their feet as way to the seas of last week.
+- **[11:31:33 AM] Andrea**: All is free we're coming to the point. All is up on the rails flying out here.
+- **[11:31:40 AM] Andy**: And we can have fun in the morning. All is up on the rails we're going to have fun in the back.
+- **[11:33:32 AM] Andy**: we need to be able to do it one more time.
+- **[11:33:39 AM] Andy**: Do it one more time.
+- **[11:35:52 AM] Andy**: We're going to have time for the board.
+- **[11:40:14 AM] Andrea**: I'm going to have a little walk on the street and I'm not going to hear this stuff though.
+- **[11:45:08 AM] Andy**: the defense of the Patriots the job that they've done the Raiders trying to get some kind of balance for Kurt Cobin averaging under two yards per carry Yeah the running game has struggled and continues that way The Zanker and that Patriot defense have built them under his minter with a four and a half stacks this year and four in his PCs last year and the kickoff
+- **[11:45:35 AM] Andrea**: From the five and here Mike Kyle Williams who all died up to the 33 a return at 28 moments ago.
+- **[11:45:46 AM] Andy**: Mel caught up with my three goal. Mike 256 yards of total offense in the first half. What's allowed for that kind of production to find? I mean we protected it quarterback. I think that we've done a good job and hit a few runs and hit a couple of ways down the field. Guys it's a really good way to burn that chase and the rest don't defensively. We're down for corner today just seven points allowed with a pretty much about your plan. We've got all the field on third hand. We had a great sudden change.
+- **[11:46:09 AM] Andy**: Stop there. Which again that's what happens. Yeah all my thanks to the safe defense list. I'm off. I don't want to be really good here in a second. I have to remember finish. Thank you.
+- **[11:46:33 AM] Andy**: side trying to outflank him which is what they were able to do Good dry start
+- **[11:46:38 AM] Andrea**: there he's seen Rick may have members from today First three games Very
+- **[11:46:44 AM] Andy**: efficient play at quarterback It's like a half last week and starting this game today One moment we're still on the left tackle There's the pass and first and ten Flag is prone Conphychism and tackle in the play by Stokes. for the ball the 42 as of now. It was a comeback on that defense there were 35. That's always a one and five.
+- **[11:47:10 AM] Andrea**: What was that for that? Rookie has a kind of mattress.
+- **[11:47:19 AM] Andy**: We just had to look at Rob Leonard the defensive coordinator there and trying to come up with some kind of solution for this offense. They're going to have to find ways to take the ball away. Yes they took the ball away. The first half it didn't result into any point. This defense was lead to the NFL in takeaways. Have to try and get some more of those here of the second half to get their offense back into it. First in 10 May again to the side. And in three wait for coverage in the play by Matt.
+- **[11:47:45 AM] Andy**: This flag is still looking for Kyle Williams. And again we mentioned the tag in the first half.
+- **[11:47:53 AM] Andrea**: defense to a 35 This has been
+- **[11:47:59 AM] Andy**: where the police know these teams are comfortable down to the raiders but they're getting their share today Well two plays on defense two penalties on math The theory is he gets the
+- **[11:48:08 AM] Andrea**: whole hope that that I don't
+- **[11:48:11 AM] Andy**: know what he's arguing about on that one That was pretty
+- **[11:48:13 AM] Andrea**: pretty evident in the Adam
+- **[11:48:14 AM] Andy**: wrapped up around the shoulders.
+- **[11:48:16 AM] Andrea**: Now to get started here in the
+- **[11:48:18 AM] Andy**: second half Team for workout masters last week He's had
+- **[11:48:21 AM] Andrea**: He's at a pretty good start though. It's first in 10.
+- **[11:48:26 AM] Andy**: And Steven's looking to drive the lane. Trills is way to chin another flight. We've got more flights for first four weeks for this season or even a long time. And they're keeping up with it here today.
+- **[11:48:42 AM] Andrea**: That's a fair offense 3-8-8. Because it's in your family you play it for a second. as I high Williams.
+- **[11:48:52 AM] Andy**: So Mike Prabel had 24 new players Trent Unmiss season, starting 53 man roster. And this is after when the conference championship a door to the Super Law now, the thing we talked about this week were like oh just the carryover for last season and you know building momentum. And yet he's made it to the Super Bowl and he goes new team new year. It's a completely different
+- **[11:49:14 AM] Andy**: and he can fit her half the line up or have the roster is uh is changed. So first and 20 years with Stevenson's front-off one, then reading the Dean that means about the 33-odd line with a game of a couple. He said as much as I would like to tell you that there's been a period because you just have to approach it as a new year and uh and new people new bodies and trying to get it going. Yeah it's nice to have a uh a returning runner up in DP
+- **[11:49:38 AM] Andy**: at quarterback at just 24 years old, but uh they they definitely had some holes to fill with that rocker flip. And four weeks injuries for the Patriots of Japan are ready.
+- **[11:49:48 AM] Andrea**: Their total number of players on ION-OI of last season,
+- **[11:49:53 AM] Andy**: second down in 18 growing these eight-count-a-methy, good one! Come on Williams let's go!
+- **[11:50:06 AM] Andy**: When Williams don't happen he gets behind him and may doesn't miss.
+- **[11:50:13 AM] Andrea**: I'm pushing right over the outside shoulder.
+- **[11:50:18 AM] Andy**: Excellent protection time to throw. Close to the release point. I'm one here but the little sputter freezing bin.
+- **[11:50:26 AM] Andrea**: And then if that runs in his math,
+- **[11:50:28 AM] Andy**: decides to reach for on the ground, and by changing the hold of him,
+- **[11:50:31 AM] Andrea**: and I bet that perfect throw from Drake Bay.
+- **[11:50:37 AM] Andy**: First touchdown receptionist season for Kyle Williams. I pick out a Washington State the extra point here for our dollars is good and the lead has been up 28 to 7 with the Corvette straight made with three touchdown passes. He has caught fire as him but he trips. The next chapter about your performance is here one film all we'll drive you to see And the materials for fun can still elevate every month. Performance never close that stuff up.
+- **[11:51:26 AM] Andrea**: Get exceptional offers that you will feel like a dealer.
+- **[11:51:31 AM] Andy**: The kernel has a bucket list. The $10 one. Monday Wednesdays Tuesdays Fridays Wednesdays Fridays, Friday nuggets
+- **[11:51:47 AM] Andy**: Stay from the first line they're insurance we just need to get to know the real cam
+- **[11:52:10 AM] Andy**: I love this guy I can tell Create a personal pride plan that fits your life's budget.
+- **[11:52:40 AM] Andrea**: Yeah good thing you can't tell. Yeah the team family whatever one's hard to do.
+- **[11:52:45 AM] Andy**: Another bad guy down with that one. Yeah that's how we do it.
+- **[11:52:49 AM] Andrea**: I'm sorry but so much harder than I would have it. And I'm permissioned to do one shot at 13. Oh I'm so sorry.
+- **[11:52:55 AM] Andy**: Whatever pain your stomach motion. Yeah as do you. I'll use CBS Tuesday night central and screening.
+- **[11:53:01 AM] Andrea**: I'm there I'll fly us.
+- **[11:53:02 AM] Andy**: This broadcast is copyrighted by NFL Productions. For the private news of our audience, getting on the use of this broadcast, three-fifth-use descriptions are counted the games with up to ten and up to ten.
+- **[11:53:11 AM] Andrea**: It's right. A lot of Super Bowl's here all engineered by Tom Brady.
+- **[11:53:21 AM] Andy**: Went to the Super Bowl last year with a young quarterback in three main. The first three games may one touchdown pass and six picks. Last two games three six touchdown passes and one in a touchdown. Well this is kind of the play that you expected on the break back after a lot of season and
+- **[11:53:38 AM] Andrea**: Lobby will take it
+- **[11:53:40 AM] Andy**: Number one kick return man in the end of hell and he was Black as he went on field hit by a lot of new Return and of course we we saw the Tom Brady statue six Super Bowl championships for the New England Haytraston Of course now part of the Ownership group of Las Vegas Raiders They're honoring the 25th anniversary out of minute here. He got his whole thing ring here at half-time and they honored 25 years since the top rule game which obviously Tom was a big part of as well. Here to the band here was a full band Jim to the call and goes in this plane and
+- **[11:54:22 AM] Andy**: then knocked off his horse meld by a horse after a game of four. And I caught up with Clint Goody at going into the half he said we gotta start by playing veteran's defense and that starts with something to run Obviously they're struggling in coverage as well. Offensively he said we think too many freshers need to do a better job protecting the quarterback and we've got to get something going in the right hand openings up offensively They can start to sustain drive here. Yeah the one game is number 24 coming in It was a second six run for Gen Z. And then a lot of congestion up front. Alice and others with the hand on it. Oh you have seen the layer on there coming into it. Did you see it?
+- **[11:55:02 AM] Andy**: The crew being confused with the see-off.
+- **[11:55:04 AM] Andrea**: You definitely did but it's been a personnel.
+- **[11:55:06 AM] Andy**: They focus on the tie-in here.
+- **[11:55:08 AM] Andrea**: They're not gonna be on a wide-rehearsed table. So if you don't like it they're not running back.
+- **[11:55:13 AM] Andy**: This is what they get to deal with.
+- **[11:55:14 AM] Andrea**: But much more involved in the tie-in than compared to what they just didn't see out of the year. here. Bobby is in. What are the five?
+- **[11:55:49 AM] Andy**: on the right side line and watch it just once you're bored and the pocket collapse doesn't seem to be able to escape and get to the outside.
+- **[11:55:56 AM] Andrea**: This is an excellent flight by Doldor to get that hand in there
+- **[11:55:59 AM] Andy**: and knock your weight from hours in the first bend.
+- **[11:56:06 AM] Andrea**: H.A.C.O gets three of tons for the Raiders of Cummins 3-1 against the two and two No England Patriots
+- **[11:56:16 AM] Andy**: Well I think it's good to have just a little melody and half time. I wonder what the problem is. It's coming out of half time under two yards per carry in the first half.
+- **[11:56:24 AM] Andrea**: They've got to get some balance. But honestly we also mentioned in the first half. Nobody thinks it's more agnobox than the raiders do. They've got to find a way to get defenses to relax a little bit to open up that run game. Go in the terms of a 10. Go kick your punches wide and try to swim out of the grass The last blow pull them how it was brought down flying trone 4.63 on the hangout 53 yard tongue with a 15-yard Marcus Jones return. Again Christian Gonzalez is on today Carlton Davis is out today to stew two stunning
+- **[11:57:03 AM] Andrea**: corners. I'm taking 11.26 in the third you're England on top may you touch down masses.
+- **[11:57:31 AM] Andy**: definitely this is something very stressful your favorite team my case the Raiders is playing very poorly in many areas they can't rush the quarterback the DB's are not staying and covering their Sievers as well so defense is really poor and then on offense we have nothing other than really bowers so that's an episode that's a prescription for massive failure and but I'm talking about just you know having my feelings here how I'm feeling about things Frustration is definitely one of them Frustration you know there's a certain amount of definitely about hope and expectations there So I think those are pretty much tied together The hope and expectation with the frustration And that's a lot to do with life. If I could just not watch the raiders I could just cut it off completely and probably
+- **[11:59:05 AM] Andy**: That's something that the contemplatives the monastics, those who really they just have no interest in it. So it's kind of easier to let go of things or to not things bother you if you have no interest care in it Are people really that compassionate and empathetic about it I don't think so I think it's just really something that there's no interest So it's much easier for you to when you don't have a connection to things in the world to not really give it a second thought. So for us in the modern world where everything is instantaneous and we're connected in so many ways, then what it used to be like even before the internet right? You would I guess you would get the news the next day or maybe look at TV and you get that would be the way you would get your news.
+- **[12:00:33 PM] Andy**: still that was stilter You really didn't see the complete picture there When you experienced when you listened to the news you watched TV program or whatever you would still react to it if you cared So caring about people caring about nature and environment caring about your personal finances caring about your family caring about how the human beings and animals. So all the you know this caring feature is not something I just want to let go of. And so is it really caring for these things or not caring so people who don't care about animals say or maybe it's just like this whole idea of guarding the senses. What does guarding the senses mean and how far do we take it and how if you are spiritual, You know how do these Eckertolley and perceived spiritual people deal with things?
+- **[12:01:51 PM] Andy**: I'd probably a lot of them are really isolated. I think in Mario and Manthet Master M He's probably isolated. You know it doesn't have connection to the Earth because he's kind of his own bubble. So I'm not just counting that but I am actually factoring that in the fact that we are engaged in the world and so there's a level of practice and a level of wisdom and understanding that we is lay people who are engaged in the world have to face. So I mean that's an important thing to talk about the fact that we care that we're invested in the world and in conditions. And then Buddhism really the ultimate is that you know you see them for what they are. But I wonder how the Buddha would have taken you know have to look at somebody like
+- **[12:03:10 PM] Andy**: Tiktunahan who was engaged in his teachings what he taught which is basically the same thing we're that you know we're following here. And again I keep pointing back to as a sense of attitude your attitude is of towards things your perspective on things So that's something that we can purify And for me is the point of practice All right So that is a very pointed journal entry that ends with the pause of the TV media and me speaking here So TV media back on.
+- **[12:03:58 PM] Andrea**: When do you cry?
+- **[12:04:28 PM] Andy**: And jumped off to a size of a lead the numbers for some of the principles in this one. After the Reader fight on the 13th of this weekend. And Stevenson up the middle shoved in the play-by et cetera. I hope that you see a lot of this.
+- **[12:04:47 PM] Andrea**: And I'll see the first remark in.
+- **[12:04:50 PM] Andy**: He takes it from us the first time I could make this happen to game any other fight.
+- **[12:04:55 PM] Andrea**: 75. He's got a shot at the middle.
+- **[12:04:59 PM] Andy**: Three foot three. A line shot.
+- **[12:05:01 PM] Andrea**: Here Tucker the free agent from the jets. He is called with hook in the middle of the line. What would have been a great start to this dry with that push of the pile now but
+- **[12:05:17 PM] Andy**: got first in 15.
+- **[12:05:25 PM] Andy**: My great students it is the batchism was on the move. And man a place to go there because Cooons was all over a mountain oiled that way. So guys last week we went up to Buffalo Bay, Mike Brabill showed his team an iconic video of Alan Iversen stepping over Tai Lu and a 2001 NBA final because I wanted guys to know they're either part of the answer or they're the issue and he thought I wanted every guy to feel like they're going to be the answer so why we're going to turn things around and get back into the race Here it wants us to either have breakfast or lunch with her when we're in the city next Saturday I'm thinking
+- **[12:06:00 PM] Andy**: probably in the afternoon after the event Oh get him.
+- **[12:06:29 PM] Andy**: No way He jumped in the air Come on.
+- **[12:06:41 PM] Andy**: That was so obvious.
+- **[12:07:01 PM] Andrea**: the ball was secured and it wasn't done But that play was pressured by the reader defense,
+- **[12:07:08 PM] Andy**: they have the number three pressure rate This season number 27 and it's a way to make
+- **[12:07:14 PM] Andrea**: strides in that category Well they have three knock downs a great way in the first half. They've got to give real pressure as you think they have to get more pressure and have to get more take away here in the second half My great students in the back and across right here. And Kyle Williams tries to get free.
+- **[12:07:30 PM] Andy**: Queen Walker will rush one down at about the 14-yard block.
+- **[12:07:33 PM] Andrea**: And they take it on the play eight. Fourth down air comes up running in it. The raiders needed a defensive stand.
+- **[12:07:40 PM] Andy**: And they got- The bullets needed just to stand.
+- **[12:07:43 PM] Andrea**: And at full job they were aimed by a couple of buildings. And just the pressure they put on Drake made it.
+- **[12:07:47 PM] Andy**: It could be airing on a little bit on the throw. Good job by Walker as that screen was set up.
+- **[12:07:53 PM] Andrea**: He chased it down all the way across the field. Demon Tomkins is back.
+- **[12:07:58 PM] Andy**: If you're a veteran for Utah State elevated today I'm proud to be spiked for the bucks the Panthers the Falcons and the Bills.
+- **[12:08:05 PM] Andrea**: For your shouldn't keep the field position here. Wish now Steve well putt.
+- **[12:08:16 PM] Andy**: And that's four different personal purchases to perform.
+- **[12:08:19 PM] Andrea**: And from a 31 it is Tomkins.
+- **[12:08:23 PM] Andy**: We turn on the west with a good hang of five seconds and he blasts his wave for nineteen up to the fifty-four-year-old plus selling a good field position for a cousin.
+- **[12:08:41 PM] Andrea**: Third and I football on Friday It's high. To land now. Third and I football is the distance. When the fiat is rattle where are you? from the 30-night football team, from the 70-year-old sister, all in all front. Hey take this direction see what they say.
+- **[12:08:58 PM] Andy**: Buffalo Wild with Pick-Sick 1999,
+- **[12:09:01 PM] Andrea**: is the perfect meal for two.
+- **[12:09:02 PM] Andy**: That's like less than $10 a person. Congrats on your recindled love. Pick-Sick Meal for two for $19.99. Thank you.
+- **[12:09:14 PM] Andrea**: What time do you have it? No in the basement. I don't think he can't even get in the running car. Are you crazy? What's everybody got chance to ask? Sorry. If you're in a horror movie you make poor decisions. That's what you do. What do you mean? What do you mean for me?
+- **[12:09:34 PM] Andy**: If you want to save 15% of more on car insurance, this is what's thing I can do. It's what you do. Could have been a safety. We've got to do something about their paint, or everyday little pricing. It's killing. Second event.
+- **[12:11:43 PM] Andy**: and what they're trying to do for a culture change.
+- **[12:11:47 PM] Andrea**: Jens hit the back.
+- **[12:11:48 PM] Andy**: Oh and wow what a play woods. Up and powers. He stepped that up and woods is down. As you can see Charles is out of SMU. A former well the cat's anxious. They can't afford any more injuries. He reads that perfectly goes in and knocks out Bowers leg. Tuckers to the outside trying to get the block,
+- **[12:12:12 PM] Andrea**: The block was lifted didn't it?
+- **[12:12:14 PM] Andy**: One of the problems has been with voice is shoulder.
+- **[12:12:16 PM] Andrea**: Has her shoulder injury. And that was a shoulder tackle.
+- **[12:12:22 PM] Andy**: You're right. The injuries have been significant that the force of this team is reaching for it
+- **[12:12:29 PM] Andrea**: to our right now in the NFL.
+- **[12:12:32 PM] Andy**: And that is a big loss with another team without a gun And good to see what's getting up under his own pile.
+- **[12:12:46 PM] Andrea**: So these injuries are the corner man you know where you have been talking about Canada or country. Yeah I mean all four guys out today didn't didn't dress and now the sun's lit.
+- **[12:13:03 PM] Andy**: With the way right off the field he's got a chance to get back to him but he's up near the blue tent getting checked out.
+- **[12:13:11 PM] Andrea**: Build doors at one quarter Marcus Jones at the other. What's going to see it be? It also got Chaelin reed back there circling down in 13 cousins. Second option. Jimmy Ellis was there Ole Miss Blaine 13-13.
+- **[12:13:39 PM] Andy**: Miller to block. There comes Ponder. Go by glaze.
+- **[12:13:42 PM] Andrea**: Throw a short incomplete.
+- **[12:13:46 PM] Andy**: It's fourth and 13. No yellow on the plane. Fourth and 13. The Raiders are going to go for three in the ring.
+- **[12:13:56 PM] Andrea**: Well no extra pressure here just the four up front.
+- **[12:14:01 PM] Andy**: Doesn't try to spin it out of it to buy more time,
+- **[12:14:04 PM] Andrea**: and this is a smart thing by throwing it away.
+- **[12:14:09 PM] Andy**: That game will try the field goal of 46 yard drive as earlier from 49 at this same end.
+- **[12:14:19 PM] Andrea**: Miss three in pregame at this same end.
+- **[12:14:25 PM] Andy**: Yeah I think it's a bridge but I didn't sneak it in and they get three and they get something on that good beginning.
+- **[12:14:55 PM] Andy**: one incredible career Obviously this organization when Robert Crop took over I mean,
+- **[12:15:05 PM] Andrea**: they're celebrating the 2001 season the Super Bowl champions that were back here today. A lot of I haven't been in theory teammates were here as well. Even in the match Henderson's out for the rest of the game first and 10. It's demons and out of mind shot by Karen Johnson So two more starters are out. Tradeon Henderson is gone with an ankle hurt Earlier in the game and will Campbell is out the starting left tackle with the knee injury Lomo is the first round pick out a Utah late first round pick and now let tackle and a lot of Stevenson in the back field It was taken down in ten May 16-22 the draw play and the run here by Stevenson into a contoy of the defenders, Duke's was there the rookie out of Arizona day to five.
+- **[12:15:56 PM] Andrea**: And their number one winery D Gray D Brown is still on IR he's not eligible to come back at Dill for another week back home to go over as their number one target. He just was placed on IR this weekend.
+- **[12:16:10 PM] Andy**: The injury continued about for the patient but they're finding ways they're looking
+- **[12:16:14 PM] Andrea**: They're being efficient strictly plain outstanding and the next guy has to set one thing kind of a mindset that they've taken and the approach and the success that they have here and what but we've turned down five from the 34 and the 12 for the first time published on the move and in the secondary touched it down by Stokes on third and five again at 16 to midfield in the first down for no England.
+- **[12:16:40 PM] Andy**: Was it the Indian 50 kept doing me in the spot What's the Defender make They're trying to give it to the skies like it's going to be man and then they run out and go to the cover to look But because of that Douglas is able to have a big cushion and they find him quickly that he's able to get a field pyramid field.
+- **[12:16:58 PM] Andrea**: Andre Stevenson is back there with the quarterback Drake Haine.
+- **[12:17:03 PM] Andy**: I don't think I can watch any more of this they're tearing the Raiders up on offense.
+- **[12:19:29 PM] Andy**: Thank you Mr Chairman. President Trump and the Republican's last help trip
+- **[12:19:51 PM] Andrea**: from millions of Americans. It caused pretty much the sky while there. the outside of the front And President Trump's one answer is to say I have to pump all it one side And he's supposedly great deal with what he has made within time So it's also the worst There's even a secret but for what it seems no it's so great That's
+- **[12:20:17 PM] Andy**: why April when Secretary Kennedy was here I answered if he would make a move of the to the city and it's across as you were there in separate hearings she's still forth.
+- **[12:20:30 PM] Andrea**: You were saying why do you find him when he says well I'm happy to make the deal available
+- **[12:20:38 PM] Andy**: except for proprietary information and phrase secrets. Now if I might say since then I accept two letters if I can accept her Kennedy, Kennedy asked him not to make words on that message but he has not asked his words in
+- **[12:20:55 PM] Andrea**: the box.
+- **[12:20:56 PM] Andy**: What is Secretary Kennedy's lie when he said he would make those deals available for Senator Warren I don't think he was lying. I believe that we need to make an important distinction between the operative policy and internal deliberative deals. The principles of the deal especially the principles of them in fact from a slightly But let me just start here inside the contract the B2C is part of two of the companies right? Correct. I talked contract law for 30 years.
+- **[12:21:25 PM] Andrea**: I want to see the contract.
+- **[12:21:27 PM] Andy**: And that is what I asked the Secretary for. And the Secretary said he would deliver those contracts. He might call it out to the proprietary information tracing with some fine data. I want to understand the numbers. And the only way I can do that is with the contract. So where are the contracts? The numbers for example are freely available. You can see exactly the results of every contract on Trump or Africa. There are no contracts that are available that I can see who made how much money on what deals.
+- **[12:22:01 PM] Andy**: I have more general summary but that's all I have for Secretary for and it's not what the Secretary promised to deliver. In fact HHS continues to keep everyone of these fields secret at the same time that the president blads but he has lower prices by 600 percent which was the effort that companies were paying new to take the drug. Aside from that outlandish claim if these fields were in fact so good so profitable to the United States then I would expect that they would lower a big harmless profit. But what executives are telling their investors is not so much.
+- **[12:22:47 PM] Andy**: Earlier this month the biotech company inside cooperating with loans and firms to the courts, did it just not expect its deal to be inflation to close, how the material impact on its future financial outlook, and analysts despite items deal as close to material. And the law and law have tested the same thing about their official Mr Klopp. He was Secretary King of TV and TV. The companies are saying they are illiterial. And you still want the American people to believe
+- **[12:23:25 PM] Andy**: that they are somehow a really great deal for our country which lies in here.
+- **[12:23:32 PM] Andrea**: the war in billions of dollars have already been faced in out-of-pocket transactions through
+- **[12:23:35 PM] Andy**: GLP wars and fertility or otherwise.
+- **[12:23:38 PM] Andrea**: No me. So let's see. Why are you hiding this concept? We're not hiding anything.
+- **[12:23:43 PM] Andy**: In fact it is with the Reduction Act using the same provisions as Congress recognizing
+- **[12:23:48 PM] Andrea**: that it's trade secrets from us.
+- **[12:24:32 PM] Andy**: learning languages You may have been learning the wrong person You can learn all the words study all the grammar and listen to me just because everything you've been told to do is still feel completely rubbish at learning language I've seen this happen again and again over the 25 years that I've been learning and teaching language to the bounds of people and usually in bad language you can get sick if it's missing. So in this video I will show you what your brain actually needs to properly pick up a foreign language why most learners aren't getting nearly enough of it and then you can see easy ways to change all of that. Now you might have heard that one of the best things you can do is surround yourself with the language and your learning.
+- **[12:25:15 PM] Andy**: Listen to it as much as possible and get used to how real people actually speak. But when you're still of a gear that is one giant problem with death what if you can't understand any of it like nothing? So let's try a little experiment I'm going to tell you a completely normal conversation in German. Everyone is chilled no one is speaking particularly fast. Unless German happens to be your language already just see how much of it you can follow. I can't do a typical Arabic-läubische hallerhandlung, when you're in Deutschland you're popular. For example the Holkzahn-Fanzen is what you're talking about. But when you're in a wheelchair you can't do anything wrong. Are you idea what they were talking about?
+- **[12:25:57 PM] Andy**: I guess you probably know. Maybe a quarter world or two maybe you perhaps know nothing. Either way that's completely normal. Now I'm going to play some more German and say to you here, just see how much you can buy this time. That's my cup. Is that your cup?
+- **[12:26:14 PM] Andrea**: Good. Cup.
+- **[12:26:18 PM] Andy**: Is it good?
+- **[12:26:22 PM] Andrea**: Cup.
+- **[12:26:25 PM] Andy**: That's his Mr Spock yeah? Mr Spock had live order order. Do you understand the order? Yeah I understand. Live order. Okay Mr Spock. Yeah oh no.
+- **[12:26:38 PM] Andrea**: I'm sorry.
+- **[12:26:41 PM] Andy**: Augen. Verstellen Sie Augen? Augen. Sie sind Augen 3 3 Augen. Ist das richtig? 3 Augen?
+- **[12:26:53 PM] Andrea**: Nein.
+- **[12:26:55 PM] Andy**: Wir haben nur 3 Augen. Mons? Verstelle Mons?
+- **[12:27:00 PM] Andrea**: Und das.
+- **[12:27:06 PM] Andy**: For years the San Francisco has been the poster tile. particularly thanks to the Republicans President Trump in particular on democratic governance and big cities not working High-time homelessness disorder New lands two years ago to turn that around There are statistics that we can homelessness is down 4% from 2024 of violent crime in 2025 2017 for that What do you want other big cities to have a Democrat to know about what
+- **[12:27:38 PM] Andrea**: what you're doing here and why do you get this working?
+- **[12:27:42 PM] Andy**: I've been cruel. We lost our way as a city. We were focused on the wrong things and today we're focused on common sense. We're focused on governance. We're focused on delivering results for the people of Tampa so I said, today one public safety was maybe my number one priority. The crisis on our strengths and mental health and drug crisis is another top priority of mine.
+- **[12:28:07 PM] Andy**: And I want to get the basics of governance right? We have zero left in our focus on delivering for the people of temperate system. So is it as simple as that as focus and just changing your priorities or about how you do it? For example when you just said,
+- **[12:28:24 PM] Andrea**: we didn't focus on the right wouldn't we?
+- **[12:28:28 PM] Andy**: I mean we got so interested in our progressive values and talking about progressives. that we weren't taking something while we were passing on it. We had 810 people die of overdose and damage of those three years ago.
+- **[12:28:44 PM] Andrea**: There's nothing progressive about that.
+- **[12:28:46 PM] Andy**: There's nothing progressive about 30,000 car breakings. Everyone has to deal with whether or not their car was being broken into that number, by the way it had dropped by 90% and instead of talking about ideological issues and instead of talking about like all of this is functioning. We are focused if you ask me a question I'm going to focus on how do we put mothers to walk in their child to the bus stop safe and also not seeing open air drugs used How do we meet your family to stay and afford to live in San Francisco? Because our families are creative class are arted.
+- **[12:29:44 PM] Andrea**: been controversial.
+- **[12:29:45 PM] Andy**: It has had powerful and dedicated opposition. You can look at the church which put Galileo under arrest. You can look at Marxism and communism. You can look at theocracies places like Iran today. You can look at fascism one after another large numbers of human beings have set for one reason or another liberalism has set the natural order of things it has been God it allows dangerous alternative lifestyle it's unfair on and on and on. And today is no exception to that my name is Jonathan Rauch I'm a senior fellow at Brookings institution and I've spent my career trying to understand liberal values and
+- **[12:30:37 PM] Andy**: support our working for you to join our members as a member you'll receive our quarterly print magazine beautifully designed question of the ideas and interviews that matter most Big thank you for curious people who want to take deep dive into big ideas To support the media you want to see in the world
+- **[12:30:52 PM] Andrea**: The global backlash to liberalism.
+- **[12:31:02 PM] Andy**: There's a headline today. We see it everywhere. We see tons of books being written. Many of them being written by our most prominent liberal thinkers. People are great thinkers. People like James Davis and Hunter and Francis Fukuyama and Brank Lindsey and others who are saying liberalism is in crisis right now. Not the first time people have said this. Liberalism was in crisis when Karl Marx came along. Marx was no dummy.
+- **[12:31:29 PM] Andy**: Marx was seeing turbulent change in society that looked at the time as if capitalism was on track with the natural itself
+- **[12:31:36 PM] Andrea**: because of working conditions.
+- **[12:31:38 PM] Andy**: In the factories of the 1840s and 1850s, this document was in control because we're so deplorable. Looks like capitalism is making people worse off, not better off than making society more stratified not less stratified and so forth. And that led to a crisis which of course led to communism. Communism turned out to be the bloodthirsty ideology
+- **[12:31:59 PM] Andrea**: in human history.
+- **[12:32:01 PM] Andy**: We've had recurrent crises and they tend to have in common periods of rapid social change. When you got liberal institutions that have been set up and they're kind of ticking along, and they seem to be writing OK. So in the 1970s and 80s and 90s we thought we had a pretty good social system, And the economy seemed to be firing on most cylinders and the budget was balanced and so forth. And then we get shot.
+- **[12:32:24 PM] Andy**: And those shots caught up disruption. And because of the decentralized nature
+- **[12:32:29 PM] Andrea**: of these liberal systems and because they're a little fake,
+- **[12:32:33 PM] Andy**: they can't turn on a dime. They evolve over time. They tend to be bottom up. And so they go through these periods when society is demanding more from them
+- **[12:32:42 PM] Andrea**: than they can deliver.
+- **[12:32:43 PM] Andy**: Now all the other systems would be worse because they're so corrupt and authoritarian and they don't have good input. But in these moments the challenge for liberalism is to adapt to change to meet new needs, to find new ways of doing things new structures new products new ideas,
+- **[12:33:01 PM] Andrea**: and a fast enough clip to adapt.
+- **[12:33:04 PM] Andy**: And a lot of people think and I think they're quite probably right, they're wearing one of those moments right now. So we've had a series of shots. We had 9-11 the tenacity meltdown of 2008-2009. Every so often markets fall apart. We've known that about them since out of just time. And that caused a crisis which has caused a big reduction in confidence in liberalism. You had COVID which a lot of people think the system didn't handle very well. We can argue about that but that's what a lot of say on the system. You have the eruption of social media and the decline of the traditional reality gatekeepers in places like journalism,
+- **[12:33:50 PM] Andy**: you know conventional mainstream media. You have the rise of algorithms which are disruptive you know, the same goes enrichment is engagement. And you've had a decline for other reasons in traditional organized religion, which lots of people are looking for meaning a lot. You get all those things that kind of come in a lot at once right? And that's a lot to deal with. It doesn't matter if you're liberal or illiberal, that is a lot to deal with. And that's what we're just things to right now.
+- **[12:34:17 PM] Andy**: I won't kid anyone. It's a major challenge. So liberalism is a recent invention. Like it really dates back to 350 years ago. That's the point. It's an evolution. Illiberalism is everything else. and it's a lot older It's all of the many many theories and systems of running a government and economy a true seeking process which is based on coercion for example on hierarchy, on tribe on fundamental distinctions between different types of humans So if you're saying
+- **[12:34:56 PM] Andy**: that a person from Africa is inferior and can only be a slave that is a liberalism if If you're saying the freedom is a dangerous concept, that's an idea that goes back to Plato, which is long before modern liberalism. He believed that democracy that freedom would lead to decadence. He wanted to have a North Korean-style dictatorship led by someone like himself. Eleveralism goes back much longer than liberalism, and it takes many many forms.
+- **[12:35:24 PM] Andy**: It's really a difficult catch-all term for really almost anything that disputes the core idea that all humans are born free and equal. And that comes in so many different flavors. So today we've got a group that go loosely under what's called post-liberalism. And those are groups of people that all they exist in one form on the right and another form on the left. But they basically say liberalism is out of date.
+- **[12:35:51 PM] Andy**: It's no longer serving our needs as a country or as a community or as basic human. It comes in all kinds of flavors. People are of a theological bent. I don't want to see this thing anymore and then I've got to get to uh
+- **[12:37:31 PM] Andrea**: All right we're going outside to check the blood status.
+- **[12:39:57 PM] Andy**: Yeah I could break our ankle since it's in it that's that's the danger
+- **[12:44:39 PM] Andy**: Looks like it's coming in out on the street and it looks like it's a little further than and it was yesterday in the parking lot.
+- **[12:51:10 PM] Andy**: differences in the parking lot photos. You notice that there's a picture from basically the height of where our door is. So that would be the highest elevation. And then it goes down and slopes down. You see the patio door on the side of our house down the pathway towards the parking lot which has a curb to it also. And you can see the water levels and the timestamp from the photos and the videos here. these and see if they add any more information or details to our elevations our concerns.
+- **[12:53:52 PM] Andy**: four to six degree drop in just the office and in the living room the lower temperatures around 68 which is we were in the mid 70s 75 to 77 just a couple
+- **[12:54:13 PM] Andrea**: days ago.
+- **[12:54:41 PM] Andy**: I am having these analyzed also to see if they add any more information to our reports that we get so we can get better warnings.
+- **[12:55:49 PM] Andy**: Do the photos provide exact coordinates for where they're shot.
+- **[12:57:09 PM] Andy**: the parking lot.
+- **[12:59:35 PM] Andy**: houses Do we need to make any adjustments Would you like me to take a photo from where my door is out towards the street the other way. I have some videos showing the tides still coming in. by while I get the additional photo showing the landing at the front entrance to my front door to the street in the western direction Stand by.
+- **[1:07:10 PM] Andy**: the car port where the Prius is right now.
+- **[1:10:03 PM] Andy**: for sedans cars like mine versus when it's passable.
+- **[1:10:21 PM] Andy**: So one notification when it's not good and one notification when it is clear.
+- **[1:11:03 PM] Andrea**: energy.
+- **[1:11:29 PM] Andy**: Very grateful.
+- **[1:16:23 PM] Andy**: And Google Photos can I create a photo album of a specific condition say like our areas This is flooding.
+- **[1:17:40 PM] Andy**: I got some grits and plenty at the store last week.
+- **[1:20:36 PM] Andrea**: Can you go through my photos on my computer then and group pictures that show
+- **[1:21:06 PM] Andy**: the kind of flooding that we have in our area here in a folder called large spurt area flooding.
+- **[1:27:39 PM] Andy**: on my Google Photos called Loads for Area Flooding right now. Can you access this or should I download?
+- **[1:33:26 PM] Andy**: Now I'm creating a report from all the historical data of the photos we have to get a detailed report.
+- **[1:34:26 PM] Andrea**: Can you copy this to my Flash Rebob Obsidian folder for me to be able to access
+- **[1:37:30 PM] Andrea**: Based on this report given the Kelvin wave,
+- **[1:37:59 PM] Andy**: situation what is your determination and how danger how much danger we are here in our apartment. Given this information can you determine based on the Kelvin wave function that functions if we are any danger of flooding here in this apartment and what would be those Conditions.
+- **[1:39:20 PM] Andrea**: This is the first time I've ever seen this kind of thing but
+- **[1:42:12 PM] Andy**: And you add this data as a second report in the miscellaneous home info area.
+- **[1:47:00 PM] Andrea**: Can you
+- **[1:47:30 PM] Andy**: Add another warning saying that the cars out on the street are in imminent danger of flooding cars where they would get into the interiors of the car.
+- **[1:48:00 PM] Andy**: This should be flagged in the report that we would get on a daily basis that this might be possible and that the cars need to be moved.
+- **[1:49:15 PM] Andy**: I'm going to get out of here.
+- **[1:51:26 PM] Andrea**: Currently I am adding one more alert to when any cars out on the front street would
+- **[1:51:53 PM] Andy**: be in danger of being flooded.
+- **[1:52:36 PM] Andy**: in a 24-hour period for us to be in grave danger here.
+- **[1:58:42 PM] Andy**: I've created a flood report for our area so I can warn you of any dangers and includes that even the car ports.
+- **[1:59:29 PM] Andrea**: Maybe we just got 2004 or 2014.
+- **[2:06:16 PM] Andy**: I am not sure that the road will be cleared by 230 based on the latest photos. Can you add this to our data and confirm when you believe the road will be clear to drive
+- **[2:06:33 PM] Andrea**: through The road is not as clearing as fast as I expected right now so I'll give you
+- **[2:07:03 PM] Andy**: you in updates
+- **[2:11:38 PM] Andrea**: I'm going to start with a little bit of water and I'm going to start with a little bit of water.
+- **[2:19:00 PM] Andy**: And you remind me about this for tomorrow. Maybe add create a Google task at 9 a.m for this.
+- **[2:19:57 PM] Andy**: an advantage of with my laptop Also I read this article today and I'm wondering if there's anything that we can do to take advantage of things like this on my laptop.
+- **[2:21:37 PM] Andrea**: task Yeah I don't really think we fully set up the Sony blu-ray player controls etc.
+- **[2:22:04 PM] Andy**: Also nor the lights.
+- **[2:32:13 PM] Andy**: just doesn't scare anyone and it shouldn't because a lot of this is basically just categories of the way that we could look at our experience regardless of any religious or spiritual perspective. You can test this out for yourselves.
+
+---
