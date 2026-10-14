@@ -1,19 +1,11 @@
 # Plaud Daily Transcript - Friday, October 09, 2026
 - **Date**: 2026-10-09
-- **Total Audio Sessions Processed**: 4
-- **Generated**: 2026-10-13 07:13:19
+- **Total Audio Sessions Processed**: 3
+- **Generated**: 2026-10-14 06:07:27
 
 ---
 
-## 🎙️ Session 1: 2026-10-09 23:34:27 (9m31s)
-- **Source File**: `2026-10-09 23_34_27.mp3`
-- **Audio ID**: `of_2955a2524511c9c3b9ee93e8a6399de9`
-
-- **[00:00 - End] (Speaker / Group)**: *(Quiet ambient background / noise; no spoken dialogue recorded)*
-
----
-
-## 🎙️ Session 2: 2026-10-09 18:34:26 (5h00m)
+## 🎙️ Session 1: 2026-10-09 18:34:26 (5h00m)
 - **Source File**: `2026-10-09 18_34_26.mp3`
 - **Audio ID**: `of_ddf504ec782646e4e607518db9f62984`
 
@@ -189,7 +181,7 @@
 
 ---
 
-## 🎙️ Session 3: 2026-10-09 13:34:26 (5h00m)
+## 🎙️ Session 2: 2026-10-09 13:34:26 (5h00m)
 - **Source File**: `2026-10-09 13_34_26.mp3`
 - **Audio ID**: `of_9bf4705f009285df4f04105a9ee47ac5`
 
@@ -365,7 +357,7 @@
 
 ---
 
-## 🎙️ Session 4: 2026-10-09 08:34:25 (5h00m)
+## 🎙️ Session 3: 2026-10-09 08:34:25 (5h00m)
 - **Source File**: `2026-10-09 08_34_25.mp3`
 - **Audio ID**: `of_34122e1a81ee104582b98684effbb5fd`
 
