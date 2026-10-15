@@ -1,5 +1,17 @@
 ---
 tags:
+  - spiritual-practice
+  - human-potential
+  - confusion
+  - delusion
+  - suffering
+  - habits
+  - life-is-short
+  - willingness
+  - beautiful-world
+  - inspirational
+  - service
+  - heart
   - dharma
   - practice
   - meditation
