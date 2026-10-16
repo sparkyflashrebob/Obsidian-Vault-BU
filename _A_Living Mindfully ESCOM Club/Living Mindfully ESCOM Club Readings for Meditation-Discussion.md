@@ -1,8 +1,8 @@
 ---
 title: "Living Mindfully ESCOM Club Readings for Meditation & Discussion"
 created: 2026-09-30
-updated: 2026-10-08
-version: 1.2
+updated: 2026-10-15
+version: 1.3
 type: meditation-readings
 category: living-mindfully
 tags:
@@ -12,12 +12,19 @@ tags:
   - readings
   - mindfulness
   - discussion-prompts
+  - everyday-mindfulness
   - hooponopono
   - forgiveness
 ---
 
 ## 📜 Version History & Changes
 
+- **v1.3 (2026-10-15):**
+  - Clarified relationship between overarching **Themes (1–5)** and individual **Readings (1–9)**.
+  - Logged facilitation history:
+    - **Oct 01, 2026:** Reading 1: *Letting Go of Perfection / Wild Geese* (Mary Oliver) facilitated with Will Meecham.
+    - **Oct 08, 2026:** Reading 2: *The Practice of Non-Striving* (Jon Kabat-Zinn) facilitated.
+  - Set **Theme 2 (*Mindfulness in Everyday Living*)** with **Reading 3 (*The Sacredness of the Ordinary* / Thich Nhat Hanh)** and **Reading 4 (*The Daily Gift of Starting Over* / Annie Dillard)** for **October 15, 2026**.
 - **v1.2 (2026-10-08):**
   - Added Reading 9: Untying the Cords (The Living Spirit of Ho‘oponopono) under Theme 5 (Reconciliation, Forgiveness & Unburdening the Heart).
   - Added Hawaiian contemplative framework of *Kala* (unbinding) and *Pono* (restoring balance) with discussion prompts for elder reflection.
@@ -34,13 +41,23 @@ tags:
 
 # Living Mindfully ESCOM Club: Readings for Meditation & Discussion
 
-A curated collection of short readings, poems, and excerpts for the weekly Living Mindfully ESCOM Club meetings. Each entry includes context on why it resonates with the group and suggested prompts for quiet reflection and group sharing.
+A curated collection of short readings, poems, and excerpts for the weekly Living Mindfully ESCOM Club meetings (Thursdays at 2:00 PM). Each entry includes context on why it resonates with the group and suggested prompts for quiet reflection and group sharing.
+
+### 🧭 Overview of Themes & Readings
+
+| Theme | Focus Area | Included Readings | Facilitation Log |
+| :--- | :--- | :--- | :--- |
+| **Theme 1** | **Arriving & Letting Go of Pressure** | • **Reading 1:** Mary Oliver (*Wild Geese / Letting Go of Perfection*)<br>• **Reading 2:** Jon Kabat-Zinn (*The Practice of Non-Striving*) | • **Reading 1:** Facilitated Oct 01 (with Will)<br>• **Reading 2:** Facilitated Oct 08 |
+| **Theme 2** | **Mindfulness in Everyday Living** *(Today's Theme)* | • **Reading 3:** Thich Nhat Hanh (*The Sacredness of the Ordinary / Washing the Dishes*)<br>• **Reading 4:** Annie Dillard (*The Daily Gift of Starting Over / Awake for Our Lives*) | **Today: October 15, 2026 (2:00 PM)** |
+| **Theme 3** | **Refuge & Wisdom in the Natural World** | • **Reading 5:** Wendell Berry (*The Peace of Wild Things*)<br>• **Reading 6:** John Muir (*Weathering Life’s Storms Like the Trees*) | Upcoming (Oct 22 / Oct 29) |
+| **Theme 4** | **Working with Difficulty, Grief & World Fatigue** | • **Reading 7:** Joanna Macy & Chris Johnstone (*Active Hope*)<br>• **Reading 8:** Rumi (*The Guest House*) | Upcoming (Nov 05 / Nov 12) |
+| **Theme 5** | **Reconciliation, Forgiveness & Unburdening** | • **Reading 9:** Ancestral Hawaiian Tradition (*Untying the Cords / Kala / Ho‘oponopono*) | Upcoming (Nov 19) |
 
 ---
 
 ## Theme 1: Arriving & Letting Go of Pressure
 
-### Reading 1: Letting Go of Perfection and Belonging to the World
+### Reading 1: Letting Go of Perfection and Belonging to the World *(Facilitated Oct 01, 2026)*
 **From _Upstream_ & _Devotions_ by Mary Oliver**
 
 > "You do not have to be good.
@@ -72,7 +89,7 @@ A curated collection of short readings, poems, and excerpts for the weekly Livin
 
 ---
 
-### Reading 2: The Practice of Non-Striving
+### Reading 2: The Practice of Non-Striving *(Facilitated Oct 08, 2026)*
 **From _Wherever You Go, There You Are_ by Jon Kabat-Zinn**
 
 > "In meditation, you don't have to try to get anywhere else. You only have to allow yourself to be where you already are. This sounds simple, but it is actually radical. Almost all of our energy goes into trying to fix, adjust, manage, or improve things.
@@ -86,7 +103,7 @@ A curated collection of short readings, poems, and excerpts for the weekly Livin
 
 ---
 
-## Theme 2: Mindfulness in Everyday Living
+## Theme 2: Mindfulness in Everyday Living *(Today: October 15, 2026)*
 
 ### Reading 3: The Sacredness of the Ordinary
 **From _The Miracle of Mindfulness_ by Thich Nhat Hanh**
@@ -235,4 +252,3 @@ A curated collection of short readings, poems, and excerpts for the weekly Livin
 - **Reflection Prompts:**
   - *"What does it feel like in your body when you hold onto an old resentment, versus the felt sense of setting it down?"*
   - *"The Hawaiian word for forgiveness, 'Kala,' means to loosen, unbind, or set free. Who or what might you give yourself permission to gently unbind today—including yourself?"*
-
