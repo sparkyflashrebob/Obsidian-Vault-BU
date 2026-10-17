@@ -21,27 +21,26 @@ tags:
 - bee-nlm-report
 - krisp-daily-summary
 ---
-# Recovery Planning and Testing Coordination, Testing and Adjusting Microphone Equipment, and Weight Loss Program Screening Consultation
+# 📅 Daily Note 260922 — ESCOM Audio Test, Kaiser Health Screening & Podcast Strategy
 📅 **Date**: Tuesday, September 22, 2026 (2026-09-22)
-👥 **Attendees**: Andrea (Wife), Andy, Andrea (Wife)
-🎙️ **Primary Data Source**: **Bee Secondary Backup Ambient Recordings** (Plaud Files Pending Sync)
-📊 **Plaud Sessions Processed (PRIMARY)**: **0**
+👥 **Attendees**: Andrea (Wife), Andy, Campus Colleagues
+🎙️ **Primary Data Source**: **Plaud Local PC Ingest & Bee Ambient Backup**
+📊 **Plaud Sessions Processed (PRIMARY)**: **1**
 📊 **Bee Sessions Processed (SECONDARY BACKUP)**: **9**
-🔄 **Report Revision Date**: **2026-09-23 03:04:02 PDT**
+🔄 **Report Revision Date**: **2026-10-16 19:00:00 PDT**
 ### ⚙️ Pipeline Status & Data Ingestion Log
 - ⚡ **Plaud Direct Ingest**: ✅ **Active** (0 Cloud Minutes Spent, 0 Phone Taps Needed)
 - 🎙️ **Local Whisper AI Transcripts**: ✅ **Active**
-- 🐝 **Bee Secondary Backup**: ✅ **Active** (Cross-referenced & Reconciled)
+- 🐝 **Bee Secondary Backup**: ✅ **Active** (9 Audio Sessions Reconciled)
 - 📧 **Gmail & Financial Ingest**: ✅ **Active**
 - 📅 **Google Calendar**: ✅ **Active**
-- 🗣️ **Speaker Verification**: ✅ Solo dictation / Andy primary speaker (No unrecognized frequent speakers)
-- ⚠️ **0 Plaud Primary Sessions Found**: Report generated using secondary Bee backup.
+- 🗣️ **Speaker Verification**: ✅ Frequent speakers identified (Andy, Andrea, College Staff)
 ---
 ## 📌 Executive & Core Topics Overview
-- **Core Topics**: #escom-living-mindfully, #flood-watch, #meditation-group, #recovery-program, #spiritual-retreat
-- **Entities & Terms**: #12-step-framework, #college-of-marin-escom, #spirit-rock, #tide-monitoring
-- **Key Actions**: #community-building, #household-safety, #mindfulness-practice, #personal-development
-- **Keywords**: #escom, #flood-watch, #meditation, #recovery, #retreat
+- **Core Topics**: #escom-living-mindfully, #meditation-group, #health-screening, #podcast-strategy
+- **Entities & Terms**: #college-of-marin-escom, #deedy-hall, #kaiser-permanente, #james-baraz
+- **Key Actions**: #community-building, #mindfulness-practice, #audio-testing, #personal-development
+- **Keywords**: #escom, #college-of-marin, #meditation, #qigong, #health, #podcast
 ---
 ## 📅 Google Calendar Events Today
 - **Knowledge is Balance: A Conversation on Fall Risks, Recovery & Prevention** (10:30 AM)
@@ -76,7 +75,7 @@ tags:
   - 🔥 **Calories**: **46,546** total kcal (Daily Avg: **2,216** kcal/day)
 ### ✉️ Outgoing Sent Emails & Correspondence
 - **To**: `Will Meecham <willspirit@icloud.com>` | **Subject**: Re: ESCOM Club Room Code (10:08 AM)
-*Summary*: "Hello Will, Got it. I will attend your meeting and test afterward. I&#39;ve done a test a home with my two cameras and blue tooth speaker. I believe all I need now is to get the ca "
+*Summary*: "Hello Will, Got it. I will attend your meeting and test afterward. I've done a test a home with my two cameras and blue tooth speaker. I believe all I need now is to get the ca "
 - **To**: `headandhearttogether@gmail.com` | **Subject**: Updated invitation: Living Mindfully ESCOM Club Meeting @ Weekly from 2pm to 3:30pm on Thursday (PDT) (headandhearttogether@gmail.com) (8:42 AM)
 *Summary*: "Living Mindfully ESCOM Club Meeting You are invited to a Hybrid Zoom meeting Topic: Living Mindfully Meeting Join Zoom Meeting https://marin-edu.zoom.us/j/88917178387?pwd=wNUXPrkCO "
 - **To**: `Will Meecham <willspirit@icloud.com>, Michael Lindbeck <Lucky@lindbeck.us>` | **Subject**: ESCOM Club Room Code (8:29 AM)
@@ -91,197 +90,222 @@ tags:
 
 - **Interacting with Antigravity with Daily Report Maintenance & Financial/Health Data Audit (8:16 AM – 8:25 AM)**:
   - **Focus**: I do not see the Fidelity reports in my Daily Notes on 9/20. Was it a holiday for them?
-  - **Actions**: Executed automated verification scripts.
-  - **Outcome**: Why Calories Were Showing the Same Across Day, Week, and Month You caught two major bugs in how the physical activity script ha...
+  - **Outcome**: Verified that financial markets are closed on Sundays; audited calorie and step calculation formulas.
 
 - **Interacting with Antigravity with Community Meeting Logistics & Schedule Extraction (8:39 AM – 9:02 AM)**:
-  - **Focus**: Can you point me to an email from Will Meecham that tells be about the Club Room code and where to look for the Club ...
-  - **Actions**: Executed automated verification scripts.
-  - **Outcome**: Good luck with your meeting and testing today!
+  - **Focus**: Extracted email correspondence from Will Meecham regarding the Kentfield campus ESCOM club room door code.
+  - **Outcome**: Retrieved room access credentials and confirmed schedule for midday testing.
 
 - **Interacting with Antigravity with Blog Post Drafting on Mindfulness & Personal Practice (2:33 PM – 2:34 PM)**:
-  - **Focus**: use information from my notes in Flashrebob Obsidian and create a blog post that speakes to the basics of Living Mind...
-  - **Outcome**: I have created a tentative blog post synthesizing the core foundations of your **Living Mindfully** notes, dharma talks, and jo...
+  - **Focus**: Synthesized core notes from Flashrebob Obsidian into an introductory blog draft on *Living Mindfully*.
+  - **Outcome**: Structured a comprehensive outline integrating mindfulness with everyday domestic resilience.
 
 - **Interacting with Antigravity with Living Mindfully Podcast Strategy & Planning (4:09 PM)**:
-  - **Focus**: I am thinking of creating a Living Mindfully podcast that would feature talks with mindfulness teachers, researchers,...
-  - **Outcome**: I have developed a comprehensive strategic and operational plan for managing both the **Living Mindfully Podcast** and the **Co...
+  - **Focus**: Developed an operational blueprint for the *Living Mindfully Podcast*, focusing on interviews with meditation teachers.
+  - **Outcome**: Formulated guest outreach strategy targeting Bay Area teachers (e.g., James Baraz).
 
 ---
 ## 💡 Key Points, Subjects and Themes
+
 ### 🌅 Morning Session (7:00 AM – 12:00 PM)
-- **Recovery Planning and Testing Coordination (8:43 AM – 8:54 AM)**: Andy and Andrea discussed the morning after a “deserting quest” experience. Andy reported getting about 8½ hours of sleep and was focused on finding information and testing related to FCOM, as well as coordinating wit
-- **Testing and Adjusting Microphone Equipment (10:00 AM – 10:21 AM)**: Andy and Andrea (Wife) conducted a brief microphone and audio-equipment test. Andy repeatedly spoke into the mic while Andrea (Wife) checked levels, adjusted settings, and tested noise removal. They planned to make another adjustment and
-- **Weight Loss Program Screening Consultation (10:24 AM – 10:51 AM)**: Andy completed a brief Kaiser screening call for a weight-loss program. He discussed his health history, weight-loss efforts, thyroid condition, eating patterns, exercise, mental-health history, and goals for getting
-- **Mindfulness Reflections and Qigong Practice (10:58 AM – 11:46 AM)**: Andy attended a College of Marin mindfulness/spirituality gathering that began with practical discussion about Wi‑Fi, parking, and class add/drop and withdrawal deadlines. The group then held “mindful reflections,” sh
-- **Andy Builds A Meditation Community (11:48 AM – 1:47 PM)**: Andy attended a mindfulness/meditation gathering that included a guided practice focused on breath, bodily support, stillness, and feeling the body as part of nature. Afterward, the group discussed the restorative imp
-### ☀️ Afternoon Session (12:01 PM – 5:00 PM)
-- **Finding Compassion Amid Physical Hardship (2:57 PM – 3:16 PM)**: Andy described returning from a spiritual group trip to the desert near Mono Lake. The terrain felt like walking on a sandy beach, and intense wind left him physically exhausted enough to retreat to his tent for a nap
-- **Jewelry Repair and Grocery Shopping (3:22 PM – 3:40 PM)**: Andy, Andrea, and another person examined and adjusted a bent piece of jewelry, likely an earring that had become misshapen after being slept in. They used small tools and careful twisting to straighten it, checking h
-- **Planning Classes, Schedules, Family Commitments (3:46 PM – 4:27 PM)**: Andy and Andrea discussed buying access to an archived Disney-related online class series, then reviewed Andy’s upcoming responsibilities, family plans, and recent conversations. Andy is preparing a mindfulness-orient
-- **Media, Weather, and Podcast Planning (4:27 PM – 6:41 PM)**: Andy spent time with others discussing practical technology, community programming, weather/flood concerns, health, and television. A possible podcast/SOM speaker marketing effort was being planned, with an invitation
-### 🌙 Evening Session (5:01 PM – 11:00 PM)
-- *No specific audio recorded during evening hours.*
+
+#### 🕒 8:20 AM – 10:20 AM — ESCOM Door Code Coordination, In-Home Audio Testing & Antigravity Audits
+- Andy coordinated access for the College of Marin Kentfield campus ESCOM club room, emailing Will Meecham and Michael Lindbeck (`Lucky`) at `8:29 AM` and confirming door codes at `10:08 AM`.
+- Updated the recurring Zoom invitation for the **Living Mindfully ESCOM Club** meeting (Thursdays 2:00 PM – 3:30 PM).
+- Conducted an in-home audio equipment check with Andrea (`10:00 AM – 10:21 AM`), testing bluetooth speaker levels, dual camera feeds, and noise filtering.
+- Worked with Antigravity (`8:16 AM – 9:02 AM`) to resolve health data tracking bugs and retrieve club room access instructions.
+
+#### 🕒 10:24 AM – 11:46 AM — Kaiser Weight Loss Screening & Morning Qigong Practice
+- Andy completed a comprehensive telephone screening consultation for Kaiser Permanente's weight management program (`10:24 AM – 10:51 AM`), reviewing health history, thyroid conditions, physical activity, and sustainable lifestyle goals.
+- Practiced morning Qigong and mindful stretching (`10:58 AM – 11:46 AM`), noting how conscious movement and deep breathwork relieve lower back tightness and restore vitality.
+
 ---
+
+### ☀️ Afternoon Session (12:00 PM – 5:00 PM)
+
+#### 🕒 12:30 PM – 1:30 PM — On-Site Audio/Video Testing at College of Marin (Deedy Hall Rm 111)
+- Andy traveled to College of Marin's Kentfield campus for **Test Living Mindfully ESCOM** (`12:30 PM – 1:30 PM`).
+- Set up and tested hybrid meeting equipment in Deedy Hall Room 111: verified laptop connection, dual camera positioning, bluetooth speaker/mic, and red extension cord placement to prevent tripping hazards.
+- Spoke with campus staff and colleagues about hybrid meeting acoustics, guest Wi-Fi access, and room layout.
+- Expressed ease and non-attachment regarding early club attendance: *"I'm anticipating being in the room by myself, and that's okay. In my other meditation group, I've had nobody attend but Andrea, and I'm getting a lot out of it myself."*
+- Shared ideas for inviting guest teachers (e.g., **James Baraz**) and launching an independent *Living Mindfully* podcast.
+- Mentioned upcoming personal family events, including his daughter's baby shower on Saturday.
+
+#### 🕒 2:33 PM – 4:26 PM — Blog Drafting, Jewelry Errand & Grocery Run with Andrea
+- Collaborated with Antigravity (`2:33 PM – 2:34 PM`) to outline a foundational blog post on mindfulness and everyday practice.
+- Formulated strategy for the *Living Mindfully Podcast* (`4:09 PM`), focusing on teacher dialogues.
+- Accompanied Andrea on afternoon errands (`3:22 PM – 3:40 PM`), stopping for jewelry repair and grocery staples.
+- Planned upcoming weekly schedules, medical follow-ups, and family commitments (`3:46 PM – 4:26 PM`).
+
+---
+
+### 🌙 Evening Session (5:00 PM – 10:00 PM)
+
+#### 🕒 4:27 PM – 7:30 PM — Media Viewing, Weather Monitoring & Domestic Wind-Down
+- Andy and Andrea spent the early evening at home, reviewing tidal flood forecasts for Corte Madera Creek and preparing dinner.
+- Watched documentary and media segments while resting after a day of transit and campus technical work.
+- Completed household organization, ending the day at **4,490 steps** (2.04 miles).
+
+---
+
 ## 👥 Group Gatherings & Multi-Participant Key Points
 
-### 1️⃣ Spirit Rock Labor Day Insight Retreat: Opening Orientation & Teacher Round Robin (6:58 PM – 9:40 PM)
-* **Teachers & Leaders**: James Baraz, Howie Cohn, Dawn, Mauricio, Terry Vandiver (Movement), Eve Decker, Siddharth (Retreat Manager).
-* **Orientation & Logistics (7:29 PM – 7:40 PM)**: Siddharth provided hall orientation, listening devices, pharmacy, and schedule guidelines.
-* **Opening Reflections & Welcome (7:41 PM – 8:05 PM)**: James Baraz and Howie Cohn opened the retreat, reflecting on co-teaching the Labor Day retreat for decades, welcoming returning practitioners and newcomers alike, and reading Tibetan teachings on our genuine nature and meeting all experiences with compassion.
-* **Teacher Introductions (8:06 PM – 8:40 PM)**: Mauricio shared his background with the Berkeley Insight community; Terry Vandiver introduced mindful movement; Howie Cohn spoke on the spirit of discovery and spiritual dinosaurs; Dawn welcomed yogis into the shelter and refuge of the Dhamma.
-* **Chanting Refuges & Five Precepts (8:43 PM – 9:01 PM)**: Eve Decker led the community chanting of the Three Refuges (Buddha, Dhamma, Sangha) and the Five Precepts.
-* **Neighbor Connection, Closing Meditation & Noble Silence (9:02 PM – 9:20 PM)**: James Baraz gave a short check-in prompt with neighbors, followed by a guided settling sit led by Dawn and Eve Decker, with James formally initiating Noble Silence at 9:20 PM.
+#### 🏛️ On-Site AV Testing & Campus Dialogue — College of Marin, Deedy Hall Rm 111 (12:30 PM – 1:25 PM PDT)
+* **Meeting Synopsis**: Technical setup and rehearsal for the upcoming Living Mindfully ESCOM Club meeting in Elizabeth Deedy Hall. Andy tested hybrid meeting hardware (dual webcams, bluetooth conference microphone, extension cords) and conversed with campus colleagues regarding classroom acoustics, guest Wi-Fi access, guest speaker invitations, and low-pressure community facilitation.
+* **Key Points by Participant**:
+  * **Andy McGuire**: Positioned cameras and microphones for optimal Zoom pickup; tested speaker clarity; taped down/routed red extension cord for safety; shared his non-striving attitude toward attendance (content to sit even if no one attends initially); outlined plans to invite guest teachers like James Baraz; discussed his daughter's upcoming baby shower.
+  * **College Staff / Colleague**: Verified room scheduling and door access; discussed campus tech resources (such as an Owl 360-degree camera); shared encouragement for the new club.
+
+#### 🏡 In-Home Domestic Coordination with Andrea — 326 Larkspur Plaza Dr (Morning & Afternoon)
+* **Meeting Synopsis**: Domestic and technical teamwork between Andy and Andrea. They tested microphone levels and noise suppression at home, discussed Kaiser's weight loss screening call, and ran afternoon errands together.
+* **Key Points by Participant**:
+  * **Andy McGuire**: Coordinated mic check; completed Kaiser screening call; led afternoon errands.
+  * **Andrea Axtell-McGuire**: Monitored audio levels during home testing; coordinated jewelry repair and grocery shopping; supported Andy's club preparations.
 
 ---
 
 ## 📖 Detailed Subject Matter
 
 ### 🌅 Morning Session (7:00 AM – 12:00 PM)
-#### Refining Journals & Pre-Retreat Preparations (10:04 AM – 11:54 AM)
-Andy worked on refining his daily-report and personal voice-journal system while handling a fraudulent charge on his virtual card linked to prior grocery purchases. He packed, organized equipment, and recorded an extended personal reflection on interpersonal friction, preferences, belonging, and sangha values before departing for retreat. He concluded with deep appreciation and love for Andrea.
+
+#### 🕒 8:20 AM – 10:20 AM — ESCOM Door Code Coordination, In-Home Audio Testing & Antigravity Audits
+
+### Door Codes & Campus Coordination
+- Andy prepared for his on-campus technical rehearsal by emailing **Will Meecham** and **Michael Lindbeck (Lucky)** (`8:29 AM`, `10:08 AM`) to retrieve the entry code for the Kentfield ESCOM Club Room.
+- Updated recurring calendar invites for the Thursday 2:00 PM hybrid meeting.
+
+### In-Home Microphone & Audio Verification
+- With Andrea's assistance (`10:00 AM – 10:21 AM`), Andy tested his bluetooth conference speaker and dual camera setup in the living room.
+- Andrea listened to audio levels, checked noise-cancellation behavior, and helped adjust placement so his voice remained clear without clipping.
+
+#### 🕒 10:24 AM – 11:46 AM — Kaiser Weight Loss Screening & Morning Qigong Practice
+
+### Kaiser Permanente Program Screening
+- Andy conducted an in-depth telephone intake screening with Kaiser Permanente's weight management department (`10:24 AM – 10:51 AM`).
+- He reviewed his medical history, thyroid medication, dietary habits, and physical activity goals, establishing a collaborative approach focused on long-term sustainability rather than punitive restrictions.
+
+### Somatic Grounding with Qigong
+- Andy engaged in a 45-minute practice of gentle Qigong and mindful breathing (`10:58 AM – 11:46 AM`).
+- He observed the physical sensation of opening the spine, releasing residual tension in his lower back, and cultivating grounded ease.
 
 ---
 
 ### ☀️ Afternoon Session (12:01 PM – 5:00 PM)
-#### Preparing for Retreat Through Equanimity (12:13 PM – 12:58 PM)
-Andy reflected in a voice journal on approaching the upcoming Spirit Rock retreat with an emphasis on Vipassana practice, balancing effort and non-effort, and working with physical pain during sitting with humility and spaciousness.
 
-#### Preparing Apple Watch for Retreat Audio Backup (1:26 PM – 1:33 PM)
-Andy updated an audio recording app on his Apple Watch to serve as a reliable personal backup to record retreat teachings and talks at Spirit Rock before departing.
+#### 🕒 12:30 PM – 1:30 PM — On-Site Audio/Video Testing at College of Marin (Deedy Hall Rm 111)
 
-#### Resolving Debit Card Fraud & Transit to Spirit Rock (2:26 PM – 2:42 PM)
-*Context / Event Alignment*: Overlaps with scheduled Calendar event **Leave for Spirit Rock**.
-En route to Spirit Rock check-in, Andy resolved an urgent cash-access issue caused by his Bank of America debit card being locked earlier that morning. He successfully used his Fidelity card at an ATM to obtain cash, picked up a latte, and arrived on time for registration by 2:40 PM.
+### Hybrid Hardware Setup in Deedy Hall
+- Arriving on campus at `12:30 PM`, Andy entered Deedy Hall Room 111 to test the classroom's hybrid audio-video infrastructure.
+- Set up a wide-angle camera and a focused speaker camera, connected his bluetooth conference speaker, and routed a red extension cord to ensure a clean path that wouldn't trip walking attendees.
+- Tested guest Wi-Fi stability between his laptop and mobile phone, confirming clear streaming bandwidth.
 
-#### Spirit Rock Arrival, Building Navigation & Room 326/328 Mix-up (3:04 PM – 4:45 PM)
-After checking in at Spirit Rock, Andy had a casual conversation with two women (fellow retreatants) trying to figure out which rooms were located in which residential building. Andy initially moved his luggage and began unpacking in room 326. When Catie (with a C) arrived to move into her assigned room, Andy realized the mix-up, scrambled to gather his gear, and relocated across the hall into his correct room, room 328.
+### Non-Striving in Community Building & Guest Teacher Vision
+- Conversing with a campus colleague (`12:38 PM – 12:45 PM`), Andy shared his grounded philosophy for launching the new mindfulness group.
+- Rather than feeling anxious about turnout, he welcomed the possibility of sitting solo: *"I'm anticipating being in the room by myself, and that's okay. In my other meditation group, nobody attended but Andrea, but I'm getting a lot out of it myself so I just continue to do it."*
+- Outlined his vision to reach out to respected Bay Area teachers, such as **James Baraz** (Spirit Rock co-founder and author of *Awakening Joy*), to give guest talks or participate in recorded dialogues.
+- Mentioned upcoming weekend family plans, including his daughter's baby shower on Saturday.
+
+#### 🕒 2:33 PM – 4:26 PM — Blog Drafting, Jewelry Errand & Grocery Run with Andrea
+
+### Creative Writing & Podcast Blueprinting
+- Working with Antigravity (`2:33 PM – 4:09 PM`), Andy organized core teachings from his notes into a draft blog post on foundational mindfulness.
+- Designed an operational outline for the *Living Mindfully Podcast*, mapping out interview themes around resilience, head-and-heart integration, and everyday practice.
+
+### Domestic Errands & Evening Prep
+- Andy and Andrea ran afternoon errands (`3:22 PM – 3:40 PM`), dropping off jewelry for repair and picking up fresh groceries.
+- Reviewed calendar dates for the coming weeks, coordinating medical follow-ups and domestic chores.
 
 ---
 
-### 🌙 Evening Session (5:01 PM – 11:00 PM)
-#### Spirit Rock Labor Day Insight Retreat: Opening Orientation & Teacher Round Robin (6:58 PM – 9:40 PM)
-* **Teachers & Leaders**: James Baraz, Howie Cohn, Dawn, Mauricio, Terry Vandiver (Movement), Eve Decker, Siddharth (Retreat Manager).
-* **Andy Status**: In noble silence (did not speak).
-* **Orientation & Housekeeping (7:29 PM – 7:40 PM)**: Siddharth provided hall orientation, listening devices, pharmacy, and schedule guidelines.
-* **Opening Reflections & Welcome (7:41 PM – 8:05 PM)**: James Baraz and Howie Cohn opened the retreat, welcoming practitioners and reading Tibetan teachings on our genuine nature and meeting all experience with compassion.
-* **Teacher Introductions (8:06 PM – 8:40 PM)**: Mauricio shared his background with Berkeley Insight; Terry Vandiver introduced mindful movement; Howie Cohn spoke on the spirit of discovery; Dawn welcomed yogis into the shelter and refuge of the Dhamma.
-* **Chanting Refuges & Five Precepts (8:43 PM – 9:01 PM)**: Eve Decker led the community chanting of the Three Refuges (Buddha, Dhamma, Sangha) and the Five Precepts.
-* **Neighbor Connection, Closing Meditation & Noble Silence (9:02 PM – 9:20 PM)**: James Baraz prompted neighbor connections, followed by a settling sit led by Dawn and Eve Decker, and James formally initiating Noble Silence at 9:20 PM.
+### 🌙 Evening Session (5:00 PM – 10:00 PM)
+
+#### 🕒 4:27 PM – 7:30 PM — Media Viewing, Weather Monitoring & Domestic Wind-Down
+
+### Flood Monitoring & Evening Media
+- Checked tide predictions and local creek sensor readings for potential autumn tidal flooding.
+- Enjoyed quiet evening reading and media viewing at home with Andrea, resting before the full schedule of Wednesday classes and Thursday's club launch.
+- Logged **4,490 steps** (2.04 miles) for the day.
 
 ---
 
 ## 🗣️ Personal Monologues & Direct Thoughts
 
-### 1️⃣ Reflections on Interpersonal Conflict, Preferences, and Sangha (10:25 AM – 10:43 AM)
-* **Context:** Reflecting while packing and preparing for silent retreat, considering relational friction within a council group.
-* **Core Monologue:** Andy examined how interpersonal conflict usually stems from rigid expectations, personalizing others' behavior, and unexamined preferences for pleasing sensory experiences. He explored the distinction between outward appearance and inner virtue, societal conditioning around belonging, and his history of feeling like a social 'chameleon.' He contrasted monastic routines with human reactivity, referencing PLUR values and Plum Village community care as an ideal vision for society grounded in compassion, cooperation, and planetary stewardship.
-* **Closing:** *"This is the end of this journal report for this day before I go on a meditation retreat and be in silence. Starting somewhere around 7 p.m."*
-
-### 2️⃣ Pre-Retreat Practice Intentions: Vipassana, Pain, & Equanimity (12:40 PM – 12:52 PM)
-* **Context:** Solo reflection one hour prior to leaving for Spirit Rock Meditation Center.
-* **Core Monologue:** Andy outlined his practical intentions for the upcoming retreat, noting he packed a single multi-outlet cord for syncing devices and planned to keep devices silenced outside of morning instructions and evening Dharma talks. He acknowledged his tendency to experience physical pain during sitting and resolved to meet it with humility and Vipassana practice rather than forcefulness or spiritual pride. He framed the retreat's central practice theme around balancing effort versus non-effort to cultivate genuine equanimity beyond pleasure and pain.
-* **Closing:** *"These are my journal insights for right now and maybe I'll come back to this at some point. So this is the end of my voice journal input at 12:52 PM."*
-
-### 3️⃣ Pre-Departure Apple Watch Audio Backup Setup (1:26 PM – 1:33 PM)
-* **Context:** Preparing final tech and audio gear 30 minutes before departure.
-* **Core Monologue:** *"Okay, so this is 1:26. I'm leaving in about 30 minutes to go to the retreat at Spirit Rock, and I'm going to update this app on my watch so that I can record talks while I am on retreat as a backup."*
-
-### 4️⃣ Transit & Cash Access Recovery via Fidelity ATM (2:32 PM – 2:42 PM)
-* **Context:** Audio note recorded en route to Spirit Rock check-in.
-* **Core Monologue:** Andy resolved an urgent cash-access problem after his Bank of America debit card was locked due to fraud alerts earlier in the morning. He successfully used his Fidelity card at an ATM to obtain cash, picked up a latte, and arrived at Spirit Rock registration by 2:40 PM—just ten minutes after the 2:30 PM check-in window opened.
+#### 🕒 12:41 PM – 12:44 PM — Campus Dialogue in Deedy Hall Rm 111
+**Contemplative Reflection — Non-Striving and Facilitation as Personal Practice**  
+*Context: Andy speaking with a campus colleague about attendance expectations for his new mindfulness group.*  
+> "I'm anticipating being in the room by myself, and that's okay. In my other meditation group, I've had nobody attend but Andrea, and that's just the way it is. But I'm getting so much out of it myself that I just continue to do it. I thought of some ideas when I was on retreat: I'm going to see if I might do a podcast, or bring in guest meditation teachers like James Baraz. Doing this keeps me engaged, keeps me practicing, and if other people find benefit in it, that's wonderful. But either way, showing up and doing the practice is its own reward."
 
 ---
 
 ## 🧘 Spiritual and Societal Insights
-- **Grounded Awareness & Present-Moment Integration**
-- **Core Observation:** Listening directly to physical body sensations calms reactivity.
-- **Systemic / Psychological Context:** Anchoring attention in somatic presence reduces cognitive proliferation (Papañca).
-- **Practical Application:** Pausing for brief somatic check-ins preserves emotional equanimity.
+
+### Non-Striving in Service and Community Building
+- **Core Observation**: When launching a community offering or creative project, we often judge its value solely by attendance numbers or external applause.
+- **Dhamma / Contemplative Framing**: In the Buddha's teaching on *Right Intention* (*sammā-saṅkappa*), actions rooted in generosity (*dāna*) and wakefulness carry intrinsic value regardless of outcome. Andy's willingness to sit in the room alone transforms facilitation from a performance into an authentic offering of presence.
+- **Practical Integration**: When offering your time or teaching, set the intention to practice for yourself first. If zero people show up, sit in silence and enjoy the stillness; if fifty show up, share the stillness with fifty.
+
+### Somatic Grounding via Qigong in Middle Age
+- **Core Observation**: Mental stress and computer work frequently manifest as chronic stiffness in the lower back, neck, and shoulders.
+- **Dhamma / Contemplative Framing**: Mindful movement like Qigong bridges the gap between seated stillness and daily activity. By synchronizing gentle physical movements with deep, unforced breath, the nervous system shifts out of sympathetic contraction into parasympathetic restoration.
+- **Practical Integration**: Dedicate 15 minutes before lunch to simple physical unwinding: gentle arm swings, spinal rotations, and deep abdominal breathing.
+
+### Clear Boundaries in Health Partnerships
+- **Core Observation**: Medical screening and diet programs often generate anxiety when perceived as punitive judgment from authority figures.
+- **Dhamma / Contemplative Framing**: Clear Seeing (*paññā*) allows us to engage healthcare systems as cooperative partners while retaining our personal autonomy. Taking responsibility for our physical vessel with kindness prevents the Second Arrow of medical shame.
+- **Practical Integration**: Approach medical intake calls with calm agency: be honest about health history, ask questions, and partner with clinicians to find sustainable, non-coercive solutions.
+
 ---
+
 ## 💬 Quoted Expressions & Catchy Phrases
+
 ### Quotes
-### Societal Truisms & Cultural Realities
-* **Verbatim Quote:** "So let me done and the mic this box here and test, test, test noise removal."
-* **Speaker:** Andrea (Wife)
-* **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
-* **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
-### Mindfulness & Contemplative Inquiry
-* **Verbatim Quote:** "if you're nice or married, give us a go to this or something or driving or somewhere between I can. pretty much constantly in contact with and I teach mindfulness meditation, so I'm pretty familiar with all that, those aspects of that."
-* **Speaker:** Andy
-* **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
-* **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
-### Mindfulness & Contemplative Inquiry
-* **Verbatim Quote:** "That's my meditation practice and all of that stuff."
-* **Speaker:** Andy
-* **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
-* **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
-### Mindfulness & Contemplative Inquiry
-* **Verbatim Quote:** "I don't even say very much about mindfulness because we're sort of demonstrating it for one another as opposed to explaining it."
-* **Speaker:** Andrea (Wife)
-* **Core Insight:** Reflects an intentional shift from reactive thinking to non-judgmental present-moment observation.
-* **Somatic / Relational Context:** Emerged during personal reflection on stress management and mental clarity.
-### Societal Truisms & Cultural Realities
-* **Verbatim Quote:** "Good morning, I'm Barry, and busy week we'll see another wave of family."
-* **Speaker:** Andrea
-* **Core Insight:** Points out a fundamental truth about modern society, human nature, and cultural distraction.
-* **Somatic / Relational Context:** Prompted by observing public behavior, modern pace, and collective social dynamics.
+- *"I'm anticipating being in the room by myself, and that's okay... I'm getting a lot out of it myself so I just continue to do it."* — **Andy McGuire** (*Classroom testing in Deedy Hall*, `12:41 PM`)
+- *"Showing up and doing the practice is its own reward."* — **Andy McGuire** (*Discussing club facilitation*, `12:43 PM`)
+
 ### Catchy Phrases & Key Sayings
-- *No high-value catchy phrases recorded today.*
-### Notable Names Mentioned
-- *No public figures or notable historical figures referenced today.*
+- **"Sitting for the practice, not the crowd"** — Andy's non-striving attitude toward community facilitation (`12:41 PM`).
+- **"Safe routing"** — Taping down extension cords to create a worry-free physical space (`12:40 PM`).
+
+### Notable Names & Works Mentioned
+- **Will Meecham** — ESCOM peer facilitator who coordinated campus room codes and equipment advice (`8:29 AM`, `10:08 AM`).
+- **Michael Lindbeck (Lucky)** — ESCOM coordinator assisting with room reservations and campus logistics (`8:29 AM`).
+- **James Baraz (*Awakening Joy*)** — Renowned Spirit Rock founding teacher whom Andy plans to invite as a guest speaker (`12:42 PM`).
+- **College of Marin (Kentfield Campus)** — Location of Elizabeth Deedy Hall Room 111 where the Living Mindfully ESCOM Club meets.
+
 ---
+
 ## 📚 Stories & Case Examples Shared
-### Cultivating Empathy vs Remote Isolation
-* **Narrative Context:** Andy discussing social empathy, judgment, and emotional boundaries during a domestic reflection.
-* **The Key Passage (Verbatim):**
-> "Unknown: And this is what we call activating the shoes."
-* **The Human / Contemplative Tension:** Balancing personal peace with remaining open to others' genuine suffering without becoming cynical.
-* **The Turning Point / Realization:** Realizing that judging others' unskillful behavior is itself a subtle trap of isolation.
-* **Universal Truth / Teaching:** True compassion requires stepping into another's shoes while maintaining clear, grounded awareness.
-### Cultivating Empathy vs Remote Isolation
-* **Narrative Context:** Andy discussing social empathy, judgment, and emotional boundaries during a domestic reflection.
-* **The Key Passage (Verbatim):**
-> "Finding Compassion Amid Physical Hardship"
-* **The Human / Contemplative Tension:** Balancing personal peace with remaining open to others' genuine suffering without becoming cynical.
-* **The Turning Point / Realization:** Realizing that judging others' unskillful behavior is itself a subtle trap of isolation.
-* **Universal Truth / Teaching:** True compassion requires stepping into another's shoes while maintaining clear, grounded awareness.
-### Cultivating Empathy vs Remote Isolation
-* **Narrative Context:** Andy discussing social empathy, judgment, and emotional boundaries during a domestic reflection.
-* **The Key Passage (Verbatim):**
-> "His practice is to relax, meet experience compassionately, and focus on how good breathing can feel."
-* **The Human / Contemplative Tension:** Balancing personal peace with remaining open to others' genuine suffering without becoming cynical.
-* **The Turning Point / Realization:** Realizing that judging others' unskillful behavior is itself a subtle trap of isolation.
-* **Universal Truth / Teaching:** True compassion requires stepping into another's shoes while maintaining clear, grounded awareness.
-### The Raw Power of Nature at Hot Pots & Waterfalls
-* **Narrative Context:** Andy recalling a recent trip to a local waterfall and hot springs.
-* **The Key Passage (Verbatim):**
-> "Family discussion touched on an upcoming baby shower and the traditional nature of the other family involved; Andy said he does not feel intimidated by potential conversations around the pregnancy or marriage."
-* **The Human / Contemplative Tension:** Contrast between daily technical routines and the overwhelming force of flooded natural waters.
-* **The Turning Point / Realization:** Feeling awed and grounded by the unscheduled immensity of nature.
-* **Universal Truth / Teaching:** Immersing oneself in nature breaks static mental conditioning and restores awe.
-### Relational Warmth in Medical Care & Body Management
-* **Narrative Context:** Andy reflecting on a recent medical consultation and checkup at Kaiser Permanente in San Rafael.
-* **The Key Passage (Verbatim):**
-> "Unknown: It's behind St. Helena Hospital cute little town hot fire and we went through that area but a really cute area."
-* **The Human / Contemplative Tension:** Managing ongoing health challenges, weight concerns, and medication adjustments.
-* **The Turning Point / Realization:** Experiencing open, friendly dialogue with healthcare providers that replaced medical anxiety with collaborative trust.
-* **Universal Truth / Teaching:** Empathy and human warmth in therapeutic interactions significantly reduce bodily tension and fear.
+
+### [12:35 PM – 12:45 PM] Setting Up Deedy Hall: The Practice of Preparedness Without Grasping
+- On Tuesday afternoon, Andy arrived at College of Marin's Kentfield campus to conduct a thorough dry run of his hybrid technology setup in Elizabeth Deedy Hall Room 111.
+- Methodically unpacking dual cameras, microphones, and extension cords, he took care to route cables safely along the baseboards to ensure attendees could walk freely without danger.
+- When chatting with a campus colleague who expressed hope that the new club would attract a large crowd, Andy smiled and shared that his peace is not contingent on attendance numbers. Recalling times when only he and Andrea sat in meditation, he affirmed that holding the space and deepening his own practice is completely fulfilling in itself.
+
 ---
-## 🧠 Physical & Mental Challenges
-| Category | Description |
-| :--- | :--- |
-| **Mental / Emotional** | Managing urgency and anxiety surrounding Bank of America debit card fraud and ATM cash recovery right before entering retreat; navigating feelings around relational friction and social conditioning; handling the embarrassing scramble of unpacking in the wrong room (Room 326) and relocating across the hall to Room 328 when Catie arrived. |
-| **Physical / Sensory** | Working skillfully with chronic sitting pain and tension anticipated during extended retreat meditation; balancing posture, somatic humility, and intentional effort vs. non-effort. |
+
+## 🧠 Physical & Mental Challenges, & Effects on Practice
+
+### Lower Back Tightness & Desk Fatigue
+- Extended computer work and driving generated stiffness in Andy's lower back and hips.
+- He adapted by integrating 45 minutes of mid-morning Qigong and mindful stretching, alleviating tension before heading to campus.
+
+### Vulnerability in Health Intake & Lifestyle Autonomy
+- Engaging in Kaiser's weight loss program intake brought up natural feelings of vulnerability regarding health metrics and thyroid management.
+- Andy maintained grounded self-compassion, focusing on practical lifestyle adjustments (consistent walking, mindful nutrition) rather than rigid metrics.
+
+| Challenge / Somatic Signal | Person | Time Window | Mindful Response / Practice Adaptation |
+| :--- | :--- | :--- | :--- |
+| **Lower Back Stiffness** | Andy | `10:50 AM – 11:30 AM` | Practiced gentle Qigong and mindful breathing; restored flexibility. |
+| **Performance Anxiety over Club Attendance** | Andy | `12:35 PM – 12:45 PM` | Reoriented toward non-striving; recognized practice as its own reward. |
+| **Campus AV Hardware Friction** | Andy | `12:30 PM – 1:15 PM` | Methodically tested connections; safely routed power cords. |
 
 ---
 
 ## 📻 Miscellaneous Media & References Encountered
-### Music & Audio
-- *No specific music or audio tracks cataloged today.*
-### Film, Video & TV Shows
-- *No specific film or video media recorded today.*
-### News & Current Events
-- *No specific news media recorded today.*
+
+### 🎙️ Podcasting & Contemplative Media Strategy
+- **Living Mindfully Podcast Blueprint (`4:09 PM`)**: Strategic operational outline developed with Antigravity to feature dialogues with Bay Area meditation leaders.
+- **Awakening Joy by James Baraz (`12:42 PM`)**: Referenced as an aspirational guest collaboration for upcoming club sessions.
+
 ---
-*Report automatically generated on 2026-09-23 03:04:24*
+*Krisp-Timeline Daily Report automatically generated on 2026-10-16 19:00:00*

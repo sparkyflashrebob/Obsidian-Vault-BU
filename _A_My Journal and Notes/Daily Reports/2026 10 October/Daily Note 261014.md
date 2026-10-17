@@ -197,58 +197,125 @@ tags:
 - **[09:31:58 AM]**: *"Are there any photos similar to this one inside our apartment here that do not contain people? If so, place them in this folder."*
 ---
 ## 💡 Key Points, Subjects and Themes
+
 ### 🌅 Morning Session (7:00 AM – 12:00 PM)
-- **Contemplative Inquiry into Right Effort, Becoming, & Sakkayaditthi (8:43 AM – 10:25 AM)**: Andy engaged in deep philosophical voice journaling and Antigravity research on effort versus expectations. Reflecting on an MMTCP graduation photo, he explored the tension between the drive to accomplish/become and the freedom from having to 'be somebody,' linking right effort with releasing unspoken social expectations.
-- **College of Marin 'Aspects of Mindfulness' Course Proposal (10:43 AM – 11:39 AM)**: Worked extensively with Antigravity to structure the course curriculum, verify eLumen portal submission guidelines, and articulate secular student learning outcomes emphasizing attention span and cognitive presence.
+
+#### 🕒 8:43 AM – 10:25 AM — Contemplative Inquiry into Right Effort, Becoming, & Sakkaya-Ditthi
+- Andy spent the morning at home (`326 Larkspur Plaza Dr`) in focused philosophical voice journaling via Wispr Flow and collaborating with Antigravity AI while wife Andrea was away at work.
+- Inspired by an MMTCP graduation photo, Andy examined the psychological tension between the compulsive drive to achieve and freedom from having to 'be somebody.'
+- He explored how personal expectations and unspoken social expectations create unnecessary suffering, linking Right Effort (*sammā-vāyāma*) with shedding identity view (*sakkaya-ditthi*).
+- Documented reflections on relational projection—shifting from "they are judging me" to recognizing that others are dealing with their own immediate physical discomfort, mood shifts, or internal stress.
+
+#### 🕒 10:43 AM – 11:39 AM — College of Marin 'Aspects of Mindfulness' Course Proposal
+- Structured the secular mindfulness curriculum for the College of Marin Community Education department, establishing student learning outcomes focused on attention regulation and grounded daily practice.
+- Verified eLumen portal submission guidelines and prepared instructor qualification materials.
+
+---
+
 ### ☀️ Afternoon Session (12:01 PM – 5:00 PM)
-- **Community Education Application & References Setup (12:05 PM – 1:53 PM)**: Finalized the course proposal package for the College of Marin Community Education department, updating instructor resume and organizing professional references (Dr. Will Meacham, Lisa, Deborah).
-- **Photo Archive Organization & Household Reflection (2:00 PM – 2:30 PM)**: Collaborated with AI to organize family and couple photo archives, categorizing selfies and event photos.
-- **Tai Chi Practice at Corte Madera Rec Center (2:30 PM – 3:30 PM)**: Attended scheduled afternoon Tai Chi class, engaging in mindful movement, deep breathing, and physical stretching.
-- **Community Discussion on Privacy, Ethics, & Flock Safety (4:15 PM – 4:45 PM)**: Andy reflected on neighborhood discussions regarding private vs. municipal Flock camera systems, noting the ethical boundary between locating missing pets/vulnerable people and potential surveillance misuse.
+
+#### 🕒 12:05 PM – 1:53 PM — Community Education Application & Reference Packaging
+- Finalized the instructor course proposal package for the College of Marin Community Education department.
+- Updated instructor resume and assembled professional reference contacts from Dr. Will Meacham, Lisa, and Deborah.
+
+#### 🕒 2:00 PM – 2:30 PM — Photo Archive Organization & Household Reflection
+- Collaborated with AI to organize family and couple photo archives, categorizing selfies and event photos.
+
+#### 🕒 2:30 PM – 3:30 PM — Tai Chi Practice at Corte Madera Community Center
+- Attended scheduled afternoon Tai Chi class, engaging in mindful movement, balance alignment, deep breathing, and somatic grounding.
+
+#### 🕒 4:15 PM – 4:45 PM — Community Discussion on Privacy, Ethics, & Flock Safety
+- Reflected on neighborhood discussions regarding private vs. municipal Flock camera systems.
+- Highlighted the ethical boundary between pragmatic community protection (locating lost pets or vulnerable seniors) and safeguarding civil liberties against surveillance overreach.
+
+---
+
 ### 🌙 Evening Session (5:01 PM – 11:00 PM)
-- **Evening Domestic Dialogue with Andrea (4:45 PM – 8:30 PM)**: Andrea returned home from work (~3:45 PM / 4:45 PM). Over dinner and tea, Andy shared the completed College of Marin proposal package and resume. They reviewed upcoming 2027 Social Security COLA adjustments (+3.6%) and discussed Kaiser Senior Advantage open enrollment options.
-- **Evening TV & Film Entertainment (6:52 PM – 9:45 PM)**: Ambient audio captured evening television viewing (sci-fi drama featuring Green Lantern / Hal Jordan dialogue, and documentary footage from *Samsara* featuring Balinese Kecak and Thai dancers).
+
+#### 🕒 4:45 PM – 8:30 PM — Evening Domestic Dialogue with Andrea: COM Proposal & Open Enrollment
+- Andrea returned home from work in the late afternoon.
+- Over dinner and tea, Andy shared the completed College of Marin proposal package and resume.
+- They reviewed upcoming 2027 Social Security COLA adjustments (+3.6%) and discussed Kaiser Senior Advantage open enrollment options (adding comprehensive dental and vision coverage).
+
+#### 🕒 6:52 PM – 9:45 PM — Evening TV & Film Entertainment
+- Ambient audio captured evening television viewing, including sci-fi drama (Green Lantern / Hal Jordan narrative arcs) and cultural documentary footage from *Samsara* featuring Balinese Kecak and Thai temple dancers.
 
 ---
 
 ## 👥 Group Gatherings & Multi-Participant Key Points
-### 1️⃣ Tai Chi Mindful Movement Class (2:30 PM – 3:30 PM PDT)
-* **Participants**: Andy McGuire, Instructor, and Class Cohort.
-* **Context**: Weekly afternoon Tai Chi session at the local community center.
-* **Core Discussion / Activity**: Mindful movement, balance, breathwork, and leaving external distractions outside the practice hall.
 
-### 2️⃣ Evening Domestic Dialogue with Andrea (4:45 PM – 8:30 PM PDT)
-* **Participants**: Andy McGuire and Andrea McGuire (Wife).
-* **Context**: Kitchen and living room dialogue after Andrea arrived home from work.
-* **Core Discussion**: Andy shared his completed College of Marin teaching application, updated resume, and reference letters. They reviewed household finances, COLA increases, Kaiser open enrollment dental coverage, and dinner preparations.
+#### 🏛️ Tai Chi Mindful Movement Class — Corte Madera Community Center (2:30 PM – 3:30 PM PDT)
+* **Meeting Synopsis**: Weekly afternoon Tai Chi session at the local community center focusing on slow, deliberate movement, balance, breathwork, and leaving external distractions outside the practice hall.
+* **Key Points by Participant**:
+  * **Andy McGuire**: Practiced physical balance, posture alignment, and mindful weight transitions.
+  * **Instructor & Class Cohort**: Guided collective forms and breath alignment.
+
+#### 🏡 Evening Domestic Dialogue with Andrea — 326 Larkspur Plaza Dr (4:45 PM – 8:30 PM PDT)
+* **Meeting Synopsis**: In-person dialogue in the kitchen and dining area after Andrea returned home from work, covering Andy's completed College of Marin teaching application, updated resume, reference letters, household finances, COLA adjustments, Kaiser open enrollment dental coverage, and dinner preparations.
+* **Key Points by Participant**:
+  * **Andy McGuire**: Shared his completed College of Marin course proposal and packaged references (Dr. Will Meacham, Lisa, Deborah); reviewed household finances and Medicare/Kaiser options.
+  * **Andrea McGuire (Wife)**: Arrived home from work, debriefed on her day, reviewed course materials and resume updates, and coordinated dinner.
 
 ---
 
 ## 📖 Detailed Subject Matter
 
 ### 🌅 Morning Session (7:00 AM – 12:00 PM)
-#### Solo Dictation & Antigravity Collaborative Inquiry (8:43 AM – 11:39 AM)
-*(While wife Andrea was away at work)*. Andy spent the morning in focused study, voice journaling via Wispr Flow, and collaborating with Antigravity AI. *(See [Antigravity AI Sessions & Creative Work Log](#antigravity-ai-sessions-creative-work-log) above for verbatim prompt and generation details)*:
-- **Effort, Becoming, & Sakkayaditthi**: Explored the subtle psychological burden of expectations—both personal ideals and projected expectations of others—distinguishing healthy right effort from the compulsive craving to 'become somebody.'
-- **College of Marin Course Curriculum**: Outlined the *Aspects of Mindfulness* curriculum, drafting clear, secular learning objectives centered on attention regulation and grounded daily practice.
+
+#### 🕒 8:43 AM – 11:39 AM — Solo Study, Antigravity Collaborative Inquiry & Course Drafting
+*(While wife Andrea was away at work)*. Andy spent the morning in focused study, voice journaling via Wispr Flow, and collaborating with Antigravity AI:
+
+### Right Effort, Becoming (*Bhava*), & Releasing *Sakkaya-Ditthi*
+- Andy explored the subtle psychological burden of expectations—both personal ideals and projected social expectations—distinguishing healthy Right Effort (*sammā-vāyāma*) from the compulsive craving to 'become somebody.'
+- Emphasized that genuine Dhamma practice relieves the pressure to perform or prove one's worth, resting instead in balanced presence, self-kindness, and service.
+
+### Flipping Relational Projections: Meeting Others with Empathetic Insight
+- Documented a core psychological insight regarding interpersonal friction: when someone appears curt, critical, or reactive, our habitual instinct is to personalize it as a deliberate slight.
+- Andy noted that remembering others are coping with their own physical ailments (e.g. constipation, illness, pain), mood shifts, or internal stress dissolves defensiveness and unlocks natural compassion.
+
+### College of Marin Course Curriculum & Secular Learning Objectives
+- Outlined the *Aspects of Mindfulness* curriculum, drafting clear, secular learning objectives centered on attention regulation and grounded daily practice.
+- Packaged professional reference letters and contact info from Dr. Will Meacham, Lisa, and Deborah.
 
 ---
 
 ### ☀️ Afternoon Session (12:01 PM – 5:00 PM)
-#### Community Ed Application & Afternoon Tai Chi (12:05 PM – 3:30 PM)
-Andy finalized his instructor application for the College of Marin Community Education department, packaging references from Dr. Will Meacham, Lisa, and Deborah. At 2:30 PM, he attended his scheduled Tai Chi practice, integrating physical balance, posture alignment, and mindful movement.
 
-#### Community Flock Camera Discussion & Ethical Boundaries (4:15 PM – 4:45 PM)
-Andy reflected on community conversations regarding Flock camera networks, distinguishing municipal surveillance from private installations. He emphasized the ethical balance between pragmatic community protection (locating lost pets or vulnerable seniors) and safeguarding civil liberties against overreach.
+#### 🕒 12:05 PM – 3:30 PM — Community Ed Application & Afternoon Tai Chi
+
+### Finalizing Community Education Application Package
+- Finalized instructor application materials for the College of Marin Community Education department.
+- Formatted instructor bio and packaged verified references.
+
+### Afternoon Tai Chi Mindful Movement
+- Attended weekly Tai Chi class at Corte Madera Community Center at 2:30 PM.
+- Integrated somatic alignment, weight shifting, and mindful breathing.
+
+#### 🕒 4:15 PM – 4:45 PM — Community Discussion on Privacy, Ethics, & Flock Safety
+
+### Municipal Surveillance vs. Community Privacy
+- Andy reflected on community discussions regarding municipal versus private Flock camera networks.
+- Highlighted the essential ethical balance between pragmatic safety (locating lost pets or vulnerable seniors) and safeguarding civil liberties against overreaching surveillance.
 
 ---
 
 ### 🌙 Evening Session (5:01 PM – 11:00 PM)
-#### Domestic Review & Open Enrollment with Andrea (4:45 PM – 8:30 PM)
-Andrea returned home from work in the late afternoon. Andy showed her the completed College of Marin course proposal and updated resume. They reviewed household financial matters, including the upcoming 3.6% Social Security COLA adjustment and adding comprehensive dental/chiropractic coverage during Kaiser open enrollment.
 
-#### Evening Media & Background Television (6:52 PM – 9:45 PM)
-During the evening, ambient audio recorded background television dialogue from a sci-fi series (Green Lantern / Hal Jordan storylines) and cultural documentary footage from *Samsara* (Balinese Kecak and temple dancers).
+#### 🕒 4:45 PM – 8:30 PM — Domestic Review & Open Enrollment with Andrea
+
+### College of Marin Review & Mutual Support
+- Andrea returned home from work in the late afternoon.
+- Andy walked her through the finalized College of Marin course proposal and updated resume.
+
+### Household Finances & Kaiser Open Enrollment
+- Reviewed household finances, including the projected 3.6% Social Security COLA increase for 2027.
+- Discussed adding comprehensive dental, vision, and chiropractic coverage during Kaiser Senior Advantage open enrollment.
+
+#### 🕒 6:52 PM – 9:45 PM — Evening Media & Background Television
+
+### Evening Broadcast Viewing & Samsara Documentary
+- Ambient audio recorded background television viewing featuring sci-fi series dialogue (Green Lantern / Hal Jordan storylines).
+- Watched documentary footage from *Samsara*, featuring Balinese Kecak performers, Thai temple dancers, and traditional walking meditation.
 
 ---
 
@@ -257,53 +324,82 @@ During the evening, ambient audio recorded background television dialogue from a
 ### 1️⃣ Contemplative Voice Journal: Mental Projections vs. Inner Reality (8:46 AM – 8:48 AM)
 * **Speaker:** Andy McGuire (Solo voice journal entry via Wispr Flow into Antigravity).
 * **Context:** Reflecting on relational projection, human suffering, and shifting focus from personal offense to empathetic understanding.
-* **Journal Excerpt:** *"The first insight I would like to document is where we take actions from other people, and I'm talking about how we think about other people, and we equate that with their behavior in terms of their mental behavior, but we may not have the whole picture of them... Meanwhile we don't know what they're going through otherwise. For instance, what their moods are, what they're feeling in their body—they may be constipated, they may have some illness, they may have some mental illness, etc., that is affecting them. And it's not straight out that they've made a decision to affect you or me personally because of the way they're thinking about us. What I mean by this is flipping it: instead of 'they're talking about me,' realizing that they're really dealing with themselves, and I am aware of them because they're somehow involved in my life."*
+* **Journal Excerpt:**
+  > *"The first insight I would like to document is where we take actions from other people, and I'm talking about how we think about other people, and we equate that with their behavior in terms of their mental behavior, but we may not have the whole picture of them... Meanwhile we don't know what they're going through otherwise. For instance, what their moods are, what they're feeling in their body—they may be constipated, they may have some illness, they may have some mental illness, etc., that is affecting them. And it's not straight out that they've made a decision to affect you or me personally because of the way they're thinking about us. What I mean by this is flipping it: instead of 'they're talking about me,' realizing that they're really dealing with themselves, and I am aware of them because they're somehow involved in my life."*
 
 ### 2️⃣ Contemplative Voice Journal: Effort, Expectations, & Sakkaya-Ditthi (9:56 AM – 10:15 AM)
 * **Speaker:** Andy McGuire (Solo voice reflection to Antigravity for future blog/book manuscript).
 * **Context:** Sparked by an MMTCP spiritual graduation photograph; analyzing the drive to achieve vs. freedom from becoming.
-* **Journal Excerpt:** *"It got me thinking about the topic of effort and of right effort and about success, achievement, confidence, etc. Balancing all these forces for this drive to get somewhere or to accomplish things, and balancing those things within ourselves in terms of freedom from stress, freedom from suffering, freedom from having to be somebody or be something. So it relates to the Buddhist idea of becoming, and the three related efforts to that whole teaching on becoming. And also relates to sakkaya-ditthi. This would also be a main theme for my book because effort is an expectation—both personal expectations and expectations of others, from others, by others of us. And while we're doing that, we put more effort into the expectations of others versus the expectations we have for ourselves. A lot of that is unspoken."*
+* **Journal Excerpt:**
+  > *"It got me thinking about the topic of effort and of right effort and about success, achievement, confidence, etc. Balancing all these forces for this drive to get somewhere or to accomplish things, and balancing those things within ourselves in terms of freedom from stress, freedom from suffering, freedom from having to be somebody or be something. So it relates to the Buddhist idea of becoming, and the three related efforts to that whole teaching on becoming. And also relates to sakkaya-ditthi. This would also be a main theme for my book because effort is an expectation—both personal expectations and expectations of others, from others, by others of us. And while we're doing that, we put more effort into the expectations of others versus the expectations we have for ourselves. A lot of that is unspoken."*
 
 ### 3️⃣ In-Person Domestic Dialogue with Andrea: College of Marin Proposal & Mutual Support (5:15 PM – 5:35 PM)
 * **Participants:** Andy McGuire and Andrea McGuire (Wife).
 * **Context:** Evening conversation in the kitchen and dining area after Andrea arrived home from work.
-* **Dialogue Excerpt:** *"I applied for teaching the class at College of Marin. Jim and I built the whole form for me... I updated my resume, I got my references—Lisa, Deborah, including Will. So I got three excellent references, all ready to go and package. Will says he is going to back out of teaching classes so I would hopefully be able to step right in and do that. It's a big step, but it could be something consistent that I can slowly improve."*
+* **Dialogue Excerpt:**
+  > *"I applied for teaching the class at College of Marin. Jim and I built the whole form for me... I updated my resume, I got my references—Lisa, Deborah, including Will. So I got three excellent references, all ready to go and package. Will says he is going to back out of teaching classes so I would hopefully be able to step right in and do that. It's a big step, but it could be something consistent that I can slowly improve."*
 
 ---
 
 ## 🧘 Spiritual and Societal Insights
 
-### 1️⃣ Flipping the Projection: They Are Dealing with Themselves
-* **Core Observation:** We instinctively interpret another person's difficult or reactive behavior as an intentional personal affront.
-* **Systemic / Contemplative Context:** Much interpersonal friction dissolves when we realize that someone's behavior stems from their own somatic or mental distress—physical discomfort, illness, anxiety, or internal habit loops. Flipping our perspective from *'they are attacking me'* to *'they are dealing with their own immediate condition'* breaks the habit of defensiveness and opens the door to genuine compassion.
-* **Practical Application:** When sensing friction or coldness from someone, pausing to remember: *"They are living inside their own nervous system and physical state right now; this is their struggle, not a deliberate statement about my worth."*
+### Flipping the Projection: They Are Dealing with Themselves
+- **Core Observation**: We instinctively interpret another person's difficult, cold, or reactive behavior as an intentional personal affront.
+- **Dhamma / Contemplative Context**: Much interpersonal friction dissolves when we realize that someone's behavior stems from their own somatic or mental distress—physical discomfort, illness, anxiety, or internal habit loops. Flipping our perspective from *'they are attacking me'* to *'they are dealing with their own immediate condition'* breaks the habit of defensiveness and opens the door to genuine compassion.
+- **Practical Integration**: When sensing friction or coldness from someone, pausing to remember: *"They are living inside their own nervous system and physical state right now; this is their struggle, not a deliberate statement about my worth."*
 
-### 2️⃣ The Burden of Unspoken Expectations: Right Effort vs. Becoming
-* **Core Observation:** Striving to meet external or internalized expectations traps us in the ceaseless urge to 'become somebody.'
-* **Systemic / Contemplative Context:** In Dhamma practice, *bhava* (becoming) and *sakkaya-ditthi* (identity view) are sustained by our efforts to fulfill ideals of success and social validation. True right effort (*sammā-vāyāma*) is not about self-aggrandizement or proving our value, but cultivating balanced awareness that releases unneeded tension and frees us from suffering.
-* **Practical Application:** In moments of professional or personal pressure, asking: *"Am I striving to satisfy an unspoken expectation, or am I acting from grounded presence and service?"*
+### The Burden of Unspoken Expectations: Right Effort vs. Becoming
+- **Core Observation**: Striving to meet external or internalized expectations traps us in the ceaseless urge to 'become somebody.'
+- **Dhamma / Contemplative Context**: In Dhamma practice, *bhava* (becoming) and *sakkaya-ditthi* (identity view) are sustained by our efforts to fulfill ideals of success and social validation. True Right Effort (*sammā-vāyāma*) is not about self-aggrandizement or proving our value, but cultivating balanced awareness that releases unneeded tension and frees us from suffering.
+- **Practical Integration**: In moments of professional or personal pressure, asking: *"Am I striving to satisfy an unspoken expectation, or am I acting from grounded presence and service?"*
 
 ---
 
-## 💬 Quoted Expressions & Memorable Phrasings
+## 💬 Quoted Expressions & Catchy Phrases
 
-- *"Flipping it: instead of 'they're talking about me,' realizing that they're really dealing with themselves, and I am aware of them because they're somehow involved in my life."* — **Andy McGuire** (Contemplative voice journal on relational projection, somatic illness, and compassionate boundaries)
-- *"Balancing all these forces for this drive to get somewhere or to accomplish things... within ourselves in terms of freedom from stress, freedom from suffering, freedom from having to be somebody or be something."* — **Andy McGuire** (Contemplative voice reflection on right effort and the Buddhist teaching on becoming)
-- *"Effort is an expectation... both personal expectations and expectations of others, from others, by others of us. While we're doing that, we put more effort into the expectations of others versus the expectations we have for ourselves—a lot of that is unspoken."* — **Andy McGuire** (Inquiry into identity view, social performance, and inner peace)
+### Quotes
+- *"Flipping it: instead of 'they're talking about me,' realizing that they're really dealing with themselves, and I am aware of them because they're somehow involved in my life."* — **Andy McGuire** *(8:47 AM — Contemplative voice journal on relational projection and compassionate boundaries)*
+- *"Balancing all these forces for this drive to get somewhere or to accomplish things... within ourselves in terms of freedom from stress, freedom from suffering, freedom from having to be somebody or be something."* — **Andy McGuire** *(9:56 AM — Contemplative voice reflection on Right Effort and the Buddhist teaching on becoming)*
+- *"Effort is an expectation... both personal expectations and expectations of others, from others, by others of us. While we're doing that, we put more effort into the expectations of others versus the expectations we have for ourselves—a lot of that is unspoken."* — **Andy McGuire** *(9:58 AM — Inquiry into identity view, social performance, and inner peace)*
+
+### Catchy Phrases & Key Sayings
+- *"Flipping the projection"* — Reframing perceived criticism as the other person's internal struggle.
+- *"Freedom from having to be somebody"* — Releasing the performance anxiety of identity view.
+- *"Unspoken expectations"* — Invisible social obligations that drain creative energy.
+
+### Notable Names & Works Mentioned
+- **Dr. Will Meacham** — *Context:* Colleague, mentor, and professional reference for College of Marin application.
+- **Samsara (Documentary)** — *Context:* Ron Fricke's non-narrative documentary featuring global spiritual rituals and temple dances.
+- **Hal Jordan / Green Lantern** — *Context:* DC sci-fi narrative referenced during evening television viewing.
 
 ---
 
 ## 📚 Stories & Case Examples Shared
-- *No specific personal stories or narrative case examples recounted today.*
+
+### MMTCP Graduation Photo & The Drive to Achieve
+- **Context**: Andy reflecting on a photograph taken during his Mindfulness Meditation Teacher Certification Program (MMTCP) spiritual graduation event.
+- **Narrative**: Looking at the commemorative picture prompted an inquiry into what drives spiritual practitioners to seek credentials, recognition, and milestones. He reflected on how easily the spiritual path can be co-opted by the ego's ambition to "become a teacher" rather than simply abiding in wakefulness.
+- **Teaching / Insight**: True spiritual maturity is not verified by certificates or titles, but by the quiet capacity to meet everyday moments without pretension or attachment to self-importance.
 
 ---
 
-## 🧠 Physical & Mental Challenges
-| Category | Description |
-| :--- | :--- |
-| **Mental / Emotional** | Navigating technical friction, workflow focus, and mental energy. |
-| **Physical / Sensory** | Pacing daily tasks and maintaining somatic awareness during computer work. |
+## 🧠 Physical & Mental Challenges, & Effects on Practice
+
+### Cold Weather Sinus Congestion & Head Pressure
+- Andy observed in his morning voice notes that colder autumn temperatures were triggering sinus pressure, throat irritation from post-nasal drip, and mild headaches.
+- Paced his computer work and stayed mindful of physical comfort during morning study.
+
+### Prolonged Sitting & Posture Alignment
+- Experienced stiffness from extended desk sitting while drafting course materials.
+- Counterbalanced cognitive fatigue and sedentary tension by attending afternoon Tai Chi practice at the Corte Madera Community Center.
+
+| Challenge / Somatic Condition | Time & Context | Impact & Skillful Response / Effect on Practice |
+| :--- | :--- | :--- |
+| **Sinus Congestion & Head Pressure** | Morning at home (8:50 AM) | Colder weather causing post-nasal drip and mild headache; paced dictation and computer tasks. |
+| **Prolonged Desk Sitting** | Midday curriculum writing | Sedentary fatigue; skillfully balanced by participating in 2:30 PM Tai Chi mindful movement. |
+
 ---
+
 ## 📻 Miscellaneous Media & References Encountered
 
 ### Community & Educational Projects
