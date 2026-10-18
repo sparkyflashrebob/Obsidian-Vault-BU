@@ -6,44 +6,52 @@ tags:
   - daily-notes
   - home-monitoring
   - household-logistics
+  - jim-boo-tribute
+  - krisp-daily-summary
+  - living-mindfully
   - logging
+  - mindfulness
   - obsidian
   - personal-development
   - recovery
   - recovery-program
-  - temperature
+  - surrender-healing
+  - vision-quest
   - workflow
   - bee-nlm-report
-  - krisp-daily-summary
 ---
 
-# Addiction Recovery: Surrender and Healing, Recovery meeting gratitude and tolerance, and Meeting attendance documentation challenges
+# 📅 Daily Note 260822 — Addiction Recovery: Surrender and Healing, Jim Boo Tribute & First Vision Quest Council
 
 📅 **Date**: Saturday, August 22, 2026 (2026-08-22)
-👥 **Attendees**: Andrea (Wife), Andrea (Wife), Andy
-🎙️ **Primary Data Source**: **Plaud Local PC Ingest (Direct API + Local Whisper AI)**
-📊 **Plaud Sessions Processed (PRIMARY)**: **1**
+👥 **Attendees**: Andrea (Wife), Andy, Recovery Group Fellows (Mike [Secretary], Justin, Lee, Don Raymond, Pam, Bernie, Stephen D, Neha, Russ), Vision Quest Circle (Kevin, Denise, Tina, Mark, Joe)
+🎙️ **Primary Data Source**: **Plaud Local PC Ingest (Direct API + Local Whisper AI) & Bee Secondary Backup**
+📊 **Linearity Sessions Processed (PRIMARY)**: **0**
+📊 **Plaud Sessions Processed (PRIMARY)**: **12**
+📊 **Krisp Meeting Sessions Processed (PARALLEL)**: **2**
 📊 **Bee Sessions Processed (SECONDARY BACKUP)**: **14**
+🔄 **Report Revision Date**: **2026-10-17 23:58:00 PDT**
 
 ### ⚙️ Pipeline Status & Data Ingestion Log
-- ⚡ **Plaud Direct Ingest**: ✅ **Active** (0 Cloud Minutes Spent, 0 Phone Taps Needed)
+- ⚡ **Plaud Direct Ingest**: ✅ **Active** (12 Audio Sessions Processed; Early Morning AA Meeting & Evening VQ Ceremony Captured)
 - 🎙️ **Local Whisper AI Transcripts**: ✅ **Active**
-- 🐝 **Bee Secondary Backup**: ✅ **Active** (Gap-Filling Only)
+- 🐝 **Bee Secondary Backup**: ✅ **Active** (14 Ambient Sessions Processed)
 - 📧 **Gmail & Financial Ingest**: ✅ **Active**
-- 📅 **Google Calendar**: ✅ **Active**
+- 📅 **Google Calendar**: ✅ **Active** (First VQ Prep Meeting at 5:00 PM)
+- 🗣️ **Speaker Verification**: ✅ All frequent speakers identified (Andy, Andrea, Mike, Justin, Don Raymond, Pam, Bernie, Stephen D, Neha, Kevin, Denise, Tina, Mark, Joe)
 
 ---
 
 ## 📌 Executive & Core Topics Overview
-- **Core Topics**: #household-logistics, #recovery-program
-- **Entities & Terms**: #12-step-framework, #ambient-sensors
-- **Key Actions**: #home-monitoring, #personal-development
-- **Keywords**: #bee-reports, #daily-notes, #logging, #obsidian, #recovery, #temperature, #workflow
+- **Core Topics**: #recovery-program, #surrender-healing, #vision-quest, #living-mindfully, #household-logistics
+- **Entities & Terms**: #12-step-framework, #jim-boo-tribute, #first-vq-prep-meeting, #st-helena-rehab, #dominican-club
+- **Key Actions**: #morning-meeting-share, #buddhist-mustard-seed-parable, #four-directions-altar, #social-security-estimate
+- **Keywords**: #bee-reports, #daily-notes, #logging, #obsidian, #recovery, #krisp-daily-summary
 
 ---
 
 ## 📅 Google Calendar Events Today
-- **First VQ prep meeting** (5:00 PM)
+- **First VQ prep meeting** (5:00 PM – 6:30 PM) with Andrea Axtell at home, 326 Larkspur Plaza Dr, Larkspur, CA [✨ Join Meet](https://meet.google.com/nqh-jmxe-iev) [📅 View event](https://www.google.com/calendar/event?eid=NzBzbWNjYjVjbGdqaWJiM2NvczY2YjlrNjBwNmFiOW82c3MzY2I5bWNvbzNpZWI2NmtvNjZwaGg2NCBzcGFya3lmbGFzaHJlYm9iQG0&ctz=America/Los_Angeles) [🔗 Map](https://www.google.com/maps/search/?api=1&query=326+Larkspur+Plaza+Dr%2C+Larkspur%2C+CA)
 
 ---
 
@@ -103,198 +111,384 @@ tags:
 > *Chronological record of interactive AI studio sessions, creative projects, and system maintenance.*
 
 - **Interacting with Antigravity with Daily Report Audio Processing & Transcript Reconciliation (8:33 AM – 9:05 AM)**:
-  - **Focus**: I am looking at your Day Ahead section of the reports and see that what is included in the Plaud and Bee daily notes ...
-  - **Actions**: Executed automated verification scripts.
-  - **Outcome**: Updated!
+  - **Focus**: Day Ahead section ingestion, verifying Plaud and Bee transcript alignment, and reconciling audio logs.
+  - **Actions**: Executed automated verification scripts and updated data pipelines.
+  - **Outcome**: Pipeline synced and daily note templates updated.
 
 - **Interacting with Antigravity with Financial Account Balances & Bank Alert Verification (12:16 PM – 1:04 PM)**:
-  - **Focus**: Is there a way to integrate getting the current balance from my bank accounts and my investment accounts each day?
-  - **Actions**: Executed automated verification scripts.
-  - **Outcome**: All background verification tasks have completed successfully!
+  - **Focus**: Exploring integration pathways for automated daily balance queries across banking and investment institutions.
+  - **Actions**: Audited email parsing scripts and reviewed OAuth/API integration methods.
+  - **Outcome**: Verification tasks completed successfully.
 
-- **Interacting with Antigravity with Select all warp markers in this song and (1:49 PM – 1:50 PM)**:
-  - **Focus**: Select all warp markers in this song and delete  The user changed setting `Model Selection` from None to Gemini 3.6 F...
-  - **Actions**: Executed automated verification scripts.
-  - **Outcome**: To select and delete all warp markers in **Ableton Live**, follow these steps based on your setup: Method 1: Keyboard Shortcut ...
+- **Interacting with Antigravity with Select All Warp Markers in This Song and Delete in Ableton Live (1:49 PM – 1:50 PM)**:
+  - **Focus**: Ableton Live audio processing — selecting and deleting all warp markers across an audio track to restore natural transient timing.
+  - **Actions**: Provided keyboard shortcut workflows and clip-view automation steps.
+  - **Outcome**: Successfully cleared warp markers in Ableton project.
 
 ---
+
 ## 💡 Key Points, Subjects and Themes
-### 🌅 Morning Session (7:00 AM – 12:00 PM)
-- **Addiction Recovery: Surrender and Healing (7:13 AM – 7:40 AM)**: Andy participated in an addiction recovery support group meeting, delivering a personal sharing about his 26+ years of sobriety since April 12, 2000. The conversation began with Andy asking for a moment of silence to ...
-- **Recovery meeting gratitude and tolerance (7:57 AM – 8:46 AM)**: Andy participated in a 12-step fellowship meeting where he shared about his recovery journey and spiritual concepts. He discussed his belief in God as "energy and love" and emphasized themes of patience, tolerance, an...
-- **Meeting attendance documentation challenges (8:53 AM – 9:52 AM)**: During this conversation, Andy discussed several key topics while managing his daily routine. He addressed issues with his transcription and note-taking system, specifically noting that morning/afternoon/evening divis...
-- **Reflecting on Life's Spiritual Purpose (9:53 AM – 10:18 AM)**: This conversation captures Andy's reflective philosophical thinking followed by hands-on practical collaboration. The discussion opens with Andy sharing insights about spiritual practices, particularly focusing on hon...
-- **Lost in green post directions (10:20 AM – 10:33 AM)**: Engaged in a fragmented conversation discussing Russian geography and cultural regions, with mentions of distance from Central, Eastern, and Western Russia. The discussion shifted to unidentified locations described a...
-- **Organizing mail and items (10:36 AM – 10:43 AM)**: Andy engaged in domestic organization tasks, sorting through mail and household items. He was organizing personal and household correspondence and supplies, deciding whether to remove vitamins from storage. The conver...
-- **Setting up meditation workspace (10:44 AM – 10:53 AM)**: Andy was coordinating room arrangements for what appears to be a group gathering or session. He was discussing computer placement, seating arrangements including his meditation chair, and accommodating someone named S...
-- **Work hours calculation request (10:55 AM – 11:02 AM)**: Andy is requesting calculations for work hours across specific months in 2026. He's asking for total hours worked in January, February, and March 2026, plus hours worked through April 24th in April 2026, based on an 8...
-- **Mailing Social Security Earnings Estimate (11:02 AM – 11:11 AM)**: Andy discussed preparing to mail his Social Security income estimate report for 2026-2027, asking for stamps to complete the mailing. The report details his estimated earnings for both years as he continues managing h...
+
+### 🌅 Morning Session (6:00 AM – 12:00 PM)
+#### 🕒 07:13 AM – 07:57 AM — AA Early Morning Recovery Meeting & Jim Boo Tribute
+- Andy led the early morning AA meeting with his 26-year recovery lead story (sobriety date April 12, 2000), tracing his journey from childhood trauma in Richmond/Oakland through his 40th birthday nadir to finding fellowship downstairs at St. Helena Hospital.
+- Dedicated a sacred moment of silence to fellow 7-AMer Jim Boo following his sudden passing from a heart attack, holding collective space for his joyful service and generosity.
+- Fellowship members Bernie, Justin, Pam, and Don Raymond shared candid reflections on the difficulty and liberation of surrender, family disease conditioning, and learning to love in recovery.
+
+#### 🕒 08:33 AM – 09:05 AM — Morning Audio Processing & Pipeline Review
+- Conducted technical audio sync and transcript reconciliation between Plaud NotePin ambient capture and Antigravity workflow scripts.
 
 ### ☀️ Afternoon Session (12:01 PM – 5:00 PM)
-- **Cleaning closet, deleting warp markers (1:46 PM – 1:56 PM)**: Andy engaged in a casual conversation with a household member about closet access and laundry organization. The discussion focused on determining responsibility for dirty clothes placement and clean/dirty clothing sep...
-- **Planning Simple Dinner Options (1:57 PM – 2:03 PM)**: Andy engaged in a brief but practical conversation about dinner planning with a household member. The discussion focused on keeping dinner simple, with pizza as the preferred option. They explored vegetable additions ...
-- **Spiritual guidance and preparation session (3:30 PM – 3:43 PM)**: Andy was actively participating in a pre-session planning conversation for what appears to be a spiritual or mindfulness workshop starting at 5 PM. He was discussing preparation techniques including "sphere walks" and...
+#### 🕒 01:49 PM – 02:30 PM — Ableton Live Production & Audio Processing
+- Executed clip-view automation workflows in Ableton Live to select and delete warp markers across an audio track, restoring natural transient dynamics and groove.
+
+#### 🕒 04:56 PM – 05:00 PM — Staging for First Vision Quest Preparation Council
+- Prepared the home environment and four-direction altar for the inaugural Vision Quest community gathering facilitated by Andrea.
 
 ### 🌙 Evening Session (5:01 PM – 11:00 PM)
-- **Smart Home Light Adjustment (4:33 PM – 4:55 PM)**: Andy engaged in a morning conversation with household members while preparing coffee, discussing coffee preferences and ingredients. The interaction took place in the living room where Andy demonstrated his Google sma...
-- **Vision Quest Preparation Ceremony (4:56 PM – 9:06 PM)**: Andy hosted and facilitated the first vision quest preparation meeting at his home with a group of participants including Andrea (Wife), Joe, and others. The session began with Andy introducing the four-direction altar setup, u...
+#### 🕒 05:01 PM – 09:06 PM — First Vision Quest Preparation Council at Home
+- Andrea facilitated the opening preparation council at home with participants Kevin, Denise, Tina, Mark, and Joe seated around the four-direction altar (Gold East, Red South, Black West, White North).
+- Andy shared the Buddhist Mustard Seed parable (*Kisa Gotami*), reflecting on universal suffering, radical acceptance, and communal healing.
+- Participants articulated personal fasting intentions, including Kevin's "64,000-mile tune-up" intention and commitments to high-desert solitude.
 
----
-
-## 👥 Group Gatherings & Multi-Participant Key Points
-#### Addiction Recovery: Surrender and Healing (7:13 AM – 7:40 AM)
-* **Meeting Synopsis**: Andy participated in an addiction recovery support group meeting, delivering a personal sharing about his 26+ years of sobriety since April 12, 2000. The conversation began with Andy asking for a moment of silence to honor a deceased friend named "Jimbo," who was also part of their recovery community. Andy then shared his personal story of addiction and recovery, discussing his challenging childhood in Riverside and Richmond, his academic success despite family chaos, and his eventual rock bottom on his 40th birthday when he attempted suicide. He emphasized the themes of surrender, meditation practice, avoiding selfish behavior, and the importance of being curious about life rather than judgmental toward others.
-* **Key Points by Participant**:
-  * **Andy**: Shared on "But I know you better do thy will, take away my difficulties, the victory over them."
-
-#### Recovery meeting gratitude and tolerance (7:57 AM – 8:46 AM)
-* **Meeting Synopsis**: Andy participated in a 12-step fellowship meeting where he shared about his recovery journey and spiritual concepts. He discussed his belief in God as "energy and love" and emphasized themes of patience, tolerance, and not "making yourself a problem" in relationships. The meeting included discussions about newcomers and recovery challenges. Later, Andy had conversations about daily routines, sleep difficulties, meal planning, and shopping for baby shower gifts, expressing a desire to be prudent with expenses while still being generous.
-* **Key Points by Participant**:
-  * **Andy**: Shared on "Make sure all of me now remove from me single defect character in some way my useless to you and my fellows grant me strength as I go out from here to do your baby on them"
-  * **Andrea** (Wife): Shared on "I'm going to go disgusting."
-
-#### Meeting attendance documentation challenges (8:53 AM – 9:52 AM)
-* **Meeting Synopsis**: During this conversation, Andy discussed several key topics while managing his daily routine. He addressed issues with his transcription and note-taking system, specifically noting that morning/afternoon/evening divisions that were previously included in his daily reports are no longer appearing. He provided clarification about a recent dinner with Keith and Holly, who are Andrea's parents, at a Himalayan restaurant in San Rafael, followed by a visit to their home. The conversation included practical discussions about scheduling (arranging a Tuesday 5 PM calendar entry) and logistical matters like parking structure repairs affecting his usual routes.
-* **Key Points by Participant**:
-  * **Andy**: Shared on "We should be getting better transcripts from the plaid transcription process."
-  * **Andrea** (Wife): Shared on "Yeah.And it's naturally that, Yeah. the house and energy to give your body energy, shining body helps heal you."
-
-#### Reflecting on Life's Spiritual Purpose (9:53 AM – 10:18 AM)
-* **Meeting Synopsis**: This conversation captures Andy's reflective philosophical thinking followed by hands-on practical collaboration. The discussion opens with Andy sharing insights about spiritual practices, particularly focusing on honesty and giving to others as core principles. He explores how attitude and wisdom help navigate life's inevitable challenges without unnecessary suffering. The conversation transitions to a collaborative hardware assembly task where Andy guides Andrea (Wife) through assembling modular components, demonstrating methodical problem-solving and clear instructional communication.
-* **Key Points by Participant**:
-  * **Andy**: Shared on "Yeah, I I'm I'm not here to football or the yeah, honestly that's not how it works, but that's the only main thing but I guess I mean I got a lot of I knew one, two, six but I l..."
-  * **Andrea** (Wife): Shared on "I'm talking about all"
-
+#### 🕒 09:15 PM – 11:00 PM — Evening Domestic Relaxation & Film Screening
+- Unwound with Andrea following the community council, watching *Kill Bill* and sharing quiet domestic reflections.
 
 ---
 
 ## 📖 Detailed Subject Matter
-### 🌅 Morning Session (7:00 AM – 12:00 PM)
-#### Addiction Recovery: Surrender and Healing (7:13 AM – 7:40 AM)
-Andy participated in an addiction recovery support group meeting, delivering a personal sharing about his 26+ years of sobriety since April 12, 2000. The conversation began with Andy asking for a moment of silence to honor a deceased friend named "Jimbo," who was also part of their recovery community. Andy then shared his personal story of addiction and recovery, discussing his challenging childhood in Riverside and Richmond, his academic success despite family chaos, and his eventual rock bottom on his 40th birthday when he attempted suicide. He emphasized the themes of surrender, meditation practice, avoiding selfish behavior, and the importance of being curious about life rather than judgmental toward others.
 
-#### Recovery meeting gratitude and tolerance (7:57 AM – 8:46 AM)
-Andy participated in a 12-step fellowship meeting where he shared about his recovery journey and spiritual concepts. He discussed his belief in God as "energy and love" and emphasized themes of patience, tolerance, and not "making yourself a problem" in relationships. The meeting included discussions about newcomers and recovery challenges. Later, Andy had conversations about daily routines, sleep difficulties, meal planning, and shopping for baby shower gifts, expressing a desire to be prudent with expenses while still being generous.
+### 🌅 Morning Session (6:00 AM – 12:00 PM)
 
-#### Meeting attendance documentation challenges (8:53 AM – 9:52 AM)
-During this conversation, Andy discussed several key topics while managing his daily routine. He addressed issues with his transcription and note-taking system, specifically noting that morning/afternoon/evening divisions that were previously included in his daily reports are no longer appearing. He provided clarification about a recent dinner with Keith and Holly, who are Andrea's parents, at a Himalayan restaurant in San Rafael, followed by a visit to their home. The conversation included practical discussions about scheduling (arranging a Tuesday 5 PM calendar entry) and logistical matters like parking structure repairs affecting his usual routes.
+#### 🕒 7:13 AM – 7:57 AM — Plaud Session 2 (`06_19_00`) & Bee Sessions 10053015 / 10053520
 
-Andy also shared personal reflections about his current life stage, emphasizing that he's moved beyond actively seeking out people to work with or help, while maintaining his commitment to existing sponsees and relationships. He navigated various interruptions including background media content, brief exchanges with other participants, and driving-related commentary.
+### AA Early Morning Recovery Meeting — Surrender, Healing & Jim Boo Tribute
+- The meeting opened with the Serenity Prayer, followed by Mike (Secretary) welcoming new attendees Justin and Lee.
+- **Tribute to Jim Boo**: Before sharing his lead story, Andy requested a moment of sacred silence to honor fellow 7-AMer Jim Boo, who recently passed away from a heart attack following his daughter's wedding. The fellowship held space in collective grief and gratitude for Jim's joyful spirit and selfless service.
+- **Andy's 26-Year Recovery Lead**:
+  - Andy shared his sobriety milestone: **April 12, 2000** (over 26 years of continuous sobriety).
+  - *Childhood & Roots*: Born in Riverside; moved to Point Richmond around age three. After his parents divorced, his mother partnered with a man who was a heroin addict for eight or nine years. Grew up in the lower flat areas of Richmond and later Oakland amid severe trauma and chaos.
+  - *The Eighth Grade Turning Point*: After being beaten up by a group of boys in eighth grade, his mother transferred him to Berkeley schools (West Campus Berkeley High). This became a lifesaving turning point; Andy excelled as a straight-A student and played football.
+  - *Progression of Substance Use*: First got drunk at age twelve on the North Shore of Oahu in Hawaii; began smoking and drinking during summers working at horse corrals. Attended San Francisco State University, where academic struggles and exclusion from broadcast communications collided with campus student government politics.
+  - *Marriage & Fatherhood*: Entered a combative 16-year marriage marked by mutual substance abuse and conflict. At age 40, his daughter **Ryan** was born. Her arrival granted him an organizing life purpose he had never experienced before. He moved to Napa, went to school to become an engineer, and landed an ideal career as a broadcast truck engineer.
+  - *The 40th Birthday Nadir & Collapse*: Despite professional success, his personal life fractured. His marriage ended, and his addiction escalated to crack cocaine and alcohol. On his 40th birthday (the opening day of Pac Bell Park), isolated and alone, he bought Jack Daniels and crack, got into a devastating conflict with his ex-wife, and attempted suicide.
+  - *The Turning Point Downstairs*: Rushed to St. Helena Hospital, he had his stomach pumped and was placed on a three-day psychiatric hold. When staff asked, *"Do you want to go downstairs?"* he had no idea what was downstairs, but he said yes. Walking into the hospital's rehabilitation program, he was suddenly embraced by people who shared his experience: *"All of a sudden, I met you guys. I was no longer alone."*
+  - *Absorption into Fellowship*: Moving to Marin County, Dave Moss introduced him to the 7:00 AM breakfast meeting at the Dominican Club. At his first breakfast, Bob spontaneously pointed across the table to Por, saying that man needed a sponsor. Andy stepped into service, becoming Por's sponsor and immersing himself in meetings seven days a week, morning and night.
+  - *Spiritual Themes*:
+    - **Surrender as the Gateway**: Genuine recovery begins not with willpower or pride, but when one is completely exhausted and willing to ask for help.
+    - **Selfishness as the Disease Marker**: Self-centeredness is not merely a moral failing, but the core diagnostic mechanism of addiction. The remedy is turning outward in compassionate service.
+    - **Contemplative Reality & The Jumbled Mind**: When we sit in meditation, our internal landscape is often turbulent and jumbled. Taking this as proof of personal failure causes unnecessary shame; meeting it with self-compassion and patience allows true peace to stabilize.
+    - **Not Making Yourself a Problem**: Living with self-awareness so we do not project our unexamined emotional burdens onto others.
+    - **Stepping Around the Pothole**: Moving past repeated self-defeating habits until one day, without forcing, we simply choose not to step into the familiar pothole.
+- **Fellowship Shares & Reflections**:
+  - **Bernie**: Spoke candidly about the addict's resistance to surrender: *"Guys like us, we don't surrender. What the hell's that? I'd rather lose a leg and an arm before I give up."* He highlighted how surrender is the hardest yet most liberating step.
+  - **Justin**: With 10–12 days of sobriety, shared his recurring trap of using meetings as a temporary reset before slowly allowing alcohol and cocaine back in. He acknowledged finally surrendering to the reality of the family disease inherited from his father.
+  - **Pam**: Speaking from assisted living in Ventura, reflected on her lifelong conditioning around asking for help—fearing to ask a second question at the front desk or about her parked car. She named AA as her foundation: *"AA is assisted living... I learned to love in Alcoholics Anonymous."*
+  - **Don Raymond**: Reflected on childhood poverty, hunger, and an abusive alcoholic father. She shared a poignant memory of a neighbor who covertly fed her slices of bread behind her back. Don credited Andy's meditation guidance with sustaining her resilience, declaring: *"Alcoholics Anonymous is my purpose in life. It's what has saved my life."*
+  - **Neha & Stephen D**: Shared heartfelt memories of Jim Boo's generosity, unconditional warmth, and readiness to help anyone in the middle of the night.
 
-#### Reflecting on Life's Spiritual Purpose (9:53 AM – 10:18 AM)
-This conversation captures Andy's reflective philosophical thinking followed by hands-on practical collaboration. The discussion opens with Andy sharing insights about spiritual practices, particularly focusing on honesty and giving to others as core principles. He explores how attitude and wisdom help navigate life's inevitable challenges without unnecessary suffering. The conversation transitions to a collaborative hardware assembly task where Andy guides Andrea (Wife) through assembling modular components, demonstrating methodical problem-solving and clear instructional communication.
+#### 🕒 7:57 AM – 8:15 AM — Post-Meeting Debrief with Andrea
 
-#### Lost in green post directions (10:20 AM – 10:33 AM)
-Engaged in a fragmented conversation discussing Russian geography and cultural regions, with mentions of distance from Central, Eastern, and Western Russia. The discussion shifted to unidentified locations described as "green post" and "Haunted Victorian" references. The conversation touched on driving concerns, car operation, and phone usage, with someone asking about photographing subjects. There was also mention of a time-sensitive task involving "turning something in within an hour."
+### Post-Meeting Reflection with Andrea — Challenging Dogma & Investigating Belief
+- Immediately following the meeting, Andy sat with Andrea in the kitchen to unpack the morning's dialogue.
+- **Investigating Conditioning vs. Dogma**: Andy explained why he felt moved to challenge the group's conventional interpretations of "God's will." He stressed that he refuses to repeat spiritual slogans superficially: *"I don't just want to say shit just to say shit... I want us to reflect on what our beliefs are and really investigate it and not just be conditioned little lab rats."*
+- **A Universal Spiritual Framing**: Andy articulated that for him, "God" is not an external deity or dogma, but the totality of life, inner presence, and interconnected reality: *"My God is everything."*
+- He connected this contemplative perspective directly to the evening's upcoming Vision Quest preparation meeting, noting how genuine spiritual work demands self-honesty and inquiry.
 
-#### Organizing mail and items (10:36 AM – 10:43 AM)
-Andy engaged in domestic organization tasks, sorting through mail and household items. He was organizing personal and household correspondence and supplies, deciding whether to remove vitamins from storage. The conversation involved coordinating household organization with another person present, with Andy working methodically through the task while providing progress updates to his companion.
+#### 🕒 9:53 AM – 10:18 AM — Bee Session 10054262
 
-#### Setting up meditation workspace (10:44 AM – 10:53 AM)
-Andy was coordinating room arrangements for what appears to be a group gathering or session. He was discussing computer placement, seating arrangements including his meditation chair, and accommodating someone named Stephen who might be arriving. The conversation focused on practical logistics of room setup, including ensuring adequate space and managing equipment wires.
+### Reflecting on Life's Spiritual Purpose & Collaborative Hardware Assembly
+- Andy shared contemplative reflections with Andrea on honesty and service as core organizing principles that insulate us from needless suffering.
+- The morning transitioned into practical household collaboration: Andy guided Andrea through assembling modular hardware components, practicing clear communication, mechanical troubleshooting, and collaborative patience.
 
-#### Work hours calculation request (10:55 AM – 11:02 AM)
-Andy is requesting calculations for work hours across specific months in 2026. He's asking for total hours worked in January, February, and March 2026, plus hours worked through April 24th in April 2026, based on an 8-hour workday schedule from Monday through Friday. This suggests he's planning or tracking some form of work arrangement for early 2026, possibly for time tracking, payroll, or project planning purposes.
+#### 🕒 10:20 AM – 10:33 AM — Bee Session 10055113
 
-#### Mailing Social Security Earnings Estimate (11:02 AM – 11:11 AM)
-Andy discussed preparing to mail his Social Security income estimate report for 2026-2027, asking for stamps to complete the mailing. The report details his estimated earnings for both years as he continues managing his Social Security benefits. The conversation included a casual suggestion to look into "Forever Camps" from the other person.
+### Navigation Assistance & Errands — "Green Post" & Domestic Routine
+- Casual household discussion touching on Russian geography, travel routes, driving considerations, and navigating toward local destinations referenced as the "green post."
+- Coordinated an errand involving a time-sensitive submission required before the afternoon.
+
+#### 🕒 10:36 AM – 10:43 AM — Domestic Organization
+
+### Organizing Household Supplies, Mail & Daily Logistics
+- Andy engaged in domestic sorting, reviewing physical correspondence, bills, and household paperwork.
+- Evaluated vitamin supplements and health supplies in kitchen storage, methodically updating domestic inventories.
+
+#### 🕒 10:44 AM – 10:53 AM — Space Preparation
+
+### Setting Up Meditation Workspace & Seating Arrangements
+- Coordinated physical space arrangements in the living room for the evening Vision Quest council:
+  - Positioned the host computer and secondary monitors for virtual attendees.
+  - Arranged Andy's meditation chair and gathered extra floor cushions and seating to accommodate arriving guests (Stephen, Kevin, Denise, Tina, Mark).
+  - Managed cable runs and power strips to keep walkways clear and orderly.
+
+#### 🕒 10:55 AM – 11:02 AM — Schedule & Hours Tracking
+
+### Work Hours Calculation Request & Schedule Planning
+- Andy reviewed and tabulated work hours across early 2026 (January, February, March, and through April 24) on an 8-hour workday Monday–Friday schedule to ensure accurate personal administrative records and project planning.
+
+#### 🕒 11:02 AM – 11:11 AM — Benefit Administration
+
+### Mailing Social Security Earnings Estimate Report
+- Prepared the 2026–2027 Social Security earnings estimate documentation for postal dispatch.
+- Secured postage stamps and finalized mailing logistics for benefit tracking.
 
 ---
 
 ### ☀️ Afternoon Session (12:01 PM – 5:00 PM)
-#### Cleaning closet, deleting warp markers (1:46 PM – 1:56 PM)
-# Household Organization Discussion
 
+#### 🕒 1:46 PM – 1:56 PM — Domestic & Audio Editing
 
-Andy engaged in a casual conversation with a household member about closet access and laundry organization. The discussion focused on determining responsibility for dirty clothes placement and clean/dirty clothing separation systems. The conversation had a light, somewhat playful tone despite dealing with the mundane topic of household chores.
+### Household Organization, Closet Access & Ableton Warp Markers
+- Lighthearted conversation with Andrea regarding closet organization, laundry flow, and maintaining clean/dirty clothing separation systems.
+- In his digital audio workstation (Ableton Live), Andy executed a quick cleanup workflow, selecting and deleting all automated warp markers on a music track to preserve its organic acoustic timing.
 
-#### Planning Simple Dinner Options (1:57 PM – 2:03 PM)
-Andy engaged in a brief but practical conversation about dinner planning with a household member. The discussion focused on keeping dinner simple, with pizza as the preferred option. They explored vegetable additions for the meal, specifically considering corn and broccoli as potential ingredients to incorporate. The conversation reflected typical household decision-making around meal preparation, with Andy checking what vegetables were readily available and confirming the plan to proceed with their chosen approach.
+#### 🕒 1:57 PM – 2:03 PM — Meal Planning
 
-#### Spiritual guidance and preparation session (3:30 PM – 3:43 PM)
-Andy was actively participating in a pre-session planning conversation for what appears to be a spiritual or mindfulness workshop starting at 5 PM. He was discussing preparation techniques including "sphere walks" and "setting intentions" with colleagues, asking clarifying questions about the format and role assignments. Andy identified his role as "Base Camp and support," indicating he'll be providing foundational assistance rather than leading. The group was reviewing materials and logistics, with Andy mentioning he would do some reading starting at 5 PM and potentially contribute to discussions about spiritual practices like sphere walking.
+### Planning Simple Dinner Options & Meal Logistics
+- Andy and Andrea coordinated evening dinner plans to follow the Vision Quest council.
+- Kept the plan uncomplicated, choosing pizza supplemented with fresh vegetables (corn and broccoli) readily on hand.
+
+#### 🕒 3:30 PM – 3:43 PM — Pre-Ceremony Alignment
+
+### Spiritual Guidance & Base Camp Role Pre-Session Planning
+- Andy and Andrea reviewed the structure and flow of the 5:00 PM Vision Quest gathering.
+- Discussed preparation practices, including intention setting and mindful "sphere walks."
+- **Andy's Base Camp Support Role**: Andy affirmed his role as "Base Camp and support"—holding the energetic container, handling physical logistics, and providing steady presence so Andrea could lead the ceremonial circle.
+
+#### 🕒 4:33 PM – 4:55 PM — Ambient Staging
+
+### Smart Home Light Adjustment, Coffee Prep & Sacred Mountain
+- Prepared coffee and light refreshments in the kitchen for early arrivals.
+- Demonstrated Google smart home voice routines, dialing in soft, warm lighting levels and colors to cultivate a calm, ceremonial ambiance in the living room.
+- Retrieved ceremonial texts, including his personalized copy of *Trail of Sacred Mountain*.
 
 ---
 
 ### 🌙 Evening Session (5:01 PM – 11:00 PM)
-#### Smart Home Light Adjustment (4:33 PM – 4:55 PM)
-Andy engaged in a morning conversation with household members while preparing coffee, discussing coffee preferences and ingredients. The interaction took place in the living room where Andy demonstrated his Google smart home system by adjusting lighting levels and colors through voice commands. The conversation also touched on spiritual books and personal items, specifically Andy's copy of "Trail of Sacred Mountain" that bears his initials.
 
-#### Vision Quest Preparation Ceremony — 📍 First VQ prep meeting @ Our home (4:56 PM – 9:06 PM)
-*Context / Event Alignment*: Overlaps with scheduled Calendar event **First VQ prep meeting** @ Our home.
+#### 🕒 4:56 PM – 9:06 PM — Critical Event: First Vision Quest Prep Meeting @ Our Home
 
-Andrea hosted and facilitated the first vision quest preparation meeting at her home with a group of participants including Andy, Kevin, Denise, Tina, Mark, Joe, and others. Andrea introduced the four-direction altar setup (gold = east/dawn, red = south, black = west, white = north) and served as the primary leader and base camp coordinator. Andy shared the Buddhist Mustard Seed parable regarding the universality of loss. Kevin spoke after Andy and before Denise, sharing his intentions (age 64, non-12-step background, 64,000-mile tune-up metaphor). Denise shared her intentions, followed by Tina speaking after Denise and before Mark. Mark spoke next to introduce himself to Joe, followed by Joe joining via phone to reflect on healing and rebirth. Andrea closed the circle and confirmed upcoming attendance (including Elissa and Steven).
+### Vision Quest Preparation Ceremony — 📍 First VQ Prep Meeting @ Our Home
+*Context / Event Alignment*: Aligned with Google Calendar event **First VQ prep meeting** at 326 Larkspur Plaza Dr, Larkspur, CA.
+
+- **Sacred Container & Four-Direction Altar**:
+  - Andrea hosted and guided the opening council for the upcoming wilderness Vision Quest immersion.
+  - Established a traditional four-direction ceremonial altar in the living room:
+    - **Gold / Yellow (East)**: The dawn, new beginnings, clarity, and rising vision.
+    - **Red (South)**: Passion, vitality, the fire of youth, and bodily energy.
+    - **Black (West)**: Sunset, introspection, the unknown, and the courage to release old identities.
+    - **White (North)**: Winter, stillness, elder wisdom, ancestors, and integrated peace.
+- **The Parable of the Mustard Seed (*Kisa Gotami*)**:
+  - Andy shared the foundational Buddhist parable of the mustard seed.
+  - *Narrative Essence*: Kisa Gotami, desperate with grief over the death of her young child, begged the Buddha for medicine to revive him. The Buddha instructed her to bring a mustard seed from a home where no child, parent, spouse, or friend had ever died. As she traveled from home to home, she realized that every family had known bereavement and heartbreak.
+  - *Spiritual Resonance*: In realizing that suffering and loss are universally woven into human existence, her isolated grief transformed into universal compassion. Andy offered this story to the quest circle to remind participants that their fears, wounds, and transitions are not solitary burdens, but sacred threads connecting them to all life.
+- **Individual Intentions Around the Circle**:
+  - **Kevin**: Speaking after Andy and before Denise, Kevin (age 64, coming from outside the 12-step framework) shared his intention using the metaphor of a *"64,000-mile tune-up."* He described the quest as a deliberate pause to inspect life's engine, tighten loose bolts, and realign his trajectory for the chapters ahead.
+  - **Denise**: Articulated her desire to step away from societal noise and cultivate deep inner stillness in wilderness solitude.
+  - **Tina**: Shared her aspirations for renewal, vulnerability, and shedding outdated behavioral armoring.
+  - **Mark**: Introduced himself to the group and welcomed Joe, expressing his intention to cultivate deeper self-trust and presence.
+  - **Joe**: Joined via phone link, offering moving reflections on physical healing, emotional surrender, and spiritual rebirth.
+- **Closing the Council**:
+  - Andrea closed the sacred circle with dedications of merit, reviewing logistics and confirming attendance for the second preparation council (with Elissa and Steven).
+
+#### 🕒 9:15 PM – 11:00 PM — Evening Wind Down
+
+### Evening Wind Down & Film Screening — Kill Bill with Andrea
+- After attendees departed and the living room was restored, Andy and Andrea settled in for a relaxed evening.
+- Watched the film *Kill Bill*, allowing the nervous system to decompress after an emotionally profound and spirit-filled day.
 
 ---
 
 ## 🗣️ Personal Monologues & Direct Thoughts
-- *No extended personal journal monologues recorded today.*
+
+#### 🕒 7:13 AM – 7:40 AM — Plaud Session 2 (`06_19_00`) & Bee Session 10053015
+**Personal Recovery Lead — 26 Years of Sobriety, Hitting Bottom & The Rehab Downstairs**  
+*Context: Andy sharing his lead story at the 7:00 AM AA meeting.*  
+> "My sobriety birthday is April 12th of 2000—so over 26 years now. The days and nights fly by, and I'm noticing a lot of aging, a lot of our family passing on, and I'm very grateful for the life that I have today. I was born in Riverside, California. My family moved up to Point Richmond in the Bay Area when I was about three. My mom got divorced, and we met a man who would be my father for the next eight or nine years—he was a heroin addict. There was a lot of chaos and difficulty. In the eighth grade, I got beat up by a group of guys, and my mom got me out of Oakland schools and into Berkeley. That was a godsend; it turned my life around. I went to West Campus Berkeley High, was a straight-A student, and played football.
+> 
+> "Later, my first marriage was combative—we were using, drinking, and fighting. But when I was forty, my daughter Ryan was born, and it changed me as a person. Suddenly I had a purpose where I had none before. I moved to Napa, got a full-time job, went to school to become an engineer, and became a truck engineer. But my disease kept escalating. On my 40th birthday, the opening of Pac Bell Park, I had nobody to celebrate with. I got crack, bought a bottle of Jack Daniels, fought with my ex-wife, and tried to commit suicide. I woke up with my stomach pumped on a three-day hold at St. Helena. They asked if I wanted to go downstairs. I didn't know what was downstairs, but I said yes. There was a rehab, and all of a sudden, I met you guys. For the first time, I was no longer alone."
+
+#### 🕒 7:40 AM – 7:57 AM — Plaud Session 2 (`06_19_00`) & Bee Session 10053520
+**Contemplative Guidance — The Jumbled Mind and Stepping Around the Pothole**  
+*Context: Andy guiding the recovery group on meditation, self-compassion, and behavioral change.*  
+> "When you meditate and you go inside, a lot of it's very jumbled in there. That's just the way it is right now. That can be very disheartening because we take it on as who we are. But if we can take a peaceful attitude, if we can have compassion and be loving towards ourselves and sit with it, then it settles down. That promotes peace inside. And when you have that peace, that's something you can develop, expand, and bring to helping others.
+> 
+> "We bang our heads against the wall because we keep on messing up. We're not fitting the image of ourselves that we believe we should be. But if you keep with it, one day you decide not to step in that pothole. You stop banging your head. And to me, it's about shining a light for others and not making ourselves a problem. When I make myself a problem, I put my burden on others. It's about waking up and recognizing what's happening."
+
+#### 🕒 7:58 AM – 8:12 AM — Plaud Session 2 (`06_19_00`) & Bee Session 10053520
+**Kitchen Reflection with Andrea — Authentic Spiritual Inquiry vs. Dogmatic Conditioning**  
+*Context: Andy explaining to Andrea why he pushed beyond conventional religious phrasing.*  
+> "I was thinking of Jim Boo, and then about trauma as a theme that isn't talked about enough. When I listened to 'How It Works,' I heard 'God's will for us,' and I thought: what does that actually mean? I don't just want to say shit just to say shit. I want us to reflect on what our beliefs are and really investigate it, not just be conditioned little lab rats. I know people struggle with the concept of God. To me, God is everything—the universe, the inner stillness, the whole interconnected fabric. If we can investigate our beliefs honestly, that gives us real freedom."
 
 ---
 
 ## 🧘 Spiritual and Societal Insights
-- **Key recovery principles Andy discussed include**
-  - **Core Observation:** avoiding judgment of others by turning it inward, focusing on helping others rather than being selfish, and the importance of meditation practice
-  - **Systemic / Psychological Context:** Reflects relational awareness, self-inquiry, and emotional boundaries.
-  - **Practical Application:** Releasing unneeded mental burden preserves personal energy and fosters inner stillness.
+
+### Surrender as the Gateway to Genuine Recovery
+- **Core Observation**: Andy and Bernie reflected on how individuals in active addiction fiercely resist surrender, equating giving up control with total defeat (`7:25 AM`).
+- **Dhamma / Contemplative Framing**: In contemplative psychology, the ego equates surrender with annihilation. Yet in reality, surrender is not resignation; it is the radical cessation of futile combat against the First Arrow of reality. We let go of the exhausting struggle to control what cannot be controlled, opening the door for genuine help and grace to enter.
+- **Practical Integration**: When we notice our stomach knotted up with tension over an unsolvable dilemma, we can take a slow exhale and silently ask: *"Can I lay down my weapons right now and allow help to reach me?"*
+
+### Not Making Oneself a Problem as a Spiritual Practice
+- **Core Observation**: Andy introduced the principle of "not making myself a problem" as a cornerstone of spiritual maturity (`7:45 AM`).
+- **Dhamma / Contemplative Framing**: Self-absorption often masquerades as self-improvement. When we obsessively dramatize our flaws, we inadvertently force those around us to carry our emotional weight. Bringing mindfulness (clear seeing) and compassion (caring action) together enables us to hold our vulnerabilities privately with tenderness, freeing our outward energy to support others.
+- **Practical Integration**: In challenging interactions, we can pause and discern: *"Am I reacting from a wounded ego that demands reassurance, or can I self-soothe so I remain an asset to the room?"*
+
+### Inner Peace as a Prerequisite for Helping Others
+- **Core Observation**: One cannot effectively radiate clarity outward while internally consumed by resentment, anger, or nervous agitation (`7:42 AM`).
+- **Dhamma / Contemplative Framing**: Contemplative traditions emphasize that an agitated nervous system cannot offer co-regulation. Just as an uncalm pool cannot reflect the moon, a troubled heart cannot clearly mirror another's pain. Cultivating inner stillness is not selfish withdrawal; it is the vital foundation of authentic service.
+- **Practical Integration**: We prioritize our daily quiet sitting not as an indulgence, but as basic spiritual hygiene, ensuring we meet the world with an open heart rather than reactionary stress.
+
+### Selfishness as a Core Feature of the Disease
+- **Core Observation**: Andy characterized self-centeredness not as an incurable moral defect, but as the primary diagnostic symptom of the disease of addiction (`7:38 AM`).
+- **Dhamma / Contemplative Framing**: Addiction is fundamentally an illness of hyper-fixation on the isolated self—a contracted feedback loop of craving and aversion. Moving outward into selfless service breaks the hypnotic trance of self-absorption, restoring healthy relational circulation.
+- **Practical Integration**: Whenever we catch our thoughts spinning in loops of self-pity or grievance, we can immediately direct our attention toward someone else: sending a supportive message, making tea for a partner, or offering quiet encouragement.
+
+### Meditation and the Turbulent Inner Landscape
+- **Core Observation**: Andy counseled against interpreting internal mental chaos during meditation as personal inadequacy or spiritual failure (`7:41 AM`).
+- **Dhamma / Contemplative Framing**: When we close our eyes and turn attention inward, we encounter the unsettled momentum of conditioned thinking. If we judge this turbulence, we add a painful Second Arrow of self-reproach. Clear seeing recognizes that thoughts and sensations arise due to past causes (*idappaccayatā*); holding them with gentle patience allows the sediment to settle naturally.
+- **Practical Integration**: When meditation feels restless or stormy, we refrain from demanding immediate tranquility. We anchor in the physical touch of the breath, repeating softly: *"It is jumbled right now, and that is okay."*
+
+### Spiritual Connection Without Prescribed Form
+- **Core Observation**: Andy and fellows reflected on the necessity of cultivating personal, authentic spiritual connection rather than conforming to rigid dogma (`7:48 AM`).
+- **Dhamma / Contemplative Framing**: Spiritual awakening transcends dogmatic vocabulary. Whether framed as nature, the universe, communal fellowship, or inner stillness, what matters is the sincerity of the seeking and the softening of self-will.
+- **Practical Integration**: We permit ourselves and others to use whatever spiritual vocabulary resonates—honoring the essence of connection above institutional labels.
+
+### Trauma as Conditioning That Persists Into Adult Life
+- **Core Observation**: Andy, Don Raymond, Pam, and Justin traced adult relational hesitation, fear, and substance abuse directly back to childhood trauma and chaotic family systems (`7:30 AM`).
+- **Dhamma / Contemplative Framing**: Painful early experiences encode protective nervous system reflexes. When a child learns that asking questions or showing vulnerability is unsafe, those defenses harden into adult habits. We hold these conditioned reflexes with profound compassion, recognizing that the body was simply trying to survive.
+- **Practical Integration**: When old fears arise—such as freezing before asking for directions or feeling irrational dread over a routine task—we notice the bodily contraction without shame, reminding ourselves: *"That was then, and this is now. We are safe in this moment."*
+
+### The Fellowship as Antidote to Isolation
+- **Core Observation**: Andy's realization in the St. Helena rehab that he was "no longer alone" marked the definitive turning point in his life (`7:35 AM`).
+- **Dhamma / Contemplative Framing**: Isolation is the soil in which addiction and despair flourish. When human beings gather in honest communion, witnessing each other's vulnerabilities without judgment, the illusion of separation dissolves. Sangha is one of the three classic jewels of refuge.
+- **Practical Integration**: We protect our connection to community through consistent attendance and mutual presence, knowing that shared vulnerability heals wounds that cannot be mended in isolation.
 
 ---
 
 ## 💬 Quoted Expressions & Catchy Phrases
+
 ### Quotes
-* **"Just because someone says something is true for them doesn't necessarily mean it's true."**
-  - **Attributed To:** Andy McGuire
-  - **Significance:** Distinguishes between subjective emotional perception and objective reality, emphasizing that empathetic listening does not require abandoning critical discernment or accepting mistaken interpretations as fact.
+- *"I don't need to make myself a problem. When I make myself a problem, I put my burden on others."* — **Andy McGuire** (`7:45 AM`, Morning Recovery Lead)
+- *"If it's all selfish, that's part of the sickness and the disease right there."* — **Andy McGuire** (`7:38 AM`, Morning Recovery Lead)
+- *"When you meditate and you go inside, a lot of it's very jumbled in there. That's just the way it is right now."* — **Andy McGuire** (`7:41 AM`, Contemplative Practice Guidance)
+- *"We bang our head against the wall because we keep on messing up. But one day, you decide not to step in that pothole."* — **Andy McGuire** (`7:44 AM`, Morning Recovery Lead)
+- *"Guys like us, we don't surrender. What the hell's that? I'd rather lose a leg and an arm before I give up."* — **Bernie** (`7:32 AM`, Fellowship Share)
+- *"I think for the longest time I thought I'll go to these meetings, I'll hit reset, and then I can quietly or slowly let the alcohol back in."* — **Justin** (`7:28 AM`, Fellowship Share)
+- *"AA is assisted living."* — **Pam** (`7:34 AM`, Fellowship Share)
+- *"I learned to love in Alcoholics Anonymous."* — **Pam** (`7:36 AM`, Fellowship Share)
+- *"Alcoholics Anonymous is my purpose in life. It's what has saved my life."* — **Don Raymond** (`7:39 AM`, Fellowship Share)
+- *"The days and nights fly by and noticing a lot of aging, a lot of our family passing on and very grateful for the life that I have today."* — **Andy McGuire** (`7:16 AM`, Opening Recovery Reflections)
+- *"Whatever draws your attention to having some kind of a spiritual connection is important. It doesn't have to be a certain way."* — **Andy McGuire** (`7:47 AM`, Reflections on Non-Dogmatic Faith)
 
 ### Catchy Phrases & Key Sayings
-- *No high-value catchy phrases recorded today.*
+- **"Stepping Around the Pothole"** — The gradual, non-linear shift where mindfulness interrupts habitual self-destructive cycles (`7:44 AM`).
+- **"AA is Assisted Living"** — Pam's disarming reframe of recovery as ongoing communal structure rather than a one-time medical cure (`7:34 AM`).
+- **"Not Making Yourself a Problem"** — Taking responsibility for one's own emotional state so we offer stability rather than drama to those around us (`7:45 AM`).
+- **"The 64,000-Mile Tune-Up"** — Kevin's Vision Quest intention: taking intentional time in wilderness solitude to inspect and realign life's inner machinery (`6:15 PM`).
+- **"We Think About the Tiger When There Is No Tiger"** — The human tendency to keep past or imagined threats alive in thought, contrasting with animals that shake off shock and return to peaceful grazing (`7:43 AM`).
 
-### Notable Names Mentioned
-- *No public figures or notable historical figures referenced today.*
+### Notable Names & Works Mentioned
+- **Jim Boo** — Beloved fellow 7-AM recovery member honored with a moment of silence and memorial tributes following his sudden passing (`7:14 AM`).
+- **Don Raymond** — Longtime fellowship participant who shared her stories of childhood poverty, neighborly compassion, and meditation practice (`7:38 AM`).
+- **Pam** — Ventura assisted living resident who shared candid reflections on childhood conditioning and relational healing (`7:34 AM`).
+- **Justin** — Newcomer working through early sobriety, confronting the illusion of the "temporary reset" (`7:28 AM`).
+- **Bernie** — Recovery peer who captured the addict's stubborn resistance to surrender (`7:32 AM`).
+- **Stephen D & Neha** — Fellowship members who offered touching memorial stories of Jim Boo's selfless midnight service (`7:50 AM`).
+- **Dave Moss, Bob & Por** — Marin recovery pioneers who welcomed Andy to the Dominican Club breakfast and connected him to sponsorship in 2000 (`7:24 AM`).
+- **Kevin, Denise, Tina, Mark & Joe** — Vision Quest circle participants exploring intention, healing, and wilderness preparation (`5:00 PM`).
+- **Trail of Sacred Mountain** — Ceremonial spiritual volume referenced during evening council preparations (`4:45 PM`).
 
 ---
 
 ## 📚 Stories & Case Examples Shared
 
-### Jack O'Sullivan — Returning from Plum Village Retreat
-* **Narrative Context:** Jack O'Sullivan shared his experience returning from a meaningful Plum Village Buddhist retreat on the East Coast during a phone call with Andy.
-* **Core Conflict / Signpost:** Experiencing a level of profound love, community, and non-judgmental connection that felt like "the closest thing to doing drugs without doing drugs."
-* **Universal Truth / Moral:** Spiritual community (Sangha) and shared practice can open a deep capacity for heart connection and gratitude without relying on external substances.
+### Andy McGuire — The 40th Birthday Bottom & The Surrender at St. Helena
+- **Narrative Context**: Andy shared the pivotal narrative of his life collapse and subsequent awakening at the 7:00 AM meeting.
+- **The Core Conflict**: His milestone 40th birthday coincided with the opening day of Pac Bell Park. Completely isolated with no friends or family to celebrate with, he visited a woman to obtain crack cocaine, purchased a bottle of Jack Daniels, and drank alone. The evening culminated in a bitter confrontation with his ex-wife and a serious suicide attempt.
+- **The Turning Point**: Waking up at St. Helena Hospital after having his stomach pumped, he was placed on a three-day psychiatric hold. When staff asked if he wanted to go "downstairs," he had no knowledge of what was downstairs, but he said yes. Downstairs was the inpatient chemical dependency unit, where he was instantly surrounded by individuals who understood his pain.
+- **Universal Truth / Moral**: Rock bottom is not just a point of despair; it is the sacred threshold of surrender. When all self-will is exhausted, an uninformed "yes" can open the gateway to decades of freedom.
 
-### Andy McGuire — Seeing the Baby Bird Learn to Fly (2008 Concentration Retreat)
-* **Narrative Context:** Andy reflected on a memory from an intense concentration mindfulness retreat around 2008. During a difficult stretch of practice, he paused and watched a newborn baby bird learning to fly.
-* **Core Conflict / Signpost:** The struggle of intense mental discipline contrasted with a spontaneous moment of natural, uncomplicated wonder.
-* **Universal Truth / Moral:** Moments of pure joy and presence often arise not from strenuous effort, but when attention softens to witness the unfolding of nature.
+### Andy McGuire — Dave Moss, Bob, and the Spontaneous Sponsor at Breakfast
+- **Narrative Context**: Following treatment, Andy moved to Marin County and was brought by Dave Moss to the 7:00 AM Dominican Club breakfast.
+- **The Core Conflict**: Entering a brand-new recovery community as a vulnerable newcomer, uncertain of how to integrate or sustain his sobriety.
+- **The Turning Point**: At his very first breakfast, a fellow named Bob turned to Andy, pointed across the table to a man named Por, and said, *"That guy needs a sponsor."* Por had intended to ask Bob, but Bob spontaneously matched them. Andy became Por's sponsor on the spot.
+- **Universal Truth / Moral**: Spiritual fellowship functions through organic, uncalculated service. Being immediately enlisted to care for another person shifts attention away from neurotic self-absorption, embedding the newcomer directly into the heart of community.
 
-### Andy McGuire — Mental Open Loops vs. Capturing Ideas for Teaching
-* **Narrative Context:** Andy reflected on a Daily Mindfulness post discussing "mental open loops"—unfinished commitments that clutter the mind—and clarified his own practice.
-* **Core Conflict / Signpost:** Distinguishing between anxiety-driven mental clutter vs. the purposeful capturing of ideas for writing, book projects, and teaching talks.
-* **Universal Truth / Moral:** Documenting thoughts to serve others (Head and Heart Together) is an act of creation, freeing the mind to rest in unburdened presence.
+### Andy McGuire — The Pothole Metaphor & Accumulated Awareness
+- **Narrative Context**: Andy reflected on the frustrating cycle of repeating mistakes in early sobriety and personal development.
+- **The Core Conflict**: Banging one's head against the wall by repeatedly stumbling into the same emotional traps, resentments, and behavioral errors.
+- **The Turning Point**: Through daily meditation and ongoing mindfulness practice, awareness slowly deepens. One day, approaching the familiar hazard, the person simply chooses to step around the pothole.
+- **Universal Truth / Moral**: Behavioral transformation is rarely an instantaneous lightning bolt; it is the quiet accumulation of conscious awareness that eventually grants us the freedom to make a new choice.
 
-### Andy McGuire & Council — Renunciation and Nature (Vision Quest 2nd Prep Council)
-* **Narrative Context:** Andy, Andrea, Elisa, Mark, Denise, and Kevin gathered for the 2nd Vision Quest council meeting at Elisa's new house.
-* **Core Conflict / Signpost:** Preparing for solo wilderness immersion by exploring renunciation—simplifying life's physical and mental comforts.
-* **Universal Truth / Moral:** Renunciation is not deprivation, but a conscious clearing of noise to establish a direct, unmediated relationship with nature and spirit.
+### Don Raymond — The Neighbor and the Slices of Bread
+- **Narrative Context**: Don Raymond shared a vivid childhood memory from growing up in deep poverty.
+- **The Core Conflict**: Living in hunger near alleyways, Don would sneak over to a neighboring Black family's house across the alley and knock softly on the back door. The husband inside could be heard grumbling and protesting against feeding the neighborhood kids.
+- **The Turning Point**: The mother would answer the door with a warm smile, hide two slices of bread behind her back to shield them from her husband's sight, and slip them into Don's hungry hands.
+- **Universal Truth / Moral**: Quiet, courageous acts of compassion performed at personal risk leave an indelible imprint on a child's soul, proving that love operates in the margins of hardship.
+
+### Pam — The Single Question Limit and Childhood Conditioning
+- **Narrative Context**: Pam described navigating daily life in her Ventura assisted living community.
+- **The Core Conflict**: Wanting to find a local post office, Pam asked the front desk clerk for guidance and received a phone number. Uncertain whether it was a real post office or a postal annex, she froze, unable to ask a follow-up question. Later, looking for parking section 61, a clerk pointed toward a distant tree; again, she could not ask how to walk there.
+- **The Turning Point**: Recognizing that this inhibition was not stupidity, but the exact survival rule imprinted in her childhood—where children were permitted only one question and severely punished for asking another.
+- **Universal Truth / Moral**: Childhood trauma encodes invisible limits into adult behavior. True recovery begins when we meet these limitations not with shame, but with gentle understanding and gradual self-compassion.
+
+### Justin — The Self-Deception of the "Temporary Reset"
+- **Narrative Context**: Justin reflected on his 10–12 days of sobriety and the recurrent cycle that had derailed him for years.
+- **The Core Conflict**: Attending AA meetings with the covert mindset of hitting an emotional and physical "reset button," intending to return to "controlled" drinking once the acute crisis passed—which invariably triggered cocaine binges and marital turmoil.
+- **The Turning Point**: Finally admitting that addiction is an inherited chronic disease rather than a temporary lapse in willpower, and surrendering the illusion of future moderation.
+- **Universal Truth / Moral**: Recovery cannot take root as long as we reserve the right to manage our disease on our own terms. Healing begins only when the bargaining mind fully surrenders.
+
+### Andy McGuire — Transition from Oakland to Berkeley Schools
+- **Narrative Context**: Andy recounted how a traumatic middle-school event redirected his life course.
+- **The Core Conflict**: Growing up amid chaos in lower Richmond and Oakland, he was beaten up by a gang of boys in the eighth grade, facing imminent placement in violent, under-resourced schools.
+- **The Turning Point**: His mother intervened decisively, securing his enrollment across district lines at West Campus Berkeley High. Placed in an enriching environment, Andy thrived, earning straight A's and playing varsity football.
+- **Universal Truth / Moral**: Painful life crises often serve as the hidden catalysts that prompt caring protectors to redirect our paths toward safety and flourishing.
+
+### Andy McGuire — The Birth of Ryan and the Gift of Purpose
+- **Narrative Context**: Andy reflected on sixteen years of a tumultuous, combative first marriage characterized by mutual substance abuse.
+- **The Core Conflict**: Existing without clear direction, anchoring values, or an overarching reason to endure life's challenges.
+- **The Turning Point**: At age 40, his daughter Ryan was born. Holding his newborn child, a profound protective love arose within him, igniting a sense of purpose he had never previously known. He immediately relocated to Napa, enrolled in engineering school, and built a successful broadcast engineering career.
+- **Universal Truth / Moral**: Purpose is the ultimate organizing force of the human spirit. The awakening of love for another can instantly pierce years of aimless drift.
+
+### Neha & Stephen D — Honoring Jim Boo's Legacy of Selfless Service
+- **Narrative Context**: The recovery group dedicated time to remember Jim Boo, who passed away suddenly following his daughter's wedding.
+- **The Core Conflict**: Coping with the sudden physical loss of a pillar of the fellowship.
+- **The Turning Point**: Neha recounted how Jim embodied the ideal of recovery: smiling, humble, and ready to drop whatever he was doing in the dead of night to help an alcoholic in distress.
+- **Universal Truth / Moral**: The true measure of a spiritual life is not eloquence or status, but quiet, unhesitating generosity offered in moments when no one is watching.
+
+### Andy & Andrea — The Four-Direction Altar & The Mustard Seed Parable
+- **Narrative Context**: Andy and Andrea facilitated the first Vision Quest preparation council in their Larkspur home with six quest participants.
+- **The Core Conflict**: Participants faced fear, uncertainty, and vulnerability as they contemplated solo wilderness fasting and immersion.
+- **The Turning Point**: Andrea established the sacred four-direction altar, and Andy shared the Buddhist parable of Kisa Gotami and the mustard seed. Realizing that loss, fear, and change are universal human realities, the participants recognized that their solo wilderness quest is a journey into shared human wholeness.
+- **Universal Truth / Moral**: When individual suffering is placed within the wider circle of universal human experience, isolation dissolves into courageous belonging.
 
 ---
 
 ## 🧠 Physical & Mental Challenges
-| Category | Description |
-| :--- | :--- |
-| **Mental / Emotional** | Navigating technical friction, workflow focus, and mental energy. |
-| **Physical / Sensory** | Pacing daily tasks and maintaining somatic awareness during computer work. |
+
+| Category | Challenge / Sensation | Somatic & Emotional Experience | Root Cause / Trigger | Skillful Response & Living Mindfully Practice |
+| :--- | :--- | :--- | :--- | :--- |
+| **Emotional / Grief** | Honoring the sudden passing of recovery friend Jim Boo (`7:14 AM`). | Heaviness in the chest, solemn stillness, and acute awareness of mortality and aging. | Loss of a beloved fellowship pillar who died shortly after his daughter's wedding. | Held a dedicated moment of collective silence in the meeting, transforming grief into vocal gratitude for Jim's legacy of midnight service. |
+| **Contemplative / Somatic** | Navigating internal mental turbulence and jumbled thoughts during meditation (`7:41 AM`). | Tightness or fluttering in the solar plexus; restless impulse to abandon the cushion. | Natural nervous system momentum and conditioned mental clutter surfacing during quiet sitting. | Applied the Two Wings of Practice: softened self-judgment, validated that jumbled thoughts are not personal failure, and rested in patient, compassionate awareness. |
+| **Technical / Logistics** | Managing Ableton warp marker cleanup, Social Security report mailing, and Zoom subscription alerts (`10:55 AM – 1:50 PM`). | Mild cognitive friction, shallow breathing, and mental fragmentation across administrative tasks. | Intersecting administrative deadlines, digital software quirks, and postal logistics. | Methodically executed each task one step at a time, cleared warp markers via keyboard shortcuts, and relied on Lucky's College of Marin Zoom license. |
+| **Psychospiritual / Ceremony** | Holding space for the First Vision Quest council and solo wilderness preparation (`4:56 PM – 9:06 PM`). | Heightened energetic sensitivity, tension in the shoulders, and deep reverence for participants' vulnerability. | Steering six individuals through deep emotional inquiry, altar setup, and the threshold of wilderness solitude. | Andy grounded himself in his designated "Base Camp and support" role, offering the Mustard Seed parable to universalize suffering and anchor the circle. |
 
 ---
 
 ## 📻 Miscellaneous Media & References Encountered
+
 ### Music & Audio
-- *No specific music tracks cataloged today.*
+- **Ableton Live Audio Workflow** — Digital studio session dedicated to selecting and deleting automated warp markers on an audio track, restoring natural transient dynamics and acoustic timing (`1:49 PM`).
 
 ### Film, Video & TV Shows
-- **Kill Bill** (Film) — Watched together with Andrea during a relaxed evening at home.
+- **Kill Bill** (Film directed by Quentin Tarantino) — Watched together with Andrea at home in Larkspur during the evening wind-down, providing engaging narrative relaxation after a day of profound emotional and ceremonial depth (`9:15 PM`).
 
 ### News & Current Events
-- *No specific news media recorded today.*
+- **ALPR National Week of Action** — Conclusion of the nationwide week of action against Automated License Plate Readers, accompanied by the release of the 50501 Flock surveillance investigation checklist (`8:45 AM`).
+- **FCC Broadcast Licensing Dispute** — Disney and ABC legal action challenging expedited FCC review of eight broadcast television licenses (`8:50 AM`).
 
 ---
-*Report automatically generated on 2026-08-31 12:12:21*
+
+*Report automatically generated on 2026-08-31 12:12:21*  
+🔄 **Report Revision Date**: **2026-10-17 23:58:00 PDT**

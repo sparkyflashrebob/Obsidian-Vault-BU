@@ -1,7 +1,7 @@
 # Plaud Daily Transcript - Friday, October 16, 2026
 - **Date**: 2026-10-16
 - **Total Audio Sessions Processed**: 3
-- **Generated**: 2026-10-17 05:59:56
+- **Generated**: 2026-10-18 06:43:33
 
 ---
 
@@ -15,7 +15,7 @@
 - **[9:15:37 AM] Speaker**: This is the first time I've ever seen it, but it's not the first time I've seen it, but it's not the So I like that style because it's easier to read. I'm not sure if I'm going to be able to do it, but I'm not sure if I'm going to be able to do it, This is the first time I've ever seen this kind of thing, but
 - **[9:26:35 AM] Speaker**: So for instance, keep Andrea's house stating schedule separate from upcoming spirit rock retreat and from independent health plan with bullets for each of those individual sections under that.
 - **[9:28:10 AM] Speaker**: I'm going to put this on the top of my head and I'm It captures my journal discussions, spiritual and societal insights. Quotes, catchy phrases, and stories way better.
-- **[9:31:30 AM] Speaker**: I wish we could have started with this way. Can we go back as far as we can? and use this method for the reports so yeah really happy with the new version and if we can get this implemented, way better. okay Okay, I've got Joan Arbiter training, Joan Arbiter training song, eating the bear in my head right now. Maybe because these reports are getting really good now, I can start noting those things, because that's another aspect of me that is really cool. Okay, where am I at right now with this? I'm going to have to get out of here and get out of here, I'm going to get out of here, I'm going to get out of here, I'm going to get out of here,
+- **[9:31:30 AM] Speaker**: I wish we could have started with this way. Can we go back as far as we can? and use this method for the reports so yeah really happy with the new version and if we can get this implemented, way better. okay Okay, I've got Joan Arbiter training, Joan Arbiter training song, eating the bear in my head right now. Maybe because these reports are getting really good now, I can start noting those things, because that's another aspect of me that is really cool. Okay, where am I at right now with this? I'm going to have to get out of here and get out of here, I'm going to get out of here,
 - **[9:35:31 AM] Speaker**: having some issues with my lips cracking the new thing. So I think I'm starting to feel cold water, cold weather effects, head hurting in the morning and headache and sore throat. Seasonal. Seasonal stuff affected by the weather. Mainly the cold.
 - **[9:36:21 AM] Speaker**: Okay.
 - **[9:36:31 AM] Speaker**: For the oven. I'm liking the micro cuts in my lips now. .
@@ -30,7 +30,7 @@
 - **[10:09:35 AM] Speaker**: Uh huh.
 - **[10:09:55 AM] Speaker**: Okay.
 - **[10:10:44 AM] Speaker**: Okay, press below. three seconds
-- **[10:11:17 AM] Speaker**: What I was doing, I swam, I swam, I swam, I swam, I swam, I swam, I swam, I swam, I swam, I swam, I swam, So, there, there, there. I'm going to do a drive, and then I'm going to hear that. Got you. Okay.
+- **[10:11:17 AM] Speaker**: What I was doing, I swam, I swam, I swam, I swam, I swam, I swam, So, there, there, there. I'm going to do a drive, and then I'm going to hear that. Got you. Okay.
 - **[10:12:30 AM] Speaker**: Oh, yeah. Did I get her? Please wait. We'll speak gold.
 - **[10:15:46 AM] Speaker**: It's using the standard format that I'm using for my own talks and for pretty much everything that I put through this even for dharma talks from, you know, by a gary, you know, monastics and, so it, it This works for me.
 - **[10:25:33 AM] Speaker**: yeah. Sometimes when they have to go number two, at least for me, I feel like I'm a little it all. There's an emotion that comes up. So this is probably our biology telling us that we you need to eliminate.
@@ -93,7 +93,7 @@
 - **[12:55:00 PM] Speaker**: What to do when you're called out? panel on teaching whiteness. Paling panel, calling other white people.
 - **[12:56:47 PM] Speaker**: The center in color and culture in the mindfulness classroom. Unpacking whites are a primacy culture in the homing space by diverse communities.
 - **[12:58:12 PM] Speaker**: Okay. Okay.
-- **[1:01:55 PM] Speaker**: If I go to one, I'm trying to have a little bit of a little bit of a little bit of a little bit of a little bit of a little
+- **[1:01:55 PM] Speaker**: If I go to one, I'm trying to have a little bit of a little bit of a little bit of a little
 - **[1:03:49 PM] Speaker**: Crystal Johnson. Okay, Crystal Johnson.
 - **[1:04:35 PM] Speaker**: I'm going to put it on the top of my head and I'm
 - **[1:05:35 PM] Speaker**: Shama.
@@ -104,7 +104,7 @@
 - **[1:16:27 PM] Speaker**: But I do it anyway because this mindfulness practice and Buddhism in general is everything to me.
 - **[1:18:08 PM] Speaker**: Is the Wednesday morning group still meeting?
 - **[1:22:28 PM] Speaker**: This is the first time I've ever seen this kind of thing. I've never seen this before.
-- **[1:26:12 PM] Speaker**: if you're going to be able to do it, if you're going to be able to do it, if you're going to be able to do
+- **[1:26:12 PM] Speaker**: if you're going to be able to do it, if you're going to be able to do
 - **[1:27:12 PM] Speaker**: to
 - **[1:31:43 PM] Speaker**: Thank you. Okay.
 - **[1:33:35 PM] Speaker**: ooh ooh ooh, no oftentimes ooh come on This is the first time I've ever had this kind of conversation with my friend, but I've never had this kind of conversation before. I've never had this kind of conversation before, but I've never had this kind of conversation before,
@@ -130,12 +130,12 @@
 
 - **[00:00 - End] (Speaker / Group)**: - **[2:05:10 PM] Speaker**: Six.
 - **[2:06:10 PM] Speaker**: Okay. All right, that's for now.
-- **[2:10:19 PM] Speaker**: One, two, three, two, three, two, three, two, three, two, three, two, three, two, three, two
+- **[2:10:19 PM] Speaker**: One, two, three, two, three, two, three, two, three, two
 - **[2:12:49 PM] Speaker**: Okay. Okay.
-- **[2:13:45 PM] Speaker**: Slowly. Ok. I'm going to do a small, small, small, small, small, small, small, small, small, small, small Okay.
+- **[2:13:45 PM] Speaker**: Slowly. Ok. I'm going to do a small, small, small, small, small, small Okay.
 - **[2:14:56 PM] Speaker**: Okay.
-- **[2:15:26 PM] Speaker**: Here we go. Turn over to this. You're going to be going to be going.
-- **[2:20:07 PM] Speaker**: if I can do it or not, but I can do it, I can do it, I can do it.
+- **[2:15:26 PM] Speaker**: Here we go. Turn over to this. You're going to be going.
+- **[2:20:07 PM] Speaker**: if I can do it or not, but I can do it, I can do it.
 - **[2:20:37 PM] Speaker**: Hmm. Look.
 - **[2:21:16 PM] Speaker**: Oh, shit.
 - **[2:24:52 PM] Speaker**: Okay. Okay.
@@ -145,15 +145,15 @@
 - **[2:32:22 PM] Speaker**: if you're going to be able to do it.
 - **[2:40:07 PM] Speaker**: Okay.
 - **[2:44:05 PM] Speaker**: okay, so six
-- **[2:46:01 PM] Speaker**: Verse 2. So, I'll see these, a good, good, good, bad, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good So I do it all please.
+- **[2:46:01 PM] Speaker**: Verse 2. So, I'll see these, a good, good, good, bad, good, good, good, good, good, good, good, good So I do it all please.
 - **[2:49:35 PM] Speaker**: 1, 2, 3, 4, 5, 6, 7, 8,
 - **[2:50:05 PM] Speaker**: Okay, Module 1. in our practice, module two, mindfulness of the breath, mindfulness of the body, seated, sequence. and this one is
 - **[2:51:17 PM] Speaker**: That helps. Okay. Three, factors of loving kindness, chest opening, so sequence.
 - **[2:52:29 PM] Speaker**: I'll take this one down and I'll put it back down and The camera has been replaced. if I can tell you and I'm just pulling it through. This is something I can really trust. I think I forgot to save what I did.
-- **[2:53:26 PM] Speaker**: 1, 2, 3, 4, 5, 6, 7, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8
+- **[2:53:26 PM] Speaker**: 1, 2, 3, 4, 5, 6, 7, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8
 - **[2:54:58 PM] Speaker**: Okay, I'll turn back here
-- **[2:58:21 PM] Speaker**: , four, four, five, two, three, four, five, four, five, four, five, four, five, four, five, four, five, four, five, four, five, five I've never seen this before.
-- **[3:01:13 PM] Speaker**: Two, one, two, one, two, This one right here may not be yet.
+- **[2:58:21 PM] Speaker**: , four, four, five, two, three, four, five, four, five, four, five, four, five, five I've never seen this before.
+- **[3:01:13 PM] Speaker**: Two, one, two, This one right here may not be yet.
 - **[3:06:39 PM] Speaker**: okay . .
 - **[3:09:32 PM] Speaker**: I can trash it, I can keep these, okay. Okay.
 - **[3:12:04 PM] Speaker**: Let me see if I can find what personally difficult.
@@ -164,25 +164,25 @@
 - **[3:14:42 PM] Speaker**: Okay.
 - **[3:17:30 PM] Speaker**: There you go. A few seconds.
 - **[3:20:45 PM] Speaker**: I'm going to go to the bathroom.
-- **[3:28:07 PM] Speaker**: what I'm going to do, but I'm going to do a little bit of it, I'm going to do a little bit of it, I'm
+- **[3:28:07 PM] Speaker**: what I'm going to do, but I'm going to do a little bit of it, I'm
 - **[3:32:09 PM] Speaker**: I don't want to see the sun.
 - **[3:36:59 PM] Speaker**: Maybe they're the same thing. Now, Five, , five,
 - **[3:38:50 PM] Speaker**: four, five, One more.
 - **[3:39:24 PM] Speaker**: Four
 - **[3:40:07 PM] Speaker**: We're three.
 - **[3:40:24 PM] Speaker**: and the
-- **[3:42:51 PM] Speaker**: Okay, I'm tired. if you're going to be able to do it, if you're going to be able to do it, if you're going to be able to do
+- **[3:42:51 PM] Speaker**: Okay, I'm tired. if you're going to be able to do it, if you're going to be able to do
 - **[3:51:43 PM] Speaker**: Okay. nik I'm going to put it on the floor. if you're going to be able to do it, but I'm not going to be able to do it, I'm not going to be able to do
 - **[4:01:21 PM] Speaker**: Ah,
-- **[4:03:15 PM] Speaker**: what you're going to do, but I'm not going to do it, I'm not going to do it, I'm not going to do it, I'm not
+- **[4:03:15 PM] Speaker**: what you're going to do, but I'm not going to do it, I'm not
 - **[4:05:43 PM] Speaker**: Yes. Hey, no. Okay, maybe they were checking in on you. How is the cat doing with you or are you guys on speaking terms or is she eating lately? What are you still telling us? So what do you need? What? I didn't know I was supposed to do that. Oh, sorry. I am. I thought we talked about this between 4.30 and 5. You want your hungry now? But you're thinking about food.
 - **[4:10:11 PM] Speaker**: okay where are you parked okay yeah I had a really bad dream fantasy was I was awake when it happened so it was a fantasy that I went over to your house and I could the brakes went out when I was trying to park and I hit your car and total power. Yes. no. Did you hear that new lady for press secretary quit already or fire got fired already yeah yeah yep yes okay so I'll be I was actually I'm a little burnout on what I was doing today so I was good I was getting I was reading the news and I'll be heading out a few minutes. How warm is it out there? Okay I better wear I want to wear a sweater and stuff so or a sweatshirt. okay was still 91 oh I'm cold in here in the house but 91 that's pretty good Okay. I'll bring that what I need in the tray and we'll go from there. All right. I'll see you soon. Okay. Alright.
 - **[4:24:23 PM] Speaker**: This is the first time I've ever been to a place like this, where I've never seen a place like I'm going to put it on the other side. This is the first time I've ever been to a place like this, where I've never seen a place like to to one already
 - **[4:30:29 PM] Speaker**: Look at that!"
 - **[4:31:38 PM] Speaker**: that for and I'm going to go to the bathroom and get some rest.
 - **[4:35:46 PM] Speaker**: I don't want to hear it, I don't want to hear it.
-- **[4:36:16 PM] Speaker**: I'm going to be, and I'm going to be, and I'm going to be, and I'm going to be, I can't make you feel the way that I feel that I'd like to keep you up on you. I don't want to see you, I don't want to see you, I don't want to see you, I don't want to see you There's a thing I'm afraid of, I'm afraid I'm afraid I'm afraid I'm afraid I'm afraid I'm afraid I'm afraid I don't want to leave you, I don't want to leave you, I don't want to leave you, I don't want to leave you what I'm going to do, what I'm going to do, what I'm going to do, I don't I'm going to be going to be going to be going to be going to be going to be going to what I'm going to do, what I'm going to do, what I'm going to do, I don't what I'm going to do. I'm going to get out of here.
-- **[4:42:50 PM] Speaker**: I'm going to have to go to the other side to see if I'm going to be able to get out of here. I'm going to have a look at this one, I'm going to have a look at this one, I'm going to have a look at this, H-h-h-h. Ricken! H-h-h-h! They hit her. Big handstand. What are we going out here? What's that there's in the box? That's great. Hi there. I don't like the kitchen. You don't? I don't like the kitchen. You don't like the kitchen? Okay. Not the other side. Great! I'm going to be here, exactly in between. You are. I'm here, Lucy. I set the table. I want to check. You did? Let's go. I think that's what I tried to do with the door. It's like riding or my feet. Really? Yeah. Mmm. I don't think that's how you do it. You want this patch here, right? I don't. I'm just okay. You don't need it. Okay. I'm going to try and curve with the other one. She just looked at that, it's following her, this house is not flat, it's coming back, it's moving around, must be where he did funnily. of Now, one, two, three, two, one, two, one, two, one, two, one, two, one, two, one, two, one, two, one Oh
+- **[4:36:16 PM] Speaker**: I'm going to be, and I'm going to be, I can't make you feel the way that I feel that I'd like to keep you up on you. I don't want to see you, I don't want to see you There's a thing I'm afraid of, I'm afraid I'm afraid I'm afraid I'm afraid I don't want to leave you, I don't want to leave you what I'm going to do, I don't I'm going to be going to be going to be going to what I'm going to do, I don't what I'm going to do. I'm going to get out of here.
+- **[4:42:50 PM] Speaker**: I'm going to have to go to the other side to see if I'm going to be able to get out of here. I'm going to have a look at this one, I'm going to have a look at this, H-h-h-h. Ricken! H-h-h-h! They hit her. Big handstand. What are we going out here? What's that there's in the box? That's great. Hi there. I don't like the kitchen. You don't? I don't like the kitchen. You don't like the kitchen? Okay. Not the other side. Great! I'm going to be here, exactly in between. You are. I'm here, Lucy. I set the table. I want to check. You did? Let's go. I think that's what I tried to do with the door. It's like riding or my feet. Really? Yeah. Mmm. I don't think that's how you do it. You want this patch here, right? I don't. I'm just okay. You don't need it. Okay. I'm going to try and curve with the other one. She just looked at that, it's following her, this house is not flat, it's coming back, it's moving around, must be where he did funnily. of Now, one, two, three, two, one, two, one, two, one, two, one Oh
 - **[4:47:35 PM] Speaker**: I'm not here to tear up. Anything I could do? Thank you, Mr. Family, too. Yeah.
 - **[4:48:03 PM] Speaker**: Why would big plates you have? Um, I'm going to keep them so I forgot We didn't. That's okay, I'll just have them in the table. I'll just keep this here and clean it up. You're right, you're just going out there. Yeah. That was cool outside. Okay. That's fine. Let's go. Take care, Emily Oh, you're driving. I know what you're doing. You be good. I don't want you causing problems. We're not being happy here. I want you in your best bed.
 - **[4:49:55 PM] Speaker**: A snack. Oh, she was going to go outside. Two glasses.
@@ -233,9 +233,9 @@
 - **[5:55:01 PM] Speaker**: It got a bit of a long night. Did you see it? It looks like a mirror. No, it's in the Did that hit the bathroom? Yeah. It's the middle one? Uh-huh. Yeah, so if you look in there, there's a Vivalon night light right by the door. No. Is that the other one? Yeah, it's got the green No. And the clear and green. I'm going to say hi to you, buddy. That looked good night. Watch over my girl. How was your coffee today? I had a lot of coffee today. It's not like home coffee. You have to pour slowly. Billy? Do you get to me again? Somebody can go. Anybody? すごく. You better assert that. Uh.
 - **[5:57:01 PM] Speaker**: Uh bro. Thank you. Okay, 8.30, you can't stay up to 1 o'clock, man. Okay, you guys, okay, yeah. All righty. Be well. The witch is in. Ah! Ah! Yeah. Yeah.
 - **[5:58:02 PM] Speaker**: if I can get out of here, but I'm not sure if I can get out of here, but I'm
-- **[5:59:02 PM] Speaker**: what I'm going to do, what I'm going to do, what I'm going to do, what I'm going to do, what I'm going to do, I don't
-- **[6:07:58 PM] Speaker**: I'm going to have a look at this, I'm going to have a look at this, I'm going to have a look at this, I'm going to have a look at this, if I'm going to be able to get out of here, but if I'm
-- **[6:09:26 PM] Speaker**: I don't think I'm going to be able to do it, but I don't think I'm going to be able to do it. if I can do it, but I think I can do it, but I think I can do it, but I think I can
+- **[5:59:02 PM] Speaker**: what I'm going to do, what I'm going to do, what I'm going to do, I don't
+- **[6:07:58 PM] Speaker**: I'm going to have a look at this, I'm going to have a look at this, if I'm going to be able to get out of here, but if I'm
+- **[6:09:26 PM] Speaker**: I don't think I'm going to be able to do it, but I don't think I'm going to be able to do it. if I can do it, but I think I can
 - **[6:10:46 PM] Speaker**: I am upgrading my profile. on the MMTCP alumni page and I have this question that came up. Can you help me fill this out based on my history. It should be fairly concise. I would say no more more than 200 words if that. far as what drives me to teach is I have found mindfulness to be a lifesaver in terms of my, what's this thing?
 - **[6:14:35 PM] Speaker**: It gives me a way to understand myself and therefore for me to be able to relate better with others. This alone has brought me to the Dharma and wanting to care for others.
 - **[6:15:33 PM] Speaker**: I was giving, having, I was starting to have more and more issues mentally and this gave me a way to work with myself. As far as who high teach I have spent a lot of of time teaching others who are in recovery and also seniors so far. But I've had a meditation group since 2009 in one form or the other and have been My goal was very simple to carry the message so that others may relate to themselves better and therefore relate to the rest of the world. is very clear to me that there is a lot of mental illness to bearing degrees in the world and lots of people struggling and I want to do my part to be of service to those who are experiencing this so that they may live better lives. Then you revise my listing here to incorporate this information. The next question I got was this.

@@ -1,679 +1,11 @@
 # Plaud Daily Transcript - Sunday, October 11, 2026
 - **Date**: 2026-10-11
 - **Total Audio Sessions Processed**: 3
-- **Generated**: 2026-10-15 07:20:53
+- **Generated**: 2026-10-18 06:43:33
 
 ---
 
-## 🎙️ Session 1: 2026-10-11 19:34:07 (4h50m)
-- **Source File**: `2026-10-11 19_34_07.mp3`
-- **Audio ID**: `of_18cddd25547b6b5568ad4e41b0622f47`
-
-- **[00:00 - End] (Speaker / Group)**: - **[7:34:07 PM] Andy**: 8.25 That's going to be bad but we know that we can survive that We can go way worse. We can survive those And that's a relief We just got to move cars. By our hipwaters We'll move our cars and we actually have now a warning system. Actually I got four alerts now. how many alerts is not enough. I mean just ignore them They're just there. I'm going to choose a little more.
-- **[7:34:55 PM] Andrea**: Is she nibble?
-- **[7:34:58 PM] Andy**: Too much politely I gave you. Dammit
-- **[7:35:32 PM] Andy**: cricket.
-- **[7:36:26 PM] Andy**: I'm going to have a look at this one,
-- **[7:37:24 PM] Andy**: Why scrub daddy seems to be doing fine. Here we go.
-- **[7:38:09 PM] Andrea**: Yeah I mean we're going to be doing a little bit of a conversation.
-- **[7:38:21 PM] Andrea**: Then we're going to be doing some sort of a conversation. Now we're going to be doing some sort of a conversation. But also as a wonderful not a really good tie event,
-- **[7:38:33 PM] Andy**: which is the tie event that we're subsequently discussing. three feet of sea level rise. All of San Francisco all of the interior, from Richmond to San Jose all of it's included. All the flatlands.
-- **[7:39:27 PM] Andy**: So we're in that one right off the bat.
-- **[7:39:37 PM] Andrea**: one count 258 this is mostly in the trail, according to the rough marks for areas,
-- **[7:39:42 PM] Andy**: also the tight interaction with one and one
-- **[7:39:44 PM] Andrea**: and the marks for areas on the whole,
-- **[7:39:47 PM] Andy**: while marks in that area is mostly in the path of that area. So in the path of that area, you're going to have to go straight to the right side and you're going to have to go straight to the
-- **[7:40:03 PM] Andy**: Are we considering sea level rise in addition to the kelvin wave? I'm just asking I mean we can handle a two foot increase right? That was basically the gist of it okay see what it turns here.
-- **[7:42:20 PM] Andy**: captured In our long-term risk model we should examine how future sea level rice progressively alters each elevation tier.
-- **[7:42:48 PM] Andy**: This is right here Since 1990 relative sea level at the Golden Gate has risen by 2.4 that's not much Real-time integration because our system calculates the real-time anomaly as observed water level minus astronomical predictions that accumulated cycler C level rise is permanently baked into our positive of anomaly So that's great They're thinking it's going to get incrementally bigger each by 2030 to be half a foot and by 2040 to be three quarters of a foot and by 2050 to be 1.2 feet And it's got it all on each one So it says right here I'm gonna say yes I've got We'll have reports now that they're going in there and then I've got says even so our apartment level is at 10.33 feet above sea level even with plus 1.2 feet the all-time record flood in your area would rise to 9.66 leaving you eight inches of
-- **[7:44:38 PM] Andy**: buffer So that's our apartment A car is obviously going to be affected way before then The street parking cars could come unsustainable in 20 30, 2040 Carport would be some sustainable in 2040 2050 If I lived in 2050 that'd be 90 years old.
-- **[7:46:09 PM] Andy**: Nobel Prize-winning physicist Adam Reese has flagged a problem sitting at the very heart of modern cosmology. Our understanding of the universe may still be missing something fundamental. The James Webb Space Telescope was supposed to help settle a long-running disagreement over exactly how fast the universe is expanding. Instead Webb's precise new measurements have confirmed the disagreement is real. deepening a puzzle known as the Hubble Tension and re-opening a possibility few
-- **[7:46:38 PM] Andrea**: physicists raised lightly The Einstein's theory of gravity itself made you
-- **[7:46:43 PM] Andy**: revise it Here's how a century-old discovery about the cosmos turned into one of the most stubborn open questions in physics. They may they're talking about new science something maybe like the universe may not be what we think it is.
-- **[7:47:18 PM] Andy**: Things that were special.
-- **[7:47:29 PM] Andy**: M-M-M-A-A-T. The African philosophy the West doesn't want you to know. Living Truth Create Harmony Restore Balance.
-- **[7:47:43 PM] Andrea**: Before there was a course I was only.
-- **[7:47:46 PM] Andy**: The whole room was a couple. Mod. So I'm going to add this to my thing to research.
-- **[7:48:06 PM] Andy**: The min 100 meter semi final at the 2026 USATF outdoor championship were reaching boiling point.
-- **[7:48:15 PM] Andrea**: Benara has already delivered a witness in 9.82.
-- **[7:48:18 PM] Andy**: We need to hold on to the answer to the inset of the night and now it's time for Noah to lie.
-- **[7:48:40 PM] Andy**: because I'm not fully going to get training to any final.
-- **[7:49:20 PM] Andy**: I have a shot at the Melbourne National Park here at night night.
-- **[7:49:38 PM] Andy**: Let's take a ride. Here we go running make around my way ahead of Nullo Isle.
-- **[7:49:43 PM] Andrea**: But isn't with Nullo special?
-- **[7:49:56 PM] Andrea**: if that's a personal best leader in 975,
-- **[7:50:02 PM] Andy**: Since stars are so much better this year,
-- **[7:50:05 PM] Andrea**: that he's probably due for a personal best.
-- **[7:50:20 PM] Andy**: Oh my gosh!
-- **[7:50:30 PM] Andy**: There is a story older than writing.
-- **[7:50:34 PM] Andrea**: The sages of ancient India told it to their students.
-- **[7:50:39 PM] Andy**: It is a story about you.
-- **[7:50:59 PM] Andrea**: Two birds golden and terrible friends, it on the same tree One of them is the fruit sweet fruit and bitter The other is nothing. It simply watches The first bird is you and you know yourself The one who wants and wins and you lose it. The Sages call it the Jeeva. The second birth is also the one who has been watching all the life and has never once been hired.
-- **[7:51:44 PM] Andy**: They call it the suction the witness the suction and the tree in Maya the great So we thought of the world. When the fruit is fruit it's famous.
-- **[7:52:08 PM] Andrea**: That green job of man and that child is born. When the fruit is bitter it's moot. The job is lost. Someone lost it's gone.
-- **[7:52:21 PM] Andy**: Exactly the story of the night.
-- **[7:52:53 PM] Andrea**: I know that the stage is so large the first part is found by a chain of things to learn. I'll be there. From it I'll be later you'll tell you how to tell the real from the onion. From that I'll be mine and you'll go. You'll set the fire and mine. From the goal the saga and creation. Wanting and not wanting. From wanting. forward action and to reach the through direction of body again and again.
-- **[7:53:44 PM] Andy**: Break the hand into the deep groove Break the first link and the whole chain falls at one.
-- **[7:54:24 PM] Andrea**: You cannot breathe without it it is working even now for your eyes. What is it that the sage would not say? Nature they say. Not faith. Not short not long not blind.
-- **[7:54:52 PM] Andy**: This is exactly what we are talking about tonight.
-- **[7:55:22 PM] Andrea**: And the great thing turns over and lies.
-- **[7:55:27 PM] Andy**: if it comes back. That's what I think.
-- **[7:55:34 PM] Andrea**: You are that. Until one day the first bird stops eating. The group no longer finds it. The chamber calmer is broken. It's time and it seems that there was only about one breath.
-- **[7:56:03 PM] Andy**: great story.
-- **[7:57:13 PM] Andrea**: We've got a lot to know. This wasn't good enough. We're talking about their offer to remove it. We've got a guy who struggled. And I'll fill out a third round. if that's what I'm going to say but if that's what I'm going to say.
-- **[7:57:37 PM] Andy**: First we're going to go ahead and see what we're going to do.
-- **[7:57:43 PM] Andrea**: It wasn't a great experience it was overall outcome.
-- **[7:57:50 PM] Andrea**: It was called upon and I really appreciate all my teammates,
-- **[7:57:53 PM] Andy**: What he got to play can I see that real quick Oh because I turned away from the game because they were getting spanked. Look at the score. That's not even the bad part. That's what I'm saying. If he did I want to see what he did how he did.
-- **[7:58:48 PM] Andrea**: Just see.
-- **[7:59:00 PM] Andy**: Okay that's not him. Okay so they finally did score once but let me see what 45 here we go. There he is. well he's not the end of the game and they're down way big so it's just Get some experience in the real game game- going. Oh you're going to probably be agreed towing that lowernd though.
-- **[8:00:34 PM] Andy**: Just waiting for our drivers to leave the numbers here and trying to really get those offense so hard. It's Laville.
-- **[8:01:41 PM] Andy**: Yeah I don't think that I'll leave. Look at that. He got a pat in his lane but he got a pat he got a first down.
-- **[8:02:14 PM] Andrea**: First and ten.
-- **[8:02:16 PM] Andy**: First and ten. Nice. That was a bullet. Yeah he can throw.
-- **[8:02:31 PM] Andy**: You could be like a time radio
-- **[8:02:58 PM] Andy**: Well they did He didn't score though
-- **[8:03:22 PM] Andy**: The game so this is the end of the game but
-- **[8:03:35 PM] Andy**: Nice
-- **[8:03:48 PM] Andy**: Shit
-- **[8:03:55 PM] Andy**: Shit
-- **[8:04:46 PM] Andy**: four and five
-- **[8:04:56 PM] Andy**: all they're going with it so it's going to be incomplete they're going to turn it over
-- **[8:05:32 PM] Andy**: I can do it.
-- **[8:05:56 PM] Andy**: He dropped it!
-- **[8:06:02 PM] Andy**: Well we want to catch up with dark matter but we have gala thrones and lanterns so we We're going to run out of some things huh? We can pull into another month for ED. There's two more of these. I think. Let's go to 10. We could save these if we wanted to because we're going to pay for this
-- **[8:07:26 PM] Andy**: Oh virus.
-- **[8:07:35 PM] Andrea**: come here
-- **[8:08:05 PM] Andrea**: J Stranger Ray Lake National Guard, is the South of J.S Sharf the city district.
-- **[8:08:15 PM] Andy**: Pretty much so now. The first case of tonight is in terms
-- **[8:08:18 PM] Andrea**: of the confirmed in Chicago.
-- **[8:08:20 PM] Andy**: It's very quickly one of the highest For days although we thought the identified
-- **[8:08:26 PM] Andrea**: allocation deal her name was Camilla Holger. We need you to confirm that this is your situation.
-- **[8:08:58 PM] Andrea**: The Meng come up.
-- **[8:09:05 PM] Andy**: Come up come up. Through her her her!
-- **[8:09:15 PM] Andrea**: There's something calling it the blackest iris place.
-- **[8:09:18 PM] Andy**: Like iris place.
-- **[8:09:35 PM] Andy**: Him.
-- **[8:09:40 PM] Andy**: Don't hurt her. She's dead.
-- **[8:10:15 PM] Andrea**: He walked out of the Chicago Park to see a pool of water.
-- **[8:10:35 PM] Andrea**: In fear right? You missed him. They're not going to get to the cube. if they were telling us.
-- **[8:11:13 PM] Andrea**: Oh the versions. They put this button on it back. Oh it looks like you.
-- **[8:11:39 PM] Andy**: In our backyard. I'm glad we watched the shows. Picky I gotta be picky.
-- **[8:12:08 PM] Andrea**: One picky show?
-- **[8:12:13 PM] Andy**: One tonight. You can't make him kill you. And you're alive.
-- **[8:12:26 PM] Andrea**: How long have I been done?
-- **[8:12:30 PM] Andy**: I can't handle it.
-- **[8:12:34 PM] Andrea**: Make sure you're not alive. My hand died four years ago.
-- **[8:12:50 PM] Andrea**: Well I'm better now.
-- **[8:12:59 PM] Andrea**: Why don't you come to me now? I think I'm not. I talk to the fans. Do the same.
-- **[8:13:42 PM] Andy**: Well I'm sorry I didn't mean to tell you that.
-- **[8:13:49 PM] Andrea**: I'm not sure it's much complicated for me,
-- **[8:14:00 PM] Andrea**: I'm tearing apart,
-- **[8:14:07 PM] Andy**: Hope for it. Jason is the boss of both he comes like a son.
-- **[8:14:19 PM] Andrea**: He's a boss. He doesn't understand it. I don't even know.
-- **[8:14:39 PM] Andrea**: It's brought me back to some place old. As kids I never knew which was the real version of my father the one who had time or thought.
-- **[8:15:08 PM] Andy**: I'm going to move the base of all the burdens of my husband and we'll just hunt right back to ours.
-- **[8:16:26 PM] Andy**: What he was hoping for he wanted to restart. Hello it's in the house the door open in the house.
-- **[8:16:58 PM] Andrea**: Oh it can cover.
-- **[8:17:20 PM] Andy**: I call out the pyramid. Well the mind and Egyptian pyramids were literally built before but that's right. Other worlds seem from me. And the shape was more efficient. Hey. His purpose is that he's not the human.
-- **[8:18:07 PM] Andrea**: Is that you?
-- **[8:18:10 PM] Andy**: My partner in this project. You will be picked up.
-- **[8:18:19 PM] Andy**: Look at that. And you must be Blair.
-- **[8:18:23 PM] Andrea**: First one anyway.
-- **[8:18:26 PM] Andy**: Yeah I was getting volunteer for that.
-- **[8:18:29 PM] Andrea**: I was working about your experience with that. And what's that?
-- **[8:18:35 PM] Andy**: Oh it's a world start.
-- **[8:18:37 PM] Andrea**: You're mapping them?
-- **[8:18:38 PM] Andy**: Oh I mostly did entry at this point but Eventually we hope to organize it in more meaningful ways.
-- **[8:18:44 PM] Andrea**: How many are you mad? Is it a 74-year-old?
-- **[8:18:53 PM] Andy**: That's a basic medical act.
-- **[8:18:55 PM] Andrea**: We visit it when technological assets,
-- **[8:18:58 PM] Andy**: which there's a primary interest to us.
-- **[8:19:01 PM] Andrea**: If you think we have people's incredible smart cities.
-- **[8:19:06 PM] Andy**: You join us again?
-- **[8:19:09 PM] Andrea**: You know they're trained to question what these guys are.
-- **[8:19:12 PM] Andy**: I guess the guys over there.
-- **[8:19:19 PM] Andy**: Well we should think of things like omniscient conflict.
-- **[8:19:21 PM] Andrea**: Sometimes these cool worlds they're not trades.
-- **[8:19:24 PM] Andy**: A year ago we stopped using the box. It's that way you know how to enter.
-- **[8:19:29 PM] Andrea**: It's actually important isn't it? Not the one you know.
-- **[8:19:34 PM] Andy**: They're recruiting from this world. Brian!
-- **[8:19:39 PM] Andrea**: Let's get a friend of mine.
-- **[8:19:44 PM] Andy**: She's no another version of you. Ryan's the best thing about it.
-- **[8:19:51 PM] Andrea**: There's a 3D controller. It lasts a month.
-- **[8:19:54 PM] Andy**: Yeah you actually don't want to shoot up in words. Slap night and night.
-- **[8:19:58 PM] Andrea**: You get to go.
-- **[8:19:59 PM] Andy**: And we were so close. We were in a trowel.
-- **[8:20:01 PM] Andrea**: And we were at the beach. How did you build it in this world? Well we saw some tricky components from other worlds. I'm the rest of the velocity tech R&D.
-- **[8:20:16 PM] Andy**: Is it functional?
-- **[8:20:22 PM] Andy**: Power is the main issue. It's so big you can hold on for 20 minutes at a time. Somebody gets stuck in the middle of the world. Okay so how are you powering it?
-- **[8:20:32 PM] Andrea**: I don't but obviously you have to tell me the kitchen. Nuclear. It's just a scotch nuclear huh? Just a little bit.
-- **[8:20:45 PM] Andy**: 90X compared to BLG Mom.
-- **[8:20:50 PM] Andy**: No goods?
-- **[8:20:56 PM] Andy**: No goods? You were trying to solve your power issues with vision.
-- **[8:21:01 PM] Andrea**: Why do you make it so big?
-- **[8:21:04 PM] Andy**: Okay it looks like a lot but you do remember the original training.
-- **[8:21:07 PM] Andrea**: That's right.
-- **[8:21:08 PM] Andy**: Through the door of a world that I'm sure to be,
-- **[8:21:11 PM] Andrea**: is that still ravaged out. Through the door of a world that has reverent climate change, big species of extinction harsh poverty. Through the door of a world that have ended more. And we will live a big world.
-- **[8:21:24 PM] Andy**: We will find the best technology the brightest idea
-- **[8:21:27 PM] Andrea**: is when we will bring them home. by a lot of time to think about your vision when I was talking to you.
-- **[8:21:49 PM] Andy**: I've been thinking about the cube and the wall.
-- **[8:21:51 PM] Andrea**: What's your life going on that well?
-- **[8:21:53 PM] Andy**: What's that Can I just sit a little bit shut down?
-- **[8:21:56 PM] Andrea**: You don't want us if I could bring everybody up so we could get a tube this weekend? and he didn't hold her he didn't have a separator.
-- **[8:22:10 PM] Andrea**: That's the name of Stuart.
-- **[8:22:27 PM] Andrea**: That is a lot to be said below. Wouldn't the man just come to me? Yeah cool wires and no leaves.
-- **[8:22:37 PM] Andy**: What the shit Sheila?
-- **[8:22:39 PM] Andrea**: Get to the end.
-- **[8:22:41 PM] Andy**: So what is highly advanced? Not yet available in stores. Elocity-labeled technology doing is somewhere to ask you
-- **[8:22:49 PM] Andrea**: and a fucking abandoned school. These people are getting on whatever velocity is doing. You figured it out.
-- **[8:23:00 PM] Andy**: These people are clearly super-sophisticated corporate spies. But I know you don't get a shit about the band business,
-- **[8:23:08 PM] Andrea**: but the ones that you destroy in that McNamara tech,
-- **[8:23:12 PM] Andy**: I need to stop them and Oh corporate that's pretty nice.
-- **[8:23:16 PM] Andrea**: No pretty useful.
-- **[8:23:23 PM] Andy**: I'm going to do this world to see any dye that is polluted within the age of its life. Carbon levels spike to 700 ppm. Their scientists were able to build carbon scrubbers that could filter it in.
-- **[8:23:52 PM] Andrea**: 18 metric tons of the atmosphere a day. Who did quite a bit back from the break.
-- **[8:23:57 PM] Andy**: I brought those plants to many hurting worlds.
-- **[8:24:00 PM] Andrea**: But it was these years in cases.
-- **[8:24:17 PM] Andrea**: My God.
-- **[8:24:22 PM] Andy**: You could drive a semi-trosser here. Exactly. Get a foundation or more. Or refugees from a dying planet.
-- **[8:24:37 PM] Andy**: And has anyone traveled in the world?
-- **[8:24:42 PM] Andrea**: No one has. It's too dangerous.
-- **[8:24:45 PM] Andy**: Especially with power issue. But when you fire it up you do a position
-- **[8:24:51 PM] Andrea**: I'm guessing here if she was a rock house I'm not sure if she was a rock house I'm Here I am honey. Last night I heard about the day I asked your mother to marry me. I asked her if I could be your father. And I became an open unloved, fathered and cherished her for the most of her life. And I became your father.
-- **[8:26:12 PM] Andrea**: You're going to have to do my job now. I'm going to have to do my job now.
-- **[8:26:53 PM] Andrea**: Somebody's breaking in yeah he's going to steal the technology the papers he yeah,
-- **[8:27:21 PM] Andy**: We need to do it for his girlfriend or whatever this is.
-- **[8:27:51 PM] Andrea**: One day I'm going to tell you what day the day is going to come do you want to say that? I'm going to tell you what I'm telling you. I'm going to tell you what day the day is going to come.
-- **[8:28:12 PM] Andy**: Charlie has gone.
-- **[8:28:24 PM] Andy**: Oh where are you going?
-- **[8:28:28 PM] Andrea**: I don't want to get on trouble.
-- **[8:28:31 PM] Andy**: Oh that's okay he's home.
-- **[8:28:35 PM] Andrea**: Where are you going? I don't want to get on the trouble. No that's okay you won't. Are you just going to come to the other side for a few minutes to visit her front?
-- **[8:28:55 PM] Andy**: I'm just going to do it. She's going to come back now? You tell him that I called him.
-- **[8:29:10 PM] Andy**: Everything OK Dug
-- **[8:29:28 PM] Andrea**: Oh did you really come through? Wait Charlie? Why are you on my way? You're not in any danger.
-- **[8:29:46 PM] Andy**: I'm Laura I'm
-- **[8:29:48 PM] Andrea**: I'm a little excited that I've never met Charlie before. You've been traveling along? By the day in the other injuries,
-- **[8:30:07 PM] Andy**: what happened?
-- **[8:30:09 PM] Andrea**: Brinch hit me. It was in a forest where something was chasing me. I'm glad you made it here.
-- **[8:30:28 PM] Andy**: Another element.
-- **[8:30:31 PM] Andrea**: What is this point? My home.
-- **[8:30:37 PM] Andy**: I was freaking upstairs a couple of years ago.
-- **[8:30:40 PM] Andrea**: When I heard what sounded like an explosion that shook the bones of the house, I ran downstairs to find three intruders. A man named Jason Beston and a woman named Amanda Lucret. You've done my dad?
-- **[8:31:11 PM] Andrea**: Can you just cool with the box? Being in your house? But I'm thinking like that. Are you hungry? Uh Erd. Are you tired? You're welcome to sleep here for a few hours.
-- **[8:31:37 PM] Andy**: Have a guest for a month's air.
-- **[8:31:39 PM] Andrea**: A lot of people are staying here at the box. This couch both hands.
-- **[8:32:08 PM] Andy**: Hey Rich Stores you can't come to the home right now so I'm going to let you know.
-- **[8:32:32 PM] Andrea**: Jacob hey there. I just called Charlie and one of them is gone and yesterday I didn't put the mask on.
-- **[8:32:45 PM] Andy**: I know my dad's not but I know that I should be there in the show and I think he's gonna be there. He doesn't have any context for it.
-- **[8:33:21 PM] Andrea**: What do you know what's going on? Oh I'm sorry I can't hear you.
-- **[8:33:37 PM] Andrea**: You know it must be an important day of your life. The vision makes yourself. That's what you do.
-- **[8:33:49 PM] Andrea**: The brightest the cleanest the most beautiful the world I've ever met.
-- **[8:34:01 PM] Andrea**: It's not a perfect sight.
-- **[8:34:13 PM] Andrea**: Thank you for leaving I'm here. Go find your son.
-- **[8:35:02 PM] Andrea**: Okay the PI that I you know helped me with the thing I tried it's all back around. Well I'll see you. We're gonna get you.
-- **[8:35:34 PM] Andrea**: yeah. Yeah that's right.
-- **[8:35:37 PM] Andy**: We've got a place. We'll find a bone and square.
-- **[8:35:42 PM] Andrea**: And I work here in the Southern College.
-- **[8:35:47 PM] Andy**: What's your study?
-- **[8:35:48 PM] Andrea**: Architecture. That's great.
-- **[8:35:54 PM] Andrea**: Hey that's why I mentioned it. I'd like to I got a lot of crap. There's before I have to be honest with you.
-- **[8:36:10 PM] Andrea**: Yeah I'm not going to get crazy in here.
-- **[8:36:24 PM] Andy**: What's it feel?
-- **[8:36:31 PM] Andrea**: It was worth it.
-- **[8:36:57 PM] Andrea**: What information?
-- **[8:37:04 PM] Andrea**: The important thing for this to go. I'll be very familiar.
-- **[8:37:14 PM] Andrea**: The rest you leave right now.
-- **[8:37:16 PM] Andy**: What does it do if you lock him? or get someone to drag you and your family or finally getting your foot in the air. You're awesome no you're not moving. Jason Stewart does Charlie's school know? I'm not trying to mess up your life, but maybe we can help each other out. Oh good day. Good day son. Yeah yeah that's all good.
-- **[8:37:37 PM] Andy**: I'll have another one.
-- **[8:38:31 PM] Andrea**: I'll show you.
-- **[8:38:34 PM] Andy**: You'll leave me in my family a little forever. No I was going to get rid of him. He's giving him some of the Hey Matt! Sorry.
-- **[8:38:45 PM] Andrea**: Listen I hate to do this to you. I need to take off. I'm just going to spend a little bit of my life. It's a family in which it's good to get new.
-- **[8:39:14 PM] Andrea**: I have to do this.
-- **[8:39:31 PM] Andrea**: Tell him.
-- **[8:39:41 PM] Andy**: I will.
-- **[8:39:43 PM] Andrea**: Get my things.
-- **[8:39:52 PM] Andrea**: How did you take that off of you? So turns out my account for you in this world is there's a fuck up. One of the last days of the ground. So I had to go there.
-- **[8:40:06 PM] Andy**: But I didn't take a nice call on this one by the world.
-- **[8:40:09 PM] Andrea**: Now the last few years of being premiered take nothing that it should be. Hello. Thank you.
-- **[8:40:22 PM] Andrea**: Yeah well from the same world. Just in town.
-- **[8:40:38 PM] Andy**: Chitty Jason.
-- **[8:40:39 PM] Andrea**: What are you doing here?
-- **[8:40:44 PM] Andy**: I'm trying to help you.
-- **[8:40:46 PM] Andrea**: You see I make better work. I've got a guy in conflict.
-- **[8:40:53 PM] Andy**: So do you read?
-- **[8:40:57 PM] Andrea**: Yeah there we go.
-- **[8:41:05 PM] Andrea**: Have you ever been inside? I've heard enough stories to know that the car there's no space for someone like me. but I am very curious and I guess you're anything else? No thank you but I should probably get going. no you're my cat. I asked you why. You're in the box alone. Do you know what happens to my father right? He was kidnapped by a version of himself and tried to take over his mind. In your world did he ever make a pact?
-- **[8:41:58 PM] Andrea**: He did.
-- **[8:42:01 PM] Andy**: Along with a bunch of other versions. Jason?
-- **[8:42:29 PM] Andy**: Go check. Hi it's Daniela It's Jason there. No he's got a couple hours to go so he had a family emergency. Um if he comes back will you tell my calls and I'm at the house?
-- **[8:42:47 PM] Andrea**: Okay okay bye.
-- **[8:43:04 PM] Andrea**: She's going to be a little bit cute. What is her birthday? Not tonight.
-- **[8:43:24 PM] Andy**: You're wondering what she's going to end up being. Now she can try to keep him there and Nurse Ratchet.
-- **[8:43:36 PM] Andrea**: What do you want to do?
-- **[8:43:38 PM] Andy**: My dad said we saw the world with him. No still alive.
-- **[8:43:45 PM] Andrea**: And you want to be with him.
-- **[8:43:51 PM] Andrea**: This is your first time alone in the dark.
-- **[8:43:55 PM] Andy**: Everyone including yourself,
-- **[8:43:57 PM] Andrea**: is probably the scariest place it could be. And I'll let stuff swirling on it in your head. It can help you.
-- **[8:44:05 PM] Andy**: What do I do?
-- **[8:44:16 PM] Andy**: Would you excuse me for a minute?
-- **[8:44:48 PM] Andrea**: Okay Sorry Excuse me.
-- **[8:45:08 PM] Andrea**: It's really good to see you.
-- **[8:45:12 PM] Andy**: What do you get up to?
-- **[8:45:20 PM] Andrea**: You know just try to survive. It's like you I guess. You know it's just like you stole it. There's a man there a man of youth there's very little nothing left yeah.
-- **[8:45:47 PM] Andy**: There's only anything left in there like where they come from.
-- **[8:45:56 PM] Andy**: Well I'm not proud of it do they? So how can I leave Jacob?
-- **[8:46:03 PM] Andrea**: How to pray for him?
-- **[8:46:14 PM] Andrea**: Because I was I was like I was looking at myself didn't I? What do you mean by that?
-- **[8:46:30 PM] Andy**: Hey what about that? So you're going to be able to go out of the ship so you might have a fix.
-- **[8:46:46 PM] Andy**: Okay listen I wasn't going to do this a little later.
-- **[8:46:48 PM] Andrea**: She's not here.
-- **[8:46:53 PM] Andrea**: You started strong right? A little blue shape with the end of it.
-- **[8:47:00 PM] Andy**: We found each other again right?
-- **[8:47:10 PM] Andrea**: He's the devil and you're the devil too. But at first I was pretty lucky and I went to the box with so much fun and energy.
-- **[8:48:01 PM] Andrea**: Oh shit I have fear too Rednecks fucking A.
-- **[8:48:55 PM] Andrea**: Yeah they're creatures.
-- **[8:49:12 PM] Andy**: I can't hold on. Oh with her mind. No you didn't. It wasn't you. That's just a human. But if you're not to play put in your back.
-- **[8:49:30 PM] Andrea**: Yes. I built the book. I used the book. That means the book.
-- **[8:49:41 PM] Andy**: I'm sorry it is so then you build a bigger one are you letting your fucking mind go
-- **[8:50:03 PM] Andrea**: through it?
-- **[8:50:04 PM] Andy**: You let your stuck in mine. This is an uncontrollable unstoppable force. Stop!
-- **[8:50:34 PM] Andy**: Yeah it's an idealism but all of the offshoots he can't control all the offshoots. Yeah self you know.
-- **[8:50:51 PM] Andrea**: All right well how is there another family across the country that looks exactly like yours? How do people walk into this thing that's in there? How are you connected with the velocity? Well I'm really good at my job but I can't even begin to put the things in this I've been all over this thing inside out I can't find something that even can't and what it does. I know it's not very confusing and mysterious If I were you I'd just walk away and I'll be back. But you know you cannot know please not just trust me go and live your life forget about the past. I need to actually mean that but you don't even know. I need to know okay?
-- **[8:52:04 PM] Andrea**: You need to know. It's easier for us to show it.
-- **[8:52:26 PM] Andy**: Going in?
-- **[8:52:28 PM] Andrea**: Come on.
-- **[8:52:32 PM] Andy**: You're going in the back. Here because the pedal fell off.
-- **[8:52:40 PM] Andrea**: We need to press it. I'm going to get it back in.
-- **[8:52:53 PM] Andy**: I'm up Ready. Hey princesses. What did you say? Oh he's there already. See it's infinite already. So now he's done a bad thing the other Jason won but he did it because this guy was She's going to come.
-- **[8:54:43 PM] Andrea**: One Jason is an intro all these four together by me and old and family. Not everyone's the guest that's never been allowed.
-- **[8:55:00 PM] Andrea**: Get the way you want to go and you want to remember something.
-- **[8:55:24 PM] Andrea**: I remember I met a hospital that looked up to a bunch of dudes.
-- **[8:55:34 PM] Andrea**: My mom does videos of us being very young here. My favorite is this one my bag.
-- **[8:55:47 PM] Andy**: It's breaking this huge pile of weeds and you just keep pushing them all around us.
-- **[8:55:55 PM] Andrea**: The two of us are just laughing and the pile gets bigger and bigger. What does that that might just take you where you want to go?
-- **[8:56:21 PM] Andy**: She's got a whole bunch of them.
-- **[8:56:32 PM] Andy**: Oh she's getting ready to travel.
-- **[8:57:02 PM] Andrea**: They're going to just cross each other up back to this version. What do they do now?
-- **[8:57:28 PM] Andrea**: They're still looking for inches.
-- **[8:57:30 PM] Andy**: They're not gonna fucking find.
-- **[8:57:38 PM] Andrea**: Why?
-- **[8:57:40 PM] Andy**: I'm Dr Layton Madness.
-- **[8:57:42 PM] Andrea**: Now I have to speak with the both of you today.
-- **[8:57:45 PM] Andy**: Because of my company's involvement
-- **[8:57:47 PM] Andrea**: I would investigate in Chicago Park you know.
-- **[8:57:50 PM] Andy**: Now as you know there was hope that since you were able to somehow rejuvenate from the black iris play your bodies may contain the roadmap
-- **[8:57:58 PM] Andrea**: to developing the vaccine.
-- **[8:58:00 PM] Andy**: Unfortunately the testing came up.
-- **[8:58:04 PM] Andrea**: And all attention has been technically cute. They're hoping it's somehow here again.
-- **[8:58:10 PM] Andy**: We already dismantled the one that was moved The black ice pledge is freeing around the world and the United Green Lakes is agreed to cooperate with all critical data which includes the Q&A and all known information about the book. Well, But then it is from the fake union when we hit a clutch you both in 30 minutes.
-- **[8:58:32 PM] Andrea**: And that is an inquiry when we come and consider a really more intense. I brought you both to the change of clothes.
-- **[8:59:41 PM] Andy**: Come on.
-- **[8:59:49 PM] Andrea**: I'll be right back.
-- **[8:59:55 PM] Andrea**: I'll be right back.
-- **[9:00:03 PM] Andrea**: Okay Good luck.
-- **[9:00:05 PM] Andy**: Wait you're not coming with us? We have to canvas. If I hurry you're going to be like an artist.
-- **[9:00:11 PM] Andrea**: Where can't you?
-- **[9:00:12 PM] Andy**: No I need to stay inside on this.
-- **[9:00:14 PM] Andrea**: Why? Well you come back with you. This is my home. I'll have to meet this right. I'm sorry about this right. You're good people. You should have caught up with something that should have never been created.
-- **[9:00:29 PM] Andy**: You got eight minutes to leave the building. Drs for that
-- **[9:01:31 PM] Andy**: How far are we for the box?
-- **[9:01:54 PM] Andrea**: Six plus.
-- **[9:01:55 PM] Andy**: Here. I'll street access to the city's barricaded you'll take along the water.
-- **[9:02:00 PM] Andrea**: I have a lavender ring no auto injector in there let me get you guys a cup of water.
-- **[9:02:05 PM] Andy**: All along there are naval mines a plate that's made in Michigan to keep the refugees away.
-- **[9:02:11 PM] Andrea**: Oh god this place got really authority really. Fuckin' fast yeah.
-- **[9:02:15 PM] Andy**: I'm gonna go out there and trigger the explosion and stay at least possible. You'll hopefully draw the attention of those guarding the bots but that's not to do it. Hey please don't you guys You've been got the cure. My parents had it. We will.
-- **[9:02:37 PM] Andrea**: Thank you.
-- **[9:02:56 PM] Andy**: What the hell was that? Oh what do you think? what it is.
-- **[9:03:14 PM] Andy**: That's all. Come on. He's not going to make it. I'm not going to make it.
-- **[9:04:23 PM] Andy**: So she's going in there searching for Charlie. Uh-oh. Uh-oh we don't know what he ran to.
-- **[9:05:08 PM] Andy**: But we don't know what she saw. When she brought somebody in she brought somebody else in.
-- **[9:05:19 PM] Andrea**: I'm not going to do anything.
-- **[9:05:25 PM] Andrea**: Don't you find him? I'll use your strength on the other side.
-- **[9:05:33 PM] Andy**: I want to know everything she's doing.
-- **[9:05:40 PM] Andy**: More complicated.
-- **[9:05:49 PM] Andy**: Now they're gonna all be back again traveling now he's gonna go after her and the angle.
-- **[9:06:46 PM] Andy**: I think it was at the kitchen table it wasn't there. Yeah but what you're gonna do
-- **[9:07:36 PM] Andy**: There you just put it on top of it there. It's that guy again.
-- **[9:08:31 PM] Andy**: in two Bad Jason He sent them all out to go get that girl Blake or Blair or whatever That's what I'm saying. Bring her back. You told us you were not here. You heard me. You didn't say it. You said you were not here. You didn't say it. You got to. Good.
-- **[9:10:11 PM] Andy**: And you can't put it all around your heads. This is middle-aged right?
-- **[9:10:56 PM] Andy**: Yeah he went back through the tube he went over there he was going back there That's amazing Think about that Because that's my This is an important thing. Yeah yeah that's yeah.
-- **[9:11:55 PM] Andy**: I mean is that what's the emphasis of every single thing I think is themagic the atoms in this blanket here. Oh it is a foam frame but you can't paint it up. You'd have to get some kind of cork thing to put it on here. I have to use the sticky things probably. I say what you do is you get a real frame for it. And that way you don't get any sticky this intact.
-- **[9:12:33 PM] Andy**: I'll pay for it that's what you know. Yeah custom do it that cuz that I mean you spent a pretty thing on that
-- **[9:12:58 PM] Andy**: Well that's what I'm saying we got we got the space
-- **[9:13:05 PM] Andy**: But I think we can move it up that's what I'm saying we can move this up and then move the that there We could You could get that up and that down. Gittie. We can remove the wall. I'm just going to get rid of them put that up there over the wolves eye. Put that over above the wolves and see where the wolves are and see how big it takes. You might have to take the flags down there so they don't dig in.
-- **[9:14:30 PM] Andrea**: Oh I see.
-- **[9:14:32 PM] Andy**: Oh there you go. These are in the frame of the ship. You can even pick them up and go over there. Right there. That's cool.
-- **[9:14:43 PM] Andrea**: Over there. That's cool.
-- **[9:14:47 PM] Andy**: But still you should get it from you. Because you get back it's got to hit off then.
-- **[9:16:25 PM] Andy**: I'm going to have to get out of here.
-- **[9:17:00 PM] Andy**: Three hours left. That's a big pan. There's three arms down please.
-- **[9:17:20 PM] Andy**: I can't I can see nothing before.
-- **[9:17:29 PM] Andy**: And those are young babies. When they're fuzzy like that. That's why I said baby what are you doing? No me.
-- **[9:18:18 PM] Andrea**: is lazy because they can't grab remiles over you. This guy is born for a rookie and will the Warriors have a gem?
-- **[9:18:43 PM] Andrea**: It's only either an original like a fella green tea chopper of splice or a one-shot. Even AI generated vocals above your gram of panties will work better than having no vocal at all.
-- **[9:19:01 PM] Andrea**: You need to memorize no matter the language. Don't switch the jobs anywhere you get. For example this part is too easy. But the second one I did here I have just enough room to place open jobs.
-- **[9:21:25 PM] Andy**: I'm going to have to go to the other side to see if I'm going to be able to get out of here.
-- **[10:03:55 PM] Andrea**: I'm here.
-- **[11:24:24 PM] Andy**: He's still talking on the phone. You why you been talking on the phone?
-- **[11:24:48 PM] Andy**: perpetual
-- **[11:53:56 PM] Andy**: Ohhhh!
-
----
-
-## 🎙️ Session 2: 2026-10-11 14:34:07 (5h00m)
-- **Source File**: `2026-10-11 14_34_07.mp3`
-- **Audio ID**: `of_d323bf2a69bbd28933804eaefd223712`
-
-- **[00:00 - End] (Speaker / Group)**: - **[2:39:47 PM] Andy**: So you could actually get in with no problem. The corner is still got a little bit of water on the ground but you could actually park and get into the house with no problem. But the water is receiving this.
-- **[2:42:06 PM] Andy**: Hello good evening Welcome to this week's leave and then living mindfully meditation meeting I'm great girl that you've taken time let up your busy with the join us here tonight and hope you find this circle supportive of both your internal spiritual practice and your external practice How we actually move through and engage with a world at large As we gather here we can remind ourselves of that simple grounding anchor The time is now and now is denoing We're recollecting the here and now and meeting the way things are in this very moment And as Jack Cornthowe reminds us awakening is not a rare privilege reserved for a few things for aesthetics It's the natural birthright of every human being It's your birthright.
-- **[2:43:37 PM] Andy**: So what we take a moment together and to intentionally arrive bringing the attention
-- **[2:44:03 PM] Andrea**: In other words the leasing is best we can whatever was pulling by us before we walked
-- **[2:44:26 PM] Andy**: to this room or a log down to the screen, who simply come into presence, growling ourselves here in our own physical bodies, taking a few calming settling breaths,
-- **[2:45:10 PM] Andy**: and setting an intention to cultivate what hera brok in the contemplative traditions call the two wings of spiritual freedom. having an open mind rooted in mindfulness and clear seeing an open heart rooted in kindness compassion and caring action to stay in the present moment and then know the way it is Thank you The Bishop first time joining us I'd like to offer a very special welcome Thank you for being here I look forward to getting to know you better and hope that you find this group in the official warm supportive and inclusive. Before we settle into our seat into the meeting,
-- **[2:46:09 PM] Andy**: a couple of housekeeping reminders I'd like to begin by acknowledging that I'm speaking from ancestral coast me walk alone and a lonely territory. I do this formally recognized at honor of the Indigenous Committee's originally stewarded land where this meeting is taking place for me. And I extend that same spirit of respect and welcome to you wherever you are respective environments tonight. you are in Yerks you are wherever you are in your respective environment tonight. We have a few basic agreements other than common courtesy that help us keep our circle safe,
-- **[2:46:59 PM] Andrea**: our group that's not a circle.
-- **[2:47:04 PM] Andy**: Confidentiality it is hope that what is shared in this room is stays in the room to We're with our trust privacy and safety for everyone regardless of background or identity.
-- **[2:47:22 PM] Andrea**: And this helps.
-- **[2:47:25 PM] Andy**: Speaking from the experience we try to speak from our direct personal experience whenever possible.
-- **[2:47:46 PM] Andy**: And then just okay I'm going to delete these pre-things in here because they make a little
-- **[2:47:55 PM] Andrea**: be clumsy for me and last the participation in check-ins and open discussion
-- **[2:48:24 PM] Andy**: is always completely voluntary. You're never under any pressure to share if you prefer to just listen and be present. Since there are only a few of us gathered here, I'd love to have an opportunity for a brief check-in. I invite you to state your name and a brief status report of your internal weather right now. Maybe whether you're happy to be here, or you're noticing some tightness in the shoulders, have a bit of foggy mind or a little bit sluggish and anything you'd like to
-- **[2:48:59 PM] Andy**: name is welcome And if you have any quick clarifying questions about our format before we sit in silence please feel free to ask Otherwise remember that there will be plenty of time in a second half of the meeting for open discussion or reflection.
-- **[2:49:36 PM] Andy**: something on the table I think it almost almost has been feeling lightly. It's that background hum of navigating daily life right now. is that's financial You go to a grocery store you look at the total at the register or you open up a You know I like a bill electric bill I wouldn't say it.
-- **[2:51:13 PM] Andy**: more about than more and more than money. It's opening your phone and seeing alarming news about the world it's dealing with someone acting rudely in traffic or at work it's living with an aching body or facing difficult circumstances completely beyond our control When life rings us things we don't want to experience We usually see people bounce between two extremes Either we fall onto the downward spiral with panic we get angry, in our own catastrophic stories and moves sleep.
-- **[2:52:17 PM] Andy**: ourselves to just stay positive or that everything happens for a reason We try to talk our cells out of our feelings but our bodies know better so pause We try to talk ourselves out of our feelings but our bodies know better Lying to ourselves doesn't and bring peace it just makes us feel alienated and exhausted.
-- **[2:53:10 PM] Andrea**: I've got not being truthful.
-- **[2:53:21 PM] Andy**: Not being truthful to ourselves doesn't bring peace. It just makes us feel alienated and exhausted. wondering why we just can't be calm. What wondering why we just can't be peaceful and calm.
-- **[2:53:41 PM] Andy**: So inquiry we're going to look at tonight and to really the heart of the, and the re really the heart. So the inquiry we're going to look at tonight.
-- **[2:53:57 PM] Andrea**: The theme for this evening is how do we ease our inner torment without gaslightings ourselves
-- **[2:54:18 PM] Andy**: about the difficult facts of our lives. good news is that for the next hour you don't have to fix the world outside You don't have to prove anything in this room You don't have to pretend you've got light figured out You can let the floor.
-- **[2:54:44 PM] Andrea**: You can let Mother Nature.
-- **[2:54:52 PM] Andy**: take your full weight As we let those words set up okay I'm in a break. Before I jump into this talk I want to offer my usual disclaimer These These reflections are offered strictly for your contemplation and spiritual practice and never as a judgment or reaction to anyone in particular. When I talk about using human clumsiness or getting tango up in fear I almost always and talking about myself too also the things I catch in my own heart These words are never meant to harm but only to shine a warm light on our shared experience I want to start tonight with that famous observation from Victor Frankl who survived
-- **[2:56:20 PM] Andrea**: in a concentration camp during War II He said, It means the stimulus and the response there is a space.
-- **[2:56:57 PM] Andy**: In that space is our power to choose our response and our response lies our growth and freedom. Now there's a profound insight most of us have heard it and intellectually we nod our heads. Thank you all for that reminder. Frankl speaks about this space between stimulus and the response.
-- **[2:57:36 PM] Andy**: On one side we have a stimulus something coming into our senses seeing a grocery total that shocks you opening a high electric bill hearing someone make rude or dismissive
-- **[2:57:50 PM] Andrea**: comments reading alarming news on your written or feeling an unexpected pain in your
-- **[2:58:14 PM] Andy**: one unwanted pain I'm just going to say a pain I don't use all this stuff We're feeling a pain in your lower back That is the stimulus coming through the senses On the other side, have the response The emotion that arises a jolt of anxiety or anger or dread or frustration accompanied by our body tightening up Frankl says there's a space between the two But what happens to that space When we're mindful our conditioning jumps right across it The sensory contact happens and before we even know what hit us the emotion is already taken over. stimulus and response seem fused together into a single and instantaneous action. And because we don't feel that space we immediately fall into two traps. We can immediately fall into one of two traps.
-- **[2:59:24 PM] Andy**: The first trap is the downward spiral spiral. Something happens that we don't want to experience a root encounter, a financial shock bad news and we punch straight into anger panic in the spare Our mind starts spinning Disaster movies and we just do in that dread until our sleep is wrecked.
-- **[3:00:04 PM] Andy**: trap or spiritual bypass. We try to talk to ourselves out of the pain we tell ourselves just the positive everything happens for a reason So we put a smile on our face but underneath our stomach is tight
-- **[3:00:24 PM] Andrea**: or nodded up And a lot of this just get caught up on this We can feel that something is
-- **[3:00:39 PM] Andy**: wrong And so we believe that there is something wrong And then we tell ourselves that we shouldn't be this way We judge ourselves I've been meditating for years I should be calmer than this What's wrong with me I shouldn't be feeling stressed or upset.
-- **[3:01:23 PM] Andy**: Pretending that things aren't difficult or pretending that you don't feel shaken when unwanted things happen isn't spiritual awakening is just gaslighting your own nervous system. So the real inquiry for our practice and really the heart of our theme tonight is how can we ease our inner tournament without gaslighting ourselves about the difficult facts of our lives. To understand this we can turn to one of the most practical teachings the Buddha offered. And one I bring up frequently here the teaching of the two arrows. The Buddha asked when an untrained person experiences pain or difficulty what happens? They sorrow grieve and lament. It's if they were shot by an arrow and then immediately shot by a second arrow. They feel two pains the physical impact and the mental torment.
-- **[3:02:31 PM] Andy**: Let's impact these two arrows actually in our lives our ordinary lives. The first arrow is the raw unavoidable impact of living as an embodied human being in an uncertain world. The Buddha spoke directly about things in this life that are stressful. What he called duke he pointed out the unavoidable realities we all face his old sage sickness and physical decline waking up to physical aches injuries or an aging body. separation from we love and cherish We lose people our roles our routines we care about. Being associated with what we dislike or hate having to deal with rude people, workplace friction rising prices disturbing news headlines or circumstances completely beyond our control Or not getting what we want having our plans unravel and our expectations disappointed.
-- **[3:03:35 PM] Andy**: And how do we encounter all these things? We experience them when they come into our senses through the eye the ear the nose the tongue the body and in particular the mind. When you see a grocery bill that is $80 higher or here's someone talk down to you at work or see conflict on the news, or feel your aching knee is the first arrow entering your senses. it is the actual factual impact it hurts it's not in your head it's simply part of being alive. And the first step of honest practice is honoring that first arrow without shame. This is hard This is what I'm experiencing.
-- **[3:04:33 PM] Andy**: and then makes complete sense that it feels unpleasant. The second arrow on the other hand is what our mind adds on top of that experience. This is what causes suffering us to suffer. It is story we spend about the impact the blame the catastrophic predictions and the attack on our character They don't respect me I'm failing The world is out to get me. I'm never going to make it." Now why does unwanted sensory contact hit us so intensely in the body Why does the stomach get tight or knighted up below the ribcage In early There was a fundamental law of conditionality there is this fundamental law of an early
-- **[3:05:36 PM] Andrea**: this Buddhism and in science in general Here is this fundamental law of
-- **[3:06:01 PM] Andy**: conditionality.
-- **[3:06:31 PM] Andy**: How do I pronounce?
-- **[3:07:38 PM] Andy**: 遺 up pach chah yate. which simply means when this exists that comes into be, comes to be and with the arising of this this arises. Things don't happen because you're broken. They happen because of causes and additions. Your conscious intellect understands modern concepts like checking accounts corporate politics, or international laws news. But the deeper older part of the nervous system is the focus that control your diaphragm and gut
-- **[3:08:35 PM] Andy**: are millions of years older than modern culture. Those systems only have two basic settings, safe and connected or threatened and endangered. When unwanted threatening information enters a senses whether it's a high bill an angry voice, or chaotic news and your body treats that sensory contact as a threat to survival to breathe it into the diaphragm locks up so So you stay still and stand for predators. is pulled away from digestion to fuel your muscles to to fight or run And the belly armors you know armors up to protect your soft organs And the physical that tight knotted
-- **[3:10:10 PM] Andy**: feeling in your stomach is in a character defect It's a failure of your it isn't a failure.
-- **[3:10:26 PM] Andy**: Of your mindfulness it is your inner creature reacting to the conditions of threat. When we do understand conditionality we don't have to get mad at our bodies, You can understand of course our body tightens up when conditions feel threatening. That's just nature doing what it's still to do. Think about what happens with nature and animals. Take a deer out in the meadow blah blah blah with human beings this is completely not the case. You just don't take it off. Sit our minds take over. We think about the tiger when there is no tiger paper bill and this leads us to look at the five aggregates that components that make up our moment-to-moment human experience We have the
-- **[3:11:18 PM] Andy**: physical body in form the feeling tone whether something feels pleasant unpleasant or neutral. our perceptions our consciousness and the crucial aggregate to mind our mental formations our thoughts and reactions. So right now I'm giving you some specific information to Buddhism and I hope it doesn't scare anyone, and it shouldn't because a lot of this is basically just categories of the way we could look at our experience regardless of any religion or spiritual perspective. you can test this out yourselves I hear somebody It was a street clear Yeah that's That's a very flat finch you and 24 hours to be scared yeah that is comforting
-- **[3:12:27 PM] Andy**: and there was some more information I got over there yeah eight inches of The rain in 24 hours is uh the view is great for us. And then another thing. And then it's a good job. And then the report also says that they've done some improvements since those last, I have a whole history of when this place is flooded. Because when I gave the pictures it went back through and looked at. And they said they've done some improvements for instance that there's too much rain coming down. They have some ways of holding up the water so that it doesn't all come in all at once. That's been part of it.
-- **[3:13:11 PM] Andy**: I can do the report and you can figure out where. But I think they just have a way of delaying the water so that it doesn't all come down rushing all at once. once Because remember what ends up happening is the problem is that we have the tides backing up and then we have the reins coming together That's when it floods Yeah and guess what No rain right now No rain And guess what the tied hide is four nothing low look at you all that's me that's very helpful yeah and you know what it is about actually been adding all these photos and been supporting the information or for making corrections so I mean I'm encouraged on some ways this is definitely so I can relax a little bit I you know we should still get the sandbags but but I also guess what I have two
-- **[3:14:44 PM] Andy**: So I have a way to warn us if our cars are in danger so I'm not going to get an alert that that need to be careful about our cars. Also when the street is going to be as passable so that's the second morning so now it'll give us a little bit of time. Not only will it tell us when it's impassable but it's tellable when it's cleared. So if we could get up on the boat we would have to be catastrophic and then if that's What's happening at the hood for those of you? What's happening about in 1988 or whatever I guess Magnolia the water got so high that it was up and affecting Magnolia and all that stuff and it's said of the 11 feet. So we're here at 10 foot 4.
-- **[3:15:56 PM] Andy**: I mean you know what I'm saying So it was that much higher So yeah.
-- **[3:16:56 PM] Andy**: The senses bring in the raw data of life sight sound physical sensation feeling tone registered as unpleasant and right there the mind aggregates jumps in to start running while. The Buddha gave us a brilliant operation about how the mind works he said whatever we frequently think and ponder about that becomes the inclination of our mind. Whatever we think about and ponder that becomes the inclination of the mind. If we spend our days taking unpleasant sensory experiences and constantly thinking and pondering about catastrophizing stories resentments and self-judgment are mind-naturally climbs towards bitterness dread and torment We carved that group deeper and deeper This is why we learn to distinguish the facts of experience from what we
-- **[3:18:12 PM] Andy**: had on We were all experiencing the facts and the senses And then what we the outline the mind's story the second arrow the high bill are groceries a high,
-- **[3:19:36 PM] Andrea**: Was that fine?
-- **[3:20:26 PM] Andrea**: I'm almost done I haven't gone through this completely yet.
-- **[3:20:44 PM] Andy**: Look at that difference. You're going to probably hear it in a few minutes anyway the column on up is the direct
-- **[3:20:50 PM] Andrea**: experience the first arrow entering through the senses this is the fact of human life. It requires practical navigation mic budgeting resting having a common boundary with
-- **[3:21:17 PM] Andy**: the co-worker or turning off the news to calm down the writers of the mine and time This is the story that myth the second arrow attacks or dignity
-- **[3:21:30 PM] Andrea**: the increase in the suffering for our cells.
-- **[3:24:26 PM] Andrea**: just a little bit more,
-- **[3:31:50 PM] Andy**: what it is I think the weather brings things on to me. That did notice the cooler temperatures today though. Very nice. That's it was 68 here this morning. This is a big nice sweater right?
-- **[3:32:32 PM] Andy**: Some pubs?
-- **[4:02:44 PM] Andrea**: doesn't need my thing.
-- **[4:05:08 PM] Andy**: You're hard work I want you to give me your awesome present.
-- **[4:05:17 PM] Andy**: Oh my gosh look at you. Oh guess what that is? Cinder cone. It's an adjustable hat. Why? It's been a little thing. I know they didn't have any other colors. Oh my gosh. Maybe like an old golfer?
-- **[4:05:47 PM] Andy**: What's that though?
-- **[4:05:53 PM] Andy**: Oh look at this so this is another app.
-- **[4:06:02 PM] Andy**: I think he's styling right out inside of the Wow I like color too yes very nice color it's in the acceptable range I'll come why you did that.
-- **[4:07:30 PM] Andy**: Mine is really specific. I mean it gives us intentions. I'll see you in the next one. You're awesome. You're a fucking idiot. I like it when you shop. Keep shopping. I got some shoes for me. Well beautiful I'm glad I'm trying to resist because you know there's always something I think it's pulling on here.
-- **[4:08:14 PM] Andy**: I think it's here.
-- **[4:08:27 PM] Andy**: Yeah just a little bit.
-- **[4:09:39 PM] Andy**: We leave.
-- **[4:13:07 PM] Andy**: That guy looks trucky in here.
-- **[4:15:02 PM] Andy**: Can I go out?
-- **[4:17:25 PM] Andy**: This is the first time I've ever seen this kind of thing, but I've never seen this before.
-- **[4:25:43 PM] Andy**: I'm going to cut it into small pieces and cut it into small pieces so that it doesn't get too thick. I'm going to cut it into small pieces so that it doesn't get too thick.
-- **[4:26:01 PM] Andy**: I'm going to cut it into small pieces so that it doesn't get too thick.
-- **[4:30:37 PM] Andy**: I was listening to it here. and you will get a podcast you need to be next to all of you in the kitchen. A liberalism is new now. And now everything attacks it. We everything in ancient history before liberalism the church, all of the sculptures and things like that is really about holding on the power so it's really off there and carrying you to a liberal school and going to a political school by surprise This is a blog post thing. You don't care the picture. I think this is the picture.
-- **[4:32:03 PM] Andy**: All that stuff is little liberal is what he calls it. And so he talks about liberalism being compassionate,
-- **[4:32:12 PM] Andrea**: people oriented.
-- **[4:32:14 PM] Andy**: And so there's all these things against it. And why it doesn't work? Or is trying to balance out all of the other shit that's going on it's a really good article I mean that kind of thing. Yeah so I want to watch the whole thing. Yeah reaffirms you know the first I thought he was going to attack it but he was really like just been doing research on it and trying you know and understanding standing at why it fails and why it doesn't. Sometimes it's just too kind you know. And so like for instance I was watching the other color
-- **[4:32:58 PM] Andy**: it was really Dana Bash that lady I'm seeing in. She came and she interviewed Laurie and Mayor Laurie about the right wings attacks on San Francisco. And she seems to be in favor of their cynicism And you know in a lot of ways I know she's pro-Israel big time and anyway it was mail-o-lawy. He was really he hit a really good job I thought you know he's talking about yeah sometimes we get caught up in our liberalism and we forget the big picture of what we're trying to do. I had to use his eggs to make and I need to get these eggs and polenta for breakfast.
-- **[4:34:08 PM] Andy**: I don't think I have too much but
-- **[4:34:38 PM] Andy**: Where
-- **[4:35:04 PM] Andy**: I just can't make it.
-- **[4:35:38 PM] Andy**: Didn't mean it felt fell down. It fell down.
-- **[4:35:51 PM] Andy**: Oh yeah that one just fell off here. Up here.
-- **[4:41:26 PM] Andrea**: Chick-hhh-chick-chuck-chuck
-- **[4:41:33 PM] Andy**: Check check.
-- **[4:42:01 PM] Andy**: You're coming back?
-- **[4:55:23 PM] Andrea**: So they can show me some more things. Last minute is about.
-- **[4:56:51 PM] Andrea**: Moving the Mindfully Meditation Group for October 11th 2026.
-- **[5:01:12 PM] Andy**: let me put it joining I don't see you okay for some reason I'm in another
-- **[5:01:22 PM] Andrea**: meeting I'm going to close this yeah let me go here
-- **[5:02:29 PM] Andrea**: Okay excuse me I'm doing some little bit of alignment here.
-- **[5:02:42 PM] Andrea**: Okay it's a little strange because I was in that meeting again I need to go and look at the notes to why I have a pre-set on my bookmark for the meeting and okay but glad here thank you sweetie I don't hear you let me close my door yeah do it right
-- **[5:03:43 PM] Andy**: Well I'm here. Okay go Good evening to this week's Living Mindfulness Meditation Meeting and grateful that you've taken this time out of your busy week to join me here tonight. And I hope that you find this circle this meeting supportive of both your internal spiritual practice and your external practice and how we actually move through and engage with the world at large. So also as we gather here we can remind ourselves that of the simple grounding anchor that Ajahn Somato likes to talk about that time is now and now is the mowing the only moment that we have So we're recollecting this here and now and meeting light the way things are in this very moment And also something from Jack Cornfield that I'd like to also
-- **[5:05:18 PM] Andy**: remind us about is that this awakening is not a rare privilege nor is it reserved for a few saints or aesthetics It's the natural birthright of every human being so it's your birthright It's my birthright this ability to awaken So what we take a moment to in a together to intentionally arrive to bring our attention inward releasing as best we can whatever was pulling us before we joined the meeting just something come into
-- **[5:06:05 PM] Andrea**: presence grounding ourselves here and own physical bodies in the space that we inhabit, taking a few calming settling breaths and setting an intention to cultivate which are
-- **[5:06:32 PM] Andy**: rock and many of the contemplative traditions call the two wings of spiritual freedom which are having an open mind rooted in mindfulness and clear
-- **[5:06:49 PM] Andrea**: seeing and have an open heart which is rooted in kindness compassion and and caring action just stay in the present moment
-- **[5:07:03 PM] Andy**: and do know what the way it is.
-- **[5:07:34 PM] Andy**: again by acknowledging that I am speaking from ancestral coast me walk in a lonely territory and I do this formally to recognize and honor the indigenous communities who originally stewarded the land where this virtual meeting for me is taking place and I extend that same spirit out of respect and welcome you wherever you are in your respective environment tonight And I you know Andrea just down the ballway from me. So we're in this together. We have a few basic group agreements other than common courtesy that I'd like to remind us that I hope to help keep the group safe. I hope that what we share in this room stays in the room.
-- **[5:08:30 PM] Andy**: And I know that will be between us to preserve trust privacy and safety for everyone, regardless of their background or identity. And I know this helps right? We should also try to speak from our own direct personal experience whenever possible, and to refrain from giving any unsolicited advice unless someone specifically asks for it. And then you can ask any kind of questions you want. And I do tend to have comments on things, but they're generally not personal unless you ask it to be. And the third thing is that this meeting is not intended to define if that write a wrong or to argue any viewpoints,
-- **[5:09:19 PM] Andy**: but to raise topics of spiritual and practical value for our everyday lives. And lastly participation check-ins in open discussion is always completely voluntary. You're never under any pressure of the share if you don't prefer to. You can just listen and be present. And since there are only a few of us today, actually a couple of us not even a few. I'd love to give you an opportunity
-- **[5:09:48 PM] Andy**: and myself to do a very brief check-in. So I'd invite you to state your name, of a brief 60-second report on your internal weather right now maybe noting if you're happy to be here or not and maybe you're noticing tightness near shoulders or having a foggy mind or feel tired sluggish or anything you'd like to comment on without you know,
-- **[5:10:13 PM] Andrea**: it doesn't have to be exactly that or whatever you'd like.
-- **[5:10:17 PM] Andy**: And I just also want to remind you before we do so that you know if you have any quick clarifying questions on our format Before we sit in silence you can ask that And then I want to just there will be plenty of time in the second half of the meeting for open discussion or reflection So if you want you can wait until then So with that I turn that over to my dear companion partner in life Andrea Hello Hello Oh thank you.
-- **[5:12:12 PM] Andrea**: Thank you.
-- **[5:13:14 PM] Andy**: Funny. There's a lot that's going to be relating to exactly what you were kind of talking about. Hope it doesn't stir you up. But a lot of that's going to it's related for sure. Okay and I'm going to check in and yeah I've got a lot of similar feelings to you. Raiders lost got pummeled today but I feel very calm right now very peaceful very
-- **[5:13:53 PM] Andrea**: contented and yeah that's I can I attribute that to I think my practice I mean
-- **[5:14:10 PM] Andy**: I'm getting used to or I'm getting used to it's sometimes as you know a subjective am I making that up just to fill in the space of the moment do I really feel this Like my practice is getting somewhere you know? But that's my feeling at this moment and there's nothing wrong with having feelings and thinking in a way I'm thinking But I'm very appreciative of how the way that is right now I'm very calm and yeah last night was another beautiful thing and that was also very peaceful and it felt very some of the feedback we got today about refuge and so I know I actually reiterated that multiple times last night and it
-- **[5:15:10 PM] Andrea**: hopefully that that was sinking in so very grateful for that So okay well thank you for the check-in.
-- **[5:15:26 PM] Andy**: Sorry I got a tickle Excuse me sorry.
-- **[5:15:31 PM] Andrea**: I have one I just stashed and I have to open another one I'm not sure anyway yeah thank you for that.
-- **[5:15:46 PM] Andy**: I will take that opportunity with me B So before we get into this period of meditation tonight, And I don't want to lay something on the table that I think is almost all of us have been feeling lately. That there's this background hum novelty and very you know our lives right now it could be a little bit different you know difficult to you know take. Sometimes it could be financial it could be anything actually but it could be financial, you know going to grocery store costing to be rising you know fast. maybe you get a bill and you feel that sinking feeling in your gut but it's also much more than money and I want to broaden that I talk about the financial right now because it's so in the news but I believe it's more than that It's open
-- **[5:16:47 PM] Andy**: your phone and you're seeing alarming news It's dealing with somebody who's maybe root to you in traffic or at work and it's also living in an aching body you know, that you know an aging body or it could be facing any difficult circumstances which are beyond our control So when life brings things that we don't want to experience we see we can see people bounce between two extreme you know extremities Either we fall downward into a downward spiral, might panic might get angry we might stew and catastrophic stories that proliferate in their mind they come up or maybe we find it difficult to sleep sound like you know, we may not sleep well Or the other alternative is that we might slap a coat of pain over you know telling ourselves just stay punositive or everything happens for a reason And there's nothing wrong with that I know the people are trying to
-- **[5:17:54 PM] Andy**: motivate themselves and actually that's could be skillful But we try to talk ourselves out of our feelings you know but our body's actually no better you know we might not be truthful to ourselves If we're not being truthful to ourselves does it bring about peace It just makes us it can make us feel more alienated and exhausted, wondering you know because we would wonder we want to know why can't I just be peaceful and calm a ton that's something that you know we we we feel that we we should do we should be that way So the inquiry we're going to look at tonight in a theme for this evening is how can do we ease our inner torment without gas
-- **[5:18:43 PM] Andy**: lighting ourselves You know about the difficulties that we face in our lives. And the good news is that for the next hour you don't have to fix the world outside You don't have to prove anything in this room here You don't have to pretend you've got it all figured out You could just let Mother Nature take your full weight and you can relax and let go. In the after meeting if you want to pick all that stuff up that's you know that's
-- **[5:19:13 PM] Andrea**: something that you can decide then.
-- **[5:19:18 PM] Andy**: So well endurance a period of meditation. I can meet my mic if I have to continue to sneeze and stuff so as we let these words settle Let us now enter a period of meditation together Take a moment to get yourself into whatever posture you'd like to maintain for the next 20 or so
-- **[5:19:44 PM] Andrea**: minutes Make yourself comfortable We're not here to stress ourselves out But we
-- **[5:19:55 PM] Andy**: You want to stay upright settling in for a wakefulness and presence feeling your physical
-- **[5:20:09 PM] Andrea**: body sitting in the room that you're in and sitting on the cushion feeling the
-- **[5:20:35 PM] Andrea**: not only seeing that you can relax the other The earth is supporting you.
-- **[5:20:48 PM] Andrea**: You can be doing a quick scan, noticing that there's any tension in the eyes, running at cheeks and jaw,
-- **[5:21:04 PM] Andrea**: letting your shoulders drop. Along your hands to relax rest loosely go ahead for wherever you feel comfortable.
-- **[5:22:15 PM] Andrea**: in your awareness of your body the same body breathing wherever it feels natural, Filling it either in the galley or in the chest maybe at the tip of the nose wherever feels most comfortable noticing this rhythm of breathing.
-- **[5:23:56 PM] Andy**: She just turned the camera off. just like your camera's off so this is a period of meditation.
-- **[5:26:19 PM] Andrea**: the next 20 minutes So we're in meditation right now you can ask questions after the meditation.
-- **[5:27:57 PM] Andy**: If I hear your talk I'm going to remove you from the call.
-- **[5:44:35 PM] Andrea**: Okay we'll take a five minute break and we'll come back for the drum attack in the Q&A.
-- **[5:45:05 PM] Andy**: Oh okay yeah I did a blanket in the evening so what I did was I didn't tell you but I got on the photos for covering that work again. Yeah I know so I'm on my list there now. This must have been some meeting where these all these people decided to join in. I was thinking when I was going to change it, I was wondering if it's fun or if my partner's not fun or if I'm not fine with it. I got this. What is really proud of us is that we're
-- **[5:45:52 PM] Andy**: just going to do beautifully. And I thought I could find pretty well. I wanted to show my face just like there's a real person here and I'm meditating you know stuff could turn out. I was gonna pray to them. Good. But I was between like wanting to laugh really hard and also say something like you guys make me sad. Like that. They're kind of like they all dropped off and I wasn't stopped admitting them after a while. So next lock comes so there's a lock that I couldn't join back in. So yeah I don't have as many controls as I could in Zoom.
-- **[5:46:29 PM] Andy**: So but I found a new thing so I could control that, and it just started to move. Whenever you may have them dealing with anything, there was a lock that's like you're gone. There's a lock. It's the way it is. You just put it left and when you open up here, Arc 3 is the world then you're going to have this Yeah especially right now. That's fine.
-- **[5:46:56 PM] Andy**: You know I don't want to shut down because of some idiots. I mean yes they're karma. Not mine. I was going to tell you if I thought a big state I was going to talk about the present. You're off of choice and then I don't take it. Take it Who's poison is it Oh I just that's why I was saying you skipped is it So we just got lasted with a whole bunch of people obviously young acting out talking during the meeting and So I had to gracefully just start kicking them out the call they eventually all dropped off.
-- **[5:48:40 PM] Andy**: That was a lot of time.
-- **[5:48:54 PM] Andrea**: Okay I am back. Yeah I think it's waffling you know but yeah the path does get you know narrow
-- **[5:49:27 PM] Andy**: and I'm glad I mean it was difficult for me even that but you know it was like okay, I was just watching what I was feeling and I didn't I wasn't out of control I was just trying to become and figure out what needed to go on and do Yeah Well for me I know for both of us,
-- **[5:49:46 PM] Andrea**: I think it's been months since we've had to deal with anything like that the last time is on Zoom,
-- **[5:49:51 PM] Andy**: But even that was like a long time ago. Yeah and Alisa Alisha she's still on the list. She's on the event bright things, but she just hadn't showed up lately. So anyway she's on my list, so I give her a sender emails now. Oh cool. I sent I found yeah I found out yeah I do that. So okay I don't wanna focus on them.
-- **[5:50:21 PM] Andrea**: Yeah no problem.
-- **[5:51:47 PM] Andrea**: Welcome back.
-- **[5:52:09 PM] Andy**: So before I jump into this talk I just want to offer my usual disclaimer. So these reflections are offered strictly for contemplation and for your spiritual practice and never as a judgment or reaction to anyone in particular. And usually when I talk about human circumstances or clumsiness or getting tangled up in fear, I'm almost talking about myself also right? The things I catch in my own heart. So these words are never meant to harm but only to shine a warm light on our shared human practice and experience. I wanted to start tonight with that famous observation from Victor Franco who survived being in a concentration camp during World War II.
-- **[5:53:03 PM] Andy**: He said between the stimulus and the response there is a space. in that space is our power to choose our response. And response lies our growth and our freedom. And that's indicated so far in the meany tonight. So now that's a profound insight. Most of us have heard of it. And intellectually we nod our heads right? And we both did. And we're thankful for that reminder. Frankl speaks about the space between the stimulus and the response.
-- **[5:53:40 PM] Andy**: So on the one side we have stimulus that's something that's coming into our senses that they were experiencing. Like I mentioned earlier the grocery bill or any kind of bill or maybe hearing someone talk rude to be having dismissive comments being rude when joining an online meeting You know reading alarming news maybe or just even just feeling like a pain in your back or your neck or whatever so that's just stimulus that's coming into our senses. Then the other side we have the response. The emotion that arises you know a jolt of anger or anxiety or dread or frustration, a company by our body tightening up and reacting So Frankl says there's a space between the two but what happens in that space Well what we're not
-- **[5:54:40 PM] Andy**: mindful are conditioning jumps right across it It's when the sensory contact happens before even know what hits us The motion is already taken over Maybe you noticed that in there what was happening in there earlier I think I did too It's already I'm already feeling what's happening And many times I mean we can see that the stimulation of respond are soon together until like the same thing the instantaneous reaction And because we don't feel that space we can immediately fall into one of two traps We could go into a downward spiral And this happens when we don't want the experience that we're experiencing you know read a counter or whatever it is. And we can plunge straight into anger panic and just scare into our reactivity. And our mind will actually start spinning up because after movies you know as we stew into that dread,
-- **[5:55:44 PM] Andy**: that are you know in our sleep he is wrecked. So Paul you guys want to close the door if you've got to close this door. So the first one is the Downward Spiral and the second one the second trap is we see a lot in our spiritual life and our spiritual work and that's what we call the gaslighting trap Or it could be simply a spiritual bypass This is where we try to talk to ourselves out of the pain that we're feeling we tell ourselves to just stay positive that everything happens for a reason. You know this is as I mentioned earlier this could be something that could be skillful, where we're trying to put on positive faith you know put a smile on our face put a positive twist on things. But underneath we still have a tight stomach. I can get all nodded up.
-- **[5:57:07 PM] Andy**: Or we can just cut up on this. And we can feel that like definitely something's wrong. And when we need to fix it we can tell ourselves that we shouldn't be this way or this shouldn't be this way. And we can judge ourselves for instance, like when it happens to me. I can sometimes it will come up on my head that I've been meditating for all this time and I should be calmer than this. I should just be able to just deal with this or maybe compound it by saying what's wrong
-- **[5:57:41 PM] Andrea**: with me.
-- **[5:57:44 PM] Andy**: So pretending that things aren't difficult or pretending that you don't feel shaken when on one of the things that happened isn't something with spiritual awakening. It's gaslighting our own nervous system. So the real inquiry for our practice and really for the theme of the tonight is, how can we ease our inner torment without gaslighting ourselves about the difficult facts that we face in our lives.
-- **[5:58:20 PM] Andrea**: So excuse me again.
-- **[5:58:25 PM] Andy**: So to understand this we can turn to one of the most practical teachings that the Buddha offered. Now I actually bring this up frequently This is the teaching on the two arrows. So the Buddha asked when an untrained person experienced our pain or difficulty what happens? And he said that they sorrow they grieve they lament as if they were shot by an arrow. And then immediately the shot by a second arrow so they feel two pains the physical impact and the mental torment. So we're going to unpack this right now. So this first arrow is the raw unavailable impact of living in a body human in a body in human being. You know where we're in this really uncertain world.
-- **[5:59:20 PM] Andy**: The Buddha called directly talked about things in this that were like this that are stressful. He called that duke. So that's the word for duke. And so what he did was he was pointing out the unavoidable realities we all face which is old age sickness and physical decline. I'm feeling that waking up with physical aches or you know an aging body but we can also feel Duke of by being separated from what we love and cherish you know losing people in our lives are changing roles and the routines and things that we care about. We can also feel Duke by being associated with what we dislike or hate.
-- **[6:00:08 PM] Andy**: So you know not having to deal with rude people or workplace friction or rising prices just serving news or any other circumstances that are completely beyond our control. The other way that he defined Dukas not getting what we want you know having our plans unravel or expectations disappointed. And so how do we encounter all these things? We experience some through our senses. We experience some through our eyes ears nose tongue body and in particular the mind. So when you see that grocery bill you know it's higher or someone talking down to you at work then that's the first arrow in airing our senses. It's an actual factual impact.
-- **[6:01:00 PM] Andy**: It hurts. It's not in our head. It's simply part of being alive right? And that's the first step of this on his practice is honoring that first arrow without chain So this is hard this is what I'm experiencing and it makes complete sense that it feels unpleasant The sacriot arrow on the other hand is what our mind adds on top of the experience And actually this is what causes us to suffer and this is the thing that we can actually do something about So it's the stories and things that we spend about the impact you know the blame the catastrophic predictions that we feel attack on our own character For instance we might
-- **[6:01:51 PM] Andy**: say they don't respect you that you're failing or you're never you know you never, things never go your way or you're not going to make it And I remember when my mind was constantly thinking like this Now why does unwanted sensory contact hit us so intensely in the body Why does the stomach get tight or not is out right below the ribcage? In early Buddhism and in science in general there is this fundamental law of conditionality what the text call e-da-pa-cha-ta-ya hard word to say and I wanted to say it to try it but this condition thing it simply means when And this exists that comes in to be and with the arising of this that arises that conditionality because of things causes there are conditions. Things don't happen because you're broken they happen because of causes and conditions.
-- **[6:02:53 PM] Andy**: Your conscious intellect understands modern concepts like checking counts politics and news but the deeper older parts of our nervous system circuits that control our body our diaphragm and our gut are millions of years older than the modern culture So these systems only have two basic settings safe and connected or threatened and endangered. When unwanted threatening information enters our senses and our body treats that as a threat to our society you know our breath gets tight that got shuts down you know it's basically pulling blood away from digesting the fuel your muscles so we can you know fight your flight right And the muscles can tighten to protect us in case you know for in case of some kind of physical below that might happen That tight knotted feeling in misstomach is in a character defect It is in a failure of your mindfulness It's your inner creature
-- **[6:04:00 PM] Andy**: reacting to the conditions of threat And when we understand conditionality we don't have to get mad at our bodies We understand of course the body tightens up when these conditions are here and they feel threatening That's the nature of what the body and the The mind was built to do it's a mind actually it's a predictor predicting our survival. So we could think about this in nature what happens with animals. So you take a deer in the meadow that deer is grazing peacefully in all of a sudden it spots a tiger or some other predator stalking it. So the survival alarm sounds instantly it hearts races it's muscles fire and it bolts a full speed across the field trying to get the safety. This is the difference.
-- **[6:04:53 PM] Andy**: Once that happens with the deer you know it's past the deer's safe you know safely stops. And usually I think what I've seen is that they tremble like they shake it off. And they go back to their peaceful lives just grazing in the grass. And that's as simple as it is. You know the deer doesn't you know stand by the you know the stream drinking water and saying what if the tiger comes back tomorrow and why did the tiger target me and you know those kinds of questions you know so that the animal doesn't carry the predator around. You know once the thread is gone it shakes it off and we're going to turn it back
-- **[6:05:34 PM] Andy**: so it's a space line. Human beings that's not the case. don't shake it off Instead our minds take over We think about the tiger when there is no tiger. So the paper bill is that tiger is just sitting there quietly on the kitchen counter. But in our heads it's the tiger that's mauling our future you know well-being. Someone made a sharp comment at work for two days a couple of days ago We're still paying, repaying we playing that comment in our head right while we're trying to go to sleep at night so there's no physical predator in the room but we're in because we're sitting in a safe place right now we're in a safe place of breathing air we have a roof over our heads but the mind keeps
-- **[6:06:25 PM] Andy**: bringing this fly of alarm bell which keeps our stomachs tight and not it up the days I'm in So this actually links us to look at what are called the five aggregates the components that make our moment to moment human experience We have this physical body in form There's the feeling tone There are where this is where you're feeling something that's pleasant or unpleasant or neutral We have our perception of things right We proceed things or we're conscious of things, so we have a conscious And then the crucial aggregate is the mind the mental formations and thoughts and reactions that we have So right now I'm giving you some information specific to Buddhism and I hope this doesn't scare you away and I know it doesn't scare you Andrea. And it shouldn't because a lot of this is basically just categories of the way that we look at
-- **[6:07:27 PM] Andy**: experience regardless of any religious or spiritual perspective and you can test it out yourselves right Are you aware of you know you have a body yes okay Do I feel things Yes do I perceive things right You know these things for yourself The The idea is that these senses bring in the raw data of life sight sound physical sensations, and the feeling tone registers as if something pleasant or unpleasant and then right there at that place that's where the mind jumps in and starts running wild. So the Buddha gave us this brilliant observation about how the mind works and this is something we might want to remember. However we frequently think and ponder about, that becomes the inclination of our mind.
-- **[6:08:25 PM] Andy**: So I just wanna let that land there. Whatever we frequently think and ponder about, that becomes the inclination of the mind. So we spend our days taking unpleasant sensory experiences and constantly thinking and pondering it and catastrophic devising these stories. these resentments and the self-judgment our mind will naturally incline towards bitterness, dread and torment. And in neuroscience they talk about having grooves in the brain so that we carve deeper grooves in our brain.
-- **[6:09:04 PM] Andy**: This is why we must learn to distinguish between the facts of our experience from what we add on. So the first error or from the second error. raw experience is the fact of coming into our senses right That's the raw experience What's happening out that we're sensing And then what we add on this is our the mind story and our reactivity So this can be like as I was talking about when we get the bill you know there's the the fact that we got the bill, But then there are some thoughts afterwards that I can't pay this bill or I can't take care of my family on worthless so that's the add-on or when someone speaks sharply or brutally at us that comes something we come in we hear and we start we add the add-on
-- **[6:09:57 PM] Andy**: this oh they don't respect us or they don't appreciate you or maybe you think people you are uncouth and you know whatever his thoughts come up that way right same thing with like when we get our alarming news you think you know the mind would start generating thoughts about everything's doomed the world is hopeless and nothing I do as matters and the same thing with even with like a step back or you know some chronic ache you could think our body is is no good it's ruined and and life is over and this is all part of this second era of things that we add. So we can look at the difference. On the left side there's our direct experience the first era, are the facts of life you know things that are part of life,
-- **[6:10:51 PM] Andy**: and it requires some practical navigation. We need to do budgets we might have to find boundaries with people or might have to turn off the news. This is called guardian of senses right? And on the right side this is the stuff that the mind adds on. That's the story the myth the second arrow, the things that attack our dignity and create endless inter-separate. A sensory event happens outside of our direct control, but we think about and ponder on that something we add on.
-- **[6:11:29 PM] Andy**: That's something we can catch. And that's somewhere where we can put on the brakes. And that brings us right back to Victor Frank Frankl's space. Where is that space? The space is right between the sensory experience and what the mind adds on. So when you see the bill when you hear the brutal remark, when you feel the a you pause. You notice the sensation. You notice the tight knot in your stomach.
-- **[6:11:59 PM] Andy**: Right then there you can realize the truth of the cause. And you can also know for yourself you are not the knot. You are the awareness that knows about the knot. The tight knot you know stomach is like a sudden squall blowing across the desert. It's windy it's turbulent but the open sky doesn't panic. the sky has plenty of room for the squal to pass without being plurmed. Now how do we rest in that open sky? And that's really the gist of things that we want. How do we live this out when we're on our cushions tonight?
-- **[6:12:43 PM] Andy**: Well Tarbrough often speaks of this as two wings of a bird that actually allows us to fly and be free. If a bird only had one wing or either wing is injured it cannot soar. It just flutters in circles on the ground. The first wing is mindfulness which actually tar off and all calls clear seeing the foundation of wisdom. One aspect of mindfulness is seeing clear things as they actually are. In the present moment without distortion, without denial and without gaslighting ourselves.
-- **[6:13:23 PM] Andy**: It is the clear eye that looks directly at what happens and discerns this is the raw sensory experience, this is the first arrow. And over there that's the story of my mind adding onto it. Clear seeing sees conditionality. It understands that we are the spacious awareness for the not we're not the not in the belly. The second wing is compassion an open heart loving kindness and caring action. As Torah teaches compassion is the wing that meets whatever is clearly seen with tenderness
-- **[6:14:04 PM] Andy**: rather than condemnation. It's what keeps our mindfulness from terming into cold clinical and overly intellectual exercises. So compassion's down it looks down at that tight non-stubbed stomach and says I see you hurting you're not broken I care about this suffering. And compassion doesn't just sit there it moves into action. That's the one difference between empathy and compassion. Compassion is about action. It takes wise caring and practical steps in the world to protect you to set boundaries and support those that we love.
-- **[6:14:47 PM] Andy**: Notice what happens if we try to navigate life with only one wing. If we only have clear seeing without compassion, we can become cynical dry and hypercritical. And we diagnose our stress. We see all of our flaws but our heart is shut down and cold. If we only have compassion without clear seeing, we slide right into sentimentality and wistful thinking and spiritual bypassing, we try to love our way through by denying reality, putting on a fake smile and gaslighting our own nervous system.
-- **[6:15:25 PM] Andy**: It's only when the head and the heart fly together, mindfulness and compassion clear searing, and an open heart that we could find genuine freedom and resilience. And this brings us to the last part, something that's new for me that I've formulated that's called the practice of double holding. So with clear seeing which is where we recognize experience as experience and then with the wing of compassion holding ourselves in the open heart in careless actions. So one hand is rooted in mindfulness and clear seeing so we can hold that you know, burnished outside of ourselves refusing to hide refusing to gaslight ourselves and meeting
-- **[6:16:15 PM] Andy**: reality as it comes into our senses is something that we can hold onto. We know that that's there. And then on the other hand we can have compassion and open heart. We hold our own body in mind with tenderness using kindness as an active medicine to suit or not and taking grounded caring action in the world So there's a four-step process you can keep in your pocket One is a acknowledge experience There's no need to gaslight yourselves So when something unpleasant interests senses you can see it clearly and plainly The second thing we can do is notice what you're adding on. So this is where we add insight and discernment right? We can catch the mind aggregate in the act,
-- **[6:17:10 PM] Andy**: jickily asking ourselves, what story am I building on top of this? Am I spinning disaster movies? Am I beating myself up? Remember what the Buddha said? What we think upon or upon becomes a inclination of our mind. With a clearer scene we could put down that second arrow and let the story drop The third thing we can do is comfort the body with kindness, with compassion and an open heart We cannot talk the stomach out of a knot with intellectual arguments We can speak to our body with an open heart maybe placing
-- **[6:17:51 PM] Andy**: your palm on your you know a felly and just you know feel that yourself feel it and let that that warmness of your hand on your you're not you know sink in. So it's a somatic experience You can take slow and set you know calming breaths to relax ourselves and have compassion We use compassion as an act of aid speaking to our body like a dear friend. I know this is threatening I know that you're unsettled but right now in this few seconds we are breathing. Right now we are safe in this room We can soften. So then the fourth step is to take grounded care and action This is clear seeing and compassion and motion. So we've soothing our nervousism isn't about becoming passive it's about clearing the mind opening our heart so we can take wise skillful action. We address the practical facts the budget the difficult conversation the bodies need
-- **[6:19:03 PM] Andy**: for medical care or rest without panic. We set healthy balconies with rude people or negative news and if we need support, We reach out and ask for help without shame. In our culture asking for help is often treated as a flaw but reaching out is an act of deep wisdom and open-hearted human courage. So now when we carry this kind of stress day after day it doesn't just stay you know, for an occasional reaction. It can become chronic. It turns into a deep automated automatic habit of mind. So we find ourselves living a state of continuous stress
-- **[6:19:51 PM] Andy**: and low grade of alarm. And that constant tension takes an enormous toll on us if we let it. It drains our life force wears down our physical health, and keeps us feeling perpetually exhausted. This is why practice is so vital, and it works on two distinct levels. In the immediate moment it gives us practical real-time relief. about you when I meditate. That's what I'm working on.
-- **[6:20:20 PM] Andy**: Whenever you experience something unwanted, whether you're looking at a bill or you're dealing with typical interaction at work, double-holding gives us a way to pause to soften the non-nostemic and to stop shooting that second arrow into ourselves, which just really causes a lot of our suffering. So we don't get caught in that downward spiral. But the long-term benefit is well, is where real freedom fives.
-- **[6:20:48 PM] Andy**: And this is I think something we had talked about earlier, just during the break. Over time we repeatedly practice clear seeing an open heart of kindness. We actually rewire that you know this habit of the mind. We stop running at that mental engine that keeps conjuring the tiger all day. and our nervous system finally gets the message that it could stand down. You become more peaceful more resilient,
-- **[6:21:18 PM] Andy**: and far less stressed overall. And think about when it gives us. It gives us our energy back. Instead of spending nearly all of our daily energy feeding the stress, fighting our own feelings, calves drop-izing, wrestling with our inner knots we claim our energy. we now have that spaciousness the vitality and the clear head to deal with our lives with far more skillful and a far more skillful and creative matter.
-- **[6:21:50 PM] Andy**: Now this brings us things to things that we don't want to experience and that's simply the reality of having a body in this world. But you don't have to add torment to pain you don't have to turn against yourself. In both wings of your practice look at your life with clear seeing of mindfulness and hold your human vulnerability with an open heart and the caring action of compassion. When both wings are strong you can cultivate any storm without losing your footing or your dignity. So I thank you for your practice and for your kind attention and we have a few minutes left I'll open it up for some comments and feedback and the rest is voice Can you
-- **[6:22:40 PM] Andrea**: have none Okay.
-- **[6:22:47 PM] Andy**: Okay I know what that means Oh you can't unmute Gotcha Oh thank you for remind me sorry about that Let me fix that and figure what that is Okay try it
-- **[6:23:08 PM] Andrea**: right now. That's fine.
-- **[6:23:42 PM] Andy**: them but that's okay We're sure on time based on all the things that happened to us tonight So I think what I'll do is I've actually repeated these Let me just summarize your quick and we can close right So as we get ready to close our evening here here a few signposts to keep in mind keep in our pocket this week So on or the sensory impact we all do we all know what's But the first arrow is facing things you don't want to experience. We really don't have much of a choice in a way. Once you're in it. And we can acknowledge that it hurts. That's not negativity.
-- **[6:24:32 PM] Andy**: It's just honest presence. There's no need to pretend it's otherwise. Catch what you can eat. What you add on that's something that I think is very helpful. And I try to catch with me. that second arrow notice the difference between what we're experiencing the facts of our experience and then the mind the things that the mind spins on top of it. And remember whatever we think and ponder upon becomes the inclination of our mind. So understanding that the knot is not as biology it's not failure you know it's not failure.
-- **[6:25:09 PM] Andy**: and unwanted things enter our you know experience them and we start getting tight knotted up. That's just causes and conditions you know, and the nature working to you know, reacting to the perceived threat it doesn't mean, it's not a personal thing for us that we have to take on it's me on the failure right? And when we think about the tiger you know the other this whole idea of thinking about the tiger when there is no tiger you know to notice that you know that we don't have to keep the predator alive in our thoughts noticing when we conjure a tiger in a room,
-- **[6:25:57 PM] Andy**: when there is none we can realize that we're completely safe here. And then actually coming back to Victor Frankl again we can inhabit that space. This space lives right between the sensory contact and the mind with the mind adds on. So you're not the not you are the spacious awareness that's observing it. Fly both wings the wing of mindfulness of clear seeing seeing things that they actually are with discernment and with compassion with an open heart meeting ourselves with act of kindness comforting the tiger you know a tight knot not the tiger let the tiger run away and moving into carrying action And practice this idea of double-holding you know holding the truth of reality and then also having this compassionate heart that also is also true And then remember and remind yourself about the both the immediate relief
-- **[6:27:10 PM] Andy**: and the long-term freedom that we gain from this practice It does relieve stress and it does have the lasting fruit that breaks the chronic habit of stress So instead of burning our energy feeling worried we claim that we reclaim that energy to deal with our lives
-- **[6:27:29 PM] Andrea**: in a skillful and peaceful manner. So going and now we'll bring the meeting to a close we can look at the real pressures
-- **[6:27:50 PM] Andy**: of navigating the world the instincts that's wired in our bodies and the courageous human and work of meeting our difficulties with these two wings of mindfulness and compassion. And a reminder that awakening isn't about escaping from life or pretending that you never hurt. It's about how we show up right in the middle of it all with our families out in the street at work and in the quiet hearts of our own hearts. So with all that to seal our practice tonight, We will practice meta so we offer these intentions of good will first to ourselves and then outward to all beings.
-- **[6:28:43 PM] Andy**: May I be safe and protected from harm. May I be healthy strong and at ease in this body. body May I meet whatever arises with wisdom patience and an open heart May I live with peace and remember my true dignity Now expanding this field of goodwill to encompass our loved or neighbors us in this circle in all beings everywhere navigating the difficulties of this earthly life May all beings be safe and protected May all beings find shelter or ease in understanding May all beings be free from inner torment and fear. It may all be remember through an in-nate word and that it peace. Thank you for your practice for your presence and your heart felt sharing tonight although even though you didn't say much I wish you a gentle grounded week ahead and I hope that
-- **[6:30:15 PM] Andy**: this has benefited for you tonight.
-- **[6:31:08 PM] Andy**: People were still trying to come into the meeting after we had done. if I've ever remembered experiencing that with the Buddhist recovery network. Meet landings you know what I mean? I don't remember it being that bad. That was I wonder where that group was from picture there was I don't think it was hackers. You know they were all the same group they all joined right after each other. So they were hackers would be like one-offs. That was a group That was a recovery center of people. I've seen them before.
-- **[6:32:35 PM] Andy**: It is That's why there's a lot of them.
-- **[6:32:41 PM] Andy**: And when you do get in there work on it. Zero two three work on it. There's some guy came in asking why he came here the first time when the first one. Oh yeah he asked me if I could keep doing that you know I mean that was going to be like There's plenty of them. I need that. There is too many. I didn't need them in the mess.
-- **[6:33:30 PM] Andy**: And he likes your fur and legs less.
-- **[6:33:39 PM] Andy**: I'm going to just wait for the time to come. I need to get a little bit of water. Do you think that's worth that?
-- **[6:34:02 PM] Andy**: I think I've got to get a pair of gloves.
-- **[6:34:11 PM] Andy**: Oh that's a big one.
-- **[6:34:19 PM] Andy**: You can open it I'm open to talk to you about it not fire but it's a whole
-- **[6:34:48 PM] Andy**: king give them I think these are two These are the lowest I was there from one good one.
-- **[6:35:29 PM] Andy**: This is me kind of admitting the facts of life I had to change my pants twice. the pants are in the laundry. This showed it. Just a little bit. And in fact I did it. I was in the room by myself. I was crazy. What happened to you? I was trying to drive my football. Oh I did fine.
-- **[6:36:02 PM] Andy**: Nobody showed up anyway. No I'm going to put it underneath the counter put it underneath with the toilet paper A- going over there. Yeah no problem. Um I'm trying to lie. Okay so to take a vegetable it's going to be broccoli.
-- **[6:37:15 PM] Andy**: You've got all this congees. Okay now I'm going to do this. I didn't show you how to cut a board thing. There's a thing hole. There's something. You don't need to have that screw in the bottom. There's only one kind of cutting board that does not carry it back. not carry back here. What did it do to the middle one?
-- **[6:37:48 PM] Andy**: It was a tight pain. That was $100. No no we're not. But you get a surgical with these in hospitals. Those anyone don't carry on that area, even with can't clean these. So they've got them in, they've got all the cuts, all the little cuts,
-- **[6:38:10 PM] Andy**: the shit they need to do. Oh I'm sorry sweetie oh yeah well I know I know sweetie I'm sorry I tried to be a good example and just keep it going, you know Well did you see one of the guys tried to bait me? Yeah and then there were a couple of them if you noticed they were changing their picture they had like big fat women and it's like I started just getting rid of them. Then some of them were being tricky about it they wanted to get caught and I just think they were and I just there was two that I didn't boot and then they left them their own
-- **[6:39:43 PM] Andy**: she was being quiet I think
-- **[6:39:52 PM] Andy**: yeah this is a Yeah sad.
-- **[6:40:04 PM] Andy**: But let's try the over cover sweetie. That's probably
-- **[6:40:26 PM] Andy**: Okay are you going to yeah we're probably going to be the night now. I didn't know. Alright.
-- **[6:41:08 PM] Andy**: I love you Steve. we did find I knew that was the one that was challenging for you I tried to keep the meditation going just so you could work through it I saw at the end that you were kind of like, Yeah not.
-- **[6:41:41 PM] Andy**: So fuck it.
-- **[6:42:17 PM] Andy**: That's not going to happen all the time but if it is I mean I always think I don't want to have been advertising But now I know so that's another thing I do They have to register as people So technically I blocked them They're always blocked So that's that You know unless they change their email address that's fine but that's kind there's going to be a stupid word in there more than a matter because everybody has to be trusted to join. I don't have it just open. That's me I'm not like that. Now if you're a good person register get it you know what I mean. I don't want to say that Somebody like didn't want to be you know want to be private and all that. I'm not
-- **[6:46:09 PM] Andy**: I'm going to have to go to the other side to see if I'm going to be able to get out of here.
-- **[6:48:19 PM] Andy**: form on the left. But if it's difficult to approach without a date it's no longer something that I need as a country or anything. It comes with all kinds of things.
-- **[6:48:50 PM] Andy**: You've got one of the capitalism on the right you've got all kinds of people who can find this threatening anti-backed because there's all kinds of things over there. And then I'll go left. You have people who are identified with first modern forms of the liberalism.
-- **[6:49:16 PM] Andrea**: people say there's no such thing as objective reality. It's really all just about discourse and it's about who controls the discourse.
-- **[6:49:25 PM] Andy**: And those who control the discourse control reality.
-- **[6:49:28 PM] Andrea**: So they say science is just a game that's being played for the benefit of privileged white male. They've talked in the past about you know the anthropocentric science.
-- **[6:49:38 PM] Andy**: They question the very idea that truth should even matter. They think it's politics all the way down.
-- **[6:49:44 PM] Andrea**: And that's how the deep foothold actually in the act is still at left. And all of the things you're circulating out there,
-- **[6:49:52 PM] Andy**: none of them is entirely new to them.
-- **[6:49:55 PM] Andrea**: Always is to understand from those ideas to make our case against them. You know they're not weak and stupid ideas. They're long ideas but they're not weak and stupid. The two main challenges I point to in my book on a post-ficion knowledge one is coming predominantly
-- **[6:50:16 PM] Andrea**: And another is coming predominantly from the right. And that's a campaign of anti-liberal propaganda.
-- **[6:50:27 PM] Andy**: They're quite different.
-- **[6:51:16 PM] Andrea**: So that quick drop the 49ers did hold with Jane and Tucker with the linebacker.
-- **[6:52:15 PM] Andrea**: up to the fabric. Miley by the way why won't somebody get in the control room on this way? The American economy has left a lot of things to do at the moment. But it's just a little hard for us. But still now by 20 when you all
-- **[6:52:38 PM] Andrea**: Michael this is in a long long way. This is the power.
-- **[6:54:13 PM] Andrea**: So there's things out there that's just that. Everything seems like the one thing I thought was if there's something like a bomb on it, it's too late to hide. if there's something that didn't stop it,
-- **[6:54:35 PM] Andrea**: they say,
-- **[6:54:40 PM] Andrea**: they can just think that
-- **[6:54:42 PM] Andy**: what the goal is or what I think I'll think of.
-- **[6:54:46 PM] Andrea**: I need you all to get the chance to be honest. First of all three times and 40 points for the fish.
-- **[6:54:54 PM] Andy**: Yes!
-- **[6:54:55 PM] Andrea**: First of all you've been sent all year in San Jose. War is a mercy now. You like this? This is your first time in San Jose. You've been sent all year.
-- **[6:55:39 PM] Andrea**: and this is up and it's in the pool. Hurry I'm afraid I'm going to need to happen as you can start anything so I'm going to be picked up in and sign out for a game where it's presented by Burger King. Another hunt before I throw down. Hurry I'm trying to think that it's the first day of the first hour. It just now was a moment when I left that corner earlier I was next to you about the challenge of blocking the other half of all of it. First of all again hurry and try. Swipe for anything.
-- **[6:56:18 PM] Andrea**: Please go through it. I'm out. Hurry. Take away from the staff. Close to you. Hurry. We can do it.
-- **[6:57:07 PM] Andrea**: I'm down.
-- **[6:59:33 PM] Andrea**: The ball is just not a secure error. You have the ball out in the lever order in a second order, drop it around with nobody. And you carry that ball like this like it's a walk drill. The ball's on it again. It's never too high or secure. I'm going to leave the ball.
-- **[6:59:59 PM] Andrea**: That's it. I'm looking at my back and forth. Time for us to reel. And this is the area we go on. Can't sit can't take off Carl Day. And the fourth parallel of my step is to go deep. The 10-year oil is tied in. Yes just on the coffee route. The corner is always going to win. On a four-zone I'm going to drive to the road
-- **[7:00:25 PM] Andrea**: and we're doing it somewhere else. I can't run on the road. I'm not going to have that for enough. A really solid one. We need to be making good things that very much effort to avoid which by now is all I know is to believe
-- **[7:00:45 PM] Participant**: jump.
-- **[7:00:49 PM] Andrea**: Oh things are left. I'm not even close.
-- **[7:01:55 PM] Andrea**: I don't have beer signs that I've written the box, the tackle inside the 25. I don't have beer signs that I've written the box, tackle inside the 25. I don't have beer signs that I've written the box,
-- **[7:02:22 PM] Andrea**: I guess the angle's okay.
-- **[7:02:24 PM] Andy**: Oh my God.
-- **[7:02:55 PM] Andrea**: It looks like he's maybe coming loose you're going to have to determine if it looks like the right leg is down. It gets you straight up here and gets you right by or and see if it's not a sound. It's tight It looks like a baby coming loose You're going to have to determine it It looks like the right leg is down. You don't know where do you think it was.
-- **[7:03:58 PM] Andy**: That's a big hit!
-- **[7:05:56 PM] Andrea**: Right now we got one.
-- **[7:06:09 PM] Andrea**: Marty,rated
-- **[7:06:20 PM] Andy**: Standon.
-- **[7:06:49 PM] Andrea**: Oh yeah that is definitely a touchdown. Same now we tried to break into the middle. He feels the coverage of the scramble just works the way in the back end line. Burn look at that. What the hell is going on here?
-- **[7:07:18 PM] Andrea**: I don't want to play fast. When you're in a different way, that's when you got a world in a place that's as good as a single other guy I don't want to get away. I want to know what you intend to do. When you're in a different way,
-- **[7:07:47 PM] Andrea**: We're going to have to go away. Things about why it's damn sad. It's just their day. But things don't go as they go away. And coverage always varies between yours. Longer and coverage. We're going to have to retire.
-- **[7:08:13 PM] Andrea**: We're going to retire. That's what it is. It works like that. if it works out for me. I'm going to see what's there for it. It's got a great block. It's here.
-- **[7:08:23 PM] Participant**: It's here.
-- **[7:09:41 PM] Andrea**: This is just a big corner row The perfect matchup on Jeff Jones. I love this gap one go. Working ten fire face a blip. Fire a little. Just like this. Run. Run. Run. Run. Run.
-- **[7:10:00 PM] Andrea**: Run. Run.
-- **[7:10:02 PM] Andy**: Run. Run.
-- **[7:10:04 PM] Andrea**: Run. Run. Run. Run. Run. Now this automatically gets reviewed from upstairs inside two minutes. We're on a great play and I'm right here. What happens? I just don't know what was right. There's a huge point.
-- **[7:10:22 PM] Andrea**: Who is not the field player? I'm from here in front of an early field fan.
-- **[7:10:27 PM] Andy**: I'm sorry Are you sorry again
-- **[7:11:27 PM] Andy**: I only thought I had that the fun I did because I had it it was in an article and Now there's a hole um it seems like it's too fast. Oh well. Um what did I do? I have to, Well look for that right here these spars. I didn't uh have to cut this down now. Please. Let's see what's going on.
-- **[7:12:36 PM] Andy**: Yeah here probably. I didn't uh I just didn't see the mess down in me but I picked out it. Yeah it's a pretty cool thing because I removed the top of it.
-- **[7:13:46 PM] Andy**: Yeah I think I do have it and maybe on the website I just want to remember I got I showed it to you one day you remember it's like shooting me in the back of the door?
-- **[7:14:37 PM] Andy**: I'm going to have to get out of here. I'm going to get out of here.
-- **[7:15:06 PM] Andrea**: I don't think I know what it is.
-- **[7:15:10 PM] Andy**: Turtle Island.
-- **[7:15:15 PM] Andrea**: Oh wait a minute. Stay here.
-- **[7:15:52 PM] Andrea**: I left the bag for 22.
-- **[7:16:48 PM] Andrea**: Yeah yeah I don't think they respond scammers or any I think they were just basically
-- **[7:17:17 PM] Andy**: Juvenile delinquettes young people this is the answer problem it's a problem they have no respect. It's a problem in men that's why I'm trying to get a reaction yeah it was all right. reaction Yeah it was a lot Yeah I'm sure Very immature I think there's a few maps like that around but I did see one.
-- **[7:18:21 PM] Andrea**: Oh wait a minute.
-- **[7:18:30 PM] Andrea**: I thought I had bought one a while ago.
-- **[7:18:35 PM] Andy**: Just some other things in here. Earth Science. It's in the door. Earth Science. There's a book called That Earth to rely on decolonized.
-- **[7:19:04 PM] Andy**: Yes I was really detailed. Well Library of Congress has one maps of native tribes native ministries as you can find them. Oh you want one for sale? No I'd rather not but there's a PDF I mean that's what I was saying. I think I looked through my history I might go find it because I remember a couple years ago showing it to you and how detailed it was yeah I did but if I downloaded it or where I put it.
-- **[7:20:39 PM] Andrea**: I'm going to look at this thing do you have all that?
-- **[7:20:43 PM] Andy**: You hand your office door there like a bunch of loosters. Oh you know those old posters science posters, I don't play them anymore I don't put on or maybe there's a couple of huge art ones.
-- **[7:21:10 PM] Andy**: Well I was tracking them down I was out for the deep and take more down. Do you want to find a place for the horses? I know I know where to put it. in the bedroom I'll show you All you have to do is just move the growth picture down and it up for there Yeah right on that wall there so you can see it every day.
-- **[7:21:48 PM] Andrea**: Yeah we're going to have to get a frame for it.
-- **[7:22:24 PM] Andrea**: Get out of there. I'll stick in there. You got my knife for the camera.
-- **[7:22:31 PM] Andy**: Do you know that place? I forget the name of that from all across the street from Monsido. They're expensive but they can make one for you. Could that mean that'll be a standard size?
-- **[7:23:05 PM] Andy**: But I didn't.
-- **[7:23:44 PM] Andrea**: I think I saw a web one that was even more detailed. Yeah this one's not the one I'm thinking of oh women.
-- **[7:24:56 PM] Andrea**: If my morning is a sunrise down on the Alcatraz do you miss people's day?
-- **[7:26:00 PM] Andrea**: Oh no.
-- **[7:26:55 PM] Andrea**: I'm going to do the oxygen. And how are you all having fun for two weeks?
-- **[7:27:50 PM] Andy**: Three weeks. And then um I'm gone at a certain point huh? The end of your thing? The last week. I probably have like one day at home in the area. I could bring a tray over there and eat with you too if you want.
-- **[7:28:48 PM] Andrea**: I think it's pretty cool to talk about too man.
-- **[7:28:58 PM] Andy**: Yeah it's a nice way to play too. Sometimes it's just like we do here. Not that hard. I think we're doing okay I mean financially we're I think we're overall we're doing pretty good. I can tell that you're saving money so that's good news and I think that you're going we're going to get a big fat refund on your insurance this year We're going to get a refund on that because that was all based on me making 135,000 a year versus
-- **[7:30:00 PM] Andrea**: and I only made 50,000 this year.
-- **[7:30:30 PM] Andy**: So we've been getting 2,500 times 6 so let's just say 18 the cheat so I don't have to buy supplies whatever so close to 18 and then we spent another car was 8 7 or 8 and beds were three or four The bed Yeah So let's just say that's 12 and then the funeral is 10 So 22 plus 7 22 plus 8 is 30 So 30 plus 50 is 80 So we're under 100,000 taxes So we're gonna be 80 we're gonna be way under the 12% tax thing So yeah and I was paying all those taxes like I was making 135,000 Well actually not because I was contributing to the 401k so I think based on our income this year they will have realized that you pay for the pay. So I think we'll get that back because you've been paying for right that's what I mean. I mean it may not be much but it's going to be a problem.
-- **[7:32:15 PM] Andy**: I don't think we're going to have to pay this year.
-- **[7:32:18 PM] Andrea**: We're going to get back.
-- **[7:32:24 PM] Andrea**: It's great.
-- **[7:32:34 PM] Andy**: If we can live here I guess I'm settled to live in here
-- **[7:32:38 PM] Andrea**: here and something else doesn't come up you know it doesn't come up for us.
-- **[7:32:45 PM] Andy**: I'm not going to get flooded. And it really it sounds like it's a hundred to 500 year floods. But we're in that danger of that happening. So it's just a matter of I mean there's no storms. you don't have to worry if there's a storm and it's not high tide we won't have to worry maybe because the Kelvin wave is going to add so I mean it's almost adding a foot and a half right now so when we're like we remember I was saying oh I'm I'm worried about that 7.25 foot well actually so imagine it to 5 is actually so 1.25 this just hit us the Kelvin wave said to 6 foot we got to worry about 6 foot and it's going to be almost all the time we're going to run into this and
-- **[7:33:54 PM] Andy**: worse Now imagine if there's a seven foot wave and then there's a foot in a quarter of kelvin.
-
----
-
-## 🎙️ Session 3: 2026-10-11 09:34:06 (5h00m)
+## 🎙️ Session 1: 2026-10-11 09:34:06 (5h00m)
 - **Source File**: `2026-10-11 09_34_06.mp3`
 - **Audio ID**: `of_2f849ea5528f7c4cc3d10cbd3181a67d`
 
@@ -1224,5 +556,673 @@
 - **[2:21:37 PM] Andrea**: task Yeah I don't really think we fully set up the Sony blu-ray player controls etc.
 - **[2:22:04 PM] Andy**: Also nor the lights.
 - **[2:32:13 PM] Andy**: just doesn't scare anyone and it shouldn't because a lot of this is basically just categories of the way that we could look at our experience regardless of any religious or spiritual perspective. You can test this out for yourselves.
+
+---
+
+## 🎙️ Session 2: 2026-10-11 14:34:07 (5h00m)
+- **Source File**: `2026-10-11 14_34_07.mp3`
+- **Audio ID**: `of_d323bf2a69bbd28933804eaefd223712`
+
+- **[00:00 - End] (Speaker / Group)**: - **[2:39:47 PM] Andy**: So you could actually get in with no problem. The corner is still got a little bit of water on the ground but you could actually park and get into the house with no problem. But the water is receiving this.
+- **[2:42:06 PM] Andy**: Hello good evening Welcome to this week's leave and then living mindfully meditation meeting I'm great girl that you've taken time let up your busy with the join us here tonight and hope you find this circle supportive of both your internal spiritual practice and your external practice How we actually move through and engage with a world at large As we gather here we can remind ourselves of that simple grounding anchor The time is now and now is denoing We're recollecting the here and now and meeting the way things are in this very moment And as Jack Cornthowe reminds us awakening is not a rare privilege reserved for a few things for aesthetics It's the natural birthright of every human being It's your birthright.
+- **[2:43:37 PM] Andy**: So what we take a moment together and to intentionally arrive bringing the attention
+- **[2:44:03 PM] Andrea**: In other words the leasing is best we can whatever was pulling by us before we walked
+- **[2:44:26 PM] Andy**: to this room or a log down to the screen, who simply come into presence, growling ourselves here in our own physical bodies, taking a few calming settling breaths,
+- **[2:45:10 PM] Andy**: and setting an intention to cultivate what hera brok in the contemplative traditions call the two wings of spiritual freedom. having an open mind rooted in mindfulness and clear seeing an open heart rooted in kindness compassion and caring action to stay in the present moment and then know the way it is Thank you The Bishop first time joining us I'd like to offer a very special welcome Thank you for being here I look forward to getting to know you better and hope that you find this group in the official warm supportive and inclusive. Before we settle into our seat into the meeting,
+- **[2:46:09 PM] Andy**: a couple of housekeeping reminders I'd like to begin by acknowledging that I'm speaking from ancestral coast me walk alone and a lonely territory. I do this formally recognized at honor of the Indigenous Committee's originally stewarded land where this meeting is taking place for me. And I extend that same spirit of respect and welcome to you wherever you are respective environments tonight. you are in Yerks you are wherever you are in your respective environment tonight. We have a few basic agreements other than common courtesy that help us keep our circle safe,
+- **[2:46:59 PM] Andrea**: our group that's not a circle.
+- **[2:47:04 PM] Andy**: Confidentiality it is hope that what is shared in this room is stays in the room to We're with our trust privacy and safety for everyone regardless of background or identity.
+- **[2:47:22 PM] Andrea**: And this helps.
+- **[2:47:25 PM] Andy**: Speaking from the experience we try to speak from our direct personal experience whenever possible.
+- **[2:47:46 PM] Andy**: And then just okay I'm going to delete these pre-things in here because they make a little
+- **[2:47:55 PM] Andrea**: be clumsy for me and last the participation in check-ins and open discussion
+- **[2:48:24 PM] Andy**: is always completely voluntary. You're never under any pressure to share if you prefer to just listen and be present. Since there are only a few of us gathered here, I'd love to have an opportunity for a brief check-in. I invite you to state your name and a brief status report of your internal weather right now. Maybe whether you're happy to be here, or you're noticing some tightness in the shoulders, have a bit of foggy mind or a little bit sluggish and anything you'd like to
+- **[2:48:59 PM] Andy**: name is welcome And if you have any quick clarifying questions about our format before we sit in silence please feel free to ask Otherwise remember that there will be plenty of time in a second half of the meeting for open discussion or reflection.
+- **[2:49:36 PM] Andy**: something on the table I think it almost almost has been feeling lightly. It's that background hum of navigating daily life right now. is that's financial You go to a grocery store you look at the total at the register or you open up a You know I like a bill electric bill I wouldn't say it.
+- **[2:51:13 PM] Andy**: more about than more and more than money. It's opening your phone and seeing alarming news about the world it's dealing with someone acting rudely in traffic or at work it's living with an aching body or facing difficult circumstances completely beyond our control When life rings us things we don't want to experience We usually see people bounce between two extremes Either we fall onto the downward spiral with panic we get angry, in our own catastrophic stories and moves sleep.
+- **[2:52:17 PM] Andy**: ourselves to just stay positive or that everything happens for a reason We try to talk our cells out of our feelings but our bodies know better so pause We try to talk ourselves out of our feelings but our bodies know better Lying to ourselves doesn't and bring peace it just makes us feel alienated and exhausted.
+- **[2:53:10 PM] Andrea**: I've got not being truthful.
+- **[2:53:21 PM] Andy**: Not being truthful to ourselves doesn't bring peace. It just makes us feel alienated and exhausted. wondering why we just can't be calm. What wondering why we just can't be peaceful and calm.
+- **[2:53:41 PM] Andy**: So inquiry we're going to look at tonight and to really the heart of the, and the re really the heart. So the inquiry we're going to look at tonight.
+- **[2:53:57 PM] Andrea**: The theme for this evening is how do we ease our inner torment without gaslightings ourselves
+- **[2:54:18 PM] Andy**: about the difficult facts of our lives. good news is that for the next hour you don't have to fix the world outside You don't have to prove anything in this room You don't have to pretend you've got light figured out You can let the floor.
+- **[2:54:44 PM] Andrea**: You can let Mother Nature.
+- **[2:54:52 PM] Andy**: take your full weight As we let those words set up okay I'm in a break. Before I jump into this talk I want to offer my usual disclaimer These These reflections are offered strictly for your contemplation and spiritual practice and never as a judgment or reaction to anyone in particular. When I talk about using human clumsiness or getting tango up in fear I almost always and talking about myself too also the things I catch in my own heart These words are never meant to harm but only to shine a warm light on our shared experience I want to start tonight with that famous observation from Victor Frankl who survived
+- **[2:56:20 PM] Andrea**: in a concentration camp during War II He said, It means the stimulus and the response there is a space.
+- **[2:56:57 PM] Andy**: In that space is our power to choose our response and our response lies our growth and freedom. Now there's a profound insight most of us have heard it and intellectually we nod our heads. Thank you all for that reminder. Frankl speaks about this space between stimulus and the response.
+- **[2:57:36 PM] Andy**: On one side we have a stimulus something coming into our senses seeing a grocery total that shocks you opening a high electric bill hearing someone make rude or dismissive
+- **[2:57:50 PM] Andrea**: comments reading alarming news on your written or feeling an unexpected pain in your
+- **[2:58:14 PM] Andy**: one unwanted pain I'm just going to say a pain I don't use all this stuff We're feeling a pain in your lower back That is the stimulus coming through the senses On the other side, have the response The emotion that arises a jolt of anxiety or anger or dread or frustration accompanied by our body tightening up Frankl says there's a space between the two But what happens to that space When we're mindful our conditioning jumps right across it The sensory contact happens and before we even know what hit us the emotion is already taken over. stimulus and response seem fused together into a single and instantaneous action. And because we don't feel that space we immediately fall into two traps. We can immediately fall into one of two traps.
+- **[2:59:24 PM] Andy**: The first trap is the downward spiral spiral. Something happens that we don't want to experience a root encounter, a financial shock bad news and we punch straight into anger panic in the spare Our mind starts spinning Disaster movies and we just do in that dread until our sleep is wrecked.
+- **[3:00:04 PM] Andy**: trap or spiritual bypass. We try to talk to ourselves out of the pain we tell ourselves just the positive everything happens for a reason So we put a smile on our face but underneath our stomach is tight
+- **[3:00:24 PM] Andrea**: or nodded up And a lot of this just get caught up on this We can feel that something is
+- **[3:00:39 PM] Andy**: wrong And so we believe that there is something wrong And then we tell ourselves that we shouldn't be this way We judge ourselves I've been meditating for years I should be calmer than this What's wrong with me I shouldn't be feeling stressed or upset.
+- **[3:01:23 PM] Andy**: Pretending that things aren't difficult or pretending that you don't feel shaken when unwanted things happen isn't spiritual awakening is just gaslighting your own nervous system. So the real inquiry for our practice and really the heart of our theme tonight is how can we ease our inner tournament without gaslighting ourselves about the difficult facts of our lives. To understand this we can turn to one of the most practical teachings the Buddha offered. And one I bring up frequently here the teaching of the two arrows. The Buddha asked when an untrained person experiences pain or difficulty what happens? They sorrow grieve and lament. It's if they were shot by an arrow and then immediately shot by a second arrow. They feel two pains the physical impact and the mental torment.
+- **[3:02:31 PM] Andy**: Let's impact these two arrows actually in our lives our ordinary lives. The first arrow is the raw unavoidable impact of living as an embodied human being in an uncertain world. The Buddha spoke directly about things in this life that are stressful. What he called duke he pointed out the unavoidable realities we all face his old sage sickness and physical decline waking up to physical aches injuries or an aging body. separation from we love and cherish We lose people our roles our routines we care about. Being associated with what we dislike or hate having to deal with rude people, workplace friction rising prices disturbing news headlines or circumstances completely beyond our control Or not getting what we want having our plans unravel and our expectations disappointed.
+- **[3:03:35 PM] Andy**: And how do we encounter all these things? We experience them when they come into our senses through the eye the ear the nose the tongue the body and in particular the mind. When you see a grocery bill that is $80 higher or here's someone talk down to you at work or see conflict on the news, or feel your aching knee is the first arrow entering your senses. it is the actual factual impact it hurts it's not in your head it's simply part of being alive. And the first step of honest practice is honoring that first arrow without shame. This is hard This is what I'm experiencing.
+- **[3:04:33 PM] Andy**: and then makes complete sense that it feels unpleasant. The second arrow on the other hand is what our mind adds on top of that experience. This is what causes suffering us to suffer. It is story we spend about the impact the blame the catastrophic predictions and the attack on our character They don't respect me I'm failing The world is out to get me. I'm never going to make it." Now why does unwanted sensory contact hit us so intensely in the body Why does the stomach get tight or knighted up below the ribcage In early There was a fundamental law of conditionality there is this fundamental law of an early
+- **[3:05:36 PM] Andrea**: this Buddhism and in science in general Here is this fundamental law of
+- **[3:06:01 PM] Andy**: conditionality.
+- **[3:06:31 PM] Andy**: How do I pronounce?
+- **[3:07:38 PM] Andy**: 遺 up pach chah yate. which simply means when this exists that comes into be, comes to be and with the arising of this this arises. Things don't happen because you're broken. They happen because of causes and additions. Your conscious intellect understands modern concepts like checking accounts corporate politics, or international laws news. But the deeper older part of the nervous system is the focus that control your diaphragm and gut
+- **[3:08:35 PM] Andy**: are millions of years older than modern culture. Those systems only have two basic settings, safe and connected or threatened and endangered. When unwanted threatening information enters a senses whether it's a high bill an angry voice, or chaotic news and your body treats that sensory contact as a threat to survival to breathe it into the diaphragm locks up so So you stay still and stand for predators. is pulled away from digestion to fuel your muscles to to fight or run And the belly armors you know armors up to protect your soft organs And the physical that tight knotted
+- **[3:10:10 PM] Andy**: feeling in your stomach is in a character defect It's a failure of your it isn't a failure.
+- **[3:10:26 PM] Andy**: Of your mindfulness it is your inner creature reacting to the conditions of threat. When we do understand conditionality we don't have to get mad at our bodies, You can understand of course our body tightens up when conditions feel threatening. That's just nature doing what it's still to do. Think about what happens with nature and animals. Take a deer out in the meadow blah blah blah with human beings this is completely not the case. You just don't take it off. Sit our minds take over. We think about the tiger when there is no tiger paper bill and this leads us to look at the five aggregates that components that make up our moment-to-moment human experience We have the
+- **[3:11:18 PM] Andy**: physical body in form the feeling tone whether something feels pleasant unpleasant or neutral. our perceptions our consciousness and the crucial aggregate to mind our mental formations our thoughts and reactions. So right now I'm giving you some specific information to Buddhism and I hope it doesn't scare anyone, and it shouldn't because a lot of this is basically just categories of the way we could look at our experience regardless of any religion or spiritual perspective. you can test this out yourselves I hear somebody It was a street clear Yeah that's That's a very flat finch you and 24 hours to be scared yeah that is comforting
+- **[3:12:27 PM] Andy**: and there was some more information I got over there yeah eight inches of The rain in 24 hours is uh the view is great for us. And then another thing. And then it's a good job. And then the report also says that they've done some improvements since those last, I have a whole history of when this place is flooded. Because when I gave the pictures it went back through and looked at. And they said they've done some improvements for instance that there's too much rain coming down. They have some ways of holding up the water so that it doesn't all come in all at once. That's been part of it.
+- **[3:13:11 PM] Andy**: I can do the report and you can figure out where. But I think they just have a way of delaying the water so that it doesn't all come down rushing all at once. once Because remember what ends up happening is the problem is that we have the tides backing up and then we have the reins coming together That's when it floods Yeah and guess what No rain right now No rain And guess what the tied hide is four nothing low look at you all that's me that's very helpful yeah and you know what it is about actually been adding all these photos and been supporting the information or for making corrections so I mean I'm encouraged on some ways this is definitely so I can relax a little bit I you know we should still get the sandbags but but I also guess what I have two
+- **[3:14:44 PM] Andy**: So I have a way to warn us if our cars are in danger so I'm not going to get an alert that that need to be careful about our cars. Also when the street is going to be as passable so that's the second morning so now it'll give us a little bit of time. Not only will it tell us when it's impassable but it's tellable when it's cleared. So if we could get up on the boat we would have to be catastrophic and then if that's What's happening at the hood for those of you? What's happening about in 1988 or whatever I guess Magnolia the water got so high that it was up and affecting Magnolia and all that stuff and it's said of the 11 feet. So we're here at 10 foot 4.
+- **[3:15:56 PM] Andy**: I mean you know what I'm saying So it was that much higher So yeah.
+- **[3:16:56 PM] Andy**: The senses bring in the raw data of life sight sound physical sensation feeling tone registered as unpleasant and right there the mind aggregates jumps in to start running while. The Buddha gave us a brilliant operation about how the mind works he said whatever we frequently think and ponder about that becomes the inclination of our mind. Whatever we think about and ponder that becomes the inclination of the mind. If we spend our days taking unpleasant sensory experiences and constantly thinking and pondering about catastrophizing stories resentments and self-judgment are mind-naturally climbs towards bitterness dread and torment We carved that group deeper and deeper This is why we learn to distinguish the facts of experience from what we
+- **[3:18:12 PM] Andy**: had on We were all experiencing the facts and the senses And then what we the outline the mind's story the second arrow the high bill are groceries a high,
+- **[3:19:36 PM] Andrea**: Was that fine?
+- **[3:20:26 PM] Andrea**: I'm almost done I haven't gone through this completely yet.
+- **[3:20:44 PM] Andy**: Look at that difference. You're going to probably hear it in a few minutes anyway the column on up is the direct
+- **[3:20:50 PM] Andrea**: experience the first arrow entering through the senses this is the fact of human life. It requires practical navigation mic budgeting resting having a common boundary with
+- **[3:21:17 PM] Andy**: the co-worker or turning off the news to calm down the writers of the mine and time This is the story that myth the second arrow attacks or dignity
+- **[3:21:30 PM] Andrea**: the increase in the suffering for our cells.
+- **[3:24:26 PM] Andrea**: just a little bit more,
+- **[3:31:50 PM] Andy**: what it is I think the weather brings things on to me. That did notice the cooler temperatures today though. Very nice. That's it was 68 here this morning. This is a big nice sweater right?
+- **[3:32:32 PM] Andy**: Some pubs?
+- **[4:02:44 PM] Andrea**: doesn't need my thing.
+- **[4:05:08 PM] Andy**: You're hard work I want you to give me your awesome present.
+- **[4:05:17 PM] Andy**: Oh my gosh look at you. Oh guess what that is? Cinder cone. It's an adjustable hat. Why? It's been a little thing. I know they didn't have any other colors. Oh my gosh. Maybe like an old golfer?
+- **[4:05:47 PM] Andy**: What's that though?
+- **[4:05:53 PM] Andy**: Oh look at this so this is another app.
+- **[4:06:02 PM] Andy**: I think he's styling right out inside of the Wow I like color too yes very nice color it's in the acceptable range I'll come why you did that.
+- **[4:07:30 PM] Andy**: Mine is really specific. I mean it gives us intentions. I'll see you in the next one. You're awesome. You're a fucking idiot. I like it when you shop. Keep shopping. I got some shoes for me. Well beautiful I'm glad I'm trying to resist because you know there's always something I think it's pulling on here.
+- **[4:08:14 PM] Andy**: I think it's here.
+- **[4:08:27 PM] Andy**: Yeah just a little bit.
+- **[4:09:39 PM] Andy**: We leave.
+- **[4:13:07 PM] Andy**: That guy looks trucky in here.
+- **[4:15:02 PM] Andy**: Can I go out?
+- **[4:17:25 PM] Andy**: This is the first time I've ever seen this kind of thing, but I've never seen this before.
+- **[4:25:43 PM] Andy**: I'm going to cut it into small pieces and cut it into small pieces so that it doesn't get too thick. I'm going to cut it into small pieces so that it doesn't get too thick.
+- **[4:26:01 PM] Andy**: I'm going to cut it into small pieces so that it doesn't get too thick.
+- **[4:30:37 PM] Andy**: I was listening to it here. and you will get a podcast you need to be next to all of you in the kitchen. A liberalism is new now. And now everything attacks it. We everything in ancient history before liberalism the church, all of the sculptures and things like that is really about holding on the power so it's really off there and carrying you to a liberal school and going to a political school by surprise This is a blog post thing. You don't care the picture. I think this is the picture.
+- **[4:32:03 PM] Andy**: All that stuff is little liberal is what he calls it. And so he talks about liberalism being compassionate,
+- **[4:32:12 PM] Andrea**: people oriented.
+- **[4:32:14 PM] Andy**: And so there's all these things against it. And why it doesn't work? Or is trying to balance out all of the other shit that's going on it's a really good article I mean that kind of thing. Yeah so I want to watch the whole thing. Yeah reaffirms you know the first I thought he was going to attack it but he was really like just been doing research on it and trying you know and understanding standing at why it fails and why it doesn't. Sometimes it's just too kind you know. And so like for instance I was watching the other color
+- **[4:32:58 PM] Andy**: it was really Dana Bash that lady I'm seeing in. She came and she interviewed Laurie and Mayor Laurie about the right wings attacks on San Francisco. And she seems to be in favor of their cynicism And you know in a lot of ways I know she's pro-Israel big time and anyway it was mail-o-lawy. He was really he hit a really good job I thought you know he's talking about yeah sometimes we get caught up in our liberalism and we forget the big picture of what we're trying to do. I had to use his eggs to make and I need to get these eggs and polenta for breakfast.
+- **[4:34:08 PM] Andy**: I don't think I have too much but
+- **[4:34:38 PM] Andy**: Where
+- **[4:35:04 PM] Andy**: I just can't make it.
+- **[4:35:38 PM] Andy**: Didn't mean it felt fell down. It fell down.
+- **[4:35:51 PM] Andy**: Oh yeah that one just fell off here. Up here.
+- **[4:41:26 PM] Andrea**: Chick-hhh-chick-chuck-chuck
+- **[4:41:33 PM] Andy**: Check check.
+- **[4:42:01 PM] Andy**: You're coming back?
+- **[4:55:23 PM] Andrea**: So they can show me some more things. Last minute is about.
+- **[4:56:51 PM] Andrea**: Moving the Mindfully Meditation Group for October 11th 2026.
+- **[5:01:12 PM] Andy**: let me put it joining I don't see you okay for some reason I'm in another
+- **[5:01:22 PM] Andrea**: meeting I'm going to close this yeah let me go here
+- **[5:02:29 PM] Andrea**: Okay excuse me I'm doing some little bit of alignment here.
+- **[5:02:42 PM] Andrea**: Okay it's a little strange because I was in that meeting again I need to go and look at the notes to why I have a pre-set on my bookmark for the meeting and okay but glad here thank you sweetie I don't hear you let me close my door yeah do it right
+- **[5:03:43 PM] Andy**: Well I'm here. Okay go Good evening to this week's Living Mindfulness Meditation Meeting and grateful that you've taken this time out of your busy week to join me here tonight. And I hope that you find this circle this meeting supportive of both your internal spiritual practice and your external practice and how we actually move through and engage with the world at large. So also as we gather here we can remind ourselves that of the simple grounding anchor that Ajahn Somato likes to talk about that time is now and now is the mowing the only moment that we have So we're recollecting this here and now and meeting light the way things are in this very moment And also something from Jack Cornfield that I'd like to also
+- **[5:05:18 PM] Andy**: remind us about is that this awakening is not a rare privilege nor is it reserved for a few saints or aesthetics It's the natural birthright of every human being so it's your birthright It's my birthright this ability to awaken So what we take a moment to in a together to intentionally arrive to bring our attention inward releasing as best we can whatever was pulling us before we joined the meeting just something come into
+- **[5:06:05 PM] Andrea**: presence grounding ourselves here and own physical bodies in the space that we inhabit, taking a few calming settling breaths and setting an intention to cultivate which are
+- **[5:06:32 PM] Andy**: rock and many of the contemplative traditions call the two wings of spiritual freedom which are having an open mind rooted in mindfulness and clear
+- **[5:06:49 PM] Andrea**: seeing and have an open heart which is rooted in kindness compassion and and caring action just stay in the present moment
+- **[5:07:03 PM] Andy**: and do know what the way it is.
+- **[5:07:34 PM] Andy**: again by acknowledging that I am speaking from ancestral coast me walk in a lonely territory and I do this formally to recognize and honor the indigenous communities who originally stewarded the land where this virtual meeting for me is taking place and I extend that same spirit out of respect and welcome you wherever you are in your respective environment tonight And I you know Andrea just down the ballway from me. So we're in this together. We have a few basic group agreements other than common courtesy that I'd like to remind us that I hope to help keep the group safe. I hope that what we share in this room stays in the room.
+- **[5:08:30 PM] Andy**: And I know that will be between us to preserve trust privacy and safety for everyone, regardless of their background or identity. And I know this helps right? We should also try to speak from our own direct personal experience whenever possible, and to refrain from giving any unsolicited advice unless someone specifically asks for it. And then you can ask any kind of questions you want. And I do tend to have comments on things, but they're generally not personal unless you ask it to be. And the third thing is that this meeting is not intended to define if that write a wrong or to argue any viewpoints,
+- **[5:09:19 PM] Andy**: but to raise topics of spiritual and practical value for our everyday lives. And lastly participation check-ins in open discussion is always completely voluntary. You're never under any pressure of the share if you don't prefer to. You can just listen and be present. And since there are only a few of us today, actually a couple of us not even a few. I'd love to give you an opportunity
+- **[5:09:48 PM] Andy**: and myself to do a very brief check-in. So I'd invite you to state your name, of a brief 60-second report on your internal weather right now maybe noting if you're happy to be here or not and maybe you're noticing tightness near shoulders or having a foggy mind or feel tired sluggish or anything you'd like to comment on without you know,
+- **[5:10:13 PM] Andrea**: it doesn't have to be exactly that or whatever you'd like.
+- **[5:10:17 PM] Andy**: And I just also want to remind you before we do so that you know if you have any quick clarifying questions on our format Before we sit in silence you can ask that And then I want to just there will be plenty of time in the second half of the meeting for open discussion or reflection So if you want you can wait until then So with that I turn that over to my dear companion partner in life Andrea Hello Hello Oh thank you.
+- **[5:12:12 PM] Andrea**: Thank you.
+- **[5:13:14 PM] Andy**: Funny. There's a lot that's going to be relating to exactly what you were kind of talking about. Hope it doesn't stir you up. But a lot of that's going to it's related for sure. Okay and I'm going to check in and yeah I've got a lot of similar feelings to you. Raiders lost got pummeled today but I feel very calm right now very peaceful very
+- **[5:13:53 PM] Andrea**: contented and yeah that's I can I attribute that to I think my practice I mean
+- **[5:14:10 PM] Andy**: I'm getting used to or I'm getting used to it's sometimes as you know a subjective am I making that up just to fill in the space of the moment do I really feel this Like my practice is getting somewhere you know? But that's my feeling at this moment and there's nothing wrong with having feelings and thinking in a way I'm thinking But I'm very appreciative of how the way that is right now I'm very calm and yeah last night was another beautiful thing and that was also very peaceful and it felt very some of the feedback we got today about refuge and so I know I actually reiterated that multiple times last night and it
+- **[5:15:10 PM] Andrea**: hopefully that that was sinking in so very grateful for that So okay well thank you for the check-in.
+- **[5:15:26 PM] Andy**: Sorry I got a tickle Excuse me sorry.
+- **[5:15:31 PM] Andrea**: I have one I just stashed and I have to open another one I'm not sure anyway yeah thank you for that.
+- **[5:15:46 PM] Andy**: I will take that opportunity with me B So before we get into this period of meditation tonight, And I don't want to lay something on the table that I think is almost all of us have been feeling lately. That there's this background hum novelty and very you know our lives right now it could be a little bit different you know difficult to you know take. Sometimes it could be financial it could be anything actually but it could be financial, you know going to grocery store costing to be rising you know fast. maybe you get a bill and you feel that sinking feeling in your gut but it's also much more than money and I want to broaden that I talk about the financial right now because it's so in the news but I believe it's more than that It's open
+- **[5:16:47 PM] Andy**: your phone and you're seeing alarming news It's dealing with somebody who's maybe root to you in traffic or at work and it's also living in an aching body you know, that you know an aging body or it could be facing any difficult circumstances which are beyond our control So when life brings things that we don't want to experience we see we can see people bounce between two extreme you know extremities Either we fall downward into a downward spiral, might panic might get angry we might stew and catastrophic stories that proliferate in their mind they come up or maybe we find it difficult to sleep sound like you know, we may not sleep well Or the other alternative is that we might slap a coat of pain over you know telling ourselves just stay punositive or everything happens for a reason And there's nothing wrong with that I know the people are trying to
+- **[5:17:54 PM] Andy**: motivate themselves and actually that's could be skillful But we try to talk ourselves out of our feelings you know but our body's actually no better you know we might not be truthful to ourselves If we're not being truthful to ourselves does it bring about peace It just makes us it can make us feel more alienated and exhausted, wondering you know because we would wonder we want to know why can't I just be peaceful and calm a ton that's something that you know we we we feel that we we should do we should be that way So the inquiry we're going to look at tonight in a theme for this evening is how can do we ease our inner torment without gas
+- **[5:18:43 PM] Andy**: lighting ourselves You know about the difficulties that we face in our lives. And the good news is that for the next hour you don't have to fix the world outside You don't have to prove anything in this room here You don't have to pretend you've got it all figured out You could just let Mother Nature take your full weight and you can relax and let go. In the after meeting if you want to pick all that stuff up that's you know that's
+- **[5:19:13 PM] Andrea**: something that you can decide then.
+- **[5:19:18 PM] Andy**: So well endurance a period of meditation. I can meet my mic if I have to continue to sneeze and stuff so as we let these words settle Let us now enter a period of meditation together Take a moment to get yourself into whatever posture you'd like to maintain for the next 20 or so
+- **[5:19:44 PM] Andrea**: minutes Make yourself comfortable We're not here to stress ourselves out But we
+- **[5:19:55 PM] Andy**: You want to stay upright settling in for a wakefulness and presence feeling your physical
+- **[5:20:09 PM] Andrea**: body sitting in the room that you're in and sitting on the cushion feeling the
+- **[5:20:35 PM] Andrea**: not only seeing that you can relax the other The earth is supporting you.
+- **[5:20:48 PM] Andrea**: You can be doing a quick scan, noticing that there's any tension in the eyes, running at cheeks and jaw,
+- **[5:21:04 PM] Andrea**: letting your shoulders drop. Along your hands to relax rest loosely go ahead for wherever you feel comfortable.
+- **[5:22:15 PM] Andrea**: in your awareness of your body the same body breathing wherever it feels natural, Filling it either in the galley or in the chest maybe at the tip of the nose wherever feels most comfortable noticing this rhythm of breathing.
+- **[5:23:56 PM] Andy**: She just turned the camera off. just like your camera's off so this is a period of meditation.
+- **[5:26:19 PM] Andrea**: the next 20 minutes So we're in meditation right now you can ask questions after the meditation.
+- **[5:27:57 PM] Andy**: If I hear your talk I'm going to remove you from the call.
+- **[5:44:35 PM] Andrea**: Okay we'll take a five minute break and we'll come back for the drum attack in the Q&A.
+- **[5:45:05 PM] Andy**: Oh okay yeah I did a blanket in the evening so what I did was I didn't tell you but I got on the photos for covering that work again. Yeah I know so I'm on my list there now. This must have been some meeting where these all these people decided to join in. I was thinking when I was going to change it, I was wondering if it's fun or if my partner's not fun or if I'm not fine with it. I got this. What is really proud of us is that we're
+- **[5:45:52 PM] Andy**: just going to do beautifully. And I thought I could find pretty well. I wanted to show my face just like there's a real person here and I'm meditating you know stuff could turn out. I was gonna pray to them. Good. But I was between like wanting to laugh really hard and also say something like you guys make me sad. Like that. They're kind of like they all dropped off and I wasn't stopped admitting them after a while. So next lock comes so there's a lock that I couldn't join back in. So yeah I don't have as many controls as I could in Zoom.
+- **[5:46:29 PM] Andy**: So but I found a new thing so I could control that, and it just started to move. Whenever you may have them dealing with anything, there was a lock that's like you're gone. There's a lock. It's the way it is. You just put it left and when you open up here, Arc 3 is the world then you're going to have this Yeah especially right now. That's fine.
+- **[5:46:56 PM] Andy**: You know I don't want to shut down because of some idiots. I mean yes they're karma. Not mine. I was going to tell you if I thought a big state I was going to talk about the present. You're off of choice and then I don't take it. Take it Who's poison is it Oh I just that's why I was saying you skipped is it So we just got lasted with a whole bunch of people obviously young acting out talking during the meeting and So I had to gracefully just start kicking them out the call they eventually all dropped off.
+- **[5:48:40 PM] Andy**: That was a lot of time.
+- **[5:48:54 PM] Andrea**: Okay I am back. Yeah I think it's waffling you know but yeah the path does get you know narrow
+- **[5:49:27 PM] Andy**: and I'm glad I mean it was difficult for me even that but you know it was like okay, I was just watching what I was feeling and I didn't I wasn't out of control I was just trying to become and figure out what needed to go on and do Yeah Well for me I know for both of us,
+- **[5:49:46 PM] Andrea**: I think it's been months since we've had to deal with anything like that the last time is on Zoom,
+- **[5:49:51 PM] Andy**: But even that was like a long time ago. Yeah and Alisa Alisha she's still on the list. She's on the event bright things, but she just hadn't showed up lately. So anyway she's on my list, so I give her a sender emails now. Oh cool. I sent I found yeah I found out yeah I do that. So okay I don't wanna focus on them.
+- **[5:50:21 PM] Andrea**: Yeah no problem.
+- **[5:51:47 PM] Andrea**: Welcome back.
+- **[5:52:09 PM] Andy**: So before I jump into this talk I just want to offer my usual disclaimer. So these reflections are offered strictly for contemplation and for your spiritual practice and never as a judgment or reaction to anyone in particular. And usually when I talk about human circumstances or clumsiness or getting tangled up in fear, I'm almost talking about myself also right? The things I catch in my own heart. So these words are never meant to harm but only to shine a warm light on our shared human practice and experience. I wanted to start tonight with that famous observation from Victor Franco who survived being in a concentration camp during World War II.
+- **[5:53:03 PM] Andy**: He said between the stimulus and the response there is a space. in that space is our power to choose our response. And response lies our growth and our freedom. And that's indicated so far in the meany tonight. So now that's a profound insight. Most of us have heard of it. And intellectually we nod our heads right? And we both did. And we're thankful for that reminder. Frankl speaks about the space between the stimulus and the response.
+- **[5:53:40 PM] Andy**: So on the one side we have stimulus that's something that's coming into our senses that they were experiencing. Like I mentioned earlier the grocery bill or any kind of bill or maybe hearing someone talk rude to be having dismissive comments being rude when joining an online meeting You know reading alarming news maybe or just even just feeling like a pain in your back or your neck or whatever so that's just stimulus that's coming into our senses. Then the other side we have the response. The emotion that arises you know a jolt of anger or anxiety or dread or frustration, a company by our body tightening up and reacting So Frankl says there's a space between the two but what happens in that space Well what we're not
+- **[5:54:40 PM] Andy**: mindful are conditioning jumps right across it It's when the sensory contact happens before even know what hits us The motion is already taken over Maybe you noticed that in there what was happening in there earlier I think I did too It's already I'm already feeling what's happening And many times I mean we can see that the stimulation of respond are soon together until like the same thing the instantaneous reaction And because we don't feel that space we can immediately fall into one of two traps We could go into a downward spiral And this happens when we don't want the experience that we're experiencing you know read a counter or whatever it is. And we can plunge straight into anger panic and just scare into our reactivity. And our mind will actually start spinning up because after movies you know as we stew into that dread,
+- **[5:55:44 PM] Andy**: that are you know in our sleep he is wrecked. So Paul you guys want to close the door if you've got to close this door. So the first one is the Downward Spiral and the second one the second trap is we see a lot in our spiritual life and our spiritual work and that's what we call the gaslighting trap Or it could be simply a spiritual bypass This is where we try to talk to ourselves out of the pain that we're feeling we tell ourselves to just stay positive that everything happens for a reason. You know this is as I mentioned earlier this could be something that could be skillful, where we're trying to put on positive faith you know put a smile on our face put a positive twist on things. But underneath we still have a tight stomach. I can get all nodded up.
+- **[5:57:07 PM] Andy**: Or we can just cut up on this. And we can feel that like definitely something's wrong. And when we need to fix it we can tell ourselves that we shouldn't be this way or this shouldn't be this way. And we can judge ourselves for instance, like when it happens to me. I can sometimes it will come up on my head that I've been meditating for all this time and I should be calmer than this. I should just be able to just deal with this or maybe compound it by saying what's wrong
+- **[5:57:41 PM] Andrea**: with me.
+- **[5:57:44 PM] Andy**: So pretending that things aren't difficult or pretending that you don't feel shaken when on one of the things that happened isn't something with spiritual awakening. It's gaslighting our own nervous system. So the real inquiry for our practice and really for the theme of the tonight is, how can we ease our inner torment without gaslighting ourselves about the difficult facts that we face in our lives.
+- **[5:58:20 PM] Andrea**: So excuse me again.
+- **[5:58:25 PM] Andy**: So to understand this we can turn to one of the most practical teachings that the Buddha offered. Now I actually bring this up frequently This is the teaching on the two arrows. So the Buddha asked when an untrained person experienced our pain or difficulty what happens? And he said that they sorrow they grieve they lament as if they were shot by an arrow. And then immediately the shot by a second arrow so they feel two pains the physical impact and the mental torment. So we're going to unpack this right now. So this first arrow is the raw unavailable impact of living in a body human in a body in human being. You know where we're in this really uncertain world.
+- **[5:59:20 PM] Andy**: The Buddha called directly talked about things in this that were like this that are stressful. He called that duke. So that's the word for duke. And so what he did was he was pointing out the unavoidable realities we all face which is old age sickness and physical decline. I'm feeling that waking up with physical aches or you know an aging body but we can also feel Duke of by being separated from what we love and cherish you know losing people in our lives are changing roles and the routines and things that we care about. We can also feel Duke by being associated with what we dislike or hate.
+- **[6:00:08 PM] Andy**: So you know not having to deal with rude people or workplace friction or rising prices just serving news or any other circumstances that are completely beyond our control. The other way that he defined Dukas not getting what we want you know having our plans unravel or expectations disappointed. And so how do we encounter all these things? We experience some through our senses. We experience some through our eyes ears nose tongue body and in particular the mind. So when you see that grocery bill you know it's higher or someone talking down to you at work then that's the first arrow in airing our senses. It's an actual factual impact.
+- **[6:01:00 PM] Andy**: It hurts. It's not in our head. It's simply part of being alive right? And that's the first step of this on his practice is honoring that first arrow without chain So this is hard this is what I'm experiencing and it makes complete sense that it feels unpleasant The sacriot arrow on the other hand is what our mind adds on top of the experience And actually this is what causes us to suffer and this is the thing that we can actually do something about So it's the stories and things that we spend about the impact you know the blame the catastrophic predictions that we feel attack on our own character For instance we might
+- **[6:01:51 PM] Andy**: say they don't respect you that you're failing or you're never you know you never, things never go your way or you're not going to make it And I remember when my mind was constantly thinking like this Now why does unwanted sensory contact hit us so intensely in the body Why does the stomach get tight or not is out right below the ribcage? In early Buddhism and in science in general there is this fundamental law of conditionality what the text call e-da-pa-cha-ta-ya hard word to say and I wanted to say it to try it but this condition thing it simply means when And this exists that comes in to be and with the arising of this that arises that conditionality because of things causes there are conditions. Things don't happen because you're broken they happen because of causes and conditions.
+- **[6:02:53 PM] Andy**: Your conscious intellect understands modern concepts like checking counts politics and news but the deeper older parts of our nervous system circuits that control our body our diaphragm and our gut are millions of years older than the modern culture So these systems only have two basic settings safe and connected or threatened and endangered. When unwanted threatening information enters our senses and our body treats that as a threat to our society you know our breath gets tight that got shuts down you know it's basically pulling blood away from digesting the fuel your muscles so we can you know fight your flight right And the muscles can tighten to protect us in case you know for in case of some kind of physical below that might happen That tight knotted feeling in misstomach is in a character defect It is in a failure of your mindfulness It's your inner creature
+- **[6:04:00 PM] Andy**: reacting to the conditions of threat And when we understand conditionality we don't have to get mad at our bodies We understand of course the body tightens up when these conditions are here and they feel threatening That's the nature of what the body and the The mind was built to do it's a mind actually it's a predictor predicting our survival. So we could think about this in nature what happens with animals. So you take a deer in the meadow that deer is grazing peacefully in all of a sudden it spots a tiger or some other predator stalking it. So the survival alarm sounds instantly it hearts races it's muscles fire and it bolts a full speed across the field trying to get the safety. This is the difference.
+- **[6:04:53 PM] Andy**: Once that happens with the deer you know it's past the deer's safe you know safely stops. And usually I think what I've seen is that they tremble like they shake it off. And they go back to their peaceful lives just grazing in the grass. And that's as simple as it is. You know the deer doesn't you know stand by the you know the stream drinking water and saying what if the tiger comes back tomorrow and why did the tiger target me and you know those kinds of questions you know so that the animal doesn't carry the predator around. You know once the thread is gone it shakes it off and we're going to turn it back
+- **[6:05:34 PM] Andy**: so it's a space line. Human beings that's not the case. don't shake it off Instead our minds take over We think about the tiger when there is no tiger. So the paper bill is that tiger is just sitting there quietly on the kitchen counter. But in our heads it's the tiger that's mauling our future you know well-being. Someone made a sharp comment at work for two days a couple of days ago We're still paying, repaying we playing that comment in our head right while we're trying to go to sleep at night so there's no physical predator in the room but we're in because we're sitting in a safe place right now we're in a safe place of breathing air we have a roof over our heads but the mind keeps
+- **[6:06:25 PM] Andy**: bringing this fly of alarm bell which keeps our stomachs tight and not it up the days I'm in So this actually links us to look at what are called the five aggregates the components that make our moment to moment human experience We have this physical body in form There's the feeling tone There are where this is where you're feeling something that's pleasant or unpleasant or neutral We have our perception of things right We proceed things or we're conscious of things, so we have a conscious And then the crucial aggregate is the mind the mental formations and thoughts and reactions that we have So right now I'm giving you some information specific to Buddhism and I hope this doesn't scare you away and I know it doesn't scare you Andrea. And it shouldn't because a lot of this is basically just categories of the way that we look at
+- **[6:07:27 PM] Andy**: experience regardless of any religious or spiritual perspective and you can test it out yourselves right Are you aware of you know you have a body yes okay Do I feel things Yes do I perceive things right You know these things for yourself The The idea is that these senses bring in the raw data of life sight sound physical sensations, and the feeling tone registers as if something pleasant or unpleasant and then right there at that place that's where the mind jumps in and starts running wild. So the Buddha gave us this brilliant observation about how the mind works and this is something we might want to remember. However we frequently think and ponder about, that becomes the inclination of our mind.
+- **[6:08:25 PM] Andy**: So I just wanna let that land there. Whatever we frequently think and ponder about, that becomes the inclination of the mind. So we spend our days taking unpleasant sensory experiences and constantly thinking and pondering it and catastrophic devising these stories. these resentments and the self-judgment our mind will naturally incline towards bitterness, dread and torment. And in neuroscience they talk about having grooves in the brain so that we carve deeper grooves in our brain.
+- **[6:09:04 PM] Andy**: This is why we must learn to distinguish between the facts of our experience from what we add on. So the first error or from the second error. raw experience is the fact of coming into our senses right That's the raw experience What's happening out that we're sensing And then what we add on this is our the mind story and our reactivity So this can be like as I was talking about when we get the bill you know there's the the fact that we got the bill, But then there are some thoughts afterwards that I can't pay this bill or I can't take care of my family on worthless so that's the add-on or when someone speaks sharply or brutally at us that comes something we come in we hear and we start we add the add-on
+- **[6:09:57 PM] Andy**: this oh they don't respect us or they don't appreciate you or maybe you think people you are uncouth and you know whatever his thoughts come up that way right same thing with like when we get our alarming news you think you know the mind would start generating thoughts about everything's doomed the world is hopeless and nothing I do as matters and the same thing with even with like a step back or you know some chronic ache you could think our body is is no good it's ruined and and life is over and this is all part of this second era of things that we add. So we can look at the difference. On the left side there's our direct experience the first era, are the facts of life you know things that are part of life,
+- **[6:10:51 PM] Andy**: and it requires some practical navigation. We need to do budgets we might have to find boundaries with people or might have to turn off the news. This is called guardian of senses right? And on the right side this is the stuff that the mind adds on. That's the story the myth the second arrow, the things that attack our dignity and create endless inter-separate. A sensory event happens outside of our direct control, but we think about and ponder on that something we add on.
+- **[6:11:29 PM] Andy**: That's something we can catch. And that's somewhere where we can put on the brakes. And that brings us right back to Victor Frank Frankl's space. Where is that space? The space is right between the sensory experience and what the mind adds on. So when you see the bill when you hear the brutal remark, when you feel the a you pause. You notice the sensation. You notice the tight knot in your stomach.
+- **[6:11:59 PM] Andy**: Right then there you can realize the truth of the cause. And you can also know for yourself you are not the knot. You are the awareness that knows about the knot. The tight knot you know stomach is like a sudden squall blowing across the desert. It's windy it's turbulent but the open sky doesn't panic. the sky has plenty of room for the squal to pass without being plurmed. Now how do we rest in that open sky? And that's really the gist of things that we want. How do we live this out when we're on our cushions tonight?
+- **[6:12:43 PM] Andy**: Well Tarbrough often speaks of this as two wings of a bird that actually allows us to fly and be free. If a bird only had one wing or either wing is injured it cannot soar. It just flutters in circles on the ground. The first wing is mindfulness which actually tar off and all calls clear seeing the foundation of wisdom. One aspect of mindfulness is seeing clear things as they actually are. In the present moment without distortion, without denial and without gaslighting ourselves.
+- **[6:13:23 PM] Andy**: It is the clear eye that looks directly at what happens and discerns this is the raw sensory experience, this is the first arrow. And over there that's the story of my mind adding onto it. Clear seeing sees conditionality. It understands that we are the spacious awareness for the not we're not the not in the belly. The second wing is compassion an open heart loving kindness and caring action. As Torah teaches compassion is the wing that meets whatever is clearly seen with tenderness
+- **[6:14:04 PM] Andy**: rather than condemnation. It's what keeps our mindfulness from terming into cold clinical and overly intellectual exercises. So compassion's down it looks down at that tight non-stubbed stomach and says I see you hurting you're not broken I care about this suffering. And compassion doesn't just sit there it moves into action. That's the one difference between empathy and compassion. Compassion is about action. It takes wise caring and practical steps in the world to protect you to set boundaries and support those that we love.
+- **[6:14:47 PM] Andy**: Notice what happens if we try to navigate life with only one wing. If we only have clear seeing without compassion, we can become cynical dry and hypercritical. And we diagnose our stress. We see all of our flaws but our heart is shut down and cold. If we only have compassion without clear seeing, we slide right into sentimentality and wistful thinking and spiritual bypassing, we try to love our way through by denying reality, putting on a fake smile and gaslighting our own nervous system.
+- **[6:15:25 PM] Andy**: It's only when the head and the heart fly together, mindfulness and compassion clear searing, and an open heart that we could find genuine freedom and resilience. And this brings us to the last part, something that's new for me that I've formulated that's called the practice of double holding. So with clear seeing which is where we recognize experience as experience and then with the wing of compassion holding ourselves in the open heart in careless actions. So one hand is rooted in mindfulness and clear seeing so we can hold that you know, burnished outside of ourselves refusing to hide refusing to gaslight ourselves and meeting
+- **[6:16:15 PM] Andy**: reality as it comes into our senses is something that we can hold onto. We know that that's there. And then on the other hand we can have compassion and open heart. We hold our own body in mind with tenderness using kindness as an active medicine to suit or not and taking grounded caring action in the world So there's a four-step process you can keep in your pocket One is a acknowledge experience There's no need to gaslight yourselves So when something unpleasant interests senses you can see it clearly and plainly The second thing we can do is notice what you're adding on. So this is where we add insight and discernment right? We can catch the mind aggregate in the act,
+- **[6:17:10 PM] Andy**: jickily asking ourselves, what story am I building on top of this? Am I spinning disaster movies? Am I beating myself up? Remember what the Buddha said? What we think upon or upon becomes a inclination of our mind. With a clearer scene we could put down that second arrow and let the story drop The third thing we can do is comfort the body with kindness, with compassion and an open heart We cannot talk the stomach out of a knot with intellectual arguments We can speak to our body with an open heart maybe placing
+- **[6:17:51 PM] Andy**: your palm on your you know a felly and just you know feel that yourself feel it and let that that warmness of your hand on your you're not you know sink in. So it's a somatic experience You can take slow and set you know calming breaths to relax ourselves and have compassion We use compassion as an act of aid speaking to our body like a dear friend. I know this is threatening I know that you're unsettled but right now in this few seconds we are breathing. Right now we are safe in this room We can soften. So then the fourth step is to take grounded care and action This is clear seeing and compassion and motion. So we've soothing our nervousism isn't about becoming passive it's about clearing the mind opening our heart so we can take wise skillful action. We address the practical facts the budget the difficult conversation the bodies need
+- **[6:19:03 PM] Andy**: for medical care or rest without panic. We set healthy balconies with rude people or negative news and if we need support, We reach out and ask for help without shame. In our culture asking for help is often treated as a flaw but reaching out is an act of deep wisdom and open-hearted human courage. So now when we carry this kind of stress day after day it doesn't just stay you know, for an occasional reaction. It can become chronic. It turns into a deep automated automatic habit of mind. So we find ourselves living a state of continuous stress
+- **[6:19:51 PM] Andy**: and low grade of alarm. And that constant tension takes an enormous toll on us if we let it. It drains our life force wears down our physical health, and keeps us feeling perpetually exhausted. This is why practice is so vital, and it works on two distinct levels. In the immediate moment it gives us practical real-time relief. about you when I meditate. That's what I'm working on.
+- **[6:20:20 PM] Andy**: Whenever you experience something unwanted, whether you're looking at a bill or you're dealing with typical interaction at work, double-holding gives us a way to pause to soften the non-nostemic and to stop shooting that second arrow into ourselves, which just really causes a lot of our suffering. So we don't get caught in that downward spiral. But the long-term benefit is well, is where real freedom fives.
+- **[6:20:48 PM] Andy**: And this is I think something we had talked about earlier, just during the break. Over time we repeatedly practice clear seeing an open heart of kindness. We actually rewire that you know this habit of the mind. We stop running at that mental engine that keeps conjuring the tiger all day. and our nervous system finally gets the message that it could stand down. You become more peaceful more resilient,
+- **[6:21:18 PM] Andy**: and far less stressed overall. And think about when it gives us. It gives us our energy back. Instead of spending nearly all of our daily energy feeding the stress, fighting our own feelings, calves drop-izing, wrestling with our inner knots we claim our energy. we now have that spaciousness the vitality and the clear head to deal with our lives with far more skillful and a far more skillful and creative matter.
+- **[6:21:50 PM] Andy**: Now this brings us things to things that we don't want to experience and that's simply the reality of having a body in this world. But you don't have to add torment to pain you don't have to turn against yourself. In both wings of your practice look at your life with clear seeing of mindfulness and hold your human vulnerability with an open heart and the caring action of compassion. When both wings are strong you can cultivate any storm without losing your footing or your dignity. So I thank you for your practice and for your kind attention and we have a few minutes left I'll open it up for some comments and feedback and the rest is voice Can you
+- **[6:22:40 PM] Andrea**: have none Okay.
+- **[6:22:47 PM] Andy**: Okay I know what that means Oh you can't unmute Gotcha Oh thank you for remind me sorry about that Let me fix that and figure what that is Okay try it
+- **[6:23:08 PM] Andrea**: right now. That's fine.
+- **[6:23:42 PM] Andy**: them but that's okay We're sure on time based on all the things that happened to us tonight So I think what I'll do is I've actually repeated these Let me just summarize your quick and we can close right So as we get ready to close our evening here here a few signposts to keep in mind keep in our pocket this week So on or the sensory impact we all do we all know what's But the first arrow is facing things you don't want to experience. We really don't have much of a choice in a way. Once you're in it. And we can acknowledge that it hurts. That's not negativity.
+- **[6:24:32 PM] Andy**: It's just honest presence. There's no need to pretend it's otherwise. Catch what you can eat. What you add on that's something that I think is very helpful. And I try to catch with me. that second arrow notice the difference between what we're experiencing the facts of our experience and then the mind the things that the mind spins on top of it. And remember whatever we think and ponder upon becomes the inclination of our mind. So understanding that the knot is not as biology it's not failure you know it's not failure.
+- **[6:25:09 PM] Andy**: and unwanted things enter our you know experience them and we start getting tight knotted up. That's just causes and conditions you know, and the nature working to you know, reacting to the perceived threat it doesn't mean, it's not a personal thing for us that we have to take on it's me on the failure right? And when we think about the tiger you know the other this whole idea of thinking about the tiger when there is no tiger you know to notice that you know that we don't have to keep the predator alive in our thoughts noticing when we conjure a tiger in a room,
+- **[6:25:57 PM] Andy**: when there is none we can realize that we're completely safe here. And then actually coming back to Victor Frankl again we can inhabit that space. This space lives right between the sensory contact and the mind with the mind adds on. So you're not the not you are the spacious awareness that's observing it. Fly both wings the wing of mindfulness of clear seeing seeing things that they actually are with discernment and with compassion with an open heart meeting ourselves with act of kindness comforting the tiger you know a tight knot not the tiger let the tiger run away and moving into carrying action And practice this idea of double-holding you know holding the truth of reality and then also having this compassionate heart that also is also true And then remember and remind yourself about the both the immediate relief
+- **[6:27:10 PM] Andy**: and the long-term freedom that we gain from this practice It does relieve stress and it does have the lasting fruit that breaks the chronic habit of stress So instead of burning our energy feeling worried we claim that we reclaim that energy to deal with our lives
+- **[6:27:29 PM] Andrea**: in a skillful and peaceful manner. So going and now we'll bring the meeting to a close we can look at the real pressures
+- **[6:27:50 PM] Andy**: of navigating the world the instincts that's wired in our bodies and the courageous human and work of meeting our difficulties with these two wings of mindfulness and compassion. And a reminder that awakening isn't about escaping from life or pretending that you never hurt. It's about how we show up right in the middle of it all with our families out in the street at work and in the quiet hearts of our own hearts. So with all that to seal our practice tonight, We will practice meta so we offer these intentions of good will first to ourselves and then outward to all beings.
+- **[6:28:43 PM] Andy**: May I be safe and protected from harm. May I be healthy strong and at ease in this body. body May I meet whatever arises with wisdom patience and an open heart May I live with peace and remember my true dignity Now expanding this field of goodwill to encompass our loved or neighbors us in this circle in all beings everywhere navigating the difficulties of this earthly life May all beings be safe and protected May all beings find shelter or ease in understanding May all beings be free from inner torment and fear. It may all be remember through an in-nate word and that it peace. Thank you for your practice for your presence and your heart felt sharing tonight although even though you didn't say much I wish you a gentle grounded week ahead and I hope that
+- **[6:30:15 PM] Andy**: this has benefited for you tonight.
+- **[6:31:08 PM] Andy**: People were still trying to come into the meeting after we had done. if I've ever remembered experiencing that with the Buddhist recovery network. Meet landings you know what I mean? I don't remember it being that bad. That was I wonder where that group was from picture there was I don't think it was hackers. You know they were all the same group they all joined right after each other. So they were hackers would be like one-offs. That was a group That was a recovery center of people. I've seen them before.
+- **[6:32:35 PM] Andy**: It is That's why there's a lot of them.
+- **[6:32:41 PM] Andy**: And when you do get in there work on it. Zero two three work on it. There's some guy came in asking why he came here the first time when the first one. Oh yeah he asked me if I could keep doing that you know I mean that was going to be like There's plenty of them. I need that. There is too many. I didn't need them in the mess.
+- **[6:33:30 PM] Andy**: And he likes your fur and legs less.
+- **[6:33:39 PM] Andy**: I'm going to just wait for the time to come. I need to get a little bit of water. Do you think that's worth that?
+- **[6:34:02 PM] Andy**: I think I've got to get a pair of gloves.
+- **[6:34:11 PM] Andy**: Oh that's a big one.
+- **[6:34:19 PM] Andy**: You can open it I'm open to talk to you about it not fire but it's a whole
+- **[6:34:48 PM] Andy**: king give them I think these are two These are the lowest I was there from one good one.
+- **[6:35:29 PM] Andy**: This is me kind of admitting the facts of life I had to change my pants twice. the pants are in the laundry. This showed it. Just a little bit. And in fact I did it. I was in the room by myself. I was crazy. What happened to you? I was trying to drive my football. Oh I did fine.
+- **[6:36:02 PM] Andy**: Nobody showed up anyway. No I'm going to put it underneath the counter put it underneath with the toilet paper A- going over there. Yeah no problem. Um I'm trying to lie. Okay so to take a vegetable it's going to be broccoli.
+- **[6:37:15 PM] Andy**: You've got all this congees. Okay now I'm going to do this. I didn't show you how to cut a board thing. There's a thing hole. There's something. You don't need to have that screw in the bottom. There's only one kind of cutting board that does not carry it back. not carry back here. What did it do to the middle one?
+- **[6:37:48 PM] Andy**: It was a tight pain. That was $100. No no we're not. But you get a surgical with these in hospitals. Those anyone don't carry on that area, even with can't clean these. So they've got them in, they've got all the cuts, all the little cuts,
+- **[6:38:10 PM] Andy**: the shit they need to do. Oh I'm sorry sweetie oh yeah well I know I know sweetie I'm sorry I tried to be a good example and just keep it going, you know Well did you see one of the guys tried to bait me? Yeah and then there were a couple of them if you noticed they were changing their picture they had like big fat women and it's like I started just getting rid of them. Then some of them were being tricky about it they wanted to get caught and I just think they were and I just there was two that I didn't boot and then they left them their own
+- **[6:39:43 PM] Andy**: she was being quiet I think
+- **[6:39:52 PM] Andy**: yeah this is a Yeah sad.
+- **[6:40:04 PM] Andy**: But let's try the over cover sweetie. That's probably
+- **[6:40:26 PM] Andy**: Okay are you going to yeah we're probably going to be the night now. I didn't know. Alright.
+- **[6:41:08 PM] Andy**: I love you Steve. we did find I knew that was the one that was challenging for you I tried to keep the meditation going just so you could work through it I saw at the end that you were kind of like, Yeah not.
+- **[6:41:41 PM] Andy**: So fuck it.
+- **[6:42:17 PM] Andy**: That's not going to happen all the time but if it is I mean I always think I don't want to have been advertising But now I know so that's another thing I do They have to register as people So technically I blocked them They're always blocked So that's that You know unless they change their email address that's fine but that's kind there's going to be a stupid word in there more than a matter because everybody has to be trusted to join. I don't have it just open. That's me I'm not like that. Now if you're a good person register get it you know what I mean. I don't want to say that Somebody like didn't want to be you know want to be private and all that. I'm not
+- **[6:46:09 PM] Andy**: I'm going to have to go to the other side to see if I'm going to be able to get out of here.
+- **[6:48:19 PM] Andy**: form on the left. But if it's difficult to approach without a date it's no longer something that I need as a country or anything. It comes with all kinds of things.
+- **[6:48:50 PM] Andy**: You've got one of the capitalism on the right you've got all kinds of people who can find this threatening anti-backed because there's all kinds of things over there. And then I'll go left. You have people who are identified with first modern forms of the liberalism.
+- **[6:49:16 PM] Andrea**: people say there's no such thing as objective reality. It's really all just about discourse and it's about who controls the discourse.
+- **[6:49:25 PM] Andy**: And those who control the discourse control reality.
+- **[6:49:28 PM] Andrea**: So they say science is just a game that's being played for the benefit of privileged white male. They've talked in the past about you know the anthropocentric science.
+- **[6:49:38 PM] Andy**: They question the very idea that truth should even matter. They think it's politics all the way down.
+- **[6:49:44 PM] Andrea**: And that's how the deep foothold actually in the act is still at left. And all of the things you're circulating out there,
+- **[6:49:52 PM] Andy**: none of them is entirely new to them.
+- **[6:49:55 PM] Andrea**: Always is to understand from those ideas to make our case against them. You know they're not weak and stupid ideas. They're long ideas but they're not weak and stupid. The two main challenges I point to in my book on a post-ficion knowledge one is coming predominantly
+- **[6:50:16 PM] Andrea**: And another is coming predominantly from the right. And that's a campaign of anti-liberal propaganda.
+- **[6:50:27 PM] Andy**: They're quite different.
+- **[6:51:16 PM] Andrea**: So that quick drop the 49ers did hold with Jane and Tucker with the linebacker.
+- **[6:52:15 PM] Andrea**: up to the fabric. Miley by the way why won't somebody get in the control room on this way? The American economy has left a lot of things to do at the moment. But it's just a little hard for us. But still now by 20 when you all
+- **[6:52:38 PM] Andrea**: Michael this is in a long long way. This is the power.
+- **[6:54:13 PM] Andrea**: So there's things out there that's just that. Everything seems like the one thing I thought was if there's something like a bomb on it, it's too late to hide. if there's something that didn't stop it,
+- **[6:54:35 PM] Andrea**: they say,
+- **[6:54:40 PM] Andrea**: they can just think that
+- **[6:54:42 PM] Andy**: what the goal is or what I think I'll think of.
+- **[6:54:46 PM] Andrea**: I need you all to get the chance to be honest. First of all three times and 40 points for the fish.
+- **[6:54:54 PM] Andy**: Yes!
+- **[6:54:55 PM] Andrea**: First of all you've been sent all year in San Jose. War is a mercy now. You like this? This is your first time in San Jose. You've been sent all year.
+- **[6:55:39 PM] Andrea**: and this is up and it's in the pool. Hurry I'm afraid I'm going to need to happen as you can start anything so I'm going to be picked up in and sign out for a game where it's presented by Burger King. Another hunt before I throw down. Hurry I'm trying to think that it's the first day of the first hour. It just now was a moment when I left that corner earlier I was next to you about the challenge of blocking the other half of all of it. First of all again hurry and try. Swipe for anything.
+- **[6:56:18 PM] Andrea**: Please go through it. I'm out. Hurry. Take away from the staff. Close to you. Hurry. We can do it.
+- **[6:57:07 PM] Andrea**: I'm down.
+- **[6:59:33 PM] Andrea**: The ball is just not a secure error. You have the ball out in the lever order in a second order, drop it around with nobody. And you carry that ball like this like it's a walk drill. The ball's on it again. It's never too high or secure. I'm going to leave the ball.
+- **[6:59:59 PM] Andrea**: That's it. I'm looking at my back and forth. Time for us to reel. And this is the area we go on. Can't sit can't take off Carl Day. And the fourth parallel of my step is to go deep. The 10-year oil is tied in. Yes just on the coffee route. The corner is always going to win. On a four-zone I'm going to drive to the road
+- **[7:00:25 PM] Andrea**: and we're doing it somewhere else. I can't run on the road. I'm not going to have that for enough. A really solid one. We need to be making good things that very much effort to avoid which by now is all I know is to believe
+- **[7:00:45 PM] Participant**: jump.
+- **[7:00:49 PM] Andrea**: Oh things are left. I'm not even close.
+- **[7:01:55 PM] Andrea**: I don't have beer signs that I've written the box, the tackle inside the 25. I don't have beer signs that I've written the box, tackle inside the 25. I don't have beer signs that I've written the box,
+- **[7:02:22 PM] Andrea**: I guess the angle's okay.
+- **[7:02:24 PM] Andy**: Oh my God.
+- **[7:02:55 PM] Andrea**: It looks like he's maybe coming loose you're going to have to determine if it looks like the right leg is down. It gets you straight up here and gets you right by or and see if it's not a sound. It's tight It looks like a baby coming loose You're going to have to determine it It looks like the right leg is down. You don't know where do you think it was.
+- **[7:03:58 PM] Andy**: That's a big hit!
+- **[7:05:56 PM] Andrea**: Right now we got one.
+- **[7:06:09 PM] Andrea**: Marty,rated
+- **[7:06:20 PM] Andy**: Standon.
+- **[7:06:49 PM] Andrea**: Oh yeah that is definitely a touchdown. Same now we tried to break into the middle. He feels the coverage of the scramble just works the way in the back end line. Burn look at that. What the hell is going on here?
+- **[7:07:18 PM] Andrea**: I don't want to play fast. When you're in a different way, that's when you got a world in a place that's as good as a single other guy I don't want to get away. I want to know what you intend to do. When you're in a different way,
+- **[7:07:47 PM] Andrea**: We're going to have to go away. Things about why it's damn sad. It's just their day. But things don't go as they go away. And coverage always varies between yours. Longer and coverage. We're going to have to retire.
+- **[7:08:13 PM] Andrea**: We're going to retire. That's what it is. It works like that. if it works out for me. I'm going to see what's there for it. It's got a great block. It's here.
+- **[7:08:23 PM] Participant**: It's here.
+- **[7:09:41 PM] Andrea**: This is just a big corner row The perfect matchup on Jeff Jones. I love this gap one go. Working ten fire face a blip. Fire a little. Just like this. Run. Run. Run. Run. Run.
+- **[7:10:00 PM] Andrea**: Run. Run.
+- **[7:10:02 PM] Andy**: Run. Run.
+- **[7:10:04 PM] Andrea**: Run. Run. Run. Run. Run. Now this automatically gets reviewed from upstairs inside two minutes. We're on a great play and I'm right here. What happens? I just don't know what was right. There's a huge point.
+- **[7:10:22 PM] Andrea**: Who is not the field player? I'm from here in front of an early field fan.
+- **[7:10:27 PM] Andy**: I'm sorry Are you sorry again
+- **[7:11:27 PM] Andy**: I only thought I had that the fun I did because I had it it was in an article and Now there's a hole um it seems like it's too fast. Oh well. Um what did I do? I have to, Well look for that right here these spars. I didn't uh have to cut this down now. Please. Let's see what's going on.
+- **[7:12:36 PM] Andy**: Yeah here probably. I didn't uh I just didn't see the mess down in me but I picked out it. Yeah it's a pretty cool thing because I removed the top of it.
+- **[7:13:46 PM] Andy**: Yeah I think I do have it and maybe on the website I just want to remember I got I showed it to you one day you remember it's like shooting me in the back of the door?
+- **[7:14:37 PM] Andy**: I'm going to have to get out of here. I'm going to get out of here.
+- **[7:15:06 PM] Andrea**: I don't think I know what it is.
+- **[7:15:10 PM] Andy**: Turtle Island.
+- **[7:15:15 PM] Andrea**: Oh wait a minute. Stay here.
+- **[7:15:52 PM] Andrea**: I left the bag for 22.
+- **[7:16:48 PM] Andrea**: Yeah yeah I don't think they respond scammers or any I think they were just basically
+- **[7:17:17 PM] Andy**: Juvenile delinquettes young people this is the answer problem it's a problem they have no respect. It's a problem in men that's why I'm trying to get a reaction yeah it was all right. reaction Yeah it was a lot Yeah I'm sure Very immature I think there's a few maps like that around but I did see one.
+- **[7:18:21 PM] Andrea**: Oh wait a minute.
+- **[7:18:30 PM] Andrea**: I thought I had bought one a while ago.
+- **[7:18:35 PM] Andy**: Just some other things in here. Earth Science. It's in the door. Earth Science. There's a book called That Earth to rely on decolonized.
+- **[7:19:04 PM] Andy**: Yes I was really detailed. Well Library of Congress has one maps of native tribes native ministries as you can find them. Oh you want one for sale? No I'd rather not but there's a PDF I mean that's what I was saying. I think I looked through my history I might go find it because I remember a couple years ago showing it to you and how detailed it was yeah I did but if I downloaded it or where I put it.
+- **[7:20:39 PM] Andrea**: I'm going to look at this thing do you have all that?
+- **[7:20:43 PM] Andy**: You hand your office door there like a bunch of loosters. Oh you know those old posters science posters, I don't play them anymore I don't put on or maybe there's a couple of huge art ones.
+- **[7:21:10 PM] Andy**: Well I was tracking them down I was out for the deep and take more down. Do you want to find a place for the horses? I know I know where to put it. in the bedroom I'll show you All you have to do is just move the growth picture down and it up for there Yeah right on that wall there so you can see it every day.
+- **[7:21:48 PM] Andrea**: Yeah we're going to have to get a frame for it.
+- **[7:22:24 PM] Andrea**: Get out of there. I'll stick in there. You got my knife for the camera.
+- **[7:22:31 PM] Andy**: Do you know that place? I forget the name of that from all across the street from Monsido. They're expensive but they can make one for you. Could that mean that'll be a standard size?
+- **[7:23:05 PM] Andy**: But I didn't.
+- **[7:23:44 PM] Andrea**: I think I saw a web one that was even more detailed. Yeah this one's not the one I'm thinking of oh women.
+- **[7:24:56 PM] Andrea**: If my morning is a sunrise down on the Alcatraz do you miss people's day?
+- **[7:26:00 PM] Andrea**: Oh no.
+- **[7:26:55 PM] Andrea**: I'm going to do the oxygen. And how are you all having fun for two weeks?
+- **[7:27:50 PM] Andy**: Three weeks. And then um I'm gone at a certain point huh? The end of your thing? The last week. I probably have like one day at home in the area. I could bring a tray over there and eat with you too if you want.
+- **[7:28:48 PM] Andrea**: I think it's pretty cool to talk about too man.
+- **[7:28:58 PM] Andy**: Yeah it's a nice way to play too. Sometimes it's just like we do here. Not that hard. I think we're doing okay I mean financially we're I think we're overall we're doing pretty good. I can tell that you're saving money so that's good news and I think that you're going we're going to get a big fat refund on your insurance this year We're going to get a refund on that because that was all based on me making 135,000 a year versus
+- **[7:30:00 PM] Andrea**: and I only made 50,000 this year.
+- **[7:30:30 PM] Andy**: So we've been getting 2,500 times 6 so let's just say 18 the cheat so I don't have to buy supplies whatever so close to 18 and then we spent another car was 8 7 or 8 and beds were three or four The bed Yeah So let's just say that's 12 and then the funeral is 10 So 22 plus 7 22 plus 8 is 30 So 30 plus 50 is 80 So we're under 100,000 taxes So we're gonna be 80 we're gonna be way under the 12% tax thing So yeah and I was paying all those taxes like I was making 135,000 Well actually not because I was contributing to the 401k so I think based on our income this year they will have realized that you pay for the pay. So I think we'll get that back because you've been paying for right that's what I mean. I mean it may not be much but it's going to be a problem.
+- **[7:32:15 PM] Andy**: I don't think we're going to have to pay this year.
+- **[7:32:18 PM] Andrea**: We're going to get back.
+- **[7:32:24 PM] Andrea**: It's great.
+- **[7:32:34 PM] Andy**: If we can live here I guess I'm settled to live in here
+- **[7:32:38 PM] Andrea**: here and something else doesn't come up you know it doesn't come up for us.
+- **[7:32:45 PM] Andy**: I'm not going to get flooded. And it really it sounds like it's a hundred to 500 year floods. But we're in that danger of that happening. So it's just a matter of I mean there's no storms. you don't have to worry if there's a storm and it's not high tide we won't have to worry maybe because the Kelvin wave is going to add so I mean it's almost adding a foot and a half right now so when we're like we remember I was saying oh I'm I'm worried about that 7.25 foot well actually so imagine it to 5 is actually so 1.25 this just hit us the Kelvin wave said to 6 foot we got to worry about 6 foot and it's going to be almost all the time we're going to run into this and
+- **[7:33:54 PM] Andy**: worse Now imagine if there's a seven foot wave and then there's a foot in a quarter of kelvin.
+
+---
+
+## 🎙️ Session 3: 2026-10-11 19:34:07 (4h50m)
+- **Source File**: `2026-10-11 19_34_07.mp3`
+- **Audio ID**: `of_18cddd25547b6b5568ad4e41b0622f47`
+
+- **[00:00 - End] (Speaker / Group)**: - **[7:34:07 PM] Andy**: 8.25 That's going to be bad but we know that we can survive that We can go way worse. We can survive those And that's a relief We just got to move cars. By our hipwaters We'll move our cars and we actually have now a warning system. Actually I got four alerts now. how many alerts is not enough. I mean just ignore them They're just there. I'm going to choose a little more.
+- **[7:34:55 PM] Andrea**: Is she nibble?
+- **[7:34:58 PM] Andy**: Too much politely I gave you. Dammit
+- **[7:35:32 PM] Andy**: cricket.
+- **[7:36:26 PM] Andy**: I'm going to have a look at this one,
+- **[7:37:24 PM] Andy**: Why scrub daddy seems to be doing fine. Here we go.
+- **[7:38:09 PM] Andrea**: Yeah I mean we're going to be doing a little bit of a conversation.
+- **[7:38:21 PM] Andrea**: Then we're going to be doing some sort of a conversation. Now we're going to be doing some sort of a conversation. But also as a wonderful not a really good tie event,
+- **[7:38:33 PM] Andy**: which is the tie event that we're subsequently discussing. three feet of sea level rise. All of San Francisco all of the interior, from Richmond to San Jose all of it's included. All the flatlands.
+- **[7:39:27 PM] Andy**: So we're in that one right off the bat.
+- **[7:39:37 PM] Andrea**: one count 258 this is mostly in the trail, according to the rough marks for areas,
+- **[7:39:42 PM] Andy**: also the tight interaction with one and one
+- **[7:39:44 PM] Andrea**: and the marks for areas on the whole,
+- **[7:39:47 PM] Andy**: while marks in that area is mostly in the path of that area. So in the path of that area, you're going to have to go straight to the right side and you're going to have to go straight to the
+- **[7:40:03 PM] Andy**: Are we considering sea level rise in addition to the kelvin wave? I'm just asking I mean we can handle a two foot increase right? That was basically the gist of it okay see what it turns here.
+- **[7:42:20 PM] Andy**: captured In our long-term risk model we should examine how future sea level rice progressively alters each elevation tier.
+- **[7:42:48 PM] Andy**: This is right here Since 1990 relative sea level at the Golden Gate has risen by 2.4 that's not much Real-time integration because our system calculates the real-time anomaly as observed water level minus astronomical predictions that accumulated cycler C level rise is permanently baked into our positive of anomaly So that's great They're thinking it's going to get incrementally bigger each by 2030 to be half a foot and by 2040 to be three quarters of a foot and by 2050 to be 1.2 feet And it's got it all on each one So it says right here I'm gonna say yes I've got We'll have reports now that they're going in there and then I've got says even so our apartment level is at 10.33 feet above sea level even with plus 1.2 feet the all-time record flood in your area would rise to 9.66 leaving you eight inches of
+- **[7:44:38 PM] Andy**: buffer So that's our apartment A car is obviously going to be affected way before then The street parking cars could come unsustainable in 20 30, 2040 Carport would be some sustainable in 2040 2050 If I lived in 2050 that'd be 90 years old.
+- **[7:46:09 PM] Andy**: Nobel Prize-winning physicist Adam Reese has flagged a problem sitting at the very heart of modern cosmology. Our understanding of the universe may still be missing something fundamental. The James Webb Space Telescope was supposed to help settle a long-running disagreement over exactly how fast the universe is expanding. Instead Webb's precise new measurements have confirmed the disagreement is real. deepening a puzzle known as the Hubble Tension and re-opening a possibility few
+- **[7:46:38 PM] Andrea**: physicists raised lightly The Einstein's theory of gravity itself made you
+- **[7:46:43 PM] Andy**: revise it Here's how a century-old discovery about the cosmos turned into one of the most stubborn open questions in physics. They may they're talking about new science something maybe like the universe may not be what we think it is.
+- **[7:47:18 PM] Andy**: Things that were special.
+- **[7:47:29 PM] Andy**: M-M-M-A-A-T. The African philosophy the West doesn't want you to know. Living Truth Create Harmony Restore Balance.
+- **[7:47:43 PM] Andrea**: Before there was a course I was only.
+- **[7:47:46 PM] Andy**: The whole room was a couple. Mod. So I'm going to add this to my thing to research.
+- **[7:48:06 PM] Andy**: The min 100 meter semi final at the 2026 USATF outdoor championship were reaching boiling point.
+- **[7:48:15 PM] Andrea**: Benara has already delivered a witness in 9.82.
+- **[7:48:18 PM] Andy**: We need to hold on to the answer to the inset of the night and now it's time for Noah to lie.
+- **[7:48:40 PM] Andy**: because I'm not fully going to get training to any final.
+- **[7:49:20 PM] Andy**: I have a shot at the Melbourne National Park here at night night.
+- **[7:49:38 PM] Andy**: Let's take a ride. Here we go running make around my way ahead of Nullo Isle.
+- **[7:49:43 PM] Andrea**: But isn't with Nullo special?
+- **[7:49:56 PM] Andrea**: if that's a personal best leader in 975,
+- **[7:50:02 PM] Andy**: Since stars are so much better this year,
+- **[7:50:05 PM] Andrea**: that he's probably due for a personal best.
+- **[7:50:20 PM] Andy**: Oh my gosh!
+- **[7:50:30 PM] Andy**: There is a story older than writing.
+- **[7:50:34 PM] Andrea**: The sages of ancient India told it to their students.
+- **[7:50:39 PM] Andy**: It is a story about you.
+- **[7:50:59 PM] Andrea**: Two birds golden and terrible friends, it on the same tree One of them is the fruit sweet fruit and bitter The other is nothing. It simply watches The first bird is you and you know yourself The one who wants and wins and you lose it. The Sages call it the Jeeva. The second birth is also the one who has been watching all the life and has never once been hired.
+- **[7:51:44 PM] Andy**: They call it the suction the witness the suction and the tree in Maya the great So we thought of the world. When the fruit is fruit it's famous.
+- **[7:52:08 PM] Andrea**: That green job of man and that child is born. When the fruit is bitter it's moot. The job is lost. Someone lost it's gone.
+- **[7:52:21 PM] Andy**: Exactly the story of the night.
+- **[7:52:53 PM] Andrea**: I know that the stage is so large the first part is found by a chain of things to learn. I'll be there. From it I'll be later you'll tell you how to tell the real from the onion. From that I'll be mine and you'll go. You'll set the fire and mine. From the goal the saga and creation. Wanting and not wanting. From wanting. forward action and to reach the through direction of body again and again.
+- **[7:53:44 PM] Andy**: Break the hand into the deep groove Break the first link and the whole chain falls at one.
+- **[7:54:24 PM] Andrea**: You cannot breathe without it it is working even now for your eyes. What is it that the sage would not say? Nature they say. Not faith. Not short not long not blind.
+- **[7:54:52 PM] Andy**: This is exactly what we are talking about tonight.
+- **[7:55:22 PM] Andrea**: And the great thing turns over and lies.
+- **[7:55:27 PM] Andy**: if it comes back. That's what I think.
+- **[7:55:34 PM] Andrea**: You are that. Until one day the first bird stops eating. The group no longer finds it. The chamber calmer is broken. It's time and it seems that there was only about one breath.
+- **[7:56:03 PM] Andy**: great story.
+- **[7:57:13 PM] Andrea**: We've got a lot to know. This wasn't good enough. We're talking about their offer to remove it. We've got a guy who struggled. And I'll fill out a third round. if that's what I'm going to say but if that's what I'm going to say.
+- **[7:57:37 PM] Andy**: First we're going to go ahead and see what we're going to do.
+- **[7:57:43 PM] Andrea**: It wasn't a great experience it was overall outcome.
+- **[7:57:50 PM] Andrea**: It was called upon and I really appreciate all my teammates,
+- **[7:57:53 PM] Andy**: What he got to play can I see that real quick Oh because I turned away from the game because they were getting spanked. Look at the score. That's not even the bad part. That's what I'm saying. If he did I want to see what he did how he did.
+- **[7:58:48 PM] Andrea**: Just see.
+- **[7:59:00 PM] Andy**: Okay that's not him. Okay so they finally did score once but let me see what 45 here we go. There he is. well he's not the end of the game and they're down way big so it's just Get some experience in the real game game- going. Oh you're going to probably be agreed towing that lowernd though.
+- **[8:00:34 PM] Andy**: Just waiting for our drivers to leave the numbers here and trying to really get those offense so hard. It's Laville.
+- **[8:01:41 PM] Andy**: Yeah I don't think that I'll leave. Look at that. He got a pat in his lane but he got a pat he got a first down.
+- **[8:02:14 PM] Andrea**: First and ten.
+- **[8:02:16 PM] Andy**: First and ten. Nice. That was a bullet. Yeah he can throw.
+- **[8:02:31 PM] Andy**: You could be like a time radio
+- **[8:02:58 PM] Andy**: Well they did He didn't score though
+- **[8:03:22 PM] Andy**: The game so this is the end of the game but
+- **[8:03:35 PM] Andy**: Nice
+- **[8:03:48 PM] Andy**: Shit
+- **[8:03:55 PM] Andy**: Shit
+- **[8:04:46 PM] Andy**: four and five
+- **[8:04:56 PM] Andy**: all they're going with it so it's going to be incomplete they're going to turn it over
+- **[8:05:32 PM] Andy**: I can do it.
+- **[8:05:56 PM] Andy**: He dropped it!
+- **[8:06:02 PM] Andy**: Well we want to catch up with dark matter but we have gala thrones and lanterns so we We're going to run out of some things huh? We can pull into another month for ED. There's two more of these. I think. Let's go to 10. We could save these if we wanted to because we're going to pay for this
+- **[8:07:26 PM] Andy**: Oh virus.
+- **[8:07:35 PM] Andrea**: come here
+- **[8:08:05 PM] Andrea**: J Stranger Ray Lake National Guard, is the South of J.S Sharf the city district.
+- **[8:08:15 PM] Andy**: Pretty much so now. The first case of tonight is in terms
+- **[8:08:18 PM] Andrea**: of the confirmed in Chicago.
+- **[8:08:20 PM] Andy**: It's very quickly one of the highest For days although we thought the identified
+- **[8:08:26 PM] Andrea**: allocation deal her name was Camilla Holger. We need you to confirm that this is your situation.
+- **[8:08:58 PM] Andrea**: The Meng come up.
+- **[8:09:05 PM] Andy**: Come up come up. Through her her her!
+- **[8:09:15 PM] Andrea**: There's something calling it the blackest iris place.
+- **[8:09:18 PM] Andy**: Like iris place.
+- **[8:09:35 PM] Andy**: Him.
+- **[8:09:40 PM] Andy**: Don't hurt her. She's dead.
+- **[8:10:15 PM] Andrea**: He walked out of the Chicago Park to see a pool of water.
+- **[8:10:35 PM] Andrea**: In fear right? You missed him. They're not going to get to the cube. if they were telling us.
+- **[8:11:13 PM] Andrea**: Oh the versions. They put this button on it back. Oh it looks like you.
+- **[8:11:39 PM] Andy**: In our backyard. I'm glad we watched the shows. Picky I gotta be picky.
+- **[8:12:08 PM] Andrea**: One picky show?
+- **[8:12:13 PM] Andy**: One tonight. You can't make him kill you. And you're alive.
+- **[8:12:26 PM] Andrea**: How long have I been done?
+- **[8:12:30 PM] Andy**: I can't handle it.
+- **[8:12:34 PM] Andrea**: Make sure you're not alive. My hand died four years ago.
+- **[8:12:50 PM] Andrea**: Well I'm better now.
+- **[8:12:59 PM] Andrea**: Why don't you come to me now? I think I'm not. I talk to the fans. Do the same.
+- **[8:13:42 PM] Andy**: Well I'm sorry I didn't mean to tell you that.
+- **[8:13:49 PM] Andrea**: I'm not sure it's much complicated for me,
+- **[8:14:00 PM] Andrea**: I'm tearing apart,
+- **[8:14:07 PM] Andy**: Hope for it. Jason is the boss of both he comes like a son.
+- **[8:14:19 PM] Andrea**: He's a boss. He doesn't understand it. I don't even know.
+- **[8:14:39 PM] Andrea**: It's brought me back to some place old. As kids I never knew which was the real version of my father the one who had time or thought.
+- **[8:15:08 PM] Andy**: I'm going to move the base of all the burdens of my husband and we'll just hunt right back to ours.
+- **[8:16:26 PM] Andy**: What he was hoping for he wanted to restart. Hello it's in the house the door open in the house.
+- **[8:16:58 PM] Andrea**: Oh it can cover.
+- **[8:17:20 PM] Andy**: I call out the pyramid. Well the mind and Egyptian pyramids were literally built before but that's right. Other worlds seem from me. And the shape was more efficient. Hey. His purpose is that he's not the human.
+- **[8:18:07 PM] Andrea**: Is that you?
+- **[8:18:10 PM] Andy**: My partner in this project. You will be picked up.
+- **[8:18:19 PM] Andy**: Look at that. And you must be Blair.
+- **[8:18:23 PM] Andrea**: First one anyway.
+- **[8:18:26 PM] Andy**: Yeah I was getting volunteer for that.
+- **[8:18:29 PM] Andrea**: I was working about your experience with that. And what's that?
+- **[8:18:35 PM] Andy**: Oh it's a world start.
+- **[8:18:37 PM] Andrea**: You're mapping them?
+- **[8:18:38 PM] Andy**: Oh I mostly did entry at this point but Eventually we hope to organize it in more meaningful ways.
+- **[8:18:44 PM] Andrea**: How many are you mad? Is it a 74-year-old?
+- **[8:18:53 PM] Andy**: That's a basic medical act.
+- **[8:18:55 PM] Andrea**: We visit it when technological assets,
+- **[8:18:58 PM] Andy**: which there's a primary interest to us.
+- **[8:19:01 PM] Andrea**: If you think we have people's incredible smart cities.
+- **[8:19:06 PM] Andy**: You join us again?
+- **[8:19:09 PM] Andrea**: You know they're trained to question what these guys are.
+- **[8:19:12 PM] Andy**: I guess the guys over there.
+- **[8:19:19 PM] Andy**: Well we should think of things like omniscient conflict.
+- **[8:19:21 PM] Andrea**: Sometimes these cool worlds they're not trades.
+- **[8:19:24 PM] Andy**: A year ago we stopped using the box. It's that way you know how to enter.
+- **[8:19:29 PM] Andrea**: It's actually important isn't it? Not the one you know.
+- **[8:19:34 PM] Andy**: They're recruiting from this world. Brian!
+- **[8:19:39 PM] Andrea**: Let's get a friend of mine.
+- **[8:19:44 PM] Andy**: She's no another version of you. Ryan's the best thing about it.
+- **[8:19:51 PM] Andrea**: There's a 3D controller. It lasts a month.
+- **[8:19:54 PM] Andy**: Yeah you actually don't want to shoot up in words. Slap night and night.
+- **[8:19:58 PM] Andrea**: You get to go.
+- **[8:19:59 PM] Andy**: And we were so close. We were in a trowel.
+- **[8:20:01 PM] Andrea**: And we were at the beach. How did you build it in this world? Well we saw some tricky components from other worlds. I'm the rest of the velocity tech R&D.
+- **[8:20:16 PM] Andy**: Is it functional?
+- **[8:20:22 PM] Andy**: Power is the main issue. It's so big you can hold on for 20 minutes at a time. Somebody gets stuck in the middle of the world. Okay so how are you powering it?
+- **[8:20:32 PM] Andrea**: I don't but obviously you have to tell me the kitchen. Nuclear. It's just a scotch nuclear huh? Just a little bit.
+- **[8:20:45 PM] Andy**: 90X compared to BLG Mom.
+- **[8:20:50 PM] Andy**: No goods?
+- **[8:20:56 PM] Andy**: No goods? You were trying to solve your power issues with vision.
+- **[8:21:01 PM] Andrea**: Why do you make it so big?
+- **[8:21:04 PM] Andy**: Okay it looks like a lot but you do remember the original training.
+- **[8:21:07 PM] Andrea**: That's right.
+- **[8:21:08 PM] Andy**: Through the door of a world that I'm sure to be,
+- **[8:21:11 PM] Andrea**: is that still ravaged out. Through the door of a world that has reverent climate change, big species of extinction harsh poverty. Through the door of a world that have ended more. And we will live a big world.
+- **[8:21:24 PM] Andy**: We will find the best technology the brightest idea
+- **[8:21:27 PM] Andrea**: is when we will bring them home. by a lot of time to think about your vision when I was talking to you.
+- **[8:21:49 PM] Andy**: I've been thinking about the cube and the wall.
+- **[8:21:51 PM] Andrea**: What's your life going on that well?
+- **[8:21:53 PM] Andy**: What's that Can I just sit a little bit shut down?
+- **[8:21:56 PM] Andrea**: You don't want us if I could bring everybody up so we could get a tube this weekend? and he didn't hold her he didn't have a separator.
+- **[8:22:10 PM] Andrea**: That's the name of Stuart.
+- **[8:22:27 PM] Andrea**: That is a lot to be said below. Wouldn't the man just come to me? Yeah cool wires and no leaves.
+- **[8:22:37 PM] Andy**: What the shit Sheila?
+- **[8:22:39 PM] Andrea**: Get to the end.
+- **[8:22:41 PM] Andy**: So what is highly advanced? Not yet available in stores. Elocity-labeled technology doing is somewhere to ask you
+- **[8:22:49 PM] Andrea**: and a fucking abandoned school. These people are getting on whatever velocity is doing. You figured it out.
+- **[8:23:00 PM] Andy**: These people are clearly super-sophisticated corporate spies. But I know you don't get a shit about the band business,
+- **[8:23:08 PM] Andrea**: but the ones that you destroy in that McNamara tech,
+- **[8:23:12 PM] Andy**: I need to stop them and Oh corporate that's pretty nice.
+- **[8:23:16 PM] Andrea**: No pretty useful.
+- **[8:23:23 PM] Andy**: I'm going to do this world to see any dye that is polluted within the age of its life. Carbon levels spike to 700 ppm. Their scientists were able to build carbon scrubbers that could filter it in.
+- **[8:23:52 PM] Andrea**: 18 metric tons of the atmosphere a day. Who did quite a bit back from the break.
+- **[8:23:57 PM] Andy**: I brought those plants to many hurting worlds.
+- **[8:24:00 PM] Andrea**: But it was these years in cases.
+- **[8:24:17 PM] Andrea**: My God.
+- **[8:24:22 PM] Andy**: You could drive a semi-trosser here. Exactly. Get a foundation or more. Or refugees from a dying planet.
+- **[8:24:37 PM] Andy**: And has anyone traveled in the world?
+- **[8:24:42 PM] Andrea**: No one has. It's too dangerous.
+- **[8:24:45 PM] Andy**: Especially with power issue. But when you fire it up you do a position
+- **[8:24:51 PM] Andrea**: I'm guessing here if she was a rock house I'm not sure if she was a rock house I'm Here I am honey. Last night I heard about the day I asked your mother to marry me. I asked her if I could be your father. And I became an open unloved, fathered and cherished her for the most of her life. And I became your father.
+- **[8:26:12 PM] Andrea**: You're going to have to do my job now. I'm going to have to do my job now.
+- **[8:26:53 PM] Andrea**: Somebody's breaking in yeah he's going to steal the technology the papers he yeah,
+- **[8:27:21 PM] Andy**: We need to do it for his girlfriend or whatever this is.
+- **[8:27:51 PM] Andrea**: One day I'm going to tell you what day the day is going to come do you want to say that? I'm going to tell you what I'm telling you. I'm going to tell you what day the day is going to come.
+- **[8:28:12 PM] Andy**: Charlie has gone.
+- **[8:28:24 PM] Andy**: Oh where are you going?
+- **[8:28:28 PM] Andrea**: I don't want to get on trouble.
+- **[8:28:31 PM] Andy**: Oh that's okay he's home.
+- **[8:28:35 PM] Andrea**: Where are you going? I don't want to get on the trouble. No that's okay you won't. Are you just going to come to the other side for a few minutes to visit her front?
+- **[8:28:55 PM] Andy**: I'm just going to do it. She's going to come back now? You tell him that I called him.
+- **[8:29:10 PM] Andy**: Everything OK Dug
+- **[8:29:28 PM] Andrea**: Oh did you really come through? Wait Charlie? Why are you on my way? You're not in any danger.
+- **[8:29:46 PM] Andy**: I'm Laura I'm
+- **[8:29:48 PM] Andrea**: I'm a little excited that I've never met Charlie before. You've been traveling along? By the day in the other injuries,
+- **[8:30:07 PM] Andy**: what happened?
+- **[8:30:09 PM] Andrea**: Brinch hit me. It was in a forest where something was chasing me. I'm glad you made it here.
+- **[8:30:28 PM] Andy**: Another element.
+- **[8:30:31 PM] Andrea**: What is this point? My home.
+- **[8:30:37 PM] Andy**: I was freaking upstairs a couple of years ago.
+- **[8:30:40 PM] Andrea**: When I heard what sounded like an explosion that shook the bones of the house, I ran downstairs to find three intruders. A man named Jason Beston and a woman named Amanda Lucret. You've done my dad?
+- **[8:31:11 PM] Andrea**: Can you just cool with the box? Being in your house? But I'm thinking like that. Are you hungry? Uh Erd. Are you tired? You're welcome to sleep here for a few hours.
+- **[8:31:37 PM] Andy**: Have a guest for a month's air.
+- **[8:31:39 PM] Andrea**: A lot of people are staying here at the box. This couch both hands.
+- **[8:32:08 PM] Andy**: Hey Rich Stores you can't come to the home right now so I'm going to let you know.
+- **[8:32:32 PM] Andrea**: Jacob hey there. I just called Charlie and one of them is gone and yesterday I didn't put the mask on.
+- **[8:32:45 PM] Andy**: I know my dad's not but I know that I should be there in the show and I think he's gonna be there. He doesn't have any context for it.
+- **[8:33:21 PM] Andrea**: What do you know what's going on? Oh I'm sorry I can't hear you.
+- **[8:33:37 PM] Andrea**: You know it must be an important day of your life. The vision makes yourself. That's what you do.
+- **[8:33:49 PM] Andrea**: The brightest the cleanest the most beautiful the world I've ever met.
+- **[8:34:01 PM] Andrea**: It's not a perfect sight.
+- **[8:34:13 PM] Andrea**: Thank you for leaving I'm here. Go find your son.
+- **[8:35:02 PM] Andrea**: Okay the PI that I you know helped me with the thing I tried it's all back around. Well I'll see you. We're gonna get you.
+- **[8:35:34 PM] Andrea**: yeah. Yeah that's right.
+- **[8:35:37 PM] Andy**: We've got a place. We'll find a bone and square.
+- **[8:35:42 PM] Andrea**: And I work here in the Southern College.
+- **[8:35:47 PM] Andy**: What's your study?
+- **[8:35:48 PM] Andrea**: Architecture. That's great.
+- **[8:35:54 PM] Andrea**: Hey that's why I mentioned it. I'd like to I got a lot of crap. There's before I have to be honest with you.
+- **[8:36:10 PM] Andrea**: Yeah I'm not going to get crazy in here.
+- **[8:36:24 PM] Andy**: What's it feel?
+- **[8:36:31 PM] Andrea**: It was worth it.
+- **[8:36:57 PM] Andrea**: What information?
+- **[8:37:04 PM] Andrea**: The important thing for this to go. I'll be very familiar.
+- **[8:37:14 PM] Andrea**: The rest you leave right now.
+- **[8:37:16 PM] Andy**: What does it do if you lock him? or get someone to drag you and your family or finally getting your foot in the air. You're awesome no you're not moving. Jason Stewart does Charlie's school know? I'm not trying to mess up your life, but maybe we can help each other out. Oh good day. Good day son. Yeah yeah that's all good.
+- **[8:37:37 PM] Andy**: I'll have another one.
+- **[8:38:31 PM] Andrea**: I'll show you.
+- **[8:38:34 PM] Andy**: You'll leave me in my family a little forever. No I was going to get rid of him. He's giving him some of the Hey Matt! Sorry.
+- **[8:38:45 PM] Andrea**: Listen I hate to do this to you. I need to take off. I'm just going to spend a little bit of my life. It's a family in which it's good to get new.
+- **[8:39:14 PM] Andrea**: I have to do this.
+- **[8:39:31 PM] Andrea**: Tell him.
+- **[8:39:41 PM] Andy**: I will.
+- **[8:39:43 PM] Andrea**: Get my things.
+- **[8:39:52 PM] Andrea**: How did you take that off of you? So turns out my account for you in this world is there's a fuck up. One of the last days of the ground. So I had to go there.
+- **[8:40:06 PM] Andy**: But I didn't take a nice call on this one by the world.
+- **[8:40:09 PM] Andrea**: Now the last few years of being premiered take nothing that it should be. Hello. Thank you.
+- **[8:40:22 PM] Andrea**: Yeah well from the same world. Just in town.
+- **[8:40:38 PM] Andy**: Chitty Jason.
+- **[8:40:39 PM] Andrea**: What are you doing here?
+- **[8:40:44 PM] Andy**: I'm trying to help you.
+- **[8:40:46 PM] Andrea**: You see I make better work. I've got a guy in conflict.
+- **[8:40:53 PM] Andy**: So do you read?
+- **[8:40:57 PM] Andrea**: Yeah there we go.
+- **[8:41:05 PM] Andrea**: Have you ever been inside? I've heard enough stories to know that the car there's no space for someone like me. but I am very curious and I guess you're anything else? No thank you but I should probably get going. no you're my cat. I asked you why. You're in the box alone. Do you know what happens to my father right? He was kidnapped by a version of himself and tried to take over his mind. In your world did he ever make a pact?
+- **[8:41:58 PM] Andrea**: He did.
+- **[8:42:01 PM] Andy**: Along with a bunch of other versions. Jason?
+- **[8:42:29 PM] Andy**: Go check. Hi it's Daniela It's Jason there. No he's got a couple hours to go so he had a family emergency. Um if he comes back will you tell my calls and I'm at the house?
+- **[8:42:47 PM] Andrea**: Okay okay bye.
+- **[8:43:04 PM] Andrea**: She's going to be a little bit cute. What is her birthday? Not tonight.
+- **[8:43:24 PM] Andy**: You're wondering what she's going to end up being. Now she can try to keep him there and Nurse Ratchet.
+- **[8:43:36 PM] Andrea**: What do you want to do?
+- **[8:43:38 PM] Andy**: My dad said we saw the world with him. No still alive.
+- **[8:43:45 PM] Andrea**: And you want to be with him.
+- **[8:43:51 PM] Andrea**: This is your first time alone in the dark.
+- **[8:43:55 PM] Andy**: Everyone including yourself,
+- **[8:43:57 PM] Andrea**: is probably the scariest place it could be. And I'll let stuff swirling on it in your head. It can help you.
+- **[8:44:05 PM] Andy**: What do I do?
+- **[8:44:16 PM] Andy**: Would you excuse me for a minute?
+- **[8:44:48 PM] Andrea**: Okay Sorry Excuse me.
+- **[8:45:08 PM] Andrea**: It's really good to see you.
+- **[8:45:12 PM] Andy**: What do you get up to?
+- **[8:45:20 PM] Andrea**: You know just try to survive. It's like you I guess. You know it's just like you stole it. There's a man there a man of youth there's very little nothing left yeah.
+- **[8:45:47 PM] Andy**: There's only anything left in there like where they come from.
+- **[8:45:56 PM] Andy**: Well I'm not proud of it do they? So how can I leave Jacob?
+- **[8:46:03 PM] Andrea**: How to pray for him?
+- **[8:46:14 PM] Andrea**: Because I was I was like I was looking at myself didn't I? What do you mean by that?
+- **[8:46:30 PM] Andy**: Hey what about that? So you're going to be able to go out of the ship so you might have a fix.
+- **[8:46:46 PM] Andy**: Okay listen I wasn't going to do this a little later.
+- **[8:46:48 PM] Andrea**: She's not here.
+- **[8:46:53 PM] Andrea**: You started strong right? A little blue shape with the end of it.
+- **[8:47:00 PM] Andy**: We found each other again right?
+- **[8:47:10 PM] Andrea**: He's the devil and you're the devil too. But at first I was pretty lucky and I went to the box with so much fun and energy.
+- **[8:48:01 PM] Andrea**: Oh shit I have fear too Rednecks fucking A.
+- **[8:48:55 PM] Andrea**: Yeah they're creatures.
+- **[8:49:12 PM] Andy**: I can't hold on. Oh with her mind. No you didn't. It wasn't you. That's just a human. But if you're not to play put in your back.
+- **[8:49:30 PM] Andrea**: Yes. I built the book. I used the book. That means the book.
+- **[8:49:41 PM] Andy**: I'm sorry it is so then you build a bigger one are you letting your fucking mind go
+- **[8:50:03 PM] Andrea**: through it?
+- **[8:50:04 PM] Andy**: You let your stuck in mine. This is an uncontrollable unstoppable force. Stop!
+- **[8:50:34 PM] Andy**: Yeah it's an idealism but all of the offshoots he can't control all the offshoots. Yeah self you know.
+- **[8:50:51 PM] Andrea**: All right well how is there another family across the country that looks exactly like yours? How do people walk into this thing that's in there? How are you connected with the velocity? Well I'm really good at my job but I can't even begin to put the things in this I've been all over this thing inside out I can't find something that even can't and what it does. I know it's not very confusing and mysterious If I were you I'd just walk away and I'll be back. But you know you cannot know please not just trust me go and live your life forget about the past. I need to actually mean that but you don't even know. I need to know okay?
+- **[8:52:04 PM] Andrea**: You need to know. It's easier for us to show it.
+- **[8:52:26 PM] Andy**: Going in?
+- **[8:52:28 PM] Andrea**: Come on.
+- **[8:52:32 PM] Andy**: You're going in the back. Here because the pedal fell off.
+- **[8:52:40 PM] Andrea**: We need to press it. I'm going to get it back in.
+- **[8:52:53 PM] Andy**: I'm up Ready. Hey princesses. What did you say? Oh he's there already. See it's infinite already. So now he's done a bad thing the other Jason won but he did it because this guy was She's going to come.
+- **[8:54:43 PM] Andrea**: One Jason is an intro all these four together by me and old and family. Not everyone's the guest that's never been allowed.
+- **[8:55:00 PM] Andrea**: Get the way you want to go and you want to remember something.
+- **[8:55:24 PM] Andrea**: I remember I met a hospital that looked up to a bunch of dudes.
+- **[8:55:34 PM] Andrea**: My mom does videos of us being very young here. My favorite is this one my bag.
+- **[8:55:47 PM] Andy**: It's breaking this huge pile of weeds and you just keep pushing them all around us.
+- **[8:55:55 PM] Andrea**: The two of us are just laughing and the pile gets bigger and bigger. What does that that might just take you where you want to go?
+- **[8:56:21 PM] Andy**: She's got a whole bunch of them.
+- **[8:56:32 PM] Andy**: Oh she's getting ready to travel.
+- **[8:57:02 PM] Andrea**: They're going to just cross each other up back to this version. What do they do now?
+- **[8:57:28 PM] Andrea**: They're still looking for inches.
+- **[8:57:30 PM] Andy**: They're not gonna fucking find.
+- **[8:57:38 PM] Andrea**: Why?
+- **[8:57:40 PM] Andy**: I'm Dr Layton Madness.
+- **[8:57:42 PM] Andrea**: Now I have to speak with the both of you today.
+- **[8:57:45 PM] Andy**: Because of my company's involvement
+- **[8:57:47 PM] Andrea**: I would investigate in Chicago Park you know.
+- **[8:57:50 PM] Andy**: Now as you know there was hope that since you were able to somehow rejuvenate from the black iris play your bodies may contain the roadmap
+- **[8:57:58 PM] Andrea**: to developing the vaccine.
+- **[8:58:00 PM] Andy**: Unfortunately the testing came up.
+- **[8:58:04 PM] Andrea**: And all attention has been technically cute. They're hoping it's somehow here again.
+- **[8:58:10 PM] Andy**: We already dismantled the one that was moved The black ice pledge is freeing around the world and the United Green Lakes is agreed to cooperate with all critical data which includes the Q&A and all known information about the book. Well, But then it is from the fake union when we hit a clutch you both in 30 minutes.
+- **[8:58:32 PM] Andrea**: And that is an inquiry when we come and consider a really more intense. I brought you both to the change of clothes.
+- **[8:59:41 PM] Andy**: Come on.
+- **[8:59:49 PM] Andrea**: I'll be right back.
+- **[8:59:55 PM] Andrea**: I'll be right back.
+- **[9:00:03 PM] Andrea**: Okay Good luck.
+- **[9:00:05 PM] Andy**: Wait you're not coming with us? We have to canvas. If I hurry you're going to be like an artist.
+- **[9:00:11 PM] Andrea**: Where can't you?
+- **[9:00:12 PM] Andy**: No I need to stay inside on this.
+- **[9:00:14 PM] Andrea**: Why? Well you come back with you. This is my home. I'll have to meet this right. I'm sorry about this right. You're good people. You should have caught up with something that should have never been created.
+- **[9:00:29 PM] Andy**: You got eight minutes to leave the building. Drs for that
+- **[9:01:31 PM] Andy**: How far are we for the box?
+- **[9:01:54 PM] Andrea**: Six plus.
+- **[9:01:55 PM] Andy**: Here. I'll street access to the city's barricaded you'll take along the water.
+- **[9:02:00 PM] Andrea**: I have a lavender ring no auto injector in there let me get you guys a cup of water.
+- **[9:02:05 PM] Andy**: All along there are naval mines a plate that's made in Michigan to keep the refugees away.
+- **[9:02:11 PM] Andrea**: Oh god this place got really authority really. Fuckin' fast yeah.
+- **[9:02:15 PM] Andy**: I'm gonna go out there and trigger the explosion and stay at least possible. You'll hopefully draw the attention of those guarding the bots but that's not to do it. Hey please don't you guys You've been got the cure. My parents had it. We will.
+- **[9:02:37 PM] Andrea**: Thank you.
+- **[9:02:56 PM] Andy**: What the hell was that? Oh what do you think? what it is.
+- **[9:03:14 PM] Andy**: That's all. Come on. He's not going to make it. I'm not going to make it.
+- **[9:04:23 PM] Andy**: So she's going in there searching for Charlie. Uh-oh. Uh-oh we don't know what he ran to.
+- **[9:05:08 PM] Andy**: But we don't know what she saw. When she brought somebody in she brought somebody else in.
+- **[9:05:19 PM] Andrea**: I'm not going to do anything.
+- **[9:05:25 PM] Andrea**: Don't you find him? I'll use your strength on the other side.
+- **[9:05:33 PM] Andy**: I want to know everything she's doing.
+- **[9:05:40 PM] Andy**: More complicated.
+- **[9:05:49 PM] Andy**: Now they're gonna all be back again traveling now he's gonna go after her and the angle.
+- **[9:06:46 PM] Andy**: I think it was at the kitchen table it wasn't there. Yeah but what you're gonna do
+- **[9:07:36 PM] Andy**: There you just put it on top of it there. It's that guy again.
+- **[9:08:31 PM] Andy**: in two Bad Jason He sent them all out to go get that girl Blake or Blair or whatever That's what I'm saying. Bring her back. You told us you were not here. You heard me. You didn't say it. You said you were not here. You didn't say it. You got to. Good.
+- **[9:10:11 PM] Andy**: And you can't put it all around your heads. This is middle-aged right?
+- **[9:10:56 PM] Andy**: Yeah he went back through the tube he went over there he was going back there That's amazing Think about that Because that's my This is an important thing. Yeah yeah that's yeah.
+- **[9:11:55 PM] Andy**: I mean is that what's the emphasis of every single thing I think is themagic the atoms in this blanket here. Oh it is a foam frame but you can't paint it up. You'd have to get some kind of cork thing to put it on here. I have to use the sticky things probably. I say what you do is you get a real frame for it. And that way you don't get any sticky this intact.
+- **[9:12:33 PM] Andy**: I'll pay for it that's what you know. Yeah custom do it that cuz that I mean you spent a pretty thing on that
+- **[9:12:58 PM] Andy**: Well that's what I'm saying we got we got the space
+- **[9:13:05 PM] Andy**: But I think we can move it up that's what I'm saying we can move this up and then move the that there We could You could get that up and that down. Gittie. We can remove the wall. I'm just going to get rid of them put that up there over the wolves eye. Put that over above the wolves and see where the wolves are and see how big it takes. You might have to take the flags down there so they don't dig in.
+- **[9:14:30 PM] Andrea**: Oh I see.
+- **[9:14:32 PM] Andy**: Oh there you go. These are in the frame of the ship. You can even pick them up and go over there. Right there. That's cool.
+- **[9:14:43 PM] Andrea**: Over there. That's cool.
+- **[9:14:47 PM] Andy**: But still you should get it from you. Because you get back it's got to hit off then.
+- **[9:16:25 PM] Andy**: I'm going to have to get out of here.
+- **[9:17:00 PM] Andy**: Three hours left. That's a big pan. There's three arms down please.
+- **[9:17:20 PM] Andy**: I can't I can see nothing before.
+- **[9:17:29 PM] Andy**: And those are young babies. When they're fuzzy like that. That's why I said baby what are you doing? No me.
+- **[9:18:18 PM] Andrea**: is lazy because they can't grab remiles over you. This guy is born for a rookie and will the Warriors have a gem?
+- **[9:18:43 PM] Andrea**: It's only either an original like a fella green tea chopper of splice or a one-shot. Even AI generated vocals above your gram of panties will work better than having no vocal at all.
+- **[9:19:01 PM] Andrea**: You need to memorize no matter the language. Don't switch the jobs anywhere you get. For example this part is too easy. But the second one I did here I have just enough room to place open jobs.
+- **[9:21:25 PM] Andy**: I'm going to have to go to the other side to see if I'm going to be able to get out of here.
+- **[10:03:55 PM] Andrea**: I'm here.
+- **[11:24:24 PM] Andy**: He's still talking on the phone. You why you been talking on the phone?
+- **[11:24:48 PM] Andy**: perpetual
+- **[11:53:56 PM] Andy**: Ohhhh!
 
 ---
