@@ -48,6 +48,25 @@ tags:
 - **Key Actions**: #civic-engagement, #community-building, #family-connection, #workflow-logging, #somatic-awareness, #media-curation
 - **Keywords**: #bhavana, #democracy, #dogpatch, #election, #flooding, #fronsdal, #sherlock, #vote, #warriors
 ---
+---
+## 📋 Suggested Inquiries & Actionable Follow-Ups (Looking Ahead)
+> *Synthesized by cross-referencing spontaneous spoken inquiries from audio transcripts with Gemini's morning Day Ahead brief and forward-looking schedule.*
+
+### 🔍 Contemplative & Creative Inquiries (Spoken Curiosities)
+- [ ] **Gil Fronsdal's Bhāvanā Inquiry**: Integrate Fronsdal's reflection into daily meditation: *"What qualities of heart are growing in me right now?"* Notice and soften the subtle somatic urge to "lean forward" when communicating or teaching.
+- [ ] **Spanish Sherlock Holmes Mystery Title**: Verify the exact streaming title of the Spanish-language Sherlock Holmes *Final Case / Final Problem* remake viewed Friday night to log into media archives.
+- [ ] **Warriors Bench Rotation Tracking**: Keep an eye on second-unit offensive spacing, three-point shooting efficiency, and young talent development (Gui Santos) as the NBA season gets underway.
+
+### 🛠️ Practical, Domestic & Tech Projects (Looking Ahead)
+- [ ] **King Tide Doorway Flood Proofing**: Measure apartment patio door thresholds and stage heavy-duty waterproof duct tape, plastic sheeting, and interior sandbags to prevent drain/bathtub overflow before November King Tides.
+- [ ] **Archive Expiring Krisp Audio Exports**: Ensure pending Krisp meeting audio recording files are downloaded and backed up locally before download links expire.
+- [ ] **Carport vs. Upper Storage Staging**: Follow through on staging boxes and organizing Andrea's equestrian gear in the upper storage lot.
+
+### 📅 Priorities & Carryovers from Morning Brief
+- [ ] **Fidelity Account Transfer**: Complete planned banking/credit card funds transfer to Fidelity Investments.
+- [ ] **Ongoing Housesitting Routine**: Continue three-times-daily feeding and care routine for Lucy at 410 Manzanita Ave through October 27.
+- [ ] **Vision Quest Voice Journal**: Transcribe and format remaining field audio from the September Vision Quest.
+---
 ## 📅 Google Calendar Events Today
 - **Participate in Human Banner at Ocean Beach** (11:00 AM – 12:30 PM)
 - **Review WNBA Finals Game** (12:30 PM – 3:00 PM, tentative)

@@ -64,6 +64,25 @@ tags:
 - **Key Actions**: #it-administration, #password-management, #community-building, #workflow-logging, #media-curation, #somatic-awareness
 - **Keywords**: #audiodharma, #buddhism, #cat-sitting, #dharma, #flooding, #joan-armatrading, #mindfulness, #recovery, #retreat, #vipassana
 ---
+---
+## 📋 Suggested Inquiries & Actionable Follow-Ups (Looking Ahead)
+> *Synthesized by cross-referencing spontaneous spoken inquiries from audio transcripts with Gemini's morning Day Ahead brief and forward-looking schedule.*
+
+### 🔍 Contemplative & Creative Inquiries (Spoken Curiosities)
+- [ ] **Ani Ngawang Pema & Dark Retreat Literature**: Research *yangtik* / dark retreat sensory deprivation protocols and locate the National Geographic *Light at the Edge of the World* documentary documenting Ani Ngawang Pema's 45-year Himalayan solitary retreat.
+- [ ] **MMTCP Alumni Community Reconnection**: Follow up with Alan (Alumni Board Co-Chair) regarding the Wednesday morning sitting circle and finalizing financial assistance dues for alumni access.
+- [ ] **DEIA & Anti-Racism Curricular Archiving**: Continue compiling notes on *The Invention of Whiteness* and white supremacy culture frameworks into the Living Mindfully teaching archive.
+
+### 🛠️ Practical, Domestic & Tech Projects (Looking Ahead)
+- [ ] **Larkspur King Tide Emergency Petition**: Review and sign the local change.org petition urging Larkspur City Council to declare a state of emergency for sea wall and flood barrier funding.
+- [ ] **AudioDharma & IRC Single Sign-On**: Verify that the password manager updates and unified credentials established with IT Admin Deanna remain persistent across browser profiles.
+- [ ] **Upper Storage Sorting**: Schedule a weekend block to sort the upper apartment storage lot (Andrea's saddle and gear, retired AV equipment, CD collection) separately from the carport camping storage.
+
+### 📅 Priorities & Carryovers from Morning Brief
+- [ ] **Medicare Open Enrollment**: Review options to add the Kaiser Senior Advantage Plus option to healthcare coverage.
+- [ ] **Vision Quest Voice Journal**: Compile and synthesize recorded audio notes into a dedicated Vision Quest retrospective report.
+- [ ] **Tathagata Bikkhu Report**: Compile reference notes on Donna, including Tathagata Bikkhu's Four Noble Truths teachings.
+---
 ## 📅 Google Calendar Events Today
 - **Housesit for folks** (8:00 AM)
 ---

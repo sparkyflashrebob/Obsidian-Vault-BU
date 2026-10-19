@@ -11,14 +11,14 @@ tags:
 - bee-nlm-report
 - krisp-daily-summary
 ---
-# 📅 Daily Note 261012 — The Practice of Double Holding, Dhamma Talk Architecture & Audel & Andy SDRT
+# 📅 Daily Note 261012 — The Practice of Double Holding, Dhamma Talk Architecture, Laundry Room Violinist & Evening Domestic Rest
 📅 **Date**: Monday, October 12, 2026 (2026-10-12)
-👥 **Attendees**: Andrea (Wife), Andy, Audel (SDRT Partner), John (Technical Consult)
+👥 **Attendees**: Andrea (Wife), Andy, John (Technical Consult) *(Audel canceled SDRT late due to family needs)*
 🎙️ **Primary Data Source**: **Linearity High-Fidelity & Plaud Local PC Ingest (Local Whisper AI)**
 📊 **Linearity Sessions Processed (PRIMARY)**: **1**
 📊 **Plaud Sessions Processed (PRIMARY)**: **4**
 📊 **Bee Sessions Processed (SECONDARY BACKUP)**: **0**
-🔄 **Report Revision Date**: **2026-10-16 11:15:00 PDT**
+🔄 **Report Revision Date**: **2026-10-18 11:55:00 PDT**
 ### ⚙️ Pipeline Status & Data Ingestion Log
 - ⚡ **Plaud Direct Ingest**: ✅ **Active** (0 Cloud Minutes Spent, 0 Phone Taps Needed)
 - 🎙️ **Linearity Hi-Fi Parallel Stream**: ✅ **Active** (1 High-Fidelity Session Processed)
@@ -239,11 +239,10 @@ tags:
 
 ### 🌙 Evening Session (5:01 PM – 11:00 PM)
 
-#### 🕒 6:30 PM – 7:30 PM — Audel & Andy SDRT Meeting: Recovery Principles, Living Mindfully & Habit Change
-- Andy met virtually via Google Meet with recovery partner **Audel** for their weekly **Self-Directed Recovery Training (SDRT)** session (`6:30 PM – 7:30 PM`).
-- The pair engaged in an open, focused dialogue on self-directed neuroplasticity and emotional regulation, exploring how the **Double Holding Practice** directly supports addiction and habit recovery.
-- Andy shared how catching the mind's storytelling early prevents the accumulation of cravings and emotional reactivity, while Audel discussed strategies for maintaining personal integrity and clear boundaries in daily routines.
-- They reviewed personal milestones, celebrated continued consistency in practice, and affirmed the value of mutual accountability grounded in kindness rather than shame.
+#### 🕒 6:30 PM – 7:30 PM — Monday SDRT Meeting Canceled: Audel Last-Minute Family Conflict & Domestic Chores
+- Scheduled weekly Self-Directed Recovery Training (SDRT) meeting with Audel was canceled late by Audel due to an unexpected family commitment (his wife needed to attend to something, so he was unable to attend).
+- As verified on audio at 6:58 PM, Andy confirmed the late cancellation with Andrea ("Oh, yeah, he canceled. Late.") and shifted smoothly into domestic routines (checking the dryer laundry) and quiet rest without meeting.
+- Per the recording-verification standard, because no Krisp/audio recording of a meeting exists, the calendar event did not take place and is documented as canceled.
 
 #### 🕒 7:45 PM – 9:45 PM — Evening Television, Current Affairs Commentary & Night Routine
 - Ambient audio during the evening captured background television broadcasts, including investigative journalism segments covering Department of Justice search warrants and legal proceedings involving political figures (`9:04 AM / 7:45 PM`).
@@ -253,16 +252,11 @@ tags:
 
 ## 👥 Group Gatherings & Multi-Participant Key Points
 
-#### 🏛️ Audel & Andy SDRT Meeting — Virtual / Google Meet (6:30 PM – 7:30 PM PDT)
-* **Meeting Synopsis**: Weekly one-on-one Self-Directed Recovery Training (SDRT) session between Andy McGuire and long-time recovery partner Audel. The meeting focused on applying the principles of mindfulness and self-directed neuroplasticity to daily habit management, distinguishing between biological urges and mental stories, cultivating self-compassion during emotional vulnerability, and maintaining firm personal accountability without punitive self-talk.
+#### 🏛️ Audel & Andy SDRT Meeting — CANCELED / No Meeting Held (6:30 PM – 7:30 PM PDT)
+* **Meeting Synopsis**: Weekly one-on-one Self-Directed Recovery Training (SDRT) session with Audel did not take place. Audel canceled last-minute due to his wife needing him for an unexpected obligation. Per practice rules requiring recording verification, because no meeting audio or Krisp recording exists, the session was not held and is flagged as canceled.
 * **Key Points by Participant**:
-  * **Andy McGuire**:
-    * Shared his recent reflections on **The Practice of Double Holding**: holding the raw somatic trigger or discomfort (First Arrow) while simultaneously wrapping the experience in compassion and clear seeing, preventing the runaway story loop (Second Arrow).
-    * Discussed how mindfulness serves as an early-warning radar for emotional stress, allowing practitioners to pause in the space between stimulus and response before habitual coping behaviors engage.
-    * Reaffirmed the importance of regular sitting practice and somatic check-ins as the foundation for sustainable recovery.
-  * **Audel (SDRT Partner)**:
-    * Reflected on personal routines, boundary management, and navigating workplace and social dynamics with grounded equanimity.
-    * Affirmed the value of the peer-support partnership, emphasizing that evaluating progress honestly without self-condemnation builds long-term resilience and emotional sobriety.
+  * **Audel**: Canceled last-minute due to an unexpected family obligation.
+  * **Andy McGuire**: Acknowledged cancellation at 6:58 PM ("Oh, yeah, he canceled. Late."), released expectations with equanimity, and transitioned into domestic chores with Andrea.
 
 #### 🏡 Midday Domestic Dialogue & Lunch with Andrea — 326 Larkspur Plaza Dr (12:10 PM – 1:15 PM PDT)
 * **Meeting Synopsis**: Domestic lunch and check-in in the kitchen and dining area, covering preventative cardiovascular health research, managing computer-related neck and back tension, vehicle mileage considerations, and coordinating meal schedules for Andrea's upcoming housesit.
@@ -370,18 +364,10 @@ tags:
 
 ### 🌙 Evening Session (5:01 PM – 11:00 PM)
 
-#### 🕒 6:30 PM – 7:30 PM — Audel & Andy SDRT Meeting: Recovery Principles, Living Mindfully & Habit Change
-
-### Self-Directed Recovery Training (SDRT) Overview & Check-In
-- Andy met virtually with his recovery peer **Audel** via Google Meet (`6:30 PM – 7:30 PM`) for their regular Monday evening SDRT partnership.
-- They reviewed weekly progress, examining how the practice of self-directed neuroplasticity allows individuals to rewire addictive patterns by interrupting automatic behavioral loops.
-
-### Integrating the Double Holding Practice into Recovery
-- Andy presented the **Double Holding** framework to Audel, exploring how it directly applies to craving and emotional distress:
-  - When an urge or triggering emotion arises (First Arrow), judging oneself or fighting the sensation only amplifies the struggle.
-  - By holding the discomfort with compassionate awareness while refusing to buy into the urge's rationalizing narrative (Second Arrow), the practitioner creates the necessary pause to choose a skillful alternative.
-- Audel affirmed the practical power of this approach, sharing personal reflections on maintaining emotional balance and firm boundaries in daily professional and domestic situations.
-- They closed the meeting with mutual gratitude, reaffirming their ongoing commitment to peer support and mindful living.
+#### 🕒 6:30 PM – 7:30 PM — Monday SDRT Meeting Canceled: Audel Last-Minute Family Conflict & Domestic Chores
+- Scheduled weekly Self-Directed Recovery Training (SDRT) meeting with Audel was canceled late by Audel due to an unexpected family commitment (his wife needed to attend to something, so he was unable to attend).
+- As verified on audio at 6:58 PM, Andy confirmed the late cancellation with Andrea ("Oh, yeah, he canceled. Late.") and shifted smoothly into domestic routines (checking the dryer laundry) and quiet rest without meeting.
+- Per the recording-verification standard, because no Krisp/audio recording of a meeting exists, the calendar event did not take place and is documented as canceled.
 
 #### 🕒 7:45 PM – 9:45 PM — Evening Television, Current Affairs Commentary & Night Routine
 
@@ -464,7 +450,7 @@ tags:
 ### Notable Names & Works Mentioned
 - **Ajahn Sumedho** — Venerable Thai Forest master whose core meditation instruction (*"now is the knowing"*) formed the basis of Andy's teaching template (`9:56 AM`).
 - **Jack Kornfield** — Co-founder of Spirit Rock Meditation Center whose teaching on awakening as a universal birthright was cited (`9:57 AM`).
-- **Audel** — Andy's Self-Directed Recovery Training (SDRT) partner in their regular Monday recovery session (`6:30 PM`).
+- **Audel** — Andy's SDRT partner whose scheduled evening session was canceled last-minute due to a family obligation (`6:58 PM`).
 - **John** — Colleague and peer supported during a morning technical consultation call (`10:00 AM`).
 - **Tara Brach** — Meditation teacher whose "Two Wings to Freedom" metaphor continues to anchor Andy's curriculum (`10:00 AM`).
 
@@ -484,10 +470,11 @@ tags:
 - While working through afternoon tasks at home, Andy was interrupted by the rich, melodic notes of a violin echoing across the courtyard from near the complex laundry facility.
 - Pausing in silence, Andy listened as an unknown musician practiced with remarkable phrasing and nuance. He reflected on how easily our minds become fixated on digital deadlines, and how a spontaneous encounter with acoustic music instantly anchors awareness in the richness of the living present.
 
-### [6:30 PM – 7:30 PM] The SDRT Partnership: Rewiring Habitual Pathways Through Mindful Dialogue
-- During their Monday evening SDRT meeting, Andy and Audel shared mutual stories regarding daily habit management. They explored how the brain's predictive machinery automatically constructs stress stories to justify compulsive coping behaviors.
-- By examining these urges through the lens of Double Holding—acknowledging the craving without shame while actively choosing grounded self-care—they reaffirmed that sustainable neuroplastic rewiring is built through steady, compassionate practice rather than aggressive self-punishment.
+### [6:30 PM – 7:00 PM] Letting Go of Calendar Expectations: Equanimity with Late Cancellations
+- When Audel canceled the scheduled Monday evening SDRT session at the last minute due to a family conflict, Andy demonstrated the practical application of his core teaching: *"Expectations are future regrets."*
+- Rather than experiencing frustration or mental resistance, Andy immediately pivoted to what was present—checking the dryer laundry with Andrea, enjoying quiet domestic companionship, and noting that true mindfulness readily adapts when plans dissolve.
 
+---
 ---
 
 ## 🧠 Physical & Mental Challenges, & Effects on Practice
