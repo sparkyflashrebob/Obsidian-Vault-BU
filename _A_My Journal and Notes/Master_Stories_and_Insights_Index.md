@@ -77,7 +77,24 @@ Grounded stories from daily life illustrating human relationship dynamics, proje
 
 ---
 
-## 6. Structure of the Mirrored Sandbox Folder
+## 6. Real-Time Personal Stories & Case Examples from Daily Notes
+
+Every daily report in [`Daily Reports`](file:///G:/Google%20Drive%20%28260611%29/Obsidian%20Master%20Vault/Flashrebob%20Obsidian/_A_My%20Journal%20and%20Notes/Daily%20Reports) includes a dedicated section (`## 📚 Stories & Case Examples Shared`) and recorded dialogue transcripts documenting personal memories, recovery mentoring, and everyday spiritual encounters.
+
+| Title / Theme | Source File in Obsidian Vault | Core Lived Experience & Reflection |
+| :--- | :--- | :--- |
+| **The Monterey Kitten & Childhood Conditioning** | [`Daily Reports/2026 07 July/Daily Note 260710.md`](file:///G:/Google%20Drive%20%28260611%29/Obsidian%20Master%20Vault/Flashrebob%20Obsidian/_A_My%20Journal%20and%20Notes/Daily%20Reports/2026%2007%20July/Daily%20Note%20260710.md) | Fresh out of high school selling goods near Monterey military bases; rescuing an abandoned kitten on the street after a haircut and raising it; uncovering the early childhood "rescuer / family stabilizer" role and learning self-compassion. |
+| **Breaking the Chains of Tech Burnout (26-Year Recovery)** | [`Daily Reports/2026 06 June/Daily Note 260620.md`](file:///G:/Google%20Drive%20%28260611%29/Obsidian%20Master%20Vault/Flashrebob%20Obsidian/_A_My%20Journal%20and%20Notes/Daily%20Reports/2026%2006%20June/Daily%20Note%20260620.md) | Recounting decades in Silicon Valley and high-stress corporate broadcast media; earning six-figure salaries inside an internal prison of panic; finding the peace of waking without an alarm on modest Social Security. |
+| **Moral Courage: Mountain Dreams & Defending Others** | [`Daily Reports/2026 07 July/Daily Note 260720.md`](file:///G:/Google%20Drive%20%28260611%29/Obsidian%20Master%20Vault/Flashrebob%20Obsidian/_A_My%20Journal%20and%20Notes/Daily%20Reports/2026%2007%20July/Daily%20Note%20260720.md) | High ridge dreams sparking memories of physically stepping in to protect vulnerable people; exploring the psychology of instinctive moral courage: *"Hold your ground without cruelty."* |
+| **Free-Range 70s/80s Childhoods vs. Modern Hyper-Vigilance** | [`Daily Reports/2026 06 June/Daily Note 260622.md`](file:///G:/Google%20Drive%20%28260611%29/Obsidian%20Master%20Vault/Flashrebob%20Obsidian/_A_My%20Journal%20and%20Notes/Daily%20Reports/2026%2006%20June/Daily%20Note%20260622.md) | Recovery dialogue with sponsee Audel; contrasting minimally-supervised childhoods with modern parenting; how childhood survival contractions (tight stomach, hypervigilance) resurface in adulthood during stress. |
+| **Abhayagiri Monastic Visit & The Mechanics of Karma** | [`Daily Reports/2026 06 June/Daily Note 260601.md`](file:///G:/Google%20Drive%20%28260611%29/Obsidian%20Master%20Vault/Flashrebob%20Obsidian/_A_My%20Journal%20and%20Notes/Daily%20Reports/2026%2006%20June/Daily%20Note%20260601.md) | Visiting Abhayagiri for their 30th anniversary; reflecting on karma as simply experiencing what we cultivate; bridging ancient Dhamma with AA's "stinking thinking" and neuroscience. |
+| **The IONS Seminar Microphone: Real-Time Equanimity** | [`Daily Reports/2026 06 June/Daily Note 260601.md`](file:///G:/Google%20Drive%20%28260611%29/Obsidian%20Master%20Vault/Flashrebob%20Obsidian/_A_My%20Journal%20and%20Notes/Daily%20Reports/2026%2006%20June/Daily%20Note%20260601.md) | Facing technical sound issues during an IONS gathering; holding the mic right to the mouth for an attendee; meeting friction as a direct contemplative invitation rather than an irritation. |
+| **The Body as Living Archive & "The War Is Over"** | [`Daily Reports/2026 07 July/Daily Note 260720.md`](file:///G:/Google%20Drive%20%28260611%29/Obsidian%20Master%20Vault/Flashrebob%20Obsidian/_A_My%20Journal%20and%20Notes/Daily%20Reports/2026%2007%20July/Daily%20Note%20260720.md) | Observing chronic neck/head contractions decades after trauma has passed; using Therapeutic Touch and gentle presence to let the nervous system know that the ancient battle is finished. |
+| **Studio Acoustics & Classroom Sound Anecdote** | [`Daily Reports/2026 07 July/Daily Note 260702.md`](file:///G:/Google%20Drive%20%28260611%29/Obsidian%20Master%20Vault/Flashrebob%20Obsidian/_A_My%20Journal%20and%20Notes/Daily%20Reports/2026%2007%20July/Daily%20Note%20260702.md) | Audio engineering insights translated into mindfulness practice; designing sound baffling and treating room acoustics as a metaphor for filtering mental noise. |
+
+---
+
+## 7. Structure of the Mirrored Sandbox Folder
 
 To make these writings effortlessly reviewable from within the active Obsidian vault, the sandbox files are mirrored to:
 * **Mirror Location**:  

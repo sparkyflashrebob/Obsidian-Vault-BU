@@ -7,6 +7,11 @@
 
 ## 📥 Pending Review & Implementation
 
+- [ ] **[2026-10-19 09:08 AM - Linearity] Daily Note structure or formatting instruction**:
+  > *"Going on here first. you have any record of what I did in the evening. It doesn't seem to be listed here when we were trying to move the plot over to use with Omni and that didn't work. It's that skipped because we are..."*
+  - **Status**: Pending Review
+
+
 
 - [ ] **[2026-10-09 06:25 AM - Linearity] Workflow improvement / instruction suggestion**:
   > *"The flood watch is for 11 a.m. to one today. We didn't see anything when we were out there regarding the engine classification safeguards. Is it possible to tell when two or more people are talking before classifying it as a monologue, a chatbot conversation...."*

@@ -1,0 +1,1058 @@
+# Plaud Daily Transcript - Monday, October 19, 2026
+- **Date**: 2026-10-19
+- **Total Audio Sessions Processed**: 3
+- **Generated**: 2026-10-20 07:09:21
+
+---
+
+## 🎙️ Session 1: 2026-10-19 08:36:14 (5h00m)
+- **Source File**: `2026-10-19 08_36_14.mp3`
+
+- **[8:52:55 AM] Andy**: could
+
+- **[8:54:22 AM] Andy**: I'm going to put it on the other side of the door and I'm going to put it on the other side of the door. I'm going to put it on the other side of the door.
+
+- **[9:00:40 AM] Andy**: I'm going to take a look at this one,
+
+- **[9:03:58 AM] Andy**: I'm going to take a look at this,
+
+- **[9:05:48 AM] Andy**: Good morning.
+
+- **[9:07:18 AM] Andy**: I'm going to take a look at this,
+
+- **[9:09:12 AM] Andy**: Morning.
+
+- **[9:09:28 AM] Andrea**: Notice construction.
+
+- **[9:09:54 AM] Andy**: Larger for Pathway Repay These Project 26-10-19
+
+- **[9:11:24 AM] Andy**: Hello.
+
+- **[9:12:44 AM] Andy**: One physical they thought she was lucky?
+
+- **[9:13:14 AM] Andy**: Point
+
+- **[9:13:22 AM] Andy**: Oh poor lady Just going to a lady walk by and she was obviously listening to a talk by Donald Trump Good morning how are you doing? Good all right you. I'm fine thank you. I've been just seeing yours on there. Looks like a walking club. I think I spoke about them last week. 4 lady she doesn't look too happy. So that's just thing hearing a
+
+- **[9:14:28 AM] Andy**: very very senior lady called another senior lady girl that's like me girl girl I guess girls words have meaning so women like to be a lot of this women mature except in this situation it's kind of an affectionate thing I call them all girls women's hard-to-say or rougher to come out of the mouth girls sweeten affectionate gentle you can see a lot of hey there a lot of accents just felt grow running by, It's on the highway It's the fence highway.
+
+- **[9:15:47 AM] Andy**: What are you doing?
+
+- **[9:15:55 AM] Andy**: Oh there you are. Hello. Come with the other way.
+
+- **[9:19:37 AM] Andy**: That lemon that lemon listening to the Trump speech it looks like either you're attracted so it's your personality attracted to it.
+
+- **[9:20:05 AM] Andrea**: And then when you're past master you look for a more kind of radical perspective to fit
+
+- **[9:20:28 AM] Andy**: That's a very important aspect of I think the whole process because we want things to say yeah yes I'm in the right I'm good these people are trying to do this to to us And usually ones that are doing the other But I'm doing it themselves.
+
+- **[9:21:26 AM] Andrea**: just wondering where you're going
+
+- **[9:21:31 AM] Andy**: just wonder where you're going
+
+- **[9:23:53 AM] Andy**: and she walked by She wasn't walking with other people She was alone.
+
+- **[9:24:46 AM] Andrea**: So two goals for today One is to write a letter to those who have been emailing about
+
+- **[9:25:10 AM] Andy**: the living mind-free meeting Talking about the cancellation going forward.
+
+- **[9:26:39 AM] Andy**: when I was doing the Dermotox did I know the formula is to say it say it again and then say it again But I think what happens is we take that out take that too literally then we end up actually we'll say it multiple times there's no need to justify it multiple times So maybe say it you justify it And then you say it in a different way without needing to justify it And then at the when you summarize it then you just point to it again Yeah there's a little art to it that would be nice so I can develop it better I think the dip I mean you generally it's kind of like you're doing which regular writing right?
+
+- **[9:28:20 AM] Andrea**: You have a thesis.
+
+- **[9:28:25 AM] Andy**: Then you have your points proving it. It is in the summary. Now if you're writing a book, you summarize in a paragraph that leads into the next chapter from what I could tell. So I'll practice that and me will practice the art of writing too so I can understand on my own what I might be doing wrong as I write. Now I like the idea of speaking my writing. It's helpful to see it in papers and you actually see your progression and flow and a lot and I would mean a lot of times when I When I'm speaking it out that's kind of like the rough edges So I'm getting the kind of
+
+- **[9:29:29 AM] Andy**: Formulating of framing it So yes that's a good idea is that using the journaling as a framing It mean the verbal frame journaling is framing And then compiling it into a writing and formulating a progression so it kind of flows
+
+- **[9:30:19 AM] Andy**: instruction seat for how I want to follow things.
+
+- **[9:30:49 AM] Andy**: Okay on a person note I'm gaining weight now even though I'm not really overeating. Last time I had some grapes and an apple. I'm not going to eat anything else so I'm back out walking this morning so let's
+
+- **[9:31:12 AM] Participant**: start Okay now I'm going to meditate.
+
+- **[9:32:12 AM] Andy**: So it's making a bit noise so I'm going to put the noise can't even hit the phone Two hundred. Maybe if I could call you what do you want in my bag?
+
+- **[9:37:29 AM] Andy**: I wasn't able to accomplish what I was trying to accomplish and I'd have a hissie fit. I didn't just have to start over after I got my mind right.
+
+- **[9:40:29 AM] Andy**: Yeah talk about the Mount Madonna Center a bi-guari retreat sitting next to the corporate yard where the trucks would come in the big trucks garbage trucks etc. And then all the guests coming into the place and to the temple area was an outdoor temple. Bringing the bell constantly during visiting hours didn't really bother me on that retreat. I got so used to it and my attitude was good I guess.
+
+- **[10:02:41 AM] Andy**: I'm going to have to go to the other side to see if I'm going to be able to get out of here.
+
+- **[10:03:39 AM] Andy**: Here it is.
+
+- **[10:05:01 AM] Andy**: all.
+
+- **[10:05:57 AM] Andy**: If I want to get off of Omef Prozole how should I downgrade to stop completely stop?
+
+- **[10:19:58 AM] Andy**: group meetings for the foreseeable future due to low attendance What I'd like you to do is to help me write a letter to those folks who have been getting our notices about the meetings.
+
+- **[10:20:14 AM] Andrea**: I'd like to thank them for their previous support for me and bringing the teachings that
+
+- **[10:20:38 AM] Andy**: have so helped me to others I'm not sure what all the factors are on why I'm not being able to gain attendance but I do recognize that this is the way it is and I have no regrets. I do plan to continue to teach and getting the word out but I have many other avenues Because I'm currently developing I am facilitating a meeting for what I call the Living Mindfully SCOM club at the College of Marin on Thursdays and each of you are invited to join us that is a hybrid meeting over Zoom and at the college campus.
+
+- **[10:22:17 AM] Andy**: It is posted on my calendar on head and heart together.com.
+
+- **[10:22:30 AM] Andy**: I'm going to continue to develop my blog and hopefully some videos for posting on YouTube. one head and heart together and sub-stacked.
+
+- **[10:23:52 AM] Andy**: close to home and dealing with what was right in front of them. Spiritual practice may be the farthest thing for most people's minds and just living day to day. I named the group Living Mindfully in the hopes to capture interests based on that but all of my efforts to market the meeting and group the meditation group have not achieved any results over a three month period So I've decided to place my efforts elsewhere for the time being I'm not closing the door but yet the The writing is clear for me to see. Please help me to rewrite this so that I can send this out to the Living Mindfully Meditation group list out today.
+
+- **[10:25:44 AM] Andy**: FYI this is the Sunday evening group.
+
+- **[10:28:49 AM] Andy**: this starting with rather I'm choosing to place my energy where community and connection are already taking root I need to clarify that because that's not necessarily true Rather I'm choosing to place my energy at where community and connections have the greatest possibility to take root at this time.
+
+- **[10:29:19 AM] Andrea**: time.
+
+- **[10:32:05 AM] Andy**: the bullet on head and heart together blog and substack.
+
+- **[10:40:41 AM] Andy**: these after-head and heart together mentioning I have ideas for a few books so who knows I might become an author too.
+
+- **[10:43:39 AM] Andy**: about the Living Mindfully Meditation Group meetings. To be clear we're still keeping the SCOM meeting emails.
+
+- **[10:49:10 AM] Andy**: the cancellation of the Living Mindfully Meditation Group meetings from here on. Maybe we can use the information included in the Canceling the Meditation Group letter. and you formulate the announcement here so I can review it.
+
+- **[10:54:14 AM] Andy**: I will be praying for your good health.
+
+- **[10:56:10 AM] Andy**: me to help you with this.
+
+- **[11:27:20 AM] Andy**: to cancel the group because I was getting no attendance after 12 meetings of just me and Andrea and then one two other people well one at one time.
+
+- **[11:28:01 AM] Andy**: I only had one person attend the meeting other than Andrea for two of the twelve. Bless Andrea I know she was doing it just for me but she was really tired for a lot of it and really didn't even add much I have some other things in the fire so it's not the end of the world but it was very obvious that the world was telling me telling me that this wasn't going to go anywhere You were the one of the few people to actually show some interest and I'm sorry that it didn't work out.
+
+- **[11:36:28 AM] Andy**: Thank you for your honesty and friendship. I look forward to the next time that we can talk.
+
+- **[11:37:05 AM] Andrea**: Take care.
+
+- **[11:42:24 AM] Andy**: Hello Hugh comma. No problem. I have many other things in the fire. I appreciate you attending the meeting when you did. And I'm really glad that you're trying to keep up your morning meditations. Let me know if I can help you in any kind of way. And we'll be glad to stay in touch with you. Many blessings to you you bye.
+
+- **[11:43:52 AM] Andy**: ideas I have for you to just give me some suggestions if you'd like.
+
+- **[12:00:12 PM] Andy**: 12 o'clock I probably should eat something now.
+
+- **[12:01:42 PM] Andy**: Why your walking on rain you の なかなか
+
+- **[12:01:50 PM] Andrea**: なかなか なかなか
+
+- **[12:01:52 PM] Participant**: なかなか
+
+- **[12:02:00 PM] Andy**: なかなか
+
+- **[12:02:09 PM] Andrea**: なかなか
+
+- **[12:02:11 PM] Andy**: I'm going to save this one.
+
+- **[12:02:56 PM] Andrea**: This is here.
+
+- **[12:02:58 PM] Andy**: It's already put inside.
+
+- **[12:12:48 PM] Andy**: And smell the bag.
+
+- **[12:15:10 PM] Andy**: in the sandbox books and writings.
+
+- **[12:43:25 PM] Andrea**: Hmm Here we go.
+
+- **[12:46:11 PM] Andrea**: daily note and I see I have some concerns number one it's reported that in the
+
+- **[12:46:28 PM] Andy**: 3.30 to 5.10 p.m session we return to Marin County and stop at 4.10 man's Anita Abdu 10 to Keith and Holly's companion Kat Lucy Actually what we did was we came back home first and then Andrea went because she's staying there at the house until they get back on the 25th I'm not sure how we assumed that we first went to 410 Manzanita when I think there are some recordings of me of us coming back home first. the evening session there is a report It says 7 and 9 of doing Saturday night I'm sorry Pooja and quite contemplation That never happened And I'm looking I'm going to look at the calendar to see if it shows free or not If it's free that means that I did not acknowledge it Also, So it should be verified by what the recordings say. I am concerned about us making things up that did not happen without verifying with the
+
+- **[12:48:33 PM] Andy**: recordings. This brings up another question I'd like to follow up on a little bit later not this Second regarding using Google Maps to track my whereabouts as I move around.
+
+- **[12:50:21 PM] Andy**: My calendar says free regarding the Pugia and quaint contemplation I think there should be recordings of me watching TV or something for that night.
+
+- **[12:51:11 PM] Andy**: Also I'm noting that the morning session starts at 4.15 to 4.55 a.m pre-done domestic reflections. I don't think we started that early in the morning. I would imagine it would be more around 7 a.m so we need to confirm these times.
+
+- **[12:52:04 PM] Andy**: I would say at 8.30 so I had imagined that we started at 7am. Not only that we stopped over after breakfast to visit the cat and give her her second breakfast
+
+- **[12:52:41 PM] Andrea**: as we discussed.
+
+- **[12:52:46 PM] Andy**: This is before we headed over to the human banner thing.
+
+- **[12:55:01 PM] Andrea**: For some reason now there is just a big long transcripts script segment that shows in
+
+- **[12:55:30 PM] Andy**: in the report.
+
+- **[12:56:00 PM] Andy**: Yeah there's something wrong with the 2610-18 it's not following our new form at it all It's like we didn't run the LLM sequence on it What happened?
+
+- **[1:01:58 PM] Andy**: 742 And I'm assuming that's going to be the PM This should be 442 So it looks There's a three-hour difference for this day.
+
+- **[1:04:12 PM] Andy**: M-M-T-C-P site.
+
+- **[1:13:10 PM] Andy**: because I'm in some ways not comfortable with the writing part of what I'm talking about So I got an alley in my right ear trying not to scratch it.
+
+- **[1:14:00 PM] Andrea**: It's an amazing field box.
+
+- **[1:14:25 PM] Andy**: Amazing I feel bad. This whole box.
+
+- **[1:15:55 PM] Andy**: I'm going to put it on the other side of the car and I'm going to put it on the other side of the car.
+
+- **[1:19:15 PM] Andrea**: So I'm noticing a mood that's come in that's settled in.
+
+- **[1:19:43 PM] Andy**: So riding with it maybe a day I'm going to do it this time and I'm going to do some stuff a little bit of it Enjoying it.
+
+- **[1:20:23 PM] Andrea**: Let me see what's going on here first.
+
+- **[1:22:47 PM] Andy**: It doesn't seem to be listed here when we were trying to move the plot over to use with Omni and that didn't work it's that skipped because we are documenting it with the anti-gravity whisper stuff above. Is that why it's not listed? It doesn't need to be if that's the case.
+
+- **[1:24:45 PM] Andy**: one at 3.20.17pm with linearity It's talking about daily note structure when that quote that I put in there was a response to the football game These don't match.
+
+- **[1:25:07 PM] Andrea**: System improvements for the Raiders game would be great but that's not the intent for that section.
+
+- **[1:26:19 PM] Andy**: Maybe what I'm feeling has to do with the loss or letting go of the living mindfully meetings, which I was kind of relieved because people were not attending so it seemed futile. So now I'm back on my own on myself.
+
+- **[1:26:47 PM] Andrea**: So going back to this note thing here.
+
+- **[1:29:46 PM] Andy**: Never mind It looks like this is where you're storing the automation changes.
+
+- **[1:30:57 PM] Andrea**: That's the thing here.
+
+## 🎙️ Session 2: 2026-10-19 13:36:15 (5h00m)
+- **Source File**: `2026-10-19 13_36_15.mp3`
+
+- **[1:37:19 PM] Andrea**: I've never had this kind of thing in my life that I've never had before.
+
+- **[2:02:56 PM] Andy**: And you know ways that we avoid in Western culture and why will we avoid for instance, ethics? And why would we find it not helpful?
+
+- **[2:03:17 PM] Andrea**: It's really interesting.
+
+- **[2:08:41 PM] Andrea**: Practice in the rain have personal difficulties 4 5 6 7 6 7 6 7 6,
+
+- **[2:09:22 PM] Andy**: And Madness.
+
+- **[2:34:18 PM] Andy**: titles for each of the folders in the individual notes the date underscore MMTCP underscore at the beginning of each of the note title at the beginning of each title.
+
+- **[2:38:25 PM] Andy**: of a mowing.
+
+- **[2:44:51 PM] Andy**: of the folder or file name that begins with the following.
+
+- **[2:45:51 PM] Andy**: folders and files deleting the number at the end of the file beginning with the the format that I have shown here.
+
+- **[3:16:06 PM] Andrea**: I'm sure.
+
+- **[3:57:06 PM] Andy**: going through the Dharma talks and I see the talk that we had talked about me doing is not on the list anymore Should I move on to another one?
+
+- **[4:20:25 PM] Andy**: Can you detect audio on this file at all?
+
+- **[4:21:58 PM] Andy**: most of it is empty Is there a way for me to delete the empty audio As the file will not open on many applications.
+
+- **[4:37:52 PM] Andy**: I'm going to go to the bathroom to see if there's anything I can do to make sure I don't have to go to the bathroom.
+
+- **[4:39:02 PM] Andy**: I'm going to start the fire.
+
+- **[4:42:57 PM] Andy**: He has a toy.
+
+- **[4:45:49 PM] Andy**: You have to have that first view that first view the whole world is going to break it's up just right the side it's right the side.
+
+- **[4:47:19 PM] Andy**: I'm going to start doing more of the street.
+
+- **[4:49:33 PM] Andy**: Come on
+
+- **[4:49:45 PM] Andy**: Yeah I just want you to feel the grateful But I just want you to feel the grateful
+
+- **[4:52:56 PM] Andy**: That's great.
+
+- **[4:53:06 PM] Andy**: There's a little snow in there. How do you want to see that? Hi girl.
+
+- **[4:53:26 PM] Andy**: How you doing? You don't like my squeaky shoes?
+
+- **[4:53:56 PM] Andy**: They are squeaky loud aren't they? Take them off You eat your food there huh? You're eating your food there
+
+- **[4:54:31 PM] Andy**: You want more is she not feeding you enough?
+
+- **[4:54:41 PM] Andy**: Hey Where's the is this the thing? Oh yeah here's the big one. I just covered it. It's obviously bleeding to my nose. You probably won't want to play. But she noticed what I did she did I know she did I took my squeaky shoes off, squeaky shoes off I think I felt a little depression for the first time in a while today Really Yeah I'm fine I'm noticing it Maybe it's the weather. I hope they're rings tomorrow next day Yeah it's possible Look at they gave us all
+
+- **[4:55:54 PM] Andy**: all these mashed potatoes in the very little green beans. what the bean is on. Are they? There. On the ship. Oh rip it. Rip it. Within the why do we get six but six potatoes? We get six a lot. You do?
+
+- **[4:56:21 PM] Andrea**: Oh look at you.
+
+- **[4:56:22 PM] Andy**: Oh look at you you're from the delicate delicate. Yeah and you know that the green beans are under it.
+
+- **[4:56:39 PM] Andy**: I should have better tools for this but
+
+- **[4:56:46 PM] Andy**: Oh my god I want this one. Just one side. Can you move that meat over the way so you get to the beans? One and a half. We're two meals because we have two and a half. I know. I'm not going to let that go. Shee hee hee.
+
+- **[4:57:58 PM] Andy**: What are you doing?
+
+- **[4:58:26 PM] Andy**: Oh we'll call her. That's all right. She's OK. What's going on here? I just got on my lap. She did? Oh stuck here.
+
+- **[4:58:49 PM] Andy**: She ran after me and then when I Did you throw her from? Yeah but she didn't go after it. She came after me she's more worried about her food in her bowl.
+
+- **[4:59:25 PM] Andy**: Depends on what you want to do I could bring that one over tomorrow and in that way you They have both of them they may come home tomorrow and they may be there. So we'll eat this one here and that one over there? Sounds good. The bottom looks open. I'm going to put up the buzzing cord. Yup. There's more food in there. I'm a little bit nervous. I'm a little nervous.
+
+- **[5:00:32 PM] Andy**: You're funny
+
+- **[5:00:44 PM] Andy**: You did
+
+- **[5:00:52 PM] Andy**: What's up with you Which one
+
+- **[5:01:02 PM] Andy**: Is that the one you lift with a phone in the pub behind? See I wish you were going to get wireless. You're popping feeling it. Your phone is a handline? Then you can try it and it's better for you. The headset will probably be better for you that way you don't have to hold it and you could free your hands to be done down there. Well that's fine but then that'll free it up. I'm not looking at you she glared at me like that look at me in here. I'm turning my back.
+
+- **[5:01:42 PM] Andy**: She's not good she's never good stuff. That looks like she's all hyper already.
+
+- **[5:01:52 PM] Andrea**: Please try to take that for any of you.
+
+- **[5:02:12 PM] Andy**: And I can bring it over when we're ready. That's your food You're already in your food. See how it flipped it. What are you doing there What's going on in there? No she was looking out there in there though now she's coming back behind you. You have to watch her on the floor so they have the table. You see your payment. I bet you some money. I saw. How do you think?
+
+- **[5:03:34 PM] Andy**: You brought butter I didn't know what they had. What do you do? No most self-subitage comes from one pattern not self-subitage. Most self-subitage comes from one pattern not several relationship cycles career to real man and self-defeating behavior at critical moments here at common mechanism in most cases. A single protective pattern formed in early childhood running automatically between meat conscious awareness. I didn't find the specific the specific pattern rather than addressing service behaviors is what produces lasting change okay?
+
+- **[5:05:17 PM] Andy**: Twenty-two years inside psychiatry publishing every name and if you're not kind of Dr. After the rolls her eyes and patient's mentioned chakras are energy healing or anything that sounds vaguely mystical I'm a scientist. What would I possibly learn from sinning and talented monks? We didn't argue just editor of book by J Japanese psychiatrist who studied there said Maybe it would change your mind if it didn't but she was burned out. 22 years of living in the trauma of the spread of meditation blah blah blah. She needed a break.
+
+- **[5:06:16 PM] Andy**: Oh so she was arguing with monks. And the silence there's nowhere for the pattern to hide it just kept showing up the same reaction same defense. The monks had a phrase for this same your true face the shadow self. I'm giving you the hot one now you're the hot one
+
+- **[5:07:19 PM] Andy**: Why is just seeing the pattern works so well? Well that's the whole idea. Send this to myself.
+
+- **[5:07:37 PM] Andrea**: Health boost.
+
+- **[5:07:39 PM] Andy**: It needs to feel like we're in a boardroom table. Uh-oh. You can make it messy.
+
+- **[5:07:55 PM] Andrea**: Look at that.
+
+- **[5:07:59 PM] Andy**: Why that? Flynn was a flock of wood down. I think it does sort of call order in court. where it is.
+
+- **[5:08:17 PM] Andy**: Let's go.
+
+- **[5:08:37 PM] Andy**: Thank you for bringing dinner Heather. You're welcome. Welcome I have to do something for my pay. Give me a little bit. Oh the video. Thank you very much. Thank you very much. Thank you.
+
+- **[5:09:06 PM] Andy**: Oh you're so loud. I know. We'll have to fill in one day Saturday or I'm going on the next day I'm going on the And go on the next day.
+
+- **[5:09:47 PM] Andrea**: Maybe go out to dinner?
+
+- **[5:10:07 PM] Andy**: A while. Great. Let me take it for about 25 minutes.
+
+- **[5:10:18 PM] Andrea**: That was a lot of what I was doing today.
+
+- **[5:10:44 PM] Andy**: got the letter out just applied it here a couple of people would apply that and then and then I had to have the event like and with stuff. So I had to kind of in order for me to delete the event, I had to undo the tickets that were thrown out.
+
+- **[5:11:28 PM] Andy**: And it was one by one so it took me about an hour. If you're talking to your takin' me tips on good website sucks and anyway I'm I'm going to start it up a little and I'm going to start it up I'm going to do an And you know some TCP things again you know getting it organized and then I recognize. I forgot what I was supposed to do there. Post those in-flight mediation center.
+
+- **[5:12:44 PM] Andy**: Start editing those and then
+
+- **[5:12:50 PM] Andy**: the second one I ran into
+
+- **[5:12:56 PM] Andy**: and you start running into people you start seeing some patterns. So and as Freeman was doing the talk for the second day of the treat it was 19 hours long so she and not only that the first one was one second long so you could tell she's technology challenged so she did one for one second and then the next one for 19 hours which means she never turned it off it basically timed out the recording which is Andy and we kept on going.
+
+- **[5:13:58 PM] Andy**: Now I think they'd say this judging her, then I saw a picture when I started posting. It looked like one of those wild professors, like Einstein or whatever. And um yeah. That's the main part of the building there. That's about people who can be very aloof. No I mean.
+
+- **[5:14:37 PM] Andy**: Well I was sitting there trying to figure out how to edit it it wouldn't open. That's right now I had it right I had to leave when I was trying to convert it.
+
+- **[5:14:55 PM] Andrea**: Now first one that very smooth people are supposed to fill in data stuff you know, So anyway let me put kind of a phone system you have there should be a little plug
+
+- **[5:15:43 PM] Andy**: in there whatever.
+
+- **[5:15:44 PM] Andrea**: I think there is.
+
+- **[5:15:46 PM] Andy**: I'll just put it in here. Check. And Mike that way you can do it right now. For example I do a thumb.
+
+- **[5:15:54 PM] Andrea**: So hope he steps on it. I could probably use his thumb.
+
+- **[5:15:58 PM] Andy**: Well what I'm saying is that you want me to get him with a mic or whatever. So doing me a favor just send me the model. And I can verify. That would help your shoulder out. You don't have to hold the phone the whole time. to push the button That's why that's what I did I just couldn't deal with holding the phone kind of right stuff down trying to Yeah you're gonna have to It's like you're You're getting repetitive stress I mean, you know is what it is.
+
+- **[5:16:42 PM] Andy**: You're repetitive you're holding that here. That's what it means.
+
+- **[5:16:56 PM] Andy**: You probably should go to a world pool or a hot tub or something.
+
+- **[5:17:02 PM] Andrea**: Do you speak to the doctors or don't you?
+
+- **[5:17:04 PM] Andy**: Do you have a doctor and a fever for surgery? I told you about that a soldier a surgeon guy that fixed myself and he wouldn't have thrown him. I know it definitely feels like a muscle it feels like a straight muscle. It's actually like wrapped around it where I feel the pain most like in here. It sounds like stress and repetitive stress under the knee.
+
+- **[5:17:56 PM] Andrea**: And can I ask which phone do you hold which hand do you hold the phone when you're watching
+
+- **[5:18:09 PM] Andy**: TV in the bed? Probably contributing. That's why I was trying to get you the head saying that you could wear it in your head.
+
+- **[5:18:20 PM] Andrea**: The garden was here when I was a little while back I got back I walked around and
+
+- **[5:18:42 PM] Andy**: there was a guy with a leaf flower that's pretty good to see out. When I came in I saw what I was walking in to the end of that corner and I was sitting there talking to her and she said we came out after they left us. I'm going to cook some of my cats.
+
+- **[5:19:21 PM] Andrea**: Here she is. I'm going to cook some of my cats.
+
+- **[5:19:40 PM] Andy**: I'm a little bit earlier than I'm supposed to feel like I'm good she's out she can see me now. She's damn both head to bed you're doing great! Yeah I was like 10 minutes straight. Can you have a new dress? Ha-ha! You're patient with animals.
+
+- **[5:20:23 PM] Andy**: I love her.
+
+- **[5:20:29 PM] Andy**: Don't break the food this is her.
+
+- **[5:20:49 PM] Andy**: Is it tonight? what it was.
+
+- **[5:21:08 PM] Andy**: Is it T.S on? if it's on there.
+
+- **[5:21:13 PM] Andrea**: Maybe T.S on?
+
+- **[5:21:16 PM] Andy**: Yeah it is on Google and P-Cock. You can watch it on YouTube sweetie.
+
+- **[5:21:36 PM] Andrea**: I think we'll just follow along and score on my app.
+
+- **[5:21:56 PM] Andy**: and talk to CCTV? Come and get down and hold my phone!
+
+- **[5:22:11 PM] Andrea**: Yeah it's starting to rain.
+
+- **[5:22:13 PM] Andy**: You have your tube TV.
+
+- **[5:22:36 PM] Andy**: Hello.
+
+- **[5:22:40 PM] Andrea**: The NBA starts today with the Warriors tomorrow.
+
+- **[5:23:02 PM] Andrea**: I'm going to put the words back in there.
+
+- **[5:23:23 PM] Andy**: The what? The words? So the players you have to drop Steve.
+
+- **[5:23:38 PM] Andy**: Fan.
+
+- **[5:24:25 PM] Andy**: I was just not in your home but you know when I've been getting at it it's no place by home. It's comfortable there you can walk around your underwear or whatever you need to do. It's you know you're safe. It's a nice home but it's not, because you have my vibe here. That's not yours. You're just visiting. It's fine to visit. But why I went home at this rate?
+
+- **[5:25:14 PM] Andy**: It's there! I know but
+
+- **[5:25:47 PM] Andy**: Oh yeah all those sets up you know that's just one level of things. Why? Why? Do you want me to bring you up because they don't reach out to me.
+
+- **[5:26:13 PM] Andy**: If I get to read your bad boy here not the voice if I say your parents are here I don't
+
+- **[5:26:29 PM] Andrea**: No phones no touching talking about science kitchen only plants cats birds or
+
+- **[5:26:42 PM] Andy**: travel Barrow to feed you right Or masks Or family My favorite subject.
+
+- **[5:27:12 PM] Andy**: I'm glad I got through with Tira and we came out the other side yesterday. I was surprised that she kind of looked at me and I faced it all the time I came from a sort of herb. I was like okay you're gonna get in trouble but okay. Glad I was able to. Literally all you knew. And all I knew for you. It's true Kira and Ryan. No he hopes it's not going to be so That's what I kept saying.
+
+- **[5:28:05 PM] Andy**: Yeah but she's sensitive and they're all yeah. Same thing with the doing the same thing with the pre that happened with Duncan and me. I was actually ahead that reflection. I was trying to think back you know my time with Duncan when I was there. And most of the time he wasn't there. Most of the time he was with Grandpa. He didn't go to awkward schools He went to preschool in Alameda and then he went to elementary school in Piedmont And then by the time he was in the you know by the time he was in junior high school right middle school then we were in Napa So he didn't have to look. They avoided he didn't have to deal with street life or Oakland living He didn't really
+
+- **[5:29:16 PM] Andy**: have a lot of friends until he moved to Napa So he didn't play around the neighborhood And the parents wouldn't even
+
+- **[5:29:33 PM] Andy**: So I mean when he was around and it was great. I mean I took him places I took him camping I took him to Baja. They keyed my car him and Danny who took them to the bar hall with us. So you know from my side of it you know I did you know best I can I worked full-time. So I was doing school and it was work at full-time I mean time flies when you're you know, doing that I was busy trying to better our lives and everything So you know time flies, you know and I was involved with him when he was in football I would participate in the games I would be the yard marker or would announce I would do you know I would do something, You know and I pick them up. I didn't have to pick them up from school
+
+- **[5:30:41 PM] Andy**: because when we were in NAPA, school was a block away two blocks away. But when he was in elementary school, I picked him up a case. In case he wasn't even working. Well she was working part-time.
+
+- **[5:30:59 PM] Andrea**: She yeah she had a couple odd jobs and so yeah.
+
+- **[5:31:04 PM] Andy**: So yeah I never rocked the boat too much tried not to but yeah. So I was just reflecting back on what was going on you know that I'm a pretty simple person. You know it's pretty easy going you know this is you know I just so to me there was nothing really long because I was just living my life I wasn't trying to neglect him or I even yeah. In fact when I even met Katie and heard about him or her dad Duncan's dad I basically told her and him, Hey give him a visitation and you provide some child support for Duncan and straight up. And so I remember plenty of time he'd come over and Paul I remember him. He would go over and take him to San Francisco and he wasn't a very good shape. He was kind of a mental guy I think he was maybe mentally retired a little bit so we had something going on with him he was okay. So yeah I thought I was a positive influence in his life.
+
+- **[5:32:39 PM] Andy**: The only problem is that Katie and I were explosive. So I left her four or five times so that's what I was reflecting on like yeah I was just, you know I was a bit I think I was all right I mean where I was misguided is I was emotionally, I mean I couldn't handle the difficulties from her. So I leave and come back because guess what I had nothing going on for me you know it's like that old hole inside you like you know a lot of men do it it's just an nature of a relationship I think you find somebody and you want to keep that going and go through all the hardships And then you don't know what to hell you're doing, parenting and you know I'm just trying to be kind and nice to the dude you know. You keep my car at spankham He deserved it But it's me spanking him.
+
+- **[5:34:00 PM] Andy**: Would make it so worse as they made it so hard for me to just get my two or three wax in. Now it's me It was very mild Yeah they started abusing me I had to leave Anyway I just had a reflection Why I put my nose on it To reuse it Okay What if the cat comes You're in mess with it. I'm playing. I'm ready.
+
+- **[5:34:53 PM] Andrea**: You all right?
+
+- **[5:34:55 PM] Andy**: Come on dude.
+
+- **[5:35:26 PM] Andy**: I'm not good at it here you go nope I know you like it.
+
+- **[5:35:46 PM] Andrea**: She's in cheese.
+
+- **[5:35:54 PM] Andy**: I'm trying to get a tizer. Oh the plate probably is a baby. Oh no! She told you my saver is making cheese.
+
+- **[5:36:10 PM] Andrea**: I'm not going to make my shepherd into it.
+
+- **[5:36:26 PM] Andy**: She doesn't play and that's Pooey on her. I have the one that just ate. Come on.
+
+- **[5:36:33 PM] Andrea**: I know.
+
+- **[5:36:34 PM] Andy**: I know yeah what is the why is she get more consideration than me? She just in each you can't force her out
+
+- **[5:37:34 PM] Andy**: no part of my concerns are I know part of my concerns are I do I am I do get bit more congested when the winter has a little verge of a headache all the time. and temperatures.
+
+- **[5:38:39 PM] Andrea**: I think it's better if you're a kid if you want.
+
+- **[5:38:47 PM] Andy**: What about some The kitty tiger bag. I'm playing. That's my drop bag. Who was out on top? Shouldn't be out on top. Oh boy you're going to be really depressed.
+
+- **[5:39:38 PM] Andy**: You think well it's just a thing about it. I just want to eat more days. Now you're happier huh? Seven more days! If I come on Tuesday but on Saturday. No big-sided for a week. I was thinking maybe we should go to Paris or Italy a gurney son or a big case of it. I'm about to see the moon Paris oh oh sweetie pie so you're trying to get rid of me now? I know you do you kind of look like you're okay I take you back home and put you Where are you in your
+
+- **[5:41:22 PM] Andy**: What you doing
+
+- **[5:41:30 PM] Andrea**: I had to park right away or on the block or not because I see you across the street and
+
+- **[5:41:56 PM] Andy**: Yes In the right in your spot where I block the tree Your favorite spot.
+
+- **[5:42:14 PM] Andy**: Which chair is your favorite chair of this one? I like to sit in that one I was watching Netflix I had a turn toward the TV and I also lay on the couch. I'm telling you you could even watch everything you could just see an apple on your watch and anything you want. It's like what we were doing in a draw for a tree. You could but you're But I'm alright. Okay well
+
+- **[5:43:01 PM] Andy**: I see
+
+- **[5:43:16 PM] Andy**: Yeah it's a little chillier air My scientists get congested My nose is a lot of stuff going on with me. It's seasonally changing in me Yeah Yeah I'm more. My ears are I've got to scratch in my ears so it's now all messed up. So I'm trying not to touch it at all. I'm going to move that side and be able to get out one morning. You think I'm going to see this? I'm going to slide them over. He's going the hole. Yes I did.
+
+- **[5:44:25 PM] Andrea**: Thank you.
+
+- **[5:44:29 PM] Andy**: you're welcome oh they're flashing now I will yep
+
+- **[5:53:23 PM] Andy**: It's the first time I've ever seen this kind of thing in my life.
+
+- **[5:56:11 PM] Andy**: I'm going to put it on the other side.
+
+- **[6:15:21 PM] Andrea**: I'm going to take a look at this.
+
+- **[6:15:47 PM] Andy**: I'm going to take this.
+
+- **[6:19:17 PM] Andy**: Send him whenever he's in fire.
+
+- **[6:19:24 PM] Andrea**: That is the first bubble number 500. Watch it.
+
+- **[6:19:30 PM] Andy**: That's 10,000. That's 20,000.
+
+- **[6:19:32 PM] Andrea**: Look that's 10,000.
+
+- **[6:19:34 PM] Andy**: Right over. And just let the campers stand by and go.
+
+- **[6:19:40 PM] Andrea**: If anyone is coming over going for you, you have to catch it on the first two yards.
+
+- **[6:19:44 PM] Andy**: I don't worry about the intermediate growth of downhill growth,
+
+- **[6:19:47 PM] Andrea**: even if it's sunny Friday,
+
+- **[6:19:49 PM] Andy**: I'm going to be trying to get out of here.
+
+- **[6:20:19 PM] Andrea**: What he is to turn him right now he sent by a panel line to the combo running for a gain of 10 and they're taking a little bit of a load off the cap for his age starts with a free now so they're using a lot.
+
+- **[6:21:16 PM] Andy**: He's not a big wild and vulnerable.
+
+- **[6:21:20 PM] Andrea**: Welcome to the 5-Eleven Street Danny.
+
+- **[6:21:31 PM] Andrea**: He's got a typical very huge chip line over it.
+
+- **[6:21:37 PM] Andy**: Both of them first off.
+
+- **[6:21:39 PM] Andrea**: I'm very impressed with you.
+
+- **[6:21:45 PM] Andrea**: That's the damage for this 49er offense.
+
+- **[6:23:24 PM] Andrea**: There is a flag down and the camp is down at the 7th and this looks kind of bad. I'm going to see what Kyle Chanahan has in his bag but I don't blame Kyle Chanahan coming back to the prison of the cap ring.
+
+- **[6:24:42 PM] Andrea**: and the 49er phase let's hear the love of it 6-1-2-20 and at the 2-man warning, I'm going down as long this ride continues for the 49ers to leave by 10.
+
+- **[6:27:21 PM] Andrea**: Jason Kelsey and Jason McCordy. Well third down and 11 12 year old
+
+- **[6:27:35 PM] Andrea**: to a favorite boy at Big D. We still will start to the year. I'm doing it again here at the Lexix, and off to the cafe.
+
+- **[6:27:45 PM] Andy**: right there a lot of quarterbacks were gone down but he knew exactly what he was talking
+
+- **[6:28:02 PM] Andrea**: about for him to pick up the first down and he just went after it.
+
+- **[6:28:23 PM] Andrea**: Number one right to an offense is two for two and they're in zone tonight. There's a screen for the referee. broke one factor and now flying flies with stiles thanks for stopping us.
+
+- **[6:28:41 PM] Andrea**: Taylor Mowell and things like that? What's up with this trend in strength wars?
+
+- **[6:29:25 PM] Andrea**: and one of the worst old pieces when it came to happen is with a catch in a wall and then
+
+- **[6:29:55 PM] Andrea**: So you can see around here he's lined up in the slot Chris and McCabry out on it,
+
+- **[6:29:59 PM] Andy**: and some coverage and he just looked right around sunny-style,
+
+- **[6:30:07 PM] Andy**: him a little bit because he has a chance to run after the cabs and he's up a little bit
+
+- **[6:30:11 PM] Andrea**: probably but then you see the pain and discomfort
+
+- **[6:30:28 PM] Andrea**: I have a feeling but I have a feeling we might just see him in a second now. Look follow him and see exactly what it is. But I know he's been managing that to kill you throughout the season. And you can see by the way he's walking maybe when we walk.
+
+- **[6:30:59 PM] Andrea**: This is about three minutes ago with Mike Evans during the timeout just stretching and trying to get any kind of elasticity in that right Achilles tendon.
+
+- **[6:31:45 PM] Andrea**: the week typically that would be a real issue for a Bob stand-in and folks can and yet
+
+- **[6:31:56 PM] Andrea**: knows what he's doing with it. The man has took a time out it's a blast of time for kill don't fly. When that brings up third down and five coverage by Rasool Douglas on an incompletion. He's the George Kill as he comes off the ball. He's trying to get possession so that Bernie can just stick it on him.
+
+- **[6:32:25 PM] Andrea**: 3rd and 5th and 3rd will make a stop They'll get an opportunity with a little bit of time left on the block. Can they start the second half with a football 3rd out of 5th 12th play in this drier. 6th out there's Kettle. And there's a strong tackle by Styles and we'll see when they put it down as a timeout is taken again.
+
+- **[6:33:01 PM] Andrea**: away from George Kill.
+
+- **[6:33:14 PM] Andrea**: And they will with 49 seconds left the unofficial yellow line killed made the catch.
+
+- **[6:33:34 PM] Andrea**: if he had a little momentum going up the field. Not an easy play to stop him short.
+
+- **[6:33:39 PM] Andy**: Well here's a chance for the commanders. I'm going to get in the way out of this.
+
+- **[6:33:46 PM] Andrea**: Where is that hat? He's got a first down. They're going to want to make a one. Yeah as soon as they put Kyle Eustach in the hospital, the usual was coming. This is their version of Eustach's foot. And Kyle Eustach gets right in behind him
+
+- **[6:34:16 PM] Andrea**: but let's turn it twist right here, so that it isn't a cat break.
+
+- **[6:35:28 PM] Andy**: I can't do it.
+
+- **[6:35:42 PM] Andrea**: That's near.
+
+- **[6:35:44 PM] Andy**: Was terrible. I can't do it.
+
+## 🎙️ Session 3: 2026-10-19 18:36:15 (2h17m)
+- **Source File**: `2026-10-19 18_36_15.mp3`
+
+- **[6:36:15 PM] Andy**: The first time back at the middle time of the wait we all know him and the rest can't say but we know we can't find the purpose. I'm now for our progressive games but we're talking about it briefly before we get to it.
+
+- **[6:37:24 PM] Andy**: if it's going to happen or not but I'm going to give you a big round of applause.
+
+- **[6:37:44 PM] Andy**: Come out and add fun.
+
+- **[6:38:00 PM] Andrea**: That's the top of her teammate's wholeness and the Atlanta basketball. And we don't see that for what's so solid.
+
+- **[6:39:18 PM] Andy**: How is it going to be in the middle of the festival?
+
+- **[6:39:41 PM] Andrea**: happened instead of just being consistent. Yeah too much for Hordeley's as well and he more like that. The whole thing was just lost and blocked hard.
+
+- **[6:40:05 PM] Andrea**: She had a head for fire.
+
+- **[6:40:06 PM] Andy**: And they don't roll with me on the road.
+
+- **[6:40:26 PM] Andrea**: When you're turning on you have to jump again.
+
+- **[6:40:29 PM] Andy**: It's a great shift.
+
+- **[6:40:58 PM] Andrea**: Little thing nice. Take a photo on your right here on the U.S day.
+
+- **[6:41:55 PM] Andrea**: So I'm right towards the age of three three two a little bit of everything. We need both of them. Just different. Pull out that magic. I'm not going to walk forward. He's in into the cup forms.
+
+- **[6:43:00 PM] Andrea**: that's normally the advantage of the change.
+
+- **[6:43:21 PM] Andy**: And the poor can't connect us.
+
+- **[6:43:23 PM] Andrea**: With another rebound that she's got a double-double.
+
+- **[6:43:31 PM] Andy**: Well enjoy.
+
+- **[6:43:40 PM] Andy**: She went back to her head.
+
+- **[6:47:08 PM] Andy**: Oh I could eat some salmon. I'm going to put it on the other side of the door and I'm going to put it on the other side of the door.
+
+- **[6:48:55 PM] Andy**: He has worked really hard. Haha.
+
+- **[6:53:11 PM] Andy**: What's the protein fight?
+
+- **[6:53:17 PM] Andrea**: I need a please.
+
+- **[6:53:32 PM] Andy**: 4A.
+
+- **[6:53:33 PM] Andrea**: But I only like it. But thank you. And before you came in at this time I can tell the hard part of the day is done. I want you to be here. It's 2020. But you haven't always been a former heavy.
+
+- **[6:54:00 PM] Andy**: You're back. You're calling your medical years.
+
+- **[6:54:04 PM] Andrea**: Military issue.
+
+- **[6:54:06 PM] Andy**: 2. Painted 3.
+
+- **[6:54:28 PM] Andrea**: 4.
+
+- **[6:54:32 PM] Andy**: 4.
+
+- **[6:56:22 PM] Andrea**: I'm the older model still you know the old models are not just crazy but it's yeah.
+
+- **[6:56:34 PM] Andrea**: Because you've never seen a miracle.
+
+- **[6:57:43 PM] Andy**: I'll glue it. Here.
+
+- **[6:57:56 PM] Andrea**: You tried.
+
+- **[6:58:03 PM] Andrea**: Just him.
+
+- **[6:58:11 PM] Andy**: We're not with them.
+
+- **[7:00:54 PM] Andy**: Yes. You said you'd make fun of me. I'm glad black nothingness began has been. A system of salvage of length within cells and to length within a cell when it's in one step. And dreadfully distinct against the dark or tall white fountain plate. Tell. Tell. Have you ever been in an institution tell? Tell. Do they keep you in a cell?
+
+- **[7:01:24 PM] Andy**: Tell. Tell. When you're not performing your duties do they keep you in a little box? Tell. Tell. Interlace. What's it like to hold the hand to someone you love?
+
+- **[7:01:33 PM] Andrea**: Interlace.
+
+- **[7:01:35 PM] Andy**: Do they keep you at the field finger to finger? Interlace. Do you belong for having your heart interlinked? Interlace. Do you dream about being interlinked? Interlace. What's it like to hold your child in your arms? Interlace. if there's a part of you dismissing into length. Into length Within cells into length.
+
+- **[7:01:51 PM] Andy**: Within cells into length. Why don't you say that three times within cells into length?
+
+- **[7:01:59 PM] Andrea**: Within cells into length. We're done. How's the K?
+
+- **[7:02:07 PM] Andy**: You can pick up your bonus.
+
+- **[7:02:11 PM] Andrea**: Thank you sir.
+
+- **[7:03:13 PM] Andy**: I didn't hear you you heard me.
+
+- **[7:03:29 PM] Andrea**: Come back.
+
+- **[7:03:38 PM] Andrea**: It's unusual. How's your day?
+
+- **[7:03:46 PM] Andrea**: Now he's on his phone.
+
+- **[7:03:53 PM] Andy**: I had an accident at work. I think I ruined my shirt.
+
+- **[7:03:58 PM] Andrea**: I'm sorry I didn't take that for you.
+
+- **[7:04:08 PM] Andy**: What did you drink first?
+
+- **[7:04:38 PM] Andrea**: You want to do a blocker?
+
+- **[7:04:45 PM] Andy**: Okay try to do it.
+
+- **[7:04:55 PM] Andrea**: I told you not to. And yet one of the keys.
+
+- **[7:05:15 PM] Andrea**: Put your key on it.
+
+- **[7:05:47 PM] Andrea**: You hate that bro. I don't want to read either.
+
+- **[7:05:53 PM] Andy**: Dad dad. Do you want to dance? Do you want to open your present?
+
+- **[7:05:56 PM] Andrea**: What present?
+
+- **[7:06:08 PM] Andy**: It's only in the worst way.
+
+- **[7:06:10 PM] Andrea**: Is it? Let's just say that it is.
+
+- **[7:06:25 PM] Andrea**: I'm animator.
+
+- **[7:10:05 PM] Andy**: The next control my early lead get down here.
+
+- **[7:11:05 PM] Andrea**: The soil samples indicate that she's been there for the very years. I think it's really great to rest. Was it difficult?
+
+- **[7:11:30 PM] Andrea**: No breaks. No stomach trumps. She was pregnant she died in childbirth what's that what's
+
+- **[7:12:13 PM] Andy**: That was like you know right since this section it cuts it clean.
+
+- **[7:12:19 PM] Andrea**: That's one of the start-ups.
+
+- **[7:12:21 PM] Andy**: He was a cowboy. Maybe try to save her and she just couldn't even think like she was able to go into the trouble of burying her.
+
+- **[7:12:32 PM] Andrea**: Send a message and job her. Where is the kid?
+
+- **[7:12:41 PM] Andy**: You can go here.
+
+- **[7:12:43 PM] Andrea**: Just don't want to know what about it Maybe he needs it.
+
+- **[7:14:02 PM] Andy**: How either side there's no wall you buy a wall or a slaughter.
+
+- **[7:14:12 PM] Andrea**: What you saw didn't happen it is my job to keep order that's what we do here we keep You want to go in? I'll try. Everything giving the child all strength.
+
+- **[7:14:40 PM] Andrea**: You have anything more to say? I never retired something I was born before. What's the difference?
+
+- **[7:14:54 PM] Andrea**: It's going to be more if they have someone.
+
+- **[7:14:57 PM] Andy**: Are you telling me no?
+
+- **[7:14:59 PM] Andrea**: why that was an action man. Out of what?
+
+- **[7:15:07 PM] Andy**: Hey you've been getting on the plane without one.
+
+- **[7:15:11 PM] Andrea**: What's that about?
+
+- **[7:15:59 PM] Andy**: Here in your house I'm going to be slightly mistaken because you've never seen a miracle.
+
+- **[7:16:29 PM] Andy**: He's checking in on an old serial number.
+
+- **[7:16:43 PM] Andy**: Confirmation DNA?
+
+- **[7:16:46 PM] Andrea**: Right here.
+
+- **[7:17:49 PM] Andrea**: We'll be comfortable in the case of the car.
+
+- **[7:17:59 PM] Andy**: Everyone remembers when we were at the back house. Not the world before my time. I was told in my thoughts and ten days of starting, and the machines were cold and the lights came back to your white clean.
+
+- **[7:18:13 PM] Andrea**: Photos files editing of data, and so on. Background footage too.
+
+- **[7:18:19 PM] Andy**: I didn't mind that.
+
+- **[7:18:20 PM] Andrea**: It's funny to tell me paper I laughed at it.
+
+- **[7:18:22 PM] Andy**: Didn't we have everything on blind?
+
+- **[7:18:27 PM] Andrea**: My mom's surprised I was able to see the picture. Well it's a shame here. That's a bit adorable.
+
+- **[7:18:40 PM] Andrea**: Pretty much it. not much on it and the left-hand pre-polybition, and that issue made by Tyrell. Okay I'm remarkable I'm not remarkable. And that's it for me I'll see you in my next video.
+
+- **[7:19:10 PM] Andrea**: I've heard you know those who do fly myself.
+
+- **[7:19:16 PM] Andy**: I'm from Chihuahua Chihuahua.
+
+- **[7:19:20 PM] Andrea**: I'm Andrew. I'm here from Chihuahua. I'm here. The ancient law was until the entire damn myself. Pretty stiff isn't it? Krem father anything
+
+- **[7:20:12 PM] Andrea**: I think I'm really good. Here. I'll jump to the hand. Lucky for you Mr Wallace.
+
+- **[7:22:02 PM] Andy**: You know if one of them ought to be on the limit let it go. It looks better when it's on the gun.
+
+- **[7:43:55 PM] Andy**: No flags in the secondary even though I saw two where there was tremendous contact and they get all these who are on the hit which adds 15 to the flag. It's going to make the first goal from the 9 after the 15 loss. The first command is going to be the 23rd order to the rookie Antonio Williams. His first catch.
+
+- **[7:44:35 PM] Andy**: Daniels got his man by a crank on the point. His first shot was as the touchdown was a comeback. It looks like they got right tackle Josh Connery right here at the bottom there's no And it's a tough stand to reach down the right and this at the moment is a ten-point game look at this throw You can see the angle around here by Richard White. This is the threat that he is in the passing game It's all when he was with Tampa. Good job and that's a great ride A lot of good things happened on that drive. One of the best runs we've seen from watching so far is David Blow able to put together
+
+- **[7:45:37 PM] Andrea**: an any-year touchdown drive.
+
+- **[7:45:40 PM] Andy**: It would have been a three-and-out without that illegal contact penalty and a good throw-and-catch between Daniels and Wade.
+
+- **[7:45:50 PM] Andrea**: And here comes the extra point.
+
+- **[7:45:57 PM] Andy**: 49ers missed an extra point earlier in the ballgame. And the rookie Bruce Stevens knocks it through and we'll get a 6-point game. But it came out the flag determined that Kean White was stumbling on his way to the quarterback. It's where she's going when it's up still in catch. 6-point game at the time of her.
+
+- **[7:46:39 PM] Andy**: I'm not a senior I'm only a crush in class. Relaxation.
+
+- **[7:46:47 PM] Andrea**: Look your soap house they were confident on purpose.
+
+- **[7:46:51 PM] Andy**: With the verb of
+
+- **[7:48:22 PM] Andy**: We have to finish the name of the game We must win.
+
+- **[7:50:15 PM] Andy**: save the planet Whenever I read that don't be sick I've had to laugh Save the planet.
+
+- **[7:50:25 PM] Andrea**: What for And for what myself What about God Can He help us I don't think so God
+
+- **[7:50:37 PM] Andy**: God gave us what we had to say I was using shit right in the cage with a denibutter.
+
+- **[7:50:46 PM] Andrea**: Like the bitch and then you die on the stick of philosophy.
+
+- **[7:50:56 PM] Andy**: Sometimes.
+
+- **[7:51:01 PM] Andrea**: You get a second chance.
+
+- **[7:53:05 PM] Andy**: We're 22 stop and throw I'm in pain. Strike a match like the sun watch us leave you. Live in the game play once on a new suit. Three in the wheel and light we might true too. Two six and five this is a triple threat. Two two one get to the back move us. Two three never seen a big a threat. This is our bully talk. I'm going to bully fuck. Now money pops it up silly fuck.
+
+- **[7:54:03 PM] Andy**: You don't be a god but don't work nothing's got me killed a great $20 for it I'm on my funny back.
+
+- **[7:54:20 PM] Andy**: I'm just a smile just a joke play, I'm just a joke play, Close you dream you're missing a big upgrade,
+
+- **[7:54:41 PM] Andy**: Kolka I'm a dubley.
+
+- **[7:54:43 PM] Andrea**: Kolka? Chirpire. The hat of this one you have put on a hat? Today. The peers the ups and downs you can.
+
+- **[7:55:09 PM] Andrea**: I think you haven't.
+
+- **[7:55:10 PM] Andy**: I don't understand. I know precious things ever happened.
+
+- **[7:57:13 PM] Andy**: I'm sorry. Are you okay?
+
+- **[7:57:17 PM] Andrea**: Yes I'm fine. You're okay. Come on Tura.
+
+- **[7:57:25 PM] Andy**: Call I said you.
+
+- **[7:57:27 PM] Andrea**: I'm fine. I said you're fine.
+
+- **[7:57:31 PM] Andy**: You wanted to kill your babies? That's me. Last time we met I told you we would be able to get a point that's gone in the egg.
+
+- **[7:57:42 PM] Andrea**: Stand high. What should we do? Baby kill it.
+
+- **[7:57:47 PM] Andy**: He can't be. Hey.
+
+- **[7:58:10 PM] Andy**: Get out of mercy now that you're a fucking terrorist You need two things to live in this business your balls and your word you don't have either You'll be different between you and me Carl I Still got both
+
+- **[7:58:34 PM] Andy**: This is personal between him and me
+
+- **[7:59:04 PM] Andy**: Thank you very much.
+
+- **[8:00:22 PM] Andrea**: Yes. You are a hard man to find though.
+
+- **[8:00:38 PM] Andy**: who worked for me ten years ago.
+
+- **[8:00:42 PM] Andrea**: You are always going to get your call. But I'm like you're working. You can't trust me and I can't trust you.
+
+- **[8:00:57 PM] Andrea**: After.
+
+- **[8:01:02 PM] Andy**: You could not ask it.
+
+- **[8:01:03 PM] Andrea**: I should kill you right now. And you think that we make the world look at the place.
+
+- **[8:01:12 PM] Andrea**: Surviving.
+
+- **[8:01:18 PM] Andrea**: No shit you.
+
+- **[8:01:25 PM] Andrea**: What do you want? I need a spugger. I don't do much research and we're more
+
+- **[8:01:36 PM] Andrea**: You said you know what this means to me?
+
+- **[8:01:42 PM] Andrea**: Why are you playing with me? You know I can't get back into that country. You know that you were in passports that are possible to fake?
+
+- **[8:01:56 PM] Andrea**: This is not the fake.
+
+- **[8:01:59 PM] Andy**: I'm interested in your actions when you pass the official order.
+
+- **[8:02:04 PM] Andrea**: This is your life.
+
+- **[8:02:06 PM] Andy**: Being crazy.
+
+- **[8:02:08 PM] Andrea**: Charging the door.
+
+- **[8:02:09 PM] Andy**: So once we catch you have to make a choice not to catch and do it for half a month.
+
+- **[8:02:33 PM] Andrea**: I can't make you do it for free you can't make me do shit for my skin.
+
+- **[8:02:45 PM] Andrea**: You've got just such a deal. I can't repeat you outside to take you to the available points. Trust me.
+
+- **[8:03:01 PM] Andrea**: I go this way.
+
+- **[8:06:25 PM] Andy**: I have to open the window now.
+
+- **[8:06:55 PM] Andy**: Good morning You must be too early I am sister Rebecca I just want to bring three simple
+
+- **[8:07:17 PM] Andrea**: Three simple moves to your attention to the position on your chin. I made it with a double-on-girl. Wherever she goes I go. That is rule number one. Rule number two. The left contact he has with the outside wall the better. The audience takes her from outside, setting two. These hearings and hearings.
+
+- **[8:07:44 PM] Andrea**: I just want you to get in here.
+
+- **[8:07:51 PM] Andrea**: No foul language. Do we have an agreement?
+
+- **[8:08:10 PM] Andrea**: I'll leave this to you.
+
+- **[8:08:28 PM] Andrea**: No but we have another sentence.
+
+- **[8:10:03 PM] Andrea**: What's your name?
+
+- **[8:10:17 PM] Andrea**: Yes sir. Are you taking this to me? Yes.
+
+- **[8:10:53 PM] Andrea**: Come here.
+
+- **[8:11:08 PM] Andy**: You will never light would you?
+
+- **[8:11:23 PM] Andy**: You want to spend your day?
+
+- **[8:12:47 PM] Andy**: That's hurry up the train's going to do so. Take your bags. Are you really going to need all that? You're going to have an apartment. It's fine. I'll be the perfect one when you start. start No thank you I can defend more than that. This is the real world There's no mercy for the weak. Just because you're peaceful That doesn't mean we're weak. Because here.
+
+- **[8:14:01 PM] Andy**: And that's all I want.
+
+- **[8:14:05 PM] Andrea**: Let's take concentrated guys. Come on.
+
+- **[8:14:59 PM] Andy**: What do we do now? It doesn't eat too much. Let's get in time. Hang on. What do you mean by that I'm going in? Okay we'll meet for it. What do you mean by that I'm going in? Okay we'll meet for it. What do you mean by that? Hey!
+
+- **[8:15:24 PM] Andy**: We're in college! Right there. We are going to go to that side as well as here. Good luck here!
+
+- **[8:16:21 PM] Andy**: Yes give it to me. You want me to eat huh?
+
+- **[8:16:32 PM] Andy**: Okay something's happening She's on the run. Go on!
+
+- **[8:16:47 PM] Andy**: You won't get out of here! Go on! She's not used to going out. We have to go now. We have no time. What is wrong with you? Make a walk around here. Don't touch her. Don't go away now. Don't come out.
+
+- **[8:17:03 PM] Andy**: What the fuck are you doing now?
+
+- **[8:17:26 PM] Andy**: We're going to the train We need to catch him Come on
+
+- **[8:18:05 PM] Andy**: Is this a book? We need to figure something out.
+
+- **[8:18:31 PM] Andy**: On the tip of the door.
+
+- **[8:18:51 PM] Andrea**: I was diagnosed with a change they weren't real. I'd be here in diggers when it was changed in 2017. The last one died in the 2000s. I wish you were working well and back in February. They were clones? Second generation comes not the type copies of copies. But now we're in creatures made by God.
+
+- **[8:19:28 PM] Andy**: You know there were organic machines made by the air.
+
+- **[8:19:32 PM] Andrea**: God made land in the village. So what men create is also God's will.
+
+- **[8:19:39 PM] Andy**: I think it's what you do during the coming.
+
+- **[8:19:42 PM] Andrea**: And God be pretty fucked up in that land in the village.
+
+- **[8:19:45 PM] Andy**: If you want to talk tell me what happened if it weren't for us.
+
+- **[8:19:53 PM] Andrea**: I'm going to put that juice.
+
+- **[8:19:56 PM] Andy**: I need you to know what's wrong with it. She was good.
+
+- **[8:20:01 PM] Andrea**: It's the first time out of the company. And you put it in that situation.
+
+- **[8:20:14 PM] Andy**: First time I've encountered some probably doing it. And some doing it at playboy. Purchase your opinion.
+
+- **[8:20:36 PM] Andy**: This is one of the most beautiful places in the world.
+
+- **[8:21:33 PM] Andy**: What do you know about the I won't let you know. What are we doing there? Looking for a front.
+
+- **[8:22:38 PM] Andy**: I'm in the middle of it. Rodin you must know who he is tonight. And who would he be tonight?
+
+- **[8:23:02 PM] Andrea**: You know we'll guys just separating don't do anything stupid wait.
+
+- **[8:23:12 PM] Andy**: Get off of the focus. Hey how are you? How are you doing? You doing this beautiful flying Russian?
+
+- **[8:23:25 PM] Andrea**: Working working for those. Hey hey! Hey Tusha hold your position we're going to move in close to you.
+
+- **[8:23:37 PM] Andy**: You gave me an offer I couldn't refuse. What can I do for you? I give three passes on the boat. And two spellbites on the other side. You cross it. To deliver it. To go on.
+
+- **[8:23:56 PM] Andy**: Push it. Where do you think it America. One of America's run terrorists was there Yeah. You know that need a passport need identity. You can you got a passport Yeah I'm not going back. That is a bold move I got 52 things you can help me out.
+
+- **[8:24:28 PM] Andy**: We don't have to look. We should be so much so. Here's the one that got all 600 charge. It's a dollar. Where's that? An old friend of this one. You trust him? I don't trust anybody to come out of here.
+
+- **[8:25:04 PM] Andy**: Now I can't use those words man Just let it go tomorrow. I didn't know my name You know a lot of things from now. You're like what I feel like what you're doing. I'm doing my job Talk to your job What? One minute Thanks for it.
+
+- **[8:25:23 PM] Andy**: Take the money and walk out without a fight.
+
+- **[8:26:56 PM] Andy**: When you're when you're like the thing how could you possibly feel?
+
+- **[8:28:49 PM] Andy**: There's a hoarder!
+
+- **[8:29:09 PM] Andy**: It's over here!
+
+- **[8:29:19 PM] Andy**: You're on it!
+
+- **[8:29:25 PM] Andy**: Your father thinks this. My father? Get away from me. I'm alright. I have to know. I'm alright.
+
+- **[8:30:19 PM] Andy**: Go go!
+
+- **[8:30:38 PM] Andy**: Stop!
+
+- **[8:30:43 PM] Andy**: Let it go!
+
+- **[8:30:49 PM] Andy**: Next one guard! Who is it They're ready to die for you. I don't want anybody to die for me.
+
+- **[8:31:01 PM] Andrea**: What the hell are you thinking George?
+
+- **[8:31:03 PM] Andy**: What's wrong with you? You think this is a game? Why did you shoot that? You trying to get us killed? What are you going to do? Just been in the head?
+
+- **[8:31:15 PM] Andrea**: Swing on me after that long? Yes.
+
+- **[8:31:18 PM] Andy**: Swing on me after that long? Yes. Swing on me after that long? Yes. Swing on me after that long? Yes I'm sorry.
+
+- **[8:31:39 PM] Andy**: I told you I took this video.
+
+- **[8:31:41 PM] Andrea**: And I will.
+
+- **[8:32:11 PM] Andy**: This is way too many refugees mate. Yeah I just get thinner every year. They're losing cargo all the time. We're not going to all get on the boat. Make sure we go. This is goddamn global war and spam for business.
+
+- **[8:33:02 PM] Andy**: What's this?
+
+- **[8:33:38 PM] Andy**: There's not much time we don't want to be starting my solo ride. Hurry come on!
+
+- **[8:35:38 PM] Andy**: I don't want to do it.
+
+- **[8:36:00 PM] Andy**: Feel the efficiency of your presence. I'm gonna hold it. I don't have the energy. I have the energy.
+
+- **[8:36:24 PM] Andy**: Jesus Mary Himcha house of clutter! Fuck what's that?
+
+- **[8:36:30 PM] Andrea**: I was 17 years old hanging in San Francisco while I was a mess and then I was locked in But then the high priestess of our church opened the doors that led me on to the path of life. I joined in all life and I ended up in the common.
+
+- **[8:38:15 PM] Andrea**: What's not about us? He told me to keep it to you could you protect her?
+
+- **[8:38:54 PM] Andrea**: You know two years ago when I was back in style I saw this viral bomb call it was was incredible Everybody died She's carrying it All the symptoms fit I'm going to have weird behavior I'm telling you that she's carrying a weapon You have any hecking how much money she's worth. She's been getting the virus.
+
+- **[8:40:06 PM] Andy**: What happened to them? Fire drones. Anything that moves the giant site down on the zone it's 10 miles to the DMZ that lets Take it just pass my arms let's go!
+
+- **[8:40:48 PM] Andy**: Drop the gun! Shoot do what's fine okay?
+
+- **[8:40:58 PM] Andy**: I'm just going to have to make sure that I don't get to get out of here. Don't get close to me! Down! Run! Jump on your way! Unrollable! This is your idea!
+
+- **[8:41:38 PM] Andy**: What are you doing? Turn the clear away half. We're almost at the border.
+
+- **[8:42:10 PM] Andy**: Do it We need to do it! Let's do it Do it! Do it!
+
+- **[8:42:38 PM] Andrea**: She's not dead.
+
+- **[8:42:45 PM] Andy**: Hey that was me. She got fractured. She's beating to death.
+
+- **[8:43:00 PM] Andrea**: I need your help.
+
+- **[8:43:07 PM] Andrea**: Could I get out of here now?
+
+- **[8:43:09 PM] Andy**: It's a small piece of metal I'm going to take it out. What do you need Just hold it. Look we don't have time for this okay We're going to send more drones. You got it I got it.
+
+- **[8:43:27 PM] Andrea**: You're so good.
+
+- **[8:43:28 PM] Andy**: Give me a bandage. This should never turn back.
+
+- **[8:43:33 PM] Andrea**: It knows the rules.
+
+- **[8:43:35 PM] Andy**: I'll find her later. Hey.
+
+- **[8:43:41 PM] Andrea**: Are you the passport or what?
+
+- **[8:43:44 PM] Andy**: What are you doing? You I don't need.
+
+- **[8:44:00 PM] Andrea**: I can't say. Just no one.
+
+- **[8:44:05 PM] Andy**: I'm sorry.
+
+- **[8:44:21 PM] Andy**: It's good. What did you do last year cook? I'm sorry. You never had a woman take care of you?
+
+- **[8:44:33 PM] Andrea**: if I'm going to work.
+
+- **[8:44:40 PM] Andrea**: She gets pleasure out of you.
+
+- **[8:44:41 PM] Andy**: And cry baby. Cry baby.
+
+- **[8:44:49 PM] Andrea**: What is that? Thank you.
+
+- **[8:44:54 PM] Andy**: No thank you. What is that? I don't want to stop.
+
+- **[8:45:00 PM] Andrea**: Spare it out.
+
+- **[8:45:11 PM] Andy**: Girls we made it across the border.
+
+- **[8:45:20 PM] Andrea**: Maybe now you can trust somebody.
+
+- **[8:47:30 PM] Andrea**: I've done my task for this killing and pain war or war and tired tired of it all. You're not only tense out of yourself.
+
+- **[8:51:20 PM] Andrea**: She's coming.
+
+- **[8:51:36 PM] Andy**: It's great.
+
+- **[8:52:31 PM] Andy**: I don't think I'm going to be able to do it.
+
