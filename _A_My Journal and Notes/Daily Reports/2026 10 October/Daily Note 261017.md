@@ -59,7 +59,7 @@ tags:
 - [x] **Carport vs. Upper Storage Staging**: Follow through on staging boxes and organizing Andrea's equestrian gear in the upper storage lot.
 ### 📅 Priorities & Carryovers from Morning Brief
 - [ ] **Fidelity Account Transfer**: Complete planned banking/credit card funds transfer to Fidelity Investments.
-- [ ] **Ongoing Housesitting Routine**: Continue three-times-daily feeding and care routine for Lucy at 410 Manzanita Ave through October 27.
+- [x] **Ongoing Housesitting Routine**: Continue three-times-daily feeding and care routine for Lucy at 410 Manzanita Ave through October 27.
 - [ ] **Vision Quest Voice Journal**: Transcribe and format remaining field audio from the September Vision Quest.
 ---
 ## 📅 Google Calendar Events Today

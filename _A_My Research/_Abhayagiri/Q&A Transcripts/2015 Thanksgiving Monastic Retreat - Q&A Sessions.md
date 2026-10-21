@@ -1,3 +1,21 @@
+---
+title: "2015 Abhayagiri Thanksgiving Monastic Retreat — Questions & Answers"
+retreat: "Thanksgiving Monastic Retreat"
+year: 2015
+date: "2015-11-21 to 2015-11-28"
+location: "Redwood Valley, CA"
+monastery: "Abhayagiri Buddhist Monastery"
+tradition: "Thai Forest Tradition"
+speakers:
+  - "Ajahn Pasanno"
+tags:
+  - "buddhism/abhayagiri"
+  - "retreat/thanksgiving-2015"
+  - "q-and-a"
+  - "teacher/ajahn-pasanno"
+  - "meditation/anapanasati"
+---
+
 # 2015 Abhayagiri Thanksgiving Monastic Retreat — Questions & Answers
 
 **Teacher**: Ajahn Pasanno  

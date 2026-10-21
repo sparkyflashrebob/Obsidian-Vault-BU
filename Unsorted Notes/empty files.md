@@ -42,7 +42,7 @@
 - [[_A_My Book Notes and Organization/Letting Go/Chapter 1 - Awakenings]]
 - [[_Book- Marin Mindful Recovery]]
 - [[_MMTCP Education/Peer Group/Peer Group Meditation Talk Assigments Order.md]]
-- [[_MMTCP Education/Closing Ceremony - Graduation/MMTCP Closing.md]]
+- [[_A_My Research/_MMTCP Education/Mod 25-26/Closing Ceremony - Graduation/MMTCP Closing]]
 - [[definitions]]
 - [[Poems and Quotes Template]]
 - [[MMTCP Mods Note Template]]

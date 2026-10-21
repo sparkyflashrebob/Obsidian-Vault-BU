@@ -1,3 +1,23 @@
+---
+title: "2008 SRMC Monastic Retreat — Questions & Answers"
+retreat: "SRMC Monastic Retreat"
+year: 2008
+date: "2008-09-09 to 2008-09-13"
+location: "Santa Rosa / Saranaloka Community, CA"
+monastery: "Abhayagiri Buddhist Monastery & Saranaloka Community"
+tradition: "Thai Forest Tradition"
+speakers:
+  - "Luang Por Sumedho"
+  - "Ajahn Candasiri"
+tags:
+  - "buddhism/abhayagiri"
+  - "retreat/srmc-2008"
+  - "q-and-a"
+  - "teacher/luang-por-sumedho"
+  - "teacher/ajahn-candasiri"
+  - "dhamma/metta"
+---
+
 # 2008 SRMC Monastic Retreat — Questions & Answers
 
 **Teachers**: Luang Por Sumedho & Ajahn Candasiri  

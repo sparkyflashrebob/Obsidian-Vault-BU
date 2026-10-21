@@ -1,3 +1,24 @@
+---
+title: "Anapanasati Retreat 1 & Viveka Q&A Clips — Questions & Answers"
+retreat: "Anapanasati Retreat & Viveka Clips"
+year: 2005
+date: "2005"
+location: "Abhayagiri Buddhist Monastery / Viveka Hermitage"
+monastery: "Abhayagiri Buddhist Monastery"
+tradition: "Thai Forest Tradition"
+speakers:
+  - "Ajahn Pasanno"
+  - "Ajahn Amaro"
+  - "Viveka"
+tags:
+  - "buddhism/abhayagiri"
+  - "retreat/anapanasati"
+  - "q-and-a"
+  - "teacher/ajahn-pasanno"
+  - "teacher/ajahn-amaro"
+  - "meditation/anapanasati"
+---
+
 # Anapanasati Retreat 1 & Viveka Q&A Clips — Questions & Answers Transcripts
 
 **Teacher(s)**: Ajahn Pasanno / Ajahn Amaro / Viveka  

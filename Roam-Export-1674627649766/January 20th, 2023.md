@@ -58,16 +58,16 @@
 - [[January 21st, 2023]] at 07:22
     - mom's birthday
 - [[January 21st, 2023]] at 07:23
-    - [[MMTCP Closing]]Qualities of a teacher. genuine courage to speak the truth, humility
+    - [[Roam-Export-1674627649766/MMTCP Closing]]Qualities of a teacher. genuine courage to speak the truth, humility
     - 
 - [[January 21st, 2023]] at 09:07
     - [[Mindful Movement]] great to incorporate in
 - [[January 21st, 2023]] at 09:07
-    - [[MMTCP Closing]]Journaling Selfing [[Selfing]] fear, insecurity, self reference vs being the teachings, 
+    - [[Roam-Export-1674627649766/MMTCP Closing]]Journaling Selfing [[Selfing]] fear, insecurity, self reference vs being the teachings, 
 - [[January 21st, 2023]] at 09:20
-    - [[MMTCP Closing]]message to your future self....
+    - [[Roam-Export-1674627649766/MMTCP Closing]]message to your future self....
 - [[January 21st, 2023]] at 09:26
-    - [[MMTCP Closing]]nature my capacity to teach well....
+    - [[Roam-Export-1674627649766/MMTCP Closing]]nature my capacity to teach well....
     - tuning into the needs others
     - loving them
     - wisdom and compassion
@@ -79,7 +79,7 @@
     - reflection and not only gathering info
     - patience with my self
 - [[January 21st, 2023]] at 09:50
-    - [[MMTCP Closing]]Trust
+    - [[Roam-Export-1674627649766/MMTCP Closing]]Trust
         - stories
         - our own stories
         - 
@@ -103,13 +103,13 @@
 - [[January 21st, 2023]] at 12:48
     - coming home regardless of social  class
 - [[January 21st, 2023]] at 12:51
-    - [[MMTCP Closing]][[Belonging]] what is belonging???
+    - [[Roam-Export-1674627649766/MMTCP Closing]][[Belonging]] what is belonging???
 - [[January 21st, 2023]] at 13:26
     - [[Roam-Export-1674627649766/metta]]one earth sangha metta
 - [[January 21st, 2023]] at 13:30
     - 
 - [[January 21st, 2023]] at 13:30
-    - [[MMTCP Closing]]someone threw my coffee cup away 
+    - [[Roam-Export-1674627649766/MMTCP Closing]]someone threw my coffee cup away 
 - [[January 21st, 2023]] at 13:51
     - people sitting, anxious 
 - [[January 21st, 2023]] at 13:59

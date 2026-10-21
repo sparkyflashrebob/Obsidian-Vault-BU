@@ -75,13 +75,13 @@ tags:
 
 ### 🛠️ Practical, Domestic & Tech Projects (Looking Ahead)
 - [ ] **Larkspur King Tide Emergency Petition**: Review and sign the local change.org petition urging Larkspur City Council to declare a state of emergency for sea wall and flood barrier funding.
-- [ ] **AudioDharma & IRC Single Sign-On**: Verify that the password manager updates and unified credentials established with IT Admin Deanna remain persistent across browser profiles.
+- [x] **AudioDharma & IRC Single Sign-On**: Verify that the password manager updates and unified credentials established with IT Admin Deanna remain persistent across browser profiles.
 - [ ] **Upper Storage Sorting**: Schedule a weekend block to sort the upper apartment storage lot (Andrea's saddle and gear, retired AV equipment, CD collection) separately from the carport camping storage.
 
 ### 📅 Priorities & Carryovers from Morning Brief
-- [ ] **Medicare Open Enrollment**: Review options to add the Kaiser Senior Advantage Plus option to healthcare coverage.
+- [x] **Medicare Open Enrollment**: Review options to add the Kaiser Senior Advantage Plus option to healthcare coverage.
 - [ ] **Vision Quest Voice Journal**: Compile and synthesize recorded audio notes into a dedicated Vision Quest retrospective report.
-- [ ] **Tathagata Bikkhu Report**: Compile reference notes on Donna, including Tathagata Bikkhu's Four Noble Truths teachings.
+- [ ] **Tathagata Bikkhu Report**: Compile reference notes on Dana, including Tathagata Bikkhu's Four Noble Truths teachings.
 ---
 ## 📅 Google Calendar Events Today
 - **Housesit for folks** (8:00 AM)

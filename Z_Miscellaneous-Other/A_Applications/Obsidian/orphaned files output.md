@@ -7614,7 +7614,7 @@ Created: 2023-10-14
 - [[ati/tipitaka/an/an01/index.html]]
 - [[2023-03-13]]
 - [[Review w client 230330.md]]
-- [[desktop.ini]]
+- [[_A_My Research/_A_What to Teach/desktop.ini]]
 - [[AVDG_Obsidian/InBox.md]]
 - [[1 - Turning to the Formal Practice.zip]]
 - [[getIdeas.md]]

@@ -1,3 +1,21 @@
+---
+title: "2013 Abhayagiri Winter Retreat (Mindfulness of Dhammas) — Questions & Answers"
+retreat: "Winter Retreat"
+year: 2013
+date: "2013-01 to 2013-03"
+location: "Abhayagiri Buddhist Monastery, Redwood Valley, CA"
+monastery: "Abhayagiri Buddhist Monastery"
+tradition: "Thai Forest Tradition"
+speakers:
+  - "Ajahn Pasanno"
+tags:
+  - "buddhism/abhayagiri"
+  - "retreat/winter-2013"
+  - "q-and-a"
+  - "teacher/ajahn-pasanno"
+  - "dhamma/dhammas"
+---
+
 # Abhayagiri Winter Retreat 2013 - Mindfulness of Dhammas — Questions & Answers Transcripts
 
 **Teacher(s)**: Ajahn Pasanno  

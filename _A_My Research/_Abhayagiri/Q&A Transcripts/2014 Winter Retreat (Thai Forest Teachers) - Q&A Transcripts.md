@@ -1,3 +1,21 @@
+---
+title: "2014 Abhayagiri Winter Retreat (Thai Forest Teachers) — Questions & Answers"
+retreat: "Winter Retreat"
+year: 2014
+date: "2014-01 to 2014-03"
+location: "Abhayagiri Buddhist Monastery, Redwood Valley, CA"
+monastery: "Abhayagiri Buddhist Monastery"
+tradition: "Thai Forest Tradition"
+speakers:
+  - "Ajahn Dtun"
+  - "Beth Stef"
+tags:
+  - "buddhism/abhayagiri"
+  - "retreat/winter-2014"
+  - "q-and-a"
+  - "teacher/ajahn-dtun"
+---
+
 # Abhayagiri Winter Retreat 2014 - Readings from Thai Forest Teachers — Questions & Answers Transcripts
 
 **Teacher(s)**: Ajahn Dtun (translated by Beth Stef)  

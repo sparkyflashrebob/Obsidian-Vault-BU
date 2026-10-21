@@ -3,12 +3,12 @@ mom's birthday
 
 [[January 21st, 2023]] at 07:23
 
-[[MMTCP Closing]]
+[[Roam-Export-1674627649766/MMTCP Closing]]
 Qualities of a teacher. genuine courage to speak the truth, humility
 [[Mindful Movement]] great to incorporate in
-[[MMTCP Closing]]Journaling Selfing [[Selfing]] fear, insecurity, self reference vs being the teachings,
-[[MMTCP Closing]]message to your future self....
-[[MMTCP Closing]]nature my capacity to teach well....
+[[Roam-Export-1674627649766/MMTCP Closing]]Journaling Selfing [[Selfing]] fear, insecurity, self reference vs being the teachings,
+[[Roam-Export-1674627649766/MMTCP Closing]]message to your future self....
+[[Roam-Export-1674627649766/MMTCP Closing]]nature my capacity to teach well....
 tuning into the needs others
 loving them
 wisdom and compassion
@@ -20,7 +20,7 @@ movement practice
 reflection and not only gathering info
 patience with my self
 
-[[MMTCP Closing]]Trust
+[[Roam-Export-1674627649766/MMTCP Closing]]Trust
 
 [[Awakening Joy]] get this transcription
 [[awakening joy]] 3rd teaching mj 19 inclination of mind
@@ -36,11 +36,11 @@ The No. 1 phrase in successful relationships: 'Thank you'
 
 coming home regardless of social class
 
-[[MMTCP Closing]][[Belonging]] what is belonging???
+[[Roam-Export-1674627649766/MMTCP Closing]][[Belonging]] what is belonging???
 
 [[_A_My Research/B_Book Markups/Readwise/Books/Metta]]one earth sangha metta
 
-[[MMTCP Closing]]someone threw my coffee cup away
+[[Roam-Export-1674627649766/MMTCP Closing]]someone threw my coffee cup away
 
 people sitting, anxious
 

@@ -1,20 +1,42 @@
+---
+title: "Master Index: Abhayagiri Retreat Questions & Answers (Q&A)"
+type: "index"
+tradition: "Thai Forest Tradition"
+monastery: "Abhayagiri Buddhist Monastery"
+date_created: "2026-10-20"
+tags:
+  - buddhism/abhayagiri
+  - abhayagiri/q-and-a
+  - retreat/master-index
+  - dhamma/transcripts
+---
+
 # Master Index: Abhayagiri Retreat Questions & Answers (Q&A)
 
+> [!NOTE] Centralized Master Q&A Hub
+> This document remains the dedicated index for the **Abhayagiri Monastic Retreats Archive**. For the unified, vault-wide research index connecting Abhayagiri Retreats with the **MMTCP Podcasts and Live Broadcasts**, please see [[Master Q&A Index|Master Q&A Index.md]] located in the root _A_My Research folder.
+
 > [!NOTE]
-> This master index compiles and categorizes all questions and discussion topics across the recorded Questions & Answers (Q&A) sessions from Abhayagiri Monastic Retreats (Thanksgiving Retreats, Winter Retreats, and SRMC Monastic Retreats). Detailed transcripts, timecodes, and teachers' responses are organized in the [`Q&A Transcripts`](file:///G:/Google%20Drive%20(260611)/Obsidian%20Master%20Vault/Flashrebob%20Obsidian/_A_My%20Research/_Abhayagiri/Q&A%20Transcripts) directory.
+> This master index compiles and categorizes all questions and discussion topics across the recorded Questions & Answers (Q&A) sessions from Abhayagiri Monastic Retreats (Thanksgiving Retreats, Winter Retreats, and SRMC Monastic Retreats). Detailed transcripts, audio timestamps, and teachers' responses are stored in the [`Q&A Transcripts`](file:///G:/Google%20Drive%20(260611)/Obsidian%20Master%20Vault/Flashrebob%20Obsidian/_A_My%20Research/_Abhayagiri/Q&A%20Transcripts) directory.
 
 ## 1. Retreats & Q&A Catalog Overview
 
-| Retreat Archive | Teacher(s) | Sessions | Questions Cataloged | Full Transcripts & Details |
-|---|---|:---:|:---:|---|
-| **2008 SRMC Monastic Retreat — Questions & Answers** | Abhayagiri Monastics | 4 | 61 | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
-| **2013 Abhayagiri Thanksgiving Monastic Retreat — Questions & Answers** | Ajahn Pasanno | 8 | 139 | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| **Abhayagiri Winter Retreat 2013 - Mindfulness of Dhammas — Questions & Answers Transcripts** | Ajahn Pasanno | 2 | 3 | [[2013 Winter Retreat (Mindfulness of Dhammas) - Q&A Transcripts]] |
-| **Abhayagiri Winter Retreat 2014 - Readings from Thai Forest Teachers — Questions & Answers Transcripts** | Ajahn Dtun (translated by Beth Stef) | 1 | 2 | [[2014 Winter Retreat (Thai Forest Teachers) - Q&A Transcripts]] |
-| **2015 Abhayagiri Thanksgiving Monastic Retreat — Questions & Answers** | Ajahn Pasanno | 8 | 128 | [[2015 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| **2016 Abhayagiri Thanksgiving Monastic Retreat — Questions & Answers** | Ajahn Pasanno | 8 | 119 | [[2016 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| **Anapanasati Retreat 1 & Viveka Q&A Clips — Questions & Answers Transcripts** | Ajahn Pasanno / Ajahn Amaro / Viveka | 2 | 2 | [[Anapanasati Retreat 1 & Viveka - Q&A Transcripts]] |
-| **TOTAL** | — | — | **454** | — |
+| Retreat Archive | Dates | Speaker(s) | Sessions | Questions Cataloged | Full Transcripts & Details |
+|---|---|---|:---:|:---:|---|
+| **2008 SRMC Monastic Retreat** | `2008-09-09 to 2008-09-13` | Luang Por Sumedho, Ajahn Candasiri | 4 | 61 | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
+| **2009 Abhayagiri Thanksgiving Monastic Retreat** | `2009-11-26` | Ajahn Amaro, Ajahn Anandabodhi, Ajahn Metta | 1 | 1 | [[2009 Thanksgiving Monastic Retreat - Q&A Transcripts]] |
+| **2010 Abhayagiri Thanksgiving Monastic Retreat** | `2010-11-20 to 2010-11-27` | Ajahn Pasanno | 8 | 9 | [[2010 Thanksgiving Monastic Retreat - Q&A Transcripts]] |
+| **2011 Abhayagiri Thanksgiving Monastic Retreat** | `2011-11-19 to 2011-11-26` | Ajahn Pasanno | 8 | 19 | [[2011 Thanksgiving Monastic Retreat - Q&A Transcripts]] |
+| **2012 Abhayagiri Thanksgiving Monastic Retreat** | `2012-11-17 to 2012-11-24` | Ajahn Pasanno | 4 | 8 | [[2012 Thanksgiving Monastic Retreat - Q&A Transcripts]] |
+| **2013 Abhayagiri Thanksgiving Monastic Retreat** | `2013-11-23 to 2013-11-30` | Ajahn Pasanno | 8 | 139 | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| **2013 Abhayagiri Winter Retreat (Mindfulness of Dhammas)** | `2013-01 to 2013-03` | Ajahn Pasanno | 2 | 3 | [[2013 Winter Retreat (Mindfulness of Dhammas) - Q&A Transcripts]] |
+| **2014 Abhayagiri Winter Retreat (Thai Forest Teachers)** | `2014-01 to 2014-03` | Ajahn Dtun, Beth Stef | 1 | 2 | [[2014 Winter Retreat (Thai Forest Teachers) - Q&A Transcripts]] |
+| **2015 Abhayagiri Thanksgiving Monastic Retreat** | `2015-11-21 to 2015-11-28` | Ajahn Pasanno | 8 | 128 | [[2015 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| **2016 Abhayagiri Thanksgiving Monastic Retreat** | `2016-11-19 to 2016-11-26` | Ajahn Pasanno | 8 | 119 | [[2016 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| **2022 Abhayagiri Thanksgiving Monastic Retreat** | `2022-11-07 to 2022-11-11` | Ajahn Nyaniko, Ajahn Cunda | 3 | 6 | [[2022 Thanksgiving Monastic Retreat - Q&A Transcripts]] |
+| **2023 Abhayagiri Thanksgiving Monastic Retreat** | `2023-11-18 to 2023-11-24` | Ajahn Nyaniko, Ajahn Sudhiro, Ajahn Karunadhammo | 6 | 13 | [[2023 Thanksgiving Monastic Retreat - Q&A Transcripts]] |
+| **Anapanasati Retreat 1 & Viveka Q&A Clips** | `2005` | Ajahn Pasanno, Ajahn Amaro, Viveka | 2 | 2 | [[Anapanasati Retreat 1 & Viveka - Q&A Transcripts]] |
+| **TOTAL** | — | — | — | **510** | — |
 
 ---
 
@@ -24,240 +46,259 @@ Questions from all retreats categorized by central Dhamma practice themes:
 
 ### Mindfulness of Breathing (Ānāpānasati) & Meditation Posture
 
-*12 questions found*
+*13 questions indexed*
 
-| Retreat | Timestamp | Teacher | Question Text | Link |
+| Retreat & Date | Speaker | Timestamp | Question Text | Link |
 |---|---|---|---|---|
-| 2008 SRMC Monastic Retreat | `-` | Abhayagiri Monastics | 1. As with quantum mechanics, does just being aware of the breath affect it? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
-| 2008 SRMC Monastic Retreat | `-` | Abhayagiri Monastics | 15. Please say a few words on posture. | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `26:51` | Ajahn Pasanno | Dear Ajahn Pasanno, Thank you for all the guidance and encouragement. The past months have been very busy...I am now noticing lots of patterns of tension in my body which make the breath an unpleasant object to stay with. Any advice? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `23:48` | Ajahn Pasanno | Can you please talk about qualities (physical sensations) one would experience in different Jhana sates? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `00:00` | Ajahn Pasanno | Please explain again: When one restores concentration by focusing on the in-and-outtake of the breath, is one using the vinnana/consciousness of the grasping mind? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `5:23` | Ajahn Pasanno | I'm trying to be with the breath without controlling it. When I let go of control, the breath seems to accelerate so that I can't keep up with it. Help! | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `45:12` | Ajahn Pasanno | After your 17 talks on Anapanasati, were you out of breath? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `1:07` | Ajahn Pasanno | 13 “One of the questions last night talked about the breath becoming rapid when not controlled. I'm confused. Am I right that we are not supposed to control our breath. Anapanasati is not like pranayama or a breathing exercise. Please clarify. | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `5:38` | Ajahn Pasanno | Would you talk about (describe) how to relax into 'whole-body breathing?' What does that mean? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `16:16` | Ajahn Pasanno | How can one work with feeling the element of water in sitting or walking meditation? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `27:36` | Ajahn Pasanno | You mentioned that Ajahn Chah stated that samadhi should be accompanied by alertness. Does this mean that Jhana should not be a 'zoned out' state? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| Abhayagiri Winter Retreat 2013 - Mindfulness of Dhammas | `13:39` | Ajahn Pasanno | Next question is, can one use the subtle sensations of comfort and discomfort that accompany in and out breathing as a basis for insight. If so, how much thinking slash lodging the mind is useful versus simple observation? | [[2013 Winter Retreat (Mindfulness of Dhammas) - Q&A Transcripts]] |
+| 2008 SRMC Monastic Retreat (`2008-09-09`) | Luang Por Sumedho, Ajahn Candasiri | `-` | 1. As with quantum mechanics, does just being aware of the breath affect it? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
+| 2008 SRMC Monastic Retreat (`2008-09-09`) | Luang Por Sumedho, Ajahn Candasiri | `-` | 15. Please say a few words on posture. | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
+| 2011 Abhayagiri Thanksgiving Monastic Retreat (`2011-11-19`) | Ajahn Pasanno | `00:00` | Hey, I'm Jim Kruehner. I'm most talk today, truly resonated with me. While years of breath practice has yielded only a f... | [[2011 Thanksgiving Monastic Retreat - Q&A Transcripts]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `26:51` | Dear Ajahn Pasanno, Thank you for all the guidance and encouragement. The past months have been very busy...I am now noticing lots of patterns of tension in my body which make the breath an unpleasant object to stay with. Any advice? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `23:48` | Can you please talk about qualities (physical sensations) one would experience in different Jhana sates? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `00:00` | Please explain again: When one restores concentration by focusing on the in-and-outtake of the breath, is one using the vinnana/consciousness of the grasping mind? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `5:23` | I'm trying to be with the breath without controlling it. When I let go of control, the breath seems to accelerate so that I can't keep up with it. Help! | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `45:12` | After your 17 talks on Anapanasati, were you out of breath? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `1:07` | 13 “One of the questions last night talked about the breath becoming rapid when not controlled. I'm confused. Am I right that we are not supposed to control our breath. Anapanasati is not like pranayama or a breathing exercise. Please clarify. | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `5:38` | Would you talk about (describe) how to relax into 'whole-body breathing?' What does that mean? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `16:16` | How can one work with feeling the element of water in sitting or walking meditation? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `27:36` | You mentioned that Ajahn Chah stated that samadhi should be accompanied by alertness. Does this mean that Jhana should not be a 'zoned out' state? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Winter Retreat (Mindfulness of Dhammas) (`2013-01`) | Ajahn Pasanno | `13:39` | Next question is, can one use the subtle sensations of comfort and discomfort that accompany in and out breathing as a basis for insight. If so, how much thinking slash lodging the mind is useful versus simple observation? | [[2013 Winter Retreat (Mindfulness of Dhammas) - Q&A Transcripts]] |
 
 ---
 
 ### Working with Bodily Pain, Illness & Aging
 
-*14 questions found*
+*20 questions indexed*
 
-| Retreat | Timestamp | Teacher | Question Text | Link |
+| Retreat & Date | Speaker | Timestamp | Question Text | Link |
 |---|---|---|---|---|
-| 2008 SRMC Monastic Retreat | `-` | Abhayagiri Monastics | 8. Sometimes when I get concentrated I have spontaneous body movements both gross and subtle. Any comment? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `31:37` | Ajahn Pasanno | I notice that when my mind is drifting I don't feel physical pain but when 'present' pain comes to the fore. Suggestions? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `0:00` | Ajahn Pasanno | I have seen both monastics and laypeople start getting ill after they became serious about practice. Can you relate this to your talk today? (whether such illness is karmic. Etc.) | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `7:06` | Ajahn Pasanno | Can you talk about neither-painful-nor-pleasant feelings and the benefits of being with this boringness? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `26:51` | Ajahn Pasanno | Dear Ajahn Pasanno, Thank you for all the guidance and encouragement. The past months have been very busy...I am now noticing lots of patterns of tension in my body which make the breath an unpleasant object to stay with. Any advice? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `39:17` | Ajahn Pasanno | Thank you for your uplifting and encouraging talks. My husband died 6 months ago. Could you give suggestions for how to contemplate anicca and anatta in the context of his life, illness, and death? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `0:00` | Ajahn Pasanno | Is body scan as a meditation practice done in the Ajahn Chah tradition? Is there a sutta where the Buddha talks about it? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `3:43` | Ajahn Pasanno | Is there something in the body that will help you identify the defilement of delusion? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `4:31` | Ajahn Pasanno | 'Like exercise makes the body strong, inner stillness makes the mind strong.' Why stillness and not awareness? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `39:49` | Ajahn Pasanno | Is the pursuit of peace, cessation, stillness any different from any other pursuit or desire? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `43:03` | Ajahn Pasanno | Can you please speak about dealing with physical pain during a sit (particularly back pain and headaches)? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `49:38` | Ajahn Pasanno | It seems like the 'Reflection on the 32 Parts' of the body is missing several parts...Is it meant to be comprehensive? Or is it just the ugly bits? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `24:00` | Ajahn Pasanno | In the article 'Consciousnesses' by Ajahn Lee, he talks about beings that inhabit the mind and body...What are your thoughts on this? When seeing unusual phenomena that can be interpreted in this way, what is a good course of action? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `5:38` | Ajahn Pasanno | Would you talk about (describe) how to relax into 'whole-body breathing?' What does that mean? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2008 SRMC Monastic Retreat (`2008-09-09`) | Luang Por Sumedho, Ajahn Candasiri | `-` | 8. Sometimes when I get concentrated I have spontaneous body movements both gross and subtle. Any comment? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
+| 2010 Abhayagiri Thanksgiving Monastic Retreat (`2010-11-20`) | Ajahn Pasanno | `00:00` | It is my body moves, moves around. A lay teacher called this the cosmic chiropractor. It is usually pleasant, but can al... | [[2010 Thanksgiving Monastic Retreat - Q&A Transcripts]] |
+| 2011 Abhayagiri Thanksgiving Monastic Retreat (`2011-11-19`) | Ajahn Pasanno | `31:51` | Sakaya Diti and realizing and then there's another question after that. The personality view or Sakaya Diti is another way of translating that is identity view, so that one is identified with certain aspects of, and particularism, body, mind. | [[2011 Thanksgiving Monastic Retreat - Q&A Transcripts]] |
+| 2011 Abhayagiri Thanksgiving Monastic Retreat (`2011-11-19`) | Ajahn Pasanno | `25:25` | Anyway, he had a question from Aachen Chah. Nobody else was around. | [[2011 Thanksgiving Monastic Retreat - Q&A Transcripts]] |
+| 2012 Abhayagiri Thanksgiving Monastic Retreat (`2012-11-17`) | Ajahn Pasanno | `00:00` | I heard three times today to come back to the body. I don't get this, can you explain? There is something below the neck... | [[2012 Thanksgiving Monastic Retreat - Q&A Transcripts]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `31:37` | I notice that when my mind is drifting I don't feel physical pain but when 'present' pain comes to the fore. Suggestions? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `0:00` | I have seen both monastics and laypeople start getting ill after they became serious about practice. Can you relate this to your talk today? (whether such illness is karmic. Etc.) | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `7:06` | Can you talk about neither-painful-nor-pleasant feelings and the benefits of being with this boringness? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `26:51` | Dear Ajahn Pasanno, Thank you for all the guidance and encouragement. The past months have been very busy...I am now noticing lots of patterns of tension in my body which make the breath an unpleasant object to stay with. Any advice? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `39:17` | Thank you for your uplifting and encouraging talks. My husband died 6 months ago. Could you give suggestions for how to contemplate anicca and anatta in the context of his life, illness, and death? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `0:00` | Is body scan as a meditation practice done in the Ajahn Chah tradition? Is there a sutta where the Buddha talks about it? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `3:43` | Is there something in the body that will help you identify the defilement of delusion? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `4:31` | 'Like exercise makes the body strong, inner stillness makes the mind strong.' Why stillness and not awareness? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `39:49` | Is the pursuit of peace, cessation, stillness any different from any other pursuit or desire? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `43:03` | Can you please speak about dealing with physical pain during a sit (particularly back pain and headaches)? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `49:38` | It seems like the 'Reflection on the 32 Parts' of the body is missing several parts...Is it meant to be comprehensive? Or is it just the ugly bits? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `24:00` | In the article 'Consciousnesses' by Ajahn Lee, he talks about beings that inhabit the mind and body...What are your thoughts on this? When seeing unusual phenomena that can be interpreted in this way, what is a good course of action? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `5:38` | Would you talk about (describe) how to relax into 'whole-body breathing?' What does that mean? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2022 Abhayagiri Thanksgiving Monastic Retreat (`2022-11-07`) | Ajahn Nyaniko, Ajahn Cunda | `24:02` | Yeah, this question is very similar to the kind of being subjected to another person's and it's about somebody creating harm by their way of speech or body language, and so making me suffer. Yeah, I would say in the level of Dhamma or the level of practice, | [[2022 Thanksgiving Monastic Retreat - Q&A Transcripts]] |
+| 2023 Abhayagiri Thanksgiving Monastic Retreat (`2023-11-18`) | Ajahn Nyaniko, Ajahn Sudhiro, Ajahn Karunadhammo | `39:26` | the question is what are some good questions to ask pain? Yeah, I mean I guess like, you know, is, you know, are you permanent? | [[2023 Thanksgiving Monastic Retreat - Q&A Transcripts]] |
 
 ---
 
 ### Mental Hindrances, Restlessness, Sloth & Torpor
 
-*6 questions found*
+*9 questions indexed*
 
-| Retreat | Timestamp | Teacher | Question Text | Link |
+| Retreat & Date | Speaker | Timestamp | Question Text | Link |
 |---|---|---|---|---|
-| 2008 SRMC Monastic Retreat | `-` | Abhayagiri Monastics | 9. How does one work with doubt? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
-| 2008 SRMC Monastic Retreat | `-` | Abhayagiri Monastics | 14. When doubt is mentioned under the hindrances, is it mainly referring to doubt about the Buddha’s teachings? Are there other implications? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `33:14` | Ajahn Pasanno | Could you clarify whether having more than one meditation object is a help or a hindrance? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `49:56` | Ajahn Pasanno | Ajahn, Its seems like the first couple of days all hindrances attack to a point where I opened my eyes this morning meditation and thought: 'How did I get here?...Can you please comment. | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `12:40` | Ajahn Pasanno | Sorry, I missed something. Did you say that instead of dwelling on our hindrances and getting depressed, we could instead work with the Factors of Enlightenment to brighten the mind? What are the Factors you would suggest? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `9:34` | Ajahn Pasanno | Is it okay to do standing meditation in here during meditation sessions when nothing else is working for sleepiness or restlessness? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2008 SRMC Monastic Retreat (`2008-09-09`) | Luang Por Sumedho, Ajahn Candasiri | `-` | 9. How does one work with doubt? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
+| 2008 SRMC Monastic Retreat (`2008-09-09`) | Luang Por Sumedho, Ajahn Candasiri | `-` | 14. When doubt is mentioned under the hindrances, is it mainly referring to doubt about the Buddha’s teachings? Are there other implications? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
+| 2011 Abhayagiri Thanksgiving Monastic Retreat (`2011-11-19`) | Ajahn Pasanno | `23:57` | Question is, is it true that having images of a certain animal around will make you likely to be that animal in your next life? I don't know. I doubt it. Okay. | [[2011 Thanksgiving Monastic Retreat - Q&A Transcripts]] |
+| 2011 Abhayagiri Thanksgiving Monastic Retreat (`2011-11-19`) | Ajahn Pasanno | `24:11` | The question is, people don't want to hear the answer to the question. I don't know. I doubt it. Okay. | [[2011 Thanksgiving Monastic Retreat - Q&A Transcripts]] |
+| 2011 Abhayagiri Thanksgiving Monastic Retreat (`2011-11-19`) | Ajahn Pasanno | `00:00` | Okay, so questions and answers. I'm feeling spacious in my heart. It is pleasant and then I get sleepy. Can you advise o... | [[2011 Thanksgiving Monastic Retreat - Q&A Transcripts]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `33:14` | Could you clarify whether having more than one meditation object is a help or a hindrance? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `49:56` | Ajahn, Its seems like the first couple of days all hindrances attack to a point where I opened my eyes this morning meditation and thought: 'How did I get here?...Can you please comment. | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `12:40` | Sorry, I missed something. Did you say that instead of dwelling on our hindrances and getting depressed, we could instead work with the Factors of Enlightenment to brighten the mind? What are the Factors you would suggest? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `9:34` | Is it okay to do standing meditation in here during meditation sessions when nothing else is working for sleepiness or restlessness? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
 
 ---
 
 ### Ill Will, Anger, Irritation & Metta (Lovingkindness)
 
-*21 questions found*
+*23 questions indexed*
 
-| Retreat | Timestamp | Teacher | Question Text | Link |
+| Retreat & Date | Speaker | Timestamp | Question Text | Link |
 |---|---|---|---|---|
-| 2008 SRMC Monastic Retreat | `-` | Abhayagiri Monastics | 5. How will I know if I’m experiencing loving-kindness? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
-| 2008 SRMC Monastic Retreat | `-` | Abhayagiri Monastics | 11. Please repeat the metta phrases you taught yesterday. | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
-| 2008 SRMC Monastic Retreat | `-` | Abhayagiri Monastics | 3. The lovingkindness chant includes “May I abide in freedom from affliction.” Why is affliction not included in the wish for all beings? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
-| 2008 SRMC Monastic Retreat | `-` | Abhayagiri Monastics | 5. This morning, you spoke about bringing to mind the metta nimitta. I have some understanding of the feeling of metta, but no understanding of the metta nimitta. Could you explain more fully? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
-| 2008 SRMC Monastic Retreat | `-` | Abhayagiri Monastics | 8. I’m not sure in the context of this retreat when to be resting simply with the four foundations of mindfulness and when to be reciting metta phrases. Can you please advise as to how/when to skillfully move from one practice to the other? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
-| 2008 SRMC Monastic Retreat | `-` | Abhayagiri Monastics | 9. It seems that metta would be much easier without a self to protect. How does one realize anatta? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
-| 2008 SRMC Monastic Retreat | `-` | Abhayagiri Monastics | 4. Would you way a bit about the benefits of practicing loving-kindness during the dying process, both for the one who is dying as well as for the caregiver? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
-| 2008 SRMC Monastic Retreat | `-` | Abhayagiri Monastics | 7. Was Ajahn Chah an anagami when Ajahn Chah got angry with that young monk? I thought the root of anger was uprooted at that stage. | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
-| 2008 SRMC Monastic Retreat | `-` | Abhayagiri Monastics | 18. When I think of people with spontaneous open generous hearts, they are full of loving-kindness, sympathetic joy and compassion, but do not seem equanimous. Can upekkha come naturally or is it a result of cultivation? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
-| 2008 SRMC Monastic Retreat | `-` | Abhayagiri Monastics | 1. Did Ajahn Chah still have anger? You said some palm-reader said he had anger, and Ajahn Chah said, “Yes, but he didn’t use it?” What does that mean? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
-| 2008 SRMC Monastic Retreat | `-` | Abhayagiri Monastics | 4. Is it hopeless to send loving-kindness to Mara? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
-| 2008 SRMC Monastic Retreat | `-` | Abhayagiri Monastics | 7. Just to clarify – when doing loving-kindness practice, is any phrase OK to repeat? They can be said as a chant, right? At any speed? Is any chant best for achieving concentration? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
-| 2008 SRMC Monastic Retreat | `-` | Abhayagiri Monastics | 11. Can I give a metta hug to the cute little Ajahn? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `6:18` | Ajahn Pasanno | It has been a few years since my last retreat. May I request a reminder on how to practice metta mediation on oneself...I seem to have forgotten. | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `54:46` | Ajahn Pasanno | Please explain which comes first birth or becoming for example with anger or any feeling or character? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `12:01` | Ajahn Pasanno | In the chant 'Suffusion with the Divine Abidings,' what does it mean “I will abide pervading the all encompassing world with a heard imbued with loving-kindness. Likewise the second...third...fourth'? Why does it not say something like 'pervading the entire heart? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `18:01` | Ajahn Pasanno | Was metta taught as a concentration earlier than Buddhagosa? Also, how is it taught in the Thai Forest Tradition now? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `29:52` | Ajahn Pasanno | It makes sense that loving-kindness is the antidote to a person-directed ill-will, but what is the antidote to a more recurring, low-level, general aversion to experience? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `34:52` | Ajahn Pasanno | How can we awaken the sense metta within the heart and would you help me understand the beautiful image of the heat being a vessel filled with loving kindness that you bring people into rather than sending it out. | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `5:10` | Ajahn Pasanno | I relinquished my anger...and I had no idea what a heavy burden I was clinging to until it was gone. | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `32:12` | Ajahn Pasanno | I've been experiencing a similar type of irritation as Debbie mentioned in her talk. I feel I'm present as it arise and think I'm letting it go only to find its turned into a big clump or irritation. I'm still unclear as to how to work with this. Please advise. | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2008 SRMC Monastic Retreat (`2008-09-09`) | Luang Por Sumedho, Ajahn Candasiri | `-` | 5. How will I know if I’m experiencing loving-kindness? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
+| 2008 SRMC Monastic Retreat (`2008-09-09`) | Luang Por Sumedho, Ajahn Candasiri | `-` | 11. Please repeat the metta phrases you taught yesterday. | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
+| 2008 SRMC Monastic Retreat (`2008-09-09`) | Luang Por Sumedho, Ajahn Candasiri | `-` | 3. The lovingkindness chant includes “May I abide in freedom from affliction.” Why is affliction not included in the wish for all beings? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
+| 2008 SRMC Monastic Retreat (`2008-09-09`) | Luang Por Sumedho, Ajahn Candasiri | `-` | 5. This morning, you spoke about bringing to mind the metta nimitta. I have some understanding of the feeling of metta, but no understanding of the metta nimitta. Could you explain more fully? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
+| 2008 SRMC Monastic Retreat (`2008-09-09`) | Luang Por Sumedho, Ajahn Candasiri | `-` | 8. I’m not sure in the context of this retreat when to be resting simply with the four foundations of mindfulness and when to be reciting metta phrases. Can you please advise as to how/when to skillfully move from one practice to the other? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
+| 2008 SRMC Monastic Retreat (`2008-09-09`) | Luang Por Sumedho, Ajahn Candasiri | `-` | 9. It seems that metta would be much easier without a self to protect. How does one realize anatta? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
+| 2008 SRMC Monastic Retreat (`2008-09-09`) | Luang Por Sumedho, Ajahn Candasiri | `-` | 4. Would you way a bit about the benefits of practicing loving-kindness during the dying process, both for the one who is dying as well as for the caregiver? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
+| 2008 SRMC Monastic Retreat (`2008-09-09`) | Luang Por Sumedho, Ajahn Candasiri | `-` | 7. Was Ajahn Chah an anagami when Ajahn Chah got angry with that young monk? I thought the root of anger was uprooted at that stage. | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
+| 2008 SRMC Monastic Retreat (`2008-09-09`) | Luang Por Sumedho, Ajahn Candasiri | `-` | 18. When I think of people with spontaneous open generous hearts, they are full of loving-kindness, sympathetic joy and compassion, but do not seem equanimous. Can upekkha come naturally or is it a result of cultivation? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
+| 2008 SRMC Monastic Retreat (`2008-09-09`) | Luang Por Sumedho, Ajahn Candasiri | `-` | 1. Did Ajahn Chah still have anger? You said some palm-reader said he had anger, and Ajahn Chah said, “Yes, but he didn’t use it?” What does that mean? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
+| 2008 SRMC Monastic Retreat (`2008-09-09`) | Luang Por Sumedho, Ajahn Candasiri | `-` | 4. Is it hopeless to send loving-kindness to Mara? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
+| 2008 SRMC Monastic Retreat (`2008-09-09`) | Luang Por Sumedho, Ajahn Candasiri | `-` | 7. Just to clarify – when doing loving-kindness practice, is any phrase OK to repeat? They can be said as a chant, right? At any speed? Is any chant best for achieving concentration? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
+| 2008 SRMC Monastic Retreat (`2008-09-09`) | Luang Por Sumedho, Ajahn Candasiri | `-` | 11. Can I give a metta hug to the cute little Ajahn? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
+| 2011 Abhayagiri Thanksgiving Monastic Retreat (`2011-11-19`) | Ajahn Pasanno | `00:00` | What are some practices to deal with ill will going repetitively toward one object? There are a few things that we can d... | [[2011 Thanksgiving Monastic Retreat - Q&A Transcripts]] |
+| 2011 Abhayagiri Thanksgiving Monastic Retreat (`2011-11-19`) | Ajahn Pasanno | `28:28` | I'm hoping for a tomorrow noonish. Then what? Another question, after his enlightenment to the Buddha, to the Buddha ever feel anger or sadness. Were those emotions white from his program? | [[2011 Thanksgiving Monastic Retreat - Q&A Transcripts]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `6:18` | It has been a few years since my last retreat. May I request a reminder on how to practice metta mediation on oneself...I seem to have forgotten. | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `54:46` | Please explain which comes first birth or becoming for example with anger or any feeling or character? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `12:01` | In the chant 'Suffusion with the Divine Abidings,' what does it mean “I will abide pervading the all encompassing world with a heard imbued with loving-kindness. Likewise the second...third...fourth'? Why does it not say something like 'pervading the entire heart? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `18:01` | Was metta taught as a concentration earlier than Buddhagosa? Also, how is it taught in the Thai Forest Tradition now? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `29:52` | It makes sense that loving-kindness is the antidote to a person-directed ill-will, but what is the antidote to a more recurring, low-level, general aversion to experience? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `34:52` | How can we awaken the sense metta within the heart and would you help me understand the beautiful image of the heat being a vessel filled with loving kindness that you bring people into rather than sending it out. | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `5:10` | I relinquished my anger...and I had no idea what a heavy burden I was clinging to until it was gone. | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `32:12` | I've been experiencing a similar type of irritation as Debbie mentioned in her talk. I feel I'm present as it arise and think I'm letting it go only to find its turned into a big clump or irritation. I'm still unclear as to how to work with this. Please advise. | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
 
 ---
 
 ### Caregiving, Death, Hospice & Grief
 
-*7 questions found*
+*7 questions indexed*
 
-| Retreat | Timestamp | Teacher | Question Text | Link |
+| Retreat & Date | Speaker | Timestamp | Question Text | Link |
 |---|---|---|---|---|
-| 2008 SRMC Monastic Retreat | `-` | Abhayagiri Monastics | 6. Can you speak about working with fear and loss of ego identity, fear, and death? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
-| 2008 SRMC Monastic Retreat | `-` | Abhayagiri Monastics | 4. Would you way a bit about the benefits of practicing loving-kindness during the dying process, both for the one who is dying as well as for the caregiver? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `13:20` | Ajahn Pasanno | Thank you for the wonderful dhamma talk on the 5 reflections! Could you please talk about compassion in caregiving for themselves and for others. | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `39:17` | Ajahn Pasanno | Thank you for your uplifting and encouraging talks. My husband died 6 months ago. Could you give suggestions for how to contemplate anicca and anatta in the context of his life, illness, and death? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `36:30` | Ajahn Pasanno | Is there an obligation to reconcile with family before your death or theirs (especially when family has been particularly unskillful towards us)? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `15:03` | Ajahn Pasanno | Funeral and memorial services are not only important for those left behind, but maybe important for the new traveler in afterlife. Could you say more about supporting a dead person? What kind of support and how long? Years? Does 'human support' matter or does 'karma' of each individual 'take care of it'? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `29:23` | Ajahn Pasanno | My mind went to the elements today and how the sense feel them...but can all senses feel all elements? On death, air and fire are gone but water and earth remain. Is this correct? Are these skillful reflections? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2008 SRMC Monastic Retreat (`2008-09-09`) | Luang Por Sumedho, Ajahn Candasiri | `-` | 6. Can you speak about working with fear and loss of ego identity, fear, and death? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
+| 2008 SRMC Monastic Retreat (`2008-09-09`) | Luang Por Sumedho, Ajahn Candasiri | `-` | 4. Would you way a bit about the benefits of practicing loving-kindness during the dying process, both for the one who is dying as well as for the caregiver? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `13:20` | Thank you for the wonderful dhamma talk on the 5 reflections! Could you please talk about compassion in caregiving for themselves and for others. | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `39:17` | Thank you for your uplifting and encouraging talks. My husband died 6 months ago. Could you give suggestions for how to contemplate anicca and anatta in the context of his life, illness, and death? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `36:30` | Is there an obligation to reconcile with family before your death or theirs (especially when family has been particularly unskillful towards us)? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `15:03` | Funeral and memorial services are not only important for those left behind, but maybe important for the new traveler in afterlife. Could you say more about supporting a dead person? What kind of support and how long? Years? Does 'human support' matter or does 'karma' of each individual 'take care of it'? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `29:23` | My mind went to the elements today and how the sense feel them...but can all senses feel all elements? On death, air and fire are gone but water and earth remain. Is this correct? Are these skillful reflections? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
 
 ---
 
 ### Suttas, Pali Terminology & Dhamma Teachings
 
-*17 questions found*
+*18 questions indexed*
 
-| Retreat | Timestamp | Teacher | Question Text | Link |
+| Retreat & Date | Speaker | Timestamp | Question Text | Link |
 |---|---|---|---|---|
-| 2008 SRMC Monastic Retreat | `-` | Abhayagiri Monastics | 9. It seems that metta would be much easier without a self to protect. How does one realize anatta? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
-| 2008 SRMC Monastic Retreat | `-` | Abhayagiri Monastics | 2. Which suttas describe path and fruit? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
-| 2008 SRMC Monastic Retreat | `-` | Abhayagiri Monastics | 8. Please explain in English the Pali chant you give as a blessing at the meal and at other occasions. | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
-| 2008 SRMC Monastic Retreat | `-` | Abhayagiri Monastics | 12. What is the Pali word for letting go or relinquishment? Is this the opposite of upadana? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
-| 2008 SRMC Monastic Retreat | `-` | Abhayagiri Monastics | 17. What is the difference between "meditating on" or "contemplating" and just thinking about something. Can you give some examples how one may skillfully meditate on something versus unskillfully? What does sankhara mean? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `3:51` | Ajahn Pasanno | Could you clarify the difference between perception (sanna), mental formations (sankara) and conscousness (vinnana)? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `10:33` | Ajahn Pasanno | Could you please talk about different places in the chain of dependent origination can be broken? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `39:17` | Ajahn Pasanno | Thank you for your uplifting and encouraging talks. My husband died 6 months ago. Could you give suggestions for how to contemplate anicca and anatta in the context of his life, illness, and death? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `0:00` | Ajahn Pasanno | Is body scan as a meditation practice done in the Ajahn Chah tradition? Is there a sutta where the Buddha talks about it? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `4:16` | Ajahn Pasanno | If one has read the Majjhima Nikaya, what text of the Pali canon do you recommend reading next? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `00:00` | Ajahn Pasanno | Please explain again: When one restores concentration by focusing on the in-and-outtake of the breath, is one using the vinnana/consciousness of the grasping mind? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `33:33` | Ajahn Pasanno | Could you please explain again the differences between sanna, sankara, and vinnana? I'm still not getting it. | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `32:17` | Ajahn Pasanno | Where do the Brahma-Viharas fit into the 4 Noble Truths?' | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `35:23` | Ajahn Pasanno | Where are the paramis listed and described in the Pali Canon? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `10:58` | Ajahn Pasanno | How is being 'the one who knows' as it is suggested, related to anatta? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `13:57` | Ajahn Pasanno | Is the following correct? -The 3 Characteristics can be seen as verbs? The end of Dukkha occurs when the 3 Characteristics are fully understood..? Dukkha in the outside world continues but one who realized the Truth is not 'dukkha-ed' because anatta is understood? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `16:22` | Ajahn Pasanno | Also, related to this is-how does volition fit with anatta? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2008 SRMC Monastic Retreat (`2008-09-09`) | Luang Por Sumedho, Ajahn Candasiri | `-` | 9. It seems that metta would be much easier without a self to protect. How does one realize anatta? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
+| 2008 SRMC Monastic Retreat (`2008-09-09`) | Luang Por Sumedho, Ajahn Candasiri | `-` | 2. Which suttas describe path and fruit? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
+| 2008 SRMC Monastic Retreat (`2008-09-09`) | Luang Por Sumedho, Ajahn Candasiri | `-` | 8. Please explain in English the Pali chant you give as a blessing at the meal and at other occasions. | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
+| 2008 SRMC Monastic Retreat (`2008-09-09`) | Luang Por Sumedho, Ajahn Candasiri | `-` | 12. What is the Pali word for letting go or relinquishment? Is this the opposite of upadana? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
+| 2008 SRMC Monastic Retreat (`2008-09-09`) | Luang Por Sumedho, Ajahn Candasiri | `-` | 17. What is the difference between "meditating on" or "contemplating" and just thinking about something. Can you give some examples how one may skillfully meditate on something versus unskillfully? What does sankhara mean? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
+| 2010 Abhayagiri Thanksgiving Monastic Retreat (`2010-11-20`) | Ajahn Pasanno | `00:00` | Okay, the basket looks fuller to know. What does this mean? Consciousness is dukkha. Well in the sense of dukkha being u... | [[2010 Thanksgiving Monastic Retreat - Q&A Transcripts]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `3:51` | Could you clarify the difference between perception (sanna), mental formations (sankara) and conscousness (vinnana)? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `10:33` | Could you please talk about different places in the chain of dependent origination can be broken? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `39:17` | Thank you for your uplifting and encouraging talks. My husband died 6 months ago. Could you give suggestions for how to contemplate anicca and anatta in the context of his life, illness, and death? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `0:00` | Is body scan as a meditation practice done in the Ajahn Chah tradition? Is there a sutta where the Buddha talks about it? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `4:16` | If one has read the Majjhima Nikaya, what text of the Pali canon do you recommend reading next? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `00:00` | Please explain again: When one restores concentration by focusing on the in-and-outtake of the breath, is one using the vinnana/consciousness of the grasping mind? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `33:33` | Could you please explain again the differences between sanna, sankara, and vinnana? I'm still not getting it. | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `32:17` | Where do the Brahma-Viharas fit into the 4 Noble Truths?' | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `35:23` | Where are the paramis listed and described in the Pali Canon? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `10:58` | How is being 'the one who knows' as it is suggested, related to anatta? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `13:57` | Is the following correct? -The 3 Characteristics can be seen as verbs? The end of Dukkha occurs when the 3 Characteristics are fully understood..? Dukkha in the outside world continues but one who realized the Truth is not 'dukkha-ed' because anatta is understood? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `16:22` | Also, related to this is-how does volition fit with anatta? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
 
 ---
 
 ### Lay Practice, Relationships, Work & Family
 
-*22 questions found*
+*24 questions indexed*
 
-| Retreat | Timestamp | Teacher | Question Text | Link |
+| Retreat & Date | Speaker | Timestamp | Question Text | Link |
 |---|---|---|---|---|
-| 2008 SRMC Monastic Retreat | `-` | Abhayagiri Monastics | 9. How does one work with doubt? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
-| 2008 SRMC Monastic Retreat | `-` | Abhayagiri Monastics | 10. Do you have any advice about working with internal and external vibrations? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
-| 2008 SRMC Monastic Retreat | `-` | Abhayagiri Monastics | 4. When we have a retreat work period that requires us to leave a sitting after 15 or 30 minutes, should we come to the meditation hall and leave early or just practice elsewhere for that period? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
-| 2008 SRMC Monastic Retreat | `-` | Abhayagiri Monastics | 6. Can you speak about working with fear and loss of ego identity, fear, and death? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
-| 2008 SRMC Monastic Retreat | `-` | Abhayagiri Monastics | 6. For most of the time on this retreat, I've tried to work with a persistent problem from a variety of angles, but as I work with it it seems to get worse; it seems obsessional. Any suggestions? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
-| 2008 SRMC Monastic Retreat | `-` | Abhayagiri Monastics | 11. Please talk about challenges you had in practice and how you worked with them. | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
-| 2008 SRMC Monastic Retreat | `-` | Abhayagiri Monastics | 2. Would you explain the duties parents and children have towards each other as explained by the Buddha? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `13:19` | Ajahn Pasanno | Can you talk about how to work with infidelity. | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `22:38` | Ajahn Pasanno | Thank you for the wonderful teachings...Can you further discuss dispassion and nonattachment in the context of the 'middle way.' (particularly for a layperson in a loving relationship) | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `46:09` | Ajahn Pasanno | Thank you for your wonderful teaching. Q: How to identify and deal with 'Panca upadana' in daily life? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `12:40` | Ajahn Pasanno | Sorry, I missed something. Did you say that instead of dwelling on our hindrances and getting depressed, we could instead work with the Factors of Enlightenment to brighten the mind? What are the Factors you would suggest? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `30:16` | Ajahn Pasanno | About a year ago, I was bullied and sexually harassed by a married male co-worker...Any guidance as to how I can work with this and move beyond it? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `43:45` | Ajahn Pasanno | Could you please expand on compassionate seclusion in interactive daily life (both on and off retreat)? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `1:04` | Ajahn Pasanno | 16 “Please explain the inner workings of right intention and its karmic effect. | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `19:00` | Ajahn Pasanno | I have a hard time ending or letting go of relationships after they no longer serve me or prove to be unskillful people...Is this attachment to person or aversion/ fear etc of the unknown? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `36:30` | Ajahn Pasanno | Is there an obligation to reconcile with family before your death or theirs (especially when family has been particularly unskillful towards us)? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `26:38` | Ajahn Pasanno | Would you please comment on 'The Highest Blessings' where is reads: 'Avoiding those of foolish ways...and cherishing family.' What if family members engage in foolish ways like addiction to alcohol and one can not always avoid them? Can one cherish one of foolish ways? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `9:34` | Ajahn Pasanno | Is it okay to do standing meditation in here during meditation sessions when nothing else is working for sleepiness or restlessness? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `46:56` | Ajahn Pasanno | When meditating, I've begun to ask myself: 'What is the cause of suffering?' A couple of sense desires arise, namely, the lack of intimacy and lack of a healthy relationship with a partner. Do I need to let these (seemingly normal) desires go to get down the path? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `16:16` | Ajahn Pasanno | How can one work with feeling the element of water in sitting or walking meditation? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `32:12` | Ajahn Pasanno | I've been experiencing a similar type of irritation as Debbie mentioned in her talk. I feel I'm present as it arise and think I'm letting it go only to find its turned into a big clump or irritation. I'm still unclear as to how to work with this. Please advise. | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `43:27` | Ajahn Pasanno | Does the 5th precept include coffee or prescription drugs as drugs to avoid? Does the precept mean never drink alcohol or don't abuse alcohol for a lay person?...Does Right Livelihood mean one cannot work in a place that serves and/or sells alcohol, coffees, or drugs? Or, does it mean don't work where alcohol and drugs are made? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2008 SRMC Monastic Retreat (`2008-09-09`) | Luang Por Sumedho, Ajahn Candasiri | `-` | 9. How does one work with doubt? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
+| 2008 SRMC Monastic Retreat (`2008-09-09`) | Luang Por Sumedho, Ajahn Candasiri | `-` | 10. Do you have any advice about working with internal and external vibrations? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
+| 2008 SRMC Monastic Retreat (`2008-09-09`) | Luang Por Sumedho, Ajahn Candasiri | `-` | 4. When we have a retreat work period that requires us to leave a sitting after 15 or 30 minutes, should we come to the meditation hall and leave early or just practice elsewhere for that period? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
+| 2008 SRMC Monastic Retreat (`2008-09-09`) | Luang Por Sumedho, Ajahn Candasiri | `-` | 6. Can you speak about working with fear and loss of ego identity, fear, and death? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
+| 2008 SRMC Monastic Retreat (`2008-09-09`) | Luang Por Sumedho, Ajahn Candasiri | `-` | 6. For most of the time on this retreat, I've tried to work with a persistent problem from a variety of angles, but as I work with it it seems to get worse; it seems obsessional. Any suggestions? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
+| 2008 SRMC Monastic Retreat (`2008-09-09`) | Luang Por Sumedho, Ajahn Candasiri | `-` | 11. Please talk about challenges you had in practice and how you worked with them. | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
+| 2008 SRMC Monastic Retreat (`2008-09-09`) | Luang Por Sumedho, Ajahn Candasiri | `-` | 2. Would you explain the duties parents and children have towards each other as explained by the Buddha? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
+| 2011 Abhayagiri Thanksgiving Monastic Retreat (`2011-11-19`) | Ajahn Pasanno | `24:28` | Okay. The question is, do you ever work with the quote unquote in line between sleep and waking, dreaming and lucidity? It seems like a powerful or useful fulcrum. Yes, I haven't | [[2011 Thanksgiving Monastic Retreat - Q&A Transcripts]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `13:19` | Can you talk about how to work with infidelity. | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `22:38` | Thank you for the wonderful teachings...Can you further discuss dispassion and nonattachment in the context of the 'middle way.' (particularly for a layperson in a loving relationship) | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `46:09` | Thank you for your wonderful teaching. Q: How to identify and deal with 'Panca upadana' in daily life? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `12:40` | Sorry, I missed something. Did you say that instead of dwelling on our hindrances and getting depressed, we could instead work with the Factors of Enlightenment to brighten the mind? What are the Factors you would suggest? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `30:16` | About a year ago, I was bullied and sexually harassed by a married male co-worker...Any guidance as to how I can work with this and move beyond it? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `43:45` | Could you please expand on compassionate seclusion in interactive daily life (both on and off retreat)? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `1:04` | 16 “Please explain the inner workings of right intention and its karmic effect. | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `19:00` | I have a hard time ending or letting go of relationships after they no longer serve me or prove to be unskillful people...Is this attachment to person or aversion/ fear etc of the unknown? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `36:30` | Is there an obligation to reconcile with family before your death or theirs (especially when family has been particularly unskillful towards us)? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `26:38` | Would you please comment on 'The Highest Blessings' where is reads: 'Avoiding those of foolish ways...and cherishing family.' What if family members engage in foolish ways like addiction to alcohol and one can not always avoid them? Can one cherish one of foolish ways? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `9:34` | Is it okay to do standing meditation in here during meditation sessions when nothing else is working for sleepiness or restlessness? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `46:56` | When meditating, I've begun to ask myself: 'What is the cause of suffering?' A couple of sense desires arise, namely, the lack of intimacy and lack of a healthy relationship with a partner. Do I need to let these (seemingly normal) desires go to get down the path? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `16:16` | How can one work with feeling the element of water in sitting or walking meditation? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `32:12` | I've been experiencing a similar type of irritation as Debbie mentioned in her talk. I feel I'm present as it arise and think I'm letting it go only to find its turned into a big clump or irritation. I'm still unclear as to how to work with this. Please advise. | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `43:27` | Does the 5th precept include coffee or prescription drugs as drugs to avoid? Does the precept mean never drink alcohol or don't abuse alcohol for a lay person?...Does Right Livelihood mean one cannot work in a place that serves and/or sells alcohol, coffees, or drugs? Or, does it mean don't work where alcohol and drugs are made? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2023 Abhayagiri Thanksgiving Monastic Retreat (`2023-11-18`) | Ajahn Nyaniko, Ajahn Sudhiro, Ajahn Karunadhammo | `00:00` | Okay, I'll just get started because there's a fair number of questions here. Is there any relationship between self-awar... | [[2023 Thanksgiving Monastic Retreat - Q&A Transcripts]] |
 
 ---
 
 ### Monastic Life, Precepts, Vinaya & Tradition
 
-*20 questions found*
+*21 questions indexed*
 
-| Retreat | Timestamp | Teacher | Question Text | Link |
+| Retreat & Date | Speaker | Timestamp | Question Text | Link |
 |---|---|---|---|---|
-| 2008 SRMC Monastic Retreat | `-` | Abhayagiri Monastics | 4. What is monasticism like and how would one become a monk? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
-| 2008 SRMC Monastic Retreat | `-` | Abhayagiri Monastics | 7. Could you talk about opportunities for women who wish to practice in the monastic tradition? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
-| 2008 SRMC Monastic Retreat | `-` | Abhayagiri Monastics | 11. What is the most fun part about being a monk? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
-| 2008 SRMC Monastic Retreat | `-` | Abhayagiri Monastics | 13. What are the general Theravada monastic communities thought on S. N. Goenka’s mediation techniques and vipassana centers? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
-| 2008 SRMC Monastic Retreat | `-` | Abhayagiri Monastics | 7. Was Ajahn Chah an anagami when Ajahn Chah got angry with that young monk? I thought the root of anger was uprooted at that stage. | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
-| 2008 SRMC Monastic Retreat | `-` | Abhayagiri Monastics | 10. Would you share some of your personal journey, including the time before you became a monk, and why you became a monk, and how the holy life can help people grow and change? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
-| 2008 SRMC Monastic Retreat | `-` | Abhayagiri Monastics | 14. Do you think being introduced to Buddhism guided you to the contemplative life or would you have become a monk in any tradition? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
-| 2008 SRMC Monastic Retreat | `-` | Abhayagiri Monastics | 3. Do you have any strong sense as to how you feel about your 35 years as a monk? Any outstanding lessons? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
-| 2008 SRMC Monastic Retreat | `-` | Abhayagiri Monastics | 15. How many people are on the Abhayagiri monastic waiting list? How long do they usually wait ? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `38:25` | Ajahn Pasanno | What do you think about the bed here? I believe its against the 8th precept. | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `0:00` | Ajahn Pasanno | I have seen both monastics and laypeople start getting ill after they became serious about practice. Can you relate this to your talk today? (whether such illness is karmic. Etc.) | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `40:42` | Ajahn Pasanno | Some monks have told me I'm selfish for being so focused on release. They say I should help others more. What are your thoughts? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `3:14` | Ajahn Pasanno | During retreats I sometimes have dreams in which my actions are unskillful. Does one eventually keep the precepts even in dreams? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `00:00` | Ajahn Pasanno | What is the funeral protocol for monks? What about non-monastics in the West? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `00:00` | Ajahn Pasanno | Can you tell us about how Ajahn Chah taught Western monks when he doesn't know English? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `18:01` | Ajahn Pasanno | Was metta taught as a concentration earlier than Buddhagosa? Also, how is it taught in the Thai Forest Tradition now? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `43:54` | Ajahn Pasanno | Is there a difference in doing a good deed for a monastic versus a lay-person in regards to generating merit? Can only humans create merit..devas..animals? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `57:21` | Ajahn Pasanno | May I ask what was done with the ashes/bones of the monk cremated in Thailand? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `11:54` | Ajahn Pasanno | In the chant '10 Subject for Frequent Recollection,' what does 'one who had gone forth' mean? Anyone on the path or only monastics? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `43:27` | Ajahn Pasanno | Does the 5th precept include coffee or prescription drugs as drugs to avoid? Does the precept mean never drink alcohol or don't abuse alcohol for a lay person?...Does Right Livelihood mean one cannot work in a place that serves and/or sells alcohol, coffees, or drugs? Or, does it mean don't work where alcohol and drugs are made? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2008 SRMC Monastic Retreat (`2008-09-09`) | Luang Por Sumedho, Ajahn Candasiri | `-` | 4. What is monasticism like and how would one become a monk? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
+| 2008 SRMC Monastic Retreat (`2008-09-09`) | Luang Por Sumedho, Ajahn Candasiri | `-` | 7. Could you talk about opportunities for women who wish to practice in the monastic tradition? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
+| 2008 SRMC Monastic Retreat (`2008-09-09`) | Luang Por Sumedho, Ajahn Candasiri | `-` | 11. What is the most fun part about being a monk? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
+| 2008 SRMC Monastic Retreat (`2008-09-09`) | Luang Por Sumedho, Ajahn Candasiri | `-` | 13. What are the general Theravada monastic communities thought on S. N. Goenka’s mediation techniques and vipassana centers? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
+| 2008 SRMC Monastic Retreat (`2008-09-09`) | Luang Por Sumedho, Ajahn Candasiri | `-` | 7. Was Ajahn Chah an anagami when Ajahn Chah got angry with that young monk? I thought the root of anger was uprooted at that stage. | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
+| 2008 SRMC Monastic Retreat (`2008-09-09`) | Luang Por Sumedho, Ajahn Candasiri | `-` | 10. Would you share some of your personal journey, including the time before you became a monk, and why you became a monk, and how the holy life can help people grow and change? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
+| 2008 SRMC Monastic Retreat (`2008-09-09`) | Luang Por Sumedho, Ajahn Candasiri | `-` | 14. Do you think being introduced to Buddhism guided you to the contemplative life or would you have become a monk in any tradition? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
+| 2008 SRMC Monastic Retreat (`2008-09-09`) | Luang Por Sumedho, Ajahn Candasiri | `-` | 3. Do you have any strong sense as to how you feel about your 35 years as a monk? Any outstanding lessons? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
+| 2008 SRMC Monastic Retreat (`2008-09-09`) | Luang Por Sumedho, Ajahn Candasiri | `-` | 15. How many people are on the Abhayagiri monastic waiting list? How long do they usually wait ? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
+| 2011 Abhayagiri Thanksgiving Monastic Retreat (`2011-11-19`) | Ajahn Pasanno | `25:31` | And he did a question about some particular ghost spirit that this person had experienced and that had said that it had come from what people came from Adjunct Jha's monastery. And so he asked, was that real? | [[2011 Thanksgiving Monastic Retreat - Q&A Transcripts]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `38:25` | What do you think about the bed here? I believe its against the 8th precept. | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `0:00` | I have seen both monastics and laypeople start getting ill after they became serious about practice. Can you relate this to your talk today? (whether such illness is karmic. Etc.) | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `40:42` | Some monks have told me I'm selfish for being so focused on release. They say I should help others more. What are your thoughts? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `3:14` | During retreats I sometimes have dreams in which my actions are unskillful. Does one eventually keep the precepts even in dreams? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `00:00` | What is the funeral protocol for monks? What about non-monastics in the West? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `00:00` | Can you tell us about how Ajahn Chah taught Western monks when he doesn't know English? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `18:01` | Was metta taught as a concentration earlier than Buddhagosa? Also, how is it taught in the Thai Forest Tradition now? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `43:54` | Is there a difference in doing a good deed for a monastic versus a lay-person in regards to generating merit? Can only humans create merit..devas..animals? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `57:21` | May I ask what was done with the ashes/bones of the monk cremated in Thailand? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `11:54` | In the chant '10 Subject for Frequent Recollection,' what does 'one who had gone forth' mean? Anyone on the path or only monastics? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `43:27` | Does the 5th precept include coffee or prescription drugs as drugs to avoid? Does the precept mean never drink alcohol or don't abuse alcohol for a lay person?...Does Right Livelihood mean one cannot work in a place that serves and/or sells alcohol, coffees, or drugs? Or, does it mean don't work where alcohol and drugs are made? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
 
 ---
 
 ### Karma, Rebirth, Epigenetics & Intentional Action
 
-*14 questions found*
+*15 questions indexed*
 
-| Retreat | Timestamp | Teacher | Question Text | Link |
+| Retreat & Date | Speaker | Timestamp | Question Text | Link |
 |---|---|---|---|---|
-| 2008 SRMC Monastic Retreat | `-` | Abhayagiri Monastics | 5. If everything about me is impermanent, and even "myself" is illusory, just the rising and falling of kamma, then who or what am I addressing when I wish myself well-being? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
-| 2008 SRMC Monastic Retreat | `-` | Abhayagiri Monastics | 6. What are the characteristics of personality? Are they conditioned by kamma? How do I learn not to take mine as truth and real ? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `0:00` | Ajahn Pasanno | I have seen both monastics and laypeople start getting ill after they became serious about practice. Can you relate this to your talk today? (whether such illness is karmic. Etc.) | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `34:10` | Ajahn Pasanno | Would you please elaborate on mental formations and volition. | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `50:57` | Ajahn Pasanno | Would you please talk a bit about karma in past lives...I'm asking for future karmic results an preventing negative ones. | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `56:47` | Ajahn Pasanno | I was interested to hear the definition of mental formations as volitional...Could you help me reconcile (random and unbidden thoughts) with volitionality? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `1:04` | Ajahn Pasanno | 16 “Please explain the inner workings of right intention and its karmic effect. | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `3:14` | Ajahn Pasanno | During retreats I sometimes have dreams in which my actions are unskillful. Does one eventually keep the precepts even in dreams? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `10:33` | Ajahn Pasanno | I've been reflecting on 'no-self' and it hasn't quite been resonating. Instead it feels like daunting abstraction. Can you suggest a simple way to approach this? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `15:03` | Ajahn Pasanno | Funeral and memorial services are not only important for those left behind, but maybe important for the new traveler in afterlife. Could you say more about supporting a dead person? What kind of support and how long? Years? Does 'human support' matter or does 'karma' of each individual 'take care of it'? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `24:00` | Ajahn Pasanno | In the article 'Consciousnesses' by Ajahn Lee, he talks about beings that inhabit the mind and body...What are your thoughts on this? When seeing unusual phenomena that can be interpreted in this way, what is a good course of action? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `4:30` | Ajahn Pasanno | Can you talk about karma? (particularly in regard to the theory of specific cause yields similar result; and results from past life actions) | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `16:22` | Ajahn Pasanno | Also, related to this is-how does volition fit with anatta? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `25:48` | Ajahn Pasanno | How do you atone for past unskillful behavior that you know you have done? Will this lower the negative karma you reap? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2008 SRMC Monastic Retreat (`2008-09-09`) | Luang Por Sumedho, Ajahn Candasiri | `-` | 5. If everything about me is impermanent, and even "myself" is illusory, just the rising and falling of kamma, then who or what am I addressing when I wish myself well-being? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
+| 2008 SRMC Monastic Retreat (`2008-09-09`) | Luang Por Sumedho, Ajahn Candasiri | `-` | 6. What are the characteristics of personality? Are they conditioned by kamma? How do I learn not to take mine as truth and real ? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
+| 2011 Abhayagiri Thanksgiving Monastic Retreat (`2011-11-19`) | Ajahn Pasanno | `34:56` | The last question is, what is Hasitupadhajita consciousness producing the Buddha smile? I think it's helpful to one, sometimes there's accounts of the Buddha smiling when he sees some circumstance that tickles his fancy. It's usually explained around the event from some past life or something that's not really | [[2011 Thanksgiving Monastic Retreat - Q&A Transcripts]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `0:00` | I have seen both monastics and laypeople start getting ill after they became serious about practice. Can you relate this to your talk today? (whether such illness is karmic. Etc.) | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `34:10` | Would you please elaborate on mental formations and volition. | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `50:57` | Would you please talk a bit about karma in past lives...I'm asking for future karmic results an preventing negative ones. | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `56:47` | I was interested to hear the definition of mental formations as volitional...Could you help me reconcile (random and unbidden thoughts) with volitionality? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `1:04` | 16 “Please explain the inner workings of right intention and its karmic effect. | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `3:14` | During retreats I sometimes have dreams in which my actions are unskillful. Does one eventually keep the precepts even in dreams? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `10:33` | I've been reflecting on 'no-self' and it hasn't quite been resonating. Instead it feels like daunting abstraction. Can you suggest a simple way to approach this? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `15:03` | Funeral and memorial services are not only important for those left behind, but maybe important for the new traveler in afterlife. Could you say more about supporting a dead person? What kind of support and how long? Years? Does 'human support' matter or does 'karma' of each individual 'take care of it'? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `24:00` | In the article 'Consciousnesses' by Ajahn Lee, he talks about beings that inhabit the mind and body...What are your thoughts on this? When seeing unusual phenomena that can be interpreted in this way, what is a good course of action? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `4:30` | Can you talk about karma? (particularly in regard to the theory of specific cause yields similar result; and results from past life actions) | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `16:22` | Also, related to this is-how does volition fit with anatta? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `25:48` | How do you atone for past unskillful behavior that you know you have done? Will this lower the negative karma you reap? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
 
 ---
 
 ### Dispassion, Equanimity, Letting Go & Nibbana
 
-*16 questions found*
+*18 questions indexed*
 
-| Retreat | Timestamp | Teacher | Question Text | Link |
+| Retreat & Date | Speaker | Timestamp | Question Text | Link |
 |---|---|---|---|---|
-| 2008 SRMC Monastic Retreat | `-` | Abhayagiri Monastics | 10. What is upekkha – equanimity – and how does one practice it? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
-| 2008 SRMC Monastic Retreat | `-` | Abhayagiri Monastics | 12. What is the Pali word for letting go or relinquishment? Is this the opposite of upadana? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
-| 2008 SRMC Monastic Retreat | `-` | Abhayagiri Monastics | 12. The near enemy to equanimity is aloofness. Can you offer clues on how to differentiate between these in oneself? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `0:00` | Ajahn Pasanno | Thank you for your talk. Can you flesh out: 'dispassionate about what?' Also, trying to encourage dispassion along with arousing energy. | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `4:25` | Ajahn Pasanno | Is it possible for an arahant to have seemingly negative thoughts and speech? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `22:38` | Ajahn Pasanno | Thank you for the wonderful teachings...Can you further discuss dispassion and nonattachment in the context of the 'middle way.' (particularly for a layperson in a loving relationship) | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `17:46` | Ajahn Pasanno | Reflecting on your talk earlier about letting go...Wondering if you can speak about maintaining a practice during retreat and also in 'normal” life under circumstances (where one has to make many important decisions). | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `32:19` | Ajahn Pasanno | In letting go of thoughts that habitually arise from negative self-criticism or from past trauma defenses, how do we ask these powerful mental states to not overwhelm our mindfulness? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `44:43` | Ajahn Pasanno | Is there a distinction between dispassion and equanimity? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `12:40` | Ajahn Pasanno | Sorry, I missed something. Did you say that instead of dwelling on our hindrances and getting depressed, we could instead work with the Factors of Enlightenment to brighten the mind? What are the Factors you would suggest? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `42:10` | Ajahn Pasanno | What are the 4 stages of Enlightenment? What defilements have the four Noble Beings shed? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `19:00` | Ajahn Pasanno | I have a hard time ending or letting go of relationships after they no longer serve me or prove to be unskillful people...Is this attachment to person or aversion/ fear etc of the unknown? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `26:20` | Ajahn Pasanno | I've been sitting on this question...It has to do with dispassion, shedding, simplifying and being easily satisfied on the one end of the spectrum and being engaged and active in the world...How can one practice shedding internally but still be responsive and engaged regarding the suffering from environmental and social issues? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `15:56` | Ajahn Pasanno | Today, and several times on retreat, I've found myself in a heavy mood and feeling torn between equanimity with the experience and using intention to shift my mental state...Any thoughts are much appreciated. | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `19:14` | Ajahn Pasanno | Is there consciousness (awareness, knowing) in the experience of nibbana or is there a complete cessation of all six senses, as some traditions say. (Particularly in relation to the experience of stream-entry, which is sometimes described as a cessation.) | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
-| 2013 Abhayagiri Thanksgiving Monastic Retreat | `22:19` | Ajahn Pasanno | Mudita, gladness, joy, can be felt by listening to Dhamma, chanting, an uplifting shrine...I heard that mudita can be a moment or a way of enlightenment. Could you comment please. | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2008 SRMC Monastic Retreat (`2008-09-09`) | Luang Por Sumedho, Ajahn Candasiri | `-` | 10. What is upekkha – equanimity – and how does one practice it? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
+| 2008 SRMC Monastic Retreat (`2008-09-09`) | Luang Por Sumedho, Ajahn Candasiri | `-` | 12. What is the Pali word for letting go or relinquishment? Is this the opposite of upadana? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
+| 2008 SRMC Monastic Retreat (`2008-09-09`) | Luang Por Sumedho, Ajahn Candasiri | `-` | 12. The near enemy to equanimity is aloofness. Can you offer clues on how to differentiate between these in oneself? | [[2008 SRMC Monastic Retreat - Q&A Sessions]] |
+| 2011 Abhayagiri Thanksgiving Monastic Retreat (`2011-11-19`) | Ajahn Pasanno | `28:28` | I'm hoping for a tomorrow noonish. Then what? Another question, after his enlightenment to the Buddha, to the Buddha ever feel anger or sadness. Were those emotions white from his program? | [[2011 Thanksgiving Monastic Retreat - Q&A Transcripts]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `0:00` | Thank you for your talk. Can you flesh out: 'dispassionate about what?' Also, trying to encourage dispassion along with arousing energy. | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `4:25` | Is it possible for an arahant to have seemingly negative thoughts and speech? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `22:38` | Thank you for the wonderful teachings...Can you further discuss dispassion and nonattachment in the context of the 'middle way.' (particularly for a layperson in a loving relationship) | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `17:46` | Reflecting on your talk earlier about letting go...Wondering if you can speak about maintaining a practice during retreat and also in 'normal” life under circumstances (where one has to make many important decisions). | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `32:19` | In letting go of thoughts that habitually arise from negative self-criticism or from past trauma defenses, how do we ask these powerful mental states to not overwhelm our mindfulness? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `44:43` | Is there a distinction between dispassion and equanimity? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `12:40` | Sorry, I missed something. Did you say that instead of dwelling on our hindrances and getting depressed, we could instead work with the Factors of Enlightenment to brighten the mind? What are the Factors you would suggest? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `42:10` | What are the 4 stages of Enlightenment? What defilements have the four Noble Beings shed? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `19:00` | I have a hard time ending or letting go of relationships after they no longer serve me or prove to be unskillful people...Is this attachment to person or aversion/ fear etc of the unknown? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `26:20` | I've been sitting on this question...It has to do with dispassion, shedding, simplifying and being easily satisfied on the one end of the spectrum and being engaged and active in the world...How can one practice shedding internally but still be responsive and engaged regarding the suffering from environmental and social issues? | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `15:56` | Today, and several times on retreat, I've found myself in a heavy mood and feeling torn between equanimity with the experience and using intention to shift my mental state...Any thoughts are much appreciated. | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `19:14` | Is there consciousness (awareness, knowing) in the experience of nibbana or is there a complete cessation of all six senses, as some traditions say. (Particularly in relation to the experience of stream-entry, which is sometimes described as a cessation.) | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2013 Abhayagiri Thanksgiving Monastic Retreat (`2013-11-23`) | Ajahn Pasanno | `22:19` | Mudita, gladness, joy, can be felt by listening to Dhamma, chanting, an uplifting shrine...I heard that mudita can be a moment or a way of enlightenment. Could you comment please. | [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]] |
+| 2023 Abhayagiri Thanksgiving Monastic Retreat (`2023-11-18`) | Ajahn Nyaniko, Ajahn Sudhiro, Ajahn Karunadhammo | `09:03` | Well, one, this is another question or I might sidestep it a little bit. One thing with whatever we do with Dhamma practice, there's these different factors of stream entry is to practice Dhamma according to Dhamma, not Dhamma according to Me. | [[2023 Thanksgiving Monastic Retreat - Q&A Transcripts]] |
 
 ---
 
@@ -265,7 +306,9 @@ Questions from all retreats categorized by central Dhamma practice themes:
 
 ### 2008 SRMC Monastic Retreat — Questions & Answers
 
-- **Teacher(s)**: Abhayagiri Monastics
+- **Dates**: `2008-09-09 to 2008-09-13`
+- **Teacher(s)**: Luang Por Sumedho, Ajahn Candasiri
+- **Tags**: #buddhism/abhayagiri #retreat/srmc-2008 #q-and-a #teacher/luang-por-sumedho #teacher/ajahn-candasiri #dhamma/metta
 - **Detailed Transcripts & Timecodes**: [[2008 SRMC Monastic Retreat - Q&A Sessions]]
 - **Total Questions Cataloged**: 61
 
@@ -287,9 +330,94 @@ Questions from all retreats categorized by central Dhamma practice themes:
 
 ---
 
+### 2009 Abhayagiri Thanksgiving Monastic Retreat — Questions & Answers
+
+- **Dates**: `2009-11-26`
+- **Teacher(s)**: Ajahn Amaro, Ajahn Anandabodhi, Ajahn Metta
+- **Tags**: #buddhism/abhayagiri #retreat/thanksgiving-2009 #q-and-a #teacher/ajahn-amaro #teacher/ajahn-anandabodhi #teacher/ajahn-metta
+- **Detailed Transcripts & Timecodes**: [[2009 Thanksgiving Monastic Retreat - Q&A Transcripts]]
+- **Total Questions Cataloged**: 1
+
+| # | Timestamp | Question Preview |
+|---|---|---|
+| 1 | `00:00` | This evening we thought that rather than anyone of us as individuals giving a talk, we would open the time up for dialog... |
+
+---
+
+### 2010 Abhayagiri Thanksgiving Monastic Retreat — Questions & Answers
+
+- **Dates**: `2010-11-20 to 2010-11-27`
+- **Teacher(s)**: Ajahn Pasanno
+- **Tags**: #buddhism/abhayagiri #retreat/thanksgiving-2010 #q-and-a #teacher/ajahn-pasanno #meditation/anapanasati
+- **Detailed Transcripts & Timecodes**: [[2010 Thanksgiving Monastic Retreat - Q&A Transcripts]]
+- **Total Questions Cataloged**: 9
+
+| # | Timestamp | Question Preview |
+|---|---|---|
+| 1 | `00:00` | In one's efforts with developing the path, that is, the factors and qualities that establish positive well-being, how ca... |
+| 1 | `00:00` | Okay, the basket looks fuller to know. What does this mean? Consciousness is dukkha. Well in the sense of dukkha being u... |
+| 2 | `23:40` | And what came to mind, which was, it could tie back to the question about faith, because what I remembered was a suta, where the Buddha talked about his own practice and going out into solitary places, going out to charnel grounds, going out to forests where he would |
+| 1 | `00:00` | Okay, more questions. Could you describe Beatty? Beatty is rapture or joy, say a result of concentration and wholesome s... |
+| 1 | `00:00` | It is my body moves, moves around. A lay teacher called this the cosmic chiropractor. It is usually pleasant, but can al... |
+| 1 | `00:00` | And then, how would you investigate despair and fear? What does investigation look like? Well, it looks different for th... |
+| 1 | `00:00` | It's like we've caught quite a full basket tonight. This morning I had my brightest, deepest, most still meditation ever... |
+| 1 | `00:00` | Okay, this is not a question, just a nice observation. Dear Rajan, you and your crew have been and continued to be so ge... |
+| 1 | `00:00` | Okay, last evening together. Is it possible for a lay person to become an aarhan? If so, is it appropriate to leave the ... |
+
+---
+
+### 2011 Abhayagiri Thanksgiving Monastic Retreat — Questions & Answers
+
+- **Dates**: `2011-11-19 to 2011-11-26`
+- **Teacher(s)**: Ajahn Pasanno
+- **Tags**: #buddhism/abhayagiri #retreat/thanksgiving-2011 #q-and-a #teacher/ajahn-pasanno #meditation/mindfulness
+- **Detailed Transcripts & Timecodes**: [[2011 Thanksgiving Monastic Retreat - Q&A Transcripts]]
+- **Total Questions Cataloged**: 19
+
+| # | Timestamp | Question Preview |
+|---|---|---|
+| 1 | `00:00` | First question, how can one enjoy meditation when one's knees are on fire? Well, it's what I'm experiencing. There's a w... |
+| 1 | `00:00` | So we'll begin this evening Q&A. Wow. That's a real basketful. Okay. I have to admit that I have very little faith in th... |
+| 2 | `06:51` | Next question, is the concept of anata or no-self a suitable object of meditation? Absolutely. It's extremely important object of meditation in the sense that it's one of the distinguishing characteristics of the Buddhist teachings or one of the unique aspects of the Buddhist teachings, |
+| 3 | `23:57` | Question is, is it true that having images of a certain animal around will make you likely to be that animal in your next life? I don't know. I doubt it. Okay. |
+| 4 | `24:11` | The question is, people don't want to hear the answer to the question. I don't know. I doubt it. Okay. |
+| 5 | `24:28` | Okay. The question is, do you ever work with the quote unquote in line between sleep and waking, dreaming and lucidity? It seems like a powerful or useful fulcrum. Yes, I haven't |
+| 6 | `50:02` | The very last question is, what is the correct motivation and expectation for meditation? |
+| 1 | `00:00` | Okay, so questions and answers. I'm feeling spacious in my heart. It is pleasant and then I get sleepy. Can you advise o... |
+| 2 | `31:51` | Sakaya Diti and realizing and then there's another question after that. The personality view or Sakaya Diti is another way of translating that is identity view, so that one is identified with certain aspects of, and particularism, body, mind. |
+| 3 | `34:56` | The last question is, what is Hasitupadhajita consciousness producing the Buddha smile? I think it's helpful to one, sometimes there's accounts of the Buddha smiling when he sees some circumstance that tickles his fancy. It's usually explained around the event from some past life or something that's not really |
+| 1 | `00:00` | We're going to have to try to find a smaller basket. I think. Okay. Well, I will give it a shot. Okay. First question. W... |
+| 2 | `40:56` | The question about without every hearing the dhamma, that's the critical part, in the sense of to be able to hear the dhamma, to be able to hear the teachings of the Buddha, to be able to be exposed to an exposition of truth, because the basic mode for us is, |
+| ... | ... | *See [[2011 Thanksgiving Monastic Retreat - Q&A Transcripts]] for all 19 questions and answers.* |
+
+---
+
+### 2012 Abhayagiri Thanksgiving Monastic Retreat — Questions & Answers
+
+- **Dates**: `2012-11-17 to 2012-11-24`
+- **Teacher(s)**: Ajahn Pasanno
+- **Tags**: #buddhism/abhayagiri #retreat/thanksgiving-2012 #q-and-a #teacher/ajahn-pasanno
+- **Detailed Transcripts & Timecodes**: [[2012 Thanksgiving Monastic Retreat - Q&A Transcripts]]
+- **Total Questions Cataloged**: 8
+
+| # | Timestamp | Question Preview |
+|---|---|---|
+| 1 | `00:00` | So I have a little basket of questions here. I'll just dig right in.... |
+| 2 | `00:14` | First question is how to balance Sanghvayga, which is urgency and patience. Well, whenever we're contemplating balance, the standard is to come back and reflect on the quality of mind that is present or is created so that the increase of wholesome dumbness |
+| 3 | `57:52` | So that particular question is asked and they have to present the answer to the teacher. And there's no immediately apparent right answer. And when you present your answer to the teacher, you do it in a very formal way. |
+| 1 | `00:00` | I heard three times today to come back to the body. I don't get this, can you explain? There is something below the neck... |
+| 2 | `01:46` | Oh, and my question is, isn't that he tasty just the sweetest angel? Yes, in a word. This is for Ajankarunadammo. Dear Ajankarunadammo, are you a mind reader? |
+| 1 | `00:00` | What does a married man or woman have to do to take rooms? Who does he have to ask for permission? The teacher, his wife... |
+| 2 | `13:07` | So, my question is around whether it is skillful use of this remaining time to turn to contemplations of well-being as a way to aim calm and soothe or better to try to simply watch the process |
+| 1 | `00:00` | Okay, there's still questions. It seems that little is written about love in Buddha's text, at least compared to other t... |
+
+---
+
 ### 2013 Abhayagiri Thanksgiving Monastic Retreat — Questions & Answers
 
+- **Dates**: `2013-11-23 to 2013-11-30`
 - **Teacher(s)**: Ajahn Pasanno
+- **Tags**: #buddhism/abhayagiri #retreat/thanksgiving-2013 #q-and-a #teacher/ajahn-pasanno
 - **Detailed Transcripts & Timecodes**: [[2013 Thanksgiving Monastic Retreat - Q&A Sessions]]
 - **Total Questions Cataloged**: 139
 
@@ -311,9 +439,11 @@ Questions from all retreats categorized by central Dhamma practice themes:
 
 ---
 
-### Abhayagiri Winter Retreat 2013 - Mindfulness of Dhammas — Questions & Answers Transcripts
+### 2013 Abhayagiri Winter Retreat (Mindfulness of Dhammas) — Questions & Answers
 
+- **Dates**: `2013-01 to 2013-03`
 - **Teacher(s)**: Ajahn Pasanno
+- **Tags**: #buddhism/abhayagiri #retreat/winter-2013 #q-and-a #teacher/ajahn-pasanno #dhamma/dhammas
 - **Detailed Transcripts & Timecodes**: [[2013 Winter Retreat (Mindfulness of Dhammas) - Q&A Transcripts]]
 - **Total Questions Cataloged**: 3
 
@@ -325,9 +455,11 @@ Questions from all retreats categorized by central Dhamma practice themes:
 
 ---
 
-### Abhayagiri Winter Retreat 2014 - Readings from Thai Forest Teachers — Questions & Answers Transcripts
+### 2014 Abhayagiri Winter Retreat (Thai Forest Teachers) — Questions & Answers
 
-- **Teacher(s)**: Ajahn Dtun (translated by Beth Stef)
+- **Dates**: `2014-01 to 2014-03`
+- **Teacher(s)**: Ajahn Dtun, Beth Stef
+- **Tags**: #buddhism/abhayagiri #retreat/winter-2014 #q-and-a #teacher/ajahn-dtun
 - **Detailed Transcripts & Timecodes**: [[2014 Winter Retreat (Thai Forest Teachers) - Q&A Transcripts]]
 - **Total Questions Cataloged**: 2
 
@@ -340,7 +472,9 @@ Questions from all retreats categorized by central Dhamma practice themes:
 
 ### 2015 Abhayagiri Thanksgiving Monastic Retreat — Questions & Answers
 
+- **Dates**: `2015-11-21 to 2015-11-28`
 - **Teacher(s)**: Ajahn Pasanno
+- **Tags**: #buddhism/abhayagiri #retreat/thanksgiving-2015 #q-and-a #teacher/ajahn-pasanno #meditation/anapanasati
 - **Detailed Transcripts & Timecodes**: [[2015 Thanksgiving Monastic Retreat - Q&A Sessions]]
 - **Total Questions Cataloged**: 128
 
@@ -364,7 +498,9 @@ Questions from all retreats categorized by central Dhamma practice themes:
 
 ### 2016 Abhayagiri Thanksgiving Monastic Retreat — Questions & Answers
 
+- **Dates**: `2016-11-19 to 2016-11-26`
 - **Teacher(s)**: Ajahn Pasanno
+- **Tags**: #buddhism/abhayagiri #retreat/thanksgiving-2016 #q-and-a #teacher/ajahn-pasanno #meditation/anapanasati
 - **Detailed Transcripts & Timecodes**: [[2016 Thanksgiving Monastic Retreat - Q&A Sessions]]
 - **Total Questions Cataloged**: 119
 
@@ -386,9 +522,56 @@ Questions from all retreats categorized by central Dhamma practice themes:
 
 ---
 
-### Anapanasati Retreat 1 & Viveka Q&A Clips — Questions & Answers Transcripts
+### 2022 Abhayagiri Thanksgiving Monastic Retreat — Questions & Answers
 
-- **Teacher(s)**: Ajahn Pasanno / Ajahn Amaro / Viveka
+- **Dates**: `2022-11-07 to 2022-11-11`
+- **Teacher(s)**: Ajahn Nyaniko, Ajahn Cunda
+- **Tags**: #buddhism/abhayagiri #retreat/thanksgiving-2022 #q-and-a #teacher/ajahn-nyaniko #teacher/ajahn-cunda
+- **Detailed Transcripts & Timecodes**: [[2022 Thanksgiving Monastic Retreat - Q&A Transcripts]]
+- **Total Questions Cataloged**: 6
+
+| # | Timestamp | Question Preview |
+|---|---|---|
+| 1 | `00:00` | Hello everyone. It's nice to see you all, all your pixels up there on the screen. My name is Jang Chunda and I'm searchi... |
+| 2 | `22:54` | So, there is a third question here. And it's not a very easy question. So I'll do my best to answer it as best I can, but we'll see what comes out. So this morning at the Nyanikos spoke about the Nutriments. |
+| 1 | `00:00` | Okay, so we'll begin today's Q&A session. First question that is not a question. Hi, this is not a question. And no need... |
+| 2 | `24:02` | Yeah, this question is very similar to the kind of being subjected to another person's and it's about somebody creating harm by their way of speech or body language, and so making me suffer. Yeah, I would say in the level of Dhamma or the level of practice, |
+| 1 | `00:00` | . Okay, so Q&A session today. interesting questions. I can't guarantee I'll give satisfactory answers to these. I'll try... |
+| 2 | `21:24` | Sadu. Okay, yeah. So I guess the question is, is there going to be hybrid retreats in the future? And possibly, it's always possible, it really depends, this whole team that has to be looking after tech stuff to make this kind of thing happen. |
+
+---
+
+### 2023 Abhayagiri Thanksgiving Monastic Retreat — Questions & Answers
+
+- **Dates**: `2023-11-18 to 2023-11-24`
+- **Teacher(s)**: Ajahn Nyaniko, Ajahn Sudhiro, Ajahn Karunadhammo
+- **Tags**: #buddhism/abhayagiri #retreat/thanksgiving-2023 #q-and-a #teacher/ajahn-nyaniko #teacher/ajahn-sudhiro #teacher/ajahn-karunadhammo
+- **Detailed Transcripts & Timecodes**: [[2023 Thanksgiving Monastic Retreat - Q&A Transcripts]]
+- **Total Questions Cataloged**: 13
+
+| # | Timestamp | Question Preview |
+|---|---|---|
+| 1 | `00:00` | Never before seeing so many questions on the first day. I was thinking that I was trying to think of maybe a talk I coul... |
+| 2 | `09:03` | Well, one, this is another question or I might sidestep it a little bit. One thing with whatever we do with Dhamma practice, there's these different factors of stream entry is to practice Dhamma according to Dhamma, not Dhamma according to Me. |
+| 3 | `35:56` | way of reminding myself. Again, the way this question is asked is it's maybe a good way to hold everything is just knowing, just knowing, not necessarily like me in the center of the knowing mind, but just knowing. So a lot of the time, and this happens in the west, not |
+| 1 | `00:00` | Good afternoon. I'm very happy to be able to join in their treats this year. My name is Sudhiro and today I've been aske... |
+| 2 | `26:26` | pleasant and avoid the unpleasant and we miss what is in between. My question is what is in between and why are we missing it? Thank you. |
+| 1 | `00:00` | Okay, so again, quite a few here, some left over from yesterday and some piled on top. So I turned them upside down. See... |
+| 2 | `41:36` | are definitely directed to him, and I'll end up with one last question here in the last couple of minutes. How do you distinguish between perception, mental formation, mental inclination? |
+| 1 | `00:00` | I know about today, but at least from yesterday's address to me, so I'll just quickly answer those before we hand it ove... |
+| 2 | `39:26` | the question is what are some good questions to ask pain? Yeah, I mean I guess like, you know, is, you know, are you permanent? |
+| 1 | `00:00` | Okay, I'll just get started because there's a fair number of questions here. Is there any relationship between self-awar... |
+| 2 | `43:44` | That was probably the question from yesterday. One or four aggregates. What are these beings? |
+| 1 | `00:00` | Well, you have to answer the first question. Thank you for the nice Chigong practice, curious to how it was added to tha... |
+| ... | ... | *See [[2023 Thanksgiving Monastic Retreat - Q&A Transcripts]] for all 13 questions and answers.* |
+
+---
+
+### Anapanasati Retreat 1 & Viveka Q&A Clips — Questions & Answers
+
+- **Dates**: `2005`
+- **Teacher(s)**: Ajahn Pasanno, Ajahn Amaro, Viveka
+- **Tags**: #buddhism/abhayagiri #retreat/anapanasati #q-and-a #teacher/ajahn-pasanno #teacher/ajahn-amaro #meditation/anapanasati
 - **Detailed Transcripts & Timecodes**: [[Anapanasati Retreat 1 & Viveka - Q&A Transcripts]]
 - **Total Questions Cataloged**: 2
 
