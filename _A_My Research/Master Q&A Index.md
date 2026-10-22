@@ -51,6 +51,7 @@ Welcome to the centralized **Master Questions & Answers (Q&A) Index**. This arch
 | **Abhayagiri Monastic Retreats** | Theravada Forest Tradition (Ajahn Pasanno, Ajahn Amaro, Ajahn Karunadhammo) | 13 Retreats (2008–2023), SRMC & Angela Center recordings | **510 Qs** | [[_Abhayagiri/Abhayagiri Retreats Q&A - Master Index|Abhayagiri Master Index]] |
 | **MMTCP Podcasts Series** | Contemporary Mindfulness (Jack Kornfield, Tara Brach, Kristin Neff, Dan Siegel) | 22 Master Training Podcasts, Sounds True Audio Archive | **143 Qs** | [[_MMTCP Education/MMTCP Podcasts - Q&A Transcripts & Question Index|MMTCP Podcasts Q&A Index]] |
 | **MMTCP Live Broadcasts & AMAs** | Teacher Training Practicum (Jack Kornfield, Tara Brach, Zenju Manuel, Frank Ostaseski) | 17 Live Broadcast Replays & Student Consultations | **188 Qs** | [[_MMTCP Education/MMTCP Broadcast Replays & Live Q&A Sessions|MMTCP Live Broadcasts & AMAs]] |
+| **College of Marin & Sangha Q&A Queue** | Contemporary Mindfulness & Western Psychology (Tara Brach, William James, MMTCP) | Practical Student Inquiries, Attention, Habit Loops & Classroom Dialogues | **Core Inquiries** | [[_A_My Research/Meditation Teaching Q&A Queue - College of Marin & Living Mindfully|College of Marin Q&A Queue]] |
 | **All Collections Combined** | **Unified Dhamma & Mindfulness Research Vault** | **52 Complete Audio/Video Programs** | **841 Total Qs** | *(Current Central Master File)* |
 
 ---
