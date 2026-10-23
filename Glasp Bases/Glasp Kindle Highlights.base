@@ -1,6 +1,6 @@
 filters:
   and:
-    - 'file.inFolder("B_Book Markups/Kindle Book Notes")'
+    - 'file.inFolder("_A_My Research/_Book Markups & Highlights/Kindle Book Notes")'
     - 'file.ext == "md"'
 views:
   - type: table

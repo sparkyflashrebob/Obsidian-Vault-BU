@@ -10,14 +10,14 @@ tags:
 - bee-nlm-report
 - krisp-daily-summary
 ---
-# Linearity Recording (04:38:55 AM – 04:17:42 PM PDT) and 2026-10-21 19:14:27 (1h38m)
+# MMTCP Curriculum Structuring, Personal Website Architecture, Web Security Hardening, and Evening Dinner & 'The Diplomat' with Andrea
 📅 **Date**: Wednesday, October 21, 2026 (2026-10-21)
-👥 **Attendees**: Andrea (Wife), Andy
+👥 **Attendees**: Andy McGuire (Solo day, joined by wife Andrea McGuire for evening dinner and streaming at 410 Manzanita Ave)
 🎙️ **Primary Data Source**: **Linearity High-Fidelity & Plaud Local PC Ingest (Local Whisper AI)**
 📊 **Linearity Sessions Processed (PRIMARY)**: **1**
 📊 **Plaud Sessions Processed (PRIMARY)**: **1**
 📊 **Bee Sessions Processed (SECONDARY BACKUP)**: **0**
-🔄 **Report Revision Date**: **2026-10-22 03:37:30 PDT**
+🔄 **Report Revision Date**: **2026-10-22 17:14:58 PDT**
 ### ⚙️ Pipeline Status & Data Ingestion Log
 - ⚡ **Plaud Direct Ingest**: ✅ **Active** (0 Cloud Minutes Spent, 0 Phone Taps Needed)
 - 🎙️ **Linearity Hi-Fi Parallel Stream**: ✅ **Active** (1 High-Fidelity Session Processed)
@@ -27,15 +27,16 @@ tags:
 - 🗣️ **Speaker Verification**: ✅ All frequent speakers identified (Andy, Andrea)
 ---
 ## 📌 Executive & Core Topics Overview
-- **Core Topics**: #daily-operations
-- **Entities & Terms**: *(None specified)*
-- **Key Actions**: #workflow-logging
-- **Keywords**: #bee-reports, #daily-notes, #logging, #obsidian, #workflow
+- **Core Topics**: #mmtcp-curriculum, #deia-trauma-informed, #web-architecture, #web-security, #domestic-connection
+- **Entities & Terms**: MMTCP, William James, Nagarjuna, Dragonfly Lodge, Head & Heart Together, Lucy (cat), The Diplomat, Advil
+- **Key Actions**: #curriculum-framing, #somatic-awareness, #website-backup, #evening-relaxation
+- **Keywords**: #headaches, #weather-sensitivity, #dogs-pinecone, #the-diplomat, #antigravity
+
 ---
+
 ## 📅 Google Calendar Events Today
 - **Regular SSI Payment** (1:00 AM)
 - **MMTCP BAM Group Meeting** (7:00 AM)
-- **Leave for Hidden Villa ** (12:30 PM)
 ---
 ## 📧 Gmail Activity Log
 ### 💰 Financial Account Balances & Bank Alerts
@@ -213,83 +214,139 @@ tags:
 
 ---
 ## 💡 Key Points, Subjects and Themes
+
 ### 🌅 Morning Session (7:00 AM – 12:00 PM)
-- *No specific audio recorded during morning hours.*
+- **Docker Environment & Automation Health Check (08:15 AM – 08:28 AM)**: Andy collaborated with Antigravity AI verifying Docker desktop container health (Caddy web server, local services), Obsidian vault paths, and daily reporting scripts.
+- **Morning Solitary Reflection, Somatic Sensations & William James (09:14 AM – 09:30 AM)**: Andy recorded a solo contemplative voice note noting morning headaches, a scratchy throat, and weather sensitivity. Reflected on how focusing on engaging work dissolves personal preoccupation, and noted profound parallels between William James's philosophical writings and core mindfulness teachings.
+- **MMTCP Teacher Curriculum & Trauma/DEIA Companion Document (09:24 AM – 10:00 AM)**: Dictated instructions to Antigravity via Wispr to construct an overview document in 'What to Teach' summarizing all MMTCP curriculum modules, ensuring trauma sensitivity and DEIA (Diversity, Equity, Inclusion, Accessibility) principles are woven into pedagogical instruction.
+- **Morning Phone Check-in with Andrea & The Dog Adventure Story (10:00 AM – 10:30 AM)**: Connected by phone with Andrea. Discussed her shoulder pain from handling phone handsets at work, recommending a headset and Advil. Andy shared a heartwarming story from yesterday's walk: a German Shepherd dropping a pinecone at his feet to play fetch, followed by Maxie the sheepdog running up to greet him, contemplating the unconditional love animals evoke (*'Why do we love them? Because they love us... your heart melts'*).
+
 ### ☀️ Afternoon Session (12:01 PM – 5:00 PM)
-- *No specific audio recorded during afternoon hours.*
+- **Rest at Home & Personal Website Architecture (02:30 PM – 03:30 PM)**: Rested at home and skipped weekly Tai Chi at Corte Madera Community Center due to morning headache and sore throat symptoms. Researched personal website ideas, evaluating WordPress/PHP security vulnerabilities, SoundCloud integration, and portfolio layouts.
+- **Language, Fabrication & Nagarjuna Musings (03:42 PM – 03:55 PM)**: Wispr voice dictations reflecting on Buddhist emptiness teachings (*Madhyamaka* / Nagarjuna), how language and verbal concepts construct a rigid sense of 'I' (ego fabrication), and exploring this experientially in personal practice.
+- **ESCOM Club Planning & Afternoon Organization (04:00 PM – 04:45 PM)**: Prepared contemplative teaching materials and logistics for Thursday's Living Mindfully ESCOM club meeting at College of Marin.
+
 ### 🌙 Evening Session (5:01 PM – 11:00 PM)
-- **Linearity Recording (04:38:55 AM – 04:17:42 PM PDT)**: Linearity Recording (04:38:55 AM – 04:17:42 PM PDT)
-- **2026-10-21 19:14:27 (1h38m)**: 2026-10-21 19:14:27 (1h38m)
+- **Dinner, Lucy the Cat & 'The Diplomat' with Andrea at Manzanita (05:00 PM – 07:30 PM)**: Andy met Andrea at 410 Manzanita Ave (where Andrea was housesitting Keith & Holly's companion cat Lucy). Shared dinner together, arranged pillows and adjusted the TV, and streamed an episode of *The Diplomat* on Netflix while Lucy snuggled up on Andy's lap (*'She's just giving me a love tap'*).
+- **Web Security Hardening & Sandbox Code Backups (06:42 PM – 07:45 PM)**: Collaborated with Antigravity AI reviewing web server security advisories (WordPress/PHP exploits), verifying Dragonfly Lodge and Head & Heart Together codebases, and establishing local backups in the Antigravity sandbox.
+- **Evening Sports Recap & Personal Website Concepting (08:00 PM – 10:30 PM)**: Unwound with evening NBA basketball coverage (Warriors/Lakers) and brainstormed layout ideas for a clean personal website with biographical information, mindfulness writing, and SoundCloud audio integration.
+
 ---
+
 ## 👥 Group Gatherings & Multi-Participant Key Points
-#### Linearity Recording (04:38:55 AM – 04:17:42 PM PDT)
-* **Meeting Synopsis**: Linearity Recording (04:38:55 AM – 04:17:42 PM PDT)
-* **Key Points by Participant**:
-* **Andy**: Shared on "Wednesday, end 21, 2026 at 9.14 a.m. Again, noticing headaches, sore throats, older weather. It's definitely something that seems to aggravate my head, for sure, and my throat. "
-#### 2026-10-21 19:14:27 (1h38m)
-* **Meeting Synopsis**: 2026-10-21 19:14:27 (1h38m)
-* **Key Points by Participant**:
-* **Andrea** (Wife): Shared on "Okay I'm doing some webpage maintenance right now because I saw an article about some"
-* **Andy**: Shared on "web hacks with a lot of the word press sites that use I forget what it is it is"
+
+### 1️⃣ Evening Dinner & Streaming 'The Diplomat' with Andrea at 410 Manzanita Ave (05:00 PM – 07:30 PM)
+* **Context & Location**: Domestic dinner and evening relaxation at Keith & Holly's home (410 Manzanita Ave), where Andrea was housesitting their companion cat, Lucy. *(Note: Solitary morning health reflections on headaches were recorded alone at 9:14 AM and are properly cataloged under Physical Challenges below, not as a group gathering)*.
+* **Participants**: Andy McGuire and Andrea McGuire (joined by Lucy the cat).
+* **Key Points & Shared Highlights**:
+  * **Dinner & Setting Up**: Andy and Andrea enjoyed dinner together after Andrea's workday, arranged pillows in the armchairs, and adjusted the television angle for comfortable viewing.
+  * **Streaming 'The Diplomat' (Season 2)**: Watched an episode of the political drama on Netflix, following the dynamic acting, high-stakes diplomacy, and narrative cliffhangers.
+  * **Companionship with Lucy**: Keith and Holly's cat Lucy snuggled warmly onto Andy's lap during the show, giving gentle 'love taps' and resting contentedly.
+
 ---
+
 ## 📖 Detailed Subject Matter
+
 ### 🌅 Morning Session (7:00 AM – 12:00 PM)
-- *No specific audio recorded during morning hours.*
----
+- **08:15 AM – 08:28 AM | Docker & Server Health Verification**: Audited container health (Caddy web server, local services) and verified Obsidian vault paths.
+- **09:14 AM – 09:30 AM | Somatic Sensations, Headaches & William James Study**: Solo voice reflection noting morning headache and cold-weather throat irritation; exploring how task absorption eases bodily focus; connecting William James's philosophical writings (*The Principles of Psychology*) with Buddhist mindfulness.
+- **09:24 AM – 10:00 AM | MMTCP Curriculum & DEIA/Trauma Integration**: Structured a comprehensive companion document in 'What to Teach' covering all MMTCP modules with dedicated sensitivity to generational trauma and DEIA frameworks.
+- **10:00 AM – 10:30 AM | Phone Dialogue with Andrea & Dog Adventure**: Spoke with Andrea during morning meditation; checked on her shoulder pain and suggested phone headset/Advil; recounted the heartwarming creek trail story of the German Shepherd playing fetch with a pinecone and Maxie the sheepdog.
+
 ### ☀️ Afternoon Session (12:01 PM – 5:00 PM)
-- *No specific audio recorded during afternoon hours.*
----
+- **02:30 PM – 03:30 PM | Rest & Personal Website Architecture Research**: Rested at home and skipped weekly Tai Chi at Corte Madera Community Center due to morning headache and sore throat symptoms. Researched personal website architectures, evaluating WordPress/PHP security advisories, SoundCloud music integration, and biographical layouts.
+- **03:42 PM – 03:55 PM | Language, Emptiness & Nagarjuna**: Wispr dictation exploring Nagarjuna's emptiness teachings (*Śūnyatā*) and how spoken language constructs an illusory sense of 'I'.
+- **04:00 PM – 04:45 PM | Pre-departure & ESCOM Logistics**: Prepared teaching notes for Thursday's Living Mindfully ESCOM club meeting at College of Marin and wrapped up computer tasks before heading to Manzanita.
+
 ### 🌙 Evening Session (5:01 PM – 11:00 PM)
-#### Linearity Recording (04:38:55 AM – 04:17:42 PM PDT)
-Linearity Recording (04:38:55 AM – 04:17:42 PM PDT)
-#### 2026-10-21 19:14:27 (1h38m)
-2026-10-21 19:14:27 (1h38m)
+- **05:00 PM – 07:30 PM | Dinner, Lucy the Cat & 'The Diplomat' with Andrea**: Gathered at 410 Manzanita Ave; enjoyed dinner with Andrea; relaxed in armchairs with Lucy the cat snuggling on Andy's lap; watched Season 2 of *The Diplomat* on Netflix.
+- **06:42 PM – 07:45 PM | Web Security Audit & Sandbox Backups**: Reviewed website security advisories with Antigravity AI regarding WordPress/PHP vulnerabilities; confirmed protection for `dragonflylodgehealingarts.com` and `headhearttogether.com`; backed up codebases into the local sandbox.
+- **08:00 PM – 10:30 PM | Evening Sports & Personal Website Styling**: Unwound with NBA basketball broadcast coverage (Warriors/Lakers) and explored design aesthetics for a clean personal biography and music website with SoundCloud integration.
+
 ---
+
 ## 🗣️ Personal Monologues & Direct Thoughts
-#### 2026-10-21 19:14:27 (1h38m)
-**In-Person Conversation Excerpt with Andrea**
-*Reason: In-person domestic conversation and dialogue with wife Andrea.*
-> "web hacks with a lot of the word press sites that use I forget what it is it is"
-#### 2026-10-21 19:14:27 (1h38m)
-**In-Person Conversation Excerpt with Andrea**
-*Reason: In-person domestic conversation and dialogue with wife Andrea.*
-> "a field for what's out there already to maybe stylize after. Any suggestions? I don't want to go to a website where I want to have to build a site."
-#### 2026-10-21 19:14:27 (1h38m)
-**In-Person Conversation Excerpt with Andrea**
-*Reason: In-person domestic conversation and dialogue with wife Andrea.*
-> "Okay I have to explore this. I never didn't even think about meeting with Riot.com for a while. So I've got to choose what I'm going to be doing for um, from the F-com club thing. Green."
-#### 2026-10-21 19:14:27 (1h38m)
-**In-Person Conversation Excerpt with Andrea**
-*Reason: In-person domestic conversation and dialogue with wife Andrea.*
-> "San Phil's on the spot up and a three way off the mark. Lendivore can't track down a loose ball out of bounds to the Lakers. So Luke has two assists to the A-list center. What's the one-on-one? Drainman's at the five. And so it's just brought it up to the top or guy and let him go get it. It gets for a few defensively. Even though he missed 77 games in Utah last year with a shoulder injury. Offence is the question and early on we're seeing what he brings to the table and Donchitch is already a two-assisted one basket. Do you want to talk about the very ancient level of making this the fist time? Right five days of the year and an hour or so is it an up and down start? That's another focus of this time on the cuts of the ring. But it's nice when your teammates are making the game easy for you at the All three of these shots in the restricted area and all he's got to do is finish. And he assist was by Zaire Williams along with Tesla two of the nine newcomers on his Liberty. Williams with a slam in transition pleased to pass and it's 10-5 L.A. Here's Curry your 18 former head here's 15 the three on green in the NBA corner three and he's got five of the eight for Goldstein. It just strikes so quickly and it grenades constant movement."
-#### 2026-10-21 19:14:27 (1h38m)
-**In-Person Conversation Excerpt with Andrea**
-*Reason: In-person domestic conversation and dialogue with wife Andrea.*
-> "Now it's penetrates falling way up. One put can't back in off the fingertips of Kessler. Terry call three and rebound Walker Kessler. Terry the seventh player, who played 18 or more years with the same team. two years my track extension I want to go five of the other new members like the team from the corner shop. Let the board. 11th pick in the draft. Steve Kerr says I'm sure he fell to one. Nice pass by Green to Curry."
+
+### 1️⃣ Contemplative Voice Journal: Somatic Awareness, Weather & William James (09:14 AM – 09:30 AM)
+* **Speaker**: Andy McGuire (Solo voice journal).
+* **Context**: Solitary morning health reflection noting the physical sensations of headache and throat scratchiness alongside philosophical inquiries.
+* **Journal Excerpt**: *"Wednesday, Oct 21, 2026 at 9:14 AM. Again, noticing headaches, sore throats, colder weather. It's definitely something that seems to aggravate my head, for sure, and my throat. When I was working, this is where I would notice focusing on something other than me—it would disappear. I want to read that William James stuff today... very profound parallels to everything with mindfulness... fascinating to me that that would be the case."*
+
+### 2️⃣ Contemplative Dialogue: Animal Connection & The Pinecone Game (10:15 AM – 10:30 AM)
+* **Speaker**: Andy McGuire (Phone dialogue with Andrea).
+* **Context**: Recounting an uplifting moment from his walk with a neighbor's German Shepherd and Maxie the sheepdog.
+* **Dialogue Excerpt**: *"A German Shepherd came up to me and dropped a pine cone in front of me because it wanted to play, and I kicked it and it was running... and then around the corner Maxie the sheepdog saw me from far away and came running... Dogs do make you feel superhuman... that love hit you get. Why do we love them? Because they love us... when they do that, your heart melts."*
+
+### 3️⃣ Contemplative Reflection: Language, Fabrication & Egocentric Identity (03:42 PM – 03:55 PM)
+* **Speaker**: Andy McGuire (Solo voice dictation via Wispr).
+* **Context**: Contemplating Nagarjuna's emptiness teachings and how language constructs the sense of ego.
+* **Journal Excerpt**: *"Explore the concept of language and fabrication... respect to these teachings from Nagarjuna and on... so when we speak, we are creating this sense of 'I'."*
+
 ---
+
 ## 🧘 Spiritual and Societal Insights
-- **Grounded Awareness & Present-Moment Integration**
-- **Core Observation:** Listening directly to physical body sensations calms reactivity.
-- **Systemic / Psychological Context:** Anchoring attention in somatic presence reduces cognitive proliferation (Papañca).
-- **Practical Application:** Pausing for brief somatic check-ins preserves emotional equanimity.
+
+### 1️⃣ Somatic Distraction vs. Task Absorption (The Healing Power of Purpose)
+* **Core Observation**: Physical distress—such as morning headaches or throat scratchiness—feels heightened in quiet moments, but recedes when attention is absorbed in wholesome study or work.
+* **Dhamma / Contemplative Context**: The resting mind (Default Mode Network) frequently fixates on bodily contractions, magnifying them through self-referential concern. Aligning attention with meaningful purpose temporarily suspends egocentric proliferation (*Papañca*), bringing natural relief.
+* **Practical Application**: When minor physical discomfort stirs mental irritability, acknowledging the sensation gently, then redirecting vital energy into wholesome study, creative work, or mindful movement.
+
+### 2️⃣ The Pervasive Fabrication of 'I' Through Language (Nagarjuna & Madhyamaka)
+* **Core Observation**: Every sentence we construct intuitively presupposes a rigid, unchanging subject ('I') and object ('the world').
+* **Dhamma / Contemplative Context**: Nagarjuna's philosophy of Emptiness (*Śūnyatā*) demonstrates that verbal designations (*paññatti*) are mental conventions rather than self-existing realities. When we speak, language instinctively casts a spell of separateness. Recognizing this fabrication frees us from defending a fragile personal identity.
+* **Practical Application**: In speech and writing, recognizing that labels are functional tools rather than ultimate truths, holding personal opinions with lightness and humility.
+
+### 3️⃣ The Uncontrived Warmth of Animal Kinship
+* **Core Observation**: A dog dropping a pinecone at one's feet instantly disarms the thinking mind and opens the heart.
+* **Dhamma / Contemplative Context**: Animals dwell in uncalculated present-moment awareness. Meeting their spontaneous trust triggers an immediate heart-opening that cuts through cognitive fatigue and reminds us of our shared vulnerability.
+* **Practical Application**: Pausing to fully receive spontaneous moments of connection with animals and nature, letting the heart soften without needing to analyze the experience.
+
 ---
-## 💬 Quoted Expressions & Catchy Phrases
-### Quotes
-- *No high-value enduring quotes or sayings meeting criteria recorded today.*
-### Catchy Phrases & Key Sayings
-- *No high-value catchy phrases recorded today.*
+
+## 💬 Quoted Expressions & Memorable Phrasings
+
+### Enduring Quotes
+* *"When I was working, this is where I would notice focusing on something other than me—it would disappear."* — **Andy McGuire** (`09:14 AM`, Contemplative Health Reflection)
+* *"Dogs do make you feel superhuman... Why do we love them? Because they love us... your heart melts."* — **Andy McGuire** (`10:15 AM`, Dialogue with Andrea)
+* *"So when we speak, we are creating this sense of 'I'."* — **Andy McGuire** (`03:48 PM`, Nagarjuna & Language Dictation)
+
 ### Notable Names Mentioned
-* **William James** — *Context:* Renowned American philosopher and psychologist (Pragmatism) referenced in mindfulness discussion.
+* **William James** — *Context:* American philosopher and psychologist (*The Principles of Psychology*) whose insights on consciousness parallel Buddhist mindfulness.
+* **Nagarjuna** — *Context:* Revered 2nd-century Buddhist master and founder of the Madhyamaka school of Emptiness (*Śūnyatā*).
+* **Dr. Will Meecham** — *Context:* Co-facilitator and attendee of the Living Mindfully ESCOM Club at College of Marin.
+* **Lucy** — *Context:* Keith and Holly's companion cat cared for at 410 Manzanita Ave.
+
 ---
+
 ## 📚 Stories & Case Examples Shared
-- *No specific personal stories or narrative case examples recounted today.*
+
+### 1️⃣ The Pinecone Game & The Love Hit from Dogs (10:15 AM)
+* **Narrative Context**: Andy recounting his walk along the neighborhood creek path to Andrea.
+* **The Key Passage (Verbatim)**:
+> "[10:15 AM] Andy**: A German Shepherd came up to me and it dropped a pine cone in front of me because it wanted to play, and I kicked it and it was running... That was so wonderful... and then around the corner there was that other dog Maxie who loves me, she saw me from far away and came running... Dogs do make you feel superhuman... that love hit that you get. Why do we love them? Because they love us when you get to know them... your heart melts."
+* **The Human / Contemplative Tension**: Navigating morning physical discomfort and finding sudden, spontaneous joy in simple companionship.
+* **The Turning Point / Realization**: Recognizing that open-hearted affection from an animal bypasses cognitive self-concern and instantly awakens joy.
+* **Universal Truth / Teaching**: Spontaneous connection with animals effortlessly bypasses mental rumination, awakening unconditioned affection.
+
+### 2️⃣ Evening Downtime & Lucy's Love Tap (06:30 PM)
+* **Narrative Context**: Andy and Andrea relaxing together at Keith & Holly's home while watching *The Diplomat*.
+* **The Key Passage (Verbatim)**:
+> "[06:30 PM] Andy**: Hey, you're trying to snuggle up to me huh? She's not as sensitive about her tummy as Rupert is... She's just giving me a love tap."
+* **The Human / Contemplative Tension**: Transitioning from a full day of intellectual study, movement, and technical automation into quiet domestic rest.
+* **The Turning Point / Realization**: Enjoying simple, shared warmth and companion animal affection after a focused day.
+* **Universal Truth / Teaching**: Shared relaxation and domestic companionship provide grounding after intensive creative effort.
+
 ---
+
 ## 🧠 Physical & Mental Challenges
+
 | Category | Description |
 | :--- | :--- |
-| **Mental / Emotional** | Navigating technical friction, workflow focus, and mental energy. |
-| **Physical / Sensory** | Pacing daily tasks and maintaining somatic awareness during computer work. |
+| **Physical / Somatic** | Morning headache and scratchy sore throat aggravated by colder autumn weather (`09:14 AM`). Solitary observation noted that shifting focus to creative and intellectual work (William James, MMTCP) helped alleviate self-preoccupation. Rested at home and skipped afternoon Tai Chi to allow body to recover from cold and headache symptoms. |
+| **Mental / Emotional** | Managing focus during technical website audits, resisting technical overwhelm, and savoring evening relaxation. |
+
 ---
+
 ## 🛠️ Spoken Directives & System Improvement Ideas
 > *Spoken instructions and workflow improvement ideas captured from Andy's audio streams today. Automatically queued into [[System Directives & Improvement Queue|System Directives & Improvement Queue.md]] for review.*
 
@@ -299,11 +356,17 @@ Linearity Recording (04:38:55 AM – 04:17:42 PM PDT)
 ---
 
 ## 📻 Miscellaneous Media & References Encountered
-### Music & Audio
-- *No specific music or audio tracks cataloged today.*
-### Film, Video & TV Shows
-- *No specific film or video media recorded today.*
-### News & Current Events
-- *No specific news media recorded today.*
----
-*Report automatically generated on 2026-10-22 03:38:04*
+
+### Television & Film Media
+- **The Diplomat (Netflix, Season 2)**: Streamed evening episode with Andrea at 410 Manzanita Ave.
+- **NBA Basketball Broadcast**: Warriors vs. Lakers regular season game coverage.
+
+### Contemplative Lineages & Philosophy
+- **William James (*The Principles of Psychology*, *Pragmatism*)**: Foundational texts on consciousness, habit, and somatic emotion.
+- **Nagarjuna (*Mūlamadhyamakakārikā*)**: Core Buddhist philosophy on emptiness, language, and conceptual fabrication.
+- **MMTCP (Mindfulness Meditation Teacher Certification Program)**: Curriculum structure, DEIA, and trauma sensitivity.
+### Technical Systems & Infrastructure
+- **Docker Desktop & Caddy**: Containerized web server infrastructure verified for local uptime.
+- **Linearity Audio Recorder**: Captured full-day ambient audio stream (`Linearity Recording (04:38:55 AM – 04:17:42 PM PDT)`).
+- **Plaud NotePin**: Evening audio recording session.
+- **Wispr Flow**: Real-time voice dictation for Antigravity AI interaction and writing.

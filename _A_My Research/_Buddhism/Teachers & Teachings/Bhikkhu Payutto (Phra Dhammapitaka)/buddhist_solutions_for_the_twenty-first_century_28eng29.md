@@ -1,0 +1,40 @@
+---
+title: "buddhist solutions for the twenty first century 28eng29"
+author: "Bhikkhu Payutto (Phra Dhammapitaka)"
+tags:
+  - buddhism
+  - dharma
+  - bhikkhu-payutto-phra-dhammapitaka
+category: Buddhism & Dhamma Teachings
+format: PDF Book / Dhamma Monograph
+pdf_link: "[[buddhist_solutions_for_the_twenty-first_century_28eng29.pdf]]"
+---
+
+# buddhist solutions for the twenty first century 28eng29
+### By Bhikkhu Payutto (Phra Dhammapitaka)
+
+---
+
+## Embedded Book Reader
+![[buddhist_solutions_for_the_twenty-first_century_28eng29.pdf]]
+
+---
+
+## Book Overview & Core Insights
+- **Teaching Focus**: 
+- **Central Themes**: 
+
+---
+
+## Notable Quotes & Citations
+*(Use PDF++ to highlight passages in the reader above and copy citations here with page links)*
+- 
+
+---
+
+## Practice, Teaching & Writing Connections
+- **The Two Wings of Practice**: 
+- **The Two Arrows (Sallatha Sutta)**: 
+- **Conditionality (Idappaccayatā) & Somatic Awareness**: 
+- **Talk & Blog Applications**: 
+- **Related Vault Notes**: 

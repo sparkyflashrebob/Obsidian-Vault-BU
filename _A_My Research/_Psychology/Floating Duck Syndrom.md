@@ -1,1 +1,0 @@
-https://www.psychologytoday.com/us/blog/social-instincts/202404/the-causes-and-effects-of-floating-duck-syndrome

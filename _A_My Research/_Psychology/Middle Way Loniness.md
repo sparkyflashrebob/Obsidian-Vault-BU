@@ -1,1 +1,0 @@
-https://www.psychologytoday.com/us/blog/sexual-mindfulness/202404/the-middle-way-how-mindfulness-can-address-loneliness

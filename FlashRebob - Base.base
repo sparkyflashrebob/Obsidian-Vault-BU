@@ -18,14 +18,13 @@ views:
       - property: file.folder
         direction: ASC
     columnSize:
-      file.name: 556
-      file.folder: 754
+      file.name: 491
+      file.folder: 414
       file.tags: 73
-      note.author: 65
-      note.created: 49
+      note.Author: 120
       "note.Dates:": 75
       note.updated: 57
-      note.title: 46
+      note.title: 81
       note.tag: 52
   - type: list
     name: View
