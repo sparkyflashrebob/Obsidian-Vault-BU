@@ -1,3 +1,8 @@
+> [!NOTE] Architecture Update (October 2026)
+> This document outlines the initial August 2026 mobile Tasker prototype. The production pipeline has since migrated to direct unencrypted S3 synchronization (`@plaud-ai/cli`), `faster-whisper` (int8 with Silero VAD), and integrates with the **Yescool A2 Linear** (`G:\Yescool A2 Linear Recordings`), **Elasound NZ007** (`G:\Elasound NZ007 Recordings`), and **Wispr Flow**.
+> 
+> For the current production architecture and schedule, see: [[Master Audio Pipeline & Daily Note Architecture (October 2026)]].
+
 # Plaud NotePin Automated Voice Archiving & Daily Processing System
 
 ## Executive Summary

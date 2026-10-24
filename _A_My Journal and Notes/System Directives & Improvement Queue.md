@@ -1,21 +1,11 @@
 # 📋 System Directives & Improvement Queue
 
-> **Overview**: This queue aggregates spoken instructions, workflow directives, feature requests, and system improvement ideas captured from Andy's daily recordings (Linearity & Plaud).
-> Items are automatically stacked here during daily transcription runs for review and implementation in Antigravity pair programming sessions.
+> **Overview**: This queue aggregates prospective spoken instructions, workflow directives, feature requests, and system improvement ideas captured from Andy's analog ambient mics (**Linearity / Yescool A2**, **Plaud NotePin**, and **Elasound NZ007**).
+> Its true purpose is to catch verbal thoughts, feature ideas, and pipeline improvements spoken aloud while out and about—distinct from direct Antigravity prompts and Wispr Flow entries—and stack them here automatically for review and implementation in pair programming sessions.
 
 ---
 
 ## 📥 Pending Review & Implementation
-
-- [ ] **[2026-10-22 11:55 AM - Linearity] Workflow improvement / instruction suggestion**:
-  > *"I was just like so I was like very cynical about that article but there is some truth to No, why you say that? Because I actually was updating all of my, I had anangravity. So through the years, I've been emailing myself psychology today..."*
-  - **Status**: Pending Review
-
-
-- [ ] **[2026-10-21 04:38 AM - Linearity] Audio storage / retention policy directive**:
-  > *"Wednesday, end 21, 2026 at 9.14 a.m. Again, noticing headaches, sore throats, older weather. It's definitely something that seems to aggravate, aggravate my head, for sure, and my throat. When I was working, this is where I would notice focusing on something other than me...."*
-  - **Status**: Pending Review
-
 
 - [ ] **[2026-10-21 12:15 PM - Pair Programming Session] William James Attention & Habit Integration Directive**:
   - **Source Talk**: *"The Most Important Skill a Human Can Develop -- William James"* (Philosophy Is Timeless)

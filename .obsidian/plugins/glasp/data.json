@@ -9,15 +9,15 @@
   "summaryTemplate": "",
   "bookmarkTemplate": "",
   "summaryIncludeContent": false,
-  "lastUpdated": "2026-10-22T19:28:10.386Z",
+  "lastUpdated": "2026-10-23T19:28:01.085Z",
   "kindleLastUpdated": "",
-  "summaryLastUpdated": "2026-10-22T19:28:15.242Z",
-  "bookmarkLastUpdated": "2026-10-22T19:28:15.513Z",
+  "summaryLastUpdated": "2026-10-23T19:28:09.134Z",
+  "bookmarkLastUpdated": "2026-10-23T19:28:09.427Z",
   "updateFrequency": "1440",
   "basesCreated": {
-    "Glasp Web Highlights.base": "_A_My Research",
-    "Glasp Kindle Highlights.base": "B_Book Markups/Kindle Book Notes",
-    "Glasp Summaries.base": "_A_My Research",
-    "Glasp Bookmarks.base": "B_Book Markups"
+    "Glasp Web Highlights.base": "_A_My Research/_Book Markups & Highlights/Kindle Glasp Sync",
+    "Glasp Kindle Highlights.base": "_A_My Research/_Book Markups & Highlights/Kindle Glasp Sync",
+    "Glasp Summaries.base": "_A_My Research/_Book Markups & Highlights/Kindle Glasp Sync",
+    "Glasp Bookmarks.base": "_A_My Research/_Book Markups & Highlights/Kindle Glasp Sync"
   }
 }

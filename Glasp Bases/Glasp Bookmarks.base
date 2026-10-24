@@ -1,6 +1,6 @@
 filters:
   and:
-    - 'file.inFolder("_A_My Research/_Book Markups & Highlights")'
+    - 'file.inFolder("_A_My Research/_Book Markups & Highlights/Kindle Glasp Sync")'
     - 'file.ext == "md"'
 views:
   - type: table
