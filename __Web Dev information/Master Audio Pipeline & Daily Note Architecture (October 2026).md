@@ -71,8 +71,9 @@ The automated pipeline executes daily via Windows Task Scheduler (`PlaudMasterDa
 flowchart TD
     Start["⏰ 3:00 AM Scheduled Trigger"] --> Step1["1. batch_sync_all_days.py --days 7<br/>(Smart verification; transcribes new Plaud audio via faster-whisper)"]
     Step1 --> Step2["2. linear_audio_processor.py<br/>(Scans G:\Yescool A2 Linear Recordings for pending WAVs)"]
-    Step2 --> Step3["3. generate_unified_daily_report.py<br/>(Synthesizes Calendar, Gmail Finance, Google Health & Multi-source Transcripts)"]
-    Step3 --> Step4["4. audio_archival_utility.py --days 7<br/>(Converts Linear WAVs older than 7 days to MP3 Archives)"]
+    Step2 --> Step3["3. generate_unified_daily_report.py<br/>(Assembles Calendar, Gmail Finance, Google Health & Multi-source Transcripts)"]
+    Step3 --> Step3b["3b. llm_daily_synthesizer.py<br/>(Deep Krisp-style LLM synthesis via Gemini API: Key Points, Detailed Narrative, Contemplative Insights)"]
+    Step3b --> Step4["4. audio_archival_utility.py --days 7<br/>(Converts Linear WAVs older than 7 days to MP3 Archives)"]
     Step4 --> Done["✅ Master Daily Note Complete in Obsidian Vault"]
 ```
 

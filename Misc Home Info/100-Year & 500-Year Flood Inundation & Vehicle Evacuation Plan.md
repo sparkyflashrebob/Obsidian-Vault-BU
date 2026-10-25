@@ -38,7 +38,7 @@ To ensure vehicles remain 100% dry and operational, parking locations must meet 
 
 | Rank & Location | Elevation (NAVD88) | Distance from Home | Walking Return Time | Safety Clearance Above 100-Yr Flood | Parking Availability & Notes |
 | :--- | :---: | :---: | :---: | :---: | :--- |
-| **1. Primary: Upper Doherty Drive @ Magnolia Ave** | **80.6 ft** | **0.25 miles** | **~4 minutes** | **+70.6 ft clearance** | Curbside street parking along Doherty Dr approaching Magnolia. Closest and highest direct option. |
+| **1. Primary Designated: Public Lot @ Magnolia Ave & Doherty Dr (By Gas Station)** | **52.0 – 80.6 ft** | **0.25 miles** | **~4 minutes** | **+42.0 to +70.6 ft clearance** | **Designated Primary Extreme Flooding Lot.** Off-street public parking stalls adjacent to the gas station at the corner of Magnolia and Doherty. 40 to 70 ft above the 100-year (10.0 ft) and 500-year (11.5 ft) flood lines. |
 | **2. Downtown: Magnolia Ave @ Ward St (City Hall Lot)** | **25.0 – 39.0 ft** | **0.40 miles** | **~8 minutes** | **+15.0 to +29.0 ft clearance** | Plentiful public municipal parking lots and street spaces near Larkspur Library & Town Hall. |
 | **3. Foothill Streets: Heather Way & William Ave** | **130.0 – 160.0 ft** | **0.35 miles** | **~7 minutes** | **+120.0+ ft clearance** | Quiet residential hillside streets off Magnolia Avenue with ample dry curb space. |
 | **4. North Option: Creekside Dr High Turnaround** | **14.6 ft** | **0.15 miles** | **~3 minutes** | **+4.6 ft clearance** | Safe for 100-year flood (+4.6 ft), but marginal for a 500-year flood (+3.1 ft). |
