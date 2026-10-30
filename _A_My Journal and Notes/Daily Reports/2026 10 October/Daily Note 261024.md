@@ -31,18 +31,18 @@ tags:
 ## 📌 Executive & Core Topics Overview
 
 ### Core Topics
-- **Family Healing & Welcoming Newborn Gago**: Monumental evening hospital visit to Queen of the Valley Hospital in Napa to visit stepdaughter Kiera and her boyfriend Hike, welcoming their newborn son **Gago** (born Oct 23, 2026 at 1:00 PM). Meeting Hike in a loving, compassionate space that dissolved long-standing barriers across the core family.
+- **Family Healing & Welcoming Newborn Gago**: Monumental evening hospital visit to Queen of the Valley Hospital in Napa to visit stepdaughter Kiera and her boyfriend Hayk, welcoming their newborn son **Gago** (short name; born Oct 23, 2026 at 1:00 PM). Meeting Hayk in a loving, compassionate space that dissolved long-standing barriers across the core family.
 - **Fatherhood & Relational Renewal**: Reflected deeply on how fatherhood shifted life from self-absorption into purposeful care ("the world became bigger than just me"), and affirmed with Andrea the beauty of working through misunderstandings with mutual trust.
 - **Flood Preparedness & Elevation Mapping**: Close coordination with Patrick Hickey and Andrea analyzing USGS 3DEP 1-meter bare-earth elevations, King Tide benchmarks, and designating safe parking zones at Lucky's.
 - **Audio Recording Ecosystem & Sovereignty**: In-field evaluation of the Yescool A2, Elasound NZ007, and Linearity recorders, alongside continuing commitment to local Markdown documentation and data sovereignty.
 
 ### Entities & Terms
-- **People**: Andy McGuire, Andrea Axtell, Kiera, Hike (boyfriend), newborn baby boy Gago, Katie (ex-wife, mother of Kiera, Ryan, and stepson Duncan), Ryan, Duncan & Julia, Patrick Hickey, Keith & Holly.
+- **People**: Andy McGuire, Andrea Axtell, Kiera, Hayk (boyfriend), newborn baby boy Gago, Katie (ex-wife, mother of Kiera, Ryan, and stepson Duncan), Ryan, Duncan & Julia, Patrick Hickey, Keith & Holly.
 - **Locations & Facilities**: Queen of the Valley Hospital (Napa, CA), 410 Manzanita Ave, Corte Madera Creek, Lucky parking lot, Magnolia & Doherty intersection.
 - **Hardware & Technology**: Linearity Recorder (Yescool A2), Elasound NZ007, Plaud NotePin, Wispr Flow, USGS 3DEP LiDAR Elevation, Google Earth / GPS metadata.
 
 ### Key Actions
-- Visited Queen of the Valley Hospital in Napa with Andrea; met Hike with openhearted warmth and compassionate presence, holding and burping baby Gago.
+- Visited Queen of the Valley Hospital in Napa with Andrea; met Hayk with openhearted warmth and compassionate presence, holding and burping baby Gago.
 - Shared GPS-derived bare-earth elevation data and King Tide flood maps with Patrick Hickey and Andrea.
 - Conducted in-depth evaluation of voice activation and battery endurance across portable recording units.
 - Documented key operational principles: restricting news logging strictly to spoken discourse rather than unread briefing emails.
@@ -245,8 +245,8 @@ tags:
 
 ### 🌙 Evening Session (04:31 PM – 10:30 PM)
 - **[05:30 PM – 06:00 PM] Shared Dinner en Route**: Stopped together with Andrea for dinner in Vallejo before heading to the hospital, enjoying connected conversation.
-- **[06:00 PM – 07:35 PM] Hospital Visit: Welcoming Baby Gago & Meeting Hike**: Warm, monumental family visit at Queen of the Valley Hospital with stepdaughter Kiera, her boyfriend Hike, and their newborn son Gago (born Oct 23 at 1:00 PM). Met Hike in a loving, compassionate way that melted prior barriers; heard Kiera's dramatic labor story; held and burped baby Gago; celebrated with family including daughter Ryan and ex-wife Katie.
-- **[07:45 PM – 08:30 PM] Evening Drive Reflections with Andrea**: Traveled home reflecting deeply on the healing nature of the visit, the joy of connecting with Hike, and the strength of working through relational misunderstandings with patience and mutual trust.
+- **[06:00 PM – 07:35 PM] Hospital Visit: Welcoming Baby Gago & Meeting Hayk**: Warm, monumental family visit at Queen of the Valley Hospital with stepdaughter Kiera, her boyfriend Hayk, and their newborn son Gago (born Oct 23 at 1:00 PM). Met Hayk in a loving, compassionate way that melted prior barriers; heard Kiera's dramatic labor story; held and burped baby Gago; celebrated with family including daughter Ryan and ex-wife Katie.
+- **[07:45 PM – 08:30 PM] Evening Drive Reflections with Andrea**: Traveled home reflecting deeply on the healing nature of the visit, the joy of connecting with Hayk, and the strength of working through relational misunderstandings with patience and mutual trust.
 
 ---
 
@@ -254,13 +254,13 @@ tags:
 
 ### 1️⃣ Hospital Visit: Welcoming Baby Gago & Deep Family Healing (06:00 PM – 07:35 PM)
 - **Setting**: Queen of the Valley Hospital, Maternity Ward, Napa, CA.
-- **Participants**: Andy, Andrea (wife), Kiera (stepdaughter), Hike (Kiera's boyfriend), Baby Gago (newborn son, born 10/23/2026 at 1:00 PM), with connections to Ryan (daughter) and Katie (ex-wife, mother of Kiera, Ryan, and stepson Duncan).
-- **Meeting Synopsis**: A deeply meaningful, monumental gathering celebrating the birth of baby boy Gago. Meeting Hike for the first time in an atmosphere of warmth, mutual respect, and unconditional love, melting past hesitations and creating an enduring bond across the core family.
+- **Participants**: Andy, Andrea (wife), Kiera (stepdaughter), Hayk (Kiera's boyfriend), Baby Gago (short name; newborn son, born 10/23/2026 at 1:00 PM), with connections to Ryan (daughter) and Katie (ex-wife, mother of Kiera, Ryan, and stepson Duncan).
+- **Meeting Synopsis**: A deeply meaningful, monumental gathering celebrating the birth of baby boy Gago. Meeting Hayk for the first time in an atmosphere of warmth, mutual respect, and unconditional love, melting past hesitations and creating an enduring bond across the core family.
 - **Key Points by Participant**:
   - **Kiera**: Recounted waking up at 4:00 AM with intense cramps that she initially suspected were food poisoning; arrived at the hospital later that morning only to learn she was already fully dilated and ready for delivery.
-  - **Hike**: Shared loving, dedicated presence as a new father, actively engaged in caring for Gago, showing natural parenting instincts and receiving heartfelt warmth and welcome from Andy and Andrea.
+  - **Hayk**: Shared loving, dedicated presence as a new father, actively engaged in caring for Gago, showing natural parenting instincts and receiving heartfelt warmth and welcome from Andy and Andrea.
   - **Andy**: Held newborn Gago against his chest, helped with gentle burping, and shared heartfelt reflections on how transitioning into fatherhood fundamentally expanded his world from self-absorption into grounded love and purpose.
-  - **Andrea**: Offered warm, grounding domestic support, shared in the joy of welcoming Gago, and bonded with Kiera, Hike, and the family.
+  - **Andrea**: Offered warm, grounding domestic support, shared in the joy of welcoming Gago, and bonded with Kiera, Hayk, and the family.
 
 ### 2️⃣ Flood Preparedness Collaboration with Patrick Hickey (11:55 AM – 12:26 PM)
 - **Participants**: Andy McGuire, Patrick Hickey, Andrea Axtell.
@@ -277,9 +277,9 @@ The morning began with solitary reflection at 410 Manzanita Ave. Reviewing workf
 As midday approached, attention turned to community stewardship and seasonal preparedness. Partnering with neighbor Patrick Hickey, Andy synthesized camera GPS metadata and USGS LiDAR datasets into an elevation transect running from Corte Madera Creek inland to Magnolia Avenue. By cross-referencing street crown and curb heights, they mapped out realistic inundation risks for the upcoming King Tide sequence, identifying designated safe parking areas at Lucky's lot. Later in the afternoon, Andy explored recording equipment options, comparing the lightweight, wearable form factor of the Linearity Yescool unit with voice-activated alternatives to ensure long-term ease of use.
 
 ### 🌙 Evening Session: Welcoming New Life & Monumental Family Healing
-The evening marked a deeply monumental milestone for Andy's core inner family. Driving north to Napa with Andrea, they arrived at Queen of the Valley Hospital to visit stepdaughter Kiera and her boyfriend Hike, welcoming their newborn son, Gago (born October 23 at 1:00 PM). 
+The evening marked a deeply monumental milestone for Andy's core inner family. Driving north to Napa with Andrea, they arrived at Queen of the Valley Hospital to visit stepdaughter Kiera and her boyfriend Hayk, welcoming their newborn son, Gago (born October 23 at 1:00 PM). 
 
-Meeting Hike in person in an atmosphere saturated with genuine love, acceptance, and compassion broke through previous emotional walls, forging an immediate and heartfelt bond. Kiera shared her dramatic labor journey—waking before dawn with cramps she initially attributed to bad food, enduring regular contractions with steady composure until hospital staff confirmed full dilation. Andy took immense joy in holding newborn Gago next to his heart, helping him burp, and reflecting on how becoming a father to Ryan and Kiera had permanently dissolved feelings of inner emptiness, replacing them with enduring purpose. On the car ride home, Andy and Andrea reflected warmly on the encounter, celebrating how meeting vulnerability with an open heart transforms family relationships and reaffirms fundamental goodness.
+Meeting Hayk in person in an atmosphere saturated with genuine love, acceptance, and compassion broke through previous emotional walls, forging an immediate and heartfelt bond. Kiera shared her dramatic labor journey—waking before dawn with cramps she initially attributed to bad food, enduring regular contractions with steady composure until hospital staff confirmed full dilation. Andy took immense joy in holding newborn Gago next to his heart, helping him burp, and reflecting on how becoming a father to Ryan and Kiera had permanently dissolved feelings of inner emptiness, replacing them with enduring purpose. On the car ride home, Andy and Andrea reflected warmly on the encounter, celebrating how meeting vulnerability with an open heart transforms family relationships and reaffirms fundamental goodness.
 
 ---
 
@@ -305,7 +305,7 @@ Meeting Hike in person in an atmosphere saturated with genuine love, acceptance,
 ## 🧘 Spiritual and Societal Insights
 
 ### 1. Dissolving Family Armor Through Compassionate Presence (*Karuṇā & Mettā*)
-- **Core Observation**: Meeting Kiera's boyfriend Hike in an open, loving, and completely welcoming spirit immediately dissolved old barriers and hesitations that caution or intellectual analysis could never resolve.
+- **Core Observation**: Meeting Kiera's boyfriend Hayk in an open, loving, and completely welcoming spirit immediately dissolved old barriers and hesitations that caution or intellectual analysis could never resolve.
 - **Systemic / Psychological Context**: Within family systems, history and guardedness often construct subtle defensive armor. When we step forward without defensiveness, meeting vulnerability with genuine warmth and goodwill, the need for protective armor evaporates naturally.
 - **Practical Application**: In tender family moments, we can intentionally lead with an open heart and caring presence. Compassion creates an immediate safe harbor, allowing relationships to heal and blossom across generations.
 
@@ -333,8 +333,8 @@ Meeting Hike in person in an atmosphere saturated with genuine love, acceptance,
 - **Reaffirming the Goodness**: Anchoring in relational trust to work through communication misunderstandings rather than retreating into defensiveness.
 
 ### Notable Names Mentioned
-- **Kiera & Hike**: Stepdaughter and boyfriend, proud new parents welcoming baby Gago.
-- **Baby Gago**: Newborn boy born October 23, 2026 at 1:00 PM at Queen of the Valley Hospital in Napa.
+- **Kiera & Hayk**: Stepdaughter and boyfriend, proud new parents welcoming baby Gago.
+- **Baby Gago**: Kiera's new baby boy (short name; born October 23, 2026 at 1:00 PM at Queen of the Valley Hospital in Napa; full name to follow).
 - **Katie**: Andy's ex-wife and mother of Kiera, Ryan, and stepson Duncan (married to Julia).
 - **Ryan**: Daughter present during the family celebration.
 - **Andrea Axtell**: Wife, traveling companion, and supportive presence throughout the hospital visit.
@@ -344,11 +344,11 @@ Meeting Hike in person in an atmosphere saturated with genuine love, acceptance,
 
 ## 📚 Stories & Case Examples Shared
 
-### Welcoming Baby Gago & The Breakthrough with Hike
+### Welcoming Baby Gago & The Breakthrough with Hayk
 * **Narrative Context**: Evening visit to the maternity ward at Queen of the Valley Hospital in Napa on Saturday, October 24.
 * **The Key Passage (Verbatim):**
   > "[7:05 PM] Andy: I didn't have much purpose in my life... I felt like there was a hole. And then when Ryan came, all of a sudden the world was bigger than just me. It made me feel really good, and I love being a dad."
-* **The Human / Contemplative Tension**: Navigating long-held family histories, previous distance, and the vulnerability of meeting Kiera's boyfriend Hike in an open hospital setting.
+* **The Human / Contemplative Tension**: Navigating long-held family histories, previous distance, and the vulnerability of meeting Kiera's boyfriend Hayk in an open hospital setting.
 * **The Turning Point / Realization**: Stepping through the hospital door with complete compassion and love, which immediately broke down all barriers, creating mutual respect, natural affection, and deep relief.
 * **Universal Truth / Teaching**: Love and genuine warmth dissolve relational armor far more powerfully than cautious distance; welcoming new life connects us to the universal stream of care.
 
@@ -363,7 +363,7 @@ Meeting Hike in person in an atmosphere saturated with genuine love, acceptance,
 ## 🧠 Physical & Mental Challenges
 | Category | Description |
 | :--- | :--- |
-| **Relational / Emotional** | Opening the heart with complete vulnerability to meet family and boyfriend Hike, dissolving past hesitations. |
+| **Relational / Emotional** | Opening the heart with complete vulnerability to meet family and boyfriend Hayk, dissolving past hesitations. |
 | **Environmental / Physical** | Navigating high-water concerns, analyzing tide data, and planning safe parking for upcoming King Tides. |
 | **Technical / Operational** | Refining workflow automation sequences to ensure daily report synthesis executes reliably unattended. |
 
@@ -371,7 +371,6 @@ Meeting Hike in person in an atmosphere saturated with genuine love, acceptance,
 
 ## 📻 Miscellaneous Media & References Encountered
 ### Film, Video & TV Shows
-- **The Terminal List (Season 2)**: Action and military thriller series streamed during evening downtime (strictly segregated from personal speech).
 - **Kaiju & Monster Archetypes**: Playful conversational passing reference to cinematic giant creatures (*cajou / kaiju*).
 
 ### Music & Audio
